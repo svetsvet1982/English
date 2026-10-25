@@ -14,8 +14,8 @@
 
 ## 대본
 
-001. ETHAN: Hannah? It's one in the morning. The doorman downstairs told me you've been up here since Tuesday, and honestly, he sounded worried about you.
-    이선: 해나? 새벽 한 시야. 아래층 경비원 말이 너 화요일부터 여기 있었다던데, 솔직히 너 걱정하는 눈치더라.
+001. ETHAN: Hannah? It's one in the morning. The doorman downstairs told me you've been up here since Tuesday, and honestly, he sounded worried about you. Are you okay?
+    이선: 해나? 새벽 한 시야. 아래층 경비원 말이 너 화요일부터 여기 있었다던데, 솔직히 너 걱정하는 눈치더라. 괜찮아?
 
 002. HANNAH: Wednesday. I went home Tuesday to shower. Did you bring coffee?
     해나: 수요일부터야. 화요일엔 샤워하러 집에 갔었어. 커피 가져왔어?
@@ -26,8 +26,8 @@
 004. HANNAH: SPK. You remembered. Okay, I might cry, but it's the sleep deprivation.
     해나: SPK. 기억했네. 아, 울 것 같은데, 잠을 못 자서 그런 거야.
 
-005. ETHAN: Sal says hi, by the way. He asked me when we're coming back to the neighborhood, and I honestly didn't know what to tell him.
-    이선: 그나저나 샐이 안부 전하래. 우리 언제 동네로 돌아오냐고 묻는데, 솔직히 뭐라고 해야 할지 모르겠더라.
+005. ETHAN: Sal says hi, by the way. He asked me when we're coming back to the neighborhood, and I honestly didn't know what to tell him, so I just ordered.
+    이선: 그나저나 샐이 안부 전하래. 우리 언제 동네로 돌아오냐고 묻는데, 솔직히 뭐라고 해야 할지 몰라서 그냥 주문만 했어.
 
 006. HANNAH: Tell him soon. Now sit down, because I found it.
     해나: 곧이라고 해. 이제 앉아. 찾았거든.
@@ -53,17 +53,17 @@
 013. HANNAH: "...the Company may repurchase all Investor shares at the original price within thirty days."
     해나: "…회사는 30일 이내에 투자자 지분 전부를 최초 매입가로 재매입할 수 있다."
 
-014. ETHAN: Wait. Read that again, slowly this time, and use small words. I'm a booker, not a lawyer.
-    이선: 잠깐. 다시 읽어 줘. 이번엔 천천히, 쉬운 말로. 난 부커지 변호사가 아니야.
+014. ETHAN: Wait. Read that again. Slowly. I'm a booker, not a lawyer.
+    이선: 잠깐. 다시 읽어 줘. 천천히. 난 부커지 변호사가 아니야.
 
-015. HANNAH: It means that if they shrink your job without asking you first, we can buy them out — at exactly the same price they paid.
-    해나: 저쪽이 오빠한테 먼저 묻지도 않고 오빠 일을 줄이면, 우리가 저쪽 지분을 사들일 수 있다는 뜻이야. 저쪽이 낸 가격 그대로.
+015. HANNAH: It means that if they shrink your job without asking you first, we can buy them out — at exactly the same price they paid. Not a penny more.
+    해나: 저쪽이 오빠한테 먼저 묻지도 않고 오빠 일을 줄이면, 우리가 저쪽 지분을 사들일 수 있다는 뜻이야. 저쪽이 낸 가격 그대로. 한 푼도 더 안 주고.
 
-016. ETHAN: But why would Kessler put something like that in their own contract? It makes no sense.
-    이선: 근데 케슬러가 왜 자기 계약서에 그런 걸 넣었겠어? 말이 안 되잖아.
+016. ETHAN: Why would Kessler put that in their own contract?
+    이선: 케슬러가 왜 자기 계약서에 그런 걸 넣었겠어?
 
-017. HANNAH: Because their lawyers used a template, a founder-friendly one from 2019, and somebody forgot to delete that paragraph before they sent it over to us.
-    해나: 저쪽 변호사들이 템플릿을 썼거든. 2019년 창업자 친화형으로. 그런데 우리한테 보내기 전에 누가 그 단락을 지우는 걸 깜빡한 거지.
+017. HANNAH: Because their lawyers used a template, a founder-friendly one from 2019, and somebody forgot to delete that paragraph before they sent it over to us. It happens.
+    해나: 저쪽 변호사들이 템플릿을 썼거든. 2019년 창업자 친화형으로. 그런데 우리한테 보내기 전에 누가 그 단락을 지우는 걸 깜빡한 거지. 그런 일 있어.
 
 018. ETHAN: They forgot. A firm with fifty lawyers forgot one paragraph.
     이선: 깜빡했다고. 변호사 50명 있는 로펌이 한 단락을 깜빡했다고.
@@ -77,8 +77,8 @@
 021. HANNAH: You'd go from CEO to regional manager, with no board seat and no name on the door. Any judge in New York would call that material.
     해나: CEO에서 지역 관리자로 가는 거야. 이사회 의석도 없고 문패에 이름도 없이. 뉴욕 판사라면 누구든 그걸 실질적이라고 할걸.
 
-022. ETHAN: But nothing's final yet, right? The vote isn't until May twenty-eighth, so technically they haven't done anything.
-    이선: 근데 아직 확정된 건 없잖아? 표결은 5월 28일이니까 엄밀히 말하면 저쪽은 아직 아무것도 안 한 거고.
+022. ETHAN: But nothing's final. The vote isn't until May twenty-eighth.
+    이선: 근데 확정된 건 없잖아. 표결은 5월 28일이야.
 
 023. HANNAH: Except Nate sent an all-staff email. "Exciting news," remember? He announced your new title to thirty people, in writing.
     해나: 근데 네이트가 전 직원 메일 보냈잖아. "기쁜 소식", 기억나? 오빠 새 직함을 서른 명한테 서면으로 발표했어.
@@ -95,11 +95,11 @@
 027. ETHAN: There's always a catch.
     이선: 함정은 항상 있지.
 
-028. HANNAH: We have thirty days from the date of the email, which takes us to May twenty-sixth. And the original price, Ethan, is two million dollars.
-    해나: 메일 날짜로부터 30일이니까 5월 26일까지야. 그리고 오빠, 최초 매입가가 200만 달러야.
+028. HANNAH: We have thirty days from the date of the email, which takes us to May twenty-sixth. And the original price, Ethan, is two million dollars, which we'd have to pay back in full.
+    해나: 메일 날짜로부터 30일이니까 5월 26일까지야. 그리고 오빠, 최초 매입가가 200만 달러야. 그걸 전액 돌려줘야 하고.
 
-029. ETHAN: Right, because the other million wasn't due for a year anyway. So we'd have to pay back two million.
-    이선: 맞아, 나머지 100만은 어차피 1년 뒤에나 들어올 돈이었으니까. 그러니까 200만을 돌려줘야 하는 거네.
+029. ETHAN: Right. The other million wasn't due for a year anyway. So two million.
+    이선: 맞아. 나머지 100만은 어차피 1년 뒤에나 들어올 돈이었으니까. 그러니까 200만.
 
 030. HANNAH: Do you have two million dollars, Ethan?
     해나: 오빠, 200만 달러 있어?
@@ -119,8 +119,8 @@
 035. RITA: The Kessler money that's still in our bank account right now comes to one million, one hundred fifty thousand.
     리타: 지금 우리 계좌에 아직 남아 있는 케슬러 돈은 115만 달러야.
 
-036. LEO: Wait, where did the rest of it go? We got two million in March, and it's only April.
-    레오: 잠깐, 나머진 다 어디 갔어요? 3월에 200만 받았는데 아직 4월이잖아요.
+036. LEO: Wait, where did the rest go? We got two million in March.
+    레오: 잠깐, 나머진 어디 갔어요? 3월에 200만 받았잖아요.
 
 037. RITA: It went into this office, honey: the deposit, the furniture, and that coffee machine that asks you questions before it gives you coffee.
     리타: 이 사무실에 들어갔지, 얘. 보증금, 가구, 그리고 커피 주기 전에 질문부터 하는 그 커피 기계.
@@ -128,8 +128,8 @@
 038. RITA: And Hale Digital — four hundred thousand for year one. Ring lights are not cheap, in case anybody was wondering.
     리타: 그리고 헤일 디지털. 첫해 예산 40만. 혹시 궁금한 사람 있을까 봐 말하는데, 링라이트는 안 싸.
 
-039. LEO: The ring lights were Nate's idea! I asked for one, and he went and bought twelve of them.
-    레오: 링라이트는 네이트 아이디어였어요! 전 하나 달라고 했는데, 그 사람이 가서 열두 개를 사 왔다고요.
+039. LEO: The ring lights were Nate's idea! I wanted one. He bought twelve.
+    레오: 링라이트는 네이트 아이디어였어요! 전 하나만 원했는데. 열두 개 샀다고요.
 
 040. RITA: But here's the good news: if we break this lease within ninety days of signing, we get two hundred fifty thousand of the deposit back. I checked twice.
     리타: 근데 좋은 소식도 있어. 계약하고 90일 안에 이 임대 계약 깨면 보증금 중에 25만 달러는 돌려받아. 두 번 확인했어.
@@ -137,8 +137,8 @@
 041. ETHAN: So one-point-one-five plus two-fifty. That's one million four.
     이선: 그러니까 115만 더하기 25만. 140만.
 
-042. RITA: So we're six hundred thousand short, and there's no way around it. Numbers don't lie, honey.
-    리타: 그러니까 60만이 모자라. 피해 갈 방법도 없고. 숫자는 거짓말 안 해, 얘.
+042. RITA: Six hundred thousand short. Numbers don't lie, honey.
+    리타: 60만 모자라. 숫자는 거짓말 안 해, 얘.
 
 043. LEO: Okay, ideas. What about crowdfunding? We put Walter's fax story on a page, call it "Save Hale," and let the internet do the rest.
     레오: 자, 아이디어. 크라우드펀딩 어때요? 사장님 팩스기 얘기를 페이지에 올리고 "헤일을 구해 주세요"라고 이름 붙인 다음, 나머진 인터넷이 하게 두는 거예요.
@@ -173,8 +173,8 @@
 053. NATE: Ethan! Hannah! Twice in one week. Are we doing dinner? I have a table at—
     네이트: 이선! 해나! 일주일에 두 번이나. 저녁 하는 거예요? 제가 예약해 둔 데가—
 
-054. ETHAN: No dinner this time, Nate. We're here to deliver a letter, and Hannah's going to explain it.
-    이선: 이번엔 저녁 말고요, 네이트. 편지 전달하러 왔어요. 해나가 설명할 거예요.
+054. ETHAN: No dinner, Nate. We're here to deliver a letter.
+    이선: 저녁 말고요, 네이트. 편지 전달하러 왔어요.
 
 055. HANNAH: This is formal notice that Hale Models is exercising its repurchase right under Section eleven-point-four of the investment agreement.
     해나: 헤일 모델스가 투자 계약서 11.4항에 따라 지분 재매입권을 행사한다는 공식 통지입니다.
@@ -191,11 +191,11 @@
 059. NATE: Huh. That's... that's a template paragraph. It's from an old founder-friendly draft, and it's definitely not supposed to be there.
     네이트: 허. 이건… 이건 템플릿 문단이잖아요. 옛날 창업자 친화형 초안에 있던 건데, 이게 여기 있으면 절대 안 되는데.
 
-060. HANNAH: And yet, there it is, Nate, with your signature on page thirty-one, right next to my brother's.
-    해나: 그런데도 거기 있네요, 네이트. 31페이지에 당신 서명이랑 같이. 우리 오빠 서명 바로 옆에.
+060. HANNAH: And yet, there it is. With your signature on page thirty-one.
+    해나: 그런데도 거기 있네요. 31페이지에 당신 서명이랑 같이.
 
-061. NATE: You do understand that buying us out means paying back two million dollars, in cash, within thirty days?
-    네이트: 우릴 사들이려면 30일 안에 200만 달러를 현금으로 돌려줘야 한다는 거, 알긴 알죠?
+061. NATE: You understand that buying us out means two million dollars. In thirty days.
+    네이트: 우릴 사들이려면 200만 달러라는 거 알죠. 30일 안에.
 
 062. ETHAN: We understand.
     이선: 압니다.
@@ -224,8 +224,8 @@
 070. NATE: Your father had a different market.
     네이트: 아버님 때는 시장이 달랐죠.
 
-071. ETHAN: Maybe. But I've got the same nerve he had, and it turns out that matters more than the market. See you on May twenty-sixth, Nate.
-    이선: 그럴지도요. 근데 배짱은 아빠랑 똑같거든요. 알고 보니 그게 시장보다 중요하더라고요. 5월 26일에 봬요, 네이트.
+071. ETHAN: Maybe. But I've got the same nerve he had, and it turns out that matters more than the market. See you on May twenty-sixth, Nate. Bring your lawyers.
+    이선: 그럴지도요. 근데 배짱은 아빠랑 똑같거든요. 알고 보니 그게 시장보다 중요하더라고요. 5월 26일에 봬요, 네이트. 변호사들도 데려오세요.
 
 072. NATE: When you come to your senses, let's talk scale.
     네이트: 정신 차리시면 그때 스케일 얘기 좀 하죠.
@@ -257,8 +257,8 @@
 081. MR. GOLDBERG: He figured it out? Took him long enough. Your move.
     골드버그: 알아챘다고? 오래도 걸렸군. 자네 차례야.
 
-082. ETHAN: Pawn to e4. Mr. Goldberg, can I ask about the loft? Did you rent it out after we left?
-    이선: 폰 e4. 골드버그 씨, 로프트 여쭤봐도 돼요? 저희 나간 뒤에 세 놓으셨어요?
+082. ETHAN: Pawn to e4. Mr. Goldberg, the loft. Did you rent it out after we left?
+    이선: 폰 e4. 골드버그 씨, 로프트요. 저희 나간 뒤에 세 놓으셨어요?
 
 083. MR. GOLDBERG: Three people wanted it: a tech company, a yoga studio, and a man who makes candles that smell like wet wood.
     골드버그: 세 사람이 원했지. 테크 회사, 요가 스튜디오, 그리고 젖은 나무 냄새 나는 양초 만드는 사내.
@@ -272,8 +272,8 @@
 086. ETHAN: So you kept it empty for months, on purpose, when you could have been making money. Why would you do that?
     이선: 그러니까 돈 벌 수 있었는데 일부러 몇 달이나 비워 두셨네요. 왜 그러셨어요?
 
-087. MR. GOLDBERG: I'm seventy-four years old. I've seen a lot of people leave this building over the years, and you know what? Most of them come back.
-    골드버그: 난 일흔넷이야. 그동안 이 건물에서 떠나는 사람을 많이 봤지. 근데 그거 아나? 대부분 돌아와.
+087. MR. GOLDBERG: I'm seventy-four years old. I've seen a lot of people leave this building over the years, and you know what? Most of them come back, sooner or later.
+    골드버그: 난 일흔넷이야. 그동안 이 건물에서 떠나는 사람을 많이 봤지. 근데 그거 아나? 대부분 돌아와, 조만간.
 
 088. MR. GOLDBERG: Check, by the way.
     골드버그: 그건 그렇고, 체크.
@@ -323,14 +323,14 @@
 103. ETHAN: I didn't know that.
     이선: 그건 몰랐어요.
 
-104. MR. GOLDBERG: You don't know a lot of things. That's fine — you're young. Now, I have three conditions.
-    골드버그: 자넨 모르는 게 많아. 괜찮아, 젊으니까. 자, 조건이 세 가지 있네.
+104. MR. GOLDBERG: You don't know a lot of things. You're young. Three conditions.
+    골드버그: 자넨 모르는 게 많아. 젊으니까. 조건이 세 가지 있네.
 
 105. ETHAN: Okay. Anything.
     이선: 네. 뭐든지요.
 
-106. MR. GOLDBERG: Never say "anything" to a landlord. One: you come back to the loft, with a ten-year lease, at the old rent. Not a dollar more.
-    골드버그: 집주인한테 "뭐든지"라고 하지 말게. 하나. 로프트로 돌아와. 10년 임대로, 옛날 월세 그대로. 1달러도 더 안 받아.
+106. MR. GOLDBERG: Never say "anything" to a landlord. One: you come back to the loft, with a ten-year lease, at the old rent. Not a dollar more, and not a day less.
+    골드버그: 집주인한테 "뭐든지"라고 하지 말게. 하나. 로프트로 돌아와. 10년 임대로, 옛날 월세 그대로. 1달러도 더 안 받고, 하루도 덜 안 돼.
 
 107. ETHAN: Done. Rita will cry.
     이선: 그럴게요. 리타가 울 거예요.
@@ -341,8 +341,8 @@
 109. ETHAN: In six moves. Okay. And three?
     이선: 여섯 수 만에요. 알겠어요. 그럼 세 번째는요?
 
-110. MR. GOLDBERG: Three. The young woman, the one who always says "Noted." You bring her back, whatever it takes.
-    골드버그: 셋. 그 아가씨. 늘 "접수"라고 하는 아가씨. 무슨 수를 써서라도 다시 데려와.
+110. MR. GOLDBERG: Three. The young woman. The one who says "Noted." Bring her back.
+    골드버그: 셋. 그 아가씨. "접수"라고 하는 아가씨. 다시 데려와.
 
 111. ETHAN: Maya? How do you even know Maya?
     이선: 마야요? 마야를 어떻게 아세요?
@@ -353,11 +353,11 @@
 113. ETHAN: I've been calling her for two weeks straight, Mr. Goldberg. She doesn't pick up, and she doesn't call back.
     이선: 2주 내내 전화하고 있어요, 골드버그 씨. 안 받고, 다시 전화도 안 해요.
 
-114. MR. GOLDBERG: Then stop calling. Some apologies you have to deliver by hand, Ethan, like the rent. In an envelope, in person, looking her in the eye.
-    골드버그: 그럼 전화하지 마. 어떤 사과는 직접 들고 가야 하는 거야, 이선. 월세처럼. 봉투에 넣어서, 직접, 눈을 보면서.
+114. MR. GOLDBERG: Then stop calling. Some apologies you have to deliver by hand, Ethan, like the rent. In an envelope, in person, looking her right in the eye, the way your father did.
+    골드버그: 그럼 전화하지 마. 어떤 사과는 직접 들고 가야 하는 거야, 이선. 월세처럼. 봉투에 넣어서, 직접, 네 아버지가 그랬던 것처럼 눈을 똑바로 보면서.
 
-115. ETHAN: You gave my father three months' rent over a chess game in 1996, and now you're doing this. I don't know how to thank you.
-    이선: 1996년엔 체스 한 판으로 아빠한테 석 달 치 월세를 주시더니, 이번엔 이렇게까지 해 주시네요. 어떻게 감사드려야 할지 모르겠어요.
+115. ETHAN: You gave my father three months' rent over a chess game in 1996, and now you're doing this for me. Honestly, Mr. Goldberg, I don't know how to thank you.
+    이선: 1996년엔 체스 한 판으로 아빠한테 석 달 치 월세를 주시더니, 이번엔 저한테 이렇게까지 해 주시네요. 솔직히 골드버그 씨, 어떻게 감사드려야 할지 모르겠어요.
 
 116. MR. GOLDBERG: I don't lend money to people who win at chess. They don't need it.
     골드버그: 난 체스에서 이기는 사람한텐 돈 안 빌려줘. 그런 사람은 필요 없거든.
