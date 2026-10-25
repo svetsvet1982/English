@@ -387,7 +387,7 @@
 - **discharge** — 퇴원(시키다) / 퇴원 지시, 퇴원 라운지 (058, 059, 093)
 - **bottleneck** — 병목, 전체 속도를 제한하는 가장 좁은 단계 (061, 062)
 - **work one's butt off** — 죽어라 일하다 (063)
-- **It's not the people, it's the process.** — 사람이 아니라 프로세스가 문제다 (064, 070, 107)
+- **It's not the people, it's the process.** — 사람이 아니라 프로세스가 문제다 (070, 107)
 - **throughput** — 처리량. 시스템이 일정 시간에 소화하는 양 (094, 096)
 - **pilot** — 시범 운영(하다) (100, 110)
 - **word for word** — 토씨 하나 안 틀리고, 그대로 (116)

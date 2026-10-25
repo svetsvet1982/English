@@ -309,8 +309,8 @@
 098. CONRAD: I'll take it to my board Thursday. As long as Tanya calls me first next time.
     콘래드: 목요일에 이사회에 올리죠. 다음번엔 타냐가 먼저 전화한다는 조건으로요.
 
-099. OWEN: And Brandt and Liu will help them set up the new accounts. No charge.
-    오언: 그리고 브랜트 앤 리우가 새 계좌 정리하는 걸 돕겠습니다. 무료로요.
+099. OWEN: And for what it's worth, we'll help them set up the new accounts. No charge.
+    오언: 그리고 덧붙이자면, 새 계좌 정리하는 건 저희가 돕겠습니다. 무료로요.
 
 100. GRACE: We will?
     그레이스: 우리가?
