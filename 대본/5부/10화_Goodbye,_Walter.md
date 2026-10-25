@@ -387,7 +387,7 @@
 - **the last of the real ones** — 진짜배기 중 마지막 사람 / "he was the last of the real ones." (077)
 - **take the time you need** — 필요한 만큼 시간을 가져 / "Take the time you need." (079)
 - **go be someone's son** — 가서 ~의 아들 노릇을 해 / "You go be his son." (089)
-- **cross off** — (목록에서) 지우다, 줄을 긋다 / "He crossed it off, didn't he?" (011), "Everything's crossed off." (011, 111)
+- **cross off** — (목록에서) 지우다, 줄을 긋다 / "He crossed it off, didn't he?" (011), "Everything's crossed off." (111)
 
 ## 다음 화 예고 (낭독하지 않음)
 
