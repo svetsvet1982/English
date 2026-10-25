@@ -14,20 +14,20 @@
 
 ## 대본
 
-001. RITA: Okay. The closet. Behind the Christmas lights, there are twelve boxes of Walter's old papers. Nobody sneezes on them.
-    리타: 자. 벽장이야. 크리스마스 전구 뒤에 월터 옛날 서류 상자가 열두 개 있어. 아무도 거기다 재채기하지 마.
+001. RITA: Okay. The closet. Twelve boxes of Walter's papers. Nobody sneezes.
+    리타: 자. 벽장이야. 월터 서류 상자 열두 개. 아무도 재채기하지 마.
 
 002. LEO: My mug has its own desk now.
     레오: 제 머그는 이제 자기 책상도 있어요.
 
-003. ETHAN: Rita, we're looking for 1994. Dad didn't even have Hale yet. Why would anything from '94 be in this closet?
-    이선: 리타, 우리 1994년 걸 찾는 거예요. 아빠는 그때 Hale도 없었어요. 94년 물건이 왜 이 벽장에 있겠어요?
+003. ETHAN: Rita, we need 1994. Dad didn't even have Hale yet.
+    이선: 리타, 1994년 게 필요해요. 아빠는 그때 Hale도 없었는데.
 
 004. RITA: Because your father never threw anything away. Receipts, napkins, a parking ticket from 1988 that he was still fighting in 2010.
     리타: 너희 아버지는 아무것도 안 버렸으니까. 영수증, 냅킨, 2010년까지도 싸우고 있던 1988년 주차 딱지까지.
 
-005. MAYA: Madame Fournier said we'd hear the story when we deserve it. I'd like to deserve it before Friday.
-    마야: 푸르니에 부인이 자격이 생기면 그 얘기를 듣게 될 거라고 하셨잖아요. 금요일 전에 자격이 생겼으면 좋겠어요.
+005. MAYA: She said we'd hear the story when we deserve it.
+    마야: 그분이 자격이 생기면 그 얘기를 듣게 될 거라고 하셨어.
 
 006. LEO: Box seven! It says "Before."
     레오: 7번 상자! '이전'이라고 써 있어요.
@@ -35,8 +35,8 @@
 007. RITA: Before Hale. Walter's handwriting. Give it to me. ...Ay, look. His old business cards from the Park Avenue agency. He hated this logo.
     리타: Hale 이전이란 뜻이지. 월터 글씨야. 이리 줘. …아이고, 이것 좀 봐. 파크 애비뉴 에이전시 시절 명함이야. 이 로고 엄청 싫어했는데.
 
-008. ETHAN: There's a little black notebook. "1994." It's full of phone numbers and bad drawings of horses.
-    이선: 작은 검은 수첩이 있어요. '1994.' 전화번호랑 못 그린 말 그림으로 가득해요.
+008. ETHAN: A black notebook. "1994." Phone numbers and bad horses.
+    이선: 검은 수첩. '1994.' 전화번호랑 못 그린 말들.
 
 009. MAYA: Horses? You drew a horse once.
     마야: 말? 너도 말 그린 적 있잖아.
@@ -53,14 +53,14 @@
 013. RITA: "B"? Who's B?
     리타: 'B'? B가 누구야?
 
-014. ETHAN: I don't know. But I know Dad. If he underlined something three times, it cost him something.
-    이선: 몰라요. 근데 아빠는 알아요. 뭔가에 밑줄을 세 번 쳤다면, 그건 아빠한테 뭔가를 치르게 한 거예요.
+014. ETHAN: If Dad underlined something three times, it cost him.
+    이선: 아빠가 세 번 밑줄 쳤으면, 그건 대가를 치른 일이야.
 
 015. MAYA: Then we ask her. Friday.
     마야: 그럼 그분께 여쭤봐. 금요일에.
 
-016. MR. GOLDBERG: Knock, knock. Rita said if I didn't bring my letter before noon, she'd change the locks.
-    골드버그: 똑똑. 정오 전에 편지 안 가져오면 리타가 자물쇠를 바꿔 버린대서.
+016. MR. GOLDBERG: Knock, knock. Rita said bring the letter by noon, or else.
+    골드버그: 똑똑. 리타가 정오까지 편지 안 가져오면 각오하래서.
 
 017. RITA: I would, too. I have a guy.
     리타: 진짜 바꿔. 아는 사람 있어.
@@ -170,20 +170,20 @@
 052. MADAME FOURNIER: The soup needs salt. The reason doesn't. Thank you, Jules Mercer. Go home. Tomorrow, your people will hear the rest.
     푸르니에 부인: 수프는 소금이 필요하고, 이유는 필요 없어요. 고마워요, 줄스 머서. 집에 가요. 내일 당신 사람들이 나머지를 듣게 될 거예요.
 
-053. HELENE: Four o'clock. Exactly. Ethan, Maya, on the left. Monsieur Graves, on the right. Nobody touches Henri's chair.
-    엘렌: 4시. 정각. 이선, 마야는 왼쪽. 그레이브스 씨는 오른쪽. 아무도 앙리 의자에 손대지 마세요.
+053. HELENE: Four o'clock. Exactly. Left side, Hale. Right side, Monsieur Graves.
+    엘렌: 4시. 정각. 왼쪽은 Hale. 오른쪽은 그레이브스 씨.
 
-054. TUCKER: Afternoon, y'all. Madame, I brought you something. Not roses this time, I heard about that. Chocolates. From Texas.
-    터커: 다들 안녕하쇼. 부인, 뭘 좀 가져왔어요. 이번엔 장미 말고요, 얘기 들었거든. 초콜릿이에요. 텍사스산.
+054. TUCKER: Afternoon, y'all. No roses this time, ma'am. Chocolates. From Texas.
+    터커: 다들 안녕하쇼. 이번엔 장미 아니에요, 부인. 초콜릿. 텍사스산.
 
-055. MADAME FOURNIER: Thank you, Monsieur Graves. I'll give them to my concierge. He's getting fat on your gifts.
-    푸르니에 부인: 고마워요, 그레이브스 씨. 관리인한테 줄게요. 당신 선물 덕에 그 사람 살이 찌고 있어요.
+055. MADAME FOURNIER: Thank you. My concierge is getting fat on your gifts.
+    푸르니에 부인: 고마워요. 당신 선물 덕에 우리 관리인 살이 찌고 있어요.
 
 056. TUCKER: Ha. Well. Let's get to it, ma'am. Six million euros, cash, wired in thirty days. That's three times what those shares are worth, and everybody in this room knows it.
     터커: 하하. 자. 본론으로 가죠, 부인. 600만 유로, 현금, 30일 안에 송금. 그 지분 가치의 세 배예요. 이 방 사람들 다 알고 있고.
 
-057. MADAME FOURNIER: Everybody in this room can count, Monsieur Graves. Madame Okafor? Your play. Written by hand, I hope.
-    푸르니에 부인: 이 방 사람들은 다 숫자를 셀 줄 알아요, 그레이브스 씨. 오카포 부인? 당신 작전. 손으로 써 왔길 바라요.
+057. MADAME FOURNIER: We can all count, Monsieur Graves. Madame Okafor? Your play.
+    푸르니에 부인: 우린 다 숫자 셀 줄 알아요, 그레이브스 씨. 오카포 부인? 당신 작전.
 
 058. MAYA: By hand. Eleven pages. Two mistakes.
     마야: 손으로요. 11페이지. 실수는 두 개.
@@ -305,8 +305,8 @@
 097. MADAME FOURNIER: Cry in the kitchen, Margaux. And put some salt in that soup.
     푸르니에 부인: 부엌에 가서 울어요, 마고. 그리고 그 수프에 소금 좀 넣고.
 
-098. MAYA: The Île Saint-Louis at night. It's beautiful. And I'm so tired I could sleep standing up.
-    마야: 밤의 생루이섬. 아름답다. 그리고 나 너무 피곤해서 서서도 잘 수 있겠어.
+098. MAYA: The Île Saint-Louis at night. I could sleep standing up.
+    마야: 밤의 생루이섬. 서서도 잘 수 있겠어.
 
 099. ETHAN: You did that, Maya. Not me. The play was yours, the handwriting was yours, and the tea was yours.
     이선: 네가 해낸 거야, 마야. 내가 아니라. 작전도 네 거, 손글씨도 네 거, 차 모임도 네 거였어.
@@ -320,8 +320,8 @@
 102. MAYA: Let's call New York. Rita will kill us if Leo posts it first.
     마야: 뉴욕에 전화하자. 레오가 먼저 올리면 리타가 우릴 죽일 거야.
 
-103. LEO: I didn't post it! I wanted to! Low-key, I put my phone in the freezer so I wouldn't.
-    레오: 안 올렸어요! 올리고 싶었는데! 은근 안 올리려고 폰을 냉동실에 넣어 놨어요.
+103. LEO: I didn't post it! I put my phone in the freezer!
+    레오: 안 올렸어요! 폰을 냉동실에 넣어 놨어요!
 
 104. RITA: Leo, take your phone out of the freezer. So? Tell me. Numbers.
     리타: 레오, 냉동실에서 폰 꺼내. 그래서? 말해 봐. 숫자로.
