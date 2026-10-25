@@ -1,0 +1,396 @@
+# THE BOOK — 5부 12화
+
+## The Answer (대답)
+
+> **표기 전용 정보 (낭독하지 않음)**
+> - 부/화: 5부 12화 · 서사 기능: 결단 — 독립 유지와 동등한 협력
+> - 배경: 월요일 오전 8시 40분 Hale Models 사무실(마야와 단둘) → 오전 9시 보드 앞 전체 회의 → 오후 스프링 스트리트 Vanta 본사 → 저녁 사무실, 파리 화상회의. 2027년 10월 중순(클레어의 기한 직전)
+> - 등장인물: Ethan, Maya, Rita, Leo, Kai, Tessa, Sasha, Hannah, Claire, Hélène(화상), Jules(화상)
+> - 난이도: B1–B2 · 턴 수: 120
+> - 이번 화의 핵심 표현: "hear it first", "bottom line", "walk away from", "gut (a company)", "counteroffer", "on equal terms", "take turns", "deal memo"
+> - 복선/연결: 5부 11화 "월요일 9시, 보드 앞"에서 이어짐 · 마야의 조건 3번(파리는 함께 결정)·5번(떠나면 먼저 말하기) 이행 · 5부 7화 월터의 "don't let anybody else hold your pen" · 1부 1화 엘렌의 "1년 파리 상주" 조건에 대한 대답 · 2009년 월터의 거절 · 서명은 30주년 파티로 → 5부 13·14화
+
+---
+
+## 대본
+
+001. MAYA: It's eight-forty. You said nine. Why am I here at eight-forty?
+    마야: 8시 40분이야. 9시라며. 내가 왜 8시 40분에 여기 있는 건데?
+
+002. ETHAN: Condition number five. You hear it first. Here. Coffee from Sal's. Not Rita's.
+    이선: 조건 5번. 네가 제일 먼저 듣는 거. 자. 샐네 커피. 리타 커피 아니고.
+
+003. MAYA: Okay. Now I'm scared. You bought me coffee. Just say it.
+    마야: 좋아. 이제 무섭다. 네가 커피를 샀어. 그냥 말해.
+
+004. ETHAN: I'm not signing with Claire. And I'm not moving to Paris.
+    이선: 클레어랑 계약 안 해. 그리고 파리로도 안 가.
+
+005. MAYA: ...Both?
+    마야: …둘 다?
+
+006. ETHAN: Both. But I'm not saying no to Hélène. I'm saying yes. Differently.
+    이선: 둘 다. 근데 엘렌한테 거절하는 건 아니야. 승낙하는 거야. 다른 방식으로.
+
+007. MAYA: Differently how?
+    마야: 어떻게 다르게?
+
+008. ETHAN: That's the part we decide together. Condition number three. Paris is decided together.
+    이선: 그건 우리가 같이 정하는 부분이야. 조건 3번. 파리는 같이 결정한다.
+
+009. MAYA: You actually read my conditions.
+    마야: 너 내 조건 진짜로 읽었구나.
+
+010. ETHAN: I read them every night. They're on my fridge. Nora thinks it's a love letter.
+    이선: 매일 밤 읽어. 우리 집 냉장고에 붙어 있어. 노라는 연애편지인 줄 알아.
+
+011. MAYA: What changed? Two weeks ago, you had "Hale-Vanta" on a legal pad.
+    마야: 뭐가 바뀐 건데? 2주 전만 해도 노란 메모지에 'Hale-Vanta' 써 놨잖아.
+
+012. ETHAN: At Coney Island, Dad said, "Don't let anybody else hold your pen."
+    이선: 코니아일랜드에서 아빠가 그랬어. "네 펜을 다른 사람이 쥐게 하지 마라."
+
+013. ETHAN: With Claire, she holds the pen. In Paris for a year, Hélène holds it.
+    이선: 클레어랑 하면 펜은 클레어가 쥐어. 파리에 1년 가면 엘렌이 쥐고.
+
+014. MAYA: And here?
+    마야: 그럼 여기서는?
+
+015. ETHAN: Here, we hold it. You and me. Fifty-fifty on every hard decision.
+    이선: 여기서는 우리가 쥐지. 너랑 나. 어려운 결정은 전부 반반.
+
+016. MAYA: Noted. And the debt? Claire's deal cleared a million dollars, Ethan. Your apartment. Everything.
+    마야: 접수. 그럼 빚은? 클레어 딜이면 백만 달러가 없어지는 거였어, 이선. 네 아파트. 전부.
+
+017. ETHAN: I know. We pay it the slow way. Like Dad did in '96.
+    이선: 알아. 느린 방법으로 갚는 거지. 아빠가 96년에 그랬던 것처럼.
+
+018. MAYA: With a fax machine and nerve.
+    마야: 팩스 한 대랑 배짱으로.
+
+019. ETHAN: The fax machine's broken. So, mostly nerve.
+    이선: 팩스기는 고장 났으니까. 주로 배짱으로.
+
+020. RITA: Good morning! Why are you two whispering by the board? Is someone fired?
+    리타: 좋은 아침! 둘이 왜 보드 옆에서 속닥거려? 누구 잘렸어?
+
+021. MAYA: Nobody's fired, Rita. Get everyone. It's nine.
+    마야: 아무도 안 잘렸어요, 리타. 다들 불러 줘요. 9시예요.
+
+022. LEO: Everyone's here! Kai, Tessa, Sasha. And Hannah's on speaker from her office.
+    레오: 다 왔어요! 카이 형, 테사, 사샤. 그리고 해나는 사무실에서 스피커로 연결됐어요.
+
+023. HANNAH: I have a deposition at ten. Talk fast, big brother.
+    해나: 10시에 증언 녹취 있어. 빨리 말해, 오빠.
+
+024. ETHAN: Okay. Two answers. First, Claire. We're saying no to Hale-Vanta.
+    이선: 좋아. 대답 두 개. 첫째, 클레어. Hale-Vanta는 거절한다.
+
+025. KAI: Yo! Let's go!
+    카이: 요! 가자!
+
+026. SASHA: Darling, please. You should have said no in August. But fine. I'll applaud. Slowly.
+    사샤: 자기야, 제발. 8월에 거절했어야지. 근데 뭐. 박수 쳐 줄게. 천천히.
+
+027. RITA: Wait, wait. Numbers don't lie, honey. Without Claire, we still owe about a million.
+    리타: 잠깐, 잠깐. 숫자는 거짓말 안 해, 얘. 클레어 없으면 우리 아직 백만 달러쯤 빚이야.
+
+028. ETHAN: I know, Rita. What's the bottom line? Can we survive it?
+    이선: 알아요, 리타. 결론이 뭐예요? 버틸 수 있어요?
+
+029. RITA: If Leo's Second Book does what he says, and Kai keeps smiling on billboards... five years.
+    리타: 레오 세컨드 북이 말한 만큼 해 주고, 카이가 계속 전광판에서 웃어 주면… 5년.
+
+030. LEO: Four. I ran the numbers again last night. Low-key, I didn't sleep.
+    레오: 4년이요. 어젯밤에 다시 계산했어요. 은근 잠 못 잤어요.
+
+031. TESSA: Can I say something? I'm new. But I'm not nice, I'm reliable.
+    테사: 저 한마디 해도 돼요? 신입이긴 한데요. 전 착하진 않아도 믿을 만해요.
+
+032. MAYA: Go ahead, Tessa.
+    마야: 말해 봐, 테사.
+
+033. TESSA: I took a bus here because Jules said Hale doesn't sell people. Don't sell us.
+    테사: 줄스가 Hale은 사람을 팔지 않는다고 해서 버스 타고 왔어요. 저희 팔지 마세요.
+
+034. ETHAN: We're not selling anybody, Tessa. That's the whole answer.
+    이선: 아무도 안 팔아, 테사. 그게 대답의 전부야.
+
+035. HANNAH: As your lawyer— and your sister— good. Second answer? I have six minutes.
+    해나: 네 변호사로서, 그리고 동생으로서 말하는데, 잘했어. 두 번째 대답은? 6분 남았어.
+
+036. ETHAN: Paris. I'm not moving there for a year. But we want the partnership. On equal terms.
+    이선: 파리. 1년 동안 이사 가진 않아. 하지만 파트너십은 원해. 동등한 조건으로.
+
+037. MAYA: We take turns. One week a month in Paris. Ethan, then me. Then Ethan.
+    마야: 번갈아 가는 거야. 한 달에 일주일 파리. 이선, 그다음 나. 그다음 또 이선.
+
+038. RITA: You? In Paris? You've never been further than Montreal.
+    리타: 네가? 파리에? 몬트리올보다 멀리 가 본 적도 없잖아.
+
+039. MAYA: Exactly. It's my turn, Rita. I'm a partner. Partners get passports.
+    마야: 그러니까요. 이제 제 차례예요, 리타. 저 파트너잖아요. 파트너는 여권도 만들어요.
+
+040. HANNAH: Good. Both answers make sense. Now go tell Claire before she hears it from Instagram.
+    해나: 좋아. 대답 둘 다 말 돼. 이제 클레어가 인스타에서 듣기 전에 가서 말해.
+
+041. CLAIRE: Ethan. Maya. Welcome to Spring Street. Excuse the empty desks. We're "restructuring."
+    클레어: 이선. 마야. 스프링 스트리트에 온 걸 환영해. 빈 책상들은 이해해 줘. '구조 조정' 중이라.
+
+042. ETHAN: Thank you for seeing us, Claire.
+    이선: 시간 내 주셔서 고마워요, 클레어.
+
+043. CLAIRE: You brought your partner. So the answer is no. A yes comes alone.
+    클레어: 파트너를 데려왔네. 그럼 대답은 노구나. 예스는 혼자 오거든.
+
+044. MAYA: I'm here because nothing gets signed without me. Including a no.
+    마야: 제가 온 건 저 없이는 아무것도 서명 안 되니까요. 거절도 포함해서요.
+
+045. CLAIRE: How very Fair Book of you.
+    클레어: 참 페어 북스럽네.
+
+046. ETHAN: Claire, the answer is no. No merger. No Hale-Vanta.
+    이선: 클레어, 대답은 노예요. 합병 안 해요. Hale-Vanta는 없어요.
+
+047. CLAIRE: You understand what you're walking away from? The debt. Your apartment. Six major houses.
+    클레어: 네가 뭘 포기하는지 알아? 빚. 네 아파트. 메이저 하우스 여섯 곳.
+
+048. ETHAN: I understand. I did the math every night for six weeks.
+    이선: 알아요. 6주 동안 매일 밤 계산했어요.
+
+049. CLAIRE: And you understand what happens on Friday? Dallas buys Vanta. They'll gut it.
+    클레어: 그럼 금요일에 무슨 일이 생기는지도 알아? 댈러스가 Vanta를 사. 속을 다 파낼 거야.
+
+050. CLAIRE: They'll keep the top ten models and drop the other hundred. By email.
+    클레어: 톱 모델 열 명만 남기고 나머지 백 명은 잘라 버리겠지. 이메일로.
+
+051. MAYA: Then those hundred can call us. Fair Book terms. No buyout fee. No questions.
+    마야: 그럼 그 백 명은 저희한테 전화하면 돼요. 페어 북 조건으로. 위약금 없이. 묻지도 않고.
+
+052. CLAIRE: One by one. It takes years. I told you that in August.
+    클레어: 한 명씩. 그건 몇 년 걸려. 8월에 말했잖아.
+
+053. ETHAN: Then it takes years. Dad took thirty. We're not in a hurry.
+    이선: 그럼 몇 년 걸리는 거죠. 아빠는 30년 걸렸어요. 우린 급하지 않아요.
+
+054. CLAIRE: Your father. Do you know he said no to me once before? In 2009.
+    클레어: 네 아버지. 예전에 나한테 한 번 거절했던 거 알아? 2009년에.
+
+055. ETHAN: I know. You tried to buy Hale. He told me at Coney Island.
+    이선: 알아요. Hale을 사려고 하셨죠. 코니아일랜드에서 들었어요.
+
+056. CLAIRE: He hung up on me. Mid-sentence. I was offering him four million dollars.
+    클레어: 내 말 중간에 전화를 끊었어. 4백만 달러를 제안하던 중이었는데.
+
+057. ETHAN: That sounds right. I'm saying it nicer. But it's the same answer.
+    이선: 그럴 만하네요. 저는 좀 더 정중하게 말하는 거고요. 대답은 같아요.
+
+058. CLAIRE: It's not personal, Ethan. It's fashion. You should know that by now.
+    클레어: 사적인 감정 아니야, 이선. 패션일 뿐이지. 이제 알 때도 됐잖아.
+
+059. ETHAN: No, Claire. It was always personal. Every model is a person. That's the part you never got.
+    이선: 아니요, 클레어. 늘 사적인 거였어요. 모델 한 명 한 명이 사람이니까요. 그게 당신이 끝내 몰랐던 부분이에요.
+
+060. CLAIRE: ...That's a good line. Did you practice it?
+    클레어: …좋은 대사네. 연습했어?
+
+061. MAYA: On the subway. Twice. I heard him.
+    마야: 지하철에서요. 두 번이나. 제가 들었어요.
+
+062. CLAIRE: Of course he did. I trained him.
+    클레어: 당연히 그랬겠지. 내가 가르쳤으니까.
+
+063. ETHAN: Can I give you one piece of advice? Not as a competitor.
+    이선: 조언 하나 드려도 될까요? 경쟁자로서 말고요.
+
+064. CLAIRE: As what, then?
+    클레어: 그럼 뭐로서?
+
+065. ETHAN: As someone you trained. Don't let Dallas hold your pen either. Fight them.
+    이선: 당신이 가르친 사람으로서요. 당신 펜도 댈러스가 쥐게 두지 마세요. 싸우세요.
+
+066. ETHAN: We bought ourselves back from Kessler with nothing. You still have Milan and London.
+    이선: 우린 맨손으로 케슬러한테서 우리 회사를 되찾았어요. 당신한텐 아직 밀라노랑 런던이 있잖아요.
+
+067. CLAIRE: You're telling me to do what you did.
+    클레어: 너희가 한 걸 나더러 하라는 거네.
+
+068. ETHAN: I'm telling you to do what you taught me. Before you forgot it.
+    이선: 당신이 가르쳐 준 걸 하라는 거예요. 당신이 잊어버리기 전에 가르쳐 준 거요.
+
+069. CLAIRE: ...Get out of my office before I say something kind.
+    클레어: …내가 다정한 말 하기 전에 내 사무실에서 나가.
+
+070. MAYA: That's our cue.
+    마야: 우리 나갈 타이밍이네.
+
+071. CLAIRE: Ethan. Pay your models on time. Better than I did.
+    클레어: 이선. 모델들한테 제때 돈 줘. 나보다 잘.
+
+072. ETHAN: Thirty days. Always. It's in writing.
+    이선: 30일 안에. 언제나요. 계약서에 써 있어요.
+
+073. CLAIRE: And the party. Rita sent me an invitation. Was that a mistake?
+    클레어: 그리고 파티. 리타가 초대장을 보냈던데. 실수였니?
+
+074. MAYA: With Rita, nothing's a mistake.
+    마야: 리타한테 실수란 없어요.
+
+075. CLAIRE: Then maybe I'll come. Maybe. If the elevator works.
+    클레어: 그럼 갈지도 몰라. 어쩌면. 엘리베이터가 된다면.
+
+076. ETHAN: Define works.
+    이선: '된다'의 기준이 뭔데요?
+
+077. CLAIRE: Goodbye, Ethan. Goodbye, partner.
+    클레어: 잘 가, 이선. 잘 가요, 파트너 씨.
+
+078. MAYA: In the elevator. Are you okay?
+    마야: 엘리베이터 안이야. 너 괜찮아?
+
+079. ETHAN: I just said no to a million dollars and my old boss. I need a bagel.
+    이선: 방금 백만 달러랑 옛 상사를 거절했어. 베이글 먹어야겠다.
+
+080. MAYA: Bagel first. Then Paris. Hélène's call is at six.
+    마야: 베이글 먼저. 그다음 파리. 엘렌 통화는 6시야.
+
+081. HELENE: Bonsoir, New York. It's midnight here. This had better be worth it.
+    엘렌: 봉수아르, 뉴욕. 여긴 자정이에요. 그만한 가치가 있어야 할 텐데요.
+
+082. ETHAN: Hélène. Thank you for waiting. Two weeks became five. I'm sorry.
+    이선: 엘렌. 기다려 줘서 고마워요. 2주가 5주가 됐네요. 미안해요.
+
+083. HELENE: I heard about your father. I'm very sorry. I would have waited longer.
+    엘렌: 아버님 소식 들었어요. 정말 유감이에요. 더 오래라도 기다렸을 거예요.
+
+084. HELENE: Paris doesn't wait. But I do, sometimes. Don't tell anyone.
+    엘렌: 파리는 기다리지 않아요. 하지만 나는 가끔 기다리죠. 아무한테도 말하지 마요.
+
+085. ETHAN: Your secret's safe. Maya is here with me. As my partner.
+    이선: 비밀 지켜 드릴게요. 마야도 같이 있어요. 제 파트너로서요.
+
+086. HELENE: Congratulations, Maya. So. Will you come to Paris, Ethan? For one year?
+    엘렌: 축하해요, 마야. 그래서. 파리에 올 건가요, 이선? 1년 동안?
+
+087. ETHAN: No. I can't. And honestly, I don't think the partnership needs it.
+    이선: 아니요. 못 가요. 그리고 솔직히, 파트너십에 그게 꼭 필요하다고 생각 안 해요.
+
+088. HELENE: A partnership lives or dies in its first year. I told you that.
+    엘렌: 파트너십은 첫해에 살거나 죽어요. 말했잖아요.
+
+089. ETHAN: I agree. That's why I'm making a counteroffer. "One book, two cities." Your words.
+    이선: 동의해요. 그래서 역제안을 하는 거예요. '하나의 북, 두 도시.' 당신이 한 말이에요.
+
+090. ETHAN: Two equal cities. We're not your New York office. You're not our Paris office.
+    이선: 동등한 두 도시. 우리는 당신들의 뉴욕 지사가 아니고, 당신들은 우리의 파리 지사가 아니에요.
+
+091. MAYA: We take turns. One week every month, one of us is in Paris. Ethan or me.
+    마야: 번갈아 가요. 매달 일주일, 저희 중 한 명이 파리에 있어요. 이선이나 저나.
+
+092. MAYA: And one week every month, one of your bookers is here. At our board.
+    마야: 그리고 매달 일주일, 그쪽 부커 한 명이 여기 와요. 저희 보드 앞에.
+
+093. ETHAN: Fifty-fifty on every cross-booking. Fair Book terms on both sides. Paid in thirty days.
+    이선: 교차 예약은 전부 반반. 양쪽 모두 페어 북 조건. 30일 내 지급.
+
+094. HELENE: And the joint desk? Who builds it, if you're in New York?
+    엘렌: 그럼 공동 데스크는요? 당신이 뉴욕에 있으면 누가 만들죠?
+
+095. ETHAN: We build it together. Online, on planes, in two languages. Badly, at first.
+    이선: 같이 만들죠. 온라인으로, 비행기에서, 두 언어로. 처음엔 엉망이겠지만요.
+
+096. HELENE: Hmm. I don't love "badly."
+    엘렌: 흠. '엉망'이라는 말은 별로네요.
+
+097. JULES: Um, sorry. Can I say something? Inès said I could join the call.
+    줄스: 음, 죄송해요. 저 한마디 해도 돼요? 이네스가 통화에 들어가도 된대서요.
+
+098. HELENE: Jules. Of course. You're the reason we're talking.
+    엘렌: 줄스. 물론이죠. 우리가 이 얘기를 하는 게 당신 덕분인걸요.
+
+099. JULES: Inès has been amazing. She checks on me every day. She found me a real kitchen.
+    줄스: 이네스는 정말 최고예요. 매일 저 챙겨 줘요. 진짜 부엌 있는 집도 찾아 줬고요.
+
+100. JULES: But when I was crying at three a.m., I called New York. Not because Paris was bad.
+    줄스: 근데 새벽 3시에 울 때 저는 뉴욕에 전화했어요. 파리가 나빠서가 아니라요.
+
+101. JULES: Because New York is home base. If Ethan moves here, who's home base? Is that... normal to ask?
+    줄스: 뉴욕이 본거지니까요. 이선이 여기 오면 본거지는 누가 돼요? 이런 거 물어봐도… 정상이에요?
+
+102. HELENE: It's very normal, Jules. It's also very annoying, because you're right.
+    엘렌: 아주 정상이에요, 줄스. 그리고 아주 짜증 나죠, 당신 말이 맞으니까.
+
+103. HELENE: Okay. Equal partners. Rotating desk. Fifty-fifty. But I have one condition.
+    엘렌: 좋아요. 동등한 파트너. 순환 데스크. 반반. 하지만 조건이 하나 있어요.
+
+104. ETHAN: Of course you do.
+    이선: 그러실 줄 알았어요.
+
+105. HELENE: The first week, you both come. Together. Paris people need to see faces before they trust.
+    엘렌: 첫 주는 두 사람이 같이 와요. 함께. 파리 사람들은 얼굴을 봐야 믿거든요.
+
+106. MAYA: Both of us? In Paris? ...Noted. Very noted.
+    마야: 둘 다요? 파리에? …접수. 아주 확실히 접수.
+
+107. ETHAN: Deal. Send the new deal memo. Hannah will read every word. Twice.
+    이선: 좋아요. 새 딜 메모 보내 주세요. 해나가 한 글자도 빠짐없이 읽을 거예요. 두 번씩.
+
+108. HELENE: And when do we sign?
+    엘렌: 그럼 서명은 언제 하죠?
+
+109. ETHAN: At our thirtieth anniversary party. In two weeks. With my father's pen.
+    이선: 저희 30주년 파티에서요. 2주 뒤에요. 아버지 펜으로.
+
+110. HELENE: Thirtieth? Leo told me Hale started in 1996. That's thirty-one years.
+    엘렌: 30주년요? 레오 말로는 Hale이 1996년에 시작했다던데. 그럼 31년이잖아요.
+
+111. MAYA: We're a year late. Very on brand.
+    마야: 1년 늦었죠. 아주 우리답게.
+
+112. HELENE: Then I will come to New York. I want to see this famous board.
+    엘렌: 그럼 제가 뉴욕에 갈게요. 그 유명한 보드를 보고 싶어요.
+
+113. JULES: I'm coming too. Arlette gave me four days. I already bought the ticket.
+    줄스: 저도 가요. 아를레트가 나흘 줬어요. 벌써 표 샀어요.
+
+114. ETHAN: Jules, that's... You're coming home?
+    이선: 줄스, 그거… 집에 오는 거야?
+
+115. JULES: For four days. Don't tell Rita. I want to see her face.
+    줄스: 나흘 동안요. 리타한테는 말하지 마세요. 표정 보고 싶어요.
+
+116. HELENE: À bientôt, partners. Fix your Wi-Fi before I land.
+    엘렌: 곧 봐요, 파트너들. 내가 도착하기 전에 와이파이 좀 고쳐 놔요.
+
+117. MAYA: We did it. We actually did it. Both answers in one day.
+    마야: 해냈다. 진짜 해냈어. 하루에 대답 두 개.
+
+118. ETHAN: Dad would have done it in one phone call. And hung up mid-sentence.
+    이선: 아빠는 전화 한 통으로 끝냈겠지. 말 중간에 끊으면서.
+
+119. RITA: Excuse me. Did I just hear "Paris people" are coming to our party? In two weeks?
+    리타: 잠깐만. 방금 '파리 사람들'이 우리 파티에 온다고 했어? 2주 뒤에?
+
+120. RITA: We have four thousand dollars, a loft with no AC, and an elevator from 1961. Somebody call Morty!
+    리타: 우리한텐 4천 달러, 에어컨 없는 로프트, 1961년산 엘리베이터밖에 없어. 누가 모티한테 전화 좀 해!
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **hear it first** — (소식을) 제일 먼저 듣다 / "Condition number five. You hear it first." (002)
+- **bottom line** — 결론, 핵심 (재무상 최종 수치) / "What's the bottom line? Can we survive it?" (028)
+- **run the numbers** — 수치를 계산해 보다 / "I ran the numbers again last night." (030)
+- **on equal terms** — 동등한 조건으로 / "But we want the partnership. On equal terms." (036)
+- **take turns** — 번갈아 하다 / "We take turns. One week a month in Paris." (037, 091)
+- **walk away from** — ~을 포기하고 떠나다 / "You understand what you're walking away from?" (047)
+- **gut (a company)** — (회사의) 속을 다 파내다, 알맹이를 빼다 / "Dallas buys Vanta. They'll gut it." (049)
+- **hang up on someone** — ~의 전화를 일방적으로 끊다 / "He hung up on me. Mid-sentence." (056)
+- **That's our cue** — 우리가 나설(나갈) 타이밍이다 / "That's our cue." (070)
+- **counteroffer** — 역제안 / "That's why I'm making a counteroffer." (089)
+- **deal memo** — 거래 조건 요약서 / "Send the new deal memo." (107)
+- **on brand** — (브랜드·사람)답다 / "We're a year late. Very on brand." (111)
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 파티까지 열흘. 예산 4천 달러, 하객 200명, 파리에서 오는 손님, 그리고 또 멈춰 버린 화물 엘리베이터. 모두가 21번가 로프트로 돌아온다. (5부 13화 「Thirty Years (and One)」)
