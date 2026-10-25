@@ -44,8 +44,8 @@
 010. SAL: A new board? What happened to the old one? Walter's board?
     샐: 새 보드? 옛날 거는 어쩌고? 월터 보드?
 
-011. RITA: The old one is full, Sal. Eighty-four squares, eighty-four names. Ethan stood there on Saturday night and said we need a bigger board, so I bought one.
-    리타: 옛날 건 꽉 찼어, 샐. 84칸, 이름 84개. 이선이 토요일 밤에 거기 서서 더 큰 보드가 필요하다고 했잖아. 그래서 하나 샀지.
+011. RITA: The old one is full, Sal. Eighty-four squares. Ethan said we need a bigger board, so I bought one.
+    리타: 옛날 건 꽉 찼어, 샐. 84칸. 이선이 더 큰 보드가 필요하다고 해서 하나 샀지.
 
 012. ETHAN: I said it as a metaphor, Rita. A beautiful, emotional metaphor.
     이선: 그건 비유로 한 말이었어요, 리타. 아름답고 감동적인 비유.
@@ -68,8 +68,8 @@
 018. RITA: Me. Rita Salazar. Is it heavy?
     리타: 나. 리타 살라자르. 무거워요?
 
-019. RAY: It's a whiteboard, lady. It's not heavy, it's just long. The problem with long things is that they never fit where people want them. Where's your elevator?
-    레이: 화이트보드예요, 아주머니. 무거운 게 아니라 그냥 길어요. 긴 물건의 문제는 사람들이 원하는 데 절대 안 들어간다는 거죠. 엘리베이터 어디예요?
+019. RAY: It's a whiteboard, lady. It's not heavy, it's long. Long things never fit anywhere. Where's your elevator?
+    레이: 화이트보드예요, 아주머니. 무거운 게 아니라 길어요. 긴 건 어디에도 안 들어가요. 엘리베이터 어디예요?
 
 020. MR. GOLDBERG: Right here. And before you ask, yes. It's working. Since Saturday.
     골드버그: 바로 여기. 묻기 전에 말하는데, 그래. 돼. 토요일부터.
@@ -101,8 +101,8 @@
 029. TESSA: I said I'm not doing a team name.
     테사: 팀 이름 안 한다고 했잖아요.
 
-030. KAI: You don't have to say the name, Tessa. You just have to lift. Saying it is optional, but between you and me, it makes the stairs shorter.
-    카이: 이름은 말 안 해도 돼, 테사. 들기만 하면 돼. 말하는 건 선택인데, 우리끼리 얘긴데, 말하면 계단이 짧아져.
+030. KAI: You don't have to say it, Tessa. You just have to lift. But saying it makes the stairs shorter.
+    카이: 말 안 해도 돼, 테사. 들기만 하면 돼. 근데 말하면 계단이 짧아져.
 
 031. TESSA: Fine. I'll take the back end, since the back end is always heavier. Somebody has to be at the bottom of the stairs.
     테사: 알았어요. 제가 뒤쪽 들게요. 뒤쪽이 항상 더 무거우니까요. 누군가는 계단 아래쪽에 있어야죠.
@@ -137,8 +137,8 @@
 041. MR. GOLDBERG: That light is older than Leo. Go around it.
     골드버그: 그 전등은 레오보다 나이가 많아. 돌아서 가.
 
-042. KAI: Fourth floor! We made it, and nobody died! Yo, somebody give me a high five. Not Tessa, though, because last time she high-fived me, I couldn't feel my hand.
-    카이: 4층! 해냈다, 아무도 안 죽었어! 요, 누가 하이파이브 좀. 테사 말고. 지난번에 쟤랑 하이파이브했다가 손에 감각이 없었어.
+042. KAI: Fourth floor! Nobody died! Somebody give me a high five. Not Tessa, though. Last time, I couldn't feel my hand.
+    카이: 4층! 아무도 안 죽었어! 누가 하이파이브 좀. 테사 말고. 지난번에 손에 감각이 없었어.
 
 043. TESSA: I'm very gentle. With cows.
     테사: 저 아주 부드러워요. 소한테는.
@@ -194,8 +194,8 @@
 060. MAYA: Three copies. Leo, don't put it on Instagram.
     마야: 세 부. 레오, 인스타에 올리지 마.
 
-061. LEO: I wasn't going to put it on Instagram. I was going to put it on my story, which disappears in twenty-four hours. That's a completely different thing, legally.
-    레오: 인스타에 올리려던 거 아니에요. 스토리에 올리려던 거죠. 24시간이면 사라지는 거요. 법적으로 완전히 다른 거예요.
+061. LEO: I wasn't going to post it on Instagram. Just my story. It disappears in twenty-four hours. Totally different, legally.
+    레오: 인스타에 올리려던 거 아니에요. 스토리에만요. 24시간이면 사라져요. 법적으로 완전히 다르죠.
 
 062. MAYA: Here's the calendar for the Paris weeks. Ethan goes first, November eighth to the twelfth, so he has six days to learn French.
     마야: 이게 파리 주간 일정표야. 이선이 먼저 가. 11월 8일부터 12일까지. 그러니까 프랑스어 배울 시간이 6일 있어.
@@ -221,8 +221,8 @@
 069. MAYA: I'll tell her tonight. Item two. Lumière sends one of their people here every month, and in December, it isn't a booker. It's Hélène herself.
     마야: 오늘 밤에 말할 거야. 안건 2번. 뤼미에르는 매달 한 명씩 여기 보내는데, 12월엔 부커가 아니야. 엘렌 본인이 와.
 
-070. RITA: Hélène? At our board? For a whole week? I need to buy real cups, because I'm not serving a Parisian coffee in a mug that says "World's Best Grandpa."
-    리타: 엘렌이? 우리 보드 앞에? 일주일 내내? 진짜 컵 좀 사야겠다. 파리 사람한테 '세계 최고의 할아버지'라고 써 있는 머그에 커피를 줄 순 없잖아.
+070. RITA: Hélène? At our board? For a week? I need real cups. Not the mug that says "World's Best Grandpa."
+    리타: 엘렌이? 우리 보드 앞에? 일주일이나? 진짜 컵 사야겠다. '세계 최고의 할아버지' 머그 말고.
 
 071. MAYA: Item three. Money. Rita?
     마야: 안건 3번. 돈. 리타?
@@ -302,8 +302,8 @@
 096. ETHAN: How many boxes of books does one person need?
     이선: 한 사람한테 책 상자가 몇 개나 필요한 거야?
 
-097. NORA: Twenty-two. I counted them twice. I'm an editor, so it's basically a medical condition. Don't worry, half of them are going to the office.
-    노라: 스물두 개. 두 번 셌어. 난 에디터라서 이건 거의 병이야. 걱정 마, 반은 사무실로 갈 거야.
+097. NORA: Twenty-two. I counted twice. I'm an editor. It's a medical condition. Half of them go to the office.
+    노라: 스물두 개. 두 번 셌어. 난 에디터야. 이건 병이야. 반은 사무실로 갈 거야.
 
 098. ETHAN: Welcome home. Officially. November first. Your boxes came on time.
     이선: 집에 온 걸 환영해. 공식적으로. 11월 1일. 짐이 제때 왔네.
@@ -323,8 +323,8 @@
 103. NORA: What's your French like?
     노라: 프랑스어는 어때?
 
-104. ETHAN: I had a forty-seven-day streak on my language app. Then Dad died, and I just stopped opening it. The little green bird still sends me sad messages.
-    이선: 언어 앱에서 47일 연속 했었어. 그러다 아빠가 돌아가시고 그냥 안 열게 됐어. 그 작은 초록 새가 아직도 슬픈 메시지를 보내.
+104. ETHAN: I had a forty-seven-day streak on my language app. Then Dad died, and I stopped. The green bird still sends sad messages.
+    이선: 언어 앱에서 47일 연속 했었어. 그러다 아빠가 돌아가시고 그만뒀지. 초록 새가 아직도 슬픈 메시지를 보내.
 
 105. NORA: Then start again. Say something. Anything.
     노라: 그럼 다시 시작해. 뭐라도 말해 봐. 아무거나.

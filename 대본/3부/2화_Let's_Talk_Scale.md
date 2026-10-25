@@ -14,23 +14,23 @@
 
 ## 대본
 
-001. LEO: Okay, I did a deep dive on Nate Kessler. You want the short version or the scary version?
-    레오: 자, 네이트 케슬러 탈탈 털어 봤어요. 짧은 버전 들을래요, 무서운 버전 들을래요?
+001. LEO: Okay, I did a deep dive on Nate Kessler last night, and I mean deep, like page-eight-of-Google deep. You want the short version or the scary version?
+    레오: 자, 어젯밤에 네이트 케슬러 탈탈 털어 봤어요. 진짜 깊이요, 구글 8페이지까지 갈 정도로요. 짧은 버전 들을래요, 무서운 버전 들을래요?
 
 002. ETHAN: Is there a version that's both short and not scary?
     이선: 짧으면서 안 무서운 버전은 없어?
 
-003. LEO: No. Kessler Capital, founded twelve years ago. Forty-something companies. Fitness, sneakers, a meal kit thing.
-    레오: 없어요. 케슬러 캐피털, 12년 전 설립. 회사 마흔 몇 개. 피트니스, 운동화, 밀키트 같은 거.
+003. LEO: No. Kessler Capital, founded twelve years ago, with forty-something companies, most of which he bought when they were small and struggling. Fitness, sneakers, a meal kit thing.
+    레오: 없어요. 케슬러 캐피털, 12년 전 설립. 회사가 마흔 몇 개인데, 대부분 작고 허덕일 때 사들인 거예요. 피트니스, 운동화, 밀키트 같은 거.
 
 004. MAYA: Any agencies?
     마야: 에이전시도 있어?
 
-005. LEO: One talent company in L.A., I think. I couldn't find much on it. Very quiet website.
-    레오: L.A.에 탤런트 회사가 하나 있는 것 같아요. 정보가 별로 없어요. 홈페이지가 엄청 조용해요.
+005. LEO: One talent company in L.A., I think, but I couldn't find much on it. Very quiet website, which is weird for a guy who posts about everything.
+    레오: L.A.에 탤런트 회사가 하나 있는 것 같은데, 정보가 별로 없어요. 홈페이지가 엄청 조용해요. 뭐든 다 올리는 사람치고는 이상하죠.
 
-006. MAYA: So he's never run a modeling agency.
-    마야: 그러니까 모델 에이전시는 운영해 본 적이 없다는 거네.
+006. MAYA: So he's never actually run a modeling agency, not even for a year.
+    마야: 그러니까 모델 에이전시는 실제로 운영해 본 적이 없다는 거네. 1년도.
 
 007. LEO: He's never run anything without a growth chart. His LinkedIn says "Builder. Father. Scaler."
     레오: 성장 그래프 없는 건 운영해 본 적이 없어요. 링크드인 소개가 "빌더. 아버지. 스케일러."예요.
@@ -47,32 +47,32 @@
 011. ETHAN: Rita.
     이선: 리타.
 
-012. RITA: What? I'm just saying. Fast isn't always good.
-    리타: 뭐? 그냥 하는 말이야. 빠르다고 다 좋은 건 아니라고.
+012. RITA: What? I'm just saying. Fast isn't always good, and things that grow fast usually don't last long.
+    리타: 뭐? 그냥 하는 말이야. 빠르다고 다 좋은 건 아니고, 빨리 크는 건 대개 오래 못 가.
 
-013. MAYA: Why is he even interested in us? We lost our biggest client last month.
-    마야: 대체 왜 우리한테 관심이 있는 거예요? 지난달에 제일 큰 클라이언트를 잃었는데.
+013. MAYA: Why is he even interested in us? We lost our biggest client last month, and half the industry thinks we're crazy.
+    마야: 대체 왜 우리한테 관심이 있는 거예요? 지난달에 제일 큰 클라이언트를 잃었고, 업계 절반은 우리가 미쳤다고 생각하는데.
 
-014. ETHAN: Because of the article. He says we have "brand heat."
-    이선: 기사 때문이지. 우리한테 "브랜드 열기"가 있대.
+014. ETHAN: Because of the article. He says we have "brand heat," which I think means people are talking about us.
+    이선: 기사 때문이지. 우리한테 "브랜드 열기"가 있대. 내 생각엔 사람들이 우리 얘기를 한다는 뜻 같아.
 
 015. MAYA: Brand heat. Last week we were a dying agency. Now we're brand heat.
     마야: 브랜드 열기. 지난주엔 죽어 가는 에이전시였는데. 이젠 브랜드 열기래.
 
-016. LEO: Honestly, that's how the internet works. You're trash until you're iconic.
-    레오: 솔직히 인터넷이 원래 그래요. 레전드 되기 직전까진 쓰레기 취급이죠.
+016. LEO: Honestly, that's how the internet works. You're trash until you're iconic, and sometimes the switch happens overnight.
+    레오: 솔직히 인터넷이 원래 그래요. 레전드 되기 직전까진 쓰레기 취급이고, 그게 가끔 하룻밤 새 뒤집히죠.
 
 017. MAYA: I don't want to be iconic. I want to be paid on time.
     마야: 난 레전드 되기 싫어. 제때 돈 받고 싶을 뿐이야.
 
-018. ETHAN: That's why I'm going. It's lunch. I'll listen, eat his food, and come back.
-    이선: 그래서 가는 거야. 점심일 뿐이야. 듣고, 밥 얻어먹고, 돌아올게.
+018. ETHAN: That's why I'm going. It's lunch, Maya, not a wedding. I'll listen, eat his food, and come back before anything gets signed.
+    이선: 그래서 가는 거야. 점심이야, 마야, 결혼식이 아니라. 듣고, 밥 얻어먹고, 뭐 하나 서명하기 전에 돌아올게.
 
 019. MAYA: You're wearing the blue suit.
     마야: 파란 정장 입었네요.
 
-020. ETHAN: It's my only suit.
-    이선: 정장이 이거 하나뿐이야.
+020. ETHAN: It's my only suit, and it still fits, mostly.
+    이선: 정장이 이거 하나뿐이야. 아직 맞기도 하고, 대충은.
 
 021. MAYA: Exactly. You only wear it when you want something.
     마야: 그러니까요. 뭔가 원할 때만 입잖아요.
@@ -80,8 +80,8 @@
 022. ETHAN: I want payroll, Maya. That's all.
     이선: 월급 줄 돈을 원하지, 마야. 그게 다야.
 
-023. MAYA: Noted. Just don't fall in love at lunch.
-    마야: 접수. 점심 먹다가 사랑에 빠지지만 마세요.
+023. MAYA: Noted. Just don't fall in love at lunch, because guys like that are really good at making you feel special.
+    마야: 접수. 점심 먹다가 사랑에 빠지지만 마세요. 그런 사람들은 상대를 특별한 사람처럼 느끼게 하는 데 선수거든요.
 
 024. RITA: And take the stairs. The elevator stopped between three and four this morning with the mailman inside.
     리타: 그리고 계단으로 가. 오늘 아침에 엘리베이터가 3층이랑 4층 사이에서 우체부 태운 채로 멈췄어.
@@ -89,14 +89,14 @@
 025. ETHAN: Is he okay?
     이선: 그분 괜찮아요?
 
-026. RITA: He's fine. He's not happy, but he's fine.
-    리타: 괜찮아. 기분은 별로지만 괜찮아.
+026. RITA: He's fine. He's not happy, and he says he's not delivering to this building on Fridays anymore, but he's fine.
+    리타: 괜찮아. 기분은 별로고, 이제 금요일엔 이 건물 배달 안 하겠다고 하더라. 그래도 괜찮아.
 
 027. NATE: Ethan Hale. Finally. Come in, come in. Great view, right? That's New Jersey. Don't stare too long.
     네이트: 이선 헤일. 드디어 뵙네요. 들어오세요, 들어오세요. 전망 좋죠? 저기가 뉴저지예요. 너무 오래 보진 마시고요.
 
-028. ETHAN: Thanks for having me. I've never been this high up in Hudson Yards.
-    이선: 불러 주셔서 감사합니다. 허드슨 야드에서 이렇게 높이 올라온 건 처음이네요.
+028. ETHAN: Thanks for having me. I've lived in this city my whole life, and I've never been this high up in Hudson Yards.
+    이선: 불러 주셔서 감사합니다. 평생 이 도시에 살았는데, 허드슨 야드에서 이렇게 높이 올라온 건 처음이네요.
 
 029. NATE: Fifty-one floors. You get used to it. Then you want sixty. Sit. You eat sushi?
     네이트: 51층이죠. 금방 익숙해져요. 그다음엔 60층이 탐나죠. 앉으세요. 스시 드세요?
@@ -104,38 +104,38 @@
 030. ETHAN: I eat everything. I'm a booker. We eat whatever's left at the end of the shoot.
     이선: 다 먹어요. 부커잖아요. 촬영 끝나고 남은 건 뭐든 먹죠.
 
-031. NATE: Ha! I love that. That's the hustle. That's what I read in the article.
-    네이트: 하! 좋네요. 그게 바로 근성이죠. 기사에서 읽은 그대로네요.
+031. NATE: Ha! I love that. That's the hustle. That's exactly what I read in the article, and it's exactly why I emailed you at ten o'clock at night.
+    네이트: 하! 좋네요. 그게 바로 근성이죠. 기사에서 읽은 그대로예요. 그래서 제가 밤 10시에 이메일을 보낸 거고요.
 
-032. ETHAN: You read the whole thing?
-    이선: 기사를 다 읽으셨어요?
+032. ETHAN: You read the whole thing? Most people stop after the headline.
+    이선: 기사를 다 읽으셨어요? 대부분 제목만 보고 마는데.
 
-033. NATE: Twice. My wife read it too. She cried a little. I didn't cry, but I took notes.
-    네이트: 두 번이요. 아내도 읽었어요. 좀 울더라고요. 전 안 울었지만 메모는 했죠.
+033. NATE: Twice. My wife read it too, and she cried a little at the part about the models. I didn't cry, but I took notes.
+    네이트: 두 번이요. 아내도 읽었는데, 모델들 얘기 나오는 부분에서 좀 울더라고요. 전 안 울었지만 메모는 했죠.
 
 034. ETHAN: What kind of notes?
     이선: 어떤 메모요?
 
-035. NATE: Here's what I saw. An agency with a name, a history, real talent, and no money.
-    네이트: 제가 본 건 이거예요. 이름 있고, 역사 있고, 진짜 인재 있는데, 돈은 없는 에이전시.
+035. NATE: Here's what I saw when I read it. An agency with a name, a history, real talent, and absolutely no money, which, to a guy like me, is an opportunity.
+    네이트: 읽으면서 제가 본 건 이거예요. 이름 있고, 역사 있고, 진짜 인재 있는데, 돈은 한 푼도 없는 에이전시. 저 같은 사람한텐 그게 기회죠.
 
-036. ETHAN: That's... accurate. Painful, but accurate.
-    이선: 그거… 정확하네요. 아프지만 정확해요.
+036. ETHAN: That's... accurate. Painful to hear out loud, but accurate.
+    이선: 그거… 정확하네요. 소리 내서 들으니 아프지만 정확해요.
 
-037. NATE: And a guy who walked away from his biggest client on principle. Do you know how rare that is?
-    네이트: 그리고 원칙 때문에 최대 고객을 박차고 나온 사람. 그게 얼마나 드문지 아세요?
+037. NATE: And a guy who walked away from his biggest client on principle, even though he knew exactly how much it would hurt. Do you know how rare that is?
+    네이트: 그리고 얼마나 아플지 뻔히 알면서도 원칙 때문에 최대 고객을 박차고 나온 사람. 그게 얼마나 드문지 아세요?
 
-038. ETHAN: Rare and expensive. That's what my office manager says.
-    이선: 드물고 비싸죠. 저희 사무장이 그러더라고요.
+038. ETHAN: Rare and expensive. That's what my office manager says, usually while she's holding a calculator.
+    이선: 드물고 비싸죠. 저희 사무장이 그러더라고요. 대개 계산기를 든 채로요.
 
-039. NATE: Rita Salazar. Twenty-seven years. I did my homework too.
-    네이트: 리타 살라자르. 27년 근속. 저도 숙제는 해 왔습니다.
+039. NATE: Rita Salazar, twenty-seven years with your father, and from what I hear, nobody gets a dollar past her. I did my homework too.
+    네이트: 리타 살라자르, 아버님 옆에서 27년. 듣자 하니 그분 몰래 1달러도 못 빠져나간다던데요. 저도 숙제는 해 왔습니다.
 
 040. ETHAN: You've been busy.
     이선: 바쁘셨네요.
 
-041. NATE: I'm always busy. So let me be direct, because your time matters. Let's talk scale.
-    네이트: 전 늘 바빠요. 그러니 단도직입적으로 가죠. 이선 씨 시간도 소중하니까요. 스케일 얘기 좀 하죠.
+041. NATE: I'm always busy. So let me be direct, because your time matters and so does mine. Let's talk scale.
+    네이트: 전 늘 바빠요. 그러니 단도직입적으로 가죠. 이선 씨 시간도 소중하고 제 시간도 소중하니까요. 스케일 얘기 좀 하죠.
 
 042. ETHAN: Okay. Let's talk scale.
     이선: 좋아요. 스케일 얘기 하죠.
@@ -143,20 +143,20 @@
 043. NATE: How many models on your board right now?
     네이트: 지금 보드에 모델이 몇 명이죠?
 
-044. ETHAN: Thirty-eight. Twelve of them are new faces from this year.
-    이선: 서른여덟 명이요. 그중 열두 명은 올해 들어온 신인이고요.
+044. ETHAN: Thirty-eight. Twelve of them are new faces we signed this year, and a couple of them are already working regularly.
+    이선: 서른여덟 명이요. 그중 열두 명은 올해 계약한 신인인데, 몇 명은 벌써 꾸준히 일하고 있어요.
 
-045. NATE: Vanta has six hundred. You're a boutique. Boutiques are cute. Boutiques don't survive.
-    네이트: 반타는 600명이에요. 헤일은 부티크죠. 부티크는 귀엽죠. 근데 부티크는 살아남지 못해요.
+045. NATE: Vanta has six hundred. You're a boutique. Boutiques are cute, and people love writing articles about them, but boutiques don't survive.
+    네이트: 반타는 600명이에요. 헤일은 부티크죠. 부티크는 귀엽고, 다들 부티크 기사 쓰는 걸 좋아하죠. 근데 부티크는 살아남지 못해요.
 
-046. ETHAN: We've survived since 1996.
-    이선: 저흰 1996년부터 살아남았는데요.
+046. ETHAN: We've survived since 1996, through a lot worse than this.
+    이선: 저흰 1996년부터 살아남았어요. 이것보다 훨씬 나쁜 일도 겪으면서요.
 
-047. NATE: Barely. Your dad's a legend, but legends don't make payroll. I can help with payroll.
-    네이트: 간신히요. 아버님은 전설이지만, 전설이 월급을 주진 않잖아요. 월급은 제가 도와드릴 수 있죠.
+047. NATE: Barely. Your dad's a legend, and I mean that, but legends don't make payroll. I can help with payroll.
+    네이트: 간신히요. 아버님은 전설이에요, 진심으로요. 근데 전설이 월급을 주진 않잖아요. 월급은 제가 도와드릴 수 있죠.
 
-048. ETHAN: How much help are we talking about?
-    이선: 얼마나 도와주신다는 거죠?
+048. ETHAN: Okay. How much help are we talking about, exactly?
+    이선: 좋아요. 정확히 얼마나 도와주신다는 거죠?
 
 049. NATE: Three million dollars.
     네이트: 300만 달러.
@@ -170,59 +170,59 @@
 052. ETHAN: In exchange for what?
     이선: 대가는요?
 
-053. NATE: A thirty percent stake. A seat at the table. And a plan to grow. Real growth.
-    네이트: 지분 30퍼센트. 의사결정 자리 하나. 그리고 성장 계획. 진짜 성장이요.
+053. NATE: A thirty percent stake. A seat at the table, so I can help steer. And a plan to grow, real growth, not the kind where you're just surviving.
+    네이트: 지분 30퍼센트. 방향 잡는 걸 도울 수 있게 의사결정 자리 하나. 그리고 성장 계획. 그냥 버티는 게 아니라 진짜 성장이요.
 
-054. ETHAN: What does real growth look like to you?
-    이선: 대표님이 말하는 진짜 성장은 어떤 모습인데요?
+054. ETHAN: And what does real growth look like to you, specifically?
+    이선: 그럼 대표님이 말하는 진짜 성장은 구체적으로 어떤 모습인데요?
 
-055. NATE: A new office. A digital team. Influencers, creators, content. Triple the revenue.
-    네이트: 새 사무실. 디지털 팀. 인플루언서, 크리에이터, 콘텐츠. 매출 세 배.
+055. NATE: A new office that actually looks like the future. A digital team. Influencers, creators, content. And if we do it right, triple the revenue.
+    네이트: 진짜 미래처럼 보이는 새 사무실. 디지털 팀. 인플루언서, 크리에이터, 콘텐츠. 그리고 제대로만 하면 매출 세 배.
 
 056. ETHAN: Triple. In how long?
     이선: 세 배요. 얼마 만에요?
 
-057. NATE: We'll get into details. My lawyers love details. I love vision.
-    네이트: 세부 사항은 차차 얘기하죠. 세부 사항은 제 변호사들이 좋아해요. 전 비전을 좋아하고요.
+057. NATE: We'll get into details later. My lawyers love details, and they're very good at them. I love vision.
+    네이트: 세부 사항은 나중에 얘기하죠. 세부 사항은 제 변호사들이 좋아하고, 아주 잘해요. 전 비전을 좋아하고요.
 
-058. ETHAN: I worked at Vanta for ten years. I know what "grow fast" does to models.
-    이선: 전 반타에서 10년 일했어요. "빨리 크자"가 모델들한테 무슨 짓을 하는지 알아요.
+058. ETHAN: I worked at Vanta for ten years, so I've watched it happen up close. I know what "grow fast" does to models, and it isn't pretty.
+    이선: 전 반타에서 10년 일했어요. 그래서 바로 옆에서 지켜봤죠. "빨리 크자"가 모델들한테 무슨 짓을 하는지 알아요. 보기 좋은 꼴 아니에요.
 
-059. NATE: I'm not Claire Dubois. I don't want your models. I want your name.
-    네이트: 전 클레어 뒤부아가 아니에요. 모델을 원하는 게 아니에요. 이름을 원하는 거죠.
+059. NATE: I'm not Claire Dubois. I don't want your models, and I'm not going to tell you how to book them. I want your name.
+    네이트: 전 클레어 뒤부아가 아니에요. 모델을 원하는 것도, 부킹을 어떻게 하라고 간섭할 생각도 없어요. 이름을 원하는 거죠.
 
 060. ETHAN: You know Claire?
     이선: 클레어를 아세요?
 
-061. NATE: Everybody knows Claire. I looked at buying into Vanta two years ago. Too expensive. Too much Claire.
-    네이트: 모르는 사람이 있나요. 2년 전에 반타 지분 살까 봤었죠. 너무 비싸고, 클레어가 너무 많더라고요.
+061. NATE: Everybody knows Claire. I looked at buying into Vanta two years ago and walked away after one meeting. Too expensive. Too much Claire.
+    네이트: 모르는 사람이 있나요. 2년 전에 반타 지분 살까 봤다가 미팅 한 번 하고 접었죠. 너무 비싸고, 클레어가 너무 많더라고요.
 
 062. ETHAN: That, I believe.
     이선: 그건 믿어지네요.
 
-063. NATE: Look, I'm not asking you to say yes today. I'm asking you to imagine.
-    네이트: 오늘 '예스' 하라는 게 아니에요. 상상해 보시라는 거죠.
+063. NATE: Look, I'm not asking you to say yes today, and honestly, I'd think less of you if you did. I'm asking you to imagine.
+    네이트: 오늘 '예스' 하라는 게 아니에요. 솔직히 오늘 예스 하시면 좀 실망할 것 같고요. 상상해 보시라는 거죠.
 
 064. ETHAN: Imagine what?
     이선: 뭘요?
 
-065. NATE: A Hale where you're not counting stamps. Where you can say no to bad clients and still sleep at night.
-    네이트: 우표 개수 안 세도 되는 헤일. 나쁜 클라이언트한테 '노' 하고도 밤에 잠잘 수 있는 헤일.
+065. NATE: A Hale where you're not counting stamps at the end of every month. Where you can say no to bad clients and still sleep at night.
+    네이트: 매달 말에 우표 개수 안 세도 되는 헤일. 나쁜 클라이언트한테 '노' 하고도 밤에 잠잘 수 있는 헤일.
 
-066. ETHAN: That's a pretty good pitch.
-    이선: 꽤 괜찮은 영업 멘트네요.
+066. ETHAN: I'll be honest, that's a pretty good pitch.
+    이선: 솔직히 말하면, 꽤 괜찮은 영업 멘트네요.
 
-067. NATE: It's not a pitch. It's math. Talk to your team. I'll send you a term sheet.
-    네이트: 영업 멘트가 아니라 수학이에요. 팀이랑 얘기해 보세요. 텀시트 보내 드릴게요.
+067. NATE: It's not a pitch. It's math. Talk to your team tonight, and I'll have my people send you a term sheet.
+    네이트: 영업 멘트가 아니라 수학이에요. 오늘 밤에 팀이랑 얘기해 보세요. 제 쪽 사람들 시켜서 텀시트 보내 드릴게요.
 
-068. ETHAN: I'll need my lawyer to read it.
-    이선: 변호사가 읽어 봐야 할 거예요.
+068. ETHAN: I'll need my lawyer to read it before I even think about it.
+    이선: 생각해 보기도 전에 변호사가 먼저 읽어 봐야 할 거예요.
 
-069. NATE: Your sister, right? The corporate lawyer. Smart woman. Tough. Send it to her.
-    네이트: 여동생분이죠? 기업 변호사. 똑똑하고 깐깐한 분. 그분께 보내세요.
+069. NATE: Your sister, right? The corporate lawyer. I hear she's smart, tough, and doesn't like guys like me. Send it to her.
+    네이트: 여동생분이죠? 기업 변호사. 똑똑하고 깐깐하고, 저 같은 사람 안 좋아한다고 들었어요. 그분께 보내세요.
 
-070. ETHAN: Is there anything you don't know about me?
-    이선: 저에 대해 모르시는 게 있긴 해요?
+070. ETHAN: Is there anything you don't know about me at this point?
+    이선: 이쯤 되면 저에 대해 모르시는 게 있긴 해요?
 
 071. NATE: Your coffee order. But I'm guessing large and black.
     네이트: 커피 취향이요. 근데 라지에 블랙일 것 같네요.
@@ -230,8 +230,8 @@
 072. ETHAN: Okay. That's a lucky guess.
     이선: 음. 운 좋게 맞히셨네요.
 
-073. MAYA: So? You've been back for ten minutes and you haven't said a word.
-    마야: 그래서요? 돌아온 지 10분 됐는데 한마디도 안 했어요.
+073. MAYA: So? You've been back for ten minutes, and you haven't said a word. You're just staring at the board.
+    마야: 그래서요? 돌아온 지 10분 됐는데 한마디도 안 했어요. 보드만 쳐다보고 있잖아요.
 
 074. ETHAN: Three million.
     이선: 300만.
@@ -248,23 +248,23 @@
 078. LEO: Wait, wait. That values us at ten million. Last month we were basically worth a bag of chips.
     레오: 잠깐만요. 그럼 우리 가치가 천만 달러라는 거잖아요. 지난달엔 거의 과자 한 봉지 값이었는데.
 
-079. MAYA: We're worth thirty-eight models, a board, and a reputation. Don't say chips.
-    마야: 우린 모델 서른여덟 명이랑 보드랑 평판만큼의 가치가 있어. 과자 소리 하지 마.
+079. MAYA: We're worth thirty-eight models, a board, and a reputation that took thirty years to build. Don't say chips.
+    마야: 우린 모델 서른여덟 명이랑 보드랑, 30년 걸려 쌓은 평판만큼의 가치가 있어. 과자 소리 하지 마.
 
 080. LEO: Sorry. A very premium bag of chips.
     레오: 죄송해요. 아주 고급스러운 과자 한 봉지요.
 
-081. MAYA: What does he want for it?
-    마야: 그 대가로 뭘 원한대요?
+081. MAYA: Okay, and what does he want for it in return?
+    마야: 좋아요, 그럼 그 대가로 뭘 원한대요?
 
-082. ETHAN: A seat on a board. Growth. A new office. A digital team.
-    이선: 이사회 자리 하나. 성장. 새 사무실. 디지털 팀.
+082. ETHAN: A seat on a board. Growth, which basically means a lot more of everything. A new office. A digital team.
+    이선: 이사회 자리 하나. 성장, 그러니까 기본적으로 뭐든 훨씬 더 많이. 새 사무실. 디지털 팀.
 
 083. MAYA: Which board? Our board is a whiteboard with magnets.
     마야: 무슨 보드요? 우리 보드는 자석 붙은 화이트보드인데.
 
-084. ETHAN: A board of directors, Maya. We'd have one.
-    이선: 이사회 말이야, 마야. 우리도 하나 생기는 거지.
+084. ETHAN: A board of directors, Maya, the kind with meetings and votes. We'd have one, for the first time ever.
+    이선: 이사회 말이야, 마야. 회의하고 투표하는 그런 거. 우리도 처음으로 하나 생기는 거지.
 
 085. MAYA: And he'd be on it.
     마야: 그리고 그 사람이 거기 앉고요.
@@ -272,20 +272,20 @@
 086. ETHAN: He'd be on it.
     이선: 그 사람이 앉지.
 
-087. RITA: Ethan, with three million, I pay off the bank. I pay Goldberg. I pay everybody on time for a year.
-    리타: 이선, 300만이면 은행 빚 갚고, 골드버그 월세 내고, 1년 동안 모두한테 월급 제때 줄 수 있어.
+087. RITA: Ethan, with three million, I pay off the bank. I pay Goldberg everything we owe him. I pay everybody on time for a year, and I stop hiding from the mailman.
+    리타: 이선, 300만이면 은행 빚 갚고, 골드버그한테 밀린 거 다 내고, 1년 동안 모두한테 월급 제때 줄 수 있어. 우체부 피해 숨어 다닐 필요도 없고.
 
 088. ETHAN: I know.
     이선: 알아요.
 
-089. RITA: I haven't slept a full night since October, honey. Numbers don't lie. And these numbers look very good.
-    리타: 나 10월부터 밤에 푹 자 본 적이 없어, 얘. 숫자는 거짓말 안 해. 그리고 이 숫자는 아주 좋아 보여.
+089. RITA: I haven't slept a full night since October, honey, not one. Numbers don't lie. And these numbers look very, very good.
+    리타: 나 10월부터 밤에 푹 자 본 적이 없어, 얘. 단 하루도. 숫자는 거짓말 안 해. 그리고 이 숫자는 아주, 아주 좋아 보여.
 
-090. MAYA: Numbers don't lie. But people with numbers do.
-    마야: 숫자는 거짓말 안 하죠. 근데 숫자 든 사람들은 해요.
+090. MAYA: Numbers don't lie. But people with numbers do, and in my experience, the ones with the nicest views lie the most.
+    마야: 숫자는 거짓말 안 하죠. 근데 숫자 든 사람들은 해요. 제 경험상 전망 제일 좋은 데 앉은 사람들이 제일 많이 하고요.
 
-091. LEO: Okay, but hear me out. A digital team? I've been begging for that for two years.
-    레오: 오케이, 근데 제 말도 들어 봐요. 디지털 팀이요? 저 2년 동안 그거 해 달라고 빌었어요.
+091. LEO: Okay, but hear me out. A digital team? I've been begging for that for two years, and every single time, the answer was "we can't afford it."
+    레오: 오케이, 근데 제 말도 들어 봐요. 디지털 팀이요? 저 2년 동안 그거 해 달라고 빌었는데, 매번 대답이 "그럴 돈 없어"였어요.
 
 092. MAYA: Of course you're excited. He said "content" and your eyes lit up.
     마야: 당연히 신났겠지. "콘텐츠" 소리에 눈이 반짝하더라.
@@ -299,17 +299,17 @@
 095. ETHAN: He said he wants our name, not our models.
     이선: 모델이 아니라 우리 이름을 원한대.
 
-096. MAYA: That's a strange thing to say if it's true.
-    마야: 진심이라면 이상한 말이네요.
+096. MAYA: That's a strange thing to say if it's true, because an agency without its models is just a logo and some furniture.
+    마야: 진심이라면 이상한 말이네요. 모델 없는 에이전시는 로고랑 가구 몇 개일 뿐이니까요.
 
 097. ETHAN: Maybe. Or maybe he just talks like a guy from Hudson Yards.
     이선: 그럴지도. 아니면 그냥 허드슨 야드 사람 말투일 수도 있고.
 
-098. MAYA: I've seen this movie. Somebody buys a small agency, cleans it up, sells it. The models get lost.
-    마야: 이 영화 본 적 있어요. 누가 작은 에이전시를 사서, 정리하고, 팔아요. 모델들은 길을 잃고요.
+098. MAYA: I've seen this movie. Somebody buys a small agency, cleans it up, and sells it to someone bigger before anyone notices. The models get lost.
+    마야: 이 영화 본 적 있어요. 누가 작은 에이전시를 사서 정리하고, 아무도 눈치채기 전에 더 큰 데 팔아요. 모델들은 길을 잃고요.
 
-099. ETHAN: I'm not selling anything. It's thirty percent. We still have seventy.
-    이선: 난 아무것도 안 팔아. 30퍼센트야. 70은 여전히 우리 거고.
+099. ETHAN: I'm not selling anything, Maya. It's thirty percent. We still have seventy, which means we still make the decisions.
+    이선: 난 아무것도 안 팔아, 마야. 30퍼센트야. 70은 여전히 우리 거고, 그러니까 결정도 여전히 우리가 하는 거야.
 
 100. MAYA: You still have seventy. Today.
     마야: 70이 여전히 우리 거죠. 오늘은요.
@@ -317,29 +317,29 @@
 101. ETHAN: What's that supposed to mean?
     이선: 그게 무슨 뜻이야?
 
-102. MAYA: Nothing. I'm a booker. I read contracts for a living. I'll read this one too.
-    마야: 아무것도요. 전 부커예요. 계약서 읽는 게 직업이죠. 이것도 읽을게요.
+102. MAYA: Nothing. I'm a booker, and I read contracts for a living, including the tiny print that nobody else bothers to read. I'll read this one too.
+    마야: 아무것도요. 전 부커고, 계약서 읽는 게 직업이에요. 아무도 안 읽는 깨알 같은 글씨까지요. 이것도 읽을게요.
 
-103. ETHAN: I'd like that. Seriously. I want you in the room.
-    이선: 그래 줘. 진심이야. 네가 그 자리에 있었으면 좋겠어.
+103. ETHAN: I'd like that. Seriously. Whatever happens next, I want you in the room when we talk about it.
+    이선: 그래 줘. 진심이야. 앞으로 무슨 일이 생기든 그 얘기 할 때 네가 그 자리에 있었으면 좋겠어.
 
 104. MAYA: Then I'll be in the room. Noted.
     마야: 그럼 있을게요. 접수.
 
-105. RITA: Have you told your father?
-    리타: 아버지한텐 말했니?
+105. RITA: Have you told your father about any of this yet?
+    리타: 아버지한텐 이 얘기 좀 했니?
 
 106. ETHAN: Not yet.
     이선: 아직요.
 
-107. RITA: Tell him before he hears it from somebody else. You know how he gets.
-    리타: 다른 사람한테 듣기 전에 말해. 그 양반 성질 알잖아.
+107. RITA: Tell him before he hears it from somebody else, especially somebody at the rehab center. You know how he gets.
+    리타: 다른 사람한테 듣기 전에 말해. 특히 재활원 사람들한테 듣기 전에. 그 양반 성질 알잖아.
 
 108. ETHAN: He's going to say "In '96, we had a fax machine and nerve."
     이선: "96년엔 팩스 한 대랑 배짱뿐이었어" 하실 거예요.
 
-109. RITA: And he's going to be right. But he still needs to hear it from you.
-    리타: 그리고 그 말이 맞겠지. 그래도 너한테 직접 들어야 해.
+109. RITA: And he's going to be right, like he usually is when he's being annoying. But he still needs to hear it from you.
+    리타: 그리고 그 말이 맞겠지. 짜증 나게 굴 때 보면 대개 맞더라. 그래도 너한테 직접 들어야 해.
 
 110. LEO: Uh, Ethan? Kessler Capital just followed us on Instagram. And LinkedIn. And TikTok.
     레오: 어, 이선? 케슬러 캐피털이 방금 우리 인스타 팔로우했어요. 링크드인도. 틱톡도.
@@ -347,29 +347,29 @@
 111. MAYA: He follows fast.
     마야: 팔로우도 빠르네.
 
-112. ETHAN: Okay. I'm calling Hannah.
-    이선: 좋아. 해나한테 전화할게.
+112. ETHAN: Okay. I'm calling Hannah before I do anything stupid.
+    이선: 좋아. 멍청한 짓 하기 전에 해나한테 전화할게.
 
 113. HANNAH: You never call me on a weekday. What did you do?
     해나: 오빠가 평일에 전화를 다 하네. 무슨 짓 했어?
 
-114. ETHAN: Nothing yet. Somebody offered me three million dollars for thirty percent of the company.
-    이선: 아직 아무것도. 누가 회사 지분 30퍼센트에 300만 달러를 제안했어.
+114. ETHAN: Nothing yet, I swear. Somebody offered me three million dollars for thirty percent of the company, and he wants an answer soon.
+    이선: 아직 아무것도, 진짜야. 누가 회사 지분 30퍼센트에 300만 달러를 제안했는데, 답을 빨리 원해.
 
-115. HANNAH: As your lawyer— and your sister— don't you dare say yes to anything on the phone.
-    해나: 오빠 변호사로서, 그리고 동생으로서 말하는데, 전화로 뭐든 '예스' 하기만 해 봐.
+115. HANNAH: As your lawyer— and your sister— don't you dare say yes to anything on the phone, not even "yes, that sounds interesting."
+    해나: 오빠 변호사로서, 그리고 동생으로서 말하는데, 전화로 뭐든 '예스' 하기만 해 봐. "네, 흥미롭네요"도 안 돼.
 
-116. ETHAN: I didn't. He's sending a term sheet.
-    이선: 안 했어. 텀시트 보내 준대.
+116. ETHAN: I didn't, I promise. He's sending a term sheet.
+    이선: 안 했어, 진짜로. 텀시트 보내 준대.
 
 117. HANNAH: When?
     해나: 언제?
 
-118. ETHAN: Wait. It just landed. Twelve pages. He wasn't kidding about fast lawyers.
-    이선: 잠깐. 방금 왔어. 열두 페이지. 변호사들 빠르다더니 농담이 아니었네.
+118. ETHAN: Wait. It just landed in my inbox. Twelve pages. He wasn't kidding when he said his lawyers were good.
+    이선: 잠깐. 방금 메일함에 들어왔어. 열두 페이지. 변호사들이 잘한다더니 농담이 아니었네.
 
-119. HANNAH: Forward it. Don't read it alone at night. And don't tell Dad until I've read it.
-    해나: 나한테 보내. 밤에 혼자 읽지 말고. 그리고 내가 읽기 전엔 아빠한테 말하지 마.
+119. HANNAH: Forward it to me right now. Don't read it alone at night, because you'll only read the numbers. And don't tell Dad until I've read it.
+    해나: 지금 당장 나한테 보내. 밤에 혼자 읽지 마. 오빠는 숫자만 읽을 테니까. 그리고 내가 읽기 전엔 아빠한테 말하지 마.
 
 120. ETHAN: Too late, Hannah. Rita's already on the phone with him.
     이선: 늦었어, 해나. 리타가 벌써 아빠랑 통화 중이야.
@@ -386,6 +386,8 @@
 - **make payroll** — 직원 월급을 지급할 돈을 마련하다 / "legends don't make payroll" (047)
 - **growth capital** — 성장 자금(사업 확장용 투자금) (051)
 - **stake** — 지분 / "a thirty percent stake" (053)
+- **even though** — ~인데도, ~임에도 불구하고 / "even though he knew exactly how much it would hurt" (037)
+- **I'd think less of you if you did** — 가정법 과거: 현재·미래의 가상 상황 / "I'd think less of you if you did" (063)
 - **term sheet** — 투자 조건 합의서(본계약 전 핵심 조건 요약) (067)
 - **hear someone out** — ~의 말을 끝까지 들어 주다 / "hear me out" (091)
 - **I've seen this movie.** — 이런 전개 본 적 있어(결말이 뻔하다) (098)
