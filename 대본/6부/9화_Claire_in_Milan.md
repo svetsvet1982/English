@@ -146,8 +146,8 @@
 044. ETHAN: I remember. Everybody in this business remembers.
     이선: 기억하죠. 이 바닥 사람들은 다 기억해요.
 
-045. CLAIRE: They aren't bonuses. If you read page nine of the contract, which nobody does, you'll see they're advances against future earnings. The girls are paying for their own welcome gifts.
-    클레어: 그거 계약금 아니야. 아무도 안 읽는 계약서 9페이지를 읽어 보면, 앞으로 벌 돈에서 까는 선지급금이라고 돼 있어. 애들이 자기 환영 선물값을 자기가 내고 있는 거지.
+045. CLAIRE: They aren't bonuses. If you read page twenty-three of the contract, which nobody does, you'll see they're advances against future earnings. The girls are paying for their own welcome gifts.
+    클레어: 그거 계약금 아니야. 아무도 안 읽는 계약서 23페이지를 읽어 보면, 앞으로 벌 돈에서 까는 선지급금이라고 돼 있어. 애들이 자기 환영 선물값을 자기가 내고 있는 거지.
 
 046. MAYA: So every job they book pays back the bonus first. The model sees nothing. For months.
     마야: 그러니까 일을 잡을 때마다 그 돈부터 갚는 거네요. 모델은 한 푼도 못 보고. 몇 달 동안.
@@ -173,11 +173,11 @@
 053. CLAIRE: From Vanta's old finance director. Tucker fired him by email, the same night he fired the models. People who get fired by email tend to forward things. It's the only revenge they have.
     클레어: Vanta 전 재무 이사한테서. 터커가 모델들 자른 그날 밤에 그 사람도 이메일로 잘랐거든. 이메일로 잘린 사람들은 뭘 자꾸 전달해. 그게 그 사람들이 할 수 있는 유일한 복수니까.
 
-054. ETHAN: Page twelve. "Total debt: two hundred and ten million dollars." For six agencies?
-    이선: 12페이지. "총부채: 2억 1천만 달러." 에이전시 여섯 개에?
+054. ETHAN: Page twelve. "Total debt: two hundred and ten million dollars." For eleven agencies?
+    이선: 12페이지. "총부채: 2억 1천만 달러." 에이전시 열한 개에?
 
-055. CLAIRE: He bought Vanta and five other agencies with borrowed money, and then he borrowed more against the agencies he'd just bought. That's the roll-up. Buy, borrow, buy again, and pray.
-    클레어: Vanta랑 다른 에이전시 다섯 곳을 빌린 돈으로 샀어. 그러고는 방금 산 회사들을 담보로 또 빌렸지. 그게 롤업이야. 사고, 빌리고, 또 사고, 그리고 기도하고.
+055. CLAIRE: He bought Vanta and ten other agencies with borrowed money, and then he borrowed more against the agencies he'd just bought. That's the roll-up. Buy, borrow, buy again, and pray.
+    클레어: Vanta랑 다른 에이전시 열 곳을 빌린 돈으로 샀어. 그러고는 방금 산 회사들을 담보로 또 빌렸지. 그게 롤업이야. 사고, 빌리고, 또 사고, 그리고 기도하고.
 
 056. CLAIRE: And on March thirty-first, a big loan payment comes due. Eighty million.
     클레어: 그리고 3월 31일에 큰 대출 상환일이 돌아와. 8천만 달러.
