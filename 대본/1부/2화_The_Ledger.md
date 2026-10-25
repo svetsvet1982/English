@@ -391,7 +391,7 @@
 - **sleep on it** — 하룻밤 자며 생각해 보다, 결정을 미루고 숙고하다 (103)
 - **No promises.** — 장담은 못 해 (108)
 - **otherwise … would've + p.p.** — 안 그랬으면 ~했을 거야 (과거 가정) / "because otherwise the lights would've gone off" (028)
-- **Are you telling me (that) …?** — 그러니까 ~라는 말이에요? (놀라서 확인할 때) / "Are you telling me the clients paid us for the work…?" (027)
+- **Are you telling me (that) …?** — 그러니까 ~라는 말이에요? (놀라서 확인할 때) / "Are you telling me the clients paid us for the work" (027)
 
 ## 다음 화 예고 (낭독하지 않음)
 

@@ -381,7 +381,7 @@
 - **go-see** — 모델이 클라이언트를 직접 찾아가 얼굴을 보이는 오디션 (001)
 - **Thank you, next.** — 감사합니다, 다음 분 (캐스팅에서 탈락을 뜻하는 말) (008)
 - **a numbers game** — 확률 게임, 많이 시도할수록 유리한 일 (010)
-- **go live** — 라이브 방송을 시작하다 / "I'm going live." (011)
+- **go live** — 라이브 방송을 시작하다 / "I'm going live" (011)
 - **One down, nine to go.** — 하나 끝, 아홉 남았다 (023)
 - **too commercial / too editorial** — 너무 대중적(카탈로그형) / 너무 하이패션(잡지형) (034, 035)
 - **a slice / plain slice** — 피자 한 조각 / 치즈 피자 한 조각 (뉴욕식 주문) (040)

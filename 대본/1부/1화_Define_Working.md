@@ -388,7 +388,7 @@
 - **Tell me something I don't know.** — 누가 모르나, 뻔한 소리 하지 마 (052)
 - **Ballpark?** — 대충 얼마쯤? (ballpark figure = 어림수) (075)
 - **day rate** — 일당 출연료 / "the day rate's on me" = 출연료는 내가 책임진다 (085)
-- **buy someone time** — 시간을 벌다 / "I bought us twenty-four hours." (092)
+- **buy someone time** — 시간을 벌다 / "I bought us twenty-four hours" (092)
 - **That's definitely a line.** — 그거 작업 멘트잖아요 (113)
 - **The thing is, …** — 문제는 ~라는 거예요. 핵심·문제점을 꺼낼 때 / "The thing is, her engagement's kind of dropping…" (053)
 - **even though …** — ~인데도 (양보) / "even though the doctors keep telling him to rest, he's already yelling at the nurses" (008)
