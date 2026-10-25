@@ -89,8 +89,8 @@
 025. NORA: If Claire finds out, she'll say the whole piece is a Hale PR stunt. And she'd win.
     노라: 클레어가 알면 기사 전체가 헤일 홍보용 쇼라고 할 거예요. 그럼 이기는 건 그쪽이고요.
 
-026. ETHAN: Then let me help. I know things about Greg and Claire that nobody—
-    이선: 그럼 내가 도울게요. 그렉이랑 클레어에 대해 아무도 모르는 걸 내가—
+026. ETHAN: Then let me help. I know things about Greg and DB Advisory that nobody—
+    이선: 그럼 내가 도울게요. 그렉이랑 DB 어드바이저리에 대해 아무도 모르는 걸 내가—
 
 027. NORA: Stop. Don't. Don't finish that sentence.
     노라: 그만. 하지 마요. 그 문장 끝내지 마요.

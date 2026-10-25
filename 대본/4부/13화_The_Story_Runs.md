@@ -80,8 +80,8 @@
 022. MAYA: Good. Read the first line.
     마야: 좋아. 첫 줄 읽어 봐.
 
-023. LEO: "For seven months, Sasha Petrova was on billboards in Times Square. She paid her rent with a credit card."
-    레오: "7개월 동안 사샤 페트로바는 타임스스퀘어 빌보드에 걸려 있었다. 그녀는 월세를 신용카드로 냈다."
+023. LEO: "For seven months, Sasha Petrova's face sold Velour perfume. She paid her rent with a credit card."
+    레오: "7개월 동안 사샤 페트로바의 얼굴은 벨루어 향수를 팔았다. 그녀는 월세를 신용카드로 냈다."
 
 024. SAL: Whoa. That's a good first line. I'd keep reading that.
     샐: 와. 첫 줄 좋네. 나라도 계속 읽겠다.
@@ -164,8 +164,8 @@
 050. ETHAN: As my lawyer—
     이선: 내 변호사로서—
 
-051. HANNAH: And your sister. Yes. Don't give them a second cease and desist.
-    해나: 그리고 동생으로서. 그래. 두 번째 중지 통보 받을 빌미 주지 마.
+051. HANNAH: And your sister. Yes. Don't give them a second lawsuit.
+    해나: 그리고 동생으로서. 그래. 두 번째 소송 걸릴 빌미 주지 마.
 
 052. LEO: Maya, line two. She says her name is Maddie. She sounds like she's been crying.
     레오: 마야 누나, 2번 라인요. 이름이 매디래요. 울다 온 목소리예요.
@@ -308,8 +308,8 @@
 098. ETHAN: Say them. Slowly. I want to hear every word.
     이선: 말해 줘. 천천히. 한 단어도 빼지 말고 듣고 싶어.
 
-099. HANNAH: One. They drop the poaching claim. Completely. Withdrawn by Monday.
-    해나: 하나. '모델 빼가기' 주장을 철회한다. 완전히. 월요일까지 취하.
+099. HANNAH: One. They drop the two-million-dollar lawsuit. Completely. Withdrawn by Monday.
+    해나: 하나. 200만 달러 소송을 철회한다. 완전히. 월요일까지 취하.
 
 100. HANNAH: Two. They pay Hale seven hundred and fifty thousand dollars. Not a million. But close.
     해나: 둘. 헤일에 75만 달러를 지급한다. 100만은 아니지만. 근접했지.

@@ -59,8 +59,8 @@
 015. ETHAN: Maya. Hey. You okay?
     이선: 마야. 야. 괜찮아?
 
-016. MAYA: I'm fine. I'm working. Hannah sent the final letter, by the way. Read it.
-    마야: 괜찮아. 일하는 중이야. 그건 그렇고 해나가 최종 서한 보냈어. 읽어 봐.
+016. MAYA: I'm fine. I'm working. Dana Ruiz sent the final letter, by the way. Sasha's lawyer. Read it.
+    마야: 괜찮아. 일하는 중이야. 그건 그렇고 사샤 변호사 데이나 루이스가 최종 서한 보냈어. 읽어 봐.
 
 017. ETHAN: "Vanta's failure to pay is a material breach. Ms. Petrova's contract is terminated, effective immediately."
     이선: "Vanta의 지급 불이행은 중대한 계약 위반이다. 페트로바의 계약은 즉시 해지된다."
@@ -209,8 +209,8 @@
 065. MAYA: I would have stopped you. Claire was always going to treat you like that.
     마야: 말렸겠지. 클레어가 널 그렇게 대할 건 뻔했으니까.
 
-066. SASHA: I know. You were right. Seven months of nothing. I paid my rent with a credit card.
-    사샤: 알아. 네 말이 맞았어. 7개월 동안 한 푼도 못 받았어. 월세를 신용카드로 냈다니까.
+066. SASHA: I know. You were right. Two hundred thousand, Maya. The Velour money. I paid my rent with a credit card.
+    사샤: 알아. 네 말이 맞았어. 20만 달러야, 마야. 벨루어 캠페인 돈까지. 월세를 신용카드로 냈다니까.
 
 067. MAYA: Sasha.
     마야: 사샤.

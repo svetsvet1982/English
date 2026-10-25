@@ -5,10 +5,10 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 4부 11화 · 서사 기능: 정면 대결 · 사제 관계의 감정 폭발
 > - 배경: 미드타운 해나의 로펌 회의실(오전) → 렉싱턴 애비뉴 조정 사무소 40층(낮) → 같은 층 복도 커피 머신 앞 → 월터의 재활 센터 정원(저녁). 2027년 7월 초, 독립기념일 다음 주.
-> - 등장인물: Ethan, Hannah, Claire, Walter, Judge Fenwick(퇴임 판사·조정인), Mr. Brandt(Vanta 측 변호사)
+> - 등장인물: Ethan, Hannah, Claire, Walter, Judge Fenwick(퇴임 판사·조정인), Mr. Pryce(Vanta 측 변호사, Pryce, Whitmore and Lowe)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "push someone's buttons", "nuisance value", "admission of liability", "non-disclosure agreement", "caucus", "back pay", "walk away from the table", "blink first"
-> - 복선/연결: 4부 6화 그렉의 자백(클레어에게 정보를 팔았다)이 협상의 핵심 카드. 4부 9화 노라의 논평 요청으로 클레어가 기사를 알고 있음 → 기사 저지를 합의 조건으로 내밂. 7월 31일 데드라인 → 4부 13화 기사 발행 후 클레어 합의 수용.
+> - 복선/연결: 4부 5·6화 그렉의 자백과 공증 진술서(클레어가 DB Advisory를 통해 월 5천 달러를 주고 '날씨 보고서'를 받음)이 협상의 핵심 카드. 4부 9화 노라의 논평 요청으로 클레어가 기사를 알고 있음 → 기사 저지를 합의 조건으로 내밂. 7월 31일 데드라인 → 4부 13화 기사 발행 후 클레어 합의 수용.
 
 ---
 
@@ -35,8 +35,8 @@
 007. HANNAH: My point exactly. Okay. Our terms. Say them back to me.
     해나: 바로 그거야. 자. 우리 조건. 다시 말해 봐.
 
-008. ETHAN: One. Vanta drops the poaching claim. Completely.
-    이선: 하나. Vanta가 '모델 빼가기' 주장을 철회. 완전히.
+008. ETHAN: One. Vanta drops the two-million-dollar lawsuit. Completely.
+    이선: 하나. Vanta가 200만 달러짜리 소송을 취하. 완전히.
 
 009. HANNAH: Two.
     해나: 둘.
@@ -89,8 +89,8 @@
 025. JUDGE FENWICK: Nothing said here is on the record. Nothing leaves this room. Understood?
     펜윅 판사: 여기서 한 말은 기록에 남지 않습니다. 이 방 밖으로 나가지도 않고요. 아시겠죠?
 
-026. MR. BRANDT: Understood. Doug Brandt, for Vanta Management. And this is Ms. Dubois.
-    브랜트: 알겠습니다. Vanta 매니지먼트 측 더그 브랜트입니다. 이쪽은 뒤부아 대표님이시고요.
+026. MR. PRYCE: Understood. Douglas Pryce, for Vanta Management. And this is Ms. Dubois.
+    프라이스: 알겠습니다. Vanta 매니지먼트 측 더글러스 프라이스입니다. 이쪽은 뒤부아 대표님이시고요.
 
 027. CLAIRE: Hello, Ethan. You look tired. Are you sleeping?
     클레어: 안녕, 이선. 피곤해 보이네. 잠은 자니?
@@ -104,32 +104,32 @@
 030. HANNAH: Hannah Hale, for Hale Models. Shall we start, Judge?
     해나: 헤일 모델스 측 해나 헤일입니다. 시작할까요, 판사님?
 
-031. JUDGE FENWICK: Please. Mr. Brandt, your client asked for this meeting. Go ahead.
-    펜윅 판사: 그러죠. 브랜트 변호사님, 이 자리는 그쪽 의뢰인이 요청했으니. 먼저 하세요.
+031. JUDGE FENWICK: Please. Mr. Pryce, your client asked for this meeting. Go ahead.
+    펜윅 판사: 그러죠. 프라이스 변호사님, 이 자리는 그쪽 의뢰인이 요청했으니. 먼저 하세요.
 
-032. MR. BRANDT: Vanta denies all wrongdoing. But litigation is expensive and distracting for everyone.
-    브랜트: Vanta는 모든 위법 행위를 부인합니다. 다만 소송은 모두에게 비싸고 소모적이죠.
+032. MR. PRYCE: Vanta denies all wrongdoing. But litigation is expensive and distracting for everyone.
+    프라이스: Vanta는 모든 위법 행위를 부인합니다. 다만 소송은 모두에게 비싸고 소모적이죠.
 
 033. HANNAH: We agree it's expensive. Especially for the side that's going to lose.
     해나: 비싸다는 건 동의해요. 특히 질 쪽한테는요.
 
-034. MR. BRANDT: Here's our offer. Vanta drops the cease and desist. Both sides walk away.
-    브랜트: 저희 제안입니다. Vanta는 중지 통보를 철회합니다. 양측 모두 손 떼는 거죠.
+034. MR. PRYCE: Here's our offer. Vanta drops its lawsuit. Both sides walk away.
+    프라이스: 저희 제안입니다. Vanta는 소송을 취하합니다. 양측 모두 손 떼는 거죠.
 
-035. MR. BRANDT: As a gesture, Vanta pays Hale two hundred thousand. No admission of liability.
-    브랜트: 성의 표시로 Vanta가 헤일에 20만 달러를 지급합니다. 책임 인정은 없이.
+035. MR. PRYCE: As a gesture, Vanta pays Hale two hundred thousand. No admission of liability.
+    프라이스: 성의 표시로 Vanta가 헤일에 20만 달러를 지급합니다. 책임 인정은 없이.
 
 036. HANNAH: Two hundred thousand. That's nuisance value. That's what you pay to make a fly go away.
     해나: 20만 달러. 그건 귀찮으니까 주는 돈이죠. 파리 쫓을 때나 내는 액수예요.
 
-037. MR. BRANDT: And in exchange, Hale drops all claims and signs a non-disclosure agreement.
-    브랜트: 그 대가로 헤일은 모든 청구를 취하하고 비밀유지계약에 서명합니다.
+037. MR. PRYCE: And in exchange, Hale drops all claims and signs a non-disclosure agreement.
+    프라이스: 그 대가로 헤일은 모든 청구를 취하하고 비밀유지계약에 서명합니다.
 
 038. ETHAN: And the models? The ones you didn't pay?
     이선: 그럼 모델들은요? 돈 안 준 모델들이요?
 
-039. MR. BRANDT: Any individual payment disputes are a separate matter. Between Vanta and those individuals.
-    브랜트: 개별 지급 분쟁은 별개 사안입니다. Vanta와 해당 개인 간의 문제죠.
+039. MR. PRYCE: Any individual payment disputes are a separate matter. Between Vanta and those individuals.
+    프라이스: 개별 지급 분쟁은 별개 사안입니다. Vanta와 해당 개인 간의 문제죠.
 
 040. ETHAN: So, no.
     이선: 그러니까, 안 준다는 거네요.
@@ -146,26 +146,26 @@
 044. ETHAN: I'm looking at you.
     이선: 보고 있어.
 
-045. HANNAH: Judge, our counteroffer. Vanta drops its claim. Vanta pays one point two million.
+045. HANNAH: Judge, our counteroffer. Vanta drops its suit. Vanta pays one point two million.
     해나: 판사님, 저희 역제안입니다. Vanta는 청구 철회. Vanta는 120만 달러 지급.
 
 046. HANNAH: And Vanta pays every model's back pay within thirty days, with interest. Sasha Petrova is released.
     해나: 그리고 Vanta는 모든 모델의 밀린 출연료를 이자 포함 30일 안에 지급. 사샤 페트로바는 계약 해지.
 
-047. MR. BRANDT: One point two million? Based on what? A disgraced CFO's story?
-    브랜트: 120만이요? 근거가 뭡니까? 망신당한 전직 CFO의 이야기요?
+047. MR. PRYCE: One point two million? Based on what? A disgraced CFO's story?
+    프라이스: 120만이요? 근거가 뭡니까? 망신당한 전직 CFO의 이야기요?
 
-048. HANNAH: Based on a signed statement. And wire transfers from a Vanta account to Greg Lawson.
-    해나: 서명된 진술서요. 그리고 Vanta 계좌에서 그렉 로슨에게 간 송금 내역이요.
+048. HANNAH: Based on a signed statement. And five thousand a month from DB Advisory, a Delaware shell, to Greg Lawson.
+    해나: 서명된 진술서요. 그리고 델라웨어 유령회사 DB 어드바이저리에서 그렉 로슨에게 매달 간 5천 달러요.
 
 049. CLAIRE: Consulting fees. Greg was a consultant.
     클레어: 컨설팅 비용이야. 그렉은 컨설턴트였어.
 
-050. HANNAH: Consulting on what? Our client list? Our rates? Our options?
-    해나: 무슨 컨설팅이요? 저희 고객 명단? 저희 요율? 저희 옵션?
+050. HANNAH: Consulting on what? The weather? His sworn statement says "weather reports" on Hale.
+    해나: 무슨 컨설팅이요? 날씨요? 그 사람 진술서엔 헤일에 대한 "날씨 보고서"라고 돼 있던데요.
 
-051. MR. BRANDT: My client won't answer that. And I'd advise everyone to stay calm.
-    브랜트: 제 의뢰인은 그 질문에 답하지 않습니다. 그리고 모두 진정하시길 권합니다.
+051. MR. PRYCE: My client won't answer that. And I'd advise everyone to stay calm.
+    프라이스: 제 의뢰인은 그 질문에 답하지 않습니다. 그리고 모두 진정하시길 권합니다.
 
 052. JUDGE FENWICK: I agree. Let's caucus. Separate rooms. I'll go back and forth.
     펜윅 판사: 동의합니다. 개별 협의로 가죠. 방을 나누고, 제가 오가겠습니다.
@@ -257,8 +257,8 @@
 081. CLAIRE: You were the best booker I ever trained. Do you know that? The best.
     클레어: 넌 내가 키운 부커 중 최고였어. 알아? 최고.
 
-082. ETHAN: Then why did you buy my father's books from Greg?
-    이선: 그럼 왜 그렉한테서 우리 아버지 장부를 샀어요?
+082. ETHAN: Then why did you pay Greg to spy on my father's company?
+    이선: 그럼 왜 그렉한테 돈 주고 우리 아버지 회사를 염탐하게 했어요?
 
 083. CLAIRE: Careful. You said no case talk.
     클레어: 조심해. 사건 얘기 안 한다며.
