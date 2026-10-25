@@ -192,8 +192,8 @@
 059. FRANK: Underwater?
     프랭크: 원가 이하?
 
-060. GRACE: It costs more to fulfill than it pays. Like a mortgage that's bigger than the house is worth. This one loses about two point eight million dollars a year.
-    그레이스: 이행하는 데 드는 돈이 받는 돈보다 많다는 거예요. 집값보다 큰 주택담보대출 같은 거죠. 이 계약은 연 280만 달러쯤 손해를 봐요.
+060. GRACE: It costs more to fulfill than it pays. Like a mortgage that's bigger than the house is worth. This one loses about two million dollars a year.
+    그레이스: 이행하는 데 드는 돈이 받는 돈보다 많다는 거예요. 집값보다 큰 주택담보대출 같은 거죠. 이 계약은 연 200만 달러쯤 손해를 봐요.
 
 061. OWEN: Who signed it?
     오언: 누가 서명했어?
@@ -324,8 +324,8 @@
 103. ROB: That's an operational detail.
     롭: 그건 운영상의 세부 사항이죠.
 
-104. GRACE: It's six million dollars. Second, Aldridge. It's thirty percent of revenue, and with no steel clause, it loses two point eight million a year. Fixing the machines costs three point six million, once. Renegotiating Aldridge costs one difficult phone call.
-    그레이스: 600만 달러예요. 둘째, 알드리지. 매출의 30퍼센트인데 철강 조항이 없어서 연 280만 달러씩 손해예요. 기계 고치는 데는 360만 달러가 한 번 들고요. 알드리지 재협상에는 힘든 전화 한 통이 들어요.
+104. GRACE: It's over seven million dollars. Second, Aldridge. It's thirty percent of revenue, and with no steel clause, it loses about two million a year. Fixing the machines costs three point six million, once. Renegotiating Aldridge costs one difficult phone call.
+    그레이스: 700만 달러가 넘어요. 둘째, 알드리지. 매출의 30퍼센트인데 철강 조항이 없어서 연 200만 달러쯤 손해예요. 기계 고치는 데는 360만 달러가 한 번 들고요. 알드리지 재협상에는 힘든 전화 한 통이 들어요.
 
 105. TREVOR: I signed that contract to win the account. It was the right call at the time.
     트레버: 그 계약은 거래처를 따려고 내가 서명한 거야. 그땐 옳은 판단이었어.

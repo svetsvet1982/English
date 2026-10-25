@@ -84,8 +84,8 @@
 023. DEE: You'll last until Tuesday.
     디: 화요일까지 버티겠네.
 
-024. OWEN: My father worked a line in Ohio for twenty-six years. I think I can manage five days.
-    오언: 아버지가 오하이오 생산 라인에서 26년을 일하셨어요. 닷새는 버틸 수 있을 것 같아요.
+024. OWEN: My father worked a line in Ohio for twenty-two years. I think I can manage five days.
+    오언: 아버지가 오하이오 생산 라인에서 22년을 일하셨어요. 닷새는 버틸 수 있을 것 같아요.
 
 025. DEE: Your father was on a line?
     디: 아버지가 라인에서 일했다고?

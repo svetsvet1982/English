@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 11화 · 서사 기능: 케이스 오브 더 위크 / 세대 갈등과 변화 관리
 > - 배경: 가먼트 디스트릭트 웨스트 38번가 Rosen Textiles 창고 2층(화요일 아침) → W&C 38B 회의실(고객 전화 인터뷰) → 브롱크스 리버데일 어브의 아파트(금요일 저녁 식사). 2027년 1월 마지막 주, 눈발 날리는 추운 주.
-> - 등장인물: Owen, Grace, Jamal, Sofia, Irv Rosen(Rosen Textiles 사장), Leah Rosen(손녀), David Rosen(어브의 아들·리아의 아버지, 치과 교정의, 단역), Connie(브로드웨이 의상실 운영, 30년 단골, 단역), Rafi(부시윅의 신진 디자이너, 단역)
+> - 등장인물: Owen, Grace, Jamal, Sofia, Irv Rosen(Rosen Textiles 사장), Leah Rosen(손녀), David Rosen(어브의 아들·리아의 아버지, 치과 교정의, 단역), Phyllis(브로드웨이 의상실 운영, 30년 단골, 단역), Rafi(부시윅의 신진 디자이너, 단역)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 디지털 전환, 레거시 시스템, 고객 집중도(상위 20곳), 시범 운영(pilot)과 성공 기준, 변화 관리
 > - 이번 화의 핵심 표현: "digital transformation", "legacy system", "pilot", "change management", "if it ain't broke, don't fix it", "baby steps"
@@ -21,8 +21,8 @@
 002. LEAH: She missed three days in August, Grandpa. She ran out of paper over the Labor Day weekend.
     리아: 8월에 사흘 쉬었잖아요, 할아버지. 노동절 연휴에 종이가 떨어졌잖아요.
 
-003. IRV: That wasn't her fault. That was Hector's fault.
-    어브: 그건 얘 잘못이 아니지. 엑토르 잘못이지.
+003. IRV: That wasn't her fault. That was Ozzie's fault.
+    어브: 그건 얘 잘못이 아니지. 오지 잘못이지.
 
 004. OWEN: Mr. Rosen, thank you for having us. This is Grace, Sofia, and Jamal.
     오언: 로즌 사장님, 불러 주셔서 감사합니다. 이쪽은 그레이스, 소피아, 자말입니다.
@@ -87,8 +87,8 @@
 024. OWEN: Irv, can I ask you something directly? What are you afraid of losing if the orders go online?
     오언: 어브, 직접적으로 하나 여쭤봐도 될까요? 주문이 온라인으로 가면 뭘 잃을까 봐 걱정되세요?
 
-025. IRV: You know what I'm afraid of? Connie from the costume shop on West 40th has faxed me every Monday for thirty years. If she types her order into a website, I'll never hear her voice again, and then somebody in New Jersey steals her.
-    어브: 내가 뭘 걱정하는지 알아요? 웨스트 40번가 의상실 하는 코니가 30년 동안 매주 월요일마다 팩스를 보냈어요. 그 사람이 웹사이트에 주문을 쳐 넣으면 다시는 목소리를 못 듣겠지. 그러면 뉴저지의 누군가가 그 손님을 빼 가는 거예요.
+025. IRV: You know what I'm afraid of? Phyllis from the costume shop on West 40th has faxed me every Monday for thirty years. If she types her order into a website, I'll never hear her voice again, and then somebody in New Jersey steals her.
+    어브: 내가 뭘 걱정하는지 알아요? 웨스트 40번가 의상실 하는 필리스가 30년 동안 매주 월요일마다 팩스를 보냈어요. 그 사람이 웹사이트에 주문을 쳐 넣으면 다시는 목소리를 못 듣겠지. 그러면 뉴저지의 누군가가 그 손님을 빼 가는 거예요.
 
 026. SOFIA: So it's not the computer you don't trust. It's the distance.
     소피아: 그러니까 못 믿으시는 건 컴퓨터가 아니라 거리감이네요.
@@ -114,11 +114,11 @@
 033. OWEN: With your permission. And Leah's list.
     오언: 허락해 주시면요. 그리고 리아 씨 명단으로요.
 
-034. IRV: Fine. But don't call Connie before ten. She doesn't believe in mornings.
-    어브: 좋아요. 근데 코니한테는 열 시 전에 전화하지 마요. 그 사람은 아침이라는 걸 안 믿으니까.
+034. IRV: Fine. But don't call Phyllis before ten. She doesn't believe in mornings.
+    어브: 좋아요. 근데 필리스한테는 열 시 전에 전화하지 마요. 그 사람은 아침이라는 걸 안 믿으니까.
 
-035. JAMAL: Noted. No Connie before ten.
-    자말: 메모했어요. 열 시 전엔 코니 금지.
+035. JAMAL: Noted. No Phyllis before ten.
+    자말: 메모했어요. 열 시 전엔 필리스 금지.
 
 036. JAMAL: It says "Projector is warming up." It's said that for eleven minutes.
     자말: "프로젝터 예열 중"이래요. 11분째 그 말만 해요.
@@ -150,41 +150,41 @@
 045. OWEN: Let's find out why. Who's first?
     오언: 이유를 알아보자. 첫 번째는 누구야?
 
-046. SOFIA: Connie. It's ten-oh-two. I'm dialing.
-    소피아: 코니요. 10시 2분이에요. 걸게요.
+046. SOFIA: Phyllis. It's ten-oh-two. I'm dialing.
+    소피아: 필리스요. 10시 2분이에요. 걸게요.
 
-047. CONNIE: Hello, this is Connie's. If you're selling something, I already have it.
-    코니: 네, 코니네입니다. 뭐 파시는 거면 이미 있어요.
+047. PHYLLIS: Hello, this is Phyllis's. If you're selling something, I already have it.
+    필리스: 네, 필리스네입니다. 뭐 파시는 거면 이미 있어요.
 
-048. SOFIA: Hi, Connie, my name is Sofia, and I'm working with Irv Rosen. He said you're his most important customer.
-    소피아: 안녕하세요, 코니. 저는 소피아고요, 어브 로즌 사장님이랑 일하고 있어요. 사장님 제일 중요한 손님이라고 하시더라고요.
+048. SOFIA: Hi, Phyllis, my name is Sofia, and I'm working with Irv Rosen. He said you're his most important customer.
+    소피아: 안녕하세요, 필리스. 저는 소피아고요, 어브 로즌 사장님이랑 일하고 있어요. 사장님 제일 중요한 손님이라고 하시더라고요.
 
-049. CONNIE: He says that to everybody. But he's right about me. What's going on? Is he sick?
-    코니: 그 양반 다들한테 그 말 해요. 근데 나한테는 맞는 말이지. 무슨 일이에요? 아프대요?
+049. PHYLLIS: He says that to everybody. But he's right about me. What's going on? Is he sick?
+    필리스: 그 양반 다들한테 그 말 해요. 근데 나한테는 맞는 말이지. 무슨 일이에요? 아프대요?
 
 050. SOFIA: He's fine. We're asking customers how they like to place orders. You've been faxing Irv for thirty years, right?
     소피아: 건강하세요. 고객분들께 주문을 어떻게 넣는 게 좋으신지 여쭤보고 있어요. 30년 동안 어브 사장님께 팩스로 주문하셨죠?
 
-051. CONNIE: Thirty-one. And I'll tell you a secret, honey, I don't fax anymore. My assistant does it. She's twenty-three, she types the order on her phone, prints it, and then faxes it, because Irv won't take email.
-    코니: 31년이요. 그리고 비밀 하나 알려 줄게요, 아가씨. 나 이제 팩스 안 보내요. 내 조수가 보내요. 스물세 살인데, 휴대폰으로 주문서 치고, 그걸 출력해서, 팩스로 보내요. 어브가 이메일을 안 받으니까.
+051. PHYLLIS: Thirty-one. And I'll tell you a secret, honey, I don't fax anymore. My assistant does it. She's twenty-three, she types the order on her phone, prints it, and then faxes it, because Irv won't take email.
+    필리스: 31년이요. 그리고 비밀 하나 알려 줄게요, 아가씨. 나 이제 팩스 안 보내요. 내 조수가 보내요. 스물세 살인데, 휴대폰으로 주문서 치고, 그걸 출력해서, 팩스로 보내요. 어브가 이메일을 안 받으니까.
 
 052. SOFIA: She types it, prints it, and faxes it?
     소피아: 치고, 출력하고, 팩스를 보낸다고요?
 
-053. CONNIE: Every Monday. It's ridiculous. If Irv had a website where she could see what's in stock, she'd stop calling him to ask whether he has the red velvet. Last month she called four times about one bolt of velvet.
-    코니: 매주 월요일마다요. 웃기는 일이지. 어브한테 재고를 볼 수 있는 웹사이트가 있으면, 걔가 빨간 벨벳 있냐고 전화하는 것도 그만둘 거예요. 지난달엔 벨벳 한 필 때문에 네 번이나 전화했다니까.
+053. PHYLLIS: Every Monday. It's ridiculous. If Irv had a website where she could see what's in stock, she'd stop calling him to ask whether he has the red velvet. Last month she called four times about one bolt of velvet.
+    필리스: 매주 월요일마다요. 웃기는 일이지. 어브한테 재고를 볼 수 있는 웹사이트가 있으면, 걔가 빨간 벨벳 있냐고 전화하는 것도 그만둘 거예요. 지난달엔 벨벳 한 필 때문에 네 번이나 전화했다니까.
 
 054. SOFIA: But wouldn't you miss talking to him?
     소피아: 그래도 사장님이랑 통화하는 게 그립지 않으시겠어요?
 
-055. CONNIE: Talking to him? Honey, I'd call him anyway. I call him to complain about the Yankees. The fabric is just an excuse.
-    코니: 통화요? 아가씨, 난 어차피 전화할 거예요. 양키스 욕하려고 전화하는 거지. 원단은 핑계고.
+055. PHYLLIS: Talking to him? Honey, I'd call him anyway. I call him to complain about the Yankees. The fabric is just an excuse.
+    필리스: 통화요? 아가씨, 난 어차피 전화할 거예요. 양키스 욕하려고 전화하는 거지. 원단은 핑계고.
 
-056. SOFIA: Thank you, Connie. That's really helpful.
-    소피아: 고마워요, 코니. 정말 도움이 됐어요.
+056. SOFIA: Thank you, Phyllis. That's really helpful.
+    소피아: 고마워요, 필리스. 정말 도움이 됐어요.
 
-057. CONNIE: Tell him the Yankees need pitching. He'll know what it means.
-    코니: 양키스는 투수가 필요하다고 전해 줘요. 무슨 뜻인지 알 거예요.
+057. PHYLLIS: Tell him the Yankees need pitching. He'll know what it means.
+    필리스: 양키스는 투수가 필요하다고 전해 줘요. 무슨 뜻인지 알 거예요.
 
 058. JAMAL: She's the one he's afraid of losing, and she's the one asking for a website.
     자말: 사장님이 잃을까 봐 겁내는 바로 그 사람이 웹사이트를 원하고 있네요.
@@ -192,8 +192,8 @@
 059. OWEN: Let's not get excited about one call. Who's next?
     오언: 전화 한 통으로 흥분하지 말자. 다음은?
 
-060. JAMAL: Rafi Haddad, a designer in Bushwick. He's one of the three who cut their orders.
-    자말: 라피 하다드요. 부시윅 디자이너예요. 주문 줄인 세 곳 중 하나요.
+060. JAMAL: Rafi Benoit, a designer in Bushwick. He's one of the three who cut their orders.
+    자말: 라피 베누아요. 부시윅 디자이너예요. 주문 줄인 세 곳 중 하나요.
 
 061. RAFI: Yeah, this is Rafi. Is this about the invoice? Because I paid it, I promise.
     라피: 네, 라피입니다. 청구서 때문이에요? 그거 냈어요, 진짜로.
@@ -279,14 +279,14 @@
 088. IRV: Seventeen? Who?
     어브: 열일곱? 누가?
 
-089. SOFIA: Connie, for one. Her assistant types your order on a phone, prints it, and faxes it to you. Connie says the Yankees need pitching.
-    소피아: 일단 코니요. 그분 조수가 휴대폰으로 주문을 치고, 출력해서, 사장님한테 팩스로 보낸대요. 그리고 코니가 양키스는 투수가 필요하대요.
+089. SOFIA: Phyllis, for one. Her assistant types your order on a phone, prints it, and faxes it to you. Phyllis says the Yankees need pitching.
+    소피아: 일단 필리스요. 그분 조수가 휴대폰으로 주문을 치고, 출력해서, 사장님한테 팩스로 보낸대요. 그리고 필리스가 양키스는 투수가 필요하대요.
 
 090. IRV: She's right about the Yankees.
     어브: 양키스 얘기는 맞는 말이네.
 
-091. JAMAL: And Rafi Haddad moved about sixty thousand dollars a year to a supplier in Secaucus, because they have an app. He says their fabric is worse. He said he'd come back tomorrow.
-    자말: 그리고 라피 하다드는 연 6만 달러 정도를 시코커스 업체로 옮겼어요. 거기 앱이 있어서요. 원단은 더 나쁘대요. 내일이라도 돌아오겠다고 했어요.
+091. JAMAL: And Rafi Benoit moved about sixty thousand dollars a year to a supplier in Secaucus, because they have an app. He says their fabric is worse. He said he'd come back tomorrow.
+    자말: 그리고 라피 베누아는 연 6만 달러 정도를 시코커스 업체로 옮겼어요. 거기 앱이 있어서요. 원단은 더 나쁘대요. 내일이라도 돌아오겠다고 했어요.
 
 092. IRV: Rafi. I taught that boy what a selvage is.
     어브: 라피. 내가 그 녀석한테 원단 식서가 뭔지 가르쳤는데.
@@ -363,11 +363,11 @@
 116. LEAH: The fax stays, Grandpa. I promise.
     리아: 팩스는 남아요, 할아버지. 약속해요.
 
-117. SOFIA: Owen, you're going to want to see this. Leah just got a text from Hector at the warehouse. Apparently the fax went off a few minutes ago.
-    소피아: 오언, 이거 보셔야겠어요. 리아한테 창고의 엑토르가 문자를 보냈는데, 몇 분 전에 팩스가 왔대요.
+117. SOFIA: Owen, you're going to want to see this. Leah just got a text from Ozzie at the warehouse. Apparently the fax went off a few minutes ago.
+    소피아: 오언, 이거 보셔야겠어요. 리아한테 창고의 오지가 문자를 보냈는데, 몇 분 전에 팩스가 왔대요.
 
-118. LEAH: It's from Connie. "Irv. Heard you're finally going online. About time. Still faxing. Yankees need pitching. C."
-    리아: 코니예요. "어브. 드디어 온라인으로 간다며. 늦었지. 난 여전히 팩스로 보냄. 양키스는 투수가 필요해. C."
+118. LEAH: It's from Phyllis. "Irv. Heard you're finally going online. About time. Still faxing. Yankees need pitching. C."
+    리아: 필리스예요. "어브. 드디어 온라인으로 간다며. 늦었지. 난 여전히 팩스로 보냄. 양키스는 투수가 필요해. C."
 
 119. IRV: How does she already know? We decided four minutes ago.
     어브: 벌써 어떻게 알아? 결정한 지 4분밖에 안 됐는데.

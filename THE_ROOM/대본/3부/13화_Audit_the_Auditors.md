@@ -318,8 +318,8 @@
 101. LOU: He's in Florida. Fishing. He sends me pictures.
     루: 플로리다에 있어요. 낚시하면서. 저한테 사진 보내요.
 
-102. KATE: Mr. Pratt, I taught algebra for nine years. When a student got the right answer and couldn't show me how, I gave half credit. You haven't even given me the right answer.
-    케이트: 프랫 씨, 전 9년 동안 대수를 가르쳤어요. 학생이 정답을 맞혔는데 풀이를 못 보여 주면 반만 점수를 줬죠. 당신은 정답조차 내놓지 않았어요.
+102. KATE: Mr. Pratt, I taught algebra for eleven years. When a student got the right answer and couldn't show me how, I gave half credit. You haven't even given me the right answer.
+    케이트: 프랫 씨, 전 11년 동안 대수를 가르쳤어요. 학생이 정답을 맞혔는데 풀이를 못 보여 주면 반만 점수를 줬죠. 당신은 정답조차 내놓지 않았어요.
 
 103. AMES: Madam Chair, my client would like a short recess to consult with counsel.
     에임스: 위원장님, 제 의뢰인이 변호인과 상의할 수 있게 잠시 휴정을 원합니다.

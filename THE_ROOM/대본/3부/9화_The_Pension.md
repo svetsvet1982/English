@@ -9,7 +9,7 @@
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 연기금 지배구조, 재간접 펀드와 수수료 중첩, 베이시스 포인트, 소개 수수료와 이해상충, 수탁자 의무
 > - 이번 화의 핵심 표현: "fiduciary", "fee layering", "basis points", "placement fee", "conflict of interest", "the fine print", "put it in writing"
-> - 복선/연결: 프랭크(→4부 9화) · 켐프너의 "Victoria says hello."(→10화 W&C 청구 감사) · 오언의 도시락통은 베켓 공장 사물함 112번에 그대로 있음(2부 14화)
+> - 복선/연결: 프랭크(→4부 9화) · 켐프너의 "Victoria says hello."(→10화 W&C 청구 감사) · 오언의 도시락통은 베켓 공장 사물함 46번에 그대로 있음(2부 14화)
 
 ---
 
@@ -39,8 +39,8 @@
 008. FRANK: Dee runs that floor like a drill sergeant. Scrap's under four percent.
     프랭크: 디가 현장을 훈련 교관처럼 굴려. 불량률은 4% 밑이야.
 
-009. FRANK: Your lunch pail's still in locker one-twelve, by the way. Nobody touches it.
-    프랭크: 그리고 네 도시락통은 아직 112번 사물함에 있어. 아무도 손 안 대.
+009. FRANK: Your lunch pail's still in locker forty-six, by the way. Nobody touches it.
+    프랭크: 그리고 네 도시락통은 아직 46번 사물함에 있어. 아무도 손 안 대.
 
 010. OWEN: Thank you. That means more than you know.
     오언: 고마워요. 생각보다 저한테 큰 의미예요.

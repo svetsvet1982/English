@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 9화 · 서사 기능: 케이스 오브 더 위크 / 자말의 첫 '불편한 진실'
 > - 배경: W&C 38층 38B 회의실(스피커폰 통화) → 로어 맨해튼 워터 스트리트 Atlantic Shield 본사 27층 작업실(화이트보드) → 같은 건물 41층 임원 회의실. 2027년 1월 5일(화)~15일(금), 한겨울.
-> - 등장인물: Owen, Grace, Jamal, Sofia, Gloria Vance(Atlantic Shield 고객경험 담당 수석부사장), Stuart Kane(CFO, 단역), Desiree Lyons(보험금 청구 상담원, 단역), Recording(자동 안내 음성)
+> - 등장인물: Owen, Grace, Jamal, Sofia, Gloria Vance(Atlantic Shield 고객경험 담당 수석부사장), Malcolm Kane(CFO, 단역), Desiree Lyons(보험금 청구 상담원, 단역), Recording(자동 안내 음성)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 고객 여정 지도, 접점·인계 분석, 순추천지수(NPS), 손해율, 단기 이익과 장기 신뢰(고객 생애가치)
 > - 이번 화의 핵심 표현: "mystery shopper", "on hold", "customer journey", "touchpoint", "handoff", "net promoter score", "put yourself in the customer's shoes"
@@ -204,14 +204,14 @@
 063. SOFIA: "I paid you for nineteen years without missing a month. When the tree fell on my garage, I called you first, before I called my son. After five weeks, I stopped calling. I'm not angry. I just understand now what I was paying for."
     소피아: "19년 동안 한 달도 안 빼고 보험료를 냈어요. 나무가 차고 위로 쓰러졌을 때 아들보다 먼저 당신들한테 전화했죠. 5주가 지나고 전화를 그만뒀어요. 화난 건 아니에요. 그냥 이제 내가 뭘 위해 돈을 냈는지 알겠어요."
 
-064. GLORIA: That's Mrs. Abernathy. From Canarsie. I remember that file.
-    글로리아: 애버내시 부인이에요. 카나시에 사는. 그 파일 기억나요.
+064. GLORIA: That's Mrs. Pettigrew. From Canarsie. I remember that file.
+    글로리아: 페티그루 부인이에요. 카나시에 사는. 그 파일 기억나요.
 
 065. OWEN: Put yourself in the customer's shoes for nine days, and the numbers stop being just numbers.
     오언: 9일만 고객 입장이 돼 보면, 숫자가 더 이상 그냥 숫자가 아니게 됩니다.
 
-066. GLORIA: Executives don't do feelings. Our CFO, Stuart Kane, will ask why you want to give thirty-seven million back.
-    글로리아: 임원들은 감정 같은 거 안 해요. 우리 CFO 스튜어트 케인은 왜 3,700만 달러를 돌려주고 싶냐고 물을 거예요.
+066. GLORIA: Executives don't do feelings. Our CFO, Malcolm Kane, will ask why you want to give thirty-seven million back.
+    글로리아: 임원들은 감정 같은 거 안 해요. 우리 CFO 맬컴 케인은 왜 3,700만 달러를 돌려주고 싶냐고 물을 거예요.
 
 067. GRACE: Then we'll show him what it costs to keep it. I need two more days to calculate lifetime value.
     그레이스: 그럼 그걸 갖고 있는 데 드는 비용을 보여 드려야죠. 고객 생애가치를 계산하려면 이틀 더 필요해요.
@@ -240,83 +240,83 @@
 075. GRACE: Minus thirty-four. I already looked.
     그레이스: 마이너스 34예요. 벌써 봤어요.
 
-076. STUART: Let me save everybody some time. I don't dispute the wait times. I dispute that we have a problem.
-    스튜어트: 다들 시간 좀 아껴 드리죠. 대기 시간은 반박 안 합니다. 우리한테 문제가 있다는 걸 반박하는 거죠.
+076. MALCOLM: Let me save everybody some time. I don't dispute the wait times. I dispute that we have a problem.
+    맬컴: 다들 시간 좀 아껴 드리죠. 대기 시간은 반박 안 합니다. 우리한테 문제가 있다는 걸 반박하는 거죠.
 
-077. GLORIA: Stuart, complaints are up three times.
-    글로리아: 스튜어트, 민원이 세 배로 늘었어요.
+077. GLORIA: Malcolm, complaints are up three times.
+    글로리아: 맬컴, 민원이 세 배로 늘었어요.
 
-078. STUART: And our loss ratio is down three points over the same period. For the consultants, loss ratio is what we pay out in claims divided by what we take in from premiums. Lower is better. Our shareholders are very happy.
-    스튜어트: 그리고 같은 기간 손해율은 3포인트 떨어졌죠. 컨설턴트분들을 위해 말하자면, 손해율은 지급한 보험금을 거둬들인 보험료로 나눈 겁니다. 낮을수록 좋아요. 주주들은 아주 만족하고 있습니다.
+078. MALCOLM: And our loss ratio is down three points over the same period. For the consultants, loss ratio is what we pay out in claims divided by what we take in from premiums. Lower is better. Our shareholders are very happy.
+    맬컴: 그리고 같은 기간 손해율은 3포인트 떨어졌죠. 컨설턴트분들을 위해 말하자면, 손해율은 지급한 보험금을 거둬들인 보험료로 나눈 겁니다. 낮을수록 좋아요. 주주들은 아주 만족하고 있습니다.
 
-079. OWEN: We understand loss ratio, Stuart. We also think it's lying to you a little.
-    오언: 손해율은 저희도 압니다, 스튜어트. 다만 그 숫자가 지금 약간 거짓말을 하고 있다고 봅니다.
+079. OWEN: We understand loss ratio, Malcolm. We also think it's lying to you a little.
+    오언: 손해율은 저희도 압니다, 맬컴. 다만 그 숫자가 지금 약간 거짓말을 하고 있다고 봅니다.
 
-080. STUART: Numbers don't lie, Mr. Brandt.
-    스튜어트: 숫자는 거짓말 안 합니다, 브랜트 씨.
+080. MALCOLM: Numbers don't lie, Mr. Brandt.
+    맬컴: 숫자는 거짓말 안 합니다, 브랜트 씨.
 
 081. GRACE: No, but they can leave things out. May I?
     그레이스: 안 하죠. 하지만 뭔가를 빠뜨릴 수는 있어요. 말씀드려도 될까요?
 
-082. STUART: Go ahead.
-    스튜어트: 하세요.
+082. MALCOLM: Go ahead.
+    맬컴: 하세요.
 
 083. GRACE: Last year, about sixteen thousand customers abandoned their claims, and you kept thirty-seven million dollars. That's the part in your loss ratio. Here's the part that isn't.
     그레이스: 작년에 고객 약 1만 6천 명이 청구를 포기했고, 회사는 3,700만 달러를 지켰어요. 그게 손해율에 들어간 부분이고요. 지금부터는 안 들어간 부분이에요.
 
-084. STUART: I'm listening.
-    스튜어트: 듣고 있어요.
+084. MALCOLM: I'm listening.
+    맬컴: 듣고 있어요.
 
 085. GRACE: Out of ninety thousand claimants, forty-one percent won't renew, compared with twelve percent of everyone else. That's twenty-nine extra points, or about twenty-six thousand customers you didn't have to lose. Each one is worth around forty-eight hundred dollars over their lifetime, which means you've given up roughly a hundred twenty-five million dollars to save thirty-seven.
     그레이스: 청구 고객 9만 명 중 41퍼센트가 갱신을 안 해요. 나머지 고객은 12퍼센트죠. 29포인트 차이, 그러니까 안 잃어도 됐을 고객이 2만 6천 명쯤이에요. 한 명당 생애가치가 4,800달러 정도니까, 3,700만 달러를 아끼려고 1억 2,500만 달러가량을 포기하신 셈이에요.
 
-086. STUART: That's a model. Models have assumptions.
-    스튜어트: 그건 모델이잖아요. 모델엔 가정이 들어가고요.
+086. MALCOLM: That's a model. Models have assumptions.
+    맬컴: 그건 모델이잖아요. 모델엔 가정이 들어가고요.
 
 087. GRACE: They do. So I cut every assumption in half, the renewal gap and the lifetime value. Even then, you lose thirty-one million to save thirty-seven, and that's before the regulator gets involved.
     그레이스: 맞아요. 그래서 모든 가정을 반으로 깎아 봤어요. 갱신율 차이도, 생애가치도요. 그래도 3,700만 달러를 아끼려고 3,100만 달러를 잃어요. 감독 당국이 개입하기도 전에요.
 
-088. STUART: So it's roughly a wash.
-    스튜어트: 그럼 대충 비기는 거네요.
+088. MALCOLM: So it's roughly a wash.
+    맬컴: 그럼 대충 비기는 거네요.
 
 089. OWEN: In the worst case for us, it's a wash. In every other case, you're losing. But I don't think the money is even the main point.
     오언: 저희한테 가장 불리하게 잡으면 비기는 거고요. 나머지 모든 경우엔 손해 보시는 겁니다. 그런데 저는 돈이 제일 중요한 문제라고도 생각하지 않습니다.
 
-090. STUART: You're a consultant. The money's always the main point.
-    스튜어트: 컨설턴트시잖아요. 돈은 언제나 제일 중요한 문제죠.
+090. MALCOLM: You're a consultant. The money's always the main point.
+    맬컴: 컨설턴트시잖아요. 돈은 언제나 제일 중요한 문제죠.
 
 091. OWEN: Then let me put it in money. You think you're saving thirty-seven million. What you're actually doing is borrowing it from next year's renewals, at an interest rate no bank in New York would offer, and you're borrowing it from your most loyal customers.
     오언: 그럼 돈으로 말씀드리죠. 3,700만 달러를 아끼고 있다고 생각하시겠지만, 실제로는 내년 갱신 고객한테서 그 돈을 빌리고 계신 겁니다. 뉴욕의 어떤 은행도 안 줄 이자율로요. 그것도 가장 충성스러운 고객들한테서요.
 
-092. GLORIA: Mrs. Abernathy paid us for nineteen years.
-    글로리아: 애버내시 부인은 19년 동안 보험료를 냈어요.
+092. GLORIA: Mrs. Pettigrew paid us for nineteen years.
+    글로리아: 페티그루 부인은 19년 동안 보험료를 냈어요.
 
-093. STUART: Who's Mrs. Abernathy?
-    스튜어트: 애버내시 부인이 누군데요?
+093. MALCOLM: Who's Mrs. Pettigrew?
+    맬컴: 페티그루 부인이 누군데요?
 
 094. SOFIA: She's the customer who stopped calling. I can read you her letter. It's short.
     소피아: 전화를 그만둔 고객이에요. 편지 읽어 드릴 수 있어요. 짧아요.
 
-095. STUART: I've read enough letters. What are you proposing?
-    스튜어트: 편지는 읽을 만큼 읽었어요. 뭘 제안하시는 거죠?
+095. MALCOLM: I've read enough letters. What are you proposing?
+    맬컴: 편지는 읽을 만큼 읽었어요. 뭘 제안하시는 거죠?
 
 096. OWEN: One claim, one owner. Every small claim gets a single person from the first call to the final check. That person keeps the file, calls the customer back, and is measured on whether the claim gets resolved, not on how fast the phone call ends.
     오언: 청구 하나에 담당자 한 명입니다. 모든 소액 청구는 첫 전화부터 마지막 수표까지 한 사람이 맡습니다. 그 사람이 파일을 갖고 있고, 고객에게 다시 전화하고, 통화를 얼마나 빨리 끝냈느냐가 아니라 청구가 해결됐느냐로 평가받는 겁니다.
 
-097. STUART: That's more staff, and staff is the most expensive thing we have.
-    스튜어트: 인력이 더 들겠네요. 인력은 우리한테 제일 비싼 거고요.
+097. MALCOLM: That's more staff, and staff is the most expensive thing we have.
+    맬컴: 인력이 더 들겠네요. 인력은 우리한테 제일 비싼 거고요.
 
 098. GRACE: It's the same staff, organized differently. You currently have about two hundred people in intake, documentation, and follow-up. We'd retrain eighty-five of them as claim owners. The extra cost is about seven million a year, mostly training and software changes.
     그레이스: 같은 인력을 다르게 짜는 거예요. 지금 접수, 서류, 후속 처리에 2백 명쯤 있는데, 그중 85명을 청구 담당자로 재교육해요. 추가 비용은 연 700만 달러 정도고, 대부분 교육비랑 시스템 변경 비용이에요.
 
-099. STUART: Seven million to protect thirty-one, in your pessimistic case.
-    스튜어트: 비관적으로 잡은 경우에도 3,100만 달러를 지키려고 700만 달러를 쓴다.
+099. MALCOLM: Seven million to protect thirty-one, in your pessimistic case.
+    맬컴: 비관적으로 잡은 경우에도 3,100만 달러를 지키려고 700만 달러를 쓴다.
 
 100. GRACE: Yes. In your pessimistic case.
     그레이스: 네. CFO님 기준으로 비관적인 경우에요.
 
-101. STUART: And who's going to design this? Gloria's team?
-    스튜어트: 그럼 이건 누가 설계하죠? 글로리아 팀이요?
+101. MALCOLM: And who's going to design this? Gloria's team?
+    맬컴: 그럼 이건 누가 설계하죠? 글로리아 팀이요?
 
 102. OWEN: Someone who's already doing it, against the rules. We'd like you to meet Desiree Lyons.
     오언: 이미 규칙을 어겨 가면서 그렇게 일하고 있는 사람이요. 데지레 라이언스 씨를 소개하겠습니다.
@@ -324,26 +324,26 @@
 103. DESIREE: Hi. I'm sorry, I've never been on the forty-first floor before. The carpet is very soft.
     데지레: 안녕하세요. 죄송해요, 41층엔 처음 와 봐서요. 카펫이 엄청 푹신하네요.
 
-104. STUART: Ms. Lyons, I'm told you give customers your direct extension.
-    스튜어트: 라이언스 씨, 고객들한테 직통 내선 번호를 준다고 들었어요.
+104. MALCOLM: Ms. Lyons, I'm told you give customers your direct extension.
+    맬컴: 라이언스 씨, 고객들한테 직통 내선 번호를 준다고 들었어요.
 
 105. DESIREE: Yes, sir. I know it hurts my handle time, which is how long my calls take. But when I keep a claim, it's paid in about six days. When I pass it on, it takes five weeks.
     데지레: 네, 그렇습니다. 그게 처리 시간, 그러니까 통화 시간 지표를 망치는 건 알아요. 근데 제가 건을 맡으면 엿새 정도면 지급되고, 넘기면 5주가 걸려요.
 
-106. STUART: Six days versus five weeks? For the same kind of claim?
-    스튜어트: 엿새 대 5주요? 똑같은 종류의 청구인데요?
+106. MALCOLM: Six days versus five weeks? For the same kind of claim?
+    맬컴: 엿새 대 5주요? 똑같은 종류의 청구인데요?
 
 107. DESIREE: My customers also send me Christmas cards. I got eleven this year.
     데지레: 그리고 제 고객들은 크리스마스 카드도 보내 줘요. 올해는 열한 장 받았어요.
 
-108. STUART: Okay. I'll make you a deal, Gloria. Run it as a pilot in two regions for six months, with Ms. Lyons training the first group. If the renewal numbers move the way Ms. Liu says they will, I'll fund it company-wide.
-    스튜어트: 좋습니다. 글로리아, 이렇게 하죠. 두 지역에서 6개월간 시범 운영하고, 첫 그룹 교육은 라이언스 씨가 맡아요. 갱신율이 리우 씨 말대로 움직이면 전사 예산을 대겠습니다.
+108. MALCOLM: Okay. I'll make you a deal, Gloria. Run it as a pilot in two regions for six months, with Ms. Lyons training the first group. If the renewal numbers move the way Ms. Liu says they will, I'll fund it company-wide.
+    맬컴: 좋습니다. 글로리아, 이렇게 하죠. 두 지역에서 6개월간 시범 운영하고, 첫 그룹 교육은 라이언스 씨가 맡아요. 갱신율이 리우 씨 말대로 움직이면 전사 예산을 대겠습니다.
 
-109. GLORIA: Six months. Thank you, Stuart.
-    글로리아: 6개월이요. 고마워요, 스튜어트.
+109. GLORIA: Six months. Thank you, Malcolm.
+    글로리아: 6개월이요. 고마워요, 맬컴.
 
-110. STUART: Don't thank me. Thank the person who did the math. And, Ms. Lyons, you can keep giving out your extension.
-    스튜어트: 저한테 고마워하지 마세요. 계산한 사람한테 고마워하세요. 그리고 라이언스 씨, 내선 번호는 계속 알려 주셔도 됩니다.
+110. MALCOLM: Don't thank me. Thank the person who did the math. And, Ms. Lyons, you can keep giving out your extension.
+    맬컴: 저한테 고마워하지 마세요. 계산한 사람한테 고마워하세요. 그리고 라이언스 씨, 내선 번호는 계속 알려 주셔도 됩니다.
 
 111. DESIREE: I wasn't going to stop, sir. But thank you.
     데지레: 어차피 그만둘 생각 없었어요. 그래도 감사합니다.
@@ -354,11 +354,11 @@
 113. OWEN: Because almost everything that ruins a company is legal. If you stop at "Is it legal?", you'll always find a reason to do nothing. The better question is whether you'd be comfortable explaining it to the person it happened to.
     오언: 회사를 망치는 일은 거의 다 합법이거든. "합법인가?"에서 멈추면 아무것도 안 할 핑계는 언제든 찾아. 더 나은 질문은, 그 일을 당한 사람한테 직접 설명할 때 떳떳하냐는 거야.
 
-114. JAMAL: Like Mrs. Abernathy.
-    자말: 애버내시 부인 같은 사람한테요.
+114. JAMAL: Like Mrs. Pettigrew.
+    자말: 페티그루 부인 같은 사람한테요.
 
-115. OWEN: Like Mrs. Abernathy. Or your grandmother.
-    오언: 애버내시 부인 같은 사람. 아니면 너희 할머니.
+115. OWEN: Like Mrs. Pettigrew. Or your grandmother.
+    오언: 페티그루 부인 같은 사람. 아니면 너희 할머니.
 
 116. GRACE: Speaking of which, Jamal, your claim was approved this morning. The check for twenty-three hundred dollars is in the mail.
     그레이스: 그 얘기가 나와서 말인데, 자말 씨, 오늘 아침에 청구가 승인됐어요. 2,300달러짜리 수표가 우편으로 가고 있대요.

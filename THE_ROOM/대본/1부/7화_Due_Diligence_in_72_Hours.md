@@ -213,8 +213,8 @@
 066. OWEN: Sofia, your turn. You never talk about the paper.
     오언: 소피아, 네 차례야. 신문사 얘기는 한 번도 안 하잖아.
 
-067. SOFIA: The Staten Island Courier. Eight years, from obituaries to city hall. Then it closed, and I found out from an email at six in the morning. I still miss it. I miss calling people who didn't want to talk to me.
-    소피아: 스태튼아일랜드 쿠리어. 8년 있었어요. 부고 기사부터 시청 담당까지. 그러다 폐간됐는데, 새벽 6시에 이메일로 알았어요. 아직도 그리워요. 나랑 말하기 싫어하는 사람들한테 전화하던 게 그리워요.
+067. SOFIA: The Island Dispatch, on Staten Island. Six years, from obituaries to city hall. Then it closed, and I found out from an email at six in the morning. I still miss it. I miss calling people who didn't want to talk to me.
+    소피아: 스태튼아일랜드의 아일랜드 디스패치. 6년 있었어요. 부고 기사부터 시청 담당까지. 그러다 폐간됐는데, 새벽 6시에 이메일로 알았어요. 아직도 그리워요. 나랑 말하기 싫어하는 사람들한테 전화하던 게 그리워요.
 
 068. JAMAL: Like Calvin.
     자말: 캘빈처럼요.

@@ -180,8 +180,8 @@
 055. OWEN: So what are you saying? Don't do it?
     오언: 그래서 하지 말자는 거야?
 
-056. GRACE: I'm saying look at this line. If we spend all twenty million in the first nine months, our cash bottoms out at one point one million in month eleven. Our payroll is one point two million every two weeks.
-    그레이스: 이 줄을 보라는 거야. 처음 9개월 안에 2천만을 다 쓰면, 11개월 차에 현금이 110만 달러까지 떨어져. 우리 급여는 2주마다 120만이고.
+056. GRACE: I'm saying look at this line. If we spend all twenty million in the first nine months, our cash bottoms out at one point one million in month eleven. Our payroll is one point four million every two weeks.
+    그레이스: 이 줄을 보라는 거야. 처음 9개월 안에 2천만을 다 쓰면, 11개월 차에 현금이 110만 달러까지 떨어져. 우리 급여는 2주마다 140만이고.
 
 057. OWEN: So for one week, we couldn't make payroll.
     오언: 그러니까 일주일 동안은 월급을 못 준다는 거네.

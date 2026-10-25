@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 3화 · 서사 기능: 케이스 오브 더 위크, 자말의 첫 발표
 > - 배경: 첼시의 Good Boy Club 본점(2026년 10월 5일 월요일 아침) → 이스트빌리지 톰킨스 스퀘어 공원 애견 놀이터(7일 수요일 아침) → W&C 엘리베이터와 Good Boy Club 회의실(14일 수요일 오후). 맑고 쌀쌀한 10월.
-> - 등장인물: Owen, Grace, Jamal, Sofia, Chloe Banks(Good Boy Club 창업자), Hector(애견 놀이터의 프렌치불도그 보호자, 단역), Marisol Vega(Good Boy Club 투자 주도 펀드 파트너, 단역)
+> - 등장인물: Owen, Grace, Jamal, Sofia, Chloe Banks(Good Boy Club 창업자), Hector(애견 놀이터의 프렌치불도그 보호자, 단역), Noreen Vega(Good Boy Club 투자 주도 펀드 파트너, 단역)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 시장 규모 추정(TAM), 하향식·상향식 페르미 추정, 교차 검증, 투자자 피치
 > - 이번 화의 핵심 표현: "market sizing", "ballpark", "sanity check", "back-of-the-envelope", "TAM", "triangulate"
@@ -72,8 +72,8 @@
 019. OWEN: That's what we're here to find out. When is the investor meeting?
     오언: 그걸 알아내려고 저희가 온 거예요. 투자자 미팅이 언제죠?
 
-020. CHLOE: A week from Wednesday. Marisol Vega, from Lantern Seed Fund. If she's in, the others follow.
-    클로이: 다음 주 수요일이요. 랜턴 시드 펀드의 마리솔 베가요. 그분이 들어오면 나머지도 따라와요.
+020. CHLOE: A week from Wednesday. Noreen Vega, from Lantern Seed Fund. If she's in, the others follow.
+    클로이: 다음 주 수요일이요. 랜턴 시드 펀드의 노린 베가요. 그분이 들어오면 나머지도 따라와요.
 
 021. SOFIA: And how much are you raising?
     소피아: 얼마를 유치하시는데요?
@@ -81,8 +81,8 @@
 022. CHLOE: Three million, to open four more locations. Brooklyn first, Park Slope and Williamsburg.
     클로이: 300만 달러요. 지점 네 곳을 더 내려고요. 브루클린 먼저, 파크 슬로프랑 윌리엄스버그.
 
-023. OWEN: Then here's what I'd suggest. We'll do proper market sizing this week, from two directions, and give you a number you can defend when Marisol starts asking questions.
-    오언: 그럼 이렇게 제안하겠습니다. 이번 주에 두 방향에서 제대로 시장 규모를 추정해서, 마리솔이 질문을 퍼붓기 시작해도 방어할 수 있는 숫자를 드릴게요.
+023. OWEN: Then here's what I'd suggest. We'll do proper market sizing this week, from two directions, and give you a number you can defend when Noreen starts asking questions.
+    오언: 그럼 이렇게 제안하겠습니다. 이번 주에 두 방향에서 제대로 시장 규모를 추정해서, 노린이 질문을 퍼붓기 시작해도 방어할 수 있는 숫자를 드릴게요.
 
 024. JAMAL: Market sizing, meaning we calculate how big the market really is?
     자말: 시장 규모 추정이면, 시장이 실제로 얼마나 큰지 계산하는 거죠?
@@ -105,8 +105,8 @@
 030. CHLOE: Wait, so you're telling me my number is too big, and the new guy is going to tell my investor?
     클로이: 잠깐만요, 그러니까 제 숫자가 너무 크다는 걸, 신입이 제 투자자한테 말한다는 거예요?
 
-031. OWEN: I'm telling you that if your number is wrong, Marisol will find out in about four minutes. It's better that she hears the right number from us, with a story about why it's still a great business.
-    오언: 숫자가 틀렸다면 마리솔은 4분 안에 알아챌 거라는 말씀이에요. 그분이 맞는 숫자를 저희한테서, 그래도 왜 훌륭한 사업인지에 대한 스토리와 함께 듣는 게 낫습니다.
+031. OWEN: I'm telling you that if your number is wrong, Noreen will find out in about four minutes. It's better that she hears the right number from us, with a story about why it's still a great business.
+    오언: 숫자가 틀렸다면 노린은 4분 안에 알아챌 거라는 말씀이에요. 그분이 맞는 숫자를 저희한테서, 그래도 왜 훌륭한 사업인지에 대한 스토리와 함께 듣는 게 낫습니다.
 
 032. CHLOE: And if the right number is tiny?
     클로이: 맞는 숫자가 쥐꼬리만 하면요?
@@ -252,8 +252,8 @@
 079. JAMAL: Three numbers. Four hundred million total. Ninety million premium. Twenty percent growth.
     자말: 숫자 세 개. 전체 4억. 프리미엄 9천만. 성장률 20%.
 
-080. GRACE: Good. And when Marisol asks you something you can't answer, and she will, what do you say?
-    그레이스: 좋아요. 그리고 마리솔이 자말이 답 못 하는 걸 물어보면, 분명히 물어볼 텐데, 뭐라고 할 거예요?
+080. GRACE: Good. And when Noreen asks you something you can't answer, and she will, what do you say?
+    그레이스: 좋아요. 그리고 노린이 자말이 답 못 하는 걸 물어보면, 분명히 물어볼 텐데, 뭐라고 할 거예요?
 
 081. JAMAL: Um. "Great question"?
     자말: 음. "좋은 질문이네요"?
@@ -279,17 +279,17 @@
 088. GRACE: Now it is. Doors are opening. Lead with the answer.
     그레이스: 이제 지워졌어요. 문 열려요. 결론부터.
 
-089. CHLOE: Marisol, this is the team from Whitmore and Crane. Jamal's going to walk us through the market.
-    클로이: 마리솔, 이쪽이 휘트모어 앤 크레인 팀이에요. 자말 씨가 시장에 대해 설명해 줄 거예요.
+089. CHLOE: Noreen, this is the team from Whitmore and Crane. Jamal's going to walk us through the market.
+    클로이: 노린, 이쪽이 휘트모어 앤 크레인 팀이에요. 자말 씨가 시장에 대해 설명해 줄 거예요.
 
-090. MARISOL: Great. I've got thirty minutes and a lot of skepticism. Go.
-    마리솔: 좋아요. 시간은 30분이고, 의심은 아주 많아요. 시작하세요.
+090. NOREEN: Great. I've got thirty minutes and a lot of skepticism. Go.
+    노린: 좋아요. 시간은 30분이고, 의심은 아주 많아요. 시작하세요.
 
 091. JAMAL: Okay. The answer first. The New York City dog daycare market is about four hundred million dollars a year, not five billion. But the premium segment, where Good Boy Club competes, is about ninety million, and it's growing roughly twenty percent a year, three times faster than the market overall.
     자말: 네. 결론부터 말씀드리겠습니다. 뉴욕시 애견 데이케어 시장은 50억 달러가 아니라 연간 약 4억 달러입니다. 하지만 굿 보이 클럽이 경쟁하는 프리미엄 시장은 약 9천만 달러이고, 매년 20% 정도씩, 전체 시장보다 세 배 빠르게 성장하고 있습니다.
 
-092. MARISOL: Four hundred million. Chloe's deck says five billion.
-    마리솔: 4억이라. 클로이 자료엔 50억이라고 돼 있던데요.
+092. NOREEN: Four hundred million. Chloe's deck says five billion.
+    노린: 4억이라. 클로이 자료엔 50억이라고 돼 있던데요.
 
 093. CHLOE: That number came from a report on all pet spending. We've corrected it.
     클로이: 그 숫자는 반려동물 지출 전체에 대한 보고서에서 나왔어요. 저희가 바로잡았어요.
@@ -297,14 +297,14 @@
 094. JAMAL: We estimated it two ways. Top-down, from the number of dogs, we got four hundred million. Bottom-up, from licensed facilities and their average revenue, we got three ninety. When two methods agree, we trust the range.
     자말: 두 가지 방법으로 추정했습니다. 개의 수에서 출발한 하향식으로는 4억, 등록 업체 수와 평균 매출에서 출발한 상향식으로는 3억 9천이 나왔습니다. 두 방법이 일치하면 그 범위는 믿을 수 있습니다.
 
-095. MARISOL: Your top-down assumes one in six households has a dog. Where does that come from? And Chloe's opening in Brooklyn, where ownership is completely different from Manhattan. Did you split it by borough?
-    마리솔: 하향식에서 여섯 가구 중 한 곳이 개를 키운다고 가정했죠. 그건 어디서 나온 거예요? 그리고 클로이는 브루클린에 지점을 내는데, 거긴 개 보유율이 맨해튼이랑 완전히 달라요. 자치구별로 나눠 봤어요?
+095. NOREEN: Your top-down assumes one in six households has a dog. Where does that come from? And Chloe's opening in Brooklyn, where ownership is completely different from Manhattan. Did you split it by borough?
+    노린: 하향식에서 여섯 가구 중 한 곳이 개를 키운다고 가정했죠. 그건 어디서 나온 거예요? 그리고 클로이는 브루클린에 지점을 내는데, 거긴 개 보유율이 맨해튼이랑 완전히 달라요. 자치구별로 나눠 봤어요?
 
 096. JAMAL: Um. So the household number is from... it's in the appendix, I think...
     자말: 음. 그러니까 가구 수치는... 부록에 있는 것 같은데...
 
-097. MARISOL: Take your time.
-    마리솔: 천천히 하세요.
+097. NOREEN: Take your time.
+    노린: 천천히 하세요.
 
 098. GRACE: Jamal. Elevator.
     그레이스: 자말. 엘리베이터.
@@ -312,20 +312,20 @@
 099. JAMAL: Right. I don't know the exact figure by borough, and I won't pretend I do. But here's what I do know. Even if ownership were twenty-five percent instead of one in six, the market would be about six hundred million, not five billion. The answer moves a little; the conclusion doesn't.
     자말: 네. 자치구별 정확한 수치는 모릅니다. 아는 척하지 않겠습니다. 하지만 제가 아는 건 이겁니다. 보유율이 여섯 가구 중 한 곳이 아니라 25%라고 해도, 시장은 50억이 아니라 6억 정도입니다. 숫자는 조금 움직여도 결론은 안 바뀝니다.
 
-100. MARISOL: Okay. That's a better answer than the one in the appendix, probably.
-    마리솔: 좋아요. 아마 부록에 있는 답보다 그게 더 나은 답일 거예요.
+100. NOREEN: Okay. That's a better answer than the one in the appendix, probably.
+    노린: 좋아요. 아마 부록에 있는 답보다 그게 더 나은 답일 거예요.
 
 101. JAMAL: And for Brooklyn, I'd rather find out than guess. I can split it by borough by Friday.
     자말: 그리고 브루클린은 짐작하기보다 확인하고 싶습니다. 금요일까지 자치구별로 나눠 드릴 수 있습니다.
 
-102. MARISOL: Do that. Now tell me why I should invest in a smaller market.
-    마리솔: 그렇게 해 주세요. 이제 왜 더 작은 시장에 투자해야 하는지 말해 봐요.
+102. NOREEN: Do that. Now tell me why I should invest in a smaller market.
+    노린: 그렇게 해 주세요. 이제 왜 더 작은 시장에 투자해야 하는지 말해 봐요.
 
 103. SOFIA: Can I take that one? The most interesting thing we learned came from a guy named Hector at the dog run. He pays sixty-five dollars a day, and he'd pay fifteen more for pickup, as long as it's close to home.
     소피아: 그건 제가 말씀드려도 될까요? 저희가 알게 된 가장 흥미로운 사실은 애견 놀이터에서 만난 헥터라는 분한테서 나왔어요. 하루 65달러를 내는데, 집에서 가깝기만 하면 픽업에 15달러를 더 내겠대요.
 
-104. MARISOL: One guy.
-    마리솔: 한 사람이잖아요.
+104. NOREEN: One guy.
+    노린: 한 사람이잖아요.
 
 105. SOFIA: One guy and forty other owners, and three out of four premium daycares with waiting lists until January. People in this market aren't shopping for the cheapest option. They're shopping for trust, and they're shopping within ten blocks of home.
     소피아: 한 사람에 보호자 마흔 명이 더 있고요, 프리미엄 데이케어 네 곳 중 세 곳이 1월까지 대기자 명단이 차 있어요. 이 시장 사람들은 제일 싼 곳을 찾는 게 아니에요. 믿을 수 있는 곳을 찾고, 그것도 집에서 열 블록 안에서 찾아요.
@@ -333,26 +333,26 @@
 106. OWEN: Which changes the pitch. The real question isn't how big the market is. It's how much of the fastest-growing part Chloe can win. She already has about eight percent of premium, with four locations and a waiting list at two of them.
     오언: 그러면 피치가 바뀝니다. 진짜 질문은 시장이 얼마나 크냐가 아니에요. 가장 빨리 크는 부분을 클로이가 얼마나 차지할 수 있느냐죠. 클로이는 지점 네 곳으로 이미 프리미엄 시장의 약 8%를 갖고 있고, 그중 두 곳엔 대기자 명단이 있습니다.
 
-107. MARISOL: And the four new locations?
-    마리솔: 새 지점 네 곳은요?
+107. NOREEN: And the four new locations?
+    노린: 새 지점 네 곳은요?
 
 108. JAMAL: If they perform like the current ones, Good Boy Club gets to about fifteen percent of premium within three years. And because the segment is growing, fifteen percent of a bigger slice is worth a lot more than eight percent of today's.
     자말: 지금 지점들만큼만 하면, 굿 보이 클럽은 3년 안에 프리미엄 시장의 15% 정도까지 갑니다. 그리고 그 시장 자체가 커지고 있으니까, 더 커진 조각의 15%는 지금 조각의 8%보다 훨씬 큰 가치가 있습니다.
 
-109. MARISOL: Chloe, you know what I usually hear in these meetings? Billions. Every founder has a billion-dollar slide. And every time, I spend twenty minutes figuring out how fake it is.
-    마리솔: 클로이, 내가 이런 미팅에서 보통 뭘 듣는지 알아요? 수십억이요. 창업자마다 10억 달러짜리 슬라이드가 있어요. 그리고 매번 그게 얼마나 가짜인지 알아내는 데 20분을 써요.
+109. NOREEN: Chloe, you know what I usually hear in these meetings? Billions. Every founder has a billion-dollar slide. And every time, I spend twenty minutes figuring out how fake it is.
+    노린: 클로이, 내가 이런 미팅에서 보통 뭘 듣는지 알아요? 수십억이요. 창업자마다 10억 달러짜리 슬라이드가 있어요. 그리고 매번 그게 얼마나 가짜인지 알아내는 데 20분을 써요.
 
 110. CHLOE: And today?
     클로이: 오늘은요?
 
-111. MARISOL: Today I got a number I can check, and someone who admitted what he didn't know. That's rarer than you'd think. Send me the borough split on Friday, and I'll take this to my partners.
-    마리솔: 오늘은 검증할 수 있는 숫자를 받았고, 모르는 건 모른다고 인정하는 사람을 만났어요. 생각보다 드문 일이에요. 금요일에 자치구별 자료 보내 줘요. 그러면 파트너들한테 가져갈게요.
+111. NOREEN: Today I got a number I can check, and someone who admitted what he didn't know. That's rarer than you'd think. Send me the borough split on Friday, and I'll take this to my partners.
+    노린: 오늘은 검증할 수 있는 숫자를 받았고, 모르는 건 모른다고 인정하는 사람을 만났어요. 생각보다 드문 일이에요. 금요일에 자치구별 자료 보내 줘요. 그러면 파트너들한테 가져갈게요.
 
 112. CHLOE: Thank you. Seriously. I'll get you the numbers.
     클로이: 감사합니다. 진심으로요. 숫자 꼭 보내 드릴게요.
 
-113. MARISOL: Not you. Him. Jamal, right? Nice recovery.
-    마리솔: 당신 말고요. 저분이요. 자말 맞죠? 잘 회복했어요.
+113. NOREEN: Not you. Him. Jamal, right? Nice recovery.
+    노린: 당신 말고요. 저분이요. 자말 맞죠? 잘 회복했어요.
 
 114. JAMAL: Thank you. I think I sweated through my shirt.
     자말: 감사합니다. 셔츠가 땀에 다 젖은 것 같아요.

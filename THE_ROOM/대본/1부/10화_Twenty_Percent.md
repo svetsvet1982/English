@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 10화 · 서사 기능: 케이스 오브 더 위크 / 오언과 빅토리아의 첫 정면충돌
 > - 배경: W&C 38층 빅토리아의 코너 사무실(월요일 아침) → 웨스트 44번가 Meridian Media 빌딩 임시 작업실과 비어 있는 17·18층 → 21층 CEO 사무실 → 다시 빅토리아의 사무실(금요일 밤). 2027년 1월 18일~29일, 눈 녹은 진창의 한겨울.
-> - 등장인물: Owen, Grace, Jamal, Sofia, Victoria, Robert Ainsley(Meridian Media CEO), Gus Pavlides(Meridian 시설관리 매니저, 단역)
+> - 등장인물: Owen, Grace, Jamal, Sofia, Victoria, Robert Ainsley(Meridian Media CEO), Nick Pavlides(Meridian 시설관리 매니저, 단역)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 제로 베이스 예산(ZBB), 비용 구조 분석, 자동 갱신 계약 재입찰, 유휴 공간, 인력 감축의 대안
 > - 이번 화의 핵심 표현: "zero-based budgeting", "headcount", "cost base", "trim the fat", "cut to the bone", "phase two", "auto-renew"
@@ -150,38 +150,38 @@
 045. GRACE: Nobody with a badge. Let's go find out who's up there without one.
     그레이스: 카드 가진 사람은 아무도요. 카드 없이 거기 있는 게 누군지 알아보러 가죠.
 
-046. GUS: You're the consultants who wanted to see seventeen? I've been waiting four years for somebody to ask.
-    거스: 17층 보고 싶다던 컨설턴트분들이에요? 누가 물어봐 주길 4년 기다렸어요.
+046. NICK: You're the consultants who wanted to see seventeen? I've been waiting four years for somebody to ask.
+    닉: 17층 보고 싶다던 컨설턴트분들이에요? 누가 물어봐 주길 4년 기다렸어요.
 
-047. OWEN: You're Gus? Facilities?
-    오언: 거스 씨죠? 시설관리팀?
+047. OWEN: You're Nick? Facilities?
+    오언: 닉 씨죠? 시설관리팀?
 
-048. GUS: Gus Pavlides, twenty-two years in this building. Watch the boxes. Somebody moved the archive up here and forgot it.
-    거스: 거스 파블리데스요, 이 건물에서 22년 일했어요. 상자 조심하세요. 누가 자료실을 여기 옮겨 놓고 잊어버렸거든요.
+048. NICK: Nick Pavlides, twenty-two years in this building. Watch the boxes. Somebody moved the archive up here and forgot it.
+    닉: 닉 파블리데스요, 이 건물에서 22년 일했어요. 상자 조심하세요. 누가 자료실을 여기 옮겨 놓고 잊어버렸거든요.
 
 049. JAMAL: Is that... a whole wall of old magazines?
     자말: 저거… 벽 하나가 통째로 옛날 잡지예요?
 
-050. GUS: Every issue of The Dial since 1961. And a ping-pong table from 2019 that nobody uses. And the heat is on, because the lease says we have to keep it at sixty-eight degrees.
-    거스: 1961년 이후 <더 다이얼> 전권이요. 2019년에 들여놓고 아무도 안 쓰는 탁구대도 있고요. 난방도 돌아가요. 임대 계약상 20도로 유지해야 하거든요.
+050. NICK: Every issue of The Dial since 1961. And a ping-pong table from 2019 that nobody uses. And the heat is on, because the lease says we have to keep it at sixty-eight degrees.
+    닉: 1961년 이후 <더 다이얼> 전권이요. 2019년에 들여놓고 아무도 안 쓰는 탁구대도 있고요. 난방도 돌아가요. 임대 계약상 20도로 유지해야 하거든요.
 
-051. GRACE: How much do these two floors cost, Gus?
-    그레이스: 이 두 개 층에 돈이 얼마나 들어요, 거스 씨?
+051. GRACE: How much do these two floors cost, Nick?
+    그레이스: 이 두 개 층에 돈이 얼마나 들어요, 닉 씨?
 
-052. GUS: About five point six million a year, with heat, cleaning, and security. I put it in a memo in 2023. I put it in another memo in 2024. You want to see them?
-    거스: 난방, 청소, 보안까지 해서 연 560만 달러쯤이요. 2023년에 메모로 올렸어요. 2024년에 또 올렸고요. 보실래요?
+052. NICK: About five point six million a year, with heat, cleaning, and security. I put it in a memo in 2023. I put it in another memo in 2024. You want to see them?
+    닉: 난방, 청소, 보안까지 해서 연 560만 달러쯤이요. 2023년에 메모로 올렸어요. 2024년에 또 올렸고요. 보실래요?
 
 053. OWEN: Who did you send them to?
     오언: 그 메모 누구한테 보내셨어요?
 
-054. GUS: The CFO who left. And then the CFO who replaced him. Neither of them wrote back. In this company, if it's not on the cover, nobody reads it.
-    거스: 그만둔 CFO요. 그리고 그 후임 CFO요. 둘 다 답장이 없었어요. 이 회사에선 표지에 안 나오면 아무도 안 읽어요.
+054. NICK: The CFO who left. And then the CFO who replaced him. Neither of them wrote back. In this company, if it's not on the cover, nobody reads it.
+    닉: 그만둔 CFO요. 그리고 그 후임 CFO요. 둘 다 답장이 없었어요. 이 회사에선 표지에 안 나오면 아무도 안 읽어요.
 
-055. OWEN: Gus, we'll read it. Could you send me both memos today?
-    오언: 거스 씨, 저희는 읽을게요. 오늘 두 메모 다 보내 주실 수 있어요?
+055. OWEN: Nick, we'll read it. Could you send me both memos today?
+    오언: 닉 씨, 저희는 읽을게요. 오늘 두 메모 다 보내 주실 수 있어요?
 
-056. GUS: I'll print them. Old habits.
-    거스: 출력해 드릴게요. 옛날 버릇이라.
+056. NICK: I'll print them. Old habits.
+    닉: 출력해 드릴게요. 옛날 버릇이라.
 
 057. GRACE: Their lease has a give-back clause. They can return up to two floors with six months' notice and a penalty. After the penalty, the net saving is about four point eight million a year.
     그레이스: 임대 계약에 반환 조항이 있어요. 6개월 전에 통보하고 위약금을 내면 최대 두 개 층까지 돌려줄 수 있어요. 위약금을 빼고도 연 480만 달러쯤 절감돼요.
@@ -300,8 +300,8 @@
 095. ROBERT: And your firm will help us implement it? Victoria mentioned a second phase.
     로버트: 그리고 귀사가 실행을 도와주는 거죠? 빅토리아가 2단계를 언급했었는데요.
 
-096. OWEN: Honestly, Robert, you don't need an eighteen-week program for this. Your procurement team can run the print bid, Gus can handle the floors, and your CFO can cancel the software. You need a project manager, not a consulting firm.
-    오언: 솔직히 말씀드리면, 로버트, 이건 18주짜리 프로그램이 필요 없습니다. 인쇄 입찰은 구매팀이, 층 반환은 거스 씨가, 소프트웨어 해지는 CFO가 하면 됩니다. 필요한 건 컨설팅 회사가 아니라 프로젝트 매니저 한 명이에요.
+096. OWEN: Honestly, Robert, you don't need an eighteen-week program for this. Your procurement team can run the print bid, Nick can handle the floors, and your CFO can cancel the software. You need a project manager, not a consulting firm.
+    오언: 솔직히 말씀드리면, 로버트, 이건 18주짜리 프로그램이 필요 없습니다. 인쇄 입찰은 구매팀이, 층 반환은 닉 씨가, 소프트웨어 해지는 CFO가 하면 됩니다. 필요한 건 컨설팅 회사가 아니라 프로젝트 매니저 한 명이에요.
 
 097. ROBERT: You realize you just talked yourself out of a contract.
     로버트: 방금 스스로 계약 하나를 날리신 거 아시죠.

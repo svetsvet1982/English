@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 6화 · 서사 기능: 케이스 오브 더 위크, 빅토리아와의 균열 복선
 > - 배경: 플랫아이언의 PulseCycle 본사(2026년 11월 2일 월요일) → 유니언 스퀘어 스튜디오 새벽 6시 수업과 로비(4일 수요일) → W&C 38B 회의실 분석(5일 목요일 밤) → PulseCycle 본사 최종 제안과 빅토리아의 칭찬(11월 12일 목요일). 쌀쌀해진 11월 초.
-> - 등장인물: Owen, Grace, Jamal, Sofia, Victoria, Drew Hollis(PulseCycle CEO), Kendra(유니언 스퀘어 스튜디오 강사, 단역), Priya(새벽 수업 단골 회원, 단역), Desmond(낮 시간 회원, 프리랜서 사진가, 단역)
+> - 등장인물: Owen, Grace, Jamal, Sofia, Victoria, Drew Hollis(PulseCycle CEO), Kendra(유니언 스퀘어 스튜디오 강사, 단역), Imani(새벽 수업 단골 회원, 단역), Desmond(낮 시간 회원, 프리랜서 사진가, 단역)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 가격 탄력성, 지불 의향, 회원 세그먼트, 차등 가격제, 이탈률
 > - 이번 화의 핵심 표현: "price elasticity", "tiered pricing", "willingness to pay", "price point", "leave money on the table", "peak and off-peak"
@@ -141,20 +141,20 @@
 042. SOFIA: Okay, the class is full. Every single bike, at six in the morning. And there were people on the waitlist at the door.
     소피아: 좋아, 수업이 꽉 찼어. 새벽 6시에 자전거 한 대도 안 남았어. 문 앞엔 대기자들도 있었고.
 
-043. PRIYA: There are always people on the waitlist. I've been riding the six a.m. for three years, and I set an alarm on Sunday night just to book the slot the second it opens.
-    프리야: 대기자는 늘 있어요. 전 3년째 새벽 6시 수업을 타는데, 예약 열리는 순간 잡으려고 일요일 밤에 알람까지 맞춰요.
+043. IMANI: There are always people on the waitlist. I've been riding the six a.m. for three years, and I set an alarm on Sunday night just to book the slot the second it opens.
+    이마니: 대기자는 늘 있어요. 전 3년째 새벽 6시 수업을 타는데, 예약 열리는 순간 잡으려고 일요일 밤에 알람까지 맞춰요.
 
 044. SOFIA: Can I ask what you'd do if the price went up? Say, sixty-five dollars a month?
     소피아: 가격이 오르면 어떻게 하실지 여쭤봐도 돼요? 한 달에 65달러쯤이요?
 
-045. PRIYA: Honestly? I'd complain to my friends, and then I'd pay it. This is the only hour of my day that nobody can schedule a meeting in.
-    프리야: 솔직히요? 친구들한테 투덜대고, 그러고 나서 낼 거예요. 하루 중에 아무도 회의를 못 잡는 유일한 한 시간이거든요.
+045. IMANI: Honestly? I'd complain to my friends, and then I'd pay it. This is the only hour of my day that nobody can schedule a meeting in.
+    이마니: 솔직히요? 친구들한테 투덜대고, 그러고 나서 낼 거예요. 하루 중에 아무도 회의를 못 잡는 유일한 한 시간이거든요.
 
 046. JAMAL: What's the most you would pay?
     자말: 최대 얼마까지 내실 수 있어요?
 
-047. PRIYA: For a guaranteed spot at six a.m.? Maybe three fifty. Don't tell Drew I said that.
-    프리야: 새벽 6시 자리를 보장해 준다면요? 한 350? 드루한테는 제가 그랬다고 말하지 마세요.
+047. IMANI: For a guaranteed spot at six a.m.? Maybe three fifty. Don't tell Drew I said that.
+    이마니: 새벽 6시 자리를 보장해 준다면요? 한 350? 드루한테는 제가 그랬다고 말하지 마세요.
 
 048. SOFIA: Your secret's safe. Thank you.
     소피아: 비밀 지켜 드릴게요. 감사해요.
@@ -207,8 +207,8 @@
 064. GRACE: Close enough. And PulseCycle doesn't have one elasticity. It has two very different groups of members.
     그레이스: 비슷해요. 그리고 펄스사이클은 탄력성이 하나가 아니에요. 성격이 아주 다른 회원 집단이 두 개 있어요.
 
-065. SOFIA: Priya and Desmond.
-    소피아: 프리야랑 데즈먼드.
+065. SOFIA: Imani and Desmond.
+    소피아: 이마니랑 데즈먼드.
 
 066. GRACE: Exactly. About fifty-five percent of members mostly ride at peak times: early morning and weekday evenings. Their classes are ninety-five percent full, and the survey says they'd barely react to a price increase.
     그레이스: 맞아요. 회원의 약 55%가 주로 피크 시간, 그러니까 이른 아침이랑 평일 저녁에 타요. 그 수업들은 95% 차 있고, 설문을 보면 가격을 올려도 거의 반응하지 않을 거예요.
@@ -237,8 +237,8 @@
 074. SOFIA: So Drew's simple math isn't simple.
     소피아: 그러니까 드루의 간단한 산수는 간단하지 않네요.
 
-075. JAMAL: But Priya said she'd pay three fifty. So at six a.m., isn't he actually charging too little?
-    자말: 근데 프리야 씨는 350달러도 내겠다고 했잖아요. 그럼 새벽 6시엔 오히려 너무 싸게 받는 거 아니에요?
+075. JAMAL: But Imani said she'd pay three fifty. So at six a.m., isn't he actually charging too little?
+    자말: 근데 이마니 씨는 350달러도 내겠다고 했잖아요. 그럼 새벽 6시엔 오히려 너무 싸게 받는 거 아니에요?
 
 076. OWEN: He is. At peak times, he's leaving money on the table. People would pay more, and there's a waitlist proving it. At off-peak times, he's charging too much, and there are empty bikes proving that.
     오언: 맞아. 피크 시간엔 받을 수 있는 돈을 안 받고 있는 거야. 사람들이 더 낼 의향이 있고, 대기자 명단이 그걸 증명하지. 오프피크엔 너무 비싸게 받고 있고, 빈 자전거들이 그걸 증명하고.

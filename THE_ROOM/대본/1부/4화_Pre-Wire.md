@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 4화 · 서사 기능: 케이스 오브 더 위크, 빅토리아의 멘토 면모
 > - 배경: 브루클린 다운타운 코트 스트리트의 Harborview Savings Bank 본사 이사회실(2026년 10월 13일 화요일 아침) → W&C 38층 빅토리아의 사무실(같은 날 저녁) → 은행 임원들과의 일대일 면담(14~19일) → 두 번째 운영위원회(10월 20일 화요일). 비 오는 10월 중순.
-> - 등장인물: Owen, Grace, Jamal, Sofia, Victoria, Dennis Shaw(Harborview CFO), Catherine Doyle(Harborview CEO, 단역), Teresa Gomez(리테일 영업 총괄, 단역), Sam Okoro(리스크·준법 총괄, 단역)
+> - 등장인물: Owen, Grace, Jamal, Sofia, Victoria, Dennis Shaw(Harborview CFO), Catherine Doyle(Harborview CEO, 단역), Rachel Gomez(리테일 영업 총괄, 단역), Sam Mensah(리스크·준법 총괄, 단역)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 운영위원회, 사전 조율(pre-wiring), 반론 처리, 이해관계자 지도, 지역재투자법(CRA), 예금 유지율
 > - 이번 화의 핵심 표현: "pre-wire", "push back", "take it offline", "steering committee", "get everyone on the same page", "no surprises"
@@ -51,11 +51,11 @@
 012. DENNIS: I'm not finished. If the real number is seventy-one, then you're off by more than two hundred million dollars in deposits. Every page after this one is built on sand.
     데니스: 아직 안 끝났어요. 실제 숫자가 71이면 예금에서 2억 달러 넘게 틀린 거예요. 이 페이지 뒤에 있는 건 전부 모래 위에 지은 거고요.
 
-013. TERESA: Dennis, Bay Ridge was a special case. We closed it with two weeks' notice, during a snowstorm.
-    테리사: 데니스, 베이 리지는 특수한 경우였잖아요. 2주 전에 통보하고, 그것도 눈보라 치는 와중에 닫았어요.
+013. RACHEL: Dennis, Bay Ridge was a special case. We closed it with two weeks' notice, during a snowstorm.
+    레이철: 데니스, 베이 리지는 특수한 경우였잖아요. 2주 전에 통보하고, 그것도 눈보라 치는 와중에 닫았어요.
 
-014. DENNIS: Every closure is a special case, Teresa. That's my point.
-    데니스: 모든 폐점이 특수한 경우예요, 테리사. 그게 내 요점이고.
+014. DENNIS: Every closure is a special case, Rachel. That's my point.
+    데니스: 모든 폐점이 특수한 경우예요, 레이철. 그게 내 요점이고.
 
 015. SAM: Can I raise something else while we're here? Three of the twelve branches are in low- and moderate-income neighborhoods. Mott Haven, East New York, and Jamaica. I'm not sure the regulators will see that the same way we do.
     샘: 이왕 얘기 나온 김에 다른 것도 하나 말씀드려도 될까요? 12곳 중 세 곳이 저소득·중간소득 지역에 있어요. 모트 헤이븐, 이스트 뉴욕, 자메이카. 규제 당국이 그걸 우리랑 같은 시각으로 볼지 잘 모르겠어요.
@@ -69,8 +69,8 @@
 018. DENNIS: Page fourteen. Of course. I've seen a hundred decks like this, Mr. Brandt.
     데니스: 14페이지라. 그렇겠죠. 이런 자료 백 개는 봤어요, 브랜트 씨.
 
-019. CATHERINE: Okay. I don't think we can make a decision today. Teresa, Sam, Dennis, let's take the regulatory issue offline. Owen, can your team come back next Tuesday with revised numbers?
-    캐서린: 좋아요. 오늘 결정은 못 할 것 같네요. 테리사, 샘, 데니스, 규제 문제는 회의 끝나고 따로 얘기합시다. 오언 씨, 다음 주 화요일에 수정된 숫자로 다시 와 주실 수 있나요?
+019. CATHERINE: Okay. I don't think we can make a decision today. Rachel, Sam, Dennis, let's take the regulatory issue offline. Owen, can your team come back next Tuesday with revised numbers?
+    캐서린: 좋아요. 오늘 결정은 못 할 것 같네요. 레이철, 샘, 데니스, 규제 문제는 회의 끝나고 따로 얘기합시다. 오언 씨, 다음 주 화요일에 수정된 숫자로 다시 와 주실 수 있나요?
 
 020. OWEN: Of course. Next Tuesday.
     오언: 물론입니다. 다음 주 화요일에요.
@@ -207,23 +207,23 @@
 064. OWEN: Unanimous. That's helpful to know.
     오언: 만장일치. 알아 두면 도움이 되겠네요.
 
-065. TERESA: Honestly, my problem isn't the closures. It's the people. Those twelve branches have sixty-eight employees, and a lot of them have been with us for fifteen, twenty years.
-    테리사: 솔직히 제 문제는 폐점이 아니에요. 사람이에요. 그 12개 지점에 직원이 68명인데, 그중 상당수가 15년, 20년씩 함께한 사람들이에요.
+065. RACHEL: Honestly, my problem isn't the closures. It's the people. Those twelve branches have sixty-eight employees, and a lot of them have been with us for fifteen, twenty years.
+    레이철: 솔직히 제 문제는 폐점이 아니에요. 사람이에요. 그 12개 지점에 직원이 68명인데, 그중 상당수가 15년, 20년씩 함께한 사람들이에요.
 
 066. SOFIA: What would make this easier for them?
     소피아: 그분들한테 뭐가 있으면 좀 나을까요?
 
-067. TERESA: A real plan. Retrain the best ones, and give everyone honest notice.
-    테리사: 진짜 계획이요. 우수한 사람들은 재교육하고, 모두에게 제대로 미리 알려 주는 거요.
+067. RACHEL: A real plan. Retrain the best ones, and give everyone honest notice.
+    레이철: 진짜 계획이요. 우수한 사람들은 재교육하고, 모두에게 제대로 미리 알려 주는 거요.
 
 068. SOFIA: So that's what Bay Ridge taught everybody.
     소피아: 그게 베이 리지가 다들한테 남긴 교훈이네요.
 
-069. TERESA: Bay Ridge taught us what not to do. Dennis just won't admit he agrees with me.
-    테리사: 베이 리지는 뭘 하지 말아야 하는지 가르쳐 줬죠. 데니스는 그냥 저랑 같은 생각이라는 걸 인정 안 할 뿐이고요.
+069. RACHEL: Bay Ridge taught us what not to do. Dennis just won't admit he agrees with me.
+    레이철: 베이 리지는 뭘 하지 말아야 하는지 가르쳐 줬죠. 데니스는 그냥 저랑 같은 생각이라는 걸 인정 안 할 뿐이고요.
 
-070. JAMAL: Mr. Okoro, can I ask a dumb question? Why would regulators care which branches a bank closes?
-    자말: 오코로 씨, 바보 같은 질문 하나 해도 될까요? 은행이 어느 지점을 닫든 규제 당국이 왜 신경을 써요?
+070. JAMAL: Mr. Mensah, can I ask a dumb question? Why would regulators care which branches a bank closes?
+    자말: 멘사 씨, 바보 같은 질문 하나 해도 될까요? 은행이 어느 지점을 닫든 규제 당국이 왜 신경을 써요?
 
 071. SAM: It's not dumb. There's a federal law called the Community Reinvestment Act, the CRA. It requires banks to serve the whole community they take deposits from, including low- and moderate-income neighborhoods, and regulators grade us on it.
     샘: 바보 같은 질문 아니에요. 지역재투자법, CRA라는 연방법이 있어요. 은행은 예금을 받는 지역 전체에, 저소득·중간소득 동네까지 포함해서 서비스를 제공해야 하고, 규제 당국이 그걸로 우리를 평가해요.
@@ -255,8 +255,8 @@
 080. SAM: And it saves us a CRA problem that could cost a lot more than that.
     샘: 그리고 그보다 훨씬 비쌀 수도 있는 CRA 문제를 막아 주죠.
 
-081. GRACE: I also met with the head of HR this morning. She said the same thing Teresa did, almost word for word. Sixty-eight people, and she wants six months' notice, not two weeks.
-    그레이스: 오늘 아침엔 인사 총괄도 만났어요. 테리사랑 거의 토씨 하나 안 틀리고 똑같은 말을 하더라고요. 68명이고, 2주가 아니라 6개월 전에 통보하길 원해요.
+081. GRACE: I also met with the head of HR this morning. She said the same thing Rachel did, almost word for word. Sixty-eight people, and she wants six months' notice, not two weeks.
+    그레이스: 오늘 아침엔 인사 총괄도 만났어요. 레이철랑 거의 토씨 하나 안 틀리고 똑같은 말을 하더라고요. 68명이고, 2주가 아니라 6개월 전에 통보하길 원해요.
 
 082. OWEN: That's four. Now the fifth.
     오언: 이제 네 명. 다섯 번째가 남았네.
@@ -294,8 +294,8 @@
 093. DENNIS: A hundred and one, now. What else is in the revised plan?
     데니스: 이제 백한 개네요. 수정안에 또 뭐가 들어 있어요?
 
-094. OWEN: Nine closures, three conversions to financial counseling centers, six months' notice for staff, and retraining for the best people. Sam, Teresa, and HR have already seen it. Catherine wants it unanimous.
-    오언: 9곳 폐점, 3곳은 금융 상담 센터로 전환, 직원들에겐 6개월 전 통보, 우수 인력은 재교육입니다. 샘, 테리사, 인사 총괄은 이미 봤고요. 캐서린은 만장일치를 원하십니다.
+094. OWEN: Nine closures, three conversions to financial counseling centers, six months' notice for staff, and retraining for the best people. Sam, Rachel, and HR have already seen it. Catherine wants it unanimous.
+    오언: 9곳 폐점, 3곳은 금융 상담 센터로 전환, 직원들에겐 6개월 전 통보, 우수 인력은 재교육입니다. 샘, 레이철, 인사 총괄은 이미 봤고요. 캐서린은 만장일치를 원하십니다.
 
 095. DENNIS: Of course she does. Send it to me tonight. I'll read it properly.
     데니스: 당연히 그렇겠죠. 오늘 밤에 보내요. 제대로 읽어 볼 테니까.
@@ -324,8 +324,8 @@
 103. SAM: From a regulatory standpoint, the counseling centers change the picture completely. I'd be comfortable presenting this to our examiners.
     샘: 규제 관점에서 보면, 상담 센터가 그림을 완전히 바꿔요. 이거라면 검사관들 앞에서 설명해도 괜찮겠습니다.
 
-104. TERESA: And six months' notice means I can look my branch managers in the eye. I'm in.
-    테리사: 그리고 6개월 전 통보면 제가 지점장들 눈을 똑바로 볼 수 있어요. 찬성입니다.
+104. RACHEL: And six months' notice means I can look my branch managers in the eye. I'm in.
+    레이철: 그리고 6개월 전 통보면 제가 지점장들 눈을 똑바로 볼 수 있어요. 찬성입니다.
 
 105. CATHERINE: Any objections? Anyone?
     캐서린: 반대 있나요? 누구라도?
@@ -388,7 +388,7 @@
 - **push back** — 반대하다, 반발하다 (050, 051, 052)
 - **get everyone on the same page** — 모두의 생각을 맞추다, 같은 이해를 갖게 하다 (058)
 - **Community Reinvestment Act (CRA)** — 지역재투자법. 은행이 저소득 지역을 포함한 지역사회 전체에 서비스하도록 한 미국 연방법 (071)
-- **I'm in.** — 찬성이에요, 함께할게요 / 테리사 (104)
+- **I'm in.** — 찬성이에요, 함께할게요 / 레이철 (104)
 - **Take it as a compliment / a warning.** — 칭찬으로 / 경고로 받아들여라 / 데니스와 오언 (115, 116)
 
 ## 다음 화 예고 (낭독하지 않음)

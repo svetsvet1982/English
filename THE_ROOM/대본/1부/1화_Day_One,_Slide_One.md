@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 1화 · 서사 기능: 시리즈 도입, 첫 사건
 > - 배경: Whitmore & Crane 38층·38B 회의실(2026년 9월 8일 화요일 아침) → 5번가 Halbrook's 백화점 킥오프(9일) → 매장과 지하 창고(9~10일) → 38B 회의실 최종 보고와 하산의 카트(9월 18일 금요일). 늦여름 기운이 남은 초가을.
-> - 등장인물: Owen, Grace, Jamal, Sofia, Victoria, Hassan, Patricia Halbrook, Bev, Luis(Halbrook's 반품 창고 담당, 단역)
+> - 등장인물: Owen, Grace, Jamal, Sofia, Victoria, Hassan, Patricia Halbrook, Bev, Reggie(Halbrook's 반품 창고 담당, 단역)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 킥오프, 범위(scope)·산출물(deliverable) 정의, 현장 관찰, 결론부터 말하기
 > - 이번 화의 핵심 표현: "scope", "deliverable", "walk the floor", "pain point", "lead with the answer", "on the client's dime"
@@ -267,8 +267,8 @@
 084. GRACE: So the system shows inventory that isn't physically in the stockroom.
     그레이스: 그러니까 시스템에는 창고에 실제로 없는 재고가 잡혀 있는 거네요.
 
-085. BEV: It's somewhere. Just not where I can sell it. Ask Luis downstairs.
-    베브: 어딘가엔 있죠. 내가 팔 수 있는 데에 없을 뿐이지. 아래층 루이스한테 물어봐요.
+085. BEV: It's somewhere. Just not where I can sell it. Ask Reggie downstairs.
+    베브: 어딘가엔 있죠. 내가 팔 수 있는 데에 없을 뿐이지. 아래층 레지한테 물어봐요.
 
 086. OWEN: The mountain?
     오언: 산이요?
@@ -276,20 +276,20 @@
 087. BEV: You'll see. Wear comfortable shoes.
     베브: 가 보면 알아요. 편한 신발 신고 가요.
 
-088. LUIS: You're the consultants? Okay. This is it. Everything that comes back from online orders ends up down here, and nobody upstairs has given me a single extra person since the website got popular.
-    루이스: 컨설턴트 분들이에요? 네, 여기예요. 온라인 주문에서 반품된 건 전부 여기로 내려와요. 근데 웹사이트가 잘되기 시작한 뒤로도 위층에선 사람을 단 한 명도 더 안 붙여 줬어요.
+088. REGGIE: You're the consultants? Okay. This is it. Everything that comes back from online orders ends up down here, and nobody upstairs has given me a single extra person since the website got popular.
+    레지: 컨설턴트 분들이에요? 네, 여기예요. 온라인 주문에서 반품된 건 전부 여기로 내려와요. 근데 웹사이트가 잘되기 시작한 뒤로도 위층에선 사람을 단 한 명도 더 안 붙여 줬어요.
 
 089. SOFIA: Oh my God. This is the whole room?
     소피아: 세상에. 이 방 전체가요?
 
-090. LUIS: Two rooms. Boots from last winter, dresses from Mother's Day, still in the bags.
-    루이스: 방 두 개요. 지난겨울 부츠, 어머니날 원피스, 다 봉투째 그대로예요.
+090. REGGIE: Two rooms. Boots from last winter, dresses from Mother's Day, still in the bags.
+    레지: 방 두 개요. 지난겨울 부츠, 어머니날 원피스, 다 봉투째 그대로예요.
 
 091. GRACE: How many items are down here?
     그레이스: 여기 물건이 몇 개나 있어요?
 
-092. LUIS: Fourteen thousand, last time I counted. And here's the crazy part. When a customer mails something back, the system puts it back in stock right away, even though it's sitting here in a bag.
-    루이스: 마지막으로 셌을 때 만 사천 개요. 그리고 웃긴 게 뭐냐면요, 손님이 우편으로 반품하면 시스템은 바로 재고로 돌려놔요. 실제로는 여기 봉투째로 있는데도요.
+092. REGGIE: Fourteen thousand, last time I counted. And here's the crazy part. When a customer mails something back, the system puts it back in stock right away, even though it's sitting here in a bag.
+    레지: 마지막으로 셌을 때 만 사천 개요. 그리고 웃긴 게 뭐냐면요, 손님이 우편으로 반품하면 시스템은 바로 재고로 돌려놔요. 실제로는 여기 봉투째로 있는데도요.
 
 093. JAMAL: Wait, so the computer thinks this is all upstairs on the shelves? So it doesn't reorder, and the floor runs out, and Bev can't find the boots, and then also the website keeps selling stuff that's in a bag down here?
     자말: 잠깐만요, 그럼 컴퓨터는 이게 다 위층 진열대에 있다고 생각하는 거예요? 그래서 재주문을 안 하고, 매장엔 물건이 떨어지고, 베브 씨는 부츠를 못 찾고, 그리고 또 웹사이트는 여기 봉투에 든 물건을 계속 팔고 있는 거고요?
@@ -297,8 +297,8 @@
 094. OWEN: That's the pain point, the place where it actually hurts. Not the logo, not the tourists. When the system lies about what's in stock, customers walk out empty-handed, and a lot of them don't come back.
     오언: 그게 페인 포인트야. 진짜로 아픈 곳. 로고도 아니고 관광객도 아니야. 시스템이 재고를 거짓말하면 손님은 빈손으로 나가고, 그중 상당수는 다시 안 와.
 
-095. LUIS: Pain point. I like that. I've got one in my lower back, from lifting these cages every day.
-    루이스: 페인 포인트라. 좋네요. 저도 하나 있어요. 매일 이 철망 칸 들어 올리느라 허리 아래쪽에요.
+095. REGGIE: Pain point. I like that. I've got one in my lower back, from lifting these cages every day.
+    레지: 페인 포인트라. 좋네요. 저도 하나 있어요. 매일 이 철망 칸 들어 올리느라 허리 아래쪽에요.
 
 096. OWEN: Victoria read the page this morning and said exactly one word, which was "Fine." Sofia swears that's the nicest thing she's said to anyone all year.
     오언: 빅토리아가 오늘 아침에 그 한 장을 읽고 딱 한 단어를 말했어. "괜찮네." 소피아 말로는 올해 누구한테 한 말 중에 제일 다정한 말이래.
