@@ -7,7 +7,7 @@
 > - 배경: 1월 24일 월요일 오전 Hale Models 사무실과 리타의 창고 벽장 → 1월 27일 목요일 오후 생루이섬 푸르니에 부인의 아파트(파리, 마고의 '이야기의 날') → 1월 28일 금요일 오후 4시 같은 응접실(공식 제안) → 같은 날 밤 생루이섬 강변(뉴욕·밀라노와 통화). 2028년 1월 말
 > - 등장인물: Rita, Leo, Ethan, Maya, Mr. Goldberg, Sasha, Kai, Margaux, Madame Fournier, Jules, Hélène, Tucker, Claire(전화)
 > - 난이도: B1–B2 · 턴 수: 120
-> - 이번 화의 핵심 표현: "never throw anything away", "underline", "a walk-up", "a coat hanger", "in action", "deserve", "a payment plan", "Debt is how you grow", "Not her, not anybody.", "signs promises, not deals"
+> - 이번 화의 핵심 표현: "never throw anything away", "underline", "a coat hanger", "turn down", "in action", "deserve", "a payment plan", "Debt is how you grow", "Not her, not anybody.", "signs promises, not deals"
 > - 복선/연결: 6부 6화 리타의 벽장 속 옛 서류와 푸르니에 부인의 "1994년 그 일" · 3부 11화 월터의 해고 이야기("Not her, not anybody.")와 커낼 스트리트의 몽블랑 펜 · 6부 10화 마야의 다섯 가지 작전과 1월 28일 · 6부 9화 클레어의 은행 자료(마야는 흘리지 않음) · 6부 3화 카이의 23페이지 · 6부 7화 세컨드 북 3/8명 · 리타의 "할 말이 있어" → 6부 12화 「Rita Retires?」
 
 ---

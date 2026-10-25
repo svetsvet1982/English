@@ -388,7 +388,7 @@
 - **sit through** — (지루하거나 힘든 것을) 끝까지 견디다 / "I sat through the deposition." (071)
 - **Yes, but.** — 찬성은 하지만 조건이 있다 / "Your faces say, 'Yes, but.'" (086, 087)
 - **can afford** — 감당할 여유가 있다 / "I can afford one lawyer. Barely." (089)
-- **put something on hold** — ~을 보류하다 / "Pace just put his second campaign on hold." (116)
+- **put something on hold** — ~을 보류하다 / "...and now it's on hold." (116)
 - **You've got (Paris).** — (파리는) 네가 맡아 / (120)
 
 ## 다음 화 예고 (낭독하지 않음)

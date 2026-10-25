@@ -26,8 +26,8 @@
 004. ETHAN: You did not walk from the Bronx.
     이선: 브롱크스에서 걸어온 적 없잖아.
 
-005. WALTER: Once. Halfway. Then my feet hurt, so I took a cab. Did you bring a pen?
-    월터: 한 번. 반쯤. 그러다 발이 아파서 택시 탔지. 펜 가져왔냐?
+005. WALTER: Once. Halfway. Then I took a cab. Did you bring a pen?
+    월터: 한 번. 반쯤. 그다음엔 택시 탔지. 펜 가져왔냐?
 
 006. ETHAN: I brought a pen. What's this about, Dad?
     이선: 가져왔어. 이게 다 뭔데, 아빠?
@@ -38,7 +38,7 @@
 008. ETHAN: "Things to do before seventy." Dad, your birthday is in November. That's two months away.
     이선: "일흔 되기 전에 할 일." 아빠, 생일 11월이잖아. 두 달밖에 안 남았어.
 
-009. WALTER: So we better hurry, then. Read it out loud for me, because my eyes are lousy today.
+009. WALTER: So we better hurry. Read it out loud. My eyes are lousy today.
     월터: 그러니까 서둘러야지. 소리 내서 읽어 봐. 오늘은 눈이 영 별로다.
 
 010. ETHAN: Is this a bucket list? Dad, this is a bucket list. That's a little morbid, don't you think?
@@ -62,8 +62,8 @@
 016. ETHAN: Dad, the physical therapist said—
     이선: 아빠, 물리치료사가 그랬잖아—
 
-017. WALTER: The physical therapist is twenty-six and eats salad for lunch. What does he know about sandwiches? Next.
-    월터: 그 물리치료사는 스물여섯이고 점심에 샐러드 먹는 애야. 그런 애가 샌드위치에 대해 뭘 알아? 다음.
+017. WALTER: The physical therapist is twenty-six and eats salad for lunch. Next.
+    월터: 그 물리치료사는 스물여섯이고 점심에 샐러드 먹는 애야. 다음.
 
 018. ETHAN: Number two. "Beat Goldberg at chess. One more time. No mercy."
     이선: 2번. "골드버그를 체스로 이기기. 한 번 더. 봐주지 않고."
@@ -104,8 +104,8 @@
 030. ETHAN: "Make Hannah laugh. A real laugh. Not her lawyer laugh."
     이선: "해나 웃기기. 진짜 웃음으로. 변호사 웃음 말고."
 
-031. WALTER: She has a laugh like a fax machine, all beeps and no warmth. You know the one.
-    월터: 걔 웃음소리가 팩스기 같잖아. 삑삑거리기만 하고 따뜻한 건 하나도 없는. 무슨 말인지 알지.
+031. WALTER: She has a laugh like a fax machine. You know the one.
+    월터: 걔 웃음소리가 팩스기 같잖아. 무슨 말인지 알지.
 
 032. ETHAN: I know the one. Number seven. "See the board full." That's it?
     이선: 알지. 7번. "보드가 가득 찬 걸 보기." 이게 다야?
@@ -116,8 +116,8 @@
 034. ETHAN: There's a number eight, but it's blank.
     이선: 8번도 있는데, 비어 있어.
 
-035. WALTER: Number eight is private. I'll tell you when we get there, and not one minute before.
-    월터: 8번은 비밀이다. 거기까지 가면 말해 주마. 단 1분도 먼저는 안 돼.
+035. WALTER: Number eight is private. I'll tell you when we get there.
+    월터: 8번은 비밀이다. 거기까지 가면 말해 주마.
 
 036. ETHAN: Dad. Are you okay? Is there something the doctors told you that you're not telling me?
     이선: 아빠. 괜찮은 거야? 의사들이 한 말 중에 나한테 안 한 거 있어?
@@ -134,8 +134,8 @@
 040. ETHAN: It's September, Dad. It's eighty degrees outside. You don't need a jacket.
     이선: 9월이야, 아빠. 밖이 화씨 80도라고. 재킷 필요 없어.
 
-041. SAL: Walter Hale. Look at this. I haven't seen you in months. I thought you were dead.
-    샐: 월터 헤일. 이게 누구야. 몇 달 동안 안 보이길래 죽은 줄 알았네.
+041. SAL: Walter Hale. Look at this. I thought you were dead.
+    샐: 월터 헤일. 이게 누구야. 죽은 줄 알았네.
 
 042. WALTER: Not yet, Sal. Besides, you still owe me a coffee from '98, and I'm not leaving until I get it.
     월터: 아직은, 샐. 게다가 98년 커피값 아직 안 갚았잖아. 그거 받기 전엔 못 가.
@@ -158,8 +158,8 @@
 048. ETHAN: You haven't been doing it since March.
     이선: 3월 이후론 안 했잖아.
 
-049. WALTER: Then I'm making up for lost time, aren't I? There. Look at me. Standing on my own.
-    월터: 그럼 잃어버린 시간을 메우는 거지, 안 그래? 됐다. 봐라. 혼자 서 있잖아.
+049. WALTER: Then I'm making up for lost time. There. Look at me. Standing.
+    월터: 그럼 잃어버린 시간을 메우는 거지. 됐다. 봐라. 서 있잖아.
 
 050. SAL: Look at you. Just like 1996, when you used to come in here every morning. You were skinnier then.
     샐: 와, 이것 봐. 매일 아침 여기 오던 1996년 그대로네. 그땐 더 말랐었는데.
@@ -215,8 +215,8 @@
 067. ETHAN: It's a little shaky.
     이선: 좀 삐뚤빼뚤한데.
 
-068. WALTER: It's a work of art, and you know it. Next stop, Twenty-First Street. Goldberg's waiting for me.
-    월터: 이건 예술 작품이야, 너도 알잖아. 다음 행선지, 21번가. 골드버그가 날 기다린다.
+068. WALTER: It's a work of art. Next stop, Twenty-First Street. Goldberg's waiting.
+    월터: 이건 예술 작품이야. 다음 행선지, 21번가. 골드버그가 기다린다.
 
 069. SAL: Walter! Come back soon, huh?
     샐: 월터! 또 와요, 응?
@@ -260,8 +260,8 @@
 082. MAYA: Okay, everybody. Quiet. Leo, no phones.
     마야: 자, 다들. 조용히. 레오, 폰 금지.
 
-083. LEO: I wasn't going to film it. Okay, I was going to film it a little. Like, ten seconds.
-    레오: 안 찍으려고 했어요. 알았어요, 조금만 찍으려고 했어요. 한 10초?
+083. LEO: I wasn't going to film it. I was going to film it a little.
+    레오: 안 찍으려고 했어요. 조금만 찍으려고 했어요.
 
 084. MR. GOLDBERG: Your move, Walter.
     골드버그: 자네 차례야, 월터.
@@ -302,8 +302,8 @@
 096. RITA: Forty minutes. They haven't said a word to each other in forty minutes, and I'm getting nervous.
     리타: 40분이야. 40분 동안 서로 한마디도 안 했어. 나 긴장되잖아.
 
-097. KAI: This is more intense than a Yankees game in October. And I've been to a few.
-    카이: 10월 양키스 경기보다 더 긴장되네요. 저 몇 번 가 봤거든요.
+097. KAI: This is more intense than a Yankees game.
+    카이: 양키스 경기보다 더 긴장되네요.
 
 098. WALTER: Check.
     월터: 체크.
@@ -320,8 +320,8 @@
 102. WALTER: Not everybody. You stay, Rita. Ethan, you too, because I need a witness for this one.
     월터: 다는 말고. 리타, 넌 남아. 이선, 너도. 이번 건 증인이 필요하니까.
 
-103. RITA: Witness for what? Walter, if this is about the coffee budget again, I already told you—
-    리타: 무슨 증인? 월터, 또 커피 예산 얘기면, 내가 이미 말했잖아—
+103. RITA: Witness for what? Walter, if this is about the coffee budget—
+    리타: 무슨 증인? 월터, 커피 예산 얘기면—
 
 104. WALTER: It's number three. Sit down. Please.
     월터: 3번이야. 앉아. 부탁이다.
@@ -332,8 +332,8 @@
 106. WALTER: Rita. You walked in here in 1999. You were thirty years old, with one résumé and a lot of attitude, and you couldn't even use the fax machine.
     월터: 리타. 1999년에 여기 들어왔지. 서른 살에, 이력서 한 장이랑 성깔 한가득 들고. 팩스기도 못 다뤘어.
 
-107. RITA: Nobody could use that fax machine, Walter. It was possessed. I said so at the time.
-    리타: 그 팩스기는 아무도 못 다뤘어, 월터. 귀신 들렸었다고. 그때도 내가 그랬잖아.
+107. RITA: Nobody could use that fax machine. It was possessed.
+    리타: 그 팩스기는 아무도 못 다뤘어. 귀신 들렸었다고.
 
 108. WALTER: For twenty-eight years, you kept the lights on, even when I couldn't pay you. You kept me honest. And when Greg stole from us, you cried for both of us.
     월터: 28년 동안 넌 불이 꺼지지 않게 해 줬어. 내가 월급을 못 줄 때도. 날 정직하게 붙잡아 줬고. 그렉이 우리 돈 훔쳤을 때 우리 둘 몫까지 울어 줬지.
@@ -381,7 +381,7 @@
 - **bucket list** — 죽기 전에 하고 싶은 일 목록 / (010)
 - **morbid** — (죽음 얘기 같아서) 음울한, 섬뜩한 / "That's a little morbid." (010)
 - **on my own two feet** — 내 두 발로, 혼자 힘으로 / (015)
-- **run a tab** — 외상을 달다 / "You ran a tab for three years!" (043)
+- **run a tab** — 외상을 달다 / "You ran a tab for three years" (043)
 - **on the house** — 가게에서 서비스로 주는 / (052)
 - **cross something off** — (목록에서) 지우다 / "I'm crossing things off." (053, 066)
 - **make up for lost time** — 잃어버린 시간을 메우다 / (049)
@@ -390,6 +390,8 @@
 - **That's more like it.** — 그래야지, 이제야 좀 낫네 / (095)
 - **from the bottom of my heart** — 진심으로 / (110)
 - **get in line** — 줄을 서다(= 너만 그런 거 아니야) / (119)
+- **If you'd fixed…, nobody would have to…** — (혼합 가정) ~했더라면 지금 …할 필요 없을 텐데 / "If you'd fixed the elevator when I first asked you, back in '97, nobody would have to carry anybody up these stairs." (079)
+- **not because…, but because…** — ~해서가 아니라 …해서 / "I want to win because I beat you, not because you felt sorry for an old man in a wheelchair" (093)
 
 ## 다음 화 예고 (낭독하지 않음)
 
