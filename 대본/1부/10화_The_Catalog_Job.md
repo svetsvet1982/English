@@ -143,8 +143,8 @@
 043. DANA: Fine. But we're already behind. Look two in five minutes.
     데이나: 좋아요. 근데 벌써 밀렸어요. 5분 뒤에 룩 2.
 
-044. DANA: Ethan, a quick thing. We'll grab a few videos for Instagram while she's in the dress.
-    데이나: 이선, 잠깐만요. 드레스 입은 김에 인스타그램용 영상 몇 개 찍을게요.
+044. DANA: Ethan, quick thing. Look seven's done. We'll grab a few Instagram videos while she's in this dress.
+    데이나: 이선, 잠깐만요. 룩 7 끝났어요. 이 드레스 입은 김에 인스타그램용 영상 몇 개 찍을게요.
 
 045. ETHAN: That's not in the booking. The usage is catalog and e-commerce. Twelve months.
     이선: 그건 예약 내용에 없어요. 사용 범위는 카탈로그랑 이커머스, 12개월이에요.
