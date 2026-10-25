@@ -8,7 +8,7 @@
 > - 등장인물: Ethan, Maya, Leo, Rita, Jules, Kai, Bastien Kroll(디자이너, 단역), Pippa(크롤의 어시스턴트, 단역), Fiona(전화로만 언급)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "on option", "release someone from an option", "fit the samples", "on budget", "That's enough.", "have a mouth", "head up", "word got around"
-> - 복선/연결: 2부 5화 피오나·2부 6화 데니즈 코치 언급 → 2부 9화 패션위크 첫날. 이네스 마를로의 호출은 2부 10화 클로징 룩으로 이어짐. 이선의 "At Vanta, we'd have told her to smile"은 2부 13~14화 Northline 사건의 태도 예고.
+> - 복선/연결: 2부 5화 피오나·2부 6화 데니즈 코치 언급 → 2부 9화 패션위크 첫날. 이모젠 마를로의 호출은 2부 10화 클로징 룩으로 이어짐. 이선의 "At Vanta, we'd have told her to smile"은 2부 13~14화 Northline 사건의 태도 예고.
 
 ---
 
@@ -365,11 +365,11 @@
 117. RITA: Oh, here we go. Bad.
     리타: 아이고, 시작이네. 나쁜 거구만.
 
-118. MAYA: No. Ines Marlowe heard. She wants to see Jules. Tomorrow, nine a.m.
-    마야: 아니요. 이네스 마를로가 들었대요. 줄스를 보고 싶대요. 내일 오전 9시.
+118. MAYA: No. Imogen Marlowe heard. She wants to see Jules. Tomorrow, nine a.m.
+    마야: 아니요. 이모젠 마를로가 들었대요. 줄스를 보고 싶대요. 내일 오전 9시.
 
-119. JULES: Ines Marlowe? The one with the coats? Is that... normal?
-    줄스: 이네스 마를로요? 그 코트로 유명한 분? 그거… 정상이에요?
+119. JULES: Imogen Marlowe? The one with the coats? Is that... normal?
+    줄스: 이모젠 마를로요? 그 코트로 유명한 분? 그거… 정상이에요?
 
 120. ETHAN: No, Jules. That's not normal. That's a very good sign.
     이선: 아니, 줄스. 정상 아니야. 아주 좋은 징조지.

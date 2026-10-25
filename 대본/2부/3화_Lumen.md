@@ -299,8 +299,8 @@
 095. WALTER: You made the same face at eight. You wanted a dog. You'd already named it.
     월터: 여덟 살 때도 같은 얼굴 했다. 개를 갖고 싶어 했지. 이름까지 벌써 지어 놨더라.
 
-096. ETHAN: Biscuit. I never got Biscuit.
-    이선: 비스킷. 결국 비스킷은 못 키웠지.
+096. ETHAN: Pepper. I never got Pepper.
+    이선: 페퍼. 결국 페퍼은 못 키웠지.
 
 097. WALTER: Your mother was allergic. Take the story. Not the dog.
     월터: 엄마가 알레르기였어. 기사는 받아. 개 말고.

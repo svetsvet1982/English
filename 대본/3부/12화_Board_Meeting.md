@@ -4,11 +4,11 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 12화 · 서사 기능: 배신의 폭로 / 바닥
-> - 배경: 2027년 5월 마지막 주 월요일 — 새 사무실(아침) → 허드슨 야드 케슬러 캐피털 51층 회의실 → 베슬 앞 광장 → 새 사무실(오후)
-> - 등장인물: Ethan, Rita, Leo, Hannah, Nate, Diane Cho(케슬러 매니징 파트너, 참관), Brad Whitfield(케슬러 추천 사외이사 후보)
+> - 배경: 2027년 4월 마지막 주 월요일 — 새 사무실(아침) → 허드슨 야드 케슬러 캐피털 51층 회의실 → 베슬 앞 광장 → 새 사무실(오후)
+> - 등장인물: Ethan, Rita, Leo, Hannah, Nate, Joanne Cho(케슬러 매니징 파트너, 참관), Gordon Whitfield(케슬러 추천 사외이사 후보)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "board seat", "nominee", "merger", "rebrand", "retire (a name)", "the upside", "clean house", "on paper"
-> - 복선/연결: 3부 11화 레오가 녹음한 월터의 팩스기 이야기가 퍼짐(사샤의 리포스트 → 4부 2화 사샤의 전화). 네이트의 '큰 발표' = 스태투라 탤런트 그룹과의 합병, 'Hale' 이름 폐기. 3부 7~8화의 밸류 스코어·방출이 매각 전 '정리'였음이 드러남. 3부 4화의 빈 사외이사 자리에 케슬러가 브래드를 앉히려 함(4조 90일 규정) → 1 대 1이 2 대 1로. 해나의 '걸리는 것'(3부 10화, 제11조) → 3부 13화 키 퍼슨 조항.
+> - 복선/연결: 3부 11화 레오가 녹음한 월터의 팩스기 이야기가 퍼짐(사샤의 리포스트 → 4부 2화 사샤의 전화). 네이트의 '큰 발표' = 스태투라 탤런트 그룹과의 합병, 'Hale' 이름 폐기. 3부 7~8화의 밸류 스코어·방출이 매각 전 '정리'였음이 드러남. 3부 4화의 빈 사외이사 자리에 케슬러가 고든를 앉히려 함(4조 90일 규정) → 1 대 1이 2 대 1로. 해나의 '걸리는 것'(3부 10화, 제11조) → 3부 13화 키 퍼슨 조항.
 
 ---
 
@@ -56,8 +56,8 @@
 014. ETHAN: Thank you. I think. Rita, listen. Tell me if this sounds crazy.
     이선: 고마워. 아마도. 리타, 들어 봐. 미친 소리 같으면 말해 줘.
 
-015. ETHAN: Slide one. We bring back Priya, Dani, and Owen. Full contracts. Today.
-    이선: 슬라이드 1. 프리야, 대니, 오언을 다시 데려온다. 정식 계약. 오늘부로.
+015. ETHAN: Slide one. We bring back Priya, Dani, and Wes. Full contracts. Today.
+    이선: 슬라이드 1. 프리야, 대니, 웨스을 다시 데려온다. 정식 계약. 오늘부로.
 
 016. ETHAN: Slide two. We hire a head booker at Maya's salary. Maya, if she'll take my call.
     이선: 슬라이드 2. 마야 연봉으로 헤드 부커를 다시 뽑는다. 마야가 내 전화를 받아 준다면 마야로.
@@ -98,20 +98,20 @@
 028. HANNAH: Ethan.
     해나: 오빠.
 
-029. NATE: Ethan! Hannah! Come in, come in. You know Diane Cho, our managing partner. She's sitting in today.
-    네이트: 이선! 해나! 들어와요, 들어와요. 우리 매니징 파트너 다이앤 조 아시죠. 오늘 참관하세요.
+029. NATE: Ethan! Hannah! Come in, come in. You know Joanne Cho, our managing partner. She's sitting in today.
+    네이트: 이선! 해나! 들어와요, 들어와요. 우리 매니징 파트너 조앤 조 아시죠. 오늘 참관하세요.
 
-030. DIANE: Good to see you both. How's your father?
-    다이앤: 두 분 반가워요. 아버님은 좀 어떠세요?
+030. JOANNE: Good to see you both. How's your father?
+    조앤: 두 분 반가워요. 아버님은 좀 어떠세요?
 
 031. HANNAH: Stubborn. Which, in our family, means he's getting better.
     해나: 고집 피우세요. 우리 집에선 그게 나아지고 있다는 뜻이에요.
 
-032. NATE: And Brad Whitfield. Kessler's nominee for the independent seat. Brad sits on six boards.
-    네이트: 그리고 브래드 휫필드. 케슬러가 사외이사로 추천한 분이에요. 브래드는 이사회 여섯 군데에 있어요.
+032. NATE: And Gordon Whitfield. Kessler's nominee for the independent seat. Gordon sits on six boards.
+    네이트: 그리고 고든 휫필드. 케슬러가 사외이사로 추천한 분이에요. 고든는 이사회 여섯 군데에 있어요.
 
-033. BRAD: Seven, if this goes well. Morning. Is there more coffee, Nate?
-    브래드: 이게 잘되면 일곱 군데죠. 안녕하세요. 커피 더 있어요, 네이트?
+033. GORDON: Seven, if this goes well. Morning. Is there more coffee, Nate?
+    고든: 이게 잘되면 일곱 군데죠. 안녕하세요. 커피 더 있어요, 네이트?
 
 034. ETHAN: Before we start, I'd like to present something. Three slides. Five minutes.
     이선: 시작하기 전에 발표할 게 있습니다. 슬라이드 세 장. 5분이면 돼요.
@@ -131,8 +131,8 @@
 039. ETHAN: I know Statura. They signed a fifteen-year-old off TikTok last year. It made the news.
     이선: 스태투라 알아요. 작년에 틱톡에서 열다섯 살짜리랑 계약했죠. 뉴스에도 났고요.
 
-040. DIANE: That was handled. There's new leadership since then.
-    다이앤: 그건 처리됐어요. 그 이후로 경영진도 바뀌었고요.
+040. JOANNE: That was handled. There's new leadership since then.
+    조앤: 그건 처리됐어요. 그 이후로 경영진도 바뀌었고요.
 
 041. NATE: Here's the vision. Statura plus Hale. One company. Coast to coast.
     네이트: 비전은 이거예요. 스태투라 더하기 헤일. 하나의 회사. 동부에서 서부까지.
@@ -158,20 +158,20 @@
 048. NATE: Ha! Exactly like a jersey. We'd honor it. Maybe a plaque in the lobby.
     네이트: 하! 딱 영구결번처럼요. 기리는 거죠. 로비에 기념패 하나 걸고.
 
-049. BRAD: The data says legacy names don't scale. Kids don't know who Walter Hale is.
-    브래드: 데이터상 전통 있는 이름은 확장이 안 돼요. 요즘 애들은 월터 헤일이 누군지 몰라요.
+049. GORDON: The data says legacy names don't scale. Kids don't know who Walter Hale is.
+    고든: 데이터상 전통 있는 이름은 확장이 안 돼요. 요즘 애들은 월터 헤일이 누군지 몰라요.
 
 050. ETHAN: Three hundred and forty thousand people listened to him this weekend.
     이선: 이번 주말에 34만 명이 우리 아빠 얘기를 들었어요.
 
-051. BRAD: On what? A podcast?
-    브래드: 어디서요? 팟캐스트?
+051. GORDON: On what? A podcast?
+    고든: 어디서요? 팟캐스트?
 
 052. ETHAN: On a fax machine.
     이선: 팩스기로요.
 
-053. BRAD: I'm sorry?
-    브래드: 뭐라고요?
+053. GORDON: I'm sorry?
+    고든: 뭐라고요?
 
 054. NATE: Ethan's being funny. He does that when he's processing. Page fifteen. Structure.
     네이트: 이선이 농담하는 거예요. 생각 정리할 때 저래요. 15페이지. 조직 구조.
@@ -185,8 +185,8 @@
 057. ETHAN: Finance is Rita. Rita is finance. She's been with us twenty-seven years.
     이선: 재무가 리타예요. 리타가 곧 재무고요. 우리랑 27년 일했어요.
 
-058. DIANE: There'd be a generous package for Ms. Salazar. We're not monsters.
-    다이앤: 살라자르 씨에게는 넉넉한 퇴직 조건을 드릴 거예요. 우리가 괴물은 아니잖아요.
+058. JOANNE: There'd be a generous package for Ms. Salazar. We're not monsters.
+    조앤: 살라자르 씨에게는 넉넉한 퇴직 조건을 드릴 거예요. 우리가 괴물은 아니잖아요.
 
 059. ETHAN: And Leo? Hale Digital, the division Nate made me build?
     이선: 레오는요? 네이트가 저한테 만들라고 한 헤일 디지털은요?
@@ -203,11 +203,11 @@
 063. HANNAH: Let's be clear. This needs a board vote. And the board is Ethan and you. One to one.
     해나: 확실히 하죠. 이건 이사회 표결이 필요해요. 그리고 이사회는 이선이랑 당신이에요. 1 대 1.
 
-064. DIANE: The vote is June twenty-eighth. Section four: if the independent seat is empty for ninety days, Kessler nominates.
-    다이앤: 표결은 6월 28일이에요. 4조에 따르면 사외이사 자리가 90일 동안 비어 있으면 케슬러가 지명해요.
+064. JOANNE: The vote is May twenty-eighth. Section four: if the independent seat is empty for thirty days, Kessler nominates.
+    조앤: 표결은 5월 28일이에요. 4조에 따르면 사외이사 자리가 30일 동안 비어 있으면 케슬러가 지명해요.
 
-065. HANNAH: So Brad takes the chair, and it's two to one. You don't need time. You need us quiet.
-    해나: 그러니까 브래드가 그 의자에 앉고, 2 대 1이 되는 거네요. 시간이 필요한 게 아니죠. 우리가 조용하길 바라는 거죠.
+065. HANNAH: So Gordon takes the chair, and it's two to one. You don't need time. You need us quiet.
+    해나: 그러니까 고든가 그 의자에 앉고, 2 대 1이 되는 거네요. 시간이 필요한 게 아니죠. 우리가 조용하길 바라는 거죠.
 
 066. NATE: I need you to see the upside. Ethan, think about it. Your equity triples.
     네이트: 장점을 봐 줬으면 하는 거예요. 이선, 생각해 봐요. 지분 가치가 세 배가 돼요.
@@ -227,8 +227,8 @@
 071. ETHAN: How long, Nate?
     이선: 얼마나 오래요, 네이트?
 
-072. DIANE: Statura was always part of the thesis. It was in our internal memo before we ever called you.
-    다이앤: 스태투라는 처음부터 투자 논리의 일부였어요. 저희가 연락드리기 전부터 내부 메모에 있었죠.
+072. JOANNE: Statura was always part of the thesis. It was in our internal memo before we ever called you.
+    조앤: 스태투라는 처음부터 투자 논리의 일부였어요. 저희가 연락드리기 전부터 내부 메모에 있었죠.
 
 073. ETHAN: Before you called me. Before I signed. Before the Value Scores. Before Priya.
     이선: 저한테 연락하기 전부터. 서명 전부터. 밸류 스코어 전부터. 프리야 전부터.
@@ -251,11 +251,11 @@
 079. HANNAH: We'll need the full merger documents. Every page. By Wednesday.
     해나: 합병 서류 전체 주세요. 한 장도 빠짐없이. 수요일까지.
 
-080. DIANE: Of course. Our legal team will send them over.
-    다이앤: 물론이죠. 우리 법무팀이 보내 드릴게요.
+080. JOANNE: Of course. Our legal team will send them over.
+    조앤: 물론이죠. 우리 법무팀이 보내 드릴게요.
 
-081. BRAD: Are we done? I have another board at eleven.
-    브래드: 끝났어요? 열한 시에 다른 이사회가 있어서요.
+081. GORDON: Are we done? I have another board at eleven.
+    고든: 끝났어요? 열한 시에 다른 이사회가 있어서요.
 
 082. NATE: Great meeting, everybody. Ethan, I know it's a lot. Dinner this week? My treat.
     네이트: 좋은 회의였어요, 여러분. 이선, 한꺼번에 많은 거 알아요. 이번 주에 저녁? 제가 살게요.
@@ -296,8 +296,8 @@
 094. HANNAH: I mean Nora. "Off the record" is still a record, Ethan.
     해나: 노라 말하는 거야. "비공개"도 결국 기록이야, 오빠.
 
-095. ETHAN: Can they really do it? Brad in the chair, two votes, and Hale is gone?
-    이선: 진짜 그게 돼? 브래드 앉히고 두 표면 헤일이 없어져?
+095. ETHAN: Can they really do it? Gordon in the chair, two votes, and Hale is gone?
+    이선: 진짜 그게 돼? 고든 앉히고 두 표면 헤일이 없어져?
 
 096. HANNAH: On paper, yes. Unless there's something in the paper they forgot.
     해나: 서류상으론, 돼. 저쪽이 서류에서 놓친 게 없다면.

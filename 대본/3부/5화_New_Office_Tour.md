@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 5화 · 서사 기능: 확장 / 상실의 예감
 > - 배경: 허드슨 야드 인근 신축 오피스 타워 32층(화요일 오전) → West 21st Street 로프트 4층(같은 날 밤) → 로프트(다음 날 아침). 2027년 4월 초, 봄비.
-> - 등장인물: Dana(부동산 중개인, 단역), Ethan, Maya, Rita, Leo, Nate, Mr. Goldberg
+> - 등장인물: Donna(부동산 중개인, 단역), Ethan, Maya, Rita, Leo, Nate, Mr. Goldberg
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "open floor plan", "plan for", "on tap", "Growth costs money.", "make rent", "on one condition", "in no hurry", "That's the beauty of..."
 > - 복선/연결: 엘리베이터 개그의 반전("It's actually working.") · 보드 뒤 벽에 숨은 월터의 연필 낙서 "W.H. + R.S., March 1997. We made rent."(→3부 14화 귀환) · 리타의 조건: 진짜 보드와 빨간 커피메이커는 함께 간다 · 골드버그가 4층을 비워 두기로 함(→3부 13화·14화) · 네이트의 '인플루언서' 호출(→3부 6화 Influencer Division)
@@ -14,29 +14,29 @@
 
 ## 대본
 
-001. DANA: Good morning! You must be the Hale team. I'm Dana, with Meridian Commercial. Welcome to Hudson Yards.
-    데이나: 좋은 아침이에요! 헤일 팀이시죠? 메리디안 커머셜의 데이나예요. 허드슨 야드에 오신 걸 환영해요.
+001. DONNA: Good morning! You must be the Hale team. I'm Donna, with Meridian Commercial. Welcome to Hudson Yards.
+    도나: 좋은 아침이에요! 헤일 팀이시죠? 메리디안 커머셜의 도나예요. 허드슨 야드에 오신 걸 환영해요.
 
-002. ETHAN: Morning, Dana. Ethan Hale. This is Maya, Rita, and Leo.
-    이선: 안녕하세요, 데이나. 이선 헤일입니다. 이쪽은 마야, 리타, 레오예요.
+002. ETHAN: Morning, Donna. Ethan Hale. This is Maya, Rita, and Leo.
+    이선: 안녕하세요, 도나. 이선 헤일입니다. 이쪽은 마야, 리타, 레오예요.
 
 003. LEO: Wait, is that the Vessel? The big honeycomb thing? I've only seen it on TikTok.
     레오: 잠깐, 저게 베슬이에요? 그 커다란 벌집 같은 거? 틱톡에서만 봤는데.
 
-004. DANA: That's the one. You can see it from the conference room. Nate's meeting us upstairs.
-    데이나: 맞아요. 회의실에서도 보여요. 네이트는 위층에서 만나기로 했어요.
+004. DONNA: That's the one. You can see it from the conference room. Nate's meeting us upstairs.
+    도나: 맞아요. 회의실에서도 보여요. 네이트는 위층에서 만나기로 했어요.
 
 005. RITA: How far upstairs?
     리타: 위층 어디까지요?
 
-006. DANA: The thirty-second floor. Don't worry, the elevators are brand-new. Destination dispatch.
-    데이나: 32층이요. 걱정 마세요, 엘리베이터는 신형이에요. 목적층 예약 방식이고요.
+006. DONNA: The thirty-second floor. Don't worry, the elevators are brand-new. Destination dispatch.
+    도나: 32층이요. 걱정 마세요, 엘리베이터는 신형이에요. 목적층 예약 방식이고요.
 
 007. RITA: What does that mean?
     리타: 그게 무슨 뜻이에요?
 
-008. DANA: You type your floor before you get in. The system picks the fastest car.
-    데이나: 타기 전에 층을 입력하시면 시스템이 제일 빠른 엘리베이터를 골라 줘요.
+008. DONNA: You type your floor before you get in. The system picks the fastest car.
+    도나: 타기 전에 층을 입력하시면 시스템이 제일 빠른 엘리베이터를 골라 줘요.
 
 009. RITA: In our building, you pray before you get in. The system picks whether you live.
     리타: 우리 건물에선 타기 전에 기도해요. 살지 죽을지는 시스템이 골라 주고요.
@@ -44,14 +44,14 @@
 010. MAYA: How far is it from the 7 train?
     마야: 7호선에서 얼마나 걸려요?
 
-011. DANA: Three minutes from the Hudson Yards station. Four if you stop for coffee.
-    데이나: 허드슨 야드 역에서 3분이요. 커피 사러 들르면 4분.
+011. DONNA: Three minutes from the Hudson Yards station. Four if you stop for coffee.
+    도나: 허드슨 야드 역에서 3분이요. 커피 사러 들르면 4분.
 
 012. MAYA: Most of our models live in Brooklyn, Queens, and the Bronx. Kai's going to need two transfers.
     마야: 우리 모델 대부분은 브루클린, 퀸즈, 브롱크스에 살아요. 카이는 두 번 갈아타야 할 거예요.
 
-013. DANA: There's a lot of great transit in this neighborhood.
-    데이나: 이 동네는 대중교통이 아주 잘돼 있어요.
+013. DONNA: There's a lot of great transit in this neighborhood.
+    도나: 이 동네는 대중교통이 아주 잘돼 있어요.
 
 014. MAYA: There's great transit everywhere. The question is who's on it at six a.m.
     마야: 대중교통은 어디나 잘돼 있죠. 문제는 새벽 6시에 누가 그걸 타느냐죠.
@@ -80,8 +80,8 @@
 022. LEO: What's this room? With the white walls and the lights in the ceiling?
     레오: 이 방은 뭐예요? 하얀 벽에 천장에 조명 달린 데요.
 
-023. DANA: That's the content studio. Soundproofed. Built-in lighting rig. The last tenant was a podcast company.
-    데이나: 콘텐츠 스튜디오예요. 방음 처리돼 있고, 조명 장비도 설치돼 있어요. 이전 세입자가 팟캐스트 회사였거든요.
+023. DONNA: That's the content studio. Soundproofed. Built-in lighting rig. The last tenant was a podcast company.
+    도나: 콘텐츠 스튜디오예요. 방음 처리돼 있고, 조명 장비도 설치돼 있어요. 이전 세입자가 팟캐스트 회사였거든요.
 
 024. LEO: A content studio. In our office. We could shoot digitals here. Polaroids, intro videos, everything.
     레오: 콘텐츠 스튜디오. 우리 사무실에. 여기서 디지털 찍을 수 있겠다. 폴라로이드, 소개 영상, 전부 다요.
@@ -95,8 +95,8 @@
 027. MAYA: Where do the models wait? For castings, for go-sees?
     마야: 모델들은 어디서 기다려요? 캐스팅이나 고시 때요.
 
-028. DANA: There's a lounge by reception. Very comfortable sofas. A kombucha tap.
-    데이나: 리셉션 옆에 라운지가 있어요. 아주 편한 소파에, 콤부차 탭도 있고요.
+028. DONNA: There's a lounge by reception. Very comfortable sofas. A kombucha tap.
+    도나: 리셉션 옆에 라운지가 있어요. 아주 편한 소파에, 콤부차 탭도 있고요.
 
 029. MAYA: Kombucha. On tap.
     마야: 콤부차. 탭으로.
@@ -110,8 +110,8 @@
 032. RITA: Where's the kitchen?
     리타: 주방은 어디예요?
 
-033. DANA: Right here. Coffee bar, two dishwashers, a wine fridge.
-    데이나: 바로 여기요. 커피 바, 식기세척기 두 대, 와인 냉장고.
+033. DONNA: Right here. Coffee bar, two dishwashers, a wine fridge.
+    도나: 바로 여기요. 커피 바, 식기세척기 두 대, 와인 냉장고.
 
 034. RITA: And where do I put my coffee maker? The red one. It's from 2003.
     리타: 그럼 내 커피메이커는 어디 둬요? 빨간 거. 2003년산인데.
@@ -125,8 +125,8 @@
 037. ETHAN: Where's my office?
     이선: 제 사무실은요?
 
-038. DANA: The corner office. Glass walls, glass door.
-    데이나: 코너 사무실이요. 유리 벽, 유리문.
+038. DONNA: The corner office. Glass walls, glass door.
+    도나: 코너 사무실이요. 유리 벽, 유리문.
 
 039. ETHAN: Glass walls. So everyone can watch me eat lunch at my desk.
     이선: 유리 벽이라. 내가 책상에서 점심 먹는 걸 다들 볼 수 있겠네요.
@@ -161,14 +161,14 @@
 049. NATE: And it'll still exist. Just in pixels. Rita, I love tradition. I just love Wi-Fi more.
     네이트: 그리고 계속 존재할 거예요. 픽셀로요. 리타, 전 전통을 사랑해요. 와이파이를 더 사랑할 뿐이죠.
 
-050. ETHAN: What's the rent, Dana?
-    이선: 월세가 얼마죠, 데이나?
+050. ETHAN: What's the rent, Donna?
+    이선: 월세가 얼마죠, 도나?
 
-051. DANA: Thirty-eight thousand a month. Ten-year lease. Two months free if you sign by Friday.
-    데이나: 월 3만 8천 달러요. 10년 임대. 금요일까지 계약하시면 두 달 무료예요.
+051. DONNA: Ninety-five thousand a month. Ten-year lease. Two months free if you sign by Friday.
+    도나: 월 9만 5천 달러요. 10년 임대. 금요일까지 계약하시면 두 달 무료예요.
 
-052. RITA: Thirty-eight thousand. Ethan. We pay Goldberg six.
-    리타: 3만 8천. 이선. 우리 골드버그한테 6천 내.
+052. RITA: Ninety-five thousand. Ethan. We pay Goldberg thirty-eight.
+    리타: 9만 5천. 이선. 우리 골드버그한테 3만 8천 내.
 
 053. NATE: And Goldberg's building has one working toilet. Growth costs money. That's what the money's for.
     네이트: 그리고 골드버그 건물엔 작동하는 변기가 하나뿐이죠. 성장엔 돈이 들어요. 그러라고 있는 돈이고요.
@@ -260,8 +260,8 @@
 082. ETHAN: Numbers don't lie, right?
     이선: 숫자는 거짓말 안 한다, 맞죠?
 
-083. RITA: Numbers don't lie, honey. Thirty-eight is more than six. Even I can do that math.
-    리타: 숫자는 거짓말 안 해, 얘. 38은 6보다 커. 그 계산은 나도 할 줄 알아.
+083. RITA: Numbers don't lie, honey. Ninety-five is more than thirty-eight. Even I can do that math.
+    리타: 숫자는 거짓말 안 해, 얘. 95는 38보다 커. 그 계산은 나도 할 줄 알아.
 
 084. ETHAN: Nate says growth costs money.
     이선: 네이트는 성장엔 돈이 든대요.

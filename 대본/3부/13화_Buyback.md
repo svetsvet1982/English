@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 13화 · 서사 기능: 반전의 열쇠 / 결단
-> - 배경: 2027년 5월 말~6월 초 — 미드타운 해나의 로펌 회의실(새벽 1시) → 새 사무실(다음 날 아침) → 케슬러 캐피털 → 웨스트 21번가 건물 1층 골드버그의 사무실(오후)
+> - 배경: 2027년 4월 말 — 미드타운 해나의 로펌 회의실(새벽 1시) → 새 사무실(다음 날 아침) → 케슬러 캐피털 → 웨스트 21번가 건물 1층 골드버그의 사무실(오후)
 > - 등장인물: Ethan, Hannah, Rita, Leo, Nate, Mr. Goldberg
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "key-person clause", "There's a catch.", "trigger (a clause)", "buy someone out", "show one's cards", "come to one's senses", "go under", "Pay me when you pay me."
@@ -77,8 +77,8 @@
 021. HANNAH: CEO to regional manager. No board seat. No name on the door. That's material.
     해나: CEO에서 지역 관리자로. 이사회 의석 없음. 문패에 이름 없음. 그건 실질적이지.
 
-022. ETHAN: But nothing's final. The vote isn't until June twenty-eighth.
-    이선: 근데 확정된 건 없잖아. 표결은 6월 28일이야.
+022. ETHAN: But nothing's final. The vote isn't until May twenty-eighth.
+    이선: 근데 확정된 건 없잖아. 표결은 5월 28일이야.
 
 023. HANNAH: Nate sent an all-staff email. "Exciting news." He announced your new title to thirty people.
     해나: 네이트가 전 직원 메일 보냈잖아. "기쁜 소식." 오빠 새 직함을 서른 명한테 발표했어.
@@ -95,8 +95,8 @@
 027. ETHAN: There's always a catch.
     이선: 함정은 항상 있지.
 
-028. HANNAH: Thirty days from the email. That's June twenty-fourth. And the original price is two million dollars.
-    해나: 메일 날짜로부터 30일. 6월 24일이야. 그리고 최초 매입가가 200만 달러야.
+028. HANNAH: Thirty days from the email. That's May twenty-sixth. And the original price is two million dollars.
+    해나: 메일 날짜로부터 30일. 5월 26일이야. 그리고 최초 매입가가 200만 달러야.
 
 029. ETHAN: Right. The other million wasn't due for a year anyway. So two million.
     이선: 맞아. 나머지 100만은 어차피 1년 뒤에나 들어올 돈이었으니까. 그러니까 200만.
@@ -224,8 +224,8 @@
 070. NATE: Your father had a different market.
     네이트: 아버님 때는 시장이 달랐죠.
 
-071. ETHAN: Maybe. But I've got the same nerve. See you on June twenty-fourth, Nate.
-    이선: 그럴지도요. 근데 배짱은 저도 똑같아요. 6월 24일에 봬요, 네이트.
+071. ETHAN: Maybe. But I've got the same nerve. See you on May twenty-sixth, Nate.
+    이선: 그럴지도요. 근데 배짱은 저도 똑같아요. 5월 26일에 봬요, 네이트.
 
 072. NATE: When you come to your senses, let's talk scale.
     네이트: 정신 차리시면 그때 스케일 얘기 좀 하죠.
@@ -290,8 +290,8 @@
 092. MR. GOLDBERG: Rita has a big heart. At our age, it's the same thing. So? Six hundred?
     골드버그: 리타는 마음이 넓은 거야. 우리 나이엔 그게 같은 거지. 그래서? 60만?
 
-093. ETHAN: By June twenty-fourth. Or Hale becomes something called Statura New York.
-    이선: 6월 24일까지요. 아니면 헤일이 스태투라 뉴욕이라는 게 돼요.
+093. ETHAN: By May twenty-sixth. Or Hale becomes something called Statura New York.
+    이선: 5월 26일까지요. 아니면 헤일이 스태투라 뉴욕이라는 게 돼요.
 
 094. MR. GOLDBERG: Statura. Sounds like a medication. "Ask your doctor about Statura."
     골드버그: 스태투라. 무슨 약 이름 같군. "스태투라에 대해 의사와 상담하세요."

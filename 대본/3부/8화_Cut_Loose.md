@@ -4,11 +4,11 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 8화 · 서사 기능: 타협의 대가 / 균열 폭발
-> - 배경: 허드슨 야드 근처 새 사무실 32층(유리 회의실), 2027년 4월 말 금요일 — 아침 회의 → 오후 두 시 이후 → 오후 네 시 → 저녁
+> - 배경: 허드슨 야드 근처 새 사무실 32층(유리 회의실), 2027년 4월 초 금요일 — 아침 회의 → 오후 두 시 이후 → 오후 네 시 → 저녁
 > - 등장인물: Ethan, Maya, Leo, Rita, Nate, Priya(신인 모델)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "cut someone loose", "clean slate", "kick in", "fall through the cracks", "a low blow", "sleep on it", "two weeks' notice"
-> - 복선/연결: 3부 7화 트레버의 '헤일 밸류 스코어'(줄스 94점, 프리야 6점)와 네이트의 '금요일까지 이름 셋' → 방출 확정. 마야의 "제 이름도 프리야 밑에"(3부 7화 엔딩) → 사표로 실행. 6월 체크포인트(목표 15%, 현재 6%)와 7페이지 조항(49%)의 압박. 2부 13~14화 노스라인 사건의 대가가 프리야에게 돌아감. 마야의 사표 → 3부 9화 '마야 없는 사무실'. 이선의 "숫자 때문이야"가 3부 14화 사과 장면에서 되돌아옴.
+> - 복선/연결: 3부 7화 트레버의 '헤일 밸류 스코어'(줄스 94점, 프리야 6점)와 네이트의 '금요일까지 이름 셋' → 방출 확정. 마야의 "제 이름도 프리야 밑에"(3부 7화 엔딩) → 사표로 실행. 5월 체크포인트(목표 15%, 현재 6%)와 7페이지 조항(49%)의 압박. 2부 13~14화 노스라인 사건의 대가가 프리야에게 돌아감. 마야의 사표 → 3부 9화 '마야 없는 사무실'. 이선의 "숫자 때문이야"가 3부 14화 사과 장면에서 되돌아옴.
 
 ---
 
@@ -92,8 +92,8 @@
 026. ETHAN: Let's do it. Everyone, grab a seat.
     이선: 하죠. 다들 앉아.
 
-027. NATE: So. Quick update. The June checkpoint is five weeks away. The target is fifteen percent growth.
-    네이트: 자. 간단히 업데이트할게요. 6월 체크포인트가 5주 남았어요. 목표는 15퍼센트 성장.
+027. NATE: So. Quick update. The May checkpoint is five weeks away. The target is fifteen percent growth.
+    네이트: 자. 간단히 업데이트할게요. 5월 체크포인트가 5주 남았어요. 목표는 15퍼센트 성장.
 
 028. NATE: We're at six. Six percent. That gap is a problem.
     네이트: 우린 지금 6퍼센트예요. 6. 그 격차가 문제죠.
@@ -116,14 +116,14 @@
 034. NATE: Top of the list, Jules. Ninety-four. Then Kai, then the new girls from February.
     네이트: 맨 위는 줄스. 94점. 그다음 카이, 그다음 2월에 들어온 신인들.
 
-035. NATE: And at the bottom, Owen Price, Dani Ruiz, and Priya Shah.
-    네이트: 그리고 맨 아래가 오언 프라이스, 대니 루이즈, 프리야 샤.
+035. NATE: And at the bottom, Wes Porter, Dani Reyes, and Priya Shah.
+    네이트: 그리고 맨 아래가 웨스 포터, 대니 레예스, 프리야 샤.
 
 036. MAYA: Dani broke her ankle in January. She's been back on set for two weeks.
     마야: 대니는 1월에 발목이 부러졌어요. 촬영장 복귀한 지 2주밖에 안 됐고요.
 
-037. MAYA: Owen's twenty. He's been with us four months. Nobody books in four months.
-    마야: 오언은 스무 살이에요. 우리랑 4개월 있었어요. 4개월 만에 일 잡히는 사람 없어요.
+037. MAYA: Wes's twenty. He's been with us four months. Nobody books in four months.
+    마야: 웨스은 스무 살이에요. 우리랑 4개월 있었어요. 4개월 만에 일 잡히는 사람 없어요.
 
 038. NATE: I hear you. But we can't carry everyone forever. That's not a business.
     네이트: 무슨 말인지 알아요. 하지만 모두를 영원히 끌고 갈 순 없어요. 그건 사업이 아니죠.
@@ -143,8 +143,8 @@
 043. ETHAN: Okay, let's slow down. Nate, what exactly do you need today?
     이선: 자, 좀 천천히 하죠. 네이트, 오늘 정확히 뭐가 필요하세요?
 
-044. NATE: Three names by five. Released by May first. Bookers focus on the top twenty. That's how we hit fifteen.
-    네이트: 다섯 시까지 이름 셋. 5월 1일까지 해지. 부커들은 상위 20명에 집중하고요. 그래야 15퍼센트 찍어요.
+044. NATE: Three names by five. Released by April fifteenth. Bookers focus on the top twenty. That's how we hit fifteen.
+    네이트: 다섯 시까지 이름 셋. 4월 15일까지 해지. 부커들은 상위 20명에 집중하고요. 그래야 15퍼센트 찍어요.
 
 045. LEO: And if we don't hit fifteen?
     레오: 15퍼센트 못 찍으면요?
@@ -206,8 +206,8 @@
 064. ETHAN: I got three months' pay for each of them. And his word: no more cuts this year.
     이선: 한 명당 석 달 치 돈 받아 냈어. 그리고 약속도. 올해는 더 이상 방출 없다고.
 
-065. MAYA: His word. And the three are Owen, Dani, and Priya.
-    마야: 그 사람 약속이요. 그리고 그 셋이 오언, 대니, 프리야고요.
+065. MAYA: His word. And the three are Wes, Dani, and Priya.
+    마야: 그 사람 약속이요. 그리고 그 셋이 웨스, 대니, 프리야고요.
 
 066. ETHAN: Yes.
     이선: 응.
@@ -215,8 +215,8 @@
 067. MAYA: So you agreed. You actually agreed.
     마야: 그러니까 동의했네요. 진짜로 동의했어요.
 
-068. ETHAN: If we miss June and then December, page seven puts Nate at forty-nine percent.
-    이선: 6월이랑 12월 둘 다 놓치면, 7페이지 조항 때문에 네이트 지분이 49퍼센트가 돼.
+068. ETHAN: If we miss May and then November, page seven puts Nate at forty-nine percent.
+    이선: 5월이랑 11월 둘 다 놓치면, 7페이지 조항 때문에 네이트 지분이 49퍼센트가 돼.
 
 069. ETHAN: At forty-nine, he doesn't need to ask me anything. Then everybody goes, not just three.
     이선: 49퍼센트면 나한테 뭘 물어볼 필요도 없어. 그럼 세 명이 아니라 다 나가는 거야.
@@ -335,8 +335,8 @@
 107. RITA: She's gone? That poor girl. She brought me flan at Christmas.
     리타: 갔어? 불쌍한 것. 크리스마스에 나한테 플랑 갖다줬던 앤데.
 
-108. LEO: Dani and Owen got the emails. Owen replied with a thumbs-up. Somehow that's worse.
-    레오: 대니랑 오언한테 메일 갔어요. 오언이 엄지척 이모티콘으로 답장했어요. 그게 왠지 더 슬퍼요.
+108. LEO: Dani and Wes got the emails. Wes replied with a thumbs-up. Somehow that's worse.
+    레오: 대니랑 웨스한테 메일 갔어요. 웨스이 엄지척 이모티콘으로 답장했어요. 그게 왠지 더 슬퍼요.
 
 109. MAYA: Ethan. I told you my name would go under hers. Here it is.
     마야: 이선. 제 이름도 그 밑에 올라간다고 했죠. 여기요.
@@ -344,8 +344,8 @@
 110. ETHAN: What is this? Maya, what is this?
     이선: 이게 뭐야? 마야, 이게 뭐냐고.
 
-111. MAYA: My two weeks' notice. My last day is May seventh. My clients are in the handover file.
-    마야: 2주 전 퇴사 통보요. 마지막 날은 5월 7일이에요. 제 클라이언트는 인수인계 파일에 있어요.
+111. MAYA: My two weeks' notice. My last day is April sixteenth. My clients are in the handover file.
+    마야: 2주 전 퇴사 통보요. 마지막 날은 4월 16일이에요. 제 클라이언트는 인수인계 파일에 있어요.
 
 112. LEO: Wait, what? No. No, no, no. Maya, you can't.
     레오: 잠깐, 뭐요? 안 돼요. 안 돼, 안 돼. 마야 누나, 그러면 안 돼요.
@@ -384,7 +384,7 @@
 - **clean slate** — 백지 상태, 새 출발 / Clean slate for Q2. (044)
 - **cut someone loose** — 관계를 끊다, 내보내다 / So you just cut them loose? (047)
 - **kick in** — (조항·효과가) 발동하다 / Miss two, and page seven kicks in. (046)
-- **checkpoint** — 중간 점검 시점 / The June checkpoint is five weeks away. (027)
+- **checkpoint** — 중간 점검 시점 / The May checkpoint is five weeks away. (027)
 - **fall through the cracks** — 관리에서 빠져 방치되다 / Nobody falls through the cracks. (075)
 - **a low blow** — 비열한 공격, 반칙 / That's a low blow, Maya. (079)
 - **sleep on it** — 하룻밤 자며 생각해 보다 / Don't do this angry. Sleep on it. (113)

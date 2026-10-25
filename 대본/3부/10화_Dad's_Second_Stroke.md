@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 10화 · 서사 기능: 위기 심화 / 남매의 화해
-> - 배경: 마운트 사이나이 병원(어퍼 이스트사이드, 매디슨 애비뉴), 2027년 5월 둘째 주 목요일 자정 → 새벽 두 시 → 아침 여섯 시
+> - 배경: 마운트 사이나이 병원(어퍼 이스트사이드, 매디슨 애비뉴), 2027년 4월 셋째 주 목요일 자정 → 새벽 두 시 → 아침 여섯 시
 > - 등장인물: Ethan, Hannah, Dr. Levine(신경과 의사), Rita, Nora, Walter
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "tell it to me straight", "take turns", "come running", "make partner", "There it is.", "scared someone half to death", "stable"
@@ -314,8 +314,8 @@
 100. ETHAN: You didn't have to come. It's Madison Avenue at dawn. It's freezing.
     이선: 안 와도 됐는데. 새벽 매디슨 애비뉴잖아요. 춥고요.
 
-101. NORA: It's May, Ethan. It's sixty degrees. You're just tired.
-    노라: 5월이에요, 이선. 15도예요. 그냥 피곤한 거예요.
+101. NORA: It's April, Ethan. It's sixty degrees. You're just tired.
+    노라: 4월이에요, 이선. 15도예요. 그냥 피곤한 거예요.
 
 102. ETHAN: He tried to call the old office. Right before it happened. The loft.
     이선: 아빠가 옛날 사무실에 전화하려고 했대요. 쓰러지기 직전에. 로프트에.

@@ -215,8 +215,8 @@
 067. RITA: You're so skinny! Are they feeding you? Is anyone feeding you?
     리타: 너 너무 말랐어! 거기서 밥은 주니? 누가 너 밥은 챙겨 주니?
 
-068. JULES: Inès feeds me. Croissants, mostly. Is that... normal?
-    줄스: 이네스가 챙겨 줘요. 주로 크루아상이요. 그거… 정상이에요?
+068. JULES: Margaux feeds me. Croissants, mostly. Is that... normal?
+    줄스: 마고가 챙겨 줘요. 주로 크루아상이요. 그거… 정상이에요?
 
 069. RITA: No! Saturday, you eat three sliders. Minimum.
     리타: 아니! 토요일에 슬라이더 세 개 먹어. 최소한.

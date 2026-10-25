@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 11화 · 서사 기능: 기원 회상 / 주인공의 각성
-> - 배경: 마운트 사이나이 병원 입원실, 2027년 5월 셋째 주 금요일 오전(두 번째 뇌졸중 일주일 뒤) → 병원 복도
+> - 배경: 마운트 사이나이 병원 입원실, 2027년 4월 넷째 주 금요일 오전(두 번째 뇌졸중 일주일 뒤) → 병원 복도
 > - 등장인물: Walter, Ethan, Hannah, Leo, Nate(전화)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "old dog, new tricks", "get fired", "let someone win", "be soft on someone", "pull every model", "a fair shot", "Great minds (think alike)"

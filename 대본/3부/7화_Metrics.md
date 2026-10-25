@@ -8,7 +8,7 @@
 > - 등장인물: Trevor(케슬러 애널리스트, 단역), Nate, Maya, Leo, Rita, Ethan, Priya
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "dashboard", "bottom quartile", "trending flat", "retroactively", "trim", "release a contract", "It's not personal. It's business.", "read lips"
-> - 복선/연결: '헤일 밸류 스코어' — 줄스 94점, 프리야 6점 · 6월 중간 점검(목표 15%, 현재 6%)과 7페이지 49퍼센트 조항 · 마커스의 프리야 테스트 촬영 취소 · 마야가 프리야에게 한 약속 · "명단에 내 이름도 올려"(→3부 8화 Cut Loose, 마야 퇴사)
+> - 복선/연결: '헤일 밸류 스코어' — 줄스 94점, 프리야 6점 · 5월 중간 점검(목표 15%, 현재 6%)과 7페이지 49퍼센트 조항 · 마커스의 프리야 테스트 촬영 취소 · 마야가 프리야에게 한 약속 · "명단에 내 이름도 올려"(→3부 8화 Cut Loose, 마야 퇴사)
 
 ---
 
@@ -161,8 +161,8 @@
 049. ETHAN: What does focus mean? In numbers.
     이선: 집중이 무슨 뜻이죠? 숫자로요.
 
-050. NATE: The June checkpoint is in seven weeks. We need fifteen percent growth. We're at six.
-    네이트: 6월 중간 점검이 7주 남았어요. 15퍼센트 성장이 필요한데, 지금 6퍼센트예요.
+050. NATE: The May checkpoint is in seven weeks. We need fifteen percent growth. We're at six.
+    네이트: 5월 중간 점검이 7주 남았어요. 15퍼센트 성장이 필요한데, 지금 6퍼센트예요.
 
 051. ETHAN: I know where we are.
     이선: 우리가 어디쯤인지는 알아요.
@@ -197,8 +197,8 @@
 061. ETHAN: And if I don't give you three names?
     이선: 이름 셋을 안 드리면요?
 
-062. NATE: Then we'll talk about it at the board. You and me. And we'll talk about June.
-    네이트: 그럼 이사회에서 얘기하죠. 이선 씨랑 저랑. 그리고 6월 얘기도 하고요.
+062. NATE: Then we'll talk about it at the board. You and me. And we'll talk about May.
+    네이트: 그럼 이사회에서 얘기하죠. 이선 씨랑 저랑. 그리고 5월 얘기도 하고요.
 
 063. MAYA: I'm going to my fitting.
     마야: 저 피팅 갈게요.
@@ -296,8 +296,8 @@
 094. ETHAN: Is this about the names?
     이선: 이름 얘기예요?
 
-095. NATE: It's about June. Ethan, if we miss June, and then we miss December, page seven kicks in.
-    네이트: 6월 얘기예요. 이선 씨, 6월을 놓치고 12월도 놓치면 7페이지가 발동해요.
+095. NATE: It's about May. Ethan, if we miss May, and then we miss November, page seven kicks in.
+    네이트: 5월 얘기예요. 이선 씨, 5월을 놓치고 11월도 놓치면 7페이지가 발동해요.
 
 096. ETHAN: Forty-nine percent. I know.
     이선: 49퍼센트. 알아요.
@@ -332,8 +332,8 @@
 106. ETHAN: And then you stop asking?
     이선: 그럼 그다음엔 더 안 요구하시고요?
 
-107. NATE: Then we see the June numbers. That's all I can promise. Let's talk scale on Monday. Good night.
-    네이트: 그다음엔 6월 숫자를 보는 거죠. 약속할 수 있는 건 그게 다예요. 월요일에 스케일 얘기 합시다. 좋은 밤 되세요.
+107. NATE: Then we see the May numbers. That's all I can promise. Let's talk scale on Monday. Good night.
+    네이트: 그다음엔 5월 숫자를 보는 거죠. 약속할 수 있는 건 그게 다예요. 월요일에 스케일 얘기 합시다. 좋은 밤 되세요.
 
 108. MAYA: Is he gone?
     마야: 갔어요?
@@ -350,8 +350,8 @@
 112. MAYA: You're not saying no. That's deciding.
     마야: '노'라고 안 하잖아요. 그게 결정한 거예요.
 
-113. ETHAN: Maya, if we miss June, Nate gets closer to control. Then it's not three models. It's all of them.
-    이선: 마야, 6월을 놓치면 네이트가 경영권에 더 가까워져. 그럼 모델 셋이 아니라 전부야.
+113. ETHAN: Maya, if we miss May, Nate gets closer to control. Then it's not three models. It's all of them.
+    이선: 마야, 5월을 놓치면 네이트가 경영권에 더 가까워져. 그럼 모델 셋이 아니라 전부야.
 
 114. MAYA: So you cut three to save thirty-five. That's his math. You're speaking his language now.
     마야: 그러니까 서른다섯을 살리려고 셋을 자른다. 그게 그 사람 계산법이에요. 이제 그 사람 말을 쓰네요.

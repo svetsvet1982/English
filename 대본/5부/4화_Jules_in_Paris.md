@@ -329,8 +329,8 @@
 105. ETHAN: Could someone from your team check in on her? Take her to lunch. Speak English to her.
     이선: 그쪽 팀에서 누가 좀 들여다봐 줄 수 있을까요? 점심도 사 주고. 영어로 얘기도 해 주고.
 
-106. HELENE: I'll send Inès. She's my best scout. Twenty-six, from Lyon, she talks too much.
-    엘렌: 이네스를 보낼게요. 우리 최고의 스카우트예요. 스물여섯, 리옹 출신, 말이 너무 많아요.
+106. HELENE: I'll send Margaux. She's my best scout. Twenty-six, from Lyon, she talks too much.
+    엘렌: 마고를 보낼게요. 우리 최고의 스카우트예요. 스물여섯, 리옹 출신, 말이 너무 많아요.
 
 107. ETHAN: That sounds perfect. What do I owe you?
     이선: 완벽하네요. 제가 뭘 빚지는 거죠?
@@ -338,8 +338,8 @@
 108. HELENE: Nothing. Consider it a free sample of the partnership. À bientôt, Ethan.
     엘렌: 아무것도요. 파트너십 무료 샘플이라고 생각하세요. 아 비앵토, 이선.
 
-109. JULES: Guess what? I had lunch with Inès. She ordered for me. In French. Nobody laughed.
-    줄스: 있잖아요! 이네스랑 점심 먹었어요. 저 대신 주문해 줬어요. 프랑스어로. 아무도 안 웃었어요.
+109. JULES: Guess what? I had lunch with Margaux. She ordered for me. In French. Nobody laughed.
+    줄스: 있잖아요! 마고랑 점심 먹었어요. 저 대신 주문해 줬어요. 프랑스어로. 아무도 안 웃었어요.
 
 110. MAYA: Look at you. You look like a different person.
     마야: 얼굴 좀 봐. 딴사람 같네.
@@ -350,8 +350,8 @@
 112. ETHAN: Did you run this morning?
     이선: 오늘 아침에 달렸어?
 
-113. JULES: Along the canal. Inès showed me. And I bought real bread. Sasha would be proud.
-    줄스: 운하 따라서요. 이네스가 알려 줬어요. 그리고 진짜 빵 샀어요. 사샤가 자랑스러워할 거예요.
+113. JULES: Along the canal. Margaux showed me. And I bought real bread. Sasha would be proud.
+    줄스: 운하 따라서요. 마고가 알려 줬어요. 그리고 진짜 빵 샀어요. 사샤가 자랑스러워할 거예요.
 
 114. MAYA: Sasha's going to frame that sentence.
     마야: 사샤는 그 문장 액자에 걸어 둘 거야.

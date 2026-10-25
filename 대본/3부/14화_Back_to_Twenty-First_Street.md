@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 14화 · 서사 기능: 3부 결말 / 팀 재결합
-> - 배경: 2027년 6월 첫째 주 — 아스토리아 31번가, 그리스 빵집 위층 마야의 아파트(아침) → 웨스트 21번가 로프트 4층(이삿날 오후~저녁)
+> - 배경: 2027년 4월 마지막 주 금요일 — 아스토리아 31번가, 그리스 빵집 위층 마야의 아파트(아침) → 웨스트 21번가 로프트 4층(이삿날 오후~저녁)
 > - 등장인물: Ethan, Maya, Kai, Mr. Goldberg, Leo, Rita, Sal, Hannah, Jules, Priya
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "out of practice", "change the subject", "wire money", "on the house", "Pay up.", "run over", "fair book", "Noted."
@@ -56,8 +56,8 @@
 014. MAYA: That's new.
     마야: 처음 보는 모습이네요.
 
-015. ETHAN: I'm sorry, Maya. For Priya. For Dani and Owen. For not listening to you.
-    이선: 미안해, 마야. 프리야 일. 대니랑 오언 일. 네 말 안 들은 거.
+015. ETHAN: I'm sorry, Maya. For Priya. For Dani and Wes. For not listening to you.
+    이선: 미안해, 마야. 프리야 일. 대니랑 웨스 일. 네 말 안 들은 거.
 
 016. ETHAN: You told me it was wrong. Out loud, in front of everyone. And I made you the problem.
     이선: 넌 틀렸다고 말했어. 큰 소리로, 다들 앞에서. 그런데 난 너를 문제로 만들었지.
@@ -164,8 +164,8 @@
 050. ETHAN: What does it mean? To you. Exactly.
     이선: 그게 무슨 뜻이야? 너한테. 정확히.
 
-051. MAYA: Priya, Dani, and Owen come back. Today. Full contracts.
-    마야: 프리야, 대니, 오언 복귀. 오늘. 정식 계약.
+051. MAYA: Priya, Dani, and Wes come back. Today. Full contracts.
+    마야: 프리야, 대니, 웨스 복귀. 오늘. 정식 계약.
 
 052. MAYA: Every model sees every invoice. Our commission, in writing. No surprises.
     마야: 모든 모델이 모든 청구서를 본다. 우리 수수료는 서면으로. 뒤통수치는 일 없게.

@@ -302,14 +302,14 @@
 096. HELENE: Hmm. I don't love "badly."
     엘렌: 흠. '엉망'이라는 말은 별로네요.
 
-097. JULES: Um, sorry. Can I say something? Inès said I could join the call.
-    줄스: 음, 죄송해요. 저 한마디 해도 돼요? 이네스가 통화에 들어가도 된대서요.
+097. JULES: Um, sorry. Can I say something? Margaux said I could join the call.
+    줄스: 음, 죄송해요. 저 한마디 해도 돼요? 마고가 통화에 들어가도 된대서요.
 
 098. HELENE: Jules. Of course. You're the reason we're talking.
     엘렌: 줄스. 물론이죠. 우리가 이 얘기를 하는 게 당신 덕분인걸요.
 
-099. JULES: Inès has been amazing. She checks on me every day. She found me a real kitchen.
-    줄스: 이네스는 정말 최고예요. 매일 저 챙겨 줘요. 진짜 부엌 있는 집도 찾아 줬고요.
+099. JULES: Margaux has been amazing. She checks on me every day. She found me a real kitchen.
+    줄스: 마고는 정말 최고예요. 매일 저 챙겨 줘요. 진짜 부엌 있는 집도 찾아 줬고요.
 
 100. JULES: But when I was crying at three a.m., I called New York. Not because Paris was bad.
     줄스: 근데 새벽 3시에 울 때 저는 뉴욕에 전화했어요. 파리가 나빠서가 아니라요.

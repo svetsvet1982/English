@@ -4,11 +4,11 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 10화 · 서사 기능: 상승의 정점 (줄스의 첫 클로징, 업계 주목) + 새 위협 등장
-> - 배경: 2027년 2월 13일(토) 오후~저녁. 파이낸셜 디스트릭트, 옛 은행 건물을 개조한 이네스 마를로 쇼장 — 백스테이지 → 런웨이 사이드 → 쇼 직후 백스테이지 → 건물 뒤편 출구.
-> - 등장인물: Ethan, Maya, Leo, Jules, Nora, Ines Marlowe(디자이너, 단역), Denise(전화), Claire
+> - 배경: 2027년 2월 13일(토) 오후~저녁. 파이낸셜 디스트릭트, 옛 은행 건물을 개조한 이모젠 마를로 쇼장 — 백스테이지 → 런웨이 사이드 → 쇼 직후 백스테이지 → 건물 뒤편 출구.
+> - 등장인물: Ethan, Maya, Leo, Jules, Nora, Imogen Marlowe(디자이너, 단역), Denise(전화), Claire
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "close the show", "the closing look", "hem", "safety pin", "blow up", "on the record / off the record", "have an eye (for)", "Just lunch."
-> - 복선/연결: 2부 8~9화 이네스의 호출 → 클로징. 2부 7화 노라와의 저녁 이후 첫 재회. 클레어의 명함 → 2부 11화 이적 제안. 줄스의 작은 거짓말로 마무리.
+> - 복선/연결: 2부 8~9화 이모젠의 호출 → 클로징. 2부 7화 노라와의 저녁 이후 첫 재회. 클레어의 명함 → 2부 11화 이적 제안. 줄스의 작은 거짓말로 마무리.
 
 ---
 
@@ -20,77 +20,77 @@
 002. MAYA: It used to be a bank. Now it's a runway. Try not to touch the marble.
     마야: 예전에 은행이었고, 지금은 런웨이야. 대리석은 만지지 마.
 
-003. ETHAN: Look at this place. The vault is the dressing room. That's very Ines.
-    이선: 여기 좀 봐. 금고가 탈의실이야. 완전 이네스답다.
+003. ETHAN: Look at this place. The vault is the dressing room. That's very Imogen.
+    이선: 여기 좀 봐. 금고가 탈의실이야. 완전 이모젠답다.
 
 004. JULES: I'm standing inside a bank vault in my underwear. My mom won't believe this.
     줄스: 저 지금 속옷 차림으로 은행 금고 안에 서 있어요. 엄마가 절대 안 믿을 거예요.
 
-005. INES: Jules. There you are. Come, come. Let me look at you one more time.
-    이네스: 줄스. 여기 있었네. 이리 와, 이리. 한 번만 더 보자.
+005. IMOGEN: Jules. There you are. Come, come. Let me look at you one more time.
+    이모젠: 줄스. 여기 있었네. 이리 와, 이리. 한 번만 더 보자.
 
 006. JULES: Hi, Ms. Marlowe. Thank you so much for— for this. For everything.
     줄스: 안녕하세요, 마를로 선생님. 정말 감사해요, 이거… 전부 다요.
 
-007. INES: Ines. Nobody calls me Ms. Marlowe except my bank. Ironic, given the room.
-    이네스: 이네스라고 해. 마를로 선생님이라고 부르는 건 우리 은행밖에 없어. 이 방에선 좀 웃기지.
+007. IMOGEN: Imogen. Nobody calls me Ms. Marlowe except my bank. Ironic, given the room.
+    이모젠: 이모젠라고 해. 마를로 선생님이라고 부르는 건 우리 은행밖에 없어. 이 방에선 좀 웃기지.
 
-008. ETHAN: Ines, thanks for taking a chance on her. Seriously.
-    이선: 이네스, 이 친구한테 기회 줘서 고마워요. 진심으로.
+008. ETHAN: Imogen, thanks for taking a chance on her. Seriously.
+    이선: 이모젠, 이 친구한테 기회 줘서 고마워요. 진심으로.
 
-009. INES: Don't thank me yet, Ethan. Thank me if she doesn't trip.
-    이네스: 아직 고마워하지 마, 이선. 안 넘어지면 그때 해.
+009. IMOGEN: Don't thank me yet, Ethan. Thank me if she doesn't trip.
+    이모젠: 아직 고마워하지 마, 이선. 안 넘어지면 그때 해.
 
 010. JULES: Oh God. Is that a possibility? I mean, obviously it's a possibility.
     줄스: 세상에. 그럴 가능성도 있어요? 아니, 당연히 있겠죠.
 
-011. INES: I'm joking. Mostly. Bring out the coat.
-    이네스: 농담이야. 거의. 코트 가져와.
+011. IMOGEN: I'm joking. Mostly. Bring out the coat.
+    이모젠: 농담이야. 거의. 코트 가져와.
 
 012. MAYA: That's the closing look? That's not a coat. That's a building.
     마야: 그게 클로징 룩이에요? 그건 코트가 아니라 건물인데요.
 
-013. INES: Charcoal wool, hand-stitched, floor length. It weighs eleven pounds.
-    이네스: 차콜 울, 손바느질, 바닥까지 오는 기장. 무게가 5킬로 정도 돼.
+013. IMOGEN: Charcoal wool, hand-stitched, floor length. It weighs eleven pounds.
+    이모젠: 차콜 울, 손바느질, 바닥까지 오는 기장. 무게가 5킬로 정도 돼.
 
 014. JULES: Eleven pounds? That's, like, a Thanksgiving turkey.
     줄스: 5킬로요? 그거 추수감사절 칠면조만 한데요.
 
-015. INES: Exactly. You'll carry it like a turkey you're proud of.
-    이네스: 바로 그거야. 자랑스러운 칠면조 들고 가듯이 걸으면 돼.
+015. IMOGEN: Exactly. You'll carry it like a turkey you're proud of.
+    이모젠: 바로 그거야. 자랑스러운 칠면조 들고 가듯이 걸으면 돼.
 
 016. LEO: Can I post that quote? "Carry it like a turkey you're proud of." It's iconic.
     레오: 그 말 올려도 돼요? "자랑스러운 칠면조처럼." 완전 명언인데.
 
-017. INES: After the show, you can post whatever you like. Before the show, nothing.
-    이네스: 쇼 끝나면 뭐든 올려. 쇼 전엔 아무것도 안 돼.
+017. IMOGEN: After the show, you can post whatever you like. Before the show, nothing.
+    이모젠: 쇼 끝나면 뭐든 올려. 쇼 전엔 아무것도 안 돼.
 
 018. LEO: Understood. My thumbs are in jail.
     레오: 알겠습니다. 제 엄지는 감옥에 갔어요.
 
-019. JULES: Ines, can I ask why me? You saw a lot of girls. Better girls.
-    줄스: 이네스, 왜 저예요? 많은 모델들 보셨잖아요. 더 나은 애들도.
+019. JULES: Imogen, can I ask why me? You saw a lot of girls. Better girls.
+    줄스: 이모젠, 왜 저예요? 많은 모델들 보셨잖아요. 더 나은 애들도.
 
-020. INES: Different girls. Not better. You want the real answer?
-    이네스: 다른 애들이지, 더 나은 애들이 아니야. 진짜 이유 듣고 싶어?
+020. IMOGEN: Different girls. Not better. You want the real answer?
+    이모젠: 다른 애들이지, 더 나은 애들이 아니야. 진짜 이유 듣고 싶어?
 
 021. JULES: Yes. Please.
     줄스: 네. 부탁해요.
 
-022. INES: I heard what Kroll said to you. Then you came to my fitting the next morning.
-    이네스: 크롤이 너한테 한 말 들었어. 그런데 넌 다음 날 아침 내 피팅에 왔지.
+022. IMOGEN: I heard what Kroll said to you. Then you came to my fitting the next morning.
+    이모젠: 크롤이 너한테 한 말 들었어. 그런데 넌 다음 날 아침 내 피팅에 왔지.
 
-023. INES: You looked like someone who'd been told she was wrong, and kept standing anyway.
-    이네스: 틀렸다는 말을 듣고도 그냥 버티고 서 있는 사람 얼굴이었어.
+023. IMOGEN: You looked like someone who'd been told she was wrong, and kept standing anyway.
+    이모젠: 틀렸다는 말을 듣고도 그냥 버티고 서 있는 사람 얼굴이었어.
 
-024. INES: That's what this coat is about. Weight, and standing up under it.
-    이네스: 이 코트가 바로 그거야. 무게, 그리고 그걸 짊어지고 서 있는 것.
+024. IMOGEN: That's what this coat is about. Weight, and standing up under it.
+    이모젠: 이 코트가 바로 그거야. 무게, 그리고 그걸 짊어지고 서 있는 것.
 
 025. JULES: Okay. I don't know what to say.
     줄스: 네. 뭐라고 해야 할지 모르겠어요.
 
-026. INES: Say nothing. Just walk. Hair in ten minutes. Go.
-    이네스: 아무 말도 하지 마. 그냥 걸어. 10분 뒤에 헤어. 가.
+026. IMOGEN: Say nothing. Just walk. Hair in ten minutes. Go.
+    이모젠: 아무 말도 하지 마. 그냥 걸어. 10분 뒤에 헤어. 가.
 
 027. MAYA: Jules, your phone's buzzing. It says "Denise, do not ignore."
     마야: 줄스, 폰 울린다. "데니즈, 무시 금지"라고 떠.
@@ -113,8 +113,8 @@
 033. DENISE: Because one is nervous, two is polite, and three is a star. Bye, baby.
     데니즈: 하나는 긴장, 둘은 예의, 셋은 스타거든. 끊는다, 얘.
 
-034. NORA: Ethan Hale. Backstage at Ines Marlowe. Who let you in?
-    노라: 이선 헤일. 이네스 마를로 백스테이지에. 누가 들여보냈어요?
+034. NORA: Ethan Hale. Backstage at Imogen Marlowe. Who let you in?
+    노라: 이선 헤일. 이모젠 마를로 백스테이지에. 누가 들여보냈어요?
 
 035. ETHAN: Nora. I could ask you the same thing.
     이선: 노라. 나도 똑같이 묻고 싶은데요.
@@ -149,8 +149,8 @@
 045. MAYA: The dresser pulled it too hard. She's crying in the vault. The coat is fine. The hook isn't.
     마야: 드레서가 너무 세게 당겼어요. 금고 안에서 울고 있어요. 코트는 멀쩡한데 고리가 문제예요.
 
-046. INES: Nobody panic. Who has a needle? Somebody has a needle.
-    이네스: 다들 당황하지 마. 바늘 있는 사람? 누군가는 있겠지.
+046. IMOGEN: Nobody panic. Who has a needle? Somebody has a needle.
+    이모젠: 다들 당황하지 마. 바늘 있는 사람? 누군가는 있겠지.
 
 047. LEO: I have a phone charger and a granola bar. Same one as last week, actually.
     레오: 전 충전기랑 그래놀라 바 있어요. 사실 지난주 그거예요.
@@ -167,20 +167,20 @@
 051. JULES: I'm holding still. I'm not even breathing.
     줄스: 가만있어요. 숨도 안 쉬어요.
 
-052. MAYA: Breathe. Just don't breathe big. There. Ines, look.
-    마야: 숨은 쉬어. 크게만 쉬지 마. 됐다. 이네스, 보세요.
+052. MAYA: Breathe. Just don't breathe big. There. Imogen, look.
+    마야: 숨은 쉬어. 크게만 쉬지 마. 됐다. 이모젠, 보세요.
 
-053. INES: Huh. A gold pin at the throat. I hate that I like it.
-    이네스: 흠. 목에 금색 옷핀이라. 이게 마음에 든다는 게 싫네.
+053. IMOGEN: Huh. A gold pin at the throat. I hate that I like it.
+    이모젠: 흠. 목에 금색 옷핀이라. 이게 마음에 든다는 게 싫네.
 
-054. INES: Leave it. Don't hide it. That's the look now.
-    이네스: 그대로 둬. 숨기지 마. 이제 그게 룩이야.
+054. IMOGEN: Leave it. Don't hide it. That's the look now.
+    이모젠: 그대로 둬. 숨기지 마. 이제 그게 룩이야.
 
 055. MAYA: You're welcome.
     마야: 천만에요.
 
-056. INES: I didn't say thank you.
-    이네스: 고맙다고 안 했는데.
+056. IMOGEN: I didn't say thank you.
+    이모젠: 고맙다고 안 했는데.
 
 057. MAYA: You will.
     마야: 하시게 될 거예요.
@@ -227,8 +227,8 @@
 071. NORA: And turn. Wow. That was not a new face. That was a face.
     노라: 그리고 턴. 와. 저건 신인 얼굴이 아니에요. 그냥 '얼굴'이에요.
 
-072. LEO: Ines is walking out. She's holding Jules's hand. She's holding her hand!
-    레오: 이네스가 나와요. 줄스 손을 잡고 있어요. 손을 잡았어요!
+072. LEO: Imogen is walking out. She's holding Jules's hand. She's holding her hand!
+    레오: 이모젠가 나와요. 줄스 손을 잡고 있어요. 손을 잡았어요!
 
 073. MAYA: Don't cry, Leo.
     마야: 울지 마, 레오.
@@ -251,14 +251,14 @@
 079. ETHAN: You counted to three. You did it exactly right.
     이선: 셋까지 셌어. 완벽하게 했어.
 
-080. INES: Jules. Come here. Thank you. And Maya—thank you. There. I said it.
-    이네스: 줄스. 이리 와. 고마워. 그리고 마야—고마워요. 됐지. 말했어.
+080. IMOGEN: Jules. Come here. Thank you. And Maya—thank you. There. I said it.
+    이모젠: 줄스. 이리 와. 고마워. 그리고 마야—고마워요. 됐지. 말했어.
 
 081. MAYA: Told you.
     마야: 거봐요.
 
-082. INES: I'm keeping the pin. It's going on every coat next season.
-    이네스: 그 옷핀 내가 가질게. 다음 시즌 코트에 전부 달 거야.
+082. IMOGEN: I'm keeping the pin. It's going on every coat next season.
+    이모젠: 그 옷핀 내가 가질게. 다음 시즌 코트에 전부 달 거야.
 
 083. LEO: Okay, my thumbs are out of jail. Ethan. Ethan. Look at my phone.
     레오: 자, 제 엄지 출소했어요. 이선. 이선. 제 폰 좀 봐요.

@@ -8,7 +8,7 @@
 > - 등장인물: Ethan, Maya, Leo, Jules, Kai(전화 → 마지막 등장), Fiona(캐스팅 디렉터), Dee(쇼 프로듀서, 단역), Dante Brooks(Hale 신인 모델, 단역), Harlan Cole(디자이너, 단역)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "call time", "first looks", "line-up", "go to voicemail", "stall", "a quick change", "family first", "You call me. Before, not after."
-> - 복선/연결: 2부 8화 이네스 마를로의 호출 → 이번 화 결말에서 클로징 제안(2부 10화). 카이 가족 사정(2부 2화)의 연장. 대체 모델 단테의 첫 런웨이.
+> - 복선/연결: 2부 8화 이모젠 마를로의 호출 → 이번 화 결말에서 클로징 제안(2부 10화). 카이 가족 사정(2부 2화)의 연장. 대체 모델 단테의 첫 런웨이.
 
 ---
 
@@ -365,14 +365,14 @@
 117. DANTE: I didn't fall! Kai, I didn't fall! Also I'm wearing somebody else's socks.
     단테: 저 안 넘어졌어요! 카이, 안 넘어졌다고요! 그리고 남의 양말 신고 있어요.
 
-118. MAYA: Hold on. Fiona's calling again. Already? Hello? ...Yes. Saturday. Ines Marlowe.
-    마야: 잠깐만요. 피오나가 또 전화했어요. 벌써? 여보세요? …네. 토요일요. 이네스 마를로.
+118. MAYA: Hold on. Fiona's calling again. Already? Hello? ...Yes. Saturday. Imogen Marlowe.
+    마야: 잠깐만요. 피오나가 또 전화했어요. 벌써? 여보세요? …네. 토요일요. 이모젠 마를로.
 
 119. ETHAN: What? What did she say? Maya, your face is doing something.
     이선: 뭐? 뭐래? 마야, 너 표정이 이상해.
 
-120. MAYA: Ines saw Jules at the fitting yesterday. She doesn't want her in the show. She wants her to close it.
-    마야: 이네스가 어제 피팅에서 줄스를 봤대요. 그냥 쇼에 세우는 게 아니래요. 클로징을 맡기고 싶대요.
+120. MAYA: Imogen saw Jules at the fitting yesterday. She doesn't want her in the show. She wants her to close it.
+    마야: 이모젠가 어제 피팅에서 줄스를 봤대요. 그냥 쇼에 세우는 게 아니래요. 클로징을 맡기고 싶대요.
 
 ---
 
@@ -393,4 +393,4 @@
 
 ## 다음 화 예고 (낭독하지 않음)
 
-- 토요일, 이네스 마를로 쇼. 줄스가 마지막 룩을 입고 런웨이 끝에 선다. 쇼가 끝나자 업계가 줄스 이름을 묻기 시작하고 — 백스테이지 출구에서 클레어 뒤부아가 줄스에게 다가온다.
+- 토요일, 이모젠 마를로 쇼. 줄스가 마지막 룩을 입고 런웨이 끝에 선다. 쇼가 끝나자 업계가 줄스 이름을 묻기 시작하고 — 백스테이지 출구에서 클레어 뒤부아가 줄스에게 다가온다.
