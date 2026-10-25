@@ -176,8 +176,8 @@
 054. KAI: Wait, really? I was gonna quit tomorrow morning, first thing.
     카이: 잠깐, 진짜요? 저 내일 아침에 바로 그만두려고 했는데.
 
-055. ETHAN: Please don't. Keep delivering for now, and we'll schedule castings around your shifts so you don't lose any money.
-    이선: 제발 그러지 마. 당분간 배달 계속해. 돈 손해 안 보게 캐스팅은 네 근무 시간 피해서 잡을게.
+055. ETHAN: Please don't. Keep delivering for now, and we'll schedule castings around your shifts so you don't lose any money while we wait for the first checks.
+    이선: 제발 그러지 마. 당분간 배달 계속해. 첫 수입 들어올 때까지 돈 손해 안 보게 캐스팅은 네 근무 시간 피해서 잡을게.
 
 056. LOURDES: Hm. That's the first smart thing anybody has said about this.
     루르데스: 흠. 이 일에 대해 누가 한 말 중에 처음으로 똑똑한 말이네요.
@@ -326,8 +326,8 @@
 104. LOURDES: Wait. Your father, he's the Hale in Hale Models, the one on the card?
     루르데스: 잠깐. 당신 아버지, 명함에 있는 헤일 모델스의 그 헤일이에요?
 
-105. ETHAN: Walter Hale, from the Grand Concourse. He had a stroke in October, and he's still in rehab, fighting with the nurses.
-    이선: 월터 헤일이요. 그랜드 콘코스 출신이에요. 10월에 뇌졸중으로 쓰러지셨는데, 아직 재활원에서 간호사들이랑 싸우고 계세요.
+105. ETHAN: Walter Hale, from the Grand Concourse. He had a stroke in October, and he's still in rehab, fighting with the nurses about Jell-O and pretending he's fine.
+    이선: 월터 헤일이요. 그랜드 콘코스 출신이에요. 10월에 뇌졸중으로 쓰러지셨는데, 아직 재활원에서 젤리 때문에 간호사들이랑 싸우면서 괜찮은 척하고 계세요.
 
 106. LOURDES: Ay, I'm sorry. A lot of my patients have had a stroke, so I know it's a long road for the whole family.
     루르데스: 아이고, 안됐네요. 내 환자들도 뇌졸중 겪은 사람 많아요. 그래서 온 가족한테 긴 싸움인 거 알아요.
@@ -347,8 +347,8 @@
 111. KAI: Yo, that went good, right? That went really good?
     카이: 와, 잘된 거죠? 진짜 잘된 거 맞죠?
 
-112. ETHAN: Your mom is the toughest negotiator I've met since Claire Dubois, and Claire once made a client cry without raising her voice.
-    이선: 너희 엄마는 클레어 뒤부아 이후로 만난 최강 협상가야. 클레어는 목소리 한 번 안 높이고 클라이언트를 울린 적도 있어.
+112. ETHAN: Your mom is the toughest negotiator I've met since Claire Dubois, and Claire once made a client cry in a meeting without ever raising her voice.
+    이선: 너희 엄마는 클레어 뒤부아 이후로 만난 최강 협상가야. 클레어는 회의에서 목소리 한 번 안 높이고 클라이언트를 울린 적도 있어.
 
 113. KAI: I don't know who that is, but my mom would win.
     카이: 그게 누군지 모르겠는데, 우리 엄마가 이겨요.

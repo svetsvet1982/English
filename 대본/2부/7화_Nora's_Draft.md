@@ -389,6 +389,8 @@
 - **prove someone wrong** — ~가 틀렸음을 증명하다 / "그럼 제가 틀렸다는 걸 증명하세요" (083)
 - **not for print** — 기사로 쓰면 안 되는, 비보도의 / 아파트 담보 고백 (105)
 - **walk someone to** — ~를 …까지 바래다주다 / 눈 오는 밤 F선 역까지 두 블록 (113–114)
+- **If I + 과거형, nobody would ~** — 만약 ~한다면 아무도 …하지 않을 것 (가정법 과거) / "If I gave up my sources, nobody would ever talk to me again." (075)
+- **depend on what ~** — ~하는 것에 달려 있다 / "what goes in it depends on what you do in the next two weeks" (085)
 
 ## 다음 화 예고 (낭독하지 않음)
 

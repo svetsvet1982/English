@@ -389,6 +389,8 @@
 - **wellness clause** — (모델 계약서의) 건강·복지 보호 조항 / (093)
 - **check in on someone** — ~가 괜찮은지 들여다보다 / (105)
 - **a free sample** — 무료 샘플, 맛보기 / "Consider it a free sample of the partnership." (108)
+- **I'd rather you…** — (정중한 압박) 차라리 당신이 ~해 주는 게 낫겠다 / "I'd rather you just handle it yourself" (095)
+- **The thing is, …** — 중요한 건/문제는 ~라는 거야 / "The thing is, lonely gets smaller when your day has a shape." (077)
 
 ## 다음 화 예고 (낭독하지 않음)
 

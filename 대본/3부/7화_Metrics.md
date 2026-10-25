@@ -14,26 +14,26 @@
 
 ## 대본
 
-001. TREVOR: Okay, if everyone can see the screen. This is the Hale Model Performance Dashboard, version one, which pulls data from every booking since January.
-    트레버: 자, 다들 화면 보이시죠. 이게 헤일 모델 성과 대시보드입니다. 1차 버전이고, 1월 이후 모든 부킹 데이터를 끌어옵니다.
+001. TREVOR: Okay, if everyone can see the screen. This is the Hale Model Performance Dashboard, version one, which pulls data from every single booking we've had since January.
+    트레버: 자, 다들 화면 보이시죠. 이게 헤일 모델 성과 대시보드입니다. 1차 버전이고, 1월 이후 우리가 한 부킹 하나하나의 데이터를 전부 끌어옵니다.
 
-002. NATE: Trevor built this in four days. Four days! The kid's a genius, honestly. Harvard, then Goldman, and now he's ours.
-    네이트: 트레버가 나흘 만에 만들었어요. 나흘! 솔직히 이 친구 천재예요. 하버드 나와서 골드만 삭스, 그리고 이제 우리 사람이죠.
+002. NATE: Trevor built this in four days. Four days! The kid's a genius. Harvard, then Goldman.
+    네이트: 트레버가 나흘 만에 만들었어요. 나흘! 이 친구 천재예요. 하버드 나와서 골드만 삭스.
 
 003. TREVOR: Wharton, actually. But thank you.
     트레버: 와튼입니다, 사실. 그래도 감사합니다.
 
-004. MAYA: Can we skip the résumé? I have a fitting at eleven, and I'm not going to be late for a spreadsheet.
-    마야: 이력서는 건너뛰면 안 될까요? 열한 시에 피팅이 있는데, 스프레드시트 때문에 늦을 생각은 없어서요.
+004. MAYA: Can we skip the résumé? I have a fitting at eleven.
+    마야: 이력서는 건너뛰면 안 될까요? 열한 시에 피팅이 있어서요.
 
 005. TREVOR: Of course. So, each model gets a score from zero to one hundred, based on what they bring in. We call it the Hale Value Score.
     트레버: 물론이죠. 모델마다 벌어들이는 걸 기준으로 0점에서 100점 사이 점수를 매깁니다. 이름하여 '헤일 밸류 스코어'.
 
-006. MAYA: You gave the models a credit score.
-    마야: 모델들한테 신용 점수를 매기셨네요.
+006. MAYA: So basically, you gave the models a credit score.
+    마야: 그러니까 결국 모델들한테 신용 점수를 매기셨네요.
 
-007. TREVOR: It's more of a performance index. Revenue in, costs out, divided by time on the board, so newer models aren't compared unfairly with older ones.
-    트레버: 성과 지수에 가깝습니다. 들어온 매출에서 비용을 빼고, 보드에 있었던 기간으로 나눈 거죠. 그래야 신인이 기성 모델이랑 불공평하게 비교되지 않으니까요.
+007. TREVOR: It's more of a performance index. Revenue in, costs out, divided by time on the board, so that newer models aren't compared unfairly with the older ones.
+    트레버: 성과 지수에 가깝습니다. 들어온 매출에서 비용을 빼고, 보드에 있었던 기간으로 나눈 거죠. 그래야 신인이 기성 모델들이랑 불공평하게 비교되지 않으니까요.
 
 008. ETHAN: And what exactly counts as costs?
     이선: 그럼 비용엔 정확히 뭐가 들어가요?
@@ -47,8 +47,8 @@
 011. TREVOR: We looked at email volume. Your email volume is very high, by the way.
     트레버: 이메일 양을 봤습니다. 참고로 마야 씨 이메일 양이 아주 많던데요.
 
-012. MAYA: That's because I answer my emails, Trevor.
-    마야: 그건 제가 이메일에 답장을 하기 때문이에요, 트레버.
+012. MAYA: That's because I actually answer my emails, Trevor. Every single one.
+    마야: 그건 제가 이메일에 진짜로 답장을 하기 때문이에요, 트레버. 하나도 빠짐없이.
 
 013. LEO: Low-key, that's a burn.
     레오: 은근 팩폭인데요.
@@ -101,8 +101,8 @@
 029. NATE: And every model who didn't make it cost somebody money. Usually somebody like me.
     네이트: 그리고 성공 못 한 모델은 하나같이 누군가의 돈을 썼죠. 대개는 저 같은 사람 돈을요.
 
-030. ETHAN: Who's at the very bottom, Trevor?
-    이선: 맨 꼴찌가 누구예요, 트레버?
+030. ETHAN: Okay. Who's at the very bottom, Trevor? Just say it.
+    이선: 좋아요. 맨 꼴찌가 누구예요, 트레버? 그냥 말해요.
 
 031. TREVOR: Priya. A score of six.
     트레버: 프리야. 6점입니다.
@@ -116,8 +116,8 @@
 034. MAYA: Then your dashboard is broken.
     마야: 그럼 당신 대시보드가 고장 난 거예요.
 
-035. TREVOR: I can add a notes column.
-    트레버: 메모 칸을 추가할 수는 있어요.
+035. TREVOR: I mean, I can add a notes column, if that helps.
+    트레버: 그러니까, 도움이 된다면 메모 칸을 추가할 수는 있어요.
 
 036. MAYA: A notes column. "Was harassed on set. See notes."
     마야: 메모 칸. "촬영장에서 성희롱당함. 메모 참조."
@@ -128,8 +128,8 @@
 038. MAYA: What? Somebody has to say it in this glass room, and it's obviously not going to be the guy from Wharton.
     마야: 뭐요? 이 유리방에서 누군가는 말해야죠. 와튼 나온 저분이 할 리는 없으니까요.
 
-039. RITA: Can I say something? I've done the books here for twenty-seven years, so I know a thing or two about numbers.
-    리타: 나도 한마디 해도 될까요? 여기서 27년 동안 장부를 맡아 왔으니까, 숫자에 대해선 좀 알거든요.
+039. RITA: Can I say something? I've done the books here for twenty-seven years.
+    리타: 나도 한마디 해도 될까요? 여기서 27년 동안 장부를 맡아 왔는데.
 
 040. NATE: Please, Rita.
     네이트: 그러세요, 리타.
@@ -140,11 +140,11 @@
 042. NATE: And your point, Rita?
     네이트: 그래서 요점이 뭐죠, 리타?
 
-043. RITA: Sasha would've scored a six too, her first year. Walter paid her rent for four months, because he believed in her when nobody else did.
-    리타: 사샤도 첫해엔 6점쯤 나왔을 거예요. 월터가 넉 달 동안 사샤 월세를 내 줬거든요. 아무도 안 믿어 줄 때 그 양반은 믿었으니까.
+043. RITA: Sasha would've scored a six too, her first year. Walter paid her rent for four months, because he believed in her back when nobody else did.
+    리타: 사샤도 첫해엔 6점쯤 나왔을 거예요. 월터가 넉 달 동안 사샤 월세를 내 줬거든요. 그때 아무도 안 믿어 줄 때 그 양반은 믿었으니까.
 
-044. TREVOR: Is Sasha still on the board?
-    트레버: 사샤는 아직 보드에 있나요?
+044. TREVOR: Is Sasha still on the board, though? I don't see her.
+    트레버: 근데 사샤는 아직 보드에 있나요? 안 보이는데요.
 
 045. RITA: No. She's at Vanta now. Making Claire a lot of money.
     리타: 아뇨. 지금은 반타에 있어요. 클레어한테 돈을 아주 많이 벌어다 주면서요.
@@ -155,11 +155,11 @@
 047. MAYA: She left because Vanta offered her more money. Not because Walter paid her rent, and not because she was a bad investment.
     마야: 사샤는 반타가 돈을 더 줘서 떠난 거예요. 월터가 월세를 내 줘서도 아니고, 나쁜 투자여서도 아니고요.
 
-048. NATE: Look. I'm not a monster. I'm not asking you to fire half the board. I'm asking for focus, which every successful company needs.
-    네이트: 이봐요. 저 괴물 아니에요. 보드 절반을 자르라는 게 아니에요. 집중하자는 거죠. 성공하는 회사엔 다 필요한 거예요.
+048. NATE: Look. I'm not a monster. I'm not asking you to fire half the board. I'm asking for focus, which is something every successful company needs sooner or later.
+    네이트: 이봐요. 저 괴물 아니에요. 보드 절반을 자르라는 게 아니에요. 집중하자는 거죠. 성공하는 회사라면 어차피 언젠가는 다 필요한 거예요.
 
-049. ETHAN: What does focus mean? In numbers.
-    이선: 집중이 무슨 뜻이죠? 숫자로요.
+049. ETHAN: And what does focus mean, Nate? In numbers, please.
+    이선: 그럼 집중이 무슨 뜻이죠, 네이트? 숫자로 말해 주세요.
 
 050. NATE: The May checkpoint is in seven weeks. We need fifteen percent growth to hit it, and right now we're at six.
     네이트: 5월 중간 점검이 7주 남았어요. 통과하려면 15퍼센트 성장이 필요한데, 지금 6퍼센트예요.
@@ -176,11 +176,11 @@
 054. NATE: Three contracts. We release them nicely, with good references and a handshake. They can sign anywhere they want.
     네이트: 계약 셋이요. 좋게 계약 해지하는 거예요. 추천서도 잘 써 주고 악수도 하고. 원하는 데 어디서든 계약할 수 있어요.
 
-055. MAYA: Nobody signs a girl who just got dropped, especially not in this town. You know that. Ethan knows that. Everybody in this room knows that.
-    마야: 방금 잘린 애를 받아 주는 데는 없어요. 이 바닥에선 특히요. 대표님도 알고, 이선도 알아요. 이 방에 있는 사람 다 알아요.
+055. MAYA: Nobody signs a girl who just got dropped, especially not in this town. You know that. Ethan knows that. Everybody sitting in this room knows that perfectly well.
+    마야: 방금 잘린 애를 받아 주는 데는 없어요. 이 바닥에선 특히요. 대표님도 알고, 이선도 알아요. 이 방에 앉은 사람 다 너무 잘 알아요.
 
-056. NATE: Then they weren't going to make it anyway. I'm sorry, I really am, but that's the market, and the market doesn't care about feelings.
-    네이트: 그럼 어차피 성공 못 할 애들이었던 거죠. 미안해요, 진심으로. 하지만 그게 시장이고, 시장은 감정 같은 거 신경 안 써요.
+056. NATE: Then they weren't going to make it anyway. I'm sorry, I really am, but that's the market, and the market doesn't care about anybody's feelings.
+    네이트: 그럼 어차피 성공 못 할 애들이었던 거죠. 미안해요, 진심으로. 하지만 그게 시장이고, 시장은 누구 감정이든 신경 안 써요.
 
 057. LEO: Can I ask... does Hale Digital have a score too? Like, do my creators get ranked?
     레오: 저기 하나만요… 헤일 디지털도 점수가 있어요? 그러니까, 제 크리에이터들도 순위가 매겨져요?
@@ -191,14 +191,14 @@
 059. LEO: Oh. Cool. Cool, cool, cool.
     레오: 아. 좋네요. 좋아요, 좋아, 좋아.
 
-060. NATE: Ethan, I want three names by Friday. You choose, not me. You know these models and I don't, so it should be your call.
-    네이트: 이선 씨, 금요일까지 이름 셋 주세요. 고르는 건 제가 아니라 이선 씨예요. 이선 씨는 그 애들을 알고 전 모르니까, 이선 씨가 정하는 게 맞죠.
+060. NATE: Ethan, I want three names by Friday. You choose, not me. You know these models and I don't, so it should really be your call, not mine.
+    네이트: 이선 씨, 금요일까지 이름 셋 주세요. 고르는 건 제가 아니라 이선 씨예요. 이선 씨는 그 애들을 알고 전 모르니까, 제가 아니라 이선 씨가 정하는 게 맞죠.
 
-061. ETHAN: And if I don't give you three names?
-    이선: 이름 셋을 안 드리면요?
+061. ETHAN: And what happens if I don't give you three names?
+    이선: 그럼 제가 이름 셋을 안 드리면 어떻게 되는데요?
 
-062. NATE: Then we'll talk about it at the board, you and me. And while we're at it, we'll talk about May.
-    네이트: 그럼 이사회에서 얘기하죠. 이선 씨랑 저랑. 그리고 하는 김에 5월 얘기도 하고요.
+062. NATE: Then we'll talk about it at the board, you and me. And we'll talk about May.
+    네이트: 그럼 이사회에서 얘기하죠. 이선 씨랑 저랑. 그리고 5월 얘기도 하고요.
 
 063. MAYA: I'm going to my fitting.
     마야: 저 피팅 갈게요.
@@ -224,8 +224,8 @@
 070. PRIYA: Marcus texted me. He said, "Sorry, the budget changed." He was really nice about it, but it still felt like something was wrong.
     프리야: 마커스가 문자했어요. "미안, 예산이 바뀌었대." 엄청 다정하게 말해 줬는데, 그래도 뭔가 잘못된 느낌이었어요.
 
-071. RITA: Marcus is always nice. Budgets aren't.
-    리타: 마커스는 늘 다정하지. 예산이 안 다정할 뿐이야.
+071. RITA: Marcus is always nice, honey. Budgets aren't.
+    리타: 마커스는 늘 다정하지, 얘. 예산이 안 다정할 뿐이야.
 
 072. MAYA: Priya. Sorry I'm late. The 7 train stopped for twenty minutes. Come here, come to my desk.
     마야: 프리야. 늦어서 미안. 7호선이 20분 동안 멈췄어. 이리 와, 내 자리로 와.
@@ -260,8 +260,8 @@
 082. MAYA: You had one very bad day in February, worse than most people ever have. And you came back anyway. That's real too.
     마야: 넌 2월에 정말 끔찍한 하루를 보냈어. 대부분 사람들은 평생 겪지도 않을 만큼. 그런데도 돌아왔지. 그것도 진짜야.
 
-083. PRIYA: Are they going to drop me?
-    프리야: 저 잘리는 거예요?
+083. PRIYA: Maya, just tell me. Are they going to drop me?
+    프리야: 마야, 그냥 말해 줘요. 저 잘리는 거예요?
 
 084. MAYA: Not while I'm here.
     마야: 내가 여기 있는 동안은 아니야.
@@ -293,8 +293,8 @@
 093. NATE: Give him my best. I mean it. Two minutes, and I'll let you go.
     네이트: 안부 전해 주세요. 진심이에요. 2분만 쓰고 보내 드릴게요.
 
-094. ETHAN: Is this about the names?
-    이선: 이름 얘기예요?
+094. ETHAN: Is this about the names? Because I haven't got them.
+    이선: 이름 얘기예요? 아직 없는데요.
 
 095. NATE: It's about May. Ethan, I'll be straight with you. If we miss May, and then we miss November, page seven kicks in, and neither of us wants that.
     네이트: 5월 얘기예요. 이선 씨, 솔직하게 말할게요. 5월을 놓치고 11월도 놓치면 7페이지가 발동해요. 우리 둘 다 그건 원치 않잖아요.
@@ -302,11 +302,11 @@
 096. ETHAN: Forty-nine percent. I know.
     이선: 49퍼센트. 알아요.
 
-097. NATE: I don't want forty-nine percent, believe it or not. I want a winner. I want you to win, because when you win, I win.
-    네이트: 믿기 어렵겠지만 전 49퍼센트를 원하는 게 아니에요. 승자를 원하죠. 이선 씨가 이기길 원해요. 이선 씨가 이기면 저도 이기니까.
+097. NATE: I don't want forty-nine percent, believe it or not. I want a winner. I want you to win, because when you win, I win, and everybody's happy.
+    네이트: 믿기 어렵겠지만 전 49퍼센트를 원하는 게 아니에요. 승자를 원하죠. 이선 씨가 이기길 원해요. 이선 씨가 이기면 저도 이기고, 다들 행복하니까.
 
-098. ETHAN: Then let me grow the way I know how. Slower, with the new faces, the way my dad built this place in the first place.
-    이선: 그럼 제가 아는 방식으로 키우게 해 주세요. 더 천천히, 신인들이랑 같이. 애초에 아버지가 이 회사를 세운 방식대로요.
+098. ETHAN: Then let me grow the way I know how. Slower, with the new faces, the way my dad built this place in the first place, one model at a time.
+    이선: 그럼 제가 아는 방식으로 키우게 해 주세요. 더 천천히, 신인들이랑 같이. 애초에 아버지가 이 회사를 세운 방식대로요. 모델 한 명 한 명씩.
 
 099. NATE: Slow is a luxury, and you don't have luxuries anymore. You have a lease on the thirty-second floor and a checkpoint in May.
     네이트: 느린 건 사치예요. 이선 씨한텐 이제 사치 부릴 여유가 없어요. 32층 임대 계약이랑 5월 중간 점검이 있죠.
@@ -329,8 +329,8 @@
 105. NATE: Nice letters. Two weeks' notice. Their comp cards back, and a reference from you if they want one. Very clean.
     네이트: 정중한 편지. 2주 전 통보. 콤프 카드 돌려주고, 원하면 이선 씨 추천서도. 아주 깔끔하게.
 
-106. ETHAN: And then you stop asking?
-    이선: 그럼 그다음엔 더 안 요구하시고요?
+106. ETHAN: And then you stop asking? That's the end of it?
+    이선: 그럼 그다음엔 더 안 요구하시고요? 그걸로 끝이에요?
 
 107. NATE: Then we see the May numbers. That's all I can promise. Let's talk scale on Monday. Good night.
     네이트: 그다음엔 5월 숫자를 보는 거죠. 약속할 수 있는 건 그게 다예요. 월요일에 스케일 얘기 합시다. 좋은 밤 되세요.
@@ -341,11 +341,11 @@
 109. ETHAN: You heard?
     이선: 들었어?
 
-110. MAYA: The walls are glass, Ethan. And I read lips; I picked it up at castings years ago. Bookers read everything.
-    마야: 벽이 유리잖아요, 이선. 그리고 전 입 모양 읽어요. 몇 년 전에 캐스팅 다니면서 익혔죠. 부커는 뭐든 읽어요.
+110. MAYA: The walls are glass, Ethan. And I read lips. Bookers read everything.
+    마야: 벽이 유리잖아요, 이선. 그리고 전 입 모양 읽어요. 부커는 뭐든 읽어요.
 
-111. ETHAN: I haven't decided anything.
-    이선: 아무것도 결정 안 했어.
+111. ETHAN: I haven't decided anything, Maya. Not yet.
+    이선: 아무것도 결정 안 했어, 마야. 아직은.
 
 112. MAYA: You're not saying no. That's deciding.
     마야: '노'라고 안 하잖아요. 그게 결정한 거예요.
@@ -353,14 +353,14 @@
 113. ETHAN: Maya, if we miss May, Nate gets closer to control. And if he gets control, then it's not three models. It's all of them, and us too.
     이선: 마야, 5월을 놓치면 네이트가 경영권에 더 가까워져. 그리고 그 사람이 경영권을 쥐면, 모델 셋이 아니라 전부야. 우리까지.
 
-114. MAYA: So you cut three to save thirty-five. That's his math, not yours. You're speaking his language now, and you don't even hear it.
-    마야: 그러니까 서른다섯을 살리려고 셋을 자른다. 그건 그 사람 계산법이지 이선 거가 아니에요. 이제 그 사람 말을 쓰는데, 본인은 들리지도 않나 봐요.
+114. MAYA: So you cut three to save thirty-five. That's his math, Ethan, not yours. You're speaking his language now, and you don't even hear yourself doing it.
+    마야: 그러니까 서른다섯을 살리려고 셋을 자른다. 그건 그 사람 계산법이지 이선 거가 아니에요. 이제 그 사람 말을 쓰는데, 본인이 그러는 것도 못 듣네요.
 
 115. ETHAN: It's the only language the contract speaks, Maya. I didn't write it, but I signed it.
     이선: 계약서가 아는 말이 그것뿐이야, 마야. 내가 쓴 건 아니지만, 서명은 내가 했어.
 
-116. MAYA: I promised Priya today. Two hours ago, at my desk. I looked her in the eye and told her she wasn't going anywhere.
-    마야: 저 오늘 프리야한테 약속했어요. 두 시간 전에, 제 자리에서. 눈을 똑바로 보면서 아무 데도 안 간다고 말했어요.
+116. MAYA: I promised Priya today. Two hours ago, at my desk. I looked her in the eye and told her that she wasn't going anywhere as long as I was here.
+    마야: 저 오늘 프리야한테 약속했어요. 두 시간 전에, 제 자리에서. 눈을 똑바로 보면서 제가 여기 있는 한 아무 데도 안 간다고 말했어요.
 
 117. ETHAN: You shouldn't have promised that.
     이선: 그런 약속은 하지 말았어야지.
@@ -384,11 +384,13 @@
 - **bottom quartile** — 하위 25퍼센트 구간 (019)
 - **trending flat** — (지표가) 정체 추세인 (023)
 - **retroactively** — 소급해서, 거슬러 올라가 적용하면 (025)
+- **If … had p.p., … would have p.p.** — 가정법 과거완료: 과거 사실의 반대 가정 / "If the dashboard had existed back then, she'd have scored about eleven" (025)
 - **in a hole** — 곤경(바닥)에 빠진 / "Priya's been in a hole since Northline." (032)
 - **trim** — (비용·인원을) 다듬다, 줄이다 / "Trim the bottom." (052)
 - **release a contract / drop** — 계약을 해지하다 / 모델을 내보내다 (054–055)
 - **kick in** — (조항·효과가) 발동하다, 작동하기 시작하다 / "page seven kicks in" (095)
 - **It's not personal. It's business.** — 사적인 감정 아니야, 비즈니스야 — 클레어의 "It's fashion."과 겹쳐지는 대사 (101–102)
+- **as long as** — ~하는 한, ~하는 동안은 / "she wasn't going anywhere as long as I was here" (116)
 - **read lips** — 입 모양을 읽다 (110)
 
 ## 다음 화 예고 (낭독하지 않음)
