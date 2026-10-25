@@ -138,8 +138,8 @@
 041. OWEN: Okay. Before we start calling, Grace, give me the shape of the customer base.
     오언: 좋아. 전화 돌리기 전에, 그레이스, 고객 구성 윤곽부터 말해 줘.
 
-042. GRACE: Rosen has about fourteen hundred active customers and fourteen million dollars in revenue. But the top twenty customers are forty-six percent of that revenue, so less than two percent of the customers bring in almost half the money.
-    그레이스: 로즌은 활성 고객이 1,400곳쯤이고 매출이 1,400만 달러예요. 그런데 상위 20곳이 그 매출의 46퍼센트예요. 고객의 2퍼센트도 안 되는 곳이 돈의 절반 가까이를 가져오는 거죠.
+042. GRACE: Rosen has about fourteen hundred active customers and fourteen million in revenue. But the top twenty are forty-six percent of revenue. That's customer concentration: less than two percent of customers bring in almost half the money.
+    그레이스: 로즌은 활성 고객이 1,400곳쯤이고 매출이 1,400만 달러예요. 그런데 상위 20곳이 매출의 46퍼센트예요. 그게 고객 집중도예요. 고객의 2퍼센트도 안 되는 곳이 돈의 절반 가까이를 가져오는 거죠.
 
 043. JAMAL: Twenty customers out of fourteen hundred. That's wild.
     자말: 1,400곳 중에 20곳이요. 미쳤네요.

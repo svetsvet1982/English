@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 10화 · 서사 기능: 전략적 갈등
 > - 배경: LIC 본사 경영진 회의실(화요일 오후, 디는 화상) → 같은 회의실(그날 밤 9시부터 새벽 2시까지) → LIC 갠트리 플라자 공원 워터프론트, 펩시콜라 간판 아래(다음 날 새벽 6시). 2027년 11월 중순.
-> - 등장인물: Owen, Grace, Trevor, Dee(화상), Hal, Priya Shah
+> - 등장인물: Owen, Grace, Trevor, Dee(화상), Hal, Priya
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 설비투자(capex) 의사결정, NPV·IRR·회수 기간, 할인율, 시나리오 분석(기본·하방), 현금 저점(cash trough), 단계적 투자와 그 선택권의 가치
 > - 이번 화의 핵심 표현: "capex", "net present value", "payback period", "bet the company", "phased approach", "agree to disagree", "discount rate"
@@ -195,8 +195,8 @@
 060. GRACE: Slowly. Which is better than quickly.
     그레이스: 천천히. 빨리 끝나는 것보단 낫지.
 
-061. OWEN: Is it? My father's plant in Dayton ended slowly. Twelve years of "let's wait and see," while the industry moved, and then one Friday in 2008 they put a notice on the gate. Slowly is just quickly with more meetings.
-    오언: 그래? 데이턴의 우리 아버지 공장도 천천히 끝났어. 업계는 변하는데 12년 동안 "좀 더 지켜보자"만 하다가, 2008년 어느 금요일에 정문에 공고문 한 장 붙었지. 천천히라는 건 회의만 더 많은 빨리일 뿐이야.
+061. OWEN: Is it? My father's plant in Moraine ended slowly. Twelve years of "let's wait and see," while the industry moved, and then two days before Christmas 2008 they put a notice on the gate. Slowly is just quickly with more meetings.
+    오언: 그래? 모레인의 우리 아버지 공장도 천천히 끝났어. 업계는 변하는데 12년 동안 "좀 더 지켜보자"만 하다가, 2008년 크리스마스 이틀 전에 정문에 공고문 한 장 붙었지. 천천히라는 건 회의만 더 많은 빨리일 뿐이야.
 
 062. GRACE: That's not fair.
     그레이스: 그건 반칙이야.

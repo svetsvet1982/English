@@ -213,8 +213,8 @@
 066. FRANK: In the machinists' locker room? Why?
     프랭크: 기계공 탈의실에? 왜?
 
-067. OWEN: This was my father's. Dale Brandt. He carried it to an auto parts plant in Dayton for twenty-six years, until they locked the gate. I think it belongs in a plant, not on a CEO's desk.
-    오언: 이거 우리 아버지 거예요. 데일 브랜트. 데이턴 자동차 부품 공장에 26년 동안 들고 다니셨어요. 정문을 잠글 때까지요. 이건 CEO 책상이 아니라 공장에 있어야 할 것 같아서요.
+067. OWEN: This was my father's. Dale Brandt. He carried it to an auto plant in Moraine, Ohio, for twenty-two years, until they locked the gate. I think it belongs in a plant, not on a CEO's desk.
+    오언: 이거 우리 아버지 거예요. 데일 브랜트. 오하이오 모레인 자동차 공장에 22년 동안 들고 다니셨어요. 정문을 잠글 때까지요. 이건 CEO 책상이 아니라 공장에 있어야 할 것 같아서요.
 
 068. FRANK: Locker forty-six is empty. Nobody's wanted it since the guy who had it retired. I always thought it should go to somebody, for 1946.
     프랭크: 46번 사물함이 비어 있어. 쓰던 친구가 은퇴한 뒤로 아무도 안 원했지. 1946년이니까 누군가한테 가야 한다고 늘 생각했어.
@@ -240,8 +240,8 @@
 075. FRANK: What does it say? Or is that private?
     프랭크: 뭐라고 썼는데? 아니면 비밀이야?
 
-076. OWEN: It says, "This belonged to Dale Brandt, who worked twenty-six years at a plant that closed. Whoever opens this, ask them what the real question is before they lock the gate."
-    오언: 이렇게 썼어요. "이것은 문을 닫은 공장에서 26년을 일한 데일 브랜트의 것입니다. 이걸 여는 사람은, 그들이 정문을 잠그기 전에 진짜 질문이 뭔지 물어보세요."
+076. OWEN: It says, "This belonged to Dale Brandt, who worked twenty-two years at a plant that closed. Whoever opens this, ask them what the real question is before they lock the gate."
+    오언: 이렇게 썼어요. "이것은 문을 닫은 공장에서 22년을 일한 데일 브랜트의 것입니다. 이걸 여는 사람은, 그들이 정문을 잠그기 전에 진짜 질문이 뭔지 물어보세요."
 
 077. FRANK: That's a good note. Short. Your father would've liked short.
     프랭크: 좋은 쪽지네. 짧고. 너희 아버지도 짧은 걸 좋아했겠지.

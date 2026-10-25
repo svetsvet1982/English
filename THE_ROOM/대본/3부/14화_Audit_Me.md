@@ -4,12 +4,12 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 14화 · 서사 기능: 3부 결말, 4부로의 다리
-> - 배경: 플랫아이언 공유오피스(12월 4일 월요일 오후) → 같은 사무실 서류 검토, 헌츠 포인트의 콰메 건설회사 야적장 사무실(그 주) → 브롱크스 베드퍼드 파크, 케이트의 집 부엌(12월 15일 금요일 저녁) → 눈 오는 밤 6번가와 50번가 하산의 카트(다음 주 월요일 밤). 2028년 12월, 첫눈.
-> - 등장인물: Owen, Grace, Jamal, Sofia, Kate Osei, Kwame Osei(케이트의 남편, Osei Restoration 대표), Hassan
+> - 배경: 플랫아이언 공유오피스(12월 4일 월요일 오후) → 같은 사무실 서류 검토, 헌츠 포인트의 콰메 건설회사 야적장 사무실(그 주) → 브롱크스 노우드(모숄루 파크웨이 근처), 케이트의 집 부엌(12월 15일 금요일 저녁) → 눈 오는 밤 6번가와 50번가 하산의 카트(다음 주 월요일 밤). 2028년 12월, 첫눈.
+> - 등장인물: Owen, Grace, Jamal, Sofia, Kate Osei, Kwame Osei(케이트의 남편, Osei Building Co. 대표, 2006년 창업), Hassan
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 후보 검증(vetting), 자체 취약점 감사, 공개 원칙, 기회비용과 커리어 전환
 > - 이번 화의 핵심 표현: "vet a candidate", "tax lien", "full disclosure", "throw one's hat in the ring", "long shot", "count me in"
-> - 복선/연결: 콰메의 체납 2019년 4만 7,300달러, 2021년 이자 포함 완납(→4부 5·7화) · 공개 시점은 미정(→4부 5화) · 빅토리아와 리처드 할로런의 점심(→4부 11화) · 회사 잠정 휴업 결정(→4부 14화 오언의 복귀) · 케이트의 부엌(→4부 1화 냅킨 이슈 트리)
+> - 복선/연결: 콰메 개인 앞 원천징수세 체납 2019년 6만 4,300달러(원청 파산으로 14만 달러 미수), 공동 명의 집에 유치권, 2021년 3월 가산금 포함 7만 1,800달러 완납, 케이트 2021년 재산 공개서 14쪽에 기재 · 콰메가 11개월간 숨김, 케이트는 2020년 재융자 때 은행에서 알게 됨(→4부 5·7화) · 공개 시점은 미정(→4부 5화) · 빅토리아와 리처드 할로런의 점심(→4부 11화) · 회사 잠정 휴업 결정(→4부 14화 오언의 복귀) · 케이트의 부엌(→4부 1화 냅킨 이슈 트리)
 
 ---
 
@@ -135,38 +135,38 @@
 040. OWEN: Boring is good. Boring wins audits. Grace, what about the family?
     오언: 지루한 게 좋은 거야. 지루하면 감사를 통과하지. 그레이스, 가족은?
 
-041. GRACE: Her husband, Kwame, runs a small construction company in Hunts Point. Osei Restoration. Twelve employees, mostly brownstone repair and school renovations.
-    그레이스: 남편 콰메가 헌츠 포인트에서 작은 건설회사를 해. 오세이 레스토레이션. 직원 열두 명, 주로 브라운스톤 보수랑 학교 리모델링.
+041. GRACE: Her husband, Kwame, runs Osei Building Co. in Hunts Point. Founded in 2006, twelve workers, mostly brownstone repair and school renovations.
+    그레이스: 남편 콰메가 헌츠 포인트에서 오세이 빌딩 컴퍼니를 해. 2006년 창업, 직원 열두 명, 주로 브라운스톤 보수랑 학교 리모델링.
 
-042. GRACE: And in 2019, the state filed a tax warrant against the company. Forty-seven thousand three hundred dollars.
-    그레이스: 그리고 2019년에 주 정부가 그 회사에 조세 영장을 발부했어. 4만 7,300달러.
+042. GRACE: In 2019, the state filed a tax warrant against Kwame personally. Sixty-four thousand three hundred in unpaid withholding taxes.
+    그레이스: 2019년에 주 정부가 콰메 개인 앞으로 조세 영장을 발부했어. 원천징수세 6만 4,300달러 체납.
 
 043. JAMAL: What's a tax warrant? That sounds like someone's getting arrested.
     자말: 조세 영장이 뭐예요? 누가 체포되는 것 같은데요.
 
-044. GRACE: Nobody gets arrested. When you owe the state taxes and don't pay, it files a warrant, which works as a tax lien. That's a legal claim on your property until you pay.
-    그레이스: 아무도 체포 안 돼. 주에 세금을 빚지고 안 내면 영장을 발부하는데, 그게 조세 유치권 역할을 해. 다 낼 때까지 재산에 걸리는 법적 권리지.
+044. GRACE: Nobody gets arrested. If you don't pay state taxes, the state files a warrant that works as a tax lien, a legal claim on your property. This one attached to their house.
+    그레이스: 아무도 체포 안 돼. 주 세금을 안 내면 주가 영장을 발부하는데, 그게 조세 유치권 역할을 해. 재산에 걸리는 법적 권리지. 이건 두 사람 공동 명의 집에 걸렸어.
 
-045. SOFIA: And it's public. Anyone can search for it. Including every reporter in the city.
-    소피아: 그리고 공개 기록이에요. 누구나 검색할 수 있어요. 이 도시 기자 전부를 포함해서요.
+045. SOFIA: Is it public? Could a reporter find it?
+    소피아: 그거 공개 기록이에요? 기자가 찾을 수 있어요?
 
-046. OWEN: Was it paid?
+046. GRACE: A reporter could have found it years ago. It's on page fourteen of Kate's own 2021 financial disclosure. Nobody noticed.
+    그레이스: 기자라면 몇 년 전에 찾을 수도 있었어. 케이트 본인의 2021년 재산 공개서 14쪽에 나와 있거든. 아무도 눈치 못 챘을 뿐이지.
+
+047. OWEN: Was it paid?
     오언: 다 냈어?
 
-047. GRACE: In full, with interest, in March 2021. The lien was released that April. It's all legal. It just looks bad.
-    그레이스: 2021년 3월에 이자까지 전액. 유치권은 그해 4월에 해제됐어. 다 합법이야. 그냥 보기에 나쁠 뿐이지.
+048. GRACE: Seventy-one thousand eight hundred with penalties, March 2021. All legal. It just looks bad.
+    그레이스: 2021년 3월에 가산금까지 7만 1,800달러. 다 합법이야. 그냥 보기에 나쁠 뿐이지.
 
-048. SOFIA: Bad how? Let me write the headline for you. "Council Member's Husband Owed Taxes While She Voted on the City Budget."
-    소피아: 어떻게 나쁘냐고요? 헤드라인 써 드릴게요. '시의원 남편, 아내가 시 예산을 표결하던 동안 세금 체납.'
+049. SOFIA: Bad how? Here's the headline: "Council Member's Husband Owed Taxes While She Voted on the City Budget."
+    소피아: 어떻게 나쁘냐고요? 헤드라인은 이거예요. '시의원 남편, 아내가 시 예산을 표결하던 동안 세금 체납.'
 
-049. JAMAL: Ouch.
+050. JAMAL: Ouch.
     자말: 아야.
 
-050. OWEN: Does Kate know about the lien?
-    오언: 케이트는 그 유치권을 알아?
-
-051. GRACE: She sent the documents, so she knows something. Not necessarily everything. Let's talk to Kwame first.
-    그레이스: 서류를 보냈으니 뭔가는 알겠지. 전부 아는 건 아닐 수도 있고. 콰메부터 만나 보자.
+051. GRACE: It's in her own filing, so Kate knew. How much Kwame told her is another question.
+    그레이스: 자기 공개서에 있으니 케이트는 알았어. 콰메가 얼마나 말했는지는 다른 문제고.
 
 052. KWAME: Come in, watch the lumber. Kate said you'd come, and that I should tell you everything.
     콰메: 들어와요, 목재 조심하고. 케이트가 올 거라고, 그리고 전부 다 말하라고 하더군요.
@@ -174,17 +174,17 @@
 053. OWEN: Thank you, Mr. Osei.
     오언: 감사합니다, 오세이 씨.
 
-054. KWAME: It's about 2019. I know. I've been waiting for someone to ask me about 2019 for nine years.
-    콰메: 2019년 얘기죠. 알아요. 누가 2019년 얘기를 물어보길 9년 동안 기다렸어요.
+054. KWAME: It's about 2019. I know. I've been waiting nine years for someone to ask.
+    콰메: 2019년 얘기죠. 알아요. 누가 물어보길 9년 동안 기다렸어요.
 
 055. GRACE: Can you tell us what happened?
     그레이스: 무슨 일이 있었는지 말씀해 주실래요?
 
-056. KWAME: We did a renovation for the city's School Construction Authority. Three schools in the South Bronx. Good job, big job. And the city paid us nine months late.
-    콰메: 시 학교건설청 리모델링을 했어요. 사우스 브롱크스 학교 세 곳. 좋은 일, 큰일이었죠. 그런데 시가 9개월이나 늦게 돈을 줬어요.
+056. KWAME: We built out a school in Soundview for a general contractor. Big job. Then the contractor went bankrupt and never paid us a hundred forty thousand.
+    콰메: 사운드뷰에서 원청업체 밑으로 학교 공사를 했어요. 큰일이었죠. 그런데 원청이 파산해서 우리한테 14만 달러를 끝내 안 줬어요.
 
-057. JAMAL: Nine months? How do you pay people for nine months without getting paid?
-    자말: 9개월이요? 돈을 못 받으면서 9개월 동안 직원 월급을 어떻게 줘요?
+057. JAMAL: A hundred forty thousand? How do you make payroll after that?
+    자말: 14만 달러요? 그러고 나서 월급을 어떻게 줘요?
 
 058. KWAME: You don't sleep, young man. I had twelve men with families. I paid every one of them, every Friday. What I didn't pay was the state.
     콰메: 잠을 안 자는 거지, 젊은이. 가족 딸린 직원이 열두 명이었어요. 한 명도 빠짐없이, 금요일마다 줬어요. 내가 못 낸 건 주 정부였고.
@@ -192,20 +192,20 @@
 059. GRACE: So the withholding tax you took out of their paychecks went to keeping the company alive instead.
     그레이스: 그러니까 직원 급여에서 뗀 원천징수세가 대신 회사를 살리는 데 쓰인 거군요.
 
-060. KWAME: I know it was wrong. My accountant told me it was wrong, and I did it anyway. When the city finally paid, I paid the state every dollar, with interest.
-    콰메: 잘못이었다는 거 알아요. 회계사가 잘못이라고 했는데도 그렇게 했어요. 시가 마침내 돈을 줬을 때 주 정부에 한 푼도 빠짐없이 이자까지 냈고요.
+060. KWAME: I know it was wrong. My accountant said so, and I did it anyway. By March 2021, I'd paid the state every dollar, with penalties.
+    콰메: 잘못이었다는 거 알아요. 회계사도 그랬는데 그렇게 했어요. 2021년 3월까지 주 정부에 가산금까지 한 푼도 빠짐없이 냈고요.
 
-061. OWEN: Mr. Osei, did Kate know at the time?
-    오언: 오세이 씨, 그때 케이트는 알았나요?
+061. OWEN: Mr. Osei, when did Kate find out?
+    오언: 오세이 씨, 케이트는 언제 알았나요?
 
-062. KWAME: She knew we were in trouble, not how much. I told her I'd handled it.
-    콰메: 어렵다는 건 알았지만 얼마인지는 몰랐어요. 내가 처리했다고 말했죠.
+062. KWAME: Not from me. For eleven months, I told her I'd handled it. She found out from the bank in 2020, when we tried to refinance the house.
+    콰메: 나한테서 들은 게 아니에요. 11개월 동안 내가 처리했다고만 했죠. 2020년에 집 재융자를 받으려다가 은행에서 알게 됐어요.
 
 063. SOFIA: Why didn't you tell her?
     소피아: 왜 말씀 안 하셨어요?
 
-064. KWAME: Because she was running for re-election that year, and she was teaching her staff how to read a budget, and I was ashamed. Is that a good enough reason?
-    콰메: 그해 아내는 재선에 나섰고, 직원들한테 예산 읽는 법을 가르치고 있었고, 난 부끄러웠으니까. 그거면 충분한 이유인가요?
+064. KWAME: Because she was on the City Council, teaching her staff how to read a budget, and I was ashamed. Is that a good enough reason?
+    콰메: 아내는 시의원이었고, 직원들한테 예산 읽는 법을 가르치고 있었고, 난 부끄러웠으니까. 그거면 충분한 이유인가요?
 
 065. GRACE: It's an honest one.
     그레이스: 정직한 이유네요.
@@ -213,8 +213,8 @@
 066. KWAME: Will this hurt her?
     콰메: 이게 아내한테 해가 될까요?
 
-067. OWEN: If she hides it, yes. If she tells it first, all of it, in her own words, it becomes a story about a small business the city didn't pay on time.
-    오언: 숨기면 그렇죠. 먼저, 전부, 자기 말로 밝히면 시가 제때 돈을 안 준 작은 회사 이야기가 돼요.
+067. OWEN: If she hides it, yes. If she tells it first, all of it, in her own words, it becomes a story about a small business that got stiffed and paid its workers first.
+    오언: 숨기면 그렇죠. 먼저, 전부, 자기 말로 밝히면 돈을 떼이고도 직원 월급부터 준 작은 회사 이야기가 돼요.
 
 068. SOFIA: And every small business owner in the Bronx has lived that story.
     소피아: 그리고 브롱크스의 소상공인들은 다 그런 이야기를 겪어 봤죠.
@@ -237,14 +237,14 @@
 074. KATE: Tell me the worst thing first. I always made my students check their biggest mistake before anything else.
     케이트: 제일 나쁜 것부터 말해 주세요. 전 늘 학생들한테 제일 큰 실수부터 확인하게 했어요.
 
-075. GRACE: The worst thing is the 2019 tax lien on Osei Restoration. Forty-seven thousand three hundred dollars, paid in full in 2021. It's public, and it will be found.
-    그레이스: 제일 나쁜 건 2019년 오세이 레스토레이션의 조세 유치권이에요. 4만 7,300달러, 2021년 전액 납부. 공개 기록이고, 반드시 발견될 거예요.
+075. GRACE: The worst thing is the 2019 tax lien. Sixty-four thousand three hundred, paid in 2021, on page fourteen of your own disclosure. It will be found.
+    그레이스: 제일 나쁜 건 2019년 조세 유치권이에요. 6만 4,300달러, 2021년 납부, 의원님 본인 재산 공개서 14쪽에 있어요. 반드시 발견될 거예요.
 
-076. KATE: Kwame told me everything Tuesday night, after you left his office. All of it.
-    케이트: 화요일 밤에, 여러분이 사무실을 떠난 뒤에 콰메가 다 말해 줬어요. 전부요.
+076. KATE: I know. I put it there. What isn't on page fourteen is that Kwame kept it from me for eleven months.
+    케이트: 알아요. 제가 거기 적었으니까요. 14쪽에 없는 건, 콰메가 11개월 동안 저한테 숨겼다는 사실이에요.
 
-077. KWAME: She was quiet for an hour. That was worse than yelling.
-    콰메: 한 시간 동안 아무 말도 안 하더군요. 소리 지르는 것보다 더 무서웠어요.
+077. KWAME: When the bank told her, she was quiet for an hour. That was worse than yelling.
+    콰메: 은행에서 듣고 나서 한 시간 동안 아무 말도 안 하더군요. 소리 지르는 것보다 더 무서웠어요.
 
 078. KATE: And then I yelled. And then we made tea. We've been married twenty-four years. Some nights are for yelling, and some are for tea.
     케이트: 그다음에 소리를 질렀죠. 그리고 차를 끓였어요. 결혼한 지 24년이에요. 어떤 밤은 소리 지르는 밤이고, 어떤 밤은 차 마시는 밤이에요.

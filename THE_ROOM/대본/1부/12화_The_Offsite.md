@@ -237,8 +237,8 @@
 074. GRACE: I'm writing it right now.
     그레이스: 지금 쓰고 있어요.
 
-075. OWEN: Now everybody gets five dots. Put them on the ideas that matter most to you.
-    오언: 이제 다들 스티커 다섯 개씩 받으세요. 제일 중요하다고 생각하는 아이디어에 붙이시면 됩니다.
+075. OWEN: Now everybody gets five dots. It's called dot voting. Put them on the ideas that matter most.
+    오언: 이제 다들 스티커 다섯 개씩 받으세요. 스티커 투표라는 거예요. 제일 중요한 아이디어에 붙이세요.
 
 076. BIG JOE: Is this how you people make all your decisions? With stickers?
     빅 조: 당신네들은 결정을 다 이렇게 해요? 스티커로?

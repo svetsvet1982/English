@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 9화 · 서사 기능: 위기 극복과 반전
 > - 배경: 스키넥터디 2공장 열처리 구역(월요일 아침, 그레이스는 태블릿 화상) → 코네티컷 스탬퍼드 Aldridge Climate 본사 품질위원회 회의실(목요일 오후) → 알드리지 본사 주차장(같은 날 저녁). 2027년 10월 말.
-> - 등장인물: Owen, Dee, Grace, Carl Mazur, Linda Garrison, Howard Pell(알드리지 공급업체 품질 담당 이사, 단역), Ken Adebayo(알드리지 데이터센터 냉각 사업부 총괄, 단역)
+> - 등장인물: Owen, Dee, Grace, Carl Mazur, Linda Garrison, Warren Pell(알드리지 품질 총괄 부사장, 품질위원회 위원장, 단역), Ken Adebayo(알드리지 데이터센터 냉각 사업부 총괄, 단역)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 근본 원인 분석 보고, 품질 관리(QC)와 품질 보증(QA)의 차이, 시정 조치, 품질 보증금(holdback), 위기를 파트너십으로 전환
 > - 이번 화의 핵심 표현: "corrective action", "quality assurance", "regain trust", "make it right", "a blessing in disguise", "foot in the door", "on probation"
@@ -120,29 +120,29 @@
 035. DEE: Great. I haven't worn a blazer since my daughter's wedding.
     디: 좋네. 딸 결혼식 이후로 재킷을 입어 본 적이 없는데.
 
-036. LINDA: Everyone, this is Owen Brandt, the interim CEO of Beckett, and Dolores Kowalski, who runs their Schenectady plant. Owen, you have thirty minutes, and Howard will have questions.
-    린다: 여러분, 베켓의 임시 CEO 오언 브랜트, 그리고 스키넥터디 공장을 맡고 있는 돌로레스 코왈스키입니다. 오언, 30분 드릴게요. 하워드가 질문이 있을 거예요.
+036. LINDA: Everyone, this is Owen Brandt, the interim CEO of Beckett, and Dolores Kowalski, who runs their Schenectady plant. Owen, you have thirty minutes, and Warren will have questions.
+    린다: 여러분, 베켓의 임시 CEO 오언 브랜트, 그리고 스키넥터디 공장을 맡고 있는 돌로레스 코왈스키입니다. 오언, 30분 드릴게요. 워런이 질문이 있을 거예요.
 
-037. HOWARD: I always have questions. Here's the one I care about most. Why is Beckett still on our approved list?
-    하워드: 전 늘 질문이 있죠. 제일 중요한 것부터 하죠. 왜 베켓이 아직도 저희 승인 목록에 있는 겁니까?
+037. WARREN: I always have questions. Here's the one I care about most. Why is Beckett still on our approved list?
+    워런: 전 늘 질문이 있죠. 제일 중요한 것부터 하죠. 왜 베켓이 아직도 저희 승인 목록에 있는 겁니까?
 
 038. OWEN: That's a fair place to start, Mr. Pell. I'd like to answer it with what happened, why it happened, and what we've changed, in that order, and then you can decide whether the answer is good enough.
-    오언: 시작하기 좋은 질문입니다, 펠 이사님. 무슨 일이 있었는지, 왜 그랬는지, 무엇을 바꿨는지 순서대로 답하겠습니다. 그 답이 충분한지는 그다음에 판단해 주십시오.
+    오언: 시작하기 좋은 질문입니다, 펠 부사장님. 무슨 일이 있었는지, 왜 그랬는지, 무엇을 바꿨는지 순서대로 답하겠습니다. 그 답이 충분한지는 그다음에 판단해 주십시오.
 
-039. HOWARD: Go ahead. I've cleared my afternoon for this.
-    하워드: 하세요. 오늘 오후는 이것 때문에 비워 뒀습니다.
+039. WARREN: Go ahead. I've cleared my afternoon for this.
+    워런: 하세요. 오늘 오후는 이것 때문에 비워 뒀습니다.
 
 040. OWEN: Three weeks ago, we found cracks in retained samples from a lot of twelve hundred valves. We called Linda the next morning. As of yesterday, ten hundred and fifty are out of the field, and the rest will be done by Friday.
     오언: 3주 전, 밸브 1,200개 로트의 보관 샘플에서 균열을 발견했습니다. 다음 날 아침 린다에게 전화했고요. 어제 기준으로 1,050개를 현장에서 회수했고, 나머지는 금요일까지 끝납니다.
 
-041. HOWARD: Any failures in service?
-    하워드: 사용 중에 고장 난 건요?
+041. WARREN: Any failures in service?
+    워런: 사용 중에 고장 난 건요?
 
 042. OWEN: Two valves were weeping when our crews removed them. Neither had failed completely, and no patient area lost cooling.
     오언: 작업팀이 떼어 낼 때 두 개에서 물이 새고 있었습니다. 완전히 고장 난 건 없었고, 환자 구역 냉방이 끊긴 곳도 없습니다.
 
-043. HOWARD: Yet.
-    하워드: 아직은요.
+043. WARREN: Yet.
+    워런: 아직은요.
 
 044. OWEN: Yet. That's exactly why we didn't wait.
     오언: 아직은요. 그래서 기다리지 않은 겁니다.
@@ -156,14 +156,14 @@
 047. DEE: Thank you. I'll keep it short, since I'm not a slide person. The valves were under-tempered, so they came out too hard and too brittle. One reason was a temperature sensor on our furnace that drifted about forty degrees without anyone noticing.
     디: 고마워요. 슬라이드 체질이 아니라서 짧게 할게요. 밸브가 템퍼링이 덜 돼서 너무 단단하고 잘 부서지게 나왔어요. 원인 하나는 열처리로 온도 센서가 아무도 모르게 40도쯤 틀어져 있었던 거고요.
 
-048. HOWARD: And the other reason?
-    하워드: 다른 원인은요?
+048. WARREN: And the other reason?
+    워런: 다른 원인은요?
 
 049. DEE: The other reason was me. In July, I approved cutting the tempering time from four hours to three, to speed things up, and I didn't test the change properly first. That's on me, not on my operators and not on Owen.
     디: 다른 원인은 저예요. 7월에 속도를 내려고 템퍼링 시간을 네 시간에서 세 시간으로 줄이는 걸 승인했는데, 먼저 제대로 시험을 안 했어요. 그건 제 책임이에요. 작업자들 책임도 아니고 오언 책임도 아니고요.
 
-050. HOWARD: That's unusually honest.
-    하워드: 보기 드물게 솔직하시군요.
+050. WARREN: That's unusually honest.
+    워런: 보기 드물게 솔직하시군요.
 
 051. DEE: I've run that plant nineteen years. I'm too old to lie badly and too proud to lie well.
     디: 그 공장을 19년 맡았어요. 서툴게 거짓말하기엔 너무 늙었고, 능숙하게 거짓말하기엔 자존심이 너무 세요.
@@ -171,32 +171,32 @@
 052. LINDA: She's not kidding. She told me the same thing in the hallway.
     린다: 농담 아니에요. 복도에서도 저한테 똑같이 말했어요.
 
-053. HOWARD: Fine. Honesty is nice, but honesty doesn't stop a crack. What's your corrective action?
-    하워드: 좋습니다. 솔직한 건 좋은데, 솔직함이 균열을 막아 주진 않죠. 시정 조치는 뭡니까?
+053. WARREN: Fine. Honesty is nice, but honesty doesn't stop a crack. What's your corrective action?
+    워런: 좋습니다. 솔직한 건 좋은데, 솔직함이 균열을 막아 주진 않죠. 시정 조치는 뭡니까?
 
 054. OWEN: There are four parts, and they're on the one page in front of you. The four-hour temper is back. Every furnace now has two sensors and an alarm. We're testing every part for ninety days. And no heat-treat setting changes without a metallurgist's signature.
     오언: 네 가지이고, 앞에 놓인 한 장에 정리해 뒀습니다. 템퍼링은 네 시간으로 돌아갔습니다. 모든 열처리로에 센서 두 개와 경보 장치가 달렸고요. 90일 동안 전 부품을 시험합니다. 그리고 금속 전문가 서명 없이는 열처리 설정을 못 바꿉니다.
 
-055. HOWARD: Ninety days. And on day ninety-one?
-    하워드: 90일이라. 그럼 91일째엔요?
+055. WARREN: Ninety days. And on day ninety-one?
+    워런: 90일이라. 그럼 91일째엔요?
 
 056. DEE: On day ninety-one we go to sampling, but only if the first ninety days are clean. If they aren't, we keep testing everything until they are.
     디: 91일째부터는 표본 검사로 바꿔요. 단, 처음 90일이 깨끗할 때만요. 아니면 깨끗해질 때까지 계속 전수 검사하고요.
 
-057. HOWARD: Ms. Kowalski, your inspector found this problem in a retained sample, months after shipment. Why didn't your quality system catch it before the valves left the building?
-    하워드: 코왈스키 씨, 검사 반장이 이 문제를 찾은 건 출하하고 몇 달 지나서 보관 샘플에서였죠. 왜 품질 시스템이 밸브가 공장을 나가기 전에 못 잡았습니까?
+057. WARREN: Ms. Kowalski, your inspector found this problem in a retained sample, months after shipment. Why didn't your quality system catch it before the valves left the building?
+    워런: 코왈스키 씨, 검사 반장이 이 문제를 찾은 건 출하하고 몇 달 지나서 보관 샘플에서였죠. 왜 품질 시스템이 밸브가 공장을 나가기 전에 못 잡았습니까?
 
 058. DEE: Because what we had was quality control, not quality assurance.
     디: 저희한테 있던 건 품질 관리였지, 품질 보증이 아니었으니까요.
 
-059. HOWARD: Explain the difference, in your words.
-    하워드: 그 차이를 직접 설명해 보세요.
+059. WARREN: Explain the difference, in your words.
+    워런: 그 차이를 직접 설명해 보세요.
 
 060. DEE: Quality control is Carl at the end of the line, catching bad parts after they're made. Quality assurance is a system that stops bad parts from being made in the first place. We were good at the first one and lazy about the second.
     디: 품질 관리는 라인 끝에 서 있는 칼이에요. 다 만들어진 불량품을 잡아내는 거죠. 품질 보증은 애초에 불량품이 안 만들어지게 막는 시스템이고요. 저흰 앞엣것은 잘했고, 뒤엣것엔 게을렀어요.
 
-061. HOWARD: Lazy is a strong word.
-    하워드: 게으르다는 건 센 표현이네요.
+061. WARREN: Lazy is a strong word.
+    워런: 게으르다는 건 센 표현이네요.
 
 062. DEE: It's the right one.
     디: 맞는 표현이에요.
@@ -216,8 +216,8 @@
 067. KEN: That's interesting. Thank you.
     켄: 흥미롭네요. 감사합니다.
 
-068. HOWARD: Can we get back to the recall? Here's my real concern. Tolland Controls has offered to take over the hospital program at six percent below your price, and their record is clean.
-    하워드: 다시 리콜로 돌아가죠. 제가 진짜 걱정하는 건 이겁니다. 톨랜드 컨트롤스가 베켓 가격보다 6퍼센트 싸게 병원 사업을 넘겨받겠다고 제안했어요. 기록도 깨끗하고요.
+068. WARREN: Can we get back to the recall? Here's my real concern. Tolland Controls has offered to take over the hospital program at six percent below your price, and their record is clean.
+    워런: 다시 리콜로 돌아가죠. 제가 진짜 걱정하는 건 이겁니다. 톨랜드 컨트롤스가 베켓 가격보다 6퍼센트 싸게 병원 사업을 넘겨받겠다고 제안했어요. 기록도 깨끗하고요.
 
 069. OWEN: Six percent below us? On the hospital program?
     오언: 저희보다 6퍼센트 싸게요? 병원 사업에서요?
@@ -229,22 +229,22 @@
     린다: 그레이스는 베켓 CFO예요. 급여 처리를 지켜보느라 전화로 참석했어요.
 
 072. GRACE: Thank you. Mr. Pell, if Tolland is six percent below our current price, they're below cost on that program. I know because we were below cost on it for four years, until Linda and Owen renegotiated in June. Somebody always pays for a price like that eventually, and it's usually the customer.
-    그레이스: 감사합니다. 펠 이사님, 톨랜드가 지금 저희 가격보다 6퍼센트 싸다면, 그 사업에서 원가 이하라는 뜻입니다. 저희가 6월에 린다와 오언이 재협상하기 전까지 4년 동안 원가 이하로 납품했으니까 압니다. 그런 가격은 결국 누군가 대가를 치르는데, 보통 그게 고객이에요.
+    그레이스: 감사합니다. 펠 부사장님, 톨랜드가 지금 저희 가격보다 6퍼센트 싸다면, 그 사업에서 원가 이하라는 뜻입니다. 저희가 6월에 린다와 오언이 재협상하기 전까지 4년 동안 원가 이하로 납품했으니까 압니다. 그런 가격은 결국 누군가 대가를 치르는데, 보통 그게 고객이에요.
 
-073. HOWARD: That's a convenient argument for the supplier who just had a recall.
-    하워드: 방금 리콜 낸 공급업체 입장에선 참 편리한 논리네요.
+073. WARREN: That's a convenient argument for the supplier who just had a recall.
+    워런: 방금 리콜 낸 공급업체 입장에선 참 편리한 논리네요.
 
 074. GRACE: It is. So let me make an inconvenient offer instead.
     그레이스: 맞아요. 그래서 대신 불편한 제안을 하나 드리죠.
 
-075. HOWARD: I'm listening.
-    하워드: 듣고 있습니다.
+075. WARREN: I'm listening.
+    워런: 듣고 있습니다.
 
 076. GRACE: Two things. First, a five-year warranty on every replacement valve, double our normal term. Second, a quality holdback: you keep three percent of every payment for the next twelve months, and release it only if our defect rate stays under your target.
     그레이스: 두 가지입니다. 첫째, 교체 밸브 전부에 5년 보증. 평소의 두 배예요. 둘째, 품질 보증금입니다. 앞으로 12개월 동안 대금마다 3퍼센트를 붙잡아 두시고, 불량률이 목표치 아래로 유지될 때만 풀어 주시는 거죠.
 
-077. HOWARD: You're offering to let us hold your money.
-    하워드: 그쪽 돈을 우리가 쥐고 있게 해 주겠다는 거군요.
+077. WARREN: You're offering to let us hold your money.
+    워런: 그쪽 돈을 우리가 쥐고 있게 해 주겠다는 거군요.
 
 078. GRACE: I'm offering you a reason to believe us that doesn't depend on believing us.
     그레이스: 저희 말을 믿지 않으셔도 저희를 믿을 수 있는 이유를 드리는 겁니다.
@@ -255,14 +255,14 @@
 080. GRACE: About a million dollars over the year, which for us right now is a lot of money. That's the point.
     그레이스: 1년이면 100만 달러쯤이요. 지금 저희한텐 큰돈이에요. 그게 핵심이고요.
 
-081. HOWARD: Mr. Brandt, can I ask you something personal?
-    하워드: 브랜트 씨, 개인적인 질문 하나 해도 됩니까?
+081. WARREN: Mr. Brandt, can I ask you something personal?
+    워런: 브랜트 씨, 개인적인 질문 하나 해도 됩니까?
 
 082. OWEN: Sure.
     오언: 그러세요.
 
-083. HOWARD: Everyone knows you're interim. Why should we trust promises from a man who won't be there to keep them?
-    하워드: 다들 당신이 임시직인 걸 압니다. 지킬 자리에 없을 사람의 약속을 왜 믿어야 합니까?
+083. WARREN: Everyone knows you're interim. Why should we trust promises from a man who won't be there to keep them?
+    워런: 다들 당신이 임시직인 걸 압니다. 지킬 자리에 없을 사람의 약속을 왜 믿어야 합니까?
 
 084. OWEN: Because none of these promises depend on me. The sensors don't care who the CEO is, and neither does the metallurgist's signature or the holdback. I built it that way on purpose, so it still works after I'm gone.
     오언: 이 약속들 중 어느 것도 저한테 달려 있지 않으니까요. 센서는 CEO가 누군지 신경 안 씁니다. 금속 전문가 서명도, 보증금도 마찬가지고요. 제가 떠난 뒤에도 돌아가도록 일부러 그렇게 만들었습니다.
@@ -270,8 +270,8 @@
 085. DEE: And I'm not leaving in March. I'm not leaving, period.
     디: 그리고 전 3월에 안 떠나요. 아예 안 떠나요.
 
-086. HOWARD: Noted. I'll hold you to that, Ms. Kowalski.
-    하워드: 알겠습니다. 그 말 꼭 기억해 두죠, 코왈스키 씨.
+086. WARREN: Noted. I'll hold you to that, Ms. Kowalski.
+    워런: 알겠습니다. 그 말 꼭 기억해 두죠, 코왈스키 씨.
 
 087. LINDA: Owen, Dee, would you give us ten minutes? There's coffee down the hall. It's terrible, but it's hot.
     린다: 오언, 디, 10분만 자리 좀 비켜 주시겠어요? 복도 끝에 커피 있어요. 맛은 형편없지만 뜨거워요.
@@ -282,23 +282,23 @@
 089. OWEN: You were great in there. Seriously.
     오언: 안에서 정말 잘했어요. 진심으로.
 
-090. DEE: I said "lazy" to a quality director. My husband's going to laugh for a week.
-    디: 품질 이사한테 '게으르다'고 했어. 우리 남편 일주일은 웃겠다.
+090. DEE: I said "lazy" to a vice president of quality. My husband's going to laugh for a week.
+    디: 품질 부사장한테 '게으르다'고 했어. 우리 남편 일주일은 웃겠다.
 
-091. LINDA: Okay, come back in. Here's where we landed. Beckett stays on the approved list, but on probation for two quarters. Howard's team will audit Schenectady every month, and we're accepting the warranty and the holdback.
-    린다: 자, 들어오세요. 결론은 이래요. 베켓은 승인 목록에 남지만, 두 분기 동안 조건부예요. 하워드 팀이 매달 스키넥터디를 감사할 거고, 보증과 보증금 제안은 받아들이겠습니다.
+091. LINDA: Okay, come back in. Here's where we landed. Beckett stays on the approved list, but on probation for two quarters. Warren's team will audit Schenectady every month, and we're accepting the warranty and the holdback.
+    린다: 자, 들어오세요. 결론은 이래요. 베켓은 승인 목록에 남지만, 두 분기 동안 조건부예요. 워런 팀이 매달 스키넥터디를 감사할 거고, 보증과 보증금 제안은 받아들이겠습니다.
 
-092. HOWARD: And if there's another escape, even one, the hospital program goes to Tolland. I won't need a meeting for that.
-    하워드: 그리고 한 번만 더 불량이 새어 나가면, 단 한 건이라도, 병원 사업은 톨랜드로 갑니다. 그땐 회의도 필요 없어요.
+092. WARREN: And if there's another escape, even one, the hospital program goes to Tolland. I won't need a meeting for that.
+    워런: 그리고 한 번만 더 불량이 새어 나가면, 단 한 건이라도, 병원 사업은 톨랜드로 갑니다. 그땐 회의도 필요 없어요.
 
 093. OWEN: Understood. We know we have to regain trust one shipment at a time.
     오언: 알겠습니다. 신뢰는 출하 한 번 한 번으로 되찾아야 한다는 거, 압니다.
 
 094. DEE: Mr. Pell, we broke it. We'll make it right.
-    디: 펠 이사님, 저희가 망가뜨렸어요. 저희가 바로잡을게요.
+    디: 펠 부사장님, 저희가 망가뜨렸어요. 저희가 바로잡을게요.
 
-095. HOWARD: I'll see you in Schenectady, Ms. Kowalski. Bring the good coffee.
-    하워드: 스키넥터디에서 뵙죠, 코왈스키 씨. 맛있는 커피로 준비해 두세요.
+095. WARREN: I'll see you in Schenectady, Ms. Kowalski. Bring the good coffee.
+    워런: 스키넥터디에서 뵙죠, 코왈스키 씨. 맛있는 커피로 준비해 두세요.
 
 096. LINDA: Owen. Wait up a second.
     린다: 오언. 잠깐만요.

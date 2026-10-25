@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 8화 · 서사 기능: 위기 발생
 > - 배경: 오언의 아파트(월요일 새벽 4시 40분, 전화) → LIC 본사 회의실(같은 날 오전 11시, 이사회 화상회의) → CEO 사무실(화요일 아침 7시 30분, 린다와의 통화). 2027년 10월 초.
-> - 등장인물: Owen, Grace, Dee, Hal, Trevor, Rob Tanaka(화상), Linda Garrison(전화), Carl Mazur(스키넥터디 품질검사 반장, 단역), Priya Shah(재무팀 주니어 분석가, 단역)
+> - 등장인물: Owen, Grace, Dee, Hal, Trevor, Rob Tanaka(화상), Linda Garrison(전화), Carl Mazur(스키넥터디 품질검사 반장, 단역), Priya(재무팀 신입 회계 직원, 2화부터 등장)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 위기 관리, 자진 리콜, 투명성의 비용과 가치, 보관 샘플·파괴 시험, 리콜 비용 추산
 > - 이번 화의 핵심 표현: "recall", "get ahead of it", "damage control", "own the mistake", "worst-case scenario", "full transparency", "the buck stops here"
@@ -351,8 +351,8 @@
 112. OWEN: We're calling you before you call us. That's all this is.
     오언: 그쪽이 전화하시기 전에 저희가 먼저 거는 겁니다. 그게 다예요.
 
-113. LINDA: Serial numbers by noon. I'll be in touch.
-    린다: 시리얼 번호는 정오까지요. 연락드리죠.
+113. LINDA: In June I told you never to surprise me. You listened. Serial numbers by noon.
+    린다: 6월에 절대 놀라게 하지 말라고 했었죠. 그 말 들으셨네요. 시리얼 번호는 정오까지요.
 
 114. GRACE: Well, she didn't hang up on us.
     그레이스: 뭐, 끊어 버리진 않았네.

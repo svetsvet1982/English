@@ -168,8 +168,8 @@
 051. FRANK: What's the difference?
     프랭크: 그게 무슨 차이야?
 
-052. OWEN: The difference is my name on the page. My dad spent twenty-two years at an auto parts plant in Dayton, Ohio. In 2008, suits flew in, and six months later it was a parking lot. I've always wondered if any of them walked the floor.
-    오언: 그 차이는 그 보고서에 제 이름이 들어간다는 거예요. 우리 아버지가 오하이오 데이턴의 자동차 부품 공장에서 22년을 일하셨어요. 2008년에 양복쟁이들이 비행기 타고 왔고, 여섯 달 뒤 거긴 주차장이 됐죠. 그 사람들 중에 현장을 걸어 본 사람이 있었을까, 늘 궁금했어요.
+052. OWEN: The difference is my name on the page. My dad spent twenty-two years at an auto plant in Dayton, Ohio. In 2008, suits flew in, and six months later it was a parking lot. I've always wondered if any of them walked the floor.
+    오언: 그 차이는 그 보고서에 제 이름이 들어간다는 거예요. 우리 아버지가 오하이오 데이턴의 자동차 공장에서 22년을 일하셨어요. 2008년에 양복쟁이들이 비행기 타고 왔고, 여섯 달 뒤 거긴 주차장이 됐죠. 그 사람들 중에 현장을 걸어 본 사람이 있었을까, 늘 궁금했어요.
 
 053. FRANK: ...Dayton.
     프랭크: …데이턴이라.

@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 11화 · 서사 기능: 시즌 후반 본사건 착수 · 빅토리아 그림자의 실체
-> - 배경: 시청 옆 250 브로드웨이 시의회 위원회실, 입찰 프레젠테이션(10월 10일 화요일) → 월스트리트 11번 부두에서 사운드뷰행 페리, 브루클린 네이비 야드의 Atlas 운영 사무소(다음 주) → 밤의 사운드뷰 부두, 루 선장(같은 주 금요일) → 플랫아이언 공유오피스와 포덤 로드의 케이트 지역구 사무실(10월 말). 2028년 10월, 강바람이 차가워지는 가을.
+> - 배경: 시청 옆 250 브로드웨이 시의회 위원회실, 입찰 프레젠테이션(10월 10일 화요일) → 월스트리트 11번 부두에서 사운드뷰행 페리, 브루클린 네이비 야드의 Atlas 운영 사무소(다음 주) → 밤의 사운드뷰 부두, 루 선장(같은 주 금요일) → 플랫아이언 공유오피스와 브롱크스의 케이트 지역구 사무실(10월 말). 2028년 10월, 강바람이 차가워지는 가을.
 > - 등장인물: Owen, Grace, Jamal, Sofia, Kate Osei(시의회 감독위원회 위원장), Gordon Pratt(Atlas Marine Services CEO), Captain Lou DeMarco(페리 선장 25년)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 공공 성과감사, 공개 입찰(RFP), 변경 계약 분석(승인 한도 쪼개기), 비용 초과, 양쪽 대리와 이해상충
@@ -42,8 +42,8 @@
 009. JAMAL: Thank you. I like that you answered like a teacher.
     자말: 감사합니다. 선생님처럼 대답해 주셔서 좋네요.
 
-010. KATE: I taught algebra at a public school on Fordham Road for nine years. Some habits don't leave.
-    케이트: 포덤 로드의 공립학교에서 9년 동안 대수를 가르쳤어요. 어떤 습관은 안 없어지더군요.
+010. KATE: I taught ninth-grade algebra for eleven years at a school on Walton Avenue. Some habits don't leave.
+    케이트: 월턴 애비뉴의 학교에서 11년 동안 9학년 대수를 가르쳤어요. 어떤 습관은 안 없어지더군요.
 
 011. KATE: Here's the problem. Ridership on the ferry system is up fifty percent in four years, from six million riders to nine. Operating costs have tripled, from fifty-two million to a hundred fifty-six.
     케이트: 문제는 이거예요. 페리 승객은 4년 사이 50% 늘었어요. 600만 명에서 900만 명으로요. 그런데 운영비는 세 배가 됐어요. 5,200만 달러에서 1억 5,600만 달러로.

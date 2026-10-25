@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 13화 · 서사 기능: 클라이맥스
 > - 배경: 롱아일랜드 맨해셋 트레버의 집 부엌(2월 9일 밤 10시) → LIC 1공장 출하장에 차린 임시 주주총회장, 난방 고장(2월 10일 오전 10시) → 총회 후 출하장 옆 복도. 2028년 2월.
-> - 등장인물: Owen, Trevor, Grace, Hal, Victoria Sterling, Frank Russo, Dee, Rob Tanaka, Priya Shah, Neil Fenwick(베켓 외부 법률 고문, 의결 검사인, 단역)
+> - 등장인물: Owen, Trevor, Grace, Hal, Victoria Sterling, Frank Russo, Dee, Rob Tanaka, Priya, Gerald Ostrow(베켓 외부 법률 고문, 의결 검사인, 단역)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 임시 주주총회 진행(정족수, 위임장, 의결 검사인), 위임장 대결, 이해관계자 연합, 지배 거래의 차등 가격 반박, EBITDA와 기업가치 배수, 사전 조율의 힘
 > - 이번 화의 핵심 표현: "proxy", "quorum", "make one's case", "the votes are in", "change of heart", "turn the tables", "sore loser"
@@ -90,8 +90,8 @@
 025. TREVOR: Do I have a choice?
     트레버: 내가 거절할 수는 있고?
 
-026. OWEN: My father, Dale Brandt, worked at an auto parts plant in Dayton for twenty-six years. In 2008, the owners sold to a bigger company that promised nothing would change. Eleven months later, there was a notice on the gate.
-    오언: 우리 아버지 데일 브랜트는 데이턴의 자동차 부품 공장에서 26년을 일했어요. 2008년에 주인들이 더 큰 회사에 공장을 팔았는데, 그 회사는 아무것도 안 바뀐다고 약속했죠. 11개월 뒤에 정문에 공고문이 붙었어요.
+026. OWEN: My father, Dale Brandt, worked at an auto plant in Moraine, outside Dayton, for twenty-two years. For years, the company kept promising nothing would change. Then, two days before Christmas 2008, there was a notice on the gate.
+    오언: 우리 아버지 데일 브랜트는 데이턴 근처 모레인의 자동차 공장에서 22년을 일했어요. 회사는 몇 년 동안 아무것도 안 바뀐다고 약속했죠. 그러다 2008년 크리스마스 이틀 전에 정문에 공고문이 붙었어요.
 
 027. TREVOR: That's the lunch pail on your desk. His.
     트레버: 당신 책상 위에 있는 그 도시락통. 그분 거구나.
@@ -135,8 +135,8 @@
 040. OWEN: Good night, Trevor. Thanks for the ten minutes.
     오언: 잘 자요, 트레버. 10분 고마웠어요.
 
-041. NEIL: Good morning. My name is Neil Fenwick, outside counsel to Beckett Industries, and I'll serve as inspector of elections. We have a quorum. This special meeting of shareholders is called to order.
-    닐: 좋은 아침입니다. 베켓 인더스트리 외부 법률 고문 닐 펜윅이고, 오늘 의결 검사인을 맡겠습니다. 정족수가 충족됐습니다. 지금부터 임시 주주총회를 시작하겠습니다.
+041. GERALD: Good morning. My name is Gerald Ostrow, outside counsel to Beckett Industries, and I'll serve as inspector of elections. We have a quorum. This special meeting of shareholders is called to order.
+    제럴드: 좋은 아침입니다. 베켓 인더스트리 외부 법률 고문 제럴드 오스트로이고, 오늘 의결 검사인을 맡겠습니다. 정족수가 충족됐습니다. 지금부터 임시 주주총회를 시작하겠습니다.
 
 042. PRIYA: Grace, sorry. What's a quorum?
     프리야: 그레이스, 죄송한데요. 정족수가 뭐예요?
@@ -156,11 +156,11 @@
 047. HAL: Because I said so. Eighty years of shipments went out these doors. If my company gets sold, it gets sold where people can see it.
     할: 내가 그러라고 했으니까. 80년 치 물건이 이 문으로 나갔어. 내 회사가 팔린다면, 사람들 다 보는 데서 팔려야지.
 
-048. NEIL: The question is whether to approve the transfer of Granite Peak's thirty-five percent to Tolland Controls. Yes approves it. No rejects it, and the company exercises its right of first refusal. Ms. Sterling will make the case for Tolland.
-    닐: 안건은 그래나이트 피크 지분 35퍼센트의 톨랜드 컨트롤스 양도 승인 여부입니다. 찬성은 승인, 반대는 거부이며, 이 경우 회사가 우선매수권을 행사합니다. 먼저 스털링 씨가 톨랜드 측 입장을 설명하겠습니다.
+048. GERALD: The question is whether to approve the transfer of Granite Peak's thirty-five percent to Tolland Controls. Yes approves it. No rejects it, and the company exercises its right of first refusal. Ms. Sterling will make the case for Tolland.
+    제럴드: 안건은 그래나이트 피크 지분 35퍼센트의 톨랜드 컨트롤스 양도 승인 여부입니다. 찬성은 승인, 반대는 거부이며, 이 경우 회사가 우선매수권을 행사합니다. 먼저 스털링 씨가 톨랜드 측 입장을 설명하겠습니다.
 
-049. VICTORIA: Thank you, Mr. Fenwick. And thank you, Hal, for the venue. It's bracing.
-    빅토리아: 감사합니다, 펜윅 변호사님. 그리고 장소 마련해 줘서 고마워요, 할. 정신이 번쩍 드네요.
+049. VICTORIA: Thank you, Mr. Ostrow. And thank you, Hal, for the venue. It's bracing.
+    빅토리아: 감사합니다, 오스트로 변호사님. 그리고 장소 마련해 줘서 고마워요, 할. 정신이 번쩍 드네요.
 
 050. HAL: Heat's broken. You get used to it.
     할: 난방이 고장 났어. 익숙해질 거다.
@@ -180,8 +180,8 @@
 055. VICTORIA: Almost. The question isn't whether Beckett is a good company. It's whether Beckett can afford to stand alone. I'd suggest it can't.
     빅토리아: 거의요. 질문은 베켓이 좋은 회사냐가 아니에요. 베켓이 혼자 설 여유가 있느냐죠. 전 없다고 봐요.
 
-056. NEIL: Thank you. Ms. Liu, for the company.
-    닐: 감사합니다. 회사 측, 리우 이사님.
+056. GERALD: Thank you. Ms. Liu, for the company.
+    제럴드: 감사합니다. 회사 측, 리우 이사님.
 
 057. GRACE: Thank you. I'll answer Ms. Sterling's question with three numbers. They're on the single page Priya is handing out.
     그레이스: 감사합니다. 스털링 씨의 질문에 숫자 세 개로 답하겠습니다. 프리야가 나눠 드리는 한 장에 있습니다.
@@ -225,8 +225,8 @@
 070. GRACE: You're right, Rob. And that's the only part of Tolland's offer that's better for you. It's worse for everyone else in this room.
     그레이스: 맞아요, 롭. 그리고 톨랜드 제안에서 당신한테 더 나은 건 그것뿐이에요. 이 방의 나머지 모두에겐 더 나쁘고요.
 
-071. NEIL: Thank you, Ms. Liu. The retiree stock plan has asked to address the meeting. Mr. Russo.
-    닐: 감사합니다, 리우 이사님. 퇴직자 주식 신탁 측에서 발언을 요청했습니다. 루소 씨.
+071. GERALD: Thank you, Ms. Liu. The retiree stock plan has asked to address the meeting. Mr. Russo.
+    제럴드: 감사합니다, 리우 이사님. 퇴직자 주식 신탁 측에서 발언을 요청했습니다. 루소 씨.
 
 072. FRANK: I'm no good at speeches. I'll be quick.
     프랭크: 난 연설 같은 거 못 해. 짧게 하지.
@@ -237,8 +237,8 @@
 074. FRANK: I've worked in this building thirty-one years. My father worked here before me. Last year a consultant walked in and said close it. This year the same consultant says sell it. Meanwhile we cut scrap from fifteen percent to six, we built bay four with our own hands, and nobody missed a shipment during the recall. Ms. Sterling says "liquidity." I know what that word means for guys like me. It means a check and a locked gate. The retirees vote no. That's five percent. Put it in writing.
     프랭크: 난 이 건물에서 31년 일했어. 우리 아버지도 나보다 먼저 여기서 일했고. 작년에 컨설턴트가 들어와서 닫으라고 했지. 올해는 같은 컨설턴트가 팔라고 하네. 그동안 우린 불량률을 15퍼센트에서 6퍼센트로 줄였고, 4번 베이를 우리 손으로 지었고, 리콜 때도 출하 한 번 안 빼먹었어. 스털링 씨가 '유동성'이라고 하는데, 그게 나 같은 놈들한테 무슨 뜻인지 알아. 수표 한 장이랑 잠긴 정문이야. 퇴직자들은 반대한다. 5퍼센트. 서면으로 남겨.
 
-075. NEIL: Thank you, Mr. Russo. Before we tally, Mr. Trevor Beckett has asked to speak.
-    닐: 감사합니다, 루소 씨. 집계 전에 트레버 베켓 씨가 발언을 요청했습니다.
+075. GERALD: Thank you, Mr. Russo. Before we tally, Mr. Trevor Beckett has asked to speak.
+    제럴드: 감사합니다, 루소 씨. 집계 전에 트레버 베켓 씨가 발언을 요청했습니다.
 
 076. VICTORIA: Trevor, you don't have to say anything. Your option agreement speaks for itself.
     빅토리아: 트레버, 아무 말 안 해도 돼요. 옵션 계약서가 다 말해 주니까.
@@ -264,8 +264,8 @@
 083. TREVOR: I know exactly how much it is. My mortgage reminds me every month. I vote no.
     트레버: 얼마짜린지 정확히 알아요. 매달 대출금이 알려 주거든요. 반대합니다.
 
-084. NEIL: So noted. Then the votes are in. I'll read the tally for the record.
-    닐: 기록하겠습니다. 그럼 투표가 끝났습니다. 공식 기록을 위해 집계 결과를 읽겠습니다.
+084. GERALD: So noted. Then the votes are in. I'll read the tally for the record.
+    제럴드: 기록하겠습니다. 그럼 투표가 끝났습니다. 공식 기록을 위해 집계 결과를 읽겠습니다.
 
 085. PRIYA: I can't breathe.
     프리야: 숨을 못 쉬겠어요.
@@ -273,8 +273,8 @@
 086. DEE: Breathe, kid. It's just arithmetic.
     디: 숨 쉬어, 얘. 그냥 산수야.
 
-087. NEIL: Voting yes: Granite Peak Capital, thirty-five percent, and by proxy, the holders from the estate of Irene Beckett, seven percent, for forty-two. Voting no: Hal Beckett, thirty-eight; the retiree stock plan, five; Trevor Beckett, fifteen; for fifty-eight. The transfer is not approved.
-    닐: 찬성. 그래나이트 피크 캐피털 35퍼센트, 위임장으로 아이린 베켓 유산 상속 주주들 7퍼센트, 합계 42. 반대. 할 베켓 38, 퇴직자 주식 신탁 5, 트레버 베켓 15, 합계 58. 양도는 부결되었습니다.
+087. GERALD: Voting yes: Granite Peak Capital, thirty-five percent, and by proxy, the holders from the estate of Irene Beckett, seven percent, for forty-two. Voting no: Hal Beckett, thirty-eight; the retiree stock plan, five; Trevor Beckett, fifteen; for fifty-eight. The transfer is not approved.
+    제럴드: 찬성. 그래나이트 피크 캐피털 35퍼센트, 위임장으로 아이린 베켓 유산 상속 주주들 7퍼센트, 합계 42. 반대. 할 베켓 38, 퇴직자 주식 신탁 5, 트레버 베켓 15, 합계 58. 양도는 부결되었습니다.
 
 088. HAL: Fifty-eight to forty-two.
     할: 58 대 42.
@@ -291,11 +291,11 @@
 092. ROB: Very funny, Hal.
     롭: 아주 웃기네요, 할.
 
-093. GRACE: Mr. Fenwick, the company formally exercises its right of first refusal and assigns it to Ridgeline Partners, as the board resolved. Andrew Cole wires the first twenty-five million tomorrow morning.
-    그레이스: 펜윅 변호사님, 회사는 이사회 결의에 따라 우선매수권을 공식 행사하고, 이를 릿지라인 파트너스에 양도합니다. 앤드루 콜이 내일 아침 첫 2,500만 달러를 송금합니다.
+093. GRACE: Mr. Ostrow, the company formally exercises its right of first refusal and assigns it to Ridgeline Partners, as the board resolved. Andrew Cole wires the first twenty-five million tomorrow morning.
+    그레이스: 오스트로 변호사님, 회사는 이사회 결의에 따라 우선매수권을 공식 행사하고, 이를 릿지라인 파트너스에 양도합니다. 앤드루 콜이 내일 아침 첫 2,500만 달러를 송금합니다.
 
-094. NEIL: So noted. This meeting is adjourned.
-    닐: 기록하겠습니다. 이것으로 총회를 마칩니다.
+094. GERALD: So noted. This meeting is adjourned.
+    제럴드: 기록하겠습니다. 이것으로 총회를 마칩니다.
 
 095. DEE: That's it? I drove four hours to hear a man say "so noted" three times?
     디: 이게 끝이야? 남자 하나가 '기록하겠습니다' 세 번 하는 거 들으려고 네 시간을 운전했어?

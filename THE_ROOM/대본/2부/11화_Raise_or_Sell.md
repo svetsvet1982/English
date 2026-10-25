@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 11화 · 서사 기능: 선택과 복선
 > - 배경: LIC 본사 CFO 사무실(12월 둘째 주 월요일 아침) → 허드슨 야드 Ridgeline Partners 사무실 52층(같은 주 목요일) → 퀸즈 화이트스톤 할 베켓의 집, 크리스마스 저녁. 2027년 12월.
-> - 등장인물: Owen, Grace, Priya Shah, Steven Feldman(스피커폰), Andrew Cole, Hal, Trevor, Marion Beckett(할의 아내, 단역)
+> - 등장인물: Owen, Grace, Priya, Steven Feldman(스피커폰), Andrew Cole, Hal, Trevor, Marion Beckett(할의 아내, 단역)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 자본 조달 옵션 비교(부채·보조금·매각·지분 투자), 희석, 전략적 인수자 vs 재무적 투자자, 텀시트, 투자 조건(이사회 의석·매각 거부권), 지분 매입
 > - 이번 화의 핵심 표현: "dilution", "equity stake", "strategic buyer", "term sheet", "call in a favor", "strings attached", "pre-money valuation"
@@ -228,8 +228,8 @@
 071. ANDREW: Grace, is he right?
     앤드루: 그레이스, 이 사람 말이 맞아요?
 
-072. GRACE: The scrap rate in Long Island City went from fifteen percent to six since June. Gainsharing paid out three hundred and ten thousand dollars to the workers and saved us more than nine hundred thousand.
-    그레이스: 롱아일랜드시티 불량률이 6월 이후 15퍼센트에서 6퍼센트로 떨어졌어요. 성과 공유로 직원들한테 31만 달러가 나갔고, 회사는 90만 달러 넘게 아꼈고요.
+072. GRACE: The scrap rate in Long Island City went from fifteen percent to six since June. Gainsharing has paid the workers about four hundred thousand dollars so far, and saved us more than one point two million.
+    그레이스: 롱아일랜드시티 불량률이 6월 이후 15퍼센트에서 6퍼센트로 떨어졌어요. 성과 공유로 지금까지 직원들한테 40만 달러쯤 나갔고, 회사는 120만 달러 넘게 아꼈어요.
 
 073. ANDREW: Then it stays. Five years, no closures. I'll put both in the term sheet.
     앤드루: 그럼 유지하죠. 5년 폐쇄 금지. 둘 다 텀시트에 넣을게요.

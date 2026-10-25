@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 12화 · 서사 기능: 적대자 귀환
 > - 배경: LIC 본사 CFO 사무실(1월 둘째 주 월요일 아침) → LIC 1공장 2층 회의실, 창밖으로 작업장이 내려다보임(수요일 오후) → 할의 사무실, 할 아버지의 작업대 옆(같은 날 밤). 2028년 1월.
-> - 등장인물: Owen, Grace, Priya Shah, Victoria Sterling, Hal, Andrew Cole(스피커폰)
+> - 등장인물: Owen, Grace, Priya, Victoria Sterling, Hal, Andrew Cole(스피커폰)
 > - 난이도: B1–B2+ · 턴 수: 120
 > - 이번 화의 비즈니스 포인트: 적대적 인수, 지분 양도 통지와 우선매수권(ROFR), 주주 간 계약의 승인 조항, 2단계 차등 가격(지배 지분엔 프리미엄·나머지엔 헐값), 의결권 계산, 캐스팅보트
 > - 이번 화의 핵심 표현: "hostile takeover", "lowball offer", "right of first refusal", "voting bloc", "swing vote", "play hardball", "transfer notice"
