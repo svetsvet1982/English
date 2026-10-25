@@ -8,7 +8,7 @@
 > - 등장인물: Sal, Maya, Ethan, Rita, Mr. Goldberg, Leo, Kai, Claire, Tucker(전화), Nora, Tessa, Ticket Agent(매표원, 1부 1화 그 사람), Ivy Kowalski(18, 스크랜턴에서 온 소녀, 신규)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "The usual?", "miss a payment", "pull the plug", "for pennies on the dollar", "It's personal now.", "Turns out...", "a business card", "That's definitely a line.", "Google it", "Good night"
-> - 복선/연결: 1부 1화 샐의 "The usual?"·포트 오소리티·명함·"Good night, Jules Mercer."의 거울 · 6부 9화 마야의 세 번째 조건(VNTA도 페어 북으로) 이행 — 클레어의 "It's not personal. It's fashion."의 뒤집기 · 6부 13화 테사의 아틀리에 로슈 클로징 · 6부 12화 리타의 주 3일(월·수·금) · 브라조스의 3월 31일 상환일 · 줄스의 "Is that... normal?"
+> - 복선/연결: 1부 1화 샐의 "The usual?"·포트 오소리티·명함·"Good night, Jules Mercer."의 거울 · 6부 9화 마야의 세 번째 조건(VNTA도 페어 북으로) 이행 — 클레어의 "It's not personal. It's fashion."의 뒤집기 · 6부 13화 테사의 아틀리에 로슈 클로징 · 6부 12화 리타의 주 3일(월·수·금) · 브라조스의 3월 31일 상환일 · 줄스의 "Is that... normal?" · 6부 5화 베스의 3월 퍼스트 옵션 → 확정 부킹(029)
 
 ---
 
@@ -98,8 +98,8 @@
 028. MAYA: Where is Tessa, anyway? She's never late. Ever.
     마야: 근데 테사는 어디 있어? 쟤는 절대 안 늦는데.
 
-029. TESSA: I'm not late. I'm early for this afternoon. I was getting my bus ticket for tonight. Lancaster, ten-fifteen.
-    테사: 안 늦었어요. 오후 일정에 일찍 온 거예요. 오늘 밤 버스표 사러 갔었어요. 랭커스터, 10시 15분.
+029. TESSA: I'm not late. Beth from Hollis and Pine called. Her budget came through, so the March option is a booking now. Then I got my bus ticket. Lancaster, ten-fifteen.
+    테사: 안 늦었어요. 홀리스 앤 파인의 베스한테서 전화 왔어요. 예산이 나와서 3월 옵션이 이제 확정 부킹이 됐대요. 그러고 나서 버스표 샀어요. 랭커스터, 10시 15분.
 
 030. RITA: Going home? You just got back from Paris on Tuesday!
     리타: 집에 간다고? 화요일에 파리에서 막 왔잖아!
