@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 5부 8화 · 서사 기능: 세대교체 — 레오의 성장
-> - 배경: Hale Models 사무실(에어컨 고장) → 오후 4시 회의실 → 밤 8시 Olympia Diner. 2027년 8월 말, 폭염의 목요일
+> - 배경: Hale Models 사무실(에어컨 고장) → 오후 4시 회의실 → 밤 8시 Olympia Diner. 2027년 9월 하순, 늦더위의 월요일(5부 7화 코니아일랜드 다음 날)
 > - 등장인물: Ethan, Leo, Maya, Rita, Kai, Nora(전화)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "pitch deck", "tough crowd", "fine print", "exclusivity clause", "side project", "veto power", "report to"
@@ -14,8 +14,8 @@
 
 ## 대본
 
-001. RITA: Ethan, the AC is dead again. It's ninety-four degrees out there.
-    리타: 이선, 에어컨 또 죽었어. 밖이 34도야.
+001. RITA: Ethan, the AC is dead again. It's ninety degrees. In late September!
+    리타: 이선, 에어컨 또 죽었어. 밖이 32도야. 9월 말에!
 
 002. ETHAN: Did you call Mr. Goldberg? He said his guy fixed it in July.
     이선: 골드버그 씨한테 전화했어요? 7월에 사람 불러서 고쳤다면서요.
@@ -278,11 +278,11 @@
 088. ETHAN: Coffee at eight p.m. in a Greek diner. My dad would approve.
     이선: 밤 8시에 그리스 다이너에서 커피라. 우리 아빠가 좋아하시겠다.
 
-089. LEO: How's he doing? Rita said you guys finally did Coney Island.
-    레오: 아버님은 어떠세요? 리타가 드디어 코니아일랜드 다녀오셨다던데요.
+089. LEO: How's he doing? Rita said you guys did Coney Island yesterday.
+    레오: 아버님은 어떠세요? 리타가 어제 코니아일랜드 다녀오셨다던데요.
 
-090. ETHAN: He says the hot dogs were better in 1975. He complained for a week. He loved it.
-    이선: 핫도그는 1975년이 더 맛있었대. 일주일 내내 불평하셨어. 엄청 좋으셨던 거지.
+090. ETHAN: He made me ride the Cyclone. Front car. He laughed the whole time. Then had two hot dogs.
+    이선: 나더러 사이클론 타래. 맨 앞 칸. 내내 웃으시더라. 그러고 핫도그 두 개 드셨어.
 
 091. ETHAN: Actually, I called him this afternoon. About your pitch.
     이선: 사실 오늘 오후에 아버지한테 전화했어. 네 제안 때문에.

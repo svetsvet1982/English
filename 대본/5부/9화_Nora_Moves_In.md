@@ -4,11 +4,11 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 5부 9화 · 서사 기능: 관계의 진전 — 이선의 일 중독 직면
-> - 배경: 목요일 밤 이선의 브루클린 아파트 → 금요일 아침 Hale Models 사무실 → 토요일 밤 11시 아파트. 2027년 9월 초, 노동절 주말(뉴욕 패션위크 일주일 전)
+> - 배경: 월요일 밤 이선의 브루클린 아파트(8화 직후) → 금요일 아침 Hale Models 사무실 → 토요일 밤 11시 아파트. 2027년 9월 말~10월 초(파리 패션위크 주간)
 > - 등장인물: Ethan, Nora, Maya, Rita, Leo, Hannah
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "walk-up", "highway robbery", "take it back", "in and out", "give away (a table)", "non-negotiable", "put it that way"
-> - 복선/연결: 5부 8화 마지막 노라의 전화에서 바로 이어짐 · 해나가 마야의 파트너 계약 초안 전달(→5부 14화 서명) · 월터의 자정 문자 "Bring the Swede" → 5부 10화 「Goodbye, Walter」
+> - 복선/연결: 5부 8화 마지막 노라의 전화에서 바로 이어짐 · 월터 목록 5번 '노라와 진짜 저녁'으로 이어지는 월터의 문자 · 해나가 마야의 파트너 계약 초안 전달(→5부 14화 서명) · 월터의 자정 문자 "Bring the Swede" → 5부 10화 「Goodbye, Walter」
 
 ---
 
@@ -26,8 +26,8 @@
 004. ETHAN: You said "lease" and "us" in the same sentence. I ran two blocks from the subway.
     이선: 네가 '임대'랑 '우리'를 한 문장에 말했잖아. 지하철역에서 두 블록 뛰어왔어.
 
-005. NORA: My landlord's raising the rent. Eighteen percent. Starting October first.
-    노라: 집주인이 월세를 올린대. 18퍼센트. 10월 1일부터.
+005. NORA: My landlord's raising the rent. Eighteen percent. Starting November first.
+    노라: 집주인이 월세를 올린대. 18퍼센트. 11월 1일부터.
 
 006. ETHAN: Eighteen? For a fourth-floor walk-up in Greenpoint with a radiator that screams?
     이선: 18퍼센트? 소리 지르는 라디에이터 달린 그린포인트 엘리베이터 없는 4층 집에?
@@ -122,8 +122,8 @@
 036. NORA: That was ninety seconds. I counted.
     노라: 90초였어. 세어 봤어.
 
-037. ETHAN: I'm sorry. Fashion Week starts in a week. Everything's on fire.
-    이선: 미안. 패션위크가 일주일 남았어. 다 불바다야.
+037. ETHAN: I'm sorry. It's Paris Fashion Week. Half our girls are in Paris. Everything's on fire.
+    이선: 미안. 파리 패션위크 주간이야. 우리 애들 절반이 파리에 있어. 다 불바다야.
 
 038. NORA: Everything's always on fire, Ethan. You're a very busy firefighter.
     노라: 항상 다 불바다잖아, 이선. 넌 정말 바쁜 소방관이야.

@@ -4,11 +4,11 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 5부 10화 · 서사 기능: 상실 — 창업자의 죽음
-> - 배경: 새벽 5시 48분 이선의 브루클린 아파트 → 오전 11시 반 Hale Models 로비와 사무실 → 저녁 월터의 아파트. 2027년 9월 중순(뉴욕 패션위크 직후), 목요일
+> - 배경: 새벽 5시 48분 이선의 브루클린 아파트 → 오전 11시 반 Hale Models 로비와 사무실 → 저녁 월터의 아파트. 2027년 10월 초, 목요일(월터의 일흔 번째 생일 6주 전)
 > - 등장인물: Ethan, Nora, Hannah, Mr. Goldberg, Rita, Maya, Leo, Kai, Sal, Sasha, Claire(전화)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "lose it", "rob someone blind", "Don't you dare", "the last of the real ones", "take the time you need", "be someone's son", "cross off"
-> - 복선/연결: 5부 9화 월터의 "Bring the Swede" 이후 노라와의 첫 만남 언급 · 보드에 월터의 이름 · 월터의 장례 지시서와 '목록'의 마지막 한 줄 "See the board full." → 5부 14화 · 펜은 장례식에서 → 5부 11화 「The Eulogy」
+> - 복선/연결: 5부 9화 월터의 "Bring the Swede" 이후 노라와의 첫 만남 언급 · 보드에 월터의 이름 · 월터의 장례 지시서 · 목록 5번(노라와 저녁)·6번(해나 웃기기) 완료, 마지막 남은 7번 "See the board full." → 5부 14화 · 펜은 장례식에서 → 5부 11화 「The Eulogy」
 
 ---
 
@@ -38,17 +38,17 @@
 008. ETHAN: That sounds like him.
     이선: 아빠답네.
 
-009. HANNAH: I stayed over last night. We watched the Yankees. They lost. He said, "Bums."
-    해나: 나 어젯밤 거기서 잤어. 양키스 경기 봤거든. 졌어. 아빠가 "한심한 놈들" 그러셨어.
+009. HANNAH: I stayed over last night. We watched the Yankees. He did his impression of the manager.
+    해나: 나 어젯밤 거기서 잤어. 양키스 경기 봤거든. 아빠가 감독 성대모사를 하셨어.
 
-010. HANNAH: That was the last thing he said to me, Ethan. "Bums."
-    해나: 그게 나한테 한 마지막 말이야, 이선. "한심한 놈들."
+010. HANNAH: I laughed so hard I snorted, Ethan. A real laugh. He looked so pleased with himself.
+    해나: 너무 웃어서 콧소리까지 났어, 이선. 진짜 웃음. 아빠가 엄청 뿌듯한 얼굴이셨어.
 
-011. ETHAN: That's a pretty good last word for a Bronx guy.
-    이선: 브롱크스 남자 유언으로는 꽤 괜찮은데.
+011. ETHAN: Number six. "Make Hannah laugh." He crossed it off, didn't he?
+    이선: 6번. "해나 웃기기." 지우셨지, 그렇지?
 
-012. HANNAH: Don't make me laugh right now. I'll lose it.
-    해나: 지금 웃기지 마. 무너질 것 같아.
+012. HANNAH: Before bed. With a pen. Don't make me cry right now. I'll lose it.
+    해나: 주무시기 전에. 펜으로. 지금 울리지 마. 무너질 것 같아.
 
 013. ETHAN: I'm coming. I'll be there in forty minutes.
     이선: 갈게. 40분이면 도착해.
@@ -68,8 +68,8 @@
 018. NORA: I know I don't have to. Where are your keys?
     노라: 안 와도 되는 거 알아. 열쇠 어디 있어?
 
-019. ETHAN: He met you properly. On Sunday. He actually laughed.
-    이선: 아빠가 일요일에 너 제대로 만나셨잖아. 진짜로 웃으셨어.
+019. ETHAN: He met you properly. On Sunday. A real dinner. He actually laughed.
+    이선: 아빠가 일요일에 너 제대로 만나셨잖아. 진짜 저녁 식사로. 진짜로 웃으셨어.
 
 020. NORA: He told me I'd keep you honest. And he told me to make you eat breakfast.
     노라: 내가 너를 정직하게 붙잡아 줄 거래. 그리고 아침 꼭 먹이라고 하셨어.
@@ -338,20 +338,20 @@
 108. HANNAH: It's the only kind he had. And it was plenty.
     해나: 아빠한텐 그 종류밖에 없었어요. 그걸로 충분했고요.
 
-109. RITA: And one more thing. His list. You know, the one from August.
-    리타: 그리고 하나 더. 그 목록. 알잖아, 8월에 그 목록.
+109. RITA: And one more thing. His list. The yellow legal pad. It was on his nightstand.
+    리타: 그리고 하나 더. 그 목록. 노란 메모장. 침대 옆 탁자에 있었어.
 
-110. ETHAN: The bucket list. We crossed off almost everything. Coney Island was the big one.
-    이선: 버킷 리스트. 거의 다 지웠어요. 코니아일랜드가 제일 큰 거였고.
+110. ETHAN: "Things to do before seventy." He was six weeks away from seventy.
+    이선: '일흔 전에 할 일.' 일흔까지 6주 남았었는데.
 
-111. RITA: Everything's crossed out. Except one line at the bottom. He added it last week. In pen.
-    리타: 다 줄 그어져 있어. 맨 아래 한 줄 빼고. 지난주에 추가하셨어. 볼펜으로.
+111. RITA: Everything's crossed off. Dinner with Nora, Sunday. Hannah laughing, last night. Except one line.
+    리타: 다 지워져 있어. 노라와 저녁, 일요일. 해나 웃기기, 어젯밤. 한 줄만 빼고.
 
-112. ETHAN: What does it say?
-    이선: 뭐라고 써 있어요?
+112. ETHAN: Number seven.
+    이선: 7번.
 
 113. RITA: "See the board full."
-    리타: "보드가 가득 찬 걸 볼 것."
+    리타: "보드가 가득 찬 걸 보기."
 
 114. HANNAH: Oh, Dad.
     해나: 아, 아빠.
@@ -359,8 +359,8 @@
 115. ETHAN: We were close. We were so close. Maybe ten more names.
     이선: 거의 다 왔었는데. 정말 거의. 한 열 명만 더 있으면 됐는데.
 
-116. RITA: Then you finish it for him. And the pen. He said the pen waits for the funeral. Not before.
-    리타: 그럼 네가 대신 끝내. 그리고 그 펜. 펜은 장례식까지 기다리래. 그 전엔 안 된대.
+116. RITA: Then you finish it for him. And the pen's in his top drawer. He said I hand it over at the funeral.
+    리타: 그럼 네가 대신 끝내. 그리고 펜은 저 책상 맨 위 서랍에 있어. 장례식 때 나더러 건네라고 하셨어.
 
 117. NORA: Ethan. You have to write something for Saturday.
     노라: 이선. 토요일에 할 말 써야 해.
@@ -387,7 +387,7 @@
 - **the last of the real ones** — 진짜배기 중 마지막 사람 / "he was the last of the real ones." (077)
 - **take the time you need** — 필요한 만큼 시간을 가져 / "Take the time you need." (079)
 - **go be someone's son** — 가서 ~의 아들 노릇을 해 / "You go be his son." (089)
-- **cross off / cross out** — (목록에서) 지우다, 줄을 긋다 / "We crossed off almost everything." (110, 111)
+- **cross off** — (목록에서) 지우다, 줄을 긋다 / "He crossed it off, didn't he?" (011), "Everything's crossed off." (011, 111)
 
 ## 다음 화 예고 (낭독하지 않음)
 

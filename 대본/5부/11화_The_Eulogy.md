@@ -4,11 +4,11 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 5부 11화 · 서사 기능: 애도와 계승 — 펜이 이선에게
-> - 배경: 브롱크스의 장례식장(토요일 오전 11시, 예식 전 대기실 → 예식) → 장례식장 앞 → 오후 Hale Models 로프트의 추모 모임. 2027년 9월 중순
+> - 배경: 브롱크스의 장례식장(토요일 오전 11시, 예식 전 대기실 → 예식) → 장례식장 앞 → 오후 Hale Models 로프트의 추모 모임. 2027년 10월 초
 > - 등장인물: Ethan, Hannah, Marcus, Nora, Rita, Maya, Mr. Goldberg, Kai, Sasha, Leo, Claire, Sal
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "That was your one job", "cut the line", "rest easy", "I told you so", "Sue me", "hold someone to it", "worth signing"
-> - 복선/연결: 5부 10화 월터의 장례 지시서(시나트라, 추도사 순서) 그대로 진행 · 1부 14화 월터의 "Good play." 회상 · 클레어의 기한(10월 1일) → 5부 12화 · 마야의 조건 5번("떠나면 나한테 먼저") · 월터의 몽블랑 펜 → 5부 14화 서명
+> - 복선/연결: 5부 10화 월터의 장례 지시서(시나트라, 추도사 순서) 그대로 진행 · 1부 14화 월터의 "Good play." 회상 · 클레어의 기한(10월 15일) · 5부 7화 코니아일랜드 목록 8번 회상 → 5부 12화 · 마야의 조건 5번("떠나면 나한테 먼저") · 월터의 몽블랑 펜 → 5부 14화 서명
 
 ---
 
@@ -212,8 +212,8 @@
 066. MAYA: True. Every word.
     마야: 맞아. 한 마디도 틀린 거 없어.
 
-067. ETHAN: I wasn't a great son. For ten years, I worked for the competition. Some of them are here.
-    이선: 저는 좋은 아들이 아니었어요. 10년 동안 경쟁사에서 일했죠. 그중 몇 분은 여기 계시고요.
+067. ETHAN: I wasn't a great son. At twenty-five, I went to the competition. He didn't call me for eleven months.
+    이선: 저는 좋은 아들이 아니었어요. 스물다섯에 경쟁사로 갔죠. 아버지는 열한 달 동안 전화 한 통 안 하셨어요.
 
 068. ETHAN: Then I left the business completely. I told him modeling was a dying industry.
     이선: 그러다 업계를 아예 떠났어요. 아버지한테 모델 업계는 죽어 가는 산업이라고 했죠.
@@ -233,14 +233,14 @@
 073. MR. GOLDBERG: Three times. I counted.
     골드버그: 세 번이야. 세어 봤지.
 
-074. ETHAN: He never told me he was proud of me. That wasn't his language.
-    이선: 아버지는 저한테 자랑스럽다는 말을 한 번도 안 하셨어요. 그분 언어가 아니었거든요.
+074. ETHAN: He wasn't a man who said "I'm proud of you." That wasn't his language.
+    이선: 아버지는 "자랑스럽다"는 말을 하는 분이 아니었어요. 그분 언어가 아니었거든요.
 
-075. ETHAN: But last New Year's Eve, I told the team my plan. And he said two words. "Good play."
-    이선: 하지만 작년 마지막 날, 제가 팀에 계획을 발표했을 때 아버지가 딱 두 마디 하셨어요. "좋은 작전."
+075. ETHAN: Last New Year's Eve, he gave me two words. "Good play." I lived on those for nine months.
+    이선: 작년 마지막 날, 아버지가 두 마디를 주셨어요. "좋은 작전." 저는 아홉 달을 그걸로 버텼죠.
 
-076. ETHAN: I've been living on those two words for nine months.
-    이선: 저는 아홉 달 동안 그 두 마디로 버텼어요.
+076. ETHAN: Then, two weeks ago, on the boardwalk at Coney Island, he finally said it. Number eight on his list.
+    이선: 그러다 2주 전, 코니아일랜드 보드워크에서, 마침내 그 말을 하셨어요. 목록의 8번이었죠.
 
 077. ETHAN: In '96, my father had a fax machine and nerve. That's the story he told everybody.
     이선: 96년에 아버지한테는 팩스 한 대랑 배짱이 있었죠. 아버지가 모두에게 하던 이야기예요.
@@ -284,8 +284,8 @@
 090. CLAIRE: Nobody does. It's not personal. It's... well. Today it is personal.
     클레어: 아무도 몰라. 사적인 감정 아니야. 이건… 글쎄. 오늘은 사적인 거네.
 
-091. CLAIRE: About my offer. My investors gave me until October first. After that, it's Dallas.
-    클레어: 내 제안 말인데. 투자자들이 10월 1일까지 기한을 줬어. 그 후엔 댈러스야.
+091. CLAIRE: About my offer. My investors gave me until October fifteenth. After that, it's Dallas.
+    클레어: 내 제안 말인데. 투자자들이 10월 15일까지 기한을 줬어. 그 후엔 댈러스야.
 
 092. ETHAN: You'll have my answer before then. I promise.
     이선: 그 전에 대답 드릴게요. 약속해요.
@@ -335,14 +335,14 @@
 107. ETHAN: I remember. He yelled at me. Then he framed it.
     이선: 기억나요. 소리 지르셨죠. 그러고 그걸 액자에 넣으셨고요.
 
-108. RITA: It's still in his apartment. There's a note, too. In the box.
-    리타: 아직 그 집에 있어. 상자 안에 쪽지도 있어.
+108. RITA: It's still in his apartment. I took the pen from his top drawer. There's a note, too.
+    리타: 아직 그 집에 있어. 펜은 그 양반 맨 위 서랍에서 꺼내 왔어. 쪽지도 있어.
 
 109. ETHAN: Will you read it? I don't think I can.
     이선: 읽어 주실래요? 전 못 할 것 같아요.
 
-110. RITA: "Ethan. This pen signed the first contract. Don't put it in a drawer."
-    리타: "이선. 이 펜으로 첫 계약서에 서명했다. 서랍에 넣어 두지 마라."
+110. RITA: "Ethan. This pen signed the first contract. Don't put it back in a drawer."
+    리타: "이선. 이 펜으로 첫 계약서에 서명했다. 다시 서랍에 넣어 두지 마라."
 
 111. RITA: "Sign something worth signing. You'll know what. You always know. You just take too long."
     리타: "서명할 가치가 있는 걸 서명해라. 뭔지 알 거다. 넌 늘 알아. 그냥 너무 오래 걸릴 뿐이지."
