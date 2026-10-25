@@ -8,14 +8,14 @@
 > - 등장인물: Walter, Ethan, Hannah, Leo, Nate(전화)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "old dog, new tricks", "get fired", "let someone win", "be soft on someone", "pull every model", "a fair shot", "Great minds (think alike)"
-> - 복선/연결: 3부 10화 "펜 가져와, 긴 얘기야"에서 이어짐. "Define working"의 원래 주인은 골드버그(→3부 13화 골드버그의 도움). 로프트 지하에 보관된 옛 물건들(→3부 14화 복귀). 월터의 "공정한 북(a fair book)"(→3부 14화 마야의 복귀 조건, 4부 1화). 이선이 케슬러 펜으로 서명했다는 사실(3부 4화 복선 회수). 네이트의 '큰 발표'(→3부 12화 이사회).
+> - 복선/연결: 3부 10화 "펜 가져와, 긴 얘기야"에서 이어짐. "Define working"의 원래 주인은 골드버그(→3부 13화 골드버그의 도움). 골드버그가 비워 둔 로프트 4층에 그대로 남은 옛 물건들(→3부 14화 복귀). 월터의 "공정한 북(a fair book)"(→3부 14화 마야의 복귀 조건, 4부 1화). 이선이 네이트의 티타늄 케슬러 펜으로 서명했다는 사실(3부 4화 복선 회수). 네이트의 '큰 발표'(→3부 12화 이사회).
 
 ---
 
 ## 대본
 
-001. HANNAH: Okay, Dad. Here it is. The Montblanc. Top drawer, under the racing forms.
-    해나: 자, 아빠. 여기. 몽블랑. 맨 위 서랍, 경마 신문 밑에 있더라.
+001. HANNAH: Okay, Dad. Here it is. The Montblanc. Rita sent it. Top left drawer, under the racing forms.
+    해나: 자, 아빠. 여기. 몽블랑. 리타가 보내 줬어. 왼쪽 맨 위 서랍, 경마 신문 밑에 있었대.
 
 002. WALTER: Racing forms are... research.
     월터: 경마 신문은… 연구 자료야.
@@ -158,8 +158,8 @@
 048. LEO: Okay, so. Remember all the stuff we didn't bring to the new office? The "junk"?
     레오: 그러니까요. 새 사무실에 안 가져간 물건들 기억나요? "잡동사니"라고 했던 거?
 
-049. LEO: Mr. Goldberg kept it in the basement of the loft. He let me in this morning.
-    레오: 골드버그 씨가 로프트 지하에 보관해 두셨더라고요. 오늘 아침에 들여보내 주셨어요.
+049. LEO: Mr. Goldberg kept it all on the fourth floor. Exactly where we left it. He let me in this morning.
+    레오: 골드버그 씨가 4층에 전부 그대로 두셨더라고요. 우리가 두고 온 그대로요. 오늘 아침에 들여보내 주셨어요.
 
 050. LEO: And I found this. With a label. In Rita's handwriting. "DO NOT THROW OUT. EVER."
     레오: 그리고 이걸 찾았어요. 라벨 붙어서. 리타 글씨로. "절대 버리지 말 것. 영원히."
@@ -329,8 +329,8 @@
 105. WALTER: Did you use... my pen? For Nate?
     월터: 너… 내 펜 썼냐? 네이트 계약에?
 
-106. ETHAN: No. I used a Kessler pen. It had their logo on it. It was very heavy.
-    이선: 아니. 케슬러 펜 썼어. 그 회사 로고 박힌 거. 엄청 무거웠어.
+106. ETHAN: No. I used Nate's pen. Titanium. Kessler logo. You could stab a bagel with it.
+    이선: 아니. 네이트 펜 썼어. 티타늄. 케슬러 로고 박힌 거. 베이글도 찌를 수 있을 만큼 단단한 거.
 
 107. WALTER: Good. Something in you... knew.
     월터: 잘했다. 네 안의 뭔가가… 알았던 거야.

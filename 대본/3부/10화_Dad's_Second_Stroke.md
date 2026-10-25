@@ -8,7 +8,7 @@
 > - 등장인물: Ethan, Hannah, Dr. Levine(신경과 의사), Rita, Nora, Walter
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "tell it to me straight", "take turns", "come running", "make partner", "There it is.", "scared someone half to death", "stable"
-> - 복선/연결: 3부 9화 마지막 해나의 전화에서 바로 이어짐. 월터가 쓰러지기 전 '옛 로프트'에 전화(→3부 14화 21번가 복귀). 해나가 케슬러 서류를 다시 읽기 시작(→3부 13화 키맨 조항). 마야의 해바라기(→3부 14화). 월터의 펜(→3부 11화 창업 이야기, 5부 14화).
+> - 복선/연결: 3부 9화 마지막 해나의 전화에서 바로 이어짐. 월터가 쓰러지기 전 '옛 로프트'에 전화(→3부 14화 21번가 복귀). 해나가 끝까지 못 읽은 제11조를 다시 읽기 시작(→3부 13화 키 퍼슨 조항). 마야의 해바라기(→3부 14화). 월터의 펜은 리타가 넣어 둔 왼쪽 맨 위 서랍에(3부 4화) → 3부 11화 창업 이야기, 5부 14화.
 
 ---
 
@@ -224,8 +224,8 @@
 070. ETHAN: And?
     이선: 그래서?
 
-071. HANNAH: Nothing yet. But something's bothering me. Give me time.
-    해나: 아직 아무것도. 근데 뭔가 걸려. 시간 좀 줘.
+071. HANNAH: Section eleven. The part I never finished before you signed. Give me time.
+    해나: 11조. 오빠가 서명하기 전에 내가 끝까지 못 읽은 부분. 시간 좀 줘.
 
 072. ETHAN: Hannah. Thank you. For all of it. The pills, the insurance, all of it.
     이선: 해나. 고마워. 전부 다. 약이며 보험이며, 전부.
@@ -365,8 +365,8 @@
 117. WALTER: My pen. Where's... my pen?
     월터: 내 펜. 내… 펜 어디 있어?
 
-118. HANNAH: His Montblanc? It's at your apartment, Dad. In the desk drawer.
-    해나: 몽블랑? 아빠 집에 있어. 책상 서랍에.
+118. HANNAH: His Montblanc? Rita says it's in the top left drawer, Dad. Where it always is.
+    해나: 몽블랑? 리타 말로는 왼쪽 맨 위 서랍에 있대, 아빠. 늘 있던 자리에.
 
 119. WALTER: Bring it. And... sit down. Both of you. Long story.
     월터: 가져와. 그리고… 앉아. 둘 다. 긴 얘기야.

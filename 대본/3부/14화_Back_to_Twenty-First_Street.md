@@ -8,7 +8,7 @@
 > - 등장인물: Ethan, Maya, Kai, Mr. Goldberg, Leo, Rita, Sal, Hannah, Jules, Priya
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "out of practice", "change the subject", "wire money", "on the house", "Pay up.", "run over", "fair book", "Noted."
-> - 복선/연결: 3부 13화 골드버그의 세 번째 조건 → 마야의 집 방문과 사과. 3부 8화 "숫자 때문이야" → "겁나서였어"로 정정. 3부 9화 마야 파일 84페이지·줄스의 콜 타임 회수. 3부 11화 팩스기가 로프트에서 다시 울림 — 월터의 "Good play"(1부 14화 반복). 마야의 조건 '공정한 북'(투명한 수수료, 30일 내 지급) → 4부 1화 'Fair Book' 공식 발표. 월터의 펜은 아직 쓰지 않음(→5부 14화).
+> - 복선/연결: 3부 13화 골드버그의 세 번째 조건 → 마야의 집 방문과 사과. 3부 8화 "숫자 때문이야" → "겁나서였어"로 정정. 3부 9화 마야 파일 84페이지·줄스의 콜 타임 회수. 3부 11화 팩스기가 로프트에서 다시 울림 — 월터의 "Good play"(1부 14화 반복). 마야의 조건 '공정한 북'(투명한 수수료, 30일 내 지급) → 4부 1화 'Fair Book' 공식 발표. 보드 뒤 벽의 연필 낙서 "W.H. + R.S., March 1997. We made rent."(3부 5화) 재발견. 월터의 펜은 아직 쓰지 않음(→5부 14화).
 
 ---
 
@@ -338,11 +338,11 @@
 108. KAI: Not low-key, bro. High-key. Maximum key.
     카이: 은근이 아니지, 형. 대놓고지. 최대치로.
 
-109. RITA: Look at that. It's not full. But it's ours.
-    리타: 저것 좀 봐. 꽉 차진 않았어. 그래도 우리 거야.
+109. RITA: Wait. Look at the wall behind it. "W.H. plus R.S., March 1997. We made rent." Still there.
+    리타: 잠깐. 그 뒤 벽 좀 봐. "W.H. + R.S., 1997년 3월. 월세 냈다." 아직 있네.
 
-110. ETHAN: It's not full yet. Give it time.
-    이선: 아직은 안 찼지. 시간을 줘.
+110. ETHAN: We made rent too, Rita. Barely. The board's not full yet. Give it time.
+    이선: 우리도 월세 냈어, 리타. 겨우. 보드는 아직 안 찼어. 시간을 줘.
 
 111. MAYA: What's that noise? That ringing. Is that... the fax machine?
     마야: 저거 무슨 소리야? 저 울리는 소리. 혹시… 팩스기야?

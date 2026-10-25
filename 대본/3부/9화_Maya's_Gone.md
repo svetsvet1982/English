@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 9화 · 서사 기능: 공백의 체감 / 신뢰 붕괴
-> - 배경: 허드슨 야드 근처 새 사무실, 2027년 5월 둘째 주 — 월요일 오전 → 수요일 밤 → 목요일(오전 통화, 저녁 계단실, 자정)
+> - 배경: 허드슨 야드 근처 새 사무실 32층, 2027년 5월 둘째 주 — 월요일 오전 → 수요일 밤 → 목요일(오전 통화, 저녁 계단실, 자정)
 > - 등장인물: Ethan, Leo, Rita, Kai(전화), Nate, Marcus(전화), Jules, Hannah(전화)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "double-booked", "soft hold", "buyout", "rate card", "take a message", "That's on you", "for what it's worth"
@@ -59,11 +59,11 @@
 015. ETHAN: Some offense taken. Okay. Here's the play. I take bookings. Leo takes socials and new faces.
     이선: 약간 상처받았어. 좋아. 작전은 이거야. 예약은 내가 맡을게. 레오는 SNS랑 신인.
 
-016. LEO: And the influencer division? Nate wants the launch deck by Friday.
-    레오: 인플루언서 사업부는요? 네이트가 금요일까지 런칭 자료 달래요.
+016. LEO: And Hale Digital? Nate wants the launch deck by Friday. And I'm supposed to be half-time on models.
+    레오: 헤일 디지털은요? 네이트가 금요일까지 런칭 자료 달래요. 그리고 전 원래 모델 일도 절반은 해야 되잖아요.
 
-017. ETHAN: And the influencer division. Rita takes... everything else.
-    이선: 인플루언서 사업부도. 리타는… 나머지 전부.
+017. ETHAN: Hale Digital too. Rita takes... everything else.
+    이선: 헤일 디지털도. 리타는… 나머지 전부.
 
 018. RITA: Everything else. So, my normal job, plus the coffee machine.
     리타: 나머지 전부라. 그러니까 내 원래 일에다 커피 기계까지.
@@ -272,8 +272,8 @@
 086. JULES: Priya did. We share a room at the model apartment. She's packing right now.
     줄스: 프리야가요. 모델 숙소에서 같은 방 쓰거든요. 지금 짐 싸고 있어요.
 
-087. JULES: She's moving back to New Jersey. Her mom's place. She cried all night.
-    줄스: 뉴저지로 돌아간대요. 엄마 집으로. 밤새 울었어요.
+087. JULES: She's moving back to Edison. Her mom's place. She cried all night.
+    줄스: 에디슨으로 돌아간대요. 엄마 집으로. 밤새 울었어요.
 
 088. ETHAN: I set her up with two agencies. One already wants to meet her.
     이선: 에이전시 두 곳 연결해 줬어. 한 곳은 벌써 만나고 싶대.

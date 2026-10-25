@@ -7,8 +7,8 @@
 > - 배경: 2027년 5월 말~6월 초 — 미드타운 해나의 로펌 회의실(새벽 1시) → 새 사무실(다음 날 아침) → 케슬러 캐피털 → 웨스트 21번가 건물 1층 골드버그의 사무실(오후)
 > - 등장인물: Ethan, Hannah, Rita, Leo, Nate, Mr. Goldberg
 > - 난이도: B1–B2 · 턴 수: 120
-> - 이번 화의 핵심 표현: "key-man clause", "There's a catch.", "trigger (a clause)", "buy someone out", "show one's cards", "come to one's senses", "go under", "Pay me when you pay me."
-> - 복선/연결: 3부 10·12화 해나의 '걸리는 것' 회수 → 9.4항 재매입권. 3부 12화 네이트의 전 직원 메일이 조항을 발동시킴. 3부 11화 월터와 골드버그의 1996년 체스판이 반복됨(이번엔 골드버그가 이김). 골드버그의 세 번째 조건 → 3부 14화 마야의 집 방문.
+> - 이번 화의 핵심 표현: "key-person clause", "There's a catch.", "trigger (a clause)", "buy someone out", "show one's cards", "come to one's senses", "go under", "Pay me when you pay me."
+> - 복선/연결: 3부 10·12화 해나의 '걸리는 것' 회수 → 3부 3~4화에서 끝까지 못 읽고 '서명 보류'를 서면 권고했던 제11조, 11.4항 재매입권. 3부 12화 네이트의 전 직원 메일이 조항을 발동시킴. 3부 11화 월터와 골드버그의 1996년 체스판이 반복됨(이번엔 골드버그가 이김). 골드버그의 세 번째 조건 → 3부 14화 마야의 집 방문.
 
 ---
 
@@ -35,17 +35,17 @@
 007. ETHAN: Found what?
     이선: 뭘 찾았는데?
 
-008. HANNAH: The thing that was bothering me. It's in the investment agreement. Section nine. The key-man clause.
-    해나: 걸리던 거. 투자 계약서에 있어. 9조. 키맨 조항.
+008. HANNAH: The thing that was bothering me. Section eleven. The key-person clause. The part I never finished.
+    해나: 걸리던 거. 11조. 키 퍼슨 조항. 내가 끝까지 못 읽었던 그 부분.
 
-009. ETHAN: The key-man clause protects them. If I leave, they can pull out.
-    이선: 키맨 조항은 저쪽 보호용이잖아. 내가 나가면 저쪽이 발 뺄 수 있는.
+009. ETHAN: The part you told me to wait on. In writing. I know. I deserve whatever you say next.
+    이선: 기다리라고 서면으로 말했던 그거. 알아. 무슨 말을 해도 할 말 없어.
 
-010. HANNAH: That's nine-point-one. Everybody reads nine-point-one. Nobody reads nine-point-four.
-    해나: 그건 9.1항. 다들 9.1항은 읽지. 9.4항은 아무도 안 읽어.
+010. HANNAH: Eleven-point-one protects them. If you leave, they can pull out. Everybody reads that. Nobody reads eleven-point-four.
+    해나: 11.1항은 저쪽 보호용이야. 오빠가 나가면 저쪽이 발 뺄 수 있어. 다들 그건 읽지. 11.4항은 아무도 안 읽어.
 
-011. ETHAN: What's in nine-point-four?
-    이선: 9.4항엔 뭐가 있는데?
+011. ETHAN: What's in eleven-point-four?
+    이선: 11.4항엔 뭐가 있는데?
 
 012. HANNAH: "If the Investor materially reduces the Key Person's role without written consent..."
     해나: "투자자가 서면 동의 없이 핵심 인물의 역할을 실질적으로 축소할 경우…"
@@ -68,8 +68,8 @@
 018. ETHAN: They forgot. A firm with fifty lawyers forgot one paragraph.
     이선: 깜빡했다고. 변호사 50명 있는 로펌이 한 단락을 깜빡했다고.
 
-019. HANNAH: Fifty lawyers, and every one of them read nine-point-one and went to lunch.
-    해나: 50명이 다 9.1항만 읽고 점심 먹으러 간 거지.
+019. HANNAH: Fifty lawyers, and every one of them read eleven-point-one and went to lunch.
+    해나: 50명이 다 11.1항만 읽고 점심 먹으러 간 거지.
 
 020. ETHAN: And "Head of East Coast," reporting to LA. That counts as a reduced role?
     이선: 그럼 "동부 총괄", LA에 보고하는 자리. 그게 역할 축소로 쳐져?
@@ -98,8 +98,8 @@
 028. HANNAH: Thirty days from the email. That's June twenty-fourth. And the original price is two million dollars.
     해나: 메일 날짜로부터 30일. 6월 24일이야. 그리고 최초 매입가가 200만 달러야.
 
-029. ETHAN: Right. The second tranche never came. So two million.
-    이선: 맞아. 2차 투자금은 안 왔으니까. 그러니까 200만.
+029. ETHAN: Right. The other million wasn't due for a year anyway. So two million.
+    이선: 맞아. 나머지 100만은 어차피 1년 뒤에나 들어올 돈이었으니까. 그러니까 200만.
 
 030. HANNAH: Do you have two million dollars, Ethan?
     해나: 오빠, 200만 달러 있어?
@@ -125,8 +125,8 @@
 037. RITA: This office. The deposit, the furniture, the coffee machine that asks questions.
     리타: 이 사무실. 보증금, 가구, 질문하는 커피 기계.
 
-038. RITA: And your influencer division, honey. Ring lights are not cheap.
-    리타: 그리고 네 인플루언서 사업부, 얘. 링라이트는 안 싸.
+038. RITA: And Hale Digital, honey. Four hundred thousand for year one. Ring lights are not cheap.
+    리타: 그리고 헤일 디지털, 얘. 첫해 예산 40만. 링라이트는 안 싸.
 
 039. LEO: The ring lights were Nate's idea! I wanted one. He bought twelve.
     레오: 링라이트는 네이트 아이디어였어요! 전 하나만 원했는데. 열두 개 샀다고요.
@@ -176,11 +176,11 @@
 054. ETHAN: No dinner, Nate. We're here to deliver a letter.
     이선: 저녁 말고요, 네이트. 편지 전달하러 왔어요.
 
-055. HANNAH: Formal notice. Hale Models is exercising its repurchase right under Section nine-point-four.
-    해나: 공식 통지입니다. 헤일 모델스는 9.4항에 따라 지분 재매입권을 행사합니다.
+055. HANNAH: Formal notice. Hale Models is exercising its repurchase right under Section eleven-point-four.
+    해나: 공식 통지입니다. 헤일 모델스는 11.4항에 따라 지분 재매입권을 행사합니다.
 
-056. NATE: Nine-point-four? What's nine-point-four?
-    네이트: 9.4항? 9.4항이 뭔데요?
+056. NATE: Eleven-point-four? What's eleven-point-four?
+    네이트: 11.4항? 11.4항이 뭔데요?
 
 057. HANNAH: Ask your lawyers. All fifty. They can read it after lunch.
     해나: 변호사들한테 물어보세요. 50명 전부한테. 점심 먹고 읽으면 되겠네요.
@@ -378,7 +378,7 @@
 
 ## 핵심 표현 정리 (낭독하지 않음)
 
-- **key-man clause** — 키맨 조항(핵심 인물 조항) / Section nine. The key-man clause. (008)
+- **key-person clause** — 키 퍼슨 조항(핵심 인물 조항) / Section eleven. The key-person clause. (008)
 - **pull out** — (투자 등에서) 발을 빼다 / If I leave, they can pull out. (009)
 - **buy someone out** — ~의 지분을 사들이다 / we can buy them out (015)
 - **trigger** — (조항·사건을) 발동시키다 / He triggered it himself. (024)
