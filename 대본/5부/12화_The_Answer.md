@@ -176,8 +176,8 @@
 054. CLAIRE: Your father. Do you know he said no to me once before? In 2009.
     클레어: 네 아버지. 예전에 나한테 한 번 거절했던 거 알아? 2009년에.
 
-055. ETHAN: I know. You tried to buy Hale. He told me at Coney Island.
-    이선: 알아요. Hale을 사려고 하셨죠. 코니아일랜드에서 들었어요.
+055. ETHAN: I know. You tried to buy Hale. Dad told me. Proudly.
+    이선: 알아요. Hale을 사려고 하셨죠. 아빠가 말해 줬어요. 아주 자랑스럽게.
 
 056. CLAIRE: He hung up on me. Mid-sentence. I was offering him four million dollars.
     클레어: 내 말 중간에 전화를 끊었어. 4백만 달러를 제안하던 중이었는데.
@@ -209,8 +209,8 @@
 065. ETHAN: As someone you trained. Don't let Dallas hold your pen either. Fight them.
     이선: 당신이 가르친 사람으로서요. 당신 펜도 댈러스가 쥐게 두지 마세요. 싸우세요.
 
-066. ETHAN: We bought ourselves back from Kessler with nothing. You still have Milan and London.
-    이선: 우린 맨손으로 케슬러한테서 우리 회사를 되찾았어요. 당신한텐 아직 밀라노랑 런던이 있잖아요.
+066. ETHAN: We bought ourselves back from Kessler with almost nothing. You still have Milan and London.
+    이선: 우린 거의 맨손으로 케슬러한테서 우리 회사를 되찾았어요. 당신한텐 아직 밀라노랑 런던이 있잖아요.
 
 067. CLAIRE: You're telling me to do what you did.
     클레어: 너희가 한 걸 나더러 하라는 거네.
