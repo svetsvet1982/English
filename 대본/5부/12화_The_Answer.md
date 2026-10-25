@@ -56,8 +56,8 @@
 014. MAYA: And here?
     마야: 그럼 여기서는?
 
-015. ETHAN: Here, we hold it, you and me, and we go fifty-fifty on every hard decision, even the ones I'd secretly rather make on my own.
-    이선: 여기서는 우리가 쥐지. 너랑 나. 어려운 결정은 전부 반반이야. 속으로는 나 혼자 하고 싶은 결정까지도.
+015. ETHAN: Here, we hold it, you and me, and we go fifty-fifty on every hard decision, even the ones I'd secretly rather make all on my own.
+    이선: 여기서는 우리가 쥐지. 너랑 나. 어려운 결정은 전부 반반이야. 속으로는 나 혼자 다 하고 싶은 결정까지도.
 
 016. MAYA: Noted. But what about the debt? Claire's deal would've cleared a million dollars, Ethan. Your apartment, everything. That's not nothing.
     마야: 접수. 근데 빚은? 클레어 딜이었으면 백만 달러가 없어졌을 거야, 이선. 네 아파트, 전부. 그거 작은 거 아니야.
@@ -272,11 +272,11 @@
 086. HELENE: Congratulations, Maya. So. Will you come to Paris, Ethan? For one year?
     엘렌: 축하해요, 마야. 그래서. 파리에 올 건가요, 이선? 1년 동안?
 
-087. ETHAN: No, I can't. And honestly, even if I could, I don't think the partnership needs me to be sitting there full-time in order to work.
-    이선: 아니요, 못 가요. 그리고 솔직히, 갈 수 있다 해도 파트너십이 잘되려면 제가 거기 상주해야 한다고는 생각 안 해요.
+087. ETHAN: No, I can't. And honestly, even if I could, I don't think the partnership needs me to be sitting there full-time in order to make it work.
+    이선: 아니요, 못 가요. 그리고 솔직히, 갈 수 있다 해도 파트너십을 잘 굴리려면 제가 거기 상주해야 한다고는 생각 안 해요.
 
-088. HELENE: A partnership lives or dies in its first year. I told you that the very first time we spoke, Ethan, and I still believe it.
-    엘렌: 파트너십은 첫해에 살거나 죽어요. 우리가 맨 처음 얘기했을 때 말했잖아요, 이선. 지금도 그렇게 믿어요.
+088. HELENE: A partnership lives or dies in its first year. I told you that the very first time we spoke, Ethan, and I still believe it today.
+    엘렌: 파트너십은 첫해에 살거나 죽어요. 우리가 맨 처음 얘기했을 때 말했잖아요, 이선. 오늘도 여전히 그렇게 믿어요.
 
 089. ETHAN: I agree, and that's exactly why I'm making a counteroffer. "One book, two cities." Those were your words, not mine.
     이선: 동의해요. 그래서 바로 역제안을 하는 거예요. '하나의 북, 두 도시.' 제 말이 아니라 당신이 한 말이에요.
@@ -326,8 +326,8 @@
 104. ETHAN: Of course you do.
     이선: 그러실 줄 알았어요.
 
-105. HELENE: The first week, you both come, together, because people in Paris need to see your faces in person before they'll trust you with anything important.
-    엘렌: 첫 주는 두 사람이 같이 와요. 함께. 파리 사람들은 얼굴을 직접 봐야 중요한 일을 믿고 맡기거든요.
+105. HELENE: The first week, you both come, together, because people in Paris need to see your faces in person before they'll trust you with anything really important.
+    엘렌: 첫 주는 두 사람이 같이 와요. 함께. 파리 사람들은 얼굴을 직접 봐야 정말 중요한 일을 믿고 맡기거든요.
 
 106. MAYA: Both of us? In Paris? ...Noted. Very noted.
     마야: 둘 다요? 파리에? …접수. 아주 확실히 접수.

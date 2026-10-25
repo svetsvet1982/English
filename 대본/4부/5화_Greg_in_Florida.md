@@ -380,7 +380,7 @@
 
 - **go dark** — 연락을 끊다, 잠수 타다 (003)
 - **zoom in on** — ~을 확대하다 / 선글라스 반사 (009)
-- **track someone down** — 끝까지 추적해 찾아내다 / 레오의 나흘 밤 (013~018)
+- **track someone down** — 끝까지 추적해 찾아내다 / 레오의 나흘 밤 (013~019)
 - **subpoena** — 소환장(을 보내다) (024)
 - **day trip / first flight out** — 당일치기 / 첫 비행기 (027)
 - **a long shot** — 가능성이 낮은 시도 (033, 034)
@@ -390,6 +390,8 @@
 - **stake out** — 잠복하다 (080)
 - **Long time no see.** — 오랜만이야 (104)
 - **Leave her out of it.** — 그 애는 빼 (107)
+- **it turns out (that) …** — 알고 보니 ~이다 / 플로리다의 공개 선박 데이터베이스 (013)
+- **If we'd missed …, nobody would have believed …** — ~했더라면 …했을 것이다 (가정법 과거완료) / 첫 지급일의 의미 (086)
 
 ## 다음 화 예고 (낭독하지 않음)
 

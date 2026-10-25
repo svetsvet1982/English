@@ -8,7 +8,7 @@
 > - 등장인물: Rita, Jules, Tessa, Maya, Ethan(전화·영상통화), Margaux, Hélène, Nora, Waiter(비스트로 웨이터, 단역), Mrs. Okafor
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "It runs in the family", "ground rules", "read over someone's shoulder", "a down payment", "at heart", "be all there", "make it a work problem", "for tonight"
-> - 복선/연결: 1부 1화 랭커스터행 10시 15분 막차의 반복 · 6부 4화 이선의 새 목록 1번(세 단어)은 아직 지워지지 않음 · 이선의 크리스마스 주간 파리 근무(마야와 번갈아) · 터커가 푸르니에 부인에게 보낸 선물 바구니 → 6부 11화 · 마고가 고른 마리 다리 근처 돌계단과 마야의 조언("밤새 폰을 끌 수 있을 때") → 6부 13화 청혼 · 엔딩의 클레어 문자 → 6부 9화 「Claire in Milan」
+> - 복선/연결: 6부 7화 엔딩 "Define stupid."와 엘렌이 잡아 준 레스토랑 · 1부 1화 랭커스터행 10시 15분 막차의 반복 · 6부 4화 이선의 새 목록 1번(세 단어)은 아직 지워지지 않음 · 이선의 크리스마스 주간 파리 근무(마야와 번갈아) · 터커가 푸르니에 부인에게 보낸 선물 바구니 → 6부 11화 · 마고가 고른 마리 다리 근처 돌계단과 마야의 조언("밤새 폰을 끌 수 있을 때") → 6부 13화 청혼 · 엔딩의 클레어 문자 → 6부 9화 「Claire in Milan」
 
 ---
 
@@ -143,8 +143,8 @@
 043. MARGAUX: That's not a plan. That's a hope. Okay. I'll make you a plan.
     마고: 그건 계획이 아니에요. 희망이지. 좋아요. 제가 계획 짜 줄게요.
 
-044. MARGAUX: Dinner at Chez Paulette in the Marais. My aunt's friend owns it. Window table. Eight o'clock.
-    마고: 마레 지구 '셰 폴레트'에서 저녁. 우리 이모 친구 가게예요. 창가 자리. 8시.
+044. MARGAUX: Hélène already booked your dinner. Chez Paulette in the Marais. My aunt's friend owns it. Window table. Eight o'clock.
+    마고: 저녁은 엘렌이 벌써 예약했어요. 마레 지구 '셰 폴레트'. 우리 이모 친구 가게예요. 창가 자리. 8시.
 
 045. MARGAUX: Then you walk to the river. Not a bridge. Jules told me. Everybody does bridges.
     마고: 그다음 강가로 걸어가요. 다리는 말고요. 줄스가 그랬어요. 다들 다리에서 한대요.
@@ -203,8 +203,8 @@
 063. NORA: And then you get a tiny, sad espresso.
     노라: 그러면 작고 슬픈 에스프레소가 나오지.
 
-064. ETHAN: Every time. Margaux found this place. Her aunt's friend owns it.
-    이선: 매번. 여긴 마고가 찾았어. 마고 이모 친구 가게래.
+064. ETHAN: Every time. Hélène booked this place. Margaux's aunt's friend owns it.
+    이선: 매번. 여긴 엘렌이 예약해 줬어. 마고 이모 친구 가게래.
 
 065. WAITER: Bonsoir. The duck for two, and the Bordeaux. Joyeux Noël, monsieur, madame.
     웨이터: 봉수아르. 2인용 오리 요리와 보르도입니다. 즐거운 성탄 보내세요, 무슈, 마담.
