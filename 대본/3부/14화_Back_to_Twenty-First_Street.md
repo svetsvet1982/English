@@ -20,8 +20,8 @@
 002. MAYA: How did you get my address?
     마야: 제 주소 어떻게 알았어요?
 
-003. ETHAN: Rita. Apparently, she's had it ready since Monday, just in case I ever worked up the nerve to come.
-    이선: 리타. 월요일부터 준비해 뒀대. 내가 혹시라도 올 용기를 낼까 봐.
+003. ETHAN: Rita. Apparently she's had it ready since Monday.
+    이선: 리타. 월요일부터 준비해 뒀대. 그렇다더라.
 
 004. MAYA: Of course she has. That woman should work for the FBI.
     마야: 그럴 줄 알았어요. 그 아줌마는 FBI에서 일해야 돼요.
@@ -35,8 +35,8 @@
 007. ETHAN: It's a very weak threat. I'm out of practice.
     이선: 아주 약한 협박이지. 감이 떨어져서.
 
-008. MAYA: Five minutes. Shoes off, please, because my mother would kill me if she found out I let anyone walk on this rug in shoes.
-    마야: 5분이요. 신발 벗어 주세요. 이 러그 위를 신발 신고 걷게 한 걸 엄마가 알면 저 죽어요.
+008. MAYA: Five minutes. Shoes off, please, because my mother would kill me if she found out I let anyone walk on this rug in shoes. She brought it from Lagos.
+    마야: 5분이요. 신발 벗어 주세요. 이 러그 위를 신발 신고 걷게 한 걸 엄마가 알면 저 죽어요. 라고스에서 가져오신 거예요.
 
 009. ETHAN: Your place is nice. Is that a sewing machine?
     이선: 집 좋네. 저거 재봉틀이야?
@@ -47,8 +47,8 @@
 011. ETHAN: Rita said you were watching cooking shows.
     이선: 리타는 너 요리 프로 본다던데.
 
-012. MAYA: Rita exaggerates. I watched one. Okay, nine — but they were very educational. You have four minutes left.
-    마야: 리타가 부풀린 거예요. 하나 봤어요. 아니, 아홉 개요. 근데 엄청 교육적이었어요. 4분 남았어요.
+012. MAYA: Rita exaggerates. I watched one. Okay, nine. You have four minutes.
+    마야: 리타가 부풀린 거예요. 하나 봤어요. 아니, 아홉 개. 4분 남았어요.
 
 013. ETHAN: Okay. I'm not going to say "Here's the play," because there's no play this time. There's just me, saying what I should have said weeks ago.
     이선: 그래. "작전은 이거야"라고 안 할게. 이번엔 작전 같은 거 없으니까. 그냥 몇 주 전에 했어야 할 말을 하는 나만 있어.
@@ -92,8 +92,8 @@
 026. MAYA: Don't change the subject. What money?
     마야: 말 돌리지 마요. 무슨 돈이요?
 
-027. ETHAN: The Kessler money we hadn't spent yet, plus the deposit we got back on the new office, plus a loan from Mr. Goldberg. That's how.
-    이선: 아직 안 쓴 케슬러 돈, 새 사무실에서 돌려받은 보증금, 그리고 골드버그 씨 대출. 그렇게 한 거야.
+027. ETHAN: The Kessler money we hadn't spent yet, plus the deposit we got back on the new office, plus a loan from Mr. Goldberg. That's how we did it, and it was very close.
+    이선: 아직 안 쓴 케슬러 돈, 새 사무실에서 돌려받은 보증금, 그리고 골드버그 씨 대출. 그렇게 한 거야. 진짜 아슬아슬했어.
 
 028. MAYA: Goldberg? Mr. Goldberg? The same man who charged us a late fee on Christmas Eve, and then wished us a merry Christmas?
     마야: 골드버그요? 그 골드버그 씨? 크리스마스이브에 연체료 물려 놓고 메리 크리스마스라고 했던 그분?
@@ -104,8 +104,8 @@
 030. MAYA: What conditions?
     마야: 무슨 조건이요?
 
-031. ETHAN: Three of them. We go back to the loft on a ten-year lease, I play chess with him every Tuesday, and I bring you back.
-    이선: 세 가지. 10년 임대로 로프트로 돌아가기, 매주 화요일에 그분이랑 체스 두기, 그리고 너를 다시 데려오기.
+031. ETHAN: Three of them. We go back to the loft on a ten-year lease, I play chess with him every Tuesday, which I'm terrible at, and I bring you back.
+    이선: 세 가지. 10년 임대로 로프트로 돌아가기, 매주 화요일에 그분이랑 체스 두기 — 나 체스 엄청 못 두거든 — 그리고 너를 다시 데려오기.
 
 032. MAYA: He said that?
     마야: 그분이 그렇게 말했어요?
@@ -116,8 +116,8 @@
 034. MAYA: It was a bobby pin. And it only worked for a day.
     마야: 실핀이었어요. 그리고 딱 하루 작동했고요.
 
-035. ETHAN: Well, he's been grateful for eight years because of that one day. That tells you something about him.
-    이선: 그 하루 때문에 8년 동안 고마워하고 있어. 그분이 어떤 사람인지 알 만하지.
+035. ETHAN: He's been grateful for eight years. For one day.
+    이선: 그 하루 때문에 8년 동안 고마워하고 있어.
 
 036. MAYA: So I'm a loan condition. That's very romantic, Ethan.
     마야: 그러니까 제가 대출 조건이네요. 아주 낭만적이네요, 이선.
@@ -125,8 +125,8 @@
 037. ETHAN: You're not a condition. Forget Goldberg for a second. I'm the one asking — me, not him. Will you come back, Maya?
     이선: 넌 조건이 아니야. 골드버그 씨는 잠깐 잊어. 부탁하는 건 나야. 그분이 아니라 내가. 돌아와 줄래, 마야?
 
-038. MAYA: Two agencies called me last week, and they're good ones. Both of them offered me more money than Hale ever paid me, by a lot.
-    마야: 지난주에 에이전시 두 곳에서 연락 왔어요. 좋은 데들이에요. 둘 다 헤일이 준 것보다 돈을 훨씬 많이 준다고 했고요.
+038. MAYA: Two agencies called me last week, and they're good ones. Both of them offered me more money than Hale ever paid me, by a lot. And one of them has an elevator that works.
+    마야: 지난주에 에이전시 두 곳에서 연락 왔어요. 좋은 데들이에요. 둘 다 헤일이 준 것보다 돈을 훨씬 많이 준다고 했고요. 한 군데는 엘리베이터도 제대로 돼요.
 
 039. ETHAN: I know. Honestly, if I were them, I'd have called you the day you left.
     이선: 알아. 솔직히 내가 그쪽이었으면 네가 나간 날 바로 전화했을 거야.
@@ -143,8 +143,8 @@
 043. MAYA: And you wrote Kai's casting on the wrong day. Twice! Do you know how that feels for a booker? It made me physically sick.
     마야: 그리고 카이 캐스팅을 엉뚱한 날짜에 쓰셨더라고요. 두 번이나요! 부커한테 그게 어떤 기분인지 알아요? 진짜 속이 울렁거렸어요.
 
-044. ETHAN: I know. I'm a terrible booker now. Several people, including Marcus and Kai, have already confirmed it.
-    이선: 알아. 나 이제 형편없는 부커야. 마커스랑 카이 포함해서 여러 명이 벌써 확인해 줬어.
+044. ETHAN: I'm a terrible booker now. Several people have confirmed it.
+    이선: 나 이제 형편없는 부커야. 여러 명이 확인해 줬어.
 
 045. MAYA: One condition.
     마야: 조건 하나요.
@@ -155,14 +155,14 @@
 047. MAYA: Fair book.
     마야: 공정한 북.
 
-048. ETHAN: Fair book. My dad said those exact words to me last week, at the hospital, holding his pen.
-    이선: 공정한 북. 지난주에 병원에서 아빠가 펜을 쥐고 딱 그 말을 했어.
+048. ETHAN: Fair book. My dad said those exact words. In the hospital.
+    이선: 공정한 북. 아빠가 딱 그 말을 했어. 병원에서.
 
 049. MAYA: I know, because he said them to me first, during my very first week, eight years ago. I wrote it on a Post-it, and it's still on my fridge.
     마야: 알아요. 저한테 먼저 하셨거든요. 8년 전, 입사 첫 주에요. 포스트잇에 적어 뒀는데 아직도 우리 집 냉장고에 붙어 있어요.
 
-050. ETHAN: So tell me what it means to you — exactly, point by point — and I'll write it down.
-    이선: 그럼 그게 너한테 무슨 뜻인지 말해 줘. 정확히, 하나하나. 내가 받아 적을게.
+050. ETHAN: What does it mean? To you. Exactly.
+    이선: 그게 무슨 뜻이야? 너한테. 정확히.
 
 051. MAYA: First, Priya, Dani, and Wes come back, today, on full contracts, and you apologize to each of them yourself.
     마야: 첫째, 프리야, 대니, 웨스 복귀. 오늘, 정식 계약으로요. 그리고 대표님이 직접 한 명 한 명한테 사과하고요.
@@ -170,11 +170,11 @@
 052. MAYA: Second, every model sees every invoice, and our commission is in writing, so there are no surprises — not for the models, and not for us.
     마야: 둘째, 모든 모델이 모든 청구서를 본다. 우리 수수료는 서면으로. 그래야 뒤통수치는 일이 없죠. 모델들한테도, 우리한테도.
 
-053. MAYA: Third, they get paid within thirty days. Not ninety, and not "whenever the client pays." Thirty days, even if we have to cover it ourselves.
-    마야: 셋째, 30일 안에 돈 받는다. 90일 말고, "클라이언트가 낼 때" 말고. 우리가 먼저 메워야 하더라도 30일.
+053. MAYA: Third, they get paid within thirty days. Not ninety, and not "whenever the client pays." Thirty days, even if we have to cover it ourselves until the client pays.
+    마야: 셋째, 30일 안에 돈 받는다. 90일 말고, "클라이언트가 낼 때" 말고. 클라이언트가 낼 때까지 우리가 먼저 메워야 하더라도 30일.
 
-054. MAYA: And fourth, nobody's name is ever written in red on that board again. Ever. Not because of a score, and not because of a spreadsheet.
-    마야: 그리고 넷째, 그 보드에 누구 이름도 다시는 빨간색으로 안 쓴다. 절대. 점수 때문이든 스프레드시트 때문이든.
+054. MAYA: And fourth, nobody's name is ever written in red on that board again. Ever. Not because of a score, and not because of some spreadsheet from Hudson Yards.
+    마야: 그리고 넷째, 그 보드에 누구 이름도 다시는 빨간색으로 안 쓴다. 절대. 점수 때문이든, 허드슨 야드 어디서 나온 스프레드시트 때문이든.
 
 055. ETHAN: Thirty days. Rita's going to have a heart attack when she hears that.
     이선: 30일. 리타가 그 얘기 들으면 심장마비 오겠다.
@@ -188,8 +188,8 @@
 058. MAYA: Hey. That's my line.
     마야: 야. 그거 내 대사잖아.
 
-059. ETHAN: I'm just borrowing it, the same way Dad borrowed "Define working" from Goldberg thirty years ago.
-    이선: 그냥 빌리는 거야. 30년 전에 아빠가 골드버그 씨한테서 "정상 작동을 정의해 봐"를 빌린 것처럼.
+059. ETHAN: I'm borrowing it. Like Dad borrowed "Define working" from Goldberg.
+    이선: 빌리는 거야. 아빠가 골드버그 씨한테서 "정상 작동을 정의해 봐"를 빌린 것처럼.
 
 060. MAYA: Wait, that's Goldberg's? Unbelievable. Okay. Give me ten minutes. I'm putting on real pants.
     마야: 잠깐, 그게 골드버그 씨 거야? 말도 안 돼. 좋아. 10분만 줘. 제대로 된 바지 입고 나올게.
@@ -221,8 +221,8 @@
 069. SAL: Delivery! Twelve bacon, egg, and cheese. Salt, pepper, ketchup. On the house.
     샐: 배달이요! 베이컨 에그앤치즈 열두 개. 소금, 후추, 케첩. 서비스야.
 
-070. ETHAN: Sal! On the house? In thirty years, I've never seen you give away so much as a napkin.
-    이선: 샐! 서비스라고요? 30년 동안 냅킨 한 장 공짜로 주는 거 못 봤는데.
+070. ETHAN: Sal! On the house? You've never given anything away in thirty years.
+    이선: 샐! 서비스라고요? 30년 동안 뭘 공짜로 준 적이 없잖아요.
 
 071. SAL: Welcome-home special. One time. Tomorrow, the usual? Full price.
     샐: 귀가 기념 특별 서비스야. 딱 한 번. 내일부턴 늘 먹던 걸로? 제값 받고.
@@ -236,8 +236,8 @@
 074. ETHAN: Then this is the most expensive filing cabinet in New York.
     이선: 그럼 이게 뉴욕에서 제일 비싼 서류 캐비닛이네.
 
-075. HANNAH: By the way, Nate called me this morning. The wire cleared overnight, so as of today, Kessler Capital is officially out of the company.
-    해나: 그건 그렇고, 네이트가 아침에 전화했어. 송금이 밤사이 처리됐대. 그러니까 오늘부로 케슬러 캐피털은 공식적으로 회사에서 빠졌어.
+075. HANNAH: By the way, Nate called me this morning. The wire cleared overnight, so as of today, Kessler Capital is officially out of the company. It's done.
+    해나: 그건 그렇고, 네이트가 아침에 전화했어. 송금이 밤사이 처리됐대. 그러니까 오늘부로 케슬러 캐피털은 공식적으로 회사에서 빠졌어. 끝났어.
 
 076. ETHAN: How did he sound?
     이선: 목소리 어땠어?
@@ -251,8 +251,8 @@
 079. HANNAH: Maybe. As your lawyer— and your sister— I've never been prouder of a bad business decision.
     해나: 그럴지도. 오빠 변호사로서— 그리고 동생으로서— 이렇게 자랑스러운 나쁜 사업 결정은 처음이야.
 
-080. MAYA: Okay, everybody, stop what you're doing. The board goes on the east wall, exactly where it was for thirty years. Not one inch over.
-    마야: 자, 다들, 하던 거 멈춰. 보드는 동쪽 벽에. 30년 동안 있던 그 자리 그대로. 1센티도 옮기지 말고.
+080. MAYA: Okay, everybody, stop what you're doing. The board goes on the east wall, exactly where it was for thirty years. Not one inch over, Leo, I mean it.
+    마야: 자, 다들, 하던 거 멈춰. 보드는 동쪽 벽에. 30년 동안 있던 그 자리 그대로. 1센티도 옮기지 말고. 레오, 진심이야.
 
 081. LEO: Maya! You're here! You're actually here! Can I hug you? Is that allowed?
     레오: 마야 누나! 왔어요! 진짜 왔어요! 안아도 돼요? 그래도 돼요?
@@ -269,8 +269,8 @@
 085. RITA: Since the day you left, honey. Monday was just the day he finally worked up the courage to ask me for it.
     리타: 네가 나간 날부터야, 얘. 월요일은 쟤가 드디어 용기 내서 물어본 날이고.
 
-086. JULES: Hi. Sorry I'm late — my shoot in Dumbo ran over, because the photographer kept changing the light. Is this... where we live now?
-    줄스: 안녕하세요. 늦어서 죄송해요. 사진작가가 계속 조명을 바꾸는 바람에 덤보 촬영이 길어졌어요. 여기가… 이제 우리 집이에요?
+086. JULES: Hi. Sorry I'm late — my shoot in Dumbo ran over, because the photographer kept changing the light every five minutes. Is this... where we live now?
+    줄스: 안녕하세요. 늦어서 죄송해요. 사진작가가 5분마다 조명을 바꾸는 바람에 덤보 촬영이 길어졌어요. 여기가… 이제 우리 집이에요?
 
 087. ETHAN: This is where we always lived, Jules. We just went on a long, expensive trip for a while, and now we're home.
     이선: 원래 우리 집이야, 줄스. 잠깐 길고 비싼 여행을 다녀왔고, 이제 집에 온 거야.
@@ -296,8 +296,8 @@
 094. JULES: Maya wrote that? About me?
     줄스: 마야 언니가 그걸 썼어요? 저에 대해서?
 
-095. MAYA: I write everything down, sweetie, because people matter more than dates. Shoulders down, chin up. You belong here.
-    마야: 난 다 적어 둬, 줄스. 날짜보다 사람이 더 중요하니까. 어깨 내리고, 턱 들고. 넌 여기 있을 자격 있어.
+095. MAYA: I write everything down, sweetie. Shoulders down, chin up. You belong here.
+    마야: 난 다 적어 둬, 줄스. 어깨 내리고, 턱 들고. 넌 여기 있을 자격 있어.
 
 096. JULES: Is that... normal? Wanting to cry on moving day?
     줄스: 그거… 정상이에요? 이삿날에 울고 싶은 거?
@@ -314,8 +314,8 @@
 100. ETHAN: Priya. No, it's not weird at all. Come in, please. I owe you something, and I've been waiting to give it to you.
     이선: 프리야. 아니, 하나도 안 이상해. 들어와. 너한테 줄 게 있어. 주고 싶어서 기다리고 있었어.
 
-101. ETHAN: A new contract, full term, and an apology. In that order, or the other order — you pick, because this time, you get to decide.
-    이선: 새 계약서, 정식 기간으로. 그리고 사과. 이 순서든 반대 순서든 네가 골라. 이번엔 네가 정하는 거니까.
+101. ETHAN: A new contract, full term, and an apology. In that order, or the other order — you pick, because this time, you're the one who gets to decide.
+    이선: 새 계약서, 정식 기간으로. 그리고 사과. 이 순서든 반대 순서든 네가 골라. 이번엔 정하는 사람이 너니까.
 
 102. PRIYA: The apology first. Then the contract. Then I'll decide.
     프리야: 사과 먼저요. 그다음 계약서. 그다음에 결정할게요.
@@ -332,8 +332,8 @@
 106. MAYA: Okay. Last name on the board. Leo, the marker — the black one, not the red one. We're done with red in this office.
     마야: 자. 보드에 마지막 이름. 레오, 마커. 검은색. 빨간색 말고. 이 사무실에서 빨간색은 이제 끝이야.
 
-107. LEO: Priya Shah, back on the board where she belongs. Low-key, that's the best thing I've seen all year.
-    레오: 프리야 샤, 있어야 할 보드에 복귀. 은근 올해 본 것 중에 제일 좋네요.
+107. LEO: Priya Shah. Back on the board. Low-key, that's the best thing I've seen all year.
+    레오: 프리야 샤. 보드에 복귀. 은근 올해 본 것 중에 제일 좋네요.
 
 108. KAI: Not low-key, bro. High-key. Maximum key.
     카이: 은근이 아니지, 형. 대놓고지. 최대치로.
@@ -356,8 +356,8 @@
 114. RITA: The paper's coming out, and it's warm. Ethan, read it to us, because my glasses are in a box somewhere and I can't wait.
     리타: 종이 나온다. 따뜻해. 이선, 읽어 줘. 내 안경은 어느 상자 안에 있는데 도저히 못 기다리겠어.
 
-115. ETHAN: It's Dad's handwriting. He wrote it with his left hand, so it's shaky, but it's definitely him.
-    이선: 아빠 글씨야. 왼손으로 써서 떨리긴 하는데, 확실히 아빠야.
+115. ETHAN: It's Dad's handwriting. Left hand. It's shaky, but it's him.
+    이선: 아빠 글씨야. 왼손으로. 떨리긴 하는데, 아빠야.
 
 116. ETHAN: "Nurse helped. Welcome home. Good play, kid."
     이선: "간호사가 도와줌. 집에 온 걸 환영한다. 좋은 작전이었다, 아들."
@@ -368,8 +368,8 @@
 118. ETHAN: "P.S. A fair book is a promise. Now tell everybody."
     이선: "추신. 공정한 북은 약속이다. 이제 모두에게 알려라."
 
-119. MAYA: "Tell everybody." He means the whole industry, doesn't he? Not just us — every agency in New York.
-    마야: "모두에게 알려라." 업계 전체를 말씀하시는 거지? 우리만이 아니라 뉴욕 에이전시 전부.
+119. MAYA: Tell everybody. He means the whole industry, doesn't he?
+    마야: 모두에게 알려라. 업계 전체를 말씀하시는 거지?
 
 120. ETHAN: Okay. Here's the play.
     이선: 좋아. 작전은 이거야.
