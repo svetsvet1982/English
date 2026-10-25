@@ -8,7 +8,7 @@
 > - 등장인물: Inès Morel(메종 아를레트 캐스팅 디렉터, 4부 언급 → 첫 대사), Tessa, Jules, Kai, Maya, Ethan, Madame Fournier, Nora, Margaux, Tucker, Leo(영상), Rita(영상)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "be early or be replaced", "be happy with your eyes", "hand something over", "plain-talking", "in writing", "Everything's for sale", "say no first, then call security", "decide fast", "down on one knee", "cross something off"
-> - 복선/연결: 6부 12화 이네스의 문자(3월 1일 아를레트) · 6부 8화 마고가 고른 돌계단, 마야의 조언("저녁부터 아침까지 폰을 끌 수 있을 때"), 왼쪽 주머니의 반지 · 6부 4화 이선의 새 목록 1번(세 단어) 공개 — 5부 9화 월터의 "Bring the Swede" · 6부 10화 터커가 고른 스테이크와 750만 유로 · 6부 3화 카이의 "page twenty-three" · 브라조스의 3월 31일 상환일 → 6부 14화 · 테사의 아틀리에 로슈 클로징 제안 → 6부 14화
+> - 복선/연결: 6부 12화 이네스의 문자(3월 1일 아를레트) · 6부 8화 마고가 고른 돌계단, 마야의 조언("저녁부터 아침까지 폰을 끌 수 있을 때"), 왼쪽 주머니의 반지 · 6부 4화 이선의 새 목록 1번(세 단어) 공개 — 5부 9화 월터의 "Bring the Swede" · 6부 10화 터커가 고른 스테이크와 600만 유로 · 6부 3화 카이의 "page twenty-three" · 브라조스의 3월 31일 상환일 → 6부 14화 · 테사의 아틀리에 로슈 클로징 제안 → 6부 14화
 
 ---
 
@@ -200,11 +200,11 @@
 062. TUCKER: Madame Fournier. Ma'am. I... you look well.
     터커: 푸르니에 부인. 부인. 저… 좋아 보이시네요.
 
-063. MADAME FOURNIER: In January, you ordered me a steak without asking, and then you offered seven and a half million euros as if I couldn't count. I counted. Then I chose Walter's people.
-    푸르니에 부인: 1월에 당신은 묻지도 않고 내 스테이크를 시켰고, 그다음엔 내가 숫자도 못 세는 사람인 것처럼 750만 유로를 내밀었죠. 난 셌어요. 그러고 나서 월터의 사람들을 골랐고요.
+063. MADAME FOURNIER: In January, you ordered me a steak without asking, and then you offered six million euros as if I couldn't count. I counted. Then I chose Walter's people.
+    푸르니에 부인: 1월에 당신은 묻지도 않고 내 스테이크를 시켰고, 그다음엔 내가 숫자도 못 세는 사람인 것처럼 600만 유로를 내밀었죠. 난 셌어요. 그러고 나서 월터의 사람들을 골랐고요.
 
-064. TUCKER: Seven and a half million. And you took three and a half. I still don't understand it, ma'am. I've lost sleep over it.
-    터커: 750만이요. 그런데 350만을 택하셨죠. 아직도 이해가 안 돼요, 부인. 그것 때문에 잠도 설쳤어요.
+064. TUCKER: Six million. And you took two. I still don't understand it, ma'am. I've lost sleep over it.
+    터커: 600만이요. 그런데 200만을 택하셨죠. 아직도 이해가 안 돼요, 부인. 그것 때문에 잠도 설쳤어요.
 
 065. MADAME FOURNIER: I know you don't. That's why you lost. Inès, darling, I think this gentleman is in the wrong room.
     푸르니에 부인: 이해 못 하는 거 알아요. 그래서 진 거예요. 이네스, 얘야, 이 신사분이 방을 잘못 찾아오신 것 같네요.

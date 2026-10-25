@@ -8,7 +8,7 @@
 > - 등장인물: Ethan, Maya, Margaux, Hélène, Kai, Madame Fournier, Derek(페이스 애슬레틱스 프로듀서, 4부 10화 재등장)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "trust someone with something", "blocking minority", "the numbers speech", "on the table", "borrow against", "honest money", "Here's the play", "cheap in every way"
-> - 복선/연결: 6부 9화 엔딩 "파리는 네가 맡아"에서 이어짐 · 마야의 손글씨 쪽지에 대한 답장 · 1부 13화 이선의 아파트 담보 대출을 엘렌이 되풀이 · 6부 1화 터커의 25만 달러 계약금 · 4부 10화 페이스 캠페인과 브롱크스 농구 코트 · 마야의 두 번째 "Okay. Here's the play." · 푸르니에 부인이 말을 아낀 '월터가 해 준 일' → 6부 11화 · 1월 28일 공식 제안 · 엔딩의 터커 750만 유로 → 6부 11화 「The Bid」
+> - 복선/연결: 6부 9화 엔딩 "파리는 네가 맡아"에서 이어짐 · 마야의 손글씨 쪽지에 대한 답장 · 1부 13화 이선의 아파트 담보 대출을 엘렌이 되풀이 · 6부 1화 터커의 25만 달러 계약금 · 4부 10화 페이스 캠페인과 브롱크스 농구 코트 · 마야의 두 번째 "Okay. Here's the play." · 6부 6화 뤼미에르 지분 구조(엘렌 45%·부커 20%·푸르니에 35%, 매년 3월 재승인)와 터커의 400만 유로 · 푸르니에 부인이 말을 아낀 1994년 '월터가 해 준 일' → 6부 11화 · 1월 28일 공식 제안 · 엔딩의 터커 600만 유로 → 6부 11화 「The Bid」
 
 ---
 
@@ -80,8 +80,8 @@
 022. MAYA: Is that bad?
     마야: 그거 나쁜 거예요?
 
-023. HELENE: For me, it's annoying. For you, it's a test. She did the same thing to me years ago, the first time we met, and I failed it completely.
-    엘렌: 나한텐 짜증 나는 거고. 당신한텐 시험이에요. 몇 년 전 처음 만났을 때 나한테도 똑같이 하셨는데, 난 완전히 떨어졌어요.
+023. HELENE: For me, it's annoying. For you, it's a test. She did the same thing to me in 1999, when Henri hired me, and I failed it completely.
+    엘렌: 나한텐 짜증 나는 거고. 당신한텐 시험이에요. 1999년에 앙리가 날 뽑았을 때 나한테도 똑같이 하셨는데, 난 완전히 떨어졌어요.
 
 024. MAYA: Why? What did you talk about?
     마야: 왜요? 무슨 얘기를 하셨는데요?
@@ -92,14 +92,14 @@
 026. MAYA: So I don't talk about money.
     마야: 그럼 돈 얘기는 하지 말아야겠네요.
 
-027. HELENE: You have to talk about money. Tucker is offering six million euros. Cash. In thirty days.
-    엘렌: 돈 얘기는 해야 해요. 터커는 600만 유로를 제시했어요. 현금으로. 30일 안에.
+027. HELENE: You have to talk about money. In November, Tucker offered her four million euros, cash, for shares that are worth about two.
+    엘렌: 돈 얘기는 해야 해요. 11월에 터커가 그분께 400만 유로를 제시했어요. 현금으로. 실제 가치는 200만 정도인 지분에요.
 
 028. MAYA: And what can we offer?
     마야: 그럼 저희는 얼마를 낼 수 있어요?
 
-029. HELENE: I called my bank this morning. If I borrow against my apartment, which I have owned for twenty years, I can find three and a half million. Maybe. If my banker is in a good mood.
-    엘렌: 오늘 아침에 은행에 전화했어요. 20년 동안 갖고 있던 제 아파트를 담보로 빌리면 350만은 구할 수 있어요. 어쩌면요. 은행 담당자 기분이 좋으면요.
+029. HELENE: I called my bank this morning. If I borrow against my apartment, which I've owned for twenty years, I can find almost a million. Maybe. If my banker is in a good mood.
+    엘렌: 오늘 아침에 은행에 전화했어요. 20년 동안 갖고 있던 제 아파트를 담보로 빌리면 100만 가까이는 구할 수 있어요. 어쩌면요. 은행 담당자 기분이 좋으면요.
 
 030. MAYA: Your apartment? Hélène, Ethan did that in 2026. It almost killed him. And his sister still hasn't forgiven him.
     마야: 아파트를요? 엘렌, 이선이 2026년에 그렇게 했어요. 거의 죽을 뻔했죠. 동생은 아직도 용서 안 했고요.
@@ -110,14 +110,14 @@
 032. MAYA: Hélène, why does thirty-five percent matter so much? You still own the most, right?
     마야: 엘렌, 35퍼센트가 왜 그렇게 중요해요? 그래도 제일 많이 가진 건 엘렌이잖아요?
 
-033. HELENE: I own forty. But in France, anyone who owns more than a third can block the big decisions, like selling, merging, or signing a partnership. We call it "minorité de blocage."
-    엘렌: 전 40퍼센트예요. 그런데 프랑스에선 3분의 1이 넘으면 누구든 큰 결정을 막을 수 있어요. 매각, 합병, 파트너십 서명 같은 거요. 그걸 '미노리테 드 블로카주'라고 해요.
+033. HELENE: I own forty-five. But under our rules, every big decision needs two-thirds of the votes, so anyone with more than a third can block it. We call it "minorité de blocage."
+    엘렌: 전 45퍼센트예요. 그런데 저희 규칙상 큰 결정은 전부 3분의 2 찬성이 필요해요. 그러니까 3분의 1이 넘으면 누구든 막을 수 있죠. 그걸 '미노리테 드 블로카주'라고 해요.
 
 034. MARGAUX: "Blocking minority." If Tucker has thirty-five, he can say no to everything. Forever.
     마고: '저지 지분'이란 뜻이에요. 터커가 35퍼센트를 가지면 모든 걸 거부할 수 있어요. 영원히요.
 
-035. HELENE: Including New York. Including you. "One book, two cities" becomes one Texan, no cities.
-    엘렌: 뉴욕도요. 당신도요. '하나의 북, 두 도시'가 텍사스 남자 하나, 도시는 없음이 되는 거죠.
+035. HELENE: Including New York. Every March, the shareholders vote on our partnership again. One "no" from Tucker, and "one book, two cities" becomes one Texan, no cities.
+    엘렌: 뉴욕도요. 매년 3월에 주주들이 우리 파트너십을 다시 표결해요. 터커가 '노' 한 번만 하면, '하나의 북, 두 도시'가 텍사스 남자 하나, 도시는 없음이 되는 거죠.
 
 036. MAYA: Okay. Then I have twenty-nine hours to learn how to have tea with a woman who falls asleep during numbers.
     마야: 좋아요. 그럼 숫자 얘기에 잠드는 분이랑 차 마시는 법을 배울 시간이 29시간 있네요.
@@ -233,17 +233,17 @@
 073. MADAME FOURNIER: I'm seventy-eight. I like soup. He didn't ask.
     푸르니에 부인: 난 일흔여덟이에요. 수프를 좋아하죠. 그 사람은 묻지 않았어요.
 
-074. MADAME FOURNIER: He's offering six million euros. Cash. You know this. Hélène tells everyone everything.
-    푸르니에 부인: 600만 유로를 제시했어요. 현금으로. 알고 있겠죠. 엘렌은 모두에게 모든 걸 말하니까.
+074. MADAME FOURNIER: He's offering four million euros. Cash. You know this. Hélène tells everyone everything.
+    푸르니에 부인: 400만 유로를 제시했어요. 현금으로. 알고 있겠죠. 엘렌은 모두에게 모든 걸 말하니까.
 
-075. MAYA: I know. We can't offer six million, and I'm not going to sit here and pretend we can.
-    마야: 알아요. 저희는 600만을 못 내요. 그리고 여기 앉아서 낼 수 있는 척하지도 않을 거예요.
+075. MAYA: I know. We can't offer four million, and I'm not going to sit here and pretend we can.
+    마야: 알아요. 저희는 400만을 못 내요. 그리고 여기 앉아서 낼 수 있는 척하지도 않을 거예요.
 
 076. MADAME FOURNIER: Then why are you drinking my tea?
     푸르니에 부인: 그럼 왜 내 차를 마시고 있죠?
 
-077. MAYA: Because six million isn't the only number. May I tell you what we can offer?
-    마야: 600만이 유일한 숫자는 아니니까요. 저희가 드릴 수 있는 걸 말씀드려도 될까요?
+077. MAYA: Because four million isn't the only number. May I tell you what we can offer?
+    마야: 400만이 유일한 숫자는 아니니까요. 저희가 드릴 수 있는 걸 말씀드려도 될까요?
 
 078. MADAME FOURNIER: You may. Hélène told me numbers once. I fell asleep. Don't make me sleep.
     푸르니에 부인: 해 봐요. 엘렌이 한 번 숫자 얘기를 했다가 내가 잠들었죠. 날 재우지 말아요.
@@ -260,17 +260,17 @@
 082. MADAME FOURNIER: Go on. The play.
     푸르니에 부인: 계속해요. 그 작전.
 
-083. MAYA: One. Hélène buys twenty-five percent, and Hale buys ten. Together, that's three and a half million euros, which is everything we have and a little bit that we don't.
-    마야: 하나. 엘렌이 25퍼센트를 사고, Hale이 10퍼센트를 사요. 합쳐서 350만 유로예요. 저희가 가진 전부에, 없는 것까지 조금 보탠 돈이에요.
+083. MAYA: One. Hélène buys fifteen percent, your bookers buy ten, and Hale buys ten. Together, that's two million euros, which is the real price, and everything we have.
+    마야: 하나. 엘렌이 15퍼센트, 뤼미에르 부커들이 10퍼센트, Hale이 10퍼센트를 사요. 합쳐서 200만 유로예요. 그게 실제 가치고, 저희가 가진 전부예요.
 
-084. MADAME FOURNIER: Less than Monsieur Graves. By a lot.
-    푸르니에 부인: 그레이브스 씨보다 적군요. 한참.
+084. MADAME FOURNIER: Half of what Monsieur Graves offers.
+    푸르니에 부인: 그레이브스 씨 제안의 절반이군요.
 
 085. MAYA: Yes. Two. You keep your seat at Lumière for life. You come to every meeting, you vote on every big decision, and nobody sends you an email at ten p.m. telling you it's over.
     마야: 네. 둘. 뤼미에르 자리는 평생 지키세요. 모든 회의에 오시고, 큰 결정마다 투표하시고, 밤 10시에 끝났다는 이메일을 보내는 사람은 아무도 없을 거예요.
 
-086. MAYA: Three. Henri's name stays on the door. "Co-founded by Henri Fournier." In gold. Bigger than ours.
-    마야: 셋. 앙리 씨 이름은 문에 그대로 남아요. '공동창업자 앙리 푸르니에.' 금색으로. 저희 이름보다 크게.
+086. MAYA: Three. Henri's name stays on the door. "Founded by Henri Fournier, 1987." In gold. Bigger than ours.
+    마야: 셋. 앙리 씨 이름은 문에 그대로 남아요. '창립자 앙리 푸르니에, 1987.' 금색으로. 저희 이름보다 크게.
 
 087. MAYA: Four. Every Lumière model gets Fair Book terms, which means every contract is readable and every model gets paid in thirty days, exactly like our models in New York.
     마야: 넷. 뤼미에르 모델 전원이 페어 북 조건을 받아요. 모든 계약서는 읽을 수 있고, 모든 모델은 30일 안에 돈을 받는다는 뜻이에요. 뉴욕 저희 모델들이랑 똑같이요.
@@ -371,8 +371,8 @@
 119. MAYA: Hélène just called. Tucker heard about the tea, probably from somebody at the bank, and he called Madame Fournier an hour ago with a new offer.
     마야: 엘렌이 방금 전화했어. 터커가 차 모임 얘길 들었대. 아마 은행 쪽 누군가한테서. 그래서 한 시간 전에 푸르니에 부인한테 새 제안을 했대.
 
-120. MAYA: Seven and a half million euros. Cash. And he wants to meet me. Alone.
-    마야: 750만 유로. 현금으로. 그리고 나를 만나고 싶대. 혼자서.
+120. MAYA: Six million euros. Cash. And he wants to meet me. Alone.
+    마야: 600만 유로. 현금으로. 그리고 나를 만나고 싶대. 혼자서.
 
 ---
 
@@ -380,7 +380,7 @@
 
 - **trust someone with something** — ~에게 ~을 믿고 맡기다 / "It means we trust each other with half." (010)
 - **You've got this.** — 넌 해낼 거야 / (013)
-- **borrow against** — ~을 담보로 돈을 빌리다 / "If I borrow against my apartment, three and a half." (029)
+- **borrow against** — ~을 담보로 돈을 빌리다 / "If I borrow against my apartment ... I can find almost a million." (029)
 - **blocking minority** — 저지 지분(3분의 1 초과로 주요 결정을 막을 수 있는 지분) / (033, 034)
 - **the numbers speech** — '숫자가 안 맞는다'는 뻔한 설명 / "You know the numbers speech." (042, 043)
 - **on the table** — (제안이) 아직 유효한 / "The two-fifty is still on the table, partner." (047)
@@ -393,4 +393,4 @@
 
 ## 다음 화 예고 (낭독하지 않음)
 
-- 750만 유로 대 350만 유로. 돈으로는 이길 수 없다. 1월 28일 생루이섬의 응접실까지 3주. 골드버그의 편지, 사샤의 전화, 카이의 영상, 줄스의 한마디, 그리고 클레어의 서류. 월터가 30년 전 해 준 일이 마침내 밝혀진다. (6부 11화 「The Bid」)
+- 600만 유로 대 200만 유로. 돈으로는 이길 수 없다. 1월 28일 생루이섬의 응접실까지 3주. 골드버그의 편지, 사샤의 전화, 카이의 영상, 줄스의 한마디, 그리고 클레어의 서류. 1994년 월터가 해 준 일이 마침내 밝혀진다. (6부 11화 「The Bid」)

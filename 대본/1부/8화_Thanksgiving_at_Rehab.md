@@ -56,8 +56,8 @@
 014. HANNAH: Hi, Dad. Happy Thanksgiving. You look good.
     해나: 아빠, 해피 땡스기빙. 좋아 보여.
 
-015. WALTER: I look like an old guy in a cardigan that somebody else picked out for him.
-    월터: 월터: 남이 골라 준 카디건 입은 노인네 같지.
+015. WALTER: I look like an old guy in a cardigan somebody else picked out.
+    월터: 남이 골라 준 카디건 입은 노인네 같지.
 
 016. ETHAN: I picked it out, Dad.
     이선: 그거 내가 고른 거야, 아빠.
@@ -89,8 +89,8 @@
 025. WALTER: You want me to talk about the weather? It's cold. Done. How's the board?
     월터: 날씨 얘기라도 하라고? 춥다. 끝. 보드는 어때?
 
-026. ETHAN: Honestly? It's still half empty. We lost an option to Vanta last week, and it was one we really needed.
-    이선: 이선: 솔직히? 아직 반은 비었어. 지난주에 옵션 하나 뱅타한테 뺏겼는데, 우리한테 정말 필요한 거였어.
+026. ETHAN: Honestly? Still half empty. We lost an option to Vanta last week.
+    이선: 솔직히? 아직 반은 비었어. 지난주에 옵션 하나 뱅타한테 뺏겼어.
 
 027. WALTER: Claire. Of course it was Claire.
     월터: 클레어. 당연히 클레어지.
@@ -131,8 +131,8 @@
 039. WALTER: Mm. Tell Rita she's a saint. Don't tell her I said it.
     월터: 음. 리타한테 성녀라고 전해. 내가 그랬단 말은 하지 말고.
 
-040. HANNAH: So, while we're all here together, I want to say one thing, and I'm going to say it calmly, I promise.
-    해나: 해나: 그래서, 우리 다 모인 김에 한 가지만 말할게. 차분하게 말할게, 약속해.
+040. HANNAH: So, while we're all here, I want to say one thing. Calmly.
+    해나: 그래서, 우리 다 모인 김에 한 가지만 말할게. 차분하게.
 
 041. ETHAN: Hannah. The nurse literally said keep him calm, like, two minutes ago.
     이선: 이선: 해나. 간호사가 아빠 흥분시키지 말라고 대놓고 말했잖아. 한 2분 전에.
@@ -146,8 +146,8 @@
 044. HANNAH: It's a holding company. They want the client list and the name, but mostly the name, because "Hale" still means something in this business, even after the year we've had.
     해나: 해나: 지주회사야. 클라이언트 명단이랑 이름을 원해. 근데 주로 이름이야. 올해 그 난리를 겪고도 이 업계에선 아직 '헤일'이라는 이름이 통하니까.
 
-045. WALTER: The name. My name. Printed on some company's letterhead in Jersey, next to people I've never even met.
-    월터: 월터: 이름. 내 이름. 저지 어디 회사 레터헤드에 박아 놓겠다고. 만나 본 적도 없는 놈들 이름 옆에.
+045. WALTER: The name. My name. On some company's letterhead in Jersey.
+    월터: 이름. 내 이름. 저지 어디 회사 레터헤드에 박아 놓겠다고.
 
 046. HANNAH: It's not Jersey, it's Stamford. And I know you hate the idea, but it would clear most of the debt, which is more than anyone else is offering us.
     해나: 해나: 저지 아니고 스탬퍼드야. 그리고 아빠가 싫어하는 거 아는데, 빚 대부분을 갚을 수 있어. 지금 그 이상 제안하는 사람은 아무도 없고.
@@ -230,14 +230,14 @@
 072. ETHAN: Hey. It's freezing out here, and you don't even have your coat. If you catch a cold, Dolores is going to kill us both.
     이선: 이선: 야. 여기 엄청 추워. 코트도 안 입었잖아. 감기라도 걸리면 돌로레스 간호사가 우리 둘 다 죽일 거야.
 
-073. HANNAH: I know. I just wanted to be dramatic for five minutes. It's a family tradition, in case you hadn't noticed.
-    해나: 해나: 알아. 그냥 5분만 극적이고 싶었어. 우리 집 전통이잖아, 몰랐을까 봐 하는 말인데.
+073. HANNAH: I know. I wanted to be dramatic for five minutes. It's a family tradition.
+    해나: 알아. 5분만 극적이고 싶었어. 우리 집 전통이잖아.
 
 074. ETHAN: Here, take my scarf. And I'm sorry. About the Sundays. I should have said it inside, in front of Dad, but I'm saying it now.
     이선: 이선: 자, 내 목도리 해. 그리고 미안해. 일요일 얘기. 안에서 아빠 앞에서 말했어야 했는데, 지금이라도 말할게.
 
-075. HANNAH: I didn't say it to win the argument. I said it because I'm tired, Ethan. Really tired.
-    해나: 해나: 말싸움 이기려고 한 말 아니야. 지쳐서 한 말이야, 오빠. 진짜 지쳤어.
+075. HANNAH: I didn't say it to win. I said it because I'm tired.
+    해나: 이기려고 한 말 아니야. 지쳐서 한 말이야.
 
 076. ETHAN: I know. You've been tired for three years, and I was so wrapped up in my own life over in Brooklyn that I didn't even notice. That's on me.
     이선: 이선: 알아. 넌 3년째 지쳐 있었는데, 난 브루클린에서 내 인생에만 정신 팔려서 그것도 몰랐어. 그건 내 잘못이야.
@@ -251,8 +251,8 @@
 079. HANNAH: Then give me a real plan. Not a feeling, not a speech. A plan with actual numbers that I can check myself.
     해나: 해나: 그럼 진짜 계획을 줘. 감정 말고, 연설 말고. 내가 직접 확인할 수 있는 진짜 숫자가 있는 계획.
 
-080. ETHAN: By the end of the year, I'll have something real on paper. I promise. Just give me until December thirty-first.
-    이선: 이선: 연말까지 진짜 계획을 문서로 만들어 올게. 약속할게. 12월 31일까지만 시간 줘.
+080. ETHAN: By the end of the year. I promise. Give me until December thirty-first.
+    이선: 연말까지. 약속할게. 12월 31일까지만 시간 줘.
 
 081. HANNAH: Fine. December thirty-first. Then we talk about Stamford again.
     해나: 좋아. 12월 31일. 그다음에 스탬퍼드 얘기 다시 해.
@@ -269,8 +269,8 @@
 085. HANNAH: Of course they did.
     해나: 그럴 줄 알았어.
 
-086. WALTER: There she is. So, did you two hug it out, or do I need to call a referee?
-    월터: 월터: 왔네. 그래, 둘이 화해했냐, 아니면 심판 불러야 돼?
+086. WALTER: There she is. You two hug it out, or do I need a referee?
+    월터: 왔네. 둘이 화해했냐, 아니면 심판 불러야 돼?
 
 087. HANNAH: We made a deal. Ethan has until New Year's Eve to show me a plan, and if he doesn't have one by then, we talk about Stamford again.
     해나: 해나: 거래했어. 오빠가 섣달그믐까지 나한테 계획 보여 주기로. 그때까지 계획이 없으면 스탬퍼드 얘기 다시 하는 거야.
@@ -302,8 +302,8 @@
 096. RITA: Same old Walter. My whole family says hi, and my mother says she's lighting a candle for you at church. Feel better, okay? We need you.
     리타: 리타: 여전하네, 월터. 우리 식구들 다 안부 전해. 우리 엄마는 성당에서 당신 위해 초 켠대. 얼른 나아, 알았지? 우리 당신 필요해.
 
-097. WALTER: Tell the office I said keep the board clean, and tell Leo no stickers on it. Bye, Rita.
-    월터: 월터: 사무실에 보드 깨끗이 쓰라고 전해. 레오한테는 거기 스티커 붙이지 말라고 하고. 들어가, 리타.
+097. WALTER: Tell the office I said keep the board clean. Bye, Rita.
+    월터: 사무실에 보드 깨끗이 쓰라고 전해. 들어가, 리타.
 
 098. HANNAH: Dad, you're smiling. Don't deny it.
     해나: 아빠, 웃고 있네. 부정하지 마.
@@ -314,8 +314,8 @@
 100. ETHAN: Since when do you care about the Lions?
     이선: 언제부터 라이언스한테 관심 있었어?
 
-101. WALTER: Since never. I just like watching Detroit suffer on Thanksgiving, because somebody has to. It's tradition.
-    월터: 월터: 관심 없었지. 추수감사절에 디트로이트 고생하는 거 보는 게 좋아서. 누군가는 봐 줘야지. 전통이야.
+101. WALTER: Since never. I just like watching Detroit suffer. It's tradition.
+    월터: 관심 없었지. 디트로이트 고생하는 거 보는 게 좋아서. 전통이야.
 
 102. NURSE DOLORES: Mr. Hale, ten more minutes, then a nap. Doctor's orders.
     돌로레스 간호사: 헤일 씨, 10분만 더 계시고 낮잠 주무셔야 해요. 의사 지시예요.
@@ -341,8 +341,8 @@
 109. WALTER: Ask Greg about the books.
     월터: 그렉한테 장부 물어봐.
 
-110. ETHAN: Greg? Greg Lawson? He left back in the spring, didn't he? Rita told me he burned out and moved on.
-    이선: 이선: 그렉? 그렉 로슨? 봄에 그만두지 않았어? 리타 말로는 번아웃 와서 떠났다던데.
+110. ETHAN: Greg? Greg Lawson? He left in the spring. Rita said he burned out.
+    이선: 그렉? 그렉 로슨? 봄에 그만뒀잖아. 리타 말로는 번아웃이었다던데.
 
 111. WALTER: Ask Greg. About the books.
     월터: 그렉한테. 장부에 대해.
@@ -350,8 +350,8 @@
 112. HANNAH: Dad, what do you mean? What about the books?
     해나: 아빠, 무슨 뜻이야? 장부가 왜?
 
-113. WALTER: I don't... I signed whatever he gave me. Every month, I signed, because I trusted him. Just ask him.
-    월터: 월터: 나는… 걔가 주는 건 다 서명했어. 매달 서명했지. 믿었으니까. 그냥 물어봐.
+113. WALTER: I don't... I signed what he gave me. I always signed. Just ask him.
+    월터: 나는… 걔가 준 거 서명했어. 늘 서명했지. 그냥 물어봐.
 
 114. NURSE DOLORES: Okay, that's enough excitement for one day. He's getting tired and he needs his rest, so go ahead and say your goodbyes.
     돌로레스 간호사: 돌로레스 간호사: 자, 하루 흥분은 여기까지요. 피곤해하시고 쉬셔야 해요. 이제 인사들 하세요.

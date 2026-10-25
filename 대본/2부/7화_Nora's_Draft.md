@@ -26,8 +26,8 @@
 004. ETHAN: I didn't sleep anywhere. I read something three times, and it got worse every time.
     이선: 아무 데서도 안 잤어요. 뭘 세 번 읽었는데, 읽을 때마다 더 나빠지더라고요.
 
-005. SAL: A letter from a girl?
-    샐: 여자한테 온 편지?
+005. SAL: A letter from a girl? You've got that look on your face.
+    샐: 여자한테 온 편지? 딱 그런 얼굴인데.
 
 006. ETHAN: An article about my company, written by a woman. So, kind of.
     이선: 우리 회사에 대한 기사요. 여자가 쓴. 그러니까, 뭐, 비슷해요.
@@ -41,8 +41,8 @@
 009. SAL: Your father got a bad review in the Post once, back in the nineties. You know what he did? He framed it. It's still hanging in my back room.
     샐: 네 아버지도 90년대에 포스트에서 혹평받은 적 있어. 그래서 어떻게 했는지 알아? 액자에 넣었어. 아직도 우리 창고에 걸려 있어.
 
-010. ETHAN: Why is it in your back room?
-    이선: 그게 왜 아저씨 창고에 있어요?
+010. ETHAN: Why is it in your back room and not in his office?
+    이선: 그게 왜 아빠 사무실이 아니라 아저씨 창고에 있어요?
 
 011. SAL: He said he didn't want to see it every day, but he didn't want to throw it away, either, because it reminded him to work harder. That's Walter.
     샐: 매일 보긴 싫은데 버리기도 싫다더라. 더 열심히 하라고 일깨워 주는 거라면서. 그게 월터지.
@@ -104,8 +104,8 @@
 030. JULES: That's... true. Is that bad? Because it's true.
     줄스: 그거… 맞아요. 나쁜 거예요? 맞는 말인데.
 
-031. MAYA: It's honest. Okay, here's me. "Head booker Maya Okafor seems to be the one actually running the place." I didn't pay her to say that.
-    마야: 솔직한 거지. 자, 이건 내 얘기. "헤드 부커 마야 오카포가 실제로 회사를 운영하는 사람으로 보인다." 이 말 하라고 돈 준 거 아니에요.
+031. MAYA: It's honest. Okay, here's me. "Head booker Maya Okafor seems to be the one actually running the place." I swear I didn't pay her to say that, Ethan.
+    마야: 솔직한 거지. 자, 이건 내 얘기. "헤드 부커 마야 오카포가 실제로 회사를 운영하는 사람으로 보인다." 맹세하는데 이 말 하라고 돈 준 거 아니에요, 대표님.
 
 032. MAYA: Okay. I like her now.
     마야: 좋아. 이제 그 사람 좋아요.
@@ -119,8 +119,8 @@
 035. RITA: Not me. Not from my ledger, and you know it. My ledger doesn't talk to anybody, not even Walter.
     리타: 나 아니야. 내 장부에서 나간 거 아니야, 너도 알잖아. 내 장부는 아무하고도 말 안 해. 월터하고도.
 
-036. ETHAN: Is it true, Rita?
-    이선: 그거 사실이야, 리타?
+036. ETHAN: Is it true, Rita? The two million?
+    이선: 그거 사실이야, 리타? 200만 달러?
 
 037. RITA: It's two point three, so yes, it's true. But that's not the point, honey. The point is, somebody who knows our numbers is talking to a reporter.
     리타: 230만이야. 그러니까, 그래, 사실이지. 근데 그게 문제가 아니야, 얘. 문제는 우리 숫자를 아는 누군가가 기자한테 떠들고 있다는 거지.
@@ -158,14 +158,14 @@
 048. MAYA: She's not wrong, though.
     마야: 근데 틀린 말은 아니잖아요.
 
-049. ETHAN: Thank you, Maya. Very helpful.
-    이선: 고맙다, 마야. 아주 도움 된다.
+049. ETHAN: Thank you, Maya. Very helpful. Really, I feel so much better.
+    이선: 고맙다, 마야. 아주 도움 된다. 진짜 기분 훨씬 나아졌어.
 
 050. MAYA: I mean it. In October, half our models came to me and asked, "Is Ethan staying, or is this temporary?" Some of them still ask me every week.
     마야: 진심이에요. 10월에 모델 절반이 저한테 와서 물었어요. "이선 계속 있는 거예요, 아니면 잠깐이에요?" 아직도 매주 묻는 애들도 있고요.
 
-051. ETHAN: And what did you tell them?
-    이선: 그래서 뭐라고 했어?
+051. ETHAN: And what did you tell them when they asked?
+    이선: 그래서 물어봤을 때 뭐라고 했어?
 
 052. MAYA: I said I didn't know, because I honestly didn't. And I'm not going to lie to them, even for you.
     마야: 모른다고 했죠. 진짜 몰랐으니까요. 그리고 대표님을 위해서라도 걔들한테 거짓말은 안 할 거예요.
@@ -182,8 +182,8 @@
 056. NORA: Nora Lindqvist.
     노라: 노라 린드크비스트입니다.
 
-057. ETHAN: It's Ethan. I read it.
-    이선: 이선이에요. 읽었어요.
+057. ETHAN: It's Ethan. I read it. All of it, several times.
+    이선: 이선이에요. 읽었어요. 전부, 여러 번.
 
 058. NORA: I can hear that you read it. You sound like you didn't sleep, which, honestly, I'll take as a compliment.
     노라: 읽으신 게 목소리에서 들려요. 한숨도 못 주무신 목소리네요. 솔직히 칭찬으로 받아들일게요.
@@ -227,8 +227,8 @@
 071. NORA: You're right. I checked it this afternoon, and it's my mistake. It's already fixed. Thank you, and please thank Rita for me.
     노라: 맞아요. 오늘 오후에 확인했는데 제 실수예요. 벌써 고쳤어요. 고마워요. 리타한테도 고맙다고 전해 주세요.
 
-072. ETHAN: That was easy.
-    이선: 쉽네요.
+072. ETHAN: That was easy. I thought you'd fight me on it.
+    이선: 쉽네요. 그걸로 저랑 싸우실 줄 알았는데.
 
 073. NORA: Facts are easy, because they're either right or wrong. What's two?
     노라: 사실은 쉬워요. 맞거나 틀리거나니까요. 두 번째는요?
@@ -251,8 +251,8 @@
 079. NORA: I knew it was that one.
     노라: 그거일 줄 알았어요.
 
-080. ETHAN: It makes me sound like I'm going to run away the minute things get hard. My models read Lumen, and so do my clients, and they'll believe it.
-    이선: 그거 보면 상황이 어려워지는 순간 도망갈 사람처럼 보여요. 우리 모델들도 루멘 읽고, 클라이언트들도 읽어요. 그리고 그걸 믿을 거예요.
+080. ETHAN: It makes me sound like I'm going to run away the minute things get hard. My models read Lumen, and so do my clients, and some of them will believe every word of it.
+    이선: 그거 보면 상황이 어려워지는 순간 도망갈 사람처럼 보여요. 우리 모델들도 루멘 읽고, 클라이언트들도 읽어요. 그중엔 한 글자도 안 빼고 믿을 사람도 있을 거고요.
 
 081. NORA: Are you going to run away?
     노라: 도망갈 거예요?
@@ -263,8 +263,8 @@
 083. NORA: Then prove me wrong. Honestly, that's a much better ending than me deleting a sentence because it hurt your feelings.
     노라: 그럼 제가 틀렸다는 걸 증명하세요. 솔직히, 기분 상하셨다고 제가 문장 하나 지우는 것보다 그게 훨씬 좋은 결말이에요.
 
-084. ETHAN: You're not going to cut it.
-    이선: 안 빼 줄 거네요.
+084. ETHAN: You're not going to cut it, are you? I can tell.
+    이선: 안 빼 줄 거죠? 딱 보니까 알겠네요.
 
 085. NORA: I'm not going to cut it. But the second half isn't written yet, and what goes in it depends on what you do in the next two weeks. That's the honest answer.
     노라: 안 빼요. 근데 후반부는 아직 안 썼어요. 거기 뭐가 들어갈지는 앞으로 2주 동안 그쪽이 뭘 하느냐에 달렸고요. 그게 솔직한 대답이에요.
@@ -302,8 +302,8 @@
 096. ETHAN: Ask me again in a year. Maybe by then, I'll have the large.
     이선: 1년 뒤에 다시 물어봐요. 그때쯤엔 라지 사이즈가 있을지도.
 
-097. NORA: I'll put it in my calendar.
-    노라: 캘린더에 적어 둘게요.
+097. NORA: I'll put it in my calendar. January, next year.
+    노라: 캘린더에 적어 둘게요. 내년 1월.
 
 098. ETHAN: My turn. Why fashion? You're from Minnesota, you bring casseroles, and you fact-check everything. You should be writing about city council meetings.
     이선: 내 차례. 왜 패션이에요? 미네소타 출신에, 캐서롤 들고 다니고, 모든 걸 사실 확인하잖아요. 시의회 회의 기사나 써야 할 사람 같은데.
@@ -320,11 +320,11 @@
 102. NORA: That wasn't a joke. That was journalism.
     노라: 그건 농담 아니었어요. 저널리즘이었어요.
 
-103. ETHAN: Off the record, I put my apartment up to keep the company going, back in December. My sister, who's a lawyer, still won't talk to me about it.
-    이선: 비공개로요, 12월에 회사 살리려고 내 아파트를 담보로 잡았어요. 변호사인 동생은 아직도 그 얘기를 저랑 안 하려고 해요.
+103. ETHAN: Off the record, I put my apartment up to keep the company going. My sister, who's a lawyer, still won't talk to me about it, and I don't blame her.
+    이선: 비공개로요, 회사 살리려고 내 아파트를 담보로 잡았어요. 변호사인 동생은 아직도 그 얘기를 저랑 안 하려고 해요. 탓할 수도 없고요.
 
-104. NORA: Why are you telling me that?
-    노라: 그걸 왜 저한테 말해요?
+104. NORA: Why are you telling me that? You know what I do for a living.
+    노라: 그걸 왜 저한테 말해요? 제가 뭐 하는 사람인지 아시잖아요.
 
 105. ETHAN: Because you asked if I'm staying, and that's my answer. I'm not going anywhere. It's just not for print.
     이선: 내가 계속 있을 거냐고 물었잖아요. 그게 내 대답이에요. 난 아무 데도 안 가요. 기사용이 아닐 뿐이지.
@@ -341,11 +341,11 @@
 109. ETHAN: Right. A work dinner.
     이선: 그렇죠. 업무 저녁.
 
-110. NORA: Is that a problem?
+110. NORA: Is that a problem for you?
     노라: 그게 문제예요?
 
-111. ETHAN: No. I just noticed that we stopped talking about work about forty minutes ago, somewhere between the meatloaf and the pie.
-    이선: 아니요. 그냥 우리가 40분 전쯤, 미트로프랑 파이 사이 어딘가에서부터 일 얘기를 안 하고 있었다는 걸 깨달았어요.
+111. ETHAN: No. I just noticed that we stopped talking about work about forty minutes ago, somewhere between the meatloaf and the pie, and neither of us said anything.
+    이선: 아니요. 그냥 우리가 40분 전쯤, 미트로프랑 파이 사이 어딘가에서부터 일 얘기를 안 하고 있었는데, 둘 다 아무 말 안 했다는 걸 깨달았어요.
 
 112. NORA: I noticed that too. I'm choosing not to write it down, which is very unusual for me.
     노라: 저도 알아챘어요. 적지 않기로 했고요. 저한텐 아주 드문 일이에요.
@@ -362,8 +362,8 @@
 116. NORA: You're welcome. Off the record? I had a good time.
     노라: 천만에요. 비공개로요? 즐거웠어요.
 
-117. ETHAN: And on the record?
-    이선: 그럼 공개로는요?
+117. ETHAN: And on the record? What would you say?
+    이선: 그럼 공개로는요? 뭐라고 할 건데요?
 
 118. NORA: On the record, I'm still writing the second half, so be careful what you do. Good night, Ethan.
     노라: 공개로는, 아직 후반부를 쓰는 중이에요. 그러니까 행동 조심하세요. 잘 자요, 이선.

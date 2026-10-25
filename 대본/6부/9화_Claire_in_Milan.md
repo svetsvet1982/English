@@ -8,7 +8,7 @@
 > - 등장인물: Maya, Margaux, Ethan, Hélène, Claire, Leo(전화)
 > - 난이도: B1–B2 · 턴 수: 120
 > - 이번 화의 핵심 표현: "need faces before they trust", "fight someone on something", "an advance against earnings", "payday loan", "come due", "roll-up", "yes, but", "put something on hold"
-> - 복선/연결: 6부 8화 엔딩 클레어의 크리스마스 문자에서 이어짐 · 5부 12화 엘렌의 조건("첫 주는 둘이 같이") 이행 · 4부 그렉·DB Advisory(월 5천 달러) 회상 · 4부 사샤의 변호사 Dana Ruiz 재등장(언급) · 클레어의 세 번째 조건 보류 → 6부 14화 · 브라조스의 은행 자료 → 6부 11화 · 엔딩의 카이 위기 → 6부 10화 「Equal Partners」
+> - 복선/연결: 6부 6화 엘렌이 미뤄 둔 터커의 지분 매수 제안 — 거절 완료 · 6부 8화 엔딩 클레어의 크리스마스 문자에서 이어짐 · 5부 12화 엘렌의 조건("첫 주는 둘이 같이") 이행 · 4부 그렉·DB Advisory(월 5천 달러) 회상 · 4부 사샤의 변호사 Dana Ruiz 재등장(언급) · 클레어의 세 번째 조건 보류 → 6부 14화 · 브라조스의 은행 자료 → 6부 11화 · 엔딩의 카이 위기 → 6부 10화 「Equal Partners」
 
 ---
 
@@ -41,8 +41,8 @@
 009. HELENE: I did. Lunch, four hours, which is short for her. She asked about you, Ethan, and about your father. She wanted to know if you had his temper or his manners.
     엘렌: 만났어요. 점심, 네 시간. 그분치곤 짧은 편이에요. 당신 얘기를 물으셨어요, 이선. 아버님 얘기도요. 아버님 성질을 닮았는지 매너를 닮았는지 알고 싶어 하셨어요.
 
-010. HELENE: She'll decide by the end of January. That's all she told me, and I didn't push, because pushing her is like pushing a cathedral.
-    엘렌: 1월 말까지 결정하신대요. 저한테 한 말은 그게 다고, 전 재촉 안 했어요. 그분을 재촉하는 건 성당을 미는 거랑 같거든요.
+010. HELENE: She'll decide by the end of January. And Maya, I called Tucker on the twenty-sixth, like I promised you. I said no to him. Out loud, in English, twice.
+    엘렌: 1월 말까지 결정하신대요. 그리고 마야, 약속한 대로 26일에 터커한테 전화했어요. 거절했어요. 소리 내서, 영어로, 두 번.
 
 011. MAYA: And us? Do we have a meeting with her?
     마야: 그럼 저희는요? 저희랑 만나실 약속은 있어요?

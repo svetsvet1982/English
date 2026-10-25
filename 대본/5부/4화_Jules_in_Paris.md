@@ -17,8 +17,8 @@
 001. LEO: Okay, look at this. Jules in front of the Eiffel Tower, posted from Paris. Forty thousand likes in one day.
     레오: 자, 이거 봐요. 파리에서 올린 에펠탑 앞의 줄스. 하루 만에 좋아요 4만 개.
 
-002. RITA: Ay, look at her. Our little bus girl, the one who couldn't find the subway. In Paris.
-    리타: 아이, 쟤 좀 봐. 지하철도 못 찾던 우리 버스 소녀가. 파리에.
+002. RITA: Ay, look at her. Our little bus girl. In Paris.
+    리타: 아이, 쟤 좀 봐. 우리 버스 소녀가. 파리에.
 
 003. LEO: And this one, croissants on a balcony. Fifty-two thousand. Low-key, she's killing it.
     레오: 그리고 이거, 발코니에서 크루아상. 5만 2천. 은근 완전 잘나가요.
@@ -32,8 +32,8 @@
 006. MAYA: She used to post every single day, with stories every few hours, even when she was just eating a bagel. Now there's nothing for four days.
     마야: 걔 원래 하루도 안 빼고 올렸잖아. 베이글만 먹어도 스토리는 몇 시간마다 올리고. 근데 나흘째 아무것도 없어.
 
-007. LEO: Maybe she's just busy. Arlette has her in fittings all week, and those can go really late.
-    레오: 그냥 바쁜 거겠죠. 아를레트에서 이번 주 내내 피팅 잡혀 있대요. 그거 엄청 늦게까지 하잖아요.
+007. LEO: Maybe she's busy. Arlette has her in fittings all week.
+    레오: 바쁜 거겠죠. 아를레트에서 이번 주 내내 피팅 잡혀 있대요.
 
 008. MAYA: And look at this croissant picture. Check the time stamp. It was posted at four a.m., Paris time.
     마야: 그리고 이 크루아상 사진 봐. 시간 확인해 봐. 파리 시간 새벽 4시에 올라왔어.
@@ -41,8 +41,8 @@
 009. RITA: Who eats croissants at four in the morning?
     리타: 누가 새벽 4시에 크루아상을 먹어?
 
-010. MAYA: Someone who can't sleep, that's who. Ethan. Ethan, put the folder down and look at this.
-    마야: 잠 못 자는 사람이지, 누구긴. 이선. 이선, 그 서류철 내려놓고 이것 좀 봐.
+010. MAYA: Someone who can't sleep. Ethan. Ethan, put the folder down.
+    마야: 잠 못 자는 사람이지. 이선. 이선, 그 서류철 내려놔.
 
 011. ETHAN: I'm just reading page forty. Claire's people did a whole section on Milan, and it's actually pretty good.
     이선: 40쪽만 읽고 있었어. 클레어 쪽에서 밀라노 얘기를 한 섹션이나 썼는데, 사실 꽤 괜찮아.
@@ -71,13 +71,13 @@
 019. ETHAN: Both?
     이선: 둘 다?
 
-020. MAYA: Both. You're staying late tonight. Partner rule number six. I just made it up, but it counts.
-    마야: 둘 다. 너 오늘 야근이야. 파트너 규칙 6번. 방금 만들었는데, 유효해.
+020. MAYA: Both. You're staying late. Partner rule. I just made it up.
+    마야: 둘 다. 너 야근이야. 파트너 규칙. 방금 만들었어.
 
 021. ETHAN: I thought there were only five rules.
     이선: 규칙은 다섯 개뿐인 줄 알았는데.
 
-022. MAYA: There are six now. Rita, can you order dinner for us? It's going to be a long night.
+022. MAYA: There are six now. Rita, can you order dinner? It's going to be a long night.
     마야: 이제 여섯 개야. 리타, 저녁 좀 시켜 줄 수 있어요? 긴 밤이 될 거예요.
 
 023. RITA: Thai or Olympia?
@@ -173,8 +173,8 @@
 053. MAYA: It's not fine, Jules, and it's not a joke. Nobody gets to touch your body and comment on it. That's out of line, and I'm calling them tomorrow.
     마야: 안 괜찮아, 줄스. 농담도 아니고. 누구도 네 몸을 만지고 그걸 두고 말할 권리 없어. 그건 선 넘은 거고, 내일 내가 전화할 거야.
 
-054. JULES: Please don't. They'll think I'm a crybaby, and if they think that, they'll send me home.
-    줄스: 제발 하지 마세요. 저보고 울보라고 할 거예요. 그렇게 생각하면 집으로 돌려보낼 거예요.
+054. JULES: Please don't. They'll think I'm a crybaby. They'll send me home.
+    줄스: 제발 하지 마세요. 저보고 울보라고 할 거예요. 집으로 돌려보낼 거예요.
 
 055. ETHAN: Jules, listen to me. They signed you because you're Jules, not because you're quiet. A three-year contract doesn't get canceled because your agency makes one phone call.
     이선: 줄스, 내 말 들어 봐. 거기서 너랑 계약한 건 네가 줄스라서야. 조용해서가 아니라. 에이전시가 전화 한 통 한다고 3년 계약이 취소되진 않아.
@@ -197,8 +197,8 @@
 061. JULES: Wait, really? You?
     줄스: 잠깐, 진짜요? 이선이요?
 
-062. ETHAN: Me. Mr. "Here's the play." I just sat there and watched the dryers spin for an hour.
-    이선: 나. "작전은 이거야" 씨가. 그냥 앉아서 한 시간 동안 건조기 돌아가는 거 봤어.
+062. ETHAN: Me. Mr. "Here's the play." I just sat there and watched the dryers spin.
+    이선: 나. "작전은 이거야" 씨가. 그냥 앉아서 건조기 돌아가는 거 봤어.
 
 063. MAYA: I'm saving that story for later, by the way.
     마야: 참고로 그 얘기 나중에 써먹으려고 저장해 둔다.
@@ -206,14 +206,14 @@
 064. ETHAN: I knew you would.
     이선: 그럴 줄 알았어.
 
-065. SASHA: Darling, please. Is this the Paris crisis call? Am I late? I left a perfectly good dessert.
-    사샤: 자기야, 제발. 이게 그 파리 위기 통화야? 나 늦었어? 멀쩡한 디저트 두고 왔는데.
+065. SASHA: Darling, please. Is this the Paris crisis call? Am I late?
+    사샤: 자기야, 제발. 이게 그 파리 위기 통화야? 나 늦었어?
 
 066. JULES: Sasha? You're on too?
     줄스: 사샤? 사샤도 있어요?
 
-067. SASHA: Maya texted me, so I left a dinner. A boring one, thank God. Tell me who to destroy.
-    사샤: 마야가 문자해서 저녁 자리 박차고 나왔어. 다행히 지루한 자리였지. 누굴 박살 내면 돼?
+067. SASHA: Maya texted me. I was at a dinner. A boring one. Tell me who to destroy.
+    사샤: 마야가 문자했어. 저녁 자리였는데, 지루한 거. 누굴 박살 내면 돼?
 
 068. MAYA: Nobody. Yet. Sasha, you did three years of Paris. Tell her what you learned.
     마야: 아무도. 아직은. 사샤, 너 파리에서 3년 했잖아. 네가 배운 거 얘한테 말해 줘.
@@ -245,8 +245,8 @@
 077. MAYA: Every day. One day at a time. The thing is, lonely gets smaller when your day has a shape.
     마야: 매일. 하루하루. 중요한 건, 하루에 모양이 생기면 외로움은 작아진다는 거야.
 
-078. ETHAN: And rule four. You call us, whenever you need to. Three a.m., four a.m., we don't care.
-    이선: 그리고 규칙 넷. 필요할 때마다 우리한테 전화해. 새벽 3시든 4시든 상관없어.
+078. ETHAN: And rule four. You call us. Three a.m., four a.m., we don't care.
+    이선: 그리고 규칙 넷. 우리한테 전화해. 새벽 3시든 4시든 상관없어.
 
 079. JULES: You won't get tired of me?
     줄스: 저 귀찮아지지 않을까요?
@@ -257,8 +257,8 @@
 081. JULES: Thank you. Sorry. I'm crying again. Happy crying, I think.
     줄스: 고마워요. 죄송해요. 또 울어요. 좋아서 우는 거 같아요.
 
-082. SASHA: Happy crying is allowed. Ugly crying, only in the bathroom. And look, you're already there. Perfect.
-    사샤: 좋아서 우는 건 허락. 못생기게 우는 건 화장실에서만. 봐, 이미 화장실이네. 완벽해.
+082. SASHA: Happy crying is allowed. Ugly crying, only in the bathroom. You're already there. Perfect.
+    사샤: 좋아서 우는 건 허락. 못생기게 우는 건 화장실에서만. 이미 화장실이네. 완벽해.
 
 083. ETHAN: Try to get some sleep, Jules. We'll handle Arlette tomorrow, quietly, without getting you in trouble. I promise.
     이선: 좀 자 봐, 줄스. 아를레트는 내일 우리가 처리할게. 조용히, 너 곤란해지지 않게. 약속해.
@@ -299,8 +299,8 @@
 095. MAYA: I did. And honestly, I'd hate to read it out loud to your director, because I respect you. I'd rather you just handle it yourself.
     마야: 맞아요. 그리고 솔직히 그걸 그쪽 디렉터한테 소리 내서 읽어 드리고 싶진 않아요. 부인을 존중하니까요. 부인께서 직접 처리해 주시는 게 낫겠어요.
 
-096. VASSEUR: It will be handled, today. And Miss Okafor? Her name is Jules. From now on, I will use it.
-    바쇠르: 오늘 처리하겠어요. 그리고 오카포 씨? 그 애 이름은 줄스죠. 앞으로는 그렇게 부를게요.
+096. VASSEUR: It will be handled. And Miss Okafor? Her name is Jules. I will use it.
+    바쇠르: 처리하겠어요. 그리고 오카포 씨? 그 애 이름은 줄스죠. 앞으로 그렇게 부를게요.
 
 097. MAYA: That's all I wanted. Thank you, Madame.
     마야: 바라던 건 그게 다예요. 감사합니다, 부인.
@@ -365,8 +365,8 @@
 117. JULES: My best friend back home. Her name's Tessa. She's even taller than me, and she works on her uncle's dairy farm, where she basically does everything.
     줄스: 고향에 제일 친한 친구요. 이름은 테사예요. 저보다 더 키 커요. 삼촌네 낙농장에서 일하는데, 거의 모든 일을 다 해요.
 
-118. JULES: She's always wanted out of Lancaster, ever since we were kids. Would you meet her? Just meet her?
-    줄스: 걔는 어릴 때부터 늘 랭커스터를 떠나고 싶어 했어요. 한번 만나 주실래요? 그냥 만나만요?
+118. JULES: She's always wanted out of Lancaster. Would you meet her? Just meet her?
+    줄스: 걔는 늘 랭커스터를 떠나고 싶어 했어요. 한번 만나 주실래요? 그냥 만나만요?
 
 119. MAYA: Send us some pictures first. No filters, no makeup, just her. Then we'll talk.
     마야: 일단 사진 좀 보내 봐. 필터 없이, 화장 없이, 그냥 걔 그대로. 그다음에 얘기하자.
