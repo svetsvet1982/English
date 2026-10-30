@@ -280,8 +280,8 @@
 088. ELIAS: And my assistant's name, on October sixteenth?
     일라이어스: 그럼 10월 16일, 내 보좌관 이름은요?
 
-089. BRANDON: Envelope. Tuesday's shirts. I typed it at one thirty and sent it at one thirty-five. I'm sorry. I didn't know her. I'm sorry.
-    브랜든: 봉투요. 화요일에 찾은 셔츠. 1시 반에 타이핑해서 1시 35분에 보냈어요. 죄송해요. 그분 몰랐어요. 죄송해요.
+089. BRANDON: Envelope. I picked up shirts at lunch. I typed it at one thirty and sent it at one thirty-five. I'm sorry. I didn't know her. I'm sorry.
+    브랜든: 봉투요. 점심때 셔츠 찾으면서요. 1시 반에 타이핑해서 1시 35분에 보냈어요. 죄송해요. 그분 몰랐어요. 죄송해요.
 
 090. ELIAS: The FBI was still interviewing her at one thirty-five. Whoever wrote that envelope knew the result before the interview ended.
     일라이어스: 1시 35분엔 FBI가 아직 그 친구를 면담하고 있었어요. 그 봉투를 쓴 사람은 면담이 끝나기도 전에 결과를 알았던 거예요.
@@ -328,3 +328,168 @@
 104. ELIAS: Baltimore. I'll text you the address at seven. Eat your pie, Brandon. You haven't touched it.
     일라이어스: 볼티모어. 주소는 일곱 시에 문자로 보낼게요. 파이 먹어요, 브랜든. 손도 안 댔잖아요.
 
+105. JULIA: It's almost midnight, Elias. Either something's wrong, or you want a favor.
+    줄리아: 자정 다 됐어, 일라이어스. 뭔가 잘못됐거나, 부탁할 게 있거나.
+
+106. ELIAS: Both. Is Rosie asleep?
+    일라이어스: 둘 다. 로지는 자?
+
+107. JULIA: She's pretending to be. She's still wearing half her Halloween costume. Black tape on the sleeves. What's the favor?
+    줄리아: 자는 척하고 있어. 핼러윈 의상 반은 아직 입고 있고. 소매에 검은 테이프. 부탁이 뭔데?
+
+108. ELIAS: Hypothetically, if a Senate staffer wanted to tell a federal prosecutor how classified material reaches a newspaper, what would that look like?
+    일라이어스: 가정해서 하는 말인데, 상원 보좌관 하나가 기밀 자료가 어떻게 신문사로 가는지 연방 검사한테 털어놓고 싶다면, 그게 어떤 모양이 될까?
+
+109. JULIA: Is that a confession or a question?
+    줄리아: 그거 자백이야, 질문이야?
+
+110. ELIAS: It's a referral. He lives in Silver Spring. That's your district.
+    일라이어스: 소개야. 그 사람 실버스프링에 살아. 당신 관할이잖아.
+
+111. JULIA: Leaks of classified information go to the National Security Division at Main Justice. Not to an assistant U.S. attorney in Baltimore who happens to be your ex-wife.
+    줄리아: 기밀 유출은 법무부 본부 국가안보국 소관이야. 어쩌다 당신 전처인 볼티모어 연방 검사보한테 가는 게 아니라.
+
+112. ELIAS: Eventually, yes. But he'll talk to someone tomorrow, or he won't talk at all. Tomorrow, he'll talk to someone who scares him a little.
+    일라이어스: 결국엔 그렇겠지. 하지만 내일 누군가한테 말하든지, 아니면 영영 안 하든지야. 내일이라면 자기를 좀 겁주는 사람한테 말할 거고.
+
+113. JULIA: And you thought of me. That's touching.
+    줄리아: 그래서 내가 생각났구나. 감동이네.
+
+114. ELIAS: I thought of the most honest person I know who also knows the rules. It's a very short list.
+    일라이어스: 내가 아는 사람 중에 제일 정직하면서 규칙도 아는 사람을 떠올렸어. 아주 짧은 명단이야.
+
+115. JULIA: A proffer meeting. Ten a.m., my office, with an FBI agent from the Baltimore field office. Queen-for-a-day letter, nothing more. No promises. If he lies once, it's over.
+    줄리아: 프로퍼 면담. 오전 열 시, 내 사무실, 볼티모어 지부 FBI 요원 동석. '하루짜리 면책' 서한까지만. 약속은 없어. 한 번이라도 거짓말하면 끝이야.
+
+116. ELIAS: He won't lie. He's too frightened to remember what he made up.
+    일라이어스: 거짓말 안 할 거야. 너무 겁먹어서 지어낸 말을 기억도 못 할걸.
+
+117. JULIA: Did you lie to him to get this far?
+    줄리아: 여기까지 끌고 오려고 그 사람한테 거짓말했어?
+
+118. ELIAS: I told him the FBI already had his phone records.
+    일라이어스: FBI가 이미 통화 기록을 갖고 있다고 했어.
+
+119. JULIA: Elias.
+    줄리아: 일라이어스.
+
+120. ELIAS: I know. That's why I'm calling you instead of somebody who'd let it slide.
+    일라이어스: 알아. 그래서 그냥 넘어가 줄 사람 말고 당신한테 전화하는 거야.
+
+121. JULIA: Then don't come in the room tomorrow. Whatever he says, it has to be his, not something you put in his mouth at a diner.
+    줄리아: 그럼 내일 방엔 들어오지 마. 그 사람이 뭘 말하든 본인 말이어야 해. 당신이 다이너에서 입에 넣어 준 말이 아니라.
+
+122. ELIAS: I'll wait downstairs with bad coffee. How's my dad, by the way? He tells you more than he tells me.
+    일라이어스: 아래층에서 맛없는 커피 마시며 기다릴게. 그나저나 아빠는 어때? 나보다 당신한테 더 많이 말하잖아.
+
+123. JULIA: He's scared of the surgery and pretending he isn't. Like someone else I know. Rosie wants to go to Dayton for it, by the way, school or no school.
+    줄리아: 수술 겁나는데 안 그런 척하셔. 내가 아는 누구처럼. 그리고 로지는 학교고 뭐고 수술 때 데이턴에 가겠대.
+
+124. ELIAS: Then we'll all go. Thank you, Jules. I mean it.
+    일라이어스: 그럼 다 같이 가자. 고마워, 줄스. 진심이야.
+
+125. TOM: Ten forty. He's not coming, man.
+    톰: 열 시 40분. 안 온다, 얘.
+
+126. ELIAS: He's late. Frightened people are late.
+    일라이어스: 늦는 거예요. 겁먹은 사람은 늦어요.
+
+127. TOM: I had a guy from the Bureau drive past his building in Silver Spring at nine. Car's gone from the garage. Lights off. Phone's been dark since two a.m.
+    톰: 아홉 시에 FBI 아는 놈한테 실버스프링 그 친구 건물 앞을 지나가 보라고 했어. 차고에 차 없어. 불 꺼져 있고. 폰은 새벽 두 시부터 꺼져 있어.
+
+128. ELIAS: Two a.m. I got a text at two-twelve. I thought it was spam until I read it this morning.
+    일라이어스: 새벽 두 시. 나 2시 12분에 문자 받았어요. 아침에 읽기 전까진 스팸인 줄 알았어요.
+
+129. TOM: Read it.
+    톰: 읽어 봐.
+
+130. ELIAS: "They know about the pie. Don't look for me. Tell your assistant I'm sorry."
+    일라이어스: "그 사람들이 파이 얘기를 알아요. 날 찾지 마세요. 보좌관한테 미안하다고 전해 주세요."
+
+131. JULIA: He's not coming. My agent waited fifty minutes. I've been doing this for fifteen years. They don't come back after fifty minutes.
+    줄리아: 안 와. 우리 요원이 50분 기다렸어. 나 이 일 15년 했어. 50분 지나면 안 돌아와.
+
+132. ELIAS: "They know about the pie." Tom, who knew about last night?
+    일라이어스: "그 사람들이 파이 얘기를 안다." 형, 어젯밤 일 누가 알았죠?
+
+133. TOM: You, me, Lou. And the Secretary of State knew there'd be pie on Friday.
+    톰: 너, 나, 루. 그리고 국무장관은 금요일에 파이가 있을 거라는 걸 알았지.
+
+134. ELIAS: And whoever the Secretary mentioned it to. And whoever was watching Lou's.
+    일라이어스: 그리고 장관이 그 얘기를 한 누군가. 그리고 Lou's를 지켜보던 누군가.
+
+135. TOM: I swept the place. I didn't sweep the street. Somebody could have sat in a car the way I did.
+    톰: 가게는 훑었어. 거리는 못 훑었고. 누가 나처럼 차 안에 앉아 있었을 수도 있지.
+
+136. JULIA: Or he told someone himself. Frightened men call the one person they shouldn't, usually right after midnight.
+    줄리아: 아니면 본인이 누구한테 말했거나. 겁먹은 남자들은 꼭 연락하면 안 되는 사람한테 연락해. 대개 자정 직후에.
+
+137. ELIAS: Carver.
+    일라이어스: 카버.
+
+138. JULIA: Who's Carver?
+    줄리아: 카버가 누군데?
+
+139. ELIAS: A man with a military haircut and no first name. I'll write down everything Brandon said last night, word for word, and give it to your agent today. It's hearsay, I know.
+    일라이어스: 군인 머리에 이름은 없는 남자. 브랜든이 어젯밤 한 말 전부, 한마디도 빼지 않고 적어서 오늘 당신 요원한테 줄게. 전문 증거인 거 알아.
+
+140. JULIA: It's hearsay from a man who bluffs for a living. But I'll open a file. If Brandon Cole ever surfaces, he'll find a door with my name on it.
+    줄리아: 블러핑으로 먹고사는 남자한테서 나온 전문 증거지. 그래도 파일은 열게. 브랜든 콜이 언젠가 나타나면, 내 이름 붙은 문 하나는 찾게 될 거야.
+
+141. TOM: Your phone's buzzing.
+    톰: 네 폰 울린다.
+
+142. MAGGIE: Elias. I just heard Dale Pruitt's chief of staff resigned by email at six this morning. "Personal reasons." Do you know anything about that?
+    매기: 일라이어스. 방금 들었는데 데일 프루잇 수석 보좌관이 오늘 아침 여섯 시에 이메일로 사표를 냈대. "개인 사정"이래. 너 뭐 아는 거 있어?
+
+143. ELIAS: Only what you just told me.
+    일라이어스: 지금 말씀해 주신 것만요.
+
+144. MAGGIE: Good. Stay out of the Senate's laundry, Elias. It never comes out clean, and it always stains the person holding it.
+    매기: 다행이다. 상원 빨래엔 손대지 마, 일라이어스. 절대 깨끗하게 안 빠지고, 꼭 들고 있는 사람한테 얼룩이 묻어.
+
+145. ELIAS: I'll keep that in mind.
+    일라이어스: 명심할게요.
+
+146. TOM: You lied to her.
+    톰: 매기한테 거짓말했네.
+
+147. ELIAS: I said only what she told me. Everything else is still in Brandon's head, wherever that is tonight.
+    일라이어스: 매기가 말해 준 것만 말했어요. 나머지는 전부 아직 브랜든 머릿속에 있죠. 오늘 밤 그게 어디 있든.
+
+148. TOM: "This one comes from the seventh floor." How many offices are up there?
+    톰: "이건 7층에서 온 거야." 거기 사무실이 몇 개야?
+
+149. ELIAS: Enough to keep me up tonight. I've been in every one of them. I've eaten lunch in most of them.
+    일라이어스: 오늘 밤 잠 못 들 만큼은 돼요. 전부 다 들어가 봤어요. 대부분에선 점심도 먹어 봤고요.
+
+150. TOM: Then start with the ones who knew about the pie.
+    톰: 그럼 파이 얘기를 알았던 사람들부터 시작해.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **lawyer up** — 변호사를 선임해 입을 닫다 (007)
+- **turn into a pumpkin** — (마법이 풀려) 원래대로 돌아가다, 효력을 잃다 (007)
+- **a fishing trip** — 증거 없이 떠보는 것 (051)
+- **Let's not make this personal. Yet.** — 돌려 말한 위협 (052)
+- **cooperating witness** — 수사에 협조하는 증인 (070)
+- **What would it take for…?** — 조건을 묻는 협상 표현 (070)
+- **immunity** — 면책(기소 면제) (071)
+- **proffer / queen-for-a-day letter** — 검찰에 하는 사전 진술 / 그 진술을 본인에게 불리하게 쓰지 않겠다는 서한 (072, 115)
+- **courier ("I'm the hand, not the head.")** — 전달책 (075)
+- **Is that a confession or a question?** — 줄리아의 말버릇 (109)
+- **let something slide** — 그냥 넘어가 주다 (120)
+- **hearsay** — 전문 증거(남에게 들은 말) (139–140)
+- **Stay out of someone's laundry.** — 남의 지저분한 일에 끼지 마라 (144)
+
+## 역사 노트 (낭독하지 않음)
+
+- **케이블게이트(2010)**: 육군 정보분석병 첼시(당시 브래들리) 매닝이 국무부 외교 전문 약 25만 1천 건 등을 위키리크스에 넘겼고, 위키리크스는 2010년 11월 28일부터 <뉴욕타임스>, <가디언>, <슈피겔> 등과 함께 공개하기 시작했다. 매닝은 2010년 5월 체포되어 2013년 35년형을 선고받았고, 2017년 1월 오바마 대통령의 감형으로 같은 해 5월 석방되었다(약 7년 복역).
+- 미 정부 검토에서 유출로 인한 사망이 구체적으로 입증되지는 않았지만, 미국 외교관과 접촉한 일부 현지인은 신변 위험 때문에 거처를 옮기거나 나라를 떠나야 했다. 멕시코군의 마약 전쟁 대응을 비판한 전문이 공개된 뒤 칼데론 대통령이 공개적으로 불만을 표했고, 카를로스 파스쿠알 주멕시코 미국 대사는 2011년 3월 사임했다.
+- 극 중 활용: 브랜든은 "죽은 사람은 없었다"며 자신을 매닝보다 가벼운 존재로 합리화하고, 일라이어스는 "죽음을 증명 못 한 것과 피해가 없었던 건 다르다", "유출은 딱 맞는 때 도착하기만 하면 된다"고 반박하며 그를 무너뜨린다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 10화 "The Other Side of the Board": 미국 대선 이틀 뒤 헬싱키. 드미트리가 체스판을 들고 오라고 한다. 바이크소의 무장 괴한은 크렘린도 통제하지 못한 민간 용병이고, 그 돈은 브뤼셀을 거쳐 익숙한 이름으로 이어진다.
