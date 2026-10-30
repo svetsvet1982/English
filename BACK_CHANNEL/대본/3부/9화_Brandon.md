@@ -16,8 +16,8 @@
 
 ## 대본
 
-001. TOM: Lou's is clean. I swept it at six and again at eight. Lou thinks I'm with the health department.
-    톰: Lou's는 깨끗해. 여섯 시에 한 번, 여덟 시에 또 한 번 훑었어. 루는 내가 보건소 직원인 줄 알아.
+001. TOM: Lou's is clean. I swept it twice. Lou thinks I'm a health inspector.
+    톰: Lou's는 깨끗해. 두 번 훑었어. 루는 내가 위생 검사관인 줄 알아.
 
 002. ELIAS: Is he coming?
     일라이어스: 그 사람 온대요?
@@ -25,8 +25,8 @@
 003. TOM: He answered your text in nine seconds. "Nine p.m. Alone." People who aren't scared take longer than nine seconds.
     톰: 네 문자에 9초 만에 답했어. "밤 9시. 혼자." 겁 안 먹은 사람은 9초보다 오래 걸려.
 
-004. ELIAS: Then let's go over it once more. What does the Bureau actually have on Brandon Cole?
-    일라이어스: 그럼 한 번만 더 정리하죠. FBI가 브랜든 콜에 대해 실제로 가진 게 뭐예요?
+004. ELIAS: Once more. What does the Bureau actually have on Brandon Cole?
+    일라이어스: 한 번만 더요. FBI가 브랜든 콜에 대해 실제로 가진 게 뭐예요?
 
 005. TOM: Nothing. Ostrowski doesn't even know the trap exists. No warrant, no phone records, no file.
     톰: 없어. 오스트롭스키는 덫이 있는 줄도 몰라. 영장도, 통화 기록도, 파일도 없어.
@@ -70,11 +70,11 @@
 018. ELIAS: I told him about the pie. Not the place, not the time. He didn't ask.
     일라이어스: 파이 얘기만요. 장소도 시간도 아니고. 묻지도 않으셨어요.
 
-019. TOM: Callaway never asks. He waits for people to tell him. That's how he got to be Secretary.
-    톰: 캘러웨이는 원래 안 물어. 사람들이 말해 줄 때까지 기다리지. 그렇게 장관까지 간 거야.
+019. TOM: Callaway never asks. He waits. That's how he got to be Secretary.
+    톰: 캘러웨이는 원래 안 물어. 기다리지. 그렇게 장관까지 간 거야.
 
-020. LOU: Evening, Mr. Grant. Back booth's yours. Your friend from the health department says it's very clean.
-    루: 어서 와요, 그랜트 씨. 안쪽 칸막이 자리 비워 뒀어요. 보건소에서 온 친구분이 아주 깨끗하다던데.
+020. LOU: Evening, Mr. Grant. Back booth's yours. Your inspector friend says it's clean.
+    루: 어서 와요, 그랜트 씨. 안쪽 칸막이 자리예요. 검사관 친구분이 깨끗하다던데.
 
 021. ELIAS: Thanks, Lou. Someone's joining me. Young guy, nice suit, probably won't sit still.
     일라이어스: 고마워요, 루. 일행이 하나 와요. 젊은 친구고, 양복 좋고, 아마 가만히 못 앉아 있을 거예요.
@@ -124,14 +124,14 @@
 036. ELIAS: You know why. Last Thursday at four fifty-two, you signed for my status report at the Senate security office.
     일라이어스: 알잖아요. 지난 목요일 4시 52분에 상원 보안실에서 내 상황 보고서 수령 서명했죠.
 
-037. BRANDON: I sign for a hundred documents a week. That's my job. That's literally my entire job.
-    브랜든: 일주일에 문서 백 건씩 서명해요. 그게 제 일이에요. 말 그대로 그게 제 일 전부라고요.
+037. BRANDON: I sign for a hundred documents a week. That's literally my job.
+    브랜든: 일주일에 문서 백 건씩 서명해요. 말 그대로 그게 제 일이에요.
 
 038. ELIAS: You sat with that one for forty minutes. Three pages.
     일라이어스: 그건 40분 동안 붙들고 있었죠. 세 쪽짜리를.
 
-039. BRANDON: I read carefully. Is that a crime now? The senator expects me to brief him, so I read carefully.
-    브랜든: 꼼꼼히 읽은 거예요. 그게 이제 범죄예요? 의원님이 브리핑을 원하시니까 꼼꼼히 읽은 거라고요.
+039. BRANDON: I read carefully. Is that a crime now? The senator expects briefings.
+    브랜든: 꼼꼼히 읽은 거예요. 그게 이제 범죄예요? 의원님이 브리핑을 원하시니까요.
 
 040. ELIAS: Then let me tell you what you read. Four offices got that report. Every copy had one sentence nobody else had. Yours said the gunmen were "on a contract, not on a mission."
     일라이어스: 그럼 뭘 읽었는지 말해 주죠. 그 보고서는 네 곳이 받았어요. 사본마다 다른 데엔 없는 문장이 하나씩 있었고요. 당신 사본엔 무장 괴한들이 "임무가 아니라 계약으로 와 있다"고 적혀 있었죠.
@@ -175,11 +175,11 @@
 053. BRANDON: That's — no. They'd need a warrant for that. They'd need a judge.
     브랜든: 그건, 아니에요. 그러려면 영장이 필요해요. 판사가 있어야 한다고요.
 
-054. ELIAS: Agent Ostrowski is very efficient. She's been looking for whoever framed my assistant since the middle of October.
-    일라이어스: 오스트롭스키 요원은 아주 유능해요. 10월 중순부터 내 보좌관한테 누명 씌운 사람을 찾고 있었거든요.
+054. ELIAS: Agent Ostrowski is very efficient. She wants whoever framed my assistant.
+    일라이어스: 오스트롭스키 요원은 아주 유능해요. 내 보좌관한테 누명 씌운 사람을 찾고 있죠.
 
-055. BRANDON: I didn't frame anybody. I swear to God, I didn't write that story about her. I just —
-    브랜든: 전 아무한테도 누명 안 씌웠어요. 맹세해요, 그 여자에 대한 기사 제가 쓴 거 아니에요. 전 그냥…
+055. BRANDON: I didn't frame anybody. I swear to God. I just —
+    브랜든: 전 아무한테도 누명 안 씌웠어요. 맹세해요. 전 그냥…
 
 056. ELIAS: You just what?
     일라이어스: 그냥 뭐요?
@@ -226,8 +226,8 @@
 070. ELIAS: What would it take for you to walk out of here as a cooperating witness instead of a defendant?
     일라이어스: 피고인 말고 협조하는 증인으로 여기서 걸어 나가려면, 뭐가 있으면 되겠어요?
 
-071. BRANDON: Immunity. In writing. And nobody from the Senate finds out until I'm — until I'm somewhere else.
-    브랜든: 면책이요. 서면으로. 그리고 제가… 제가 다른 데 있게 될 때까지 상원 쪽 누구도 몰라야 돼요.
+071. BRANDON: Immunity. In writing. And nobody in the Senate finds out.
+    브랜든: 면책이요. 서면으로. 그리고 상원 쪽 누구도 몰라야 돼요.
 
 072. ELIAS: I can't give you immunity. I'm a diplomat. But I can put you in a room tomorrow morning with a federal prosecutor who'll hear a proffer. What you say there, she can't use against you.
     일라이어스: 면책은 못 줘요. 난 외교관이니까. 하지만 내일 아침에 진술을 들어 줄 연방 검사랑 한 방에 앉게 해 줄 순 있어요. 거기서 하는 말은 당신한테 불리하게 못 써요.
@@ -265,8 +265,8 @@
 083. BRANDON: Because the senator's biggest PAC donor is Halberd, and the first time I met Carver was at a Halberd reception in Reston. He gave me his card. It just said "Carver." No company.
     브랜든: 의원님 최대 정치후원회 기부자가 할버드고, 카버를 처음 만난 게 레스턴의 할버드 리셉션이었으니까요. 명함을 줬는데 그냥 "카버"라고만 쓰여 있었어요. 회사 이름도 없이.
 
-084. ELIAS: And the report last week? There was no envelope. You read it yourself in the Senate.
-    일라이어스: 그럼 지난주 보고서는요? 봉투가 없었잖아요. 상원에서 직접 읽었고.
+084. ELIAS: And last week's report? No envelope. You read it yourself.
+    일라이어스: 그럼 지난주 보고서는요? 봉투가 없었잖아요. 직접 읽었고.
 
 085. BRANDON: Carver called me Thursday night. He asked what the committee got that day. I told him. From memory. He called back Monday and said send it, and lead with the contract line.
     브랜든: 목요일 밤에 카버가 전화했어요. 그날 위원회가 뭘 받았냐고. 말해 줬죠. 외운 대로. 월요일에 다시 전화해서 보내라고, 계약 문장으로 시작하라고 했어요.
@@ -325,8 +325,8 @@
 103. BRANDON: Not here. Not D.C. Somewhere nobody from the Hill goes on a Saturday.
     브랜든: 여기는 안 돼요. 워싱턴은 안 돼요. 의회 사람들이 토요일에 안 가는 데로요.
 
-104. ELIAS: Baltimore. I'll text you the address at seven. Eat your pie, Brandon. You haven't touched it.
-    일라이어스: 볼티모어. 주소는 일곱 시에 문자로 보낼게요. 파이 먹어요, 브랜든. 손도 안 댔잖아요.
+104. ELIAS: Baltimore. Address at seven. Eat your pie, Brandon. You haven't touched it.
+    일라이어스: 볼티모어. 주소는 일곱 시에 보낼게요. 파이 먹어요, 브랜든. 손도 안 댔잖아요.
 
 105. JULIA: It's almost midnight, Elias. Either something's wrong, or you want a favor.
     줄리아: 자정 다 됐어, 일라이어스. 뭔가 잘못됐거나, 부탁할 게 있거나.
@@ -355,8 +355,8 @@
 113. JULIA: And you thought of me. That's touching.
     줄리아: 그래서 내가 생각났구나. 감동이네.
 
-114. ELIAS: I thought of the most honest person I know who also knows the rules. It's a very short list.
-    일라이어스: 내가 아는 사람 중에 제일 정직하면서 규칙도 아는 사람을 떠올렸어. 아주 짧은 명단이야.
+114. ELIAS: I thought of the most honest person who also knows the rules.
+    일라이어스: 제일 정직하면서 규칙도 아는 사람을 떠올렸어.
 
 115. JULIA: A proffer meeting. Ten a.m., my office, with an FBI agent from the Baltimore field office. Queen-for-a-day letter, nothing more. No promises. If he lies once, it's over.
     줄리아: 프로퍼 면담. 오전 열 시, 내 사무실, 볼티모어 지부 FBI 요원 동석. '하루짜리 면책' 서한까지만. 약속은 없어. 한 번이라도 거짓말하면 끝이야.
@@ -397,8 +397,8 @@
 127. TOM: I had a guy from the Bureau drive past his building in Silver Spring at nine. Car's gone from the garage. Lights off. Phone's been dark since two a.m.
     톰: 아홉 시에 FBI 아는 놈한테 실버스프링 그 친구 건물 앞을 지나가 보라고 했어. 차고에 차 없어. 불 꺼져 있고. 폰은 새벽 두 시부터 꺼져 있어.
 
-128. ELIAS: Two a.m. I got a text at two-twelve. I thought it was spam until I read it this morning.
-    일라이어스: 새벽 두 시. 나 2시 12분에 문자 받았어요. 아침에 읽기 전까진 스팸인 줄 알았어요.
+128. ELIAS: I got a text at two-twelve. I thought it was spam.
+    일라이어스: 2시 12분에 문자 받았어요. 스팸인 줄 알았어요.
 
 129. TOM: Read it.
     톰: 읽어 봐.
@@ -418,8 +418,8 @@
 134. ELIAS: And whoever the Secretary mentioned it to. And whoever was watching Lou's.
     일라이어스: 그리고 장관이 그 얘기를 한 누군가. 그리고 Lou's를 지켜보던 누군가.
 
-135. TOM: I swept the place. I didn't sweep the street. Somebody could have sat in a car the way I did.
-    톰: 가게는 훑었어. 거리는 못 훑었고. 누가 나처럼 차 안에 앉아 있었을 수도 있지.
+135. TOM: I swept the place, not the street. Somebody could've sat in a car.
+    톰: 가게는 훑었지, 거리는 아니야. 누가 차 안에 앉아 있었을 수도 있어.
 
 136. JULIA: Or he told someone himself. Frightened men call the one person they shouldn't, usually right after midnight.
     줄리아: 아니면 본인이 누구한테 말했거나. 겁먹은 남자들은 꼭 연락하면 안 되는 사람한테 연락해. 대개 자정 직후에.
@@ -454,8 +454,8 @@
 146. TOM: You lied to her.
     톰: 매기한테 거짓말했네.
 
-147. ELIAS: I said only what she told me. Everything else is still in Brandon's head, wherever that is tonight.
-    일라이어스: 매기가 말해 준 것만 말했어요. 나머지는 전부 아직 브랜든 머릿속에 있죠. 오늘 밤 그게 어디 있든.
+147. ELIAS: I said only what she told me. The rest is in Brandon's head.
+    일라이어스: 매기가 말해 준 것만 말했어요. 나머지는 브랜든 머릿속에 있죠.
 
 148. TOM: "This one comes from the seventh floor." How many offices are up there?
     톰: "이건 7층에서 온 거야." 거기 사무실이 몇 개야?
