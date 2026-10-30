@@ -442,8 +442,8 @@
 142. ELIAS: And if they don't match?
     일라이어스: 일치하지 않으면요?
 
-143. ANA: Then I'll know you're a liar, and you'll be on a plane to Washington by Friday.
-    아나: 그럼 당신이 거짓말쟁이라는 걸 알게 되겠죠. 금요일까지 워싱턴행 비행기에 타게 될 거고요.
+143. ANA: Then I'll know you're a liar, and you'll be on the next plane to Washington.
+    아나: 그럼 당신이 거짓말쟁이라는 걸 알게 되겠죠. 다음 워싱턴행 비행기에 타게 될 거고요.
 
 144. ELIAS: How many pages did they mark?
     일라이어스: 몇 장에 표시했습니까?

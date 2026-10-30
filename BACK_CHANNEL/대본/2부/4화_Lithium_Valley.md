@@ -35,13 +35,13 @@
     일라이어스: 그리고 호드리구 발렌치는 누가 그걸 가져갈지 자기가 정하고 싶어 하고요. 서류 한 번만 더 짚어 줘요.
 
 007. SAMIRA: Albatroz Azul is registered to Marítima Austral Ltda., São Paulo. It's a shell company. Its listed directors are nominees, people who get paid to sign things they never read.
-    사미라: 알바트로스 아줄은 상파울루의 마리치마 아우스트랄 유한회사 명의로 등록돼 있어요. 페이퍼컴퍼니죠. 등기상 이사들은 명목상 대리인이에요. 읽지도 않는 서류에 서명해 주고 돈 받는 사람들이요.
+    사미라: 알바트로스 아줄은 상파울루의 마리치마 아우스트라우 유한회사 명의로 등록돼 있어요. 페이퍼컴퍼니죠. 등기상 이사들은 명목상 대리인이에요. 읽지도 않는 서류에 서명해 주고 돈 받는 사람들이요.
 
 008. ELIAS: And the beneficial owner?
     일라이어스: 그럼 실소유주는요?
 
-009. SAMIRA: Follow the holding companies far enough, and every road ends at Grupo Valente.
-    사미라: 지주회사들을 끝까지 따라가 보면 모든 길이 그루푸 발렌치에서 끝나요.
+009. SAMIRA: Follow the beneficial-owner filing to a farm company in Mato Grosso, and it ends at Grupo Valente. A hundred percent.
+    사미라: 실소유주 신고를 따라가면 마투그로수의 농업 회사가 나오고, 그 끝이 그루포 발렌치예요. 지분 100퍼센트.
 
 010. TOM: Which is why I'm in a helicopter instead of a hotel bar.
     톰: 그래서 내가 호텔 바 대신 헬기에 타고 있는 거고.
@@ -58,8 +58,8 @@
 014. ELIAS: I wasn't asleep. I was thinking.
     일라이어스: 잔 거 아니에요. 생각한 거지.
 
-015. SAMIRA: You were snoring in Portuguese. Her chief of staff said, and I'm quoting, "Valente is not a businessman. He is a kingmaker, and the king is up for re-election."
-    사미라: 포르투갈어로 코 고셨어요. 비서실장이 이렇게 말했어요. 그대로 옮기면, "발렌치는 사업가가 아니다. 킹메이커다. 그리고 지금 왕이 재선을 앞두고 있다."
+015. SAMIRA: You were snoring in Portuguese. Renato Lins, her chief of staff, said, and I'm quoting, "Valente is not a businessman. He is a kingmaker, and the king is up for re-election."
+    사미라: 포르투갈어로 코 고셨어요. 비서실장 헤나투 린스가 이렇게 말했어요. 그대로 옮기면, "발렌치는 사업가가 아니다. 킹메이커다. 그리고 지금 왕이 재선을 앞두고 있다."
 
 016. ELIAS: Meaning President Albuquerque needs Minas Gerais in October, and Valente delivers Minas Gerais.
     일라이어스: 그러니까 알부케르키 대통령은 10월에 미나스제라이스가 필요하고, 미나스제라이스를 갖다 바치는 게 발렌치라는 거네요.
@@ -188,7 +188,7 @@
     일라이어스: 배요. 알바트로스 아줄. 1월에 NATO 케이블이 끊길 때 그 배가 바로 그 위에 떠 있었어요.
 
 058. VALENTE: I own a great many things, Senhor Grant. I don't steer them personally. Marítima Austral charters that vessel to clients. Clients I don't choose.
-    발렌치: 저는 많은 걸 갖고 있어요, 그랜트 씨. 제가 직접 키를 잡진 않죠. 마리치마 아우스트랄은 그 배를 고객들한테 빌려줘요. 제가 고르지 않는 고객들한테요.
+    발렌치: 저는 많은 걸 갖고 있어요, 그랜트 씨. 제가 직접 키를 잡진 않죠. 마리치마 아우스트라우은 그 배를 고객들한테 빌려줘요. 제가 고르지 않는 고객들한테요.
 
 059. ELIAS: Then tell me who chartered it.
     일라이어스: 그럼 누가 빌렸는지 말씀해 주세요.
@@ -445,17 +445,17 @@
 143. VALENTE: Ms. Li, you can't seriously be—
     발렌치: 리 대표님, 설마 진심으로—
 
-144. LI: I do not decide with feelings, Mr. Valente. I decide with spreadsheets. Tianlu will study the open tender. I withdraw the exclusive offer, effective now.
-    리 첸: 저는 감정으로 결정하지 않습니다, 발렌치 회장님. 스프레드시트로 결정하죠. 톈루는 공개 입찰을 검토하겠습니다. 독점 제안은 지금 이 시각부로 철회합니다.
+144. LI: I do not decide with feelings, Mr. Valente. I decide with spreadsheets. Tianlu will study the open tender. My exclusive offer is suspended, effective now.
+    리 첸: 저는 감정으로 결정하지 않습니다, 발렌치 회장님. 스프레드시트로 결정하죠. 톈루는 공개 입찰을 검토하겠습니다. 독점 제안은 지금 이 시각부로 보류합니다.
 
-145. VALENTE: You've stolen my auction. In my own house. Over my own fish.
-    발렌치: 내 경매를 훔쳐 가셨군요. 내 집에서. 내 생선을 먹으면서.
+145. VALENTE: You've frozen my auction. In my own house. Over my own fish.
+    발렌치: 내 경매를 얼려 버리셨군요. 내 집에서. 내 생선을 먹으면서.
 
 146. ELIAS: I've handed you a ribbon to cut. "Valente brings the refinery home." Five months before October, that's a far better headline than "Valente sells the valley to the highest bidder."
     일라이어스: 테이프 커팅할 기회를 드린 거예요. "발렌치, 정제 공장을 고향에 들여오다." 10월을 다섯 달 앞두고, "발렌치, 계곡을 최고 입찰자에게 팔다"보다 훨씬 나은 헤드라인이죠.
 
-147. VALENTE: Clever. Very clever. But you're forgetting something, Senhor Grant. I still have page nineteen.
-    발렌치: 영리하네요. 아주 영리해요. 그런데 잊으신 게 있어요, 그랜트 씨. 19쪽은 아직 제 손에 있다는 거.
+147. VALENTE: Clever. Very clever. But an auction paused is not an auction lost, Senhor Grant. And I still have page nineteen.
+    발렌치: 영리하네요. 아주 영리해요. 하지만 멈춘 경매가 진 경매는 아니에요, 그랜트 씨. 그리고 19쪽은 아직 제 손에 있고요.
 
 148. ELIAS: Then publish it. The day it runs, you have nothing left to sell me.
     일라이어스: 그럼 공개하세요. 실리는 날, 저한테 팔 건 하나도 안 남으실 테니까.

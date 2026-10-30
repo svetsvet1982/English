@@ -97,8 +97,8 @@
 027. SAMIRA: Distribution?
     사미라: 배포는요?
 
-028. ELIAS: The usual six. Callaway, Holloway, Hale, Dorsey, and Tom's two friends at Langley.
-    일라이어스: 늘 하던 여섯 명. 캘러웨이, 홀러웨이, 헤일, 도시, 그리고 톰의 랭글리 친구 둘.
+028. ELIAS: Six names. Callaway, Holloway, Hale, Dorsey, and Tom's two friends at Langley.
+    일라이어스: 여섯 명. 캘러웨이, 홀러웨이, 헤일, 도시, 그리고 톰의 랭글리 친구 둘.
 
 029. TOM: Friends is a strong word.
     톰: 친구는 좀 센 표현이다.
@@ -292,8 +292,8 @@
 092. ELIAS: You even score the coffee, Ms. Li.
     일라이어스: 커피까지 점수를 매기시네요, 리 대표님.
 
-093. LI: Everything can be scored. Let me save us time. Tianlu has committed four hundred and ten million dollars, nine antennas, one thirty-five-meter dish, and a thirty-year lease.
-    리: 뭐든 점수를 매길 수 있죠. 시간을 아껴 드릴게요. 톈루는 4억 1천만 달러, 안테나 9기, 35미터 접시 안테나 1기, 30년 임차 계약을 약속했어요.
+093. LI: Everything can be scored. Let me save us time. Tianlu has committed four hundred and ten million dollars, nine antennas when finished, one thirty-five-meter dish, and a thirty-year lease.
+    리: 뭐든 점수를 매길 수 있죠. 시간을 아껴 드릴게요. 톈루는 4억 1천만 달러, 완공 시 안테나 9기, 35미터 접시 안테나 1기, 30년 임차 계약을 약속했어요.
 
 094. ELIAS: And one hundred and twenty technicians, if I read the permit right.
     일라이어스: 그리고 기술자 120명이죠, 허가서를 제대로 읽었다면.

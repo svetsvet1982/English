@@ -49,8 +49,8 @@
 011. ROCHA: The money. Show them, Senhora Haddad. You found the match last night.
     호샤: 돈이요. 보여 드려요, 하다드 씨. 어젯밤에 일치하는 걸 찾으셨잖아요.
 
-012. SAMIRA: COAF traced every payment into Marítima Austral's account since 2026. Most of it is boring. One wire isn't. October twelfth, 2027. Four point two million dollars.
-    사미라: COAF가 2026년 이후 마리치마 아우스트라우 계좌로 들어온 모든 돈을 추적했어요. 대부분은 지루해요. 송금 한 건만 빼고요. 2027년 10월 12일. 420만 달러.
+012. SAMIRA: COAF traced every payment into Marítima Austral's account since 2026. Most of it is boring. Three wires aren't. October 2027, in dollars. Four point two million in total, the last one on the twelfth.
+    사미라: COAF가 2026년 이후 마리치마 아우스트라우 계좌로 들어온 모든 돈을 추적했어요. 대부분은 지루해요. 송금 세 건만 빼고요. 2027년 10월, 달러로요. 합계 420만 달러, 마지막 건이 12일.
 
 013. ELIAS: From where?
     일라이어스: 어디서?
@@ -58,7 +58,7 @@
 014. SAMIRA: A correspondent account at a bank in New York, on behalf of a company in Reston, Virginia. Now compare it with the appendix Yelena carried out in Katya's skate bag.
     사미라: 뉴욕 은행의 환거래 계좌인데, 버지니아 레스턴에 있는 회사를 대신해서 보낸 거예요. 이제 옐레나가 카탸 스케이트 가방에 숨겨 나온 부록이랑 비교해 보세요.
 
-015. ELIAS: Same date. Same amount. Same bank.
+015. ELIAS: Same dates. Same amounts. Same bank.
     일라이어스: 날짜도 같고, 금액도 같고, 은행도 같네.
 
 016. SAMIRA: Same everything, except that this time nobody blacked out the name. The beneficial owner of the account is Halberd Group LLC.
@@ -232,17 +232,17 @@
 072. ELIAS: It already is. You made it personal in Minas Gerais, when you put my Moscow file on the table.
     일라이어스: 이미 개인적인 일입니다. 미나스제라이스에서 제 모스크바 파일을 테이블에 올리셨을 때부터요.
 
-073. VALENTE: That file is still in my safe. "Off-Ramps for Moscow." It reads very well, even three years later.
-    발렌치: 그 파일은 아직 제 금고에 있어요. 「Off-Ramps for Moscow」. 3년이 지났는데도 아주 잘 읽히더군요.
+073. VALENTE: Page nineteen is still in my drawer, next to my grandfather's revolver. "Off-Ramps for Moscow," printed under your login at two-fourteen in the morning. It reads very well.
+    발렌치: 19쪽은 아직 제 서랍에 있어요. 할아버지 리볼버 옆에요. 새벽 2시 14분에 당신 계정으로 출력된 「Off-Ramps for Moscow」. 아주 잘 읽히더군요.
 
-074. ELIAS: Where did you get it?
-    일라이어스: 어디서 구하셨습니까?
+074. ELIAS: Where did you get the file?
+    일라이어스: 그 파일은 어디서 구하셨습니까?
 
 075. VALENTE: Reston gave it to me. As a gift, the way you give a man a knife. Where Reston got it, you'll have to ask them.
     발렌치: 레스턴이 줬어요. 선물로요. 남자한테 칼을 선물하듯이. 레스턴이 어디서 구했는지는 그쪽에 물어보셔야 할 거예요.
 
-076. ELIAS: I intend to.
-    일라이어스: 그럴 생각입니다.
+076. ELIAS: I intend to. That file only opens with a signature from one office in Washington. Somebody signed.
+    일라이어스: 그럴 생각입니다. 그 파일은 워싱턴의 한 사무실 서명이 있어야만 열려요. 누군가 서명을 한 거죠.
 
 077. VALENTE: And there's Doctor Campos's brother. A sealed file is only sealed until someone opens it. I'd hate for it to end up on the wrong desk five weeks before an election.
     발렌치: 그리고 캄푸스 박사 동생 건도 있죠. 봉인된 파일은 누가 열기 전까지만 봉인돼 있는 거예요. 선거 5주 전에 그게 엉뚱한 책상에 올라가는 건 저도 원치 않아요.
