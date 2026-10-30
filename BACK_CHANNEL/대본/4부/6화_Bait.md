@@ -340,8 +340,8 @@
 108. TOM: And the one cable I sent from Singapore.
     톰: 그리고 내가 싱가포르에서 보낸 전문 한 건.
 
-109. ELIAS: Not now, Tom. Tonight, somewhere without walls. Not on this line.
-    일라이어스: 지금은 말고, 톰. 오늘 밤, 벽 없는 데서. 이 회선으론 말고.
+109. ELIAS: Not now, Tom. Later, somewhere without walls. Not on this line.
+    일라이어스: 지금은 말고, 톰. 나중에, 벽 없는 데서. 이 회선으론 말고.
 
 110. ROSIE: Dad! You came! Mom said nine and it's eight-thirty. Is the world okay?
     로지: 아빠! 왔네! 엄마가 9시라고 했는데 지금 8시 반이야. 세상은 괜찮아?
@@ -412,8 +412,8 @@
 132. JULIA: She'll be twenty minutes. He's teaching her the Bonus Army. Now, you have something in your pocket you want to give me.
     줄리아: 20분은 걸릴 거야. 할아버지가 보너스 군대 얘기를 가르치고 계셔. 자, 너 주머니에 나한테 주고 싶은 게 있잖아.
 
-133. ELIAS: The recording. Kane, from yesterday afternoon. Nineteen minutes, unedited.
-    일라이어스: 녹음 파일. 어제 오후 케인이야. 19분, 편집 안 했어.
+133. ELIAS: The recording. Kane, from yesterday afternoon. Four minutes, unedited.
+    일라이어스: 녹음 파일. 어제 오후 케인이야. 4분, 편집 안 했어.
 
 134. JULIA: Don't give it to me.
     줄리아: 나한테 주지 마.
