@@ -9,7 +9,7 @@
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 2차대전 브라질 원정군(FEB)과 나타우 기지 '승리의 도약대' (1942–45) — 발렌치가 "브라질은 제철소 하나에 청년들을 팔았다"고 왜곡하자 아나가 1942년 8월 독일 잠수함의 브라질 선박 격침으로 반박하고, 일라이어스가 "뱀이 담배를 피웠다"는 이야기로 아나에게 '날짜는 스스로 고르라'고 설득한다. 프랭크는 나타우를 거쳐 간 삼촌 이야기를 한다
 > - 전술 태그: [공갈] [설득] [블러핑] [유출]
-> - 이번 화의 핵심 표현: In Rio, everyone wears a mask — carnival rules. / leverage / A secret is only a weapon while it's a secret. / sealed record / Put yourself in their shoes. / It would be a shame if… / Let's not make this personal. Yet. / kingmaker
+> - 이번 화의 핵심 표현: In Rio, everyone wears a mask — carnival rules. / leverage / A secret stops being a weapon the moment you tell it first. / sealed record / Put yourself in their shoes. / It would be a shame if… / Let's not make this personal. Yet. / kingmaker
 > - 복선/연결: 8화 마지막 발렌치의 경고 → 카이우의 2015년 봉인 사건 기록 · 봉인 기록은 5월 30일 사우바도르 법원 서기 계정으로 단 한 번 열람됨 · 랭글리가 톰에게 "아나 캄푸스의 개인적 약점"을 물어 옴(7화 랭글리의 구멍) · 아나가 공개 성명을 써서 서명했지만 서랍에 넣음(10화·12화) · 아나가 사임서도 써 둠(찢지 않음)
 
 ---
@@ -46,14 +46,14 @@
 010. ANA: Where did you get this?
     아나: 이거 어디서 났어요?
 
-011. VALENTE: Does it matter? Caio Campos, twenty-six years old, stopped in Rio Vermelho with cocaine in his jacket. And his lawyer of record — his own sister, Professor Ana Beatriz Campos.
-    발렌치: 그게 중요한가요? 카이우 캄푸스, 스물여섯 살, 히우 베르멜류에서 재킷에 코카인을 넣고 있다가 걸렸죠. 그리고 기록상 변호인은 친누나인 아나 베아트리스 캄푸스 교수.
+011. VALENTE: Does it matter? Caio Campos, twenty-three years old, stopped in Rio Vermelho with cocaine in his jacket. And his lawyer of record — his own sister, Professor Ana Beatriz Campos.
+    발렌치: 그게 중요한가요? 카이우 캄푸스, 스물세 살, 히우 베르멜류에서 재킷에 코카인을 넣고 있다가 걸렸죠. 그리고 기록상 변호인은 친누나인 아나 베아트리스 캄푸스 교수.
 
-012. ANA: It was possession for personal use. Under our law, that isn't even a prison offense. He got a warning and a course. It's in the file you're holding.
-    아나: 개인 사용 목적 소지였어요. 우리 법으로는 징역형도 아니에요. 경고랑 교육 이수 처분을 받았어요. 들고 계신 그 기록에 다 있잖아요.
+012. ANA: It was possession for personal use. Under our law, that isn't even a prison offense. He got a warning and a treatment program. It's in the file you're holding.
+    아나: 개인 사용 목적 소지였어요. 우리 법으로는 징역형도 아니에요. 경고랑 치료 프로그램 이수 처분을 받았어요. 들고 계신 그 기록에 다 있잖아요.
 
-013. VALENTE: The law, yes. But newspapers don't print the law. They print headlines. "Security Adviser Buried Brother's Cocaine Case." The judge who sealed it was your former student, wasn't he?
-    발렌치: 법은 그렇죠. 그런데 신문은 법을 싣지 않아요. 헤드라인을 싣죠. "안보수석, 동생 코카인 사건 묻었다." 봉인한 판사가 박사님 옛 제자였죠, 아마?
+013. VALENTE: The law, yes. But Portal Tribuna doesn't print the law. It prints headlines. "Security Adviser Buried Brother's Cocaine Case." The judge who sealed it was your former student, wasn't he?
+    발렌치: 법은 그렇죠. 그런데 『Portal Tribuna』는 법을 싣지 않아요. 헤드라인을 싣죠. "안보수석, 동생 코카인 사건 묻었다." 봉인한 판사가 박사님 옛 제자였죠, 아마?
 
 014. ANA: Half the judges in Bahia were my students. I taught for eleven years.
     아나: 바이아 판사 절반이 제 제자예요. 11년을 가르쳤어요.
@@ -169,17 +169,17 @@
 051. ANA: That's the only kind Americans give.
     아나: 미국인은 그런 조언밖에 안 하죠.
 
-052. ELIAS: Publish it yourself. Before he does. The case, the warning, the course, your role as his lawyer, and the fact that Rodrigo Valente tried to use it to buy a cabinet vote.
-    일라이어스: 직접 공개하십시오. 그 사람보다 먼저. 사건, 경고 처분, 교육 이수, 변호인으로서의 박사님 역할, 그리고 호드리구 발렌치가 그걸로 내각 표를 사려 했다는 사실까지.
+052. ELIAS: Publish it yourself. Before he does. The case, the warning, the treatment, your role as his lawyer, and the fact that Rodrigo Valente tried to use it to buy a cabinet vote.
+    일라이어스: 직접 공개하십시오. 그 사람보다 먼저. 사건, 경고 처분, 치료 이수, 변호인으로서의 박사님 역할, 그리고 호드리구 발렌치가 그걸로 내각 표를 사려 했다는 사실까지.
 
 053. ANA: You want me to destroy my brother to save a contract.
     아나: 계약 하나 지키자고 내 동생을 망가뜨리라는 거군요.
 
-054. ELIAS: I want you to take the weapon out of Valente's hand. A secret is only a weapon while it's a secret. The moment you say it out loud, it's just a fact — and an old one.
-    일라이어스: 발렌치 손에서 무기를 빼앗으시라는 겁니다. 비밀은 비밀일 때만 무기입니다. 소리 내어 말하는 순간 그냥 사실이 되죠. 그것도 오래된 사실이요.
+054. ELIAS: I want you to take the weapon out of Valente's hand. A secret stops being a weapon the moment you tell it first. After that, it's just a fact — and an old one.
+    일라이어스: 발렌치 손에서 무기를 빼앗으시라는 겁니다. 비밀은 먼저 말하는 순간 무기가 아니게 됩니다. 그다음엔 그냥 사실이죠. 그것도 오래된 사실이요.
 
-055. ANA: Easy for you to say. It's not your brother on the front page of O Globo.
-    아나: 말이야 쉽죠. 「오 글로부」 1면에 실리는 게 당신 동생은 아니잖아요.
+055. ANA: Easy for you to say. It's not your brother on the front page of Portal Tribuna.
+    아나: 말이야 쉽죠. 『Portal Tribuna』 첫 화면에 실리는 게 당신 동생은 아니잖아요.
 
 056. ELIAS: No. It was me on the front page of the Sentinel in 2025. I spent three years letting other people decide when my story got told. I wouldn't recommend it.
     일라이어스: 아니죠. 2025년 <센티널> 1면엔 제가 실렸습니다. 3년 동안 제 이야기를 언제 할지 남들이 정하게 내버려 뒀어요. 권하고 싶지 않습니다.
@@ -250,8 +250,8 @@
 078. ELIAS: Samira, walk me through the law. If Ana publishes, how bad is it really?
     일라이어스: 사미라, 법 쪽으로 설명해 줘요. 아나가 공개하면 실제로 얼마나 나빠요?
 
-079. SAMIRA: Legally? Almost nothing. Possession for personal use carries no prison in Brazil. Warnings, community service, or an educational course. Caio got the warning and the course.
-    사미라: 법적으로요? 거의 없어요. 브라질에선 개인 사용 목적 소지는 징역형이 없어요. 경고, 사회봉사, 아니면 교육 이수. 카이우는 경고랑 교육 이수를 받았고요.
+079. SAMIRA: Legally? Almost nothing. Possession for personal use carries no prison in Brazil. Warnings, community service, or an educational or treatment program. Caio got the warning and the program.
+    사미라: 법적으로요? 거의 없어요. 브라질에선 개인 사용 목적 소지는 징역형이 없어요. 경고, 사회봉사, 아니면 교육·치료 프로그램 이수. 카이우는 경고랑 프로그램 이수를 받았고요.
 
 080. ELIAS: And the seal?
     일라이어스: 봉인은요?
@@ -367,8 +367,8 @@
 117. ANA: Caio—
     아나: 카이우…
 
-118. CAIO: Let me finish. I was twenty-six and stupid, and you picked up at two in the morning. I've been sober nine years. I mix records for kids from the favelas who can't pay. I'm not ashamed of who I am now.
-    카이우: 끝까지 말하게 해 줘. 난 스물여섯에 멍청했고, 누난 새벽 2시에 전화를 받았어. 난 9년째 맨정신이야. 돈 못 내는 파벨라 애들 음반 믹싱해 줘. 지금의 나는 하나도 부끄럽지 않아.
+118. CAIO: Let me finish. I was twenty-three and stupid, and you picked up at two in the morning. I've been sober nine years. I mix records for kids from the favelas who can't pay. I'm not ashamed of who I am now.
+    카이우: 끝까지 말하게 해 줘. 난 스물셋에 멍청했고, 누난 새벽 2시에 전화를 받았어. 난 9년째 맨정신이야. 돈 못 내는 파벨라 애들 음반 믹싱해 줘. 지금의 나는 하나도 부끄럽지 않아.
 
 119. ANA: I know you're not.
     아나: 알아.
@@ -397,8 +397,8 @@
 127. ANA: And the President? The campaign? I'd be handing the other side a story twelve weeks before the vote.
     아나: 대통령은? 캠프는? 투표 12주 전에 상대 진영한테 이야깃거리를 갖다 바치는 거야.
 
-128. ELIAS: You'd be handing them an old story about a warning and a course, and a new story about Valente's blackmail. One of those stories is a lot bigger than the other.
-    일라이어스: 경고 처분과 교육 이수에 관한 오래된 이야기 하나, 그리고 발렌치의 협박에 관한 새 이야기 하나를 주시는 겁니다. 둘 중 하나가 훨씬 큰 이야기죠.
+128. ELIAS: You'd be handing them an old story about a warning and a treatment program, and a new story about Valente's blackmail. One of those stories is a lot bigger than the other.
+    일라이어스: 경고 처분과 치료 이수에 관한 오래된 이야기 하나, 그리고 발렌치의 협박에 관한 새 이야기 하나를 주시는 겁니다. 둘 중 하나가 훨씬 큰 이야기죠.
 
 129. ANA: You're assuming people will believe me.
     아나: 사람들이 내 말을 믿을 거라고 가정하시는군요.
@@ -477,7 +477,7 @@
 - **leverage** — 지렛대, 협상력 / It's called leverage. (028)
 - **sovereign country** — 주권 국가 (028)
 - **Let's not make this personal.** — 사적인 문제로 끌고 가지 말자는 경고 (030)
-- **A secret is only a weapon while it's a secret.** — 비밀은 공개하는 순간 무기가 아니게 된다 (054)
+- **A secret stops being a weapon the moment you tell it first.** — 비밀은 먼저 말하는 순간 무기가 아니게 된다 (054)
 - **take the day back** — (상대가 정한) 시점을 되찾다, 주도권을 되찾다 (066)
 - **Put yourself in a voter's shoes.** — 상대(유권자) 입장에서 생각해 보라 (083)
 - **tasking request** — (정보기관의) 수집 지시·요청 (086)
@@ -490,7 +490,7 @@
 - 1942년 8월, 독일 잠수함(U-507 등)이 브라질 북동부 해안에서 브라질 선박들을 연이어 격침해 수백 명이 숨졌다. 브라질은 1942년 8월 22일 독일·이탈리아에 선전포고했다. 그 전 제툴리우 바르가스 정부는 미국과 협상해 볼타 헤돈다 제철소(CSN) 건설 자금 지원을 얻어 냈고, 미국은 브라질 북동부 기지 사용권을 얻었다.
 - 나타우의 파르나미링 비행장은 미국 항공기가 남대서양을 건너 아프리카와 지중해·중동 전선으로 가는 핵심 중계지였고, '승리의 도약대(Trampolim da Vitória)'라고 불렸다.
 - 브라질 원정군(FEB)은 약 2만 5천 명 규모로 1944~45년 이탈리아 전선에서 미 제5군 예하로 싸웠다. 1945년 2월 21일 앞선 공격들이 실패했던 몬테 카스텔로를 점령했고, 이어 몬테세 전투 등에 참가했다. "브라질이 참전하느니 뱀이 담배를 피울 것"이라는 말을 비꼬아 담배 피우는 뱀(A Cobra Fumando)을 부대 휘장으로 삼았다. 전사자 유해는 뒤에 리우 플라멩구의 2차대전 전몰자 기념비로 옮겨졌다.
-- 극 중 활용: 발렌치는 참전을 "제철소 하나에 청년들을 판 거래"로 왜곡하고, 아나는 독일 잠수함의 공격과 바르가스의 협상력을 들어 반박한다. 일라이어스는 '모두가 브라질은 못 한다고 정했지만 브라질이 다르게 정했다'는 뱀 휘장 이야기로 "날짜를 남에게 맡기지 말라"고 설득한다. ※ 브라질 마약법(2006년 법률 제11.343호) 제28조상 개인 사용 목적 소지는 징역형이 아니라 경고·사회봉사·교육 이수 처분 대상이다. 카이우 사건 자체는 가상이다.
+- 극 중 활용: 발렌치는 참전을 "제철소 하나에 청년들을 판 거래"로 왜곡하고, 아나는 독일 잠수함의 공격과 바르가스의 협상력을 들어 반박한다. 일라이어스는 '모두가 브라질은 못 한다고 정했지만 브라질이 다르게 정했다'는 뱀 휘장 이야기로 "날짜를 남에게 맡기지 말라"고 설득한다. ※ 브라질 마약법(2006년 법률 제11.343호) 제28조상 개인 사용 목적 소지는 징역형이 아니라 경고·사회봉사·교육 프로그램 이수 처분 대상이다. 카이우 사건 자체는 가상이다.
 
 ## 다음 화 예고 (낭독하지 않음)
 
