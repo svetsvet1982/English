@@ -148,9 +148,102 @@
 044. SAMIRA: Seven thirty-nine. The Orbis pass is in one minute.
     사미라: 7시 39분. 오르비스 위성 통과 1분 전이에요.
 
-045. TOM: Let them take their picture. All it'll show is an empty sandbar.
-    톰: 사진 찍으라 그래. 빈 모래톱밖에 안 찍힐 테니까.
+045. TOM: Let them take their picture. All they'll get is a Navy helicopter flying toward a Chinese ship.
+    톰: 사진 찍으라 그래. 찍혀 봐야 중국 배 쪽으로 날아가는 해군 헬기 한 대뿐이야.
 
-046. ELIAS: Not empty. He left the mirror. Somebody should go back for it someday.
-    일라이어스: 비어 있진 않을 거야. 거울을 두고 왔어. 언젠가 누가 가져와야겠지.
+046. ELIAS: Which is exactly what happened. For once, a picture that tells the truth.
+    일라이어스: 실제로 일어난 일 그대로네. 모처럼 진실을 말하는 사진이야.
+
+047. ANCHOR: This is the morning news. Captain Gao Feng, missing for seventeen days, has been rescued alive in a joint search under Chinese command.
+    앵커: 아침 뉴스입니다. 17일간 실종됐던 가오펑 대위가 중국 지휘하의 공동 수색으로 살아서 구조됐습니다.
+
+048. ANCHOR: These pictures, filmed by a Chinese naval drone, show an American helicopter assisting at the request of the Chinese commander on the scene.
+    앵커: 중국 해군 드론이 촬영한 이 화면에는, 현장의 중국 지휘관 요청에 따라 미국 헬기가 지원하는 모습이 담겼습니다.
+
+049. SAMIRA: They're running it in a loop. The hoist, the Chinese ship, the hoist again. And there's his wife.
+    사미라: 계속 반복해서 틀어 주네요. 호이스트, 중국 배, 다시 호이스트. 그리고 저기 부인이에요.
+
+050. ANCHOR: Captain Gao's wife told reporters her daughter asked only one question this morning: "Is Papa hungry?"
+    앵커: 가오 대위의 부인은 기자들에게, 딸이 오늘 아침 딱 한 가지만 물었다고 전했습니다. "아빠 배고파?"
+
+051. TOM: "Is Papa hungry." Your old man and that kid would get along.
+    톰: "아빠 배고파?"라. 너희 아버지랑 그 애랑 죽이 잘 맞겠다.
+
+052. MAGGIE: They would. May I come in? Ops told me this was the best seat in the building.
+    매기: 그러겠지. 들어가도 될까? 작전센터에서 여기가 이 건물 최고의 자리라더라.
+
+053. ELIAS: Deputy Secretary. Of course.
+    일라이어스: 부장관님. 물론이죠.
+
+054. MAGGIE: Don't stand. You've earned the chair. Seventeen days, a sandbar with no name, and the Chinese filmed our helicopter for us. I couldn't have scripted it.
+    매기: 일어나지 마. 그 의자는 네가 번 거야. 17일, 이름 없는 모래톱, 게다가 중국이 우리 헬기를 대신 찍어 줬어. 각본을 써도 이렇게는 못 썼을 거야.
+
+055. ELIAS: Nobody scripted it. That's why it worked.
+    일라이어스: 아무도 각본을 안 썼죠. 그래서 된 거예요.
+
+056. MAGGIE: The map came from somewhere. NOAA says it wasn't theirs. The Navy says it wasn't theirs. Ingrid Halvorsen suddenly doesn't return my calls.
+    매기: 지도는 어디선가 나왔지. 해양대기청은 자기네 게 아니래. 해군도 자기네 게 아니래. 잉그리드 할보르센은 갑자기 내 전화를 안 받고.
+
+057. ELIAS: It came from people who wanted him found. I promised I wouldn't say more than that.
+    일라이어스: 그 사람이 발견되길 바란 사람들한테서 나왔어요. 그 이상은 말 안 하기로 약속했어요.
+
+058. MAGGIE: You promised. To whom, I wonder. Never mind. You've always kept your sources the way other men keep mistresses.
+    매기: 약속했다라. 누구한테 했을까. 됐어. 넌 늘 다른 남자들이 정부(情婦) 숨기듯 정보원을 숨겼지.
+
+059. SAMIRA: The Chinese want the crew-release letter settled before the weekend.
+    사미라: 중국 측은 승무원 석방 서한을 주말 전에 정리하고 싶어 해요.
+
+060. MAGGIE: Then let's be careful. Every word in that letter will be read in Taipei before it's read in Beijing. Remember 1972. Nixon gave Taiwan away with one verb.
+    매기: 그럼 조심해야지. 그 서한의 단어 하나하나가 베이징보다 타이베이에서 먼저 읽힐 거야. 1972년을 기억해. 닉슨은 동사 하나로 대만을 내줬어.
+
+061. ELIAS: "Acknowledges." With respect, he didn't give anything away. He acknowledged what both sides of the strait were saying. Acknowledging isn't agreeing.
+    일라이어스: '인정한다(acknowledges)'. 외람되지만, 닉슨은 아무것도 내주지 않았어요. 해협 양쪽이 하는 말을 '들었다'고 한 거죠. 인정하는 것과 동의하는 건 달라요.
+
+062. MAGGIE: Tell that to Taipei in 1979, when we cut relations.
+    매기: 그 말 1979년에 단교했을 때 타이베이한테 해 보지 그랬어.
+
+063. ELIAS: That same year Congress passed the Taiwan Relations Act. Seven years after Shanghai, and it's still the law. The verb held, and so did the promise.
+    일라이어스: 바로 그해에 의회가 대만관계법을 통과시켰죠. 상하이에서 7년 뒤에요. 지금도 유효한 법이에요. 동사도 버텼고, 약속도 버텼어요.
+
+064. MAGGIE: You sound like your father. I mean that as a compliment, mostly.
+    매기: 너희 아버지처럼 말하네. 칭찬이야. 대체로는.
+
+065. ELIAS: He'll take it as one. He got your pie, by the way.
+    일라이어스: 아빠는 칭찬으로 받으실 거예요. 그리고 파이 잘 받으셨대요.
+
+066. MAGGIE: Good. Draft the letter yourself. Send it to my office before it goes to Beijing, so we can give it the full interagency review.
+    매기: 다행이다. 서한은 네가 직접 써. 베이징 가기 전에 내 사무실로 보내. 관계 부처 검토를 제대로 거치게.
+
+067. ELIAS: The Secretary asked me to bring it straight to him. Nothing in writing until it's agreed.
+    일라이어스: 장관님이 바로 자기한테 가져오라고 하셨어요. 합의되기 전엔 문서로 남기지 말라고요.
+
+068. MAGGIE: Did he. Robert has become very fond of things that aren't written down.
+    매기: 그랬어? 로버트가 요즘 글로 안 남기는 걸 아주 좋아하게 됐네.
+
+069. ELIAS: He learned it from the best.
+    일라이어스: 최고한테 배웠으니까요.
+
+070. MAGGIE: Careful, Elias. That almost sounded like something. Well done today. Truly. And when you're ready to tell me how you really spent November twenty-ninth, my door's open.
+    매기: 조심해, 일라이어스. 방금 그거 뭔가 의미 있게 들렸어. 오늘 정말 잘했어. 진심으로. 그리고 11월 29일을 실제로 어떻게 보냈는지 말할 준비가 되면, 내 문은 열려 있어.
+
+071. TOM: She knows about Beijing.
+    톰: 베이징 일, 저 사람 알고 있어.
+
+072. ELIAS: She knows I want her to wonder. That's different.
+    일라이어스: 내가 궁금하게 만들고 싶어 한다는 걸 아는 거지. 그건 달라.
+
+073. SAMIRA: Permission to be blunt? Cable news has the Orbis picture. Our helicopter heading for a Chinese ship.
+    사미라: 솔직하게 말해도 될까요? 케이블 뉴스에 오르비스 사진이 나왔어요. 중국 배로 향하는 우리 헬기요.
+
+074. TOM: Let me guess the caption.
+    톰: 자막 맞혀 볼까.
+
+075. SAMIRA: "U.S. Navy Takes Orders from the PLA." Senator Pruitt's office has already tweeted it twice.
+    사미라: "미 해군, 인민해방군의 명령을 받다." 프루잇 의원실이 벌써 두 번이나 퍼 날랐어요.
+
+076. TOM: Seventy-two hours of pictures they bought on Wednesday, and they got the one frame they wanted.
+    톰: 수요일에 72시간 치를 사들이더니, 원하던 장면 하나를 건졌네.
+
+077. ELIAS: A true picture with a false caption. That's how they've always worked. Let it run. We have a letter to write.
+    일라이어스: 진짜 사진에 가짜 자막. 그 사람들은 늘 그렇게 해 왔어. 그냥 두자. 우린 써야 할 서한이 있어.
 

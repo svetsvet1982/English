@@ -318,3 +318,180 @@
 
 101. ZHOU: For you, Beijing time. Maybe eleven hours.
     저우: 너한텐 베이징 시간으로. 한 열한 시간쯤.
+
+102. TOM: So? Did you win?
+    톰: 그래서? 이겼어?
+
+103. ELIAS: Eleven, three. And he had my talking points. Word for word, eleven hours before we landed.
+    일라이어스: 11 대 3. 그리고 그 친구가 내 발언 요지를 갖고 있었어. 한 글자도 안 틀리고. 우리가 착륙하기 열한 시간 전에.
+
+104. TOM: Hell. That's not a leak, man. That's a delivery service.
+    톰: 젠장. 그건 유출이 아니라 택배 서비스네.
+
+105. SAMIRA: Five people, Special Envoy. You, the Secretary, Hale, Dorsey, and the drafter in the Deputy Secretary's office.
+    사미라: 다섯 명이에요, 특사님. 특사님, 장관님, 헤일, 도시, 그리고 부장관 집무실의 작성자.
+
+106. ELIAS: Six, if you count whoever typed it into a server somewhere.
+    일라이어스: 어딘가 서버에 그걸 입력한 사람까지 치면 여섯이죠.
+
+107. TOM: Zhou said "a consultant." In this town that word is a business card. In Reston, it's a whole floor.
+    톰: 저우가 '컨설턴트'라고 했다며. 이 동네에선 그 단어가 명함 한 장이지만, 레스턴에선 건물 한 층이야.
+
+108. ELIAS: Don't say Reston on this line either. Samira, page nineteen. Same rules.
+    일라이어스: 이 회선에서도 레스턴 소리 하지 마. 사미라, 19번 페이지. 규칙은 같아요.
+
+109. SAMIRA: Already written. Nineteen: talking points to Beijing, five recipients, eleven hours ahead. Second line: "friend of China."
+    사미라: 벌써 적었어요. 19번. 발언 요지가 베이징으로, 수신자 다섯, 열한 시간 먼저. 둘째 줄, '중국의 친구'.
+
+110. TOM: Your phone. It's her.
+    톰: 네 전화. 그 사람이야.
+
+111. MAGGIE: Elias. Tell me something I can carry upstairs.
+    매기: 일라이어스. 위층에 들고 갈 만한 거 말해 봐.
+
+112. ELIAS: Zhou set out four demands. Apology, flights, compensation, and the aircraft stays. The crew's future depends on our "attitude."
+    일라이어스: 저우가 요구 네 가지를 내놨어요. 사과, 비행, 배상, 그리고 기체는 남는다. 승무원의 앞날은 우리 '태도'에 달렸고요.
+
+113. MAGGIE: That's the script. What's under it?
+    매기: 그건 대본이고. 그 밑엔 뭐가 있어?
+
+114. ELIAS: He's under pressure from a PLA colonel named Meng, Southern Theater. And he may give us consular access tonight.
+    일라이어스: 남부전구의 멍이라는 인민해방군 대령한테 압박받고 있어요. 그리고 오늘 밤 영사 접견을 줄지도 몰라요.
+
+115. MAGGIE: May. Did you use the procedures review?
+    매기: 줄지도. 절차 재검토 카드는 썼어?
+
+116. ELIAS: No. I kept it in my pocket. It's the only door you gave me, and I didn't want to open it on day three.
+    일라이어스: 아뇨. 주머니에 넣어 뒀어요. 부장관님이 주신 유일한 문인데, 사흘째에 열고 싶지 않았어요.
+
+117. MAGGIE: Good. Anything else? Anything about how he's reading us?
+    매기: 잘했어. 다른 건? 그쪽이 우릴 어떻게 읽고 있는지 같은 거?
+
+118. ELIAS: Nothing worth carrying. He thinks we're bluffing about the strait.
+    일라이어스: 들고 가실 만한 건 없어요. 우리가 해협 얘기로 블러핑한다고 생각해요.
+
+119. MAGGIE: We are bluffing about the strait. Make him think we aren't. History doesn't remember the polite, Elias.
+    매기: 해협 얘긴 블러핑 맞아. 아니라고 믿게 만들어. 역사는 점잖은 사람을 기억하지 않아, 일라이어스.
+
+120. ELIAS: You keep saying that. Sometimes I wonder who it's for.
+    일라이어스: 그 말 자주 하시네요. 가끔은 누구 들으라고 하시는 건지 궁금해요.
+
+121. MAGGIE: It's for both of us. Call me after the consul goes in. Not before.
+    매기: 우리 둘 다. 영사가 들어간 다음에 전화해. 그 전엔 말고.
+
+122. TOM: You didn't tell her.
+    톰: 말 안 했네.
+
+123. ELIAS: I told her the truth. I just didn't tell her all of it.
+    일라이어스: 사실을 말했지. 전부를 말하지 않았을 뿐이야.
+
+124. TOM: That's the most State Department sentence I've ever heard.
+    톰: 내가 들어 본 중에 제일 국무부스러운 문장이다.
+
+125. FRANK: It's me. The nurses let me have the phone for ten minutes. Did you eat?
+    프랭크: 나다. 간호사들이 10분 동안 전화 쓰게 해 줬어. 밥은 먹었니?
+
+126. ELIAS: Embassy sandwiches. Tuna. How's the chest?
+    일라이어스: 대사관 샌드위치요. 참치. 가슴은 좀 어떠세요?
+
+127. FRANK: Like a door somebody slammed. I walked to the window this morning. Eleven steps. Rosie counted.
+    프랭크: 누가 쾅 닫은 문 같다. 오늘 아침엔 창가까지 걸었어. 열한 걸음. 로지가 셌다.
+
+128. ELIAS: Eleven. That's a good number today.
+    일라이어스: 열하나. 오늘은 그게 좋은 숫자네요.
+
+129. FRANK: The television says you're in Singapore. Rosie says you're "allegedly" in Singapore. Played any ping-pong?
+    프랭크: 텔레비전에선 네가 싱가포르에 있다더라. 로지는 네가 싱가포르에 '있다고 알려졌다'고 하고. 탁구는 쳤니?
+
+130. ELIAS: How did you know?
+    일라이어스: 어떻게 아셨어요?
+
+131. FRANK: Nineteen seventy-one. Of course they'd make you play. Just remember, those kids in Nagoya were scared to death. Brave things usually look like small things.
+    프랭크: 1971년. 당연히 너한테도 치게 했겠지. 그냥 기억해라, 나고야의 그 젊은이들은 겁에 질려 있었다. 용감한 일은 대개 작은 일처럼 보이는 법이야.
+
+132. ELIAS: Go back to bed, Dad.
+    일라이어스: 다시 누우세요, 아빠.
+
+133. ZHOU: The consul went in at eight. Forty minutes, all nine, one room. Colonel Meng's officers sat in the corner.
+    저우: 영사가 8시에 들어갔어. 40분, 아홉 명 전원, 한 방에서. 멍 대령 쪽 장교들이 구석에 앉아 있었고.
+
+134. ELIAS: Samira read me the cable. Lieutenant Commander Brooks asked the consul to tell her mother the dog's pills are in the blue cabinet.
+    일라이어스: 사미라가 전문을 읽어 줬어. 브룩스 소령이 영사한테, 어머니께 개 약은 파란 찬장에 있다고 전해 달라고 했대.
+
+135. ZHOU: Our people thought it was a code. They spent an hour on the blue cabinet.
+    저우: 우리 쪽에선 암호인 줄 알았어. 파란 찬장 하나로 한 시간을 썼지.
+
+136. ELIAS: Was it a code?
+    일라이어스: 암호였어?
+
+137. ZHOU: I hope so. I'd hate for Colonel Meng to have wasted an hour on a dog.
+    저우: 그랬으면 좋겠다. 멍 대령이 개 한 마리 때문에 한 시간을 날렸다면 안됐잖아.
+
+138. ELIAS: Thank you, Lao Zhou. I know what that cost.
+    일라이어스: 고마워, 라오저우. 그게 얼마짜리였는지 알아.
+
+139. ZHOU: You don't. That's why I came up here alone. In my file, you're one line. "Roommate, Nanjing, 2006. American. Later a diplomat." Every time I'm promoted, someone reads that line aloud.
+    저우: 넌 몰라. 그래서 혼자 올라온 거야. 내 파일에서 넌 한 줄이야. "룸메이트, 난징, 2006. 미국인. 이후 외교관." 내가 승진할 때마다 누군가 그 줄을 소리 내 읽어.
+
+140. ELIAS: There's a line like that in mine, too. My boss read it to me two nights ago.
+    일라이어스: 내 파일에도 그런 줄이 있어. 이틀 전 밤에 내 상관이 나한테 읽어 줬지.
+
+141. ZHOU: Then we're both men with a line in our files. Tonight Colonel Meng told my minister that I'm too soft on you. Tomorrow he'll say it to someone higher.
+    저우: 그럼 우린 둘 다 파일에 한 줄씩 가진 남자들이네. 오늘 밤 멍 대령이 우리 부장님한테 내가 너한테 너무 무르다고 했어. 내일은 더 높은 사람한테 그럴 거고.
+
+142. ELIAS: Is he right?
+    일라이어스: 그 사람 말이 맞아?
+
+143. ZHOU: He's right that I want Captain Gao's daughter to have a father, and your nine to be home for Christmas. He's wrong that this is soft.
+    저우: 내가 가오 대위 딸한테 아빠가 있길 바라고, 너희 아홉 명이 크리스마스엔 집에 있길 바라는 건 맞아. 그게 무른 거라는 건 틀렸고.
+
+144. ELIAS: And the phone calls tomorrow?
+    일라이어스: 내일 전화는?
+
+145. ZHOU: Five minutes each. My people listening. Nobody says the word "spy," and nobody says the word "sorry."
+    저우: 한 사람당 5분. 우리 쪽 사람이 듣는 데서. 아무도 '간첩'이라는 말은 안 하고, 아무도 'sorry'라는 말도 안 해.
+
+146. ELIAS: Not yet.
+    일라이어스: 아직은.
+
+147. ZHOU: Do you remember the night the front gate closed at eleven and we were stuck outside with two bottles of beer?
+    저우: 정문이 11시에 닫혀서 우리가 맥주 두 병 들고 밖에 갇혔던 밤 기억나?
+
+148. ELIAS: The back gate. The guard was asleep, and you talked us past the night man in four tones.
+    일라이어스: 뒷문. 경비는 자고 있었고, 넌 사성을 다 동원해서 야간 당번을 구슬려 우릴 들여보냈지.
+
+149. ZHOU: Remember it. One day the front gates may close again. Sunday, Elias. Bring me a word.
+    저우: 기억해 둬. 언젠가 정문이 다시 닫힐지도 몰라. 일요일이야, 일라이어스. 단어 하나 가져와.
+
+150. ELIAS: I'll bring you two.
+    일라이어스: 두 개 가져갈게.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **so the ceiling hears them** — 도청을 의식해 '천장(마이크)'을 향해 공식 입장을 먼저 읊는다는 말 (031)
+- **Strike it.** — 방금 한 말을 기록에서 지워 달라는 표현 (035)
+- **straight baselines** — 직선 기선. 섬 둘레에 그어 영해 기준으로 삼는 선 (041~042)
+- **freedom of navigation** — 항행의 자유. 저우는 "온 세상에 선을 긋는 일"이라고 비꼰다 (043)
+- **Fair hit.** — 정당한 반격을 인정하는 말 (044)
+- **It's interesting to know a man's ceiling before he walks into the room.** — 상대의 협상 한도가 샜음을 알리는 말 (049)
+- **Good. Now you know my ceiling.** — 불리한 유출을 신뢰의 근거로 뒤집는 반전 (054)
+- **Those aren't my red lines, they're my country's.** — 개인 재량 밖의 한계를 밝히는 말 (056)
+- **young enough to be blamed and old enough to be replaced** — 관료 사회의 애매한 위치 (059)
+- **the little ball moved the big ball** — 小球转动大球, 핑퐁 외교를 가리키는 중국식 표현 (066)
+- **You're touching your nose.** — 블러핑의 신호를 간파하는 말 (075)
+- **Old friend, you know I cannot say yes. Ask me something I can say yes to.** — 저우 한의 말버릇, 작은 합의를 유도 (083)
+- **Hypothetically speaking, if… what would…?** — 공식 약속 없이 상대 반응을 떠보는 가정법 (093)
+- **I told her the truth. I just didn't tell her all of it.** — 거짓말하지 않으면서 숨기는 화법 (123)
+
+## 역사 노트 (낭독하지 않음)
+
+- 1971년 4월 일본 나고야 세계탁구선수권대회 때, 미국 선수 글렌 코완(19세)이 자기 팀 셔틀을 놓치고 중국 대표팀 버스에 올라탔다. 세계선수권 남자 단식 3연패(1961·63·65)를 이룬 좡쩌둥이 다가가 황산을 수놓은 비단 그림을 선물했고, 코완은 다음 날 평화 마크와 "Let It Be"가 적힌 티셔츠로 답례했다.
+- 중국 외교부는 미국 팀 초청에 반대하는 보고를 올렸고 마오쩌둥도 처음엔 이를 승인했다. 그러나 4월 6일 밤, 수면제를 먹은 뒤 간호사 우쉬쥔에게 외교부에 전화해 초청하라고 지시했다는 일화가 전한다. 미국 팀은 4월 10일부터 17일까지 중국을 방문했고, 저우언라이는 인민대회당에서 "여러분이 미·중 인민 관계에 새 장을 열었다"고 말했다. 중국에서는 이를 "작은 공이 큰 공을 움직였다(小球转动大球)"고 부른다. 이 흐름은 그해 7월 키신저의 비밀 방중(4부 4화)으로 이어진다.
+- 참고 사실: 중국은 1996년 5월 시사 군도(파라셀 제도) 둘레에 직선 기선을 선포했다. 미국은 이 기선이 국제법상 근거가 없다며 인정하지 않는다.
+- 극 중 활용: 일라이어스는 핑퐁 외교를 들어 사과·비행 같은 큰 문제 대신 '작은 공'(영사 접견, 가족 통화)부터 시작하자고 설득한다. 저우는 "길을 잃었다"는 단순화를 "셔틀을 놓쳤다"로 바로잡고, 마오의 한밤중 결정을 들어 "작은 공 하나도 꼭대기의 허락이 필요하다"고 자신의 한계를 알린다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 4부 3화 "The Two Sorries": 일요일, 단어 하나를 둘러싼 협상. sorry, regret, apologize는 어떻게 다른가. 초안이 베이징으로 넘어가기 직전, '중국이 72시간 안에 대만 봉쇄에 들어간다'는 위성 분석 보고서가 터진다.
