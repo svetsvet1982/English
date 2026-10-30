@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 7화 · 서사 기능: 진실의 첫 조각 · 위기의 성격 전환
-> - 배경: 노르웨이 트롬쇠 공항에서 시내로 가는 차 안(2028년 2월 8일 화요일 오후) → 프람 센터(Fram Centre) 지하 음향 분석실(같은 날 저녁) → 호텔 방(전화, 같은 날 밤) → 분석실 보안 전화(같은 날 밤 늦게) → 피엘헤이센 케이블카 전망대(같은 날 자정 무렵)
+> - 배경: 노르웨이 트롬쇠 공항에서 시내로 가는 차 안(2028년 1월 25일 화요일 오후) → 프람 센터(Fram Centre) 지하 음향 분석실(같은 날 저녁) → 호텔 방(전화, 같은 날 밤) → 분석실 보안 전화(같은 날 밤 늦게) → 피엘헤이센 케이블카 전망대(같은 날 자정 무렵)
 > - 등장인물: 일라이어스 그랜트, 사미라 하다드, 잉그리드 할보르센(NATO 사무차장), 시리 뉘고르(노르웨이 해군 소속 민간 수중음향 분석관, 단역), 프랭크 그랜트(전화), 매기 홀러웨이(전화)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 알래스카 매입 (1867, '수어드의 바보짓') — 잉그리드가 "미국은 늘 북극을 과소평가했다"며 노르웨이의 몫을 요구하고, 사미라가 "다들 비웃었다"고 하자 잉그리드가 상원 비준 표결로 바로잡는다. 프랭크는 아들이 클론다이크를 알래스카로 착각하자 바로잡는다
@@ -16,20 +16,20 @@
 
 ## 대본
 
-001. INGRID: Special Envoy Grant. Ingrid Halvorsen. Welcome to Tromsø. You've missed the polar night by about three weeks.
-    잉그리드: 그랜트 특사님. 잉그리드 할보르센입니다. 트롬쇠에 오신 걸 환영해요. 극야는 3주 차이로 놓치셨네요.
+001. INGRID: Special Envoy Grant. Ingrid Halvorsen. Welcome to Tromsø. You've missed the polar night by about ten days.
+    잉그리드: 그랜트 특사님. 잉그리드 할보르센입니다. 트롬쇠에 오신 걸 환영해요. 극야는 열흘 차이로 놓치셨네요.
 
 002. ELIAS: I was told the sun came back. I was hoping to see it.
     일라이어스: 해가 돌아왔다고 들었어요. 볼 수 있으려나 했는데.
 
-003. INGRID: It was here from about ten until two-thirty. You'll have to take my word for it.
-    잉그리드: 10시쯤부터 2시 반까지 있었어요. 제 말을 믿으셔야겠네요.
+003. INGRID: It was here from about eleven until one. You'll have to take my word for it.
+    잉그리드: 11시쯤부터 1시까지 있었어요. 제 말을 믿으셔야겠네요.
 
-004. SAMIRA: Two-thirty, and it's already this dark?
-    사미라: 2시 반인데 벌써 이렇게 어두워요?
+004. SAMIRA: It's barely two, and it's already this dark?
+    사미라: 이제 겨우 2시인데 벌써 이렇게 어두워요?
 
-005. INGRID: Ms. Haddad, this is February at sixty-nine degrees north. This is our version of a long afternoon. When the sun first comes back in January, the whole city eats sun buns and pretends to be warm.
-    잉그리드: 하다드 씨, 여긴 북위 69도의 2월이에요. 이게 우리식의 긴 오후죠. 1월에 해가 처음 돌아오면 도시 전체가 '해님 빵'을 먹으면서 따뜻한 척을 해요.
+005. INGRID: Ms. Haddad, this is January at sixty-nine degrees north. This is our version of a long afternoon. When the sun came back last week, the whole city ate sun buns and pretended to be warm.
+    잉그리드: 하다드 씨, 여긴 북위 69도의 1월이에요. 이게 우리식의 긴 오후죠. 지난주에 해가 돌아왔을 때 도시 전체가 '해님 빵'을 먹으면서 따뜻한 척을 했어요.
 
 006. ELIAS: Thank you for coming up from Brussels on two days' notice.
     일라이어스: 이틀 전에 연락드렸는데 브뤼셀에서 와 주셔서 감사합니다.
@@ -142,26 +142,26 @@
 042. SAMIRA: A crack. Like ice breaking.
     사미라: 뭔가 깨지는 소리요. 얼음 깨지듯이.
 
-043. NYGAARD: That's the cable parting under tension. Now listen to everything around it. Twenty nautical miles in every direction.
-    뉘고르: 케이블이 장력을 못 이기고 끊어지는 소리예요. 이제 그 주변 전부를 들어 보세요. 사방 20해리.
+043. NYGAARD: That's the cable parting under tension. Now, your source wrote that a ship held its position for about three hours before each cut. Here's her note.
+    뉘고르: 케이블이 장력을 못 이기고 끊어지는 소리예요. 그런데 출처는 절단 전마다 배 한 척이 세 시간쯤 위치를 유지했다고 적었어요. 여기 메모요.
 
-044. ELIAS: I don't hear anything.
-    일라이어스: 아무것도 안 들리는데요.
+044. ELIAS: Two ships, then? Or one ship in two places?
+    일라이어스: 그럼 배가 두 척이에요? 아니면 한 척이 두 군데에?
 
-045. NYGAARD: Exactly. No engine, no propeller, no trawl gear. Nothing with a motor within twenty miles of that cable when it broke.
-    뉘고르: 바로 그거예요. 엔진도, 프로펠러도, 저인망 장비도 없어요. 끊어질 때 그 케이블 20마일 안에 모터 달린 건 아무것도 없었어요.
+045. NYGAARD: Neither. Her moorings give her a bearing, not a distance. She heard thrusters along one line and drew the natural conclusion. Our sensors give us the cross-bearing.
+    뉘고르: 둘 다 아니에요. 출처의 계류 장치로는 방위만 알 수 있지 거리는 몰라요. 한 방향에서 추진기 소리를 듣고 자연스러운 결론을 내린 거죠. 우리 센서로는 교차 방위가 나와요.
 
-046. INGRID: So it was cut by nobody.
-    잉그리드: 그럼 아무도 안 잘랐다는 거네요.
+046. INGRID: In English, Siri.
+    잉그리드: 쉬운 말로요, 시리.
 
-047. NYGAARD: So it was cut by something that was already there. Go back two days. January sixth.
-    뉘고르: 그럼 이미 거기 있던 무언가가 잘랐다는 거죠. 이틀 전으로 돌아가 볼게요. 1월 6일.
+047. NYGAARD: In English: from about twenty-two-forty until one-forty, that ship sat on top of cable two and only cable two. When cable one broke at one o'clock, nothing with a motor was within twenty miles of it.
+    뉘고르: 쉬운 말로 하면, 22시 40분쯤부터 01시 40분까지 그 배는 2번 케이블 위에만 있었어요. 01시에 1번 케이블이 끊어질 때 그 반경 20마일 안엔 모터 달린 게 하나도 없었고요.
 
-048. SAMIRA: That's a ship. A big hum, and something whining on top of it.
-    사미라: 배네요. 큰 웅웅 소리에, 그 위에 뭔가 낑낑대는 소리가 있어요.
+048. SAMIRA: Then who cut cable one?
+    사미라: 그럼 1번 케이블은 누가 잘랐어요?
 
-049. NYGAARD: The hum is diesel-electric. The whining is thrusters. This ship isn't going anywhere. It's holding its position over the cable, almost to the meter, for nine hours.
-    뉘고르: 웅웅 소리는 디젤-전기 추진이고, 낑낑대는 건 추진기예요. 이 배는 어디로 가는 게 아니에요. 케이블 바로 위에서 거의 미터 단위로 위치를 유지하고 있어요. 9시간 동안.
+049. NYGAARD: Something that was already there. Go back two days, to January sixth. The same ship, over cable one this time, holding its position almost to the meter. For nine hours.
+    뉘고르: 이미 거기 있던 무언가가요. 이틀 전, 1월 6일로 가 보죠. 같은 배가 이번엔 1번 케이블 위에서 거의 미터 단위로 위치를 유지하고 있어요. 9시간 동안.
 
 050. ELIAS: Nine hours over a cable. That isn't fishing.
     일라이어스: 케이블 위에서 9시간이라. 고기 잡는 건 아니네요.
@@ -196,8 +196,8 @@
 060. ELIAS: It sounds like someone humming through their teeth.
     일라이어스: 누가 이를 악물고 콧노래 부르는 것 같네요.
 
-061. NYGAARD: That's a worn bearing on the propeller shaft. Every ship has a voice, and this one has a cold. It's in both recordings, two days apart.
-    뉘고르: 프로펠러 축의 닳은 베어링이에요. 배마다 목소리가 있는데, 이 배는 감기에 걸렸어요. 이틀 간격의 두 녹음에 다 들어 있어요.
+061. NYGAARD: That's the electric drive on the thrusters. Modern ships sing at the frequency of their electronics, and this one sings at forty-seven. It's in both recordings, two days apart.
+    뉘고르: 추진기의 전기 구동 장치 소리예요. 요즘 배는 전자 장비 주파수로 노래를 하는데, 이 배는 47에서 불러요. 이틀 간격의 두 녹음에 다 들어 있어요.
 
 062. INGRID: So one ship visits cable one on the sixth, leaves a present, then sails to cable two and does the job itself on the eighth.
     잉그리드: 그러니까 배 한 척이 6일에 1번 케이블에 들러 선물을 두고, 8일엔 2번 케이블로 가서 직접 일을 처리했다는 거네요.
@@ -208,8 +208,8 @@
 064. ELIAS: Is it a warship?
     일라이어스: 군함인가요?
 
-065. NYGAARD: No. A warship is quiet on purpose. This one is noisy because nobody ever paid to make it quiet. It's a commercial survey vessel, eighty or ninety meters, built for mapping the seabed.
-    뉘고르: 아니요. 군함은 일부러 조용하게 만들어요. 이 배가 시끄러운 건 아무도 조용하게 만드는 데 돈을 안 썼기 때문이고요. 상업용 측량선이에요. 80~90미터, 해저 지도 작성용.
+065. NYGAARD: No. A warship is quiet because it's hiding. This one is quiet because it's new and expensive, but it isn't hiding anything. Five blades, one shaft. A commercial survey vessel, eighty or ninety meters, built for mapping the seabed.
+    뉘고르: 아니요. 군함은 숨으려고 조용한 거고, 이 배는 새 배에 비싸서 조용한 거예요. 숨기는 건 없어요. 날개 다섯 개, 축 하나. 상업용 측량선이에요. 80~90미터, 해저 지도 작성용.
 
 066. SAMIRA: What about the Russian research ship? The Pentagon's favorite. Severny Veter.
     사미라: 그 러시아 연구선은요? 국방부가 제일 좋아하는 거. 세베르니 베테르.
@@ -217,11 +217,11 @@
 067. NYGAARD: Your source thought of that. There's a margin note, January eighth, oh-two-hundred. You read it, Ms. Haddad. It's in Russian.
     뉘고르: 출처도 그 생각을 했더군요. 1월 8일 02시에 여백 메모가 있어요. 하다드 씨가 읽어 보세요. 러시아어예요.
 
-068. SAMIRA: It says, "Severny Veter is far north, more than four hundred kilometers from either cable. I sailed on her for three years. I know her voice."
-    사미라: 이렇게 쓰여 있어요. "세베르니 베테르는 훨씬 북쪽에 있다. 두 케이블 어느 쪽에서도 400킬로미터 넘게 떨어져 있다. 나는 그 배를 3년 동안 탔다. 그 배의 목소리를 안다."
+068. SAMIRA: It says, "Severny Veter was at her berth in Murmansk all night. I can see her from my office window. The Pentagon is looking at the wrong ship."
+    사미라: 이렇게 쓰여 있어요. "세베르니 베테르는 밤새 무르만스크 부두에 묶여 있었다. 내 사무실 창문에서 보인다. 펜타곤은 엉뚱한 배를 보고 있다."
 
-069. INGRID: Your source sailed on a Russian research ship and keeps notes in Russian. I'm drawing my conclusions very quietly now.
-    잉그리드: 출처가 러시아 연구선을 탔고 러시아어로 메모를 한다. 이제 아주 조용히 결론을 내리는 중이에요.
+069. INGRID: Your source has an office window on the Murmansk docks and keeps notes in Russian. I'm drawing my conclusions very quietly now.
+    잉그리드: 출처의 사무실 창문이 무르만스크 부두를 향해 있고, 메모는 러시아어로 한다. 이제 아주 조용히 결론을 내리는 중이에요.
 
 070. ELIAS: I've been told that when a Norwegian gets quieter, it's time to worry.
     일라이어스: 노르웨이 사람이 조용해지면 걱정할 때라고 들었는데요.
@@ -238,8 +238,8 @@
 074. NYGAARD: Our own data, the same nights. Same ship, same forty-seven hertz. Your source's recordings and ours match to within one second.
     뉘고르: 같은 날 밤의 우리 자료예요. 같은 배, 같은 47헤르츠. 출처의 녹음과 우리 녹음이 1초 이내로 일치해요.
 
-075. ELIAS: Then why didn't Oslo say something three weeks ago, when Washington was ready to sanction half of Russia's shipbuilding industry?
-    일라이어스: 그럼 3주 전에 워싱턴이 러시아 조선 업계 절반을 제재하려 할 때 오슬로는 왜 아무 말도 안 했죠?
+075. ELIAS: Then why didn't Oslo say something two weeks ago, when Washington was ready to sanction half of Russia's shipbuilding industry?
+    일라이어스: 그럼 2주 전에 워싱턴이 러시아 조선 업계 절반을 제재하려 할 때 오슬로는 왜 아무 말도 안 했죠?
 
 076. INGRID: Because admitting what we heard means admitting what we listen with. And frankly, nobody in Washington asked. They had already decided.
     잉그리드: 우리가 뭘 들었는지 인정하면 뭘로 듣는지도 인정하게 되니까요. 그리고 솔직히 워싱턴에선 아무도 묻지 않았어요. 이미 결론을 내렸으니까.
@@ -268,8 +268,8 @@
 084. INGRID: And on the seventh, a satellite radar pass we buy every morning caught a ship of exactly that size, sitting still between the two cables. We filed it as a fishing boat sheltering from weather.
     잉그리드: 그리고 7일에, 우리가 매일 아침 사는 위성 레이더 영상에 딱 그 크기의 배가 두 케이블 사이에 가만히 떠 있는 게 찍혔어요. 우린 악천후를 피하는 어선으로 분류해 뒀고요.
 
-085. ELIAS: So the Pentagon's Russian ship was hundreds of kilometers away, and the ship that did this flies a Brazilian flag. If I'd said that at the NSC, they'd have had me escorted out.
-    일라이어스: 그러니까 국방부가 지목한 러시아 배는 수백 킬로미터 떨어져 있었고, 이 일을 한 배는 브라질 국기를 달았다. 제가 NSC에서 그렇게 말했으면 끌려 나갔을 거예요.
+085. ELIAS: So the Pentagon's Russian ship never left the pier, and the ship that did this flies a Brazilian flag. If I'd said that at the NSC, they'd have had me escorted out.
+    일라이어스: 그러니까 국방부가 지목한 러시아 배는 부두를 떠난 적도 없고, 이 일을 한 배는 브라질 국기를 달았다. 제가 NSC에서 그렇게 말했으면 끌려 나갔을 거예요.
 
 086. FRANK: Elias? You sound like you're calling from inside a freezer. Did you eat?
     프랭크: 일라이어스? 냉동고 안에서 전화하는 것 같구나. 밥은 먹었니?
@@ -337,8 +337,8 @@
 107. MAGGIE: Brazilian. Well. That's not a word I expected to hear tonight.
     매기: 브라질이라. 글쎄. 오늘 밤 듣게 될 줄 몰랐던 단어네.
 
-108. ELIAS: Nor did I. The Pentagon's Russian ship was hundreds of kilometers north.
-    일라이어스: 저도요. 국방부가 지목한 러시아 배는 수백 킬로미터 북쪽에 있었어요.
+108. ELIAS: Nor did I. The Pentagon's Russian ship was tied up at a pier in Murmansk.
+    일라이어스: 저도요. 국방부가 지목한 러시아 배는 무르만스크 부두에 묶여 있었고요.
 
 109. MAGGIE: Who else knows?
     매기: 또 누가 알아?
@@ -427,11 +427,11 @@
 137. INGRID: Leading it when?
     잉그리드: 언제 이끄는데요?
 
-138. ELIAS: Two weeks. Enough time to get Lund out and to plan our source's exfiltration.
-    일라이어스: 2주요. 룬드를 빼내고, 출처의 탈출을 계획할 만큼의 시간.
+138. ELIAS: Until Lund is out and our source is somewhere safe. Weeks, not months. Long enough to plan an exfiltration.
+    일라이어스: 룬드가 나오고 출처가 안전한 곳에 갈 때까지요. 몇 달이 아니라 몇 주. 탈출을 계획할 만큼의 시간이요.
 
-139. INGRID: And Washington will hold for two weeks? No sanctions, no speeches, no "Russian pirates" from your Pentagon?
-    잉그리드: 그럼 워싱턴은 2주 동안 버텨 줄까요? 제재도, 연설도, 국방부의 '러시아 해적' 타령도 없이?
+139. INGRID: And Washington will hold that long? No sanctions, no speeches, no "Russian pirates" from your Pentagon?
+    잉그리드: 그럼 워싱턴은 그동안 버텨 줄까요? 제재도, 연설도, 국방부의 '러시아 해적' 타령도 없이?
 
 140. ELIAS: Washington will hold. I had the Deputy Secretary's word on it an hour ago.
     일라이어스: 워싱턴은 버틸 겁니다. 한 시간 전에 부장관의 약속을 받았어요.

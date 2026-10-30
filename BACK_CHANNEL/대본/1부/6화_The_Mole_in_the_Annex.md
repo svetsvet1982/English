@@ -4,13 +4,13 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 6화 · 서사 기능: 내부 협력자 추적 · 첫 '배신'의 얼굴
-> - 배경: 모스크바 미국 대사관 별관 SCIF(2028년 2월 3일 목요일 아침) → 별관 복도·무관실·주차장(같은 날 오후) → 대사관 숙소(2월 4일 금요일 밤, 전화) → 별관 SCIF(2월 5일 토요일 오후) → 별관 지하 보안 면담실(같은 날 밤)
+> - 배경: 모스크바 미국 대사관 별관 SCIF(2028년 1월 21일 금요일 아침) → 별관 복도·무관실·주차장(같은 날 오후) → 대사관 숙소(같은 날 밤, 전화) → 별관 SCIF(1월 22일 토요일 오후) → 별관 지하 보안 면담실(같은 날 밤)
 > - 등장인물: 일라이어스 그랜트, 톰 레예스, 사미라 하다드, 다이앤 머서(대사대리), 갈리나 소로키나(별관 시설 관리 책임자, 러시아인 현지 직원), 레이먼드 홀리스 대령(국방무관), 네이선 파이크 대위(무관 보좌관), 로지 그랜트(전화)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 올드리치 에임스 (1994 체포) — 톰이 "제일 지루한 사람을 의심하라"는 교훈으로 꺼내고 일라이어스가 "지루함이 아니라 산수로 잡혔다"고 받는다. 파이크가 "난 에임스가 아니다, 에임스는 거짓말탐지기에 걸렸다"고 잘못 말하자 일라이어스가 "두 번 통과했고 돈 계산으로 잡혔다"고 바로잡는다
 > - 전술 태그: [거짓말(미끼 정보)] [배신] [공갈]
 > - 이번 화의 핵심 표현: Assume it's one of us. / That's above my pay grade. / Help me help you. / It would be a shame if… / I'm not in a position to… / You don't have to love it. You have to live with it. / Trust is a budget line.
-> - 복선/연결: 5화 새벽 2:14 재출력 → 세 사람에게 서로 다른 거짓 일정 → 파이크 적발 · 파이크를 협박한 자료는 워싱턴의 신원조사 파일에만 있던 내용(ECHO 복선) · 그가 요구받은 건 '룬드 관련 문서'뿐 · 옐레나의 음향 기록 전체가 수거됨 → 7화 트롬쇠
+> - 복선/연결: 5화 새벽 2:14 재출력 → 세 사람에게 서로 다른 거짓 일정 → 파이크 적발 · 파이크를 협박한 자료는 워싱턴의 신원조사 파일에만 있던 내용(ECHO 복선) · 그가 요구받은 건 '룬드 관련 문서'뿐 · 옐레나가 금요일 고래 파일에 1월 8일 밤 녹음을 숨겨 트롬쇠로 보냄 → 7화 트롬쇠
 
 ---
 
@@ -94,8 +94,8 @@
 026. SAMIRA: That's not an answer.
     사미라: 그건 대답이 아니에요.
 
-027. ELIAS: Here's an answer. There's a man in Lefortovo who hasn't called his wife in twenty-six days, and somebody in this annex is selling his chances by the page.
-    일라이어스: 그럼 이건 대답이 될 거예요. 레포르토보에 26일째 아내한테 전화 한 통 못 한 사람이 있어요. 그리고 이 별관의 누군가가 그 사람이 나갈 가능성을 쪽당 얼마에 팔고 있고요.
+027. ELIAS: Here's an answer. There's a man in Lefortovo who hasn't called his wife in thirteen days, and somebody in this annex is selling his chances by the page.
+    일라이어스: 그럼 이건 대답이 될 거예요. 레포르토보에 13일째 아내한테 전화 한 통 못 한 사람이 있어요. 그리고 이 별관의 누군가가 그 사람이 나갈 가능성을 쪽당 얼마에 팔고 있고요.
 
 028. SAMIRA: Okay. But I'm writing down which lie goes to whom, so you can't pretend later that it was improvised.
     사미라: 알았어요. 하지만 어떤 거짓말을 누구한테 했는지 제가 적어 둘 거예요. 나중에 즉흥이었다고 둘러대지 못하게요.
@@ -247,8 +247,8 @@
 077. ELIAS: Your mother's a federal prosecutor. She knows how to phrase things. Hi, kiddo.
     일라이어스: 엄마가 연방 검사잖아. 말을 어떻게 해야 하는지 아는 사람이지. 안녕, 우리 딸.
 
-078. ROSIE: So I got my country for the March conference. Guess.
-    로지: 있잖아, 3월 대회 대표 국가 나왔어. 맞혀 봐.
+078. ROSIE: Baltimore's tomorrow and you're not coming. It's fine. Anyway, I got my country for March. Guess.
+    로지: 볼티모어 대회 내일인데 아빠 못 오잖아. 괜찮아. 아무튼 3월 대회 대표 국가 나왔어. 맞혀 봐.
 
 079. ELIAS: Russia?
     일라이어스: 러시아?
@@ -295,8 +295,8 @@
 093. TOM: At three-ten, fifty minutes early, two cars park on Malaya Bronnaya and just sit there. Then a couple shows up and starts feeding the ducks.
     톰: 3시 10분, 50분이나 일찍 차 두 대가 말라야 브론나야 거리에 서더니 그대로 있어. 그다음엔 남녀 한 쌍이 와서 오리한테 먹이를 주기 시작하고.
 
-094. SAMIRA: Feeding the ducks? In February?
-    사미라: 오리 먹이요? 2월에?
+094. SAMIRA: Feeding the ducks? In January?
+    사미라: 오리 먹이요? 1월에?
 
 095. TOM: The pond's frozen solid. There are no ducks. They threw bread on the ice for forty minutes.
     톰: 연못은 꽁꽁 얼었어. 오리는 한 마리도 없어. 40분 동안 얼음 위에 빵을 던지더라.
@@ -343,8 +343,8 @@
 109. PIKE: Okay. I'm listening.
     파이크: 알겠습니다. 듣겠습니다.
 
-110. ELIAS: At two-eleven on Wednesday morning, someone opened the SCIF door from the inside. You were the duty officer. My memo came off the printer at two-fourteen.
-    일라이어스: 수요일 새벽 2시 11분에 누군가 보안실 문을 안에서 열었어요. 당직은 대위였고. 내 메모는 2시 14분에 프린터에서 나왔고요.
+110. ELIAS: At two-eleven on Thursday morning, someone opened the SCIF door from the inside. You were the duty officer. My memo came off the printer at two-fourteen.
+    일라이어스: 목요일 새벽 2시 11분에 누군가 보안실 문을 안에서 열었어요. 당직은 대위였고. 내 메모는 2시 14분에 프린터에서 나왔고요.
 
 111. PIKE: I was on the duty roster. That's all that proves.
     파이크: 제가 당직표에 있었다는 것뿐입니다. 그게 증명하는 건 그게 다예요.
@@ -418,8 +418,8 @@
 134. ELIAS: And Saturday?
     일라이어스: 토요일 건은요?
 
-135. PIKE: I left a note in the drop Thursday night. Time and place. I'm sorry, sir. I'm so sorry.
-    파이크: 목요일 밤에 수거함에 쪽지를 넣었습니다. 시간과 장소요. 죄송합니다, 특사님. 정말 죄송합니다.
+135. PIKE: I left a note in the drop last night. Time and place. I'm sorry, sir. I'm so sorry.
+    파이크: 어젯밤에 수거함에 쪽지를 넣었습니다. 시간과 장소요. 죄송합니다, 특사님. 정말 죄송합니다.
 
 136. ELIAS: Don't be sorry yet. Be useful first.
     일라이어스: 아직 미안해하지 마요. 먼저 쓸모 있어지고.
@@ -436,8 +436,8 @@
 140. TOM: You want to run him. A burned captain with a drinking past as your channel back to whoever's reading our mail. That's a hell of a bet on a guy who just sold us out.
     톰: 그 녀석을 굴리겠다는 거구나. 음주 전력 있는 들통난 대위를, 우리 편지 훔쳐보는 놈한테 되돌려 보내는 통로로. 방금 우릴 팔아넘긴 놈한테 거는 것치곤 엄청난 도박이야.
 
-141. ELIAS: Two weeks. Until Lund is home. Everything Pike puts in that drop, I write. After that, he goes home, tells the Army the truth, and takes whatever's coming.
-    일라이어스: 2주. 룬드가 집에 올 때까지만. 파이크가 수거함에 넣는 건 전부 내가 쓴다. 그다음엔 귀국해서 군에 사실대로 말하고, 받을 벌을 받는 거야.
+141. ELIAS: Until Lund is home. Not a day longer. Everything Pike puts in that drop, I write. After that, he goes home, tells the Army the truth, and takes whatever's coming.
+    일라이어스: 룬드가 집에 올 때까지만. 하루도 더는 없어. 파이크가 수거함에 넣는 건 전부 내가 쓴다. 그다음엔 귀국해서 군에 사실대로 말하고, 받을 벌을 받는 거야.
 
 142. TOM: Trust is a budget line, man. And you're spending ours on him.
     톰: 신뢰도 예산 항목이야. 근데 넌 우리 예산을 저 녀석한테 쓰고 있어.
@@ -448,8 +448,8 @@
 144. TOM: Mercer's going to hate this.
     톰: 머서가 질색하겠네.
 
-145. ELIAS: Nate, here's the deal. You don't have to love it. You have to live with it. For two weeks, you feed that drop whatever I give you, and nothing else.
-    일라이어스: 네이트, 조건은 이래요. 마음에 들 필요는 없어요. 받아들이고 살면 돼요. 2주 동안 그 수거함엔 내가 주는 것만 넣는 거예요. 그 밖엔 아무것도.
+145. ELIAS: Nate, here's the deal. You don't have to love it. You have to live with it. Until Lund is home, you feed that drop whatever I give you, and nothing else.
+    일라이어스: 네이트, 조건은 이래요. 마음에 들 필요는 없어요. 받아들이고 살면 돼요. 룬드가 집에 올 때까지 그 수거함엔 내가 주는 것만 넣는 거예요. 그 밖엔 아무것도.
 
 146. PIKE: And after that? What happens to me?
     파이크: 그다음엔요? 저는 어떻게 됩니까?
@@ -457,8 +457,8 @@
 147. ELIAS: After that, you tell the Army everything, including Virginia. I won't promise you it ends well. I'll promise you it ends honestly.
     일라이어스: 그다음엔 버지니아 일까지 포함해서 군에 전부 말해요. 잘 끝날 거라고 약속은 못 해요. 정직하게 끝날 거라고는 약속하죠.
 
-148. SAMIRA: Pike's gone upstairs with an escort. And Tom's other package came through this afternoon. The full recordings from the night of January eighth. Langley says it can't make sense of them.
-    사미라: 파이크는 호위 붙여서 위층으로 올라갔어요. 그리고 톰 쪽 다른 소포가 오늘 오후에 들어왔어요. 1월 8일 밤 녹음 전체요. 랭글리는 해석을 못 하겠대요.
+148. SAMIRA: Pike's gone upstairs with an escort. And our friend's Friday whale file reached Tromsø. The name ends in "beluga," and she hid hours of January eighth inside it.
+    사미라: 파이크는 호위 붙여서 위층으로 올라갔어요. 그리고 우리 친구의 금요일 고래 파일이 트롬쇠에 도착했어요. 파일 이름 끝이 '벨루가'고요, 그 안에 1월 8일 밤 녹음을 몇 시간 분량 숨겨 보냈어요.
 
 149. ELIAS: Then we need people who listen to the bottom of the Norwegian Sea for a living. Book us to Tromsø.
     일라이어스: 그럼 노르웨이해 바닥 소리를 듣는 게 직업인 사람들이 필요하네요. 트롬쇠로 예약해 줘요.

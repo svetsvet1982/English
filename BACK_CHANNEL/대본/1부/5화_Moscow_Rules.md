@@ -4,13 +4,13 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 5화 · 서사 기능: 적지 귀환 · 인질 대면 · 내부 유출 발견
-> - 배경: 셰레메티예보 공항에서 대사관으로 가는 차 안(2028년 2월 1일 화요일 저녁) → 모스크바 미국 대사관 별관 SCIF(같은 날 밤) → 일라이어스의 대사관 숙소(전화, 자정 넘어) → 레포르토보 구치소 면회실(2월 2일 수요일 오전) → 외무부 스몰렌스카야 광장 청사 드미트리의 집무실(같은 날 오후) → 대사관 별관 SCIF(같은 날 저녁)
+> - 배경: 셰레메티예보 공항에서 대사관으로 가는 차 안(2028년 1월 19일 수요일 저녁) → 모스크바 미국 대사관 별관 SCIF(같은 날 밤) → 일라이어스의 대사관 숙소(전화, 자정 넘어) → 레포르토보 구치소 면회실(1월 20일 목요일 오전) → 외무부 스몰렌스카야 광장 청사 드미트리의 집무실(같은 날 오후) → 대사관 별관 SCIF(같은 날 저녁)
 > - 등장인물: 일라이어스 그랜트, 사미라 하다드, 톰 레예스, 다이앤 머서(대사대리, 단역), 프랭크 그랜트(전화), 아르카디 벨로프 대령(FSB 수사관, 단역), 피터 룬드, 드미트리 소콜로프
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: U-2기 격추와 아이젠하워 정부의 '기상관측기' 거짓말 (1960) — 프랭크가 파워스의 모스크바 재판으로 아들에게 "대본으로 사람을 판단하지 말라"고 위로하고, 드미트리가 "미국도 거짓말한다"며 공격하자 일라이어스가 "그리고 대통령이 책임을 졌다"고 받아친다
 > - 전술 태그: [공갈] [거짓말] [블러핑] [유출]
 > - 이번 화의 핵심 표현: Assume nothing. / Who holds the clock / a ceiling, not a floor / Possible is a very large word. / I won't lie to you. / That makes you the weather plane. / What would it take for…? / Everyone is potentially under opposition control.
-> - 복선/연결: 헬싱키의 블러핑("가능하다")이 드미트리의 금요일 최후통첩으로 돌아옴 · 옐레나 관련 사항은 대사관 시스템에서 완전히 배제 · 협상 메모 문구가 드미트리 입에서 그대로 나옴 → 6화 별관의 두더지 추적 · 드미트리가 2주 유예(→ 8화)
+> - 복선/연결: 헬싱키의 블러핑("가능하다")이 드미트리의 월요일 최후통첩으로 돌아옴 · 옐레나 관련 사항은 대사관 시스템에서 완전히 배제 · 협상 메모 문구가 드미트리 입에서 그대로 나옴 → 6화 별관의 두더지 추적 · 드미트리가 '베를린이 답할 때까지' 유예(→ 8화)
 
 ---
 
@@ -61,11 +61,11 @@
 015. ELIAS: Black, no sugar, with a side of whatever he's decided I did wrong that week.
     일라이어스: 블랙, 설탕 없이. 곁들여서 그 주에 내가 뭘 잘못했다고 그가 정해 둔 것까지.
 
-016. TOM: Here's tomorrow. The FSB approved consular access to Lund at Lefortovo, eleven a.m., forty-five minutes, with an investigator in the room the entire time, and I'd bet a month's salary the room is wired.
-    톰: 내일 일정. FSB가 레포르토보에 있는 룬드 영사 면회를 허가했어. 오전 11시, 45분, 수사관이 처음부터 끝까지 같은 방에 있는 조건으로. 그리고 그 방엔 도청기가 있다는 데 한 달 치 월급 건다.
+016. TOM: Here's tomorrow, Thursday, just like Sokolov's card said. The FSB approved consular access to Lund at Lefortovo, eleven a.m., forty-five minutes, with an investigator in the room the entire time, and I'd bet a month's salary the room is wired.
+    톰: 내일 일정. 소콜로프 카드에 적힌 대로 목요일이야. FSB가 레포르토보에 있는 룬드 영사 면회를 허가했어. 오전 11시, 45분, 수사관이 처음부터 끝까지 같은 방에 있는 조건으로. 그리고 그 방엔 도청기가 있다는 데 한 달 치 월급 건다.
 
-017. SAMIRA: Forty-five minutes after twenty-five days. That's not access, that's a photo opportunity.
-    사미라: 25일 만에 45분이요. 그건 면회가 아니라 사진 찍을 기회 주는 거죠.
+017. SAMIRA: Forty-five minutes after twelve days. That's not access, that's a photo opportunity.
+    사미라: 12일 만에 45분이요. 그건 면회가 아니라 사진 찍을 기회 주는 거죠.
 
 018. ELIAS: It's a message. They want us to see him, they want him to see us, and they want everybody to understand who holds the clock.
     일라이어스: 메시지예요. 우리가 그를 보길 원하고, 그가 우리를 보길 원하고, 시계를 쥔 게 누군지 모두가 알길 원하는 거죠.
@@ -118,8 +118,8 @@
 034. ELIAS: Washington answers cables the way my daughter answers texts. Eventually, and with less than you asked for.
     일라이어스: 워싱턴은 제 딸이 문자에 답하는 식으로 전문에 답해요. 결국엔 하는데, 물어본 것보다 적게.
 
-035. MERCER: The ambassador's been in Washington for consultations since mid-January, so for now, this embassy is me. If you embarrass the Foreign Ministry, I'm the one they'll declare persona non grata.
-    머서: 대사님은 1월 중순부터 협의차 워싱턴에 가 계세요. 그러니 지금은 제가 곧 이 대사관입니다. 특사님이 외무부를 망신 주면 기피 인물로 지정되는 건 저예요.
+035. MERCER: The ambassador's been in Washington for consultations since last week, so for now, this embassy is me. If you embarrass the Foreign Ministry, I'm the one they'll declare persona non grata.
+    머서: 대사님은 지난주부터 협의차 워싱턴에 가 계세요. 그러니 지금은 제가 곧 이 대사관입니다. 특사님이 외무부를 망신 주면 기피 인물로 지정되는 건 저예요.
 
 036. ELIAS: I'll try to embarrass them in a way that reflects well on you.
     일라이어스: 망신을 주더라도 대사대리님 체면은 서게 해 보죠.
@@ -346,8 +346,8 @@
 110. DMITRI: It is now. And you are counting my spoons, Elias. You went to Lefortovo this morning.
     드미트리: 이제 생겼어. 그리고 넌 지금 내 숟가락을 세고 있어, 일라이어스. 오늘 아침 레포르토보에 갔더군.
 
-111. ELIAS: I visited an American citizen who's lost a lot of weight and hasn't been allowed to call his wife in twenty-five days.
-    일라이어스: 살이 많이 빠졌고 25일 동안 아내한테 전화 한 통 못 한 미국 시민을 면회했죠.
+111. ELIAS: I visited an American citizen who's lost a lot of weight and hasn't been allowed to call his wife in twelve days.
+    일라이어스: 살이 많이 빠졌고 12일 동안 아내한테 전화 한 통 못 한 미국 시민을 면회했죠.
 
 112. DMITRI: He has called no one because he is a spy. Spies are not usually given phone plans.
     드미트리: 아무한테도 전화 못 한 건 간첩이니까. 간첩한테 휴대폰 요금제를 주진 않잖아.
@@ -370,8 +370,8 @@
 118. ELIAS: On me.
     일라이어스: 저한테요.
 
-119. DMITRI: On the German matter. In Helsinki you told me it was possible. I have waited long enough for "possible" to become "arranged." If it hasn't by Friday, millions of Russians will watch an American saboteur apologize over dinner.
-    드미트리: 독일 건에. 헬싱키에서 넌 가능하다고 했지. '가능하다'가 '성사됐다'로 바뀌길 충분히 기다렸어. 금요일까지 안 되면, 러시아인 수백만 명이 저녁 먹으면서 미국인 파괴공작원이 사과하는 걸 보게 될 거야.
+119. DMITRI: On the German matter. In Helsinki you told me it was possible. I have waited five days for "possible" to become "arranged." If it hasn't by Monday, millions of Russians will watch an American saboteur apologize over dinner.
+    드미트리: 독일 건에. 헬싱키에서 넌 가능하다고 했지. '가능하다'가 '성사됐다'로 바뀌길 닷새를 기다렸어. 월요일까지 안 되면, 러시아인 수백만 명이 저녁 먹으면서 미국인 파괴공작원이 사과하는 걸 보게 될 거야.
 
 120. ELIAS: You're threatening me with a hostage video. That's beneath you, Dmitri.
     일라이어스: 인질 영상으로 저를 협박하시는 거군요. 당신답지 않아요, 드미트리.
@@ -400,11 +400,11 @@
 128. ELIAS: It cost him a summit. And right now, Dmitri, you're the one holding a confession you know was staged. That makes you the weather plane, and I'd hate to watch you wait for Khrushchev.
     일라이어스: 정상회담 하나를 앗아 갔죠. 그리고 지금은요, 드미트리, 연출된 걸 알면서 자백 영상을 쥐고 있는 쪽이 당신이에요. 그럼 당신이 그 기상관측기인 거죠. 당신이 흐루쇼프를 기다리는 꼴은 보고 싶지 않네요.
 
-129. DMITRI: Clever. But clever is not Friday.
-    드미트리: 영리하군. 하지만 영리하다고 금요일이 바뀌진 않아.
+129. DMITRI: Clever. But clever is not Monday.
+    드미트리: 영리하군. 하지만 영리하다고 월요일이 바뀌진 않아.
 
-130. ELIAS: What would it take for that video to stay in your drawer for two more weeks?
-    일라이어스: 그 영상이 2주만 더 서랍에 있으려면 뭐가 필요할까요?
+130. ELIAS: What would it take for that video to stay in your drawer until Berlin gives me an answer?
+    일라이어스: 베를린이 답을 줄 때까지 그 영상이 서랍에 있으려면 뭐가 필요할까요?
 
 131. DMITRI: A sign. Not a promise — I'm not a fool. A sign that Berlin is actually listening, and that this back channel isn't another American "possible."
     드미트리: 신호. 약속 말고. 난 바보가 아니야. 베를린이 정말 듣고 있다는 신호, 그리고 이 비공식 채널이 또 하나의 미국식 '가능하다'가 아니라는 신호.
@@ -430,8 +430,8 @@
 138. ELIAS: That's not a real saying either.
     일라이어스: 그것도 없는 속담이잖아요.
 
-139. DMITRI: It is now. Two weeks, Elias. Not because of your sign. Because I like you. Go home and find out who in your house writes so beautifully.
-    드미트리: 이제 생겼어. 2주 주지, 일라이어스. 네 신호 때문이 아니야. 내가 널 좋아해서야. 돌아가서 너희 집에 누가 그렇게 글을 아름답게 쓰는지 알아봐.
+139. DMITRI: It is now. Until Berlin answers, then, Elias. Not because of your sign. Because I like you. Go home and find out who in your house writes so beautifully.
+    드미트리: 이제 생겼어. 그럼 베를린이 답할 때까지야, 일라이어스. 네 신호 때문이 아니야. 내가 널 좋아해서야. 돌아가서 너희 집에 누가 그렇게 글을 아름답게 쓰는지 알아봐.
 
 140. ELIAS: I'll answer your rude move by mail.
     일라이어스: 그 무례한 수엔 우편으로 답하죠.
