@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 11화 · 서사 기능: 교환 전야의 위기 · 적과의 신뢰 · 1부 클라이맥스 직전
 > - 배경: 핀란드 라플란드 이발로의 호텔 회의실(2028년 3월 6일 월요일 밤) → 같은 방, 드미트리와의 보안 전화·그로모프의 전화 → 데이턴 아버지 부엌과의 통화 → 무르만스크 남쪽 이만드라 호수의 얼음길(자정 넘어 3월 7일 화요일 새벽, 전화)
-> - 등장인물: 일라이어스 그랜트, 사미라 하다드, 톰 레예스, 옐레나 마르코바(전화), 드미트리 소콜로프(전화), 프랭크 그랜트(전화), 그로모프 대령(FSB 무르만스크 지국, 단역), 소냐 마르코바(옐레나의 딸, 단역)
+> - 등장인물: 일라이어스 그랜트, 사미라 하다드, 톰 레예스, 옐레나 마르코바(전화), 드미트리 소콜로프(전화), 프랭크 그랜트(전화), 그로모프 대령(FSB 무르만스크 지국, 단역), 카탸 마르코바(옐레나의 딸, 단역)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 이란 인질 사태 '캐나다 작전' (1980) — 프랭크가 "최고의 위장은 상대가 확인해 볼 수 있는 이야기"라는 교훈으로 아들에게 해법의 실마리를 주고, 톰이 "CIA가 다 했다"고 과장하자 일라이어스가 캐나다 대사관의 역할을 들어 반박한다
 > - 전술 태그: [공갈] [블러핑] [설득] [비밀] [유출]
@@ -85,8 +85,8 @@
 023. SAMIRA: Dr. Markova? We're on speaker. Dr. Markova, can you hear me?
     사미라: 마르코바 박사님? 스피커로 받았어요. 박사님, 들리세요?
 
-024. YELENA: Sonya is gone.
-    옐레나: 소냐가 없어졌어요.
+024. YELENA: Katya is gone.
+    옐레나: 카탸가 없어졌어요.
 
 025. ELIAS: Yelena, it's Elias. Slow down and tell me exactly what happened.
     일라이어스: 옐레나, 일라이어스예요. 천천히, 무슨 일이 있었는지 정확히 말해 줘요.
@@ -151,8 +151,8 @@
 045. DMITRI: Or somebody in your house wants me to look weak the night before I hand over an American spy. Forgive me, but I've played chess with you for ten years.
     드미트리: 아니면 너희 집 안에 누군가가, 내가 미국 스파이를 넘기기 전날 밤에 약해 보이길 바라는 거겠지. 미안하지만 너랑 체스를 10년이나 뒀거든.
 
-046. ELIAS: You think we kidnapped a nine-year-old to embarrass you?
-    일라이어스: 너를 망신 주려고 우리가 아홉 살짜리를 납치했다고 생각해?
+046. ELIAS: You think we kidnapped a eleven-year-old to embarrass you?
+    일라이어스: 너를 망신 주려고 우리가 열한 살짜리를 납치했다고 생각해?
 
 047. DMITRI: I think last week your newspapers printed every term of our agreement before my own minister had read them. Forgive me if my faith in American discipline is a little thin.
     드미트리: 지난주에 우리 장관이 읽기도 전에 너희 신문이 합의 조건을 전부 실었다는 생각은 하지. 미국인의 기강에 대한 내 믿음이 좀 얇아졌대도 이해해 줘.
@@ -304,8 +304,8 @@
 096. FRANK: The best cover is one the other side would rather believe. Your colonel needs a story he can live with, not just one you can.
     프랭크: 최고의 위장은 상대가 믿고 싶어지는 위장이지. 네 대령한테는 너만 받아들일 수 있는 이야기가 아니라 그 사람도 안고 살 수 있는 이야기가 필요해.
 
-097. ELIAS: Dad, you just might have saved a nine-year-old girl from a kitchen in Dayton.
-    일라이어스: 아빠, 데이턴 부엌에서 방금 아홉 살짜리 여자애를 구했을지도 몰라.
+097. ELIAS: Dad, you just might have saved a eleven-year-old girl from a kitchen in Dayton.
+    일라이어스: 아빠, 데이턴 부엌에서 방금 열한 살짜리 여자애를 구했을지도 몰라.
 
 098. FRANK: I'll settle for you eating breakfast. And call Rosie. She saw "Finland" on the news and asked if you'd been exiled again.
     프랭크: 난 네가 아침만 먹어도 만족한다. 그리고 로지한테 전화해. 뉴스에서 '핀란드'를 보더니 아빠 또 유배 갔냐고 묻더라.
@@ -334,8 +334,8 @@
 106. DMITRI: Explain.
     드미트리: 설명해 봐.
 
-107. ELIAS: Right now, Sonya is a defector's daughter, and Gromov is a patriot keeping a traitor at home. As long as that's the story, he's the hero and you're the soft diplomat.
-    일라이어스: 지금 소냐는 망명자의 딸이고, 그로모프는 반역자를 붙잡아 두는 애국자야. 그 이야기가 유지되는 한, 그 사람은 영웅이고 넌 물러 터진 외교관이지.
+107. ELIAS: Right now, Katya is a defector's daughter, and Gromov is a patriot keeping a traitor at home. As long as that's the story, he's the hero and you're the soft diplomat.
+    일라이어스: 지금 카탸는 망명자의 딸이고, 그로모프는 반역자를 붙잡아 두는 애국자야. 그 이야기가 유지되는 한, 그 사람은 영웅이고 넌 물러 터진 외교관이지.
 
 108. DMITRI: Thank you for summarizing my career.
     드미트리: 내 경력을 요약해 줘서 고맙군.
@@ -346,8 +346,8 @@
 110. DMITRI: A delegation list.
     드미트리: 대표단 명단이라.
 
-111. ELIAS: Signed and stamped. Then Sonya isn't a traitor's child anymore. She's a member of an official Russian delegation, and anyone holding her is obstructing the Kremlin's own agreement.
-    일라이어스: 서명하고 도장 찍어서. 그럼 소냐는 더 이상 반역자의 자식이 아니야. 러시아 공식 대표단의 일원이 되는 거고, 그 애를 붙잡고 있는 사람은 크렘린이 직접 맺은 합의를 방해하는 셈이 되지.
+111. ELIAS: Signed and stamped. Then Katya isn't a traitor's child anymore. She's a member of an official Russian delegation, and anyone holding her is obstructing the Kremlin's own agreement.
+    일라이어스: 서명하고 도장 찍어서. 그럼 카탸는 더 이상 반역자의 자식이 아니야. 러시아 공식 대표단의 일원이 되는 거고, 그 애를 붙잡고 있는 사람은 크렘린이 직접 맺은 합의를 방해하는 셈이 되지.
 
 112. DMITRI: You want me to turn his leverage into his liability.
     드미트리: 그놈의 지렛대를 그놈의 약점으로 바꾸라는 거군.
@@ -421,8 +421,8 @@
 135. GROMOV: Deputy Minister. You've driven a long way to tell me something I could have read in the morning.
     그로모프: 차관님. 아침에 읽어도 될 걸 말하려고 먼 길을 오셨군요.
 
-136. DMITRI: Read it now, Colonel. Delegation list, joint subsea inquiry, signed tonight by the minister. Line two: Markova, Sofia, age nine, accompanying dependent.
-    드미트리: 지금 읽어, 대령. 해저 공동조사위원회 대표단 명단, 오늘 밤 장관 서명. 두 번째 줄. 마르코바 소피야, 아홉 살, 동반 가족.
+136. DMITRI: Read it now, Colonel. Delegation list, joint subsea inquiry, signed tonight by the minister. Line two: Markova, Ekaterina, age eleven, accompanying dependent.
+    드미트리: 지금 읽어, 대령. 해저 공동조사위원회 대표단 명단, 오늘 밤 장관 서명. 두 번째 줄. 마르코바 예카테리나, 열한 살, 동반 가족.
 
 137. GROMOV: And if I make one phone call?
     그로모프: 내가 전화 한 통 하면요?
@@ -439,8 +439,8 @@
 141. DMITRI: That's exactly how my report will read. Get her coat.
     드미트리: 내 보고서에도 정확히 그렇게 적힐 거야. 애 코트 챙겨.
 
-142. SONYA: Are you taking me to Mama?
-    소냐: 아저씨가 엄마한테 데려다줘요?
+142. KATYA: Are you taking me to Mama?
+    카탸: 아저씨가 엄마한테 데려다줘요?
 
 143. DMITRI: Yes, little one. And if you're very quiet on the ice, I'll teach you how to play chess.
     드미트리: 그래, 꼬마야. 얼음 위에서 조용히 있으면 체스 두는 법 가르쳐 줄게.
@@ -495,4 +495,4 @@
 
 ## 다음 화 예고 (낭독하지 않음)
 
-- 12화 "Glienicke, Again": 영하 30도의 새벽, 라야-요세피 검문소. 피터와 옐레나, 소냐가 국경을 넘는다. 매기는 일라이어스를 안아 주고, 그날 밤 옐레나는 Albatroz Azul에 대해 아무도 몰랐던 사실을 털어놓는다.
+- 12화 "Glienicke, Again": 영하 30도의 새벽, 라야-요세피 검문소. 피터와 옐레나, 카탸가 국경을 넘는다. 매기는 일라이어스를 안아 주고, 그날 밤 옐레나는 Albatroz Azul에 대해 아무도 몰랐던 사실을 털어놓는다.

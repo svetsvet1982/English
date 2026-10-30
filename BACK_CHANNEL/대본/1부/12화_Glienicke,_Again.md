@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 12화 · 서사 기능: 1부 피날레 · 교환 성공 · 진실의 첫 조각 · 패턴 발견
 > - 배경: 핀란드–러시아 국경 라야-요세피 검문소(2028년 3월 7일 화요일 새벽 06:30~07:30, 영하 30도) → 헬싱키 미국 대사관 회의실(같은 날 오후, 캘러웨이와 화상) → 헬싱키 대사관 게스트하우스(같은 날 밤) → 대사관 SCIF(자정 무렵, 데이턴과 전화)
-> - 등장인물: 일라이어스 그랜트, 사미라 하다드, 톰 레예스, 드미트리 소콜로프, 피터 룬드, 옐레나 마르코바, 소냐 마르코바, 매기 홀러웨이, 로버트 캘러웨이 국무장관(화상), 로지 그랜트(전화), 프랭크 그랜트(전화), 아호 대위(핀란드 국경경비대, 단역)
+> - 등장인물: 일라이어스 그랜트, 사미라 하다드, 톰 레예스, 드미트리 소콜로프, 피터 룬드, 옐레나 마르코바, 카탸 마르코바, 매기 홀러웨이, 로버트 캘러웨이 국무장관(화상), 로지 그랜트(전화), 프랭크 그랜트(전화), 아호 대위(핀란드 국경경비대, 단역)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: "Trust, but verify" — 레이건과 INF 조약 (1987). 드미트리가 "레이건이 우리 속담을 훔쳤다"며 검증 절차를 요구하고, 프랭크가 "검증은 불신이 아니라 누구의 기분에도 기대지 않는 장치"라는 교훈을 준다. 보조: 아벨–파워스 교환과 프라이어 석방 확인 (1962) — 일라이어스가 동시 통과를 고집하는 근거
 > - 전술 태그: [설득] [블러핑] [비밀] [배신의 복선] [세 번째 문]
@@ -163,11 +163,11 @@
 049. PETER: Karen? Karen, it's me. No, I'm okay. I'm cold. I'm just really, really cold.
     피터: 캐런? 캐런, 나야. 아니, 괜찮아. 추워. 그냥 정말, 정말 추워.
 
-050. YELENA: Sonya, hold my hand. Don't look back. Look at the yellow line.
-    옐레나: 소냐, 엄마 손 잡아. 뒤돌아보지 마. 노란 선만 봐.
+050. YELENA: Katya, hold my hand. Don't look back. Look at the yellow line.
+    옐레나: 카탸, 엄마 손 잡아. 뒤돌아보지 마. 노란 선만 봐.
 
-051. SONYA: Mama, the chess man gave me his horse.
-    소냐: 엄마, 체스 아저씨가 말을 줬어.
+051. KATYA: Mama, the chess man gave me his horse.
+    카탸: 엄마, 체스 아저씨가 말을 줬어.
 
 052. DMITRI: A knight, little one. It moves sideways when nobody expects it. Like Americans.
     드미트리: 나이트야, 꼬마야. 아무도 예상 못 할 때 옆으로 움직이지. 미국인들처럼.
@@ -310,8 +310,8 @@
 098. SAMIRA: Dr. Markova, you said you wanted to talk tonight. We can do it tomorrow, with the Norwegians, if you'd rather.
     사미라: 마르코바 박사님, 오늘 밤에 이야기하고 싶다고 하셨죠. 원하시면 내일 노르웨이 측이랑 같이 해도 돼요.
 
-099. YELENA: No. I promised myself that the night Sonya was safe, I would tell you the thing I did not tell you in Helsinki. Or in Tromsø.
-    옐레나: 아뇨. 소냐가 안전해지는 날 밤에, 헬싱키에서도 트롬쇠에서도 말하지 않은 걸 말하기로 스스로 약속했어요.
+099. YELENA: No. I promised myself that the night Katya was safe, I would tell you the thing I did not tell you in Helsinki. Or in Tromsø.
+    옐레나: 아뇨. 카탸가 안전해지는 날 밤에, 헬싱키에서도 트롬쇠에서도 말하지 않은 걸 말하기로 스스로 약속했어요.
 
 100. ELIAS: You didn't trust us.
     일라이어스: 우릴 못 믿으셨군요.
@@ -370,8 +370,8 @@
 118. ELIAS: Do you still have that copy?
     일라이어스: 그 사본 아직 갖고 계세요?
 
-119. YELENA: It is in Sonya's skating bag, in the lining. Nobody searches a child's skates. Not even Gromov.
-    옐레나: 소냐 스케이트 가방 안감 속에 있어요. 애 스케이트는 아무도 안 뒤져요. 그로모프조차도요.
+119. YELENA: It is in Katya's skating bag, in the lining. Nobody searches a child's skates. Not even Gromov.
+    옐레나: 카탸 스케이트 가방 안감 속에 있어요. 애 스케이트는 아무도 안 뒤져요. 그로모프조차도요.
 
 120. TOM: Remind me never to play poker with you.
     톰: 박사님이랑은 절대 포커 치지 말라고 나한테 상기시켜 줘요.
