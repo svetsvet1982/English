@@ -240,3 +240,258 @@
 
 075. ANA: Caio is in Lapa tonight. He runs a studio there. Come with me. If I'm going to ask him, I'd rather not do it alone.
     아나: 카이우는 오늘 밤 라파에 있어요. 거기서 스튜디오를 해요. 같이 가 줘요. 물어볼 거라면 혼자 묻고 싶지 않아요.
+
+076. SAMIRA: Copacabana, ninth floor, and the view's wasted on us. Tom swept the room. Twice.
+    사미라: 코파카바나 9층인데, 경치가 아깝네요. 톰이 방 훑었어요. 두 번.
+
+077. TOM: Three times. Rio hotels have very creative wiring.
+    톰: 세 번. 리우 호텔은 배선이 아주 창의적이거든.
+
+078. ELIAS: Samira, walk me through the law. If Ana publishes, how bad is it really?
+    일라이어스: 사미라, 법 쪽으로 설명해 줘요. 아나가 공개하면 실제로 얼마나 나빠요?
+
+079. SAMIRA: Legally? Almost nothing. Possession for personal use carries no prison in Brazil. Warnings, community service, or an educational course. Caio got the warning and the course.
+    사미라: 법적으로요? 거의 없어요. 브라질에선 개인 사용 목적 소지는 징역형이 없어요. 경고, 사회봉사, 아니면 교육 이수. 카이우는 경고랑 교육 이수를 받았고요.
+
+080. ELIAS: And the seal?
+    일라이어스: 봉인은요?
+
+081. SAMIRA: Routine for a case like that. The defense asked, and the judge granted it. The problem isn't the seal. The problem is who asked for it.
+    사미라: 그런 사건이면 일상적인 거예요. 변호인이 요청했고 판사가 받아들였죠. 문제는 봉인 자체가 아니에요. 누가 요청했느냐죠.
+
+082. TOM: His sister, who's now the president's national security adviser. That's the headline Valente is selling.
+    톰: 지금 대통령 안보수석인 누나. 발렌치가 파는 헤드라인이 그거야.
+
+083. SAMIRA: Put yourself in a voter's shoes. If Valente publishes, the story is "cover-up." If Ana publishes, the story is "brother had a bad year, sister was his lawyer, tycoon tried blackmail." Same facts, different day.
+    사미라: 유권자 입장이 돼 보세요. 발렌치가 공개하면 이야기는 "은폐"가 돼요. 아나가 공개하면 "동생이 힘든 한 해를 보냈고, 누나가 변호했고, 재벌이 협박하려 했다"가 되죠. 같은 사실, 다른 날짜.
+
+084. TOM: Speaking of days. I got a message this morning. From Langley.
+    톰: 날짜 얘기 나온 김에. 오늘 아침에 메시지 하나 받았어. 랭글리에서.
+
+085. ELIAS: What kind of message?
+    일라이어스: 무슨 메시지?
+
+086. TOM: A tasking request. Word for word: "Assess whether Ana Beatriz Campos has personal vulnerabilities relevant to the Alcântara decision."
+    톰: 수집 요청. 그대로 읽으면 이래. "알칸타라 결정과 관련해 아나 베아트리스 캄푸스에게 개인적 약점이 있는지 평가할 것."
+
+087. SAMIRA: The same week Valente pulls out Caio's file.
+    사미라: 발렌치가 카이우 기록을 꺼낸 바로 그 주에요.
+
+088. TOM: Same reading list as my Otávio report. Same seven people. Somebody up there wants to know whether we know.
+    톰: 내 오타비우 보고서랑 열람 명단이 같아. 같은 일곱 명. 위에 누군가가 우리가 아는지 알고 싶은 거야.
+
+089. ELIAS: What are you going to answer?
+    일라이어스: 뭐라고 답할 거야?
+
+090. TOM: I already answered. "No vulnerabilities identified." Short, boring, and the first lie I've ever told my own agency on purpose.
+    톰: 벌써 답했어. "확인된 약점 없음." 짧고, 지루하고, 내가 우리 기관한테 일부러 한 첫 거짓말이야.
+
+091. ELIAS: Tom—
+    일라이어스: 톰…
+
+092. TOM: Don't make it a thing, man. I'm done writing reports that end up in Valente's drawer. Trust is a budget line. I'm reallocating.
+    톰: 별일로 만들지 마. 내 보고서가 발렌치 서랍에 들어가는 건 이제 질렸어. 신뢰도 예산 항목이야. 재배정하는 중이라고.
+
+093. SAMIRA: I'm writing it down. "July tenth. Langley asks about Ana's vulnerabilities, six weeks after the clerk's login."
+    사미라: 적을게요. "7월 10일. 서기 계정 열람 6주 뒤, 랭글리가 아나의 약점을 물어 옴."
+
+094. FRANK: Rio! Your grandmother always wanted to see Rio. Did you eat?
+    프랭크: 리우라니! 네 할머니가 늘 리우에 가 보고 싶어 했는데. 밥은 먹었니?
+
+095. ELIAS: Hotel eggs. Dad, did anyone in our family ever go through Natal during the war?
+    일라이어스: 호텔 계란이요. 아빠, 전쟁 때 우리 집안에서 나타우를 거쳐 간 사람 있었어?
+
+096. FRANK: My uncle Ray. Radio operator on a bomber in '43. They flew from Florida down the coast to Natal, then across the Atlantic to Africa. They called Natal the Trampoline to Victory.
+    프랭크: 레이 삼촌. 43년에 폭격기 통신병이었지. 플로리다에서 해안을 따라 나타우까지 내려갔다가, 거기서 대서양을 건너 아프리카로 갔어. 나타우를 '승리의 도약대'라고 불렀단다.
+
+097. ELIAS: What did he say about it?
+    일라이어스: 삼촌이 거기 얘기 뭐라고 하셨어?
+
+098. FRANK: That the coffee was the best of the war and the Brazilians never once made him feel like a guest. He said, "They let us use their house, and they never let us forget it was theirs." Why?
+    프랭크: 커피는 전쟁 통틀어 최고였고, 브라질 사람들은 한 번도 자기를 손님처럼 느끼게 하지 않았대. "자기네 집을 쓰게 해 주면서도 그게 자기네 집이라는 건 한 번도 잊게 하지 않았다"고 하더라. 왜 묻니?
+
+099. ELIAS: Because tonight I'm going to ask a woman to open her house, Dad. And I need to remember whose house it is.
+    일라이어스: 오늘 밤 한 사람한테 자기 집 문을 열어 달라고 부탁할 거라서요, 아빠. 그게 누구 집인지 잊으면 안 되니까.
+
+100. CAIO: Ana. You never come to Lapa. And you brought an American. Is somebody dead?
+    카이우: 누나. 라파엔 절대 안 오잖아. 그리고 미국인을 데려왔네. 누구 죽었어?
+
+101. ANA: Nobody's dead. Caio, this is Elias Grant. Elias, my brother. Can we talk somewhere without speakers?
+    아나: 아무도 안 죽었어. 카이우, 이쪽은 일라이어스 그랜트. 일라이어스, 내 동생이에요. 스피커 없는 데서 얘기할 수 있어?
+
+102. CAIO: It's a recording studio. There's nowhere without speakers. Sit. You want coffee? Water? I don't keep anything stronger, as you know.
+    카이우: 녹음 스튜디오야. 스피커 없는 데가 없어. 앉아. 커피? 물? 독한 건 안 둬. 누나도 알잖아.
+
+103. ELIAS: Coffee, please. Thank you for seeing us so late.
+    일라이어스: 커피 주세요. 늦게 만나 주셔서 고맙습니다.
+
+104. CAIO: My sister drove to Lapa on a Monday night. I'd see the devil if she brought him. What's going on, Ana?
+    카이우: 우리 누나가 월요일 밤에 라파까지 왔는데요. 누나가 데려오면 악마라도 만나죠. 무슨 일이야, 누나?
+
+105. ANA: Rodrigo Valente has your file. Salvador, 2015.
+    아나: 호드리구 발렌치가 네 기록을 갖고 있어. 사우바도르, 2015년.
+
+106. CAIO: The sealed one.
+    카이우: 봉인된 그거.
+
+107. ANA: It isn't sealed anymore, not really. He wants me to approve a contract. If I don't, he gives it to the papers and says I used my influence to bury it.
+    아나: 이제 진짜로 봉인된 것도 아니야. 나한테 계약 하나를 승인하래. 안 하면 신문에 넘기고, 내가 영향력을 써서 묻었다고 할 거래.
+
+108. CAIO: You were a law professor with a cheap car. What influence?
+    카이우: 누난 똥차 타던 법대 교수였잖아. 무슨 영향력?
+
+109. ANA: That's not how headlines work.
+    아나: 헤드라인은 그런 식으로 안 돌아가.
+
+110. CAIO: So what are you going to do? Sign his contract?
+    카이우: 그래서 어떡할 건데? 그 사람 계약에 서명해?
+
+111. ANA: No. I've written my resignation. If I leave, there's nothing for him to aim at.
+    아나: 아니. 사임서 썼어. 내가 떠나면 그 사람이 겨눌 게 없어져.
+
+112. CAIO: You'd quit? For me? Ana, you've wanted that job since you were twelve and reading Grandpa's prison letters under the blanket with a flashlight.
+    카이우: 그만둔다고? 나 때문에? 누나, 열두 살 때 이불 속에서 손전등 켜고 할아버지 감옥 편지 읽을 때부터 그 자리 원했잖아.
+
+113. ANA: Not for you. Because of him.
+    아나: 너 때문이 아니야. 그 사람 때문이야.
+
+114. CAIO: Same thing, from where I'm sitting. Mr. Grant, you're the diplomat. What would you tell her?
+    카이우: 내 자리에선 똑같은 얘기야. 그랜트 씨, 외교관이시잖아요. 누나한테 뭐라고 하시겠어요?
+
+115. ELIAS: I already told her. I told her to publish it herself, before he can. But she's right that it's not her secret. It's yours. So I'm asking you.
+    일라이어스: 이미 말씀드렸습니다. 그 사람보다 먼저 직접 공개하시라고요. 그런데 누님 말씀이 맞아요. 누님 비밀이 아니라 카이우 씨 비밀이죠. 그래서 카이우 씨께 여쭙는 겁니다.
+
+116. CAIO: You know what's funny? Ana always says I don't care about Grandpa's story. She's right. I never wanted to be a Campos. Too heavy.
+    카이우: 웃긴 게 뭔지 아세요? 누나는 늘 내가 할아버지 얘기에 관심 없다고 해요. 맞아요. 난 캄푸스 집안 사람이 되고 싶었던 적이 없어요. 너무 무거워서.
+
+117. ANA: Caio—
+    아나: 카이우…
+
+118. CAIO: Let me finish. I was twenty-six and stupid, and you picked up at two in the morning. I've been sober nine years. I mix records for kids from the favelas who can't pay. I'm not ashamed of who I am now.
+    카이우: 끝까지 말하게 해 줘. 난 스물여섯에 멍청했고, 누난 새벽 2시에 전화를 받았어. 난 9년째 맨정신이야. 돈 못 내는 파벨라 애들 음반 믹싱해 줘. 지금의 나는 하나도 부끄럽지 않아.
+
+119. ANA: I know you're not.
+    아나: 알아.
+
+120. CAIO: Then why are you ashamed for me? The only person that file still has any power over is you.
+    카이우: 그럼 누난 왜 나 대신 부끄러워해? 그 기록이 아직 힘을 쓸 수 있는 사람은 누나뿐이야.
+
+121. ELIAS: Caio, if this goes public, reporters will come here. To this studio. They'll photograph the door, call your clients, ask the kids about you.
+    일라이어스: 카이우 씨, 이게 공개되면 기자들이 여기 올 겁니다. 이 스튜디오로요. 문을 찍고, 손님들한테 전화하고, 아이들한테 카이우 씨에 대해 물을 겁니다.
+
+122. CAIO: You're trying to talk me out of it now?
+    카이우: 이제 와서 말리시는 거예요?
+
+123. ELIAS: I'm trying not to lie to you. I'll lie to a minister if I have to. I don't lie to families. You should know what it costs before you say yes.
+    일라이어스: 거짓말 안 하려는 겁니다. 필요하면 장관한텐 거짓말해요. 가족한텐 안 합니다. 승낙하시기 전에 대가가 뭔지 아셔야죠.
+
+124. CAIO: The kids already know. I tell every one of them on the first day. "I was where you're scared of ending up. Here's the way back." It's the reason half of them come.
+    카이우: 애들은 이미 알아요. 첫날 한 명 한 명한테 다 말하거든요. "난 너희가 그렇게 될까 봐 무서워하는 그 자리에 있었어. 돌아오는 길은 이쪽이야." 애들 절반이 그래서 와요.
+
+125. ANA: You never told me that.
+    아나: 그 얘기 나한테 한 적 없잖아.
+
+126. CAIO: You never came to Lapa. Publish it, Ana. Say it your way, in your words. Just don't let a man like Valente say it for us.
+    카이우: 누나가 라파에 온 적이 없잖아. 공개해, 누나. 누나 방식으로, 누나 말로. 다만 발렌치 같은 놈이 우리 대신 말하게 두지만 마.
+
+127. ANA: And the President? The campaign? I'd be handing the other side a story twelve weeks before the vote.
+    아나: 대통령은? 캠프는? 투표 12주 전에 상대 진영한테 이야깃거리를 갖다 바치는 거야.
+
+128. ELIAS: You'd be handing them an old story about a warning and a course, and a new story about Valente's blackmail. One of those stories is a lot bigger than the other.
+    일라이어스: 경고 처분과 교육 이수에 관한 오래된 이야기 하나, 그리고 발렌치의 협박에 관한 새 이야기 하나를 주시는 겁니다. 둘 중 하나가 훨씬 큰 이야기죠.
+
+129. ANA: You're assuming people will believe me.
+    아나: 사람들이 내 말을 믿을 거라고 가정하시는군요.
+
+130. ELIAS: I'm assuming they'll believe the woman who stood up first. Two weeks ago, Brazil spoke first and Washington confirmed. It worked because you chose the hour.
+    일라이어스: 먼저 일어선 사람을 믿을 거라고 가정하는 겁니다. 2주 전에 브라질이 먼저 말하고 워싱턴이 확인했죠. 박사님이 시간을 골랐기 때문에 통한 겁니다.
+
+131. ANA: I'll write it tonight. But I'm not sending it tonight. Valente picked his day. I'm going to pick mine. And it won't be one he expects.
+    아나: 오늘 밤에 쓸게요. 하지만 오늘 밤 보내진 않을 거예요. 발렌치는 자기 날을 골랐어요. 난 내 날을 고를 거예요. 그 사람이 예상 못 할 날로.
+
+132. CAIO: That's the most Campos thing you've ever said.
+    카이우: 누나가 한 말 중에 제일 캄푸스스러운 말이다.
+
+133. ANA: Shut up and make the man his coffee.
+    아나: 시끄러워, 손님 커피나 타 드려.
+
+134. CAIO: Mr. Grant, one sugar or two? In Brazil, one is considered a personality disorder.
+    카이우: 그랜트 씨, 설탕 하나요, 둘이요? 브라질에선 하나만 넣으면 성격 장애로 쳐요.
+
+135. ELIAS: Then two. I'm trying to blend in.
+    일라이어스: 그럼 둘이요. 어울려 보려고 노력 중이라서요.
+
+136. VALENTE: Mr. Grant. I hear you went to Lapa tonight. Good music? I hope you bought a record. They need the money.
+    발렌치: 그랜트 씨. 오늘 밤 라파에 가셨다면서요. 음악은 좋던가요? 음반 하나 사셨길 바라요. 그 사람들 돈이 필요하거든요.
+
+137. ELIAS: You're having us followed. That's a little crude for a man with your taste in cachaça.
+    일라이어스: 미행을 붙이셨군요. 카샤사 고르는 안목에 비하면 좀 촌스러운데요.
+
+138. VALENTE: I'm having the city watched. You just happened to be in it. Has Doctor Campos made her decision?
+    발렌치: 도시를 지켜보게 했을 뿐이에요. 당신이 마침 거기 있었던 거고. 캄푸스 박사는 결정했나요?
+
+139. ELIAS: Let me save you a phone call. A court clerk in Salvador opened that file on May thirtieth and retired two weeks later to a beach house. The Federal Police already have his name.
+    일라이어스: 전화 한 통 아껴 드리죠. 사우바도르 법원 서기가 5월 30일에 그 기록을 열고 2주 뒤에 해변 별장으로 은퇴했어요. 연방경찰이 이미 그 사람 이름을 갖고 있습니다.
+
+140. VALENTE: Do they? Or do you just want me to think so?
+    발렌치: 그래요? 아니면 제가 그렇게 믿길 바라시는 건가요?
+
+141. ELIAS: Opening a sealed file is a crime for the clerk. Paying for it is a crime for whoever paid. It would be a shame if the beach house turned out to have a mortgage with your name on it.
+    일라이어스: 봉인 기록을 연 건 서기한테 범죄예요. 그 대가를 치른 건 돈 낸 사람한테 범죄고요. 그 해변 별장 대출 서류에 당신 이름이 있다면 참 안타깝겠네요.
+
+142. VALENTE: You're bluffing again, Mr. Grant. I recognize the music now.
+    발렌치: 또 블러핑하시네요, 그랜트 씨. 이제 그 음악은 알아들어요.
+
+143. ELIAS: Maybe. But this time you can't afford to find out.
+    일라이어스: 그럴지도요. 하지만 이번엔 확인해 볼 여유가 없으실 텐데요.
+
+144. VALENTE: Carnival rules, Mr. Grant. Everybody wears a mask. Yours slipped in Moscow, and I still have the pieces. Remember that before you lecture me about other people's files.
+    발렌치: 카니발 규칙이에요, 그랜트 씨. 다들 가면을 쓰죠. 당신 가면은 모스크바에서 벗겨졌고, 그 조각은 아직 제가 갖고 있어요. 남의 기록 얘기로 저한테 훈계하기 전에 그걸 기억하세요.
+
+145. ELIAS: I remember. Good night, Mr. Valente.
+    일라이어스: 기억합니다. 안녕히 주무세요, 발렌치 씨.
+
+146. ANA: It's me. I've written it. Two pages. Caio read it on the phone and changed one word. He changed "mistake" to "bad year."
+    아나: 나예요. 다 썼어요. 두 장. 카이우가 전화로 읽고 한 단어를 고쳤어요. "실수"를 "힘든 한 해"로.
+
+147. ELIAS: That's a better word.
+    일라이어스: 더 좋은 단어네요.
+
+148. ANA: I've signed it. And my resignation is still in my bag. I haven't torn it up yet, Mr. Grant. Don't mistake me for brave.
+    아나: 서명도 했어요. 그리고 사임서는 아직 가방에 있어요. 아직 안 찢었어요, 그랜트 씨. 날 용감한 사람으로 착각하지 마세요.
+
+149. ELIAS: Where's the statement now?
+    일라이어스: 그 성명은 지금 어디 있습니까?
+
+150. ANA: In my drawer. Where Valente keeps his. The difference is that mine has a date on it — and only I know which one.
+    아나: 내 서랍에요. 발렌치가 자기 걸 넣어 두는 곳처럼. 차이가 있다면 내 거엔 날짜가 있고, 그게 언제인지 나만 안다는 거죠.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **In Rio, everyone wears a mask — carnival rules.** — 발렌치의 말. 모두가 겉과 속이 다르다는 냉소 (005, 144)
+- **lawyer of record** — 기록상(공식) 변호인 (011)
+- **sealed record / sealed by order of the court** — 법원 명령으로 봉인된 기록 (009, 106)
+- **kingmaker** — 권력자를 만들어 내는 막후 실력자 (031)
+- **leverage** — 지렛대, 협상력 / It's called leverage. (028)
+- **sovereign country** — 주권 국가 (028)
+- **Let's not make this personal.** — 사적인 문제로 끌고 가지 말자는 경고 (030)
+- **A secret is only a weapon while it's a secret.** — 비밀은 공개하는 순간 무기가 아니게 된다 (054)
+- **take the day back** — (상대가 정한) 시점을 되찾다, 주도권을 되찾다 (066)
+- **Put yourself in a voter's shoes.** — 상대(유권자) 입장에서 생각해 보라 (083)
+- **tasking request** — (정보기관의) 수집 지시·요청 (086)
+- **It would be a shame if…** — 돌려 말한 위협 (141)
+- **can't afford to find out** — 블러핑인지 확인해 볼 여유가 없다 (143)
+- **Don't mistake me for brave.** — 날 용감하다고 착각하지 마라 (148)
+
+## 역사 노트 (낭독하지 않음)
+
+- 1942년 8월, 독일 잠수함(U-507 등)이 브라질 북동부 해안에서 브라질 선박들을 연이어 격침해 수백 명이 숨졌다. 브라질은 1942년 8월 22일 독일·이탈리아에 선전포고했다. 그 전 제툴리우 바르가스 정부는 미국과 협상해 볼타 헤돈다 제철소(CSN) 건설 자금 지원을 얻어 냈고, 미국은 브라질 북동부 기지 사용권을 얻었다.
+- 나타우의 파르나미링 비행장은 미국 항공기가 남대서양을 건너 아프리카와 지중해·중동 전선으로 가는 핵심 중계지였고, '승리의 도약대(Trampolim da Vitória)'라고 불렸다.
+- 브라질 원정군(FEB)은 약 2만 5천 명 규모로 1944~45년 이탈리아 전선에서 미 제5군 예하로 싸웠다. 1945년 2월 21일 앞선 공격들이 실패했던 몬테 카스텔로를 점령했고, 이어 몬테세 전투 등에 참가했다. "브라질이 참전하느니 뱀이 담배를 피울 것"이라는 말을 비꼬아 담배 피우는 뱀(A Cobra Fumando)을 부대 휘장으로 삼았다. 전사자 유해는 뒤에 리우 플라멩구의 2차대전 전몰자 기념비로 옮겨졌다.
+- 극 중 활용: 발렌치는 참전을 "제철소 하나에 청년들을 판 거래"로 왜곡하고, 아나는 독일 잠수함의 공격과 바르가스의 협상력을 들어 반박한다. 일라이어스는 '모두가 브라질은 못 한다고 정했지만 브라질이 다르게 정했다'는 뱀 휘장 이야기로 "날짜를 남에게 맡기지 말라"고 설득한다. ※ 브라질 마약법(2006년 법률 제11.343호) 제28조상 개인 사용 목적 소지는 징역형이 아니라 경고·사회봉사·교육 이수 처분 대상이다. 카이우 사건 자체는 가상이다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 10화 "Open Skies": 추적소를 막는 대신 브라질 주도의 다국적 개방 연구소로 바꾸자는 일라이어스의 제안. 리 첸은 반대하고, 베이징은 고민한다. 일라이어스는 아나에게 EU의 동의를 이미 받았다고 블러핑한다.
