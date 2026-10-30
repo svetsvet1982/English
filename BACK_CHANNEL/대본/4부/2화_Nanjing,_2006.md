@@ -10,29 +10,29 @@
 > - 역사 사례: 핑퐁 외교 (1971) — 일라이어스가 "작은 공이 큰 공을 움직였다"며 작은 양보부터 시작하자고 설득하고, 저우 한이 "코완이 길을 잃었다"는 단순화를 바로잡으며 마오쩌둥의 한밤중 결정을 덧붙여 "중국에서 작은 공을 치려면 맨 꼭대기의 허락이 필요하다"고 되받는다
 > - 전술 태그: [설득] [블러핑] [유출] [거짓말]
 > - 이번 화의 핵심 표현: red line / freedom of navigation / straight baselines / consular access / "Ask me something I can say yes to." / "You still touch your nose." / "the little ball moved the big ball" / "Then you know my ceiling."
-> - 복선/연결: 1화 저우의 전화("40위안과 고추기름") · 매기 사무실이 보낸 발언 요지가 베이징에 먼저 도착(사미라 목록 19번) · 일라이어스는 이 사실을 매기에게 숨김 · 난징센터 기숙사 '11시에 닫히는 정문과 뒷문'(3화) · 첫 영사 접견과 브룩스 소령의 전언 · 멍 대령의 이름 첫 언급(5화) · 3화 'sorry'를 둘러싼 협상 예고
+> - 복선/연결: 1화 저우의 전화("40위안과 고추기름") · 매기 사무실이 보낸 발언 요지가 베이징에 먼저 도착(사미라 목록 22번) · 일라이어스는 이 사실을 매기에게 숨김 · 난징센터 기숙사 '11시에 닫히는 정문과 뒷문'(3화) · 첫 영사 접견과 브룩스 소령의 전언 · 멍 대령의 이름 첫 언급(5화) · 3화 'sorry'를 둘러싼 협상 예고
 
 ---
 
 ## 대본
 
-001. TOM: He picked the hotel, he picked the hour, and he picked the room. Guess what's in the room.
-    톰: 호텔도 그쪽이 골랐고, 시간도 골랐고, 방도 골랐어. 그 방에 뭐가 있는지 맞혀 봐.
+001. TOM: He picked the hotel, the hour, and the room. Guess what's in it.
+    톰: 호텔도, 시간도, 방도 그쪽이 골랐어. 그 방에 뭐가 있게?
 
-002. ELIAS: A tea set and two microphones.
-    일라이어스: 찻잔 세트랑 마이크 두 개.
+002. ELIAS: A tea set, two microphones, and a man named Zhou.
+    일라이어스: 찻잔 세트, 마이크 두 개, 그리고 저우라는 사람.
 
 003. TOM: A ping-pong table. The basement games room. He booked it until ten.
     톰: 탁구대. 지하 레크리에이션 룸. 10시까지 빌렸대.
 
-004. ELIAS: Of course he did. He beat me every night for a year in Nanjing. He wants me to remember that.
-    일라이어스: 그럴 줄 알았어. 난징에서 1년 동안 매일 밤 날 이겼거든. 그걸 기억하라는 거야.
+004. ELIAS: Of course. He beat me every night for a year in Nanjing.
+    일라이어스: 그럴 줄 알았어. 난징에서 1년 동안 매일 밤 날 이겼거든.
 
-005. TOM: I swept it anyway. Clean, as far as I can tell. Which, in this town, means nothing at all.
-    톰: 그래도 스윕은 했어. 내가 아는 한 깨끗해. 이 동네에선 그게 아무 의미도 없지만.
+005. TOM: I swept it anyway. Clean, as far as I can tell.
+    톰: 그래도 스윕은 했어. 내가 아는 한 깨끗해.
 
-006. SAMIRA: Special Envoy, I'm on. Before you go in, the talking points. Did you read the final version in Alaska?
-    사미라: 특사님, 연결됐어요. 들어가시기 전에 발언 요지요. 알래스카에서 최종본 읽으셨어요?
+006. SAMIRA: Special Envoy, I'm on. Did you read the final talking points?
+    사미라: 특사님, 연결됐어요. 발언 요지 최종본 읽으셨어요?
 
 007. ELIAS: Twice. Four points. "Regret," never "sorry" or "apologize." Flights are lawful and will continue. Consular access now. And if necessary, I may offer a review of intercept procedures.
     일라이어스: 두 번. 네 가지. "유감"만, "sorry"나 "사과"는 절대 금지. 정찰 비행은 합법이고 계속된다. 즉각 영사 접견. 그리고 필요하면 요격 절차 재검토를 제안해도 된다.
@@ -52,11 +52,11 @@
 012. SAMIRA: I remember every number. Still no consular access. The Guangzhou team has been sitting in a Haikou hotel for two days.
     사미라: 전 숫자는 다 기억해요. 영사 접견은 아직이에요. 광저우 팀이 이틀째 하이커우 호텔에 앉아만 있어요.
 
-013. TOM: Boss, one more thing. Langley says Zhou flew in with a minder from the Southern Theater. A colonel. Meng something.
-    톰: 대장, 하나 더. 랭글리 말로는 저우가 남부전구 감시역이랑 같이 들어왔대. 대령이고. 멍 뭐라던데.
+013. TOM: One more thing. Zhou flew in with a Southern Theater minder. A colonel.
+    톰: 하나 더. 저우가 남부전구 감시역이랑 같이 들어왔대. 대령이야.
 
-014. ELIAS: Will the colonel be in the room?
-    일라이어스: 그 대령도 방에 들어와?
+014. ELIAS: Will the colonel be in the room with us?
+    일라이어스: 그 대령도 우리랑 같은 방에 들어와?
 
 015. TOM: Not in the room. Above it, probably. With headphones on.
     톰: 방엔 안 들어와. 아마 그 위층에 있겠지. 헤드폰 끼고.
@@ -70,8 +70,8 @@
 018. ELIAS: Lao Zhou. You've gone gray.
     일라이어스: 라오저우. 머리가 셌네.
 
-019. ZHOU: You've gone American. You were already American, but now it's on your face. Pick a paddle.
-    저우: 넌 미국 사람이 됐어. 원래 미국 사람이었지만 이젠 얼굴에 쓰여 있어. 라켓 골라.
+019. ZHOU: You've gone American. Now it's on your face. Pick a paddle.
+    저우: 넌 미국 사람이 됐어. 이젠 얼굴에 쓰여 있네. 라켓 골라.
 
 020. ELIAS: We're playing? Right now?
     일라이어스: 진짜 쳐? 지금?
@@ -85,11 +85,11 @@
 023. ZHOU: I know. Serve.
     저우: 알아. 서브해.
 
-024. ELIAS: Do you still have the chili sauce your mother sent? The one that took the paint off our desk?
-    일라이어스: 어머니가 보내 주시던 고추기름 아직 있어? 우리 책상 페인트 벗겨지게 했던 그거?
+024. ELIAS: Do you still have your mother's chili sauce? The one that ate our desk?
+    일라이어스: 어머니 고추기름 아직 있어? 우리 책상 페인트까지 벗겨 먹던 그거?
 
-025. ZHOU: She still sends it. She still asks about the tall American who ate it with a spoon and cried.
-    저우: 아직도 보내셔. 그거 숟가락으로 퍼먹고 울던 키 큰 미국인 안부도 아직 물으시고.
+025. ZHOU: She still sends it. She still asks about the American who cried.
+    저우: 아직도 보내셔. 그거 먹고 울던 미국인 안부도 아직 물으시고.
 
 026. ELIAS: I didn't cry. My eyes were negotiating.
     일라이어스: 운 거 아니야. 눈이 협상 중이었던 거지.
@@ -103,8 +103,8 @@
 029. ZHOU: That's not Chinese. That's diplomacy. Eleven, three. Shall we sit?
     저우: 그건 중국식이 아니라 외교식이야. 11 대 3. 앉을까?
 
-030. ELIAS: Eleven, three. Some things are permanent.
-    일라이어스: 11 대 3. 어떤 건 영원하네.
+030. ELIAS: Eleven, three. Some things in this world are permanent, apparently.
+    일라이어스: 11 대 3. 세상엔 영원한 것도 있나 보네.
 
 031. ZHOU: Elias, I'll do this the way we did it in the dormitory. First the official words, so the ceiling hears them. Then we'll talk.
     저우: 일라이어스, 기숙사에서 하던 식으로 하자. 먼저 공식 발언. 천장이 들을 수 있게. 그다음에 얘기하자.
@@ -115,8 +115,8 @@
 033. ZHOU: The People's Republic of China demands that the United States apologize, formally and publicly, for the collision, for the death of our pilot, and for the illegal entry into our airspace.
     저우: 중화인민공화국은 미국이 충돌, 우리 조종사의 죽음, 그리고 우리 영공 불법 진입에 대해 공식적이고 공개적으로 사과할 것을 요구한다.
 
-034. ELIAS: Death. Your government has declared him dead?
-    일라이어스: 죽음. 너희 정부가 그 사람 사망을 선언했어?
+034. ELIAS: Death? Has your government declared him dead, Lao Zhou?
+    일라이어스: 죽음? 너희 정부가 그 사람 사망을 선언했어, 라오저우?
 
 035. ZHOU: No. That was my word, not the ceiling's. Missing. Strike it.
     저우: 아니. 그건 천장 말이 아니라 내 말이었어. 실종. 지워.
@@ -169,8 +169,8 @@
 051. ZHOU: Through a friend of China. A consultant. Your country has many consultants, Elias. Some of them are very friendly to everyone.
     저우: '중국의 친구'를 통해서. 컨설턴트. 너희 나라엔 컨설턴트가 많지, 일라이어스. 그중 몇은 모두에게 아주 친절하고.
 
-052. ELIAS: Did the consultant have a name?
-    일라이어스: 그 컨설턴트, 이름 있었어?
+052. ELIAS: Did the consultant have a name, or just a price?
+    일라이어스: 그 컨설턴트, 이름이 있었어, 아니면 값만 있었어?
 
 053. ZHOU: Everybody has a name. Not everybody has permission to say it. I'm showing you this as a roommate, not as a vice minister.
     저우: 누구나 이름은 있지. 그걸 말할 허락이 다 있는 건 아니고. 이건 차관이 아니라 룸메이트로서 보여 주는 거야.
@@ -247,11 +247,11 @@
 077. ZHOU: Twenty years, and you still touch your nose when your cards are bad. The second group is going to the Philippine Sea. Not the strait. I read newspapers too.
     저우: 20년이 지났는데 패가 나쁘면 아직도 코를 만지네. 두 번째 타격단은 해협이 아니라 필리핀해로 가. 나도 신문은 읽어.
 
-078. ELIAS: Then you also read that half of Washington wants it in the strait. That part isn't a bluff.
-    일라이어스: 그럼 워싱턴 절반이 그걸 해협에 넣고 싶어 한다는 것도 읽었겠네. 그 부분은 블러핑 아니야.
+078. ELIAS: Then you read that half of Washington wants it there. That's no bluff.
+    일라이어스: 그럼 워싱턴 절반이 그걸 거기 넣고 싶어 한다는 것도 읽었겠네. 그건 블러핑 아니야.
 
-079. ZHOU: Here's mine, then. Colonel Meng has a list of charges for the crew. Espionage, endangering state security. He'd like a trial before the Spring Festival.
-    저우: 그럼 내 패도 보여 주지. 멍 대령은 승무원 혐의 목록을 갖고 있어. 간첩, 국가안보 위해. 춘절 전에 재판을 하고 싶어 해.
+079. ZHOU: Here's mine, then. Colonel Meng has a list of charges for the crew. Espionage, endangering state security. He'd like a trial before the Spring Festival. He's already chosen the courtroom.
+    저우: 그럼 내 패도 보여 주지. 멍 대령은 승무원 혐의 목록을 갖고 있어. 간첩, 국가안보 위해. 춘절 전에 재판을 하고 싶어 해. 법정도 벌써 골라 놨어.
 
 080. ELIAS: Is that a bluff?
     일라이어스: 그거 블러핑이야?
@@ -259,17 +259,17 @@
 081. ZHOU: I don't touch my nose. You'll have to guess.
     저우: 난 코 안 만져. 맞혀 봐.
 
-082. ELIAS: Then I'll guess that if there's a trial, there's no deal. For anyone. Not for you, not for Meng, not for the family on television.
-    일라이어스: 그럼 이렇게 짐작할게. 재판을 하면 거래는 없어. 누구에게도. 너한테도, 멍한테도, TV에 나오는 그 가족한테도.
+082. ELIAS: Then I'll guess that if there's a trial, there's no deal. For anyone. Not for you, not for Meng, not for the family on television. And Colonel Meng knows it.
+    일라이어스: 그럼 이렇게 짐작할게. 재판을 하면 거래는 없어. 누구에게도. 너한테도, 멍한테도, TV에 나오는 그 가족한테도. 멍 대령도 그걸 알고.
 
 083. ZHOU: Old friend, you know I cannot say yes. Ask me something I can say yes to.
     저우: 오랜 친구, 내가 '예'라고 못 하는 거 알잖아. '예'라고 할 수 있는 걸 물어봐.
 
-084. ELIAS: All right. Not an apology, not the flights. Something smaller. The crew calls their families this weekend. One call each, five minutes, your people listening.
-    일라이어스: 좋아. 사과도 아니고 비행도 아니야. 더 작은 거. 이번 주말에 승무원들이 가족한테 전화하는 거. 한 사람당 한 통, 5분, 너희 쪽 사람이 듣는 데서.
+084. ELIAS: All right. Not an apology, not the flights. Something smaller. The crew calls their families this weekend. One call each, five minutes, your people listening. Nothing about the case.
+    일라이어스: 좋아. 사과도 아니고 비행도 아니야. 더 작은 거. 이번 주말에 승무원들이 가족한테 전화하는 거. 한 사람당 한 통, 5분, 너희 쪽 사람이 듣는 데서. 사건 얘긴 하나도 없이.
 
-085. ZHOU: Why would Beijing give you that?
-    저우: 베이징이 왜 그걸 너한테 주겠어?
+085. ZHOU: Why would Beijing give you that? What does Beijing get?
+    저우: 베이징이 왜 그걸 너한테 주겠어? 베이징은 뭘 얻는데?
 
 086. ELIAS: Because Captain Gao's wife is on your television every night. Let our nine families be on ours, saying the Chinese treated them decently. That's a picture your side wants too.
     일라이어스: 가오 대위 아내가 매일 밤 너희 TV에 나오니까. 우리 쪽 아홉 가족도 우리 TV에 나와서 중국이 잘 대해 줬다고 말하게 해. 그건 너희 쪽도 원하는 그림이야.
@@ -277,8 +277,8 @@
 087. ZHOU: You want to turn your hostages into our advertisement.
     저우: 너희 인질을 우리 광고로 만들자는 거네.
 
-088. ELIAS: They're not hostages. You said so yourself. They're "being properly looked after." Let them say it.
-    일라이어스: 인질 아니잖아. 너희가 직접 그랬지. "적절히 보살피고 있다"고. 그들 입으로 말하게 해.
+088. ELIAS: They're not hostages. They're "being properly looked after." Let them say it.
+    일라이어스: 인질 아니잖아. "적절히 보살피고 있다"며. 그들 입으로 말하게 해.
 
 089. ZHOU: And the consul?
     저우: 그럼 영사는?
@@ -289,8 +289,8 @@
 091. ZHOU: Words. You mean the apology you can't make.
     저우: 단어라. 네가 못 한다는 그 사과 말이구나.
 
-092. ELIAS: I mean the apology I can't make, and the one I might be able to. They're different words. You taught me that tones change meaning.
-    일라이어스: 내가 못 하는 사과랑, 어쩌면 할 수 있을지도 모르는 사과. 그건 다른 단어야. 성조가 뜻을 바꾼다는 거 네가 가르쳐 줬잖아.
+092. ELIAS: I mean the apology I can't make, and the one I might be able to. They're different words. You taught me that tones change meaning. Same syllable, different song.
+    일라이어스: 내가 못 하는 사과랑, 어쩌면 할 수 있을지도 모르는 사과. 그건 다른 단어야. 성조가 뜻을 바꾼다는 거 네가 가르쳐 줬잖아. 같은 음절, 다른 노래.
 
 093. ZHOU: Hypothetically speaking, if a consular officer were allowed into Lingshui this evening, what would Washington say tomorrow?
     저우: 가정해서 말하자면, 오늘 저녁 영사관 직원 한 명이 링수이에 들어가도 된다면, 워싱턴은 내일 뭐라고 할까?
@@ -322,8 +322,8 @@
 102. TOM: So? Did you win?
     톰: 그래서? 이겼어?
 
-103. ELIAS: Eleven, three. And he had my talking points. Word for word, eleven hours before we landed.
-    일라이어스: 11 대 3. 그리고 그 친구가 내 발언 요지를 갖고 있었어. 한 글자도 안 틀리고. 우리가 착륙하기 열한 시간 전에.
+103. ELIAS: Eleven, three. And he had my talking points, word for word.
+    일라이어스: 11 대 3. 그리고 그 친구가 내 발언 요지를 갖고 있었어. 한 글자도 안 틀리고.
 
 104. TOM: Hell. That's not a leak, man. That's a delivery service.
     톰: 젠장. 그건 유출이 아니라 택배 서비스네.
@@ -334,20 +334,20 @@
 106. ELIAS: Six, if you count whoever typed it into a server somewhere.
     일라이어스: 어딘가 서버에 그걸 입력한 사람까지 치면 여섯이죠.
 
-107. TOM: Zhou said "a consultant." In this town that word is a business card. In Reston, it's a whole floor.
-    톰: 저우가 '컨설턴트'라고 했다며. 이 동네에선 그 단어가 명함 한 장이지만, 레스턴에선 건물 한 층이야.
+107. TOM: Zhou said "a consultant." In Reston, that word is a whole floor.
+    톰: 저우가 '컨설턴트'라고 했다며. 레스턴에선 그 단어가 건물 한 층이야.
 
-108. ELIAS: Don't say Reston on this line either. Samira, page nineteen. Same rules.
-    일라이어스: 이 회선에서도 레스턴 소리 하지 마. 사미라, 19번 페이지. 규칙은 같아요.
+108. ELIAS: Don't say Reston on this line either. Samira, page twenty-two. Same rules.
+    일라이어스: 이 회선에서도 레스턴 소리 하지 마. 사미라, 22번 페이지. 규칙은 같아요.
 
-109. SAMIRA: Already written. Nineteen: talking points to Beijing, five recipients, eleven hours ahead. Second line: "friend of China."
-    사미라: 벌써 적었어요. 19번. 발언 요지가 베이징으로, 수신자 다섯, 열한 시간 먼저. 둘째 줄, '중국의 친구'.
+109. SAMIRA: Already written. Twenty-two: talking points to Beijing, five recipients, eleven hours ahead. Second line: "friend of China."
+    사미라: 벌써 적었어요. 22번. 발언 요지가 베이징으로, 수신자 다섯, 열한 시간 먼저. 둘째 줄, '중국의 친구'.
 
 110. TOM: Your phone. It's her.
     톰: 네 전화. 그 사람이야.
 
-111. MAGGIE: Elias. Tell me something I can carry upstairs.
-    매기: 일라이어스. 위층에 들고 갈 만한 거 말해 봐.
+111. MAGGIE: Elias. Tell me something I can carry upstairs tonight.
+    매기: 일라이어스. 오늘 밤 위층에 들고 갈 만한 거 말해 봐.
 
 112. ELIAS: Zhou set out four demands. Apology, flights, compensation, and the aircraft stays. The crew's future depends on our "attitude."
     일라이어스: 저우가 요구 네 가지를 내놨어요. 사과, 비행, 배상, 그리고 기체는 남는다. 승무원의 앞날은 우리 '태도'에 달렸고요.
@@ -358,8 +358,8 @@
 114. ELIAS: He's under pressure from a PLA colonel named Meng, Southern Theater. And he may give us consular access tonight.
     일라이어스: 남부전구의 멍이라는 인민해방군 대령한테 압박받고 있어요. 그리고 오늘 밤 영사 접견을 줄지도 몰라요.
 
-115. MAGGIE: May. Did you use the procedures review?
-    매기: 줄지도. 절차 재검토 카드는 썼어?
+115. MAGGIE: May. Did you have to use the procedures review?
+    매기: 줄지도라. 절차 재검토 카드까지 써야 했어?
 
 116. ELIAS: No. I kept it in my pocket. It's the only door you gave me, and I didn't want to open it on day three.
     일라이어스: 아뇨. 주머니에 넣어 뒀어요. 부장관님이 주신 유일한 문인데, 사흘째에 열고 싶지 않았어요.
@@ -391,26 +391,26 @@
 125. FRANK: It's me. The nurses let me have the phone for ten minutes. Did you eat?
     프랭크: 나다. 간호사들이 10분 동안 전화 쓰게 해 줬어. 밥은 먹었니?
 
-126. ELIAS: Embassy sandwiches. Tuna. How's the chest?
-    일라이어스: 대사관 샌드위치요. 참치. 가슴은 좀 어떠세요?
+126. ELIAS: Embassy sandwiches. Tuna, because it's Friday. How's the chest?
+    일라이어스: 대사관 샌드위치. 금요일이라 참치. 가슴은 좀 어때?
 
-127. FRANK: Like a door somebody slammed. I walked to the window this morning. Eleven steps. Rosie counted.
-    프랭크: 누가 쾅 닫은 문 같다. 오늘 아침엔 창가까지 걸었어. 열한 걸음. 로지가 셌다.
+127. FRANK: Like a slammed door. I walked to the window today. Rosie counted eleven steps.
+    프랭크: 쾅 닫힌 문 같다. 오늘 창가까지 걸었어. 로지가 열한 걸음 셌다.
 
 128. ELIAS: Eleven. That's a good number today.
-    일라이어스: 열하나. 오늘은 그게 좋은 숫자네요.
+    일라이어스: 열하나. 오늘은 그게 좋은 숫자네.
 
 129. FRANK: The television says you're in Singapore. Rosie says you're "allegedly" in Singapore. Played any ping-pong?
     프랭크: 텔레비전에선 네가 싱가포르에 있다더라. 로지는 네가 싱가포르에 '있다고 알려졌다'고 하고. 탁구는 쳤니?
 
 130. ELIAS: How did you know?
-    일라이어스: 어떻게 아셨어요?
+    일라이어스: 어떻게 알았어?
 
-131. FRANK: Nineteen seventy-one. Of course they'd make you play. Just remember, those kids in Nagoya were scared to death. Brave things usually look like small things.
-    프랭크: 1971년. 당연히 너한테도 치게 했겠지. 그냥 기억해라, 나고야의 그 젊은이들은 겁에 질려 있었다. 용감한 일은 대개 작은 일처럼 보이는 법이야.
+131. FRANK: Nineteen seventy-one. Of course they'd make you play. Just remember, those kids in Nagoya were scared to death. Nobody knew whether they'd come home in trouble. Brave things usually look like small things.
+    프랭크: 1971년. 당연히 너한테도 치게 했겠지. 그냥 기억해라, 나고야의 그 젊은이들은 겁에 질려 있었다. 돌아가서 무슨 일을 당할지 아무도 몰랐으니까. 용감한 일은 대개 작은 일처럼 보이는 법이야.
 
 132. ELIAS: Go back to bed, Dad.
-    일라이어스: 다시 누우세요, 아빠.
+    일라이어스: 다시 누워, 아빠.
 
 133. ZHOU: The consul went in at eight. Forty minutes, all nine, one room. Colonel Meng's officers sat in the corner.
     저우: 영사가 8시에 들어갔어. 40분, 아홉 명 전원, 한 방에서. 멍 대령 쪽 장교들이 구석에 앉아 있었고.
@@ -424,8 +424,8 @@
 136. ELIAS: Was it a code?
     일라이어스: 암호였어?
 
-137. ZHOU: I hope so. I'd hate for Colonel Meng to have wasted an hour on a dog.
-    저우: 그랬으면 좋겠다. 멍 대령이 개 한 마리 때문에 한 시간을 날렸다면 안됐잖아.
+137. ZHOU: I hope so. Otherwise Colonel Meng wasted an hour on a dog.
+    저우: 그랬으면 좋겠다. 아니면 멍 대령이 개 한 마리에 한 시간을 날린 거니까.
 
 138. ELIAS: Thank you, Lao Zhou. I know what that cost.
     일라이어스: 고마워, 라오저우. 그게 얼마짜리였는지 알아.

@@ -10,7 +10,7 @@
 > - 역사 사례: EP-3 하이난 사건 (2001) — 일라이어스가 국가안보회의에서 "11일이 걸린 건 비행기가 아니라 끝내 못 찾은 조종사 때문"이라며 즉각 항모 배치를 막고, 도시가 "결국 버텨서 이겼다"고 단순화하자 반박한다. 프랭크는 병상에서 왕웨이의 미망인이 부시에게 보낸 편지를 들어 "진짜 협상 상대는 장관이 아니라 그 어린 딸"이라고 아들에게 경고한다
 > - 전술 태그: [음모] [비밀] [설득] [거짓말] [유출]
 > - 이번 화의 핵심 표현: Mayday / freedom of navigation / escalation ladder / red line / face-saving / "Put yourself in their shoes for a second." / "It always matters who chose the room." / "Old friend, all of Washington knew which plane you were on."
-> - 복선/연결: 3부 12화 매기의 전화("You're the only one I trust") 직후 · 일라이어스가 매기에게 품은 확신(이름은 끝까지 말하지 않음)과 봉투(사미라→톰) · 줄리아의 "잠금장치 달린 문"(4부 11화) · 로지의 12월 첫 주말 모의유엔 뉴욕 여행(4부 6화) · 중국이 거절한 미국의 수색 지원 제안(4부 5화 공동 수색) · 사미라 목록 18번 · 저우 한의 첫 연락(2화)
+> - 복선/연결: 3부 12화 매기의 전화("You're the only one I trust") 직후 · 일라이어스가 매기에게 품은 확신(이름은 끝까지 말하지 않음)과 봉투(사미라→톰) · 줄리아의 "잠금장치 달린 문"(4부 11화) · 로지의 12월 첫 주말 모의유엔 뉴욕 여행(4부 6화) · 중국이 거절한 미국의 수색 지원 제안(4부 5화 공동 수색) · 사미라 목록 21번(3부 정본 ⑱~⑳ 다음) · 저우 한의 첫 연락(2화)
 
 ---
 
@@ -296,7 +296,7 @@
     프랭크: 너한테서 공군기지 냄새가 나는구나. 밥은 먹었니?
 
 094. ELIAS: Airbase coffee and a granola bar. Tom's real coffee ran out by six.
-    일라이어스: 기지 커피랑 그래놀라 바 하나요. 톰이 가져온 진짜 커피는 6시에 떨어졌어요.
+    일라이어스: 기지 커피랑 그래놀라 바 하나. 톰이 가져온 진짜 커피는 6시에 떨어졌어.
 
 095. FRANK: A granola bar is not food. It's an apology for food.
     프랭크: 그래놀라 바는 음식이 아니다. 음식한테 하는 사과지.
@@ -308,25 +308,25 @@
     프랭크: 그 간호사는 아직 날 몰라. 어디 가니? 여권 챙긴 얼굴인데.
 
 098. ELIAS: Asia. I can't say where. I'm sorry, Dad. I wanted to be here for the walking part.
-    일라이어스: 아시아요. 어딘지는 말 못 해요. 죄송해요, 아빠. 걷기 시작하실 때 옆에 있고 싶었는데.
+    일라이어스: 아시아. 어딘지는 말 못 해. 미안해, 아빠. 걷기 시작하실 때 옆에 있고 싶었는데.
 
 099. FRANK: I saw the television in the hall. A Navy plane on Hainan. Let me tell you about 2001.
     프랭크: 복도 텔레비전 봤다. 해군 비행기가 하이난에 내렸다고. 2001년 얘기 하나 해 주마.
 
 100. ELIAS: I told the President's people about 2001 three hours ago.
-    일라이어스: 2001년 얘긴 세 시간 전에 대통령 사람들한테 했어요.
+    일라이어스: 2001년 얘긴 세 시간 전에 대통령 사람들한테 했어.
 
 101. FRANK: Did you tell them about the widow? Wang Wei's wife wrote to President Bush. She said he didn't have the courage to apologize. It was in every paper.
     프랭크: 미망인 얘기도 했니? 왕웨이의 아내가 부시 대통령한테 편지를 썼지. 사과할 용기도 없는 사람이라고. 신문마다 실렸다.
 
 102. ELIAS: I remember. I was sixteen. You read it out loud at dinner.
-    일라이어스: 기억나요. 저 열여섯 살이었어요. 아빠가 저녁 먹다가 소리 내서 읽어 주셨잖아요.
+    일라이어스: 기억나. 나 열여섯 살이었잖아. 아빠가 저녁 먹다가 소리 내서 읽어 줬지.
 
 103. FRANK: And what I remember is that nobody won that argument with her. You can't out-argue a woman whose husband is in the sea. Whoever you're going to see, his country has a widow, or will soon.
     프랭크: 그리고 내가 기억하는 건, 그 여자와의 논쟁에서 이긴 사람이 아무도 없었다는 거다. 남편이 바다에 있는 여자를 말로 이길 순 없어. 네가 누굴 만나러 가든, 그 나라엔 미망인이 있거나 곧 생길 거다.
 
 104. ELIAS: His wife's already on Chinese TV. With their little girl.
-    일라이어스: 그 사람 아내가 벌써 중국 TV에 나와요. 어린 딸이랑.
+    일라이어스: 그 사람 아내가 벌써 중국 TV에 나와. 어린 딸이랑.
 
 105. FRANK: Then that's who you're negotiating with, son. Not the minister. The little girl.
     프랭크: 그럼 그게 네 협상 상대다, 얘야. 장관이 아니라. 그 꼬마.
@@ -442,8 +442,8 @@
 142. ELIAS: Personal ties. That's the second line of Lena's message.
     일라이어스: 개인적 인연. 레나가 받은 메시지 둘째 줄이네요.
 
-143. SAMIRA: I've started a new page. Number eighteen. Nine people in the room, and the President's note had one sentence about Singapore.
-    사미라: 새 페이지 시작했어요. 18번. 방에는 아홉 명, 대통령 메모엔 싱가포르 얘기가 딱 한 문장.
+143. SAMIRA: I've started a new page. Number twenty-one. Nine people in the room, and the President's note had one sentence about Singapore.
+    사미라: 새 페이지 시작했어요. 21번. 방에는 아홉 명, 대통령 메모엔 싱가포르 얘기가 딱 한 문장.
 
 144. ELIAS: Write it down. Don't email it.
     일라이어스: 적어 둬요. 메일로 보내지 말고요.
