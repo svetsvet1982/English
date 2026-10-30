@@ -52,8 +52,8 @@
 012. ELIAS: Read me the card again.
     일라이어스: 카드 다시 읽어 줘요.
 
-013. SAMIRA: It came taped to a bottle of 2015 Margaux, delivered by a man in a very good coat. "Tonight, eight o'clock, Chez Vergennes. Bring an appetite and some authority. J-L M."
-    사미라: 2015년산 마고 한 병에 테이프로 붙어서 왔어요. 아주 좋은 코트를 입은 남자가 놓고 갔고요. "오늘 밤 8시, 셰 베르젠. 식욕과 권한을 좀 챙겨 오시길. J-L M."
+013. SAMIRA: It came taped to a bottle of 2015 Chambertin, delivered by a man in a very good coat. "Tonight, eight o'clock, Chez Vergennes. Bring an appetite and some authority. J-L M."
+    사미라: 2015년산 샹베르탱 한 병에 테이프로 붙어서 왔어요. 아주 좋은 코트를 입은 남자가 놓고 갔고요. "오늘 밤 8시, 셰 베르젠. 식욕과 권한을 좀 챙겨 오시길. J-L M."
 
 014. ELIAS: Vergennes. He picked the restaurant on purpose.
     일라이어스: 베르젠이라. 일부러 그 식당을 고른 거네요.
@@ -166,8 +166,8 @@
 050. MARCHAND: Sit, sit. This room is mine. The owner's father worked for my service in Algiers. Nobody listens here except the walls, and the walls are French.
     마르샹: 앉으세요, 앉으세요. 이 방은 제 방이에요. 주인 아버지가 알제에서 우리 기관 일을 했거든요. 여기선 벽 말고는 아무도 안 들어요. 그리고 벽은 프랑스인이죠.
 
-051. ELIAS: Thank you for the Margaux. My team was very impressed.
-    일라이어스: 마고 감사합니다. 우리 팀이 아주 감탄했어요.
+051. ELIAS: Thank you for the Chambertin. My team was very impressed.
+    일라이어스: 샹베르탱 감사합니다. 우리 팀이 아주 감탄했어요.
 
 052. MARCHAND: Everything has a price, Monsieur Grant, but I accept wine. Tonight, I'm hoping you do too.
     마르샹: 모든 건 값이 있지요, 그랜트 씨. 하지만 전 와인도 받아요. 오늘 밤엔 당신도 그러시길 바라고요.

@@ -76,8 +76,8 @@
 020. TOM: Fine. Then I'll say something historical. Kennedy stood right over there and told the whole city he was a jelly doughnut.
     톰: 좋아. 그럼 역사적인 얘기 하나 할게. 케네디가 바로 저기서 도시 전체한테 자기가 젤리 도넛이라고 했잖아.
 
-021. SAMIRA: He didn't, and it wasn't over there. It was the town hall in Schöneberg. And the doughnut story is a myth. Every Berliner in the crowd understood him perfectly.
-    사미라: 안 했어요. 그리고 저기도 아니에요. 쇠네베르크 시청 앞이었어요. 도넛 얘기는 속설이고요. 그 자리에 있던 베를린 사람들은 다 정확히 알아들었어요.
+021. SAMIRA: He didn't. It was the town hall in Schöneberg, and the doughnut story is a myth. Berliners understood him perfectly.
+    사미라: 안 했어요. 쇠네베르크 시청 앞이었고, 도넛 얘기는 속설이에요. 베를린 사람들은 정확히 알아들었어요.
 
 022. TOM: Huh. I've been telling that one at parties for fifteen years.
     톰: 허. 나 그 얘기 15년째 파티에서 써먹었는데.
@@ -91,8 +91,8 @@
 025. MAGGIE: The usual. "We neither confirm nor deny intelligence activities." The White House doesn't want to make it worse.
     매기: 늘 하던 거. "정보 활동에 대해서는 확인도 부인도 하지 않는다." 백악관은 일을 더 키우고 싶지 않대.
 
-026. ELIAS: Maggie, last week we flatly denied a fake cable. This week we neither confirm nor deny real intercepts. Every capital in Europe can see the difference.
-    일라이어스: 매기, 지난주엔 가짜 전문을 딱 잘라 부인했잖아요. 이번 주엔 진짜 감청을 확인도 부인도 안 하고. 유럽의 모든 수도가 그 차이를 볼 수 있어요.
+026. ELIAS: Last week we flatly denied a fake cable. This week we won't comment on real intercepts. Europe sees the difference.
+    일라이어스: 지난주엔 가짜 전문을 딱 잘라 부인했잖아요. 이번 주엔 진짜 감청에 노코멘트고요. 유럽은 그 차이를 봐요.
 
 027. MAGGIE: What would you have us say? "Yes, we did it, here are the other names"?
     매기: 그럼 뭐라고 하길 바라? "네, 우리가 했습니다, 나머지 이름은 이렇습니다"?
@@ -109,8 +109,8 @@
 031. WEISS: Mr. Grant. I kept the appointment so that no one could say Germany closed the door. Please don't mistake that for warmth.
     바이스: 그랜트 씨. 약속을 지킨 건 독일이 문을 닫았다는 말을 듣지 않기 위해서입니다. 그걸 호의로 착각하지 마십시오.
 
-032. ELIAS: I won't, Herr Weiss. Thank you for keeping it.
-    일라이어스: 그러지 않겠습니다, 바이스 씨. 약속을 지켜 주셔서 감사합니다.
+032. ELIAS: I won't, Herr Weiss. Thank you anyway.
+    일라이어스: 그러지 않겠습니다, 바이스 씨. 그래도 감사합니다.
 
 033. WEISS: This morning I read a summary of a call I made to my wife's sister in March 2027. Her daughter was ill. Some analyst in Maryland decided it was worth two paragraphs.
     바이스: 오늘 아침에 제가 2027년 3월 처제에게 건 통화의 요약본을 읽었습니다. 처제 딸이 아팠죠. 메릴랜드의 어느 분석관이 그게 두 문단짜리 가치가 있다고 판단했더군요.
@@ -151,11 +151,11 @@
 045. WEISS: Then your timing should have been better in 2027.
     바이스: 그렇다면 당신네 타이밍이 2027년에 더 좋았어야죠.
 
-046. ELIAS: And what happens with the NATO statement on Estonia?
-    일라이어스: 그럼 에스토니아에 관한 NATO 성명은 어떻게 됩니까?
+046. ELIAS: And the NATO statement on Estonia?
+    일라이어스: 그럼 에스토니아에 관한 NATO 성명은요?
 
-047. WEISS: That depends on Washington. If Washington says "no comment" one more time, Germany will tell the allies that the Baltic cable "cannot be excluded as authentic."
-    바이스: 그건 워싱턴에 달렸습니다. 워싱턴이 한 번만 더 "노코멘트"라고 하면, 독일은 동맹국들에 발트 전문이 "진본일 가능성을 배제할 수 없다"고 말할 겁니다.
+047. WEISS: That depends on Washington. One more "no comment," and Germany tells the allies the cable "cannot be excluded as authentic."
+    바이스: 그건 워싱턴에 달렸습니다. "노코멘트"가 한 번만 더 나오면, 독일은 동맹국들에 그 전문이 "진본일 가능성을 배제할 수 없다"고 말할 겁니다.
 
 048. ELIAS: You know it's forged.
     일라이어스: 위조라는 거 아시잖아요.
@@ -175,8 +175,8 @@
 053. WEISS: And the Hamburg weekly would very much like them. I haven't decided what to do with them yet. Washington might help me decide.
     바이스: 그리고 함부르크 주간지가 그 이름을 몹시 원하죠. 아직 어떻게 할지 정하지 않았습니다. 워싱턴이 결정을 도와줄 수도 있겠죠.
 
-054. ELIAS: That sounds a great deal like a threat, Herr Weiss.
-    일라이어스: 그건 협박처럼 들리는데요, 바이스 씨.
+054. ELIAS: That sounds like a threat, Herr Weiss.
+    일라이어스: 협박처럼 들리는데요, 바이스 씨.
 
 055. WEISS: It's an observation. Americans are very good at observations. I learned it from you.
     바이스: 관찰입니다. 미국인들은 관찰에 아주 능하죠. 당신들한테서 배웠습니다.
@@ -253,8 +253,8 @@
 079. WEISS: Seven minutes. You came to Berlin, Mr. Grant. Americans like to come to Berlin. Kennedy came, Reagan came. They give a speech and fly home.
     바이스: 7분. 베를린에 오셨군요, 그랜트 씨. 미국인들은 베를린에 오는 걸 좋아하죠. 케네디도 왔고 레이건도 왔습니다. 연설 한번 하고 집에 가죠.
 
-080. ELIAS: In 1963, Kennedy stood in front of four hundred thousand people in Schöneberg, twenty-two months after the Wall went up, and said, "Ich bin ein Berliner." He didn't argue. He came and stood there.
-    일라이어스: 1963년에 케네디는 장벽이 세워진 지 22개월 뒤 쇠네베르크에서 40만 명 앞에 서서 "Ich bin ein Berliner"라고 했습니다. 따지지 않았어요. 와서 그 자리에 섰죠.
+080. ELIAS: In 1963, Kennedy stood in front of nearly half a million people in Schöneberg, twenty-two months after the Wall went up, and said, "Ich bin ein Berliner." He didn't argue. He came and stood there.
+    일라이어스: 1963년에 케네디는 장벽이 세워진 지 22개월 뒤 쇠네베르크에서 50만 가까운 사람들 앞에 서서 "Ich bin ein Berliner"라고 했습니다. 따지지 않았어요. 와서 그 자리에 섰죠.
 
 081. WEISS: Twenty-two months after Washington watched the Wall go up and didn't lift a finger. Do you know what your President said privately in 1961? "A wall is a hell of a lot better than a war."
     바이스: 워싱턴이 장벽이 올라가는 걸 보고도 손가락 하나 까딱 안 한 지 22개월 뒤였죠. 1961년에 당신네 대통령이 사석에서 뭐라고 했는지 아십니까? "장벽이 전쟁보다는 훨씬 낫다."
@@ -265,14 +265,14 @@
 083. WEISS: That is a very generous reading of history.
     바이스: 역사를 아주 너그럽게 읽으시는군요.
 
-084. ELIAS: It's the reading I'd like you to apply to this week. Here's what I'm asking. Don't lend that cable your credibility. Keep Germany on the NATO text for Estonia.
-    일라이어스: 이번 주에도 그렇게 읽어 주셨으면 하는 겁니다. 제가 부탁드리는 건 이겁니다. 그 전문에 신뢰를 실어 주지 마십시오. 에스토니아에 관한 NATO 문안에 독일이 남아 주십시오.
+084. ELIAS: Read this week that way too. Don't lend that cable your credibility. Keep Germany on the NATO text for Estonia.
+    일라이어스: 이번 주도 그렇게 읽어 주십시오. 그 전문에 신뢰를 실어 주지 마시고, 에스토니아에 관한 NATO 문안에 독일이 남아 주십시오.
 
 085. WEISS: And in return?
     바이스: 그 대가로는요?
 
-086. ELIAS: In return, I go back to Washington and fight for a sentence with a subject and a verb. Not "mistakes were made." Something the Chancellor can read aloud.
-    일라이어스: 그 대가로 전 워싱턴에 돌아가 주어와 동사가 있는 문장을 얻어 내려고 싸우겠습니다. "실수가 있었다" 말고요. 총리께서 소리 내어 읽으실 수 있는 걸로요.
+086. ELIAS: In return, I fight in Washington for a sentence with a subject and a verb. Something the Chancellor can read aloud.
+    일라이어스: 그 대가로 전 워싱턴에서 주어와 동사가 있는 문장을 얻어 내려고 싸우겠습니다. 총리께서 소리 내어 읽으실 수 있는 문장으로요.
 
 087. WEISS: You can't promise that.
     바이스: 그걸 약속하실 순 없잖습니까.
@@ -292,8 +292,8 @@
 092. ELIAS: How do you know that?
     일라이어스: 그걸 어떻게 아십니까?
 
-093. WEISS: The collection codes. Our people can read your codes better than you'd like. Find your thirty names, Mr. Grant. One of them doesn't like you very much.
-    바이스: 수집 코드요. 우리 쪽 사람들은 당신들이 바라는 것보다 그 코드를 잘 읽습니다. 그 서른 명을 찾으세요, 그랜트 씨. 그중 하나는 당신을 별로 안 좋아하니까.
+093. WEISS: The collection codes. We read your codes better than you'd like. Find your thirty names. One doesn't like you.
+    바이스: 수집 코드요. 우린 당신들이 바라는 것보다 그 코드를 잘 읽습니다. 그 서른 명을 찾으세요. 그중 하나는 당신을 안 좋아하니까.
 
 094. ELIAS: And the NATO text?
     일라이어스: 그럼 NATO 문안은요?
@@ -301,3 +301,197 @@
 095. WEISS: I'll call you tonight. Not before. Auf Wiedersehen, Mr. Grant.
     바이스: 오늘 밤 전화 드리죠. 그 전엔 안 됩니다. 안녕히 가십시오, 그랜트 씨.
 
+096. TOM: So, let me get this straight. You tried to blackmail him, and he blackmailed you back with your own blackmail.
+    톰: 그러니까 정리해 보자. 네가 그 사람을 협박하려 했는데, 그 사람이 네 협박으로 너를 되협박한 거네.
+
+097. ELIAS: That's a fair summary.
+    일라이어스: 정확한 요약이네.
+
+098. SAMIRA: Permission to be blunt? You gave away the Florian card for nothing.
+    사미라: 솔직하게 말해도 돼요? 플로리안 카드를 공짜로 내주셨어요.
+
+099. ELIAS: Not for nothing. I found out the card was already dead. Better to learn that in his office than in a newspaper.
+    일라이어스: 공짜는 아니에요. 그 카드가 이미 죽은 카드라는 걸 알았잖아요. 신문에서 아는 것보다 그 사람 사무실에서 아는 게 낫죠.
+
+100. TOM: And what we got was "fewer than thirty names." That's a list.
+    톰: 그리고 우리가 얻은 건 "서른 명 미만"이야. 그거 명단이잖아.
+
+101. SAMIRA: Thirty names for the German summaries. How many of them were also on the cable distribution in Brazil? Or the Moscow file in 2025?
+    사미라: 독일 요약본 서른 명이요. 그중 몇 명이 브라질 때 전문 배포 명단에도 있었을까요? 아니면 2025년 모스크바 파일에도?
+
+102. ELIAS: Start with the thirty. Don't cross-check yet. Write it on paper, not on the system.
+    일라이어스: 서른 명부터 시작해요. 아직 대조는 하지 말고요. 시스템 말고 종이에 적어요.
+
+103. SAMIRA: Paper's all I trust anymore.
+    사미라: 이제 믿을 건 종이뿐이에요.
+
+104. LENA: Elias. I owe you a call, and I'm not sure you want it.
+    레나: 일라이어스. 전화 한 통 빚졌는데, 당신이 받고 싶어 할지 모르겠네요.
+
+105. ELIAS: You were right, Lena. It's real. That's not on the record either.
+    일라이어스: 당신 말이 맞았어요, 레나. 진짜예요. 그것도 공식 발언은 아니고요.
+
+106. LENA: I know. That's what makes me sick. Pruitt put out a statement fourteen minutes after we published. He wants hearings.
+    레나: 알아요. 그래서 속이 메스꺼운 거예요. 우리가 기사 내고 14분 만에 프루잇이 성명을 냈어요. 청문회를 원한대요.
+
+107. ELIAS: Fourteen minutes. Last time it was eleven.
+    일라이어스: 14분이라. 지난번엔 11분이었죠.
+
+108. LENA: You've noticed that too. Here's the thing I can't stop thinking about. ECHO gave me the fake first and the real one second. If I'd refused the real one, the fake would look weaker.
+    레나: 당신도 눈치챘군요. 내가 계속 생각하게 되는 게 이거예요. ECHO는 가짜를 먼저, 진짜를 나중에 줬어요. 내가 진짜를 거절했다면 가짜가 더 약해 보였을 거예요.
+
+109. ELIAS: And if you'd refused the fake one, the real one would still have run, through your editor.
+    일라이어스: 그리고 당신이 가짜를 거절했어도, 진짜는 편집장을 통해 결국 나갔겠죠.
+
+110. LENA: So I'm not the source of anything. I'm the delivery truck.
+    레나: 그럼 난 뭐의 출처도 아니네요. 배달 트럭이지.
+
+111. ELIAS: You're the truck everyone trusts. That's why they keep loading you.
+    일라이어스: 모두가 믿는 트럭이죠. 그래서 계속 당신한테 짐을 싣는 거고요.
+
+112. MAGGIE: Elias. The White House wants to know if Weiss is going to blow up the NATO text on Thursday.
+    매기: 일라이어스. 백악관이 바이스가 목요일에 NATO 문안을 날려 버릴 건지 알고 싶어 해.
+
+113. ELIAS: Not if we give him a sentence. Not "mistakes were made." He wants the past tense.
+    일라이어스: 우리가 문장 하나를 주면 안 그럴 거예요. "실수가 있었다" 말고요. 그 사람은 과거 시제를 원해요.
+
+114. MAGGIE: The President is not going to say "we're sorry we did this" about the NSA. Not four weeks before an election.
+    매기: 대통령은 NSA를 두고 "우리가 한 일을 사과한다"고는 안 할 거야. 선거 4주 전에는 절대.
+
+115. ELIAS: Then not an apology. A fact. "The collection you've read about took place, it ended in January, and it will not resume." Three verbs. One of them in the past.
+    일라이어스: 그럼 사과 말고 사실을요. "보도된 수집은 실제로 있었고, 1월에 끝났으며, 재개되지 않을 것이다." 동사 세 개. 그중 하나는 과거형.
+
+116. MAGGIE: You've been spending too much time with your father. All right. I'll take it to the President tonight. No promises.
+    매기: 너 아버지랑 너무 오래 있었나 보다. 좋아. 오늘 밤 대통령께 가져가 볼게. 약속은 못 해.
+
+117. ELIAS: That's all I promised Weiss. No promises, but I'd try.
+    일라이어스: 저도 바이스한테 그 이상은 약속 안 했어요. 약속은 못 하지만 해 보겠다고.
+
+118. MAGGIE: One more thing. Your Tallinn report reads like there's a paragraph missing. What did Kadri Tamm give you on Friday?
+    매기: 하나 더. 네 탈린 보고서가 한 문단 빠진 것처럼 읽혀. 금요일에 카드리 탐이 너한테 뭘 줬어?
+
+119. ELIAS: Herring, potatoes, and a very long lecture about her grandmother's table.
+    일라이어스: 청어, 감자, 그리고 할머님 식탁에 관한 아주 긴 강의요.
+
+120. MAGGIE: Be careful who you keep secrets from, Elias. Some of us are on your side.
+    매기: 누구한테 비밀을 숨기는지 조심해, 일라이어스. 네 편인 사람도 있으니까.
+
+121. JULIA: It's Julia. Your father made the nurse dial, and now he's pretending he didn't. Hold on.
+    줄리아: 줄리아야. 너희 아버지가 간호사한테 전화 걸게 시켜 놓고 이제 안 그런 척하셔. 잠깐만.
+
+122. ELIAS: Julia, thank you. For driving out there, for all of it. I should be the one sitting there.
+    일라이어스: 줄리아, 고마워. 거기까지 차 몰고 가 준 거, 전부 다. 거기 앉아 있어야 할 사람은 난데.
+
+123. JULIA: Is that a confession or a question?
+    줄리아: 그거 자백이야, 질문이야?
+
+124. ELIAS: A confession. Use it later.
+    일라이어스: 자백. 나중에 써먹어.
+
+125. FRANK: Did you eat? Julia says you look thin on the news.
+    프랭크: 밥은 먹었니? 줄리아가 뉴스에 나온 네가 말라 보인대.
+
+126. ELIAS: I had a pretzel in Berlin. Dad, what did the surgeon say?
+    일라이어스: 베를린에서 프레첼 먹었어요. 아빠, 외과 의사는 뭐래요?
+
+127. FRANK: November twenty-first. I told her that's two days before Thanksgiving. She said, "Then you'll have something to be thankful for." I like her.
+    프랭크: 11월 21일이래. 추수감사절 이틀 전이라고 했더니 "그럼 감사할 거리가 생기시겠네요" 하더라. 마음에 드는 양반이야.
+
+128. ELIAS: I'll be there. Whatever happens in Europe, I'll be in Dayton on the twenty-first.
+    일라이어스: 갈게요. 유럽에서 무슨 일이 있어도 21일엔 데이턴에 있을게요.
+
+129. FRANK: You're in Berlin. Did they make you say it? "Ich bin ein Berliner"?
+    프랭크: 베를린에 있구나. 그 말 하게 하더냐? "Ich bin ein Berliner"?
+
+130. ELIAS: The opposite. A German official reminded me Kennedy didn't lift a finger when the Wall went up.
+    일라이어스: 반대예요. 독일 관리 한 분이 장벽이 올라갈 때 케네디가 손가락 하나 까딱 안 했다는 걸 일깨워 주더라고요.
+
+131. FRANK: He's not wrong. I was nine in 1963. We watched the speech on the evening news. My father said, "Kennedy's going to Berlin because he let them down. That's why it matters."
+    프랭크: 틀린 말은 아니지. 1963년에 난 아홉 살이었다. 저녁 뉴스로 그 연설을 봤어. 우리 아버지가 그러셨지. "케네디가 베를린에 가는 건 그들을 실망시켰기 때문이야. 그래서 중요한 거고."
+
+132. ELIAS: Because he let them down?
+    일라이어스: 실망시켰기 때문이라고요?
+
+133. FRANK: A man who's never let you down doesn't need to show up. The one who has, and shows up anyway, that's the one you remember. Go show up, son.
+    프랭크: 한 번도 실망시킨 적 없는 사람은 굳이 찾아올 필요가 없어. 실망시켜 놓고도 그래도 찾아오는 사람, 그게 기억에 남는 사람이야. 가서 찾아가라, 아들아.
+
+134. WEISS: Mr. Grant. Weiss. As promised.
+    바이스: 그랜트 씨. 바이스입니다. 약속대로 전화 드립니다.
+
+135. ELIAS: Thank you for calling, Herr Weiss.
+    일라이어스: 전화 주셔서 감사합니다, 바이스 씨.
+
+136. WEISS: Our ambassador in Brussels will support the NATO text on Thursday. With "proportionate." And our spokesman will say tomorrow that Germany "has seen no evidence that the Baltic cable is authentic."
+    바이스: 브뤼셀 주재 우리 대사가 목요일에 NATO 문안을 지지할 겁니다. "비례적"을 넣어서요. 그리고 내일 우리 대변인이 독일은 "발트 전문이 진본이라는 어떤 증거도 보지 못했다"고 말할 겁니다.
+
+137. ELIAS: That will matter in Tallinn. A lot.
+    일라이어스: 탈린에선 그게 큰 의미가 있을 겁니다. 아주 큰.
+
+138. WEISS: The liaison suspension stays. Until Washington finds its past tense.
+    바이스: 연락 협력 중단은 유지합니다. 워싱턴이 과거 시제를 찾을 때까지.
+
+139. ELIAS: And the two names?
+    일라이어스: 그럼 그 두 이름은요?
+
+140. WEISS: They stay in my drawer. For now. Don't make me open it, Mr. Grant.
+    바이스: 제 서랍에 둡니다. 당분간은. 그 서랍을 열게 만들지 마십시오, 그랜트 씨.
+
+141. ELIAS: I'll try not to. Herr Weiss, why did you decide to help?
+    일라이어스: 그러지 않도록 해 보겠습니다. 바이스 씨, 왜 도와주기로 하셨습니까?
+
+142. WEISS: Because you told me something true that hurt you. In my experience, people who are selling something don't do that. Good night.
+    바이스: 당신한테 불리한 진실을 말해 줬으니까요. 제 경험상, 뭔가를 팔러 온 사람은 그러지 않습니다. 안녕히 주무십시오.
+
+143. SAMIRA: Number fifteen. "October ninth. Twenty-two real pages, held for eight months, released six days after the fake."
+    사미라: 15번이요. "10월 9일. 진짜 22쪽, 여덟 달 동안 보유, 가짜 엿새 뒤에 공개."
+
+144. TOM: The first real one on the whole list, right? Everything else was stolen or forged.
+    톰: 목록 전체에서 진짜는 이게 처음이지? 나머진 다 훔친 거거나 위조였잖아.
+
+145. ELIAS: The Moscow cable was real too. Mine. So were twenty-nine pages in Brazil. Somebody likes to mix real and fake.
+    일라이어스: 모스크바 전문도 진짜였어. 내 거. 브라질의 29쪽도 진짜였고. 누군가 진짜와 가짜를 섞는 걸 좋아해.
+
+146. SAMIRA: Special Envoy, secure line. A French number. He asked for you by name and mentioned Lou's.
+    사미라: 특사님, 보안 회선이요. 프랑스 번호예요. 특사님 이름을 대면서 찾았고, 루스 얘기를 했어요.
+
+147. MARCHAND: Monsieur Grant. Jean-Luc Marchand. We have friends in common who say you prefer cherry pie. I prefer Burgundy.
+    마르샹: 그랜트 씨. 장뤽 마르샹입니다. 공통의 친구들 말로는 당신은 체리 파이를 좋아한다더군요. 난 부르고뉴가 좋고요.
+
+148. ELIAS: What do you want, Monsieur Marchand?
+    일라이어스: 원하는 게 뭡니까, 마르샹 씨?
+
+149. MARCHAND: To sell you something. Your Baltic cable was sent from somewhere before Tallinn. I know the terminal. Paris, Thursday.
+    마르샹: 뭘 좀 팔려고요. 그 발트 전문은 탈린에 닿기 전에 어딘가에서 보내졌죠. 난 그 단말기를 압니다. 파리, 목요일.
+
+150. MARCHAND: Everything has a price, Monsieur Grant. But I accept wine.
+    마르샹: 모든 건 값이 있죠, 그랜트 씨. 하지만 난 와인도 받습니다.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **intercept** — 감청(물) / U.S. intelligence intercepted and summarized calls (003)
+- **The real one carries the fake one on its back.** — 진짜 유출이 가짜에 신빙성을 실어 준다는 말 (007)
+- **neither confirm nor deny (NCND)** — 확인도 부인도 하지 않는 정부의 표준 답변 (025–026)
+- **a subject and a verb** — 책임 주체가 분명한 문장, 진짜 인정 (028, 086, 115)
+- **Are you sorry it happened, or sorry I read it?** — 사과의 대상을 따져 묻는 반문 (035)
+- **chose its tenses very carefully** — 시제로 책임을 피해 간 외교 문장을 꼬집는 말 (039)
+- **liaison** — (정보기관 간) 연락·협력 채널 (041)
+- **strategic autonomy** — 전략적 자율성, 미국에 기대지 않는 유럽 독자 방위 (043)
+- **What worries me is…** — 강조구문으로 우려를 앞세우기 (044)
+- **It would be a shame if… / I'd hate for it to end up on the wrong desk.** — 돌려 말한 위협 (058)
+- **You're too late.** — 상대의 카드가 이미 무효라는 짧은 반격 (059)
+- **punish the hand and spare the head** — 실행자를 벌하고 지시자는 놔두다 (090)
+- **"Mistakes were made."** — 주어를 숨긴 수동태 사과, '사과하지 않는 사과'의 전형 (113)
+- **I'm the delivery truck.** — 자신이 출처가 아니라 운반 수단이었다는 레나의 자각 (110)
+
+## 역사 노트 (낭독하지 않음)
+
+- 2013년 10월, 에드워드 스노든 문건을 바탕으로 한 보도로 미국 NSA가 앙겔라 메르켈 독일 총리의 휴대전화를 감청한 정황이 드러났다. 백악관은 미국이 총리의 통신을 "감시하고 있지 않으며 감시하지 않을 것"이라고 밝혔는데, 과거에 대한 언급이 빠져 있어 논란이 됐다. 메르켈은 "친구끼리 엿보는 건 용납할 수 없다(Ausspähen unter Freunden – das geht gar nicht)"고 말했다. 2014년 7월 독일 정부는 별도의 이중 첩자 사건 이후 베를린 주재 CIA 책임자에게 출국을 요구했다.
+- 1961년 8월 13일 동독은 베를린 장벽을 세우기 시작했다. 케네디 행정부는 군사적 대응을 하지 않았다. 케네디는 사석에서 "장벽이 전쟁보다는 훨씬 낫다"는 취지로 말한 것으로 전해진다.
+- 1963년 6월 26일 케네디는 서베를린 쇠네베르크 시청 앞 광장에서 약 45만 명에게 연설하며 "Ich bin ein Berliner"라고 말했다. 그가 자신을 '젤리 도넛'이라 불러 웃음거리가 됐다는 이야기는 훗날 퍼진 속설이다. 문법적으로 올바른 표현이었고, 현장의 베를린 시민들은 그 뜻을 정확히 이해했다. 1987년에는 레이건이 브란덴부르크 문 앞에서 "Tear down this wall"을 말했다.
+- 극 중 활용: 바이스는 2013년 백악관 성명의 '시제'를 들어 미국의 부인을 믿을 수 없는 이유로 삼고, 케네디 연설에는 "장벽이 올라갈 땐 손가락 하나 안 들었다"고 반박한다. 일라이어스는 그 반박을 인정하는 정직함으로 신뢰를 얻는다("과거 시제" 문장 제안). 프랭크는 "실망시켜 놓고도 찾아오는 사람이 기억에 남는다"며 케네디 방문의 진짜 의미를 일러 준다. 톰의 도넛 속설은 사미라가 바로잡는다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 4화 "Wine and Paper": 파리. DGSE의 장뤽 마르샹이 가짜 전문이 처음 전송된 단말기 기록을 판다. 대가는 프랑스 방산업체의 NATO 드론 계약 지원이다. 일라이어스는 거래를 받아들이는 척하며 그의 다른 고객이 누구인지 떠본다.

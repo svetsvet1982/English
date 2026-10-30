@@ -55,8 +55,8 @@
 013. MAGGIE: I did. And before you say it, yes, I know she's yours. That's exactly why it couldn't come from you.
     매기: 내가 했어. 네가 말하기 전에 말해 두는데, 그래, 네 사람인 거 알아. 바로 그래서 너한테서 나가면 안 됐던 거야.
 
-014. ELIAS: You told me in Paris you wanted to hear it from me first, not read it in the Sentinel.
-    일라이어스: 파리에서 <센티널>로 읽지 말고 저한테 먼저 듣고 싶다고 하셨잖아요.
+014. ELIAS: When I called you from Paris, you said you wanted to hear it from me first, not read it in the Sentinel.
+    일라이어스: 파리에서 전화드렸을 때 <센티널>로 읽지 말고 저한테 먼저 듣고 싶다고 하셨잖아요.
 
 015. MAGGIE: And you're hearing it from me, in my office, before the Sentinel. I'm keeping my half of the bargain.
     매기: 그리고 넌 지금 <센티널>보다 먼저 내 사무실에서 나한테 듣고 있지. 난 내 몫의 약속은 지키는 중이야.
@@ -127,8 +127,8 @@
 037. ELIAS: I don't think you do, Maggie. She's the one person in this building who never once asked me whether I was guilty.
     일라이어스: 모르시는 것 같아요, 매기. 그녀는 이 건물에서 제가 유죄냐고 한 번도 묻지 않은 유일한 사람이에요.
 
-038. SAMIRA: Don't look at me like that. I've already packed the stapler. It was mine before it was the government's.
-    사미라: 그런 눈으로 보지 마세요. 스테이플러는 벌써 챙겼어요. 정부 거 되기 전에 제 거였거든요.
+038. SAMIRA: Don't look at me like that. They're taking my laptop and my notebooks. The stapler stays. Apparently it's the only thing in here that isn't evidence.
+    사미라: 그런 눈으로 보지 마세요. 노트북이랑 공책은 가져간대요. 스테이플러는 남고요. 이 방에서 증거물이 아닌 건 그거 하나뿐인가 봐요.
 
 039. ELIAS: Samira.
     일라이어스: 사미라.
@@ -193,8 +193,8 @@
 059. ELIAS: Your list.
     일라이어스: 당신 목록이네요.
 
-060. SAMIRA: Fourteen entries, on hotel stationery from three continents. Every leak since 2025, who had it, and how long before it hit the papers. Keep it somewhere boring.
-    사미라: 열네 건이요. 세 대륙 호텔 편지지에요. 2025년부터 모든 유출, 누가 갖고 있었는지, 신문에 나기까지 얼마나 걸렸는지. 지루한 데다 보관하세요.
+060. SAMIRA: Every entry, on hotel stationery from three continents. Every leak since 2025, who had it, and how long before it hit the papers. Keep it somewhere boring.
+    사미라: 한 건도 빠짐없이요. 세 대륙 호텔 편지지에요. 2025년부터 모든 유출, 누가 갖고 있었는지, 신문에 나기까지 얼마나 걸렸는지. 지루한 데다 보관하세요.
 
 061. ELIAS: If you were ECHO, you'd be the first leaker in history to keep a diary of her own crimes.
     일라이어스: 당신이 ECHO라면, 자기 범행 일기를 쓰는 역사상 첫 유출자일 거예요.
