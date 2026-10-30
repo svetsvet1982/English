@@ -304,8 +304,8 @@
 096. ELIAS: If I'd asked you, sir, your front office would have known, and the trap would have had a hole in it the size of your front office.
     일라이어스: 장관님께 여쭸다면 비서실이 알았을 거고, 그럼 그 덫엔 장관님 비서실만 한 구멍이 났을 겁니다.
 
-097. CALLAWAY: In 1956, Eisenhower's allies lied to him, and he nearly broke NATO over it. Don't you dare tell me that's what you're doing.
-    캘러웨이: 1956년에 아이젠하워의 동맹들이 그를 속였고, 그는 그것 때문에 NATO를 거의 깨뜨릴 뻔했어. 자네가 하는 게 그거라고 감히 말하지 마.
+097. CALLAWAY: In 1956, Eisenhower's allies lied to him, and he nearly broke the alliance over it. Don't you dare tell me that's what you're doing.
+    캘러웨이: 1956년에 아이젠하워의 동맹들이 그를 속였고, 그는 그것 때문에 동맹을 거의 깨뜨릴 뻔했어. 자네가 하는 게 그거라고 감히 말하지 마.
 
 098. ELIAS: No, sir. Eisenhower learned the truth from U-2 photographs. I'd rather you learned it from me, this morning, before anyone else.
     일라이어스: 아닙니다, 장관님. 아이젠하워는 U-2 사진으로 진실을 알았죠. 전 장관님이 사진 말고 저한테서, 오늘 아침, 누구보다 먼저 들으시는 게 낫다고 생각했습니다.
@@ -319,8 +319,8 @@
 101. CALLAWAY: It proves this leak isn't hers. The login on September twenty-ninth is still hers.
     캘러웨이: 이번 유출이 그 친구 짓이 아니라는 건 증명되지. 9월 29일 로그인은 여전히 그 친구 거고.
 
-102. ELIAS: Then let me find out who else can sit at her terminal. Give me seventy-two hours before anyone calls the Senate.
-    일라이어스: 그럼 그 단말기에 누가 또 앉을 수 있는지 알아보게 해 주십시오. 누가 상원에 전화하기 전에 72시간만 주세요.
+102. ELIAS: Then let me find out who else could have used her credentials. Give me seventy-two hours before anyone calls the Senate.
+    일라이어스: 그럼 그 친구 계정을 누가 또 쓸 수 있었는지 알아보게 해 주십시오. 누가 상원에 전화하기 전에 72시간만 주세요.
 
 103. CALLAWAY: Why?
     캘러웨이: 왜?
@@ -382,3 +382,116 @@
 122. ELIAS: Happy Halloween, Ro. Redact something for me.
     일라이어스: 해피 핼러윈, 로. 아빠 대신 뭐 하나 지워 줘.
 
+123. KADRI: You're late, Mr. Grant. The doctors have been here since noon, and the Finnish choir is still sober.
+    카드리: 늦으셨네요, 그랜트 씨. 의사들은 정오부터 와 있고, 핀란드 합창단은 아직 술 안 마셨어요.
+
+124. ELIAS: Fog in Helsinki. I hear the convoy came in without a shot.
+    일라이어스: 헬싱키에 안개가 껴서요. 행렬은 총소리 한 번 없이 들어왔다면서요.
+
+125. KADRI: Twenty-six vehicles drove past the pumping station, and forty-one men watched every one of them. Nobody waved at the children this time.
+    카드리: 차량 스물여섯 대가 양수장 앞을 지나갔고, 그 마흔한 명이 한 대도 빠짐없이 지켜봤어요. 이번엔 애들한테 손 흔드는 놈도 없더군요.
+
+126. MAYOR: Mr. Grant? Irina Kask, mayor of Vaiksoo. Thank you for coming. Our water engineers need the main valve, and the main valve is inside their fence.
+    시장: 그랜트 씨? 바이크소 시장 이리나 카스크예요. 와 주셔서 고맙습니다. 수도 기술자들이 주 밸브를 봐야 하는데, 그 주 밸브가 저놈들 울타리 안에 있어요.
+
+127. ELIAS: Has anyone asked the men?
+    일라이어스: 저 사람들한테 물어본 사람은 있습니까?
+
+128. MAYOR: Nobody asks them anything. For a month, nobody in this town has said one word to them.
+    시장: 아무도 아무것도 안 물어요. 한 달 동안 이 마을에서 저놈들한테 말 한마디 건 사람이 없어요.
+
+129. ELIAS: Then perhaps it's time somebody did. In Russian.
+    일라이어스: 그럼 이제 누가 걸 때가 됐나 보네요. 러시아어로.
+
+130. KADRI: That was not one of my conditions, Envoy.
+    카드리: 그건 제 조건에 없었어요, 특사님.
+
+131. ELIAS: It's not a condition, Minister. It's a test. A hostage-taker needs a demand. Let's find out whether a contractor needs permission.
+    일라이어스: 조건이 아니라 시험입니다, 장관님. 인질범한텐 요구가 필요하죠. 계약직한텐 허락이 필요한지 알아보자는 겁니다.
+
+132. KADRI: Ten meters from the fence. No closer. And every camera in this street stays on you.
+    카드리: 울타리에서 10미터. 그 이상은 안 돼요. 그리고 이 거리의 카메라는 전부 당신을 찍게 할 거예요.
+
+133. SENTRY: Stop there. Who are you?
+    경비병: 거기 서. 넌 누구야?
+
+134. ELIAS: A witness. Your neighbors' engineers need to check the main valve, or the school runs dry by Monday. Two of them, no tools bigger than a wrench, twenty minutes.
+    일라이어스: 증인이오. 이웃들 수도 기술자가 주 밸브를 봐야 해요. 안 그러면 월요일엔 학교 물이 끊겨요. 두 명, 렌치보다 큰 연장 없이, 20분.
+
+135. SENTRY: Nobody goes inside. Those are the instructions.
+    경비병: 아무도 못 들어가. 그게 지시야.
+
+136. ELIAS: Whose instructions?
+    일라이어스: 누구 지시요?
+
+137. SENTRY: The instructions. We're not soldiers, understand? We're security. We guard the facility.
+    경비병: 그냥 지시야. 우린 군인이 아니야, 알아? 경비야. 시설을 지키는 거라고.
+
+138. ELIAS: Guard it for whom?
+    일라이어스: 누구를 위해 지키는데요?
+
+139. SENTRY: For the client.
+    경비병: 고객을 위해.
+
+140. ELIAS: And does the client want a school without water, live on television, with twelve countries watching? Because that isn't security anymore. That's a story, and you're the villain in it.
+    일라이어스: 그럼 그 고객은 학교 물이 끊기는 걸 열두 나라가 지켜보는 생방송으로 보고 싶어 할까요? 그건 더 이상 경비가 아니에요. 이야기죠. 그리고 당신이 그 이야기의 악당이고요.
+
+141. SENTRY: Wait here. I have to ask.
+    경비병: 여기서 기다려. 물어봐야 돼.
+
+142. KADRI: He said "client." In Russian, on four cameras.
+    카드리: "고객"이라고 했어요. 러시아어로, 카메라 네 대 앞에서.
+
+143. ELIAS: Your intercept just got a witness of its own, Minister.
+    일라이어스: 장관님 감청에 이제 증인이 생겼네요.
+
+144. SENTRY: Two engineers. Twenty minutes. No cameras inside the fence.
+    경비병: 기술자 두 명. 20분. 울타리 안엔 카메라 금지.
+
+145. ELIAS: Agreed. Thank you.
+    일라이어스: 좋습니다. 고맙습니다.
+
+146. SENTRY: Don't thank me. Just tell your band to stop playing that song. Five beats, over and over. It's driving the men crazy.
+    경비병: 고마워하지 마. 그냥 너네 밴드한테 그 노래 좀 그만 치라고 해. 다섯 박자, 계속 반복. 애들이 미치려고 해.
+
+147. MAYOR: The children have been learning it in the gym all afternoon. I don't think they'll stop now.
+    시장: 애들이 오후 내내 체육관에서 그 곡을 배웠어요. 이제 와서 멈출 것 같진 않네요.
+
+148. KADRI: An Estonian idea, then. And the American carried a bag.
+    카드리: 그럼 에스토니아 아이디어인 걸로 하죠. 미국인은 가방을 들었고요.
+
+149. TOM: It's me. Brandon Cole just told his office he's taking Friday off. Personal day. And he cleared his calendar through Monday.
+    톰: 나야. 브랜든 콜이 방금 사무실에 금요일 쉰다고 했대. 개인 사유로. 그리고 월요일까지 일정을 싹 비웠어.
+
+150. ELIAS: Then he's scared, and scared men like pie. Book a booth at Lou's for Friday night, Tom. Tell Lou cherry. Tell nobody else.
+    일라이어스: 그럼 겁먹은 거네요. 겁먹은 사람은 파이를 좋아하죠. 금요일 밤 Lou's에 칸막이 자리 하나 잡아요, 형. 루한테 체리라고 하고요. 다른 사람한텐 아무 말 말고.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **walk someone through it** — 단계별로 설명해 주다 / Walk me through it. (003)
+- **canary trap** — 문서마다 다른 문장을 심어 유출 경로를 찾는 기법 (023)
+- **run a sting on…** — …에게 함정 수사를 벌이다 (025)
+- **squeeze someone** — (경제적·정치적으로) 압박하다 / So he squeezed them. (028)
+- **close hold / need to know** — 극비 취급(배포 최소화) / 알 필요가 있는 사람에게만 (039–040)
+- **hold someone to something** — 약속을 꼭 지키게 하다 / I'll hold you to that. (054)
+- **take a number** — 번호표 뽑고 기다려라(차례를 기다리라는 핀잔) (072)
+- **off the record** — 비보도 전제로 (078)
+- **I'm not in a position to say.** — 지금은 밝힐 수 없다(정중한 보류) (085)
+- **lawyer up** — 변호사를 선임해 입을 닫다 (104)
+- **A canary tells you which cage. It doesn't tell you who opened the door.** — 증거의 한계를 짚는 비유 (070)
+- **topical** — 시의적절한, 시사적인 (111)
+- **That's so State Department of you.** — 로지의 말버릇, 일라이어스가 되돌려 씀 (112)
+- **the client** — 고객(용병·민간 경비가 고용주를 부르는 말) (139)
+
+## 역사 노트 (낭독하지 않음)
+
+- **수에즈 위기(1956)**: 이집트의 나세르가 7월 수에즈 운하를 국유화하자, 영국·프랑스·이스라엘은 10월 22~24일 파리 근교 세브르에서 비밀 의정서를 맺었다. 이스라엘이 10월 29일 시나이를 침공하고, 영국·프랑스가 '중재'를 명분으로 최후통첩을 낸 뒤 11월 5~6일 포트사이드에 상륙했다. 미국은 사전에 통보받지 못했다.
+- 아이젠하워는 11월 6일 대선을 앞둔 상황(그리고 같은 시기 헝가리 혁명)에서 분노했다. 미국은 유엔에서 휴전 결의를 주도하고, 영국 파운드화 방어를 위한 지원(IMF 차관 등)과 석유 공급 협조를 거부하는 식으로 압박했다. 영국은 11월 6일 휴전을 받아들였고, 이든 총리는 1957년 1월 사임했다. 미 U-2 정찰기는 사전에 이스라엘 내 프랑스제 미스테르 전투기가 통보된 수보다 많다는 사실을 포착했다.
+- **카나리아 트랩**이라는 이름은 톰 클랜시의 소설 『패트리어트 게임』(1987)으로 널리 알려졌지만, 문서마다 미세한 차이를 두어 유출 경로를 찾는 기법 자체는 그보다 훨씬 오래되었다.
+- 극 중 활용: 일라이어스는 "동맹도 속인다"며 자기 정부 안에 덫을 놓는 걸 정당화하고, 톰은 "아이크는 덫이 아니라 사진으로 알았다"고 반박한다. 캘러웨이가 수에즈를 들어 화를 내자, 일라이어스는 "사진 말고 저한테서 먼저 들으시라"는 논리로 덫을 '고백'으로 바꾼다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 9화 "Brandon": 금요일 밤 Lou's. 브랜든 콜은 처음엔 모든 걸 부인한다. 일라이어스는 그의 휴대폰 기록이 이미 FBI에 있다고 거짓말한다. 무너진 브랜든이 '전달책', 'Halberd 사람', 그리고 '7층'을 말한다. 그리고 다음 날, 그는 사라진다.

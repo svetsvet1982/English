@@ -319,8 +319,8 @@
 101. ELIAS: That was already my plan.
     일라이어스: 원래 제 계획이 그거였습니다.
 
-102. KADRI: Two. I walk into the pumping station myself, behind the police, before sunrise. With the mayor. She cried in my car once. She will not cry tomorrow.
-    카드리: 둘. 해 뜨기 전에 경찰 뒤를 따라 제가 직접 양수장에 들어갑니다. 시장이랑 같이요. 그분은 제 차에서 한 번 울었어요. 내일은 안 울 거예요.
+102. KADRI: Two. I walk into the pumping station myself, behind the police, before sunrise. With Mayor Kask. She cried in my car once. She will not cry tomorrow.
+    카드리: 둘. 해 뜨기 전에 경찰 뒤를 따라 제가 직접 양수장에 들어갑니다. 카스크 시장이랑 같이요. 그분은 제 차에서 한 번 울었어요. 내일은 안 울 거예요.
 
 103. ELIAS: Agreed.
     일라이어스: 좋습니다.
@@ -388,8 +388,8 @@
 124. ELIAS: The man with the dog.
     일라이어스: 개 데리고 있던 그 사람이네.
 
-125. TOM: Thirty-six. Thirty-nine. Forty. That's all of them, man. Forty men and one very confused German shepherd, walking into Russia.
-    톰: 서른여섯. 서른아홉. 마흔. 다야. 마흔 명이랑 아주 어리둥절한 셰퍼드 한 마리가 러시아로 걸어 들어가고 있어.
+125. TOM: Thirty-nine. Forty. Forty-one. That's all of them, man. Forty-one men and one very confused German shepherd, walking into Russia.
+    톰: 서른아홉. 마흔. 마흔하나. 다야. 마흔한 명이랑 아주 어리둥절한 셰퍼드 한 마리가 러시아로 걸어 들어가고 있어.
 
 126. KADRI: The Russian guards are putting them on the buses. Handcuffs. They're actually using handcuffs.
     카드리: 러시아 경비대원들이 그 사람들을 버스에 태우고 있어요. 수갑. 진짜로 수갑을 채우네요.
@@ -430,14 +430,14 @@
 138. ELIAS: Samira. Say that again, slowly.
     일라이어스: 사미라. 다시 말해 봐요, 천천히.
 
-139. SAMIRA: Cleared. Fully. Clearance restored, back at my desk Monday. Tom asked a friend at the field office to canvass my street for doorbell cameras.
-    사미라: 혐의 없음이요. 완전히요. 보안 인가 복구, 월요일에 제 자리로 복귀. 톰이 FBI 지부 친구한테 우리 동네 초인종 카메라를 훑어 달라고 부탁했대요.
+139. SAMIRA: Cleared. Fully. Clearance restored, back at my desk Monday. Tom asked a friend at the field office to canvass my street for private cameras.
+    사미라: 혐의 없음이요. 완전히요. 보안 인가 복구, 월요일에 제 자리로 복귀. 톰이 FBI 지부 친구한테 우리 동네 개인 카메라를 훑어 달라고 부탁했대요.
 
 140. TOM: I didn't do anything. I just asked a guy who owes me a guy.
     톰: 난 아무것도 안 했어. 나한테 빚진 사람한테 빚진 사람한테 물어봤을 뿐이야.
 
-141. SAMIRA: The house across the street has one. At 11:09 that night, I'm on the sidewalk in pajamas, picking up a recycling bin a raccoon knocked over. Five minutes before my account logged in downtown.
-    사미라: 길 건너 집에 하나 있었어요. 그날 밤 11시 9분에 제가 잠옷 바람으로 인도에서 너구리가 쓰러뜨린 재활용 통을 줍고 있어요. 시내에서 제 계정이 로그인되기 5분 전에요.
+141. SAMIRA: The dry cleaner across the street has one. At 11:09, I'm outside my building in pajamas, chasing a raccoon out of the recycling. Five minutes before my account logged in downtown.
+    사미라: 길 건너 세탁소에 하나 있었어요. 11시 9분에 제가 잠옷 바람으로 건물 앞에서 재활용 통에 들어간 너구리를 쫓고 있어요. 시내에서 제 계정이 로그인되기 5분 전에요.
 
 142. ELIAS: Saved by a raccoon.
     일라이어스: 너구리가 살렸네요.
@@ -465,3 +465,34 @@
 
 150. ELIAS: Of course it is. Paper is how small countries lose things, Samira. And how big buildings hide them.
     일라이어스: 그렇겠죠. 작은 나라는 종이 때문에 뭔가를 잃는다고 하더군요, 사미라. 큰 건물은 종이로 뭔가를 숨기고요.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **Tell me something only a real yes would know.** — 블러핑인지 확인하려고 구체적 증거를 요구하는 말 (003)
+- **routine rotation** — 정기 순환 배치, 조용한 양보를 감싸는 명분 (004, 079)
+- **Not "Russia retreats." "Russia restores order on its border."** — 상대의 체면을 세워 주는 헤드라인 재구성(face-saving) (012)
+- **Help me help you.** — 상대의 요구를 깎으며 협조를 구하는 설득 표현 (016)
+- **attribution** — (공격 주체의) 귀속 판단 / a lovely report on attribution (021, 104)
+- **That's your insurance.** — 약속 불이행 시 상대가 쓸 수 있는 수단을 일부러 쥐여 주는 신뢰 구축 (036)
+- **That's three sentences pretending to be one.** — 장황한 답을 꼬집는 상사의 말 (054)
+- **It's a trade pretending not to be one.** — 비밀 맞교환의 본질을 한 줄로 (055)
+- **You're about to.** — 상대가 아직 내리지 않은 지시를 기정사실로 만드는 대담한 응수 (066–067)
+- **No concessions were made, and none were asked for.** — 대외 발표용 '반쪽 거짓말' (069–071)
+- **I've lied to ministers all my life. Tonight I decided not to lie to this one.** — 원칙을 드러내는 고백 (085)
+- **This may not be a just peace, but it is more just than a continuation of the war.** — 이제트베고비치의 데이턴 발언, 불완전한 합의를 받아들이는 논리 (091)
+- **Paper is how small countries lose things.** — 문서 없는 합의를 원하는 약소국의 경험칙 (114, 150)
+- **a guy who owes me a guy** — 인맥의 인맥(구어) (140)
+
+## 역사 노트 (낭독하지 않음)
+
+- 1995년 11월 1일부터 21일까지 오하이오주 데이턴 인근 라이트-패터슨 공군기지에서 보스니아 전쟁 평화 협상이 열렸다. 미국 측 수석 협상가는 리처드 홀브룩 국무부 차관보였다. 세르비아의 슬로보단 밀로셰비치, 크로아티아의 프라뇨 투지만, 보스니아의 알리야 이제트베고비치 대통령이 3주 동안 기지 안에 머물며 협상했다. 언론 접근을 막고 대표단을 한곳에 붙잡아 두는 방식이었다.
+- 협정은 11월 21일 데이턴에서 가서명되고, 12월 14일 파리에서 정식 서명되었다. 3년 반 넘게 이어진 전쟁이 끝났다. 그러나 보스니아-헤르체고비나는 '보스니아-헤르체고비나 연방'과 '스릅스카 공화국' 두 실체로 나뉜 복잡한 체제가 되었고, 그 구조는 지금도 이어진다.
+- 이제트베고비치는 가서명 자리에서 "이것은 정의로운 평화가 아닐지 모르지만, 전쟁을 계속하는 것보다는 더 정의롭다"는 취지로 말했다.
+- 극 중 활용: 프랭크는 열한 살 아들을 기지 정문에 데려갔던 기억으로 '방에 붙잡아 두는 협상'을 이야기한다. 카드리는 '작은 나라가 미국 공군기지에서 쪼개졌다'고 찌르고, 일라이어스는 이제트베고비치가 직접 그 방에 있었고 서명했다는 사실로 반박한다. 카드리가 "보스니아는 아직도 둘로 나뉘어 있다"고 응수하자 일라이어스는 "데이턴은 전쟁을 멈췄을 뿐 나라를 세우진 못했다"고 인정한다. 가서명일 11월 21일은 프랭크의 수술 날(12화)과 겹친다.
+- 함께 소환된 사례: 1962년 주피터 거래(10화 역사 노트 참조). 튀르키예가 비밀 약속을 사전에 협의받지 못했다는 사실이 일라이어스가 카드리에게 진실을 말하는 근거가 된다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 3부 12화 "Seventh Floor": 데이턴, 아버지의 심장 수술. 병원 복도에서 사미라가 2025년 유출 조사 파일의 열람 기록과 공용 출입증의 주인을 가져온다. 모스크바, 브라질, 가짜 전문. 세 유출 모두에 손이 닿았던 사람은 단 한 명이다. 바로 그 사람에게서 전화가 온다.
