@@ -34,8 +34,8 @@
 006. ROSIE: Because you were on the news, Dad. Well, not you. Estonia. "Estonia restores order in Vaiksoo. Armed men detained by Russian border guards."
     로지: 아빠가 뉴스에 나왔으니까. 아니, 아빠 말고. 에스토니아. "에스토니아, 바이크소 질서 회복. 무장 괴한들, 러시아 국경경비대에 구금."
 
-007. ELIAS: That's a good headline.
-    일라이어스: 좋은 헤드라인이네.
+007. ELIAS: That's a good headline. Somebody in Tallinn worked very hard on it.
+    일라이어스: 좋은 헤드라인이네. 탈린의 누군가가 엄청 공들였겠다.
 
 008. ROSIE: And the State Department said, quote, "No concessions were made, and none were asked for." That's so State Department of you.
     로지: 그리고 국무부는 이렇게 말했대. 인용, "어떤 양보도 없었고 요구받은 것도 없었다." 완전 국무부스럽다.
@@ -64,8 +64,8 @@
 016. FRANK: A very good pie. She knew the date of my surgery, which is more than my insurance company knows.
     프랭크: 아주 좋은 파이다. 내 수술 날짜까지 알더구나. 보험 회사보다 더 잘 알아.
 
-017. ELIAS: She knows a lot of dates.
-    일라이어스: 날짜를 많이 아는 사람이에요.
+017. ELIAS: She knows a lot of dates. She always has, ever since I met her.
+    일라이어스: 날짜를 많이 아는 사람이에요. 처음 만났을 때부터 늘 그랬어요.
 
 018. ROSIE: Okay, that was weird. You said that like a spy movie.
     로지: 오케이, 그거 이상했어. 무슨 스파이 영화처럼 말했어.
@@ -124,8 +124,8 @@
 036. NURSE: Mr. Grant? Frank Grant? We'll be taking you back in about twenty minutes. Family can stay until then.
     간호사: 그랜트 씨? 프랭크 그랜트 씨? 20분쯤 뒤에 안으로 모실게요. 가족분들은 그때까지 계셔도 돼요.
 
-037. FRANK: Twenty minutes. Rosie, you asked me what Washington was worried about. Come here. I've got exactly twenty minutes of history left in me before they put me under.
-    프랭크: 20분이라. 로지, 워싱턴이 뭘 걱정했냐고 물었지. 이리 와라. 마취하기 전까지 내 안에 역사가 딱 20분 남았다.
+037. FRANK: Twenty minutes. Rosie, come here. I've got exactly twenty minutes of history left in me before they put me under.
+    프랭크: 20분이라. 로지, 이리 와라. 마취하기 전까지 내 안에 역사가 딱 20분 남았다.
 
 038. ROSIE: Grandpa, you don't have to do this now.
     로지: 할아버지, 지금 안 해도 돼.
@@ -133,8 +133,8 @@
 039. FRANK: Five fifty in the morning in a paper gown. If not now, when? September 1796. Washington is tired, he's sixty-four, and he's decided not to run for a third term.
     프랭크: 새벽 5시 50분, 종이 가운 차림. 지금 아니면 언제 하겠니? 1796년 9월. 워싱턴은 지쳤고, 예순넷이고, 세 번째 임기엔 안 나가기로 했지.
 
-040. ROSIE: So he gives a speech.
-    로지: 그래서 연설을 했구나.
+040. ROSIE: So he gives a big farewell speech in front of everybody.
+    로지: 그래서 모두 앞에서 거창한 고별 연설을 했구나.
 
 041. FRANK: He never gave it. That's the first trick question. It was printed in a Philadelphia newspaper, the American Daily Advertiser, on September nineteenth. Hamilton helped him write it.
     프랭크: 연설은 안 했어. 그게 첫 번째 함정 문제다. 9월 19일 필라델피아 신문 『아메리칸 데일리 애드버타이저』에 실렸지. 해밀턴이 쓰는 걸 도왔고.
@@ -145,8 +145,8 @@
 043. FRANK: Mostly to an empty room. Now. Two warnings, Rosie. The first is faction. He called it the spirit of party, and he said its effects were baneful. It makes people hate their neighbors more than their enemies.
     프랭크: 대개 빈 방에 대고. 자. 경고가 두 개다, 로지. 첫 번째는 파벌이다. '당파심'이라고 불렀고, 그 영향이 해롭다고 했지. 사람들이 적보다 이웃을 더 미워하게 만든다고.
 
-044. ROSIE: That sounds like the news.
-    로지: 그거 뉴스 같은데.
+044. ROSIE: That sounds exactly like the news, Grandpa. Every single night.
+    로지: 그거 완전 뉴스 같은데, 할아버지. 매일 밤.
 
 045. FRANK: It sounds like every year since 1796. The second warning is foreign influence. "The insidious wiles of foreign influence." Other countries working on us through our own people.
     프랭크: 1796년 이후 매년 같은 소리지. 두 번째 경고는 외세의 영향이다. "외세의 교활한 술책." 다른 나라가 우리 사람들을 통해 우리를 움직이는 거.
@@ -163,10 +163,10 @@
 049. FRANK: Like Samira. And the tools and dupes of it, he said, usurp the applause and confidence of the people. Applause, Elias. The ones doing the damage get the applause.
     프랭크: 사미라처럼. 그리고 그 앞잡이와 바보들은 국민의 박수와 신뢰를 가로챈다고 했어. 박수 말이다, 일라이어스. 해를 끼치는 쪽이 박수를 받는 거야.
 
-050. ELIAS: You've been saving that one.
-    일라이어스: 그거 아껴 두셨구나.
+050. ELIAS: You've been saving that one, haven't you, Dad? Since the fall.
+    일라이어스: 그거 아껴 두셨죠, 아빠? 가을부터.
 
-051. FRANK: Since September. And one more phrase, the one I used to write on the board every fall. Washington warned against "the impostures of pretended patriotism."
+051. FRANK: Since September. One more phrase, the one I used to write on the board every fall. Washington warned against "the impostures of pretended patriotism."
     프랭크: 9월부터. 그리고 한 구절 더. 내가 매년 가을 칠판에 쓰던 거다. 워싱턴은 "가장된 애국심의 사기"를 경계하라고 했지.
 
 052. ROSIE: What's pretended patriotism?
@@ -187,8 +187,8 @@
 057. FRANK: Thirty-three years ago today, they initialed Dayton out at the base. Elias, did you eat?
     프랭크: 33년 전 오늘, 저기 기지에서 데이턴 협정에 가서명했지. 일라이어스, 밥은 먹었니?
 
-058. ELIAS: Not yet.
-    일라이어스: 아직요.
+058. ELIAS: Not yet. The cafeteria doesn't open until six.
+    일라이어스: 아직요. 식당이 6시에야 열어요.
 
 059. FRANK: Then eat while I'm in there. That's an order from the patient. And if they don't wake me up, the rest of the sauce is in the basement, second shelf.
     프랭크: 그럼 내가 안에 있는 동안 먹어라. 환자의 명령이다. 그리고 내가 못 깨어나면 나머지 소스는 지하실 둘째 칸에 있다.
@@ -199,8 +199,8 @@
 061. FRANK: It's a little funny. I love you, kiddo. Both of you. Julia, make sure he eats.
     프랭크: 조금은 웃기지. 사랑한다, 꼬맹이. 둘 다. 줄리아, 쟤 밥 먹는지 꼭 봐 줘라.
 
-062. JULIA: I always did, Frank.
-    줄리아: 늘 그랬잖아요, 아버님.
+062. JULIA: I always did, Frank. Even the years he didn't deserve it.
+    줄리아: 늘 그랬잖아요, 아버님. 그럴 자격 없던 해에도요.
 
 063. ROSIE: Dad, how long?
     로지: 아빠, 얼마나 걸려?
@@ -217,8 +217,8 @@
 067. JULIA: She's scared. She's handling it by being useful. I wonder where she gets that.
     줄리아: 무서운 거야. 쓸모 있는 일을 하면서 버티는 거지. 누굴 닮았는지 모르겠네.
 
-068. ELIAS: Your side of the family.
-    일라이어스: 당신 쪽 집안이지.
+068. ELIAS: Your side of the family, obviously. The Parks are very useful people.
+    일라이어스: 당연히 당신 쪽 집안이지. 박씨 집안은 아주 쓸모 있는 사람들이잖아.
 
 069. JULIA: Nice try. Your phone again.
     줄리아: 시도는 좋았어. 또 전화 왔다.
@@ -226,8 +226,8 @@
 070. ELIAS: It's Tom. I'll take it in the hall.
     일라이어스: 톰이야. 복도에서 받을게.
 
-071. TOM: How's your dad?
-    톰: 아버지는 좀 어때?
+071. TOM: Hey. Samira told me it was today. How's your dad doing?
+    톰: 야. 사미라가 오늘이라고 하더라. 아버지는 좀 어떠셔?
 
 072. ELIAS: In surgery. Four or five hours. Tell me something boring, Tom.
     일라이어스: 수술 중이야. 네다섯 시간. 지루한 얘기 좀 해 줘, 톰.
@@ -238,8 +238,8 @@
 074. ELIAS: And?
     일라이어스: 그래서?
 
-075. TOM: Callaway's copy is in a safe in his front office. The NSC's is in the Exec Sec's files. Pruitt's we know about. Maggie's copy is gone. Shredded the same afternoon you handed it to her. Her chief of staff confirmed it.
-    톰: 캘러웨이 사본은 장관 비서실 금고에 있어. NSC 건 행정비서실 파일에 있고. 프루잇 건은 우리가 알지. 매기 사본은 없어. 네가 건넨 그날 오후에 파쇄됐어. 비서실장이 확인해 줬어.
+075. TOM: Callaway's copy is in his front-office safe. The NSC's is on file. Maggie's copy is gone. Shredded the same afternoon you handed it to her. Her chief of staff confirmed it.
+    톰: 캘러웨이 사본은 장관 비서실 금고에 있어. NSC 건 파일에 있고. 매기 사본은 없어. 네가 건넨 그날 오후에 파쇄됐어. 비서실장이 확인해 줬어.
 
 076. ELIAS: She told me in October. "Me, my chief of staff, and the shredder."
     일라이어스: 10월에 나한테 말했어. "나, 내 비서실장, 그리고 파쇄기."
@@ -307,8 +307,8 @@
 097. ELIAS: Moscow, 2025. "Off-Ramps for Moscow." The day before the Russians accepted the framework, it was in the Sentinel. Who was in the room when we decided to send it?
     일라이어스: 모스크바, 2025년. 「모스크바를 위한 출구」. 러시아가 기본 틀을 수용하기 하루 전에 <센티널>에 실렸죠. 그걸 보내기로 결정한 회의에 누가 있었죠?
 
-098. SAMIRA: Six people. You were one of them.
-    사미라: 여섯 명이요. 특사님도 그중 한 명이었고요.
+098. SAMIRA: Six people, according to the 2025 file. You were one of them.
+    사미라: 2025년 파일에 따르면 여섯 명이요. 특사님도 그중 한 명이었고요.
 
 099. ELIAS: And one of the others told me in January she'd been in that meeting too. Then the investigation file gets locked so only one office can open it.
     일라이어스: 그리고 다른 한 사람은 1월에 자기도 그 회의에 있었다고 나한테 말했어요. 그다음엔 조사 파일이 잠겨서 딱 한 사무실만 열 수 있게 됐고요.
@@ -343,11 +343,11 @@
 109. ELIAS: That's exactly why. If this goes up the chain, it goes up the stairs. And the investigation reports to the leak.
     일라이어스: 바로 그래서예요. 이게 지휘 계통을 타고 올라가면 계단을 올라가요. 그럼 수사가 유출자한테 보고하게 돼요.
 
-110. TOM: Your dad said that.
-    톰: 너희 아버지가 한 말이네.
+110. TOM: That's your dad's line. I've heard you quote it twice now.
+    톰: 그거 너희 아버지 대사잖아. 네가 인용하는 거 벌써 두 번째 들어.
 
-111. ELIAS: In September. About Mark Felt.
-    일라이어스: 9월에. 마크 펠트 얘기하면서.
+111. ELIAS: In September, on the phone to Brasília. About Mark Felt.
+    일라이어스: 9월에, 브라질리아로 건 전화에서. 마크 펠트 얘기하면서.
 
 112. SAMIRA: Okay. Envelope, Tom, nobody else. Elias, go sit with your daughter.
     사미라: 알겠어요. 봉투, 톰, 다른 사람은 없음. 일라이어스, 가서 따님 옆에 앉아요.
@@ -355,8 +355,8 @@
 113. JULIA: I didn't hear any of that. I want to be clear that I didn't hear any of that.
     줄리아: 난 하나도 못 들었어. 하나도 못 들었다는 거, 분명히 해 두고 싶어.
 
-114. ELIAS: How long were you standing there?
-    일라이어스: 거기 얼마나 서 있었어?
+114. ELIAS: How long have you been standing there, Julia? Honestly.
+    일라이어스: 거기 얼마나 서 있었어, 줄리아? 솔직히.
 
 115. JULIA: Since "pool badge." Rosie's got the coffee. Elias, I'm a federal prosecutor. Whatever you're not saying on the phone, someday you can say it in an office with a door.
     줄리아: '공용 출입증'부터. 커피는 로지가 사 왔어. 일라이어스, 난 연방 검사야. 당신이 전화로 말 못 하는 게 뭐든, 언젠가 문 달린 사무실에서 말할 수 있어.
@@ -376,8 +376,8 @@
 120. SURGEON: In an hour, in the ICU, for a few minutes. He'll be on the ventilator a little while. Don't expect conversation.
     외과의: 한 시간 뒤에, 중환자실에서, 몇 분 동안요. 한동안 인공호흡기를 달고 계실 거예요. 대화는 기대하지 마세요.
 
-121. JULIA: You've clearly never met him.
-    줄리아: 선생님, 이분을 확실히 모르시네요.
+121. JULIA: Doctor, you've clearly never met Frank Grant before today.
+    줄리아: 선생님, 프랭크 그랜트를 오늘 처음 보신 게 확실하네요.
 
 122. ROSIE: Dad, you're crying.
     로지: 아빠, 울어.
@@ -403,8 +403,8 @@
 129. FRANK: Good girl.
     프랭크: 착한 녀석.
 
-130. ELIAS: You're awake.
-    일라이어스: 깨셨네요.
+130. ELIAS: You're awake. The nurse said you might not wake up tonight.
+    일라이어스: 깨셨네요. 간호사가 오늘 밤엔 못 깨실 수도 있다던데.
 
 131. FRANK: Barely. Somebody parked a truck on my chest. Did you eat?
     프랭크: 겨우. 누가 내 가슴에 트럭을 세워 놨어. 밥은 먹었니?
@@ -427,8 +427,8 @@
 137. FRANK: Washington would write a very long letter and publish it in a newspaper. Don't do that. You'll get it wrong at two in the morning. Write it down for yourself first. Felt left notes.
     프랭크: 워싱턴이라면 아주 긴 편지를 써서 신문에 실었겠지. 그러지 마라. 새벽 2시엔 틀리게 쓰게 돼. 먼저 너 자신을 위해 적어 둬라. 펠트도 메모를 남겼다.
 
-138. ELIAS: And then?
-    일라이어스: 그다음엔요?
+138. ELIAS: And then what? After I've written it all down?
+    일라이어스: 그다음엔요? 다 적어 두고 나서는요?
 
 139. FRANK: Then do it the slow way. The slow way is the only one that holds up in court. And son, whoever it is, they'll believe every word they tell you. Pretended patriots always do.
     프랭크: 그다음엔 느린 길로 가라. 느린 길만이 법정에서 버틴다. 그리고 얘야, 그게 누구든 너한테 하는 말을 한 마디도 빼놓지 않고 믿을 거다. 가장된 애국자들은 늘 그래.
@@ -454,8 +454,8 @@
 146. MAGGIE: Forty minutes ago, a Navy P-8 collided with a Chinese fighter over the South China Sea. The P-8 made an emergency landing on Hainan. Nine crew. They're alive, and they're in Chinese custody.
     매기: 40분 전에 해군 P-8이 남중국해 상공에서 중국 전투기와 충돌했어. P-8은 하이난에 비상착륙했고. 승무원 아홉 명. 살아 있어. 그리고 중국에 억류됐어.
 
-147. ELIAS: And the Chinese pilot?
-    일라이어스: 중국 조종사는요?
+147. ELIAS: And the Chinese pilot? What happened to the fighter pilot?
+    일라이어스: 중국 조종사는요? 그 전투기 조종사는 어떻게 됐어요?
 
 148. MAGGIE: Ejected over the water. Nobody can find him. Beijing is already calling it murder, and half of Washington wants a carrier group in the strait by morning.
     매기: 바다 위에서 비상 탈출했어. 아무도 못 찾고 있어. 베이징은 벌써 살인이라고 부르고, 워싱턴 절반은 아침까지 해협에 항모 전단을 넣자고 해.

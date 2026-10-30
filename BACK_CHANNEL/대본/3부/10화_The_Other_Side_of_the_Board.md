@@ -337,8 +337,8 @@
 107. ELIAS: Herring and rye bread. Finland's idea of dinner. How are you feeling, Dad?
     일라이어스: 청어랑 호밀빵이요. 핀란드식 저녁이지. 몸은 좀 어때요, 아빠?
 
-108. FRANK: Like a man whose heart has been scheduled. The surgeon says the twenty-first, a Tuesday. Triple bypass, all three arteries.
-    프랭크: 심장에 일정이 잡힌 사람 같다. 외과 의사가 21일, 화요일이래. 삼중 우회술, 세 혈관 다.
+108. FRANK: Like a man whose heart has been scheduled. Still the twenty-first, a Tuesday. Triple bypass, all three arteries.
+    프랭크: 심장에 일정이 잡힌 사람 같다. 여전히 21일, 화요일이야. 삼중 우회술, 세 혈관 다.
 
 109. ELIAS: I'll be there. I'll fly in on the twentieth.
     일라이어스: 갈게요. 20일에 날아갈게.
