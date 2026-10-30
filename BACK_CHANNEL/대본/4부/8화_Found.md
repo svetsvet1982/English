@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 4부 8화 · 서사 기능: 부의 핵심 화 — 조종사 발견, 승무원 석방 서한의 '세 번째 문' · 9화 청문회의 도화선
 > - 배경: 국무부 작전센터(Ops) 상황실(2028년 12월 6일 수요일 17:20 = 하이난 12월 7일 목요일 06:20, 표류 17일째) → 같은 곳(12월 7일 목요일 08:00 = 베이징 21:00, 중국 국영방송 화면) → 국무부 7층 '벽장'(12월 7일 밤 = 베이징 12월 8일 오전, 저우 한과 화상) → 하이난 하이커우 메이란 공항 활주로(12월 9일 토요일 07:30, 현지 시각)
-> - 등장인물: 일라이어스 그랜트, 톰 레예스, 사미라 하다드, 오르티스 대위(미 해군 연락장교, 단역), 멍 위 대령(무선·전화), 앵커(중국 국영방송 영어 채널, 단역), 매기 홀러웨이, 저우 한, 로버트 캘러웨이 국무장관(전화), 케일라 브룩스 소령, 로지 그랜트(전화)
+> - 등장인물: 일라이어스 그랜트, 톰 레예스, 사미라 하다드, 오르티스 대위(미 해군 연락장교, 단역), 멍위 대령(무선·전화), 앵커(중국 국영방송 영어 채널, 단역), 매기 홀러웨이, 저우 한, 로버트 캘러웨이 국무장관(전화), 케일라 브룩스 소령, 로지 그랜트(전화)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 상하이 공동성명 (1972) — 매기가 "닉슨은 동사 하나로 대만을 내줬다"고 단순화하자 일라이어스가 "acknowledges는 '들었다'는 뜻이지 '동의한다'가 아니고, 7년 뒤 의회가 대만관계법을 통과시켰다"고 반박한다. 저우 한과 일라이어스는 각자의 입장을 따로 적는 그 형식을 석방 서한에 빌려 쓴다
 > - 전술 태그: [설득] [거짓말] [비밀] [유출]
@@ -38,7 +38,7 @@
     일라이어스: 상자 구역에 비가 네 번 왔어요. 잉그리드가 확인했어요.
 
 008. MENG: American side, this is Chinese command. First sandbar, nothing. Moving to the second.
-    멍 대령: 미국 측, 여기는 중국 지휘부. 첫 번째 모래톱, 이상 없음. 두 번째로 이동.
+    멍: 미국 측, 여기는 중국 지휘부. 첫 번째 모래톱, 이상 없음. 두 번째로 이동.
 
 009. ELIAS: Copy, Colonel. Thank you for keeping us informed.
     일라이어스: 알겠습니다, 대령님. 계속 알려 주셔서 감사합니다.
@@ -53,7 +53,7 @@
     일라이어스: 그럼 중국 배가 18분 안에 찾길 바라야죠.
 
 013. MENG: American side. Second sandbar. We see a person. One person. He is waving something orange.
-    멍 대령: 미국 측. 두 번째 모래톱. 사람이 보인다. 한 명. 주황색 뭔가를 흔들고 있다.
+    멍: 미국 측. 두 번째 모래톱. 사람이 보인다. 한 명. 주황색 뭔가를 흔들고 있다.
 
 014. SAMIRA: Oh my God.
     사미라: 세상에.
@@ -62,7 +62,7 @@
     일라이어스: 대령님, 서 있나요?
 
 016. MENG: Sitting. He stood up once, and fell. He is waving with one arm.
-    멍 대령: 앉아 있다. 한 번 일어섰다가 쓰러졌다. 한쪽 팔로 흔들고 있다.
+    멍: 앉아 있다. 한 번 일어섰다가 쓰러졌다. 한쪽 팔로 흔들고 있다.
 
 017. ORTIZ: Sir, that sandbar is surrounded by coral. At this tide, no ship's boat is getting across that reef for at least three hours.
     오르티스: 특사님, 그 모래톱은 산호초로 둘러싸여 있습니다. 지금 조수로는 최소 세 시간 동안 함정의 보트가 그 암초를 못 넘습니다.
@@ -71,13 +71,13 @@
     일라이어스: 대령님, 그쪽에서 제일 가까운 헬기는 얼마나 떨어져 있죠?
 
 019. MENG: It is coming from Sanya. Ninety minutes.
-    멍 대령: 싼야에서 오고 있다. 90분.
+    멍: 싼야에서 오고 있다. 90분.
 
 020. ELIAS: Ours is twelve minutes away. It has a rescue swimmer and a hoist, and it can operate under your coordination.
     일라이어스: 우리 헬기는 12분 거리예요. 구조 수영요원과 호이스트가 있고, 그쪽 조정하에 움직일 수 있어요.
 
 021. MENG: No. He has waited seventeen days. He can wait ninety minutes more.
-    멍 대령: 안 된다. 17일을 기다렸다. 90분 더 기다릴 수 있다.
+    멍: 안 된다. 17일을 기다렸다. 90분 더 기다릴 수 있다.
 
 022. TOM: Ninety minutes with a bad arm? If he goes back in the water, he's gone.
     톰: 다친 팔로 90분? 물에 다시 빠지면 끝이야.
@@ -86,13 +86,13 @@
     일라이어스: 대령님, 외람된 말씀이지만, 미국 헬기를 그쪽 바다에 들여보내 달라는 게 아닙니다. 대령님이 보내 달라는 겁니다.
 
 024. MENG: What is the difference?
-    멍 대령: 무슨 차이가 있나?
+    멍: 무슨 차이가 있나?
 
 025. ELIAS: The difference is who gives the order. Your ship gives it, our helicopter follows it, and your television shows a Chinese command bringing a Chinese pilot home.
     일라이어스: 누가 명령하느냐의 차이죠. 그쪽 배가 명령하고, 우리 헬기는 따르고, 그쪽 텔레비전엔 중국 지휘부가 중국 조종사를 집으로 데려오는 모습이 나가는 겁니다.
 
 026. MENG: And your television?
-    멍 대령: 당신네 텔레비전은?
+    멍: 당신네 텔레비전은?
 
 027. ELIAS: Mine will say whatever it says. I'm not worried about my television this morning. I'm worried about a six-year-old girl who drew a parachute.
     일라이어스: 우리 쪽은 뭐라고 하든 하겠죠. 오늘 아침엔 우리 텔레비전 걱정 안 해요. 낙하산을 그린 여섯 살 여자아이가 걱정이죠.
@@ -101,7 +101,7 @@
     사미라: 7시 24분. 오르비스 위성 통과까지 16분.
 
 029. MENG: Wait.
-    멍 대령: 기다려라.
+    멍: 기다려라.
 
 030. TOM: He's calling up the chain. Five minutes, or a very long morning.
     톰: 윗선에 전화하는 거야. 5분 안에 되든가, 아주 긴 아침이 되든가.
@@ -113,7 +113,7 @@
     오르티스: 알겠습니다. 시동, 대기.
 
 033. MENG: American side. Chinese command requests assistance from the American helicopter. Under Chinese coordination. Channel sixteen. Approach from the south only.
-    멍 대령: 미국 측. 중국 지휘부가 미국 헬기의 지원을 요청한다. 중국 측 조정하에. 16번 채널. 남쪽에서만 접근할 것.
+    멍: 미국 측. 중국 지휘부가 미국 헬기의 지원을 요청한다. 중국 측 조정하에. 16번 채널. 남쪽에서만 접근할 것.
 
 034. ELIAS: Understood, Colonel. Under Chinese coordination. Thank you.
     일라이어스: 알겠습니다, 대령님. 중국 측 조정하에. 감사합니다.
@@ -137,7 +137,7 @@
     사미라: 보트 덮개를 챙겼네요. 보세요, 빗물 받으려고 그릇 모양으로 접어 놨어요.
 
 041. MENG: He says Gao Feng. Asks what day it is.
-    멍 대령: 가오펑이라고 한다. 오늘이 며칠이냐고 묻는다.
+    멍: 가오펑이라고 한다. 오늘이 며칠이냐고 묻는다.
 
 042. ELIAS: Tell him December seventh, Colonel. And that his daughter has been waiting.
     일라이어스: 12월 7일이라고 전해 주세요, 대령님. 그리고 딸이 기다리고 있었다고요.
@@ -451,8 +451,8 @@
 145. ROSIE: Mom made me a list of people I'm not allowed to talk to. It's longer than my college list, and it has photos. I'm fine, Dad. Really. Come home.
     로지: 엄마가 나 말 걸면 안 되는 사람 목록을 만들어 줬어. 내 대학 지원 목록보다 길고, 사진까지 붙어 있어. 난 괜찮아, 아빠. 진짜로. 집에 와.
 
-146. SAMIRA: Special Envoy, sorry to cut in. Senator Pruitt just announced a Foreign Relations hearing. January sixteenth, Dirksen 419. You're the only witness.
-    사미라: 특사님, 끼어들어서 죄송해요. 프루잇 의원이 방금 외교위원회 청문회를 발표했어요. 1월 16일, 더크슨 419호. 증인은 특사님 한 분이에요.
+146. SAMIRA: Special Envoy, sorry to cut in. Senator Pruitt just announced his first hearing as incoming Foreign Relations chairman. January sixteenth, Dirksen 419. You're the only witness.
+    사미라: 특사님, 끼어들어서 죄송해요. 프루잇 의원이 방금 차기 외교위원장으로서 첫 청문회를 발표했어요. 1월 16일, 더크슨 419호. 증인은 특사님 한 분이에요.
 
 147. ELIAS: What's he calling it?
     일라이어스: 뭐라고 이름 붙였어요?

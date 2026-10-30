@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 4부 7화 · 서사 기능: 보은(報恩) 화 · 1~3부의 인연이 하나의 수색 지도를 만든다 · 조종사 발견(8화)의 직전 단계
 > - 배경: 뉴욕 워싱턴 스퀘어 공원 체스 테이블(2028년 12월 4일 월요일 오후, 표류 14일째, 영하에 가까운 날씨) → 국무부 7층 '벽장'(12월 5일 화요일 오전, 브라질리아와 화상 통화) → 같은 곳(12월 5일 밤, 오슬로와 통화) → 일라이어스의 아파트(12월 6일 수요일 아침, 데이턴과 전화) → '벽장'(12월 6일 오전 10시 = 베이징 밤 11시, 베이징과 통화)
-> - 등장인물: 일라이어스 그랜트, 톰 레예스, 드미트리 소콜로프, 사미라 하다드, 아나 베아트리스 캄푸스(화상), 잉그리드 할보르센(전화), 프랭크 그랜트(전화), 저우 한(전화), 멍 위 대령(전화)
+> - 등장인물: 일라이어스 그랜트, 톰 레예스, 드미트리 소콜로프, 사미라 하다드, 아나 베아트리스 캄푸스(화상), 잉그리드 할보르센(전화), 프랭크 그랜트(전화), 저우 한(전화), 멍위 대령(전화)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 존 헤이의 '문호 개방' 각서 (1899–1900) — 드미트리가 "러시아는 공손하게 아무 말도 안 했다"고 비꼬고, 일라이어스와 프랭크가 헤이의 '이미 다 동의했다'는 선언을 블러핑의 교본으로 쓰며, 저우 한이 "그 문은 중국에게 묻지도 않고 중국 위에 연 문"이라고 반박한다
 > - 전술 태그: [설득] [비밀] [블러핑] [유출]
@@ -374,19 +374,19 @@
     프랭크: 일라이어스? 아침 6시 반이다. 밥은 먹었니?
 
 120. ELIAS: Not yet, Dad. You're up early.
-    일라이어스: 아직요, 아빠. 일찍 일어나셨네요.
+    일라이어스: 아직, 아빠. 일찍 일어났네.
 
 121. FRANK: Cardiac rehab. Mrs. Kowalski drives me and then walks the track beside me, so nobody can say I cheated.
     프랭크: 심장 재활이야. 코왈스키 부인이 차로 데려다주고는 트랙을 옆에서 같이 걸어. 내가 꾀부렸다는 소리 아무도 못 하게.
 
 122. ELIAS: How many laps?
-    일라이어스: 몇 바퀴나요?
+    일라이어스: 몇 바퀴나?
 
 123. FRANK: Six. Eight by Christmas, the nurse says. You sound like you've counted all night.
     프랭크: 여섯 바퀴. 간호사가 크리스마스까진 여덟 바퀴래. 너 밤새 뭘 센 목소리다.
 
 124. ELIAS: Sandbars. Dad, tell me about John Hay. Not the Lincoln part. The Open Door.
-    일라이어스: 모래톱이요. 아빠, 존 헤이 얘기 좀 해 주세요. 링컨 쪽 말고요. 문호 개방이요.
+    일라이어스: 모래톱. 아빠, 존 헤이 얘기 좀 해 줘. 링컨 쪽 말고. 문호 개방.
 
 125. FRANK: Ah. Hay was Lincoln's private secretary at twenty-two, and Secretary of State by sixty. In 1899 he wrote to the great powers, asking them to keep China open to everyone's trade.
     프랭크: 아. 헤이는 스물두 살에 링컨의 개인 비서였고, 예순쯤엔 국무장관이 됐지. 1899년에 강대국들한테 편지를 써서, 중국을 모두의 무역에 열어 두자고 했어.
@@ -395,19 +395,19 @@
     프랭크: 답장들은 죄다 흐리멍덩했어. 다들 '남들이 먼저 동의하면' 동의하겠다는 식이었지. 그래서 헤이는 그냥 다들 수락했다고 발표해 버렸어. 최종적이고 확정적이라고. 아무도 대놓고 '아니'라고 말하는 사람이 되고 싶진 않았거든.
 
 127. ELIAS: Sometimes you open a door by announcing it's already open.
-    일라이어스: 가끔은 문이 이미 열렸다고 발표해서 문을 여는 거네요.
+    일라이어스: 가끔은 문이 이미 열렸다고 발표해서 문을 여는 거네.
 
 128. FRANK: Sometimes. But remember who wasn't on Hay's mailing list. The Chinese. If you borrow that trick, son, make sure they're holding the pen this time.
     프랭크: 가끔은. 그런데 헤이의 수신자 명단에 누가 없었는지 기억해라. 중국 사람들이야. 그 수법을 빌릴 거면, 아들아, 이번엔 꼭 그 사람들이 펜을 쥐게 해.
 
 129. ELIAS: That's the plan. Is Rosie still calling you?
-    일라이어스: 그게 계획이에요. 로지는 아직도 전화해요?
+    일라이어스: 그게 계획이야. 로지는 아직도 전화해?
 
 130. FRANK: Every night at nine. After New York, she checks on me so I won't check on her. She's your daughter, all right.
     프랭크: 매일 밤 9시에. 뉴욕 일 이후로, 내가 걔 걱정 못 하게 걔가 먼저 내 안부를 묻는 거야. 네 딸 맞다.
 
 131. ELIAS: Eat breakfast after your laps, Dad. That's an order from the State Department.
-    일라이어스: 운동 끝나고 아침 꼭 드세요, 아빠. 국무부 명령이에요.
+    일라이어스: 운동 끝나고 아침 꼭 먹어, 아빠. 국무부 명령이야.
 
 132. TOM: Beijing's on, boss. Your roommate brought an unhappy colonel.
     톰: 베이징 연결됐어, 대장. 네 룸메이트가 기분 안 좋은 대령을 데려왔어.
@@ -419,13 +419,13 @@
     일라이어스: 그리고 모래톱 세 개가 그려진 지도도. 상자 받았어?
 
 135. MENG: We received it. Who made it?
-    멍 대령: 받았습니다. 누가 만들었습니까?
+    멍: 받았습니다. 누가 만들었습니까?
 
 136. ELIAS: Three old friends, Colonel. None of them American.
     일라이어스: 오랜 친구 셋이요, 대령님. 그중에 미국인은 없어요.
 
 137. MENG: Then why does an American send it?
-    멍 대령: 그럼 왜 미국인이 보냅니까?
+    멍: 그럼 왜 미국인이 보냅니까?
 
 138. ELIAS: Because I'm the only person all three would talk to. And the same map reached Beijing, Brasília and Oslo at the same minute. Nobody owns it, so nobody has to thank anybody.
     일라이어스: 셋 다 말을 걸어 주는 사람이 저 하나뿐이라서요. 그리고 똑같은 지도가 같은 순간에 베이징, 브라질리아, 오슬로에 도착했어요. 아무도 주인이 아니니까, 아무도 누구한테 고마워할 필요가 없어요.
@@ -446,13 +446,13 @@
     일라이어스: 새벽에 그 상자에 중국 배가 가 있을까?
 
 144. MENG: Two ships, from Sanya. Chinese ships, Chinese command. That's our red line.
-    멍 대령: 두 척, 싼야에서 출항. 중국 배, 중국 지휘. 그게 우리의 레드 라인입니다.
+    멍: 두 척, 싼야에서 출항. 중국 배, 중국 지휘. 그게 우리의 레드 라인입니다.
 
 145. ELIAS: Understood. Our destroyer is sixty miles east with a helicopter on deck. We'll need a de-confliction channel at the box, or we'll find a pilot and climb the escalation ladder by accident.
     일라이어스: 알겠습니다. 우리 구축함이 동쪽 60마일에 헬기를 싣고 있어요. 상자 근처에서 충돌 방지 채널이 필요해요. 안 그러면 조종사를 찾아 놓고 실수로 확전의 사다리를 오르게 될 거예요.
 
 146. MENG: Channel sixteen. English. Short sentences. We will not ask for your helicopter.
-    멍 대령: 16번 채널. 영어로. 짧게. 당신들 헬기는 요청하지 않을 겁니다.
+    멍: 16번 채널. 영어로. 짧게. 당신들 헬기는 요청하지 않을 겁니다.
 
 147. ZHOU: The colonel means we will not ask today. Tomorrow, we will see whose helicopter is closest. Goodnight, Elias. Get some sleep.
     저우: 대령 말은 오늘은 요청 안 한다는 뜻이야. 내일은 누구 헬기가 제일 가까운지 보자고. 잘 자, 일라이어스. 좀 자 둬.

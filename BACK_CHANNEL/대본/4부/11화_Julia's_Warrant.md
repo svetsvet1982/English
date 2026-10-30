@@ -460,8 +460,8 @@
 148. JULIA: You have until March fifth. If she isn't in my office before Kane's lawyers are, I take their meeting and don't look back.
     줄리아: 3월 5일까지야. 케인 변호인단보다 먼저 그녀가 내 사무실에 없으면, 난 그쪽 면담을 하고 뒤돌아보지 않을 거야.
 
-149. ELIAS: Then I'll see her Saturday. She's been saving a bottle since Helsinki. I told her I wasn't ready.
-    일라이어스: 그럼 토요일에 만날게. 헬싱키 때부터 아껴 둔 술이 있대. 난 아직 준비가 안 됐다고 했었는데.
+149. ELIAS: Then I'll see her on Saturday the third. She's been saving a bottle since Helsinki. I told her I wasn't ready.
+    일라이어스: 그럼 3월 3일 토요일에 만날게. 헬싱키 때부터 아껴 둔 술이 있대. 난 아직 준비가 안 됐다고 했었는데.
 
 150. JULIA: Then get ready. And Elias — whatever she pours you, it's still a negotiation.
     줄리아: 그럼 준비해. 그리고 일라이어스, 그녀가 뭘 따라 주든 그건 여전히 협상이야.

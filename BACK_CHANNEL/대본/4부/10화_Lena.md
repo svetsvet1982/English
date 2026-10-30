@@ -140,61 +140,61 @@
     프랭크: 일라이어스냐? 잠깐만. 데이턴 몰 두 바퀴째 도는 중인데 심장 재활 간호사가 시간을 재고 있어. 밥은 먹었니?
 
 042. ELIAS: Coffee. And half a bagel Samira left on my desk.
-    일라이어스: 커피요. 그리고 사미라가 책상에 두고 간 베이글 반쪽.
+    일라이어스: 커피. 그리고 사미라가 책상에 두고 간 베이글 반쪽.
 
 043. FRANK: Half a bagel is a rumor, not a meal.
     프랭크: 베이글 반쪽은 소문이지 밥이 아니다.
 
 044. ELIAS: How's the chest? Are they letting you walk on your own?
-    일라이어스: 가슴은 좀 어때요? 혼자 걷게는 해 줘요?
+    일라이어스: 가슴은 좀 어때? 혼자 걷게는 해 줘?
 
 045. FRANK: Healing. The nurse says I walk like a man who's afraid of the floor.
     프랭크: 아물고 있다. 간호사 말로는 내가 바닥을 무서워하는 사람처럼 걷는대.
 
 046. ELIAS: Dad, I need the Pentagon Papers. The real version, not the movie.
-    일라이어스: 아빠, 펜타곤 페이퍼 얘기 좀 해 줘요. 영화 말고 진짜 버전으로.
+    일라이어스: 아빠, 펜타곤 페이퍼 얘기 좀 해 줘. 영화 말고 진짜 버전으로.
 
 047. FRANK: Who are you trying to talk out of something?
     프랭크: 누구를 뭐에서 말리려는 거냐?
 
 048. ELIAS: A reporter. Or maybe myself. I haven't decided which yet.
-    일라이어스: 기자 한 명이요. 아니면 나 자신이거나. 어느 쪽인지 아직 못 정했어요.
+    일라이어스: 기자 한 명. 아니면 나 자신이거나. 어느 쪽인지 아직 못 정했어.
 
 049. FRANK: Good. Here's what the movie skips. Ellsberg didn't start with the New York Times. In 1969 he took the study to Senator Fulbright, the chairman of Foreign Relations. The official route.
     프랭크: 좋다. 영화가 빼먹는 게 이거야. 엘즈버그는 뉴욕타임스부터 찾아간 게 아니다. 1969년에 그 보고서를 외교위원장인 풀브라이트 상원의원한테 가져갔지. 정식 경로로.
 
 050. ELIAS: And what did Fulbright do with it? He chaired the committee.
-    일라이어스: 그래서 풀브라이트는 그걸로 뭘 했는데요? 위원장이었잖아요.
+    일라이어스: 그래서 풀브라이트는 그걸로 뭘 했는데? 위원장이었잖아.
 
 051. FRANK: Held it. Asked the Pentagon through channels, got nowhere. Ellsberg waited over a year.
     프랭크: 붙들고 있었지. 정식 경로로 국방부에 요청했다가 허탕 쳤고. 엘즈버그는 1년 넘게 기다렸다.
 
 052. ELIAS: So the slow way failed him, and the fast way worked.
-    일라이어스: 그러니까 느린 길은 실패했고 빠른 길이 통한 거네요.
+    일라이어스: 그러니까 느린 길은 실패했고 빠른 길이 통한 거네.
 
 053. FRANK: The slow way was slow. That's different. And when the Times printed it, he didn't hide behind anybody. He walked into the federal courthouse in Boston and turned himself in, under his own name.
     프랭크: 느린 길은 느렸던 거지. 그건 다른 얘기야. 그리고 타임스가 그걸 실었을 때 그 사람은 누구 뒤에도 숨지 않았다. 보스턴 연방법원에 걸어 들어가서 제 이름으로 자수했지.
 
 054. ELIAS: And the government came after him with everything it had.
-    일라이어스: 그리고 정부는 가진 걸 다 동원해서 그 사람을 쫓았고요.
+    일라이어스: 그리고 정부는 가진 걸 다 동원해서 그 사람을 쫓았고.
 
 055. FRANK: It did. Then it broke into his psychiatrist's office looking for dirt, and that's why the judge threw the case out in 1973. The cheaters lost the case. Not the leaker.
     프랭크: 그랬지. 그러고는 약점 잡겠다고 그 사람 정신과 의사 사무실에 침입했고, 그래서 1973년에 판사가 사건을 기각한 거야. 재판에서 진 건 반칙한 쪽이었다. 유출한 사람이 아니라.
 
 056. ELIAS: That's the lesson? Don't cheat, and the system works?
-    일라이어스: 그게 교훈이에요? 반칙만 안 하면 제도가 돌아간다?
+    일라이어스: 그게 교훈이야? 반칙만 안 하면 제도가 돌아간다?
 
 057. FRANK: The lesson is that the difference between a leaker and a whistleblower isn't the paper. It's whether you sign it. Whoever you're chasing never signed a thing.
     프랭크: 교훈은 이거다. 유출자와 내부고발자의 차이는 종이에 있는 게 아니야. 거기에 서명을 하느냐에 있지. 네가 쫓는 사람은 아무것에도 서명한 적이 없잖니.
 
 058. ELIAS: No. They never did.
-    일라이어스: 네. 한 번도 안 했죠.
+    일라이어스: 응. 한 번도 안 했지.
 
 059. FRANK: Also, I wrote your Maggie a thank-you note for the pie. Your mother would've insisted. Was that wrong?
     프랭크: 그리고 말이다, 너희 매기한테 파이 고맙다고 카드를 썼다. 네 엄마라면 꼭 쓰라고 했을 거야. 내가 잘못한 거냐?
 
 060. ELIAS: No, Dad. It was polite. Finish your lap.
-    일라이어스: 아니요, 아빠. 예의 바른 거였죠. 남은 바퀴 마저 도세요.
+    일라이어스: 아니, 아빠. 예의 바른 거였어. 남은 바퀴 마저 돌아.
 
 061. LOU: Evening, Mr. Grant. Back booth. Your reporter's already in it, eating my crackers.
     루: 어서 와요, 그랜트 씨. 안쪽 칸막이 자리요. 기자 양반이 벌써 와서 우리 크래커 먹고 있어요.

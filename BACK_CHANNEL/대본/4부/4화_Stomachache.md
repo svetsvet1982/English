@@ -281,55 +281,55 @@
     프랭크: 일라이어스냐? 여긴 정오니까, 네가 있는 데는 한밤중이겠구나. 밥은 먹었니?
 
 089. ELIAS: Hi, Dad. Not really. I've got a stomachache, and it's a long story.
-    일라이어스: 아빠. 별로요. 배탈이 났어요. 얘기하자면 길어요.
+    일라이어스: 아빠. 별로. 배탈이 났어. 얘기하자면 길어.
 
 090. FRANK: A stomachache. Where are you?
     프랭크: 배탈이라. 어디냐?
 
 091. ELIAS: Islamabad. Consultations. How's the chest?
-    일라이어스: 이슬라마바드요. 협의차요. 가슴은 좀 어떠세요?
+    일라이어스: 이슬라마바드. 협의차. 가슴은 좀 어때?
 
 092. FRANK: Hurts when I laugh, so Mrs. Kowalski has stopped being funny. They gave me a heart-shaped pillow to hug when I cough. It has a cartoon face. I hate it.
     프랭크: 웃으면 아프다. 그래서 코왈스키 부인이 웃기는 걸 그만뒀어. 기침할 때 껴안으라고 하트 모양 베개를 줬는데, 만화 얼굴이 그려져 있다. 싫어 죽겠어.
 
 093. ELIAS: Hug it anyway.
-    일라이어스: 그래도 안고 계세요.
+    일라이어스: 그래도 안고 있어.
 
 094. FRANK: Islamabad, and a stomachache. Son, you're not sick.
     프랭크: 이슬라마바드에, 배탈이라. 얘야, 너 안 아프구나.
 
 095. ELIAS: I didn't say anything. I said Islamabad and consultations.
-    일라이어스: 저 아무 말도 안 했어요. 이슬라마바드, 협의, 그게 다예요.
+    일라이어스: 나 아무 말도 안 했어. 이슬라마바드, 협의, 그게 다야.
 
 096. FRANK: You didn't have to. Let me tell you about 1971. July. Nixon wants China, and nobody can know, not even the Secretary of State.
     프랭크: 안 해도 된다. 1971년 얘기 하나 해 주마. 7월이야. 닉슨은 중국을 원하는데, 아무도 알면 안 돼. 국무장관조차도.
 
 097. ELIAS: William Rogers. They told him once it was already done.
-    일라이어스: 윌리엄 로저스요. 다 끝나고 나서야 알려 줬죠.
+    일라이어스: 윌리엄 로저스. 다 끝나고 나서야 알려 줬지.
 
 098. FRANK: That's right. So Kissinger does a nice boring tour of Asia, and in Pakistan he comes down with a stomach upset. Off to the hills to rest, they said.
     프랭크: 그렇지. 그래서 키신저가 아시아를 지루하게 한 바퀴 돌다가 파키스탄에서 배탈이 나. 산에 가서 쉰다고들 했지.
 
 099. ELIAS: Nathia Gali.
-    일라이어스: 나티아 갈리요.
+    일라이어스: 나티아 갈리.
 
 100. FRANK: And before dawn he's at the airport in Rawalpindi, getting on a Pakistani airliner with a few aides. Forty-eight hours in Beijing with Zhou Enlai. Nobody knew till Nixon went on TV.
     프랭크: 그리고 동트기 전에 라왈핀디 공항에서 보좌관 몇 명하고 파키스탄 여객기에 오르지. 베이징에서 저우언라이하고 48시간. 닉슨이 TV에 나올 때까지 아무도 몰랐다.
 
 101. ELIAS: Dad, I'm not telling you anything. I want that on the record.
-    일라이어스: 아빠, 저 아무것도 말 안 하는 거예요. 그건 기록에 남겨 두세요.
+    일라이어스: 아빠, 나 아무것도 말 안 하는 거야. 그건 기록에 남겨 둬.
 
 102. FRANK: I know. I'm telling you. Here's the part people forget. Kissinger didn't go there to win. He went to find out whether the other side wanted a way out as badly as he did.
     프랭크: 안다. 내가 말하는 거야. 사람들이 잊는 대목이 있어. 키신저는 이기러 간 게 아니야. 상대도 자기만큼 간절하게 빠져나갈 길을 원하는지 알아보러 간 거지.
 
 103. ELIAS: And did they?
-    일라이어스: 그래서 원했어요?
+    일라이어스: 그래서 원했어?
 
 104. FRANK: They'd sent the invitation, son. People don't send invitations to fights. Eat some rice. Plain rice is good for a stomachache, even a fake one.
     프랭크: 초대장을 보낸 쪽이 그쪽이었다, 얘야. 싸움에 초대장 보내는 사람은 없어. 밥 좀 먹어라. 흰밥이 배탈엔 좋다. 가짜 배탈이라도.
 
 105. ELIAS: I love you, Dad.
-    일라이어스: 사랑해요, 아빠.
+    일라이어스: 사랑해, 아빠.
 
 106. FRANK: Love you too. Go be sick somewhere useful, and call your daughter.
     프랭크: 나도 사랑한다. 가서 쓸모 있는 데서 아파라. 그리고 딸한테 전화하고.
@@ -343,8 +343,8 @@
 109. MAGGIE: Food poisoning.
     매기: 식중독.
 
-110. SAMIRA: The embassy doctor saw him at ten their time and again at six this morning. Fluids, rest, no phone.
-    사미라: 대사관 의사가 현지 시각 10시에 한 번, 오늘 아침 6시에 또 봤어요. 수액, 휴식, 전화 금지요.
+110. SAMIRA: The embassy doctor saw him at ten last night, their time, and he's seeing him again at six. Fluids, rest, no phone.
+    사미라: 대사관 의사가 현지 시각으로 어젯밤 10시에 봤고, 6시에 또 볼 거예요. 수액, 휴식, 전화 금지요.
 
 111. MAGGIE: Elias has never in his life been too sick for a phone. In Moscow he took a call from me during a root canal.
     매기: 일라이어스는 평생 전화도 못 받을 만큼 아팠던 적이 없어. 모스크바에선 신경 치료 받는 중에 내 전화를 받았다고.

@@ -154,8 +154,8 @@
 046. ELIAS: All right. What can you carry?
     일라이어스: 좋아. 넌 뭘 들고 갈 수 있는데?
 
-047. ZHOU: Less than you think. Before you answer, read this. It arrived in Beijing last night, eleven hours before your plane landed.
-    저우: 네 생각보다 적어. 대답하기 전에 이거 읽어 봐. 어젯밤 베이징에 도착했어. 네 비행기가 착륙하기 열한 시간 전에.
+047. ZHOU: Less than you think. Before you answer, read this. It arrived in Beijing yesterday morning, eleven hours before your plane landed.
+    저우: 네 생각보다 적어. 대답하기 전에 이거 읽어 봐. 어제 아침 베이징에 도착했어. 네 비행기가 착륙하기 열한 시간 전에.
 
 048. ELIAS: These are my talking points.
     일라이어스: 내 발언 요지네.

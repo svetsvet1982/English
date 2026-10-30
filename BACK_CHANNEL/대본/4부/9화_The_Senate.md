@@ -5,12 +5,12 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 4부 9화 · 서사 기능: 공개 청문회의 역공 · 할버드라는 이름이 처음으로 공개 석상에 나옴 · 합법적 경로로 가는 문턱
 > - 배경: 더크슨 상원 건물 증인 대기실(2029년 1월 16일 화요일 07:40) → 더크슨 419호 상원 외교위원회 청문회장(같은 날 10:00, 생중계) → 같은 건물 복도와 휴회 중 빈 소회의실(10:52) → 국무부 7층 부장관 집무실(같은 날 18:30) → 일라이어스의 차 안(같은 날 밤, 데이턴과 전화)
-> - 등장인물: 일라이어스 그랜트, 사미라 하다드, 톰 레예스, 줄리아 박-그랜트, 데일 프루잇 상원의원(외교위원장), 엘런 마시 상원의원(외교위원회 간사, 단역), 레나 보스, 매기 홀러웨이, 프랭크 그랜트(전화)
+> - 등장인물: 일라이어스 그랜트, 사미라 하다드, 톰 레예스, 줄리아 박-그랜트, 데일 프루잇 상원의원(외교위원장), 엘런 위트컴 상원의원(외교위원회 간사, 단역), 레나 보스, 매기 홀러웨이, 프랭크 그랜트(전화)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 육군–매카시 청문회와 조지프 웰치의 "Have you no sense of decency?" (1954) — 프루잇이 사미라의 과거 혐의를 꺼내자 일라이어스가 웰치를 인용하되 그 질문을 던지지 않는 방식으로 되받는다. 프루잇의 "누가 중국을 잃었나"(1949)는 일라이어스가 애치슨의 『중국 백서』로 반박한다
 > - 전술 태그: [공갈] [블러핑] [거짓말] [설득] [유출]
 > - 이번 화의 핵심 표현: hearing / subpoena / whistleblower / immunity / on the record / "The American people deserve to know." / "I'd be happy to discuss Halberd Group, Senator." / "The committee will stand in recess." / With all due respect…
-> - 복선/연결: 8화의 "사과 순방"·파키스탄 기체 번호(사미라의 목록에 추가) · 캘러웨이의 "안 간 출장"을 일라이어스가 혼자 짊어짐 · 쿠레시에게 진 약속(4화)을 청문회에서 갚음 · 프루잇이 2부 톰의 감시 파일을 알고 있음(랭글리의 구멍 → 11화 밴스) · 줄리아의 "감찰관 먼저, 그다음 나"(10화 1/22 신고, 11화 이첩) · 프루잇이 얼어붙은 4초(10화 사미라 어머니가 셈) · 매기의 "그 문장이 무슨 뜻이었는지"(10화)
+> - 복선/연결: 8화의 "사과 순방"·파키스탄 기체 번호(사미라의 목록에 추가) · 캘러웨이의 "안 간 출장"을 일라이어스가 혼자 짊어짐 · 쿠레시에게 진 약속(4화)을 청문회에서 갚음 · 프루잇이 2부 톰의 감시 파일을 알고 있음(랭글리의 구멍 → 11화 밴스) · 줄리아의 "감찰관 먼저, 그다음 나"(10화 1/22 신고, 11화 이첩) · 프루잇이 얼어붙은 4초(사미라가 셈, 10화에선 사미라 어머니도 셈) · 매기의 "그 문장이 무슨 뜻이었는지"(10화)
 
 ---
 
@@ -82,8 +82,8 @@
 022. ELIAS: Next week. After today, they'll know I'm coming anyway.
     일라이어스: 다음 주에. 오늘 이후로는 어차피 내가 간다는 걸 그쪽도 알 테니까.
 
-023. SAMIRA: Pruitt's staff released his opening statement an hour ago. It's called "The Apology Tour," and it has a slide.
-    사미라: 프루잇 의원실이 한 시간 전에 모두 발언문을 배포했어요. 제목이 "사과 순방"이고, 슬라이드도 있어요.
+023. SAMIRA: Pruitt's staff released his opening statement an hour ago. His first hearing as chairman. It's called "The Apology Tour," and it has a slide.
+    사미라: 프루잇 의원실이 한 시간 전에 모두 발언문을 배포했어요. 위원장으로서 여는 첫 청문회예요. 제목이 "사과 순방"이고, 슬라이드도 있어요.
 
 024. TOM: Let me guess. Our helicopter, their ship.
     톰: 맞혀 볼게. 우리 헬기, 그쪽 배.
@@ -154,11 +154,11 @@
 046. ELIAS: I carried no letter, no instructions, and no authority to commit this government to anything. Nor did I commit it to anything.
     일라이어스: 저는 서한도, 지시도, 이 정부를 어떤 일에도 구속할 권한도 갖고 가지 않았습니다. 그리고 실제로 아무것에도 구속하지 않았습니다.
 
-047. MARSH: Mr. Chairman, the witness has answered the question. He's told us whose decision it was.
-    마시: 위원장님, 증인은 질문에 답했습니다. 누구의 결정이었는지 말했어요.
+047. WHITCOMB: Mr. Chairman, the witness has answered the question. He's told us whose decision it was.
+    위트컴: 위원장님, 증인은 질문에 답했습니다. 누구의 결정이었는지 말했어요.
 
-048. PRUITT: He's told us whose neck it is, Senator Marsh. That's different. Mr. Grant, let's talk about the letter. You wrote, quote, "We are very sorry."
-    프루잇: 누구 목이 걸렸는지를 말한 거죠, 마시 의원. 그건 다릅니다. 그랜트 특사, 서한 얘기를 합시다. 특사는 이렇게 썼죠. 인용합니다. "We are very sorry."
+048. PRUITT: He's told us whose neck it is, Senator Whitcomb. That's different. Mr. Grant, let's talk about the letter. You wrote, quote, "We are very sorry."
+    프루잇: 누구 목이 걸렸는지를 말한 거죠, 위트컴 의원. 그건 다릅니다. 그랜트 특사, 서한 얘기를 합시다. 특사는 이렇게 썼죠. 인용합니다. "We are very sorry."
 
 049. ELIAS: I wrote, "We are very sorry the pilot's family had to wait." The sentence has eight more words, Senator.
     일라이어스: 제가 쓴 건 "We are very sorry the pilot's family had to wait"입니다. 그 문장엔 단어가 여덟 개 더 있습니다, 의원님.
@@ -250,26 +250,26 @@
 078. ELIAS: It's an observation. You'll know it's an accusation when I make one.
     일라이어스: 관찰입니다. 제가 비난을 하면 그때는 확실히 아실 겁니다.
 
-079. MARSH: Mr. Chairman, I'd like the record to show that the FBI's closure letter on Ms. Haddad is in the committee's files. I requested it in December.
-    마시: 위원장님, 하다드 씨에 대한 FBI의 종결 통지서가 위원회 파일에 있다는 걸 기록에 남겨 주시기 바랍니다. 제가 12월에 요청했습니다.
+079. WHITCOMB: Mr. Chairman, I'd like the record to show that the FBI's closure letter on Ms. Haddad is in the committee's files. I requested it in December.
+    위트컴: 위원장님, 하다드 씨에 대한 FBI의 종결 통지서가 위원회 파일에 있다는 걸 기록에 남겨 주시기 바랍니다. 제가 12월에 요청했습니다.
 
-080. PRUITT: So noted. Senator Marsh, your five minutes.
-    프루잇: 기록하겠습니다. 마시 의원, 5분 드리죠.
+080. PRUITT: So noted. Senator Whitcomb, your five minutes.
+    프루잇: 기록하겠습니다. 위트컴 의원, 5분 드리죠.
 
-081. MARSH: Thank you. Mr. Grant, nine Americans and one Chinese pilot are home. What did that cost us? Bases, flights, Taiwan?
-    마시: 감사합니다. 그랜트 특사, 미국인 아홉 명과 중국 조종사 한 명이 집에 돌아왔습니다. 우리는 그 대가로 뭘 치렀습니까? 기지, 비행, 대만?
+081. WHITCOMB: Thank you. Mr. Grant, nine Americans and one Chinese pilot are home. What did that cost us? Bases, flights, Taiwan?
+    위트컴: 감사합니다. 그랜트 특사, 미국인 아홉 명과 중국 조종사 한 명이 집에 돌아왔습니다. 우리는 그 대가로 뭘 치렀습니까? 기지, 비행, 대만?
 
 082. ELIAS: None of those, Senator. Our flights continue. The letter says nothing about them. The only new commitment is a meeting in January on de-confliction in the air.
     일라이어스: 그중 어느 것도 아닙니다, 의원님. 우리 비행은 계속됩니다. 서한엔 비행에 관한 말이 한마디도 없습니다. 새로 한 약속은 1월에 공중 충돌 방지를 논의하는 회의 하나뿐입니다.
 
-083. MARSH: And the Pakistani plane? Should we expect an invoice from Islamabad?
-    마시: 그럼 파키스탄 비행기는요? 이슬라마바드에서 청구서가 오는 걸 각오해야 합니까?
+083. WHITCOMB: And the Pakistani plane? Should we expect an invoice from Islamabad?
+    위트컴: 그럼 파키스탄 비행기는요? 이슬라마바드에서 청구서가 오는 걸 각오해야 합니까?
 
 084. ELIAS: I'd like to answer that in my own name, Senator. A friend of this country helped bring nine Americans home, asked for nothing in writing, and deserves to be remembered for it.
     일라이어스: 그 질문엔 제 이름으로 답하고 싶습니다, 의원님. 이 나라의 한 친구가 미국인 아홉 명을 집에 데려오는 걸 도왔고, 문서로는 아무것도 요구하지 않았습니다. 그건 기억될 자격이 있습니다.
 
-085. MARSH: Thank you. I yield back.
-    마시: 감사합니다. 남은 시간은 반납하겠습니다.
+085. WHITCOMB: Thank you. I yield back.
+    위트컴: 감사합니다. 남은 시간은 반납하겠습니다.
 
 086. PRUITT: Mr. Grant, one more question. Isn't it true that you yourself have been the subject of a counterintelligence inquiry since 2025?
     프루잇: 그랜트 특사, 질문 하나만 더 하죠. 특사 본인이 2025년부터 방첩 조사 대상이었다는 게 사실 아닙니까?
@@ -286,14 +286,14 @@
 090. ELIAS: Then let's discuss mine. You've spent an hour asking who I talk to. Since we're on the subject of who talks to whom, I'd be happy to discuss Halberd Group, Senator.
     일라이어스: 그럼 제 정보원 얘기를 하죠. 의원님은 한 시간 동안 제가 누구와 얘기하는지 물으셨습니다. 누가 누구와 얘기하는지가 주제라면, 할버드 그룹에 대해 기꺼이 말씀드리겠습니다, 의원님.
 
-091. MARSH: Halberd Group?
-    마시: 할버드 그룹이요?
+091. WHITCOMB: Halberd Group?
+    위트컴: 할버드 그룹이요?
 
 092. ELIAS: A risk-consulting firm in Reston, Virginia. On August twenty-fourth, they issued a statement to the Washington Sentinel denying a role in a Brazilian ship charter. Nobody had accused them of anything yet.
     일라이어스: 버지니아 레스턴의 리스크 컨설팅 회사입니다. 8월 24일, 그 회사는 브라질 선박 용선에 관여하지 않았다는 성명을 <워싱턴 센티널>에 냈습니다. 그때까지 아무도 그 회사를 고발한 적이 없었는데요.
 
-093. MARSH: Mr. Chairman? Do you want to pursue this line?
-    마시: 위원장님? 이 질문을 계속하시겠습니까?
+093. WHITCOMB: Mr. Chairman? Do you want to pursue this line?
+    위트컴: 위원장님? 이 질문을 계속하시겠습니까?
 
 094. SAMIRA: One. Two. Three. Four.
     사미라: 하나. 둘. 셋. 넷.
@@ -301,8 +301,8 @@
 095. PRUITT: The committee will stand in recess for fifteen minutes.
     프루잇: 위원회는 15분간 휴회합니다.
 
-096. MARSH: Mr. Chairman, the witness was answering your question.
-    마시: 위원장님, 증인은 위원장님 질문에 답하던 중이었습니다.
+096. WHITCOMB: Mr. Chairman, the witness was answering your question.
+    위트컴: 위원장님, 증인은 위원장님 질문에 답하던 중이었습니다.
 
 097. PRUITT: Fifteen minutes, Senator.
     프루잇: 15분이요, 의원님.
@@ -443,25 +443,25 @@
     프랭크: 밥 안 먹었지? 운전대 소리가 다 들린다.
 
 143. ELIAS: There was a granola bar in the glove box. Did you watch?
-    일라이어스: 글러브박스에 그래놀라 바가 있었어요. 보셨어요?
+    일라이어스: 글러브박스에 그래놀라 바가 있었어. 봤어?
 
-144. FRANK: Mrs. Kowalski and I watched it twice. She thinks Senator Marsh should run for President. I think you did something smart with Welch.
-    프랭크: 코왈스키 부인이랑 두 번 봤다. 부인은 마시 의원이 대통령에 나가야 한대. 난 네가 웰치로 영리한 걸 했다고 본다.
+144. FRANK: Mrs. Kowalski and I watched it twice. She thinks Senator Whitcomb should run for President. I think you did something smart with Welch.
+    프랭크: 코왈스키 부인이랑 두 번 봤다. 부인은 위트컴 의원이 대통령에 나가야 한대. 난 네가 웰치로 영리한 걸 했다고 본다.
 
 145. ELIAS: I didn't ask his question.
-    일라이어스: 그 사람 질문은 안 했어요.
+    일라이어스: 그 사람 질문은 안 했어.
 
 146. FRANK: That's the smart part. Welch's line worked because it was his. Borrow it, and it's just a quotation. You let the room ask it for you.
     프랭크: 그게 영리한 부분이야. 웰치의 그 말이 통한 건 그게 자기 말이어서였어. 빌려 쓰면 그냥 인용이 되지. 넌 그 방이 대신 묻게 놔뒀어.
 
 147. ELIAS: And McCarthy was censured six months later. Not that day.
-    일라이어스: 그리고 매카시는 그날이 아니라 6개월 뒤에 견책받았죠.
+    일라이어스: 그리고 매카시는 그날이 아니라 6개월 뒤에 견책받았지.
 
 148. FRANK: December 1954. The slow road, son. It always takes longer than the speech. Rosie called. She says your fingers stayed still.
     프랭크: 1954년 12월. 느린 길이란다, 아들아. 늘 연설보다 오래 걸려. 로지가 전화했다. 네 손가락이 가만히 있었다더라.
 
 149. ELIAS: They did. Until I got in the car.
-    일라이어스: 가만히 있었죠. 차에 탈 때까지는요.
+    일라이어스: 가만히 있었지. 차에 탈 때까지는.
 
 150. FRANK: Then play it all the way home. Five beats. And eat something real, Elias. That's an order from Dayton.
     프랭크: 그럼 집에 갈 때까지 쳐라. 다섯 박자로. 그리고 제대로 된 걸 먹어, 일라이어스. 데이턴에서 내리는 명령이다.

@@ -73,8 +73,8 @@
 019. ZHOU: He said he was calling as a friend of China, from a consultancy. He said that if Elias Grant appeared in Beijing, he spoke for no one. Anything you promised would be disowned.
     저우: 컨설팅 회사에서, 중국의 친구로서 전화한다고 했대. 일라이어스 그랜트가 베이징에 나타나면, 그 사람은 아무도 대변하지 않는다고. 네가 뭘 약속하든 다 부인될 거라고.
 
-020. ELIAS: Two days ago I was still in Singapore. Nobody knew I was coming.
-    일라이어스: 이틀 전이면 난 아직 싱가포르에 있었어. 내가 온다는 건 아무도 몰랐고.
+020. ELIAS: Two days ago I'd barely left Singapore. Nobody knew I was coming.
+    일라이어스: 이틀 전이면 난 겨우 싱가포르를 떠났을 때야. 내가 온다는 건 아무도 몰랐고.
 
 021. ZHOU: Somebody guessed. And Meng is using it. He says you're a freelancer, and freelancers are either spies or fools.
     저우: 누군가 짐작했지. 그리고 멍 대령이 그걸 써먹고 있어. 넌 프리랜서고, 프리랜서는 스파이 아니면 바보라고.
@@ -343,8 +343,8 @@
 109. ELIAS: I'm sorry I put you in this, Samira. It isn't fair.
     일라이어스: 이런 일에 끌어들여서 미안해요, 사미라. 공정하지 않죠.
 
-110. SAMIRA: Don't be. I'd rather lie for a reason than tell the truth for nobody. Lena's holding until Friday morning. After that, she's a reporter again.
-    사미라: 그러지 마세요. 아무도 위하지 않는 진실보단 이유 있는 거짓말이 나아요. 레나는 금요일 아침까지 묵혀 준대요. 그다음엔 다시 기자고요.
+110. SAMIRA: Don't be. I'd rather lie for a reason than tell the truth for nobody. Lena's holding until Thursday night. After that, she's a reporter again.
+    사미라: 그러지 마세요. 아무도 위하지 않는 진실보단 이유 있는 거짓말이 나아요. 레나는 목요일 밤까지 묵혀 준대요. 그다음엔 다시 기자고요.
 
 111. ELIAS: Tell Tom something. An American called the Chinese embassy two days ago and said I speak for no one. From a Reston number.
     일라이어스: 톰한테 전해 줘요. 이틀 전에 어떤 미국인이 중국 대사관에 전화해서 내가 아무도 대변하지 않는다고 했대요. 레스턴 번호로요.

@@ -10,7 +10,7 @@
 > - 역사 사례: 쿠바 미사일 위기 '첫 번째 편지에 답하고 두 번째는 무시하라' (1962) — 매기가 "넌 내 두 번째 편지는 못 본 척하고 첫 번째에만 답한다"고 쏘아붙이자, 일라이어스는 "케네디가 답한 건 흐루쇼프에게 퇴로를 남긴 편지였다"며 그것을 체면을 지키는 출구로 되돌린다 · 데이턴 협정 (1995) — 프랭크가 박물관에서 로지에게 "3주 만에 해결한 게 아니라 3주 만에 전쟁을 멈춘 것"이라고 바로잡는다. 매기의 진주만·스푸트니크 논리("이 나라는 겁먹어야 움직인다")는 일라이어스가 "진주만은 우리 건물 안에서 꾸며진 게 아니었다"고 반박한다
 > - 전술 태그: [블러핑] [설득] [배신의 결말] [비밀]
 > - 이번 화의 핵심 표현: face-saving / plea deal / first through the door / "History doesn't remember the polite." / "Every crisis I made, you solved." / "I'm recording this." / "Never negotiate on an empty stomach with a full glass." / "There's always a third door."
-> - 복선/연결: 1부 1화 글리니케 엽서(뒷면 "The bridge only works if both sides can walk off it.") · 3부 4화 엄마의 규칙 · 3부 8화 파쇄된 카나리아 사본 · 3부 12화 열람 기록·공용 출입증·피칸 파이 · 10화 프랭크의 감사 카드, '헬싱키 때부터 아껴 둔 술', 레나의 '한 줄' · 11화 케인의 3월 5일 면담 · 3부 11화 앰버 실드(5월) · 1부 12화 "Trust, but verify… Especially at home." · 체스(일라이어스 흑 11수 차례 → 무승부)
+> - 복선/연결: 1부 1화 글리니케 엽서(뒷면 "The bridge only works if both sides can walk off it.") · 3부 4화 엄마의 규칙 · 3부 8화 파쇄된 카나리아 사본 · 3부 12화 열람 기록·공용 출입증·피칸 파이 · 10화 프랭크의 감사 카드, '헬싱키 때부터 아껴 둔 술', 레나의 '한 줄' · 11화 케인의 3월 5일 면담 · 3부 11화 앰버 실드(5월) · 1부 12화 "Trust, but verify… Especially at home." · 체스(7화 일라이어스 흑 11수 → 드미트리의 12수 차례에 무승부 제안·수락)
 
 ---
 
@@ -412,11 +412,11 @@
 132. DMITRI: I don't. I guessed. Ohio, March, a man with a recovered father. Where else would you be?
     드미트리: 몰라. 짐작했지. 오하이오, 3월, 회복한 아버지가 있는 남자. 그럼 어디 있겠어?
 
-133. ELIAS: I owe you a move. My eleventh, I think.
-    일라이어스: 내가 한 수 빚졌지. 열한 번째 수였던 것 같은데.
+133. ELIAS: You owe me a move. Since Washington Square, I think.
+    일라이어스: 네가 한 수 빚졌지. 워싱턴 스퀘어 이후로.
 
-134. DMITRI: You owe me nothing. I'm offering a draw. All these years, one game, and neither of us has lost a piece that mattered.
-    드미트리: 빚진 거 없어. 무승부를 제안할게. 그 오랜 세월 동안 한 판, 그리고 우리 둘 다 중요한 말은 하나도 안 잃었어.
+134. DMITRI: Here it is, then. My move is a draw offer. All these years, one game, and neither of us has lost a piece that mattered.
+    드미트리: 그럼 지금 둘게. 내 수는 무승부 제안이야. 그 오랜 세월 동안 한 판, 그리고 우리 둘 다 중요한 말은 하나도 안 잃었어.
 
 135. ELIAS: You're ahead on the board.
     일라이어스: 판에선 네가 앞서 있잖아.
@@ -440,13 +440,13 @@
     프랭크: 그 러시아 친구냐? 아주 긴 게임에서 막 빠져나온 사람 얼굴이구나.
 
 142. ELIAS: He offered a draw. I took it before he changed his mind.
-    일라이어스: 무승부를 제안했어요. 마음 바꾸기 전에 받았죠.
+    일라이어스: 무승부를 제안했어. 마음 바꾸기 전에 받았지.
 
 143. FRANK: You might have won.
     프랭크: 이길 수도 있었잖니.
 
 144. ELIAS: So might he. That's why it's a draw. Nobody had to lose to walk off the bridge.
-    일라이어스: 그쪽도 그렇죠. 그래서 무승부인 거예요. 다리에서 걸어 내려오려고 누가 질 필요가 없었으니까.
+    일라이어스: 그쪽도 그렇지. 그래서 무승부인 거야. 다리에서 걸어 내려오려고 누가 질 필요가 없었으니까.
 
 145. ROSIE: Dad, can I ask you something without you doing your diplomat face?
     로지: 아빠, 그 외교관 얼굴 안 하고 질문 하나 해도 돼?

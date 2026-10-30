@@ -28,8 +28,8 @@
 004. ELIAS: I'm sorry I worried you.
     일라이어스: 걱정 끼쳐 드려서 죄송합니다.
 
-005. MAGGIE: Don't. You didn't worry me. You surprised me. On Friday morning Beijing announced a joint search for its pilot, under Chinese command, with our Navy assisting.
-    매기: 그러지 마. 걱정한 게 아니라 놀란 거야. 금요일 아침 베이징이 자기네 조종사를 찾는 공동 수색을 발표했어. 중국 지휘, 우리 해군은 지원.
+005. MAGGIE: Don't. You didn't worry me. You surprised me. On Friday morning, Beijing time, China announced a joint search for its pilot, under Chinese command, with our Navy assisting.
+    매기: 그러지 마. 걱정한 게 아니라 놀란 거야. 베이징 시각으로 금요일 아침, 중국이 자기네 조종사를 찾는 공동 수색을 발표했어. 중국 지휘, 우리 해군은 지원.
 
 006. ELIAS: I saw the announcement. It's good news.
     일라이어스: 발표 봤습니다. 좋은 소식이죠.
@@ -334,8 +334,8 @@
 106. SAMIRA: "Very dry this time of year." Who else saw that card?
     사미라: "이맘때 아주 건조하다." 그 카드를 또 누가 봤어요?
 
-107. ELIAS: You, me, Zhou, and a Pakistani ambassador who thought it was a birthday card.
-    일라이어스: 당신, 나, 저우, 그리고 그걸 생일 카드인 줄 알았던 파키스탄 대사.
+107. ELIAS: Tom, me, Zhou, and a Pakistani ambassador who thought it was a birthday card.
+    일라이어스: 톰, 나, 저우, 그리고 그걸 생일 카드인 줄 알았던 파키스탄 대사.
 
 108. TOM: And the one cable I sent from Singapore.
     톰: 그리고 내가 싱가포르에서 보낸 전문 한 건.
@@ -386,25 +386,25 @@
     프랭크: 내 아들이냐? 밥은 먹었니?
 
 124. ELIAS: I'm about to, Dad. A diner on Eighth Avenue. Rosie ordered for me.
-    일라이어스: 이제 먹으려고요, 아빠. 8번가 다이너요. 로지가 대신 시켜 줬어요.
+    일라이어스: 이제 먹으려고, 아빠. 8번가 다이너. 로지가 대신 시켜 줬어.
 
 125. FRANK: Good girl. Julia told me about the lobby. Let me tell you about 1961.
     프랭크: 착하기도 하지. 줄리아한테 로비 얘기 들었다. 1961년 얘기 하나 해 주마.
 
 126. ELIAS: Eisenhower. I already used him yesterday, on a man who deserved it.
-    일라이어스: 아이젠하워요. 어제 벌써 써먹었어요. 그래도 싼 사람한테요.
+    일라이어스: 아이젠하워. 어제 벌써 써먹었어. 그래도 싼 사람한테.
 
 127. FRANK: Then you used the famous part. January 1961, three days before Kennedy. A five-star general goes on television and warns the country about its own weapons business. That's why people listened. He wasn't a peacenik. He'd run D-Day.
     프랭크: 그럼 유명한 대목을 썼겠지. 1961년 1월, 케네디 취임 사흘 전이야. 5성 장군이 텔레비전에 나와서 자기 나라의 무기 사업을 경고한 거다. 그래서 사람들이 들은 거야. 평화주의자가 아니었거든. 노르망디 상륙 작전을 지휘한 사람이었지.
 
 128. ELIAS: And the part people don't quote?
-    일라이어스: 사람들이 인용 안 하는 대목은요?
+    일라이어스: 사람들이 인용 안 하는 대목은?
 
 129. FRANK: The cure. "Only an alert and knowledgeable citizenry" can keep that machine honest. Not a general. Not a hero. Citizens who pay attention, and write things down.
     프랭크: 처방이다. "오직 깨어 있고 아는 시민만이" 그 기계를 정직하게 지킬 수 있다고 했어. 장군도 아니고, 영웅도 아니고. 눈 뜨고 지켜보면서 기록하는 시민들.
 
 130. ELIAS: Write things down. You sound like Julia.
-    일라이어스: 기록하라니. 줄리아처럼 말씀하시네요.
+    일라이어스: 기록하라니. 줄리아처럼 말하네.
 
 131. FRANK: Julia sounds like me. I got to her first, over a very long Thanksgiving. Put my granddaughter back on. We have a nine o'clock arrangement now.
     프랭크: 줄리아가 나처럼 말하는 거다. 아주 긴 추수감사절에 내가 먼저 가르쳤거든. 손녀 다시 바꿔라. 우린 이제 9시 약속이 있어.
