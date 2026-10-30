@@ -22,8 +22,8 @@
 002. ELIAS: Then let's have the news first, State Secretary. The coffee can help afterward.
     일라이어스: 그럼 소식부터 듣죠, 차관님. 커피는 그다음에 도움이 되겠죠.
 
-003. VOGEL: The answer is no. The Federal Government will not release the Russian officer, not for Mr. Lund, not for anyone.
-    포겔: 답은 '안 된다'예요. 연방정부는 그 러시아 장교를 석방하지 않습니다. 룬드 씨를 위해서든, 누구를 위해서든요.
+003. VOGEL: The answer is no. The Federal Government will not release Anatoly Zorin, not for Mr. Lund, not for anyone.
+    포겔: 답은 '안 된다'예요. 연방정부는 아나톨리 조린을 석방하지 않습니다. 룬드 씨를 위해서든, 누구를 위해서든요.
 
 004. SAMIRA: Is that the Chancellery's position, or the Foreign Office's?
     사미라: 그게 총리실 입장인가요, 외무부 입장인가요?

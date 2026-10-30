@@ -49,14 +49,14 @@
 011. TOM: I sent the signal at five-thirty. She acknowledged. She's at the institute, acting normal, which for a scared scientist means counting things very fast.
     톰: 5시 반에 신호 보냈어. 응답했어. 연구소에서 평소처럼 행동하고 있대. 겁먹은 과학자한테 평소처럼이란 건 뭔가를 엄청 빨리 센다는 뜻이지.
 
-012. SAMIRA: There's something else. The language isn't mine, and it isn't yours from the Helsinki draft. It's the version that went to Washington.
-    사미라: 하나 더 있어요. 문구가 제 것도 아니고, 헬싱키 초안의 특사님 문구도 아니에요. 워싱턴으로 간 버전이에요.
+012. SAMIRA: There's something else. The language isn't mine, and it isn't yours from the Berlin draft. It's the version that went to Washington.
+    사미라: 하나 더 있어요. 문구가 제 것도 아니고, 베를린 초안의 특사님 문구도 아니에요. 워싱턴으로 간 버전이에요.
 
 013. ELIAS: How can you tell?
     일라이어스: 어떻게 알아요?
 
-014. SAMIRA: Because in Helsinki we wrote "technical witness." The term sheet Maggie took to the Oval said "technical witness, pending presidential review." That phrase is in the article. Word for word.
-    사미라: 헬싱키에선 우리가 '기술 증인'이라고만 썼거든요. 매기가 대통령 집무실에 가져간 조건서엔 '기술 증인, 대통령 검토 대기 중'이라고 돼 있었고요. 그 문구가 기사에 있어요. 토씨 하나 안 틀리고.
+014. SAMIRA: Because in Berlin we wrote "technical witness." The term sheet Maggie took to the Oval said "technical witness, pending presidential review." That phrase is in the article. Word for word.
+    사미라: 베를린에선 우리가 '기술 증인'이라고만 썼거든요. 매기가 대통령 집무실에 가져간 조건서엔 '기술 증인, 대통령 검토 대기 중'이라고 돼 있었고요. 그 문구가 기사에 있어요. 토씨 하나 안 틀리고.
 
 015. TOM: So it came from the principals list. Great. The list that's supposed to be too short to leak.
     톰: 그러니까 주요 인사 명단에서 나왔다는 거네. 좋아. 너무 짧아서 샐 수가 없다던 그 명단.
@@ -415,14 +415,14 @@
 133. ELIAS: Thank you.
     일라이어스: 고마워요.
 
-134. LENA: Don't thank me. And since you like details, here's one for free. It arrived at eleven-forty last night. Encrypted, as always, signed the way it's always signed.
-    레나: 고마워하지 마세요. 그리고 디테일 좋아하시니까 하나 공짜로 드릴게요. 그건 어젯밤 11시 40분에 왔어요. 늘 그렇듯 암호화돼서, 늘 그렇듯 같은 서명으로요.
+134. LENA: Don't thank me. And since you like details, here's one for free. It arrived at eleven-forty last night. Encrypted, same channel as always, same source.
+    레나: 고마워하지 마세요. 그리고 디테일 좋아하시니까 하나 공짜로 드릴게요. 그건 어젯밤 11시 40분에 왔어요. 늘 그렇듯 암호화돼서, 늘 같은 경로로, 같은 취재원한테서요.
 
 135. ELIAS: ECHO.
     일라이어스: ECHO.
 
-136. LENA: ECHO. And do you want to know what ECHO sent me the very first time, back in January?
-    레나: ECHO. 그리고 ECHO가 1월에 저한테 맨 처음 보낸 게 뭔지 알고 싶으세요?
+136. LENA: My editor's name for them, not mine. Do you want to know what ECHO sent me the very first time, back in January?
+    레나: 그건 편집장이 붙인 이름이지 제가 붙인 게 아니에요. ECHO가 1월에 저한테 맨 처음 보낸 게 뭔지 알고 싶으세요?
 
 137. ELIAS: Tell me.
     일라이어스: 말해 봐요.
