@@ -109,8 +109,8 @@
 031. DMITRI: In Russia, we have a saying. "Doveryai, no proveryai."
     드미트리: 러시아엔 이런 말이 있지. "Доверяй, но проверяй."
 
-032. ELIAS: Trust, but verify. That's two real ones in six hours. I'm worried about you.
-    일라이어스: 믿어라, 그러나 확인하라. 여섯 시간 만에 진짜 속담이 두 개라니. 너 걱정된다.
+032. ELIAS: Trust, but verify. That's two real ones in three hours. I'm worried about you.
+    일라이어스: 믿어라, 그러나 확인하라. 세 시간 만에 진짜 속담이 두 개라니. 너 걱정된다.
 
 033. DMITRI: Your Reagan stole that one from us, you know. He said it to Gorbachev so many times that Gorbachev complained in front of the cameras.
     드미트리: 너희 레이건이 그걸 우리한테서 훔쳐 갔잖아. 고르바초프한테 하도 많이 말해서 고르바초프가 카메라 앞에서 불평까지 했지.
@@ -181,8 +181,8 @@
 055. ELIAS: Then those were the longest forty-one steps of your life, and the last ones you'll ever have to count.
     일라이어스: 그럼 평생 제일 긴 마흔한 걸음이었겠네요. 그리고 다시는 셀 필요 없는 걸음이고요.
 
-056. DMITRI: Elias. My move. Queen to d7. Don't answer by text. Come and lose in person.
-    드미트리: 일라이어스. 내 차례야. 퀸 d7. 문자로 답하지 마. 직접 와서 져.
+056. DMITRI: Elias. My move. Queen to a4. Don't answer by text. Come and lose in person.
+    드미트리: 일라이어스. 내 차례야. 퀸 a4. 문자로 답하지 마. 직접 와서 져.
 
 057. ELIAS: That queen's going to get you in trouble.
     일라이어스: 그 퀸 때문에 곤란해질걸.
@@ -286,8 +286,8 @@
 090. ELIAS: I'll take it. How's Model UN?
     일라이어스: 칭찬으로 들을게. 모의유엔은 어때?
 
-091. ROSIE: I'm Norway next month. I'm going to say "we don't panic, we just get quieter." Everybody will think I'm deep.
-    로지: 다음 달에 노르웨이 대표야. "우린 당황 안 해, 조용해질 뿐이야"라고 할 거야. 다들 내가 깊이 있다고 생각하겠지.
+091. ROSIE: I'm Norway in two weeks. I'm going to say "we don't panic, we just get quieter." Everybody will think I'm deep.
+    로지: 2주 뒤에 노르웨이 대표야. "우린 당황 안 해, 조용해질 뿐이야"라고 할 거야. 다들 내가 깊이 있다고 생각하겠지.
 
 092. ELIAS: Where'd you hear that?
     일라이어스: 그건 어디서 들었어?
@@ -322,8 +322,8 @@
 102. ELIAS: And now?
     일라이어스: 지금은요?
 
-103. YELENA: Now I have five hours and fifty-two minutes of data. It is enough.
-    옐레나: 지금은 5시간 52분 치 데이터가 있어요. 그거면 충분해요.
+103. YELENA: Now I have nine hours and thirty-one minutes of data. It is enough.
+    옐레나: 지금은 9시간 31분 치 데이터가 있어요. 그거면 충분해요.
 
 104. SAMIRA: Is this about the Albatroz Azul?
     사미라: 알바트로스 아줄 얘기인가요?

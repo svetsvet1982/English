@@ -323,37 +323,37 @@
     드미트리: 일라이어스. 3년 만이군. 늙었어. 아니면 몬트리올이 널 캐나다 사람으로 만들었든가. 어느 쪽인지 모르겠네.
 
 103. ELIAS: Dmitri. You haven't changed at all, which I'm told counts as a compliment in this ministry.
-    일라이어스: 드미트리. 하나도 안 변하셨네요. 이 부처에선 그게 칭찬이라고 들었습니다.
+    일라이어스: 드미트리. 하나도 안 변했네. 이 부처에선 그게 칭찬이라며.
 
 104. DMITRI: Sit. Tea. Black, no sugar, as always.
     드미트리: 앉아. 차를 끓였어. 블랙, 설탕 없이. 늘 그렇듯.
 
 105. ELIAS: As always. And the board?
-    일라이어스: 늘 그렇듯. 체스판은요?
+    일라이어스: 늘 그렇듯. 체스판은?
 
 106. DMITRI: Where you left it. I've answered your last move. You'll find my answer a little rude.
     드미트리: 네가 두고 간 자리에. 네 지난 수엔 답해 뒀어. 내 답이 좀 무례하다고 느낄 거야.
 
 107. ELIAS: You play rude when you're winning.
-    일라이어스: 이기고 있다고 생각할 때면 늘 무례하게 두시죠.
+    일라이어스: 넌 이기고 있다고 생각할 때면 늘 무례하게 두잖아.
 
 108. DMITRI: In Russia, we have a saying. "The guest who counts the spoons will not be invited to dinner."
     드미트리: 러시아엔 이런 말이 있지. "숟가락 개수를 세는 손님은 저녁 식사에 초대받지 못한다."
 
 109. ELIAS: That's not a real saying.
-    일라이어스: 그런 속담 없잖아요.
+    일라이어스: 그런 속담 없잖아.
 
 110. DMITRI: It is now. And you are counting my spoons, Elias. You went to Lefortovo this morning.
     드미트리: 이제 생겼어. 그리고 넌 지금 내 숟가락을 세고 있어, 일라이어스. 오늘 아침 레포르토보에 갔더군.
 
 111. ELIAS: I visited an American citizen who's lost a lot of weight and hasn't been allowed to call his wife in twelve days.
-    일라이어스: 살이 많이 빠졌고 12일 동안 아내한테 전화 한 통 못 한 미국 시민을 면회했죠.
+    일라이어스: 살이 많이 빠졌고 12일 동안 아내한테 전화 한 통 못 한 미국 시민을 면회했지.
 
 112. DMITRI: He has called no one because he is a spy. Spies are not usually given phone plans.
     드미트리: 아무한테도 전화 못 한 건 간첩이니까. 간첩한테 휴대폰 요금제를 주진 않잖아.
 
 113. ELIAS: He repairs sonar equipment for a living. If he's a spy, he's the first one in history who sends an invoice.
-    일라이어스: 그 사람 직업은 소나 장비 수리예요. 그가 간첩이라면 역사상 처음으로 청구서를 보내는 간첩이겠네요.
+    일라이어스: 그 사람 직업은 소나 장비 수리야. 그가 간첩이라면 역사상 처음으로 청구서를 보내는 간첩이겠네.
 
 114. DMITRI: Let me show you something. A short film. Peter Lund, in his own words.
     드미트리: 뭐 하나 보여 주지. 짧은 영화야. 피터 룬드, 본인의 육성으로.
@@ -362,79 +362,79 @@
     피터: 제 이름은 피터 룬드입니다. 저는 미국 정보기관의 요청으로 북방함대 함정의 음향 데이터를 수집했습니다. 제 행동을 깊이 후회합니다.
 
 116. ELIAS: He's reading. Watch his eyes move. This morning he told me he couldn't read the statement they handed him.
-    일라이어스: 읽고 있잖아요. 눈이 움직이는 거 보세요. 오늘 아침에 받은 진술서를 못 읽었다고 저한테 말했어요.
+    일라이어스: 읽고 있잖아. 눈이 움직이는 거 봐. 오늘 아침에 받은 진술서를 못 읽었다고 나한테 말했어.
 
 117. DMITRI: Then he reads very well for a blind man. Here is the situation. This video is ready for Channel One. Tonight, tomorrow, next week — that depends on you.
     드미트리: 그럼 장님치곤 아주 잘 읽는군. 상황은 이래. 이 영상은 제1채널에 나갈 준비가 다 됐어. 오늘 밤이냐, 내일이냐, 다음 주냐는 너한테 달렸고.
 
 118. ELIAS: On me.
-    일라이어스: 저한테요.
+    일라이어스: 나한테.
 
 119. DMITRI: On the German matter. In Helsinki you told me it was possible. I have waited five days for "possible" to become "arranged." If it hasn't by Monday, millions of Russians will watch an American saboteur apologize over dinner.
     드미트리: 독일 건에. 헬싱키에서 넌 가능하다고 했지. '가능하다'가 '성사됐다'로 바뀌길 닷새를 기다렸어. 월요일까지 안 되면, 러시아인 수백만 명이 저녁 먹으면서 미국인 파괴공작원이 사과하는 걸 보게 될 거야.
 
 120. ELIAS: You're threatening me with a hostage video. That's beneath you, Dmitri.
-    일라이어스: 인질 영상으로 저를 협박하시는 거군요. 당신답지 않아요, 드미트리.
+    일라이어스: 인질 영상으로 날 협박하는 거야? 너답지 않아, 드미트리.
 
 121. DMITRI: Nothing is beneath me when every Western newspaper calls my country a pirate. We cut nothing, you prove nothing, and yet everyone simply knows we did it.
     드미트리: 서방 신문마다 우리나라를 해적이라고 부르는 판에 나답지 않은 건 없어. 우린 아무것도 안 잘랐고 너희는 아무것도 증명 못 했는데, 다들 그냥 우리가 했다고 '알고' 있지.
 
 122. ELIAS: If Russia really didn't cut those cables, then airing a forced confession is the fastest way to make sure nobody ever believes you.
-    일라이어스: 러시아가 정말 그 케이블을 안 잘랐다면, 강요된 자백을 방송하는 건 아무도 당신 말을 안 믿게 만드는 지름길이에요.
+    일라이어스: 러시아가 정말 그 케이블을 안 잘랐다면, 강요된 자백을 방송하는 건 아무도 너희 말을 안 믿게 만드는 지름길이야.
 
 123. DMITRI: Believe? Please. Your country taught us how this works. May 1960. Our missile brings down an American plane near Sverdlovsk, and what does Washington say? A weather plane. NASA. A pilot who had trouble with his oxygen and drifted off course.
     드미트리: 믿는다고? 제발. 이게 어떻게 돌아가는지 가르쳐 준 게 너희 나라야. 1960년 5월. 우리 미사일이 스베르들롭스크 근처에서 미국 비행기를 떨어뜨렸지. 워싱턴이 뭐라고 했더라? 기상관측기. NASA. 산소 장치에 문제가 생겨 항로를 벗어난 조종사.
 
 124. ELIAS: I know the story.
-    일라이어스: 그 얘기 압니다.
+    일라이어스: 그 얘기 알아.
 
 125. DMITRI: Then you know the ending. Khrushchev waits, and then he shows the world the wreckage, the camera, the film, and the pilot, alive. Americans lie, Elias. You simply lie with better press releases.
     드미트리: 그럼 결말도 알겠군. 흐루쇼프는 기다렸다가 전 세계에 잔해, 카메라, 필름, 그리고 살아 있는 조종사를 보여 줬어. 미국인은 거짓말을 해, 일라이어스. 보도자료가 더 근사할 뿐이지.
 
 126. ELIAS: You're leaving out the part that matters. Eisenhower stood up and took responsibility. An American president admitted, in public, that we'd been flying over your country and lying about it.
-    일라이어스: 제일 중요한 부분을 빼셨네요. 아이젠하워는 나서서 책임을 졌어요. 미국 대통령이 우리가 당신네 나라 상공을 비행했고 그걸 두고 거짓말했다는 걸 공개적으로 인정했다고요.
+    일라이어스: 제일 중요한 부분을 뺐네. 아이젠하워는 나서서 책임을 졌어. 미국 대통령이 우리가 너희 나라 상공을 비행했고 그걸 두고 거짓말했다는 걸 공개적으로 인정했다고.
 
 127. DMITRI: And the Paris summit collapsed a few days later. Honesty cost him everything.
     드미트리: 그리고 며칠 뒤 파리 정상회담이 무너졌지. 정직이 그에게서 모든 걸 앗아 갔어.
 
 128. ELIAS: It cost him a summit. And right now, Dmitri, you're the one holding a confession you know was staged. That makes you the weather plane, and I'd hate to watch you wait for Khrushchev.
-    일라이어스: 정상회담 하나를 앗아 갔죠. 그리고 지금은요, 드미트리, 연출된 걸 알면서 자백 영상을 쥐고 있는 쪽이 당신이에요. 그럼 당신이 그 기상관측기인 거죠. 당신이 흐루쇼프를 기다리는 꼴은 보고 싶지 않네요.
+    일라이어스: 정상회담 하나를 앗아 갔지. 그리고 지금은, 드미트리, 연출된 걸 알면서 자백 영상을 쥐고 있는 쪽이 너야. 그럼 네가 그 기상관측기인 거지. 네가 흐루쇼프를 기다리는 꼴은 보고 싶지 않아.
 
 129. DMITRI: Clever. But clever is not Monday.
     드미트리: 영리하군. 하지만 영리하다고 월요일이 바뀌진 않아.
 
 130. ELIAS: What would it take for that video to stay in your drawer until Berlin gives me an answer?
-    일라이어스: 베를린이 답을 줄 때까지 그 영상이 서랍에 있으려면 뭐가 필요할까요?
+    일라이어스: 베를린이 답을 줄 때까지 그 영상이 서랍에 있으려면 뭐가 필요해?
 
 131. DMITRI: A sign. Not a promise — I'm not a fool. A sign that Berlin is actually listening, and that this back channel isn't another American "possible."
     드미트리: 신호. 약속 말고. 난 바보가 아니야. 베를린이 정말 듣고 있다는 신호, 그리고 이 비공식 채널이 또 하나의 미국식 '가능하다'가 아니라는 신호.
 
 132. ELIAS: Berlin is reviewing it at a senior level. That's as much as I can say today.
-    일라이어스: 베를린이 고위급에서 검토하고 있어요. 오늘 말씀드릴 수 있는 건 거기까지입니다.
+    일라이어스: 베를린이 고위급에서 검토하고 있어. 오늘 말할 수 있는 건 거기까지야.
 
 133. DMITRI: Reviewing. You know, I read many American documents, Elias. And I have a feeling that Berlin is a ceiling you may reach, not a floor you're standing on.
     드미트리: 검토라. 있잖아, 난 미국 문서를 많이 읽어, 일라이어스. 그리고 내 느낌엔 베를린은 너희가 닿을 수도 있는 천장이지, 딛고 선 바닥은 아닌 것 같은데.
 
 134. ELIAS: Where did you hear that?
-    일라이어스: 그 말 어디서 들으셨어요?
+    일라이어스: 그 말 어디서 들었어?
 
 135. DMITRI: Hear what? It's just English. You people have so many expressions about floors and ceilings.
     드미트리: 뭘? 그냥 영어잖아. 너희는 바닥이니 천장이니 하는 표현이 참 많아.
 
 136. ELIAS: It's a nice line. I'd love to know who taught it to you.
-    일라이어스: 좋은 문장이네요. 누가 가르쳐 줬는지 정말 알고 싶군요.
+    일라이어스: 좋은 문장이네. 누가 가르쳐 줬는지 정말 알고 싶군.
 
 137. DMITRI: In Russia, we have a saying. "Don't ask the river where it got its water."
     드미트리: 러시아엔 이런 말이 있지. "강한테 물을 어디서 얻었냐고 묻지 마라."
 
 138. ELIAS: That's not a real saying either.
-    일라이어스: 그것도 없는 속담이잖아요.
+    일라이어스: 그것도 없는 속담이잖아.
 
 139. DMITRI: It is now. Until Berlin answers, then, Elias. Not because of your sign. Because I like you. Go home and find out who in your house writes so beautifully.
     드미트리: 이제 생겼어. 그럼 베를린이 답할 때까지야, 일라이어스. 네 신호 때문이 아니야. 내가 널 좋아해서야. 돌아가서 너희 집에 누가 그렇게 글을 아름답게 쓰는지 알아봐.
 
 140. ELIAS: I'll answer your rude move by mail.
-    일라이어스: 그 무례한 수엔 우편으로 답하죠.
+    일라이어스: 그 무례한 수엔 우편으로 답할게.
 
 141. TOM: You look like a guy who just lost a chess game in four moves.
     톰: 체스 네 수 만에 진 사람 얼굴인데.

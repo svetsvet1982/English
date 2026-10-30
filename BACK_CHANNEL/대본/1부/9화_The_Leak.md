@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 9화 · 서사 기능: 타결 직전의 붕괴 · ECHO의 재등장 · 기자와의 첫 정면 대결
-> - 배경: 헬싱키 호텔 스위트(2028년 3월 2일 목요일 새벽 6시) → 같은 호텔 로비, 드미트리(아침 7시) → 워싱턴 국무장관 집무실(같은 날 오후, TV로 프루잇 기자회견) → 포기 바텀의 다이너 Lou's(같은 날 밤 10시) → Lou's 밖, 로지와의 전화(밤 11시)
+> - 배경: 헬싱키 호텔 스위트(2028년 3월 2일 목요일 아침 8시) → 같은 호텔 로비, 드미트리(오전 9시) → 워싱턴 국무장관 집무실(같은 날 오후, TV로 프루잇 기자회견) → 포기 바텀의 다이너 Lou's(같은 날 밤 10시) → Lou's 밖, 로지와의 전화(밤 11시)
 > - 등장인물: 일라이어스 그랜트, 사미라 하다드, 톰 레예스, 드미트리 소콜로프, 로버트 캘러웨이 국무장관, 매기 홀러웨이, 데일 프루잇 상원의원(TV), 레나 보스, 로지 그랜트(전화)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 치머만 전보 (1917) — 레나가 "유출이 민주주의를 깨웠다"며 자기 기사를 변호하자, 일라이어스가 영국이 출처를 숨기려고 '멕시코에서 훔쳤다'는 연막을 친 사실을 들어 "진짜 문서도 누군가의 목적에 쓰인다"고 반박한다
@@ -16,8 +16,8 @@
 
 ## 대본
 
-001. SAMIRA: Elias, wake up. It's six a.m. and we're on the front page of the Sentinel.
-    사미라: 일라이어스, 일어나요. 새벽 6시인데 우리가 <센티널> 1면에 실렸어요.
+001. SAMIRA: Elias, wake up. It's eight a.m. and we're on the front page of the Sentinel.
+    사미라: 일라이어스, 일어나요. 아침 8시인데 우리가 <센티널> 1면에 실렸어요.
 
 002. ELIAS: We? Who's we?
     일라이어스: 우리? 우리가 누군데요?
@@ -46,8 +46,8 @@
 010. ELIAS: Has anyone reached Yelena?
     일라이어스: 옐레나랑 연락된 사람 있어요?
 
-011. TOM: I sent the signal at five-thirty. She acknowledged. She's at the institute, acting normal, which for a scared scientist means counting things very fast.
-    톰: 5시 반에 신호 보냈어. 응답했어. 연구소에서 평소처럼 행동하고 있대. 겁먹은 과학자한테 평소처럼이란 건 뭔가를 엄청 빨리 센다는 뜻이지.
+011. TOM: I sent the signal at seven-forty. She acknowledged. She's at the institute, acting normal, which for a scared scientist means counting things very fast.
+    톰: 7시 40분에 신호 보냈어. 응답했어. 연구소에서 평소처럼 행동하고 있대. 겁먹은 과학자한테 평소처럼이란 건 뭔가를 엄청 빨리 센다는 뜻이지.
 
 012. SAMIRA: There's something else. The language isn't mine, and it isn't yours from the Berlin draft. It's the version that went to Washington.
     사미라: 하나 더 있어요. 문구가 제 것도 아니고, 베를린 초안의 특사님 문구도 아니에요. 워싱턴으로 간 버전이에요.
@@ -73,20 +73,20 @@
 019. TOM: Dmitri's car just pulled up downstairs. He's not alone, and he's not smiling.
     톰: 드미트리 차가 방금 아래에 섰어. 혼자가 아니고, 웃고 있지도 않아.
 
-020. ELIAS: Has he ever smiled before nine?
-    일라이어스: 그 사람이 9시 전에 웃은 적이 있긴 해요?
+020. ELIAS: Has he ever smiled before noon?
+    일라이어스: 그 사람이 정오 전에 웃은 적이 있긴 해요?
 
 021. TOM: Once. In 2024. Somebody else's ambassador got expelled.
     톰: 한 번. 2024년에. 다른 나라 대사가 추방됐을 때.
 
-022. SAMIRA: Washington is already calling. The Secretary's office wants you on a plane by nine.
-    사미라: 워싱턴에서 벌써 전화 와요. 장관실에서 9시까지 비행기에 타래요.
+022. SAMIRA: Washington is already calling. The Secretary's office wants you on a plane by ten.
+    사미라: 워싱턴에서 벌써 전화 와요. 장관실에서 10시까지 비행기에 타래요.
 
 023. ELIAS: Tell them I'll be on it. After I talk to Dmitri.
     일라이어스: 탄다고 해요. 드미트리랑 얘기한 다음에.
 
-024. SAMIRA: Elias, the Secretary said "by nine," not "by nine, unless."
-    사미라: 일라이어스, 장관님은 '9시까지'라고 하셨어요. '9시까지, 단 무엇무엇이면 예외'가 아니라.
+024. SAMIRA: Elias, the Secretary said "by ten," not "by ten, unless."
+    사미라: 일라이어스, 장관님은 '10시까지'라고 하셨어요. '10시까지, 단 무엇무엇이면 예외'가 아니라.
 
 025. ELIAS: Then I'll talk fast. Tom, get Yelena's extraction plan out of the drawer. Not to use it. Just to dust it off.
     일라이어스: 그럼 빨리 말하죠. 톰, 옐레나 탈출 계획 서랍에서 꺼내 놔요. 쓰자는 게 아니라 먼지만 털어 두라고.
@@ -97,8 +97,8 @@
 027. SAMIRA: And me?
     사미라: 저는요?
 
-028. ELIAS: Start a list. Every person on that distribution, and exactly when they got the document. I want to know who had it at eleven-forty last night.
-    일라이어스: 명단 만들어요. 그 배포 명단에 있는 모든 사람, 그리고 각자 문서를 정확히 언제 받았는지. 어젯밤 11시 40분에 그걸 갖고 있던 사람이 누군지 알고 싶어요.
+028. ELIAS: Start a list. Every person on that distribution, and exactly when they got the document. I want to know who had it last night, before the story went up.
+    일라이어스: 명단 만들어요. 그 배포 명단에 있는 모든 사람, 그리고 각자 문서를 정확히 언제 받았는지. 어젯밤 기사가 올라가기 전에 그걸 갖고 있던 사람이 누군지 알고 싶어요.
 
 029. DMITRI: You came down yourself. Good. I wanted to see your face when I said this.
     드미트리: 직접 내려왔군. 좋아. 이 말을 할 때 네 얼굴을 보고 싶었거든.
@@ -112,8 +112,8 @@
 032. ELIAS: Then what is?
     일라이어스: 그럼 뭔데?
 
-033. DMITRI: At four this morning, my President read in an American newspaper that Russia begged for a seat at an inquiry and agreed to bury a confession. Begged, Elias. That's the word your newspaper used.
-    드미트리: 오늘 새벽 4시에 우리 대통령이 미국 신문에서 러시아가 조사 자리를 구걸했고 자백 영상을 묻는 데 동의했다는 걸 읽었어. 구걸, 일라이어스. 너희 신문이 쓴 단어야.
+033. DMITRI: An hour ago, my President read in an American newspaper that Russia begged for a seat at an inquiry and agreed to bury a confession. Begged, Elias. That's the word your newspaper used.
+    드미트리: 한 시간 전에 우리 대통령이 미국 신문에서 러시아가 조사 자리를 구걸했고 자백 영상을 묻는 데 동의했다는 걸 읽었어. 구걸, 일라이어스. 너희 신문이 쓴 단어야.
 
 034. ELIAS: That's not what happened, and you know it. You set the conditions. I accepted them.
     일라이어스: 그런 일 없었다는 거 너도 알잖아. 조건은 네가 걸었고, 난 받아들였어.
@@ -268,8 +268,8 @@
 084. LENA: How did you know that's what I order?
     레나: 제가 그거 시키는 건 어떻게 아셨어요?
 
-085. ELIAS: You've been in here twice this month. Lou has a long memory and a short list of friends.
-    일라이어스: 이번 달에 여기 두 번 왔잖아요. 루는 기억력이 길고 친구 목록이 짧아요.
+085. ELIAS: You've been in here twice in the past month. Lou has a long memory and a short list of friends.
+    일라이어스: 지난 한 달 사이에 여기 두 번 왔잖아요. 루는 기억력이 길고 친구 목록이 짧아요.
 
 086. LOU: What kind of pie?
     루: 무슨 파이로?
@@ -322,8 +322,8 @@
 102. LENA: My source told me that detail was already known in Moscow. That it put no one at risk who wasn't already at risk.
     레나: 제 취재원 말로는 그 내용은 모스크바에서 이미 알려져 있었대요. 원래 위험하지 않던 사람을 위험하게 만드는 건 아니라고요.
 
-103. ELIAS: Your source lied to you. Moscow had no idea until six o'clock this morning.
-    일라이어스: 취재원이 거짓말한 거예요. 모스크바는 오늘 아침 6시까지 전혀 몰랐어요.
+103. ELIAS: Your source lied to you. Moscow had no idea until your story ran this morning.
+    일라이어스: 취재원이 거짓말한 거예요. 모스크바는 오늘 아침 당신 기사가 나오기 전까지 전혀 몰랐어요.
 
 104. LENA: You'd say that either way.
     레나: 어느 쪽이든 그렇게 말씀하시겠죠.
@@ -334,8 +334,8 @@
 106. LENA: You're assuming my source wanted the deal dead. Maybe they just wanted it honest.
     레나: 제 취재원이 거래를 죽이고 싶어 했다고 가정하시는군요. 그냥 정직하길 바랐을 수도 있잖아요.
 
-107. ELIAS: An honest source leaks to stop a lie. This one leaked twelve hours before a signature. What worries me is the timing, not the truth.
-    일라이어스: 정직한 취재원은 거짓을 막으려고 흘려요. 이 사람은 서명 열두 시간 전에 흘렸어요. 내가 걱정하는 건 진실이 아니라 타이밍이에요.
+107. ELIAS: An honest source leaks to stop a lie. This one leaked a day before a signature. What worries me is the timing, not the truth.
+    일라이어스: 정직한 취재원은 거짓을 막으려고 흘려요. 이 사람은 서명 하루 전에 흘렸어요. 내가 걱정하는 건 진실이 아니라 타이밍이에요.
 
 108. LENA: Leaks have always had bad timing for the people in power. In 1917, a leaked telegram woke this whole country up. Nobody complains about Zimmermann's timing.
     레나: 유출은 권력자들한테 늘 타이밍이 나빴어요. 1917년엔 유출된 전보 하나가 이 나라 전체를 깨웠죠. 치머만 전보 타이밍을 불평하는 사람은 없잖아요.

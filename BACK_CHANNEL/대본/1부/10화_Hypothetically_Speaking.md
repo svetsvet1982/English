@@ -28,8 +28,8 @@
 004. SAMIRA: You're going to use Captain Pike. Now.
     사미라: 파이크 대위를 쓰시려는 거네요. 지금.
 
-005. ELIAS: That was the deal. For two weeks, everything he puts in that drop, I write. I'm about to write something.
-    일라이어스: 그게 거래였잖아요. 2주 동안 그가 드롭에 넣는 건 전부 내가 쓴다. 이제 뭘 좀 써야겠어요.
+005. ELIAS: That was the deal. Until Lund is home, everything he puts in that drop, I write. I'm about to write something.
+    일라이어스: 그게 거래였잖아요. 룬드가 집에 올 때까지 그가 드롭에 넣는 건 전부 내가 쓴다. 이제 뭘 좀 써야겠어요.
 
 006. TOM: What's the story?
     톰: 무슨 이야기야?
@@ -125,43 +125,43 @@
     프랭크: 오늘 밤 텔레비전에서 그 딱한 부인을 봤다. 캐런 룬드. 딸이 그린 화산 그림을 들고 있더구나.
 
 037. ELIAS: Molly's science fair. Peter told me to tell her more baking soda. I did.
-    일라이어스: 몰리 과학 경진대회요. 피터가 베이킹소다를 더 넣으라고 전해 달래서 전해 줬어요.
+    일라이어스: 몰리 과학 경진대회. 피터가 베이킹소다를 더 넣으라고 전해 달래서 전해 줬어.
 
 038. FRANK: Did you eat?
     프랭크: 밥은 먹었냐?
 
 039. ELIAS: Vending machine. Peanut butter crackers. Two packs, because it's a crisis.
-    일라이어스: 자판기요. 땅콩버터 크래커. 위기니까 두 봉지.
+    일라이어스: 자판기. 땅콩버터 크래커. 위기니까 두 봉지.
 
 040. FRANK: Rosie would call that a cry for help. Tell me what's wrong. You only call this late when something nearly happened.
     프랭크: 로지가 들으면 구조 요청이라고 하겠다. 뭐가 문제인지 말해 봐. 넌 뭔가 거의 될 뻔했을 때만 이렇게 늦게 전화하잖니.
 
-041. ELIAS: We were twelve hours from a signature, Dad. Then it ended up on the front page, and the other side walked out.
-    일라이어스: 서명까지 열두 시간 남았었어요, 아빠. 그런데 그게 1면에 실렸고, 상대가 걸어 나갔어요.
+041. ELIAS: We were a day from a signature, Dad. Then it ended up on the front page, and the other side walked out.
+    일라이어스: 서명까지 하루 남았었어, 아빠. 그런데 그게 1면에 실렸고, 상대가 걸어 나갔어.
 
 042. FRANK: Ah. Let me tell you about 1986. Reykjavik. Reagan and Gorbachev in a little white house by the sea, and for one weekend they came closer to ending the arms race than anyone before or since.
     프랭크: 아. 1986년 얘기 하나 해 주마. 레이캬비크. 바닷가 작은 흰 집에 레이건과 고르바초프가 있었고, 그 주말 한 번에 둘은 그 전에도 그 뒤에도 누구보다 군비 경쟁을 끝내는 데 가까이 갔지.
 
 043. ELIAS: They talked about getting rid of all ballistic missiles in ten years.
-    일라이어스: 10년 안에 탄도미사일을 전부 없애자는 얘기까지 했죠.
+    일라이어스: 10년 안에 탄도미사일을 전부 없애자는 얘기까지 했지.
 
 044. FRANK: They talked about getting rid of nuclear weapons, period. And it all fell apart over one word. Gorbachev wanted Star Wars research kept in the "laboratory." Reagan wouldn't give it up, and he walked out.
     프랭크: 아예 핵무기를 없애자는 얘기까지 했어. 그런데 전부 단어 하나 때문에 무너졌지. 고르바초프는 스타워즈 연구를 '실험실' 안에만 묶어 두자고 했고, 레이건은 그걸 포기하지 않고 걸어 나갔어.
 
 045. ELIAS: And the newspapers called it a disaster.
-    일라이어스: 그리고 신문들은 그걸 참사라고 불렀고요.
+    일라이어스: 그리고 신문들은 그걸 참사라고 불렀고.
 
 046. FRANK: Most did. But here's what my students never believed. That same evening, Gorbachev went in front of the press and called it a breakthrough. Not a failure. A breakthrough.
     프랭크: 대부분 그랬지. 그런데 내 학생들이 절대 안 믿던 게 이거야. 바로 그날 저녁, 고르바초프는 기자들 앞에 서서 그걸 돌파구라고 불렀어. 실패가 아니라. 돌파구라고.
 
 047. ELIAS: He gave himself a way back.
-    일라이어스: 돌아올 길을 스스로 만든 거네요.
+    일라이어스: 돌아올 길을 스스로 만든 거네.
 
 048. FRANK: He gave both of them one. And fourteen months later they signed a real treaty. Remember that, son. A man who walks out isn't always leaving. Sometimes he's just looking for a better door to come back through.
     프랭크: 둘 다한테 만들어 준 거지. 그리고 14개월 뒤에 진짜 조약에 서명했어. 기억해라, 아들아. 걸어 나간 사람이 늘 떠나는 건 아니야. 때로는 다시 들어올 더 나은 문을 찾는 중일 뿐이지.
 
 049. ELIAS: That sounds like something I say.
-    일라이어스: 그거 제가 하는 말 같은데요.
+    일라이어스: 그거 내가 하는 말 같은데.
 
 050. FRANK: Where do you think you got it? Now eat a vegetable.
     프랭크: 그게 어디서 왔겠냐? 이제 채소 좀 먹어라.
@@ -379,11 +379,11 @@
 121. DMITRI: No. That one is just true. Your move.
     드미트리: 아니. 그건 그냥 사실이야. 네 차례.
 
-122. ELIAS: Rook to d1.
-    일라이어스: 룩 d1.
+122. ELIAS: Queen to b6.
+    일라이어스: 퀸 b6.
 
-123. DMITRI: Hmm. You're aiming at my queen. Bishop to g4. Let's see who blinks first.
-    드미트리: 흠. 내 퀸을 노리는군. 비숍 g4. 누가 먼저 눈을 깜빡이나 보자고.
+123. DMITRI: Hmm. You're aiming at my queen. Bishop to g5. Let's see who blinks first.
+    드미트리: 흠. 내 퀸을 노리는군. 비숍 g5. 누가 먼저 눈을 깜빡이나 보자고.
 
 124. ELIAS: One more thing. Whatever's in yesterday's document, the people who wrote the original leak are still out there.
     일라이어스: 하나 더. 어제 문서에 뭐가 들었든, 원래 유출을 만든 사람들은 아직 밖에 있어.
@@ -394,8 +394,8 @@
 126. ELIAS: Maybe. Which is why only a handful of people will know where we're meeting on Tuesday.
     일라이어스: 아마도. 그래서 화요일에 우리가 어디서 만나는지는 극소수만 알게 될 거야.
 
-127. DMITRI: You said "a few people" last time, Elias. Then twelve hours later, I read my own conditions over breakfast.
-    드미트리: 지난번에도 '몇 명'이라고 했지, 일라이어스. 그리고 열두 시간 뒤에 난 아침 먹으면서 내 조건을 신문으로 읽었어.
+127. DMITRI: You said "a few people" last time, Elias. Then a day later, I read my own conditions over breakfast.
+    드미트리: 지난번에도 '몇 명'이라고 했지, 일라이어스. 그리고 하루 뒤에 난 아침 먹으면서 내 조건을 신문으로 읽었어.
 
 128. ELIAS: I remember.
     일라이어스: 기억해.

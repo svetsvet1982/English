@@ -23,7 +23,7 @@
     톰: 더 내려가. 동쪽으로 50킬로 가면 검문소인데, 새벽엔 영하 30도는 될 거야.
 
 003. ELIAS: Is this room clean?
-    일라이어스: 이 방 깨끗해요?
+    일라이어스: 이 방 깨끗해?
 
 004. TOM: I swept it twice. The only thing listening in here is a reindeer head on the wall, and I checked his ears.
     톰: 두 번 훑었어. 여기서 엿듣는 건 벽에 걸린 순록 머리뿐인데, 그 녀석 귀까지 확인했지.
@@ -55,8 +55,8 @@
 013. ELIAS: Always.
     일라이어스: 언제든지요.
 
-014. SAMIRA: After what happened with the terms last week, I've started a list — every leak, the time it hit, and every person who'd been in the room beforehand.
-    사미라: 지난주에 협상 조건이 새어 나간 뒤로 목록을 만들기 시작했어요. 유출 하나하나, 터진 시각, 그리고 그 전에 그 방에 있었던 사람 전부요.
+014. SAMIRA: Since the terms leaked last week, I've kept adding to my list — every leak, the time it hit, and every person who'd been in the room beforehand.
+    사미라: 지난주에 협상 조건이 새어 나간 뒤로 그 목록에 계속 보태고 있어요. 유출 하나하나, 터진 시각, 그리고 그 전에 그 방에 있었던 사람 전부요.
 
 015. TOM: You're building a suspect list on a government laptop. Bold.
     톰: 정부 노트북으로 용의자 명단을 만든다고? 대담한데.
@@ -134,10 +134,10 @@
     톰: 나 왔어. 둘 다 왜 초상난 얼굴이야?
 
 040. ELIAS: Nobody's died yet. Tom, get me the back channel to Sokolov. Now, please.
-    일라이어스: 아직 아무도 안 죽었어요. 톰, 소콜로프한테 가는 비공식 채널 연결해 줘요. 지금 당장요.
+    일라이어스: 아직 아무도 안 죽었어. 톰, 소콜로프한테 가는 비공식 채널 연결해 줘. 지금 당장.
 
-041. DMITRI: Elias. It's past midnight in Murmansk, and I was enjoying the first quiet hour of my week.
-    드미트리: 일라이어스. 무르만스크는 자정이 넘었어. 이번 주 들어 처음으로 조용한 한 시간을 즐기던 참이었는데.
+041. DMITRI: Elias. It's ten at night in Murmansk, and I was enjoying the first quiet hour of my week.
+    드미트리: 일라이어스. 무르만스크는 밤 10시야. 이번 주 들어 처음으로 조용한 한 시간을 즐기던 참이었는데.
 
 042. ELIAS: Yelena's daughter was taken from a skating rink four hours ago by two men claiming to be from the service.
     일라이어스: 옐레나 딸이 네 시간 전에 스케이트장에서 끌려갔어. '기관'에서 왔다는 남자 둘한테.
@@ -151,7 +151,7 @@
 045. DMITRI: Or somebody in your house wants me to look weak the night before I hand over an American spy. Forgive me, but I've played chess with you for ten years.
     드미트리: 아니면 너희 집 안에 누군가가, 내가 미국 스파이를 넘기기 전날 밤에 약해 보이길 바라는 거겠지. 미안하지만 너랑 체스를 10년이나 뒀거든.
 
-046. ELIAS: You think we kidnapped a eleven-year-old to embarrass you?
+046. ELIAS: You think we kidnapped an eleven-year-old to embarrass you?
     일라이어스: 너를 망신 주려고 우리가 열한 살짜리를 납치했다고 생각해?
 
 047. DMITRI: I think last week your newspapers printed every term of our agreement before my own minister had read them. Forgive me if my faith in American discipline is a little thin.
@@ -191,7 +191,7 @@
     톰: 두 번째 회선 울린다. 러시아 번호야. 이 번호를 러시아 사람한테 준 적 없는데.
 
 059. ELIAS: Dmitri, stay on. Tom, put it through.
-    일라이어스: 드미트리, 끊지 마. 톰, 연결해요.
+    일라이어스: 드미트리, 끊지 마. 톰, 연결해.
 
 060. GROMOV: Mr. Grant. Colonel Gromov. I believe you have been asking about a little girl.
     그로모프: 그랜트 씨. 그로모프 대령입니다. 어린 여자아이에 대해 묻고 다니신다고 들었습니다만.
@@ -287,7 +287,7 @@
     톰: CIA 역사상 최고의 작전이야. 메흐라바드 공항 정문으로 여섯 명을 데리고 걸어 나왔으니까.
 
 091. ELIAS: The Canadians hid them for three months, Tom. Ottawa issued them real Canadian passports. The Agency's role stayed secret until 1997 — Canada took the credit and the risk.
-    일라이어스: 석 달 동안 숨겨 준 건 캐나다 사람들이에요, 톰. 진짜 캐나다 여권도 오타와가 내줬고요. CIA 역할은 1997년까지 비밀이었어요. 공도 위험도 캐나다가 떠안았죠.
+    일라이어스: 석 달 동안 숨겨 준 건 캐나다 사람들이야, 톰. 진짜 캐나다 여권도 오타와가 내줬고. CIA 역할은 1997년까지 비밀이었어. 공도 위험도 캐나다가 떠안았지.
 
 092. FRANK: Is that your CIA fellow? Tell him the boy's right. But here's the part I want you to hear, son.
     프랭크: 거기 CIA 친구 있니? 우리 아들 말이 맞다고 전해라. 그런데 네가 들었으면 하는 건 이 부분이다, 얘야.
@@ -304,7 +304,7 @@
 096. FRANK: The best cover is one the other side would rather believe. Your colonel needs a story he can live with, not just one you can.
     프랭크: 최고의 위장은 상대가 믿고 싶어지는 위장이지. 네 대령한테는 너만 받아들일 수 있는 이야기가 아니라 그 사람도 안고 살 수 있는 이야기가 필요해.
 
-097. ELIAS: Dad, you just might have saved a eleven-year-old girl from a kitchen in Dayton.
+097. ELIAS: Dad, you just might have saved an eleven-year-old girl from a kitchen in Dayton.
     일라이어스: 아빠, 데이턴 부엌에서 방금 열한 살짜리 여자애를 구했을지도 몰라.
 
 098. FRANK: I'll settle for you eating breakfast. And call Rosie. She saw "Finland" on the news and asked if you'd been exiled again.
@@ -412,8 +412,8 @@
 132. DMITRI: Kilometer six. The ice is singing under the tires. My driver says that's a good sign. I've decided not to ask him what a bad sign sounds like.
     드미트리: 6킬로미터 지점이야. 바퀴 밑에서 얼음이 노래를 해. 기사가 좋은 징조래. 나쁜 징조는 무슨 소리인지 안 묻기로 했어.
 
-133. SAMIRA: It's four ten. He's been on the lake for forty minutes.
-    사미라: 4시 10분이에요. 호수 위에서 40분째예요.
+133. SAMIRA: It's three-ten. He's been on the lake for forty minutes.
+    사미라: 3시 10분이에요. 호수 위에서 40분째예요.
 
 134. DMITRI: Lights ahead. There's a gray Patriot in front of the dacha. I'm going in. Elias, don't hang up.
     드미트리: 앞에 불빛이 보여. 별장 앞에 회색 파트리오트가 서 있어. 들어간다. 일라이어스, 끊지 마.
@@ -448,8 +448,8 @@
 144. SAMIRA: Dr. Markova? She's in the car. She's safe. She's asking for you.
     사미라: 마르코바 박사님? 아이가 차에 탔어요. 무사해요. 엄마 찾고 있어요.
 
-145. YELENA: I counted every minute. Five hours and fifty-two. Mr. Grant, I will never count anything again without thinking of you.
-    옐레나: 1분도 빠짐없이 셌어요. 5시간 52분. 그랜트 씨, 앞으로 뭘 세든 당신 생각이 날 거예요.
+145. YELENA: I counted every minute. Nine hours and thirty-one. Mr. Grant, I will never count anything again without thinking of you.
+    옐레나: 1분도 빠짐없이 셌어요. 9시간 31분. 그랜트 씨, 앞으로 뭘 세든 당신 생각이 날 거예요.
 
 146. DMITRI: Elias. Before you thank me — in Russia, we have a saying. "Doveryai, no proveryai." Trust, but verify.
     드미트리: 일라이어스. 고맙다는 말 하기 전에. 러시아엔 이런 말이 있지. "Доверяй, но проверяй." 믿어라, 그러나 확인하라.

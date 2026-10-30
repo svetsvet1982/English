@@ -10,7 +10,7 @@
 > - 역사 사례: 베노나 프로젝트 (1943–1980, 1995년 공개) — 사미라가 "볼 수 없는 진실은 아무것도 바꾸지 못한다"며 옐레나에게 녹음을 내놓으라고 설득한다. 옐레나가 "매카시의 명단을 만든 프로그램"이라고 왜곡하자 사미라가 바로잡는다. 일라이어스는 1화의 프라이어 석방(1962)을 다시 꺼내 '두 사람, 거래 하나'의 틀을 제시한다
 > - 전술 태그: [설득] [비밀] [거짓말](톰의 '이미 들켰다' 겁주기 제안 — 거부됨) [유출]
 > - 이번 화의 핵심 표현: I am a scientist. I count things. / asset in place / exfiltrate / dead drop / Trust is a budget line, man. / I'll lie to a minister. I won't lie to a mother. / Put yourself in her shoes. / There's always a third door.
-> - 복선/연결: 옐레나의 음향 기록(축 1개·날개 5개의 상업용 측량선, 절단 전 약 3시간씩 위치 유지) → 7화 트롬쇠 분석, 'Albatroz Azul' · 세 번째 문: 망명도 협조자도 아닌 '룬드와 같은 다리로 나가는 승객' → 8화 '과학자 교환'의 씨앗 · 벨루가/범고래 파일 신호 → 11화 · 톰이 알 리 없는 '독일 죄수'를 알고 있음(2부 배신 복선) · 드미트리의 3수 d4와 모스크바 초대 → 5화
+> - 복선/연결: 옐레나의 음향 기록(축 1개·날개 5개의 상업용 측량선, 절단 전 약 3시간씩 위치 유지) → 7화 트롬쇠 분석, 'Albatroz Azul' · 세 번째 문: 망명도 협조자도 아닌 '룬드와 같은 다리로 나가는 승객' → 8화 '과학자 교환'의 씨앗 · 벨루가/범고래 파일 신호 → 6화 · 톰이 알 리 없는 '독일 죄수'를 알고 있음(2부 배신 복선) · 드미트리의 3수 d4와 모스크바 초대 → 5화
 
 ---
 
@@ -352,8 +352,8 @@
 112. YELENA: Then what can you offer?
     옐레나: 그럼 뭘 줄 수 있는데요?
 
-113. ELIAS: A way out that doesn't go through a basement. There's an American in Lefortovo, and sooner or later there'll be a deal for him. When there is, you and Katya are part of it. Together, or not at all.
-    일라이어스: 지하실을 거치지 않는 출구요. 지금 레포르토보에 미국인이 한 명 있고, 조만간 그 사람을 위한 거래가 있을 겁니다. 그때 당신과 카탸도 그 거래에 들어갑니다. 함께가 아니면 아예 안 하는 걸로.
+113. ELIAS: A way out that doesn't go through a basement. There's an American on his way to Lefortovo, and sooner or later there'll be a deal for him. When there is, you and Katya are part of it. Together, or not at all.
+    일라이어스: 지하실을 거치지 않는 출구요. 지금 레포르토보로 이송되는 미국인이 한 명 있고, 조만간 그 사람을 위한 거래가 있을 겁니다. 그때 당신과 카탸도 그 거래에 들어갑니다. 함께가 아니면 아예 안 하는 걸로.
 
 114. YELENA: "Sooner or later." How long is later?
     옐레나: "조만간"이라. 그 '조만간'은 얼마나 길어요?
@@ -442,8 +442,8 @@
 142. SAMIRA: Sorry. The front desk just sent this up. Same handwriting as the Washington card.
     사미라: 죄송해요. 프런트에서 방금 이걸 올려 보냈어요. 워싱턴 카드랑 같은 글씨예요.
 
-143. ELIAS: "Pawn to d4. Your engineer is in Lefortovo. Visiting hours are Thursday. Come and tell me about Berlin in person. D."
-    일라이어스: "폰을 d4로. 너희 엔지니어는 레포르토보에 있다. 면회는 목요일. 직접 와서 베를린 얘기를 해 줘. D."
+143. ELIAS: "Pawn to d4. Your engineer goes to Lefortovo tomorrow. Visiting hours are Thursday. Come and tell me about Berlin in person. D."
+    일라이어스: "폰을 d4로. 너희 엔지니어는 내일 레포르토보로 간다. 면회는 목요일. 직접 와서 베를린 얘기를 해 줘. D."
 
 144. SAMIRA: He said he'd send his third move when Berlin was truly possible.
     사미라: 베를린이 정말 가능해지면 세 번째 수를 보내겠다고 했잖아요.

@@ -116,7 +116,7 @@
     톰: 친구 만나고 있었어. 친구가 전문보다 싸고, 가십도 더 좋아.
 
 034. ELIAS: What did the friend say?
-    일라이어스: 친구가 뭐래요?
+    일라이어스: 친구가 뭐래?
 
 035. TOM: That the Germans voted four to nothing, and that somebody in the Chancellery has a Russian girlfriend who's very interested in German politics. Classic.
     톰: 독일 쪽이 4대 0으로 결정했고, 총리실 누군가한테 독일 정치에 아주 관심 많은 러시아인 여자친구가 있다더라. 전형적이지.
@@ -154,8 +154,8 @@
 046. TOM: Cute. The FSB still says Peter's a saboteur. They've got the confession tape to prove it.
     톰: 귀엽네. FSB는 여전히 피터가 파괴공작원이래. 그걸 증명할 자백 영상도 있고.
 
-047. ELIAS: A confession to what, though? To cutting cables that, as of last week, we know a Brazilian survey ship was sitting on top of?
-    일라이어스: 그런데 뭘 자백했다는 거예요? 지난주에 브라질 측량선이 바로 위에 떠 있었다는 걸 우리가 알게 된 그 케이블을 잘랐다고요?
+047. ELIAS: A confession to what, though? To cutting cables that, as of last month, we know a Brazilian survey ship was sitting on top of?
+    일라이어스: 그런데 뭘 자백했다는 거예요? 지난달에 브라질 측량선이 바로 위에 떠 있었다는 걸 우리가 알게 된 그 케이블을 잘랐다고요?
 
 048. SAMIRA: Albatroz Azul. Which means Russia didn't cut them either.
     사미라: 알바트로스 아줄. 그 말은 러시아도 안 잘랐다는 뜻이에요.
@@ -185,7 +185,7 @@
     톰: 좋아, 그건 천재적이거나, 아니면 사람을 몬트리올로 다시 보내 버리는 종류의 아이디어네.
 
 057. ELIAS: I've done Montreal. The poutine's excellent.
-    일라이어스: 몬트리올은 해 봤어요. 푸틴이 끝내줘요.
+    일라이어스: 몬트리올은 해 봤어. 푸틴이 끝내줘.
 
 058. SAMIRA: Permission to be blunt?
     사미라: 솔직하게 말해도 될까요?
@@ -203,61 +203,61 @@
     톰: 멋진 대사네. 머그컵에 새겨. 그나저나 워싱턴엔 누가 말할 건데?
 
 063. ELIAS: I am. Tonight, from the embassy. But first I need to call a man who knows more about Portsmouth than anyone alive.
-    일라이어스: 내가요. 오늘 밤, 대사관에서. 그 전에 포츠머스에 대해 세상에서 제일 많이 아는 사람한테 전화부터 해야겠어요.
+    일라이어스: 내가. 오늘 밤, 대사관에서. 그 전에 포츠머스에 대해 세상에서 제일 많이 아는 사람한테 전화부터 해야겠어.
 
 064. FRANK: Elias? It's two in the afternoon here. Is something on fire?
     프랭크: 일라이어스? 여긴 오후 2시다. 어디 불이라도 났냐?
 
 065. ELIAS: No fire, Dad. I need a history lesson.
-    일라이어스: 불 안 났어요, 아빠. 역사 수업이 필요해서요.
+    일라이어스: 불 안 났어, 아빠. 역사 수업이 필요해서.
 
 066. FRANK: Did you eat?
     프랭크: 밥은 먹었냐?
 
 067. ELIAS: Hotel schnitzel. It was the size of a manhole cover.
-    일라이어스: 호텔 슈니첼이요. 맨홀 뚜껑만 하던데요.
+    일라이어스: 호텔 슈니첼. 맨홀 뚜껑만 하더라.
 
 068. FRANK: Good. A man shouldn't negotiate on an empty stomach. What's the lesson?
     프랭크: 잘했다. 빈속으로 협상하면 못 쓴다. 무슨 수업인데?
 
 069. ELIAS: 1905. Teddy Roosevelt and the Treaty of Portsmouth. Tell me how he got two empires to stop fighting without either of them admitting it lost.
-    일라이어스: 1905년이요. 테디 루스벨트랑 포츠머스 조약. 두 제국이 서로 졌다고 인정하지 않고 어떻게 싸움을 멈추게 했는지 말해 주세요.
+    일라이어스: 1905년. 테디 루스벨트랑 포츠머스 조약. 두 제국이 서로 졌다고 인정하지 않고 어떻게 싸움을 멈추게 했는지 말해 줘.
 
 070. FRANK: Ah. Let me tell you about 1905. Japan had beaten Russia on land and sunk most of its fleet at Tsushima, but Japan was also nearly broke. Both sides needed out. Neither could ask.
     프랭크: 아. 1905년 얘기 하나 해 주마. 일본은 육지에서 러시아를 이겼고 쓰시마에서 함대 대부분을 가라앉혔지. 그런데 일본도 거의 파산 직전이었어. 둘 다 빠져나가고 싶었는데, 누구도 먼저 말을 못 꺼냈지.
 
 071. ELIAS: So Roosevelt asked for them.
-    일라이어스: 그래서 루스벨트가 대신 말을 꺼냈고요.
+    일라이어스: 그래서 루스벨트가 대신 말을 꺼냈고.
 
 072. FRANK: He invited them. Delegates came to the navy yard at Portsmouth, New Hampshire. And here's the part my students always missed: Roosevelt never once sat in the negotiating room.
     프랭크: 초대했지. 대표단이 뉴햄프셔 포츠머스의 해군 조선소로 왔어. 그리고 내 학생들이 늘 놓치던 부분이 이거야. 루스벨트는 협상장에 단 한 번도 앉지 않았어.
 
 073. ELIAS: You told me that in tenth grade, Dad.
-    일라이어스: 그거 고등학교 1학년 때 해 주신 얘기예요, 아빠.
+    일라이어스: 그거 고등학교 1학년 때 해 준 얘기야, 아빠.
 
 074. FRANK: And you weren't listening then either. Anyway, the sticking point was money. Japan wanted a war indemnity, and Russia's man, Witte, said they'd pay "not a kopek."
     프랭크: 그때도 안 들었잖아. 아무튼 걸림돌은 돈이었다. 일본은 전쟁 배상금을 원했고, 러시아 대표 비테는 "단 1코페이카도" 못 낸다고 했지.
 
 075. ELIAS: And Roosevelt leaned on Tokyo to drop it.
-    일라이어스: 그래서 루스벨트가 도쿄를 압박해서 포기하게 했고요.
+    일라이어스: 그래서 루스벨트가 도쿄를 압박해서 포기하게 했고.
 
 076. FRANK: Leaned, flattered, wrote letters. Japan got the southern half of Sakhalin instead of cash. Russia could go home saying it paid nothing. Japan could go home saying it won territory.
     프랭크: 압박하고, 띄워 주고, 편지도 썼지. 일본은 돈 대신 사할린 남쪽 절반을 얻었어. 러시아는 한 푼도 안 냈다고 말하며 돌아갈 수 있었고, 일본은 땅을 얻었다고 말하며 돌아갈 수 있었지.
 
 077. ELIAS: Two stories, one treaty. Everybody saves face.
-    일라이어스: 이야기는 둘, 조약은 하나. 모두 체면을 지킨 거네요.
+    일라이어스: 이야기는 둘, 조약은 하나. 모두 체면을 지킨 거네.
 
 078. FRANK: And Roosevelt got the Nobel Peace Prize, the first American ever. But don't forget the rest, son. There were riots in Tokyo, and the Koreans, who weren't in that room at all, paid the bill five years later.
     프랭크: 그리고 루스벨트는 노벨 평화상을 받았어. 미국인으로는 처음이었지. 하지만 나머지도 잊지 마라, 아들아. 도쿄에선 폭동이 났고, 그 방에 아예 없었던 한국 사람들이 5년 뒤에 그 값을 치렀어.
 
 079. ELIAS: Japan annexed Korea in 1910. The person who isn't in the room always pays.
-    일라이어스: 일본이 1910년에 한국을 병합했죠. 그 방에 없는 사람이 늘 값을 치르네요.
+    일라이어스: 일본이 1910년에 한국을 병합했지. 그 방에 없는 사람이 늘 값을 치르네.
 
 080. FRANK: Unless somebody in the room remembers them. That's the only part of the job that matters, if you ask me. Rosie says you promised to come to her conference in March.
     프랭크: 그 방에 있는 누군가가 그 사람들을 기억해 주지 않는다면 말이지. 내 생각엔 그게 이 일에서 유일하게 중요한 부분이야. 그리고 로지가 그러던데, 너 3월에 걔 대회 온다고 약속했다며.
 
 081. ELIAS: I did. She's representing Norway, of all countries. I'll be there.
-    일라이어스: 했죠. 하필이면 노르웨이 대표래요. 갈 거예요.
+    일라이어스: 했지. 하필이면 노르웨이 대표래. 갈 거야.
 
 082. FRANK: Don't promise me. Promise her. Then eat something green.
     프랭크: 나한테 약속하지 말고 걔한테 해. 그리고 초록색 좀 먹어라.
@@ -355,11 +355,11 @@
 113. DMITRI: Elias. You look tired. Berlin does that to people. Sit, it's your move. It has been your move for nine days.
     드미트리: 일라이어스. 피곤해 보이네. 베를린이 사람을 그렇게 만들지. 앉아, 네 차례야. 9일째 네 차례였어.
 
-114. ELIAS: Bishop to e3. I've been busy.
-    일라이어스: 비숍 e3. 좀 바빴어.
+114. ELIAS: Bishop to d7. I've been busy.
+    일라이어스: 비숍 d7. 좀 바빴어.
 
-115. DMITRI: Defensive. You've come to tell me the Germans said no. I knew that before you did.
-    드미트리: 수비적이네. 독일이 거절했다고 말하러 왔군. 그건 너보다 내가 먼저 알았어.
+115. DMITRI: Defensive. I'll castle. You've come to tell me the Germans said no. I knew that before you did.
+    드미트리: 수비적이네. 난 캐슬링하지. 독일이 거절했다고 말하러 왔군. 그건 너보다 내가 먼저 알았어.
 
 116. ELIAS: So I heard. Someone in Berlin should be more careful who he dates.
     일라이어스: 그렇다더라. 베를린의 누군가는 연애 상대를 좀 더 조심해야겠어.
@@ -451,8 +451,8 @@
 145. DMITRI: Then in principle, I will recommend it. Signature on Friday, here in Helsinki, if my President doesn't wake up angry.
     드미트리: 그럼 원칙적으로 추천하겠어. 우리 대통령이 기분 나쁘게 일어나지만 않으면, 금요일에 여기 헬싱키에서 서명하지.
 
-146. ELIAS: Friday. Knight takes c6, by the way.
-    일라이어스: 금요일. 아, 그리고 나이트로 c6 잡을게.
+146. ELIAS: Friday. Knight to f6, by the way.
+    일라이어스: 금요일. 아, 그리고 나이트 f6.
 
 147. DMITRI: Ah. Now you're attacking. One more question, Elias. Who else in Washington knows these terms?
     드미트리: 아. 이제야 공격하는군. 질문 하나만 더, 일라이어스. 워싱턴에서 이 조건을 아는 사람이 또 누가 있지?
