@@ -1,9 +1,13 @@
-"""Check episode files: exactly 120 numbered turns 001-120, each followed by a Korean translation line.
+"""Check episode files: exactly 120 numbered turns 001-120 (or N with --turns N), each followed by a Korean translation line.
 Also prints the turn-length mix (words per English line) and flags episodes outside the target mix:
 short <=8 ~25%, medium 9-15 ~35%, longer 16-25 ~25%, long 26-40 ~15%, nothing over 45."""
 import re, sys, pathlib
+args = sys.argv[1:]
+turns = 120
+if args[:1] == ["--turns"]:
+    turns, args = int(args[1]), args[2:]
 bad = 0
-for p in sys.argv[1:]:
+for p in args:
     lines = pathlib.Path(p).read_text(encoding="utf-8").splitlines()
     nums, words = [], []
     for i, l in enumerate(lines):
@@ -13,8 +17,8 @@ for p in sys.argv[1:]:
             nxt = lines[i + 1] if i + 1 < len(lines) else ""
             if not re.match(r"^    \S", nxt) or not re.search(r"[가-힣]", nxt):
                 print(f"{p}: turn {m.group(1)} missing Korean line"); bad += 1
-    if nums != list(range(1, 121)):
-        print(f"{p}: turns {len(nums)}, expected 001-120 in order"); bad += 1
+    if nums != list(range(1, turns + 1)):
+        print(f"{p}: turns {len(nums)}, expected 001-{turns:03d} in order"); bad += 1
         continue
     pct = lambda lo, hi: round(100 * sum(lo <= w <= hi for w in words) / len(words))
     mix = (pct(0, 8), pct(9, 15), pct(16, 25), pct(26, 45))
