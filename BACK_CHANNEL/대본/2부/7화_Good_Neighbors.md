@@ -10,7 +10,7 @@
 > - 역사 사례: 프랭클린 루스벨트의 '선린 정책' (1933) — 일라이어스가 톰에게 '좋은 이웃'의 조건으로 꺼내고, 프랭크가 몬테비데오 회의·아이티 철군·1936년 리우 방문으로 살을 붙인다. 발렌치는 "고무와 비행장을 가지러 온 이웃"이라고 비꼬고, 일라이어스가 "둘 다 사실"이라고 반박한다
 > - 전술 태그: [거짓말] [블러핑] [공갈] [배신의 역이용] [유출]
 > - 이번 화의 핵심 표현: Good fences make good neighbors. / sting / beneficial owner / plausible deniability / You were already playing. I just picked the music. / I'd hate for this to end up on the wrong desk. / Help me help you. / What worries me is…
-> - 복선/연결: 6화에서 드러난 톰의 감시 임무 → 일라이어스가 쫓아내지 않고 역이용 · 미끼 '회계사 오타비우 프라두' · 톰의 보고서(6월 12일 밤 11시 40분) → 46시간 만에 발렌치에게 도달 · 사미라의 목록에 새 항목 · 랭글리 방첩부 배포선 7명 중 3명이 계약직(4부 11화 복선) · "1964년에 우리가 아직 공개 안 한 게 뭔지 찾아요" → 8화
+> - 복선/연결: 6화에서 드러난 톰의 감시 임무 → 일라이어스가 쫓아내지 않고 역이용 · 미끼 '회계사 오타비우 프라두' · 톰의 보고서(6월 12일 밤 11시 40분) → 약 41시간 만에 발렌치가 들이밂(실제로는 그 전날 이미 앎) · 사미라의 목록에 새 항목 · 랭글리 방첩부 배포선 7명 중 3명이 계약직(4부 11화 복선) · "1964년에 우리가 아직 공개 안 한 게 뭔지 찾아요" → 8화
 
 ---
 
@@ -275,7 +275,7 @@
     프랭크: 우리 아들이구나. 거긴 거의 열한 시지? 밥은 먹었니?
 
 087. ELIAS: Half a cow, Dad. I had dinner with a man who's lying to me while I lied to him.
-    일라이어스: 소 반 마리요, 아빠. 나한테 거짓말하는 사람이랑 저녁 먹으면서 나도 거짓말했어.
+    일라이어스: 소 반 마리, 아빠. 나한테 거짓말하는 사람이랑 저녁 먹으면서 나도 거짓말했어.
 
 088. FRANK: Sounds like every faculty meeting I ever sat through. What's the history question tonight?
     프랭크: 내가 앉아 있던 교무회의가 다 그랬지. 오늘 밤 역사 질문은 뭐니?
@@ -311,7 +311,7 @@
     프랭크: 톰이 누구니?
 
 099. ELIAS: A neighbor. Go to bed, Dad. Tell Rosie I'll call Sunday, before her camp.
-    일라이어스: 이웃이요. 주무세요, 아빠. 로지한테 일요일에, 캠프 가기 전에 전화한다고 전해 줘요.
+    일라이어스: 이웃. 이제 자, 아빠. 로지한테 일요일에, 캠프 가기 전에 전화한다고 전해 줘.
 
 100. FRANK: She says you owe her a postcard from every city. She's counting. You're three behind.
     프랭크: 걔가 도시마다 엽서 한 장씩 빚졌다더라. 세고 있대. 넌 세 장 밀렸어.
@@ -364,8 +364,8 @@
 116. VALENTE: Drink. And let me be very clear about why you're here. You came to Brazil to ask us to choose you over the Chinese. You keep forgetting that we have choices.
     발렌치: 드세요. 그리고 왜 여기 오셨는지 분명히 해 두죠. 당신은 중국 대신 미국을 고르라고 하러 브라질에 왔어요. 우리한테도 선택지가 있다는 걸 자꾸 잊으시더군요.
 
-117. ELIAS: Nobody's forgetting Brazil's sovereignty. What I'm asking is whether a man who owns the ship that cut two NATO cables should be picking Brazil's partners for it.
-    일라이어스: 브라질의 주권을 잊은 사람은 없어요. 내가 묻는 건, NATO 케이블 두 가닥을 자른 배의 주인이 브라질 대신 브라질의 파트너를 골라도 되느냐는 거예요.
+117. ELIAS: Nobody's forgetting Brazil's sovereignty. What I'm asking is whether a man who owns the ship that cut two cables in the Norwegian Sea should be picking Brazil's partners for it.
+    일라이어스: 브라질의 주권을 잊은 사람은 없어요. 내가 묻는 건, 노르웨이해 케이블 두 가닥을 자른 배의 주인이 브라질 대신 브라질의 파트너를 골라도 되느냐는 거예요.
 
 118. VALENTE: "Owns." You see? You still have no document. You have a rumor and a ship.
     발렌치: "주인"이라. 보세요. 아직도 문서는 없잖아요. 소문 하나랑 배 한 척뿐이죠.
@@ -442,8 +442,8 @@
 142. TOM: Langley. Counterintelligence, special investigations. I filed it Monday night at eleven-forty from the station. One desk.
     톰: 랭글리. 방첩부 특별조사과. 월요일 밤 11시 40분에 지국에서 보냈어. 책상 하나로.
 
-143. SAMIRA: Monday, eleven-forty in the evening, to Wednesday afternoon. That's about forty-six hours.
-    사미라: 월요일 밤 11시 40분부터 수요일 오후까지. 대략 46시간이네요.
+143. SAMIRA: Monday, eleven-forty in the evening, to Wednesday afternoon. That's about forty-one hours.
+    사미라: 월요일 밤 11시 40분부터 수요일 오후까지. 대략 41시간이네요.
 
 144. TOM: One desk reads it, but a CI case file has a reading list. My handler, his deputy, and an analyst cell. Seven people, and three of them are contractors.
     톰: 읽는 건 책상 하나지만, 방첩부 사건 파일엔 열람 명단이 있어. 내 담당관, 그 부관, 분석팀. 일곱 명이고, 그중 셋은 계약직이야.
@@ -454,8 +454,8 @@
 146. TOM: I don't know. And I've never asked, which right now makes me feel extremely stupid. The people hunting the leaker are leaking, Elias.
     톰: 몰라. 한 번도 안 물어봤어. 지금 생각하니 엄청 멍청한 기분이다. 유출자를 사냥하는 사람들이 새고 있다고, 일라이어스.
 
-147. SAMIRA: New entry. "June twelfth, Otávio Prado. One report, seven readers, forty-six hours to Valente." I'm switching to ink.
-    사미라: 새 항목. "6월 12일, 오타비우 프라두. 보고서 하나, 열람자 일곱, 발렌치까지 46시간." 이제 볼펜으로 쓸게요.
+147. SAMIRA: Number ten. "June twelfth, Otávio Prado. One report, seven readers, forty-one hours to Valente." I'm switching to ink.
+    사미라: 10번. "6월 12일, 오타비우 프라두. 보고서 하나, 열람자 일곱, 발렌치까지 41시간." 이제 볼펜으로 쓸게요.
 
 148. TOM: So what now? You can't send them another report. Everything you say to me goes straight to him.
     톰: 그럼 이제 어떡해? 그쪽에 보고서를 또 보낼 순 없잖아. 네가 나한테 하는 말이 전부 그 사람한테 곧장 가는데.

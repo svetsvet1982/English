@@ -17,7 +17,7 @@
 ## 대본
 
 001. SAMIRA: Elias, open the door. It's me. It can't wait for breakfast.
-    사미라: 일라이어스, 문 열어 주세요. 저예요. 아침 먹을 때까지 못 기다려요.
+    사미라: 특사님, 문 열어 주세요. 저예요. 아침 먹을 때까지 못 기다려요.
 
 002. ELIAS: It's seven in the morning, Samira. Even the parrots outside are still negotiating.
     일라이어스: 아침 7시예요, 사미라. 밖에 앵무새들도 아직 협상 중이에요.
@@ -47,7 +47,7 @@
     일라이어스: 대상. 그랜트, E.
 
 011. SAMIRA: You're the subject, Elias. Not Valente. Not Li Qian. You.
-    사미라: 대상이 당신이에요, 일라이어스. 발렌치도 아니고 리 첸도 아니고. 당신이요.
+    사미라: 대상이 특사님이에요. 발렌치도 아니고 리 첸도 아니고. 특사님이요.
 
 012. ELIAS: Weekly twenty. Twenty weeks ago was the middle of January.
     일라이어스: 주간 20호라. 20주 전이면 1월 중순이네요.
@@ -65,7 +65,7 @@
     일라이어스: 내용 미상이라. 다행이네.
 
 017. SAMIRA: That's what you take from this? He's been reporting on you for five months, and on me, and you're pleased about the list?
-    사미라: 거기서 그게 보여요? 다섯 달 동안 당신을 보고하고, 저까지 보고했는데, 목록 얘기에 다행이라고요?
+    사미라: 거기서 그게 보여요? 다섯 달 동안 특사님을 보고하고, 저까지 보고했는데, 목록 얘기에 다행이라고요?
 
 018. ELIAS: I'm pleased about one thing so I don't throw a chair at the other. There's a difference.
     일라이어스: 하나에 다행이라고 해야 다른 하나 때문에 의자를 안 던지죠. 그 차이예요.
@@ -77,7 +77,7 @@
     일라이어스: 19쪽이랑 20쪽. 발렌치가 준 페이지. 보내지 말라고 했던 그거네요.
 
 021. SAMIRA: He must have shot them out of your bag that night in Minas. You left it in the guesthouse when you went back to the terrace.
-    사미라: 미나스에서 그날 밤 당신 가방에서 꺼내 찍었겠죠. 테라스에 다시 갈 때 가방을 게스트하우스에 두고 갔잖아요.
+    사미라: 미나스에서 그날 밤 특사님 가방에서 꺼내 찍었겠죠. 테라스에 다시 갈 때 가방을 게스트하우스에 두고 갔잖아요.
 
 022. ELIAS: And that same night Tom went off to "walk the perimeter."
     일라이어스: 그리고 바로 그날 밤 톰은 '주변을 돌아보러' 나갔고요.
@@ -89,7 +89,7 @@
     일라이어스: 한 번도 허락 기다린 적 없잖아요.
 
 025. SAMIRA: Send him home today. Call Langley, call the ambassador, call Callaway if you have to. A man who photographs your bag doesn't get to sweep our rooms.
-    사미라: 오늘 돌려보내세요. 랭글리든 대사든 필요하면 캘러웨이든 전화하세요. 당신 가방을 몰래 찍는 사람한테 우리 방 도청 점검을 맡길 순 없어요.
+    사미라: 오늘 돌려보내세요. 랭글리든 대사든 필요하면 캘러웨이든 전화하세요. 특사님 가방을 몰래 찍는 사람한테 우리 방 도청 점검을 맡길 순 없어요.
 
 026. ELIAS: Not yet.
     일라이어스: 아직은 안 돼요.
@@ -110,73 +110,73 @@
     프랭크: 일라이어스? 네가 전화를 다 했네. 넌 먼저 전화하는 법이 없잖니. 밥은 먹었니?
 
 032. ELIAS: Not yet, Dad. Soon. Can I ask you a history question?
-    일라이어스: 아직요, 아빠. 곧 먹을게요. 역사 질문 하나 해도 돼요?
+    일라이어스: 아직, 아빠. 곧 먹을게. 역사 질문 하나 해도 돼?
 
 033. FRANK: That's like asking a dog if he wants to go outside. Go ahead.
     프랭크: 개한테 산책 갈래 묻는 거랑 같지. 물어봐라.
 
 034. ELIAS: What do you do when you find out the people protecting you were also watching you?
-    일라이어스: 나를 지켜 주던 사람들이 사실은 나를 감시하고 있었다는 걸 알게 되면 어떻게 해요?
+    일라이어스: 나를 지켜 주던 사람들이 사실은 나를 감시하고 있었다는 걸 알게 되면 어떻게 해?
 
 035. FRANK: Hmm. That's not a history question, son. That's a Tuesday. But all right. Let me tell you about 1975.
     프랭크: 흠. 그건 역사 질문이 아니라 그냥 평범한 화요일 얘기 같은데. 그래도 좋다. 1975년 얘기 하나 해 주마.
 
 036. ELIAS: The Church Committee.
-    일라이어스: 처치 위원회요.
+    일라이어스: 처치 위원회.
 
 037. FRANK: Frank Church, senator from Idaho. After Watergate, the Senate finally asked what the intelligence agencies had been doing at home. What they found would curl your hair.
     프랭크: 아이다호 출신 프랭크 처치 상원의원. 워터게이트 이후에 상원이 드디어 정보기관들이 나라 안에서 뭘 해 왔는지 물어본 거야. 찾아낸 게 머리털이 곤두설 일들이었지.
 
 038. ELIAS: Remind me anyway. I want the details right before I use them.
-    일라이어스: 그래도 다시 알려 주세요. 써먹기 전에 정확히 알고 싶어요.
+    일라이어스: 그래도 다시 알려 줘. 써먹기 전에 정확히 알고 싶어.
 
 039. FRANK: The CIA had been opening Americans' mail in New York for about twenty years. The NSA had copies of millions of private telegrams, handed over by the cable companies. And the FBI went after Martin Luther King.
     프랭크: CIA가 뉴욕에서 20년 가까이 미국인들 편지를 뜯어봤어. NSA는 전신 회사들이 넘겨준 개인 전보 수백만 통 사본을 갖고 있었고. 그리고 FBI는 마틴 루서 킹을 표적으로 삼았지.
 
 040. ELIAS: And the assassination plots abroad. That was the same committee, wasn't it?
-    일라이어스: 해외 암살 계획도 있었죠. 그것도 같은 위원회였죠?
+    일라이어스: 해외 암살 계획도 있었지. 그것도 같은 위원회였지?
 
 041. FRANK: Castro, Lumumba, others. Church called the CIA a "rogue elephant." Later the committee concluded the elephant mostly went where presidents pointed it. That's almost worse, if you think about it.
     프랭크: 카스트로, 루뭄바, 그 밖에도. 처치는 CIA를 '날뛰는 코끼리'라고 불렀어. 나중에 위원회는 그 코끼리가 대체로 대통령들이 가리키는 데로 갔다고 결론 내렸고. 생각해 보면 그게 더 나쁜 거지.
 
 042. ELIAS: So what did they do about it? Shut it all down?
-    일라이어스: 그래서 어떻게 했어요? 전부 폐쇄했어요?
+    일라이어스: 그래서 어떻게 했어? 전부 폐쇄했어?
 
 043. FRANK: No. That's the lesson. They didn't get rid of the watchmen. They built a committee to watch the watchmen, and in 1978 a law that said even spies need a judge.
     프랭크: 아니. 그게 교훈이야. 감시자들을 없앤 게 아니라, 감시자들을 지켜볼 위원회를 만들었어. 그리고 1978년엔 스파이도 판사가 필요하다는 법을 만들었지.
 
 044. ELIAS: FISA.
-    일라이어스: 해외정보감시법이요.
+    일라이어스: 해외정보감시법.
 
 045. FRANK: FISA. Imperfect, argued about ever since, but it was something. Who's watching you, son?
     프랭크: 그래. 완벽하진 않고 그 뒤로도 내내 논란이었지만, 그래도 뭔가는 된 거야. 누가 널 감시하니, 얘야?
 
 046. ELIAS: I can't say, Dad.
-    일라이어스: 말씀 못 드려요, 아빠.
+    일라이어스: 말 못 해, 아빠.
 
 047. FRANK: Is it somebody you like?
     프랭크: 네가 좋아하는 사람이냐?
 
 048. ELIAS: That's the problem. Yes.
-    일라이어스: 그게 문제예요. 네.
+    일라이어스: 그게 문제야. 응.
 
 049. FRANK: Then don't decide anything while you're angry and hungry. Those are the two worst advisers a man ever had. Go eat.
     프랭크: 그럼 화나고 배고플 때는 아무것도 결정하지 마라. 사람한테 그 둘만큼 나쁜 조언자가 없어. 가서 먹어.
 
 050. ELIAS: Thanks, Dad. I'll call you Sunday, I promise.
-    일라이어스: 고마워요, 아빠. 일요일에 전화할게요, 약속해요.
+    일라이어스: 고마워, 아빠. 일요일에 전화할게, 약속해.
 
 051. FRANK: You say that every week. Rosie says you owe her three postcards, by the way.
     프랭크: 넌 맨날 그 소리다. 그리고 로지가 그러는데 너 엽서 세 장 빚졌다더라.
 
 052. ELIAS: Two. I'll argue that one with her directly.
-    일라이어스: 두 장이에요. 그건 걔랑 직접 따질게요.
+    일라이어스: 두 장이야. 그건 걔랑 직접 따질게.
 
 053. TOM: Noon on a roof in São Luís. You picked the hottest spot in Maranhão for a chat, man.
     톰: 상루이스 옥상에서 정오라니. 마라냥에서 제일 뜨거운 데를 골랐네.
 
 054. ELIAS: It's the one place in this hotel you haven't swept, Tom. I thought you'd appreciate the novelty.
-    일라이어스: 이 호텔에서 당신이 점검 안 한 유일한 곳이잖아요, 톰. 새로운 경험이 반가울 것 같아서요.
+    일라이어스: 이 호텔에서 네가 점검 안 한 유일한 곳이잖아, 톰. 새로운 경험이 반가울 것 같아서.
 
 055. TOM: Okay. That's a weird thing to say. Samira, you look like you're about to testify.
     톰: 좋아. 말이 좀 이상한데. 사미라, 너 증언대에 서려는 사람 같다.
@@ -185,13 +185,13 @@
     사미라: 그럴지도요.
 
 057. ELIAS: Who's KEEPER, Tom?
-    일라이어스: KEEPER가 누구예요, 톰?
+    일라이어스: KEEPER가 누구야, 톰?
 
 058. TOM: Who's what?
     톰: 뭐가 누구라고?
 
 059. ELIAS: KEEPER slash BROTHER. Weekly twenty. Subject, Grant, E. It went to the Counterintelligence Center at six thirty-one this morning, from your phone, while you were swimming laps.
-    일라이어스: KEEPER 슬래시 BROTHER. 주간 20호. 대상, 그랜트, E. 오늘 아침 6시 31분에 당신 휴대폰에서 방첩센터로 갔죠. 당신이 수영하는 동안.
+    일라이어스: KEEPER 슬래시 BROTHER. 주간 20호. 대상, 그랜트, E. 오늘 아침 6시 31분에 네 휴대폰에서 방첩센터로 갔지. 네가 수영하는 동안.
 
 060. TOM: I don't know what you think you saw, but that's a routine contact report. Everybody attached to a station files them. My station chief likes paperwork.
     톰: 뭘 봤다고 생각하는지 모르겠는데, 그건 일상적인 접촉 보고야. 지부에 붙은 사람은 다 써. 우리 지국장이 서류를 좋아하거든.
@@ -203,25 +203,25 @@
     톰: 랭글리는 서류를 이상하게 돌려. 뭐가 어디로 가는지 알면 놀랄걸.
 
 063. ELIAS: Tom, Samira photographed your screen. I've read the whole first page.
-    일라이어스: 톰, 사미라가 당신 화면을 찍었어요. 첫 페이지 전부 읽었어요.
+    일라이어스: 톰, 사미라가 네 화면을 찍었어. 첫 페이지 전부 읽었어.
 
 064. TOM: She did not.
     톰: 안 찍었어.
 
 065. ELIAS: Do you want to bet on it? You like bets. You lost ten dollars to her in March.
-    일라이어스: 내기할래요? 내기 좋아하잖아요. 3월에 사미라한테 10달러 잃었죠.
+    일라이어스: 내기할래? 내기 좋아하잖아. 3월에 사미라한테 10달러 잃었지.
 
 066. TOM: Okay. Okay. Stop. You didn't need a photo. You've got that face, both of you. The face people get when they've already decided.
     톰: 알았어. 알았어. 그만. 사진은 필요 없었겠지. 둘 다 그 표정이네. 이미 결론 내린 사람들 표정.
 
 067. ELIAS: Then tell me the rest, so I don't have to decide on half of it.
-    일라이어스: 그럼 나머지를 말해요. 반쪽만 보고 결정하지 않게.
+    일라이어스: 그럼 나머지를 말해. 반쪽만 보고 결정하지 않게.
 
 068. TOM: You want it straight? On January fifteenth I got a tasking from the Counterintelligence Center. Attach to Elias Grant as field liaison. Assess whether he's ECHO. Report weekly.
     톰: 솔직하게 듣고 싶어? 1월 15일에 방첩센터에서 지시가 내려왔어. 현장 연락관으로 일라이어스 그랜트한테 붙어라. 그가 ECHO인지 평가해라. 매주 보고해라.
 
 069. ELIAS: So Helsinki wasn't a coincidence. The hotel, the church, the "station uses this hotel twice a month."
-    일라이어스: 그럼 헬싱키는 우연이 아니었네요. 그 호텔, 그 교회, "지부가 한 달에 두 번 쓰는 호텔"이라던 것도.
+    일라이어스: 그럼 헬싱키는 우연이 아니었네. 그 호텔, 그 교회, "지부가 한 달에 두 번 쓰는 호텔"이라던 것도.
 
 070. TOM: The station does use that hotel twice a month. I just didn't mention I'd checked in the day before you did.
     톰: 지부가 그 호텔을 한 달에 두 번 쓰는 건 사실이야. 내가 당신보다 하루 먼저 체크인했다는 말을 안 했을 뿐이지.
@@ -233,7 +233,7 @@
     톰: 그랬지. 내가 농담했는데 넌 안 웃었고. 넌 내 농담에 한 번도 안 웃어. 너에 대해선 그게 첫 단서였어야 했는데.
 
 073. ELIAS: Why me? And who asked for it? Somebody always asks.
-    일라이어스: 왜 나예요? 그리고 누가 요청했어요? 요청한 사람은 늘 있잖아요.
+    일라이어스: 왜 나야? 그리고 누가 요청했어? 요청한 사람은 늘 있잖아.
 
 074. TOM: The tasking came with a referral attached. The box that says which agency requested it was blacked out. Clean black bar, like somebody used a ruler.
     톰: 지시서에 요청서가 붙어 있었어. 어느 기관이 요청했는지 적는 칸이 검게 지워져 있었고. 자로 그은 것처럼 깔끔한 검은 줄.
@@ -245,19 +245,19 @@
     톰: 그건 연결 못 했다. 자랑할 일은 아니지.
 
 077. ELIAS: Did you ask who was behind the black bar?
-    일라이어스: 그 검은 줄 뒤에 누가 있는지 물어봤어요?
+    일라이어스: 그 검은 줄 뒤에 누가 있는지 물어봤어?
 
 078. TOM: Once. My handler said it was "above my pay grade," and that I should be flattered they trusted me with a case this sensitive.
     톰: 한 번. 담당관이 그건 "내 급여 등급 위의 일"이라고 하더라. 이렇게 민감한 사건을 맡긴 걸 영광으로 알라고.
 
 079. ELIAS: Were you flattered?
-    일라이어스: 영광이었어요?
+    일라이어스: 영광이었어?
 
 080. TOM: I was thirty-nine and stuck on a desk in Mexico City. Yes, man. I was flattered.
     톰: 난 서른아홉에 멕시코시티 책상에 처박혀 있었어. 그래, 영광이었다.
 
 081. ELIAS: The pages from my bag. Nineteen and twenty. I told you no.
-    일라이어스: 내 가방에 있던 페이지. 19쪽, 20쪽. 안 된다고 했잖아요.
+    일라이어스: 내 가방에 있던 페이지. 19쪽, 20쪽. 안 된다고 했잖아.
 
 082. TOM: You did. And I sent them anyway, because my job was to see what you'd hide. You hid those. That made them the most interesting thing you owned.
     톰: 그랬지. 그래도 보냈어. 내 일은 당신이 뭘 숨기는지 보는 거였으니까. 당신은 그걸 숨겼어. 그러니까 당신 물건 중에 제일 흥미로운 게 된 거지.
@@ -269,7 +269,7 @@
     톰: 진짜래. 랭글리가 이미 갖고 있던 사본이랑 일치한대. 같은 출력 기록, 같은 2시 14분. 근데 관리 번호는 달라. 우리 건 "3부 중 3부"라고 돼 있어.
 
 085. ELIAS: Langley has my sealed inquiry file.
-    일라이어스: 랭글리가 내 봉인된 조사 파일을 갖고 있다고요.
+    일라이어스: 랭글리가 내 봉인된 조사 파일을 갖고 있다고.
 
 086. TOM: It came with the tasking. It's the reason for the tasking. Somebody sent the CIA your file and said, "Watch this man."
     톰: 지시서랑 같이 왔어. 그게 지시의 이유고. 누군가 CIA에 당신 파일을 보내면서 "이 사람 감시해"라고 한 거야.
@@ -281,13 +281,13 @@
     톰: 그 자 주인이겠지.
 
 089. ELIAS: Don't. Don't guess out loud. Not today.
-    일라이어스: 하지 마요. 소리 내서 추측하지 마요. 오늘은.
+    일라이어스: 하지 마. 소리 내서 추측하지 마. 오늘은.
 
 090. TOM: For what it's worth, Elias, my reports are boring. "Subject played piano in the hotel bar. Subject called his father. Subject ate pie." Twenty weeks of pie.
     톰: 위로가 될진 모르겠지만, 일라이어스, 내 보고서는 지루해. "대상, 호텔 바에서 피아노 연주. 대상, 부친과 통화. 대상, 파이 섭취." 20주 내내 파이야.
 
 091. ELIAS: And the oceanographer? In January you promised to keep her name out for two months.
-    일라이어스: 그 해양학자는요? 1월에 두 달 동안 이름 빼 주겠다고 약속했잖아요.
+    일라이어스: 그 해양학자는? 1월에 두 달 동안 이름 빼 주겠다고 약속했잖아.
 
 092. TOM: I kept her name out for two months and one day. Check the file if you ever get the chance. She's "the oceanographer" until March seventeenth.
     톰: 두 달하고 하루 더 뺐어. 기회 되면 파일 확인해 봐. 3월 17일까진 '해양학자'로만 돼 있어.
@@ -299,19 +299,19 @@
     톰: 너그러운 거 보고 싶어? 매주 "무단 유출 증거 없음"이라고 썼어. 한 주도 빠짐없이. 그래도 날 계속 붙여 뒀어.
 
 095. ELIAS: Why do you think they kept you on, then?
-    일라이어스: 그럼 왜 계속 붙여 뒀을 것 같아요?
+    일라이어스: 그럼 왜 계속 붙여 뒀을 것 같아?
 
 096. TOM: Because the point was never finding out whether you're ECHO. The point was having a file that says somebody checked. Plausible deniability, with my name on it.
     톰: 애초에 목적이 당신이 ECHO인지 알아내는 게 아니었으니까. 누군가 확인했다는 파일을 갖는 게 목적이었지. 내 이름이 박힌 그럴듯한 부인 가능성.
 
 097. ELIAS: The program's called KEEPER. And you're BROTHER. Somebody at Langley has read Genesis.
-    일라이어스: 작전명이 KEEPER고, 당신이 BROTHER네요. 랭글리에 창세기 읽은 사람이 있나 봐요.
+    일라이어스: 작전명이 KEEPER고, 네가 BROTHER네. 랭글리에 창세기 읽은 사람이 있나 보다.
 
 098. TOM: "Am I my brother's keeper?" I thought it was cute when I got it.
     톰: "내가 내 아우를 지키는 자입니까?" 받았을 땐 귀엽다고 생각했어.
 
 099. ELIAS: Cain said that, Tom. Right after he killed his brother.
-    일라이어스: 그건 카인이 한 말이에요, 톰. 동생을 죽인 직후에.
+    일라이어스: 그건 카인이 한 말이야, 톰. 동생을 죽인 직후에.
 
 100. TOM: Yeah. I've had five months to think about that.
     톰: 그래. 그거 생각할 시간 다섯 달 있었어.
@@ -329,25 +329,25 @@
     톰: 봐, CIA는 우리 둘 다 태어나기 전부터 이런 일을 해 왔어. 처치 위원회가 1년을 매달렸는데 아무것도 못 찾았잖아. 카메라용 쇼였지.
 
 105. ELIAS: With respect, Tom, that's not what happened. They found twenty years of opened mail, millions of copied telegrams, plots to kill foreign leaders, and an FBI campaign against Martin Luther King.
-    일라이어스: 외람된 말이지만 톰, 그건 사실이 아니에요. 20년 치 뜯어본 편지, 수백만 통의 복사된 전보, 외국 지도자 암살 계획, 그리고 마틴 루서 킹을 겨냥한 FBI 공작을 찾아냈어요.
+    일라이어스: 미안하지만 톰, 그건 사실이 아니야. 20년 치 뜯어본 편지, 수백만 통의 복사된 전보, 외국 지도자 암살 계획, 그리고 마틴 루서 킹을 겨냥한 FBI 공작을 찾아냈어.
 
 106. TOM: And then what? Nobody went to prison. Nothing really changed.
     톰: 그래서 뭐? 감옥 간 사람 아무도 없잖아. 바뀐 것도 없고.
 
 107. ELIAS: Then Congress built permanent intelligence committees and passed FISA. It didn't stop the watching. It made somebody watch the watchers. That's the opposite of theater.
-    일라이어스: 그다음에 의회가 상설 정보위원회를 만들고 해외정보감시법을 통과시켰어요. 감시를 멈춘 게 아니라 감시자를 지켜볼 사람을 둔 거죠. 그건 쇼의 정반대예요.
+    일라이어스: 그다음에 의회가 상설 정보위원회를 만들고 해외정보감시법을 통과시켰어. 감시를 멈춘 게 아니라 감시자를 지켜볼 사람을 둔 거지. 그건 쇼의 정반대야.
 
 108. TOM: You've been talking to your dad. I can always tell.
     톰: 아버지랑 통화했구나. 난 늘 티가 나더라.
 
 109. ELIAS: This morning. He told me not to decide anything while I'm angry and hungry. I'm both, so I'm not deciding yet.
-    일라이어스: 오늘 아침에요. 화나고 배고플 땐 아무것도 결정하지 말래요. 지금 둘 다라서 아직 결정 안 할 거예요.
+    일라이어스: 오늘 아침에. 화나고 배고플 땐 아무것도 결정하지 말래. 지금 둘 다라서 아직 결정 안 할 거야.
 
 110. TOM: Fair enough. I'll be in my room. Packing, probably.
     톰: 알았어. 방에 있을게. 아마 짐 싸고 있겠지.
 
 111. SAMIRA: He should be packing. Elias, you can't keep a man in this team who files weekly reports on you to a black bar.
-    사미라: 짐 싸는 게 맞죠. 일라이어스, 검은 줄한테 매주 당신 보고서를 올리는 사람을 팀에 둘 순 없어요.
+    사미라: 짐 싸는 게 맞죠. 특사님, 검은 줄한테 매주 특사님 보고서를 올리는 사람을 팀에 둘 순 없어요.
 
 112. ELIAS: I can, and I think I have to.
     일라이어스: 둘 수 있어요. 그리고 둬야 할 것 같아요.
@@ -416,7 +416,7 @@
     일라이어스: 그럼 톰도 모르는 거예요. 적어도 우리한테서는요.
 
 134. SAMIRA: And you? Are you going to talk to him again?
-    사미라: 당신은요? 톰이랑 다시 얘기할 거예요?
+    사미라: 특사님은요? 톰이랑 다시 얘기할 거예요?
 
 135. ELIAS: Tonight. In the bar. Where he knows I'll be.
     일라이어스: 오늘 밤에요. 바에서요. 내가 있을 거라는 걸 톰이 아는 곳에서.
@@ -425,43 +425,43 @@
     톰: '테이크 파이브'네. 당신은 생각할 때만 그거 치잖아. 아니면 긴장할 때. 6주 차 보고서에 썼어.
 
 137. ELIAS: Sit down, Tom. And you can stop packing. You're not leaving.
-    일라이어스: 앉아요, 톰. 그리고 짐 그만 싸요. 안 떠나요.
+    일라이어스: 앉아, 톰. 그리고 짐 그만 싸. 안 떠나.
 
 138. TOM: I'm not? Langley might have an opinion about that.
     톰: 안 떠나? 랭글리 생각은 다를 텐데.
 
 139. ELIAS: You're staying. You'll keep sweeping the rooms, driving the cars, and filing your reports. Weekly, to the black bar. I'm not going to ask what's in them.
-    일라이어스: 남아요. 계속 방 점검하고, 차 몰고, 보고서 써요. 매주, 그 검은 줄한테. 뭐가 들었는지 묻지 않을게요.
+    일라이어스: 남아. 계속 방 점검하고, 차 몰고, 보고서 써. 매주, 그 검은 줄한테. 뭐가 들었는지 묻지 않을게.
 
 140. TOM: Why?
     톰: 왜?
 
 141. ELIAS: Because if I asked, you'd tell me. And then you'd have to report that I asked.
-    일라이어스: 물어보면 당신은 말해 줄 거고, 그럼 내가 물어봤다는 걸 또 보고해야 하니까요.
+    일라이어스: 물어보면 넌 말해 줄 거고, 그럼 내가 물어봤다는 걸 또 보고해야 하니까.
 
 142. TOM: That's not an answer, man. That's a riddle.
     톰: 그건 대답이 아니잖아. 수수께끼지.
 
 143. ELIAS: It's the only one you're getting tonight.
-    일라이어스: 오늘 밤 받을 수 있는 대답은 그것뿐이에요.
+    일라이어스: 오늘 밤 받을 수 있는 대답은 그것뿐이야.
 
 144. TOM: So what are we now? Are we friends? Partners? Am I a suspect, too?
     톰: 그럼 우린 이제 뭐야? 친구? 파트너? 나도 용의자야?
 
 145. ELIAS: We're colleagues. You'll get what colleagues get.
-    일라이어스: 동료예요. 동료가 받는 만큼 받을 거예요.
+    일라이어스: 동료야. 동료가 받는 만큼 받을 거야.
 
 146. TOM: Which is what, exactly? Spell it out for me.
     톰: 그게 정확히 뭔데? 똑똑히 말해 봐.
 
 147. ELIAS: Pass the salt, Tom.
-    일라이어스: 소금 좀 줘요, 톰.
+    일라이어스: 소금 좀 줘, 톰.
 
 148. TOM: That's cold. Even for you.
     톰: 차갑다. 당신치고도.
 
 149. ELIAS: Write it down for week twenty-one. "Subject played piano. Subject knows."
-    일라이어스: 21주 차 보고서에 적어요. "대상, 피아노 연주. 대상, 알고 있음."
+    일라이어스: 21주 차 보고서에 적어. "대상, 피아노 연주. 대상, 알고 있음."
 
 150. TOM: Goodnight, Elias.
     톰: 잘 자, 일라이어스.

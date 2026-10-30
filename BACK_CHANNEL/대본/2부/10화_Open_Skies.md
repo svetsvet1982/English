@@ -10,7 +10,7 @@
 > - 역사 사례: 아이젠하워의 '오픈 스카이' 제안 (1955) — 프랭크가 "숨길 게 없다는 걸 보여 주는 게 가장 센 수"라며 일라이어스에게 해법의 이름을 주고, 리 첸이 "결국 U-2를 띄우려던 속임수"라며 비틀자 일라이어스가 반쯤 인정하며 1992년 '오픈 스카이 조약'으로 반박한다
 > - 전술 태그: [설득] [블러핑] [거짓말] [공갈] [유출]
 > - 이번 화의 핵심 표현: dual-use / sovereignty / memorandum of understanding (MOU) / I've already cleared it with Brussels. / What would it take for…? / You don't have to love it. You have to live with it. / It would be a shame if… / Nothing to hide is the strongest hand.
-> - 복선/연결: 아나는 남동생 카이우 건(9화 협박)을 공개할지 아직 결정하지 못함(12화) · 일라이어스가 오후 4시 10분 워싱턴에 보낸 전문 문장이 두 시간 만에 리 첸의 입에서 나옴 — 배포 명단 6명, 7층 둘 포함(사미라의 목록) · 브뤼셀과 베이징이 서로 상대가 먼저 하길 기다리는 '원' → 11화에서 금요일 NSC 전까지 풀어야 함 · 잉그리드 첫 2부 등장(3부 브뤼셀 복선)
+> - 복선/연결: 아나는 남동생 카이우 건(9화 협박)을 공개할지 아직 결정하지 못함(12화) · 일라이어스가 오후 4시 10분 워싱턴에 보낸 전문 문장이 두 시간 만에 리 첸의 입에서 나옴 — 배포 명단 6명, 7층 둘 포함(사미라의 목록) · 브뤼셀과 베이징이 서로 상대가 먼저 하길 기다리는 '원' → 금요일(8월 4일) NSC 전까지 풀어야 함(화면 밖에서 풀림 → 12화 5개국 서명) · 잉그리드 첫 2부 등장(3부 브뤼셀 복선)
 
 ---
 
@@ -31,11 +31,11 @@
 005. ELIAS: Four days.
     일라이어스: 나흘이네.
 
-006. SAMIRA: Four days, and Dorsey's people have already briefed two senators. If Treasury designates Tianlu, Brazil's government has to choose, in public, a month before the election.
-    사미라: 나흘인데, 도시 쪽 사람들은 벌써 상원의원 두 명한테 브리핑했어요. 재무부가 톈루를 제재 대상으로 지정하면, 브라질 정부는 선거 한 달 전에 공개적으로 편을 골라야 해요.
+006. SAMIRA: Four days, and Dorsey's people have already briefed two senators. If Treasury designates Tianlu, Brazil's government has to choose, in public, two months before the election.
+    사미라: 나흘인데, 도시 쪽 사람들은 벌써 상원의원 두 명한테 브리핑했어요. 재무부가 톈루를 제재 대상으로 지정하면, 브라질 정부는 선거 두 달 전에 공개적으로 편을 골라야 해요.
 
-007. TOM: And nobody in Brasília picks Washington a month before an election. Not after that NSA file.
-    톰: 그리고 선거 한 달 전에 워싱턴 편 드는 사람은 브라질리아에 없지. 그 NSA 문건 터진 뒤엔 더더욱.
+007. TOM: And nobody in Brasília picks Washington two months before an election. Not after that NSA file.
+    톰: 그리고 선거 두 달 전에 워싱턴 편 드는 사람은 브라질리아에 없지. 그 NSA 문건 터진 뒤엔 더더욱.
 
 008. ELIAS: Which is exactly why the sanctions are the wrong door. Close it, and the station still gets built — just with the lights off.
     일라이어스: 바로 그래서 제재는 틀린 문이라는 거야. 그 문을 닫아도 추적소는 지어져. 불만 끈 채로.
@@ -287,109 +287,109 @@
     일라이어스: 목요일이요. 그리고 캄푸스 박사님, 연구소 이름은 포르투갈어여야 합니다. 우리 말 말고요.
 
 091. LI: Mr. Grant. I ordered you a coffee. Brazilian, eighty-two points on the cupping scale. It seemed appropriate.
-    리: 그랜트 씨. 커피 시켜 놨어요. 브라질산, 커핑 점수 82점. 어울릴 것 같아서요.
+    리 첸: 그랜트 씨. 커피 시켜 놨어요. 브라질산, 커핑 점수 82점. 어울릴 것 같아서요.
 
 092. ELIAS: You even score the coffee, Ms. Li.
     일라이어스: 커피까지 점수를 매기시네요, 리 대표님.
 
 093. LI: Everything can be scored. Let me save us time. Tianlu has committed four hundred and ten million dollars, nine antennas when finished, one thirty-five-meter dish, and a thirty-year lease.
-    리: 뭐든 점수를 매길 수 있죠. 시간을 아껴 드릴게요. 톈루는 4억 1천만 달러, 완공 시 안테나 9기, 35미터 접시 안테나 1기, 30년 임차 계약을 약속했어요.
+    리 첸: 뭐든 점수를 매길 수 있죠. 시간을 아껴 드릴게요. 톈루는 4억 1천만 달러, 완공 시 안테나 9기, 35미터 접시 안테나 1기, 30년 임차 계약을 약속했어요.
 
 094. ELIAS: And one hundred and twenty technicians, if I read the permit right.
     일라이어스: 그리고 기술자 120명이죠, 허가서를 제대로 읽었다면.
 
 095. LI: You read it right. So whatever you are about to propose, it should be measured against those numbers.
-    리: 제대로 읽으셨어요. 그러니 무슨 제안을 하시든, 그 숫자들과 비교해서 재야 해요.
+    리 첸: 제대로 읽으셨어요. 그러니 무슨 제안을 하시든, 그 숫자들과 비교해서 재야 해요.
 
 096. ELIAS: Then here's a number. On Friday, my government will consider designating Tianlu. If that happens, your four hundred and ten million becomes a stranded asset.
     일라이어스: 그럼 숫자 하나 드리죠. 금요일에 우리 정부는 톈루를 제재 대상으로 지정하는 걸 검토합니다. 그렇게 되면 4억 1천만 달러는 좌초 자산이 됩니다.
 
 097. LI: That's not a number. That's a threat with a decimal point.
-    리: 그건 숫자가 아니에요. 소수점 붙은 협박이죠.
+    리 첸: 그건 숫자가 아니에요. 소수점 붙은 협박이죠.
 
 098. ELIAS: Fair. Here's the offer. Tianlu builds everything, supplies everything, maintains it for ten years. But the station belongs to an open center — five partners, public data, open doors.
     일라이어스: 맞는 말씀입니다. 제안은 이겁니다. 톈루가 다 짓고, 다 공급하고, 10년간 유지보수도 합니다. 다만 추적소는 개방 연구소 소속이 됩니다. 다섯 파트너, 공개 데이터, 열린 문.
 
 099. LI: Tianlu's clients pay for confidentiality. You're asking us to sell glass walls to people who ordered concrete.
-    리: 톈루 고객들은 기밀 유지에 돈을 내요. 콘크리트를 주문한 사람들한테 유리벽을 팔라는 거네요.
+    리 첸: 톈루 고객들은 기밀 유지에 돈을 내요. 콘크리트를 주문한 사람들한테 유리벽을 팔라는 거네요.
 
 100. ELIAS: If your clients need concrete to track a satellite, they're not tracking it. They're hiding something.
     일라이어스: 고객들이 위성 하나 추적하는 데 콘크리트가 필요하다면, 그건 추적하는 게 아니라 뭔가 숨기는 거죠.
 
 101. LI: Your Eisenhower tried this. Open Skies. He offered to open the sky the same year he was building the U-2 to fly over it without asking.
-    리: 당신네 아이젠하워도 이걸 해 봤죠. 오픈 스카이. 허락 없이 그 하늘을 날 U-2를 만들던 바로 그해에 하늘을 열자고 제안했어요.
+    리 첸: 당신네 아이젠하워도 이걸 해 봤죠. 오픈 스카이. 허락 없이 그 하늘을 날 U-2를 만들던 바로 그해에 하늘을 열자고 제안했어요.
 
 102. ELIAS: That's half true. The U-2 first flew that summer, and the overflights started the next year. Khrushchev wasn't wrong to be suspicious.
     일라이어스: 절반은 맞습니다. U-2는 그해 여름에 첫 비행을 했고, 영공 비행은 이듬해에 시작됐죠. 흐루쇼프가 의심한 게 틀린 건 아니었습니다.
 
 103. LI: Then you admit it was a trick.
-    리: 그럼 속임수였다는 걸 인정하시는군요.
+    리 첸: 그럼 속임수였다는 걸 인정하시는군요.
 
 104. ELIAS: I admit we were spying anyway. But the idea outlived the trick. In 1992, more than thirty countries signed an Open Skies treaty, Russia included, and flew over each other for years.
     일라이어스: 우리가 어차피 정찰을 하고 있었다는 건 인정합니다. 하지만 그 구상은 속임수보다 오래 살아남았어요. 1992년에 러시아를 포함한 서른 개 넘는 나라가 오픈 스카이 조약에 서명했고, 몇 년 동안 서로의 상공을 날았습니다.
 
 105. LI: And then the Americans withdrew.
-    리: 그러고는 미국이 탈퇴했죠.
+    리 첸: 그러고는 미국이 탈퇴했죠.
 
 106. ELIAS: We did, and that was a mistake. Which is why this time the door would be in Maranhão, not in Washington.
     일라이어스: 그랬죠. 그건 실수였습니다. 그래서 이번엔 문이 워싱턴이 아니라 마라냥에 있는 겁니다.
 
 107. LI: You speak about five partners. Let me be precise. Brussels has not been asked.
-    리: 다섯 파트너라고 하시는데, 정확히 말씀드릴게요. 브뤼셀에는 아무도 묻지 않았어요.
+    리 첸: 다섯 파트너라고 하시는데, 정확히 말씀드릴게요. 브뤼셀에는 아무도 묻지 않았어요.
 
 108. ELIAS: I'm sorry?
     일라이어스: 뭐라고요?
 
 109. LI: Our information is that the EU has not been approached, and that this afternoon you requested authority to approach them. Those were very nearly the words.
-    리: 저희 정보로는 EU에는 아직 접촉하지 않았고, 오늘 오후에 당신이 접촉 권한을 요청했다더군요. 거의 그 단어 그대로였어요.
+    리 첸: 저희 정보로는 EU에는 아직 접촉하지 않았고, 오늘 오후에 당신이 접촉 권한을 요청했다더군요. 거의 그 단어 그대로였어요.
 
 110. ELIAS: That's very specific information, Ms. Li.
     일라이어스: 아주 구체적인 정보군요, 리 대표님.
 
 111. LI: We are a telecommunications company, Mr. Grant.
-    리: 저희는 통신 회사거든요, 그랜트 씨.
+    리 첸: 저희는 통신 회사거든요, 그랜트 씨.
 
 112. ELIAS: Then let me give you something equally specific. Whoever sold you that sentence sells to Rodrigo Valente too. You're shopping at the same store as the man who's auctioning your lithium.
     일라이어스: 그럼 저도 똑같이 구체적인 걸 드리죠. 그 문장을 판 사람은 호드리구 발렌치한테도 팝니다. 대표님은 당신네 리튬을 경매에 붙인 남자와 같은 가게에서 장을 보고 계신 거예요.
 
 113. LI: You can't know that.
-    리: 그걸 아실 수가 없잖아요.
+    리 첸: 그걸 아실 수가 없잖아요.
 
 114. ELIAS: I can't prove it tonight. But ask yourself why someone in Washington wants Beijing to know that my offer is weak, two days before it reaches the President of Brazil.
     일라이어스: 오늘 밤 증명은 못 합니다. 하지만 생각해 보세요. 워싱턴의 누군가가 왜 제 제안이 약하다는 걸 베이징이 알길 바랄까요? 그것도 브라질 대통령에게 올라가기 이틀 전에.
 
 115. LI: Perhaps because it is weak.
-    리: 정말 약해서일지도 모르죠.
+    리 첸: 정말 약해서일지도 모르죠.
 
 116. ELIAS: Or because someone makes money when nobody signs anything. It would be a shame if Tianlu turned out to be the last one to notice.
     일라이어스: 아니면 아무도 서명하지 않을 때 돈을 버는 누군가가 있어서겠죠. 톈루가 그걸 제일 늦게 알아챈다면 안타까운 일일 겁니다.
 
 117. LI: Is that a threat, Mr. Grant?
-    리: 그건 협박인가요, 그랜트 씨?
+    리 첸: 그건 협박인가요, 그랜트 씨?
 
 118. ELIAS: It's a weather report. What would it take for Beijing to say yes?
     일라이어스: 일기예보입니다. 베이징이 '예'라고 하려면 뭐가 필요합니까?
 
 119. LI: Three things. Tianlu's contract intact. A Chinese deputy director. And Beijing will not be the first to open its doors.
-    리: 세 가지요. 톈루 계약은 그대로. 부소장 자리는 중국인. 그리고 베이징은 먼저 문을 열지 않을 거예요.
+    리 첸: 세 가지요. 톈루 계약은 그대로. 부소장 자리는 중국인. 그리고 베이징은 먼저 문을 열지 않을 거예요.
 
 120. ELIAS: Meaning?
     일라이어스: 그 말은?
 
 121. LI: Meaning if a European signature is already on the paper, Beijing may consider being the second. Never the first. Being first looks like losing.
-    리: 유럽의 서명이 이미 종이 위에 있다면, 베이징은 두 번째가 되는 걸 고려할 수 있다는 뜻이에요. 첫 번째는 절대 안 돼요. 첫 번째는 지는 것처럼 보이니까요.
+    리 첸: 유럽의 서명이 이미 종이 위에 있다면, 베이징은 두 번째가 되는 걸 고려할 수 있다는 뜻이에요. 첫 번째는 절대 안 돼요. 첫 번째는 지는 것처럼 보이니까요.
 
 122. ELIAS: And if Brussels says the same thing about you?
     일라이어스: 브뤼셀도 대표님 쪽에 대해 똑같은 말을 하면요?
 
 123. LI: Then you have a problem with no decimal point at all.
-    리: 그럼 소수점조차 없는 문제가 생기는 거죠.
+    리 첸: 그럼 소수점조차 없는 문제가 생기는 거죠.
 
 124. ELIAS: The deputy director I can probably give you. The contract you already have. Europe I'll bring you.
     일라이어스: 부소장 자리는 아마 드릴 수 있을 겁니다. 계약은 이미 갖고 계시고요. 유럽은 제가 데려오겠습니다.
 
 125. LI: You said that to Doctor Campos too, I imagine. Enjoy the coffee, Mr. Grant. Eighty-two points. Not perfect, but honest.
-    리: 캄푸스 박사님한테도 그렇게 말씀하셨겠죠. 커피 맛있게 드세요, 그랜트 씨. 82점. 완벽하진 않지만 정직하죠.
+    리 첸: 캄푸스 박사님한테도 그렇게 말씀하셨겠죠. 커피 맛있게 드세요, 그랜트 씨. 82점. 완벽하진 않지만 정직하죠.
 
 126. INGRID: Elias, it's past midnight in Brussels. We Norwegians don't panic. We just get quieter. This is me getting quieter.
     잉그리드: 일라이어스, 브뤼셀은 자정이 넘었어요. 노르웨이 사람은 당황 안 해요. 조용해질 뿐이죠. 지금 제가 조용해지는 중이에요.

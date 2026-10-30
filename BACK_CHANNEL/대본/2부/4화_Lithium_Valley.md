@@ -47,7 +47,7 @@
     톰: 그래서 내가 호텔 바 대신 헬기에 타고 있는 거고.
 
 011. ELIAS: Nobody's running anywhere, Tom. It's lunch.
-    일라이어스: 아무도 안 뛰어요, 톰. 점심이에요.
+    일라이어스: 아무도 안 뛰어, 톰. 점심이야.
 
 012. TOM: In my experience, that's where people disappear. Right after dessert.
     톰: 내 경험상 사람이 사라지는 데가 딱 거기야. 디저트 직후에.
@@ -71,13 +71,13 @@
     톰: 그러니까 밀 수도, 살 수도, 무시할 수도 없다. 그럼 우리 왜 왔어?
 
 019. ELIAS: Listen. Eat whatever he serves. And find out what he wants so badly that he'd trade the truth for it.
-    일라이어스: 들으러요. 뭘 내오든 먹고요. 그리고 진실을 내주고서라도 갖고 싶은 게 뭔지 알아내는 거예요.
+    일라이어스: 들으러 왔지. 뭘 내오든 먹고. 그리고 진실을 내주고서라도 갖고 싶은 게 뭔지 알아내는 거야.
 
 020. TOM: And if what he wants is you?
     톰: 그 사람이 원하는 게 당신이면?
 
 021. ELIAS: Then he'll have to get in line behind the Inspector General.
-    일라이어스: 그럼 감찰관 뒤에 줄 서야겠죠.
+    일라이어스: 그럼 감찰관 뒤에 줄 서야겠지.
 
 022. SAMIRA: We're landing. There's a man in a white suit waving at us.
     사미라: 착륙해요. 흰 양복 입은 남자가 우리한테 손 흔들고 있어요.
@@ -128,7 +128,7 @@
     발렌치: 가장 간절한 쪽한테요. 리 대표님은 제안하셨어요. 이제 미국 차례죠.
 
 038. LI: Tianlu has offered two point one billion dollars up front, plus a conversion plant near the port of Salvador, operational within thirty-six months.
-    리 첸: 톈루는 선지급 21억 달러, 그리고 살바도르 항구 근처에 36개월 안에 가동할 전환 공장을 제안했습니다.
+    리 첸: 톈루는 선지급 21억 달러, 그리고 사우바도르 항구 근처에 36개월 안에 가동할 전환 공장을 제안했습니다.
 
 039. VALENTE: In a valley this poor, that isn't money. It's a miracle.
     발렌치: 이렇게 가난한 계곡에선 그건 돈이 아니에요. 기적이죠.
@@ -188,7 +188,7 @@
     일라이어스: 배요. 알바트로스 아줄. 1월에 NATO 케이블이 끊길 때 그 배가 바로 그 위에 떠 있었어요.
 
 058. VALENTE: I own a great many things, Senhor Grant. I don't steer them personally. Marítima Austral charters that vessel to clients. Clients I don't choose.
-    발렌치: 저는 많은 걸 갖고 있어요, 그랜트 씨. 제가 직접 키를 잡진 않죠. 마리치마 아우스트라우은 그 배를 고객들한테 빌려줘요. 제가 고르지 않는 고객들한테요.
+    발렌치: 저는 많은 걸 갖고 있어요, 그랜트 씨. 제가 직접 키를 잡진 않죠. 마리치마 아우스트라우는 그 배를 고객들한테 빌려줘요. 제가 고르지 않는 고객들한테요.
 
 059. ELIAS: Then tell me who chartered it.
     일라이어스: 그럼 누가 빌렸는지 말씀해 주세요.
@@ -230,7 +230,7 @@
     일라이어스: 출력 기록이네요.
 
 072. VALENTE: Your famous cable, "Off-Ramps for Moscow," printed at two-fourteen in the morning in the political section, under your login, the night before it appeared in the newspaper.
-    발렌치: 그 유명한 전문, 「모스크바 출구 전략」이요. 신문에 실리기 전날 밤, 새벽 2시 14분에 정무과에서 당신 계정으로 출력됐네요.
+    발렌치: 그 유명한 전문, 「모스크바를 위한 출구」요. 신문에 실리기 전날 밤, 새벽 2시 14분에 정무과에서 당신 계정으로 출력됐네요.
 
 073. ELIAS: At two in the morning I was asleep.
     일라이어스: 새벽 2시면 전 자고 있었어요.
@@ -287,19 +287,19 @@
     발렌치: 세 장 가져가세요. 나머지는 저한테 있으니까. 자정이에요, 그랜트 씨.
 
 091. SAMIRA: Page nineteen, page twenty, and the cover. It's a real cover sheet, Elias. All of it.
-    사미라: 19쪽, 20쪽, 그리고 표지. 진짜 표지예요, 일라이어스. 전부 다요.
+    사미라: 19쪽, 20쪽, 그리고 표지. 진짜 표지예요, 특사님. 전부 다요.
 
 092. TOM: Let me shoot these and send them to Langley. They'd know in an hour.
     톰: 이거 찍어서 랭글리에 보내자. 한 시간이면 알 거야.
 
 093. ELIAS: No.
-    일라이어스: 안 돼요.
+    일라이어스: 안 돼.
 
 094. TOM: Elias, come on. They've got forensic people who do nothing else all day.
     톰: 일라이어스, 왜 이래. 거긴 하루 종일 이것만 하는 감식 요원들이 있다고.
 
 095. ELIAS: And they've got people who read everything I send them, Tom. This stays in this room until I decide otherwise.
-    일라이어스: 내가 보내는 걸 전부 읽는 사람들도 있죠, 톰. 내가 달리 정할 때까지 이건 이 방에서 안 나가요.
+    일라이어스: 내가 보내는 걸 전부 읽는 사람들도 있지, 톰. 내가 달리 정할 때까지 이건 이 방에서 안 나가.
 
 096. TOM: Your call. I'll walk the perimeter.
     톰: 당신 결정이지. 난 주변 좀 돌게.
@@ -323,7 +323,7 @@
     일라이어스: 올려요. 그리고 그 출력 기록이 진짜면, 3년 전에 누군가 내 계정을 쓴 거예요.
 
 103. SAMIRA: And if it's forged, somebody wanted it to look that way three years later. Either way, it was built to be used against you.
-    사미라: 가짜라면 3년이 지나서 누군가 그렇게 보이길 원한 거고요. 어느 쪽이든 당신을 겨냥해서 만든 거예요.
+    사미라: 가짜라면 3년이 지나서 누군가 그렇게 보이길 원한 거고요. 어느 쪽이든 특사님을 겨냥해서 만든 거예요.
 
 104. ELIAS: That's my father. Give me a minute.
     일라이어스: 아버지 전화예요. 잠깐만요.
@@ -332,31 +332,31 @@
     프랭크: 일라이어스? 거긴 점심때겠구나. 밥은 먹었니?
 
 106. ELIAS: River fish with a billionaire, Dad. Mostly I watched him eat.
-    일라이어스: 억만장자랑 민물 생선 먹었어요, 아빠. 거의 그 사람 먹는 것만 봤지만.
+    일라이어스: 억만장자랑 민물 생선 먹었어, 아빠. 거의 그 사람 먹는 것만 봤지만.
 
 107. FRANK: That's no good. Where are you now, the jungle?
     프랭크: 그럼 안 되지. 지금 어디냐, 정글이야?
 
 108. ELIAS: Close. Minas Gerais. Somebody just tried to lecture me on Fordlândia, so naturally I thought of you.
-    일라이어스: 비슷해요. 미나스제라이스. 방금 누가 포드랜디아로 저한테 훈계를 하려고 해서, 당연히 아빠 생각이 났죠.
+    일라이어스: 비슷해. 미나스제라이스. 방금 누가 포드랜디아로 나한테 훈계를 하려고 해서, 당연히 아빠 생각이 났지.
 
 109. FRANK: Oh, Fordlândia. Let me tell you about Fordlândia. Did you know Ford never once set foot there? Not once. He ran the whole thing from Michigan, by cable and memo, like he was building a car.
     프랭크: 아, 포드랜디아. 포드랜디아 얘기 하나 해 주마. 포드가 거기 한 번도 안 가 봤다는 거 아니? 단 한 번도. 자동차 만들듯이 미시간에서 전보랑 메모로 전부 지휘했어.
 
 110. ELIAS: I knew about the blight and the riot. I didn't know he never went.
-    일라이어스: 병이랑 폭동은 알았는데, 한 번도 안 갔다는 건 몰랐어요.
+    일라이어스: 병이랑 폭동은 알았는데, 한 번도 안 갔다는 건 몰랐어.
 
 111. FRANK: Never went. And here's the part people forget. In 1945 his grandson sold the whole thing back to the Brazilian government for about a quarter of a million dollars, after the company had sunk something like twenty million into it.
     프랭크: 한 번도. 그리고 사람들이 잊는 대목이 있어. 1945년에 손자가 그걸 통째로 브라질 정부에 25만 달러쯤에 팔았다. 회사가 2천만 달러 가까이 쏟아부은 뒤에 말이야.
 
 112. ELIAS: So it went back to Brazil.
-    일라이어스: 결국 브라질로 돌아갔네요.
+    일라이어스: 결국 브라질로 돌아갔네.
 
 113. FRANK: It was always Brazil's, son. That's the lesson. Ford thought he was building his own town. He was renting their land, and he never asked what it wanted to grow.
     프랭크: 원래부터 브라질 거였지, 얘야. 그게 교훈이야. 포드는 자기 도시를 짓는다고 생각했지만, 실은 남의 땅을 빌려 쓰고 있었던 거야. 그 땅이 뭘 키우고 싶어 하는지는 끝내 안 물어봤고.
 
 114. ELIAS: Dad, I have to go. I think you just handed me an idea.
-    일라이어스: 아빠, 끊어야겠어요. 방금 아이디어 하나 주신 것 같아요.
+    일라이어스: 아빠, 끊어야겠어. 방금 아이디어 하나 준 것 같아.
 
 115. FRANK: Eat something first. Ideas on an empty stomach come out crooked.
     프랭크: 먼저 뭐 좀 먹어라. 빈속에 나온 생각은 삐뚤어진다.

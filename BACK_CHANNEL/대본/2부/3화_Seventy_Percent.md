@@ -128,7 +128,7 @@
     일라이어스: 아직은 안 돼.
 
 038. TOM: "Not yet" is starting to sound like "not you," boss.
-    톰: "아직은 안 돼"가 점점 "너는 안 돼"로 들리기 시작하는데, 보스.
+    톰: "아직은 안 돼"가 점점 "너는 안 돼"로 들리기 시작하는데, 대장.
 
 039. ELIAS: It means not until I know who reads Langley's mail. Somebody in our house built this thing. Until I know which room, the analysis stays in this one.
     일라이어스: 랭글리 우편을 누가 읽는지 알 때까진 안 된다는 뜻이야. 우리 집 안의 누군가가 이걸 만들었어. 어느 방인지 알 때까지 분석본은 이 방에 있어.

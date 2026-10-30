@@ -58,8 +58,8 @@
 014. ELIAS: Your grandfather would have liked that sentence.
     일라이어스: 할아버님이 그 문장을 좋아하셨을 겁니다.
 
-015. ANA: My grandfather spent two years in a cell because men in uniform decided what was true. Today, at least, I decide.
-    아나: 할아버지는 군복 입은 남자들이 무엇이 진실인지 정하는 바람에 감방에서 2년을 보내셨어요. 오늘은 적어도 제가 정해요.
+015. ANA: My grandfather spent eleven months in a cell because men in uniform decided what was true. Today, at least, I decide.
+    아나: 할아버지는 군복 입은 남자들이 무엇이 진실인지 정하는 바람에 감방에서 11개월을 보내셨어요. 오늘은 적어도 제가 정해요.
 
 016. ELIAS: Then decide it out loud.
     일라이어스: 그럼 소리 내서 정하세요.
@@ -79,7 +79,7 @@
 021. ELIAS: Nobody told her either, I suspect.
     일라이어스: 박사님한테도 아무도 말 안 했을 것 같은데요.
 
-022. SAMIRA: And at ten-forty, right on schedule, a website called Portal Tribuna published the sealed court file. With a headline about "the minister's secret."
+022. SAMIRA: And at ten-forty, right on schedule, a website called Portal Tribuna published the sealed court file. With a headline about "the adviser's secret."
     사미라: 그리고 10시 40분, 예정대로 『포르탈 트리부나』라는 웹사이트가 봉인된 법원 파일을 올렸어요. "수석의 비밀"이라는 제목으로.
 
 023. ELIAS: An hour and forty minutes after she told it herself.
@@ -194,7 +194,7 @@
     톰: 진짜야?
 
 060. ELIAS: It's a forgery. There's no annex. There was never an annex.
-    일라이어스: 위조예요. 부속서는 없어요. 처음부터 없었어요.
+    일라이어스: 위조야. 부속서는 없어. 처음부터 없었어.
 
 061. SAMIRA: It's a good forgery. Paragraph three is lifted word for word from our draft of September fourteenth, the one about data release windows.
     사미라: 잘 만든 위조예요. 3항은 9월 14일 우리 초안에서 토씨 하나 안 틀리고 따 왔어요. 데이터 공개 시간대에 관한 그 문단이요.
@@ -205,8 +205,8 @@
 063. SAMIRA: Brazil's team, and our six. Not Li Qian. Not Brussels. Not Delhi.
     사미라: 브라질 팀하고 우리 쪽 여섯 명이요. 리 첸은 아니에요. 브뤼셀도, 델리도 아니고요.
 
-064. TOM: So a real paragraph, a fake annex, and a perfect time. Five hours before signing.
-    톰: 진짜 문단 하나, 가짜 부속서 하나, 그리고 완벽한 타이밍. 서명 다섯 시간 전.
+064. TOM: So a real paragraph, a fake annex, and a perfect time. Six hours before signing.
+    톰: 진짜 문단 하나, 가짜 부속서 하나, 그리고 완벽한 타이밍. 서명 여섯 시간 전.
 
 065. SAMIRA: Seventy percent real, thirty percent forged. Just like the NSA file in April.
     사미라: 70퍼센트 진짜, 30퍼센트 위조. 4월의 NSA 문건이랑 똑같아요.
@@ -218,73 +218,73 @@
     사미라: 아니요. 그게 이상해요. 레나 보스는 손도 안 댔어요.
 
 068. LI: Mr. Grant. I'm told you're in the waiting room. I'm in the room next to it. The walls here are very thin, and very beautiful.
-    리: 그랜트 씨. 대기실에 계신다고 들었어요. 저는 옆방에 있어요. 여기 벽은 아주 얇고, 아주 아름답네요.
+    리 첸: 그랜트 씨. 대기실에 계신다고 들었어요. 저는 옆방에 있어요. 여기 벽은 아주 얇고, 아주 아름답네요.
 
 069. ELIAS: Ms. Li. I assume you've read the annex.
     일라이어스: 리 대표님. 부속서 읽으셨겠죠.
 
 070. LI: At five-ten, in my own inbox. It came from the same address that sent me your cable in July. Beijing would like to know why it should sign a document with a hidden American door.
-    리: 5시 10분에 제 메일함에서요. 7월에 당신 전문을 보내 준 바로 그 주소에서 왔어요. 베이징은 숨겨진 미국 문이 달린 문서에 왜 서명해야 하는지 알고 싶어 해요.
+    리 첸: 5시 10분에 제 메일함에서요. 7월에 당신 전문을 보내 준 바로 그 주소에서 왔어요. 베이징은 숨겨진 미국 문이 달린 문서에 왜 서명해야 하는지 알고 싶어 해요.
 
 071. ELIAS: Because there's no door. And whoever sent you both messages wants Beijing to walk out at ten fifty-nine.
     일라이어스: 문이 없으니까요. 그리고 대표님께 메시지 두 개를 다 보낸 사람은 베이징이 10시 59분에 걸어 나가길 바라고 있어요.
 
 072. LI: That is what someone with a hidden door would say.
-    리: 숨겨진 문이 있는 사람이라면 딱 그렇게 말하겠죠.
+    리 첸: 숨겨진 문이 있는 사람이라면 딱 그렇게 말하겠죠.
 
 073. ELIAS: Agreed. So I won't ask you to believe me. Let me be very clear about what I'll do instead.
     일라이어스: 맞습니다. 그래서 믿어 달라고 하지 않겠습니다. 대신 제가 뭘 할지 분명히 말씀드리죠.
 
 074. LI: Please.
-    리: 말씀하세요.
+    리 첸: 말씀하세요.
 
 075. ELIAS: At ten-thirty, Brazil puts every draft of this memorandum on the screen in the hall, all eleven of them, with a checksum for each. Anyone can compare them, line by line.
     일라이어스: 10시 반에 브라질이 이 양해각서의 모든 초안을 회의장 화면에 띄웁니다. 열한 개 전부, 각각 체크섬을 붙여서요. 누구든 한 줄 한 줄 비교할 수 있게.
 
 076. LI: Publishing your own drafts. Washington agreed to that?
-    리: 자기네 초안을 공개한다고요. 워싱턴이 그걸 동의했어요?
+    리 첸: 자기네 초안을 공개한다고요. 워싱턴이 그걸 동의했어요?
 
 077. ELIAS: Washington will find out at ten-thirty with everyone else. The best answer to a leak is to publish everything.
     일라이어스: 워싱턴도 10시 반에 다른 사람들이랑 같이 알게 될 겁니다. 유출에 대한 최선의 답은 전부 공개하는 거예요.
 
 078. LI: And the annex?
-    리: 부속서는요?
+    리 첸: 부속서는요?
 
 079. ELIAS: We make it true for everyone and impossible for anyone. A new article: no partner, including the United States, receives any data before any other partner. Not six hours. Not six seconds.
     일라이어스: 모두에게 사실로, 누구에게도 불가능하게 만드는 겁니다. 새 조항을 넣죠. 미국을 포함한 어떤 파트너도 다른 파트너보다 먼저 데이터를 받지 않는다. 여섯 시간도, 6초도 안 된다.
 
 080. LI: Who reads that article aloud?
-    리: 그 조항은 누가 소리 내서 읽죠?
+    리 첸: 그 조항은 누가 소리 내서 읽죠?
 
 081. ELIAS: I do. On camera, in English and Portuguese, before anyone signs.
     일라이어스: 제가 읽습니다. 카메라 앞에서, 영어와 포르투갈어로, 누구든 서명하기 전에.
 
 082. LI: An American denying American privilege on Brazilian television. My numbers do not have a column for that.
-    리: 미국인이 브라질 방송에서 미국의 특권을 부정한다라. 제 숫자에는 그런 칸이 없네요.
+    리 첸: 미국인이 브라질 방송에서 미국의 특권을 부정한다라. 제 숫자에는 그런 칸이 없네요.
 
 083. ELIAS: Make a new column. And there's one more number you should have. If China doesn't sign at noon, India takes the deputy director seat. Delhi asked for it this morning.
     일라이어스: 새 칸을 만드세요. 그리고 대표님이 아셔야 할 숫자가 하나 더 있습니다. 중국이 정오에 서명하지 않으면 부소장 자리는 인도가 가져갑니다. 델리가 오늘 아침에 요청했어요.
 
 084. LI: Did they?
-    리: 정말요?
+    리 첸: 정말요?
 
 085. ELIAS: Would you like to find out at noon?
     일라이어스: 정오에 확인해 보시겠습니까?
 
 086. LI: You bluff the way some people breathe, Mr. Grant.
-    리: 그랜트 씨는 숨 쉬듯 블러핑을 하시네요.
+    리 첸: 그랜트 씨는 숨 쉬듯 블러핑을 하시네요.
 
 087. ELIAS: And you check the numbers the way some people pray. Which is why I know you've already noticed the address that sent you the annex.
     일라이어스: 대표님은 기도하듯 숫자를 확인하시고요. 그래서 대표님이 부속서를 보낸 주소를 이미 눈여겨보셨다는 걸 압니다.
 
 088. LI: I've noticed that whoever owns it wants this center to fail more than Beijing does. That is not a comfortable thing to share an inbox with.
-    리: 그 주소 주인이 베이징보다 더 이 연구소가 실패하길 바란다는 건 알아챘어요. 메일함을 같이 쓰기에 편한 상대는 아니죠.
+    리 첸: 그 주소 주인이 베이징보다 더 이 연구소가 실패하길 바란다는 건 알아챘어요. 메일함을 같이 쓰기에 편한 상대는 아니죠.
 
 089. ELIAS: Then let's disappoint them together. China signs fifth, after the United States. You won't be first. You'll be last, which is a very dignified place to stand.
     일라이어스: 그럼 같이 실망시켜 주죠. 중국은 미국 다음, 다섯 번째로 서명합니다. 첫 번째가 아니에요. 마지막이죠. 아주 품위 있는 자리입니다.
 
 090. LI: The last signature is the one everyone photographs.
-    리: 마지막 서명은 다들 사진을 찍는 서명이죠.
+    리 첸: 마지막 서명은 다들 사진을 찍는 서명이죠.
 
 091. ELIAS: Exactly.
     일라이어스: 바로 그겁니다.
@@ -343,8 +343,8 @@
 109. ELIAS: Why didn't you run it?
     일라이어스: 왜 안 썼어요?
 
-110. LENA: Because of what you said in August. It came five hours before a signing, again. I'm starting to feel like somebody's alarm clock.
-    레나: 8월에 당신이 한 말 때문에요. 또 서명 다섯 시간 전에 왔어요. 내가 누군가의 알람시계가 된 기분이 들기 시작했어요.
+110. LENA: Because of what you said in August. It came six hours before a signing, again. I'm starting to feel like somebody's alarm clock.
+    레나: 8월에 당신이 한 말 때문에요. 또 서명 여섯 시간 전에 왔어요. 내가 누군가의 알람시계가 된 기분이 들기 시작했어요.
 
 111. ELIAS: Thank you, Lena. Off the record, that's the most useful thing anyone's done for me this week.
     일라이어스: 고마워요, 레나. 비공식으로 말하면, 이번 주에 누가 나한테 해 준 일 중 제일 쓸모 있는 일이에요.

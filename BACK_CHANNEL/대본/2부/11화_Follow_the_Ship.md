@@ -35,7 +35,7 @@
     사미라: 팀이 몇 개예요?
 
 007. ROCHA: Operação Maré Alta. Eleven warrants, four cities. The main target is the office of Marítima Austral Ltda., in Itaim Bibi, and two properties belonging to Grupo Valente.
-    호샤: 만조 작전. 영장 11건, 도시 네 곳. 주 표적은 이타임 비비에 있는 마리치마 아우스트라우 사무실, 그리고 발렌치 그룹 소유 건물 두 곳이에요.
+    호샤: 만조 작전. 영장 11건, 도시 네 곳. 주 표적은 이타임 비비에 있는 마리치마 아우스트라우 사무실, 그리고 그루포 발렌치 소유 건물 두 곳이에요.
 
 008. ELIAS: And Valente himself?
     일라이어스: 발렌치 본인은요?
@@ -62,7 +62,7 @@
     일라이어스: 날짜도 같고, 금액도 같고, 은행도 같네.
 
 016. SAMIRA: Same everything, except that this time nobody blacked out the name. The beneficial owner of the account is Halberd Group LLC.
-    사미라: 다 같아요. 이번엔 아무도 이름을 지우지 않았다는 것만 빼고요. 그 계좌의 실소유주는 Halberd Group LLC예요.
+    사미라: 다 같아요. 이번엔 아무도 이름을 지우지 않았다는 것만 빼고요. 그 계좌의 실소유주는 할버드 그룹 LLC예요.
 
 017. TOM: Oh, come on.
     톰: 아, 진짜.
@@ -233,7 +233,7 @@
     일라이어스: 이미 개인적인 일입니다. 미나스제라이스에서 제 모스크바 파일을 테이블에 올리셨을 때부터요.
 
 073. VALENTE: Page nineteen is still in my drawer, next to my grandfather's revolver. "Off-Ramps for Moscow," printed under your login at two-fourteen in the morning. It reads very well.
-    발렌치: 19쪽은 아직 제 서랍에 있어요. 할아버지 리볼버 옆에요. 새벽 2시 14분에 당신 계정으로 출력된 「Off-Ramps for Moscow」. 아주 잘 읽히더군요.
+    발렌치: 19쪽은 아직 제 서랍에 있어요. 할아버지 리볼버 옆에요. 새벽 2시 14분에 당신 계정으로 출력된 「모스크바를 위한 출구」. 아주 잘 읽히더군요.
 
 074. ELIAS: Where did you get the file?
     일라이어스: 그 파일은 어디서 구하셨습니까?

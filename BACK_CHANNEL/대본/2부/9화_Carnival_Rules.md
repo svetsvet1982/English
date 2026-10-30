@@ -53,7 +53,7 @@
     아나: 개인 사용 목적 소지였어요. 우리 법으로는 징역형도 아니에요. 경고랑 치료 프로그램 이수 처분을 받았어요. 들고 계신 그 기록에 다 있잖아요.
 
 013. VALENTE: The law, yes. But Portal Tribuna doesn't print the law. It prints headlines. "Security Adviser Buried Brother's Cocaine Case." The judge who sealed it was your former student, wasn't he?
-    발렌치: 법은 그렇죠. 그런데 『Portal Tribuna』는 법을 싣지 않아요. 헤드라인을 싣죠. "안보수석, 동생 코카인 사건 묻었다." 봉인한 판사가 박사님 옛 제자였죠, 아마?
+    발렌치: 법은 그렇죠. 그런데 『포르탈 트리부나』는 법을 싣지 않아요. 헤드라인을 싣죠. "안보수석, 동생 코카인 사건 묻었다." 봉인한 판사가 박사님 옛 제자였죠, 아마?
 
 014. ANA: Half the judges in Bahia were my students. I taught for eleven years.
     아나: 바이아 판사 절반이 제 제자예요. 11년을 가르쳤어요.
@@ -179,7 +179,7 @@
     일라이어스: 발렌치 손에서 무기를 빼앗으시라는 겁니다. 비밀은 먼저 말하는 순간 무기가 아니게 됩니다. 그다음엔 그냥 사실이죠. 그것도 오래된 사실이요.
 
 055. ANA: Easy for you to say. It's not your brother on the front page of Portal Tribuna.
-    아나: 말이야 쉽죠. 『Portal Tribuna』 첫 화면에 실리는 게 당신 동생은 아니잖아요.
+    아나: 말이야 쉽죠. 『포르탈 트리부나』 첫 화면에 실리는 게 당신 동생은 아니잖아요.
 
 056. ELIAS: No. It was me on the front page of the Sentinel in 2025. I spent three years letting other people decide when my story got told. I wouldn't recommend it.
     일라이어스: 아니죠. 2025년 <센티널> 1면엔 제가 실렸습니다. 3년 동안 제 이야기를 언제 할지 남들이 정하게 내버려 뒀어요. 권하고 싶지 않습니다.
@@ -229,8 +229,8 @@
 071. ANA: May thirtieth. Through the login of a court clerk in Salvador who retired two weeks later — to a beach house nobody can explain on a clerk's pension.
     아나: 5월 30일이요. 사우바도르 법원 서기 계정으로요. 그 서기는 2주 뒤에 은퇴했는데, 서기 연금으로는 설명이 안 되는 해변 별장으로 갔죠.
 
-072. ELIAS: May thirtieth. Valente's had this for six weeks, and he waited until the morning after you trusted an American.
-    일라이어스: 5월 30일. 발렌치는 6주 동안 이걸 갖고 있었고, 박사님이 미국인을 믿은 다음 날 아침까지 기다렸군요.
+072. ELIAS: May thirtieth. Valente's had this for six weeks, and he waited until you'd trusted an American.
+    일라이어스: 5월 30일. 발렌치는 6주 동안 이걸 갖고 있었고, 박사님이 미국인을 믿고 난 뒤까지 기다렸군요.
 
 073. ANA: He waited until it would cost the most.
     아나: 가장 비싸게 먹힐 때까지 기다린 거죠.
@@ -299,7 +299,7 @@
     프랭크: 리우라니! 네 할머니가 늘 리우에 가 보고 싶어 했는데. 밥은 먹었니?
 
 095. ELIAS: Hotel eggs. Dad, did anyone in our family ever go through Natal during the war?
-    일라이어스: 호텔 계란이요. 아빠, 전쟁 때 우리 집안에서 나타우를 거쳐 간 사람 있었어?
+    일라이어스: 호텔 계란. 아빠, 전쟁 때 우리 집안에서 나타우를 거쳐 간 사람 있었어?
 
 096. FRANK: My uncle Ray. Radio operator on a bomber in '43. They flew from Florida down the coast to Natal, then across the Atlantic to Africa. They called Natal the Trampoline to Victory.
     프랭크: 레이 삼촌. 43년에 폭격기 통신병이었지. 플로리다에서 해안을 따라 나타우까지 내려갔다가, 거기서 대서양을 건너 아프리카로 갔어. 나타우를 '승리의 도약대'라고 불렀단다.
@@ -311,7 +311,7 @@
     프랭크: 커피는 전쟁 통틀어 최고였고, 브라질 사람들은 한 번도 자기를 손님처럼 느끼게 하지 않았대. "자기네 집을 쓰게 해 주면서도 그게 자기네 집이라는 건 한 번도 잊게 하지 않았다"고 하더라. 왜 묻니?
 
 099. ELIAS: Because tonight I'm going to ask a woman to open her house, Dad. And I need to remember whose house it is.
-    일라이어스: 오늘 밤 한 사람한테 자기 집 문을 열어 달라고 부탁할 거라서요, 아빠. 그게 누구 집인지 잊으면 안 되니까.
+    일라이어스: 오늘 밤 한 사람한테 자기 집 문을 열어 달라고 부탁할 거라서, 아빠. 그게 누구 집인지 잊으면 안 되니까.
 
 100. CAIO: Ana. You never come to Lapa. And you brought an American. Is somebody dead?
     카이우: 누나. 라파엔 절대 안 오잖아. 그리고 미국인을 데려왔네. 누구 죽었어?

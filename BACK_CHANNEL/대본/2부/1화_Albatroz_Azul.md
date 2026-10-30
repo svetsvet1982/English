@@ -26,7 +26,7 @@
     사미라: 바로 그거요. 아직도 살짝 아이스링크 냄새가 나요.
 
 004. TOM: Morning, boss. I brought donuts, which in my line of work counts as a confession.
-    톰: 좋은 아침, 보스. 도넛 사 왔어. 우리 업계에선 이게 자백으로 쳐줘.
+    톰: 좋은 아침, 대장. 도넛 사 왔어. 우리 업계에선 이게 자백으로 쳐줘.
 
 005. ELIAS: A confession of what?
     일라이어스: 뭘 자백하는 건데?
@@ -412,8 +412,8 @@
 132. ELIAS: Twice. And I brought cherry pie both times. That counts for something.
     일라이어스: 두 번. 그리고 두 번 다 체리 파이 사 갔어. 그것도 쳐줘야지.
 
-133. ROSIE: My conference is on the twenty-second. Norway. I've practiced my speech on Grandpa four times.
-    로지: 내 대회 22일이야. 노르웨이. 할아버지 앞에서 연설 네 번이나 연습했어.
+133. ROSIE: My conference got moved to the twenty-second. Norway. I've practiced my speech on Grandpa four times.
+    로지: 내 대회 22일로 미뤄졌어. 노르웨이. 할아버지 앞에서 연설 네 번이나 연습했어.
 
 134. ELIAS: I know. I'm sorry, Rosie. I'll call you that morning, and you'll tell me which delegate needs to be destroyed.
     일라이어스: 알아. 미안해, 로지. 그날 아침에 전화할게. 어느 대표를 박살 내야 하는지 알려 줘.
@@ -443,7 +443,7 @@
     일라이어스: 아뇨. 그분 사무실에 꽃 보내요. 카드도, 요청도 없이. 그리고 대사님께는 우리가 아주 착한 손님이 될 거라고 전해요.
 
 143. TOM: Boss, the front desk. Something came for you before we even checked in.
-    톰: 보스, 프런트야. 우리가 체크인하기도 전에 너한테 뭐가 와 있었대.
+    톰: 대장, 프런트야. 우리가 체크인하기도 전에 너한테 뭐가 와 있었대.
 
 144. ELIAS: Before we checked in? Nobody knew which hotel we'd booked until this morning.
     일라이어스: 체크인하기 전에? 오늘 아침까진 우리가 어느 호텔 잡았는지 아무도 몰랐는데.

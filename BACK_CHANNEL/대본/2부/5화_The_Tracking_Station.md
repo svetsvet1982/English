@@ -416,13 +416,13 @@
     톰: 그냥 그렇게?
 
 134. SAMIRA: Just like that. Nothing personal, Tom. Elias said no one sees it. No one.
-    사미라: 그냥 그렇게요. 개인적인 감정은 없어요, 톰. 일라이어스가 아무도 보여 주지 말랬어요. 아무도요.
+    사미라: 그냥 그렇게요. 개인적인 감정은 없어요, 톰. 특사님이 아무도 보여 주지 말랬어요. 아무도요.
 
 135. TOM: Trust is a budget line, man. Fine. I'll go call my station chief before Dorsey calls him first.
     톰: 신뢰도 예산 항목이라니까. 알았어. 도시가 먼저 전화하기 전에 지국장한테 전화나 하러 갈게.
 
 136. ELIAS: Tom. Tell him I said hello.
-    일라이어스: 톰. 내가 안부 전하더라고 해 줘요.
+    일라이어스: 톰. 내가 안부 전하더라고 해 줘.
 
 137. TOM: He'll be thrilled. He asks about you more than you'd think.
     톰: 아주 감격하겠네. 생각보다 당신 안부를 자주 묻거든.
