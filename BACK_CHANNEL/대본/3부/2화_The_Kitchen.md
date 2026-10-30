@@ -194,25 +194,25 @@
     프랭크: 밥은 먹었니?
 
 060. ELIAS: Dad. You're in a hospital and you're asking me about lunch.
-    일라이어스: 아빠. 병원에 계시면서 점심 얘기를 물어요?
+    일라이어스: 아빠. 병원에 있으면서 점심 얘기를 물어?
 
 061. FRANK: Somebody has to. The doctor says it's angina. They put a camera in my heart this morning. Three arteries are narrower than they should be. They used the word "bypass."
     프랭크: 누군가는 물어야지. 의사가 협심증이래. 오늘 아침에 심장에 카메라를 넣었어. 동맥 세 개가 원래보다 좁다더라. "우회술"이라는 말을 쓰더구나.
 
 062. ELIAS: When?
-    일라이어스: 언제요?
+    일라이어스: 언제?
 
 063. FRANK: Not today. Not this week. They want me stable first, and they want me to stop carrying laundry, which I'm told you already suggested.
     프랭크: 오늘은 아니야. 이번 주도 아니고. 먼저 상태를 안정시키고 싶대. 그리고 빨래 들고 다니지 말래. 듣자 하니 너도 이미 그렇게 말했다며.
 
 064. ELIAS: I'm getting on a plane.
-    일라이어스: 비행기 탈게요.
+    일라이어스: 비행기 탈게.
 
 065. FRANK: Don't you dare. Julia's coming, the nurses are terrifying, and you're in Estonia doing something I'll want to tell my friends about. Where exactly are you?
     프랭크: 그러기만 해 봐라. 줄리아가 오고 있고, 간호사들은 무시무시하고, 넌 에스토니아에서 내가 친구들한테 자랑하고 싶을 일을 하고 있잖아. 정확히 어디 있니?
 
 066. ELIAS: Tallinn. A town on the border is surrounded by armed men, and nobody believes America will come if it gets worse.
-    일라이어스: 탈린이요. 국경 마을 하나가 무장 괴한들한테 둘러싸였는데, 일이 커지면 미국이 올 거라고 아무도 안 믿어요.
+    일라이어스: 탈린. 국경 마을 하나가 무장 괴한들한테 둘러싸였는데, 일이 커지면 미국이 올 거라고 아무도 안 믿어.
 
 067. FRANK: Then let me tell you about 1948. Your Norwegian friend will like this one. It has a Halvorsen in it.
     프랭크: 그럼 1948년 얘기 하나 해 주마. 네 노르웨이 친구가 좋아할 거다. 할보르센이라는 사람이 나오거든.
@@ -221,7 +221,7 @@
     프랭크: 스탈린이 서베를린으로 들어가는 도로와 철도를 전부 끊었어. 200만 명에, 식량은 한 달 치 정도. 다들 트루먼이 연설 한번 하고 물러설 줄 알았지.
 
 069. ELIAS: He sent planes instead.
-    일라이어스: 대신 비행기를 보냈죠.
+    일라이어스: 대신 비행기를 보냈지.
 
 070. FRANK: Flour, coal, milk, for eleven months. At the peak, a plane landed every minute or so. A pilot named Gail Halvorsen dropped candy to the kids on little handkerchief parachutes.
     프랭크: 밀가루, 석탄, 우유를 11개월 동안. 한창때는 거의 1분마다 비행기가 한 대씩 내렸어. 게일 할보르센이라는 조종사는 손수건 낙하산에 사탕을 매달아 아이들한테 떨궜고.
@@ -233,7 +233,7 @@
     프랭크: 사람들이 잊는 대목은 이거야. 총알 한 발 안 쐈다는 거. 스탈린은 언제든 화물기를 떨어뜨릴 수 있었지만 한 번도 안 그랬어. 말은 싸단다, 아들아. 밀가루는 무겁고.
 
 073. ELIAS: Flour is heavy. Dad, I have to go. I'll call you tonight. Please do whatever the terrifying nurses tell you.
-    일라이어스: 밀가루는 무겁다. 아빠, 끊어야겠어요. 저녁에 전화할게요. 그 무시무시한 간호사들 말 다 들으세요, 제발.
+    일라이어스: 밀가루는 무겁다. 아빠, 끊어야겠어. 저녁에 전화할게. 그 무시무시한 간호사들 말 다 들어, 제발.
 
 074. FRANK: I'll consider it. Go find your flour.
     프랭크: 생각해 보마. 가서 네 밀가루 찾아.

@@ -52,8 +52,8 @@
 012. ELIAS: She knows I'm in Finland. Finland is a big country with a lot of saunas.
     일라이어스: 핀란드에 있는 건 알아. 핀란드는 큰 나라고 사우나가 아주 많지.
 
-013. TOM: Day forty in Vaiksoo. Forty men without insignia, a town full of Red Cross witnesses, and nobody has fired a shot.
-    톰: 바이크소 40일째. 휘장 없는 남자 마흔 명, 적십자 증인들로 가득한 마을. 그런데 아무도 총 한 발 안 쐈어.
+013. TOM: Day forty in Vaiksoo. Forty-one men without insignia, a town full of Red Cross witnesses, and nobody has fired a shot.
+    톰: 바이크소 40일째. 휘장 없는 남자 마흔한 명, 적십자 증인들로 가득한 마을. 그런데 아무도 총 한 발 안 쐈어.
 
 014. ELIAS: Nobody has fired a shot yet. That word is doing all the work.
     일라이어스: 아직 아무도 안 쐈지. 그 '아직'이 다 하고 있는 거야.
@@ -154,8 +154,8 @@
 046. ELIAS: Understood.
     일라이어스: 알았어.
 
-047. DMITRI: Volna Security Group. A private military company. Offices in St. Petersburg, money in Cyprus. Forty men and one dog.
-    드미트리: 볼나 시큐리티 그룹. 민간 군사 기업이야. 사무실은 상트페테르부르크, 돈은 키프로스. 남자 마흔 명에 개 한 마리.
+047. DMITRI: Volna Security Group. A private military company. Offices in St. Petersburg, money in Cyprus. Forty-one men and one dog.
+    드미트리: 볼나 시큐리티 그룹. 민간 군사 기업이야. 사무실은 상트페테르부르크, 돈은 키프로스. 남자 마흔한 명에 개 한 마리.
 
 048. ELIAS: And the Kremlin controls them.
     일라이어스: 그리고 크렘린이 그들을 통제하고.
@@ -163,8 +163,8 @@
 049. DMITRI: The Kremlin would very much like to control them. That is the embarrassing part. Volna does not take orders from Moscow. Volna takes orders from whoever transfers money on the first of the month.
     드미트리: 크렘린은 아주 통제하고 싶어 하지. 그게 창피한 부분이야. 볼나는 모스크바 명령을 안 받아. 매달 1일에 돈 보내는 사람 명령을 받지.
 
-050. ELIAS: You're telling me forty armed men walked across your border and Moscow couldn't stop them.
-    일라이어스: 무장한 남자 마흔 명이 너희 국경을 건너갔는데 모스크바가 못 막았다는 거야?
+050. ELIAS: You're telling me forty-one armed men walked across your border and Moscow couldn't stop them.
+    일라이어스: 무장한 남자 마흔한 명이 너희 국경을 건너갔는데 모스크바가 못 막았다는 거야?
 
 051. DMITRI: Moscow was told they would "guard a water facility for a commercial client." Somebody in our border service took an envelope.
     드미트리: 모스크바는 그들이 "상업 고객을 위해 수도 시설을 경비한다"고 들었어. 우리 국경경비대의 누군가가 봉투를 받았고.
@@ -335,19 +335,19 @@
     프랭크: 일라이어스? 여긴 6시 넘었다. 밥은 먹었니?
 
 107. ELIAS: Herring and rye bread. Finland's idea of dinner. How are you feeling, Dad?
-    일라이어스: 청어랑 호밀빵이요. 핀란드식 저녁이지. 몸은 좀 어때요, 아빠?
+    일라이어스: 청어랑 호밀빵. 핀란드식 저녁이지. 몸은 좀 어때, 아빠?
 
 108. FRANK: Like a man whose heart has been scheduled. Still the twenty-first, a Tuesday. Triple bypass, all three arteries.
     프랭크: 심장에 일정이 잡힌 사람 같다. 여전히 21일, 화요일이야. 삼중 우회술, 세 혈관 다.
 
 109. ELIAS: I'll be there. I'll fly in on the twentieth.
-    일라이어스: 갈게요. 20일에 날아갈게.
+    일라이어스: 갈게. 20일에 날아갈게.
 
 110. FRANK: You'll be wherever your country needs you, and I'll be asleep anyway. But I'd like you there. Rosie says she's coming, school or no school.
     프랭크: 넌 나라가 필요로 하는 데 있겠지. 어차피 난 자고 있을 거고. 그래도 네가 와 줬으면 좋겠구나. 로지는 학교고 뭐고 온다더라.
 
 111. ELIAS: I'll be there. Dad, tell me about the Jupiters. October 1962.
-    일라이어스: 갈게요. 아빠, 주피터 얘기 좀 해 줘요. 1962년 10월.
+    일라이어스: 갈게. 아빠, 주피터 얘기 좀 해 줘. 1962년 10월.
 
 112. FRANK: Let me tell you about 1962. You know the Jupiters were already old? Liquid fuel, sitting above ground in Turkey. Kennedy had asked about getting rid of them before Cuba ever happened.
     프랭크: 1962년 얘기 하나 해 주마. 주피터가 이미 구식이었던 거 아니? 액체 연료에, 튀르키예 땅 위에 그냥 서 있었어. 케네디는 쿠바 사태가 터지기도 전에 그걸 없애는 문제를 물어봤었지.
@@ -359,37 +359,37 @@
     프랭크: 그게 요령이지. 어차피 버리려던 물건을 맞바꾸는 거야. 상대가 모르기만 하면.
 
 115. ELIAS: Bobby Kennedy met Dobrynin at the Justice Department, Saturday night, the twenty-seventh.
-    일라이어스: 바비 케네디가 법무부에서 도브리닌을 만났죠. 27일 토요일 밤에.
+    일라이어스: 바비 케네디가 법무부에서 도브리닌을 만났지. 27일 토요일 밤에.
 
 116. FRANK: And he told him the missiles in Turkey would be gone in four or five months, but it couldn't be part of any public deal. If the Soviets ever talked about it, the promise was off.
     프랭크: 그리고 튀르키예 미사일은 넉 달이나 다섯 달 안에 없어질 거지만, 공개 합의엔 절대 넣을 수 없다고 했어. 소련이 그 얘길 입 밖에 내면 약속은 없던 일이라고.
 
 117. ELIAS: And it worked.
-    일라이어스: 그리고 통했고요.
+    일라이어스: 그리고 통했고.
 
 118. FRANK: It worked. Here's the part nobody likes to teach, son. The Turks weren't told. Those were NATO missiles on Turkish soil, and Turkey learned what had been traded over its head when everybody else did.
     프랭크: 통했지. 아무도 가르치기 싫어하는 대목이 이거다, 얘야. 튀르키예는 몰랐어. 튀르키예 땅에 있는 NATO 미사일이었는데, 머리 위에서 뭐가 거래됐는지 남들 알 때 같이 알았지.
 
 119. ELIAS: Decades later.
-    일라이어스: 수십 년 뒤에요.
+    일라이어스: 수십 년 뒤에.
 
 120. FRANK: The story leaked out in pieces for years. The full thing came out at a conference in Moscow in 1989, when Kennedy's own speechwriter admitted he'd cut the trade out of Bobby's book.
     프랭크: 수년에 걸쳐 조금씩 새어 나왔어. 전모가 나온 건 1989년 모스크바 회의에서였지. 케네디의 연설문 작성자가 바비 책에서 그 거래 대목을 자기가 잘라 냈다고 털어놓았거든.
 
 121. ELIAS: Sorensen.
-    일라이어스: 소렌슨이요.
+    일라이어스: 소렌슨.
 
 122. FRANK: Ted Sorensen. Now, I don't know what you're doing in Finland, and I don't want to. But if you're trading something that sits in somebody else's yard, you'd better tell them before the history teachers do.
     프랭크: 테드 소렌슨. 자, 네가 핀란드에서 뭘 하는지 난 모르고, 알고 싶지도 않다. 그런데 남의 마당에 있는 걸 거래하는 거라면, 역사 선생들이 말하기 전에 그 사람들한테 먼저 말하는 게 좋을 거다.
 
 123. ELIAS: Even if telling them could sink the deal?
-    일라이어스: 말하는 순간 거래가 깨질 수 있어도요?
+    일라이어스: 말하는 순간 거래가 깨질 수 있어도?
 
 124. FRANK: A deal that sinks when the owner of the yard hears about it wasn't much of a deal. Eat something besides fish, Elias.
     프랭크: 마당 주인이 듣는 순간 깨지는 거래라면 애초에 대단한 거래도 아니었던 거지. 생선 말고 다른 것도 좀 먹어라, 일라이어스.
 
 125. ELIAS: I'll find a pastry. Get some sleep, Dad. The twentieth. I promise.
-    일라이어스: 페이스트리라도 찾아볼게요. 좀 자요, 아빠. 20일. 약속해요.
+    일라이어스: 페이스트리라도 찾아볼게. 좀 자, 아빠. 20일. 약속해.
 
 126. INGRID: It's ten at night in Brussels, Elias, and you're calling on Tom's clean line. That means you either have good news or very interesting bad news.
     잉그리드: 브뤼셀은 밤 10시예요, 일라이어스. 그런데 톰의 깨끗한 회선으로 전화하셨네요. 좋은 소식이 있거나, 아주 흥미로운 나쁜 소식이 있다는 뜻이죠.

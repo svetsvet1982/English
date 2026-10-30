@@ -10,7 +10,7 @@
 > - 역사 사례: 데이턴 협정 (1995) — 프랭크가 열한 살 아들을 라이트-패터슨 공군기지 정문에 데려갔던 기억으로 '방에 붙잡아 두는 협상'을 이야기하고, 카드리가 "작은 나라는 미국 공군기지에서 쪼개진다"고 찌르자 일라이어스가 이제트베고비치의 말로 반박한다(카드리는 "보스니아는 아직도 둘로 나뉘어 있다"고 응수) · 쿠바 미사일 위기의 주피터 거래 (1962) 재소환
 > - 전술 태그: [비밀 합의] [설득] [거짓말(대외 발표)] [블러핑] [세 번째 문]
 > - 이번 화의 핵심 표현: quiet understanding / off-ramp / rotation / attribution / face-saving / "No concessions were made, and none were asked for." / "Nothing in writing." / "I've lied to ministers all my life."
-> - 복선/연결: 10화의 앰버 실드 도하 단계 → 5월 '정기 순환' · 볼나는 러시아 국경경비대가 '국경 질서 위반'으로 체포하는 형식으로 철수 · 소총·드론은 증거로 남김(귀속 판단) · 매기가 캘러웨이에게 일라이어스의 보고 경로를 물음 · 사미라 무죄의 근거(이웃 초인종 카메라 23:09) · 9월 29일 작전센터 별관 문의 23:06 출입 = 7층 '집무실 공용 수행 출입증', 9월 대출 대장 분실 → 12화
+> - 복선/연결: 10화의 앰버 실드 도하 단계 → 5월 '정기 순환' · 볼나는 러시아 국경경비대가 '국경 질서 위반'으로 체포하는 형식으로 철수 · 소총·드론은 증거로 남김(귀속 판단) · 매기가 캘러웨이에게 일라이어스의 보고 경로를 물음 · 사미라 무죄의 근거(길 건너 세탁소 카메라 23:09) · 9월 29일 작전센터 별관 문의 23:06 출입 = 7층 '집무실 공용 수행 출입증', 9월 대출 대장 분실 → 12화
 
 ---
 
@@ -43,8 +43,8 @@
 009. DMITRI: Not by Estonians. If one Estonian policeman touches them, Moscow has its film.
     드미트리: 에스토니아 사람들은 안 돼. 에스토니아 경찰이 하나라도 손대면 모스크바가 영상을 얻는 거야.
 
-010. ELIAS: By your border service. On your bank of the river. Forty armed men cross back into Russia without papers. That's a violation of your border regime.
-    일라이어스: 너희 국경경비대가. 강 너희 쪽 둑에서. 무장한 남자 마흔 명이 서류도 없이 러시아로 다시 넘어오잖아. 그건 너희 국경 규정 위반이지.
+010. ELIAS: By your border service. On your bank of the river. Forty-one armed men cross back into Russia without papers. That's a violation of your border regime.
+    일라이어스: 너희 국경경비대가. 강 너희 쪽 둑에서. 무장한 남자 마흔한 명이 서류도 없이 러시아로 다시 넘어오잖아. 그건 너희 국경 규정 위반이지.
 
 011. DMITRI: You want Russia to arrest Russians for coming home.
     드미트리: 러시아더러 집에 온 러시아 사람들을 체포하라고?
@@ -140,13 +140,13 @@
     프랭크: 일찍 전화하네. 밥은 먹었니?
 
 042. ELIAS: Hotel eggs. Estonian eggs are very serious eggs. How are you, Dad?
-    일라이어스: 호텔 달걀이요. 에스토니아 달걀은 아주 진지한 달걀이야. 어때요, 아빠?
+    일라이어스: 호텔 달걀. 에스토니아 달걀은 아주 진지한 달걀이야. 어때, 아빠?
 
 043. FRANK: Pre-op tests on Thursday. They gave me a pamphlet with a cartoon heart on it, smiling. I find that suspicious.
     프랭크: 목요일에 수술 전 검사다. 웃는 만화 심장이 그려진 안내 책자를 주더라. 그게 수상해.
 
 044. ELIAS: Dad, do you remember November 1995? You drove me out to Wright-Patterson.
-    일라이어스: 아빠, 1995년 11월 기억나요? 나 데리고 라이트-패터슨에 갔잖아.
+    일라이어스: 아빠, 1995년 11월 기억나? 나 데리고 라이트-패터슨에 갔잖아.
 
 045. FRANK: You were eleven. You wanted to see the presidents, and all we saw was a chain-link fence and a lot of television trucks.
     프랭크: 넌 열한 살이었지. 대통령들을 보고 싶어 했는데, 본 건 철조망이랑 방송 차량들뿐이었어.
@@ -158,13 +158,13 @@
     프랭크: 대충 맞다. 홀브룩이 보스니아, 세르비아, 크로아티아 사람들을 3주 동안 그 기지에 붙잡아 뒀지. 안에 기자도 없고, 밖으로 나돌지도 못하게. 사람들을 매일 밤 집에 보내면 너랑 협상하는 대신 집이랑 협상한다는 거였지.
 
 048. ELIAS: And it ended a war.
-    일라이어스: 그리고 전쟁을 끝냈고요.
+    일라이어스: 그리고 전쟁을 끝냈고.
 
 049. FRANK: It ended a war. It didn't make anybody love each other. Initialed on November twenty-first, 1995. Signed in Paris that December.
     프랭크: 전쟁을 끝냈지. 누가 누굴 사랑하게 만들진 못했고. 1995년 11월 21일에 가서명, 그해 12월 파리에서 정식 서명.
 
 050. ELIAS: November twenty-first. That's your surgery date.
-    일라이어스: 11월 21일. 아빠 수술 날이네요.
+    일라이어스: 11월 21일. 아빠 수술 날이네.
 
 051. FRANK: Thirty-three years to the day. A good omen, if you believe in omens, and I'm a history teacher, so I believe in footnotes. Go do whatever you're doing.
     프랭크: 딱 33년째 되는 날이지. 징조를 믿는다면 좋은 징조고. 난 역사 선생이라 각주를 믿지만. 가서 하던 일 해라.
@@ -368,7 +368,7 @@
     카드리: 우리 국경 카메라에 다리 차단기가 올라갔대요. 건너편 둑에 러시아 버스 두 대. 군인은 없어요. 녹색 모자 쓴 국경경비대원들뿐이에요.
 
 118. ELIAS: Buses. Not trucks.
-    일라이어스: 버스네. 트럭이 아니라.
+    일라이어스: 버스네요. 트럭이 아니라.
 
 119. TOM: Trucks are for an army. Buses are for an arrest.
     톰: 트럭은 군대용이고, 버스는 체포용이지.
@@ -380,13 +380,13 @@
     톰: 쌍안경에 잡혔어. 세는 중. 열둘. 스물. 스물여덟.
 
 122. ELIAS: And the border-guard station?
-    일라이어스: 국경경비대 초소는?
+    일라이어스: 국경경비대 초소는요?
 
 123. KADRI: Second group, from the old station. One of them has a dog.
     카드리: 두 번째 무리요. 옛 초소에서. 한 명은 개를 데리고 있어요.
 
 124. ELIAS: The man with the dog.
-    일라이어스: 개 데리고 있던 그 사람이네.
+    일라이어스: 개 데리고 있던 그 사람이네요.
 
 125. TOM: Thirty-nine. Forty. Forty-one. That's all of them, man. Forty-one men and one very confused German shepherd, walking into Russia.
     톰: 서른아홉. 마흔. 마흔하나. 다야. 마흔한 명이랑 아주 어리둥절한 셰퍼드 한 마리가 러시아로 걸어 들어가고 있어.
@@ -418,8 +418,8 @@
 134. ELIAS: Forty-five days, and it ends with soup.
     일라이어스: 45일 만에, 수프로 끝나네.
 
-135. TOM: Text from Helsinki. No name. Just a chess move. And under it: "In Russia, we have a saying: the bridge remembers who crossed it."
-    톰: 헬싱키에서 문자 왔어. 이름은 없고. 체스 수 하나. 그 밑에 이렇게 써 있어. "러시아엔 이런 말이 있지. 다리는 누가 건넜는지 기억한다."
+135. TOM: Text from Helsinki. No name. Just his answer to the move you sent at two. And under it: "In Russia, we have a saying: the bridge remembers who crossed it."
+    톰: 헬싱키에서 문자 왔어. 이름은 없고. 두 시에 보낸 네 수에 대한 답수 하나. 그 밑에 이렇게 써 있어. "러시아엔 이런 말이 있지. 다리는 누가 건넜는지 기억한다."
 
 136. ELIAS: That's not a real saying. Tell him it is now. Tom, my phone's ringing. It's Samira.
     일라이어스: 그거 진짜 속담 아니야. 이제부터 진짜라고 전해 줘. 톰, 내 전화 울린다. 사미라야.

@@ -392,25 +392,25 @@
     프랭크: 밥은 먹었니? 줄리아가 뉴스에 나온 네가 말라 보인대.
 
 126. ELIAS: I had a pretzel in Berlin. Dad, what did the surgeon say?
-    일라이어스: 베를린에서 프레첼 먹었어요. 아빠, 외과 의사는 뭐래요?
+    일라이어스: 베를린에서 프레첼 먹었어. 아빠, 외과 의사는 뭐래?
 
 127. FRANK: November twenty-first. I told her that's two days before Thanksgiving. She said, "Then you'll have something to be thankful for." I like her.
     프랭크: 11월 21일이래. 추수감사절 이틀 전이라고 했더니 "그럼 감사할 거리가 생기시겠네요" 하더라. 마음에 드는 양반이야.
 
 128. ELIAS: I'll be there. Whatever happens in Europe, I'll be in Dayton on the twenty-first.
-    일라이어스: 갈게요. 유럽에서 무슨 일이 있어도 21일엔 데이턴에 있을게요.
+    일라이어스: 갈게. 유럽에서 무슨 일이 있어도 21일엔 데이턴에 있을게.
 
 129. FRANK: You're in Berlin. Did they make you say it? "Ich bin ein Berliner"?
     프랭크: 베를린에 있구나. 그 말 하게 하더냐? "Ich bin ein Berliner"?
 
 130. ELIAS: The opposite. A German official reminded me Kennedy didn't lift a finger when the Wall went up.
-    일라이어스: 반대예요. 독일 관리 한 분이 장벽이 올라갈 때 케네디가 손가락 하나 까딱 안 했다는 걸 일깨워 주더라고요.
+    일라이어스: 반대야. 독일 관리 한 사람이 장벽이 올라갈 때 케네디가 손가락 하나 까딱 안 했다는 걸 일깨워 주더라.
 
 131. FRANK: He's not wrong. I was nine in 1963. We watched the speech on the evening news. My father said, "Kennedy's going to Berlin because he let them down. That's why it matters."
     프랭크: 틀린 말은 아니지. 1963년에 난 아홉 살이었다. 저녁 뉴스로 그 연설을 봤어. 우리 아버지가 그러셨지. "케네디가 베를린에 가는 건 그들을 실망시켰기 때문이야. 그래서 중요한 거고."
 
 132. ELIAS: Because he let them down?
-    일라이어스: 실망시켰기 때문이라고요?
+    일라이어스: 실망시켰기 때문이라고?
 
 133. FRANK: A man who's never let you down doesn't need to show up. The one who has, and shows up anyway, that's the one you remember. Go show up, son.
     프랭크: 한 번도 실망시킨 적 없는 사람은 굳이 찾아올 필요가 없어. 실망시켜 놓고도 그래도 찾아오는 사람, 그게 기억에 남는 사람이야. 가서 찾아가라, 아들아.
@@ -442,8 +442,8 @@
 142. WEISS: Because you told me something true that hurt you. In my experience, people who are selling something don't do that. Good night.
     바이스: 당신한테 불리한 진실을 말해 줬으니까요. 제 경험상, 뭔가를 팔러 온 사람은 그러지 않습니다. 안녕히 주무십시오.
 
-143. SAMIRA: Number fifteen. "October ninth. Twenty-two real pages, held for eight months, released six days after the fake."
-    사미라: 15번이요. "10월 9일. 진짜 22쪽, 여덟 달 동안 보유, 가짜 엿새 뒤에 공개."
+143. SAMIRA: Number seventeen. "October ninth. Twenty-two real pages, held for eight months, released six days after the fake."
+    사미라: 17번이요. "10월 9일. 진짜 22쪽, 여덟 달 동안 보유, 가짜 엿새 뒤에 공개."
 
 144. TOM: The first real one on the whole list, right? Everything else was stolen or forged.
     톰: 목록 전체에서 진짜는 이게 처음이지? 나머진 다 훔친 거거나 위조였잖아.

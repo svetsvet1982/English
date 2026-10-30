@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 8화 · 서사 기능: 3부 핵심 화 · '세 번째 문'(카나리아 트랩) 실행과 적중 · 민간인 증인단 첫 진입
-> - 배경: 워싱턴 국무부 7층 SESA '벽장'(2028년 10월 26일 목요일 19:00) → 10월 27일(금) 08:00 부장관 집무실 → 10월 31일(화) 05:10 '벽장'(<센티널> 온라인 기사) · 같은 날 오전 국무장관 집무실 → 같은 날 밤 덜레스 공항 탑승구(로지 전화) → 11월 2일(목) 15:00 에스토니아 바이크소 양수장 앞 거리
+> - 배경: 워싱턴 국무부 7층 SESA '벽장'(2028년 10월 26일 목요일 13:00 — 위원회 사본은 이날 오후 발송, 16:52 브랜든 서명) → 10월 27일(금) 08:00 부장관 집무실 → 10월 31일(화) 05:10 '벽장'(<센티널> 온라인 기사) · 같은 날 오전 국무장관 집무실 → 같은 날 밤 덜레스 공항 탑승구(로지 전화) → 11월 2일(목) 15:00 에스토니아 바이크소 양수장 앞 거리
 > - 등장인물: 일라이어스 그랜트, 톰 레예스, 매기 홀러웨이, 레나 보스(전화), 로버트 캘러웨이 국무장관, 로지 그랜트(전화), 카드리 탐, 이리나 카스크 바이크소 시장(단역), 양수장 경비병(이름 없음, 단역)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 수에즈 위기 (1956) — 일라이어스가 "동맹도 속인다"며 자기 보고서에 덫을 심는 것을 정당화하고, 톰이 "아이젠하워는 덫이 아니라 U-2 사진으로 알았다"고 반박한다. 캘러웨이 앞에서 일라이어스가 다시 꺼낸다("장관님은 사진 말고 저한테 들으시라고")
@@ -20,37 +20,37 @@
     톰: 사미라 책상이 무슨 범행 현장을 누가 나중에 치워 놓은 것 같네.
 
 002. ELIAS: Diplomatic Security took her laptop and notebooks. They left the stapler.
-    일라이어스: 외교안보국이 노트북이랑 공책을 가져갔어요. 스테이플러는 두고 갔고요.
+    일라이어스: 외교안보국이 노트북이랑 공책을 가져갔어. 스테이플러는 두고 갔고.
 
 003. TOM: Four copies. Walk me through it before I help you lie.
     톰: 사본 네 개. 거짓말 돕기 전에 하나씩 설명해 봐.
 
 004. ELIAS: It's not a lie. It's the same status report, word for word, except for one sentence in the third paragraph.
-    일라이어스: 거짓말 아니에요. 토씨까지 똑같은 상황 보고서예요. 셋째 문단의 한 문장만 빼고요.
+    일라이어스: 거짓말 아니야. 토씨까지 똑같은 상황 보고서야. 셋째 문단의 한 문장만 빼고.
 
 005. TOM: And that sentence is different in every copy.
     톰: 그 문장만 사본마다 다르고.
 
 006. ELIAS: Different words, same meaning. Nobody gets false information. They just get it in their own handwriting, so to speak.
-    일라이어스: 단어는 다르고 뜻은 같아요. 아무도 틀린 정보를 받지 않아요. 말하자면 각자 자기 필체로 받는 거죠.
+    일라이어스: 단어는 다르고 뜻은 같아. 아무도 틀린 정보를 받지 않아. 말하자면 각자 자기 필체로 받는 거지.
 
 007. TOM: What's the meaning?
     톰: 그 뜻이 뭔데?
 
 008. ELIAS: That the men in Vaiksoo are paid, not sent. That whoever owns them, it isn't a general in Moscow.
-    일라이어스: 바이크소의 그놈들은 보내진 게 아니라 고용됐다는 거요. 주인이 누구든 모스크바의 장군은 아니라는 거.
+    일라이어스: 바이크소의 그놈들은 보내진 게 아니라 고용됐다는 거. 주인이 누구든 모스크바의 장군은 아니라는 거.
 
 009. TOM: Whoa. You promised Kadri that intercept stays between Tallinn and you.
     톰: 워. 그 감청은 탈린이랑 너 사이에만 두겠다고 카드리한테 약속했잖아.
 
 010. ELIAS: And it does. The intercept isn't in the report. The judgment is mine. You told me yourself on the river: nobody comes, nobody goes. That's how contractors run a post.
-    일라이어스: 그러니까 지키죠. 감청은 보고서에 없어요. 판단은 제 거예요. 강가에서 형이 직접 그랬잖아요. 드는 놈도 나는 놈도 없다고. 그게 계약직이 초소를 지키는 방식이라고.
+    일라이어스: 그러니까 지키지. 감청은 보고서에 없어. 판단은 내 거야. 강가에서 네가 직접 그랬잖아. 드는 놈도 나는 놈도 없다고. 그게 계약직이 초소를 지키는 방식이라고.
 
 011. TOM: Fine. Read me the four.
     톰: 좋아. 네 개 읽어 봐.
 
 012. ELIAS: Callaway's copy says, "Whoever pays these men, it is not the Kremlin's usual paymaster."
-    일라이어스: 캘러웨이 사본엔 이렇게 써요. "이자들에게 돈을 대는 게 누구든, 크렘린의 평소 물주는 아니다."
+    일라이어스: 캘러웨이 사본엔 이렇게 써. "이자들에게 돈을 대는 게 누구든, 크렘린의 평소 물주는 아니다."
 
 013. TOM: Okay. Stiff. Very Callaway.
     톰: 오케이. 딱딱하네. 딱 캘러웨이야.
@@ -68,73 +68,73 @@
     톰: 그건 위험한데. 백악관에서 누가 수표책부터 찾기 시작할걸.
 
 018. ELIAS: Then I'll know that too. And Senator Pruitt's copy, through the committee, says, "These men are on a contract, not on a mission."
-    일라이어스: 그럼 그것도 알게 되겠죠. 그리고 위원회를 거쳐 가는 프루잇 의원 사본엔, "이자들은 임무가 아니라 계약으로 와 있다."
+    일라이어스: 그럼 그것도 알게 되겠지. 그리고 위원회를 거쳐 가는 프루잇 의원 사본엔, "이자들은 임무가 아니라 계약으로 와 있다."
 
 019. TOM: That's the catchiest one. You gave the best line to Pruitt.
     톰: 그게 제일 입에 붙는다. 제일 좋은 대사를 프루잇한테 줬네.
 
 020. ELIAS: I gave every office the line it would most want to repeat.
-    일라이어스: 사무실마다 제일 따라 하고 싶을 문장을 준 거예요.
+    일라이어스: 사무실마다 제일 따라 하고 싶을 문장을 준 거야.
 
 021. TOM: And if nothing leaks?
     톰: 아무것도 안 새면?
 
 022. ELIAS: Then either the leaker is careful, or the leaker sits in Ingrid's office, or the leaker is me. Honestly, any of those answers is worth having.
-    일라이어스: 그럼 유출자가 조심스럽거나, 잉그리드 사무실에 앉아 있거나, 아니면 유출자가 저거나. 솔직히 어느 답이든 알아 둘 가치가 있어요.
+    일라이어스: 그럼 유출자가 조심스럽거나, 잉그리드 사무실에 앉아 있거나, 아니면 유출자가 나거나. 솔직히 어느 답이든 알아 둘 가치가 있어.
 
 023. TOM: You know this is a Tom Clancy thing, right? He called it a canary trap. Every copy sings a slightly different song.
     톰: 이거 톰 클랜시 수법인 거 알지? 카나리아 트랩이라고 불렀잖아. 사본마다 살짝 다른 노래를 부르는 거.
 
 024. ELIAS: Samira told me that in February. She also said intelligence services were doing it long before anyone wrote a novel about it.
-    일라이어스: 사미라가 2월에 그 얘기 해 줬어요. 소설로 쓰기 훨씬 전부터 정보기관들은 그렇게 해 왔다고도 했고요.
+    일라이어스: 사미라가 2월에 그 얘기 해 줬어. 소설로 쓰기 훨씬 전부터 정보기관들은 그렇게 해 왔다고도 했고.
 
 025. TOM: Here's what bugs me, man. You're running a sting on your own government. On the Secretary of State. On the woman who flew to Montreal to bring you back.
     톰: 내가 걸리는 건 이거야. 넌 지금 네 정부한테 함정 수사를 하는 거라고. 국무장관한테. 널 데려오려고 몬트리올까지 날아간 여자한테.
 
 026. ELIAS: Allies deceive each other, Tom. In October 1956, Britain, France, and Israel met secretly outside Paris and agreed on a plan to seize the Suez Canal. Nobody told Eisenhower.
-    일라이어스: 동맹끼리도 속여요, 형. 1956년 10월에 영국, 프랑스, 이스라엘이 파리 근교에서 몰래 만나서 수에즈 운하를 장악할 계획에 합의했어요. 아이젠하워한텐 아무도 말 안 했고요.
+    일라이어스: 동맹끼리도 속여, 톰. 1956년 10월에 영국, 프랑스, 이스라엘이 파리 근교에서 몰래 만나서 수에즈 운하를 장악할 계획에 합의했어. 아이젠하워한텐 아무도 말 안 했고.
 
 027. TOM: Sèvres. Israel goes in, London and Paris pretend to be referees.
     톰: 세브르. 이스라엘이 쳐들어가고, 런던이랑 파리는 심판인 척하고.
 
 028. ELIAS: And a week before his own reelection, Eisenhower found out his closest allies had lied to his face. So he squeezed them. No oil, no help for the pound, a ceasefire resolution at the UN.
-    일라이어스: 그리고 자기 재선 일주일 전에, 아이젠하워는 가장 가까운 동맹들이 자기를 대놓고 속였다는 걸 알게 돼요. 그래서 그들을 쥐어짰죠. 석유도 안 주고, 파운드화도 안 도와주고, 유엔에선 휴전 결의안.
+    일라이어스: 그리고 자기 재선 일주일 전에, 아이젠하워는 가장 가까운 동맹들이 자기를 대놓고 속였다는 걸 알게 돼. 그래서 그들을 쥐어짰지. 석유도 안 주고, 파운드화도 안 도와주고, 유엔에선 휴전 결의안.
 
 029. TOM: Right. But Ike didn't catch them with a trap. The U-2s photographed French jets in Israel that Paris had never mentioned. He caught them by looking, not by lying.
     톰: 그래. 근데 아이크는 덫으로 잡은 게 아니야. U-2가 파리가 말도 안 한 프랑스 전투기들이 이스라엘에 있는 걸 찍었지. 거짓말이 아니라 그냥 보고 알아낸 거라고.
 
 030. ELIAS: He had a plane that saw over walls. I've got four envelopes.
-    일라이어스: 그 사람은 담 너머를 보는 비행기가 있었죠. 전 봉투 네 개뿐이고요.
+    일라이어스: 그 사람은 담 너머를 보는 비행기가 있었지. 난 봉투 네 개뿐이고.
 
 031. TOM: Fair. Eden resigned two months later. So the story has a moral.
     톰: 인정. 이든은 두 달 뒤에 사임했지. 그러니 교훈은 있는 이야기네.
 
 032. ELIAS: The moral is that the friend who lies to you does more damage than the enemy who does. Where does the key live?
-    일라이어스: 교훈은, 나한테 거짓말하는 친구가 적보다 더 큰 피해를 준다는 거죠. 열쇠는 어디 둬요?
+    일라이어스: 교훈은, 나한테 거짓말하는 친구가 적보다 더 큰 피해를 준다는 거지. 열쇠는 어디 둬?
 
 033. TOM: The key?
     톰: 열쇠?
 
 034. ELIAS: Which sentence went to which office. It can't be on a computer. It can't be in this building.
-    일라이어스: 어느 문장이 어느 사무실로 갔는지요. 컴퓨터에 있으면 안 되고, 이 건물에 있어도 안 돼요.
+    일라이어스: 어느 문장이 어느 사무실로 갔는지. 컴퓨터에 있으면 안 되고, 이 건물에 있어도 안 돼.
 
 035. TOM: Give it to me. My safe in Langley. My counterintelligence people never got told to stop watching you, so nobody'll think twice about a file with your name on it.
     톰: 나 줘. 랭글리 내 금고에. 방첩부는 너 감시하는 거 그만두라는 말을 들은 적이 없거든. 네 이름 붙은 파일 하나쯤은 아무도 신경 안 써.
 
 036. ELIAS: That's either very reassuring or very depressing.
-    일라이어스: 그거 아주 안심되는 말이거나 아주 우울한 말이네요.
+    일라이어스: 그거 아주 안심되는 말이거나 아주 우울한 말이네.
 
 037. TOM: It's both. Welcome to my job. How are the copies going out?
     톰: 둘 다야. 내 직업에 온 걸 환영해. 사본은 어떻게 내보내?
 
 038. ELIAS: Callaway's by hand to his front office tonight. The NSC through the Executive Secretariat. The committee copy through Legislative Affairs to the Senate security office. Maggie's I deliver myself, tomorrow at eight.
-    일라이어스: 캘러웨이 건 오늘 밤 장관 비서실에 직접. NSC는 행정비서실 경유로. 위원회 사본은 의회 담당국을 거쳐 상원 보안실로. 매기 건 내일 아침 여덟 시에 제가 직접 가져가요.
+    일라이어스: 캘러웨이 건 오늘 밤 장관 비서실에 직접. NSC는 행정비서실 경유로. 위원회 사본은 의회 담당국을 거쳐 상원 보안실로. 매기 건 내일 아침 여덟 시에 내가 직접 가져가.
 
 039. TOM: Close hold, all of them?
     톰: 전부 극비 취급이지?
 
 040. ELIAS: Close hold, need to know, no copies. According to Samira's list, so were the last four leaks.
-    일라이어스: 극비 취급, 알 사람만, 복사 금지. 사미라 목록을 보면 지난 네 번 샌 것들도 다 그랬어요.
+    일라이어스: 극비 취급, 알 사람만, 복사 금지. 사미라 목록을 보면 지난 네 번 샌 것들도 다 그랬어.
 
 041. MAGGIE: You're hand-delivering now. Either you've gone old-fashioned or you've stopped trusting the mailroom.
     매기: 이젠 직접 배달까지 하네. 구식이 됐거나, 우편실을 못 믿게 됐거나.
@@ -166,8 +166,8 @@
 050. ELIAS: Then I'll shred it myself.
     일라이어스: 그럼 제가 파쇄할게요.
 
-051. MAGGIE: Do. How's Samira holding up?
-    매기: 그래. 사미라는 어떻게 버티고 있어?
+051. MAGGIE: Don't bother. Leave it with my chief of staff on your way out. The shredder sits by that desk. How's Samira holding up?
+    매기: 그럴 것 없어. 나가는 길에 내 비서실장한테 두고 가. 파쇄기가 그 책상 옆에 있으니까. 사미라는 어떻게 버티고 있어?
 
 052. ELIAS: She's reorganizing her spice drawer and refusing to cry in front of the FBI.
     일라이어스: 향신료 서랍 정리하면서 FBI 앞에선 절대 안 울고 버티고 있어요.
@@ -188,25 +188,25 @@
     톰: "특사의 비밀 보고서, 에스토니아 무장 괴한을 '계약직'으로 규정… 매파 '손 놓을 핑계' 우려."
 
 058. ELIAS: Read me the quote. Exactly.
-    일라이어스: 인용문 읽어 줘요. 정확하게.
+    일라이어스: 인용문 읽어 줘. 정확하게.
 
 059. TOM: Third paragraph. The gunmen are "on a contract, not on a mission."
     톰: 셋째 문단. 무장 괴한들은 "임무가 아니라 계약으로 와 있다."
 
 060. ELIAS: The committee copy.
-    일라이어스: 위원회 사본이네요.
+    일라이어스: 위원회 사본이네.
 
 061. TOM: Pruitt's copy. Word for word, including the comma.
     톰: 프루잇 사본. 쉼표까지 똑같아.
 
 062. ELIAS: Is there anything from the other three? Payroll? Paymaster? Hired guns?
-    일라이어스: 다른 세 개에서 나온 건 없어요? 급여 명세서? 물주? 고용된 총잡이?
+    일라이어스: 다른 세 개에서 나온 건 없어? 급여 명세서? 물주? 고용된 총잡이?
 
 063. TOM: Nothing. The Sentinel got one copy, and it came from the Hill.
     톰: 없어. <센티널>은 사본 하나를 받았고, 그건 의회에서 나왔어.
 
 064. ELIAS: Who signed for it at the Senate security office?
-    일라이어스: 상원 보안실에서 누가 수령 서명을 했어요?
+    일라이어스: 상원 보안실에서 누가 수령 서명을 했어?
 
 065. TOM: I called a friend over there last night, because I'm a pessimist. Brandon Cole, Pruitt's chief of staff. Signed at four fifty-two on Thursday. He sat in the reading room for forty minutes.
     톰: 비관주의자라서 어젯밤에 거기 아는 사람한테 미리 전화해 놨지. 브랜든 콜, 프루잇 수석 보좌관. 목요일 4시 52분 서명. 열람실에 40분 앉아 있었대.
@@ -218,13 +218,13 @@
     톰: 외우는 게 아니면 아무도 그렇게 천천히 안 읽지.
 
 068. ELIAS: Or copying it out by hand. Phones aren't allowed in that room.
-    일라이어스: 아니면 손으로 베끼거나요. 그 방엔 휴대폰 반입이 안 되니까.
+    일라이어스: 아니면 손으로 베끼거나. 그 방엔 휴대폰 반입이 안 되니까.
 
 069. TOM: So it's Brandon.
     톰: 그럼 브랜든이네.
 
 070. ELIAS: It's Brandon's copy. That's a different thing. A canary tells you which cage. It doesn't tell you who opened the door.
-    일라이어스: 브랜든이 받은 사본인 거죠. 그건 다른 얘기예요. 카나리아는 어느 새장인지만 알려 줘요. 누가 문을 열었는지는 안 알려 주고.
+    일라이어스: 브랜든이 받은 사본인 거지. 그건 다른 얘기야. 카나리아는 어느 새장인지만 알려 줘. 누가 문을 열었는지는 안 알려 주고.
 
 071. TOM: You're calling her, aren't you?
     톰: 레나한테 전화하려는 거지?
@@ -358,8 +358,8 @@
 114. ELIAS: Tell Jake I've met a lot of leaks, and none of them were that honest about it.
     일라이어스: 제이크한테 전해. 아빠가 유출을 많이 만나 봤는데, 그렇게 솔직한 유출은 처음 본다고.
 
-115. ROSIE: Grandpa called. He said to ask you if you ate. Also that the surgery's probably Thanksgiving week, and you are not allowed to make a face about it.
-    로지: 할아버지가 전화했어. 아빠 밥 먹었는지 물어보래. 그리고 수술이 아마 추수감사절 주간일 거래. 그걸로 인상 쓰면 안 된대.
+115. ROSIE: Grandpa called. He said to ask you if you ate. Also that the surgery's still the Tuesday of Thanksgiving week, and you are not allowed to make a face about it.
+    로지: 할아버지가 전화했어. 아빠 밥 먹었는지 물어보래. 그리고 수술은 그대로 추수감사절 주간 화요일이래. 그걸로 인상 쓰면 안 된대.
 
 116. ELIAS: I'm not making a face.
     일라이어스: 인상 안 쓰는데.
@@ -464,7 +464,7 @@
     톰: 나야. 브랜든 콜이 방금 사무실에 금요일 쉰다고 했대. 개인 사유로. 그리고 월요일까지 일정을 싹 비웠어.
 
 150. ELIAS: Then he's scared, and scared men like pie. Book a booth at Lou's for Friday night, Tom. Tell Lou cherry. Tell nobody else.
-    일라이어스: 그럼 겁먹은 거네요. 겁먹은 사람은 파이를 좋아하죠. 금요일 밤 Lou's에 칸막이 자리 하나 잡아요, 형. 루한테 체리라고 하고요. 다른 사람한텐 아무 말 말고.
+    일라이어스: 그럼 겁먹은 거네. 겁먹은 사람은 파이를 좋아하지. 금요일 밤 Lou's에 칸막이 자리 하나 잡아, 톰. 루한테 체리라고 하고. 다른 사람한텐 아무 말 말고.
 
 ---
 

@@ -10,7 +10,7 @@
 > - 역사 사례: 1950년대 국무부 '재즈 앰배서더'(디지 길레스피 1956, 데이브 브루벡 1958, 루이 암스트롱 1960–61) — 프랭크가 "가서 가르치려 하면 요점만 듣고, 들으러 가면 음악을 듣는다"며 아들의 구상을 다듬어 준다 · 발트의 길(1989)·빌뉴스 TV 타워(1991) — 카드리가 "민간인이 늘 안전한 건 아니다"라고 반박 · 탈린 재즈 페스티벌(1967, 찰스 로이드)
 > - 전술 태그: [설득] [블러핑] [유출] [세 번째 문]
 > - 이번 화의 핵심 표현: little green men / Article Four consultations / off-ramp / Not shields. Witnesses. / Hypothetically speaking… / You bluff like you drive. / Let me be very clear… / What worries me is…
-> - 복선/연결: 카드리가 넘긴 무전 감청("10월 돈이 늦는다") → 8화 보고서의 '계약' 문장 · 메모의 "witnesses, not shields"가 세 시간 만에 프루잇 입에서 나옴 → 8화 카나리아 트랩 · 일라이어스가 첫 민간인 행렬과 함께 바이크소에 들어가기로 약속 → 8화 · 프랭크의 우회술 날짜 미정("크리스마스 전") → 12화 · 사미라 직무 정지 중(5화) → 11화
+> - 복선/연결: 카드리가 넘긴 무전 감청("10월 돈이 늦는다") → 8화 보고서의 '계약' 문장 · 메모의 "witnesses, not shields"가 세 시간 만에 프루잇 입에서 나옴 → 8화 카나리아 트랩 · 일라이어스가 첫 민간인 행렬과 함께 바이크소에 들어가기로 약속 → 8화 · 프랭크의 우회술 11월 21일(3화에서 확정) → 12화 · 2화 물 공수 탱크는 식수만 감당, 수압 차단은 그 밖의 생활용수를 끊음 · 사미라 직무 정지 중(5화) → 11화
 
 ---
 
@@ -22,8 +22,8 @@
 002. ELIAS: Then I'm in good company. How bad was the weekend?
     일라이어스: 그럼 좋은 사람들 틈에 낀 거네요. 주말은 얼마나 나빴어요?
 
-003. INGRID: Day twenty-three. On Saturday night they cut the water pressure for the first time. Two hours, after midnight, like a man tapping his watch.
-    잉그리드: 23일째예요. 토요일 밤에 처음으로 수압을 끊었어요. 자정 넘어서 두 시간 동안. 손목시계를 톡톡 두드리는 사람처럼요.
+003. INGRID: Day twenty-three. On Saturday night they cut the water pressure for the first time. Two hours, after midnight, like a man tapping his watch. Your airlift tanks covered the drinking water. Everything else just stopped.
+    잉그리드: 23일째예요. 토요일 밤에 처음으로 수압을 끊었어요. 자정 넘어서 두 시간 동안. 손목시계를 톡톡 두드리는 사람처럼요. 마실 물은 당신이 공수한 탱크로 버텼어요. 나머지는 다 멈췄고요.
 
 004. ELIAS: Same men?
     일라이어스: 같은 놈들이고요?
@@ -172,11 +172,11 @@
 052. ELIAS: A waffle. Belgian. It counts. How's the chest?
     일라이어스: 와플. 벨기에 와플. 이것도 밥이야. 가슴은 어때?
 
-053. FRANK: Quiet. But the cardiologist wants a bypass before Christmas. She's already decided.
-    프랭크: 조용하다. 그런데 심장내과 선생이 크리스마스 전에 우회술을 하재. 이미 정해 놨더라.
+053. FRANK: Quiet. The cardiologist still has the bypass down for the twenty-first. She's already decided.
+    프랭크: 조용하다. 심장내과 선생은 우회술을 여전히 21일로 잡아 놨어. 이미 정해 놨더라.
 
-054. ELIAS: Then listen to her. I'll be there, whatever date she picks.
-    일라이어스: 그럼 선생님 말 들어. 날짜가 언제든 나 갈게.
+054. ELIAS: Then listen to her. I'll be there on the twenty-first.
+    일라이어스: 그럼 선생님 말 들어. 21일에 나 갈게.
 
 055. FRANK: You'll be wherever the country needs you, and I'll be asleep with a tube in my mouth, so don't make promises on my account. What are you working on? I can hear your fingers.
     프랭크: 넌 나라가 부르는 데 가 있을 거고 난 입에 관 꽂고 자고 있을 테니, 나 때문에 약속하지 마라. 뭐 하고 있니? 손가락 소리가 들린다.
@@ -386,19 +386,19 @@
     톰: 원하던 걸 다 얻었는데 하나도 못 믿겠다는 얼굴이네.
 
 124. ELIAS: Kadri said yes, with four conditions. Ingrid has nine allies and is working on five more. The memo went out at six.
-    일라이어스: 카드리가 조건 네 개 붙여서 승낙했어요. 잉그리드는 동맹국 아홉 곳을 잡았고 다섯 곳 더 설득 중이에요. 메모는 여섯 시에 나갔고요.
+    일라이어스: 카드리가 조건 네 개 붙여서 승낙했어. 잉그리드는 동맹국 아홉 곳을 잡았고 다섯 곳 더 설득 중이야. 메모는 여섯 시에 나갔고.
 
 125. TOM: Six here, noon in D.C. There's a piano in the corner. Play something.
     톰: 여기 여섯 시면 워싱턴은 정오네. 저 구석에 피아노 있다. 뭐 하나 쳐 봐.
 
 126. ELIAS: If I play, I'll play "Take Five," and you'll tell me it's a cliché.
-    일라이어스: 치면 '테이크 파이브'를 칠 거고, 그럼 형은 뻔하다고 하겠죠.
+    일라이어스: 치면 '테이크 파이브'를 칠 거고, 그럼 넌 뻔하다고 하겠지.
 
 127. TOM: It is a cliché. Brubeck's greatest hit.
     톰: 뻔하지. 브루벡 최고 히트곡이잖아.
 
 128. ELIAS: Paul Desmond wrote it, not Brubeck. He left the royalties to the Red Cross.
-    일라이어스: 브루벡이 아니라 폴 데즈먼드가 썼어요. 그 사람은 저작권료를 적십자에 남겼고요.
+    일라이어스: 브루벡이 아니라 폴 데즈먼드가 썼어. 그 사람은 저작권료를 적십자에 남겼고.
 
 129. TOM: So the best line on the album came from the guy nobody was watching. Hey. Turn around. Pruitt's on.
     톰: 그러니까 앨범 최고의 한 줄은 아무도 안 보던 녀석한테서 나왔다는 거네. 야, 뒤돌아 봐. 프루잇 나온다.
@@ -410,7 +410,7 @@
     톰: "방패가 아니라 증인." 네 대사잖아.
 
 132. ELIAS: Word for word. Second paragraph of the memo.
-    일라이어스: 토씨 하나 안 틀리고요. 메모 두 번째 문단.
+    일라이어스: 토씨 하나 안 틀리고. 메모 두 번째 문단.
 
 133. PRUITT: Well, I've got news for the special envoy. Witnesses are what you bring to a funeral. Estonia needs soldiers, not saxophones.
     프루잇: 특사께 알려 드릴 게 있습니다. 증인은 장례식에나 데려가는 겁니다. 에스토니아에 필요한 건 색소폰이 아니라 군인입니다.
@@ -419,31 +419,31 @@
     톰: 세 시간. 네 발신함에서 저 사람 입까지.
 
 135. ELIAS: Two hours and fifty-one minutes. I checked the moment he started talking.
-    일라이어스: 2시간 51분이요. 입 여는 순간 시계 봤어요.
+    일라이어스: 2시간 51분. 입 여는 순간 시계 봤어.
 
 136. TOM: So it's one of four. Callaway, Holloway, the NSC, or the committee.
     톰: 그럼 넷 중 하나네. 캘러웨이, 홀러웨이, NSC, 아니면 위원회.
 
 137. ELIAS: Or Ingrid's office. I said those exact words to her this morning, out loud, before I ever wrote them down.
-    일라이어스: 아니면 잉그리드 사무실이요. 오늘 아침에 그 말 그대로 잉그리드한테 소리 내서 했거든요. 글로 쓰기도 전에.
+    일라이어스: 아니면 잉그리드 사무실. 오늘 아침에 그 말 그대로 잉그리드한테 소리 내서 했거든. 글로 쓰기도 전에.
 
 138. TOM: Come on. Ingrid doesn't call Dale Pruitt.
     톰: 에이. 잉그리드가 데일 프루잇한테 전화할 리가.
 
 139. ELIAS: Probably not. But "probably" is how Samira ended up on leave with the FBI reading her text messages. I won't do that to anyone else.
-    일라이어스: 아마 아니겠죠. 하지만 그 '아마'가 사미라를 직무 정지시키고 FBI가 걔 문자를 읽게 만들었어요. 다른 누구한테도 그러진 않을 거예요.
+    일라이어스: 아마 아니겠지. 하지만 그 '아마'가 사미라를 직무 정지시키고 FBI가 걔 문자를 읽게 만들었어. 다른 누구한테도 그러진 않을 거야.
 
 140. TOM: Speaking of which, the Bureau interviewed her again today. Her lawyer sat in. She asked me to tell you she's fine.
     톰: 그 얘기 나온 김에, 오늘 FBI가 걔를 또 불렀어. 변호사 입회하에. 너한테 괜찮다고 전해 달래.
 
 141. ELIAS: Which means she isn't.
-    일라이어스: 안 괜찮다는 뜻이네요.
+    일라이어스: 안 괜찮다는 뜻이네.
 
 142. TOM: Which means she's furious and eating cereal for dinner. Their whole case is still the login. September twenty-ninth, eleven-fourteen p.m., a terminal in the Ops Center annex. Her phone says she was home in Arlington.
     톰: 열받아서 저녁으로 시리얼 먹고 있다는 뜻이지. 그쪽 근거는 여전히 로그인 하나야. 9월 29일 밤 11시 14분, 상황실 별관 단말기. 걔 폰은 알링턴 집에 있었다고 하고.
 
 143. ELIAS: And the Bureau says phones don't type.
-    일라이어스: 그리고 FBI는 폰이 타자를 치는 건 아니라고 하겠죠.
+    일라이어스: 그리고 FBI는 폰이 타자를 치는 건 아니라고 하겠지.
 
 144. MAGGIE: Elias. Callaway asked me whether you'd lost your mind. I told him you'd finally found it.
     매기: 일라이어스. 캘러웨이가 너 미쳤냐고 묻더라. 드디어 제정신 찾은 거라고 했어.
@@ -464,7 +464,7 @@
     톰: 종이를 의심한다는 말은 안 하네.
 
 150. ELIAS: I'm not telling anyone. Next week the status report goes to the same four offices, and each copy gets one sentence nobody else has. Four cages, Tom. Let's see which canary sings.
-    일라이어스: 아무한테도 안 할 거예요. 다음 주에 상황 보고서가 같은 네 곳으로 가는데, 사본마다 다른 데엔 없는 문장을 하나씩 넣을 거예요. 새장 네 개예요, 형. 어느 카나리아가 우는지 보자고요.
+    일라이어스: 아무한테도 안 해. 다음 주에 상황 보고서가 같은 네 곳으로 가는데, 사본마다 다른 데엔 없는 문장을 하나씩 넣을 거야. 새장 네 개야, 톰. 어느 카나리아가 우는지 보자고.
 
 ---
 

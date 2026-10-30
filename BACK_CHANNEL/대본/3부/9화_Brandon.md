@@ -20,55 +20,55 @@
     톰: Lou's는 깨끗해. 두 번 훑었어. 루는 내가 위생 검사관인 줄 알아.
 
 002. ELIAS: Is he coming?
-    일라이어스: 그 사람 온대요?
+    일라이어스: 그 사람 온대?
 
 003. TOM: He answered your text in nine seconds. "Nine p.m. Alone." People who aren't scared take longer than nine seconds.
     톰: 네 문자에 9초 만에 답했어. "밤 9시. 혼자." 겁 안 먹은 사람은 9초보다 오래 걸려.
 
 004. ELIAS: Once more. What does the Bureau actually have on Brandon Cole?
-    일라이어스: 한 번만 더요. FBI가 브랜든 콜에 대해 실제로 가진 게 뭐예요?
+    일라이어스: 한 번만 더. FBI가 브랜든 콜에 대해 실제로 가진 게 뭐야?
 
 005. TOM: Nothing. Ostrowski doesn't even know the trap exists. No warrant, no phone records, no file.
     톰: 없어. 오스트롭스키는 덫이 있는 줄도 몰라. 영장도, 통화 기록도, 파일도 없어.
 
 006. ELIAS: And what does Brandon think the Bureau has?
-    일라이어스: 그럼 브랜든은 FBI가 뭘 가졌다고 생각할까요?
+    일라이어스: 그럼 브랜든은 FBI가 뭘 가졌다고 생각할까?
 
 007. TOM: Whatever you tell him. That's the problem, man. If he lawyers up and his lawyer asks to see those records, your whole bluff turns into a pumpkin.
     톰: 네가 말하는 거면 뭐든. 그게 문제야. 걔가 변호사를 사고 그 변호사가 기록을 보자고 하면, 네 블러핑은 그대로 호박으로 변하는 거야.
 
 008. ELIAS: Then I have to be finished before the lawyer arrives.
-    일라이어스: 그럼 변호사가 오기 전에 끝내야죠.
+    일라이어스: 그럼 변호사가 오기 전에 끝내야지.
 
 009. TOM: You're going to lie to a congressional staffer about a federal investigation. Do you know how many laws that bends?
     톰: 연방 수사를 두고 의회 보좌관한테 거짓말하겠다는 거잖아. 그게 법을 몇 개나 휘게 하는지 알아?
 
 010. ELIAS: I'll lie to a staffer. I won't lie to a jury. If this ever gets that far, everything he says tonight goes in front of a prosecutor first.
-    일라이어스: 보좌관한텐 거짓말해요. 배심원한텐 안 하고요. 일이 거기까지 가면, 오늘 밤 그가 하는 말은 전부 검사 앞에 먼저 가요.
+    일라이어스: 보좌관한텐 거짓말해. 배심원한텐 안 하고. 일이 거기까지 가면, 오늘 밤 그가 하는 말은 전부 검사 앞에 먼저 가.
 
 011. TOM: And who's the prosecutor?
     톰: 그 검사가 누군데?
 
 012. ELIAS: Someone who won't take my word for anything. That's what makes her useful.
-    일라이어스: 내 말이라면 하나도 안 믿어 줄 사람이요. 그래서 쓸모가 있죠.
+    일라이어스: 내 말이라면 하나도 안 믿어 줄 사람. 그래서 쓸모가 있지.
 
 013. TOM: Oh, no. You're calling Julia.
     톰: 아, 안 돼. 줄리아한테 전화하려는구나.
 
 014. ELIAS: After. If there's anything worth calling her about.
-    일라이어스: 끝나고요. 전화할 거리가 생기면.
+    일라이어스: 끝나고. 전화할 거리가 생기면.
 
 015. TOM: Who else knows about tonight?
     톰: 오늘 밤 일 또 누가 알아?
 
 016. ELIAS: You. Lou. And the Secretary of State, because I told him on Tuesday I'd buy Brandon Cole a piece of pie.
-    일라이어스: 형. 루. 그리고 국무장관이요. 화요일에 브랜든 콜한테 파이 사 줄 거라고 말했거든요.
+    일라이어스: 너. 루. 그리고 국무장관. 화요일에 브랜든 콜한테 파이 사 줄 거라고 말했거든.
 
 017. TOM: You told Callaway about the pie?
     톰: 캘러웨이한테 파이 얘기를 했다고?
 
 018. ELIAS: I told him about the pie. Not the place, not the time. He didn't ask.
-    일라이어스: 파이 얘기만요. 장소도 시간도 아니고. 묻지도 않으셨어요.
+    일라이어스: 파이 얘기만. 장소도 시간도 아니고. 묻지도 않으셨어.
 
 019. TOM: Callaway never asks. He waits. That's how he got to be Secretary.
     톰: 캘러웨이는 원래 안 물어. 기다리지. 그렇게 장관까지 간 거야.
@@ -89,7 +89,7 @@
     톰: 난 길 건너 차에 있을게. 걔가 도망가면 안 쫓아. 다른 누가 들어오면 쫓고.
 
 025. ELIAS: Who else would walk in?
-    일라이어스: 누가 또 들어오겠어요?
+    일라이어스: 누가 또 들어오겠어?
 
 026. TOM: The people who taught him to answer in nine seconds.
     톰: 걔한테 9초 만에 답하라고 가르친 사람들.
@@ -392,13 +392,13 @@
     톰: 열 시 40분. 안 온다, 얘.
 
 126. ELIAS: He's late. Frightened people are late.
-    일라이어스: 늦는 거예요. 겁먹은 사람은 늦어요.
+    일라이어스: 늦는 거야. 겁먹은 사람은 늦어.
 
-127. TOM: I had a guy from the Bureau drive past his building in Silver Spring at nine. Car's gone from the garage. Lights off. Phone's been dark since two a.m.
-    톰: 아홉 시에 FBI 아는 놈한테 실버스프링 그 친구 건물 앞을 지나가 보라고 했어. 차고에 차 없어. 불 꺼져 있고. 폰은 새벽 두 시부터 꺼져 있어.
+127. TOM: I had a guy from the Bureau drive past his building in Silver Spring at nine. Car's gone from the garage. Lights off. Phone's been dark since two-fifteen.
+    톰: 아홉 시에 FBI 아는 놈한테 실버스프링 그 친구 건물 앞을 지나가 보라고 했어. 차고에 차 없어. 불 꺼져 있고. 폰은 새벽 2시 15분부터 꺼져 있어.
 
 128. ELIAS: I got a text at two-twelve. I thought it was spam.
-    일라이어스: 2시 12분에 문자 받았어요. 스팸인 줄 알았어요.
+    일라이어스: 2시 12분에 문자 받았어. 스팸인 줄 알았어.
 
 129. TOM: Read it.
     톰: 읽어 봐.
@@ -410,7 +410,7 @@
     줄리아: 안 와. 우리 요원이 50분 기다렸어. 나 이 일 15년 했어. 50분 지나면 안 돌아와.
 
 132. ELIAS: "They know about the pie." Tom, who knew about last night?
-    일라이어스: "그 사람들이 파이 얘기를 안다." 형, 어젯밤 일 누가 알았죠?
+    일라이어스: "그 사람들이 파이 얘기를 안다." 톰, 어젯밤 일 누가 알았지?
 
 133. TOM: You, me, Lou. And the Secretary of State knew there'd be pie on Friday.
     톰: 너, 나, 루. 그리고 국무장관은 금요일에 파이가 있을 거라는 걸 알았지.
@@ -455,13 +455,13 @@
     톰: 매기한테 거짓말했네.
 
 147. ELIAS: I said only what she told me. The rest is in Brandon's head.
-    일라이어스: 매기가 말해 준 것만 말했어요. 나머지는 브랜든 머릿속에 있죠.
+    일라이어스: 매기가 말해 준 것만 말했어. 나머지는 브랜든 머릿속에 있지.
 
 148. TOM: "This one comes from the seventh floor." How many offices are up there?
     톰: "이건 7층에서 온 거야." 거기 사무실이 몇 개야?
 
 149. ELIAS: Enough to keep me up tonight. I've been in every one of them. I've eaten lunch in most of them.
-    일라이어스: 오늘 밤 잠 못 들 만큼은 돼요. 전부 다 들어가 봤어요. 대부분에선 점심도 먹어 봤고요.
+    일라이어스: 오늘 밤 잠 못 들 만큼은 돼. 전부 다 들어가 봤어. 대부분에선 점심도 먹어 봤고.
 
 150. TOM: Then start with the ones who knew about the pie.
     톰: 그럼 파이 얘기를 알았던 사람들부터 시작해.

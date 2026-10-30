@@ -20,7 +20,7 @@
     프랭크: 왔구나. 앉아라. 밥은 먹었니?
 
 002. ELIAS: Dad, you're not supposed to be standing at the stove the night before heart surgery.
-    일라이어스: 아빠, 심장 수술 전날 밤에 가스레인지 앞에 서 있으면 안 되잖아요.
+    일라이어스: 아빠, 심장 수술 전날 밤에 가스레인지 앞에 서 있으면 안 되잖아.
 
 003. FRANK: I'm not standing. I'm leaning with purpose. The sauce is from September. Forty-one tomatoes, just like I told you.
     프랭크: 서 있는 거 아니다. 목적을 갖고 기대 있는 거지. 소스는 9월에 만든 거다. 말했던 그 토마토 마흔한 개.
@@ -59,13 +59,13 @@
     프랭크: 둘 다 먹어. 파이도 있다. 오늘 아침에 조지타운 빵집에서 피칸 파이가 카드랑 같이 왔더라. "프랭크께, 내일을 위해 모든 좋은 마음을 담아. 매기."
 
 015. ELIAS: Maggie sent you a pie.
-    일라이어스: 매기가 파이를 보냈어요?
+    일라이어스: 매기가 파이를 보냈어?
 
 016. FRANK: A very good pie. She knew the date of my surgery, which is more than my insurance company knows.
     프랭크: 아주 좋은 파이다. 내 수술 날짜까지 알더구나. 보험 회사보다 더 잘 알아.
 
 017. ELIAS: She knows a lot of dates. She always has, ever since I met her.
-    일라이어스: 날짜를 많이 아는 사람이에요. 처음 만났을 때부터 늘 그랬어요.
+    일라이어스: 날짜를 많이 아는 사람이야. 처음 만났을 때부터 늘 그랬어.
 
 018. ROSIE: Okay, that was weird. You said that like a spy movie.
     로지: 오케이, 그거 이상했어. 무슨 스파이 영화처럼 말했어.
@@ -140,7 +140,7 @@
     프랭크: 연설은 안 했어. 그게 첫 번째 함정 문제다. 9월 19일 필라델피아 신문 『아메리칸 데일리 애드버타이저』에 실렸지. 해밀턴이 쓰는 걸 도왔고.
 
 042. ELIAS: And the Senate still reads it out loud every year, on his birthday.
-    일라이어스: 그리고 상원은 지금도 매년 그의 생일에 그걸 소리 내어 읽고요.
+    일라이어스: 그리고 상원은 지금도 매년 그의 생일에 그걸 소리 내어 읽고.
 
 043. FRANK: Mostly to an empty room. Now. Two warnings, Rosie. The first is faction. He called it the spirit of party, and he said its effects were baneful. It makes people hate their neighbors more than their enemies.
     프랭크: 대개 빈 방에 대고. 자. 경고가 두 개다, 로지. 첫 번째는 파벌이다. '당파심'이라고 불렀고, 그 영향이 해롭다고 했지. 사람들이 적보다 이웃을 더 미워하게 만든다고.
@@ -152,7 +152,7 @@
     프랭크: 1796년 이후 매년 같은 소리지. 두 번째 경고는 외세의 영향이다. "외세의 교활한 술책." 다른 나라가 우리 사람들을 통해 우리를 움직이는 거.
 
 046. ELIAS: That's my whole job, Dad. Working on other countries through their own people.
-    일라이어스: 그게 제 일 전부잖아요, 아빠. 다른 나라 사람들을 통해 그 나라를 움직이는 거.
+    일라이어스: 그게 내 일 전부잖아, 아빠. 다른 나라 사람들을 통해 그 나라를 움직이는 거.
 
 047. FRANK: I know. That's why I want you to hear the next part. Washington wrote that when a foreign favorite has its hooks in a country, the real patriots who resist it become "suspected and odious."
     프랭크: 안다. 그래서 다음 대목을 들으라는 거다. 워싱턴은 썼다. 외국의 총애를 받는 자가 나라에 갈고리를 걸면, 그에 맞서는 진짜 애국자들이 오히려 "의심받고 미움받게 된다"고.
@@ -164,7 +164,7 @@
     프랭크: 사미라처럼. 그리고 그 앞잡이와 바보들은 국민의 박수와 신뢰를 가로챈다고 했어. 박수 말이다, 일라이어스. 해를 끼치는 쪽이 박수를 받는 거야.
 
 050. ELIAS: You've been saving that one, haven't you, Dad? Since the fall.
-    일라이어스: 그거 아껴 두셨죠, 아빠? 가을부터.
+    일라이어스: 그거 아껴 뒀지, 아빠? 가을부터.
 
 051. FRANK: Since September. One more phrase, the one I used to write on the board every fall. Washington warned against "the impostures of pretended patriotism."
     프랭크: 9월부터. 그리고 한 구절 더. 내가 매년 가을 칠판에 쓰던 거다. 워싱턴은 "가장된 애국심의 사기"를 경계하라고 했지.
@@ -188,7 +188,7 @@
     프랭크: 33년 전 오늘, 저기 기지에서 데이턴 협정에 가서명했지. 일라이어스, 밥은 먹었니?
 
 058. ELIAS: Not yet. The cafeteria doesn't open until six.
-    일라이어스: 아직요. 식당이 6시에야 열어요.
+    일라이어스: 아직. 식당이 6시에야 열어.
 
 059. FRANK: Then eat while I'm in there. That's an order from the patient. And if they don't wake me up, the rest of the sauce is in the basement, second shelf.
     프랭크: 그럼 내가 안에 있는 동안 먹어라. 환자의 명령이다. 그리고 내가 못 깨어나면 나머지 소스는 지하실 둘째 칸에 있다.
@@ -274,7 +274,7 @@
 086. ELIAS: April third. The night before the Brazil documents landed.
     일라이어스: 4월 3일. 브라질 문건이 터지기 전날 밤이네요.
 
-087. SAMIRA: And the session printed nineteen pages. The same nineteen pages Valente kept next to his grandfather's revolver.
+087. SAMIRA: And the session printed page nineteen. The same page nineteen Valente kept next to his grandfather's revolver.
     사미라: 그리고 그 세션에서 19쪽을 출력했어요. 발렌치가 할아버지 리볼버 옆에 두던 바로 그 19쪽이요.
 
 088. TOM: "Reston gave it to me, like a gift." That's what Valente said.
@@ -337,8 +337,8 @@
 107. ELIAS: I'm not saying it on a hospital phone, Samira. Not on any phone. Put the log and the badge inventory in an envelope. Give it to Tom by hand. No copies, no email, not to the Bureau yet.
     일라이어스: 병원 전화로는 말 안 해요, 사미라. 어떤 전화로도. 열람 기록이랑 출입증 재고 목록을 봉투에 넣어요. 톰한테 직접 건네고요. 사본도, 이메일도, 아직은 FBI한테도 안 돼요.
 
-108. SAMIRA: Not to the Bureau? They just spent five weeks treating me like a traitor.
-    사미라: FBI한테도요? 그 사람들 방금 5주 동안 절 반역자 취급했어요.
+108. SAMIRA: Not to the Bureau? They just spent a month treating me like a traitor.
+    사미라: FBI한테도요? 그 사람들 방금 한 달 동안 절 반역자 취급했어요.
 
 109. ELIAS: That's exactly why. If this goes up the chain, it goes up the stairs. And the investigation reports to the leak.
     일라이어스: 바로 그래서예요. 이게 지휘 계통을 타고 올라가면 계단을 올라가요. 그럼 수사가 유출자한테 보고하게 돼요.
@@ -398,43 +398,43 @@
     일라이어스: 고맙습니다.
 
 128. ELIAS: Hi, Dad. It's almost midnight. Rosie and Julia went to the hotel. Rosie made me promise to tell you she got Jefferson and Washington straight.
-    일라이어스: 아빠. 거의 자정이에요. 로지랑 줄리아는 호텔에 갔어요. 로지가 제퍼슨이랑 워싱턴 헷갈린 거 바로잡았다고 꼭 전해 달래요.
+    일라이어스: 아빠. 거의 자정이야. 로지랑 줄리아는 호텔에 갔어. 로지가 제퍼슨이랑 워싱턴 헷갈린 거 바로잡았다고 꼭 전해 달래.
 
 129. FRANK: Good girl.
     프랭크: 착한 녀석.
 
 130. ELIAS: You're awake. The nurse said you might not wake up tonight.
-    일라이어스: 깨셨네요. 간호사가 오늘 밤엔 못 깨실 수도 있다던데.
+    일라이어스: 깼네. 간호사가 오늘 밤엔 못 깰 수도 있다던데.
 
 131. FRANK: Barely. Somebody parked a truck on my chest. Did you eat?
     프랭크: 겨우. 누가 내 가슴에 트럭을 세워 놨어. 밥은 먹었니?
 
 132. ELIAS: A turkey sandwich from the vending machine. Julia watched me eat all of it.
-    일라이어스: 자판기 칠면조 샌드위치요. 줄리아가 다 먹는 거 지켜봤어요.
+    일라이어스: 자판기 칠면조 샌드위치. 줄리아가 다 먹는 거 지켜봤어.
 
 133. FRANK: Good. You've got your thinking face. Even with my eyes closed, I can hear it.
     프랭크: 잘했다. 너 생각하는 얼굴이구나. 눈 감고도 들린다.
 
 134. ELIAS: Dad, I know who it is. I think I've known since Brazil. I just didn't want it to be true.
-    일라이어스: 아빠, 누군지 알아요. 브라질 때부터 알았던 것 같아요. 그냥 사실이 아니길 바랐어요.
+    일라이어스: 아빠, 누군지 알아. 브라질 때부터 알았던 것 같아. 그냥 사실이 아니길 바랐어.
 
 135. FRANK: That's usually how you know it's true. Don't tell me who. I'm full of drugs, and I talk to nurses.
     프랭크: 대개 그래서 그게 사실인 걸 아는 거다. 누군지는 말하지 마라. 난 약에 취해 있고, 간호사들한테 말이 많거든.
 
 136. ELIAS: I wasn't going to. What would Washington do?
-    일라이어스: 말 안 하려고 했어요. 워싱턴이라면 어떻게 했을까요?
+    일라이어스: 말 안 하려고 했어. 워싱턴이라면 어떻게 했을까?
 
 137. FRANK: Washington would write a very long letter and publish it in a newspaper. Don't do that. You'll get it wrong at two in the morning. Write it down for yourself first. Felt left notes.
     프랭크: 워싱턴이라면 아주 긴 편지를 써서 신문에 실었겠지. 그러지 마라. 새벽 2시엔 틀리게 쓰게 돼. 먼저 너 자신을 위해 적어 둬라. 펠트도 메모를 남겼다.
 
 138. ELIAS: And then what? After I've written it all down?
-    일라이어스: 그다음엔요? 다 적어 두고 나서는요?
+    일라이어스: 그다음엔? 다 적어 두고 나서는?
 
 139. FRANK: Then do it the slow way. The slow way is the only one that holds up in court. And son, whoever it is, they'll believe every word they tell you. Pretended patriots always do.
     프랭크: 그다음엔 느린 길로 가라. 느린 길만이 법정에서 버틴다. 그리고 얘야, 그게 누구든 너한테 하는 말을 한 마디도 빼놓지 않고 믿을 거다. 가장된 애국자들은 늘 그래.
 
 140. ELIAS: Go to sleep, Dad.
-    일라이어스: 주무세요, 아빠.
+    일라이어스: 이제 자, 아빠.
 
 141. FRANK: Your phone's ringing. Answer it outside. My heart's had enough excitement today.
     프랭크: 전화 울린다. 밖에서 받아라. 내 심장은 오늘 흥분할 만큼 했다.

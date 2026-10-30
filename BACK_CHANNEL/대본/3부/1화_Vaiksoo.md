@@ -10,7 +10,7 @@
 > - 역사 사례: NATO 5조가 발동된 유일한 사례 — 9·11 이후 (2001) — 잉그리드가 "그때 우리가 누구를 위해 5조를 썼는지"를 들어 미국을 압박하고, 프랭크가 데이턴 하늘을 지나간 NATO 조기경보기 이야기로 아들을 위로한다
 > - 전술 태그: [유출] [거짓말] [블러핑] [설득]
 > - 이번 화의 핵심 표현: little green men / Article Four consultations / collective defense / attribution / false flag / off-ramp / Let me be very clear… / What worries me is…
-> - 복선/연결: 발렌치의 마지막 말("브뤼셀의 친구들, 7층의 친구", 2부 12화) · 2부 11화의 240만 유로 브뤼셀 계좌(벨기에 은행 회신 없음) · 가짜 전문 날짜(9월 29일)가 바이크소 사태(10월 1일)보다 이틀 앞섬 → 2화 · 매기가 '러시아 소행' 공개 지목을 서두름 · 사미라 목록 14번 · 카드리 탐이 일라이어스를 탈린으로 부름 → 2화 · 프랭크가 계단에서 숨이 참 → 2화 입원
+> - 복선/연결: 발렌치의 마지막 말("브뤼셀의 친구들, 7층의 친구", 2부 12화) · 2부 11화의 240만 유로 브뤼셀 계좌(벨기에 은행 회신 없음) · 가짜 전문 날짜(9월 29일)가 바이크소 사태(10월 1일)보다 이틀 앞섬 → 2화 · 매기가 '러시아 소행' 공개 지목을 서두름 · 사미라 목록 16번(2부 끝 15번에서 이어짐) · 카드리 탐이 일라이어스를 탈린으로 부름 → 2화 · 프랭크가 계단에서 숨이 참 → 2화 입원
 
 ---
 
@@ -103,8 +103,8 @@
 029. INGRID: I'm flattered to be on the list.
     잉그리드: 그 명단에 들다니 영광이네요.
 
-030. ELIAS: You're not. The money is. In October last year, two point four million euros went from a bank account here in Brussels to the same people who chartered that Brazilian ship.
-    일라이어스: 당신은 아니에요. 돈이 그렇죠. 작년 10월에 여기 브뤼셀의 한 은행 계좌에서 240만 유로가 그 브라질 배를 빌린 바로 그 사람들한테 갔어요.
+030. ELIAS: You're not. The money is. In October last year, two point four million euros went from a bank account here in Brussels to the company that owned that Brazilian ship.
+    일라이어스: 당신은 아니에요. 돈이 그렇죠. 작년 10월에 여기 브뤼셀의 한 은행 계좌에서 240만 유로가 그 브라질 배의 선주 회사로 갔어요.
 
 031. SAMIRA: The Brazilians asked the Belgian bank for the account holder in August. They're still waiting.
     사미라: 브라질 쪽이 8월에 벨기에 은행에 예금주를 요청했어요. 아직도 기다리는 중이고요.
@@ -356,19 +356,19 @@
     프랭크: 밥은 먹었니?
 
 114. ELIAS: Dad, it's five in the morning here. I ate a waffle at the airport yesterday. Why are you breathing like that?
-    일라이어스: 아빠, 여기 새벽 다섯 시예요. 어제 공항에서 와플 먹었어요. 근데 숨소리가 왜 그래요?
+    일라이어스: 아빠, 여기 새벽 다섯 시야. 어제 공항에서 와플 먹었어. 근데 숨소리가 왜 그래?
 
 115. FRANK: I just came up from the basement with the laundry. Those stairs get longer every year. I saw the news. You're in Brussels.
     프랭크: 빨래 들고 지하실에서 막 올라왔다. 그 계단은 해마다 길어져. 뉴스 봤다. 브뤼셀에 있다며.
 
 116. ELIAS: I'm in Brussels, and thirty-one allies think my President just sold Estonia in a cable.
-    일라이어스: 브뤼셀에 있어요. 그리고 서른한 동맹국이 우리 대통령이 전문 한 장으로 에스토니아를 팔아넘겼다고 생각하고 있죠.
+    일라이어스: 브뤼셀에 있어. 그리고 서른한 동맹국이 우리 대통령이 전문 한 장으로 에스토니아를 팔아넘겼다고 생각하고 있지.
 
 117. FRANK: Did he?
     프랭크: 그랬니?
 
 118. ELIAS: No. But I can't prove it without showing them things I'm not allowed to show.
-    일라이어스: 아니요. 근데 보여 주면 안 되는 걸 보여 주지 않고는 증명할 수가 없어요.
+    일라이어스: 아니. 근데 보여 주면 안 되는 걸 보여 주지 않고는 증명할 수가 없어.
 
 119. FRANK: Then don't argue about the paper. Remind them who came when we called. Let me tell you about October 2001.
     프랭크: 그럼 종이 쪼가리로 다투지 마라. 우리가 불렀을 때 누가 왔는지 떠올리게 해. 2001년 10월 얘기 하나 해 주마.
@@ -377,19 +377,19 @@
     프랭크: 쌍둥이 빌딩이 무너진 뒤에 NATO가 조기경보기를 보내서 미국 하늘을 순찰했어. 열 몇 나라 승무원들이, 독일인, 튀르키예인, 노르웨이인이 몇 달 동안 우리 도시 위를 날았지.
 
 121. ELIAS: I remember. I was a junior in high school back then.
-    일라이어스: 기억나요. 그때 전 고등학교 2학년이었죠.
+    일라이어스: 기억나. 그때 난 고등학교 2학년이었지.
 
 122. FRANK: Your mother and I watched one go over Dayton one evening. She said, "Those boys aren't even American." I said, "That's the whole point."
     프랭크: 어느 저녁에 네 엄마랑 나랑 그중 한 대가 데이턴 위를 지나가는 걸 봤다. 네 엄마가 "저 사람들 미국 사람도 아니잖아" 하길래 내가 그랬지. "그게 핵심이야."
 
 123. ELIAS: That's a good story, Dad. I might steal it.
-    일라이어스: 좋은 얘기네요, 아빠. 훔쳐 써도 되겠어요.
+    일라이어스: 좋은 얘기네, 아빠. 훔쳐 써도 되겠다.
 
 124. FRANK: It was always yours. Rosie called last night. Her Model UN club is doing NATO this semester. She asked me what Article Four was, and I told her to ask her father.
     프랭크: 원래 네 거였어. 어젯밤에 로지가 전화했다. 모의유엔 동아리가 이번 학기에 NATO를 한다더라. 4조가 뭐냐고 묻길래 아빠한테 물어보라고 했지.
 
 125. ELIAS: I'll call her. Dad, get somebody to carry the laundry. I mean it.
-    일라이어스: 전화할게요. 아빠, 빨래는 누구한테 들어 달라고 하세요. 진심이에요.
+    일라이어스: 전화할게. 아빠, 빨래는 누구한테 들어 달라고 해. 진심이야.
 
 126. FRANK: I taught history for thirty-eight years. I can carry a basket. Go eat something that isn't a waffle.
     프랭크: 역사를 38년 가르친 사람이다. 바구니 하나는 든다. 가서 와플 말고 다른 거 먹어.
@@ -445,8 +445,8 @@
 143. ELIAS: Write it down. What number is this?
     일라이어스: 적어 둬요. 이게 몇 번이죠?
 
-144. SAMIRA: Fourteen, counting Brazil properly. "October third. A forged cable, published twenty minutes before thirty-two countries agreed on anything."
-    사미라: 브라질 것까지 제대로 세면 14번이요. "10월 3일. 위조 전문, 서른두 나라가 무언가에 합의하기 20분 전에 공개."
+144. SAMIRA: Sixteen, counting Brazil properly. "October third. A forged cable, published twenty minutes before thirty-two countries agreed on anything."
+    사미라: 브라질 것까지 제대로 세면 16번이요. "10월 3일. 위조 전문, 서른두 나라가 무언가에 합의하기 20분 전에 공개."
 
 145. ELIAS: They didn't publish when the story was ready. They published when the room was ready.
     일라이어스: 기사가 준비됐을 때 낸 게 아니에요. 방이 준비됐을 때 낸 거죠.
