@@ -49,17 +49,17 @@
 011. TOM: And Zhou Han is telling you to get sick.
     톰: 그러니까 저우 한이 너보고 아프라는 거네.
 
-012. ELIAS: He's telling me the front door is closed and a window is open. He can't say that on any phone his government owns.
-    일라이어스: 정문은 닫혔고 창문 하나가 열려 있다는 거야. 자기 정부 소유 전화로는 그 말을 못 하니까.
+012. ELIAS: On Sunday night I asked him if he remembered the back gate. This is his answer. He can't say it on any phone his government owns.
+    일라이어스: 일요일 밤에 내가 뒷문 기억나냐고 물었거든. 이게 그 대답이야. 자기 정부 소유 전화로는 그 말을 못 하니까.
 
-013. TOM: The front door is very closed, man. Since that satellite report hit, Beijing's pulled its delegation, and Zhou flew home without saying goodbye.
-    톰: 정문은 아주 꽉 닫혔어, 대장. 그 위성 보고서가 터진 뒤로 베이징은 대표단을 빼 갔고, 저우는 작별 인사도 없이 집에 갔잖아.
+013. TOM: The front door is very closed, man. Zhou flew home at midnight Sunday, and Beijing isn't receiving American envoys.
+    톰: 정문은 아주 꽉 닫혔어, 대장. 저우는 일요일 자정 비행기로 돌아갔고, 베이징은 미국 특사를 안 받는대.
 
-014. ELIAS: And the Pentagon wants a second carrier group in the strait, plus a freedom-of-navigation transit by Friday. I read the same cables you did.
-    일라이어스: 그리고 국방부는 해협에 항모 전단을 하나 더 넣고, 금요일까지 항행의 자유 작전으로 통과도 하고 싶어 하지. 나도 너랑 같은 전문 읽었어.
+014. ELIAS: And our second carrier group is through the Luzon Strait, and the Pentagon wants a freedom-of-navigation transit by Friday.
+    일라이어스: 그리고 우리 두 번째 항모 전단은 루손 해협을 지났고, 국방부는 금요일까지 항행의 자유 작전으로 해협 통과도 하고 싶어 하지.
 
-015. TOM: So let me lay out the menu. Door one, we wait for Washington to approve a trip to Beijing. That takes a week, and it leaks by Thursday.
-    톰: 그럼 메뉴를 펼쳐 볼게. 1번 문, 워싱턴이 베이징 방문을 승인해 줄 때까지 기다린다. 일주일 걸리고, 목요일이면 새.
+015. TOM: You asked me how a man reaches Beijing without anybody knowing. So here's the menu. Door one, Washington approves a trip. That takes a week, and it leaks by Thursday.
+    톰: 아무도 모르게 베이징에 가려면 어떻게 하냐고 물었지. 그럼 메뉴를 펼쳐 볼게. 1번 문, 워싱턴이 방문을 승인한다. 일주일 걸리고, 목요일이면 새.
 
 016. ELIAS: And door two.
     일라이어스: 그리고 2번 문.
@@ -334,8 +334,8 @@
 106. FRANK: Love you too. Go be sick somewhere useful, and call your daughter.
     프랭크: 나도 사랑한다. 가서 쓸모 있는 데서 아파라. 그리고 딸한테 전화하고.
 
-107. MAGGIE: Samira. You're here late. Where is he? He hasn't answered me since Singapore.
-    매기: 사미라. 늦게까지 있네. 그 사람 어디 있어? 싱가포르 이후로 내 전화를 안 받아.
+107. MAGGIE: Samira. You're here late. I told him to come home, and he went to Pakistan. Where is he?
+    매기: 사미라. 늦게까지 있네. 내가 들어오라고 했더니 그 사람은 파키스탄에 갔어. 지금 어디 있어?
 
 108. SAMIRA: Good evening, Deputy Secretary. He's at the residence in Islamabad. Food poisoning.
     사미라: 안녕하세요, 부장관님. 이슬라마바드 대사관저에 계세요. 식중독이세요.

@@ -32,7 +32,7 @@
     저우: 다른 건물. 너한텐 배관이 더 나쁜 데를 줬어. 우리가 널 귀하게 모셨단 소리 안 나오게.
 
 006. ELIAS: Lao Zhou, who knows I'm here? Tell me the real list.
-    일라이어스: 라오 저우, 내가 여기 있는 거 누가 알아? 진짜 명단으로 말해 줘.
+    일라이어스: 라오저우, 내가 여기 있는 거 누가 알아? 진짜 명단으로 말해 줘.
 
 007. ZHOU: My minister. One office above him. Colonel Meng, and the two officers who drove you. And the cook, who thinks you're a Canadian professor.
     저우: 우리 부장. 그 위의 사무실 하나. 멍 대령, 그리고 널 태우고 온 장교 두 명. 그리고 요리사. 그 사람은 네가 캐나다 교수인 줄 알아.

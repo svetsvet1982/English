@@ -413,7 +413,7 @@
     톰: 베이징 연결됐어, 대장. 네 룸메이트가 기분 안 좋은 대령을 데려왔어.
 
 133. ZHOU: Elias. It's eleven at night in Beijing, and Colonel Meng has spent his whole day reading a Brazilian file and a Norwegian one.
-    저우 한: 일라이어스. 베이징은 밤 11시야. 멍 대령은 하루 종일 브라질 파일이랑 노르웨이 파일을 읽었고.
+    저우: 일라이어스. 베이징은 밤 11시야. 멍 대령은 하루 종일 브라질 파일이랑 노르웨이 파일을 읽었고.
 
 134. ELIAS: And a map with three sandbars on it. Did the box reach you?
     일라이어스: 그리고 모래톱 세 개가 그려진 지도도. 상자 받았어?
@@ -431,16 +431,16 @@
     일라이어스: 셋 다 말을 걸어 주는 사람이 저 하나뿐이라서요. 그리고 똑같은 지도가 같은 순간에 베이징, 브라질리아, 오슬로에 도착했어요. 아무도 주인이 아니니까, 아무도 누구한테 고마워할 필요가 없어요.
 
 139. ZHOU: Very clever. Do you know what my staff called it this afternoon? "The Open Door policy." They didn't mean it kindly.
-    저우 한: 아주 영리하네. 오늘 오후에 우리 직원들이 이걸 뭐라고 불렀는지 알아? '문호 개방 정책'. 좋은 뜻으로 한 말은 아니었어.
+    저우: 아주 영리하네. 오늘 오후에 우리 직원들이 이걸 뭐라고 불렀는지 알아? '문호 개방 정책'. 좋은 뜻으로 한 말은 아니었어.
 
 140. ZHOU: In 1899 your Mr. Hay opened a door on China without asking China. The next summer, eight foreign armies marched through it into Beijing. We teach that in middle school.
-    저우 한: 1899년에 너희 헤이 씨는 중국한테 묻지도 않고 중국 위에 문을 열었지. 이듬해 여름엔 외국 군대 여덟 나라가 그 문으로 베이징까지 행군해 들어왔고. 우린 그걸 중학교에서 가르쳐.
+    저우: 1899년에 너희 헤이 씨는 중국한테 묻지도 않고 중국 위에 문을 열었지. 이듬해 여름엔 외국 군대 여덟 나라가 그 문으로 베이징까지 행군해 들어왔고. 우린 그걸 중학교에서 가르쳐.
 
 141. ELIAS: Those armies came for the siege of the legations, not because of Hay. And his second note asked the powers to leave China whole. Your textbooks skip that part.
     일라이어스: 그 군대들은 공사관 포위 때문에 온 거지, 헤이 때문이 아니야. 그리고 헤이의 두 번째 각서는 열강한테 중국을 온전히 남겨 두라고 요구했어. 너희 교과서는 그 대목을 건너뛰지.
 
 142. ZHOU: And yours skip that nobody asked us. Old friend, you know I cannot say yes to an American map. Ask me something I can say yes to.
-    저우 한: 그리고 너희 교과서는 아무도 우리한테 안 물어봤다는 걸 건너뛰고. 오랜 친구, 내가 미국 지도에 '예'라고 못 하는 거 알잖아. '예'라고 할 수 있는 걸 물어봐.
+    저우: 그리고 너희 교과서는 아무도 우리한테 안 물어봤다는 걸 건너뛰고. 오랜 친구, 내가 미국 지도에 '예'라고 못 하는 거 알잖아. '예'라고 할 수 있는 걸 물어봐.
 
 143. ELIAS: Will a Chinese ship be at that box at dawn?
     일라이어스: 새벽에 그 상자에 중국 배가 가 있을까?
@@ -455,7 +455,7 @@
     멍 대령: 16번 채널. 영어로. 짧게. 당신들 헬기는 요청하지 않을 겁니다.
 
 147. ZHOU: The colonel means we will not ask today. Tomorrow, we will see whose helicopter is closest. Goodnight, Elias. Get some sleep.
-    저우 한: 대령 말은 오늘은 요청 안 한다는 뜻이야. 내일은 누구 헬기가 제일 가까운지 보자고. 잘 자, 일라이어스. 좀 자 둬.
+    저우: 대령 말은 오늘은 요청 안 한다는 뜻이야. 내일은 누구 헬기가 제일 가까운지 보자고. 잘 자, 일라이어스. 좀 자 둬.
 
 148. TOM: Boss, bad news. Orbis Lens just bought every commercial image of that box for the next seventy-two hours. Twenty minutes after the Brazilian file went public.
     톰: 대장, 나쁜 소식. 오르비스 렌즈가 방금 그 상자 구역의 상업 위성 영상을 앞으로 72시간 치 전부 사들였어. 브라질 파일이 공개되고 20분 뒤에.

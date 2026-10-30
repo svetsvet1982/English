@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 4부 6화 · 서사 기능: 적의 반격(가족 위협) · 매기와의 거짓말 대결 · 법적 통로의 씨앗
-> - 배경: 국무부 7층 부장관 집무실(2028년 12월 2일 토요일 08:00, 공동 수색 이틀째·표류 12일째) → 뉴욕 미드타운 호텔 모의유엔 대회장 로비(같은 날 11:30) → 국무부 7층 '벽장'(같은 날 14:00) → 뉴욕 대회장 근처 다이너(12월 3일 일요일 19:00)
+> - 배경: 국무부 7층 부장관 집무실(2028년 12월 2일 토요일 08:00, 공동 수색 이틀째·표류 12일째) → 뉴욕 미드타운 호텔 모의유엔 대회장 로비(같은 날 11:30) → 국무부 7층 '벽장'(같은 날 14:00) → 뉴욕 대회장 근처 8번가 다이너(12월 3일 일요일 20:30)
 > - 등장인물: 일라이어스 그랜트, 매기 홀러웨이, 로지 그랜트, '언론 인턴'(INTERN, 이선 마시라고 자칭, 단역), 줄리아 박-그랜트, 톰 레예스, 사미라 하다드, 빅터 케인(전화), 프랭크 그랜트(전화)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 아이젠하워의 고별 연설 (1961) — 케인이 "영구적인 대규모 군수 산업을 만들 수밖에 없었다"는 대목만 떼어 "아이크는 내 직업을 설명했을 뿐"이라고 하자, 일라이어스가 바로 다음 대목의 '군산복합체의 부당한 영향력' 경고로 반박한다. 프랭크는 "그 말을 한 사람이 5성 장군이었기 때문에 무게가 있었다"며 '깨어 있고 아는 시민'이라는 결론부를 아들에게 들려준다
@@ -16,8 +16,8 @@
 
 ## 대본
 
-001. MAGGIE: Come in, Elias. Sit. You look better than a man who spent two days in bed in Islamabad.
-    매기: 들어와, 일라이어스. 앉아. 이슬라마바드에서 이틀을 앓아누웠던 사람치곤 얼굴이 좋네.
+001. MAGGIE: Come in, Elias. Sit. You look well for a man who spent two days in bed.
+    매기: 들어와, 일라이어스. 앉아. 이틀을 앓아누웠던 사람치곤 얼굴이 좋네.
 
 002. ELIAS: The ambassador's cook makes excellent rice. I'm told I was a terrible patient.
     일라이어스: 대사관저 요리사가 흰밥을 기가 막히게 하더라고요. 제가 아주 고약한 환자였다고 하던데요.
@@ -55,8 +55,8 @@
 013. MAGGIE: I will. And I'll give you one in return. Whatever you did, it worked. Bob knows. I can tell by how loudly he says he knows nothing.
     매기: 그럴게. 나도 하나 돌려줄게. 네가 뭘 했든, 통했어. 밥은 알아. 아무것도 모른다고 얼마나 크게 말하는지 보면 알지.
 
-014. ELIAS: The Secretary asked me to report to him orally. Nothing on paper. Those were his instructions.
-    일라이어스: 장관님이 구두로만 보고하라고 하셨습니다. 종이엔 아무것도 남기지 말고요. 그게 지시였어요.
+014. ELIAS: The Secretary wants oral reports only. Nothing on paper. His instructions.
+    일라이어스: 장관님이 구두 보고만 원하세요. 종이엔 아무것도 남기지 말고요. 그분 지시예요.
 
 015. MAGGIE: Robert has become very fond of instructions that leave me out of the room. I wonder who taught him that.
     매기: 로버트가 요즘 나를 방 밖에 두는 지시를 아주 좋아하더라. 누가 그런 걸 가르쳤을까.
@@ -115,8 +115,8 @@
 033. MAGGIE: And when you're ready to tell me how you spent those two days, my door is open. It always has been. That's what I'm for.
     매기: 그리고 그 이틀을 어떻게 보냈는지 말해 줄 준비가 되면, 내 문은 열려 있어. 늘 그랬어. 내가 그러라고 있는 사람이야.
 
-034. INTERN: Hi! Rosie Grant, right? Ethan Marsh, Youth Policy Wire. I emailed your club last week. Got five minutes?
-    인턴: 안녕! 로지 그랜트 맞죠? 이선 마시예요. 유스 폴리시 와이어. 지난주에 동아리에 이메일 보냈는데. 5분만 돼요?
+034. INTERN: Hi! Rosie Grant? Ethan Marsh, Youth Policy Wire. I emailed your club. Five minutes?
+    인턴: 안녕! 로지 그랜트 맞죠? 이선 마시예요, 유스 폴리시 와이어. 동아리에 이메일 보냈는데. 5분만 돼요?
 
 035. ROSIE: Oh, hi. Sure. I have committee at noon. Is this for a podcast or a website?
     로지: 아, 안녕하세요. 네. 12시에 위원회 있어요. 팟캐스트예요, 웹사이트예요?
@@ -139,8 +139,8 @@
 041. ROSIE: He's an envoy. He's not really a "China guy." He's more of a "guy who eats at airports."
     로지: 특사는 맞아요. '중국 담당'은 좀 아니고요. '공항에서 밥 먹는 사람' 쪽에 가까워요.
 
-042. INTERN: Ha. Is he flying back to Asia soon? People are saying the search might need him out there again.
-    인턴: 하하. 곧 아시아로 다시 가세요? 수색 때문에 거기 다시 가셔야 할 수도 있다던데.
+042. INTERN: Ha. Is he flying back to Asia soon? For the search?
+    인턴: 하하. 곧 아시아로 다시 가세요? 수색 때문에?
 
 043. ROSIE: I don't know his schedule. Nobody knows his schedule. Sometimes he doesn't know his schedule.
     로지: 아빠 일정은 몰라요. 아무도 몰라요. 가끔은 아빠도 몰라요.
@@ -217,8 +217,8 @@
 067. ROSIE: Indonesia, then Dad. When he's flying to Asia. Whether he's coming to New York. Which hotel. And he knew Dad got back Friday night. I didn't even know that.
     로지: 인도네시아, 그다음에 아빠. 언제 아시아로 가는지. 뉴욕에 오는지. 어느 호텔인지. 그리고 아빠가 금요일 밤에 돌아온 걸 알고 있었어. 나도 몰랐는데.
 
-068. JULIA: Okay. Go to committee. Don't talk to anyone with a lanyard you don't recognize. I'm calling your father.
-    줄리아: 알았어. 위원회 가. 모르는 목걸이 출입증 단 사람이랑은 말하지 마. 엄마는 아빠한테 전화할게.
+068. JULIA: Go to committee. Avoid lanyards you don't recognize. I'm calling your father.
+    줄리아: 위원회 가. 모르는 목걸이 출입증은 피하고. 엄마는 아빠한테 전화할게.
 
 069. ROSIE: Mom, was that about Dad?
     로지: 엄마, 그거 아빠 때문이야?
@@ -238,8 +238,8 @@
 074. TOM: I'll run them, but it's a rental, boss. These people rent everything except their opinions.
     톰: 조회는 해 볼게. 근데 렌터카일 거야, 대장. 그 인간들은 자기 의견 빼고 다 빌려 써.
 
-075. JULIA: Elias, are you listening, or are you staring at a wall and tapping a piano that isn't there?
-    줄리아: 일라이어스, 듣고 있어? 아니면 벽 보면서 있지도 않은 피아노 두드리고 있어?
+075. JULIA: Elias, are you listening, or tapping a piano that isn't there?
+    줄리아: 일라이어스, 듣고 있어? 아니면 있지도 않은 피아노 두드리고 있어?
 
 076. ELIAS: Both. Is she all right?
     일라이어스: 둘 다. 애는 괜찮아?
@@ -265,8 +265,8 @@
 083. TOM: Record it. Put it on speaker. Nobody in this room breathes.
     톰: 녹음해. 스피커로 돌려. 이 방에선 아무도 숨 쉬지 마.
 
-084. KANE: Mr. Grant. Victor Kane, Halberd Group. We've never been introduced, which I've always considered an oversight on my part.
-    케인: 그랜트 씨. 할버드 그룹의 빅터 케인입니다. 우린 정식으로 인사한 적이 없죠. 늘 제 쪽의 실수라고 생각해 왔습니다.
+084. KANE: Mr. Grant. Victor Kane, Halberd Group. We've never been introduced. My oversight.
+    케인: 그랜트 씨. 할버드 그룹의 빅터 케인입니다. 정식으로 인사한 적이 없죠. 제 불찰입니다.
 
 085. ELIAS: Mr. Kane. How did you get this number?
     일라이어스: 케인 씨. 이 번호는 어떻게 아셨습니까?
@@ -340,11 +340,11 @@
 108. TOM: And the one cable I sent from Singapore.
     톰: 그리고 내가 싱가포르에서 보낸 전문 한 건.
 
-109. ELIAS: Not now, Tom. Tonight. Somewhere without walls.
-    일라이어스: 지금은 말고, 톰. 오늘 밤. 벽 없는 데서.
+109. ELIAS: Not now, Tom. Tonight, somewhere without walls. Not on this line.
+    일라이어스: 지금은 말고, 톰. 오늘 밤, 벽 없는 데서. 이 회선으론 말고.
 
-110. ROSIE: Dad! You came! Mom said you'd get here at eight and it's seven. Is the world okay?
-    로지: 아빠! 왔네! 엄마가 8시에 온다고 했는데 지금 7시야. 세상은 괜찮아?
+110. ROSIE: Dad! You came! Mom said nine and it's eight-thirty. Is the world okay?
+    로지: 아빠! 왔네! 엄마가 9시라고 했는데 지금 8시 반이야. 세상은 괜찮아?
 
 111. ELIAS: The world's fine. I took an earlier train. How was committee?
     일라이어스: 세상은 괜찮아. 기차를 일찍 탔어. 위원회는 어땠어?
@@ -361,8 +361,8 @@
 115. ROSIE: Mom. I was going to be casual about it.
     로지: 엄마. 무심한 척하려고 했단 말이야.
 
-116. ELIAS: I'm proud of you. I'm also sorry. That man in the lobby was there because of me.
-    일라이어스: 자랑스럽다. 그리고 미안해. 로비의 그 남자는 아빠 때문에 거기 있었던 거야.
+116. ELIAS: I'm proud of you. And I'm sorry. That man was there because of me.
+    일라이어스: 자랑스럽다. 그리고 미안해. 그 남자는 아빠 때문에 거기 있었던 거야.
 
 117. ROSIE: I know. I'm not stupid. He asked about your hotel. Dad, he knew you got back Friday night. I didn't even know you got back Friday night.
     로지: 알아. 나 바보 아니야. 아빠 호텔을 물어봤어. 아빠, 그 사람은 아빠가 금요일 밤에 돌아온 걸 알았어. 나도 몰랐는데.
@@ -379,8 +379,8 @@
 121. ROSIE: That's so State Department of you. But okay. That's actually a good answer.
     로지: 완전 국무부스럽다. 근데 알았어. 진짜로 괜찮은 대답이야.
 
-122. JULIA: Rosie, go get your grandfather on the phone. It's past nine in Dayton, and he's been waiting by it since six.
-    줄리아: 로지, 할아버지한테 전화 좀 걸어 줘. 데이턴은 9시 넘었고, 6시부터 전화기 옆에서 기다리셨어.
+122. JULIA: Rosie, call your grandfather. It's nine, and he's been waiting since six.
+    줄리아: 로지, 할아버지한테 전화 드려. 9시야. 6시부터 기다리셨어.
 
 123. FRANK: Is that my son? Did you eat?
     프랭크: 내 아들이냐? 밥은 먹었니?
@@ -388,11 +388,11 @@
 124. ELIAS: I'm about to, Dad. A diner on Eighth Avenue. Rosie ordered for me.
     일라이어스: 이제 먹으려고요, 아빠. 8번가 다이너요. 로지가 대신 시켜 줬어요.
 
-125. FRANK: Good girl. Julia told me about the young man in the lobby. Let me tell you about 1961.
-    프랭크: 착하기도 하지. 줄리아한테 로비의 그 젊은 녀석 얘기 들었다. 1961년 얘기 하나 해 주마.
+125. FRANK: Good girl. Julia told me about the lobby. Let me tell you about 1961.
+    프랭크: 착하기도 하지. 줄리아한테 로비 얘기 들었다. 1961년 얘기 하나 해 주마.
 
-126. ELIAS: Eisenhower. I already used him today.
-    일라이어스: 아이젠하워요. 오늘 벌써 써먹었어요.
+126. ELIAS: Eisenhower. I already used him yesterday, on a man who deserved it.
+    일라이어스: 아이젠하워요. 어제 벌써 써먹었어요. 그래도 싼 사람한테요.
 
 127. FRANK: Then you used the famous part. January 1961, three days before Kennedy. A five-star general goes on television and warns the country about its own weapons business. That's why people listened. He wasn't a peacenik. He'd run D-Day.
     프랭크: 그럼 유명한 대목을 썼겠지. 1961년 1월, 케네디 취임 사흘 전이야. 5성 장군이 텔레비전에 나와서 자기 나라의 무기 사업을 경고한 거다. 그래서 사람들이 들은 거야. 평화주의자가 아니었거든. 노르망디 상륙 작전을 지휘한 사람이었지.
@@ -454,8 +454,8 @@
 146. JULIA: Then for now, I didn't hear it. Go call Tom. You've been looking at your phone like it owes you money.
     줄리아: 그럼 지금은 못 들은 걸로 할게. 가서 톰한테 전화해. 아까부터 빚쟁이 보듯 휴대폰을 보고 있잖아.
 
-147. TOM: Boss. I'm on the sidewalk outside your diner, freezing. The card. I've been doing the math all night.
-    톰: 대장. 지금 네 다이너 앞 보도에서 얼어 죽는 중이야. 그 카드. 밤새 계산해 봤어.
+147. TOM: Boss. I'm outside your diner, freezing. The card. I've done the math.
+    톰: 대장. 네 다이너 앞에서 얼어 죽는 중이야. 그 카드. 계산 끝났어.
 
 148. ELIAS: And?
     일라이어스: 그래서?

@@ -10,7 +10,7 @@
 > - 역사 사례: 육군–매카시 청문회와 조지프 웰치의 "Have you no sense of decency?" (1954) — 프루잇이 사미라의 과거 혐의를 꺼내자 일라이어스가 웰치를 인용하되 그 질문을 던지지 않는 방식으로 되받는다. 프루잇의 "누가 중국을 잃었나"(1949)는 일라이어스가 애치슨의 『중국 백서』로 반박한다
 > - 전술 태그: [공갈] [블러핑] [거짓말] [설득] [유출]
 > - 이번 화의 핵심 표현: hearing / subpoena / whistleblower / immunity / on the record / "The American people deserve to know." / "I'd be happy to discuss Halberd Group, Senator." / "The committee will stand in recess." / With all due respect…
-> - 복선/연결: 8화의 "사과 순방"·파키스탄 기체 번호(사미라 목록 21번) · 캘러웨이의 "안 간 출장"을 일라이어스가 혼자 짊어짐 · 쿠레시에게 진 약속(4화)을 청문회에서 갚음 · 프루잇이 2부 톰의 감시 파일을 알고 있음(랭글리의 구멍 → 11화 밴스) · 줄리아의 "감찰관 먼저, 그다음 나"(10화 1/22 신고, 11화 이첩) · 프루잇이 얼어붙은 4초(10화 사미라 어머니가 셈) · 매기의 "그 문장이 무슨 뜻이었는지"(10화)
+> - 복선/연결: 8화의 "사과 순방"·파키스탄 기체 번호(사미라의 목록에 추가) · 캘러웨이의 "안 간 출장"을 일라이어스가 혼자 짊어짐 · 쿠레시에게 진 약속(4화)을 청문회에서 갚음 · 프루잇이 2부 톰의 감시 파일을 알고 있음(랭글리의 구멍 → 11화 밴스) · 줄리아의 "감찰관 먼저, 그다음 나"(10화 1/22 신고, 11화 이첩) · 프루잇이 얼어붙은 4초(10화 사미라 어머니가 셈) · 매기의 "그 문장이 무슨 뜻이었는지"(10화)
 
 ---
 
@@ -52,8 +52,8 @@
 012. SAMIRA: August twenty-fourth. Halberd sent the Sentinel a denial about a Brazilian ship charter four hours after our cable, before anyone had accused them of anything.
     사미라: 8월 24일이요. 저희 전문 네 시간 뒤에, 아무도 뭘 고발하기도 전에 할버드가 브라질 선박 용선 건을 부인하는 성명을 <센티널>에 보냈어요.
 
-013. JULIA: So you'd be quoting their own press release.
-    줄리아: 그러니까 그 회사 보도자료를 인용하는 셈이네.
+013. JULIA: So you'd be quoting their own press release back at them.
+    줄리아: 그러니까 그 회사 보도자료를 그대로 되돌려 인용하는 셈이네.
 
 014. ELIAS: Word for word, if I have to.
     일라이어스: 필요하면 토씨 하나 안 틀리고.
@@ -61,8 +61,8 @@
 015. JULIA: Fine. Second thing. Nothing classified, nothing from the envelope, and no names of people inside this government. Not one.
     줄리아: 좋아. 두 번째. 기밀은 안 돼. 봉투에서 나온 것도 안 되고, 이 정부 안에 있는 사람 이름도 안 돼. 단 한 명도.
 
-016. TOM: She means the seventh floor.
-    톰: 7층 말하는 거야.
+016. TOM: She means the seventh floor, boss. She's just too polite to say it.
+    톰: 7층 말하는 거야, 대장. 점잖아서 대놓고 말을 못 할 뿐이지.
 
 017. JULIA: I mean anyone. If what you have is real, it goes to the Inspector General first, in writing, under your own name. Then it comes to someone like me.
     줄리아: 누구든. 당신이 가진 게 진짜라면, 먼저 감찰관한테 가. 서면으로, 당신 실명으로. 그다음에 나 같은 사람한테 오는 거고.
@@ -73,8 +73,8 @@
 019. JULIA: The only road that survives a courtroom. Your father told you that in November. I was in the hallway.
     줄리아: 법정에서 살아남는 유일한 길이지. 11월에 아버님이 그렇게 말씀하셨잖아. 나 복도에 있었어.
 
-020. ELIAS: You're always in the hallway.
-    일라이어스: 당신은 늘 복도에 있지.
+020. ELIAS: You're always in the hallway, Julia. Every important moment of my life.
+    일라이어스: 당신은 늘 복도에 있지, 줄리아. 내 인생의 중요한 순간마다.
 
 021. JULIA: It's literally my job. Will you file?
     줄리아: 말 그대로 내 직업이야. 신고할 거야?
@@ -100,8 +100,8 @@
 028. ELIAS: Truthfully enough to protect the people who trusted me.
     일라이어스: 날 믿어 준 사람들을 지킬 수 있을 만큼은 사실대로.
 
-029. JULIA: That's not a legal standard, Elias.
-    줄리아: 그건 법적 기준이 아니야, 일라이어스.
+029. JULIA: That's not a legal standard, Elias. No judge in Maryland would accept it.
+    줄리아: 그건 법적 기준이 아니야, 일라이어스. 메릴랜드 판사라면 아무도 안 받아 줄걸.
 
 030. ELIAS: It's a diplomatic one. How's Rosie?
     일라이어스: 외교적 기준이지. 로지는 어때?
@@ -109,8 +109,8 @@
 031. JULIA: Mr. Okafor is letting the Model UN club watch you during third period. She's pretending she doesn't care. She ironed a shirt for it.
     줄리아: 오카포 선생님이 3교시에 모의유엔 동아리 애들한테 당신 청문회를 보여 주기로 했대. 걔는 관심 없는 척해. 그러면서 그거 보려고 셔츠를 다렸어.
 
-032. ELIAS: Tell her I'll keep my nose still.
-    일라이어스: 코 안 만지겠다고 전해 줘.
+032. ELIAS: Tell her I'll keep my nose still. She knows what that means.
+    일라이어스: 코 안 만지겠다고 전해 줘. 무슨 뜻인지 걔는 알아.
 
 033. JULIA: She'll be watching your fingers, not your nose. Don't play "Take Five" on the witness table.
     줄리아: 걔는 코 말고 손가락을 볼 거야. 증인석 테이블에서 '테이크 파이브' 치지 마.
@@ -136,8 +136,8 @@
 040. ELIAS: Yes, Senator.
     일라이어스: 네, 의원님.
 
-041. PRUITT: So the stomachache was a lie.
-    프루잇: 그러니까 배탈은 거짓말이었군요.
+041. PRUITT: So the stomachache was a lie, told to your own government.
+    프루잇: 그러니까 배탈은 거짓말이었군요. 자기 정부에다 대고 한.
 
 042. ELIAS: The stomachache was a cover. Henry Kissinger used the same one in 1971. Nobody in this room has ever asked him to apologize for it.
     일라이어스: 배탈은 위장이었습니다. 1971년에 헨리 키신저도 똑같은 걸 썼죠. 이 방에서 그에게 사과하라고 한 사람은 아무도 없었습니다.
@@ -175,8 +175,8 @@
 053. ELIAS: I'm responsible for the English text, Senator. Beijing is responsible for its translation, just as it isn't responsible for our spokesman saying, that same afternoon, "This is not an apology."
     일라이어스: 저는 영어 본문에 책임이 있습니다, 의원님. 번역은 베이징 책임이죠. 같은 날 오후 우리 대변인이 "이건 사과가 아니다"라고 한 데 베이징이 책임이 없는 것처럼요.
 
-054. PRUITT: So both governments lied.
-    프루잇: 그러니까 두 정부 다 거짓말을 했다는 거군요.
+054. PRUITT: So both governments lied to their own people. Is that what you're saying?
+    프루잇: 그러니까 두 정부 다 자국민에게 거짓말을 했다는 겁니까? 지금 그 말씀입니까?
 
 055. ELIAS: Both governments told their own people the part they could live with. In 2001, the same thing happened with a letter about an EP-3, and twenty-four Americans came home.
     일라이어스: 두 정부 다 자국민에게 감당할 수 있는 부분을 말한 겁니다. 2001년에도 EP-3 서한으로 똑같은 일이 있었고, 미국인 스물네 명이 돌아왔습니다.
@@ -193,8 +193,8 @@
 059. ELIAS: It was bought, along with seventy-two hours of every other image of that sea, twenty minutes after the search area became public. I'd be curious who paid for it.
     일라이어스: 수색 구역이 공개되고 20분 뒤에, 그 바다의 다른 모든 영상 72시간 치와 함께 사들인 겁니다. 누가 돈을 냈는지 궁금하네요.
 
-060. PRUITT: I'm asking the questions, Mr. Grant.
-    프루잇: 질문은 내가 합니다, 그랜트 특사.
+060. PRUITT: I'm asking the questions here, Mr. Grant. You'd do well to remember that.
+    프루잇: 여기서 질문은 내가 합니다, 그랜트 특사. 그걸 기억하는 게 좋을 겁니다.
 
 061. ELIAS: Of course, Senator.
     일라이어스: 물론입니다, 의원님.
@@ -226,8 +226,8 @@
 070. PRUITT: Cases close. Questions remain.
     프루잇: 사건은 종결돼도 의문은 남죠.
 
-071. ELIAS: Then let me answer them. At 11:09 that night, Ms. Haddad was on camera outside her apartment in Arlington, chasing a raccoon in her pajamas. She was five minutes before a login fourteen minutes away.
-    일라이어스: 그럼 제가 답하겠습니다. 그날 밤 11시 9분, 하다드 씨는 알링턴 자기 아파트 앞에서 잠옷 차림으로 너구리를 쫓는 모습이 카메라에 찍혔습니다. 14분 거리에서 로그인이 일어나기 5분 전이었죠.
+071. ELIAS: Then let me answer them. At 11:09 that night, a camera caught Ms. Haddad outside her apartment in Arlington, chasing a raccoon in her pajamas. Five minutes later, someone logged in with her card fourteen minutes away.
+    일라이어스: 그럼 제가 답하겠습니다. 그날 밤 11시 9분, 하다드 씨가 알링턴 자기 아파트 앞에서 잠옷 차림으로 너구리를 쫓는 모습이 카메라에 찍혔습니다. 5분 뒤, 14분 거리에서 누군가 그녀의 카드로 로그인했고요.
 
 072. PRUITT: I don't see what a raccoon has to do with national security.
     프루잇: 너구리가 국가 안보랑 무슨 상관인지 모르겠군요.
@@ -238,8 +238,8 @@
 074. ELIAS: Senator, in 1954, in a room very much like this one, a lawyer named Joseph Welch watched a senator destroy a young man's name for the cameras. He asked him, "Have you no sense of decency, sir, at long last?"
     일라이어스: 의원님, 1954년에 이 방과 아주 비슷한 방에서 조지프 웰치라는 변호사가, 한 상원의원이 카메라 앞에서 젊은이의 이름을 짓밟는 걸 지켜봤습니다. 그리고 물었죠. "당신에겐 끝내 품위라는 게 없습니까?"
 
-075. PRUITT: Are you comparing me to Joe McCarthy?
-    프루잇: 지금 나를 조 매카시에 비유하는 겁니까?
+075. PRUITT: Are you comparing me to Joe McCarthy, in my own committee room?
+    프루잇: 지금 내 위원회 회의실에서 나를 조 매카시에 비유하는 겁니까?
 
 076. ELIAS: No, Senator. I'm not going to ask you Welch's question. I'm only going to point out that the people who put her name in the newspaper are the same people who sold you that photograph.
     일라이어스: 아닙니다, 의원님. 웰치의 질문을 드리진 않겠습니다. 다만 그녀의 이름을 신문에 넣은 사람들과 의원님께 그 사진을 판 사람들이 같은 사람들이라는 점만 짚겠습니다.
@@ -280,8 +280,8 @@
 088. ELIAS: Senator, if you've seen a classified counterintelligence file, I'd like to know who showed it to you. Because I've never seen it, and it's about me.
     일라이어스: 의원님, 기밀 방첩 파일을 보셨다면 누가 보여 드렸는지 알고 싶습니다. 저는 한 번도 본 적이 없거든요. 저에 관한 파일인데도요.
 
-089. PRUITT: I'm not going to discuss my sources.
-    프루잇: 제 정보원에 대해 말하지 않겠습니다.
+089. PRUITT: I'm not going to discuss my sources with a witness. Not today.
+    프루잇: 증인과 제 정보원에 대해 논할 생각은 없습니다. 오늘은요.
 
 090. ELIAS: Then let's discuss mine. You've spent an hour asking who I talk to. Since we're on the subject of who talks to whom, I'd be happy to discuss Halberd Group, Senator.
     일라이어스: 그럼 제 정보원 얘기를 하죠. 의원님은 한 시간 동안 제가 누구와 얘기하는지 물으셨습니다. 누가 누구와 얘기하는지가 주제라면, 할버드 그룹에 대해 기꺼이 말씀드리겠습니다, 의원님.
@@ -343,8 +343,8 @@
 109. ELIAS: Senator, the last man who mentioned my daughter to me was Victor Kane. I'll assume you're quoting him, not threatening me.
     일라이어스: 의원님, 저한테 마지막으로 제 딸 얘기를 꺼낸 사람은 빅터 케인이었습니다. 의원님은 저를 위협하시는 게 아니라 그 사람 말을 인용하시는 거라고 생각하겠습니다.
 
-110. PRUITT: I don't know what you're talking about.
-    프루잇: 무슨 소린지 모르겠군.
+110. PRUITT: I don't know what you're talking about, and neither, I suspect, do you.
+    프루잇: 무슨 소린지 모르겠군. 내 짐작엔 자네도 모를 거고.
 
 111. ELIAS: Then here's what happens when we go back in. You can close the hearing early, or I can keep answering your questions. At length. Under oath.
     일라이어스: 그럼 다시 들어가면 이렇게 될 겁니다. 청문회를 일찍 끝내셔도 되고, 아니면 제가 의원님 질문에 계속 답해도 됩니다. 길게요. 선서한 채로요.
@@ -388,8 +388,8 @@
 124. MAGGIE: That was reckless. Or brilliant. In this building they're usually the same thing, measured a year apart.
     매기: 무모했어. 아니면 훌륭했거나. 이 건물에선 그 둘이 대개 같은 거야. 1년 간격을 두고 재 보면.
 
-125. ELIAS: Which one do you think it was?
-    일라이어스: 어느 쪽이었다고 생각하세요?
+125. ELIAS: Which one do you think it was, Maggie? You've seen more hearings than I have.
+    일라이어스: 어느 쪽이었다고 생각하세요, 매기? 청문회는 저보다 훨씬 많이 보셨잖아요.
 
 126. MAGGIE: I think you named a company on live television without telling me first. Robert didn't know either. What do you have on Halberd, Elias?
     매기: 네가 나한테 먼저 말도 안 하고 생방송에서 회사 이름을 댔다고 생각해. 로버트도 몰랐고. 할버드에 대해 뭘 갖고 있어, 일라이어스?

@@ -454,8 +454,8 @@
 146. ELIAS: I'm sure you would.
     일라이어스: 잘 아시겠죠.
 
-147. MAGGIE: Come to the house. Not the office. We haven't really talked since Singapore, and I think we're both tired of pretending we have.
-    매기: 집으로 와. 사무실 말고. 싱가포르 이후로 우리 제대로 얘기한 적 없잖아. 그런 척하는 것도 둘 다 지쳤을 거고.
+147. MAGGIE: Come to the house. Not the office. We haven't talked honestly in months, and I think we're both tired of pretending we have.
+    매기: 집으로 와. 사무실 말고. 우리 몇 달째 솔직하게 얘기한 적 없잖아. 그런 척하는 것도 둘 다 지쳤을 거고.
 
 148. ELIAS: When?
     일라이어스: 언제요?

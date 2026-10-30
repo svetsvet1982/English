@@ -248,124 +248,124 @@
     일라이어스: 진짜 사진에 가짜 자막. 그 사람들은 늘 그렇게 해 왔어. 그냥 두자. 우린 써야 할 서한이 있어.
 
 078. ZHOU: Good morning from Beijing, old friend. Captain Gao is in the hospital in Sanya. He ate two bowls of rice porridge and asked for his daughter's drawings.
-    저우 한: 베이징에서 좋은 아침, 오랜 친구. 가오 대위는 싼야 병원에 있어. 흰죽 두 그릇 먹고 딸 그림을 달라고 했대.
+    저우: 베이징에서 좋은 아침, 오랜 친구. 가오 대위는 싼야 병원에 있어. 흰죽 두 그릇 먹고 딸 그림을 달라고 했대.
 
 079. ELIAS: How's the wrist?
     일라이어스: 손목은 어때?
 
 080. ZHOU: Broken in two places. He set it himself with a piece of the seat kit. The doctors are very angry with him and very proud.
-    저우 한: 두 군데 부러졌어. 좌석 키트 조각으로 직접 고정했대. 의사들이 엄청 화내면서도 엄청 자랑스러워해.
+    저우: 두 군데 부러졌어. 좌석 키트 조각으로 직접 고정했대. 의사들이 엄청 화내면서도 엄청 자랑스러워해.
 
 081. ELIAS: Tell him a lot of people on both sides counted his days.
     일라이어스: 양쪽에서 많은 사람이 그의 날짜를 셌다고 전해 줘.
 
 082. ZHOU: I will. Now we have to talk about nine Americans, and my ministry has sent me with a draft I don't like.
-    저우 한: 그럴게. 이제 미국인 아홉 명 얘기를 해야 하는데, 우리 부처가 나한테 마음에 안 드는 초안을 들려 보냈어.
+    저우: 그럴게. 이제 미국인 아홉 명 얘기를 해야 하는데, 우리 부처가 나한테 마음에 안 드는 초안을 들려 보냈어.
 
 083. ELIAS: Read it to me anyway.
     일라이어스: 그래도 읽어 줘.
 
 084. ZHOU: "The US side deeply apologizes for the collision caused by its reconnaissance aircraft, and undertakes to cease such flights near China's coast."
-    저우 한: "미국 측은 자국 정찰기가 일으킨 충돌에 대해 깊이 사과하며, 중국 연안 부근에서 그러한 비행을 중단할 것을 약속한다."
+    저우: "미국 측은 자국 정찰기가 일으킨 충돌에 대해 깊이 사과하며, 중국 연안 부근에서 그러한 비행을 중단할 것을 약속한다."
 
 085. ELIAS: You know I can't sign that. Your J-16 hit our wing.
     일라이어스: 내가 그거 서명 못 하는 거 알잖아. 너희 J-16이 우리 날개를 쳤어.
 
 086. ZHOU: Freedom of navigation. I've heard the speech. Our pilot nearly died for it.
-    저우 한: 항행의 자유. 그 연설 들어 봤어. 우리 조종사는 그것 때문에 죽을 뻔했고.
+    저우: 항행의 자유. 그 연설 들어 봤어. 우리 조종사는 그것 때문에 죽을 뻔했고.
 
-087. ELIAS: And nine of our people have spent eighteen days in a guesthouse for his. We can trade grievances all morning, Han.
-    일라이어스: 그리고 우리 사람 아홉 명은 그 사람 때문에 18일째 영빈관에 있어. 억울한 얘기 주고받기는 아침 내내 할 수 있어, 한.
+087. ELIAS: And nine of our people have spent eighteen days in a guesthouse for his. We can trade grievances all morning, Lao Zhou.
+    일라이어스: 그리고 우리 사람 아홉 명은 그 사람 때문에 18일째 영빈관에 있어. 억울한 얘기 주고받기는 아침 내내 할 수 있어, 라오저우.
 
 088. ZHOU: Or the crew can spend Christmas in Lingshui. The guesthouse has a very good cook.
-    저우 한: 아니면 승무원들이 링수이에서 크리스마스를 보내도 되고. 영빈관 요리사가 아주 훌륭하거든.
+    저우: 아니면 승무원들이 링수이에서 크리스마스를 보내도 되고. 영빈관 요리사가 아주 훌륭하거든.
 
 089. ELIAS: You don't want nine Americans for Christmas. Your television has its hero now, and every day you keep the crew, the hero story gets a little older and the crew story gets a little louder.
     일라이어스: 넌 크리스마스에 미국인 아홉 명 데리고 있고 싶지 않아. 너희 텔레비전엔 이제 영웅이 있어. 승무원을 하루 더 붙잡을 때마다 영웅 이야기는 조금씩 낡고, 승무원 이야기는 조금씩 시끄러워질 거야.
 
 090. ZHOU: Perhaps. But some people here watched your cable news this morning. "US Navy takes orders from the PLA." They liked it. Now they want the letter to sound the same.
-    저우 한: 그럴지도. 그런데 여기 몇몇은 오늘 아침 너희 케이블 뉴스를 봤어. "미 해군, 인민해방군의 명령을 받다." 아주 좋아하더라. 이제 서한도 그렇게 들리길 원해.
+    저우: 그럴지도. 그런데 여기 몇몇은 오늘 아침 너희 케이블 뉴스를 봤어. "미 해군, 인민해방군의 명령을 받다." 아주 좋아하더라. 이제 서한도 그렇게 들리길 원해.
 
-091. ELIAS: That headline was written by the same people who tried to buy the satellite pictures of your pilot's sea. They want you angry, Han. And they want my Senate angry.
-    일라이어스: 그 헤드라인은 너희 조종사가 있던 바다의 위성 사진을 사려던 바로 그 사람들이 쓴 거야. 그들은 네가 화나길 바라, 한. 우리 상원도 화나길 바라고.
+091. ELIAS: That headline was written by the same people who tried to buy the satellite pictures of your pilot's sea. They want you angry, Lao Zhou. And they want my Senate angry.
+    일라이어스: 그 헤드라인은 너희 조종사가 있던 바다의 위성 사진을 사려던 바로 그 사람들이 쓴 거야. 그들은 네가 화나길 바라, 라오저우. 우리 상원도 화나길 바라고.
 
 092. ZHOU: You're saying the people who wrote the blockade report are the same people.
-    저우 한: 그 봉쇄 보고서 쓴 사람들이랑 같은 사람들이라는 거네.
+    저우: 그 봉쇄 보고서 쓴 사람들이랑 같은 사람들이라는 거네.
 
 093. ELIAS: I'm saying it would be a shame if we let them write our letter too.
     일라이어스: 그 사람들한테 우리 서한까지 쓰게 놔두면 안타까운 일이라는 거지.
 
 094. ZHOU: Then you write it. Old friend, you know I cannot say yes to "regret." In Chinese it sounds like a man stepping on your foot on the bus.
-    저우 한: 그럼 네가 써. 오랜 친구, 내가 'regret'에 '예'라고 못 하는 거 알잖아. 중국어로는 버스에서 남의 발 밟은 사람 정도로 들리거든.
+    저우: 그럼 네가 써. 오랜 친구, 내가 'regret'에 '예'라고 못 하는 거 알잖아. 중국어로는 버스에서 남의 발 밟은 사람 정도로 들리거든.
 
 095. ELIAS: Then let's borrow from Shanghai. 1972. Kissinger and Qiao Guanhua couldn't agree on Taiwan, so each side wrote its own paragraph. "The Chinese side stated." "The US side stated."
     일라이어스: 그럼 상하이에서 빌려 오자. 1972년. 키신저랑 차오관화는 대만 문제에 합의를 못 했어. 그래서 각자 자기 문단을 썼지. "중국 측은 밝혔다." "미국 측은 밝혔다."
 
 096. ZHOU: And in the middle, one verb that both sides could live with. "Acknowledges." Our professor in Nanjing spent a whole semester on that verb.
-    저우 한: 그리고 가운데엔 양쪽 다 견딜 수 있는 동사 하나. 'acknowledges'. 난징에서 우리 교수님이 그 동사 하나로 한 학기를 보냈잖아.
+    저우: 그리고 가운데엔 양쪽 다 견딜 수 있는 동사 하나. 'acknowledges'. 난징에서 우리 교수님이 그 동사 하나로 한 학기를 보냈잖아.
 
 097. ELIAS: You fell asleep in that class.
     일라이어스: 넌 그 수업에서 졸았지.
 
 098. ZHOU: I was listening with my eyes closed. What would we each state?
-    저우 한: 눈 감고 듣고 있었던 거야. 각자 뭐라고 밝히는데?
+    저우: 눈 감고 듣고 있었던 거야. 각자 뭐라고 밝히는데?
 
 099. ELIAS: Your paragraph says what you believe about the collision. Ours says what we believe. Neither of us agrees with the other, and neither of us signs the other's paragraph.
     일라이어스: 너희 문단엔 충돌에 대해 너희가 믿는 걸 쓰고, 우리 문단엔 우리가 믿는 걸 써. 서로 동의하지 않고, 서로 상대 문단엔 서명하지 않는 거야.
 
 100. ZHOU: And the shared part?
-    저우 한: 그럼 공동 부분은?
+    저우: 그럼 공동 부분은?
 
 101. ELIAS: Two things. Both sides welcome Captain Gao's safe return. And both agree to meet in January under the maritime agreement to talk about de-confliction in the air.
     일라이어스: 두 가지. 양측은 가오 대위의 무사 귀환을 환영한다. 그리고 1월에 해상군사협의 틀에서 만나 공중 충돌 방지를 논의하기로 합의한다.
 
 102. ZHOU: Nothing about the flights.
-    저우 한: 비행 얘기는 하나도 없네.
+    저우: 비행 얘기는 하나도 없네.
 
 103. ELIAS: Nothing about the flights. You don't get a promise, and I don't get a denial. That's strategic ambiguity, and we've both been living in it for fifty years.
     일라이어스: 비행 얘기는 하나도 없어. 너희는 약속을 못 받고, 우린 부인을 못 받아. 그게 전략적 모호성이고, 우리 둘 다 50년째 그 안에서 살아왔잖아.
 
 104. ZHOU: Beijing still needs a "sorry," Elias. Without it, this is a weather report.
-    저우 한: 베이징은 그래도 'sorry'가 필요해, 일라이어스. 그게 없으면 이건 일기예보야.
+    저우: 베이징은 그래도 'sorry'가 필요해, 일라이어스. 그게 없으면 이건 일기예보야.
 
 105. ELIAS: Then here it is. One sentence, from the US side, alone. "We are very sorry the pilot's family had to wait."
     일라이어스: 그럼 여기 있어. 미국 측이 단독으로 쓰는 한 문장. "조종사 가족분들이 기다려야 했던 점, 대단히 미안하게 생각합니다."
 
 106. ZHOU: Wait for what?
-    저우 한: 뭘 기다렸다는 거지?
+    저우: 뭘 기다렸다는 거지?
 
 107. ELIAS: For seventeen days, while two navies looked in the wrong place and argued about whose fault it was. That's true for you, and it's true for us. It's the one sorry nobody can deny.
     일라이어스: 17일 동안. 해군 두 곳이 엉뚱한 데를 찾으면서 누구 잘못인지 싸우는 동안. 그건 너희한테도 사실이고 우리한테도 사실이야. 아무도 부인할 수 없는 유일한 'sorry'지.
 
 108. ZHOU: Sorry, but not for the collision.
-    저우 한: 미안하다, 그런데 충돌 때문은 아니고.
+    저우: 미안하다, 그런데 충돌 때문은 아니고.
 
 109. ELIAS: Not for the collision, not for the flight. For the waiting. If your television reads that sentence aloud next to the picture of his daughter, who's going to argue with it?
     일라이어스: 충돌 때문도, 비행 때문도 아니야. 기다림 때문이지. 너희 텔레비전이 그 딸 사진 옆에서 그 문장을 소리 내 읽는데, 누가 거기에 토를 달겠어?
 
 110. ZHOU: Nobody. That's always your problem.
-    저우 한: 아무도 못 달지. 그게 늘 너의 문제야.
+    저우: 아무도 못 달지. 그게 늘 너의 문제야.
 
 111. ZHOU: You should know one thing. In our Chinese text, "very sorry" will be translated as 深表歉意. It's a little stronger than your English.
-    저우 한: 하나 알아 둬. 우리 중국어 본문에선 'very sorry'가 '深表歉意'로 번역될 거야. 너희 영어보다 조금 더 세지.
+    저우: 하나 알아 둬. 우리 중국어 본문에선 'very sorry'가 '深表歉意'로 번역될 거야. 너희 영어보다 조금 더 세지.
 
 112. ELIAS: I know what it'll say. I won't be reading the Chinese text.
     일라이어스: 뭐라고 될지 알아. 난 중국어 본문은 안 읽을 거야.
 
 113. ZHOU: And your spokesman will say, "This is not an apology."
-    저우 한: 그리고 너희 대변인은 "이건 사과가 아니다"라고 하겠지.
+    저우: 그리고 너희 대변인은 "이건 사과가 아니다"라고 하겠지.
 
 114. ELIAS: And you won't be reading his transcript. Fair?
     일라이어스: 그리고 넌 그 사람 발언록은 안 읽을 거고. 공평하지?
 
 115. ZHOU: Fair. Each of us lies a little, at home, in our own language. Like Shanghai.
-    저우 한: 공평해. 우리 각자 집에서, 자기 말로, 조금씩 거짓말하는 거지. 상하이 때처럼.
+    저우: 공평해. 우리 각자 집에서, 자기 말로, 조금씩 거짓말하는 거지. 상하이 때처럼.
 
 116. ELIAS: Then let me ask you something you can say yes to. Can the crew be on a plane Saturday morning?
     일라이어스: 그럼 네가 '예'라고 할 수 있는 걸 물어볼게. 승무원들이 토요일 아침에 비행기를 탈 수 있을까?
 
 117. ZHOU: Yes. Haikou, seven-thirty. I'll be there myself. Bring the letter, and don't bring cameras.
-    저우 한: 그래. 하이커우, 7시 반. 나도 직접 갈게. 서한 가져오고, 카메라는 데려오지 마.
+    저우: 그래. 하이커우, 7시 반. 나도 직접 갈게. 서한 가져오고, 카메라는 데려오지 마.
 
 118. CALLAWAY: "Very sorry." Grant, I told you in plain English. No apology.
     캘러웨이: "매우 유감, 미안." 그랜트, 내가 분명히 영어로 말했지. 사과는 없다고.
@@ -383,13 +383,13 @@
     캘러웨이: 결과를 가져와, 그랜트. 시 말고. 좋아. 보내. 그리고 그랜트, 11월에 자네가 안 갔던 그 출장 말이야? 여전히 안 간 거야.
 
 123. ZHOU: Seven twenty-five. You're early, and you look terrible. Did you sleep on the plane?
-    저우 한: 7시 25분. 일찍 왔네. 그리고 몰골이 말이 아니다. 비행기에서 잤어?
+    저우: 7시 25분. 일찍 왔네. 그리고 몰골이 말이 아니다. 비행기에서 잤어?
 
 124. ELIAS: Two hours over Alaska. Is that them?
     일라이어스: 알래스카 위에서 두 시간. 저 사람들이야?
 
 125. ZHOU: All nine. Their commander wants five minutes.
-    저우 한: 아홉 명 전부. 기장이 5분만 달래.
+    저우: 아홉 명 전부. 기장이 5분만 달래.
 
 126. BROOKS: Special Envoy Grant? Kayla Brooks. You were the voice on the phone.
     브룩스: 그랜트 특사님? 케일라 브룩스입니다. 전화 속 목소리가 특사님이셨죠.
@@ -419,7 +419,7 @@
     브룩스: 그 가족한테 저희가 드리는 걸 전해 주시겠습니까? 승무원들이 카드를 썼습니다. 영어로요. 경비병 한 명이 한자를 도와줬고요.
 
 135. ZHOU: Give it to me. I'll take it to Sanya myself. A card is not in the letter, so nobody has to approve it.
-    저우 한: 나한테 줘. 내가 직접 싼야에 가져갈게. 카드는 서한에 없으니까, 아무도 승인할 필요 없어.
+    저우: 나한테 줘. 내가 직접 싼야에 가져갈게. 카드는 서한에 없으니까, 아무도 승인할 필요 없어.
 
 136. BROOKS: Thank you, sir. Permission to go home?
     브룩스: 감사합니다. 귀국해도 되겠습니까?
@@ -431,7 +431,7 @@
     브룩스: 18일 동안 받은 제안 중에 최고네요. 감사합니다, 특사님.
 
 139. ZHOU: You made a good door, Elias. My minister will say China opened it, and yours will say America did. Neither of them will ever thank you for it.
-    저우 한: 좋은 문을 만들었어, 일라이어스. 우리 장관은 중국이 열었다고 할 거고, 너희 장관은 미국이 열었다고 하겠지. 둘 다 너한텐 절대 고맙다고 안 할 거야.
+    저우: 좋은 문을 만들었어, 일라이어스. 우리 장관은 중국이 열었다고 할 거고, 너희 장관은 미국이 열었다고 하겠지. 둘 다 너한텐 절대 고맙다고 안 할 거야.
 
 140. ELIAS: That's how you know it was a good door.
     일라이어스: 그래서 좋은 문인 줄 아는 거야.
@@ -457,8 +457,8 @@
 147. ELIAS: What's he calling it?
     일라이어스: 뭐라고 이름 붙였어요?
 
-148. SAMIRA: "The Apology Tour." And he has the tail number of a Pakistani government plane. Number twenty-one on my list. Somebody gave him Islamabad.
-    사미라: "사과 순방." 그리고 파키스탄 정부 비행기의 기체 번호를 갖고 있어요. 제 목록 21번이에요. 누군가 그 사람한테 이슬라마바드를 넘겨줬어요.
+148. SAMIRA: "The Apology Tour." And he has the tail number of a Pakistani government plane. Another one for my list. Somebody gave him Islamabad.
+    사미라: "사과 순방." 그리고 파키스탄 정부 비행기의 기체 번호를 갖고 있어요. 제 목록에 하나 더 올라가네요. 누군가 그 사람한테 이슬라마바드를 넘겨줬어요.
 
 149. ELIAS: Then the trip I never took is about to become very famous.
     일라이어스: 그럼 내가 안 갔던 출장이 곧 아주 유명해지겠네요.

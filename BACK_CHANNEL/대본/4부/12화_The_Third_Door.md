@@ -19,8 +19,8 @@
 001. MAGGIE: You came. I wasn't sure you would. Give me your coat.
     매기: 왔구나. 올지 확신이 없었어. 코트 이리 줘.
 
-002. ELIAS: I said Saturday. I keep my Saturdays.
-    일라이어스: 토요일이라고 했잖아요. 전 토요일 약속은 지켜요.
+002. ELIAS: I said Saturday. I keep my Saturdays, even the hard ones.
+    일라이어스: 토요일이라고 했잖아요. 힘든 토요일이라도 약속은 지켜요.
 
 003. MAGGIE: You keep everything. That was always your problem and your gift. Come into the study. The fire's lit.
     매기: 넌 뭐든 지키지. 그게 늘 네 문제이자 재능이었어. 서재로 들어와. 불 피워 놨어.
@@ -37,20 +37,20 @@
 007. MAGGIE: Your father wrote me a note. Would you like to hear it? I've read it more times than I'll admit.
     매기: 아버님이 나한테 카드를 쓰셨어. 들어 볼래? 인정하기 싫을 만큼 여러 번 읽었어.
 
-008. ELIAS: I'd like that.
-    일라이어스: 듣고 싶어요.
+008. ELIAS: I'd like that. He hasn't written a note in years.
+    일라이어스: 듣고 싶어요. 아버지가 카드를 쓰신 게 몇 년 만인지 몰라요.
 
 009. MAGGIE: "Dear Margaret, thank you for the pie. My son tells me you taught him everything he knows. I've often wondered which parts."
     매기: "마거릿에게. 파이 고맙습니다. 아들 말로는 당신이 그 애가 아는 모든 걸 가르쳐 줬다더군요. 그게 어느 부분일지 종종 궁금했습니다."
 
-010. ELIAS: That sounds like him.
-    일라이어스: 딱 아버지 말투네요.
+010. ELIAS: That sounds like him. He grades everything, even pie.
+    일라이어스: 딱 아버지 말투네요. 뭐든 채점하세요, 파이까지.
 
 011. MAGGIE: It sounds like a history teacher grading a paper. And here's the bottle, since Helsinki. I opened it an hour ago to let it breathe.
     매기: 역사 선생님이 답안지 채점하는 말투지. 그리고 이게 그 술이야, 헬싱키 때부터. 한 시간 전에 따서 숨 쉬게 해 뒀어.
 
-012. ELIAS: Let it keep breathing. I'm not drinking tonight.
-    일라이어스: 계속 숨 쉬게 두세요. 오늘 밤엔 안 마셔요.
+012. ELIAS: Let it keep breathing. I'm not drinking tonight, Maggie.
+    일라이어스: 계속 숨 쉬게 두세요. 오늘 밤엔 안 마셔요, 매기.
 
 013. MAGGIE: Julia told you it's a negotiation.
     매기: 줄리아가 이건 협상이라고 했구나.
@@ -82,8 +82,8 @@
 022. ELIAS: My canary copy. You read it in front of me and told me to leave it with your chief of staff. It went through the shredder that afternoon. The only copy that never leaked.
     일라이어스: 제 카나리아 사본이요. 제 앞에서 읽으시고는 비서실장한테 두고 가라고 하셨죠. 그날 오후에 파쇄기로 들어갔어요. 끝내 유출되지 않은 유일한 사본이에요.
 
-023. MAGGIE: I don't keep paper. You know that.
-    매기: 난 종이를 안 남겨. 너도 알잖아.
+023. MAGGIE: I don't keep paper. You've known that for twenty years.
+    매기: 난 종이를 안 남겨. 20년 동안 알았잖아.
 
 024. ELIAS: Careful people don't leak their own copy. They leak somebody else's.
     일라이어스: 조심스러운 사람은 자기 사본을 흘리지 않죠. 남의 걸 흘리지.
@@ -112,8 +112,8 @@
 032. ELIAS: You can't possibly know that.
     일라이어스: 그걸 어떻게 아세요.
 
-033. MAGGIE: Of course I can. A man who's recording doesn't announce it. He lets me talk. And you just touched your nose. I noticed that habit in 2009, long before Dmitri did.
-    매기: 당연히 알지. 녹음하는 사람은 그걸 알리지 않아. 그냥 내가 떠들게 두지. 그리고 너 방금 코 만졌어. 그 버릇, 드미트리보다 훨씬 먼저 2009년에 내가 알아챘다.
+033. MAGGIE: Of course I can. A man who's recording doesn't announce it; he lets me talk. And you just touched your nose.
+    매기: 당연히 알지. 녹음하는 사람은 그걸 알리지 않아. 그냥 내가 떠들게 두지. 그리고 너 방금 코 만졌어.
 
 034. ELIAS: No recorder. No wire. Julia didn't send me. It's just me.
     일라이어스: 녹음기 없어요. 도청 장치도요. 줄리아가 보낸 것도 아니에요. 저 혼자예요.
@@ -121,8 +121,8 @@
 035. MAGGIE: Thank you. Now we can actually talk. Do you know why you came without one? Because you didn't come to convict me. You came to offer me something. You always do.
     매기: 고마워. 이제야 제대로 얘기할 수 있겠네. 왜 녹음기 없이 왔는지 알아? 날 유죄로 만들러 온 게 아니라 뭔가를 내밀러 왔으니까. 넌 늘 그렇지.
 
-036. ELIAS: I came to hear you say it.
-    일라이어스: 직접 말씀하시는 걸 들으러 왔어요.
+036. ELIAS: I came to hear you say it. Once, out loud.
+    일라이어스: 직접 말씀하시는 걸 들으러 왔어요. 한 번만, 소리 내서.
 
 037. MAGGIE: Then I'll say it. Yes. The Off-Ramps cable was mine. The Brazil file, the forged cable, the timing of every one. I designed it. Victor's people built it.
     매기: 그럼 말해 줄게. 그래. 「출구」 전문은 내가 했어. 브라질 문건도, 가짜 전문도, 하나하나의 타이밍도. 설계는 내가 했고, 만든 건 빅터네 사람들이야.
@@ -163,8 +163,8 @@
 049. MAGGIE: Every crisis I made, you solved. Don't you see? I made you. I pulled you out of a visa booth in Montreal because the fire needed a fireman, and nobody else could carry the water.
     매기: 내가 만든 위기는 전부 네가 풀었어. 모르겠니? 내가 널 만든 거야. 몬트리올 비자 창구에서 널 꺼낸 건, 불에는 소방관이 필요했고 그 물을 나를 수 있는 사람이 너밖에 없었기 때문이야.
 
-050. ELIAS: You put me in that booth first.
-    일라이어스: 그 창구에 절 먼저 넣은 것도 부장관님이죠.
+050. ELIAS: You put me in that booth first. Don't skip that part.
+    일라이어스: 그 창구에 절 먼저 넣은 것도 부장관님이죠. 그 부분은 건너뛰지 마세요.
 
 051. MAGGIE: Yes. I leaked your cable because the deal in it would have frozen Moscow in place for a decade. And I chose you to carry it because I knew you'd survive it. You did.
     매기: 그래. 네 전문을 흘린 건, 거기 담긴 합의가 모스크바를 10년 동안 그 자리에 얼려 둘 거였기 때문이야. 그리고 그 짐을 질 사람으로 널 고른 건, 네가 버텨 낼 걸 알았기 때문이고. 넌 버텼어.
@@ -289,8 +289,8 @@
 091. MAGGIE: Monday. Eight o'clock. Tell Julia I take my coffee black, and I won't drink hers.
     매기: 월요일. 8시. 줄리아한테 전해. 난 커피는 블랙으로 마시고, 그 사람 커피는 안 마실 거라고.
 
-092. ELIAS: I'll tell her.
-    일라이어스: 전할게요.
+092. ELIAS: I'll tell her. She'll be at her desk by seven-thirty.
+    일라이어스: 전할게요. 줄리아는 7시 반이면 책상에 있을 거예요.
 
 093. MAGGIE: Elias. There's always a third door. I taught you that.
     매기: 일라이어스. 세 번째 문은 언제나 있어. 내가 그걸 가르쳤지.
@@ -301,20 +301,20 @@
 095. TOM: Lou's is clean. Swept it twice. Lou made me wipe my feet this time.
     톰: Lou's 깨끗해. 두 번 훑었어. 이번엔 루가 발까지 닦으래.
 
-096. SAMIRA: It's been eleven days, and I still can't believe it. Seven forty-one Monday morning, she walked into the U.S. Attorney's Office with her lawyer and a black coffee.
-    사미라: 열하루가 지났는데 아직도 안 믿겨요. 월요일 아침 7시 41분에, 변호사랑 블랙커피를 들고 연방 검찰청에 걸어 들어갔잖아요.
+096. SAMIRA: Eleven days, and I still can't believe it. Seven forty-one Monday morning, she walked in with her lawyer and a black coffee.
+    사미라: 열하루가 지났는데 아직도 안 믿겨요. 월요일 아침 7시 41분, 변호사랑 블랙커피를 들고 걸어 들어갔잖아요.
 
-097. ELIAS: Two hours and nineteen minutes before Kane's lawyers.
-    일라이어스: 케인 변호인단보다 2시간 19분 먼저.
+097. ELIAS: Two hours and nineteen minutes before Kane's lawyers walked in.
+    일라이어스: 케인 변호인단이 들어오기 2시간 19분 전에.
 
 098. TOM: I hear Kane's lawyers sat in the lobby for an hour before somebody told them the price had changed.
     톰: 듣자 하니 케인 변호사들이 로비에서 한 시간이나 앉아 있다가 누가 와서 가격이 바뀌었다고 말해 줬대.
 
-099. SAMIRA: Her resignation letter was one paragraph. "For reasons I intend to address with the proper authorities." Callaway read it twice and said, "Finally, a memo with no poetry in it."
-    사미라: 사직서는 한 문단이었어요. "관계 당국과 다룰 사유로 인하여." 캘러웨이 장관님이 두 번 읽더니 "드디어 시 없는 메모가 나왔군" 하셨대요.
+099. SAMIRA: Her resignation was one paragraph. Callaway read it twice and said, "Finally, a memo with no poetry in it."
+    사미라: 사직서는 한 문단이었어요. 캘러웨이 장관님이 두 번 읽더니 "드디어 시 없는 메모가 나왔군" 하셨대요.
 
-100. ELIAS: From him, that's practically a eulogy.
-    일라이어스: 그분한테서 그 정도면 거의 추도사네요.
+100. ELIAS: From him, that's practically a eulogy. Frame it, Samira.
+    일라이어스: 그분한테서 그 정도면 거의 추도사네요. 액자에 넣어 둬요, 사미라.
 
 101. SAMIRA: He also said, quote, "Tell Grant: results, not poetry. And this time he got both."
     사미라: 그리고 이렇게도 말씀하셨어요. 인용할게요. "그랜트한테 전해. 시 말고 결과라고. 그리고 이번엔 둘 다 가져왔다고."
@@ -322,8 +322,8 @@
 102. TOM: And yesterday a grand jury in Baltimore indicted Victor Kane. Conspiracy, wire fraud, obstruction. First counts, Julia says. Not the last.
     톰: 그리고 어제 볼티모어 대배심이 빅터 케인을 기소했어. 공모, 통신 사기, 사법 방해. 줄리아 말로는 첫 번째 혐의들일 뿐이래. 마지막이 아니라.
 
-103. ELIAS: Did he plead not guilty?
-    일라이어스: 무죄를 주장했어?
+103. ELIAS: Did he plead not guilty, or just smile at the judge?
+    일라이어스: 무죄를 주장했어, 아니면 판사한테 웃어 보이기만 했어?
 
 104. TOM: Loudly. His lawyers called it a political prosecution. He was out on bond by lunch, smiling for the cameras.
     톰: 크게. 변호사들은 정치적 기소라고 했고. 점심때쯤 보석으로 나와서 카메라 앞에서 웃더라.
@@ -385,8 +385,8 @@
 123. ELIAS: A museum hot dog. Rosie watched me finish it.
     일라이어스: 박물관 핫도그. 로지가 다 먹는 거 지켜봤어.
 
-124. FRANK: Good. Rosie, this is the room. During the talks they held a dinner right here in the museum, among the planes. Three presidents who couldn't stand each other.
-    프랭크: 잘했다. 로지야, 여기가 그 방이다. 회담 중에 바로 이 박물관에서, 비행기들 사이에서 만찬을 열었지. 서로 꼴도 보기 싫어하던 대통령 셋을 앉혀 놓고.
+124. FRANK: Good. Rosie, during the talks they held a dinner right here in the museum, among the planes.
+    프랭크: 잘했다. 로지야, 회담 중에 바로 이 박물관에서, 비행기들 사이에서 만찬을 열었단다.
 
 125. ROSIE: Dinner under a bomber. Very subtle. That's so State Department of you, Grandpa.
     로지: 폭격기 밑에서 저녁이라. 참 은근하다. 완전 국무부스럽다, 할아버지.
@@ -439,8 +439,8 @@
 141. FRANK: Was that your Russian? You look like a man who just got out of a very long game.
     프랭크: 그 러시아 친구냐? 아주 긴 게임에서 막 빠져나온 사람 얼굴이구나.
 
-142. ELIAS: He offered a draw. I took it.
-    일라이어스: 무승부를 제안했어요. 받았고요.
+142. ELIAS: He offered a draw. I took it before he changed his mind.
+    일라이어스: 무승부를 제안했어요. 마음 바꾸기 전에 받았죠.
 
 143. FRANK: You might have won.
     프랭크: 이길 수도 있었잖니.
