@@ -40,8 +40,8 @@
 008. SAMIRA: By the way, the flowers worked. Thirteen days, thirteen bouquets. Yesterday her office sent the vase back.
     사미라: 그건 그렇고, 꽃이 통했어요. 13일 동안 꽃다발 13개. 어제 그쪽 사무실에서 꽃병을 돌려보냈어요.
 
-009. ELIAS: Empty?
-    일라이어스: 빈 거요?
+009. ELIAS: Empty? Or did they at least leave the flowers in it?
+    일라이어스: 빈 거요? 아니면 꽃이라도 남겨 뒀어요?
 
 010. SAMIRA: Full of water. I've decided that means "we're not thirsty, but we noticed."
     사미라: 물이 가득 담긴 채로요. 전 그게 "목마르진 않지만 알아는 봤다"는 뜻이라고 정했어요.
@@ -100,8 +100,8 @@
 028. ANA: Good. Then I won't disappoint you. Do you know what my grandfather did for a living, Mr. Grant?
     아나: 좋아요. 그럼 실망시키지 않을게요. 우리 할아버지가 무슨 일을 하셨는지 아세요, 그랜트 씨?
 
-029. ELIAS: No. I'd like to.
-    일라이어스: 모릅니다. 알고 싶습니다.
+029. ELIAS: No, I don't. But I'd very much like to hear about him.
+    일라이어스: 모릅니다. 하지만 그분 이야기를 꼭 듣고 싶습니다.
 
 030. ANA: Joaquim Campos. A labor lawyer in Salvador. He defended dockworkers who couldn't pay him, which meant he was paid in fish and in gratitude, and my grandmother complained about both.
     아나: 조아킹 캄푸스. 사우바도르의 노동 변호사였어요. 수임료를 낼 수 없는 부두 노동자들을 변호했죠. 그러니까 생선이랑 고마움으로 받았다는 뜻이고, 할머니는 둘 다 불평하셨어요.
@@ -130,8 +130,8 @@
 038. ANA: Let them wait. Mr. Grant has waited thirteen days. Where was I?
     아나: 기다리라고 하세요. 그랜트 씨는 13일을 기다렸어요. 어디까지 했죠?
 
-039. ELIAS: Eleven months. No charge.
-    일라이어스: 11개월. 기소 없이.
+039. ELIAS: Eleven months, no charge, and a lawyer without a lawyer.
+    일라이어스: 11개월, 기소 없이. 변호사에게 변호사도 없이요.
 
 040. ANA: Now, while the tanks were moving, what was your country doing? I'll tell you, since your government took twelve years to let anyone find out.
     아나: 자, 탱크가 움직이는 동안 당신 나라는 뭘 하고 있었을까요? 말해 드리죠. 당신네 정부가 누가 알아내기까지 12년이나 걸리게 만들었으니까.
@@ -145,8 +145,8 @@
 043. ELIAS: The task force was ordered to sail on March thirty-first.
     일라이어스: 그 기동부대엔 3월 31일에 출항 명령이 떨어졌죠.
 
-044. ANA: You know your history.
-    아나: 역사를 아시네요.
+044. ANA: You know your history. Most Americans who sit in that chair don't.
+    아나: 역사를 아시네요. 그 의자에 앉는 미국인 대부분은 모르는데.
 
 045. ELIAS: My father teaches it. Taught it. Please, go on.
     일라이어스: 아버지가 가르치세요. 가르치셨죠. 계속하시죠.
@@ -163,8 +163,8 @@
 049. ANA: With American insurance. That's what Brother Sam was. Washington didn't make the coup. It made sure the coup couldn't fail. And for me, Mr. Grant, that is almost worse.
     아나: 미국의 보험을 들고서죠. '형제 샘'이 바로 그거였어요. 워싱턴이 쿠데타를 만든 게 아니에요. 쿠데타가 실패할 수 없게 만든 거죠. 그리고 나한텐, 그랜트 씨, 그게 거의 더 나빠요.
 
-050. ELIAS: Why worse?
-    일라이어스: 왜 더 나쁩니까?
+050. ELIAS: Why worse? I'd have thought the puppet master was the bigger crime.
+    일라이어스: 왜 더 나쁩니까? 꼭두각시 조종이 더 큰 죄라고 생각했는데요.
 
 051. ANA: Because a puppet master can be blamed and forgotten. An insurer chose. Someone in Washington read the file, weighed my grandfather against a pipeline of oil tankers, and decided he was an acceptable loss.
     아나: 꼭두각시 조종자는 비난받고 잊히면 그만이에요. 보험을 든 사람은 선택을 한 거예요. 워싱턴의 누군가가 파일을 읽고, 우리 할아버지를 유조선 행렬과 저울질하고, 감수할 만한 손실이라고 결정한 거죠.
@@ -181,14 +181,14 @@
 055. ANA: It was recalled once the generals had won. And President Johnson sent his warmest wishes to the new government before Goulart had even left the country.
     아나: 장군들이 이기자 회항했죠. 그리고 존슨 대통령은 굴라르가 나라를 떠나기도 전에 새 정부에 따뜻한 축하 인사를 보냈고요.
 
-056. ELIAS: Within hours, yes.
-    일라이어스: 몇 시간 만에요, 네.
+056. ELIAS: Within hours, yes. It's in the record, and it isn't flattering.
+    일라이어스: 몇 시간 만에요, 네. 기록에 남아 있고, 좋게 보일 내용은 아니죠.
 
 057. ANA: My grandmother heard about that telegram on the radio. She told me she turned it off, and then she turned it back on, because she thought she had misunderstood the English.
     아나: 할머니는 그 전보 소식을 라디오로 들었대요. 껐다가 다시 켰대요. 영어를 잘못 알아들은 줄 알고요.
 
-058. ELIAS: She hadn't.
-    일라이어스: 잘못 들으신 게 아니었죠.
+058. ELIAS: She hadn't misunderstood anything. The English was perfectly clear.
+    일라이어스: 잘못 들으신 게 아니었죠. 영어는 너무나 분명했으니까요.
 
 059. ANA: No. Nine days after the coup, the generals issued their first Institutional Act. Thousands of people lost their political rights by decree. My grandfather's name was on a list he never saw.
     아나: 아니죠. 쿠데타 9일 뒤에 장군들이 첫 번째 '제도법'을 발표했어요. 수천 명이 포고령 하나로 정치적 권리를 잃었죠. 할아버지 이름은 본인이 한 번도 본 적 없는 명단에 올라 있었어요.
@@ -238,8 +238,8 @@
 074. ANA: Cancel the ten-forty, Renato. And close the door on your way out.
     아나: 10시 40분 일정 취소해요, 헤나투. 나가면서 문 닫고요.
 
-075. ELIAS: Thank you.
-    일라이어스: 감사합니다.
+075. ELIAS: Thank you. I know what a cancelled meeting costs in an election year.
+    일라이어스: 감사합니다. 선거가 있는 해에 일정 하나 취소하는 게 어떤 건지 압니다.
 
 076. ANA: Don't thank me yet. Now the part nobody in my government knows. Not the president, not Renato. My grandfather came home with a piece of paper.
     아나: 아직 고마워하지 마세요. 이제 우리 정부 누구도 모르는 부분이에요. 대통령도, 헤나투도요. 할아버지는 종이 한 장을 들고 집에 오셨어요.
@@ -304,8 +304,8 @@
 096. ANA: No. I wanted to see if you'd panic. An American who panics starts offering things, and then I know exactly how much he's authorized to give.
     아나: 아니요. 당신이 당황하는지 보고 싶었어요. 당황한 미국인은 이것저것 내놓기 시작하거든요. 그럼 그 사람이 얼마나 줄 수 있는 권한이 있는지 정확히 알게 되죠.
 
-097. ELIAS: And?
-    일라이어스: 그래서요?
+097. ELIAS: And what did you learn about how much I'm authorized to give?
+    일라이어스: 그래서 제 권한이 얼마나 되는지 뭘 알아내셨습니까?
 
 098. ANA: You didn't offer anything. Either you have nothing, or you're cleverer than the last three.
     아나: 아무것도 안 내놓았죠. 줄 게 하나도 없거나, 앞의 세 명보다 영리하거나.
@@ -334,8 +334,8 @@
 106. ANA: Fear is not a policy, Mr. Grant. Let me be clear about one thing before you go. Brazil is not your backyard. It's our house. You don't get to rearrange the furniture because you're worried about the neighbors.
     아나: 두려움은 정책이 아니에요, 그랜트 씨. 가기 전에 한 가지는 분명히 하죠. 브라질은 당신네 뒷마당이 아니에요. 우리 집이죠. 이웃이 걱정된다고 남의 집 가구를 옮길 순 없어요.
 
-107. ELIAS: Understood.
-    일라이어스: 알겠습니다.
+107. ELIAS: Understood. Nobody in my delegation will touch the furniture, I promise you.
+    일라이어스: 알겠습니다. 저희 쪽 누구도 가구엔 손대지 않겠다고 약속드립니다.
 
 108. ANA: And if you want to be invited back in, you will need to bring something more than a polite face and a father with good advice.
     아나: 그리고 다시 초대받고 싶으면, 점잖은 얼굴이랑 좋은 조언을 해 주는 아버지보다는 더 나은 걸 가져와야 할 거예요.
@@ -448,8 +448,8 @@
 144. ELIAS: How many pages did they mark?
     일라이어스: 몇 장에 표시했습니까?
 
-145. ANA: Nice try. Finding out is your job.
-    아나: 좋은 시도였어요. 알아내는 건 당신 몫이고요.
+145. ANA: Nice try, Mr. Grant. Finding out is your job, not mine.
+    아나: 좋은 시도였어요, 그랜트 씨. 알아내는 건 내가 아니라 당신 몫이에요.
 
 146. ELIAS: Fair enough. Thank you for this morning. For the soup, and the eleven months, and the paper.
     일라이어스: 그럴 만하네요. 오늘 아침 고마웠습니다. 수프와 11개월, 그리고 그 종이 이야기까지.
