@@ -25,14 +25,14 @@
 003. SAMIRA: Close the balcony door. Please.
     사미라: 발코니 문 닫아 주세요. 제발요.
 
-004. ELIAS: Okay. It's closed. Sit down. What happened?
-    일라이어스: 알았어요. 닫았어요. 앉아요. 무슨 일이에요?
+004. ELIAS: Okay, it's closed. Sit down and breathe. Now tell me what happened.
+    일라이어스: 알았어요, 닫았어요. 앉아서 숨 좀 쉬어요. 이제 무슨 일인지 말해 봐요.
 
 005. SAMIRA: I was at the pool at six-thirty. Tom was doing laps. His phone was on the table next to my towel, face up, and it lit up with a delivery receipt.
     사미라: 6시 반에 수영장에 있었어요. 톰은 레인 돌고 있었고요. 톰 휴대폰이 제 수건 옆 테이블에 화면이 위로 놓여 있었는데, 발송 확인 알림이 떴어요.
 
-006. ELIAS: A delivery receipt for what?
-    일라이어스: 뭐가 발송됐는데요?
+006. ELIAS: A delivery receipt for what? A message, a file, a pizza?
+    일라이어스: 뭐가 발송됐는데요? 메시지, 파일, 피자?
 
 007. SAMIRA: A report. The preview showed the whole header. I read it twice before the screen went dark.
     사미라: 보고서요. 미리보기에 표제가 전부 보였어요. 화면이 꺼지기 전에 두 번 읽었어요.
@@ -55,8 +55,8 @@
 013. SAMIRA: January sixteenth was the day Tom walked into that church basement in Helsinki and introduced himself as your field liaison. I did the math by the pool.
     사미라: 1월 16일은 톰이 헬싱키 교회 지하에 걸어 들어와서 자기가 현장 연락관이라고 소개한 날이에요. 수영장에서 계산해 봤어요.
 
-014. ELIAS: What else was in the preview?
-    일라이어스: 미리보기에 또 뭐가 있었어요?
+014. ELIAS: What else was in the preview? Every word, if you can.
+    일라이어스: 미리보기에 또 뭐가 있었어요? 할 수 있으면 한 단어도 빼지 말고요.
 
 015. SAMIRA: The first two lines. "Subject continues to withhold the Valente document from the station. Subject's assistant keeps a handwritten list; contents unknown."
     사미라: 첫 두 줄이요. "대상은 발렌치 문서를 계속 지부에 넘기지 않음. 대상의 보좌관이 손으로 쓴 목록을 보관 중, 내용 미상."
@@ -79,8 +79,8 @@
 021. SAMIRA: He must have shot them out of your bag that night in Minas. You left it in the guesthouse when you went back to the terrace.
     사미라: 미나스에서 그날 밤 당신 가방에서 꺼내 찍었겠죠. 테라스에 다시 갈 때 가방을 게스트하우스에 두고 갔잖아요.
 
-022. ELIAS: And Tom went to "walk the perimeter."
-    일라이어스: 그리고 톰은 '주변을 돌아보러' 갔고요.
+022. ELIAS: And that same night Tom went off to "walk the perimeter."
+    일라이어스: 그리고 바로 그날 밤 톰은 '주변을 돌아보러' 나갔고요.
 
 023. SAMIRA: Permission to be blunt?
     사미라: 솔직하게 말해도 될까요?
@@ -127,14 +127,14 @@
 037. FRANK: Frank Church, senator from Idaho. After Watergate, the Senate finally asked what the intelligence agencies had been doing at home. What they found would curl your hair.
     프랭크: 아이다호 출신 프랭크 처치 상원의원. 워터게이트 이후에 상원이 드디어 정보기관들이 나라 안에서 뭘 해 왔는지 물어본 거야. 찾아낸 게 머리털이 곤두설 일들이었지.
 
-038. ELIAS: Remind me. I want the details right.
-    일라이어스: 다시 알려 주세요. 정확하게 알고 싶어요.
+038. ELIAS: Remind me anyway. I want the details right before I use them.
+    일라이어스: 그래도 다시 알려 주세요. 써먹기 전에 정확히 알고 싶어요.
 
 039. FRANK: The CIA had been opening Americans' mail in New York for about twenty years. The NSA had copies of millions of private telegrams, handed over by the cable companies. And the FBI went after Martin Luther King.
     프랭크: CIA가 뉴욕에서 20년 가까이 미국인들 편지를 뜯어봤어. NSA는 전신 회사들이 넘겨준 개인 전보 수백만 통 사본을 갖고 있었고. 그리고 FBI는 마틴 루서 킹을 표적으로 삼았지.
 
-040. ELIAS: And the assassination plots abroad.
-    일라이어스: 해외 암살 계획도 있었고요.
+040. ELIAS: And the assassination plots abroad. That was the same committee, wasn't it?
+    일라이어스: 해외 암살 계획도 있었죠. 그것도 같은 위원회였죠?
 
 041. FRANK: Castro, Lumumba, others. Church called the CIA a "rogue elephant." Later the committee concluded the elephant mostly went where presidents pointed it. That's almost worse, if you think about it.
     프랭크: 카스트로, 루뭄바, 그 밖에도. 처치는 CIA를 '날뛰는 코끼리'라고 불렀어. 나중에 위원회는 그 코끼리가 대체로 대통령들이 가리키는 데로 갔다고 결론 내렸고. 생각해 보면 그게 더 나쁜 거지.
@@ -163,8 +163,8 @@
 049. FRANK: Then don't decide anything while you're angry and hungry. Those are the two worst advisers a man ever had. Go eat.
     프랭크: 그럼 화나고 배고플 때는 아무것도 결정하지 마라. 사람한테 그 둘만큼 나쁜 조언자가 없어. 가서 먹어.
 
-050. ELIAS: Thanks, Dad. I'll call Sunday.
-    일라이어스: 고마워요, 아빠. 일요일에 전화할게요.
+050. ELIAS: Thanks, Dad. I'll call you Sunday, I promise.
+    일라이어스: 고마워요, 아빠. 일요일에 전화할게요, 약속해요.
 
 051. FRANK: You say that every week. Rosie says you owe her three postcards, by the way.
     프랭크: 넌 맨날 그 소리다. 그리고 로지가 그러는데 너 엽서 세 장 빚졌다더라.
@@ -196,11 +196,11 @@
 060. TOM: I don't know what you think you saw, but that's a routine contact report. Everybody attached to a station files them. My station chief likes paperwork.
     톰: 뭘 봤다고 생각하는지 모르겠는데, 그건 일상적인 접촉 보고야. 지부에 붙은 사람은 다 써. 우리 지국장이 서류를 좋아하거든.
 
-061. SAMIRA: Your station chief isn't in Special Investigations.
-    사미라: 지국장은 특별조사과 소속이 아니잖아요.
+061. SAMIRA: Your station chief isn't in Special Investigations, Tom. I checked the routing line.
+    사미라: 당신 지국장은 특별조사과 소속이 아니잖아요, 톰. 수신 경로 줄 확인했어요.
 
-062. TOM: Langley routes things in strange ways.
-    톰: 랭글리는 서류를 이상하게 돌려.
+062. TOM: Langley routes things in strange ways. You'd be amazed what ends up where.
+    톰: 랭글리는 서류를 이상하게 돌려. 뭐가 어디로 가는지 알면 놀랄걸.
 
 063. ELIAS: Tom, Samira photographed your screen. I've read the whole first page.
     일라이어스: 톰, 사미라가 당신 화면을 찍었어요. 첫 페이지 전부 읽었어요.
@@ -232,8 +232,8 @@
 072. TOM: You did. And I made a joke, and you didn't laugh. You never laugh at my jokes. That should've been my first clue about you.
     톰: 그랬지. 내가 농담했는데 넌 안 웃었고. 넌 내 농담에 한 번도 안 웃어. 너에 대해선 그게 첫 단서였어야 했는데.
 
-073. ELIAS: Why me? Who asked for it?
-    일라이어스: 왜 나예요? 누가 요청했어요?
+073. ELIAS: Why me? And who asked for it? Somebody always asks.
+    일라이어스: 왜 나예요? 그리고 누가 요청했어요? 요청한 사람은 늘 있잖아요.
 
 074. TOM: The tasking came with a referral attached. The box that says which agency requested it was blacked out. Clean black bar, like somebody used a ruler.
     톰: 지시서에 요청서가 붙어 있었어. 어느 기관이 요청했는지 적는 칸이 검게 지워져 있었고. 자로 그은 것처럼 깔끔한 검은 줄.
@@ -262,8 +262,8 @@
 082. TOM: You did. And I sent them anyway, because my job was to see what you'd hide. You hid those. That made them the most interesting thing you owned.
     톰: 그랬지. 그래도 보냈어. 내 일은 당신이 뭘 숨기는지 보는 거였으니까. 당신은 그걸 숨겼어. 그러니까 당신 물건 중에 제일 흥미로운 게 된 거지.
 
-083. SAMIRA: What did Langley say about them?
-    사미라: 랭글리는 그걸 보고 뭐래요?
+083. SAMIRA: What did Langley say about them? Real or fake?
+    사미라: 랭글리는 그걸 보고 뭐래요? 진짜래요, 가짜래요?
 
 084. TOM: That they're authentic. They match the copy Langley already had. Same print log, same two-fourteen. Different control number, though. Ours says "copy three of three."
     톰: 진짜래. 랭글리가 이미 갖고 있던 사본이랑 일치한대. 같은 출력 기록, 같은 2시 14분. 근데 관리 번호는 달라. 우리 건 "3부 중 3부"라고 돼 있어.
@@ -298,8 +298,8 @@
 094. TOM: You want generous? Every week I wrote "no evidence of unauthorized disclosure." Every single week. They kept me on anyway.
     톰: 너그러운 거 보고 싶어? 매주 "무단 유출 증거 없음"이라고 썼어. 한 주도 빠짐없이. 그래도 날 계속 붙여 뒀어.
 
-095. ELIAS: Why do you think that is?
-    일라이어스: 왜 그랬을 것 같아요?
+095. ELIAS: Why do you think they kept you on, then?
+    일라이어스: 그럼 왜 계속 붙여 뒀을 것 같아요?
 
 096. TOM: Because the point was never finding out whether you're ECHO. The point was having a file that says somebody checked. Plausible deniability, with my name on it.
     톰: 애초에 목적이 당신이 ECHO인지 알아내는 게 아니었으니까. 누군가 확인했다는 파일을 갖는 게 목적이었지. 내 이름이 박힌 그럴듯한 부인 가능성.
@@ -331,14 +331,14 @@
 105. ELIAS: With respect, Tom, that's not what happened. They found twenty years of opened mail, millions of copied telegrams, plots to kill foreign leaders, and an FBI campaign against Martin Luther King.
     일라이어스: 외람된 말이지만 톰, 그건 사실이 아니에요. 20년 치 뜯어본 편지, 수백만 통의 복사된 전보, 외국 지도자 암살 계획, 그리고 마틴 루서 킹을 겨냥한 FBI 공작을 찾아냈어요.
 
-106. TOM: And then what? Nobody went to prison.
-    톰: 그래서 뭐? 감옥 간 사람 아무도 없잖아.
+106. TOM: And then what? Nobody went to prison. Nothing really changed.
+    톰: 그래서 뭐? 감옥 간 사람 아무도 없잖아. 바뀐 것도 없고.
 
 107. ELIAS: Then Congress built permanent intelligence committees and passed FISA. It didn't stop the watching. It made somebody watch the watchers. That's the opposite of theater.
     일라이어스: 그다음에 의회가 상설 정보위원회를 만들고 해외정보감시법을 통과시켰어요. 감시를 멈춘 게 아니라 감시자를 지켜볼 사람을 둔 거죠. 그건 쇼의 정반대예요.
 
-108. TOM: You've been talking to your dad.
-    톰: 아버지랑 통화했구나.
+108. TOM: You've been talking to your dad. I can always tell.
+    톰: 아버지랑 통화했구나. 난 늘 티가 나더라.
 
 109. ELIAS: This morning. He told me not to decide anything while I'm angry and hungry. I'm both, so I'm not deciding yet.
     일라이어스: 오늘 아침에요. 화나고 배고플 땐 아무것도 결정하지 말래요. 지금 둘 다라서 아직 결정 안 할 거예요.
@@ -412,8 +412,8 @@
 132. SAMIRA: One more thing before tonight. Callaway's office confirmed the freeze on Dorsey's package runs to July. Nobody at Langley needs to know that.
     사미라: 오늘 밤 전에 하나만 더요. 캘러웨이 장관실에서 도시 제재안 동결이 7월까지라고 확인해 줬어요. 랭글리가 알 필요는 없는 얘기죠.
 
-133. ELIAS: Then Tom doesn't know it.
-    일라이어스: 그럼 톰도 모르는 거예요.
+133. ELIAS: Then Tom doesn't know it. Not from us, anyway.
+    일라이어스: 그럼 톰도 모르는 거예요. 적어도 우리한테서는요.
 
 134. SAMIRA: And you? Are you going to talk to him again?
     사미라: 당신은요? 톰이랑 다시 얘기할 거예요?
@@ -424,11 +424,11 @@
 136. TOM: "Take Five." You only play that when you're thinking. Or when you're nervous. I wrote that in week six.
     톰: '테이크 파이브'네. 당신은 생각할 때만 그거 치잖아. 아니면 긴장할 때. 6주 차 보고서에 썼어.
 
-137. ELIAS: Sit down, Tom. You're not packing.
-    일라이어스: 앉아요, 톰. 짐 안 싸도 돼요.
+137. ELIAS: Sit down, Tom. And you can stop packing. You're not leaving.
+    일라이어스: 앉아요, 톰. 그리고 짐 그만 싸요. 안 떠나요.
 
-138. TOM: I'm not?
-    톰: 안 싸도 돼?
+138. TOM: I'm not? Langley might have an opinion about that.
+    톰: 안 떠나? 랭글리 생각은 다를 텐데.
 
 139. ELIAS: You're staying. You'll keep sweeping the rooms, driving the cars, and filing your reports. Weekly, to the black bar. I'm not going to ask what's in them.
     일라이어스: 남아요. 계속 방 점검하고, 차 몰고, 보고서 써요. 매주, 그 검은 줄한테. 뭐가 들었는지 묻지 않을게요.
@@ -439,8 +439,8 @@
 141. ELIAS: Because if I asked, you'd tell me. And then you'd have to report that I asked.
     일라이어스: 물어보면 당신은 말해 줄 거고, 그럼 내가 물어봤다는 걸 또 보고해야 하니까요.
 
-142. TOM: That's not an answer, man.
-    톰: 그건 대답이 아니잖아.
+142. TOM: That's not an answer, man. That's a riddle.
+    톰: 그건 대답이 아니잖아. 수수께끼지.
 
 143. ELIAS: It's the only one you're getting tonight.
     일라이어스: 오늘 밤 받을 수 있는 대답은 그것뿐이에요.
@@ -451,8 +451,8 @@
 145. ELIAS: We're colleagues. You'll get what colleagues get.
     일라이어스: 동료예요. 동료가 받는 만큼 받을 거예요.
 
-146. TOM: Which is what, exactly?
-    톰: 그게 정확히 뭔데?
+146. TOM: Which is what, exactly? Spell it out for me.
+    톰: 그게 정확히 뭔데? 똑똑히 말해 봐.
 
 147. ELIAS: Pass the salt, Tom.
     일라이어스: 소금 좀 줘요, 톰.
