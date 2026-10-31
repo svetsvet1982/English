@@ -293,8 +293,8 @@
 093. GRACE: Like who?
     그레이스: 예를 들면 누구요?
 
-094. RUBEN: The man in the bunk next to me, from Honduras. Fourteen months. He didn't even know what he was waiting for. And the men in the yard. One of them coughed all the time. A small man. From Guatemala.
-    루벤: 제 옆 침상 남자, 온두라스 사람. 14개월째래요. 뭘 기다리는지도 몰랐어요. 그리고 운동장의 남자들. 한 명은 계속 기침했어요. 작은 남자. 과테말라 사람.
+094. RUBEN: The man in the bunk next to me, from Honduras. Fourteen months. He didn't even know what he was waiting for. And the men in the yard. One small man from Guatemala who never stopped talking.
+    루벤: 제 옆 침상 남자, 온두라스 사람. 14개월째래요. 뭘 기다리는지도 몰랐어요. 그리고 운동장의 남자들. 쉬지 않고 얘기하던 작은 과테말라 남자.
 
 095. GRACE: Rubén. Do you remember his name?
     그레이스: 루벤. 그 사람 이름 기억나요?
@@ -419,8 +419,8 @@
 135. ROSA: And Efraín.
     로사: 그리고 에프라인.
 
-136. CAL: Two witnesses now. Mateo heard him through the wall. Rubén saw him cough in the yard and held his daughter's drawing. And we have a village and a phone number.
-    칼: 이제 증인이 둘이야. 마테오는 벽 너머로 들었고. 루벤은 운동장에서 기침하는 걸 봤고 딸 그림도 봤어. 그리고 마을이랑 전화번호가 있어.
+136. CAL: Two witnesses now. Mateo heard him through the wall. Rubén talked to him in the yard and saw his daughter's drawing. And we have a village and a phone number.
+    칼: 이제 증인이 둘이야. 마테오는 벽 너머로 들었고. 루벤은 운동장에서 그 사람이랑 얘기했고 딸 그림도 봤어. 그리고 마을이랑 전화번호가 있어.
 
 137. ROSA: Two sources.
     로사: 취재원 둘.
