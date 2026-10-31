@@ -9,7 +9,7 @@
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 1972년 워터게이트 — 캘러웨이가 "닉슨은 침입도 몰랐는데 쫓겨났다"며 역사를 경고로 쓰자, 일라이어스가 "닉슨을 끝낸 건 침입이 아니라 엿새 뒤 6월 23일 테이프(CIA를 시켜 FBI를 압박)"라고 바로잡고, 하워드 베이커의 질문 "무엇을 알았고, 언제 알았나"를 꺼낸다
 > - 전술 태그: [거짓말(미끼)] [설득] [유출] [배신의 복선]
-> - 이번 화의 핵심 표현: canary trap / chain of custody / beacon / position report / Delhi has taken note. / Mistakes were made. You made them. / What did the President know, and when did he know it? / with all due respect, not yet
+> - 이번 화의 핵심 표현: canary trap / chain of custody / beacon / position report / Delhi has taken note. / Mistakes were made. You made them. / What did the President know, and when did he know it? / with all due respect, not this morning
 > - 복선/연결: 7화 엔딩 "일정표를 쓰자" → 가짜 일정 4종 · 'B 살롱'은 장관실 버전에만 존재 · 두바이 미디어 대행사(7화 캄란의 계약금) = 인도 방송국에 클립을 보낸 '걸프 특파원' → 11화 카버 유령회사 · 캘러웨이가 9분 만에 보이트 해임, "앞으로 일정은 나한테 직접" → 4부 · 사미라의 새 페이지 '누가 서둘렀나?' · 9화 키트리지 센터 패널 · 금요일(1/25) 아르준의 위치 보고 동결 기한
 
 ---
@@ -319,11 +319,11 @@
 101. CALLAWAY: Mistakes were made, Peter. You made them. Leave your badge on the desk. Your access ends at noon.
     캘러웨이: 실수가 있었지, 피터. 자네가 한 거고. 출입증은 책상에 두고 가. 접근 권한은 정오에 끝나.
 
-102. ELIAS: Sir, with all due respect, not yet.
-    일라이어스: 장관님, 외람되지만 아직은 안 됩니다.
+102. ELIAS: Sir, with all due respect, not this morning.
+    일라이어스: 장관님, 외람되지만 오늘 오전엔 안 됩니다.
 
-103. CALLAWAY: Not yet?
-    캘러웨이: 아직은?
+103. CALLAWAY: Not this morning?
+    캘러웨이: 오전엔 안 된다?
 
 104. ELIAS: As an employee, he has to sit down with Agent Ruiz and answer her questions. The minute he's a private citizen, he can call a lawyer and say nothing at all.
     일라이어스: 직원 신분이면 루이즈 요원과 앉아서 질문에 답해야 합니다. 민간인이 되는 순간 변호사를 부르고 아무 말도 안 해도 돼요.
@@ -480,7 +480,7 @@
 - **beacon** — 문서가 열릴 때 신호를 보내는 추적 장치 (068)
 - **You're building a pattern. I'm building a case.** — 정황과 증거의 차이 (074)
 - **chain of custody** — (증거·정보의) 전달 경로 기록 (106)
-- **with all due respect, not yet** — 윗사람의 결정을 정중히 멈춰 세우는 표현 (102)
+- **with all due respect, not this morning** — 윗사람의 결정을 정중히 멈춰 세우는 표현 (102)
 - **Mistakes were made. You made them.** — 수동태 사과를 비틀어 책임을 개인에게 돌리는 말 (101)
 - **smoking gun** — 결정적 증거 (121)
 - **What did the President know, and when did he know it?** — '누가 지시했나'보다 '누가 알았나'를 묻는 질문 (122)

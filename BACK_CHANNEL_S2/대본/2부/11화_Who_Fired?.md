@@ -160,8 +160,8 @@
 048. DUNMORE: Not a problem, sir. A framing issue. If the report goes out as written, the headline is "Iran Cleared." That's a gift to Tehran we don't need to give.
     던모어: 문제라기보단 프레이밍 이슈입니다, 장관님. 보고서가 쓰인 그대로 나가면 헤드라인은 '이란 무혐의'가 됩니다. 테헤란에 굳이 줄 필요 없는 선물이죠.
 
-049. ELIAS: It's not a gift. It's the evidence. Three hundred and twelve fragments, and not one of them is Iranian.
-    일라이어스: 선물이 아니라 증거입니다. 파편 312개 중에 이란 건 하나도 없어요.
+049. ELIAS: It's not a gift. It's the evidence. Three hundred and twelve fragments, none of them Iranian, matched to Oman's own radar. Ours never left your building, Craig.
+    일라이어스: 선물이 아니라 증거입니다. 파편 312개 중에 이란 건 하나도 없고, 오만 자체 레이더와 맞아떨어졌어요. 우리 레이더는 끝내 그쪽 건물 밖으로 안 나갔죠, 크레이그.
 
 050. DUNMORE: Which doesn't prove Iran didn't buy a drone. The IRGC uses proxies. They'd love a deniable platform.
     던모어: 그렇다고 이란이 드론을 안 샀다는 증명은 안 되죠. 혁명수비대는 대리 세력을 써요. 발뺌할 수 있는 무기라면 아주 좋아하고요.

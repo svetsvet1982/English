@@ -35,7 +35,7 @@
     일라이어스: 그럼 아르준 메타 얘기 해 줘. 서류 말고. 사람 얘기.
 
 007. SAMIRA: Forty-nine. Eighteen years in the foreign service, Tehran twice, Riyadh once. He talks fast so you won't notice how slowly he decides.
-    사미라: 마흔아홉이에요. 외교부 18년, 테헤란 두 번, 리야드 한 번. 말을 빨리 해요. 결정을 얼마나 천천히 하는지 눈치 못 채게요.
+    사미라: 마흔아홉이에요. 외무부 18년, 테헤란 두 번, 리야드 한 번. 말을 빨리 해요. 결정을 얼마나 천천히 하는지 눈치 못 채게요.
 
 008. ELIAS: And how did he get your personal number?
     일라이어스: 네 개인 번호는 어떻게 알았대?

@@ -190,11 +190,11 @@
 058. KHALID: Good. Then let me tell you something you do not know, and you will tell me nothing in return, because that is how friendship works in Muscat.
     칼리드: 좋네요. 그럼 당신이 모르는 걸 하나 알려 드리죠. 당신은 아무것도 갚지 않아도 돼요. 무스카트에선 우정이 그렇게 돌아가니까.
 
-059. ELIAS: I'm listening.
-    일라이어스: 듣고 있습니다.
+059. ELIAS: I'm listening. I still owe you December's half, by the way. The Pentagon never released it.
+    일라이어스: 듣고 있습니다. 그런데 12월에 드리기로 한 반쪽은 아직 못 드렸어요. 국방부가 끝내 안 내줬습니다.
 
-060. KHALID: On the afternoon of the third of December, our coastal radar on Musandam saw a slow contact near the Quoin Islands. No transponder. It stopped for forty minutes, then moved back toward the west.
-    칼리드: 12월 3일 오후, 무산담에 있는 우리 해안 레이더가 코인 제도 근처에서 느린 물체 하나를 잡았어요. 위치 송신기는 꺼져 있었고요. 40분 동안 멈춰 있다가 다시 서쪽으로 돌아갔죠.
+060. KHALID: Keep it. Tehran's half stays sealed in my safe. Oman stopped waiting. On the afternoon of the third of December, our Musandam radar saw a slow contact near the Quoin Islands. No transponder. It stopped forty minutes, then moved back west.
+    칼리드: 그건 가지고 계세요. 테헤란 쪽 반쪽도 제 금고에 봉인된 채 그대로 있어요. 오만은 기다리기를 그만뒀죠. 12월 3일 오후, 무산담에 있는 우리 해안 레이더가 코인 제도 근처에서 느린 물체 하나를 잡았어요. 위치 송신기는 꺼져 있었고요. 40분 동안 멈춰 있다가 다시 서쪽으로 돌아갔죠.
 
 061. ELIAS: Forty minutes. Before the strike?
     일라이어스: 40분이라. 피격 전이었어요?
@@ -442,8 +442,8 @@
 142. ELIAS: Peanuts. And something the menu called chicken.
     일라이어스: 땅콩이요. 그리고 메뉴판에 닭고기라고 적힌 뭔가.
 
-143. FRANK: That's not eating, that's evidence. Listen, my Tuesday class did Kissinger's shuttle this week. Thirty-one people. One lady asked if it was true he lied to everybody.
-    프랭크: 그건 먹은 게 아니라 증거물이다. 들어 봐라, 이번 주 화요일 강좌에서 키신저 셔틀 외교를 했다. 서른한 명 왔어. 어떤 부인이 그 사람이 모두한테 거짓말한 게 사실이냐고 묻더구나.
+143. FRANK: That's not eating, that's evidence. Listen, my Thursday class did Kissinger's shuttle this week. Thirty-one people. One lady asked if it was true he lied to everybody.
+    프랭크: 그건 먹은 게 아니라 증거물이다. 들어 봐라, 이번 주 목요일 강좌에서 키신저 셔틀 외교를 했다. 서른한 명 왔어. 어떤 부인이 그 사람이 모두한테 거짓말한 게 사실이냐고 묻더구나.
 
 144. ELIAS: What did you tell her?
     일라이어스: 뭐라고 하셨어요?
