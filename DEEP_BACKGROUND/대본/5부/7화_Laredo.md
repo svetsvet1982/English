@@ -209,8 +209,8 @@
 065. DEZ: I'm sorry. You don't have to answer.
     데즈: 죄송해요. 대답 안 하셔도 돼요.
 
-066. OZZIE: My son. Ray Junior. He was a welder. He hurt his shoulder in 2021. Pills from a doctor, then pills from a friend. He died in 2022. On my granddaughter's eleventh birthday. She found him.
-    오지: 우리 아들. 레이 주니어. 용접공이었어. 2021년에 어깨를 다쳤지. 의사한테 받은 약, 그다음엔 친구한테 받은 약. 2022년에 죽었어. 손녀 열한 번째 생일에. 그 애가 발견했어.
+066. OZZIE: My son. Ray Junior. He was a welder. He hurt his shoulder in 2021. Pills from a doctor, then pills from a friend. He died in 2022. On my granddaughter's sixteenth birthday. She found him.
+    오지: 우리 아들. 레이 주니어. 용접공이었어. 2021년에 어깨를 다쳤지. 의사한테 받은 약, 그다음엔 친구한테 받은 약. 2022년에 죽었어. 손녀 열여섯 번째 생일에. 그 애가 발견했어.
 
 067. DEZ: I'm so sorry.
     데즈: 정말 죄송해요.
