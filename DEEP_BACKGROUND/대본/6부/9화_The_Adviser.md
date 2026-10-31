@@ -194,8 +194,8 @@
 060. WAKEFIELD: Please. I have nothing to hide. And call me Trent. Grace, nice to meet you. Where are you from?
     웨이크필드: 그러세요. 숨길 거 없어요. 그리고 트렌트라고 불러요. 그레이스, 반가워요. 어디 출신이에요?
 
-061. GRACE: Fairfax. And Seoul, a little.
-    그레이스: 페어팩스요. 그리고 서울도 조금.
+061. GRACE: Los Angeles. Koreatown. And Seoul, a little.
+    그레이스: 로스앤젤레스요. 코리아타운. 그리고 서울도 조금.
 
 062. WAKEFIELD: Seoul! I ran the Seoul marathon in 2024. Three hours and nine minutes. The hills near the end almost killed me.
     웨이크필드: 서울! 2024년에 서울 마라톤 뛰었어요. 3시간 9분. 끝쪽 언덕에서 죽는 줄 알았어요.
