@@ -202,8 +202,8 @@
 062. ELIAS: That sounds dramatic to me.
     일라이어스: 저한텐 꽤 극적으로 들리는데요.
 
-063. ARJUN: It sounds like nineteen ninety-eight. My father was in the ministry that summer. He said the Americans punished us for a week and then spent ten years asking us to dinner.
-    아르준: 1998년처럼 들리죠. 그해 여름 우리 아버지가 외무부에 계셨어요. 미국이 일주일 우릴 벌주고 나서 10년 동안 저녁 먹자고 졸랐다고 하셨죠.
+063. ARJUN: It sounds like nineteen ninety-eight. My father was still in the navy that summer. He said the Americans punished us for a week and then spent ten years asking us to dinner.
+    아르준: 1998년처럼 들리죠. 그해 여름 우리 아버지는 아직 해군에 계셨어요. 미국이 일주일 우릴 벌주고 나서 10년 동안 저녁 먹자고 졸랐다고 하셨죠.
 
 064. ELIAS: Then help me make this a week, not ten years.
     일라이어스: 그럼 이번 건이 10년 말고 일주일로 끝나게 도와주세요.
