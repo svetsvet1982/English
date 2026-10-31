@@ -16,29 +16,29 @@
 
 ## 대본
 
-001. TOM: Five-forty in the morning, boss, and they've already got Humvees across three lanes. That's the Texas Guard, not Border Patrol.
-    톰: 새벽 다섯 시 40분이야, 대장. 근데 벌써 험비로 세 차선을 막았어. 저건 국경수비대가 아니라 텍사스 주방위군이야.
+001. TOM: Five-forty, and the Texas Guard has Humvees across three lanes.
+    톰: 다섯 시 40분인데, 텍사스 주방위군이 벌써 험비로 세 차선을 막았어.
 
 002. ELIAS: How many bridges?
     일라이어스: 다리 몇 곳이야?
 
-003. TOM: All five in El Paso. Paso del Norte, Stanton, here, Ysleta, and Tornillo. The line of trucks goes back to the freeway.
-    톰: 엘패소 다섯 곳 전부. 파소 델 노르테, 스탠턴, 여기, 이슬레타, 토르니요. 트럭 줄이 고속도로까지 늘어섰어.
+003. TOM: All five bridges in El Paso. Trucks are backed up to the freeway.
+    톰: 엘패소 다리 다섯 곳 전부. 트럭 줄이 고속도로까지 늘어섰어.
 
 004. ELIAS: And the workers on foot?
     일라이어스: 걸어서 건너는 노동자들은?
 
-005. TOM: They're getting through, slowly. Every ID gets looked at twice, once by Customs and once by a nineteen-year-old with a rifle.
-    톰: 천천히 지나오고 있어. 신분증마다 두 번씩 봐. 한 번은 세관이, 한 번은 소총 든 열아홉 살짜리가.
+005. TOM: Slowly. Every ID gets checked twice, once by a nineteen-year-old with a rifle.
+    톰: 천천히. 신분증마다 두 번씩 봐. 한 번은 소총 든 열아홉 살짜리가.
 
 006. ELIAS: Who's in command?
     일라이어스: 지휘관이 누구야?
 
-007. TOM: Her. Brigadier General Alvarado. Grew up on Alameda, three streets from my mother. She used to babysit me.
-    톰: 저 여자. 알바라도 준장. 알라메다 거리에서 자랐어. 우리 엄마 집에서 세 블록. 나 애 봐 주던 사람이야.
+007. TOM: Brigadier General Alvarado. Grew up three streets from my mother.
+    톰: 알바라도 준장. 우리 엄마 집에서 세 블록 떨어진 데서 자랐어. 나 애 봐 주던 사람이야.
 
-008. ALVARADO: Tomás Reyes. You still owe me four dollars from 1999. Deputy Secretary. I was told you might come.
-    알바라도: 토마스 레예스. 너 1999년 4달러 아직 안 갚았다. 부장관님. 오실지도 모른다고 들었습니다.
+008. ALVARADO: Tomás Reyes. You still owe me four dollars from 1999.
+    알바라도: 토마스 레예스. 너 1999년 4달러 아직 안 갚았다.
 
 009. ELIAS: General. Thank you for seeing me. Can I ask what your orders actually say?
     일라이어스: 장군님. 만나 주셔서 감사합니다. 명령서에 실제로 뭐라고 쓰여 있는지 여쭤봐도 될까요?
@@ -58,11 +58,11 @@
 014. ALVARADO: I'm a very Texas general.
     알바라도: 전 아주 텍사스다운 장군이거든요.
 
-015. TOM: Ruth, those trucks carry insulin and car parts. The plant in Juárez sends half the brake pads in Michigan. You know this.
-    톰: 루스, 저 트럭들엔 인슐린이랑 자동차 부품이 실려 있어. 후아레스 공장이 미시간 브레이크 패드 절반을 보낸다고. 알잖아.
+015. TOM: Ruth, those trucks carry insulin and brake pads for half of Michigan.
+    톰: 루스, 저 트럭들엔 인슐린이랑 미시간 절반이 쓰는 브레이크 패드가 실려 있어.
 
-016. ALVARADO: I know it better than you. My mother crossed that bridge every morning for twenty-two years to clean houses on this side.
-    알바라도: 너보다 더 잘 알아. 우리 엄마가 이쪽 집들 청소하러 22년 동안 매일 아침 저 다리를 건넜어.
+016. ALVARADO: I know. My mother crossed that bridge every morning for twenty-two years.
+    알바라도: 알아. 우리 엄마가 22년 동안 매일 아침 저 다리를 건넜어.
 
 017. ELIAS: Then let me ask you something off the record, General, and you can tell me to go to hell. What does "securing the border" mean to you?
     일라이어스: 그럼 비공식적으로 하나 여쭤보죠, 장군님. 꺼지라고 하셔도 됩니다. 장군님한테 '국경 확보'는 무슨 뜻입니까?
@@ -88,23 +88,23 @@
 024. ELIAS: The house. They found the house.
     일라이어스: 그 집. 집을 찾았구나.
 
-025. TOM: Plomero found it. Friday night. A cousin of his fixed a water pump on a ranch in the sierra, and the men there paid in dollars and had a woman's shoes by the door.
-    톰: 플로메로가 찾았어. 금요일 밤에. 그 사람 사촌이 산악지대 목장에서 양수기를 고쳤는데, 거기 남자들이 달러로 돈을 줬고 문 옆에 여자 신발이 있었대.
+025. TOM: Plomero found it. His cousin fixed a pump on a sierra ranch. The men paid in dollars, and a woman's shoes sat by the door.
+    톰: 플로메로가 찾았어. 사촌이 산악지대 목장에서 양수기를 고쳤는데, 남자들이 달러로 돈을 줬고 문 옆에 여자 신발이 있었대.
 
 026. ELIAS: A plumber found a federal agent. Does the DEA know?
     일라이어스: 배관공이 연방 요원을 찾았네. DEA도 알아?
 
-027. TOM: The Administrator knows, and Ray Dunbar knows. Nobody else. Mexican marines, Mexican judges, like she asked at my mother's sink.
-    톰: 청장은 알고, 레이 던바도 알아. 다른 사람은 몰라. 우리 엄마 설거지대에서 발레리아가 부탁한 대로, 멕시코 해병대에 멕시코 판사들이야.
+027. TOM: The Administrator and Ray Dunbar. Nobody else. Mexican marines, like she asked.
+    톰: 청장이랑 레이 던바. 다른 사람은 몰라. 발레리아가 부탁한 대로 멕시코 해병대야.
 
 028. ELIAS: First light in the sierra was about twenty minutes ago.
     일라이어스: 산악지대 첫 빛이면 한 20분 전이었겠네.
 
-029. TOM: So right now, either she's alive in a helicopter or she isn't, and we can't call anyone to find out.
-    톰: 그러니까 지금 이 순간, 페냐가 살아서 헬기에 타 있거나 아니거나 둘 중 하나고, 우린 알아보려고 아무한테도 전화 못 해.
+029. TOM: So right now she's alive in a helicopter, or she isn't.
+    톰: 그러니까 지금 이 순간, 페냐는 살아서 헬기에 있거나, 아니거나야.
 
-030. ELIAS: And in three hours I have to sit across from a governor who's using her name to keep these trucks parked.
-    일라이어스: 그리고 세 시간 뒤엔 그 여자 이름을 들먹이면서 이 트럭들을 세워 두는 주지사랑 마주 앉아야 하고.
+030. ELIAS: And in three hours I face a governor using her name.
+    일라이어스: 그리고 세 시간 뒤엔 그 여자 이름을 들먹이는 주지사랑 마주 앉아야 하고.
 
 031. TOM: You can't tell him.
     톰: 주지사한텐 말하면 안 돼.
@@ -118,23 +118,23 @@
 034. ELIAS: What I always do. Talk slowly and wait for the phone to ring.
     일라이어스: 늘 하던 거. 천천히 말하면서 전화가 울리길 기다려야지.
 
-035. COLTER: Deputy Secretary! Come on in out of the sun, son. It's ninety-eight degrees and it's nine in the morning. Welcome to Texas.
-    콜터: 부장관! 햇볕 피해 들어오시오, 젊은이. 아침 아홉 시인데 37도요. 텍사스에 온 걸 환영하오.
+035. COLTER: Deputy Secretary! Come in out of the sun, son. Welcome to Texas.
+    콜터: 부장관! 햇볕 피해 들어오시오, 젊은이. 텍사스에 온 걸 환영하오.
 
 036. ELIAS: Governor. I've been in Texas for three weeks. Tom's mother feeds me.
     일라이어스: 주지사님. 텍사스엔 3주째 있습니다. 톰 어머님이 밥을 주세요.
 
-037. COLTER: I know. Breakfast with Mexico. Everybody in this state knows about that breakfast. Sit. That chair's got a view of the bridge.
-    콜터: 알지. 멕시코랑 아침 식사. 이 주에서 그 아침 식사 모르는 사람 없소. 앉으시오. 그 의자에서 다리가 보이지.
+037. COLTER: Breakfast with Mexico. Everybody in this state knows. Sit, you'll see the bridge.
+    콜터: 멕시코랑 아침 식사. 이 주에선 다 아오. 앉으시오, 다리가 보일 거요.
 
 038. ELIAS: And of the Chamizal memorial. Interesting place for a command tent.
     일라이어스: 차미잘 기념관도 보이네요. 지휘 천막 치기엔 흥미로운 자리군요.
 
-039. COLTER: It had shade and parking. Let me be very clear about why we're here. Mexico is still short. Your agent is still missing. And three weeks ago you called my farmers a sacrifice zone.
-    콜터: 그늘이랑 주차장이 있어서요. 우리가 왜 여기 있는지 분명히 하지. 멕시코는 아직 물이 모자라. 당신네 요원은 아직 실종이고. 그리고 3주 전에 당신은 우리 농부들을 희생 구역이라고 불렀소.
+039. COLTER: Shade. Let me be very clear. Mexico's still short, your agent's still missing, and three weeks ago you called my farmers a sacrifice zone.
+    콜터: 그늘 때문이오. 분명히 하지. 멕시코는 아직 물이 모자라고, 당신네 요원은 아직 실종이고, 3주 전에 당신은 우리 농부들을 희생 구역이라고 불렀소.
 
-040. ELIAS: Governor, a cotton farmer from Fabens who didn't vote for me posted a recording that says otherwise. So did thirty-three other people.
-    일라이어스: 주지사님, 저를 안 찍은 파벤스의 목화 농부가 그게 아니라는 녹음을 올렸습니다. 다른 서른세 명도요.
+040. ELIAS: Governor, thirty-four people from that room posted recordings. One didn't even vote for me.
+    일라이어스: 주지사님, 그 방에 있던 34명이 녹음을 올렸습니다. 한 명은 절 찍지도 않았어요.
 
 041. COLTER: And I've got a staff that says those thirty-four are your friends. Doubt cuts both ways, son.
     콜터: 그리고 내 참모들은 그 서른네 명이 당신 친구들이라고 하오. 의심은 양날이야, 젊은이.
@@ -154,8 +154,8 @@
 046. ELIAS: March ninth. About eighteen Americans dead.
     일라이어스: 3월 9일이요. 미국인 약 18명이 죽었죠.
 
-047. COLTER: And Woodrow Wilson, who was no cowboy, sent Black Jack Pershing into Mexico. George Patton was a young lieutenant on that ride. Pershing taught Villa a lesson, and Villa never came north again.
-    콜터: 그리고 카우보이도 아니던 우드로 윌슨이 '블랙 잭' 퍼싱을 멕시코로 보냈지. 조지 패튼도 젊은 중위로 따라갔소. 퍼싱이 비야한테 본때를 보여 줬고, 비야는 다시는 북쪽으로 못 왔어.
+047. COLTER: And Wilson, no cowboy, sent Black Jack Pershing into Mexico, with young Lieutenant Patton. Pershing taught Villa a lesson, and Villa never came north again.
+    콜터: 그리고 카우보이도 아니던 윌슨이 '블랙 잭' 퍼싱을 멕시코로 보냈지. 젊은 패튼 중위도 데리고. 퍼싱이 본때를 보여 줬고, 비야는 다시는 북쪽으로 못 왔소.
 
 048. ELIAS: Villa never came north again. That part's true. The rest isn't.
     일라이어스: 비야가 다시 북쪽으로 안 온 건 맞습니다. 나머진 아니고요.
@@ -175,8 +175,8 @@
 053. COLTER: And we whipped them.
     콜터: 그리고 우리가 박살 냈지.
 
-054. ELIAS: We lost. A dozen Americans killed, two dozen taken prisoner. For about a week, two governments that were supposed to be hunting the same bandit came very close to war with each other.
-    일라이어스: 졌습니다. 미국인 열두 명쯤 죽고 스물몇 명이 포로로 잡혔어요. 한 일주일 동안, 같은 도적을 쫓아야 했던 두 정부가 서로 전쟁하기 직전까지 갔죠.
+054. ELIAS: We lost. A dozen Americans killed, two dozen captured. For a week, two governments hunting the same bandit nearly went to war with each other.
+    일라이어스: 졌습니다. 미국인 열두 명쯤 죽고 스물몇 명이 잡혔어요. 일주일 동안, 같은 도적을 쫓던 두 정부가 서로 전쟁할 뻔했죠.
 
 055. ALVARADO: And that summer Wilson called the Guard to the border. More than a hundred thousand men. My great-grandfather was one of them, from San Antonio.
     알바라도: 그리고 그해 여름 윌슨이 방위군을 국경으로 불렀죠. 10만 명이 넘게요. 우리 증조할아버지도 그중 하나였어요. 샌안토니오에서요.
@@ -184,8 +184,8 @@
 056. COLTER: Ruth. I didn't know that.
     콜터: 루스. 그건 몰랐네.
 
-057. ALVARADO: He sat in a tent in the heat for five months, Governor, and the only thing he ever shot was a rattlesnake. He used to say the border made more Guardsmen sick than Villa ever did.
-    알바라도: 다섯 달 동안 더위 속에 천막에 앉아 있었어요, 주지사님. 평생 쏜 거라곤 방울뱀 한 마리였고요. 국경이 비야보다 방위군을 더 많이 앓게 했다고 늘 말씀하셨죠.
+057. ALVARADO: He sat in a tent for five months, Governor, and only shot one rattlesnake. He said the border made more Guardsmen sick than Villa did.
+    알바라도: 다섯 달 동안 천막에 앉아 있었어요, 주지사님. 쏜 건 방울뱀 한 마리뿐이었고요. 국경이 비야보다 방위군을 더 많이 앓게 했다고 하셨죠.
 
 058. ELIAS: And here's the part that should worry a governor of Texas. In January 1917, Germany sent a telegram to Mexico. The Zimmermann telegram.
     일라이어스: 그리고 텍사스 주지사라면 걱정하셔야 할 부분이 여기 있습니다. 1917년 1월, 독일이 멕시코에 전보를 보냈어요. 치머만 전보요.
@@ -202,8 +202,8 @@
 062. ELIAS: It did. Because somebody in Mexico City was smarter than the moment. I'd like both of us to be that smart this morning.
     일라이어스: 그랬죠. 멕시코시티의 누군가가 그 순간보다 현명했으니까요. 오늘 아침엔 우리 둘 다 그만큼 현명했으면 합니다.
 
-063. COLTER: Nice speech. Here's mine. Those Guardsmen stay on the bridges until I get water on paper and an agent on American soil.
-    콜터: 연설 좋았소. 이제 내 차례지. 물이 종이에 적히고 요원이 미국 땅을 밟을 때까지 저 방위군은 다리에 남소.
+063. COLTER: Nice speech. The Guard stays until I get water on paper and an agent home.
+    콜터: 연설 좋았소. 물이 종이에 적히고 요원이 돌아올 때까지 방위군은 남소.
 
 064. ELIAS: Then let me be equally clear, Governor. If the lanes aren't open by noon, the President federalizes the Texas Guard. Your general reports to the Pentagon, and you watch it on television.
     일라이어스: 그럼 저도 똑같이 분명히 하죠, 주지사님. 정오까지 차선이 안 열리면 대통령께서 텍사스 주방위군을 연방화합니다. 장군님은 국방부 지휘를 받게 되고, 주지사님은 그걸 TV로 보시게 되겠죠.
@@ -211,8 +211,8 @@
 065. ALVARADO: Sir, with respect, I'd rather nobody used me as a sentence.
     알바라도: 부장관님, 외람되지만, 아무도 절 문장으로 쓰지 않았으면 좋겠습니다.
 
-066. COLTER: Federalize. Like Eisenhower in Little Rock. You want to be Eisenhower against Texans, son? On a bridge? In an election year?
-    콜터: 연방화라. 리틀록의 아이젠하워처럼. 텍사스 사람들 상대로 아이젠하워가 되고 싶소, 젊은이? 다리 위에서? 선거철에?
+066. COLTER: Like Eisenhower in Little Rock? Against Texans, son? In an election year?
+    콜터: 리틀록의 아이젠하워처럼? 텍사스 사람들 상대로, 젊은이? 선거철에?
 
 067. ELIAS: Eisenhower federalized the Arkansas Guard to walk nine children into a high school. If you're asking whether I'd stand in that tradition, yes.
     일라이어스: 아이젠하워는 아홉 아이를 고등학교에 들여보내려고 아칸소 방위군을 연방화했습니다. 제가 그 전통에 설 거냐고 물으신다면, 네.
@@ -232,8 +232,8 @@
 072. CALLAWAY: Elias, don't say the word "federalize." The chief of staff called me. Wade Colter called him first. Whatever you're threatening, you're threatening it alone.
     캘러웨이: 일라이어스, '연방화'라는 말 꺼내지 마. 비서실장이 나한테 전화했어. 웨이드 콜터가 먼저 그쪽에 전화했고. 자네가 뭘로 위협하든, 혼자 위협하는 거야.
 
-073. ELIAS: Who told Colter I'd use it, sir? I only said it to Samira last night, and to you.
-    일라이어스: 제가 그 말을 쓸 거라고 누가 콜터에게 말했을까요, 장관님? 전 어젯밤 사미라한테, 그리고 장관님께만 말했습니다.
+073. ELIAS: Who told Colter, sir? I only said it to Samira and you.
+    일라이어스: 누가 콜터에게 말했을까요, 장관님? 전 사미라랑 장관님께만 말했습니다.
 
 074. CALLAWAY: The Governor has friends everywhere. Don't make this about leaks. Fix the bridge.
     캘러웨이: 주지사는 어디에나 친구가 있어. 이걸 유출 문제로 만들지 마. 다리나 고쳐.
@@ -331,8 +331,8 @@
 105. TOM: There's the line on the Mexican side. A marine, a doctor, and her. She's walking by herself. She won't let them hold her arm.
     톰: 멕시코 쪽에 대열이 보여. 해병대원, 의사, 그리고 페냐. 혼자 걷고 있어. 팔을 못 잡게 하네.
 
-106. ELIAS: Two hundred soldiers on our side, standing at attention. And the Governor at the end, in a hat.
-    일라이어스: 우리 쪽엔 병사 200명이 차렷 자세로 서 있고. 그 끝엔 모자 쓴 주지사.
+106. ELIAS: Two hundred soldiers at attention. And the Governor at the end, in a hat.
+    일라이어스: 병사 200명이 차렷 자세로 서 있고. 그 끝엔 모자 쓴 주지사.
 
 107. TOM: He brought three cameras. Of course he did.
     톰: 카메라를 세 대나 데려왔어. 당연하지.
@@ -343,8 +343,8 @@
 109. ELIAS: Today, Agent Peña? You are.
     일라이어스: 오늘은요, 페냐 요원님? 요원님이요.
 
-110. PENA: Then I want to sit down for one minute, on American concrete, before anybody takes a picture.
-    페냐: 그럼 누가 사진 찍기 전에, 미국 콘크리트 위에 1분만 앉고 싶어요.
+110. PENA: Then I want one minute sitting on American concrete. Before any pictures.
+    페냐: 그럼 사진 찍기 전에, 미국 콘크리트 위에 1분만 앉고 싶어요.
 
 111. TOM: Sit. Nobody's taking anything for a minute. Here's water. It's from my mother's kitchen, so it's better than the government's.
     톰: 앉아요. 1분 동안은 아무도 아무것도 안 찍어요. 물 여기요. 우리 엄마 부엌에서 가져온 거라 정부 물보다 나아요.
@@ -379,8 +379,8 @@
 121. ELIAS: Agent Peña, would you tell that to your own people, in a room, with someone taking notes?
     일라이어스: 페냐 요원님, 그 얘기를 요원님 쪽 사람들한테, 방 안에서, 누가 받아 적는 데서 해 주시겠습니까?
 
-122. PENA: Tonight, at the DEA office. After I call my husband, and after a shower. In that order.
-    페냐: 오늘 밤에 DEA 사무실에서요. 남편한테 전화하고, 샤워하고 나서요. 그 순서대로요.
+122. PENA: Tonight, at the DEA office. After my husband, and a shower.
+    페냐: 오늘 밤에 DEA 사무실에서요. 남편한테 전화하고, 샤워하고 나서요.
 
 123. COLTER: Agent Peña! Welcome home. On behalf of the State of Texas.
     콜터: 페냐 요원! 집에 온 걸 환영하오. 텍사스주를 대표해서.
@@ -403,14 +403,14 @@
 129. ELIAS: The trucks are moving. All five bridges. The Guard's still standing there, but nobody's being stopped.
     일라이어스: 트럭들 움직여요. 다리 다섯 곳 전부. 방위군은 아직 서 있지만 아무도 안 세워요.
 
-130. ELENA: Standing there is what they do best. Eat, mijo. Your father is calling, I can see it from here.
-    엘레나: 서 있는 게 그 사람들 특기잖아. 먹어, 얘야. 너희 아버지 전화 온다, 여기서도 보여.
+130. ELENA: Standing is what they do best. Eat, mijo. Your father's calling.
+    엘레나: 서 있는 게 그 사람들 특기잖아. 먹어, 얘야. 너희 아버지 전화 온다.
 
 131. FRANK: Did you eat?
     프랭크: 밥은 먹었니?
 
-132. ELIAS: I'm about to, Dad. Caldo. Elena won't let me answer you until I've had three spoons.
-    일라이어스: 이제 먹으려고요, 아빠. 칼도요. 엘레나가 세 숟갈 먹기 전엔 대답도 못 하게 해요.
+132. ELIAS: About to, Dad. Elena says three spoons before I answer you.
+    일라이어스: 이제 먹어요, 아빠. 엘레나가 세 숟갈 먹기 전엔 대답하지 말래요.
 
 133. FRANK: A sensible woman. I saw the bridge on the news. You used Villa on him, didn't you? I could tell by his face.
     프랭크: 현명한 분이구나. 뉴스에서 다리 봤다. 비야로 그 사람 몰아붙였지? 얼굴 보니까 알겠더라.
@@ -454,8 +454,8 @@
 146. ELIAS: And?
     일라이어스: 그래서?
 
-147. TOM: He says there's an American in Juárez who buys blood-pressure pills with cash every Tuesday, at a pharmacy on Avenida 16 de Septiembre. And always asks the pharmacist how long the lines are at the bridge.
-    톰: 후아레스에 매주 화요일마다 16 데 셉티엠브레 대로 약국에서 현금으로 혈압약 사는 미국인이 있대. 그리고 꼭 약사한테 다리 줄이 얼마나 긴지 묻는대.
+147. TOM: He says an American buys blood-pressure pills with cash every Tuesday at a pharmacy on Avenida 16 de Septiembre. And always asks about the bridge lines.
+    톰: 미국인 하나가 매주 화요일 16 데 셉티엠브레 대로 약국에서 현금으로 혈압약을 산대. 그리고 꼭 다리 줄이 얼마나 긴지 묻는대.
 
 148. ELIAS: Can he get a name without getting hurt?
     일라이어스: 다치지 않고 이름을 알아낼 수 있을까?

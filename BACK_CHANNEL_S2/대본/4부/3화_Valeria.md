@@ -31,8 +31,8 @@
 005. HOLLIS: You've done your homework. She's careful, she's funny when she wants something, and she always starts with history.
     홀리스: 공부 많이 하셨네요. 신중하고, 뭔가 원할 땐 재치 있고, 항상 역사로 시작합니다.
 
-006. ELIAS: Which history?
-    일라이어스: 어떤 역사요?
+006. ELIAS: Which history? This border has more than one.
+    일라이어스: 어떤 역사요? 이 국경엔 역사가 하나가 아닌데요.
 
 007. HOLLIS: With us? 1848. Every time. She'll mention the war, and the map, and the half of Mexico that ended up in our textbooks.
     홀리스: 우리랑이면요? 1848년이죠. 매번요. 전쟁 얘기, 지도 얘기, 그리고 우리 교과서로 넘어간 멕시코 절반 얘기를 할 겁니다.
@@ -49,8 +49,8 @@
 011. HOLLIS: Sure, but—
     홀리스: 그렇긴 한데—
 
-012. SAMIRA: And it wasn't a fair price for anything. Mexico lost about half its territory, Texas included. We paid fifteen million and took over some American claims against Mexico. If that's a sale, so is a robbery where the robber leaves a receipt.
-    사미라: 그리고 무엇에 대해서도 공정한 값이 아니었어요. 멕시코는 텍사스를 포함해 영토의 절반쯤을 잃었어요. 우린 1,500만 달러를 내고 멕시코에 대한 미국인 청구권 일부를 떠안았고요. 그게 매매면, 강도가 영수증을 두고 가는 것도 매매죠.
+012. SAMIRA: And it wasn't a fair price. Mexico lost about half its territory, Texas included. If that's a sale, so is a robbery where the robber leaves a receipt.
+    사미라: 그리고 공정한 값도 아니었어요. 멕시코는 텍사스를 포함해 영토의 절반쯤을 잃었어요. 그게 매매면, 강도가 영수증을 두고 가는 것도 매매죠.
 
 013. HOLLIS: Fair enough. I'll stop saying "technically."
     홀리스: 일리 있네요. '엄밀히는'이란 말은 그만할게요.
@@ -58,11 +58,11 @@
 014. ELIAS: Please do. Especially in that building. Dan, is there anything about this morning that I don't know yet?
     일라이어스: 그래 줘요. 특히 그 건물 안에서는. 댄, 오늘 아침 일 중에 내가 아직 모르는 게 있어요?
 
-015. HOLLIS: One thing. The ministry asked us on Friday who would be in the room. Just you and Ms. Haddad. No embassy, no note-taker from our side.
-    홀리스: 하나 있습니다. 외교부가 금요일에 누가 회의실에 들어오는지 물었어요. 부장관님과 하다드 씨만이요. 대사관도, 우리 쪽 기록 담당도 없이.
+015. HOLLIS: One thing. The ministry asked on Friday who'd be in the room. Just you and Ms. Haddad. No embassy.
+    홀리스: 하나 있습니다. 외교부가 금요일에 누가 회의실에 들어오는지 물었어요. 부장관님과 하다드 씨만이요. 대사관은 빼고요.
 
-016. ELIAS: Did she say why?
-    일라이어스: 이유는 말했어요?
+016. ELIAS: Did she say why? Or did one of her staff?
+    일라이어스: 이유는 말했어요? 아니면 직원이라도?
 
 017. HOLLIS: She said, and I quote, "The Minister would like to hear one American voice at a time."
     홀리스: 그대로 옮기면, "장관께서는 미국 목소리를 한 번에 하나씩 듣고 싶어 하십니다"라고 했어요.
@@ -79,11 +79,11 @@
 021. ROSIE: Dad. You're a meme.
     로지: 아빠. 아빠 밈 됐어.
 
-022. ELIAS: Good morning to you too. Which one?
-    일라이어스: 너도 좋은 아침. 어떤 거?
+022. ELIAS: Good morning to you too. Which one? There are several, apparently.
+    일라이어스: 너도 좋은 아침. 어떤 거? 여러 개라던데.
 
-023. ROSIE: "Here is the river." It's you standing in sand, and people put it over everything. A dry bathtub. An empty fridge. My friend did her bank account.
-    로지: "이게 그 강입니다." 아빠가 모래에 서 있는 거. 사람들이 그걸 아무 데나 붙여. 마른 욕조. 텅 빈 냉장고. 내 친구는 자기 통장에 붙였어.
+023. ROSIE: "Here is the river." You standing in sand, pasted over everything. A dry bathtub. An empty fridge. My friend did her bank account.
+    로지: "이게 그 강입니다." 아빠가 모래에 서 있는 걸 아무 데나 붙여. 마른 욕조. 텅 빈 냉장고. 내 친구는 자기 통장에 붙였어.
 
 024. ELIAS: That's a better review than I usually get.
     일라이어스: 평소 받는 평보단 낫네.
@@ -109,23 +109,23 @@
 031. VALERIA: Señor Grant. Ms. Haddad. Please, sit. You'll forgive me if I start with a map.
     발레리아: 그랜트 씨. 하다드 씨. 앉으세요. 지도부터 시작해도 양해해 주시겠죠.
 
-032. ELIAS: Madam Minister, I was warned you would.
-    일라이어스: 장관님, 그러실 거라고 미리 들었습니다.
+032. ELIAS: Madam Minister, I was warned you would. I came prepared to look.
+    일라이어스: 장관님, 그러실 거라고 미리 들었습니다. 볼 준비를 하고 왔습니다.
 
-033. VALERIA: By the embassy. Of course. This is a copy of the Disturnell map, 1847. It's the map your negotiator and ours attached to the Treaty of Guadalupe Hidalgo.
-    발레리아: 대사관한테서겠죠. 당연히. 이건 1847년 디스터넬 지도 사본이에요. 당신네 협상 대표와 우리 대표가 과달루페 이달고 조약에 붙인 지도죠.
+033. VALERIA: By the embassy, of course. This is a copy of the Disturnell map, 1847, the one attached to the Treaty of Guadalupe Hidalgo.
+    발레리아: 대사관한테서겠죠, 당연히. 이건 1847년 디스터넬 지도 사본이에요. 과달루페 이달고 조약에 붙은 그 지도요.
 
-034. ELIAS: February second, 1848.
-    일라이어스: 1848년 2월 2일.
+034. ELIAS: February second, 1848. My father taught that date for forty years.
+    일라이어스: 1848년 2월 2일. 저희 아버지가 40년 동안 가르친 날짜죠.
 
 035. VALERIA: Signed in Guadalupe Hidalgo, half an hour north of this office, while your army was still sitting in our capital. I want to show you one line.
     발레리아: 이 사무실에서 북쪽으로 30분 거리인 과달루페 이달고에서 서명됐어요. 당신네 군대가 아직 우리 수도에 앉아 있을 때요. 선 하나를 보여 드리고 싶어요.
 
-036. ELIAS: The Rio Grande.
-    일라이어스: 리오그란데군요.
+036. ELIAS: The Rio Grande. That line has caused a lot of trouble.
+    일라이어스: 리오그란데군요. 그 선이 말썽을 많이 일으켰죠.
 
-037. VALERIA: The Río Bravo, we call it. Before the war, your country said Texas ended at the Rio Grande. We said it ended at the Nueces, farther north. After the war, nobody asked us anymore.
-    발레리아: 우린 리오브라보라고 불러요. 전쟁 전에 당신네 나라는 텍사스가 리오그란데에서 끝난다고 했고, 우린 더 북쪽의 누에세스강에서 끝난다고 했어요. 전쟁이 끝난 뒤엔 아무도 우리한테 묻지 않았죠.
+037. VALERIA: The Río Bravo, we call it. Your country said Texas ended there. We said the Nueces, farther north. After the war, nobody asked us anymore.
+    발레리아: 우린 리오브라보라고 불러요. 당신네 나라는 텍사스가 거기서 끝난다고 했고, 우린 더 북쪽의 누에세스강이라고 했어요. 전쟁이 끝난 뒤엔 아무도 우리한테 묻지 않았죠.
 
 038. ELIAS: And then the line moved much farther than Texas.
     일라이어스: 그리고 그 선은 텍사스보다 훨씬 멀리 움직였고요.
@@ -154,8 +154,8 @@
 046. ELIAS: I know the passage. My father makes his students read it.
     일라이어스: 그 구절 압니다. 저희 아버지가 수강생들한테 읽히세요.
 
-047. VALERIA: Then your father and I would get along. Here is why I'm telling you this. When your Governor stands on a bridge and says Mexico owes Texas water, millions of Mexicans hear a much older sentence.
-    발레리아: 그럼 아버님과 저는 잘 맞겠네요. 제가 이 얘기를 하는 이유는 이거예요. 당신네 주지사가 다리 위에 서서 멕시코가 텍사스에 물을 빚졌다고 하면, 수백만 멕시코 사람들은 훨씬 오래된 문장을 들어요.
+047. VALERIA: Then your father and I would get along. When your Governor says Mexico owes Texas water, millions of Mexicans hear a much older sentence.
+    발레리아: 그럼 아버님과 저는 잘 맞겠네요. 당신네 주지사가 멕시코가 텍사스에 물을 빚졌다고 하면, 수백만 멕시코 사람들은 훨씬 오래된 문장을 들어요.
 
 048. ELIAS: That the river was ours because we took it.
     일라이어스: 우리가 빼앗았으니 그 강은 우리 거라는 문장이요.
@@ -169,8 +169,8 @@
 051. VALERIA: An American who starts with what he owes. Please.
     발레리아: 빚진 것부터 시작하는 미국인이라. 하세요.
 
-052. ELIAS: The six hundred and ninety thousand acre-feet the Governor quoted came from my department. It's a projection, not a measurement. It should never have been on the steps of the capitol in Austin.
-    일라이어스: 주지사가 인용한 69만 에이커피트는 저희 부처에서 나온 숫자입니다. 측정치가 아니라 추정치예요. 오스틴 주의사당 계단에 나와서는 안 되는 숫자였습니다.
+052. ELIAS: The six-ninety the Governor quoted came from my department. It's a projection, not a measurement, and it should never have reached Austin.
+    일라이어스: 주지사가 인용한 69만은 저희 부처에서 나온 숫자입니다. 측정치가 아니라 추정치고, 오스틴까지 가서는 안 되는 숫자였습니다.
 
 053. VALERIA: I know. Our commission counts six hundred and ten. Your projection assumes our rivers will stay as dry as your Governor's sense of humor.
     발레리아: 알아요. 우리 위원회 집계는 61만이에요. 당신네 추정치는 우리 강들이 그 주지사의 유머 감각만큼 계속 말라 있을 거라고 가정하죠.
@@ -178,8 +178,8 @@
 054. ELIAS: Then we have an eighty-thousand-acre-foot argument about a number neither of us can prove yet.
     일라이어스: 그럼 우린 아직 둘 다 증명하지 못하는 숫자를 두고 8만 에이커피트짜리 논쟁을 하는 셈이네요.
 
-055. VALERIA: Welcome to water diplomacy, Señor Grant.
-    발레리아: 물 외교에 오신 걸 환영해요, 그랜트 씨.
+055. VALERIA: Welcome to water diplomacy, Señor Grant. We've been doing it since 1906.
+    발레리아: 물 외교에 오신 걸 환영해요, 그랜트 씨. 우린 1906년부터 해 왔어요.
 
 056. ELIAS: What would it take for Mexico to give the Valley a delivery schedule before October twenty-fourth?
     일라이어스: 10월 24일 전에 멕시코가 하류 계곡에 인도 일정표를 주려면 무엇이 필요하겠습니까?
@@ -187,8 +187,8 @@
 057. VALERIA: Three things. First, the trucks. Every morning your Governor holds our exports hostage on his road, I lose a vote in our Senate.
     발레리아: 세 가지요. 첫째, 트럭. 당신네 주지사가 아침마다 자기 도로에서 우리 수출품을 인질로 잡을 때마다 저는 우리 상원에서 표를 하나씩 잃어요.
 
-058. ELIAS: Second?
-    일라이어스: 둘째는요?
+058. ELIAS: Second? I suspect the second is harder.
+    일라이어스: 둘째는요? 둘째가 더 어려울 것 같은데요.
 
 059. VALERIA: Second, the word "debt." Stop using it. A farmer in Chihuahua who hears that word thinks his grandchildren will be paying you.
     발레리아: 둘째, '빚'이라는 단어. 그만 쓰세요. 치와와 농부가 그 단어를 들으면 자기 손주들이 당신들한테 갚아야 하는 줄 알아요.
@@ -196,8 +196,8 @@
 060. ELIAS: And third?
     일라이어스: 그리고 셋째는요?
 
-061. VALERIA: Third, you remember that the treaty runs in both directions. Every year you deliver one and a half million acre-feet of the Colorado to us. Nobody stands on a bridge in Mexicali and threatens California's trucks.
-    발레리아: 셋째, 조약이 양방향이라는 걸 기억하세요. 매년 당신들은 콜로라도강 물 150만 에이커피트를 우리한테 줘요. 그런데 메히칼리에서 다리 위에 서서 캘리포니아 트럭을 위협하는 사람은 없죠.
+061. VALERIA: Third, the treaty runs both ways. Every year you deliver one and a half million acre-feet of the Colorado to us, and nobody in Mexicali threatens California's trucks.
+    발레리아: 셋째, 조약은 양방향이에요. 매년 당신들은 콜로라도강 물 150만 에이커피트를 우리한테 주죠. 그런데 메히칼리에서 캘리포니아 트럭을 위협하는 사람은 없어요.
 
 062. ELIAS: Not yet.
     일라이어스: 아직은요.
@@ -208,8 +208,8 @@
 064. ELIAS: I'm not joking. I'm saying it's the next fake I'd expect. Someone in Mexicali, on a bridge, saying exactly that.
     일라이어스: 농담 아닙니다. 제가 예상하는 다음 가짜가 그거라는 겁니다. 메히칼리 다리 위에서 누군가 딱 그 말을 하는 영상이요.
 
-065. VALERIA: Your Ms. Haddad keeps a list, I hear.
-    발레리아: 하다드 씨가 목록을 관리한다고 들었어요.
+065. VALERIA: Your Ms. Haddad keeps a list of these, I hear. A long one.
+    발레리아: 하다드 씨가 이런 것들 목록을 관리한다고 들었어요. 긴 목록이라고요.
 
 066. SAMIRA: Thirteen entries so far, Minister. The last one had a man shouting "vosotros" in Ciudad Juárez.
     사미라: 지금까지 열세 건이에요, 장관님. 마지막 건엔 시우다드후아레스에서 'vosotros'라고 소리 지르는 남자가 나왔어요.
@@ -220,11 +220,11 @@
 068. ELIAS: Minister, on your first condition. The inspections will end this week.
     일라이어스: 장관님, 첫 번째 조건 말인데요. 검사는 이번 주에 끝납니다.
 
-069. VALERIA: Will they? Your Governor doesn't work for you.
-    발레리아: 그래요? 당신네 주지사는 당신 밑에서 일하지 않잖아요.
+069. VALERIA: Will they? Your Governor doesn't work for you, Señor Grant.
+    발레리아: 그래요? 당신네 주지사는 당신 밑에서 일하지 않잖아요, 그랜트 씨.
 
-070. ELIAS: He doesn't. But his office received last Thursday's fake nine minutes before the public did, and he has a strong interest in looking like a victim rather than a partner.
-    일라이어스: 맞습니다. 하지만 그 사람 사무실이 지난 목요일 가짜를 대중보다 9분 먼저 받았습니다. 그리고 그는 공범보다는 피해자로 보이는 데 강한 이해관계가 있죠.
+070. ELIAS: He doesn't. But his office got Thursday's fake nine minutes early, and he'd rather look like a victim than a partner.
+    일라이어스: 맞습니다. 하지만 그 사람 사무실이 목요일 가짜를 9분 먼저 받았습니다. 그리고 그는 공범보다는 피해자로 보이고 싶어 하죠.
 
 071. VALERIA: You're bluffing, Señor Grant.
     발레리아: 허세를 부리시네요, 그랜트 씨.
@@ -232,8 +232,8 @@
 072. ELIAS: Partly. The timing is real. Whether he folds by Friday is the bluff.
     일라이어스: 일부는요. 시간은 사실입니다. 그가 금요일까지 접을지가 허세죠.
 
-073. VALERIA: I appreciate the honesty of a man who tells me which half is the bluff. If the trucks are still sitting there next week, the next time we talk will be through lawyers.
-    발레리아: 어느 쪽 절반이 허세인지 말해 주는 사람의 정직함은 고맙네요. 다음 주에도 트럭이 거기 서 있으면, 우리 다음 대화는 변호사들을 통해서 하게 될 거예요.
+073. VALERIA: I appreciate a man who tells me which half is the bluff. If the trucks are still there next week, we talk through lawyers.
+    발레리아: 어느 쪽 절반이 허세인지 말해 주는 사람은 고맙네요. 다음 주에도 트럭이 거기 있으면, 그땐 변호사들을 통해서 얘기하죠.
 
 074. ELIAS: And the lawyers would advise you to declare an extraordinary drought.
     일라이어스: 그리고 변호사들은 이례적 가뭄을 선포하라고 조언하겠죠.
@@ -253,8 +253,8 @@
 079. VALERIA: So you want me to keep the drawer closed.
     발레리아: 그러니까 서랍을 닫아 두라는 거군요.
 
-080. ELIAS: I want both of us to stop arguing about numbers we produce separately. Let your commission and ours measure the same rivers, at the same gauges, and publish one figure. Not yours, not ours.
-    일라이어스: 우리 둘 다 각자 만든 숫자로 다투는 걸 그만하자는 겁니다. 장관님 위원회와 저희 위원회가 같은 강을 같은 계측소에서 재서 숫자 하나를 발표하는 거죠. 장관님 것도, 저희 것도 아닌.
+080. ELIAS: Let's stop arguing about numbers we produce separately. Your commission and ours measure the same rivers, at the same gauges, and publish one figure.
+    일라이어스: 각자 만든 숫자로 다투는 걸 그만하죠. 장관님 위원회와 저희 위원회가 같은 강을 같은 계측소에서 재서 숫자 하나를 발표하는 겁니다.
 
 081. VALERIA: One number. That's very optimistic for two countries that couldn't agree on where Texas ended.
     발레리아: 숫자 하나라. 텍사스가 어디서 끝나는지도 합의 못 했던 두 나라치곤 아주 낙관적이네요.
@@ -280,14 +280,14 @@
 088. ELIAS: Saturday?
     일라이어스: 토요일이요?
 
-089. VALERIA: On Saturday afternoon, my deputy for North America received a call from Washington. From the Secretary of State's office. A woman, very polite. She did not give her name, only her office.
-    발레리아: 토요일 오후에 북미 담당 차관이 워싱턴에서 전화를 받았어요. 국무장관실에서요. 아주 공손한 여자였어요. 이름은 안 밝히고 사무실만 댔죠.
+089. VALERIA: On Saturday afternoon, my deputy for North America got a call from the Secretary of State's office. A woman, very polite. No name.
+    발레리아: 토요일 오후에 북미 담당 차관이 국무장관실에서 전화를 받았어요. 아주 공손한 여자였어요. 이름은 없이.
 
-090. SAMIRA: What did she say?
-    사미라: 뭐라고 했어요?
+090. SAMIRA: What did she say? Word for word, if he has it.
+    사미라: 뭐라고 했어요? 차관님이 갖고 계시면 토씨 그대로요.
 
-091. VALERIA: That Washington "would understand" if Mexico declared an extraordinary drought. That it would be wise to wait until after November to do it. And that the Deputy Secretary's demands "do not necessarily reflect the Secretary's position."
-    발레리아: 멕시코가 이례적 가뭄을 선포해도 워싱턴은 '이해할 것'이라고. 선포는 11월 이후로 미루는 게 현명할 거라고. 그리고 부장관의 요구가 '반드시 장관의 입장을 반영하는 건 아니다'라고요.
+091. VALERIA: That Washington "would understand" a drought declaration, ideally after November. And that the Deputy Secretary's demands "do not necessarily reflect the Secretary's position."
+    발레리아: 워싱턴은 가뭄 선포를 '이해할 것'이고, 되도록 11월 이후가 좋겠다고. 그리고 부장관의 요구가 '반드시 장관의 입장을 반영하는 건 아니다'라고요.
 
 092. ELIAS: November.
     일라이어스: 11월이라.
@@ -295,11 +295,11 @@
 093. VALERIA: Your midterm elections, Señor Grant. Even I know that calendar.
     발레리아: 당신네 중간선거죠, 그랜트 씨. 그 달력은 저도 알아요.
 
-094. ELIAS: Was the call recorded?
-    일라이어스: 그 통화 녹음됐습니까?
+094. ELIAS: Was the call recorded, or did he take notes?
+    일라이어스: 그 통화 녹음됐습니까, 아니면 메모를 했습니까?
 
-095. VALERIA: My deputy took notes, by hand, the way your building has taught all of us to do lately. So I'll ask you the question people in your building ask now. Did you say that?
-    발레리아: 차관이 손으로 메모했어요. 요즘 당신네 건물이 우리 모두한테 가르친 방식대로요. 그러니까 요즘 당신네 건물 사람들이 하는 질문을 하죠. 당신이 그 말 했어요?
+095. VALERIA: Notes, by hand, the way your building has taught us all lately. So I'll ask what your building asks now. Did you say that?
+    발레리아: 손으로 메모했어요. 요즘 당신네 건물이 우리 모두한테 가르친 방식대로요. 그러니 요즘 당신네 건물이 하는 질문을 하죠. 당신이 그 말 했어요?
 
 096. ELIAS: No. Not in any room.
     일라이어스: 아니요. 어떤 방에서도요.
@@ -307,8 +307,8 @@
 097. VALERIA: Did your Secretary?
     발레리아: 당신네 장관은요?
 
-098. ELIAS: I don't know. And I won't guess about my own Secretary in a foreign ministry. What I can tell you is that the only position I'll ever give you is the one I'm prepared to say in public.
-    일라이어스: 모르겠습니다. 그리고 외국 외교부에서 제 장관에 대해 추측하진 않겠습니다. 말씀드릴 수 있는 건, 제가 장관님께 드리는 입장은 언제나 공개적으로 말할 각오가 된 입장뿐이라는 겁니다.
+098. ELIAS: I don't know, and I won't guess about my own Secretary in a foreign ministry. The only position I'll give you is one I'd say in public.
+    일라이어스: 모르겠습니다. 그리고 외국 외교부에서 제 장관에 대해 추측하진 않겠습니다. 제가 드리는 입장은 공개적으로 말할 수 있는 것뿐입니다.
 
 099. VALERIA: That's a very careful answer.
     발레리아: 아주 조심스러운 대답이네요.
@@ -316,8 +316,8 @@
 100. ELIAS: It's the only honest one I have this morning.
     일라이어스: 오늘 아침 제가 가진 정직한 대답은 그것뿐입니다.
 
-101. VALERIA: Then here is mine. The drawer stays closed until the end of June. If the trucks move, and if one number appears, we'll talk about a schedule. If a woman from Washington calls again, I'll send her to you.
-    발레리아: 그럼 제 대답은 이거예요. 서랍은 6월 말까지 닫아 둘게요. 트럭이 움직이고 숫자 하나가 나오면 일정표 얘기를 하죠. 워싱턴의 그 여자가 또 전화하면 당신한테 보낼게요.
+101. VALERIA: Then here is mine. The drawer stays closed until the end of June. Moving trucks and one number, and we'll talk schedule. If she calls again, I'll send her to you.
+    발레리아: 그럼 제 대답은 이거예요. 서랍은 6월 말까지 닫아 둘게요. 트럭이 움직이고 숫자 하나가 나오면 일정표 얘기를 하죠. 그 여자가 또 전화하면 당신한테 보낼게요.
 
 102. ELIAS: Thank you, Minister. Please do.
     일라이어스: 감사합니다, 장관님. 꼭 그래 주세요.
@@ -325,8 +325,8 @@
 103. VALERIA: Let's take a break. My staff has coffee in the courtyard, and you look like a man who needs to call his Secretary.
     발레리아: 잠깐 쉬죠. 직원들이 안뜰에 커피를 준비했어요. 당신은 장관한테 전화해야 하는 사람 얼굴이네요.
 
-104. ELIAS: Is it that obvious?
-    일라이어스: 그렇게 티가 납니까?
+104. ELIAS: Is it that obvious, Minister?
+    일라이어스: 그렇게 티가 납니까, 장관님?
 
 105. VALERIA: Only to people who've had one.
     발레리아: 장관을 모셔 본 사람한테만요.
@@ -334,8 +334,8 @@
 106. SAMIRA: Saturday, June eighth, afternoon. Secretary's office. A woman, polite, no name. To Mexico's deputy for North America. I'm putting it under the Oman call from February.
     사미라: 6월 8일 토요일 오후. 장관실. 공손한 여자, 이름 없음. 멕시코 북미 담당 차관에게. 2월 오만 전화 밑에 적을게요.
 
-107. ELIAS: Same voice, you think?
-    일라이어스: 같은 목소리 같아?
+107. ELIAS: Same voice as February, you think?
+    일라이어스: 2월과 같은 목소리 같아?
 
 108. SAMIRA: Same manners. I don't write down what I think. You trained me out of that.
     사미라: 같은 말투예요. 제 생각은 안 적어요. 부장관님이 그 버릇 고쳐 주셨잖아요.
@@ -352,8 +352,8 @@
 112. CALLAWAY: The inspections are Colter's. I can't make promises about Texas.
     캘러웨이: 검사는 콜터 소관이야. 텍사스에 대해선 약속 못 해.
 
-113. ELIAS: I didn't ask you to, sir. There's something else. On Saturday, her deputy got a call from your office. A woman. She said Washington would understand a drought declaration after November.
-    일라이어스: 그걸 부탁드린 건 아닙니다, 장관님. 다른 게 있습니다. 토요일에 그쪽 차관이 장관실에서 전화를 받았답니다. 여자였고요. 11월 이후의 가뭄 선포는 워싱턴이 이해할 거라고 했답니다.
+113. ELIAS: I didn't ask, sir. Something else. On Saturday her deputy got a call from your office. A woman. Washington "would understand" a declaration after November.
+    일라이어스: 그걸 부탁드린 건 아닙니다, 장관님. 다른 게 있습니다. 토요일에 그쪽 차관이 장관실에서 전화를 받았답니다. 여자였고요. 11월 이후 선포는 워싱턴이 '이해할 거'라고.
 
 114. CALLAWAY: My office makes a hundred calls on a Saturday. Somebody was probably being helpful about scheduling.
     캘러웨이: 우리 사무실은 토요일에도 전화를 백 통은 해. 누가 일정 문제로 친절을 베풀었겠지.
@@ -373,8 +373,8 @@
 119. ELIAS: No, sir. But I work for the government that did.
     일라이어스: 네, 장관님. 하지만 저는 그 전쟁을 시작한 정부에서 일하죠.
 
-120. SAMIRA: "I'll find out who she was."
-    사미라: "누군지 알아보지."
+120. SAMIRA: "I'll find out who she was." That's what he said?
+    사미라: "누군지 알아보지." 그렇게 말씀하셨어요?
 
 121. ELIAS: He didn't ask me her name, or what time the call came, or what exactly she said.
     일라이어스: 이름도, 전화가 몇 시에 왔는지도, 정확히 무슨 말을 했는지도 안 물으셨어.
@@ -388,14 +388,14 @@
 124. TOM: Boss. The trucks are still lined up past the overpass. Colter's troopers wrote eleven tickets for cracked mirrors this morning. Eleven. He's calling it a crackdown.
     톰: 대장. 트럭은 여전히 고가도로 너머까지 줄 서 있어. 콜터네 주 경찰이 오늘 아침 금 간 사이드미러로 딱지를 열한 장 뗐어. 열한 장. 그걸 단속이라고 부르더라.
 
-125. ELIAS: And your people?
-    일라이어스: 너희 쪽은?
+125. ELIAS: And your people? The ones who don't stand on flatbeds?
+    일라이어스: 너희 쪽은? 평판 트럭 위에 안 서는 사람들은?
 
-126. TOM: That's the other thing. My guy in Juárez called me at six. Since Thursday's video, people over there are asking who in El Paso talks to the Americans. Asking by name.
-    톰: 그게 다른 문제야. 후아레스에 있는 내 정보원이 6시에 전화했어. 목요일 영상 이후로 거기 사람들이 엘패소에서 누가 미국 놈들이랑 얘기하는지 묻고 다닌대. 이름을 대면서.
+126. TOM: That's the other thing. My guy in Juárez called at six. Since Thursday, people over there are asking who in El Paso talks to Americans. By name.
+    톰: 그게 다른 문제야. 후아레스 내 정보원이 6시에 전화했어. 목요일 이후로 거기 사람들이 엘패소에서 누가 미국 놈들이랑 얘기하는지 묻고 다닌대. 이름을 대면서.
 
-127. ELIAS: Is he safe?
-    일라이어스: 그 사람 안전해?
+127. ELIAS: Is he safe? Tell me the truth, not the cable version.
+    일라이어스: 그 사람 안전해? 전문용 버전 말고 진짜로 말해.
 
 128. TOM: For now. And Marisol Peña, DEA, out of the Juárez office, wants his number for a case in Chihuahua. I told her no. She didn't like that.
     톰: 지금은. 그리고 DEA 후아레스 사무소의 마리솔 페냐가 치와와 사건 때문에 그 사람 번호를 달래. 안 된다고 했지. 기분 나빠하더라.
@@ -403,20 +403,20 @@
 129. ELIAS: Trust your instinct, Tom. Keep his name in your head and nowhere else.
     일라이어스: 네 직감을 믿어, 톰. 그 사람 이름은 네 머릿속에만 두고 다른 데엔 두지 마.
 
-130. TOM: Already there. How's the Minister?
-    톰: 이미 그래. 장관은 어때?
+130. TOM: Already there. How's the Minister? Did she do the map?
+    톰: 이미 그래. 장관은 어때? 지도 꺼냈어?
 
 131. ELIAS: Better than my Secretary. I'll call you tonight.
     일라이어스: 우리 장관보단 낫지. 밤에 전화할게.
 
-132. VALERIA: Before you go, Señor Grant, walk with me to the door. It faces the Alameda, and I like to remind visitors that this park is older than your country.
-    발레리아: 가시기 전에, 그랜트 씨, 문까지 같이 걸어요. 알라메다 공원을 마주 보고 있죠. 방문객들한테 이 공원이 당신네 나라보다 오래됐다는 걸 상기시키는 게 좋거든요.
+132. VALERIA: Before you go, walk with me to the door. It faces the Alameda, a park older than your country.
+    발레리아: 가시기 전에 문까지 같이 걸어요. 알라메다 공원을 마주 보고 있어요. 당신네 나라보다 오래된 공원이죠.
 
 133. ELIAS: Everything here is older than my country, Minister.
     일라이어스: 여기 있는 건 다 저희 나라보다 오래됐죠, 장관님.
 
-134. VALERIA: Not the river. Rivers are young. They move. In 1864 the Río Bravo moved south at El Paso, in a flood, and your country kept the land it left behind for a hundred years.
-    발레리아: 강은 아니에요. 강은 젊어요. 움직이죠. 1864년에 홍수로 리오브라보가 엘패소에서 남쪽으로 옮겨 갔고, 당신네 나라는 강이 남기고 간 땅을 백 년 동안 가지고 있었어요.
+134. VALERIA: Not the river. Rivers are young. In 1864 a flood moved the Río Bravo south at El Paso, and your country kept the land it left for a hundred years.
+    발레리아: 강은 아니에요. 강은 젊어요. 1864년에 홍수가 엘패소에서 리오브라보를 남쪽으로 옮겼고, 당신네 나라는 강이 남기고 간 땅을 백 년 동안 가지고 있었죠.
 
 135. ELIAS: The Chamizal.
     일라이어스: 차미잘이군요.
@@ -427,8 +427,8 @@
 137. ELIAS: A friend of mine's mother took her students there every year.
     일라이어스: 제 친구 어머님이 해마다 학생들을 거기 데려가셨대요.
 
-138. VALERIA: The famous Elena. I'd like to meet her one day. A woman who can catch a lie by listening to how a boy from Juárez yells is wasted in retirement.
-    발레리아: 그 유명한 엘레나군요. 언젠가 만나 보고 싶어요. 후아레스 남자애가 소리 지르는 방식만 듣고 거짓말을 잡아내는 사람을 은퇴시켜 두는 건 낭비예요.
+138. VALERIA: The famous Elena. I'd like to meet her one day. A woman who catches lies by listening to boys yell is wasted in retirement.
+    발레리아: 그 유명한 엘레나군요. 언젠가 만나 보고 싶어요. 남자애들 소리 지르는 걸 듣고 거짓말을 잡아내는 사람을 은퇴시켜 두는 건 낭비예요.
 
 139. ELIAS: I'll tell her. She'll probably want to feed you.
     일라이어스: 전해 드릴게요. 아마 장관님께 밥을 먹이고 싶어 하실 겁니다.
@@ -436,8 +436,8 @@
 140. VALERIA: Then I'll go hungry. Señor Grant, one more thing, and then you can catch your plane.
     발레리아: 그럼 배고픈 채로 가죠. 그랜트 씨, 하나만 더 하고 비행기 타러 가세요.
 
-141. ELIAS: Please.
-    일라이어스: 말씀하세요.
+141. ELIAS: Please. I've got time for one more.
+    일라이어스: 말씀하세요. 하나 더 들을 시간은 있습니다.
 
 142. VALERIA: Your Governor counts trucks. Your Secretary counts elections. My Senate counts insults. And none of them are counting the river.
     발레리아: 당신네 주지사는 트럭을 세요. 당신네 장관은 선거를 세고요. 우리 상원은 모욕을 세죠. 그런데 아무도 강을 세지 않아요.
@@ -448,14 +448,14 @@
 144. VALERIA: Water doesn't need a passport, Señor Grant. It crosses that line every day without asking either of our governments. People are the ones who need passports.
     발레리아: 물은 여권이 필요 없어요, 그랜트 씨. 우리 두 정부 어느 쪽에도 묻지 않고 날마다 그 선을 건너죠. 여권이 필요한 건 사람이에요.
 
-145. ELIAS: And trucks, apparently.
-    일라이어스: 트럭도 그런 모양이고요.
+145. ELIAS: And trucks, apparently, at least this month.
+    일라이어스: 트럭도 그런 모양이고요. 적어도 이번 달엔.
 
 146. VALERIA: And trucks. Bring me moving trucks and one number, and I'll bring you a schedule. Ya veremos.
     발레리아: 트럭도요. 움직이는 트럭과 숫자 하나를 가져오세요. 그럼 일정표를 드리죠. 야 베레모스.
 
-147. ELIAS: Your mother's or your father's?
-    일라이어스: 어머님 쪽입니까, 아버님 쪽입니까?
+147. ELIAS: Your mother's "ya veremos," or your father's?
+    일라이어스: 어머님의 '야 베레모스'입니까, 아버님의 것입니까?
 
 148. VALERIA: Ask me again at the end of June.
     발레리아: 6월 말에 다시 물어보세요.
