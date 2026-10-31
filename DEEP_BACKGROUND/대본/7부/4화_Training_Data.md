@@ -224,8 +224,8 @@
 070. MRS. OH: That's correct. Everyone on Georgia Avenue knows that.
     미세스 오: 맞아. 조지아 애비뉴 사람들은 다 알아.
 
-071. PRIYA: And it says, "Her husband, Jae-ho Oh, died in 2005. According to an obituary, he was a deacon at a Korean church in Silver Spring."
-    프리야: 그리고 "남편 재호 오 씨는 2005년에 사망했습니다. 부고에 따르면 실버스프링의 한 한인 교회 집사였습니다"래요.
+071. PRIYA: And it says, "Her husband, Jae-ho Oh, died in 2019. According to an obituary, he was a deacon at a Korean church in Silver Spring."
+    프리야: 그리고 "남편 재호 오 씨는 2019년에 사망했습니다. 부고에 따르면 실버스프링의 한 한인 교회 집사였습니다"래요.
 
 072. MRS. OH: That's correct too.
     미세스 오: 그것도 맞아.

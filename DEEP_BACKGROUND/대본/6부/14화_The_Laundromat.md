@@ -164,8 +164,8 @@
 050. GWEN: Because a receipt makes money look like it came from somewhere honest. That's what the word means, Grace. Money laundering. You take money that came from somewhere bad, and you make it look like it came from a laundromat.
     그웬: 영수증이 돈을 정직한 데서 온 것처럼 보이게 하니까요. 그게 그 말의 뜻이에요, 그레이스. 돈세탁. 나쁜 데서 온 돈을 가져다가 빨래방에서 온 것처럼 보이게 만드는 거죠.
 
-051. MRS. OH: My husband wanted to say yes. We had no money. Two children. I said no. He was angry for a week. Then he said, "You were right." Then he died twenty years later and never said it again.
-    미세스 오: 남편은 받고 싶어 했어. 돈이 없었거든. 애가 둘이었고. 난 거절했어. 남편이 일주일 화냈지. 그러고는 "당신이 맞았어"라고 했어. 그러고 20년 뒤에 죽을 때까지 다시는 그 말을 안 했어.
+051. MRS. OH: My husband wanted to say yes. We had no money. Two children. I said no. He was angry for a week. Then he said, "You were right." Then he lived thirty-four more years and never said it again.
+    미세스 오: 남편은 받고 싶어 했어. 돈이 없었거든. 애가 둘이었고. 난 거절했어. 남편이 일주일 화냈지. 그러고는 "당신이 맞았어"라고 했어. 그러고 34년을 더 살았는데 다시는 그 말을 안 했어.
 
 052. PRIYA: Once was enough.
     프리야: 한 번이면 충분하죠.

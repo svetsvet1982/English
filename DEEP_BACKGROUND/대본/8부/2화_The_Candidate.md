@@ -395,8 +395,8 @@
 127. GRACE: And his father's calendar is still on March 1994. The month he died.
     그레이스: 그리고 아버지 달력은 아직 1994년 3월이에요. 돌아가신 달.
 
-128. MRS. OH: My husband's coffee cup is still on the shelf. Since 2005. Nobody uses it.
-    미세스 오: 우리 남편 커피 잔도 아직 선반에 있어. 2005년부터. 아무도 안 써.
+128. MRS. OH: My husband's coffee cup is still on the shelf. Since 2019. Nobody uses it.
+    미세스 오: 우리 남편 커피 잔도 아직 선반에 있어. 2019년부터. 아무도 안 써.
 
 129. GRACE: Mrs. Oh.
     그레이스: 미세스 오.

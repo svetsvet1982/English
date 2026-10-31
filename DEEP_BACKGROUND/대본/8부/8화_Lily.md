@@ -452,8 +452,8 @@
 146. ROSA: Maybe. That word again. The word we never print unless we have a second source.
     로사: 어쩌면. 또 그 단어네. 두 번째 출처가 없으면 절대 안 싣는 단어.
 
-147. MRS. OH: Maybe is the worst word. I've lived with "maybe" for twenty-three years. Don't give Grace a "maybe."
-    미세스 오: 어쩌면이 제일 나쁜 단어야. 23년 동안 "어쩌면"이랑 살았어. 그레이스한테 "어쩌면"을 주지 마.
+147. MRS. OH: Maybe is the worst word. I've lived with "maybe" for nine years. Don't give Grace a "maybe."
+    미세스 오: 어쩌면이 제일 나쁜 단어야. 9년 동안 "어쩌면"이랑 살았어. 그레이스한테 "어쩌면"을 주지 마.
 
 148. ROSA: Okay.
     로사: 알았어요.
