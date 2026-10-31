@@ -233,8 +233,8 @@
 073. PAIGE: Can I ask you something? You seem like someone who's done a lot of jobs.
     페이지: 하나 물어봐도 돼요? 일을 많이 해 본 사람처럼 보여서요.
 
-074. DEZ: I have. Marines. Trucks. Other things.
-    데즈: 해 봤죠. 해병대. 트럭. 다른 것들.
+074. DEZ: I have. Army. Trucks. Other things.
+    데즈: 해 봤죠. 육군. 트럭. 다른 것들.
 
 075. PAIGE: Have you ever worked somewhere and felt like you were doing something you didn't sign up for?
     페이지: 어딘가에서 일하면서 동의한 적 없는 일을 하고 있는 기분 든 적 있어요?

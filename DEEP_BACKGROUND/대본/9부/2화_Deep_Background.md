@@ -374,8 +374,8 @@
 120. CAL: I know.
     칼: 알아.
 
-121. DEZ: In the Marines, we had a rule. You don't leave anyone on the road. Ray was on our road. We left him. Not on purpose. But we did.
-    데즈: 해병대에서 규칙이 있었어. 길 위에 아무도 두고 오지 않는다. 레이는 우리 길 위에 있었어. 우리가 두고 왔어. 일부러는 아니지만. 그래도 그랬어.
+121. DEZ: In the Army, we had a rule. You don't leave anyone on the road. Ray was on our road. We left him. Not on purpose. But we did.
+    데즈: 육군에서 규칙이 있었어. 길 위에 아무도 두고 오지 않는다. 레이는 우리 길 위에 있었어. 우리가 두고 왔어. 일부러는 아니지만. 그래도 그랬어.
 
 122. CAL: Dez.
     칼: 데즈.
