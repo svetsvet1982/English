@@ -145,8 +145,8 @@
 043. ELIAS: He thanked me by name. Twice, actually, in front of three cameras.
     일라이어스: 제 이름 부르며 고맙다고 했어요. 사실 두 번이요. 카메라 세 대 앞에서.
 
-044. MAGGIE: Twice, I imagine. He always thanks the people he's about to stand on. It keeps the shoes clean.
-    매기: 두 번쯤 했겠지. 그 사람은 밟고 올라설 사람한테 늘 고맙다고 해. 그래야 신발이 깨끗하거든.
+044. MAGGIE: Of course he did. He always thanks the people he's about to stand on. It keeps the shoes clean.
+    매기: 당연하지. 그 사람은 밟고 올라설 사람한테 늘 고맙다고 해. 그래야 신발이 깨끗하거든.
 
 045. ELIAS: I brought a card. The officer's looked at it. I'm not allowed to give it to you, so I'll read it.
     일라이어스: 카드 가져왔어요. 교정관이 이미 봤고요. 드릴 순 없으니까 읽어 드릴게요.
