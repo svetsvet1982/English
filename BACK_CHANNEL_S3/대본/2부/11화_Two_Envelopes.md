@@ -195,14 +195,14 @@
 059. LENA: Who?
     레나: 누구한테요?
 
-060. ELIAS: Whoever wins if those letters never get signed. People who'd rather send helicopters than lawyers.
-    일라이어스: 그 서한이 끝내 서명되지 않으면 이기는 사람들요. 변호사보다 헬리콥터를 보내고 싶은 사람들.
+060. ELIAS: Whoever wins if those letters never leave the safe. People who'd rather send helicopters than lawyers.
+    일라이어스: 그 서한이 끝내 금고에서 못 나오면 이기는 사람들요. 변호사보다 헬리콥터를 보내고 싶은 사람들.
 
 061. LENA: That's a theory, not a story.
     레나: 그건 이론이지 기사가 아니에요.
 
-062. ELIAS: Felt's garage was a theory for over thirty years. Ask yourself one thing. When did your source know we'd sign this month?
-    일라이어스: 펠트의 주차장도 30년 넘게 이론이었어요. 하나만 자문해 봐요. 당신 취재원은 우리가 이번 달에 서명한다는 걸 언제 알았을까요?
+062. ELIAS: Felt's garage was a theory for over thirty years. Ask yourself one thing. When did your source know we'd close this month?
+    일라이어스: 펠트의 주차장도 30년 넘게 이론이었어요. 하나만 자문해 봐요. 당신 취재원은 우리가 이번 달에 마무리한다는 걸 언제 알았을까요?
 
 063. LENA: Before I did. Before almost anyone did.
     레나: 나보다 먼저요. 거의 누구보다도 먼저.
@@ -330,8 +330,8 @@
 104. ELIAS: Then let's give him good news. Muscat?
     일라이어스: 그럼 좋은 소식을 줍시다. 무스카트는요?
 
-105. KAMRAN: The letters are still in the safe. Islamabad says the colonel can carry them again the week after Sizdah Bedar. Then the signatures, then the airplanes.
-    캄란: 서한은 아직 금고에 있어요. 이슬라마바드 말로는 대령이 시즈다 베다르 다음 주에 다시 나를 수 있대요. 그다음 서명, 그다음 비행기.
+105. KAMRAN: The letters are still in the safe. Islamabad says the colonel can carry them again the week after Sizdah Bedar. Then Oman signs its statement, then the airplanes.
+    캄란: 서한은 아직 금고에 있어요. 이슬라마바드 말로는 대령이 시즈다 베다르 다음 주에 다시 나를 수 있대요. 그다음 오만이 성명에 서명하고, 그다음 비행기.
 
 106. ELIAS: The second week of April.
     일라이어스: 4월 둘째 주네요.

@@ -39,8 +39,8 @@
 007. ELIAS: And Karimi and Saberi?
     일라이어스: 카리미와 사베리는요?
 
-008. NADIA: On the ground in Muscat since four a.m. local, in Omani custody. Sentences commuted Tuesday, removed overnight. Delaney won't let them board until Abedi's wheels are up.
-    나디아: 현지 시각 새벽 4시부터 무스카트 공항에 있어요. 오만이 데리고 있고요. 화요일에 감형, 밤사이 추방. 딜레이니는 아베디 씨 바퀴가 뜰 때까지 두 사람을 못 태우게 해요.
+008. NADIA: On the ground in Muscat since four a.m. local, in Omani custody. Both sentences commuted to time served on Tuesday, then immigration removed them overnight. Delaney won't let them board until Abedi's wheels are up.
+    나디아: 현지 시각 새벽 4시부터 무스카트 공항에 있어요. 오만이 데리고 있고요. 화요일에 둘 다 복역한 기간으로 감형됐고, 이민 당국이 밤사이 추방했어요. 딜레이니는 아베디 씨 바퀴가 뜰 때까지 두 사람을 못 태우게 해요.
 
 009. ELIAS: So both sides are waiting for the other to go first.
     일라이어스: 그러니까 양쪽 다 상대가 먼저 가길 기다리는 거네요.
@@ -66,8 +66,8 @@
 016. RANA: Colonel Rana here, also in Muscat. I have personally seen both men. Mr. Karimi asked for tea. Mr. Saberi asked for a lawyer. Pakistan has confirmed both identities to Tehran.
     라나: 라나 대령입니다. 저도 무스카트예요. 두 사람 다 제 눈으로 확인했습니다. 카리미 씨는 차를 달라 했고, 사베리 씨는 변호사를 달라 했죠. 파키스탄이 두 사람 신원을 테헤란에 확인해 줬습니다.
 
-017. ELIAS: Thank you, Colonel. Then the letters are signed, the men are real, and the planes are ready.
-    일라이어스: 고맙습니다, 대령님. 그럼 서한은 서명됐고, 사람들은 진짜고, 비행기는 준비됐네요.
+017. ELIAS: Thank you, Colonel. Then both letters are in Muscat, Oman's statement is signed, the men are real, and the planes are ready.
+    일라이어스: 고맙습니다, 대령님. 그럼 서한 두 통은 무스카트에 있고, 오만 성명엔 서명이 됐고, 사람들은 진짜고, 비행기는 준비됐네요.
 
 018. RANA: Everything is ready except courage. Pakistan carries letters, Mr. Grant. We do not push airplanes.
     라나: 용기만 빼고 다 준비됐죠. 파키스탄은 편지를 나릅니다, 그랜트 씨. 비행기를 밀지는 않아요.
@@ -124,7 +124,7 @@
     일라이어스: 그럼 4분만 쓸모 있게 해 드리죠. 아무도 먼저 안 갑니다. 테헤란도, 특사님도요. 그러니 누구한테도 먼저 가라고 하지 마세요.
 
 036. DELANEY: That's not a plan, Mr. Grant. That's a description of my morning.
-    딜레이니: 그건 계획이 아니에요, 그랜트 씨. 내 아침을 묘사한 거지.
+    딜레이니: 그건 계획이 아니에요, 그랜트 씨. 내 아침을 묘사한 거죠.
 
 037. ELIAS: Here's the plan. Both aircraft are Omani. Muscat names one minute. Both planes roll at that minute, one from Mehrabad, one from Muscat.
     일라이어스: 계획은 이래요. 두 비행기 다 오만 소속이에요. 무스카트가 1분을 정합니다. 그 1분에 두 비행기가 동시에 굴러가요. 하나는 메흐라바드에서, 하나는 무스카트에서.
@@ -312,11 +312,11 @@
 098. KAMRAN: Something came to my apartment this morning. A card. No name. Only a date. April eighth.
     캄란: 오늘 아침 제 아파트에 뭐가 왔어요. 카드 한 장. 이름은 없고, 날짜만. 4월 8일.
 
-099. ELIAS: I got one too. Postmarked Monday, before anyone had signed anything.
-    일라이어스: 저도 받았어요. 월요일 소인이에요. 아무도 서명하기 전이었죠.
+099. ELIAS: I got one too. Postmarked Monday, before Oman had signed anything.
+    일라이어스: 저도 받았어요. 월요일 소인이에요. 오만이 아무것도 서명하기 전이었죠.
 
-100. KAMRAN: She was sure, and I was not. She told me in Muscat that she will send one every April, for as long as she lives.
-    캄란: 그녀는 확신했고 저는 아니었죠. 무스카트에서 그러더군요. 살아 있는 한 매년 4월마다 한 장씩 보내겠다고.
+100. KAMRAN: She was sure, and I was not. She told me on the phone from Muscat that she will send one every April, for as long as she lives.
+    캄란: 그녀는 확신했고 저는 아니었죠. 무스카트에서 전화로 그러더군요. 살아 있는 한 매년 4월마다 한 장씩 보내겠다고.
 
 101. ELIAS: Where will you keep yours?
     일라이어스: 그 카드는 어디에 두실 거예요?

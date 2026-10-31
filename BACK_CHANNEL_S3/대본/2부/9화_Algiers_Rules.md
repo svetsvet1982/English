@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 9화 · 서사 기능: 세 번째 문(평행 서한) · 규칙을 깬 대가의 복선
 > - 배경: 몬트리올 미국 총영사관 4번 창구와 총영사실(2027년 3월 11일 목요일 오전) → 영사관 휴게실(점심, 메릴랜드와 통화) → 문 닫은 Chez Nour(밤 10시~다음 날 새벽 5시 20분, 눈) → Chez Nour 맞은편 주차된 차 안(3월 12일 금요일 새벽 5시 30분, 일라이어스 없는 장면)
-> - 등장인물: 일라이어스 그랜트, 피에르뤽 가뇽, 라미 하다드(누르의 조카, 비자 신청자), 글로리아 펨버턴, 줄리아 박그랜트(전화), 누르, 파리사 아베디, 캄란 테헤라니, 카버('로웰', 전화)
+> - 등장인물: 일라이어스 그랜트, 피에르뤽 가뇽, 라미 칼릴(누르의 조카, 비자 신청자), 글로리아 펨버턴, 줄리아 박그랜트(전화), 누르, 파리사 아베디, 캄란 테헤라니, 카버('로웰', 전화)
 > - 현실 모티프: 교전 중인 두 나라가 서로에게 서명하지 않고 제3국의 문서에 각자 동의하는 방식의 억류자 석방 협상(2026~27)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 알제 협정 (1981년 1월) — 캄란이 "미국은 알제에서 외교관 몸값으로 80억 달러를 냈다"고 하자 일라이어스가 바로잡는다. 그 돈은 동결된 이란 자산이었고, 절반 넘게 이란이 미국 은행에 진 빚과 분쟁 청구 예치금으로 바로 빠져나갔다. 미국과 이란은 서로 서명하지 않고 알제리 정부의 선언에 각자 따로 동의했다. 일라이어스는 이것을 '알제 규칙' 세 가지로 정리해 오늘 밤 문안의 뼈대로 쓴다.
@@ -23,8 +23,8 @@
 002. ELIAS: The one who listens to my lunches. Send him in.
     일라이어스: 내 점심 대화 엿듣는 그 애. 들여보내.
 
-003. RAMI: Good morning, sir. Rami Haddad. I'm applying for a J-1. Summer internship at a think tank in Washington.
-    라미: 안녕하세요. 라미 하다드입니다. J-1 비자 신청하러 왔어요. 워싱턴 싱크탱크 여름 인턴십이에요.
+003. RAMI: Good morning, sir. Rami Khalil. I'm applying for a J-1. Summer internship at a think tank in Washington.
+    라미: 안녕하세요. 라미 칼릴입니다. J-1 비자 신청하러 왔어요. 워싱턴 싱크탱크 여름 인턴십이에요.
 
 004. ELIAS: Which think tank?
     일라이어스: 어느 싱크탱크요?
@@ -44,8 +44,8 @@
 009. RAMI: US–Iran relations. My professor says the Algiers Accords were just a ransom with better lawyers.
     라미: 미·이란 관계요. 교수님은 알제 협정이 변호사만 더 좋은 몸값이었다고 하세요.
 
-010. ELIAS: Ask him whose money it was. Then ask him where most of it went. Approved, Mr. Haddad.
-    일라이어스: 그게 누구 돈이었는지 물어봐요. 그리고 대부분 어디로 갔는지도. 승인입니다, 하다드 씨.
+010. ELIAS: Ask him whose money it was. Then ask him where most of it went. Approved, Mr. Khalil.
+    일라이어스: 그게 누구 돈이었는지 물어봐요. 그리고 대부분 어디로 갔는지도. 승인입니다, 칼릴 씨.
 
 011. RAMI: That's it? No trick questions?
     라미: 끝이에요? 함정 질문 없어요?
@@ -236,14 +236,14 @@
 073. KAMRAN: You both know far too much about our money.
     캄란: 두 분 다 우리 돈에 대해 너무 많이 아시네요.
 
-074. ELIAS: In 1981, Americans and Iranians never signed a single page together. Each side signed the Algerian government's declarations, separately. Algeria owned the text.
-    일라이어스: 1981년에 미국과 이란은 종이 한 장도 같이 서명하지 않았어요. 각자 따로 알제리 정부의 선언에 서명했죠. 문안의 주인은 알제리였어요.
+074. ELIAS: In 1981, Americans and Iranians never signed a single page together. Each side assented to the Algerian government's declarations, separately. Algeria owned the text.
+    일라이어스: 1981년에 미국과 이란은 종이 한 장도 같이 서명하지 않았어요. 각자 따로 알제리 정부의 선언에 동의했죠. 문안의 주인은 알제리였어요.
 
 075. KAMRAN: And rule two?
     캄란: 그럼 둘째 규칙은?
 
-076. ELIAS: The mediator owns the text. Oman issues a statement in its own name. You write a letter to Oman. Washington writes a letter to Oman. Neither letter mentions the other.
-    일라이어스: 문안은 중재국이 갖는다. 오만이 자기 이름으로 성명을 내요. 당신은 오만에 서한을 쓰고, 워싱턴도 오만에 서한을 써요. 어느 서한도 상대를 언급하지 않아요.
+076. ELIAS: The mediator owns the text. Oman issues a statement in its own name, and only Oman signs it. You write a letter to Oman, Washington writes one to Oman, both unsigned. Neither letter mentions the other.
+    일라이어스: 문안은 중재국이 갖는다. 오만이 자기 이름으로 성명을 내고, 서명도 오만만 해요. 당신은 오만에 서한을 쓰고, 워싱턴도 오만에 서한을 써요. 둘 다 서명 없이요. 어느 서한도 상대를 언급하지 않아요.
 
 077. KAMRAN: Parallel letters. Two roads that never touch. And rule three?
     캄란: 평행 서한. 절대 만나지 않는 두 길. 셋째 규칙은?

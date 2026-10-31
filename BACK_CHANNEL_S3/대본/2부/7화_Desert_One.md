@@ -17,8 +17,8 @@
 
 ## 대본
 
-001. PIERRE-LUC: Twenty centimeters overnight, and the machine still gives us seven. Number seven, again?
-    피에르뤽: 밤새 눈이 20센티 왔는데 기계는 여전히 7번을 주네요. 또 7번이에요?
+001. PIERRE-LUC: First one through the door, before I even had my coat off, and the machine still gives us seven. Number seven, again?
+    피에르뤽: 제가 코트도 벗기 전에 첫 손님이 들어왔는데, 기계는 여전히 7번을 주네요. 또 7번이에요?
 
 002. ELIAS: It's loyal. Unlike the weather.
     일라이어스: 의리가 있는 거지. 날씨랑은 달리.

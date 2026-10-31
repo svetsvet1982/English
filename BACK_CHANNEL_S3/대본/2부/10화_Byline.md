@@ -148,7 +148,7 @@
     일라이어스: 공식 발언입니다. 저는 비자 담당관입니다. 비자에 도장을 찍습니다. 큰 글씨로 실어 주세요.
 
 044. LENA: That's not a comment, Mr. Grant. That's a job description.
-    레나: 그건 논평이 아니에요, 그랜트 씨. 직무 설명서지.
+    레나: 그건 논평이 아니에요, 그랜트 씨. 직무 설명서죠.
 
 045. ELIAS: In my case, it's both.
     일라이어스: 제 경우엔 둘 다예요.

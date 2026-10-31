@@ -227,8 +227,8 @@
 070. ELIAS: Islamabad called this morning. Colonel Rana. He brought proof of life. Pesteh bit the mailman.
     일라이어스: 오늘 아침 이슬라마바드가 전화했어요. 라나 대령. 생존 증거를 가져왔고요. 페스테가 집배원을 물었대요.
 
-071. KAMRAN: Good. So your lie has become a fact, and I have become a liar on your behalf. Congratulations to us both.
-    캄란: 다행이네요. 그러니까 당신 거짓말은 사실이 됐고, 나는 당신 대신 거짓말쟁이가 됐군요. 우리 둘 다 축하해요.
+071. KAMRAN: Good. And February ended with no trial date, so the judge stayed busy. Your lie has become a fact, and I have become a liar on your behalf. Congratulations to us both.
+    캄란: 다행이네요. 그리고 2월이 재판 날짜 없이 지나갔으니, 판사가 계속 바빴던 거죠. 당신 거짓말은 사실이 됐고, 나는 당신 대신 거짓말쟁이가 됐군요. 우리 둘 다 축하해요.
 
 072. ELIAS: You don't look like a man who's celebrating anything, Mr. Tehrani.
     일라이어스: 뭘 축하하는 사람 얼굴은 아니신데요, 테헤라니 씨.

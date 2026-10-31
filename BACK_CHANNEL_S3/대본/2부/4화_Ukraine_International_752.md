@@ -331,7 +331,7 @@
     일라이어스: 표현이 너무 험하네요.
 
 105. PARISA: It's an ugly idea. Laleh was twenty-six. She was flying back to her master's at Concordia. She had a thesis supervisor, a cat her roommate still feeds, and a seat in row nineteen.
-    파리사: 생각이 험하니까요. 랄레는 스물여섯이었어요. 콘코디아 석사 과정으로 돌아오는 길이었죠. 논문 지도 교수도 있었고, 룸메이트가 아직도 밥을 주는 고양이도 있었고, 19열에 자리도 있었어요.
+    파리사: 생각이 험하니까요. 랄레는 스물여섯이었어요. 콩코디아 석사 과정으로 돌아오는 길이었죠. 논문 지도 교수도 있었고, 룸메이트가 아직도 밥을 주는 고양이도 있었고, 19열에 자리도 있었어요.
 
 106. ELIAS: I know.
     일라이어스: 알아요.
