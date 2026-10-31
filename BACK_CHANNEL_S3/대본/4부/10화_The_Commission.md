@@ -12,7 +12,7 @@
 > - 전술 태그: [설득] [블러핑] [음모] [비밀] [유출]
 > - 이번 화의 핵심 표현: terms of reference / commission of inquiry / regret vs. apologize / rules of engagement / imminence / preservation letter / "Remains confident." / I wouldn't disagree. / certificate of dissolution / cooperating witness / plausible deniability
 > - 영사 업무 장면: 정부 대표로 출장 가는 사람은 B-1이 아니라 A-2(공무) 비자 — 외교 공한, 수수료 없음, 보통 면접 없음(011~036) · 뉘앙스 장면: 미국 성명의 "remains confident" — 일라이어스: "아직 아무도 확인 안 했다는 뜻"(046~047). 일라이어스의 이중부정 "I wouldn't disagree with that." — 레나: "2년 동안 '네'에 제일 가까이 간 말" / 일라이어스: "'아니요'를 사양했을 뿐, 작은 글씨로 실어라"(115~117). (위임 사항의 regret/apologize, 스페인어 lamentar는 7화 문구의 후속으로만 짚는다, 027~029)
-> - 복선/연결: 4부 7화 로사의 '틀린 창구', 합동 조사위원회 제안 → 이번 화 출범 · 4부 6화 피에르뤽의 자수와 글러브 박스 전화기 · 3부 12화 레나의 '캐시미어 코트' → 브리클 사무실 임대 서명자 "T. 로웰" · 1부 9~10화 마이애미 호텔 바의 '로웰' · 3부 11화 DS 메모 "received" 도장 · 4부 2화 블루워터(포트로더데일, 직원 40명) "아주 빨리 아주 작아져야" → 폐업 · 4부 7화 마시의 실언 "commercially available maritime data" → 4항 C호 · 4부 6화 일라이어스가 나디아에게만 말한 '코트 = 로웰' → 이번 화에 레나에게 · 1부 2화 오파로카 격납고 · 카버 "어느 층에서 왔는지는 안 묻는다"(시즌 1 7층 복선) → 4부 11화 감찰 결론, 피에르뤽 협조 증인
+> - 복선/연결: 4부 7화 로사의 '틀린 창구', 합동 조사위원회 제안 → 이번 화 출범 · 4부 6화 피에르뤽의 자수와 글러브 박스 전화기 · 3부 12화 레나의 '캐시미어 코트' → 브리클 사무실 임대 서명자 "T. 로웰" · 1부 9~10화 마이애미 호텔 바의 '로웰' · 3부 11화 DS 메모 "received" 도장 · 4부 2화 블루워터(포트로더데일, 직원 40명) "아주 빨리 아주 작아져야" → 폐업 · 4부 7화 프랫의 실언 "commercially available maritime data" → 4항 C호 · 4부 6화 일라이어스가 나디아에게만 말한 '코트 = 로웰' → 이번 화에 레나에게 · 1부 2화 오파로카 격납고 · 카버 "어느 층에서 왔는지는 안 묻는다"(시즌 1 7층 복선) → 4부 11화 감찰 결론, 피에르뤽 협조 증인
 
 ---
 
@@ -99,8 +99,8 @@
 027. INES: There is no apology. Paragraph one says the United States "regrets the loss of life." Your lawyers chose that verb with tweezers.
     이네스: 사과는 없어요. 1항에 미국은 "인명 손실을 유감으로 여긴다"고 돼 있어요. 미국 변호사들이 그 동사를 핀셋으로 골랐죠.
 
-028. ELIAS: In English, "regret" means I'm sad it happened. "Apologize" means I'm the one who did it. One costs nothing at all, and the other one costs a lawsuit in Florida.
-    일라이어스: 영어에서 "regret"은 그 일이 일어나서 유감이라는 뜻이에요. "apologize"는 그걸 한 게 나라는 뜻이고요. 하나는 한 푼도 안 들고, 다른 하나는 플로리다에서 소송값이 들죠.
+028. ELIAS: Rosa already taught me that one. "Regret" is the weather. "Apologize" is a lawsuit in Florida.
+    일라이어스: 그건 로사 씨가 벌써 가르쳐 줬어요. "regret"은 날씨예요. "apologize"는 플로리다에서의 소송이고요.
 
 029. INES: In Spanish we say "lamentar," which covers both, so the Ecuadorian text sounds kinder than yours. Rosa will read the English one.
     이네스: 스페인어로는 "lamentar"라고 하는데, 그게 둘 다를 덮어요. 그래서 에콰도르 쪽 문안이 미국 쪽보다 다정하게 들려요. 로사는 영어본을 읽을 거고요.
@@ -246,8 +246,8 @@
 076. ELIAS: Then tell him it's two sentences. Deputy ministers like short sentences they can blame on someone else.
     일라이어스: 그럼 두 문장짜리라고 하세요. 차관들은 남 탓으로 돌릴 수 있는 짧은 문장을 좋아하거든요.
 
-077. GLORIA: Meanwhile, I'm going to call Owen Marsh in Washington and ask whether his office objects.
-    글로리아: 그동안 난 워싱턴의 오언 마시한테 전화해서 그쪽 실이 반대하는지 물어볼게요.
+077. GLORIA: Meanwhile, I'm going to call Douglas Pratt in Washington and ask whether his office objects.
+    글로리아: 그동안 난 워싱턴의 더글러스 프랫한테 전화해서 그쪽 실이 반대하는지 물어볼게요.
 
 078. ELIAS: He'll tell you he's not in a position to comment on commercial vendors.
     일라이어스: 상업 업체에 대해선 언급할 위치가 아니라고 할 거예요.
@@ -474,7 +474,7 @@
 
 - **terms of reference** — (위원회의) 위임 사항, 조사 범위 / the terms of reference were finalized at three this morning (021)
 - **provenance of targeting information** — 표적 정보의 출처·내력 (023)
-- **regret vs. apologize** — "유감이다"(일어난 일이 안타깝다)와 "사과한다"(내가 했다). 하나는 공짜, 하나는 소송값 (027~029)
+- **regret vs. apologize** (7화 복습) — "regret"은 날씨(로사의 말), "apologize"는 소송값 (027~029)
 - **A-2 visa / diplomatic note** — 공무 비자 / 외교 공한. 정부 대표 출장은 B-1이 아니다 (014)
 - **rules of engagement** — 교전 규칙 / complied with the rules of engagement (046)
 - **"Remains confident."** — "여전히 확신한다" = 아직 아무도 확인 안 했다 (047)

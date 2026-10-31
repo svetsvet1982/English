@@ -10,8 +10,8 @@
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 웹스터–애시버턴 교섭(1841~42)과 캐롤라인 기준 — 일라이어스가 1841년 웹스터의 문장("instant, overwhelming, leaving no choice of means, and no moment for deliberation")을 외워 글로리아와 나디아 앞에서 읊고, 이틀 넘게 배를 추적했다면 '숙고할 시간이 없었다'는 말은 성립하지 않는다고 설득한다. 1842년 애시버턴이 "즉시 해명과 사과가 없었던 것이 유감"이라고 쓴 '사과하지 않은 사과'로 regret/apologize의 차이를 짚는다
 > - 전술 태그: [설득] [비밀] [유출] [공갈] [블러핑]
-> - 이번 화의 핵심 표현: the Caroline test / instant, overwhelming, leaving no choice of means, and no moment for deliberation / imminence / self-defense / regret vs. apologize / pattern of life / AIS gap / commission of inquiry / plausible deniability
-> - 영사 업무 장면: 해양학 박사과정생의 J-1(교환 방문자) 인터뷰와 DS-2019 확인(003~030) · 뉘앙스 장면: 미국의 "The United States regrets any loss of innocent life"를 두고 나디아가 regret(유감)과 apologize(사과)의 차이를 풀고, 일라이어스가 1842년 애시버턴의 문장으로 받는다(054~059). 밤에 줄리아가 법정에서 "I regret"과 "I'm responsible"의 값을 덧붙인다(140~142)
+> - 이번 화의 핵심 표현: the Caroline test / instant, overwhelming, leaving no choice of means, and no moment for deliberation / imminence / self-defense / regrets … and maintains / pattern of life / AIS gap / commission of inquiry / plausible deniability
+> - 영사 업무 장면: 해양학 박사과정생의 J-1(교환 방문자) 인터뷰와 DS-2019 확인(003~030) · 뉘앙스 장면: 미국의 "The United States regrets any loss of innocent life"를 두고 나디아가 "regrets(유감)… and maintains(입장 유지)"의 두 반쪽을 풀고(앞은 유족용, 뒤는 변호사용 — regret/sorry/apologize의 본격 구분은 7화), 일라이어스가 1842년 애시버턴의 문장으로 받는다(054~059). 밤에 줄리아가 법정에서 "I regret"과 "I'm responsible"의 값을 덧붙인다(140~142)
 > - 복선/연결: 1화 로사의 "과부가 되려면 누군가 인정해 줘야 한다"(라디오캐나다 → 하원 질의) · 1화 피에르뤽이 전달한 'CAN' 한 줄이 동맹국 요약 문서에 'CAN national aboard'로 남아 오타와에 샜다 → 일라이어스는 쏟아진 커피를 떠올리지만 말하지 않는다(4부 6화 자백) · 카버의 "회사가 아주 빨리 아주 작아져야 할 수도"(4부 10화 블루워터 4시간 폐업) · 캐나다의 카리브 작전(CARIBBE) 정보 공유 중단 카드 · 세 번째 문의 씨앗: 캐나다가 미국에 '미국이 쓴 기준'으로 묻는다(4부 7화 합동 조사위원회 제안)
 
 ---
@@ -180,8 +180,8 @@
 054. GLORIA: Washington put out a second statement on Saturday. "The United States regrets any loss of innocent life, and maintains that the strike was conducted lawfully."
     글로리아: 워싱턴이 토요일에 두 번째 성명을 냈어요. "미국은 무고한 인명 손실에 유감을 표하며, 이번 타격은 합법적으로 수행되었다는 입장을 유지한다."
 
-055. NADIA: "Regrets." Ottawa noticed the word. If you regret something, you're sad it happened. If you apologize, you're saying you did something wrong. Washington chose very carefully.
-    나디아: "유감." 오타와도 그 단어를 봤어요. 유감은 그 일이 일어나서 안타깝다는 거고, 사과는 내가 잘못했다는 거예요. 워싱턴은 아주 신중하게 골랐죠.
+055. NADIA: Ottawa read it twice. Half a sentence for the widow, half for the lawyers. Only the second half has a verb Washington will defend.
+    나디아: 오타와는 두 번 읽었어요. 반 문장은 과부한테, 반 문장은 변호사들한테. 워싱턴이 지킬 동사는 뒤쪽 반에만 있죠.
 
 056. ELIAS: And "any loss of innocent life" admits nothing. It's a sympathy card addressed to nobody.
     일라이어스: 그리고 "무고한 인명 손실"은 아무것도 인정하지 않아요. 받는 사람 없는 위로 카드죠.
@@ -476,7 +476,7 @@
 - **instant, overwhelming, leaving no choice of means, and no moment for deliberation** — 즉각적이고 압도적이며, 다른 수단을 고를 여지도 숙고할 순간도 없는 (070, 074~075)
 - **nothing unreasonable or excessive** — 비합리적이거나 과도한 것이 없을 것(비례성) (073)
 - **The United States regrets any loss of innocent life.** — 미국은 무고한 인명 손실에 유감을 표한다 = 슬프지만 잘못은 인정하지 않는다 (054~056)
-- **regret vs. apologize** — 유감(일어난 일이 안타깝다) vs 사과(내가 잘못했다) (055, 058~059)
+- **regrets … and maintains …** — 반 문장은 유족에게, 반 문장은 변호사에게. 워싱턴이 지킬 동사는 뒤쪽뿐 (055)
 - **He apologized for not apologizing.** — 사과하지 않은 걸 사과했다(1842년 애시버턴) (058)
 - **AIS gap** — 선박 자동식별장치 신호 공백 (016)
 - **pattern of life** — 생활 패턴 분석(표적의 일상 움직임을 장기 추적하는 정보 기법) (046)

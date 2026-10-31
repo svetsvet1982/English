@@ -396,8 +396,8 @@
 126. MAGGIE: And the third.
     매기: 세 번째는.
 
-127. CHIEF: It says that when asylum shelters political friends, real refugees pay for it, and that one day we will be asked why we let them.
-    비서실장: 망명이 정치적 친구를 감싸 주면 진짜 난민이 그 대가를 치르고, 언젠가 우리가 왜 그걸 내버려 뒀는지 질문받게 될 거라고요.
+127. CHIEF: "Shelter, Not a Favor." When asylum becomes a favor for a friend, he says, strangers pay the bill. "It is never paid by the friend."
+    비서실장: "은신처이지 호의가 아니다." 망명이 친구를 위한 호의가 되면 그 청구서는 낯선 사람들이 낸다고요. "친구는 결코 내지 않는다."
 
 128. MAGGIE: Kennan sent five parts from Moscow because the Treasury asked him one question. Elias sent three, and nobody in this building asked him anything. Not once. Not me.
     매기: 케넌은 재무부가 질문 하나를 했다고 모스크바에서 다섯 부분을 보냈지. 일라이어스는 세 통을 보냈는데, 이 건물에선 아무도 걔한테 아무것도 묻지 않았어. 한 번도. 나도.
@@ -462,8 +462,8 @@
 148. MAGGIE: No. Some things are better delivered in person. And one or two are better not delivered at all.
     매기: 아니. 어떤 건 직접 전하는 게 나아. 그리고 한두 개는 아예 안 전하는 게 낫고.
 
-149. CHIEF: What do you need from me, Deputy Secretary?
-    비서실장: 제가 뭘 해 드리면 될까요, 부장관님?
+149. CHIEF: I can clear tomorrow. What do you need from me, Deputy Secretary?
+    비서실장: 내일 일정은 비워 둘 수 있어요. 제가 뭘 해 드리면 될까요, 부장관님?
 
 150. MAGGIE: Book me on the first flight to Montreal. And find out which window he's at.
     매기: 몬트리올행 첫 비행기 잡아 줘. 그리고 걔가 몇 번 창구에 있는지 알아봐.

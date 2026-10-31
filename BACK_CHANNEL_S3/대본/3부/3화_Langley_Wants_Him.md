@@ -195,8 +195,8 @@
 059. GLORIA: Elias, you're touching your wallet again. You do that when you're about to correct someone.
     글로리아: 일라이어스, 또 지갑 만지네요. 누구 말을 정정하기 직전에 그러더라.
 
-060. ELIAS: There used to be a postcard here. Glienicke Bridge. I left it in Washington in a box that went to the wrong office.
-    일라이어스: 여기 엽서가 있었어요. 글리니케 다리. 워싱턴에 두고 왔어요. 엉뚱한 사무실로 간 상자 속에.
+060. ELIAS: There used to be a postcard here. Glienicke Bridge. I left it in my Moscow desk, and the movers sent it to the wrong office.
+    일라이어스: 여기 엽서가 있었어요. 글리니케 다리. 모스크바 책상에 두고 왔는데, 이삿짐센터가 엉뚱한 사무실로 보냈죠.
 
 061. MERCER: Then you know I'm right. Abel for Powers, February 1962. A clean trade.
     머서: 그럼 내 말이 맞는다는 것도 알겠네요. 아벨과 파워스, 1962년 2월. 깔끔한 교환이었죠.

@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 4부 3화 · 서사 기능: 두 번째 위기 도입(중국계 통신 임원 인도 요청) · 인질 외교의 시작 · 몬테이루의 반격
 > - 배경: 2027년 9월 30일 목요일, 흐리고 쌀쌀함. 오전 8시 50분 영사관 4번 창구 → 같은 시각 창구 뒤 전화(오타와 대사관 법무관) → 오후 4시 반 총영사실 → 저녁 6시 (일라이어스 없는 장면) 마이애미 코럴게이블스, 몬테이루의 임대 저택 운하 쪽 테라스 → 밤 8시 Chez Nour 뒷방(데이턴과 통화) → 밤 11시 40분 플라토의 일라이어스 아파트(나디아의 전화)
-> - 등장인물: 일라이어스 그랜트, 피에르뤽 가뇽, 쉬 란(노스스타 링크콤 부사장), 벤 케슬러(주캐나다 미국 대사관 법무관, 전화), 글로리아 펨버턴 총영사, 나디아 쿠리(CSIS), 하파엘 몬테이루 상원의원, 카버, 누르, 프랭크 그랜트(전화)
+> - 등장인물: 일라이어스 그랜트, 피에르뤽 가뇽, 쉬 란(노스스타 링크콤 부사장), 벤 할로런(주캐나다 미국 대사관 법무관, 전화), 글로리아 펨버턴 총영사, 나디아 쿠리(CSIS), 하파엘 몬테이루 상원의원, 카버, 누르, 프랭크 그랜트(전화)
 > - 현실 모티프: 중국계 통신 기업에 대한 미국의 제재·수출 통제 집행과, 동맹국에 있는 기업 임원의 신병을 둘러싼 외교 갈등(2026)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 멍완저우 체포와 '두 마이클' 구금(2018~2021) — 나디아가 "캐나다는 이 영화를 이미 봤다"며 글로리아와 일라이어스에게 2018년 12월 1일 밴쿠버 공항 체포, 열흘도 안 돼 구금된 두 캐나다인, 1,019일, 2021년 9월 24일 기소 유예 합의와 같은 날의 석방을 들려준다. 경고이자, 이번엔 '예정된 결말'을 처음부터 찾자는 설득이다. 몬테이루는 같은 사건을 "중국에 맞선 서방"의 서사로 비튼다
@@ -63,41 +63,41 @@
 015. XU: Everybody says "routine" when it isn't. In every language. Take your time.
     쉬 란: 다들 일상적이지 않을 때 "일상적"이라고 하죠. 어느 언어로든요. 천천히 하세요.
 
-016. KESSLER: Kessler, Justice Department, embassy in Ottawa. You're calling about a lookout, I assume.
-    케슬러: 케슬러입니다. 법무부, 오타와 대사관이요. 조회 메모 때문에 전화하신 거겠죠.
+016. HALLORAN: Halloran, Justice Department, embassy in Ottawa. You're calling about a lookout, I assume.
+    할로런: 할로런입니다. 법무부, 오타와 대사관이요. 조회 메모 때문에 전화하신 거겠죠.
 
 017. ELIAS: Elias Grant, visa section, Montreal. The note says "Prior to adjudication, contact DOJ liaison." I have Xu Lan at my window.
     일라이어스: 몬트리올 비자과 일라이어스 그랜트입니다. 메모에 "판정 전 법무부 연락관에게 연락할 것"이라고 돼 있어요. 지금 제 창구에 쉬 란 씨가 있어요.
 
-018. KESSLER: Good. Is her application complete?
-    케슬러: 좋아요. 신청 서류는 다 갖췄어요?
+018. HALLORAN: Good. Is her application complete?
+    할로런: 좋아요. 신청 서류는 다 갖췄어요?
 
 019. ELIAS: Perfectly complete. Eleven prior trips. A board meeting in New York on the twelfth.
     일라이어스: 완벽하게요. 이전 방문 열한 번. 12일에 뉴욕 이사회.
 
-020. KESSLER: Then issue the visa. Today, if you can. Be friendly. Wish her a pleasant trip.
-    케슬러: 그럼 비자 내주세요. 가능하면 오늘. 친절하게요. 즐거운 여행 되라고 해 주시고.
+020. HALLORAN: Then issue the visa. Today, if you can. Be friendly. Wish her a pleasant trip.
+    할로런: 그럼 비자 내주세요. 가능하면 오늘. 친절하게요. 즐거운 여행 되라고 해 주시고.
 
 021. ELIAS: You want her on a plane to JFK on the eleventh.
     일라이어스: 11일에 JFK행 비행기에 태우고 싶으신 거군요.
 
-022. KESSLER: I want you to adjudicate the application on its merits, which you've just told me are excellent.
-    케슬러: 신청을 실질에 따라 판정해 달라는 거예요. 방금 아주 훌륭하다고 하셨잖아요.
+022. HALLORAN: I want you to adjudicate the application on its merits, which you've just told me are excellent.
+    할로런: 신청을 실질에 따라 판정해 달라는 거예요. 방금 아주 훌륭하다고 하셨잖아요.
 
 023. ELIAS: And when she lands, someone from your department meets her at the jet bridge.
     일라이어스: 그리고 그분이 내리면 법무부 사람이 탑승교에서 맞이하겠죠.
 
-024. KESSLER: I'm not going to discuss an ongoing matter with a visa officer on an open line, Mr. Grant.
-    케슬러: 공개 회선으로 비자 담당관이랑 진행 중인 사안을 논의하진 않겠습니다, 그랜트 씨.
+024. HALLORAN: I'm not going to discuss an ongoing matter with a visa officer on an open line, Mr. Grant.
+    할로런: 공개 회선으로 비자 담당관이랑 진행 중인 사안을 논의하진 않겠습니다, 그랜트 씨.
 
 025. ELIAS: Then let me ask a visa officer's question. Is there a legal ground to refuse her?
     일라이어스: 그럼 비자 담당관다운 질문을 할게요. 거절할 법적 근거가 있습니까?
 
-026. KESSLER: No. That's the point. Issue it. And Grant? Your file is already thick. Don't make it thicker over a businesswoman.
-    케슬러: 없어요. 그게 핵심이에요. 내주세요. 그리고 그랜트 씨? 당신 파일은 이미 두꺼워요. 사업가 한 명 때문에 더 두껍게 만들지 마세요.
+026. HALLORAN: No. That's the point. Issue it. And Grant? Your file is already thick. Don't make it thicker over a businesswoman.
+    할로런: 없어요. 그게 핵심이에요. 내주세요. 그리고 그랜트 씨? 당신 파일은 이미 두꺼워요. 사업가 한 명 때문에 더 두껍게 만들지 마세요.
 
-027. ELIAS: Thank you, Mr. Kessler. I'll adjudicate it on its merits.
-    일라이어스: 감사합니다, 케슬러 씨. 실질에 따라 판정하겠습니다.
+027. ELIAS: Thank you, Mr. Halloran. I'll adjudicate it on its merits.
+    일라이어스: 감사합니다, 할로런 씨. 실질에 따라 판정하겠습니다.
 
 028. XU: Your call was short. That's usually bad news, or very good news.
     쉬 란: 통화가 짧았네요. 대개 나쁜 소식이거나, 아주 좋은 소식이죠.
@@ -159,50 +159,50 @@
 047. ELIAS: The yellow screen writes itself. It always does.
     일라이어스: 노란 화면은 알아서 기록돼. 늘 그래.
 
-048. KESSLER: She withdrew. At nine-forty. Twenty minutes after you called me. What did you say to her, Grant?
-    케슬러: 철회했더군요. 아홉 시 사십 분에. 당신이 나한테 전화하고 20분 뒤에. 그 여자한테 뭐라고 했어요, 그랜트 씨?
+048. HALLORAN: She withdrew. At nine-forty. Twenty minutes after you called me. What did you say to her, Grant?
+    할로런: 철회했더군요. 아홉 시 사십 분에. 당신이 나한테 전화하고 20분 뒤에. 그 여자한테 뭐라고 했어요, 그랜트 씨?
 
-049. GLORIA: Mr. Kessler, you're on speaker in my office. I'm Gloria Pemberton, the consul general. You'll address my officer through me.
-    글로리아: 케슬러 씨, 지금 내 방 스피커폰이에요. 총영사 글로리아 펨버턴입니다. 내 직원한텐 나를 통해서 말하세요.
+049. GLORIA: Mr. Halloran, you're on speaker in my office. I'm Gloria Pemberton, the consul general. You'll address my officer through me.
+    글로리아: 할로런 씨, 지금 내 방 스피커폰이에요. 총영사 글로리아 펨버턴입니다. 내 직원한텐 나를 통해서 말하세요.
 
-050. KESSLER: Then ask him through you, Consul General. What did he say?
-    케슬러: 그럼 총영사님을 통해서 물어보죠. 그 사람이 뭐라고 했습니까?
+050. HALLORAN: Then ask him through you, Consul General. What did he say?
+    할로런: 그럼 총영사님을 통해서 물어보죠. 그 사람이 뭐라고 했습니까?
 
 051. ELIAS: I told her the application was complete, that there was no ground to refuse it, and that whether she traveled was her decision. All three are true.
     일라이어스: 서류가 다 갖춰졌다, 거절할 근거가 없다, 여행 여부는 본인 결정이다, 이렇게 말했어요. 셋 다 사실이고요.
 
-052. KESSLER: You tipped off the subject of a federal investigation.
-    케슬러: 연방 수사 대상자한테 귀띔을 했군요.
+052. HALLORAN: You tipped off the subject of a federal investigation.
+    할로런: 연방 수사 대상자한테 귀띔을 했군요.
 
 053. ELIAS: I read her a sentence from the visa manual. If she heard something else in it, that's a problem with the visa manual.
     일라이어스: 비자 매뉴얼 문장을 읽어 줬을 뿐이에요. 그분이 거기서 다른 걸 들었다면, 그건 매뉴얼 문제죠.
 
-054. KESSLER: The IG will enjoy that answer.
-    케슬러: 감찰관이 그 대답을 좋아하겠네요.
+054. HALLORAN: The IG will enjoy that answer.
+    할로런: 감찰관이 그 대답을 좋아하겠네요.
 
-055. ELIAS: Every word at window four is on camera, Mr. Kessler. Shall I send the IG the recording? I'll copy you.
-    일라이어스: 4번 창구에서 한 말은 전부 카메라에 있어요, 케슬러 씨. 감찰관한테 녹화본 보낼까요? 당신도 참조로 넣을게요.
+055. ELIAS: Every word at window four is on camera, Mr. Halloran. Shall I send the IG the recording? I'll copy you.
+    일라이어스: 4번 창구에서 한 말은 전부 카메라에 있어요, 할로런 씨. 감찰관한테 녹화본 보낼까요? 당신도 참조로 넣을게요.
 
-056. GLORIA: Nobody is sending anyone a recording. Mr. Kessler, what happened after nine-forty?
-    글로리아: 아무도 누구한테 녹화본 안 보내요. 케슬러 씨, 아홉 시 사십 분 이후엔 무슨 일이 있었죠?
+056. GLORIA: Nobody is sending anyone a recording. Mr. Halloran, what happened after nine-forty?
+    글로리아: 아무도 누구한테 녹화본 안 보내요. 할로런 씨, 아홉 시 사십 분 이후엔 무슨 일이 있었죠?
 
-057. KESSLER: We moved to the alternative. At one-ten we transmitted a request for provisional arrest to the Canadian Department of Justice. The RCMP arrested Ms. Xu at her office at five past three.
-    케슬러: 대안으로 갔습니다. 한 시 십 분에 캐나다 법무부에 임시 체포 요청을 보냈고, RCMP가 세 시 오 분에 쉬 씨를 사무실에서 체포했어요.
+057. HALLORAN: We moved to the alternative. At one-ten we transmitted a request for provisional arrest to the Canadian Department of Justice. The RCMP arrested Ms. Xu at her office at five past three.
+    할로런: 대안으로 갔습니다. 한 시 십 분에 캐나다 법무부에 임시 체포 요청을 보냈고, RCMP가 세 시 오 분에 쉬 씨를 사무실에서 체포했어요.
 
 058. ELIAS: So the alternative was already written. When?
     일라이어스: 그러니까 대안은 이미 써 두셨군요. 언제요?
 
-059. KESSLER: That isn't your concern. The charges are public as of four o'clock. Conspiracy to export American network equipment to Iran through a distributor in Kuala Lumpur, and bank fraud.
-    케슬러: 그건 당신이 신경 쓸 일이 아니에요. 혐의는 네 시부터 공개됐어요. 쿠알라룸푸르 유통업체를 통해 미국산 네트워크 장비를 이란에 수출한 공모, 그리고 은행 사기.
+059. HALLORAN: That isn't your concern. The charges are public as of four o'clock. Conspiracy to export American network equipment to Iran through a distributor in Kuala Lumpur, and bank fraud.
+    할로런: 그건 당신이 신경 쓸 일이 아니에요. 혐의는 네 시부터 공개됐어요. 쿠알라룸푸르 유통업체를 통해 미국산 네트워크 장비를 이란에 수출한 공모, 그리고 은행 사기.
 
-060. GLORIA: Thank you, Mr. Kessler. I'll put my officer's account in writing and send it to you myself.
-    글로리아: 고마워요, 케슬러 씨. 내 직원 진술은 서면으로 내가 직접 보낼게요.
+060. GLORIA: Thank you, Mr. Halloran. I'll put my officer's account in writing and send it to you myself.
+    글로리아: 고마워요, 할로런 씨. 내 직원 진술은 서면으로 내가 직접 보낼게요.
 
-061. KESSLER: Do that. And Consul General, tell your officer that the next lookout he sees, he follows.
-    케슬러: 그렇게 하세요. 그리고 총영사님, 다음에 조회 메모가 뜨면 그대로 따르라고 직원한테 전하세요.
+061. HALLORAN: Do that. And Consul General, tell your officer that the next lookout he sees, he follows.
+    할로런: 그렇게 하세요. 그리고 총영사님, 다음에 조회 메모가 뜨면 그대로 따르라고 직원한테 전하세요.
 
-062. GLORIA: He did follow it, Mr. Kessler. He called you. Good afternoon.
-    글로리아: 따랐어요, 케슬러 씨. 당신한테 전화했잖아요. 좋은 오후 되세요.
+062. GLORIA: He did follow it, Mr. Halloran. He called you. Good afternoon.
+    글로리아: 따랐어요, 할로런 씨. 당신한테 전화했잖아요. 좋은 오후 되세요.
 
 063. ELIAS: Thank you.
     일라이어스: 감사합니다.
@@ -285,8 +285,8 @@
 089. NADIA: Or at the same moment. Either way, a man in Miami is using a Canadian arrest to sell himself to Washington.
     나디아: 아니면 같은 순간에요. 어느 쪽이든, 마이애미의 한 남자가 캐나다의 체포를 이용해 워싱턴에 자기를 팔고 있어요.
 
-090. GLORIA: Then he and Mr. Kessler should have lunch. They'd get along.
-    글로리아: 그럼 그 사람이랑 케슬러 씨가 점심이라도 하면 되겠네요. 잘 맞을 거예요.
+090. GLORIA: Then he and Mr. Halloran should have lunch. They'd get along.
+    글로리아: 그럼 그 사람이랑 할로런 씨가 점심이라도 하면 되겠네요. 잘 맞을 거예요.
 
 091. MONTEIRO: Did you see them, Mr. Carver? Four networks. Two of them in English. "Brazil stands with its friends." It played in Washington before dinner. My phone hasn't stopped since.
     몬테이루: 봤습니까, 카버 씨? 방송사 네 곳이에요. 그중 둘은 영어 방송. "브라질은 친구들 곁에 선다." 워싱턴에서 저녁 먹기 전에 나갔어요. 그 뒤로 전화가 멈추질 않아요.

@@ -66,8 +66,8 @@
 016. LUISA: And Miami? Hypothetically. I'd like to stand outside his house with a sign.
     루이자: 마이애미는요? 가정해서요. 그 사람 집 앞에 팻말 들고 서 보고 싶어서요.
 
-017. ELIAS: Hypothetically, you'd need a visa for that, and you'd have to apply at this window, in person. I would refuse you myself, very politely, and I'd give you a written explanation.
-    일라이어스: 가정해서 말하자면, 그러려면 비자가 필요하고, 이 창구에서 직접 신청해야 해요. 그럼 제가 직접 아주 정중하게 거절하고, 사유서도 써 드릴 거예요.
+017. ELIAS: Hypothetically, his judge hasn't ruled yet; she has until the thirty-first. And you'd need a visa from this window. I'd refuse you myself, very politely, in writing.
+    일라이어스: 가정해서 말하자면, 그 사람 판사는 아직 결정 안 했어요. 31일까지 시간이 있죠. 그리고 이 창구에서 비자를 받아야 해요. 그럼 제가 직접 아주 정중하게, 서면으로 거절할 거예요.
 
 018. LUISA: Under what?
     루이자: 무슨 조항으로요?
@@ -414,8 +414,8 @@
 132. ROSIE: Where are you going to put it? Your wallet still has that empty slot. You touch it when you think nobody's looking.
     로지: 그거 어디 둘 거야? 아빠 지갑에 아직 그 빈 칸 있잖아. 아무도 안 본다고 생각할 때 만지는 거.
 
-133. ELIAS: I don't— okay. I do. There. It fits.
-    일라이어스: 안 그— 그래. 만져. 자. 딱 맞네.
+133. ELIAS: I don't— okay. I do. There. It fits. For now.
+    일라이어스: 안 그— 그래. 만져. 자. 딱 맞네. 일단은.
 
 134. ROSIE: That's kind of sad and kind of cute. Mom says you still owe her for the deferred-prosecution lecture, by the way.
     로지: 좀 슬프고 좀 귀엽다. 아, 엄마가 기소 유예 합의 강의 값 아직 안 갚았대.

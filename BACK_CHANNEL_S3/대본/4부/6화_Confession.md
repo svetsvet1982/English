@@ -325,7 +325,7 @@
     나디아: 로널드 펠턴은 전직 NSA 분석관이었고, 빚더미에 파산 상태였어요. 워싱턴의 소련 대사관에 걸어 들어가서 '아이비 벨스'라는 작전을 팔았죠. 해저 케이블 도청이요.
 
 103. PIERRE-LUC: For how much?
-    피에르뤽: 얼마에요?
+    피에르뤽: 얼마예요?
 
 104. NADIA: About thirty-five thousand dollars over several years. He got a life sentence. When the FBI finally sat him down, he tried to be clever. He told them half, hoping half would be enough.
     나디아: 몇 년에 걸쳐 3만 5천 달러 남짓이요. 종신형을 받았어요. FBI가 마침내 그를 앉혀 놓았을 때, 그는 똑똑하게 굴려고 했어요. 반만 말했죠. 반이면 충분하길 바라면서.
