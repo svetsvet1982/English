@@ -10,8 +10,8 @@
 > - 현실 모티프: 결과에 불복한 낙선 후보의 해외 체류와, 정적을 겨냥한 국제 수배 요청(2026)
 > - 역사 사례: 인터폴 헌장 3조(정치적 사건 개입 금지)와 적색수배의 정치적 남용 논란 — 카버가 "인터폴은 우체국"이라며 수배를 무기로 쓰자고 하고, 일라이어스와 나디아가 3조와 2018~19년 태국에 억류된 바레인 출신 난민 축구 선수 사례로 반박한다
 > - 전술 태그: [음모] [공갈] [거짓말] [비밀] [유출]
-> - 이번 화의 핵심 표현: They didn't beat me. They counted me. / I'm reminding you who pays the rent. / a locked safe with no combination / chain of custody / A Red Notice is not an arrest warrant. / Whatever means I wasn't here. / We'll look into it.
-> - 복선/연결: 1화에서 일라이어스가 루이자를 '면담 불참'으로 기록한 거짓말이 카버를 헷갈리게 함 · 카버가 미국 비자 기록을 읽을 수 있다(6화 파리아, 11화 유출 경로) · 백업 세 개(나디아에게 잠긴 사본, 누르의 자타르 통, 일라이어스의 피아노) · 원본은 봉인해 루이자가 보관(12화 법무부 인계의 '증거 보관 연속성') · 적색수배 요청 → 5화
+> - 이번 화의 핵심 표현: They didn't beat me. They counted me. / I'm reminding you who pays the rent. / Her copy isn't just a payment. It's a tripwire. / chain of custody / A Red Notice is not an arrest warrant. / Whatever means I wasn't here. / We'll look into it.
+> - 복선/연결: 1화에서 일라이어스가 루이자를 '면담 불참'으로 기록한 거짓말이 카버를 헷갈리게 함 · 카버가 미국 비자 기록을 읽을 수 있다(6화 파리아, 11화 유출 경로) · 3화 약속대로 CSIS 기술자가 포렌식 이미지를 뜸 → 루이자가 몰래 두 개를 더 뜸(누르의 자타르 통, 일라이어스의 피아노). 나디아의 사본은 '인계철선' · 원본은 봉인해 루이자가 보관(12화 법무부 인계의 '증거 보관 연속성') · 적색수배 요청 → 5화
 
 ---
 
@@ -128,8 +128,8 @@
 037. CARVER: It's a rented house, Senator. I'm only reminding you who pays the rent. One more thing — can Luísa open that phone without you?
     카버: 빌린 집이죠, 의원님. 전 그저 집세를 누가 내는지 상기시켜 드리는 겁니다. 하나만 더요. 루이자가 의원님 없이 그 전화를 열 수 있습니까?
 
-038. MONTEIRO: She built the vault. After the first round, I added a second lock. She doesn't have that key. Not yet.
-    몬테이루: 금고는 그 애가 만들었어요. 1차 투표 뒤에 내가 자물쇠를 하나 더 달았고요. 그 열쇠는 없어요. 아직은.
+038. MONTEIRO: She built the vault. But I change the password every month, and I changed it the night she left. She doesn't have it. Not yet.
+    몬테이루: 금고는 그 애가 만들었어요. 하지만 비밀번호는 내가 매달 바꾸고, 그 애가 떠난 날 밤에도 바꿨어요. 그 번호는 몰라요. 아직은.
 
 039. CARVER: "Not yet" is the most expensive phrase in my business. Then we need her even more than we need the phone.
     카버: "아직은"이 제 업계에서 제일 비싼 말입니다. 그렇다면 전화보다 그 여자가 더 필요하겠군요.
@@ -194,11 +194,11 @@
 059. ELIAS: You can ask. I can't promise anything about the look.
     일라이어스: 물어봐도 돼. 눈빛은 장담 못 하고.
 
-060. PIERRE-LUC: The Brazilian lady on the twenty-sixth, the one you marked as a no-show. I saw her sitting right in that chair. She was there.
-    피에르뤽: 26일에 그 브라질 여자분 있잖아요, 면담 불참으로 처리하신 분. 저 그 의자에 앉아 있는 거 봤어요. 왔었다고요.
+060. PIERRE-LUC: The Brazilian lady on the twenty-sixth. You told me she took a call and left. But I saw her sitting at your window for ten minutes.
+    피에르뤽: 26일 그 브라질 여자분이요. 전화 받고 나갔다고 하셨잖아요. 근데 저 그분이 선배 창구에 10분 동안 앉아 있는 거 봤어요.
 
-061. ELIAS: You saw a woman sit down, ask where the restroom was, and never come back. In my book, that's a no-show.
-    일라이어스: 넌 어떤 여자가 앉았다가 화장실 어디냐고 묻고 다시 안 온 걸 본 거야. 내 기준엔 그게 불참이야.
+061. ELIAS: Ten minutes of small talk, then a phone call, and she was gone before I took a single fingerprint. In my book, that's a no-show.
+    일라이어스: 10분 잡담하고, 전화 한 통 받고, 지문 하나 찍기 전에 가 버렸어. 내 기준엔 그게 불참이야.
 
 062. PIERRE-LUC: Okay. Your book is very flexible.
     피에르뤽: 네. 선배 기준이 아주 유연하네요.
@@ -242,56 +242,56 @@
 075. LUISA: In my coat, inside a signal-blocking pouch. It hasn't touched a network since São Paulo. If it does, they'll see it light up like a birthday cake.
     루이자: 제 코트 안에요. 신호 차단 파우치에 넣어서. 상파울루 이후로 한 번도 네트워크에 안 붙였어요. 붙는 순간 생일 케이크처럼 불이 켜지는 게 다 보일 거예요.
 
-076. ELIAS: And the backups you mentioned at the window?
-    일라이어스: 창구에서 말한 백업은요?
+076. ELIAS: Did Nadia's technician come this morning? Thursday, your room, one hour. That was the deal.
+    일라이어스: 나디아 쪽 기술자는 오늘 아침에 왔어요? 목요일, 당신 방, 한 시간. 그게 약속이었잖아요.
 
-077. LUISA: Three full images of the device, on three drives. Here's my problem, though. The vault inside is encrypted twice. I built the first lock. Monteiro added the second after the first round.
-    루이자: 기기 전체 이미지 세 개, 드라이브 세 개에 담았어요. 근데 문제가 있어요. 안에 있는 금고가 이중으로 암호화돼 있어요. 첫 번째 자물쇠는 제가 만들었고, 두 번째는 1차 투표 뒤에 몬테이루가 달았어요.
+077. LUISA: He came at eight with a laptop that had no stickers on it. Fifty minutes, one forensic image, a hash written on an index card, and he left without touching my coffee.
+    루이자: 8시에 왔어요. 스티커 하나 없는 노트북을 들고요. 50분 동안 포렌식 이미지 하나 뜨고, 해시값을 카드에 적더니, 제가 타 준 커피엔 손도 안 대고 갔어요.
 
-078. ELIAS: So right now, you're carrying evidence you can't read.
-    일라이어스: 그러니까 지금 당신은 읽지도 못하는 증거를 들고 다니는 거네요.
+078. ELIAS: So when he left, how many copies existed in the world?
+    일라이어스: 그럼 그 사람이 갔을 때 세상에 사본이 몇 개 있었죠?
 
-079. LUISA: I'm carrying evidence nobody can read. Yet. I built the machine, Mr. Grant. I know where the off switch is. Give me a few weeks and I'll find the second key.
-    루이자: 아무도 못 읽는 증거죠. 아직은. 그 기계는 제가 만들었어요, 그랜트 씨. 끄는 스위치가 어디 있는지도 알아요. 몇 주만 주면 두 번째 열쇠도 찾을 거예요.
+079. LUISA: One, in his laptop. So I did what you said in front of Nadia. After he left, I made two more images. Same method, same hash, down to the last character.
+    루이자: 하나요, 그 사람 노트북에. 그래서 나디아 앞에서 하신 말대로 했어요. 그 사람이 간 뒤에 이미지를 두 개 더 떴어요. 같은 방법, 같은 해시값. 마지막 글자까지.
 
-080. ELIAS: Meanwhile, Nadia Khoury wants a copy. That was her price last week.
-    일라이어스: 그동안 나디아 쿠리가 사본을 원해요. 그게 지난주에 그 사람이 부른 값이었죠.
+080. ELIAS: And can anyone read what's inside them?
+    일라이어스: 그 안에 든 걸 읽을 수 있는 사람은 있어요?
 
-081. LUISA: And the moment CSIS has a copy, so does Washington. Five Eyes means five mouths. Washington let Monteiro in. I'm not handing them his diary.
-    루이자: 그리고 CSIS가 사본을 갖는 순간 워싱턴도 갖게 돼요. 파이브 아이즈는 입이 다섯 개란 뜻이에요. 워싱턴은 몬테이루를 받아 줬어요. 그 사람 일기장을 넘겨줄 순 없어요.
+081. LUISA: Not yet. He changes the password every month, and he changed it the night I left. I know how he picks them. I just don't know which one he picked.
+    루이자: 아직은요. 그 사람은 매달 비밀번호를 바꾸고, 제가 떠난 날 밤에도 바꿨어요. 어떻게 고르는지는 알아요. 이번엔 뭘 골랐는지를 모를 뿐이죠.
 
-082. ELIAS: If you refuse her, she stops protecting you. If you give her everything, you lose control of it. Neither door works.
-    일라이어스: 거절하면 나디아는 보호를 멈출 거고, 다 주면 통제권을 잃어요. 어느 문도 안 돼요.
+082. ELIAS: So right now there are three copies of a safe nobody can open.
+    일라이어스: 그러니까 지금은 아무도 못 여는 금고가 세 개 있는 거네요.
 
-083. LUISA: So you came here to tell me I'm trapped. Thank you, very consular of you.
-    루이자: 그러니까 제가 갇혔다는 말 하러 오신 거네요. 고마워요, 아주 영사관다우시네요.
+083. LUISA: For now. I built the machine, Mr. Grant. I know where the off switch is. Give me a few weeks.
+    루이자: 지금은요. 그 기계는 제가 만들었어요, 그랜트 씨. 끄는 스위치가 어디 있는지도 알아요. 몇 주만 주세요.
 
-084. ELIAS: I came to suggest a third door. Give Nadia one of the drives — exactly as it is, double-locked. You hand her the safe, not the combination.
-    일라이어스: 세 번째 문을 제안하러 왔어요. 나디아한테 드라이브 하나를 줘요. 지금 그대로, 이중으로 잠긴 채로. 금고는 주되 비밀번호는 안 주는 거예요.
+084. ELIAS: Meanwhile, Nadia's copy worries me more than Monteiro's men do.
+    일라이어스: 그동안은 몬테이루 쪽 사람들보다 나디아의 사본이 더 걱정이에요.
 
-085. LUISA: She'll know it's locked.
-    루이자: 잠긴 걸 알 텐데요.
+085. LUISA: Because the moment CSIS has something, so does Washington. Five Eyes means five mouths. And Washington let Monteiro in.
+    루이자: CSIS가 뭘 갖는 순간 워싱턴도 갖게 되니까요. 파이브 아이즈는 입이 다섯 개란 뜻이에요. 그리고 워싱턴은 몬테이루를 받아 줬고요.
 
-086. ELIAS: Of course she will. That's the point. A locked safe with no combination is worthless to Washington, but it's priceless to Canada as long as the only person who can open it is alive, free, and in Montreal.
-    일라이어스: 당연히 알죠. 그게 핵심이에요. 비밀번호 없는 금고는 워싱턴한텐 쓸모가 없지만, 그걸 열 수 있는 유일한 사람이 살아서, 자유롭게, 몬트리올에 있는 한 캐나다한텐 값을 매길 수 없는 물건이 돼요.
+086. ELIAS: Nadia promised nothing moves without her director's signature. Promises like that last until someone important calls. So here's the third door. Her copy becomes one of three, and she believes it's the only one.
+    일라이어스: 나디아는 국장 서명 없인 아무것도 안 움직인다고 약속했죠. 그런 약속은 높은 사람이 전화하기 전까지만 가요. 그래서 세 번째 문은 이거예요. 그 사본을 셋 중 하나로 만들고, 나디아는 그게 유일한 거라고 믿게 하는 거죠.
 
-087. LUISA: You're turning me into the combination.
-    루이자: 저를 비밀번호로 만드시는 거네요.
+087. LUISA: Why does it matter what she believes?
+    루이자: 그 사람이 뭘 믿든 그게 왜 중요해요?
 
-088. ELIAS: You already are. I'm just making sure Ottawa understands that before Miami does.
-    일라이어스: 당신은 이미 비밀번호예요. 저는 그걸 마이애미보다 오타와가 먼저 알게 하는 것뿐이고요.
+088. ELIAS: Because if anyone in Miami ever shows they've seen that image, we'll know exactly which copy walked. The other two will never have moved. Her copy isn't just a payment. It's a tripwire.
+    일라이어스: 마이애미의 누군가가 그 이미지를 봤다는 티를 내는 순간, 어느 사본이 걸어 나갔는지 정확히 알게 되니까요. 나머지 두 개는 한 번도 안 움직였을 테니까. 나디아의 사본은 대가이기만 한 게 아니에요. 인계철선이에요.
 
-089. LUISA: And the other two drives?
-    루이자: 나머지 두 개는요?
+089. LUISA: You're setting a trap for Canadian intelligence. For me.
+    루이자: 캐나다 정보기관한테 덫을 놓으시는 거네요. 저 때문에.
 
-090. ELIAS: Two places that have nothing in common with each other, and nothing in common with you. Nadia never hears about either of them.
-    일라이어스: 서로 아무 공통점도 없고, 당신하고도 아무 공통점이 없는 두 곳이요. 나디아는 그 두 곳 얘기를 절대 못 듣고요.
+090. ELIAS: I'm giving Canadian intelligence a reason to be careful. If they're careful, the trap never closes.
+    일라이어스: 캐나다 정보기관한테 조심할 이유를 주는 거죠. 조심하면 덫은 절대 안 닫혀요.
 
-091. LUISA: You're going to lie to Canadian intelligence for me?
-    루이자: 저 때문에 캐나다 정보기관한테 거짓말하시겠다고요?
+091. LUISA: And if they're not?
+    루이자: 조심 안 하면요?
 
-092. ELIAS: I'm going to let Canadian intelligence believe something comfortable. It's a national pastime up here.
-    일라이어스: 캐나다 정보기관이 마음 편한 걸 믿게 놔두는 거죠. 여기선 그게 국민 취미예요.
+092. ELIAS: Then we'll know who to stop trusting. Now, the other two. Two places with nothing in common with each other, or with you.
+    일라이어스: 그럼 누굴 그만 믿어야 할지 알게 되죠. 자, 나머지 두 개요. 서로 아무 공통점도 없고, 당신하고도 공통점이 없는 두 곳.
 
 093. LUISA: Fine. Place one.
     루이자: 좋아요. 첫 번째 장소.
@@ -368,8 +368,8 @@
 117. ELIAS: Dad, can I ask you something hypothetical?
     일라이어스: 아빠, 가정으로 하나 물어봐도 돼요?
 
-118. FRANK: Thirty-eight years of teaching, and no hypothetical question was ever hypothetical. Go ahead.
-    프랭크: 38년을 가르쳤는데, 가정이라고 한 질문 치고 진짜 가정인 게 하나도 없더라. 해 봐.
+118. FRANK: All those years of teaching, and no hypothetical question was ever hypothetical. Go ahead.
+    프랭크: 그 오랜 세월 가르쳤는데, 가정이라고 한 질문 치고 진짜 가정인 게 하나도 없더라. 해 봐.
 
 119. ELIAS: If somebody asked you to keep something for them — something that could get you in serious trouble — would you do it?
     일라이어스: 누가 뭘 좀 맡아 달라고 하면요. 아빠가 크게 곤란해질 수도 있는 물건을요. 맡아 주실 거예요?
@@ -392,23 +392,23 @@
 125. ELIAS: Ms. Khoury. You know, most people just send an email.
     일라이어스: 쿠리 씨. 아시죠, 보통은 그냥 이메일을 보내요.
 
-126. NADIA: Most people's emails are read by your government. Do you have something for me?
-    나디아: 보통 사람들 이메일은 당신네 정부가 읽잖아요. 저한테 줄 거 있어요?
+126. NADIA: Most people's emails are read by your government. My technician says this morning went well.
+    나디아: 보통 사람들 이메일은 당신네 정부가 읽잖아요. 우리 기술자 말로는 오늘 아침 일이 잘 끝났대요.
 
-127. ELIAS: One drive. A full image of the phone, exactly as she copied it.
-    일라이어스: 드라이브 하나요. 그 사람이 복사한 그대로의 휴대전화 전체 이미지예요.
+127. ELIAS: She says he didn't touch her coffee. She took it personally.
+    일라이어스: 그 사람이 커피에 손도 안 댔대요. 기분 상해하던데요.
 
-128. NADIA: Is it the only copy?
-    나디아: 이게 유일한 사본이에요?
+128. NADIA: Tell me honestly. Is my technician's image the only copy?
+    나디아: 솔직하게 말해 봐요. 우리 기술자가 뜬 이미지가 유일한 사본이에요?
 
-129. ELIAS: It's the only one that exists outside her coat.
-    일라이어스: 그 사람 코트 밖에 있는 건 이거 하나예요.
+129. ELIAS: As far as I know, it's the only one that's ever left her room.
+    일라이어스: 내가 아는 한, 그 사람 방 밖으로 나간 건 그거 하나예요.
 
-130. NADIA: Of course it is. And let me guess — it's encrypted.
-    나디아: 그렇겠죠. 그리고 맞혀 볼까요. 암호화돼 있죠.
+130. NADIA: Of course it is. And it's useless until she finds his password.
+    나디아: 그렇겠죠. 그리고 그 사람이 비밀번호를 찾기 전까진 쓸모가 없고요.
 
-131. ELIAS: Twice. Even Ms. Prado can't open the inner vault yet. When she can, she'll open it in a room with you in it. Not before, and not without her.
-    일라이어스: 이중으로요. 프라두 씨도 아직 안쪽 금고는 못 열어요. 열 수 있게 되면 당신이 있는 방에서 열 거예요. 그 전엔 안 되고, 그 사람 없이도 안 되고요.
+131. ELIAS: When she finds it, she'll open it in a room with you in it. Not before, and not without her. That was the deal, as I remember it.
+    일라이어스: 찾으면 당신이 있는 방에서 열 거예요. 그 전엔 안 되고, 그 사람 없이도 안 되고요. 내가 기억하는 약속은 그거예요.
 
 132. NADIA: You've made her indispensable. That's clever, and slightly insulting. It also means that if something happens to her, this drive becomes a very expensive paperweight.
     나디아: 그 사람을 없어선 안 될 존재로 만드셨네요. 영리하고, 약간 모욕적이고요. 그 말은 그 사람한테 무슨 일이 생기면 이 드라이브는 아주 비싼 문진이 된다는 뜻이기도 하죠.
@@ -478,7 +478,8 @@
 - **immigrant intent** — 이민 의도. 비이민 비자 심사에서 214(b) 거절의 핵심 기준 (049)
 - **no-show** — 면담·예약 불참자. 일라이어스가 루이자를 보호하려 쓴 기록 (060–061)
 - **signal-blocking pouch** — 신호 차단 파우치(패러데이 백) (075)
-- **hand someone the safe, not the combination** — 물건은 주되 여는 방법은 쥐고 있다. 이번 화의 세 번째 문 (084, 086)
+- **tripwire** — 인계철선. 건드리면 누가 건드렸는지 드러나는 장치. 이번 화의 세 번째 문 (086–088)
+- **forensic image / hash** — 포렌식 이미지(기기 전체 복제본) / 해시값(복제본이 원본과 같다는 지문) (077, 079)
 - **chain of custody** — 증거 보관 연속성. 누가 언제 증거를 만졌는지의 기록 (106)
 - **Red Notice** — 인터폴 적색수배. 인도를 전제로 한 소재 확인·임시 체포 요청 (134)
 - **provisional arrest pending extradition** — 인도 전 임시 체포 (136, 146)
