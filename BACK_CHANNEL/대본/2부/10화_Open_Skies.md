@@ -160,8 +160,8 @@
 048. FRANK: Then I want a footnote. And you call your daughter this week. She's been practicing her Portuguese on me.
     프랭크: 그럼 각주에 내 이름 넣어라. 그리고 이번 주엔 딸한테 전화하고. 그 애가 나한테 포르투갈어 연습을 하더라.
 
-049. ANA: You have twenty minutes, Mr. Grant. The President's campaign has taken the other forty of my hour.
-    아나: 20분 드릴게요, 그랜트 씨. 제 한 시간 중 나머지 40분은 대통령 선거 캠프가 가져갔어요.
+049. ANA: You have twenty minutes, Mr. Grant. The party's municipal campaign has taken the other forty of my hour.
+    아나: 20분 드릴게요, 그랜트 씨. 제 한 시간 중 나머지 40분은 여당 지방선거 캠프가 가져갔어요.
 
 050. ELIAS: Then I'll start with the part you'll like least, Doctor Campos. I'm not here to stop the Alcântara station.
     일라이어스: 그럼 제일 마음에 안 드실 부분부터 말씀드리죠, 캄푸스 박사님. 저는 알칸타라 추적소를 막으러 온 게 아닙니다.

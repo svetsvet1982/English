@@ -58,8 +58,8 @@
 014. ELIAS: I wasn't asleep. I was thinking.
     일라이어스: 잔 거 아니에요. 생각한 거지.
 
-015. SAMIRA: You were snoring in Portuguese. Renato Lins, her chief of staff, said, and I'm quoting, "Valente is not a businessman. He is a kingmaker, and the king is up for re-election."
-    사미라: 포르투갈어로 코 고셨어요. 비서실장 헤나투 린스가 이렇게 말했어요. 그대로 옮기면, "발렌치는 사업가가 아니다. 킹메이커다. 그리고 지금 왕이 재선을 앞두고 있다."
+015. SAMIRA: You were snoring in Portuguese. Renato Lins, her chief of staff, said, and I'm quoting, "Valente is not a businessman. He is a kingmaker, and this October the king needs mayors."
+    사미라: 포르투갈어로 코 고셨어요. 비서실장 헤나투 린스가 이렇게 말했어요. 그대로 옮기면, "발렌치는 사업가가 아니다. 킹메이커다. 그리고 이번 10월에 왕은 시장들이 필요하다."
 
 016. ELIAS: Meaning President Albuquerque needs Minas Gerais in October, and Valente delivers Minas Gerais.
     일라이어스: 그러니까 알부케르키 대통령은 10월에 미나스제라이스가 필요하고, 미나스제라이스를 갖다 바치는 게 발렌치라는 거네요.

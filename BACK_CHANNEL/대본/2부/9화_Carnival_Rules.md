@@ -154,8 +154,8 @@
 046. ELIAS: What are you going to do?
     일라이어스: 어떻게 하실 겁니까?
 
-047. ANA: I've written my resignation. It's in my bag. If I leave, the story has no target, and the President keeps his campaign clean.
-    아나: 사임서를 썼어요. 가방에 있어요. 내가 떠나면 기사는 표적이 없어지고, 대통령은 캠프를 깨끗하게 지킬 수 있어요.
+047. ANA: I've written my resignation. It's in my bag. If I leave, the story has no target, and the President's slate stays clean.
+    아나: 사임서를 썼어요. 가방에 있어요. 내가 떠나면 기사는 표적이 없어지고, 대통령 쪽 후보들은 깨끗하게 남을 수 있어요.
 
 048. ELIAS: And Valente learns that it works.
     일라이어스: 그리고 발렌치는 이게 통한다는 걸 배우죠.
@@ -394,8 +394,8 @@
 126. CAIO: You never came to Lapa. Publish it, Ana. Say it your way, in your words. Just don't let a man like Valente say it for us.
     카이우: 누나가 라파에 온 적이 없잖아. 공개해, 누나. 누나 방식으로, 누나 말로. 다만 발렌치 같은 놈이 우리 대신 말하게 두지만 마.
 
-127. ANA: And the President? The campaign? I'd be handing the other side a story twelve weeks before the vote.
-    아나: 대통령은? 캠프는? 투표 12주 전에 상대 진영한테 이야깃거리를 갖다 바치는 거야.
+127. ANA: And the President? His party? I'd be handing the other side a story twelve weeks before the vote.
+    아나: 대통령은? 여당은? 투표 12주 전에 상대 진영한테 이야깃거리를 갖다 바치는 거야.
 
 128. ELIAS: You'd be handing them an old story about a warning and a treatment program, and a new story about Valente's blackmail. One of those stories is a lot bigger than the other.
     일라이어스: 경고 처분과 치료 이수에 관한 오래된 이야기 하나, 그리고 발렌치의 협박에 관한 새 이야기 하나를 주시는 겁니다. 둘 중 하나가 훨씬 큰 이야기죠.

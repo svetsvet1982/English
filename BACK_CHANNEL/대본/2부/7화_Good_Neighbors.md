@@ -184,8 +184,8 @@
 056. ELIAS: You've done this before.
     일라이어스: 해 본 솜씨네.
 
-057. TOM: I've done this to people who didn't have a presidential election in four months and half the Senate in their pocket. Elias, that's not diplomacy. That's extortion with a diplomatic passport.
-    톰: 난 넉 달 뒤에 대선이 없고 상원 절반을 주머니에 넣고 있지 않은 사람들한테나 해 봤어. 일라이어스, 그건 외교가 아니야. 외교관 여권 들고 하는 갈취지.
+057. TOM: I've done this to people who didn't have nationwide elections in four months and half the Senate in their pocket. Elias, that's not diplomacy. That's extortion with a diplomatic passport.
+    톰: 난 넉 달 뒤에 전국 선거가 없고 상원 절반을 주머니에 넣고 있지 않은 사람들한테나 해 봤어. 일라이어스, 그건 외교가 아니야. 외교관 여권 들고 하는 갈취지.
 
 058. ELIAS: That's why it has to stay off the books. Plausible deniability for everyone in Washington, starting with Callaway.
     일라이어스: 그러니까 비공식으로 해야지. 워싱턴 사람 모두를 위한 그럴듯한 부인 가능성. 캘러웨이부터.

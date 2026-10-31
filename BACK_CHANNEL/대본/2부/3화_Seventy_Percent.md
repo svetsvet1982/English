@@ -40,8 +40,8 @@
 008. ELIAS: And the twelve?
     일라이어스: 그럼 12쪽은요?
 
-009. SAMIRA: The twelve are the ones on every front page in Brazil. President Albuquerque's phone in 2027. His campaign. A transcript where he seems to discuss kickbacks with foreign investors.
-    사미라: 12쪽은 지금 브라질 모든 신문 1면에 실린 그것들이에요. 2027년 알부케르키 대통령의 전화. 선거 캠프. 그리고 외국인 투자자들과 뒷돈 얘기를 하는 것처럼 보이는 녹취록.
+009. SAMIRA: The twelve are the ones on every front page in Brazil. President Albuquerque's phone in 2027. His party's fundraising. A transcript where he seems to discuss kickbacks with foreign investors.
+    사미라: 12쪽은 지금 브라질 모든 신문 1면에 실린 그것들이에요. 2027년 알부케르키 대통령의 전화. 여당 선거 자금. 그리고 외국인 투자자들과 뒷돈 얘기를 하는 것처럼 보이는 녹취록.
 
 010. ELIAS: So the forgeries are the part that hurts.
     일라이어스: 그러니까 위조된 부분이 아픈 데군요.
@@ -382,8 +382,8 @@
 122. ELIAS: I can't stop you from doing arithmetic, Senhora Campos. I'd never try. It's your country.
     일라이어스: 수석님이 계산하시는 걸 제가 막을 순 없습니다. 그럴 생각도 없고요. 수석님 나라니까요.
 
-123. ANA: Give it to me. Page nine, page thirty-three, the kickback transcript, the campaign pages. Reasons?
-    아나: 줘 보세요. 9쪽, 33쪽, 뒷돈 녹취록, 선거 캠프 페이지들. 근거는요?
+123. ANA: Give it to me. Page nine, page thirty-three, the kickback transcript, the party-fund pages. Reasons?
+    아나: 줘 보세요. 9쪽, 33쪽, 뒷돈 녹취록, 여당 자금 페이지들. 근거는요?
 
 124. ELIAS: The serial numbers fail a check digit. Page thirty-three mentions a Tianlu proposal a year before Tianlu made it. And your president says "pero" twice.
     일라이어스: 일련번호가 검증 숫자에서 걸립니다. 33쪽은 톈루가 제안하기 1년 전에 톈루 제안을 언급하고요. 그리고 대통령께서 "페로"라고 두 번 말씀하시죠.

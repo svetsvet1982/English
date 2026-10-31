@@ -337,8 +337,8 @@
 107. ELIAS: And if I bring it?
     일라이어스: 제가 가져오면요?
 
-108. ANA: Then I'll reopen Annex D, if I can. But Valente leases that land to Tianlu, pours its concrete, and signs the president's campaign checks. You understand what you're asking.
-    아나: 그럼 부속서 D를 다시 열겠어요. 할 수 있다면요. 하지만 발렌치는 그 땅을 톈루에 빌려주고, 콘크리트를 붓고, 대통령 선거 자금 수표에 서명하는 사람이에요. 무슨 부탁을 하시는지 아시죠.
+108. ANA: Then I'll reopen Annex D, if I can. But Valente leases that land to Tianlu, pours its concrete, and bankrolls half the President's mayoral slate. You understand what you're asking.
+    아나: 그럼 부속서 D를 다시 열겠어요. 할 수 있다면요. 하지만 발렌치는 그 땅을 톈루에 빌려주고, 콘크리트를 붓고, 대통령 여당 시장 후보 절반의 돈줄인 사람이에요. 무슨 부탁을 하시는지 아시죠.
 
 109. ELIAS: I'm asking you to pick a fight with a kingmaker in an election year.
     일라이어스: 선거철에 킹메이커와 싸워 달라는 거죠.

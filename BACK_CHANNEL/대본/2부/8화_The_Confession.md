@@ -388,8 +388,8 @@
 124. ELIAS: From whom?
     일라이어스: 누구한테서요?
 
-125. LENA: Encrypted, same route ECHO always uses. One line. "Washington's 1964 stunt is a bribe to rescue Albuquerque's campaign. Ask who benefits."
-    레나: 암호화돼 있었고, ECHO가 늘 쓰는 그 경로예요. 한 줄. "워싱턴의 1964년 쇼는 알부케르키 캠프를 구하려는 뇌물이다. 누가 이득을 보는지 물어보라."
+125. LENA: Encrypted, same route ECHO always uses. One line. "Washington's 1964 stunt is a bribe to rescue Albuquerque's party in October. Ask who benefits."
+    레나: 암호화돼 있었고, ECHO가 늘 쓰는 그 경로예요. 한 줄. "워싱턴의 1964년 쇼는 10월 선거에서 알부케르키 여당을 구하려는 뇌물이다. 누가 이득을 보는지 물어보라."
 
 126. ELIAS: Forty minutes before Brazil announced.
     일라이어스: 브라질 발표 40분 전에요.

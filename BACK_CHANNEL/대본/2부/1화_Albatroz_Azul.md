@@ -64,8 +64,8 @@
 016. TOM: The one and only. Mining, soybeans, cattle, lithium. Half the senators in Brasília owe him a favor, and the other half want to.
     톰: 바로 그 사람. 광산, 대두, 소, 리튬. 브라질리아 상원의원 절반은 그한테 신세를 졌고, 나머지 절반은 지고 싶어 하지.
 
-017. SAMIRA: The Brazilian press calls him "o fazedor de reis." The kingmaker. In a presidential election year, that's not a nickname. It's a job description.
-    사미라: 브라질 언론은 그를 '왕을 만드는 사람'이라고 불러요. 킹메이커요. 대선이 있는 해엔 그건 별명이 아니라 직무 설명이에요.
+017. SAMIRA: The Brazilian press calls him "o fazedor de reis." The kingmaker. In an election year — mayors now, the presidency in 2030 — that's not a nickname. It's a job description.
+    사미라: 브라질 언론은 그를 '왕을 만드는 사람'이라고 불러요. 킹메이커요. 선거가 있는 해엔 — 올해는 시장, 2030년엔 대통령 — 그건 별명이 아니라 직무 설명이에요.
 
 018. ELIAS: So a Brazilian billionaire owns, through a shell, the ship that sat on top of a NATO cable for three hours in January.
     일라이어스: 그러니까 브라질 억만장자가 페이퍼컴퍼니를 통해, 1월에 NATO 케이블 위에 세 시간 동안 떠 있던 그 배를 갖고 있다는 거네요.
@@ -163,8 +163,8 @@
 049. ELIAS: Which president?
     일라이어스: 어느 대통령?
 
-050. SAMIRA: Theirs. Marcos Albuquerque. His phones, his chief of staff, his campaign team, and — this is the part that's lighting up São Paulo — his conversations with foreign investors.
-    사미라: 그쪽 대통령이요. 마르쿠스 알부케르키. 그의 전화, 비서실장, 선거 캠프, 그리고 지금 상파울루를 뒤집어 놓은 부분은 외국인 투자자들과 나눈 대화예요.
+050. SAMIRA: Theirs. Marcos Albuquerque. His phones, his chief of staff, his party's fundraisers, and — this is the part that's lighting up São Paulo — his conversations with foreign investors.
+    사미라: 그쪽 대통령이요. 마르쿠스 알부케르키. 그의 전화, 비서실장, 여당 자금책들, 그리고 지금 상파울루를 뒤집어 놓은 부분은 외국인 투자자들과 나눈 대화예요.
 
 051. ELIAS: Is it real?
     일라이어스: 진짜예요?
@@ -334,8 +334,8 @@
 106. CALLAWAY: Pruitt was on cable news at seven, demanding sanctions on Brazil if they "run into Beijing's arms." If you make things worse down there, I'll let him have you.
     캘러웨이: 프루잇이 7시에 케이블 뉴스에 나와서, 브라질이 "베이징 품에 안기면" 제재하라고 떠들었어. 네가 거기서 일을 더 꼬면, 너를 그 사람한테 넘길 거야.
 
-107. ELIAS: Sanctions on Brazil, six months before their election, would be the best campaign ad Albuquerque ever got.
-    일라이어스: 선거 여섯 달 전에 브라질을 제재하면, 알부케르키가 받아 본 최고의 선거 광고가 될 거예요.
+107. ELIAS: Sanctions on Brazil, six months before their election, would be the best campaign ad Albuquerque's party ever got.
+    일라이어스: 선거 여섯 달 전에 브라질을 제재하면, 알부케르키 여당이 받아 본 최고의 선거 광고가 될 거예요.
 
 108. CALLAWAY: Which is why I'm sending you and not Pruitt. Wheels up tomorrow. Results, Grant. Not poetry.
     캘러웨이: 그래서 프루잇 말고 널 보내는 거야. 내일 출발해. 결과를 가져와, 그랜트. 시 말고.
