@@ -10,7 +10,7 @@
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 이고르 구젠코의 오타와 이틀 (1945년 9월) — 일라이어스가 "캐나다는 그를 두 팔 벌려 맞았다"고 하자 나디아가 "하마터면 돌려보낼 뻔했다"고 바로잡는다. 신문사 야간 편집자도, 법무장관실도, 총리도 그를 원하지 않았고, 그를 살린 건 복도 건너편 이웃(공군 하사)과 오타와 시 경찰이었다는 사실이 이번 화 '세 번째 문'의 설계도가 된다. 루킨은 "캐나다가 그를 쓰고 잊었다"는 러시아 교육 내용을 말하고, 일라이어스가 "두건은 사실이지만 잊혔다는 건 아니다"라고 정정한다
 > - 전술 태그: [비밀] [거짓말] [블러핑] [공갈] [유출]
-> - 이번 화의 핵심 표현: defector / walk-in / exfiltration (exfil) / protective custody / debrief / chain of custody / persona non grata / not notified vs. not consulted / Nobody needs a signature to visit a neighbour.
+> - 이번 화의 핵심 표현: defector / walk-in / exfiltration (exfil) / protective custody / debrief / chain of custody / persona non grata / not notified vs. not consulted / Nobody needs a signature to visit a neighbor.
 > - 영사 업무 장면: 아르준 메타의 B-1 인터뷰 — '주문 받기'는 B-1, 미국에서 직접 파는 것은 취업(001~013) · 공관은 미국 땅이 아니다(036) · 뉘앙스 장면: "We'll see"와 "We'll look into it"(014~015, 020) · "not notified"와 "not consulted"(136~139)
 > - 복선/연결: 1화의 비상 암호("그랜트 앞으로 자타르") 실제 사용 · 루킨의 근무 종료 7/23보다 2주 먼저 귀국 명령 · 7화 카버의 "두 구매자" — 사람을 원하는 쪽에 '5월 10일, 4번 창구, 7번'이 넘어감(피에르뤽 → 카버 → 러시아) · 카버가 어제 루킨에게 직접 전화해 '종이'를 사겠다고 함 → 9화 · 미국은 사전 통보받지 못함 → 9화 워싱턴의 반발 · 월요일 글로리아 면담(유출 경로)
 
@@ -147,22 +147,22 @@
 043. ELIAS: And on the second night, the Soviets broke into his apartment.
     일라이어스: 그리고 둘째 날 밤에 소련 사람들이 그 집에 쳐들어갔죠.
 
-044. NADIA: While he hid across the hall with his wife and little boy, in a neighbour's apartment. An air force sergeant. Then the Ottawa city police showed up, and only then did the Mounties take him seriously.
+044. NADIA: While he hid across the hall with his wife and little boy, in a neighbor's apartment. An air force sergeant. Then the Ottawa city police showed up, and only then did the Mounties take him seriously.
     나디아: 그 사람은 아내랑 어린 아들이랑 복도 건너편 이웃집에 숨어 있었고요. 공군 하사였죠. 그다음 오타와 시 경찰이 왔고, 그제야 기마경찰대가 그를 진지하게 받아들였어요.
 
-045. ELIAS: So it wasn't the government that saved him. It was a neighbour and a beat cop.
-    일라이어스: 그러니까 그를 살린 건 정부가 아니었네요. 이웃 한 명이랑 순찰 경찰이었지.
+045. ELIAS: So it wasn't the government that saved him. It was a neighbor and a beat cop.
+    일라이어스: 그러니까 그를 살린 건 정부가 아니었네요. 이웃 한 명이랑 순찰 경찰이었죠.
 
 046. NADIA: That's the Canadian part of the story we don't put on stamps. Why are you smiling?
     나디아: 그게 우리가 우표에는 안 넣는 캐나다다운 부분이에요. 왜 웃어요?
 
-047. ELIAS: Because Lukin has a neighbour. He mentioned her once, almost by accident. An old lady on the ground floor. He carries her groceries up every Saturday, and she feeds him.
+047. ELIAS: Because Lukin has a neighbor. He mentioned her once, almost by accident. An old lady on the ground floor. He carries her groceries up every Saturday, and she feeds him.
     일라이어스: 루킨한테도 이웃이 있거든요. 한 번, 거의 무심코 얘기한 적 있어요. 1층 할머니요. 토요일마다 장 본 걸 들어다 드리고, 할머니는 밥을 먹여 준대요.
 
 048. NADIA: You want to hide a defector behind an eighty-year-old woman.
     나디아: 망명자를 여든 살 할머니 뒤에 숨기겠다는 거네요.
 
-049. ELIAS: I want him to visit a neighbour. Nobody needs a signature for that.
+049. ELIAS: I want him to visit a neighbor. Nobody needs a signature for that.
     일라이어스: 이웃집에 놀러 가게 하겠다는 거예요. 그건 아무 서명도 필요 없잖아요.
 
 050. NADIA: And when the two men come knocking on her door?
@@ -192,7 +192,7 @@
 058. LUKIN: At lunch, from where it was sleeping. Nobody opened it.
     루킨: 점심때요, 그게 자고 있던 곳에서. 아무도 안 열었어요.
 
-059. ELIAS: Viktor, listen. Ottawa hasn't decided yet. Until it does, you're simply visiting your neighbour. That's all this is.
+059. ELIAS: Viktor, listen. Ottawa hasn't decided yet. Until it does, you're simply visiting your neighbor. That's all this is.
     일라이어스: 빅토르, 들어 봐요. 오타와는 아직 결정 안 했어요. 결정할 때까지 당신은 그냥 이웃집에 놀러 온 거예요. 지금은 그게 전부예요.
 
 060. LUKIN: Visiting. With a briefcase, and no shoes.
@@ -276,10 +276,10 @@
 086. THERESE: Don't touch my door, or I scream like a seagull.
     테레즈: 내 문에 손대지 마. 안 그러면 갈매기처럼 소리 지를 거야.
 
-087. ZOTOV: Madame, good evening. We are colleagues of your neighbour. He is sick. We take him to the doctor.
+087. ZOTOV: Madame, good evening. We are colleagues of your neighbor. He is sick. We take him to the doctor.
     조토프: 부인, 안녕하십니까. 이웃분의 동료들입니다. 그 사람이 아파서요. 병원에 데려가려고요.
 
-088. THERESE: My neighbour is not here. And the doctor does not come at night with two men and a key.
+088. THERESE: My neighbor is not here. And the doctor does not come at night with two men and a key.
     테레즈: 내 이웃은 여기 없어. 그리고 의사는 밤에 남자 둘이랑 열쇠 들고 안 와.
 
 089. ZOTOV: Viktor Pavlovich, I know you can hear me. We know about window four. May tenth. Number seven. Room two. You see? There is no secret left for you to protect.
@@ -399,7 +399,7 @@
 127. LUKIN: Your nephew from Ohio.
     루킨: 오하이오에서 온 조카분이요.
 
-128. ELIAS: Your nephew from Ohio would be honoured, madame.
+128. ELIAS: Your nephew from Ohio would be honored, madame.
     일라이어스: 오하이오 조카가 영광으로 알겠습니다, 부인.
 
 129. THERESE: You are a bad liar, nephew. That is why I trust you. Eat the rest.
@@ -479,7 +479,7 @@
 - **protection detail** — 경호팀. 서명 전의 나디아는 "차 한 대 가진 공무원" (035)
 - **notified before any movement** — 이동 전 사전 통보. 일라이어스는 일부러 하지 않는다 (037~038)
 - **defector** — 망명자(특히 정보·외교 인력) (048)
-- **Nobody needs a signature to visit a neighbour.** — 이웃집 방문엔 서명이 필요 없다. 이번 화의 세 번째 문 (049)
+- **Nobody needs a signature to visit a neighbor.** — 이웃집 방문엔 서명이 필요 없다. 이번 화의 세 번째 문 (049)
 - **for your own good** — "다 너 좋으라고". 협박을 걱정으로 포장하는 말 (078)
 - **persona non grata** — 기피 인물. 주재국이 외교관을 내보낼 때의 공식 지정 (107)
 - **chain of custody** — 증거물 관리 연속성. 누가 언제 손댔는지 끊김 없이 기록 (117)

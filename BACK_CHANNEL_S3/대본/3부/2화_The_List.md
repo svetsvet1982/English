@@ -57,8 +57,8 @@
 013. ELIAS: "Under review" is a phrase I know well. How did Maksym end up in Oleshky?
     일라이어스: '검토 중'은 제가 잘 아는 말이네요. 마크심은 어쩌다 올레시키에 있게 됐어요?
 
-014. OKSANA: In the summer of 2022, he was with my mother, for one month only. Then the Russians were there, and then the bridge was gone.
-    옥사나: 2022년 여름에 우리 엄마한테 가 있었어요. 딱 한 달만요. 그러다 러시아군이 들어왔고, 그다음엔 다리가 없어졌어요.
+014. OKSANA: In February 2022, he was with my mother, for one month only. Then the Russians were there, and then the bridge was gone.
+    옥사나: 2022년 2월에 우리 엄마한테 가 있었어요. 딱 한 달만요. 그러다 러시아군이 들어왔고, 그다음엔 다리가 없어졌어요.
 
 015. ELIAS: And you were on the other side of the river.
     일라이어스: 그리고 어머님은 강 건너편에 계셨고요.
@@ -87,8 +87,8 @@
 023. ELIAS: In 2023, the International Criminal Court issued arrest warrants over children like Maksym. That counts for something.
     일라이어스: 2023년에 국제형사재판소가 마크심 같은 아이들 문제로 체포영장을 발부했어요. 그것도 의미가 있어요.
 
-024. OKSANA: A warrant does not tuck him in at night, mister. Four years. He is ten now. He has lived more of his life without me than with me.
-    옥사나: 영장이 밤에 이불을 덮어 주진 않아요. 4년이에요. 이제 열 살이에요. 저랑 산 시간보다 저 없이 산 시간이 더 길어요.
+024. OKSANA: A warrant does not tuck him in at night, mister. Five years. He is ten now. He has lived more of his life without me than with me.
+    옥사나: 영장이 밤에 이불을 덮어 주진 않아요. 5년이에요. 이제 열 살이에요. 저랑 산 시간보다 저 없이 산 시간이 더 길어요.
 
 025. ELIAS: I'm sorry. I'm genuinely sorry, and I know that's not worth much from a man with a badge.
     일라이어스: 죄송해요. 진심으로요. 명찰 단 사람이 하는 그 말이 별 가치 없다는 건 알지만요.
@@ -364,7 +364,7 @@
     일라이어스: 알겠어요. 다른 부탁이 하나 있어요. 그 사람 얘기 아니고요.
 
 116. NADIA: You always say "not about him" right before it's about him.
-    나디아: 당신은 늘 "그 사람 얘기 아니고"라고 한 다음에 그 사람 얘기를 하더라.
+    나디아: 당신은 늘 "그 사람 얘기 아니고"라고 한 다음에 그 사람 얘기를 하더라고요.
 
 117. ELIAS: There's a nurse who protests outside our building. Oksana Hrytsenko. Someone is photographing those protesters from a silver car. I'd like somebody to keep an eye on her.
     일라이어스: 우리 건물 앞에서 시위하는 간호사가 있어요. 옥사나 흐리첸코. 누가 은색 차에서 시위대를 찍고 있어요. 누가 그분을 좀 지켜봐 줬으면 해요.

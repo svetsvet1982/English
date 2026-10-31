@@ -228,8 +228,8 @@
 070. MERCER: I'm listening.
     머서: 듣고 있어요.
 
-071. ELIAS: After the first of June, the children of loud mothers get moved again. New families, farther east, new codes. Your card has an expiration date, and it's twelve days away.
-    일라이어스: 6월 1일이 지나면 시끄러운 엄마들의 아이는 또 옮겨져요. 새 가족, 더 먼 동쪽, 새 코드. 당신 카드엔 유통 기한이 있어요. 12일 남았죠.
+071. ELIAS: After the first of June, the children of loud mothers get moved again. New families, farther east, new codes. Your card has an expiration date, and it's thirteen days away.
+    일라이어스: 6월 1일이 지나면 시끄러운 엄마들의 아이는 또 옮겨져요. 새 가족, 더 먼 동쪽, 새 코드. 당신 카드엔 유통 기한이 있어요. 13일 남았죠.
 
 072. MERCER: Which is exactly why we hold it close and use it fast.
     머서: 그러니까 더더욱 꽉 쥐고 빨리 써야죠.

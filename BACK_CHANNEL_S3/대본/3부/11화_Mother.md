@@ -10,8 +10,8 @@
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 1980년 마리엘 보트리프트 — 글로리아가 "카터는 '열린 마음, 열린 팔'이라고 했다가 그해 여름 정치적으로 대가를 치렀다"며 반대 전문을 말리자, 일라이어스는 "마리엘이 엉망이 된 건 양쪽 정부가 다 사람을 메시지로 썼기 때문"이라고 반박하고 그것을 전문의 논거로 삼는다
 > - 전술 태그: [설득] [비밀] [블러핑] [유출]
-> - 이번 화의 핵심 표현: transit visa (C-1) / welcome interview / outside the scope of assigned duties / chain of custody / We'll take that under advisement. / dissent channel / Asylum is not a currency. / Zdravstvuyte vs. Mamo
-> - 영사 업무 장면: 미국에는 '무비자 환승'이 없다(2003년 중단) — 뉴욕 경유 항공권과 C-1 환승 비자를 '빨리 내주겠다'는 워싱턴의 제안이 사실은 공항 '환영 면담'이라는 것(005~020) · 감찰 면담과 변호인 입회(027~078) · 뉘앙스 장면: 감찰관의 "We'll take that under advisement"를 변호사가 풀어 준다(069~071) · 마크심의 첫마디 "Здравствуйте"(선생님께 하는 인사)와 다음 말 "Мамо"(우크라이나어 호격)를 일라이어스가 로지에게 풀어 준다(094~106)
+> - 이번 화의 핵심 표현: transit visa (C-1) / welcome interview / outside the scope of assigned duties / chain of custody / The request is noted. / dissent channel / Asylum is not a currency. / Zdravstvuyte vs. Mamo
+> - 영사 업무 장면: 미국에는 '무비자 환승'이 없다(2003년 중단) — 뉴욕 경유 항공권과 C-1 환승 비자를 '빨리 내주겠다'는 워싱턴의 제안이 사실은 공항 '환영 면담'이라는 것(005~020) · 감찰 면담과 변호인 입회(027~078) · 뉘앙스 장면: 감찰관의 "The request is noted"를 변호사가 풀어 준다(069~071) · 마크심의 첫마디 "Здравствуйте"(선생님께 하는 인사)와 다음 말 "Мамо"(우크라이나어 호격)를 일라이어스가 로지에게 풀어 준다(094~106)
 > - 복선/연결: 10화 32번째 아이 → 오늘 재회 · 7화 옥사나의 전언 "파란 자전거, 왼쪽 페달" · 7화 "Will you do something, or will you be sorry?"의 답 · 2부 12화 감찰 통보 → 첫 면담("I'd like to have counsel present.") · 1부 11화 일라이어스의 DS 메모('로웰')가 아무도 안 읽은 채 파일에 있음 · 두 번째 반대 전문(첫째는 2026년 12월 18일, 셋째는 4부 9화) · 4부 11화 감찰 결론
 
 ---
@@ -81,7 +81,7 @@
 021. ELIAS: It was. I only read the timetable out loud.
     일라이어스: 그랬죠. 난 시간표를 소리 내서 읽었을 뿐이에요.
 
-022. NADIA: Five-ten, arrivals, international. Mrs. Hrytsenko has been there since six this morning. I'm told she brought something large.
+022. NADIA: Five-ten, arrivals, international. Ms. Hrytsenko has been there since six this morning. I'm told she brought something large.
     나디아: 다섯 시 10분, 국제선 도착장이에요. 흐리첸코 씨는 오늘 아침 여섯 시부터 거기 가 있어요. 뭔가 큰 걸 들고 왔다더군요.
 
 023. GLORIA: Go and be interviewed. And Elias, whatever she asks, answer the question she asks. Not the one you wish she'd asked.
@@ -222,8 +222,8 @@
 068. FINCH: Ms. Anselm, if my client is being investigated for giving children's names to the Red Cross, somebody might look at a man who tried to buy a diplomat.
     핀치: 앤설 씨, 제 의뢰인이 아이들 이름을 적십자에 줬다고 조사받는 거라면, 외교관을 매수하려 한 남자도 누군가는 들여다봐야 하지 않을까요?
 
-069. ANSELM: We'll take that under advisement.
-    앤설: 참고하겠습니다.
+069. ANSELM: The request is noted.
+    앤설: 요청은 기록해 두겠습니다.
 
 070. FINCH: For the record, Elias, that means "no." Politely, and in the passive voice.
     핀치: 기록을 위해 말해 두자면, 일라이어스, 그건 "아니요"라는 뜻이에요. 정중하게, 그리고 수동태로.
@@ -354,17 +354,17 @@
 112. OKSANA: Mr. Grant. You stood behind a pillar.
     옥사나: 그랜트 씨. 기둥 뒤에 서 계셨네요.
 
-113. ELIAS: It's your day, Mrs. Hrytsenko. I didn't want to be in the photograph.
+113. ELIAS: It's your day, Ms. Hrytsenko. I didn't want to be in the photograph.
     일라이어스: 오늘은 흐리첸코 씨의 날이잖아요. 사진에 끼고 싶지 않았어요.
 
-114. OKSANA: In June I asked you a question. Will you do something, or will you be sorry? You never answered.
-    옥사나: 6월에 제가 질문을 하나 했죠. 뭔가를 하실 건가요, 아니면 미안해하실 건가요? 끝내 대답 안 하셨어요.
+114. OKSANA: In June I asked you a question. Will you do something, or will you be sorry? You said "I'll try." I didn't believe you.
+    옥사나: 6월에 제가 질문을 하나 했죠. 뭔가를 하실 건가요, 아니면 미안해하실 건가요? "해 볼게요"라고 하셨죠. 전 안 믿었어요.
 
-115. ELIAS: I'm still not going to.
-    일라이어스: 지금도 안 할 거예요.
+115. ELIAS: I didn't believe me either.
+    일라이어스: 저도 제 말을 안 믿었어요.
 
-116. OKSANA: You don't need to. Maksym, this is the man from the window. Say thank you.
-    옥사나: 안 하셔도 돼요. 마크심, 이분이 창구에 계신 분이야. 고맙다고 해.
+116. OKSANA: Now you can. Maksym, this is the man from the window. Say thank you.
+    옥사나: 이제는 믿으셔도 돼요. 마크심, 이분이 창구에 계신 분이야. 고맙다고 해.
 
 117. MAKSYM: Spasi— Dyakuyu. Sorry. Dyakuyu.
     마크심: 스파시— 댜쿠유. 죄송해요. 댜쿠유.
@@ -481,7 +481,7 @@
 - **Mr. Grant can describe what he did. He won't characterize it.** — 한 일은 설명하되 규정하지는 않는다(변호인) (035)
 - **That isn't the same as…** — 그건 ~와 다르다. 책임 방향을 바로잡는 구문 (050)
 - **chain of custody** — 증거·문서의 관리 이력 (059)
-- **We'll take that under advisement.** — 참고하겠다 = 정중한 수동태의 "아니요"(핀치), 혹은 "적어는 둔다"(앤설) (069~071)
+- **The request is noted.** — 요청은 기록해 두겠다 = 정중한 수동태의 "아니요"(핀치), 혹은 "적어는 둔다"(앤설). 4화 글로리아의 "We'll take it under advisement"와 같은 계열 (069~071)
 - **Zdravstvuyte vs. Mamo** — 낯선 어른에게 하는 러시아어 존댓말 인사 vs. 우크라이나어로 엄마를 부르는 호격 (094~106)
 - **dissent channel / Retaliation is prohibited.** — 반대 의견 채널 / 보복은 금지된다 (129)
 - **Asylum Is Not a Currency.** — 두 번째 반대 전문의 제목 (133)

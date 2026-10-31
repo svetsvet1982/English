@@ -429,7 +429,7 @@
 137. NADIA: I'll add it to the list of men who sell things. It's getting to be a long list, and most of it is in Miami.
     나디아: 물건 파는 남자들 목록에 추가할게요. 목록이 점점 길어지는데, 대부분 마이애미에 있네요.
 
-138. ELIAS: And Mrs. Hrytsenko?
+138. ELIAS: And Ms. Hrytsenko?
     일라이어스: 흐리첸코 씨는요?
 
 139. NADIA: The ombudsman's office calls her at nine tonight. Two weeks, if nothing breaks. Moscow to the Qatari side, then home to Ukraine, then the train to Poland, then a flight here.
@@ -498,4 +498,4 @@
 
 ## 다음 화 예고 (낭독하지 않음)
 
-- 3부 11화 "Mother": 8월 13일, 몬트리올 공항 도착장. 옥사나가 4년 만에 아들을 기다린다. 일라이어스는 유리벽 뒤 멀리 서 있다. 그날 아침 감찰관의 첫 면담이 있고, 그날 밤 그는 두 번째 반대 전문을 쓴다.
+- 3부 11화 "Mother": 8월 13일, 몬트리올 공항 도착장. 옥사나가 5년 만에 아들을 기다린다. 일라이어스는 유리벽 뒤 멀리 서 있다. 그날 아침 감찰관의 첫 면담이 있고, 그날 밤 그는 두 번째 반대 전문을 쓴다.

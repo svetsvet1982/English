@@ -250,8 +250,8 @@
 077. ELIAS: The hotel phone is the only thing here that isn't mine. How's our friend?
     일라이어스: 여기서 내 것이 아닌 건 호텔 전화뿐이에요. 우리 친구는 어때요?
 
-078. NADIA: He ordered za'atar at Nour's at six o'clock, which means he's fine. Nour says he tips like a man who expects to die.
-    나디아: 6시에 누르네 가게에 자타르를 주문했어요. 괜찮다는 뜻이죠. 누르 말로는 곧 죽을 사람처럼 팁을 준대요.
+078. NADIA: He ordered za'atar at Nour's at noon, which means he's fine. Nour says he tips like a man who expects to die.
+    나디아: 정오에 누르네 가게에 자타르를 주문했어요. 괜찮다는 뜻이죠. 누르 말로는 곧 죽을 사람처럼 팁을 준대요.
 
 079. ELIAS: Moscow knows he walked in on the tenth. They have photographs of the door. And they know about Oksana.
     일라이어스: 모스크바는 그가 10일에 들어온 걸 알아요. 문 사진이 있대요. 그리고 옥사나도 알고요.
@@ -268,8 +268,8 @@
 083. NADIA: That's the most romantic thing a man has ever said to me. Go to sleep. Washington lands Monday, with a third officer for the debrief.
     나디아: 남자가 저한테 한 말 중에 제일 로맨틱하네요. 주무세요. 워싱턴 사람들은 월요일에 도착해요. 디브리핑용으로 세 번째 요원까지 데리고요.
 
-084. FRANK: There he is. It's three in the afternoon here. What time is it there?
-    프랭크: 왔구나. 여긴 오후 세 시다. 거긴 몇 시냐?
+084. FRANK: There he is. It's half past three here. What time is it there?
+    프랭크: 왔구나. 여긴 오후 세 시 반이다. 거긴 몇 시냐?
 
 085. ELIAS: Ten-thirty at night, and the sun's still up. Nobody here believes in bedtime.
     일라이어스: 밤 10시 반인데 해가 아직 떠 있어. 여기 사람들은 잘 시간이라는 걸 안 믿어.

@@ -124,8 +124,8 @@
 035. ELIAS: The polite ones are the ones who take things home.
     일라이어스: 공손한 쪽이 뭘 챙겨 가는 쪽이죠.
 
-036. GLORIA: They want our walk-in in a room with them for a week, and they want the briefcase before they want the man.
-    글로리아: 우리 워크인을 일주일 동안 자기들 방에 앉혀 두고 싶대요. 그리고 사람보다 서류 가방을 먼저 원해요.
+036. GLORIA: Mercer never got his Friday; our walk-in said no. Now they want him in a room for a week, and the briefcase first.
+    글로리아: 머서는 금요일 면담을 못 했어요. 우리 워크인이 거절했거든요. 이제는 그 사람을 일주일 동안 방에 앉혀 두고 싶대요. 서류 가방은 사람보다 먼저고요.
 
 037. ELIAS: Of course. A defector is a mouth to feed. A list is a bargaining chip.
     일라이어스: 당연하죠. 망명자는 먹여 살려야 할 입이고, 명단은 협상 카드니까요.
@@ -352,8 +352,8 @@
 111. ELIAS: Thank you. I'll make a certified copy, log who handled it and when, and give you back the original today. Chain of custody.
     일라이어스: 고맙습니다. 공증 사본을 만들고, 누가 언제 만졌는지 기록하고, 원본은 오늘 돌려드릴게요. 증거 관리 절차예요.
 
-112. OKSANA: And this. His fifth birthday, March 2022, one week after the war started. It is the last photograph I took of him.
-    옥사나: 그리고 이거요. 다섯 살 생일, 2022년 3월, 전쟁 나고 일주일 뒤예요. 제가 그 애를 찍은 마지막 사진이에요.
+112. OKSANA: And this. His fifth birthday, March 2022, one week after the war started. My mother sent it from Oleshky. It is the last photograph I have.
+    옥사나: 그리고 이거요. 다섯 살 생일, 2022년 3월, 전쟁 나고 일주일 뒤예요. 엄마가 올레시키에서 보내 준 거예요. 저한테 있는 마지막 사진이에요.
 
 113. ELIAS: He has your eyebrows.
     일라이어스: 눈썹이 어머님을 닮았네요.
