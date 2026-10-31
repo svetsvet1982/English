@@ -435,8 +435,8 @@
 139. FRANK: It's free. Now, is my granddaughter still coming up to you for Thanksgiving, or did your ex-wife change her mind again?
     프랭크: 공짜다. 그건 그렇고, 손녀딸은 추수감사절에 아직 너한테 가는 거냐, 아니면 네 전처가 또 마음을 바꿨냐?
 
-140. ELIAS: Julia's sending her up on Wednesday. She's already informed me that window four is "kind of tragic."
-    일라이어스: 줄리아가 수요일에 보낸대. 로지는 벌써 4번 창구가 "좀 비극적"이라고 통보했고.
+140. ELIAS: Julia's putting her on the train Wednesday. She's already informed me that window four is "kind of tragic."
+    일라이어스: 줄리아가 수요일에 기차 태워 보낸대. 로지는 벌써 4번 창구가 "좀 비극적"이라고 통보했고.
 
 141. FRANK: She's fourteen. Everything is kind of tragic. Make her a real turkey, not a za'atar, and call me on the video thing.
     프랭크: 열네 살이잖아. 그 나이엔 다 좀 비극적이야. 자타르 말고 진짜 칠면조 해 주고, 그 영상통화로 나한테 걸어.

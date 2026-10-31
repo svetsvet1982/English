@@ -39,8 +39,8 @@
 007. ROSIE: Even worse. Mom's calling. Don't say anything weird.
     로지: 더 최악이네. 엄마 전화다. 이상한 말 하지 마.
 
-008. JULIA: Happy Thanksgiving. Is she alive? Did she sleep? Did you feed her anything that wasn't from a café?
-    줄리아: 해피 땡스기빙. 애 살아 있어? 잠은 잤고? 카페 음식 말고 뭐라도 먹였어?
+008. JULIA: Happy Thanksgiving. Is she alive after that train? Did she sleep? Did you feed her anything that wasn't from a café?
+    줄리아: 해피 땡스기빙. 그 기차 타고 가서 애 살아 있어? 잠은 잤고? 카페 음식 말고 뭐라도 먹였어?
 
 009. ELIAS: Jules, she's alive, she slept, and we're having a turkey for one and a half people.
     일라이어스: 줄스, 살아 있고, 잤고, 우린 1.5인분 칠면조를 먹을 거야.
@@ -156,8 +156,8 @@
 046. ELIAS: I see.
     일라이어스: 그렇군요.
 
-047. GLORIA: The system shows an appointment for her on October twenty-sixth. Your window. Recorded as a no-show.
-    글로리아: 시스템에 10월 26일 그 사람 예약이 있어요. 당신 창구요. 불참으로 기록돼 있고요.
+047. GLORIA: In October we reported a nameless Brazilian no-show. Now they've sent her name. October twenty-sixth, your window.
+    글로리아: 10월엔 이름 없는 브라질인 불참자 하나로 보고했죠. 이번엔 이름을 보내왔어요. 10월 26일, 당신 창구.
 
 048. ELIAS: That's what the record says.
     일라이어스: 기록엔 그렇게 돼 있죠.
@@ -288,125 +288,125 @@
 090. FRANK: No. The buses had already started rolling in September 1976, under a federal court order, and they kept rolling while the lawyers argued.
     프랭크: 아니. 버스는 이미 1976년 9월에 연방법원 명령으로 다니기 시작했고, 변호사들이 다투는 동안에도 계속 다녔어.
 
-091. FRANK: In 1979 it went back up, and the Court upheld busing across the whole district, five to four. The case is Dayton Board of Education versus Brinkman. Twice.
+091. ROSIE: And then?
+    로지: 그다음엔요?
+
+092. FRANK: In 1979 it went back up, and the Court upheld busing across the whole district, five to four. The case is Dayton Board of Education versus Brinkman. Twice.
     프랭크: 1979년에 다시 대법원에 올라갔고, 대법원이 학군 전체 버스 통학을 5 대 4로 인정했지. 사건 이름이 '데이턴 교육위원회 대 브링크먼'이야. 두 번.
 
-092. ELIAS: You're skipping the part where you were in it.
+093. ELIAS: You're skipping the part where you were in it.
     일라이어스: 아빠가 거기 있었던 부분은 건너뛰네.
 
-093. FRANK: I'm getting there. In 1972, when the lawsuit was filed, I was a senior. I stood up at a school board meeting and said the families suing the board were right.
+094. FRANK: I'm getting there. In 1972, when the lawsuit was filed, I was a senior. I stood up at a school board meeting and said the families suing the board were right.
     프랭크: 거기까지 가는 중이야. 1972년에 소송이 제기됐을 때 난 고등학교 3학년이었어. 교육위원회 회의에서 일어나서 교육위원회를 고소한 가족들이 옳다고 말했지.
 
-094. ROSIE: At eighteen? In front of everybody?
+095. ROSIE: At eighteen? In front of everybody?
     로지: 열여덟 살에요? 사람들 다 있는 데서요?
 
-095. FRANK: My knees were shaking. My history teacher, Mrs. Odom, walked up and stood next to me. Not behind me — next to me.
+096. FRANK: My knees were shaking. My history teacher, Mrs. Odom, walked up and stood next to me. Not behind me — next to me.
     프랭크: 무릎이 덜덜 떨렸지. 그때 역사 선생님이던 오덤 선생님이 걸어 나와서 내 옆에 섰어. 뒤가 아니라, 옆에.
 
-096. ELIAS: That's what you said about Gloria. Next to you, not behind you.
+097. ELIAS: That's what you said about Gloria. Next to you, not behind you.
     일라이어스: 아빠가 글로리아 얘기할 때 한 말이네. 뒤가 아니라 옆에.
 
-097. FRANK: Four years later, in September of '76, I was twenty-two and teaching history in her building. I didn't know anything except dates.
+098. FRANK: Four years later, in September of '76, I was twenty-two and teaching history in her building. I didn't know anything except dates.
     프랭크: 4년 뒤, 76년 9월에 난 스물두 살이었고 그 선생님 학교에서 역사를 가르치고 있었어. 아는 거라곤 연도밖에 없었지.
 
-098. ROSIE: Grandpa, you were twenty-two? That's like, eight years older than me.
+099. ROSIE: Grandpa, you were twenty-two? That's like, eight years older than me.
     로지: 할아버지가 스물두 살이었어요? 그럼 저보다 겨우 여덟 살 많은 거잖아요.
 
-099. FRANK: Don't remind me. The first morning, a few dozen parents stood outside our front entrance with signs. Not a riot. Just angry people who'd been told their world was ending.
+100. FRANK: Don't remind me. The first morning, a few dozen parents stood outside our front entrance with signs. Not a riot. Just angry people who'd been told their world was ending.
     프랭크: 상기시키지 마라. 첫날 아침에 학부모 몇십 명이 정문 앞에 피켓을 들고 섰어. 폭동은 아니었어. 세상이 끝난다는 말을 들은, 그냥 화난 사람들이었지.
 
-100. FRANK: The principal gave us two choices. Door one: march the new kids through the front, past the signs, with police on both sides.
+101. ROSIE: What did the school do?
+    로지: 학교는 어떻게 했어요?
+
+102. FRANK: The principal gave us two choices. Door one: march the new kids through the front, past the signs, with police on both sides.
     프랭크: 교장 선생님이 선택지 두 개를 줬어. 첫 번째 문, 새로 오는 아이들을 경찰을 양옆에 세우고 피켓 사이로 정문으로 걷게 한다.
 
-101. ELIAS: Which turns twelve-year-olds into a news photo.
+103. ELIAS: Which turns twelve-year-olds into a news photo.
     일라이어스: 열두 살짜리들을 뉴스 사진으로 만드는 거지.
 
-102. FRANK: Door two: bring the buses around back to the loading dock and slip the kids in where nobody would see them.
+104. FRANK: Door two: bring the buses around back to the loading dock and slip the kids in where nobody would see them.
     프랭크: 두 번째 문, 버스를 뒤쪽 하역장으로 돌려서 아무도 못 보게 애들을 몰래 들여보낸다.
 
-103. ROSIE: That's awful. That's like telling them they're a delivery.
+105. ROSIE: That's awful. That's like telling them they're a delivery.
     로지: 그거 끔찍해요. 걔네가 택배라고 말하는 거잖아요.
 
-104. FRANK: That's exactly what one of the girls said to me, years later. Word for word. "You almost brought us in like groceries."
+106. FRANK: That's exactly what one of the girls said to me, years later. Word for word. "You almost brought us in like groceries."
     프랭크: 몇 년 뒤에 그 여학생 하나가 나한테 딱 그렇게 말했어. 토씨 하나 안 틀리고. "선생님들이 우릴 장 본 물건처럼 들여올 뻔했잖아요."
 
-105. ROSIE: So which door did you pick?
+107. ROSIE: So which door did you pick?
     로지: 그래서 할아버지는 어느 문 골랐어요?
 
-106. FRANK: Neither. Everybody was arguing about the doors of the school. Nobody had thought about the door of the bus.
+108. FRANK: Neither. Everybody was arguing about the doors of the school. Nobody had thought about the door of the bus.
     프랭크: 둘 다 아니야. 다들 학교 문을 두고 싸우고 있었어. 버스 문을 생각한 사람은 아무도 없었지.
 
-107. ROSIE: The bus has a door. Okay. And?
+109. ROSIE: The bus has a door. Okay. And?
     로지: 버스에도 문이 있죠. 그래서요?
 
-108. FRANK: I walked to the bus garage at five in the morning and asked the driver if I could ride along. I rode across town to their neighborhood, met them at their stop, and rode back with them.
+110. FRANK: I walked to the bus garage at five in the morning and asked the driver if I could ride along. I rode across town to their neighborhood, met them at their stop, and rode back with them.
     프랭크: 새벽 다섯 시에 버스 차고까지 걸어가서 기사님한테 같이 타도 되냐고 물었어. 시내를 가로질러 그 애들 동네까지 가서 정류장에서 만나고, 같이 타고 돌아왔지.
 
-109. ELIAS: And when the bus pulled up?
+111. ELIAS: And when the bus pulled up?
     일라이어스: 그리고 버스가 도착했을 때는?
 
-110. FRANK: Five other teachers had heard about it by then. They were on the steps. Not police — teachers. We got off the bus first, and the kids walked in with people who'd been on their side of town that morning.
+112. FRANK: Five other teachers had heard about it by then. They were on the steps. Not police — teachers. We got off the bus first, and the kids walked in with people who'd been on their side of town that morning.
     프랭크: 그때쯤엔 다른 선생님 다섯 명이 소문을 들었더라고. 계단에 서 있었어. 경찰이 아니라 선생님들이. 우리가 먼저 내렸고, 애들은 그날 아침 자기네 동네에 와 있던 사람들이랑 같이 걸어 들어갔지.
 
-111. ROSIE: Through the front door.
+113. ROSIE: Through the front door.
     로지: 정문으로요.
 
-112. FRANK: Through the front door. Same door as option one. But it meant something else, because of how they got there.
+114. FRANK: Through the front door. Same door as option one. But it meant something else, because of how they got there.
     프랭크: 정문으로. 첫 번째 선택지랑 같은 문이야. 근데 어떻게 거기까지 갔느냐 때문에 뜻이 달라졌지.
 
-113. ROSIE: Did it fix everything?
+115. ROSIE: Did it fix everything?
     로지: 그래서 다 해결됐어요?
 
-114. FRANK: Oh, honey, no. That was one morning in a fight that took decades. I'd be lying if I told you that one bus ride fixed Dayton.
+116. FRANK: Oh, honey, no. That was one morning in a fight that took decades. I'd be lying if I told you that one bus ride fixed Dayton.
     프랭크: 아이고, 얘야, 아니지. 수십 년 걸린 싸움에서 아침 하루였을 뿐이야. 버스 한 번 탄 걸로 데이턴이 고쳐졌다고 하면 거짓말이지.
 
-115. ROSIE: Then why is it your saying?
+117. ROSIE: Then why is it your saying?
     로지: 그럼 왜 그게 할아버지 말버릇이에요?
 
-116. FRANK: Because the principal asked me afterward how I'd thought of it. I said, "There's always a third door. Usually it's the one you're already standing in."
+118. FRANK: Because the principal asked me afterward how I'd thought of it. I said, "There's always a third door. Usually it's the one you're already standing in."
     프랭크: 나중에 교장 선생님이 어떻게 그런 생각을 했냐고 묻더라. 그래서 말했지. "항상 세 번째 문이 있어요. 대개는 이미 서 있는 바로 그 문이고요."
 
-117. ROSIE: That's actually kind of beautiful, Grandpa. Don't tell anyone I said that.
+119. ROSIE: That's actually kind of beautiful, Grandpa. Don't tell anyone I said that.
     로지: 그거 좀 멋있다, 할아버지. 내가 그랬다고 아무한테도 말하지 마요.
 
-118. ELIAS: And you told me that the day I got suspended in fourth grade.
+120. ELIAS: And you told me that the day I got suspended in fourth grade.
     일라이어스: 그리고 그 얘길 나 4학년 때 정학당한 날 해 줬지.
 
-119. FRANK: For punching the Henderson boy, who had it coming. Two doors: you apologize, or you punch him again. You found a third.
+121. FRANK: For punching the Henderson boy, who had it coming. Two doors: you apologize, or you punch him again. You found a third.
     프랭크: 헨더슨네 애를 때렸을 때. 맞을 만했지. 문은 두 개였어. 사과하든가, 한 대 더 치든가. 넌 세 번째를 찾았고.
 
-120. ROSIE: What was the third?
+122. ROSIE: What was the third?
     로지: 세 번째는 뭐였어요?
 
-121. ELIAS: I asked the principal if I could sit with him at lunch for a week. Nobody picks on the kid who eats lunch with the principal every day.
+123. ELIAS: I asked the principal if I could sit with him at lunch for a week. Nobody picks on the kid who eats lunch with the principal every day.
     일라이어스: 교장 선생님한테 일주일 동안 점심을 같이 먹어도 되냐고 물었어. 매일 교장이랑 점심 먹는 애는 아무도 안 건드리거든.
 
-122. ROSIE: Oh my God. That's the most you thing I've ever heard.
+124. ROSIE: Oh my God. That's the most you thing I've ever heard.
     로지: 세상에. 내가 들어 본 것 중에 제일 아빠다운 얘기야.
 
-123. FRANK: He did it again today, didn't he? I could hear it on his face.
+125. FRANK: He did it again today, didn't he? I could hear it on his face.
     프랭크: 오늘도 그랬구나, 그렇지? 얼굴에 다 들리더라.
 
-124. ROSIE: Grandpa, you can't hear a face.
+126. ROSIE: Grandpa, you can't hear a face.
     로지: 할아버지, 얼굴은 들리는 게 아니에요.
 
-125. FRANK: You can if it's your son's. Go eat, both of you.
+127. FRANK: You can if it's your son's. Go eat, both of you.
     프랭크: 아들 얼굴이면 들려. 둘 다 가서 먹어라.
 
-126. PIERRE-LUC: Sorry, sorry. I have to step out. My cousin's hockey pool. It's a whole thing.
+128. PIERRE-LUC: Sorry, sorry. I have to step out. My cousin's hockey pool. It's a whole thing.
     피에르뤽: 죄송해요, 죄송해요. 잠깐 나가 봐야 돼요. 사촌 하키 내기 때문에요. 일이 좀 복잡해서.
 
-127. ELIAS: On Thanksgiving?
+129. ELIAS: On Thanksgiving?
     일라이어스: 추수감사절에?
 
-128. PIERRE-LUC: American Thanksgiving. Hockey doesn't know about it. Bonne soirée, Rosie! Remember: never cut the fries.
+130. PIERRE-LUC: American Thanksgiving. Hockey doesn't know about it. Bonne soirée, Rosie! Remember: never cut the fries.
     피에르뤽: 미국 추수감사절이잖아요. 하키는 그런 거 몰라요. 좋은 저녁 보내, 로지! 기억해, 감자는 절대 자르지 마.
-
-129. GLORIA: He's been taking calls in the stairwell all week, Elias. I assumed it was a girl, and I decided it wasn't my business.
-    글로리아: 일주일 내내 계단에서 전화 받더라고요, 일라이어스. 여자 친구겠거니 했고, 내가 상관할 일은 아니라고 생각했어요.
-
-130. ELIAS: Maybe it is. He's allowed one secret on a holiday.
-    일라이어스: 그럴지도요. 명절에 비밀 하나쯤은 괜찮죠.
 
 131. ROSIE: Dad, can I tell you something weird on the way home?
     로지: 아빠, 집에 가는 길에 이상한 얘기 하나 해도 돼?
@@ -484,8 +484,8 @@
 - **insubordination** — 항명, 상부 지시 불복 (064)
 - **We'll take that under advisement.** — "참고하겠습니다." 사실상 거절이지만 인용할 수 없는 거절 (070~074)
 - **Put it in writing, and then don't.** — 글로리아의 말버릇. 기록은 남기되 불필요한 말은 남기지 말라 (075)
-- **There's always a third door.** — 일라이어스의 말버릇, 그 기원은 프랭크의 1976년 아침 (085, 116)
-- **had it coming** — 당해도 싼 (119)
+- **There's always a third door.** — 일라이어스의 말버릇, 그 기원은 프랭크의 1976년 아침 (085, 118)
+- **had it coming** — 당해도 싼 (121)
 - **balance due / solde** — 미지급 잔액 (133~135)
 
 ## 역사 노트 (낭독하지 않음)
