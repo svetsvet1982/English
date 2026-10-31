@@ -88,8 +88,8 @@
 024. SAMIRA: How many hours?
     사미라: 몇 시간 전이요?
 
-025. LENA: Some on Friday afternoon. Most of it in the first hour after the market reopened on Sunday night, London time. About thirteen hours before the strike.
-    레나: 일부는 금요일 오후에요. 대부분은 런던 시간 일요일 밤 시장이 다시 열린 뒤 첫 한 시간 안에요. 피격 열세 시간쯤 전이죠.
+025. LENA: Some on Friday afternoon, the same Friday I told you the war-risk premium twitched. Most of it in the first hour after the market reopened Sunday night, London time. About thirteen hours before the strike.
+    레나: 일부는 금요일 오후에요. 제가 전쟁 위험 보험료가 살짝 움찔했다고 말씀드린 그 금요일이요. 대부분은 런던 시간 일요일 밤 시장이 다시 열린 뒤 첫 한 시간 안에요. 피격 열세 시간쯤 전이죠.
 
 026. ELIAS: Sunday night in London. Who trades Brent options at midnight on a Sunday?
     일라이어스: 런던의 일요일 밤이요. 일요일 자정에 브렌트유 옵션을 누가 거래해요?
