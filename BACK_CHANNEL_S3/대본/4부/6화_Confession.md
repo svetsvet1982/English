@@ -24,8 +24,8 @@
 002. ELIAS: Nine days. Gloria asked about you twice. How's the stomach?
     일라이어스: 9일 만이네. 글로리아가 두 번이나 물어봤어. 배는 좀 어때?
 
-003. PIERRE-LUC: Still attached. Number seven is a Colombian lady with a very organized folder. I'll interpret if you need Spanish.
-    피에르뤽: 아직 붙어 있어요. 7번은 서류철 정리를 엄청 잘해 온 콜롬비아 분이에요. 스페인어 필요하면 제가 통역할게요.
+003. PIERRE-LUC: Still attached. Number seven is Colombian. I'll interpret if you need Spanish.
+    피에르뤽: 아직 붙어 있어요. 7번은 콜롬비아 분이에요. 스페인어 필요하면 제가 통역할게요.
 
 004. YESENIA: Good morning. I speak English, it's okay. Yesenia Caicedo. Here is my passport, and my permanent resident card.
     예세니아: 안녕하세요. 영어 할 줄 알아요, 괜찮아요. 예세니아 카이세도예요. 여기 여권이랑 영주권 카드요.
@@ -66,8 +66,8 @@
 016. ELIAS: Take it. Ms. Caicedo, your brother's name is Jhon Fredy Caicedo?
     일라이어스: 그래. 카이세도 씨, 남동생 이름이 존 프레디 카이세도예요?
 
-017. YESENIA: Yes. With an "h." My father wanted it to look American. Why? Is it a problem for my visa?
-    예세니아: 네. 'h'가 들어가요. 아빠가 미국식으로 보이길 원하셨거든요. 왜요? 제 비자에 문제가 돼요?
+017. YESENIA: Yes. With an "h," to look American. Is it a problem for my visa?
+    예세니아: 네. 미국식으로 보이게 'h'가 들어가요. 제 비자에 문제가 돼요?
 
 018. ELIAS: No. Your visa depends on you, not on your brother. You have a job, a residence card, and a reason to come back.
     일라이어스: 아뇨. 비자는 남동생이 아니라 본인에게 달렸어요. 직장도 있고, 영주권 카드도 있고, 돌아올 이유도 있으시잖아요.
@@ -99,8 +99,8 @@
 027. ELIAS: Pierre-Luc. You've been on these stairs for forty minutes.
     일라이어스: 피에르뤽. 너 이 계단에 40분째 있어.
 
-028. PIERRE-LUC: The smokers come out at eleven-thirty. I don't smoke. I just needed somewhere with no windows.
-    피에르뤽: 담배 피우는 사람들이 열한 시 반에 나와요. 전 담배 안 피워요. 그냥 창문 없는 데가 필요했어요.
+028. PIERRE-LUC: I don't even smoke. I just needed somewhere with no windows.
+    피에르뤽: 전 담배도 안 피워요. 그냥 창문 없는 데가 필요했어요.
 
 029. ELIAS: Her brother's name. You've seen it before.
     일라이어스: 그 여자 남동생 이름. 전에 본 적 있지.
@@ -123,7 +123,7 @@
 035. ELIAS: Do you want me to call her?
     일라이어스: 내가 전화해 줄까?
 
-036. PIERRE-LUC: Yes. No. Yes. And then you go away, boss. I don't want you in the room.
+036. PIERRE-LUC: Yes. No. Yes. Then go away, boss. Not in the room.
     피에르뤽: 네. 아뇨. 네. 그리고 보스는 빠지세요. 보스가 그 방에 있는 건 싫어요.
 
 037. ELIAS: I wasn't going to be in the room. Every word you say to me, I have to write down, and then it's mine. This has to stay yours.
@@ -135,8 +135,8 @@
 039. ELIAS: It's Grant. Someone here needs your door. Not me. Today, if you can.
     일라이어스: 그랜트예요. 여기 누가 당신 문이 필요해요. 제가 아니라요. 가능하면 오늘이요.
 
-040. NADIA: Two o'clock. The office with no sign. Tell him to bring everything, and to come alone.
-    나디아: 두 시요. 문패 없는 사무실. 전부 가져오라고 하세요. 혼자 오라고도요.
+040. NADIA: Two o'clock, the office with no sign. Everything, and alone.
+    나디아: 두 시요, 문패 없는 사무실. 전부 가지고, 혼자 오라고 하세요.
 
 041. ELIAS: He'll bring everything. He wrote it all down, on my advice.
     일라이어스: 전부 가져갈 거예요. 제 조언대로 다 적어 뒀거든요.
@@ -225,7 +225,7 @@
 069. PIERRE-LUC: May 10th. A Russian at window four, number seven, interview room two. I wasn't even upstairs anymore. The guard told me at lunch. I sold the guard's gossip.
     피에르뤽: 5월 10일. 4번 창구의 러시아 사람, 7번, 2번 면담실. 전 그때 위층에 있지도 않았어요. 점심때 경비원이 말해 줬어요. 경비원 수다를 판 거예요.
 
-070. NADIA: That gossip sent two men to a house in Notre-Dame-de-Grâce in July. Did you know that?
+070. NADIA: That gossip sent two men to a house in Notre-Dame-de-Grâce. Did you know?
     나디아: 그 수다 때문에 7월에 남자 둘이 노트르담드그라스의 어느 집에 쳐들어갔어요. 알고 있었어요?
 
 071. PIERRE-LUC: Not until now.
@@ -351,8 +351,8 @@
 111. PIERRE-LUC: From him. In the car. Câline, you even talk like him.
     피에르뤽: 그 사람한테서요. 차 안에서. 세상에, 말투까지 그 사람이랑 똑같네요.
 
-112. BELHADJ: The phone is buzzing. The glove-box phone. Don't touch it, please. I'll read it out for the recording.
-    벨하지: 전화기가 울려요. 글러브 박스 전화기요. 만지지 마세요. 녹화를 위해 제가 읽겠습니다.
+112. BELHADJ: The glove-box phone is buzzing. Don't touch it. I'll read it aloud.
+    벨하지: 글러브 박스 전화기가 울려요. 만지지 마세요. 제가 소리 내서 읽겠습니다.
 
 113. BELHADJ: "Missed you this week. Hope it was nothing you ate. Receipts don't expire, Pierre-Luc. Neither do contracts. Charge the phone. L."
     벨하지: "이번 주에 못 봤네요. 먹은 게 탈 난 게 아니었길. 영수증은 만료되지 않아요, 피에르뤽. 계약도요. 전화기 충전해요. L."
@@ -392,3 +392,108 @@
 
 125. PIERRE-LUC: That's worse. That's so much worse.
     피에르뤽: 그게 더 나빠요. 훨씬 더 나빠요.
+
+126. GLORIA: Sit. You said "security incident" on the phone. My two least favorite words.
+    글로리아: 앉아요. 전화로 '보안 사고'라고 했죠. 내가 제일 싫어하는 두 단어예요.
+
+127. ELIAS: Pierre-Luc walked into Nadia's office at two o'clock, with a notebook and a second phone.
+    일라이어스: 피에르뤽이 두 시에 공책이랑 두 번째 전화기를 들고 나디아 사무실에 들어갔어요.
+
+128. NADIA: Three hours. December, the ICAO months, May, and September. Everything.
+    나디아: 세 시간이요. 12월, ICAO 시기, 5월, 그리고 9월. 전부 다요.
+
+129. GLORIA: September. The fishermen.
+    글로리아: 9월이라. 어부들.
+
+130. NADIA: Thirteen names from your visa records, and one church bulletin from Saint-Michel. I'll say no more than that in this building.
+    나디아: 이 영사관 비자 기록에서 나온 이름 열세 개, 그리고 생미셸 성당 주보 한 장이요. 이 건물 안에선 그 이상 말하지 않을게요.
+
+131. GLORIA: Does he know you knew, Elias? Since April?
+    글로리아: 당신이 알고 있었다는 걸 그 애도 알아요, 일라이어스? 4월부터?
+
+132. ELIAS: He does now. He was angrier about the cheese than about the RCMP.
+    일라이어스: 이제는 알아요. RCMP보다 치즈 때문에 더 화를 내더라고요.
+
+133. GLORIA: I have to report this to the regional security officer tonight. A locally employed staff member, unauthorized disclosure. The cable writes itself.
+    글로리아: 오늘 밤 지역 보안관에게 보고해야 해요. 현지 채용 직원, 무단 정보 유출. 전문은 저절로 써지죠.
+
+134. NADIA: Write it, Consul General. But Ottawa asks that he keep coming to work. Same desk, same hours, same face. Whoever is watching him shouldn't see a change.
+    나디아: 쓰세요, 총영사님. 다만 오타와는 그가 계속 출근하길 바라요. 같은 책상, 같은 시간, 같은 얼굴로요. 누가 그를 지켜보든 변화를 눈치채면 안 되니까요.
+
+135. GLORIA: You want the man who sold my building to stay in it.
+    글로리아: 내 건물을 팔아넘긴 사람을 내 건물 책상에 계속 앉혀 두라는 거군요.
+
+136. NADIA: I want you to keep a cooperating witness alive. With all due respect, the man he worked for sends text messages about receipts.
+    나디아: 협조 증인을 살려 두라는 거예요. 송구하지만, 그가 일한 그 남자는 영수증 얘기가 담긴 문자를 보내는 사람이에요.
+
+137. GLORIA: Then he works upstairs, no access to records, and Marisol thinks he has a stomach ulcer. Put it in writing, and then don't.
+    글로리아: 그럼 위층에서 일하되 기록 접근은 막고, 마리솔은 위궤양인 줄 알게 두죠. 서면으로 남기고, 그다음엔 남기지 말고.
+
+138. ELIAS: Nadia, one more thing. Lowell. Did he say cashmere?
+    일라이어스: 나디아, 하나 더요. 로웰이요. 캐시미어라고 했어요?
+
+139. NADIA: A cashmere coat, even in September. Why?
+    나디아: 9월에도 캐시미어 코트라고요. 왜요?
+
+140. ELIAS: In March, a courier in Washington delivered an envelope to Lena Voss, the one that started her story about me. The man who paid for it wore a cashmere coat and tipped fifty dollars.
+    일라이어스: 3월에 워싱턴의 한 퀵서비스 기사가 레나 보스한테 봉투를 배달했어요. 저에 관한 그 기사의 시작이었죠. 배달비를 낸 남자가 캐시미어 코트를 입고 팁을 50달러 줬대요.
+
+141. NADIA: The same man who paid Pierre-Luc fed the journalist. Will you tell her?
+    나디아: 피에르뤽한테 돈을 준 남자가 그 기자한테 먹이도 준 거네요. 그 기자한테 말할 거예요?
+
+142. ELIAS: Not yet. She'd write it before she could prove it, and he'd disappear. He'll disappear anyway. I'd like it to cost him something.
+    일라이어스: 아직은요. 그 사람은 증명하기 전에 쓸 거고, 그럼 로웰은 사라지겠죠. 어차피 사라지긴 할 거예요. 그래도 대가는 좀 치르게 하고 싶어요.
+
+143. PIERRE-LUC: You came. I thought you'd go home and write a memo about me.
+    피에르뤽: 오셨네요. 집에 가서 저에 대한 메모를 쓰실 줄 알았어요.
+
+144. ELIAS: The memo's written. Gloria sent it at eight. Now I'm eating poutine, which you've recommended forty times.
+    일라이어스: 메모는 다 썼어. 글로리아가 여덟 시에 보냈고. 이제 푸틴 먹을 거야. 네가 마흔 번은 추천한 거.
+
+145. PIERRE-LUC: You're eating it wrong. You don't cut the potatoes. Never. Is it over, boss?
+    피에르뤽: 잘못 드시는 거예요. 감자는 절대 자르면 안 돼요. 절대로요. 이제 끝난 거예요, 보스?
+
+146. ELIAS: No. But it's yours now, not his. That's the difference between a secret and a confession.
+    일라이어스: 아니. 하지만 이제 그건 그 사람 게 아니라 네 거야. 비밀과 자백의 차이가 그거야.
+
+147. FRANK: Did you eat?
+    프랭크: 밥은 먹었니?
+
+148. ELIAS: Poutine, at La Banquise, with a colleague who walked in on his own today.
+    일라이어스: 라 방키즈에서 푸틴. 오늘 제 발로 걸어 들어간 동료랑.
+
+149. FRANK: Like my boy after class. Mine took till Christmas. Yours beat it.
+    프랭크: 수업 끝나고 남던 내 그 아이 같구나. 걔는 크리스마스까지 걸렸는데. 네 쪽이 더 빨랐네.
+
+150. ELIAS: He did it himself, Dad. I just kept the room open. And don't tell Rosie it was poutine.
+    일라이어스: 걔가 스스로 한 거야, 아빠. 난 교실을 열어 뒀을 뿐이고. 그리고 로지한텐 푸틴이었다고 말하지 마.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **Your visa depends on you, not on your brother.** — 비자는 본인에게 달렸지, 가족에게 달린 게 아니다 (018)
+- **walk in instead of being carried in** — 끌려 들어가는 대신 제 발로 걸어 들어가다 = 자수 (048, 053)
+- **I don't arrest people. I decide which police.** — 난 체포하지 않는다. 어느 경찰이 할지 정할 뿐 (042)
+- **Start with the first time. Not the first excuse.** — 첫 핑계 말고 첫 번째 일부터 (055)
+- **Nobody audits boredom.** — 지루함은 아무도 감사하지 않는다 (077)
+- **I was the confirmation.** — 내가 그 '확인'이었다 (089)
+- **imminent / imminence** — 임박함. "이틀에 걸쳐 확인한 위협은 임박한 게 아니라 장보기 목록" (094)
+- **Clever gets you life. Complete gets you a future.** — 똑똑하게 굴면 종신형, 빠짐없이 말하면 미래 (108)
+- **cooperating witness** — 협조 증인 ↔ defendant(피고인) (108, 136)
+- **That's a calendar.** — 그건 협박이 아니라 달력이다 (카버의 말을 나디아가 되돌림) (110)
+- **No comment. vs. I'm not in a position to comment.** — 내가 문을 닫는다 vs 다른 누군가 문을 잠갔다 (117~119)
+- **chain of custody / debrief** — 증거 보관 연속성 / (정식) 진술 청취 (120)
+- **act normal** — 평소처럼 행동하라 (115)
+- **That's the difference between a secret and a confession.** — 이제 그건 그 사람 게 아니라 네 것 = 비밀과 자백의 차이 (146)
+
+## 역사 노트 (낭독하지 않음)
+
+- 1985년 미국에서는 간첩 사건이 잇달아 터져 언론이 이해를 '스파이의 해(Year of the Spy)'라고 불렀다. 5월에는 전 해군 통신 준위 존 워커가 체포됐다. 그는 1960년대 말부터 17년 가까이 해군 암호 자료를 소련에 팔았고, 아들 마이클과 형 아서, 친구 제리 휘트워스까지 끌어들였다. 그를 FBI에 신고한 사람은 전처 바버라였다.
+- 11월에는 전 NSA 분석관 로널드 펠턴이 체포됐다. 빚에 시달리다 파산한 그는 1980년 워싱턴의 소련 대사관에 직접 걸어 들어가, 오호츠크해 해저 군사 통신 케이블을 도청하던 미국 작전 '아이비 벨스'를 비롯한 정보를 넘기고 몇 년에 걸쳐 3만 5천 달러가량을 받았다. 그는 1986년 종신형을 선고받았다. 같은 달 해군 정보 분석관 조너선 폴러드가 이스라엘 대사관 앞에서 체포됐다.
+- 이 해 간첩들 상당수는 이념보다 돈이 동기였다는 점이 당시에도 크게 주목받았다.
+- 극 중 활용: 나디아는 "나 같은 사람은 어떻게 되냐"는 피에르뤽에게 빚 때문에 판 펠턴, 가족이 신고한 워커를 예로 들어 "반만 말하면 종신형, 빠짐없이 말하면 미래"라고 설득하고 경고한다. 해저 케이블 도청 작전의 이름은 시즌 1의 해저 케이블 사건과 조용히 운을 맞춘다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 4부 7화 "Rosa": 로사 아리아스가 미국 관리 앞에서 남편의 사진을 꺼낸다. 일라이어스는 그녀를 위해 할 수 있는 게 없다. 그래서 그녀가 질문할 자리를 만든다.

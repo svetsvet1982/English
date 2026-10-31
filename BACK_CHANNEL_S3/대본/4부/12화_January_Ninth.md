@@ -18,8 +18,8 @@
 
 ## 대본
 
-001. PIERRE-LUC: Boss. The building's closed, the lobby's dark, and the machine is still stuck on seven. It's loyal.
-    피에르뤽: 보스. 건물은 문 닫았고, 로비는 깜깜한데, 기계는 아직도 7에서 멈춰 있어요. 의리 있어요.
+001. PIERRE-LUC: Boss. The building's closed, and the machine is still stuck on seven.
+    피에르뤽: 보스. 건물은 문 닫았는데, 기계는 아직도 7에서 멈춰 있어요.
 
 002. ELIAS: It's the only thing in this consulate with a perfect attendance record.
     일라이어스: 이 영사관에서 개근상 받을 건 저거 하나야.
@@ -57,8 +57,8 @@
 013. PIERRE-LUC: And then they promoted him.
     피에르뤽: 그래서 승진했고요.
 
-014. ELIAS: Then Washington read it, because Washington was already asking itself what to do about Moscow. It became the root of containment.
-    일라이어스: 그다음에 워싱턴이 읽었어. 워싱턴은 이미 모스크바를 어떻게 할지 스스로 묻고 있었으니까. 그게 봉쇄 정책의 뿌리가 됐지.
+014. ELIAS: Then Washington read it, because Washington was already asking itself what to do about Moscow. A year later it was the root of containment, and Kennan was the most quoted man in the building.
+    일라이어스: 그다음에 워싱턴이 읽었어. 워싱턴은 이미 모스크바를 어떻게 할지 스스로 묻고 있었으니까. 1년 뒤엔 그게 봉쇄 정책의 뿌리가 됐고, 케넌은 그 건물에서 제일 많이 인용되는 사람이 됐지.
 
 015. PIERRE-LUC: So the trick is timing. You write the answer, and you wait for the question.
     피에르뤽: 그러니까 비결은 타이밍이네요. 답을 써 두고, 질문을 기다리는 거.
@@ -105,8 +105,8 @@
 029. WILMER: A letter from the doctor, in English and Spanish. The surgery date is underlined twice. My sister did that.
     윌메르: 의사 편지요. 영어랑 스페인어로요. 수술 날짜에 밑줄이 두 번 그어져 있어요. 누나가 그었어요.
 
-030. ELIAS: Mr. Quiñones, in August I said a refusal with a reason is a door with directions on it. You followed the directions. Approved.
-    일라이어스: 키뇨네스 씨, 8월에 제가 이유 있는 거절은 길 안내가 붙은 문이라고 했죠. 그 안내를 따라오셨어요. 승인입니다.
+030. ELIAS: Mr. Quiñones, in August I told you a refusal with a reason is a door with directions on it. You followed every one of the directions, in order. Approved.
+    일라이어스: 키뇨네스 씨, 8월에 제가 이유 있는 거절은 길 안내가 붙은 문이라고 했죠. 그 안내를 하나도 빠짐없이, 순서대로 따라오셨어요. 승인입니다.
 
 031. WILMER: Today?
     윌메르: 오늘이요?
@@ -114,8 +114,8 @@
 032. ELIAS: Today. It's an emergency appointment, so I'll print it now. You can be on a plane tomorrow.
     일라이어스: 오늘이요. 비상 예약이니까 지금 바로 인쇄해 드릴게요. 내일 비행기 타실 수 있어요.
 
-033. WILMER: Thank you. My brother came home from Manta in November, you know. Safe. Since September, he says, the captains keep the radio on all night.
-    윌메르: 고맙습니다. 형이 11월에 만타에서 돌아왔어요. 무사히요. 형 말로는 9월 이후로 선장들이 밤새 무전기를 켜 둔대요.
+033. WILMER: Thank you. My brother came home from Manta in November, you know. Safe. Since September, he says, the captains on that coast keep the radio on all night long.
+    윌메르: 고맙습니다. 형이 11월에 만타에서 돌아왔어요. 무사히요. 형 말로는 9월 이후로 그 해안 선장들이 밤새도록 무전기를 켜 둔대요.
 
 034. ELIAS: Why the radio?
     일라이어스: 왜 무전기를요?
@@ -138,8 +138,8 @@
 040. PIERRE-LUC: In Quebec, a hip on New Year's Eve is definitely a sign.
     피에르뤽: 퀘벡에선 섣달그믐의 고관절은 틀림없이 징조예요.
 
-041. GLORIA: Come in, both of you. Nadia's here, and she brought coffee, which on a holiday is either love or surveillance.
-    글로리아: 둘 다 들어와요. 나디아가 와 있어요. 커피를 사 왔는데, 공휴일에 그건 사랑이거나 감시거나죠.
+041. GLORIA: Come in, both of you. Nadia brought holiday coffee: love or surveillance.
+    글로리아: 둘 다 들어와요. 나디아가 공휴일 커피를 사 왔어요. 사랑이거나 감시거나.
 
 042. NADIA: Both. Pierre-Luc, this is from the RCMP team. They asked me to say thank you without using the words "thank you."
     나디아: 둘 다요. 피에르뤽, 이건 RCMP 팀에서 보낸 거예요. "고맙다"는 말은 쓰지 말고 고맙다고 전해 달래요.
@@ -156,8 +156,8 @@
 046. PIERRE-LUC: The lawyer from the Iran thing? She'd hire me? After what I did?
     피에르뤽: 이란 건 그 변호사요? 저를 써 준대요? 제가 한 짓을 알면서?
 
-047. ELIAS: She'd hire someone who knows exactly what it costs when a file walks out the door. That's rarer than French.
-    일라이어스: 서류 하나가 문밖으로 걸어 나가면 무슨 대가를 치르는지 정확히 아는 사람을 쓰겠지. 그게 프랑스어보다 드물어.
+047. ELIAS: She'd hire someone who knows exactly what it costs when a file walks out the door, and who'd never let one walk out again. That's rarer than French, believe me.
+    일라이어스: 서류 하나가 문밖으로 걸어 나가면 무슨 대가를 치르는지 정확히 알고, 다시는 그런 일 안 만들 사람을 쓰겠지. 그게 프랑스어보다 드물어, 진짜로.
 
 048. PIERRE-LUC: But a letter from you, Boss... no offense, it's a liability. You just got a letter of caution.
     피에르뤽: 그런데 보스 편지는… 기분 나빠하지 마세요, 그건 짐이에요. 보스는 방금 주의 서한 받았잖아요.
@@ -165,8 +165,8 @@
 049. ELIAS: None taken. That's why I didn't sign it.
     일라이어스: 기분 안 나빠. 그래서 내가 서명 안 했어.
 
-050. GLORIA: I did. Consul General's letterhead, my signature, his words. Put it in writing, and then don't. I've finally found a use for it.
-    글로리아: 내가 했어요. 총영사 공문지, 내 서명, 그 사람 문장. 서면으로 남기고, 그리고 남기지 마요. 드디어 그 말 쓸 데를 찾았네요.
+050. GLORIA: I did. Consul General's letterhead, my signature, his words. Put it in writing, and then don't. After thirty-three years, I've finally found a proper use for that sentence.
+    글로리아: 내가 했어요. 총영사 공문지, 내 서명, 그 사람 문장. 서면으로 남기고, 그리고 남기지 마요. 33년 만에 드디어 그 문장을 제대로 쓸 데를 찾았네요.
 
 051. PIERRE-LUC: Câline. Nobody has ever written me a reference except my mother.
     피에르뤽: 세상에. 우리 엄마 말고 저한테 추천서 써 준 사람은 처음이에요.
@@ -195,8 +195,8 @@
 059. ELIAS: Did you find out who called the agent at nine forty-one?
     일라이어스: 9시 41분에 대리인한테 전화한 사람은 찾았어요?
 
-060. LENA: I found the phone, not the person. A prepaid line, billed to a consulting firm in northern Virginia that doesn't seem to have an office.
-    레나: 전화기는 찾았고 사람은 못 찾았어요. 선불 회선인데, 북버지니아의 컨설팅 회사 앞으로 청구돼요. 사무실이 없는 것 같은 회사요.
+060. LENA: I found the phone, not the person. A prepaid line, billed to a consulting firm in northern Virginia that doesn't seem to have an office, a website, or a single employee.
+    레나: 전화기는 찾았고 사람은 못 찾았어요. 선불 회선인데, 북버지니아의 컨설팅 회사 앞으로 청구돼요. 사무실도, 웹사이트도, 직원 한 명도 없는 것 같은 회사요.
 
 061. ELIAS: Northern Virginia. That's a lot of firms.
     일라이어스: 북버지니아라. 회사가 많죠.
@@ -204,14 +204,14 @@
 062. LENA: It's a lot of firms without offices. I'll find which one. It might take me a year.
     레나: 사무실 없는 회사가 많죠. 어느 건지 찾아낼 거예요. 1년쯤 걸릴지도 모르지만.
 
-063. ELIAS: Take two. Get it right. The last time somebody rushed a story about me, three years of my life went with it.
-    일라이어스: 2년 걸리세요. 제대로 하세요. 지난번에 누가 제 기사를 서둘렀을 때, 제 인생 3년이 같이 날아갔어요.
+063. ELIAS: Take two. Get it right. The last time somebody rushed a story about me, three years of my life went with it, and nobody ever asked who handed you the envelope.
+    일라이어스: 2년 걸리세요. 제대로 하세요. 지난번에 누가 제 기사를 서둘렀을 때 제 인생 3년이 같이 날아갔는데, 그 봉투를 누가 건넸는지는 아무도 묻지 않았어요.
 
 064. LENA: That's fair, and I'll pretend it wasn't aimed at me. Now, the statement on the record. You've owed me since March.
     레나: 맞는 말이에요. 저를 겨냥한 말이 아닌 척할게요. 자, 공식 발언이요. 3월부터 빚지셨잖아요.
 
-065. ELIAS: I know. I'll give it to you on the day somebody in Washington asks me the question first. Not before.
-    일라이어스: 알아요. 워싱턴의 누군가가 저한테 먼저 그 질문을 하는 날 드릴게요. 그 전엔 안 돼요.
+065. ELIAS: I know. I'll give it to you on the day somebody in Washington asks me the question first, in a room, with my name on the door. Not one day before.
+    일라이어스: 알아요. 워싱턴의 누군가가 저한테 먼저 그 질문을 하는 날 드릴게요. 제 이름이 붙은 방에서요. 하루도 먼저는 안 돼요.
 
 066. LENA: Nobody in Washington is going to ask a visa officer anything.
     레나: 워싱턴에서 비자 담당관한테 뭘 물어볼 사람은 없어요.
@@ -233,3 +233,266 @@
 
 072. ELIAS: Then the commission will be patient. Patience is the only weapon that doesn't need a warrant.
     일라이어스: 그럼 위원회는 참을성 있게 기다리겠죠. 영장이 필요 없는 무기는 참을성 하나뿐이니까요.
+
+073. PIERRE-LUC: That's it. One mug, one framed report, one stapler I'm stealing. Marisol cried. She said it was the dust.
+    피에르뤽: 끝이에요. 머그 하나, 액자에 든 신고서 하나, 훔쳐 가는 스테이플러 하나. 마리솔이 울었어요. 먼지 때문이래요.
+
+074. ELIAS: Marisol has worked in that basement for nineteen years. She's never once admitted the dust exists.
+    일라이어스: 마리솔은 그 지하에서 19년을 일했어. 먼지가 있다고 인정한 적은 한 번도 없고.
+
+075. PIERRE-LUC: Boss. I never said it properly. Sorry. Not "sorry it happened." Sorry, I did it.
+    피에르뤽: 보스. 제대로 말한 적이 없어서요. 죄송해요. "그런 일이 있어서 유감"이 아니라요. 제가 했어요, 죄송해요.
+
+076. ELIAS: I know the difference. You just made it.
+    일라이어스: 그 차이 알아. 방금 네가 그 차이를 만들었어.
+
+077. PIERRE-LUC: Your calendar, the ICAO dates, the Friday call with Rosie, Luísa's note in the safe. I sold all of it, and you knew, and you kept me in the room anyway.
+    피에르뤽: 보스 달력, ICAO 날짜들, 로지랑 금요일 통화, 금고에 있던 루이자 쪽지. 제가 다 팔았어요. 보스는 알았고요. 그런데도 저를 그 방에 남겨 뒀어요.
+
+078. ELIAS: My father kept a boy in his classroom once, in 1976, when everybody told him to throw the kid out. It took him until Christmas. You took a little longer.
+    일라이어스: 우리 아버지도 1976년에, 다들 내쫓으라고 할 때 한 남자애를 교실에 남겨 둔 적이 있어. 크리스마스까지 걸렸대. 넌 조금 더 걸렸고.
+
+079. PIERRE-LUC: Is that a hockey metaphor?
+    피에르뤽: 그거 하키 비유예요?
+
+080. ELIAS: It's a Dayton metaphor. Different ice. Will you do one last mail run for me?
+    일라이어스: 데이턴 비유야. 얼음이 달라. 마지막으로 우편 심부름 하나 해 줄래?
+
+081. PIERRE-LUC: For you, Boss, the last mail run of my career. Who's it to? Moscow? Your chess friend?
+    피에르뤽: 보스를 위해서라면, 제 경력 마지막 우편 심부름이요. 누구한테요? 모스크바? 체스 친구?
+
+082. ELIAS: A card. Two lines. "Ready when you are. You're white." He'll know what it means.
+    일라이어스: 카드야. 두 줄. "네가 준비되면 나도 준비됐어. 백은 네가 해." 무슨 뜻인지 알 거야.
+
+083. PIERRE-LUC: That's not chess. That's a love letter between two very stubborn men.
+    피에르뤽: 그건 체스가 아니에요. 엄청 고집 센 두 남자 사이의 연애편지예요.
+
+084. ELIAS: Dmitri would say there's no difference. Then he'd invent a proverb to prove it.
+    일라이어스: 드미트리는 둘이 다를 게 없다고 할 거야. 그러고는 그걸 증명할 속담을 하나 지어내겠지.
+
+085. PIERRE-LUC: The machine. Look. Seven. Even with the power off at the wall, it still says seven.
+    피에르뤽: 기계 좀 봐요. 7이에요. 벽에서 전원을 껐는데도 아직 7이라고 떠 있어요.
+
+086. ELIAS: It's loyal.
+    일라이어스: 의리 있잖아.
+
+087. PIERRE-LUC: Take a ticket, Boss. The last seven of 2027. Put it behind the stamp in your wallet.
+    피에르뤽: 한 장 뽑아요, 보스. 2027년의 마지막 7번. 지갑에 그 우표 뒤에 넣어요.
+
+088. ELIAS: Behind the stamp. Fine. Now go, before Gloria frames you too.
+    일라이어스: 우표 뒤에. 알았어. 이제 가. 글로리아가 너까지 액자에 넣기 전에.
+
+089. PIERRE-LUC: Au revoir, Boss. Did you eat? Your father told me to ask. He called the switchboard.
+    피에르뤽: 오 르부아, 보스. 밥은 먹었어요? 보스 아버님이 물어보라고 하셨어요. 교환대로 전화하셨더라고요.
+
+090. ELIAS: He called the consulate on a holiday to ask you that?
+    일라이어스: 공휴일에 영사관으로 전화해서 너한테 그걸 시켰다고?
+
+091. PIERRE-LUC: He said you lie to him but not to me. Which is new. Bonne année.
+    피에르뤽: 보스가 아버님한텐 거짓말해도 저한텐 안 한대요. 그건 새로운 일이죠. 본 아네.
+
+092. ELIAS: Bonne année, Pierre-Luc. Go be a witness.
+    일라이어스: 본 아네, 피에르뤽. 가서 증인이 돼.
+
+093. ROSIE: Dad! Fifty-nine seconds. Mom's pretending she isn't listening, and Grandpa's on the other line from Dayton.
+    로지: 아빠! 59초 남았어. 엄마는 안 듣는 척하고 있고, 할아버지는 데이턴에서 다른 회선으로 들어와 있어.
+
+094. FRANK: I'm here. Did you eat, son?
+    프랭크: 나 여기 있다. 밥은 먹었니, 아들?
+
+095. ELIAS: Kibbeh. The last of it. And Pierre-Luc already asked me, Dad. On your orders.
+    일라이어스: 키베. 남은 거 다. 그리고 피에르뤽이 벌써 물어봤어, 아빠. 아빠 명령으로.
+
+096. FRANK: Good. A man should be asked twice on the last day of the year.
+    프랭크: 잘됐네. 한 해 마지막 날엔 두 번은 물어봐 줘야지.
+
+097. ROSIE: Ten. Nine. Dad, make a wish. A real one, not a State Department one.
+    로지: 10. 9. 아빠, 소원 빌어. 진짜 소원. 국무부식 말고.
+
+098. ELIAS: I wish somebody would get in line.
+    일라이어스: 누가 줄 좀 서 줬으면 좋겠다.
+
+099. ROSIE: Three. Two. One. Happy New Year, Window Four.
+    로지: 3. 2. 1. 해피 뉴 이어, 4번 창구.
+
+100. FRANK: Happy New Year, both of you. Go to bed, son. It's going to be a long year, and something tells me you won't be spending all of it behind that glass.
+    프랭크: 둘 다 새해 복 많이 받아라. 이제 자, 아들. 긴 한 해가 될 거다. 왠지 그 한 해를 전부 그 유리창 뒤에서 보내진 않을 것 같구나.
+
+101. CHIEF: Deputy Secretary. It's seven-forty on a Sunday. Security says you've been here since five.
+    비서실장: 부장관님. 일요일 아침 7시 40분이에요. 보안팀 말로는 다섯 시부터 계셨다던데요.
+
+102. MAGGIE: Since four-thirty. Security rounds down for people it likes. What's the overnight?
+    매기: 네 시 반부터. 보안팀은 좋아하는 사람한텐 시간을 내려서 말해 줘. 밤사이 상황은?
+
+103. CHIEF: Both cables are still dark. Oslo confirms the cuts at oh-one-hundred and oh-one-forty UTC yesterday, roughly ninety miles apart.
+    비서실장: 케이블 두 가닥 다 아직 끊긴 상태예요. 오슬로가 어제 협정 세계시 01시, 01시 40분 절단을 확인했어요. 서로 145킬로미터쯤 떨어져 있고요.
+
+104. MAGGIE: And no trawlers.
+    매기: 어선은 없었고.
+
+105. CHIEF: None. The Pentagon already has a Russian research vessel on a slide.
+    비서실장: 하나도요. 국방부는 벌써 러시아 연구선 하나를 슬라이드에 올려놨어요.
+
+106. MAGGIE: Of course it does. And Lund?
+    매기: 그러겠지. 룬드는?
+
+107. CHIEF: Peter Lund, forty-eight, Portsmouth, New Hampshire. Detained at his hotel in Murmansk at six-forty yesterday morning, Moscow time. State TV had his photo up by noon.
+    비서실장: 피터 룬드, 마흔여덟, 뉴햄프셔 포츠머스 출신. 어제 아침 모스크바 시간 6시 40분에 무르만스크 호텔에서 체포됐어요. 국영 TV는 정오에 벌써 사진을 띄웠고요.
+
+108. MAGGIE: With a caption.
+    매기: 자막도 달았겠지.
+
+109. CHIEF: "American saboteur." Our press guidance this morning says we are "aware of reports of the detention of a U.S. citizen."
+    비서실장: "미국인 파괴공작원." 오늘 아침 우리 언론 지침은 "미국 시민의 구금에 관한 보도를 인지하고 있다"예요.
+
+110. MAGGIE: "Aware of reports." Which means we know exactly where he is, we know who's holding him and why, and we simply haven't decided yet what we're willing to say out loud.
+    매기: "보도를 인지하고 있다." 그 사람이 정확히 어디 있는지, 누가 왜 잡고 있는지 다 알지만, 뭘 소리 내 말할지는 아직 안 정했다는 뜻이지.
+
+111. CHIEF: Yes, ma'am. His wife has called the Operations Center every hour since yesterday morning.
+    비서실장: 네, 부장관님. 부인이 어제 아침부터 매시간 상황실에 전화하고 있어요.
+
+112. MAGGIE: She'll keep calling. I would. What did the Secretary say at six?
+    매기: 계속 걸 거야. 나라도 그래. 장관은 여섯 시에 뭐래?
+
+113. CHIEF: He said "find me a negotiator who isn't a negotiator." Then he hung up. I've drafted a short list of names.
+    비서실장: "협상가 아닌 협상가를 찾아와"라고 하시고는 끊으셨어요. 후보 명단을 짧게 추려 봤어요.
+
+114. MAGGIE: Put it down. I don't need a negotiator. I need someone the Russians remember.
+    매기: 내려놔. 협상가는 필요 없어. 러시아인들이 기억하는 사람이 필요해.
+
+115. CHIEF: Ma'am?
+    비서실장: 부장관님?
+
+116. MAGGIE: Did you bring what I asked for? The dissent channel file. Montreal.
+    매기: 내가 부탁한 거 가져왔어? 반대 의견 채널 파일. 몬트리올.
+
+117. CHIEF: Three cables, all from the same officer. Elias Grant. The Moscow leak, in 2025. He's a visa officer now.
+    비서실장: 전문 세 통, 전부 같은 사람이에요. 일라이어스 그랜트. 2025년 모스크바 유출 건이요. 지금은 비자 담당관이고요.
+
+118. MAGGIE: I know what he is now. Read me the dates.
+    매기: 지금 뭔지는 알아. 날짜 읽어 봐.
+
+119. CHIEF: December eighteenth, 2026. August thirteenth, 2027. December first, 2027. Two of them sent after ten at night.
+    비서실장: 2026년 12월 18일. 2027년 8월 13일. 2027년 12월 1일. 두 통은 밤 열 시 넘어서 보냈어요.
+
+120. MAGGIE: He always wrote at night. He used to say daytime cables are written for the person who reads them, and night cables for the person who was right.
+    매기: 걘 늘 밤에 썼어. 낮에 쓰는 전문은 읽을 사람을 위한 거고, 밤에 쓰는 전문은 옳았던 사람을 위한 거라고 하곤 했지.
+
+121. CHIEF: Policy Planning acknowledged each one inside two business days. Nobody replied to any of them.
+    비서실장: 정책기획실이 세 통 다 영업일 이틀 안에 접수 확인했어요. 답장은 아무도 안 했고요.
+
+122. MAGGIE: Nobody replies to dissent. That's what makes it dissent. Read me the last line of the first one.
+    매기: 반대 의견엔 아무도 답 안 해. 그래서 반대 의견인 거야. 첫 번째 거 마지막 줄 읽어 봐.
+
+123. CHIEF: "The question before us is not whether this senator is our friend. It is whether our laws still mean anything once we decide who our friends are."
+    비서실장: "우리 앞의 질문은 이 상원의원이 우리 친구냐가 아니다. 누가 우리 친구인지 정하고 난 뒤에도 우리 법이 여전히 의미가 있느냐다."
+
+124. MAGGIE: The second.
+    매기: 두 번째.
+
+125. CHIEF: The title is "Asylum Is Not a Currency." He recommends that protection never be tied to what a defector carries.
+    비서실장: 제목이 "망명은 화폐가 아니다"예요. 보호 여부를 망명자가 가진 것에 절대 걸지 말라고 권고해요.
+
+126. MAGGIE: And the third.
+    매기: 세 번째는.
+
+127. CHIEF: It says that when asylum shelters political friends, real refugees pay for it, and that one day we will be asked why we let them.
+    비서실장: 망명이 정치적 친구를 감싸 주면 진짜 난민이 그 대가를 치르고, 언젠가 우리가 왜 그걸 내버려 뒀는지 질문받게 될 거라고요.
+
+128. MAGGIE: Kennan sent five parts from Moscow because the Treasury asked him one question. Elias sent three, and nobody in this building asked him anything. Not once. Not me.
+    매기: 케넌은 재무부가 질문 하나를 했다고 모스크바에서 다섯 부분을 보냈지. 일라이어스는 세 통을 보냈는데, 이 건물에선 아무도 걔한테 아무것도 묻지 않았어. 한 번도. 나도.
+
+129. CHIEF: There's more in the file. An inspector general finding from December. A letter of caution, with documents appended at his request.
+    비서실장: 파일에 더 있어요. 12월 감찰 결론이요. 주의 서한인데, 본인 요청으로 문서가 첨부돼 있어요.
+
+130. MAGGIE: At his request. Of course they were. What else?
+    매기: 본인 요청으로. 당연하지. 또 뭐 있어?
+
+131. CHIEF: His last evaluation. The rater's section is three sentences: "Exceeds expectations. Do not promote. Do not lose."
+    비서실장: 최근 근무평정이요. 평정자 의견란이 세 문장이에요. "기대 이상. 승진시키지 말 것. 잃지 말 것."
+
+132. MAGGIE: Whoever wrote that should be running a bureau. Who's his consul general?
+    매기: 그걸 쓴 사람은 국 하나를 맡아야 해. 거기 총영사가 누구야?
+
+133. CHIEF: Gloria Pemberton. Thirty-three years in. She retires this year, I think.
+    비서실장: 글로리아 펨버턴이요. 근무 33년 차. 올해 은퇴하는 걸로 알아요.
+
+134. MAGGIE: Then she has nothing to lose. Call her tomorrow at seven. She'll need to cover his window.
+    매기: 그럼 잃을 게 없겠네. 내일 아침 일곱 시에 전화해. 그 사람이 걔 창구를 대신 맡아 줘야 할 거야.
+
+135. CHIEF: Ma'am, before you do this. If Grant comes back, people will ask about 2025. Should I pull the investigation file?
+    비서실장: 부장관님, 이걸 하시기 전에요. 그랜트가 돌아오면 사람들이 2025년 일을 물을 거예요. 조사 파일을 꺼내 둘까요?
+
+136. MAGGIE: No. That file stays exactly where it is. Locked. Access through this office, and only this office.
+    매기: 아니. 그 파일은 지금 있는 자리에 그대로 둬. 잠가 둔 채로. 열람은 이 사무실을 통해서만, 오직 이 사무실만.
+
+137. CHIEF: And if he asks whether it's still open?
+    비서실장: 그 사람이 아직 조사 중이냐고 물으면요?
+
+138. MAGGIE: It's still open. I check on it personally, every quarter. You can tell anyone who asks exactly that.
+    매기: 아직 진행 중이야. 내가 분기마다 직접 확인하고 있고. 누가 물어도 딱 그렇게 말해.
+
+139. CHIEF: Yes, ma'am. And Lena Voss at the Sentinel has called twice about Lund.
+    비서실장: 알겠습니다. 그리고 <센티널>의 레나 보스가 룬드 건으로 두 번 전화했어요.
+
+140. MAGGIE: Leave Lena to me. By Tuesday she'll be asking about Elias, not Lund. She always finds her way to the interesting story.
+    매기: 레나는 나한테 맡겨. 화요일쯤이면 룬드 말고 일라이어스를 물어 올 거야. 걘 늘 흥미로운 기사로 가는 길을 찾아내거든.
+
+141. CHIEF: What's that?
+    비서실장: 그건 뭐예요?
+
+142. MAGGIE: A postcard. The Glienicke Bridge. I gave it to him his first week in the Foreign Service. When he left Moscow in 2025, the movers sent it here instead of to him.
+    매기: 엽서. 글리니케 다리. 걔가 외교관 된 첫 주에 내가 준 거야. 2025년에 걔가 모스크바를 떠날 때, 이삿짐 업체가 걔 대신 여기로 보냈어.
+
+143. CHIEF: You've kept it for three years?
+    비서실장: 3년 동안 갖고 계셨어요?
+
+144. MAGGIE: I kept it for the right morning. And these. Christmas cards. 2025, 2026, 2027.
+    매기: 알맞은 아침을 위해 갖고 있었지. 그리고 이것들. 크리스마스 카드. 2025, 2026, 2027.
+
+145. CHIEF: Addressed to him. You never mailed them.
+    비서실장: 그분 앞으로 쓰신 거네요. 한 번도 안 부치셨고요.
+
+146. MAGGIE: I wrote one every Christmas. Mailing them would have meant deciding what I was sorry for.
+    매기: 크리스마스마다 한 장씩 썼어. 부쳤다면, 내가 뭘 미안해하는지 정해야 했겠지.
+
+147. CHIEF: Should I send them now?
+    비서실장: 지금 보내 드릴까요?
+
+148. MAGGIE: No. Some things are better delivered in person. And one or two are better not delivered at all.
+    매기: 아니. 어떤 건 직접 전하는 게 나아. 그리고 한두 개는 아예 안 전하는 게 낫고.
+
+149. CHIEF: What do you need from me, Deputy Secretary?
+    비서실장: 제가 뭘 해 드리면 될까요, 부장관님?
+
+150. MAGGIE: Book me on the first flight to Montreal. And find out which window he's at.
+    매기: 몬트리올행 첫 비행기 잡아 줘. 그리고 걔가 몇 번 창구에 있는지 알아봐.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **acknowledge within two business days** — 영업일 이틀 안에 접수 확인. 반대 의견 채널의 유일한 의무 (006, 121)
+- **You write the answer, and you wait for the question.** — 답을 써 두고 질문을 기다린다 (015)
+- **burdening the telegraph channel** — 케넌의 사과 "전신 채널에 부담을 줘서" (012)
+- **emergency appointment** — 비상 예약 (018, 032)
+- **A refusal with a reason is a door with directions on it.** — 이유 있는 거절은 길 안내가 붙은 문 (030)
+- **a liability** — 짐, 부담이 되는 것 / a letter from you… it's a liability (048)
+- **Sorry, I did it. vs. sorry it happened** — '내가 했다'는 사과와 '유감'의 차이 (075~076)
+- **mutual legal assistance request** — 형사사법공조 요청 (071)
+- **on the record** — 실명 공식 발언 (064~065)
+- **"We are aware of reports…"** — "보도를 인지하고 있다" = 다 알지만 아직 말할 걸 안 정했다 (109~110)
+- **I need someone the Russians remember.** — 시즌 1 1화로 이어지는 매기의 말 (114)
+- **Nobody replies to dissent. That's what makes it dissent.** — 반대 의견엔 답이 없다. 그래서 반대 의견이다 (122)
+- **Access through this office, and only this office.** — 열람은 이 사무실을 통해서만 (136)
+- **Book me on the first flight to Montreal.** — 몬트리올행 첫 비행기를 잡아 줘 (150)
+
+## 역사 노트 (낭독하지 않음)
+
+- 1946년 2월 22일, 모스크바 주재 미국 대사관의 대리대사 조지 F. 케넌은 소련이 왜 세계은행·국제통화기금에 참여하지 않느냐는 재무부의 질의에 답하며, 소련 행동의 뿌리를 분석한 긴 전보(일명 '장문 전보', 전보 511호)를 보냈다. 그는 질문이 복잡해 짧게 답하면 위험할 만큼 단순해진다며 답을 다섯 부분으로 나누었고, 전신 채널에 부담을 주는 것을 미리 사과했다. 분량은 5천 단어가 넘는다.
+- 전보는 워싱턴에서 널리 회람되며 대소련 '봉쇄' 정책의 지적 토대가 됐고, 케넌은 1947년 「포린 어페어스」에 'X'라는 필명으로 「소련 행동의 원천」을 발표했다. 그러나 그는 이후 평생, 자신이 말한 봉쇄는 주로 정치적인 것이었는데 군사적 대결로 오독됐다고 말했다.
+- 극 중 활용: 일라이어스는 "반대 전문을 누가 읽냐"는 피에르뤽에게, 전문이 읽히는 건 내용 때문만이 아니라 워싱턴이 이미 그 질문을 하고 있을 때라고 말한다("답을 써 두고 질문을 기다린다"). 코다에서 케이블 절단과 룬드 체포로 워싱턴이 마침내 질문을 하게 되고, 매기는 "케넌은 질문 하나에 다섯 부분을, 일라이어스는 아무도 묻지 않았는데 세 통을 보냈다"며 그 세 통을 읽는다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 시즌 3 끝. 이야기는 시즌 1 1화 "The Closet"으로 이어진다. 2028년 1월 10일 월요일 아침, 몬트리올 4번 창구. 9시 15분 예약자 안드레이 오를로프 다음, 한 여자가 줄에 서서 말한다. "I'd like to apply for a visa. Destination Washington, length of stay indefinite."
