@@ -124,8 +124,8 @@
 036. ELIAS: The Rio Grande. That line has caused a lot of trouble.
     일라이어스: 리오그란데군요. 그 선이 말썽을 많이 일으켰죠.
 
-037. VALERIA: The Río Bravo, we call it. Your country said Texas ended there. We said the Nueces, farther north. After the war, nobody asked us anymore.
-    발레리아: 우린 리오브라보라고 불러요. 당신네 나라는 텍사스가 거기서 끝난다고 했고, 우린 더 북쪽의 누에세스강이라고 했어요. 전쟁이 끝난 뒤엔 아무도 우리한테 묻지 않았죠.
+037. VALERIA: The Río Bravo, we call it. Your country said Texas ended there. We said the Nueces, farther north. After the war, nobody asked us anymore. The river decided nothing. The army did.
+    발레리아: 우린 리오브라보라고 불러요. 당신네 나라는 텍사스가 거기서 끝난다고 했고, 우린 더 북쪽의 누에세스강이라고 했어요. 전쟁이 끝난 뒤엔 아무도 우리한테 묻지 않았죠. 강이 정한 건 없어요. 군대가 정했죠.
 
 038. ELIAS: And then the line moved much farther than Texas.
     일라이어스: 그리고 그 선은 텍사스보다 훨씬 멀리 움직였고요.
@@ -160,8 +160,8 @@
 048. ELIAS: That the river was ours because we took it.
     일라이어스: 우리가 빼앗았으니 그 강은 우리 거라는 문장이요.
 
-049. VALERIA: Exactly. Water flows over that wound. Every acre-foot you ask for, we pay for twice. Once in water, and once in memory.
-    발레리아: 바로 그거예요. 물은 그 상처 위로 흘러요. 당신들이 요구하는 1에이커피트마다 우린 두 번 값을 치러요. 한 번은 물로, 한 번은 기억으로.
+049. VALERIA: Exactly. Water flows over that wound. Every acre-foot you ask for, we pay for twice. Once in water, and once in memory. Your Governor only ever sends the first bill.
+    발레리아: 바로 그거예요. 물은 그 상처 위로 흘러요. 당신들이 요구하는 1에이커피트마다 우린 두 번 값을 치러요. 한 번은 물로, 한 번은 기억으로. 당신네 주지사는 늘 첫 번째 청구서만 보내죠.
 
 050. ELIAS: Then let me try to make it cost less. May I start with something I owe you?
     일라이어스: 그럼 값을 덜 치르게 해 보겠습니다. 제가 빚진 것부터 시작해도 될까요?
@@ -172,8 +172,8 @@
 052. ELIAS: The six-ninety the Governor quoted came from my department. It's a projection, not a measurement, and it should never have reached Austin.
     일라이어스: 주지사가 인용한 69만은 저희 부처에서 나온 숫자입니다. 측정치가 아니라 추정치고, 오스틴까지 가서는 안 되는 숫자였습니다.
 
-053. VALERIA: I know. Our commission counts six hundred and ten. Your projection assumes our rivers will stay as dry as your Governor's sense of humor.
-    발레리아: 알아요. 우리 위원회 집계는 61만이에요. 당신네 추정치는 우리 강들이 그 주지사의 유머 감각만큼 계속 말라 있을 거라고 가정하죠.
+053. VALERIA: I know. Our commission counts six hundred and ten. Your projection assumes our rivers will stay as dry as your Governor's sense of humor, and that it never rains in Chihuahua again.
+    발레리아: 알아요. 우리 위원회 집계는 61만이에요. 당신네 추정치는 우리 강들이 그 주지사의 유머 감각만큼 계속 말라 있고, 치와와엔 다시는 비가 안 온다고 가정하죠.
 
 054. ELIAS: Then we have an eighty-thousand-acre-foot argument about a number neither of us can prove yet.
     일라이어스: 그럼 우린 아직 둘 다 증명하지 못하는 숫자를 두고 8만 에이커피트짜리 논쟁을 하는 셈이네요.
@@ -184,8 +184,8 @@
 056. ELIAS: What would it take for Mexico to give the Valley a delivery schedule before October twenty-fourth?
     일라이어스: 10월 24일 전에 멕시코가 하류 계곡에 인도 일정표를 주려면 무엇이 필요하겠습니까?
 
-057. VALERIA: Three things. First, the trucks. Every morning your Governor holds our exports hostage on his road, I lose a vote in our Senate.
-    발레리아: 세 가지요. 첫째, 트럭. 당신네 주지사가 아침마다 자기 도로에서 우리 수출품을 인질로 잡을 때마다 저는 우리 상원에서 표를 하나씩 잃어요.
+057. VALERIA: Three things. First, the trucks. Every morning your Governor holds our exports hostage on his road, I lose a vote in our Senate. I don't have many to spare.
+    발레리아: 세 가지요. 첫째, 트럭. 당신네 주지사가 아침마다 자기 도로에서 우리 수출품을 인질로 잡을 때마다 저는 우리 상원에서 표를 하나씩 잃어요. 여유 있는 표도 많지 않아요.
 
 058. ELIAS: Second? I suspect the second is harder.
     일라이어스: 둘째는요? 둘째가 더 어려울 것 같은데요.
@@ -253,8 +253,8 @@
 079. VALERIA: So you want me to keep the drawer closed.
     발레리아: 그러니까 서랍을 닫아 두라는 거군요.
 
-080. ELIAS: Let's stop arguing about numbers we produce separately. Your commission and ours measure the same rivers, at the same gauges, and publish one figure.
-    일라이어스: 각자 만든 숫자로 다투는 걸 그만하죠. 장관님 위원회와 저희 위원회가 같은 강을 같은 계측소에서 재서 숫자 하나를 발표하는 겁니다.
+080. ELIAS: Let's stop arguing about numbers we produce separately. Your commission and ours measure the same rivers, at the same gauges, and publish one figure. Not yours, not ours.
+    일라이어스: 각자 만든 숫자로 다투는 걸 그만하죠. 장관님 위원회와 저희 위원회가 같은 강을 같은 계측소에서 재서 숫자 하나를 발표하는 겁니다. 장관님 것도, 저희 것도 아닌.
 
 081. VALERIA: One number. That's very optimistic for two countries that couldn't agree on where Texas ended.
     발레리아: 숫자 하나라. 텍사스가 어디서 끝나는지도 합의 못 했던 두 나라치곤 아주 낙관적이네요.
@@ -346,8 +346,8 @@
 110. CALLAWAY: Elias. Tell me she gave you a schedule.
     캘러웨이: 일라이어스. 일정표 받았다고 말해 줘.
 
-111. ELIAS: Not yet, sir. She's agreed not to declare an extraordinary drought before the end of June, on two conditions. The inspections, and a joint count.
-    일라이어스: 아직입니다, 장관님. 6월 말 전엔 이례적 가뭄을 선포하지 않기로 했습니다. 조건이 두 개고요. 검사, 그리고 공동 집계.
+111. ELIAS: Not yet, sir. She's agreed not to declare an extraordinary drought before the end of June, on two conditions. The inspections, and a joint count with her commission.
+    일라이어스: 아직입니다, 장관님. 6월 말 전엔 이례적 가뭄을 선포하지 않기로 했습니다. 조건이 두 개고요. 검사, 그리고 그쪽 위원회와의 공동 집계.
 
 112. CALLAWAY: The inspections are Colter's. I can't make promises about Texas.
     캘러웨이: 검사는 콜터 소관이야. 텍사스에 대해선 약속 못 해.
@@ -427,8 +427,8 @@
 137. ELIAS: A friend of mine's mother took her students there every year.
     일라이어스: 제 친구 어머님이 해마다 학생들을 거기 데려가셨대요.
 
-138. VALERIA: The famous Elena. I'd like to meet her one day. A woman who catches lies by listening to boys yell is wasted in retirement.
-    발레리아: 그 유명한 엘레나군요. 언젠가 만나 보고 싶어요. 남자애들 소리 지르는 걸 듣고 거짓말을 잡아내는 사람을 은퇴시켜 두는 건 낭비예요.
+138. VALERIA: The famous Elena. I'd like to meet her one day. A woman who catches lies by listening to boys yell is wasted in retirement. Tell her a minister said so.
+    발레리아: 그 유명한 엘레나군요. 언젠가 만나 보고 싶어요. 남자애들 소리 지르는 걸 듣고 거짓말을 잡아내는 사람을 은퇴시켜 두는 건 낭비예요. 장관이 그렇게 말했다고 전해 주세요.
 
 139. ELIAS: I'll tell her. She'll probably want to feed you.
     일라이어스: 전해 드릴게요. 아마 장관님께 밥을 먹이고 싶어 하실 겁니다.
