@@ -121,8 +121,8 @@
 035. COLTER: Deputy Secretary! Come in out of the sun, son. Welcome to Texas.
     콜터: 부장관! 햇볕 피해 들어오시오, 젊은이. 텍사스에 온 걸 환영하오.
 
-036. ELIAS: Governor. I've been in Texas for three weeks. Tom's mother feeds me.
-    일라이어스: 주지사님. 텍사스엔 3주째 있습니다. 톰 어머님이 밥을 주세요.
+036. ELIAS: Governor. I've been in Texas half the summer. Tom's mother feeds me.
+    일라이어스: 주지사님. 올여름 절반을 텍사스에서 보냈습니다. 톰 어머님이 밥을 주세요.
 
 037. COLTER: Breakfast with Mexico. Everybody in this state knows. Sit, you'll see the bridge.
     콜터: 멕시코랑 아침 식사. 이 주에선 다 아오. 앉으시오, 다리가 보일 거요.
@@ -130,8 +130,8 @@
 038. ELIAS: And of the Chamizal memorial. Interesting place for a command tent.
     일라이어스: 차미잘 기념관도 보이네요. 지휘 천막 치기엔 흥미로운 자리군요.
 
-039. COLTER: Shade. Let me be very clear. Mexico's still short, your agent's still missing, and three weeks ago you called my farmers a sacrifice zone.
-    콜터: 그늘 때문이오. 분명히 하지. 멕시코는 아직 물이 모자라고, 당신네 요원은 아직 실종이고, 3주 전에 당신은 우리 농부들을 희생 구역이라고 불렀소.
+039. COLTER: Shade. Let me be very clear. Mexico's still short, your agent's still missing, and last week you called my farmers a sacrifice zone.
+    콜터: 그늘 때문이오. 분명히 하지. 멕시코는 아직 물이 모자라고, 당신네 요원은 아직 실종이고, 지난주에 당신은 우리 농부들을 희생 구역이라고 불렀소.
 
 040. ELIAS: Governor, thirty-four people from that room posted recordings. One didn't even vote for me.
     일라이어스: 주지사님, 그 방에 있던 34명이 녹음을 올렸습니다. 한 명은 절 찍지도 않았어요.

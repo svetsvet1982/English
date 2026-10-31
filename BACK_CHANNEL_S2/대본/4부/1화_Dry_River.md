@@ -431,7 +431,7 @@
     톰: 바로 거기. 중학교 때 우리 엄마가 우리 반 데리고 갔었어. 작문까지 시키고.
 
 139. ELIAS: Your mother was your teacher?
-    일라이어스: 어머니가 담임이셨어?
+    일라이어스: 어머니가 너희 선생님이셨어?
 
 140. TOM: For one year. Worst year of my life. Best grades I ever got. Listen, the inspections are real. DPS is already setting up cones on the Loop 375 off-ramp.
     톰: 1년 동안. 인생 최악의 해. 성적은 인생 최고였고. 있잖아, 검사는 진짜야. 주 공공안전국이 벌써 375번 순환도로 진출로에 고깔을 세우고 있어.

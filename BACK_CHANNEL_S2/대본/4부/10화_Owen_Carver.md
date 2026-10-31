@@ -40,8 +40,8 @@
 008. ELIAS: Noted. I'll buy him a beer someday and say nothing.
     일라이어스: 알았어. 언젠가 맥주 한잔 사고 아무 말 안 할게.
 
-009. TOM: Three weeks ago, an American starts buying blood pressure pills at a pharmacy on Avenida Juárez. Every Tuesday, cash, prescription from a local doctor.
-    톰: 3주 전부터 미국인 하나가 후아레스 대로 약국에서 혈압약을 사기 시작해. 매주 화요일, 현금, 동네 의사 처방전으로.
+009. TOM: Three weeks ago, an American starts buying blood pressure pills at a pharmacy on Avenida 16 de Septiembre. Every Tuesday, cash, prescription from a local doctor.
+    톰: 3주 전부터 미국인 하나가 16 데 셉티엠브레 대로 약국에서 혈압약을 사기 시작해. 매주 화요일, 현금, 동네 의사 처방전으로.
 
 010. ELIAS: And the prescription has a name on it.
     일라이어스: 그리고 처방전엔 이름이 적혀 있고.
@@ -157,8 +157,8 @@
 047. CARVER: I don't make lies, Elias. I make doubt. Doubt is cheaper, and it lasts longer, because nobody ever has to prove it.
     카버: 전 거짓말을 만들지 않아요, 일라이어스. 의심을 만들죠. 의심이 더 싸고, 더 오래가요. 아무도 그걸 증명할 필요가 없으니까.
 
-048. ELIAS: You made a video of me calling Texas a sacrifice zone. My daughter watched it in the intern lounge during her first week.
-    일라이어스: 제가 텍사스를 희생 구역이라고 부르는 영상을 만드셨죠. 제 딸이 인턴 첫 주에 휴게실에서 그걸 봤습니다.
+048. ELIAS: You made a video of me calling Texas a sacrifice zone. My daughter watched it on a screen in her office during her first week.
+    일라이어스: 제가 텍사스를 희생 구역이라고 부르는 영상을 만드셨죠. 제 딸이 인턴 첫 주에 사무실 화면으로 그걸 봤습니다.
 
 049. CARVER: I heard. I'm sorry about that one. It was never personal.
     카버: 들었어요. 그건 미안해요. 개인적인 감정은 전혀 없었어요.

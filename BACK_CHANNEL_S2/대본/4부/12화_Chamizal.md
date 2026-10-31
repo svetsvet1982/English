@@ -43,8 +43,8 @@
 009. VALERIA: You sound exactly like your mother, Tomás. She told me that too.
     발레리아: 어머니랑 똑같이 말하네요, 토마스. 어머니도 그 말 하셨어요.
 
-010. TOM: Fourth grade, field trip, right here. She gave me a B-minus.
-    톰: 4학년 때 여기로 견학 왔어. 엄마가 B마이너스 줬어.
+010. TOM: Eighth grade, field trip, right here. She gave me a B-minus.
+    톰: 8학년 때 여기로 견학 왔어. 엄마가 B마이너스 줬어.
 
 011. ELIAS: What I keep thinking about is how they solved it. They didn't move the line to the river. They moved the river to the line, into a concrete channel.
     일라이어스: 제가 자꾸 생각하는 건 그들이 그걸 어떻게 풀었느냐예요. 선을 강에 맞춰 옮기지 않았죠. 강을 선에 맞춰 옮겼어요. 콘크리트 수로 안으로.
@@ -211,8 +211,8 @@
 065. SAMIRA: You just won. The water, the Secretary, the truth, all in one week. And you're walking out the door the morning after.
     사미라: 방금 이기셨잖아요. 물, 장관, 진실, 한 주에 다. 그런데 그다음 날 아침에 문밖으로 걸어 나가시는 거예요.
 
-066. ELIAS: Callaway said it on Wednesday, and he was right about one thing. The man who opens that door can't stay in the building. Otherwise it looks like the door was for him.
-    일라이어스: 캘러웨이가 수요일에 그랬어. 그리고 한 가지는 맞았어. 그 문을 연 사람은 건물에 남으면 안 돼. 안 그러면 그 문이 자기 자리 때문이었던 것처럼 보이거든.
+066. ELIAS: Callaway said it in July, and he was right about one thing. The man who opens that door can't stay in the building. Otherwise it looks like the door was for him.
+    일라이어스: 캘러웨이가 7월에 그랬어. 그리고 한 가지는 맞았어. 그 문을 연 사람은 건물에 남으면 안 돼. 안 그러면 그 문이 자기 자리 때문이었던 것처럼 보이거든.
 
 067. SAMIRA: You always say there's always a third door.
     사미라: 부장관님은 늘 세 번째 문은 항상 있다고 하시잖아요.
@@ -274,8 +274,8 @@
 086. ELIAS: He never did learn his own. Some people never do.
     일라이어스: 그 사람은 끝내 자기 값을 못 알았네. 끝까지 모르는 사람도 있지.
 
-087. JULIA: Rosie called at lunch. She heard you'd resigned from a cafeteria cashier.
-    줄리아: 로지가 점심때 전화했어. 네가 사임했다는 걸 구내식당 계산원한테서 들었대.
+087. JULIA: Rosie called at lunch. The cashier from your cafeteria texted her that you'd resigned.
+    줄리아: 로지가 점심때 전화했어. 너희 구내식당 계산원이 네가 사임했다고 문자를 보냈대.
 
 088. ELIAS: The cashier is very well connected.
     일라이어스: 그 계산원이 인맥이 아주 좋아.

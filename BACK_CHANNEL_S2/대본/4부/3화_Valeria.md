@@ -346,8 +346,8 @@
 110. CALLAWAY: Elias. Tell me she gave you a schedule.
     캘러웨이: 일라이어스. 일정표 받았다고 말해 줘.
 
-111. ELIAS: Not yet, sir. She's agreed not to declare an extraordinary drought before the end of June, on two conditions. The inspections, and a joint count with her commission.
-    일라이어스: 아직입니다, 장관님. 6월 말 전엔 이례적 가뭄을 선포하지 않기로 했습니다. 조건이 두 개고요. 검사, 그리고 그쪽 위원회와의 공동 집계.
+111. ELIAS: No schedule today, sir. She's agreed not to declare an extraordinary drought before the end of June, on two conditions. The inspections, and a joint count with her commission.
+    일라이어스: 오늘은 일정표가 없습니다, 장관님. 6월 말 전엔 이례적 가뭄을 선포하지 않기로 했습니다. 조건이 두 개고요. 검사, 그리고 그쪽 위원회와의 공동 집계.
 
 112. CALLAWAY: The inspections are Colter's. I can't make promises about Texas.
     캘러웨이: 검사는 콜터 소관이야. 텍사스에 대해선 약속 못 해.

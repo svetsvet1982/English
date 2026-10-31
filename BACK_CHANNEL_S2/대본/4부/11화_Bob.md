@@ -10,7 +10,7 @@
 > - 역사 사례: 1973년 '토요일 밤의 학살' — 캘러웨이가 "그날 밤 이긴 건 남아서 일을 한 보크"라며 버티는 쪽을 정당화한다. 일라이어스가 바로잡는다: 1987년 상원은 보크의 대법관 인준을 58 대 42로 부결했고, 사임한 리처드슨은 주영 대사와 상무장관으로 돌아왔으며, 러클스하우스도 환경보호청장으로 돌아왔다. "떠난 사람이 이름을 지켰다"
 > - 전술 태그: [공갈] [설득] [블러핑] [배신] [유출] [세 번째 문]
 > - 이번 화의 핵심 표현: Inspector General / preservation hold / subpoena / open session / public testimony / resignation / leadership PAC / consistent with / I'm not in a position to discuss… / That isn't not reading. That's writing.
-> - 복선/연결: 10화 카버의 진술 제안(7/26 금) 이후 · 진짜 방 금고의 감찰 의뢰서(3부 8화)와 5월 17일 기록(3부 12화)이 정식 제출됨 · 감찰관실이 2027년 보고서 수령 대장(6월 볼티모어 재판 소환장으로 제출된 행정비서실 기록)을 보존 조치(일라이어스는 내용을 보지 않음) · 사미라가 '버지니아'와 '2027' 페이지를 처음으로 잇는다 · 레나가 공개 기록만으로 내일 06:00 기사 · 캘러웨이의 논리: 신념이 아니라 경력 · 일라이어스가 장관에게 처음으로 "Yes, sir."(두 번의 "Not yet, sir." 다음) · 시한 8월 12일 → 12화
+> - 복선/연결: 10화 카버의 진술 제안(7/26 금) 이후 · 진짜 방 금고의 감찰 의뢰서(3부 8화)와 5월 17일 기록(3부 12화)이 정식 제출됨 · 감찰관실이 2027년 보고서 수령 대장(6월 볼티모어 재판 소환장으로 제출된 행정비서실 기록)을 보존 조치(일라이어스는 내용을 보지 않음) · 사미라가 '버지니아'와 '2027' 페이지를 처음으로 잇는다 · 레나가 공개 기록만으로 내일 06:00 기사 · 캘러웨이의 논리: 신념이 아니라 경력 · 일라이어스가 장관에게 처음으로 '예'("Today the answer is yes." — 두 번의 "Not yet, sir." 다음) · 시한 8월 12일 → 12화
 
 ---
 
@@ -58,8 +58,8 @@
 014. ELIAS: The receipt log for the 2027 report.
     일라이어스: 2027년 보고서 수령 대장이구나.
 
-015. SAMIRA: She didn't say which record. She didn't need to. It's the same box Baltimore subpoenaed in June, the one Legal called "mostly boxes."
-    사미라: 어떤 기록인지는 말 안 했어요. 그럴 필요도 없었죠. 6월에 볼티모어가 소환장 보낸 그 상자예요. 법률고문실이 "대부분 상자"라고 했던 거요.
+015. SAMIRA: She didn't say which record. She didn't need to. It's the same box Baltimore subpoenaed in June, the one the Secretary called "mostly boxes."
+    사미라: 어떤 기록인지는 말 안 했어요. 그럴 필요도 없었죠. 6월에 볼티모어가 소환장 보낸 그 상자예요. 장관님이 "대부분 상자"라고 하셨던 거요.
 
 016. ELIAS: So it's paper now. Not a story from a felon in a visiting room. Paper.
     일라이어스: 그럼 이제 서류네. 면회실에서 들은 중범죄자 이야기가 아니라. 서류.
@@ -247,8 +247,8 @@
 077. CALLAWAY: That's what I said.
     캘러웨이: 그렇게 말했잖아.
 
-078. ELIAS: Yes, sir. That's the word.
-    일라이어스: 네, 장관님. 바로 그 단어죠.
+078. ELIAS: That's the word, sir.
+    일라이어스: 바로 그 단어죠, 장관님.
 
 079. CALLAWAY: He recorded me. That little man recorded me.
     캘러웨이: 녹음했구나. 그 조그만 놈이 날 녹음했어.

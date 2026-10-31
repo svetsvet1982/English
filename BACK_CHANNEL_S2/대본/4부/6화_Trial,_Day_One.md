@@ -70,8 +70,8 @@
 018. ELIAS: They want to show everybody knew, so nobody's guilty.
     일라이어스: 다들 알았다는 걸 보여서 아무도 유죄가 아니게 하고 싶은 거네.
 
-019. JULIA: They want to show Holloway wasn't the only adult in the building who knew something. And if the judge grants it, the boxes your building already sent us get read in open court.
-    줄리아: 그 건물에서 뭔가 안 어른이 홀러웨이 하나만은 아니었다는 걸 보여 주고 싶은 거지. 판사가 받아들이면, 너희 건물이 이미 우리한테 보낸 상자들이 공개 법정에서 낭독되는 거고.
+019. JULIA: They want to show Holloway wasn't the only adult in the building who knew something. And if the judge grants it, the boxes your building owes us under the subpoena get read in open court.
+    줄리아: 그 건물에서 뭔가 안 어른이 홀러웨이 하나만은 아니었다는 걸 보여 주고 싶은 거지. 판사가 받아들이면, 소환장에 따라 너희 건물이 우리한테 내야 하는 상자들이 공개 법정에서 낭독되는 거고.
 
 020. ELIAS: Will she?
     일라이어스: 판사가 서명할까?

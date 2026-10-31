@@ -20,10 +20,10 @@
     엘레나: 신발은 문 앞에서 벗어, 얘야. 다섯 시에 걸레질했어.
 
 002. ELIAS: Yes, ma'am. Good morning.
-    일라이어스: 네, 어머님. 안녕하세요.
+    일라이어스: 네, 부인. 안녕하세요.
 
 003. ELENA: Fourth time in my kitchen and still "ma'am." My mother-in-law was ma'am, and she didn't like me.
-    엘레나: 우리 부엌에 네 번째 오면서 아직도 '어머님'이야. 그 소린 우리 시어머니한테나 하던 거고, 그 양반은 날 싫어했어.
+    엘레나: 우리 부엌에 네 번째 오면서 아직도 '부인'이야. '부인'은 우리 시어머니 호칭이었고, 그 양반은 날 싫어했어.
 
 004. TOM: She's been up since four, boss. She ironed the tablecloth. Twice.
     톰: 우리 엄마 네 시부터 깨 있었어, 대장. 식탁보를 다렸다니까. 두 번.
