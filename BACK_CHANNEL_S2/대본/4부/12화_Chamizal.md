@@ -16,8 +16,8 @@
 
 ## 대본
 
-001. VALERIA: You're early, Señor Grant. The cameras aren't here yet. Only the grass, and the people who water it.
-    발레리아: 일찍 오셨네요, 그랜트 씨. 카메라는 아직이에요. 잔디랑, 그 잔디에 물 주는 사람들뿐이죠.
+001. VALERIA: You're early, Señor Grant. No cameras yet. Only the grass.
+    발레리아: 일찍 오셨네요, 그랜트 씨. 카메라는 아직이에요. 잔디뿐이죠.
 
 002. ELIAS: I wanted to see it before it became a backdrop.
     일라이어스: 배경 화면이 되기 전에 한 번 보고 싶었습니다.
@@ -34,23 +34,23 @@
 006. ELIAS: And in 1911, an international commission gave most of it back to Mexico. Washington refused to accept the ruling.
     일라이어스: 그리고 1911년에 국제 중재위원회가 대부분을 멕시코에 돌려줬죠. 워싱턴은 그 판정을 받아들이지 않았고요.
 
-007. VALERIA: For fifty-two years. My grandmother used to say the Americans were waiting for the river to apologize.
-    발레리아: 52년 동안이요. 우리 할머니는 미국 사람들이 강이 사과하기를 기다린다고 하셨어요.
+007. VALERIA: For fifty-two years. My grandmother said they were waiting for the river to apologize.
+    발레리아: 52년 동안이요. 우리 할머니는 그 사람들이 강이 사과하길 기다린다고 하셨어요.
 
 008. TOM: Instead, Kennedy and López Mateos shook hands in 1962. The convention was signed in August '63. Almost exactly sixty-seven years ago this month.
     톰: 대신 1962년에 케네디랑 로페스 마테오스가 악수했지. 협약은 63년 8월에 서명됐고. 이번 달로 거의 딱 67년 전이야.
 
-009. VALERIA: You sound like your mother.
-    발레리아: 어머니랑 똑같이 말하네요.
+009. VALERIA: You sound exactly like your mother, Tomás. She told me that too.
+    발레리아: 어머니랑 똑같이 말하네요, 토마스. 어머니도 그 말 하셨어요.
 
-010. TOM: Fourth grade, field trip, right here. I wrote two pages on it. She gave me a B-minus.
-    톰: 4학년 때 여기로 견학 왔어. 두 쪽짜리 작문 썼는데 엄마가 B마이너스 줬어.
+010. TOM: Fourth grade, field trip, right here. She gave me a B-minus.
+    톰: 4학년 때 여기로 견학 왔어. 엄마가 B마이너스 줬어.
 
 011. ELIAS: What I keep thinking about is how they solved it. They didn't move the line to the river. They moved the river to the line, into a concrete channel.
     일라이어스: 제가 자꾸 생각하는 건 그들이 그걸 어떻게 풀었느냐예요. 선을 강에 맞춰 옮기지 않았죠. 강을 선에 맞춰 옮겼어요. 콘크리트 수로 안으로.
 
-012. VALERIA: And thousands of people on this side had to move with it. Peace has a moving bill, Señor Grant.
-    발레리아: 그리고 이쪽 사람 수천 명이 같이 이사해야 했죠. 평화에도 이삿짐 비용이 붙어요, 그랜트 씨.
+012. VALERIA: And thousands of people on this side moved with it. Peace has a moving bill.
+    발레리아: 그리고 이쪽 사람 수천 명이 같이 이사했죠. 평화에도 이삿짐 비용이 붙어요.
 
 013. ELIAS: This time nobody moves. Not the line, not the river, not the families. We leave the border where it is, and we share the water as if it had no border.
     일라이어스: 이번엔 아무도 안 옮깁니다. 선도, 강도, 가족들도요. 국경은 그대로 두고, 물은 국경이 없는 것처럼 함께 씁니다.
@@ -67,8 +67,8 @@
 017. ELIAS: Two. The one number, published every morning at six, in English and Spanish. Today it says six hundred fifty-two thousand.
     일라이어스: 둘. '하나의 숫자'를 매일 아침 6시에 영어와 스페인어로 공개합니다. 오늘은 65만 2천이라고 나오네요.
 
-018. VALERIA: Not your six-ninety, and not my six-ten. Nobody won the arithmetic. That's how I know it's honest.
-    발레리아: 당신들의 69만도 아니고, 우리 61만도 아니죠. 산수에선 아무도 안 이겼어요. 그래서 정직하다는 걸 알아요.
+018. VALERIA: Not your six-ninety, not my six-ten. Nobody won the arithmetic.
+    발레리아: 당신들 69만도, 우리 61만도 아니죠. 산수에선 아무도 안 이겼어요.
 
 019. ELIAS: Three. Accelerated deliveries before October twenty-fourth. Two more transfers from Mexican storage in Amistad and Falcon, plus a public schedule from the tributaries.
     일라이어스: 셋. 10월 24일 전 인도 가속. 아미스타드와 팰컨에 있는 멕시코 저류수에서 두 번 더 이전하고, 지류에서 오는 물은 공개 일정표로.
@@ -121,8 +121,8 @@
 035. ELIAS: Governor, the bridges have been quiet for three weeks. If the Guard is gone by Monday, I'll say on camera that Texas kept the pressure on. That part is true.
     일라이어스: 주지사님, 다리는 3주째 조용합니다. 월요일까지 주방위군이 빠지면 텍사스가 압박을 늦추지 않았다고 카메라 앞에서 말하겠습니다. 그 부분은 사실이니까요.
 
-036. COLTER: And if it isn't gone by Monday?
-    콜터: 월요일까지 안 빠지면?
+036. COLTER: And if it isn't gone by Monday, Mr. Deputy Secretary?
+    콜터: 그럼 월요일까지 안 빠지면, 부장관 양반?
 
 037. ELIAS: Then I'll say what's also true. That the Guard was photographing passports and sending them to Washington.
     일라이어스: 그럼 그것도 사실인 걸 말하죠. 주방위군이 여권을 찍어서 워싱턴에 보내고 있었다고.
@@ -190,8 +190,8 @@
 058. ELIAS: And poetry, sir. Goodbye.
     일라이어스: 그리고 시도요, 장관님. 안녕히 계십시오.
 
-059. SAMIRA: You told him first. Before me. In this room I'd at least have taken your phone first.
-    사미라: 그분한테 먼저 말씀하셨네요. 저보다 먼저. 이 방이었으면 적어도 휴대전화부터 받아 뒀을 텐데.
+059. SAMIRA: You told him first. Before me. And in his office, not in this one.
+    사미라: 그분한테 먼저 말씀하셨네요. 저보다 먼저. 그것도 이 방이 아니라 그분 방에서.
 
 060. ELIAS: I'm telling you properly. In the only room where it counts.
     일라이어스: 너한테는 제대로 말하는 거야. 그게 의미 있는 유일한 방에서.
@@ -229,8 +229,8 @@
 071. SAMIRA: And me? You're not going to tell me to come with you, are you?
     사미라: 그럼 저는요? 같이 가자고 하실 건 아니죠?
 
-072. ELIAS: No. The next Deputy will need someone who writes down every word nobody says. Keep the list, Samira.
-    일라이어스: 아니. 다음 부장관한텐 아무도 안 한 말까지 적는 사람이 필요할 거야. 목록 계속 써, 사미라.
+072. ELIAS: No. The next Deputy will need someone who writes everything down. Keep the list.
+    일라이어스: 아니. 다음 부장관한텐 다 적어 두는 사람이 필요할 거야. 목록 계속 써.
 
 073. SAMIRA: The fakes won't stop because you left.
     사미라: 부장관님이 떠난다고 가짜가 멈추진 않아요.
@@ -271,11 +271,11 @@
 085. JULIA: He thanked the jury. Then he looked at me and said everybody finds out their price eventually. The marshals took him out mid-sentence.
     줄리아: 배심원들한테 고맙다고 했어. 그러고는 날 보면서 누구나 결국 자기 값을 알게 된다고 하더라. 연방 보안관들이 문장 중간에 데리고 나갔어.
 
-086. ELIAS: He never did learn his own.
-    일라이어스: 그 사람은 끝내 자기 값을 못 알았네.
+086. ELIAS: He never did learn his own. Some people never do.
+    일라이어스: 그 사람은 끝내 자기 값을 못 알았네. 끝까지 모르는 사람도 있지.
 
-087. JULIA: Rosie called me at lunch. She says you resigned on Monday and she heard it from a cafeteria cashier.
-    줄리아: 로지가 점심때 전화했어. 네가 월요일에 사임했는데, 그걸 구내식당 계산원한테서 들었대.
+087. JULIA: Rosie called at lunch. She heard you'd resigned from a cafeteria cashier.
+    줄리아: 로지가 점심때 전화했어. 네가 사임했다는 걸 구내식당 계산원한테서 들었대.
 
 088. ELIAS: The cashier is very well connected.
     일라이어스: 그 계산원이 인맥이 아주 좋아.
@@ -361,8 +361,8 @@
 115. ELENA: Caldo again. It's still ninety-eight degrees at nine o'clock. I made soup because this time things are good, and my mother made soup for that too.
     엘레나: 또 수프야. 밤 9시인데도 37도야. 이번엔 일이 잘돼서 수프를 끓였어. 우리 엄마는 그럴 때도 수프를 끓였거든.
 
-116. ELIAS: So soup means everything.
-    일라이어스: 그럼 수프는 뭐든 다 뜻하네요.
+116. ELIAS: So in this house, soup means everything.
+    일라이어스: 그럼 이 집에선 수프가 뭐든 다 뜻하네요.
 
 117. ELENA: Soup means somebody is still in the kitchen. That's all it ever means.
     엘레나: 수프는 누가 아직 부엌에 있다는 뜻이야. 늘 그 뜻뿐이었어.
@@ -379,8 +379,8 @@
 121. ELENA: And the bridges?
     엘레나: 다리는?
 
-122. TOM: Empty of soldiers since Sunday night. My aunt crossed this morning at six-fifteen and nobody photographed her passport.
-    톰: 일요일 밤부터 군인 하나 없어. 이모가 오늘 아침 6시 15분에 건너왔는데 아무도 여권 사진 안 찍었대.
+122. TOM: No soldiers since Sunday night. Nobody photographed my aunt's passport this morning.
+    톰: 일요일 밤부터 군인 하나 없어. 오늘 아침엔 아무도 이모 여권 사진 안 찍었대.
 
 123. ELENA: Then she'll be here for breakfast. She always comes for breakfast when she's happy.
     엘레나: 그럼 아침 먹으러 오겠네. 기분 좋을 땐 늘 아침 먹으러 오거든.
