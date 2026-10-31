@@ -11,7 +11,7 @@
 > - 역사 사례: 에두아르두 사보이아의 운전(2013) — 볼리비아 상원의원 호제르 핀투를 라파스 주재 브라질 대사관에서 국경까지 약 22시간 차로 데려간 브라질 외교관. 일라이어스가 "규정을 어긴 대가"를 피에르뤽에게 경고하려고 꺼낸다. 피에르뤽이 "영웅이 돼서 승진했겠네요"라고 하자 일라이어스가 바로잡는다
 > - 전술 태그: [공갈] [거짓말] [블러핑] [비밀] [유출]
 > - 이번 화의 핵심 표현: refused under 214(b) / the presumption of immigrant intent / Expedite doesn't mean approve. / Are you offering me something? / With all due respect… / by the book / chapter and verse / I'm not in a position to…
-> - 복선/연결: 파리아의 장부에 'Tidewater Civic LLC'(워싱턴 주소)로 매달 4만 달러 → 7화 폰치의 델라웨어 법인 세 곳 중 하나 · "워싱턴 친구들이 당신네 컴퓨터를 읽는다" → 루이자의 비자 신청 기록 유출(11화) · 이민국적법 104(a): 비자 결정권은 영사에게 · 피에르뤽이 루이자의 거처를 묻는다(12화 배신 복선) · 프랭크의 "1972년 버스 얘기"(8화)
+> - 복선/연결: 파리아의 장부에 2화에서 루이자가 밝힌 폰치 법인 'Tidewater Civic LLC'로 3월부터 매달 4만 달러(장부상 주소는 윌밍턴 우편함이 아닌 워싱턴) → 캐나다 내 자금 유입 경로, 7화 휴대전화 해제로 확인 · "워싱턴 친구들이 당신네 컴퓨터를 읽는다" → 루이자의 비자 신청 기록 유출(11화) · 이민국적법 104(a): 비자 결정권은 영사에게 · 피에르뤽이 루이자의 거처를 묻는다(12화 배신 복선) · 프랭크의 "1972년 버스 얘기"(8화)
 
 ---
 
@@ -425,23 +425,23 @@
 136. LUISA: Then that's how they knew to look in Montreal. Not the airport. Your system.
     루이자: 그럼 그렇게 몬트리올을 찾은 거네요. 공항이 아니라. 당신네 시스템으로.
 
-137. ELIAS: Possibly both. And he showed me a ledger. Page forty-one. Payments to a firm called Tidewater Civic, forty thousand dollars a month.
-    일라이어스: 둘 다일 수도 있어요. 그리고 장부를 보여 줬어요. 41쪽. 타이드워터 시빅이라는 회사로 매달 4만 달러씩.
+137. ELIAS: Possibly both. And he showed me a ledger. Page forty-one. Payments to Tidewater Civic, forty thousand dollars a month.
+    일라이어스: 둘 다일 수도 있어요. 그리고 장부를 보여 줬어요. 41쪽. 타이드워터 시빅으로 매달 4만 달러씩.
 
-138. LUISA: Say that name again.
-    루이자: 그 이름 다시 말해 봐요.
+138. LUISA: Tidewater. Paid by Faria Imports? From Laval?
+    루이자: 타이드워터요. 파리아 수입상이 냈다고요? 라발에서?
 
-139. ELIAS: Tidewater Civic LLC. A Washington address. Listed as consulting.
-    일라이어스: 타이드워터 시빅 유한회사. 워싱턴 주소. 컨설팅으로 적혀 있었어요.
+139. ELIAS: Since March. And his ledger gives Tidewater a Washington address — not the Wilmington mailbox you told me about.
+    일라이어스: 3월부터요. 그리고 장부엔 타이드워터 주소가 워싱턴으로 돼 있어요. 당신이 말한 윌밍턴 우편함이 아니라.
 
-140. LUISA: That isn't a consulting firm. It's one of the bridges. Clean coffee money goes in from Laval, and on the other side something comes out that pays for bots, ads and people who never put their names on anything.
-    루이자: 그건 컨설팅 회사가 아니에요. 다리 중 하나예요. 라발에서 깨끗한 커피 돈이 들어가면, 반대편에선 봇이랑 광고, 그리고 절대 어디에도 이름을 안 남기는 사람들 값을 치르는 돈이 나와요.
+140. LUISA: Then Rogério's coffee company is a bridge too. Clean coffee money goes in from Laval, and on the other side it comes out labeled "voter education" — which, in my old job, meant grandmothers watching videos about stolen pensions.
+    루이자: 그럼 호제리우의 커피 회사도 다리인 거예요. 라발에서 깨끗한 커피 돈이 들어가면, 반대편에선 '유권자 교육'이라는 딱지를 달고 나와요. 제 옛날 일에서 그건 할머니들한테 연금 도둑 영상을 보여 주는 거였죠.
 
-141. ELIAS: One of how many?
-    일라이어스: 몇 개 중 하나요?
+141. ELIAS: How many more Rogérios are out there, feeding the same three companies?
+    일라이어스: 그 세 회사에 돈을 대는 호제리우 같은 사람이 몇 명이나 더 있을까요?
 
-142. LUISA: Three. I'll give you the other two when I can prove them. I won't say a name I can't put a document under.
-    루이자: 세 개요. 나머지 두 개는 증명할 수 있을 때 말할게요. 밑에 서류를 받칠 수 없는 이름은 입에 안 올려요.
+142. LUISA: I don't know yet, and I won't guess. I don't say a name I can't put a document under. When the phone opens, I'll show you.
+    루이자: 아직 몰라요. 짐작도 안 할 거예요. 밑에 서류를 받칠 수 없는 이름은 입에 안 올리거든요. 전화가 열리면 보여 드릴게요.
 
 143. ELIAS: You sound like a prosecutor.
     일라이어스: 검사처럼 말하네요.

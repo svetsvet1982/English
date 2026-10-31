@@ -410,8 +410,8 @@
 131. ELIAS: When she finds it, she'll open it in a room with you in it. Not before, and not without her. That was the deal, as I remember it.
     일라이어스: 찾으면 당신이 있는 방에서 열 거예요. 그 전엔 안 되고, 그 사람 없이도 안 되고요. 내가 기억하는 약속은 그거예요.
 
-132. NADIA: You've made her indispensable. That's clever, and slightly insulting. It also means that if something happens to her, this drive becomes a very expensive paperweight.
-    나디아: 그 사람을 없어선 안 될 존재로 만드셨네요. 영리하고, 약간 모욕적이고요. 그 말은 그 사람한테 무슨 일이 생기면 이 드라이브는 아주 비싼 문진이 된다는 뜻이기도 하죠.
+132. NADIA: You've made her indispensable. That's clever, and slightly insulting. It also means that if something happens to her, my image becomes a very expensive paperweight.
+    나디아: 그 사람을 없어선 안 될 존재로 만드셨네요. 영리하고, 약간 모욕적이고요. 그 말은 그 사람한테 무슨 일이 생기면 우리 이미지는 아주 비싼 문진이 된다는 뜻이기도 하죠.
 
 133. ELIAS: Then I'd suggest Canada make sure nothing happens to her.
     일라이어스: 그럼 캐나다가 그 사람한테 아무 일도 없게 챙기시길 권해요.

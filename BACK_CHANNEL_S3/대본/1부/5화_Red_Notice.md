@@ -110,8 +110,8 @@
 031. GLORIA: Elias, look at me. Our system shows that Ms. Prado had an interview at window four on October twenty-sixth, and that she didn't appear. Is that accurate?
     글로리아: 일라이어스, 날 봐요. 우리 시스템엔 프라두 씨가 10월 26일 4번 창구에서 면담이 잡혀 있었고 나타나지 않았다고 돼 있어요. 그게 정확해요?
 
-032. ELIAS: She sat down, asked where the restroom was, and never came back to the window. I recorded it the way I record every no-show.
-    일라이어스: 앉았다가 화장실이 어디냐고 묻고는 창구로 돌아오지 않았어요. 다른 불참자랑 똑같이 기록했고요.
+032. ELIAS: She sat down, took a phone call, and left before I could scan her passport. I recorded it the way I record every no-show.
+    일라이어스: 앉았다가 전화를 한 통 받더니, 제가 여권을 스캔하기도 전에 나갔어요. 다른 불참자랑 똑같이 기록했고요.
 
 033. GLORIA: That is a very precise answer to a question I didn't ask.
     글로리아: 내가 묻지 않은 질문에 아주 정확한 대답이네요.
@@ -119,8 +119,8 @@
 034. ELIAS: It's a very precise question, Gloria. I didn't want to waste it.
     일라이어스: 아주 정확한 질문이었으니까요, 글로리아. 낭비하기 싫었어요.
 
-035. GLORIA: Last week I put a letter of warning in your file because you argued with a cable from Washington. One letter is a story. Two letters is a pattern.
-    글로리아: 지난주에 워싱턴 전문에 반박했다고 당신 인사 파일에 경고장을 넣었어요. 경고장 하나는 일화예요. 두 장이면 패턴이고요.
+035. GLORIA: Last week I gave you an oral admonishment for arguing with a cable from Washington. One note in your file is a story. Two notes are a pattern.
+    글로리아: 지난주에 워싱턴 전문에 반박했다고 구두 경고를 줬죠. 인사 파일에 메모 하나는 일화예요. 두 개면 패턴이고요.
 
 036. ELIAS: And three is a career. I'm aware.
     일라이어스: 세 장이면 경력이죠. 알아요.
@@ -356,8 +356,8 @@
 113. ELIAS: You told her Canada holds a copy. That wasn't yours to tell.
     일라이어스: 캐나다가 사본을 갖고 있다고 말했어요. 그건 당신이 할 말이 아니었어요.
 
-114. NADIA: The copy is in Canada's safe now, Mr. Grant. That makes it mine to mention. You gave me a locked box so I'd have a reason to protect her. I just showed Brasília the box.
-    나디아: 그 사본은 이제 캐나다 금고에 있어요, 그랜트 씨. 그러니 내가 언급할 수 있죠. 당신이 나한테 잠긴 상자를 준 건 내가 그 사람을 지킬 이유를 만들려고 한 거잖아요. 난 브라질리아한테 그 상자를 보여 준 것뿐이에요.
+114. NADIA: That copy is in Canada's safe now, Mr. Grant, made with her consent. That makes it mine to mention. You told her to give me a locked box so I'd have a reason to protect her. I just showed Brasília the box.
+    나디아: 그 사본은 이제 캐나다 금고에 있어요, 그랜트 씨. 그 사람 동의를 받고 뜬 거고요. 그러니 내가 언급할 수 있죠. 나한테 잠긴 상자를 주라고 한 건 당신이잖아요. 내가 그 사람을 지킬 이유가 생기게. 난 브라질리아한테 그 상자를 보여 준 것뿐이에요.
 
 115. ELIAS: And now Brasília has a reason to want the box opened in Brazil.
     일라이어스: 그리고 이제 브라질리아는 그 상자를 브라질에서 열고 싶어 할 이유가 생겼죠.
@@ -416,14 +416,14 @@
 133. ELIAS: Because once, I was very good at writing things that other people decided to publish.
     일라이어스: 예전에 내가 아주 잘 쓴 글을 다른 사람들이 공개하기로 했거든요.
 
-134. LUISA: The Moscow cable. I read about it. I didn't know it was you until Nour told me your last name.
-    루이자: 모스크바 전문이요. 기사로 읽었어요. 누르가 성을 말해 주기 전까진 그게 당신인 줄 몰랐어요.
+134. LUISA: I read the article about your Moscow cable twice before I came to your window. Why do you think I waited for window four?
+    루이자: 당신 모스크바 전문 기사를 두 번 읽고 창구에 갔어요. 제가 왜 4번 창구를 기다렸다고 생각하세요?
 
-135. ELIAS: Nour knows my last name?
-    일라이어스: 누르가 내 성을 알아요?
+135. ELIAS: I assumed it was the ticket machine.
+    일라이어스: 번호표 기계 탓인 줄 알았죠.
 
-136. LUISA: Nour knows everyone's last name. She just pretends to know only their sandwiches.
-    루이자: 누르는 모든 사람 성을 알아요. 샌드위치만 아는 척하는 거죠.
+136. LUISA: The machine said seven. I let three people go ahead of me. I was waiting for the man who'd already lost everything.
+    루이자: 기계는 7번이었어요. 세 사람을 먼저 보냈고요. 이미 다 잃어 본 사람을 기다린 거예요.
 
 137. ROSIE: Dad, you're frozen. No, wait, that's just your face. What's wrong?
     로지: 아빠, 화면 멈췄어. 아, 아니다, 그냥 얼굴이 그런 거구나. 무슨 일 있어?
@@ -449,8 +449,8 @@
 144. ELIAS: Somebody has to. Did your mom say yes to Thanksgiving?
     일라이어스: 누군가는 해야지. 엄마가 추수감사절 허락했어?
 
-145. ROSIE: She said yes if you promise not to make me eat poutine, and if you actually show up at the airport this time.
-    로지: 아빠가 나한테 푸틴 억지로 안 먹이고, 이번엔 진짜로 공항에 나오겠다고 약속하면 된대.
+145. ROSIE: She said yes if you promise not to make me eat poutine, and if you actually show up at the train station this time.
+    로지: 아빠가 나한테 푸틴 억지로 안 먹이고, 이번엔 진짜로 기차역에 나오겠다고 약속하면 된대.
 
 146. ELIAS: Promise. Both parts. Hang on — my calendar for Friday just updated.
     일라이어스: 약속할게. 둘 다. 잠깐만. 금요일 일정이 방금 바뀌었네.
