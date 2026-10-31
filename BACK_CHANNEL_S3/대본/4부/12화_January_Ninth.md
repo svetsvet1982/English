@@ -11,8 +11,8 @@
 > - 역사 사례: 조지 케넌의 '장문 전보'(1946) — 피에르뤽이 "반대 전문을 누가 읽기는 하냐"고 묻자 일라이어스가 들려준다. 재무부의 따분한 질문 하나에 다섯 부분, 5천 단어가 넘는 답을 보냈고 "전신 채널에 부담을 줘 미안하다"고 먼저 사과했다는 것, 워싱턴이 이미 그 질문을 하고 있었기에 읽혔고 봉쇄 정책의 뿌리가 됐지만 케넌은 평생 오독당했다고 말했다는 것 — "답을 써 두고 질문을 기다린다." 코다에서 매기가 같은 사례로 받는다: "케넌은 질문 하나에 다섯 부분을 보냈다. 일라이어스는 아무도 묻지 않았는데 세 통을 보냈다."
 > - 전술 태그: [설득] [비밀] [유출] [거짓말] [배신의 복선]
 > - 이번 화의 핵심 표현: dissent channel / acknowledge within two business days / emergency appointment / A refusal with a reason is a door with directions on it. / Sorry, I did it. / mutual legal assistance request / on the record / aware of reports / I need someone the Russians remember. / Book me on the first flight to Montreal.
-> - 영사 업무 장면: 대체 공휴일의 비상 예약 — 8월에 214(b)로 거절했던 윌메르가 '길 안내'대로 갱신된 취업 허가·본인 명의 임대 계약서·고용주 편지·병원 편지를 들고 와 승인받는다(018~037) · 뉘앙스 장면: 국무부 언론 지침 "We are aware of reports of the detention of a U.S. citizen." — 매기: "어디 있는지, 누가 잡고 있는지 다 알지만 뭘 말할지 아직 안 정했다는 뜻"(109~110). 피에르뤽의 "Not 'sorry it happened.' Sorry, I did it." — 10화의 regret/apologize를 사람의 입으로(075~076)
-> - 복선/연결: 3부 12화 윌메르 거절 → 승인 · 1부 11화·3부 11화·4부 9화 반대 전문 세 통 → 코다 · 4부 11화 감찰 부록, 근무평정 세 문장, 빙엄 우표가 든 지갑 칸 · 3부 10화 "다음 판은 내가 백" → 엽서 "Ready when you are. You're white."(시즌 1 2화 드미트리의 첫 수 카드 e4) · 4부 10화 9시 41분 전화 → '사무실 없는 북버지니아 컨설팅 회사'(시즌 1 할버드 복선, 이름 없음) · 레나에게 빚진 공식 발언 → "워싱턴의 누군가가 먼저 묻는 날"(시즌 1 1부) · 코다 = 시즌 1 1화(1월 10일 월요일 매기가 4번 창구 줄에 선다. 엽서, 보내지 않은 카드, "조사는 아직 진행 중", 총영사가 창구를 대신 맡음, 레나의 전화)
+> - 영사 업무 장면: 대체 공휴일의 비상 예약 — 8월에 거절, 9월에 '길 안내'대로 승인받았던 윌메르가 어머니 낙상과 비자 든 여권 도난으로 다시 온다. 분실 비자는 새 여권으로 옮겨지지 않아 재신청, 새 여권·경찰 신고서·주방장 편지·병원 편지, 그리고 "말한 날짜에 돌아온 기록"이 제일 좋은 서류(018~037) · 뉘앙스 장면: 국무부 언론 지침 "We are aware of reports of the detention of a U.S. citizen." — 매기: "어디 있는지, 누가 잡고 있는지 다 알지만 뭘 말할지 아직 안 정했다는 뜻"(109~110). 피에르뤽의 "Not 'sorry it happened.' Sorry, I did it." — 10화의 regret/apologize를 사람의 입으로(075~076)
+> - 복선/연결: 3부 12화 윌메르 거절 → 4부 1화 승인 → 이번 화 재신청(약속을 지킨 기록) · 1부 11화·3부 11화·4부 9화 반대 전문 세 통 → 코다 · 4부 11화 감찰 부록, 근무평정 세 문장, 빙엄 우표가 든 지갑 칸 · 3부 10화 "다음 판은 내가 백" → 엽서 "Ready when you are. You're white."(시즌 1 2화 드미트리의 첫 수 카드 e4) · 4부 10화 9시 41분 전화 → '사무실 없는 북버지니아 컨설팅 회사'(시즌 1 할버드 복선, 이름 없음) · 레나에게 빚진 공식 발언 → "워싱턴의 누군가가 먼저 묻는 날"(시즌 1 1부) · 코다 = 시즌 1 1화(1월 10일 월요일 매기가 4번 창구 줄에 선다. 엽서, 보내지 않은 카드, "조사는 아직 진행 중", 총영사가 창구를 대신 맡음, 레나의 전화)
 
 ---
 
@@ -72,17 +72,17 @@
 018. ELIAS: On a holiday? Emergency appointments only. Send him in.
     일라이어스: 공휴일에? 비상 예약만 받는데. 들여보내.
 
-019. WILMER: Mr. Grant. You remember me? Wilmer Quiñones. August. You said bring a work permit and a lease, and come back.
-    윌메르: 그랜트 씨. 저 기억하세요? 윌메르 키뇨네스요. 8월에요. 취업 허가랑 임대 계약서 가지고 다시 오라고 하셨잖아요.
+019. WILMER: Mr. Grant. It's me again, Wilmer Quiñones. I'm sorry. I know it's a holiday.
+    윌메르: 그랜트 씨. 또 저예요, 윌메르 키뇨네스. 죄송해요. 공휴일인 거 알아요.
 
-020. ELIAS: I remember. The cook from the hotel kitchen. Your mother's seventieth was in October.
-    일라이어스: 기억해요. 호텔 주방 요리사분. 어머님 칠순이 10월이었죠.
+020. ELIAS: You were here in September. Approved, ten days in Miami, back on the nineteenth. What happened?
+    일라이어스: 9월에 오셨죠. 승인, 마이애미 열흘, 19일 귀국. 무슨 일이에요?
 
-021. WILMER: I missed it. The permit came in November, the lease in December. And on Tuesday my mother fell, in Miami.
-    윌메르: 못 갔어요. 허가는 11월에, 계약서는 12월에 나왔어요. 그런데 화요일에 어머니가 마이애미에서 넘어지셨어요.
+021. WILMER: My mother fell on Tuesday, in Miami. Her hip. And on Wednesday somebody took my bag on the métro, with my passport inside.
+    윌메르: 화요일에 어머니가 마이애미에서 넘어지셨어요. 고관절이요. 그런데 수요일에 지하철에서 누가 제 가방을 가져갔어요. 여권이 든 채로요.
 
-022. ELIAS: I'm sorry. How bad?
-    일라이어스: 저런. 많이 다치셨어요?
+022. ELIAS: With the visa in it. I'm sorry. How bad is the hip?
+    일라이어스: 비자도 거기 있었겠네요. 저런. 고관절은 많이 다치셨어요?
 
 023. WILMER: Her hip. Jackson Memorial. They operate Monday. My sister flew in from Guayaquil last night. I'm the only one still on the wrong side of a window.
     윌메르: 고관절이요. 잭슨 메모리얼 병원이요. 월요일에 수술해요. 누나는 어젯밤에 과야킬에서 날아왔고요. 아직 창구 반대편에 있는 건 저 하나예요.
@@ -90,32 +90,32 @@
 024. ELIAS: Show me what you brought.
     일라이어스: 가져오신 거 보여 주세요.
 
-025. WILMER: The new work permit, valid two years. A lease with my name on it, my landlord's signature, and his phone number in case you don't believe him.
-    윌메르: 새 취업 허가요, 2년짜리. 제 이름으로 된 임대 계약서, 집주인 서명, 그리고 못 믿으실까 봐 집주인 전화번호도요.
+025. WILMER: A new passport, from the Ecuadorian consulate yesterday. The police report about the bag. And a letter from the doctor, in English and Spanish.
+    윌메르: 새 여권이요. 어제 에콰도르 영사관에서 받았어요. 가방 도난 경찰 신고서. 그리고 의사 편지요, 영어랑 스페인어로.
 
-026. ELIAS: I believe him. A letter from the hotel?
-    일라이어스: 믿어요. 호텔 편지는요?
+026. ELIAS: A lost visa is gone for good, Mr. Quiñones. It doesn't move to the new passport. You have to apply again.
+    일라이어스: 잃어버린 비자는 그걸로 끝이에요, 키뇨네스 씨. 새 여권으로 옮겨 가지 않아요. 다시 신청하셔야 해요.
 
-027. WILMER: From the chef. He says if I'm not back by the fifteenth, he'll come to Miami to get me, and he can't swim.
-    윌메르: 주방장이 썼어요. 15일까지 안 돌아오면 마이애미까지 데리러 오겠대요. 수영도 못 하면서요.
+027. WILMER: That's why I'm here. This time the chef wrote the letter, not the manager. He says if I'm not back by the fifteenth, he'll come to Miami to get me, and he can't swim.
+    윌메르: 그래서 온 거예요. 이번엔 매니저 말고 주방장이 편지를 써 줬어요. 15일까지 안 돌아오면 마이애미까지 데리러 오겠대요. 수영도 못 하면서요.
 
-028. ELIAS: That's the most persuasive employer letter I've read all year. And the hospital?
-    일라이어스: 올해 읽은 고용주 편지 중에 제일 설득력 있네요. 병원 편지는요?
+028. ELIAS: That's the most persuasive employer letter I've read all year.
+    일라이어스: 올해 읽은 고용주 편지 중에 제일 설득력 있네요.
 
-029. WILMER: A letter from the doctor, in English and Spanish. The surgery date is underlined twice. My sister did that.
-    윌메르: 의사 편지요. 영어랑 스페인어로요. 수술 날짜에 밑줄이 두 번 그어져 있어요. 누나가 그었어요.
+029. WILMER: The surgery date is underlined twice on the doctor's letter. My sister did that.
+    윌메르: 의사 편지에 수술 날짜 밑줄이 두 번 그어져 있어요. 누나가 그었어요.
 
-030. ELIAS: Mr. Quiñones, in August I told you a refusal with a reason is a door with directions on it. You followed every one of the directions, in order. Approved.
-    일라이어스: 키뇨네스 씨, 8월에 제가 이유 있는 거절은 길 안내가 붙은 문이라고 했죠. 그 안내를 하나도 빠짐없이, 순서대로 따라오셨어요. 승인입니다.
+030. ELIAS: In August I told you a refusal with a reason is a door with directions on it. In September you followed them. In October you came back exactly when you said.
+    일라이어스: 8월에 제가 이유 있는 거절은 길 안내가 붙은 문이라고 했죠. 9월에 그 안내를 따라오셨고, 10월엔 말씀하신 날짜에 정확히 돌아오셨어요.
 
-031. WILMER: Today?
-    윌메르: 오늘이요?
+031. WILMER: That matters?
+    윌메르: 그게 중요해요?
 
-032. ELIAS: Today. It's an emergency appointment, so I'll print it now. You can be on a plane tomorrow.
-    일라이어스: 오늘이요. 비상 예약이니까 지금 바로 인쇄해 드릴게요. 내일 비행기 타실 수 있어요.
+032. ELIAS: It's the best document you own. A promise kept is the one thing nobody can fake at this window. Approved. I'll print it now, so you can fly tomorrow.
+    일라이어스: 그게 가지신 서류 중에 제일 좋은 서류예요. 지킨 약속은 이 창구에서 아무도 위조 못 하는 유일한 거예요. 승인입니다. 지금 바로 인쇄해 드릴 테니 내일 비행기 타세요.
 
-033. WILMER: Thank you. My brother came home from Manta in November, you know. Safe. Since September, he says, the captains on that coast keep the radio on all night long.
-    윌메르: 고맙습니다. 형이 11월에 만타에서 돌아왔어요. 무사히요. 형 말로는 9월 이후로 그 해안 선장들이 밤새도록 무전기를 켜 둔대요.
+033. WILMER: Thank you. My brother came home from Manta in November, safe. Since September, he says, the captains on that coast keep the radio on all night long.
+    윌메르: 고맙습니다. 형이 11월에 만타에서 무사히 돌아왔어요. 형 말로는 9월 이후로 그 해안 선장들이 밤새도록 무전기를 켜 둔대요.
 
 034. ELIAS: Why the radio?
     일라이어스: 왜 무전기를요?
@@ -477,6 +477,8 @@
 - **burdening the telegraph channel** — 케넌의 사과 "전신 채널에 부담을 줘서" (012)
 - **emergency appointment** — 비상 예약 (018, 032)
 - **A refusal with a reason is a door with directions on it.** — 이유 있는 거절은 길 안내가 붙은 문 (030)
+- **A lost visa is gone for good.** — 분실한 비자는 새 여권으로 옮겨 가지 않는다 (026)
+- **A promise kept is the one thing nobody can fake.** — 지킨 약속은 아무도 위조 못 한다 (032)
 - **a liability** — 짐, 부담이 되는 것 / a letter from you… it's a liability (048)
 - **Sorry, I did it. vs. sorry it happened** — '내가 했다'는 사과와 '유감'의 차이 (075~076)
 - **mutual legal assistance request** — 형사사법공조 요청 (071)
