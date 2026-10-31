@@ -385,8 +385,8 @@
 123. ELIAS: I know. I was watching her walk. She walks the same way into a courtroom as into a Cabinet meeting.
     일라이어스: 알아. 걷는 걸 보고 있었어. 법정에 들어갈 때도 각료 회의에 들어갈 때랑 똑같이 걷더라.
 
-124. JULIA: The government asked for thirty-six. Her lawyer asked for eighteen with cooperation credit. Judge Marsh split it, and leaned our way.
-    줄리아: 검찰은 36개월을 구형했고, 변호인은 협조 감경으로 18개월을 요구했어. 마시 판사가 반으로 나눴는데, 우리 쪽으로 좀 기울었지.
+124. JULIA: The government asked for thirty-six. Her lawyer asked for eighteen with cooperation credit. Judge Hollander split it, and leaned our way.
+    줄리아: 검찰은 36개월을 구형했고, 변호인은 협조 감경으로 18개월을 요구했어. 홀랜더 판사가 반으로 나눴는데, 우리 쪽으로 좀 기울었지.
 
 125. ELIAS: "Our way." You're not on this case, Julia.
     일라이어스: '우리 쪽'이라니. 넌 이 사건 담당 아니잖아, 줄리아.

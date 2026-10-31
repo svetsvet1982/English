@@ -211,8 +211,8 @@
 065. SATTERFIELD: Fine. Then answer me as a lawyer would. What do you have on intent that isn't hearsay?
     새터필드: 좋습니다. 그럼 변호사처럼 답해 주십시오. 전문 증거가 아닌 의도의 증거로 뭘 갖고 계십니까?
 
-066. ELIAS: The video. Aïcha's desk cleaned up the soundtrack last week. At minute nine, a man says "only the Peul" in Fulfulde.
-    일라이어스: 영상이요. 지난주에 아이샤 팀이 음성 트랙을 깨끗하게 정리했어요. 9분쯤에 한 남자가 풀풀데어로 '풀라니만'이라고 해요.
+066. ELIAS: The video. Aïcha's desk cleaned up the soundtrack of the full original last week. At minute nine, a man says "only the Peul" in Fulfulde.
+    일라이어스: 영상이요. 지난주에 아이샤 팀이 11분짜리 원본 전체의 음성 트랙을 깨끗하게 정리했어요. 9분쯤에 한 남자가 풀풀데어로 '풀라니만'이라고 해요.
 
 067. SAMIRA: Excuse me, Deputy Secretary. Minute nine, second fourteen. Three separate translators agreed on the words.
     사미라: 실례합니다, 부장관님. 9분 14초요. 번역자 세 명이 각자 따로 같은 말이라고 했어요.
@@ -493,4 +493,4 @@
 
 ## 다음 화 예고 (낭독하지 않음)
 
-- 8화 "No": 일라이어스가 그 단어를 말한 지 사흘 뒤, 그의 목소리로 '단어를 광산과 바꾸자'는 가짜 음성이 퍼진다. 그는 진실을 빨리 알리려고 레나에게 카버 쪽 자료를 넘기려 하고, 사미라가 처음으로 "No."라고 말한다.
+- 8화 "No": 일라이어스가 그 단어를 말한 지 사흘 뒤, 그의 목소리로 '단어를 광산과 바꾸자'는 가짜 음성이 퍼진다. 그는 진실을 빨리 알리려고 레나에게 포워드 리퍼블릭 PAC 자료를 넘기려 하고, 사미라가 처음으로 "No."라고 말한다.

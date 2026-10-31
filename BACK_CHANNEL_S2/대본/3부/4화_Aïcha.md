@@ -145,8 +145,8 @@
 043. ELIAS: What's the difference?
     일라이어스: 뭐가 다릅니까?
 
-044. IBRAHIM: The copy everyone shared has been compressed six times. No metadata, half the frames. The original came off the phone itself, here, on this table.
-    이브라힘: 다들 돌려 본 사본은 여섯 번 압축된 거예요. 메타데이터도 없고 프레임도 절반이고요. 원본은 바로 이 탁자 위에서 휴대전화에서 직접 뺐어요.
+044. IBRAHIM: The copy everyone shared is a two-minute-fifty cut from an eleven-minute original, compressed six times. No metadata, half the frames. The original came off the phone itself, here, on this table.
+    이브라힘: 다들 돌려 본 사본은 11분짜리 원본에서 잘라 낸 2분 50초짜리고, 여섯 번 압축된 거예요. 메타데이터도 없고 프레임도 절반이고요. 원본은 바로 이 탁자 위에서 휴대전화에서 직접 뺐어요.
 
 045. AICHA: The phone belongs to a schoolteacher from Kourou-Béri. He filmed from behind a granary, then walked for two days to reach a cousin in Tillabéri.
     아이샤: 휴대전화 주인은 쿠루베리의 학교 선생님이에요. 곡식 창고 뒤에서 찍고, 틸라베리에 있는 사촌한테 가려고 이틀을 걸었어요.

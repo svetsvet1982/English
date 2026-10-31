@@ -427,8 +427,8 @@
 137. FRANK: Because I raised you. Correct the facts, keep the shame. Rosie's here. She has news that isn't news yet.
     프랭크: 내가 키웠으니까. 사실은 바로잡고, 부끄러움은 간직해라. 로지 여기 있다. 아직 소식이 아닌 소식이 있대.
 
-138. ROSIE: Dad. Nothing yet. The portal says early April. I'm just telling you I checked, so you don't have to ask.
-    로지: 아빠. 아직 아무것도. 사이트에 4월 초래. 확인했다고 그냥 말해 주는 거야. 아빠가 안 물어봐도 되게.
+138. ROSIE: Dad. Nothing yet. The portal says the twenty-eighth. I'm just telling you I checked, so you don't have to ask.
+    로지: 아빠. 아직 아무것도. 사이트에 28일이래. 확인했다고 그냥 말해 주는 거야. 아빠가 안 물어봐도 되게.
 
 139. ELIAS: Thank you. I'll pretend I wasn't going to ask.
     일라이어스: 고마워. 안 물어보려던 척할게.
@@ -460,8 +460,8 @@
 148. ELIAS: What does it say?
     일라이어스: 뭐라고 돼 있어?
 
-149. SAMIRA: "We are checking. Give us forty-eight hours. Send us originals, not opinions."
-    사미라: "확인 중입니다. 48시간을 주세요. 의견 말고 원본을 보내 주세요."
+149. SAMIRA: "We are checking. Give us seventy-two hours. Send us originals, not opinions."
+    사미라: "확인 중입니다. 72시간을 주세요. 의견 말고 원본을 보내 주세요."
 
 150. ELIAS: Then that's where we start. Not with the colonel, not with Paris. With the people who were there.
     일라이어스: 그럼 거기서 시작하자. 대령도 아니고 파리도 아니고. 그 자리에 있었던 사람들한테서.

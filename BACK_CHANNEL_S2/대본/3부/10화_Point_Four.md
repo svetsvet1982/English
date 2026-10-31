@@ -290,7 +290,7 @@
     일라이어스: 동의합니다. 감시는 경영이 아닙니다. 카메라는 드럼을 지켜볼 뿐, 광산을 운영하진 않습니다.
 
 092. MAIGA: Three. Power in Agadez before the hot season of next year. Not a drawing. Electricity.
-    마이가: 셋. 내년 더위가 오기 전에 아가데스에 전기를. 설계도 말고. 전기를.
+    마이가: 셋. 내년 더위가 오기 전에 아가데즈에 전기를. 설계도 말고. 전기를.
 
 093. ELIAS: That depends on the financing, which I'm working on.
     일라이어스: 그건 자금 조달에 달렸고, 지금 추진 중입니다.
@@ -433,8 +433,8 @@
 139. CALLAWAY: Then I'll be generous with the credit. Results, Elias. Get me Friday.
     캘러웨이: 그럼 공은 넉넉히 나눠 주지. 결과를 가져와, 일라이어스. 금요일을 가져와.
 
-140. SAMIRA: He already knew Maïga said yes, and we haven't sent a cable. That's the second time this spring his office heard before we spoke.
-    사미라: 마이가가 '예'라고 한 걸 벌써 알고 계셨어요. 우린 전문도 안 보냈는데요. 이번 봄에 우리가 말하기도 전에 장관실이 먼저 들은 게 두 번째예요.
+140. SAMIRA: He already knew Maïga said yes, and we haven't sent a cable. That's the second time this spring his office heard about Niger before we spoke.
+    사미라: 마이가가 '예'라고 한 걸 벌써 알고 계셨어요. 우린 전문도 안 보냈는데요. 이번 봄에 니제르 일을 우리가 말하기도 전에 장관실이 먼저 들은 게 두 번째예요.
 
 141. ELIAS: Write it down. Not on the fake list. On the other page.
     일라이어스: 적어 둬. 가짜 목록 말고. 다른 페이지에.

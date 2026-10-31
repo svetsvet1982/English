@@ -106,26 +106,26 @@
 030. ELIAS: Read it to me in the car.
     일라이어스: 차에서 읽어 줘.
 
-031. MOUSSA: Deputy Secretary. Welcome to the faculty. The air conditioning is broken, so please don't wear your jacket out of politeness.
-    무사: 부장관님. 우리 대학에 오신 걸 환영해요. 에어컨이 고장 났으니 예의상 재킷 입고 계실 필요 없어요.
+031. HADIZA: Deputy Secretary. Welcome to the faculty. The air conditioning is broken, so please don't wear your jacket out of politeness.
+    하디자: 부장관님. 우리 대학에 오신 걸 환영해요. 에어컨이 고장 났으니 예의상 재킷 입고 계실 필요 없어요.
 
 032. ELIAS: Thank you, Dr. Moussa. I came to say thank you to three of your students.
     일라이어스: 고맙습니다, 무사 박사님. 학생 세 명한테 고맙다고 말하러 왔습니다.
 
-033. MOUSSA: They're in the back, pretending not to listen. They did it without asking me. I would have told them not to.
-    무사: 뒤에 있어요. 안 듣는 척하면서요. 저한테 묻지도 않고 한 거예요. 물었으면 하지 말라고 했을 거고요.
+033. HADIZA: They're in the back, pretending not to listen. They did it without asking me. I would have told them not to.
+    하디자: 뒤에 있어요. 안 듣는 척하면서요. 저한테 묻지도 않고 한 거예요. 물었으면 하지 말라고 했을 거고요.
 
 034. ELIAS: Why?
     일라이어스: 왜요?
 
-035. MOUSSA: Because when Nigerien students prove an American is telling the truth, people say the Americans paid them. You've made my students suspects.
-    무사: 니제르 학생들이 미국인이 진실을 말한다고 증명하면, 사람들은 미국인이 돈을 줬다고 하거든요. 부장관님이 우리 학생들을 용의자로 만드신 거예요.
+035. HADIZA: Because when Nigerien students prove an American is telling the truth, people say the Americans paid them. You've made my students suspects.
+    하디자: 니제르 학생들이 미국인이 진실을 말한다고 증명하면, 사람들은 미국인이 돈을 줬다고 하거든요. 부장관님이 우리 학생들을 용의자로 만드신 거예요.
 
 036. AICHA: Which is exactly why I asked you to come, Hadiza. So they stop being suspects and start being the method.
     아이샤: 그래서 제가 오시라고 한 거예요, 하디자. 학생들이 용의자가 아니라 방법이 되도록요.
 
-037. MOUSSA: Aïcha has a very optimistic idea. She wants my department to hold the originals.
-    무사: 아이샤한테 아주 낙관적인 생각이 있어요. 우리 학과가 원본을 보관하길 원해요.
+037. HADIZA: Aïcha has a very optimistic idea. She wants my department to hold the originals.
+    하디자: 아이샤한테 아주 낙관적인 생각이 있어요. 우리 학과가 원본을 보관하길 원해요.
 
 038. ELIAS: Originals of what, exactly?
     일라이어스: 정확히 무엇의 원본이요?
@@ -136,56 +136,56 @@
 040. IBRAHIM: Each one gets a hash the day it arrives. The hash is published. If anyone changes a single pixel later, the number changes, and everyone can see it.
     이브라힘: 들어오는 날 하나하나에 해시값을 매겨요. 해시값은 공개하고요. 나중에 누가 픽셀 하나라도 바꾸면 숫자가 바뀌니까 모두가 볼 수 있어요.
 
-041. MOUSSA: And my department becomes the custodian. The safe, the logs, the signatures. Every time someone touches a file, they sign.
-    무사: 그리고 우리 학과가 보관자가 되는 거죠. 금고, 기록, 서명. 누가 파일에 손댈 때마다 서명하고요.
+041. HADIZA: And my department becomes the custodian. The safe, the logs, the signatures. Every time someone touches a file, they sign.
+    하디자: 그리고 우리 학과가 보관자가 되는 거죠. 금고, 기록, 서명. 누가 파일에 손댈 때마다 서명하고요.
 
 042. ELIAS: A chain of custody anyone can read.
     일라이어스: 누구나 읽을 수 있는 증거 관리 기록이네요.
 
-043. MOUSSA: A chain of custody that makes us a target. Have you thought about that, Deputy Secretary? Or do Americans only think about the part where they leave?
-    무사: 우리를 표적으로 만드는 증거 관리 기록이죠. 그 생각은 해 보셨어요, 부장관님? 아니면 미국인은 떠나는 부분만 생각하나요?
+043. HADIZA: A chain of custody that makes us a target. Have you thought about that, Deputy Secretary? Or do Americans only think about the part where they leave?
+    하디자: 우리를 표적으로 만드는 증거 관리 기록이죠. 그 생각은 해 보셨어요, 부장관님? 아니면 미국인은 떠나는 부분만 생각하나요?
 
 044. ELIAS: I've thought about it. It's the strongest argument against this. It's also why the originals shouldn't sit in an embassy.
     일라이어스: 생각해 봤습니다. 이 계획에 반대하는 가장 강한 논리죠. 그리고 원본이 대사관에 있으면 안 되는 이유이기도 하고요.
 
-045. MOUSSA: My father learned English from an American in Zinder in nineteen seventy-four. A Peace Corps volunteer. A nice boy from Ohio who couldn't eat spicy food.
-    무사: 저희 아버지는 1974년에 진데르에서 미국인한테 영어를 배웠어요. 평화봉사단원이요. 매운 음식을 못 먹는 오하이오 출신의 착한 청년이었대요.
+045. HADIZA: My father learned English from an American in Zinder in nineteen seventy-four. A Peace Corps volunteer. A nice boy from Ohio who couldn't eat spicy food.
+    하디자: 저희 아버지는 1974년에 진데르에서 미국인한테 영어를 배웠어요. 평화봉사단원이요. 매운 음식을 못 먹는 오하이오 출신의 착한 청년이었대요.
 
 046. ELIAS: Ohio. Then I apologize on behalf of my state.
     일라이어스: 오하이오라. 그럼 우리 주를 대표해서 사과드려야겠네요.
 
-047. MOUSSA: Don't. He was a good teacher. My point is different. Even the nice ones went home and wrote reports about us. Help from America always comes with someone who decides.
-    무사: 그러지 마세요. 좋은 선생님이었대요. 제 말은 다른 거예요. 착한 사람들도 집에 가서 우리에 관한 보고서를 썼어요. 미국의 도움에는 늘 결정하는 사람이 따라와요.
+047. HADIZA: Don't. He was a good teacher. My point is different. Even the nice ones went home and wrote reports about us. Help from America always comes with someone who decides.
+    하디자: 그러지 마세요. 좋은 선생님이었대요. 제 말은 다른 거예요. 착한 사람들도 집에 가서 우리에 관한 보고서를 썼어요. 미국의 도움에는 늘 결정하는 사람이 따라와요.
 
 048. ELIAS: May I tell you how that program started?
     일라이어스: 그 프로그램이 어떻게 시작됐는지 말씀드려도 될까요?
 
-049. MOUSSA: You may. I'll tell you if you get it wrong.
-    무사: 그러세요. 틀리면 말씀드릴게요.
+049. HADIZA: You may. I'll tell you if you get it wrong.
+    하디자: 그러세요. 틀리면 말씀드릴게요.
 
 050. ELIAS: October nineteen sixty. Kennedy arrives at the University of Michigan at two in the morning, and asks students how many of them would give two years to work in other countries.
     일라이어스: 1960년 10월. 케네디가 새벽 2시에 미시간 대학교에 도착해서, 학생들한테 다른 나라에서 2년을 일할 사람이 몇 명이나 되느냐고 물었죠.
 
-051. MOUSSA: A campaign speech.
-    무사: 선거 연설이네요.
+051. HADIZA: A campaign speech.
+    하디자: 선거 연설이네요.
 
 052. ELIAS: A campaign speech, yes. The executive order came the next March, and the first volunteers landed in Ghana in August. They came to teach. Most of them said they learned more than they taught.
     일라이어스: 맞아요, 선거 연설이었죠. 이듬해 3월에 행정명령이 나왔고, 8월에 첫 단원들이 가나에 내렸어요. 가르치러 왔죠. 대부분은 가르친 것보다 배운 게 더 많았다고 했고요.
 
-053. MOUSSA: That's a beautiful sentence. Americans love that sentence.
-    무사: 아름다운 문장이네요. 미국인들은 그 문장을 좋아하죠.
+053. HADIZA: That's a beautiful sentence. Americans love that sentence.
+    하디자: 아름다운 문장이네요. 미국인들은 그 문장을 좋아하죠.
 
 054. ELIAS: They do. And in Niger, the volunteers came in sixty-two and left in twenty eleven, when it stopped being safe. Nobody asked them to decide anything.
     일라이어스: 좋아하죠. 그리고 니제르엔 62년에 단원들이 와서 2011년에 떠났어요. 더는 안전하지 않게 됐을 때요. 아무도 그들한테 뭘 결정하라고 하지 않았어요.
 
-055. MOUSSA: So what are you proposing? A Peace Corps for files?
-    무사: 그럼 뭘 제안하시는 건데요? 파일을 위한 평화봉사단이요?
+055. HADIZA: So what are you proposing? A Peace Corps for files?
+    하디자: 그럼 뭘 제안하시는 건데요? 파일을 위한 평화봉사단이요?
 
 056. ELIAS: Something like that, turned around. Nigeriens chair it. Your department holds the originals. Aïcha's desk runs the checks. The Americans and the French come as volunteers.
     일라이어스: 비슷한데, 뒤집은 거죠. 니제르가 의장을 맡아요. 박사님 학과가 원본을 보관하고, 아이샤 팀이 검증을 돌리고요. 미국과 프랑스는 자원봉사자로 오는 거예요.
 
-057. MOUSSA: Volunteers who bring their own laboratories.
-    무사: 자기 연구소를 들고 오는 자원봉사자들이네요.
+057. HADIZA: Volunteers who bring their own laboratories.
+    하디자: 자기 연구소를 들고 오는 자원봉사자들이네요.
 
 058. ELIAS: Volunteers who bring laboratories and don't get a vote. They get copies, they publish what they find under their own names, and they can be outvoted by your students.
     일라이어스: 연구소는 들고 오되 표는 없는 자원봉사자들이요. 사본을 받고, 찾은 걸 자기 이름으로 공개하고, 박사님 학생들한테 표결에서 질 수도 있어요.
@@ -196,20 +196,20 @@
 060. IBRAHIM: I'm writing everything down. It's the first rule.
     이브라힘: 다 적고 있어요. 그게 첫 번째 규칙이잖아요.
 
-061. MOUSSA: In Niamey, when a foreigner says "partner," we count who holds the keys. Who holds the keys in your plan?
-    무사: 니아메에선 외국인이 '파트너'라고 하면 열쇠를 누가 쥐는지 세어 봐요. 부장관님 계획에선 누가 열쇠를 쥐죠?
+061. HADIZA: In Niamey, when a foreigner says "partner," we count who holds the keys. Who holds the keys in your plan?
+    하디자: 니아메에선 외국인이 '파트너'라고 하면 열쇠를 누가 쥐는지 세어 봐요. 부장관님 계획에선 누가 열쇠를 쥐죠?
 
 062. ELIAS: You do. In Washington, "partner" usually means we hold them and let you watch.
     일라이어스: 박사님이요. 워싱턴에서 '파트너'는 보통 우리가 쥐고 당신들은 구경하게 한다는 뜻이죠.
 
-063. MOUSSA: At least you admit it.
-    무사: 적어도 인정은 하시네요.
+063. HADIZA: At least you admit it.
+    하디자: 적어도 인정은 하시네요.
 
 064. SAMIRA: Can I put the rules on the board? I think there are six.
     사미라: 칠판에 규칙을 적어도 될까요? 여섯 개인 것 같아요.
 
-065. MOUSSA: Please. My students will correct your handwriting.
-    무사: 그러세요. 우리 학생들이 글씨를 고쳐 줄 거예요.
+065. HADIZA: Please. My students will correct your handwriting.
+    하디자: 그러세요. 우리 학생들이 글씨를 고쳐 줄 거예요.
 
 066. SAMIRA: One, the originals stay in Niger, with the university. Two, every file is hashed and the hash is published the same day. Three, every touch is logged and signed.
     사미라: 하나, 원본은 니제르, 대학에 둔다. 둘, 모든 파일에 해시값을 매기고 같은 날 공개한다. 셋, 손댈 때마다 기록하고 서명한다.
@@ -220,26 +220,26 @@
 068. ELIAS: Five, foreign labs are volunteers. They publish under their own names and don't vote.
     일라이어스: 다섯, 외국 연구소는 자원봉사자다. 자기 이름으로 공개하고 투표는 안 한다.
 
-069. MOUSSA: And six. Disagreements are published, not settled in a back room. If the French lab and my students disagree, the whole world reads both.
-    무사: 그리고 여섯. 이견은 뒷방에서 정리하지 말고 공개한다. 프랑스 연구소랑 우리 학생들 의견이 다르면, 온 세상이 둘 다 읽는 거예요.
+069. HADIZA: And six. Disagreements are published, not settled in a back room. If the French lab and my students disagree, the whole world reads both.
+    하디자: 그리고 여섯. 이견은 뒷방에서 정리하지 말고 공개한다. 프랑스 연구소랑 우리 학생들 의견이 다르면, 온 세상이 둘 다 읽는 거예요.
 
 070. ELIAS: And the seventh? No government, ours or yours, can remove a file once it's logged.
     일라이어스: 그럼 일곱 번째는요? 일단 기록된 파일은 어느 정부도, 우리든 당신들이든, 뺄 수 없다.
 
-071. MOUSSA: You want me to say that to the colonel?
-    무사: 그걸 저더러 대령한테 말하라고요?
+071. HADIZA: You want me to say that to the colonel?
+    하디자: 그걸 저더러 대령한테 말하라고요?
 
 072. ELIAS: No. I'll say it to the colonel. You'll decide afterward whether you still want the keys.
     일라이어스: 아니요. 대령한텐 제가 말하겠습니다. 박사님은 그 뒤에 열쇠를 여전히 원하시는지 정하시면 돼요.
 
-073. MOUSSA: And if I say no?
-    무사: 제가 싫다고 하면요?
+073. HADIZA: And if I say no?
+    하디자: 제가 싫다고 하면요?
 
 074. ELIAS: Then there's no protocol. I'm not taking the originals to Washington. That would be the old Peace Corps with a hard drive.
     일라이어스: 그럼 프로토콜은 없습니다. 원본을 워싱턴으로 가져가진 않을 거예요. 그건 하드 드라이브를 든 옛날 평화봉사단일 테니까요.
 
-075. MOUSSA: Go see the colonel. If you come back alive and he hasn't taken my keys, we'll talk about a launch date.
-    무사: 대령한테 가 보세요. 살아서 돌아오시고 대령이 제 열쇠를 안 가져갔으면, 출범 날짜 얘기를 하죠.
+075. HADIZA: Go see the colonel. If you come back alive and he hasn't taken my keys, we'll talk about a launch date.
+    하디자: 대령한테 가 보세요. 살아서 돌아오시고 대령이 제 열쇠를 안 가져갔으면, 출범 날짜 얘기를 하죠.
 
 076. MARCHAND: Monsieur Grant. I hear you're redesigning my former colonies with a whiteboard.
     마르샹: 그랜트 씨. 화이트보드로 우리 옛 식민지를 다시 설계하고 계시다면서요.
