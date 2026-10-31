@@ -458,11 +458,11 @@
 148. CAL: Does she know his name?
     칼: 그분은 그 사람 이름을 알아?
 
-149. GRACE: Only his first name. Mateo heard it through the wall. Tomás.
-    그레이스: 이름만요. 마테오가 벽 너머로 들었대요. 토마스.
+149. GRACE: Only his first name. Mateo heard it through the wall. Efraín.
+    그레이스: 이름만요. 마테오가 벽 너머로 들었대요. 에프라인.
 
-150. CAL: Then we start with Tomás. And we write it down.
-    칼: 그럼 토마스부터 시작하자. 그리고 그걸 적는 거야.
+150. CAL: Then we start with Efraín. And we write it down.
+    칼: 그럼 에프라인부터 시작하자. 그리고 그걸 적는 거야.
 
 ---
 
