@@ -176,8 +176,8 @@
 054. GRACE: And then one morning, Mateo got on the bus and never came back.
     그레이스: 그러다 어느 날 아침 마테오가 버스를 타고 다시는 안 돌아왔고요.
 
-055. WILMER: It wasn't the bus. It was before the bus. Here. At this gas station. In April. I'll tell you. But not today. I have to sleep. Mateo calls his mother today. Maybe he calls you too.
-    윌머: 버스가 아니었어요. 버스 타기 전이었어요. 여기서요. 이 주유소에서요. 4월에. 말해 줄게요. 근데 오늘은 안 돼요. 자야 해요. 마테오가 오늘 엄마한테 전화해요. 어쩌면 당신한테도 할지 몰라요.
+055. WILMER: It wasn't the bus. It was before the bus. Here. At this gas station. Last September. I'll tell you. But not today. I have to sleep. Mateo calls his mother today. Maybe he calls you too.
+    윌머: 버스가 아니었어요. 버스 타기 전이었어요. 여기서요. 이 주유소에서요. 작년 9월에. 말해 줄게요. 근데 오늘은 안 돼요. 자야 해요. 마테오가 오늘 엄마한테 전화해요. 어쩌면 당신한테도 할지 몰라요.
 
 056. CAL: Grace. Your phone. A number from Texas.
     칼: 그레이스. 네 폰. 텍사스 번호야.
@@ -248,8 +248,8 @@
 078. RECORDING: You have thirty seconds remaining.
     안내 음성: 남은 시간 30초입니다.
 
-079. MATEO: Grace. The other thing. In April, at the gas station. Ask Wilmer about the phone. The man with the phone.
-    마테오: 그레이스. 다른 거. 4월에 주유소에서요. 윌머한테 휴대폰 얘기 물어봐요. 휴대폰 든 남자요.
+079. MATEO: Grace. The other thing. Last September, at the gas station. Ask Wilmer about the phone. The man with the phone.
+    마테오: 그레이스. 다른 거. 작년 9월에 주유소에서요. 윌머한테 휴대폰 얘기 물어봐요. 휴대폰 든 남자요.
 
 080. GRACE: The man with the—Mateo? Mateo?
     그레이스: 휴대폰 든—마테오? 마테오?
@@ -305,8 +305,8 @@
 097. WILMER: I couldn't sleep. Did Mateo call?
     윌머: 잠이 안 와서요. 마테오 전화했어요?
 
-098. GRACE: He called. He told me about Efraín. And he said to ask you about the man with the phone. At the gas station. In April.
-    그레이스: 했어요. 에프라인 얘기를 해 줬어요. 그리고 4월에 주유소에서 휴대폰 든 남자에 대해 당신한테 물어보래요.
+098. GRACE: He called. He told me about Efraín. And he said to ask you about the man with the phone. At the gas station. Last September.
+    그레이스: 했어요. 에프라인 얘기를 해 줬어요. 그리고 작년 9월에 주유소에서 휴대폰 든 남자에 대해 당신한테 물어보래요.
 
 099. WILMER: Okay. I'll tell you. It was three in the morning. Like today. We were waiting for the bus. Two cars came. Not police cars. Normal cars. Dark.
     윌머: 알았어요. 말해 줄게요. 새벽 3시였어요. 오늘처럼요. 버스를 기다리고 있었어요. 차 두 대가 왔어요. 경찰차 말고. 보통 차. 어두운 색.

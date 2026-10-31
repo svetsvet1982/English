@@ -326,8 +326,8 @@
 104. DONA CATA: Now show them the other paper. Mateo's paper.
     도냐 카타: 이제 다른 종이도 보여 드려. 마테오 종이.
 
-105. LUCIA: This is what Mateo signed. Two years ago. In the Licenciado's office.
-    루시아: 이게 마테오가 서명한 거예요. 2년 전에. 리센시아도 사무실에서요.
+105. LUCIA: This is what Mateo signed. Three years ago. In the Licenciado's office.
+    루시아: 이게 마테오가 서명한 거예요. 3년 전에. 리센시아도 사무실에서요.
 
 106. ROSA: "Promissory note. I, Mateo Calix Alvarado, promise to pay nine thousand U.S. dollars, plus interest of three percent per month, for employment services."
     로사: "약속어음. 나 마테오 칼릭스 알바라도는 취업 서비스 대가로 미화 9,000달러와 월 3퍼센트의 이자를 지급할 것을 약속한다."
