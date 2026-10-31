@@ -148,8 +148,8 @@
 044. KYLE: Then why did they let us go?
     카일: 그럼 왜 우릴 풀어 줬어요?
 
-045. ELIAS: Because a plane full of doctors landed in their country, and they wanted very badly for it to keep landing. You and your sister were simply the seats on the return flight.
-    일라이어스: 의사들을 가득 태운 비행기가 그 나라에 내렸고, 그 사람들은 그 비행기가 계속 오기를 간절히 바랐으니까요. 카일 씨와 누나는 그저 돌아오는 편의 좌석이었던 거예요.
+045. ELIAS: Because Pyongyang said you'd go home when Americans stopped speaking through machines. Last Monday our President spoke in his own voice, live, and a plane full of doctors landed. You were the return flight.
+    일라이어스: 평양이 미국인들이 기계를 통해 말하는 걸 그만두면 손님들은 집에 갈 수 있다고 했거든요. 지난 월요일에 우리 대통령이 생방송으로 자기 목소리로 말했고, 의사들을 태운 비행기가 내렸어요. 카일 씨 남매는 그 돌아오는 편이었던 거예요.
 
 046. KYLE: They kept asking my sister to sign an apology. She wouldn't.
     카일: 누나한테 사과 편지에 서명하라고 계속 그랬어요. 누나는 안 했어요.
@@ -400,11 +400,11 @@
 128. ELIAS: Carver.
     일라이어스: 카버.
 
-129. SAMIRA: Probably. He's never been in a room with you, and he knows your voice better than your father does.
-    사미라: 아마도요. 부장관님하고 한 방에 있어 본 적도 없는데, 부장관님 목소리는 아버님보다 더 잘 알아요.
+129. SAMIRA: Probably. And the men in Tokyo called their client "the consultant." Ridgeline consults.
+    사미라: 아마도요. 그리고 도쿄의 납치범들은 의뢰인을 '컨설턴트'라고 불렀죠. 리지라인은 컨설팅 회사고요.
 
-130. ELIAS: Nobody knows my voice better than my father. Who has Ridgeline worked for?
-    일라이어스: 내 목소리를 아버지보다 잘 아는 사람은 없어. 리지라인은 누구 일을 해 왔어?
+130. ELIAS: Who has Ridgeline worked for?
+    일라이어스: 리지라인은 누구 일을 해 왔어?
 
 131. SAMIRA: Their client list isn't public. Committees report what they pay consultants, but there are hundreds of filings, and half of them pay through other committees. It'll take weeks.
     사미라: 고객 명단은 공개가 안 돼요. 정치 단체들이 컨설턴트에 낸 돈은 신고하지만, 신고서가 수백 건이고 그중 절반은 다른 단체를 거쳐서 내요. 몇 주는 걸릴 거예요.

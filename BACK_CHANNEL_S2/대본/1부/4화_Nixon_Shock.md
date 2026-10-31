@@ -19,8 +19,8 @@
 001. SAMIRA: Haneda at seven-forty, Moriyama at ten. Two hours to become someone Tokyo trusts.
     사미라: 하네다 7시 40분, 모리야마 차관 10시. 두 시간 안에 도쿄가 믿는 사람이 되셔야 해요.
 
-002. ELIAS: I had three days in Seoul and became someone Seoul tolerates. Lower the bar.
-    일라이어스: 서울에서 사흘 있었는데 겨우 서울이 참아 주는 사람이 됐어. 기준 좀 낮춰.
+002. ELIAS: Seoul got its written assurance before takeoff, and now merely tolerates me. Lower the bar.
+    일라이어스: 서울은 이륙 전에 서면 보장을 받았고, 이제 나를 겨우 참아 주는 정도야. 기준 좀 낮춰.
 
 003. GRACE: In Tokyo they won't tell you where the bar is. You find out when you hit it.
     그레이스: 도쿄에선 기준이 어디 있는지 안 알려 줘요. 부딪혀 봐야 알죠.
@@ -130,11 +130,11 @@
 038. MORIYAMA: Welcome to Kasumigaseki, Deputy Secretary. I hope the flight from Seoul wasn't too short.
     모리야마: 그랜트 부장관님, 가스미가세키에 오신 걸 환영합니다. 서울에서 오는 비행이 너무 짧지는 않으셨기를 바랍니다.
 
-039. ELIAS: Short enough that I'm still thinking in Korean. Thank you for seeing me, Vice Minister.
-    일라이어스: 아직 머릿속이 한국어일 만큼 짧았습니다. 이틀 전에 연락드렸는데 만나 주셔서 감사합니다, 차관님.
+039. ELIAS: Short enough that I'm still thinking in Korean. Thank you for the invitation, Vice Minister.
+    일라이어스: 아직 머릿속이 한국어일 만큼 짧았습니다. 초대해 주셔서 감사합니다, 차관님.
 
-040. MORIYAMA: Two days' notice is generous lately. Your voice arrived on September tenth with none.
-    모리야마: 요즘 같으면 이틀 전 연락도 후한 편이지요. 9월 10일에 부장관님 목소리는 아무 예고 없이 왔으니까요.
+040. MORIYAMA: I invited you three days ago. Your voice arrived on September tenth uninvited.
+    모리야마: 사흘 전에 제가 초대했지요. 부장관님 목소리는 9월 10일에 초대도 없이 왔고요.
 
 041. ELIAS: Then let me start there. That recording is synthetic audio. I never said those words, in any room, to anyone.
     일라이어스: 그럼 거기서부터 시작하겠습니다. 그 녹음은 합성 음성입니다. 저는 그 말을 어느 방에서도, 누구에게도 한 적이 없습니다.
@@ -286,8 +286,8 @@
 090. ELIAS: Every time two of us talk alone, the third assumes the worst. Whoever built my voice is counting on that.
     일라이어스: 우리 중 둘이 따로 얘기할 때마다 나머지 하나는 최악을 상상하죠. 제 목소리를 만든 자는 바로 그걸 노리고 있습니다.
 
-091. GRACE: There's a third part, Vice Minister. After every contact, American, Japanese or Korean, a verbatim readout goes to the other two capitals within twenty-four hours. Not a summary. The words themselves.
-    그레이스: 세 번째 항목이 있어요, 차관님. 접촉이 있을 때마다, 미국이든 일본이든 한국이든, 24시간 안에 축어 기록을 나머지 두 수도에 보내요. 요약이 아니라 한 말 그대로요.
+091. GRACE: There's a third part, Vice Minister. What we offered Seoul on Monday, extended to everyone: after any contact, American, Japanese or Korean, a verbatim readout to the other two capitals within a day.
+    그레이스: 세 번째 항목이 있어요, 차관님. 월요일에 서울에 제안한 걸 모두로 넓힌 거예요. 미국이든 일본이든 한국이든, 접촉이 있으면 하루 안에 나머지 두 수도에 축어 기록을 보내요.
 
 092. MORIYAMA: Verbatim. This month, Ms. Yoon, words are the least reliable thing in the world.
     모리야마: 축어 기록이라. 윤 선생, 이번 달엔 말이야말로 세상에서 제일 못 믿을 물건입니다.

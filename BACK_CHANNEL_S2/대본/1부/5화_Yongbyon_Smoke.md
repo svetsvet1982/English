@@ -250,14 +250,14 @@
 078. ELIAS: Eventually. IAEA access is the only kind of access Pyongyang can't call an American trick.
     일라이어스: 결국엔요. 국제원자력기구의 접근은 평양이 미국의 술수라고 부를 수 없는 유일한 접근입니다.
 
-079. HAN: Let me be equally clear. If Mr. Ri's existence leaks from Washington, Seoul will suspend intelligence sharing on the North. Not as a threat. As arithmetic.
-    한서연: 저도 똑같이 분명히 하죠. 리 선생의 존재가 워싱턴에서 새어 나가면 서울은 북한 관련 정보 공유를 중단합니다. 협박이 아니라 산수입니다.
+079. HAN: Let me be equally clear. If Mr. Ri's existence leaks from Washington, the decision on my desk gets signed, and the missile-warning data stops. Not as a threat. As arithmetic.
+    한서연: 저도 똑같이 분명히 하죠. 리 선생의 존재가 워싱턴에서 새어 나가면 제 책상 위 결정안에 서명이 들어가고, 미사일 경보 정보는 끊깁니다. 협박이 아니라 산수입니다.
 
-080. ELIAS: You said the same arithmetic in Seoul last week.
-    일라이어스: 지난주 서울에서도 같은 산수를 하셨죠.
+080. ELIAS: That decision has been sitting on your desk since Seoul.
+    일라이어스: 그 결정안, 서울 이후로 계속 책상 위에 있었죠.
 
-081. HAN: And the answer hasn't changed.
-    한서연: 그리고 답은 그대로입니다.
+081. HAN: Postponed, not withdrawn. I believe I explained the difference.
+    한서연: 철회가 아니라 연기죠. 차이는 설명드린 걸로 압니다.
 
 082. ELIAS: Then here's my arithmetic. Within days, a sniffer flight out of Kadena will tell the world what your guest knows. Seoul can be the government that knew first and acted, or knew first and waited.
     일라이어스: 그럼 제 산수도 드리죠. 며칠 안에 가데나에서 뜬 탐지 비행기가 실장님 손님이 아는 걸 세상에 알려 줄 겁니다. 서울은 먼저 알고 움직인 정부가 될 수도, 먼저 알고 기다린 정부가 될 수도 있습니다.

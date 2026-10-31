@@ -16,20 +16,20 @@
 
 ## 대본
 
-001. SAMIRA: Stockholm has patched us through to Pyongyang. Ambassador Lindqvist is on the line from the Swedish embassy.
-    사미라: 스톡홀름이 평양으로 연결해 줬어요. 스웨덴 대사관의 린드크비스트 대사님이 나와 계세요.
+001. SAMIRA: Stockholm patched us through. Ambassador Lindqvist is on the line from Pyongyang.
+    사미라: 스톡홀름이 연결해 줬어요. 린드크비스트 대사님이 평양에서 나와 계세요.
 
 002. ELIAS: Ambassador, thank you. I know it's evening there and you've had a long weekend.
     일라이어스: 대사님, 감사합니다. 그쪽은 저녁이고 긴 주말을 보내셨을 텐데요.
 
-003. LINDQVIST: Sweden has been your protecting power here for a very long time, Deputy Secretary. We are used to long weekends.
-    린드크비스트: 스웨덴이 이곳에서 미국의 이익 대표국을 맡은 지 아주 오래됐어요, 부장관님. 긴 주말엔 익숙하죠.
+003. LINDQVIST: Sweden has been your protecting power here for decades, Deputy Secretary. We're used to long weekends.
+    린드크비스트: 스웨덴이 이곳에서 수십 년째 미국의 이익 대표국이에요, 부장관님. 긴 주말엔 익숙하죠.
 
 004. ELIAS: Have you seen them?
     일라이어스: 두 사람을 보셨습니까?
 
-005. LINDQVIST: No. I asked for consular access three times. The Foreign Ministry gave me a photograph instead.
-    린드크비스트: 아니요. 영사 접견을 세 번 요청했어요. 외무성은 대신 사진 한 장을 줬고요.
+005. LINDQVIST: No. I asked for consular access three times. They gave me a photograph instead.
+    린드크비스트: 아니요. 영사 접견을 세 번 요청했어요. 대신 사진 한 장을 주더군요.
 
 006. ELIAS: What does it show?
     일라이어스: 사진에 뭐가 있습니까?
@@ -37,17 +37,17 @@
 007. LINDQVIST: Kyle and Megan Dawson, on a sofa, holding Saturday's Rodong Sinmun. He looks angry. She looks tired. Proof of life, in their style.
     린드크비스트: 카일 도슨과 메건 도슨이 소파에 앉아 토요일 자 노동신문을 들고 있어요. 남자는 화나 보이고, 여자는 지쳐 보여요. 저쪽 방식의 생존 증거죠.
 
-008. SAMIRA: Detained Friday the twenty-eighth. A Chinese tour boat on the Yalu out of Dandong. It put in at a sandbar on the North Korean side for photos.
-    사미라: 28일 금요일에 억류됐어요. 단둥에서 출발한 압록강 중국 관광선이었고요. 사진 찍으라고 북한 쪽 모래톱에 배를 댔대요.
+008. SAMIRA: Detained Friday the twenty-eighth, from a Chinese tour boat on the Yalu. It stopped at a North Korean sandbar for photos.
+    사미라: 28일 금요일에 단둥에서 출발한 압록강 중국 관광선에서 억류됐어요. 사진 찍으라고 북한 쪽 모래톱에 배를 댔대요.
 
-009. LINDQVIST: The boat has been doing that for years. This time, soldiers were waiting on the sand. The Chinese passengers went back. The two Americans did not.
-    린드크비스트: 그 배는 몇 년째 그렇게 해 왔어요. 이번엔 모래톱에 군인들이 기다리고 있었죠. 중국인 승객들은 돌아갔고, 미국인 둘은 못 돌아갔어요.
+009. LINDQVIST: The boat has done that for years. This time, soldiers were waiting. The Chinese passengers went back. The Americans did not.
+    린드크비스트: 그 배는 몇 년째 그렇게 해 왔어요. 이번엔 군인들이 기다리고 있었죠. 중국인 승객들은 돌아갔고, 미국인 둘은 못 돌아갔어요.
 
 010. ELIAS: So they were chosen.
     일라이어스: 그러니까 골라서 잡은 거군요.
 
-011. LINDQVIST: That is my reading. And this afternoon the Ministry handed me their price. A letter, to be signed by an official of the United States government.
-    린드크비스트: 제 판단도 그래요. 그리고 오늘 오후 외무성이 값을 내밀었어요. 미국 정부 관리가 서명할 서한이요.
+011. LINDQVIST: That is my reading. This afternoon the Ministry gave me their price: a letter signed by a U.S. government official.
+    린드크비스트: 제 판단도 그래요. 오늘 오후 외무성이 값을 내밀었어요. 미국 정부 관리가 서명할 서한이요.
 
 012. ELIAS: An apology letter.
     일라이어스: 사과 서한이군요.
@@ -88,8 +88,8 @@
 024. GRACE: Notice the third paragraph uses "유감." Only there. They want the apology for the spies and only regret for Yongbyon.
     그레이스: 세 번째 문단에선 '유감'을 썼어요. 거기서만요. 간첩 건은 사죄, 영변 건은 유감으로 받겠다는 거예요.
 
-025. ELIAS: Because a regret about Yongbyon is all they need. One sentence, and the accident officially never happened.
-    일라이어스: 영변 건은 유감 한마디면 충분하니까요. 한 문장이면 그 사고는 공식적으로 없었던 일이 되죠.
+025. ELIAS: Because regret is all they need. One sentence, and the accident officially never happened.
+    일라이어스: 유감 한마디면 충분하니까요. 한 문장이면 그 사고는 공식적으로 없었던 일이 되죠.
 
 026. LINDQVIST: There is one more thing, and I'm sorry to be the one to say it. Megan Dawson has asthma. Her inhaler was on the boat.
     린드크비스트: 하나 더 있어요. 이런 말을 전하게 돼서 유감이에요. 메건 도슨은 천식이 있어요. 흡입기는 배에 두고 내렸고요.
@@ -97,8 +97,8 @@
 027. ELIAS: Did they say that, or did you find out?
     일라이어스: 저쪽이 그렇게 말했습니까, 대사님이 알아내신 겁니까?
 
-028. LINDQVIST: They said it. The official told me, very politely, "Her medicine is American. We do not have it."
-    린드크비스트: 저쪽이 말했어요. 담당자가 아주 공손하게 그러더군요. "그 여자 약은 미제요. 우리한텐 없소."
+028. LINDQVIST: They said it, very politely: "Her medicine is American. We do not have it."
+    린드크비스트: 저쪽이 말했어요. 아주 공손하게요. "그 여자 약은 미제요. 우리한텐 없소."
 
 029. SAMIRA: That's not information. That's a threat with good manners.
     사미라: 그건 정보가 아니에요. 예의 바른 협박이죠.
@@ -142,8 +142,8 @@
 042. GRACE: The Korean has the same fingerprint. It says "먼저 대화하면." A North Korean drafter would write "먼저 대화에 나오면."
     그레이스: 한국어에도 같은 지문이 있어요. "먼저 대화하면"이라고 돼 있거든요. 북한 작성자라면 "먼저 대화에 나오면"이라고 썼을 거예요.
 
-043. ELIAS: So it looks like Pyongyang wrote the letter, and someone else wrote one paragraph of it.
-    일라이어스: 그러니까 서한은 평양이 쓴 것 같은데, 한 문단은 다른 누가 쓴 거네요.
+043. ELIAS: So Pyongyang wrote the letter, and someone else wrote one paragraph of it.
+    일라이어스: 그러니까 서한은 평양이 썼는데, 한 문단은 다른 누가 쓴 거네요.
 
 044. SAMIRA: Or someone in Pyongyang is working with the people who built your voice. Put that on the F-list as a note, not a number.
     사미라: 아니면 평양의 누군가가 부장관님 목소리를 만든 사람들이랑 손잡고 있거나요. F-목록에 번호 말고 메모로 적어 둘게요.
@@ -169,14 +169,14 @@
 051. CALLAWAY: Gordon's right, Grant. Nobody remembers the apology. They remember the men walking across the Bridge of No Return.
     캘러웨이: 고든 말이 맞아, 그랜트. 아무도 그 사과는 기억 못 해. 다들 '돌아오지 않는 다리'를 건너는 사람들을 기억하지.
 
-052. ELIAS: With respect, sir, plenty of people remember. Pyongyang remembers. The ship is still sitting on a river in Pyongyang as a museum, with the confession displayed beside it.
-    일라이어스: 외람된 말씀이지만, 장관님, 기억하는 사람은 많습니다. 평양이 기억하죠. 그 배는 아직도 평양 강가에 박물관으로 떠 있고, 그 옆에 자백서가 전시돼 있습니다.
+052. ELIAS: With respect, sir, plenty of people remember. Pyongyang does. The ship is still there, a museum exhibit, and they bring schoolchildren to see it.
+    일라이어스: 외람된 말씀이지만, 장관님, 기억하는 사람은 많습니다. 평양이 기억하죠. 그 배는 아직 거기 박물관 전시물로 있고, 아이들을 데려가 보여 줍니다.
 
 053. HALE: A museum doesn't kill anybody.
     헤일: 박물관은 아무도 안 죽여요.
 
-054. ELIAS: Let me be very clear about why the Pueblo formula worked. General Woodward stood at Panmunjom and said, before signing, that he signed to free the crew and only to free the crew. The paper was about a ship. Everyone knew what the ship had been doing.
-    일라이어스: 푸에블로 방식이 왜 통했는지 분명히 말씀드리죠. 우드워드 장군은 판문점에서 서명하기 전에, 승무원을 풀어 주기 위해서만 서명한다고 말했습니다. 그 문서는 배 한 척에 관한 거였죠. 그 배가 뭘 했는지는 다들 알았고요.
+054. ELIAS: Let me be very clear why the Pueblo formula worked. General Woodward said at Panmunjom, before signing, that he signed to free the crew and only to free the crew. The paper was about a ship.
+    일라이어스: 푸에블로 방식이 왜 통했는지 분명히 말씀드리죠. 우드워드 장군은 판문점에서 서명하기 전에, 승무원을 풀어 주기 위해서만 서명한다고 말했습니다. 그 문서는 배 한 척에 관한 거였고요.
 
 055. CALLAWAY: And this paper?
     캘러웨이: 그럼 이 문서는?
@@ -184,8 +184,8 @@
 056. ELIAS: This paper is about my voice. Paragraph two turns a deepfake into an authenticated statement of U.S. policy, with my signature under it. You can't pre-repudiate that.
     일라이어스: 이 문서는 제 목소리에 관한 겁니다. 두 번째 문단은 딥페이크를 제 서명이 달린, 진위가 확인된 미국 정책 발언으로 바꿔 놓습니다. 그건 미리 부인할 수가 없어요.
 
-057. HALE: Why not? You say, "I'm signing under duress, the second paragraph is false." Same as Woodward.
-    헤일: 왜요? "강압 속에 서명한다, 두 번째 문단은 거짓이다"라고 하면 되잖아요. 우드워드처럼.
+057. HALE: Why not? Say you're signing under duress and paragraph two is false. Like Woodward.
+    헤일: 왜요? 강압 속에 서명하는 거고 두 번째 문단은 거짓이라고 하면 되잖아요. 우드워드처럼.
 
 058. ELIAS: Because Pyongyang will broadcast the signature and not the denial. In Seoul and Tokyo, they'll hear one thing: the Deputy Secretary finally admitted it. Every capital that believed me last week will stop.
     일라이어스: 평양은 서명만 방송하고 부인은 안 할 테니까요. 서울과 도쿄에선 한 가지만 들릴 겁니다. 부장관이 마침내 인정했다. 지난주에 저를 믿어 준 수도들이 전부 등을 돌리겠죠.
@@ -205,8 +205,8 @@
 063. ELIAS: No, sir. But we will, once the sniffer flight comes back with a number. If we've signed a regret for "slanderous reports," every doctor we try to send in later gets turned back at the border with our own letter.
     일라이어스: 그렇습니다, 장관님. 하지만 탐지 비행이 수치를 들고 돌아오면 말하게 될 겁니다. 그때 '모략 보도'에 유감을 표한 서명이 있으면, 나중에 보내는 의사들은 국경에서 우리 서한 때문에 돌려보내질 겁니다.
 
-064. HALE: And if the Dawsons get fifteen years of hard labor while we're protecting our future doctors?
-    헤일: 우리가 미래의 의사들을 지키는 동안 도슨 남매가 15년 노동교화형을 받으면요?
+064. HALE: And if the Dawsons get fifteen years of hard labor in the meantime?
+    헤일: 그사이 도슨 남매가 15년 노동교화형을 받으면요?
 
 065. ELIAS: Then I'll have been wrong, and it'll be on me. But a false apology doesn't end a hostage crisis. It prices the next one. Pyongyang will learn that a letter is worth two tourists.
     일라이어스: 그럼 제가 틀린 거고, 제 책임이 되겠죠. 하지만 거짓 사과는 인질 위기를 끝내지 않습니다. 다음 인질의 값을 매길 뿐이죠. 평양은 서한 한 장이 관광객 둘 값이라는 걸 배울 겁니다.
@@ -244,8 +244,8 @@
 076. ELIAS: I know. I asked her to.
     일라이어스: 압니다. 제가 오시라고 했습니다.
 
-077. CALLAWAY: Then you'll be the one to tell her no. Don't lie to her. It always comes out.
-    캘러웨이: 그럼 '안 된다'는 말은 네가 해. 거짓말은 하지 마. 그건 늘 들통나.
+077. CALLAWAY: Then you tell her no. Don't lie to her. It always comes out.
+    캘러웨이: 그럼 '안 된다'는 말은 네가 해. 거짓말은 하지 마. 늘 들통나.
 
 078. ELIAS: I'll lie to a minister, sir. I won't lie to a mother.
     일라이어스: 장관님, 저는 장관한테는 거짓말해도 어머니한테는 안 합니다.
@@ -256,7 +256,7 @@
 080. HALE: One more thing. If you send that letter, it goes through Sweden, not through New York. I don't want the mission in New York touching it.
     헤일: 하나 더. 그 서한을 보내면 뉴욕 말고 스웨덴을 통해서 보내요. 뉴욕 대표부는 손도 못 대게 하고 싶어요.
 
-081. SAMIRA: New York hasn't returned a call since the tenth, sir. They pick up and say nothing.
+081. SAMIRA: New York hasn't returned a call since the tenth. They pick up and say nothing.
     사미라: 뉴욕은 10일 이후로 전화 한 통 안 돌려줘요, 보좌관님. 받긴 받는데 아무 말도 안 해요.
 
 082. HALE: Then Sweden. Clean channel, clean record. Verbatim, both directions.
@@ -283,8 +283,8 @@
 089. ELIAS: Then let's teach them a different one.
     일라이어스: 그럼 다른 교훈을 가르쳐 줍시다.
 
-090. SAMIRA: The mother's flight from Indianapolis landed at eleven. She's been sitting in the lobby since noon.
-    사미라: 어머님 비행기가 인디애나폴리스에서 11시에 도착했어요. 정오부터 로비에 앉아 계세요.
+090. SAMIRA: Her flight from Indianapolis landed at eleven. She's been in the lobby since noon.
+    사미라: 어머님 비행기가 인디애나폴리스에서 11시에 도착했어요. 정오부터 로비에 계세요.
 
 091. CAROL: Mr. Grant. I'm Carol Dawson. I don't know what to call you. Deputy Secretary sounds like a made-up job.
     캐럴: 그랜트 씨. 캐럴 도슨이에요. 뭐라고 불러야 할지 모르겠네요. 부장관이라니, 지어낸 직업 같아서요.
