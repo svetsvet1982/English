@@ -4,8 +4,8 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 4부 2화 · 서사 기능: 제보
-> - 배경: 텍사스 맥앨런, 참전 군인 회관(화요일 오전 10시) → 루벤의 집 부엌, 아내 마리솔(정오) → 회관 주차장, 프리야와의 통화(오후 3시) → 루벤의 차고(오후 5시). 2027년 10월 19일.
-> - 등장인물: Rubén Ortega, Marisol Ortega, Cal, Grace, Priya(전화), Rosa(전화)
+> - 배경: 텍사스 맥앨런, 참전 군인 회관(화요일 오전 10시) → 루벤의 집 부엌, 아내 팔로마(정오) → 회관 주차장, 프리야와의 통화(오후 3시) → 루벤의 차고(오후 5시). 2027년 10월 19일.
+> - 등장인물: Rubén Ortega, Paloma Ortega, Cal, Grace, Priya(전화), Rosa(전화)
 > - 난이도: B1–B2 · 턴 수: 150
 > - 이번 화의 핵심 표현: "facial recognition", "a false match", "U.S. citizen", "wrongful detention", "a lead, not an identification", "error rate", "on the record", "resolved"
 > - 복선/연결: 석방 서류의 사유 "Biometric match — resolved" · 친절했던 경비원 '얼'(→4부 10화) · 에프라인이 루벤에게 맡긴 딸의 그림과 키체의 주소(→4부 6화)
@@ -110,38 +110,38 @@
 032. RUBEN: On the ninth day. Someone checked on the ninth day.
     루벤: 아흐레째에요. 아흐레째에 누가 확인했어요.
 
-033. MARISOL: Coffee. Sit. Rubén, did you tell them about the handcuffs?
-    마리솔: 커피예요. 앉아요. 루벤, 수갑 얘기 했어?
+033. PALOMA: Coffee. Sit. Rubén, did you tell them about the handcuffs?
+    팔로마: 커피예요. 앉아요. 루벤, 수갑 얘기 했어?
 
-034. RUBEN: Not yet, Mari.
-    루벤: 아직, 마리.
+034. RUBEN: Not yet, Palo.
+    루벤: 아직, 팔로.
 
-035. MARISOL: They put him in handcuffs in front of the gas station. In front of the woman who sells him lottery tickets every Friday. She's known him since he was a little boy.
-    마리솔: 주유소 앞에서 수갑을 채웠어요. 금요일마다 복권 파는 아주머니 앞에서요. 그 아주머니는 이 사람을 어릴 때부터 알았어요.
+035. PALOMA: They put him in handcuffs in front of the gas station. In front of the woman who sells him lottery tickets every Friday. She's known him since he was a little boy.
+    팔로마: 주유소 앞에서 수갑을 채웠어요. 금요일마다 복권 파는 아주머니 앞에서요. 그 아주머니는 이 사람을 어릴 때부터 알았어요.
 
 036. GRACE: Did she say anything?
     그레이스: 그분이 뭐라고 하셨어요?
 
-037. MARISOL: She came out and yelled, "That's Rubén! I sold him candy when he was six!" The agent told her to go back inside.
-    마리솔: 나와서 소리쳤대요. "루벤이에요! 여섯 살 때부터 사탕 팔았다고요!" 요원이 안으로 들어가라고 했대요.
+037. PALOMA: She came out and yelled, "That's Rubén! I sold him candy when he was six!" The agent told her to go back inside.
+    팔로마: 나와서 소리쳤대요. "루벤이에요! 여섯 살 때부터 사탕 팔았다고요!" 요원이 안으로 들어가라고 했대요.
 
-038. CAL: Marisol, when did you find out?
-    칼: 마리솔, 언제 아셨어요?
+038. CAL: Paloma, when did you find out?
+    칼: 팔로마, 언제 아셨어요?
 
-039. MARISOL: He didn't come to work. His boss called me at ten. "Is Rubén sick?" I called his phone. No answer. By night, I was calling hospitals.
-    마리솔: 출근을 안 했어요. 10시에 사장님이 전화했어요. "루벤 아파요?" 휴대폰으로 전화했어요. 안 받았어요. 밤에는 병원마다 전화하고 있었어요.
+039. PALOMA: He didn't come to work. His boss called me at ten. "Is Rubén sick?" I called his phone. No answer. By night, I was calling hospitals.
+    팔로마: 출근을 안 했어요. 10시에 사장님이 전화했어요. "루벤 아파요?" 휴대폰으로 전화했어요. 안 받았어요. 밤에는 병원마다 전화하고 있었어요.
 
 040. RUBEN: They took my phone. They don't let you call on the first day. "Processing."
     루벤: 휴대폰을 가져갔어요. 첫날엔 전화도 못 하게 해요. "처리 중"이래요.
 
-041. MARISOL: The next morning, a friend from church said her cousin saw his truck at the gas station with the window open. That's how I knew. Not from the government. From a cousin.
-    마리솔: 다음 날 아침 교회 친구가 사촌이 주유소에서 창문 열린 채 서 있는 그 사람 트럭을 봤대요. 그래서 알았어요. 정부한테서가 아니라. 사촌한테서요.
+041. PALOMA: The next morning, a friend from church said her cousin saw his truck at the gas station with the window open. That's how I knew. Not from the government. From a cousin.
+    팔로마: 다음 날 아침 교회 친구가 사촌이 주유소에서 창문 열린 채 서 있는 그 사람 트럭을 봤대요. 그래서 알았어요. 정부한테서가 아니라. 사촌한테서요.
 
 042. GRACE: And you drove to Rio Verde.
     그레이스: 그래서 리오 베르데까지 운전해 가셨고요.
 
-043. MARISOL: Two hours. With the birth certificate. With his DD-214. With the photo of him in uniform from our wedding.
-    마리솔: 두 시간이요. 출생증명서 들고. 전역 증명서 들고. 결혼식 때 군복 입은 사진 들고요.
+043. PALOMA: Two hours. With the birth certificate. With his DD-214. With the photo of him in uniform from our wedding.
+    팔로마: 두 시간이요. 출생증명서 들고. 전역 증명서 들고. 결혼식 때 군복 입은 사진 들고요.
 
 044. GRACE: Wait, can I ask something? What's a DD-214?
     그레이스: 잠깐, 뭐 하나 여쭤봐도 돼요? DD-214가 뭐예요?
@@ -149,14 +149,14 @@
 045. RUBEN: Discharge papers. Proof you served and left the military honorably. It's the most important paper a veteran owns. After the birth certificate.
     루벤: 전역 서류요. 복무했고 명예롭게 전역했다는 증명이요. 참전 군인이 가진 서류 중에 제일 중요해요. 출생증명서 다음으로요.
 
-046. MARISOL: The woman at the window said, "We'll add it to his file." She didn't open it. She put it in a tray.
-    마리솔: 창구 여자가 "파일에 추가할게요"라고 했어요. 열어 보지도 않았어요. 서류함에 넣었어요.
+046. PALOMA: The woman at the window said, "We'll add it to his file." She didn't open it. She put it in a tray.
+    팔로마: 창구 여자가 "파일에 추가할게요"라고 했어요. 열어 보지도 않았어요. 서류함에 넣었어요.
 
 047. CAL: Did anyone explain what would happen next?
     칼: 다음에 어떻게 되는지 누가 설명해 줬어요?
 
-048. MARISOL: "Your husband will see an immigration judge." I said, "My husband is an American. Why does he need an immigration judge?" She said, "Ma'am, I just do intake."
-    마리솔: "남편분은 이민 판사를 만나게 될 겁니다." 내가 "우리 남편은 미국인이에요. 왜 이민 판사가 필요해요?"라고 했더니 "부인, 전 입소 업무만 해요"래요.
+048. PALOMA: "Your husband will see an immigration judge." I said, "My husband is an American. Why does he need an immigration judge?" She said, "Ma'am, I just do intake."
+    팔로마: "남편분은 이민 판사를 만나게 될 겁니다." 내가 "우리 남편은 미국인이에요. 왜 이민 판사가 필요해요?"라고 했더니 "부인, 전 입소 업무만 해요"래요.
 
 049. GRACE: "I just do intake."
     그레이스: "전 입소 업무만 해요."
@@ -167,8 +167,8 @@
 051. CAL: That's the most important sentence anyone's said to me this month.
     칼: 이번 달에 누가 나한테 한 말 중에 제일 중요한 문장이에요.
 
-052. MARISOL: I wrote to everyone. Our congresswoman's office. The VA. The newspaper in Brownsville. The congresswoman's office called back on day eight.
-    마리솔: 다들한테 편지를 썼어요. 지역구 하원 의원 사무실. 보훈처. 브라운스빌 신문. 하원 의원 사무실에서 여드레째 되는 날 다시 전화가 왔어요.
+052. PALOMA: I wrote to everyone. Our congresswoman's office. The VA. The newspaper in Brownsville. The congresswoman's office called back on day eight.
+    팔로마: 다들한테 편지를 썼어요. 지역구 하원 의원 사무실. 보훈처. 브라운스빌 신문. 하원 의원 사무실에서 여드레째 되는 날 다시 전화가 왔어요.
 
 053. RUBEN: And on day nine, an officer I'd never seen came to my bunk. He said, "Mr. Ortega, you're free to go." Like I'd been staying at a hotel.
     루벤: 그리고 아흐레째, 처음 보는 직원이 제 침상으로 왔어요. "오르테가 씨, 가셔도 됩니다." 호텔에 묵었던 사람한테 하듯이요.
@@ -275,8 +275,8 @@
 087. CAL: Only if you want to be. With your name, your face, your story. Or we can use your first name only. Or nothing at all.
     칼: 원하실 때만요. 이름, 얼굴, 이야기까지. 아니면 이름만 쓸 수도 있고요. 아니면 아예 안 쓸 수도 있어요.
 
-088. RUBEN: Mari is afraid. She thinks if I talk, they'll find a reason to take me again.
-    루벤: 마리는 무서워해요. 내가 말하면 또 잡아갈 이유를 찾을 거라고 생각해요.
+088. RUBEN: Palo is afraid. She thinks if I talk, they'll find a reason to take me again.
+    루벤: 팔로는 무서워해요. 내가 말하면 또 잡아갈 이유를 찾을 거라고 생각해요.
 
 089. GRACE: Is she right?
     그레이스: 그분 말이 맞아요?
@@ -347,26 +347,26 @@
 111. RUBEN: Then you put my name in your story. My full name. My face. My DD-214.
     루벤: 그럼 제 이름 기사에 넣어요. 제 이름 전부. 얼굴. 전역 증명서까지.
 
-112. MARISOL: Rubén.
-    마리솔: 루벤.
+112. PALOMA: Rubén.
+    팔로마: 루벤.
 
-113. RUBEN: Mari. A man who wrote his letters like a child is dead, and his little girl doesn't know. If an American veteran is afraid to say his own name, who's going to say Efraín's?
-    루벤: 마리. 아이처럼 글씨를 쓰던 남자가 죽었는데, 그 딸은 모르고 있어. 미국 참전 군인이 자기 이름도 못 말하면, 에프라인 이름은 누가 말해 줘?
+113. RUBEN: Palo. A man who wrote his letters like a child is dead, and his little girl doesn't know. If an American veteran is afraid to say his own name, who's going to say Efraín's?
+    루벤: 팔로. 아이처럼 글씨를 쓰던 남자가 죽었는데, 그 딸은 모르고 있어. 미국 참전 군인이 자기 이름도 못 말하면, 에프라인 이름은 누가 말해 줘?
 
-114. MARISOL: Okay. Okay. But I want to read it before—
-    마리솔: 알았어. 알았어. 근데 나오기 전에 내가 읽어 보고—
+114. PALOMA: Okay. Okay. But I want to read it before—
+    팔로마: 알았어. 알았어. 근데 나오기 전에 내가 읽어 보고—
 
 115. CAL: We can't let anyone read the story before it's published. Not even you. I'm sorry. But I can read you every sentence that's about Rubén. To check the facts.
     칼: 보도 전에 누구에게도 기사를 읽게 해 드릴 순 없어요. 부인도요. 죄송해요. 하지만 루벤에 관한 문장은 하나하나 읽어 드릴 수 있어요. 사실 확인용으로요.
 
-116. MARISOL: Every sentence?
-    마리솔: 문장 하나하나 다요?
+116. PALOMA: Every sentence?
+    팔로마: 문장 하나하나 다요?
 
 117. CAL: Every sentence about him. If something's wrong, you tell us, and we fix it.
     칼: 그분에 관한 건 전부요. 틀린 게 있으면 말해 주시고, 저희가 고쳐요.
 
-118. MARISOL: Then I'll listen very carefully. I'm a schoolteacher. I find mistakes for a living.
-    마리솔: 그럼 아주 잘 들을게요. 저 학교 선생이에요. 실수 찾는 게 직업이에요.
+118. PALOMA: Then I'll listen very carefully. I'm a schoolteacher. I find mistakes for a living.
+    팔로마: 그럼 아주 잘 들을게요. 저 학교 선생이에요. 실수 찾는 게 직업이에요.
 
 119. GRACE: Rubén, can I ask one more thing? Inside Rio Verde. Was anyone kind to you?
     그레이스: 루벤, 하나만 더 여쭤봐도 돼요? 리오 베르데 안에서요. 누가 친절하게 대해 준 적 있어요?

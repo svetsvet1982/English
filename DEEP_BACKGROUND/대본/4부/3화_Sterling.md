@@ -251,8 +251,8 @@
 079. CAL: Rubén. You're speaking?
     칼: 루벤. 발언하시게요?
 
-080. RUBEN: Three minutes. I practiced in the car. Mari timed me.
-    루벤: 3분이요. 차에서 연습했어요. 마리가 시간을 재 줬어요.
+080. RUBEN: Three minutes. I practiced in the car. Palo timed me.
+    루벤: 3분이요. 차에서 연습했어요. 팔로가 시간을 재 줬어요.
 
 081. COMMISSIONER BARRERA: Number thirty-one. Mr. Ortega. You're from Hidalgo County, not Rio Verde, sir.
     바레라 위원: 서른한 번째. 오르테가 씨. 리오 베르데가 아니라 이달고 카운티 주민이시네요.

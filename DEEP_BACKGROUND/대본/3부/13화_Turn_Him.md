@@ -86,11 +86,11 @@
 024. CAL: I know. That's why I said it was the hard thing.
     칼: 알아. 그래서 어려운 얘기라고 한 거야.
 
-025. GRACE: But Dez went undercover in Ohio. He told Boyle his name was Dez Walker from Dayton, and that he'd been a guard for years. Wasn't that lying?
-    그레이스: 근데 데즈는 오하이오에서 위장 취업했잖아요. 보일한테 데이턴 출신 데즈 워커고 몇 년 동안 경비원을 했다고 했잖아요. 그건 거짓말 아니었어요?
+025. GRACE: But Dez went undercover in Ohio. He used his real name, but he let Boyle think he was just a guard starting over. Wasn't that a kind of lying?
+    그레이스: 근데 데즈는 오하이오에서 위장 취업했잖아요. 실명은 썼지만, 보일이 그냥 새 출발 하는 경비원이라고 생각하게 뒀잖아요. 그것도 일종의 거짓말 아니었어요?
 
-026. GWEN: It was. And we wrote down why, before he went. No other way to get the truth. Public interest. A real harm to real people. And we told readers exactly what we did.
-    그웬: 거짓말 맞아요. 그리고 가기 전에 이유를 적어 뒀죠. 진실을 얻을 다른 방법이 없음. 공익. 실제 사람들이 입는 실제 피해. 그리고 독자들한테 우리가 한 일을 정확히 밝혔어요.
+026. GWEN: It was close. And we wrote down why, before he went. No other way to get the truth. Public interest. A real harm to real people. And we told readers exactly what we did.
+    그웬: 거의 그렇죠. 그리고 가기 전에 이유를 적어 뒀죠. 진실을 얻을 다른 방법이 없음. 공익. 실제 사람들이 입는 실제 피해. 그리고 독자들한테 우리가 한 일을 정확히 밝혔어요.
 
 027. ROSA: Then we do the same test here. Is there another way?
     로사: 그럼 여기서도 같은 시험을 하자. 다른 방법이 있어?
