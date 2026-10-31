@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 5부 6화 · 서사 기능: 잠입 결정
 > - 배경: 빨래방 2층, 네 사람의 회의(화요일 오전 9시) → 같은 사무실, 그웬의 여섯 줄(오전 11시) → 데즈의 아파트, 트라이코스트 전화 면접(수요일 오후 3시) → 볼티모어, 데즈 어머니의 부엌(토요일 저녁). 2028년 2월 8일~12일.
-> - 등장인물: Dez, Rosa, Cal, Gwen, Grace, Priya, Tri-Coast Recruiter(전화), Dez's Mother(루실 터너), Terrence Turner(데즈의 동생), Simone(테런스의 동료 교사)
+> - 등장인물: Dez, Rosa, Cal, Gwen, Grace, Priya, Tri-Coast Recruiter(전화), Dez's Mother(루실 터너), Terrence Turner(데즈의 동생), Corinne(테런스의 동료 교사)
 > - 난이도: B1–B2 · 턴 수: 150
 > - 이번 화의 핵심 표현: "a commercial driver's license", "cover", "a red line", "walk away", "a sealed load", "complicit", "Fast drivers wanted.", "Come home with your eyes."
 > - 복선/연결: "Sign-on bonus: $5,000. Fast drivers wanted." · 핼버슨 쪽이 데즈의 얼굴을 안다는 위험(오하이오의 카일) · 그웬의 여섯 줄 — "봉인된 짐은 절대 열지 않는다" · 칼의 톨리 인터뷰 연기 · 2월 21일 라레도 첫 출근(→5부 7화) · 어머니의 말 "Come home with your eyes."
@@ -407,14 +407,14 @@
 131. DEZ: Terrence.
     데즈: 테런스.
 
-132. TERRENCE: This is Simone. She teaches chemistry. Simone, this is my brother. The quiet one. He's a reporter. He's never had a byline in his life.
-    테런스: 이쪽은 시몬. 화학 가르쳐. 시몬, 우리 형이야. 조용한 쪽. 기자야. 평생 바이라인 한 번 안 받았어.
+132. TERRENCE: This is Corinne. She teaches chemistry. Corinne, this is my brother. The quiet one. He's a reporter. He's never had a byline in his life.
+    테런스: 이쪽은 코린. 화학 가르쳐. 코린, 우리 형이야. 조용한 쪽. 기자야. 평생 바이라인 한 번 안 받았어.
 
-133. DEZ: Nice to meet you, Simone.
-    데즈: 반가워요, 시몬.
+133. DEZ: Nice to meet you, Corinne.
+    데즈: 반가워요, 코린.
 
-134. SIMONE: Terrence says you're the reason he became a teacher.
-    시몬: 테런스가 형 때문에 선생님이 됐다던데요.
+134. CORINNE: Terrence says you're the reason he became a teacher.
+    코린: 테런스가 형 때문에 선생님이 됐다던데요.
 
 135. DEZ: That's not true. The reason he became a teacher is a reporter who sat in our kitchen for three hours in 1995. Because of the paint in our building.
     데즈: 그건 사실이 아니에요. 이 애가 선생님이 된 건 1995년에 우리 부엌에 세 시간 앉아 있던 한 기자 때문이에요. 우리 건물 페인트 때문에요.
@@ -425,8 +425,8 @@
 137. DEZ: The same man.
     데즈: 같은 사람.
 
-138. SIMONE: Who was he?
-    시몬: 그분이 누구였는데요?
+138. CORINNE: Who was he?
+    코린: 그분이 누구였는데요?
 
 139. DEZ: A reporter from the Baltimore paper. He's dead now. I never told him what he did for us. I should have.
     데즈: 볼티모어 신문 기자요. 지금은 돌아가셨어요. 그분이 우리한테 뭘 해 줬는지 끝내 말씀드리지 못했어요. 말씀드렸어야 했는데.
@@ -443,8 +443,8 @@
 143. TERRENCE: I'm just asking.
     테런스: 그냥 묻는 건데.
 
-144. DEZ'S MOTHER: We don't ask in this house. We pray. Pass the greens to Simone.
-    데즈 어머니: 우리 집에선 안 물어. 기도하지. 시몬한테 나물 좀 건네.
+144. DEZ'S MOTHER: We don't ask in this house. We pray. Pass the greens to Corinne.
+    데즈 어머니: 우리 집에선 안 물어. 기도하지. 코린한테 나물 좀 건네.
 
 145. DEZ: Ma. I have to go. Early flight on Monday. I'll call. Not every day. But I'll call.
     데즈: 엄마. 가야 해요. 월요일에 이른 비행기예요. 전화할게요. 매일은 못 해도. 전화할게요.
