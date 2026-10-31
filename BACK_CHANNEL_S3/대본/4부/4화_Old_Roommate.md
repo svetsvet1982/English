@@ -30,11 +30,11 @@
 004. ELIAS: Paddles are how some wars end, Pierre-Luc. Send him over.
     일라이어스: 어떤 전쟁은 탁구채로 끝나, 피에르뤽. 이리 보내.
 
-005. PENG: Good morning. My name is Peng Hui. I coach table tennis in Saint-Laurent. Juniors, under fifteen.
-    펑후이: 안녕하세요. 펑후이라고 합니다. 생로랑에서 탁구 코치를 해요. 열다섯 살 이하 주니어들이요.
+005. PENG: Good morning. I'm Peng Hui. I coach junior table tennis in Saint-Laurent.
+    펑후이: 안녕하세요. 펑후이입니다. 생로랑에서 주니어 탁구 코치를 해요.
 
-006. ELIAS: Good morning, Mr. Peng. You're applying for a B-2. Tell me where you're going and why.
-    일라이어스: 안녕하세요, 펑 선생님. B-2를 신청하셨네요. 어디에, 왜 가시는지 말씀해 주세요.
+006. ELIAS: Morning, Mr. Peng. A B-2. Tell me where you're going, and why.
+    일라이어스: 안녕하세요, 펑 선생님. B-2네요. 어디에, 왜 가시는지 말씀해 주세요.
 
 007. PENG: A junior open in Cleveland, in November. Four of my kids qualified, and their parents want me on the bench, not on the phone.
     펑후이: 11월에 클리블랜드에서 주니어 오픈 대회가 있어요. 우리 애들 넷이 출전 자격을 땄는데, 부모님들이 제가 전화기 너머 말고 벤치에 있길 바라세요.
@@ -51,7 +51,7 @@
 011. PENG: Eleven years. My wife is a pharmacist, my daughter is at Dawson College, and I have a mortgage that keeps me awake at night.
     펑후이: 11년이요. 아내는 약사고, 딸은 도슨 칼리지에 다니고, 밤잠을 설치게 하는 주택 담보 대출도 있어요.
 
-012. ELIAS: A mortgage is the strongest tie the law recognizes. The law just never says so out loud.
+012. ELIAS: A mortgage is the strongest tie the law recognizes. It just never says so.
     일라이어스: 주택 대출이야말로 법이 인정하는 가장 강한 유대예요. 법이 대놓고 그렇게 말을 안 할 뿐이죠.
 
 013. PENG: In China I played for the provincial team, Sichuan. I was never good enough for the national team. My coach said I thought too much.
@@ -72,8 +72,8 @@
 018. ELIAS: Have you been to the United States before?
     일라이어스: 미국에 가 보신 적 있나요?
 
-019. PENG: Twice, for tournaments, in 2017 and 2019. I came back both times. My kids lost both times.
-    펑후이: 두 번이요, 대회 때문에요. 2017년이랑 2019년. 두 번 다 돌아왔어요. 우리 애들은 두 번 다 졌고요.
+019. PENG: Twice, for tournaments. I came back both times. My kids lost both times.
+    펑후이: 두 번이요, 대회 때문에요. 두 번 다 돌아왔어요. 우리 애들은 두 번 다 졌고요.
 
 020. ELIAS: Any problems at the border? Any visa refusals, anywhere?
     일라이어스: 국경에서 문제는요? 어디서든 비자 거절당한 적은요?
@@ -84,8 +84,8 @@
 022. PIERRE-LUC: Câline, that's good. Can I put that on the wall?
     피에르뤽: 세상에, 그거 좋은데요. 벽에 붙여도 돼요?
 
-023. ELIAS: Approved, Mr. Peng. Your passport comes back by courier in about a week. Good luck in Cleveland.
-    일라이어스: 승인됐습니다, 펑 선생님. 여권은 일주일쯤 뒤에 택배로 돌아갈 거예요. 클리블랜드에서 행운을 빌어요.
+023. ELIAS: Approved, Mr. Peng. Your passport comes back in about a week.
+    일라이어스: 승인됐습니다, 펑 선생님. 여권은 일주일쯤 뒤에 돌아갈 거예요.
 
 024. PENG: Thank you. May I ask you something? Your face changed when I said Chengdu.
     펑후이: 고맙습니다. 하나 여쭤봐도 될까요? 청두라고 했을 때 얼굴이 변하셨어요.
@@ -123,8 +123,8 @@
 035. GLORIA: Close the door, Elias. Ms. Khoury has been here since nine, and she has already eaten my emergency almonds.
     글로리아: 문 닫아요, 일라이어스. 쿠리 씨가 아홉 시부터 와 있는데, 벌써 내 비상용 아몬드를 다 먹었어요.
 
-036. NADIA: They were stale. I did you a favor. Mr. Grant, have you seen this morning's note from Beijing?
-    나디아: 눅눅했어요. 제가 도와드린 거죠. 그랜트 씨, 오늘 아침 베이징에서 온 메모 보셨어요?
+036. NADIA: They were stale. Mr. Grant, have you seen this morning's note from Beijing?
+    나디아: 눅눅했어요. 그랜트 씨, 오늘 아침 베이징에서 온 메모 보셨어요?
 
 037. ELIAS: I read the newspaper version. I assume yours has fewer adjectives.
     일라이어스: 신문판으로 읽었어요. 당신 것은 형용사가 더 적겠죠.
@@ -195,8 +195,8 @@
 059. ELIAS: Zhou Han. We shared room 311 at the Hopkins–Nanjing Center in 2006. He beat me at table tennis every night for a year. Eleven to three, mostly.
     일라이어스: 저우 한이요. 2006년에 존스홉킨스-난징센터 311호를 같이 썼어요. 1년 동안 매일 밤 탁구로 절 이겼죠. 대개 11 대 3으로요.
 
-060. NADIA: Zhou Han runs the department in Beijing that worries about North America. Did you know that?
-    나디아: 저우 한은 베이징에서 북미를 걱정하는 부서를 이끌어요. 알고 계셨어요?
+060. NADIA: Zhou Han runs the department that worries about North America. Did you know?
+    나디아: 저우 한은 북미를 걱정하는 부서를 이끌어요. 알고 계셨어요?
 
 061. ELIAS: I knew he was on his way there the last time he wrote. That was 2014. He said he'd been promoted, and he could no longer write to Americans for fun.
     일라이어스: 마지막으로 편지했을 때 그쪽으로 가는 중이란 건 알았죠. 2014년이었어요. 승진했다고, 이제 재미로 미국인한테 편지는 못 쓴다고 했어요.
@@ -239,3 +239,261 @@
 
 074. NADIA: No apology this time. Just the almonds.
     나디아: 이번엔 사과 없어요. 아몬드만 있죠.
+
+075. NOUR: Za'atar or cheese?
+    누르: 자타르, 아니면 치즈?
+
+076. ELIAS: Whatever means I wasn't here. And if my phone rings, I'm taking it out back.
+    일라이어스: 내가 여기 없었다는 뜻이면 아무거나요. 그리고 전화 오면 뒤에 가서 받을게요.
+
+077. NOUR: It rang twice while you washed your hands, habibi. Plus eighty-six.
+    누르: 손 씻는 동안 두 번 울렸어, 하비비. 플러스 86.
+
+078. ELIAS: That's China. Give it here.
+    일라이어스: 중국이에요. 이리 줘요.
+
+079. NOUR: It's ringing again. I'll close the kitchen door. My dishwasher keeps secrets better than I do.
+    누르: 또 울린다. 주방 문 닫을게. 우리 식기세척기가 나보다 비밀을 잘 지키거든.
+
+080. ELIAS: Hello?
+    일라이어스: 여보세요?
+
+081. ZHOU: My mother read your letter before I did. She says your Chinese characters still look like a frightened chicken.
+    저우: 우리 어머니가 나보다 먼저 네 편지를 읽으셨어. 네 한자는 아직도 겁먹은 닭 같대.
+
+082. ELIAS: Lao Zhou.
+    일라이어스: 라오저우.
+
+083. ZHOU: It is past midnight in Chengdu. She is asleep, and I am in her courtyard, under the persimmon tree, whispering to an American. Like a student again.
+    저우: 청두는 자정이 넘었어. 어머니는 주무시고, 난 마당 감나무 아래서 미국인한테 속삭이고 있지. 다시 학생이 된 것처럼.
+
+084. ELIAS: Is this phone hers?
+    일라이어스: 이 전화, 어머님 거야?
+
+085. ZHOU: It is hers. Nobody in Beijing listens to the phone of a retired accountant. That isn't a guarantee. It's a hope.
+    저우: 어머니 거야. 베이징에서 은퇴한 회계사 전화를 듣는 사람은 없어. 장담은 아니고, 희망이지.
+
+086. ELIAS: I'm sorry about the thirteen years.
+    일라이어스: 13년, 미안해.
+
+087. ZHOU: Don't be. Thirteen years ago you were a rising star. Now you sit at a window. It is much easier to telephone a man at a window.
+    저우: 미안해하지 마. 13년 전 넌 떠오르는 별이었지. 지금은 창구에 앉아 있고. 창구에 앉은 사람한테 전화하는 게 훨씬 쉬워.
+
+088. ELIAS: So you read about Moscow.
+    일라이어스: 그럼 모스크바 일은 읽었구나.
+
+089. ZHOU: I read everything with your name in it. Officially, I was pleased. Unofficially, I drank a beer for you, alone, which my wife found very strange.
+    저우: 네 이름 들어간 건 다 읽어. 공식적으로는 기뻤지. 비공식적으로는 너를 위해 혼자 맥주를 한 병 마셨는데, 아내가 아주 이상하게 생각하더라.
+
+090. ELIAS: How is your mother, really?
+    일라이어스: 어머님은 정말 어떠셔?
+
+091. ZHOU: Seventy-six, stubborn, and still asking if the American who cried over her chili oil found a wife. I said you found one and lost her. She said, "Too much chili."
+    저우: 일흔여섯에 고집 세시고, 아직도 고추기름 먹고 울던 그 미국인이 장가갔냐고 물으셔. 갔다가 잃었다고 했더니, "고추가 너무 많았네" 하시더라.
+
+092. ELIAS: Tell her it was the other way around. Lao Zhou, I didn't write to you about chili oil.
+    일라이어스: 반대였다고 전해 드려. 라오저우, 고추기름 얘기하려고 편지한 거 아니야.
+
+093. ZHOU: I know what you wrote about. Two Canadians and a woman from Northstar Linkcom. You know I cannot discuss any of it.
+    저우: 뭐에 대해 썼는지 알아. 캐나다인 둘, 그리고 노스스타 링크콤의 여자 한 명. 내가 그중 아무것도 논의할 수 없다는 거 알잖아.
+
+094. ELIAS: Then don't discuss it. Just listen.
+    일라이어스: 그럼 논의하지 마. 그냥 들어.
+
+095. ZHOU: In Nanjing you always said "just listen," and then you talked for an hour. Go. I have until my mother wakes up and asks who I'm talking to.
+    저우: 난징에서도 넌 늘 "그냥 들어" 해 놓고 한 시간을 떠들었지. 해 봐. 어머니가 깨서 누구랑 통화하냐고 물으실 때까지 시간 있어.
+
+096. ELIAS: A teacher in your mother's city can't leave. A woman in my city may be put on a plane to New York. Everyone thinks they're watching 2018 again.
+    일라이어스: 어머님 도시에 사는 교사는 떠날 수가 없어. 내 도시에 사는 여자는 뉴욕행 비행기에 태워질지도 모르고. 다들 2018년을 다시 보는 줄 알아.
+
+097. ZHOU: Everyone is watching 2018 again. That is the problem with a successful film. Someone always wants a sequel.
+    저우: 다들 2018년을 다시 보고 있지. 흥행한 영화의 문제가 그거야. 누군가는 꼭 속편을 원하거든.
+
+098. ELIAS: Was it a success?
+    일라이어스: 흥행했어?
+
+099. ZHOU: For whom? Ms. Meng spent almost three years in Vancouver. Two Canadians spent almost three years somewhere much less pleasant. Your country got a statement of facts. Nobody won.
+    저우: 누구한테? 멍 여사는 밴쿠버에서 3년 가까이 보냈어. 캐나다인 둘은 훨씬 덜 쾌적한 곳에서 3년 가까이 보냈고. 너희 나라는 사실관계 진술서 한 장을 얻었지. 아무도 이기지 못했어.
+
+100. ELIAS: Then don't make the sequel.
+    일라이어스: 그럼 속편은 만들지 마.
+
+101. ZHOU: Old friend, you know I cannot say yes. Ask me something I can say yes to.
+    저우: 오랜 친구, 내가 '예'라고 못 하는 거 알잖아. '예'라고 할 수 있는 걸 물어봐.
+
+102. ELIAS: Will Beijing lift the exit bans?
+    일라이어스: 베이징이 출국 금지를 풀 거야?
+
+103. ZHOU: Thank you for the question.
+    저우: 질문 고마워.
+
+104. ELIAS: That's a no. You still say "thank you" when you mean no.
+    일라이어스: 그건 '아니'네. 넌 아직도 '아니'라는 뜻으로 '고마워'라고 하는구나.
+
+105. ZHOU: And you still knock on the front door first. Try again.
+    저우: 그리고 넌 아직도 정문부터 두드리고. 다시 해 봐.
+
+106. ELIAS: I hear Ottawa would rather lose this extradition hearing than win it.
+    일라이어스: 듣자 하니 오타와는 이번 인도 심리에서 이기느니 지는 게 낫다고 생각한대.
+
+107. ZHOU: You hear this at a visa window?
+    저우: 그걸 비자 창구에서 듣는다고?
+
+108. ELIAS: Windows hear things. People lean in to talk to them.
+    일라이어스: 창구는 이것저것 들어. 사람들이 몸을 기울여서 말을 걸거든.
+
+109. ZHOU: Then your window should also hear this. We respect the independence of Canada's courts, as Canada keeps reminding us, very loudly, every morning.
+    저우: 그럼 네 창구는 이것도 들어야겠네. 우리는 캐나다 법원의 독립성을 존중해. 캐나다가 매일 아침 아주 큰 소리로 상기시켜 주는 대로.
+
+110. ELIAS: That's the speech. You know what I'm thinking about instead? Nagoya.
+    일라이어스: 그건 연설문이고. 내가 대신 무슨 생각 하는지 알아? 나고야.
+
+111. ZHOU: Of course you are. In Nanjing you made me read about it between your defeats.
+    저우: 당연히 그렇겠지. 난징에서 네가 질 때마다 그 사이사이에 그 얘길 읽게 했잖아.
+
+112. ELIAS: Tell it anyway. Your version is better than mine.
+    일라이어스: 그래도 얘기해 줘. 네 버전이 내 것보다 나아.
+
+113. ZHOU: April 1971, the world championships in Japan. An American player, Glenn Cowan, nineteen, long hair, misses his own bus and climbs onto ours. The Chinese team bus. Nobody speaks.
+    저우: 1971년 4월, 일본에서 열린 세계선수권. 미국 선수 글렌 코완, 열아홉 살, 장발. 자기 버스를 놓치고 우리 버스에 올라타. 중국 대표팀 버스에. 아무도 말을 안 해.
+
+114. ELIAS: Because talking to an American could end your career.
+    일라이어스: 미국인한테 말을 걸었다간 경력이 끝날 수도 있었으니까.
+
+115. ZHOU: Then Zhuang Zedong, three times world champion, walks to the back and gives him a silk picture of the Huangshan mountains. The coaches nearly fainted. Mao read the reports and invited the Americans.
+    저우: 그때 세 번이나 세계 챔피언이었던 좡쩌둥이 뒤로 걸어가서 황산을 그린 비단 그림을 건네. 코치들은 기절할 뻔했지. 마오가 보고서를 읽고 미국 팀을 초청했어.
+
+116. ELIAS: And within days the Americans are in Beijing, and Premier Zhou Enlai tells them they've opened a new chapter. By July, Kissinger is flying in secretly.
+    일라이어스: 며칠 만에 미국 팀이 베이징에 오고, 저우언라이 총리가 그들에게 새 장을 열었다고 말하지. 7월엔 키신저가 몰래 날아오고.
+
+117. ZHOU: And what is the lesson, Professor Grant?
+    저우: 그래서 교훈이 뭔가요, 그랜트 교수님?
+
+118. ELIAS: Nobody had to change a policy. A boy missed a bus, a champion was polite, and everyone could deny it if it went badly. It didn't go badly.
+    일라이어스: 아무도 정책을 바꿀 필요가 없었다는 거. 한 청년이 버스를 놓쳤고, 한 챔피언이 예의 바르게 굴었고, 일이 틀어지면 모두가 부인할 수 있었어. 근데 안 틀어졌지.
+
+119. ZHOU: Plausible deniability, with a paddle.
+    저우: 탁구채를 든 그럴듯한 부인 가능성이네.
+
+120. ELIAS: So here's my bus. If Ms. Xu's case ended without her ever boarding a plane, would anyone in Beijing still need two Canadians?
+    일라이어스: 그럼 이게 내 버스야. 쉬 여사 사건이 그녀가 비행기 한 번 안 타고 끝난다면, 베이징에서 아직도 캐나다인 둘이 필요한 사람이 있을까?
+
+121. ZHOU: You are asking me whether China takes hostages. China does not take hostages. China applies its laws.
+    저우: 중국이 인질을 잡느냐고 묻는 거구나. 중국은 인질을 잡지 않아. 법을 적용할 뿐이지.
+
+122. ELIAS: Then let me ask something smaller. Would Beijing prefer Ms. Xu home by Spring Festival, with her problem solved, to three years in a courtroom in New York?
+    일라이어스: 그럼 더 작은 걸 물을게. 베이징은 쉬 여사가 뉴욕 법정에서 3년을 보내는 것보다, 문제를 해결하고 춘절 전에 집에 오는 걸 더 원할까?
+
+123. ZHOU: Yes.
+    저우: 응.
+
+124. ELIAS: That was fast.
+    일라이어스: 빠르네.
+
+125. ZHOU: It was the first honest question. And here is something you did not hear. There is a third name on a desk in a ministry that is not mine. If nothing moves by the end of the month, someone will pick it up.
+    저우: 처음으로 정직한 질문이었으니까. 그리고 이건 네가 못 들은 얘기야. 내 부처가 아닌 어느 부처 책상 위에 세 번째 이름이 있어. 이달 말까지 아무것도 안 움직이면, 누군가 그걸 집어 들 거야.
+
+126. ELIAS: Is that a threat, Lao Zhou?
+    일라이어스: 그거 협박이야, 라오저우?
+
+127. ZHOU: It's a weather report. I don't control the weather. Neither do you. As for the two reviews, let us say Beijing will study them. Seriously.
+    저우: 일기예보야. 날씨는 내가 정하지 않아. 너도 마찬가지고. 두 사람 건은, 베이징이 검토할 거라고 해 두자. 진지하게.
+
+128. ELIAS: Seriously. Then I'll sleep next to the phone.
+    일라이어스: 진지하게. 그럼 전화기 옆에서 잘게.
+
+129. ZHOU: Not this phone. This phone goes back to my mother. If you must reach me, write to her again. She liked your letter. She put it on the refrigerator.
+    저우: 이 전화기는 안 돼. 이건 어머니한테 돌려드려야 해. 꼭 연락해야 하면 어머니한테 다시 편지해. 네 편지 마음에 들어 하셨어. 냉장고에 붙여 두셨거든.
+
+130. ELIAS: On the refrigerator? Lao Zhou, that letter mentions an extradition request.
+    일라이어스: 냉장고에? 라오저우, 그 편지엔 인도 요청 얘기가 있다고.
+
+131. ZHOU: It is in English. My mother reads only Chinese and gas bills. Good night, Elias. Go and be eleven minutes late for something.
+    저우: 영어로 썼잖아. 어머니는 중국어랑 가스 요금 고지서만 읽으셔. 잘 자, 일라이어스. 가서 어디든 11분 늦어 봐.
+
+132. ELIAS: Eleven minutes. Never more. Good night, Lao Zhou.
+    일라이어스: 11분. 그 이상은 절대 안 늦어. 잘 자, 라오저우.
+
+133. NADIA: You said you'd call me if he called. You took five hours.
+    나디아: 그 사람이 전화하면 저한테 전화한다면서요. 다섯 시간 걸렸네요.
+
+134. ELIAS: I took five hours to decide what was mine to give. Here it is. Beijing would prefer Ms. Xu home with her problem solved to a New York trial. That's a yes.
+    일라이어스: 뭐가 제가 드려도 되는 건지 정하는 데 다섯 시간 걸렸어요. 이거예요. 베이징은 뉴욕 재판보다 쉬 씨가 문제를 해결하고 집에 오는 걸 원해요. 그건 '예'였어요.
+
+135. NADIA: A yes to what, exactly? Ottawa can't decide an extradition on a hunch from Chengdu.
+    나디아: 정확히 뭐에 대한 '예'죠? 오타와가 청두발 감으로 인도 여부를 정할 순 없어요.
+
+136. ELIAS: A yes to a question nobody has asked yet. Is there a version where her case ends in a deal, and she never boards a plane?
+    일라이어스: 아직 아무도 묻지 않은 질문에 대한 '예'요. 그녀 사건이 합의로 끝나고, 그녀가 비행기에 오르지 않는 버전이 있느냐는 거죠.
+
+137. NADIA: You mean a guilty plea. She'll never plead guilty. Beijing won't let her.
+    나디아: 유죄 인정 말이군요. 그 여자는 절대 유죄를 인정 안 해요. 베이징이 못 하게 할 거고요.
+
+138. ELIAS: Not a plea. Something that isn't quite a plea. I need to call someone who knows the difference.
+    일라이어스: 유죄 인정 말고요. 유죄 인정은 아닌 무언가요. 그 차이를 아는 사람한테 전화해야겠어요.
+
+139. NADIA: Your ex-wife.
+    나디아: 전 부인이군요.
+
+140. ELIAS: You've read my file too. One more thing. There's a third name on a desk in Beijing. End of the month. Don't ask where I heard it.
+    일라이어스: 제 파일도 읽으셨네요. 하나 더요. 베이징 어느 책상에 세 번째 이름이 있어요. 이달 말이에요. 어디서 들었는지는 묻지 마세요.
+
+141. NADIA: Then I'll tell Ottawa I heard it from the almonds. This is Canada, Mr. Grant. We apologize, and then we win. Don't make me apologize for you.
+    나디아: 그럼 오타와엔 아몬드한테 들었다고 할게요. 여긴 캐나다예요, 그랜트 씨. 사과부터 하고, 그다음에 이기죠. 제가 당신 대신 사과하게 만들진 마세요.
+
+142. PIERRE-LUC: Sorry, boss. You're on the phone. How long was I standing here?
+    피에르뤽: 죄송해요, 보스. 통화 중이시네요. 제가 여기 얼마나 서 있었죠?
+
+143. ELIAS: Long enough to hear "almonds." What do you need, Pierre-Luc?
+    일라이어스: '아몬드' 들을 만큼은. 뭐 필요해, 피에르뤽?
+
+144. PIERRE-LUC: Hypothetically. If somebody looked up names, just names, and then something happened to one of the names, is the person who looked them up part of it?
+    피에르뤽: 가정해서요. 누가 이름들을 찾아봤는데, 그냥 이름만요, 그 뒤에 그중 한 이름한테 무슨 일이 생겼으면, 찾아본 사람도 거기 끼는 거예요?
+
+145. ELIAS: Not hypothetically, and not to me. You know who to say that to. Soon, Pierre-Luc.
+    일라이어스: 가정으로 하지 말고, 나한테도 하지 마. 누구한테 말해야 하는지 알잖아. 곧, 피에르뤽.
+
+146. FRANK: Did you eat?
+    프랭크: 밥은 먹었니?
+
+147. ELIAS: Za'atar, at lunch. Then I took a call from Chengdu and forgot to finish it.
+    일라이어스: 점심에 자타르. 그러다 청두에서 온 전화 받느라 다 못 먹었어.
+
+148. FRANK: Chengdu. Your roommate? The one who beat you every night? Your mother used to say you came home from Nanjing with a paddle and a broken ego.
+    프랭크: 청두라. 네 룸메이트? 매일 밤 너를 이기던 그 친구? 네 엄마가 그랬지, 난징에서 탁구채 하나랑 다친 자존심 하나 들고 돌아왔다고.
+
+149. ELIAS: His mother's phone, at midnight, under a persimmon tree. Dad, do you remember the ping-pong team, in '71?
+    일라이어스: 자정에, 감나무 아래서, 그 친구 어머니 전화로. 아빠, 71년 탁구팀 기억나?
+
+150. FRANK: I was a junior in high school. Your grandfather watched it on the news and said, "If they can play, they can talk." He was right for once. Nobody had to admit they'd changed their mind. Now go eat something green.
+    프랭크: 그때 고등학교 2학년이었지. 네 할아버지가 뉴스를 보시더니 "같이 공을 칠 수 있으면 대화도 할 수 있다" 하시더라. 웬일로 맞는 말씀이었지. 아무도 마음을 바꿨다고 인정할 필요가 없었으니까. 이제 가서 초록색 좀 먹어라.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **exit ban** — 출국 금지. 체포가 아니라서 영사 접견 문제도 생기지 않는 '우아한' 압박 수단 (038~040)
+- **consular access** — 영사 접견. 구금된 자국민을 만날 권리 (040)
+- **extradition request / extradition hearing** — 인도 요청 / 인도 심리. 캐나다에서는 법원 심리 뒤 법무장관이 최종 결정 (044, 106)
+- **We will study it.** — 베이징식 "검토하겠다" = 정중하고 영원한 거절 (048~049)
+- **We will study it seriously.** — "진지하게 검토하겠다" = 전화기 옆에서 기다려라 (051, 127~128)
+- **Put it in writing, and then don't.** — 서면으로 남겨라, 그리고 (말로는) 남기지 마라 (066)
+- **contact report** — 고위험국 공무원 접촉 보고. 지역 보안관(RSO)에게 서면으로 (064~065)
+- **Let me be very clear.** — 분명히 해 두죠. 정중한 협박의 첫 문장 (071)
+- **Ask me something I can say yes to.** — '예'라고 할 수 있는 걸 물어봐 (101)
+- **Thank you for the question.** — (저우식) 사실상 '아니요' (103~104)
+- **statement of facts** — 사실관계 진술서. 유죄 인정 없이 사실만 인정하는 문서 (099)
+- **plausible deniability** — 그럴듯한 부인 가능성. "탁구채를 든" (119)
+- **It's a weather report.** — 협박이 아니라 일기예보 = 내가 정하는 게 아니라 경고할 뿐 (127)
+- **Not hypothetically, and not to me.** — 가정으로 하지 말고, 나한테도 하지 마 (145)
+
+## 역사 노트 (낭독하지 않음)
+
+- 1971년 4월 일본 나고야에서 열린 제31회 세계탁구선수권대회 때, 미국 대표 글렌 코완(당시 19세)이 연습장에서 나와 자기 팀 버스를 놓치고 중국 대표팀 버스에 올라탔다. 냉랭한 침묵 끝에 세계 챔피언을 세 번 지낸 좡쩌둥이 다가가 황산을 수놓은 비단 그림을 선물했고, 코완은 이튿날 평화 마크가 그려진 티셔츠로 답례했다.
+- 이 장면이 보도된 뒤 마오쩌둥이 미국 팀 초청을 결정했다. 미국 대표팀은 1971년 4월 10일 홍콩을 거쳐 중국에 들어갔고, 4월 14일 저우언라이 총리가 인민대회당에서 이들을 맞으며 "여러분이 중미 인민 관계에 새 장을 열었다"고 말했다. 같은 날 미국은 대중국 무역 제한 일부 완화를 발표했다.
+- 그해 7월 9~11일 헨리 키신저 국가안보보좌관이 파키스탄을 거쳐 비밀리에 베이징을 방문했고, 1972년 2월 닉슨 대통령의 방중으로 이어졌다.
+- 극 중 활용: 저우는 이야기를 들려주고, 일라이어스는 "아무도 정책을 바꾸지 않았고 모두가 부인할 수 있었다"는 교훈을 뽑아 자기 질문을 '버스'로 바꾼다. 정문(출국 금지 해제 요구)이 아니라, 베이징이 '예'라고 할 수 있는 작은 질문(쉬 란이 춘절 전에 문제를 해결하고 귀국하는 것)을 찾는 설득이다. 프랭크는 "아무도 마음을 바꿨다고 인정할 필요가 없었다"를 '세 번째 문'의 원리로 받는다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 4부 5화 "Conditional": 줄리아가 '유죄 인정이 아닌 무언가', 기소 유예 합의의 구조를 설명한다. 일라이어스는 법무부의 의향을 아는 척 블러핑을 하고, '세 번째 이름'의 시한이 다가온다.

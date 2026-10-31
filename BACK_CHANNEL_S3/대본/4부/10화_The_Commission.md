@@ -18,20 +18,20 @@
 
 ## 대본
 
-001. PIERRE-LUC: Boss, the ticket machine is stuck on seven again. I filed a report on paper, since I'm not allowed near a keyboard anymore.
-    피에르뤽: 보스, 번호표 기계가 또 7에서 멈췄어요. 이제 키보드 근처엔 못 가니까 종이로 신고했어요.
+001. PIERRE-LUC: Boss, the ticket machine is stuck on seven again. I filed a report.
+    피에르뤽: 보스, 번호표 기계가 또 7에서 멈췄어요. 신고했어요.
 
 002. ELIAS: How many reports does that make this year?
     일라이어스: 올해 신고 몇 번째야?
 
-003. PIERRE-LUC: Forty-one. Marisol says it's the only file in this building with my name on it that still makes her smile.
-    피에르뤽: 마흔한 번째요. 마리솔 말로는 이 건물에서 제 이름 붙은 파일 중에 아직도 자기를 웃게 하는 건 그거 하나래요.
+003. PIERRE-LUC: Forty-one. On paper, since they won't let me near a keyboard anymore.
+    피에르뤽: 마흔한 번째요. 이젠 키보드 근처에도 못 가게 해서 종이로요.
 
 004. ELIAS: Take the compliment. Compliments are rare downstairs this month.
     일라이어스: 칭찬으로 받아. 이번 달 아래층에선 칭찬 듣기 힘들어.
 
-005. PIERRE-LUC: Is it today? The commission thing? Everybody in the mailroom keeps whispering "ten o'clock" like it's the hockey draft.
-    피에르뤽: 오늘이에요? 그 위원회요? 우편실 사람들이 다들 하키 드래프트라도 되는 것처럼 "열 시" 하고 속닥거려요.
+005. PIERRE-LUC: Is it today, the commission? The mailroom keeps whispering "ten o'clock" like it's the draft.
+    피에르뤽: 오늘이에요, 그 위원회? 우편실에서 다들 하키 드래프트라도 되는 것처럼 "열 시" 하고 속닥거려요.
 
 006. ELIAS: Ten o'clock in Ottawa, Quito and Washington, all at the same minute. Nobody wanted to be second.
     일라이어스: 오타와, 키토, 워싱턴에서 열 시, 같은 분에. 아무도 두 번째가 되고 싶어 하지 않았거든.
@@ -48,20 +48,20 @@
 010. ELIAS: Fair point. Number seven, please.
     일라이어스: 맞는 말이야. 7번 손님, 오세요.
 
-011. INES: Good morning. Dr. Inés Carrión. I have an appointment at nine, although strictly speaking I don't believe I need one.
-    이네스: 안녕하세요. 이네스 카리온 박사예요. 아홉 시 예약인데, 엄밀히 말하면 저한테 예약이 필요하진 않을 거예요.
+011. INES: Good morning. Dr. Inés Carrión. Nine o'clock, though strictly speaking I don't need one.
+    이네스: 안녕하세요. 이네스 카리온 박사예요. 아홉 시 예약인데, 엄밀히 말하면 저한텐 필요 없죠.
 
 012. ELIAS: Ecuadorian passport, Canadian permanent resident card, and a letter on Foreign Ministry letterhead from Quito. What's the trip?
     일라이어스: 에콰도르 여권, 캐나다 영주권 카드, 그리고 키토 외교부 공식 서한이네요. 무슨 여행이세요?
 
-013. INES: Washington, three times between January and June. I'm the legal adviser to Ecuador's delegation on the joint commission.
-    이네스: 워싱턴이요. 1월부터 6월 사이에 세 번이요. 합동 조사위원회 에콰도르 대표단의 법률 자문이에요.
+013. INES: Washington, three times before June. I advise Ecuador's delegation on the joint commission.
+    이네스: 워싱턴이요, 6월 전까지 세 번. 합동 조사위원회 에콰도르 대표단 법률 자문이에요.
 
 014. ELIAS: Then you're right, you don't need me. You're traveling on behalf of your government, so this isn't a B-1. It's an A-2: a diplomatic note, no fee, and usually no interview at all.
     일라이어스: 그럼 맞아요, 저는 필요 없으세요. 정부를 대표해서 가시니까 B-1이 아니에요. A-2예요. 외교 공한 한 장, 수수료 없음, 그리고 보통은 면접도 아예 없어요.
 
-015. INES: I know. My ministry sent the note to your embassy in Ottawa last week. I asked for the interview anyway.
-    이네스: 알아요. 저희 외교부가 지난주에 오타와 대사관으로 공한을 보냈어요. 그래도 면접을 신청했죠.
+015. INES: I know. Quito sent the note to Ottawa last week. I asked for the interview anyway.
+    이네스: 알아요. 키토가 지난주에 오타와로 공한을 보냈어요. 그래도 면접을 신청했죠.
 
 016. ELIAS: People don't usually ask for more time at this window.
     일라이어스: 이 창구에서 시간을 더 달라는 분은 잘 없는데요.
@@ -84,14 +84,14 @@
 022. ELIAS: Remind me which one is four.
     일라이어스: 4항이 어느 거였죠?
 
-023. INES: Four-C. The commission may examine "the provenance of targeting information, including information obtained from commercial sources." Your delegation fought that sentence for three weeks.
-    이네스: 4항 C호요. 위원회는 "상업적 출처에서 얻은 정보를 포함해 표적 정보의 출처"를 조사할 수 있다. 미국 대표단이 그 문장 하나와 3주를 싸웠어요.
+023. INES: Four-C. The commission may examine "the provenance of targeting information, including information obtained from commercial sources." Your delegation fought that one sentence for three weeks, line by line, comma by comma.
+    이네스: 4항 C호요. 위원회는 "상업적 출처에서 얻은 정보를 포함해 표적 정보의 출처"를 조사할 수 있다. 미국 대표단이 그 한 문장을 두고 3주를 싸웠어요. 한 줄씩, 쉼표 하나까지.
 
 024. ELIAS: Fought it how?
     일라이어스: 어떻게 싸웠는데요?
 
-025. INES: Politely. They said commercial sources were "outside the operational picture." Canada replied that the operational picture was precisely what killed a man from Saint-Michel.
-    이네스: 정중하게요. 상업적 출처는 "작전 상황도 밖"이라고 하더군요. 캐나다는 바로 그 작전 상황도가 생미셸에 살던 남자를 죽였다고 받아쳤고요.
+025. INES: Politely. They said commercial sources were "outside the operational picture." Canada replied that the operational picture was precisely what killed a fisherman from Saint-Michel, and Ecuador agreed in writing.
+    이네스: 정중하게요. 상업적 출처는 "작전 상황도 밖"이라고 하더군요. 캐나다는 바로 그 작전 상황도가 생미셸에 살던 어부를 죽였다고 받아쳤고, 에콰도르도 서면으로 동의했어요.
 
 026. ELIAS: And the apology language? Rosa asked me about that in November.
     일라이어스: 사과 문구는요? 로사 씨가 11월에 저한테 그걸 물었어요.
@@ -99,8 +99,8 @@
 027. INES: There is no apology. Paragraph one says the United States "regrets the loss of life." Your lawyers chose that verb with tweezers.
     이네스: 사과는 없어요. 1항에 미국은 "인명 손실을 유감으로 여긴다"고 돼 있어요. 미국 변호사들이 그 동사를 핀셋으로 골랐죠.
 
-028. ELIAS: In English, "regret" means I'm sad it happened. "Apologize" means I'm the one who did it. One costs nothing, and the other costs a lawsuit.
-    일라이어스: 영어에서 "regret"은 그 일이 일어나서 유감이라는 뜻이에요. "apologize"는 그걸 한 게 나라는 뜻이고요. 하나는 공짜고, 다른 하나는 소송값이 들죠.
+028. ELIAS: In English, "regret" means I'm sad it happened. "Apologize" means I'm the one who did it. One costs nothing at all, and the other one costs a lawsuit in Florida.
+    일라이어스: 영어에서 "regret"은 그 일이 일어나서 유감이라는 뜻이에요. "apologize"는 그걸 한 게 나라는 뜻이고요. 하나는 한 푼도 안 들고, 다른 하나는 플로리다에서 소송값이 들죠.
 
 029. INES: In Spanish we say "lamentar," which covers both, so the Ecuadorian text sounds kinder than yours. Rosa will read the English one.
     이네스: 스페인어로는 "lamentar"라고 하는데, 그게 둘 다를 덮어요. 그래서 에콰도르 쪽 문안이 미국 쪽보다 다정하게 들려요. 로사는 영어본을 읽을 거고요.
@@ -114,8 +114,8 @@
 032. ELIAS: I don't have it either, Doctor. I'm a visa officer.
     일라이어스: 저도 없어요, 박사님. 전 비자 담당관이에요.
 
-033. INES: Officially. It went to eleven people at seven this morning, and by ten it's public. Three hours is a long time for a secret.
-    이네스: 공식적으로는요. 오늘 아침 일곱 시에 열한 명한테 갔고, 열 시면 공개돼요. 비밀한테 세 시간은 긴 시간이에요.
+033. INES: Officially. It went to eleven people at seven this morning, and by ten it's public. Three hours is a very long time for a secret in your government, Mr. Grant.
+    이네스: 공식적으로는요. 오늘 아침 일곱 시에 열한 명한테 갔고, 열 시면 공개돼요. 당신네 정부에서 비밀한테 세 시간은 아주 긴 시간이에요, 그랜트 씨.
 
 034. ELIAS: It's a lifetime. Your A-2 will be processed in Ottawa, by the way. I'll send a note saying you came by.
     일라이어스: 평생이죠. 참고로 A-2는 오타와에서 처리될 거예요. 다녀가셨다고 메모 하나 보내 둘게요.
@@ -126,8 +126,8 @@
 036. ELIAS: You weren't rude. You were early. In this building, that's worse.
     일라이어스: 무례하지 않으셨어요. 일찍 오셨죠. 이 건물에선 그게 더 나빠요.
 
-037. INES: Then I'll see you on television at ten, Mr. Grant. Rosa will be standing right behind the minister.
-    이네스: 그럼 열 시에 텔레비전에서 봬요, 그랜트 씨. 로사가 장관 바로 뒤에 서 있을 거예요.
+037. INES: Then I'll see you on television at ten. Rosa will stand behind the minister.
+    이네스: 그럼 열 시에 텔레비전에서 봬요. 로사가 장관 뒤에 서 있을 거예요.
 
 038. ELIAS: I won't be on television. That's the whole arrangement.
     일라이어스: 전 텔레비전에 안 나와요. 그게 이 일의 조건 전부예요.
@@ -159,14 +159,14 @@
 047. ELIAS: "Remains confident." That means nobody has checked yet.
     일라이어스: "여전히 확신한다." 아직 아무도 확인 안 했다는 뜻이네요.
 
-048. NADIA: Here's what Canada hands the commission on day one: Pierre-Luc's phone, every message log, and the fourteen names he looked up for your friend Lowell.
-    나디아: 캐나다가 첫날 위원회에 넘길 건 이거예요. 피에르뤽의 전화기, 메시지 기록 전부, 그리고 그 애가 당신 친구 로웰을 위해 조회한 이름 열네 개.
+048. NADIA: Here's what Canada hands the commission on day one: Pierre-Luc's phone, every message log, the relay numbers, and the fourteen names he looked up for your friend Lowell.
+    나디아: 캐나다가 첫날 위원회에 넘길 건 이거예요. 피에르뤽의 전화기, 메시지 기록 전부, 중계 번호들, 그리고 그 애가 당신 친구 로웰을 위해 조회한 이름 열네 개.
 
-049. GLORIA: He's not my friend. And it's not "your" anything, Nadia. That phone is in your evidence locker, not mine.
-    글로리아: 내 친구 아니에요. 그리고 '당신'이 붙을 일도 아니에요, 나디아. 그 전화기는 당신네 증거물 보관함에 있지, 내 거 아니잖아요.
+049. GLORIA: He's not my friend. And that phone is in your evidence locker, Nadia, not mine.
+    글로리아: 내 친구 아니에요. 그리고 그 전화기는 당신네 증거물 보관함에 있어요, 나디아. 내 거 아니고.
 
-050. NADIA: Noted. The phone points at one company. Bluewater Insight Limited. Maritime analytics. They sell maps of the sea.
-    나디아: 알겠어요. 그 전화기는 회사 하나를 가리켜요. 블루워터 인사이트 리미티드. 해양 분석 업체. 바다 지도를 팔죠.
+050. NADIA: Noted. It points at one company. Bluewater Insight Limited. They sell maps of the sea.
+    나디아: 알겠어요. 그 전화기는 회사 하나를 가리켜요. 블루워터 인사이트 리미티드. 바다 지도를 팔죠.
 
 051. ELIAS: Maps with a boat's name, its position, its position next week, and who's on board. Sold to clients with aircraft.
     일라이어스: 배 이름, 위치, 다음 주 위치, 그리고 누가 타고 있는지까지 적힌 지도요. 항공기를 가진 고객들한테 팔고요.
@@ -177,8 +177,8 @@
 053. ELIAS: Selling the map isn't the crime, Consul General. The Caroline test asks for a necessity that's instant and overwhelming. A map somebody bought nine days earlier is the opposite of instant.
     일라이어스: 지도를 파는 게 범죄는 아니에요, 총영사님. 캐롤라인 기준은 '즉각적이고 압도적인' 필요를 요구해요. 누가 아흐레 전에 산 지도는 즉각적인 것과 정반대고요.
 
-054. NADIA: The commission will send Bluewater a document request. Next week, Ottawa says. Lawyers need time to choose their adjectives.
-    나디아: 위원회가 블루워터에 자료 제출 요청을 보낼 거예요. 오타와 말로는 다음 주요. 변호사들이 형용사 고를 시간이 필요하대요.
+054. NADIA: The commission will send Bluewater a document request next week. Lawyers need adjectives.
+    나디아: 위원회가 다음 주에 블루워터에 자료 제출 요청을 보낸대요. 변호사들이 형용사를 골라야 해서요.
 
 055. ELIAS: Next week is too late. A document request next week is a shredding schedule.
     일라이어스: 다음 주는 너무 늦어요. 다음 주에 보내는 자료 요청은 파쇄 일정표예요.
@@ -186,11 +186,11 @@
 056. GLORIA: You don't know that.
     글로리아: 그건 모르는 일이죠.
 
-057. ELIAS: I know what happens to bad intelligence once somebody important has already acted on it. Have you ever read the Gulf of Tonkin cables?
-    일라이어스: 높은 사람이 이미 그걸 근거로 움직이고 나면 나쁜 첩보가 어떻게 되는지는 알아요. 통킹만 전문 읽어 보셨어요?
+057. ELIAS: I know what happens to bad intelligence once somebody important has already acted on it. It doesn't get corrected; it gets defended. Have you ever read the Gulf of Tonkin cables?
+    일라이어스: 높은 사람이 이미 그걸 근거로 움직이고 나면 나쁜 첩보가 어떻게 되는지는 알아요. 바로잡히는 게 아니라 변호를 받죠. 통킹만 전문 읽어 보셨어요?
 
-058. NADIA: Everybody knows Tonkin. The Pentagon invented an entire naval battle so Congress would hand them a war.
-    나디아: 통킹만이야 다 알죠. 국방부가 의회한테 전쟁을 받아 내려고 해전 하나를 통째로 지어냈잖아요.
+058. NADIA: Everybody knows Tonkin. The Pentagon invented a naval battle to get a war.
+    나디아: 통킹만이야 다 알죠. 국방부가 전쟁 하나 얻으려고 해전을 지어냈잖아요.
 
 059. ELIAS: That's half of it, and the wrong half. The first attack was real. On August second, 1964, North Vietnamese torpedo boats really did attack the destroyer Maddox.
     일라이어스: 그건 반쪽이고, 그것도 틀린 반쪽이에요. 첫 번째 공격은 진짜였어요. 1964년 8월 2일, 북베트남 어뢰정들이 구축함 매덕스를 실제로 공격했죠.
@@ -198,8 +198,8 @@
 060. GLORIA: And the second?
     글로리아: 두 번째는요?
 
-061. ELIAS: August fourth, at night, in bad weather. Nervous sonar operators, radar ghosts, and intercepts that were read the way people wanted them read.
-    일라이어스: 8월 4일, 밤, 악천후. 긴장한 음탐병들, 레이더 허상, 그리고 사람들이 읽고 싶은 대로 읽힌 감청 기록.
+061. ELIAS: August fourth, at night, in bad weather. Nervous sonar operators, radar ghosts, and intercepts that were read the way people in Washington already wanted them read.
+    일라이어스: 8월 4일, 밤, 악천후. 긴장한 음탐병들, 레이더 허상, 그리고 워싱턴 사람들이 이미 읽고 싶어 하던 대로 읽힌 감청 기록.
 
 062. NADIA: So it was a lie.
     나디아: 그러니까 거짓말이었네요.
@@ -240,8 +240,8 @@
 074. GLORIA: Meaning Canada sends it, on Canadian letterhead, and this consulate has never heard of it. Can you do that by noon?
     글로리아: 캐나다가 캐나다 공문지에 써서 보내고, 이 영사관은 그런 게 있는 줄도 모른다는 뜻이에요. 정오까지 돼요?
 
-075. NADIA: By eleven, if the deputy minister doesn't want to read it twice. He'll want to read it twice.
-    나디아: 차관이 두 번 읽고 싶어 하지만 않으면 열한 시까지요. 두 번 읽고 싶어 할 거예요.
+075. NADIA: By eleven, unless the deputy minister reads it twice. He will.
+    나디아: 차관이 두 번 읽지만 않으면 열한 시요. 두 번 읽겠지만.
 
 076. ELIAS: Then tell him it's two sentences. Deputy ministers like short sentences they can blame on someone else.
     일라이어스: 그럼 두 문장짜리라고 하세요. 차관들은 남 탓으로 돌릴 수 있는 짧은 문장을 좋아하거든요.
@@ -264,8 +264,8 @@
 082. GLORIA: You're on. Did the deputy minister read it twice?
     글로리아: 연결됐어요. 차관이 두 번 읽었어요?
 
-083. NADIA: He read it three times, and it went out at eleven-forty. It didn't matter. Bluewater Insight is gone.
-    나디아: 세 번 읽었고, 열한 시 40분에 나갔어요. 소용없었어요. 블루워터 인사이트가 사라졌어요.
+083. NADIA: Three times. It went out at eleven-forty. It didn't matter. Bluewater is gone.
+    나디아: 세 번이요. 11시 40분에 나갔어요. 소용없었어요. 블루워터가 사라졌어요.
 
 084. ELIAS: Gone how?
     일라이어스: 어떻게 사라져요?
@@ -276,11 +276,11 @@
 086. GLORIA: The commission was announced at ten. That's less than four hours.
     글로리아: 위원회 발표가 열 시였어요. 네 시간도 안 됐네요.
 
-087. NADIA: And at two-oh-six, the phone in our evidence locker received one message from the relay number. One word: "Closed." Then the number stopped existing.
-    나디아: 그리고 2시 6분에, 우리 보관함에 있는 전화기로 중계 번호에서 메시지가 하나 왔어요. 한 단어요. "Closed." 그다음엔 번호가 아예 없어졌어요.
+087. NADIA: And at two-oh-six, the phone in our evidence locker received one message from the relay number. One word: "Closed." Thirty seconds later, the number stopped existing altogether.
+    나디아: 그리고 2시 6분에, 우리 보관함에 있는 전화기로 중계 번호에서 메시지가 하나 왔어요. 한 단어요. "Closed." 30초 뒤에 그 번호는 아예 없어졌어요.
 
-088. PIERRE-LUC: Sorry. Marisol sent me up with the mail. Is that about his phone? The one from the glove box?
-    피에르뤽: 죄송해요. 마리솔이 우편물 갖다 드리래서요. 그거 그 사람 전화기 얘기예요? 글러브 박스에 있던 거?
+088. PIERRE-LUC: Sorry, Marisol sent me up with the mail. Is that his phone? The glove-box one?
+    피에르뤽: 죄송해요, 마리솔이 우편물 갖다 드리래서요. 그 사람 전화기 얘기예요? 글러브 박스에 있던 거?
 
 089. ELIAS: Sit down, Pierre-Luc. Yes.
     일라이어스: 앉아, 피에르뤽. 응.
@@ -288,8 +288,8 @@
 090. PIERRE-LUC: Then he's gone, isn't he? Lowell. He does that. In January he disappeared for nine days and came back with a tan.
     피에르뤽: 그럼 그 사람 사라진 거네요, 그렇죠? 로웰이요. 원래 그래요. 1월에도 아흐레 동안 없어졌다가 까맣게 타서 돌아왔어요.
 
-091. NADIA: This time he took a company with him. Pierre-Luc, can you remember anything he said about Delaware? About lawyers?
-    나디아: 이번엔 회사까지 들고 갔어요. 피에르뤽, 그 사람이 델라웨어나 변호사 얘기 한 거 기억나는 거 있어요?
+091. NADIA: This time he took a company with him. Did he ever mention Delaware, Pierre-Luc?
+    나디아: 이번엔 회사까지 들고 갔어요. 그 사람이 델라웨어 얘기 한 적 있어요, 피에르뤽?
 
 092. PIERRE-LUC: He said once that a company is a coat. You wear it when it's cold, and you leave it on a chair when it's not.
     피에르뤽: 한 번은 회사는 코트 같은 거라고 했어요. 추울 땐 입고, 안 추우면 의자에 걸어 두고 가는 거라고.
@@ -297,14 +297,14 @@
 093. GLORIA: A cashmere coat, I assume.
     글로리아: 캐시미어 코트겠죠.
 
-094. ELIAS: Dissolving doesn't destroy the records, Nadia. Delaware still keeps a registered agent, an incorporator, a filing date.
-    일라이어스: 해산한다고 기록이 없어지진 않아요, 나디아. 델라웨어엔 여전히 등록 대리인, 설립자, 접수 날짜가 남아요.
+094. ELIAS: Dissolving doesn't erase the records. Delaware keeps an agent, an incorporator, a date.
+    일라이어스: 해산한다고 기록이 지워지진 않아요. 델라웨어엔 대리인, 설립자, 날짜가 남아요.
 
 095. NADIA: It keeps a nominee, a mailbox, and a lawyer who bills by the hour to say "I don't know." Lowell never signed his own name to anything.
     나디아: 남는 건 명의만 빌려준 사람, 우편함, 그리고 "모르겠습니다"라고 말하는 데 시간당 요금 받는 변호사죠. 로웰은 어디에도 자기 이름으로 서명한 적 없어요.
 
-096. PIERRE-LUC: He made me sign mine, though. On receipts, every Friday. He kept every one of them.
-    피에르뤽: 대신 저한텐 제 이름으로 서명하게 했어요. 영수증에요, 금요일마다. 그걸 하나도 안 버리고 다 갖고 있었고요.
+096. PIERRE-LUC: He made me sign mine, though. Receipts, every Friday. He kept them all.
+    피에르뤽: 대신 저한텐 제 이름으로 서명하게 했어요. 금요일마다 영수증에요. 그걸 다 갖고 있었고요.
 
 097. NOUR: Za'atar or cheese?
     누르: 자타르, 아니면 치즈?
@@ -333,8 +333,8 @@
 105. ELIAS: I don't know.
     일라이어스: 모르겠어요.
 
-106. LENA: That's the first time in two years you've said "I don't know" and I've believed you.
-    레나: 2년 동안 당신이 "모르겠다"고 했는데 제가 믿은 건 이번이 처음이에요.
+106. LENA: That's the first "I don't know" from you in two years that I believe.
+    레나: 2년 동안 당신한테 들은 "모르겠다" 중에 제가 믿는 건 이게 처음이에요.
 
 107. ELIAS: Enjoy it. It won't happen often. What do you have?
     일라이어스: 즐기세요. 자주 있는 일 아니니까. 뭘 갖고 계세요?
@@ -345,14 +345,14 @@
 109. ELIAS: Nine forty-one. The announcement was at ten.
     일라이어스: 9시 41분. 발표는 열 시였는데.
 
-110. LENA: Nineteen minutes before anyone outside government knew the commission existed, let alone that clause four-C had survived.
-    레나: 정부 바깥에선 아무도 위원회가 있는 줄도 모를 때보다 19분 앞이에요. 4항 C호가 살아남았다는 건 말할 것도 없고요.
+110. LENA: Nineteen minutes before anyone outside government knew the commission existed.
+    레나: 정부 바깥에선 아무도 위원회가 있는 줄도 모를 때보다 19분 앞이에요.
 
 111. ELIAS: How do you know about four-C?
     일라이어스: 4항 C호는 어떻게 아세요?
 
-112. LENA: The same way you do. Somebody was proud of it. My question is who wasn't proud of it, and picked up a phone.
-    레나: 당신이 아는 것과 같은 방법으로요. 누군가 그걸 자랑스러워했죠. 제 질문은, 누가 그걸 안 자랑스러워했고 전화기를 들었느냐는 거예요.
+112. LENA: The same way you do. Somebody was proud of it and told me. My question is who wasn't proud of it, and picked up a phone instead of a pen.
+    레나: 당신이 아는 것과 같은 방법으로요. 누군가 자랑스러워서 저한테 말했죠. 제 질문은, 누가 그걸 안 자랑스러워했고 펜 대신 전화기를 들었느냐는 거예요.
 
 113. ELIAS: The text went to eleven people at seven. Any one of the eleven could have read it aloud to someone over breakfast.
     일라이어스: 문안은 일곱 시에 열한 명한테 갔어요. 그 열한 명 중 누구라도 아침 먹으면서 누군가한테 소리 내 읽어 줄 수 있었죠.
@@ -360,11 +360,11 @@
 114. LENA: Or one of them didn't need to. Someone already knew exactly what four-C would say, because they'd spent three weeks fighting it.
     레나: 아니면 그럴 필요도 없었거나요. 누군가는 4항 C호가 뭐라고 할지 이미 정확히 알았어요. 3주 동안 그걸 막으려고 싸웠으니까.
 
-115. ELIAS: You're asking me to say Washington tipped off a contractor. I'm not in a position to comment.
-    일라이어스: 워싱턴이 하청 업체한테 귀띔했다고 말해 달라는 거군요. 전 언급할 위치에 있지 않아요.
+115. ELIAS: So Washington tipped them off? I'm not in a position to comment.
+    일라이어스: 그러니까 워싱턴이 귀띔했다고요? 전 언급할 위치에 있지 않아요.
 
-116. LENA: Last December you told me "no comment." Now you're "not in a position." That isn't the same sentence.
-    레나: 작년 12월엔 "노 코멘트"라고 하셨잖아요. 이번엔 "언급할 위치가 아니다"고요. 같은 문장이 아니에요.
+116. LENA: Last December it was "no comment." Now it's "not in a position." Different sentence.
+    레나: 작년 12월엔 "노 코멘트"였죠. 이번엔 "언급할 위치가 아니다"고요. 다른 문장이에요.
 
 117. ELIAS: No, it isn't. "No comment" means I won't. "Not in a position" means I can't, and I'd like you to notice the difference.
     일라이어스: 네, 아니에요. "노 코멘트"는 안 하겠다는 거고, "언급할 위치가 아니다"는 못 한다는 거예요. 그 차이를 알아봐 주셨으면 좋겠네요.
@@ -384,8 +384,8 @@
 122. LENA: In August you went quiet for three seconds when I said that. Tonight you finished my sentence. Who is he, Elias?
     레나: 8월에 제가 그 말을 했을 땐 3초 동안 조용하셨죠. 오늘 밤엔 제 문장을 끝내 주셨고요. 그 사람 누구예요, 일라이어스?
 
-123. ELIAS: A man in a hotel bar in Miami, a year ago this month. He called himself Lowell. He knew my career better than I did.
-    일라이어스: 1년 전 이맘때 마이애미 호텔 바에 있던 남자요. 자기를 로웰이라고 했어요. 제 경력을 저보다 더 잘 알더군요.
+123. ELIAS: A man in a hotel bar in Miami, a year ago this month. He called himself Lowell. He knew my career better than I did, and he quoted my own words back to me.
+    일라이어스: 1년 전 이맘때 마이애미 호텔 바에 있던 남자요. 자기를 로웰이라고 했어요. 제 경력을 저보다 더 잘 알았고, 제가 쓴 문장을 저한테 그대로 읊어 주더군요.
 
 124. LENA: And you never told me.
     레나: 그런데 저한테는 한 번도 말 안 했고요.
@@ -405,8 +405,8 @@
 129. ELIAS: I know what I owe. When I pay it, it'll be worth printing. Tonight it would just be a visa officer with a grudge.
     일라이어스: 뭘 빚졌는지 알아요. 갚을 땐 실을 만한 걸로 갚을게요. 오늘 밤엔 그냥 앙심 품은 비자 담당관일 뿐이에요.
 
-130. NOUR: Your phone is buzzing against my table, Elias. It says "Dad." My tables are older than your father. Answer it.
-    누르: 당신 전화가 내 탁자 위에서 부르르 떨어요, 일라이어스. "아빠"래요. 내 탁자는 당신 아버지보다 나이가 많아. 받아요.
+130. NOUR: Your phone is buzzing on my table. It says "Dad." Answer it, habibi.
+    누르: 당신 전화가 내 탁자에서 부르르 떨어요. "아빠"래요. 받아요, 하비비.
 
 131. ELIAS: Hi, Dad. I'm at Nour's. Yes. Yes, I ate. Half of it.
     일라이어스: 아빠. 누르네 가게야. 응. 응, 먹었어. 반쯤.
@@ -414,11 +414,11 @@
 132. FRANK: Half is a negotiating position, not a dinner. Rosie saw the commission on the news. She says the widow didn't cry once.
     프랭크: 반은 협상 입장이지 저녁이 아니야. 로지가 뉴스에서 그 위원회 봤대. 그 부인은 한 번도 안 울더래.
 
-133. ELIAS: She doesn't cry in front of governments. She saves it for later, after they've all gone home.
-    일라이어스: 그분은 정부 앞에선 안 울어. 나중을 위해 아껴 둬. 다들 집에 가고 나서.
+133. ELIAS: She doesn't cry in front of governments. She waits until they've gone home.
+    일라이어스: 그분은 정부 앞에선 안 울어. 다들 집에 갈 때까지 기다려.
 
-134. FRANK: Your mother was like that. Is it a good day or a bad day, son? You sound like both.
-    프랭크: 네 엄마도 그랬지. 오늘은 좋은 날이냐 나쁜 날이냐, 아들? 둘 다처럼 들리는구나.
+134. FRANK: Your mother was like that. Good day or bad day, son?
+    프랭크: 네 엄마도 그랬지. 오늘은 좋은 날이냐 나쁜 날이냐, 아들?
 
 135. ELIAS: A door opened at ten, and somebody walked out the back by two. Tell Rosie I'll call on Sunday.
     일라이어스: 열 시에 문이 하나 열렸는데, 두 시쯤 누가 뒷문으로 나갔어. 로지한테 일요일에 전화한다고 해 줘.
@@ -459,11 +459,41 @@
 147. VOICE: There will be one last transfer. The usual account. Then nothing for a year.
     목소리: 마지막 송금이 한 번 있을 거야. 늘 쓰던 계좌로. 그다음 1년은 아무것도 없어.
 
-148. CARVER: A year is fine. I'll be somebody else for a while. Somebody who's never been to Montreal.
-    카버: 1년이면 괜찮아요. 한동안 다른 사람으로 살죠. 몬트리올엔 가 본 적도 없는 사람으로.
+148. CARVER: A year is fine. I'll be somebody who's never been to Montreal.
+    카버: 1년이면 괜찮아요. 몬트리올엔 가 본 적도 없는 사람이 되어 있을게요.
 
 149. VOICE: And Mr. Lowell?
     목소리: 그럼 로웰 씨는?
 
-150. CARVER: Mr. Lowell closed at one fifty-two this afternoon, like the company. He's simply no longer registered anywhere.
-    카버: 로웰 씨는 오늘 오후 1시 52분에 문을 닫았어요. 회사처럼요. 이제 어디에도 등록돼 있지 않을 뿐이에요.
+150. CARVER: Mr. Lowell closed at one fifty-two, like the company. He's simply not registered anywhere.
+    카버: 로웰 씨는 1시 52분에 문을 닫았어요. 회사처럼요. 이제 어디에도 등록돼 있지 않을 뿐이에요.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **terms of reference** — (위원회의) 위임 사항, 조사 범위 / the terms of reference were finalized at three this morning (021)
+- **provenance of targeting information** — 표적 정보의 출처·내력 (023)
+- **regret vs. apologize** — "유감이다"(일어난 일이 안타깝다)와 "사과한다"(내가 했다). 하나는 공짜, 하나는 소송값 (027~029)
+- **A-2 visa / diplomatic note** — 공무 비자 / 외교 공한. 정부 대표 출장은 B-1이 아니다 (014)
+- **rules of engagement** — 교전 규칙 / complied with the rules of engagement (046)
+- **"Remains confident."** — "여전히 확신한다" = 아직 아무도 확인 안 했다 (047)
+- **the Caroline test / instant and overwhelming** — 자위권의 캐롤라인 기준, '즉각적이고 압도적인' 필요 (053)
+- **A document request next week is a shredding schedule.** — 다음 주 자료 요청은 파쇄 일정표다 (055)
+- **It wasn't a lie. It was a wish.** — 거짓말이 아니라 바람이었다. 원하는 쪽으로 읽힌 첩보 (062~063)
+- **preservation letter** — 자료 보존 요청서. "우리가 그날 말했다"는 종이 (071)
+- **certificate of dissolution / registered agent** — 해산 증명서 / 등록 대리인 (085, 108)
+- **I'm not in a position to comment. vs. No comment.** — 못 한다 vs 안 하겠다 (115~117)
+- **cooperating witness** — 협조 증인 (142)
+- **plausible deniability** — 그럴듯한 부인 가능성. "그 사람만 빼고 다 갖고 있다" (146)
+
+## 역사 노트 (낭독하지 않음)
+
+- 1964년 8월 2일, 통킹만에서 정보 수집 임무 중이던 미 구축함 매덕스(USS Maddox)가 북베트남 어뢰정 세 척의 공격을 받았다. 이 첫 번째 교전은 실제로 일어났다.
+- 8월 4일 밤, 악천후 속에서 매덕스와 터너 조이는 두 번째 공격을 받고 있다고 보고했다. 그러나 몇 시간 뒤 존 헤릭 함장은 "이상 기상이 레이더에 미친 영향과 지나치게 의욕적인 음탐병"을 들며 보고된 접촉 다수가 의심스럽다고, 추가 조치 전에 전면 재평가를 하자고 전문을 보냈다. 미국은 8월 5일 보복 공습을 했고, 의회는 8월 7일 통킹만 결의안을 하원 416 대 0, 상원 88 대 2로 통과시켰다. 이 결의안은 베트남전 확전의 법적 근거가 됐다.
+- 2005년 NSA는 자체 역사가 로버트 해녁의 연구를 기밀 해제했다. 8월 4일 공격은 일어나지 않았을 가능성이 높으며 신호 정보가 잘못 해석·제시됐다는 내용이다.
+- 극 중 활용: 나디아가 "국방부가 해전을 지어냈다"고 단순화하자 일라이어스는 첫 공격은 진짜였고 문제는 '원하던 대로 읽힌' 두 번째 보고와 늦게 도착한 의심이었다고 바로잡는다. 그리고 블루워터의 '바다 지도'를 오늘 보존시키지 않으면 무엇이 확인됐는지는 업체가 기억하기로 한 것만 남는다고 설득해, 캐나다 명의의 자료 보존 요청서를 끌어낸다. 그러나 업체는 네 시간 만에 사라진다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 4부 11화 "Inspector General": 12월 17일, 감찰관 앤설이 돌아와 결론을 읽는다. 같은 날 글로리아는 일라이어스의 근무평정에 세 문장을 쓴다. 그리고 크리스마스, 데이턴 부엌에서 걸려 온 영상통화.
