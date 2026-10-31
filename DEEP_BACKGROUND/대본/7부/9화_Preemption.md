@@ -410,11 +410,11 @@
 132. CAL: Tina.
     칼: 티나.
 
-133. GRACE: Who's Tina?
-    그레이스: 티나가 누구예요?
+133. GRACE: Tina's still doing it? Every month? Even after the story?
+    그레이스: 티나가 아직도 그걸 해요? 매달? 기사 나간 뒤에도?
 
-134. CAL: The woman who started all of this. Before you. Before the laundromat. She kept a bottle of water from her well every month, with the date on it. So someday someone could see how the water changed.
-    칼: 이 모든 걸 시작한 여자. 너 오기 전에. 빨래방 전에. 매달 자기 우물물을 한 병씩 날짜를 적어서 보관했어. 언젠가 누군가 물이 어떻게 변했는지 볼 수 있게.
+134. CAL: The woman who started all of this. Before the laundromat. A bottle of water from her well every month, with the date on it. She told me once she'd stop when someone told her who the water was for.
+    칼: 이 모든 걸 시작한 여자. 빨래방 전에. 매달 자기 우물물 한 병씩, 날짜 적어서. 그 물이 누구를 위한 건지 누가 말해 주면 그만두겠다고 나한테 한 번 그랬어.
 
 135. GRACE: A contemporaneous note. In water.
     그레이스: 동시대 메모네요. 물로 된.

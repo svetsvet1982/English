@@ -167,17 +167,17 @@
 051. CAL: I don't. But Gwen's right. Don't assume. A dot on a map is a dot on a map.
     칼: 안 믿어. 근데 그웬 말이 맞아. 짐작하지 마. 지도 위의 점은 지도 위의 점일 뿐이야.
 
-052. GRACE: Wait, can I ask something? Why does Fenwick matter?
-    그레이스: 잠깐, 뭐 하나 여쭤봐도 돼요? 펜윅이 왜 중요해요?
+052. GRACE: Wait, can I ask something? Do you really think it's Fenwick? After all this time?
+    그레이스: 잠깐, 뭐 하나 여쭤봐도 돼요? 진짜 펜윅이라고 생각해요? 이렇게 시간이 지났는데?
 
-053. CAL: Because it's where this newsroom started, Grace. Before you. A town in Ohio where a data center drank the water. We never found out who the data center was really for. The company that ran it was only the landlord.
-    칼: 이 언론사가 시작된 곳이니까, 그레이스. 너 오기 전에. 데이터센터가 물을 다 마셔 버린 오하이오의 한 마을. 그 데이터센터가 진짜 누구를 위한 건지 끝내 못 알아냈어. 운영한 회사는 그냥 건물주였고.
+053. CAL: I don't know, Grace. You were there. You remember. A data center that drank a town's water. And we never found out who it was really for. The company that ran it was only the landlord. LL-0471.
+    칼: 몰라, 그레이스. 너도 거기 있었잖아. 기억하지. 마을의 물을 다 마셔 버린 데이터센터. 그리고 그게 진짜 누구를 위한 건지 끝내 못 알아냈어. 운영한 회사는 그냥 건물주였고. LL-0471.
 
 054. DEZ: And a man named Ray told us the truth. And then his truck went off a bridge.
     데즈: 그리고 레이라는 남자가 우리한테 진실을 말해 줬지. 그러고 나서 그 사람 트럭이 다리에서 떨어졌고.
 
-055. GRACE: I've read the story. I didn't know you still thought about it.
-    그레이스: 그 기사 읽었어요. 아직도 그 생각을 하는 줄은 몰랐어요.
+055. GRACE: I still keep a copy of Ray's badge photo in my notebook. I didn't know you still thought about it too.
+    그레이스: 난 아직 레이 출입증 사진 사본을 수첩에 넣고 다녀요. 칼도 아직 그 생각을 하는 줄은 몰랐어요.
 
 056. CAL: Every time I see a dot in Ohio.
     칼: 오하이오에 점 하나 보일 때마다.
