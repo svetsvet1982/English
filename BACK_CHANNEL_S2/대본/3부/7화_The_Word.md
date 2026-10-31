@@ -47,7 +47,7 @@
     일라이어스: 어떻게 갈랐는데?
 
 011. SAMIRA: By language. They asked each man to say a few words in his mother's language. The Peul men went to one side of the well. The Zarma traders who were visiting that day were sent home.
-    사미라: 말로요. 남자들한테 한 명씩 어머니 말로 몇 마디 해 보라고 했대요. 풀라니, 그러니까 풀 사람들은 우물 한쪽으로 보냈고요. 그날 장사하러 와 있던 자르마 상인들은 집으로 돌려보냈대요.
+    사미라: 말로요. 남자들한테 한 명씩 어머니 말로 몇 마디 해 보라고 했대요. 풀라니 남자들은 우물 한쪽으로 보냈고요. 그날 장사하러 와 있던 자르마 상인들은 집으로 돌려보냈대요.
 
 012. ELIAS: Sent home. They let witnesses walk away.
     일라이어스: 집으로 보냈다고. 목격자를 걸어서 돌려보냈네.
@@ -165,3 +165,153 @@
 
 050. ELIAS: No. But the word decided how many people in Washington felt they had to look.
     일라이어스: 그렇죠. 하지만 워싱턴에서 몇 명이 그걸 들여다봐야 한다고 느꼈는지는 그 단어가 정했어요.
+
+051. SATTERFIELD: Then let me give you a history that cuts the other way. September two thousand four. Secretary Powell tells the Senate that genocide has been committed in Darfur.
+    새터필드: 그럼 반대쪽으로 베는 역사도 하나 드리죠. 2004년 9월. 파월 장관이 상원에서 다르푸르에서 제노사이드가 자행됐다고 말합니다.
+
+052. ELIAS: And in the same testimony he said no new action was dictated by the determination.
+    일라이어스: 그리고 같은 증언에서 이 판정으로 새로 요구되는 조치는 없다고 했죠.
+
+053. SATTERFIELD: Exactly. The word without the action. Darfur kept burning for years. If you want the word, you'd better tell me what we're going to do the morning after we say it.
+    새터필드: 바로 그겁니다. 행동 없는 단어. 다르푸르는 그 뒤로도 몇 년을 탔습니다. 단어를 원하시면, 그 말을 한 다음 날 아침에 우리가 뭘 할지부터 말씀해 주십시오.
+
+054. ELIAS: That's a fair question. It's also the question your predecessors used as a reason never to say it.
+    일라이어스: 정당한 질문이에요. 당신 전임자들이 끝내 그 말을 안 할 이유로 쓴 질문이기도 하고요.
+
+055. AKERS: May I bring this back to Niamey for a minute? Because my bureau has to live there after the lawyers go home.
+    에이커스: 잠깐 니아메 얘기로 돌아가도 될까요? 변호사들이 퇴근한 뒤에도 저희 국은 거기서 살아야 하니까요.
+
+056. ELIAS: Please.
+    일라이어스: 그러세요.
+
+057. AKERS: Colonel Maïga has already called the video a fake. If we say "genocide," he hears that we're accusing his army, whether we name it or not. Every channel we've built since March closes the same afternoon.
+    에이커스: 마이가 대령은 벌써 영상을 가짜라고 했습니다. 우리가 '제노사이드'라고 하면, 그 사람은 군대를 지목하든 안 하든 자기 군을 고발한다고 들을 겁니다. 3월 이후 만든 채널이 전부 그날 오후에 닫히죠.
+
+058. ELIAS: Are we accusing his army?
+    일라이어스: 우리가 그 사람 군을 고발하는 건가요?
+
+059. AKERS: We don't know who did it. Uniforms without insignia. That's my point. "Genocide" sounds like an accusation even when it's only a description.
+    에이커스: 누가 했는지 모릅니다. 계급장 없는 군복이요. 제 말이 그겁니다. '제노사이드'는 묘사일 뿐이어도 고발처럼 들려요.
+
+060. ELIAS: Then we describe and we don't accuse. We say genocide was committed against Peul civilians in Kourou-Béri, and we say, in the same paragraph, that we don't yet know by whom.
+    일라이어스: 그럼 묘사만 하고 고발은 안 하면 돼요. 쿠루베리에서 풀라니 민간인을 상대로 제노사이드가 자행됐다고 말하고, 같은 문단에서 누가 했는지는 아직 모른다고 말하는 거죠.
+
+061. SATTERFIELD: A genocide without a perpetrator. That's a new one.
+    새터필드: 가해자 없는 제노사이드라. 처음 듣는 얘기네요.
+
+062. ELIAS: Not without one. Without a name yet. Srebrenica had a perpetrator for years before the tribunal wrote his name in the judgment.
+    일라이어스: 가해자가 없는 게 아니에요. 아직 이름이 없는 거지. 스레브레니차도 재판부가 판결문에 이름을 쓰기 전에 몇 년 동안 가해자가 있었어요.
+
+063. SATTERFIELD: Srebrenica is my case, not yours. Eight thousand men and boys, an organized operation, and the Krstić appeals chamber in two thousand four still had to explain why one town could count as "a part" of a group.
+    새터필드: 스레브레니차는 제 사례지 부장관님 사례가 아닙니다. 남자와 소년 8천 명, 조직된 작전이었고, 2004년 크르스티치 항소심도 한 도시가 어떻게 집단의 '일부'로 인정될 수 있는지 설명해야 했습니다.
+
+064. ELIAS: And it did explain it. The size of the town didn't decide it. What the killers meant to do to the people in it did.
+    일라이어스: 그리고 설명했죠. 도시 크기가 판결을 정한 게 아니었어요. 가해자들이 거기 사람들한테 뭘 하려 했는지가 정했죠.
+
+065. SATTERFIELD: Fine. Then answer me as a lawyer would. What do you have on intent that isn't hearsay?
+    새터필드: 좋습니다. 그럼 변호사처럼 답해 주십시오. 전문 증거가 아닌 의도의 증거로 뭘 갖고 계십니까?
+
+066. ELIAS: The video. Aïcha's desk cleaned up the soundtrack last week. At minute nine, a man says "only the Peul" in Fulfulde.
+    일라이어스: 영상이요. 지난주에 아이샤 팀이 음성 트랙을 깨끗하게 정리했어요. 9분쯤에 한 남자가 풀풀데어로 '풀라니만'이라고 해요.
+
+067. SAMIRA: Excuse me, Deputy Secretary. Minute nine, second fourteen. Three separate translators agreed on the words.
+    사미라: 실례합니다, 부장관님. 9분 14초요. 번역자 세 명이 각자 따로 같은 말이라고 했어요.
+
+068. SATTERFIELD: Three translators agree on two words. Hypothetically speaking, what if the man was repeating an order he disagreed with?
+    새터필드: 번역자 셋이 두 단어에 동의했다. 가정해서 말씀드리면, 그 남자가 동의하지 않는 명령을 되풀이한 거라면요?
+
+069. ELIAS: Then somebody gave the order. That's intent with a chain of command, which is worse for them, not better.
+    일라이어스: 그럼 누군가 명령을 내린 거죠. 지휘 계통이 붙은 의도예요. 그쪽한테 더 나쁘지, 더 좋은 게 아니에요.
+
+070. AKERS: And the list? I've heard there's a list.
+    에이커스: 그럼 명단은요? 명단이 있다고 들었는데요.
+
+071. ELIAS: There's a list nobody can trace, so it doesn't exist for our purposes. I won't put a page in the determination that I can't walk back to its source.
+    일라이어스: 아무도 출처를 못 대는 명단이 있죠. 그러니 우리 목적상 존재하지 않는 거예요. 출처까지 거슬러 갈 수 없는 쪽은 판정문에 한 장도 안 넣겠습니다.
+
+072. SATTERFIELD: That's the first thing you've said this morning that sounds like my office.
+    새터필드: 오늘 아침 하신 말씀 중에 처음으로 저희 실 말처럼 들리네요.
+
+073. ELIAS: Then let's finish the sentence together. What would it take for you to sign Option A?
+    일라이어스: 그럼 문장을 같이 끝내죠. A안에 서명하시려면 뭐가 있어야 하나요?
+
+074. SATTERFIELD: The list out. The perpetrators unnamed. A public commitment to an investigation we don't control. And the Secretary's signature, not yours. I'm not in a position to recommend it otherwise.
+    새터필드: 명단 제외. 가해자는 이름 밝히지 않을 것. 우리가 통제하지 않는 조사에 대한 공개 약속. 그리고 부장관님이 아니라 장관님 서명. 그렇지 않으면 저는 권고할 입장이 아닙니다.
+
+075. ELIAS: Done, done, done. The fourth one is the hard one.
+    일라이어스: 그거, 그거, 그것까진 됐어요. 네 번째가 어려운 거죠.
+
+076. AICHA: Deputy Secretary? I have six minutes. The generator here is in a bad mood.
+    아이샤: 부장관님? 6분 있어요. 여기 발전기가 기분이 안 좋아요.
+
+077. ELIAS: Then I'll be fast. The lawyers have agreed to drop the list. I wanted you to hear that from me.
+    일라이어스: 그럼 빨리 할게요. 변호사들이 명단을 빼기로 했어요. 그건 제 입으로 전하고 싶었어요.
+
+078. AICHA: Good. This morning I found out the list arrived in three other newsrooms on the same day. Paris, Abidjan, and a Telegram channel in Russian.
+    아이샤: 다행이에요. 오늘 아침에 알았는데, 그 명단이 같은 날 다른 보도국 세 곳에도 들어갔어요. 파리, 아비장, 그리고 러시아어 텔레그램 채널 하나요.
+
+079. ELIAS: Same day as you.
+    일라이어스: 당신이랑 같은 날.
+
+080. AICHA: Same hour. Real witnesses don't send their evidence to four newsrooms at once. Distributors do.
+    아이샤: 같은 시간이요. 진짜 목격자는 증거를 보도국 네 곳에 동시에 보내지 않아요. 유통업자가 그러죠.
+
+081. ELIAS: Has the Russian channel published it?
+    일라이어스: 러시아 채널이 공개했어요?
+
+082. AICHA: Not yet. I think they're waiting for you. If Washington cites it, they publish proof that it's fake the next morning. Then the survivors become liars too.
+    아이샤: 아직이요. 부장관님을 기다리는 것 같아요. 워싱턴이 인용하면 다음 날 아침 그게 가짜라는 증거를 공개하겠죠. 그럼 생존자들까지 거짓말쟁이가 되는 거예요.
+
+083. ELIAS: Then they'll wait a long time. What does Niamey say this morning?
+    일라이어스: 그럼 오래 기다려야겠네요. 오늘 아침 니아메 분위기는요?
+
+084. AICHA: State radio says "the investigation continues." In Niamey that sentence means they know, and they're afraid.
+    아이샤: 국영 라디오는 '조사가 계속되고 있다'고 해요. 니아메에서 그 문장은 '알고 있고, 겁나 있다'는 뜻이에요.
+
+085. ELIAS: In Washington it usually means we haven't started.
+    일라이어스: 워싱턴에선 보통 '아직 시작도 안 했다'는 뜻인데요.
+
+086. AICHA: Same words, different capital. One more thing. Some families from Kourou-Béri are in Tillabéri now, in a school. They asked me what America will call it.
+    아이샤: 같은 말, 다른 수도죠. 하나 더요. 쿠루베리 가족들 일부가 지금 틸라베리의 한 학교에 있어요. 미국이 그걸 뭐라고 부를 거냐고 저한테 물었어요.
+
+087. ELIAS: What did you tell them?
+    일라이어스: 뭐라고 했어요?
+
+088. AICHA: That I don't speak for America. And that if you choose a soft word, I will publish that you chose it. The generator is dying. Goodbye.
+    아이샤: 전 미국을 대변하지 않는다고요. 그리고 부장관님이 순한 단어를 고르면, 고르셨다는 걸 기사로 내겠다고요. 발전기가 죽어 가요. 끊을게요.
+
+089. LENA: Elias, it's Lena. Quick question, and I'm asking before I write, which you'll notice is polite of me.
+    레나: 일라이어스, 레나예요. 짧게 하나 물을게요. 쓰기 전에 묻는 거예요. 제가 예의 바르다는 거 알아주세요.
+
+090. ELIAS: Noted. What is it?
+    일라이어스: 알아줄게요. 뭔데요?
+
+091. LENA: Forty minutes ago someone emailed me a draft from your Legal Adviser's office. Three options for Niger. The recommendation is "acts of genocide." Is that real?
+    레나: 40분 전에 누가 법률고문실 초안을 이메일로 보냈어요. 니제르 관련 선택지 셋이요. 권고안은 '제노사이드 행위'고요. 진짜예요?
+
+092. ELIAS: Who sent it?
+    일라이어스: 누가 보냈어요?
+
+093. LENA: A Gmail address made yesterday. Which tells me someone wanted it out before your meeting ended. You're not denying it, I notice.
+    레나: 어제 만든 지메일 주소요. 회의 끝나기 전에 누군가 이걸 내보내고 싶었다는 뜻이죠. 부인을 안 하시네요.
+
+094. ELIAS: I'm not going to deny a real draft. I'm also not going to confirm a draft that's going to be out of date by five o'clock.
+    일라이어스: 진짜 초안을 부인하진 않을 거예요. 다섯 시면 낡은 게 될 초안을 확인해 주지도 않을 거고요.
+
+095. LENA: That is the most interesting non-answer you've given me all year. I'll hold until tomorrow. Don't make me regret it.
+    레나: 올해 저한테 하신 대답 아닌 대답 중에 제일 흥미롭네요. 내일까지 보류할게요. 후회하게 만들지 마세요.
+
+096. SAMIRA: Before we go in. The draft Lena has went out at eleven-oh-two. The meeting ended at eleven-ten.
+    사미라: 들어가기 전에요. 레나가 받은 초안은 11시 2분에 나갔어요. 회의는 11시 10분에 끝났고요.
+
+097. ELIAS: Someone in a hurry again.
+    일라이어스: 또 누가 서둘렀네.
+
+098. SAMIRA: It's on the page. Under "Who was in a hurry?" With a question mark, not a name.
+    사미라: 페이지에 적었어요. '누가 서둘렀나?' 밑에요. 이름 말고 물음표로요.
+
+099. CALLAWAY: Come in, both of you. Elias, I've read Nora's memo. I liked Option C. It sounded like a grown-up.
+    캘러웨이: 둘 다 들어와. 일라이어스, 노라 메모 읽었어. 난 C안이 좋던데. 어른스럽게 들리더군.
+
+100. ELIAS: Nora's now willing to recommend Option A, sir, on four conditions. Three of them are met. The fourth is your signature.
+    일라이어스: 노라가 이제 A안을 권고할 의향이 있습니다, 장관님. 조건 넷을 붙여서요. 셋은 충족됐습니다. 네 번째가 장관님 서명입니다.
