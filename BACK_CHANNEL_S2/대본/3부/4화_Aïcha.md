@@ -46,8 +46,8 @@
 010. ELIAS: And where is it on your list, Samira? Which page?
     일라이어스: 그건 네 목록 어디에 있어, 사미라? 어느 페이지?
 
-011. SAMIRA: On the fake list, where it belongs. The video I put on the other page. The page for things that are real and nobody believes.
-    사미라: 가짜 목록에요. 있어야 할 자리죠. 영상은 다른 페이지에 적었어요. 진짜인데 아무도 안 믿는 것들 페이지요.
+011. SAMIRA: On the fake list. F-10, where it belongs. The video I put on the other page, the one for things that are real and nobody believes.
+    사미라: 가짜 목록에요. F-10, 있어야 할 자리죠. 영상은 다른 페이지에 적었어요. 진짜인데 아무도 안 믿는 것들 페이지요.
 
 012. ELIAS: That page is going to get long this spring.
     일라이어스: 그 페이지, 이번 봄에 길어지겠다.

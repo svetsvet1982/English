@@ -184,8 +184,8 @@
 056. ELIAS: Please.
     일라이어스: 그러세요.
 
-057. AKERS: Colonel Maïga has already called the video a fake. If we say "genocide," he hears that we're accusing his army, whether we name it or not. Every channel we've built since March closes the same afternoon.
-    에이커스: 마이가 대령은 벌써 영상을 가짜라고 했습니다. 우리가 '제노사이드'라고 하면, 그 사람은 군대를 지목하든 안 하든 자기 군을 고발한다고 들을 겁니다. 3월 이후 만든 채널이 전부 그날 오후에 닫히죠.
+057. AKERS: Colonel Maïga called the video a fake in March, and now he says he's investigating it. If we say "genocide," he hears that we're accusing his army, whether we name it or not. Every channel we've built since March closes the same afternoon.
+    에이커스: 마이가 대령은 3월엔 영상을 가짜라고 했고, 지금은 직접 조사 중이라고 합니다. 우리가 '제노사이드'라고 하면, 그 사람은 군대를 지목하든 안 하든 자기 군을 고발한다고 들을 겁니다. 3월 이후 만든 채널이 전부 그날 오후에 닫히죠.
 
 058. ELIAS: Are we accusing his army?
     일라이어스: 우리가 그 사람 군을 고발하는 건가요?

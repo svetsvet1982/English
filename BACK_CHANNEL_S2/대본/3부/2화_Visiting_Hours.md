@@ -322,8 +322,8 @@
 102. MAGGIE: With a nice view of a parking lot. How's Rosie?
     매기: 주차장 경치가 좋은. 로지는 어때?
 
-103. ELIAS: Waiting on her college. The regular decision comes at the end of the month. She says she's calm, which means she isn't.
-    일라이어스: 대학 결과 기다리고 있어요. 정시 결과가 이달 말에 나와요. 침착하다고 하는데, 그 말은 아니라는 뜻이죠.
+103. ELIAS: Waiting on her college. The regular decision comes out in early April. She says she's calm, which means she isn't.
+    일라이어스: 대학 결과 기다리고 있어요. 정시 결과가 4월 초에 나와요. 침착하다고 하는데, 그 말은 아니라는 뜻이죠.
 
 104. MAGGIE: Tell her the woman in khaki says the essay was good. Her mother sent me a copy in January. Don't look at me like that. Julia and I have always gotten along.
     매기: 카키색 입은 여자가 에세이 좋았다더라고 전해 줘. 걔 엄마가 1월에 한 부 보내 줬어. 그런 눈으로 보지 마. 줄리아랑 난 늘 잘 지냈어.
