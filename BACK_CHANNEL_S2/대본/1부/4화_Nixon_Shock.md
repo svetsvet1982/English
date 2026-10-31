@@ -428,31 +428,31 @@
     프랭크: 밥은 먹었니?
 
 138. ELIAS: I'm eating right now, Dad. Ramen, around the corner from the embassy. The counter's so narrow my elbows are in two prefectures.
-    일라이어스: 지금 먹고 있어요, 아빠. 대사관 옆 골목 라멘집이에요. 카운터가 너무 좁아서 팔꿈치가 두 현에 걸쳐 있어요.
+    일라이어스: 지금 먹고 있어, 아빠. 대사관 옆 골목 라멘집이야. 카운터가 너무 좁아서 팔꿈치가 두 현에 걸쳐 있어.
 
 139. FRANK: Good. You sound like a man who got something and paid for it.
     프랭크: 잘했다. 뭘 얻고 값도 치른 사람 목소리구나.
 
 140. ELIAS: I lied to a Japanese vice minister this morning, and by lunch it was true.
-    일라이어스: 오늘 아침에 일본 차관한테 거짓말을 했는데, 점심때 그게 사실이 됐어요.
+    일라이어스: 오늘 아침에 일본 차관한테 거짓말을 했는데, 점심때 그게 사실이 됐어.
 
 141. FRANK: That's not lying, that's forecasting. Let me tell you about 1971. I was eighteen, working a summer job at the NCR plant. July fifteenth, Nixon came on the TV in my father's living room and said "China," and my father put down his fork.
     프랭크: 그건 거짓말이 아니라 예보지. 1971년 얘기 하나 해 주마. 내가 열여덟이었고, 여름 내내 NCR 공장에서 일했어. 7월 15일, 우리 아버지 거실 텔레비전에 닉슨이 나와서 '중국'이라고 하니까 아버지가 포크를 내려놓으시더라.
 
 142. ELIAS: What did Grandpa say?
-    일라이어스: 할아버지가 뭐라고 하셨어요?
+    일라이어스: 할아버지가 뭐라고 하셨어?
 
 143. FRANK: He said, "I wonder who he didn't tell." Every big surprise has somebody on the other end who wasn't told.
     프랭크: "누구한테 안 알렸을까" 하시더라. 큰 깜짝 소식엔 늘 반대편에 통보 못 받은 누군가가 있는 법이야.
 
 144. ELIAS: Today that somebody had a photograph of his father on the wall.
-    일라이어스: 오늘 그 누군가는 벽에 자기 아버지 사진을 걸어 두고 있었어요.
+    일라이어스: 오늘 그 누군가는 벽에 자기 아버지 사진을 걸어 두고 있었어.
 
 145. FRANK: Then you did right. Rosie sent me her college essay draft, by the way. It's about you. She made me promise not to tell.
     프랭크: 그럼 잘한 거다. 그건 그렇고, 로지가 대학 에세이 초안을 보냈더라. 너에 관한 거야. 너한텐 말하지 말라고 약속까지 시켰는데.
 
 146. ELIAS: You just broke that promise.
-    일라이어스: 방금 그 약속 깨셨네요.
+    일라이어스: 방금 그 약속 깼네.
 
 147. FRANK: I'm seventy-six. I get one a year. Eat your noodles before they go soft.
     프랭크: 난 일흔여섯이야. 1년에 하나는 깨도 돼. 면 붇기 전에 먹어라.

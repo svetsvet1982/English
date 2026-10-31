@@ -425,25 +425,25 @@
     프랭크: 밥은 먹었니?
 
 137. ELIAS: Half a sandwich. It's on the desk, looking at me.
-    일라이어스: 샌드위치 반쪽이요. 책상 위에서 날 쳐다보고 있어요.
+    일라이어스: 샌드위치 반쪽. 책상 위에서 날 쳐다보고 있어.
 
 138. FRANK: Eat the other half. I watched the news. That voice almost had me, you know. Your mother would've caught it in two seconds.
     프랭크: 나머지 반도 먹어. 뉴스 봤다. 그 목소리에 나도 거의 넘어갈 뻔했어. 네 엄마였으면 2초 만에 알아챘을 거다.
 
 139. ELIAS: How?
-    일라이어스: 어떻게요?
+    일라이어스: 어떻게?
 
 140. FRANK: You never say "seventy-one." You say "nineteen seventy-one," the whole year, every time, like a history teacher's son. I made you do it at dinner for ten years.
     프랭크: 넌 절대 "71년"이라고 안 해. 매번 "1971년"이라고 연도를 다 말하지. 역사 선생 아들답게. 내가 10년 동안 저녁 식탁에서 그렇게 시켰잖니.
 
 141. ELIAS: Dad, that might be the most useful thing anyone's told me today.
-    일라이어스: 아빠, 그게 오늘 들은 말 중에 제일 쓸모 있는 말일지도 몰라요.
+    일라이어스: 아빠, 그게 오늘 들은 말 중에 제일 쓸모 있는 말일지도 몰라.
 
 142. FRANK: Rosie called, by the way. She wants you to read her college essay before November first. She says it's about you, so brace yourself.
     프랭크: 그나저나 로지가 전화했더라. 11월 1일 전에 대학 지원 에세이 좀 읽어 달래. 너에 관한 거라니까 각오해라.
 
 143. ELIAS: I'll read it tonight. Dad, I have to go. Samira's at the door.
-    일라이어스: 오늘 밤에 읽을게요. 아빠, 끊어야겠어요. 사미라가 문 앞에 있어요.
+    일라이어스: 오늘 밤에 읽을게. 아빠, 끊어야겠어. 사미라가 문 앞에 있어.
 
 144. SAMIRA: Lee Jae-won just called. For real this time.
     사미라: 이재원한테 전화 왔어요. 이번엔 진짜로요.

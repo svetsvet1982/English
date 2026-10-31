@@ -395,31 +395,31 @@
     프랭크: 일라이어스? 여긴 아침 8시니까 서울은 저녁이겠구나. 밥은 먹었니?
 
 127. ELIAS: Dad, did you know that in Korea, "Did you eat?" means hello?
-    일라이어스: 아빠, 한국에선 "밥 먹었니?"가 인사라는 거 알았어요?
+    일라이어스: 아빠, 한국에선 "밥 먹었니?"가 인사라는 거 알았어?
 
 128. FRANK: I did not. But it's the only question that matters, in any language.
     프랭크: 몰랐다. 하지만 어느 언어로든 중요한 질문은 그것뿐이지.
 
 129. ELIAS: I had bibimbap in the hotel lounge. Grace says I eat it wrong.
-    일라이어스: 호텔 라운지에서 비빔밥 먹었어요. 그레이스가 제가 잘못 먹는대요.
+    일라이어스: 호텔 라운지에서 비빔밥 먹었어. 그레이스가 내가 잘못 먹는대.
 
 130. FRANK: Who's Grace?
     프랭크: 그레이스가 누구냐?
 
 131. ELIAS: The interpreter who just saved my job. How was Thursday? Acheson?
-    일라이어스: 방금 제 일자리를 구해 준 통역관이요. 목요일은 어땠어요? 애치슨은요?
+    일라이어스: 방금 내 일자리를 구해 준 통역관. 목요일은 어땠어? 애치슨은?
 
 132. FRANK: Thirty-four people. A woman in the second row asked whether the speech was a mistake or a message. I told her the scariest part is that sometimes nobody knows, including the man who gave it.
     프랭크: 서른네 명 왔다. 둘째 줄의 한 부인이 그 연설이 실수였냐, 메시지였냐고 묻더라. 그래서 제일 무서운 건 연설한 본인을 포함해 아무도 모를 때가 있다는 거라고 했지.
 
 133. ELIAS: That's the week I'm having. Somebody made me give a speech I never gave.
-    일라이어스: 제가 딱 그런 한 주를 보내고 있어요. 누가 제가 하지도 않은 연설을 하게 만들었거든요.
+    일라이어스: 내가 딱 그런 한 주를 보내고 있어. 누가 내가 하지도 않은 연설을 하게 만들었거든.
 
 134. FRANK: Rosie played it for me on her phone. I told her it couldn't be you. You sounded like a man who'd slept.
     프랭크: 로지가 휴대폰으로 들려주더라. 너일 리가 없다고 했지. 잠을 잔 사람 목소리였거든.
 
 135. ELIAS: Go have your breakfast, Dad. A real one, not just coffee.
-    일라이어스: 아침 드세요, 아빠. 커피 말고 진짜 아침으로요.
+    일라이어스: 아침 먹어, 아빠. 커피 말고 진짜 아침으로.
 
 136. CALLAWAY: Bell sent me a readout. "The Korean side will consider the proposal." Is that a yes or a no?
     캘러웨이: 벨이 결과 보고를 보냈더군. "한국 측은 제안을 검토하겠다." 그거 '예'야, '아니요'야?

@@ -434,25 +434,25 @@
     프랭크: 밥은 먹었니?
 
 140. ELIAS: A sandwich at four. Samira made me. Dad, do you remember the Pueblo?
-    일라이어스: 4시에 샌드위치요. 사미라가 먹으라고 해서요. 아빠, 푸에블로호 기억나세요?
+    일라이어스: 4시에 샌드위치. 사미라가 먹으라고 해서. 아빠, 푸에블로호 기억나?
 
 141. FRANK: I was fifteen. I remember the photographs. North Korea released pictures of the crew, and half of them were giving the camera the finger. They told their guards it was a Hawaiian good luck sign.
     프랭크: 열다섯 살이었지. 사진들이 기억난다. 북한이 승무원 사진을 공개했는데 절반이 카메라에 가운뎃손가락을 들고 있었어. 경비병들한테는 그게 하와이식 행운의 표시라고 했다더라.
 
 142. ELIAS: And the guards believed them?
-    일라이어스: 경비병들이 믿었어요?
+    일라이어스: 경비병들이 믿었어?
 
 143. FRANK: For a while. Then a magazine back home explained what it meant, and the crew paid for it. Every message has a translator somewhere, son. Even a finger.
     프랭크: 한동안은. 그러다 미국 잡지가 그게 무슨 뜻인지 설명해 버렸고, 승무원들이 대가를 치렀지. 모든 메시지엔 어딘가에 통역사가 있는 법이야, 아들아. 손가락 하나에도.
 
 144. ELIAS: I refused to sign an apology today. A mother sat in my office and asked me why.
-    일라이어스: 오늘 사과 서한에 서명하는 걸 거절했어요. 어떤 어머니가 제 사무실에 앉아서 왜냐고 물었어요.
+    일라이어스: 오늘 사과 서한에 서명하는 걸 거절했어. 어떤 어머니가 내 사무실에 앉아서 왜냐고 물었어.
 
 145. FRANK: Did you tell her the truth?
     프랭크: 사실대로 말했니?
 
 146. ELIAS: All of it. She said she'd go on television and say my name.
-    일라이어스: 전부요. 텔레비전에 나가서 제 이름을 대겠다더라고요.
+    일라이어스: 전부. 텔레비전에 나가서 내 이름을 대겠다더라.
 
 147. FRANK: Then you did it right. The truth always costs something. Lies just send the bill later.
     프랭크: 그럼 제대로 한 거다. 진실은 늘 값을 치르게 하지. 거짓말은 청구서를 나중에 보낼 뿐이고.

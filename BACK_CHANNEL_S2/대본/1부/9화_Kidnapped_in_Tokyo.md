@@ -446,25 +446,25 @@
     프랭크: 밥은 먹었니?
 
 144. ELIAS: Dad, it's midnight in Tokyo. I had a rice ball in a police car.
-    일라이어스: 아빠, 도쿄는 자정이에요. 경찰차에서 주먹밥 하나 먹었어요.
+    일라이어스: 아빠, 도쿄는 자정이야. 경찰차에서 주먹밥 하나 먹었어.
 
 145. FRANK: That counts. Barely. The news says a North Korean was grabbed and then let go, and the Japanese police aren't saying anything.
     프랭크: 그것도 먹은 걸로 치마. 겨우. 뉴스에서 북한 사람 하나가 납치됐다가 풀려났다는데, 일본 경찰은 아무 말도 안 하더라.
 
 146. ELIAS: The Japanese police are very good at not saying anything. Tonight, so is Seoul. It's the first time they've been quiet together.
-    일라이어스: 일본 경찰은 아무 말도 안 하는 데 아주 능해요. 오늘 밤은 서울도 그렇고요. 두 나라가 같이 조용한 건 처음이에요.
+    일라이어스: 일본 경찰은 아무 말도 안 하는 데 아주 능해. 오늘 밤은 서울도 그렇고. 두 나라가 같이 조용한 건 처음이야.
 
 147. FRANK: Thursday at the library I'm doing 1973. Kim Dae-jung. Thirty-one people and the cookie man. Anything I should know?
     프랭크: 목요일 도서관 강좌에서 1973년 할 거다. 김대중. 서른한 명하고 쿠키 아저씨. 내가 알아야 할 게 있니?
 
 148. ELIAS: Tell them the plane is a good story, and they should enjoy it. Then tell them what actually worked was someone far away making the kidnappers' bosses afraid of the bill.
-    일라이어스: 비행기는 좋은 이야기니까 즐기라고 해 주세요. 그러고 나서, 실제로 통한 건 멀리 있는 누군가가 납치범들의 윗선한테 청구서를 겁나게 만든 거라고 말해 주세요.
+    일라이어스: 비행기는 좋은 이야기니까 즐기라고 해. 그러고 나서, 실제로 통한 건 멀리 있는 누군가가 납치범들의 윗선한테 청구서를 겁나게 만든 거라고 말해 줘.
 
 149. FRANK: That's the lesson I've been teaching for forty years, son. Most rescues are invoices.
     프랭크: 그게 내가 40년 동안 가르친 교훈이다, 얘야. 구출이란 대개 청구서야.
 
 150. ELIAS: Then I'm sending a few more invoices tomorrow, Dad. Starting with whoever "the consultant" is, and whoever told him which ramp.
-    일라이어스: 그럼 내일 청구서 몇 장 더 보낼게요, 아빠. '컨설턴트'라는 사람하고, 그 사람한테 어느 경사로인지 알려 준 사람부터.
+    일라이어스: 그럼 내일 청구서 몇 장 더 보낼게, 아빠. '컨설턴트'라는 사람하고, 그 사람한테 어느 경사로인지 알려 준 사람부터.
 
 ---
 

@@ -10,7 +10,7 @@
 > - 역사 사례: 1985년 플라자 합의 — 모리야마가 일본이 의료 지원 비용을 대겠다며 "동맹 간 합의의 값은 늘 한쪽이 더 낸다"는 기억으로 꺼낸다. 그가 "플라자가 일본의 잃어버린 10년을 만들었다"고 하자 사미라가 "일부일 뿐, 그 뒤 일본은행의 저금리와 거품이 나머지를 했다"고 바로잡는다
 > - 전술 태그: [설득] [유출] [거짓말] [배신의 복선]
 > - 이번 화의 핵심 표현: provenance / readout / IAEA access / synthetic audio / joint statement / on background / managing member / Did you say that? — Not in this room. / Results, Elias. And poetry.
-> - 복선/연결: 11화 조선중앙통신 발표 → 중국 의료팀(IAEA 선량 전문가 4명 포함) 입국, 같은 비행기로 도슨 남매 석방(6화의 '서명하고 부인하기' 거부가 지켜짐) · 사미라의 '진짜 방' · 레나가 넘긴 서버 청구서 → 델라웨어 유한회사 → 업무집행사원 '리지라인 스트래티지스'(버지니아 정치 컨설팅) → 2부 12화 PAC 이름, 4부 캘러웨이 · 캘러웨이가 매기의 유죄 인정 심리 날짜를 묻는다 · 일라이어스가 장관에게 리지라인을 말하지 않는다
+> - 복선/연결: 11화 조선중앙통신 발표 → 중국 의료팀(IAEA 선량 전문가 4명 포함) 입국, 같은 비행기로 도슨 남매 석방(6화의 '서명하고 부인하기' 거부가 지켜짐) · 사미라의 '진짜 방' · 레나가 넘긴 서버 청구서 → 델라웨어 유한회사 → 업무집행사원 '리지라인 스트래티지스'(버지니아 정치 컨설팅) → 2부 12화 PAC 이름 · 캘러웨이가 매기의 유죄 인정 심리 날짜를 묻는다 · 일라이어스가 장관에게 리지라인을 말하지 않는다
 
 ---
 
@@ -152,7 +152,7 @@
     일라이어스: 평양이 미국인들이 기계를 통해 말하는 걸 그만두면 손님들은 집에 갈 수 있다고 했거든요. 지난 월요일에 우리 대통령이 생방송으로 자기 목소리로 말했고, 의사들을 태운 비행기가 내렸어요. 카일 씨 남매는 그 돌아오는 편이었던 거예요.
 
 046. KYLE: They kept asking my sister to sign an apology. She wouldn't.
-    카일: 누나한테 사과 편지에 서명하라고 계속 그랬어요. 누나는 안 했어요.
+    카일: 동생한테 사과 편지에 서명하라고 계속 그랬어요. 동생은 안 했어요.
 
 047. ELIAS: They were right about that. A false apology would've gotten you out a week sooner and made the next family's wait much longer.
     일라이어스: 그건 맞는 말이었어요. 거짓 사과를 했으면 일주일 일찍 나왔겠지만, 다음 가족의 기다림은 훨씬 길어졌을 거예요.
@@ -311,7 +311,7 @@
     프랭크: 좋은 사람이구나. 뉴스에서 도슨 남매 봤다. 여자애는 누굴 한 대 치고 싶은 얼굴이더라.
 
 099. ELIAS: Her brother says that's a good sign.
-    일라이어스: 남동생 말로는 그게 좋은 신호래.
+    일라이어스: 오빠 말로는 그게 좋은 신호래.
 
 100. ROSIE: Dad, Grandpa did a whole lecture on the armistice on Thursday. Thirty-four people. He played your sentence at the end.
     로지: 아빠, 할아버지가 목요일에 정전협정으로 강좌를 통째로 했어. 서른네 명 왔어. 마지막에 아빠 문장을 틀었고.

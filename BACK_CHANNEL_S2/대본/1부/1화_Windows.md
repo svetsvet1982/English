@@ -140,61 +140,61 @@
     프랭크: 여기 있구나. 국무부 부장관 일라이어스 그랜트. 새 방은 어떠냐?
 
 042. ELIAS: It has windows, Dad. I don't know what to do with them.
-    일라이어스: 창문이 있어요, 아빠. 어떻게 해야 할지 모르겠어요.
+    일라이어스: 창문이 있어, 아빠. 어떻게 해야 할지 모르겠어.
 
 043. FRANK: You look out of them. That's the whole instruction manual. Did you eat?
     프랭크: 내다보면 되지. 사용 설명서는 그게 다야. 밥은 먹었니?
 
 044. ELIAS: It's seven-forty. I had coffee.
-    일라이어스: 7시 40분이에요. 커피 마셨어요.
+    일라이어스: 7시 40분이야. 커피 마셨어.
 
 045. FRANK: Coffee is a liquid, son. Your mother used to say a man who skips breakfast negotiates like he's angry at the table.
     프랭크: 커피는 음료지, 아들아. 네 엄마가 늘 그랬잖니. 아침 거르는 남자는 테이블한테 화난 사람처럼 협상한다고.
 
 046. ELIAS: I'll find a muffin. How are the walks going?
-    일라이어스: 머핀 하나 찾아 먹을게요. 걷기 운동은 어때요?
+    일라이어스: 머핀 하나 찾아 먹을게. 걷기 운동은 어때?
 
 047. FRANK: Two miles yesterday. The therapist says I'm officially boring now.
     프랭크: 어제 3킬로 넘게 걸었다. 물리치료사가 이제 공식적으로 지루한 환자래.
 
 048. ELIAS: And the library? Rosie said you've got a full room on Thursdays now.
-    일라이어스: 도서관은요? 로지가 그러는데 요즘 목요일마다 자리가 꽉 찬다면서요.
+    일라이어스: 도서관은? 로지가 그러는데 요즘 목요일마다 자리가 꽉 찬다면서.
 
 049. FRANK: Thirty-one people and a man who only comes for the cookies. This Thursday I'm starting the Korean War.
     프랭크: 서른한 명에, 쿠키 먹으러만 오는 사람 하나. 이번 목요일엔 한국전쟁을 시작한다.
 
 050. ELIAS: Of course you are. The week I start on Korea.
-    일라이어스: 그러시겠죠. 하필 제가 한국 일 시작하는 주에.
+    일라이어스: 그러시겠지. 하필 내가 한국 일 시작하는 주에.
 
 051. FRANK: I'm opening with Dean Acheson at the National Press Club, January 1950. One speech, and historians are still arguing about a single sentence in it.
     프랭크: 1950년 1월 내셔널 프레스클럽의 딘 애치슨으로 시작할 거야. 연설 하나인데, 역사학자들은 아직도 그 안의 한 문장을 두고 싸우고 있지.
 
 052. ELIAS: The defensive perimeter. Aleutians, Japan, Ryukyus, Philippines. No Korea.
-    일라이어스: 방위선이요. 알류샨, 일본, 류큐, 필리핀. 한국은 없었죠.
+    일라이어스: 방위선. 알류샨, 일본, 류큐, 필리핀. 한국은 없었지.
 
 053. FRANK: Five months later, the North came across the 38th parallel. Now, my question for the class is whether one sentence started a war, or whether we just like stories where words matter that much.
     프랭크: 다섯 달 뒤에 북한이 38선을 넘었지. 그래서 수강생들한테 던질 질문은 이거야. 문장 하나가 전쟁을 일으켰을까, 아니면 우리가 말이 그렇게까지 중요한 이야기를 좋아하는 걸까.
 
 054. ELIAS: What's the answer?
-    일라이어스: 답이 뭔데요?
+    일라이어스: 답이 뭔데?
 
 055. FRANK: The honest answer is that Stalin and Kim had their own reasons, and the speech was one ingredient. But nobody in Moscow read it and thought, "Washington will fight for Seoul."
     프랭크: 정직한 답은, 스탈린과 김일성에겐 그들 나름의 이유가 있었고 그 연설은 재료 하나였다는 거야. 하지만 모스크바에서 그걸 읽고 "워싱턴이 서울을 위해 싸우겠군" 하고 생각한 사람은 없었겠지.
 
 056. ELIAS: So the lesson is, be careful what you leave off a list.
-    일라이어스: 그러니까 교훈은, 목록에서 뭘 빼는지 조심하라는 거네요.
+    일라이어스: 그러니까 교훈은, 목록에서 뭘 빼는지 조심하라는 거네.
 
 057. FRANK: The lesson is that the other side hears the sentence you didn't mean to say louder than the ten you did.
     프랭크: 교훈은, 상대는 네가 하려던 열 문장보다 하려고 하지 않았던 한 문장을 더 크게 듣는다는 거야.
 
 058. ELIAS: I'm going to steal that.
-    일라이어스: 그거 훔쳐 쓸게요.
+    일라이어스: 그거 훔쳐 쓸게.
 
 059. FRANK: You always do. Call Rosie tonight. She's writing her college essay and won't tell me what it's about, which means it's about you.
     프랭크: 늘 그러잖니. 오늘 밤에 로지한테 전화해라. 대학 에세이를 쓰는데 무슨 내용인지 말을 안 해. 그 말은 네 얘기라는 거지.
 
 060. ELIAS: I'll call her. Eat something yourself, Dad. Not just cookies.
-    일라이어스: 전화할게요. 아빠도 뭐 좀 드세요. 쿠키 말고요.
+    일라이어스: 전화할게. 아빠도 뭐 좀 먹어. 쿠키 말고.
 
 061. CALLAWAY: Elias. Sit. First day, and you already look like a man who's read too much.
     캘러웨이: 일라이어스. 앉아. 첫날인데 벌써 너무 많이 읽은 사람 얼굴이네.
