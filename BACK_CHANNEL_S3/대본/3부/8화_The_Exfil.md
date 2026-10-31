@@ -186,11 +186,11 @@
 056. LUKIN: Mr. Grant. I came down the outside stairs. Like a boy. With this.
     루킨: 그랜트 씨. 바깥 계단으로 내려왔어요. 어린애처럼. 이걸 들고요.
 
-057. ELIAS: The briefcase. Has anyone opened it since May?
-    일라이어스: 서류 가방이군요. 5월 이후로 누가 연 적 있어요?
+057. ELIAS: The briefcase. You brought it home today?
+    일라이어스: 서류 가방이군요. 오늘 집에 가져온 거예요?
 
-058. LUKIN: Only me. Every night. To be sure it is still true.
-    루킨: 저만요. 매일 밤. 아직도 사실인지 확인하려고요.
+058. LUKIN: At lunch, from where it was sleeping. Nobody opened it.
+    루킨: 점심때요, 그게 자고 있던 곳에서. 아무도 안 열었어요.
 
 059. ELIAS: Viktor, listen. Ottawa hasn't decided yet. Until it does, you're simply visiting your neighbour. That's all this is.
     일라이어스: 빅토르, 들어 봐요. 오타와는 아직 결정 안 했어요. 결정할 때까지 당신은 그냥 이웃집에 놀러 온 거예요. 지금은 그게 전부예요.

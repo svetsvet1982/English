@@ -11,7 +11,7 @@
 > - 역사 사례: 아이젠하워의 '오픈 스카이' 제안 (1955년 7월 제네바 정상회담) — 루킨이 "우리 역사책에선 미국의 첩보 속임수라고 한다"고 하자, 일라이어스는 흐루쇼프가 실제로 그렇게 불렀고 이듬해 미국이 U-2기를 띄웠으니 "완전히 틀린 말은 아니었다"고 인정하면서도, '양쪽이 다 볼 수 있으면 누구도 기습에 쓸 수 없다'는 생각이 결국 1992년 헬싱키에서 조약이 됐다고 설득한다. 공개가 무기가 되는 방식이 이번 화의 세 번째 문이다
 > - 전술 태그: [설득] [비밀] [유출] [거짓말] [공갈]
 > - 이번 화의 핵심 표현: chain of custody / certified copy / hash (fingerprint) / acknowledge receipt vs. accept / confidential vs. buried / ICRC Central Tracing Agency / ombudsman / The original goes to no one. / Nobody pays for what's free.
-> - 영사 업무 장면: 파벨 흐린케비치의 B-1 인터뷰 — 사본만 가져온 고용 증명서, 221(g)로 원본 요청(001~014) · 증거 관리 연속성(봉인·지문값·서명 진술서, 040~052) · 뉘앙스 장면: ICRC의 "confidentially"는 '묻어 둔다'가 아니다(077~080) · 카타르의 "acknowledges receipt"와 "accepts"(083~085) · 랭글리의 "We'd appreciate a copy"(122~124)
+> - 영사 업무 장면: 파벨 흐린케비치의 B-1 인터뷰 — 사본만 가져온 고용 증명서, 221(g)로 원본 요청(001~014) · 증거 관리 연속성(카메라 앞 개봉·쪽수 대조·지문값·봉인, 048~053) · 뉘앙스 장면: ICRC의 "confidentially"는 '묻어 둔다'가 아니다(077~080) · 카타르의 "acknowledges receipt"와 "accepts"(083~085) · 랭글리의 "We'd appreciate a copy"(122~124)
 > - 복선/연결: 7화 프랭크의 등사기("모두가 가진 건 압수할 수 없다") → 이번 화의 해법 · 7화 카버의 '종이를 원하는 구매자' 무산 · 8화에서 봉인한 가방, 7/12(월) 글로리아 면담(유출 경로는 이름 없이) · 10화: 명단은 제네바·도하·키이우에, 러시아 외무장관 "하급 관리의 도발", 나디아 "19개 배치 코드 일치", 체스 기권 · 카버 "종이 대신 사람을 산다" → 12화 피에르뤽에게 다음 일
 
 ---
@@ -84,8 +84,8 @@
 022. ELIAS: Whoever he is, he's okay. Go back down before Marisol sends a search party.
     일라이어스: 누구든 간에 무사해. 마리솔이 수색대 보내기 전에 내려가.
 
-023. NADIA: Sit down. This room was swept at seven. Mr. Lukin has been here since eight, reading the newspaper upside down.
-    나디아: 앉아요. 이 방은 7시에 도청 검사 끝났어요. 루킨 씨는 8시부터 여기서 신문을 거꾸로 읽고 있고요.
+023. NADIA: Sit. Room swept at seven. He's reading upside down.
+    나디아: 앉아요. 방은 7시에 도청 검사 끝났어요. 이분은 신문을 거꾸로 읽고 있고요.
 
 024. LUKIN: It is a Canadian newspaper. Upside down, it makes the same sense.
     루킨: 캐나다 신문이잖아요. 거꾸로 읽어도 말이 되는 정도는 똑같아요.
@@ -102,8 +102,8 @@
 028. ELIAS: Moscow wants it back. And a man calling himself Lowell wants to buy it.
     일라이어스: 모스크바는 되찾고 싶어 하고요. 로웰이라고 하는 남자는 사고 싶어 하죠.
 
-029. NADIA: So, four buyers, one briefcase. In my experience, that ends with somebody's door being opened with a key.
-    나디아: 그러니까 구매자 넷에 가방 하나. 내 경험상 그런 건 누군가의 문이 열쇠로 열리면서 끝나요.
+029. NADIA: Four buyers, one briefcase. That ends badly.
+    나디아: 구매자 넷에 가방 하나. 끝이 안 좋죠.
 
 030. ELIAS: It ends the moment nobody owns it. As long as one person owns that list, the children on it are inventory.
     일라이어스: 아무도 그걸 소유하지 않는 순간 끝나요. 한 사람이라도 그 명단을 갖고 있는 한, 거기 적힌 아이들은 재고품이에요.
@@ -126,11 +126,11 @@
 036. ELIAS: Not anyone who could be tempted to trade it. Including my government, and, with respect, including yours.
     일라이어스: 거래하고 싶은 유혹을 받을 만한 곳은 다 빼고요. 우리 정부도, 그리고 실례지만 당신네 정부도요.
 
-037. LUKIN: In our history books, there is a name for this kind of American generosity. Eisenhower, Geneva, "Open Skies." They teach it as a spy trick.
-    루킨: 우리 역사책에는 이런 미국식 관대함을 부르는 이름이 있어요. 아이젠하워, 제네바, '오픈 스카이'. 첩보 속임수라고 가르치죠.
+037. LUKIN: In our history books, there is a special name for this kind of American generosity. Eisenhower, Geneva, 1955, "Open Skies." In the academy, they teach it to us as a spy trick.
+    루킨: 우리 역사책에는 이런 미국식 관대함을 부르는 특별한 이름이 있어요. 아이젠하워, 제네바, 1955년, '오픈 스카이'. 아카데미에선 그걸 첩보 속임수라고 가르쳐요.
 
-038. ELIAS: Khrushchev called it exactly that, in 1955. And the next summer, we started flying U-2s over Russia. So your history books aren't entirely wrong.
-    일라이어스: 1955년에 흐루쇼프가 딱 그렇게 불렀죠. 그리고 이듬해 여름 우리가 러시아 상공에 U-2기를 띄우기 시작했고요. 그러니 당신네 역사책이 완전히 틀린 건 아니에요.
+038. ELIAS: Khrushchev called it exactly that, to Eisenhower's face. And the very next summer, we started flying U-2s over Russia. So your history books aren't entirely wrong.
+    일라이어스: 흐루쇼프가 아이젠하워 면전에서 딱 그렇게 불렀죠. 그리고 바로 이듬해 여름, 우리가 러시아 상공에 U-2기를 띄우기 시작했고요. 그러니 당신네 역사책이 완전히 틀린 건 아니에요.
 
 039. LUKIN: You admit it. That is new for an American.
     루킨: 인정하시네요. 미국 사람치곤 새로운데요.
@@ -153,8 +153,8 @@
 045. LUKIN: A traitor, but not a key. You are very comforting, Mr. Grant.
     루킨: 배신자지만 열쇠는 아니다. 위로를 참 잘하시네요, 그랜트 씨.
 
-046. NADIA: Ottawa said yes at seven this morning. On one condition: Canada's name appears nowhere. Not on the cover note, not in the metadata.
-    나디아: 오타와가 오늘 아침 7시에 승인했어요. 조건은 하나. 캐나다 이름은 어디에도 나오지 않는다. 표지 메모에도, 메타데이터에도.
+046. NADIA: Ottawa said yes at seven this morning, on one condition: Canada's name appears nowhere. Not on the cover note, not in the metadata, not in anybody's memoirs.
+    나디아: 오타와가 오늘 아침 7시에 승인했어요. 조건은 하나. 캐나다 이름은 어디에도 나오지 않는다. 표지 메모에도, 메타데이터에도, 누구의 회고록에도.
 
 047. ELIAS: Then the sender is the owner. Viktor Lukin, who carried it out of a building with his own hands.
     일라이어스: 그럼 보내는 사람은 소유자예요. 자기 손으로 그걸 들고 건물을 나온 빅토르 루킨.
@@ -195,8 +195,8 @@
 059. ELIAS: I've thought about nothing else since Doha.
     일라이어스: 도하 이후로 다른 생각은 못 했어요.
 
-060. NADIA: Nine fifty-eight. Geneva is on screen one, Doha on two, Kyiv on three. Mr. Grant, beside the screens, not in front.
-    나디아: 9시 58분. 제네바는 1번 화면, 도하는 2번, 키이우는 3번. 그랜트 씨는 화면 옆에. 앞 말고.
+060. NADIA: Nine fifty-eight. Beside the screens, Mr. Grant.
+    나디아: 9시 58분. 화면 옆에 앉아요, 그랜트 씨.
 
 061. ELIAS: I'm not here. I'm at window four, holding a man's photocopies.
     일라이어스: 저는 여기 없어요. 4번 창구에서 남의 복사본 붙들고 있죠.
@@ -210,14 +210,14 @@
 064. IRYNA: Kyiv is ready. There are six of us in this room. Nobody has spoken for ten minutes.
     이리나: 키이우 준비됐어요. 이 방에 여섯 명이 있는데, 10분째 아무도 말을 안 해요.
 
-065. NADIA: Mr. Lukin is the sender. On my count, he sends one file to all three of you, at the same second. Three, two, one.
-    나디아: 보내는 사람은 루킨 씨입니다. 제가 세면, 루킨 씨가 파일 하나를 세 분께 같은 초에 보냅니다. 셋, 둘, 하나.
+065. NADIA: Mr. Lukin is the sender. On my count, he sends one file to all three of you, at the same second. Nobody receives it first. Three, two, one.
+    나디아: 보내는 사람은 루킨 씨입니다. 제가 세면, 루킨 씨가 파일 하나를 세 분께 같은 초에 보냅니다. 아무도 먼저 받지 않습니다. 셋, 둘, 하나.
 
 066. LUKIN: Sent.
     루킨: 보냈어요.
 
-067. NADIA: Please confirm receipt by reading the last six characters of the fingerprint. Geneva first, only because it's alphabetical.
-    나디아: 수신 확인으로 지문값 마지막 여섯 자리를 읽어 주십시오. 제네바가 먼저인 건 알파벳순이라서일 뿐입니다.
+067. NADIA: Confirm receipt: the fingerprint's last six characters.
+    나디아: 수신 확인 부탁드립니다. 지문값 마지막 여섯 자리요.
 
 068. MATHILDE: E, zero, seven, B, four, one.
     마틸드: E, 0, 7, B, 4, 1.
@@ -273,8 +273,8 @@
 085. JASSIM: "Accept" would mean we agree with it, Mr. Lukin. "Acknowledge" means we have it and we can read. A mediator must not agree with anything until the end.
     자심: '수락'이라고 하면 저희가 그 내용에 동의한다는 뜻이 됩니다, 루킨 씨. '수령 확인'은 갖고 있고 읽을 수 있다는 뜻이고요. 중재자는 끝날 때까지 무엇에도 동의하면 안 됩니다.
 
-086. ELIAS: Doctor, one more thing. Maksym Hrytsenko's line is on page one. His mother asked me to make sure someone noticed.
-    일라이어스: 박사님, 하나만 더요. 마크심 흐리첸코 줄은 첫 쪽에 있어요. 어머니가 누군가 꼭 봐 달라고 부탁하셨어요.
+086. ELIAS: Doctor, one more thing. Maksym Hrytsenko's line is in there. His mother asked me to make sure someone noticed.
+    일라이어스: 박사님, 하나만 더요. 거기 마크심 흐리첸코 줄이 있어요. 어머니가 누군가 꼭 봐 달라고 부탁하셨어요.
 
 087. JASSIM: I noticed it before you finished the sentence. The blue bicycle. I have not forgotten.
     자심: 말씀 끝나기 전에 이미 봤습니다. 파란 자전거. 잊지 않았습니다.
@@ -288,8 +288,8 @@
 090. LUKIN: My hands are shaking. Two months, and they wait until now.
     루킨: 손이 떨려요. 두 달 동안 가만있더니 이제야.
 
-091. NADIA: That's normal. Have some water. The debriefers will want to talk about your feelings, and I apologize in advance.
-    나디아: 정상이에요. 물 좀 마셔요. 디브리핑 담당자들이 당신 감정 얘길 하고 싶어 할 텐데, 미리 사과할게요.
+091. NADIA: That's normal. Have some water.
+    나디아: 정상이에요. 물 좀 마셔요.
 
 092. ELIAS: Nadia, Langley will call you within the hour. What do you tell them?
     일라이어스: 나디아, 랭글리가 한 시간 안에 전화할 거예요. 뭐라고 할 거예요?
@@ -303,8 +303,8 @@
 095. NADIA: This is Canada. Go back to your window, Elias. You were never in this building.
     나디아: 여긴 캐나다예요. 창구로 돌아가요, 일라이어스. 당신은 이 건물에 온 적 없어요.
 
-096. CARVER: Get in. Leave the door open, it's a hundred degrees. No, close it. I don't want the harbour to hear this.
-    카버: 타요. 문은 열어 둬요, 40도가 넘으니까. 아니, 닫아요. 항구가 이 얘길 듣는 건 싫으니까.
+096. CARVER: Get in. Close the door.
+    카버: 타요. 문 닫고.
 
 097. PIERRE-LUC: Mr. Lowell, you said noon. It's noon. I'm on my lunch.
     피에르뤽: 로웰 씨, 정오라고 하셨잖아요. 정오예요. 점심시간이고요.
@@ -321,8 +321,8 @@
 101. PIERRE-LUC: I don't know anything about a document. I told you that. I swear.
     피에르뤽: 전 문서에 대해 아무것도 몰라요. 말씀드렸잖아요. 맹세해요.
 
-102. CARVER: I know you don't. That's the problem. You told me he goes out on Thursdays. You didn't tell me he goes to the post office.
-    카버: 모르는 거 알아요. 그게 문제예요. 그가 목요일마다 나간다고는 했죠. 우체국에 간다고는 안 했고.
+102. CARVER: I know you don't. That's precisely the problem. You told me he goes out on Thursdays. You never told me that on Thursdays he goes to the post office.
+    카버: 모르는 거 알아요. 바로 그게 문제예요. 그가 목요일마다 나간다고는 했죠. 목요일마다 우체국에 간다는 말은 한 번도 안 했고.
 
 103. PIERRE-LUC: He didn't go anywhere today! He was at the window at eight-thirty. I saw him.
     피에르뤽: 오늘은 아무 데도 안 갔어요! 8시 반에 창구에 있었어요. 제가 봤어요.
@@ -354,8 +354,8 @@
 112. CARVER: For a man in my business, much worse. Nobody pays for what's free.
     카버: 내 업계 사람한테는 훨씬 나쁘죠. 공짜인 건 아무도 돈 주고 안 사니까.
 
-113. CARVER: He has a remarkable talent, your boss. He takes the most valuable thing in a room and makes it worthless by giving it to everybody.
-    카버: 당신 보스는 놀라운 재능이 있어요. 방 안에서 제일 값진 걸 집어서, 모두에게 줘 버리는 걸로 값어치를 없애 버리죠.
+113. CARVER: He has a remarkable talent, your boss. He walks into a room, picks up the most valuable thing in it, and makes it worthless by handing it to everybody at once.
+    카버: 당신 보스는 놀라운 재능이 있어요. 방에 들어가서 제일 값진 걸 집어 들고, 그걸 모두에게 한꺼번에 나눠 줘서 값어치를 없애 버리죠.
 
 114. PIERRE-LUC: Then let me go. Please. I'll pay you back. Whatever you gave me, I'll find it.
     피에르뤽: 그럼 보내 주세요. 제발요. 갚을게요. 주신 거 전부 어떻게든 마련할게요.
@@ -372,8 +372,8 @@
 118. CARVER: Go back to your passports. I'll call you when I need you. And Pierre-Luc? Eat something. You look like a man who's been honest by accident.
     카버: 여권 일로 돌아가요. 필요하면 연락할게요. 그리고 피에르뤽? 뭐라도 먹어요. 어쩌다 정직해져 버린 사람 얼굴이에요.
 
-119. GLORIA: Close the door. I've just spent forty minutes on the phone with Ottawa, and twenty with someone in Virginia who never gave me his name.
-    글로리아: 문 닫아요. 방금 오타와랑 40분, 그리고 끝까지 이름을 안 밝힌 버지니아의 누군가랑 20분 통화했어요.
+119. GLORIA: Close the door. I've just spent forty minutes on the phone with Ottawa, and twenty with a man in Virginia who never once gave me his name or his title.
+    글로리아: 문 닫아요. 방금 오타와랑 40분, 그리고 끝까지 이름도 직함도 한 번 안 밝힌 버지니아의 어떤 남자랑 20분 통화했어요.
 
 120. ELIAS: I'm sorry, Gloria.
     일라이어스: 죄송해요, 글로리아.
@@ -408,17 +408,17 @@
 130. ELIAS: The Red Cross will remember who didn't try to sell the list. That lasts longer.
     일라이어스: 적십자는 누가 명단을 팔려고 하지 않았는지 기억할 거예요. 그게 더 오래가요.
 
-131. GLORIA: Perhaps. Put it in writing, and then don't. And go home early. That's an order I'll deny giving.
-    글로리아: 그럴지도요. 서면으로 남겨요. 그리고 남기지 마요. 그리고 일찍 퇴근해요. 나중에 내린 적 없다고 할 명령이에요.
+131. GLORIA: Put it in writing. Then don't. Go home.
+    글로리아: 서면으로 남겨요. 그리고 남기지 마요. 집에 가요.
 
-132. NOUR: Za'atar or cheese? The nurse is here. She came straight from a shift and asked for you by name.
-    누르: 자타르, 아니면 치즈? 그 간호사 와 있어요. 근무 끝나고 바로 와서 당신 이름을 대고 찾았어요.
+132. NOUR: Za'atar or cheese? The nurse is waiting.
+    누르: 자타르, 아니면 치즈? 그 간호사가 기다려요.
 
 133. ELIAS: Whatever means I wasn't here. And whatever she hasn't eaten.
     일라이어스: 내가 여기 없었다는 뜻이 되는 걸로요. 그리고 저분이 아직 못 먹은 걸로요.
 
-134. OKSANA: Mr. Grant. Iryna called me at six. A briefing for families. She said Maksym's name is now in Geneva, in Doha, and in Kyiv.
-    옥사나: 그랜트 씨. 이리나가 6시에 전화했어요. 가족 설명회요. 마크심 이름이 이제 제네바에도, 도하에도, 키이우에도 있대요.
+134. OKSANA: Mr. Grant. Iryna called me at six. A briefing for families, on video. She said Maksym's name is now in Geneva, in Doha, and in Kyiv, all at once.
+    옥사나: 그랜트 씨. 이리나가 6시에 전화했어요. 가족 화상 설명회요. 마크심 이름이 이제 제네바에도, 도하에도, 키이우에도 한꺼번에 있대요.
 
 135. ELIAS: It is. On three desks, in three cities, at the same second.
     일라이어스: 맞아요. 세 도시의 책상 세 개에, 같은 초에요.

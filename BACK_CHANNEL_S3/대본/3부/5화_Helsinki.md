@@ -485,7 +485,7 @@
 - **voluntary repatriation** — 자발적 송환 원칙(한국전쟁 포로 협상) (093)
 - **claim for protection / non-refoulement** — 보호 신청 / 위험한 나라로 강제 송환 금지 (112)
 - **defector** — 망명자. "He isn't a defector yet." (113)
-- **It was a forecast.** — 협박이 아니라 예보(2부에서 파리사에게 배운 화법의 재사용) (116)
+- **It was a forecast.** — 협박이 아니라 예보(2부 9화에서 파리사가 '그에게 배웠다'던 일라이어스의 화법) (116)
 - **The man is not for sale.** — 이번 화의 거절 (127)
 - **sell umbrellas before it rains / take orders** — 물건도 없이 먼저 주문을 받는 브로커 (139)
 

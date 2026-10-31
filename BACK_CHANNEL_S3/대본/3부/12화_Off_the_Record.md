@@ -11,7 +11,7 @@
 > - 역사 사례: 줄리어스·에설 로젠버그 사건과 가족이 치른 대가(1951~53) — 피에르뤽이 "돈 때문에 뭘 판 사람들은 어떻게 되냐"고 돌려 묻자, 일라이어스는 로젠버그 부부의 처형과 남겨진 두 아들, 그리고 누나에게 불리한 증언을 했다가 수십 년 뒤 거짓을 인정한 동생 데이비드 그린글래스 이야기를 들려준다. "제때 진실을 말하는 것과 살려고 이야기를 지어내는 건 다르다"는 설득이다
 > - 전술 태그: [설득] [배신] [공갈] [비밀] [유출]
 > - 이번 화의 핵심 표현: off the record / on background / not for attribution / I'm not able to approve your application today. / Hypothetically speaking… / cooperating witness / When you're ready, tell someone with a badge. / plausible deniability / interdiction
-> - 영사 업무 장면: 계약 만료가 다가온 임시 취업 허가 소지자의 B-2 거절(214(b))과 '다음에 무엇이 달라져야 하는지'를 알려 주는 정중한 거절(005~026) · 뉘앙스 장면: 레나가 "off the record / on background / not for attribution"의 차이를 풀어 주고, 일라이어스는 "당신과는 '오프 더 레코드'가 없다, '나중에'만 있을 뿐"이라고 받는다(039~045)
+> - 영사 업무 장면: 계약 만료가 다가온 임시 취업 허가 소지자의 B-2 거절(214(b))과 '다음에 무엇이 달라져야 하는지'를 알려 주는 정중한 거절(005~026) · 뉘앙스 장면: 레나가 "off the record / on background / not for attribution"의 차이를 풀어 주고, 일라이어스는 "당신과는 '오프 더 레코드'가 없다, '나중에'만 있을 뿐"이라고 받는다(035~044)
 > - 복선/연결: 2부 12화 "Not yet." → 이번 화 "When you're ready, tell someone with a badge." → 4부 6화 나디아에게 자수 · 1부 12화 금고 봉투(피에르뤽이 말을 꺼내다 멈춤) · 2부 11화 레나의 봉투를 배달시킨 사람 = '캐시미어 코트에 팁을 준 남자'(일라이어스는 로웰을 떠올리지만 말하지 않음) · 카버의 다음 일 = 어선 선원들의 비자 기록 조회와 '정보업체'와의 연락 대행(4부 1화 공습, 4부 6화 자백, 4부 10화 업체 폐업) · 3부 1화 프랭크 "Keep the kid in the room." · 피에르뤽은 노동절 다음 날(9/7) 위층 비자과 복귀
 
 ---
@@ -21,8 +21,8 @@
 001. PIERRE-LUC: Boss. Surprise. Marisol is releasing me from the passport line after Labor Day. I'm back upstairs on the seventh.
     피에르뤽: 보스. 서프라이즈예요. 마리솔이 노동절 지나면 여권 줄에서 풀어 준대요. 7일부터 다시 위층이에요.
 
-002. ELIAS: Congratulations. Did she say why?
-    일라이어스: 축하해. 이유는 말했어?
+002. ELIAS: Congratulations. Did she say why, or did she just look relieved?
+    일라이어스: 축하해. 이유는 말했어, 아니면 그냥 안도한 얼굴이었어?
 
 003. PIERRE-LUC: She said the summer peak is over, and that I talk to the brides too much. Is number seven yours, or should I take him?
     피에르뤽: 여름 성수기 끝났고, 제가 신부들이랑 수다를 너무 떤대요. 7번 보스가 받을 거예요, 아니면 제가 받을까요?
@@ -33,20 +33,20 @@
 005. WILMER: Good morning, sir. Wilmer Quiñónez. Ecuadorian passport. I'd like a tourist visa for Miami, ten days in October.
     윌메르: 안녕하세요. 윌메르 키뇨네스입니다. 에콰도르 여권이고요. 10월에 열흘 동안 마이애미 가는 관광비자를 받고 싶습니다.
 
-006. ELIAS: Morning, Mr. Quiñónez. What's in Miami?
-    일라이어스: 안녕하세요, 키뇨네스 씨. 마이애미엔 뭐가 있죠?
+006. ELIAS: Morning, Mr. Quiñónez. What's in Miami that can't wait until next year?
+    일라이어스: 안녕하세요, 키뇨네스 씨. 마이애미에 내년까지 못 기다릴 무슨 일이 있죠?
 
 007. WILMER: My mother. She turns seventy on the twelfth. My brother is coming from Manta, and my sister from Guayaquil. We haven't all been in one room since 2019.
     윌메르: 어머니요. 12일에 일흔이 되세요. 형은 만타에서, 누나는 과야킬에서 와요. 2019년 이후로 다 같이 한 방에 모인 적이 없어요.
 
-008. ELIAS: And in Montreal, you work as…?
-    일라이어스: 몬트리올에선 무슨 일을 하세요?
+008. ELIAS: And here in Montreal, what do you do for a living?
+    일라이어스: 그럼 여기 몬트리올에선 무슨 일을 하세요?
 
 009. WILMER: Line cook, in a hotel kitchen downtown. Before Canada, I worked on the boats, like my brother. Tuna. Eleven years at sea.
     윌메르: 시내 호텔 주방 요리사요. 캐나다 오기 전엔 형처럼 배를 탔어요. 참치요. 바다에서 11년.
 
-010. ELIAS: Your work permit expires in November.
-    일라이어스: 취업 허가가 11월에 만료되네요.
+010. ELIAS: Your Canadian work permit expires in November. That's three weeks after your trip.
+    일라이어스: 캐나다 취업 허가가 11월에 만료되네요. 여행 끝나고 3주 뒤예요.
 
 011. WILMER: The hotel is renewing it. They promised. The papers are with the lawyer.
     윌메르: 호텔에서 갱신해 준대요. 약속했어요. 서류는 변호사한테 있고요.
@@ -54,8 +54,8 @@
 012. ELIAS: Do you have anything from the lawyer, or from the hotel, saying the renewal was filed?
     일라이어스: 변호사나 호텔에서 갱신 신청을 했다는 서류가 있나요?
 
-013. WILMER: Not yet. The manager said, "Don't worry, Wilmer."
-    윌메르: 아직요. 매니저가 "걱정 마, 윌메르"라고 했어요.
+013. WILMER: Not yet. The manager said, "Don't worry, Wilmer." He says that about everything.
+    윌메르: 아직요. 매니저가 "걱정 마, 윌메르"라고 했어요. 그 사람은 뭐든 그렇게 말해요.
 
 014. ELIAS: Your lease?
     일라이어스: 임대 계약은요?
@@ -69,8 +69,8 @@
 017. WILMER: What does it ask?
     윌메르: 그럼 뭘 판단하라는데요?
 
-018. ELIAS: Whether you've shown me strong reasons to come back to Canada after ten days. Right now, your permit ends three weeks after the trip, and nothing in writing says it will continue.
-    일라이어스: 열흘 뒤에 캐나다로 돌아올 강한 이유를 보여 주셨는지요. 지금은 여행 끝나고 3주 뒤면 허가가 끝나고, 연장된다는 서면은 아무것도 없어요.
+018. ELIAS: Whether you've shown me strong reasons to come back to Canada after ten days. Right now, nothing in writing says your permit will continue past November.
+    일라이어스: 열흘 뒤에 캐나다로 돌아올 강한 이유를 보여 주셨는지요. 지금은 허가가 11월 이후에도 이어진다는 서면이 하나도 없어요.
 
 019. WILMER: So it's no.
     윌메르: 그러니까 안 된다는 거네요.
@@ -78,8 +78,8 @@
 020. ELIAS: I'm not able to approve your application today. You've been refused under section 214(b) of the Immigration and Nationality Act. This letter explains it.
     일라이어스: 오늘은 신청을 승인해 드릴 수 없습니다. 이민국적법 214(b)조에 따라 거절되셨어요. 이 서한에 설명이 있습니다.
 
-021. WILMER: My brother said Americans refuse fishermen first.
-    윌메르: 형이 그러더라고요. 미국 사람들은 어부부터 거절한다고.
+021. WILMER: My brother said the Americans always refuse the fishermen first. He was right.
+    윌메르: 형이 그러더라고요. 미국 사람들은 늘 어부부터 거절한다고. 형 말이 맞았네요.
 
 022. ELIAS: I didn't refuse a fisherman. I refused a file that's missing two pieces of paper. Bring me the renewed work permit and a written lease, and apply again. You don't have to wait.
     일라이어스: 저는 어부를 거절한 게 아니에요. 종이 두 장이 빠진 서류를 거절한 거죠. 갱신된 취업 허가랑 서면 임대 계약서를 가져와서 다시 신청하세요. 기다릴 필요 없어요.
@@ -105,8 +105,8 @@
 029. PIERRE-LUC: Boss, can I buy you a coffee tonight? At Nour's. Six-thirty. There's something I want to ask you about. It's not work. Well. It's a little bit work.
     피에르뤽: 보스, 오늘 저녁에 커피 한잔 사도 돼요? 누르네서요. 여섯 시 반. 물어보고 싶은 게 있어요. 일 얘긴 아니에요. 음. 조금은 일 얘기고요.
 
-030. ELIAS: Six-thirty. You're buying, so I'm ordering the cheese.
-    일라이어스: 여섯 시 반. 네가 사는 거니까 난 치즈 시킨다.
+030. ELIAS: Six-thirty. Since you're buying, I'm ordering the cheese, and you can't complain.
+    일라이어스: 여섯 시 반. 네가 사는 거니까 난 치즈 시킨다. 불평은 금지야.
 
 031. PIERRE-LUC: The cheese is the expensive one.
     피에르뤽: 치즈가 비싼 건데요.
@@ -117,14 +117,14 @@
 033. LENA: Mr. Grant. Lena Voss. Don't hang up. I called the switchboard like a civilian, and I waited through the hold music.
     레나: 그랜트 씨. 레나 보스예요. 끊지 마세요. 민간인처럼 교환대로 전화했고, 대기 음악도 끝까지 들었어요.
 
-034. ELIAS: Does the voicemail still say "Happy Holidays"?
-    일라이어스: 음성 사서함은 아직도 "즐거운 연휴 보내세요"예요?
+034. ELIAS: Ms. Voss. Does our voicemail still say "Happy Holidays," or did someone fix it?
+    일라이어스: 보스 씨. 우리 음성 사서함 아직도 "즐거운 연휴 보내세요"예요, 아니면 누가 고쳤어요?
 
 035. LENA: It's August. It does. I'm working on something, and I'd like to talk to you off the record.
     레나: 8월인데요. 그래요. 지금 뭘 좀 쓰고 있는데, 오프 더 레코드로 얘기하고 싶어요.
 
-036. ELIAS: About what?
-    일라이어스: 무슨 얘기요?
+036. ELIAS: Off the record about what, exactly? I have a window to run.
+    일라이어스: 정확히 뭘 오프 더 레코드로요? 나 창구 봐야 해요.
 
 037. LENA: A list of Ukrainian children that reached Geneva, Doha and Kyiv in the same hour in July. My source says it started in Montreal. In a visa section.
     레나: 7월에 제네바, 도하, 키이우에 같은 시간에 도착한 우크라이나 아이들 명단이요. 제 소식통 말로는 그게 몬트리올에서 시작됐대요. 비자과에서요.
@@ -135,8 +135,8 @@
 039. LENA: Fine. Off the record, I can't use it at all. I use it to know where to dig.
     레나: 좋아요. 오프 더 레코드면 전혀 쓸 수 없어요. 어디를 팔지 아는 데만 써요.
 
-040. ELIAS: And on background?
-    일라이어스: 그럼 '배경 설명'은요?
+040. ELIAS: And "on background"? I've heard that one used both ways.
+    일라이어스: 그럼 '배경 설명'은요? 그건 양쪽 뜻으로 다 쓰는 걸 들었어요.
 
 041. LENA: I can use it, and I call you "a U.S. official familiar with the matter." Deep background, I can use it, but I can't attribute it to anyone. It reads as if I just knew.
     레나: 쓸 수 있어요. 대신 당신을 "사안을 잘 아는 미국 관리"라고 부르죠. '심층 배경'이면 쓸 수는 있지만 누구 말이라고도 못 해요. 그냥 제가 원래 안 것처럼 읽혀요.
@@ -165,8 +165,8 @@
 049. LENA: Nobody tips a courier. And you just went quiet for three seconds, Mr. Grant. You know somebody who wears that coat.
     레나: 아무도 퀵서비스 기사한테 팁을 안 줘요. 그리고 방금 3초 동안 조용하셨어요, 그랜트 씨. 그 코트 입는 사람을 아는군요.
 
-050. ELIAS: Half of Washington wears cashmere.
-    일라이어스: 워싱턴 사람 절반이 캐시미어를 입어요.
+050. ELIAS: Half of Washington wears cashmere, Ms. Voss. The other half wants to.
+    일라이어스: 워싱턴 사람 절반이 캐시미어를 입어요, 보스 씨. 나머지 절반은 입고 싶어 하고요.
 
 051. LENA: In March? To a courier depot? Who is he?
     레나: 3월에요? 퀵서비스 지점에? 누구예요?
@@ -189,17 +189,17 @@
 057. NOUR: Za'atar or cheese?
     누르: 자타르, 아니면 치즈?
 
-058. ELIAS: Cheese, Nour. He's paying.
-    일라이어스: 치즈요, 누르. 얘가 사요.
+058. ELIAS: Cheese, Nour. And put it on his bill, he's paying tonight.
+    일라이어스: 치즈요, 누르. 계산은 얘 앞으로 해 줘요. 오늘은 얘가 사요.
 
 059. NOUR: Cheese means official. Is this official?
     누르: 치즈는 공식이라는 뜻인데. 이거 공식이에요?
 
-060. ELIAS: It means he's paying.
-    일라이어스: 얘가 산다는 뜻이에요.
+060. ELIAS: Tonight it only means he's paying. Nothing else is official.
+    일라이어스: 오늘 밤엔 얘가 산다는 뜻일 뿐이에요. 다른 건 하나도 공식 아니에요.
 
-061. PIERRE-LUC: Do you have poutine, by any chance?
-    피에르뤽: 혹시 푸틴 있어요?
+061. PIERRE-LUC: Do you have poutine, by any chance? Even a small one?
+    피에르뤽: 혹시 푸틴 있어요? 작은 거라도요?
 
 062. NOUR: This is a Lebanese café, habibi. I have dignity. Sit by the kitchen door. Nobody hears anything over my dishwasher.
     누르: 여긴 레바논 카페야, 하비비. 나도 자존심이 있지. 주방 문 옆에 앉아. 우리 식기세척기 소리 위로는 아무것도 안 들려.
@@ -207,8 +207,8 @@
 063. PIERRE-LUC: Rosie sent me a picture from La Banquise, the week she was here. She said you finished two whole plates and blamed it on her.
     피에르뤽: 로지가 여기 있던 주에 라 방키즈에서 사진 보냈어요. 보스가 두 접시 다 먹고 로지 탓을 했다던데요.
 
-064. ELIAS: That's a lie, and she'll testify to it.
-    일라이어스: 거짓말이야. 걔가 증언해 줄걸.
+064. ELIAS: That's a lie, and she'll testify to it under oath.
+    일라이어스: 거짓말이야. 걔가 선서하고 증언해 줄걸.
 
 065. PIERRE-LUC: She said you were different that week. Happy, but like a man who'd lost something, too.
     피에르뤽: 그 주에 보스가 좀 달랐대요. 행복한데, 뭘 잃어버린 사람 같기도 했다고.
@@ -228,8 +228,8 @@
 070. ELIAS: Hypothetically, that somebody at the consulate would be a very frightened person.
     일라이어스: 가정하자면, 그 영사관 사람은 아주 겁먹은 사람이겠네.
 
-071. PIERRE-LUC: What happens to him? If people find out?
-    피에르뤽: 그 사람은 어떻게 돼요? 사람들이 알게 되면요?
+071. PIERRE-LUC: So what happens to him? If people find out, I mean?
+    피에르뤽: 그럼 그 사람은 어떻게 돼요? 사람들이 알게 되면요?
 
 072. ELIAS: That depends on which people, and on whether he walks in or gets carried in.
     일라이어스: 그건 어떤 사람들이냐에 달렸지. 그리고 제 발로 걸어 들어가느냐, 끌려 들어가느냐에도.
@@ -279,20 +279,20 @@
 087. ELIAS: Yes. Which is why I'm the wrong person to tell.
     일라이어스: 응. 그러니까 난 그 얘길 들을 사람이 아니야.
 
-088. PIERRE-LUC: Then who's the right one?
-    피에르뤽: 그럼 누가 맞는 사람인데요?
+088. PIERRE-LUC: Then who's the right one, if it's not you?
+    피에르뤽: 그럼 보스가 아니면 누가 맞는 사람인데요?
 
 089. ELIAS: When you're ready, tell someone with a badge.
     일라이어스: 준비되면, 배지 단 사람한테 말해.
 
-090. PIERRE-LUC: A badge. Like the police?
-    피에르뤽: 배지요. 경찰 같은 거요?
+090. PIERRE-LUC: A badge. You mean like the police, or the RCMP, or worse?
+    피에르뤽: 배지요. 경찰 같은 거요? 기마경찰? 아니면 더 무서운 데요?
 
 091. ELIAS: Like someone whose job is to listen, and write it down, and protect the person who says it. Not a visa officer. Not a friend in a café.
     일라이어스: 듣고, 받아 적고, 말한 사람을 보호하는 게 일인 사람. 비자 담당관 말고. 카페에 있는 친구 말고.
 
-092. PIERRE-LUC: Are we friends?
-    피에르뤽: 우리 친구예요?
+092. PIERRE-LUC: Are we friends, boss? I mean actually friends, not just windows?
+    피에르뤽: 우리 친구예요, 보스? 그냥 옆 창구 말고, 진짜 친구요?
 
 093. ELIAS: You're buying me cheese. In Montreal that's practically a contract.
     일라이어스: 네가 나한테 치즈를 사잖아. 몬트리올에선 그거 거의 계약서야.
@@ -315,8 +315,8 @@
 099. ELIAS: One more piece of free advice, and then the cheese is paid for. Whatever it is, write it down tonight. Dates. Times. Amounts. While it's still yours to write.
     일라이어스: 공짜 조언 하나만 더 하고, 그걸로 치즈값 친 걸로 하자. 그게 뭐든 오늘 밤에 적어 둬. 날짜. 시간. 금액. 아직 네가 쓸 수 있을 때.
 
-100. PIERRE-LUC: Why are you being nice to me, boss?
-    피에르뤽: 보스, 왜 저한테 잘해 주세요?
+100. PIERRE-LUC: Why are you being so nice to me, boss? You don't have to be.
+    피에르뤽: 보스, 왜 저한테 이렇게 잘해 주세요? 안 그러셔도 되는데.
 
 101. ELIAS: Because you're the only one at the consulate who ever reported the ticket machine. And because it's a Monday.
     일라이어스: 영사관에서 번호표 기계 고장 신고한 사람이 너밖에 없으니까. 그리고 월요일이니까.
@@ -333,8 +333,8 @@
 105. ELIAS: I know, Nour.
     일라이어스: 알아요, 누르.
 
-106. NOUR: Then why didn't you take it from him?
-    누르: 그럼 왜 그걸 받아 주지 않았어요?
+106. NOUR: Then why didn't you take it from him? You saw it too.
+    누르: 그럼 왜 그걸 받아 주지 않았어요? 당신도 봤잖아요.
 
 107. ELIAS: Because if I take it, it's mine. He has to put it down himself, in the right place.
     일라이어스: 내가 받으면 그건 내 짐이 되니까요. 그 애가 직접, 맞는 자리에 내려놔야 해요.
@@ -354,8 +354,8 @@
 112. FRANK: Kept him in the room. I never asked him what was wrong at home. I just made sure the room was there, every day, until he was ready to tell me. It took until Christmas.
     프랭크: 교실에 남게 뒀지. 집에 무슨 일이 있냐고는 한 번도 안 물었다. 그냥 그 애가 말할 준비가 될 때까지, 매일, 교실이 거기 있게만 했어. 크리스마스까지 걸렸지.
 
-113. ELIAS: I'm only at August.
-    일라이어스: 난 아직 8월이야.
+113. ELIAS: I'm only at August, Dad. Christmas feels very far away.
+    일라이어스: 난 아직 8월이야, 아빠. 크리스마스는 너무 멀게 느껴져.
 
 114. FRANK: Then you've got till Christmas. Is he going to hurt somebody before then?
     프랭크: 그럼 크리스마스까지 시간이 있네. 그 전에 그 애가 누굴 다치게 할 것 같니?
@@ -369,8 +369,8 @@
 117. CARVER: You're late, Pierre-Luc, and you smell like a Lebanese café. Get in. The canal is lovely in the rain, and nobody walks along it at ten.
     카버: 늦었네요, 피에르뤽. 그리고 레바논 카페 냄새가 나요. 타요. 비 오는 운하는 근사하고, 열 시엔 여길 걷는 사람이 없거든요.
 
-118. PIERRE-LUC: I had coffee with a friend.
-    피에르뤽: 친구랑 커피 마셨어요.
+118. PIERRE-LUC: I had coffee with a friend. It's allowed, Mr. Lowell.
+    피에르뤽: 친구랑 커피 마셨어요. 그 정도는 되잖아요, 로웰 씨.
 
 119. CARVER: A friend who orders the cheese. I won't ask. July cost me a client, you know. Somebody photocopied a thing I'd been offered the original of.
     카버: 치즈 시키는 친구군요. 안 물을게요. 7월에 나 고객 하나 잃었어요, 알아요? 누가 내가 원본을 제안받았던 물건을 복사해 버렸거든요.
@@ -381,8 +381,8 @@
 121. CARVER: I know. When everybody owns a thing, nobody pays for it. That's the first lesson of my business. Here's the second. There's always another thing.
     카버: 알아요. 모두가 가진 물건엔 아무도 돈을 안 내요. 그게 내 업계의 첫 번째 교훈이에요. 두 번째는 이거고요. 물건은 늘 또 있다.
 
-122. PIERRE-LUC: I told you in June. I'm finished.
-    피에르뤽: 6월에 말했잖아요. 끝났다고요.
+122. PIERRE-LUC: I told you in June, Mr. Lowell. I'm finished. I meant it.
+    피에르뤽: 6월에 말했잖아요, 로웰 씨. 끝났다고요. 진심이었어요.
 
 123. CARVER: You did. And this job has nothing to do with Mr. Grant. Doesn't that make you happy?
     카버: 그랬죠. 그리고 이번 일은 그랜트 씨랑 아무 상관 없어요. 기쁘지 않아요?
@@ -396,14 +396,14 @@
 126. PIERRE-LUC: Aircraft.
     피에르뤽: 항공기요.
 
-127. CARVER: Interdiction, Pierre-Luc. Drugs. Boats full of things that kill teenagers in Ohio. It's practically patriotic work, and I'm not even American.
-    카버: 차단 작전이에요, 피에르뤽. 마약이요. 오하이오의 십 대들을 죽이는 물건이 가득 실린 배들. 거의 애국적인 일이죠. 난 미국인도 아닌데.
+127. CARVER: Interdiction, Pierre-Luc. Drugs. Boats full of things that kill teenagers in Ohio. It's practically patriotic work.
+    카버: 차단 작전이에요, 피에르뤽. 마약이요. 오하이오의 십 대들을 죽이는 물건이 가득 실린 배들. 거의 애국적인 일이죠.
 
-128. PIERRE-LUC: You're not?
-    피에르뤽: 미국 사람 아니에요?
+128. PIERRE-LUC: Patriotic for which country?
+    피에르뤽: 어느 나라한테 애국인데요?
 
-129. CARVER: Nobody is, at this hour. Fourteen names. Skippers and deckhands out of Manta, Esmeraldas and Buenaventura. Several have applied for American visas over the years.
-    카버: 이 시간엔 아무도 아니죠. 이름 열네 개예요. 만타, 에스메랄다스, 부에나벤투라에서 나가는 선장이랑 선원들. 그중 몇은 몇 년에 걸쳐 미국 비자를 신청했어요.
+129. CARVER: For whichever one is paying, at this hour. Fourteen names. Skippers and deckhands out of Manta, Esmeraldas and Buenaventura. Several have applied for American visas over the years.
+    카버: 이 시간엔 돈 내는 나라한테요. 이름 열네 개예요. 만타, 에스메랄다스, 부에나벤투라에서 나가는 선장이랑 선원들. 그중 몇은 몇 년에 걸쳐 미국 비자를 신청했어요.
 
 130. PIERRE-LUC: So their applications have phone numbers. Addresses. Employers.
     피에르뤽: 그러면 신청서에 전화번호가 있겠네요. 주소. 고용주.
@@ -423,8 +423,8 @@
 135. CARVER: That's half. The firm also needs a voice in Montreal. A phone. Messages come in from them, and you pass them on to a number I'll give you. You needn't read them.
     카버: 그건 반이에요. 그 회사는 몬트리올에 목소리도 하나 필요해요. 전화기 하나. 그쪽에서 메시지가 오면 당신이 내가 줄 번호로 넘기는 거예요. 읽을 필요도 없어요.
 
-136. PIERRE-LUC: Why Montreal? Why me?
-    피에르뤽: 왜 몬트리올이에요? 왜 저예요?
+136. PIERRE-LUC: Why Montreal? Why me? You could buy anyone in Miami.
+    피에르뤽: 왜 몬트리올이에요? 왜 저예요? 마이애미에서 아무나 사도 되잖아요.
 
 137. CARVER: Because one of the fourteen carries a Canadian passport. He won't be in your system. Canadians are much easier to find from Canada. Call it plausible deniability, for everyone except you.
     카버: 열네 명 중 한 명이 캐나다 여권을 갖고 있거든요. 당신네 시스템엔 없을 거예요. 캐나다인은 캐나다에서 찾는 게 훨씬 쉬워요. 그럴듯한 부인 가능성이라고 해 두죠. 당신만 빼고 모두를 위한.
@@ -447,8 +447,8 @@
 143. CARVER: That's a calendar. Here's the other page. Double the usual, September through November. After November, you're free.
     카버: 그건 달력이에요. 다른 쪽도 보여 줄게요. 9월부터 11월까지, 평소의 두 배. 11월이 지나면 자유예요.
 
-144. PIERRE-LUC: You said that about the debt.
-    피에르뤽: 빚 갚을 때도 그렇게 말했잖아요.
+144. PIERRE-LUC: You said exactly that about the debt, back in January.
+    피에르뤽: 1월에 빚 갚을 때도 똑같이 말했잖아요.
 
 145. CARVER: And you believed me, which is one of the things I like about you. Somebody gave you advice tonight. I can see it on your face. Was it good advice?
     카버: 그리고 당신은 믿었죠. 그게 내가 당신을 좋아하는 이유 중 하나예요. 오늘 밤 누가 당신한테 조언을 했네요. 얼굴에 다 쓰여 있어요. 좋은 조언이었어요?
@@ -459,11 +459,42 @@
 147. CARVER: Good. Then you won't mind this. There's a phone in the glove box. The fourteen names are already on it.
     카버: 좋아요. 그럼 이것도 괜찮겠네요. 글러브 박스에 전화기가 있어요. 이름 열네 개는 이미 들어 있고요.
 
-148. PIERRE-LUC: Send me the rest when you have it.
-    피에르뤽: 나머지는 생기면 보내 주세요.
+148. PIERRE-LUC: Fine. Send me the rest of it when you have it.
+    피에르뤽: 알았어요. 나머지는 생기면 보내 주세요.
 
 149. CARVER: Charge it every night, and don't save the number under anyone you love. The boats go out in September, Pierre-Luc.
     카버: 매일 밤 충전하고, 그 번호는 사랑하는 사람 이름으로 저장하지 마요. 배들은 9월에 나가요, 피에르뤽.
 
 150. CARVER: So do we. Eat something.
     카버: 우리도 그렇고요. 뭐라도 좀 먹어요.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **I'm not able to approve your application today.** — 오늘은 승인해 드릴 수 없습니다. 정중한 거절의 정석 (020)
+- **A refusal with a reason is a door with directions on it.** — 이유 있는 거절은 길 안내가 붙은 문이다 (022, 028)
+- **off the record** — 보도 불가. 취재 방향을 잡는 데만 쓴다 (035, 039)
+- **on background / deep background** — '미국 관리'처럼 익명 출처로 보도 가능 / 출처 표시 없이 기자가 아는 사실처럼만 보도 (040~041)
+- **not for attribution** — 발언을 그대로 인용하되 이름은 붙이지 않음 (042~043)
+- **With you there's no such thing as off the record. There's only "later."** — 당신과는 '오프 더 레코드'가 없고 '나중에'만 있다 (044)
+- **You just went quiet for three seconds.** — 방금 3초 침묵했다 = 침묵도 정보다 (049)
+- **Hypothetically speaking…** — 가정해서 말하자면. 자백 직전의 우회로 (067~070)
+- **walk in or get carried in** — 제 발로 들어가느냐, 끌려 들어가느냐 (072)
+- **half right, the most dangerous kind of right** — 반만 맞는 말이 제일 위험하다 (074)
+- **When you're ready, tell someone with a badge.** — 준비되면 배지 단 사람한테 말해 (089)
+- **cooperating witness** — 협조 증인. "미래가 들어 있는 말" (095)
+- **interdiction** — (해상·국경) 차단 작전 (127)
+- **plausible deniability** — 그럴듯한 부인 가능성. 카버: "당신만 빼고 모두를 위한" (137)
+- **Nobody audits boredom.** — 지루함은 아무도 감사하지 않는다 = 티 안 나게 하라 (133)
+
+## 역사 노트 (낭독하지 않음)
+
+- 줄리어스 로젠버그와 에설 로젠버그 부부는 소련에 원자폭탄 관련 기밀을 넘긴 간첩 공모 혐의로 1951년 3월 유죄 판결을 받았고, 1953년 6월 19일 뉴욕 싱싱 교도소에서 처형됐다. 냉전기 미국에서 간첩 혐의로 처형된 민간인은 이들뿐이다.
+- 줄리어스가 소련 정보기관에 협력했다는 사실은 이후 공개된 '베노나' 해독 문서 등으로 뒷받침됐다. 반면 에설의 역할은 오래 논쟁거리였다. 핵심 증거는 맨해튼 계획 시설에서 일했던 에설의 동생 데이비드 그린글래스가 "누나가 메모를 타자로 쳤다"고 한 증언이었는데, 그는 2001년 한 기자에게 그 부분을 실제로 기억하지 못했고 아내를 보호하려고 그렇게 말했다고 인정했다. 그린글래스는 징역 15년을 선고받았다.
+- 부부의 두 아들 마이클(당시 10세)과 로버트(당시 6세)는 작곡가 에이벌 미어로폴 부부에게 입양되어 '미어로폴'이라는 성으로 자랐다.
+- 극 중 활용: 피에르뤽은 할아버지에게 들은 '타자 친 엄마' 이야기로 돌려 묻고, 일라이어스는 그것이 "반만 맞는 말"이라고 바로잡는다. 그리고 청구서는 결국 집에 있는 사람들에게 간다는 것, 살려고 지어낸 이야기와 제때 맞는 사람에게 하는 진실은 다르다는 것을 들어 "배지 단 사람한테 말하라"고 설득한다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 4부 1화 "Eastern Pacific": 9월. 동태평양에서 '마약 운반선'이 공습을 받아 다섯 명이 숨진다. 그중 한 명은 캐나다 여권을 가진 어부였다. 그의 아내가 4번 창구가 아닌 시민 서비스 창구로 찾아온다.

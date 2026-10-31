@@ -25,8 +25,8 @@
 003. ORLOV: Here. I should tell you, they refused me last year.
     오를로프: 여기요. 미리 말씀드리는데, 작년에 거절당했어요.
 
-004. ELIAS: I can see that. Section 214(b) — the officer wasn't convinced you'd come back to Canada.
-    일라이어스: 기록에 있네요. 214(b) 조항이요. 담당관이 캐나다로 돌아오실 거라고 확신하지 못했다는 뜻이에요.
+004. ELIAS: I remember. Section 214(b). I was the officer, and I wasn't convinced you'd come back to Canada.
+    일라이어스: 기억해요. 214(b) 조항이었죠. 그때 담당관이 저였고, 캐나다로 돌아오실 거라고 확신하지 못했어요.
 
 005. ORLOV: I have lived in Montreal eleven years. I coach hockey for children. Where would I go?
     오를로프: 몬트리올에서 11년을 살았어요. 아이들 하키를 가르치고요. 제가 어디로 가겠어요?
@@ -49,8 +49,8 @@
 011. ORLOV: Everything. Also a letter from the league. Forty kids, they need me Saturday.
     오를로프: 다 있어요. 리그에서 써 준 편지도요. 애들이 마흔 명인데, 토요일엔 제가 있어야 해요.
 
-012. ELIAS: Mr. Orlov, if I'd been the officer last year, I'd have asked you about those forty kids before I ever looked at the nationality on your passport.
-    일라이어스: 오를로프 씨, 작년에 제가 담당이었으면 여권에 적힌 국적을 보기 전에 그 마흔 명 아이들 얘기부터 물어봤을 거예요.
+012. ELIAS: Mr. Orlov, last year the rules made me look at the nationality on your passport first. This year I'm looking at those forty kids.
+    일라이어스: 오를로프 씨, 작년엔 규정 때문에 여권에 적힌 국적부터 봐야 했어요. 올해는 그 마흔 명 아이들을 볼 겁니다.
 
 013. ORLOV: So this means… yes?
     오를로프: 그러니까… 된다는 건가요?

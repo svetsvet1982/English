@@ -120,8 +120,8 @@
 034. ELIAS: Good. Now the ICRC tracing request, from 2024.
     일라이어스: 좋아요. 이제 2024년에 낸 국제적십자위원회 추적 요청서요.
 
-035. OKSANA: Here. They call it "tracing." Like he is a parcel. But they answered every letter, which nobody else did.
-    옥사나: 여기요. 저쪽은 '추적'이라고 해요. 그 애가 소포인 것처럼. 그래도 편지마다 답장을 준 건 거기뿐이었어요.
+035. OKSANA: Here. They call it "tracing." Like he is a parcel. In three years, one answer: "We'll look into it."
+    옥사나: 여기요. 저쪽은 '추적'이라고 해요. 그 애가 소포인 것처럼. 3년 동안 답장은 한 번이었어요. "검토해 보겠습니다."
 
 036. ELIAS: And the DNA consent. You gave a sample in Ottawa?
     일라이어스: DNA 동의서는요? 오타와에서 샘플 내셨죠?
@@ -171,8 +171,8 @@
 051. IRYNA: That is the Russian spelling, Oksana. We see it on almost every file. It is not a typing mistake.
     이리나: 그건 러시아식 철자예요, 옥사나 씨. 거의 모든 파일에서 봐요. 오타가 아니에요.
 
-052. OKSANA: I know it is not a mistake. One letter, and he belongs to somebody else. His name is Maksym. With a "y."
-    옥사나: 실수가 아닌 거 알아요. 글자 하나로 그 애가 남의 것이 되는 거죠. 그 애 이름은 마크심이에요. 'y'로요.
+052. OKSANA: I know it is not a mistake. One letter, and he belongs to somebody else. His name is Maksym. With a "y." He signs his drawings with a big one.
+    옥사나: 실수가 아닌 거 알아요. 글자 하나로 그 애가 남의 것이 되는 거죠. 그 애 이름은 마크심이에요. 'y'로요. 그림에 서명할 때도 큰 Y를 써요.
 
 053. JASSIM: I will write it that way in my report. Is this your son?
     자심: 보고서에는 그렇게 적겠습니다. 이 아이가 아드님입니까?
@@ -183,8 +183,8 @@
 055. JASSIM: For the record, you identify a scar above the left eyebrow.
     자심: 기록상, 왼쪽 눈썹 위의 흉터로 확인하신 것으로 하겠습니다.
 
-056. OKSANA: And he holds the pencil in his left hand. They made him use the right one, in school, the first year. He came home crying.
-    옥사나: 그리고 연필을 왼손으로 쥐어요. 1학년 때 학교에서 오른손으로 쓰게 했거든요. 울면서 집에 왔어요.
+056. OKSANA: And look at his hand. He holds the pencil in his right. He is left-handed, Doctor. Someone has been correcting him.
+    옥사나: 그리고 손 좀 보세요. 연필을 오른손에 쥐고 있어요. 그 애는 왼손잡이예요, 박사님. 누가 고쳐 놓은 거예요.
 
 057. OKSANA: It is him. It is Maksym. Without doubt.
     옥사나: 그 애예요. 마크심이에요. 의심할 여지 없이요.
@@ -375,8 +375,8 @@
 119. PIERRE-LUC: Since May tenth. A Russian with a brown briefcase, number seven, before lunch. Security says he took him to room two and stamped nothing.
     피에르뤽: 5월 10일부터요. 갈색 서류 가방 든 러시아 사람, 번호표 7번, 점심 전이었어요. 경비 말로는 보스가 2번 면담실로 데려갔고 도장은 하나도 안 찍었대요.
 
-120. CARVER: You see? You did come to sell something.
-    카버: 봐요. 결국 뭘 팔러 온 거잖아요.
+120. CARVER: Number seven. Room two. You see? Details. That's what buyers pay for.
+    카버: 7번. 2번 면담실. 봐요. 디테일. 구매자들은 그걸 사는 거예요.
 
 121. PIERRE-LUC: He said the guy withdrew. Cold feet.
     피에르뤽: 보스는 그 사람이 철회했다고 했어요. 마음이 바뀌었다고.
