@@ -11,8 +11,8 @@
 > - 역사 사례: 하이럼 빙엄 4세(1940~41 마르세유, 2006년 우표) — 글로리아가 2006년에 산 '뛰어난 미국 외교관' 우표 한 장을 일라이어스에게 준다. 피에르뤽이 "샤갈을 구해서 훈장을 받은 사람"이라고 잘못 말하자, 일라이어스와 글로리아가 바로잡는다. 훈장이 아니라 부에노스아이레스 전출, 승진 누락, 1945년 퇴직, 1988년 사망, 2002년 사후 반대 의견상, 2006년 우표. 나중에 프랭크는 "우표가 해피엔딩이 아니라 빠져나간 사람들이 해피엔딩"이라고 말한다
 > - 전술 태그: [설득] [비밀] [유출] [블러핑]
 > - 이번 화의 핵심 표현: Convention refugee / protected person / refugee travel document / substantiated in part / not substantiated / conduct outside the scope of assigned duties / letter of caution / responsive documents / cooperating witness / performance evaluation / Exceeds expectations. Do not promote. Do not lose.
-> - 영사 업무 장면: 루이자의 캐나다 난민 인정 결정문 — 협약 난민, 보호 대상자, 영주권 신청, 난민 여행 증명서(박해국 제외), "마이애미에 가려면 이 창구에서 비자를 받아야 하고 나는 거절할 것"(001~030) · 뉘앙스 장면: 앤설의 "That's interesting." — 핀치: "조사관이 '흥미롭다'고 하면 대개 나중에 이메일로 천천히 '아니요'라는 뜻" / 앤설: "오늘은 정말 흥미롭다는 뜻"(065~067)
-> - 복선/연결: 1부 1화 '불참' 기록 · 1부 7화 "유럽 계좌, 매달 15일" → 12/15 송금 끊김(계좌 이름·번호 없음) · 1부 10~11화 DS 메모 "received" → 감찰 보고서 부록 · 3부 11화 앤설 "가을에 다시 온다", "보는 건 누구의 업무 범위도 벗어나지 않는다" · 4부 9화 세 번째 반대 전문 · 1부 1화 빙엄 → 우표가 빈 지갑 칸으로(시즌 1 1화에서 엽서가 그 칸으로 돌아온다) · 시즌 1 1화 오를로프에게 "That's what my performance reviews say too." · 12화 12/31 대체 공휴일, 비상 창구 하나
+> - 영사 업무 장면: 루이자의 캐나다 난민 인정 결정문 — 협약 난민, 보호 대상자, 영주권 신청, 난민 여행 증명서(박해국 제외), "마이애미에 가려면 이 창구에서 비자를 받아야 하고 나는 거절할 것"(001~030) · 뉘앙스 장면: 앤설의 "I hear you." — 핀치: "조사관이 '잘 들었다'고 하면 대개 나중에 이메일로 천천히 '아니요'라는 뜻" / 앤설: "오늘은 정말 들었다는 뜻"(065~067)
+> - 복선/연결: 1부 1화 '불참' 기록 · 1부 7화 "유럽 계좌, 매달 15일" → 12/15 송금 끊김(계좌 이름·번호 없음) · 1부 10~11화 DS 메모 "received" → 감찰 보고서 부록 · 3부 11화 앤설 "가을에 다시 온다", "보는 건 누구의 업무 범위도 벗어나지 않는다" · 4부 9화 세 번째 반대 전문 · 1부 1화 빙엄 → 우표가 빈 지갑 칸으로(시즌 1 1화에서 엽서가 그 칸으로 돌아온다) · 시즌 1 1화 오를로프에게 "That's what my performance reviews say too." · 4부 8화 일라이어스의 농담 "창구의 아무도 아닌 사람. 한결같이." → 글로리아는 거절하고 세 문장을 씀 · 12화 12/31 대체 공휴일, 비상 창구 하나
 
 ---
 
@@ -210,14 +210,14 @@
 064. ELIAS: I want whoever opens that drawer someday to read what we were warned about, and exactly when. Otherwise the caution is the only thing anyone in this building will remember.
     일라이어스: 언젠가 그 서랍을 여는 사람이, 우리가 무슨 경고를 정확히 언제 받았는지 읽었으면 좋겠습니다. 안 그러면 이 건물 사람들은 주의 서한만 기억할 테니까요.
 
-065. ANSELL: That's interesting.
-    앤설: 흥미롭네요.
+065. ANSELL: I hear you.
+    앤설: 잘 들었습니다.
 
-066. FINCH: Elias, when an investigator says "interesting," she usually means no, slowly, in a later email.
-    핀치: 일라이어스, 조사관이 "흥미롭다"고 하면 대개 나중에 이메일로 천천히 '아니요'라는 뜻이에요.
+066. FINCH: Elias, when an investigator says "I hear you," she usually means no, slowly, in a later email.
+    핀치: 일라이어스, 조사관이 "잘 들었다"고 하면 대개 나중에 이메일로 천천히 '아니요'라는 뜻이에요.
 
-067. ANSELL: Usually. Today I mean "interesting." Appended documents are my discretion. I'll append them.
-    앤설: 대개는요. 오늘은 정말 "흥미롭다"는 뜻이에요. 문서 첨부는 제 재량이에요. 첨부하겠습니다.
+067. ANSELL: Usually. Today it means I heard him. Appended documents are my discretion. I'll append them.
+    앤설: 대개는요. 오늘은 정말 들었다는 뜻이에요. 문서 첨부는 제 재량이에요. 첨부하겠습니다.
 
 068. ELIAS: Thank you.
     일라이어스: 감사합니다.
@@ -291,8 +291,8 @@
 091. GLORIA: That one's for whoever reads it after I retire. It means that if you leave this window, something in this consulate stops working, and they won't know what.
     글로리아: 그건 내가 은퇴한 뒤에 그걸 읽을 사람을 위한 거예요. 당신이 이 창구를 떠나면 이 영사관에서 뭔가가 멈출 거고, 그게 뭔지 그 사람들은 모를 거라는 뜻이에요.
 
-092. ELIAS: You could have just written "satisfactory."
-    일라이어스: 그냥 "만족"이라고 쓰셔도 됐잖아요.
+092. ELIAS: You could have written what I suggested. "Nobody at a window. Consistently."
+    일라이어스: 제가 말씀드린 대로 쓰셔도 됐잖아요. "창구의 아무도 아닌 사람. 한결같이."
 
 093. GLORIA: Put it in writing, and then don't, Elias. Just this once, I put it in writing and meant it.
     글로리아: 서면으로 남기고, 그리고 남기지 마요, 일라이어스. 이번 한 번만은 서면으로 남기고 진심이었어요.
@@ -479,7 +479,7 @@
 - **conduct outside the scope of assigned duties** — 부여된 업무 범위를 벗어난 행위 (048)
 - **letter of caution** — 주의 서한. 징계도 견책도 아닌 '서랍 속' 기록 (048~050)
 - **responsive documents / appended** — 관련 문서 / 첨부된 (062, 067)
-- **That's interesting.** — 조사관 입에서는 대개 '천천히 하는 거절', 오늘은 말 그대로 (065~067)
+- **I hear you.** — 조사관 입에서는 대개 '천천히 하는 거절', 오늘은 말 그대로 (065~067)
 - **Nothing I believe is in the report. That's what makes it a report.** — 보고서와 개인 판단의 경계 (075)
 - **performance evaluation / rater's section** — 근무평정 / 평정자 의견란 (081~083)
 - **Exceeds expectations. Do not promote. Do not lose.** — 기대 이상. 승진시키지 말 것. 잃지 말 것. (084~091)

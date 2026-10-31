@@ -10,9 +10,9 @@
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 통킹만 사건(1964) — 나디아가 "국방부가 해전을 통째로 지어냈다"고 단순화하자, 일라이어스는 8월 2일 공격은 실제였고 8월 4일 '두 번째 공격'이 문제였다고 바로잡는다. 함장 헤릭의 '의심 전문'이 몇 시간 만에 왔지만 결정은 이미 움직였다는 것 — "아무도 통킹만을 지어내지 않았다. 누군가 그걸 원했을 뿐이다." 업체의 '바다 지도'를 오늘 동결하지 않으면 무엇을 확인했는지는 업체가 기억하기로 한 것만 남는다는 설득이다
 > - 전술 태그: [설득] [블러핑] [음모] [비밀] [유출]
-> - 이번 화의 핵심 표현: terms of reference / commission of inquiry / regret vs. apologize / rules of engagement / imminence / preservation letter / I'm not in a position to comment. vs. No comment. / certificate of dissolution / cooperating witness / plausible deniability
-> - 영사 업무 장면: 정부 대표로 출장 가는 사람은 B-1이 아니라 A-2(공무) 비자 — 외교 공한, 수수료 없음, 보통 면접 없음(011~036) · 뉘앙스 장면: 미국 성명의 "regrets the loss of life" — regret(유감이다)와 apologize(내가 잘못했다)의 차이, 스페인어 lamentar는 둘 다 덮는다(027~029). 레나가 "No comment"와 "I'm not in a position to comment"의 차이를 짚는다(115~117)
-> - 복선/연결: 4부 7화 로사의 '틀린 창구', 합동 조사위원회 제안 → 이번 화 출범 · 4부 6화 피에르뤽의 자수와 글러브 박스 전화기 · 3부 12화 레나의 '캐시미어 코트' → 브리클 사무실 임대 서명자 "T. 로웰" · 1부 9~10화 마이애미 호텔 바의 '로웰' · 3부 11화 DS 메모 "received" 도장 · 1부 2화 오파로카 격납고 · 카버 "어느 층에서 왔는지는 안 묻는다"(시즌 1 7층 복선) → 4부 11화 감찰 결론, 피에르뤽 협조 증인
+> - 이번 화의 핵심 표현: terms of reference / commission of inquiry / regret vs. apologize / rules of engagement / imminence / preservation letter / "Remains confident." / I wouldn't disagree. / certificate of dissolution / cooperating witness / plausible deniability
+> - 영사 업무 장면: 정부 대표로 출장 가는 사람은 B-1이 아니라 A-2(공무) 비자 — 외교 공한, 수수료 없음, 보통 면접 없음(011~036) · 뉘앙스 장면: 미국 성명의 "remains confident" — 일라이어스: "아직 아무도 확인 안 했다는 뜻"(046~047). 일라이어스의 이중부정 "I wouldn't disagree with that." — 레나: "2년 동안 '네'에 제일 가까이 간 말" / 일라이어스: "'아니요'를 사양했을 뿐, 작은 글씨로 실어라"(115~117). (위임 사항의 regret/apologize, 스페인어 lamentar는 7화 문구의 후속으로만 짚는다, 027~029)
+> - 복선/연결: 4부 7화 로사의 '틀린 창구', 합동 조사위원회 제안 → 이번 화 출범 · 4부 6화 피에르뤽의 자수와 글러브 박스 전화기 · 3부 12화 레나의 '캐시미어 코트' → 브리클 사무실 임대 서명자 "T. 로웰" · 1부 9~10화 마이애미 호텔 바의 '로웰' · 3부 11화 DS 메모 "received" 도장 · 4부 2화 블루워터(포트로더데일, 직원 40명) "아주 빨리 아주 작아져야" → 폐업 · 4부 7화 마시의 실언 "commercially available maritime data" → 4항 C호 · 4부 6화 일라이어스가 나디아에게만 말한 '코트 = 로웰' → 이번 화에 레나에게 · 1부 2화 오파로카 격납고 · 카버 "어느 층에서 왔는지는 안 묻는다"(시즌 1 7층 복선) → 4부 11화 감찰 결론, 피에르뤽 협조 증인
 
 ---
 
@@ -24,8 +24,8 @@
 002. ELIAS: How many reports does that make this year?
     일라이어스: 올해 신고 몇 번째야?
 
-003. PIERRE-LUC: Forty-one. On paper, since they won't let me near a keyboard anymore.
-    피에르뤽: 마흔한 번째요. 이젠 키보드 근처에도 못 가게 해서 종이로요.
+003. PIERRE-LUC: Forty-one. Marisol says it's the only file with my name on it that still makes her smile.
+    피에르뤽: 마흔한 번째요. 마리솔 말로는 제 이름 붙은 파일 중에 아직도 자기를 웃게 하는 건 그거 하나래요.
 
 004. ELIAS: Take the compliment. Compliments are rare downstairs this month.
     일라이어스: 칭찬으로 받아. 이번 달 아래층에선 칭찬 듣기 힘들어.
@@ -162,11 +162,11 @@
 048. NADIA: Here's what Canada hands the commission on day one: Pierre-Luc's phone, every message log, the relay numbers, and the fourteen names he looked up for your friend Lowell.
     나디아: 캐나다가 첫날 위원회에 넘길 건 이거예요. 피에르뤽의 전화기, 메시지 기록 전부, 중계 번호들, 그리고 그 애가 당신 친구 로웰을 위해 조회한 이름 열네 개.
 
-049. GLORIA: He's not my friend. And that phone is in your evidence locker, Nadia, not mine.
-    글로리아: 내 친구 아니에요. 그리고 그 전화기는 당신네 증거물 보관함에 있어요, 나디아. 내 거 아니고.
+049. GLORIA: He's not my friend. And that phone is in an RCMP locker, Nadia, not mine.
+    글로리아: 내 친구 아니에요. 그리고 그 전화기는 RCMP 보관함에 있어요, 나디아. 내 거 아니고.
 
-050. NADIA: Noted. It points at one company. Bluewater Insight Limited. They sell maps of the sea.
-    나디아: 알겠어요. 그 전화기는 회사 하나를 가리켜요. 블루워터 인사이트 리미티드. 바다 지도를 팔죠.
+050. NADIA: Noted. The RCMP traced the relay numbers to one company. Bluewater Insight Limited. Sea maps.
+    나디아: 알겠어요. RCMP가 중계 번호들을 추적했더니 회사 하나가 나왔어요. 블루워터 인사이트 리미티드. 바다 지도 회사요.
 
 051. ELIAS: Maps with a boat's name, its position, its position next week, and who's on board. Sold to clients with aircraft.
     일라이어스: 배 이름, 위치, 다음 주 위치, 그리고 누가 타고 있는지까지 적힌 지도요. 항공기를 가진 고객들한테 팔고요.
@@ -246,8 +246,8 @@
 076. ELIAS: Then tell him it's two sentences. Deputy ministers like short sentences they can blame on someone else.
     일라이어스: 그럼 두 문장짜리라고 하세요. 차관들은 남 탓으로 돌릴 수 있는 짧은 문장을 좋아하거든요.
 
-077. GLORIA: Meanwhile, I'm going to call Howard Pell in Washington and ask whether our delegation objects.
-    글로리아: 그동안 난 워싱턴의 하워드 펠한테 전화해서 우리 대표단이 반대하는지 물어볼게요.
+077. GLORIA: Meanwhile, I'm going to call Owen Marsh in Washington and ask whether his office objects.
+    글로리아: 그동안 난 워싱턴의 오언 마시한테 전화해서 그쪽 실이 반대하는지 물어볼게요.
 
 078. ELIAS: He'll tell you he's not in a position to comment on commercial vendors.
     일라이어스: 상업 업체에 대해선 언급할 위치가 아니라고 할 거예요.
@@ -270,14 +270,14 @@
 084. ELIAS: Gone how?
     일라이어스: 어떻게 사라져요?
 
-085. NADIA: At one fifty-two this afternoon, its directors filed a certificate of dissolution in Delaware. At two, the website went dark. By two-thirty, the Miami suite was empty.
-    나디아: 오늘 오후 1시 52분에 이사들이 델라웨어에 해산 증명서를 냈어요. 두 시에 웹사이트가 꺼졌고요. 두 시 반에는 마이애미 사무실이 텅 비었어요.
+085. NADIA: At one fifty-two this afternoon, its president filed a certificate of dissolution in Delaware. At two, the website went dark. By two-thirty, the Fort Lauderdale office had sent forty people home.
+    나디아: 오늘 오후 1시 52분에 대표가 델라웨어에 해산 증명서를 냈어요. 두 시에 웹사이트가 꺼졌고요. 두 시 반에는 포트로더데일 사무실이 직원 마흔 명을 집으로 보냈어요.
 
 086. GLORIA: The commission was announced at ten. That's less than four hours.
     글로리아: 위원회 발표가 열 시였어요. 네 시간도 안 됐네요.
 
-087. NADIA: And at two-oh-six, the phone in our evidence locker received one message from the relay number. One word: "Closed." Thirty seconds later, the number stopped existing altogether.
-    나디아: 그리고 2시 6분에, 우리 보관함에 있는 전화기로 중계 번호에서 메시지가 하나 왔어요. 한 단어요. "Closed." 30초 뒤에 그 번호는 아예 없어졌어요.
+087. NADIA: And at two-oh-six, the phone in the RCMP's locker received one message from the relay number. One word: "Closed." Thirty seconds later, the number stopped existing altogether.
+    나디아: 그리고 2시 6분에, RCMP 보관함에 있는 그 전화기로 중계 번호에서 메시지가 하나 왔어요. 한 단어요. "Closed." 30초 뒤에 그 번호는 아예 없어졌어요.
 
 088. PIERRE-LUC: Sorry, Marisol sent me up with the mail. Is that his phone? The glove-box one?
     피에르뤽: 죄송해요, 마리솔이 우편물 갖다 드리래서요. 그 사람 전화기 얘기예요? 글러브 박스에 있던 거?
@@ -321,8 +321,8 @@
 101. ELIAS: You said it wasn't about me. That's usually a lie, but at least it's a new one.
     일라이어스: 저에 관한 얘기가 아니라고 하셨죠. 보통은 거짓말인데, 적어도 새로운 거짓말이네요.
 
-102. LENA: It isn't about you. It's about a company in Miami that sold boat positions and stopped existing at one fifty-two this afternoon.
-    레나: 당신 얘기 아니에요. 배 위치를 팔다가 오늘 오후 1시 52분에 존재하기를 멈춘 마이애미 회사 얘기예요.
+102. LENA: It isn't about you. It's about a company in Florida that sold boat positions and stopped existing at one fifty-two this afternoon.
+    레나: 당신 얘기 아니에요. 배 위치를 팔다가 오늘 오후 1시 52분에 존재하기를 멈춘 플로리다 회사 얘기예요.
 
 103. ELIAS: I read the news, Ms. Voss.
     일라이어스: 저도 뉴스는 봐요, 보스 씨.
@@ -360,17 +360,17 @@
 114. LENA: Or one of them didn't need to. Someone already knew exactly what four-C would say, because they'd spent three weeks fighting it.
     레나: 아니면 그럴 필요도 없었거나요. 누군가는 4항 C호가 뭐라고 할지 이미 정확히 알았어요. 3주 동안 그걸 막으려고 싸웠으니까.
 
-115. ELIAS: So Washington tipped them off? I'm not in a position to comment.
-    일라이어스: 그러니까 워싱턴이 귀띔했다고요? 전 언급할 위치에 있지 않아요.
+115. ELIAS: So someone in Washington tipped them off. I wouldn't disagree with that.
+    일라이어스: 그러니까 워싱턴의 누군가가 귀띔했다. 거기엔 반대하지 않겠네요.
 
-116. LENA: Last December it was "no comment." Now it's "not in a position." Different sentence.
-    레나: 작년 12월엔 "노 코멘트"였죠. 이번엔 "언급할 위치가 아니다"고요. 다른 문장이에요.
+116. LENA: "I wouldn't disagree." In two years, that's the closest you've ever come to saying yes.
+    레나: "반대하지 않겠다." 2년 동안 당신이 '네'에 제일 가까이 간 말이네요.
 
-117. ELIAS: No, it isn't. "No comment" means I won't. "Not in a position" means I can't, and I'd like you to notice the difference.
-    일라이어스: 네, 아니에요. "노 코멘트"는 안 하겠다는 거고, "언급할 위치가 아니다"는 못 한다는 거예요. 그 차이를 알아봐 주셨으면 좋겠네요.
+117. ELIAS: It isn't yes. It's a man declining to say no, which you should print in a much smaller font.
+    일라이어스: '네'가 아니에요. '아니요'를 사양하는 남자일 뿐이죠. 그러니까 아주 작은 글씨로 실으세요.
 
-118. LENA: I noticed. Then let me give you something, since you can't give me anything. The suite in Brickell. I got the lease.
-    레나: 알아봤어요. 그럼 당신은 줄 수 없으니 제가 하나 드릴게요. 브리클의 그 사무실이요. 임대 계약서를 구했어요.
+118. LENA: Small font, noted. Then let me give you something in return. The suite in Brickell, Lowell's own office. I got the lease.
+    레나: 작은 글씨, 알겠어요. 그럼 대신 제가 하나 드릴게요. 브리클의 그 사무실, 로웰 본인 사무실이요. 임대 계약서를 구했어요.
 
 119. ELIAS: Whose name?
     일라이어스: 누구 이름으로요?
@@ -390,11 +390,11 @@
 124. LENA: And you never told me.
     레나: 그런데 저한테는 한 번도 말 안 했고요.
 
-125. ELIAS: I told Diplomatic Security, in writing, the next day. It was stamped "received" and filed, which tells you what writing is worth.
-    일라이어스: 다음 날 외교안보국에 서면으로 말했어요. "접수" 도장이 찍혀서 서류철에 들어갔죠. 서면이 얼마짜리인지 그걸로 아실 거예요.
+125. ELIAS: I told Diplomatic Security, in writing, the next day, and it was stamped "received." I didn't tell you because you'd have printed it, and he'd have vanished.
+    일라이어스: 다음 날 외교안보국에 서면으로 말했고, "접수" 도장이 찍혔어요. 당신한테 말 안 한 건, 당신은 실었을 거고 그럼 그 사람은 사라졌을 테니까요.
 
-126. LENA: Can I use that?
-    레나: 그거 써도 돼요?
+126. LENA: He vanished anyway. Can I use the hotel bar?
+    레나: 어차피 사라졌잖아요. 호텔 바 얘기는 써도 돼요?
 
 127. ELIAS: You can use a hotel bar and a name that isn't a name. You can't use me. Not yet.
     일라이어스: 호텔 바랑, 이름 아닌 이름은 쓰셔도 돼요. 저는 못 써요. 아직은.
@@ -441,8 +441,8 @@
 141. VOICE: And Montreal?
     목소리: 몬트리올은?
 
-142. CARVER: The voice in Montreal is burned. He confessed to a Canadian in October. By February he'll be a cooperating witness for anyone who'll listen.
-    카버: 몬트리올의 '목소리'는 탔어요. 10월에 캐나다 사람한테 자백했죠. 2월쯤이면 들어 주는 사람 누구한테나 협조 증인이 될 거예요.
+142. CARVER: The voice in Montreal is burned. He's been talking to the Canadians since October; his messages got too careful. By February he'll be a cooperating witness.
+    카버: 몬트리올의 '목소리'는 탔어요. 10월부터 캐나다 쪽이랑 얘기하고 있었어요. 메시지가 너무 조심스러워졌거든요. 2월쯤이면 협조 증인이 돼 있을 거예요.
 
 143. VOICE: What does he know?
     목소리: 그 애가 뭘 알지?
@@ -483,7 +483,7 @@
 - **It wasn't a lie. It was a wish.** — 거짓말이 아니라 바람이었다. 원하는 쪽으로 읽힌 첩보 (062~063)
 - **preservation letter** — 자료 보존 요청서. "우리가 그날 말했다"는 종이 (071)
 - **certificate of dissolution / registered agent** — 해산 증명서 / 등록 대리인 (085, 108)
-- **I'm not in a position to comment. vs. No comment.** — 못 한다 vs 안 하겠다 (115~117)
+- **I wouldn't disagree with that.** — 이중부정의 외교적 '네'. "'아니요'를 사양할 뿐" (115~117)
 - **cooperating witness** — 협조 증인 (142)
 - **plausible deniability** — 그럴듯한 부인 가능성. "그 사람만 빼고 다 갖고 있다" (146)
 
