@@ -375,37 +375,37 @@
     프랭크: 밥은 먹었냐?
 
 120. ELIAS: Leftover za'atar bread and an apple. The apple has a vegetable's attitude, so I'm counting it.
-    일라이어스: 남은 자타르 빵이랑 사과 하나요. 사과가 채소 같은 태도라서 쳐주기로 했어요.
+    일라이어스: 남은 자타르 빵이랑 사과 하나. 사과가 채소 같은 태도라서 쳐주기로 했어.
 
 121. FRANK: An apple is not a vegetable, no matter how it carries itself. How was Friday the thirteenth?
     프랭크: 사과는 아무리 점잖게 굴어도 채소가 아니다. 13일의 금요일은 어땠냐?
 
 122. ELIAS: A man with friends in Washington threatened me, and I refused his visa anyway. My boss stood next to me.
-    일라이어스: 워싱턴에 친구 많은 사람이 날 협박했는데 그래도 비자를 거절했어요. 상사가 내 옆에 서 줬고요.
+    일라이어스: 워싱턴에 친구 많은 사람이 날 협박했는데 그래도 비자를 거절했어. 상사가 내 옆에 서 줬고.
 
 123. FRANK: Next to you. Not behind you. That's a careful woman.
     프랭크: 옆에. 뒤가 아니라. 조심성 있는 양반이구나.
 
 124. ELIAS: How did you know that's what she said?
-    일라이어스: 그분이 그렇게 말한 걸 어떻게 아셨어요?
+    일라이어스: 그 사람이 그렇게 말한 걸 어떻게 알았어?
 
 125. FRANK: Because somebody said the exact same thing to me in 1972, during the busing fight. Remind me to tell you that story at Thanksgiving. It's a long one.
     프랭크: 1972년 버스 통학 싸움 때 누가 나한테 똑같은 말을 했거든. 추수감사절에 그 얘기 해 달라고 상기시켜 줘. 길다.
 
 126. ELIAS: Rosie's coming up to Montreal for Thanksgiving. Can you do a video call?
-    일라이어스: 로지가 추수감사절에 몬트리올 와요. 영상통화 되세요?
+    일라이어스: 로지가 추수감사절에 몬트리올 와. 영상통화 돼?
 
 127. FRANK: I'll put on a shirt with buttons. Is she still embarrassed about your job?
     프랭크: 단추 달린 셔츠 입으마. 로지는 아직도 네 직업 창피해하냐?
 
 128. ELIAS: Deeply. She says I say no to people for a living.
-    일라이어스: 엄청요. 내가 사람들한테 안 된다고 말해서 먹고산대요.
+    일라이어스: 엄청. 내가 사람들한테 안 된다고 말해서 먹고산대.
 
 129. FRANK: Tell her the people who say no in the right places, at the right moment, to the right people, are the ones history ends up thanking. Eventually. Usually long after they're dead and can't enjoy it.
     프랭크: 제자리에서, 제때, 제대로 된 상대한테 안 된다고 말하는 사람들이 결국 역사한테 고맙다는 말을 듣는다고 전해라. 언젠가는. 대개 죽고 한참 뒤에, 기뻐할 수도 없을 때.
 
 130. ELIAS: That's very comforting, Dad.
-    일라이어스: 아주 위로가 되네요, 아빠.
+    일라이어스: 아주 위로가 되네, 아빠.
 
 131. FRANK: It's meant to be accurate. Eat a carrot.
     프랭크: 정확하라고 한 말이다. 당근 하나 먹어라.

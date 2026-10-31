@@ -438,8 +438,8 @@
 140. FRANK: That's not food, that's a mood. You sound like you did something. What did you do?
     프랭크: 그건 밥이 아니라 기분이지. 목소리 들으니 뭔가 저질렀구나. 뭘 했니?
 
-141. ELIAS: You taught history for thirty years. What do you know about Hiram Bingham?
-    일라이어스: 아빠 역사 30년 가르쳤잖아. 하이럼 빙엄에 대해 뭐 알아?
+141. ELIAS: You taught history for thirty-eight years. What do you know about Hiram Bingham?
+    일라이어스: 아빠 역사 38년 가르쳤잖아. 하이럼 빙엄에 대해 뭐 알아?
 
 142. FRANK: The explorer or the son? The father made Machu Picchu famous. The son was vice consul in Marseille in 1940, when France fell. From your voice, you mean the son.
     프랭크: 탐험가 말이냐, 아들 말이냐? 아버지는 마추픽추를 세상에 알린 사람이고, 아들은 프랑스가 무너진 1940년에 마르세유 부영사였지. 목소리 들으니 아들 얘기구나.

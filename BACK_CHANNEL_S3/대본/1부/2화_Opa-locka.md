@@ -51,7 +51,7 @@
 011. MONTEIRO: Your fee has been paid, I believe.
     몬테이루: 수수료는 이미 지불된 걸로 아는데요.
 
-012. CARVER: The second tranche cleared this morning through the Brussels account. The one ending four-four-oh-nine-one-seven. Thank you for your punctuality.
+012. CARVER: The second tranche cleared this morning into the Brussels account. The one ending four-four-oh-nine-one-seven. Thank you for your punctuality.
     카버: 두 번째 분할금이 오늘 아침 브뤼셀 계좌로 들어왔습니다. 끝자리 440917번이요. 시간을 지켜 주셔서 감사합니다.
 
 013. MONTEIRO: In Brazil, the Supreme Court ordered me to surrender my passport on Monday. By the time their messenger reached my house, I was already in Argentina, drinking coffee.

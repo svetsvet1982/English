@@ -285,8 +285,8 @@
 089. ELIAS: I see why you don't trust us. I'd only ask you to consider that it isn't a choice between Washington and the internet.
     일라이어스: 우리를 못 믿는 이유는 알겠어요. 다만 이게 워싱턴이냐 인터넷이냐의 양자택일은 아니라는 것만 생각해 주세요.
 
-090. LUISA: What else is there? Brasília wants me arrested. Ottawa wants a copy. Miami wants me in a river.
-    루이자: 그거 말고 뭐가 있는데요? 브라질리아는 저를 체포하고 싶어 하고, 오타와는 사본을 원하고, 마이애미는 저를 강물에 넣고 싶어 해요.
+090. LUISA: What else is there? A judge in the senator's home state wants me arrested. Brasília wants the phone. Ottawa wants a copy. Miami wants me in a river.
+    루이자: 그거 말고 뭐가 있는데요? 상원의원 고향 주 판사는 저를 체포하고 싶어 하고, 브라질리아는 전화를 원하고, 오타와는 사본을 원하고, 마이애미는 저를 강물에 넣고 싶어 해요.
 
 091. ELIAS: There are courts. There's something called mutual legal assistance — one government asking another for evidence under a treaty, with a judge sitting in the middle.
     일라이어스: 법원이 있어요. 형사사법공조라는 게 있어요. 한 정부가 조약에 따라 다른 정부에 증거를 요청하는 건데, 그 사이에 판사가 있어요.
@@ -318,8 +318,8 @@
 100. LUISA: This is for the Federal Police in Brasília. Not the minister, not the party, not anyone who calls himself my friend. The police.
     루이자: 이건 브라질리아 연방경찰에 남기는 거예요. 장관도 아니고, 당도 아니고, 제 친구라고 자처하는 누구도 아니에요. 경찰이요.
 
-101. LUISA: The vault opened today. The Ponte money starts in one account, in Brussels. The account number ends in four-four-zero-nine-one-seven.
-    루이자: 오늘 금고가 열렸어요. 폰치 자금은 브뤼셀에 있는 계좌 하나에서 시작해요. 계좌 번호 끝자리는 4-4-0-9-1-7이에요.
+101. LUISA: The vault opened today. The Ponte money runs through one account, in Brussels. The account number ends in four-four-zero-nine-one-seven.
+    루이자: 오늘 금고가 열렸어요. 폰치 자금은 브뤼셀에 있는 계좌 하나를 거쳐요. 계좌 번호 끝자리는 4-4-0-9-1-7이에요.
 
 102. LUISA: Wires on the fifteenth of every month into Cardinal Bridge. Round numbers, six figures in euros. The sender line is never a name — only a reference code.
     루이자: 매달 15일에 카디널 브리지로 송금. 딱 떨어지는 금액, 유로로 여섯 자리. 송금인 칸엔 이름이 한 번도 없어요. 참조 코드뿐이에요.

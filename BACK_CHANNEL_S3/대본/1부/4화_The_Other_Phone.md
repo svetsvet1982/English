@@ -116,8 +116,8 @@
 033. CARVER: This. One point eight million dollars landed in your legal defense fund at seven this morning. Meridian Consulting, Brussels. Account ending four-four-zero-nine-one-seven.
     카버: 이거요. 오늘 아침 7시에 의원님 법률 방어 기금에 180만 달러가 들어왔습니다. 메리디언 컨설팅, 브뤼셀. 계좌 끝자리 440917.
 
-034. MONTEIRO: I've never heard of Meridian Consulting. Who are these people?
-    몬테이루: 메리디언 컨설팅이라니, 처음 듣는데요. 누굽니까, 이 사람들?
+034. MONTEIRO: That's the account I pay your fees into. I've never heard of Meridian Consulting. Who are these people?
+    몬테이루: 내가 당신 수수료를 넣는 그 계좌잖아요. 메리디언 컨설팅이라니, 처음 듣는데요. 누굽니까, 이 사람들?
 
 035. CARVER: People who believe in you, quietly. But that phone holds names that aren't yours, Senator. If it surfaces, you lose an election you've already lost. My clients would lose a great deal more.
     카버: 의원님을 조용히 믿는 사람들이죠. 하지만 그 전화엔 의원님 아닌 이름들도 들어 있습니다. 그게 나오면 의원님은 이미 진 선거를 한 번 더 지는 거고, 제 고객들은 훨씬 많은 걸 잃습니다.
@@ -354,37 +354,37 @@
     프랭크: 밥은 먹었냐?
 
 113. ELIAS: A cheese bun from a grandmother and half a za'atar man'ouche. It counts, Dad.
-    일라이어스: 어떤 할머니가 준 치즈빵 하나랑 자타르 빵 반쪽. 먹은 거 맞아요, 아빠.
+    일라이어스: 어떤 할머니가 준 치즈빵 하나랑 자타르 빵 반쪽. 먹은 거 맞아, 아빠.
 
 114. FRANK: It counts as a snack. Your mother would have called it a cry for help.
     프랭크: 그건 간식이지. 네 엄마 같으면 구조 요청이라고 했을 거다.
 
 115. ELIAS: How's Dayton?
-    일라이어스: 데이턴은 어때요?
+    일라이어스: 데이턴은 어때?
 
 116. FRANK: Cold. The Kowalski boy shoveled my walk without being asked, so either he's in love with somebody or he broke a window.
     프랭크: 춥다. 코왈스키네 애가 시키지도 않았는데 우리 집 앞 눈을 치웠어. 누구한테 반했거나 유리창을 깼거나 둘 중 하나지.
 
 117. ELIAS: Dad, can I ask you something hypothetical?
-    일라이어스: 아빠, 가정으로 하나 물어봐도 돼요?
+    일라이어스: 아빠, 가정으로 하나 물어봐도 돼?
 
 118. FRANK: All those years of teaching, and no hypothetical question was ever hypothetical. Go ahead.
     프랭크: 그 오랜 세월 가르쳤는데, 가정이라고 한 질문 치고 진짜 가정인 게 하나도 없더라. 해 봐.
 
 119. ELIAS: If somebody asked you to keep something for them — something that could get you in serious trouble — would you do it?
-    일라이어스: 누가 뭘 좀 맡아 달라고 하면요. 아빠가 크게 곤란해질 수도 있는 물건을요. 맡아 주실 거예요?
+    일라이어스: 누가 뭘 좀 맡아 달라고 하면. 아빠가 크게 곤란해질 수도 있는 물건을. 맡아 줄 거야?
 
 120. FRANK: Depends who's asking and who's chasing them. If the people chasing them wear better shoes than the person asking, I'd probably say yes.
     프랭크: 누가 부탁하는지, 누가 그 사람을 쫓는지에 달렸지. 쫓는 놈들이 부탁하는 사람보다 좋은 구두를 신었으면, 아마 맡아 주겠지.
 
 121. ELIAS: That's oddly specific.
-    일라이어스: 이상하게 구체적이네요.
+    일라이어스: 이상하게 구체적이네.
 
 122. FRANK: History is oddly specific, son. Go home and eat something with a vegetable in it.
     프랭크: 역사가 원래 이상하게 구체적이다, 아들. 집에 가서 채소 들어간 거 좀 먹어라.
 
 123. ELIAS: Dad, I have to go. A car just pulled up, and it's not a taxi.
-    일라이어스: 아빠, 끊어야겠어요. 차가 한 대 섰는데 택시가 아니에요.
+    일라이어스: 아빠, 끊어야겠어. 차가 한 대 섰는데 택시가 아니야.
 
 124. NADIA: Get in, Mr. Grant. The heater works, and the radio only plays CBC.
     나디아: 타세요, 그랜트 씨. 히터는 되고, 라디오는 CBC만 나와요.

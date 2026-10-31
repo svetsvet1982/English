@@ -119,8 +119,8 @@
 034. ELIAS: It's a very precise question, Gloria. I didn't want to waste it.
     일라이어스: 아주 정확한 질문이었으니까요, 글로리아. 낭비하기 싫었어요.
 
-035. GLORIA: Last week I gave you an oral admonishment for arguing with a cable from Washington. One note in your file is a story. Two notes are a pattern.
-    글로리아: 지난주에 워싱턴 전문에 반박했다고 구두 경고를 줬죠. 인사 파일에 메모 하나는 일화예요. 두 개면 패턴이고요.
+035. GLORIA: Ten days ago I gave you an oral admonishment for arguing with a cable from Washington. One note in your file is a story. Two notes are a pattern.
+    글로리아: 열흘 전에 워싱턴 전문에 반박했다고 구두 경고를 줬죠. 인사 파일에 메모 하나는 일화예요. 두 개면 패턴이고요.
 
 036. ELIAS: And three is a career. I'm aware.
     일라이어스: 세 장이면 경력이죠. 알아요.
@@ -443,8 +443,8 @@
 142. ELIAS: Mostly I refuse passports. It's a very exclusive job.
     일라이어스: 주로 거절하지. 아주 선택받은 사람만 하는 일이야.
 
-143. ROSIE: That's worse. Jake's dad is an ambassador somewhere with beaches. Mine says no to people in Montreal.
-    로지: 그게 더 별로야. 제이크네 아빠는 해변 있는 어딘가의 대사래. 우리 아빠는 몬트리올에서 사람들한테 안 된다고 하고.
+143. ROSIE: That's worse. Maya's dad is an ambassador somewhere with beaches. Mine says no to people in Montreal.
+    로지: 그게 더 별로야. 마야네 아빠는 해변 있는 어딘가의 대사래. 우리 아빠는 몬트리올에서 사람들한테 안 된다고 하고.
 
 144. ELIAS: Somebody has to. Did your mom say yes to Thanksgiving?
     일라이어스: 누군가는 해야지. 엄마가 추수감사절 허락했어?

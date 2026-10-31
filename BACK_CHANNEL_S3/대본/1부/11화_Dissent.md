@@ -117,7 +117,7 @@
     일라이어스: 포르투갈어로 됐겠죠. 코럴게이블스의 법률 사무소에서 나온 거고.
 
 034. NADIA: Co-counsel to Dr. Brandão. His retainer came in on Tuesday night, wired from overseas through their trust account. I can't see further than that, and neither can you.
-    나디아: 브란당 박사의 공동 변호인단이요. 착수금은 화요일 밤에 들어왔어요. 해외에서 그 사무소 신탁 계좌를 거쳐서요. 그 너머는 저도 못 봐요. 당신도 마찬가지고요.
+    나디아: 브랑당 박사의 공동 변호인단이요. 착수금은 화요일 밤에 들어왔어요. 해외에서 그 사무소 신탁 계좌를 거쳐서요. 그 너머는 저도 못 봐요. 당신도 마찬가지고요.
 
 035. ELIAS: Tuesday night. A few hours after I stood at the bottom of an airplane and gave an address to a man in sunglasses.
     일라이어스: 화요일 밤이라. 제가 비행기 트랩 아래서 선글라스 낀 남자한테 주소를 준 지 몇 시간 뒤네요.
