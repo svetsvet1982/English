@@ -10,7 +10,7 @@
 > - 역사 사례: 1980년대 KGB의 'INFEKTION 작전' — 아이샤가 "진짜와 가짜를 섞으면 사람들은 둘 다 버린다"는 걸 설득하려고 꺼낸다. 1983년 인도의 작은 신문에 '미국 과학자'의 익명 편지로 심은 에이즈 기원설을, 1985년 소련 신문이 '독립된 출처'처럼 인용했고, 1987년쯤 80여 개국에 퍼졌으며, 1992년에야 프리마코프가 KGB의 소행을 인정했다. 교훈은 "거짓말은 그걸 원하는 수도에서 나오지 않고 멀리서 와서 순진해 보인다"는 것(리비아 중개상·파리 주간지와 같은 수법). 프랭크는 1924년 지노비예프 편지와 1999년 영국 정부 조사로 "거짓말 하나 되돌리는 데 75년"을 보탠다
 > - 전술 태그: [비밀] [설득] [공갈] [블러핑] [유출]
 > - 이번 화의 핵심 표현: chain of custody / hash / geolocation / provenance / metadata / forgery / fact-check / open-source verification / "We are reviewing the document." / same page, same hour
-> - 복선/연결: 1화 위조 문서의 세 가지 오류(레나) + 네 번째 오류(페잔 오어 트레이딩 등록일) · 영상은 진짜(위치·시간·하르마탄·불탄 자국 41개·틸라베리 병원 대장 19명·생존자 3명) · 캘러웨이 "공짜로 죽이지는 마라"(의심을 지렛대로, 배신의 복선) · 세 번째 문의 씨앗: '같은 페이지, 같은 시각'에 문서는 위조·영상은 진짜를 함께 발표하고, 니제르가 국가 조사를 발표해 자국 조사관이 원본 휴대전화로 검증(→ 7화 "the investigation continues", 9화 공개 검증 프로토콜) · 일라이어스의 블러핑: "24시간 안에 워싱턴이 위조라고 말한다"(장관 승인 없음) · **정보 이동**: 파리 주간지 편집장이 유출 8일 전에 같은 발신자의 제안을 받고 DGSE의 '부르고뉴만 마시는 남자'에게 보여 줌 → 5화 마르샹 · 마이가의 "모스크바는 경비병 붙여서 지켜 준다" → 6화 볼나 · 로지 결과 발표는 다음 주 목요일 저녁 7시(동부)
+> - 복선/연결: 1화 위조 문서의 세 가지 오류(레나) + 3화 마이가 쪽이 찾은 네 번째 오류(페잔 오어 트레이딩 1월 등록)를 사헬 베리프가 등기부로 재확인 · 단다코예는 파리에서 아이샤에게 전화 · 영상은 진짜(위치·그림자·기도 알림·불탄 자국 41개·틸라베리 병원 대장 19명·생존자 3명) · 캘러웨이 "공짜로 죽이지는 마라"(의심을 지렛대로, 배신의 복선) · 세 번째 문의 씨앗: '같은 페이지, 같은 시각'에 문서는 위조·영상은 진짜를 함께 발표하고, 니제르가 국가 조사를 발표해 자국 조사관이 원본 휴대전화로 검증(→ 7화 "the investigation continues", 9화 공개 검증 프로토콜) · 일라이어스의 블러핑: "24시간 안에 워싱턴이 위조라고 말한다"(장관 승인 없음) · **정보 이동**: 파리 주간지 편집장이 유출 8일 전에 같은 발신자의 제안을 받고 DGSE의 '부르고뉴만 마시는 남자'에게 보여 줌 → 5화 마르샹 · 마이가의 "모스크바는 경비병 붙여서 지켜 준다" → 6화 볼나 · 로지 결과 발표는 다음 주 목요일 저녁 7시(동부)
 
 ---
 
@@ -28,8 +28,8 @@
 004. ELIAS: Is there a French general in the video?
     일라이어스: 영상에 프랑스 장군이 나와?
 
-005. SAMIRA: No. There are burning granaries, a woman screaming in Fulfulde, and men in uniform nobody has identified yet.
-    사미라: 아뇨. 불타는 곡식 창고, 풀풀데어로 비명 지르는 여자, 그리고 아직 아무도 누군지 못 밝힌 제복 차림 남자들이요.
+005. SAMIRA: No. There are burning granaries, voices in Zarma and Fulfulde, and men in uniform nobody has identified yet.
+    사미라: 아뇨. 불타는 곡식 창고, 자르마어와 풀풀데어 목소리, 그리고 아직 아무도 누군지 못 밝힌 제복 차림 남자들이요.
 
 006. ELIAS: And the other thing? The paper everybody in Washington is waving?
     일라이어스: 그리고 다른 건? 워싱턴 사람들이 다들 흔들고 있는 그 종이?
@@ -61,8 +61,8 @@
 015. CALLAWAY: It's two in the morning here, Elias. Tell me something that justifies the hour.
     캘러웨이: 여긴 새벽 두 시야, 일라이어스. 이 시간에 깨어 있을 만한 얘길 해 봐.
 
-016. ELIAS: The uranium document is a forgery, sir. I'd like to say so publicly.
-    일라이어스: 우라늄 문서는 위조입니다, 장관님. 공개적으로 그렇게 말하고 싶습니다.
+016. ELIAS: Sahel Vérif can prove the document's a forgery. Then I'd like to say so publicly.
+    일라이어스: 사헬 베리프가 문서가 위조라는 걸 증명할 수 있습니다. 그러면 저도 공개적으로 그렇게 말하고 싶습니다.
 
 017. CALLAWAY: Forged by whom?
     캘러웨이: 누가 위조했는데?
@@ -112,8 +112,8 @@
 032. ELIAS: Aïcha Soumana.
     일라이어스: 아이샤 수마나.
 
-033. SAMIRA: Sahel Vérif. Three people, one generator, and the only original copy of that video. She doesn't take meetings with American officials.
-    사미라: 사헬 베리프요. 직원 셋, 발전기 하나, 그리고 그 영상의 유일한 원본. 미국 관리는 안 만난대요.
+033. SAMIRA: Sahel Vérif. Six people, one generator, and the only original copy of that video. She doesn't take meetings with American officials.
+    사미라: 사헬 베리프요. 직원 여섯, 발전기 하나, 그리고 그 영상의 유일한 원본. 미국 관리는 안 만난대요.
 
 034. ELIAS: Then how did we get ten o'clock?
     일라이어스: 그럼 열 시 약속은 어떻게 잡았어?
@@ -163,14 +163,14 @@
 049. IBRAHIM: First, the place. A minaret, a water tower, a line of neem trees. All three match satellite images from January.
     이브라힘: 먼저 장소요. 첨탑, 급수탑, 님나무 줄. 셋 다 1월 위성 사진이랑 맞아요.
 
-050. AICHA: Then the time. Short shadows, pointing northwest. Mid-morning, between ten and eleven.
-    아이샤: 그다음 시간. 짧은 그림자, 북서쪽. 오전 중반, 열 시에서 열한 시 사이예요.
+050. AICHA: Then the time. Long shadows, pointing east. Late afternoon, between four and five.
+    아이샤: 그다음 시간. 긴 그림자, 동쪽. 늦은 오후, 네 시에서 다섯 시 사이예요.
 
-051. IBRAHIM: And the dust. The harmattan was heavy that morning, and the weather station in Tillabéri recorded it. The sky in the video is the same dirty yellow.
-    이브라힘: 그리고 먼지. 그날 아침 하르마탄이 심했고, 틸라베리 기상 관측소에 기록이 남아 있어요. 영상 속 하늘도 똑같이 탁한 노란색이에요.
+051. IBRAHIM: And at one minute ten, the call to prayer. We matched it to the afternoon prayer time in Kourou-Béri that day, within four minutes.
+    이브라힘: 그리고 1분 10초에 기도 시간 알림. 그날 쿠루베리의 오후 기도 시각과 4분 안쪽으로 맞춰 봤어요.
 
-052. ELIAS: Synthetic video can fake a dirty sky.
-    일라이어스: 합성 영상도 탁한 하늘쯤은 만들 수 있죠.
+052. ELIAS: A synthetic video can fake a call to prayer.
+    일라이어스: 합성 영상도 기도 알림쯤은 만들 수 있죠.
 
 053. AICHA: Yes. It cannot fake the burn scars. Ibrahim.
     아이샤: 네. 하지만 불탄 자국은 못 만들어요. 이브라힘.
@@ -202,17 +202,17 @@
 062. AICHA: Ah, the document. That one took us forty minutes, and twenty of them were laughing.
     아이샤: 아, 문서요. 그건 40분 걸렸어요. 그중 20분은 웃느라고요.
 
-063. IBRAHIM: Your friend Lena found three mistakes. The old letterhead, the ghost signature, the dates that argue. We found a fourth.
-    이브라힘: 친구분 레나가 실수 세 개를 찾았죠. 낡은 레터헤드, 유령 서명, 서로 싸우는 날짜. 저흰 네 번째를 찾았어요.
+063. IBRAHIM: Your friend Lena found three mistakes. The colonel's people found the fourth, and we checked it ourselves.
+    이브라힘: 친구분 레나가 실수 세 개를 찾았죠. 네 번째는 대령 쪽 사람들이 찾았고, 저희가 직접 확인했어요.
 
 064. ELIAS: Go on.
     일라이어스: 계속하세요.
 
-065. IBRAHIM: Fezzan Ore Trading was registered in Misrata on January eighth. The letter addressed to it is dated November.
-    이브라힘: 페잔 오어 트레이딩은 1월 8일 미스라타에서 등록됐어요. 그 회사 앞으로 보낸 편지 날짜는 11월이고요.
+065. IBRAHIM: The Misrata registry says Fezzan Ore Trading was born in January. The letter addressed to it is dated November.
+    이브라힘: 미스라타 등기부를 보면 페잔 오어 트레이딩은 1월에 생겼어요. 그 회사 앞으로 보낸 편지 날짜는 11월이고요.
 
-066. AICHA: And Mr. Dandakoye, whose signature it carries, called me twice yesterday. He left the government in 2028. He is alive, very angry, and he wants to sue someone. I told him to get in line.
-    아이샤: 그리고 서명 주인인 단다코예 씨가 어제 저한테 두 번 전화했어요. 2028년에 정부를 떠난 분이죠. 살아 있고, 아주 화가 났고, 누구든 고소하고 싶대요. 줄 서시라고 했어요.
+066. AICHA: And Mr. Dandakoye, whose signature it carries, called me twice yesterday from Paris. The junta pushed him out in 2028. He is alive, very angry, and he wants to sue someone. I told him to get in line.
+    아이샤: 그리고 서명 주인인 단다코예 씨가 어제 파리에서 저한테 두 번 전화했어요. 2028년에 군정이 밀어낸 분이죠. 살아 있고, 아주 화가 났고, 누구든 고소하고 싶대요. 줄 서시라고 했어요.
 
 067. ELIAS: Wrong letterhead, an official who's left office, dates that don't match. You know what that sounds like.
     일라이어스: 틀린 레터헤드, 퇴임한 관리, 안 맞는 날짜. 이게 뭐랑 닮았는지 아시죠.
@@ -322,8 +322,8 @@
 102. MAIGA: Say it, then.
     마이가: 그럼 말해 보시오.
 
-103. ELIAS: The video is real. It was filmed in Kourou-Béri, mid-morning, on a phone that hasn't left Niamey. Forty-one burn scars on satellite images two days later. Nineteen wounded in the Tillabéri hospital register.
-    일라이어스: 영상은 진짜입니다. 쿠루베리에서 오전 중반에, 니아메를 떠난 적 없는 휴대전화로 찍었습니다. 이틀 뒤 위성 사진에 불탄 자국 마흔한 개. 틸라베리 병원 대장에 부상자 열아홉 명.
+103. ELIAS: The video is real. It was filmed in Kourou-Béri, late in the afternoon, on a phone that hasn't left Niamey. Forty-one burn scars on satellite images two days later. Nineteen wounded in the Tillabéri hospital register.
+    일라이어스: 영상은 진짜입니다. 쿠루베리에서 늦은 오후에, 니아메를 떠난 적 없는 휴대전화로 찍었습니다. 이틀 뒤 위성 사진에 불탄 자국 마흔한 개. 틸라베리 병원 대장에 부상자 열아홉 명.
 
 104. MAIGA: Who told you this? The girl with the generator?
     마이가: 누가 그러던가? 발전기 가진 그 아가씨?

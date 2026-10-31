@@ -10,14 +10,14 @@
 > - 역사 사례: 1961년 케네디의 평화봉사단 — 무사 박사가 "도와주러 온 미국인은 늘 결정하러 남았다"며 의심하자, 일라이어스는 1960년 10월 14일 새벽 2시 미시간 대학교 연설, 1961년 3월 1일 행정명령, 첫 단원들의 가나 도착(8월), 니제르 파견(1962년~)과 2011년 철수를 들어 '가르치러 와서 배우고 간 사람들'의 모델을 꺼낸다. 마이가가 "평화봉사단은 지도를 들고 간 첩자들"이라는 오래된 의심을 꺼내자, 일라이어스는 창설 때부터 정보기관과 단원을 떼어 놓은 원칙으로 반박하고 "이번엔 미국이 자원봉사자로, 니제르 밑에서 일한다"고 제안한다
 > - 전술 태그: [설득] [블러핑] [비밀] [유출]
 > - 이번 화의 핵심 표현: open-source verification / chain of custody / custodian / hash / forgery / fact-check / in principle / volunteers don't vote / file, not room
-> - 복선/연결: 8화 4/17 브리핑 원본·가짜 동시 공개 → 니아메 학생들이 직접 비교한 영상 · 4화 사헬 베리프(플라토 지구 재단사 가게 위층)·이브라힘 · 공개 검증 프로토콜 원칙 6개, 출범 목표 5/17 · 마르샹 "France wants to be in the room." / "France can be in the file." · 마이가: 프랑스인은 파일은 읽되 니제르 땅엔 한 명도 안 됨(→ 10화 조건 ①) · 아젤리크노르 국제 감시 '원칙적' 수락, 값은 나중에(→ 10화) · **정보 이동**: 3월에 마이가에게 "영상은 가짜"라고 보고한 문서는 러시아어로 쓰여 서툰 프랑스어로 번역돼 있었고, 광산 경비 회사 연락관이 가져왔다(→ 6화 볼나, 10·12화)
+> - 복선/연결: 8화 4/17 브리핑 원본·가짜 동시 공개 → 니아메 학생들이 직접 비교한 영상 · 4화 사헬 베리프(플라토 지구 재단사 가게 위층)·이브라힘 · 공개 검증 프로토콜 원칙 7개(칠판), 출범 목표 5/17(무사 박사가 날짜 지정) · 마르샹 "France wants to be in the room." / "France can be in the file." · 마이가: 프랑스인은 파일은 읽되 니제르 땅엔 한 명도 안 됨(→ 10화 조건 ①) · 아젤리크노르 국제 감시 '원칙적' 수락, 값은 나중에(→ 10화) · **정보 이동**: 3월에 마이가에게 "영상은 가짜"라고 보고한 문서는 러시아어로 쓰여 서툰 프랑스어로 번역돼 있었고, 광산 경비 회사 연락관이 가져왔다(→ 6화 볼나, 10·12화)
 
 ---
 
 ## 대본
 
-001. SAMIRA: The embassy swept this room at six. In Niamey, that apparently means someone unplugged the coffee machine.
-    사미라: 대사관이 6시에 이 방을 점검했대요. 니아메에선 누가 커피 머신 플러그를 뽑았다는 뜻인가 봐요.
+001. SAMIRA: They swept this room at six. Here that means someone unplugged the coffee machine.
+    사미라: 6시에 이 방을 점검했대요. 여기선 누가 커피 머신 플러그를 뽑았다는 뜻이에요.
 
 002. ELIAS: Then we'll talk before anyone plugs it back in. How did last Wednesday land?
     일라이어스: 그럼 누가 다시 꽂기 전에 얘기하자. 지난 수요일 건은 어떻게 됐어?
@@ -46,8 +46,8 @@
 010. ELIAS: The nephew with a laptop.
     일라이어스: 노트북 가진 조카네.
 
-011. SAMIRA: The cousin with a laptop, technically. And the head of that department wants to meet you at ten.
-    사미라: 엄밀히 말하면 노트북 가진 사촌이요. 그리고 그 학과 학과장이 10시에 뵙고 싶대요.
+011. SAMIRA: The cousin, technically. And their department head wants to meet you at ten.
+    사미라: 엄밀히 말하면 사촌이요. 그리고 그 학과 학과장이 10시에 뵙고 싶대요.
 
 012. ELIAS: Dr. Moussa. What do we know about her?
     일라이어스: 무사 박사. 그 사람에 대해 뭘 알아?
@@ -100,8 +100,8 @@
 028. ELIAS: You didn't bring the talking points?
     일라이어스: 발언 요지를 안 가져왔다고?
 
-029. SAMIRA: I brought a list of the things you're not allowed to say. It's shorter, and it's more useful.
-    사미라: 하시면 안 되는 말 목록을 가져왔어요. 더 짧고 더 쓸모 있어요.
+029. SAMIRA: I brought a list of things you can't say. It's shorter.
+    사미라: 하시면 안 되는 말 목록을 가져왔어요. 그게 더 짧아요.
 
 030. ELIAS: Read it to me in the car.
     일라이어스: 차에서 읽어 줘.
@@ -247,8 +247,8 @@
 077. ELIAS: With a blackboard, actually. They're more honest. Thank you for taking the call, Jean-Luc.
     일라이어스: 정확히는 칠판이요. 그쪽이 더 정직하거든요. 전화 받아 주셔서 고마워요, 장뤽.
 
-078. MARCHAND: I always take calls from men who owe me dinner. What do you want from France this time?
-    마르샹: 저녁 한 끼 빚진 사람 전화는 늘 받아요. 이번엔 프랑스한테 뭘 원하시죠?
+078. MARCHAND: I always take calls from men who owe me dinner. What now?
+    마르샹: 저녁 한 끼 빚진 사람 전화는 늘 받아요. 이번엔 뭐죠?
 
 079. ELIAS: A laboratory. One that can examine files and publish what it finds under its own name. As a volunteer.
     일라이어스: 연구소 하나요. 파일을 검사하고 찾은 걸 자기 이름으로 공개할 수 있는 곳이요. 자원봉사자로서요.
@@ -286,8 +286,8 @@
 090. ELIAS: I need the most boring person in the FBI laboratory. Samira says that's you.
     일라이어스: FBI 연구소에서 제일 지루한 사람이 필요해요. 사미라가 박사님이래요.
 
-091. OKAFOR: I'll take that as a compliment. I don't do pixels, though. I do metal, and I do custody.
-    오카포: 칭찬으로 받을게요. 그런데 전 픽셀은 안 해요. 금속을 하고, 증거 관리를 하죠.
+091. OKAFOR: Compliment accepted. But I don't do pixels. I do metal and custody.
+    오카포: 칭찬으로 받을게요. 그런데 전 픽셀은 안 해요. 금속이랑 증거 관리를 하죠.
 
 092. ELIAS: Custody is what I need. Nigerien students will run the tests. I need someone to check that every signature is where it should be.
     일라이어스: 필요한 게 증거 관리예요. 검사는 니제르 학생들이 돌려요. 서명이 전부 제자리에 있는지 확인해 줄 사람이 필요해요.
@@ -298,8 +298,8 @@
 094. ELIAS: From Quantico. Copies only, and you publish your findings under your own name. You don't vote.
     일라이어스: 콴티코에서요. 사본만이고, 결과는 박사님 이름으로 공개하세요. 투표는 안 하시고요.
 
-095. OKAFOR: I've testified in front of forty juries, and I never once got a vote. I'm used to it.
-    오카포: 배심원 마흔 번 앞에서 증언했는데 한 번도 투표권은 없었어요. 익숙해요.
+095. OKAFOR: I've faced forty juries and never once got a vote.
+    오카포: 배심원 마흔 번 앞에 섰는데 투표권은 한 번도 없었어요.
 
 096. ELIAS: Then you're perfect.
     일라이어스: 그럼 딱 맞으시네요.
@@ -315,3 +315,181 @@
 
 100. SAMIRA: "When," she said. Not "if." The car is outside. It's four-thirty, and the colonel doesn't like lectures or lateness.
     사미라: '하면'이라고 했어요. '한다면'이 아니라요. 차가 밖에 있어요. 4시 반이고, 대령은 훈계도 지각도 싫어해요.
+
+101. MAIGA: Sit. My aide says you came to Niamey to talk about volunteers. The last American volunteers left thirteen years before your soldiers did.
+    마이가: 앉으시오. 보좌관 말로는 자원봉사자 얘기를 하러 니아메에 왔다던데. 마지막 미국 자원봉사자들은 당신네 군인들보다 13년 먼저 떠났소.
+
+102. ELIAS: Twenty eleven and twenty twenty-four. You keep better count than we do, Colonel.
+    일라이어스: 2011년과 2024년이죠. 우리보다 셈을 잘하시네요, 대령님.
+
+103. MAIGA: We had to. The Peace Corps came to teach us English and left with very good maps of our villages. Everyone in my academy knew that.
+    마이가: 셀 수밖에 없었소. 평화봉사단은 영어를 가르치러 와서 우리 마을 지도를 아주 잘 그려 갔지. 내 사관학교에선 다들 알던 얘기요.
+
+104. ELIAS: Everyone in your academy heard it. That's not the same as knowing it.
+    일라이어스: 사관학교에서 다들 들었겠죠. 그게 아는 것과 같지는 않습니다.
+
+105. MAIGA: Careful, Mr. Grant. You're close to a lecture.
+    마이가: 조심하시오, 그랜트 씨. 훈계에 가까워지고 있소.
+
+106. ELIAS: Then here's a fact instead. From the beginning, Shriver kept the intelligence agencies away from the volunteers, by rule. Anyone who'd worked for them couldn't serve.
+    일라이어스: 그럼 대신 사실을 하나 드리죠. 처음부터 슈라이버는 규칙으로 정보기관을 단원들한테서 떼어 놨습니다. 정보기관에서 일했던 사람은 단원이 될 수 없었어요.
+
+107. MAIGA: A rule written in Washington.
+    마이가: 워싱턴에서 쓴 규칙이군.
+
+108. ELIAS: Yes. Which is why I'm not asking you to trust a rule written in Washington. I'm asking you to trust one written on a blackboard at Abdou Moumouni this morning.
+    일라이어스: 네. 그래서 워싱턴에서 쓴 규칙을 믿어 달라는 게 아닙니다. 오늘 아침 압두 무무니 대학 칠판에 쓴 규칙을 믿어 달라는 겁니다.
+
+109. MAIGA: By Dr. Moussa. Who refuses American money and criticizes my government on the radio every second Thursday.
+    마이가: 무사 박사가 썼겠지. 미국 돈은 거절하고, 격주 목요일마다 라디오에서 내 정부를 비판하는 사람.
+
+110. ELIAS: Which is why people will believe her when she says the yellowcake document is a forgery.
+    일라이어스: 그러니까 사람들이 믿는 거죠. 그 사람이 옐로케이크 문서가 위조라고 말하면요.
+
+111. MAIGA: Ah. Now you're speaking about my problem.
+    마이가: 아. 이제야 내 문제를 말하는군.
+
+112. ELIAS: Your problem is that half the American Senate thinks you sold uranium to Pyongyang. A Nigerien university saying "forged," with every file open, is worth more than any denial from you or from me.
+    일라이어스: 대령님 문제는 미국 상원 절반이 대령님이 평양에 우라늄을 팔았다고 생각한다는 겁니다. 니제르 대학이 모든 파일을 공개한 채 '위조'라고 하는 게, 대령님 부인이나 제 부인보다 값어치가 있어요.
+
+113. MAIGA: And the same students will look at the village video.
+    마이가: 그리고 그 학생들이 마을 영상도 들여다보겠지.
+
+114. ELIAS: They already have. It's real, Colonel. You know it's real.
+    일라이어스: 이미 들여다봤습니다. 진짜예요, 대령님. 대령님도 진짜인 거 아시잖아요.
+
+115. MAIGA: In March, I was told it was false. I was given a report. Twenty pages, very technical, very confident.
+    마이가: 3월에 나는 그게 가짜라고 보고받았소. 보고서를 받았지. 스무 쪽, 아주 기술적이고 아주 자신만만한.
+
+116. ELIAS: Who gave you the report?
+    일라이어스: 그 보고서는 누가 드렸습니까?
+
+117. MAIGA: You'll like this. It was written in Russian and translated into French by someone who learned French from a machine. It was brought to me by the liaison from the company that guards my mine.
+    마이가: 좋아할 얘기요. 러시아어로 쓰였고, 프랑스어를 기계한테 배운 누군가가 프랑스어로 옮긴 거였소. 내 광산을 지키는 회사의 연락관이 가져왔지.
+
+118. ELIAS: Volna.
+    일라이어스: 볼나네요.
+
+119. MAIGA: I didn't say the name. You did. I'm telling you this because I don't like being lied to in bad French.
+    마이가: 난 이름을 말하지 않았소. 당신이 했지. 이 얘기를 하는 건, 엉터리 프랑스어로 거짓말을 듣는 게 싫어서요.
+
+120. ELIAS: Would you put that report into the protocol? As a file, with its hash?
+    일라이어스: 그 보고서를 프로토콜에 넣어 주시겠습니까? 해시값을 붙인 파일로요?
+
+121. MAIGA: You want my lie to be examined next to your truth.
+    마이가: 내가 받은 거짓말을 당신네 진실 옆에서 검사하겠다는 거군.
+
+122. ELIAS: I want the world to see who tried to sell you a lie. Nobody needs to know you believed it for a week.
+    일라이어스: 누가 대령님한테 거짓말을 팔려 했는지 세상이 보게 하고 싶은 겁니다. 대령님이 일주일 동안 그걸 믿었다는 건 아무도 알 필요 없어요.
+
+123. MAIGA: Two weeks. Let's be accurate, since accuracy is now your religion. What about the French?
+    마이가: 2주요. 정확하게 합시다. 이제 정확성이 당신 종교라니까. 프랑스는 어떻게 하오?
+
+124. ELIAS: A laboratory near Paris examines copies, in France, under its own name, without a vote. No French citizen comes to Niger for this.
+    일라이어스: 파리 근처 연구소가 프랑스에서, 자기 이름으로, 투표권 없이 사본을 검사합니다. 이 일로 니제르에 오는 프랑스 시민은 없습니다.
+
+125. MAIGA: Good. Let the French read files in Paris. Not one French boot in my country. Not in a lab, and never in my mine.
+    마이가: 좋소. 프랑스인들은 파리에서 파일이나 읽으라 하시오. 내 나라엔 프랑스 군화 하나도 안 되오. 연구소에도, 내 광산엔 절대로.
+
+126. ELIAS: Since you mention the mine. If a file can be open, so can a mine. Every drum weighed, sealed, and counted in public.
+    일라이어스: 광산 얘기를 꺼내셨으니 말인데요. 파일이 공개될 수 있으면 광산도 공개될 수 있습니다. 드럼 하나하나를 공개적으로 달고, 봉인하고, 세는 거죠.
+
+127. MAIGA: International monitoring of Azelik-Nord. That's what Paris wanted for sixty years. That's what you came for. You came for uranium.
+    마이가: 아젤리크노르 국제 감시라. 파리가 60년 동안 원한 게 그거요. 당신도 그걸 위해 온 거고. 우라늄 때문에 왔지.
+
+128. ELIAS: I came for a village and a forgery. The mine is the question you'll hear next, from every capital. I'd rather you heard it first from me, without a price attached.
+    일라이어스: 전 마을 하나와 위조 문서 하나 때문에 왔습니다. 광산은 대령님이 앞으로 모든 수도에서 듣게 될 질문이에요. 값을 붙이지 않고 저한테서 먼저 들으시는 게 낫다고 봤습니다.
+
+129. MAIGA: Everything has a price, Mr. Grant. Only Americans pretend otherwise.
+    마이가: 모든 건 값이 있소, 그랜트 씨. 미국인들만 아닌 척하지.
+
+130. ELIAS: Then name it.
+    일라이어스: 그럼 말씀해 보시죠.
+
+131. MAIGA: Not today. Today I say this. The protocol, yes, with Dr. Moussa holding the keys and my government holding nothing. Monitoring of the mine, in principle.
+    마이가: 오늘은 아니오. 오늘은 이것만 말하지. 프로토콜은 받아들이겠소. 열쇠는 무사 박사가 쥐고 내 정부는 아무것도 안 쥐는 조건으로. 광산 감시는 원칙적으로.
+
+132. ELIAS: In principle.
+    일라이어스: 원칙적으로요.
+
+133. MAIGA: In Niamey, "in principle" means the principle has a price, and I'll tell you when I'm ready. In Washington, I'm told, it means no.
+    마이가: 니아메에서 '원칙적으로'는 그 원칙에 값이 있고, 내가 준비되면 말해 주겠다는 뜻이오. 워싱턴에선 '아니요'라는 뜻이라더군.
+
+134. ELIAS: In Washington it means a lawyer calls tomorrow. I'll make it mean yours.
+    일라이어스: 워싱턴에선 내일 변호사가 전화한다는 뜻이죠. 대령님 뜻이 되게 하겠습니다.
+
+135. MAIGA: Go back to your embassy, Mr. Grant. And tell Dr. Moussa I'm not taking her keys. Not this year.
+    마이가: 대사관으로 돌아가시오, 그랜트 씨. 그리고 무사 박사한테 내가 열쇠를 안 가져간다고 전하시오. 올해는.
+
+136. FRANK: It's lunchtime here and nighttime there. Did you eat?
+    프랭크: 여긴 점심때고 거긴 밤이겠구나. 밥은 먹었니?
+
+137. ELIAS: Rice and grilled goat on the roof of the embassy. Samira made me finish it.
+    일라이어스: 대사관 옥상에서 밥이랑 염소 구이. 사미라가 다 먹게 했어.
+
+138. FRANK: Good for Samira. You know, my eighth-grade science teacher was in Niger. Mr. Halvorsen. Sixty-three to sixty-five.
+    프랭크: 사미라 잘했다. 그거 아니, 내 중학교 2학년 과학 선생님이 니제르에 있었다. 핼버슨 선생님. 63년부터 65년까지.
+
+139. ELIAS: You never told me that.
+    일라이어스: 그 얘기 한 번도 안 했잖아.
+
+140. FRANK: You never went to Niger before. He came back thin and taught us one word. "Fofo." He said it meant hello and thank you at the same time.
+    프랭크: 네가 전엔 니제르에 간 적이 없었잖니. 그 선생님은 비쩍 말라서 돌아와서 우리한테 단어 하나를 가르쳐 줬어. '포포.' 안녕이랑 고마워를 한 번에 뜻한다더라.
+
+141. ELIAS: That's Zarma. The students said it to me this morning.
+    일라이어스: 자르마어야. 오늘 아침에 학생들이 나한테 그렇게 인사했어.
+
+142. FRANK: He told us the first thing he learned there was that he knew nothing. He said it like it was the best news of his life.
+    프랭크: 거기서 처음 배운 게 자기가 아무것도 모른다는 거였다고 하더라. 인생 최고의 소식인 것처럼 말했지.
+
+143. ELIAS: Today a colonel told me everything has a price, and a professor told me I was making her students targets. Both of them were right.
+    일라이어스: 오늘 대령은 모든 건 값이 있다고 했고, 교수는 내가 자기 학생들을 표적으로 만든다고 했어. 둘 다 맞았어.
+
+144. FRANK: Then you had a good day. Go to sleep. Fofo, Elias.
+    프랭크: 그럼 좋은 하루였구나. 자라. 포포, 일라이어스.
+
+145. SAMIRA: Dr. Moussa texted. "If the colonel didn't take the keys, I'll take the date." She wants May seventeenth.
+    사미라: 무사 박사한테 문자 왔어요. "대령이 열쇠를 안 가져갔으면 날짜는 제가 정하죠." 5월 17일을 원한대요.
+
+146. ELIAS: Three and a half weeks. Can it be done?
+    일라이어스: 3주 반. 될까?
+
+147. SAMIRA: If nobody in Washington tries to hold the keys. That's the part I'd worry about.
+    사미라: 워싱턴에서 아무도 열쇠를 쥐려고 안 하면요. 전 그 부분이 걱정돼요.
+
+148. ELIAS: Who in Washington would want the keys?
+    일라이어스: 워싱턴에서 누가 열쇠를 원하겠어?
+
+149. SAMIRA: Everyone who asked for the names this morning. I'm keeping that page open.
+    사미라: 오늘 아침에 이름을 물어 온 사람들 전부요. 그 페이지는 계속 열어 둘게요.
+
+150. ELIAS: Then let's write the protocol so well that it doesn't matter who knows first. Fofo, Samira. Go to bed.
+    일라이어스: 그럼 누가 먼저 알든 상관없을 만큼 프로토콜을 잘 쓰자. 포포, 사미라. 가서 자.
+
+---
+
+## 핵심 표현 정리 (낭독하지 않음)
+
+- **Downloads aren't belief.** — 숫자와 신뢰를 구분하는 짧은 말 (004)
+- **custodian** — 증거·원본의 공식 보관자 (041)
+- **chain of custody anyone can read** — 공개된 증거 관리 기록, 프로토콜의 뼈대 (042)
+- **hash** — 파일의 디지털 지문. 한 픽셀만 바뀌어도 값이 달라진다 (040, 066)
+- **Volunteers don't vote.** — 돕되 결정하지 않는 외국 기관의 자리 (058–059)
+- **"partner" — who holds the keys** — 같은 말, 다른 뉘앙스: 니아메에선 열쇠를 세고, 워싱턴에선 구경을 시킨다 (061–062)
+- **Disagreements are published, not settled in a back room.** — 공개 검증의 핵심 원칙 (069)
+- **France wants to be in the room. / France can be in the file.** — '방'에서 '파일'로 바뀐 외교의 자리 (082–083)
+- **I want to be corrected in public, not protected in private.** — 검증자의 신뢰를 만드는 태도 (097)
+- **You're close to a lecture.** — 상대의 훈계를 끊는 경고 (105)
+- **That's not the same as knowing it.** — 소문과 사실을 가르는 반박 (104)
+- **in principle** — 같은 말, 다른 뉘앙스: 니아메에선 "값이 있다", 워싱턴에선 "아니요" 혹은 "내일 변호사가 전화한다" (131–134)
+- **Everything has a price.** — 마이가의 거래 원칙, 10화로 이어지는 질문 (129)
+
+## 역사 노트 (낭독하지 않음)
+
+- 1960년 10월 14일 새벽 2시, 대선 후보 존 F. 케네디는 미시간 대학교 학생회관 계단에서 학생들에게 개발도상국에서 2년 동안 일할 의향이 있느냐고 물었다. 취임 뒤 1961년 3월 1일 행정명령 10924호로 평화봉사단이 만들어졌고, 초대 단장은 사전트 슈라이버였다. 같은 해 9월 의회가 평화봉사단법을 통과시켰고, 첫 단원들은 1961년 8월 가나에 도착했다.
+- 슈라이버는 창설 때부터 정보기관과 단원을 엄격히 떼어 놓는 원칙을 세웠다. 그런데도 냉전 내내 소련 선전과 일부 정부는 평화봉사단을 첩보 조직이라고 의심했다. 니제르에는 1962년부터 단원들이 파견되어 수천 명이 교육·보건·농업 분야에서 일했고, 2011년 1월 치안 악화로 프로그램이 중단됐다. 2023년 쿠데타 뒤 미군은 2024년 니제르에서 철수했다.
+- 극 중 활용: 무사 박사는 "착한 사람들도 돌아가서 보고서를 썼다"며 '결정하러 남는 도움'을 의심하고, 마이가는 "지도를 그려 갔다"는 오래된 소문을 꺼낸다. 일라이어스는 사실(정보기관 분리 원칙, 가르치러 와서 배우고 간 단원들)로 답하고, 평화봉사단을 뒤집어 니제르가 의장·보관자를 맡고 미국·프랑스 연구소는 '투표권 없는 자원봉사자'로 들어가는 공개 검증 프로토콜을 제안한다.
+
+## 다음 화 예고 (낭독하지 않음)
+
+- 10화 "Point Four": 마이가가 '원칙'의 값을 말한다. 일라이어스는 원조가 아니라 전력망을 꺼낸다. 아이샤는 광산 드럼을 세는 대가로 쿠루베리 현장 접근을 요구한다.

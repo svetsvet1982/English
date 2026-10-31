@@ -25,8 +25,8 @@
 003. AICHA: He's behind the curtain with his lawyers. He'll speak, and he'll sit in the front row, but he won't sign the founding document on stage.
     아이샤: 법률가들이랑 커튼 뒤에 있어요. 연설은 하고 맨 앞줄에도 앉겠대요. 그런데 무대에서 창립 문서에 서명은 안 하겠대요.
 
-004. SAMIRA: He signed the mine agreement two weeks ago. In his own office, on a Saturday, with nobody watching.
-    사미라: 광산 합의엔 2주 전에 서명했잖아요. 자기 사무실에서, 토요일에, 아무도 안 보는 데서.
+004. SAMIRA: He signed the mine agreement two weeks ago, in his own office, with nobody watching.
+    사미라: 광산 합의엔 2주 전에 서명했잖아요. 자기 사무실에서, 아무도 안 보는 데서.
 
 005. AICHA: Exactly. He signs in rooms. He doesn't sign in front of cameras. He says a signature on a stage looks like a confession.
     아이샤: 바로 그거예요. 그 사람은 방 안에서 서명해요. 카메라 앞에선 안 해요. 무대 위 서명은 자백처럼 보인대요.
@@ -34,11 +34,11 @@
 006. ELIAS: It's the Kourou-Béri paragraph.
     일라이어스: 쿠루베리 문단 때문이군요.
 
-007. AICHA: Of course it is. Everything else in the document is about files. That paragraph is about graves.
-    아이샤: 당연하죠. 문서의 나머지는 다 파일 얘기예요. 그 문단만 무덤 얘기고요.
+007. AICHA: Of course. Everything else in the document is about files. That paragraph is graves.
+    아이샤: 당연하죠. 문서의 나머지는 다 파일 얘기예요. 그 문단만 무덤이고요.
 
-008. ELIAS: Can I have five minutes with him?
-    일라이어스: 5분만 그 사람이랑 얘기할 수 있을까요?
+008. ELIAS: Can I have five minutes with him? Alone, without the lawyers.
+    일라이어스: 5분만 그 사람이랑 얘기할 수 있을까요? 단둘이, 법률가들 없이요.
 
 009. AICHA: You can have four. The audience is already seated. Students, three ministers, a French diplomat pretending he isn't one, and about two thousand people on the live stream.
     아이샤: 4분 드릴게요. 청중은 벌써 앉았어요. 학생들, 장관 셋, 외교관 아닌 척하는 프랑스 외교관 하나, 그리고 생중계로 2천 명쯤이요.
@@ -73,8 +73,8 @@
 019. ELIAS: No, Minister. I brought a pen. The plates were for people who were afraid of each other. You're not afraid of anyone in that audience. You're afraid of what signing in public says about the past.
     일라이어스: 아니요, 장관님. 펜을 가져왔습니다. 접시는 서로를 두려워하는 사람들을 위한 거였죠. 장관님은 저 청중 중 누구도 두려워하지 않으십니다. 공개 서명이 과거에 대해 뭘 말하게 될지가 두려우신 거죠.
 
-020. MAIGA: Bunche made peace in a hotel. I am being asked to make a confession in an auditorium.
-    마이가: 번치는 호텔에서 평화를 만들었소. 난 강당에서 자백을 하라는 요구를 받고 있고.
+020. MAIGA: Bunche made peace in a hotel. You ask me to confess in an auditorium.
+    마이가: 번치는 호텔에서 평화를 만들었소. 당신은 나더러 강당에서 자백하라는 거고.
 
 021. AICHA: With respect, Minister, Bunche didn't make peace. He made armistices. Egypt in February 1949, then Lebanon, Jordan, and Syria. There was no peace treaty for decades.
     아이샤: 외람되지만 장관님, 번치는 평화를 만든 게 아니에요. 휴전을 만들었죠. 1949년 2월 이집트, 그다음 레바논, 요르단, 시리아. 평화조약은 수십 년 동안 없었어요.
@@ -94,8 +94,8 @@
 026. ELIAS: Yes. And once it's drawn in public, nobody can redraw it in a back room. Including the men who'd like you to take the blame for Kourou-Béri.
     일라이어스: 네. 그리고 한 번 공개적으로 그으면 아무도 뒷방에서 다시 못 긋습니다. 쿠루베리의 책임을 장관님께 뒤집어씌우고 싶어 하는 자들까지 포함해서요.
 
-027. MAIGA: You think someone wants that?
-    마이가: 누가 그걸 원한다고 생각하오?
+027. MAIGA: You think someone wants that? Who would want that, Monsieur Grant?
+    마이가: 누가 그걸 원한다고 생각하오? 누가 그런 걸 원하겠소, 그랜트 씨?
 
 028. ELIAS: I think someone forged a uranium sale in your ministry's name. People who do that don't stop at one document.
     일라이어스: 누군가 장관님 부처 이름으로 우라늄 판매를 위조했습니다. 그런 짓을 하는 자들은 문서 하나로 멈추지 않죠.
@@ -157,14 +157,14 @@
 047. MAIGA: And I announce, today, a commission of inquiry into Kourou-Béri. Nigerien judges, observers from the African Union, and evidence held by people none of us command. The first visit to the village is on Monday.
     마이가: 그리고 오늘 쿠루베리 조사위원회 출범을 발표하오. 니제르 판사들, 아프리카연합 참관인들, 그리고 우리 중 누구의 지휘도 받지 않는 사람들이 보관하는 증거로. 마을 첫 방문은 월요일이오.
 
-048. ELIAS: That wasn't in the speech.
-    일라이어스: 그건 연설문에 없었는데.
+048. ELIAS: That wasn't in the speech. Samira, was that in the speech?
+    일라이어스: 그건 연설문에 없었는데. 사미라, 연설문에 있었어?
 
 049. AICHA: No. He added it while Ibrahim was talking. I watched him write it on the back of his program.
     아이샤: 없었죠. 이브라힘이 말하는 동안 덧붙였어요. 프로그램 뒷면에 쓰는 걸 제가 봤어요.
 
-050. SAMIRA: Write down the time. Nine fifty-one. That's the time a fake made the truth go faster.
-    사미라: 시간 적어 둘게요. 9시 51분. 가짜가 진실을 더 빨리 가게 만든 시각이요.
+050. SAMIRA: Nine fifty-one. The time a fake made the truth go faster.
+    사미라: 9시 51분. 가짜가 진실을 더 빨리 가게 만든 시각이요.
 
 051. DMITRI: Elias. I watched your little university on the internet. Nineteen minutes. In Moscow, a fact-check takes nineteen years and ends in a medal.
     드미트리: 일라이어스. 네 작은 대학 행사 인터넷으로 봤어. 19분. 모스크바에선 팩트체크에 19년이 걸리고 훈장으로 끝나지.
@@ -196,14 +196,14 @@
 060. ELIAS: That's not a real saying.
     일라이어스: 그런 속담 없어.
 
-061. DMITRI: It is now. Write it on your protocol. Free of charge, the first Russian contribution to open source.
-    드미트리: 이제 있어. 네 프로토콜에 써 둬. 공짜야. 오픈 소스에 대한 러시아의 첫 기여지.
+061. DMITRI: It is now. Write it on your protocol. Russia's first contribution to open source.
+    드미트리: 이제 있어. 네 프로토콜에 써 둬. 오픈 소스에 대한 러시아의 첫 기여지.
 
 062. ELIAS: In your building, "open source" means you lost control of something.
     일라이어스: 너희 건물에선 '오픈 소스'가 뭘 놓쳤다는 뜻이잖아.
 
-063. DMITRI: In yours, it means you want to look like you never had control. Same words, Elias. Different alibi.
-    드미트리: 너희 건물에선 애초에 통제한 적 없는 것처럼 보이고 싶다는 뜻이고. 같은 말이야, 일라이어스. 알리바이만 다르지.
+063. DMITRI: In yours, it means you never had control. Same words, Elias. Different alibi.
+    드미트리: 너희 건물에선 애초에 통제한 적 없다는 뜻이고. 같은 말이야, 일라이어스. 알리바이만 다르지.
 
 064. ELIAS: Where do the men go?
     일라이어스: 그 사람들은 어디로 가?
@@ -220,11 +220,11 @@
 068. SAMIRA: Deputy Secretary. The Secretary, on the other line. He's watched the stream too.
     사미라: 부장관님. 장관님이 다른 회선에 계세요. 생중계 보셨대요.
 
-069. CALLAWAY: Nineteen minutes, Elias. I've already told the press office I want that number in my remarks.
-    캘러웨이: 19분이야, 일라이어스. 그 숫자 내 발언에 넣으라고 공보실에 벌써 말해 뒀네.
+069. CALLAWAY: Nineteen minutes, Elias. I want that number in my remarks.
+    캘러웨이: 19분이야, 일라이어스. 그 숫자 내 발언에 넣고 싶네.
 
-070. ELIAS: It's Aïcha's number, sir. Her desk did the work. If you use it, use her name.
-    일라이어스: 그건 아이샤의 숫자입니다, 장관님. 그 데스크가 한 일이에요. 쓰신다면 그 이름을 같이 써 주십시오.
+070. ELIAS: It's Aïcha's number, sir. If you use it, use her name.
+    일라이어스: 그건 아이샤의 숫자입니다, 장관님. 쓰신다면 그 이름도 같이 써 주십시오.
 
 071. CALLAWAY: I'll be generous. I always am. The draft says "The United States supports the Nigerien-led verification protocol." You'll notice I learned something in Muscat.
     캘러웨이: 넉넉하게 하지. 난 늘 그래. 초안엔 "미국은 니제르 주도의 검증 프로토콜을 지지한다"고 돼 있어. 무스카트에서 내가 뭘 좀 배웠다는 거 알아차렸겠지.
@@ -250,8 +250,8 @@
 078. SAMIRA: He asked twice. The visit and the building. And he knew it was two hours.
     사미라: 두 번 물으셨어요. 면회랑 건물이요. 그리고 두 시간이었다는 것도 알고 계셨고요.
 
-079. ELIAS: Everything I said was true.
-    일라이어스: 내가 한 말은 전부 사실이야.
+079. ELIAS: Everything I said was true. Every single word of it.
+    일라이어스: 내가 한 말은 전부 사실이야. 한 마디도 빠짐없이.
 
 080. SAMIRA: It was. It was also the shortest version of the truth I've ever heard you tell. I'm putting it on the "2027" page, under today.
     사미라: 사실이었죠. 동시에 제가 들어 본 것 중에 제일 짧은 버전의 사실이기도 했고요. '2027' 페이지 오늘 날짜 밑에 적어 둘게요.
@@ -265,8 +265,8 @@
 083. JULIA: That's worse. Rosie's mother has a firewall, Elias. Anything about you goes to a colleague, not to me. You know that.
     줄리아: 그게 더 나빠. 로지 엄마한텐 차단벽이 있어, 일라이어스. 너에 관한 건 내가 아니라 동료한테 가. 알잖아.
 
-084. ELIAS: Then let me ask hypothetically, about nobody, the way a stranger might ask at a dinner party.
-    일라이어스: 그럼 가정으로 물어볼게. 아무에 대해서도 아니고, 저녁 파티에서 모르는 사람이 묻듯이.
+084. ELIAS: Then hypothetically, about nobody, the way a stranger asks at a dinner party.
+    일라이어스: 그럼 가정으로. 아무에 대해서도 아니고, 저녁 파티에서 모르는 사람이 묻듯이.
 
 085. JULIA: Hypothetically, I'm hanging up in two minutes. Go.
     줄리아: 가정으로 말하자면, 나 2분 뒤에 끊어. 해.
@@ -283,8 +283,8 @@
 089. JULIA: The kind that existed before anyone had a reason to lie. A log, a distribution list, an email with a date on it. Anything made at the time, by people who didn't know it would matter.
     줄리아: 누가 거짓말할 이유가 생기기 전부터 있던 종류. 기록 대장, 배포 명단, 날짜 찍힌 이메일. 그게 중요해질 줄 모르던 사람들이 그 당시에 만든 거면 뭐든.
 
-090. ELIAS: In my building, paper is where people hide things. In yours, it's where you find them.
-    일라이어스: 우리 건물에선 서류가 뭘 숨기는 곳이야. 너희 건물에선 뭘 찾는 곳이고.
+090. ELIAS: In my building, paper hides things. In yours, paper finds them.
+    일라이어스: 우리 건물에선 서류가 뭘 숨겨. 너희 건물에선 서류가 뭘 찾아내고.
 
 091. JULIA: Same paper. Different subpoena. And the visitor should not go looking for that log himself.
     줄리아: 같은 서류야. 소환장만 다르지. 그리고 면회 간 사람은 그 기록을 직접 찾으러 가면 안 돼.
@@ -304,8 +304,8 @@
 096. ELIAS: Because a visitor carrying messages is a witness problem.
     일라이어스: 메시지를 나르는 면회객은 증인 문제가 되니까.
 
-097. JULIA: Because a visitor carrying messages is the defense's favorite exhibit. Is that a confession or a question?
-    줄리아: 메시지를 나르는 면회객은 피고 측이 제일 좋아하는 증거물이니까. 그거 자백이야, 질문이야?
+097. JULIA: Because that visitor becomes the defense's favorite exhibit. Is that a confession or a question?
+    줄리아: 그런 면회객은 피고 측이 제일 좋아하는 증거물이 되니까. 그거 자백이야, 질문이야?
 
 098. ELIAS: A question. Here's another. What if the visitor has something of his own? Not what she said. Something he saw and heard himself.
     일라이어스: 질문. 하나 더. 면회객한테 자기 것이 있으면? 그 사람이 한 말이 아니라, 자기가 직접 보고 들은 거.
@@ -331,11 +331,11 @@
 105. JULIA: Because a sentence somebody wanted in a court document is a fact about him, not about her. When did it happen?
     줄리아: 누가 법원 문서에 넣고 싶어 한 문장은 그 여자에 대한 사실이 아니라 그 사람에 대한 사실이니까. 언제였어?
 
-106. ELIAS: March fifth. A Tuesday morning, in his office. His chief of staff wasn't there. Samira knows, because I told her that afternoon.
-    일라이어스: 3월 5일. 화요일 아침, 그 사람 사무실에서. 비서실장은 없었고. 사미라가 알아. 그날 오후에 내가 말했으니까.
+106. ELIAS: March fifth. A Tuesday morning, in his office. Just the two of us. Samira knows, because I told her that afternoon.
+    일라이어스: 3월 5일. 화요일 아침, 그 사람 사무실에서. 단둘이. 사미라가 알아. 그날 오후에 내가 말했으니까.
 
-107. JULIA: Did you write it down that day?
-    줄리아: 그날 적어 뒀어?
+107. JULIA: Did you write it down that day? Even a note to yourself?
+    줄리아: 그날 적어 뒀어? 자기한테 쓴 메모라도?
 
 108. ELIAS: No. I sent the statement with the dull sentence and went to lunch.
     일라이어스: 아니. 지루한 문장 넣은 진술서를 보내고 점심 먹으러 갔지.
@@ -382,8 +382,8 @@
 122. SAMIRA: You wrote "the Secretary." Not "a senior official."
     사미라: '장관'이라고 쓰셨네요. '고위 관리'가 아니라.
 
-123. ELIAS: It's my memory, not her hearsay. I don't get to be vague about what I saw myself.
-    일라이어스: 이건 내 기억이지 그 사람의 전언이 아니야. 내가 직접 본 거에 대해선 애매하게 굴 수 없어.
+123. ELIAS: It's my memory, not her hearsay. I don't get to be vague about it.
+    일라이어스: 이건 내 기억이지 그 사람의 전언이 아니야. 여기에 대해선 애매하게 굴 수 없어.
 
 124. SAMIRA: Where does it go?
     사미라: 이건 어디로 가요?
@@ -406,7 +406,7 @@
 130. FRANK: I watched your university thing on Rosie's laptop. The colonel with the program. He wrote something on the back of it.
     프랭크: 로지 노트북으로 네 대학 행사 봤다. 프로그램 든 그 대령. 뒷면에 뭘 쓰더구나.
 
-131. ELIAS: He added a commission of inquiry while a twenty-six-year-old was taking apart a fake of him.
+131. ELIAS: He added an inquiry while a twenty-six-year-old took apart his fake.
     일라이어스: 스물여섯 살짜리가 자기 가짜 영상을 해체하는 동안 조사위원회를 덧붙였어요.
 
 132. FRANK: You know what that reminds me of? Bunche. My Thursday class next week. I'm going to tell them about the plates.
@@ -421,8 +421,8 @@
 135. ROSIE: Dad! Grandpa, give me the phone. Dad, guess what.
     로지: 아빠! 할아버지, 전화 줘. 아빠, 맞혀 봐.
 
-136. ELIAS: I couldn't possibly guess, Rosie.
-    일라이어스: 도저히 못 맞히겠는데, 로지.
+136. ELIAS: I couldn't possibly guess, Rosie. Give me a hint. Something boring?
+    일라이어스: 도저히 못 맞히겠는데, 로지. 힌트 좀 줘. 뭔가 지루한 거?
 
 137. ROSIE: You're the worst actor in the State Department. I got it. The student internship. June to August. Same building as you.
     로지: 아빠는 국무부 최악의 배우야. 나 붙었어. 학생 인턴. 6월부터 8월까지. 아빠랑 같은 건물.
@@ -463,8 +463,8 @@
 149. ELIAS: Then you'd better tell me what he did say.
     일라이어스: 그럼 주지사가 실제로 뭐라고 했는지 말해 줘.
 
-150. TOM: That's the problem, boss. This time the scary part is real. He wants to close the bridge.
-    톰: 그게 문제야, 대장. 이번엔 무서운 부분이 진짜야. 다리를 닫겠대.
+150. TOM: That's the problem, boss. This time it's real. He wants to close the bridge.
+    톰: 그게 문제야, 대장. 이번엔 진짜야. 다리를 닫겠대.
 
 ---
 

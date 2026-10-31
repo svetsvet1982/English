@@ -10,7 +10,7 @@
 > - 역사 사례: 1956년 수에즈 위기 — 마르샹이 "아이젠하워가 나세르 편을 들어 동맹을 버렸다"며 프랑스의 사헬 복귀를 정당화하자, 일라이어스가 바로잡는다: 1956년 10월 세브르 비밀 협정(이스라엘이 먼저 공격하고 영·프가 '평화 유지'를 명분으로 상륙)을 워싱턴에 숨겼고, 같은 주에 소련이 헝가리를 진압했다. 미국은 파운드화·석유·유엔 결의로 압박했다. 마르샹은 "프랑스는 다시는 미국에 기대지 않는다"는 교훈과 1960년 2월 알제리 사하라 핵실험, 그리고 반세기 동안 니제르 우라늄에 기댄 프랑스 원자로로 응수한다
 > - 전술 태그: [공갈] [블러핑] [비밀] [유출]
 > - 이번 화의 핵심 표현: forgery / spot price / shell company / corporate services firm / chain of custody / offtake / exclusive contract / "On verra." vs. "We'll see." / umbrella (상호 억지) / Who was in a hurry?
-> - 복선/연결: 4화 결과(토요일 정오 사헬 베리프 '같은 페이지, 같은 시각' 발표 · 일요일 밤 니제르 국가 조사 발표 · 토요일 오후 워싱턴 "forgery" — 캘러웨이 "Your mouth.") · 금요일 오후 발표 전 우라늄 고점 매도 → 사미라의 "Who was in a hurry?" 페이지에 다섯 곳 기록(장관실 포함) · **정보 이동(마르샹→일라이어스)**: 제네바 코르나뱅역 현금 유심 · 발레타 대행사 → 페잔 오어 트레이딩 + 제네바 '론 메탈스 어드바이저리' · "The client wants the price, not the war." · 론의 리서치 비용은 델라웨어 회사에서(이름은 '두 번째 병') → 사미라: 케스트럴 시그널도 델라웨어 · 마르샹의 공갈(니아메 계단 사진) ↔ 일라이어스의 역공(DGSE는 8일 전에 알고 침묵) · 마르샹은 여전히 시즌 1의 '3쪽'을 보유 · 로지 합격(매사추세츠의 대학, 2034학번) · 레나에게 "근처(warm)" 한마디 — 작은 유출 → 8화
+> - 복선/연결: 4화 결과(토요일 정오 사헬 베리프 '같은 페이지, 같은 시각' 발표 · 일요일 밤 니제르 국가 조사 발표 · 토요일 오후 워싱턴 "forgery" — 캘러웨이 "Your mouth.") · 금요일 오후 발표 전 우라늄 고점 매도 → 사미라의 "Who was in a hurry?" 페이지에 다섯 곳 기록(장관실 포함) · **정보 이동(마르샹→일라이어스)**: 제네바 코르나뱅역 현금 유심 · 발레타 대행사 → 페잔 오어 트레이딩 + 제네바 '론 메탈스 어드바이저리' · "The client wants the price, not the war." · 론의 리서치 비용은 델라웨어 회사에서(이름은 '두 번째 병') → 사미라: 케스트럴 시그널도 델라웨어 · 3화 단서: 서명자 단다코예는 파리에 살며 프랑스 라디오에서 군정 비판 — "니아메가 프랑스 냄새를 맡게" · 하그로브 청문회(3/27, 이젤 위의 위조 문서) · 마르샹의 공갈(니아메 계단 사진) ↔ 일라이어스의 역공(DGSE는 8일 전에 알고 침묵) · 마르샹은 여전히 시즌 1의 '3쪽'을 보유 · 로지 합격(매사추세츠의 대학, 2034학번) · 레나에게 "근처(warm)" 한마디 — 작은 유출 → 8화
 
 ---
 
@@ -34,11 +34,11 @@
 006. ELIAS: Did the investigators go to her table on Monday?
     일라이어스: 조사관들은 월요일에 그 탁자로 갔대?
 
-007. SAMIRA: Four of them. Aïcha says one was rude, one was brilliant, and two wrote down everything, including her coffee.
-    사미라: 네 명이요. 아이샤 말로는 하나는 무례했고, 하나는 뛰어났고, 둘은 전부 받아 적었대요. 커피까지요.
+007. SAMIRA: Four of them. Aïcha says one was rude and one was brilliant. And Hargrove held his hearing yesterday anyway, with the forgery on an easel.
+    사미라: 네 명이요. 아이샤 말로는 하나는 무례했고 하나는 뛰어났대요. 그리고 하그로브는 어제 그래도 청문회를 열었어요. 위조 문서를 이젤에 세워 놓고요.
 
-008. ELIAS: Then it's working. Slowly, the way real things work, but it's working.
-    일라이어스: 그럼 되고 있는 거네. 진짜가 늘 그렇듯 느리지만, 되고 있어.
+008. ELIAS: On an easel. Then the correction is working, just slower than the lie.
+    일라이어스: 이젤에라. 그럼 정정은 먹히고 있는 거네. 거짓말보다 느릴 뿐이지.
 
 009. SAMIRA: And Washington called it a forgery on Saturday afternoon. Twenty-three hours after you promised a colonel. You beat your own deadline by sixty minutes.
     사미라: 그리고 워싱턴이 토요일 오후에 위조라고 했죠. 대령한테 약속하신 지 23시간 만에요. 스스로 정한 시한을 60분 남기고 맞추셨어요.
@@ -205,11 +205,11 @@
 063. MARCHAND: Hm. Then let me sell you this week's. The Libyan broker, Fezzan Ore Trading, was registered in January by a corporate services firm in Valletta.
     마르샹: 흠. 그럼 이번 주 신문을 팔아 드리죠. 리비아 중개상 페잔 오어 트레이딩은 1월에 발레타의 법인 설립 대행사가 등록했어요.
 
-064. ELIAS: Malta. Shell companies are cheap there, and nobody asks who owns them.
-    일라이어스: 몰타라. 거긴 껍데기 회사가 싸고, 주인이 누군지 아무도 안 묻죠.
+064. ELIAS: Malta, cheap shells. And the signature of Dandakoye, who lives in Paris and insults the junta on your radio. Someone wanted Niamey to smell France.
+    일라이어스: 몰타, 싸구려 껍데기 회사. 그리고 파리에 살면서 당신네 라디오에서 군정을 욕하는 단다코예의 서명. 누군가 니아메가 프랑스 냄새를 맡길 바랐군요.
 
-065. MARCHAND: Cheap and talkative. The same firm, the same week, registered a second company. A small research boutique in Geneva called Rhône Metals Advisory.
-    마르샹: 싸고 말도 많죠. 같은 대행사가 같은 주에 회사를 하나 더 등록했어요. 제네바의 작은 리서치 회사, 론 메탈스 어드바이저리요.
+065. MARCHAND: Clever, yes. And the Maltese firm was cheap and talkative. The same week, it registered a second company, a research boutique in Geneva called Rhône Metals Advisory.
+    마르샹: 영리하죠. 그리고 그 몰타 대행사는 싸고 말이 많았어요. 같은 주에 회사를 하나 더 등록했죠. 제네바의 리서치 회사, 론 메탈스 어드바이저리요.
 
 066. ELIAS: And what does a research boutique research?
     일라이어스: 리서치 회사는 뭘 리서치합니까?
