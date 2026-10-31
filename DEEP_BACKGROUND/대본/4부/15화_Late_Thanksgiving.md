@@ -485,4 +485,4 @@
 
 ## 다음 화 예고 (낭독하지 않음)
 
-- 5부 1화. 2028년 1월, 오하이오주 데이턴의 한 고등학교 체육관. 추모 사진 열네 장. 칼이 뒷줄에 서 있는데, 한 여자가 다가와 사진 한 장을 가리킨다. "That's my son. He was sixteen. He thought it was a pill for his back."
+- 5부 1화. 2028년 1월, 오하이오주 펜윅의 장례식장. 티나 마시의 조카, 열아홉 살. 칼이 뒷줄에 서 있는데, 티나가 다가와 영정 사진을 가리킨다. "He thought it was a pill for his back. You came for the water, Cal. Come for this."
