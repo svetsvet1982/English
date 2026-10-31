@@ -331,8 +331,8 @@
 104. NADIA: Where is the briefcase, Elias?
     나디아: 서류 가방은 어디 있어요, 일라이어스?
 
-105. ELIAS: Somewhere nobody from Washington will look first. Ask me again in July.
-    일라이어스: 워싱턴 사람들이 제일 먼저 뒤지진 않을 곳에요. 7월에 다시 물어봐요.
+105. ELIAS: I don't know. That was the point. Only the man it belongs to knows.
+    일라이어스: 몰라요. 그게 핵심이었어요. 그 주인만 알아요.
 
 106. NADIA: This is Canada. We apologize, and then we win. If you lose in Helsinki, I won't apologize for you.
     나디아: 여긴 캐나다예요. 사과부터 하고, 그다음에 이기죠. 헬싱키에서 지면 당신 대신 사과는 안 해 줄 거예요.
@@ -352,8 +352,8 @@
 111. ELIAS: Thank you. I'll make a certified copy, log who handled it and when, and give you back the original today. Chain of custody.
     일라이어스: 고맙습니다. 공증 사본을 만들고, 누가 언제 만졌는지 기록하고, 원본은 오늘 돌려드릴게요. 증거 관리 절차예요.
 
-112. OKSANA: And this. The first day of school, September 2022. He was six. It is the last photograph I took of him.
-    옥사나: 그리고 이거요. 2022년 9월, 학교 첫날이에요. 여섯 살이었어요. 제가 그 애를 찍은 마지막 사진이에요.
+112. OKSANA: And this. His fifth birthday, March 2022, one week after the war started. It is the last photograph I took of him.
+    옥사나: 그리고 이거요. 다섯 살 생일, 2022년 3월, 전쟁 나고 일주일 뒤예요. 제가 그 애를 찍은 마지막 사진이에요.
 
 113. ELIAS: He has your eyebrows.
     일라이어스: 눈썹이 어머님을 닮았네요.
