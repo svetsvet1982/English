@@ -11,7 +11,7 @@
 > - 역사 사례: 키신저의 비밀 방중 (1971년 7월) — 일라이어스가 "키신저가 배탈이 났다"고 하자 라나가 바로잡는다. 그는 아프지 않았고, 파키스탄이 '아프다'고 발표해 줬다. 라나는 이 사례로 "파키스탄은 편지를 나르고 입을 다무는 나라지만, 누가 서명했는지는 반드시 안다"고 일라이어스의 블러핑을 꺾는다.
 > - 전술 태그: [블러핑] [공갈] [비밀] [설득] [유출]
 > - 이번 화의 핵심 표현: intermediary / interests section / proof of life / "Islamabad is not unwilling." / That's interesting. / under the radar / protective detail / walk back
-> - 복선/연결: 7화 일라이어스의 거짓말("다음 목요일까지 장교 이름")이 사실이 된다 · 캄란의 감시자들이 2/25 18:05 빅토리아 광장 접촉을 앎(출처는 7화 외출 기록부 → 피에르뤽 → 카버. 일라이어스는 모름) · 캄란 딸 랄레 학교 앞의 차(석 달 계속, 시즌 2 연결) · 채널을 ICAO 안으로 옮기고 파리사가 문서를 나름 → 9화 평행 서한 · 피에르뤽이 카버에게 '이슬라마바드의 전화'를 팖
+> - 복선/연결: 7화 일라이어스의 거짓말("다음 목요일까지 장교 이름")이 사실이 된다 · 캄란의 감시자들이 2/25 18:05 빅토리아 광장 접촉을 앎(출처는 7화 외출 기록부 → 피에르뤽 → 카버. 일라이어스는 모름) · 캄란의 딸 학교 앞의 차(석 달 계속, 시즌 2 연결) · 채널을 ICAO 안으로 옮기고 파리사가 문서를 나름 → 9화 평행 서한 · 피에르뤽이 카버에게 '이슬라마바드의 전화'를 팖
 
 ---
 
@@ -239,8 +239,8 @@
 074. ELIAS: Since when?
     일라이어스: 언제부터요?
 
-075. KAMRAN: Monday. Then Tuesday. Today again. A grey sedan with Ontario plates, two men, engine running. Laleh is sixteen. She noticed before I did. She thinks it is romantic, like a film.
-    캄란: 월요일. 그리고 화요일. 오늘 또. 온타리오 번호판 회색 세단, 남자 둘, 시동 켜 놓고. 랄레는 열여섯 살이에요. 나보다 먼저 알아챘죠. 영화처럼 낭만적이라고 생각하더군요.
+075. KAMRAN: Monday. Then Tuesday. Today again. A grey sedan with Ontario plates, two men, engine running. My daughter is sixteen. She noticed before I did. She thinks it is romantic, like a film.
+    캄란: 월요일. 그리고 화요일. 오늘 또. 온타리오 번호판 회색 세단, 남자 둘, 시동 켜 놓고. 내 딸은 열여섯 살이에요. 나보다 먼저 알아챘죠. 영화처럼 낭만적이라고 생각하더군요.
 
 076. ELIAS: Have you told her what it really is, or who might be sitting in it?
     일라이어스: 진짜 뭔지, 안에 누가 앉아 있을지 얘기해 주셨어요?
@@ -251,8 +251,8 @@
 078. ELIAS: Do you know who they are?
     일라이어스: 누군지 아세요?
 
-079. KAMRAN: I know who sent the message that came with them. Last night our first secretary showed me a photograph on his phone. Laleh, at her bus stop, in her red hat.
-    캄란: 그 차와 함께 온 메시지를 누가 보냈는지는 알아요. 어젯밤 우리 1등 서기관이 자기 휴대폰으로 사진을 보여 줬어요. 버스 정류장에 서 있는 랄레, 빨간 모자를 쓰고.
+079. KAMRAN: I know who sent the message that came with them. Last night Mohseni, our second secretary, showed me a photograph on his phone. My daughter, at her bus stop, in her red hat.
+    캄란: 그 차와 함께 온 메시지를 누가 보냈는지는 알아요. 어젯밤 우리 2등 서기관 모흐세니가 자기 휴대폰으로 사진을 보여 줬어요. 버스 정류장에 서 있는 내 딸, 빨간 모자를 쓰고.
 
 080. ELIAS: What did he say to you?
     일라이어스: 그 사람이 뭐라고 했어요?
@@ -275,8 +275,8 @@
 086. ELIAS: I'll find the hole on my side. I promise you that.
     일라이어스: 내 쪽 구멍은 내가 찾을게요. 그건 약속해요.
 
-087. KAMRAN: Find it quickly. Rostami reports to people who do not use the foreign ministry's telephones. If they decide I am a guest of the Americans, I will not be recalled. I will be collected.
-    캄란: 빨리 찾아요. 로스타미는 외무부 전화를 쓰지 않는 사람들한테 보고해요. 그들이 내가 미국인들의 손님이라고 결론 내리면, 난 소환되는 게 아니라 수거될 거예요.
+087. KAMRAN: Find it quickly. Mohseni reports to people who do not use the foreign ministry's telephones. If they decide I am a guest of the Americans, I will not be recalled. I will be collected.
+    캄란: 빨리 찾아요. 모흐세니는 외무부 전화를 쓰지 않는 사람들한테 보고해요. 그들이 내가 미국인들의 손님이라고 결론 내리면, 난 소환되는 게 아니라 수거될 거예요.
 
 088. ELIAS: Then let's take their reason away.
     일라이어스: 그럼 그들의 명분을 없애 버리죠.
@@ -290,8 +290,8 @@
 091. KAMRAN: Pakistan and Iran meeting inside ICAO. On what pretext?
     캄란: 파키스탄과 이란이 ICAO 안에서 만난다. 무슨 핑계로요?
 
-092. ELIAS: Not a pretext. Real business. PS752, conflict zones, overflight safety. Rana comes as an aviation security adviser. Rostami can't object to you doing the job Tehran sent you here to do.
-    일라이어스: 핑계가 아니라 진짜 업무로요. PS752, 분쟁 지역, 영공 통과 안전. 라나는 항공 보안 자문관으로 오고요. 로스타미도 테헤란이 당신을 보낸 그 일을 하는 데 반대할 순 없죠.
+092. ELIAS: Not a pretext. Real business. PS752, conflict zones, overflight safety. Rana comes as an aviation security adviser. Mohseni can't object to you doing the job Tehran sent you here to do.
+    일라이어스: 핑계가 아니라 진짜 업무로요. PS752, 분쟁 지역, 영공 통과 안전. 라나는 항공 보안 자문관으로 오고요. 모흐세니도 테헤란이 당신을 보낸 그 일을 하는 데 반대할 순 없죠.
 
 093. KAMRAN: And you? Where are you in this picture?
     캄란: 그럼 당신은요? 이 그림에서 당신은 어디 있어요?
@@ -308,11 +308,11 @@
 097. KAMRAN: Ha. You are a dangerous man, Mr. Grant. You lie in a way that leaves everyone a door.
     캄란: 하. 위험한 사람이네요, 그랜트 씨. 모두에게 문 하나씩 남겨 두는 식으로 거짓말을 하니까.
 
-098. ELIAS: My father says that's the only kind worth telling. And Laleh?
-    일라이어스: 우리 아버지는 그런 거짓말만 할 가치가 있대요. 그리고 랄레는요?
+098. ELIAS: My father says that's the only kind worth telling. And your daughter?
+    일라이어스: 우리 아버지는 그런 거짓말만 할 가치가 있대요. 그리고 따님은요?
 
-099. KAMRAN: Laleh is my problem.
-    캄란: 랄레는 내 문제예요.
+099. KAMRAN: My daughter is my problem.
+    캄란: 내 딸은 내 문제예요.
 
 100. ELIAS: She's sixteen, in a red hat, at a bus stop in Canada. That makes her Canada's problem. Let me ask someone.
     일라이어스: 캐나다의 버스 정류장에 빨간 모자를 쓰고 서 있는 열여섯 살이에요. 그럼 캐나다 문제죠. 누구한테 좀 물어볼게요.
@@ -350,8 +350,8 @@
 111. ELIAS: So you'll do it.
     일라이어스: 그럼 해 주는 거네요.
 
-112. NADIA: It's done. A marked car parked across from the school at noon. The grey sedan left at four minutes past.
-    나디아: 이미 했어요. 정오에 경찰 표시 차량이 학교 맞은편에 섰어요. 회색 세단은 12시 4분에 떠났고요.
+112. NADIA: Partly done. A marked car has been parked across from the school since noon. The grey sedan moved half a block back. It's still there.
+    나디아: 반쯤 했어요. 정오부터 경찰 표시 차량이 학교 맞은편에 서 있어요. 회색 세단은 반 블록 뒤로 물러났고요. 아직 거기 있어요.
 
 113. ELIAS: Who were they?
     일라이어스: 누구였어요?
@@ -395,8 +395,8 @@
 126. ELIAS: Hi, sweetheart. Is anyone bleeding?
     일라이어스: 안녕, 우리 딸. 누구 피 나?
 
-127. ROSIE: My dignity. I gave my chair our draft resolution on Iran, and she said, "That's interesting." I said thank you. Maya laughed at me.
-    로지: 내 자존심. 의장한테 이란 결의안 초안을 냈더니 "That's interesting"이래. 그래서 고맙다고 했지. 마야가 날 비웃었어.
+127. ROSIE: My dignity. I gave my chair my position paper for Iran, and she said, "That's interesting." I said thank you. Maya laughed at me.
+    로지: 내 자존심. 의장한테 이란 대표 입장문을 냈더니 "That's interesting"이래. 그래서 고맙다고 했지. 마야가 날 비웃었어.
 
 128. ELIAS: Ah. In diplomacy, "that's interesting" usually means "I have serious doubts, and I'm too polite to list them."
     일라이어스: 아. 외교에서 "흥미롭네요"는 보통 "심각한 의문이 있는데, 하나하나 말하기엔 내가 너무 예의 바르다"는 뜻이야.

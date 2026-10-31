@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 11화 · 서사 기능: 2부 핵심 화 · 세 번째 문(기자의 '확인 전화'를 메시지로 쓰기) · 시즌 1 패턴("무엇을 흘리느냐가 아니라 언제")의 원형
 > - 배경: 몬트리올. 2027년 3월 25일 목요일, 3월 말의 젖은 눈. 영사관 4번 창구(오전) → Chez Nour 뒷방(정오) → 셔브룩 거리 호텔 앞(저녁, ICAO 이사회 만찬 중) → 밤 공항의 레나와 통화, 베데스다와 통화 → (일라이어스 없는 장면) 카버와 피에르뤽의 통화
-> - 등장인물: 일라이어스 그랜트, 피에르뤽 가뇽, 글로리아 펨버턴, 누르, 레나 보스, 캄란 테헤라니, 줄리아 박그랜트(전화), 카버('로웰', 전화), 비자 신청자 지아드 칼릴(단역, 누르의 조카)
+> - 등장인물: 일라이어스 그랜트, 피에르뤽 가뇽, 글로리아 펨버턴, 누르, 레나 보스, 캄란 테헤라니, 줄리아 박그랜트(전화), 카버('로웰', 전화), 비자 신청자 지아드 칼릴(단역, 누르의 다른 조카)
 > - 현실 모티프: 인질 협상을 무산시킨 보도의 '타이밍'을 의심하는 기자, 그리고 상대국 협상파 외교관을 소환 위기에서 구하려는 비공식 역정보(2027)
 > - 난이도: B2–C1 · 턴 수: 150
 > - 역사 사례: 딥 스로트와 워터게이트 (1972~74) — 일라이어스가 "딥 스로트는 '돈을 따라가라'고 했다"고 하자 레나가 그건 영화 대사이고 마크 펠트는 실제로 그 말을 하지 않았다고 바로잡는다. 레나는 펠트가 후버 사후 국장 자리에서 밀려난 원한을 품었지만 워터게이트에 대해선 옳았다며 "취재원의 동기는 사실을 거짓으로 만들지 않는다"고 맞서고, 일라이어스는 "사실은 당신에게 준 선물, 타이밍은 다른 누군가에게 준 선물"이라고 받아친다. 로슬린 지하 주차장·빨간 깃발 화분·신문 20쪽의 시계, 2005년 본인 공개까지가 대화의 재료가 된다
@@ -24,8 +24,8 @@
 002. ELIAS: It's loyal. Who is it?
     일라이어스: 의리 있는 기계지. 누구야?
 
-003. PIERRE-LUC: Ziad Khalil. Twenty. Political science at UQAM. He says his aunt makes your za'atar.
-    피에르뤽: 지아드 칼릴. 스무 살. 몬트리올 퀘벡대 정치학과. 자기 이모가 보스 자타르를 만든대요.
+003. PIERRE-LUC: Ziad Khalil. Twenty. Engineering at Concordia. Nour's other nephew. Not the political science one.
+    피에르뤽: 지아드 칼릴. 스무 살. 콩코디아대 공대. 누르의 다른 조카예요. 정치학 하는 그 조카 말고요.
 
 004. ZIAD: Good morning, sir. My aunt said to tell you she didn't send me. Then she said to tell you she did.
     지아드: 안녕하세요. 이모가 자기가 보낸 거 아니라고 전하래요. 그러고는 자기가 보냈다고 전하래요.
@@ -33,8 +33,8 @@
 005. ELIAS: That sounds like Nour. What are you applying for, Mr. Khalil?
     일라이어스: 누르답네요. 뭘 신청하시죠, 칼릴 씨?
 
-006. ZIAD: An F-1. A summer session at Boston University. Six weeks, international law. Here is my I-20 and the SEVIS fee receipt.
-    지아드: F-1이요. 보스턴대 여름 학기요. 6주짜리 국제법 과정이에요. 여기 I-20이랑 SEVIS 수수료 영수증요.
+006. ZIAD: An F-1. A summer session at Boston University. Six weeks, water engineering. Here is my I-20 and the SEVIS fee receipt.
+    지아드: F-1이요. 보스턴대 여름 학기요. 6주짜리 수자원 공학 과정이에요. 여기 I-20이랑 SEVIS 수수료 영수증요.
 
 007. ELIAS: Who pays for Boston?
     일라이어스: 보스턴 비용은 누가 내요?
@@ -60,8 +60,8 @@
 014. PIERRE-LUC: Lunch, eh? You wrote "lunch" on the sign-out sheet. Just "lunch." No ICAO, no dentist. Not even a sandwich.
     피에르뤽: 점심이요? 서명부에 '점심'이라고 쓰셨던데요. 그냥 '점심'. ICAO도 치과도 없이. 샌드위치도 안 쓰고.
 
-015. ELIAS: Since last Thursday, I only eat lunch.
-    일라이어스: 지난 목요일부터 난 점심만 먹어.
+015. ELIAS: These days, I only eat lunch.
+    일라이어스: 요즘 난 점심만 먹어.
 
 016. PIERRE-LUC: Where, though? In case Gloria asks.
     피에르뤽: 근데 어디서요? 글로리아가 물어보면요.
@@ -228,14 +228,14 @@
 070. ELIAS: I've had practice.
     일라이어스: 연습을 좀 했죠.
 
-071. LENA: It's also a lie. On March eleventh, you were at this café until four in the morning. Nour told me. She also told me she sent three pots of tea to the back.
-    레나: 그리고 거짓말이에요. 3월 11일에 당신은 새벽 네 시까지 이 카페에 있었어요. 누르가 말해 줬어요. 뒷방에 차를 세 주전자 보냈다는 것도요.
+071. LENA: It's also a lie. On March eleventh, you were at this café until five in the morning. Nour told me. She also told me she sent three pots of tea to the back.
+    레나: 그리고 거짓말이에요. 3월 11일에 당신은 새벽 다섯 시까지 이 카페에 있었어요. 누르가 말해 줬어요. 뒷방에 차를 세 주전자 보냈다는 것도요.
 
 072. ELIAS: Nour talks to everyone and remembers nothing.
     일라이어스: 누르는 모두와 얘기하고 아무것도 기억 못 해요.
 
-073. LENA: Nour remembers everything and forgives nobody. Men don't walk away from a negotiation at four in the morning. They stay because it's working.
-    레나: 누르는 다 기억하고 아무도 용서 안 해요. 새벽 네 시에 협상에서 걸어 나가는 사람은 없어요. 잘되고 있으니까 남아 있는 거지.
+073. LENA: Nour remembers everything and forgives nobody. Men don't walk away from a negotiation at five in the morning. They stay because it's working.
+    레나: 누르는 다 기억하고 아무도 용서 안 해요. 새벽 다섯 시에 협상에서 걸어 나가는 사람은 없어요. 잘되고 있으니까 남아 있는 거지.
 
 074. ELIAS: You won't print it.
     일라이어스: 안 실을 거군요.
@@ -264,8 +264,8 @@
 082. ELIAS: I know. But you'll know. That's enough.
     일라이어스: 알아요. 하지만 당신은 알게 되겠죠. 그거면 돼요.
 
-083. KAMRAN: You promised me a place without snow. Look at it. Wet, grey, and sideways. In late March.
-    캄란: 눈 없는 곳에서 만나자고 하셨죠. 이것 좀 보세요. 젖고, 잿빛이고, 옆으로 와요. 3월 말에.
+083. KAMRAN: No more meetings outside ICAO, we said. And no snow. Look at it. Wet, grey, and sideways. In late March.
+    캄란: ICAO 밖에선 더 안 만나기로 했잖아요. 눈도 없는 데서. 이것 좀 보세요. 젖고, 잿빛이고, 옆으로 와요. 3월 말에.
 
 084. ELIAS: I promised. The sky didn't. Your dinner's still going?
     일라이어스: 나는 약속했는데 하늘은 안 했네요. 만찬은 아직 하고 있어요?
@@ -276,8 +276,8 @@
 086. ELIAS: Your daughter must love this weather.
     일라이어스: 따님은 이 날씨 좋아하겠네요.
 
-087. KAMRAN: She adores it. She is seventeen, so she loves everything I hate. Next year she wants to study engineering in Shiraz, near her grandmother, where snow is something you drive to visit.
-    캄란: 아주 좋아하죠. 열일곱이니까 제가 싫어하는 건 다 좋아해요. 내년엔 시라즈에서 공학을 공부하고 싶대요. 할머니 가까이, 눈은 차 타고 보러 가는 곳에서.
+087. KAMRAN: She adores it. She is sixteen, so she loves everything I hate. In two years she wants to study engineering in Shiraz, near her grandmother, where snow is something you drive to visit.
+    캄란: 아주 좋아하죠. 열여섯이니까 제가 싫어하는 건 다 좋아해요. 2년 뒤엔 시라즈에서 공학을 공부하고 싶대요. 할머니 가까이, 눈은 차 타고 보러 가는 곳에서.
 
 088. ELIAS: Then let's be quick. Same hotel on Sherbrooke, same corner. Your minders could be at the window.
     일라이어스: 그럼 빨리 하죠. 셔브룩 거리 같은 호텔, 같은 모퉁이예요. 감시자들이 창가에 있을지도 몰라요.
@@ -465,8 +465,8 @@
 149. PIERRE-LUC: I told you, I'm done. Câline, I paid it all off. I'm done.
     피에르뤽: 말했잖아요, 전 끝났다고요. 세상에, 다 갚았어요. 끝났다고요.
 
-150. CARVER: Then think of this as a fourth envelope you don't need. Watch what he doesn't write, Mr. Gagnon.
-    카버: 그럼 이건 필요 없는 네 번째 봉투라고 생각하세요. 그가 안 적는 걸 지켜봐요, 가뇽 씨.
+150. CARVER: Then think of this as an envelope you don't need. Watch what he doesn't write, Mr. Gagnon.
+    카버: 그럼 이건 필요 없는 봉투라고 생각하세요. 그가 안 적는 걸 지켜봐요, 가뇽 씨.
 
 ---
 

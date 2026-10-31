@@ -12,7 +12,7 @@
 > - 전술 태그: [유출] [배신] [블러핑] [설득] [거짓말]
 > - 이번 화의 핵심 표현: byline / on the record / welfare-and-whereabouts request / protecting power / not aware of any authorized contact / consultations / hostage diplomacy / That's interesting. / not in a position to
 > - 영사 업무 장면: 파리사가 번호표 7번으로 4번 창구에 와서 스위스(이익대표국) 경유 복지·소재 확인 요청서를 공식 접수(056~066) · 뉘앙스 장면: 국무부 브리핑 문장 "not aware of any authorized contact"는 부인이 아니라 '열어 둔 문'(072~075) · 같은 "not in a position to"가 글로리아에겐 '못 한다', 딜레이니에겐 '안 한다'(084~085) · 이란 외무부의 '협의(consultations)'는 '가방이 든 단어'(092~093) · "That's interesting"(038~040)
-> - 복선/연결: 4화 피에르뤽이 본 ICAO 방문증과 '치과' 일정, 7화 외출 서명부 → 기사 속 '5시 40분 서명, 6시 5분 빅토리아 광장 벤치, 치과로 기재' · 피에르뤽의 "개찰구는 모든 사람을 본다"(→12화 나디아의 개찰구 기록) · 9화 평행 서한은 무스카트 금고에 서명 없이 보관 · 캄란 귀국 명령 3월 28일(일) 이스탄불 경유 → 11화 · 7화 '지도 든 사람들'의 구출 옵션이 월요일 안건에 복귀 · (시청자만) 카버가 확전 쪽 고객에게 보고, 피에르뤽에게 세 번째 현금 봉투(누적 CAD 38,000, '지난번 그 자리')
+> - 복선/연결: 4화 피에르뤽이 본 ICAO 방문증과 '치과' 일정, 7화 외출 서명부 → 기사 속 '5시 40분 서명, 6시 5분 빅토리아 광장 벤치, 치과로 기재' · 피에르뤽의 "개찰구는 모든 사람을 본다"(→12화 나디아의 개찰구 기록) · 9화 평행 서한은 무스카트 금고에 서명 없이 보관 · 캄란 귀국 명령 3월 28일(일) 이스탄불 경유 → 11화 · 7화 '지도 든 사람들'의 구출 옵션이 월요일 안건에 복귀 · (시청자만) 카버가 확전 쪽 고객에게 보고, 피에르뤽에게 또 한 번 현금 봉투('지난번 그 자리', CAD 38,000 빚은 이미 1월에 청산)
 
 ---
 
@@ -201,8 +201,8 @@
 061. PARISA: I've read three of them. File it anyway. If I can't have a deal, I want a paper trail with a date on it.
     파리사: 세 통 읽었어요. 그래도 내 주세요. 합의를 못 얻으면 날짜가 찍힌 서류 기록이라도 남길 거예요.
 
-062. ELIAS: Section two. Last known location: Evin, Ward 209. Date of last contact?
-    일라이어스: 2항. 마지막으로 알려진 위치: 에빈, 209동. 마지막 연락 날짜는요?
+062. ELIAS: Section two. Last known location: Evin, Ward 2-A, since January twentieth. Last contact?
+    일라이어스: 2항. 마지막으로 알려진 위치: 에빈, 1월 20일부터 2-A구역. 마지막 연락은요?
 
 063. PARISA: Last Sunday. Ninety seconds with my mother. He asked whether the snow had stopped in Montreal. That's how I know he's still allowed to think.
     파리사: 지난 일요일이요. 어머니랑 90초. 몬트리올에 눈이 그쳤냐고 물었대요. 그래서 아직 생각은 하게 해 주는구나 알았죠.
@@ -447,8 +447,8 @@
 143. PIERRE-LUC: Mr. Lowell. You said it was for a newspaper. You said nobody gets hurt.
     피에르뤽: 로웰 씨. 신문용이라면서요. 아무도 안 다친다면서요.
 
-144. CARVER: Nobody did, Mr. Gagnon. A man is getting a free flight home. The envelope is where it was last time. That makes thirty-eight thousand.
-    카버: 아무도 안 다쳤어요, 가뇽 씨. 한 남자가 공짜로 귀국 비행기를 타는 것뿐이죠. 봉투는 지난번 그 자리에 있어요. 이걸로 3만 8천이 채워졌고요.
+144. CARVER: Nobody did, Mr. Gagnon. A man is getting a free flight home. The envelope is where it was last time. Your thirty-eight thousand is paid twice over.
+    카버: 아무도 안 다쳤어요, 가뇽 씨. 한 남자가 공짜로 귀국 비행기를 타는 것뿐이죠. 봉투는 지난번 그 자리에 있어요. 당신의 3만 8천은 두 번 갚고도 남았죠.
 
 145. PIERRE-LUC: He asked me who saw him sign out. He looked right at me.
     피에르뤽: 그 사람이 누가 외출 서명하는 걸 봤냐고 물었어요. 저를 똑바로 쳐다보면서요.
@@ -465,8 +465,8 @@
 149. PIERRE-LUC: I'm done. Câline, I swear, I'm done.
     피에르뤽: 전 끝났어요. 진짜로, 맹세해요, 끝이에요.
 
-150. CARVER: Everybody says that after the third envelope. Enjoy the hockey.
-    카버: 세 번째 봉투 받고 나면 다들 그렇게 말하죠. 하키 즐기세요.
+150. CARVER: Everybody says that once the debt is paid. Enjoy the hockey.
+    카버: 빚 다 갚고 나면 다들 그렇게 말하죠. 하키 즐기세요.
 
 ---
 

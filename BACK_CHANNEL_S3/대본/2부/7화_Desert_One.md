@@ -41,8 +41,8 @@
 008. ELIAS: When? From where?
     일라이어스: 언제요? 어디서요?
 
-009. PARISA: Sunday night, Tehran time. Four minutes on a prison phone. Our cousin in Tehran held a recorder to the speaker. He said the food has improved, which means it hasn't.
-    파리사: 일요일 밤, 테헤란 시간으로요. 교도소 전화로 4분. 테헤란에 있는 사촌이 스피커에 녹음기를 댔어요. 밥이 좋아졌대요. 그 말은 안 좋아졌다는 거죠.
+009. PARISA: Sunday night, Tehran time. Ninety seconds on a prison phone, to our mother. She held a recorder to the speaker. He said the food has improved, which means it hasn't.
+    파리사: 일요일 밤, 테헤란 시간으로요. 교도소 전화로 90초, 엄마한테요. 엄마가 스피커에 녹음기를 댔어요. 밥이 좋아졌대요. 그 말은 안 좋아졌다는 거죠.
 
 010. ELIAS: That's proof of life. It matters more than it sounds. Did he sound like himself?
     일라이어스: 생존 증거네요. 들리는 것보다 훨씬 중요해요. 본인 목소리 같던가요?
@@ -110,8 +110,8 @@
 031. PIERRE-LUC: The ICAO face. Write it on the sign-out sheet, or Gloria will blame me.
     피에르뤽: ICAO 얼굴이요. 외출 기록부에 꼭 적으세요. 안 그러면 글로리아가 저를 탓해요.
 
-032. ELIAS: I always write it down. Lunch first, at Nour's. If anyone asks, I'm at a meeting.
-    일라이어스: 난 늘 적어. 점심 먼저, 누르네서. 누가 물으면 회의 갔다고 해.
+032. ELIAS: I'll write it down. Lunch first. If anyone asks, I'm at a meeting.
+    일라이어스: 적을게. 점심 먼저. 누가 물으면 회의 갔다고 해.
 
 033. NOUR: Za'atar or cheese?
     누르: 자타르, 아니면 치즈?
@@ -260,8 +260,8 @@
 081. GLORIA: Close the door, please. Mark Delaney is on line two, and he asked for you by name, which I find alarming.
     글로리아: 문 닫아 주세요. 마크 딜레이니가 2번 회선에 있어요. 당신을 이름으로 찾았고요. 그게 좀 불안하네요.
 
-082. ELIAS: The hostage envoy. Three weeks ago his office said they'd never heard of me.
-    일라이어스: 인질 특사요. 3주 전엔 그쪽 사무실에서 저를 들어 본 적도 없다고 했는데요.
+082. ELIAS: The hostage envoy. Two weeks ago his deputy told me their office had no record of me.
+    일라이어스: 인질 특사요. 2주 전엔 부특사가 그쪽 사무실엔 제 기록이 없다고 했는데요.
 
 083. GLORIA: Then he has either forgiven you or he is desperate. I'll put him on speaker. Mr. Delaney, I have Elias Grant with me.
     글로리아: 그럼 당신을 용서했거나 절박하거나 둘 중 하나겠죠. 스피커로 돌릴게요. 딜레이니 특사님, 일라이어스 그랜트와 함께 있습니다.
@@ -356,8 +356,8 @@
 113. GLORIA: Put it in writing, and then don't. And Elias, when you go out to ICAO today, sign out properly. If this blows up, I want the record to say every step of it was official.
     글로리아: 서면으로 남겨요. 그리고 남기지 마요. 그리고 일라이어스, 오늘 ICAO 나갈 때 외출 기록 제대로 해요. 이게 터지면, 기록상으로는 한 걸음 한 걸음이 다 공식이었으면 하니까.
 
-114. ELIAS: I always sign out, Gloria. Pierre-Luc makes sure of it.
-    일라이어스: 전 늘 적어요, 글로리아. 피에르뤽이 꼭 챙기거든요.
+114. ELIAS: This time I'll sign out properly, Gloria. Pierre-Luc will make sure of it.
+    일라이어스: 이번엔 제대로 적을게요, 글로리아. 피에르뤽이 꼭 챙길 거예요.
 
 115. KAMRAN: Officially, we have never met. Unofficially, you are late, and I am wet.
     캄란: 공식적으로 우린 만난 적 없어요. 비공식적으론 당신이 늦었고, 난 젖었죠.
@@ -365,8 +365,8 @@
 116. ELIAS: The buses stopped on Sherbrooke. I walked. Montreal's having a bad day.
     일라이어스: 셔브룩 거리에서 버스가 멈췄어요. 걸어왔죠. 몬트리올이 오늘 영 아니네요.
 
-117. KAMRAN: In Tehran, the snow has the decency to stay on the mountains. Here it climbs into your shoes and stays for dinner.
-    캄란: 테헤란에선 눈이 예의 있게 산 위에만 있어요. 여기 눈은 신발 속으로 기어들어 와서 저녁까지 먹고 가죠.
+117. KAMRAN: Wet, grey, and sideways. In Tehran, the snow has the decency to stay on the mountains. Here it climbs into your shoes and stays for dinner.
+    캄란: 젖고, 잿빛이고, 옆으로 와요. 테헤란에선 눈이 예의 있게 산 위에만 있어요. 여기 눈은 신발 속으로 기어들어 와서 저녁까지 먹고 가죠.
 
 118. ELIAS: You complain about the snow every single time I see you.
     일라이어스: 볼 때마다 매번 눈 불평을 하시네요.
@@ -443,14 +443,14 @@
 142. PIERRE-LUC: Allô? Yes, it's me. Be quick, no signal.
     피에르뤽: 여보세요? 네, 저예요. 빨리요, 여기 신호가 없어요.
 
-143. CARVER: Good evening, Pierre-Luc. You sound cold. Did our friend go out today?
-    카버: 좋은 저녁이에요, 피에르뤽. 추워 보이는 목소리네요. 우리 친구, 오늘 나갔어요?
+143. CARVER: Good evening, Pierre-Luc. You sound cold. My friend with the camera says thank you for the text.
+    카버: 좋은 저녁이에요, 피에르뤽. 추워 보이는 목소리네요. 카메라 든 내 친구가 문자 고맙다고 전해 달래요.
 
-144. PIERRE-LUC: Signed out at five-forty. "ICAO, consular liaison." Same as always. He came back at seven covered in snow and said nothing.
-    피에르뤽: 5시 40분에 외출 기록했어요. "ICAO, 영사 연락 업무." 늘 똑같이요. 7시에 눈을 뒤집어쓰고 돌아왔는데 아무 말도 안 했어요.
+144. PIERRE-LUC: Five-forty, like I said. "ICAO, consular liaison." First time he's written ICAO. Before, it was always "dentist." He came back at seven, covered in snow.
+    피에르뤽: 말씀드린 대로 5시 40분이요. "ICAO, 영사 연락 업무." ICAO라고 쓴 건 처음이에요. 전엔 늘 '치과'였거든요. 7시에 눈을 뒤집어쓰고 돌아왔어요.
 
-145. CARVER: Covered in snow. So he met someone outdoors, near the building. He's careful. I like careful men. They're so predictable.
-    카버: 눈을 뒤집어썼다. 그럼 건물 근처 바깥에서 누굴 만났군요. 조심성 있는 사람이에요. 난 조심성 있는 사람이 좋아요. 아주 예측하기 쉽거든요.
+145. CARVER: A bench in the snow. My friend got two good pictures. He's careful, our Mr. Grant. Careful men are so predictable.
+    카버: 눈 속의 벤치라. 내 친구가 좋은 사진을 두 장 건졌어요. 조심성 있는 사람이죠, 우리 그랜트 씨. 조심성 있는 사람은 아주 예측하기 쉬워요.
 
 146. PIERRE-LUC: Mr. Lowell, I told you, this is the last time. I just need the second payment, and then I'm out of the pool. For good.
     피에르뤽: 로웰 씨, 말씀드렸잖아요. 이번이 마지막이에요. 두 번째 돈만 받으면 내기에서 빠질 거예요. 완전히요.
