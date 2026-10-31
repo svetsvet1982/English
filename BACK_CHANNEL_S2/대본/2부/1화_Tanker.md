@@ -25,29 +25,29 @@
 003. SAMIRA: Then you'll like this. The Virginia page finally has a second line.
     사미라: 그럼 이거 좋아하시겠네요. 버지니아 페이지에 드디어 두 번째 줄이 생겼어요.
 
-004. SAMIRA: Three weeks of filings. Ridgeline shows up in forty-one. Forty are ordinary campaign work. One is a payment routed through a committee I can't trace.
+004. ELIAS: Only a second?
+    일라이어스: 겨우 두 번째?
+
+005. SAMIRA: Three weeks of filings. Ridgeline shows up in forty-one. Forty are ordinary campaign work. One is a payment routed through a committee I can't trace.
     사미라: 신고서를 3주 동안 뒤졌어요. 리지라인이 마흔한 건에 나와요. 마흔 건은 평범한 선거 일이고요. 한 건은 제가 추적 못 하는 단체를 거쳐서 들어간 돈이에요.
 
-005. ELIAS: Can't trace it, or can't trace it from inside this room?
+006. ELIAS: Can't trace it, or can't trace it from inside this room?
     일라이어스: 추적이 안 되는 거야, 아니면 이 방 안에선 안 되는 거야?
 
-006. SAMIRA: Can't trace without a subpoena, and we don't issue subpoenas. Julia's office does, and Julia's office has a firewall with your name on it.
+007. SAMIRA: Can't trace without a subpoena, and we don't issue subpoenas. Julia's office does, and Julia's office has a firewall with your name on it.
     사미라: 소환장 없이는 안 되는데, 우린 소환장을 못 내요. 줄리아 씨 사무실은 낼 수 있지만, 거긴 부장관님 이름이 붙은 차단벽이 있잖아요.
 
-007. ELIAS: Fine. We wait. Has the building stopped whispering about the nineteenth?
+008. ELIAS: Fine. We wait. Has the building stopped whispering about the nineteenth?
     일라이어스: 좋아. 기다리자. 건물에서 19일 얘기는 이제 좀 잠잠해졌어?
 
-008. SAMIRA: Not really. Everyone read the transcript. "Guilty, Your Honor," and nothing about anybody else.
+009. SAMIRA: Not really. Everyone read the transcript. "Guilty, Your Honor," and nothing about anybody else.
     사미라: 별로요. 다들 녹취록을 읽었거든요. "유죄를 인정합니다, 재판장님." 그러고는 다른 사람 얘긴 하나도 없었죠.
 
-009. ELIAS: She was always good at sentences that end early.
+010. ELIAS: She was always good at sentences that end early.
     일라이어스: 그 사람은 늘 일찍 끝나는 문장을 잘 썼지.
 
-010. SAMIRA: Hold on. That's the Ops Center watch officer at the door. He doesn't come up in person for good news.
+011. SAMIRA: Hold on. That's the Ops Center watch officer at the door. He doesn't come up in person for good news.
     사미라: 잠깐만요. 문 앞에 상황실 당직관이에요. 좋은 소식이면 직접 올라오는 사람이 아닌데.
-
-011. ELIAS: Let him in. His phone goes in the box too.
-    일라이어스: 들여보내. 그 사람 전화도 상자에 넣고.
 
 012. KOWALSKI: Sir, Fifth Fleet flash: an Indian-flagged tanker was hit in Hormuz forty minutes ago.
     코왈스키: 부장관님, 5함대 긴급 전문입니다. 40분 전에 호르무즈에서 인도 국적 유조선이 피격됐습니다.
@@ -160,89 +160,89 @@
 048. ARJUN: Whose navigation? In 1971, your Enterprise sailed into the Bay of Bengal for "freedom of navigation" too. We remember the wording. My eleven minutes are up. Goodbye, Mr. Grant.
     아르준: 누구의 항행이요? 1971년에 당신네 엔터프라이즈호도 '항행의 자유'를 위해 벵골만에 들어왔죠. 우린 그 문구를 기억해요. 11분 다 됐네요. 안녕히 계세요, 그랜트 씨.
 
-049. SAMIRA: He hung up.
-    사미라: 끊었어요.
-
-050. ELIAS: He hung up politely. In Delhi, that's "come and see me."
+049. ELIAS: He hung up politely. In Delhi, that's "come and see me."
     일라이어스: 정중하게 끊었지. 델리에선 그게 '와서 보자'는 뜻이야.
 
-051. CALLAWAY: Elias. Sit. The President wants to say something tonight, and I want to give him something to say.
+050. CALLAWAY: Elias. Sit. The President wants to say something tonight, and I want to give him something to say.
     캘러웨이: 일라이어스. 앉아. 대통령이 오늘 밤 뭔가 말하고 싶어 해. 난 말할 거리를 드리고 싶고.
 
-052. ELIAS: Then let's give him something true, sir, even if it's small.
+051. ELIAS: Then let's give him something true, sir, even if it's small.
     일라이어스: 그럼 작더라도 사실인 걸 드리죠, 장관님.
 
-053. CALLAWAY: True is a luxury in the first twelve hours. Peter, read him the draft.
+052. CALLAWAY: True is a luxury in the first twelve hours. Peter, read him the draft.
     캘러웨이: 첫 열두 시간에 사실은 사치야. 피터, 초안 읽어 줘.
 
-054. VOIGHT: "The United States condemns the Iranian-backed attack on the Godavari Star and stands ready to defend freedom of navigation in the Strait of Hormuz."
+053. VOIGHT: "The United States condemns the Iranian-backed attack on the Godavari Star and stands ready to defend freedom of navigation in the Strait of Hormuz."
     보이트: "미국은 이란의 지원을 받은 고다바리 스타호 공격을 규탄하며, 호르무즈 해협에서 항행의 자유를 수호할 준비가 되어 있다."
 
-055. ELIAS: "Iranian-backed." Based on what?
+054. ELIAS: "Iranian-backed." Based on what?
     일라이어스: '이란의 지원을 받은'. 근거가 뭡니까?
 
-056. VOIGHT: Based on who has anti-ship missiles at the mouth of the Gulf, sir. Everyone knows what Iran does in that strait.
+055. VOIGHT: Based on who has anti-ship missiles at the mouth of the Gulf, sir. Everyone knows what Iran does in that strait.
     보이트: 걸프 입구에 대함 미사일을 가진 게 누구냐는 거죠, 부장관님. 이란이 그 해협에서 뭘 하는지는 다들 압니다.
 
-057. SAMIRA: Everyone also knew in 1987, Mr. Voight, and everyone was wrong at first.
+056. SAMIRA: Everyone also knew in 1987, Mr. Voight, and everyone was wrong at first.
     사미라: 1987년에도 다들 알았죠, 보이트 씨. 그리고 처음엔 다들 틀렸고요.
 
-058. VOIGHT: We've been here before. In 1987, Iran hit the USS Stark, killed thirty-seven sailors, and we blinked.
+057. VOIGHT: We've been here before. In 1987, Iran hit the USS Stark, killed thirty-seven sailors, and we blinked.
     보이트: 이런 적 있잖아요. 1987년에 이란이 USS 스타크를 공격해서 수병 서른일곱 명이 죽었는데, 우린 눈만 깜빡였죠.
 
-059. SAMIRA: Iraq hit the Stark. An Iraqi Mirage fired two Exocet missiles. Thirty-seven dead is right. The country is wrong.
+058. SAMIRA: Iraq hit the Stark. An Iraqi Mirage fired two Exocet missiles. Thirty-seven dead is right. The country is wrong.
     사미라: 스타크를 친 건 이라크예요. 이라크 미라주 전투기가 엑소세 미사일 두 발을 쐈어요. 서른일곱 명 사망은 맞아요. 나라가 틀렸죠.
 
-060. VOIGHT: Iraq, Iran. The point is the Gulf.
+059. VOIGHT: Iraq, Iran. The point is the Gulf.
     보이트: 이라크든 이란이든. 요점은 걸프라는 거죠.
 
-061. ELIAS: The point is the country. Baghdad called it a mistake, apologized, and eventually paid compensation. If we'd blamed Tehran that night, we'd have gone to war with the wrong capital.
+060. ELIAS: The point is the country. Baghdad called it a mistake, apologized, and eventually paid compensation. If we'd blamed Tehran that night, we'd have gone to war with the wrong capital.
     일라이어스: 요점은 나라예요. 바그다드는 실수였다고 하고 사과했고, 결국 배상금도 냈습니다. 그날 밤 테헤란을 탓했으면 우린 엉뚱한 수도하고 전쟁을 했을 겁니다.
 
-062. CALLAWAY: Iraq. Lesson accepted. But the President can't go on TV and say "we don't know."
+061. CALLAWAY: Iraq. Lesson accepted. But the President can't go on TV and say "we don't know."
     캘러웨이: 이라크. 수업 잘 들었어. 그래도 대통령이 TV에 나가서 "모른다"고 할 순 없잖아.
 
-063. ELIAS: He can say "we're finding out." That's a different sentence, and it's one he'll never have to take back.
+062. ELIAS: He can say "we're finding out." That's a different sentence, and it's one he'll never have to take back.
     일라이어스: "알아내고 있다"고 하시면 됩니다. 다른 문장이고, 나중에 거둬들일 일도 없는 문장이죠.
 
-064. CALLAWAY: What about "we're not ruling anything out"?
+063. CALLAWAY: What about "we're not ruling anything out"?
     캘러웨이: "어떤 가능성도 배제하지 않는다"는 어때?
 
-065. ELIAS: In this building, sir, that sentence means "Iran." In Tehran, tonight, it means "tonight."
+064. ELIAS: In this building, sir, that sentence means "Iran." In Tehran, tonight, it means "tonight."
     일라이어스: 이 건물에선 장관님, 그 문장은 '이란'이라는 뜻입니다. 오늘 밤 테헤란에선 '오늘 밤'이라는 뜻이고요.
 
-066. CALLAWAY: You really think they'd hear it that way?
+065. CALLAWAY: You really think they'd hear it that way?
     캘러웨이: 정말 그쪽에서 그렇게 들을 거라고 봐?
 
-067. ELIAS: I think the IRGC Navy has fast boats out of Bandar Abbas, and somebody on one of those boats is twenty-two and nervous. He doesn't read footnotes. He hears verbs.
+066. ELIAS: I think the IRGC Navy has fast boats out of Bandar Abbas, and somebody on one of those boats is twenty-two and nervous. He doesn't read footnotes. He hears verbs.
     일라이어스: 혁명수비대 해군 고속정들이 반다르아바스에서 나와 있고, 그 배 중 하나에 스물두 살짜리 겁먹은 애가 타고 있을 겁니다. 그 애는 각주를 안 읽어요. 동사만 듣죠.
 
-068. CALLAWAY: And if it was Iran? If we wait a week and the forensics come back Iranian, I'm the Secretary who hesitated while a tanker burned.
+067. CALLAWAY: And if it was Iran? If we wait a week and the forensics come back Iranian, I'm the Secretary who hesitated while a tanker burned.
     캘러웨이: 그런데 이란이었으면? 일주일 기다렸는데 포렌식 결과가 이란으로 나오면, 난 유조선이 불타는 동안 머뭇거린 장관이 되는 거야.
 
-069. ELIAS: And if it wasn't, you're the Secretary who started a war over a radar track nobody understood. I'd rather explain caution than a funeral.
+068. ELIAS: And if it wasn't, you're the Secretary who started a war over a radar track nobody understood. I'd rather explain caution than a funeral.
     일라이어스: 그리고 아니었으면, 아무도 이해 못 한 레이더 궤적 하나로 전쟁을 시작한 장관이 되시는 거죠. 저는 장례식보다는 신중함을 해명하는 쪽이 낫습니다.
 
-070. CALLAWAY: You'd rather. I'm the one who explains things to the President.
+069. CALLAWAY: You'd rather. I'm the one who explains things to the President.
     캘러웨이: 자네가 낫겠지. 대통령한테 해명하는 건 나야.
 
-071. ELIAS: Then explain this to him. The Indians already have a frigate heading in, and they didn't ask us. If we name Iran tonight, we put an Indian warship in the middle of our accusation.
+070. ELIAS: Then explain this to him. The Indians already have a frigate heading in, and they didn't ask us. If we name Iran tonight, we put an Indian warship in the middle of our accusation.
     일라이어스: 그럼 이걸 해명하시죠. 인도는 벌써 호위함을 들여보내고 있고, 우리한테 묻지도 않았습니다. 오늘 밤 우리가 이란을 지목하면, 우리 비난 한가운데에 인도 군함을 세워 놓는 겁니다.
 
-072. VOIGHT: The Indians can take care of themselves.
+071. VOIGHT: The Indians can take care of themselves.
     보이트: 인도는 알아서 잘할 겁니다.
 
-073. ELIAS: That's exactly what Delhi told me this morning, Mr. Voight. It wasn't meant as reassurance.
+072. ELIAS: That's exactly what Delhi told me this morning, Mr. Voight. It wasn't meant as reassurance.
     일라이어스: 오늘 아침에 델리가 저한테 한 말이 딱 그거예요, 보이트 씨. 안심하라는 뜻은 아니었습니다.
 
-074. CALLAWAY: Peter, take out "Iranian-backed." Put in "we are working with partners to establish the facts." The President will hate it.
+073. CALLAWAY: Peter, take out "Iranian-backed." Put in "we are working with partners to establish the facts." The President will hate it.
     캘러웨이: 피터, '이란의 지원을 받은' 빼. "우리는 협력국들과 함께 사실 관계를 규명하고 있다"로 넣어. 대통령은 싫어하시겠지만.
 
-075. VOIGHT: He'll want something muscular, sir.
+074. VOIGHT: He'll want something muscular, sir.
     보이트: 힘 있는 문장을 원하실 겁니다, 장관님.
 
-076. CALLAWAY: Then add "the United States will protect freedom of navigation." Muscular and meaningless. Everybody's happy.
+075. CALLAWAY: Then add "the United States will protect freedom of navigation." Muscular and meaningless. Everybody's happy.
     캘러웨이: 그럼 "미국은 항행의 자유를 지킬 것이다"를 붙여. 힘 있고 아무 의미 없지. 다들 행복하고.
+
+076. ELIAS: Muscular and meaningless. I can live with that, sir.
+    일라이어스: 힘 있고 아무 의미 없는 문장. 그 정도면 괜찮습니다, 장관님.
 
 077. CALLAWAY: The Pentagon's already talking about 1987. Reflagging, escorts, the whole Earnest Will playbook. Dunmore wants a deputies meeting on Wednesday.
     캘러웨이: 국방부는 벌써 1987년 얘기를 해. 재국적화, 호위, 어니스트 윌 각본 전부. 던모어가 수요일에 차관급 회의를 하자는군.
@@ -325,62 +325,62 @@
 103. ROSIE: That's weirdly comforting. Go fix your tanker.
     로지: 이상하게 위로가 되네. 가서 아빠 유조선 고쳐.
 
-104. ELIAS: It's not my tanker. That's kind of the whole point.
-    일라이어스: 내 유조선이 아니야. 그게 사실 핵심이고.
-
-105. LENA: Deputy Secretary, it's Lena. A forty-seven-second video went up nine minutes ago, on a Persian-language Telegram channel and two Gulf news sites in the same minute. It shows General Castellano ordering strikes on Iran.
+104. LENA: Deputy Secretary, it's Lena. A forty-seven-second video went up nine minutes ago, on a Persian-language Telegram channel and two Gulf news sites in the same minute. It shows General Castellano ordering strikes on Iran.
     레나: 부장관님, 레나예요. 47초짜리 영상이 9분 전에 올라왔어요. 페르시아어 텔레그램 채널 하나하고 걸프 뉴스 사이트 두 곳에, 같은 분에요. 카스텔라노 장군이 이란 공격을 명령하는 영상이에요.
 
-106. ELIAS: Read me the words.
+105. ELIAS: Read me the words.
     일라이어스: 그 말 그대로 읽어 주세요.
 
-107. LENA: "By order of the President, Central Command will conduct strikes against IRGC Navy facilities at Bandar Abbas and Qeshm Island at oh-four-hundred local. This order is effective immediately."
+106. LENA: "By order of the President, Central Command will conduct strikes against IRGC Navy facilities at Bandar Abbas and Qeshm Island at oh-four-hundred local. This order is effective immediately."
     레나: "대통령의 명령에 따라 중부사령부는 현지 시각 04시에 반다르아바스와 케심섬의 혁명수비대 해군 시설을 타격한다. 이 명령은 즉시 발효된다."
 
-108. ELIAS: That's not how strike orders work. Nobody reads them to a camera.
+107. ELIAS: That's not how strike orders work. Nobody reads them to a camera.
     일라이어스: 공격 명령은 그런 식으로 안 나와요. 카메라 앞에서 읽는 사람은 없습니다.
 
-109. LENA: You know that. A twenty-two-year-old on a fast boat doesn't. It's past four hundred thousand views, with Arabic and Hindi subtitles already burned in.
+108. LENA: You know that. A twenty-two-year-old on a fast boat doesn't. It's past four hundred thousand views, with Arabic and Hindi subtitles already burned in.
     레나: 부장관님은 아시죠. 고속정에 탄 스물두 살은 몰라요. 조회 수 40만이 넘었고, 아랍어하고 힌디어 자막이 이미 박혀 있어요.
 
-110. SAMIRA: Hindi already? Nine minutes after it went up?
+109. SAMIRA: Hindi already? Nine minutes after it went up?
     사미라: 벌써 힌디어요? 올라온 지 9분 만에?
 
-111. LENA: That's what my desk noticed too. Somebody translated it before they released it.
+110. LENA: That's what my desk noticed too. Somebody translated it before they released it.
     레나: 우리 데스크도 그걸 봤어요. 누가 공개하기 전에 번역부터 해 둔 거죠.
 
-112. ELIAS: What else does your desk see?
+111. ELIAS: What else does your desk see?
     일라이어스: 데스크에서 또 뭘 봤습니까?
 
-113. LENA: There's a window behind him full of daylight, and a wall clock reading six-forty. In December, Tampa is dark at six-forty, morning or evening. And at six-forty this morning, the tanker hadn't been hit yet.
+112. LENA: There's a window behind him full of daylight, and a wall clock reading six-forty. In December, Tampa is dark at six-forty, morning or evening. And at six-forty this morning, the tanker hadn't been hit yet.
     레나: 뒤에 창문이 있는데 햇빛이 가득하고, 벽시계는 6시 40분이에요. 12월 탬파는 6시 40분이면 아침이든 저녁이든 깜깜해요. 그리고 오늘 아침 6시 40분엔 유조선이 아직 맞지도 않았고요.
 
-114. ELIAS: So the sun is wrong, and so is the timeline.
+113. ELIAS: So the sun is wrong, and so is the timeline.
     일라이어스: 그럼 해도 틀렸고, 시간 순서도 틀렸군요.
 
-115. LENA: Both. We'll call it "likely synthetic" in twenty minutes, unless you've got better.
+114. LENA: Both. We'll call it "likely synthetic" in twenty minutes, unless you've got better.
     레나: 둘 다요. 더 나은 게 없으면 20분 뒤에 '합성 가능성 높음'으로 내보낼게요.
 
-116. ELIAS: Give me ten. Samira, get Admiral Moreno back on the line.
+115. ELIAS: Give me ten. Samira, get Admiral Moreno back on the line.
     일라이어스: 10분만 주세요. 사미라, 모레노 제독 다시 연결해.
 
-117. MORENO: I've seen it. General Castellano is on a plane over the Atlantic, headed to Al Udeid. He hasn't recorded anything since Friday.
+116. MORENO: I've seen it. General Castellano is on a plane over the Atlantic, headed to Al Udeid. He hasn't recorded anything since Friday.
     모레노: 봤습니다. 카스텔라노 장군은 지금 알우데이드로 가는 비행기로 대서양 위에 있습니다. 금요일 이후로 아무것도 녹화한 적이 없고요.
 
-118. ELIAS: Will the Pentagon say that publicly?
+117. ELIAS: Will the Pentagon say that publicly?
     일라이어스: 국방부가 그걸 공개적으로 말할까요?
 
-119. MORENO: The press secretary's statement goes out in four minutes. "The video is fabricated. No such order exists." Two sentences, no adjectives.
+118. MORENO: The press secretary's statement goes out in four minutes. "The video is fabricated. No such order exists." Two sentences, no adjectives.
     모레노: 4분 뒤에 대변인 성명이 나갑니다. "영상은 조작됐다. 그런 명령은 존재하지 않는다." 두 문장, 형용사 없이요.
 
-120. ELIAS: Good. Can your people tell the Iranians directly, tonight?
+119. ELIAS: Good. Can your people tell the Iranians directly, tonight?
     일라이어스: 좋습니다. 오늘 밤 이란 쪽에 직접 전할 수 있습니까?
 
-121. MORENO: We have no hotline with Tehran, sir. We have bridge-to-bridge radio, and my ships will say it in plain English on channel sixteen. Whether a boat captain believes a radio is another matter.
+120. MORENO: We have no hotline with Tehran, sir. We have bridge-to-bridge radio, and my ships will say it in plain English on channel sixteen. Whether a boat captain believes a radio is another matter.
     모레노: 테헤란하고는 직통 회선이 없습니다. 함교 간 무선이 있고, 우리 함정들이 16번 채널로 쉬운 영어로 말할 겁니다. 고속정 정장이 무전을 믿을지는 별개 문제고요.
 
-122. ELIAS: Then we need someone they believe. Thank you, Admiral.
+121. ELIAS: Then we need someone they believe. Thank you, Admiral.
     일라이어스: 그럼 그쪽이 믿는 사람이 필요하겠군요. 감사합니다, 제독님.
+
+122. LENA: I'm still on the other line. What did the Pentagon say?
+    레나: 저 아직 다른 회선에 있어요. 국방부는 뭐래요?
 
 123. ELIAS: Lena, you'll have the Pentagon statement in four minutes. On background from me: the daylight is your best evidence. Lead with the clock, not with our denial.
     일라이어스: 레나, 4분 뒤에 국방부 성명 받을 겁니다. 제 배경 설명은 이거예요. 햇빛이 제일 좋은 증거입니다. 우리 부인 말고 시계로 기사를 여세요.
@@ -474,12 +474,12 @@
 - **Attribution is a forensic question, not a radar question.** — '누가 했나'는 증거 분석으로 정한다 / 성급한 지목을 막는 군인의 화법 (028)
 - **Delhi informed us. Those are different verbs.** — '통보'와 '요청'의 차이 = 주권의 언어 (032, 042)
 - **It's a notification, not a request.** — 허락을 구하지 않는다는 외교적 선 긋기 (041–042)
-- **freedom of navigation** — 항행의 자유 / 미국에겐 원칙, 인도에겐 1971년의 '문구' (046–048, 076)
+- **freedom of navigation** — 항행의 자유 / 미국에겐 원칙, 인도에겐 1971년의 '문구' (046–048, 075)
 - **escort / escorting** — 호위(작전) / India has been escorting its own ships in these waters since 2019. (042)
-- **We're not ruling anything out.** — 같은 말, 다른 뉘앙스: 워싱턴에선 '이란', 테헤란에선 '오늘 밤 공격' (064–065)
-- **"We're finding out." vs. "We don't know."** — 거둬들일 필요 없는 문장 고르기 (062–063)
-- **He doesn't read footnotes. He hears verbs.** — 현장의 병사는 수식어가 아니라 동사(행동)를 듣는다 (067)
-- **muscular and meaningless** — 강해 보이지만 아무것도 약속하지 않는 성명 문구 (075–076)
+- **We're not ruling anything out.** — 같은 말, 다른 뉘앙스: 워싱턴에선 '이란', 테헤란에선 '오늘 밤 공격' (063–064)
+- **"We're finding out." vs. "We don't know."** — 거둬들일 필요 없는 문장 고르기 (061–062)
+- **He doesn't read footnotes. He hears verbs.** — 현장의 병사는 수식어가 아니라 동사(행동)를 듣는다 (066)
+- **muscular and meaningless** — 강해 보이지만 아무것도 약속하지 않는 성명 문구 (074–076)
 - **reflagging** — 외국 선박에 자국 국기를 달아 보호 대상으로 삼는 것 / the whole Earnest Will playbook (077)
 - **on background** — 실명 없이 배경 설명으로 / Lead with the clock, not with our denial. (123)
 - **claimed provenance** — 가짜가 내세운 출처 / Claimed provenance: Central Command, Tampa. (145)

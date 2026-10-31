@@ -10,7 +10,7 @@
 > - 역사 사례: 1953년 모사데크 축출 '아약스 작전' — 캄란이 "워싱턴은 1953년을 한 번도 인정한 적 없다"며 자국 강경파가 가짜 영상을 믿는 이유로 꺼낸다. 일라이어스는 올브라이트(2000)·오바마(2009)의 인정 발언과 2013년 CIA 문서 기밀 해제로 반박하고, 쿠데타가 이란인 군중·장교·성직자를 돈으로 움직였다는 점도 짚는다. 캄란은 "워싱턴의 연설은 테헤란의 사과가 아니다"로 되받는다
 > - 전술 태그: [공갈] [설득] [블러핑] [유출]
 > - 이번 화의 핵심 표현: forensic analysis / attribution / escort mission / futures / readout / A denial from Washington is a confession in Tehran. / does not seek vs. will not / Is that a warning or a threat? / Call it a deposit.
-> - 복선/연결: 가짜 영상의 '창문 셋' ↔ 실제 1월 9일 회의는 창문 없는 진짜 방으로 옮겨졌다 → 위조자는 일정표는 알고 복도는 몰랐다 · 1부 7화 롯데호텔 예약·1부 9화 이송 일정에 이은 세 번째 '일정표 문제' → 8화 가짜 일정표 · 보이트가 부장관의 회의실 번호까지 요구 → 8화 · 캘러웨이의 카터 독트린 50주년 연설(1월 28일) → 9화 · 두바이 미디어 대행사의 유료 확산 → 11화 카버 유령회사
+> - 복선/연결: 가짜 영상의 '창문 셋' ↔ 실제 1월 9일 회의는 창문 없는 진짜 방으로 옮겨졌다 → 위조자는 일정표는 알고 복도는 몰랐다 · 사미라의 '일정표' 페이지(2부 4화 개설) 다섯 번째 줄 → 8화 가짜 일정표 · 보이트가 부장관의 회의실 번호까지 요구 → 8화 · 캘러웨이의 카터 독트린 50주년 연설(1월 28일) → 9화 · 두바이 미디어 대행사의 유료 확산(배후 미확인) → 8화 인도 클립 · 11화 피격 배후 추적
 
 ---
 
@@ -85,11 +85,11 @@
 023. SAMIRA: Thirty-one, across five offices. I counted at four this morning.
     사미라: 다섯 개 부서에 서른한 명이요. 새벽 4시에 셌어요.
 
-024. ELIAS: Seoul all over again. Somebody knew the hotel room a week before we booked it.
-    일라이어스: 서울 때랑 똑같네. 우리가 예약하기 일주일 전에 누가 호텔 방을 알았잖아.
+024. ELIAS: Seoul all over again. And Muscat, where they posted my landing time before I landed.
+    일라이어스: 서울 때랑 똑같네. 그리고 무스카트. 내가 착륙하기도 전에 착륙 시각이 올라왔잖아.
 
-025. SAMIRA: I wrote "the calendar problem" in October and underlined it twice. Now it's three times.
-    사미라: 10월에 '일정표 문제'라고 쓰고 밑줄을 두 번 그었어요. 이제 세 번이에요.
+025. SAMIRA: My calendar page had four lines in December. This is line five.
+    사미라: 12월에 제 '일정표' 페이지가 네 줄이었어요. 이게 다섯 번째 줄이에요.
 
 026. ELIAS: Does it go in the book?
     일라이어스: 그거 목록에 올라가?
