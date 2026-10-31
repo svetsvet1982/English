@@ -303,5 +303,167 @@
 095. NADIA: It keeps a nominee, a mailbox, and a lawyer who bills by the hour to say "I don't know." Lowell never signed his own name to anything.
     나디아: 남는 건 명의만 빌려준 사람, 우편함, 그리고 "모르겠습니다"라고 말하는 데 시간당 요금 받는 변호사죠. 로웰은 어디에도 자기 이름으로 서명한 적 없어요.
 
-096. PIERRE-LUC: He signed mine, a few times. On receipts. He kept every one of them.
-    피에르뤽: 제 이름은 몇 번 썼어요. 영수증에요. 그걸 하나도 안 버리고 다 갖고 있었고요.
+096. PIERRE-LUC: He made me sign mine, though. On receipts, every Friday. He kept every one of them.
+    피에르뤽: 대신 저한텐 제 이름으로 서명하게 했어요. 영수증에요, 금요일마다. 그걸 하나도 안 버리고 다 갖고 있었고요.
+
+097. NOUR: Za'atar or cheese?
+    누르: 자타르, 아니면 치즈?
+
+098. ELIAS: Whatever means I wasn't here. And another one for the woman at my table who's pretending not to be a reporter.
+    일라이어스: 내가 여기 없었다는 뜻이 되는 걸로요. 그리고 기자 아닌 척하고 내 자리에 앉아 있는 분한테도 하나요.
+
+099. NOUR: She already ordered cheese. Cheese is official. I'll put both on your bill, habibi.
+    누르: 그 여자는 벌써 치즈 시켰어. 치즈는 공식이지. 둘 다 당신 앞으로 달아 둘게, 하비비.
+
+100. LENA: Mr. Grant. Thank you for coming. You didn't hang up this time.
+    레나: 그랜트 씨. 와 주셔서 고마워요. 이번엔 안 끊으셨네요.
+
+101. ELIAS: You said it wasn't about me. That's usually a lie, but at least it's a new one.
+    일라이어스: 저에 관한 얘기가 아니라고 하셨죠. 보통은 거짓말인데, 적어도 새로운 거짓말이네요.
+
+102. LENA: It isn't about you. It's about a company in Miami that sold boat positions and stopped existing at one fifty-two this afternoon.
+    레나: 당신 얘기 아니에요. 배 위치를 팔다가 오늘 오후 1시 52분에 존재하기를 멈춘 마이애미 회사 얘기예요.
+
+103. ELIAS: I read the news, Ms. Voss.
+    일라이어스: 저도 뉴스는 봐요, 보스 씨.
+
+104. LENA: The news says it dissolved. The news doesn't ask the real question. Who closes a company in four hours?
+    레나: 뉴스는 해산했다고만 해요. 진짜 질문은 안 하죠. 누가 네 시간 만에 회사를 닫아요?
+
+105. ELIAS: I don't know.
+    일라이어스: 모르겠어요.
+
+106. LENA: That's the first time in two years you've said "I don't know" and I've believed you.
+    레나: 2년 동안 당신이 "모르겠다"고 했는데 제가 믿은 건 이번이 처음이에요.
+
+107. ELIAS: Enjoy it. It won't happen often. What do you have?
+    일라이어스: 즐기세요. 자주 있는 일 아니니까. 뭘 갖고 계세요?
+
+108. LENA: Bluewater's registered agent is a firm in Wilmington. Somebody told them to prepare the dissolution at nine forty-one this morning.
+    레나: 블루워터의 등록 대리인은 윌밍턴에 있는 회사예요. 누군가 오늘 아침 9시 41분에 그쪽에 해산 서류를 준비하라고 했어요.
+
+109. ELIAS: Nine forty-one. The announcement was at ten.
+    일라이어스: 9시 41분. 발표는 열 시였는데.
+
+110. LENA: Nineteen minutes before anyone outside government knew the commission existed, let alone that clause four-C had survived.
+    레나: 정부 바깥에선 아무도 위원회가 있는 줄도 모를 때보다 19분 앞이에요. 4항 C호가 살아남았다는 건 말할 것도 없고요.
+
+111. ELIAS: How do you know about four-C?
+    일라이어스: 4항 C호는 어떻게 아세요?
+
+112. LENA: The same way you do. Somebody was proud of it. My question is who wasn't proud of it, and picked up a phone.
+    레나: 당신이 아는 것과 같은 방법으로요. 누군가 그걸 자랑스러워했죠. 제 질문은, 누가 그걸 안 자랑스러워했고 전화기를 들었느냐는 거예요.
+
+113. ELIAS: The text went to eleven people at seven. Any one of the eleven could have read it aloud to someone over breakfast.
+    일라이어스: 문안은 일곱 시에 열한 명한테 갔어요. 그 열한 명 중 누구라도 아침 먹으면서 누군가한테 소리 내 읽어 줄 수 있었죠.
+
+114. LENA: Or one of them didn't need to. Someone already knew exactly what four-C would say, because they'd spent three weeks fighting it.
+    레나: 아니면 그럴 필요도 없었거나요. 누군가는 4항 C호가 뭐라고 할지 이미 정확히 알았어요. 3주 동안 그걸 막으려고 싸웠으니까.
+
+115. ELIAS: You're asking me to say Washington tipped off a contractor. I'm not in a position to comment.
+    일라이어스: 워싱턴이 하청 업체한테 귀띔했다고 말해 달라는 거군요. 전 언급할 위치에 있지 않아요.
+
+116. LENA: Last December you told me "no comment." Now you're "not in a position." That isn't the same sentence.
+    레나: 작년 12월엔 "노 코멘트"라고 하셨잖아요. 이번엔 "언급할 위치가 아니다"고요. 같은 문장이 아니에요.
+
+117. ELIAS: No, it isn't. "No comment" means I won't. "Not in a position" means I can't, and I'd like you to notice the difference.
+    일라이어스: 네, 아니에요. "노 코멘트"는 안 하겠다는 거고, "언급할 위치가 아니다"는 못 한다는 거예요. 그 차이를 알아봐 주셨으면 좋겠네요.
+
+118. LENA: I noticed. Then let me give you something, since you can't give me anything. The suite in Brickell. I got the lease.
+    레나: 알아봤어요. 그럼 당신은 줄 수 없으니 제가 하나 드릴게요. 브리클의 그 사무실이요. 임대 계약서를 구했어요.
+
+119. ELIAS: Whose name?
+    일라이어스: 누구 이름으로요?
+
+120. LENA: "T. Lowell." A year paid in advance, in cash, on September first. And the man who signed it was wearing—
+    레나: "T. 로웰." 1년 치를 선불로, 현금으로, 9월 1일에요. 그리고 거기 서명한 남자가 입고 있던 건—
+
+121. ELIAS: A cashmere coat.
+    일라이어스: 캐시미어 코트.
+
+122. LENA: In August you went quiet for three seconds when I said that. Tonight you finished my sentence. Who is he, Elias?
+    레나: 8월에 제가 그 말을 했을 땐 3초 동안 조용하셨죠. 오늘 밤엔 제 문장을 끝내 주셨고요. 그 사람 누구예요, 일라이어스?
+
+123. ELIAS: A man in a hotel bar in Miami, a year ago this month. He called himself Lowell. He knew my career better than I did.
+    일라이어스: 1년 전 이맘때 마이애미 호텔 바에 있던 남자요. 자기를 로웰이라고 했어요. 제 경력을 저보다 더 잘 알더군요.
+
+124. LENA: And you never told me.
+    레나: 그런데 저한테는 한 번도 말 안 했고요.
+
+125. ELIAS: I told Diplomatic Security, in writing, the next day. It was stamped "received" and filed, which tells you what writing is worth.
+    일라이어스: 다음 날 외교안보국에 서면으로 말했어요. "접수" 도장이 찍혀서 서류철에 들어갔죠. 서면이 얼마짜리인지 그걸로 아실 거예요.
+
+126. LENA: Can I use that?
+    레나: 그거 써도 돼요?
+
+127. ELIAS: You can use a hotel bar and a name that isn't a name. You can't use me. Not yet.
+    일라이어스: 호텔 바랑, 이름 아닌 이름은 쓰셔도 돼요. 저는 못 써요. 아직은.
+
+128. LENA: You still owe me one on the record. From March.
+    레나: 아직 공식 발언 하나 빚지셨어요. 3월 거요.
+
+129. ELIAS: I know what I owe. When I pay it, it'll be worth printing. Tonight it would just be a visa officer with a grudge.
+    일라이어스: 뭘 빚졌는지 알아요. 갚을 땐 실을 만한 걸로 갚을게요. 오늘 밤엔 그냥 앙심 품은 비자 담당관일 뿐이에요.
+
+130. NOUR: Your phone is buzzing against my table, Elias. It says "Dad." My tables are older than your father. Answer it.
+    누르: 당신 전화가 내 탁자 위에서 부르르 떨어요, 일라이어스. "아빠"래요. 내 탁자는 당신 아버지보다 나이가 많아. 받아요.
+
+131. ELIAS: Hi, Dad. I'm at Nour's. Yes. Yes, I ate. Half of it.
+    일라이어스: 아빠. 누르네 가게야. 응. 응, 먹었어. 반쯤.
+
+132. FRANK: Half is a negotiating position, not a dinner. Rosie saw the commission on the news. She says the widow didn't cry once.
+    프랭크: 반은 협상 입장이지 저녁이 아니야. 로지가 뉴스에서 그 위원회 봤대. 그 부인은 한 번도 안 울더래.
+
+133. ELIAS: She doesn't cry in front of governments. She saves it for later, after they've all gone home.
+    일라이어스: 그분은 정부 앞에선 안 울어. 나중을 위해 아껴 둬. 다들 집에 가고 나서.
+
+134. FRANK: Your mother was like that. Is it a good day or a bad day, son? You sound like both.
+    프랭크: 네 엄마도 그랬지. 오늘은 좋은 날이냐 나쁜 날이냐, 아들? 둘 다처럼 들리는구나.
+
+135. ELIAS: A door opened at ten, and somebody walked out the back by two. Tell Rosie I'll call on Sunday.
+    일라이어스: 열 시에 문이 하나 열렸는데, 두 시쯤 누가 뒷문으로 나갔어. 로지한테 일요일에 전화한다고 해 줘.
+
+136. CARVER: Yes, sir. I'm at Opa-locka. Same hangar the senator used last year, which I admit is a little sentimental.
+    카버: 네. 오파로카예요. 작년에 상원의원이 썼던 그 격납고요. 좀 감상적이라는 건 인정해요.
+
+137. VOICE: Bluewater?
+    목소리: 블루워터는?
+
+138. CARVER: Bluewater Insight no longer exists. Dissolved at one fifty-two. The servers were never in Florida, and the country they're in doesn't answer letters.
+    카버: 블루워터 인사이트는 이제 없어요. 1시 52분에 해산했어요. 서버는 처음부터 플로리다에 없었고, 서버가 있는 나라는 편지에 답장을 안 해요.
+
+139. VOICE: The commission has a clause.
+    목소리: 위원회에 조항이 하나 있던데.
+
+140. CARVER: Four-C. I had the text at seven-twelve, before my coffee. I didn't ask which floor it came from. I never do.
+    카버: 4항 C호요. 7시 12분에 문안을 받았어요. 커피 마시기도 전에요. 어느 층에서 왔는지는 안 물었어요. 전 원래 안 물어요.
+
+141. VOICE: And Montreal?
+    목소리: 몬트리올은?
+
+142. CARVER: The voice in Montreal is burned. He confessed to a Canadian in October. By February he'll be a cooperating witness for anyone who'll listen.
+    카버: 몬트리올의 '목소리'는 탔어요. 10월에 캐나다 사람한테 자백했죠. 2월쯤이면 들어 주는 사람 누구한테나 협조 증인이 될 거예요.
+
+143. VOICE: What does he know?
+    목소리: 그 애가 뭘 알지?
+
+144. CARVER: A parking lot, a phone, a coat, and a name that was never mine. He could describe me to a sketch artist, and the sketch would look like half of Miami.
+    카버: 주차장 하나, 전화기 하나, 코트 하나, 그리고 한 번도 내 것이었던 적 없는 이름 하나요. 몽타주 화가한테 날 설명해도, 그 그림은 마이애미 사람 절반처럼 보일 거예요.
+
+145. VOICE: And the visa officer?
+    목소리: 그 비자 담당관은?
+
+146. CARVER: Grant knows exactly what he's always known: that something is there, not what to call it. Plausible deniability, sir. Everyone has it except him.
+    카버: 그랜트는 늘 알던 만큼만 알아요. 뭔가 있다는 것까지만, 그걸 뭐라고 부르는지는 모르고요. 그럴듯한 부인 가능성이죠. 그 사람만 빼고 다 갖고 있어요.
+
+147. VOICE: There will be one last transfer. The usual account. Then nothing for a year.
+    목소리: 마지막 송금이 한 번 있을 거야. 늘 쓰던 계좌로. 그다음 1년은 아무것도 없어.
+
+148. CARVER: A year is fine. I'll be somebody else for a while. Somebody who's never been to Montreal.
+    카버: 1년이면 괜찮아요. 한동안 다른 사람으로 살죠. 몬트리올엔 가 본 적도 없는 사람으로.
+
+149. VOICE: And Mr. Lowell?
+    목소리: 그럼 로웰 씨는?
+
+150. CARVER: Mr. Lowell closed at one fifty-two this afternoon, like the company. He's simply no longer registered anywhere.
+    카버: 로웰 씨는 오늘 오후 1시 52분에 문을 닫았어요. 회사처럼요. 이제 어디에도 등록돼 있지 않을 뿐이에요.

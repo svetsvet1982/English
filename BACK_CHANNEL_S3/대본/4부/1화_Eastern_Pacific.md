@@ -30,44 +30,44 @@
 004. ELIAS: Preseason doesn't count. Good morning, Mr. Quiñónez. You came back.
     일라이어스: 시범 경기는 안 쳐. 안녕하세요, 키뇨네스 씨. 다시 오셨네요.
 
-005. WILMER: You said I didn't have to wait. So I didn't wait. I brought the two pieces of paper.
+005. WILMER: You said I didn't have to wait. So I didn't. I brought the two papers.
     윌메르: 기다릴 필요 없다고 하셨잖아요. 그래서 안 기다렸어요. 종이 두 장 가져왔어요.
 
-006. ELIAS: Let's see them. Work permit, renewed through November 2029. And this is a lease with your name on it.
-    일라이어스: 봅시다. 취업 허가, 2029년 11월까지 갱신됐네요. 그리고 이건 선생님 이름이 들어간 임대 계약서고요.
+006. ELIAS: Let's see. Work permit, renewed through November 2029. A lease with your name on it.
+    일라이어스: 봅시다. 취업 허가, 2029년 11월까지 갱신됐네요. 선생님 이름이 들어간 임대 계약서도 있고요.
 
-007. WILMER: My friend was offended. He said, "Now you don't trust me?" I said, "It's not me, it's the Americans."
-    윌메르: 친구가 서운해했어요. "이제 나를 못 믿냐?" 그러더라고요. 그래서 "내가 아니라 미국 사람들이 그래" 했죠.
+007. WILMER: My friend was offended. "Now you don't trust me?" I said, "It's the Americans."
+    윌메르: 친구가 서운해했어요. "이제 나를 못 믿냐?" 그래서 "미국 사람들 때문이야" 했죠.
 
 008. ELIAS: Tell him the Americans apologize, and that the lease is very well written.
     일라이어스: 미국 사람들이 사과한다고, 그리고 계약서 아주 잘 썼다고 전해 주세요.
 
-009. WILMER: The hotel manager wrote a letter too. He said, "Don't worry, Wilmer." But this time he wrote it down.
-    윌메르: 호텔 매니저도 편지를 써 줬어요. "걱정 마, 윌메르"라고 했는데, 이번엔 글로 써 줬어요.
+009. WILMER: The hotel manager wrote a letter too. "Don't worry, Wilmer." But this time, in writing.
+    윌메르: 호텔 매니저도 편지를 써 줬어요. "걱정 마, 윌메르." 근데 이번엔 글로요.
 
-010. ELIAS: That's the difference between a promise and a document. Ten days in Miami, back on the nineteenth of October?
-    일라이어스: 그게 약속이랑 서류의 차이죠. 마이애미 열흘, 10월 19일 귀국 맞죠?
+010. ELIAS: That's the difference between a promise and a document. Back on October nineteenth?
+    일라이어스: 그게 약속이랑 서류의 차이죠. 10월 19일에 돌아오시고요?
 
 011. WILMER: The nineteenth. I start the breakfast shift on the twentieth. Six in the morning.
     윌메르: 19일이요. 20일부터 아침 근무 시작해요. 새벽 여섯 시.
 
-012. ELIAS: Then your application is approved. Your passport will come back with the visa in about a week.
-    일라이어스: 그럼 신청은 승인됐습니다. 여권은 일주일쯤 뒤에 비자랑 같이 돌아갈 거예요.
+012. ELIAS: Then you're approved. Your passport comes back with the visa in about a week.
+    일라이어스: 그럼 승인됐습니다. 여권은 일주일쯤 뒤에 비자랑 같이 돌아가요.
 
-013. WILMER: Thank you. My mother will cry. She cries at everything, but this time it will be a good cry.
-    윌메르: 감사합니다. 어머니가 우실 거예요. 원래 다 울긴 하는데, 이번엔 좋은 울음일 거예요.
+013. WILMER: Thank you. My mother will cry. A good cry, this time.
+    윌메르: 감사합니다. 어머니가 우실 거예요. 이번엔 좋은 울음으로요.
 
 014. ELIAS: Your brother's boat. It left Manta in September, you said. Is he coming to Miami?
     일라이어스: 형님 배요. 9월에 만타에서 떠난다고 하셨죠. 형님도 마이애미 오세요?
 
-015. WILMER: He's out until November. But he's fine. He called me Saturday on the satellite phone, because of Thursday.
-    윌메르: 11월까지 바다에 있어요. 그래도 괜찮아요. 토요일에 위성 전화로 연락 왔어요. 목요일 일 때문에요.
+015. WILMER: He's out until November. He's fine. He called Saturday from the boat, because of Thursday.
+    윌메르: 11월까지 바다에 있어요. 괜찮아요. 토요일에 배에서 전화 왔어요. 목요일 일 때문에요.
 
 016. ELIAS: Thursday?
     일라이어스: 목요일이요?
 
-017. WILMER: The boat the Americans hit, west of the Galápagos. Five men. Everybody in Manta knows the boat. Estrella de Manta. A small one, fiberglass, two engines.
-    윌메르: 미국 사람들이 때린 배요. 갈라파고스 서쪽에서요. 다섯 명이요. 만타 사람들은 다 그 배를 알아요. 에스트레야 데 만타. 작은 거, 유리섬유에 엔진 두 개짜리.
+017. WILMER: The boat the Americans hit, west of the Galápagos. Five men. Everybody in Manta knows it. Estrella de Manta. Small, fiberglass, two engines.
+    윌메르: 미국 사람들이 때린 배요. 갈라파고스 서쪽에서요. 다섯 명이요. 만타 사람들은 다 그 배를 알아요. 에스트레야 데 만타. 작은 유리섬유 배에 엔진 두 개짜리요.
 
 018. ELIAS: I saw the statement. It said the vessel was operated by a designated narco-terrorist organization.
     일라이어스: 성명은 봤어요. 그 선박을 지정된 마약 테러 조직이 운용했다고 돼 있더군요.
@@ -93,8 +93,8 @@
 025. ELIAS: I'm sorry. I mean that.
     일라이어스: 유감이에요. 진심으로요.
 
-026. WILMER: His wife, Rosa, she's been to the Canadian government twice. They keep reading her the same sentence.
-    윌메르: 그 집 아내 로사가 캐나다 정부에 두 번 갔어요. 매번 똑같은 문장을 읽어 준대요.
+026. WILMER: His wife, Rosa, went to the Canadian government twice. They read her the same sentence.
+    윌메르: 그 집 아내 로사가 캐나다 정부에 두 번 갔어요. 매번 똑같은 문장을 읽어 줬대요.
 
 027. ELIAS: Which sentence?
     일라이어스: 어떤 문장이요?
@@ -114,13 +114,13 @@
 032. ELIAS: Preseason hockey. It's harder on the fans than the players. Have a good trip, Mr. Quiñónez. And give your mother my congratulations.
     일라이어스: 하키 시범 경기 때문에요. 선수보다 팬들한테 더 힘들거든요. 좋은 여행 되세요, 키뇨네스 씨. 어머님께 축하드린다고 전해 주시고요.
 
-033. WILMER: I will. And if you see Rosa, you'll know her. She's the one who won't sit down.
-    윌메르: 그럴게요. 그리고 로사를 보시면 알아보실 거예요. 절대 안 앉는 사람이에요.
+033. WILMER: I will. And if you see Rosa, you'll know her. She won't sit down.
+    윌메르: 그럴게요. 그리고 로사를 보시면 알아보실 거예요. 절대 안 앉아요.
 
 034. ELIAS: Why would I see her? She's Canadian. This is the American consulate.
     일라이어스: 제가 왜 그분을 보겠어요? 캐나다 사람이잖아요. 여긴 미국 영사관이고요.
 
-035. WILMER: Because the missile was American, sir. She said that on Saturday. She said, "The Canadians didn't fire it."
+035. WILMER: Because the missile was American. She said it Saturday: "The Canadians didn't fire it."
     윌메르: 미사일이 미국 거였으니까요. 로사가 토요일에 그랬어요. "캐나다 사람들이 쏜 게 아니잖아."
 
 036. ELIAS: Pierre-Luc. You're back already?
@@ -132,8 +132,8 @@
 038. ELIAS: Nobody, for six minutes. Did you know the man he was talking about? Arias?
     일라이어스: 6분 동안 아무도 없어. 저분이 말한 사람 알아? 아리아스?
 
-039. PIERRE-LUC: No. Why would I? I don't know any fishermen. My cousin in Gaspé has a boat, that's all. Lobster.
-    피에르뤽: 아니요. 제가 왜 알아요? 어부는 하나도 몰라요. 가스페에 사는 사촌이 배가 있긴 한데, 그게 다예요. 랍스터요.
+039. PIERRE-LUC: No. Why would I? My cousin in Gaspé has a lobster boat. That's all.
+    피에르뤽: 아니요. 제가 왜 알아요? 가스페 사는 사촌한테 랍스터 배가 있는 게 다예요.
 
 040. ELIAS: Lobster. Okay.
     일라이어스: 랍스터. 알았어.
@@ -141,8 +141,8 @@
 041. MARISOL: Elias, it's Marisol, downstairs. I have a woman at my window who is not an American citizen, and she will not leave.
     마리솔: 일라이어스, 아래층 마리솔이에요. 내 창구에 미국 시민이 아닌 여자가 있는데, 안 나가요.
 
-042. ELIAS: Then she's at the wrong window, Marisol. Send her up to me, I'll explain the visa process.
-    일라이어스: 그럼 창구를 잘못 찾은 거네요, 마리솔. 나한테 올려 보내요. 비자 절차 설명해 줄게요.
+042. ELIAS: Then she's at the wrong window. Send her up, I'll explain the visa process.
+    일라이어스: 그럼 창구를 잘못 찾은 거네요. 올려 보내요. 비자 절차 설명해 줄게요.
 
 043. MARISOL: She doesn't want a visa. She wants us to tell her whether her husband was on that boat. I've been in ACS nineteen years. I don't have a form for that.
     마리솔: 비자를 원하는 게 아니에요. 남편이 그 배에 타고 있었는지 우리더러 말해 달래요. ACS에서 19년 일했는데, 그런 서식은 없어요.
@@ -159,11 +159,11 @@
 047. ROSA: You're the visa man. They said they'd send someone who could help. You don't look like someone who can help.
     로사: 비자 담당이시네요. 도와줄 수 있는 사람을 보내겠다더니. 도와줄 수 있는 사람처럼은 안 보여요.
 
-048. ELIAS: That's fair, Mrs. Arias. Most days I'm not. My name is Elias Grant. Would you like to sit?
-    일라이어스: 맞는 말씀이에요, 아리아스 부인. 대부분은 못 돕죠. 일라이어스 그랜트입니다. 앉으시겠어요?
+048. ELIAS: That's fair, Mrs. Arias. Most days I can't. I'm Elias Grant. Please, sit.
+    일라이어스: 맞는 말씀이에요, 아리아스 부인. 대부분은 못 돕죠. 일라이어스 그랜트입니다. 앉으세요.
 
-049. ROSA: No. I've been sitting since Thursday. In offices. In the church. At the kitchen table with my phone.
-    로사: 아니요. 목요일부터 계속 앉아 있었어요. 사무실에서, 성당에서, 휴대폰 들고 부엌 식탁에서.
+049. ROSA: No. I've been sitting since Thursday. In offices, in church, at the kitchen table.
+    로사: 아니요. 목요일부터 계속 앉아 있었어요. 사무실에서, 성당에서, 부엌 식탁에서.
 
 050. ELIAS: Then I'll stand too. Tell me about Tomás.
     일라이어스: 그럼 저도 서 있을게요. 토마스 얘기를 해 주세요.
@@ -192,20 +192,20 @@
 058. ELIAS: I've seen it.
     일라이어스: 봤어요.
 
-059. ROSA: A white boat. A flash. Then the sea. It's twenty-two seconds. I've watched it more times than I've watched our wedding. Every time, I look for him.
+059. ROSA: A white boat. A flash. Then the sea. Twenty-two seconds. I've watched it more than our wedding video. Every time, I look for him.
     로사: 하얀 배. 번쩍. 그리고 바다. 22초예요. 우리 결혼식 영상보다 더 많이 봤어요. 볼 때마다 그 사람을 찾아요.
 
 060. MARISOL: Mrs. Arias, I'm sorry, I have to say it again for the record. Tomás was a Canadian citizen, so his case belongs to Global Affairs Canada, not to us.
     마리솔: 아리아스 부인, 죄송하지만 기록을 위해 다시 말씀드려야 해요. 토마스 씨는 캐나다 시민이었으니까 이 건은 우리가 아니라 캐나다 외교부 소관이에요.
 
-061. ROSA: Global Affairs is aware of reports. That's what they said, twice. "We are aware of reports that a Canadian citizen may have been among those killed."
+061. ROSA: Global Affairs is aware of reports. They said it twice. "We are aware of reports that a Canadian citizen may have been among those killed."
     로사: 외교부는 보도를 인지하고 있대요. 두 번이나 그랬어요. "사망자 중 캐나다 시민이 있을 수 있다는 보도를 인지하고 있습니다."
 
 062. MARISOL: That sentence means they know exactly what you know, and they won't confirm it until someone above them decides they can.
     마리솔: 그 문장은요, 부인이 아는 걸 그쪽도 정확히 안다는 뜻이에요. 그리고 윗선에서 된다고 할 때까지는 확인해 주지 않겠다는 뜻이고요.
 
-063. ROSA: And the Americans said, "We're looking into it." I called Washington. A young man said it. Very polite.
-    로사: 미국 사람들은 "확인해 보겠습니다"라고 했어요. 워싱턴에 전화했거든요. 젊은 남자가 그랬어요. 아주 공손하게.
+063. ROSA: And the Americans said, "We're looking into it." A young man in Washington. Very polite.
+    로사: 미국 사람들은 "확인해 보겠습니다"래요. 워싱턴의 젊은 남자가요. 아주 공손하게.
 
 064. ELIAS: In Washington, "we're looking into it" usually means a file has been opened, and that nobody has been told to read it.
     일라이어스: 워싱턴에서 "확인해 보겠습니다"는 대개 파일은 열었는데, 그걸 읽으라는 지시를 받은 사람은 아무도 없다는 뜻이에요.
@@ -240,7 +240,7 @@
 074. ROSA: "A lawful strike against a vessel operated by a designated terrorist organization, in international waters. Five male narco-terrorists were killed. No U.S. forces were harmed."
     로사: "국제 수역에서 지정 테러 조직이 운용하던 선박에 대한 합법적 타격. 남성 마약 테러범 다섯 명 사망. 미군 피해 없음."
 
-075. ROSA: "Lawful." What does lawful mean, when you're in the middle of the ocean? Who wrote that law? Can they kill anyone at sea and call it self-defense?
+075. ROSA: "Lawful." What does lawful mean in the middle of the ocean? Who wrote that law? Can they kill anyone at sea and call it self-defense?
     로사: "합법적." 바다 한가운데서 합법이 무슨 뜻이에요? 그 법은 누가 썼어요? 바다에서 아무나 죽여 놓고 자위라고 부를 수 있는 거예요?
 
 076. ELIAS: The law you're asking about was partly written by the United States. Because of a boat that was attacked from Canada, as it happens.
@@ -273,7 +273,7 @@
 085. ROSA: Write that down too.
     로사: 그것도 적어요.
 
-086. ELIAS: I'm not allowed to put my opinions in a walk-in statement. I'll write yours. Do you have children?
+086. ELIAS: I can't put my opinions in a walk-in statement. I'll write yours. Children?
     일라이어스: 방문 진술에 제 의견은 넣을 수 없어요. 부인 의견을 적을게요. 아이들은요?
 
 087. ROSA: Camila is thirteen. Mateo is nine. Mateo thinks his father is still on the boat, because nobody found the boat. Camila watched the video. I didn't stop her in time.
@@ -282,8 +282,8 @@
 088. ELIAS: Was anyone recovered? Any of the five?
     일라이어스: 수습된 사람은요? 다섯 명 중에 누구라도?
 
-089. ROSA: Nothing. The Ecuadorian navy found an engine cover and a cooler. Without a body, Canada won't give me a death certificate, and without one I can't pay the rent from his account. I need the Americans to admit they killed him, just so I can be a widow.
-    로사: 아무것도요. 에콰도르 해군이 엔진 덮개랑 아이스박스 하나 찾았어요. 시신이 없으면 캐나다는 사망 증명서를 안 줘요. 그게 없으면 남편 계좌에서 월세도 못 내고요. 과부가 되려면 미국 사람들이 그 사람을 죽였다고 인정해 줘야 하는 거예요.
+089. ROSA: Nothing. The Ecuadorian navy found an engine cover and a cooler. Without a body, Quebec wants a judge, and the judge wants proof. I need the Americans to admit they killed him, just so I can be a widow.
+    로사: 아무것도요. 에콰도르 해군이 엔진 덮개랑 아이스박스 하나 찾았어요. 시신이 없으면 퀘벡주는 판사를 거치라고 하고, 판사는 증거를 원해요. 과부가 되려면 미국 사람들이 그 사람을 죽였다고 인정해 줘야 하는 거예요.
 
 090. ELIAS: Then that goes in the record too, exactly like that. "To become a widow, I need someone to admit it." What's your phone number?
     일라이어스: 그럼 그것도 그대로 기록에 넣을게요. "과부가 되려면 누군가 인정해 줘야 한다." 전화번호가 어떻게 되세요?
@@ -315,14 +315,14 @@
 099. ELIAS: "Refer all inquiries." So the answer for Rosa Arias is a phone number in Virginia.
     일라이어스: "모든 문의는 넘길 것." 그러니까 로사 아리아스한테 줄 답은 버지니아 전화번호 하나네요.
 
-100. GLORIA: The answer for Rosa Arias is Global Affairs Canada. She's their citizen, Elias. And you don't work downstairs.
-    글로리아: 로사 아리아스한테 줄 답은 캐나다 외교부예요. 그 나라 시민이잖아요, 일라이어스. 그리고 당신은 아래층에서 일하지 않아요.
+100. GLORIA: The answer for Rosa Arias is Global Affairs Canada. And you don't work downstairs.
+    글로리아: 로사 아리아스한테 줄 답은 캐나다 외교부예요. 그리고 당신은 아래층에서 일하지 않아요.
 
-101. ELIAS: Her husband's citizenship didn't stop a missile. I don't see why it should stop a conversation.
-    일라이어스: 남편 시민권이 미사일도 못 막았는데요. 왜 대화는 막아야 하는지 모르겠어요.
+101. ELIAS: His citizenship didn't stop a missile. Why should it stop a conversation?
+    일라이어스: 남편 시민권도 미사일은 못 막았어요. 왜 대화는 막아야 하죠?
 
-102. GLORIA: Don't make speeches in my office. I've heard all of yours. What did she give you?
-    글로리아: 내 방에서 연설하지 마요. 당신 연설은 다 들어 봤어요. 그 여자가 뭘 줬죠?
+102. GLORIA: No speeches in my office. I've heard all of yours. What did she give you?
+    글로리아: 내 방에서 연설은 금지예요. 당신 연설은 다 들어 봤어요. 그 여자가 뭘 줬죠?
 
 103. ELIAS: A photograph of a fish, his last message, and a statement. Nothing classified. Everything true.
     일라이어스: 물고기 사진 한 장, 남편 마지막 메시지, 그리고 진술이요. 기밀은 하나도 없어요. 전부 사실이고요.
@@ -333,8 +333,8 @@
 105. ELIAS: Send it to the embassy in Ottawa as a walk-in record. And copy the Pentagon's liaison office, since we've been told to refer everything to them. I'm referring.
     일라이어스: 방문 기록으로 오타와 대사관에 보내려고요. 그리고 국방부 연락관실에 참조로 넣고요. 다 그쪽으로 넘기라고 했으니까요. 넘기는 거예요.
 
-106. GLORIA: That's very clever. It will also annoy at least three people I'd prefer not to annoy before lunch.
-    글로리아: 아주 영리하네요. 그리고 점심 전엔 건드리고 싶지 않은 사람 최소 세 명을 짜증 나게 할 거고요.
+106. GLORIA: Very clever. It will also annoy three people I'd prefer not to annoy before lunch.
+    글로리아: 아주 영리하네요. 그리고 점심 전엔 건드리고 싶지 않은 사람 셋을 짜증 나게 하겠죠.
 
 107. ELIAS: Gloria, the statement says "lawful strike." Lawful under what? Rules of engagement assume a threat. A fiberglass boat, hundreds of miles from any shore. What was imminent about it?
     일라이어스: 총영사님, 성명엔 "합법적 타격"이라고 돼 있어요. 뭐에 근거해서 합법이죠? 교전 규칙은 위협을 전제로 해요. 어느 해안에서든 수백 마일 떨어진 유리섬유 배 한 척이요. 그게 뭐가 임박했다는 거죠?
@@ -375,7 +375,7 @@
 119. ELIAS: Will anyone?
     일라이어스: 누가 답하긴 할까요?
 
-120. GLORIA: Someone will say "we're looking into it." After that, it depends on who's still asking in October.
+120. GLORIA: Someone will say "we're looking into it." Then it depends who's still asking in October.
     글로리아: 누군가 "확인해 보겠습니다"라고 하겠죠. 그다음은 10월에도 누가 계속 묻고 있느냐에 달렸어요.
 
 121. CARVER: You called me four times, Pierre-Luc. The phone in the glove box is for messages. It isn't for feelings.
@@ -387,7 +387,7 @@
 123. CARVER: You read it. I told you that you needn't read them.
     카버: 읽었군요. 읽을 필요 없다고 했잖아요.
 
-124. PIERRE-LUC: Thursday, five in the morning, another line came. "Confirmed aboard Estrella de Manta." I forwarded that too. At four in the afternoon, the boat was gone.
+124. PIERRE-LUC: Thursday, five a.m., another line. "Confirmed aboard Estrella de Manta." I forwarded that too. At four in the afternoon, the boat was gone.
     피에르뤽: 목요일 새벽 다섯 시에 또 한 줄이 왔어요. "에스트레야 데 만타 승선 확인." 그것도 넘겼어요. 오후 네 시에 그 배가 사라졌어요.
 
 125. CARVER: Then the map was accurate. That's what the firm sells. Accuracy.
@@ -462,8 +462,8 @@
 148. ELIAS: This time there's no painting. There's a twenty-two-second video and a press release that says "lawful."
     일라이어스: 이번엔 그림이 없어. 22초짜리 영상이랑 "합법"이라고 적힌 보도자료뿐이야.
 
-149. FRANK: Then do what historians do. Write the facts down before the legend dries. And eat something green tomorrow. Rosie says you sound tired on the phone.
-    프랭크: 그럼 역사가들이 하는 걸 해. 전설이 마르기 전에 사실을 적어 둬. 그리고 내일은 초록색 좀 먹어. 로지가 너 전화 목소리가 피곤하대.
+149. FRANK: Then do what historians do. Write the facts down before the legend dries. And eat something green. Rosie says you sound tired.
+    프랭크: 그럼 역사가들이 하는 걸 해. 전설이 마르기 전에 사실을 적어 둬. 그리고 초록색 좀 먹어. 로지가 너 목소리가 피곤하대.
 
 150. ELIAS: Tell Rosie I'm not tired. Tell her I'm aware of reports that I'm tired.
     일라이어스: 로지한테 나 안 피곤하다고 해. 내가 피곤하다는 보도를 인지하고 있다고 전해.
