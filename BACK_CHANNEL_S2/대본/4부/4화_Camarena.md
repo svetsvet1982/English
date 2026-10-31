@@ -88,8 +88,8 @@
 024. ELIAS: Sir, DEA leads this. A deputy secretary on the bridge looks like a takeover.
     일라이어스: 장관님, 이건 DEA가 주도합니다. 부장관이 다리 위에 서면 우리가 가로채는 것처럼 보입니다.
 
-025. CALLAWAY: It looks like we care. Colter has a microphone and a deadline. I want a federal face next to him before Monday, and you're the face that knows Valeria.
-    캘러웨이: 우리가 신경 쓰는 것처럼 보이지. 콜터는 마이크랑 시한을 쥐고 있어. 월요일 전에 그 사람 옆에 연방 정부 얼굴 하나를 세우고 싶은데, 발레리아를 아는 얼굴이 자네야.
+025. CALLAWAY: I know what I said about El Paso. Colter has a microphone and a deadline. I want a federal face next to him before Monday, and you're the face that knows Valeria.
+    캘러웨이: 엘패소 얘기는 내가 뭐라고 했는지 알아. 콜터는 마이크랑 시한을 쥐고 있어. 월요일 전에 그 사람 옆에 연방 정부 얼굴 하나를 세우고 싶은데, 발레리아를 아는 얼굴이 자네야.
 
 026. ELIAS: And if it goes badly?
     일라이어스: 그리고 일이 잘못되면요?
@@ -241,8 +241,8 @@
 075. ELIAS: Then let's make the statement worth reading. Monday at noon, what exactly are you closing?
     일라이어스: 그럼 그 성명을 읽을 만한 걸로 만들어 보죠. 월요일 정오에 정확히 뭘 닫으시겠다는 겁니까?
 
-076. COLTER: Every commercial lane from Ysleta to Santa Teresa. My troopers will inspect every truck coming out of Mexico, bumper to bumper, until Mexico starts acting like a neighbor.
-    콜터: 이슬레타부터 산타테레사까지 화물 차로 전부. 우리 주 경찰이 멕시코에서 나오는 트럭을 한 대도 빠짐없이 범퍼부터 범퍼까지 검사할 거요. 멕시코가 이웃답게 굴 때까지.
+076. COLTER: Right now my troopers inspect the trucks. Monday at noon, they stop them. Every commercial lane from Ysleta to Santa Teresa, until Mexico starts acting like a neighbor.
+    콜터: 지금은 우리 주 경찰이 트럭을 검사하고 있소. 월요일 정오부턴 세울 거요. 이슬레타부터 산타테레사까지 화물 차로 전부. 멕시코가 이웃답게 굴 때까지.
 
 077. ELIAS: Santa Teresa is in New Mexico, Governor.
     일라이어스: 산타테레사는 뉴멕시코에 있습니다, 주지사님.
@@ -322,8 +322,8 @@
 102. COLTER: And my inspections?
     콜터: 그럼 내 검사는?
 
-103. ELIAS: You hold them. Not cancel. Hold. You can tell those cameras that your pressure got American agents into a Mexican command post, which no governor has done before.
-    일라이어스: 보류하시는 겁니다. 취소가 아니라 보류요. 저 카메라들 앞에서 주지사님의 압박 덕분에 미국 요원이 멕시코 지휘소에 들어갔다고 말씀하셔도 됩니다. 그건 어떤 주지사도 해 본 적 없는 일이니까요.
+103. ELIAS: You hold them, and you pull the troopers back. Not cancel. Hold. You can tell those cameras that your pressure got American agents into a Mexican command post. No governor has done that.
+    일라이어스: 보류하시고, 주 경찰을 물리시는 겁니다. 취소가 아니라 보류요. 저 카메라들 앞에서 주지사님의 압박 덕분에 미국 요원이 멕시코 지휘소에 들어갔다고 말씀하셔도 됩니다. 그건 어떤 주지사도 해 본 적 없는 일이니까요.
 
 104. COLTER: You're giving me the credit.
     콜터: 공을 나한테 주겠다는 거군.
@@ -391,14 +391,14 @@
 125. VALERIA: We'll consider it. And Señor Grant, the water talks wait until she's found. I can't send water to Texas while Texas threatens my bridges.
     발레리아: 검토해 보죠. 그리고 그랜트 씨, 물 협상은 그 여자를 찾을 때까지 멈춰요. 텍사스가 내 다리를 위협하는 동안 텍사스에 물을 보낼 순 없어요.
 
-126. ELENA: Sit, both of you. Tomás, move the newspapers. Elias, you're having caldo. Nobody in this house negotiates on an empty stomach.
-    엘레나: 둘 다 앉아요. 토마스, 신문 치워. 일라이어스, 칼도 드세요. 이 집에선 아무도 빈속으로 협상 안 해요.
+126. ELENA: Sit, both of you. Tomás, move the newspapers. Mijo, you're having caldo. Nobody in this house negotiates on an empty stomach.
+    엘레나: 둘 다 앉아. 토마스, 신문 치워. 얘야, 넌 칼도 먹어. 이 집에선 아무도 빈속으로 협상 안 해.
 
-127. ELIAS: Thank you, Mrs. Reyes. It smells like my father's kitchen, except with better spices.
-    일라이어스: 감사합니다, 레예스 부인. 우리 아버지 부엌 냄새가 나네요. 향신료만 더 좋고요.
+127. ELIAS: Thank you, Elena. It smells like my father's kitchen, except with better spices.
+    일라이어스: 고맙습니다, 어머님. 우리 아버지 부엌 냄새가 나네요. 향신료만 더 좋고요.
 
-128. ELENA: Elena. I taught her, you know. Marisol. Seventh grade, 2004. She sat in the second row and corrected my spelling on the board once.
-    엘레나: 엘레나라고 불러요. 내가 그 애를 가르쳤어요, 알아요? 마리솔. 2004년, 7학년. 둘째 줄에 앉았는데, 한번은 칠판에 쓴 내 철자를 고쳐 줬지.
+128. ELENA: I taught her, you know. Marisol. Eighth grade, Texas history, 2005. She sat in the second row and corrected a date on my board once.
+    엘레나: 내가 그 애를 가르쳤어, 알지? 마리솔. 2005년, 8학년 텍사스 역사. 둘째 줄에 앉았는데, 한번은 칠판에 쓴 내 연도를 고쳐 줬어.
 
 129. TOM: You never told me that, Ma.
     톰: 그 얘기 한 번도 안 했잖아, 엄마.
@@ -422,7 +422,7 @@
     프랭크: 그를 사랑한 사람들은 복수보다 진실을 더 원할 거라고. 한 녀석이 그게 자기가 들어 본 것 중에 제일 슬픈 말이래. 아마 그 녀석 말이 맞았을 거다.
 
 136. ELENA: Tell your father his son eats too fast.
-    엘레나: 아버님께 아드님이 너무 빨리 먹는다고 전해요.
+    엘레나: 아버님께 아들이 너무 빨리 먹는다고 전해 드려, 얘야.
 
 137. FRANK: I heard that. Tell her I've known for forty-six years.
     프랭크: 다 들었다. 그분께 내가 46년째 알고 있다고 전해라.

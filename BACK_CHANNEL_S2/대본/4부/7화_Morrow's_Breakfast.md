@@ -19,11 +19,11 @@
 001. ELENA: Shoes off at the door, mijo. I mopped at five.
     엘레나: 신발은 문 앞에서 벗어, 얘야. 다섯 시에 걸레질했어.
 
-002. ELIAS: Yes, ma'am. Good morning, Mrs. Reyes.
-    일라이어스: 네, 어머님. 안녕하세요, 어머님.
+002. ELIAS: Yes, ma'am. Good morning.
+    일라이어스: 네, 어머님. 안녕하세요.
 
-003. ELENA: Elena. Mrs. Reyes was my mother-in-law, and she didn't like me.
-    엘레나: 엘레나라고 불러. 레예스 부인은 우리 시어머니였고, 그 양반은 날 싫어했어.
+003. ELENA: Fourth time in my kitchen and still "ma'am." My mother-in-law was ma'am, and she didn't like me.
+    엘레나: 우리 부엌에 네 번째 오면서 아직도 '어머님'이야. 그 소린 우리 시어머니한테나 하던 거고, 그 양반은 날 싫어했어.
 
 004. TOM: She's been up since four, boss. She ironed the tablecloth. Twice.
     톰: 우리 엄마 네 시부터 깨 있었어, 대장. 식탁보를 다렸다니까. 두 번.
@@ -436,8 +436,8 @@
 140. ELIAS: I told him she would refuse. I just said it in the past tense.
     일라이어스: 거절할 거라고 말했지. 그냥 과거형으로 했을 뿐이야.
 
-141. SAMIRA: That's going on a page. Not the fake list. Also, the court's subpoena reached our lawyers this morning: routing records, spring 2027, due July twelfth.
-    사미라: 그거 어느 페이지엔 적을게요. 가짜 목록 말고요. 그리고 오늘 아침 법원 소환장이 부처 변호사들한테 왔어요. 2027년 봄 문서 배포 기록, 기한은 7월 12일이에요.
+141. SAMIRA: That's going on a page. Not the fake list. Also, Legal says the Baltimore subpoena return is due July twelfth: routing records, spring 2027.
+    사미라: 그거 어느 페이지엔 적을게요. 가짜 목록 말고요. 그리고 법률팀 말로는 볼티모어 소환장 제출 기한이 7월 12일이래요. 2027년 봄 문서 배포 기록이요.
 
 142. ELIAS: Then nobody on our floor touches those records. We don't even ask.
     일라이어스: 그럼 우리 층에선 누구도 그 기록에 손대지 마. 묻지도 말고.

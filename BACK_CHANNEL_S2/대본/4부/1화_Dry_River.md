@@ -10,7 +10,7 @@
 > - 역사 사례: 1944년 미·멕 수자원 조약 — 콜터가 "1944년부터 멕시코가 우리 강을 가져갔다"고 비틀자 일라이어스가 바로잡는다. 엘패소를 지나는 물은 콜로라도·뉴멕시코의 눈 녹은 물(엘리펀트뷰트 저수지)이고 1906년 협약 몫이다. 1944년 조약의 물은 멕시코 지류 여섯 곳(주로 콘초스강)에서 포트퀴트먼 아래로 들어온다. 프랭크는 조약이 전쟁 중 동맹국 사이에서 맺어졌다는 사실(1942년 멕시코 참전, 1944년 2월 3일 서명, 1945년 상원 동의)을 들려준다
 > - 전술 태그: [공갈] [블러핑] [유출] [설득]
 > - 이번 화의 핵심 표현: water treaty / compliance / acre-feet / five-year cycle / extraordinary drought / port of entry / federal–state standoff / Behind isn't in violation.
-> - 복선/연결: 3부 12화 톰의 전화(산타페 스트리트 다리, 주지사 가짜 영상, "다리를 닫겠다") → 콜터의 목요일(6/6) '주 안전 검사' 예고 · 콜터가 7층 내부 추정치 69만 에이커피트를 안다(정보 이동, 사미라 '다른 페이지') · 사미라가 3부 번호를 정리하고 콜터의 5월 가짜 영상을 F-13으로 · 볼티모어 검찰이 국무부에 2027년 배포 기록 소환장(매기 변호인 경유) — 캘러웨이가 떠본다 · 톰: "You should come home with me." → 2화 엘레나의 부엌
+> - 복선/연결: 3부 12화 톰의 전화(산타페 스트리트 다리, 주지사 가짜 영상, "다리를 닫겠다") → 콜터의 목요일(6/6) '주 안전 검사' 예고 · 콜터가 7층 내부 추정치 69만 에이커피트를 안다(정보 이동, 사미라 '다른 페이지') · 사미라가 3부 번호(F-11·F-12)를 정리하고 콜터의 5월 가짜 영상은 보류 · 볼티모어 검찰이 국무부에 2027년 배포 기록 소환장(매기 변호인 경유) — 캘러웨이가 떠본다 · 톰: "You should come home with me." → 2화 엘레나의 부엌
 
 ---
 
@@ -58,8 +58,8 @@
 014. ELIAS: Your list.
     일라이어스: 네 목록.
 
-015. SAMIRA: I closed the spring last night. April's voice is F-11, the colonel's video F-12. The Governor's May video, the one Tom saw, is F-13.
-    사미라: 어젯밤에 봄 장부를 마감했어요. 4월 음성은 F-11, 대령 영상은 F-12. 톰이 본 주지사의 5월 영상이 F-13이에요.
+015. SAMIRA: I closed the spring last night. April's voice is F-11, the colonel's video F-12. The Governor's May video stays pending. Nobody's found its source file.
+    사미라: 어젯밤에 봄 장부를 마감했어요. 4월 음성은 F-11, 대령 영상은 F-12. 주지사의 5월 영상은 보류예요. 아직 아무도 원본 파일을 못 찾았거든요.
 
 016. ELIAS: What did the fake Colter say? I never watched the whole thing.
     일라이어스: 가짜 콜터는 뭐라고 했는데? 끝까지 본 적이 없어서.
@@ -427,8 +427,8 @@
 137. ELIAS: The one place on that border where two countries settled a river fight without a shot.
     일라이어스: 국경에서 두 나라가 총 한 발 없이 강 싸움을 정리한 바로 그 자리네.
 
-138. TOM: That's the one. My mom took my fourth-grade class there. Essays and everything.
-    톰: 바로 거기. 우리 엄마가 4학년 때 우리 반 데리고 갔었어. 작문까지 시키고.
+138. TOM: That's the one. My mom took my class there in middle school. Essays and everything.
+    톰: 바로 거기. 중학교 때 우리 엄마가 우리 반 데리고 갔었어. 작문까지 시키고.
 
 139. ELIAS: Your mother was your teacher?
     일라이어스: 어머니가 담임이셨어?
@@ -439,8 +439,8 @@
 141. ELIAS: What are people saying on your street? Not on television. On the street.
     일라이어스: 너희 동네 사람들은 뭐래? 텔레비전 말고. 동네에서.
 
-142. TOM: Half my mom's street has family in Juárez. My aunt crosses every morning to work. Thursday, she's going to sit in that line for four hours, and the Governor's going to call it public safety.
-    톰: 우리 엄마 동네 절반은 후아레스에 가족이 있어. 이모는 매일 아침 건너가서 일하고. 목요일엔 그 줄에서 네 시간을 앉아 있겠지. 주지사는 그걸 공공 안전이라고 부를 거고.
+142. TOM: Half my mom's street has family in Juárez. Her cousin Lupe crosses every morning to work. Thursday, she'll sit in that line for hours, and the Governor will call it public safety.
+    톰: 우리 엄마 동네 절반은 후아레스에 가족이 있어. 엄마 사촌 루페 이모는 매일 아침 건너와서 일하고. 목요일엔 그 줄에서 몇 시간을 앉아 있겠지. 주지사는 그걸 공공 안전이라고 부를 거고.
 
 143. ELIAS: The Secretary told me to go to Mexico City and stay away from El Paso.
     일라이어스: 장관이 멕시코시티로 가고 엘패소엔 오지 말래.
