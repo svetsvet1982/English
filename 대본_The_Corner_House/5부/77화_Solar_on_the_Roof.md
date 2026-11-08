@@ -3,7 +3,7 @@
 ## Solar on the Roof (옥상의 태양광)
 
 > **표기 전용 정보 (낭독하지 않음)**
-> - 부/화: 5부 5화(통산 77화) · 시기: 2027년 5월 15일(토) ~ 6월 12일(토) · 난이도: B2~C1 · 턴 수: 120
+> - 부/화: 5부 5화(통산 77화) · 시기: 2027년 5월 15일(토) ~ 5월 28일(금) · 난이도: B2~C1 · 턴 수: 120
 > - 장소: 보수를 막 마친 옥상 → 화요일 밤 회원 총회(더 훅) → 다시 옥상, 해 질 녘
 > - 등장인물: KOWALSKI, SAM, MARCUS, DIEGO, MRS. ESPOSITO, PRIYA, EDDIE, MARISOL, TOMMY
 > - 사건: 북쪽 지붕 보수가 끝난 날, 코왈스키가 태양광 업체 견적을 들고 옥상에 오른다. 패널 24장, 약 4만 8천 달러다. 연방 주택 태양광 세액 공제는 작년 말에 끝났지만, 주의 지원금과 지역 태양광 프로그램이 남아 있다. 마커스와 디에고는 찬성한다. 부인은 이 옥상에 토마토 정원을 만들고 싶어 하고, 에디는 이곳에서 페기와 독립기념일 불꽃놀이를 봤다. 총회에서는 비용과 효과, '그때 했더라면'과 '지금 안 하면'이 부딪친다. 히트펌프는 5년 뒤로 미룬다. 결론은 남쪽 절반에 패널, 북쪽 절반에 정원과 에디의 의자다.
@@ -88,7 +88,7 @@ EDDIE: Aye. For the sun. As long as it stays out of my corner.
 SAM: Aye. With a payback period of nine years.
 MARISOL: And Dolores voted aye by note. With the tomato condition. The motion carries. Five to zero.
 
-[Scene: Wednesday, June 2, 9:00 a.m. The stoop and the staircase. Installers wait at the bottom with panels. Mrs. Esposito stands on the stairs. Priya stands on the sidewalk holding a small brown dog on a leash. Sam and Tommy watch from the door of the bar.]
+[Scene: Wednesday, May 26, 9:00 a.m. The stoop and the staircase. Installers wait at the bottom with panels. Mrs. Esposito stands on the stairs. Priya stands on the sidewalk holding a small brown dog on a leash. Sam and Tommy watch from the door of the bar.]
 
 KOWALSKI: Okay, everybody. The installers are carrying twenty-four panels up four floors. Please keep the stairs clear.
 MRS. ESPOSITO: The stairs are not clear, Brian. Biscuit is on the stairs. She has the right of way. It's in the rules.
@@ -114,10 +114,10 @@ TOMMY: Brian, welcome to cooperative living. Everything takes five more minutes.
 KOWALSKI: At Bridgewater, I managed forty buildings. Now I manage one building, and a cat is in charge.
 SAM: That's not true. The rules are in charge. And the rules say the cat is in charge.
 
-[Scene: Saturday, June 12, 7:45 p.m. The roof, at sunset. Twenty-four new panels shine on the south side. Two wooden boxes on wheels hold small tomato plants. In the southwest corner, an old folding chair faces the harbor. Diego, Marcus, and Eddie stand together. Mrs. Esposito waters her basil.]
+[Scene: Friday, May 28, 7:45 p.m. The roof, at sunset. Twenty-four new panels shine on the south side. Two wooden boxes on wheels hold small tomato plants. In the southwest corner, an old folding chair faces the harbor. Diego, Marcus, and Eddie stand together. Mrs. Esposito waters her basil.]
 
 DIEGO: Marcus, look at the app! The panels made forty-two kilowatt-hours today! That's forty-two hours of microwave!
-MARCUS: Forty-two. On a sunny day in June. That's good. Very good.
+MARCUS: Forty-two. On a sunny day in May. That's good. Very good.
 DIEGO: Ms. Park says I can do my science fair project on it. "How much sun does a building eat?"
 MARCUS: Great title. Better than mine. In sixth grade, I did "Why is my bike slow?" The answer was "because you're lazy."
 MRS. ESPOSITO: Eddie, your chair is in the right spot? Facing the right way?
@@ -268,7 +268,7 @@ MRS. ESPOSITO: Then spell "Bensonhurst" correctly. Ms. Park will check.
 코왈스키: 브리지워터에선 건물 40개를 관리했어요. 이젠 건물 하나를 관리하는데 고양이가 책임자네요.
 샘: 그건 사실이 아니에요. 규칙이 책임자예요. 그리고 규칙엔 고양이가 책임자라고 써 있어요.
 디에고: 마커스, 앱 봐요! 오늘 패널이 42킬로와트시를 만들었어요! 전자레인지 42시간이에요!
-마커스: 42. 6월의 맑은 날에. 좋다. 아주 좋아.
+마커스: 42. 5월의 맑은 날에. 좋다. 아주 좋아.
 디에고: 박 선생님이 과학 경진 대회 주제로 해도 된대요. "건물은 햇빛을 얼마나 먹을까?"
 마커스: 제목 좋다. 내 거보다 낫네. 나는 6학년 때 "내 자전거는 왜 느릴까?"를 했어. 답은 "네가 게을러서"였지.
 에스포지토 부인: 에디, 의자 자리 맞아요? 방향 맞아요?
