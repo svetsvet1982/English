@@ -111,7 +111,7 @@ SAM: The wedding binder? Now? It's twelve thirty.
 PRIYA: I can't sleep. Numbers in my head. Twenty-five hundred for the down payment. And the wedding.
 SAM: Okay. What's the wedding at? Right now?
 PRIYA: Eighteen thousand. That's the small version. The pier, the food, the photographer, my mother's guest list.
-SAM: Your mother's guest list is a hundred and forty people. Half of them live in New Jersey. The other half live in Pune.
+SAM: Your mother's guest list is a hundred and forty people. Half of them live in New Jersey. The other half live in Ahmedabad.
 PRIYA: She says if we invite one cousin, we must invite all the cousins. Otherwise, there's a war.
 SAM: A war is cheaper than catering.
 PRIYA: Sam! Be serious.
@@ -270,7 +270,7 @@ PRIYA: Tell him it's community work. He likes community work. On LinkedIn.
 프리야: 잠이 안 와. 머릿속에 숫자가 가득해. 계약금 2,500. 그리고 결혼식.
 샘: 좋아. 결혼식은 지금 얼마야?
 프리야: 1만 8천. 그게 작은 버전이야. 부두, 음식, 사진사, 우리 엄마 하객 명단.
-샘: 너희 어머니 하객 명단은 140명이야. 절반은 뉴저지에 살고. 나머지 절반은 푸네에 살아.
+샘: 너희 어머니 하객 명단은 140명이야. 절반은 뉴저지에 살고. 나머지 절반은 아마다바드에 살아.
 프리야: 사촌 하나를 부르면 사촌을 다 불러야 한대. 안 그러면 전쟁이래.
 샘: 전쟁이 케이터링보다 싸.
 프리야: 샘! 진지하게.
