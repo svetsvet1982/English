@@ -15,7 +15,7 @@ KO = {
     "EDDIE": "에디", "JESSE": "제시", "MRS. ESPOSITO": "에스포지토 부인",
     "DIEGO": "디에고", "TASHA": "타샤", "TESS": "테스", "ARTURO": "아르투로",
     "CARMEN": "카르멘", "PRIYA": "프리야", "SAM": "샘", "DR. LEVINE": "레빈 박사",
-    "WHITLOCK": "휘틀록", "MS. CHEN": "첸", "MS. BROOKS": "브룩스", "LUCA": "루카", "KYLE": "카일", "OFFICER RIVERA": "리베라 경관", "KEISHA": "키샤", "DAVID": "데이비드", "MALIK": "말릭", "MICHAEL": "마이클", "KAYLA": "케일라", "AHMED": "아메드", "CALLER": "전화 속 목소리", "ZOE": "조이", "RAY": "레이",
+    "WHITLOCK": "휘틀록", "MS. CHEN": "첸", "MS. BROOKS": "브룩스", "LUCA": "루카", "KYLE": "카일", "OFFICER RIVERA": "리베라 경관", "KEISHA": "키샤", "DAVID": "데이비드", "MALIK": "말릭", "MICHAEL": "마이클", "KAYLA": "케일라", "AHMED": "아메드", "CALLER": "전화 속 목소리", "ZOE": "조이", "RAY": "레이", "HÉCTOR": "엑토르",
 }
 
 bad = 0
@@ -26,7 +26,7 @@ for p in sys.argv[1:]:
         korean = text.split("## 한글 해석", 1)[1]
     except IndexError:
         print(f"{p}: missing '## 대본' or '## 한글 해석' section"); bad += 1; continue
-    en = re.findall(r"^([A-Z][A-Z .'&-]*[A-Z.]): (\S.*)$", script, re.M)
+    en = re.findall(r"^([A-ZÀ-Ý][A-ZÀ-Ý .'&-]*[A-ZÀ-Ý.]): (\S.*)$", script, re.M)
     ko = re.findall(r"^([가-힣][가-힣 .]*): (\S.*)$", korean, re.M)
     issues = []
     if len(en) != 120: issues.append(f"{len(en)} English turns (need 120)")
