@@ -57,7 +57,7 @@ FRANKIE: Good evening. My name is Frankie Russo. I've lived in Brooklyn my whole
 FRANKIE: On the one hand, I love this neighborhood. I don't want it to become Manhattan. On the other hand, my guys need work. And my nephew needs an apartment. Not in five years. Now.
 FRANKIE: Six hundred jobs is six hundred families. I urge the board to support this. But please make them hire local. Red Hook first. Thank you.
 CHAIR: Thank you, Mr. Russo. Next. Edward O'Neill.
-EDDIE: Good evening. My name is Edward O'Neill. I've lived on Van Brunt Street since nineteen seventy-four. I worked on these piers. Pier Nine. Thirty-five years.
+EDDIE: Good evening. My name is Edward O'Neill. I've lived on Van Brunt Street since nineteen seventy-four. I worked on these piers. Pier Nine. Forty years.
 EDDIE: I'm not against housing. I'm against building thirty floors on land that floods. I watched that pier go underwater in twenty twelve. The water came up Van Brunt like a river.
 EDDIE: Mr. Whitlock says he'll raise the ground floor eight feet. Good. But what about the streets around it? What about the old buildings next door? The water doesn't stop at the property line.
 CHAIR: Thirty seconds, Mr. O'Neill.
@@ -222,7 +222,7 @@ PRIYA: That's cruel. I love it.
 프랭키: 한편으로 저는 이 동네를 사랑합니다. 이곳이 맨해튼이 되는 건 원하지 않습니다. 다른 한편으로 저희 직원들에겐 일이 필요합니다. 제 조카에겐 집이 필요합니다. 5년 뒤가 아니라 지금요.
 프랭키: 일자리 600개는 600가족입니다. 보드가 이 안을 지지해 주시길 촉구합니다. 다만 지역 주민을 고용하게 해 주십시오. 레드훅 우선으로요. 감사합니다.
 의장: 감사합니다, 루소 씨. 다음. 에드워드 오닐.
-에디: 안녕하십니까. 제 이름은 에드워드 오닐입니다. 1974년부터 밴 브런트 스트리트에 살았습니다. 이 부두에서 일했습니다. 9번 부두요. 35년 동안요.
+에디: 안녕하십니까. 제 이름은 에드워드 오닐입니다. 1974년부터 밴 브런트 스트리트에 살았습니다. 이 부두에서 일했습니다. 9번 부두요. 40년 동안요.
 에디: 저는 주택에 반대하지 않습니다. 물에 잠기는 땅에 30층을 짓는 것에 반대합니다. 2012년에 그 부두가 물에 잠기는 걸 봤습니다. 물이 강처럼 밴 브런트를 거슬러 올라왔습니다.
 에디: 휘틀록 씨는 1층을 8피트 높이겠다고 합니다. 좋습니다. 그럼 주변 도로는요? 옆의 오래된 건물들은요? 물은 부지 경계선에서 멈추지 않습니다.
 의장: 30초 남았습니다, 오닐 씨.
