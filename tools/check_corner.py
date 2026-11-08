@@ -15,7 +15,7 @@ KO = {
     "EDDIE": "에디", "JESSE": "제시", "MRS. ESPOSITO": "에스포지토 부인",
     "DIEGO": "디에고", "TASHA": "타샤", "TESS": "테스", "ARTURO": "아르투로",
     "CARMEN": "카르멘", "PRIYA": "프리야", "SAM": "샘", "DR. LEVINE": "레빈 박사",
-    "WHITLOCK": "휘틀록", "MS. CHEN": "첸", "MS. BROOKS": "브룩스", "LUCA": "루카", "KYLE": "카일", "OFFICER RIVERA": "리베라 경관", "KEISHA": "키샤", "DAVID": "데이비드", "MALIK": "말릭", "MICHAEL": "마이클", "KAYLA": "케일라", "AHMED": "아메드", "CALLER": "전화 속 목소리", "ZOE": "조이", "RAY": "레이", "HÉCTOR": "엑토르", "LUIS": "루이스", "TERESA": "테레사", "KOWALSKI": "코왈스키", "MS. PARK": "박 선생님", "AISHA": "아이샤", "RICHIE": "리치", "MEGAN": "메건", "DEV": "데브", "AMARA": "아마라", "KEVIN": "케빈", "DANIELLE": "다니엘", "BRAD": "브래드", "OMAR": "오마르", "LAUREN": "로런", "CRAIG": "크레이그", "LUKAS": "루카스", "MS. ALVAREZ": "알바레스 선생님", "LEO": "레오", "TERESA": "테레사",
+    "WHITLOCK": "휘틀록", "MS. CHEN": "첸", "MS. BROOKS": "브룩스", "LUCA": "루카", "KYLE": "카일", "OFFICER RIVERA": "리베라 경관", "KEISHA": "키샤", "DAVID": "데이비드", "MALIK": "말릭", "MICHAEL": "마이클", "KAYLA": "케일라", "AHMED": "아메드", "CALLER": "전화 속 목소리", "ZOE": "조이", "RAY": "레이", "HÉCTOR": "엑토르", "LUIS": "루이스", "TERESA": "테레사", "KOWALSKI": "코왈스키", "MS. PARK": "박 선생님", "AISHA": "아이샤", "FRANKIE": "프랭키", "RICHIE": "리치", "MEGAN": "메건", "DEV": "데브", "AMARA": "아마라", "KEVIN": "케빈", "DANIELLE": "다니엘", "BRAD": "브래드", "OMAR": "오마르", "LAUREN": "로런", "CRAIG": "크레이그", "LUKAS": "루카스", "MS. ALVAREZ": "알바레스 선생님", "LEO": "레오", "TERESA": "테레사",
 }
 
 bad = 0
