@@ -21,8 +21,8 @@ MR. HAYES: Okay, Diego, let's do the permit check. We have the street from one p
 DIEGO: It's taped to the lamppost, with the city stamp on it! I checked it three times, just like Sam taught me!
 MR. HAYES: Good work. Now what about the barricades, so the cars don't come through?
 DIEGO: They're at both ends! Marcus put them up at noon, the orange and white ones from the city!
-MARCUS: And look up, Mr. President. The shed is gone, because Brian took it down on Friday. That's nine days early.
-MR. HAYES: Nine days early, in New York? That's a miracle. Ahmed must be very happy.
+MARCUS: And look up, Mr. President. The shed is gone, because Brian took it down on Friday. That's eleven days early.
+MR. HAYES: Eleven days early, in New York? That's a miracle. Ahmed must be very happy.
 MARCUS: Ahmed was so happy that he gave Brian a free coffee from his store. It was a good one, too, not Tommy's.
 DIEGO: And what about the mural? Where did it go?
 MARCUS: All the panels are inside the bar now, because Gina hung them on the back wall. "Bad coffee, good people." It's officially art now.
@@ -186,8 +186,8 @@ MR. HAYES: A knock sandwich. Okay, that's going in the bylaws too.
 디에고: 시 도장 찍힌 걸로 가로등에 테이프로 붙여 놨어요! 샘 아저씨가 가르쳐 준 대로 세 번 확인했어요!
 헤이스 씨: 잘했어. 이제 차가 못 들어오게 바리케이드는?
 디에고: 양쪽 끝에 있어요! 마커스 형이 정오에 세웠어요, 시에서 준 주황색이랑 흰색 거요!
-마커스: 그리고 위를 보세요, 회장님. 비계가 없어졌어요, 브라이언이 금요일에 철거했거든요. 9일이나 일찍요.
-헤이스 씨: 뉴욕에서 9일 일찍이라고? 기적이네. 아메드가 아주 기뻐하겠다.
+마커스: 그리고 위를 보세요, 회장님. 비계가 없어졌어요, 브라이언이 금요일에 철거했거든요. 11일이나 일찍요.
+헤이스 씨: 뉴욕에서 11일 일찍이라고? 기적이네. 아메드가 아주 기뻐하겠다.
 마커스: 아메드가 너무 기뻐서 브라이언한테 자기 가게 커피를 공짜로 줬어요. 맛있는 걸로요, 토미 거 말고요.
 디에고: 그럼 벽화는요? 어디 갔어요?
 마커스: 판자는 전부 바 안에 있어, 지나가 뒷벽에 걸었거든. "커피는 별로, 사람은 최고." 이제 공식적으로 예술이야.
