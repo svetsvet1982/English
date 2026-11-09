@@ -17,132 +17,132 @@
 
 [Scene: Sunday, 9:30 a.m. The ferry crosses the harbor. Wind and spray.]
 
-DIEGO: Mom! The ferry is so fast! Look at the water!
-MARISOL: Hold the railing, Diego. Both hands.
+DIEGO: Mom! The ferry is so fast! Look at the water, it's flying past us!
+MARISOL: Hold the railing, Diego. Use both hands, please, because the boat moves a lot.
 LUCA: Mommy, is that the ocean?
-GINA: Not yet, baby. That's the harbor. The ocean comes later.
-TASHA: Gina, where's your phone?
-GINA: In my bag. Turned off. Completely off.
-TASHA: Off? I don't believe you. Show me.
-GINA: Look. Black screen. I took a real day off. My first in four months.
-MARISOL: Four months! Gina, that's not healthy.
-GINA: I know. My dad said if I check Slack today, he'll throw my phone in the ocean.
-TASHA: He'll do it, too. I've seen him throw a man's phone in a bucket of ice.
-DIEGO: Why?
-TASHA: The man was filming Eddie. Without asking.
-MARISOL: How long is the ride?
-GINA: About an hour from Wall Street. Plus our first ferry from Red Hook. So almost an hour and a half.
+GINA: Not yet, baby. That's the harbor, and the ocean comes later, after the big bridge.
+TASHA: Gina, where's your phone? I haven't seen it in your hand all morning.
+GINA: It's in my bag, and it's turned off. Completely off, not even on silent.
+TASHA: Off? I don't believe you. Show me, or it didn't happen.
+GINA: Look. Black screen. I took a real day off, and it's my first one in four months.
+MARISOL: Four months! Gina, that's not healthy. You can't keep working like that forever.
+GINA: I know. My dad said that if I check Slack today, he'll throw my phone in the ocean.
+TASHA: He'll do it, too. I once saw him throw a man's phone into a bucket of ice.
+DIEGO: Why? What did the man do?
+TASHA: The man was filming Eddie without asking. Nobody films Eddie without permission, not in Tommy's bar, and definitely not while he's telling a story.
+MARISOL: So how long is the ride out to the beach?
+GINA: It's about an hour from Wall Street, plus our first ferry from Red Hook. So it's almost an hour and a half.
 TASHA: An hour and a half on a boat for the price of a subway ride. That's the best deal in New York.
-MARISOL: Almost the same price. But no traffic. No tunnels.
-GINA: And no subway has this view. Look. The Verrazzano Bridge.
+MARISOL: It's almost the same price, but there's no traffic and there are no tunnels.
+GINA: And no subway has a view like this. Look over there, that's the Verrazzano Bridge.
 LUCA: Big bridge!
-DIEGO: Is it bigger than the Brooklyn Bridge?
-MARISOL: Much bigger. It was the longest in the world when it was built.
-TASHA: What's the weather supposed to be?
-GINA: Eighty-six and sunny. But windy. Fifteen miles an hour.
-MARISOL: Windy is good. It'll be less hot.
-TASHA: Windy is bad for umbrellas. I've lost three umbrellas at Rockaway.
-DIEGO: Can I swim when we get there?
-MARISOL: Only where there's a lifeguard. That's the rule.
-DIEGO: What if there's no lifeguard?
-MARISOL: Then no swimming. Just your feet.
+DIEGO: Is it bigger than the Brooklyn Bridge? It looks way bigger.
+MARISOL: Much bigger. When it was built, it was the longest bridge of its kind in the world.
+TASHA: So what's the weather supposed to be like today?
+GINA: Eighty-six and sunny, but windy. The app said fifteen miles an hour, right before I turned my phone off.
+MARISOL: Windy is good, because it'll feel less hot on the sand.
+TASHA: Windy is bad for umbrellas. I've lost three umbrellas at Rockaway, and I'm not losing a fourth.
+DIEGO: Can I swim as soon as we get there?
+MARISOL: Only where there's a lifeguard. That's the rule, and it's not changing.
+DIEGO: But what if there's no lifeguard?
+MARISOL: Then there's no swimming, because the ocean is dangerous without someone watching. You can put your feet in, and that's it.
 DIEGO: Just my feet? That's not swimming. That's standing.
 
 [Scene: 11:15 a.m. Rockaway Beach. A sign on the sand.]
 
-TASHA: Okay! We're here! Beach Ninety-Eighth Street. Smell that air.
-GINA: Salt. Sunscreen. Fried fish.
+TASHA: Okay! We're here! This is Beach Ninety-Eighth Street. Smell that air, everybody.
+GINA: Salt, sunscreen, and fried fish. That's the smell of summer.
 LUCA: Sand! Mommy, sand!
-MARISOL: Diego, wait. Read that sign first. Out loud.
-DIEGO: "Beach closed to swimming. No lifeguard on duty." What? Why?
-TASHA: Not enough lifeguards. Again. They close some parts of the beach every summer.
-GINA: Why aren't there enough? It's a great summer job.
-MARISOL: It's a hard test. You have to swim very fast in the ocean. And the pay wasn't great for years.
-DIEGO: So where can we swim?
-TASHA: There. Look. Two blocks down. See the tall white chair? With the flags?
-DIEGO: I see it! There's a lifeguard!
-MARISOL: Then we sit there. Come on. Everybody carry something.
-GINA: Luca, you carry the bucket. That's your job.
+MARISOL: Diego, wait a second. Read that sign first, out loud, so everybody can hear.
+DIEGO: "Beach closed to swimming. No lifeguard on duty." What? Why is it closed?
+TASHA: There aren't enough lifeguards, again. They close some parts of the beach every summer because of it.
+GINA: But why aren't there enough? It's a great summer job, and you get to sit in the sun all day.
+MARISOL: It's a hard test, because you have to swim very fast in the ocean. And for years, the pay wasn't great.
+DIEGO: So where can we swim, then?
+TASHA: Over there. Look, two blocks down. Do you see the tall white chair with the flags?
+DIEGO: I see it! There's a lifeguard sitting on it!
+MARISOL: Then that's where we sit. Come on, and everybody carry something, please.
+GINA: Luca, you carry the bucket. That's your job today, okay?
 LUCA: My bucket! I have a job!
-TASHA: Okay. Towels down. Umbrella up. Let me put it deep in the sand.
-GINA: Deeper, Tasha. The wind is strong.
-TASHA: It's deep. It's very deep. It's not going anywhere.
+TASHA: Okay, towels down and umbrella up. Let me push it deep into the sand.
+GINA: Deeper, Tasha. The wind is really strong today, and you know what happens.
+TASHA: Relax, I've done this a hundred times. It's deep. It's very deep. It's not going anywhere.
 MARISOL: Famous last words.
-DIEGO: Can I go in now? Please? The lifeguard is right there.
-MARISOL: Okay. Up to your waist. Not deeper. And stay where I can see you.
-DIEGO: Up to my waist. Okay!
-GINA: Luca, let's go to the water. Just our feet. Hold my hand.
+DIEGO: Can I go in now? Please? The lifeguard is right there, and he's watching.
+MARISOL: Okay. Up to your waist, not deeper. And stay where I can see you the whole time.
+DIEGO: Up to my waist. Okay! I promise!
+GINA: Luca, let's go to the water. It's just our feet, so hold my hand.
 LUCA: It's cold! It's so cold!
-GINA: The Atlantic Ocean is always cold, baby. Even in July.
+GINA: The Atlantic Ocean is always cold, baby, even in July. You'll get used to it.
 TASHA: Whoa! Whoa! The umbrella!
-MARISOL: It's flying! Catch it!
-TASHA: It's going down the beach! It's rolling!
-GINA: It's going toward that family! Watch out!
-TASHA: Sorry! Sorry! Excuse me! My umbrella!
-MARISOL: A man caught it. Look. He's bringing it back.
-TASHA: Thank you! Thank you so much! I'm so sorry!
+MARISOL: It's flying! Somebody catch it!
+TASHA: It's going down the beach! Now it's rolling, like a wheel!
+GINA: It's heading straight toward that family with the cooler! Watch out!
+TASHA: Sorry! Sorry! Excuse me! That's my umbrella!
+MARISOL: Look, a man caught it. He's bringing it back, and at least he's laughing about it instead of yelling at us.
+TASHA: Thank you! Thank you so much! I'm so sorry about that!
 MARISOL: "It's very deep. It's not going anywhere."
-TASHA: Don't say anything. Not one word.
-GINA: That's umbrella number four.
-TASHA: Number four didn't die. Number four came back.
-DIEGO: Mom! Mom! The lifeguard whistled! Was it at me?
-MARISOL: Were you too far? You were past your waist!
-DIEGO: The wave pushed me! I was standing, and then the wave came, and then I was deeper.
-MARISOL: Okay. Come back a little. The waves are big today. Because of the wind.
-DIEGO: The lifeguard is pointing at me. He's saying "closer."
-TASHA: Listen to him. Lifeguards are the boss of the ocean.
+TASHA: Don't say anything. Not one word, Marisol, I mean it.
+GINA: Well, that's umbrella number four, if anybody's counting.
+TASHA: Number four didn't die, though. Number four came back, so it doesn't count.
+DIEGO: Mom! Mom! The lifeguard just blew a whistle! Was it at me?
+MARISOL: Were you too far out? You were past your waist, Diego!
+DIEGO: A wave pushed me! I was standing, and then a wave came, and then suddenly I was deeper.
+MARISOL: Okay. Come back in a little. The waves are big today, because of the wind.
+DIEGO: The lifeguard is pointing at me. I think he's saying "closer."
+TASHA: Then listen to him. Lifeguards are the boss of the ocean, and nobody argues with them.
 DIEGO: Okay! Closer! Sorry, lifeguard!
-GINA: My heart stopped for a second.
-MARISOL: Mine too. And this is why we swim near a lifeguard.
+GINA: My heart stopped for a second there. I couldn't even breathe.
+MARISOL: Mine too. And this is exactly why we swim near a lifeguard.
 LUCA: Mommy, I'm hungry.
 
 [Scene: Monday evening. The Hook. Gina and Tasha are sunburned.]
 
-TOMMY: So? How was the beach? You're all red.
-GINA: Dad, it was the best day of the year. And the craziest.
-EDDIE: Tell us. From the beginning.
-GINA: Okay. So we were sitting on the ferry, and everything was perfect. The sun was shining. Luca was looking at the bridge.
-TOMMY: And your phone?
-GINA: My phone was off. The whole day. I didn't check it once.
-TOMMY: That's a miracle. Write it on the board.
-TASHA: Then we got to the beach. And half of it was closed. No lifeguards.
-EDDIE: No lifeguards? In my day, there were lifeguards every fifty yards.
-TASHA: Not anymore. We walked two blocks to find one.
-GINA: So we were putting the umbrella in the sand. And Tasha said, "It's not going anywhere."
+TOMMY: So? How was the beach? You're all red, like a bunch of lobsters.
+GINA: Dad, it was the best day of the year, and also the craziest.
+EDDIE: Tell us everything, from the beginning. Don't skip anything.
+GINA: Okay. So we were sitting on the ferry, and everything was perfect. The sun was shining, and Luca was looking at the bridge.
+TOMMY: And your phone? Tell me the truth.
+GINA: My phone was off the whole day. I didn't check it once, not even in the bathroom.
+TOMMY: That's a miracle. Somebody write it on the board, with today's date.
+TASHA: Then we got to the beach, and half of it was closed, because there were no lifeguards.
+EDDIE: No lifeguards? In my day, there were lifeguards every fifty yards, and they blew their whistles if you even looked at a big wave.
+TASHA: Not anymore. We had to walk two blocks just to find one.
+GINA: So we were putting the umbrella in the sand, and Tasha said, "It's not going anywhere."
 TOMMY: Uh-oh.
 GINA: Five minutes later, while we were standing in the water, the wind took it.
-TASHA: It was flying. Like a bird. A big striped bird.
-EDDIE: Where did it land?
-GINA: It didn't land. It was rolling down the beach. A family was eating lunch. It almost hit their sandwiches.
-TOMMY: Did it hit them?
-TASHA: No! A man jumped up and caught it. Like a baseball player.
-EDDIE: The Mets should sign him.
-GINA: And then, while we were laughing, the lifeguard blew his whistle. At Diego.
-TOMMY: At Diego? Was he okay?
-GINA: He was fine. A wave pushed him out a little. The lifeguard called him back. Diego listened right away.
-EDDIE: Good boy. The ocean is not a joke.
-TASHA: We ate tacos for lunch. From the stand on the boardwalk. Fish tacos.
-TOMMY: Better than mine?
-GINA: Different. Don't be jealous.
+TASHA: It was flying through the air like a bird. A big striped bird.
+EDDIE: So where did it land?
+GINA: It didn't land. It was rolling down the beach, and a family was eating lunch, so it almost hit their sandwiches.
+TOMMY: Did it hit them? Please tell me it didn't hit them.
+TASHA: No! A man jumped up and caught it with one hand, like a baseball player.
+EDDIE: The Mets should sign him. They need somebody who can catch.
+GINA: And then, while we were laughing about it, the lifeguard blew his whistle at Diego.
+TOMMY: At Diego? Was he okay? What happened?
+GINA: He was fine. A wave pushed him out a little, so the lifeguard called him back, and Diego listened right away.
+EDDIE: Good boy. The ocean is not a joke, and that kid knows it.
+TASHA: For lunch, we ate fish tacos from the stand on the boardwalk. They were really good.
+TOMMY: Better than mine? Be honest with me.
+GINA: Different. Don't be jealous, Dad.
 TOMMY: I'm not jealous. I'm curious.
-GINA: And while we were eating, Luca fell asleep. In the sand. With a taco in his hand.
-EDDIE: Ha! The best kind of nap.
-TASHA: We were packing up when the sky turned dark. Big clouds. Fast.
-TOMMY: The storm. Yeah, it came here at six too. Twenty minutes of crazy rain.
-GINA: We ran to the ferry. Everybody was running. We were the last ones on.
-TASHA: Soaking wet. All of us. And Luca was still sleeping. On my shoulder.
-EDDIE: That boy can sleep through a hurricane. Like his grandfather.
-TOMMY: I don't sleep through hurricanes.
-EDDIE: You slept through Sandy. For two hours. I knocked on your door.
-TOMMY: That's... true. I was tired.
-GINA: And the best part? On the ferry home, the sun came out again. Over the Statue of Liberty. A rainbow.
-TASHA: A real rainbow. Everybody took pictures. Except Gina.
-GINA: My phone was still off.
-TOMMY: My daughter. A whole day without her phone. I'm so proud.
-EDDIE: So what did you learn?
-GINA: That I can turn it off. And the world doesn't end.
-TASHA: And that Tasha's umbrellas are not safe.
-GINA: And that I need more days like this. A lot more.
+GINA: And while we were eating, Luca fell asleep. He was lying in the sand with a taco still in his hand.
+EDDIE: Ha! That's the best kind of nap there is.
+TASHA: We were packing up when the sky turned dark. There were big clouds, and they moved fast.
+TOMMY: The storm. Yeah, it came through here at six too. It was twenty minutes of crazy rain.
+GINA: We ran to the ferry, and everybody was running with us. We were the last ones on the boat.
+TASHA: We were soaking wet, all of us. And Luca was still sleeping on my shoulder the whole time, like nothing happened.
+EDDIE: That boy can sleep through a hurricane, just like his grandfather.
+TOMMY: Hey, I don't sleep through hurricanes.
+EDDIE: You slept through Sandy for two hours. I knocked on your door, and you never answered.
+TOMMY: That's... true. I was very tired that night.
+GINA: And the best part? On the ferry home, the sun came out again, and there was a rainbow over the Statue of Liberty.
+TASHA: It was a real rainbow, and everybody took pictures. Everybody except Gina.
+GINA: My phone was still off, so I just looked at it.
+TOMMY: That's my daughter. A whole day without her phone. I'm so proud of you.
+EDDIE: So what did you learn from all this?
+GINA: That I can turn it off, and the world doesn't end. It just keeps going.
+TASHA: And that Tasha's umbrellas are not safe. I'm saying it before you do.
+GINA: And that I need more days like this. A lot more, and soon.
 
 ---
 
@@ -153,8 +153,8 @@ GINA: And that I need more days like this. A lot more.
   - *While we were standing in the water, the wind took it.* (while + 진행형, 사건은 과거형)
   - *We were packing up when the sky turned dark.* (진행형 … when + 과거형)
   - *While we were eating, Luca fell asleep.*
-- **해변 어휘** — *the harbor / the ocean, a lifeguard (on duty), the tall white chair, a whistle, a wave, sunscreen, a towel, an umbrella, the boardwalk, up to your waist*.
-- **날씨 어휘** — *eighty-six and sunny, windy, fifteen miles an hour, the sky turned dark, crazy rain, soaking wet, a rainbow*.
+- **해변 어휘** — *the harbor / the ocean / a lifeguard (on duty) / the tall white chair / a whistle / a wave / sunscreen / towels / umbrella / the boardwalk / up to your waist*.
+- **날씨 어휘** — *eighty-six and sunny / windy / fifteen miles an hour / the sky turned dark / crazy rain / soaking wet / a rainbow*.
 - **Famous last words.** — "그 말 하자마자 일이 터지지." 자신만만한 말 뒤에 놀리는 표현.
 - **It's not going anywhere.** — "어디 안 가(꼼짝 안 해)."
 - **sign (someone)** — (선수와) 계약하다. *The Mets should sign him.*
@@ -174,123 +174,123 @@ GINA: And that I need more days like this. A lot more.
 
 ## 한글 해석
 
-디에고: 엄마! 페리 엄청 빨라! 물 좀 봐!
-마리솔: 난간 잡아, 디에고. 두 손으로.
-루카: 엄마, 저게 바다예요?
-지나: 아직 아니야, 아가. 저건 항구야. 바다는 나중에 나와.
-타샤: 지나, 휴대폰 어디 있어?
-지나: 가방에요. 꺼 놨어요. 완전히.
-타샤: 꺼 놨다고? 못 믿겠는데. 보여 줘.
-지나: 봐요. 검은 화면. 진짜 휴가 냈어요. 넉 달 만에 처음이에요.
-마리솔: 넉 달! 지나, 그거 안 좋아.
-지나: 알아요. 아빠가 오늘 슬랙 확인하면 휴대폰을 바다에 던져 버린대요.
-타샤: 진짜 던질 거야. 남의 휴대폰을 얼음 통에 던지는 것도 봤어.
-디에고: 왜요?
-타샤: 그 남자가 에디를 찍고 있었거든. 허락도 없이.
-마리솔: 얼마나 걸려?
-지나: 월스트리트에서 한 시간쯤요. 거기에 레드훅에서 타는 첫 페리까지. 그러니까 거의 한 시간 반.
-타샤: 지하철 요금으로 배를 한 시간 반이나 타. 뉴욕 최고의 가성비야.
-마리솔: 거의 같은 값이죠. 근데 막히지도 않고. 터널도 없고.
-지나: 그리고 이런 풍경 있는 지하철은 없죠. 봐요. 베라자노 다리.
+디에고: 엄마! 페리 진짜 빨라요! 물 좀 봐요, 휙휙 지나가요!
+마리솔: 난간 잡아, 디에고. 배가 많이 흔들리니까 두 손으로 꼭 잡아.
+루카: 엄마, 저게 바다야?
+지나: 아직 아니야, 아가. 저건 항구고, 바다는 큰 다리 지나서 나와.
+타샤: 지나, 휴대폰 어디 있어? 아침 내내 손에 든 걸 못 봤는데.
+지나: 가방 안에 있어. 꺼 놨어. 무음도 아니고 완전히 껐어.
+타샤: 껐다고? 못 믿겠는데. 보여 줘. 안 보여 주면 없던 일이야.
+지나: 봐. 검은 화면. 진짜 휴가를 냈어. 넉 달 만에 처음이야.
+마리솔: 넉 달! 지나, 그건 건강하지 않아. 계속 그렇게 일할 순 없어.
+지나: 알아. 아빠가 오늘 내가 슬랙 확인하면 휴대폰을 바다에 던져 버린대.
+타샤: 정말 그러실 거야. 예전에 어떤 남자 휴대폰을 얼음 통에 던지시는 거 봤어.
+디에고: 왜요? 그 아저씨가 뭘 했는데요?
+타샤: 그 남자가 허락도 없이 에디를 찍고 있었거든. 토미네 바에선 아무도 허락 없이 에디를 못 찍어. 에디가 이야기하는 중이면 더더욱.
+마리솔: 그래서 해변까지 얼마나 걸려?
+지나: 월스트리트에서 한 시간쯤이고, 레드훅에서 타는 첫 페리까지 더하면 거의 한 시간 반이야.
+타샤: 지하철 요금으로 배를 한 시간 반이나 타는 거야. 뉴욕 최고의 거래지.
+마리솔: 가격은 거의 같은데, 차도 안 막히고 터널도 없어.
+지나: 그리고 어떤 지하철도 이런 경치는 없지. 저기 봐, 베라자노 다리야.
 루카: 큰 다리!
-디에고: 브루클린 다리보다 커요?
-마리솔: 훨씬 커. 지어졌을 때 세계에서 제일 길었어.
-타샤: 날씨는 어떻대?
-지나: 30도에 맑음. 근데 바람이 불어요. 시속 15마일.
-마리솔: 바람 부는 건 좋지. 덜 더울 거야.
-타샤: 바람은 파라솔한테 안 좋아. 로커웨이에서 파라솔 세 개 잃어버렸어.
-디에고: 도착하면 수영해도 돼?
-마리솔: 인명구조원 있는 데서만. 그게 규칙이야.
-디에고: 구조원이 없으면?
-마리솔: 그럼 수영 금지. 발만 담가.
-디에고: 발만? 그건 수영이 아니잖아. 서 있는 거지.
-타샤: 좋아! 도착! 비치 98번가. 이 공기 냄새 좀 맡아 봐.
-지나: 소금. 선크림. 생선 튀김.
+디에고: 브루클린 다리보다 커요? 훨씬 커 보여요.
+마리솔: 훨씬 커. 지어졌을 때 그런 종류의 다리 중에서 세계에서 제일 길었어.
+타샤: 그래서 오늘 날씨는 어떻대?
+지나: 화씨 86도에 맑음, 근데 바람이 불어. 휴대폰 끄기 직전에 앱에서 시속 15마일이래.
+마리솔: 바람 부는 건 좋아. 모래 위에서 덜 덥게 느껴질 테니까.
+타샤: 바람은 파라솔한테 안 좋아. 로커웨이에서 파라솔을 세 개나 잃어버렸는데, 네 번째는 절대 안 잃어버릴 거야.
+디에고: 도착하자마자 수영해도 돼요?
+마리솔: 구조원이 있는 곳에서만. 그게 규칙이고, 안 바뀌어.
+디에고: 근데 구조원이 없으면요?
+마리솔: 그럼 수영은 안 돼. 지켜보는 사람이 없으면 바다는 위험하거든. 발만 담글 수 있고, 그게 다야.
+디에고: 발만요? 그건 수영이 아니잖아요. 그냥 서 있는 거죠.
+타샤: 좋아! 도착! 여기가 비치 98번가야. 다들 이 공기 냄새 좀 맡아 봐.
+지나: 소금, 선크림, 그리고 생선 튀김. 여름 냄새네.
 루카: 모래! 엄마, 모래!
-마리솔: 디에고, 잠깐. 저 표지판 먼저 읽어. 소리 내서.
-디에고: "수영 금지 구역. 인명구조원 근무 안 함." 뭐? 왜?
-타샤: 구조원이 모자라서. 또. 여름마다 해변 일부를 닫아.
-지나: 왜 모자라요? 여름 아르바이트로 좋은데.
-마리솔: 시험이 어렵거든. 바다에서 아주 빨리 헤엄쳐야 해. 그리고 몇 년 동안 급여도 별로였고.
-디에고: 그럼 어디서 수영해요?
-타샤: 저기. 봐. 두 블록 아래. 키 큰 하얀 의자 보이지? 깃발 있는 거?
-디에고: 보여요! 구조원 있다!
-마리솔: 그럼 저기 앉자. 가자. 다들 하나씩 들어.
-지나: 루카, 넌 양동이 들어. 그게 네 일이야.
+마리솔: 디에고, 잠깐만. 저 표지판부터 읽어 봐. 다들 들리게 소리 내서.
+디에고: "수영 금지 해변. 근무 중인 구조원 없음." 뭐라고요? 왜 닫았어요?
+타샤: 구조원이 부족해서 그래, 또. 그것 때문에 매년 여름 해변 일부를 닫아.
+지나: 근데 왜 부족한 거야? 좋은 여름 아르바이트잖아. 하루 종일 햇볕 아래 앉아 있고.
+마리솔: 시험이 어렵거든. 바다에서 아주 빨리 헤엄쳐야 하니까. 그리고 몇 년 동안 보수도 별로였어.
+디에고: 그럼 어디서 수영할 수 있어요?
+타샤: 저기. 봐, 두 블록 아래. 깃발 달린 높은 흰 의자 보여?
+디에고: 보여요! 구조원이 위에 앉아 있어요!
+마리솔: 그럼 거기 앉자. 자, 다들 하나씩 들어 줘.
+지나: 루카, 넌 양동이 들어. 오늘 그게 네 일이야, 알았지?
 루카: 내 양동이! 나 일 있어!
-타샤: 좋아. 수건 깔고. 파라솔 세우고. 모래에 깊이 꽂을게.
-지나: 더 깊이요, 타샤. 바람 세요.
-타샤: 깊어. 엄청 깊어. 어디 안 가.
-마리솔: 그 말 하면 꼭 일 나더라.
-디에고: 이제 들어가도 돼? 제발? 구조원 바로 저기 있잖아.
-마리솔: 좋아. 허리까지만. 더 깊이는 안 돼. 그리고 엄마가 볼 수 있는 데 있어.
-디에고: 허리까지. 알았어!
-지나: 루카, 물에 가자. 발만. 엄마 손 잡아.
-루카: 차가워! 엄청 차가워!
-지나: 대서양은 늘 차가워, 아가. 7월에도.
-타샤: 어! 어! 파라솔!
-마리솔: 날아간다! 잡아!
-타샤: 해변 따라 가고 있어! 굴러가!
-지나: 저 가족 쪽으로 가요! 조심해요!
-타샤: 죄송해요! 죄송해요! 실례합니다! 제 파라솔이요!
-마리솔: 어떤 남자가 잡았어요. 봐요. 다시 갖다주네.
-타샤: 감사합니다! 정말 감사해요! 정말 죄송해요!
-마리솔: "엄청 깊어. 어디 안 가."
-타샤: 아무 말 하지 마. 한 마디도.
-지나: 파라솔 4호네요.
-타샤: 4호는 안 죽었어. 4호는 돌아왔다고.
-디에고: 엄마! 엄마! 구조원이 호루라기 불었어! 나한테 분 거야?
-마리솔: 너무 멀리 갔어? 허리보다 깊이 들어갔잖아!
-디에고: 파도가 밀었어! 서 있었는데 파도가 와서, 그러고 나니까 더 깊은 데 있었어.
-마리솔: 알았어. 조금 이쪽으로 와. 오늘은 파도가 커. 바람 때문에.
-디에고: 구조원이 나 가리켜. "더 가까이"래.
-타샤: 그 사람 말 들어. 구조원이 바다의 사장님이야.
-디에고: 네! 가까이요! 죄송해요, 구조원 아저씨!
-지나: 심장이 잠깐 멈췄어요.
-마리솔: 나도. 그래서 구조원 근처에서 수영하는 거야.
+타샤: 좋아, 수건 깔고 파라솔 세우고. 모래에 깊이 박을게.
+지나: 더 깊이, 타샤. 오늘 바람 진짜 세. 어떻게 되는지 알잖아.
+타샤: 걱정 마, 백 번은 해 봤어. 깊어. 아주 깊어. 꼼짝도 안 할 거야.
+마리솔: 그 말 하자마자 사고 나더라.
+디에고: 이제 들어가도 돼요? 네? 구조원이 바로 저기서 보고 있어요.
+마리솔: 좋아. 허리까지만, 더 깊이는 안 돼. 그리고 계속 엄마가 볼 수 있는 데 있어.
+디에고: 허리까지. 알았어요! 약속해요!
+지나: 루카, 물가로 가자. 발만 담그는 거니까 엄마 손 잡아.
+루카: 차가워! 너무 차가워!
+지나: 대서양은 늘 차가워, 아가. 7월에도. 곧 익숙해질 거야.
+타샤: 어어! 어어! 파라솔!
+마리솔: 날아간다! 누가 좀 잡아요!
+타샤: 해변 따라 날아가! 이젠 바퀴처럼 굴러가!
+지나: 아이스박스 있는 저 가족 쪽으로 똑바로 가! 조심하세요!
+타샤: 죄송해요! 죄송해요! 실례합니다! 제 파라솔이에요!
+마리솔: 봐, 어떤 남자가 잡았어. 다시 가져오네. 그래도 소리치는 대신 웃고 있다.
+타샤: 고마워요! 정말 고마워요! 정말 죄송해요!
+마리솔: "깊어. 꼼짝도 안 할 거야."
+타샤: 아무 말도 하지 마. 한마디도, 마리솔, 진심이야.
+지나: 음, 누가 세고 있다면 그게 파라솔 4호네.
+타샤: 그래도 4호는 안 죽었어. 4호는 돌아왔으니까 안 쳐.
+디에고: 엄마! 엄마! 구조원이 방금 호루라기 불었어요! 저한테 분 거예요?
+마리솔: 너무 멀리 나갔어? 허리보다 깊이 들어갔잖아, 디에고!
+디에고: 파도가 밀었어요! 서 있었는데 파도가 오더니 갑자기 더 깊은 데 있었어요.
+마리솔: 알았어. 조금만 이쪽으로 와. 오늘 바람 때문에 파도가 커.
+디에고: 구조원이 저를 가리키고 있어요. "더 가까이"라고 하는 것 같아요.
+타샤: 그럼 그 말 들어. 구조원이 바다의 대장이야. 아무도 구조원한테 대들지 않아.
+디에고: 알았어요! 가까이요! 죄송해요, 구조원 아저씨!
+지나: 방금 심장이 잠깐 멈췄어. 숨도 못 쉬겠더라.
+마리솔: 나도. 그리고 이래서 구조원 근처에서 수영하는 거야.
 루카: 엄마, 배고파.
-토미: 그래서? 해변 어땠어? 다들 새빨갛네.
-지나: 아빠, 올해 최고의 날이었어요. 그리고 제일 정신없었고요.
-에디: 얘기해 봐. 처음부터.
-지나: 좋아요. 그러니까 우리가 페리에 앉아 있었는데, 다 완벽했어요. 해가 쨍쨍했고요. 루카는 다리를 보고 있었고요.
-토미: 그리고 네 휴대폰은?
-지나: 휴대폰은 꺼져 있었어요. 하루 종일. 한 번도 안 봤어요.
-토미: 기적이네. 칠판에 써 놔.
-타샤: 그다음 해변에 도착했는데. 절반이 닫혀 있었어. 구조원이 없어서.
-에디: 구조원이 없어? 우리 땐 50야드마다 구조원이 있었는데.
-타샤: 이젠 아니에요. 구조원 찾으려고 두 블록을 걸었어요.
-지나: 그래서 우리가 모래에 파라솔을 꽂고 있었어요. 그리고 타샤가 "어디 안 가"라고 했죠.
-토미: 아이고.
-지나: 5분 뒤에 우리가 물속에 서 있는 동안 바람이 그걸 가져갔어요.
-타샤: 날아가더라. 새처럼. 줄무늬 큰 새.
-에디: 어디 떨어졌어?
-지나: 안 떨어졌어요. 해변을 따라 굴러가고 있었어요. 어떤 가족이 점심을 먹고 있었는데. 샌드위치를 칠 뻔했어요.
-토미: 쳤어?
-타샤: 아니! 어떤 남자가 벌떡 일어나서 잡았어. 야구 선수처럼.
-에디: 메츠가 그 사람이랑 계약해야겠네.
-지나: 그러고 나서 우리가 웃고 있는데 구조원이 호루라기를 불었어요. 디에고한테.
-토미: 디에고한테? 괜찮았어?
-지나: 괜찮았어요. 파도가 좀 밀어냈어요. 구조원이 다시 불렀고요. 디에고가 바로 말을 들었어요.
-에디: 착하네. 바다는 장난이 아니야.
-타샤: 점심엔 타코 먹었어. 보드워크 가판대에서. 피시 타코.
-토미: 내 거보다 맛있었어?
-지나: 달라요. 질투하지 마요.
-토미: 질투 안 해. 궁금할 뿐이야.
-지나: 그리고 우리가 먹고 있는 동안 루카가 잠들었어요. 모래 위에서. 손에 타코를 든 채로.
-에디: 하! 최고의 낮잠이네.
-타샤: 짐 싸고 있는데 하늘이 어두워졌어. 큰 구름. 빨리.
-토미: 그 폭풍. 그래, 여기도 6시에 왔어. 20분 동안 미친 듯이 비 왔지.
-지나: 페리까지 뛰었어요. 다들 뛰고 있었어요. 우리가 마지막으로 탔어요.
-타샤: 홀딱 젖었지. 다 같이. 그리고 루카는 아직도 자고 있었어. 내 어깨에서.
-에디: 그 애는 허리케인 속에서도 자겠네. 할아버지처럼.
-토미: 난 허리케인 속에서 안 자요.
-에디: 샌디 때 잤잖아. 두 시간 동안. 내가 문 두드렸어.
-토미: 그건… 맞네요. 피곤했어요.
-지나: 그리고 제일 좋았던 거요? 집에 오는 페리에서 해가 다시 났어요. 자유의 여신상 위로. 무지개.
-타샤: 진짜 무지개. 다들 사진 찍었어. 지나만 빼고.
-지나: 휴대폰이 아직 꺼져 있었거든요.
-토미: 우리 딸. 휴대폰 없이 하루 종일. 너무 자랑스럽다.
-에디: 그래서 뭘 배웠어?
-지나: 꺼도 된다는 거요. 그리고 세상이 안 끝난다는 거.
-타샤: 그리고 타샤의 파라솔은 안전하지 않다는 거.
-지나: 그리고 이런 날이 더 필요하다는 거요. 훨씬 더 많이.
+토미: 그래서? 해변 어땠어? 다들 바닷가재처럼 빨갛네.
+지나: 아빠, 올해 최고의 날이었어. 그리고 제일 정신없는 날이기도 했고.
+에디: 다 얘기해 봐. 처음부터. 하나도 빼먹지 말고.
+지나: 좋아요. 우리가 페리에 앉아 있었는데 모든 게 완벽했어요. 햇살이 비치고, 루카는 다리를 보고 있었고요.
+토미: 휴대폰은? 사실대로 말해.
+지나: 하루 종일 꺼져 있었어. 한 번도 확인 안 했어, 화장실에서도.
+토미: 기적이네. 누가 칠판에 적어 놔, 오늘 날짜랑 같이.
+타샤: 그러고 해변에 도착했는데 절반이 닫혀 있었어요. 구조원이 없어서요.
+에디: 구조원이 없다고? 내가 젊을 땐 50야드마다 구조원이 있었고, 큰 파도 쳐다보기만 해도 호루라기를 불었는데.
+타샤: 이젠 아니에요. 하나 찾으려고 두 블록이나 걸었어요.
+지나: 그래서 우리가 모래에 파라솔을 꽂고 있었는데, 타샤가 "꼼짝도 안 할 거야"라고 했어.
+토미: 어이쿠.
+지나: 5분 뒤에, 우리가 물속에 서 있는 동안 바람이 파라솔을 가져가 버렸어.
+타샤: 새처럼 공중을 날아갔어요. 줄무늬 큰 새요.
+에디: 그래서 어디에 떨어졌는데?
+지나: 안 떨어졌어요. 해변을 따라 굴러갔는데, 어떤 가족이 점심을 먹고 있어서 샌드위치를 칠 뻔했어요.
+토미: 쳤어? 안 쳤다고 말해 줘.
+타샤: 아뇨! 어떤 남자가 벌떡 일어나서 한 손으로 잡았어요. 야구 선수처럼요.
+에디: 메츠가 그 사람이랑 계약해야겠네. 공 잡을 사람이 필요하거든.
+지나: 그리고 우리가 그걸로 웃고 있는 동안, 구조원이 디에고한테 호루라기를 불었어.
+토미: 디에고한테? 괜찮았어? 무슨 일이었는데?
+지나: 괜찮았어. 파도에 조금 밀려 나가서 구조원이 다시 불렀는데, 디에고가 바로 말을 들었어.
+에디: 착한 녀석. 바다는 장난이 아니지. 그 애도 알고 있어.
+타샤: 점심으로는 보드워크 노점에서 피시 타코를 먹었어요. 정말 맛있었어요.
+토미: 내 거보다 나아? 솔직하게 말해.
+지나: 달라. 질투하지 마, 아빠.
+토미: 질투하는 거 아니야. 궁금한 거지.
+지나: 그리고 우리가 먹는 동안 루카가 잠들었어. 손에 타코를 든 채로 모래 위에 누워서.
+에디: 하! 그게 세상에서 제일 좋은 낮잠이지.
+타샤: 짐을 싸고 있는데 하늘이 어두워졌어요. 큰 구름이 몰려왔는데, 엄청 빨랐어요.
+토미: 그 폭풍. 그래, 여기도 6시에 왔어. 20분 동안 미친 듯이 비가 쏟아졌지.
+지나: 우리는 페리로 뛰었어. 다들 우리랑 같이 뛰었고. 우리가 배에 마지막으로 탔어.
+타샤: 다 같이 흠뻑 젖었어요. 그리고 루카는 아무 일 없었다는 듯이 내내 제 어깨에서 자고 있었어요.
+에디: 저 애는 허리케인 속에서도 잘 수 있겠어. 할아버지랑 똑같이.
+토미: 이봐요, 난 허리케인 속에서 안 자요.
+에디: 샌디 때 두 시간이나 잤잖아. 내가 문을 두드렸는데 한 번도 대답 안 했어.
+토미: 그건… 맞아요. 그날 밤 너무 피곤했어요.
+지나: 그리고 제일 좋았던 거? 집에 오는 페리에서 해가 다시 나왔는데, 자유의 여신상 위에 무지개가 떴어.
+타샤: 진짜 무지개였어요. 다들 사진을 찍었죠. 지나만 빼고요.
+지나: 내 휴대폰은 아직 꺼져 있었거든. 그래서 그냥 바라봤어.
+토미: 역시 내 딸이야. 휴대폰 없이 하루를 통째로. 정말 자랑스럽다.
+에디: 그래서 이번에 뭘 배웠니?
+지나: 휴대폰을 꺼도 세상이 끝나지 않는다는 거요. 세상은 그냥 계속 굴러가요.
+타샤: 그리고 타샤의 파라솔은 안전하지 않다는 거. 다들 말하기 전에 제가 먼저 말할게요.
+지나: 그리고 이런 날이 더 필요하다는 거. 훨씬 더 많이, 그리고 곧.
