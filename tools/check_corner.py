@@ -3,7 +3,7 @@
 Format (기획서 기준): the 대본 section has exactly 120 speaker turns written as
 `SPEAKER: line` (no turn numbers). Stage directions are lines in square brackets
 and are not counted. The 한글 해석 section repeats the 120 turns in the same order
-as `이름: 번역`. Also warns about single sentences longer than 20 words
+as `이름: 번역`. Also warns about single sentences longer than the part's limit (1부 20, 2–3부 25, 4–5부 30 words)
 (기본 원칙: 한 호흡 15단어 이내, 긴 설명은 나눠서).
 """
 import re
@@ -34,11 +34,13 @@ for p in sys.argv[1:]:
     for i, ((s, _), (k, _)) in enumerate(zip(en, ko), 1):
         if s in KO and KO[s] != k:
             issues.append(f"turn {i}: {s} vs {k} (order mismatch)"); break
+    m = re.search(r"([1-5])부", p)
+    lim = {1: 20, 2: 25, 3: 25, 4: 30, 5: 30}.get(int(m.group(1)) if m else 1, 20)
     long_ = []
     for s, line in en:
-        for sent in re.split(r"(?<=[.!?])\s+", line):
-            if len(sent.split()) > 20: long_.append(sent[:50])
-    if long_: issues.append(f"{len(long_)} sentence(s) over 20 words, e.g. '{long_[0]}…'")
+        for sent in re.split(r"(?<=[.!?])[\"”]?\s+", line):
+            if len(sent.split()) > lim: long_.append(sent[:50])
+    if long_: issues.append(f"{len(long_)} sentence(s) over {lim} words, e.g. '{long_[0]}…'")
     if issues:
         print(f"{p}: " + "; ".join(issues)); bad += 1
     else:
