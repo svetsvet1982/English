@@ -24,7 +24,7 @@ JESSE: No? Why? Was it my credit score? I know it's not perfect, but it's not th
 MEGAN: Your credit is fine. It's the income. The landlord has a rule that your yearly income has to be forty times the monthly rent.
 JESSE: Forty times? Okay, let me do the math. Forty times twelve hundred is... forty-eight thousand.
 MEGAN: Right. And your contract pays forty-two, you said, if I remember correctly?
-JESSE: Forty-two thousand, yeah. So I'm six thousand short, even though I've never missed a rent payment in my life.
+JESSE: Forty-two thousand, yeah. So I'm six thousand short. And I've never missed a rent payment in my life!
 MEGAN: I told him you're a great person. I even told him that you wash your dishes right away, but he didn't care.
 JESSE: Landlords don't care about dishes. They only care about numbers.
 MEGAN: He said that if you had a guarantor, he would say yes right away.
@@ -70,8 +70,8 @@ TASHA: And what's the income requirement for this place?
 KEVIN: It's forty times the rent, so you'd need to make about seventy-four thousand a year.
 JESSE: Seventy-four. Okay. Never mind.
 TASHA: Is the apartment rent-stabilized, by any chance?
-KEVIN: Ha. No, it's market rate. Nice try, though.
-TASHA: Hey, it never hurts to ask.
+KEVIN: Ha. No, it's market rate, like everything else around here. Nice try.
+TASHA: Hey, come on. It never hurts to ask.
 DANIELLE: Excuse me. Kevin? My boyfriend and I would like to apply right now. We can pay six months upfront.
 KEVIN: Six months? In cash?
 DANIELLE: By bank transfer, today. And we can offer an extra hundred a month, so that's nineteen fifty instead of eighteen fifty.
@@ -184,7 +184,7 @@ JESSE: Coming right up. With a lot of milk, right, the way you like it?
 메건: 신용은 괜찮아요. 소득 때문이에요. 집주인한테 연 소득이 월세의 40배는 돼야 한다는 규칙이 있어요.
 제시: 40배요? 좋아요, 계산해 볼게요. 40 곱하기 1,200은… 4만 8천.
 메건: 맞아요. 그리고 계약 연봉이 4만 2천이라고 했죠, 제가 기억하기로는?
-제시: 4만 2천, 네. 그러니까 6천 달러가 모자라네요. 평생 월세 한 번 밀린 적이 없는데도요.
+제시: 4만 2천, 네. 그러니까 6천 달러가 모자라네요. 평생 월세 한 번 밀린 적이 없는데!
 메건: 좋은 사람이라고 말했어요. 설거지도 바로 한다고까지 말했는데, 신경도 안 쓰더라고요.
 제시: 집주인들은 설거지에 관심 없죠. 숫자에만 관심 있어요.
 메건: 보증인이 있으면 바로 허락하겠대요.
@@ -227,8 +227,8 @@ JESSE: Coming right up. With a lot of milk, right, the way you like it?
 케빈: 월세의 40배라서, 1년에 7만 4천 정도는 벌어야 해요.
 제시: 7만 4천. 알겠어요. 됐어요.
 타샤: 혹시 여기 임대료 안정화 아파트예요?
-케빈: 하. 아니요, 시세예요. 시도는 좋았어요.
-타샤: 뭐, 물어봐서 손해 볼 건 없잖아.
+케빈: 하. 아니요, 이 동네 다른 데처럼 시세예요. 시도는 좋았어요.
+타샤: 뭐, 왜 그래요. 물어봐서 손해 볼 건 없잖아요.
 다니엘: 실례합니다. 케빈? 남자 친구랑 지금 바로 신청하고 싶어요. 6개월 치 선불로 낼 수 있어요.
 케빈: 6개월이요? 현금으로요?
 다니엘: 계좌 이체로요, 오늘. 그리고 한 달에 100달러 더 낼 수 있어요. 그러니까 1,850 대신 1,950이요.
