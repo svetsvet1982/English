@@ -18,128 +18,128 @@
 
 [Scene: Sunday, 8:30 p.m. Apartment 2A. Two plates of pasta. Gina's laptop next to them. Luca sleeps in the next room.]
 
-GINA: Dad, sit down. I made you a plate. Eat first. Then we talk.
-TOMMY: That sounds like your mother. "Eat first. Then we talk." That's never good.
-GINA: It's not bad. It's... a plan. I worked on it all week.
-TOMMY: A plan. With a spreadsheet?
-GINA: With a spreadsheet. Look. Here's the bar. Revenue, costs, profit. And here's next June.
-TOMMY: Next June. After the lease.
-GINA: After the lease. If the rent goes to nine thousand, you lose money every month. If it goes to fourteen, you lose a lot.
+GINA: Dad, sit down. I made you a big plate of pasta. Eat first. Then we talk.
+TOMMY: That sounds exactly like your mother. "Eat first. Then we talk." That was never good news in this house.
+GINA: It's not bad news. It's... a plan. I worked on it every night this week, after Luca went to bed.
+TOMMY: A plan. Let me guess, it comes with a spreadsheet?
+GINA: Of course it comes with a spreadsheet. Look, here's the bar, with revenue, costs, and profit. And here's next June.
+TOMMY: Next June. After the lease is over.
+GINA: After the lease. If the rent goes to nine thousand, you lose money every single month. If it goes to fourteen, you lose a lot of money.
 TOMMY: I know the numbers, Gina. I live the numbers.
-GINA: Then you know it doesn't work. Not at nine. Not at fourteen.
-TOMMY: Maybe the nonprofit gives me a loan. Maybe Whitlock gives me a deal.
-GINA: Whitlock wants a coffee shop with eight-dollar lattes. He doesn't want a deal.
-TOMMY: So what's your plan? Tell me.
-GINA: Okay. Don't get mad. Just listen. All the way to the end.
-TOMMY: I'm listening.
-GINA: You close the bar in May. On your terms. Not theirs. A big party. Twenty-one years. You go out on top.
+GINA: Then you know that it doesn't work. It doesn't work at nine, and it definitely doesn't work at fourteen.
+TOMMY: Maybe the nonprofit gives me a loan. Or maybe Whitlock gives me a deal, if I talk to him.
+GINA: Whitlock wants a coffee shop that sells eight-dollar lattes. He doesn't want to give you a deal.
+TOMMY: So what's your big plan, then? Go ahead and tell me.
+GINA: Okay. Please don't get mad. Just listen to me, all the way to the end, before you say anything.
+TOMMY: Fine. I'm listening.
+GINA: You close the bar in May. On your terms. Not theirs. We throw a big party for twenty-one years, and you go out on top.
 TOMMY: Close the bar.
-GINA: You sell the equipment. The fryer, the coolers, the stools. Maybe someone buys the name.
+GINA: You sell the equipment, like the fryer, the coolers, and the stools. Maybe someone even buys the name.
 TOMMY: Sell the name.
-GINA: And you move in with me. In Carroll Gardens. I have the extra room. You help with Luca. You rest. For the first time in twenty years.
-TOMMY: You want me to quit.
+GINA: And you move in with me in Carroll Gardens, because I have the extra room. You help with Luca, and you rest for the first time in twenty years.
+TOMMY: So you want me to quit.
 GINA: I want you to stop. There's a difference.
-TOMMY: There's no difference. Not for me.
-GINA: Dad, you're fifty-eight. You work seventy hours a week. Your credit card has eleven thousand dollars on it for a floor that isn't yours.
-TOMMY: That floor is mine. Every board. I stood on it for twenty years.
-GINA: It's Whitlock's floor! Legally, it's his!
-TOMMY: Don't tell me what's legal! Everybody tells me what's legal!
+TOMMY: There's no difference, Gina. Not for me, there isn't.
+GINA: Dad, you're fifty-eight, and you work seventy hours a week. Your credit card has eleven thousand dollars on it for a floor that isn't even yours.
+TOMMY: That floor is mine. Every single board is mine, because I stood on it for twenty years.
+GINA: It's Whitlock's floor! Legally, it belongs to him!
+TOMMY: Don't tell me what's legal! Everybody keeps telling me what's legal!
 GINA: Somebody has to! You think you can fix everything with a broom and a beer!
-TOMMY: That's how I raised you! With a broom and a beer!
-GINA: Exactly! And look at you! Tired! Broke! Alone!
-TOMMY: I'm not alone. I have the bar. I have the block.
+TOMMY: That's how I raised you, with a broom and a beer! And you turned out fine!
+GINA: Exactly! And look at you now! You're tired, you're broke, and you're alone!
+TOMMY: I'm not alone. I have the bar, and I have the whole block.
 GINA: The block can't pay your rent, Dad!
-TOMMY: Lower your voice. Luca's sleeping.
-GINA: ...Fine. I'm lowering it. But I'm not stopping.
-TOMMY: And you? What do you do? In your plan? You go back to your robot company?
-GINA: No. That's the other part. I'm thinking about leaving Brightline.
-TOMMY: Leaving? And doing what?
-GINA: I don't know yet. Something smaller. Maybe I help you. With a smaller place. Not on the water. Not fourteen thousand.
-TOMMY: You want to quit a good job to pour beer? No. Absolutely not.
-GINA: Why not?
+TOMMY: Lower your voice. Luca's sleeping in the next room.
+GINA: ...Fine. I'm lowering it. But I'm not stopping, because this is important.
+TOMMY: And what about you? What do you do in your perfect plan? Do you go back to your robot company?
+GINA: No, and that's the other part. I'm thinking about leaving Brightline.
+TOMMY: Leaving? And doing what, exactly?
+GINA: I don't know yet. Something smaller. Maybe I could help you with a smaller place, somewhere that's not on the water and not fourteen thousand a month.
+TOMMY: You want to quit a good job so you can pour beer? No. Absolutely not.
+GINA: Why not? Why is that so terrible?
 TOMMY: Because I didn't work seventy hours a week for twenty years so my daughter could pour beer!
 GINA: Maybe I want to pour beer! Maybe I hate my job! Did you ever think of that?
-TOMMY: You have a career! A salary! Health insurance! You went to college! I didn't!
-GINA: And I have panic attacks on subway platforms! Remember? You picked up my son!
+TOMMY: You have a career, a salary, and health insurance! You went to college, and I didn't!
+GINA: And I have panic attacks on subway platforms! Remember that? You had to pick up my son!
 TOMMY: ...I remember.
-GINA: So don't tell me my job is a dream. It's not a dream. It's a cage with free tacos.
-TOMMY: Then find another job. A better one. Not a bar. Bars kill people, Gina.
-GINA: Bars kill people? Then why are you holding on to this one like it's your life?
+GINA: So don't tell me that my job is a dream. It's not a dream. It's a cage with free tacos.
+TOMMY: Then find another job, a better one, but not a bar. Bars kill people, Gina.
+GINA: Bars kill people? Then why are you holding on to this one like it's your whole life?
 TOMMY: Because it is my life!
 GINA: It was Mom's life too! And it killed her!
-TOMMY: What did you say?
+TOMMY: What did you just say?
 GINA: You heard me.
 TOMMY: Say it again. Say it to my face.
-GINA: When Mom was sick, you were downstairs. Every night. Pouring beers. While she was upstairs alone.
-TOMMY: That's not true.
-GINA: It is true! I came home on weekends. She was alone on the couch. Throwing up from the chemo. And you were downstairs. Laughing with Eddie.
+GINA: When Mom was sick, you were downstairs every night, pouring beers for strangers, while she was upstairs all alone.
+TOMMY: That's not true, and you know it.
+GINA: It is true! I came home on weekends, and she was alone on the couch, throwing up from the chemo. And you were downstairs, laughing with Eddie.
 TOMMY: I was not laughing. Don't you dare.
-GINA: I heard you! Through the floor! Laughing!
-TOMMY: You don't know what you heard. You were twenty-five. You weren't here every night.
-GINA: Don't tell me I don't know! I was there! I held her hair!
-TOMMY: And I paid for the hospital! With the bar! With every goddamn beer! Who do you think paid for the chemo, Gina?
+GINA: I heard you through the floor! You were laughing!
+TOMMY: You don't know what you heard. You were twenty-five, and you weren't here every night.
+GINA: Don't tell me I don't know! I was there, and I held her hair!
+TOMMY: And I paid for the hospital with the bar! With every goddamn beer I poured! Who do you think paid for the chemo?
 GINA: ...What?
-TOMMY: Our insurance didn't cover the new treatment. The one at Sloan. Forty thousand dollars. You think it fell from the sky?
-GINA: I didn't... I didn't know that.
-TOMMY: No. You didn't. Because we didn't tell you. Because you had a new job. Because she said, "Tommy, don't tell Gina. Let her build her life."
-GINA: She said that?
-TOMMY: She said a lot of things. You want to know what else she said? About the bar?
+TOMMY: Our insurance didn't cover the new treatment, the one at Sloan. It cost forty thousand dollars. You think it fell from the sky?
+GINA: I didn't... I didn't know that. Nobody ever told me.
+TOMMY: No, you didn't know, because we didn't tell you. You had a new job, and she said, "Tommy, don't tell Gina. Let her build her life."
+GINA: She said that? Mom really said that?
+TOMMY: She said a lot of things. Do you want to know what else she said, about the bar?
 GINA: Dad...
-TOMMY: She said, "Keep it open. Promise me. It's my bar too." Those were her words.
-GINA: Her bar? It was your bar.
-TOMMY: It was never my bar. The Hook was her idea. Her name. She picked it. "The Hook. Because people get hooked on this corner." Her joke. Her terrible joke.
-GINA: You never told me that.
-TOMMY: You never asked. You decided I was the bad guy. The guy downstairs.
-GINA: That's not fair.
-TOMMY: Fair? You want fair? You come here with a spreadsheet to close your mother's bar. That's fair?
-GINA: I came here because I'm scared! Because I'm watching you die the same way!
+TOMMY: She said, "Keep it open. Promise me. It's my bar too." Those were her exact words.
+GINA: Her bar? But it was always your bar.
+TOMMY: It was never my bar. The Hook was her idea, and she picked the name herself. "The Hook. Because people get hooked on this corner." That was her joke, her terrible joke.
+GINA: You never told me that, not once in my whole life.
+TOMMY: You never asked. You decided that I was the bad guy, the guy downstairs.
+GINA: That's not fair, Dad.
+TOMMY: Fair? You want fair? You come here with a spreadsheet to close your mother's bar. Is that fair?
+GINA: I came here because I'm scared! I'm watching you die the same way she did!
 TOMMY: I'm not dying!
-GINA: You're killing yourself! Slowly! For a bar! For a promise! For a dead woman!
+GINA: You're killing yourself slowly, for a bar! For a promise! For a dead woman!
 TOMMY: Get out.
 GINA: Dad—
-TOMMY: Get out of my kitchen. Right now. Before I say something I can't take back.
-GINA: Fine. Fine! I'll take Luca. And I'll go.
-TOMMY: Don't wake him up.
-GINA: I'll carry him. Like you carried everything. Alone. Because you never let anybody help.
-TOMMY: Gina...
-GINA: Forget it. Forget the spreadsheet. Do whatever you want. You always do.
+TOMMY: Get out of my kitchen right now. Before I say something I can't take back.
+GINA: Fine. Fine! I'll take Luca, and I'll go.
+TOMMY: Don't wake him up when you take him.
+GINA: I'll carry him, just like you carried everything. Alone, because you never let anybody help you.
+TOMMY: Gina... wait a second.
+GINA: Forget it. Forget the spreadsheet. Do whatever you want, because you always do.
 TOMMY: ...Damn it. Damn it.
 
 [The door closes. Silence. Ten minutes later, a soft knock.]
 
-EDDIE: Tommy? It's Eddie. I heard... I heard through the floor. Can I come in?
-TOMMY: Come in, Eddie. The whole building heard. Why not.
-EDDIE: Not the whole building. Just me and Dolores. And Dolores pretended not to.
-TOMMY: She'll write it in her notebook.
-EDDIE: Maybe. Sit, Tommy. You're shaking.
-TOMMY: I told her to get out. My own daughter. With my grandson.
-EDDIE: You were angry. She was angry. That's not the end of the world.
+EDDIE: Tommy? It's Eddie. I heard... I heard it through the floor. Can I come in?
+TOMMY: Come in, Eddie. The whole building heard it, so why not you too.
+EDDIE: Not the whole building. Just me and Dolores, and Dolores pretended that she didn't hear anything.
+TOMMY: She'll write it all down in her notebook tonight.
+EDDIE: Maybe she will. Sit down, Tommy, because you're shaking.
+TOMMY: I told her to get out. My own daughter, with my grandson in her arms.
+EDDIE: You were angry, and she was angry. That's not the end of the world.
 TOMMY: She said Angela... she said the bar killed Angela.
-EDDIE: She's scared. Scared people say the worst thing they can find. You know that.
-TOMMY: Was she right, Eddie? You were there. Was I downstairs laughing? While Angela was sick?
-EDDIE: I was there. Every night. You want the truth?
-TOMMY: The truth.
-EDDIE: You were downstairs. Yes. And sometimes you laughed. Yes. Because I made you. Because Angela asked me to.
-TOMMY: She asked you?
-EDDIE: She came to my door. In twenty eighteen. She said, "Eddie, he won't cry in front of me. Make him laugh downstairs. So he can come up and be strong."
+EDDIE: She's scared, and scared people say the worst thing they can find. You know that better than anyone.
+TOMMY: Was she right, Eddie? You were there. Was I downstairs laughing while Angela was sick?
+EDDIE: I was there every night. Do you want the truth?
+TOMMY: Yes. The truth.
+EDDIE: You were downstairs, yes. And sometimes you laughed, yes. But that's because I made you laugh, and I did it because Angela asked me to.
+TOMMY: She asked you? Angela did?
+EDDIE: She came to my door in twenty eighteen. She said, "Eddie, he won't cry in front of me. Make him laugh downstairs. So he can come up and be strong."
 TOMMY: She said that? To you?
-EDDIE: She said that. And every night, after closing, you went upstairs. And you held her. Until morning. I heard that through the floor too.
-TOMMY: ...I didn't know she asked you.
-EDDIE: She didn't want you to know. Like the chemo money. That family keeps secrets out of love.
-TOMMY: And now Gina hates me.
-EDDIE: Gina doesn't hate you. Gina loves you so much she wants to take away the thing that hurts you. That's not hate.
-TOMMY: She wants to close the bar.
-EDDIE: She wants you alive. The bar is just the thing in the way.
-TOMMY: What do I do?
-EDDIE: Tonight? Nothing. Tomorrow? You call her. You tell her what you told me. About the name. About the joke.
-TOMMY: And the chemo money?
-EDDIE: That too. She's thirty-four. She can hold the truth now. She held her mother's hair at twenty-five.
-TOMMY: You and Peggy. Did you ever fight like that?
-EDDIE: Once. In nineteen eighty-one. She threw a plate at me. She missed. On purpose.
-TOMMY: On purpose?
+EDDIE: She said that. And every night, after closing, you went upstairs and you held her until morning. I heard that through the floor too.
+TOMMY: ...I didn't know she asked you. All those years, and I never knew.
+EDDIE: She didn't want you to know, just like with the chemo money. That family keeps secrets out of love.
+TOMMY: And now Gina hates me for it.
+EDDIE: Gina doesn't hate you. Gina loves you so much that she wants to take away the thing that hurts you. That's not hate.
+TOMMY: But she wants to close the bar.
+EDDIE: She wants you alive, Tommy. The bar is just the thing in the way.
+TOMMY: So what do I do now?
+EDDIE: Tonight? Nothing. Tomorrow, you call her, and you tell her what you told me, about the name and about the joke.
+TOMMY: And the chemo money? Do I tell her about that too?
+EDDIE: That too. She's thirty-four, so she can hold the truth now. She held her mother's hair at twenty-five.
+TOMMY: You and Peggy. Did you two ever fight like that?
+EDDIE: Once, in nineteen eighty-one. She threw a plate at me, and she missed. On purpose.
+TOMMY: On purpose? How do you know that?
 EDDIE: She was the best pitcher on Coffey Street. If she wanted to hit me, she would've hit me.
-TOMMY: Ha. Angela would've hit me.
-EDDIE: Angela would've hit you. And then made you a sandwich.
+TOMMY: Ha. Angela would've hit me, no question.
+EDDIE: Angela would've hit you. And then she would've made you a sandwich.
 TOMMY: "Eat first. Then we talk." ...Okay, Eddie. Tomorrow. I'll call her tomorrow.
 
 ---
@@ -175,123 +175,123 @@ TOMMY: "Eat first. Then we talk." ...Okay, Eddie. Tomorrow. I'll call her tomorr
 
 ## 한글 해석
 
-지나: 아빠, 앉아요. 아빠 거 담아 놨어요. 먼저 먹어요. 그다음에 얘기해요.
-토미: 꼭 네 엄마 같다. "먼저 먹어. 그다음에 얘기하자." 그 말은 좋은 적이 없었어.
-지나: 나쁜 거 아니에요. 그냥… 계획이에요. 일주일 내내 준비했어요.
-토미: 계획. 스프레드시트로?
-지나: 스프레드시트로요. 봐요. 이게 바예요. 매출, 비용, 이익. 그리고 이게 내년 6월이에요.
+지나: 아빠, 앉아요. 파스타 한 접시 크게 담아 놨어요. 먼저 먹어요. 그다음에 얘기해요.
+토미: 꼭 네 엄마 같다. "먼저 먹어. 그다음에 얘기하자." 이 집에서 그 말은 좋은 소식이었던 적이 없어.
+지나: 나쁜 소식 아니에요. 그냥… 계획이에요. 이번 주에 루카 재우고 매일 밤 준비했어요.
+토미: 계획이라. 맞혀 볼까, 스프레드시트도 있지?
+지나: 당연히 스프레드시트 있죠. 봐요, 이게 바예요. 매출, 비용, 이익. 그리고 이게 내년 6월이에요.
 토미: 내년 6월. 계약 끝난 다음.
-지나: 계약 끝난 다음이요. 월세가 9천이 되면 매달 적자예요. 1만 4천이 되면 엄청난 적자고요.
-토미: 숫자는 나도 알아, 지나. 난 그 숫자 속에서 살아.
-지나: 그럼 안 된다는 것도 알겠네요. 9천이어도 안 되고. 1만 4천이어도 안 되고.
-토미: 비영리 기관에서 대출해 줄 수도 있잖아. 휘틀록이 조건을 맞춰 줄 수도 있고.
-지나: 휘틀록은 8달러짜리 라테 파는 커피숍을 원해요. 조건 맞춰 주는 건 원하지 않아요.
-토미: 그래서 네 계획이 뭔데? 말해 봐.
-지나: 좋아요. 화내지 마요. 그냥 들어요. 끝까지요.
-토미: 듣고 있어.
-지나: 5월에 바를 닫아요. 아빠 조건으로요. 저쪽 조건 말고요. 큰 파티 하고요. 21년. 잘나갈 때 물러나는 거예요.
-토미: 바를 닫는다.
-지나: 장비는 팔아요. 튀김기, 냉장고, 스툴. 이름을 사겠다는 사람도 있을지 몰라요.
-토미: 이름을 판다.
-지나: 그리고 우리 집으로 들어와요. 캐럴 가든스로요. 방 하나가 남아요. 루카 봐 주시고요. 쉬어요. 20년 만에 처음으로요.
-토미: 나보고 그만두라는 거네.
+지나: 계약 끝난 다음이요. 월세가 9천으로 오르면 매달 손해예요. 1만 4천으로 오르면 엄청 손해고요.
+토미: 숫자는 나도 알아, 지나. 난 그 숫자 속에서 산다고.
+지나: 그럼 안 된다는 것도 알잖아요. 9천에도 안 되고, 1만 4천이면 더더욱 안 돼요.
+토미: 비영리 단체가 대출해 줄지도 모르지. 아니면 휘트록이랑 얘기하면 좋은 조건을 줄지도 몰라.
+지나: 휘트록은 8달러짜리 라테 파는 커피숍을 원해요. 아빠한테 좋은 조건 줄 생각 없어요.
+토미: 그래서 네 대단한 계획이 뭔데? 어디 말해 봐.
+지나: 좋아요. 제발 화내지 마요. 아무 말 하기 전에 끝까지 그냥 들어 줘요.
+토미: 알았어. 듣고 있어.
+지나: 5월에 바를 닫아요. 아빠 조건으로요. 저쪽 조건 말고. 21주년 파티를 크게 하고, 정점에서 물러나는 거예요.
+토미: 바를 닫아라.
+지나: 장비는 팔고요, 튀김기, 냉장고, 의자 같은 거요. 어쩌면 누가 이름까지 살지도 몰라요.
+토미: 이름을 팔아라.
+지나: 그리고 캐럴 가든스 우리 집으로 들어와요, 남는 방이 있으니까. 루카 봐 주고, 20년 만에 처음으로 쉬는 거예요.
+토미: 그러니까 나보고 포기하라는 거네.
 지나: 멈추라는 거예요. 그건 달라요.
-토미: 다를 거 없어. 나한텐.
-지나: 아빠, 쉰여덟이에요. 일주일에 70시간 일해요. 아빠 것도 아닌 바닥 때문에 신용카드에 1만 1천 달러가 있어요.
-토미: 그 바닥은 내 거야. 판자 하나하나. 20년 동안 그 위에 서 있었어.
-지나: 휘틀록 바닥이에요! 법적으로는 그 사람 거예요!
-토미: 뭐가 법적인지 나한테 말하지 마! 다들 나한테 뭐가 법적인지만 말해!
-지나: 누군가는 말해야죠! 아빠는 빗자루랑 맥주 한 잔이면 다 고칠 수 있다고 생각하잖아요!
-토미: 그걸로 널 키웠어! 빗자루랑 맥주 한 잔으로!
-지나: 그러니까요! 그리고 아빠를 봐요! 지치고! 빈털터리고! 혼자고!
-토미: 혼자 아니야. 바가 있어. 블록 사람들이 있어.
-지나: 블록 사람들이 아빠 월세를 내 줄 순 없잖아요!
-토미: 목소리 낮춰. 루카 자.
-지나: …알았어요. 낮출게요. 그래도 멈추진 않을 거예요.
-토미: 그럼 넌? 넌 뭐 하는데? 네 계획에서? 그 로봇 회사로 돌아가?
-지나: 아니요. 그게 다른 부분이에요. 브라이트라인을 그만둘까 생각 중이에요.
-토미: 그만둔다고? 그리고 뭐 하게?
-지나: 아직 몰라요. 좀 작은 거요. 아빠를 도울 수도 있고요. 더 작은 가게로요. 물가 말고요. 1만 4천 말고요.
+토미: 다를 거 없어, 지나. 나한텐 없어.
+지나: 아빠, 아빠 쉰여덟이에요. 일주일에 70시간 일하고요. 신용카드엔 아빠 것도 아닌 바닥 때문에 1만 1천 달러가 걸려 있어요.
+토미: 그 바닥은 내 거야. 판자 하나하나 다 내 거야. 20년 동안 그 위에 서 있었으니까.
+지나: 휘트록 바닥이에요! 법적으로 그 사람 거라고요!
+토미: 나한테 법 얘기하지 마! 다들 나한테 법 얘기만 해!
+지나: 누군가는 해야죠! 아빠는 빗자루랑 맥주 하나로 뭐든 고칠 수 있다고 생각하잖아요!
+토미: 그렇게 너를 키웠어, 빗자루랑 맥주로! 그리고 넌 잘 컸잖아!
+지나: 바로 그거예요! 그리고 지금 아빠 좀 봐요! 지쳤고, 돈 없고, 혼자잖아요!
+토미: 난 혼자 아니야. 바가 있고, 블록 전체가 있어.
+지나: 블록이 아빠 월세 내 주진 않아요, 아빠!
+토미: 목소리 낮춰. 루카 옆방에서 자.
+지나: …알았어요. 낮출게요. 근데 안 멈출 거예요. 이건 중요하니까요.
+토미: 그럼 넌? 네 완벽한 계획에서 넌 뭘 하는데? 그 로봇 회사로 돌아가?
+지나: 아니요, 그게 나머지 부분이에요. 브라이트라인 그만둘까 생각 중이에요.
+토미: 그만둬? 그리고 정확히 뭘 하게?
+지나: 아직 몰라요. 더 작은 거요. 어쩌면 아빠랑 더 작은 가게를 같이 할 수도 있고요. 물가도 아니고 한 달에 1만 4천도 아닌 데서요.
 토미: 좋은 직장 그만두고 맥주를 따르겠다고? 안 돼. 절대 안 돼.
-지나: 왜요?
-토미: 내 딸이 맥주나 따르라고 20년 동안 일주일에 70시간씩 일한 게 아니니까!
-지나: 맥주 따르고 싶을 수도 있잖아요! 내 일이 싫을 수도 있잖아요! 그런 생각은 해 본 적 있어요?
-토미: 넌 경력이 있어! 월급이 있고! 건강보험도 있어! 대학도 나왔어! 난 못 나왔어!
-지나: 그리고 지하철 플랫폼에서 공황 발작이 와요! 기억나요? 아빠가 내 아들 데리러 갔잖아요!
-토미: …기억나.
-지나: 그러니까 내 일이 꿈같은 일이라고 하지 마요. 꿈 아니에요. 공짜 타코가 있는 감옥이에요.
-토미: 그럼 다른 일을 찾아. 더 좋은 걸로. 바 말고. 바는 사람을 잡아먹어, 지나.
-지나: 바가 사람을 잡아먹어요? 그럼 왜 아빠는 그걸 목숨처럼 붙잡고 있어요?
-토미: 그게 내 목숨이니까!
-지나: 엄마 목숨이기도 했어요! 그리고 그게 엄마를 죽였어요!
-토미: 뭐라고 했어?
+지나: 왜요? 그게 왜 그렇게 끔찍해요?
+토미: 내 딸 맥주나 따르라고 20년 동안 일주일에 70시간씩 일한 게 아니니까!
+지나: 제가 맥주 따르고 싶을 수도 있잖아요! 제 일이 싫을 수도 있잖아요! 그런 생각 해 본 적 있어요?
+토미: 넌 경력도, 월급도, 건강보험도 있어! 대학도 나왔고! 난 못 나왔어!
+지나: 그리고 전 지하철 승강장에서 공황 발작이 와요! 기억나요? 아빠가 제 아들 데리러 가야 했잖아요!
+토미: …기억해.
+지나: 그러니까 제 직장이 꿈같다고 하지 마요. 꿈 아니에요. 공짜 타코가 있는 감옥이에요.
+토미: 그럼 다른 직장을 찾아, 더 좋은 데로. 근데 바는 아니야. 바는 사람을 죽여, 지나.
+지나: 바가 사람을 죽인다고요? 그럼 왜 이 바를 아빠 인생 전부인 것처럼 붙잡고 있어요?
+토미: 이게 내 인생이니까!
+지나: 엄마 인생이기도 했죠! 그리고 그게 엄마를 죽였어요!
+토미: 방금 뭐라고 했어?
 지나: 들었잖아요.
 토미: 다시 말해 봐. 내 얼굴 보고 말해 봐.
-지나: 엄마가 아플 때 아빠는 아래층에 있었어요. 매일 밤. 맥주 따르면서. 엄마는 위층에 혼자 있었고요.
-토미: 그거 사실 아니야.
-지나: 사실이에요! 주말마다 집에 왔어요. 엄마는 소파에 혼자 있었어요. 항암 치료 때문에 토하면서요. 그리고 아빠는 아래층에 있었어요. 에디랑 웃으면서요.
-토미: 웃고 있지 않았어. 감히 그런 말 하지 마.
-지나: 들었어요! 바닥을 통해서! 웃는 소리를요!
-토미: 넌 네가 뭘 들었는지 몰라. 넌 스물다섯이었어. 매일 밤 여기 있지도 않았잖아.
-지나: 모른다고 하지 마요! 내가 거기 있었어요! 내가 엄마 머리를 잡아 줬어요!
-토미: 그리고 병원비는 내가 냈어! 바로! 그 빌어먹을 맥주 한 잔 한 잔으로! 항암 치료비를 누가 냈다고 생각해, 지나?
+지나: 엄마가 아플 때 아빠는 매일 밤 아래층에서 남들한테 맥주를 따랐잖아요. 엄마는 위층에 혼자 있는데.
+토미: 그건 사실이 아니야. 너도 알잖아.
+지나: 사실이에요! 주말마다 집에 오면 엄마는 소파에 혼자 있었어요. 항암 치료 때문에 토하면서요. 그리고 아빠는 아래층에서 에디 아저씨랑 웃고 있었고요.
+토미: 난 웃고 있지 않았어. 감히 그런 말 하지 마.
+지나: 바닥 너머로 들었어요! 웃고 있었잖아요!
+토미: 네가 뭘 들었는지 넌 몰라. 넌 스물다섯이었고, 매일 밤 여기 있지도 않았어.
+지나: 모른다고 하지 마요! 전 거기 있었어요. 엄마 머리를 잡아 줬다고요!
+토미: 그리고 난 바로 병원비를 냈어! 내가 따른 그 빌어먹을 맥주 한 잔 한 잔으로! 항암 치료비를 누가 냈다고 생각해?
 지나: …네?
-토미: 우리 보험은 그 새 치료를 보장 안 해 줬어. 슬론에서 받은 거. 4만 달러였어. 하늘에서 떨어진 줄 알아?
-지나: 난… 난 그거 몰랐어요.
-토미: 그래. 몰랐지. 우리가 말 안 했으니까. 넌 막 새 직장에 들어갔으니까. 엄마가 "토미, 지나한텐 말하지 마. 자기 인생 꾸리게 해 줘"라고 했으니까.
-지나: 엄마가 그렇게 말했어요?
-토미: 엄마는 많은 말을 했어. 또 무슨 말을 했는지 알고 싶어? 바에 대해서?
+토미: 우리 보험은 새 치료를 보장하지 않았어. 슬론에서 받은 거. 4만 달러였어. 하늘에서 떨어진 줄 알아?
+지나: 저는… 저는 몰랐어요. 아무도 말 안 해 줬어요.
+토미: 그래, 몰랐지. 우리가 말 안 했으니까. 넌 새 직장이 있었고, 엄마가 그랬어. "토미, 지나한텐 말하지 마. 자기 인생 꾸리게 둬."
+지나: 엄마가 그랬어요? 정말 그렇게 말했어요?
+토미: 엄마는 많은 말을 했어. 바에 대해서 또 뭐라고 했는지 알고 싶어?
 지나: 아빠…
-토미: "계속 열어 둬. 약속해. 내 바이기도 하잖아." 그게 엄마가 한 말이야.
-지나: 엄마 바요? 아빠 바였잖아요.
-토미: 내 바였던 적은 한 번도 없어. 더 훅은 엄마 아이디어였어. 엄마가 지은 이름이야. 엄마가 골랐어. "더 훅. 사람들이 이 모퉁이에 낚이니까." 엄마 농담이야. 엄마의 끔찍한 농담.
-지나: 그 얘긴 한 번도 안 해 줬잖아요.
-토미: 넌 한 번도 안 물어봤지. 넌 내가 나쁜 놈이라고 정해 버렸어. 아래층에 있던 놈.
-지나: 그건 불공평해요.
-토미: 공평? 공평한 걸 원해? 스프레드시트 들고 와서 네 엄마 바를 닫자고 하는 게 공평해?
-지나: 무서워서 온 거예요! 아빠가 똑같이 죽어 가는 걸 보고 있으니까요!
+토미: 이랬어. "계속 열어 둬. 약속해. 내 바이기도 해." 그게 엄마가 한 말 그대로야.
+지나: 엄마 바요? 근데 늘 아빠 바였잖아요.
+토미: 한 번도 내 바였던 적 없어. 더 훅은 엄마 생각이었고, 이름도 엄마가 직접 골랐어. "더 훅. 사람들이 이 모퉁이에 낚이니까." 그게 엄마 농담이었어. 끔찍한 농담.
+지나: 그 얘긴 한 번도 안 해 줬잖아요. 평생 한 번도요.
+토미: 넌 한 번도 안 물어봤어. 내가 나쁜 놈이라고 정해 버렸지. 아래층에 있는 놈.
+지나: 그건 불공평해요, 아빠.
+토미: 공평? 공평을 원해? 넌 엄마 바를 닫으려고 스프레드시트 들고 왔어. 그게 공평해?
+지나: 무서워서 온 거예요! 아빠가 엄마랑 똑같이 죽어 가는 걸 보고 있으니까요!
 토미: 난 안 죽어!
-지나: 스스로를 죽이고 있잖아요! 천천히요! 바 때문에! 약속 때문에! 죽은 사람 때문에!
+지나: 아빠는 천천히 자기를 죽이고 있어요, 바 때문에! 약속 때문에! 죽은 사람 때문에!
 토미: 나가.
 지나: 아빠—
-토미: 내 부엌에서 나가. 지금 당장. 돌이킬 수 없는 말을 하기 전에.
+토미: 지금 당장 내 부엌에서 나가. 돌이킬 수 없는 말을 하기 전에.
 지나: 알았어요. 알았다고요! 루카 데리고 갈게요.
-토미: 깨우지 마.
-지나: 안고 갈게요. 아빠가 모든 걸 혼자 짊어진 것처럼요. 혼자서. 아빠는 아무한테도 도와 달라고 안 하니까요.
-토미: 지나…
-지나: 됐어요. 스프레드시트도 잊어요. 하고 싶은 대로 해요. 늘 그랬잖아요.
+토미: 데려갈 때 깨우지 마.
+지나: 안고 갈게요. 아빠가 모든 걸 짊어졌던 것처럼요. 혼자서. 아빠는 아무도 못 돕게 했으니까.
+토미: 지나… 잠깐만.
+지나: 됐어요. 스프레드시트도 잊어요. 하고 싶은 대로 해요. 늘 그랬으니까.
 토미: …젠장. 젠장.
-에디: 토미? 에디야. 들었어… 바닥을 통해 들었어. 들어가도 될까?
-토미: 들어와요, 에디. 건물 사람들 다 들었겠죠. 뭐 어때요.
-에디: 다는 아니야. 나랑 돌로레스만. 돌로레스는 못 들은 척했고.
-토미: 수첩에 적겠죠.
+에디: 토미? 나 에디야. 들었어… 바닥 너머로 들었어. 들어가도 될까?
+토미: 들어와요, 에디. 건물 전체가 들었는데, 에디라고 못 들었겠어요.
+에디: 건물 전체는 아니야. 나랑 돌로레스만. 돌로레스는 아무것도 못 들은 척했고.
+토미: 오늘 밤 그거 다 공책에 적을걸요.
 에디: 그럴지도. 앉아, 토미. 너 떨고 있어.
-토미: 나가라고 했어요. 내 딸한테. 손자까지 안고 있는데.
-에디: 너도 화났고. 지나도 화났지. 그걸로 세상이 끝나진 않아.
-토미: 지나가 앤젤라를… 바가 앤젤라를 죽였대요.
-에디: 무서우니까. 무서운 사람은 찾을 수 있는 제일 아픈 말을 해. 너도 알잖아.
-토미: 지나 말이 맞았어요, 에디? 에디도 거기 있었잖아요. 내가 아래층에서 웃고 있었어요? 앤젤라가 아픈데?
-에디: 거기 있었지. 매일 밤. 진실을 원해?
-토미: 진실이요.
-에디: 넌 아래층에 있었어. 그래. 그리고 가끔 웃었지. 그래. 내가 웃게 만들었으니까. 앤젤라가 부탁했으니까.
-토미: 앤젤라가 부탁했다고요?
-에디: 우리 집 문 앞에 왔었어. 2018년에. 그러더라. "에디, 그 사람은 내 앞에선 안 울어요. 아래층에서 웃게 해 주세요. 그래야 위층에 올라와서 강해질 수 있으니까."
-토미: 앤젤라가 그런 말을 했어요? 에디한테요?
-에디: 그렇게 말했어. 그리고 매일 밤 문 닫고 나면 넌 위층으로 올라갔지. 그리고 아침까지 앤젤라를 안고 있었어. 그것도 바닥을 통해 들었어.
-토미: …앤젤라가 에디한테 부탁한 줄은 몰랐어요.
-에디: 네가 알길 원하지 않았지. 항암 치료비처럼. 그 집안은 사랑 때문에 비밀을 지켜.
-토미: 그리고 이제 지나는 날 미워해요.
-에디: 지나는 널 미워하지 않아. 지나는 널 너무 사랑해서 널 아프게 하는 걸 빼앗고 싶은 거야. 그건 미움이 아니야.
-토미: 바를 닫고 싶어 하잖아요.
-에디: 네가 살아 있길 원하는 거야. 바는 그 앞을 가로막고 있는 것일 뿐이고.
-토미: 어떻게 해야 해요?
-에디: 오늘 밤엔? 아무것도. 내일은? 전화해. 나한테 한 얘기를 해 줘. 이름 얘기. 그 농담 얘기.
-토미: 항암 치료비 얘기도요?
-에디: 그것도. 지나는 서른넷이야. 이제 진실을 감당할 수 있어. 스물다섯에 엄마 머리를 잡아 줬잖아.
-토미: 에디랑 페기는요. 그렇게 싸운 적 있어요?
-에디: 한 번. 1981년에. 접시를 나한테 던졌지. 빗나갔어. 일부러.
-토미: 일부러요?
-에디: 커피 스트리트에서 공을 제일 잘 던지는 사람이었거든. 맞히고 싶었으면 맞혔을 거야.
-토미: 하. 앤젤라였으면 맞혔을 거예요.
-에디: 앤젤라였으면 맞혔겠지. 그러고 나서 샌드위치를 만들어 줬겠지.
+토미: 나가라고 했어요. 내 딸한테. 손자를 안고 있는데.
+에디: 너도 화났고 걔도 화났어. 세상이 끝난 건 아니야.
+토미: 걔가 앤젤라가… 바가 앤젤라를 죽였대요.
+에디: 무서운 거야. 무서운 사람은 찾을 수 있는 가장 나쁜 말을 해. 너도 누구보다 잘 알잖아.
+토미: 걔 말이 맞아요, 에디? 에디는 거기 있었잖아요. 앤젤라가 아플 때 내가 아래층에서 웃고 있었어요?
+에디: 난 매일 밤 거기 있었지. 진실을 원해?
+토미: 네. 진실이요.
+에디: 넌 아래층에 있었어, 그래. 가끔 웃기도 했고, 그래. 근데 그건 내가 웃게 만들어서야. 앤젤라가 부탁해서 그랬어.
+토미: 부탁했다고요? 앤젤라가요?
+에디: 2018년에 우리 집 문 앞에 왔어. 그러더라. "에디, 그 사람은 내 앞에선 안 울어요. 아래층에서 웃게 해 주세요. 그래야 올라와서 강해질 수 있어요."
+토미: 그런 말을 했어요? 에디한테?
+에디: 그랬어. 그리고 매일 밤 문 닫고 나면 넌 위층에 올라가서 아침까지 앤젤라를 안고 있었어. 그것도 바닥 너머로 들었지.
+토미: …앤젤라가 부탁한 줄 몰랐어요. 그 오랜 세월 동안 한 번도 몰랐어요.
+에디: 네가 모르길 바랐지. 항암 치료비처럼. 그 집 사람들은 사랑 때문에 비밀을 지켜.
+토미: 그리고 이제 지나는 그것 때문에 날 미워해요.
+에디: 지나는 널 미워하지 않아. 너를 너무 사랑해서 너를 아프게 하는 걸 빼앗고 싶은 거야. 그건 미움이 아니야.
+토미: 근데 바를 닫고 싶어 하잖아요.
+에디: 걔는 네가 살아 있길 바라, 토미. 바는 그냥 가로막고 있는 거야.
+토미: 그럼 이제 어떻게 해요?
+에디: 오늘 밤? 아무것도. 내일 전화해. 나한테 한 얘기를 해 줘. 이름 얘기, 농담 얘기.
+토미: 항암 치료비는요? 그것도 말해요?
+에디: 그것도. 걔 서른넷이야. 이제 진실을 감당할 수 있어. 스물다섯에 엄마 머리를 잡아 줬잖아.
+토미: 에디랑 페기는요. 둘이 그렇게 싸운 적 있어요?
+에디: 한 번. 1981년에. 페기가 나한테 접시를 던졌는데 빗나갔어. 일부러.
+토미: 일부러요? 그걸 어떻게 알아요?
+에디: 커피 스트리트 최고의 투수였거든. 맞히고 싶었으면 맞혔을 거야.
+토미: 하. 앤젤라였으면 맞혔을 거예요, 틀림없이.
+에디: 앤젤라였으면 맞혔지. 그리고 샌드위치를 만들어 줬을 거야.
 토미: "먼저 먹어. 그다음에 얘기하자." …알았어요, 에디. 내일. 내일 전화할게요.
