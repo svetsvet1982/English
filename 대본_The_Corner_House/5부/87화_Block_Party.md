@@ -17,138 +17,138 @@
 
 [Scene: Sunday, May 30, 1:00 p.m. Van Brunt Street, closed to cars. The green shed is gone. Bright brick. Folding tables, a bouncy castle, a sprinkler for the kids. Mr. Hayes wears a "BLOCK PRESIDENT" badge and holds Mrs. Esposito's old clipboard. Diego wears a smaller badge that says "YOUTH PRESIDENT."]
 
-MR. HAYES: Okay, Diego. Permit check. One p.m. to nine p.m. Pioneer to Visitation Place. No amplified music after eight thirty. Do we have the permit?
-DIEGO: It's taped to the lamppost! With the city stamp! I checked it three times!
-MR. HAYES: Good. Barricades?
-DIEGO: Both ends! Marcus put them up at noon! Orange and white!
-MARCUS: And look up, Mr. President. The shed. It's gone. Brian took it down on Friday. Nine days early.
-MR. HAYES: Nine days early. In New York. That's a miracle. Ahmed must be happy.
-MARCUS: Ahmed gave Brian a free coffee. A good one. From his store. Not Tommy's.
-DIEGO: And the mural? Where did it go?
-MARCUS: Inside the bar. All the panels. Gina hung them on the back wall. "Bad coffee, good people." It's art now.
-LUIS: Marcus! The kids are lining up. For the bike check. Twenty-two bikes already.
-MARCUS: Luis, you start on Tuesday. Today is a party. Relax.
-LUIS: I can't relax. I'm excited. And the kids' brakes are terrible. Look at this one. No pads. At all.
-MARCUS: Okay. Free safety checks. Today only. Unofficial. Before the official.
-TASHA: Hey, presidents! Where do you want the drinks table? And the cooler?
-MR. HAYES: By the sprinkler. So the kids stay wet and the soda stays cold.
-TASHA: Look at you. Two days as president, and you're already making good decisions.
-MR. HAYES: Twenty-six years on the B61. You learn where people want to stand.
-TASHA: Are you nervous? First party as president?
-MR. HAYES: Very. On the bus, I had a route. Today, there's no route. Just people.
-DIEGO: People are a route. Ms. Park says everything is a map if you look.
-MR. HAYES: Then you're my navigator, youth president.
-DIEGO: Mr. Hayes, can I make the announcement? On the microphone? The first one?
-MR. HAYES: The youth president makes the first announcement. That's in the bylaws now. Article one. Go ahead.
-DIEGO: Good afternoon, Van Brunt Street! Welcome to the block party! Food is at the grill! Bikes are at Bell Bikes! And please don't feed Biscuit! She's on a diet!
+MR. HAYES: Okay, Diego, let's do the permit check. We have the street from one p.m. to nine p.m., from Pioneer to Visitation Place, and there's no amplified music after eight thirty. Do we have the permit?
+DIEGO: It's taped to the lamppost, with the city stamp on it! I checked it three times, just like Sam taught me!
+MR. HAYES: Good work. Now what about the barricades, so the cars don't come through?
+DIEGO: They're at both ends! Marcus put them up at noon, the orange and white ones from the city!
+MARCUS: And look up, Mr. President. The shed is gone, because Brian took it down on Friday. That's nine days early.
+MR. HAYES: Nine days early, in New York? That's a miracle. Ahmed must be very happy.
+MARCUS: Ahmed was so happy that he gave Brian a free coffee from his store. It was a good one, too, not Tommy's.
+DIEGO: And what about the mural? Where did it go?
+MARCUS: All the panels are inside the bar now, because Gina hung them on the back wall. "Bad coffee, good people." It's officially art now.
+LUIS: Marcus! The kids are already lining up for the bike check, and there are twenty-two bikes so far.
+MARCUS: Luis, you don't start until Tuesday. Today is a party, so relax a little.
+LUIS: I can't relax, because I'm too excited. And the kids' brakes are terrible. Look at this one, there are no pads at all.
+MARCUS: Okay, fine. We'll do free safety checks, today only. It's unofficial, before the official start.
+TASHA: Hey, presidents! Where do you want the drinks table and the cooler?
+MR. HAYES: Put them by the sprinkler, so the kids stay wet and the soda stays cold.
+TASHA: Look at you. You've been president for two days, and you're already making good decisions.
+MR. HAYES: I drove the B61 for twenty-six years. When you do that, you learn where people want to stand.
+TASHA: Are you nervous? It's your first party as president, and the whole block is watching.
+MR. HAYES: Very. On the bus, I always had a route to follow. Today, there's no route, just people.
+DIEGO: But people are a route too. Ms. Park says everything is a map if you look at it the right way.
+MR. HAYES: Then you can be my navigator, youth president.
+DIEGO: Mr. Hayes, can I make the first announcement on the microphone? Please?
+MR. HAYES: The youth president makes the first announcement, because that's in the bylaws now, Article One. Go ahead.
+DIEGO: Good afternoon, Van Brunt Street, and welcome to the block party! Food is at the grill, and bikes are at Bell Bikes! And please don't feed Biscuit, because she's on a diet!
 
 [Scene: 3:00 p.m. In front of The Hook. Tommy works a big grill with tongs. Smoke and the smell of burgers. Frankie and Aunt Connie arrive. Eddie sits nearby in a folding chair.]
 
-TOMMY: Burgers! Hot dogs! Corn! Grab a plate! It's free! The co-op paid! Well, the stoop sale paid!
-FRANKIE: Tommy! Long time no see! You're at the grill on a Sunday? I thought you retired.
-TOMMY: I didn't retire, Frankie. I stepped back. Tuesdays and Fridays. Today is Sunday. The grill is mine.
-AUNT CONNIE: Tommy. You look thinner. Are you eating?
-TOMMY: Zia, you said I was fat at Christmas.
-AUNT CONNIE: At Christmas, you were fat. Now you're thinner. Both are bad. Give me a hot dog.
-FRANKIE: Ma, you can't eat hot dogs. The doctor said.
-AUNT CONNIE: The doctor isn't here. And it's Memorial Day weekend. Eddie, how have you been? The movie star.
-EDDIE: Good to see you, Connie. I'm good. Old. But good. Sit next to me. There's shade.
-AUNT CONNIE: I heard you married two young people on the pier. Yesterday. On the internet.
+TOMMY: Burgers! Hot dogs! Corn! Grab a plate! It's all free, everybody! The co-op paid for it! Well, actually, the stoop sale paid for it!
+FRANKIE: Tommy! Long time no see! You're working the grill on a Sunday? I thought you retired this morning.
+TOMMY: I didn't retire, Frankie, I stepped back. I'm off on Tuesdays and Fridays, but today is Sunday, so the grill is mine.
+AUNT CONNIE: Tommy, you look thinner. Are you eating enough?
+TOMMY: Zia, at Christmas you told me I was fat.
+AUNT CONNIE: At Christmas, you were fat, and now you're thinner. Both are bad. Give me a hot dog.
+FRANKIE: Ma, you can't eat hot dogs. You know what the doctor said.
+AUNT CONNIE: The doctor isn't here, and it's Memorial Day weekend. Eddie, how have you been? How's our movie star?
+EDDIE: Connie! Good to see you. I'm good, I'm old, but I'm good. Come sit next to me, because there's shade over here.
+AUNT CONNIE: I heard you married two young people on the pier yesterday. And you did it on the internet?
 EDDIE: I married them on the pier. The internet just gave me permission.
-AUNT CONNIE: Tommy, I heard about the bar. Gina is the boss now?
-TOMMY: Fifty-one percent. Since this morning. I'm forty-nine percent. And banned from the coffee machine.
-AUNT CONNIE: Banned! Finally! I've been praying for that since two thousand six. At Saint Rosalia's.
-FRANKIE: Ma lit a candle for it. Twice.
-TOMMY: Zia, you lit a candle against my coffee?
-AUNT CONNIE: A big one. God listens to Italian mothers. Eventually.
+AUNT CONNIE: Tommy, I also heard about the bar. Is it true that Gina is the boss now?
+TOMMY: She has fifty-one percent, since this morning. I have forty-nine percent, and I'm banned from the coffee machine.
+AUNT CONNIE: Banned! Finally! I've been praying for that at Saint Rosalia's since two thousand six.
+FRANKIE: It's true, Ma lit a candle for it. She did it twice.
+TOMMY: Zia, you lit a candle against my coffee? In a church?
+AUNT CONNIE: A big one. God listens to Italian mothers, eventually.
 
 [Scene: 3:30 p.m. Same place. Tommy has gone inside for more buns. Gloria walks up with her big clipboard. Diego runs over from the sprinkler.]
 
-GLORIA: Eddie O'Neill! I'm here for my eggs!
-EDDIE: Gloria! You came! Everybody, this is Gloria! From the pantry! Eighteen years!
-GLORIA: Nineteen in September. And where's my youth president? I heard there's a check.
-DIEGO: I'm here! I'm here! I have it! In an envelope!
-DIEGO: Gloria, from the stoop sale. Half of everything. One thousand one hundred and seventy dollars. For eggs.
+GLORIA: Eddie O'Neill! I'm here for my eggs, and I hear somebody has good news for me!
+EDDIE: Gloria! You came! Everybody, this is Gloria from the food pantry, and she's been feeding this neighborhood for eighteen years!
+GLORIA: It'll be nineteen in September. Now where's my youth president? I heard there's a check.
+DIEGO: I'm here! I'm here! I have it right here in an envelope!
+DIEGO: Gloria, this is from the stoop sale, half of everything we made. It's one thousand one hundred and seventy dollars, for eggs.
 GLORIA: Eleven hundred and seventy? Diego! That's almost three hundred dozen eggs!
-DIEGO: Two hundred and ninety. Almost. At four dollars a dozen.
-GLORIA: You did the math. Of course you did the math. Come here. Give me a hug.
-FRANKIE: Can I add something? To the eggs?
-GLORIA: What do you mean?
-FRANKIE: I haven't placed a bet in seven months. I calculated what I would have lost. Probably about four thousand. I'm giving five hundred of it. To the pantry. The money I didn't lose.
-AUNT CONNIE: Francesco. That's the first smart thing you've done with money since nineteen ninety-eight.
-FRANKIE: Thanks, Ma. I think.
-EDDIE: To the money we didn't lose. That's a good toast. Somebody give me a root beer.
+DIEGO: It's about two hundred and ninety dozen, actually, if eggs are four dollars a dozen.
+GLORIA: You did the math. Of course you did the math. Come here and give me a hug.
+FRANKIE: Can I add something to the eggs? I've been thinking about it all week.
+GLORIA: What do you mean, honey?
+FRANKIE: I haven't placed a bet in seven months. I calculated what I would have lost, and it's probably about four thousand. So I'm giving five hundred of it to the pantry. The money I didn't lose.
+AUNT CONNIE: Francesco, that's the first smart thing you've done with money since nineteen ninety-eight.
+FRANKIE: Thanks, Ma. I think that was a compliment.
+EDDIE: To the money we didn't lose. That's a good toast, so somebody give me a root beer.
 
 [Scene: 6:30 p.m. A small stage in the middle of the street. The Ramirez brothers play a slow song on guitar and accordion. String lights hang between the lampposts. Priya and Sam dance. Gina, Jesse, and Tess stand at the edge with paper cups.]
 
-GINA: Look at them. The newlyweds. Dancing in the street. On day two.
-TESS: Can you believe it? Two days married. And they already danced at two parties.
-JESSE: Sam is a terrible dancer. Look. He's counting. One, two, three. One, two, three. With his lips.
-TESS: He counts everything. It's his love language.
-PRIYA: Gina! Jesse! Tess! Come dance! The band said this is the last slow song!
-SAM: Please. Somebody dance. I'm running out of numbers.
-GINA: I'm working, Priya. I'm the managing partner now. I'm managing the cups.
-PRIYA: Managing partner! Since when?
-GINA: Since this morning. Nine forty. Dad signed. Fifty-one percent. Then he cried on the menu.
-SAM: Congratulations! That's huge! Did you see the chalkboard? "Ask for Gina."
-GINA: I saw it. I almost erased it. Then I took a picture. Forty pictures.
-JESSE: Gina, can I ask you a business question? As my old boss's daughter? And my friend's... boss?
-GINA: You're not my employee, Jesse. You work for Open Block. With me. Three days a week now.
-JESSE: Right. Okay. Then as a friend. Tess and I applied for 3B. The lottery. If we win, and that's a big if, can we have our first dinner at The Hook? As neighbors?
-GINA: Jesse. If you win, your first dinner is free. If you lose, your first dinner is also free. Because you'll be sad.
-TESS: That's a good business model. Win or lose, free dinner.
+GINA: Look at them, the newlyweds, dancing in the middle of the street. And it's only day two.
+TESS: Can you believe it? They've been married for two days, and they've already danced at two parties.
+JESSE: Sam is a terrible dancer, though. Look, he's counting with his lips. One, two, three. One, two, three.
+TESS: He counts everything, because it's his love language.
+PRIYA: Gina! Jesse! Tess! Come dance with us! The band said this is the last slow song!
+SAM: Please, somebody come and dance. I'm running out of numbers.
+GINA: I'm working, Priya. I'm the managing partner now, so I'm managing the cups.
+PRIYA: Managing partner? Since when? Why didn't anybody tell us?
+GINA: Since nine forty this morning. Dad signed, and I got fifty-one percent. Then he cried on the menu.
+SAM: Congratulations! That's huge! Did you see the chalkboard? It says, "Ask for Gina."
+GINA: I saw it. I almost erased it, but then I took a picture instead. Actually, I took forty pictures.
+JESSE: Gina, can I ask you a business question? I'm asking you as my old boss's daughter, and as my friend's... boss?
+GINA: You're not my employee, Jesse. You work for Open Block, with me, and I'm only there three days a week now.
+JESSE: Right, okay. Then I'm asking as a friend. Tess and I applied for 3B in the lottery. If we win, and that's a big if, can we have our first dinner at The Hook, as neighbors?
+GINA: Jesse, if you win, your first dinner is free. If you lose, your first dinner is also free, because you'll be sad.
+TESS: That's a good business model. Win or lose, you get a free dinner.
 GINA: It's a terrible business model. But it's a good neighbor model.
-PRIYA: Okay. Last song. Everybody dance! Or I'll tell Mrs. Esposito you didn't follow the rules.
-JESSE: There's no rule about dancing!
-PRIYA: There will be. By tomorrow. Typed.
-SAM: Wait. Look. Over there. Is that Kowalski? Dancing?
-TESS: With Ahmed! They're dancing together! Ahmed is teaching him!
-JESSE: The property manager and the shed victim. Dancing. That's peace.
-GINA: That's the most beautiful thing I've seen all year. Somebody take a video.
-PRIYA: Jesse, you take it. You're the internet guy.
-JESSE: Already recording. Two million views by Tuesday.
-SAM: Don't post it without permission. That's a rule. Probably.
-GINA: Everything is a rule now, Sam. Dance.
+PRIYA: Okay, this is the last song, so everybody dance! Or I'll tell Mrs. Esposito that you didn't follow the rules.
+JESSE: But there's no rule about dancing!
+PRIYA: There will be by tomorrow, and it'll be typed.
+SAM: Wait, look over there. Is that Kowalski? Is he actually dancing?
+TESS: He's dancing with Ahmed! They're dancing together, and Ahmed is teaching him the steps!
+JESSE: The property manager and the shed victim are dancing together. That's what peace looks like.
+GINA: That's the most beautiful thing I've seen all year. Somebody take a video, quick.
+PRIYA: Jesse, you take it, since you're the internet guy.
+JESSE: I'm already recording. It'll have two million views by Tuesday.
+SAM: Don't post it without permission, though. That's a rule. Probably.
+GINA: Everything is a rule now, Sam. Just dance.
 
 [Scene: 8:45 p.m. The stoop. The music has stopped. Kids sleep on their parents' shoulders. Mrs. Esposito sits on the top step with Marisol. Eddie, Mr. Hayes, and Diego sit below them. Paper lanterns glow.]
 
-MRS. ESPOSITO: Walter. Diego. That was a very good block party. Maybe the best since two thousand nineteen.
-MR. HAYES: Thank you, Dolores. I was nervous all day. Like my first day on the bus.
-DIEGO: I wasn't nervous. Okay. I was a little nervous. When the permit almost flew away.
-MARISOL: It almost flew away? The permit?
-DIEGO: The wind took it. Off the lamppost. Mango caught it. In her mouth. It's a little wet now. But legal.
+MRS. ESPOSITO: Walter, Diego, that was a very good block party. It may have been the best one since two thousand nineteen.
+MR. HAYES: Thank you, Dolores. I was nervous all day, just like on my first day driving the bus.
+DIEGO: I wasn't nervous. Okay, I was a little nervous, but only when the permit almost flew away.
+MARISOL: The permit almost flew away? When did that happen?
+DIEGO: The wind took it right off the lamppost, but Mango caught it in her mouth. It's a little wet now, but it's still legal.
 MRS. ESPOSITO: A wet legal permit. Write that in the minutes, Walter.
-MR. HAYES: I will. My first minutes. "May thirtieth. Block party. Permit saved by a dog."
-MRS. ESPOSITO: Walter, your handwriting. Let me see. Hm. Good. Better than Eddie's.
+MR. HAYES: I will, because those are my first minutes. "May thirtieth. Block party. Permit saved by a dog."
+MRS. ESPOSITO: Walter, let me see your handwriting. Hm. It's good, and it's better than Eddie's.
 EDDIE: Everybody's handwriting is better than mine. Mine looks like a heartbeat.
-MRS. ESPOSITO: I said that at the election. You remembered.
-EDDIE: I remember everything you say, Dolores. It's survival.
-MARISOL: Can I say something? Before everybody goes home?
-EDDIE: Go ahead. Make a toast. With root beer.
-MARISOL: One year ago, on this weekend, Tommy threw a party. For twenty years of the bar. Two hundred people. And the next morning, there was a note under his door.
-MRS. ESPOSITO: May thirty-first. "The building is being sold."
-MARISOL: Tomorrow is May thirty-first again. One year. And tonight, the block is full. The building is ours. The bar has a ten-year lease. Walter has a home. Diego has a school.
+MRS. ESPOSITO: I said that at the election, and you remembered.
+EDDIE: I remember everything you say, Dolores. It's a matter of survival.
+MARISOL: Can I say something before everybody goes home?
+EDDIE: Go ahead and make a toast. We'll do it with root beer.
+MARISOL: One year ago, on this same weekend, Tommy threw a party for twenty years of the bar, and two hundred people came. And the next morning, there was a note under his door.
+MRS. ESPOSITO: It was May thirty-first. The note said, "The building is being sold."
+MARISOL: Tomorrow is May thirty-first again. That means it's been one year. And tonight, the block is full and the building is ours. The bar has a ten-year lease, Walter has a home, and Diego has a school.
 DIEGO: And Mango has a wet permit.
 MARISOL: And Mango has a wet permit. So here's to one year. Raise your root beer. To the corner.
-MR. HAYES: To the corner.
-MRS. ESPOSITO: To the corner. And to the minutes.
-DIEGO: To the corner! And to Mango!
-EDDIE: To the corner. And to tomorrow. Three o'clock.
-MARISOL: Three o'clock?
-EDDIE: Memorial Day. The moment of silence. In the bar. Every year since two thousand six. For Danny. And for everybody we lost. Tomorrow, it's one year since the first time some of you sat with me.
-MR. HAYES: Can I come? I'm new.
+MR. HAYES: To the corner, and to the people on it.
+MRS. ESPOSITO: To the corner, and to the minutes.
+DIEGO: To the corner! And to Mango, who saved the permit!
+EDDIE: To the corner, and to tomorrow at three o'clock.
+MARISOL: Three o'clock? What happens at three?
+EDDIE: It's Memorial Day, so we have the moment of silence in the bar. We've done it every year since two thousand six, for Danny and for everybody we lost. Tomorrow, it's one year since the first time some of you sat with me.
+MR. HAYES: Can I come too? I'm new here, so I don't know if it's okay.
 EDDIE: Walter, you drove a bus past that bar for twenty-six years. You're not new. You're late. Three o'clock.
-DIEGO: Can I come too? Last year, I was at a soccer game.
-EDDIE: You can come. All of you. Bring nothing. Just come. Sit for one minute. That's all Danny ever asked for. One minute. And a beer.
-MRS. ESPOSITO: And it's Peggy's and Eddie's anniversary. Fifty-two years. Did you know that?
-MARISOL: Eddie! Your anniversary? Tomorrow?
-EDDIE: Fifty-two years. May thirty-first. I'll sit with her too. In the silence. She's always in the silence.
-MRS. ESPOSITO: Then I'll bring a lemon. For Peggy. Angela started it. Now it's everybody's.
-EDDIE: Goodnight, everybody. The president should go to bed. Both of them.
-DIEGO: Goodnight, Eddie! Two knocks tomorrow! At eight!
-EDDIE: Diego, the knocks are Dolores's job. She's below me.
-DIEGO: But I'm above you! Your ceiling is my floor! Dolores knocks up, I knock down!
-MR. HAYES: A knock sandwich. Okay. That's going in the bylaws too.
+DIEGO: Can I come too? Last year, I was at a soccer game, so I missed it.
+EDDIE: You can come, all of you. Don't bring anything, just come and sit for one minute. That's all Danny ever asked for, one minute and a beer.
+MRS. ESPOSITO: And tomorrow is also Peggy and Eddie's anniversary, fifty-two years. Did you know that?
+MARISOL: Eddie! Your anniversary is tomorrow? Why didn't you tell us?
+EDDIE: Fifty-two years, on May thirty-first. I'll sit with her too, in the silence. She's always in the silence.
+MRS. ESPOSITO: Then I'll bring a lemon for Peggy. Angela started that tradition, and now it belongs to everybody.
+EDDIE: Goodnight, everybody. The president should go to bed, and I mean both of them.
+DIEGO: Goodnight, Eddie! I'll do two knocks tomorrow, at eight!
+EDDIE: Diego, the knocks are Dolores's job, because she lives below me.
+DIEGO: But I live above you! Your ceiling is my floor, so Dolores knocks up and I knock down!
+MR. HAYES: A knock sandwich. Okay, that's going in the bylaws too.
 
 ---
 
@@ -182,123 +182,123 @@ MR. HAYES: A knock sandwich. Okay. That's going in the bylaws too.
 
 ## 한글 해석
 
-헤이스 씨: 좋아, 디에고. 허가 확인. 오후 1시부터 9시까지. 파이어니어부터 비지테이션 플레이스까지. 8시 반 이후엔 앰프 음악 금지. 허가증 있지?
-디에고: 가로등에 테이프로 붙여 놨어요! 시 도장 찍힌 거요! 세 번 확인했어요!
-헤이스 씨: 좋아. 바리케이드는?
-디에고: 양쪽 끝이요! 마커스 형이 정오에 세웠어요! 주황색이랑 흰색이요!
-마커스: 그리고 위를 보세요, 회장님. 비계요. 없어졌어요. 브라이언이 금요일에 철거했어요. 9일이나 일찍요.
-헤이스 씨: 9일 일찍. 뉴욕에서. 기적이네. 아메드가 기뻐하겠다.
-마커스: 아메드가 브라이언한테 공짜 커피를 줬어요. 맛있는 걸로요. 자기 가게 거요. 토미 거 말고요.
+헤이스 씨: 좋아, 디에고, 허가 확인하자. 오후 1시부터 9시까지, 파이어니어부터 비지테이션 플레이스까지 길을 쓰고, 8시 반 이후엔 앰프 음악 금지야. 허가증 있지?
+디에고: 시 도장 찍힌 걸로 가로등에 테이프로 붙여 놨어요! 샘 아저씨가 가르쳐 준 대로 세 번 확인했어요!
+헤이스 씨: 잘했어. 이제 차가 못 들어오게 바리케이드는?
+디에고: 양쪽 끝에 있어요! 마커스 형이 정오에 세웠어요, 시에서 준 주황색이랑 흰색 거요!
+마커스: 그리고 위를 보세요, 회장님. 비계가 없어졌어요, 브라이언이 금요일에 철거했거든요. 9일이나 일찍요.
+헤이스 씨: 뉴욕에서 9일 일찍이라고? 기적이네. 아메드가 아주 기뻐하겠다.
+마커스: 아메드가 너무 기뻐서 브라이언한테 자기 가게 커피를 공짜로 줬어요. 맛있는 걸로요, 토미 거 말고요.
 디에고: 그럼 벽화는요? 어디 갔어요?
-마커스: 바 안에. 판자 전부. 지나가 뒷벽에 걸었어. "커피는 별로, 사람은 최고." 이제 예술이야.
-루이스: 마커스 형! 애들이 줄 서 있어요. 자전거 점검받으려고요. 벌써 스물두 대예요.
-마커스: 루이스, 넌 화요일부터야. 오늘은 파티야. 좀 쉬어.
-루이스: 못 쉬어요. 신나요. 그리고 애들 브레이크가 엉망이에요. 이거 봐요. 패드가 없어요. 아예요.
-마커스: 알았어. 무료 안전 점검. 오늘만. 비공식으로. 공식 시작 전에.
-타샤: 저기요, 회장님들! 음료 테이블 어디 둬요? 아이스박스도요?
-헤이스 씨: 스프링클러 옆에. 그래야 애들은 젖고 탄산음료는 차갑지.
-타샤: 이것 봐. 회장 된 지 이틀 만에 벌써 좋은 결정을 내리시네.
-헤이스 씨: B61 26년이면 사람들이 어디 서고 싶어 하는지 알게 돼.
-타샤: 긴장되세요? 회장으로서 첫 파티잖아요.
-헤이스 씨: 많이. 버스엔 노선이 있었지. 오늘은 노선이 없어. 사람들만 있지.
-디에고: 사람들도 노선이에요. 박 선생님이 잘 보면 뭐든 지도래요.
-헤이스 씨: 그럼 네가 내 길잡이구나, 청소년 회장.
-디에고: 헤이스 할아버지, 제가 안내 방송 해도 돼요? 마이크로요? 첫 번째요?
-헤이스 씨: 첫 안내 방송은 청소년 회장이 하는 거야. 이제 규약에 있어. 제1조. 해 봐.
-디에고: 안녕하세요, 밴 브런트 스트리트! 블록 파티에 오신 걸 환영합니다! 음식은 그릴에 있어요! 자전거는 벨 바이크스로요! 그리고 비스킷한테 먹이 주지 마세요! 다이어트 중이에요!
-토미: 버거! 핫도그! 옥수수! 접시 하나씩 들어요! 공짜예요! 조합이 냈어요! 아니, 스툽 세일이 냈어요!
-프랭키: 토미! 오랜만이야! 일요일에 그릴 앞에 있어? 은퇴한 줄 알았는데.
-토미: 은퇴 안 했어, 프랭키. 한 발 물러난 거야. 화요일이랑 금요일. 오늘은 일요일이야. 그릴은 내 거야.
-코니 고모: 토미. 말랐네. 밥은 먹니?
-토미: 고모, 크리스마스 땐 살쪘다면서요.
-코니 고모: 크리스마스 땐 살쪘었지. 지금은 말랐어. 둘 다 안 좋아. 핫도그 줘.
-프랭키: 엄마, 핫도그 드시면 안 돼요. 의사가 그랬잖아요.
-코니 고모: 의사는 여기 없어. 그리고 메모리얼 데이 주말이야. 에디, 어떻게 지냈어요? 영화배우 양반.
-에디: 반가워요, 코니. 잘 지내요. 늙었지만. 잘 지내요. 내 옆에 앉아요. 그늘이에요.
-코니 고모: 어제 부두에서 젊은 사람 둘을 결혼시켰다며요. 인터넷으로요.
+마커스: 판자는 전부 바 안에 있어, 지나가 뒷벽에 걸었거든. "커피는 별로, 사람은 최고." 이제 공식적으로 예술이야.
+루이스: 마커스 형! 애들이 벌써 자전거 점검받으려고 줄 서 있어요, 지금까지 스물두 대예요.
+마커스: 루이스, 넌 화요일에야 시작이잖아. 오늘은 파티니까 좀 쉬어.
+루이스: 너무 신나서 못 쉬겠어요. 그리고 애들 브레이크가 엉망이에요. 이거 봐요, 패드가 아예 없어요.
+마커스: 좋아, 알았어. 오늘만 무료 안전 점검을 하자. 공식 시작 전에 하는 비공식이야.
+타샤: 저기요, 회장님들! 음료 테이블이랑 아이스박스는 어디에 둘까요?
+헤이스 씨: 스프링클러 옆에 둬요. 그래야 애들은 계속 젖어 있고 탄산음료는 계속 차가우니까.
+타샤: 이것 봐요. 회장 된 지 이틀인데 벌써 좋은 결정을 하시네요.
+헤이스 씨: B61을 26년 동안 몰았어요. 그러다 보면 사람들이 어디 서 있고 싶어 하는지 알게 돼요.
+타샤: 긴장되세요? 회장으로서 첫 파티인데, 블록 전체가 지켜보고 있잖아요.
+헤이스 씨: 아주요. 버스에선 늘 따라갈 노선이 있었어요. 오늘은 노선이 없어요, 사람들뿐이죠.
+디에고: 근데 사람들도 노선이에요. 박 선생님이 제대로 보면 모든 게 지도래요.
+헤이스 씨: 그럼 네가 내 길잡이 해 줘, 청소년 회장.
+디에고: 헤이스 할아버지, 마이크로 첫 번째 안내 방송 해도 돼요? 네?
+헤이스 씨: 첫 안내 방송은 청소년 회장이 하는 거야, 이제 규약 제1조에 있거든. 해 봐.
+디에고: 안녕하세요, 밴 브런트 스트리트, 블록 파티에 오신 걸 환영합니다! 음식은 그릴에 있고, 자전거는 벨 바이크스에 있어요! 그리고 비스킷한테 먹이 주지 마세요, 다이어트 중이에요!
+토미: 버거! 핫도그! 옥수수! 접시 하나씩 들어요! 다들, 다 공짜예요! 조합이 냈어요! 아니, 사실은 스툽 세일이 냈어요!
+프랭키: 토미! 오랜만이야! 일요일에 그릴 앞에 있어? 오늘 아침에 은퇴한 줄 알았는데.
+토미: 은퇴 안 했어, 프랭키, 한 발 물러난 거야. 화요일이랑 금요일엔 쉬지만, 오늘은 일요일이니까 그릴은 내 거야.
+코니 고모: 토미, 말랐네. 밥은 잘 먹니?
+토미: 고모, 크리스마스 땐 저보고 살쪘다면서요.
+코니 고모: 크리스마스 땐 살쪘었고, 지금은 말랐어. 둘 다 안 좋아. 핫도그 줘.
+프랭키: 엄마, 핫도그 드시면 안 돼요. 의사가 뭐라고 했는지 아시잖아요.
+코니 고모: 의사는 여기 없고, 메모리얼 데이 주말이야. 에디, 어떻게 지냈어요? 우리 영화배우 양반은 잘 있어요?
+에디: 코니! 반가워요. 잘 지내요, 늙었지만 잘 지내요. 이리 와서 내 옆에 앉아요, 여기 그늘이에요.
+코니 고모: 어제 부두에서 젊은 사람 둘을 결혼시켰다며요. 그걸 인터넷으로 했다고요?
 에디: 부두에서 결혼시켰지. 인터넷은 허락만 해 줬고.
-코니 고모: 토미, 바 얘기 들었다. 이제 지나가 사장이라며?
-토미: 51퍼센트요. 오늘 아침부터요. 난 49퍼센트고요. 그리고 커피 머신 출입 금지예요.
-코니 고모: 금지! 드디어! 2006년부터 그걸 위해 기도했어. 산타 로살리아 성당에서.
-프랭키: 엄마가 그걸 위해 초를 켰어요. 두 번이나요.
-토미: 고모, 내 커피 반대한다고 초를 켰어요?
-코니 고모: 큰 걸로. 하느님은 이탈리아 엄마 말을 들어 주셔. 결국엔.
-글로리아: 에디 오닐! 내 달걀 받으러 왔어요!
-에디: 글로리아! 왔구나! 여러분, 이분이 글로리아예요! 팬트리의! 18년이요!
-글로리아: 9월이면 19년이에요. 그리고 우리 청소년 회장님은 어디 있어요? 수표가 있다던데.
-디에고: 여기요! 여기 있어요! 갖고 있어요! 봉투에요!
-디에고: 글로리아, 스툽 세일에서요. 전부의 절반이요. 1,170달러요. 달걀 사세요.
-글로리아: 1,170? 디에고! 그럼 달걀이 거의 300판이야!
-디에고: 290판이요. 거의요. 한 판에 4달러면요.
-글로리아: 계산했구나. 당연히 계산했겠지. 이리 와. 안아 줘.
-프랭키: 저도 보태도 돼요? 달걀에요?
-글로리아: 무슨 뜻이에요?
-프랭키: 일곱 달 동안 베팅을 한 번도 안 했어요. 잃었을 돈을 계산해 봤어요. 아마 4천쯤일 거예요. 그중 500을 낼게요. 팬트리에요. 내가 잃지 않은 돈이요.
-코니 고모: 프란체스코. 1998년 이후로 네가 돈으로 한 일 중에 처음으로 똑똑한 일이네.
-프랭키: 고마워요, 엄마. 아마도요.
-에디: 우리가 잃지 않은 돈을 위하여. 좋은 건배사네. 누가 루트비어 좀 줘.
-지나: 저것 봐요. 신혼부부요. 길에서 춤추고 있어요. 결혼 이틀째에요.
-테스: 믿어져? 결혼한 지 이틀. 벌써 파티 두 번에서 춤을 췄어.
-제시: 샘은 춤을 엄청 못 춰요. 봐요. 세고 있어요. 하나, 둘, 셋. 하나, 둘, 셋. 입술로요.
-테스: 뭐든 세잖아. 그게 그 사람 사랑의 언어야.
-프리야: 지나! 제시! 테스! 와서 춤춰요! 밴드가 이게 마지막 느린 곡이래요!
-샘: 제발. 누가 춤 좀 춰 줘요. 숫자가 다 떨어져 가요.
-지나: 저 일하는 중이에요, 프리야. 이제 대표 동업자거든요. 컵을 관리하고 있어요.
-프리야: 대표 동업자! 언제부터요?
-지나: 오늘 아침부터요. 9시 40분이요. 아빠가 서명했어요. 51퍼센트요. 그러고는 메뉴판에 대고 울었어요.
-샘: 축하해요! 엄청난 일이에요! 칠판 봤어요? "지나를 찾아 주세요."
-지나: 봤어요. 지울 뻔했어요. 그러다 사진을 찍었어요. 마흔 장이요.
-제시: 지나, 사업 질문 하나 해도 돼요? 옛 사장님의 딸로서요? 그리고 친구의… 사장님으로서요?
-지나: 넌 내 직원 아니잖아, 제시. 오픈 블록에서 일하잖아. 나랑. 이제 난 주 3일이고.
-제시: 맞다. 좋아요. 그럼 친구로서요. 테스랑 저 3B 신청했잖아요. 추첨이요. 당첨되면, 그건 큰 '만약'이지만, 첫 저녁을 더 훅에서 먹어도 돼요? 이웃으로서요?
-지나: 제시. 당첨되면 첫 저녁은 공짜야. 떨어져도 첫 저녁은 공짜고. 슬플 테니까.
-테스: 좋은 사업 모델이네. 붙든 떨어지든 저녁 공짜.
+코니 고모: 토미, 바 얘기도 들었다. 이제 지나가 사장이라는 게 사실이야?
+토미: 오늘 아침부터 51퍼센트가 걔 거예요. 난 49퍼센트고, 커피 머신 출입 금지예요.
+코니 고모: 금지! 드디어! 2006년부터 산타 로살리아 성당에서 그걸 위해 기도했어.
+프랭키: 진짜예요, 엄마가 그걸 위해 초를 켰어요. 두 번이나요.
+토미: 고모, 내 커피 반대한다고 초를 켰어요? 성당에서요?
+코니 고모: 큰 걸로. 하느님은 이탈리아 엄마 말을 들어 주셔, 결국엔.
+글로리아: 에디 오닐! 내 달걀 받으러 왔어요, 누가 좋은 소식이 있다던데요!
+에디: 글로리아! 왔구나! 여러분, 이분이 푸드 팬트리의 글로리아예요, 18년 동안 이 동네를 먹여 살렸어요!
+글로리아: 9월이면 19년이에요. 그런데 우리 청소년 회장님은 어디 있어요? 수표가 있다던데.
+디에고: 여기요! 여기 있어요! 봉투에 넣어서 바로 여기 있어요!
+디에고: 글로리아, 이건 스툽 세일에서 번 것의 절반이에요. 달걀값으로 1,170달러예요.
+글로리아: 1,170달러? 디에고! 그럼 거의 300판이야!
+디에고: 사실 달걀이 한 판에 4달러면 290판쯤이에요.
+글로리아: 계산까지 했구나. 당연히 계산했겠지. 이리 와서 안아 줘.
+프랭키: 달걀에 좀 보태도 될까요? 일주일 내내 생각해 봤어요.
+글로리아: 무슨 말이야, 자기?
+프랭키: 7개월 동안 도박을 한 번도 안 했어요. 그동안 잃었을 돈을 계산해 봤는데, 아마 4천 달러쯤 될 거예요. 그래서 그중 500달러를 팬트리에 낼게요. 내가 잃지 않은 돈이에요.
+코니 고모: 프란체스코, 1998년 이후로 네가 돈으로 한 일 중에 처음으로 똑똑한 일이다.
+프랭키: 고마워요, 엄마. 칭찬 맞죠?
+에디: 우리가 잃지 않은 돈을 위하여. 좋은 건배사네, 누가 루트비어 좀 줘.
+지나: 저 둘 좀 봐, 신혼부부가 길 한복판에서 춤추고 있어. 그것도 겨우 이틀째에.
+테스: 믿어져? 결혼한 지 이틀인데 벌써 파티 두 번에서 춤췄어.
+제시: 근데 샘은 춤 진짜 못 춰요. 봐요, 입으로 세고 있어요. 하나, 둘, 셋. 하나, 둘, 셋.
+테스: 뭐든 세잖아, 그게 샘의 사랑의 언어야.
+프리야: 지나! 제시! 테스! 와서 같이 춰! 밴드가 이게 마지막 느린 곡이래!
+샘: 제발, 누가 와서 좀 춰 줘. 셀 숫자가 떨어져 가.
+지나: 나 일하는 중이야, 프리야. 이제 대표 동업자라서 컵을 관리하고 있어.
+프리야: 대표 동업자? 언제부터? 왜 아무도 말 안 해 줬어?
+지나: 오늘 아침 9시 40분부터. 아빠가 서명했고, 내가 51퍼센트를 받았어. 그리고 아빠가 메뉴판에 대고 울었지.
+샘: 축하해! 대단하다! 칠판 봤어? "지나를 찾아 주세요"라고 써 있던데.
+지나: 봤어. 지울 뻔했는데, 대신 사진을 찍었어. 사실 마흔 장 찍었어.
+제시: 지나, 사업 질문 하나 해도 돼요? 내 옛 사장님 딸로서, 그리고 내 친구의… 사장으로서 묻는 거예요.
+지나: 넌 내 직원 아니야, 제시. 넌 나랑 같이 오픈 블록에서 일하고, 난 이제 거기 주 3일만 있어.
+제시: 맞다, 그렇죠. 그럼 친구로서 물을게요. 테스랑 제가 추첨으로 3B를 신청했어요. 만약 당첨되면, 그건 큰 '만약'이지만, 첫 저녁을 이웃으로서 더 훅에서 먹어도 돼요?
+지나: 제시, 당첨되면 첫 저녁은 공짜야. 떨어져도 첫 저녁은 공짜고, 슬플 테니까.
+테스: 좋은 사업 모델이네요. 붙든 떨어지든 공짜 저녁.
 지나: 끔찍한 사업 모델이지. 그래도 좋은 이웃 모델이야.
-프리야: 좋아요. 마지막 곡이요. 다들 춤춰요! 안 그러면 에스포지토 부인한테 규칙 안 지켰다고 이를 거예요.
-제시: 춤에 대한 규칙은 없잖아요!
-프리야: 생길 거야. 내일까지. 타자로 쳐서.
-샘: 잠깐. 봐. 저기. 저거 코왈스키야? 춤추는 거?
-테스: 아메드랑! 둘이 같이 춤추고 있어! 아메드가 가르쳐 주고 있어!
-제시: 관리인이랑 비계 피해자요. 같이 춤추네요. 그게 평화죠.
-지나: 올해 본 것 중에 제일 아름다운 장면이에요. 누가 영상 좀 찍어요.
-프리야: 제시, 네가 찍어. 인터넷 담당이잖아.
-제시: 벌써 찍고 있어요. 화요일까지 조회 수 200만이요.
-샘: 허락 없이 올리지 마. 그건 규칙이야. 아마도.
-지나: 이젠 뭐든 다 규칙이에요, 샘. 춤춰요.
-에스포지토 부인: 월터. 디에고. 아주 좋은 블록 파티였어요. 2019년 이후로 최고일지도 몰라요.
-헤이스 씨: 고마워요, 돌로레스. 하루 종일 긴장했어요. 버스 첫 출근 날처럼요.
-디에고: 전 긴장 안 했어요. 좋아요. 조금 긴장했어요. 허가증이 날아갈 뻔했을 때요.
-마리솔: 날아갈 뻔했어? 허가증이?
-디에고: 바람이 가져갔어요. 가로등에서요. 망고가 잡았어요. 입으로요. 지금 좀 젖었어요. 그래도 합법이에요.
+프리야: 자, 마지막 곡이니까 다들 춤춰! 안 그러면 에스포지토 부인한테 규칙 안 지켰다고 이를 거야.
+제시: 근데 춤에 관한 규칙은 없잖아요!
+프리야: 내일까지는 생길 거야, 타이핑된 걸로.
+샘: 잠깐, 저기 봐. 저거 코왈스키야? 진짜 춤추고 있는 거야?
+테스: 아메드랑 춰요! 둘이 같이 추는데, 아메드가 스텝을 가르쳐 주고 있어요!
+제시: 관리인과 비계 피해자가 같이 춤추고 있어요. 저게 평화의 모습이죠.
+지나: 올해 본 것 중에 제일 아름답다. 누가 빨리 동영상 좀 찍어.
+프리야: 제시, 네가 찍어, 인터넷 담당이잖아.
+제시: 벌써 찍고 있어요. 화요일까지 조회수 200만 나올 거예요.
+샘: 그래도 허락 없이 올리진 마. 그게 규칙이야. 아마도.
+지나: 이제 다 규칙이야, 샘. 그냥 춤춰.
+에스포지토 부인: 월터, 디에고, 아주 좋은 블록 파티였어요. 2019년 이후로 최고였을지도 몰라요.
+헤이스 씨: 고마워요, 돌로레스. 하루 종일 긴장했어요, 버스 운전 첫날처럼요.
+디에고: 전 긴장 안 했어요. 좋아요, 조금 긴장했는데, 허가증이 날아갈 뻔했을 때만요.
+마리솔: 허가증이 날아갈 뻔했다고? 언제 그랬어?
+디에고: 바람이 가로등에서 확 떼어 갔는데, 망고가 입으로 잡았어요. 지금 좀 젖었지만 그래도 합법이에요.
 에스포지토 부인: 젖은 합법 허가증. 회의록에 적어요, 월터.
-헤이스 씨: 적을게요. 내 첫 회의록이에요. "5월 30일. 블록 파티. 허가증을 개가 구함."
-에스포지토 부인: 월터, 글씨 좀 봐요. 보여 줘요. 흠. 좋네요. 에디보다 나아요.
+헤이스 씨: 적을게요, 내 첫 회의록이니까요. "5월 30일. 블록 파티. 허가증을 개가 구함."
+에스포지토 부인: 월터, 글씨 좀 보여 줘요. 흠. 좋네요, 에디보다 나아요.
 에디: 다들 나보다 글씨를 잘 써. 내 건 심전도 같거든.
-에스포지토 부인: 선거 때 내가 한 말이네요. 기억하네요.
-에디: 당신이 하는 말은 다 기억해, 돌로레스. 생존 문제거든.
-마리솔: 하나 말해도 돼요? 다들 집에 가기 전에요?
-에디: 해. 건배해. 루트비어로.
-마리솔: 1년 전, 이번 주말에 토미가 파티를 열었어요. 바 20주년이요. 200명이 왔죠. 그리고 다음 날 아침 토미 문 밑에 쪽지가 있었어요.
-에스포지토 부인: 5월 31일. "건물이 팔리고 있음."
-마리솔: 내일이 또 5월 31일이에요. 1년이요. 그리고 오늘 밤 블록은 가득 찼어요. 건물은 우리 거예요. 바는 10년 계약을 했어요. 월터는 집이 생겼어요. 디에고는 학교가 생겼고요.
+에스포지토 부인: 선거 때 내가 한 말인데, 기억하네요.
+에디: 당신이 하는 말은 다 기억해, 돌로레스. 생존의 문제거든.
+마리솔: 다들 집에 가기 전에 하나 말해도 돼요?
+에디: 해, 건배해. 루트비어로 하자.
+마리솔: 1년 전 바로 이번 주말에 토미가 바 20주년 파티를 열었고, 200명이 왔어요. 그리고 다음 날 아침 토미 문 밑에 쪽지가 있었죠.
+에스포지토 부인: 5월 31일이었어요. 쪽지엔 "건물이 팔리고 있음"이라고 쓰여 있었죠.
+마리솔: 내일이 또 5월 31일이에요. 1년이 된 거죠. 그리고 오늘 밤 블록은 가득 찼고, 건물은 우리 거예요. 바는 10년 계약을 했고, 월터는 집이 생겼고, 디에고는 학교가 생겼어요.
 디에고: 그리고 망고는 젖은 허가증이 생겼고요.
 마리솔: 그리고 망고는 젖은 허가증이 생겼고요. 그러니 1년을 위하여. 루트비어를 들어요. 모퉁이를 위하여.
-헤이스 씨: 모퉁이를 위하여.
-에스포지토 부인: 모퉁이를 위하여. 그리고 회의록을 위하여.
-디에고: 모퉁이를 위하여! 그리고 망고를 위하여!
-에디: 모퉁이를 위하여. 그리고 내일을 위하여. 3시.
-마리솔: 3시요?
-에디: 메모리얼 데이. 묵념. 바에서. 2006년부터 매년. 대니를 위해. 그리고 우리가 잃은 모두를 위해. 내일이면 너희 중 몇 명이 처음 나랑 같이 앉은 지 1년이야.
-헤이스 씨: 나도 가도 될까요? 새로 왔는데요.
+헤이스 씨: 모퉁이를 위하여, 그리고 거기 사는 사람들을 위하여.
+에스포지토 부인: 모퉁이를 위하여, 그리고 회의록을 위하여.
+디에고: 모퉁이를 위하여! 그리고 허가증을 구한 망고를 위하여!
+에디: 모퉁이를 위하여, 그리고 내일 3시를 위하여.
+마리솔: 3시요? 3시에 뭐가 있어요?
+에디: 메모리얼 데이라서 바에서 묵념을 해. 2006년부터 매년 대니와 우리가 잃은 모두를 위해 해 왔지. 내일이면 너희 중 몇 명이 처음 나랑 같이 앉은 지 1년이야.
+헤이스 씨: 나도 가도 될까요? 새로 와서 괜찮은지 모르겠네요.
 에디: 월터, 넌 26년 동안 그 바 앞을 버스로 지나갔어. 새로 온 게 아니야. 늦게 온 거지. 3시야.
-디에고: 저도 가도 돼요? 작년엔 축구 경기에 있었어요.
-에디: 와도 돼. 다들. 아무것도 가져오지 마. 그냥 와. 1분만 앉아 있어. 대니가 원한 건 그게 전부였어. 1분. 그리고 맥주 한 잔.
-에스포지토 부인: 그리고 내일은 페기랑 에디 결혼기념일이에요. 52년이요. 알았어요?
-마리솔: 에디! 결혼기념일이에요? 내일이요?
-에디: 52년. 5월 31일. 그 사람이랑도 같이 앉을 거야. 침묵 속에서. 그 사람은 늘 침묵 속에 있어.
-에스포지토 부인: 그럼 레몬 가져갈게요. 페기를 위해서요. 앤젤라가 시작했죠. 이제 모두의 것이에요.
-에디: 다들 잘 자. 회장님들은 자러 가야지. 둘 다.
-디에고: 잘 자요, 에디! 내일 8시에 두 번요!
-에디: 디에고, 노크는 돌로레스 일이야. 그 사람이 내 아래층이잖아.
-디에고: 근데 전 위층이에요! 에디 천장이 제 바닥이에요! 돌로레스 할머니는 위로 두드리고, 저는 아래로 두드릴게요!
-헤이스 씨: 노크 샌드위치라. 좋아. 그것도 규약에 넣자.
+디에고: 저도 가도 돼요? 작년엔 축구 경기에 가서 못 갔어요.
+에디: 와도 돼, 다들. 아무것도 가져오지 말고 그냥 와서 1분만 앉아 있어. 대니가 원한 건 그게 전부였어, 1분과 맥주 한 잔.
+에스포지토 부인: 그리고 내일은 페기랑 에디 결혼기념일이기도 해요, 52년이요. 알았어요?
+마리솔: 에디! 결혼기념일이 내일이에요? 왜 말 안 했어요?
+에디: 5월 31일로 52년이야. 침묵 속에서 그 사람이랑도 같이 앉을 거야. 그 사람은 늘 침묵 속에 있어.
+에스포지토 부인: 그럼 페기를 위해 레몬을 가져갈게요. 앤젤라가 시작한 전통인데, 이제 모두의 것이에요.
+에디: 다들 잘 자. 회장님은 자러 가야지, 둘 다 말이야.
+디에고: 잘 자요, 에디! 내일 8시에 두 번 노크할게요!
+에디: 디에고, 노크는 돌로레스 일이야, 그 사람이 내 아래층에 사니까.
+디에고: 근데 전 위층에 살잖아요! 에디 천장이 제 바닥이니까, 돌로레스 할머니는 위로 두드리고 저는 아래로 두드릴게요!
+헤이스 씨: 노크 샌드위치라. 좋아, 그것도 규약에 넣자.
