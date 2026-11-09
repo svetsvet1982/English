@@ -56,7 +56,7 @@ TOMMY: No, it isn't. Construction debris has to go in a dumpster or a container,
 MRS. ESPOSITO: So they broke two rules. There was no bin, and they threw out construction debris.
 TOMMY: And then the rats broke the bags.
 MRS. ESPOSITO: That's it. I'm calling Bridgewater right now.
-TOMMY: Call Kowalski. He fixes bikes, so maybe he can fix trash too.
+TOMMY: Call Kowalski. Marcus fixed his brakes, so he owes this block a favor.
 
 [Scene: 10:00 a.m. The same sidewalk. Kowalski arrives. Marisol comes down the stairs.]
 
@@ -207,7 +207,7 @@ TOMMY: And tell them the rats say thank you for the pizza.
 에스포지토 부인: 그러니까 규칙을 두 개나 어겼네요. 통도 없었고, 공사 폐기물까지 내다 버렸어요.
 토미: 그리고 쥐가 봉투를 뜯었고.
 에스포지토 부인: 됐어요. 지금 당장 브리지워터에 전화할 거예요.
-토미: 코왈스키한테 해요. 자전거를 고친다니까 쓰레기도 고칠지 모르죠.
+토미: 코왈스키한테 해요. 마커스가 브레이크를 고쳐 줬으니 이 블록에 신세 진 거죠.
 코왈스키: 에스포지토 부인, 루소 씨, 안녕하세요. 메시지 받았습니다. 사실 여섯 개 다 받았어요.
 에스포지토 부인: 일곱 개예요. 하나는 사무실 음성 사서함으로 갔어요.
 코왈스키: 일곱 개, 네. 그럼 오늘 아침 쓰레기 문제가 있다고 들었습니다.
