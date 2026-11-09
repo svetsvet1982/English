@@ -59,7 +59,7 @@ MRS. ESPOSITO: That's Richie, the son. The one who lives in New Jersey.
 EDDIE: Sal always signed these himself. He did it for fifty years.
 MARISOL: Maybe Sal is sick. Has anybody talked to him lately?
 MRS. ESPOSITO: Not since Christmas. He sent me a card, but the handwriting was shaky.
-EDDIE: Well, he's ninety years old. We're all getting old, Dolores.
+EDDIE: Well, he's almost ninety years old. We're all getting old, Dolores.
 
 [Scene: Noon. Apartment 3B. Jesse is asleep on the couch.]
 
@@ -218,7 +218,7 @@ EDDIE: And somebody should call Sal. I'll do it. I have his number on my old pho
 에디: 살은 늘 이걸 직접 서명했는데. 50년 동안 그랬어.
 마리솔: 살이 아프신가? 최근에 누구 얘기해 본 사람 있어요?
 에스포지토 부인: 크리스마스 이후론 없어요. 카드를 보냈는데 글씨가 떨렸어요.
-에디: 뭐, 아흔 살이잖아. 우리 다 늙어 가는 거지, 돌로레스.
+에디: 뭐, 곧 아흔이잖아. 우리 다 늙어 가는 거지, 돌로레스.
 카일: 제시. 제시! 일어나, 야. 이거 좀 봐야 돼.
 제시: 응? 몇 시야?
 카일: 12시야. 집주인한테 온 이 편지 좀 봐. 새 월세야.
