@@ -149,7 +149,7 @@ TOMMY: In the window, right in the middle. So everybody on the corner can see it
 ## 표현 정리 (낭독하지 않음)
 
 - **1형 조건문 (If + 현재, will + 동사원형)** — 실제로 일어날 수 있는 조건과 결과. *If people have fun, they'll come back. / If we sell a hundred tickets, we'll make two thousand. / If you don't grow a little, the numbers will get thinner.* if절에는 will을 쓰지 않는다.
-- **What if…?** — "~하면 어때? / ~하면 어떡해?" 제안과 걱정 양쪽에 쓴다. (What if you do a "twenty for twenty" deal? / What if the rent goes up?)
+- **What if…?** — "~하면 어때? / ~하면 어떡해?" 제안과 걱정 양쪽에 쓴다. (What if you do a "twenty for twenty" deal? / What if the rent goes up next year?)
 - **수입·비용 어휘** — *sales*(매출), *come in / go out*(들어오다 / 나가다), *rent, suppliers, staff, payroll, insurance, card fees, license, repairs, salary, profit*.
 - **sixty-five hundred** — 6,500. 미국 구어에서 천 단위 숫자를 '백'으로 세는 방식(thirty-four hundred = 3,400).
 - **add it (all) up** — 합계를 내다. (Let me add it all up.)
