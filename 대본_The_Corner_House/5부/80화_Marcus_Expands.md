@@ -17,134 +17,134 @@
 
 [Scene: Thursday, May 20, 2:00 p.m. Bell Bikes. Bikes hang from the ceiling. In the back, a gray fireproof charging cabinet hums. Gina sits at the workbench with a laptop. Marcus wipes grease off his hands.]
 
-GINA: Okay. Read me the email again. The city's offer. Slowly. I want the exact words.
-MARCUS: "Bell Bikes is invited to become an official Safe Charging Hub. One-year contract. Forty thousand dollars. For battery swaps, free safety checks, and supervised charging."
-GINA: Forty thousand. That's real money, Marcus.
-MARCUS: It's real money. And real work. Right now, I fix bikes alone. Twelve hours a day. Six days a week. If I take this, I need help.
-GINA: Okay. Let's build a simple business plan. Revenue first. What do you make now? From repairs?
-MARCUS: About ninety thousand a year. Before expenses. Rent, parts, insurance, electricity.
-GINA: And expenses?
-MARCUS: Rent is three thousand three hundred a month. That's almost forty thousand a year. Parts, maybe twenty. Insurance, eight. After everything, I take home about twenty-two thousand.
-GINA: Twenty-two thousand. For seventy-two hours a week. Marcus, that's less than six dollars an hour.
-MARCUS: I know. Don't say it out loud. My mother will hear you from Flatbush.
-GINA: Okay. With the city contract, revenue goes up forty thousand. Say you hire someone part-time. Thirty hours a week. Twenty-four dollars an hour. That's about thirty-seven thousand a year.
-MARCUS: So the contract pays for the person. Almost exactly.
-GINA: Almost exactly. And the person helps with repairs too. So you fix more bikes. More revenue. And you finally take Mondays off. Like your New Year's resolution.
-MARCUS: My resolution. I took one Monday off. In February. I came in anyway. To check the cabinet.
-GINA: That's not a day off. That's a day of guilt. What about health insurance? For the employee?
-MARCUS: That's the hard part. A small business plan for one person is about seven hundred a month.
-GINA: There's a state marketplace. And a small business credit. I'll check. It might bring it down to four hundred. You'd pay half.
-MARCUS: Half. Okay. I want to do it right. My first employee is not going to be like me. No insurance. Crashing into bike racks.
-GINA: Then write the job post. Now. Read it to me.
-MARCUS: "Bell Bikes is hiring. Mechanic assistant. Thirty hours a week. Twenty-four dollars an hour. Health insurance help. Experience with e-bikes preferred. Must care about people. And batteries."
-GINA: "Must care about people. And batteries." I like it. It's honest. Post it.
-MARCUS: Already posted. On the window. With tape. Somebody already called. At noon.
-GINA: Who?
-MARCUS: Luis. He's coming at three.
-GINA: Luis? The delivery guy? With the brakes?
-MARCUS: The brakes were a year ago. He's careful now. Too careful. He checks his tires twice a day.
-GINA: Marcus, one more thing for the plan. Space. Where does the extra work happen? The shop is tiny.
-MARCUS: The sidewalk. A bike rack outside. For the battery swaps. People ride up, swap, ride away. Two minutes.
-GINA: The sidewalk in front of the building. That's co-op property. The board has to approve it.
-MARCUS: I'm not on the board. The stores don't vote.
-GINA: But the stores can ask. I'll put it on Marisol's agenda. Next meeting.
+GINA: Okay, read me the city's email again, slowly. I want the exact words before we start doing math.
+MARCUS: "Bell Bikes is invited to become an official Safe Charging Hub. One-year contract, forty thousand dollars, for battery swaps, free safety checks, and supervised charging."
+GINA: Forty thousand. That's real money, Marcus, especially for a shop this size.
+MARCUS: It's real money, and it's real work too. Right now I fix bikes alone, twelve hours a day, six days a week. If I take this, I need help.
+GINA: Okay, then let's build a simple business plan. Revenue comes first, so what do you make now from repairs?
+MARCUS: About ninety thousand a year, but that's before expenses like rent, parts, insurance, and electricity.
+GINA: And how much are the expenses?
+MARCUS: Rent is three thousand three hundred a month, which is almost forty thousand a year. Parts are maybe twenty, and insurance is eight. After everything, I take home about twenty-two thousand.
+GINA: Twenty-two thousand, for seventy-two hours a week? Marcus, that's less than six dollars an hour.
+MARCUS: I know, so please don't say it out loud. My mother will hear you all the way from Flatbush.
+GINA: Okay. With the city contract, your revenue goes up forty thousand. Now say you hire someone part-time, thirty hours a week at twenty-four dollars an hour. That's about thirty-seven thousand a year.
+MARCUS: So the contract pays for the person, almost exactly.
+GINA: Almost exactly. And the person helps with repairs too, so you fix more bikes and bring in more revenue. Then you can finally take Mondays off, like your New Year's resolution.
+MARCUS: My resolution. I took exactly one Monday off, in February, and I came in anyway to check the cabinet.
+GINA: That's not a day off, that's a day of guilt. What about health insurance for the employee?
+MARCUS: That's the hard part. A small business plan for one person costs about seven hundred a month.
+GINA: There's a state marketplace, and there's also a small business credit. I'll check, but it might bring the cost down to four hundred, and you'd pay half.
+MARCUS: Half. Okay, I want to do it right. My first employee is not going to end up like me, with no insurance, crashing into bike racks.
+GINA: Then write the job post right now, and read it to me.
+MARCUS: "Bell Bikes is hiring a mechanic assistant. Thirty hours a week, twenty-four dollars an hour, with health insurance help. Experience with e-bikes preferred. Must care about people. And batteries."
+GINA: "Must care about people. And batteries." I like it, because it's honest. Post it.
+MARCUS: I already posted it on the window, with tape. Somebody called at noon, before the tape was even dry.
+GINA: Really? Who called?
+MARCUS: It was Luis. He's coming at three.
+GINA: Luis? The delivery guy with the brakes?
+MARCUS: The brakes were a year ago, and he's careful now. He's almost too careful, because he checks his tires twice a day.
+GINA: Marcus, there's one more thing for the plan, and that's space. The shop is tiny, so where does all the extra work happen?
+MARCUS: On the sidewalk, with a bike rack outside for the battery swaps. People ride up, swap their battery, and ride away in two minutes.
+GINA: The sidewalk in front of the building is co-op property, though. The board has to approve it first.
+MARCUS: But I'm not on the board, and the stores don't vote.
+GINA: The stores can't vote, but they can ask. I'll put it on Marisol's agenda for the next meeting.
 
 [Scene: 2:45 p.m. The same shop. Tommy comes in with two paper cups. Diego follows him in, still wearing his school backpack.]
 
-TOMMY: Coffee. For the businesspeople. Don't make that face, Gina. It's Whitlock's beans. I'm using them. They're still terrible. My skill is stronger than the beans.
-GINA: Thank you, Dad. I'll hold it. For warmth.
-DIEGO: Marcus! Is it true? You're hiring somebody? Can I be the assistant interviewer?
-MARCUS: Who told you?
-DIEGO: The sign on the window. "Bell Bikes is hiring." I can read, you know. My reading level went up. Ms. Park said so.
-TOMMY: His reading level went up. And his middle school letter comes on Tuesday. He's very nervous.
-DIEGO: I'm not nervous. I'm thinking about it every five minutes. That's different.
-MARCUS: That's exactly nervous, little man. Okay. You can watch. Quietly. From the door.
-DIEGO: Quietly. From the door. Got it.
-GINA: Dad, what do you know about Luis? Before he comes in? Anything I should know?
-TOMMY: I know he's a good man. That's all I'll say. The rest is his to tell. Not mine.
-MARCUS: What does that mean?
-TOMMY: It means I keep promises. Even small ones. Good luck. Both of you.
+TOMMY: Coffee for the businesspeople. Don't make that face, Gina. I'm using Whitlock's beans, and they're still terrible, but my skill is stronger than the beans.
+GINA: Thank you, Dad. I'll just hold it, for the warmth.
+DIEGO: Marcus! Is it true that you're hiring somebody? Can I be the assistant interviewer?
+MARCUS: Who told you about that?
+DIEGO: The sign on the window says "Bell Bikes is hiring." I can read, you know, and Ms. Park says my reading level went up.
+TOMMY: His reading level went up, and his middle school letter comes on Tuesday, so he's very nervous.
+DIEGO: I'm not nervous. I'm just thinking about it every five minutes, and that's different.
+MARCUS: That's exactly what nervous is, little man. Okay, you can watch, but quietly, from the door.
+DIEGO: Quietly, from the door. Got it.
+GINA: Dad, what do you know about Luis? Is there anything I should know before he comes in?
+TOMMY: I know he's a good man, and that's all I'll say. The rest is his story to tell, not mine.
+MARCUS: What's that supposed to mean?
+TOMMY: It means I keep my promises, even the small ones. Good luck, both of you.
 
 [Scene: 3:00 p.m. The same shop. Two stools face each other near the workbench. Luis sits up very straight in a clean shirt. Marcus holds a notebook. Gina sits to the side. Diego peeks in from the doorway.]
 
-MARCUS: Okay, Luis. I know you. You know me. But I'm going to do this like a real interview. Okay? Fair for everybody.
-LUIS: Okay. I'm nervous. I've never had a real interview. Only apps. The app just says "Accept" or "Decline."
+MARCUS: Okay, Luis. I know you and you know me, but I'm going to do this like a real interview, so it's fair for everybody. Okay?
+LUIS: Okay, but I'm nervous, because I've never had a real interview before. I've only had apps, and the app just says "Accept" or "Decline."
 MARCUS: First question. Tell me about yourself.
-LUIS: Okay. My name is Luis Ortega. I'm thirty-four. I'm from Puebla, Mexico. I've lived in Red Hook for nine years. I have two kids. Sofia is nine. Mateo is six.
-LUIS: I've delivered food for six years. On a bike. Mostly e-bikes. I know every street from here to Downtown Brooklyn. And every pothole.
-MARCUS: Good. Second question. Why do you want this job?
-LUIS: Honestly? Because the app is killing me. Not my body. My body is okay. My head. Every day, I don't know how much I'll make. Some days, sixty dollars. In ten hours.
-LUIS: I want a job where I know the number. Every week. So I can tell my kids, "Yes, we can do that." Instead of "Maybe."
-MARCUS: That's a good answer. Third question. What's your biggest strength?
-LUIS: I fix things. My own bike, I fix myself. My friends' bikes too. When the battery goes bad, they call me. I know the dangerous ones. The cheap ones from online. I can smell them.
-MARCUS: You can smell a bad battery?
-LUIS: Before it swells. There's a smell. Like burnt plastic and sweet. You know it, Marcus. You smelled mine. Last spring. Before it went into your fire box.
-MARCUS: I remember. Can you give me an example? A time you helped someone with a battery?
-LUIS: Last month. My friend Andrés. His battery was hot. In his apartment. At night. He had his kids there. He called me at one a.m. I told him, "Take it outside. Put it on the sidewalk. Away from the door." Then I came with a bucket of sand.
-GINA: A bucket of sand? You have a bucket of sand?
-LUIS: Every delivery guy should. Water doesn't stop lithium. Sand helps. Marcus taught me that. Last year.
-MARCUS: I did teach you that. Okay. One more question. A hard one. Is there anything I should know? Anything that might... affect the job?
-LUIS: ...Yes. Okay. I'll say it. In December, I went to the food pantry. At the church. Tommy was there. Giving eggs. I asked him not to tell you.
+LUIS: Okay. My name is Luis Ortega, and I'm from Puebla, Mexico. I'm thirty-four. I've lived in Red Hook for nine years, and I have two kids. Sofia is nine. Mateo is six.
+LUIS: I've delivered food on a bike for six years, mostly on e-bikes. I know every street from here to Downtown Brooklyn, and every pothole too.
+MARCUS: Good. Second question: why do you want this job?
+LUIS: Honestly? Because the app is killing me. It's not my body, because my body is okay, but my head. Every day, I don't know how much I'll make, and some days it's sixty dollars for ten hours.
+LUIS: I want a job where I know the number every week. That way I can tell my kids, "Yes, we can do that," instead of "Maybe."
+MARCUS: That's a good answer. Third question: what's your biggest strength?
+LUIS: I fix things. I fix my own bike myself, and my friends' bikes too, so when a battery goes bad, they call me. I know the dangerous ones, the cheap ones from online, and I can smell them.
+MARCUS: Wait, you can smell a bad battery?
+LUIS: Yes, before it swells, there's a smell, like burnt plastic but sweet. You know it, Marcus, because you smelled mine last spring, before it went into your fire box.
+MARCUS: I remember that. Can you give me an example? Tell me about a time you helped someone with a battery.
+LUIS: Last month, my friend Andrés called me at one a.m., because his battery was hot in his apartment and his kids were there. I told him, "Take it outside and put it on the sidewalk, away from the door." Then I came over with a bucket of sand.
+GINA: A bucket of sand? You actually own a bucket of sand?
+LUIS: Every delivery guy should, because water doesn't stop lithium, but sand helps. Marcus taught me that last year.
+MARCUS: I did teach you that. Okay, one more question, and it's a hard one. Is there anything I should know, anything that might... affect the job?
+LUIS: ...Yes. Okay, I'll say it. In December, I went to the food pantry at the church, and Tommy was there giving out eggs. I asked him not to tell you.
 MARCUS: Luis.
-LUIS: I was ashamed. You're proud of me. You always say, "Luis, you're a good worker." And there I was. In line. For eggs.
-MARCUS: Luis. Tommy didn't tell me.
+LUIS: I was ashamed, because you're proud of me. You always say, "Luis, you're a good worker," and there I was, standing in line for eggs.
+MARCUS: Luis, listen to me. Tommy didn't tell me.
 LUIS: He didn't?
-MARCUS: He kept his promise. Never said a word. I found out because I was in line too. In January. The Saturday after the boiler. Behind you. Three people behind. You didn't see me.
-LUIS: You? In the pantry line? You have a shop.
-MARCUS: I have a shop that pays me twenty-two thousand a year. Ask Gina. She just did the math. In January, I had the higher rent and no customers. I took eggs too.
-GINA: It's true. I saw the numbers. Marcus, you never told anybody either.
-MARCUS: I was ashamed too. That's my point. Luis, it doesn't affect the job. It's the reason for the job. I want to pay somebody enough so they don't need that line.
-LUIS: ...Okay. Thank you. I don't know what to say.
-MARCUS: Say if you have any questions for me. That's the last part of an interview. The candidate asks questions.
-LUIS: Okay. One question. If I work here... can I still help the delivery guys? With their batteries? For free? Sometimes they can't pay.
-MARCUS: Luis, that's the whole job. That's what the city is paying for. Free safety checks.
+MARCUS: He kept his promise and never said a word. I found out because I was in that line too, in January, on the Saturday after the boiler broke. I was three people behind you, and you didn't see me.
+LUIS: You? In the pantry line? But you have a shop.
+MARCUS: I have a shop that pays me twenty-two thousand a year, and you can ask Gina, because she just did the math. In January I had the higher rent and no customers, so I took eggs too.
+GINA: It's true, I saw the numbers. And Marcus, you never told anybody either.
+MARCUS: Because I was ashamed too, and that's my point. Luis, it doesn't affect the job, because it's the reason for the job. I want to pay somebody enough so they don't need that line.
+LUIS: ...Okay. Thank you. I honestly don't know what to say.
+MARCUS: Then here's the last question: do you have any questions for me? In a real interview, the candidate always gets to ask too.
+LUIS: Okay, I have one question. If I work here... can I still help the delivery guys with their batteries, for free? Sometimes they can't pay.
+MARCUS: Luis, that's the whole job. Free safety checks are exactly what the city is paying for.
 LUIS: Then I have no more questions.
 DIEGO: Can I ask a question? Can I? I'm the assistant interviewer!
-MARCUS: Diego! You're not supposed to be here. Okay. One question.
+MARCUS: Diego! You're not even supposed to be in here. Okay, fine, one question.
 DIEGO: Luis, what's the fastest you ever delivered a pizza?
-LUIS: Four minutes. From Van Brunt to Coffey Street. In the rain. The pizza was still hot. The customer gave me twenty dollars.
+LUIS: Four minutes, from Van Brunt to Coffey Street, in the rain. The pizza was still hot, and the customer gave me twenty dollars.
 DIEGO: Four minutes! Hire him, Marcus!
-MARCUS: Diego. Out. Interviews are confidential.
+MARCUS: Diego, out. Interviews are confidential.
 DIEGO: I'm going! But I vote yes!
-GINA: The stores don't vote, Diego. And neither do ten-year-olds.
+GINA: The stores don't vote, Diego, and neither do eleven-year-olds.
 
 [Scene: 7:00 p.m. The Hook. Marcus sits at the bar with his phone. Tommy pours him a beer. Tasha leans on the counter. Gina sits next to Marcus.]
 
 TOMMY: So? How was the interview? Gina says you were very professional.
-MARCUS: I was very professional. I wore a clean shirt. Luis wore a cleaner shirt.
-TASHA: Are you hiring him? Tell me you're hiring him.
-MARCUS: I'm calling him now. I wanted to wait until I signed the city contract. I signed it at five.
-GINA: Forty thousand dollars. Official. Bell Bikes is now a Safe Charging Hub. The city is sending a sign.
-TOMMY: Another sign on the building. We'll need a bigger building.
-MARCUS: Okay. Calling. Everybody quiet. Luis? Hey. It's Marcus.
-MARCUS: Listen. I wanted to tell you... the job is yours. If you want it. Starting June first. Thirty hours. Twenty-four an hour. And Gina found a health plan. Four hundred a month. I pay half.
+MARCUS: I was very professional, and I wore a clean shirt. The problem is that Luis wore a cleaner shirt.
+TASHA: Are you hiring him? Please tell me you're hiring him.
+MARCUS: I'm calling him now. I wanted to wait until I signed the city contract, and I signed it at five.
+GINA: Forty thousand dollars, and it's official. Bell Bikes is now a Safe Charging Hub, and the city is sending a sign.
+TOMMY: Another sign on the building? At this rate, we'll need a bigger building.
+MARCUS: Okay, I'm calling, so everybody be quiet. Luis? Hey, it's Marcus.
+MARCUS: Listen, I wanted to tell you that... the job is yours, if you want it. You'd start June first, thirty hours at twenty-four an hour. And Gina found a health plan for four hundred a month, and I'll pay half.
 TASHA: Is he saying yes? What's he saying?
-MARCUS: He's not saying anything. He's... I think he's crying. Luis? Are you okay?
-MARCUS: He says yes. He says his wife is crying too. And Sofia is jumping on the couch.
-TOMMY: Tell him the first beer is on me. Tonight. Bring the family.
-MARCUS: Tommy says the first beer is free. And juice for the kids. Okay. See you soon, brother.
-TASHA: Marcus, you just gave somebody a real job. With insurance. That's huge.
-MARCUS: It's thirty hours a week. It's not huge. It's normal. It should be normal for everybody.
-GINA: It should be. It isn't. That's what makes it huge.
-TOMMY: Marcus, can I ask you something? Why didn't you tell me? About the pantry? In January?
-MARCUS: Same reason Luis didn't. I didn't want you to worry. You had the boiler. You had Eddie at fifty-one degrees. You had Harborline.
-TOMMY: Marcus. I'm your friend. Not your landlord. Well, now I'm sort of your landlord. One fifth.
-MARCUS: One fifth of a landlord. I can handle that.
-TOMMY: Next time, tell me. That's rule number four. Not just for signing.
-MARCUS: "Never sign alone." Okay. And never stand in line alone.
+MARCUS: He's not saying anything. He's... I think he's crying. Luis? Are you okay, man?
+MARCUS: He says yes. He says his wife is crying too, and Sofia is jumping on the couch.
+TOMMY: Tell him the first beer is on me tonight, and he should bring the whole family.
+MARCUS: Tommy says the first beer is free, and there's juice for the kids. Okay, see you soon, brother.
+TASHA: Marcus, you just gave somebody a real job with insurance. That's huge.
+MARCUS: It's thirty hours a week, so it's not huge. It's normal. It should be normal for everybody.
+GINA: It should be, but it isn't, and that's what makes it huge.
+TOMMY: Marcus, can I ask you something? Why didn't you tell me about the pantry, back in January?
+MARCUS: For the same reason Luis didn't, because I didn't want you to worry. You had the boiler, you had Eddie at fifty-one degrees, and you had Harborline.
+TOMMY: Marcus, I'm your friend, not your landlord. Well, okay, now I'm sort of your landlord, one fifth of one.
+MARCUS: One fifth of a landlord. I think I can handle that.
+TOMMY: Next time, tell me. That's rule number four, and it's not just for signing things.
+MARCUS: "Never sign alone." Okay, and never stand in line alone either.
 TASHA: That should be rule number six.
-GINA: Dolores will want it typed.
-MARCUS: Here they come. Look. Luis. And the whole family. Sofia, Mateo, his wife, Ana. And his mother.
-TOMMY: Four people. Plus Luis. Ana! Welcome! Sit anywhere! Tasha, five juices and one beer!
-TASHA: Coming up! Marcus, your first employee is here. Say something. Like a boss.
-LUIS: Marcus, this is my mother. Doña Elena. She wanted to come. She made something.
-MARCUS: Señora, mucho gusto. Welcome. What's in the bag?
-LUIS: Tamales. Forty. For the whole bar. She says, "A man who gives my son a job eats my tamales for a year."
+GINA: And Dolores will want it typed.
+MARCUS: Here they come, look. It's Luis and the whole family: Sofia, Mateo, his wife Ana, and his mother.
+TOMMY: That's four people, plus Luis. Ana, welcome! Sit anywhere you like! Tasha, five juices and one beer!
+TASHA: Coming up! Marcus, your first employee is here, so say something, like a boss.
+LUIS: Marcus, this is my mother, Doña Elena. She wanted to come, and she made something for you.
+MARCUS: Señora, mucho gusto. Welcome to The Hook. What's in the bag?
+LUIS: Tamales, forty of them, for the whole bar. She says, "A man who gives my son a job eats my tamales for a year."
 TOMMY: A year of tamales? Marcus, you're the luckiest boss in Brooklyn.
-TASHA: Doña Elena, sit here. By the window. Under the bus map. Walter hung it this morning.
-MARCUS: Like a boss? Okay. Luis. Welcome to Bell Bikes. You start June first. Don't be late. Bring the sand.
+TASHA: Doña Elena, sit here, by the window. That's the best booth in the house, and it has the best view of the street.
+MARCUS: Like a boss? Okay. Luis, welcome to Bell Bikes. You start June first, so don't be late, and bring the sand.
 LUIS: I'll bring the sand. Thank you, boss.
-MARCUS: Don't call me boss. Call me Marcus. Bosses don't stand in pantry lines.
+MARCUS: Don't call me boss, call me Marcus. Bosses don't stand in pantry lines.
 LUIS: Good bosses do. Sometimes.
 
 ---
@@ -170,130 +170,130 @@ LUIS: Good bosses do. Sometimes.
 - 면접 질문은 마커스가 일부러 격식 있게: *First question. | Tell me about yourself.*
 - 루이스의 자기소개는 긴장한 듯 또박또박, 숫자는 분명하게: *I'm thirty-four. … Sofia is nine. Mateo is six.*
 - *Honestly?* 다음에 짧게 멈추고 진심을 꺼낸다.
-- 팬트리 고백 장면은 목소리를 낮춘다. 마커스의 *Luis. Tommy didn't tell me.*는 아주 천천히.
+- 팬트리 고백 장면은 목소리를 낮춘다. 마커스의 *Luis, listen to me. Tommy didn't tell me.*는 아주 천천히.
 - 마지막 바 장면은 다시 밝고 시끌벅적하게. *Tasha, five juices and one beer!*
 
 ---
 
 ## 한글 해석
 
-지나: 좋아요. 그 이메일 다시 읽어 줘요. 시의 제안이요. 천천히요. 정확한 문구를 알고 싶어요.
-마커스: "벨 바이크스를 공식 안전 충전 거점으로 초청합니다. 1년 계약. 4만 달러. 배터리 교환, 무료 안전 점검, 관리 충전을 위해."
-지나: 4만. 진짜 돈이네요, 마커스.
-마커스: 진짜 돈이지. 그리고 진짜 일이고. 지금은 나 혼자 자전거를 고쳐. 하루 열두 시간. 일주일에 엿새. 이걸 맡으면 도움이 필요해.
-지나: 좋아요. 간단한 사업 계획을 세워요. 매출부터요. 지금 얼마 벌어요? 수리로요?
-마커스: 1년에 9만쯤. 비용 빼기 전에. 월세, 부품, 보험, 전기.
-지나: 그럼 비용은요?
-마커스: 월세가 한 달에 3,300이야. 1년이면 거의 4만이지. 부품 2만쯤. 보험 8천. 다 빼면 손에 쥐는 건 2만 2천쯤이야.
-지나: 2만 2천. 주 72시간에요. 마커스, 그건 시급 6달러도 안 돼요.
-마커스: 알아. 소리 내서 말하지 마. 플랫부시에서 우리 엄마가 듣겠어.
-지나: 좋아요. 시 계약을 하면 매출이 4만 늘어요. 시간제로 한 명을 고용한다고 쳐요. 주 30시간. 시급 24달러. 그럼 1년에 약 3만 7천이에요.
-마커스: 그러니까 계약금이 그 사람 인건비를 내 주는 거네. 거의 정확하게.
-지나: 거의 정확하게요. 그리고 그 사람이 수리도 도와요. 그럼 자전거를 더 많이 고치고. 매출이 늘고. 그리고 드디어 월요일에 쉴 수 있어요. 새해 결심처럼요.
-마커스: 내 결심. 2월에 월요일 하루 쉬었어. 그래도 나왔어. 캐비닛 확인하러.
-지나: 그건 휴일이 아니에요. 죄책감의 날이죠. 의료 보험은요? 직원용이요?
-마커스: 그게 어려운 부분이야. 한 명용 소상공인 보험이 한 달에 700쯤이야.
-지나: 주 보험 거래소가 있어요. 그리고 소상공인 세액 공제도요. 확인해 볼게요. 400까지 내려갈지도 몰라요. 그 절반을 내시면 돼요.
-마커스: 절반. 좋아. 제대로 하고 싶어. 내 첫 직원은 나처럼 되면 안 돼. 보험도 없이. 자전거 거치대에 처박히고.
-지나: 그럼 구인 공고를 써요. 지금요. 읽어 줘요.
-마커스: "벨 바이크스 구인. 정비 보조. 주 30시간. 시급 24달러. 의료 보험 지원. 전기 자전거 경험자 우대. 사람을 아낄 것. 그리고 배터리도."
-지나: "사람을 아낄 것. 그리고 배터리도." 좋아요. 솔직하네요. 올려요.
-마커스: 벌써 올렸어. 창문에. 테이프로. 벌써 누가 전화했어. 정오에.
-지나: 누구요?
-마커스: 루이스. 3시에 와.
-지나: 루이스요? 그 배달 기사요? 브레이크 사고 났던?
-마커스: 브레이크는 1년 전이야. 지금은 조심해. 너무 조심하지. 타이어를 하루에 두 번 확인해.
-지나: 마커스, 계획에 하나 더요. 공간이요. 늘어난 일은 어디서 해요? 가게가 엄청 작잖아요.
-마커스: 인도. 밖에 자전거 거치대. 배터리 교환용으로. 타고 와서, 바꾸고, 타고 가는 거지. 2분.
-지나: 건물 앞 인도요. 거긴 조합 재산이에요. 이사회가 승인해야 해요.
-마커스: 난 이사회가 아니잖아. 가게는 투표 안 해.
-지나: 그래도 요청은 할 수 있죠. 마리솔 안건에 넣을게요. 다음 회의에요.
-토미: 커피. 사업가들을 위해. 그런 표정 짓지 마, 지나. 휘틀록 원두야. 쓰고 있어. 그래도 맛없어. 내 실력이 원두보다 세거든.
-지나: 고마워요, 아빠. 들고만 있을게요. 손 녹이게요.
-디에고: 마커스 형! 진짜예요? 사람 뽑아요? 저 보조 면접관 해도 돼요?
-마커스: 누가 말했어?
-디에고: 창문에 있는 공고요. "벨 바이크스 구인." 저 글 읽을 줄 알아요. 읽기 수준이 올라갔어요. 박 선생님이 그랬어요.
-토미: 읽기 수준이 올랐대. 그리고 중학교 편지가 화요일에 와. 엄청 긴장하고 있어.
-디에고: 긴장 안 했어요. 5분마다 생각할 뿐이에요. 그건 달라요.
-마커스: 그게 딱 긴장한 거야, 꼬마야. 좋아. 봐도 돼. 조용히. 문에서.
-디에고: 조용히. 문에서. 알겠어요.
-지나: 아빠, 루이스에 대해 뭘 알아요? 오기 전에요? 제가 알아야 할 거 있어요?
-토미: 좋은 사람이라는 거. 그것만 말할게. 나머지는 그 친구가 말할 거야. 내가 아니라.
+지나: 좋아요, 시에서 온 이메일 다시 읽어 줘요, 천천히요. 계산 시작하기 전에 정확한 문구를 알고 싶어요.
+마커스: "벨 바이크스를 공식 '안전 충전 거점'으로 초청합니다. 1년 계약, 4만 달러, 배터리 교환, 무료 안전 점검, 관리 충전 업무."
+지나: 4만 달러. 진짜 큰돈이에요, 마커스. 특히 이 정도 크기 가게한테는요.
+마커스: 큰돈이지. 그리고 일도 진짜 많아. 지금은 나 혼자 자전거를 고쳐. 하루 열두 시간, 일주일에 엿새. 이걸 맡으면 도와줄 사람이 필요해.
+지나: 좋아요, 그럼 간단한 사업 계획을 짜 봐요. 매출이 먼저니까, 지금 수리로 얼마 벌어요?
+마커스: 1년에 9만쯤. 근데 그건 월세, 부품, 보험, 전기 같은 비용을 빼기 전이야.
+지나: 그럼 비용은 얼마예요?
+마커스: 월세가 한 달에 3,300이니까 1년에 거의 4만이지. 부품은 아마 2만, 보험은 8천. 다 빼면 실제로 손에 쥐는 건 2만 2천쯤이야.
+지나: 2만 2천이요, 일주일에 72시간 일하고요? 마커스, 그건 시급 6달러도 안 돼요.
+마커스: 알아. 그러니까 제발 소리 내서 말하지 마. 우리 엄마가 플랫부시에서 듣겠다.
+지나: 좋아요. 시 계약이 있으면 매출이 4만 늘어요. 이제 시간제로 사람을 하나 쓴다고 쳐요. 주 30시간, 시급 24달러. 그러면 1년에 3만 7천쯤이에요.
+마커스: 그러니까 계약금으로 그 사람 월급이 나오네. 거의 딱 맞게.
+지나: 거의 딱 맞게요. 그리고 그 사람이 수리도 도우니까 자전거를 더 많이 고치고 매출도 늘어요. 그러면 드디어 월요일에 쉴 수 있어요. 새해 결심처럼요.
+마커스: 내 결심. 딱 한 번 월요일에 쉬었어. 2월에. 그런데 캐비닛 확인하려고 결국 나왔지.
+지나: 그건 휴일이 아니라 죄책감의 날이죠. 직원 의료 보험은요?
+마커스: 그게 어려운 부분이야. 1인 소상공인 플랜이 한 달에 700쯤 해.
+지나: 주 보험 거래소가 있고, 소상공인 세액 공제도 있어요. 확인해 볼게요. 400까지 내려갈 수도 있고, 그 절반을 내시면 돼요.
+마커스: 절반. 좋아, 제대로 하고 싶어. 내 첫 직원은 나처럼 보험도 없이 자전거 거치대에 처박히게 두지 않을 거야.
+지나: 그럼 지금 바로 구인 공고 써요. 그리고 읽어 줘요.
+마커스: "벨 바이크스에서 정비 보조를 구합니다. 주 30시간, 시급 24달러, 의료 보험 지원. 전기 자전거 경험자 우대. 사람을 아낄 것. 그리고 배터리도."
+지나: "사람을 아낄 것. 그리고 배터리도." 좋아요, 정직하니까요. 올려요.
+마커스: 벌써 창문에 테이프로 붙였어. 테이프가 마르기도 전에 정오에 누가 전화했어.
+지나: 진짜요? 누가 전화했어요?
+마커스: 루이스였어. 3시에 와.
+지나: 루이스요? 브레이크 사고 났던 그 배달 기사요?
+마커스: 브레이크는 1년 전 일이고, 이제 조심해. 거의 너무 조심해. 하루에 타이어를 두 번씩 확인하거든.
+지나: 마커스, 계획에 하나 더 있어요. 공간이요. 가게가 좁은데, 늘어나는 일은 다 어디서 해요?
+마커스: 인도에서. 배터리 교환용 자전거 거치대를 밖에 두는 거야. 사람들이 와서 배터리 바꾸고 2분 만에 가는 거지.
+지나: 그런데 건물 앞 인도는 조합 재산이에요. 이사회가 먼저 승인해야 해요.
+마커스: 근데 난 이사회도 아니고, 가게는 투표를 못 하잖아.
+지나: 투표는 못 해도 요청은 할 수 있어요. 다음 회의 마리솔 안건에 올려 둘게요.
+토미: 사업가분들을 위한 커피. 그런 표정 짓지 마, 지나. 휘틀록 원두를 쓰고 있는데 여전히 끔찍해. 그래도 내 실력이 원두보다 세지.
+지나: 고마워요, 아빠. 그냥 들고 있을게요, 따뜻하라고요.
+디에고: 마커스 아저씨! 누구 뽑는다는 거 진짜예요? 제가 보조 면접관 해도 돼요?
+마커스: 누가 그 얘기 했어?
+디에고: 창문 안내문에 "벨 바이크스 구인 중"이라고 써 있잖아요. 저 읽을 줄 알거든요. 박 선생님이 제 읽기 수준이 올랐대요.
+토미: 읽기 수준이 올랐어. 그리고 중학교 결과 편지가 화요일에 와서 엄청 긴장했어.
+디에고: 긴장 안 했어요. 그냥 5분마다 생각하는 것뿐이에요. 그건 다른 거예요.
+마커스: 그게 바로 긴장한 거야, 꼬마. 좋아, 봐도 돼. 대신 조용히, 문간에서.
+디에고: 조용히, 문간에서. 알겠어요.
+지나: 아빠, 루이스에 대해 뭐 알아요? 들어오기 전에 제가 알아야 할 거 있어요?
+토미: 좋은 사람이라는 건 알아. 내가 할 말은 그게 다야. 나머지는 그 사람이 할 이야기지, 내가 할 게 아니야.
 마커스: 그게 무슨 뜻이에요?
-토미: 약속을 지킨다는 뜻이야. 작은 것도. 행운을 빈다. 둘 다.
-마커스: 좋아, 루이스. 난 너 알고. 넌 나 알고. 그래도 진짜 면접처럼 할 거야. 알았지? 모두에게 공정하게.
-루이스: 알았어요. 긴장돼요. 진짜 면접은 한 번도 안 해 봤어요. 앱만요. 앱은 '수락' 아니면 '거절'만 말해요.
-마커스: 첫 번째 질문. 자기소개 해 봐.
-루이스: 네. 제 이름은 루이스 오르테가예요. 서른넷이에요. 멕시코 푸에블라 출신이에요. 레드훅에 9년 살았어요. 아이가 둘이에요. 소피아는 아홉 살. 마테오는 여섯 살이에요.
-루이스: 6년 동안 음식 배달을 했어요. 자전거로요. 주로 전기 자전거요. 여기서 다운타운 브루클린까지 모든 거리를 알아요. 모든 구멍까지요.
-마커스: 좋아. 두 번째 질문. 왜 이 일을 하고 싶어?
-루이스: 솔직히요? 앱이 절 죽이고 있어서요. 몸 말고요. 몸은 괜찮아요. 머리요. 매일 얼마 벌지 몰라요. 어떤 날은 60달러요. 열 시간에요.
-루이스: 숫자를 아는 일을 하고 싶어요. 매주요. 그래야 애들한테 "그래, 그거 할 수 있어"라고 말할 수 있잖아요. "아마도" 대신에요.
-마커스: 좋은 대답이다. 세 번째 질문. 가장 큰 강점이 뭐야?
-루이스: 전 고쳐요. 제 자전거는 제가 고쳐요. 친구들 자전거도요. 배터리가 나빠지면 저한테 전화해요. 위험한 걸 알아요. 온라인에서 산 싼 거요. 냄새로 알아요.
-마커스: 냄새로 나쁜 배터리를 안다고?
-루이스: 부풀기 전에요. 냄새가 나요. 탄 플라스틱 같고 달달한 냄새요. 형도 알잖아요. 제 거 냄새 맡았잖아요. 작년 봄에요. 형 방화 상자에 들어가기 전에요.
-마커스: 기억나. 예를 들어 줄 수 있어? 배터리 문제로 누군가를 도왔던 때?
-루이스: 지난달에요. 친구 안드레스요. 배터리가 뜨거웠어요. 집 안에서요. 밤에요. 애들도 있었어요. 새벽 1시에 저한테 전화했어요. 제가 그랬어요. "밖으로 들고 나가. 인도에 둬. 문에서 멀리." 그다음 모래 한 양동이 들고 갔어요.
-지나: 모래 한 양동이요? 모래 양동이가 있어요?
-루이스: 배달 기사라면 다 있어야 해요. 리튬은 물로 안 꺼져요. 모래가 도움이 돼요. 마커스 형이 가르쳐 줬어요. 작년에요.
-마커스: 내가 가르쳐 줬지. 좋아. 질문 하나 더. 어려운 거. 내가 알아야 할 게 있어? 일에… 영향을 줄 만한 거?
-루이스: …네. 알았어요. 말할게요. 12월에 푸드 팬트리에 갔어요. 성당에요. 토미 형이 거기 있었어요. 달걀 나눠 주면서요. 형한테는 말하지 말라고 부탁했어요.
+토미: 약속은 지킨다는 뜻이야. 작은 약속도. 둘 다 행운을 빌어.
+마커스: 좋아, 루이스. 나도 널 알고 너도 날 알지만, 진짜 면접처럼 할 거야. 그래야 모두에게 공평하니까. 괜찮지?
+루이스: 네, 근데 긴장돼요. 진짜 면접은 한 번도 안 해 봤거든요. 앱만 해 봤는데, 앱은 그냥 "수락" 아니면 "거절"이잖아요.
+마커스: 첫 번째 질문. 자기소개 해 주세요.
+루이스: 네. 제 이름은 루이스 오르테가고, 멕시코 푸에블라 출신이에요. 서른네 살이에요. 레드훅에 산 지 9년 됐고, 아이가 둘 있어요. 소피아는 아홉 살. 마테오는 여섯 살이에요.
+루이스: 6년 동안 자전거로 음식 배달을 했어요. 주로 전기 자전거로요. 여기서 다운타운 브루클린까지 모든 길을 알아요. 모든 움푹 팬 곳까지요.
+마커스: 좋아. 두 번째 질문. 왜 이 일을 하고 싶어요?
+루이스: 솔직히요? 앱 때문에 죽을 것 같아서요. 몸이 아니라, 몸은 괜찮은데, 머리가요. 매일 얼마 벌지 몰라요. 어떤 날은 열 시간에 60달러예요.
+루이스: 매주 금액을 아는 일을 하고 싶어요. 그래야 아이들한테 "아마도" 대신 "그래, 그거 하자"라고 말할 수 있으니까요.
+마커스: 좋은 대답이야. 세 번째 질문. 가장 큰 강점이 뭐예요?
+루이스: 저는 고칠 줄 알아요. 제 자전거는 제가 직접 고치고, 친구들 자전거도요. 그래서 배터리가 고장 나면 저한테 전화해요. 위험한 거, 인터넷에서 산 싼 거 알아요. 냄새로 알아요.
+마커스: 잠깐, 나쁜 배터리를 냄새로 안다고?
+루이스: 네, 부풀기 전에 냄새가 나요. 탄 플라스틱 같은데 달달한 냄새요. 마커스도 알잖아요. 작년 봄에 제 거 냄새 맡았잖아요. 아저씨 방화 상자에 들어가기 전에요.
+마커스: 기억나. 예를 들어 줄 수 있어요? 누군가 배터리 문제를 도와준 때를 얘기해 줘요.
+루이스: 지난달에 친구 안드레스가 새벽 1시에 전화했어요. 집 안에서 배터리가 뜨거워졌는데 아이들이 거기 있었거든요. "밖으로 가지고 나가서 문에서 먼 인도에 둬"라고 했어요. 그리고 모래 한 양동이를 들고 갔어요.
+지나: 모래 한 양동이요? 모래 양동이를 진짜 갖고 있어요?
+루이스: 배달 기사라면 다 있어야 해요. 물로는 리튬이 안 꺼지는데, 모래는 도움이 되거든요. 작년에 마커스가 가르쳐 줬어요.
+마커스: 내가 가르쳐 줬지. 좋아, 질문 하나 더. 어려운 거야. 내가 알아야 할 거 있어요? 일에… 영향을 줄 만한 거?
+루이스: …네. 좋아요, 말할게요. 12월에 성당 푸드 팬트리에 갔어요. 토미가 거기서 달걀을 나눠 주고 있었어요. 마커스한테 말하지 말아 달라고 부탁했어요.
 마커스: 루이스.
-루이스: 부끄러웠어요. 형은 절 자랑스러워하잖아요. 늘 "루이스, 넌 일 잘해"라고 하잖아요. 그런데 제가 거기 있었어요. 줄에요. 달걀 받으려고요.
-마커스: 루이스. 토미는 나한테 말 안 했어.
+루이스: 부끄러웠어요. 마커스는 저를 자랑스러워하잖아요. 늘 "루이스, 넌 일 잘해"라고 하는데, 저는 거기서 달걀 받으려고 줄을 서 있었어요.
+마커스: 루이스, 내 말 들어. 토미는 나한테 말 안 했어.
 루이스: 안 했어요?
-마커스: 약속을 지켰어. 한마디도 안 했어. 내가 안 건 나도 줄에 서 있었기 때문이야. 1월에. 보일러 일 다음 토요일에. 네 뒤에. 세 사람 뒤에. 넌 날 못 봤지.
-루이스: 형이요? 팬트리 줄에요? 가게가 있잖아요.
-마커스: 1년에 2만 2천을 버는 가게가 있지. 지나한테 물어봐. 방금 계산했어. 1월엔 월세는 올랐는데 손님은 없었어. 나도 달걀 받았어.
-지나: 사실이에요. 숫자 봤어요. 마커스, 당신도 아무한테도 말 안 했잖아요.
-마커스: 나도 부끄러웠어. 그게 내 말이야. 루이스, 그건 일에 영향을 안 줘. 그게 이 일의 이유야. 그 줄이 필요 없을 만큼 누군가에게 돈을 주고 싶어.
-루이스: …알았어요. 고마워요. 뭐라고 해야 할지 모르겠어요.
-마커스: 나한테 질문이 있으면 해. 그게 면접의 마지막 순서야. 지원자가 질문하는 거.
-루이스: 좋아요. 질문 하나요. 여기서 일하면… 배달 기사들 배터리를 계속 도와줘도 돼요? 무료로요? 가끔은 돈을 못 내거든요.
-마커스: 루이스, 그게 일의 전부야. 시가 돈을 내는 게 그거야. 무료 안전 점검.
+마커스: 약속을 지켰어. 한마디도 안 했어. 내가 안 건 나도 그 줄에 서 있었기 때문이야. 1월에, 보일러 고장 난 다음 토요일에. 너보다 세 사람 뒤에 있었는데, 넌 날 못 봤지.
+루이스: 마커스가요? 팬트리 줄에요? 가게가 있잖아요.
+마커스: 1년에 2만 2천 주는 가게가 있지. 지나한테 물어봐, 방금 계산했으니까. 1월엔 월세는 오르고 손님은 없어서 나도 달걀 받았어.
+지나: 사실이에요, 숫자 봤어요. 그리고 마커스도 아무한테 말 안 했잖아요.
+마커스: 나도 부끄러웠으니까. 그게 내 말이야. 루이스, 그건 일에 영향 안 줘. 그게 바로 이 일의 이유야. 그 줄이 필요 없을 만큼 누군가한테 충분히 주고 싶어.
+루이스: …알겠어요. 고마워요. 솔직히 뭐라고 해야 할지 모르겠어요.
+마커스: 그럼 마지막 질문이야. 나한테 질문 있어요? 진짜 면접에서는 지원자도 늘 질문할 수 있거든.
+루이스: 네, 질문 하나 있어요. 여기서 일하면… 배달 기사들 배터리를 계속 공짜로 도와줘도 돼요? 가끔 돈을 못 내는 사람들이 있어서요.
+마커스: 루이스, 그게 일의 전부야. 무료 안전 점검이 바로 시가 돈을 내는 일이야.
 루이스: 그럼 더 질문 없어요.
-디에고: 저도 질문해도 돼요? 돼요? 전 보조 면접관이에요!
-마커스: 디에고! 여기 있으면 안 되잖아. 좋아. 질문 하나.
-디에고: 루이스 아저씨, 피자를 제일 빨리 배달한 게 얼마예요?
-루이스: 4분. 밴 브런트에서 코피 스트리트까지. 빗속에서. 피자가 아직 뜨거웠어. 손님이 20달러를 줬어.
-디에고: 4분이요! 뽑아요, 마커스 형!
-마커스: 디에고. 나가. 면접은 비공개야.
-디에고: 나갈게요! 그래도 저는 찬성이에요!
-지나: 가게는 투표 못 해, 디에고. 열 살짜리도 마찬가지고.
-토미: 그래서? 면접 어땠어? 지나 말로는 아주 전문적이었다며.
-마커스: 아주 전문적이었죠. 깨끗한 셔츠도 입었고요. 루이스는 더 깨끗한 셔츠를 입었더라고요.
-타샤: 뽑을 거예요? 뽑는다고 해요.
-마커스: 지금 전화할 거야. 시 계약에 서명할 때까지 기다리고 싶었어. 5시에 서명했어.
-지나: 4만 달러. 공식이에요. 벨 바이크스는 이제 안전 충전 거점이에요. 시가 간판을 보낸대요.
-토미: 건물에 간판이 또 하나 붙네. 건물을 더 키워야겠다.
-마커스: 좋아. 전화한다. 다들 조용. 루이스? 응. 마커스야.
-마커스: 들어 봐. 말하고 싶었던 건… 그 일 네 거야. 원하면. 6월 1일부터. 30시간. 시급 24. 그리고 지나가 의료 보험을 찾았어. 한 달 400. 반은 내가 낼게.
-타샤: 하겠대요? 뭐래요?
+디에고: 저 질문해도 돼요? 돼요? 전 보조 면접관이에요!
+마커스: 디에고! 넌 여기 있으면 안 되잖아. 좋아, 알았어, 질문 하나.
+디에고: 루이스 아저씨, 피자를 제일 빨리 배달한 게 몇 분이에요?
+루이스: 4분. 밴 브런트에서 코피 스트리트까지, 비 오는 날에. 피자는 아직 뜨거웠고, 손님이 20달러를 줬어.
+디에고: 4분이요! 뽑아요, 마커스 아저씨!
+마커스: 디에고, 나가. 면접은 비공개야.
+디에고: 나가요! 그래도 전 찬성표예요!
+지나: 가게는 투표 못 해, 디에고. 열한 살도 못 하고.
+토미: 그래서? 면접 어땠어? 지나 말로는 아주 전문가 같았다던데.
+마커스: 아주 전문가 같았지. 깨끗한 셔츠도 입었고. 문제는 루이스가 더 깨끗한 셔츠를 입었다는 거야.
+타샤: 그 사람 뽑을 거예요? 제발 뽑는다고 해 줘요.
+마커스: 지금 전화할 거야. 시 계약에 서명할 때까지 기다리고 싶었는데, 5시에 서명했어.
+지나: 4만 달러, 공식이에요. 벨 바이크스는 이제 '안전 충전 거점'이고, 시에서 간판도 보내 준대요.
+토미: 건물에 간판이 또? 이러다간 더 큰 건물이 필요하겠다.
+마커스: 좋아, 전화한다. 다들 조용히. 루이스? 어, 나 마커스야.
+마커스: 있잖아, 말해 주고 싶었는데… 그 일 네 거야. 네가 원한다면. 6월 1일부터 주 30시간, 시급 24. 그리고 지나가 월 400짜리 의료 보험을 찾았는데, 절반은 내가 낼게.
+타샤: 좋대요? 뭐래요?
 마커스: 아무 말도 안 해. 그게… 우는 것 같아. 루이스? 괜찮아?
-마커스: 하겠대. 아내도 울고 있대. 그리고 소피아는 소파 위에서 뛰고 있대.
-토미: 첫 맥주는 내가 산다고 전해. 오늘 밤. 가족 데려오라고 해.
-마커스: 토미가 첫 맥주는 공짜래. 애들은 주스고. 좋아. 이따 보자, 형제.
-타샤: 마커스, 방금 누군가에게 진짜 일자리를 준 거예요. 보험까지요. 그거 엄청난 거예요.
-마커스: 주 30시간이야. 엄청난 거 아니야. 평범한 거지. 모두에게 평범해야 해.
-지나: 그래야 하죠. 근데 아니잖아요. 그래서 엄청난 거예요.
-토미: 마커스, 하나 물어봐도 돼? 왜 나한테 말 안 했어? 팬트리 얘기? 1월에?
-마커스: 루이스랑 같은 이유요. 걱정 끼치기 싫었어요. 형은 보일러가 있었잖아요. 51도에 있던 에디도 있었고요. 하버라인도 있었고요.
-토미: 마커스. 난 네 친구야. 집주인이 아니라. 아니, 이젠 일종의 집주인이지. 5분의 1.
-마커스: 5분의 1짜리 집주인. 그건 감당할 수 있어요.
-토미: 다음엔 말해. 그게 규칙 4번이야. 서명할 때만이 아니라.
-마커스: "절대 혼자 서명하지 않기." 알았어요. 그리고 절대 혼자 줄 서지 않기.
-타샤: 그게 규칙 6번이 돼야 해요.
-지나: 돌로레스가 타자로 치고 싶어 하실 거예요.
-마커스: 왔다. 봐요. 루이스. 그리고 가족 전부. 소피아, 마테오, 아내 아나. 그리고 어머니도요.
-토미: 넷이네. 루이스까지. 아나! 환영해요! 아무 데나 앉아요! 타샤, 주스 다섯에 맥주 하나!
-타샤: 나갑니다! 마커스, 첫 직원 왔어요. 뭐라고 해요. 사장답게요.
-루이스: 마커스 형, 우리 어머니예요. 엘레나 여사님이요. 오고 싶어 하셨어요. 뭘 만들어 오셨어요.
-마커스: 세뇨라, 만나서 반갑습니다. 환영해요. 봉투엔 뭐가 들었어요?
-루이스: 타말레요. 마흔 개요. 바 전체 먹으라고요. "내 아들한테 일자리를 준 사람은 1년 동안 내 타말레를 먹는다"래요.
-토미: 1년 치 타말레? 마커스, 브루클린에서 제일 운 좋은 사장이네.
-타샤: 엘레나 여사님, 여기 앉으세요. 창가요. 버스 지도 밑이요. 월터가 오늘 아침에 걸었어요.
-마커스: 사장답게? 좋아. 루이스. 벨 바이크스에 온 걸 환영해. 6월 1일부터야. 늦지 마. 모래 가져오고.
+마커스: 좋대. 아내도 울고 있대. 그리고 소피아는 소파에서 뛰고 있대.
+토미: 오늘 밤 첫 맥주는 내가 쏜다고 전해. 가족 다 데려오라고 해.
+마커스: 토미가 첫 맥주는 공짜래. 애들은 주스고. 좋아, 이따 보자, 형제.
+타샤: 마커스, 방금 누군가한테 보험 있는 진짜 일자리를 준 거예요. 대단한 일이에요.
+마커스: 주 30시간이니까 대단한 건 아니야. 평범한 거야. 모두에게 평범해야 하고.
+지나: 그래야죠. 근데 안 그래요. 그래서 대단한 거예요.
+토미: 마커스, 하나 물어봐도 돼? 1월에 팬트리 얘기 왜 나한테 안 했어?
+마커스: 루이스랑 같은 이유예요. 걱정 끼치기 싫어서요. 형은 보일러에, 51도 집의 에디에, 하버라인까지 있었잖아요.
+토미: 마커스, 난 네 친구지 집주인이 아니야. 뭐, 그래, 이제 좀 집주인이긴 하네. 5분의 1만큼.
+마커스: 5분의 1 집주인. 그건 감당할 수 있을 것 같아요.
+토미: 다음엔 말해. 그게 규칙 4번이야. 서명할 때만 해당되는 게 아니라고.
+마커스: "절대 혼자 서명하지 않기." 좋아요, 그리고 절대 혼자 줄 서지도 않기.
+타샤: 그게 규칙 6번이 돼야겠네요.
+지나: 그리고 돌로레스가 타자로 치고 싶어 할 거예요.
+마커스: 저기 온다, 봐. 루이스랑 가족 전부야. 소피아, 마테오, 아내 아나, 그리고 어머니.
+토미: 네 명에 루이스까지. 아나, 어서 와요! 아무 데나 앉아요! 타샤, 주스 다섯 잔에 맥주 하나!
+타샤: 바로 나가요! 마커스, 첫 직원이 왔으니까 한마디 해요. 사장님처럼요.
+루이스: 마커스, 우리 어머니예요. 엘레나 여사님. 오고 싶어 하셨고, 뭘 만들어 오셨어요.
+마커스: 세뇨라, 무초 구스토. 더 훅에 오신 걸 환영해요. 가방에 뭐가 들었어요?
+루이스: 타말레 마흔 개요, 바 전체를 위해서요. 어머니가 "내 아들한테 일자리를 준 사람은 1년 동안 내 타말레를 먹는다"래요.
+토미: 1년 치 타말레? 마커스, 넌 브루클린에서 제일 운 좋은 사장이야.
+타샤: 엘레나 여사님, 여기 창가에 앉으세요. 이 집에서 제일 좋은 자리고, 거리도 제일 잘 보여요.
+마커스: 사장님처럼? 좋아. 루이스, 벨 바이크스에 온 걸 환영해. 6월 1일부터니까 늦지 말고, 모래 가져와.
 루이스: 모래 가져갈게요. 고마워요, 사장님.
 마커스: 사장님이라고 부르지 마. 마커스라고 불러. 사장은 팬트리 줄에 안 서.
-루이스: 좋은 사장은 서요. 가끔은요.
+루이스: 좋은 사장은 서요. 가끔은.
