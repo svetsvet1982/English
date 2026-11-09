@@ -17,131 +17,131 @@
 
 [Scene: Sunday, 2:00 p.m. A small, warm kitchen in Sunset Park. A big pot of dark mole simmers. A radio plays cumbia quietly. Carmen stirs. Marisol chops onions. Diego sits on the counter eating a leftover tamal.]
 
-CARMEN: Mija, smaller. The onions. Smaller. Like your abuela taught me. Like I taught you. Did you forget everything in Red Hook?
-MARISOL: Ay, Mamá. I didn't forget. I'm just tired. It's been a long month.
-CARMEN: Long month. Every month is long now. Diego, get down from there. You're not a cat.
-DIEGO: Abuela, why does mole take so long? It's been cooking since ten.
-CARMEN: Because good things take time. Twenty-six ingredients. Three kinds of chiles. Chocolate. Bread. Patience.
-DIEGO: Chocolate? In dinner?
-CARMEN: In Puebla, chocolate goes everywhere. Even in the chicken. Your great-great-grandmother made this exact mole. In a clay pot. With a wooden spoon. This spoon.
-DIEGO: That spoon is a hundred years old?
-CARMEN: Ninety-two. Older than your Abuelo. But in better shape.
-MARISOL: Mamá, you're quiet today. Something's wrong. What is it?
+CARMEN: Mija, smaller, the onions have to be smaller. Like your abuela taught me, and like I taught you. Did you forget everything over there in Red Hook?
+MARISOL: Ay, Mamá. I didn't forget anything, I'm just tired, because it's been a really long month at work.
+CARMEN: A long month? Every month is long now. Diego, get down from that counter right now. You're not a cat.
+DIEGO: Abuela, why does mole take so long to make? It's been cooking since ten o'clock this morning, and I'm starving.
+CARMEN: Because good things take time, mijo. Twenty-six ingredients, three kinds of chiles, chocolate, bread, and a lot of patience.
+DIEGO: Wait, chocolate? You put chocolate in dinner?
+CARMEN: In Puebla, chocolate goes everywhere, even in the chicken. Your great-great-grandmother made this exact mole in a clay pot, with a wooden spoon. This spoon, right here.
+DIEGO: Seriously? That spoon is a hundred years old?
+CARMEN: Ninety-two, so it's older than your Abuelo. But it's in much better shape than he is.
+MARISOL: Mamá, you're really quiet today, and you're never quiet when you cook. Something's wrong, so what is it?
 CARMEN: Nothing. Stir the beans.
-MARISOL: Mamá. I'm a paralegal. I know what "nothing" sounds like. "Nothing" is always something.
-CARMEN: Okay. You remember Lupe? From the third floor? The one with the canaries?
-MARISOL: Of course. She gave me a canary when I was nine. It escaped in two days.
-CARMEN: Her son, Rubén. He works at a car wash. In Queens. Two weeks ago, agents came. Immigration. They took four men. Rubén was one of them.
-MARISOL: Ay, no. Where is he now?
-CARMEN: A detention center. In New Jersey. Lupe can't sleep. She calls me at two in the morning. She cries on the phone. I cry too.
-DIEGO: Why did they take him? Did he do something bad?
-CARMEN: He washed cars, mijo. Twelve hours a day. For eleven years. He has two little girls. Born here. American girls.
+MARISOL: Mamá, I'm a paralegal, remember? I hear people say "nothing" all day long, so I know what it sounds like. "Nothing" is always something.
+CARMEN: Okay, okay. You remember Lupe, from the third floor? The one with all the canaries?
+MARISOL: Of course I remember her. She gave me a canary when I was nine, and it escaped in two days.
+CARMEN: Her son, Rubén, works at a car wash in Queens. Two weeks ago, immigration agents came and took four men, and Rubén was one of them.
+MARISOL: Ay, no. That's terrible. Do they know where he is now?
+CARMEN: He's in a detention center in New Jersey. Lupe can't sleep at all. She calls me at two in the morning and cries on the phone, and I cry too.
+DIEGO: Why did they take him away? Did he do something bad?
+CARMEN: He washed cars, mijo, twelve hours a day for eleven years. He has two little girls who were born here, so they're American girls.
 DIEGO: Then why?
-MARISOL: Because he didn't have papers, mijo. He came without permission. A long time ago. That's against the law. Even if he did nothing else wrong.
-DIEGO: So he'll go to jail?
-MARISOL: Not jail exactly. It's complicated. He has a right to a hearing. A judge. My office might be able to help. I'll call Lupe tomorrow.
-CARMEN: Thank you, mija. And there's something else. I don't go to the market on Fifth Avenue anymore.
-MARISOL: What? You've gone to that market every Saturday for forty years.
-CARMEN: People say there were agents there. In a black car. Watching. I'm a citizen, Marisol. Since two thousand eight. But I'm afraid. I don't know why. I just am.
-MARISOL: It's not crazy, Mamá. A lot of people feel that. It's the fear. It gets into everybody. Even people with papers.
-MARISOL: For Papi? But he's legal. He's had his card for thirty years.
-CARMEN: I know. But he applied for citizenship. Now his name is in their computer. Again. With our address.
-MARISOL: Mamá, his name has always been in their computer. That's how green cards work.
-CARMEN: I know that. My head knows it. My stomach doesn't.
-DIEGO: Abuela, my stomach doesn't know things either. It only knows tamales.
-CARMEN: Ay, this boy. Come here. Give me a kiss. And take another tamal.
+MARISOL: Because he didn't have papers, mijo. He came here without permission a long time ago, and that's against the law, even if he never did anything else wrong.
+DIEGO: So does that mean he'll go to jail?
+MARISOL: Not jail exactly, but it's complicated. He has the right to a hearing in front of a judge, and my office might be able to help. I'll call Lupe tomorrow.
+CARMEN: Thank you, mija. And there's something else I haven't told you. I don't go to the market on Fifth Avenue anymore.
+MARISOL: What? You've gone to that market every single Saturday for forty years. You never miss it.
+CARMEN: People say there were agents there, sitting in a black car and watching. I'm a citizen, Marisol, since two thousand eight. But I'm afraid anyway, and I don't even know why. I just am.
+MARISOL: It's not crazy, Mamá. A lot of people feel that way right now, because the fear gets into everybody, even people with papers. But that's not all, is it? You keep looking at the living room.
+MARISOL: You don't have to answer, because your face already did. You're scared for Papi. But he's legal, Mamá. He's had his green card for thirty years.
+CARMEN: I know he is. But he applied for citizenship, so now his name is in their computer again, together with our address. It keeps me up at night.
+MARISOL: Mamá, his name has always been in their computer. That's how green cards work. They've known where he lives for thirty years.
+CARMEN: I know that. My head knows it perfectly well, but my stomach doesn't.
+DIEGO: Abuela, my stomach doesn't know things either. The only thing it knows is tamales.
+CARMEN: Ay, this boy. Come here and give me a kiss, and then take another tamal before your mother eats them all.
 
 [Scene: 6:00 p.m. The dining table. Plates of chicken in mole, rice, and warm tortillas. Arturo sits at the head. Héctor arrives late, with snow on his jacket.]
 
-HÉCTOR: Sorry, sorry! The R train. Of course. Hola, Mamá. Hola, Papi. Marisol. Diego, you're huge!
-ARTURO: You're forty minutes late, Héctor. On Christmas weekend.
-HÉCTOR: I'm always forty minutes late. It's my tradition. Sofía and the girls send kisses. Her mother has a cold.
-CARMEN: Sit. Eat. The mole is getting cold. Like your excuses.
-ARTURO: Before we eat. I have news. Family news.
-MARISOL: Papi? Is everything okay?
-ARTURO: Everything is good. I got a letter. On Tuesday. My citizenship interview. February tenth. Nine a.m. Federal Plaza. In Manhattan.
+HÉCTOR: Sorry, sorry! The R train, of course, as always. Hola, Mamá. Hola, Papi. Hi, Marisol. And Diego, look at you, you're huge!
+ARTURO: You're forty minutes late, Héctor, and it's Christmas weekend. Your mother has been watching the door since five thirty.
+HÉCTOR: I'm always forty minutes late, Papi. It's my tradition. Sofía and the girls send kisses, but they stayed home because her mother has a cold.
+CARMEN: Sit down and eat, because the mole is getting cold. Just like your excuses.
+ARTURO: Wait, before we eat, I have some news. It's family news, and I want everybody to hear it together.
+MARISOL: Papi? Is everything okay? You're making me nervous.
+ARTURO: Everything is good, mija. On Tuesday I got a letter about my citizenship interview. It's on February tenth, at nine a.m., at Federal Plaza in Manhattan.
 DIEGO: Abuelo! That's so fast!
-MARISOL: February tenth! Papi, that's wonderful. Felicidades!
-CARMEN: Thirty years he waited. Thirty years I said, "Arturo, apply." He always said, "Next year."
-ARTURO: I was working. Always working. And my English, I was afraid of the test. The writing part. My spelling is a disaster.
-HÉCTOR: Papi. Can I say something? And please don't get angry.
-ARTURO: When you say "don't get angry," I already get angry. Go ahead.
-HÉCTOR: Why now? With everything on the news? People are getting detained. Some at their interviews. Why take the risk?
-ARTURO: What risk? I'm legal. Thirty years. I pay my taxes. I never got a parking ticket. Not one.
-HÉCTOR: I know, Papi. But green card holders have been held too. For old things. Small things. A mistake on a form from twenty years ago.
-ARTURO: My forms are perfect. Your sister checked them. Three times.
-MARISOL: Four times. And my supervisor checked them too. Papi's record is clean. Héctor, I hear you. But I think he's safe.
-HÉCTOR: You "think." That's not "know."
-MARISOL: Nobody "knows" anything right now. That's the problem. But if he waits, the fear wins. Every year, he waits, and the fear wins.
+MARISOL: February tenth! Papi, that's wonderful news. Felicidades! I'm so proud of you.
+CARMEN: Thirty years he waited. For thirty years I said, "Arturo, apply," and he always said, "Next year."
+ARTURO: Because I was working, always working. And to be honest, I was afraid of the English test, especially the writing part, because my spelling is a disaster.
+HÉCTOR: Papi, can I say something? But please, don't get angry.
+ARTURO: When you say "don't get angry," I already get angry. But go ahead, say it.
+HÉCTOR: Why now, with everything on the news? People are getting detained, and some of them right at their interviews. Why take the risk?
+ARTURO: What risk? I'm legal, and I've been legal for thirty years. I pay my taxes, and I never got a parking ticket. Not one.
+HÉCTOR: I know, Papi. But green card holders have been held too, for old things and small things. Sometimes it's just a mistake on a form from twenty years ago.
+ARTURO: My forms are perfect. Your sister checked them three times.
+MARISOL: Four times, actually, and my supervisor checked them too. Papi's record is clean. Héctor, I hear you. But I think he's safe.
+HÉCTOR: You "think" he's safe. That's not the same as "know," Marisol.
+MARISOL: Nobody "knows" anything right now, and that's the problem. But if he waits, the fear wins. Every year he waits, and every year the fear wins again.
 ARTURO: Mijo, listen to me. I came here in nineteen eighty-four. With one bag. I washed dishes. I fried tortillas. I opened a restaurant. I closed a restaurant. I raised you two.
-HÉCTOR: I know, Papi. I know the story.
-ARTURO: Then you know the end. I want to vote. Once. Before I die. I want to hold the paper. With my name. And the eagle.
-HÉCTOR: Okay. I understand. I'm just scared for you. That's all.
-CARMEN: We're all scared. But fear is not a plan. Your father has a plan. Eat your chicken.
-HÉCTOR: Can I say one more thing? It's a little... different.
+HÉCTOR: I know, Papi, I know the story. You tell it every Thanksgiving.
+ARTURO: Then you know how it ends. I want to vote, just once, before I die. I want to hold that paper in my hands, with my name on it and the eagle.
+HÉCTOR: Okay, I understand, and I'm not trying to stop you. I'm just scared for you. That's all.
+CARMEN: We're all scared, mijo. But fear is not a plan. Your father has a plan. Now eat your chicken.
+HÉCTOR: Can I say one more thing? It's a little... different from what you usually hear at this table.
 MARISOL: Here we go.
-HÉCTOR: No, listen. I'm born here. I work construction. I see guys on my site with fake papers. Working for half my rate. The contractors love it. Cheap labor.
+HÉCTOR: No, listen. I was born here, and I work construction. I see guys on my site with fake papers, working for half my rate, and the contractors love it because it's cheap labor.
 ARTURO: And?
-HÉCTOR: And I think the border needs to be controlled. Seriously. I voted that way. Last month. I'm not ashamed.
+HÉCTOR: And I think the border needs to be controlled. I'm serious. I voted that way last month, and I'm not ashamed of it.
 CARMEN: Héctor!
-HÉCTOR: Mamá, let me finish. I also think Rubén should not be in a cage. Eleven years, two American daughters. That's wrong too. Both things can be true.
-MARISOL: With all respect, Héctor, those "guys with fake papers" are Rubén. They're the same people.
-HÉCTOR: Maybe. Maybe they are. I'm not saying I have the answer. I'm saying it's complicated. And nobody in my family lets me say "complicated."
-ARTURO: I let you say it. Say it. You're my son. You can think what you think.
-HÉCTOR: Really? You're not mad?
-ARTURO: I'm a little mad. But I came to this country so my children could vote however they want. Even wrong.
-MARISOL: We see it differently, Héctor. But I'm glad you said it here. At the table. Not on Facebook.
-HÉCTOR: I'm not on Facebook. I'm forty. I'm not that old.
-DIEGO: Can I say something too? About the border?
-CARMEN: Ay, Dios. The little one too.
-DIEGO: At school, we learned that everybody in America came from somewhere. Except the Native Americans. They were here first.
-ARTURO: That's right, mijo. Smart school.
-DIEGO: So why is everybody fighting about who came last?
-HÉCTOR: ...That's a really good question, Diego.
-MARISOL: That's the best question at this table. Eat your rice.
+HÉCTOR: Mamá, let me finish. I also think Rubén should not be in a cage. Eleven years, two American daughters, and that's wrong too. Both things can be true.
+MARISOL: With all respect, Héctor, those "guys with fake papers" are Rubén. They're the same people you're talking about.
+HÉCTOR: Maybe they are. I'm not saying I have the answer, I'm saying it's complicated. And nobody in my family ever lets me say "complicated."
+ARTURO: I let you say it, so say it. You're my son, and you can think whatever you think.
+HÉCTOR: Really? You're not mad at me?
+ARTURO: I'm a little mad. But I came to this country so my children could vote however they want, even if they vote wrong.
+MARISOL: We see it differently, Héctor. But I'm glad you said it here, at the table, where we can talk, and not on Facebook.
+HÉCTOR: I'm not even on Facebook. I'm forty, Marisol, not seventy. I'm not that old.
+DIEGO: Can I say something too? It's about the border.
+CARMEN: Ay, Dios. Now the little one too.
+DIEGO: At school we learned that everybody in America came from somewhere else, except the Native Americans. They were here first, before everybody.
+ARTURO: That's right, mijo. You go to a smart school.
+DIEGO: So if everybody came from somewhere, why is everybody fighting about who came last?
+HÉCTOR: ...That's a really good question, Diego. I don't have an answer for that one.
+MARISOL: That's the best question anyone has asked at this table all night. Now eat your rice.
 
 [Scene: 8:00 p.m. The living room. Coffee and pan dulce on the table. Marisol opens her bag and takes out small cards.]
 
-MARISOL: Okay. Before we leave, I brought something. From my office. Everybody gets one. Even you, Héctor.
-HÉCTOR: Me? I was born at Lutheran Hospital. On Fourth Avenue.
-MARISOL: Then give yours to a guy on your site. Okay? They're "Know Your Rights" cards. English on one side. Spanish on the other.
-CARMEN: Read it to us, mija. My eyes are tired.
+MARISOL: Okay, before we leave, I brought something from my office. Everybody gets one, even you, Héctor.
+HÉCTOR: Me? Why me? I was born at Lutheran Hospital, on Fourth Avenue.
+MARISOL: Then give yours to a guy on your site, okay? They're "Know Your Rights" cards, with English on one side and Spanish on the other.
+CARMEN: Read it to us, mija. My eyes are too tired for small letters tonight.
 MARISOL: Okay. "One: You have the right to remain silent. You do not have to answer questions about where you were born."
-ARTURO: Silent. I can do that. Ask your mother. I'm silent for forty years.
-CARMEN: Ha! Silent? You talk to the television every night.
-MARISOL: "Two: Do not open the door. Unless they show a warrant signed by a judge. Ask them to slide it under the door."
-DIEGO: Signed by a judge. Not by anybody else?
-MARISOL: Not by anybody else. Some papers say "warrant" but a judge didn't sign them. Look for the judge's name. And the court.
+ARTURO: Silent? I can do that easily. Ask your mother, because I've been silent for forty years.
+CARMEN: Ha! Silent? You talk to the television every single night, and it never talks back.
+MARISOL: "Two: Do not open the door unless they show a warrant signed by a judge. Ask them to slide it under the door."
+DIEGO: Signed by a judge? So it doesn't count if somebody else signs it?
+MARISOL: No, it doesn't. Some papers say "warrant" at the top, but a judge didn't sign them, so look for the judge's name and the court.
 MARISOL: "Three: If you are stopped outside, ask, 'Am I free to go?' If they say yes, walk away calmly."
-HÉCTOR: "Am I free to go?" Good. Simple.
-HÉCTOR: I'll make copies. For the guys on my site. Twenty copies.
-MARISOL: Thank you, Héctor. Really. That means a lot.
+HÉCTOR: "Am I free to go?" That's good, because it's simple and easy to remember.
+HÉCTOR: You know what, I'll make copies for the guys on my site. Twenty copies, maybe more, because they'll pass them around.
+MARISOL: Thank you, Héctor, really. That means a lot to me, especially after tonight.
 MARISOL: "Four: Do not sign anything without talking to a lawyer. Five: Do not lie. And do not carry false documents."
-ARTURO: And my green card? I carry it every day.
-MARISOL: Keep carrying it, Papi. You're a permanent resident. You're required to carry it. That one is correct.
-CARMEN: And the phone numbers? On the back?
-MARISOL: A free legal hotline. And my number. Written by hand. Call me first. Any hour. I mean it.
-CARMEN: I'll put it on the refrigerator. Next to Diego's drawing.
+ARTURO: And what about my green card? I carry it every day, in my wallet.
+MARISOL: Keep carrying it, Papi. You're a permanent resident, so you're required to carry it. That one you're doing exactly right.
+CARMEN: And what are these phone numbers on the back?
+MARISOL: One is a free legal hotline, and the other is my number, which I wrote by hand. Call me first, at any hour. I mean it, Mamá.
+CARMEN: I'll put it on the refrigerator, right next to Diego's drawing, where everybody can see it.
 DIEGO: Like the fridge rules in our building! "Never sign alone."
-MARISOL: Exactly like that, mijo. Same rule. Different fridge.
-ARTURO: Now, Diego. You promised to help me. With the test. The civics test.
+MARISOL: Exactly like that, mijo. It's the same rule, just a different fridge.
+ARTURO: Now, Diego, you promised to help me with the test. The civics test, remember?
 DIEGO: Okay, Abuelo! I have the questions on Mom's phone. Ready? Question one. "What is the supreme law of the land?"
 ARTURO: The Constitution.
 DIEGO: Correct! Question two. "What do we call the first ten amendments to the Constitution?"
 ARTURO: The... the Bill of Rights.
 DIEGO: Correct! Question three. "How many U.S. senators are there?"
-ARTURO: One hundred. Two for each state.
-DIEGO: Abuelo! You're good at this!
-ARTURO: I've been studying. Every night. After the news. Your grandmother quizzes me. In the bathroom. Through the door.
-CARMEN: He sings the answers in the shower. The whole building knows the Bill of Rights now.
-DIEGO: Question four. A hard one. "Name one right only for United States citizens."
-ARTURO: To vote. In a federal election. That's the one I want.
-DIEGO: Correct. Abuelo, you're going to pass. I know it.
-ARTURO: If I pass, mijo, you come with me. To the ceremony. You hold the flag.
+ARTURO: One hundred, because there are two for each state.
+DIEGO: Abuelo! You're really good at this! You didn't even have to think.
+ARTURO: That's because I've been studying every night after the news. Your grandmother quizzes me in the bathroom, through the door.
+CARMEN: And he sings the answers in the shower, so now the whole building knows the Bill of Rights.
+DIEGO: Question four, and this is a hard one. "Name one right only for United States citizens."
+ARTURO: To vote in a federal election. That's the one I want most of all.
+DIEGO: Correct. Abuelo, you're going to pass, I know it. You're going to be great.
+ARTURO: If I pass, mijo, you're coming with me to the ceremony, and you're going to hold the flag.
 DIEGO: Can Mom come too?
-ARTURO: Your mother. Your grandmother. Your uncle, if he's on time.
-HÉCTOR: I'll be on time. For this, I'll be on time. I'll take the R train at five a.m.
-CARMEN: Ay, the R train. Then we'll see you in March.
+ARTURO: Your mother, your grandmother, and even your uncle, if he's on time for once.
+HÉCTOR: I'll be on time, Papi. For this, I'll be on time, even if I have to take the R train at five a.m.
+CARMEN: Ay, the R train. Then we'll see you sometime in March.
 DIEGO: Abuela! That's mean! Funny, but mean.
 
 ---
@@ -179,123 +179,123 @@ DIEGO: Abuela! That's mean! Funny, but mean.
 
 ## 한글 해석
 
-카르멘: 얘야, 더 작게. 양파 말이야. 더 작게. 네 외할머니가 나한테 가르쳐 준 것처럼. 내가 너한테 가르쳐 준 것처럼. 레드훅에서 다 잊어버렸니?
-마리솔: 아이, 엄마. 안 잊었어요. 그냥 피곤해서 그래요. 긴 한 달이었어요.
-카르멘: 긴 한 달. 요즘은 매달이 길어. 디에고, 거기서 내려와. 넌 고양이가 아니야.
-디에고: 할머니, 몰레는 왜 이렇게 오래 걸려요? 10시부터 끓이고 있잖아요.
-카르멘: 좋은 건 시간이 걸리니까. 재료 스물여섯 가지. 칠레 세 종류. 초콜릿. 빵. 인내심.
-디에고: 초콜릿이요? 저녁밥에요?
-카르멘: 푸에블라에선 초콜릿이 어디든 들어가. 닭고기에도. 네 고조할머니가 바로 이 몰레를 만드셨어. 토기 냄비에. 나무 숟가락으로. 이 숟가락으로.
-디에고: 그 숟가락이 백 살이에요?
-카르멘: 아흔두 살. 네 할아버지보다 나이가 많아. 근데 상태는 더 좋지.
-마리솔: 엄마, 오늘 조용하시네요. 뭔가 있어요. 뭐예요?
+카르멘: 얘야, 더 잘게, 양파는 더 잘게 썰어야지. 네 할머니가 나한테 가르친 대로, 내가 너한테 가르친 대로. 레드훅에서 다 잊어버렸니?
+마리솔: 아이고, 엄마, 하나도 안 잊었어요. 그냥 피곤해서 그래요. 일이 정말 긴 한 달이었거든요.
+카르멘: 긴 한 달? 요즘은 매달이 길어. 디에고, 당장 그 조리대에서 내려와. 넌 고양이가 아니야.
+디에고: 할머니, 몰레는 왜 이렇게 오래 걸려요? 아침 10시부터 끓이고 있잖아요. 배고파 죽겠어요.
+카르멘: 좋은 건 시간이 걸리니까, 얘야. 재료 스물여섯 가지, 칠레 세 종류, 초콜릿, 빵, 그리고 인내심 잔뜩.
+디에고: 잠깐, 초콜릿이요? 저녁밥에 초콜릿을 넣어요?
+카르멘: 푸에블라에서는 초콜릿이 어디든 들어가. 닭고기에도. 네 고조할머니가 바로 이 몰레를 만드셨어. 흙 냄비에, 나무 숟가락으로. 바로 이 숟가락이야.
+디에고: 진짜요? 그 숟가락이 백 살이에요?
+카르멘: 아흔두 살이니까 네 할아버지보다 나이가 많지. 그래도 할아버지보다 상태는 훨씬 좋아.
+마리솔: 엄마, 오늘 정말 조용하시네요. 요리할 땐 절대 조용한 분이 아닌데. 뭔가 있죠? 뭐예요?
 카르멘: 아무것도 아니야. 콩이나 저어.
-마리솔: 엄마. 저 패럴리걸이에요. '아무것도 아니야'가 어떤 소린지 알아요. '아무것도 아니야'는 늘 뭔가 있다는 뜻이에요.
-카르멘: 그래. 루페 기억하지? 3층에 사는? 카나리아 키우는?
-마리솔: 그럼요. 제가 아홉 살 때 카나리아를 줬잖아요. 이틀 만에 도망갔지만요.
-카르멘: 그 집 아들 루벤. 세차장에서 일해. 퀸스에서. 2주 전에 요원들이 왔대. 이민국. 네 명을 데려갔어. 루벤도 그중 하나였어.
-마리솔: 아이, 안 돼. 지금 어디 있대요?
-카르멘: 구금 시설에. 뉴저지에 있는. 루페는 잠을 못 자. 새벽 2시에 나한테 전화해. 전화로 울어. 나도 울고.
-디에고: 왜 데려갔어요? 그 아저씨가 나쁜 짓 했어요?
-카르멘: 차를 닦았어, 얘야. 하루 열두 시간씩. 11년 동안. 어린 딸이 둘 있어. 여기서 태어난. 미국 아이들이야.
+마리솔: 엄마, 저 법률 보조원이에요, 기억나요? 하루 종일 사람들이 "아무것도 아니에요"라고 하는 걸 들으니까 그게 어떻게 들리는지 알아요. "아무것도 아니야"는 늘 뭔가 있다는 뜻이에요.
+카르멘: 그래, 그래. 루페 기억나지? 3층에 사는? 카나리아 잔뜩 키우는 사람?
+마리솔: 당연히 기억하죠. 제가 아홉 살 때 카나리아를 한 마리 주셨는데, 이틀 만에 도망갔잖아요.
+카르멘: 그 집 아들 루벤이 퀸스에 있는 세차장에서 일해. 2주 전에 이민국 요원들이 와서 남자 넷을 데려갔는데, 루벤이 그중 하나였어.
+마리솔: 아이고, 안 돼. 너무 끔찍해요. 지금 어디 있는지는 알아요?
+카르멘: 뉴저지에 있는 구금 시설에 있어. 루페는 잠을 한숨도 못 자. 새벽 2시에 나한테 전화해서 울어. 나도 같이 울고.
+디에고: 왜 그 아저씨를 데려갔어요? 나쁜 짓 했어요?
+카르멘: 세차를 했지, 얘야. 하루 열두 시간씩 11년 동안. 여기서 태어난 어린 딸이 둘 있어. 그러니까 미국 아이들이지.
 디에고: 그럼 왜요?
-마리솔: 서류가 없었으니까, 얘야. 허가 없이 왔어. 오래전에. 그건 법을 어긴 거야. 다른 잘못은 하나도 안 했어도.
-디에고: 그럼 감옥 가요?
-마리솔: 딱 감옥은 아니야. 복잡해. 그분은 심리를 받을 권리가 있어. 판사 앞에서. 엄마 사무실에서 도울 수 있을지도 몰라. 내일 루페 아줌마한테 전화할게요.
-카르멘: 고맙다, 얘야. 그리고 또 있어. 나 이제 5번가 시장에 안 가.
-마리솔: 네? 40년 동안 토요일마다 그 시장에 갔잖아요.
-카르멘: 사람들이 거기 요원들이 있었대. 검은 차에서. 지켜보고 있었대. 나는 시민이야, 마리솔. 2008년부터. 그런데도 무서워. 왜인지 모르겠어. 그냥 무서워.
-마리솔: 이상한 거 아니에요, 엄마. 그렇게 느끼는 사람이 많아요. 두려움이에요. 모두한테 스며들어요. 서류가 있는 사람한테도요.
-마리솔: 아빠 때문에요? 아빠는 합법이잖아요. 30년 동안 영주권이 있었잖아요.
-카르멘: 알아. 근데 시민권을 신청했잖아. 이제 그 사람들 컴퓨터에 이름이 올라갔어. 또. 우리 주소랑 같이.
-마리솔: 엄마, 아빠 이름은 늘 그 컴퓨터에 있었어요. 영주권이 원래 그래요.
-카르멘: 알아. 머리는 알아. 배 속이 모르지.
-디에고: 할머니, 제 배 속도 아무것도 몰라요. 타말레만 알아요.
-카르멘: 아이고, 이 녀석. 이리 와. 뽀뽀해 줘. 그리고 타말레 하나 더 먹어.
-엑토르: 미안, 미안해요! R선 때문에요. 당연히. 안녕, 엄마. 안녕, 아빠. 누나. 디에고, 엄청 컸네!
-아르투로: 40분 늦었다, 엑토르. 크리스마스 주말에.
-엑토르: 전 늘 40분 늦어요. 제 전통이에요. 소피아랑 딸들이 뽀뽀 보낸대요. 장모님이 감기 걸리셨어요.
-카르멘: 앉아. 먹어. 몰레 식는다. 네 핑계처럼.
-아르투로: 먹기 전에. 소식이 있어. 가족 소식.
-마리솔: 아빠? 별일 없죠?
-아르투로: 다 좋아. 편지를 받았어. 화요일에. 시민권 인터뷰야. 2월 10일. 오전 9시. 연방 청사. 맨해튼에서.
+마리솔: 서류가 없었으니까, 얘야. 오래전에 허가 없이 여기 왔거든. 그건 법을 어긴 거야. 다른 잘못은 하나도 안 했어도.
+디에고: 그럼 감옥에 간다는 거예요?
+마리솔: 딱 감옥은 아니야. 그런데 복잡해. 그분은 판사 앞에서 심리를 받을 권리가 있고, 엄마 사무실에서 도울 수 있을지도 몰라. 내일 루페 아줌마한테 전화할게요.
+카르멘: 고맙다, 얘야. 그리고 아직 말 안 한 게 또 있어. 나 이제 5번가 시장에 안 가.
+마리솔: 네? 40년 동안 토요일마다 빠짐없이 그 시장에 갔잖아요. 한 번도 안 빠지셨잖아요.
+카르멘: 사람들이 거기 요원들이 있었대. 검은 차에 앉아서 지켜보고 있었대. 나는 시민이야, 마리솔. 2008년부터. 그런데도 무서워. 왜인지도 모르겠어. 그냥 무서워.
+마리솔: 이상한 거 아니에요, 엄마. 요즘 그렇게 느끼는 사람이 많아요. 두려움은 모두한테 스며드니까요. 서류가 있는 사람한테도요. 그런데 그게 다가 아니죠? 자꾸 거실 쪽을 보시잖아요.
+마리솔: 대답 안 하셔도 돼요. 얼굴에 벌써 다 쓰여 있으니까. 아빠 때문에 무서운 거죠. 그래도 아빠는 합법이에요, 엄마. 30년 동안 영주권이 있었잖아요.
+카르멘: 알아. 그런데 시민권을 신청했으니까, 이제 그 사람들 컴퓨터에 이름이 또 올라갔어. 우리 주소랑 같이. 그것 때문에 밤에 잠이 안 와.
+마리솔: 엄마, 아빠 이름은 늘 그 컴퓨터에 있었어요. 영주권이 원래 그래요. 아빠가 어디 사는지 30년 동안 알고 있었다고요.
+카르멘: 나도 알아. 머리는 아주 잘 알아. 그런데 배 속이 몰라.
+디에고: 할머니, 제 배 속도 아무것도 몰라요. 아는 건 타말레뿐이에요.
+카르멘: 아이고, 이 녀석. 이리 와서 뽀뽀해 줘. 그리고 네 엄마가 다 먹기 전에 타말레 하나 더 먹어.
+엑토르: 미안, 미안해요! R선 때문에요. 당연히, 늘 그렇죠. 안녕, 엄마. 안녕, 아빠. 누나도 안녕. 그리고 디에고, 이것 좀 봐, 엄청 컸네!
+아르투로: 40분 늦었다, 엑토르. 크리스마스 주말에. 네 엄마가 5시 반부터 문만 쳐다보고 있었어.
+엑토르: 전 늘 40분 늦잖아요, 아빠. 제 전통이에요. 소피아랑 딸들이 뽀뽀 보낸대요. 장모님이 감기 걸리셔서 집에 있기로 했어요.
+카르멘: 앉아서 먹어. 몰레 식는다. 네 핑계처럼.
+아르투로: 잠깐, 먹기 전에 소식이 있어. 가족 소식이야. 다 같이 들었으면 해.
+마리솔: 아빠? 별일 없죠? 긴장되잖아요.
+아르투로: 다 좋아, 얘야. 화요일에 시민권 인터뷰 편지를 받았어. 2월 10일, 오전 9시, 맨해튼 연방 청사에서야.
 디에고: 할아버지! 엄청 빠르다!
-마리솔: 2월 10일! 아빠, 정말 잘됐어요. 축하해요!
-카르멘: 30년을 기다렸어. 30년 동안 내가 "아르투로, 신청해"라고 했지. 늘 "내년에"라고 했어.
-아르투로: 일하고 있었으니까. 늘 일했지. 그리고 영어, 시험이 무서웠어. 쓰기 시험. 내 철자는 엉망이야.
-엑토르: 아빠. 하나 말해도 돼요? 화내지 마시고요.
-아르투로: "화내지 마"라고 하면 벌써 화가 난다. 말해 봐.
-엑토르: 왜 지금이에요? 뉴스에 그렇게 나오는데요? 사람들이 구금되고 있어요. 인터뷰 자리에서 잡혀가는 사람도 있어요. 왜 위험을 무릅써요?
-아르투로: 무슨 위험? 난 합법이야. 30년이야. 세금 내. 주차 딱지 한 번도 안 받았어. 한 번도.
-엑토르: 알아요, 아빠. 근데 영주권자들도 붙잡혀 있었어요. 오래된 일로요. 사소한 일로요. 20년 전 서류에 있던 실수 하나 때문에요.
-아르투로: 내 서류는 완벽해. 네 누나가 확인했어. 세 번.
-마리솔: 네 번이요. 우리 상사도 확인했어요. 아빠 기록은 깨끗해요. 엑토르, 무슨 말인지 알아. 그래도 난 아빠가 안전하다고 생각해.
-엑토르: "생각한다." 그건 "안다"가 아니잖아.
-마리솔: 지금은 아무도 '알' 수가 없어. 그게 문제야. 근데 아빠가 기다리면 두려움이 이기는 거야. 매년 기다리고, 매년 두려움이 이기는 거지.
+마리솔: 2월 10일! 아빠, 정말 좋은 소식이에요. 축하해요! 너무 자랑스러워요.
+카르멘: 30년을 기다렸어. 30년 동안 내가 "아르투로, 신청해"라고 했지. 그러면 늘 "내년에"라고 했어.
+아르투로: 일하고 있었으니까. 늘 일했지. 그리고 솔직히 영어 시험이 무서웠어. 특히 쓰기 시험. 내 철자는 엉망이거든.
+엑토르: 아빠, 하나 말해도 돼요? 그런데 제발 화내지 마세요.
+아르투로: "화내지 마"라고 하면 벌써 화가 난다. 그래도 말해 봐.
+엑토르: 왜 하필 지금이에요? 뉴스에 그렇게 나오는데요? 사람들이 구금되고 있어요. 인터뷰 자리에서 바로 잡혀가는 사람도 있고요. 왜 위험을 무릅써요?
+아르투로: 무슨 위험? 난 합법이야. 30년 동안 합법이었어. 세금 내고, 주차 딱지 한 번도 안 받았어. 한 번도.
+엑토르: 알아요, 아빠. 근데 영주권자들도 붙잡혀 있었어요. 오래된 일, 사소한 일로요. 20년 전 서류에 있던 실수 하나 때문일 때도 있어요.
+아르투로: 내 서류는 완벽해. 네 누나가 세 번 확인했어.
+마리솔: 사실 네 번이요. 우리 상사도 확인했어요. 아빠 기록은 깨끗해요. 엑토르, 무슨 말인지 알아. 그래도 난 아빠가 안전하다고 생각해.
+엑토르: 안전하다고 "생각한다." 그건 "안다"랑 같지 않잖아, 누나.
+마리솔: 지금은 아무도 '알' 수가 없어. 그게 문제야. 근데 아빠가 기다리면 두려움이 이기는 거야. 매년 기다리고, 매년 또 두려움이 이기는 거지.
 아르투로: 얘야, 내 말 들어. 난 1984년에 왔어. 가방 하나 들고. 설거지를 했어. 토르티야를 튀겼어. 식당을 열었어. 식당을 닫았어. 너희 둘을 키웠어.
-엑토르: 알아요, 아빠. 그 얘기 알아요.
-아르투로: 그럼 결말도 알겠지. 난 투표하고 싶어. 한 번이라도. 죽기 전에. 그 종이를 손에 쥐고 싶어. 내 이름이 적힌. 독수리가 그려진.
-엑토르: 알았어요. 이해해요. 그냥 아빠가 걱정돼서 그래요. 그게 다예요.
-카르멘: 우리 다 무서워. 근데 두려움은 계획이 아니야. 네 아빠한텐 계획이 있어. 닭고기나 먹어.
-엑토르: 하나만 더 말해도 돼요? 좀… 다른 얘기예요.
+엑토르: 알아요, 아빠. 그 얘기 알아요. 추수감사절마다 하시잖아요.
+아르투로: 그럼 어떻게 끝나는지도 알겠지. 난 투표하고 싶어. 딱 한 번이라도. 죽기 전에. 내 이름이 적히고 독수리가 그려진 그 종이를 내 손에 쥐고 싶어.
+엑토르: 알았어요. 이해해요. 말리려는 게 아니에요. 그냥 아빠가 걱정돼서 그래요. 그게 다예요.
+카르멘: 우리 다 무서워, 얘야. 근데 두려움은 계획이 아니야. 네 아빠한텐 계획이 있어. 이제 닭고기나 먹어.
+엑토르: 하나만 더 말해도 돼요? 이 식탁에서 평소에 듣던 거랑은 좀… 다른 얘기예요.
 마리솔: 시작이네.
-엑토르: 아니, 들어 봐. 난 여기서 태어났어. 건설 현장에서 일해. 우리 현장에 가짜 서류로 일하는 사람들이 있어. 내 일당의 절반을 받고. 하청업자들은 좋아하지. 싼 인력이니까.
+엑토르: 아니, 들어 봐. 난 여기서 태어났고 건설 현장에서 일해. 우리 현장에 가짜 서류로 일하는 사람들이 있어. 내 일당의 절반을 받고. 하청업자들은 좋아하지. 싼 인력이니까.
 아르투로: 그래서?
-엑토르: 그래서 국경은 통제돼야 한다고 생각해요. 진지하게요. 지난달에 그쪽으로 투표했어요. 부끄럽지 않아요.
+엑토르: 그래서 국경은 통제돼야 한다고 생각해요. 진지하게요. 지난달에 그쪽으로 투표했고, 부끄럽지 않아요.
 카르멘: 엑토르!
 엑토르: 엄마, 끝까지 들어 봐요. 그리고 루벤이 우리에 갇혀 있으면 안 된다고도 생각해요. 11년이에요. 미국인 딸이 둘이고요. 그것도 잘못된 거예요. 두 가지 다 사실일 수 있어요.
-마리솔: 외람되지만, 엑토르, 그 '가짜 서류로 일하는 사람들'이 루벤이야. 같은 사람들이라고.
-엑토르: 그럴지도. 그럴지도 몰라. 내가 답을 안다는 게 아니야. 복잡하다는 거야. 근데 우리 가족은 아무도 내가 '복잡하다'고 말하게 두질 않아.
-아르투로: 내가 두지. 말해. 넌 내 아들이야. 네가 생각하는 대로 생각해도 돼.
-엑토르: 진짜요? 화 안 나세요?
-아르투로: 조금 났어. 근데 내가 이 나라에 온 건 내 자식들이 원하는 대로 투표하게 하려고였어. 틀리게라도.
-마리솔: 우린 생각이 다르네, 엑토르. 그래도 여기서 말해 줘서 좋아. 식탁에서. 페이스북 말고.
-엑토르: 나 페이스북 안 해. 마흔이야. 그렇게 늙진 않았어.
-디에고: 저도 하나 말해도 돼요? 국경에 대해서요?
-카르멘: 아이고, 하느님. 꼬마까지.
-디에고: 학교에서 배웠는데요, 미국 사람은 다 어딘가에서 왔대요. 원주민만 빼고요. 그분들이 먼저 여기 있었대요.
-아르투로: 맞아, 얘야. 학교 잘 다니네.
-디에고: 그럼 왜 다들 누가 마지막에 왔는지를 두고 싸워요?
-엑토르: …그거 진짜 좋은 질문이다, 디에고.
-마리솔: 이 식탁에서 나온 최고의 질문이야. 밥이나 먹어.
-마리솔: 좋아요. 가기 전에 가져온 게 있어요. 사무실에서요. 다 하나씩 받아요. 엑토르 너도.
-엑토르: 나? 난 4번가 루터런 병원에서 태어났는데.
-마리솔: 그럼 네 현장에 있는 사람한테 줘. 알았지? '권리 안내 카드'야. 한쪽은 영어. 다른 쪽은 스페인어.
-카르멘: 읽어 줘, 얘야. 눈이 피곤해.
+마리솔: 외람되지만, 엑토르, 그 '가짜 서류로 일하는 사람들'이 루벤이야. 네가 말하는 그 사람들이 바로 같은 사람들이라고.
+엑토르: 그럴지도 몰라. 내가 답을 안다는 게 아니야. 복잡하다는 거야. 근데 우리 가족은 아무도 내가 '복잡하다'고 말하게 두질 않아.
+아르투로: 내가 두지. 그러니까 말해. 넌 내 아들이야. 네가 생각하는 대로 생각해도 돼.
+엑토르: 진짜요? 저한테 화 안 나세요?
+아르투로: 조금 났어. 근데 내가 이 나라에 온 건 내 자식들이 원하는 대로 투표하게 하려고였어. 틀리게 투표하더라도.
+마리솔: 우린 생각이 다르네, 엑토르. 그래도 여기서 말해 줘서 좋아. 이야기할 수 있는 식탁에서. 페이스북 말고.
+엑토르: 나 페이스북도 안 해. 마흔이지 일흔이 아니야, 누나. 그렇게 늙진 않았어.
+디에고: 저도 하나 말해도 돼요? 국경에 대한 거예요.
+카르멘: 아이고, 하느님. 이제 꼬마까지.
+디에고: 학교에서 배웠는데요, 미국 사람은 다 다른 데서 왔대요. 원주민만 빼고요. 그분들이 누구보다 먼저 여기 있었대요.
+아르투로: 맞아, 얘야. 똑똑한 학교에 다니는구나.
+디에고: 그럼 다들 어딘가에서 왔는데, 왜 누가 마지막에 왔는지를 두고 싸워요?
+엑토르: …그거 진짜 좋은 질문이다, 디에고. 그건 나도 답을 모르겠다.
+마리솔: 오늘 밤 이 식탁에서 나온 최고의 질문이야. 이제 밥이나 먹어.
+마리솔: 좋아요, 가기 전에 사무실에서 가져온 게 있어요. 다 하나씩 받아요. 엑토르 너도.
+엑토르: 나? 왜 나야? 난 4번가 루터런 병원에서 태어났는데.
+마리솔: 그럼 네 현장에 있는 사람한테 줘, 알았지? '권리 안내 카드'야. 한쪽은 영어, 다른 쪽은 스페인어야.
+카르멘: 읽어 줘, 얘야. 오늘 밤은 눈이 피곤해서 작은 글씨가 안 보여.
 마리솔: 좋아요. "하나: 당신에게는 묵비권이 있습니다. 어디서 태어났는지에 대한 질문에 답하지 않아도 됩니다."
-아르투로: 침묵. 그건 할 수 있지. 네 엄마한테 물어봐. 40년째 침묵하고 있어.
-카르멘: 하! 침묵? 매일 밤 텔레비전한테 말하면서.
-마리솔: "둘: 문을 열지 마세요. 판사가 서명한 영장을 보여 주지 않는 한. 문 밑으로 밀어 넣어 달라고 하세요."
-디에고: 판사가 서명한 거요. 다른 사람이 서명한 건 안 돼요?
-마리솔: 다른 사람이 서명한 건 안 돼. '영장'이라고 써 있어도 판사가 서명하지 않은 서류가 있어. 판사 이름이랑 법원을 찾아봐.
+아르투로: 침묵? 그건 쉽게 할 수 있지. 네 엄마한테 물어봐. 40년째 침묵하고 있으니까.
+카르멘: 하! 침묵? 매일 밤 텔레비전한테 말하면서. 텔레비전은 대답도 안 하는데.
+마리솔: "둘: 판사가 서명한 영장을 보여 주지 않는 한 문을 열지 마세요. 문 밑으로 밀어 넣어 달라고 하세요."
+디에고: 판사가 서명한 거요? 그럼 다른 사람이 서명하면 안 쳐줘요?
+마리솔: 응, 안 쳐줘. 맨 위에 '영장'이라고 써 있어도 판사가 서명하지 않은 서류가 있어. 그러니까 판사 이름이랑 법원을 찾아봐.
 마리솔: "셋: 밖에서 멈춰 세워지면 '가도 됩니까?'라고 물으세요. 그렇다고 하면 침착하게 걸어가세요."
-엑토르: "가도 됩니까?" 좋네. 간단하고.
-엑토르: 복사할게. 현장 사람들 주게. 스무 장.
-마리솔: 고마워, 엑토르. 진짜로. 정말 고마워.
+엑토르: "가도 됩니까?" 좋네. 간단하고 기억하기 쉬워서.
+엑토르: 있잖아, 현장 사람들 주게 복사할게. 스무 장, 아니 더. 서로 돌려 볼 테니까.
+마리솔: 고마워, 엑토르, 진짜로. 정말 고마워. 특히 오늘 밤 일이 있고 나서라서.
 마리솔: "넷: 변호사와 상의하기 전에는 아무것도 서명하지 마세요. 다섯: 거짓말하지 마세요. 그리고 위조 서류를 갖고 다니지 마세요."
-아르투로: 내 영주권은? 매일 갖고 다니는데.
-마리솔: 계속 갖고 다니세요, 아빠. 영주권자시잖아요. 갖고 다녀야 해요. 그건 맞게 하고 계신 거예요.
-카르멘: 그리고 전화번호는? 뒷면에?
-마리솔: 무료 법률 상담 전화요. 그리고 제 번호요. 손으로 썼어요. 저한테 먼저 전화하세요. 몇 시든요. 진심이에요.
-카르멘: 냉장고에 붙여 둘게. 디에고 그림 옆에.
+아르투로: 그럼 내 영주권은? 매일 지갑에 넣고 다니는데.
+마리솔: 계속 갖고 다니세요, 아빠. 영주권자시니까 갖고 다녀야 해요. 그건 아주 잘하고 계신 거예요.
+카르멘: 그리고 뒷면에 있는 이 전화번호들은 뭐야?
+마리솔: 하나는 무료 법률 상담 전화고, 다른 하나는 제 번호예요. 손으로 썼어요. 저한테 먼저 전화하세요. 몇 시든요. 진심이에요, 엄마.
+카르멘: 냉장고에 붙여 둘게. 디에고 그림 바로 옆에, 다들 볼 수 있게.
 디에고: 우리 건물 냉장고 규칙처럼요! "절대 혼자 서명하지 않기."
-마리솔: 딱 그거야, 얘야. 같은 규칙. 다른 냉장고.
-아르투로: 자, 디에고. 도와주기로 약속했지. 시험 말이야. 시민권 시험.
+마리솔: 딱 그거야, 얘야. 같은 규칙인데 냉장고만 다른 거지.
+아르투로: 자, 디에고. 시험 도와주기로 약속했지. 시민권 시험 말이야, 기억나?
 디에고: 좋아요, 할아버지! 엄마 휴대폰에 문제가 있어요. 준비됐어요? 1번. "이 나라의 최고법은 무엇입니까?"
 아르투로: 헌법.
 디에고: 정답! 2번. "헌법의 첫 열 개 수정 조항을 무엇이라고 부릅니까?"
 아르투로: 그건… 권리 장전.
 디에고: 정답! 3번. "미국 상원 의원은 몇 명입니까?"
-아르투로: 100명. 주마다 두 명씩.
-디에고: 할아버지! 엄청 잘하시네요!
-아르투로: 공부하고 있었어. 매일 밤. 뉴스 끝나고. 네 할머니가 문제를 내. 화장실에서. 문 너머로.
-카르멘: 샤워하면서 답을 노래로 불러. 이제 건물 사람들이 다 권리 장전을 알아.
-디에고: 4번. 어려운 거요. "미국 시민만 가진 권리 하나를 말하세요."
-아르투로: 투표권. 연방 선거에서. 그게 내가 원하는 거야.
-디에고: 정답. 할아버지, 붙을 거예요. 난 알아요.
-아르투로: 내가 붙으면, 얘야, 너도 같이 가자. 선서식에. 네가 국기를 들어.
+아르투로: 100명. 주마다 두 명씩이니까.
+디에고: 할아버지! 진짜 잘하시네요! 생각도 안 하고 맞히셨어요.
+아르투로: 매일 밤 뉴스 끝나고 공부하고 있었거든. 네 할머니가 화장실에서 문 너머로 문제를 내.
+카르멘: 그리고 샤워하면서 답을 노래로 불러. 그래서 이제 건물 사람들이 다 권리 장전을 알아.
+디에고: 4번, 이건 어려운 거예요. "미국 시민만 가진 권리 하나를 말하세요."
+아르투로: 연방 선거에서 투표하는 거. 그게 내가 제일 원하는 거야.
+디에고: 정답. 할아버지, 붙을 거예요. 난 알아요. 정말 잘하실 거예요.
+아르투로: 내가 붙으면, 얘야, 너도 나랑 선서식에 같이 가는 거다. 네가 국기를 들어.
 디에고: 엄마도 와도 돼요?
-아르투로: 네 엄마. 네 할머니. 네 삼촌도, 제시간에 온다면.
-엑토르: 제시간에 갈게요. 이번만큼은 제시간에 갈게요. 새벽 5시에 R선 탈게요.
-카르멘: 아이고, R선. 그럼 3월에나 보겠구나.
+아르투로: 네 엄마, 네 할머니, 그리고 네 삼촌까지. 이번 한 번만이라도 제시간에 온다면.
+엑토르: 제시간에 갈게요, 아빠. 이번만큼은 제시간에 갈게요. 새벽 5시에 R선을 타야 하더라도요.
+카르멘: 아이고, R선. 그럼 3월쯤에나 보겠구나.
 디에고: 할머니! 너무해요! 웃기지만 너무해요.
