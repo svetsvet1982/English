@@ -183,14 +183,14 @@
 056. SAM: You didn't ask.
     샘: 안 물었다고요.
 
-057. VICTORIA: I didn't ask. That's what Ben spent four hours trying to get me to say. I didn't say it in June. I'm saying it now, to you, in an airport, off the record.
-    빅토리아: 안 물었어요. 그게 벤이 네 시간 동안 저한테서 끌어내려던 말이에요. 6월엔 안 했죠. 지금 하는 거예요. 당신한테, 공항에서, 오프 더 레코드로.
+057. VICTORIA: I didn't ask. That's what Ben spent three hours trying to get me to say. In June I said, "I never verified it." Today I'm saying it plainly. To you, in an airport, off the record.
+    빅토리아: 안 물었어요. 그게 벤이 세 시간 동안 저한테서 끌어내려던 말이에요. 6월엔 "확인한 적 없다"고 했죠. 오늘은 분명하게 말하는 거예요. 당신한테, 공항에서, 오프 더 레코드로.
 
 058. SAM: Why?
     샘: 왜요?
 
-059. VICTORIA: Because in July, I read Martin's email in the hearing room. The one Kevin kept. I'd never seen it. I believe in a lot of things, Sam. Winning. Leverage. Being first. But I didn't think I worked at a company that wrote that email.
-    빅토리아: 7월에 심리실에서 마틴의 이메일을 읽었거든요. 케빈이 갖고 있던 거요. 전 처음 봤어요. 전 많은 걸 믿어요, 샘. 승리, 지렛대, 일등. 근데 그런 이메일을 쓰는 회사에서 일한다고는 생각 안 했어요.
+059. VICTORIA: Because in June, in that deposition room, I read Martin's November email for the first time. "Bring everything. Delete this." I believe in winning, Sam. Leverage. Being first. But I didn't think I worked at a company that wrote that.
+    빅토리아: 6월에 그 녹취실에서 마틴의 11월 이메일을 처음 읽었거든요. "전부 가져와. 이건 지우고." 전 승리를 믿어요, 샘. 지렛대, 일등. 근데 그런 걸 쓰는 회사에서 일한다고는 생각 안 했어요.
 
 060. SAM: You told him to compete in eighteen months. What did you think he'd do?
     샘: 18개월 안에 경쟁하라고 했잖아요. 그 사람이 뭘 할 거라고 생각했어요?
@@ -213,8 +213,8 @@
 066. SAM: But you knew.
     샘: 근데 알았죠.
 
-067. VICTORIA: I found out in October. After. A communications firm in Washington. Hired by somebody in our government affairs office. I could have stopped the second month. I didn't. That one is mine.
-    빅토리아: 10월에 알았어요. 나중에요. 워싱턴의 홍보 회사였어요. 우리 대관 사무실의 누군가가 고용했고요. 두 번째 달엔 막을 수 있었어요. 안 막았죠. 그건 제 책임이에요.
+067. VICTORIA: After June, I finally asked. A communications firm in Washington, hired by our government affairs office. I could have asked a year earlier. I didn't. That one is mine.
+    빅토리아: 6월 이후에야 물어봤어요. 워싱턴의 홍보 회사였고, 우리 대관 사무실이 고용했더라고요. 1년 먼저 물어볼 수도 있었어요. 안 물었죠. 그건 제 책임이에요.
 
 068. SAM: Wen's father is seventy-one. He thought his daughter was in trouble. She lied to him for the first time in ten years so he wouldn't worry.
     샘: 웬 아버지는 일흔한 살이에요. 딸이 곤경에 빠진 줄 아셨어요. 웬은 아버지 걱정 안 하시게 10년 만에 처음으로 거짓말을 했고요.
@@ -354,14 +354,14 @@
 113. SAM: Kevin? You're worried about Kevin? After everything that happened?
     샘: 케빈이요? 케빈을 걱정한다고요? 그 일이 다 있었는데?
 
-114. VICTORIA: He's on leave. Calloway's lawyers want to blame him for everything. A thirty-six-year-old engineer with two kids. If there's ever a settlement, Sam, put something in it that protects him. Calloway won't think of it. I'm asking you to.
-    빅토리아: 휴직 중이에요. 캘러웨이 변호사들은 모든 걸 그 사람 탓으로 돌리고 싶어 해요. 아이 둘 있는 서른여섯 살 엔지니어한테요. 합의가 이뤄지면, 샘, 그 사람을 보호하는 조항을 넣어요. 캘러웨이는 그런 생각 못 할 거예요. 제가 부탁하는 거예요.
+114. VICTORIA: Calloway's lawyers want to blame him for everything. A thirty-six-year-old engineer with two kids. If there's ever a settlement, Sam, put something in it that protects him. Calloway won't think of it. I'm asking you to.
+    빅토리아: 캘러웨이 변호사들은 모든 걸 그 사람 탓으로 돌리고 싶어 해요. 아이 둘 있는 서른여섯 살 엔지니어한테요. 합의가 이뤄지면, 샘, 그 사람을 보호하는 조항을 넣어요. 캘러웨이는 그런 생각 못 할 거예요. 제가 부탁하는 거예요.
 
 115. SAM: Why do you care about Kevin? He's the one who took it.
     샘: 케빈은 왜 신경 써요? 가져간 사람은 그 사람이잖아요.
 
-116. VICTORIA: Because I approved his offer. Two hundred and ten thousand and a signing bonus. The letter said "factory automation." I signed it. I knew that wasn't true.
-    빅토리아: 제가 그 사람 채용 제안을 승인했으니까요. 21만 달러에 사이닝 보너스. 편지엔 '공장 자동화'라고 쓰여 있었죠. 제가 서명했어요. 사실이 아닌 거 알면서요.
+116. VICTORIA: Because Kevin was the hands. Martin was the head. And I was the one who never asked the head a single question. Somebody should protect the hands.
+    빅토리아: 케빈은 손이었고, 마틴은 머리였으니까요. 그리고 전 그 머리한테 질문 하나 안 한 사람이고요. 누군가는 손을 지켜 줘야죠.
 
 117. SAM: Is that on the record?
     샘: 그건 온 더 레코드예요?
@@ -369,11 +369,11 @@
 118. VICTORIA: Nothing today is on the record.
     빅토리아: 오늘 건 아무것도 온 더 레코드가 아니에요.
 
-119. SAM: And Martin Shaw? What happens to the man who wrote the email?
-    샘: 그럼 마틴 쇼는요? 그 이메일을 쓴 사람은 어떻게 돼요?
+119. SAM: And Martin Shaw? The man who wrote the email?
+    샘: 그럼 마틴 쇼는요? 그 이메일을 쓴 사람은요?
 
-120. VICTORIA: Martin will be gone by Christmas. Either they'll blame him or me. Or both. That's how a bridge stays standing. You throw away the cracked pieces and pour new concrete.
-    빅토리아: 마틴은 크리스마스 전에 사라질 거예요. 그 사람 탓을 하든 제 탓을 하든. 아니면 둘 다든. 다리가 그렇게 서 있는 거예요. 금 간 조각은 버리고 새 콘크리트를 붓죠.
+120. VICTORIA: Martin's been on leave since June. He's not coming back. Now they need a second name. It's me, or nobody. That's how a bridge stays standing. You throw away the cracked pieces and pour new concrete.
+    빅토리아: 마틴은 6월부터 휴직 중이에요. 안 돌아올 거예요. 이제 두 번째 이름이 필요하죠. 저든지, 아무도 아니든지. 다리가 그렇게 서 있는 거예요. 금 간 조각은 버리고 새 콘크리트를 붓죠.
 
 121. SAM: Victoria, why are you really telling me all this?
     샘: 빅토리아, 진짜로 왜 이걸 다 나한테 말하는 거예요?
