@@ -69,8 +69,8 @@
 018. VICTORIA: Mr. Adler. Sam. Good morning.
     빅토리아: 애들러 변호사님. 샘. 좋은 아침이에요.
 
-019. SAM: Good morning.
-    샘: 좋은 아침이에요.
+019. SAM: Good morning, Victoria. It's been a while since the coffee.
+    샘: 좋은 아침이에요, 빅토리아. 그 커피 이후로 오랜만이네요.
 
 020. VICTORIA: You look tired. Is that the heat, or the lawsuit?
     빅토리아: 피곤해 보이네요. 더위 때문이에요, 소송 때문이에요?
@@ -375,8 +375,8 @@
 120. VICTORIA: I'll tell you something true, and then I'll deny I said it. In a company like mine, the people who ask questions don't get promoted. The people who deliver get promoted.
     빅토리아: 사실 하나 말해 줄게요. 그러고 나서 그런 말 안 했다고 할 거예요. 우리 같은 회사에선 질문하는 사람은 승진 못 해요. 결과를 내는 사람이 승진하죠.
 
-121. SAM: And you delivered.
-    샘: 그리고 당신은 결과를 냈고요.
+121. SAM: And you delivered. Ahead of schedule, I assume.
+    샘: 그리고 당신은 결과를 냈고요. 일정보다 앞서서겠죠.
 
 122. VICTORIA: Eighteen months early. The stock went up six percent in ten minutes. I had a very good year, Sam. I got a bonus I'm now trying very hard not to think about.
     빅토리아: 18개월 일찍요. 주가가 10분 만에 6퍼센트 올랐어요. 아주 좋은 한 해였죠, 샘. 지금은 생각 안 하려고 엄청 애쓰는 보너스도 받았고요.

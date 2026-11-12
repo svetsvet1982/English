@@ -45,11 +45,11 @@
 010. DONNA: Pie! Lou's Diner, two hundred and fifty pies, one for every year. Stan, coconut cream is under the table. I hid it from Tyler.
     도나: 파이요! 루스 다이너, 파이 250개, 1년에 하나씩. 스탠, 코코넛 크림은 테이블 밑에 있어요. 타일러 몰래 숨겨 놨어요.
 
-011. TYLER: I saw that, Donna.
-    타일러: 다 봤어요, 도나.
+011. TYLER: I saw that, Donna. I see everything that involves pie.
+    타일러: 다 봤어요, 도나. 파이 관련된 건 전부 보여요.
 
-012. DONNA: You saw nothing, sweetheart.
-    도나: 넌 아무것도 못 봤어, 얘.
+012. DONNA: You saw nothing, sweetheart. Not a single coconut.
+    도나: 넌 아무것도 못 봤어, 얘. 코코넛 하나도.
 
 013. SAM: Wen, you came. I wasn't sure you would. It's loud here.
     샘: 웬, 왔네요. 올지 몰랐어요. 여기 시끄럽잖아요.
@@ -93,8 +93,8 @@
 026. STAN: My feet complain to you every day. You're the only one who listens.
     스탠: 내 발은 매일 너한테 불평하지. 들어 주는 사람이 너뿐이니까.
 
-027. ERIN: That's my job.
-    에린: 그게 제 일이에요.
+027. ERIN: That's my job, Stan. Feet are my specialty.
+    에린: 그게 제 일이에요, 아버님. 발은 제 전문이에요.
 
 028. GLORIA: Erin, honey, sit with me. You look like you worked a twelve.
     글로리아: 에린, 자기, 나랑 앉아. 12시간 근무한 얼굴이야.
@@ -141,8 +141,8 @@
 042. EARL: You put a flag on Betsy without asking me?
     얼: 나한테 묻지도 않고 베치에 깃발을 꽂았어?
 
-043. WEN: Betsy didn't object.
-    웬: 베치는 이의 없었어요.
+043. WEN: Betsy didn't object. She hasn't complained once all day.
+    웬: 베치는 이의 없었어요. 오늘 하루 종일 한 번도 불평 안 했어요.
 
 044. STAN: Okay. Everybody quiet. The sun's going down, and I'm old, and if I don't tell this now, I'll fall asleep before the fireworks.
     스탠: 자. 다들 조용. 해가 지고 있고, 난 늙었고, 지금 이 얘기 안 하면 불꽃놀이 전에 잠들 거다.
