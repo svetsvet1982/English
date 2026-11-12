@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 12부 12화 · 서사 기능: 시리즈 피날레 — 리더십 이양, 2공장 첫 아침 허들, 마지막 대사
-> - 배경: 2공장 바닥, 새벽(오전 4시 50분~5시 50분, Sam 혼자 → 야간 청소팀, Donna) → 같은 바닥, 출근하는 직원들(6시~6시 45분) → 이사 온 Old Betsy 앞, 리더십 이양 발표(6시 50분) → 첫 아침 허들(7시). 2027년 10월 18일 월요일, 맑고 서늘함.
+> - 배경: 2공장 1단계 건물(옛 시트 프레임 창고 개조) 바닥, 새벽(오전 4시 50분~5시 50분, Sam 혼자 → 야간 청소팀, Donna) → 같은 바닥, 출근하는 직원들(6시~6시 45분) → 이사 온 Old Betsy 앞, 리더십 이양 발표(6시 50분) → 첫 아침 허들(7시). 2027년 10월 18일 월요일, 맑고 서늘함.
 > - 등장인물: Sam, Gladys, Donna, Earl, Patty, Darnell, Jayden, Isaiah, Maddie, Dennis, Teresa, Marcus, Tyler, Gloria, Victoria, 민준, Lily, Erin, Stan, Wen, Mr. Liu(영상통화)
 > - 실제 사건 / 현안 태그: 창업자 세대의 경영 승계, 직원 소유 기업의 거버넌스(직원 선출 이사), 선박 전기추진 모터 시제품
 > - 난이도: B2 · 턴 수: 150
@@ -45,8 +45,8 @@
 010. GLADYS: My shift ends at five. But I own part of this floor now. I'm staying. I'll sit on a bucket.
     글래디스: 제 교대는 다섯 시에 끝나요. 근데 이제 이 바닥 일부가 제 거잖아요. 남을래요. 양동이 위에 앉을게요.
 
-011. SAM: We'll get you a chair.
-    샘: 의자 갖다드릴게요.
+011. SAM: We'll get you a chair, Gladys. A real one, with a back.
+    샘: 의자 갖다드릴게요, 글래디스. 등받이 있는 진짜 의자로요.
 
 012. GLADYS: A bucket's fine. A bucket's honest.
     글래디스: 양동이면 돼요. 양동이는 정직하잖아요.
@@ -54,11 +54,11 @@
 013. SAM: Okay, Betsy. It's just us again. Can I tell you something? Eleven years ago, I bought you for eleven thousand dollars from a factory that closed. I didn't know if you'd work. Dad found you on page nine.
     샘: 좋아, 베치. 다시 우리 둘이네. 하나 말해도 돼? 11년 전에 문 닫은 공장에서 1만 1천 달러에 널 샀어. 네가 돌아갈지도 몰랐지. 아버지가 신문 9면에서 찾으셨어.
 
-014. SAM: The first motor I put on you failed. The second one failed. The third one, Wen's rotor, at three in the morning, passed. Ninety-one point four percent. She cried. I pretended I didn't see.
-    샘: 너한테 처음 올린 모터는 떨어졌어. 두 번째도 떨어졌고. 세 번째, 웬의 로터는 새벽 세 시에 통과했지. 91.4퍼센트. 웬이 울었어. 난 못 본 척했고.
+014. SAM: The first motor I put on you failed. The second one failed. The third one, Wen's rotor, at three in the morning, passed. Eighty-nine percent. She cried. I pretended I didn't see.
+    샘: 너한테 처음 올린 모터는 떨어졌어. 두 번째도 떨어졌고. 세 번째, 웬의 로터는 새벽 세 시에 통과했지. 89퍼센트. 웬이 울었어. 난 못 본 척했고.
 
-015. SAM: Thirty-eight people when we started this story. Six hundred and four this morning. Two plants and half of one in Georgia. And you tested every single motor.
-    샘: 이 이야기가 시작될 때 서른여덟 명. 오늘 아침엔 육백네 명. 공장 두 개에 조지아 공장 절반. 그리고 넌 모터 하나하나를 다 시험했지.
+015. SAM: Thirty-eight people when we started this story. Three hundred and fifty-two this morning. Two buildings in Moraine and thirty percent of one in Georgia. And you tested every single motor.
+    샘: 이 이야기가 시작될 때 서른여덟 명. 오늘 아침엔 삼백쉰두 명. 모레인에 건물 두 개, 그리고 조지아 공장의 30퍼센트. 그리고 넌 모터 하나하나를 다 시험했지.
 
 016. SAM: Today, I'm stepping aside. Not out. Aside. Wen's going to ask the question. I'm going to stand in the back and try not to make a face.
     샘: 오늘 난 옆으로 비켜. 나가는 게 아니라. 옆으로. 웬이 그 질문을 할 거야. 난 뒤에 서서 표정 안 지으려고 애쓸 거고.
@@ -75,8 +75,8 @@
 020. DONNA: My nephew's opening Lou's. I've got four pies in the car and two pots of coffee. From the goose. I drove to plant one first and made Earl's crew fill them.
     도나: 조카가 Lou's 열어. 차에 파이 네 개랑 커피 두 주전자 있어. 거위에서 내린 거야. 1공장 먼저 들러서 얼네 사람들한테 채우라고 했지.
 
-021. SAM: Pie at six in the morning.
-    샘: 아침 여섯 시에 파이라니.
+021. SAM: Pie at six in the morning, Donna? Even for you, that's early.
+    샘: 아침 여섯 시에 파이라니요, 도나? 도나치고도 이른데요.
 
 022. DONNA: Nobody recommends pie at six in the morning. That's why it's good. Cherry. Since 1991. And coconut cream for your father. Half a slice. His doctor still calls me.
     도나: 아침 여섯 시에 파이 추천하는 사람은 없지. 그래서 맛있는 거야. 체리. 1991년부터. 그리고 아버지 드릴 코코넛 크림. 반 조각. 의사가 아직도 나한테 전화해.
@@ -99,8 +99,8 @@
 028. DONNA: Honey, every morning for eleven years, you came into my diner looking like you were carrying a refrigerator up the stairs. Last Tuesday, you came in with Erin and ate eggs like a person. That's my answer.
     도나: 얘, 11년 동안 매일 아침 넌 냉장고를 지고 계단 올라가는 사람 얼굴로 우리 가게에 들어왔어. 지난 화요일엔 에린이랑 와서 사람처럼 달걀을 먹더라. 그게 내 대답이야.
 
-029. SAM: That's a good answer.
-    샘: 좋은 대답이네요.
+029. SAM: That's a good answer, Donna. Better than anything Gloria could print.
+    샘: 좋은 대답이네요, 도나. 글로리아가 출력할 수 있는 어떤 것보다 나아요.
 
 030. DONNA: It's the only one I've got. Now go put on a clean shirt. You've got grease on your collar.
     도나: 내가 가진 유일한 대답이야. 이제 가서 깨끗한 셔츠로 갈아입어. 깃에 기름 묻었어.
@@ -126,8 +126,8 @@
 037. STAN: The paint can was the only seat. Eleven people and a paint can. Look at this now.
     스탠: 앉을 데가 페인트 통뿐이었어. 열한 명이랑 페인트 통 하나. 지금 이거 봐라.
 
-038. SAM: Six hundred and four. And a bucket. Gladys is sitting on it.
-    샘: 육백네 명. 그리고 양동이 하나. 글래디스가 앉아 있어요.
+038. SAM: Three hundred and fifty-two. And a bucket. Gladys is sitting on it.
+    샘: 삼백쉰두 명. 그리고 양동이 하나. 글래디스가 앉아 있어요.
 
 039. STAN: Good woman. Sam, are you okay? You look like you did at your wedding.
     스탠: 좋은 사람이네. 샘, 괜찮냐? 결혼식 때 얼굴이다.
@@ -138,8 +138,8 @@
 041. EARL: Morning. Don't say anything about Betsy. She's fine. She's level. I checked her with your father's old level twice.
     얼: 좋은 아침. 베치 얘긴 하지 마. 괜찮아. 수평 맞아. 네 아버지 옛날 수평계로 두 번 확인했어.
 
-042. SAM: Earl. You're wearing the pin.
-    샘: 얼. 배지 달고 있네요.
+042. SAM: Earl. You're wearing the pin. On a Monday, on the floor.
+    샘: 얼. 배지 달고 있네요. 월요일에, 현장에서.
 
 043. EARL: Every day. On my work shirt. Loretta sewed a little loop so it doesn't fall off. She said, "If you lose that pin, don't come home."
     얼: 매일. 작업복에. 로레타가 안 떨어지게 작은 고리를 꿰매 줬어. "그 배지 잃어버리면 집에 오지 마"래.
@@ -153,8 +153,8 @@
 046. PATTY: Sam! Did you hear? Did anybody tell you?
     패티: 샘! 들었어? 누가 말해 줬어?
 
-047. SAM: Tell me what, Patty?
-    샘: 뭘요, 패티?
+047. SAM: Tell me what, Patty? Nobody tells me anything anymore.
+    샘: 뭘요, 패티? 이젠 아무도 나한테 말을 안 해 줘요.
 
 048. PATTY: The board seat. The employee seat. The vote closed Friday at midnight. Earl nominated me. I didn't even know until Wednesday.
     패티: 이사회 자리. 직원 자리. 투표가 금요일 자정에 마감됐어. 얼이 나를 추천했대. 수요일까지 나도 몰랐어.
@@ -183,8 +183,8 @@
 056. JAYDEN: Morning, boss. Plant two second shift is at a hundred and twelve people. All trained. Nobody's broken a stator. Yet.
     제이든: 좋은 아침이에요, 보스. 2공장 2교대가 백열두 명이에요. 전원 교육 끝. 아무도 스테이터 안 깼어요. 아직은요.
 
-057. SAM: Jayden. Your mom still worried?
-    샘: 제이든. 어머니 아직도 걱정하셔?
+057. SAM: Jayden. Is your mom still worried about the license thing?
+    샘: 제이든. 어머니 아직도 라이선스 얘기 걱정하셔?
 
 058. JAYDEN: She stopped worrying when she saw the ESOP letter. Now she brags. She told her whole church. Her pastor asked if you're hiring.
     제이든: ESOP 편지 보시고 걱정 그만하셨어요. 이젠 자랑하세요. 교회 전체에 말하셨어요. 목사님이 대표님이 사람 뽑냐고 물으시더라고요.
@@ -228,8 +228,8 @@
 071. TYLER: Boss! Morning! I want you to know, I'm the two a.m. phone now. For Lakeland's hospitals. I said yes. Wen asked me. Not you.
     타일러: 보스! 좋은 아침이에요! 알려 드리고 싶은데요, 이제 제가 새벽 두 시 전화 담당이에요. 레이크랜드 병원들 거요. '예스' 했어요. 웬이 물어봤어요. 보스가 아니라.
 
-072. SAM: How does it feel?
-    샘: 기분이 어때?
+072. SAM: How does it feel, Tyler? Being the guy who answers at two a.m.?
+    샘: 기분이 어때, 타일러? 새벽 두 시에 전화 받는 사람이 된 거?
 
 073. TYLER: Like the Army. But with better coffee. Copy that, Sam.
     타일러: 군대 같아요. 커피가 더 좋을 뿐. 접수예요, 샘.
@@ -246,14 +246,14 @@
 077. VICTORIA: Sam. Before you go up. Wen asked me something yesterday. I want you to hear it from me.
     빅토리아: 샘. 올라가기 전에요. 어제 웬이 뭘 물어봤어요. 저한테서 직접 들으셨으면 해서요.
 
-078. SAM: What did she ask?
-    샘: 뭘 물어봤는데요?
+078. SAM: What did she ask you? She didn't mention it to me.
+    샘: 웬이 뭘 물어봤는데요? 나한텐 말 안 했어요.
 
-079. VICTORIA: My trial ends in January. She said, "That's my decision now, not Sam's. Stay." No conditions. Just "stay."
-    빅토리아: 제 시험 기간이 1월에 끝나잖아요. 웬이 "이제 그건 샘 결정이 아니라 제 결정이에요. 남아요" 했어요. 조건 없이. 그냥 "남아요."
+079. VICTORIA: My trial ends in January. You recused yourself, so Wen and Earl decided. Early. Earl said, "She wound coils on Saturdays. She stays." Wen just said, "Stay."
+    빅토리아: 제 시험 기간이 1월에 끝나잖아요. 샘은 빠지셨으니 웬이랑 얼이 정했어요. 일찍요. 얼은 "토요일마다 코일 감았잖아. 남아" 했고. 웬은 그냥 "남아요" 했어요.
 
-080. SAM: What did you say?
-    샘: 뭐라고 했어요?
+080. SAM: And what did you say, Victoria? Honestly?
+    샘: 그래서 뭐라고 했어요, 빅토리아? 솔직하게요?
 
 081. VICTORIA: I said yes. Then I went to my car and cried for ten minutes. It was a better ten minutes than the hour in July.
     빅토리아: '예스' 했어요. 그러고는 차로 가서 10분 울었어요. 7월의 그 한 시간보다 나은 10분이었어요.
@@ -282,8 +282,8 @@
 089. EARL: So am I. Fifty-eight seconds is the record.
     얼: 나도. 기록은 58초야.
 
-090. SAM: Okay. Good morning, everybody. Six hundred and four of you. And Gladys on a bucket. Thank you for coming in early. Three things.
-    샘: 좋아. 다들 좋은 아침. 육백네 명. 그리고 양동이 위의 글래디스. 일찍 와 줘서 고마워. 세 가지.
+090. SAM: Okay. Good morning, everybody. Three hundred and fifty-two of you. And Gladys on a bucket. Thank you for coming in early. Three things.
+    샘: 좋아. 다들 좋은 아침. 삼백쉰두 명. 그리고 양동이 위의 글래디스. 일찍 와 줘서 고마워. 세 가지.
 
 091. SAM: One. Starting this morning, I'm not the CEO of Ferrox anymore. I'm handing over the reins. I'll be chairman of the board, and chief engineer. Which means I get to build things again.
     샘: 하나. 오늘 아침부터 난 페록스 CEO가 아니야. 고삐를 넘겨. 이사회 의장, 그리고 수석 엔지니어가 될 거야. 다시 뭔가를 만들 수 있다는 뜻이지.
@@ -297,7 +297,7 @@
 094. PATTY: Oh my God. Wen.
     패티: 세상에. 웬.
 
-095. SAM: Three. Ten years ago, a blog said she was a spy. Two years ago, the Army wouldn't let her see her own code. In July, she became a citizen. Today, she's the boss. Nobody can tell her she can't anymore.
+095. SAM: Three. Two years ago, a blog said she was a spy. Last year, the Army wouldn't let her see her own code. In July, she became a citizen. Today, she's the boss. Nobody can tell her she can't anymore.
     샘: 셋. 2년 전엔 블로그가 웬을 스파이라고 했어. 작년엔 육군이 자기 코드를 못 보게 했고. 7월에 시민이 됐어. 오늘은 대표야. 이제 아무도 웬한테 안 된다고 못 해.
 
 096. GLORIA: Fifty-one seconds. A new record.
@@ -306,8 +306,8 @@
 097. EARL: He cheated. Number three had four sentences.
     얼: 반칙이야. 세 번째에 문장이 네 개였어.
 
-098. WEN: Can I talk now?
-    웬: 이제 제가 말해도 돼요?
+098. WEN: Can I talk now? Or is there a fourth thing?
+    웬: 이제 제가 말해도 돼요? 아니면 네 번째도 있어요?
 
 099. SAM: It's your floor, Wen.
     샘: 네 바닥이야, 웬.
@@ -324,11 +324,11 @@
 103. WEN: He texted me at ten-oh-four on Wednesday. I'm counting that as a warning.
     웬: 수요일 10시 4분에 문자했지만요. 경고 한 번으로 칠게요.
 
-104. SAM: It was about the tug motor.
-    샘: 예인선 모터 얘기였어.
+104. SAM: It was about the tug motor. It was important. Mostly.
+    샘: 예인선 모터 얘기였어. 중요한 거였다고. 대체로.
 
-105. WEN: Everything is about the tug motor. Third. I came to America in 2008 for a degree. I stayed for a garage. Now the garage is six hundred people, and thirty percent of it is yours. I'm not your owner. I work for you.
-    웬: 모든 게 예인선 모터 얘기죠. 셋째. 전 2008년에 학위를 받으러 미국에 왔어요. 차고 때문에 남았고요. 이제 그 차고가 육백 명이 됐고, 그중 30퍼센트는 여러분 거예요. 전 여러분의 주인이 아니에요. 여러분을 위해 일해요.
+105. WEN: Everything is about the tug motor. Third. I came to America in 2008 for a degree. I stayed for a garage. Now the garage is three hundred and fifty people, and thirty percent of it is yours. I'm not your owner. I work for you.
+    웬: 모든 게 예인선 모터 얘기죠. 셋째. 전 2008년에 학위를 받으러 미국에 왔어요. 차고 때문에 남았고요. 이제 그 차고가 삼백오십 명이 됐고, 그중 30퍼센트는 여러분 거예요. 전 여러분의 주인이 아니에요. 여러분을 위해 일해요.
 
 106. GLADYS: Amen.
     글래디스: 아멘.
@@ -351,8 +351,8 @@
 112. GLORIA: Before the huddle. One thing. My board. Everybody look. I've counted runway every Friday since 2016. In weeks. Then in months. Nine weeks. Four weeks. Thirty months.
     글로리아: 허들 전에. 하나만. 내 칠판. 다들 봐. 2016년부터 금요일마다 런웨이를 셌어. 주 단위로. 그다음엔 달 단위로. 9주. 4주. 30개월.
 
-113. TYLER: Is she erasing it?
-    타일러: 지우시는 거예요?
+113. TYLER: Wait. Is she erasing it? The whole thing?
+    타일러: 잠깐요. 지우시는 거예요? 통째로요?
 
 114. GLORIA: I'm erasing it, baby. And I'm writing this. In green. "Runway: n/a."
     글로리아: 지운다, 얘. 그리고 이렇게 쓴다. 초록색으로. "런웨이: 해당 없음."
@@ -498,7 +498,7 @@
 
 ## 시리즈 정리 (낭독하지 않음)
 
-- **TORQUE (2024.11~2027.10, 12부 144화)**는 희토류 없이 회전력을 설계하는 데이턴의 38명짜리 공장이, 관세·희토류 통제·이민 단속·셧다운·선거·기술 도용 소송을 지나 600명이 일하는 직원 소유 기업이 되는 3년의 기록이다. 시장은 전기자전거에서 세탁기·자동차·드론·트랙터·히트펌프·데이터센터·전동공구·수술 로봇·휴머노이드·선박으로 넓어졌지만, 답은 늘 같았다. **설계(로터 '417) + 펌웨어(Governor) + 빠른 공정 전환**, 그리고 Wen이 덧붙인 네 번째 — **신뢰**.
+- **TORQUE (2024.11~2027.10, 12부 144화)**는 희토류 없이 회전력을 설계하는 데이턴의 38명짜리 공장이, 관세·희토류 통제·이민 단속·셧다운·선거·기술 도용 소송을 지나 350명이 일하는 직원 소유 기업(2029년 목표 600명)이 되는 3년의 기록이다. 시장은 전기자전거에서 세탁기·자동차·드론·트랙터·히트펌프·데이터센터·전동공구·수술 로봇·휴머노이드·선박으로 넓어졌지만, 답은 늘 같았다. **설계(로터 '417) + 펌웨어(Governor) + 빠른 공정 전환**, 그리고 Wen이 덧붙인 네 번째 — **신뢰**.
 - 긴 줄기의 결말: **Calloway 전쟁**은 STAN76 카나리아(3부)에서 ITC 수입배제(11부)와 합의·로열티로 끝났고, 그 회사의 살티요 공장은 이제 2공장의 모터로 돌아간다. **Victoria**는 메모를 쓰는 사람에서 '남아 달라'는 말을 듣는 사람이 되었고, **Kevin**은 증언과 밸브 하나로 돌아왔다. **Wen**은 "Physics doesn't have a passport."의 현수막 아래에서 시민이 되고 CEO가 되었다. **민준·대성**은 조지아의 구금에서 울산의 저녁 식탁과 예인선 합작까지 왔다.
 - **가족**: Lily는 Old Betsy 프레임을 잡고 걸음마를 배운 아이에서 자기 설계를 그 Betsy에 거는 엔지니어가 되었고, Stan은 "They closed Moraine with a memo."의 상처를 "Don't build a grudge. Build a factory."로 바꿔 배지를 Earl에게 넘겼다. Erin은 "When do we get to live?"에서 "We're in this together. Ours."로 왔다.
 - **모티프의 착지**: 아침 허들 "What spins today?"(1부 1화 Sam → 12부 12화 Wen), "Let's see if it spins."(Sam → Erin의 비꼼 → Lily의 진심 → Wen), Gloria의 칠판(9 weeks → 4 weeks → 30 months → n/a), Earl의 "Metal don't lie."(오 기사님의 "Metal, no lie."), 라이트 형제의 대사, 그리고 제목의 뜻 — **"Torque isn't speed. It's what gets heavy things moving."**

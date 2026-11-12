@@ -129,8 +129,8 @@
 038. SAM: I just wanted to bring Lily some coffee. That's all.
     샘: 그냥 릴리한테 커피 좀 갖다주려고 했지. 그게 다야.
 
-039. LILY: Dad. I don't drink coffee. You know that.
-    릴리: 아빠. 나 커피 안 마셔. 알잖아.
+039. LILY: Mr. Kowalski. Dad. I don't drink coffee. You know that.
+    릴리: 코왈스키 대표님. 아빠. 나 커피 안 마셔. 알잖아.
 
 040. SAM: It's hot chocolate. From the goose. It does that now. Kevin fixed the steam.
     샘: 핫초코야. 거위에서. 이제 그것도 돼. 케빈이 스팀 고쳤거든.
@@ -492,4 +492,4 @@
 
 ## 다음 화 예고 (낭독하지 않음)
 
-- 12부 12화 Torque. 10월 18일 새벽, 2공장. 아무도 없는 바닥을 Sam이 혼자 걷는다. 이사 온 Old Betsy 앞, 고리에 걸린 데일의 렌치, 벽에 걸린 2025년의 현수막. 일곱 시, 육백 명 앞에서 Wen이 묻는다. "What spins today?" 그리고 예인선 모터가 아주, 아주 천천히 돌기 시작한다.
+- 12부 12화 Torque. 10월 18일 새벽, 2공장. 아무도 없는 바닥을 Sam이 혼자 걷는다. 이사 온 Old Betsy 앞, 고리에 걸린 데일의 렌치, 벽에 걸린 2025년의 현수막. 일곱 시, 삼백쉰두 명 앞에서 Wen이 묻는다. "What spins today?" 그리고 예인선 모터가 아주, 아주 천천히 돌기 시작한다.

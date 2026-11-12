@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 12부 10화 · 서사 기능: 시리즈 카메오의 총집합, Stan 줄기의 완결(UAW 배지 전달)
-> - 배경: 2공장 정문 앞, 빨간 테이프와 의자 이백 개(새벽 6시 반 준비) → 같은 자리, 내빈 도착(오전 9시) → 연단, Stan의 연설(오전 10시) → 테이프 앞(오전 10시 반). 2027년 10월 4일 월요일, 맑고 쌀쌀함. 길 건너 옛 GM 모레인 공장(현재 유리 공장)이 보인다.
+> - 배경: 2공장 1단계 건물(옛 시트 프레임 협력업체 창고 개조: 견습 훈련 센터 + 1번 라인 + 보강 시험 구역)과 옛 GM 북쪽 주차장 40에이커 부지(본공장 착공식, 초등학생 금색 삽 40개). 울타리 구멍 자리의 새 문 "To Lou's"에 빨간 테이프, 의자 이백 개(새벽 6시 반 준비) → 같은 자리, 내빈 도착(오전 9시) → 연단, Stan의 연설(오전 10시) → 테이프 앞(오전 10시 반). 2027년 10월 4일 월요일, 맑고 쌀쌀함. 길 건너 옛 GM 모레인 공장(현재 유리 공장)이 보인다.
 > - 등장인물: Sam, Stan, Earl, Gloria, Tyler, Wen, Lily, Erin, Donna, Denise, Victoria, 내빈 — Nina, Gary Holt, Eddie Kowalski(신규 화자, Stan의 사촌, Haverford 30년 은퇴), Frank DeLuca, Linda Farrow, Dale·Ruth Amundsen, Tony Russo, Raj Mehta, Dr. Karim, Kayla Reese, 민준, 오상철 기사님(OH)
 > - 실제 사건 / 현안 태그: 미국 제조업 공장 신·증설과 지역 재생(옛 공장 부지의 재활용), 노조 세대 교체
 > - 난이도: B2 · 턴 수: 150
@@ -15,8 +15,8 @@
 
 ## 대본
 
-001. TYLER: Okay. Two hundred chairs. Forty-one VIPs. One ribbon. Two pairs of big scissors, in case one breaks. And Donna's pies on three tables.
-    타일러: 좋아요. 의자 이백 개. VIP 마흔한 명. 테이프 하나. 큰 가위 두 개, 하나 부러질 경우를 대비해서. 그리고 도나 파이 테이블 세 개.
+001. TYLER: Okay. Two hundred chairs. Forty-one VIPs. One ribbon on the new gate. Forty gold shovels for the kids from the elementary school. And Donna's pies on three tables.
+    타일러: 좋아요. 의자 이백 개. VIP 마흔한 명. 새 문에 테이프 하나. 초등학교 아이들용 금색 삽 마흔 개. 그리고 도나 파이 테이블 세 개.
 
 002. EARL: Scissors don't break, Tyler. I've used the same pair since 1985.
     얼: 가위는 안 부러져, 타일러. 난 1985년부터 같은 가위 써.
@@ -63,14 +63,14 @@
 016. SAM: Wen, is the line ready? If anybody asks to see it run?
     샘: 웬, 라인 준비됐어? 누가 돌아가는 거 보고 싶다고 하면?
 
-017. WEN: Line one is running. Motors for Saltillo, for the bridge order. Line two is robot joints for Steelhand. And the test bay in the back is empty, for the tug prototype. Two weeks.
-    웬: 1번 라인 돌아가요. 살티요 브리지 주문용 모터요. 2번 라인은 스틸핸드 로봇 관절이고요. 뒤쪽 시험 구역은 비워 뒀어요. 예인선 시제품용으로. 2주 뒤요.
+017. WEN: Phase one is running. Line one, motors for Saltillo, for the bridge order. The training center, forty benches. And the reinforced bay in the back is empty, for the tug prototype. Two weeks.
+    웬: 1단계 돌아가요. 1번 라인은 살티요 브리지 주문 모터. 훈련 센터엔 작업대 마흔 개. 뒤쪽 보강한 시험 구역은 비워 뒀어요. 예인선 시제품용으로. 2주 뒤요.
 
 018. EARL: The first motor that came off line one in this building went to Mexico. To Calloway's plant. Three years ago, I'd have thrown it at their truck.
     얼: 이 건물 1번 라인에서 나온 첫 모터가 멕시코로 갔어. 캘러웨이 공장으로. 3년 전 같았으면 그 회사 트럭에 던졌을 거다.
 
-019. VICTORIA: It went to eleven hundred people in Saltillo who would have had nothing to build. That was the handshake in New York. It was a good handshake.
-    빅토리아: 살티요에서 만들 게 없었을 천백 명한테 간 거예요. 그게 뉴욕에서의 악수였죠. 좋은 악수였어요.
+019. VICTORIA: I'm not allowed to work on Saltillo. It's in my papers. But I'm allowed to be glad that eleven hundred people there have something to build.
+    빅토리아: 저는 살티요 일은 못 해요. 서류에 그렇게 돼 있어요. 그래도 거기 천백 명이 만들 게 생겼다는 건 기뻐해도 되죠.
 
 020. EARL: I know, Victoria. I'm just telling you what I would've done.
     얼: 알아요, 빅토리아. 내가 어떻게 했을지 말하는 것뿐이에요.
@@ -153,8 +153,8 @@
 046. WEN: For me?
     웬: 저한테요?
 
-047. LINDA: Your access to the Governor-D program. Approved on Friday. Now that you're a citizen, the clause is satisfied. You can see your own code again, Dr. Liu.
-    린다: 거버너-D 프로그램 접근 권한이요. 금요일에 승인됐어요. 이제 시민이시니까 조항이 충족됐어요. 다시 박사님 코드를 보실 수 있어요, 리우 박사님.
+047. LINDA: Your access to the Governor-D program. It started in July, by email. This is the signed original. Now that you're a citizen, the clause is satisfied. It's yours, Dr. Liu.
+    린다: 거버너-D 프로그램 접근 권한이요. 7월에 이메일로 시작됐죠. 이건 서명된 원본이에요. 이제 시민이시니까 조항이 충족됐어요. 박사님 거예요, 리우 박사님.
 
 048. WEN: Is it in writing? I need to see it in writing.
     웬: 서면이에요? 서면으로 봐야겠어요.
@@ -285,8 +285,8 @@
 090. SAM: Then you can quote Gladys. She tells it better.
     샘: 그럼 글래디스를 인용하세요. 그분이 더 잘 말해요.
 
-091. GLORIA: Okay, everybody. Please sit down. We're starting. Sam's going to say two sentences. Then the man who started all of this is going to say what he wants.
-    글로리아: 자, 여러분. 앉아 주세요. 시작합니다. 샘이 두 문장 할 거예요. 그다음엔 이 모든 걸 시작한 분이 하고 싶은 말을 하실 거예요.
+091. GLORIA: Okay, everybody. Please sit down. Two things today. Stan opens phase one, this building, with a ribbon. Then the kids break ground on the forty acres for the big plant. Sam's going to say two sentences first.
+    글로리아: 자, 여러분. 앉아 주세요. 오늘은 두 가지예요. 스탠이 1단계, 이 건물을 테이프로 열고요. 그다음 아이들이 40에이커에 큰 공장 첫 삽을 떠요. 먼저 샘이 두 문장 할 거예요.
 
 092. SAM: Thank you for coming. Everybody in these chairs said yes to us when it would've been easier to say no. That's it. That's my two sentences. Dad.
     샘: 와 주셔서 감사합니다. 이 의자에 앉은 모든 분이, '노' 하는 게 더 쉬웠을 때 우리한테 '예스' 해 주셨습니다. 끝. 두 문장이에요. 아버지.
@@ -399,14 +399,14 @@
 128. TYLER: I have two pairs, Stan. Just in case.
     타일러: 두 개 있어요, 스탠. 혹시 몰라서요.
 
-129. STAN: Sam. Come here. You hold one side. I'll hold the other. This one's not mine. It's ours.
-    스탠: 샘. 이리 와. 한쪽 잡아. 내가 다른 쪽 잡을게. 이건 내 거 아니야. 우리 거야.
+129. STAN: Sam. Come here. Look where they put the ribbon. Across the new gate. Where the hole in the fence was, since 1979. Read the sign.
+    스탠: 샘. 이리 와. 테이프를 어디 걸었는지 봐. 새 문에. 1979년부터 울타리 구멍 있던 자리. 표지판 읽어 봐.
 
-130. SAM: Dad, you're supposed to cut it alone. That's the program.
-    샘: 아버지, 혼자 자르셔야죠. 그게 순서인데요.
+130. SAM: "To Lou's." Dad, you got your sign. You hold one side. I'll hold the other.
+    샘: "Lou's 가는 길." 아버지, 표지판 생겼네요. 한쪽 잡으세요. 제가 다른 쪽 잡을게요.
 
-131. STAN: I'm eighty. I don't follow programs. Earl, your hand too. And Wen. Where's Wen? Get over here. You're in this.
-    스탠: 난 여든이야. 순서 같은 거 안 따라. 얼, 너도 손 대. 그리고 웬. 웬 어디 있어? 이리 와. 너도 같이야.
+131. STAN: One side each? No. I'm eighty. I don't follow programs. Earl, your hand too. And Wen. Where's Wen? Get over here. You're in this.
+    스탠: 한쪽씩? 아니. 난 여든이야. 순서 같은 거 안 따라. 얼, 너도 손 대. 그리고 웬. 웬 어디 있어? 이리 와. 너도 같이야.
 
 132. WEN: Mr. Kowalski, I don't think—
     웬: 코왈스키 씨, 저는 좀—
@@ -435,8 +435,8 @@
 140. DALE: Ruth. I'm going to say something without rambling. That was full circle.
     데일: 루스. 말 길게 안 하고 하나 할게. 그거 완전히 한 바퀴 돌아온 거였어.
 
-141. RUTH: That was very short, Dale. I'm proud of you.
-    루스: 아주 짧았어, 데일. 자랑스러워.
+141. RUTH: That was very short, Dale. I'm proud of you. Now come watch the kids dig. They're already fighting over the gold shovels.
+    루스: 아주 짧았어, 데일. 자랑스러워. 이제 애들 땅 파는 거 보러 가자. 벌써 금색 삽 갖고 싸우고 있어.
 
 142. FRANK: Kowalski. Your old man just out-talked every CEO I've ever heard. In one piece of yellow paper.
     프랭크: 코왈스키. 자네 아버지가 내가 들어 본 모든 CEO보다 말을 잘하네. 노란 종이 한 장으로.

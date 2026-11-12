@@ -405,8 +405,8 @@
 130. GLORIA: And the passport?
     글로리아: 그럼 여권은?
 
-131. SAM: The passport is a disaster. It expired in May. The renewal takes weeks. The only fast way is an appointment at the passport office in Detroit, and they need a new photo.
-    샘: 여권은 엉망이야. 5월에 만료됐어. 갱신은 몇 주 걸리고. 빠른 방법은 디트로이트 여권 사무소 예약뿐인데, 새 사진이 필요해.
+131. SAM: The passport is a disaster. I've never had a real one. A first passport takes weeks. The only fast way is an appointment at the passport office in Detroit, and they need a photo today.
+    샘: 여권은 엉망이야. 진짜 여권은 한 번도 없었어. 처음 만드는 건 몇 주 걸려. 빠른 방법은 디트로이트 여권 사무소 예약뿐인데, 오늘 사진이 필요해.
 
 132. BRITTANY: Okay, sir, stand on the tape. Look straight at me. No glasses. No hat. And please don't smile.
     브리트니: 자, 선생님, 테이프 위에 서세요. 저를 똑바로 보시고요. 안경 벗으시고. 모자 벗으시고. 그리고 웃지 마세요.

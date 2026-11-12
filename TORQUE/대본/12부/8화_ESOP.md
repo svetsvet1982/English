@@ -81,8 +81,8 @@
 022. VICTORIA: I've never done one of these. I've only bought companies that had one. And then I took it apart. I'll be quiet.
     빅토리아: 해 본 적은 없어요. 이게 있던 회사를 사 본 적만 있죠. 그러고는 해체했고요. 조용히 있을게요.
 
-023. GLORIA: Good. Three pictures on the board. A box. An arrow. And six hundred stick people. Tyler drew the stick people. Some of them have hats.
-    글로리아: 좋아. 칠판에 그림 세 개. 상자 하나. 화살표 하나. 그리고 막대 인간 육백 명. 막대 인간은 타일러가 그렸어. 몇 명은 모자도 썼어.
+023. GLORIA: Good. Three pictures on the board. A box. An arrow. And three hundred and fifty stick people. Tyler drew the stick people. Some of them have hats.
+    글로리아: 좋아. 칠판에 그림 세 개. 상자 하나. 화살표 하나. 그리고 막대 인간 삼백오십 명. 막대 인간은 타일러가 그렸어. 몇 명은 모자도 썼어.
 
 024. TYLER: The hats are for second shift. They wear hats.
     타일러: 모자는 2교대예요. 그 사람들 모자 쓰거든요.
@@ -123,8 +123,8 @@
 036. SAM: And the house gets paid off with the first check. Erin's rule.
     샘: 그리고 첫 수표로 집 대출부터 갚아. 에린의 규칙이야.
 
-037. GLORIA: Erin's rule. Now the stick people. Every year, the trust gives shares to every employee. All six hundred. The night crew. The apprentices.
-    글로리아: 에린의 규칙. 이제 막대 인간들. 매년 신탁이 모든 직원한테 주식을 줘. 육백 명 전부. 야간 팀. 견습생들.
+037. GLORIA: Erin's rule. Now the stick people. Every year, the trust gives shares to every employee. All three hundred and fifty. The night crew. The apprentices.
+    글로리아: 에린의 규칙. 이제 막대 인간들. 매년 신탁이 모든 직원한테 주식을 줘. 삼백오십 명 전부. 야간 팀. 견습생들.
 
 038. TYLER: Even the stick people with hats.
     타일러: 모자 쓴 막대 인간들까지요.
@@ -192,8 +192,8 @@
 059. EARL: Okay. Write it down, then. What else is on your list?
     얼: 알았어. 그럼 적어. 네 목록에 또 뭐가 있어?
 
-060. DENISE: Two. The contract we signed this summer stays. The wages, the 401(k) match, the health plan side letter. The ESOP goes on top. Not instead.
-    드니즈: 둘. 이번 여름에 서명한 단체협약은 그대로. 임금, 401(k) 매칭, 건강보험 부속 합의서. ESOP는 그 위에 얹는 거야. 대신하는 게 아니라.
+060. DENISE: Two. The contract we're still bargaining stays separate. Wages, the 401(k) match, the health plan side letter. The ESOP goes on top. Not instead.
+    드니즈: 둘. 지금 교섭 중인 단체협약은 따로 간다. 임금, 401(k) 매칭, 건강보험 부속 합의서. ESOP는 그 위에 얹는 거야. 대신하는 게 아니라.
 
 061. EARL: On top. Not instead. Good. Gloria already said that. She drew it on the board. A box on top of a box.
     얼: 위에 얹는 거지 대신이 아니다. 좋아. 글로리아가 이미 그렇게 말했어. 칠판에 그렸어. 상자 위에 상자.
@@ -417,8 +417,8 @@
 134. EARL: I'll take this part. Listen up. Half of it goes by your pay. Half of it goes equal, by person. Gladys gets the same base as Dr. Liu. The union checked it. Denise signed off.
     얼: 이 부분은 내가 할게. 잘 들어. 절반은 월급 기준으로 간다. 절반은 사람 기준으로 똑같이. 글래디스도 리우 박사랑 같은 기본 몫을 받아. 노조가 확인했고. 드니즈가 승인했다.
 
-135. EARL: Your wages and the contract don't change. This goes on top. And there's a seat on the board. Elected by all of you. For somebody from the floor.
-    얼: 임금이랑 단체협약은 안 바뀐다. 이건 그 위에 얹는 거야. 그리고 이사회에 자리가 하나 생긴다. 여러분 모두가 뽑는. 현장 사람을 위한 자리.
+135. EARL: Your wages and the contract we're bargaining don't change. This goes on top. And there's a seat on the board. Elected by all of you. For somebody from the floor.
+    얼: 임금이랑 지금 교섭 중인 단체협약은 안 바뀐다. 이건 그 위에 얹는 거야. 그리고 이사회에 자리가 하나 생긴다. 여러분 모두가 뽑는. 현장 사람을 위한 자리.
 
 136. EARL: And I'm telling you myself. It's not a trick. I checked it the way I check a weld. Metal don't lie. Neither does this.
     얼: 그리고 내가 직접 말한다. 속임수 아니야. 용접 확인하듯이 확인했어. 쇠는 거짓말 안 해. 이것도 마찬가지야.
@@ -426,8 +426,8 @@
 137. PATTY: Nobody's saying anything.
     패티: 아무도 아무 말 안 하네.
 
-138. GLORIA: Give them a second, Patty. Six hundred people are doing math at the same time.
-    글로리아: 잠깐만 기다려 줘, 패티. 육백 명이 동시에 계산하는 중이잖아.
+138. GLORIA: Give them a second, Patty. Three hundred and fifty people are doing math at the same time.
+    글로리아: 잠깐만 기다려 줘, 패티. 삼백오십 명이 동시에 계산하는 중이잖아.
 
 139. GLADYS: Mr. Kowalski. I'm Gladys Pope. I clean this building at night. I signed the banner for Dr. Liu in 2025. Are you saying I own a piece of the building I clean?
     글래디스: 코왈스키 대표님. 저 글래디스 포프예요. 밤에 이 건물 청소해요. 2025년에 리우 박사님 현수막에 서명했고요. 제가 청소하는 건물의 한 조각을 제가 갖는다는 말씀이세요?

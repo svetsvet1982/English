@@ -276,8 +276,8 @@
 087. ERIN: You do it with motors for other people. You haven't called me into the garage in years.
     에린: 다른 사람들 모터로 하지. 나를 차고로 부른 지는 몇 년 됐어.
 
-088. SAM: Erin, I'm not sure that guy can run a company with six hundred people.
-    샘: 에린, 그 남자가 6백 명짜리 회사를 운영할 수 있을지 모르겠어.
+088. SAM: Erin, I'm not sure that guy can run a company with three hundred and fifty people.
+    샘: 에린, 그 남자가 350명짜리 회사를 운영할 수 있을지 모르겠어.
 
 089. ERIN: I'm not sure he wants to. That's my real question. Not "should you sell." Do you even like being the boss? Or do you like building things, and the boss part came with it, like a free toaster?
     에린: 그 남자가 원하는지도 모르겠어. 그게 내 진짜 질문이야. "팔아야 하냐"가 아니라. 당신 대표 노릇 하는 게 좋긴 해? 아니면 뭘 만드는 게 좋은데 대표 자리가 사은품 토스터처럼 딸려 온 거야?
@@ -491,4 +491,4 @@
 
 ## 다음 화 예고 (낭독하지 않음)
 
-- 12부 8화 ESOP. 월요일 아침, Gloria가 화이트보드에 그림 세 개를 그린다. 상자 하나, 화살표 하나, 사람 육백 명. "In plain English? Nobody pays a dime. Everybody owns a piece." Denise는 묻는다. "Ownership isn't a raise. So what is it?" 그리고 그레이엄 휘틀록과의 마지막 통화.
+- 12부 8화 ESOP. 월요일 아침, Gloria가 화이트보드에 그림 세 개를 그린다. 상자 하나, 화살표 하나, 사람 삼백오십 명. "In plain English? Nobody pays a dime. Everybody owns a piece." Denise는 묻는다. "Ownership isn't a raise. So what is it?" 그리고 그레이엄 휘틀록과의 마지막 통화.

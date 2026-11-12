@@ -342,14 +342,14 @@
 109. DARNELL: What about us, though? If the money comes from licenses, does the company still need a second shift?
     대넬: 근데 우리는요? 돈이 라이선스에서 나오면, 회사에 2교대가 여전히 필요해요?
 
-110. SAM: Darnell, we need a third shift. That's why there's a building next to the old GM plant with its roof off right now.
-    샘: 대넬, 우린 3교대가 필요해. 그래서 지금 옛 GM 공장 옆 건물이 지붕을 뜯어 놓고 있는 거야.
+110. SAM: Darnell, we need a third shift. That's why there's an old warehouse at the edge of the GM north lot with its roof off right now.
+    샘: 대넬, 우린 3교대가 필요해. 그래서 지금 옛 GM 북쪽 주차장 가장자리 창고가 지붕을 뜯어 놓고 있는 거야.
 
 111. DARNELL: Plant two. My brother-in-law drives past it every day. He says it looks like a skeleton.
     대넬: 2공장이요. 제 처남이 매일 그 앞을 지나가요. 해골 같대요.
 
-112. EARL: It's a nineteen-seventies GM parts warehouse. Good bones, bad roof. By October, it'll have a roof and a line.
-    얼: 1970년대 GM 부품 창고야. 뼈대는 좋고 지붕은 나빠. 10월이면 지붕도 있고 라인도 있을 거다.
+112. EARL: Phase one. The old seat-frame supplier's warehouse, next to the forty acres. Good bones, bad roof. By October, a roof, a training center, and a line. The big plant goes up on the lot after that.
+    얼: 1단계야. 40에이커 옆에 있던 옛 시트 프레임 협력업체 창고. 뼈대는 좋고 지붕은 나빠. 10월이면 지붕, 훈련 센터, 라인 하나. 큰 공장은 그다음에 부지 위에 올라가.
 
 113. DENISE: Can I ask on behalf of the members? Will the motors built in plant two be the hard ones or the easy ones?
     드니즈: 조합원들을 대신해서 물어봐도 될까요? 2공장에서 만드는 모터는 어려운 거예요, 쉬운 거예요?
@@ -453,14 +453,14 @@
 146. GLORIA: Allergies. Your phone's buzzing. It's late in Korea, so it's either very good or very bad.
     글로리아: 알레르기야. 네 폰 울린다. 한국은 늦은 시간이니까 아주 좋은 소식 아니면 아주 나쁜 소식이야.
 
-147. SAM: It's Minjun. "Board meeting next Monday, eight p.m. your time. Mr. Park wants to talk about ships. Bring Liu sunbae. And check your passport."
-    샘: 민준이야. "다음 주 월요일, 그쪽 시간 저녁 8시 이사회. 박 대표님이 배 얘기를 하고 싶어 하세요. 리우 선배 모시고 오세요. 그리고 여권 확인하세요."
+147. SAM: It's Minjun. "Board meeting next Monday, eight p.m. your time. Mr. Park wants to talk about ships. Bring Liu sunbae. And Mr. Park says, start your passport. He knows you don't have one."
+    샘: 민준이야. "다음 주 월요일, 그쪽 시간 저녁 8시 이사회. 박 대표님이 배 얘기를 하고 싶어 하세요. 리우 선배 모시고 오세요. 그리고 대표님이 여권 신청부터 하래요. 없는 거 아신대요."
 
 148. WEN: Do you have a passport?
     웬: 여권 있으세요?
 
-149. SAM: I had one. For Monterrey. I think it's in a drawer, and I think it expired in May.
-    샘: 있었지. 몬테레이 갈 때. 서랍 어딘가에 있을 거고, 5월에 만료된 것 같아.
+149. SAM: Never had one. For Monterrey, Earl and I drove, with passport cards. A card doesn't get you on a plane to Korea.
+    샘: 한 번도 없었어. 몬테레이 갈 땐 얼이랑 여권 카드 들고 차로 갔지. 카드로는 한국 가는 비행기 못 타.
 
 150. GLORIA: Lord. Thirty months of runway, and the man can't leave the country.
     글로리아: 맙소사. 런웨이는 30개월인데, 이 남자는 나라 밖으로도 못 나가네.
@@ -491,4 +491,4 @@
 
 ## 다음 화 예고 (낭독하지 않음)
 
-- 12부 2화 Daesung, Again. 데이턴 저녁 8시, 울산 아침 9시. 화상 이사회에 박 대표가 묻는다. "Ships are the heaviest thing human beings build. Can your motor push one?" 그리고 Sam의 10년 만의 여권 사진 — "Don't smile, Sam. They think you're hiding something."
+- 12부 2화 Daesung, Again. 데이턴 저녁 8시, 울산 아침 9시. 화상 이사회에 박 대표가 묻는다. "Ships are the heaviest thing human beings build. Can your motor push one?" 그리고 Sam의 생애 첫 여권 사진 — "Don't smile, Sam. They think you're hiding something."

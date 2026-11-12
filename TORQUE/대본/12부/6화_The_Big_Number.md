@@ -75,8 +75,8 @@
 020. GLORIA: Twenty-five hundred. That's a used car for a kid. It's nice. It's not life-changing.
     글로리아: 2,500달러. 애들 중고차 한 대 값이네. 좋죠. 인생이 바뀌진 않아요.
 
-021. GRAHAM: Ms. Banks, with respect, nobody changes the lives of six hundred people. Not even you.
-    그레이엄: 뱅크스 씨, 실례지만 6백 명의 인생을 바꾸는 사람은 없어요. 당신도 마찬가지고요.
+021. GRAHAM: Ms. Banks, with respect, nobody changes the lives of three hundred and fifty people. Not even you.
+    그레이엄: 뱅크스 씨, 실례지만 350명의 인생을 바꾸는 사람은 없어요. 당신도 마찬가지고요.
 
 022. WEN: How do you pay for it? Six hundred million. Where does the money come from?
     웬: 대금은 어떻게 내요? 6억. 그 돈은 어디서 나와요?

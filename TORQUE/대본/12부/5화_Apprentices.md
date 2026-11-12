@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 12부 5화 · 서사 기능: 다음 세대의 손, Earl의 아크가 '물려주기'로 향함
-> - 배경: 2공장(옛 GM 부품 창고 개조 1단계, 새 지붕) 입학식(오전 7시) → 1공장 Old Betsy 앞, 이어 2공장 교육장 Earl의 첫 수업(오전) → 2공장 하역장 점심(정오) → 2공장 빈 라인 옆, Earl과 Sam(저녁). 2027년 9월 6일 월요일, 노동절.
+> - 배경: 2공장 1단계 건물(옛 GM 북쪽 주차장 40에이커 옆, 옛 시트 프레임 협력업체 창고 개조 — 견습 훈련 센터 + 첫 라인, 새 지붕) 입학식(오전 7시) → 1공장 Old Betsy 앞, 이어 2공장 교육장 Earl의 첫 수업(오전) → 2공장 하역장 점심(정오) → 2공장 빈 라인 옆, Earl과 Sam(저녁). 2027년 9월 6일 월요일, 노동절.
 > - 등장인물: Earl, Sam, Denise, Jayden(2공장 조장), Patty, Darnell, Lily, Isaiah Booker(신규, 29세, 해군 기관병 출신), Maddie Kurtz(신규, 19세, 신시내티 고교 로봇팀 출신), Dennis Mahoney(신규, 52세, 전직 보험 손해사정사), Victoria(전화)
 > - 실제 사건 / 현안 태그: 제조업 숙련 인력 부족과 고령화, 등록 견습 프로그램(일하며 배우기), 지역 커뮤니티 칼리지와의 연계, 사무직 자동화로 인한 경력 전환
 > - 난이도: B2 · 턴 수: 150
@@ -39,8 +39,8 @@
 008. DENISE: I'll keep it short, because Earl's already sweating. Happy Labor Day. A hundred and thirty years ago, this country decided working people deserved one day a year. Ferrox decided to start you on that day.
     드니즈: 짧게 할게요. 얼이 벌써 땀 흘리니까. 노동절 축하해요. 130년 전에 이 나라는 일하는 사람들이 1년에 하루는 받아야 한다고 정했어요. 페록스는 여러분을 그날 시작하게 하기로 했고요.
 
-009. DENISE: Don't worry. It's paid. Double time, in the contract. I made sure.
-    드니즈: 걱정 마세요. 유급이에요. 계약서에 따라 두 배 수당. 제가 확인했어요.
+009. DENISE: Don't worry. It's paid. Double time. We're still bargaining the contract, but Sam put this one in writing. I made sure.
+    드니즈: 걱정 마세요. 유급이에요. 두 배 수당. 단체협약은 아직 교섭 중이지만, 이건 샘이 서면으로 약속했어요. 제가 확인했어요.
 
 010. SAM: Denise reminded me about that twice. Once in writing, once at Lou's.
     샘: 드니즈가 그거 두 번 상기시켜 줬어요. 한 번은 서면으로, 한 번은 Lou's에서.
