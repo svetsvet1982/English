@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 10부 6화 · 서사 기능: 의료비·보험의 현실, 경영자의 선택
 > - 배경: Sam의 집 부엌 식탁(아침, 퇴원한 Stan이 머무는 중) → 같은 식탁, 보험사 고객센터 통화(오전) → Ferrox 회의실, 직원 건강보험 갱신 회의(오후) → 공장 휴게실(저녁). 2027년 3월 3일 수요일.
-> - 등장인물: Erin, Sam, Stan, Trevor(신규, 보험사 상담원), Gloria, Denise Porter(UAW 지부장, 8부), Tyler, Earl
+> - 등장인물: Erin, Sam, Stan, Devin(신규, 보험사 상담원), Gloria, Denise Porter(UAW 지부장, 8부), Tyler, Earl
 > - 실제 사건 / 현안 태그: 메디케어 어드밴티지의 사전 승인(prior authorization) 거부 논란, 병원 내 네트워크 밖 의사 청구(서프라이즈 빌), 2027년 고용주 건강보험료 급등
 > - 난이도: B2~C1 · 턴 수: 150
 > - 이번 화의 핵심 표현: "deductible", "out-of-pocket", "premium", "coverage", "in-network", "prior authorization", "Explanation of Benefits", "peer-to-peer"
@@ -168,23 +168,23 @@
 051. STAN: I don't. The rep yelled. That's what we paid him for.
     스탠: 난 안 지르지. 간부가 질렀지. 그러라고 회비 낸 거고.
 
-052. TREVOR: Thank you for holding. My name is Trevor. Can I have the member's ID number and date of birth?
-    트레버: 기다려 주셔서 감사합니다. 저는 트레버입니다. 가입자 번호와 생년월일 말씀해 주시겠어요?
+052. DEVIN: Thank you for holding. My name is Devin. Can I have the member's ID number and date of birth?
+    데빈: 기다려 주셔서 감사합니다. 저는 데빈입니다. 가입자 번호와 생년월일 말씀해 주시겠어요?
 
-053. ERIN: Hi, Trevor. I'm Erin Kowalski. I'm calling for my father-in-law, Stanley Kowalski. He's right here, and he'll give you permission to talk to me.
-    에린: 안녕하세요, 트레버. 에린 코왈스키예요. 시아버지 스탠리 코왈스키 대신 전화했어요. 지금 옆에 계시고, 저랑 얘기해도 된다고 허락하실 거예요.
+053. ERIN: Hi, Devin. I'm Erin Kowalski. I'm calling for my father-in-law, Stanley Kowalski. He's right here, and he'll give you permission to talk to me.
+    에린: 안녕하세요, 데빈. 에린 코왈스키예요. 시아버지 스탠리 코왈스키 대신 전화했어요. 지금 옆에 계시고, 저랑 얘기해도 된다고 허락하실 거예요.
 
 054. STAN: Yes. Talk to her. She's smarter than me. And she doesn't yell.
     스탠: 그래. 얘랑 얘기해. 나보다 똑똑해. 그리고 소리도 안 질러.
 
-055. TREVOR: Thank you, sir. How can I help you today, Ms. Kowalski?
-    트레버: 감사합니다, 선생님. 오늘 무엇을 도와드릴까요, 코왈스키 씨?
+055. DEVIN: Thank you, sir. How can I help you today, Ms. Kowalski?
+    데빈: 감사합니다, 선생님. 오늘 무엇을 도와드릴까요, 코왈스키 씨?
 
 056. ERIN: Three things. First, an anesthesiology bill marked out-of-network, from an in-network hospital, during an emergency. I'd like that reprocessed at the in-network rate.
     에린: 세 가지요. 첫째, 네트워크 안 병원에서 응급 상황 중에 받은 마취과 청구서가 네트워크 밖으로 찍혀 있어요. 네트워크 안 요율로 다시 처리해 주세요.
 
-057. TREVOR: Let me look. Yes, I see it. That does look like it was processed incorrectly. I'm sending it back for review. You shouldn't owe more than his in-network copay.
-    트레버: 확인해 볼게요. 네, 보이네요. 잘못 처리된 것 같습니다. 재심사로 돌려보내겠습니다. 네트워크 안 정액 부담 이상은 안 내셔도 될 거예요.
+057. DEVIN: Let me look. Yes, I see it. That does look like it was processed incorrectly. I'm sending it back for review. You shouldn't owe more than his in-network copay.
+    데빈: 확인해 볼게요. 네, 보이네요. 잘못 처리된 것 같습니다. 재심사로 돌려보내겠습니다. 네트워크 안 정액 부담 이상은 안 내셔도 될 거예요.
 
 058. SAM: That's it? That was easy.
     샘: 그게 다야? 쉽네.
@@ -195,8 +195,8 @@
 060. ERIN: Second, his cardiac rehab. His cardiologist ordered thirty-six sessions. You approved twelve. Why twelve?
     에린: 둘째, 심장 재활이요. 심장내과 선생님이 서른여섯 번 처방했는데 열두 번 승인하셨어요. 왜 열두 번이죠?
 
-061. TREVOR: That service requires prior authorization beyond the first twelve sessions. The request was reviewed, and additional sessions weren't approved at this time.
-    트레버: 그 서비스는 처음 열두 번 이후엔 사전 승인이 필요합니다. 요청이 심사됐고, 현재로서는 추가 회차가 승인되지 않았습니다.
+061. DEVIN: That service requires prior authorization beyond the first twelve sessions. The request was reviewed, and additional sessions weren't approved at this time.
+    데빈: 그 서비스는 처음 열두 번 이후엔 사전 승인이 필요합니다. 요청이 심사됐고, 현재로서는 추가 회차가 승인되지 않았습니다.
 
 062. SAM: Prior authorization. What does that mean, exactly?
     샘: 사전 승인. 그게 정확히 무슨 뜻이에요?
@@ -204,14 +204,14 @@
 063. ERIN: It means before the doctor can do what the doctor thinks you need, the insurance company has to agree. In advance. Like asking your landlord before you fix your own sink.
     에린: 의사가 환자한테 필요하다고 생각하는 걸 하기 전에 보험사가 먼저 동의해야 한다는 뜻이야. 미리. 내 집 싱크대 고치기 전에 집주인한테 허락받는 것처럼.
 
-064. TREVOR: That's, um, a way to put it, ma'am.
-    트레버: 그게, 음, 그렇게 표현할 수도 있겠네요.
+064. DEVIN: That's, um, a way to put it, ma'am.
+    데빈: 그게, 음, 그렇게 표현할 수도 있겠네요.
 
-065. ERIN: Trevor, who reviewed it? Was it a doctor? A cardiologist?
-    에린: 트레버, 누가 심사했어요? 의사였어요? 심장내과 의사요?
+065. ERIN: Devin, who reviewed it? Was it a doctor? A cardiologist?
+    에린: 데빈, 누가 심사했어요? 의사였어요? 심장내과 의사요?
 
-066. TREVOR: I'm not able to see the reviewer's specialty on my screen. The determination says the clinical criteria were not met.
-    트레버: 제 화면에선 심사자의 전공이 안 보입니다. 결정문엔 임상 기준을 충족하지 못했다고 돼 있어요.
+066. DEVIN: I'm not able to see the reviewer's specialty on my screen. The determination says the clinical criteria were not met.
+    데빈: 제 화면에선 심사자의 전공이 안 보입니다. 결정문엔 임상 기준을 충족하지 못했다고 돼 있어요.
 
 067. STAN: Which criteria? I had my chest cut open nine days ago. What criteria do I need? Do I have to die a little first?
     스탠: 무슨 기준? 아흐레 전에 가슴을 갈랐다고. 무슨 기준이 더 필요해? 먼저 좀 죽어야 하나?
@@ -222,8 +222,8 @@
 069. STAN: That wasn't yelling. That was a question with feeling.
     스탠: 그건 소리 지른 게 아니야. 감정이 실린 질문이지.
 
-070. ERIN: Trevor, I'm going to ask for three things, and I'd like you to write them down. A copy of the criteria they used. An expedited appeal. And a peer-to-peer review.
-    에린: 트레버, 세 가지를 요청할 테니 적어 주세요. 사용한 기준의 사본. 신속 이의신청. 그리고 의사 대 의사 검토.
+070. ERIN: Devin, I'm going to ask for three things, and I'd like you to write them down. A copy of the criteria they used. An expedited appeal. And a peer-to-peer review.
+    에린: 데빈, 세 가지를 요청할 테니 적어 주세요. 사용한 기준의 사본. 신속 이의신청. 그리고 의사 대 의사 검토.
 
 071. SAM: A peer-to-peer?
     샘: 피어 투 피어?
@@ -231,38 +231,38 @@
 072. ERIN: His doctor talks directly to their doctor. Cardiologist to whoever they've got. Usually, when a real doctor has to defend a denial out loud, the denial gets a lot weaker.
     에린: 아버님 주치의가 보험사 쪽 의사랑 직접 통화하는 거야. 심장내과 의사 대 그쪽이 데려온 누구든. 보통은 진짜 의사가 거부 결정을 소리 내서 변호해야 하면 그 결정이 많이 약해져.
 
-073. TREVOR: I can file the expedited appeal now. They have seventy-two hours to decide. I'll note the peer-to-peer request for Dr. Rao's office.
-    트레버: 지금 신속 이의신청을 접수할 수 있습니다. 72시간 안에 결정해야 해요. 라오 선생님 진료실에 의사 대 의사 검토 요청도 메모해 두겠습니다.
+073. DEVIN: I can file the expedited appeal now. They have seventy-two hours to decide. I'll note the peer-to-peer request for Dr. Rao's office.
+    데빈: 지금 신속 이의신청을 접수할 수 있습니다. 72시간 안에 결정해야 해요. 라오 선생님 진료실에 의사 대 의사 검토 요청도 메모해 두겠습니다.
 
 074. ERIN: Thank you. And the third thing. Home physical therapy. Denied. "Not medically necessary." He's seventy-nine. There are fourteen stairs to his bedroom at home.
     에린: 감사합니다. 그리고 세 번째. 방문 물리치료요. 거부됐어요. "의학적으로 필요하지 않음." 일흔아홉이세요. 집에 침실까지 계단이 열네 개예요.
 
-075. TREVOR: I see. It looks like that one was denied because he's currently staying at an address that isn't his home address.
-    트레버: 그렇군요. 그건 현재 본인 주소가 아닌 곳에 머물고 계셔서 거부된 것 같습니다.
+075. DEVIN: I see. It looks like that one was denied because he's currently staying at an address that isn't his home address.
+    데빈: 그렇군요. 그건 현재 본인 주소가 아닌 곳에 머물고 계셔서 거부된 것 같습니다.
 
 076. SAM: He's staying with us. Because he can't climb his own stairs. That's the whole point.
     샘: 우리 집에 계세요. 자기 집 계단을 못 오르시니까요. 그게 핵심이잖아요.
 
-077. TREVOR: I understand, sir. If you send a change of address form, the request can be resubmitted.
-    트레버: 이해합니다, 선생님. 주소 변경 양식을 보내 주시면 요청을 다시 제출할 수 있습니다.
+077. DEVIN: I understand, sir. If you send a change of address form, the request can be resubmitted.
+    데빈: 이해합니다, 선생님. 주소 변경 양식을 보내 주시면 요청을 다시 제출할 수 있습니다.
 
 078. SAM: So if he lives here, he can get therapy so he can go home. But if he goes home, he can't get therapy because he lives there?
     샘: 그러니까 여기 살면 집에 갈 수 있게 치료를 받는데, 집에 가면 거기 살아서 치료를 못 받는다고요?
 
-079. TREVOR: I'm... not sure how to answer that, sir.
-    트레버: 그건... 어떻게 답해 드려야 할지 모르겠습니다, 선생님.
+079. DEVIN: I'm... not sure how to answer that, sir.
+    데빈: 그건... 어떻게 답해 드려야 할지 모르겠습니다, 선생님.
 
-080. ERIN: That's okay, Trevor. Nobody is. Send me the form. I'll fill it out tonight.
-    에린: 괜찮아요, 트레버. 아무도 몰라요. 양식 보내 주세요. 오늘 밤에 쓸게요.
+080. ERIN: That's okay, Devin. Nobody is. Send me the form. I'll fill it out tonight.
+    에린: 괜찮아요, 데빈. 아무도 몰라요. 양식 보내 주세요. 오늘 밤에 쓸게요.
 
-081. TREVOR: I'm sending it to the email on file. Is there anything else I can help with today?
-    트레버: 등록된 이메일로 보내 드릴게요. 오늘 더 도와드릴 일 있으신가요?
+081. DEVIN: I'm sending it to the email on file. Is there anything else I can help with today?
+    데빈: 등록된 이메일로 보내 드릴게요. 오늘 더 도와드릴 일 있으신가요?
 
-082. ERIN: No, Trevor. You've been very kind. It isn't your fault. You just have to answer the phone.
-    에린: 아니요, 트레버. 정말 친절하셨어요. 트레버 잘못이 아니에요. 그냥 전화를 받아야 하는 사람일 뿐이죠.
+082. ERIN: No, Devin. You've been very kind. It isn't your fault. You just have to answer the phone.
+    에린: 아니요, 데빈. 정말 친절하셨어요. 데빈 잘못이 아니에요. 그냥 전화를 받아야 하는 사람일 뿐이죠.
 
-083. TREVOR: Thank you, ma'am. Honestly, that's the nicest thing anyone's said to me this week.
-    트레버: 감사합니다. 솔직히 이번 주에 들은 말 중에 제일 다정한 말이에요.
+083. DEVIN: Thank you, ma'am. Honestly, that's the nicest thing anyone's said to me this week.
+    데빈: 감사합니다. 솔직히 이번 주에 들은 말 중에 제일 다정한 말이에요.
 
 084. SAM: Forty-seven minutes. Forty-seven minutes, three problems, and we fixed one.
     샘: 47분. 47분 동안 문제 세 개, 그중에 하나 고쳤어.
