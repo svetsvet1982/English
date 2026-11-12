@@ -18,8 +18,8 @@
 001. GENE: There it is. My grandfather's first wrench. Nineteen fifty-one. He sold it to a plumber in Massillon for four dollars and seventy cents.
     진: 저기 있네요. 할아버지의 첫 렌치. 1951년. 매실런의 배관공한테 4달러 70센트에 파셨어요.
 
-002. SAM: Did the plumber ever bring it back?
-    샘: 그 배관공이 다시 가져왔어요?
+002. SAM: Did the plumber ever bring it back? Or did he keep it in his truck until it wore out?
+    샘: 그 배관공이 다시 가져왔어요? 아니면 닳아 없어질 때까지 트럭에 두고 썼어요?
 
 003. GENE: In 1983. His son brought it back after the funeral. He said, "Dad wanted it to go home." It's been on this wall ever since. Everything important in this company gets signed under it.
     진: 1983년에요. 장례식 끝나고 아들이 가져왔어요. "아버지가 이게 집에 돌아가길 원하셨다"면서요. 그 뒤로 계속 이 벽에 있었어요. 이 회사에서 중요한 건 전부 이 밑에서 서명해요.
@@ -84,8 +84,8 @@
 023. BEN: The Commission put out its notice on Monday. It's going to review two parts of the judge's decision. The two degrees, and the public interest. Everything else, they're leaving alone.
     벤: 위원회가 월요일에 공지를 냈어. 판사 결정 중 두 부분을 검토한대. 2도 문제랑 공익. 나머지는 손대지 않고.
 
-024. GLORIA: Is that good?
-    글로리아: 그거 좋은 거야?
+024. GLORIA: Is that good or bad, Ben? Talk to me like I'm a banker, not a lawyer.
+    글로리아: 그거 좋은 거야 나쁜 거야, 벤? 변호사 말고 은행원한테 말하듯이 해 줘.
 
 025. BEN: It's normal. They always review something. The trade secret findings stand. And the target date is still March seventeenth.
     벤: 정상이야. 늘 뭔가는 검토하니까. 영업비밀 판단은 그대로 유지돼. 그리고 목표일은 여전히 3월 17일이고.
@@ -114,11 +114,11 @@
 033. RENATA: Sam, before we go to the plant. Something I've been meaning to say since November. When I called you, I didn't know if you were real. Everybody in this industry promises things.
     레나타: 샘, 공장 가기 전에. 11월부터 하고 싶었던 말이 있어요. 전화했을 때 당신이 진짜인지 몰랐어요. 이 업계는 다들 약속을 하거든요.
 
-034. SAM: And now?
-    샘: 그럼 지금은요?
+034. SAM: And now? What changed your mind about us?
+    샘: 그럼 지금은요? 뭐가 우리에 대한 생각을 바꿨어요?
 
-035. RENATA: Your pilot run arrived two days early. Twenty thousand motors. We tested three hundred drills with Dwayne's crew and Rusty's crew for three weeks. Zero came back.
-    레나타: 시범 물량이 이틀 일찍 도착했어요. 모터 2만 개. 드웨인 팀이랑 러스티 팀이 3주 동안 드릴 삼백 대를 시험했어요. 반품 0개.
+035. RENATA: Your pilot run arrived two days early. Twenty thousand motors, every box labeled, every serial number in a spreadsheet. We tested three hundred drills with Dwayne's crew and Rusty's crew for three weeks. Zero came back.
+    레나타: 시범 물량이 이틀 일찍 도착했어요. 모터 2만 개, 상자마다 라벨, 일련번호는 전부 스프레드시트에. 드웨인 팀이랑 러스티 팀이 3주 동안 드릴 삼백 대를 시험했어요. 반품 0개.
 
 036. TYLER: Zero!
     타일러: 0개!
@@ -156,8 +156,8 @@
 047. RUSTY: You told me to find you in January. Well, it's January. And Renata found me first. She gave my crew six drills and said, "Break them." We tried. We couldn't.
     러스티: 1월에 찾아오라며. 자, 1월이야. 그리고 레나타가 먼저 날 찾았지. 우리 팀한테 드릴 여섯 개 주면서 "부숴 보세요" 하더라고. 해 봤어. 못 부쉈어.
 
-048. DWAYNE: I tried too. And I'm a professional.
-    드웨인: 나도 해 봤어. 난 전문가인데도.
+048. DWAYNE: I tried too, and I'm a professional. I dropped one off a second-floor deck onto a pile of gravel, on purpose. It got a scratch on the battery. That's it. It still runs like the day Renata handed it to me.
+    드웨인: 나도 해 봤어. 난 전문가인데도. 일부러 2층 데크에서 자갈 더미로 떨어뜨렸어. 배터리에 긁힌 자국 하나. 그게 다야. 레나타가 건네준 날이랑 똑같이 잘 돌아가.
 
 049. RUSTY: I drilled through a frozen beam in my driveway at six in the morning in a snowstorm. Twenty holes. The handle was warm, like a coffee cup. Not hot. Warm.
     러스티: 눈보라 치는 아침 여섯 시에 우리 집 진입로에서 얼어붙은 목재를 뚫었어. 구멍 스무 개. 손잡이가 커피잔처럼 따뜻하더라고. 뜨거운 게 아니라. 따뜻한.
@@ -186,8 +186,8 @@
 057. SAM: Kim. Thank you. You started this, you know. In a back office, in four minutes.
     샘: 킴. 고마워요. 이거 당신이 시작한 거 알죠. 뒤쪽 사무실에서, 4분 만에.
 
-058. KIM: I didn't start anything. I made a request. Six stores, two endcaps each, starting February fifteenth. If the return rate is under three percent, corporate expands it to forty stores.
-    킴: 시작한 거 없어요. 요청했을 뿐이에요. 매장 여섯 곳, 매장당 엔드캡 두 개, 2월 15일부터. 반품률이 3퍼센트 미만이면 본사가 매장 마흔 곳으로 늘려요.
+058. KIM: I didn't start anything. I made a request. Six stores, two endcaps each, starting February fifteenth. If the return rate stays under three percent for eight weeks, corporate expands it to forty stores across the Midwest.
+    킴: 시작한 거 없어요. 요청했을 뿐이에요. 매장 여섯 곳, 매장당 엔드캡 두 개, 2월 15일부터. 8주 동안 반품률이 3퍼센트 미만이면 본사가 중서부 매장 마흔 곳으로 늘려요.
 
 059. RENATA: And if it's zero?
     레나타: 0이면요?
@@ -204,8 +204,8 @@
 063. EARL: Smart man.
     얼: 똑똑한 분이셨네.
 
-064. GENE: Sam, do you want to say anything?
-    진: 샘, 하실 말씀 있어요?
+064. GENE: Sam, do you want to say anything? You came a long way for this truck.
+    진: 샘, 하실 말씀 있어요? 이 트럭 보려고 먼 길 오셨잖아요.
 
 065. SAM: Just one thing. Two years ago, a guy named Ron called us from this building. He asked for a license, and we said "not right now." Today, I'm glad we waited. Not for the money. For the people in this room.
     샘: 하나만요. 2년 전에 론이라는 분이 이 건물에서 저희한테 전화했어요. 라이선스를 달라고 했고, 저흰 "지금은 안 된다"고 했죠. 오늘, 기다리길 잘했다 싶어요. 돈 때문이 아니라. 이 방에 있는 사람들 때문에요.
@@ -279,8 +279,8 @@
 088. GLORIA: Sam. Gene's accounts payable just emailed me. They want to know where to send the first invoice payment. They're paying early.
     글로리아: 샘. 진네 회사 미지급금 담당이 방금 메일 보냈어. 첫 대금을 어디로 보내면 되냐고. 일찍 낸대.
 
-089. SAM: Early? Nobody pays early.
-    샘: 일찍? 아무도 일찍 안 내는데.
+089. SAM: Early? Nobody pays early. In ten years, I've had customers pay late, pay half, and pay in cash in a paper bag. Nobody has ever paid early.
+    샘: 일찍? 아무도 일찍 안 내는데. 10년 동안 늦게 낸 고객, 반만 낸 고객, 종이봉투에 현금으로 낸 고객까지 다 있었어요. 일찍 낸 고객은 한 번도 없었어요.
 
 090. GLORIA: Gene does. Write that on my board. In green.
     글로리아: 진은 내. 그거 내 칠판에 써 줘. 초록색으로.
@@ -342,8 +342,8 @@
 109. GLORIA: Okay. Everybody, before the pie. The board. I brought it from the plant. Tyler, hold it up. Higher. You're tall. Use it.
     글로리아: 좋아. 다들, 파이 전에. 칠판. 공장에서 가져왔어. 타일러, 들어 봐. 더 높이. 키 크잖아. 써먹어.
 
-110. TYLER: This thing weighs forty pounds.
-    타일러: 이거 40파운드 나가요.
+110. TYLER: This thing weighs forty pounds, Gloria. You made me carry it in from the truck, through the snow, past the pie case.
+    타일러: 이거 40파운드 나가요, 글로리아. 트럭에서 눈 속을 지나 파이 진열장 옆으로 저보고 들고 오게 하셨잖아요.
 
 111. GLORIA: Then hold it with both hands. Listen. "Customers who don't expire: one hundred thirteen." Ironjaw makes a hundred and thirteen.
     글로리아: 그럼 두 손으로 들어. 들어 봐. "만료되지 않는 고객: 113." 아이언조로 113.
@@ -357,8 +357,8 @@
 114. DARNELL: And the other line? The one at the bottom?
     대넬: 그럼 다른 줄은요? 맨 밑에 있는 거?
 
-115. GLORIA: "Our advantage expires: January tenth, 2027, question mark." January tenth came and went. Did anybody in this building change a single order because of it?
-    글로리아: "우리 우위는 만료된다: 2027년 1월 10일, 물음표." 1월 10일은 왔다 갔어. 그거 때문에 이 건물에서 주문 하나라도 바꾼 사람 있어?
+115. GLORIA: "Our advantage expires: January tenth, 2027, question mark." January tenth came and went. I watched the news all weekend. Did anybody in this building change a single order because of it? One order? Anybody?
+    글로리아: "우리 우위는 만료된다: 2027년 1월 10일, 물음표." 1월 10일은 왔다 갔어. 주말 내내 뉴스 봤지. 그거 때문에 이 건물에서 주문 하나라도 바꾼 사람 있어? 하나라도? 누구라도?
 
 116. EARL: Not one.
     얼: 하나도 없어.
@@ -375,14 +375,14 @@
 120. JAYDEN: Gone.
     제이든: 지웠어요.
 
-121. STAN: You know what that reminds me of? Nineteen seventy-six. My first day at Moraine. My foreman pointed at a sign that said "Temporary hires: three months." I stayed thirty-two years.
-    스탠: 저게 뭐 생각나게 하는지 아냐? 1976년. 모레인 첫날. 반장이 "임시 고용: 3개월"이라고 쓰인 표지판을 가리켰어. 난 32년 있었지.
+121. STAN: You know what that reminds me of? Nineteen seventy-six. My first day at Moraine. My foreman pointed at a sign on the wall that said "Temporary hires: three months." He said, "Don't get comfortable, Kowalski." I stayed thirty-two years.
+    스탠: 저게 뭐 생각나게 하는지 아냐? 1976년. 모레인 첫날. 반장이 벽에 붙은 "임시 고용: 3개월" 표지판을 가리키면서 "편해질 생각 마, 코월스키" 하더라. 난 32년 있었지.
 
-122. ERIN: And you never let anybody forget it.
-    에린: 그리고 아무도 그걸 잊게 두지 않으셨죠.
+122. ERIN: And you never let anybody forget it, Stan. Not at Thanksgiving, not at Christmas, not at Lily's graduation, and not at our wedding.
+    에린: 그리고 아무도 그걸 잊게 두지 않으셨죠, 아버님. 추수감사절에도, 크리스마스에도, 릴리 졸업식에도, 우리 결혼식에도요.
 
-123. STAN: Why would I? Two bike mechanics from Dayton taught the world to fly. A guy from Moraine can mention his thirty-two years now and then.
-    스탠: 왜 잊게 둬? 데이턴의 자전거 정비공 둘이 세상에 나는 법을 가르쳤어. 모레인 출신 남자가 가끔 자기 32년 얘기 좀 해도 되지.
+123. STAN: Why would I? Two bike mechanics from Dayton taught the world to fly. A guy from Moraine can mention his thirty-two years now and then. Especially at Lou's. Especially with pie on the table.
+    스탠: 왜 잊게 둬? 데이턴의 자전거 정비공 둘이 세상에 나는 법을 가르쳤어. 모레인 출신 남자가 가끔 자기 32년 얘기 좀 해도 되지. 특히 루스에서. 특히 식탁에 파이가 있을 땐.
 
 124. TYLER: Okay, last thing before pie. I made mugs. One for everybody. Don't be mad, Gloria. I paid for them myself.
     타일러: 좋아요, 파이 전에 마지막으로. 머그컵 만들었어요. 다들 하나씩. 화내지 마세요, 글로리아. 제 돈으로 냈어요.
@@ -420,8 +420,8 @@
 135. SAM: Out of the blue. The subject line just says "Motors that don't shiver."
     샘: 난데없이. 제목엔 그냥 "떨리지 않는 모터"라고만 써 있어.
 
-136. WEN: Read it. Out loud. Please.
-    웬: 읽어 줘요. 소리 내서. 부탁해요.
+136. WEN: Read it. Out loud, please. All of it. I want to hear how she writes.
+    웬: 읽어 줘요. 소리 내서, 부탁해요. 전부 다. 그분이 어떻게 쓰는지 듣고 싶어요.
 
 137. SAM: "Dear Mr. Kowalski. My name is Aisha Karim. I was a surgeon for eleven years. Now I build surgical robots in Cleveland."
     샘: "코월스키 씨께. 제 이름은 아이샤 카림입니다. 11년 동안 외과의였습니다. 지금은 클리블랜드에서 수술 로봇을 만듭니다."
@@ -441,14 +441,14 @@
 142. ERIN: "Precision is a form of kindness." Sam. That's an ER nurse sentence. That's a surgeon who's had to tell a family bad news.
     에린: "정밀함은 친절의 한 형태입니다." 샘. 그건 응급실 간호사가 하는 문장이야. 가족한테 나쁜 소식을 전해 본 외과의가 하는 말이지.
 
-143. GLORIA: Medical devices. Sam, do you know what that means? The FDA. Quality systems. Paperwork you've never seen in your life.
-    글로리아: 의료기기. 샘, 그게 무슨 뜻인지 알아? FDA. 품질 시스템. 평생 본 적 없는 서류.
+143. GLORIA: Medical devices. Sam, do you know what that means? The FDA. Quality systems. Audits. Paperwork you've never seen in your life, and I've seen you sign a forty-page contract without reading page six.
+    글로리아: 의료기기. 샘, 그게 무슨 뜻인지 알아? FDA. 품질 시스템. 감사. 평생 본 적 없는 서류. 그리고 난 네가 6쪽도 안 읽고 40쪽짜리 계약서에 서명하는 걸 봤어.
 
 144. WEN: Small motors. Very slow. Very smooth. No magnetic noise near the patient. Gloria, that's exactly what we're best at. Nobody has asked us for it until now.
     웬: 작은 모터. 아주 느리게. 아주 매끄럽게. 환자 근처에서 자기 잡음 없이. 글로리아, 그게 정확히 우리가 제일 잘하는 거예요. 지금까지 아무도 그걸 요청하지 않았을 뿐이에요.
 
-145. EARL: Here we go again.
-    얼: 또 시작이네.
+145. EARL: Here we go again. A new market, a new rulebook, and Gloria's face doing that thing it does when she adds up the cost in her head before anybody's said a number.
+    얼: 또 시작이네. 새 시장, 새 규정집, 그리고 아무도 숫자를 말하기 전에 글로리아가 머릿속으로 비용을 계산할 때 짓는 그 표정.
 
 146. STAN: Answer the woman, son. Before your pie gets cold.
     스탠: 그 여자분한테 답해라, 얘야. 파이 식기 전에.
