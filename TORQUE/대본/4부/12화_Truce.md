@@ -420,8 +420,8 @@
 135. SAM: Sorry. Long day. The truce, the customers, the board.
     샘: 미안. 긴 하루였어. 휴전, 고객들, 칠판.
 
-136. LILY: Dad, I submitted it. Purdue. Early action. Two days before the deadline.
-    릴리: 아빠, 제출했어. 퍼듀. 조기 지원. 마감 이틀 전에.
+136. LILY: Dad, I submitted it. Purdue. Early action. Two days before the deadline. I decided on our visit in August.
+    릴리: 아빠, 제출했어. 퍼듀. 조기 지원. 마감 이틀 전에. 8월에 같이 갔을 때 정했어.
 
 137. SAM: You submitted it? Lil, that's huge. Mechanical engineering?
     샘: 제출했어? 릴, 그거 대단한 거야. 기계공학?

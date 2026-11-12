@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 11화 · 서사 기능: 시리즈의 기폭제, 저울이 기운다, 첫 '핵심 역량' 질문
 > - 배경: Ferrox 공장 Old Betsy 앞, 아침 허들(오전 7시, 휴대폰 알림이 동시에 울림) → Sam의 사무실과 영업실, 쏟아지는 전화(오전~오후) → 회의실, 고객 선택 회의(늦은 오후) → Old Betsy 앞, 화이트보드(밤). 2025년 4월 7일 월요일, 흐리고 쌀쌀함.
-> - 등장인물: Sam, Wen, Gloria, Earl, Tyler, Patty, Nina(전화), Kayla Reese(전화), Marisa Vega(플로리다 수영장 펌프 회사 구매 담당, 단역), Ron Pruitt(전동공구 회사 소싱 매니저, 단역), Gary Holt(문자)
+> - 등장인물: Sam, Wen, Gloria, Earl, Tyler, Patty, Nina(전화), Kayla Reese(전화), Marisa Vega(플로리다 수영장 펌프 회사 구매 담당, 단역), Ron Pratt(전동공구 회사 소싱 매니저, 단역), Gary Holt(문자)
 > - 실제 사건 / 현안 태그: 4월 4일 중국의 희토류 7종(사마륨·가돌리늄·테르븀·디스프로슘·루테튬·스칸듐·이트륨)과 관련 자석의 수출 허가제 도입 및 34% 보복 관세, 4월 7일 증시 급등락, 중국 밖 희토류 현물 가격 급등
 > - 난이도: B1+~B2 · 턴 수: 150
 > - 이번 화의 핵심 표현: "export license", "magnet shortage", "spot price", "prioritize", "core competency", "overnight", "I told you so"
@@ -162,8 +162,8 @@
 049. TYLER: Line two. A power tool company. Cordless drills and saws. Their sourcing manager.
     타일러: 2번이요. 전동공구 회사요. 무선 드릴이랑 톱이요. 소싱 매니저래요.
 
-050. RON: Mr. Kowalski, Ron Pruitt. I'll be quick. We need small, high-speed motors, about a million a year. Our supplier's in China. We want a backup. Yesterday.
-    론: 코왈스키 씨, 론 프루이트입니다. 빨리 말할게요. 저희는 작은 고속 모터가 필요해요. 1년에 백만 개쯤. 공급사는 중국이고요. 대비책이 필요해요. 어제부터요.
+050. RON: Mr. Kowalski, Ron Pratt. I'll be quick. We need small, high-speed motors, about a million a year. Our supplier's in China. We want a backup. Yesterday.
+    론: 코왈스키 씨, 론 프랫입니다. 빨리 말할게요. 저희는 작은 고속 모터가 필요해요. 1년에 백만 개쯤. 공급사는 중국이고요. 대비책이 필요해요. 어제부터요.
 
 051. SAM: A million a year? Ron, we make thirty thousand motors a year. Total. All products.
     샘: 1년에 백만 개요? 론, 우린 1년에 모터 3만 개 만들어요. 전부 합쳐서요. 모든 제품이요.

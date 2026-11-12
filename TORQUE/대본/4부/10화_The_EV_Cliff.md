@@ -198,8 +198,8 @@
 061. SAM: Ben was busy with Calloway. And I was busy with everything else.
     샘: 벤은 캘러웨이 일로 바빴어요. 그리고 전 나머지 전부로 바빴고요.
 
-062. FRANK: Everybody's busy with something. Listen. We'll pay for the pump tooling. That's in the contract. And the twenty-four thousand is real. I can put that in writing.
-    프랭크: 다들 뭔가로 바쁘죠. 들어 봐요. 펌프 금형비는 우리가 내요. 계약서에 있으니까. 그리고 2만 4천 개는 진짜예요. 서면으로 줄 수 있어요.
+062. FRANK: Everybody's busy with something. Listen. The seat tooling is ours. The pump line was yours, that's the deal you signed. I can't change that. But the twenty-four thousand is real. I'll put it in writing.
+    프랭크: 다들 뭔가로 바쁘죠. 들어 봐요. 시트 금형은 우리 부담이에요. 펌프 라인은 당신네 부담이었고, 그게 서명한 계약이에요. 그건 못 바꿔요. 근데 2만 4천 개는 진짜예요. 서면으로 줄게요.
 
 063. SAM: Twenty-four thousand. That's less than half.
     샘: 2만 4천. 절반도 안 되네요.
@@ -297,20 +297,20 @@
 094. WEN: Seven. Because of the pumps?
     웬: 7주. 펌프 때문에요?
 
-095. GLORIA: Because of a lot of things. Let me walk you through it, because nobody's leaving this room until they understand. First, the forecast. Before today, we expected to sell about twenty-eight million dollars next year. Atlas, Haverford, Rivet, the rest.
-    글로리아: 여러 가지 때문이야. 하나씩 설명할 테니까 이해하기 전엔 아무도 이 방 못 나가. 먼저 전망. 오늘 전까지 우린 내년 매출을 2,800만 달러쯤으로 봤어. 아틀라스, 헤이버포드, 리벳, 나머지.
+095. GLORIA: Because of a lot of things. Let me walk you through it, because nobody's leaving this room until they understand. First, the forecast. Before today, we expected to sell about twenty-four million dollars next year. And a lot more in 2027.
+    글로리아: 여러 가지 때문이야. 하나씩 설명할 테니까 이해하기 전엔 아무도 이 방 못 나가. 먼저 전망. 오늘 전까지 우린 내년 매출을 2,400만 달러쯤으로 봤어. 그리고 2027년엔 훨씬 더.
 
-096. SAM: Twenty-eight. That was the number I showed the bank.
-    샘: 2,800만. 그게 은행에 보여 준 숫자였죠.
+096. SAM: Because of the electric pickup. Frank asked us to quote it in July. A hundred and fifty thousand pumps a year.
+    샘: 전기 픽업 때문이죠. 프랭크가 7월에 견적 내 달라고 했어요. 연 15만 개 펌프요.
 
-097. GLORIA: As of this morning, it's about seventeen. The pumps alone took seven million. Rivet's slowdown took another two. And Haverford told me last week they're "reviewing next year's volumes," which is banker language for "less."
-    글로리아: 오늘 아침 기준으로 1,700만쯤이야. 펌프 하나가 700만을 가져갔어. 리벳 둔화가 또 200만. 그리고 헤이버포드가 지난주에 "내년 물량을 검토 중"이라고 했어. 그건 은행원 말로 '줄인다'는 뜻이고.
+097. GLORIA: Right. As of this morning, the pickup is gone, indefinitely. The Summit pumps drop by more than half. Rivet's slowdown takes another chunk. Next year is down to about twenty million. And 2027 loses almost half of what we planned.
+    글로리아: 맞아. 오늘 아침부로 픽업은 무기한 사라졌어. 서밋 펌프는 절반 넘게 줄고. 리벳 둔화가 또 한 덩어리 가져가고. 내년은 2,000만 정도로 내려가. 그리고 2027년은 계획의 거의 절반이 날아가.
 
-098. EARL: So almost half of next year just disappeared.
-    얼: 그러니까 내년의 거의 절반이 그냥 사라졌네.
+098. EARL: So half of our future just disappeared. In one morning.
+    얼: 그러니까 우리 미래의 절반이 그냥 사라졌네. 아침 한나절에.
 
-099. GLORIA: Not half. Forty percent. But I'm not going to argue about ten percent today.
-    글로리아: 절반은 아니고. 40퍼센트. 근데 오늘은 10퍼센트 가지고 안 따질게.
+099. GLORIA: Half of 2027. Not half of everything. But I'm not going to argue about it today, Earl.
+    글로리아: 2027년의 절반이야. 전부의 절반은 아니고. 근데 오늘은 그걸로 안 따질게, 얼.
 
 100. WEN: But the runway is about cash now, not next year.
     웬: 근데 런웨이는 내년이 아니라 지금 현금 얘기잖아요.

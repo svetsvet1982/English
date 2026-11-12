@@ -84,11 +84,11 @@
 023. BEN: And the canary gets the same treatment. Wen, the Calloway motor you took apart in July. Where is it now?
     벤: 카나리아도 똑같이 다뤄요. 웬, 7월에 분해한 캘러웨이 모터. 지금 어디 있어요?
 
-024. WEN: In a box in my lab. With a label. And the receipt from the distributor in Indiana, with the date.
-    웬: 제 실험실 상자 안에요. 라벨 붙여서요. 인디애나 유통업체 영수증도 같이 있어요. 날짜 적힌 거요.
+024. WEN: The opened one is in a box in my lab, with a label and the receipt from Indiana. The two sealed ones are in Gloria's cabinet. Gloria and Earl signed the tape.
+    웬: 뜯은 건 제 실험실 상자 안에 라벨 붙여서, 인디애나 영수증이랑 같이 있어요. 봉인된 두 개는 글로리아 캐비닛에 있고요. 글로리아랑 얼이 테이프에 서명했어요.
 
-025. PRIYA: Keep the receipt. Buy two more from a different store, and don't open them. I'll open them in front of a camera, with Calloway's experts watching if they want.
-    프리야: 영수증 잘 두세요. 다른 가게에서 두 개 더 사시고 뜯지 마세요. 제가 카메라 앞에서 열 거예요. 원하면 캘러웨이 전문가들도 보는 앞에서요.
+025. PRIYA: Perfect. Keep them sealed. Later, I'll open one in front of a camera, with Calloway's experts watching if they want.
+    프리야: 완벽해요. 봉인 그대로 두세요. 나중에 제가 카메라 앞에서 하나를 열 거예요. 원하면 캘러웨이 전문가들도 보는 앞에서요.
 
 026. WEN: You want them to watch?
     웬: 그쪽이 보길 원해요?

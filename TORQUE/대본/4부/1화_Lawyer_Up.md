@@ -135,8 +135,8 @@
 040. GLORIA: Keep walking, baby.
     글로리아: 계속 걸어, 얘.
 
-041. BEN: Okay. Binder one is the forensic report your firm sent me on Friday. Let me read the line that matters. "On November twenty-second, 2024, at one-twelve a.m., the user account of Kevin Doyle copied the full firmware repository to an external USB drive."
-    벤: 좋아. 1번 바인더는 금요일에 포렌식 업체가 보내 준 보고서예요. 중요한 줄만 읽을게요. "2024년 11월 22일 오전 1시 12분, 케빈 도일의 사용자 계정이 펌웨어 저장소 전체를 외장 USB 드라이브에 복사함."
+041. BEN: Okay. Binder one is the forensic report. Here's the line that matters. "At one-fourteen a.m. on November twenty-second, 2024, an external USB drive was connected to Kevin Doyle's laptop. The full firmware repository was copied to it."
+    벤: 좋아. 1번 바인더는 포렌식 보고서예요. 중요한 줄은 이거예요. "2024년 11월 22일 오전 1시 14분, 케빈 도일의 노트북에 외장 USB 드라이브가 연결되었고, 펌웨어 저장소 전체가 거기 복사됨."
 
 042. WEN: The full repository. Eight years of my work. Every version of the Governor.
     웬: 저장소 전체요. 8년 동안 한 제 일이에요. 거버너의 모든 버전이요.
