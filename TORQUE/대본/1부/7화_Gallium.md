@@ -360,7 +360,7 @@
 115. SAM: Which means the bank. Let's go next week. Can you set it up?
     샘: 그 말은 은행이죠. 다음 주에 가요. 약속 잡아 줄래요?
 
-116. GLORIA: I'll call Frank at Miami Valley Savings. He owes me a favor from nineteen ninety-nine. And Sam, he's going to ask about collateral. You know what that means.
+116. GLORIA: I'll call Doug at Miami Valley Savings. He owes me a favor from nineteen ninety-nine. And Sam, he's going to ask about collateral. You know what that means.
     글로리아: 마이애미 밸리 저축은행의 더그한테 전화할게. 1999년에 나한테 신세 진 게 있거든. 그리고 샘, 그 사람 담보 물어볼 거야. 무슨 뜻인지 알지.
 
 117. SAM: I know what that means. I need to talk to Erin first. I promised her.
