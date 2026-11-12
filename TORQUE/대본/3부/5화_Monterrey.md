@@ -145,7 +145,7 @@
     타일러: 얼, 이거 끝내줘요. 진짜로. 드셔 봐요.
 
 044. EARL: Okay. Okay. Huh. That's good. That's very good. Don't tell Donna at Lou's.
-    얼: 알았어. 알았어. 허. 맛있네. 아주 맛있어. 루스 다이너의 도나한텐 말하지 마.
+    얼: 알았어. 알았어. 허. 맛있네. 아주 맛있어. Lou's의 도나한텐 말하지 마.
 
 045. NATE: Alejandro, tell Sam the numbers. He likes numbers, and he likes them honest.
     네이트: 알레한드로, 샘한테 숫자 말해 줘요. 숫자 좋아하고, 정직한 숫자를 좋아해요.
