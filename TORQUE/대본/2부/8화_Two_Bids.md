@@ -375,8 +375,8 @@
 120. BEN: Did he take anything when he left? Files, drives, anything?
     벤: 나갈 때 뭘 가져갔어? 파일, 드라이브, 뭐든?
 
-121. WEN: We don't know yet. I've been looking at the access logs. Something isn't right. His laptop is sealed in our CFO's office. Nobody has touched it.
-    웬: 아직 몰라요. 접근 기록을 보고 있어요. 뭔가 이상해요. 그 사람 노트북은 우리 CFO 사무실에 봉인돼 있어요. 아무도 안 건드렸어요.
+121. WEN: Our logs show his account copied the entire repository on November twenty-second, at one twelve a.m. From home. It's suspicious, not proof. His laptop is sealed in our CFO's office. Nobody has touched it.
+    웬: 기록을 보면 11월 22일 새벽 1시 12분에 그 사람 계정이 저장소 전체를 복사했어요. 집에서요. 의심스럽지만 증거는 아니에요. 노트북은 우리 CFO 사무실에 봉인돼 있고, 아무도 안 건드렸어요.
 
 122. BEN: Good. Keep it that way. Do not open it. Do not let your IT guy "take a quick look." If someone touches it wrong, the evidence becomes useless.
     벤: 좋아. 그대로 둬. 열지 마. IT 담당이 "잠깐 보자"고 하는 것도 안 돼. 잘못 건드리면 증거가 쓸모없어져.

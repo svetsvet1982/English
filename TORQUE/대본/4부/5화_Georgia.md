@@ -216,8 +216,8 @@
 067. WEN: "Okay." Or "probably okay"?
     웬: '괜찮다'예요, 아니면 '아마 괜찮다'예요?
 
-068. MINJUN: He said, "This is how every Korean company does it." Samsung, Hyundai, LG, everybody. There's no visa for "come for ten weeks and install a machine." It doesn't exist.
-    민준: "한국 회사들은 다 이렇게 한다"고 했어요. 삼성, 현대, LG, 다요. "10주 와서 기계 설치하기" 비자는 없어요. 존재하지 않아요.
+068. MINJUN: He said, "This is how every Korean company does it." The big groups, the battery companies, everybody. There's no visa for "come for ten weeks and install a machine." It doesn't exist.
+    민준: "한국 회사들은 다 이렇게 한다"고 했어요. 대기업들, 배터리 회사들, 다요. "10주 와서 기계 설치하기" 비자는 없어요. 존재하지 않아요.
 
 069. SAM: That doesn't sound like a yes.
     샘: 그게 '네'로 들리진 않는데요.

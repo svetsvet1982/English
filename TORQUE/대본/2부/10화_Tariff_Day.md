@@ -348,8 +348,8 @@
 111. SAM: Please.
     샘: 그러세요.
 
-112. WEN: I listened to all of you. Earl, Patty, Darnell, Tyler. You're all a little right. I'm from China. My parents are in Shenzhen. Today, both of my countries hit each other. Hard.
-    웬: 다들 하는 말 들었어요. 얼, 패티, 대넬, 타일러. 다 조금씩 맞아요. 전 중국 출신이에요. 부모님은 선전에 계시고요. 오늘 제 두 나라가 서로를 때렸어요. 세게요.
+112. WEN: I listened to all of you. Earl, Patty, Darnell, Tyler. You're all a little right. I'm from China. My father is in Shenzhen. Today, both of my countries hit each other. Hard.
+    웬: 다들 하는 말 들었어요. 얼, 패티, 대넬, 타일러. 다 조금씩 맞아요. 전 중국 출신이에요. 아버지는 선전에 계시고요. 오늘 제 두 나라가 서로를 때렸어요. 세게요.
 
 113. PATTY: Oh, honey. I didn't even think about that.
     패티: 아이고, 박사님. 그건 생각도 못 했네.
