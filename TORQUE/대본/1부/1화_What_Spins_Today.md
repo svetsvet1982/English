@@ -51,8 +51,8 @@
 012. EARL: Two hundred hub motors for the bike shop in Indianapolis. They're wound, they're assembled, and they go on Betsy this morning. If they pass, they're on a truck by three.
     얼: 인디애나폴리스 자전거 가게에 보낼 허브 모터 이백 개. 권선 끝났고, 조립 끝났고, 오늘 아침에 베치에 올라가. 통과하면 세 시까지 트럭에 싣는다.
 
-013. SAM: And if they don't pass?
-    샘: 통과 못 하면?
+013. SAM: And if they don't pass? What's the plan, Earl?
+    샘: 통과 못 하면? 계획이 뭐예요, 얼?
 
 014. EARL: Then I stay late and you buy pizza. Same as always.
     얼: 그럼 난 늦게까지 남고 넌 피자 사는 거지. 늘 그렇듯이.
@@ -96,8 +96,8 @@
 027. GLORIA: I have a lot to say from the money side. But I'll say it in your office, with the door closed, after your call.
     글로리아: 돈 쪽에선 할 말이 많지. 근데 네 사무실에서, 문 닫고, 통화 끝나고 할게.
 
-028. SAM: That doesn't sound good.
-    샘: 그거 좋은 소리로 안 들리는데요.
+028. SAM: That doesn't sound good. Nothing good ever happens with the door closed.
+    샘: 그거 좋은 소리로 안 들리는데요. 문 닫고 하는 얘기 중에 좋은 건 없잖아요.
 
 029. GLORIA: It's not bad. It's just math.
     글로리아: 나쁜 건 아니야. 그냥 수학이지.
@@ -204,8 +204,8 @@
 063. SAM: Here's the ask. If we're going to build five thousand motors, I have to buy the copper, the magnets, and the steel up front, months before you pay me. So I need a deposit.
     샘: 부탁드릴 건 이거예요. 모터 오천 개를 만들려면 구리, 자석, 강판을 미리 사야 해요. 대금 받기 몇 달 전에요. 그래서 계약금이 필요해요.
 
-064. NINA: How much of a deposit?
-    니나: 계약금 얼마나요?
+064. NINA: Okay. How much of a deposit are we talking about?
+    니나: 그렇군요. 계약금은 얼마 정도 생각하세요?
 
 065. SAM: Thirty percent when we sign, and the rest when the motors arrive.
     샘: 계약할 때 30퍼센트, 나머지는 모터 도착할 때요.
@@ -219,8 +219,8 @@
 068. NINA: I know it's not ideal. But I'm being honest with you instead of promising you money I don't have yet.
     니나: 이상적이지 않은 거 알아요. 근데 아직 없는 돈을 약속하는 대신 솔직하게 말하는 거예요.
 
-069. SAM: I appreciate that. Honestly, I do.
-    샘: 그건 고마워요. 진심으로요.
+069. SAM: I appreciate that. Honestly, I do. Most people promise first and explain later.
+    샘: 그건 고마워요. 진심으로요. 대부분은 먼저 약속하고 나중에 설명하거든요.
 
 070. NINA: So? Can you pull it off? Five thousand motors, by March, with the money in January?
     니나: 그래서요? 해낼 수 있어요? 3월까지 모터 오천 개, 돈은 1월에?
@@ -282,8 +282,8 @@
 089. GLORIA: And to build Nina's five thousand motors, we have to buy about one point one million dollars of materials, mostly before Christmas, if you want them ready by March.
     글로리아: 그리고 니나의 모터 오천 개를 만들려면 자재를 110만 달러어치쯤 사야 해. 3월까지 맞추려면 대부분 크리스마스 전에.
 
-090. SAM: And Nina's deposit comes in January.
-    샘: 니나 계약금은 1월에 들어오고요.
+090. SAM: And Nina's deposit doesn't come in until January.
+    샘: 그리고 니나 계약금은 1월이나 돼야 들어오고요.
 
 091. GLORIA: Thirty percent in January. That's about four hundred and fifty thousand. So between now and then, we're going to spend money we don't have, on motors nobody has paid for yet.
     글로리아: 1월에 30퍼센트. 45만 달러쯤 되지. 그러니까 지금부터 그때까지 우리는 없는 돈을, 아직 아무도 값을 안 치른 모터에 쓰게 되는 거야.
@@ -312,8 +312,8 @@
 099. GLORIA: Option one, we ask the bank for a bigger line of credit. That's money we can borrow when we need it. They'll ask for a lot of paper, and they'll ask for collateral.
     글로리아: 첫째, 은행에 신용한도를 늘려 달라고 해. 필요할 때 빌릴 수 있는 돈이지. 서류를 엄청 요구할 거고, 담보도 요구할 거야.
 
-100. SAM: Collateral meaning what?
-    샘: 담보면 뭘요?
+100. SAM: Collateral meaning what, exactly? We don't own much.
+    샘: 담보면 정확히 뭘요? 우리 가진 게 별로 없잖아요.
 
 101. GLORIA: Something they can take if we can't pay them back. The machines. The building, if we owned it, which we don't. Or something of yours.
     글로리아: 우리가 못 갚으면 그쪽이 가져갈 수 있는 거. 기계들. 건물. 우리 건물이면 말이지만, 아니잖아. 아니면 너 개인 거.
@@ -357,8 +357,8 @@
 114. LILY: It's true, Dad. That chicken is basically powder now.
     릴리: 진짜야, 아빠. 그 닭고기 이제 거의 가루야.
 
-115. SAM: Sorry. Big day. How was school?
-    샘: 미안. 바쁜 날이었어. 학교는 어땠어?
+115. SAM: Sorry. Big day at work. How was school today, Lil?
+    샘: 미안. 회사에서 바쁜 날이었어. 오늘 학교는 어땠어, 릴?
 
 116. LILY: Weird. Half my class was celebrating and half my class was crying, and my history teacher made us write a paragraph about "peaceful disagreement."
     릴리: 이상했어. 반 애들 절반은 축하하고 절반은 울고, 역사 선생님은 '평화로운 의견 차이'에 대해 한 문단 쓰라고 했어.
@@ -396,8 +396,8 @@
 127. SAM: Gloria also mentioned that the bank might want collateral.
     샘: 글로리아가 은행이 담보를 원할 수도 있다고 하더라.
 
-128. ERIN: Collateral like the machines?
-    에린: 담보면 기계 같은 거?
+128. ERIN: Collateral like what? The machines at the factory?
+    에린: 담보면 뭐? 공장 기계 같은 거?
 
 129. SAM: Like the machines. Or something else.
     샘: 기계 같은 거. 아니면 다른 거.
@@ -450,8 +450,8 @@
 145. SAM: That's a really good question. Nina hasn't even sent the contract yet. Nobody outside the factory should know.
     샘: 그거 정말 좋은 질문이야. 니나는 아직 계약서도 안 보냈어. 공장 밖에선 아무도 몰라야 해.
 
-146. ERIN: Are you going to answer her?
-    에린: 답장할 거야?
+146. ERIN: So are you going to answer her? Or pretend you didn't see it?
+    에린: 그래서 답장할 거야? 아니면 못 본 척할 거야?
 
 147. SAM: I don't know yet. Part of me wants to know what she wants. Another part of me thinks a company that big doesn't want coffee with a company our size unless they want something else.
     샘: 아직 모르겠어. 한편으로는 그 사람이 뭘 원하는지 알고 싶어. 다른 한편으로는, 그렇게 큰 회사가 우리 같은 크기의 회사랑 커피를 마시고 싶어 할 때는 다른 걸 원하는 거라고 생각하고.

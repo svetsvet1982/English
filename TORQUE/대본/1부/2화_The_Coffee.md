@@ -18,8 +18,8 @@
 001. GLORIA: Slow down, Sam. It's raining, and the meeting isn't going anywhere.
     글로리아: 속도 줄여, 샘. 비 오잖아. 미팅이 어디 도망가는 것도 아니고.
 
-002. SAM: Sorry. I drive fast when I'm nervous.
-    샘: 미안해요. 긴장하면 운전이 빨라져서.
+002. SAM: Sorry. I drive fast when I'm nervous. Erin says I drive like I'm late for my own wedding.
+    샘: 미안해요. 긴장하면 운전이 빨라져서. 에린은 제가 제 결혼식에 늦은 사람처럼 운전한대요.
 
 003. GLORIA: You drive fast when you're happy, too. And when you're hungry. Let's just say you drive fast.
     글로리아: 기분 좋을 때도 빨리 몰잖아. 배고플 때도. 그냥 넌 빨리 모는 사람이라고 해 두자.
@@ -48,8 +48,8 @@
 011. GLORIA: Baby, a senior vice president of strategy doesn't drive to Columbus in the rain to buy motors. They have a whole department for that.
     글로리아: 얘, 전략 담당 수석부사장은 모터 사러 빗속을 뚫고 콜럼버스까지 안 와. 그런 일 하는 부서가 따로 통째로 있어.
 
-012. SAM: So you think it's an offer.
-    샘: 그러니까 인수 제안이라고 생각하는 거네요.
+012. SAM: So you really think it's an offer. To buy the whole company.
+    샘: 그러니까 정말 인수 제안이라고 생각하는 거네요. 회사 전체를.
 
 013. GLORIA: I think it's an offer, and I think it's going to be low. They always open low. It's called a lowball. They want to see if you're desperate.
     글로리아: 제안일 거고, 낮을 거라고 봐. 항상 낮게 시작하거든. 그걸 로우볼이라고 해. 네가 절박한지 보려는 거야.
@@ -66,8 +66,8 @@
 017. GLORIA: She invited you, not me. If I walk in there with my spreadsheet, she'll know we're scared. I'll be in the lobby with a very expensive cup of tea.
     글로리아: 그 사람은 너를 초대했지 나를 초대한 게 아니야. 내가 스프레드시트 들고 들어가면 우리가 겁먹은 걸 알 거야. 난 로비에서 아주 비싼 차 한 잔 하고 있을게.
 
-018. SAM: And if I panic?
-    샘: 제가 패닉하면요?
+018. SAM: And if I panic? If my face does something without asking me?
+    샘: 제가 패닉하면요? 제 얼굴이 허락도 없이 뭔가를 하면요?
 
 019. GLORIA: Then go to the bathroom and text me. Nobody ever lost a deal by going to the bathroom.
     글로리아: 그럼 화장실 가서 나한테 문자 해. 화장실 갔다고 거래 망친 사람은 없어.
@@ -93,8 +93,8 @@
 026. VICTORIA: Please. With oat milk this time. Thank you, Danny.
     빅토리아: 네. 이번엔 귀리 우유로요. 고마워요, 대니.
 
-027. SAM: You know the waiter's name?
-    샘: 웨이터 이름을 아세요?
+027. SAM: You know the waiter's name? You just got here.
+    샘: 웨이터 이름을 아세요? 방금 오셨잖아요.
 
 028. VICTORIA: I know everyone's name, Sam. It's a habit. It's also the cheapest way to make people like you.
     빅토리아: 전 모든 사람 이름을 알아요, 샘. 습관이에요. 사람들이 나를 좋아하게 만드는 가장 싼 방법이기도 하고요.
@@ -141,8 +141,8 @@
 042. VICTORIA: Sam, the motor industry is a small town. Dayton is a small town. Somebody tells somebody, who tells somebody at dinner. I hear things. It's my job to hear things.
     빅토리아: 샘, 모터 업계는 작은 동네예요. 데이턴도 작은 동네고요. 누가 누구한테 말하고, 그 사람이 저녁 자리에서 또 누구한테 말하고. 전 이것저것 들어요. 듣는 게 제 일이에요.
 
-043. SAM: That's not really an answer.
-    샘: 그건 사실 대답이 아닌데요.
+043. SAM: That's not really an answer, Victoria. That's a nice way of not answering.
+    샘: 그건 사실 대답이 아닌데요, 빅토리아. 대답 안 하는 걸 예쁘게 포장한 거죠.
 
 044. VICTORIA: No, it isn't. But it's the only one I can give you over coffee.
     빅토리아: 네, 아니죠. 근데 커피 마시면서 드릴 수 있는 대답은 그것뿐이에요.
@@ -159,8 +159,8 @@
 048. VICTORIA: Almost every powerful motor in America depends on magnets made in China. Our board knows it. The Pentagon knows it. And after last week, everyone in Washington is talking about tariffs, trade wars, and supply chains.
     빅토리아: 미국의 강력한 모터는 거의 전부 중국산 자석에 의존해요. 저희 이사회도 알고, 국방부도 알아요. 그리고 지난주 이후로 워싱턴 사람들은 다 관세, 무역전쟁, 공급망 얘기를 하고 있죠.
 
-049. SAM: I've heard.
-    샘: 들었어요.
+049. SAM: I've heard. Everyone in my factory has an opinion about it.
+    샘: 들었어요. 우리 공장 사람들도 다 한마디씩 해요.
 
 050. VICTORIA: If China ever decides to stop selling those magnets to us, a lot of factories in this country will stop. Not slow down. Stop. Our job at Calloway is to make sure we're not one of them.
     빅토리아: 중국이 언젠가 그 자석을 우리한테 안 팔기로 하면, 이 나라 공장 상당수가 멈출 거예요. 느려지는 게 아니라 멈춰요. 캘러웨이에서 제 일은 우리가 그중 하나가 되지 않게 하는 거예요.
@@ -177,8 +177,8 @@
 054. VICTORIA: We would acquire one hundred percent of the company. You'd stay on as our Vice President of Ferrite Technology. Your team would keep their jobs for at least two years, with better benefits than they have now.
     빅토리아: 회사 지분 100퍼센트를 인수하는 거예요. 당신은 저희 페라이트 기술 부사장으로 남으시고요. 팀원들은 최소 2년간 고용이 보장되고, 지금보다 나은 복리후생을 받게 돼요.
 
-055. SAM: And the factory?
-    샘: 그리고 공장은요?
+055. SAM: And the factory? The building in Moraine, and the people in it?
+    샘: 그리고 공장은요? 모레인 건물이랑, 그 안의 사람들은요?
 
 056. VICTORIA: Over time, production would move to our plant in South Carolina. It's much bigger and much more efficient. Your people would be welcome to move with it.
     빅토리아: 시간이 지나면 생산은 사우스캐롤라이나 공장으로 옮겨 가요. 훨씬 크고 훨씬 효율적이죠. 직원분들도 원하면 같이 옮겨 오셔도 돼요.
@@ -207,8 +207,8 @@
 064. VICTORIA: Take your time. I know it's a big number for a company with nine million in revenue.
     빅토리아: 천천히 하세요. 매출 900만 달러 회사한테 큰 숫자라는 거 알아요.
 
-065. SAM: You know our revenue too.
-    샘: 우리 매출도 아시네요.
+065. SAM: You know our revenue too. That's not on our website.
+    샘: 우리 매출도 아시네요. 그건 웹사이트에 없는데.
 
 066. VICTORIA: I know a lot of things about you, Sam. I know you have very talented people. Your firmware team, for example. Kevin Doyle is a name people mention.
     빅토리아: 당신에 대해 많은 걸 알아요, 샘. 아주 유능한 사람들이 있다는 것도 알고요. 예를 들어 펌웨어 팀. 케빈 도일은 사람들이 자주 언급하는 이름이죠.
@@ -219,8 +219,8 @@
 068. VICTORIA: Because I want you to understand that we see the value of your people, not just your patents. That's a compliment.
     빅토리아: 저희가 당신 특허뿐 아니라 사람들의 가치도 알아본다는 걸 이해해 주셨으면 해서요. 칭찬이에요.
 
-069. SAM: It didn't sound like one.
-    샘: 칭찬으로 안 들렸는데요.
+069. SAM: It didn't sound like one. It sounded like you were reading from a file.
+    샘: 칭찬으로 안 들렸는데요. 서류를 읽는 것처럼 들렸어요.
 
 070. VICTORIA: Then I apologize. Let me say it more simply. You've built something important, Sam. But you're thirty-eight people with nine weeks of cash. We're forty thousand people with nine billion. You need a seat at the table, and we're offering you one.
     빅토리아: 그럼 사과할게요. 더 간단하게 말할게요. 당신은 중요한 걸 만들었어요, 샘. 근데 당신 회사는 9주치 현금을 가진 서른여덟 명이고, 저희는 90억 달러를 가진 4만 명이에요. 당신한텐 테이블에 앉을 자리가 필요하고, 저희가 그걸 드리는 거예요.
@@ -243,8 +243,8 @@
 076. GLORIA: Twenty-two is about two and a half times our revenue. For a company with your patents, at this moment in history, that's a lowball. She's testing you.
     글로리아: 2,200만이면 우리 매출의 2.5배쯤이야. 너 같은 특허를 가진 회사가, 역사상 지금 이 시점에, 그건 로우볼이야. 널 시험하는 거야.
 
-077. SAM: So what do I say?
-    샘: 그럼 뭐라고 해요?
+077. SAM: So what do I say? I have about two more minutes in here.
+    샘: 그럼 뭐라고 해요? 여기 2분 정도밖에 더 못 있어요.
 
 078. GLORIA: What do you want to say?
     글로리아: 넌 뭐라고 하고 싶은데?
@@ -312,14 +312,14 @@
 099. WEN: I understand. But I also understand the other part. If they can't buy us, what do they do instead?
     웬: 이해해요. 근데 다른 부분도 이해해요. 우릴 살 수 없으면, 대신 뭘 할까요?
 
-100. SAM: They try to beat us.
-    샘: 우릴 이기려고 하겠죠.
+100. SAM: They try to beat us. In the market, with their size.
+    샘: 우릴 이기려고 하겠죠. 시장에서, 그 덩치로.
 
 101. WEN: They try to copy us. Calloway has two hundred engineers who work on motors. If they can't buy the patent, they will try to design around it, or take it.
     웬: 우릴 베끼려고 하겠죠. 캘러웨이엔 모터만 다루는 엔지니어가 이백 명이에요. 특허를 못 사면 우회 설계를 하거나, 아니면 그냥 가져가려 할 거예요.
 
-102. GLORIA: Take it how?
-    글로리아: 어떻게 가져가?
+102. GLORIA: Take it how? Patents don't just walk out of the building.
+    글로리아: 어떻게 가져가? 특허가 걸어서 건물 밖으로 나가는 것도 아니고.
 
 103. WEN: She said Kevin's name. Why would a senior vice president know the name of a firmware engineer at a company with thirty-eight people?
     웬: 그 사람이 케빈 이름을 말했잖아요. 수석부사장이 직원 서른여덟 명짜리 회사 펌웨어 엔지니어 이름을 왜 알겠어요?
@@ -348,8 +348,8 @@
 111. GLORIA: Let's talk about valuation for a second, because you're going to hear this word a lot. Valuation means how much the whole company is worth, if somebody wanted to buy all of it.
     글로리아: 잠깐 가치평가 얘기 좀 하자. 이 단어 앞으로 많이 듣게 될 테니까. 가치평가는 누가 회사 전체를 사고 싶어 할 때 회사가 통째로 얼마짜리냐는 거야.
 
-112. SAM: And she says we're worth twenty-two million.
-    샘: 그리고 그 사람은 우리가 2,200만이라는 거고요.
+112. SAM: And she says the whole thing is worth twenty-two million.
+    샘: 그리고 그 사람은 그게 통째로 2,200만짜리라는 거고요.
 
 113. GLORIA: She says that's what she wants to pay. That's different. What we're worth depends on what happens next. If China ever really cuts off those magnets, your patent could be worth ten times that.
     글로리아: 그건 그 사람이 내고 싶은 금액이지. 그건 달라. 우리 가치는 앞으로 무슨 일이 생기느냐에 달렸어. 중국이 진짜로 그 자석을 끊으면, 네 특허 가치는 그 열 배가 될 수도 있어.
@@ -372,8 +372,8 @@
 119. SAM: Sure.
     샘: 그럼요.
 
-120. GLORIA: Is this about Moraine? About your dad?
-    글로리아: 이거 모레인 때문이야? 너희 아버지 때문에?
+120. GLORIA: Is this about Moraine? About your dad, and what happened in two thousand eight?
+    글로리아: 이거 모레인 때문이야? 너희 아버지랑, 2008년에 있었던 일 때문에?
 
 121. SAM: Maybe. Probably. I watched a company close a plant with a memo, Gloria. Thousands of people found out from the local news. I'm not going to be the guy who signs a memo like that.
     샘: 아마도요. 그럴 거예요. 전 회사가 메모 한 장으로 공장을 닫는 걸 봤어요, 글로리아. 수천 명이 지역 뉴스 보고 알았어요. 전 그런 메모에 서명하는 사람이 되진 않을 거예요.
@@ -390,14 +390,14 @@
 125. WEN: Fine. But I'm going to watch the logs.
     웬: 알았어요. 근데 로그는 지켜볼 거예요.
 
-126. MARTIN: Victoria. How'd it go with the Ohio guy?
-    마틴: 빅토리아. 오하이오 친구랑은 어떻게 됐어?
+126. MARTIN: Victoria. How'd it go with the Ohio guy? Do we own a motor company now?
+    마틴: 빅토리아. 오하이오 친구랑은 어떻게 됐어? 이제 우리 모터 회사 하나 생긴 거야?
 
 127. VICTORIA: He said no, Martin. Politely. In under an hour. He even apologized for going to the bathroom.
     빅토리아: 싫대요, 마틴. 정중하게. 한 시간도 안 돼서. 화장실 갔다 온 것까지 사과하더라고요.
 
-128. MARTIN: Did you tell him we could go higher?
-    마틴: 더 올릴 수 있다고 말했어?
+128. MARTIN: Did you tell him we could go higher? We have room.
+    마틴: 더 올릴 수 있다고 말했어? 여유 있잖아.
 
 129. VICTORIA: I told him numbers can move. He didn't care. He kept talking about keeping the jobs in Ohio. It's not about money for him. That's what makes him dangerous.
     빅토리아: 숫자는 움직일 수 있다고 했죠. 관심 없더라고요. 일자리를 오하이오에 남기는 얘기만 계속했어요. 그 사람한텐 돈 문제가 아니에요. 그래서 위험한 거예요.
@@ -426,8 +426,8 @@
 137. VICTORIA: Then we need someone who already knows how it works.
     빅토리아: 그럼 그게 어떻게 돌아가는지 이미 아는 사람이 필요하겠네요.
 
-138. MARTIN: You mean hire one of his people.
-    마틴: 그 회사 사람을 데려오자는 거구나.
+138. MARTIN: You mean hire one of his people. Right after he turned us down.
+    마틴: 그 회사 사람을 데려오자는 거구나. 우리 제안 거절하자마자.
 
 139. VICTORIA: I mean Kevin Doyle. Thirty-four, lives in Kettering, two kids, a mortgage, and a salary that's about half of what we'd pay him.
     빅토리아: 케빈 도일 말하는 거예요. 서른넷, 케터링 거주, 아이 둘, 주택 담보 대출, 그리고 우리가 줄 수 있는 연봉의 절반 정도 받고 있죠.
@@ -444,8 +444,8 @@
 143. VICTORIA: Hiring a talented engineer who wants a better life is the most American thing in the world. We'll make him an offer. If he says yes, that's his choice.
     빅토리아: 더 나은 삶을 원하는 유능한 엔지니어를 채용하는 건 세상에서 제일 미국적인 일이에요. 제안을 할 거예요. 그 사람이 받아들이면 그건 그 사람 선택이죠.
 
-144. MARTIN: And if he brings something with him?
-    마틴: 그리고 그 사람이 뭘 들고 오면?
+144. MARTIN: And if he brings something with him? Code, drawings, anything like that?
+    마틴: 그리고 그 사람이 뭘 들고 오면? 코드나 도면 같은 거?
 
 145. VICTORIA: I didn't hear that question.
     빅토리아: 그 질문 못 들었어요.
@@ -462,8 +462,8 @@
 149. VICTORIA: I'm not scary. I'm prepared. He wanted to play this the nice way. Fine. Now we play hardball.
     빅토리아: 무서운 게 아니라 준비된 거예요. 그 사람은 좋게 하고 싶어 했죠. 좋아요. 이제 세게 나가죠.
 
-150. MARTIN: I'll call Doyle on Monday.
-    마틴: 월요일에 도일한테 전화할게.
+150. MARTIN: Okay. I'll call Doyle on Monday. Before lunch.
+    마틴: 알았어. 월요일에 도일한테 전화할게. 점심 전에.
 
 ---
 
