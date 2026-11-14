@@ -98,8 +98,8 @@
 028. ACHTERBERG: He has one. She's in the lobby. Rule two. From this moment, the President should not discuss the facts with Mr. Goldstein. Not the call. Not the money. Not the lunch.
     악터버그: 있어요. 로비에 있습니다. 규칙 둘. 지금부터 대통령님은 골드스타인 씨와 사실관계를 논의하시면 안 됩니다. 전화도. 돈도. 점심도.
 
-029. DAN: He's been my friend since 2027, Simon.
-    댄: 2027년부터 제 친구예요, 사이먼.
+029. DAN: He's been my friend since 2028, Simon.
+    댄: 2028년부터 제 친구예요, 사이먼.
 
 030. ACHTERBERG: That's exactly why, sir. If there's an investigation, you're both potential witnesses. If you talk about the facts, it can look like you're getting your stories to match. Even if you're not.
     악터버그: 그래서 그런 겁니다, 대통령님. 수사가 있으면 두 분 다 잠재적 증인이에요. 사실관계를 얘기하시면 진술을 맞추는 것처럼 보일 수 있어요. 그렇지 않더라도요.
@@ -185,8 +185,8 @@
 057. ACHTERBERG: Not about the facts, sir. Carefully.
     악터버그: 사실관계가 아니면요, 대통령님. 조심해서요.
 
-058. DAN: Marty. In 2027, you bought me a sandwich at Ruth's memorial and told me to run. Whatever happens, that's still true. That's not a fact about the case. That's a fact about you.
-    댄: 마티. 2027년에 루스 추도식에서 샌드위치 사 주면서 출마하라고 했잖아요. 무슨 일이 있어도 그건 여전히 사실이에요. 사건에 관한 사실이 아니라. 마티에 관한 사실이에요.
+058. DAN: Marty. In 2028, you bought me a sandwich at Ruth's memorial and told me to run. Whatever happens, that's still true. That's not a fact about the case. That's a fact about you.
+    댄: 마티. 2028년에 루스 추도식에서 샌드위치 사 주면서 출마하라고 했잖아요. 무슨 일이 있어도 그건 여전히 사실이에요. 사건에 관한 사실이 아니라. 마티에 관한 사실이에요.
 
 059. MARTY: It was Feldman's. Pastrami. You didn't finish it.
     마티: 펠드먼 거였어. 파스트라미. 너 다 안 먹었어.
