@@ -443,8 +443,8 @@
 143. AUDIENCE: One ride! One ride!
     청중: 한 번 타기! 한 번 타기!
 
-144. DAN: My father used to say something at the end of his route. Every night. Thirty years. I'm going to say it, and then I'm going to go vote at six a.m. at P.S. 122.
-    댄: 아버지는 노선 끝에서 늘 하시던 말이 있어요. 매일 밤. 30년. 그 말을 하고, 그다음 저는 아침 여섯 시에 P.S. 122에서 투표할 거예요.
+144. DAN: My father used to say something at the end of his route. Every night. Thirty years. I'm going to say it, and then I'm going to go vote at six-thirty, at P.S. 101 in Forest Hills.
+    댄: 아버지는 노선 끝에서 늘 하시던 말이 있어요. 매일 밤. 30년. 그 말을 하고, 그다음 저는 아침 여섯 시 반에 포리스트 힐스 P.S. 101에서 투표할 거예요.
 
 145. ROSE: Say it, Danny. Say it like him.
     로즈: 말해, 대니. 아빠처럼 말해.
