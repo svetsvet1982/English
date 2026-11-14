@@ -422,8 +422,8 @@
 136. DAN: Somebody who can say what's in Whitmore Crane's files. Somebody who was there.
     댄: 휘트모어 크레인 파일에 뭐가 있는지 말할 수 있는 사람. 거기 있었던 사람.
 
-137. AISHA: Victoria can't. She's going to Castellan. Fisk can't. He's the firm's lawyer.
-    아이샤: 빅토리아는 못 해요. Castellan으로 가요. 피스크도 못 하고요. 로펌 변호사잖아요.
+137. AISHA: Victoria can't. Grant offered her a job. Fisk can't. He's the firm's lawyer.
+    아이샤: 빅토리아는 못 해요. 그랜트가 자리를 제안했잖아요. 피스크도 못 하고요. 로펌 변호사잖아요.
 
 138. MARTY: There's only one person who could say it, and he'd never do it.
     마티: 그 말을 할 수 있는 사람은 딱 하나야. 근데 절대 안 할걸.
