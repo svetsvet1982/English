@@ -422,8 +422,8 @@
 136. DAN: And your bill dies at fifty-seven.
     댄: 그럼 네 법안은 쉰일곱에서 죽고.
 
-137. HANK: My bill dies at fifty-seven, on July fourth, and fifteen-year-olds from Harmon go back to waiting. So here's my one request. Not a condition. A request. From a friend.
-    행크: 내 법안은 쉰일곱에서 죽어, 7월 4일에. 하먼의 열다섯 살짜리들은 다시 기다리게 되고. 그러니까 부탁 하나 할게. 조건 말고. 부탁. 친구로서.
+137. HANK: My bill dies at fifty-seven, on July fourth, and the kids in Brookdale go back to waiting. So here's my one request. Not a condition. A request. From a friend.
+    행크: 내 법안은 쉰일곱에서 죽어, 7월 4일에. 브룩데일 아이들은 다시 기다리게 되고. 그러니까 부탁 하나 할게. 조건 말고. 부탁. 친구로서.
 
 138. DAN: Say it.
     댄: 말해.
