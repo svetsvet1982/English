@@ -125,16 +125,16 @@
 037. REBECCA: Ridgeline's first deposit came from another company. Halcyon Holdings. Delaware. Halcyon's office is on the fifty-first floor of a building in Hudson Yards.
     레베카: 리지라인의 첫 입금은 다른 회사에서 왔어요. 핼시언 홀딩스. 델라웨어. 핼시언 사무실은 허드슨 야즈 어느 건물 51층에 있고요.
 
-038. DAN: Hudson Yards. Callum Price lives in Hudson Yards.
+038. DAN: Hudson Yards. Callum Pryce lives in Hudson Yards.
     댄: 허드슨 야즈. 캘럼 프라이스가 허드슨 야즈에 살아요.
 
-039. REBECCA: Callum Price's family office is on the fifty-first floor of that building. So are four other companies. Same floor is not the same person. I need a second source.
+039. REBECCA: Callum Pryce's family office is on the fifty-first floor of that building. So are four other companies. Same floor is not the same person. I need a second source.
     레베카: 캘럼 프라이스 가족 사무실이 그 건물 51층에 있어요. 다른 회사 네 곳도요. 같은 층이라고 같은 사람은 아니죠. 두 번째 취재원이 필요해요.
 
-040. DAN: Price hates me. Because of Darnell. Because of the cameras.
+040. DAN: Pryce hates me. Because of Darnell. Because of the cameras.
     댄: 프라이스는 날 싫어해요. 대널 때문에. 카메라 때문에.
 
-041. REBECCA: Frank told me what Price said. "Billionaires don't hold grudges. They fund them." It's a good line. It's not evidence.
+041. REBECCA: Frank told me what Pryce said. "Billionaires don't hold grudges. They fund them." It's a good line. It's not evidence.
     레베카: 프라이스가 했다는 말 프랭크가 해 줬어요. "억만장자는 원한을 품지 않는다. 자금을 댄다." 좋은 대사죠. 증거는 아니에요.
 
 042. DAN: And Castellan? Is there anything connecting Ridgeline to Castellan?
