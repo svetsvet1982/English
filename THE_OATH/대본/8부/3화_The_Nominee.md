@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 8부 3화 · 서사 기능: 과거와의 대면 — 블루 슬립 한 장의 무게
-> - 배경: 브롱크스 그랜드 콩코스 애버내시 센터 3층(2033년 2월 11일 금 오후 4시) → 더크슨 지하 SD-B40(2월 14일 월 오전 8시) → 더크슨 226호 법사위 청문회장(3월 2일 수 오전 10시) → 청문회장 밖 복도(같은 날 오후 12시 40분) → 하트 빌딩 앞, 하틀리의 첫 봄 전화(3월 20일 월 아침). 늦겨울에서 이른 봄.
+> - 배경: 브롱크스 그랜드 콩코스 애버내시 센터 3층(2033년 2월 11일 금 오후 4시) → 더크슨 지하 SD-B40(2월 14일 월 오전 8시) → 더크슨 226호 법사위 청문회장(3월 2일 수 오전 10시) → 청문회장 밖 복도(같은 날 오후 12시 40분) → 하트 빌딩 앞, 하틀리의 첫 봄 전화(3월 20일 일 아침). 늦겨울에서 이른 봄.
 > - 등장인물: Dan, Eli Ward, Lorraine Pitts, Marisol, Aisha, June, Ben, Frank, Justice Margaret Whelan(지명자, 새 단역), Chairwoman Gloria Antonelli(법사위원장, 우리 쪽, 새 단역), Senator Royce Tillman(법사위, 반대편, 새 단역), Douglas Hartley(전화)
 > - 난이도: B1–B2 · 턴 수: 150
 > - 이번 화의 핵심 표현: "blue slip", "confirmation hearing", "nominee", "on the record before us", "affirm", "eyewitness identification", "recuse", "the question the lawyer didn't ask", "advance a nomination", "both things are true"
@@ -26,8 +26,8 @@
 004. LORRAINE: Sit, Senator. Not that chair. That's Eli's chair. Howard Whitmore's old one.
     로레인: 앉으세요, 상원의원님. 그 의자 말고요. 그건 일라이 의자예요. 하워드 화이트모어의 옛 의자.
 
-005. ELI: Last semester. May twenty-sixth, I graduate. Then the bar exam in July. Then I'm a lawyer. Then I sit in a worse chair.
-    일라이: 마지막 학기예요. 5월 26일에 졸업해요. 그다음 7월에 변호사 시험. 그다음엔 변호사. 그다음엔 더 나쁜 의자에 앉고요.
+005. ELI: Last semester. May twenty-seventh, I graduate. Then the bar exam in July. Then I'm a lawyer. Then I sit in a worse chair.
+    일라이: 마지막 학기예요. 5월 27일에 졸업해요. 그다음 7월에 변호사 시험. 그다음엔 변호사. 그다음엔 더 나쁜 의자에 앉고요.
 
 006. DAN: Eli. I brought something. I wanted you to see it before anybody else.
     댄: 일라이. 뭘 좀 가져왔어요. 누구보다 먼저 보여 주고 싶었어요.
@@ -377,7 +377,7 @@
 121. DAN: She did, Madam Chair. I just asked the question. Out loud.
     댄: 고해는 그분이 했어요, 위원장님. 전 질문만 했고요. 소리 내서.
 
-122. ANTONELLI: That's what lawyers always say. The committee votes on the eighteenth. How will you vote?
+122. ANTONELLI: That's what lawyers always say. The committee votes on the seventeenth. How will you vote?
     안토넬리: 변호사들은 늘 그렇게 말하죠. 위원회 표결은 18일이에요. 어떻게 투표할 거예요?
 
 123. DAN: I'll vote yes. She asked herself the next question in 2017. Most people never do. Including me, for a long time.
@@ -392,8 +392,8 @@
 126. ANTONELLI: That's the Senate. Welcome to Judiciary.
     안토넬리: 그게 상원이에요. 법사위에 온 걸 환영해요.
 
-127. AISHA: Facts first. March eighteenth. Fourteen to eight. Tillman voted yes, with "serious concerns."
-    아이샤: 사실 먼저. 3월 18일. 14대 8. 틸먼은 찬성했어요, "심각한 우려"와 함께.
+127. AISHA: Facts first. March seventeenth. Fourteen to eight. Tillman voted yes, with "serious concerns."
+    아이샤: 사실 먼저. 3월 17일. 14대 8. 틸먼은 찬성했어요, "심각한 우려"와 함께.
 
 128. DAN: Serious concerns and a yes vote.
     댄: 심각한 우려에 찬성표.
@@ -452,8 +452,8 @@
 146. DAN: She's never met one.
     댄: 한 번도 만나 본 적이 없으시네요.
 
-147. JUNE: She said, and I'm quoting, "Bring the senator. I'll feed him. If he's skinny, I'll feed him twice." April eighth, we fly. April twelfth, we go to Jeonju. One day.
-    준: 그대로 옮길게요. "상원의원 데려와라. 밥 먹일게. 말랐으면 두 번 먹일게." 4월 8일 출발이에요. 4월 12일에 전주 가요. 하루.
+147. JUNE: She said, and I'm quoting, "Bring the senator. I'll feed him. If he's skinny, I'll feed him twice." April ninth, we fly. April thirteenth, we go to Jeonju. One day.
+    준: 그대로 옮길게요. "상원의원 데려와라. 밥 먹일게. 말랐으면 두 번 먹일게." 4월 9일 출발이에요. 4월 13일에 전주 가요. 하루.
 
 148. AISHA: He's not skinny.
     아이샤: 안 말랐잖아요.

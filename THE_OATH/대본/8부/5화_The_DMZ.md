@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 8부 5화 · 서사 기능: 선 위에 서다 — 희망과 계획
-> - 배경: 서울에서 북쪽으로 가는 대사관 승합차(2033년 4월 13일 목 오전 5시 40분) → 캠프 보니파스 브리핑실(오전 7시 30분) → 판문점 공동경비구역, 파란 회담장 안(오전 9시) → 임진강이 내려다보이는 전망대, 매캘리스터 장군과의 대화(오전 11시) → 서울 호텔 로비(같은 날 밤 11시 50분). 봄, 안개.
+> - 배경: 서울에서 북쪽으로 가는 대사관 승합차(2033년 4월 14일 목 오전 5시 40분) → 캠프 보니파스 브리핑실(오전 7시 30분) → 판문점 공동경비구역, 파란 회담장 안(오전 9시) → 임진강이 내려다보이는 전망대, 매캘리스터 장군과의 대화(오전 11시) → 서울 호텔 로비(같은 날 밤 11시 50분). 봄, 안개.
 > - 등장인물: Dan, June, Hank Pruitt, Chairman Lionel Ashby, Senator Corinne Haldane, Lee Da-eun, General Anne McAllister(주한미군사령관, 대장), Captain Jamal Whitley(공동경비구역 경비대대 브리핑 장교, 새 단역), Corporal Han Ji-ho(한지호 상병, 카투사, 새 단역), Aisha(전화)
 > - 난이도: B1–B2 · 턴 수: 150
 > - 이번 화의 핵심 표현: "armistice", "peace treaty", "the Military Demarcation Line", "Joint Security Area", "KATUSA", "deterrence", "Fight tonight.", "Hope is not a plan.", "a visitor's declaration", "missing"

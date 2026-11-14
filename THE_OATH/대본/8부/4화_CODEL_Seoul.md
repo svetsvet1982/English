@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 8부 4화 · 서사 기능: 넓어지는 세계 — 동맹과 할머니
-> - 배경: 서울 용산 호텔 회의실(2033년 4월 9일 일 밤 10시, 도착 직후) → 외교부 청사 회의실, 한미 동맹 회담(4월 10일 월 오전 10시) → 전주 한옥마을 근처 할머니 집(4월 12일 수 정오) → 서울행 KTX(같은 날 밤 8시). 봄, 벚꽃 끝물.
+> - 배경: 서울 용산 호텔 회의실(2033년 4월 10일 일 밤 10시, 도착 직후) → 외교부 청사 회의실, 한미 동맹 회담(4월 11일 월 오전 10시) → 전주 한옥마을 근처 할머니 집(4월 13일 수 정오) → 서울행 KTX(같은 날 밤 8시). 봄, 벚꽃 끝물.
 > - 등장인물: Dan, June, Hank Pruitt, Chairman Lionel Ashby, Senator Corinne Haldane, Ben(전화), Aisha(문자), Lee Da-eun(이다은, 주한 미국대사관 대표단 담당관, 새 단역), Foreign Minister Baek Seung-ho(백승호 외교부 장관, 가상, 새 단역), Kim Sun-rye(김순례, 준의 외할머니, 84, 새 단역)
 > - 난이도: B1–B2 · 턴 수: 150
 > - 이번 화의 핵심 표현: "CODEL", "control officer", "the alliance", "cost-sharing", "Katchi kapshida (We go together)", "predictability", "jet lag", "Jal meokgesseumnida", "Halmeoni", "next time, without June"

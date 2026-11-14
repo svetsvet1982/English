@@ -4,7 +4,7 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 8부 6화 · 서사 기능: 실종이 억류가 되다 — 할 수 있는 것과 하면 안 되는 것
-> - 배경: 롱아일랜드시티 상원 뉴욕 사무소(2033년 4월 15일 토 오전 9시) → 더크슨 지하 SD-B40, 국무부 특사와의 면담(4월 18일 화 오후 2시) → 캐피톨 힐 '벨웨더' 뒤쪽 부스, 레베카 스톤(4월 26일 수 밤 9시) → 롱아일랜드시티 로스쿨 졸업식 리셉션(5월 26일 금 오후 4시). 봄.
+> - 배경: 롱아일랜드시티 상원 뉴욕 사무소(2033년 4월 16일 토 오전 9시) → 더크슨 지하 SD-B40, 국무부 특사와의 면담(4월 19일 화 오후 2시) → 캐피톨 힐 '벨웨더' 뒤쪽 부스, 레베카 스톤(4월 27일 수 밤 9시) → 롱아일랜드시티 로스쿨 졸업식 리셉션(5월 27일 금 오후 4시). 봄.
 > - 등장인물: Dan, Aisha, June, Ben, Frank, Rebecca Stone, Eli Ward, Loretta Ward, Rose, Diane Pelton(노아의 어머니, 새 단역), Ambassador Clare Whitlock(국무부 인질 문제 특사, 새 단역)
 > - 난이도: B1–B2 · 턴 수: 150
 > - 이번 화의 핵심 표현: "detained", "wrongfully detained", "consular access", "the Logan Act", "back channel", "charged with espionage", "a forced confession", "on background", "Don't make it worse.", "the patient man"
@@ -302,8 +302,8 @@
 096. ELI: You look tired. A month now. Lorraine says it's the reporter.
     일라이: 피곤해 보여요. 한 달째요. 로레인이 그 기자 때문이래요.
 
-097. DAN: Forty-one days. No consular visit. No lawyer of his choice. Nothing. State asks every day. They say, "Under investigation."
-    댄: 41일. 영사 접견 없음. 본인이 고른 변호사 없음. 아무것도. 국무부가 매일 물어요. "수사 중"이래요.
+097. DAN: Forty-three days. No consular visit. No lawyer of his choice. Nothing. State asks every day. They say, "Under investigation."
+    댄: 43일. 영사 접견 없음. 본인이 고른 변호사 없음. 아무것도. 국무부가 매일 물어요. "수사 중"이래요.
 
 098. ELI: Under investigation. I know that one. That's how it starts.
     일라이: 수사 중. 그거 알아요. 그렇게 시작해요.
