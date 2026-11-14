@@ -224,8 +224,8 @@
 070. DAN: Who is Preston Ames?
     댄: 프레스턴 에임스가 누구야?
 
-071. AISHA: A lobbyist. K Street. Very good at it. And that basket is worth more than fifty dollars, so we can't keep it. Gifts over fifty dollars from a lobbyist are out.
-    아이샤: 로비스트요. K 스트리트. 아주 잘하는 사람이에요. 그리고 저 바구니는 50달러가 넘으니까 못 가져요. 로비스트한테서 50달러 넘는 선물은 안 돼요.
+071. AISHA: A lobbyist. K Street. Very good at it. And members can't accept gifts from registered lobbyists. Not fifty dollars, not five. Not even a pineapple.
+    아이샤: 로비스트요. K 스트리트. 아주 잘하는 사람이에요. 그리고 의원은 등록된 로비스트한테서 선물을 받을 수 없어요. 50달러든 5달러든. 파인애플 하나도요.
 
 072. JUNE: So we send it back? It's a pineapple. It'll be dead by Tuesday.
     준: 그럼 돌려보내요? 파인애플인데요. 화요일이면 상해요.
