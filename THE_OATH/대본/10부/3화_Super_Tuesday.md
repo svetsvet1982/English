@@ -8,7 +8,7 @@
 > - 등장인물: Dan, Owen Gallagher(첫 등장), Aisha, June, Marty, Dev Kapoor, Lily Tran, Agent Dana Whitfield, Elena, Ben(전화), Gov. Isabel Torres(전화), Sen. Raymond Cole(전화), Sam(문자), AUDIENCE
 > - 난이도: B1–B2 · 턴 수: 150
 > - 이번 화의 핵심 표현: "Super Tuesday", "winner-take-all", "district-level delegates", "the delegate count", "automatic delegates", "a contested convention", "a second ballot", "the magic number", "too early to call", "Shorter. Always shorter."
-> - 복선/연결: 2화 "세 사람이 그린 지도" · 오언 갤러거 합류 · 레이든 본인도 자동 대의원 · 토레스 3월 17일 애리조나 · 4화 켜진 마이크("모든 마이크는 켜져 있다")
+> - 복선/연결: 2화 "세 사람이 그린 지도" · 오언 갤러거 합류 · 레이든 본인도 자동 대의원 · 토레스 3월 18일 애리조나 · 4화 켜진 마이크("모든 마이크는 켜져 있다")
 
 ---
 
@@ -326,8 +326,8 @@
 104. DAN: Governor. Congratulations on Colorado. And California, maybe. We're two points apart out there.
     댄: 주지사님. 콜로라도 축하해요. 그리고 어쩌면 캘리포니아도. 거기선 2포인트 차네요.
 
-105. TORRES: Two points and two weeks of envelopes. Listen. Arizona votes March seventeenth. If I lose my home state, I'm going home. I'm telling you because nobody told me anything in 2032.
-    토레스: 2포인트에 2주간의 봉투들이죠. 들어 봐요. 애리조나가 3월 17일에 투표해요. 내 주에서 지면 집에 갈 거예요. 2032년엔 아무도 나한테 아무 말 안 해 줘서 지금 말하는 거예요.
+105. TORRES: Two points and two weeks of envelopes. Listen. Arizona votes March eighteenth. If I lose my home state, I'm going home. I'm telling you because nobody ever told me anything when I was losing.
+    토레스: 2포인트에 2주간의 봉투들이죠. 들어 봐요. 애리조나가 3월 18일에 투표해요. 내 주에서 지면 집에 갈 거예요. 내가 지고 있을 땐 아무도 나한테 아무 말 안 해 줘서 지금 말하는 거예요.
 
 106. DAN: And if you win Arizona?
     댄: 애리조나에서 이기면요?
