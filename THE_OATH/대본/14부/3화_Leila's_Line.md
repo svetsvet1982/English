@@ -449,8 +449,8 @@
 145. LEILA: It's Leila's line. Ben can call it whatever he wants.
     레일라: 레일라의 선이에요. 벤은 원하는 대로 부르면 되고요.
 
-146. BEN: Sir. Sorry. Secretary Liang is on the phone. He says the jobs report comes out Friday. He's seen it early. He wants ten minutes tonight.
-    벤: 대통령님. 죄송해요. 량 장관님 전화예요. 고용 보고서가 금요일에 나온대요. 미리 보셨대요. 오늘 밤 10분만 달래요.
+146. BEN: Sir. Sorry. Secretary Liang is on the phone. He's been reading the early numbers. Factory orders, trucking, layoffs. He wants ten minutes tonight.
+    벤: 대통령님. 죄송해요. 량 장관님 전화예요. 초기 지표들을 보고 계셨대요. 공장 주문, 화물 운송, 해고. 오늘 밤 10분만 달래요.
 
 147. DAN: Robert never asks for ten minutes at night. What did he say exactly?
     댄: 로버트는 밤에 10분 달라고 한 적이 없어요. 정확히 뭐래요?
