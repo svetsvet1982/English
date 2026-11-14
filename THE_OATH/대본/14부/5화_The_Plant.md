@@ -233,8 +233,8 @@
 073. DOMBROWSKI: His stories are short. Mine are long. That's how you know he's from Queens.
     돔브로스키: 이분 얘긴 짧아요. 제 얘긴 길고요. 그래서 퀸즈 출신인 걸 아는 거예요.
 
-074. DAN: In 1994, the bus depot in Astoria closed. The city built a new one in the Bronx. Two hundred drivers. Most of them lived in Queens. My father was the union delegate.
-    댄: 1994년에 애스토리아 버스 차고가 문을 닫았어요. 시가 브롱크스에 새 차고를 지었죠. 기사 2백 명. 대부분 퀸즈에 살았어요. 우리 아버지가 노조 대의원이었고요.
+074. DAN: In 1994, the old bus depot in Woodside closed. The city built a new one in the Bronx. Two hundred drivers. Most of them lived in Queens. My father was the union delegate.
+    댄: 1994년에 우드사이드의 옛 버스 차고가 문을 닫았어요. 시가 브롱크스에 새 차고를 지었죠. 기사 2백 명. 대부분 퀸즈에 살았어요. 우리 아버지가 노조 대의원이었고요.
 
 075. GENE: What did he do? Did he save it?
     진: 아버님이 뭘 했어요? 살렸어요?
