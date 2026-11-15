@@ -68,8 +68,8 @@
 018. NIKOS: Rose told me to keep it short. "Nikos, people have dinner."
     니코스: 로즈가 짧게 하라고 했어요. "니코스, 사람들 저녁 먹어야 해요."
 
-019. GUS: Danny. I'm sorry. I closed. Fifth time in sixty years. The sign says "Closed. Rose." Everybody knows what it means.
-    거스: 대니. 미안해. 닫았어. 60년 동안 다섯 번째야. 팻말엔 "휴업. 로즈."라고 썼어. 다들 무슨 뜻인지 알아.
+019. GUS: Mr. President. I'm sorry. I closed. Fifth time in sixty years. The sign says "Closed. Rose." Everybody knows what it means.
+    거스: 대통령님. 미안해. 닫았어. 60년 동안 다섯 번째야. 팻말엔 "휴업. 로즈."라고 썼어. 다들 무슨 뜻인지 알아.
 
 020. DAN: Gus. Thank you.
     댄: 거스. 고마워.

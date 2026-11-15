@@ -329,8 +329,8 @@
 105. ROSE: Sunday I was at church. Then home. Then soup. Mrs. Kalogeropoulos was at the diner. Booth two. Far from six.
     로즈: 일요일엔 성당에 있었어. 그다음 집. 그다음 수프. 칼로게로풀로스 부인이 다이너에 있었지. 2번 부스. 6번이랑 멀어.
 
-106. GUS: Mr. President. Give me the phone, Rose. Danny. They want me to close for ten days. Ten. I've never closed for ten minutes without a funeral.
-    거스: 대통령님. 로즈, 전화 줘. 대니. 열흘 동안 닫으래. 열흘. 장례식 없이 10분도 닫은 적 없어.
+106. GUS: Mr. President. Give me the phone, Rose. They want me to close for ten days. Ten. I've never closed for ten minutes without a funeral.
+    거스: 대통령님. 로즈, 전화 줘. 열흘 동안 닫으래. 열흘. 장례식 없이 10분도 닫은 적 없어.
 
 107. DAN: Gus. You talked to the man for twenty minutes. Close to him. About a mug.
     댄: 거스. 그 남자랑 20분 동안 얘기했잖아. 가까이서. 머그잔 얘기로.
