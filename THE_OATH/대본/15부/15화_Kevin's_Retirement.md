@@ -53,8 +53,8 @@
 013. RUGGERO: I'm counting, Mr. President. In 2032 you talked for twenty minutes at my union hall. I timed it. I still have the watch.
     루제로: 세고 있어요, 대통령님. 2032년에 우리 노조 회관에서 20분 동안 말씀하셨죠. 시간 쟀어요. 그 시계 아직 갖고 있어요.
 
-014. DAN: Tommy, you were against me in 2032. Loudly.
-    댄: 토미, 2032년엔 나 반대했잖아요. 시끄럽게.
+014. DAN: Tommy, you were against me in 2032. Very loudly.
+    댄: 토미, 2032년엔 나 반대했잖아요. 아주 시끄럽게.
 
 015. RUGGERO: I was against you in 2032, 2036, and 2040. I'm still against you. But I'm for your brother. That's different.
     루제로: 2032년, 2036년, 2040년 다 반대했죠. 지금도 반대해요. 하지만 동생분은 지지해요. 그건 달라요.
@@ -119,8 +119,8 @@
 035. DAN: At Camp David. On a hiking trail. Going uphill. Out of breath.
     댄: 캠프 데이비드에서. 산길에서. 오르막길에서. 숨 차면서요.
 
-036. BRENNAN: Figures. Reardons only say true things going uphill.
-    브레넌: 그럴 줄 알았어. 레이든 집안은 오르막에서만 진짜를 말하지.
+036. BRENNAN: Figures. You Reardons only say true things going uphill.
+    브레넌: 그럴 줄 알았어. 너희 레이든 집안은 오르막에서만 진짜를 말하지.
 
 037. DARNELL: Mr. President. Darnell Hayes. I don't know if you remember. 2027. The snow. I was seventeen.
     대널: 대통령님. 대널 헤이스예요. 기억하실지 모르겠어요. 2027년. 눈. 열일곱 살이었어요.
@@ -146,8 +146,8 @@
 044. ELENA: Everybody in this story says that about you, Danny.
     엘레나: 이 이야기에 나오는 사람들은 다 당신에 대해 그 말을 해, 대니.
 
-045. RUGGERO: Okay. Here he comes. The pipes. Everybody quiet.
-    루제로: 좋아. 나온다. 백파이프. 다들 조용히.
+045. RUGGERO: Okay. Here he comes. The pipes. Everybody quiet, please.
+    루제로: 좋아. 나온다. 백파이프. 다들 조용히 해 줘.
 
 046. SAM: What are they playing, Nicky? Is it a sad one?
     샘: 뭐 연주하는 거야, 니키? 슬픈 곡이야?
@@ -257,8 +257,8 @@
 081. KEVIN: I'm keeping everything. The spices. The chair. The porch light. The fridge rules. I'm adding one.
     케빈: 다 둘 거야. 향신료. 의자. 현관 불. 냉장고 규칙. 하나 추가할 거고.
 
-082. DAN: What's the new rule on the fridge, Kevin?
-    댄: 냉장고 새 규칙이 뭔데, 케빈?
+082. DAN: What's the new rule on the fridge going to be, Kevin?
+    댄: 냉장고 새 규칙은 뭐가 될 건데, 케빈?
 
 083. KEVIN: "Kevin sits down." Under "Rose sits down." Same marker.
     케빈: "케빈은 앉는다." "로즈는 앉는다" 밑에. 같은 매직으로.
@@ -281,8 +281,8 @@
 089. KEVIN: There's the lamb. From Easter. Still frozen. I'm saving it.
     케빈: 양고기 있어. 부활절 거. 아직 얼어 있어. 아껴 두는 거야.
 
-090. DAN: Saving it for what? It's been three months.
-    댄: 뭐 때문에 아껴? 석 달 됐는데.
+090. DAN: Saving it for what? It's been almost three months.
+    댄: 뭐 때문에 아껴? 거의 석 달 됐는데.
 
 091. KEVIN: I don't know yet. That's how you know it's important. Gus sent pastitsio. Eat that.
     케빈: 아직 몰라. 그래서 중요한 거란 걸 아는 거지. 거스가 파스티치오 보냈어. 그거 먹어.
@@ -293,8 +293,8 @@
 093. KEVIN: Okay. Here's the fight. Since April, you've called me every day. Every single day. At six. Asking how I am.
     케빈: 좋아. 싸움은 이거야. 4월부터 형이 매일 전화했어. 하루도 안 빠지고. 여섯 시에. 괜찮냐고.
 
-094. DAN: And that's a bad thing? Calling my brother?
-    댄: 그게 나쁜 거야? 동생한테 전화하는 게?
+094. DAN: And that's a bad thing? A man calling his brother?
+    댄: 그게 나쁜 거야? 형이 동생한테 전화하는 게?
 
 095. KEVIN: You're not calling to ask how I am. You're calling to ask if I'm angry. About Ma. About the last year. About you being in Washington while I was here.
     케빈: 괜찮냐고 물으려고 전화하는 게 아니잖아. 내가 화났는지 물으려고 전화하는 거지. 엄마 때문에. 마지막 1년 때문에. 내가 여기 있는 동안 형이 워싱턴에 있었던 거 때문에.
@@ -371,8 +371,8 @@
 119. KEVIN: Okay. Okay. I'm not fine. I was here in February when she couldn't do the stairs. I carried her up. Every night. Fourteen stairs. She counted them out loud, like Bernice's husband.
     케빈: 알았어. 알았어. 안 괜찮아. 2월에 엄마가 계단을 못 오를 때 내가 여기 있었어. 업고 올라갔어. 매일 밤. 계단 열네 개. 엄마가 소리 내서 셌어. 버니스 남편처럼.
 
-120. DAN: I didn't know that, Kevin. Nobody told me.
-    댄: 몰랐어, 케빈. 아무도 말 안 해 줬어.
+120. DAN: I didn't know that, Kevin. Nobody ever told me.
+    댄: 몰랐어, 케빈. 아무도 말해 준 적 없어.
 
 121. KEVIN: She told me not to tell you. She said, "Danny will cancel something important. Don't let him." So I didn't.
     케빈: 말하지 말라고 했어. "대니가 중요한 걸 취소할 거야. 그러게 두지 마." 그래서 안 했지.
@@ -386,8 +386,8 @@
 124. KEVIN: I carried her up fourteen stairs every night for two months. That's more than you got. That's the verdict. Not guilty. Case closed.
     케빈: 두 달 동안 매일 밤 계단 열네 개를 업고 올라갔어. 형보다 많이 가진 거지. 그게 평결이야. 무죄. 사건 종결.
 
-125. DAN: So you're the judge now? In Ma's kitchen?
-    댄: 그럼 이제 네가 판사야? 엄마 부엌에서?
+125. DAN: So you're the judge now? Here in Ma's kitchen?
+    댄: 그럼 이제 네가 판사야? 여기 엄마 부엌에서?
 
 126. KEVIN: Eli's the judge. I'm a retired cop. I'm the guy who writes down what actually happened. Here's what actually happened. You were a good son. From far away. That counts.
     케빈: 판사는 일라이고. 난 은퇴한 경찰이야. 실제로 일어난 일을 적는 사람. 실제로 일어난 일은 이거야. 형은 좋은 아들이었어. 멀리서. 그것도 쳐줘.
