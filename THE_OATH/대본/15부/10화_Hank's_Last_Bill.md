@@ -152,11 +152,11 @@
 046. DAN: That's not commentary. That's just perfect. Every single word.
     댄: 그건 논평이 아니야. 그냥 완벽해. 한 마디 한 마디 다.
 
-047. JUNE: Sir. You swore on Ben.
-    준: 대통령님. 벤에 맹세하셨잖아요.
+047. JUNE: Sir. You swore on Ben. Out loud. In front of witnesses.
+    준: 대통령님. 벤에 맹세하셨잖아요. 소리 내서. 증인들 앞에서.
 
-048. BEN: I feel betrayed, sir.
-    벤: 배신당한 기분이에요, 대통령님.
+048. BEN: I feel betrayed, sir. Deeply and personally betrayed.
+    벤: 배신당한 기분이에요, 대통령님. 깊이, 개인적으로요.
 
 049. HACKETT: Thank you, Ms. Reardon. Here's my hard question. My voters will ask why their taxes should pay lawyers for people who commit crimes.
     해킷: 감사합니다, 레이든 씨. 제 어려운 질문은 이겁니다. 제 유권자들은 왜 자기 세금으로 범죄를 저지른 사람들의 변호사 비용을 대야 하냐고 물을 거예요.
@@ -308,8 +308,8 @@
 098. HANK: That's why, Danny. I never told anybody. Jolene knows. The cows.
     행크: 그래서야, 대니. 아무한테도 말 안 했어. 졸린은 알아. 소들도.
 
-099. ZOE: What happened to him? The kid?
-    조이: 그 아이는 어떻게 됐어요?
+099. ZOE: What happened to him, Senator? The kid from the reservation?
+    조이: 그 아이는 어떻게 됐어요, 의원님? 보호구역 출신 아이요?
 
 100. HANK: He got out after four years. He's a rancher now. Near Browning. He sends me a Christmas card every year. He forgave me in 1995. I haven't forgiven me yet.
     행크: 4년 뒤에 나왔어. 지금은 목장주야. 브라우닝 근처에서. 매년 크리스마스카드를 보내. 1995년에 날 용서했어. 난 아직 나를 용서 못 했고.
