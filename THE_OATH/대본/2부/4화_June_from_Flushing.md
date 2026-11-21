@@ -14,8 +14,8 @@
 
 ## 대본
 
-001. JUNE: Excuse me, are you the lawyers from the Bronx? Over here! I already ordered, and I hope that's okay, because if you wait for the menu here, you'll be waiting until Lunar New Year.
-    준: 실례지만, 브롱크스에서 오신 변호사님들이세요? 여기요! 제가 벌써 주문했어요, 괜찮으시면 좋겠어요. 여기서 메뉴 기다리다간 설날까지 기다리셔야 하거든요.
+001. JUNE: Mr. Reardon? Ms. Bellamy? Over here! I already ordered, and I hope that's okay, because if you wait for the menu here, you'll be waiting until Lunar New Year.
+    준: 레이든 씨? 벨라미 씨? 여기요! 제가 벌써 주문했어요, 괜찮으시면 좋겠어요. 여기서 메뉴 기다리다간 설날까지 기다리셔야 하거든요.
 
 002. DAN: You must be June. Lunar New Year is next week, isn't it?
     댄: 준 씨군요. 설날이 다음 주 아니에요?
@@ -278,14 +278,14 @@
 088. JUNE: And that's three. Omma, please, you're embarrassing me.
     준: 그리고 셋. 엄마, 제발, 창피해.
 
-089. DAN: It's forty-two thousand dollars a year with health insurance, and I know that's not a pharmacist's salary.
-    댄: 1년에 4만 2천 달러에 건강보험 포함이에요. 약사 월급이 아닌 건 알아요.
+089. DAN: It's forty-two thousand dollars a year with health insurance, and I know that's not a pharmacist's salary, Mrs. Park.
+    댄: 1년에 4만 2천 달러에 건강보험 포함이에요. 약사 월급이 아닌 건 알아요, 박 여사님.
 
 090. MRS. PARK: No, pharmacist is more, much more than that.
     준 엄마: 아니, 약사는 더 많아요. 훨씬 더.
 
-091. AISHA: Can I ask you something? June told us about the salon in Great Neck, and about the money in the drawer.
-    아이샤: 여쭤봐도 될까요? 준이 그레이트넥 가게 얘기를 해 줬어요. 서랍 속 돈 얘기도요.
+091. AISHA: Mrs. Park, can I ask you something? June told us about the salon in Great Neck, and about the money in the drawer.
+    아이샤: 박 여사님, 여쭤봐도 될까요? 준이 그레이트넥 가게 얘기를 해 줬어요. 서랍 속 돈 얘기도요.
 
 092. MRS. PARK: She told you? June, why you tell, when it's old story?
     준 엄마: 얘기했어? 준, 왜 말했어, 다 옛날 얘긴데?
@@ -320,8 +320,8 @@
 102. MRS. PARK: Of course, because we need money. Complaint is not money, complaint is two years.
     준 엄마: 당연하지. 돈이 필요하니까. 진정은 돈이 아니야. 진정은 2년이야.
 
-103. DAN: You just explained the legal system better than most law professors I know.
-    댄: 방금 제가 아는 법학 교수들 대부분보다 법 제도를 더 잘 설명하셨어요.
+103. DAN: Mrs. Park, you just explained the legal system better than most law professors I know.
+    댄: 박 여사님, 방금 제가 아는 법학 교수들 대부분보다 법 제도를 더 잘 설명하셨어요.
 
 104. MRS. PARK: Because I am inside it, and professors are outside. Now give me other hand.
     준 엄마: 난 그 안에 있으니까. 교수들은 밖에 있고. 이제 다른 손 줘요.
@@ -338,11 +338,11 @@
 108. JUNE: She has the best nails in the New York State Department of Labor.
     준: 뉴욕주 노동부에서 손톱이 제일 예쁜 분이에요.
 
-109. MRS. PARK: Mister Lawyer, I want pharmacist, because pharmacist is warm. But when nobody listened to me, my daughter listened, and that is her job, not pharmacist. You understand?
+109. MRS. PARK: Mr. Lawyer, I want pharmacist, because pharmacist is warm. But when nobody listened to me, my daughter listened, and that is her job, not pharmacist. You understand?
     준 엄마: 변호사 양반, 난 약사를 원해. 약사는 따뜻하니까. 근데 아무도 내 말 안 들을 때 우리 딸은 들었어. 그게 쟤 일이야, 약사가 아니라. 알아들어요?
 
-110. DAN: I understand completely.
-    댄: 완전히 이해합니다.
+110. DAN: I understand completely, Mrs. Park.
+    댄: 완전히 이해합니다, 박 여사님.
 
 111. MRS. PARK: Forty-two thousand is very small. But health insurance is good. And you bring her home before ten. The Bronx is far.
     준 엄마: 4만 2천은 아주 적어요. 근데 건강보험은 좋아요. 그리고 열 시 전에 집에 보내 줘요. 브롱크스는 멀어요.
@@ -353,8 +353,8 @@
 113. MRS. PARK: At twenty-seven, ten o'clock, and at forty, ten o'clock, because this is the rule.
     준 엄마: 스물일곱이어도 열 시, 마흔이어도 열 시. 이게 규칙이야.
 
-114. DAN: The office closes at six anyway, because that's when the heat goes off.
-    댄: 사무실은 어차피 여섯 시에 닫아요. 그때 난방이 꺼지거든요.
+114. DAN: The office closes at six anyway, Mrs. Park, because that's when the heat goes off.
+    댄: 사무실은 어차피 여섯 시에 닫아요, 박 여사님. 그때 난방이 꺼지거든요.
 
 115. MRS. PARK: No heat? June, you hear that? No heat, but pharmacy has heat.
     준 엄마: 난방이 없어? 준, 들었어? 난방이 없대. 약국은 난방 있는데.
@@ -377,8 +377,8 @@
 121. MRS. PARK: Okay, good, I'm happy, but still pharmacist is better. Now, you, Aisha, give other hand and sit.
     준 엄마: 그래, 좋아. 기뻐. 그래도 약사가 더 나아. 자, 아이샤, 다른 손 주고 앉아요.
 
-122. AISHA: Me? Oh, no, you really don't have to—
-    아이샤: 저요? 아, 아니에요, 진짜 안 해 주셔도—
+122. AISHA: Me? Oh, no, Mrs. Park, you really don't have to—
+    아이샤: 저요? 아, 아니에요, 박 여사님, 진짜 안 해 주셔도—
 
 123. MRS. PARK: Sit down, because in this salon, I am the judge.
     준 엄마: 앉아. 이 가게에선 내가 판사야.
