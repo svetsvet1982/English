@@ -14,455 +14,455 @@
 
 ## 대본
 
-001. DAN: Ben. It's two thirty. Last votes were supposed to be at three. Why is the board still empty?
-    댄: 벤. 두 시 반이에요. 마지막 표결이 세 시였잖아요. 전광판이 왜 아직 비어 있어요?
+001. DAN: Ben, it's two thirty and last votes were supposed to be at three, so why is the board still empty?
+    댄: 벤, 두 시 반인데 마지막 표결이 세 시였잖아요. 전광판이 왜 아직 비어 있어요?
 
-002. BEN: They moved it, sir. Leadership pushed last votes to five. Maybe five thirty. The farm bill amendments are taking longer.
-    벤: 옮겼어요, 의원님. 지도부가 마지막 표결을 다섯 시로 미뤘어요. 다섯 시 반일 수도 있고요. 농업 법안 수정안들이 더 오래 걸리고 있어요.
+002. BEN: They moved it, sir, because leadership pushed last votes to five, maybe five thirty. The farm bill amendments are taking longer than expected.
+    벤: 미뤄졌습니다, 의원님. 지도부가 마지막 표결을 다섯 시로 옮겼어요. 다섯 시 반이 될 수도 있고요. 농업 법안 수정안들이 예상보다 오래 걸려서요.
 
-003. DAN: Five thirty. My train is at four. Zoe's final is at seven. In the Bronx.
-    댄: 다섯 시 반. 내 기차는 네 시예요. 조이 결승은 일곱 시고요. 브롱크스에서.
+003. DAN: Five thirty? My train is at four, and Zoe's final is at seven in the Bronx.
+    댄: 다섯 시 반? 내 기차는 네 시고, 조이 결승은 브롱크스에서 일곱 시예요.
 
-004. BEN: I know, sir. Thursdays are always like this. Leadership saves the hard votes for the end.
-    벤: 압니다, 의원님. 목요일은 늘 이래요. 지도부가 어려운 표결을 맨 끝에 남겨 둬요.
+004. BEN: I know, sir, and Thursdays are always like this, because leadership saves the hard votes for the end.
+    벤: 압니다, 의원님. 목요일은 늘 이래요. 지도부가 어려운 표결을 마지막에 남겨 두거든요.
 
-005. DAN: Hank told me this would happen. In January. On my first night.
-    댄: 행크가 이럴 거라고 했어요. 1월에. 첫날 밤에.
+005. DAN: Hank told me this would happen, back in January, on my very first night.
+    댄: 행크가 이럴 거라고 했어요. 1월에, 첫날 밤에요.
 
-006. BEN: Congressman Pruitt is usually right about Thursdays.
-    벤: 프루잇 의원님은 목요일에 관해선 대개 맞으세요.
+006. BEN: Congressman Pruitt is usually right about Thursdays, sir, because he's been through a lot of them.
+    벤: 프루잇 의원님은 목요일에 관해선 대개 맞으세요, 의원님. 많이 겪어 보셨거든요.
 
 007. DAN: How many votes are left?
-    댄: 표결 몇 개 남았어요?
+    댄: 표결이 몇 개 남았어요?
 
-008. BEN: Six amendments, the motion to recommit, then final passage. A vote series. Fifteen minutes, then fives.
-    벤: 수정안 여섯 개, 재회부 동의, 그다음 최종 통과. 연속 표결이에요. 처음 15분, 그다음부턴 5분씩요.
+008. BEN: There are six amendments, the motion to recommit, and then final passage, all in a vote series, so the first one is fifteen minutes and then they're fives.
+    벤: 수정안 여섯 개, 재회부 동의, 그리고 최종 통과요. 연속 표결이라 첫 번째는 15분, 나머지는 5분씩입니다.
 
-009. DAN: Fifteen plus seven times five. That's fifty minutes. I could make the six o'clock.
-    댄: 15분에 5분씩 일곱 번. 50분이네요. 여섯 시 기차는 탈 수 있겠어요.
+009. DAN: Fifteen plus seven times five is fifty minutes, so I could make the six o'clock.
+    댄: 15 더하기 7 곱하기 5면 50분이네요. 여섯 시 기차는 탈 수 있겠어요.
 
-010. BEN: In theory, sir. In practice, they hold the votes open. Five minutes becomes fifteen. Somebody's in the bathroom. Somebody's on the phone with a donor.
-    벤: 이론상으론요, 의원님. 실제로는 표결을 열어 둬요. 5분이 15분이 되죠. 누구는 화장실에 있고. 누구는 후원자랑 통화 중이고요.
+010. BEN: In theory, sir, but in practice they hold the votes open, so five minutes becomes fifteen. Somebody's in the bathroom, and somebody's on the phone with a donor.
+    벤: 이론상으론요, 의원님. 실제로는 표결을 열어 둬서 5분이 15분이 돼요. 누구는 화장실에 있고, 누구는 후원자랑 통화 중이고요.
 
-011. DAN: Motion to recommit. In English?
-    댄: 재회부 동의. 쉬운 말로?
+011. DAN: What's a motion to recommit, in English?
+    댄: 재회부 동의가 뭐예요? 쉬운 말로요.
 
-012. BEN: It's the minority's last chance to change a bill. They move to send it back to committee. It almost always fails. But it's one more vote, and they always ask for it.
-    벤: 소수당이 법안을 바꿀 마지막 기회예요. 위원회로 돌려보내자고 동의하는 거죠. 거의 항상 부결돼요. 그래도 표결 하나가 더 생기고, 그쪽은 늘 요구해요.
+012. BEN: It's the minority's last chance to change a bill, when they move to send it back to committee. It almost always fails, but it's one more vote, and they always ask for it.
+    벤: 소수당이 법안을 바꿀 마지막 기회예요. 위원회로 돌려보내자고 동의하는 거죠. 거의 항상 부결되지만, 표결 하나가 더 생기는 거라 늘 요구해요.
 
-013. DAN: So Hank's side asks for one more vote they know they'll lose.
-    댄: 그러니까 행크 쪽이 질 걸 알면서 표결 하나를 더 요구한다는 거네요.
+013. DAN: So Hank's side asks for one more vote that they know they'll lose.
+    댄: 그러니까 행크 쪽은 질 줄 알면서 표결을 하나 더 요구하는 거네요.
 
-014. BEN: Every time, sir. On every bill. It's tradition.
-    벤: 매번이요, 의원님. 모든 법안마다. 전통이에요.
+014. BEN: Every time, sir, on every bill, because it's tradition.
+    벤: 매번 그래요, 의원님. 모든 법안마다요. 전통이거든요.
 
-015. CARLOS: Reardon. You're not leaving, are you? Tell me you're not leaving. This is my bill. The pecans are in amendment four.
-    카를로스: 레이든. 가는 거 아니죠? 안 간다고 해요. 이거 내 법안이에요. 피칸은 수정안 4번에 있어요.
+015. CARLOS: Reardon, tell me you're not leaving, because this is my bill, and the pecans are in amendment four.
+    카를로스: 레이든, 가는 거 아니죠? 아니라고 해 줘요. 이거 내 법안이에요. 피칸이 수정안 4번에 있다고요.
 
-016. DAN: I'm not leaving, Carlos. I'm just counting the minutes very carefully.
+016. DAN: I'm not leaving, Carlos, I'm just counting the minutes very carefully.
     댄: 안 가요, 카를로스. 그냥 시간을 아주 꼼꼼히 세고 있을 뿐이에요.
 
-017. CARLOS: Good. Because amendment four might pass by two votes. Two. If you leave, I might lose by one. And then my mother finds out.
-    카를로스: 다행이다. 수정안 4번은 두 표 차로 통과될지도 몰라요. 두 표. 당신이 가면 한 표 차로 질 수도 있어요. 그럼 우리 엄마가 알게 되고.
+017. CARLOS: Good, because amendment four might pass by just two votes. If you leave, I might lose by one, and then my mother finds out.
+    카를로스: 다행이에요. 수정안 4번이 딱 두 표 차로 통과될지도 모르거든요. 당신이 가면 한 표 차로 질 수도 있고, 그럼 우리 엄마가 알게 돼요.
 
-018. HANK: Reardon. Over here. I've got an idea, and you're not going to like it.
-    행크: 레이든. 이쪽. 생각이 하나 있는데, 당신 마음에 안 들 거야.
+018. HANK: Reardon, over here, because I've got an idea, and you're not going to like it.
+    행크: 레이든, 이리 와 봐. 생각이 하나 있는데, 당신 마음엔 안 들 거야.
 
-019. DAN: You're in our cloakroom, Hank. Is that allowed?
-    댄: 우리 쪽 휴게실에 들어왔잖아요, 행크. 그래도 돼요?
+019. DAN: You're standing in our cloakroom, Hank, so is that allowed?
+    댄: 우리 휴게실에 들어와 계시잖아요, 행크. 그래도 돼요?
 
-020. HANK: I'm standing in the doorway. That's diplomatic territory. Listen. Your girl's thing is at seven. You want to go. I'll give you a live pair.
-    행크: 문간에 서 있는 거야. 외교 구역이지. 들어 봐. 딸 행사가 일곱 시잖아. 가고 싶잖아. 라이브 페어를 해 줄게.
+020. HANK: I'm standing in the doorway, which is diplomatic territory. Listen, your girl's thing is at seven and you want to go, so I'll give you a live pair.
+    행크: 난 문간에 서 있어. 외교 구역이지. 잘 들어. 딸 행사가 일곱 시고 가고 싶잖아. 내가 라이브 페어를 해 줄게.
 
-021. DAN: A live pair. Ben?
-    댄: 라이브 페어. 벤?
+021. DAN: A live pair? Ben, what's that?
+    댄: 라이브 페어? 벤, 그게 뭐예요?
 
-022. BEN: It's an old practice, sir. If you have to miss a vote, a member on the other side who would vote the opposite way agrees not to vote. So your absence doesn't change the result.
-    벤: 오래된 관행이에요, 의원님. 의원님이 표결을 빠져야 할 때, 반대로 투표했을 반대편 의원이 투표를 안 하기로 하는 거예요. 그래서 의원님의 불참이 결과를 바꾸지 않게요.
+022. BEN: It's an old practice, sir. If you have to miss a vote, a member on the other side who would vote the opposite way agrees not to vote, so your absence doesn't change the result.
+    벤: 오래된 관행입니다, 의원님. 의원님이 표결에 빠져야 할 때, 반대로 투표할 상대편 의원이 같이 투표를 안 하기로 하는 거예요. 그러면 의원님이 빠져도 결과가 안 바뀌죠.
 
-023. HANK: You'd vote yes on Mendez's pecans. I'd vote no. So we both don't vote. The math stays the same. You catch your train.
-    행크: 당신은 멘데스 피칸에 찬성할 거고. 난 반대할 거고. 그러니까 둘 다 투표 안 하는 거야. 계산은 그대로. 당신은 기차 타고.
+023. HANK: You'd vote yes on Mendez's pecans and I'd vote no, so we both don't vote. The math stays the same, and you catch your train.
+    행크: 당신은 멘데스 피칸에 찬성하고 난 반대할 거잖아. 그러니까 둘 다 안 하는 거야. 계산은 그대로고, 당신은 기차를 타는 거지.
 
-024. CARLOS: Hank! You'd do that? For my pecans?
-    카를로스: 행크! 그걸 해 준다고요? 내 피칸을 위해서?
+024. CARLOS: Hank, you'd really do that for my pecans, even though you're voting against them?
+    카를로스: 행크, 반대표 던질 거면서 진짜 내 피칸을 위해 그렇게 해 줘요?
 
-025. HANK: Not for your pecans, Mendez. For his girl. I don't care about your pecans. I care about her debate.
-    행크: 당신 피칸 때문이 아니야, 멘데스. 저 친구 딸 때문이지. 당신 피칸은 관심 없어. 그 애 토론 대회가 관심 있지.
+025. HANK: Not for your pecans, Mendez, for his girl. I don't care about your pecans, but I care about her debate.
+    행크: 당신 피칸 때문이 아니야, 멘데스. 이 사람 딸 때문이지. 피칸은 관심 없어. 그 아이 토론엔 관심 있고.
 
-026. DAN: Hank, that's... I don't know what to say.
-    댄: 행크, 그건… 뭐라고 해야 할지 모르겠네요.
+026. DAN: Hank, that's... I honestly don't know what to say.
+    댄: 행크, 그건... 정말 뭐라고 해야 할지 모르겠네요.
 
-027. HANK: Say yes. Eight votes. My name goes on the record as "paired." I'll tell folks why.
-    행크: 좋다고 해. 표결 여덟 개. 기록에 내 이름이 "페어"로 올라가. 고향 사람들한텐 이유를 말할 거야.
+027. HANK: Say yes. It's eight votes, and my name goes on the record as "paired," and I'll tell folks why.
+    행크: 그냥 좋다고 해. 표결 여덟 개고, 내 이름은 기록에 "페어"로 남아. 이유는 내가 사람들한테 말할게.
 
-028. BEN: Sir, I have to tell you the other side. Some of the votes are close. Amendment four, amendment six. If one person on either side changes their mind, a pair can't fix that.
-    벤: 의원님, 다른 측면도 말씀드려야 해요. 몇몇 표결은 박빙이에요. 수정안 4번, 6번. 어느 쪽이든 한 명이 마음을 바꾸면 페어로는 그걸 못 고쳐요.
+028. BEN: Sir, I have to tell you the other side, because some of the votes are close, like amendments four and six. If one person on either side changes their mind, a pair can't fix that.
+    벤: 의원님, 다른 면도 말씀드려야겠어요. 표결 몇 개가 박빙이에요. 수정안 4번이랑 6번이요. 어느 쪽이든 한 명이 마음을 바꾸면 페어로도 그건 못 막아요.
 
-029. DAN: And missed votes go on my record. "Not voting."
-    댄: 그리고 불참은 내 기록에 남고. "불참."
+029. DAN: And the missed votes still go on my record as "not voting."
+    댄: 그리고 빠진 표결은 그래도 내 기록에 "불참"으로 남고요.
 
-030. AISHA: Dan, I'm on speaker. Facts first. Miss eight votes in month three, and it becomes a mailer.
-    아이샤: 댄, 스피커폰이에요. 사실 먼저요. 세 번째 달에 표결 여덟 개 빠지면 그게 우편물이 돼요.
+030. AISHA: Dan, I'm on speaker, so facts first: if you miss eight votes in month three, it becomes a mailer.
+    아이샤: 댄, 스피커폰이에요. 사실 먼저요. 석 달째에 표결 여덟 개 빠지면 그게 공격 우편물이 돼요.
 
-031. DAN: "At his daughter's debate."
-    댄: "딸 토론 대회에."
+031. DAN: And I'd say I was "at his daughter's debate."
+    댄: "딸 토론 대회에 있었다"고 하면 되잖아요.
 
-032. AISHA: Good answer at the kitchen table. Bad answer on a mailer. I'm just telling you the price.
+032. AISHA: That's a good answer at the kitchen table, but it's a bad answer on a mailer, and I'm just telling you the price.
     아이샤: 식탁에선 좋은 대답이죠. 우편물에선 나쁜 대답이고요. 전 값을 말씀드리는 것뿐이에요.
 
-033. DAN: Hank. Thank you. Really. But Carlos needs me on amendment four. And if the pecans lose by one vote, I'll never hear the end of it in that kitchen.
-    댄: 행크. 고마워요. 진심으로. 근데 수정안 4번은 카를로스가 날 필요로 해요. 피칸이 한 표 차로 지면, 그 부엌에서 평생 그 얘기를 들을 거예요.
+033. DAN: Hank, thank you, really, but Carlos needs me on amendment four. If the pecans lose by one vote, I'll never hear the end of it in that kitchen.
+    댄: 행크, 고마워요, 진심으로요. 그런데 수정안 4번에 카를로스가 절 필요로 해요. 피칸이 한 표 차로 지면 그 부엌에서 평생 그 소리 들을 거예요.
 
-034. HANK: Your call. The offer stands. Any Thursday. Write it on your yellow pad.
-    행크: 당신 결정이지. 제안은 유효해. 어느 목요일이든. 노란 패드에 적어 둬.
+034. HANK: It's your call, but the offer stands for any Thursday, so write it on your yellow pad.
+    행크: 당신이 정할 일이지. 제안은 유효해, 어느 목요일이든. 노란 패드에 적어 둬.
 
-035. DAN: I'm going to stay. I'll take the six o'clock. If the votes end by five forty, I can still make the end of the final.
-    댄: 남을게요. 여섯 시 기차 탈게요. 표결이 다섯 시 사십 분까지 끝나면 결승 끝부분은 볼 수 있어요.
+035. DAN: I'm going to stay and take the six o'clock, because if the votes end by five forty, I can still make the end of the final.
+    댄: 남아서 여섯 시 기차 탈게요. 표결이 다섯 시 사십 분까지 끝나면 결승 끝부분은 볼 수 있어요.
 
-036. BEN: Votes ended at five thirty-eight, sir. Amendment four passed by three. You can run.
-    벤: 표결 다섯 시 삼십팔 분에 끝났습니다, 의원님. 수정안 4번은 세 표 차로 통과됐어요. 뛰셔도 돼요.
+036. BEN: The votes ended at five thirty-eight, sir, and amendment four passed by three, so you can run.
+    벤: 표결은 다섯 시 삼십팔 분에 끝났습니다, 의원님. 수정안 4번은 세 표 차로 통과했어요. 뛰셔도 돼요.
 
-037. CARLOS: Three! Not two! Three! The pecans thank you, Reardon! My mother thanks you!
-    카를로스: 세 표! 두 표가 아니라! 세 표! 피칸이 고마워해요, 레이든! 우리 엄마도 고마워해요!
+037. CARLOS: Three, not two, three! The pecans thank you, Reardon, and my mother thanks you!
+    카를로스: 세 표! 두 표가 아니라 세 표! 피칸이 고맙대요, 레이든! 우리 엄마도요!
 
-038. DAN: Tell your mother I said hello. I have a train to catch.
-    댄: 어머님께 안부 전해 줘요. 나 기차 타러 가야 돼요.
+038. DAN: Tell your mother I said hello, because I have a train to catch.
+    댄: 어머님께 안부 전해 줘요. 전 기차 타러 가야 해서요.
 
-039. HANK: Run, New Yorker. Union Station's eight minutes if you don't stop for anybody.
+039. HANK: Run, New Yorker, because Union Station's eight minutes away if you don't stop for anybody.
     행크: 뛰어, 뉴요커. 아무 데도 안 서면 유니언역까지 8분이야.
 
 040. DAN: I never stop for anybody.
-    댄: 난 아무 데도 안 서요.
+    댄: 전 아무 데도 안 서요.
 
-041. FERRARO: Reardon! Sit down. You look like you ran here from the Capitol. You did, didn't you? First-timer. Lou Ferraro. Staten Island.
-    페라로: 레이든! 앉아요. 의사당에서 뛰어온 사람 같네요. 뛰어왔죠? 초짜. 루 페라로. 스태튼아일랜드.
+041. FERRARO: Reardon, sit down, because you look like you ran here from the Capitol, and you did, didn't you? You're a first-timer. I'm Lou Ferraro from Staten Island.
+    페라로: 레이든! 앉아요. 의사당에서 뛰어온 사람 같네요. 뛰어왔죠? 초짜구먼. 루 페라로, 스태튼아일랜드예요.
 
-042. DAN: I ran. I made it with forty seconds to spare. I didn't know you took this train.
-    댄: 뛰었어요. 40초 남기고 탔어요. 이 기차 타시는 줄 몰랐어요.
+042. DAN: I ran, and I made it with forty seconds to spare. I didn't know you took this train.
+    댄: 뛰었죠. 40초 남기고 탔어요. 이 기차 타시는 줄 몰랐네요.
 
-043. FERRARO: Everybody from New York takes this train. The Acela caucus. Half the New York delegation is in this car on Thursday nights. Look around. That's Hoffman. That's Liu. That's Ortega, asleep.
-    페라로: 뉴욕 사람들은 다 이 기차 타요. 아셀라 모임이라고. 목요일 밤이면 뉴욕 의원단 절반이 이 칸에 있어요. 둘러봐요. 저기 호프먼. 저기 리우. 저기 오르테가, 자고 있고.
+043. FERRARO: Everybody from New York takes this train, so we call it the Acela caucus, and half the New York delegation is in this car on Thursday nights. Look around: that's Hoffman, that's Liu, and that's Ortega, asleep.
+    페라로: 뉴욕 사람은 다 이 기차 타요. 그래서 아셀라 모임이라고 하죠. 목요일 밤이면 뉴욕 의원단 절반이 이 칸에 있어요. 둘러봐요. 저쪽이 호프먼, 저쪽이 리우, 저쪽이 자고 있는 오르테가.
 
 044. DAN: Is Ortega always asleep?
     댄: 오르테가는 늘 자요?
 
-045. FERRARO: Ortega has been asleep on this train since 2019. He's very productive. Where are you going tonight?
+045. FERRARO: Ortega has been asleep on this train since 2019, and he's very productive. So where are you going tonight?
     페라로: 오르테가는 2019년부터 이 기차에서 자고 있어요. 아주 생산적이죠. 오늘 밤 어디 가요?
 
-046. DAN: My daughter's debate final. The city championship. Bronx Science. It starts at seven. This train gets in at nine fifteen.
-    댄: 딸 토론 결승이요. 시 선수권 대회. 브롱크스 과학고. 일곱 시에 시작해요. 이 기차는 아홉 시 십오 분에 도착하고요.
+046. DAN: I'm going to my daughter's debate final, which is the city championship at Bronx Science. It starts at seven, but this train gets in at nine fifteen.
+    댄: 딸 토론 결승이요. 브롱크스 사이언스에서 하는 시 챔피언십이에요. 일곱 시에 시작하는데, 이 기차는 아홉 시 십오 분에 도착해요.
 
-047. FERRARO: So you'll miss it.
+047. FERRARO: So you're going to miss it.
     페라로: 그럼 놓치겠네.
 
-048. DAN: I'll miss most of it. If there's a final round after the final, I'll see that.
-    댄: 대부분 놓치겠죠. 결승 끝나고 또 한 라운드가 있으면 그건 볼 거예요.
+048. DAN: I'll miss most of it, but if there's a final round after the final, I'll see that.
+    댄: 대부분은 놓치겠죠. 결승 뒤에 최종 라운드가 있으면 그건 볼 거예요.
 
-049. FERRARO: I missed my son's graduation in 2022. A Friday vote. He still brings it up every Thanksgiving.
-    페라로: 2022년에 아들 졸업식을 놓쳤어요. 금요일 표결. 아직도 추수감사절마다 그 얘기를 꺼내요.
+049. FERRARO: I missed my son's graduation in 2022 because of a Friday vote, and he still brings it up every Thanksgiving.
+    페라로: 난 2022년에 금요일 표결 때문에 아들 졸업식을 놓쳤어요. 아직도 추수감사절마다 그 얘기를 해요.
 
-050. DAN: That's not making me feel better, Lou.
-    댄: 그 얘기는 위로가 안 되네요, 루.
+050. DAN: That's not making me feel any better, Lou, and I think you know that.
+    댄: 그 얘긴 하나도 위로가 안 되네요, 루. 알고 하시는 말씀이죠?
 
-051. FERRARO: It's not supposed to. It's supposed to make you buy a better watch. Hey, the café car has beer. Bad beer. Expensive beer.
-    페라로: 위로하려는 거 아니에요. 더 좋은 시계를 사라고 하는 거지. 참, 카페 칸에 맥주 있어요. 맛없는 맥주. 비싼 맥주.
+051. FERRARO: It's not supposed to, because it's supposed to make you buy a better watch. Hey, the café car has beer, which is bad and expensive.
+    페라로: 위로하려는 게 아니라 더 좋은 시계를 사라는 거예요. 참, 카페 칸에 맥주 있어요. 맛없고 비싼 맥주.
 
-052. MARISOL: Excuse me. I'm sorry. Are you Dan Reardon? Dr. Reardon's husband? From Elmhurst?
-    마리솔: 실례합니다. 죄송해요. 댄 레이든 씨 맞으세요? 레이든 선생님 남편분? 엘름허스트?
+052. MARISOL: Excuse me, I'm sorry, but are you Dan Reardon, Dr. Reardon's husband from Elmhurst?
+    마리솔: 실례합니다, 죄송한데요, 댄 레이든 씨 맞으세요? 엘름허스트 레이든 선생님 남편분이요?
 
-053. DAN: That's me. I'm usually introduced the other way around. But that's the right order.
-    댄: 저 맞아요. 보통은 반대 순서로 소개받는데요. 근데 그게 맞는 순서예요.
+053. DAN: That's me, and I'm usually introduced the other way around, but that's the right order.
+    댄: 저예요. 보통은 반대 순서로 소개받는데, 그게 맞는 순서죠.
 
-054. MARISOL: I'm Marisol. Nights in the ER with your wife. I watched the hallway speech eleven times.
+054. MARISOL: I'm Marisol, and I work nights in the ER with your wife. I watched the hallway speech eleven times.
     마리솔: 마리솔이에요. 응급실에서 선생님이랑 야간 근무해요. 복도 연설 영상을 열한 번 봤어요.
 
-055. DAN: She'd be embarrassed that you watched it eleven times.
-    댄: 열한 번이나 봤다고 하면 쑥스러워할 거예요.
+055. DAN: She'd be embarrassed to hear that you watched it eleven times.
+    댄: 열한 번이나 봤다고 하면 아내가 민망해할 거예요.
 
-056. MARISOL: She is. I told her. She said, "Marisol, go back to work." Can I ask you something? It's about the hospital. Not about her.
-    마리솔: 쑥스러워하셨어요. 말씀드렸거든요. "마리솔, 일하러 가." 하셨어요. 하나 여쭤봐도 될까요? 병원 일이에요. 선생님 얘기 말고요.
+056. MARISOL: She is, because I told her, and she said, "Marisol, go back to work." Can I ask you something? It's about the hospital, not about her.
+    마리솔: 민망해하셨어요. 말씀드렸거든요. "마리솔, 일하러 가"라고 하시더라고요. 뭐 하나 여쭤봐도 돼요? 선생님 말고 병원 얘기예요.
 
-057. DAN: Of course. I'm not going anywhere for three hours.
-    댄: 물론이죠. 세 시간 동안 어디 안 가요.
+057. DAN: Of course, because I'm not going anywhere for three hours.
+    댄: 물론이죠. 세 시간 동안 어디 갈 데도 없어요.
 
-058. MARISOL: We had twenty-nine patients in the hallway last Tuesday. Twenty-nine. Is anybody in Washington doing anything about that? Honestly?
-    마리솔: 지난 화요일에 복도에 환자가 스물아홉 명 있었어요. 스물아홉. 워싱턴에서 그걸 위해 뭘 하는 사람이 있긴 해요? 솔직히요?
+058. MARISOL: We had twenty-nine patients in the hallway last Tuesday, twenty-nine of them. Honestly, is anybody in Washington doing anything about that?
+    마리솔: 지난 화요일에 복도에 환자가 스물아홉 명 있었어요. 스물아홉 명이요. 솔직히, 워싱턴에서 누가 그거에 대해 뭘 하긴 해요?
 
-059. DAN: Honestly? Not enough. There's a bill on home care wages. I'm a cosponsor. If people can get care at home, fewer of them end up in your hallway. It's slow. I won't pretend it's fast.
-    댄: 솔직히요? 충분하진 않아요. 재가 돌봄 임금 법안이 있어요. 제가 공동발의자예요. 집에서 돌봄을 받을 수 있으면 복도로 오는 사람이 줄어요. 느려요. 빠른 척은 안 할게요.
+059. DAN: Honestly, not enough. There's a bill on home care wages that I cosponsored, because if people can get care at home, fewer of them end up in your hallway. It's slow, and I won't pretend it's fast.
+    댄: 솔직히요? 충분하진 않아요. 제가 공동발의한 재가돌봄 임금 법안이 있어요. 집에서 돌봄을 받을 수 있으면 복도까지 오는 사람이 줄어드니까요. 느려요. 빠른 척은 안 할게요.
 
-060. MARISOL: Thank you for not pretending. Everybody pretends.
-    마리솔: 척 안 하셔서 고마워요. 다들 척하거든요.
+060. MARISOL: Thank you for not pretending, because everybody else who comes through the ER pretends.
+    마리솔: 척 안 해 주셔서 고마워요. 응급실에 오는 다른 사람들은 다 척하거든요.
 
-061. CONDUCTOR: Ladies and gentlemen, we're stopped south of Wilmington with a power problem. About thirty minutes' delay.
+061. CONDUCTOR: Ladies and gentlemen, we're stopped south of Wilmington with a power problem, and we expect about thirty minutes' delay.
     차장: 승객 여러분, 전력 문제로 윌밍턴 남쪽에 정차 중입니다. 약 30분 지연이 예상됩니다.
 
-062. DAN: Thirty minutes. No. No, no, no.
-    댄: 30분. 안 돼. 안 돼, 안 돼.
+062. DAN: Thirty minutes? No, no, no.
+    댄: 30분? 안 돼, 안 돼, 안 돼.
 
-063. FERRARO: Welcome to the Acela caucus, Reardon. "About thirty minutes" means an hour. It's like "five-minute vote."
-    페라로: 아셀라 모임에 온 걸 환영해요, 레이든. "약 30분"은 한 시간이란 뜻이에요. "5분 표결"이랑 같죠.
+063. FERRARO: Welcome to the Acela caucus, Reardon, where "about thirty minutes" means an hour, just like a "five-minute vote."
+    페라로: 아셀라 모임에 온 걸 환영해요, 레이든. "약 30분"은 한 시간이란 뜻이에요. "5분 표결"이랑 똑같죠.
 
-064. DAN: Elena? Hi. I'm stuck outside Wilmington. Power on the wires. Where are they?
-    댄: 엘레나? 응. 윌밍턴 밖에 갇혔어. 전선 전력 문제래. 어디까지 했어?
+064. DAN: Elena, hi, I'm stuck outside Wilmington because of the power on the wires. Where are they now?
+    댄: 엘레나, 나 윌밍턴 밖에 갇혔어. 전선 전력 문제래. 지금 어디까지 했어?
 
-065. ELENA: Semifinal's over. She won. Three to zero. She was very good, Dan. She was mean and right. Like your mother.
-    엘레나: 준결승 끝났어. 이겼어. 3대 0. 아주 잘했어, 댄. 못됐는데 맞는 말만 했어. 당신 어머니처럼.
+065. ELENA: The semifinal's over, and she won three to zero. She was very good, Dan, because she was mean and right, like your mother.
+    엘레나: 준결승 끝났어. 3 대 0으로 이겼어. 정말 잘했어, 댄. 독하고 옳았어. 당신 어머니처럼.
 
-066. DAN: Three to zero. What was the topic?
-    댄: 3대 0. 주제가 뭐였어?
+066. DAN: Three to zero, wow, so what was the topic?
+    댄: 3 대 0이라니. 주제가 뭐였어?
 
-067. ELENA: "Members should have to live in their districts." She argued against. She used you.
-    엘레나: "의원은 지역구에 살아야 한다." 반대 측이었어. 당신을 예로 들었어.
+067. ELENA: It was "Members should have to live in their districts," and she argued against it, using you.
+    엘레나: "의원은 자기 지역구에 살아야 한다"였어. 반대편을 맡았는데, 당신을 예로 썼어.
 
-068. DAN: She argued I shouldn't have to live in my own district?
+068. DAN: She argued that I shouldn't have to live in my own district?
     댄: 내가 내 지역구에 안 살아도 된다고 주장했다고?
 
-069. ELENA: She argued that where you sleep matters less than who you answer. Then she said, "And some members barely sleep at home anyway." The judges laughed. I didn't.
-    엘레나: 어디서 자느냐보다 누구한테 답하느냐가 중요하다고 했어. 그러더니 "게다가 어떤 의원들은 어차피 집에서 거의 안 자요"라고 하더라. 심사위원들은 웃었어. 난 안 웃었고.
+069. ELENA: She argued that where you sleep matters less than who you answer to. Then she said, "And some members barely sleep at home anyway," and the judges laughed, but I didn't.
+    엘레나: 어디서 자느냐보다 누구한테 책임지느냐가 중요하다고 했어. 그러고는 "어차피 집에서 거의 안 자는 의원도 있죠"라고 했어. 심사위원들은 웃었는데 난 안 웃었어.
 
-070. DAN: That was for me.
-    댄: 그거 나 들으라고 한 거네.
+070. DAN: That line was meant for me, and everybody in the room knew it.
+    댄: 그건 나한테 한 말이네. 거기 있던 사람들 다 알았겠다.
 
-071. ELENA: That was for you. The final starts in ten minutes. Bronx Science against Stuyvesant again. Do you want to talk to her?
-    엘레나: 당신 들으라고 한 거지. 결승은 10분 뒤에 시작해. 또 브롱크스 과학고 대 스타이버선트. 조이랑 통화할래?
+071. ELENA: That was for you. The final starts in ten minutes, Bronx Science against Stuyvesant again, so do you want to talk to her?
+    엘레나: 당신한테 한 거야. 결승은 10분 뒤에 시작해. 또 브롱크스 사이언스 대 스타이버선트야. 통화할래?
 
-072. DAN: Yes. Put her on.
-    댄: 응. 바꿔 줘.
+072. DAN: Yes, please put her on.
+    댄: 응, 바꿔 줘.
 
-073. ELENA: She says she's preparing. She says to tell you, "Good luck with the train."
-    엘레나: 준비 중이래. 당신한테 "기차 잘 타"라고 전하래.
+073. ELENA: She says she's preparing, and she says to tell you, "Good luck with the train."
+    엘레나: 준비 중이래. 그리고 "기차 잘 타"라고 전해 달래.
 
-074. DAN: That's worse than if she yelled.
-    댄: 소리 지르는 것보다 더 아프네.
+074. DAN: That's worse than if she'd yelled at me, and she knows it.
+    댄: 소리 지르는 것보다 더 아프네. 쟤도 그거 알고 하는 거야.
 
-075. ELENA: I know. She learned it from me. I'll film it. Come straight to the school. Maybe you'll catch the trophy.
-    엘레나: 알아. 나한테 배웠어. 내가 찍을게. 곧장 학교로 와. 트로피 받는 건 볼 수 있을지도 몰라.
+075. ELENA: I know, because she learned it from me. I'll film it, so come straight to the school, and maybe you'll catch the trophy.
+    엘레나: 알아. 나한테 배웠거든. 내가 찍을게. 학교로 바로 와. 트로피는 볼 수 있을지도 몰라.
 
-076. CONDUCTOR: Power's restored. We'll be moving shortly. New arrival at Penn Station: ten oh five.
-    차장: 전력이 복구되었습니다. 곧 출발합니다. 펜역 새 도착 시각은 열 시 오 분입니다.
+076. CONDUCTOR: Power's restored, and we'll be moving shortly, with a new arrival time at Penn Station of ten oh five.
+    차장: 전력이 복구되어 곧 출발하겠습니다. 펜역 도착 예정 시각은 열 시 오 분입니다.
 
-077. MARISOL: Ten oh five. I'm sorry, Mr. Reardon. Congressman. I'm sorry.
-    마리솔: 열 시 오 분. 안타까워요, 레이든 씨. 아니, 의원님. 안타까워요.
+077. MARISOL: Ten oh five, oh no. I'm sorry, Mr. Reardon, I mean Congressman, I'm so sorry.
+    마리솔: 열 시 오 분이라니. 죄송해요, 레이든 씨, 아니 의원님. 정말 죄송해요.
 
-078. DAN: It's okay. It's not your train. It's not even Amtrak's fault, really. It's a hundred-year-old wire.
-    댄: 괜찮아요. 당신 기차도 아닌데요. 따지고 보면 암트랙 탓도 아니에요. 백 년 된 전선 탓이죠.
+078. DAN: It's okay, because it's not your train, and it's not even really Amtrak's fault. It's a hundred-year-old wire.
+    댄: 괜찮아요. 당신 기차도 아닌데요. 사실 암트랙 잘못도 아니에요. 백 년 된 전선 탓이죠.
 
-079. FERRARO: Some of those wires are older than that. There's a bill to fix them. It's been in a drawer since 2021.
-    페라로: 그중엔 더 오래된 것도 있어요. 고치자는 법안이 있죠. 2021년부터 서랍에 있어요.
+079. FERRARO: Some of those wires are older than that, and there's a bill to fix them that's been in a drawer since 2021.
+    페라로: 그보다 오래된 전선도 있어요. 고치는 법안도 있는데 2021년부터 서랍 속에 있죠.
 
-080. DAN: Of course it is.
+080. DAN: Of course it has.
     댄: 당연히 그렇겠죠.
 
-081. JUNE: Dan! Text from Elena. Video. Zoe won the final. Two to one. City champion. Bronx Science. She's holding a trophy the size of Sam.
-    준: 댄! 엘레나한테서 문자요. 영상이에요. 조이가 결승 이겼어요. 2대 1. 시 챔피언. 브롱크스 과학고. 샘만 한 트로피 들고 있어요.
+081. JUNE: Dan, Elena just texted a video, and Zoe won the final two to one! She's city champion for Bronx Science, and she's holding a trophy the size of Sam.
+    준: 댄, 엘레나가 영상 보냈어요! 조이가 결승에서 2 대 1로 이겼어요! 브롱크스 사이언스 시 챔피언이에요. 샘만 한 트로피를 들고 있어요.
 
-082. DAN: She won. She won the city.
-    댄: 이겼대. 시 대회를 이겼대.
+082. DAN: She won the whole city.
+    댄: 시 전체에서 이겼네.
 
-083. JUNE: And there's a second text from Elena. It says, "Don't come to the school. She went home with friends. Come home."
-    준: 그리고 엘레나한테 문자가 하나 더 왔어요. "학교로 오지 마. 친구들이랑 집에 갔어. 집으로 와."
+083. JUNE: And there's a second text from Elena that says, "Don't come to the school, because she went home with friends. Come home."
+    준: 그리고 엘레나 문자가 하나 더 왔는데, "학교로 오지 마. 친구들이랑 집에 갔어. 집으로 와"래요.
 
-084. FERRARO: Congratulations, Reardon. Your daughter's a champion. And you're going to have a very long night.
-    페라로: 축하해요, 레이든. 딸이 챔피언이네. 그리고 당신은 아주 긴 밤을 보내겠고.
+084. FERRARO: Congratulations, Reardon, because your daughter's a champion, and you're also going to have a very long night.
+    페라로: 축하해요, 레이든. 딸이 챔피언이네요. 그리고 아주 긴 밤이 되겠네요.
 
-085. DAN: Thank you, Lou. Unfortunately, both of those things are true.
+085. DAN: Thank you, Lou, and unfortunately both of those things are true.
     댄: 고마워요, 루. 안타깝게도 둘 다 맞는 말이네요.
 
-086. MARISOL: Mr. Reardon? One more thing. My father drove a truck. He missed everything. I was angry for years. Then I was a teenager, and then I understood. Then I was angry again.
-    마리솔: 레이든 씨? 하나만 더요. 우리 아버지는 트럭을 몰았어요. 다 놓쳤죠. 몇 년 동안 화가 났어요. 그러다 십대가 됐고, 그다음엔 이해했어요. 그다음엔 또 화가 났고요.
+086. MARISOL: Mr. Reardon, one more thing. My father drove a truck and missed everything, and I was angry for years. Then I was a teenager and I understood, and then I was angry again.
+    마리솔: 레이든 씨, 하나만 더요. 저희 아버지는 트럭을 모셨는데 모든 걸 놓치셨어요. 전 몇 년 동안 화가 나 있었죠. 그러다 십대가 돼서 이해했고, 그러고는 또 화가 났어요.
 
-087. DAN: What fixed it?
-    댄: 뭐가 해결해 줬어요?
+087. DAN: What finally fixed it?
+    댄: 결국 뭐가 해결해 줬어요?
 
-088. MARISOL: He stopped saying "next time." He started saying "this one I'll miss, and this one I'll be there." And then he was there. That's all. He told the truth about the calendar.
-    마리솔: "다음엔"이라는 말을 그만했어요. "이건 못 가고, 이건 간다"고 말하기 시작했죠. 그리고 정말 왔어요. 그게 다예요. 달력에 대해 진실을 말했어요.
+088. MARISOL: He stopped saying "next time" and started saying, "This one I'll miss, and this one I'll be there." And then he was there, that's all, because he told the truth about the calendar.
+    마리솔: "다음엔"이라는 말을 그만하셨어요. "이건 못 가, 이건 갈게"라고 하기 시작하셨죠. 그리고 정말 오셨어요. 그게 다예요. 달력에 대해 진실을 말해 주신 거예요.
 
-089. DAN: The truth about the calendar.
-    댄: 달력에 대한 진실.
+089. DAN: The truth about the calendar is something I can actually promise.
+    댄: 달력에 대한 진실이라. 그건 내가 정말 약속할 수 있는 거네요.
 
-090. MARISOL: Tell Dr. Reardon I said hi. And that I didn't watch it eleven times. I watched it twelve.
-    마리솔: 레이든 선생님께 안부 전해 주세요. 그리고 열한 번 아니라고요. 열두 번 봤어요.
+090. MARISOL: Tell Dr. Reardon I said hi, and tell her I didn't watch it eleven times, because I watched it twelve.
+    마리솔: 레이든 선생님께 안부 전해 주세요. 그리고 열한 번 본 게 아니라고요. 열두 번 봤어요.
 
-091. ZOE: You're home. It's ten forty. I'm still up because I wanted to say something. And I want to say it before you start explaining.
-    조이: 왔네. 열 시 사십 분이야. 할 말이 있어서 안 자고 있었어. 아빠가 설명 시작하기 전에 하고 싶어.
+091. ZOE: You're home, and it's ten forty. I'm still up because I wanted to say something, and I want to say it before you start explaining.
+    조이: 왔네. 열 시 사십 분이야. 할 말이 있어서 안 자고 있었어. 아빠가 설명 시작하기 전에 말하고 싶어.
 
-092. DAN: Okay. Say it. I'm listening.
-    댄: 알았어. 말해. 듣고 있어.
+092. DAN: Okay, say it, because I'm listening.
+    댄: 알았어, 말해. 듣고 있어.
 
-093. ZOE: You're a dad on weekends now. That's what you are. Friday, Saturday, Sunday. Monday to Thursday, you're a guy on the news.
-    조이: 아빠는 이제 주말 아빠야. 그게 아빠야. 금요일, 토요일, 일요일. 월요일부터 목요일까진 뉴스에 나오는 아저씨고.
+093. ZOE: You're a dad on weekends now, that's what you are: Friday, Saturday, and Sunday. From Monday to Thursday, you're a guy on the news.
+    조이: 아빠는 이제 주말 아빠야. 그게 아빠야. 금, 토, 일. 월요일부터 목요일까진 뉴스에 나오는 아저씨고.
 
 094. DAN: Zoe...
     댄: 조이…
 
-095. ZOE: I'm not done. You said you'd be there. You said it on Sunday, at this table. You said, "I'll take the four o'clock, I'll be there by seven." You didn't say "maybe." You said "I'll be there."
-    조이: 아직 안 끝났어. 온다고 했잖아. 일요일에, 이 식탁에서 말했잖아. "네 시 기차 타고 일곱 시까진 갈게." "아마"라고 안 했어. "갈게"라고 했어.
+095. ZOE: I'm not done. You said you'd be there, on Sunday, at this table: "I'll take the four o'clock, and I'll be there by seven." You didn't say "maybe," you said "I'll be there."
+    조이: 아직 안 끝났어. 온다고 했잖아. 일요일에, 이 식탁에서. "네 시 기차 타고 일곱 시까지 갈게." "아마"라고 안 했어. "갈게"라고 했어.
 
-096. DAN: I did say that.
-    댄: 그렇게 말했지.
+096. DAN: I did say that, you're right.
+    댄: 그렇게 말했지. 맞아.
 
-097. ZOE: And I know it's not your fault. Mom told me. The votes moved. The train stopped. I know. That's what makes me so mad. It's nobody's fault, and you still weren't there.
-    조이: 그리고 아빠 잘못 아닌 것도 알아. 엄마가 말해 줬어. 표결이 밀렸고. 기차가 섰고. 알아. 그래서 더 화나. 아무 잘못도 아닌데, 그래도 아빠는 없었잖아.
+097. ZOE: And I know it's not your fault, because Mom told me the votes moved and the train stopped. That's what makes me so mad, because it's nobody's fault, and you still weren't there.
+    조이: 그리고 아빠 잘못 아닌 것도 알아. 엄마가 말해 줬어. 표결이 밀리고 기차가 섰다고. 그래서 더 화가 나. 아무 잘못도 아닌데, 그래도 아빠는 없었잖아.
 
-098. ELENA: Zoe. Let him answer now. That's the rule. You said yours. He gets his.
-    엘레나: 조이. 이제 아빠가 대답하게 해. 그게 규칙이야. 넌 네 말 했잖아. 아빠도 해야지.
+098. ELENA: Zoe, let him answer now, because that's the rule. You said yours, so he gets his.
+    엘레나: 조이, 이제 아빠가 대답할 차례야. 그게 규칙이야. 넌 네 말 했으니까 아빠도 해야지.
 
-099. DAN: You're right. All of it. I'm not going to explain the votes. You know about the votes. I want to say something else.
-    댄: 네 말이 맞아. 전부 다. 표결 얘긴 안 할게. 그건 알잖아. 다른 얘길 하고 싶어.
+099. DAN: You're right about all of it. I'm not going to explain the votes, because you know about the votes, so I want to say something else.
+    댄: 네 말 다 맞아. 표결 얘긴 안 할게. 넌 이미 아니까. 다른 얘기를 하고 싶어.
 
-100. ZOE: What?
+100. ZOE: What is it?
     조이: 뭔데?
 
-101. DAN: The mistake wasn't the train. The mistake was Sunday. I promised you something the House controls. I don't control the House. Not even a little. I should have said, "I'll try, and I might miss it."
-    댄: 실수는 기차가 아니었어. 일요일이었지. 하원이 정하는 걸 너한테 약속했잖아. 난 하원을 못 정해. 조금도. "가 보겠지만 못 갈 수도 있어"라고 말했어야 했어.
+101. DAN: The mistake wasn't the train, it was Sunday. I promised you something the House controls, and I don't control the House, not even a little. I should have said, "I'll try, but I might miss it."
+    댄: 실수는 기차가 아니었어. 일요일이었지. 하원이 정하는 걸 너한테 약속했어. 난 하원을 조금도 못 정해. "노력은 할게, 근데 놓칠 수도 있어"라고 했어야 했어.
 
-102. ZOE: That would have been worse. Then I would've known you weren't coming.
-    조이: 그게 더 나빴을 거야. 그럼 안 올 줄 알았을 거 아냐.
+102. ZOE: That would have been worse, because then I would've known you weren't coming.
+    조이: 그게 더 나빴을 거야. 그럼 안 올 거란 걸 알았을 테니까.
 
-103. DAN: But it would have been true. And there's a rule on the refrigerator about that. No lying to the kids. I didn't lie on Sunday. But I said something I couldn't know.
-    댄: 그래도 사실이었을 거야. 그리고 그거에 관한 규칙이 냉장고에 있잖아. 애들한테 거짓말 금지. 일요일에 거짓말한 건 아니야. 근데 내가 알 수 없는 걸 말했지.
+103. DAN: But it would have been true, and there's a rule on the refrigerator about that: no lying to the kids. I didn't lie on Sunday, but I said something I couldn't know.
+    댄: 그래도 사실이었겠지. 그리고 냉장고에 그거에 관한 규칙이 있잖아. 애들한테 거짓말하지 않기. 일요일에 거짓말은 안 했어. 근데 내가 알 수 없는 걸 말했어.
 
-104. ELENA: That's close enough to lying, Dan. In this house, it counts.
-    엘레나: 그건 거짓말에 충분히 가까워, 댄. 이 집에선 그것도 쳐.
+104. ELENA: That's close enough to lying, Dan, and in this house, it counts.
+    엘레나: 그건 거짓말이나 거의 마찬가지야, 댄. 이 집에선 그것도 쳐.
 
-105. DAN: I know. So here's what I want to do. Every Sunday, I'll look at the House calendar with both of you, and I'll tell you the truth. This one I'll miss. This one I'll be there.
-    댄: 알아. 그래서 이렇게 하고 싶어. 매주 일요일에 너희 둘이랑 하원 일정을 보고 진실을 말할게. 이건 못 가. 이건 갈 수 있어.
+105. DAN: I know, so here's what I want to do. Every Sunday, I'll look at the House calendar with both of you and tell you the truth: this one I'll miss, and this one I'll be there.
+    댄: 알아. 그래서 이렇게 하고 싶어. 일요일마다 너희 둘이랑 하원 달력을 보고 진실을 말할게. 이건 못 가, 이건 갈게.
 
-106. ZOE: Where did you get that?
-    조이: 그건 어디서 났어?
+106. ZOE: Where did you get that idea?
+    조이: 그건 어디서 배웠어?
 
-107. DAN: From a nurse on the train. Mom works with her. Her father drove a truck.
-    댄: 기차에서 만난 간호사한테서. 엄마랑 같이 일해. 그분 아버지가 트럭을 몰았대.
+107. DAN: I got it from a nurse on the train who works with Mom, and whose father drove a truck.
+    댄: 기차에서 만난 간호사한테. 엄마랑 같이 일하는 사람인데, 아버지가 트럭을 모셨대.
 
-108. ELENA: Marisol. She texted me. She said you looked like a man who'd lost a case.
-    엘레나: 마리솔. 문자 왔어. 당신이 재판에서 진 사람 같아 보였대.
+108. ELENA: That's Marisol, and she texted me. She said you looked like a man who'd lost a case.
+    엘레나: 마리솔이구나. 나한테 문자 왔어. 당신이 소송에서 진 사람처럼 보였대.
 
 109. DAN: I've never lost a case that felt like this.
-    댄: 이런 기분으로 진 재판은 없었어.
+    댄: 이런 기분이 드는 소송은 져 본 적이 없어.
 
-110. ZOE: Fine. I accept the calendar thing. Probationally. That means for now.
-    조이: 좋아. 달력 얘긴 받아들일게. 조건부로. 일단은 그렇다는 뜻이야.
+110. ZOE: Fine, I accept the calendar thing, probationally, which means for now.
+    조이: 좋아. 달력 얘기 받아 줄게. 가석방적으로. 일단 지금은이란 뜻이야.
 
-111. DAN: "Probationally" isn't a word.
-    댄: "조건부로"는 그런 식으로 안 쓰는데.
+111. DAN: "Probationally" isn't even a word, Zoe, and you know that better than anyone.
+    댄: "가석방적으로"는 단어도 아니야, 조이. 너가 누구보다 잘 알잖아.
 
-112. ZOE: I just won the city championship. I get to make up words tonight.
-    조이: 나 방금 시 대회 우승했어. 오늘 밤엔 단어 지어내도 돼.
+112. ZOE: I just won the city championship, so I get to make up words tonight.
+    조이: 나 방금 시 챔피언 됐잖아. 오늘 밤엔 단어 지어내도 돼.
 
-113. DAN: You did. You won the city. Can I see it? The trophy? Mom says it's as big as Sam.
-    댄: 그러네. 시 대회 우승. 봐도 돼? 트로피? 엄마가 샘만 하대.
+113. DAN: You did, you won the whole city! Can I see the trophy? Mom says it's as big as Sam.
+    댄: 그래, 시 전체에서 이겼지! 트로피 봐도 돼? 엄마가 샘만 하다던데.
 
-114. ZOE: It's in my room. It's not as big as Sam. It's as big as Sam's leg. Mom exaggerates when she's proud.
-    조이: 내 방에 있어. 샘만 하진 않아. 샘 다리만 해. 엄마는 자랑스러울 때 과장해.
+114. ZOE: It's in my room, and it's not as big as Sam, it's as big as Sam's leg. Mom exaggerates when she's proud.
+    조이: 내 방에 있어. 샘만 하진 않아. 샘 다리만 해. 엄마는 뿌듯하면 과장해.
 
-115. ELENA: I never exaggerate.
+115. ELENA: I never exaggerate, Zoe.
     엘레나: 난 절대 과장 안 해.
 
-116. ZOE: You said it was "the size of a refrigerator" to Grandma. I heard you.
+116. ZOE: You told Grandma it was "the size of a refrigerator," and I heard you.
     조이: 할머니한테 "냉장고만 하다"고 했잖아. 다 들었어.
 
-117. SAM: Dad? You're home. I heard Zoe yelling. Is it over?
-    샘: 아빠? 왔네. 조이 소리 지르는 거 들었어. 끝났어?
+117. SAM: Dad, you're home? I heard Zoe yelling, so is it over?
+    샘: 아빠, 왔어? 조이가 소리 지르는 거 들었어. 이제 끝났어?
 
-118. DAN: It's over, buddy. Go back to bed. It's almost eleven.
-    댄: 끝났어, 아들. 다시 가서 자. 거의 열한 시야.
+118. DAN: It's over, buddy, so go back to bed, because it's almost eleven.
+    댄: 끝났어, 아들. 다시 자러 가. 거의 열한 시야.
 
-119. SAM: It's okay, Dad. About the game. When you miss my game in April. It's okay.
-    샘: 괜찮아, 아빠. 경기 말이야. 4월에 내 경기 못 와도. 괜찮아.
+119. SAM: It's okay, Dad, about the game. When you miss my game in April, it's okay.
+    샘: 괜찮아, 아빠. 경기 말이야. 4월에 내 경기 놓쳐도 괜찮아.
 
 120. DAN: Sam, I haven't missed it yet.
-    댄: 샘, 아직 안 놓쳤잖아.
+    댄: 샘, 아직 놓친 것도 아닌데.
 
-121. SAM: I know. I'm just saying it early. So it doesn't hurt later.
+121. SAM: I know, I'm just saying it early, so it doesn't hurt later.
     샘: 알아. 그냥 미리 말하는 거야. 나중에 안 아프게.
 
-122. ELENA: Dan. Did you hear that? That's worse than Zoe.
-    엘레나: 댄. 들었어? 조이보다 더한 거야.
+122. ELENA: Dan, did you hear that? That's worse than Zoe.
+    엘레나: 댄, 들었어? 조이보다 더하다.
 
-123. DAN: I heard it. Sam, come here. Sit. No, sit. I'm going to show you something tomorrow at the diner. Will you come with me? Just us. Before school.
-    댄: 들었어. 샘, 이리 와. 앉아. 아니, 앉아 봐. 내일 다이너에서 뭘 보여 줄게. 같이 갈래? 우리 둘만. 학교 가기 전에.
+123. DAN: I heard it. Sam, come here and sit, no, really sit. I'm going to show you something tomorrow at the diner, so will you come with me, just us, before school?
+    댄: 들었어. 샘, 이리 와서 앉아. 아니, 진짜 앉아. 내일 다이너에서 보여 줄 게 있어. 학교 가기 전에 우리 둘이서만 같이 갈래?
 
-124. SAM: Can we get pancakes?
-    샘: 팬케이크 먹어도 돼?
+124. SAM: Can we get pancakes there?
+    샘: 거기서 팬케이크 먹어도 돼?
 
-125. DAN: You can get pancakes. Even though it's a school day.
+125. DAN: You can get pancakes, even though it's a school day.
     댄: 팬케이크 먹어도 돼. 학교 가는 날이지만.
 
-126. GUS: Congressman! On a Friday morning! With the little one! The usual, and pancakes for Sam?
-    거스: 의원님! 금요일 아침에! 꼬마랑! 늘 먹던 걸로, 그리고 샘은 팬케이크?
+126. GUS: Congressman, on a Friday morning, with the little one! Is it the usual, and pancakes for Sam?
+    거스: 의원님! 금요일 아침에 꼬마랑 왔네! 늘 먹던 걸로, 그리고 샘은 팬케이크?
 
 127. SAM: Why does he call you Congressman? He used to call you Counselor.
-    샘: 왜 아빠를 의원님이라고 해? 예전엔 변호사님이라고 했잖아.
+    샘: 왜 아빠를 의원님이라고 불러? 예전엔 변호사님이라고 했잖아.
 
-128. GUS: Your father got a new job, so he got a new name. Play ball, you're Slugger.
+128. GUS: Your father got a new job, so he got a new name, and if you play ball, you're Slugger.
     거스: 아빠가 새 일을 얻어서 새 이름이 생긴 거야. 네가 야구하면 '강타자'지.
 
-129. SAM: I'm a ballplayer now. Kind of. I play second base.
-    샘: 나 지금도 야구 선수야. 좀. 2루수 해.
+129. SAM: I'm kind of a ballplayer now, because I play second base.
+    샘: 나 이제 야구 선수야, 좀. 2루수 해.
 
-130. GUS: Then good morning, Slugger. Pancakes are coming.
-    거스: 그럼 좋은 아침, 강타자. 팬케이크 나간다.
+130. GUS: Then good morning, Slugger, and your pancakes are coming.
+    거스: 그럼 좋은 아침, 강타자. 팬케이크 금방 나온다.
 
-131. DAN: Okay, Sam. This is what I wanted to show you. It's the schedule for your team. Ten games. And this is the House calendar, from Ben. I put them next to each other.
-    댄: 자, 샘. 보여 주고 싶었던 게 이거야. 너희 팀 일정표. 열 경기. 그리고 이건 하원 일정표, 벤이 준 거야. 둘을 나란히 놨어.
+131. DAN: Okay, Sam, this is what I wanted to show you. This is the schedule for your team, with ten games, and this is the House calendar from Ben, and I put them next to each other.
+    댄: 자, 샘, 보여 주고 싶었던 게 이거야. 이건 너희 팀 일정표고, 경기가 열 번이야. 이건 벤이 준 하원 달력이고. 둘을 나란히 놨어.
 
 132. SAM: Why are some of them circled?
-    샘: 왜 몇 개는 동그라미 쳐 있어?
+    샘: 왜 몇 개에 동그라미가 있어?
 
-133. DAN: The circles are games I can come to for sure. Six of them. Two are on Saturdays. Two are during a recess week, when the House is out. And two are Thursdays.
-    댄: 동그라미는 아빠가 확실히 갈 수 있는 경기야. 여섯 개. 두 개는 토요일이고. 두 개는 하원이 쉬는 휴회 주간이고. 그리고 두 개는 목요일이야.
+133. DAN: The circles are games I can come to for sure, and there are six of them. Two are on Saturdays, two are during a recess week when the House is out, and two are Thursdays.
+    댄: 동그라미는 아빠가 확실히 갈 수 있는 경기야. 여섯 개. 두 개는 토요일이고, 두 개는 하원이 쉬는 휴회 주간이고, 두 개는 목요일이야.
 
 134. SAM: How can you come on Thursdays? Zoe said Thursdays are the worst.
     샘: 목요일엔 어떻게 와? 조이가 목요일이 제일 최악이래.
 
-135. DAN: Because on those two Thursdays, I'm not taking the train. Aisha booked the five o'clock shuttle flight to LaGuardia. LaGuardia's twenty minutes from your field. And if the votes run late, I have a deal with Hank.
-    댄: 그 두 목요일엔 기차를 안 탈 거니까. 아이샤가 다섯 시 라과디아행 셔틀 비행기를 잡아 놨어. 라과디아는 너희 경기장에서 20분 거리야. 그리고 표결이 늦어지면 행크랑 거래가 있어.
+135. DAN: Because on those two Thursdays I'm not taking the train, since Aisha booked the five o'clock shuttle flight to LaGuardia, which is twenty minutes from your field. And if the votes run late, I have a deal with Hank.
+    댄: 그 두 번의 목요일엔 기차를 안 타니까. 아이샤가 라과디아행 다섯 시 셔틀 비행기를 예약했어. 라과디아에서 네 경기장까지 20분이야. 그리고 표결이 늦어지면 행크랑 약속한 게 있어.
 
-136. SAM: The Montana guy? With the horse?
+136. SAM: The Montana guy, with the horse?
     샘: 몬태나 아저씨? 말 있는?
 
-137. DAN: The Montana guy with the horse. He said if I need to miss a vote for you, he'll miss one too, so it's fair. That's called a pair.
-    댄: 말 있는 몬태나 아저씨. 아빠가 너 때문에 표결을 빠져야 하면 자기도 하나 빠져 주겠대, 공평하게. 그걸 '페어'라고 해.
+137. DAN: The Montana guy with the horse. He said if I need to miss a vote for you, he'll miss one too, so it's fair, and that's called a pair.
+    댄: 말 있는 몬태나 아저씨. 아빠가 너 때문에 표결에 빠져야 하면 아저씨도 하나 빠져 준대. 그래야 공평하니까. 그걸 페어라고 해.
 
-138. SAM: That's nice. Is that allowed?
-    샘: 착하다. 그래도 돼?
+138. SAM: That's nice, but is that allowed?
+    샘: 좋다. 근데 그래도 돼?
 
-139. DAN: It's allowed. It's old. Hardly anybody does it anymore. Hank does.
-    댄: 돼. 오래된 거야. 요즘엔 거의 아무도 안 해. 행크 아저씨는 해.
+139. DAN: It's allowed, and it's old, so hardly anybody does it anymore, but Hank does.
+    댄: 돼. 오래된 거라 요즘은 거의 아무도 안 하지만, 행크는 해.
 
 140. SAM: What about the games with no circle? What happens with those?
     샘: 동그라미 없는 경기는? 그건 어떻게 돼?
 
-141. DAN: Those four, I'm going to miss. I'm telling you now, the truth. Mom will film them. Uncle Kevin will yell at the umpire. And I'll watch the video on Friday morning, here, with pancakes.
-    댄: 그 네 경기는 못 가. 지금 진실을 말하는 거야. 엄마가 찍을 거고. 케빈 삼촌이 심판한테 소리 지를 거고. 아빠는 금요일 아침에 여기서 팬케이크 먹으면서 영상 볼게.
+141. DAN: Those four I'm going to miss, and I'm telling you the truth now. Mom will film them, Uncle Kevin will yell at the umpire, and I'll watch the video on Friday morning, here, with pancakes.
+    댄: 그 네 개는 못 가. 지금 진실을 말해 주는 거야. 엄마가 찍을 거고, 케빈 삼촌은 심판한테 소리 지를 거고, 아빠는 금요일 아침에 여기서 팬케이크 먹으면서 영상 볼 거야.
 
 142. SAM: Every Friday? Pancakes every Friday?
     샘: 금요일마다? 금요일마다 팬케이크?
 
-143. DAN: Every Friday there's a game video. Mom has to agree about the pancakes.
-    댄: 경기 영상이 있는 금요일마다. 팬케이크는 엄마가 허락해야 돼.
+143. DAN: Every Friday there's a game video, but Mom has to agree about the pancakes.
+    댄: 금요일마다 경기 영상은 있어. 팬케이크는 엄마가 허락해야 하고.
 
-144. SAM: Okay. I like this better than "I'll be there." "I'll be there" is scary. This is just a calendar.
-    샘: 알았어. "갈게"보다 이게 더 좋아. "갈게"는 무서워. 이건 그냥 달력이잖아.
+144. SAM: Okay, I like this better than "I'll be there," because "I'll be there" is scary, and this is just a calendar.
+    샘: 좋아. "갈게"보다 이게 더 좋아. "갈게"는 무서운데, 이건 그냥 달력이잖아.
 
-145. GUS: Pancakes, Slugger. Congressman, your eggs. And your coffee, which you'll complain about.
-    거스: 팬케이크다, 강타자. 의원님, 달걀. 그리고 불평할 커피.
+145. GUS: Here are your pancakes, Slugger. Congressman, here are your eggs, and your coffee, which you'll complain about.
+    거스: 팬케이크 나왔다, 강타자. 의원님, 달걀이요. 그리고 불평할 커피.
 
-146. DAN: Gus, I'll complain later. Right now it's the best coffee in the world.
+146. DAN: Gus, I'll complain later, because right now it's the best coffee in the world.
     댄: 거스, 불평은 나중에 할게요. 지금은 세상에서 제일 맛있는 커피예요.
 
-147. GUS: He's sick. Sam, your father is sick. He said my coffee is good.
+147. GUS: He's sick, Sam, your father is sick, because he said my coffee is good.
     거스: 아프구먼. 샘, 너희 아빠 아파. 내 커피가 맛있대.
 
-148. JUNE: Dan, it's me. Sorry, I know it's Friday. Ben says the Speaker's office approved your first one-minute speech. Tuesday morning. Sixty seconds. On the House floor.
-    준: 댄, 저예요. 죄송해요, 금요일인 거 알아요. 벤이 그러는데 의장실에서 첫 1분 연설을 승인했대요. 화요일 아침. 60초. 본회의장에서요.
+148. JUNE: Dan, it's me, and sorry, I know it's Friday. Ben says the Speaker's office approved your first one-minute speech for Tuesday morning, so you get sixty seconds on the House floor.
+    준: 댄, 저예요. 금요일인 거 알아요, 죄송해요. 벤 말이 의장실에서 첫 1분 연설을 승인했대요. 화요일 아침에, 하원 본회의장에서 60초요.
 
-149. DAN: Sixty seconds. What about?
-    댄: 60초. 뭐에 대해?
+149. DAN: Sixty seconds? What's it supposed to be about?
+    댄: 60초? 주제가 뭔데?
 
-150. JUNE: Whatever you want. That's the scary part. Okay, so here's the headline. You have one minute, and the whole country can watch it. Don't use fifty-nine seconds on the Mets.
-    준: 원하시는 거 아무거나요. 그게 무서운 부분이죠. 자, 헤드라인은 이거예요. 1분이 주어지고, 온 나라가 볼 수 있어요. 59초를 메츠 얘기에 쓰지 마세요.
+150. JUNE: Whatever you want, and that's the scary part. Okay, so here's the headline: you have one minute and the whole country can watch it, so don't use fifty-nine seconds on the Mets.
+    준: 원하시는 거 아무거나요. 그게 무서운 부분이죠. 자, 헤드라인은 이거예요. 1분이 있고 온 나라가 볼 수 있어요. 그러니까 59초를 메츠 얘기에 쓰지 마세요.
 
 ---
 
