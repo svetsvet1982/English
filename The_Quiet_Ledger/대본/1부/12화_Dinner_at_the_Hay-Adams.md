@@ -8,7 +8,7 @@
 > - 등장인물: Declan, Nina, Rose(전화), Danny(라파예트 바텐더, 단역), Callum Reed, Howard Pruitt(마지막 장면, 짧게)
 > - 난이도: B1–B2 · 턴 수: 150
 > - 이번 화의 핵심 표현: "cover story", "surveillance detection route", "Lower your expectations.", "Say no more.", "stand someone up", "on me", "Paranoid people live longer.", "To old friends."
-> - 복선/연결: 11화 리드의 예약·전용기 · 프랭키의 미행 식별법(색깔, 앞 두 글자, 바보 같은 것) · 회색 혼다 재등장(→정체 미상) · 바텐더가 말하는 '송어를 시키는 단골 신사' · 로즈 생일 선물 '초판본'(→2부 1화 「Godfather」) · 체스(→2부 2화) · 하워드의 등장과 건배 → 2부 1화 "Small world, my boy." · 초록 수첩의 새 페이지(각 부 마지막 화 모티프)
+> - 복선/연결: 11화 리드의 예약·전용기 · 4화 리드가 데클런의 이름·바이아웃을 이미 알고 있었음 · 옛 상사의 말 "the best cover story is ninety percent true"(016, 4화와 연결) · 프랭키의 미행 식별법(색깔, 앞 두 글자, 바보 같은 것) · 회색 혼다 재등장(→정체 미상) · 바텐더가 말하는 '송어를 시키는 단골 신사' · 로즈 생일 선물 '초판본'(→2부 1화 「Godfather」) · 체스(→2부 2화) · 하워드의 등장과 건배 → 2부 1화 "Small world, my boy." · 초록 수첩의 새 페이지(각 부 마지막 화 모티프)
 
 ---
 
@@ -23,17 +23,17 @@
 003. NINA: That's the problem. Reed saw that tie. Lydia saw that tie. Half of K Street saw that tie.
     니나: 그게 문제예요. 리드도 그 넥타이 봤고, 리디아도 봤고, K 스트리트 절반이 봤어요.
 
-004. DECLAN: Nobody remembers a tie, Nina. Reed talked to me for ninety seconds at that gala, and he spent the whole time looking over my shoulder for somebody more important.
-    데클런: 넥타이 기억하는 사람 없어, 니나. 리드는 갈라에서 나랑 90초 얘기했는데, 그동안 내내 내 어깨 너머로 더 중요한 사람을 찾고 있었어.
+004. DECLAN: Forget the tie. He knows my name, Nina. At the gala he knew I took a federal buyout before I'd said a word. So he's not going to see me. I'll be at the end of the bar, behind his left shoulder.
+    데클런: 넥타이는 잊어. 그 사람은 내 이름을 알아, 니나. 갈라에서 내가 말하기도 전에 연방 바이아웃 받은 것까지 알고 있었어. 그러니까 날 보면 안 돼. 난 바 끝자리, 그 사람 왼쪽 어깨 뒤에 있을 거야.
 
-005. NINA: You're telling me a man like that doesn't remember faces?
-    니나: 그런 사람이 얼굴을 기억 못 한다는 거예요?
+005. NINA: And if he turns around?
+    니나: 그러다 뒤돌아보면요?
 
-006. DECLAN: Guys like Reed remember money, not faces. And I don't look like money. I look like the guy who does the money's taxes.
-    데클런: 리드 같은 놈들은 얼굴이 아니라 돈을 기억해. 그리고 난 돈처럼 안 생겼어. 돈의 세금 신고를 해 주는 사람처럼 생겼지.
+006. DECLAN: Then he sees a tired guy in a bad tie, and I hope he's as bored by me as he was at the gala.
+    데클런: 그럼 촌스러운 넥타이 맨 피곤한 남자를 보겠지. 갈라 때만큼 나한테 관심 없길 바라야지.
 
-007. NINA: Fine. But wear the reading glasses.
-    니나: 좋아요. 대신 돋보기는 써요.
+007. NINA: That's why you're wearing the reading glasses. Not negotiable.
+    니나: 그러니까 돋보기를 쓰라는 거예요. 협상 불가.
 
 008. DECLAN: I only need them for fine print.
     데클런: 그건 작은 글씨 볼 때만 필요해.
@@ -59,8 +59,8 @@
 015. NINA: "Cover story." Is that a real spy word, or did you get it from TV?
     니나: "위장 신분." 그거 진짜 스파이 용어예요, 아니면 TV에서 들은 거예요?
 
-016. DECLAN: It's real. It's the boring lie you tell so nobody asks about the interesting truth. And the best cover story is usually just your real life with one small detail changed.
-    데클런: 진짜야. 아무도 재밌는 진실을 안 묻게 하려고 하는 지루한 거짓말이지. 그리고 제일 좋은 위장 신분은 보통 네 진짜 삶에서 작은 거 하나만 바꾼 거야.
+016. DECLAN: It's real. It's the boring lie you tell so nobody asks about the interesting truth. My old boss used to say the best cover story is ninety percent true. You just change the ten percent that matters.
+    데클런: 진짜야. 아무도 재밌는 진실을 안 묻게 하려고 하는 지루한 거짓말이지. 내 옛 상사가 늘 그랬어. 제일 좋은 위장 신분은 90퍼센트가 진짜라고. 중요한 10퍼센트만 바꾸면 된다고.
 
 017. NINA: So tonight you're a divorced accountant from Boston, drinking alone on a Friday night.
     니나: 그러니까 오늘 밤 당신은 금요일 밤에 혼자 술 마시는 보스턴 출신 이혼남 회계사네요.
@@ -101,8 +101,8 @@
 029. NINA: Now the money part. I looked at the menu online. A martini at Lafayette is twenty-six dollars.
     니나: 이제 돈 얘기요. 온라인으로 메뉴 봤는데요. 라파예트 마티니가 26달러예요.
 
-030. DECLAN: Then I'm not having a martini.
-    데클런: 그럼 마티니는 안 마셔.
+030. DECLAN: Then I'm not having a martini. I'm from Dorchester, not Monaco.
+    데클런: 그럼 마티니는 안 마셔. 난 모나코가 아니라 도체스터 출신이야.
 
 031. NINA: You can't sit at the bar of the Hay-Adams and order a glass of tap water. They'll know you're there to watch somebody.
     니나: 헤이애덤스 바에 앉아서 수돗물 한 잔 시킬 순 없잖아요. 누구 감시하러 온 거 다 티 나요.
@@ -176,8 +176,8 @@
 054. ROSE: Debate stuff. Our topic for regionals is whether the government should be allowed to keep secrets from the public. And I got the side that says yes.
     로즈: 디베이트 때문에. 지역 대회 주제가 정부가 국민한테 비밀을 가져도 되냐는 건데, 내가 찬성 쪽 걸렸어.
 
-055. DECLAN: Of course you did.
-    데클런: 당연히 그랬겠지.
+055. DECLAN: Of course you did. You'd argue the sky is green if they gave you a trophy.
+    데클런: 당연히 그랬겠지. 넌 트로피만 준다면 하늘이 초록색이라고도 우길 애야.
 
 056. ROSE: So I need examples. Good secrets. Secrets that actually help people. You worked for the government, like, my whole life. Give me one.
     로즈: 그래서 예시가 필요해. 좋은 비밀. 진짜로 사람들한테 도움 되는 비밀. 아빠 거의 내 평생 정부에서 일했잖아. 하나만 줘.
@@ -194,8 +194,8 @@
 060. ROSE: That's actually good. That's really good. Can I say my dad told me?
     로즈: 오, 그거 괜찮다. 진짜 괜찮아. 우리 아빠가 알려 줬다고 해도 돼?
 
-061. DECLAN: Say you read it in a book.
-    데클런: 책에서 읽었다고 해.
+061. DECLAN: Say you read it in a book. A long, boring one with no pictures.
+    데클런: 책에서 읽었다고 해. 그림 하나 없는 길고 지루한 책.
 
 062. ROSE: Speaking of books, Uncle Howard texted me. He found something for my birthday, a first edition of something, but he won't tell me what. He's being so mysterious about it.
     로즈: 책 얘기 나와서 말인데, 하워드 삼촌이 문자 보냈어. 내 생일 선물로 뭘 찾았대. 무슨 초판본이래. 근데 뭔지는 안 알려 줘. 엄청 비밀스럽게 굴어.
@@ -206,8 +206,8 @@
 064. ROSE: He also says you've never beaten him at chess. Not once. In twenty years.
     로즈: 삼촌이 그러는데 아빠 체스로 삼촌 한 번도 못 이겼다며. 단 한 번도. 20년 동안.
 
-065. DECLAN: Uncle Howard talks too much.
-    데클런: 하워드 삼촌이 말이 너무 많네.
+065. DECLAN: Uncle Howard talks too much for a man who kept secrets for a living.
+    데클런: 비밀 지키는 게 직업이었던 사람치고 하워드 삼촌 말이 너무 많네.
 
 066. ROSE: Is it true, though?
     로즈: 근데 사실이야?
@@ -224,8 +224,8 @@
 070. ROSE: By yourself? At the Hay-Adams? Dad, that's the saddest sentence I've ever heard.
     로즈: 혼자? 헤이애덤스에서? 아빠, 그거 내가 들어 본 문장 중에 제일 슬퍼.
 
-071. DECLAN: I love you too. Good luck with your secrets.
-    데클런: 나도 사랑해. 비밀 잘 지켜.
+071. DECLAN: I love you too, kiddo. Good luck with your secrets. Go to bed early.
+    데클런: 나도 사랑해, 꼬맹아. 비밀 잘 지키고. 일찍 자.
 
 072. ROSE: Good luck with your peanuts. And don't complain about their coffee. Rich people can hear you.
     로즈: 땅콩 잘 먹어. 그리고 거기 커피 욕하지 마. 부자들 다 들어.
@@ -275,8 +275,8 @@
 087. DECLAN: Not here yet. The table by the window is empty. Two place settings and a little card that says "Reserved." It's the best table in the room, with a view across the park to the White House.
     데클런: 아직 안 왔어. 창가 테이블이 비어 있어. 식기 두 벌이랑 "예약석"이라고 적힌 작은 카드. 이 방에서 제일 좋은 자리야. 공원 건너 백악관이 보여.
 
-088. NINA: Of course he gets the White House view.
-    니나: 당연히 백악관 뷰겠죠.
+088. NINA: Of course he gets the White House view. Men like him always do.
+    니나: 당연히 백악관 뷰겠죠. 저런 남자들은 늘 그 자리를 차지하더라.
 
 089. DECLAN: It's either a nice view or a warning, depending on what you're selling.
     데클런: 뭘 파느냐에 따라 좋은 경치일 수도 있고 경고일 수도 있지.
@@ -287,8 +287,8 @@
 091. DECLAN: Guys like Reed are never early. Being early means you need something.
     데클런: 리드 같은 놈들은 절대 일찍 안 와. 일찍 온다는 건 뭔가 아쉽다는 뜻이거든.
 
-092. DANNY: Your beer, and your coffee. You picked a good night. Fridays are quiet in February. Mostly lobbyists, and people pretending they're not lobbyists.
-    대니: 맥주랑 커피 나왔습니다. 좋은 밤에 오셨어요. 2월 금요일은 조용하거든요. 대부분 로비스트고, 로비스트 아닌 척하는 사람들이죠.
+092. DANNY: Your beer, and your coffee. You picked a good night. Fridays are quiet in February. Mostly lobbyists, and people pretending they're not lobbyists. The ones pretending are usually more interesting.
+    대니: 맥주랑 커피 나왔습니다. 좋은 밤에 오셨어요. 2월 금요일은 조용하거든요. 대부분 로비스트고, 로비스트 아닌 척하는 사람들이죠. 보통 아닌 척하는 쪽이 더 흥미롭고요.
 
 093. DECLAN: How do you tell the difference?
     데클런: 둘을 어떻게 구분해요?
@@ -314,8 +314,8 @@
 100. REED: No, I don't care what London says. Tell them we're not selling until I say so. I'm walking into dinner now. Yes. Him.
     캘럼: 아니, 런던이 뭐라든 상관없어. 내가 말할 때까지 안 판다고 전해. 나 지금 저녁 먹으러 들어가. 그래. 그 사람.
 
-101. DECLAN: He just walked right past me. Four feet, maybe.
-    데클런: 방금 내 바로 옆으로 지나갔어. 1미터쯤.
+101. DECLAN: He just walked right past me. Four feet, maybe. Close enough to smell his cologne.
+    데클런: 방금 내 바로 옆으로 지나갔어. 1미터쯤. 향수 냄새가 날 만큼 가까이.
 
 102. NINA: Did he see you?
     니나: 당신 봤어요?
@@ -332,8 +332,8 @@
 106. NINA: Not selling what? Ledra bonds?
     니나: 뭘 안 판다는 거예요? 레드라 채권?
 
-107. DECLAN: Could be anything. It's a hedge fund. They're always selling something. But "Him" is interesting. Nobody says "Him" like that about his lawyer.
-    데클런: 뭐든 될 수 있지. 헤지펀드잖아. 늘 뭔가 팔아. 근데 "그 사람"은 흥미로워. 자기 변호사를 두고 그런 식으로 "그 사람"이라고 하진 않거든.
+107. DECLAN: Could be anything. It's a hedge fund. They're always selling something. But "Him" is interesting. Nobody says "Him" like that about his lawyer. You say it about somebody you're a little afraid of.
+    데클런: 뭐든 될 수 있지. 헤지펀드잖아. 늘 뭔가 팔아. 근데 "그 사람"은 흥미로워. 자기 변호사를 두고 그런 식으로 "그 사람"이라고 하진 않거든. 그건 좀 무서워하는 상대한테 쓰는 말이야.
 
 108. DANNY: Mr. Reed. He's in about once a month. Always that table.
     대니: 리드 씨네요. 한 달에 한 번쯤 오세요. 항상 저 테이블.
@@ -341,8 +341,8 @@
 109. DECLAN: Yeah? Good tipper?
     데클런: 그래요? 팁은 잘 줘요?
 
-110. DANNY: Ha. No. Twenty percent exactly. He uses the calculator on his phone. His friend's the good tipper. Cash, every time. Old school. A real gentleman.
-    대니: 하. 아뇨. 딱 20퍼센트. 휴대폰 계산기로 계산해요. 팁 잘 주는 건 그분 일행이죠. 매번 현금. 옛날 스타일. 진짜 신사예요.
+110. DANNY: Ha. No. Twenty percent exactly. He uses the calculator on his phone. His friend's the good tipper. Cash, every time. Old school. A real gentleman. He remembers my kid's name, and he asks about her college applications.
+    대니: 하. 아뇨. 딱 20퍼센트. 휴대폰 계산기로 계산해요. 팁 잘 주는 건 그분 일행이죠. 매번 현금. 옛날 스타일. 진짜 신사예요. 우리 딸 이름도 기억하시고, 대학 지원은 어떻게 돼 가냐고 물어봐 주세요.
 
 111. DECLAN: Same friend every time?
     데클런: 매번 같은 일행이에요?
@@ -359,8 +359,8 @@
 115. DECLAN: Nothing. My old boss is a fly fisherman. Every time somebody says "trout," I think of him. He sent me a picture of one at Christmas, and he told me exactly how long it was.
     데클런: 아무것도 아냐. 내 옛 상사가 플라이 낚시광이거든. 누가 "송어" 소리만 하면 그 양반 생각이 나. 크리스마스에 송어 사진을 보내 줬는데, 길이까지 정확히 알려 주더라.
 
-116. NINA: That's adorable. Focus.
-    니나: 귀엽네요. 집중해요.
+116. NINA: That's adorable. Really. Now focus on the man who isn't a fisherman.
+    니나: 귀엽네요. 진짜로. 이제 낚시꾼 아닌 저 남자한테 집중해요.
 
 117. DECLAN: I'm focused. Reed's ordering wine. He's sending back the first bottle.
     데클런: 집중하고 있어. 리드가 와인 시키는 중이야. 첫 병을 돌려보내네.
@@ -377,8 +377,8 @@
 121. DECLAN: Where?
     데클런: 어디?
 
-122. NINA: It just turned onto H Street. It's slowing down. It's parking. Two cars behind me.
-    니나: 방금 H 스트리트로 들어왔어요. 속도 줄이고 있어요. 주차하네요. 내 차 두 대 뒤에.
+122. NINA: It just turned onto H Street. It's slowing down. It's parking. Two cars behind me. Same spot it would pick if it wanted to watch me and not the hotel.
+    니나: 방금 H 스트리트로 들어왔어요. 속도 줄이고 있어요. 주차하네요. 내 차 두 대 뒤에. 호텔이 아니라 날 지켜보고 싶으면 딱 고를 만한 자리예요.
 
 123. DECLAN: Don't turn around. Use your mirror. Once.
     데클런: 돌아보지 마. 거울로 봐. 한 번만.
@@ -404,8 +404,8 @@
 130. NINA: Toward Sixteenth Street. I don't know. Maybe it's a different gray Honda. There must be a thousand of them in this city.
     니나: 16번가 쪽으로요. 모르겠어요. 다른 회색 혼다일 수도 있죠. 이 도시에 천 대는 있을 텐데.
 
-131. DECLAN: Probably. Write down the time anyway.
-    데클런: 아마도. 그래도 시간 적어 둬.
+131. DECLAN: Probably. Write down the time anyway, and which way it went.
+    데클런: 아마도. 그래도 시간 적어 둬. 어느 쪽으로 갔는지도.
 
 132. NINA: Seven fifty-eight. You're making me paranoid.
     니나: 7시 58분. 당신 때문에 나까지 편집증 생기겠어요.
