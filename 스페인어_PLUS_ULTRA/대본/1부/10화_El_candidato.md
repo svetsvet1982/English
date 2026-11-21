@@ -24,8 +24,8 @@
 003. IKER: Estás en la lista de Escudo Ibérico como refuerzo de última hora. Te he metido esta madrugada. Si la directora se entera, me manda a Melilla.
     이케르: 형은 에스쿠도 이베리코 명단에 막판 보충 인력으로 올라가 있어요. 오늘 새벽에 제가 넣었어요. 국장님이 알면 저 멜리야로 발령 나요.
 
-004. ÁLVARO: Melilla tiene buen clima.
-    알바로: 멜리야 날씨 좋아.
+004. ÁLVARO: Melilla tiene buen clima, chaval, y allí por lo menos nadie te pide que hagas pruebas de audio.
+    알바로: 멜리야 날씨 좋아, 인마. 거기선 적어도 음성 테스트하라고 시키는 사람도 없고.
 
 005. IKER: Muy gracioso. Te lo digo en serio: esto no lleva firma, Gato. Si sale mal, no ha existido.
     이케르: 퍽이나 웃기네요. 진지하게 말하는 거예요. 이건 서명이 없는 작전이에요, 가토. 잘못되면 없었던 일이 되는 거라고요.
@@ -39,8 +39,8 @@
 008. ÁLVARO: Hace viento. Desde aquí, debajo del enchufe, parece que las Torres de Colón van a salir volando también.
     알바로: 바람이 불어. 여기 '콘센트' 밑에서 보면 콜론 타워도 같이 날아갈 것 같아.
 
-009. JEFE DE SEGURIDAD: Tú, el nuevo. ¿Con quién hablas?
-    경호팀장: 어이, 신입. 누구랑 얘기해?
+009. JEFE DE SEGURIDAD: Tú, el nuevo. ¿Con quién hablas tanto? Aquí no se viene a charlar por teléfono.
+    경호팀장: 어이, 신입. 누구랑 그렇게 떠들어? 여기 전화 수다 떨러 온 데 아니다.
 
 010. ÁLVARO: Con nadie, jefe. Repasaba las salidas. Biblioteca Nacional, Génova y el paso de Goya.
     알바로: 아무도요, 팀장님. 출구 확인하고 있었습니다. 국립도서관 쪽, 헤노바 쪽, 고야 거리 통로.
@@ -48,8 +48,8 @@
 011. JEFE DE SEGURIDAD: Bien. Tú te quedas en la valla de prensa, entre los fotógrafos y el escenario. Si alguien levanta algo que no sea una cámara, me avisas.
     경호팀장: 좋아. 넌 기자 펜스에 붙어. 사진기자들이랑 무대 사이. 카메라 말고 다른 거 드는 놈 있으면 바로 보고해.
 
-012. ÁLVARO: Entendido.
-    알바로: 알겠습니다.
+012. ÁLVARO: Entendido, jefe. Valla de prensa, y cualquier cosa rara se la comunico a usted primero.
+    알바로: 알겠습니다, 팀장님. 기자 펜스에 있다가 이상한 거 있으면 팀장님께 먼저 보고하겠습니다.
 
 013. RENATA: Oye, guarura. ¿Me dejas pasar o también me vas a pedir el pasaporte?
     레나타: 저기요, 경호원 아저씨. 들여보내 줄래요, 아니면 여권도 보자고 할래요?
@@ -75,8 +75,8 @@
 020. IKER: ¿Lo pillo con la cámara de la Biblioteca? Desde la escalinata tengo buen ángulo.
     이케르: 도서관 카메라로 잡을까요? 계단 쪽에서 각도 잘 나와요.
 
-021. ÁLVARO: Píllalo. Quiero saber con quién se ríe tanto.
-    알바로: 잡아. 누구랑 저렇게 웃는지 알고 싶어.
+021. ÁLVARO: Píllalo. Quiero saber con quién se ríe tanto un tesorero a las doce de la mañana.
+    알바로: 잡아. 재무 책임자가 낮 열두 시에 누구랑 저렇게 웃는지 알고 싶어.
 
 022. IKER: Los dos de corbata no sé quiénes son. Les estoy sacando foto con tu cámara del botón, así que no te muevas.
     이케르: 넥타이 둘은 누군지 모르겠어요. 형 단추 카메라로 사진 따고 있으니까 움직이지 마요.
@@ -87,8 +87,8 @@
 024. ÁLVARO: ¿Lo has oído, Iker? "En efectivo, nada". Cuando alguien lo dice sin que se lo pregunten, es que hay efectivo.
     알바로: 들었어, 이케르? "현금은 하나도". 아무도 안 물었는데 먼저 그 말을 꺼내면, 현금이 있다는 거야.
 
-025. IKER: Apuntado. Ojo, que empieza. Sale el candidato.
-    이케르: 적어 뒀어요. 잠깐, 시작해요. 후보 나와요.
+025. IKER: Apuntado, con hora y todo. Ojo, que empieza la música: sale el candidato.
+    이케르: 시간까지 적어 뒀어요. 잠깐, 음악 시작해요. 후보 나와요.
 
 026. LEZCANO: ¡Buenas tardes, Madrid! ¡Buenas tardes, España! Gracias por venir, gracias por el frío, y gracias, sobre todo, por no haberos rendido.
     레스카노: 안녕하십니까, 마드리드! 안녕하십니까, 스페인! 와 주셔서 감사합니다. 이 추위를 견뎌 주셔서 감사합니다. 그리고 무엇보다, 포기하지 않아 주셔서 감사합니다!
@@ -96,8 +96,8 @@
 027. LEZCANO: Nos han dicho que somos pocos. Que somos raros. Que no tenemos dinero. Y aquí estamos, en la Plaza de Colón, pagados de nuestro bolsillo, céntimo a céntimo.
     레스카노: 사람들은 우리가 소수라고 했습니다. 이상한 사람들이라고 했습니다. 돈도 없다고 했습니다. 그런데 우리는 지금 여기, 콜론 광장에 서 있습니다. 한 푼 한 푼, 우리 주머니를 털어서!
 
-028. RENATA: "Céntimo a céntimo". Trescientos euros cada céntimo, güey.
-    레나타: "한 푼 한 푼"이래. 한 푼이 300유로씩이지, 아주.
+028. RENATA: "Céntimo a céntimo". Trescientos euros cada céntimo, güey, y todos el mismo día de la semana.
+    레나타: "한 푼 한 푼"이래. 한 푼이 300유로씩이지, 아주. 그것도 다 같은 요일에.
 
 029. LEZCANO: Raíz no recibe cheques de grandes empresas ni favores de bancos. Raíz recibe la confianza de tres mil familias trabajadoras que, de Usera a Tetuán, han decidido que este país vuelva a ser suyo.
     레스카노: Raíz는 대기업 수표도, 은행의 특혜도 받지 않습니다. Raíz가 받는 것은 우세라에서 테투안까지, 이 나라를 다시 자신들의 것으로 만들겠다고 결심한 3,000 노동자 가정의 신뢰입니다!
@@ -117,8 +117,8 @@
 034. JEFE DE SEGURIDAD: Atención, todos. Turno de prensa en el lateral. Diez minutos, cuatro preguntas. Que nadie pase de la valla.
     경호팀장: 전원 주목. 측면에서 기자 질의응답. 10분, 질문 네 개. 아무도 펜스 넘어오게 하지 마.
 
-035. RENATA: Ahí voy. Deséame suerte, guarura.
-    레나타: 간다. 행운을 빌어 줘, 경호원 아저씨.
+035. RENATA: Ahí voy. Deséame suerte, guarura, que a este señor no lo pillo dos veces tan cerca.
+    레나타: 간다. 행운을 빌어 줘, 경호원 아저씨. 이 양반을 이렇게 가까이서 잡을 기회는 두 번 없거든.
 
 036. ÁLVARO: Suerte no. Pregunta despacio y mírale las manos cuando conteste.
     알바로: 행운 말고. 천천히 묻고, 대답할 때 손을 봐.
@@ -138,8 +138,8 @@
 041. LEZCANO: Lo que sé es que, si alguien ha usado el nombre de un vecino sin su permiso, será el primero en tener que dar la cara ante un juez. Y no le quepa duda de que nosotros seremos los primeros en denunciarlo.
     레스카노: 제가 아는 건, 누군가 주민의 이름을 허락 없이 썼다면 그 사람이 제일 먼저 판사 앞에서 책임을 져야 한다는 겁니다. 그리고 저희가 제일 먼저 고발할 거라는 점, 의심하지 마십시오.
 
-042. RENATA: ¿Y si ese alguien es su tesorero?
-    레나타: 그 누군가가 대표님의 재무 책임자라면요?
+042. RENATA: ¿Y si ese alguien es su propio tesorero, el señor que está sentado ahí, en la segunda fila?
+    레나타: 그 누군가가 대표님의 재무 책임자라면요? 저기 둘째 줄에 앉아 계신 분 말이에요.
 
 043. ASESORA: Gracias, se acabó el tiempo. Muchas gracias a todos.
     보좌관: 감사합니다, 시간 다 됐습니다. 모두 감사합니다.
@@ -180,8 +180,8 @@
 055. ÁLVARO: Que el turno de esta noche era de un tal Paco, de Móstoles. Iker le ha conseguido dos entradas para el Metropolitano a cambio. Paco está encantado.
     알바로: 오늘 밤 근무가 모스톨레스에 사는 파코라는 사람 거였대. 이케르가 대신 메트로폴리타노 경기 표 두 장 구해 줬어. 파코는 신났대.
 
-056. RENATA: ¿El Metropolitano? ¿Eso es de fútbol?
-    레나타: 메트로폴리타노? 그거 축구장이야?
+056. RENATA: ¿El Metropolitano? ¿Eso es de fútbol o es otro de tus nombres raros para los edificios?
+    레나타: 메트로폴리타노? 그거 축구장이야, 아니면 또 건물에 붙인 이상한 별명이야?
 
 057. ÁLVARO: Es del Atleti. Que no es exactamente fútbol: es una manera de sufrir con bufanda.
     알바로: 아틀레티 구장이야. 정확히는 축구가 아니고, 목도리 두르고 고통받는 방법이지.
@@ -210,8 +210,8 @@
 065. ÁLVARO: Vale. Sin micrófono. Pero si me toco el cuello, te levantas, dices que te encuentras mal y te vas. Sin discutir.
     알바로: 좋아. 녹음기 없이. 대신 내가 목을 만지면 일어나서 몸이 안 좋다고 하고 나가. 토 달지 말고.
 
-066. RENATA: ¿Mande? ¿El cuello? ¿Y si te pica?
-    레나타: 뭐? 목? 그냥 가려워서 만지면?
+066. RENATA: ¿Mande? ¿El cuello? ¿Y si te pica de verdad, me voy a tener que ir corriendo a media cena?
+    레나타: 뭐? 목? 진짜 가려워서 만지면 나 밥 먹다 말고 뛰쳐나가야 돼?
 
 067. ÁLVARO: Esta noche no me va a picar nada. Espera, tengo un audio de mi hija.
     알바로: 오늘 밤엔 아무 데도 안 가려워. 잠깐, 딸한테서 음성 메시지 왔다.
@@ -219,8 +219,8 @@
 068. LUCÍA: Papá, el abuelo me ha llamado hoy por teléfono él solito, para preguntarme si hoy había colegio. ¡Un domingo, papá! Y luego me ha dicho las estaciones hasta Valdecarros sin equivocarse. Se lo he grabado, por si acaso. Hoy está bien. Llámale.
     루시아: 아빠, 오늘 할아버지가 혼자서 나한테 전화하셨어. 오늘 학교 가냐고 물어보시려고. 일요일인데, 아빠! 그러고는 발데카로스까지 역 이름을 하나도 안 틀리고 다 외우셨어. 혹시 몰라서 녹음해 뒀어. 오늘은 컨디션 좋으셔. 전화드려.
 
-069. RENATA: ¿Todo bien?
-    레나타: 괜찮아?
+069. RENATA: ¿Todo bien? Te ha cambiado la cara, y por una vez para bien.
+    레나타: 괜찮아? 표정이 바뀌었네. 웬일로 좋은 쪽으로.
 
 070. ÁLVARO: Hasta Valdecarros. Sin equivocarse. Hoy es un buen día, Renata. Vamos a intentar que siga siéndolo.
     알바로: 발데카로스까지. 하나도 안 틀리고. 오늘은 좋은 날이야, 레나타. 계속 좋은 날이게 해 보자.
@@ -243,14 +243,14 @@
 076. LEZCANO: Está aquí porque hizo usted la mejor pregunta de ayer, y las buenas preguntas merecen buenas cenas. Rubén, ¿puedes esperar abajo, por favor? Tú no, tú quédate.
     레스카노: 어제 제일 좋은 질문을 하셨으니까요. 좋은 질문엔 좋은 저녁이 따라야죠. 루벤, 아래층에서 기다려 줄래요? 아니, 당신은 말고. 당신은 남아요.
 
-077. ÁLVARO: ¿Yo, señor?
-    알바로: 저 말씀이십니까?
+077. ÁLVARO: ¿Yo, señor? Yo estoy aquí para vigilar la puerta, no para sentarme a la mesa.
+    알바로: 저 말씀이십니까? 저는 문 지키러 온 거지, 식탁에 앉으러 온 게 아닙니다.
 
 078. LEZCANO: Usted. Siéntese también, hombre, que de pie me pone nervioso. Los escoltas de verdad miran las puertas. Usted lleva diez minutos mirándome las manos.
     레스카노: 네, 당신. 당신도 앉아요. 서 있으니까 신경 쓰이네요. 진짜 경호원은 문을 봅니다. 당신은 10분째 내 손만 보고 있어요.
 
-079. ÁLVARO: Será la costumbre, señor.
-    알바로: 습관인가 봅니다.
+079. ÁLVARO: Será la costumbre, señor. En mi oficio, las manos dicen más que las palabras.
+    알바로: 습관인가 봅니다, 대표님. 제 일에선 말보다 손이 더 많은 걸 말해 주거든요.
 
 080. LEZCANO: Será. Una costumbre de la Casa, supongo. No se preocupe, no voy a pedirle el carné. A estas alturas, en Madrid, todos sabemos quién trabaja para quién.
     레스카노: 그렇겠죠. 그 '본부'의 습관이겠죠, 아마. 걱정 마세요, 신분증 보자고 안 할 테니. 이쯤 되면 마드리드에선 누가 누구 밑에서 일하는지 다들 알아요.
@@ -270,8 +270,8 @@
 085. CAMARERO: Los huevos de la casa. Con cuidado, que el plato quema. ¿Les traigo más vino?
     웨이터: 저희 집 계란 요리입니다. 조심하세요, 접시 뜨겁습니다. 와인 더 가져다드릴까요?
 
-086. ÁLVARO: Para mí no, gracias. Estoy de servicio.
-    알바로: 전 됐습니다. 근무 중이라서요.
+086. ÁLVARO: Para mí no, gracias. Estoy de servicio, y el vino de aquí es demasiado bueno para un trabajo así.
+    알바로: 전 됐습니다. 근무 중이라서요. 여기 와인은 이런 일 하면서 마시기엔 너무 좋거든요.
 
 087. LEZCANO: Claro, siempre de servicio. Qué país tan bien vigilado tenemos, ¿no le parece?
     레스카노: 그렇죠, 늘 근무 중이시죠. 우리나라 참 철저하게 감시받고 있네요, 안 그래요?
@@ -279,8 +279,8 @@
 088. LEZCANO: Un poco más, gracias. Pruébelos, señora Villaseñor. Se rompen las yemas encima de las patatas, así, sin miedo. Es lo más parecido a la política que conozco.
     레스카노: 조금만 더요, 고마워요. 드셔 보세요, 기자님. 감자 위에서 노른자를 이렇게 터뜨리는 거예요, 겁내지 말고. 제가 아는 것 중에 정치랑 제일 닮은 음식이죠.
 
-089. RENATA: ¿Romper algo y que parezca un plato?
-    레나타: 뭘 부숴 놓고 요리인 척하는 거요?
+089. RENATA: ¿Romper algo y luego servirlo como si fuera un plato de lujo, quiere decir?
+    레나타: 뭘 부숴 놓고 고급 요리인 척 내놓는 거, 그런 말씀이세요?
 
 090. LEZCANO: Mezclar cosas que por separado no valen nada. Patatas, huevos, un poco de aceite. Gente de Usera, gente de Salamanca, gente que hace diez años no votaba. Juntas, alimentan.
     레스카노: 따로 있으면 별 가치 없는 것들을 섞는 거죠. 감자, 계란, 기름 조금. 우세라 사람, 살라망카 사람, 10년 전엔 투표도 안 하던 사람. 섞이면 배를 채워 주죠.
@@ -306,8 +306,8 @@
 097. RENATA: Le hago otra pregunta, entonces. Julio César Prieto, el contable que se cayó de un quinto piso en Serrano, tenía apuntado en su cuaderno "Colón, 5-D". En octubre. Ustedes anunciaron el acto en noviembre.
     레나타: 그럼 하나 더 묻죠. 세라노 거리 5층에서 떨어진 회계사 훌리오 세사르 프리에토의 수첩에 "콜론, 5-D"라고 적혀 있었어요. 10월에요. 당신들은 집회를 11월에 발표했고요.
 
-098. LEZCANO: ¿Y?
-    레스카노: 그래서요?
+098. LEZCANO: ¿Y? Una fecha en un cuaderno no es un delito, señora, ni en México ni aquí.
+    레스카노: 그래서요? 수첩에 적힌 날짜는 범죄가 아니에요, 기자님. 멕시코에서도, 여기서도.
 
 099. RENATA: ¿Cómo sabía un contable de Culiacán la fecha de su gran día un mes antes que sus votantes?
     레나타: 쿨리아칸 출신 회계사가 당신 지지자들보다 한 달이나 먼저 당신의 그 중요한 날짜를 어떻게 알았을까요?
@@ -315,8 +315,8 @@
 100. LEZCANO: La plaza la reservamos en verano, señora. Lo sabían el Ayuntamiento, la Delegación del Gobierno, la empresa de los escenarios y los de las sillas plegables. Medio Madrid. No me pida que sepa a quién se lo contaron los de las sillas.
     레스카노: 광장은 여름에 예약했어요, 기자님. 시청도, 정부 대표부도, 무대 업체도, 접이식 의자 업체도 다 알았죠. 마드리드 절반이요. 의자 업체 사람들이 누구한테 말했는지까지 제가 알기를 바라진 마세요.
 
-101. ÁLVARO: ¿Conocía usted a Julio César Prieto?
-    알바로: 훌리오 세사르 프리에토를 아셨습니까?
+101. ÁLVARO: ¿Conocía usted personalmente a Julio César Prieto, señor Lezcano? Le pido un sí o un no.
+    알바로: 훌리오 세사르 프리에토를 개인적으로 아셨습니까, 레스카노 대표님? 예, 아니요로 답해 주시죠.
 
 102. LEZCANO: Conozco a mucha gente, agente. Me paso el día dando la mano. Si me dice que alguna vez estreché la suya, no se lo voy a discutir. Tampoco se lo voy a confirmar.
     레스카노: 아는 사람이 많아요, 요원님. 하루 종일 악수만 하는 사람이니까요. 제가 언젠가 그 사람 손을 잡은 적 있다고 하시면, 굳이 반박 안 하겠습니다. 그렇다고 인정하지도 않겠지만.
@@ -327,20 +327,20 @@
 104. LEZCANO: Es que no me ha acusado de nada todavía, señora Villaseñor. Ha hecho preguntas. Muy buenas, por cierto. Y yo le he contestado con lo que sé, que, aunque le decepcione, es bastante menos de lo que usted cree.
     레스카노: 아직 저를 고발하신 건 없잖아요, 비야세뇨르 기자님. 질문을 하셨죠. 아주 좋은 질문들이었고요. 저는 아는 만큼 답했습니다. 실망스러우시겠지만, 그게 생각하시는 것보다 훨씬 적어요.
 
-105. ÁLVARO: ¿Y Atalaya Risk Consulting? ¿Eso tampoco lo sabe?
-    알바로: 아탈라야 리스크 컨설팅은요? 그것도 모르십니까?
+105. ÁLVARO: ¿Y Atalaya Risk Consulting? ¿Eso tampoco lo sabe, o eso sí lo firmó usted en persona?
+    알바로: 아탈라야 리스크 컨설팅은요? 그것도 모르십니까, 아니면 그건 직접 서명하셨습니까?
 
 106. LEZCANO: Atalaya hace auditorías de riesgo para medio Ibex. Nosotros les pagamos para que revisaran a nuestros proveedores, precisamente para evitar sorpresas. Si alguien se ha equivocado, han sido ellos. Yo me lavo las manos, como Pilato, pero con jabón del bueno.
     레스카노: 아탈라야는 이벡스 상장사 절반의 리스크 감사를 맡는 회사예요. 저희는 바로 이런 뜻밖의 일을 막으려고 협력 업체 검증을 맡긴 거고요. 누가 실수했다면 그쪽이죠. 저는 손을 씻겠습니다, 빌라도처럼. 다만 좋은 비누로요.
 
-107. RENATA: Pilato también decía que no sabía nada.
-    레나타: 빌라도도 아무것도 모른다고 했죠.
+107. RENATA: Pilato también decía que no sabía nada, y mire cómo acabó la historia.
+    레나타: 빌라도도 아무것도 모른다고 했죠. 그 이야기가 어떻게 끝났는지 보세요.
 
 108. LEZCANO: Y le fue bastante bien, si lo piensa. Dos mil años después, todavía nos acordamos de su nombre.
     레스카노: 생각해 보면 꽤 잘 풀린 사람이에요. 2천 년이 지났는데도 다들 그 이름을 기억하잖아요.
 
-109. ÁLVARO: También nos acordamos de por qué.
-    알바로: 왜 기억하는지도 다들 알죠.
+109. ÁLVARO: También nos acordamos de por qué, señor Lezcano, y no es precisamente por sus manos limpias.
+    알바로: 왜 기억하는지도 다들 알죠, 대표님. 깨끗한 손 때문은 아니잖아요.
 
 110. LEZCANO: Touché, agente. Me cae usted bien. Es una pena que trabaje para un Gobierno que, dentro de diez meses, quizá no exista.
     레스카노: 한 방 먹었네요, 요원님. 당신 마음에 들어요. 열 달 뒤엔 없어질지도 모르는 정부를 위해 일하신다는 게 안타까울 뿐이네요.
@@ -351,26 +351,26 @@
 112. LEZCANO: Eso dicen todos los que trabajan en la Casa. Hasta que se jubilan y descubren que el Estado también tiene clientes.
     레스카노: 본부 사람들은 다 그렇게 말하더군요. 은퇴하고 나서 국가에도 고객이 있다는 걸 알게 될 때까지는요.
 
-113. RENATA: ¿Qué quiere decir con eso?
-    레나타: 그게 무슨 뜻이죠?
+113. RENATA: ¿Qué quiere decir con eso? ¿Está hablando de alguien en concreto, o es otra de sus frases bonitas?
+    레나타: 그게 무슨 뜻이죠? 특정한 누군가 얘기예요, 아니면 또 멋있는 말씀 한마디예요?
 
 114. LEZCANO: Nada que deba publicar, señora. Recuerde que esto es off the record. Por cierto, me alegra mucho verla entera. México es un país muy hospitalario, pero a veces le cuesta dejar marchar a sus invitados.
     레스카노: 기사로 쓰실 만한 건 아무것도요, 기자님. 이건 비보도라는 거 잊지 마시고요. 그건 그렇고, 무사하신 모습 뵈니 정말 기쁩니다. 멕시코는 손님 대접이 아주 극진한 나라인데, 가끔 손님을 잘 안 보내 주더군요.
 
-115. RENATA: ¿Cómo sabe usted eso?
-    레나타: 그걸 어떻게 아세요?
+115. RENATA: ¿Cómo sabe usted eso? Eso no ha salido en ningún periódico, ni en el mío.
+    레나타: 그걸 어떻게 아세요? 어느 신문에도 안 나온 얘기예요. 우리 매체에도요.
 
 116. LEZCANO: Lo sabe todo el mundo, señora. Usted misma lo ha contado.
     레스카노: 다들 알아요, 기자님. 직접 말씀하셨잖아요.
 
-117. RENATA: Yo no se lo he contado a nadie.
-    레나타: 저 아무한테도 말 안 했어요.
+117. RENATA: Yo no se lo he contado a nadie, señor Lezcano. A nadie, ni siquiera a mi madre.
+    레나타: 저 아무한테도 말 안 했어요, 대표님. 아무한테도요. 우리 엄마한테도요.
 
-118. ÁLVARO: Renata, ¿te encuentras bien? Tienes mala cara.
-    알바로: 레나타, 괜찮아? 안색이 안 좋아.
+118. ÁLVARO: Renata, ¿te encuentras bien? Tienes mala cara, y llevas un rato sin probar la comida.
+    알바로: 레나타, 괜찮아? 안색이 안 좋아. 한참 동안 음식에 손도 안 댔잖아.
 
-119. RENATA: ¿Te pica el cuello?
-    레나타: 목이 가려워?
+119. RENATA: ¿Te pica el cuello? Dímelo, porque yo ya no tengo ganas de seguir aquí sentada.
+    레나타: 목이 가려워? 말해 줘. 나 더는 여기 앉아 있고 싶지 않으니까.
 
 120. ÁLVARO: Mucho. Señor Lezcano, la señora se marcha. Ha sido una cena muy instructiva.
     알바로: 아주 많이. 레스카노 대표님, 기자님은 이만 가십니다. 아주 유익한 저녁이었습니다.
@@ -387,26 +387,26 @@
 124. ÁLVARO: Sabe lo de Cuernavaca, Iker. Sabe que soy de la Casa y sabe que la secuestraron. Y ella no se lo ha contado a nadie.
     알바로: 쿠에르나바카 일을 알아, 이케르. 내가 본부 사람인 것도, 레나타가 납치됐던 것도. 레나타는 아무한테도 말 안 했는데.
 
-125. IKER: ¿Entonces quién? ¿Galván? ¿Ochoa?
-    이케르: 그럼 누가요? 갈반? 오초아?
+125. IKER: ¿Entonces quién se lo ha contado? ¿Galván? ¿Ochoa? ¿O alguien que todavía no conocemos?
+    이케르: 그럼 누가 말한 거예요? 갈반? 오초아? 아니면 우리가 아직 모르는 누군가?
 
 126. RENATA: O alguien de tu lado. Ya te lo dije en Barajas, Álvaro: tu nombre no salió de México.
     레나타: 아니면 너희 쪽 누군가. 바라하스에서 말했잖아, 알바로. 네 이름은 멕시코에서 샌 게 아니라고.
 
-127. ÁLVARO: Espera. Sale. Está saliendo él.
-    알바로: 잠깐. 나온다. 그 사람 나온다.
+127. ÁLVARO: Espera, Iker, calla un momento. Sale. Está saliendo él, y viene directo hacia nosotros.
+    알바로: 잠깐, 이케르, 조용히 해 봐. 나온다. 그 사람 나온다. 곧장 우리 쪽으로 와.
 
-128. LEZCANO: Agente, un momento. Se me olvidaba una cosa.
-    레스카노: 요원님, 잠깐만요. 하나 깜빡했네요.
+128. LEZCANO: Agente, un momento, si no le importa. Se me olvidaba una cosa importante.
+    레스카노: 요원님, 괜찮으시면 잠깐만요. 중요한 걸 하나 깜빡했네요.
 
-129. ÁLVARO: Usted dirá.
-    알바로: 말씀하시죠.
+129. ÁLVARO: Usted dirá, señor Lezcano, pero que sea rápido, que la señora tiene frío.
+    알바로: 말씀하시죠, 대표님. 다만 짧게요. 기자님이 추워하셔서요.
 
 130. LEZCANO: No voy a tirar de la manta por nadie, ya lo habrá entendido. Pero usted y yo tenemos un amigo en común que le aprecia mucho. Me pidió que, si le conocía, le tratara bien. Creo que lo he hecho.
     레스카노: 제가 누구를 위해서든 판을 뒤엎을 생각이 없다는 건 이제 아셨겠죠. 그런데 당신과 나한텐 당신을 아주 아끼는 공통의 친구가 있어요. 혹시 당신을 만나면 잘 대해 달라고 하더군요. 그렇게 한 것 같네요.
 
-131. ÁLVARO: ¿Qué amigo?
-    알바로: 무슨 친구요?
+131. ÁLVARO: ¿Qué amigo, señor Lezcano? Yo no tengo tantos amigos como usted cree.
+    알바로: 무슨 친구요, 대표님? 저는 생각하시는 것만큼 친구가 많지 않습니다.
 
 132. LEZCANO: Salude a Ignacio de mi parte.
     레스카노: 이그나시오한테 제 안부 전해 주세요.
