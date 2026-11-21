@@ -75,8 +75,8 @@
 020. TESS: On the phone you said you wanted me to see it before anybody else did. Why?
     테스: 전화로 다른 누구보다 제가 먼저 보길 원한다고 하셨죠. 왜죠?
 
-021. DECLAN: Because I've watched money for twenty-one years. The first person to report a strange deposit is almost never the person who ordered it.
-    데클런: 21년 동안 돈을 지켜봤으니까요. 이상한 입금을 제일 먼저 신고하는 사람은 거의 절대 그걸 시킨 사람이 아니에요.
+021. DECLAN: Because you told me to. "If anybody offers you money, call me first. Before you count it." And the first person to report a strange deposit is almost never the person who ordered it.
+    데클런: 당신이 그러라고 했잖아요. "누가 돈을 주겠다고 하면 나한테 먼저 전화해요. 세어 보기 전에." 그리고 이상한 입금을 제일 먼저 신고하는 사람은 거의 절대 그걸 시킨 사람이 아니에요.
 
 022. TESS: Almost never.
     테스: '거의' 절대.
@@ -372,7 +372,7 @@
 119. DECLAN: And listen to "wire." I've said "wyah" for forty-six years. That voice says "wire," slow and careful, with the R. That's not how I talk. That's how I was told to talk.
     데클런: 그리고 '와이어'를 들어 봐요. 난 46년 동안 '와이아'라고 했어요. 저 목소리는 '와이어r', 천천히 또박또박, R까지 다 발음해요. 내 말투가 아니에요. 그렇게 말하라고 시켜서 하던 말투예요.
 
-120. TESS: Told by who?
+120. TESS: Told by whom?
     테스: 누가 시켰는데요?
 
 121. DECLAN: In 2019, I taught for six months at the Agency. A threat finance course for new analysts. The training office recorded every class for its internal library.
@@ -408,11 +408,11 @@
 131. DECLAN: I'm saying the voice came from Langley. I'm not saying who. I'm an accountant. I don't guess names. I follow paper.
     데클런: 목소리가 랭글리에서 나왔다는 거예요. 누군지는 말 안 해요. 난 회계사예요. 이름을 찍지 않아요. 서류를 따라가지.
 
-132. TESS: The call that opened my file came from your old agency too. "Someone at your old agency is worried about you." That's what I told you at your door.
-    테스: 제 사건 파일을 열게 한 전화도 당신 옛 직장에서 왔어요. "옛 직장의 누군가가 당신을 걱정하고 있어요." 제가 당신 집 문 앞에서 한 말이죠.
+132. TESS: The referral that opened my file came from your old agency too. It knew about your green notebook, your pencils, even how you take your coffee.
+    테스: 제 사건 파일을 열게 한 제보도 당신 옛 직장에서 왔어요. 당신의 초록 수첩, 연필, 커피를 어떻게 마시는지까지 알고 있었죠.
 
-133. DECLAN: I remember. You brought Dunkin'. I almost trusted you.
-    데클런: 기억해요. 던킨 사 왔잖아요. 하마터면 믿을 뻔했어요.
+133. DECLAN: I remember. That's not a stranger. Only somebody who sat near me for years knows that.
+    데클런: 기억해요. 그건 모르는 사람이 아니에요. 그런 건 몇 년 동안 내 근처에 앉았던 사람만 알아요.
 
 134. TESS: I'm going to request those training recordings. Officially. It'll take weeks, and somebody over there will know I asked. In my experience, the people who say no fastest have the most to hide.
     테스: 그 교육 녹화본, 정식으로 요청할 거예요. 몇 주 걸릴 거고, 저쪽 누군가는 제가 요청한 걸 알게 되겠죠. 제 경험상, 제일 빨리 안 된다고 하는 사람이 숨길 게 제일 많아요.
@@ -420,8 +420,8 @@
 135. DECLAN: Then be careful who you ask. And how you ask it.
     데클런: 그럼 누구한테 묻는지 조심해요. 어떻게 묻는지도.
 
-136. TESS: Is that advice or a threat, Mr. Walsh?
-    테스: 그거 충고예요, 협박이에요, 월시 씨?
+136. TESS: Whom. My mother taught high-school English in El Paso for thirty years. And is that advice or a threat?
+    테스: '누구를'이죠. 우리 엄마가 엘패소에서 30년 동안 고등학교 영어 선생님이었거든요. 그리고 그거 충고예요, 협박이에요?
 
 137. DECLAN: Advice. From somebody who used to work there. Over there, people notice who's asking questions.
     데클런: 충고요. 거기서 일했던 사람의. 거긴 누가 질문하고 다니는지 다 눈치채요.
@@ -444,8 +444,8 @@
 143. DECLAN: Can I at least take the coffee with me?
     데클런: 커피라도 들고 가도 돼요?
 
-144. TESS: Please take it. Our coffee is so bad the Bureau classified the recipe. To protect the public.
-    테스: 제발 가져가요. 우리 커피는 너무 맛없어서 FBI가 레시피를 기밀로 지정했어요. 국민을 보호하려고요.
+144. TESS: Please take it. Our coffee is so bad the Bureau classified the recipe. To protect the public. It makes me miss Dunkin', and I don't even like Dunkin'.
+    테스: 제발 가져가요. 우리 커피는 너무 맛없어서 FBI가 레시피를 기밀로 지정했어요. 국민을 보호하려고요. 던킨 좋아하지도 않는 나까지 던킨이 그리워진다니까.
 
 145. DECLAN: Agent Ochoa. Was that a joke? Did you just make a joke?
     데클런: 오초아 요원. 방금 그거 농담이에요? 지금 농담한 거예요?
@@ -453,14 +453,14 @@
 146. TESS: Don't tell anyone. I have a reputation in this building. Anything else?
     테스: 아무한테도 말하지 마요. 이 건물에서 내 평판이 있거든. 다른 건요?
 
-147. DECLAN: One thing. A gray Honda Accord. Since February it's followed me on K Street, parked outside my building, and showed up outside the Hay-Adams. I figured it was yours.
-    데클런: 하나요. 회색 혼다 어코드. 2월부터 K 스트리트에서 날 따라왔고, 우리 건물 앞에 서 있었고, 헤이애덤스 앞에도 나타났어요. 당신네 차인 줄 알았는데.
+147. DECLAN: One thing. The gray Honda Accord. Last month you said you don't discuss cars, and you told me to get the plate.
+    데클런: 하나요. 회색 혼다 어코드. 지난달에 차 얘기는 안 한다고 했죠. 번호판이나 따 오라고.
 
-148. TESS: Did you ever get the plate?
-    테스: 번호판은 봤어요?
+148. TESS: Did you?
+    테스: 땄어요?
 
-149. DECLAN: Never. It always stays three cars back. Very professional. So I figured, FBI. Am I wrong?
-    데클런: 한 번도요. 항상 세 대 뒤에 있어요. 아주 프로답게. 그래서 FBI겠거니 했죠. 아니에요?
+149. DECLAN: Never. K Street, outside my building, outside the Hay-Adams. It always stays three cars back. Very professional. So I figured, FBI. Am I wrong?
+    데클런: 한 번도 못 땄어요. K 스트리트, 우리 건물 앞, 헤이애덤스 앞. 항상 세 대 뒤에 있어요. 아주 프로답게. 그래서 FBI겠거니 했죠. 아니에요?
 
 150. TESS: Not us.
     테스: 우리 아니야.
