@@ -22,8 +22,8 @@
 002. RENATA: ¿Neta vas a pasar todo el viaje mirando a España por la ventana? Desde aquí se ve igual.
     레나타: 진짜 가는 내내 창밖으로 스페인만 보고 있을 거야? 여기서 봐도 똑같은데.
 
-003. ÁLVARO: No se ve igual. Desde aquí parece pequeña. Y tranquila.
-    알바로: 안 똑같아. 여기서 보면 작아 보여. 그리고 평화로워 보이고.
+003. ÁLVARO: No se ve igual. Desde aquí parece pequeña y tranquila, como si allí nadie me estuviera buscando.
+    알바로: 안 똑같아. 여기서 보면 작고 평화로워 보여. 거기서 아무도 날 찾고 있지 않은 것처럼.
 
 004. RENATA: Pues no lo es. Anoche tu foto salió otra vez en el telediario, con barba y sin barba.
     레나타: 근데 안 그렇잖아. 어젯밤 뉴스에 네 사진 또 나왔어. 수염 있는 거랑 없는 거.
@@ -43,14 +43,14 @@
 009. ÁLVARO: El bueno es caro y el malo se vende igual. Como los pasaportes de Paco.
     알바로: 좋은 건 비싸고, 나쁜 것도 어쨌든 팔린다는 거. 파코가 구해 준 여권처럼.
 
-010. RENATA: Mi móvil. Es Rocío.
-    레나타: 내 폰이야. 로시오야.
+010. RENATA: Espérate, me está sonando el móvil. Es Rocío; te la paso, que pregunta por ti.
+    레나타: 잠깐, 내 폰 울린다. 로시오야. 바꿔 줄게, 너 찾아.
 
 011. ROCÍO: Illo, ¿ya estáis llegando? Os veo el barco desde el puerto de Tarifa, pequeñito como una zapatilla.
     로시오: 얘, 거의 다 왔어? 타리파 항에서 배 보여. 슬리퍼만 하게 쪼그매.
 
-012. ÁLVARO: Veinte minutos. Gracias por lo del control. Tu compañero ni miró la foto.
-    알바로: 20분 남았어. 출국 심사 고마워. 네 동료는 사진도 안 보더라.
+012. ÁLVARO: Veinte minutos. Gracias por lo del control de Tarifa; tu compañero ni siquiera miró la foto del pasaporte.
+    알바로: 20분 남았어. 타리파 출국 심사 고마워. 네 동료는 여권 사진도 안 보더라.
 
 013. ROCÍO: Porque le dije que eras mi primo de Jerez y que te daba vergüenza la barba. Si te hubiera mirado dos segundos más, te habría reconocido, que sales en la tele más que el tiempo.
     로시오: 헤레스 사는 내 사촌인데 수염 때문에 부끄러워한다고 했거든. 2초만 더 봤으면 알아봤을걸. 너 요즘 일기예보보다 TV에 더 자주 나오잖아.
@@ -61,8 +61,8 @@
 015. ROCÍO: Yassin viene siempre. Trabajamos juntos en una operación de hachís en el veinticinco: él ponía los nombres y nosotros las lanchas. Es educado, es listo y no da nada gratis.
     로시오: 야신은 늘 나와. 2025년에 해시시 합동 작전 같이 했거든. 그쪽은 이름을 대고, 우린 보트를 댔지. 예의 바르고, 똑똑하고, 공짜는 절대 없어.
 
-016. RENATA: ¿Y es de confianza?
-    레나타: 믿을 만한 사람이야?
+016. RENATA: ¿Y es de confianza? Porque yo, de los espías, ya sabes lo que pienso.
+    레나타: 믿을 만한 사람이야? 나 스파이들 어떻게 생각하는지 알잖아.
 
 017. ROCÍO: Miarma, en el Estrecho nadie es de confianza. Pero cuando Yassin promete algo, lo cumple. Y cuando le debes algo, también te lo cobra.
     로시오: 언니, 해협에 믿을 만한 사람은 없어. 근데 야신은 약속하면 지켜. 그리고 빚지면 그것도 꼭 받아 가.
@@ -73,14 +73,14 @@
 019. ROCÍO: Le dije que iba un amigo con problemas. Lo demás lo habrá averiguado él solito antes de que yo colgara.
     로시오: 사정 있는 친구 하나 간다고만 했어. 나머진 내가 전화 끊기도 전에 혼자 다 알아냈겠지.
 
-020. RENATA: Qué tranquilizador.
-    레나타: 퍽이나 안심되네.
+020. RENATA: Qué tranquilizador. Un espía que lo sabe todo antes de que le cuelguen.
+    레나타: 퍽이나 안심되네. 전화 끊기도 전에 다 아는 스파이라니.
 
 021. ROCÍO: Una cosa más, Gato. Allí no tengo placa ni lancha. Si os metéis en un lío, no puedo cruzar a sacaros. Aquí el mar no perdona, y allí tampoco.
     로시오: 하나 더, 가토. 거기선 나 배지도 없고 보트도 없어. 너희가 사고 쳐도 건너가서 꺼내 줄 수가 없어. 여기 바다도 봐주는 거 없지만, 거기도 마찬가지야.
 
-022. ÁLVARO: Despacito y con buena letra. Te llamo esta noche.
-    알바로: 천천히, 또박또박. 오늘 밤에 전화할게.
+022. ÁLVARO: Despacito y con buena letra, como decía mi padre. Te llamo esta noche desde donde pueda.
+    알바로: 천천히, 또박또박. 우리 아버지 말처럼. 오늘 밤에 어디서든 전화할게.
 
 023. MEGAFONÍA: Atención, por favor. El pasajero Andrés Gil Moreno debe presentarse en la oficina de policía de la terminal. Gracias.
     선내 방송: 안내 말씀 드립니다. 승객 안드레스 힐 모레노 씨는 터미널 경찰 사무실로 와 주시기 바랍니다. 감사합니다.
@@ -88,8 +88,8 @@
 024. RENATA: Álvaro. Te están llamando a ti. Con tu nombre falso.
     레나타: 알바로. 너 부르는 거야. 네 가짜 이름으로.
 
-025. ÁLVARO: Ya lo he oído. Tú quédate detrás y no digas que eres periodista.
-    알바로: 들었어. 넌 뒤에 있고, 기자라는 말 하지 마.
+025. ÁLVARO: Ya lo he oído. Tú quédate detrás de mí y, pase lo que pase, no digas que eres periodista.
+    알바로: 들었어. 넌 내 뒤에 있고, 무슨 일이 있어도 기자라는 말 하지 마.
 
 026. RENATA: ¿Y qué digo, que soy tu esposa? Ni lo sueñes.
     레나타: 그럼 뭐라고 해, 네 와이프라고? 꿈도 꾸지 마.
@@ -103,8 +103,8 @@
 029. YASSIN: Depende de lo que hablemos estos dos días. Yassin Alaoui. La sargento Benítez me habló de un comercial de aceite. Nunca he visto a un comercial con esos ojos.
     야신: 앞으로 이틀간 무슨 얘기를 하느냐에 달렸지요. 야신 알라위입니다. 베니테스 경사가 올리브유 영업사원이 간다더군요. 그런 눈을 한 영업사원은 처음 봅니다.
 
-030. ÁLVARO: ¿Qué ojos?
-    알바로: 무슨 눈요?
+030. ÁLVARO: ¿Qué ojos? Llevo tres noches sin dormir; serán los de un hombre cansado.
+    알바로: 무슨 눈요? 사흘째 못 잤으니, 피곤한 사람 눈이겠죠.
 
 031. YASSIN: Los de un hombre que cuenta las salidas antes de sentarse. Hay tres, por cierto: la puerta, la ventana y yo.
     야신: 앉기 전에 출구부터 세는 사람의 눈이요. 참고로 세 개입니다. 문, 창문, 그리고 저.
@@ -142,14 +142,14 @@
 042. YASSIN: Antes del dinero, una pregunta. ¿Ha traído usted un teléfono?
     야신: 돈 얘기 전에 질문 하나. 휴대전화 가져오셨습니까?
 
-043. ÁLVARO: Un prepago que compré en Barbate. Lo apagué en el barco.
-    알바로: 바르바테에서 산 선불폰 하나요. 배에서 껐습니다.
+043. ÁLVARO: Un prepago que compré en un estanco de Barbate. Lo apagué en el barco, antes de ver África.
+    알바로: 바르바테 담배 가게에서 산 선불폰 하나요. 아프리카가 보이기 전에 배에서 껐습니다.
 
 044. YASSIN: Quítele también la batería, por favor, y póngala sobre la mesa. No es nada personal. Es una vieja costumbre entre nuestros dos países.
     야신: 배터리도 빼서 테이블 위에 올려 주십시오. 개인적인 감정은 아닙니다. 우리 두 나라 사이의 오래된 습관일 뿐이지요.
 
-045. RENATA: ¿Qué costumbre?
-    레나타: 무슨 습관요?
+045. RENATA: ¿Qué costumbre? Porque en México también tenemos unas cuantas con los teléfonos.
+    레나타: 무슨 습관요? 멕시코에도 전화기 관련 습관은 꽤 있거든요.
 
 046. YASSIN: La de sospechar que el teléfono del vecino nos escucha. Hace unos años, sus periódicos escribieron que nosotros habíamos escuchado los móviles de sus ministros.
     야신: 이웃집 전화가 우릴 엿듣고 있다고 의심하는 습관이요. 몇 년 전 그쪽 신문들이 우리가 스페인 장관들 휴대전화를 엿들었다고 썼지요.
@@ -160,14 +160,14 @@
 048. YASSIN: Dijimos que era una novela. Y nuestros periódicos escribieron otra: que desde Madrid se escuchaba a medio Rabat. Cada país leyó la que le convenía.
     야신: 소설이라고 했지요. 그리고 우리 신문들은 또 다른 소설을 썼습니다. 마드리드에서 라바트 절반을 도청한다고요. 각 나라가 자기 입맛에 맞는 소설을 읽은 겁니다.
 
-049. ÁLVARO: ¿Y cuál era la verdad?
-    알바로: 그럼 진실은 뭐였습니까?
+049. ÁLVARO: ¿Y cuál era la verdad? Usted tiene que saberlo mejor que los periódicos.
+    알바로: 그럼 진실은 뭐였습니까? 신문보다야 당신이 더 잘 알 텐데요.
 
 050. YASSIN: Si yo la supiera entera, no estaría tomando té con un fugitivo. Estaría en un despacho mucho más grande.
     야신: 제가 그걸 다 알았다면 도망자랑 차나 마시고 있진 않겠지요. 훨씬 큰 사무실에 앉아 있을 겁니다.
 
-051. RENATA: No contestó.
-    레나타: 대답 안 하셨네요.
+051. RENATA: No contestó a la pregunta, Álvaro. Lo dijo todo muy bonito, pero no contestó.
+    레나타: 대답 안 했어, 알바로. 말은 아주 근사하게 했는데, 대답은 안 했어.
 
 052. YASSIN: Exactement. Es lo que hacemos los dos lados desde hace años. Ustedes nos miran como a un vecino que roba; nosotros, a ustedes, como a un vecino que da lecciones con la casa sucia.
     야신: 바로 그겁니다. 양쪽이 몇 년째 해 온 일이 그거지요. 그쪽은 우릴 도둑질하는 이웃으로 보고, 우린 그쪽을 집은 지저분하면서 훈계하는 이웃으로 보고.
@@ -196,8 +196,8 @@
 060. YASSIN: Una historia. En la primavera del año pasado, mi teléfono empezó a calentarse por las noches, sin motivo. Mis técnicos encontraron algo dentro, muy elegante, con una curva extraña en el código.
     야신: 이야기 하나. 작년 봄, 제 전화기가 밤마다 이유 없이 뜨거워지기 시작했습니다. 기술팀이 안에서 뭔가를 찾아냈지요. 아주 우아하고, 코드에 이상한 곡선이 들어 있는 놈을.
 
-061. ÁLVARO: ¿Qué curva?
-    알바로: 무슨 곡선요?
+061. ÁLVARO: ¿Qué tipo de curva? Descríbamela con detalle, por favor, porque es importante.
+    알바로: 어떤 곡선요? 자세히 말씀해 주세요. 중요한 거라서요.
 
 062. YASSIN: Una parábola, me dijeron. Como una cuerda que cuelga entre dos postes. De matemáticas sé poco. De cuerdas que cuelgan, en mi oficio, bastante.
     야신: 포물선이라더군요. 두 기둥 사이에 늘어진 밧줄 같은. 수학은 잘 모릅니다. 늘어진 밧줄이라면, 제 직업상 꽤 알지만요.
@@ -205,8 +205,8 @@
 063. RENATA: Álvaro… eso es lo de Julio. Su teléfono, en Madrid, en agosto del veintiséis.
     레나타: 알바로… 그거 훌리오 거잖아. 2026년 8월, 마드리드에서 그 사람 폰.
 
-064. ÁLVARO: La primera versión de CATENARIA. Antes de Barcelona. ¿Y quién se lo metió a usted?
-    알바로: 카테나리아 초기 버전이네요. 바르셀로나 전이죠. 그래서 누가 당신 폰에 심었습니까?
+064. ÁLVARO: La primera versión de CATENARIA, la de antes de Barcelona. ¿Y quién se lo metió a usted en el teléfono?
+    알바로: 카테나리아 초기 버전이네요. 바르셀로나 이전 거. 그래서 누가 당신 전화에 그걸 심었습니까?
 
 065. YASSIN: Durante meses estuve convencido de que habían sido ustedes, los españoles. Lo escribí en un informe, con mucha seguridad y bastante rabia.
     야신: 몇 달 동안 당신들, 스페인 쪽이라고 확신했습니다. 보고서에도 그렇게 썼지요. 아주 자신 있게, 꽤 화가 나서.
@@ -223,8 +223,8 @@
 069. RENATA: Vender el veneno y después el antídoto. Sigue el dinero, no al muerto.
     레나타: 독을 팔고, 그다음엔 해독제를 파는 거죠. 시체 말고 돈을 따라가라.
 
-070. YASSIN: Joli. ¿Es suyo?
-    야신: 멋진 말이군요. 직접 하신 말입니까?
+070. YASSIN: Joli. Muy bien dicho, madame. ¿Es suyo, o de algún libro?
+    야신: 멋진 말이군요, 부인. 직접 하신 말입니까, 아니면 어느 책에서?
 
 071. RENATA: Es mío. Me costó un compañero.
     레나타: 제 말이에요. 동료 한 명 잃고 얻은 말이죠.
@@ -238,20 +238,20 @@
 074. YASSIN: Mire hacia abajo, a la derecha. La casa blanca de la puerta verde, con la terraza llena de buganvillas. Dar Hercule.
     야신: 아래 오른쪽을 보십시오. 초록 대문에 테라스가 부겐빌레아로 가득한 하얀 집. 다르 에르퀼.
 
-075. RENATA: ¿Un hotel?
-    레나타: 호텔이요?
+075. RENATA: ¿Un hotel? ¿El dinero de Albar se fue a pagar un hotelito con flores?
+    레나타: 호텔이요? 알바르 돈이 꽃 핀 작은 호텔 사는 데 갔다고요?
 
 076. YASSIN: Un riad para turistas con buen gusto. Lo compró hace un año una sociedad de Tánger, Hercule Immobilier, cuyo único socio es una empresa de Gibraltar que ustedes conocen bien.
     야신: 안목 있는 관광객을 위한 리아드지요. 1년 전 탕헤르 법인 에르퀼 이모빌리에가 샀습니다. 그 회사의 유일한 주주가 두 분이 잘 아시는 지브롤터 회사고요.
 
-077. ÁLVARO: Atalaya Advisory.
-    알바로: 아탈라야 어드바이저리.
+077. ÁLVARO: Atalaya Advisory. La misma que pagó seis millones por CATENARIA.
+    알바로: 아탈라야 어드바이저리. 카테나리아에 600만을 낸 바로 그 회사.
 
 078. YASSIN: Voilà. Un millón doscientos mil euros en reformas, con facturas de Construcciones Albar por azulejos que nunca llegaron. Los azulejos de ese riad tienen cien años. Los he hecho contar.
     야신: 바로 그겁니다. 리모델링비 120만 유로. 콘스트루크시오네스 알바르가 끊은 송장인데, 타일은 한 장도 안 왔지요. 그 리아드 타일은 백 년 된 겁니다. 제가 세어 보게 했거든요.
 
-079. RENATA: ¿Mandó contar los azulejos?
-    레나타: 타일을 세어 보게 했다고요?
+079. RENATA: ¿Mandó contar los azulejos? ¿Uno por uno, como en un examen?
+    레나타: 타일을 세어 보게 했다고요? 시험 보듯이 하나하나?
 
 080. YASSIN: A uno de mis hombres. Le pagué un té por cada cien. Está apuntado.
     야신: 부하 한 명한테요. 백 장마다 차 한 잔씩 줬습니다. 적혀 있습니다.
@@ -262,8 +262,8 @@
 082. YASSIN: En el cabo Espartel. Dicen que Hércules descansó allí después de separar África de Europa. Su hombre tiene sentido del humor: compra una casa con el nombre del que puso los límites del mundo.
     야신: 스파르텔 곶에 있지요. 헤라클레스가 아프리카와 유럽을 갈라놓고 거기서 쉬었다고들 합니다. 그 사람, 유머 감각이 있군요. 세상의 끝을 정한 자의 이름으로 집을 사다니.
 
-083. ÁLVARO: Ese hombre no es mi amigo. Fue mi amigo.
-    알바로: 그 사람 내 친구 아닙니다. 친구였죠.
+083. ÁLVARO: Ese hombre no es mi amigo. Fue mi amigo durante veinte años, que no es lo mismo.
+    알바로: 그 사람 내 친구 아닙니다. 20년 동안 친구였죠. 그건 다른 얘기고요.
 
 084. YASSIN: En mi experiencia, esos son los más peligrosos. Un enemigo nuevo todavía no sabe dónde le duele a uno.
     야신: 제 경험상 그런 사람이 제일 위험합니다. 새 적은 아직 어디가 아픈지 모르니까요.
@@ -280,14 +280,14 @@
 088. YASSIN: No sé qué es un pitufo, pero me gusta la palabra. Sé que alguien compra teléfonos baratos y tarjetas de prepago por cientos. Y quiero que mañana ustedes vean ese riad por dentro.
     야신: 스머프가 뭔지는 모르겠지만 단어가 마음에 드는군요. 제가 아는 건 누군가 싸구려 휴대전화와 선불 유심을 수백 개씩 사들인다는 겁니다. 그리고 내일 두 분이 그 리아드 안을 봐 주셨으면 합니다.
 
-089. RENATA: ¿Nosotros? ¿Por qué no entra usted? Es su país.
-    레나타: 우리가요? 왜 직접 안 들어가세요? 그쪽 나라잖아요.
+089. RENATA: ¿Nosotros? ¿Y por qué no entra usted, con una orden y diez policías? Es su país, no el nuestro.
+    레나타: 우리가요? 왜 영장이랑 경찰 열 명 데리고 직접 안 들어가세요? 그쪽 나라지, 우리 나라가 아니잖아요.
 
 090. YASSIN: Porque si entro yo, es una operación y tengo que pedir permiso. Si entran dos turistas, es una reserva. Y una mexicana con un marido de Jerez es la pareja más inocente del mundo.
     야신: 제가 들어가면 작전이 되고, 허가를 받아야 하거든요. 관광객 둘이 들어가면 그냥 예약이지요. 멕시코 여자와 헤레스 출신 남편이라니, 세상에서 제일 순진한 부부 아닙니까.
 
-091. ÁLVARO: ¿Marido?
-    알바로: 남편요?
+091. ÁLVARO: ¿Marido? Nadie me ha preguntado si quería volver a casarme.
+    알바로: 남편요? 내가 다시 결혼하고 싶은지는 아무도 안 물어봤는데요.
 
 092. RENATA: Ni lo sueñes, Andrés.
     레나타: 꿈도 꾸지 마, 안드레스.
@@ -304,8 +304,8 @@
 096. GERENTE: El señor parece cansado. El viaje desde España es corto, pero a veces pesa mucho.
     지배인: 바깥분이 피곤해 보이시네요. 스페인에서 오는 길은 짧아도 가끔은 무겁지요.
 
-097. ÁLVARO: Pesa lo suyo, sí. ¿Tienen muchos huéspedes estos días?
-    알바로: 꽤 무겁네요, 네. 요즘 손님 많아요?
+097. ÁLVARO: Pesa lo suyo, sí. ¿Y tienen muchos huéspedes estos días, o estamos solos en este palacio?
+    알바로: 꽤 무겁네요, 네. 요즘 손님 많아요, 아니면 이 궁전에 저희만 있는 건가요?
 
 098. GERENTE: Pocos. En agosto todo el mundo se va a la playa. Solo ustedes y un señor español en la terraza, que viene por negocios.
     지배인: 별로요. 8월엔 다들 바다로 가니까요. 두 분이랑, 테라스에 계신 스페인 분 한 분뿐이에요. 사업차 오셨대요.
@@ -322,8 +322,8 @@
 102. ÁLVARO: No te gires. Hugo Sáez. El de la azotea de la calle Mallorca. El que le metió una bala en el hombro a Oriol.
     알바로: 돌아보지 마. 우고 사에스. 마요르카 거리 옥상에 있던 놈. 오리올 어깨에 총알 박은 놈이야.
 
-103. RENATA: ¿El exlegionario? ¿El que según Atalaya ya no trabajaba para ellos?
-    레나타: 그 전직 외인부대? 아탈라야 말로는 이제 자기들 직원 아니라던 그 사람?
+103. RENATA: ¿El exlegionario? ¿El que según los abogados de Atalaya ya no trabajaba para ellos desde enero?
+    레나타: 그 전직 외인부대? 아탈라야 변호사들 말로는 1월부터 자기들 직원 아니라던 그 사람?
 
 104. ÁLVARO: Con carta de despido y todo. Si en marzo le hubiera pillado en esa azotea, hoy no estaría aquí tomando el sol con el dinero de Albar.
     알바로: 해고장까지 들고 와서 말이지. 3월에 그 옥상에서 잡았으면, 오늘 여기서 알바르 돈으로 일광욕이나 하고 있진 않을 텐데.
@@ -346,8 +346,8 @@
 110. ÁLVARO: Cajas. Decenas de cajas de teléfonos baratos, sin abrir. Tarjetas de prepago en paquetes de cien. Y un papel en francés y en árabe, pegado a la pared.
     알바로: 상자. 싸구려 휴대폰 상자 수십 개, 뜯지도 않았어. 선불 유심은 백 개씩 묶음이고. 그리고 벽에 프랑스어랑 아랍어로 된 종이가 붙어 있어.
 
-111. RENATA: ¿Qué pone?
-    레나타: 뭐라고 쓰여 있어?
+111. RENATA: ¿Qué pone? Léemelo rápido, que el gerente puede volver en cualquier momento.
+    레나타: 뭐라고 쓰여 있어? 빨리 읽어 줘, 지배인 언제 올지 몰라.
 
 112. ÁLVARO: El árabe no lo leo. Pero hay una hora, las seis de la mañana, y una palabra escrita a mano en español: "Tarajal".
     알바로: 아랍어는 못 읽어. 근데 시간이 있어. 아침 6시. 그리고 손으로 쓴 스페인어 단어 하나. '타라할'.
@@ -358,8 +358,8 @@
 114. GERENTE: Su té, monsieur. ¿Se ha perdido? El almacén no es para los huéspedes.
     지배인: 차 나왔습니다, 손님. 길을 잃으셨나요? 창고는 손님용이 아닌데요.
 
-115. ÁLVARO: Buscaba el baño. En estas casas tan bonitas uno se pierde enseguida.
-    알바로: 화장실 찾다가요. 이렇게 예쁜 집에선 금방 길을 잃네요.
+115. ÁLVARO: Buscaba el baño, perdone. En estas casas tan bonitas uno se pierde enseguida, todas las puertas parecen iguales.
+    알바로: 화장실 찾다가요, 죄송합니다. 이렇게 예쁜 집에선 금방 길을 잃네요. 문이 다 똑같아 보여서.
 
 116. GERENTE: El baño está en su suite, monsieur. Como en todas las suites.
     지배인: 화장실은 스위트 안에 있습니다, 손님. 모든 스위트가 그렇듯이요.
@@ -367,8 +367,8 @@
 117. YASSIN: Tarajal es la playa de Ceuta pegada a la frontera, al lado del espigón. He traducido su foto del papel, mon ami. Es un guion para un audio de WhatsApp, en darija.
     야신: 타라할은 국경에 붙은 세우타 해변이지요. 방파제 바로 옆. 사진 찍어 오신 종이 번역했습니다. 왓츠앱 음성 메시지용 대본이더군요. 다리자로.
 
-118. RENATA: ¿Y qué dice el guion?
-    레나타: 대본엔 뭐라고 돼 있어요?
+118. RENATA: ¿Y qué dice exactamente el guion? Tradúzcamelo palabra por palabra, por favor.
+    레나타: 대본엔 정확히 뭐라고 돼 있어요? 한 단어씩 번역해 주세요.
 
 119. YASSIN: Que el sábado, a las seis, la frontera estará abierta y que la policía de los dos lados tiene orden de no hacer nada. Con la voz grabada, cientos de teléfonos nuevos lo pueden repetir en una noche.
     야신: 토요일 6시에 국경이 열리고, 양쪽 경찰 모두 아무것도 하지 말라는 명령을 받았다고요. 녹음된 목소리 하나면, 새 전화기 수백 대가 하룻밤 사이에 그 말을 퍼뜨릴 수 있지요.
@@ -376,14 +376,14 @@
 120. YASSIN: En mayo del veintiuno, de este lado alguien decidió mirar hacia otra parte, y del suyo alguien había hecho antes algo a escondidas que aquí dolió mucho. Si alguien me lo hubiera contado entonces, no lo habría creído.
     야신: 2021년 5월, 이쪽에선 누군가 못 본 척하기로 했지요. 그 전에 그쪽에선 누군가 몰래 한 일이 있었고, 그게 여기선 아주 아팠습니다. 그때 누가 이런 일이 생길 거라고 했으면, 전 안 믿었을 겁니다.
 
-121. ÁLVARO: ¿Y ahora?
-    알바로: 지금은요?
+121. ÁLVARO: ¿Y ahora? ¿Quién abre la puerta esta vez, si no es nadie de aquí?
+    알바로: 그럼 이번엔요? 여기 사람이 아니면 이번엔 누가 문을 엽니까?
 
 122. YASSIN: Ahora nadie abre ninguna puerta. Alguien les dirá a los chicos que está abierta, aunque no lo esté. Es más barato. Y nadie firma nada.
     야신: 지금은 아무도 문을 안 엽니다. 누군가 아이들한테 문이 열렸다고 말할 뿐이지요. 안 열렸는데도요. 그게 더 싸고, 아무도 서명할 필요가 없으니까.
 
-123. ÁLVARO: ¿Me deja su teléfono? Una llamada a Madrid. Dos minutos.
-    알바로: 전화 좀 빌려주시겠습니까? 마드리드에 한 통. 2분이면 됩니다.
+123. ÁLVARO: ¿Me deja su teléfono un momento? Es una llamada a Madrid, a mi padre. Dos minutos, no más.
+    알바로: 전화 잠깐 빌려주시겠습니까? 마드리드에, 아버지한테 거는 겁니다. 2분이면 됩니다.
 
 124. YASSIN: Bien sûr. Así sabremos quién escucha a quién. Una llamada a Madrid: apuntada.
     야신: 물론이지요. 그러면 누가 누굴 엿듣는지 알게 되겠군요. 마드리드 통화 한 통. 적어 뒀습니다.

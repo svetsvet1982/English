@@ -65,8 +65,8 @@
 016. IKER: Es el día antes de votar. Por ley, hoy no se puede hacer campaña: ni mítines, ni carteles nuevos, ni pedir el voto. Los partidos se callan y los ciudadanos, en teoría, reflexionan.
     이케르: 투표 전날이에요. 법적으로 오늘은 선거운동을 못 해요. 유세도, 새 포스터도, 표 달라는 말도 안 돼요. 정당들은 입 다물고, 시민들은 이론상 숙고하는 거죠.
 
-017. OKSANA: ¿Y en la práctica?
-    옥사나: 실제로는?
+017. OKSANA: ¿Y en la práctica? Porque en mi país la teoría y la práctica no se hablan.
+    옥사나: 실제로는? 우리나라에선 이론이랑 실제가 서로 말도 안 섞거든.
 
 018. ÁLVARO: En la práctica, la gente hace la compra y discute en los grupos de WhatsApp de la familia.
     알바로: 실제로는 다들 장 보고, 가족 왓츠앱 단톡방에서 싸우지.
@@ -119,8 +119,8 @@
 034. RENATA: Gato. Mira esto. Acaba de salir.
     레나타: 가토. 이거 봐. 방금 떴어.
 
-035. ÁLVARO: ¿Qué hora es?
-    알바로: 몇 시야?
+035. ÁLVARO: ¿Qué hora es? Quiero apuntar el minuto exacto en que empieza esto.
+    알바로: 몇 시야? 이게 시작된 정확한 분을 적어 두고 싶어.
 
 036. IKER: Las once y cuatro. Ya lo tienen tres cuentas grandes. Pon el volumen.
     이케르: 11시 4분. 벌써 큰 계정 세 개가 올렸어요. 소리 키워 봐요.
@@ -158,8 +158,8 @@
 047. NÚRIA: Esperad. Tengo otra cosa. Me acaba de escribir una periodista de Barcelona que conozco. Ha recibido un mensaje de un número de Interior.
     누리아: 잠깐. 또 있어. 아는 바르셀로나 기자가 방금 메시지 보냈어. 내무부 번호로 문자를 받았대.
 
-048. ÁLVARO: ¿Qué dice el mensaje?
-    알바로: 뭐라고 왔는데?
+048. ÁLVARO: ¿Qué dice exactamente el mensaje? Léemelo palabra por palabra, Núria.
+    알바로: 메시지가 정확히 뭐라고 돼 있어? 한 글자도 빼지 말고 읽어 줘, 누리아.
 
 049. NÚRIA: "Fuente oficial confirma el ataque. No publicar hasta las 13:00." Y a las once y once le ha llegado otro igual a un compañero suyo. Y a las once y dieciocho, a otro.
     누리아: "공식 소식통, 공격 확인. 13시까지 보도 유예." 그리고 11시 11분에 그 동료한테 똑같은 게 왔고, 11시 18분에 또 다른 사람한테.
@@ -239,8 +239,8 @@
 074. LUCÍA: Y he visto el vídeo ese del ministerio. Es falso, ¿verdad? Tiene cara de filtro. No me contestes. Ya sé que sí.
     루시아: 그리고 그 내무부 영상 봤어. 가짜지? 필터 낀 얼굴이야. 대답 안 해도 돼. 맞는 거 알아.
 
-075. ÁLVARO: Qué lista es. Más que su padre.
-    알바로: 똑똑하네. 지 아빠보다.
+075. ÁLVARO: Qué lista es, la jodía. Ha visto el truco antes que dos telediarios. Más que su padre.
+    알바로: 똑똑하네, 요 녀석. 뉴스 두 개보다 먼저 속임수를 알아봤어. 지 아빠보다 낫다.
 
 076. ENCARNA: Eso no es difícil, criatura.
     엥카르나: 그건 어려운 일도 아니지, 얘야.
@@ -248,8 +248,8 @@
 077. ROCÍO: Gato, ¿me oyes? Aquí Tarifa, el fin del mundo. Hace un levante que te arranca las cejas.
     로시오: 가토, 들려? 여기 타리파, 세상의 끝. 동풍이 눈썹까지 뜯어 갈 기세야.
 
-078. ÁLVARO: Te oigo. ¿Qué tienes?
-    알바로: 들려. 뭐 있어?
+078. ÁLVARO: Te oigo, Rocío, aunque con ese viento parece que hablas desde dentro de una lavadora. ¿Qué tienes?
+    알바로: 들려, 로시오. 바람 때문에 세탁기 안에서 말하는 것 같지만. 뭐 있어?
 
 079. ROCÍO: Dos cosas, y ninguna buena. La primera: el Marlin Star ha apagado el transpondedor esta mañana, a veinte millas de Trafalgar. Ya no sale en ningún mapa.
     로시오: 두 가지. 둘 다 안 좋아. 첫째. 마린 스타가 오늘 아침 트라팔가르에서 20마일 떨어진 데서 위치 송신기를 껐어. 이제 어떤 지도에도 안 나와.
@@ -260,11 +260,11 @@
 081. ROCÍO: O a alguien. La segunda: Paco dice que un señor de fuera ha pagado una lancha para mañana por la noche, en Bolonia. Sin luces, sin preguntas y en efectivo. Mucho efectivo.
     로시오: 아니면 누굴 태우러. 둘째. 파코 말이, 외지 사람 하나가 내일 밤 볼로니아에서 쾌속정을 예약했대. 불 끄고, 질문 없이, 현금으로. 그것도 현금을 엄청.
 
-082. ÁLVARO: ¿Para qué hora?
-    알바로: 몇 시로?
+082. ÁLVARO: ¿Para qué hora la han pedido? ¿Y sabe Paco quién la ha pagado?
+    알바로: 몇 시로 예약했대? 그리고 누가 돈 냈는지 파코가 알아?
 
-083. ROCÍO: Paco solo sabe que es después de medianoche. Illo, yo me quedo aquí. Si alguien quiere cruzar el Estrecho mañana, va a tener que pasar por encima de mí.
-    로시오: 파코도 자정 넘어서라는 것밖에 몰라. 얘, 난 여기 남을게. 내일 누가 해협 건너려면 날 밟고 지나가야 할 거야.
+083. ROCÍO: Paco solo sabe que es después de medianoche y que el que pagó hablaba muy fino. Illo, yo me quedo aquí. Si alguien quiere cruzar el Estrecho mañana, tendrá que pasar por encima de mí.
+    로시오: 파코도 자정 넘어서라는 거랑, 돈 낸 사람이 말투가 아주 고상했다는 것밖에 몰라. 얘, 난 여기 남을게. 내일 누가 해협 건너려면 날 밟고 지나가야 할 거야.
 
 084. ÁLVARO: Rocío, no hagas nada sola. Prométemelo.
     알바로: 로시오, 혼자서 아무것도 하지 마. 약속해.
@@ -272,20 +272,20 @@
 085. ROCÍO: Miarma, aquí sola no estoy nunca. Tengo el mar, a mi madre y a medio cuartel. Tú ocúpate de Madrid, que el sur es mío.
     로시오: 얘, 여기선 난 절대 혼자 아니야. 바다도 있고, 엄마도 있고, 초소 절반이 있어. 넌 마드리드나 챙겨. 남쪽은 내 거니까.
 
-086. IKER: Núria por la otra línea. Te la paso.
-    이케르: 누리아가 다른 회선에. 넘겨 줄게요.
+086. IKER: Núria está por la otra línea, y no suena nada tranquila. Te la paso ahora mismo.
+    이케르: 누리아가 다른 회선에 있어요. 목소리가 전혀 안 차분해요. 지금 넘겨 줄게요.
 
 087. NÚRIA: Gato, estamos delante de Escrutia. Hay dos vigilantes y un gato de verdad, negro, en el aparcamiento. Lo tomo como buena señal.
     누리아: 가토, 에스크루티아 앞이야. 경비원 둘이랑 진짜 고양이 한 마리, 검은 놈이 주차장에 있어. 좋은 징조로 칠게.
 
-088. ÁLVARO: ¿Qué has encontrado?
-    알바로: 뭐 찾았어?
+088. ÁLVARO: Deja al gato en paz y dime qué has encontrado dentro de esos servidores.
+    알바로: 고양이는 내버려 두고 그 서버 안에서 뭘 찾았는지 말해.
 
 089. NÚRIA: Tres cosas. Uno: dos miembros de la Junta Electoral tienen CAMPANAR en el móvil desde marzo. Fueron a un congreso en la Fira, mira tú por dónde.
     누리아: 세 가지. 하나. 선관위 위원 둘 폰에 3월부터 캄파나르가 있어. 피라에서 열린 학회에 갔었더라고, 하필이면.
 
-090. ÁLVARO: ¿Dos?
-    알바로: 둘째는?
+090. ÁLVARO: ¿Dos miembros de la Junta, nada menos? Vale, sigue. ¿Cuál es la segunda?
+    알바로: 선관위 위원이 둘이나? 좋아, 계속해. 두 번째는?
 
 091. NÚRIA: Dos: el ataque contra Escrutia ya está programado. No es para hoy. Es para mañana a las nueve y cuarto de la noche.
     누리아: 둘. 에스크루티아 공격은 이미 예약돼 있어. 오늘이 아니야. 내일 밤 9시 15분이야.
@@ -293,8 +293,8 @@
 092. IKER: Justo cuando salgan los primeros datos del provisional. Cuando media España esté mirando la tele con la cena en la mano.
     이케르: 딱 잠정 개표 첫 데이터가 나올 때네요. 스페인 절반이 저녁 들고 텔레비전 보고 있을 때.
 
-093. ÁLVARO: ¿Y la tercera?
-    알바로: 그럼 셋째는?
+093. ÁLVARO: Nueve y cuarto, apuntado. ¿Y la tercera? Dime que por lo menos es una buena noticia.
+    알바로: 9시 15분, 적었어. 셋째는? 적어도 좋은 소식이라고 해 줘.
 
 094. OKSANA: La tercera es mía. La subestación de Tres Cantos Norte tiene una orden de mantenimiento remoto para mañana a las nueve y media. La ha firmado un técnico que no existe.
     옥사나: 셋째는 내 거야. 트레스 칸토스 북부 변전소에 내일 9시 반 원격 점검 지시가 있어. 서명한 기술자는 존재하지 않는 사람이고.
@@ -302,7 +302,7 @@
 095. ÁLVARO: Nueve y cuarto, los servidores. Nueve y media, la luz.
     알바로: 9시 15분엔 서버. 9시 반엔 전기.
 
-096. OKSANA: Primero te roban los números; después te apagan la pantalla. Es la firma de Glev. Lo reconozco como reconocía las tormentas en Járkov.
+096. OKSANA: Primero te roban los números; después te apagan la pantalla. Es la firma de Gleb. Lo reconozco como reconocía las tormentas en Járkov.
     옥사나: 먼저 숫자를 훔치고, 그다음에 화면을 끄는 거야. 글레브 수법이야. 하르키우에서 폭풍 알아보던 것처럼 알아봐.
 
 097. OKSANA: Si no hubiera mirado el calendario de mantenimiento, no lo habríamos visto. Nadie mira esos calendarios. Son aburridos. Por eso esconden ahí las cosas.
@@ -323,14 +323,14 @@
 102. RENATA: El vídeo ya va por tres millones. Dos teles lo han emitido "con todas las cautelas", que es la forma elegante de decir que lo han emitido.
     레나타: 영상은 벌써 300만이야. 방송국 두 곳이 "신중을 기해" 내보냈대. 그냥 내보냈다는 걸 우아하게 말한 거지.
 
-103. ÁLVARO: ¿E Interior?
-    알바로: 내무부는?
+103. ÁLVARO: ¿Y qué ha hecho Interior mientras tanto? ¿Ha dicho algo o sigue reflexionando?
+    알바로: 그동안 내무부는 뭐 했어? 뭐라고 했어, 아니면 아직도 숙고 중이야?
 
 104. RENATA: Lo ha desmentido a las doce y media, en un comunicado de tres líneas. Pero ya sabes cómo es esto: el desmentido llega andando y la mentira, en moto.
     레나타: 12시 반에 세 줄짜리 성명으로 부인했어. 근데 알잖아. 해명은 걸어서 오고, 거짓말은 오토바이 타고 와.
 
-105. ÁLVARO: ¿Y las buenas?
-    알바로: 좋은 소식은?
+105. ÁLVARO: Vale, ya lo he entendido. Ahora dame las buenas, que las necesito.
+    알바로: 그래, 알았어. 이제 좋은 소식 줘. 그게 필요해.
 
 106. RENATA: El periódico abre mañana con el análisis de Núria: la fecha del archivo, los labios, los siete minutos. Ochenta periodistas ya saben que los mensajes de "su fuente" eran falsos. Algunos están furiosos, y la furia también se hace viral.
     레나타: 신문사가 내일 1면에 누리아 분석을 실어. 파일 날짜, 입술, 7분 간격. 기자 80명이 벌써 '자기 취재원' 문자가 가짜였다는 걸 알아. 몇몇은 엄청 화났고. 분노도 퍼지거든.
@@ -344,17 +344,17 @@
 109. ENCARNA: Ya son las nueve. ¿Cenáis algo o seguís salvando España con el estómago vacío?
     엥카르나: 벌써 9시다. 뭐 좀 먹을래, 아니면 빈속으로 계속 스페인을 구할 거니?
 
-110. IKER: Gato. Mi teléfono. Número oculto.
-    이케르: 가토. 제 폰이요. 발신자 표시 제한.
+110. IKER: Gato, mi teléfono está sonando. Número oculto, y no es mi madre.
+    이케르: 가토, 제 폰 울려요. 발신자 표시 제한인데, 엄마는 아니에요.
 
-111. ÁLVARO: No lo cojas.
-    알바로: 받지 마.
+111. ÁLVARO: No lo cojas. Si es quien creo, ya sabe demasiado de nosotros.
+    알바로: 받지 마. 내가 생각하는 사람이면 이미 우리에 대해 너무 많이 알아.
 
 112. IKER: Es la tercera vez que llama en cinco minutos. Y solo hay una persona que sabe que este número existe.
     이케르: 5분 사이에 세 번째예요. 그리고 이 번호가 있는 걸 아는 사람은 딱 한 명뿐이에요.
 
-113. ÁLVARO: Dámelo. Pon el altavoz.
-    알바로: 이리 줘. 스피커로.
+113. ÁLVARO: Dámelo, entonces. Pon el altavoz, que lo oigan todos los que están en esta cocina.
+    알바로: 그럼 이리 줘. 스피커로 해. 이 부엌에 있는 사람 다 듣게.
 
 114. ARRIETA: Etxeberria, sé que está con él. Pásemelo, por favor. No tengo toda la noche, y él tampoco.
     아리에타: 에체베리아, 그 사람이랑 같이 있는 거 압니다. 바꿔 주세요. 나도 밤새 시간이 있는 게 아니고, 그 사람도 마찬가지예요.
@@ -368,8 +368,8 @@
 117. ENCARNA: ¡Ay, Virgen! ¡Que sabe mi apellido!
     엥카르나: 아이고, 맙소사! 내 성까지 아네!
 
-118. ÁLVARO: ¿Y por qué no lo ha hecho?
-    알바로: 그럼 왜 안 하셨습니까?
+118. ÁLVARO: ¿Y por qué no lo ha hecho? Nunca le ha temblado el pulso con una firma.
+    알바로: 그럼 왜 안 하셨습니까? 서명할 때 손 떠는 분이 아니잖습니까.
 
 119. ARRIETA: Porque he visto el vídeo del portavoz, igual que tres millones de españoles. Y porque, a diferencia de ellos, he leído lo que Etxeberria me trajo en julio.
     아리에타: 대변인 영상을 봤으니까요. 스페인 사람 300만 명처럼. 그리고 그들과 달리, 7월에 에체베리아가 가져온 자료를 읽었으니까요.
@@ -383,8 +383,8 @@
 122. ÁLVARO: Ninguna, directora. Ninguna en absoluto.
     알바로: 전혀요, 국장님. 하나도 없습니다.
 
-123. ARRIETA: Escúcheme bien, Medina. El abogado de Santiago Ruiz-Belda es el mismo que el de Atalaya. La cuenta de Javier Robles se abrió con una firma escaneada de un contrato de dos mil veintiséis. Y el acceso al archivo de Arsenov se hizo desde un ordenador de la planta catorce de la Castellana.
-    아리에타: 잘 들어요, 메디나. 산티아고 루이스벨다 변호사가 아탈라야 변호사와 같은 사람이에요. 하비에르 로블레스 계좌는 2026년 계약서에서 스캔한 서명으로 개설됐고요. 그리고 아르세노프 파일 접속은 카스테야나 14층 컴퓨터에서 이뤄졌어요.
+123. ARRIETA: Escúcheme, Medina. El abogado de Ruiz-Belda es el mismo que el de Atalaya. La cuenta de Javier Robles se abrió con una firma escaneada. Y el archivo de Arsenov se abrió desde un ordenador de la planta catorce.
+    아리에타: 잘 들어요, 메디나. 루이스벨다 변호사가 아탈라야 변호사와 같은 사람이에요. 하비에르 로블레스 계좌는 스캔한 서명으로 개설됐고요. 그리고 아르세노프 파일은 카스테야나 14층 컴퓨터에서 열렸어요.
 
 124. IKER: Eso lo encontré yo. Eso es mío.
     이케르: 그거 제가 찾은 거예요. 제 거예요.
@@ -392,8 +392,8 @@
 125. ARRIETA: Lo sé, Etxeberria. Y el lunes lo diré delante de un juez, con su nombre.
     아리에타: 알아요, 에체베리아. 그리고 월요일에 판사 앞에서 당신 이름 걸고 말할 겁니다.
 
-126. ÁLVARO: ¿El lunes? ¿Y por qué no hoy?
-    알바로: 월요일요? 왜 오늘은 안 됩니까?
+126. ÁLVARO: ¿El lunes? Para el lunes ya habrá pasado todo, directora. ¿Por qué no hoy?
+    알바로: 월요일요? 월요일이면 다 끝나 있을 겁니다, 국장님. 왜 오늘은 안 됩니까?
 
 127. ARRIETA: Porque hoy es jornada de reflexión, y una directora del CNI no detiene a un ex subdirector la víspera de unas elecciones sin que media España crea que es un golpe. Eso también lo ha calculado él.
     아리에타: 오늘은 숙고의 날이니까요. CNI 국장이 선거 전날 전 차장을 체포하면, 스페인 절반은 쿠데타라고 믿을 거예요. 그것까지 그 사람이 계산해 둔 거고요.
@@ -437,8 +437,8 @@
 140. ARRIETA: Nunca ha trabajado de otra. Por eso le llamo a usted.
     아리에타: 다른 방식으로 일한 적도 없잖아요. 그래서 당신한테 전화한 거고요.
 
-141. ÁLVARO: ¿Dónde y cuándo?
-    알바로: 어디서, 언제입니까?
+141. ÁLVARO: Entonces dígame dónde y cuándo, y no me haga esperar como en julio.
+    알바로: 그럼 어디서, 언제인지 말씀해 주시죠. 7월처럼 기다리게 하지 마시고요.
 
 142. ARRIETA: Mañana a las ocho le espera un coche en Atocha. No es para detenerle.
     아리에타: 내일 8시, 아토차에 차가 한 대 기다리고 있을 겁니다. 체포하려는 게 아니에요.
