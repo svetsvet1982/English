@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. LINDA: This is box forty, the last one, serial numbers nineteen-sixty-one to two thousand. Mr. Novak, open it, please.
+001. LINDA: This is box forty, the last one, with serial numbers nineteen-sixty-one to two thousand, so open it, please, Mr. Novak.
     린다: 40번 상자, 마지막 거예요. 일련번호 1961번부터 2000번까지. 노박 씨, 열어 주세요.
 
 002. TYLER: Opening box forty, with forty motors in foam inserts, test certificates on top, and lot numbers on every certificate.
@@ -432,7 +432,7 @@
 139. SAM: "I got your name from Hank Lindqvist in Nebraska. Hank says you're the only motor man in America who answered the phone on the worst day of his year and didn't hang up."
     샘: "네브래스카의 행크 린드퀴스트한테서 성함을 들었습니다. 행크 말로는 자기 인생 최악의 날 전화를 받고 끊지 않은 모터쟁이는 미국에서 당신뿐이랍니다."
 
-140. LILY: Hank, the drone guy! You told me about him.
+140. LILY: Hank, the drone guy you told me about!
     릴리: 행크! 그 드론 아저씨! 아빠가 얘기해 줬잖아.
 
 141. SAM: "Mr. Kowalski, I'll get to the point, because Ruth says I ramble. My tractor's dead, and the dealer won't let me fix it."
@@ -456,7 +456,7 @@
 147. SAM: It is. Ray, the mechanic in Brooklyn, asked us for that in 2024. And Dad told me to keep doing it right, even when somebody big pays me to stop.
     샘: 사실이야. 2024년에 브루클린 정비사 레이가 그렇게 해 달라고 했거든. 그리고 아버지가, 큰 회사가 그만하라고 돈을 줘도 계속 제대로 하라고 하셨어.
 
-148. LILY: What's the last line? There's more at the bottom.
+148. LILY: What's the last line? I can see there's more at the bottom of the page.
     릴리: 마지막 줄은 뭐야? 밑에 더 있는데.
 
 149. SAM: "P.S. Ruth says if you come to Iowa, she'll make pie. Real pie. Not the diner kind." Somebody tell Donna I'm sorry.

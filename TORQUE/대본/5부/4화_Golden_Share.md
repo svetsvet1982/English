@@ -285,7 +285,7 @@
 090. WEN: I have nine questions.
     웬: 저 질문 아홉 개 있어요.
 
-091. BEN: Let's make it seven good ones. Nine looks nervous, and seven looks prepared.
+091. BEN: Let's make it seven good ones, since nine looks nervous and seven looks prepared.
     벤: 좋은 걸로 일곱 개로 줄이자. 아홉은 불안해 보이고, 일곱은 준비된 것처럼 보여.
 
 092. TYLER: Is that a real lawyer rule?
@@ -444,7 +444,7 @@
 143. BEN: She's been talking to Linda Farrow, I think.
     벤: 이분 린다 패로랑 얘기하고 다니는 것 같아.
 
-144. SAM: Okay, they're good. They're really good, so send it.
+144. SAM: Okay, they're good, they're really good, so go ahead and send it.
     샘: 좋아요. 좋네요, 진짜 좋아요. 보내요.
 
 145. BEN: Sent at eleven forty-four p.m. Now we wait, and I sleep at the Red Roof Inn.
