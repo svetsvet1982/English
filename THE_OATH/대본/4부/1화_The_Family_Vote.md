@@ -481,7 +481,7 @@
 - **non-negotiable / Everything's negotiable.** — 협상 불가 / 협상 안 되는 건 없다 (111, 112)
 - **I don't move.** — 난 물러서지 않는다 / (122)
 - **secret ballot** — 비밀 투표 / (134, 138)
-- **See attached.** — 첨부 참조 / "Yes, with conditions. See attached." (144)
+- **See attached.** — 첨부 참조 / "Yes, with conditions, see attached." (144)
 
 ## 다음 화 예고 (낭독하지 않음)
 
