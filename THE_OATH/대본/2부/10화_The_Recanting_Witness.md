@@ -17,8 +17,8 @@
 001. HWANG: Mister, it's three nights in a row now, and your socks are very clean. Are you a cop?
     황 사장: 아저씨, 벌써 사흘 밤 연속이에요. 양말이 아주 깨끗하네요. 경찰이에요?
 
-002. FRANK: I'm retired, so I'm just a man with a lot of socks.
-    프랭크: 은퇴했어요. 그냥 양말 많은 사람이에요.
+002. FRANK: I'm retired, Mr. Hwang, so I'm just a man with a lot of socks.
+    프랭크: 은퇴했어요, 황 사장님. 그냥 양말 많은 사람이에요.
 
 003. HWANG: Nobody has that many socks. Tasha, this man's waiting for you, so be careful.
     황 사장: 그렇게 양말 많은 사람은 없어요. 타샤, 이 사람이 너 기다려. 조심해.
@@ -26,8 +26,8 @@
 004. TASHA: I know, because I saw him Wednesday and Thursday, and he folds his socks like a soldier. What do you want, mister?
     타샤: 알아요. 수요일에도 목요일에도 봤어요. 군인처럼 양말을 개더라고요. 뭘 원해요, 아저씨?
 
-005. FRANK: I brought you coffee with milk and two sugars, because the owner says that's how you take it.
-    프랭크: 커피 가져왔어요. 우유에 설탕 두 개. 사장님이 당신은 그렇게 마신다고 해서요.
+005. FRANK: I brought you coffee with milk and two sugars, because Mr. Hwang says that's how you take it.
+    프랭크: 커피 가져왔어요. 우유에 설탕 두 개. 황 사장님이 당신은 그렇게 마신다고 해서요.
 
 006. HWANG: I said that before I knew he was suspicious.
     황 사장: 그건 수상한 사람인 줄 알기 전에 한 말이에요.
@@ -47,8 +47,8 @@
 011. TASHA: How do you know about that? Nobody knows about that letter.
     타샤: 그걸 어떻게 알아요? 그 편지는 아무도 모르는데.
 
-012. FRANK: Because his mother kept it, since she keeps everything. And because the postmark led me to St. Helena's, and St. Helena's led me to your grandmother.
-    프랭크: 그 어머니가 갖고 있었으니까. 뭐든 다 보관하시거든. 그리고 소인 따라 세인트 헬레나 성당에 갔고, 성당에서 할머니한테 갔지.
+012. FRANK: Because Mrs. Ward kept it, since she keeps everything. And because the postmark led me to St. Helena's, and St. Helena's led me to your grandmother.
+    프랭크: 워드 부인이 갖고 있었으니까. 뭐든 다 보관하시거든. 그리고 소인 따라 세인트 헬레나 성당에 갔고, 성당에서 할머니한테 갔지.
 
 013. TASHA: You talked to my grandmother about me?
     타샤: 우리 할머니랑 내 얘기를 했어요?
@@ -125,17 +125,17 @@
 037. BERNICE: At least you say it. Sit down, because the boys are watching cartoons in the bedroom, and I told them the people coming are from church.
     버니스: 적어도 인정은 하네. 앉아요. 애들은 안방에서 만화 봐요. 오는 사람들 교회 사람이라고 해 뒀어요.
 
-038. AISHA: Thank you for having us. I'm Aisha.
-    아이샤: 불러 주셔서 감사해요. 전 아이샤예요.
+038. AISHA: Thank you for having us, Mrs. Greene. I'm Aisha.
+    아이샤: 불러 주셔서 감사해요, 그린 부인. 전 아이샤예요.
 
 039. BERNICE: Frank, you didn't scare her, good. Tasha's in the kitchen, and she's been making coffee for an hour, because she makes coffee when she's nervous.
     버니스: 프랭크, 우리 애 겁 안 줬네, 잘했어. 타샤는 부엌에 있어요. 한 시간째 커피 내리고 있어요. 긴장하면 커피를 내리거든.
 
-040. TASHA: I made too much, so everybody take a cup. You look tired, Counselor.
-    타샤: 너무 많이 만들었어요. 다들 한 잔씩 드세요. 피곤해 보이시네요, 변호사님.
+040. TASHA: I made too much, so everybody take a cup. Mr. Reardon, you look tired.
+    타샤: 너무 많이 만들었어요. 다들 한 잔씩 드세요. 레이든 씨, 피곤해 보이시네요.
 
-041. DAN: Everybody says that lately. Before you say anything, I need to explain something important, and it's about you, not about Eli.
-    댄: 요즘 다들 그래요. 말씀하시기 전에 중요한 걸 설명드려야 해요. 일라이가 아니라 당신에 관한 거예요.
+041. DAN: Everybody says that lately. Ms. Greene, before you say anything, I need to explain something important, and it's about you, not about Eli.
+    댄: 요즘 다들 그래요. 그린 씨, 말씀하시기 전에 중요한 걸 설명드려야 해요. 일라이가 아니라 당신에 관한 거예요.
 
 042. TASHA: Okay.
     타샤: 네.
@@ -191,8 +191,8 @@
 059. TASHA: We heard a pop, and a man in a black hoodie ran out of Tony's, right past the streetlight, and his hat fell off.
     타샤: 펑 소리가 났어요. 검은 후드티 입은 남자가 토니네서 뛰어나와서 가로등 바로 옆을 지나갔어요. 모자가 떨어졌고요.
 
-060. DAN: Did you see his face, even for a second?
-    댄: 그 사람 얼굴 봤어요? 잠깐이라도?
+060. DAN: Did you see his face, Ms. Greene, even for a second?
+    댄: 그 사람 얼굴 봤어요, 그린 씨? 잠깐이라도?
 
 061. TASHA: For one second, when he turned toward the light. He was older than Eli, maybe twenty-five or thirty, and I saw his hand.
     타샤: 1초요. 불빛 쪽으로 돌아봤을 때. 일라이보다 나이 많았어요. 스물다섯이나 서른쯤. 그리고 손을 봤어요.
@@ -299,8 +299,8 @@
 095. TASHA: Nothing was right away. I wrote to Mrs. Ward because my oldest turned seven. And I thought, if somebody took him away for nothing...
     타샤: 바로 된 건 하나도 없었어요. 워드 부인한테 편지 쓴 건 큰애가 일곱 살이 돼서예요. 그리고 생각했어요. 누가 아무 이유 없이 우리 애를 데려가면…
 
-096. DAN: Will you sign a sworn statement, with just what you've told us today?
-    댄: 선서 진술서에 서명해 주실래요? 오늘 말씀하신 것만요.
+096. DAN: Ms. Greene, will you sign a sworn statement, with just what you've told us today?
+    댄: 그린 씨, 선서 진술서에 서명해 주실래요? 오늘 말씀하신 것만요.
 
 097. TASHA: I don't know. I want to, but I'm scared of more than jail.
     타샤: 모르겠어요. 하고 싶어요. 근데 감옥 말고도 무서운 게 있어요.
@@ -320,8 +320,8 @@
 102. FRANK: Has anybody threatened you since you sent the letter?
     프랭크: 편지 보낸 뒤로 누가 협박한 적 있어요?
 
-103. TASHA: No, because nobody knows about the letter except his mother and Ruth Abernathy, and now you.
-    타샤: 아뇨. 그 어머니랑 루스 애버내시 말곤 편지 아는 사람 없어요. 이제 여러분도요.
+103. TASHA: No, because nobody knows about the letter except Mrs. Ward and Ruth Abernathy, and now you.
+    타샤: 아뇨. 워드 부인이랑 루스 애버내시 말곤 편지 아는 사람 없어요. 이제 여러분도요.
 
 104. DAN: We'll keep it that way until you're ready. And you'll have your own lawyer before you sign anything. That's a promise. It's the kind I'm allowed to make.
     댄: 준비될 때까지 그렇게 지킬게요. 그리고 뭘 서명하기 전에 본인 변호사가 있을 거예요. 그건 약속이에요. 제가 할 수 있는 종류의 약속이요.
@@ -404,8 +404,8 @@
 130. RUTH: Then we wait. The law is a tool, Dan, but a scared witness is not a tool, she's a person.
     루스: 그럼 기다리자. 법은 도구야, 댄. 하지만 겁먹은 증인은 도구가 아니야. 사람이야.
 
-131. TASHA: It's Tasha, and I'm sorry, but I'm about to go into work, so I only have a minute.
-    타샤: 타샤예요. 죄송해요, 곧 출근이라 1분밖에 없어요.
+131. TASHA: Mr. Reardon? It's Tasha, and I'm sorry, but I'm about to go into work, so I only have a minute.
+    타샤: 레이든 씨? 타샤예요. 죄송해요, 곧 출근이라 1분밖에 없어요.
 
 132. DAN: Take your—sorry, go ahead, however long you need.
     댄: 천천히—미안해요. 말해요. 필요한 만큼.
@@ -434,8 +434,8 @@
 140. DAN: That's right, and it's brave. What's the second thing?
     댄: 맞아요. 용감하고요. 두 번째는요?
 
-141. TASHA: I want to see Eli's mother face to face before I sign anything, because I wrote her a letter, but a letter is easy, and I want to say it to her face.
-    타샤: 서명하기 전에 일라이 어머니를 직접 만나고 싶어요. 편지는 썼지만 편지는 쉬워요. 얼굴 보고 말하고 싶어요.
+141. TASHA: I want to see Mrs. Ward, Eli's mother, face to face before I sign anything, because I wrote her a letter, but a letter is easy, and I want to say it to her face.
+    타샤: 서명하기 전에 일라이 어머니, 워드 부인을 직접 만나고 싶어요. 편지는 썼지만 편지는 쉬워요. 얼굴 보고 말하고 싶어요.
 
 142. DAN: Say what to her?
     댄: 뭐라고 하려고요?
@@ -455,8 +455,8 @@
 147. TASHA: Nobody knows, because I keep it in my locker at the laundromat, next to my apron.
     타샤: 아무도 몰라요. 빨래방 사물함에 앞치마 옆에 넣어 뒀거든요.
 
-148. DAN: I'll call her tomorrow, because Ruth knows her best, and we'll set it up wherever you want, her church, your grandmother's, anywhere.
-    댄: 내일 그분께 전화할게요. 루스가 제일 잘 알아요. 원하는 곳으로 잡을게요. 그분 교회든, 할머니 댁이든, 어디든.
+148. DAN: Ms. Greene, I'll call Mrs. Ward tomorrow, because Ruth knows her best, and we'll set it up wherever you want, her church, your grandmother's, anywhere.
+    댄: 그린 씨, 내일 워드 부인께 전화할게요. 루스가 제일 잘 알아요. 원하는 곳으로 잡을게요. 그분 교회든, 할머니 댁이든, 어디든.
 
 149. TASHA: Not a church, and not a lawyer's office, but her kitchen, because I want to sit in her kitchen.
     타샤: 교회 말고요. 변호사 사무실도 말고요. 그분 부엌이요. 그분 부엌에 앉고 싶어요.
