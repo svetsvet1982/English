@@ -203,7 +203,7 @@
 063. DAN: Ma? Did you really walk all the way here in the cold?
     댄: 엄마? 이 추위에 진짜 여기까지 걸어오셨어요?
 
-064. ROSE: I walked six blocks, and I've walked six blocks for less. I'm Rose, Eli, and we spoke on Thanksgiving, so I brought your plate.
+064. ROSE: I walked six blocks, and I've walked six blocks for less. I'm Rose, Mr. Ward, and we spoke on Thanksgiving, so I brought your plate.
     로즈: 여섯 블록 걸었어. 그보다 하찮은 일로도 걸어 다녔어. 난 로즈야, 일라이. 추수감사절에 통화했지. 네 접시 가져왔어.
 
 065. ELI: My plate, the one you set for me on Thanksgiving?
@@ -221,7 +221,7 @@
 069. ROSE: Gus, give me a coffee, the terrible one, and put some spanakopita on the table, because he needs real food.
     로즈: 거스, 커피 줘. 그 맛없는 거. 시금치 파이도 좀 내와. 이 애는 진짜 음식이 필요해.
 
-070. GUS: Yes, ma'am, right away, ma'am, coming right up.
+070. GUS: Yes, Mrs. Reardon, right away, Mrs. Reardon, coming right up.
     거스: 네, 사모님. 바로요, 사모님. 금방 나갑니다.
 
 071. ELI: Everybody's scared of your mother.
@@ -266,7 +266,7 @@
 084. ELI: My usual, so I finally have a usual of my own.
     일라이: 내 단골 메뉴. 드디어 나만의 단골 메뉴가 생겼네요.
 
-085. SAM: Excuse me, did the Yankees win anything while you were away?
+085. SAM: Mr. Ward, did the Yankees win anything while you were away?
     샘: 저기요, 아저씨 없는 동안 양키스가 뭐 우승한 적 있어요?
 
 086. ELI: No, not one World Series since 2009, but I followed every season on the radio, and that was the only good news I got for sixteen years.
@@ -308,7 +308,7 @@
 098. ELENA: That's normal, Eli, because in the ER I see people who've been inside, and it takes months, sometimes years. Your body will learn slower than your head, so be patient with it.
     엘레나: 그건 정상이에요, 일라이. 응급실에서 출소한 사람들을 봐요. 몇 달, 때론 몇 년 걸려요. 몸은 머리보다 늦게 배워요. 몸한테 인내심을 가져요.
 
-099. ELI: Thank you, Doctor, and can I ask you a doctor question later?
+099. ELI: Thank you, Dr. Reardon, and can I ask you a doctor question later?
     일라이: 감사합니다, 선생님. 나중에 의사한테 묻는 질문 해도 될까요?
 
 100. ELENA: Ask me anything, any time, but not on Sundays, though, because Sundays are ours, unless it's an emergency, and I decide what's an emergency.

@@ -155,7 +155,7 @@
 047. DAN: So the People have air-conditioning, which explains a lot about their attitude.
     댄: 검찰엔 에어컨이 있군요. 그쪽 태도가 이제 많이 이해되네요.
 
-048. TRAN: Thanks for coming down, both of you, and sorry about the temperature, because this building only has two settings, which are arctic and broken.
+048. TRAN: Mr. Reardon, Ms. Bellamy, thanks for coming down, and sorry about the temperature, because this building only has two settings, which are arctic and broken.
     트랜: 두 분 다 와 주셔서 감사합니다. 온도는 죄송해요. 이 건물엔 설정이 두 개뿐이거든요. 북극 아니면 고장.
 
 049. DAN: We have the same two settings. Ours are just in a different order.

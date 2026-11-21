@@ -149,7 +149,7 @@
 045. DAN: Today you're in the room, so remember that, because whatever happens, today you're in the room.
     댄: 오늘은 이 방 안에 있어요. 그걸 기억해요. 무슨 일이 있어도 오늘은 이 방 안에 있는 거예요.
 
-046. DELGADO: We're here on the defendant's motion under CPL 440.10 to vacate the judgment of conviction. Please be brief, counsel, because this isn't a jury, and you don't need to warm me up.
+046. DELGADO: We're here on the defendant's motion under CPL 440.10 to vacate the judgment of conviction. Please be brief, Mr. Reardon, because this isn't a jury, and you don't need to warm me up.
     델가도: 형사소송법 440.10조에 따른 피고인의 유죄 판결 취소 신청 건입니다. 변호인, 간단히 하세요. 배심원이 아니니까 분위기 띄울 필요 없습니다.
 
 047. DAN: Briefly, Your Honor. In 2012, Eli Ward was convicted on the word of one fifteen-year-old witness, and today that witness will tell you how her identification was made, and who made it.
@@ -158,7 +158,7 @@
 048. DAN: You'll also see a police report the jury never saw, DD5 number nine, with one photograph and one word, "might," and that's all, Your Honor.
     댄: 배심원단이 보지 못한 경찰 보고서도 보시게 될 겁니다. DD5 9번. 사진 한 장, 그리고 단어 하나. "일지도." 이상입니다, 재판장님.
 
-049. DELGADO: Now I'd like to hear from the People, counsel, so go ahead.
+049. DELGADO: Now I'd like to hear from the People, Mr. Tran, so go ahead.
     델가도: 이제 검찰 측 얘기를 듣겠습니다, 검사. 하세요.
 
 050. TRAN: Your Honor, on newly discovered evidence, the defendant must prove his claim by a preponderance of the evidence. That's his burden, not ours.
@@ -197,13 +197,13 @@
 061. TASHA: My name is Tasha Monique Greene.
     타샤: 타샤 모니크 그린입니다.
 
-062. DAN: Good morning, and thank you for being here today.
+062. DAN: Good morning, Ms. Greene, and thank you for being here today.
     댄: 좋은 아침입니다. 오늘 와 주셔서 감사합니다.
 
 063. TASHA: Good morning to you, and I'm nervous, but I'm ready.
     타샤: 좋은 아침이에요. 긴장되지만 준비됐어요.
 
-064. DAN: For the record, could you tell the court how old you are today?
+064. DAN: For the record, Ms. Greene, could you tell the court how old you are today?
     댄: 기록을 위해 현재 나이를 재판부에 말씀해 주시겠습니까?
 
 065. TASHA: Thirty.
@@ -221,7 +221,7 @@
 069. TASHA: I have two boys, Jaylen, who is seven, and Malik, who is four, and they're at school right now, so they don't know where I am today.
     타샤: 아들 둘이요. 제일런은 일곱 살, 말릭은 네 살이에요. 지금 학교에 있어요. 제가 오늘 어디 있는지 몰라요.
 
-070. DAN: Where were you on the night of October sixth, 2011?
+070. DAN: Ms. Greene, where were you on the night of October sixth, 2011?
     댄: 2011년 10월 6일 밤에 어디 계셨습니까?
 
 071. TASHA: I was at the bus stop on Webster Avenue, across the street from Tony's store, with my friend Kiyona. We were fifteen, and we weren't supposed to be out, because my grandmother thought I was at Kiyona's house.
@@ -266,7 +266,7 @@
 084. TRAN: Objection, because that calls for hearsay, and speculation about what another person saw.
     트랜: 이의 있습니다. 전문 증거를 요구하고, 다른 사람이 본 것에 대한 추측을 요구합니다.
 
-085. DELGADO: Sustained as to what Kiyona saw, so please rephrase your question, counsel.
+085. DELGADO: Sustained as to what Kiyona saw, so please rephrase your question, Mr. Reardon.
     델가도: 키요나가 본 것에 대해선 인정합니다. 질문을 바꾸세요, 변호인.
 
 086. DAN: Did Kiyona say anything to you, right after the man passed?
@@ -278,7 +278,7 @@
 088. DAN: Your Honor, it's not offered for its truth. It's offered to explain what Ms. Greene did next, and why she remembered the hand.
     댄: 재판장님, 그 내용이 사실임을 입증하려는 게 아닙니다. 그린 씨가 다음에 무엇을 했는지, 왜 그 손을 기억하는지 설명하려는 겁니다.
 
-089. DELGADO: Overruled, and I'll allow it, but not for its truth, so the witness may answer the question.
+089. DELGADO: Overruled, and I'll allow it, but not for its truth, so you may answer, Ms. Greene.
     델가도: 기각합니다. 허용하되, 내용의 진실로는 아닙니다. 증인은 대답하세요.
 
 090. TASHA: She said, "You see the star?" And I said, "Yeah." That's why I remember. Because we both said it out loud.
@@ -320,13 +320,13 @@
 102. TASHA: I haven't said it in sixteen years.
     타샤: 16년 동안 그 이름을 말한 적이 없어요.
 
-103. DELGADO: Take your time, ma'am, because you're safe in this room.
+103. DELGADO: Take your time, Ms. Greene, because you're safe in this room.
     델가도: 천천히 하세요, 증인. 이 법정에선 안전합니다.
 
 104. TASHA: Please don't say "take your time," because he said that. I'm sorry, Judge.
     타샤: "천천히 하세요"라고 하지 말아 주세요. 그 사람이 그 말을 했어요. 죄송해요, 판사님.
 
-105. DELGADO: No, I'm the one who's sorry, because I didn't know that, so I'll find another word. Answer whenever you're ready.
+105. DELGADO: No, Ms. Greene, I'm the one who's sorry, because I didn't know that, so I'll find another word. Answer whenever you're ready.
     델가도: 아닙니다. 제가 죄송합니다. 몰랐습니다. 다른 말을 찾겠습니다. 준비되면 대답하세요.
 
 106. TASHA: It was Kowalski, Detective Kowalski.
@@ -350,7 +350,7 @@
 112. DELGADO: The court has a copy, and I've read it more than once, so go ahead, counsel.
     델가도: 재판부도 사본이 있습니다. 여러 번 읽었습니다. 계속하세요, 변호인.
 
-113. DAN: Would you please read the highlighted line out loud for the court?
+113. DAN: Ms. Greene, would you please read the highlighted line out loud for the court?
     댄: 형광펜 친 줄을 재판부를 위해 소리 내서 읽어 주시겠습니까?
 
 114. TASHA: "Witness stated, quote, that might be him, I know him from the handball court, unquote." That's what I said. He wrote down exactly what I said.
@@ -365,7 +365,7 @@
 117. TRAN: Objection, because the witness can't know who was shown what.
     트랜: 이의 있습니다. 증인은 누가 무엇을 봤는지 알 수 없습니다.
 
-118. DELGADO: Sustained, and the last sentence is stricken, so please just tell us what you know yourself.
+118. DELGADO: Sustained, and the last sentence is stricken, so, Ms. Greene, please just tell us what you know yourself.
     델가도: 인정합니다. 마지막 문장은 삭제합니다. 본인이 직접 아는 것만 말씀해 주세요.
 
 119. TASHA: Okay, I'm sorry, Judge, so I'll just say what I know, which is that nobody showed it to me, not once.
@@ -413,7 +413,7 @@
 133. TASHA: I said "Four," because he said four, and because I'd seen Eli in the picture, and because of Darius. When I walked out, I heard a cop in the hallway say, "Took her long enough."
     타샤: "4번"이라고 했어요. 그 사람이 4번이라고 했으니까요. 사진에서 일라이를 봤으니까요. 그리고 다리우스 때문에요. 나올 때 복도에서 어떤 경찰이 "오래도 걸리네"라고 하는 게 들렸어요.
 
-134. DAN: At trial in 2012, did you testify that you were sure?
+134. DAN: Ms. Greene, at trial in 2012, did you testify that you were sure?
     댄: 2012년 재판에서 확실하다고 증언하셨습니까?
 
 135. TASHA: Yes.
@@ -440,28 +440,28 @@
 142. TASHA: And because Mrs. Ward wrote me back and said, "I don't hate you, so come when you're ready." I'm ready now, even though it took sixteen years.
     타샤: 그리고 워드 부인이 답장을 주셨어요. "난 널 미워하지 않아. 준비되면 와." 이제 준비됐어요. 16년이 걸렸지만요.
 
-143. DAN: The man you saw under the streetlight that night, was it Eli Ward?
+143. DAN: Ms. Greene, the man you saw under the streetlight that night, was it Eli Ward?
     댄: 그날 밤 가로등 아래서 본 남자, 일라이 워드였습니까?
 
 144. TASHA: No, because Eli was a boy I knew from the handball court, and the man I saw was a grown man with a star on his hand. It wasn't Eli, and I knew it wasn't Eli when I said four.
     타샤: 아니요. 일라이는 핸드볼장에서 알던 남자애였어요. 제가 본 건 손에 별이 있는 어른이었어요. 일라이가 아니었어요. 4번이라고 말할 때도 일라이가 아니라는 걸 알았어요.
 
-145. DAN: Thank you for your courage, and I have no further questions, Your Honor.
+145. DAN: Thank you for your courage, Ms. Greene, and I have no further questions, Your Honor.
     댄: 용기 내 주셔서 감사합니다. 더 질문 없습니다, 재판장님.
 
-146. DELGADO: It's twelve-thirty, so we'll break for lunch. The witness is still under oath, so don't discuss your testimony with anyone, not your grandmother and not your lawyer.
+146. DELGADO: It's twelve-thirty, so we'll break for lunch. Ms. Greene, you're still under oath, so don't discuss your testimony with anyone, not your grandmother and not your lawyer.
     델가도: 12시 30분이니 점심 휴정하겠습니다. 증인은 아직 선서 상태입니다. 증언에 대해 누구와도 얘기하지 마세요. 할머니도, 변호사도요.
 
 147. TASHA: Can I still eat something, even though I threw up?
     타샤: 토했는데도 뭐 먹어도 돼요?
 
-148. DELGADO: You can eat toast, if I heard right, and we'll resume at two, when the People will have their cross.
+148. DELGADO: You can eat toast, if I heard right, and we'll resume at two, when Mr. Tran will have his cross.
     델가도: 드셔도 됩니다. 제가 제대로 들었다면 토스트요. 2시에 속개하고, 그때 검찰 측 반대신문을 하겠습니다.
 
 149. TRAN: Thank you, Your Honor. The People will be brief.
     트랜: 감사합니다, 재판장님. 검찰은 간단히 하겠습니다.
 
-150. TRAN: I'll start with one question, so you can think about it at lunch. In 2012 you told twelve jurors under oath that you were sure, so were you lying then, or are you lying now?
+150. TRAN: Ms. Greene, I'll start with one question, so you can think about it at lunch. In 2012 you told twelve jurors under oath that you were sure, so were you lying then, or are you lying now?
     트랜: 질문 하나로 시작하겠습니다. 점심때 생각해 보시라고요. 2012년에 선서하고 배심원 열두 명에게 확실하다고 하셨죠. 그때 거짓말을 한 겁니까, 지금 거짓말을 하는 겁니까?
 
 ---

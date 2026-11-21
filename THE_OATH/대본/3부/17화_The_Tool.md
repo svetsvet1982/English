@@ -269,7 +269,7 @@
 085. RUTH: I never cashed it, and it's in a frame in my office, behind the spring chair.
     루스: 한 번도 안 바꿨어. 액자에 넣어서 내 사무실 스프링 의자 뒤에 걸어 뒀어.
 
-086. HOWARD: I know you never cashed it, because my accountant asks me about it every month: "There's an open check for twenty-five dollars to a nonprofit in the Bronx." I tell him to leave it open.
+086. HOWARD: I know you never cashed it, because my accountant asks me about it every month: "Mr. Whitmore, there's an open check for twenty-five dollars to a nonprofit in the Bronx." I tell him to leave it open.
     하워드: 안 바꾼 거 알아. 회계사가 매달 물어. "브롱크스 비영리 단체 앞으로 25달러짜리 미결 수표가 있습니다." 그냥 두라고 하지.
 
 087. RUTH: Why?

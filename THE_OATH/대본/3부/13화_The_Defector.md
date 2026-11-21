@@ -38,7 +38,7 @@
 008. REBECCA: I'll write that down. Okay, here are the ground rules: everything is on the record unless you say "off the record" before you say it, not after.
     레베카: 그거 적을게요. 자, 기본 규칙이요. "비공식"이라고 말하기 전에 한 말은 전부 공식이에요. 말한 다음이 아니라 전에요.
 
-009. DAN: Understood, so we're on the record from the very beginning.
+009. DAN: Understood, so we're on the record from the very beginning, Ms. Stone.
     댄: 알겠습니다. 그럼 처음부터 공식이네요.
 
 010. REBECCA: You were a partner at Whitmore Crane. Over a million a year. Now it's sixty-eight thousand, and the heat is "a concept."
@@ -53,7 +53,7 @@
 013. DAN: Because I refused to sign a document that wasn't true. At a firm like that, you don't stay long after.
     댄: 사실이 아닌 문서에 서명하기를 거부했으니까요. 그런 회사에선 그 뒤로 오래 못 있어요.
 
-014. REBECCA: What document was it? Please be specific, because my readers like specifics.
+014. REBECCA: What document was it, Mr. Reardon? Please be specific, because my readers like specifics.
     레베카: 어떤 문서였어요? 구체적으로 말씀해 주세요. 독자들은 구체적인 걸 좋아하거든요.
 
 015. DAN: A certification in a federal case. The rest is confidential.
@@ -89,7 +89,7 @@
 025. GUS: Do you want more coffee? It's bad today, extra bad, and I'm proud of it.
     거스: 커피 더 드릴까요? 오늘은 맛없어요. 특히 맛없어요. 자랑스러워요.
 
-026. DAN: Thank you, Gus. I can't tell you who wrote what inside a law firm for a client, because that's confidential, even now.
+026. DAN: Thank you, Gus. Ms. Stone, I can't tell you who wrote what inside a law firm for a client, because that's confidential, even now.
     댄: 고마워요, 거스. 로펌 안에서 의뢰인을 위해 누가 뭘 썼는지는 말씀 못 드려요. 비밀이에요. 지금도요.
 
 027. REBECCA: Even though you left? Even though the client hates you?
@@ -101,7 +101,7 @@
 029. REBECCA: That's a good answer. It's also a very convenient one.
     레베카: 좋은 대답이네요. 아주 편리한 대답이기도 하고요.
 
-030. DAN: It's both, because most of the good rules are both.
+030. DAN: It's both, Ms. Stone, because most of the good rules are both.
     댄: 둘 다예요. 좋은 규칙은 대부분 둘 다죠.
 
 031. REBECCA: Let me try it differently. When did you first learn that Castellan had cut night nurses?
@@ -203,10 +203,10 @@
 063. AISHA: "Respondent" means Amara, because in immigration court she's not the defendant, she's the respondent.
     아이샤: "신청인"은 아마라예요. 이민 법정에선 피고인이 아니라 신청인이거든요.
 
-064. FARROW: You've been sworn, ma'am, and your attorney will ask you questions first. Take your time, because there's no rush in this room.
+064. FARROW: Ms. Diallo, you've been sworn, and your attorney will ask you questions first. Take your time, because there's no rush in this room.
     패로: 선서하셨습니다. 변호인이 먼저 질문할 겁니다. 천천히 하세요. 이 법정에선 서두를 필요 없습니다.
 
-065. DAN: What did you do for work back in Guinea, before all this?
+065. DAN: Ms. Diallo, what did you do for work back in Guinea, before all this?
     댄: 이 모든 일 전에 기니에서 무슨 일을 하셨습니까?
 
 066. AMARA: I taught English and mathematics at a high school in Conakry for eight years, and the students liked English more.
@@ -224,7 +224,7 @@
 070. AMARA: They held me for four days. The rest is on page six.
     아마라: 나흘 동안 붙잡아 뒀어요. 나머진 6쪽에 있어요.
 
-071. FARROW: You don't need to say more, ma'am, because I've read page six. Counsel, move on.
+071. FARROW: You don't need to say more, Ms. Diallo, because I've read page six. Counsel, move on.
     패로: 더 말씀하실 필요 없습니다. 6쪽은 읽었습니다. 변호인, 넘어가세요.
 
 072. DAN: When they let you go, what did they say?
@@ -239,7 +239,7 @@
 075. AMARA: My cousin Fatoumata sent money. I flew to Brazil. Then I walked, and took buses, for two months. In June 2026, at the border in Texas, I went to an officer and said, "I am asking for protection."
     아마라: 사촌 파투마타가 돈을 보내 줬어요. 브라질로 날아갔어요. 그다음 두 달 동안 걷고 버스를 탔어요. 2026년 6월에 텍사스 국경에서 경찰관한테 가서 "보호를 요청합니다."라고 했어요.
 
-076. DAN: Why are you still afraid to go back to Guinea?
+076. DAN: Ms. Diallo, why are you still afraid to go back to Guinea?
     댄: 왜 아직도 기니로 돌아가는 게 두렵습니까?
 
 077. AMARA: Because they told me what would happen. And because the video is still online. My face is still online. In my country, the internet doesn't forget, and neither do the men in that car.
@@ -248,10 +248,10 @@
 078. HADLEY: Your Honor, the government has a few questions.
     해들리: 재판장님, 정부 측 질문이 몇 개 있습니다.
 
-079. FARROW: Go ahead with your questions, counsel, but keep them short.
+079. FARROW: Go ahead with your questions, Mr. Hadley, but keep them short.
     패로: 질문하세요, 정부 측 변호인. 짧게 하세요.
 
-080. HADLEY: The men in the car released you without charging you with a crime, so isn't it possible they just wanted to scare you, and that the danger has passed?
+080. HADLEY: Ms. Diallo, the men in the car released you without charging you with a crime, so isn't it possible they just wanted to scare you, and that the danger has passed?
     해들리: 차 안의 남자들은 범죄 혐의 없이 풀어 줬죠. 그냥 겁을 주려 했을 뿐이고 위험은 지나갔을 가능성은 없습니까?
 
 081. AMARA: They don't charge people, sir. A charge is paper. Paper can be fought.
@@ -269,7 +269,7 @@
 085. FARROW: Is there anything on redirect, Mr. Reardon, before I rule?
     패로: 결정하기 전에 재주신문 있습니까, 레이든 변호사?
 
-086. DAN: Just one question, Your Honor. While you were detained at Ridgefield, what did you do on Tuesday nights?
+086. DAN: Just one question, Your Honor. Ms. Diallo, while you were detained at Ridgefield, what did you do on Tuesday nights?
     댄: 질문 하나만 하겠습니다, 재판장님. 리지필드에 구금돼 있는 동안 화요일 밤마다 뭘 하셨습니까?
 
 087. AMARA: I taught English to the other women, twelve of them, and the guards started calling me "teacher." One of them said "Good luck, teacher" when I left.
@@ -278,7 +278,7 @@
 088. DAN: I have nothing further, Your Honor.
     댄: 더 질문 없습니다, 재판장님.
 
-089. FARROW: I'm prepared to rule from the bench, so please stand if you're able, ma'am.
+089. FARROW: I'm prepared to rule from the bench, so please stand if you're able, Ms. Diallo.
     패로: 바로 결정을 내리겠습니다. 가능하시면 일어나 주세요.
 
 090. FARROW: I find the respondent credible. Her testimony was detailed, consistent with her declaration, and consistent with country conditions reports.
@@ -290,7 +290,7 @@
 092. AISHA: "A well-founded fear" means a fear that a reasonable person would have, based on real facts.
     아이샤: "충분한 근거가 있는 두려움"은 실제 사실에 근거해 합리적인 사람이라면 가질 두려움이라는 뜻이에요.
 
-093. FARROW: Asylum is granted. Does the government reserve appeal, counsel?
+093. FARROW: Asylum is granted. Mr. Hadley, does the government reserve appeal?
     패로: 망명을 인정합니다. 정부 측은 항소권을 유보합니까?
 
 094. HADLEY: The government waives appeal, Your Honor.
@@ -302,7 +302,7 @@
 096. AMARA: It's final, and I'm a teacher, but I don't know what to say, which has never happened to me.
     아마라: 확정. 전 교사인데 할 말을 모르겠어요. 이런 적은 한 번도 없었어요.
 
-097. FARROW: Off the record, ma'am, my mother taught fourth grade in Haiti for thirty years, so go find a classroom.
+097. FARROW: Off the record, Ms. Diallo, my mother taught fourth grade in Haiti for thirty years, so go find a classroom.
     패로: 비공식으로 말씀드리면, 제 어머니가 아이티에서 30년 동안 4학년을 가르치셨어요. 가서 교실을 찾으세요.
 
 098. AMARA: I already have one, in a church basement in the Bronx on Tuesday nights, because I never stopped.

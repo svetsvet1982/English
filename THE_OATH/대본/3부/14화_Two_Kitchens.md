@@ -320,7 +320,7 @@
 102. ELI: There's a plate for me?
     일라이: 제 접시가 있다고요?
 
-103. ROSE: This is Rose Reardon, Dan's mother. On my island, when someone's away, we set a plate, so the sea knows they're expected, and you're expected.
+103. ROSE: Mr. Ward, this is Rose Reardon, Dan's mother. On my island, when someone's away, we set a plate, so the sea knows they're expected, and you're expected.
     로즈: 난 로즈 레이든, 댄 엄마예요. 우리 섬에선 누가 멀리 가 있으면 접시를 놔요. 바다가 그 사람을 기다리는 줄 알게. 당신을 기다리고 있어요.
 
 104. ELI: Thank you, Mrs. Reardon, and I don't know what to say.
@@ -422,7 +422,7 @@
 136. DAN: And what's going to happen to Andre Sutton now?
     댄: 그럼 이제 앤드레 서튼은 어떻게 돼요?
 
-137. NAVARRO: That's a new investigation in a different file, and I can't say anything about it, and you know why. There's one more thing, off the record.
+137. NAVARRO: That's a new investigation in a different file, and I can't say anything about it, and you know why. Mr. Reardon, there's one more thing, off the record.
     나바로: 그건 새 수사예요. 다른 파일이죠. 아무것도 말씀 못 드려요. 이유는 아시잖아요. 하나 더 있어요. 비공식으로요.
 
 138. DAN: Off the record, then.

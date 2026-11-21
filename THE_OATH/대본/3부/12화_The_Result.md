@@ -86,7 +86,7 @@
 024. TRAN: You don't sound surprised, Mr. Reardon, not even a little.
     트랜: 안 놀라시네요, 레이든 변호사님. 조금도요.
 
-025. DAN: I'll be honest, because you've been honest with me. We've known that name since August, from a newspaper clipping from March 2012 that Eli's mother cut out and circled in red.
+025. DAN: Mr. Tran, I'll be honest, because you've been honest with me. We've known that name since August, from a newspaper clipping from March 2012 that Eli's mother cut out and circled in red.
     댄: 솔직히 말씀드릴게요. 검사님도 저한테 솔직하셨으니까요. 8월부터 그 이름을 알았어요. 2012년 3월 신문 기사에서요. 일라이 어머니가 오려서 빨간 동그라미를 쳐 두셨어요.
 
 026. TRAN: You've known since August, and you didn't tell us one word.
@@ -137,7 +137,7 @@
 041. DAN: In July, Mr. Tran told me you don't review cases in litigation.
     댄: 7월에 트랜 검사님은 소송 중인 사건은 재검토 안 한다고 하셨는데요.
 
-042. NAVARRO: He also said we'd look if something new came in, and something new came in, a hat with fifteen zeros.
+042. NAVARRO: Mr. Tran also said we'd look if something new came in, and something new came in, a hat with fifteen zeros.
     나바로: 새로운 게 들어오면 본다고도 했죠. 새로운 게 들어왔어요. 0이 열다섯 개 달린 모자요.
 
 043. DAN: How long will all of that take, Ms. Navarro?
@@ -167,7 +167,7 @@
 051. TRAN: I sat in that courtroom in 2012 as a student and took notes, and I wrote "clean case" in the margin. I still have the notebook.
     트랜: 2012년에 학생으로 그 법정에 앉아서 메모했어요. 여백에 "깨끗한 사건"이라고 썼죠. 그 노트 아직 갖고 있어요.
 
-052. DAN: What are you going to do with it now?
+052. DAN: What are you going to do with it now, Mr. Tran?
     댄: 이제 그걸 어떻게 하실 거예요?
 
 053. TRAN: I'll keep it on my desk next to my bar certificate, so I remember what "clean" looks like from the outside.

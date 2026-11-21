@@ -119,7 +119,7 @@
 035. GRADY: All rise.
     그레이디: 모두 기립.
 
-036. DELGADO: Be seated. This is People versus Eli Ward, so Officer Grady, please bring in the defendant.
+036. DELGADO: Be seated. This is People versus Eli Ward, so Officer Grady, please bring in Mr. Ward.
     델가도: 앉으세요. 피플 대 일라이 워드 사건입니다. 그레이디 경위, 피고인을 데려오세요.
 
 037. LORETTA: There he is.
@@ -146,7 +146,7 @@
 044. NAVARRO: We do, Your Honor, and may I take a moment to explain it? I'll be brief, because I've been told the court appreciates brief.
     나바로: 있습니다, 재판장님. 잠시 설명드려도 되겠습니까? 간단히 하겠습니다. 재판부가 간단한 걸 좋아하신다고 들었습니다.
 
-045. DELGADO: The court does, very much, so go ahead, counsel.
+045. DELGADO: The court does, very much, so go ahead, Ms. Navarro.
     델가도: 매우 좋아합니다. 하세요, 검사.
 
 046. NAVARRO: Your Honor, the Conviction Integrity Unit has completed a full review of this case. We examined the forensic results, the police file, and the testimony this court heard in October.
@@ -170,7 +170,7 @@
 052. DELGADO: Is there anything from the defense before I rule, Mr. Reardon?
     델가도: 결정 전에 변호인 측 할 말 있습니까, 레이든 변호사?
 
-053. DAN: Your Honor, the defense joins the People's application, and we thank both prosecutors for their honesty.
+053. DAN: Your Honor, the defense joins the People's application, and we thank Ms. Navarro and Mr. Tran for their honesty.
     댄: 재판장님, 변호인 측은 검찰 신청에 동참합니다. 두 검사님의 정직함에 감사드립니다.
 
 054. DELGADO: Is there anything Mr. Ward would like to say before I rule? He doesn't have to.
@@ -179,7 +179,7 @@
 055. ELI: Your Honor, can I say it after? I've been practicing for sixteen years. I think I'll say it better standing on the sidewalk.
     일라이: 재판장님, 끝나고 말해도 될까요? 16년 동안 연습했어요. 인도에 서서 하면 더 잘할 것 같아요.
 
-056. DELGADO: That's a reasonable request, so would the defendant please stand.
+056. DELGADO: That's a reasonable request, so please stand, Mr. Ward.
     델가도: 합리적인 요청입니다. 피고인은 일어나 주세요.
 
 057. LORETTA: Stand up straight, baby.
@@ -281,7 +281,7 @@
 089. ELI: Tell him I haven't had a real waffle since 2011. Tell him I'm going to have opinions.
     일라이: 2011년 이후로 진짜 와플을 못 먹어 봤다고 전해 줘. 아주 할 말이 많을 거라고.
 
-090. NAVARRO: Is Ruth here, Dan? Did she make it this morning?
+090. NAVARRO: Is Ruth here, Mr. Reardon? Did she make it this morning?
     나바로: 루스 오셨어요, 댄? 오늘 아침 오셨어요?
 
 091. DAN: She's in the back row on the aisle, with her cushion, and she heard every word.
@@ -299,7 +299,7 @@
 095. RUTH: Bosses always take out the best word, which is how you know they're bosses. You'll be one someday, so leave it in.
     루스: 상사들은 늘 제일 좋은 단어를 빼. 그래서 상사인 거야. 너도 언젠간 상사가 될 거야. 그땐 넣어 둬.
 
-096. TRAN: I brought something for your client, Dan, if you think it's appropriate.
+096. TRAN: I brought something for your client, Mr. Reardon, if you think it's appropriate.
     트랜: 의뢰인께 드릴 게 있어요, 댄. 적절하다고 생각하시면요.
 
 097. DAN: What is it, Phil? You look like you didn't sleep either.
@@ -311,7 +311,7 @@
 099. DAN: I'll give it to him. Phil, you didn't have to do that.
     댄: 전해 드릴게요. 필, 그렇게까지 안 하셔도 됐는데요.
 
-100. TRAN: I know I didn't, and that's exactly why I did it.
+100. TRAN: I know I didn't, Mr. Reardon, and that's exactly why I did it.
     트랜: 안 해도 되는 거 알아요. 그래서 한 거예요.
 
 101. KEVIN: Danny, I'm in uniform, because I came from a shift, so is that okay? I didn't want to make it about cops.
@@ -428,13 +428,13 @@
 138. MAE: Oh, then clap, everybody clap, and clap until the judge hears it upstairs.
     메이: 아, 그럼 쳐. 다들 박수 쳐. 위층 판사님한테 들릴 때까지 쳐.
 
-139. ELI: Dan, is that Ruth over there, in the wheelchair?
+139. ELI: Mr. Reardon, is that Ruth over there, in the wheelchair?
     일라이: 댄, 저기 휠체어에 계신 분이 루스예요?
 
 140. DAN: That's Ruth.
     댄: 루스예요.
 
-141. ELI: I wrote you a letter in 2021, ma'am, and you wrote back one line: "Keep writing, because somebody will read it twice." I kept writing.
+141. ELI: Ms. Abernathy, I wrote you a letter in 2021, and you wrote back one line: "Keep writing, because somebody will read it twice." I kept writing.
     일라이: 2021년에 편지를 썼는데 한 줄로 답장 주셨어요. "계속 써. 누군가 두 번 읽을 거야." 계속 썼어요.
 
 142. RUTH: I remember, so don't kneel, stand up. You've been standing for sixteen years, so don't stop now just because you're tired.

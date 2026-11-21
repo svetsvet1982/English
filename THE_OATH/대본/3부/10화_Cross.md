@@ -56,7 +56,7 @@
 014. RUTH: Go, and Dan, don't object too much, because every objection tells the judge you're scared.
     루스: 가. 그리고 댄, 이의 너무 많이 하지 마. 이의할 때마다 판사한테 겁먹었다고 말하는 셈이야.
 
-015. DELGADO: We're back on the record, and the witness is still under oath. Mr. Tran, you may begin your cross-examination.
+015. DELGADO: We're back on the record, and Ms. Greene, you're still under oath. Mr. Tran, you may begin your cross-examination.
     델가도: 다시 기록을 시작합니다. 증인은 아직 선서 상태입니다. 트랜 검사, 반대신문 시작하세요.
 
 016. TRAN: Thank you, Your Honor. Did you think about my question at lunch, Ms. Greene?
@@ -65,7 +65,7 @@
 017. TASHA: Yes, I thought about it the whole time I was eating my toast.
     타샤: 네, 토스트 먹는 내내 생각했어요.
 
-018. TRAN: Then let's start there. In 2012, under oath, you told a jury you were sure the defendant was the man who shot Antonio Vasquez, so were you lying then?
+018. TRAN: Then let's start there. In 2012, under oath, you told a jury you were sure the defendant was the man who shot Antonio Vasquez, so, Ms. Greene, were you lying then?
     트랜: 그럼 거기서 시작하죠. 2012년에 선서하고 배심원단에게 피고인이 안토니오 바스케스를 쏜 남자라고 확신한다고 했습니다. 그때 거짓말을 한 겁니까?
 
 019. TASHA: Yes, I was lying then.
@@ -95,7 +95,7 @@
 027. TASHA: That's not true, because I have a lot to lose, and you don't know what I have to lose.
     타샤: 그건 사실이 아니에요. 잃을 게 많아요. 제가 뭘 잃을 수 있는지 모르시잖아요.
 
-028. TRAN: It's a yes-or-no question, so can you be charged for what you said in 2012?
+028. TRAN: It's a yes-or-no question, Ms. Greene, so can you be charged for what you said in 2012?
     트랜: 예, 아니요로 답하는 질문입니다. 2012년에 한 말로 기소될 수 있습니까?
 
 029. TASHA: No.
@@ -113,7 +113,7 @@
 033. TASHA: Yes, that's right, in her kitchen in her apartment.
     타샤: 네, 맞아요. 그분 아파트 부엌에서요.
 
-034. TRAN: And who else was in that kitchen with you?
+034. TRAN: And who else was in that kitchen with you, Ms. Greene?
     트랜: 그 부엌에 또 누가 있었습니까?
 
 035. TASHA: My lawyer was there, and Mr. Reardon, and Ms. Bellamy with the stamp, and Mrs. Ward, who was making coffee.
@@ -137,13 +137,13 @@
 041. DAN: Objection, Your Honor, because that's hearsay, and it assumes facts.
     댄: 이의 있습니다, 재판장님. 전문 증거이고, 사실을 전제하고 있습니다.
 
-042. DELGADO: What's your good-faith basis for that question, counsel?
+042. DELGADO: What's your good-faith basis for that question, Mr. Tran?
     델가도: 그 질문의 선의의 근거가 뭡니까, 검사?
 
 043. TRAN: The witness herself described the rumor to the defense investigator, Your Honor. It's in his notes. We received them in discovery.
     트랜: 증인 본인이 변호인 측 조사관에게 그 소문을 말했습니다, 재판장님. 조사관 메모에 있습니다. 증거 개시로 받았습니다.
 
-044. DELGADO: Then you can ask her about the rumor itself, but not whether it's true, so rephrase, counsel.
+044. DELGADO: Then you can ask her about the rumor itself, but not whether it's true, so rephrase, Mr. Tran.
     델가도: 그럼 소문 자체에 대해선 물어도 됩니다. 사실인지 여부는 말고요. 바꿔 물으세요, 검사.
 
 045. TRAN: You've heard a rumor that the Ward family paid you, haven't you?
@@ -158,7 +158,7 @@
 048. TASHA: The man came closer than that. He crossed toward us. Toward the bus stop.
     타샤: 그 남자는 그보다 가까이 왔어요. 저희 쪽으로 건너왔어요. 버스 정류장 쪽으로요.
 
-049. TRAN: How close was he? Can you show us in this room?
+049. TRAN: How close was he, Ms. Greene? Can you show us in this room?
     트랜: 얼마나 가까웠습니까? 이 법정에서 보여 줄 수 있습니까?
 
 050. TASHA: Maybe twenty feet, from here to that door, which is closer than you are to me right now.
@@ -182,7 +182,7 @@
 056. TASHA: Nobody asked about his hands that night, or the next night, or ever.
     타샤: 그날 밤에도, 다음 날 밤에도, 그 뒤로도 아무도 손에 대해 묻지 않았어요.
 
-057. TRAN: Answer yes or no, please. Did you mention a tattoo to the police in 2011?
+057. TRAN: Yes or no, Ms. Greene. Did you mention a tattoo to the police in 2011?
     트랜: 예, 아니요로 답해 주세요. 2011년에 경찰에게 문신 얘기를 했습니까?
 
 058. TASHA: No.
@@ -209,7 +209,7 @@
 065. TRAN: Your Honor, I'd ask that the witness answer the question.
     트랜: 재판장님, 증인이 질문에 답하도록 해 주십시오.
 
-066. DELGADO: Was this year the first time, yes or no?
+066. DELGADO: Ms. Greene, was this year the first time, yes or no?
     델가도: 올해가 처음이었습니까? 예, 아니요로.
 
 067. TASHA: Yes.
@@ -230,7 +230,7 @@
 072. TASHA: Those were the words he gave me, not mine, because I was fifteen, and I didn't talk like that.
     타샤: 그건 그 사람이 준 말이에요. 제 말이 아니었어요. 전 열다섯 살이었고, 그렇게 말하지 않았어요.
 
-073. TRAN: And who gave you those words?
+073. TRAN: And who gave you those words, Ms. Greene?
     트랜: 그럼 누가 그 말을 줬습니까?
 
 074. TASHA: The detective did, when he said, "Keep it simple, because juries like simple." I practiced "a hundred percent" in the mirror because it sounded like math, and I was bad at math.
@@ -248,7 +248,7 @@
 078. DAN: Objection, because that's compound, and it's argumentative.
     댄: 이의 있습니다. 복합 질문이고, 논쟁적입니다.
 
-079. DELGADO: Sustained, so one question at a time, counsel, and ask, don't argue.
+079. DELGADO: Sustained, so one question at a time, Mr. Tran, and ask, don't argue.
     델가도: 인정합니다. 한 번에 질문 하나씩 하세요, 검사. 묻고, 따지지 마세요.
 
 080. AISHA: Argumentative means he was making a speech, not asking a question.
@@ -281,7 +281,7 @@
 089. TASHA: I...
     타샤: 저는...
 
-090. TRAN: Yes or no, please. On October ninth, were you sure it wasn't him?
+090. TRAN: Yes or no, Ms. Greene. On October ninth, were you sure it wasn't him?
     트랜: 예, 아니요로 답해 주세요. 10월 9일에 그 사람이 아니라고 확신했습니까?
 
 091. TASHA: I knew the man was older. I knew that much. I knew it the second I saw his face.
@@ -305,7 +305,7 @@
 097. TASHA: That's... I don't... It's not like that, and it's really not what you're making it sound like.
     타샤: 그건... 저는... 그런 게 아니에요. 검사님이 말하는 그런 게 정말 아니에요.
 
-098. TRAN: Then explain to us how a memory gets stronger with time.
+098. TRAN: Then explain to us, Ms. Greene, how a memory gets stronger with time.
     트랜: 그럼 기억이 어떻게 시간이 지나면서 더 강해지는지 설명해 보세요.
 
 099. DAN: Objection, Your Honor, that's argumentative.
@@ -317,7 +317,7 @@
 101. TASHA: I don't know how to say it, and I'm sorry, because I don't know the right words. Can I have some water?
     타샤: 어떻게 말해야 할지 모르겠어요. 죄송해요. 맞는 말을 모르겠어요. 물 좀 마셔도 될까요?
 
-102. DELGADO: Officer Grady, please bring water for the witness, and the witness may take a moment.
+102. DELGADO: Officer Grady, please bring water for the witness, and take a moment, Ms. Greene.
     델가도: 그레이디 경위, 증인에게 물을 갖다주세요. 증인은 잠시 쉬어도 됩니다.
 
 103. RUTH: Breathe, Dan, because you're holding the table like it's a bench in a moving courthouse.
@@ -341,7 +341,7 @@
 109. DAN: Objection, Your Honor, because that's been asked and answered.
     댄: 이의 있습니다, 재판장님. 이미 묻고 답한 질문입니다.
 
-110. DELGADO: Sustained, counsel, because you've made your point and I heard it. Is there anything else?
+110. DELGADO: Sustained, Mr. Tran, because you've made your point and I heard it. Is there anything else?
     델가도: 인정합니다, 검사. 요점은 전달됐고 저도 들었습니다. 더 있습니까?
 
 111. TRAN: Nothing further, Your Honor.
@@ -371,7 +371,7 @@
 119. TASHA: I was looking at Eli's face and remembering a star, but Eli didn't have one, because that week he had a Band-Aid on his hand from the courts. I thought, "Where's the star?" Nobody asked, so I said "might."
     타샤: 일라이 얼굴을 보면서 별을 떠올리고 있었어요. 근데 일라이는 별이 없었어요. 그 주엔 핸드볼장에서 다쳐서 손에 반창고를 붙이고 있었어요. "별은 어디 있지?" 했는데 아무도 안 물었어요. 그래서 "일지도"라고 했어요.
 
-120. DAN: So why are you more sure today than you were at fifteen?
+120. DAN: So, Ms. Greene, why are you more sure today than you were at fifteen?
     댄: 그럼 왜 열다섯 살 때보다 오늘 더 확신합니까?
 
 121. TRAN: Objection, because that's the question the witness already couldn't answer.
@@ -395,16 +395,16 @@
 127. TASHA: No, and I lost two nights of pay to be here. Mr. Huang said he'd hold my shift, and he said, "Go fix it."
     타샤: 아니요. 여기 오느라 이틀 치 일당을 날렸어요. 황 사장님이 근무는 빼 주겠다면서 "가서 바로잡아"라고 했어요.
 
-128. DAN: Thank you, and I have nothing further, Your Honor.
+128. DAN: Thank you, Ms. Greene, and I have nothing further, Your Honor.
     댄: 감사합니다. 더 이상 질문 없습니다, 재판장님.
 
-129. DELGADO: Is there any recross from the People?
+129. DELGADO: Is there any recross, Mr. Tran?
     델가도: 검찰 측 재반대신문 있습니까?
 
 130. TRAN: No, Your Honor, the People have nothing more for this witness.
     트랜: 없습니다, 재판장님. 검찰은 이 증인에게 더 물을 게 없습니다.
 
-131. DELGADO: Then I have a question of my own, because a judge is allowed to do that. Both lawyers may object, but I suspect they won't.
+131. DELGADO: Then I have a question of my own, Ms. Greene, because a judge is allowed to do that. Both lawyers may object, but I suspect they won't.
     델가도: 그럼 제가 직접 묻겠습니다. 판사도 그럴 수 있습니다. 양측 모두 이의할 수 있지만, 안 할 것 같군요.
 
 132. TASHA: Okay, Judge, go ahead.
@@ -416,7 +416,7 @@
 134. TASHA: It had five points, filled in, dark blue, almost black, like somebody did it with a pen. It wasn't a fancy tattoo but a homemade one, right here, between the thumb and the first knuckle.
     타샤: 꼭짓점 다섯 개, 채워져 있었어요. 진한 파랑, 거의 검정. 누가 펜으로 그린 것처럼요. 멋진 문신이 아니라 집에서 한 거요. 바로 여기, 엄지랑 첫째 손가락 마디 사이에요.
 
-135. DELGADO: Thank you, and that's all. You may step down, ma'am, because you did your job.
+135. DELGADO: Thank you, and that's all. You may step down, Ms. Greene, because you did your job.
     델가도: 감사합니다. 이상입니다. 증인석에서 내려가셔도 됩니다. 증인은 할 일을 다 했습니다.
 
 136. DELGADO: And who is your next witness going to be, Mr. Reardon?

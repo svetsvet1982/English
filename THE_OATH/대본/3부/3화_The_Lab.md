@@ -95,7 +95,7 @@
 027. TRAN: Yes, Your Honor, it's a guess that's been dressed up as science.
     트랜: 네, 재판장님. 과학으로 포장한 짐작입니다.
 
-028. DELGADO: Let me ask you a hypothetical, counsel. Suppose the hat comes back with a single male profile, and it isn't Mr. Ward's.
+028. DELGADO: Let me ask you a hypothetical, Mr. Tran. Suppose the hat comes back with a single male profile, and it isn't Mr. Ward's.
     델가도: 가정을 하나 해 보죠, 검사. 모자에서 남성 단일 프로필이 나왔는데, 그게 워드 씨 것이 아니라고 합시다.
 
 029. TRAN: Yes.
@@ -125,7 +125,7 @@
 037. LORETTA: I'm sorry, Judge, it just slipped out, because it's been sixteen years.
     로레타: 죄송해요, 판사님. 그냥 튀어나왔어요. 16년이나 됐거든요.
 
-038. DELGADO: I understand, ma'am, and I'll allow it once. Is there anything else from the People?
+038. DELGADO: I understand, ma'am, and I'll allow it once. Mr. Tran, is there anything else from the People?
     델가도: 이해합니다, 부인. 한 번은 넘어가죠. 검찰 측 더 있습니까?
 
 039. TRAN: There's only the practical problem, Your Honor, because as of this morning, the property clerk's database shows the hat as disposed of, due to water damage in 2013.
@@ -140,7 +140,7 @@
 042. TRAN: I learned it at eight-fifteen this morning. I'm telling the court at ten-twenty. That's as fast as I could be honest.
     트랜: 저도 오늘 아침 8시 15분에 알았습니다. 법원에 10시 20분에 말씀드리는 겁니다. 그게 제가 정직할 수 있는 최대한 빠른 속도였습니다.
 
-043. DELGADO: I believe you, counsel. Does the defense have a response to that?
+043. DELGADO: I believe you, Mr. Tran. Does the defense have a response to that?
     델가도: 믿습니다, 검사. 변호인 측 답변 있습니까?
 
 044. DAN: Your Honor, evidence in a homicide case can't be destroyed without a written release from the District Attorney. If there's no release form, I don't believe the hat was destroyed. I believe it was mislabeled.

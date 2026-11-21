@@ -266,7 +266,7 @@
 084. LORETTA: Nobody opened it for fifteen years.
     로레타: 15년 동안 아무도요.
 
-085. DAN: For fifteen years. There's a word lawyers use for this, which is tunnel vision, and it means that once the police decide who did it, they stop seeing anything else.
+085. DAN: For fifteen years, Mrs. Ward. There's a word lawyers use for this, which is tunnel vision, and it means that once the police decide who did it, they stop seeing anything else.
     댄: 15년 동안요. 변호사들이 이럴 때 쓰는 말이 있어요. 터널 시야요. 경찰이 범인을 정하고 나면 다른 건 아무것도 안 보이게 된다는 뜻이에요.
 
 086. LORETTA: Tunnel vision, like a horse with those things over its eyes.
@@ -359,7 +359,7 @@
 115. ELI: I'm keeping count. Ma, I love you, and make him take some chicken home, because he sounds skinny.
     일라이: 세고 있어요. 엄마, 사랑해요. 저 사람 닭 좀 싸 보내요. 목소리가 말라 보여요.
 
-116. FRANK: I'm Frank DeLuca, ma'am, and Dan told me to come up. Your buzzer says "Broken," so I followed a lady with groceries.
+116. FRANK: Mrs. Ward, I'm Frank DeLuca, and Dan told me to come up. Your buzzer says "Broken," so I followed a lady with groceries.
     프랭크: 프랭크 델루카입니다, 부인. 댄이 올라오라고 해서요. 초인종에 "고장"이라고 써 있어서 장바구니 든 아주머니를 따라 들어왔어요.
 
 117. LORETTA: That's Mrs. Pagan from 4C, and she lets in anybody who looks tired, so sit down, because you look tired.
@@ -410,7 +410,7 @@
 132. LORETTA: So I wait again, like I always do.
     로레타: 그러니까 난 또 기다리는 거네요. 늘 그랬듯이.
 
-133. FRANK: You wait, but this time you're not waiting alone, ma'am, because you've got a lab, a judge, and a stubborn old cop.
+133. FRANK: You wait, but this time you're not waiting alone, Mrs. Ward, because you've got a lab, a judge, and a stubborn old cop.
     프랭크: 기다리시는 거죠. 하지만 이번엔 혼자가 아니에요, 부인. 연구소도 있고, 판사도 있고, 고집 센 늙은 경찰도 있잖아요.
 
 134. LORETTA: And what will you do while I wait?

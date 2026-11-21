@@ -125,7 +125,7 @@
 037. TRAN: None taken, Detective, and thank you. I have nothing further, Your Honor.
     트랜: 괜찮습니다, 형사님. 감사합니다. 더 질문 없습니다, 재판장님.
 
-038. DELGADO: That was short, counsel, and shorter than I expected.
+038. DELGADO: That was short, Mr. Tran, and shorter than I expected.
     델가도: 짧았군요, 검사. 예상보다 짧았습니다.
 
 039. TRAN: The detective is experienced, Your Honor. He's done this two hundred times. He doesn't need much help from me.
@@ -332,7 +332,7 @@
 106. RAY: Nothing. It had nothing to do with the case.
     레이: 없습니다. 사건과 아무 관계 없었습니다.
 
-107. DAN: Thank you, Detective, and now let's talk about the lineup on October seventeenth, 2011, when you were in the viewing room with the witness.
+107. DAN: Thank you, Detective, and now let's talk about the lineup on October seventeenth, 2011, when you were in the viewing room with Ms. Greene.
     댄: 감사합니다, 형사님. 이제 2011년 10월 17일 라인업 얘기를 하죠. 형사님은 증인과 함께 관찰실에 있었습니다.
 
 108. RAY: Yes, I was in the room with her.
@@ -422,7 +422,7 @@
 136. TRAN: Objection, Your Honor.
     트랜: 이의 있습니다, 재판장님.
 
-137. DELGADO: Sustained, so please ask a question instead, counsel.
+137. DELGADO: Sustained, so please ask a question instead, Mr. Reardon.
     델가도: 인정합니다. 대신 질문을 하세요, 변호인.
 
 138. DAN: In 2012, you told the jury, "Per my report, the witness made a positive identification," so which report was that?
