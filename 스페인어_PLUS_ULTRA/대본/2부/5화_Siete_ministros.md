@@ -45,20 +45,20 @@
 010. NÚRIA: Escolta, no hace falta que lo entiendas. Hace falta que entiendas esto: solo algunos tornos llevaban el regalo. No todos.
     누리아: 들어 봐, 그건 이해 안 해도 돼. 이것만 이해하면 돼. '선물'이 들어 있던 회전문은 몇 개뿐이었어. 전부가 아니라.
 
-011. ÁLVARO: ¿Cuáles?
-    알바로: 어느 거?
+011. ÁLVARO: ¿Cuáles, exactamente? Porque en ese pabellón había más tornos que en el metro de Sol en hora punta.
+    알바로: 정확히 어느 거? 그 홀엔 출근 시간 솔 역보다 개찰구가 더 많았잖아.
 
 012. NÚRIA: La entrada del programa ministerial, pabellón cuatro. El lunes, entre las nueve y diez y las diez. El domingo, las taquillas del recorrido lo instalaron; el lunes, el torno lo despertó.
     누리아: 장관 프로그램 입구, 4번 홀. 월요일 9시 10분부터 10시 사이. 일요일에 투어 동선의 사물함이 심어 놓고, 월요일에 개찰구가 깨운 거야.
 
-013. ÁLVARO: Media hora. La media hora en que entraban los ministros.
-    알바로: 30분. 장관들이 들어가던 그 30분이네.
+013. ÁLVARO: Media hora. Justo la media hora en que entraban los ministros, rodeados de escoltas y fotógrafos, con la acreditación colgada del cuello como si fuera una medalla.
+    알바로: 30분. 장관들이 경호원이랑 사진기자들에 둘러싸여, 출입증을 메달처럼 목에 걸고 들어가던 딱 그 30분이네.
 
 014. NÚRIA: Exacte. Quien hizo esto no quería ochenta y cuatro mil móviles; eso es ruido. Quería unos pocos, muy concretos, y sabía exactamente a qué hora iban a pasar por esa puerta y con qué tarjeta en la mano.
     누리아: 바로 그거야. 이걸 만든 사람은 휴대전화 8만 4천 대를 원한 게 아니야. 그건 소음이지. 아주 정확한 몇 대를 원했고, 그 사람들이 몇 시에, 손에 어떤 카드를 들고 그 문을 지나갈지 정확히 알고 있었어.
 
-015. ÁLVARO: ¿Cuántos?
-    알바로: 몇 대야?
+015. ÁLVARO: ¿Y cuántos de esos pocos teléfonos tan concretos has encontrado ya? Dímelo sin rodeos, que todavía no me he comido ni el cruasán.
+    알바로: 그럼 그 '아주 정확한 몇 대' 중에 벌써 몇 대나 찾았어? 돌려 말하지 마. 나 아직 크루아상도 못 먹었어.
 
 016. NÚRIA: Anoche tenía tres: Albers, la francesa y el italiano. De madrugada, el polaco, el holandés y la portuguesa.
     누리아: 어젯밤엔 셋이었어. 알버스, 프랑스 장관, 이탈리아 장관. 새벽에 폴란드, 네덜란드, 포르투갈 장관.
@@ -69,8 +69,8 @@
 018. NÚRIA: Sí. Seis. Y luego paré, porque el séptimo no me lo quería creer.
     누리아: 응. 여섯. 그리고 거기서 멈췄어. 일곱 번째는 믿고 싶지 않았거든.
 
-019. ÁLVARO: Dímelo.
-    알바로: 말해 줘.
+019. ÁLVARO: Dímelo tú, Núria. Prefiero oírlo de ti que leerlo mañana en un informe con tres sellos.
+    알바로: 네 입으로 말해 줘, 누리아. 내일 도장 세 개 찍힌 보고서로 읽느니 너한테 듣는 게 나아.
 
 020. NÚRIA: Que te lo diga tu amigo de Bilbao. Le he pasado los datos a las cinco, y si lo dice él, a lo mejor me lo creo.
     누리아: 네 빌바오 친구한테 들어. 다섯 시에 데이터 넘겼어. 그 사람 입으로 들으면 나도 믿을지 모르니까.
@@ -81,8 +81,8 @@
 022. NÚRIA: No te emociones. Le he pasado un hash y una lista de direcciones. Nada que no pueda negar delante de un juez.
     누리아: 감동하지 마. 해시값 하나랑 주소 목록 하나 넘긴 거야. 판사 앞에서 부인 못 할 건 하나도 없어.
 
-023. ÁLVARO: Lo pongo en altavoz. ¿Iker? ¿Estás despierto?
-    알바로: 스피커로 돌릴게. 이케르? 깨어 있어?
+023. ÁLVARO: Vale, lo pongo en altavoz para que no tengas que repetirlo. ¿Iker? ¿Estás despierto o te he sacado de la cama?
+    알바로: 알았어, 두 번 말 안 하게 스피커로 돌릴게. 이케르? 깨어 있어, 아니면 내가 침대에서 끌어낸 거야?
 
 024. IKER: Despierto y con el tercer café, Gato. Buenos días, señora Ballester.
     이케르: 깨어 있고 커피 세 잔째예요, 가토. 바예스테르 씨도 좋은 아침이에요.
@@ -99,14 +99,14 @@
 028. IKER: Ni de coña, pensé yo… espera, sí. El séptimo es nuestro, Gato. El móvil personal del ministro Ferrán.
     이케르: 설마 했죠… 잠깐, 맞더라고요. 일곱 번째는 우리 쪽이에요, 가토. 페란 장관의 개인 휴대전화요.
 
-029. ÁLVARO: Joder.
-    알바로: 젠장.
+029. ÁLVARO: Joder. Joder, Iker, que es el ministro que tiene que salir hoy en la foto de clausura.
+    알바로: 젠장. 젠장, 이케르, 오늘 폐막 사진에 나와야 하는 장관이잖아.
 
 030. NÚRIA: Collons. Ho sabia. Lo sabía y no quería saberlo.
     누리아: 젠장. 알았어. 알고 있었는데 알고 싶지 않았던 거야.
 
-031. ÁLVARO: El de Transformación Digital. El anfitrión. El que dijo el lunes que España era el país más seguro de Europa.
-    알바로: 디지털전환부 장관. 주최국 장관. 월요일에 스페인이 유럽에서 제일 안전한 나라라고 했던 그 사람.
+031. ÁLVARO: El de Transformación Digital. El anfitrión. El mismo que dijo el lunes, delante de todas las cámaras, que España era el país más seguro de Europa para hacer negocios.
+    알바로: 디지털전환부 장관. 주최국 장관. 월요일에 모든 카메라 앞에서 스페인이 유럽에서 사업하기 제일 안전한 나라라고 했던 바로 그 사람.
 
 032. IKER: Con una diapositiva de un candado detrás. Lo tengo grabado.
     이케르: 뒤에 자물쇠 슬라이드까지 띄워 놓고요. 녹화해 뒀어요.
@@ -114,8 +114,8 @@
 033. NÚRIA: Siete ministros, Medina. Siete gobiernos con el teléfono abierto como una ventana en agosto. Y uno de ellos es el vuestro.
     누리아: 장관 일곱 명이야, 메디나. 정부 일곱 곳의 전화가 8월 창문처럼 활짝 열려 있었다고. 그중 하나는 너희 정부고.
 
-034. ÁLVARO: ¿Desde cuándo están escuchando?
-    알바로: 언제부터 듣고 있었던 거야?
+034. ÁLVARO: ¿Y desde cuándo nos están escuchando? Quiero decir, ¿desde qué hora exacta tienen acceso a todo lo que hay en esos teléfonos?
+    알바로: 그럼 언제부터 듣고 있었던 거야? 내 말은, 정확히 몇 시부터 그 전화기 안에 있는 걸 전부 볼 수 있었냐고.
 
 035. NÚRIA: Desde el lunes a las nueve y media. Correos, mensajes, fotos, y el micrófono cuando les da la gana. Si alguno de ellos ha dicho algo importante esta semana, aunque fuera en voz baja y en el baño, otro lo ha oído.
     누리아: 월요일 9시 반부터. 메일, 메시지, 사진, 그리고 내키면 마이크까지. 이번 주에 그중 누가 중요한 말을 했다면, 화장실에서 속삭였다 해도 다른 누군가가 들었어.
@@ -123,8 +123,8 @@
 036. ÁLVARO: Iker, ¿lo sabe alguien más en Madrid? ¿Arrieta, Santi, alguien?
     알바로: 이케르, 마드리드에 아는 사람 또 있어? 아리에타, 산티, 누구든?
 
-037. IKER: Todavía no. Pero el CCN ha abierto una incidencia por el ministro, y esto sube como la espuma.
-    이케르: 아직은요. 근데 CCN이 장관 건으로 사고 접수를 했으니까, 이거 거품처럼 확 올라가요.
+037. IKER: Todavía no. Pero el CCN ha abierto una incidencia por el ministro, y en cuanto la lea alguien del gabinete, esto sube como la espuma.
+    이케르: 아직은요. 근데 CCN이 장관 건으로 사고 접수를 했으니까, 비서실 누가 그걸 읽는 순간 이거 거품처럼 확 올라가요.
 
 038. ÁLVARO: Pues que suba. Prefiero que suba a que lo tapen.
     알바로: 올라가라 그래. 덮는 것보단 올라가는 게 나아.
@@ -138,14 +138,14 @@
 041. NÚRIA: Me voy a la feria. Weber quiere la lista antes de las diez, y a las seis los ministros se van a casa.
     누리아: 나 박람회장 갈래. 베버가 10시 전에 목록 달래. 6시면 장관들 다 집에 가.
 
-042. ÁLVARO: Voy contigo.
-    알바로: 같이 가.
+042. ÁLVARO: Voy contigo. Weber me conoce, y prefiero que me grite a mí a que te grite a ti.
+    알바로: 같이 가. 베버는 날 알아. 너한테 소리 지르느니 나한테 지르는 게 나아.
 
-043. NÚRIA: No te lo he pedido.
-    누리아: 부탁 안 했는데.
+043. NÚRIA: No te lo he pedido, Medina, y no pienso pedírtelo, ni hoy ni ningún otro día.
+    누리아: 부탁 안 했어, 메디나. 오늘도, 다른 날도 부탁할 생각 없고.
 
-044. ÁLVARO: Ya. Por eso voy.
-    알바로: 알아. 그래서 가는 거야.
+044. ÁLVARO: Ya lo sé. Por eso voy: si me lo pidieras, empezaría a preocuparme de verdad.
+    알바로: 알아. 그래서 가는 거야. 네가 부탁했으면 진짜로 걱정되기 시작했을 거야.
 
 045. WEBER: Señor Medina, señora Ballester. Cierren la puerta: estas paredes son de cartón.
     베버: 메디나 씨, 바예스테르 씨. 문 닫아 주세요. 이 벽은 판지예요.
@@ -156,14 +156,14 @@
 047. WEBER: No tengo humor para bromas. La ministra Albers se ha enterado esta mañana de que alguien lee sus mensajes desde el lunes, incluidos los de su hija, que tiene catorce años y le escribe todas las noches.
     베버: 농담할 기분 아닙니다. 알버스 장관은 오늘 아침에야 월요일부터 누군가 자기 메시지를 읽고 있었다는 걸 알았어요. 매일 밤 연락하는 열네 살 딸 메시지까지요.
 
-048. NÚRIA: Lo siento, Jonas. De verdad.
-    누리아: 미안해요, 요나스. 진심이에요.
+048. NÚRIA: Lo siento mucho, Jonas, de verdad. Sé lo que es descubrir que alguien ha leído lo que les escribes a los tuyos.
+    누리아: 정말 미안해요, 요나스, 진심으로요. 가족한테 쓴 걸 누가 읽었다는 걸 알게 되는 게 어떤 건지 나도 알아요.
 
 049. WEBER: Usted lo encontró. Yo quiero saber quién lo puso. Y quiero saberlo de él.
     베버: 당신은 찾아낸 사람이에요. 제가 알고 싶은 건 누가 심었느냐고, 그걸 이분한테 듣고 싶어요.
 
-050. ÁLVARO: De mí.
-    알바로: 저한테서요.
+050. ÁLVARO: ¿De mí? Yo llevo en Barcelona un mes y todavía me pierdo en el metro, señor Weber.
+    알바로: 저한테서요? 전 바르셀로나 온 지 한 달인데 아직도 지하철에서 길을 잃습니다, 베버 씨.
 
 051. WEBER: De su servicio. En Berlín recordamos 2022, señor Medina: ministros pinchados, un jefe cesado. Y ahora, siete teléfonos más.
     베버: 당신네 기관한테서요. 베를린은 2022년을 기억해요, 메디나 씨. 도청당한 장관들, 경질된 수장. 그리고 이제 전화가 일곱 대 더.
@@ -171,14 +171,14 @@
 052. ÁLVARO: Seis más, señor Weber. El séptimo teléfono es de nuestro propio ministro.
     알바로: 여섯 대 더죠, 베버 씨. 일곱 번째 전화는 우리 장관 겁니다.
 
-053. WEBER: ¿Me lo dice para tranquilizarme?
-    베버: 그걸 저 안심시키려고 하는 말인가요?
+053. WEBER: ¿Y eso me lo dice para tranquilizarme, señor Medina, o para que me preocupe todavía más?
+    베버: 그걸 저 안심시키려고 하시는 말인가요, 메디나 씨, 아니면 더 걱정하라고요?
 
 054. ÁLVARO: Porque es verdad. Nadie se pincha a sí mismo para disimular. Bueno, casi nadie.
     알바로: 사실이니까요. 위장하려고 자기 전화를 도청하는 사람은 없어요. 뭐, 거의 없죠.
 
-055. NÚRIA: No lo ayudes, Medina.
-    누리아: 도와주는 거 아니거든, 메디나.
+055. NÚRIA: No lo ayudes, Medina, que con ese "casi nadie" acabas de darle un argumento para Berlín.
+    누리아: 그만 거들어, 메디나. 그 '거의 없죠' 한마디로 방금 베를린에 핑계 하나 줬잖아.
 
 056. WEBER: Mire, mi gobierno no quiere un escándalo, pero tampoco quiere hacer el idiota. Si a las seis no tengo una explicación seria, Berlín llamará a su embajador antes de que nuestro avión haya aterrizado.
     베버: 보세요, 우리 정부는 스캔들을 원하지 않아요. 그렇다고 바보 취급당하고 싶지도 않고요. 6시까지 제대로 된 설명이 없으면, 우리 비행기가 착륙하기도 전에 베를린이 스페인 대사를 부를 겁니다.
@@ -192,14 +192,14 @@
 059. ÁLVARO: Puedo darle una de las tres hoy mismo, antes de las seis.
     알바로: 셋 중 하나는 오늘, 6시 전에 드릴 수 있습니다.
 
-060. WEBER: ¿Cuál?
-    베버: 어느 거요?
+060. WEBER: ¿Cuál de las tres? Le advierto que en Berlín no nos conformamos con la menos importante.
+    베버: 셋 중 어느 거요? 미리 말해 두지만 베를린은 제일 덜 중요한 걸로 만족하지 않습니다.
 
-061. ÁLVARO: La verdad. Las otras dos no dependen de mí.
-    알바로: 사실이요. 나머지 둘은 제 소관이 아니라서.
+061. ÁLVARO: La verdad, que es la más importante. Las otras dos no dependen de mí.
+    알바로: 사실이요. 그게 제일 중요한 거고요. 나머지 둘은 제 소관이 아니라서.
 
-062. WEBER: Es usted muy sincero para ser espía.
-    베버: 스파이치고는 아주 솔직하시네요.
+062. WEBER: Es usted muy sincero para ser espía. En mi experiencia, eso suele ser una mala señal.
+    베버: 스파이치고는 아주 솔직하시네요. 제 경험상 그건 보통 나쁜 징조인데요.
 
 063. NÚRIA: No te fíes, Jonas. Eso de la sinceridad es una técnica suya.
     누리아: 믿지 마요, 요나스. 그 솔직함도 이 사람 수법이에요.
@@ -216,17 +216,17 @@
 067. NÚRIA: Que escuche una caja durante unas horas. Mientras escucha, habla con su servidor. Y mientras habla con su servidor, yo le estoy mirando a él, y él no sabe que lo miro.
     누리아: 몇 시간 동안 상자나 들으라죠. 듣는 동안 그놈은 자기 서버랑 통신해요. 그리고 서버랑 통신하는 동안 난 그놈을 보고 있는 거고, 그놈은 내가 보고 있다는 걸 몰라요.
 
-068. ÁLVARO: ¿Puedes hacer eso?
-    알바로: 그게 돼?
+068. ÁLVARO: ¿De verdad puedes hacer eso sin que el del otro lado se dé cuenta de nada?
+    알바로: 진짜 그게 돼? 반대편 놈이 아무것도 눈치 못 채게?
 
 069. NÚRIA: Si nadie me quita los teléfonos antes de mañana, sí.
     누리아: 내일 전에 아무도 나한테서 전화기를 안 뺏어 가면, 돼.
 
-070. WEBER: ¿Quién se los iba a quitar?
-    베버: 누가 그걸 뺏어 간다는 거죠?
+070. WEBER: ¿Y quién se los iba a quitar? Esos teléfonos son de nuestra delegación, no de ustedes.
+    베버: 누가 그걸 뺏어 간다는 거죠? 그 전화기는 우리 대표단 거지, 당신들 게 아니잖아요.
 
-071. NÚRIA: Pregúntele a él.
-    누리아: 이 사람한테 물어보세요.
+071. NÚRIA: Pregúntele a él, que su gente tiene mucha práctica quitándome teléfonos a mí.
+    누리아: 이 사람한테 물어보세요. 이 사람네 사람들은 내 전화기 뺏는 데 아주 익숙하거든요.
 
 072. ÁLVARO: Probablemente mi jefa. Pero eso aún no ha pasado.
     알바로: 아마 제 상관이겠죠. 근데 그건 아직 일어나지 않았어요.
@@ -264,8 +264,8 @@
 083. ROIG: La directora y su jefe de gabinete. Moncloa la ha llamado esta mañana, y me ha llegado el tono.
     로이그: 국장님하고 비서실장. 오늘 아침 몽클로아에서 국장님한테 전화가 왔는데, 분위기가 나한테까지 전해졌지.
 
-084. ÁLVARO: ¿Y qué tono era?
-    알바로: 어떤 분위기였는데요?
+084. ÁLVARO: ¿Y qué tono era, si se puede saber? ¿De bronca, de miedo o de las dos cosas?
+    알바로: 어떤 분위기였는데요, 물어봐도 된다면? 호통이요, 겁이요, 아니면 둘 다?
 
 085. ROIG: Tono de 2022. Mira, yo en 2022 ya estaba en esta oficina, y vi a gente buena, gente que no había hecho nada, salir por esa puerta con una caja de cartón en los brazos. No quiero volver a ver ese desfile de cajas.
     로이그: 2022년 분위기. 봐, 난 2022년에도 이 사무실에 있었어. 아무 짓도 안 한 좋은 사람들이 판지 상자를 안고 저 문으로 나가는 걸 봤지. 그런 상자 행렬은 다시 보고 싶지 않아.
@@ -282,14 +282,14 @@
 089. ÁLVARO: Siete ministros. El domingo, las taquillas del recorrido oficial les instalaron el programa; el lunes, entre las nueve y diez y las diez, los tornos del programa ministerial lo activaron. El servidor sigue activo.
     알바로: 장관 일곱 명입니다. 일요일 공식 투어 동선의 사물함이 프로그램을 심었고, 월요일 9시 10분에서 10시 사이 장관 프로그램 개찰구가 그걸 깨웠습니다. 서버는 아직 살아 있습니다.
 
-090. ARRIETA: ¿Quién lo ha encontrado?
-    아리에타: 누가 찾아냈죠?
+090. ARRIETA: Muy bien. Ahora dígame quién lo ha encontrado, porque el CCN me asegura que no han sido ellos.
+    아리에타: 좋아요. 이제 누가 찾아냈는지 말해요. CCN은 자기들이 아니라고 하더군요.
 
-091. ÁLVARO: Núria Ballester. Con ayuda de Iker.
-    알바로: 누리아 바예스테르. 이케르가 도왔고요.
+091. ÁLVARO: Lo ha encontrado Núria Ballester, de Fosca Labs, con ayuda de Iker desde Madrid. Sin ella, todavía estaríamos mirando la app.
+    알바로: 포스카 랩스의 누리아 바예스테르가 찾았습니다. 마드리드에서 이케르가 도왔고요. 그 사람 아니었으면 아직도 앱만 들여다보고 있었을 겁니다.
 
-092. SANTI: Fuera de los canales, entiendo.
-    산티: 정식 경로 밖에서, 겠군요.
+092. SANTI: Fuera de los canales oficiales, entiendo. Porque yo no he visto ninguna solicitud de colaboración firmada.
+    산티: 정식 경로 밖에서, 겠군요. 서명된 협조 요청서는 하나도 못 봤으니까요.
 
 093. ÁLVARO: Dentro del canal más rápido, Santi. El único que funciona.
     알바로: 제일 빠른 경로 안에서죠, 산티. 유일하게 작동하는 경로.
@@ -303,14 +303,14 @@
 096. ARRIETA: Nadie va a llamar a nadie todavía. Escúchenme los dos. Ahora mismo, en Moncloa, hay una frase que se repite cada diez minutos.
     아리에타: 아직 아무도 아무한테 전화 안 합니다. 두 사람 다 들어요. 지금 이 순간 몽클로아에선 10분마다 반복되는 문장이 하나 있어요.
 
-097. ÁLVARO: Déjeme adivinar. "Discreción".
-    알바로: 맞혀 보죠. '신중'.
+097. ÁLVARO: Déjeme adivinar, directora. "Discreción". Lo he apostado esta mañana con un café de por medio.
+    알바로: 맞혀 보죠, 국장님. '신중'. 오늘 아침에 커피 한 잔 걸고 내기했거든요.
 
 098. ARRIETA: "Máxima discreción". El Gobierno no quiere que mañana la portada de un periódico diga que el anfitrión de la feria tecnológica más importante del mundo no sabe proteger ni a sus invitados ni a su propio ministro.
     아리에타: '최대한의 신중'. 정부는 내일 신문 1면에 세계에서 가장 중요한 기술 박람회의 주최국이 손님은커녕 자기 장관도 못 지킨다는 기사가 나가길 원하지 않아요.
 
-099. ÁLVARO: Pero es que no sabe.
-    알바로: 근데 실제로 못 지켰잖아요.
+099. ÁLVARO: Pero es que no sabe, directora. Ni a sus invitados ni a su ministro: eso no es un titular, es un hecho.
+    알바로: 근데 실제로 못 지켰잖아요, 국장님. 손님도, 자기 장관도요. 그건 헤드라인이 아니라 사실입니다.
 
 100. ARRIETA: Medina, no estoy aquí para que me dé titulares. La versión oficial será una incidencia técnica menor en la aplicación de la feria, ya corregida y sin datos comprometidos.
     아리에타: 메디나, 난 헤드라인 들으려고 여기 있는 게 아니에요. 공식 입장은 박람회 앱의 경미한 기술적 오류, 이미 수정됐고 유출된 데이터는 없음, 이렇게 갑니다.
@@ -321,14 +321,14 @@
 102. SANTI: Los holandeses dirán lo que les convenga. Nosotros nos ocupamos de lo nuestro, que es el ministro Ferrán. Lo demás es cosa de Exteriores.
     산티: 네덜란드 쪽은 자기들한테 유리한 말을 하겠죠. 우리는 우리 일, 즉 페란 장관을 챙기면 됩니다. 나머지는 외교부 소관이에요.
 
-103. ÁLVARO: Lo nuestro es saber quién lo ha hecho. Y por qué aquí, y ahora.
-    알바로: 우리 일은 누가 했는지 알아내는 겁니다. 왜 여기인지, 왜 지금인지도.
+103. ÁLVARO: Lo nuestro es saber quién lo ha hecho, y por qué aquí y ahora. Si nos limitamos a cuidar el teléfono de Ferrán, dentro de un mes volverá a pasar con otro.
+    알바로: 우리 일은 누가 했는지, 왜 여기서 지금인지 알아내는 겁니다. 페란 장관 전화만 챙기고 끝내면, 한 달 뒤에 다른 사람한테 또 일어날 거예요.
 
 104. ARRIETA: Y lo sabremos. Por eso el Centro Criptológico Nacional se hace cargo desde esta tarde de todos los dispositivos, con equipo propio, con cadena de custodia y sin terceros.
     아리에타: 알아낼 겁니다. 그래서 오늘 오후부터 국가암호센터가 모든 기기를 맡아요. 자체 인력으로, 증거 관리 절차를 지켜서, 제3자 없이.
 
-105. ÁLVARO: Sin terceros.
-    알바로: 제3자 없이.
+105. ÁLVARO: Sin terceros. Supongo que en esa palabra tan elegante cabe una persona con nombre y apellidos.
+    알바로: 제3자 없이. 그 고상한 단어 안에 이름과 성이 있는 사람 하나가 들어가는 것 같은데요.
 
 106. ARRIETA: Sin la señora Ballester. Quiero que deje de tener acceso a los teléfonos, a los registros de la feria y a usted. Hoy.
     아리에타: 바예스테르 씨 없이. 그 사람이 전화기에도, 박람회 기록에도, 그리고 당신한테도 더는 접근하지 못하게 하세요. 오늘 안에.
@@ -354,8 +354,8 @@
 113. SANTI: Es una cuestión de imagen institucional, Álvaro. Nadie duda de su talento.
     산티: 기관 이미지의 문제예요, 알바로. 그분 재능을 의심하는 사람은 없습니다.
 
-114. ÁLVARO: Qué detalle.
-    알바로: 참 친절하시네.
+114. ÁLVARO: Qué detalle, Santi. Seguro que a ella le encantará saberlo mientras la acompañan a la puerta.
+    알바로: 참 친절하시네요, 산티. 문밖으로 배웅받으면서 그 말 들으면 그 사람 아주 좋아하겠네요.
 
 115. ARRIETA: Medina, hace dos meses le saqué de Madrid para protegerle. No me haga arrepentirme. Tráigame hechos, no corazonadas, y tráigamelos por el canal correcto.
     아리에타: 메디나, 두 달 전에 당신을 보호하려고 마드리드에서 빼냈어요. 후회하게 만들지 마요. 직감 말고 사실을 가져와요. 그리고 제대로 된 경로로 가져와요.
@@ -381,17 +381,17 @@
 122. ROIG: Yo llevo veintidós años en esta casa porque nunca contesto a esa pregunta cuando me la hace alguien como tú. Pero te diré una cosa: el café de esta oficina es malísimo y el de Poblenou, dicen, es buenísimo.
     로이그: 내가 이 바닥에서 22년을 버틴 건, 너 같은 사람이 그런 질문을 할 때 절대 대답 안 해서야. 근데 하나만 말해 줄게. 이 사무실 커피는 최악이고, 포블레노우 커피는 끝내준다더라.
 
-123. ÁLVARO: ¿Eso es un sí?
-    알바로: 그거 '그래'라는 뜻이에요?
+123. ÁLVARO: ¿Eso es un sí, Mercè? Porque en Madrid nadie me ha hablado nunca del café con tanto cariño.
+    알바로: 그거 '그래'라는 뜻이에요, 메르세? 마드리드에선 아무도 커피 얘길 이렇게 애틋하게 해 준 적이 없어서요.
 
-124. ROIG: Es un comentario sobre el café, Medina. Vete.
-    로이그: 커피에 대한 감상이야, 메디나. 가 봐.
+124. ROIG: Es un comentario sobre el café, Medina, y nada más. Vete antes de que me arrepienta de habértelo dicho.
+    로이그: 커피에 대한 감상이야, 메디나. 그 이상도 이하도 아니고. 내가 후회하기 전에 가 봐.
 
 125. NÚRIA: Has tardado. Ya me he tomado una caña sola en la Rambla del Poblenou, como una turista despechada.
     누리아: 늦었네. 람블라 델 포블레노우에서 혼자 맥주 한 잔 벌써 마셨어. 차인 관광객처럼.
 
-126. ÁLVARO: Perdona. Madrid.
-    알바로: 미안. 마드리드.
+126. ÁLVARO: Perdona, de verdad. Madrid, que cuando llama no sabe colgar a su hora.
+    알바로: 미안, 진짜로. 마드리드. 전화하면 제시간에 끊을 줄을 몰라.
 
 127. NÚRIA: Madrid. Qué palabra tan corta para tantas cosas. ¿Qué te han dicho?
     누리아: 마드리드. 그 많은 걸 담기엔 참 짧은 단어야. 뭐래?
@@ -402,14 +402,14 @@
 129. NÚRIA: Un fallo menor. Siete ministros y un fallo menor. ¿Y de mí qué han dicho? Porque algo han dicho, se te nota en la cara.
     누리아: 사소한 오류. 장관 일곱 명에 사소한 오류. 그럼 나에 대해선 뭐래? 뭔가 말했잖아, 얼굴에 다 쓰여 있어.
 
-130. ÁLVARO: Que no les gustas.
-    알바로: 너 별로 안 좋아한대.
+130. ÁLVARO: Que no les gustas nada. Lo han dicho con palabras más finas, pero el mensaje era ese.
+    알바로: 너 하나도 안 좋아한대. 더 고상한 말로 했지만, 요지는 그거였어.
 
 131. NÚRIA: Home, eso ya lo sabía. Lo sé desde 2020. ¿Qué más?
     누리아: 아이고, 그건 알았지. 2020년부터 알았어. 또 뭐?
 
-132. ÁLVARO: Nada que no puedas imaginarte.
-    알바로: 네가 상상 못 할 건 없어.
+132. ÁLVARO: Nada que no puedas imaginarte tú sola, y prefiero no ponerle palabras en un bar.
+    알바로: 네가 혼자 상상 못 할 건 없어. 술집에서 그걸 말로 옮기고 싶진 않고.
 
 133. NÚRIA: Me lo imagino todo, Medina; ese es mi problema desde hace siete años. Quieren que me vaya, ¿no? Que me aparte, que firme algo bonito, que me calle y encima que les dé las gracias por las molestias.
     누리아: 난 전부 상상해, 메디나. 7년 전부터 그게 내 문제야. 나보고 가라는 거지? 빠지라고, 그럴듯한 데 서명하라고, 입 다물라고, 거기다 수고 끼쳐서 고맙다고 인사까지 하라고.
@@ -420,8 +420,8 @@
 135. LUCÍA: Papá, contesta. Es un audio, no una bomba. Mamá dice que vale, que este finde voy a Barcelona. Llego a Sants el sábado a las ocho menos veinte. Y no me hagas subir cinco pisos con la maleta, que me muero.
     루시아: 아빠, 답장해. 음성 메시지지 폭탄 아니잖아. 엄마가 오케이래, 이번 주말에 나 바르셀로나 간다. 토요일 7시 40분에 산츠 도착. 그리고 캐리어 들고 5층까지 올라가게 하지 마. 나 죽어.
 
-136. NÚRIA: ¿Tu hija?
-    누리아: 딸이야?
+136. NÚRIA: ¿Era tu hija? Habla igual que tú, pero con muchas más ganas de que le contesten.
+    누리아: 딸이야? 말투가 너랑 똑같네. 대답 듣고 싶은 마음은 훨씬 더 크지만.
 
 137. ÁLVARO: Dieciséis años y la manía de mandar audios de dos minutos. Viene el sábado.
     알바로: 열여섯 살에, 2분짜리 음성 메시지 보내는 버릇까지. 토요일에 와.
@@ -429,8 +429,8 @@
 138. NÚRIA: Pues tienes suerte. Alguien que todavía te avisa antes de venir.
     누리아: 운 좋네. 오기 전에 미리 알려 주는 사람이 아직 있다니.
 
-139. ÁLVARO: Mañana te llamo. No apagues los teléfonos de la caja.
-    알바로: 내일 전화할게. 상자 속 전화기는 끄지 마.
+139. ÁLVARO: Mañana te llamo, te lo prometo, aunque no sé todavía qué te voy a decir. Mientras tanto, no apagues los teléfonos de la caja pase lo que pase.
+    알바로: 내일 전화할게, 약속해. 무슨 말을 할지는 아직 모르겠지만. 그동안 무슨 일이 있어도 상자 속 전화기는 끄지 마.
 
 140. NÚRIA: No apago nada. Y tú tampoco me apagues a mí sin decírmelo, ¿vale? Ya me lo hicieron una vez y no me gustó.
     누리아: 아무것도 안 꺼. 그리고 너도 나한테 말도 없이 날 꺼 버리진 마, 알았지? 한 번 당해 봤는데 별로였어.
@@ -438,8 +438,8 @@
 141. ARRIETA: Buenos días, Medina. Son las ocho y cuarto. Le dije a primera hora.
     아리에타: 좋은 아침이에요, 메디나. 8시 15분이에요. 아침 일찍이라고 했을 텐데요.
 
-142. ÁLVARO: Buenos días. Estoy bajando cinco pisos sin ascensor. Dan para pensar.
-    알바로: 좋은 아침입니다. 엘리베이터 없는 5층 계단 내려가는 중입니다. 생각할 시간이 꽤 되더군요.
+142. ÁLVARO: Buenos días, directora. Estoy bajando cinco pisos sin ascensor, y le aseguro que cinco pisos dan para pensar mucho más de lo que a usted le gustaría.
+    알바로: 좋은 아침입니다, 국장님. 엘리베이터 없는 5층 계단을 내려가는 중인데, 5층이면 국장님이 바라시는 것보다 훨씬 많은 생각을 하게 되더군요.
 
 143. ARRIETA: No le pido que piense. ¿Ha apartado a la señora Ballester del caso?
     아리에타: 생각해 달라는 게 아니에요. 바예스테르 씨를 사건에서 뺐어요?
@@ -450,8 +450,8 @@
 145. ARRIETA: No juegue conmigo, Medina. Le estoy dando una orden directa, y es la última vez que se la doy de buenas maneras. Apártela.
     아리에타: 나랑 장난치지 마요, 메디나. 직접 명령하는 거예요. 좋게 말하는 건 이번이 마지막이고. 빼요.
 
-146. ÁLVARO: La he oído.
-    알바로: 들었습니다.
+146. ÁLVARO: La he oído perfectamente, directora. Las escaleras de este edificio tienen muy buena cobertura.
+    알바로: 똑똑히 들었습니다, 국장님. 이 건물 계단은 수신이 아주 잘 되거든요.
 
 147. ARRIETA: Entonces dígame que lo hará, y aquí no ha pasado nada.
     아리에타: 그럼 하겠다고 말해요. 그러면 아무 일도 없었던 걸로 하죠.
