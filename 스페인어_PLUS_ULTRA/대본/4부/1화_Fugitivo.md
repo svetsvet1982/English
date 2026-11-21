@@ -6,10 +6,10 @@
 > - 부/화: 4부 1화 · 서사 기능: 4부 도입 — 도망자 알바로, 공동 주인공 로시오의 등장, 남쪽의 돈으로 가는 첫 실마리
 > - 배경: 2027년 7월 27일(화) 밤 마드리드발 카디스행 알비아 열차, 레브리하 근처 산불로 서행(이케르와 선불폰 통화, 검표원) → 7월 28일(수) 바르바테, 항구 뒤 골목의 하숙집(집주인 마리 앙헬레스), 동풍(levante) → 같은 날 밤 23:30 로시오가 문을 두드림, 수갑을 찬 채 밤새 이야기 → 7월 29일(목) 새벽 트라팔가르 등대 쪽으로 해가 뜸(이케르와의 확인 통화, 수갑을 풂)
 > - 등장인물: 알바로, 이케르(선불폰), 검표원(REVISOR), 하숙집 주인 마리 앙헬레스(CASERA), 로시오
-> - 난이도: B1+–B2 · 턴 수: 138
+> - 난이도: B1+–B2 · 턴 수: 136
 > - 이번 화의 핵심 표현: "orden de busca y captura", "librar", "bastarse solo", "tomar el pelo a alguien", "ganarse algo", "jugársela a alguien", "Si + 접속법 과거완료, 조건법(완료)", "ni que + 접속법 과거완료"
 > - 방언 포인트: 로시오의 안달루시아 구어 *illo, quillo, miarma, chiquillo, qué arte* / 집주인의 *hijo*(손님을 부르는 다정한 호칭) / 알바로의 마드리드 구어 *tío, vale, mola* / 이케르의 *Ni de coña… espera, sí*, *Aúpa* / 카디스 해안 어휘 *levante*(동풍), *almadraba*(참치 정치망), *mojama*(참치 염장 육포), *adobo*(절인 생선 튀김), *goma*(고무 쾌속정)
-> - 문법 포인트(4부: 접속법 과거완료·조건문 3형식): *Si hubieras cogido un avión a Bilbao, mi madre te habría escondido* (019) · *si te hubiera entregado esta mañana, ahora estarías en un calabozo* (059) · *Si ella hubiera tardado un minuto más, tu madre se habría quedado a oscuras* (083) · *Si yo hubiera denunciado a Ignacio en diciembre, el ruso quizá estaría vivo* (095) · *Si no me hubiera cambiado el turno…* (108) · *Ni que lo hubieras ensayado* (118) · *Si me lo hubieras contado tú hace un año, no te habría creído* (119) · *Si Álvaro fuera el topo, yo seguiría en el calabozo* (127)
+> - 문법 포인트(4부: 접속법 과거완료·조건문 3형식): *Si hubieras cogido un avión a Bilbao, mi madre te habría escondido* (019) · *si te hubiera entregado esta mañana, ahora estarías en un calabozo* (058) · *Si ella hubiera tardado un minuto más, tu madre se habría quedado a oscuras* (081) · *Si yo hubiera denunciado a Ignacio en diciembre, el ruso quizá estaría vivo* (093) · *Si no me hubiera cambiado el turno…* (106) · *Ni que lo hubieras ensayado* (116) · *Si me lo hubieras contado tú hace un año, no te habría creído* (117) · *Si Álvaro fuera el topo, yo seguiría en el calabozo* (125)
 > - 복선/연결: 3부 12화 아토차의 편도표에서 이어짐. 이케르(7/26 석방, 정직·마드리드 출국 금지)가 하비에르 로블레스 명의 30만 유로가 5월부터 지브롤터 법인에서 다섯 번에 나눠 들어왔음을 확인 → 3화 지브롤터. 알바로가 남쪽에 온 이유 = 벨라스코 라이터를 각인한, 지금은 없는 카디스 보석상과 라 비냐 출생 → 3·4화 소토마요르. 로시오의 동료 후안·미게(2024년 2월 바르바테 항, 허구의 인물). 작년부터 '정리된' 나르코란차 사업과 알헤시라스로 가는 과일 냉동 트럭 → 1부의 "Proyecto Algeciras" → 2화.
 
 ---
@@ -428,18 +428,18 @@
 
 ## 핵심 표현 정리 (낭독하지 않음)
 
-- **orden de busca y captura** — 수배령 / "¿agente del CNI con orden de busca y captura?" (047)
-- **bastarse solo/a** — 혼자서도 충분하다 / "Yo sola me basto." (051)
-- **librar** — (근무가) 비번이다, 쉬는 날이다 / "Porque hoy libro." (059)
-- **Si + 접속법 과거완료, 조건법** — 과거 가정 → 현재 결과 / "si te hubiera entregado esta mañana, ahora estarías en un calabozo de Cádiz" (059), "Si no me hubiera cambiado el turno, a lo mejor la del cementerio sería yo" (108)
-- **Si + 접속법 과거완료, 조건법 완료** — 과거 사실의 반대(조건문 3형식) / "Si hubieras cogido un avión a Bilbao, mi madre te habría escondido" (019), "Si ella hubiera tardado un minuto más, tu madre se habría quedado a oscuras" (083)
-- **ganarse algo** — ~을 받을 만하다, 얻어 내다 / "una todavía no te la has ganado" (063), "Te la has ganado, más o menos." (098)
-- **qué pintas tú en…** — 넌 거기서 뭐 하는 사람이야(무슨 역할이야) / "¿Y tú qué pintas en todo eso?" (084)
-- **usar a alguien de cebo** — ~를 미끼로 쓰다 / "Me usó de cebo para que… el primer sospechoso fuera yo." (093)
-- **como si + 접속법 과거완료** — 마치 ~했던 것처럼 / "Como si alguien hubiera puesto orden." (114)
-- **ni que + 접속법 과거완료 / tomar el pelo** — ~라도 한 것 같네(비꼼) / 놀리다 / "Ni que lo hubieras ensayado. Illo, ¿tú me estás tomando el pelo?" (118)
-- **jugársela a alguien** — ~에게 덫을 놓다, 뒤통수치다 / "el que me la jugó dijo que el culpable era él" (127)
-- **el mar no perdona** — 바다는 봐주지 않는다(로시오의 말버릇) / "Illo, si me mientes, te tiro al mar. Y aquí el mar no perdona." (134)
+- **orden de busca y captura** — 수배령 / "¿agente del CNI con orden de busca y captura?" (046)
+- **bastarse solo/a** — 혼자서도 충분하다 / "Yo sola me basto." (050)
+- **librar** — (근무가) 비번이다, 쉬는 날이다 / "Porque hoy libro." (058)
+- **Si + 접속법 과거완료, 조건법** — 과거 가정 → 현재 결과 / "si te hubiera entregado esta mañana, ahora estarías en un calabozo de Cádiz" (058), "Si no me hubiera cambiado el turno, a lo mejor la del cementerio sería yo" (106)
+- **Si + 접속법 과거완료, 조건법 완료** — 과거 사실의 반대(조건문 3형식) / "Si hubieras cogido un avión a Bilbao, mi madre te habría escondido" (019), "Si ella hubiera tardado un minuto más, tu madre se habría quedado a oscuras" (081)
+- **ganarse algo** — ~을 받을 만하다, 얻어 내다 / "una todavía no te la has ganado" (062), "Te la has ganado, más o menos." (096)
+- **qué pintas tú en…** — 넌 거기서 뭐 하는 사람이야(무슨 역할이야) / "¿Y tú qué pintas en todo eso?" (082)
+- **usar a alguien de cebo** — ~를 미끼로 쓰다 / "Me usó de cebo para que… el primer sospechoso fuera yo." (091)
+- **como si + 접속법 과거완료** — 마치 ~했던 것처럼 / "Como si alguien hubiera puesto orden." (112)
+- **ni que + 접속법 과거완료 / tomar el pelo** — ~라도 한 것 같네(비꼼) / 놀리다 / "Ni que lo hubieras ensayado. Illo, ¿tú me estás tomando el pelo?" (116)
+- **jugársela a alguien** — ~에게 덫을 놓다, 뒤통수치다 / "el que me la jugó dijo que el culpable era él" (125)
+- **el mar no perdona** — 바다는 봐주지 않는다(로시오의 말버릇) / "Illo, si me mientes, te tiro al mar. Y aquí el mar no perdona." (132)
 
 ## 다음 화 예고 (낭독하지 않음)
 

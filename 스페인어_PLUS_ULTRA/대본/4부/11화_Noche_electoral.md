@@ -174,8 +174,8 @@
 053. ÁLVARO: ¿Quién te paga esta vez? ¿Nordlicht, los rusos de CATENARIA? ¿Los amigos de Lezcano?
     알바로: 이번엔 누가 돈 대? 카테나리아의 러시아 놈들, 노르트리히트? 레스카노 친구들?
 
-054. VELASCO: Me pagan muchos. Unos quieren una España con miedo, otros una España con rabia. Yo no elijo, Gato. Vendo las dos cosas, y luego vendo la tranquilidad.
-    벨라스코: 돈 대는 사람은 많아. 겁먹은 스페인을 원하는 쪽도, 화난 스페인을 원하는 쪽도 있지. 난 고르지 않아, 가토. 둘 다 팔고, 그다음엔 안심을 팔지.
+054. VELASCO: Me pagan muchos. Unos quieren una España con miedo, otros una España con rabia. Yo vendo las dos cosas, y el lunes venderé la tranquilidad: una auditoría independiente del proceso electoral.
+    벨라스코: 돈 대는 사람은 많아. 겁먹은 스페인을 원하는 쪽도, 화난 스페인을 원하는 쪽도 있지. 난 둘 다 팔고, 월요일엔 안심을 팔 거다. 선거 과정에 대한 독립 감사라는 이름으로.
 
 055. ÁLVARO: Como con el apagón. Primero lo provocas y después sales en la tele diciendo que ya lo habías advertido.
     알바로: 정전 때처럼. 먼저 일으켜 놓고, 그다음엔 TV에 나와서 이미 경고했었다고 하지.
@@ -207,11 +207,11 @@
 064. ÁLVARO: Todavía no lo es. Quedan más de dos horas, y esta noche no estoy solo.
     알바로: 아직은 아니야. 두 시간도 넘게 남았고, 오늘 밤 난 혼자가 아니거든.
 
-065. VELASCO: Te estás tocando la oreja, Gato. Desde los treinta años, cada vez que no te crees lo que dices, te tocas el lóbulo. Nunca te lo dije porque me era útil.
-    벨라스코: 너 귀 만지고 있다, 가토. 서른 살 때부터 네 말을 너도 못 믿을 때마다 귓불을 만졌지. 쓸모가 있어서 말 안 해 줬던 거야.
+065. VELASCO: Te estás tocando la oreja, Gato. Cuando no te crees lo que dices, te tocas el lóbulo. Ramón te lo dijo antes que yo, ¿verdad? Yo nunca te lo dije porque me era útil.
+    벨라스코: 너 귀 만지고 있다, 가토. 네 말을 너도 못 믿을 때마다 귓불을 만지지. 라몬이 나보다 먼저 말해 줬지? 난 쓸모가 있어서 말 안 해 줬던 거고.
 
-066. ÁLVARO: ¿Y por qué me lo dices ahora, si tanto te servía?
-    알바로: 그렇게 쓸모 있었다면서 왜 지금 말해?
+066. ÁLVARO: Me lo dijo él, sí. ¿Y por qué me lo dices tú ahora, si tanto te servía?
+    알바로: 그래, 아버지가 말해 줬어. 그렇게 쓸모 있었다면서 넌 왜 지금 말해?
 
 067. VELASCO: Porque ya no me hace falta. Esta es la última vez que hablamos tú y yo, y quiero que sea una conversación honesta.
     벨라스코: 이젠 필요 없으니까. 너랑 나랑 얘기하는 건 이번이 마지막이야. 그러니 솔직한 대화였으면 해.
@@ -387,14 +387,14 @@
 124. PRESENTADORA: Con el cincuenta y uno por ciento escrutado, los datos siguen llegando con total normalidad…
     진행자: 개표율 51퍼센트, 집계는 계속 정상적으로 들어오고 있습니다…
 
-125. NÚRIA: ¡Ahí está! Las diez y treinta y uno. Un SMS desde un móvil de teclas, a once mil metros de altura. Doscientos catorce destinatarios.
-    누리아: 왔다! 10시 31분. 버튼 폰에서 문자 하나, 고도 1만 1천 미터. 수신자 214명.
+125. NÚRIA: ¡Ahí está! La señal ha pasado de siete minutos a uno. Las diez y treinta y uno: un SMS desde un móvil de teclas, a once mil metros. Doscientos doce destinatarios.
+    누리아: 왔다! 신호 간격이 7분에서 1분으로 바뀌었어. 10시 31분. 버튼 폰에서 문자 하나, 고도 1만 1천 미터. 수신자 212명.
 
 126. ÁLVARO: ¿Y adónde van ahora esos mensajes, Núria? Dime que no a doscientos móviles.
     알바로: 그럼 그 메시지들 지금 어디로 가는 거야, 누리아? 휴대폰 이백 대로 가는 건 아니라고 해 줘.
 
-127. NÚRIA: Cambio de vía. Doscientos catorce mensajes enviados… a ninguna parte. Los he mandado a un servidor mío en Poblenou. Que griten allí, que no los oye nadie.
-    누리아: 선로 전환. 메시지 214개 발송… 아무 데도 안 감. 전부 포블레노우에 있는 내 서버로 돌렸어. 거기서 실컷 소리치라 그래. 아무도 못 들으니까.
+127. NÚRIA: Cambio de vía. Doscientos doce mensajes enviados… a ninguna parte. Los he mandado a un servidor mío en Poblenou. Que griten allí, que no los oye nadie.
+    누리아: 선로 전환. 메시지 212개 발송… 아무 데도 안 감. 전부 포블레노우에 있는 내 서버로 돌렸어. 거기서 실컷 소리치라 그래. 아무도 못 들으니까.
 
 128. OKSANA: Y la luz de Escrutia sigue encendida, en manual, desde aquí. Ni un segundo de corte. Esta noche nadie apaga nada.
     옥사나: 에스크루티아 전기도 여기서 수동으로 계속 들어가고 있어요. 1초도 안 끊겼어요. 오늘 밤엔 아무도 아무것도 못 꺼요.
