@@ -15,11 +15,11 @@
 
 ## Guion
 
-001. ROIG: ¿Me oís bien? Os lo digo una vez, porque no pienso repetirlo. A las doce menos cuarto, puerta de la calle Marina. Os abre un vigilante que se llama Pau.
-    로이그: 잘 들려? 한 번만 말한다, 두 번은 안 해. 열한 시 사십오 분, 마리나 거리 쪽 문. 파우라는 경비가 열어 줄 거야.
+001. ROIG: ¿Me oís bien? Os lo digo una vez, porque no pienso repetirlo. A las doce menos cuarto, puerta de la calle Marina. Os abre un vigilante que se llama Quim.
+    로이그: 잘 들려? 한 번만 말한다, 두 번은 안 해. 열한 시 사십오 분, 마리나 거리 쪽 문. 킴라는 경비가 열어 줄 거야.
 
-002. ÁLVARO: Te oímos, Mercè. Puerta de Marina, el tal Pau, a las doce menos cuarto.
-    알바로: 들려요, 메르세. 마리나 문, 파우라는 사람, 열한 시 사십오 분.
+002. ÁLVARO: Te oímos, Mercè. Puerta de Marina, el tal Quim, a las doce menos cuarto.
+    알바로: 들려요, 메르세. 마리나 문, 킴라는 사람, 열한 시 사십오 분.
 
 003. ROIG: Para la Junta Constructora sois dos técnicos de una consultora que trabaja para la aseguradora. Revisión de la red de sensores, por lo de las alertas del congreso. Ni una palabra más.
     로이그: 공사위원회 쪽에선 너희가 보험사 일을 하는 컨설팅 회사 기술자 두 명이야. 박람회 경보 때문에 센서 네트워크 점검 나온 거고. 그 이상은 한마디도 하지 마.
@@ -369,8 +369,8 @@
 118. ORIOL: Abajo les dejo mi tarjeta, por si necesitan algo más para el informe. Escríbanme cuando quieran. Contesto rápido; duermo poco.
     오리올: 아래에서 명함 드릴게요. 보고서에 더 필요한 게 있으시면요. 언제든 연락 주세요. 답장은 빨라요. 잠을 별로 안 자서.
 
-119. ORIOL: Ya estamos abajo. Devuélvanle los cascos a Pau, que si no me riñe a mí.
-    오리올: 다 내려왔습니다. 안전모는 파우한테 돌려주세요. 안 그러면 제가 혼나요.
+119. ORIOL: Ya estamos abajo. Devuélvanle los cascos a Quim, que si no me riñe a mí.
+    오리올: 다 내려왔습니다. 안전모는 킴한테 돌려주세요. 안 그러면 제가 혼나요.
 
 120. ÁLVARO: Gracias por la visita, señor Vidal. Ha sido muy instructiva.
     알바로: 안내 고마웠어요, 비달 씨. 아주 유익했습니다.

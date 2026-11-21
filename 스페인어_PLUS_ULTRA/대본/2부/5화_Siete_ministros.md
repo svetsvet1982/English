@@ -48,8 +48,8 @@
 011. ÁLVARO: ¿Cuáles?
     알바로: 어느 거?
 
-012. NÚRIA: La entrada del programa ministerial, pabellón cuatro. El lunes, entre las nueve y diez y las nueve cuarenta.
-    누리아: 장관 프로그램 입구, 4번 홀. 월요일 9시 10분부터 9시 40분 사이.
+012. NÚRIA: La entrada del programa ministerial, pabellón cuatro. El lunes, entre las nueve y diez y las nueve cuarenta. La taquilla catorce del domingo fue el ensayo, solo con Albers.
+    누리아: 장관 프로그램 입구, 4번 홀. 월요일 9시 10분부터 9시 40분 사이. 일요일 14번 사물함은 리허설이었고, 알버스 한 명뿐이었어.
 
 013. ÁLVARO: Media hora. La media hora en que entraban los ministros.
     알바로: 30분. 장관들이 들어가던 그 30분이네.
@@ -153,8 +153,8 @@
 046. ÁLVARO: Como todas. Ayer oí a los suecos discutir por el precio del salmón.
     알바로: 다 그렇죠. 어제는 스웨덴 사람들이 연어 값으로 싸우는 게 들렸어요.
 
-047. WEBER: No tengo humor para bromas. La ministra Albers se ha enterado esta mañana de que alguien lee sus mensajes desde el lunes, incluidos los de su hija, que tiene catorce años y le escribe todas las noches.
-    베버: 농담할 기분 아닙니다. 알버스 장관은 오늘 아침에야 월요일부터 누군가 자기 메시지를 읽고 있었다는 걸 알았어요. 매일 밤 연락하는 열네 살 딸 메시지까지요.
+047. WEBER: No tengo humor para bromas. La ministra Albers se ha enterado esta mañana de que alguien lee sus mensajes desde el domingo, incluidos los de su hija, que tiene catorce años y le escribe todas las noches.
+    베버: 농담할 기분 아닙니다. 알버스 장관은 오늘 아침에야 일요일부터 누군가 자기 메시지를 읽고 있었다는 걸 알았어요. 매일 밤 연락하는 열네 살 딸 메시지까지요.
 
 048. NÚRIA: Lo siento, Jonas. De verdad.
     누리아: 미안해요, 요나스. 진심이에요.
@@ -279,8 +279,8 @@
 088. ARRIETA: Buenas tardes, Medina, Roig. Les dejo a Santiago para los detalles, pero antes quiero los hechos. Sin adornos.
     아리에타: 안녕하세요, 메디나, 로이그. 세부 사항은 산티아고한테 맡기겠지만, 그 전에 사실부터 듣고 싶어요. 꾸밈없이.
 
-089. ÁLVARO: Siete ministros infectados el lunes entre las nueve y diez y las nueve y cuarenta, a través de los tornos del programa ministerial. Seis extranjeros y el nuestro. El servidor sigue activo.
-    알바로: 월요일 9시 10분에서 9시 40분 사이, 장관 프로그램 회전문을 통해 장관 일곱 명이 감염됐습니다. 외국 장관 여섯에 우리 장관 하나. 서버는 아직 살아 있습니다.
+089. ÁLVARO: Siete ministros. Albers el domingo, en la taquilla catorce; los otros seis, el lunes entre las nueve y diez y las nueve y cuarenta, en los tornos del programa ministerial. El servidor sigue activo.
+    알바로: 장관 일곱 명입니다. 알버스는 일요일 14번 사물함에서, 나머지 여섯은 월요일 9시 10분에서 9시 40분 사이 장관 프로그램 개찰구에서. 서버는 아직 살아 있습니다.
 
 090. ARRIETA: ¿Quién lo ha encontrado?
     아리에타: 누가 찾아냈죠?

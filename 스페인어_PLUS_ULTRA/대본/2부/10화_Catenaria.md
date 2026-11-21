@@ -21,8 +21,8 @@
 002. ÁLVARO: Solo iba a sentarme.
     알바로: 앉으려던 것뿐이야.
 
-003. NÚRIA: Siéntate en el sofá, que la silla es de Pau y la tiene ajustada al milímetro. Llevo cuarenta horas con esto.
-    누리아: 소파에 앉아. 그 의자는 파우 거고 밀리미터 단위로 맞춰 놨거든. 나 이거 붙잡고 마흔 시간째야.
+003. NÚRIA: Siéntate en el sofá, que la silla es de Marc y la tiene ajustada al milímetro. Llevo cuarenta horas con esto.
+    누리아: 소파에 앉아. 그 의자는 마르크 거고 밀리미터 단위로 맞춰 놨거든. 나 이거 붙잡고 마흔 시간째야.
 
 004. IKER: ¿Cuarenta horas? Yo llevo siete cafés y todavía es lunes.
     이케르: 마흔 시간요? 전 커피 일곱 잔째인데 아직 월요일이에요.
