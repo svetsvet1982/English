@@ -16,8 +16,18 @@ import re, sys, pathlib
 TURN = re.compile(r"^(\d{3})\. [A-Z][A-Z .'&-]*: (\S.*)")
 
 
+ABBREV = re.compile(r"\b(Mr|Mrs|Ms|Dr|St|Jr|Sr|Lt|Sgt|Capt|Col|Gen|Sen|Rep|Gov|Prof|No|vs|a\.m|p\.m|U\.S|D\.C|H\.R|S)\.$")
+
+
 def sentences(text):
-    return [s for s in re.split(r"(?<=[.!?])[\"”']?\s+", text) if s.strip()]
+    parts = re.split(r"(?<=[.!?])[\"”']?\s+", text)
+    out = []
+    for part in parts:
+        if out and ABBREV.search(out[-1]):
+            out[-1] += " " + part
+        else:
+            out.append(part)
+    return [s for s in out if s.strip()]
 
 
 def analyze(path):
