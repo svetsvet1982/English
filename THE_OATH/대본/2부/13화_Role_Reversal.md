@@ -62,8 +62,8 @@
 016. BRODY: This is Priya Raman, a first-year who's taking notes, and this is Ms. Pell, our court reporter.
     브로디: 이쪽은 1년차 프리야 라만, 기록 담당이에요. 그리고 이쪽은 우리 속기사 펠 씨예요.
 
-017. PRIYA: Nice to meet you. Nate says you're the reason he left private practice.
-    프리야: 만나서 반가워요. 네이트 말로는 그분이 로펌 그만둔 이유가 변호사님이래요.
+017. PRIYA: Nice to meet you, Mr. Reardon. Nate says you're the reason he left private practice.
+    프리야: 만나서 반가워요, 레이든 변호사님. 네이트 말로는 그분이 로펌 그만둔 이유가 변호사님이래요.
 
 018. DAN: I hope that's a compliment. With Nate, I can never tell.
     댄: 칭찬이었으면 좋겠네요. 네이트는 도통 알 수가 없어서.
@@ -440,8 +440,8 @@
 142. DAN: No further questions. Thank you, Sergeant, and I mean that.
     댄: 더 이상 질문 없습니다. 감사합니다, 경사님. 진심입니다.
 
-143. BRENNAN: Counselor, with my lawyer standing here, tell Kevin something for me: I didn't put the rat on his locker. I know who did, and I told them to take it down.
-    브레넌: 변호사님, 제 변호사 있는 자리에서요. 케빈한테 전해 주세요. 그 사물함 쥐 그림, 제가 붙인 거 아니에요. 누가 했는지 알아요. 떼라고 했어요.
+143. BRENNAN: Mr. Reardon, with my lawyer standing here, tell Kevin something for me: I didn't put the rat on his locker. I know who did, and I told them to take it down.
+    브레넌: 레이든 변호사님, 제 변호사 있는 자리에서요. 케빈한테 전해 주세요. 그 사물함 쥐 그림, 제가 붙인 거 아니에요. 누가 했는지 알아요. 떼라고 했어요.
 
 144. DAN: I'll tell him today, Sergeant, word for word.
     댄: 오늘 전할게요, 경사님. 한 마디도 안 빼고.
