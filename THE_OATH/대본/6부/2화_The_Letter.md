@@ -335,8 +335,8 @@
 107. PRIYA: Congressman, if you go, I'm logging it, with the time in and the time out.
     프리야: 의원님, 가시면 기록할 거예요. 들어간 시간, 나온 시간 다요.
 
-108. DAN: Log it, Priya, because I'd rather have the paper than the rumor.
-    댄: 기록해요, 프리야. 소문보다는 종이가 낫죠.
+108. DAN: Log it, Priya, at eleven-oh-four, because I would rather have the paper than the rumor.
+    댄: 기록해요, 프리야. 열한 시 4분. 소문보다는 종이가 낫죠.
 
 109. VICTORIA: She logs your stairwells now, so your life is very well documented.
     빅토리아: 이제 네 계단까지 기록하네. 네 인생은 기록이 아주 잘돼 있어.
