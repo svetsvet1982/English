@@ -17,8 +17,8 @@
 001. YVONNE: Seven hundred and fifty thousand dollars — I read it four times, and it doesn't change.
     이본: 75만 달러. 네 번 읽었어요. 안 바뀌네요.
 
-002. DAN: It doesn't change, because that's what the city is offering. But you have to read the whole page, not just the number.
-    댄: 안 바뀌어요. 그게 시의 제안이에요. 근데 숫자만 말고 페이지 전체를 읽으셔야 해요.
+002. DAN: It doesn't change, because that's what the city is offering. But you have to read the whole page, not just the number, Mrs. Hayes.
+    댄: 안 바뀌어요. 그게 시의 제안이에요. 근데 헤이스 부인, 숫자만 말고 페이지 전체를 읽으셔야 해요.
 
 003. YVONNE: I read the whole page, including paragraph six, and they want us to be quiet forever.
     이본: 전체 다 읽었어요. 6항까지. 우리더러 영원히 입 다물래요.
@@ -44,8 +44,8 @@
 010. YVONNE: I'll be honest, because seven hundred fifty thousand is more than I'll make in twenty years, and my knees are going.
     이본: 솔직히 말할게요. 75만 달러는 제가 20년 동안 버는 것보다 많아요. 무릎도 나가고 있고요.
 
-011. DAN: I know, and that's real, and it matters, so nobody should pretend it doesn't.
-    댄: 알아요. 그건 진짜고 중요해요. 아무도 아닌 척하면 안 돼요.
+011. DAN: I know, Mrs. Hayes, and that's real, and it matters, so nobody should pretend it doesn't.
+    댄: 알아요, 헤이스 부인. 그건 진짜고 중요해요. 아무도 아닌 척하면 안 돼요.
 
 012. YVONNE: I've been lifting old men out of bathtubs since I was twenty-four. My kids could go to college without loans. Brianna wouldn't have to work two jobs.
     이본: 스물네 살 때부터 노인들을 욕조에서 들어 올렸어요. 우리 애들이 대출 없이 대학 갈 수 있어요. 브리아나가 일 두 개 안 해도 되고요.
@@ -125,8 +125,8 @@
 037. DARNELL: I don't know, and I need to think. Can I think, Mom?
     대널: 모르겠어요. 생각 좀 해야겠어요. 생각해도 돼, 엄마?
 
-038. YVONNE: We all need to think, so how long do we have?
-    이본: 우리 다 생각해야 돼. 시간이 얼마나 있어요?
+038. YVONNE: We all need to think, so how long do we have, Mr. Reardon?
+    이본: 우리 다 생각해야 돼. 레이든 씨, 시간이 얼마나 있어요?
 
 039. DAN: The offer's open until Wednesday at five, so talk to each other, and not the internet.
     댄: 제안은 수요일 5시까지 유효해요. 서로 얘기하세요. 인터넷 말고요.
@@ -140,8 +140,8 @@
 042. DAN: Then let's hope the city doesn't read your niece's breakfast.
     댄: 그럼 시가 조카분 아침 메뉴를 안 읽길 바라죠.
 
-043. DARNELL: One more question: if we say no, and we lose at trial, do we get nothing?
-    대널: 하나만 더요. 거절했는데 재판에서 지면, 아무것도 못 받아요?
+043. DARNELL: Mr. Reardon, one more question: if we say no, and we lose at trial, do we get nothing?
+    대널: 레이든 씨, 하나만 더요. 거절했는데 재판에서 지면, 아무것도 못 받아요?
 
 044. DAN: You could get nothing. That's the honest answer. I can't promise you a result. I can only promise you we'll work.
     댄: 하나도 못 받을 수 있어. 그게 정직한 대답이야. 결과는 약속 못 해. 일하겠다는 것만 약속할 수 있어.
@@ -263,8 +263,8 @@
 083. YVONNE: I'm his mother, and I want him safe, but I also don't want him to stop. I raised him to ask why, and I'm not going to sell that.
     이본: 난 엄마예요. 애가 안전하길 바라요. 근데 멈추는 것도 원하지 않아요. 왜냐고 묻도록 키웠어요. 그걸 팔진 않을 거예요.
 
-084. AISHA: There's a third option, and we wanted you to hear it before you decide.
-    아이샤: 세 번째 선택지가 있어요. 결정하시기 전에 들어 보셨으면 해요.
+084. AISHA: Mrs. Hayes, there's a third option, and we wanted you to hear it before you decide.
+    아이샤: 헤이스 부인, 세 번째 선택지가 있어요. 결정하시기 전에 들어 보셨으면 해요.
 
 085. DAN: We go back to the city with a counteroffer: less money, no paragraph six, no gag, the video stays, and one sentence from the city.
     댄: 시에 역제안을 하는 거예요. 돈은 적게, 6항 없이, 함구 조건 없이, 영상은 그대로. 그리고 시의 문장 하나.
@@ -371,8 +371,8 @@
 119. BRIANNA: Nobody. I just know a lot of women who make coffee when they're nervous. It's a Bronx thing.
     브리아나: 아무도요. 그냥 긴장하면 커피 만드는 여자들을 많이 알아요. 브롱크스 특징이에요.
 
-120. DARNELL: If they say no, are you going to be mad that we turned down seven fifty?
-    대널: 거절당하면 화나실 거예요? 우리가 75만을 거절해서요?
+120. DARNELL: Mr. Reardon, if they say no, are you going to be mad that we turned down seven fifty?
+    대널: 레이든 씨, 거절당하면 화나실 거예요? 우리가 75만을 거절해서요?
 
 121. DAN: Darnell, I don't get mad at clients for being brave. I'll be proud either way. That's not my face choosing. That's just true.
     댄: 대널, 난 용감한 의뢰인한테 화 안 내. 어느 쪽이든 자랑스러울 거야. 내 표정이 고르는 게 아니야. 그냥 사실이야.
