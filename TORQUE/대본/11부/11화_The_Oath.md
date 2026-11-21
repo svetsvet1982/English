@@ -16,115 +16,115 @@
 ## 대본
 
 001. LILY: There are seventy-three chairs. I counted, and the program says there are forty-one countries.
-    릴리: 릴리: 의자가 일흔세 개예요, 세어 봤어요. 그리고 프로그램에 마흔한 개 나라라고 써 있어요.
+    릴리: 의자가 일흔세 개예요, 세어 봤어요. 그리고 프로그램에 마흔한 개 나라라고 써 있어요.
 
 002. ERIN: You count everything now, and Wen did that to you.
-    에린: 에린: 너 이제 뭐든 다 세는구나. 웬이 그렇게 만들었네.
+    에린: 너 이제 뭐든 다 세는구나. 웬이 그렇게 만들었네.
 
 003. LILY: Dr. Liu says counting is respect, because you can't care about something you haven't counted.
-    릴리: 릴리: 리우 박사님이 세는 건 존중이래요. 세어 보지 않은 건 아낄 수 없으니까요.
+    릴리: 리우 박사님이 세는 건 존중이래요. 세어 보지 않은 건 아낄 수 없으니까요.
 
 004. STAN: Is that the building, the one with the Wright brothers' airplane?
-    스탠: 스탠: 저 건물이냐? 라이트 형제 비행기 있는 데?
+    스탠: 저 건물이냐? 라이트 형제 비행기 있는 데?
 
 005. SAM: It's the 1905 Flyer, the real one, which they fixed up in the forties, and Orville helped before he died.
-    샘: 샘: 진짜 1905년 플라이어예요. 40년대에 복원했는데, 오빌이 죽기 전에 도왔어요.
+    샘: 진짜 1905년 플라이어예요. 40년대에 복원했는데, 오빌이 죽기 전에 도왔어요.
 
 006. STAN: Two bike mechanics from Dayton taught the world to fly, and now a girl from Shenzhen becomes an American next to their airplane. I'd like to see somebody write a better memo than that.
-    스탠: 스탠: 데이턴의 자전거 정비공 둘이 세상에 나는 법을 가르쳤는데, 이제 선전에서 온 아가씨가 그 사람들 비행기 옆에서 미국인이 된다. 그보다 나은 메모 쓸 사람 있으면 보고 싶다.
+    스탠: 데이턴의 자전거 정비공 둘이 세상에 나는 법을 가르쳤는데, 이제 선전에서 온 아가씨가 그 사람들 비행기 옆에서 미국인이 된다. 그보다 나은 메모 쓸 사람 있으면 보고 싶다.
 
 007. GLORIA: She's forty-four, Stan. She's not a girl.
-    글로리아: 글로리아: 웬은 마흔넷이에요, 스탠, 아가씨 아니에요.
+    글로리아: 웬은 마흔넷이에요, 스탠, 아가씨 아니에요.
 
 008. STAN: When you're eighty, everybody under sixty is a girl, including you, Gloria.
-    스탠: 스탠: 여든이 되면 예순 아래는 다 아가씨야. 너도 포함이다, 글로리아.
+    스탠: 여든이 되면 예순 아래는 다 아가씨야. 너도 포함이다, 글로리아.
 
 009. GLORIA: I'll allow it, just this once.
-    글로리아: 글로리아: 이번 한 번만 봐 드릴게요.
+    글로리아: 이번 한 번만 봐 드릴게요.
 
 010. EARL: Look at the fence, Sam, just look.
-    얼: 얼: 울타리 봐, 샘, 봐 봐.
+    얼: 울타리 봐, 샘, 봐 봐.
 
 011. SAM: How many of them are there?
-    샘: 샘: 몇 명이나 돼요?
+    샘: 몇 명이나 돼요?
 
 012. TYLER: There are forty-three in Ferrox shirts, plus families. Patty organized a carpool, Darnell brought a cooler, and Jayden made a sign, but it's spelled wrong.
-    타일러: 타일러: 페록스 셔츠 입은 사람이 가족들 빼고 마흔셋이에요, 패티가 카풀을 짰거든요. 대넬은 아이스박스 가져왔고, 제이든이 피켓을 만들었는데 철자가 틀렸어요.
+    타일러: 페록스 셔츠 입은 사람이 가족들 빼고 마흔셋이에요, 패티가 카풀을 짰거든요. 대넬은 아이스박스 가져왔고, 제이든이 피켓을 만들었는데 철자가 틀렸어요.
 
 013. JAYDEN: It's not wrong. It says "Welcome Home, Dr. Lui," and that's how you spell it.
-    제이든: 제이든: 안 틀렸어요. "웰컴 홈, 루이 박사님"이라고 썼는데, 그렇게 쓰는 거잖아요.
+    제이든: 안 틀렸어요. "웰컴 홈, 루이 박사님"이라고 썼는데, 그렇게 쓰는 거잖아요.
 
 014. LILY: It's L-I-U, Jayden, and you've worked with her for three years.
-    릴리: 릴리: L-I-U예요, 제이든. 3년이나 같이 일했잖아요.
+    릴리: L-I-U예요, 제이든. 3년이나 같이 일했잖아요.
 
 015. JAYDEN: I always just called her Dr. Liu out loud, so I never had to write it.
-    제이든: 제이든: 늘 리우 박사님이라고 소리로만 불러서 쓸 일이 없었다고.
+    제이든: 늘 리우 박사님이라고 소리로만 불러서 쓸 일이 없었다고.
 
 016. PATTY: I fixed it with tape, and it says "Liu" now. The "i" is a little crooked, though.
-    패티: 패티: 테이프로 고쳐서 이제 "리우"예요. 근데 "i"가 좀 삐뚤어요.
+    패티: 테이프로 고쳐서 이제 "리우"예요. 근데 "i"가 좀 삐뚤어요.
 
 017. EARL: Forty-three is the same number as the card, and that's not an accident.
-    얼: 얼: 마흔셋이면 카드 서명이랑 같은 숫자야. 우연이 아니지.
+    얼: 마흔셋이면 카드 서명이랑 같은 숫자야. 우연이 아니지.
 
 018. PATTY: Earl signed the card twice, so it's really forty-two people and Earl twice.
-    패티: 패티: 얼이 카드에 두 번 서명했으니까, 마흔두 명이랑 얼 두 번이에요.
+    패티: 얼이 카드에 두 번 서명했으니까, 마흔두 명이랑 얼 두 번이에요.
 
 019. SAM: So where is she sitting?
-    샘: 샘: 그래서 웬은 어디 앉아 있어요?
+    샘: 그래서 웬은 어디 앉아 있어요?
 
 020. LILY: She's in the third row, seat sixteen, between a man from Ghana and a woman from Ukraine, and she's holding her green card with both hands.
-    릴리: 릴리: 세 번째 줄 16번, 가나에서 온 남자랑 우크라이나에서 온 여자 사이요. 영주권 카드를 두 손으로 들고 있어요.
+    릴리: 세 번째 줄 16번, 가나에서 온 남자랑 우크라이나에서 온 여자 사이요. 영주권 카드를 두 손으로 들고 있어요.
 
 021. ERIN: Why is she holding it like that?
     에린: 왜 그렇게 들고 있어?
 
 022. GLORIA: Because she has to give it back today, honey. You hand in the green card when you take the oath, and she's had it since 2015. She's saying goodbye to it.
-    글로리아: 글로리아: 오늘 반납해야 하거든, 얘. 선서할 때 영주권 카드를 내니까. 웬은 2015년부터 갖고 있었으니까 작별 인사 하는 거야.
+    글로리아: 오늘 반납해야 하거든, 얘. 선서할 때 영주권 카드를 내니까. 웬은 2015년부터 갖고 있었으니까 작별 인사 하는 거야.
 
 023. JUDGE: Good morning, everyone, and please be seated. My name is Harriet Okonkwo, and I'm a United States magistrate judge for the Southern District of Ohio. Happy Fourth of July.
-    판사: 판사: 좋은 아침입니다, 여러분, 앉으십시오. 저는 오하이오 남부 지방법원 연방 치안판사 해리엇 오콩코입니다. 독립기념일을 축하합니다.
+    판사: 좋은 아침입니다, 여러분, 앉으십시오. 저는 오하이오 남부 지방법원 연방 치안판사 해리엇 오콩코입니다. 독립기념일을 축하합니다.
 
 024. JUDGE: Today is a naturalization ceremony. In plain English, it's the day the law catches up with what your hearts decided a long time ago, and some of you have waited two years, while some have waited twenty.
-    판사: 판사: 오늘은 귀화 선서식입니다. 쉬운 말로 하면, 여러분의 마음이 오래전에 정한 것을 법이 따라잡는 날입니다. 어떤 분은 2년을, 어떤 분은 20년을 기다렸습니다.
+    판사: 오늘은 귀화 선서식입니다. 쉬운 말로 하면, 여러분의 마음이 오래전에 정한 것을 법이 따라잡는 날입니다. 어떤 분은 2년을, 어떤 분은 20년을 기다렸습니다.
 
 025. ERIN: She's good, isn't she?
-    에린: 에린: 잘하네, 그렇지?
+    에린: 잘하네, 그렇지?
 
 026. JUDGE: My parents came from Nigeria in 1979, and my mother took the oath in a courthouse basement in Columbus. It was raining and there were no chairs, but she said it was the best day of her life anyway.
-    판사: 판사: 저희 부모님은 1979년에 나이지리아에서 오셨고, 어머니는 콜럼버스 법원 지하실에서 선서하셨어요. 비가 왔고 의자도 없었지만, 그래도 인생 최고의 날이었다고 하셨죠.
+    판사: 저희 부모님은 1979년에 나이지리아에서 오셨고, 어머니는 콜럼버스 법원 지하실에서 선서하셨어요. 비가 왔고 의자도 없었지만, 그래도 인생 최고의 날이었다고 하셨죠.
 
 027. JUDGE: Today you have chairs, and you have an airplane, and you have a lot of people at the fence, and I'm told forty-three of them are here for one person. I won't say who, but she's in the third row.
-    판사: 판사: 오늘 여러분에겐 의자가 있고, 비행기가 있고, 울타리 밖에 많은 사람들이 있는데, 그중 마흔세 명이 한 사람을 위해 왔다고 들었어요. 누군지는 말하지 않겠지만, 세 번째 줄에 있죠.
+    판사: 오늘 여러분에겐 의자가 있고, 비행기가 있고, 울타리 밖에 많은 사람들이 있는데, 그중 마흔세 명이 한 사람을 위해 왔다고 들었어요. 누군지는 말하지 않겠지만, 세 번째 줄에 있죠.
 
 028. TYLER: She said "third row," so Wen's going to kill somebody.
-    타일러: 타일러: "세 번째 줄"이래요, 박사님이 누구 죽이겠는데요.
+    타일러: "세 번째 줄"이래요, 박사님이 누구 죽이겠는데요.
 
 029. GLORIA: That was me. I called the clerk on Thursday, and I'm not sorry.
-    글로리아: 글로리아: 그거 나야, 목요일에 서기한테 전화했거든. 미안하지 않아.
+    글로리아: 그거 나야, 목요일에 서기한테 전화했거든. 미안하지 않아.
 
 030. JUDGE: Candidates, please stand, raise your right hand, and repeat after me.
-    판사: 판사: 신청자 여러분, 일어나서 오른손을 들고 저를 따라 하십시오.
+    판사: 신청자 여러분, 일어나서 오른손을 들고 저를 따라 하십시오.
 
 031. LILY: Her hand's shaking, Dad, look, Dr. Liu's hand is shaking.
-    릴리: 릴리: 손이 떨려요, 아빠, 봐요, 리우 박사님 손이 떨려요.
+    릴리: 손이 떨려요, 아빠, 봐요, 리우 박사님 손이 떨려요.
 
 032. SAM: I've never seen that, not in eleven years.
-    샘: 샘: 11년 동안 그런 건 처음 봐.
+    샘: 11년 동안 그런 건 처음 봐.
 
 033. JUDGE: "I hereby declare, on oath, that I absolutely and entirely renounce and abjure all allegiance and fidelity to any foreign prince, potentate, state, or sovereignty, of whom or which I have heretofore been a subject or citizen."
     판사: "나는 지금까지 국민 또는 시민으로 속해 있던 모든 외국의 군주, 통치자, 국가 또는 주권에 대한 충성과 신의를 완전히 그리고 전적으로 포기하고 버릴 것을 선서합니다."
 
 034. ERIN: Sam, what does "renounce" mean, exactly?
-    에린: 에린: 샘, "renounce"가 정확히 무슨 뜻이야?
+    에린: 샘, "renounce"가 정확히 무슨 뜻이야?
 
 035. SAM: It means to give up, formally and out loud. Wen told me last week that China doesn't allow two passports, so when she says this, she stops being a Chinese citizen.
-    샘: 샘: 공식적으로, 소리 내서 포기하는 거야. 웬이 지난주에 말해 줬는데, 중국은 여권 두 개를 허락 안 해서 이 말을 하면 웬은 중국 시민이 아니게 돼.
+    샘: 공식적으로, 소리 내서 포기하는 거야. 웬이 지난주에 말해 줬는데, 중국은 여권 두 개를 허락 안 해서 이 말을 하면 웬은 중국 시민이 아니게 돼.
 
 036. ERIN: And what about her father?
-    에린: 에린: 그럼 아버님은?
+    에린: 그럼 아버님은?
 
 037. SAM: She'll need a visa to visit him now, like a tourist, in the city where she was born.
-    샘: 샘: 이제 자기가 태어난 도시에 아버지 뵈러 가려면 관광객처럼 비자가 필요해.
+    샘: 이제 자기가 태어난 도시에 아버지 뵈러 가려면 관광객처럼 비자가 필요해.
 
 038. JUDGE: "That I will support and defend the Constitution and laws of the United States of America against all enemies, foreign and domestic. That I will bear true faith and allegiance to the same."
     판사: "나는 국내외의 모든 적으로부터 미합중국 헌법과 법률을 지지하고 수호할 것을 선서합니다. 그리고 그에 대한 진정한 믿음과 충성을 다할 것을 선서합니다."
@@ -133,337 +133,337 @@
     판사: "그리고 나는 어떠한 마음의 유보나 회피의 의도 없이 자유로이 이 의무를 받아들입니다. 신이시여 도우소서." 축하합니다. 앉으십시오, 나의 동료 시민 여러분.
 
 040. EARL: Fellow citizens. She said fellow citizens, and I'm going to need a minute.
-    얼: 얼: 동료 시민, 동료 시민이라고 했어. 나 잠깐 시간 좀 줘.
+    얼: 동료 시민, 동료 시민이라고 했어. 나 잠깐 시간 좀 줘.
 
 041. WEN: You can all stop staring at me. I know there are forty-three of you.
-    웬: 웬: 다들 그만 쳐다봐도 돼요, 마흔세 명인 거 알아요.
+    웬: 다들 그만 쳐다봐도 돼요, 마흔세 명인 거 알아요.
 
 042. SAM: It's forty-two and Earl twice.
-    샘: 샘: 마흔두 명이랑 얼 두 번이에요.
+    샘: 마흔두 명이랑 얼 두 번이에요.
 
 043. WEN: I know, Patty told me. Can we sit here on this bench for a minute, just you and me, before the pie?
-    웬: 웬: 알아요, 패티가 말해 줬어요. 파이 먹기 전에 이 벤치에 대표님이랑 저만 잠깐 앉아도 돼요?
+    웬: 알아요, 패티가 말해 줬어요. 파이 먹기 전에 이 벤치에 대표님이랑 저만 잠깐 앉아도 돼요?
 
 044. SAM: Of course, since everybody else is fighting over Darnell's cooler.
-    샘: 샘: 물론이죠, 다른 사람들은 대넬 아이스박스 놓고 싸우고 있으니까요.
+    샘: 물론이죠, 다른 사람들은 대넬 아이스박스 놓고 싸우고 있으니까요.
 
 045. WEN: I gave them my green card, and the officer put it in a plastic box with seventy-two others. That card was in my wallet for twelve years, and it was the only thing in my wallet I never lost.
-    웬: 웬: 영주권 카드를 냈는데, 담당관이 다른 일흔두 장이랑 같이 플라스틱 상자에 넣더라고요. 그 카드가 12년 동안 제 지갑에 있었는데, 지갑에서 한 번도 안 잃어버린 건 그거 하나였어요.
+    웬: 영주권 카드를 냈는데, 담당관이 다른 일흔두 장이랑 같이 플라스틱 상자에 넣더라고요. 그 카드가 12년 동안 제 지갑에 있었는데, 지갑에서 한 번도 안 잃어버린 건 그거 하나였어요.
 
 046. SAM: What did you feel when you said the words?
-    샘: 샘: 그 말 할 때 기분이 어땠어요?
+    샘: 그 말 할 때 기분이 어땠어요?
 
 047. WEN: Honestly, I thought about the airport in Columbus in August 2008, with two suitcases and my father's envelope of three thousand dollars, all his savings. One suitcase was books, and the other was a rice cooker and three sweaters my mother knitted.
-    웬: 웬: 솔직히, 2008년 8월 콜럼버스 공항 생각이 났어요. 여행 가방 두 개랑, 아버지 저금 전부인 3천 달러가 든 봉투요. 가방 하나는 책이었고, 다른 하나는 밥솥이랑 어머니가 뜬 스웨터 세 벌이었어요.
+    웬: 솔직히, 2008년 8월 콜럼버스 공항 생각이 났어요. 여행 가방 두 개랑, 아버지 저금 전부인 3천 달러가 든 봉투요. 가방 하나는 책이었고, 다른 하나는 밥솥이랑 어머니가 뜬 스웨터 세 벌이었어요.
 
 048. SAM: Three sweaters for an Ohio winter, huh?
-    샘: 샘: 오하이오 겨울에 스웨터 세 벌이라?
+    샘: 오하이오 겨울에 스웨터 세 벌이라?
 
 049. WEN: I wore all three at the same time in January, so my lab partner thought I was very fat, until he saw me in April.
-    웬: 웬: 1월엔 세 벌을 한꺼번에 입어서, 연구실 동료가 4월에 저를 보기 전까진 제가 엄청 뚱뚱한 줄 알았대요.
+    웬: 1월엔 세 벌을 한꺼번에 입어서, 연구실 동료가 4월에 저를 보기 전까진 제가 엄청 뚱뚱한 줄 알았대요.
 
 050. SAM: Was that lab partner Min-jun?
-    샘: 샘: 그 동료가 민준이었어요?
+    샘: 그 동료가 민준이었어요?
 
 051. WEN: Min-jun came in 2010, and he broke four samples in his first month but told me three. He still thinks I don't know about the fourth.
-    웬: 웬: 민준은 2010년에 왔는데, 첫 달에 샘플 네 개를 깨뜨리고 저한텐 세 개라고 했어요. 네 번째는 제가 모르는 줄 아직도 알아요.
+    웬: 민준은 2010년에 왔는데, 첫 달에 샘플 네 개를 깨뜨리고 저한텐 세 개라고 했어요. 네 번째는 제가 모르는 줄 아직도 알아요.
 
 052. SAM: Do you remember the first time we met?
     샘: 우리 처음 만났을 때 기억나요?
 
 053. WEN: It was 2014, when you came to the lab at Ohio State with a broken motor in a Nike shoebox. You said, "Somebody told me you're the only person in Columbus who can tell me why this died."
-    웬: 웬: 2014년이요. 대표님이 나이키 신발 상자에 고장 난 모터를 담아서 오하이오주립대 연구실에 왔어요. "콜럼버스에서 이게 왜 죽었는지 말해 줄 수 있는 사람은 당신뿐이라던데요" 하셨죠.
+    웬: 2014년이요. 대표님이 나이키 신발 상자에 고장 난 모터를 담아서 오하이오주립대 연구실에 왔어요. "콜럼버스에서 이게 왜 죽었는지 말해 줄 수 있는 사람은 당신뿐이라던데요" 하셨죠.
 
 054. SAM: And you told me in about forty seconds.
     샘: 그리고 당신은 한 40초 만에 말해 줬죠.
 
 055. WEN: It was twenty-two seconds. The magnet was cracked, neodymium from China that had been sitting in a cold truck. I told you, "Your motor didn't die. Your supply chain killed it."
-    웬: 웬: 22초요. 추운 트럭에 실려 있던 중국산 네오디뮴 자석에 금이 가 있었거든요. 제가 "모터가 죽은 게 아니에요. 공급망이 죽인 거예요"라고 했죠.
+    웬: 22초요. 추운 트럭에 실려 있던 중국산 네오디뮴 자석에 금이 가 있었거든요. 제가 "모터가 죽은 게 아니에요. 공급망이 죽인 거예요"라고 했죠.
 
 056. SAM: And then I asked you to lunch.
-    샘: 샘: 그리고 내가 점심 먹자고 했고요.
+    샘: 그리고 내가 점심 먹자고 했고요.
 
 057. WEN: You asked me to lunch to argue about ferrite, and we argued for three hours, and you paid. Then you asked if I'd ever thought about building motors without rare earths, and I said, "Every day since 2009."
-    웬: 웬: 페라이트 갖고 싸우려고 점심 먹자고 한 거죠. 세 시간 싸웠고 대표님이 냈어요. 그러고는 희토류 없이 모터 만들 생각 해 본 적 있냐고 물어서 제가 "2009년부터 매일요"라고 했죠.
+    웬: 페라이트 갖고 싸우려고 점심 먹자고 한 거죠. 세 시간 싸웠고 대표님이 냈어요. 그러고는 희토류 없이 모터 만들 생각 해 본 적 있냐고 물어서 제가 "2009년부터 매일요"라고 했죠.
 
 058. SAM: And why 2009?
-    샘: 샘: 그런데 왜 2009년이에요?
+    샘: 그런데 왜 2009년이에요?
 
 059. WEN: Because in 2009 my professor said it couldn't be done, and I wanted to prove him wrong, and then you showed up with a shoebox.
-    웬: 웬: 2009년에 지도교수님이 그건 안 된다고 해서 틀렸다는 걸 증명하고 싶었는데, 그때 대표님이 신발 상자 들고 나타났어요.
+    웬: 2009년에 지도교수님이 그건 안 된다고 해서 틀렸다는 걸 증명하고 싶었는데, 그때 대표님이 신발 상자 들고 나타났어요.
 
 060. SAM: Wen, I read Megan's story, the Sunday one.
-    샘: 샘: 웬, 메건의 일요일 기사 읽었어요.
+    샘: 웬, 메건의 일요일 기사 읽었어요.
 
 061. WEN: I know you did. You called me at seven a.m. and said nothing for eleven seconds, and then you said, "Okay," and hung up.
-    웬: 웬: 읽은 거 알아요. 아침 일곱 시에 전화해서 11초 동안 아무 말도 안 하다가 "알았어요" 하고 끊었잖아요.
+    웬: 읽은 거 알아요. 아침 일곱 시에 전화해서 11초 동안 아무 말도 안 하다가 "알았어요" 하고 끊었잖아요.
 
 062. SAM: I didn't know what to say. You never told me.
-    샘: 샘: 무슨 말을 해야 할지 몰랐어요, 나한테 한 번도 말 안 했잖아요.
+    샘: 무슨 말을 해야 할지 몰랐어요, 나한테 한 번도 말 안 했잖아요.
 
 063. WEN: Because I was ashamed. For seventeen years I told everyone I couldn't go home because of my visa, and that was true, but it wasn't the whole truth.
-    웬: 웬: 부끄러웠으니까요. 17년 동안 비자 때문에 집에 못 갔다고 모두한테 말했는데, 그건 사실이었지만 전부는 아니었어요.
+    웬: 부끄러웠으니까요. 17년 동안 비자 때문에 집에 못 갔다고 모두한테 말했는데, 그건 사실이었지만 전부는 아니었어요.
 
 064. SAM: Your mother told you not to come.
     샘: 어머니가 오지 말라고 하셨죠.
 
 065. WEN: She called me from the hospital three days before she died. She knew. She said, "Xiaowen, don't come. If you come, they might not let you back. Stay. Finish. Build the thing you told me about."
-    웬: 웬: 돌아가시기 사흘 전에 병원에서 전화하셨어요, 알고 계셨던 거예요. "샤오원, 오지 마라. 오면 다시 못 돌아갈지도 몰라. 남아라. 끝내라. 네가 말했던 그거 만들어라" 하셨어요.
+    웬: 돌아가시기 사흘 전에 병원에서 전화하셨어요, 알고 계셨던 거예요. "샤오원, 오지 마라. 오면 다시 못 돌아갈지도 몰라. 남아라. 끝내라. 네가 말했던 그거 만들어라" 하셨어요.
 
 066. SAM: She meant the motor.
-    샘: 샘: 모터 말씀이셨군요.
+    샘: 모터 말씀이셨군요.
 
 067. WEN: The motor without rare earths, which I had told her about on the phone, although she didn't understand any of it. She said, "Good. Then the factories won't need to dig up the mountains back home."
-    웬: 웬: 희토류 없는 모터요. 전화로 말씀드린 적이 있었는데 하나도 이해 못 하셨죠. "잘됐다. 그럼 공장들이 고향 산을 안 파헤쳐도 되겠네" 하셨어요.
+    웬: 희토류 없는 모터요. 전화로 말씀드린 적이 있었는데 하나도 이해 못 하셨죠. "잘됐다. 그럼 공장들이 고향 산을 안 파헤쳐도 되겠네" 하셨어요.
 
 068. SAM: She sounds like an engineer.
     샘: 엔지니어 같은 말씀이네요.
 
 069. WEN: She put tiny motors into Walkmans, thousands a day for twenty years, so she knew what was important and what could wait. She decided her funeral could wait, forever.
-    웬: 웬: 어머니는 20년 동안 하루 수천 개씩 워크맨에 작은 모터를 넣으셔서, 뭐가 중요하고 뭐가 기다려도 되는지 아셨어요. 자기 장례식은 영원히 기다려도 된다고 정하셨죠.
+    웬: 어머니는 20년 동안 하루 수천 개씩 워크맨에 작은 모터를 넣으셔서, 뭐가 중요하고 뭐가 기다려도 되는지 아셨어요. 자기 장례식은 영원히 기다려도 된다고 정하셨죠.
 
 070. SAM: Why were you ashamed, when she told you to stay?
-    샘: 샘: 어머니가 남으라고 하셨는데 왜 부끄러웠어요?
+    샘: 어머니가 남으라고 하셨는데 왜 부끄러웠어요?
 
 071. WEN: Because when she said it, part of me was relieved. I was afraid to go home, afraid I'd never come back, and she knew that, too. She gave me permission so I wouldn't have to choose.
-    웬: 웬: 그 말을 들었을 때 제 일부가 안도했으니까요. 집에 가는 게, 다시는 못 돌아올까 봐 무서웠는데, 어머니도 그걸 아셨어요. 그래서 제가 고르지 않아도 되게 허락해 주신 거예요.
+    웬: 그 말을 들었을 때 제 일부가 안도했으니까요. 집에 가는 게, 다시는 못 돌아올까 봐 무서웠는데, 어머니도 그걸 아셨어요. 그래서 제가 고르지 않아도 되게 허락해 주신 거예요.
 
 072. SAM: Wen, that's not something to be ashamed of, that's a mother.
-    샘: 샘: 웬, 그건 부끄러워할 일이 아니에요. 그게 엄마예요.
+    샘: 웬, 그건 부끄러워할 일이 아니에요. 그게 엄마예요.
 
 073. WEN: Erin said the same thing in the hallway at the hospital in February, when your father was in surgery. I told her first, not Megan.
-    웬: 웬: 에린도 2월에 아버님 수술하실 때 병원 복도에서 똑같이 말했어요. 메건 말고 에린한테 먼저 말했거든요.
+    웬: 에린도 2월에 아버님 수술하실 때 병원 복도에서 똑같이 말했어요. 메건 말고 에린한테 먼저 말했거든요.
 
 074. SAM: Erin knew, since February?
-    샘: 샘: 에린이 2월부터 알았어요?
+    샘: 에린이 2월부터 알았어요?
 
 075. WEN: Erin knows a lot of things, Sam. She doesn't tell you, because you'd try to fix them in ten seconds.
-    웬: 웬: 에린은 많은 걸 알아요, 대표님. 근데 대표님한테 말 안 하는 건 10초 만에 고치려고 들 테니까요.
+    웬: 에린은 많은 걸 알아요, 대표님. 근데 대표님한테 말 안 하는 건 10초 만에 고치려고 들 테니까요.
 
 076. SAM: That's fair, that's very fair.
-    샘: 샘: 맞는 말이에요, 아주 맞는 말이에요.
+    샘: 맞는 말이에요, 아주 맞는 말이에요.
 
 077. WEN: Today, when I said "renounce," I wasn't renouncing her, or my father, or Shenzhen, I was renouncing a passport. Somebody in Washington thinks those are the same thing, but they aren't.
-    웬: 웬: 오늘 "포기한다"고 말했을 때, 어머니도, 아버지도, 선전도 포기한 게 아니라 여권을 포기한 거예요. 워싱턴의 누군가는 그게 같은 거라고 생각하지만, 아니에요.
+    웬: 오늘 "포기한다"고 말했을 때, 어머니도, 아버지도, 선전도 포기한 게 아니라 여권을 포기한 거예요. 워싱턴의 누군가는 그게 같은 거라고 생각하지만, 아니에요.
 
 078. SAM: And what will you tell your father?
-    샘: 샘: 그럼 아버님한테는 뭐라고 할 거예요?
+    샘: 그럼 아버님한테는 뭐라고 할 거예요?
 
 079. WEN: I'm going to call him in ten minutes, when it's midnight in Shenzhen. He said he'd stay up, and he's never stayed up past ten in his life.
-    웬: 웬: 10분 뒤, 선전이 자정일 때 전화할 거예요. 안 자고 기다리시겠다는데, 평생 열 시 넘어서 깨어 계신 적이 없는 분이에요.
+    웬: 10분 뒤, 선전이 자정일 때 전화할 거예요. 안 자고 기다리시겠다는데, 평생 열 시 넘어서 깨어 계신 적이 없는 분이에요.
 
 080. SAM: Do you want me there with you?
-    샘: 샘: 내가 옆에 있을까요?
+    샘: 내가 옆에 있을까요?
 
 081. WEN: Yes, but in the back seat, quietly. He'll want to see you. He watched the clip with Chinese subtitles somebody made, but he won't tell me who sent it to him.
-    웬: 웬: 네, 근데 뒷자리에서 조용히요, 대표님 보고 싶어 하실 테니까. 누가 만든 중국어 자막으로 그 영상 보셨는데, 누가 보내 줬는지는 말 안 하세요.
+    웬: 네, 근데 뒷자리에서 조용히요, 대표님 보고 싶어 하실 테니까. 누가 만든 중국어 자막으로 그 영상 보셨는데, 누가 보내 줬는지는 말 안 하세요.
 
 082. SAM: Is it dangerous for him, watching it?
-    샘: 샘: 그걸 보시는 게 아버님한테 위험한 거 아니에요?
+    샘: 그걸 보시는 게 아버님한테 위험한 거 아니에요?
 
 083. WEN: He's seventy-two and retired, and he taught physics to half of his district. He says if anybody asks, he's checking his daughter's grammar.
     웬: 일흔둘에 은퇴하셨고, 그 동네 사람 절반한테 물리를 가르치셨어요. 누가 물으면 딸 문법 검사하는 중이라고 하시겠대요.
 
 084. LILY: Dr. Liu? Sorry, but Gloria says everybody's leaving for Lou's in twenty minutes, and Donna made something she won't name. She just said "red, white, and blue, and don't be late."
-    릴리: 릴리: 리우 박사님? 죄송한데, 글로리아가 20분 뒤에 다들 루스로 출발한대요. 그리고 도나가 뭔지 말 안 하는 걸 만들었는데, 그냥 "빨강, 하양, 파랑, 그리고 늦지 마"래요.
+    릴리: 리우 박사님? 죄송한데, 글로리아가 20분 뒤에 다들 루스로 출발한대요. 그리고 도나가 뭔지 말 안 하는 걸 만들었는데, 그냥 "빨강, 하양, 파랑, 그리고 늦지 마"래요.
 
 085. WEN: Lily, you can call me Wen today, just today.
-    웬: 웬: 릴리, 오늘은 웬이라고 불러도 돼요, 오늘만요.
+    웬: 릴리, 오늘은 웬이라고 불러도 돼요, 오늘만요.
 
 086. LILY: It's not Friday yet, and you said if I called you Wen before Friday, I'd have to start over.
-    릴리: 릴리: 아직 금요일 아닌데요. 금요일 전에 웬이라고 부르면 처음부터 다시라고 하셨잖아요.
+    릴리: 아직 금요일 아닌데요. 금요일 전에 웬이라고 부르면 처음부터 다시라고 하셨잖아요.
 
 087. WEN: That was seven weeks ago, and you passed a long time ago, but I just never told you.
-    웬: 웬: 그건 7주 전이에요. 오래전에 통과했는데, 말을 안 했을 뿐이에요.
+    웬: 그건 7주 전이에요. 오래전에 통과했는데, 말을 안 했을 뿐이에요.
 
 088. LILY: Okay, Wen, then congratulations, Wen.
-    릴리: 릴리: 좋아요, 웬, 그럼 축하해요, 웬.
+    릴리: 좋아요, 웬, 그럼 축하해요, 웬.
 
 089. WEN: Thank you. Now go away, I'm calling my father.
-    웬: 웬: 고마워요. 이제 가요, 아버지한테 전화할 거예요.
+    웬: 고마워요. 이제 가요, 아버지한테 전화할 거예요.
 
 090. LILY: I'm going, Wen, I'm going.
-    릴리: 릴리: 가요, 웬, 가요.
+    릴리: 가요, 웬, 가요.
 
 091. MR. LIU: Xiaowen, can you hear me? Is the camera on? All I can see is a car ceiling.
-    리우 선생: 리우 선생: 샤오원, 들리니? 카메라 켜졌니? 자동차 천장만 보이는구나.
+    리우 선생: 샤오원, 들리니? 카메라 켜졌니? 자동차 천장만 보이는구나.
 
 092. WEN: I'm here, Baba. I'm sorry, I was holding the phone wrong. Can you see me now?
-    웬: 웬: 여기 있어요, 아빠. 죄송해요, 폰을 잘못 들고 있었어요. 이제 보여요?
+    웬: 여기 있어요, 아빠. 죄송해요, 폰을 잘못 들고 있었어요. 이제 보여요?
 
 093. MR. LIU: I see you now. You look tired and happy, just like your mother when she was tired and happy.
-    리우 선생: 리우 선생: 이제 보인다. 피곤하고 행복해 보이는구나, 네 엄마가 피곤하고 행복할 때처럼.
+    리우 선생: 이제 보인다. 피곤하고 행복해 보이는구나, 네 엄마가 피곤하고 행복할 때처럼.
 
 094. WEN: It's done, Baba. I said the words, and I'm an American now.
-    웬: 웬: 끝났어요, 아빠. 그 말 했으니까 이제 미국인이에요.
+    웬: 끝났어요, 아빠. 그 말 했으니까 이제 미국인이에요.
 
 095. MR. LIU: I know. I was watching the clock, and at ten your time I stood up in the kitchen. Your aunt thought I was going to the bathroom, but I told her I was standing for my daughter.
-    리우 선생: 리우 선생: 안다. 시계 보고 있다가 그쪽 시간 열 시에 부엌에서 일어났지. 네 이모는 내가 화장실 가는 줄 알았는데, 딸을 위해 서 있는 거라고 했다.
+    리우 선생: 안다. 시계 보고 있다가 그쪽 시간 열 시에 부엌에서 일어났지. 네 이모는 내가 화장실 가는 줄 알았는데, 딸을 위해 서 있는 거라고 했다.
 
 096. WEN: You really stood up?
-    웬: 웬: 정말 일어나셨어요?
+    웬: 정말 일어나셨어요?
 
 097. MR. LIU: Only for one minute, since my knees are not American motors. Is Mr. Kowalski there? I can see a large shoulder in the back.
-    리우 선생: 리우 선생: 1분만. 내 무릎은 미국 모터가 아니라서. 코왈스키 씨 거기 있니? 뒤에 큰 어깨가 보이는데.
+    리우 선생: 1분만. 내 무릎은 미국 모터가 아니라서. 코왈스키 씨 거기 있니? 뒤에 큰 어깨가 보이는데.
 
 098. SAM: Hello, Mr. Liu, and it's an honor. I'm sorry it's so late there.
-    샘: 샘: 안녕하세요, 리우 선생님, 영광입니다. 거기 너무 늦은 시간이라 죄송해요.
+    샘: 안녕하세요, 리우 선생님, 영광입니다. 거기 너무 늦은 시간이라 죄송해요.
 
 099. MR. LIU: Mr. Kowalski, I watched your speech eleven times. I have a question as a teacher: why did you put the paper down?
-    리우 선생: 리우 선생: 코왈스키 씨, 당신 연설 열한 번 봤어요. 교사로서 질문 하나 할게요. 왜 원고를 내려놨어요?
+    리우 선생: 코왈스키 씨, 당신 연설 열한 번 봤어요. 교사로서 질문 하나 할게요. 왜 원고를 내려놨어요?
 
 100. SAM: Because the answer wasn't on it, sir.
     샘: 답이 거기 없었으니까요, 선생님.
 
 101. MR. LIU: Good answer. I tell my students the same thing, that the answer is never on the paper you brought with you. It's in the problem.
-    리우 선생: 리우 선생: 좋은 대답이네요. 나도 학생들한테 똑같이 말해요. 답은 가져온 종이에 있지 않다고. 문제 안에 있다고.
+    리우 선생: 좋은 대답이네요. 나도 학생들한테 똑같이 말해요. 답은 가져온 종이에 있지 않다고. 문제 안에 있다고.
 
 102. WEN: Baba, you know what this means, that I can't use my Chinese passport anymore. When I come to see you, I need a visa, like a stranger.
-    웬: 웬: 아빠, 이게 무슨 뜻인지 아시죠. 이제 중국 여권 못 써요. 아빠 보러 가려면 남처럼 비자가 필요해요.
+    웬: 아빠, 이게 무슨 뜻인지 아시죠. 이제 중국 여권 못 써요. 아빠 보러 가려면 남처럼 비자가 필요해요.
 
 103. MR. LIU: Xiaowen, a passport is a piece of paper. I taught physics for thirty-eight years, and I know the difference between paper and mass.
-    리우 선생: 리우 선생: 샤오원, 여권은 종이 한 장이다. 38년 동안 물리를 가르쳤으니, 종이랑 질량의 차이는 안다.
+    리우 선생: 샤오원, 여권은 종이 한 장이다. 38년 동안 물리를 가르쳤으니, 종이랑 질량의 차이는 안다.
 
 104. WEN: So what's the difference?
-    웬: 웬: 그럼 차이가 뭔데요?
+    웬: 그럼 차이가 뭔데요?
 
 105. MR. LIU: A government can change paper, but it can't change mass. You are my daughter, and that has mass.
-    리우 선생: 리우 선생: 종이는 정부가 바꿀 수 있지만, 질량은 못 바꿔. 너는 내 딸이고, 그건 질량이 있지.
+    리우 선생: 종이는 정부가 바꿀 수 있지만, 질량은 못 바꿔. 너는 내 딸이고, 그건 질량이 있지.
 
 106. WEN: Baba.
     웬: 아빠.
 
 107. MR. LIU: Don't cry in the car, or Mr. Kowalski will have to clean it.
-    리우 선생: 리우 선생: 차에서 울지 마라, 코왈스키 씨가 청소해야 하잖니.
+    리우 선생: 차에서 울지 마라, 코왈스키 씨가 청소해야 하잖니.
 
 108. SAM: It's her car, sir, and she keeps it very clean.
-    샘: 샘: 웬 차예요, 선생님, 아주 깨끗하게 관리해요.
+    샘: 웬 차예요, 선생님, 아주 깨끗하게 관리해요.
 
 109. MR. LIU: Of course she does. Her mother was the same way. Xiaowen, there's one more thing your mother said that I never told you, because I thought you would find it silly.
-    리우 선생: 리우 선생: 당연히 그렇겠지, 네 엄마도 그랬어. 샤오원, 네 엄마가 한 말이 하나 더 있는데, 네가 우습게 생각할까 봐 한 번도 말 안 했어.
+    리우 선생: 당연히 그렇겠지, 네 엄마도 그랬어. 샤오원, 네 엄마가 한 말이 하나 더 있는데, 네가 우습게 생각할까 봐 한 번도 말 안 했어.
 
 110. WEN: Please, tell me.
-    웬: 웬: 말해 주세요.
+    웬: 말해 주세요.
 
 111. MR. LIU: It was the night you left in 2008, at the airport. She said, "She'll become one of them. And that's all right. Someone has to build good things over there too."
-    리우 선생: 리우 선생: 네가 떠난 2008년 그날 밤 공항에서였다. 네 엄마가 그랬지. "저 애는 저쪽 사람이 될 거예요. 그래도 괜찮아요. 저쪽에서도 누군가는 좋은 걸 만들어야 하니까요."
+    리우 선생: 네가 떠난 2008년 그날 밤 공항에서였다. 네 엄마가 그랬지. "저 애는 저쪽 사람이 될 거예요. 그래도 괜찮아요. 저쪽에서도 누군가는 좋은 걸 만들어야 하니까요."
 
 112. WEN: She really said that?
-    웬: 웬: 엄마가 정말 그렇게 말했어요?
+    웬: 엄마가 정말 그렇게 말했어요?
 
 113. MR. LIU: She said it in the parking lot, and then she bought a terrible coffee and cried. I said nothing. I'm a teacher, and I wait until the student is ready.
-    리우 선생: 리우 선생: 주차장에서 그러고는 형편없는 커피를 사서 울었지. 난 아무 말도 안 했다. 난 교사라서, 학생이 준비될 때까지 기다리거든.
+    리우 선생: 주차장에서 그러고는 형편없는 커피를 사서 울었지. 난 아무 말도 안 했다. 난 교사라서, 학생이 준비될 때까지 기다리거든.
 
 114. WEN: And was I ready?
-    웬: 웬: 그럼 제가 준비됐어요?
+    웬: 그럼 제가 준비됐어요?
 
 115. MR. LIU: You stood in front of seventy-two strangers and said the words with a shaking hand. Yes, you were ready.
-    리우 선생: 리우 선생: 낯선 사람 일흔두 명 앞에 서서 떨리는 손으로 그 말을 했잖니. 그래, 준비됐어.
+    리우 선생: 낯선 사람 일흔두 명 앞에 서서 떨리는 손으로 그 말을 했잖니. 그래, 준비됐어.
 
 116. WEN: How do you know my hand was shaking?
     웬: 제 손이 떨린 건 어떻게 아세요?
 
 117. MR. LIU: Your mother's hand shook too, on our wedding day. It was the same hand, the right one.
-    리우 선생: 리우 선생: 우리 결혼식 날 네 엄마 손도 떨렸거든. 같은 손, 오른손이었다.
+    리우 선생: 우리 결혼식 날 네 엄마 손도 떨렸거든. 같은 손, 오른손이었다.
 
 118. MR. LIU: Now, it's midnight and I'm an old man. Go and eat your pie. I know there's pie, because there's always pie in Ohio.
-    리우 선생: 리우 선생: 자, 자정이고 난 늙은이다. 가서 파이 먹어라. 파이 있는 거 안다, 오하이오엔 늘 파이가 있잖니.
+    리우 선생: 자, 자정이고 난 늙은이다. 가서 파이 먹어라. 파이 있는 거 안다, 오하이오엔 늘 파이가 있잖니.
 
 119. WEN: Pie is not food, Baba. You said that yourself.
-    웬: 웬: 파이는 음식이 아니라고 하셨잖아요, 아빠.
+    웬: 파이는 음식이 아니라고 하셨잖아요, 아빠.
 
 120. MR. LIU: Today it is food, so eat two pieces. See it through, Xiaowen, and you did. Goodnight, Mr. Kowalski, and take care of my daughter. No, she takes care of herself. Take care of her motors.
-    리우 선생: 리우 선생: 오늘은 음식이니까 두 조각 먹어라. 끝까지 해내라, 샤오원. 해냈구나. 잘 자요, 코왈스키 씨, 내 딸 잘 부탁해요. 아니, 그 애는 자기가 알아서 하지. 그 애 모터나 잘 부탁해요.
+    리우 선생: 오늘은 음식이니까 두 조각 먹어라. 끝까지 해내라, 샤오원. 해냈구나. 잘 자요, 코왈스키 씨, 내 딸 잘 부탁해요. 아니, 그 애는 자기가 알아서 하지. 그 애 모터나 잘 부탁해요.
 
 121. DONNA: Okay, everybody, sit down. Nobody touches this pie until the citizen cuts it. Wen, honey, that's you, so here's the knife.
-    도나: 도나: 자, 다들 앉아. 시민이 자르기 전엔 아무도 이 파이 건드리지 마. 웬, 얘, 그게 너야, 칼 여기 있어.
+    도나: 자, 다들 앉아. 시민이 자르기 전엔 아무도 이 파이 건드리지 마. 웬, 얘, 그게 너야, 칼 여기 있어.
 
 122. WEN: What is it, Donna?
-    웬: 웬: 이게 뭐예요, 도나?
+    웬: 이게 뭐예요, 도나?
 
 123. DONNA: It's strawberries, blueberries, and coconut cream for red, white, and blue. The crust has a little star on it, because Patty helped, and she stars everything she loves.
-    도나: 도나: 빨강, 하양, 파랑으로 딸기, 블루베리, 코코넛 크림이야. 크러스트엔 작은 별이 있는데, 패티가 도왔거든. 패티는 좋아하는 거엔 다 별을 그리잖아.
+    도나: 빨강, 하양, 파랑으로 딸기, 블루베리, 코코넛 크림이야. 크러스트엔 작은 별이 있는데, 패티가 도왔거든. 패티는 좋아하는 거엔 다 별을 그리잖아.
 
 124. PATTY: It's a little crooked, like Jayden's "i."
-    패티: 패티: 제이든의 "i"처럼 좀 삐뚤어요.
+    패티: 제이든의 "i"처럼 좀 삐뚤어요.
 
 125. JAYDEN: That's never going away, is it?
     제이든: 그거 평생 가는 거죠?
 
 126. EARL: Never, son. That's what a factory is. Everybody remembers your worst day forever, and they love you anyway.
-    얼: 얼: 평생이지, 젊은이, 공장이 원래 그래. 다들 네 최악의 날을 영원히 기억하는데, 그래도 널 아껴.
+    얼: 평생이지, 젊은이, 공장이 원래 그래. 다들 네 최악의 날을 영원히 기억하는데, 그래도 널 아껴.
 
 127. GLORIA: Wen, before you cut it, I have something for you from the mail, which came to the plant on Friday with a Washington postmark.
-    글로리아: 글로리아: 웬, 자르기 전에 줄 게 있어. 금요일에 워싱턴 소인 찍혀서 공장으로 온 우편이야.
+    글로리아: 웬, 자르기 전에 줄 게 있어. 금요일에 워싱턴 소인 찍혀서 공장으로 온 우편이야.
 
 128. WEN: Who is it from?
-    웬: 웬: 누구한테서요?
+    웬: 누구한테서요?
 
 129. GLORIA: Read it out loud, honey. We all want to know.
-    글로리아: 글로리아: 소리 내서 읽어, 얘, 다들 궁금해해.
+    글로리아: 소리 내서 읽어, 얘, 다들 궁금해해.
 
 130. WEN: It's a card. "Dr. Liu. Welcome to the country. I'm sorry it took us so long to say it. With respect, Senator Thomas Crandall. P.S. I read the footnote."
     웬: 카드예요. "리우 박사님. 이 나라에 오신 걸 환영합니다. 그 말을 하기까지 이렇게 오래 걸려서 죄송합니다. 존경을 담아, 상원의원 토머스 크랜들. 추신: 각주 읽었습니다."
 
 131. DARNELL: The guy who asked about your father sent a card?
-    대넬: 대넬: 아버님 얘기 물었던 그 사람이 카드를 보냈어요?
+    대넬: 아버님 얘기 물었던 그 사람이 카드를 보냈어요?
 
 132. WEN: He did, and I'm going to keep it next to Earl's card in the drawer, with the napkin from 2017.
-    웬: 웬: 보냈어요. 서랍에 얼 카드 옆에, 2017년 냅킨이랑 같이 둘 거예요.
+    웬: 보냈어요. 서랍에 얼 카드 옆에, 2017년 냅킨이랑 같이 둘 거예요.
 
 133. GLORIA: The napkin with the steel spec, and you still have that?
-    글로리아: 글로리아: 강판 사양 적은 그 냅킨? 아직도 갖고 있어?
+    글로리아: 강판 사양 적은 그 냅킨? 아직도 갖고 있어?
 
 134. WEN: I keep everything that matters, and I just pretend I threw it away.
-    웬: 웬: 중요한 건 다 간직하고, 버린 척할 뿐이에요.
+    웬: 중요한 건 다 간직하고, 버린 척할 뿐이에요.
 
 135. SAM: I told you all that she keeps it forever and pretends she threw it away.
-    샘: 샘: 내가 말했잖아요, 평생 간직하면서 버린 척한다고.
+    샘: 내가 말했잖아요, 평생 간직하면서 버린 척한다고.
 
 136. WEN: Thank you, Sam, that's enough. Okay, I'm cutting the pie, with two pieces for me, on my father's orders.
-    웬: 웬: 고마워요, 대표님, 그만해요. 좋아요, 파이 자를게요. 아버지 명령이니까 저는 두 조각이요.
+    웬: 고마워요, 대표님, 그만해요. 좋아요, 파이 자를게요. 아버지 명령이니까 저는 두 조각이요.
 
 137. ERIN: Wen, one more thing before everybody eats. You get to vote now, in November, for the first time.
-    에린: 에린: 웬, 다들 먹기 전에 하나만 더. 이제 11월에 처음으로 투표할 수 있어.
+    에린: 웬, 다들 먹기 전에 하나만 더. 이제 11월에 처음으로 투표할 수 있어.
 
 138. WEN: I know, and I've already studied the whole ballot, both sides, and I disagree with everyone a little.
-    웬: 웬: 알아요, 벌써 투표용지 전부 양쪽 다 공부했어요. 모두하고 조금씩 의견이 달라요.
+    웬: 알아요, 벌써 투표용지 전부 양쪽 다 공부했어요. 모두하고 조금씩 의견이 달라요.
 
 139. TYLER: Welcome to America, Wen. That's the most American thing you've ever said.
-    타일러: 타일러: 미국에 온 걸 환영해요, 박사님. 박사님이 한 말 중에 제일 미국적인 말이에요.
+    타일러: 미국에 온 걸 환영해요, 박사님. 박사님이 한 말 중에 제일 미국적인 말이에요.
 
 140. EARL: And on Monday you get a new badge, the one that opens the room.
-    얼: 얼: 그리고 월요일엔 그 방 여는 새 출입증 받지.
+    얼: 그리고 월요일엔 그 방 여는 새 출입증 받지.
 
 141. WEN: Linda called on Friday to say the access starts on Monday at seven. Marcus says he's going to show me page forty-one of my own plan, so I can see what I wasn't allowed to see.
-    웬: 웬: 린다가 금요일에 전화해서 접근 권한은 월요일 7시부터래요. 마커스가 제가 못 보게 돼 있던 걸 볼 수 있게 제 계획서 41쪽을 보여 주겠대요.
+    웬: 린다가 금요일에 전화해서 접근 권한은 월요일 7시부터래요. 마커스가 제가 못 보게 돼 있던 걸 볼 수 있게 제 계획서 41쪽을 보여 주겠대요.
 
 142. STAN: Two bike mechanics from Dayton, and now one physicist from Shenzhen. Somebody raise a glass.
-    스탠: 스탠: 데이턴의 자전거 정비공 둘, 그리고 이제 선전에서 온 물리학자 하나. 누가 잔 좀 들어라.
+    스탠: 데이턴의 자전거 정비공 둘, 그리고 이제 선전에서 온 물리학자 하나. 누가 잔 좀 들어라.
 
 143. EARL: To Dr. Wen Liu, American citizen, and still the smartest person in every room she walks into.
-    얼: 얼: 미국 시민이자, 여전히 들어가는 방마다 제일 똑똑한 사람, 웬 리우 박사를 위하여.
+    얼: 미국 시민이자, 여전히 들어가는 방마다 제일 똑똑한 사람, 웬 리우 박사를 위하여.
 
 144. EVERYONE: To Wen!
     모두: 웬을 위하여!
 
 145. STAN: Sammy, come outside with me to the truck for a minute, and bring your coffee.
-    스탠: 스탠: 새미, 잠깐 나랑 트럭으로 나가자. 커피 가져와.
+    스탠: 새미, 잠깐 나랑 트럭으로 나가자. 커피 가져와.
 
 146. SAM: Are you okay, Dad, is it your chest?
-    샘: 샘: 괜찮으세요, 아버지, 가슴이세요?
+    샘: 괜찮으세요, 아버지, 가슴이세요?
 
 147. STAN: My chest is fine, since it has three new pipes. I want to tell you something I didn't want to say in front of Washington.
-    스탠: 스탠: 가슴은 괜찮아, 새 파이프가 세 개나 있잖냐. 워싱턴 앞에선 말하기 싫었던 걸 말해 주려고.
+    스탠: 가슴은 괜찮아, 새 파이프가 세 개나 있잖냐. 워싱턴 앞에선 말하기 싫었던 걸 말해 주려고.
 
 148. SAM: You mean the site for plant two.
-    샘: 샘: 2공장 부지 말씀이군요.
+    샘: 2공장 부지 말씀이군요.
 
 149. STAN: Every Tuesday I drive to rehab the long way, past Moraine, and next to the old plant there's a forty-acre lot that's been empty since 2010, with weeds and a fence with a hole in it.
-    스탠: 스탠: 매주 화요일 재활 갈 때 모레인을 지나 먼 길로 가. 옛날 공장 옆에 2010년부터 비어 있는 40에이커 땅이 있어. 잡초 무성하고, 울타리엔 구멍이 하나 나 있고.
+    스탠: 매주 화요일 재활 갈 때 모레인을 지나 먼 길로 가. 옛날 공장 옆에 2010년부터 비어 있는 40에이커 땅이 있어. 잡초 무성하고, 울타리엔 구멍이 하나 나 있고.
 
 150. SAM: Dad, is that where you want it?
-    샘: 샘: 아버지, 거기에 짓고 싶으세요?
+    샘: 아버지, 거기에 짓고 싶으세요?
 
 ---
 

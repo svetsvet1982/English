@@ -21,7 +21,7 @@
 002. WEN: A company that wants you to feel small before the meeting starts.
     웬: 회의 시작 전에 상대를 작게 느끼게 만들고 싶은 회사요.
 
-003. SAM: Well, it's working, because I feel very small.
+003. SAM: Well, it's working. I feel very small.
     샘: 음, 효과 있네요. 아주 작게 느껴져요.
 
 004. TYLER: Frank said nine thirty, right? It's only nine fifteen, and he already moved the whole thing a day because of the holiday weekend.
@@ -30,8 +30,8 @@
 005. SAM: It was Memorial Day, so everybody in Detroit came back to a hundred emails about magnets.
     샘: 메모리얼 데이였으니까 디트로이트 사람들 다 자석 얘기 이메일 백 통 받고 복귀했겠지.
 
-006. WEN: I brought three motors, two laptops, and the test data from Betsy, so if they want to argue, I'm ready to argue.
-    웬: 모터 세 개, 노트북 두 대, 베치 시험 데이터 가져왔어요. 그러니까 따지고 싶어 하면 저도 따질 준비 됐어요.
+006. WEN: I brought three motors, two laptops, and the test data from Betsy. If they want to argue, I'm ready to argue.
+    웬: 모터 세 개, 노트북 두 대, 베치 시험 데이터 가져왔어요. 따지고 싶어 하면 저도 따질 준비 됐어요.
 
 007. SAM: Let's try not to argue in the first five minutes.
     샘: 처음 5분 동안은 따지지 말아 보죠.
@@ -42,10 +42,10 @@
 009. TYLER: Sam, your phone is ringing, and it says "Dad."
     타일러: 샘, 폰 울려요. '아버지'라고 떠요.
 
-010. SAM: Dad, I can't talk long, because I'm in Detroit, standing in the lobby at Atlas.
+010. SAM: Dad, I can't talk long. I'm in Detroit, standing in the lobby at Atlas.
     샘: 아버지, 길게는 통화 못 해요. 디트로이트예요, 애틀러스 로비에 서 있어요.
 
-011. STAN: I know where you are, because Erin told me. I just wanted to say something before you go in there.
+011. STAN: I know where you are, Erin told me. I just wanted to say something before you go in there.
     스탠: 어디 있는지 안다, 에린이 말해 줬어. 들어가기 전에 하나만 말하고 싶어서.
 
 012. SAM: Okay, go ahead, I'm listening.
@@ -54,8 +54,8 @@
 013. STAN: In nineteen eighty-four, I drove up to Detroit for a union meeting in a big building by the river. I wore my one good jacket, and I still felt like a hick from Dayton.
     스탠: 1984년에 강가에 있는 큰 건물에서 노조 회의가 있어서 디트로이트까지 차를 몰고 갔었어. 하나 있는 좋은 재킷을 입었는데도 데이턴 촌놈 같은 기분이었지.
 
-014. SAM: I know the feeling, because there's a car parked in the lobby.
-    샘: 그 기분 알아요. 로비에 차가 주차돼 있거든요.
+014. SAM: I know the feeling. There's a car parked in the lobby.
+    샘: 그 기분 알아요. 로비에 차가 주차돼 있어요.
 
 015. STAN: Of course there is. Listen, those people upstairs design the cars, but every car they ever sold had guys like me inside it, putting it together. Don't let them make you feel small.
     스탠: 당연히 있겠지. 잘 들어, 위층 사람들은 차를 설계하지만, 그 사람들이 판 모든 차 안에는 나 같은 사람들이 들어가서 조립했어. 그 사람들이 널 작게 느끼게 만들게 두지 마.
@@ -69,7 +69,7 @@
 018. SAM: Dad, nobody wears ties anymore.
     샘: 아버지, 요즘은 아무도 넥타이 안 매요.
 
-019. STAN: Then you'll be the only one they remember, so go get 'em, son.
+019. STAN: Then you'll be the only one they remember. Go get 'em, son.
     스탠: 그럼 네가 유일하게 기억에 남겠네. 가서 해치워라, 아들.
 
 020. TYLER: Your dad's right about the tie, you know, and I have a spare in my bag.
@@ -81,8 +81,8 @@
 022. TYLER: The Army taught me to always carry a spare, whether it's socks, batteries, or ties.
     타일러: 군대에서 항상 여분을 챙기라고 배웠거든요. 양말이든 배터리든 넥타이든요.
 
-023. FRANK: Kowalski, you're early, which is either a good sign or a desperate one. Come on up, because engineering's waiting, and they already don't like you.
-    프랭크: 코왈스키, 일찍 왔네요. 좋은 징조거나 절박하다는 징조거나. 올라와요, 엔지니어링이 기다리고 있는데 벌써 그쪽을 안 좋아해요.
+023. FRANK: Kowalski, you're early, and that's either a good sign or a desperate one. Come on up. Engineering's waiting, and they already don't like you.
+    프랭크: 코왈스키, 일찍 왔네요. 좋은 징조거나 절박하다는 징조거나. 올라와요. 엔지니어링이 기다리고 있는데 벌써 그쪽을 안 좋아해요.
 
 024. SAM: But they haven't even met us yet.
     샘: 아직 만나지도 않았는데요.
@@ -117,8 +117,8 @@
 034. SAM: Good, I'm glad you did.
     샘: 잘됐네요. 그러셨다니 다행이에요.
 
-035. FRANK: Here's how the meeting goes. Rachel runs it, because she's our electrification lead for small motors, and she's smart, she's tired, and she's been awake since the plant stopped.
-    프랭크: 회의는 이렇게 돌아가요. 레이철이 진행해요. 소형 모터 전동화 책임자인데, 똑똑하고, 지쳤고, 공장 멈춘 뒤로 잠을 못 잤어요.
+035. FRANK: Here's how the meeting goes. Rachel runs it, she's our electrification lead for small motors. She's smart, she's tired, and she's been awake since the plant stopped.
+    프랭크: 회의는 이렇게 돌아가요. 레이철이 진행해요. 소형 모터 전동화 책임자예요. 똑똑하고, 지쳤고, 공장 멈춘 뒤로 잠을 못 잤어요.
 
 036. TYLER: So basically she's like Wen.
     타일러: 그러니까 박사님 같은 분이네요.
@@ -126,7 +126,7 @@
 037. WEN: Nobody is like me, Tyler.
     웬: 저 같은 사람은 없어요, 타일러.
 
-038. FRANK: That's what Rachel says too, so you two are going to love each other or kill each other.
+038. FRANK: That's what Rachel says too. You two are going to love each other or kill each other.
     프랭크: 레이철도 똑같은 말 해요. 두 사람은 서로 좋아하든가 서로 죽이든가 하겠네.
 
 039. SAM: Frank, before we go in, I want you to know I have the real answer you asked for, the number and the schedule.
@@ -177,11 +177,11 @@
 054. WEN: Every gram matters, but so does every magnet you can't get.
     웬: 1그램이 다 중요하죠. 그런데 못 구하는 자석 하나도 중요하죠.
 
-055. RACHEL: That's fair. Okay, let's talk about yours, because your seat motor is four millimeters too long and sixty grams too heavy.
+055. RACHEL: That's fair. Okay, let's talk about yours. Your seat motor is four millimeters too long and sixty grams too heavy.
     레이철: 맞는 말이에요. 좋아요, 그쪽 걸 얘기해 보죠. 그쪽 시트 모터는 4밀리미터 길고 60그램 무거워요.
 
-056. WEN: It's sixty-two grams, because I weighed it this morning.
-    웬: 62그램이에요. 오늘 아침에 쟀거든요.
+056. WEN: It's sixty-two grams. I weighed it this morning.
+    웬: 62그램이에요. 오늘 아침에 쟀어요.
 
 057. RACHEL: Sixty-two, thank you. Can you get the length down?
     레이철: 62, 고마워요. 길이는 줄일 수 있어요?
@@ -198,19 +198,19 @@
 061. FRANK: Ladies, it's minute six, and Sam warned me about this.
     프랭크: 두 분, 6분째네요. 샘이 미리 경고했어요.
 
-062. RACHEL: It's fine, Frank, because I'd rather hear "six weeks" than "no problem." Every supplier says "no problem," and then I'm the one who has a problem.
+062. RACHEL: It's fine, Frank. I'd rather hear "six weeks" than "no problem." Every supplier says "no problem," and then I'm the one who has a problem.
     레이철: 괜찮아요, 프랭크. '문제없어요'보다 '6주'가 듣기 나아요. 협력사마다 다 '문제없어요'라고 하고, 그다음엔 제가 문제가 생기거든요.
 
 063. WEN: Thank you, and I have a question for you. If we changed the mounting bracket, could the seat track take a longer motor, just temporarily?
     웬: 고마워요. 저도 질문이 있어요. 장착 브래킷을 바꾸면 시트 레일에 더 긴 모터가 들어갈 수 있을까요? 임시로라도요?
 
-064. RACHEL: Maybe, because in the higher trims there's more space under the seat, but in the base model there isn't.
+064. RACHEL: Maybe. In the higher trims there's more space under the seat, but in the base model there isn't.
     레이철: 어쩌면요. 상위 트림은 시트 밑에 공간이 더 있는데, 기본형은 없어요.
 
-065. SAM: Then the first motors go in the higher trims, which is what Frank said he'd do anyway.
+065. SAM: Then the first motors go in the higher trims. That's what Frank said he'd do anyway.
     샘: 그럼 첫 모터들은 상위 트림에 들어가면 되겠네요. 프랭크도 어차피 그렇게 하겠다고 했고요.
 
-066. RACHEL: Let's talk about the part nobody likes, which is price. Did Frank tell you about cost per vehicle?
+066. RACHEL: Let's talk about the part nobody likes, the price. Did Frank tell you about cost per vehicle?
     레이철: 아무도 안 좋아하는 부분, 가격 얘기하죠. 프랭크가 대당 원가 얘기 해 줬어요?
 
 067. SAM: He told me about cents per unit.
@@ -222,8 +222,8 @@
 069. TYLER: So what happens if our motor costs a dollar more?
     타일러: 그럼 저희 모터가 1달러 비싸면 어떻게 돼요?
 
-070. RACHEL: A Summit has eight seat motors, so a dollar more each is eight dollars a vehicle. We build about two hundred thousand Summits a year, which comes to one point six million dollars for one dollar.
-    레이철: 서밋에는 시트 모터가 여덟 개 들어가니까 하나에 1달러 비싸면 대당 8달러죠. 서밋을 1년에 20만 대쯤 만드니까, 1달러 때문에 160만 달러가 되는 거예요.
+070. RACHEL: A Summit has eight seat motors, so a dollar more each is eight dollars a vehicle. We build about two hundred thousand Summits a year, and that comes to one point six million dollars for one dollar.
+    레이철: 서밋에는 시트 모터가 여덟 개 들어가니까 하나에 1달러 비싸면 대당 8달러죠. 서밋을 1년에 20만 대쯤 만드니까 1달러 때문에 160만 달러가 되는 거예요.
 
 071. SAM: When you say it like that, a dollar sounds expensive.
     샘: 그렇게 말하니까 1달러가 비싸게 들리네요.
@@ -234,14 +234,14 @@
 073. WEN: And who won that argument?
     웬: 그래서 누가 이겼어요?
 
-074. RACHEL: The washer won, because we went back to the old one.
-    레이철: 와셔가 이겼죠. 옛날 걸로 돌아갔으니까.
+074. RACHEL: The washer won. We went back to the old one.
+    레이철: 와셔가 이겼죠. 옛날 걸로 돌아갔어요.
 
-075. FRANK: Okay, Sam, you're in the room now, so give us your real answer with the number and the schedule.
-    프랭크: 자, 샘, 이제 회의실이니까 진짜 대답 해 봐요. 숫자랑 일정이요.
+075. FRANK: Okay, Sam, you're in the room now. Give us your real answer, the number and the schedule.
+    프랭크: 자, 샘, 이제 회의실이에요. 진짜 대답 해 봐요. 숫자랑 일정이요.
 
-076. SAM: Here it is. We can deliver twenty-five thousand seat motors by the end of August, and all forty thousand by the end of September, which means September and not August.
-    샘: 말씀드릴게요. 8월 말까지 시트 모터 2만 5천 개 납품할 수 있고, 4만 개 전부는 9월 말까지요. 8월이 아니라 9월이라는 거예요.
+076. SAM: Here it is. We can deliver twenty-five thousand seat motors by the end of August, and all forty thousand by the end of September. That's September, not August.
+    샘: 말씀드릴게요. 8월 말까지 시트 모터 2만 5천 개 납품할 수 있고, 4만 개 전부는 9월 말까지요. 8월이 아니라 9월이에요.
 
 077. FRANK: I asked you for August, Sam.
     프랭크: 난 8월이라고 했잖아요, 샘.
@@ -252,10 +252,10 @@
 079. RACHEL: And what's your price going to be?
     레이철: 그럼 가격은 얼마예요?
 
-080. SAM: It's fourteen twenty per motor for the bridge order, which is the forty thousand. If you give us a long-term contract, we can talk about coming down.
+080. SAM: It's fourteen twenty per motor for the bridge order, the forty thousand. If you give us a long-term contract, we can talk about coming down.
     샘: 임시 주문, 그러니까 4만 개는 개당 14달러 20센트예요. 장기 계약을 주시면 내리는 얘기를 할 수 있어요.
 
-081. FRANK: Fourteen twenty doesn't start with a fifteen, so you listened.
+081. FRANK: Fourteen twenty doesn't start with a fifteen. You listened.
     프랭크: 14달러 20센트라, 15로 시작하진 않네. 말을 들었구먼.
 
 082. SAM: I always listen, Frank, I just don't always agree.
@@ -270,13 +270,13 @@
 085. FRANK: She's good, Sam, she's very good, and I hate it.
     프랭크: 잘하네요, 샘. 아주 잘해요. 싫을 정도로.
 
-086. RACHEL: Last question, which is about durability, or in plain English, will it last? Our seat motors have to survive a hundred thousand cycles, from minus forty to plus eighty-five degrees, with water, salt, and a kid's juice box spilled into it.
+086. RACHEL: Last question, about durability, or in plain English, will it last? Our seat motors have to survive a hundred thousand cycles, from minus forty to plus eighty-five degrees, with water, salt, and a kid's juice box spilled into it.
     레이철: 마지막 질문은 내구성이에요. 쉽게 말해 오래 가냐는 거죠. 우리 시트 모터는 영하 40도부터 영상 85도까지, 물, 소금, 애들 주스까지 쏟아진 상태로 10만 번을 버텨야 해요.
 
 087. WEN: We've done a hundred and twenty thousand cycles on Betsy, and here's the data, although we haven't done the salt or the juice box yet.
     웬: 베치에서 12만 번 돌렸고 여기 데이터예요. 소금이랑 주스는 아직 안 해 봤지만요.
 
-088. RACHEL: Nobody ever does the juice box, which is why every seat in America is sticky.
+088. RACHEL: Nobody ever does the juice box. That's why every seat in America is sticky.
     레이철: 주스는 아무도 안 해 봐요. 그래서 미국의 모든 시트가 끈적끈적한 거죠.
 
 089. TYLER: So what happens now, and do we have a deal?
@@ -294,7 +294,7 @@
 093. SAM: Eighteen months? The plant will be dust in eighteen months.
     샘: 18개월이요? 18개월이면 공장이 먼지가 될 텐데요.
 
-094. FRANK: That's normally, and this isn't normal. They're meeting this afternoon at three in an emergency session, so you'll have an answer by five.
+094. FRANK: That's normally, and this isn't normal. They're meeting this afternoon at three in an emergency session, and you'll have an answer by five.
     프랭크: 그건 보통이고, 지금은 보통이 아니에요. 오늘 오후 세 시에 긴급 회의로 모이니까 다섯 시까지 답이 나올 거예요.
 
 095. WEN: So Detroit can move fast when it's scared.
@@ -303,8 +303,8 @@
 096. RACHEL: Detroit moves fast when the plant is down, it just doesn't like to admit it.
     레이철: 디트로이트는 공장이 멈추면 빨리 움직여요. 인정하기 싫어할 뿐이죠.
 
-097. RACHEL: Dr. Liu, can I keep one of the motors, because I want to open it myself tonight?
-    레이철: 리우 박사님, 모터 하나 두고 가도 돼요? 오늘 밤에 직접 열어 보고 싶어서요.
+097. RACHEL: Dr. Liu, can I keep one of the motors? I want to open it myself tonight.
+    레이철: 리우 박사님, 모터 하나 두고 가도 돼요? 오늘 밤에 직접 열어 보고 싶어요.
 
 098. WEN: Keep two, and if you find anything you don't like, call me, not Sam.
     웬: 두 개 두고 가세요. 그리고 마음에 안 드는 게 보이면 샘 말고 저한테 전화하세요.
@@ -315,7 +315,7 @@
 100. FRANK: Go get lunch and go see the museum in Dearborn, but don't sit in the lobby looking nervous. I'll call you at five.
     프랭크: 가서 점심 먹고 디어본에 있는 박물관 가 봐요. 로비에 긴장한 얼굴로 앉아 있지 말고. 다섯 시에 전화할게요.
 
-101. TYLER: This is amazing, because there's a whole assembly line from a hundred years ago. Look at that, they built a car in an hour and a half.
+101. TYLER: This is amazing, there's a whole assembly line from a hundred years ago. Look at that, they built a car in an hour and a half.
     타일러: 이거 대박이에요, 100년 전 조립 라인이 통째로 있어요. 저것 좀 봐요, 차 한 대를 한 시간 반 만에 만들었대요.
 
 102. SAM: My dad used to bring me here once a year when I was a kid. He'd stand right here and say, "This is where it all started, Sammy."
@@ -354,8 +354,8 @@
 113. WEN: That's the only plan that works, Tyler, and it's also the hardest one.
     웬: 그게 통하는 유일한 계획이에요, 타일러. 그리고 제일 어려운 계획이기도 하고요.
 
-114. SAM: Look at this nineteen fifty-five pickup, because my grandfather had one just like it. Stan used to say it ran on gasoline and stubbornness.
-    샘: 이 1955년식 픽업트럭 좀 봐요. 할아버지가 딱 이런 거 한 대 갖고 계셨어요. 아버지가 그 차는 휘발유랑 고집으로 달린다고 하셨죠.
+114. SAM: Look at this nineteen fifty-five pickup. My grandfather had one just like it, and Stan used to say it ran on gasoline and stubbornness.
+    샘: 이 1955년식 픽업트럭 좀 봐요. 할아버지가 딱 이런 거 한 대 갖고 계셨는데, 아버지가 그 차는 휘발유랑 고집으로 달린다고 하셨죠.
 
 115. TYLER: Just like the whole Kowalski family.
     타일러: 코왈스키 집안 전체처럼요.
@@ -366,14 +366,14 @@
 117. WEN: Sam, can I ask you something? If they say yes today, are we ready, and I don't mean the motor, I mean us as a company.
     웬: 샘, 하나 물어봐도 돼요? 오늘 그쪽이 좋다고 하면 우리 준비됐어요? 모터 말고, 회사로서의 우리 말이에요.
 
-118. SAM: Honestly, no, because we've never sold to a car company. We don't know their paperwork, their audits, or their rules, and Gloria says their contracts are thicker than the Bible.
+118. SAM: Honestly, no. We've never sold to a car company. We don't know their paperwork, their audits, or their rules, and Gloria says their contracts are thicker than the Bible.
     샘: 솔직히 아니요. 자동차 회사에 팔아 본 적이 없잖아요. 그쪽 서류도, 감사도, 규칙도 모르고, 글로리아 말로는 계약서가 성경보다 두껍대요.
 
 119. WEN: Then why are we even here?
     웬: 그럼 우리 왜 여기 있어요?
 
-120. SAM: Because nobody's ever ready for the big chance, so you get ready while you're doing it. That's what we did with Nina, and that's what we did with Haverford.
-    샘: 큰 기회 앞에서 준비된 사람은 없으니까 하면서 준비하는 거죠. 니나 때도 그랬고, 해버퍼드 때도 그랬잖아요.
+120. SAM: Because nobody's ever ready for the big chance. You get ready while you're doing it. That's what we did with Nina, and that's what we did with Haverford.
+    샘: 큰 기회 앞에서 준비된 사람은 없으니까요. 하면서 준비하는 거죠. 니나 때도 그랬고, 해버퍼드 때도 그랬잖아요.
 
 121. WEN: With Nina, we almost lost the house.
     웬: 니나 때는 집을 잃을 뻔했잖아요.
@@ -381,7 +381,7 @@
 122. SAM: We almost did, and almost is the important word in that sentence.
     샘: 뻔했죠. 그 문장에서 중요한 단어는 '뻔했다'예요.
 
-123. TYLER: It's four fifty-five, so there's five minutes left, and I can't look at old cars anymore because I'm going to throw up.
+123. TYLER: It's four fifty-five, five minutes left, and I can't look at old cars anymore. I'm going to throw up.
     타일러: 네 시 오십오 분이에요. 5분 남았는데, 옛날 차 더 못 보겠어요. 토할 것 같아요.
 
 124. WEN: You were in the Army, Tyler.
@@ -393,8 +393,8 @@
 126. SAM: It's Frank. Frank, hi, we're out in the parking lot.
     샘: 프랭크예요. 프랭크, 안녕하세요. 저희 주차장에 있어요.
 
-127. FRANK: Good, stay there, because I'm coming down and I don't want to do this on the phone.
-    프랭크: 좋아요, 거기 있어요. 내려갈게요. 이건 전화로 하기 싫어서요.
+127. FRANK: Good, stay there. I'm coming down, and I don't want to do this on the phone.
+    프랭크: 좋아요, 거기 있어요. 내려갈게요. 이건 전화로 하기 싫어요.
 
 128. TYLER: That's either very good news or very bad news.
     타일러: 그건 아주 좋은 소식이거나 아주 나쁜 소식이에요.
@@ -414,8 +414,8 @@
 133. SAM: There's always a catch.
     샘: 조건은 항상 있죠.
 
-134. FRANK: We don't buy seat motors, and we never have, because we buy seats. We buy complete seats, with the frame, the foam, the leather, the motors, all of it, from a Tier One supplier.
-    프랭크: 우린 시트 모터를 안 사요. 산 적도 없어요. 시트를 사니까요. 프레임, 폼, 가죽, 모터, 전부 들어간 완제품 시트를 1차 협력사한테서 사요.
+134. FRANK: We don't buy seat motors, and we never have. We buy seats, complete seats with the frame, the foam, the leather, the motors, all of it, from a Tier One supplier.
+    프랭크: 우린 시트 모터를 안 사요. 산 적도 없어요. 시트를 사죠. 프레임, 폼, 가죽, 모터, 전부 들어간 완제품 시트를 1차 협력사한테서요.
 
 135. TYLER: Tier One?
     타일러: 1차 협력사요?
@@ -426,7 +426,7 @@
 137. SAM: So we don't actually sell to you.
     샘: 그러니까 우린 이사님한테 직접 파는 게 아니군요.
 
-138. FRANK: You don't sell to me. Go through Brenner, which means you sell to Brenner and Brenner sells to me, because that's how it works and how it's always worked.
+138. FRANK: You don't sell to me. Go through Brenner. You sell to Brenner, Brenner sells to me, and that's how it works and how it's always worked.
     프랭크: 나한테 파는 거 아니에요. 브레너를 거쳐요. 그쪽은 브레너한테 팔고 브레너는 나한테 파는 거죠. 그렇게 돌아가고, 늘 그렇게 돌아갔어요.
 
 139. SAM: And I'm guessing Brenner takes a piece.
@@ -441,7 +441,7 @@
 142. FRANK: He's smart and polite, very polite, and when Nate is polite, you should check your wallet.
     프랭크: 똑똑하고 예의 바르죠, 아주 예의 바르고. 네이트가 예의 바를 땐 지갑 확인해요.
 
-143. SAM: Frank, if I sold directly to you, I could give you a better price, because Brenner's piece would go away.
+143. SAM: Frank, if I sold directly to you, I could give you a better price. Brenner's piece would go away.
     샘: 프랭크, 제가 직접 팔면 더 좋은 가격을 드릴 수 있어요. 브레너 몫이 없어지니까요.
 
 144. FRANK: I know, but if your motor fails in a seat, who do I yell at, you or Brenner or both? In Detroit we say one throat to choke, and Brenner is my throat.
@@ -450,8 +450,8 @@
 145. TYLER: That's a truly terrible saying, Frank, and I'm never using it.
     타일러: 그거 진짜 끔찍한 속담이에요, 프랭크. 전 절대 안 쓸래요.
 
-146. FRANK: It's a terrible business, son. I'll set up a meeting with Nate next week, so go home and tell your CFO she was right not to let you sign anything.
-    프랭크: 끔찍한 사업이에요, 젊은 친구. 다음 주에 네이트랑 미팅 잡아 줄 테니까 집에 가서 CFO한테 아무것도 서명 못 하게 한 거 잘했다고 전해요.
+146. FRANK: It's a terrible business, son. I'll set up a meeting with Nate next week. Go home and tell your CFO she was right not to let you sign anything.
+    프랭크: 끔찍한 사업이에요, 젊은 친구. 다음 주에 네이트랑 미팅 잡아 줄게요. 집에 가서 CFO한테 아무것도 서명 못 하게 한 거 잘했다고 전해요.
 
 147. SAM: Frank, thank you, I really mean it.
     샘: 프랭크, 고마워요. 진심이에요.
