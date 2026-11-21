@@ -24,14 +24,14 @@
 003. ARRIETA: Siéntese, Medina. Le resumo lo que tengo, y usted me corrige.
     아리에타: 앉아요, 메디나. 내가 가진 걸 요약할 테니 틀리면 바로잡아요.
 
-004. ÁLVARO: Adelante.
-    알바로: 말씀하십시오.
+004. ÁLVARO: Adelante, directora, aunque le advierto que mi versión tiene bastante más lluvia que la del parte.
+    알바로: 말씀하십시오, 국장님. 다만 제 버전엔 보고서보다 비가 훨씬 많이 내립니다.
 
 005. ARRIETA: A la una y cuarenta de esta madrugada, un ciudadano mexicano bajo vigilancia de esta casa cae desde un quinto piso de la calle Serrano y muere en el acto.
     아리에타: 오늘 새벽 1시 40분, 이 기관의 감시를 받던 멕시코 국적자가 세라노 거리 5층에서 떨어져 즉사합니다.
 
-006. ÁLVARO: No se equivoca.
-    알바로: 맞습니다.
+006. ÁLVARO: No se equivoca en nada, aunque el informe de la Nacional lo cuente como si hubiera sido un accidente doméstico.
+    알바로: 하나도 틀리지 않으셨습니다. 경찰 보고서는 무슨 가정 내 사고처럼 써 놨지만요.
 
 007. ARRIETA: El agente que lo vigilaba entra en el edificio, persigue un coche y le cuenta a la policía que volvía de cenar.
     아리에타: 그를 감시하던 요원은 건물에 들어가 차를 쫓고, 경찰에게는 저녁 먹고 돌아가던 길이라고 말합니다.
@@ -57,11 +57,11 @@
 014. ÁLVARO: Lo que ve la Nacional es un piso que alguien ha tenido tiempo de dejar bonito. Yo vi a una segunda persona en ese salón, directora.
     알바로: 경찰이 본 건 누군가 예쁘게 정리할 시간이 충분했던 집입니다. 저는 그 거실에서 두 번째 사람을 봤습니다, 국장님.
 
-015. ARRIETA: ¿Le vio la cara?
-    아리에타: 얼굴은 봤어요?
+015. ARRIETA: ¿Le vio la cara, Medina? Piénselo antes de contestar, porque de eso depende casi todo lo demás.
+    아리에타: 얼굴은 봤어요, 메디나? 대답하기 전에 생각해요. 나머지가 거의 다 거기 달려 있으니까.
 
-016. ÁLVARO: No.
-    알바로: 아니요.
+016. ÁLVARO: No, directora. Llevaba un abrigo oscuro y la cortina estaba medio echada, así que no podría jurarle ni si era hombre.
+    알바로: 아니요, 국장님. 어두운 외투를 입었고 커튼이 반쯤 쳐져 있어서, 남자였는지도 맹세는 못 하겠습니다.
 
 017. ARRIETA: ¿La matrícula? ¿El modelo? ¿Algo que yo pueda poner en un papel?
     아리에타: 번호판은요? 차종은요? 내가 서류에 적을 수 있는 뭔가는요?
@@ -81,8 +81,8 @@
 022. ÁLVARO: ¿Usted ha visto a muchos suicidas, Santiago? Yo, en la Guardia Civil, vi unos cuantos. Y ninguno se fumaba un cigarro discutiendo por teléfono veinte minutos antes de saltar.
     알바로: 자살한 사람 많이 보셨습니까, 산티아고? 저는 과르디아 시빌 시절에 꽤 봤습니다. 뛰어내리기 20분 전에 담배 피우면서 전화로 말다툼하던 사람은 하나도 없었어요.
 
-023. ARRIETA: Basta. Los dos.
-    아리에타: 그만. 둘 다.
+023. ARRIETA: Basta ya, los dos. No les he hecho venir para que se peleen delante de mí como dos críos en el patio.
+    아리에타: 그만해요, 둘 다. 내 앞에서 운동장 애들처럼 싸우라고 부른 거 아니에요.
 
 024. ARRIETA: Medina, ¿por qué vigilábamos a ese hombre? Quiero oírselo a usted, no leerlo en un informe.
     아리에타: 메디나, 우리가 그 사람을 왜 감시했죠? 보고서 말고 당신 입으로 듣고 싶어요.
@@ -90,8 +90,8 @@
 025. ÁLVARO: Porque su nombre salió en un informe sobre compras de vivienda de lujo con dinero de fuera. Un seguimiento de rutina: dos semanas y, si no pasaba nada, al archivo.
     알바로: 외국 자금으로 고급 주택을 산 사람들에 관한 보고서에 이름이 올라서요. 일상 감시였습니다. 2주 하고, 아무 일 없으면 종결.
 
-026. ARRIETA: Y ha pasado algo.
-    아리에타: 그런데 일이 생겼군요.
+026. ARRIETA: Y, por lo que parece, ha pasado algo que no estaba previsto en ninguna de esas dos semanas.
+    아리에타: 그리고 보아하니 그 2주 계획 어디에도 없던 일이 생겼군요.
 
 027. ÁLVARO: Ha pasado que alguien sabía que lo vigilábamos. Y aun así subió.
     알바로: 누군가 우리가 감시 중인 걸 알았다는 일이요. 그런데도 올라갔죠.
@@ -102,8 +102,8 @@
 029. ÁLVARO: No es una acusación. Es una pregunta. Las acusaciones las dejo para cuando tenga hechos, que es justo lo que me pide la directora.
     알바로: 비난이 아니라 질문입니다. 비난은 사실을 손에 쥘 때까지 아껴 두죠. 국장님이 요구하시는 게 바로 그거니까요.
 
-030. ARRIETA: El caso es suyo.
-    아리에타: 사건은 당신이 맡아요.
+030. ARRIETA: El caso es suyo, Medina. A partir de ahora, todo lo que tenga que ver con ese hombre pasa por usted y por mí.
+    아리에타: 사건은 당신이 맡아요, 메디나. 이제부터 그 사람과 관련된 건 전부 당신과 나를 거쳐요.
 
 031. SANTI: Directora, con todo el respeto, lo prudente sería esperar a la autopsia...
     산티: 국장님, 외람되지만, 부검 결과를 기다리는 게 신중할 듯…
@@ -126,26 +126,26 @@
 037. ARRIETA: La tendrá mañana a primera hora de la tarde. Y una cosa más, Medina.
     아리에타: 내일 오후 일찍 받게 될 거예요. 그리고 하나 더, 메디나.
 
-038. ÁLVARO: Dígame.
-    알바로: 말씀하십시오.
+038. ÁLVARO: Dígame, directora. Prefiero oírlo ahora que enterarme después por los pasillos.
+    알바로: 말씀하십시오, 국장님. 나중에 복도에서 듣느니 지금 듣는 게 낫습니다.
 
 039. ARRIETA: Faltan once meses para unas elecciones generales. Si esto acaba tocando a alguien con nombre y apellidos, quiero saberlo antes que usted, y desde luego mucho antes que la prensa. ¿Me he explicado?
     아리에타: 총선까지 11개월 남았어요. 이 일이 결국 이름 있는 누군가를 건드리게 되면, 나는 당신보다 먼저, 그리고 언론보다는 훨씬 먼저 알고 싶어요. 내 말 알아들었어요?
 
-040. ÁLVARO: Perfectamente, directora.
-    알바로: 분명히 알겠습니다, 국장님.
+040. ÁLVARO: Perfectamente, directora. Usted será la primera en saberlo, aunque me temo que no le va a gustar.
+    알바로: 분명히 알겠습니다, 국장님. 제일 먼저 아시게 될 겁니다. 다만 마음에 안 드실 것 같네요.
 
 041. IKER: Gato, siéntate. En serio. Prefiero que estés sentado cuando veas esto.
     이케르: 가토, 앉아요. 진짜로요. 이거 볼 땐 앉아 있는 게 나아요.
 
-042. ÁLVARO: ¿Qué pasa? ¿Has sacado algo más del móvil?
-    알바로: 뭔데? 휴대폰에서 뭐 더 나왔어?
+042. ÁLVARO: ¿Qué pasa, que ya te han llamado de arriba? ¿O has sacado algo más del móvil del contable?
+    알바로: 뭔데, 벌써 윗선에서 전화 왔어? 아니면 그 회계사 휴대폰에서 뭐 더 나왔어?
 
 043. IKER: Del móvil, casi nada. El tío era muy limpio: borraba los mensajes cada noche, no tenía fotos, ni correo personal, ni redes. Solo esa nota. Pero con la nota me ha bastado.
     이케르: 휴대폰에선 거의 없어요. 이 사람 엄청 깔끔했어요. 매일 밤 메시지 지우고, 사진도 없고, 개인 메일도, SNS도 없어요. 그 메모 하나뿐. 근데 그 메모로 충분했어요.
 
-044. ÁLVARO: Tres mil por trescientos.
-    알바로: 3,000 곱하기 300.
+044. ÁLVARO: Tres mil por trescientos. Llevo todo el día con esa cuenta en la cabeza, como una canción pesada.
+    알바로: 3,000 곱하기 300. 하루 종일 그 계산이 지겨운 노래처럼 머릿속에 맴돌았어.
 
 045. IKER: Eso. Me he pasado la mañana metiendo esos dos números en todas las bases de datos que tengo, y en alguna que no debería tener. Y a las cuatro me ha saltado esto.
     이케르: 그거요. 오전 내내 그 두 숫자를 제가 가진 모든 데이터베이스에, 가지면 안 되는 몇 개에도 넣어 봤어요. 그랬더니 4시에 이게 떴어요.
@@ -156,14 +156,14 @@
 047. IKER: Casi. Es una alerta del SEPBLAC, los que vigilan el blanqueo. Una sucursal de Tetuán avisó de decenas de ingresos de trescientos euros en efectivo.
     이케르: 비슷해요. 자금세탁 감시하는 SEPBLAC 경보예요. 테투안의 한 지점이 현금 300유로 입금 수십 건을 신고했어요.
 
-048. ÁLVARO: ¿Y adónde iban esos trescientos euros?
-    알바로: 그 300유로는 어디로 갔는데?
+048. ÁLVARO: ¿Y adónde iban esos trescientos euros? Porque nadie se pasea por Tetuán con tanto efectivo para nada.
+    알바로: 그 300유로는 어디로 갔는데? 그만한 현금 들고 괜히 테투안을 돌아다니는 사람은 없잖아.
 
 049. IKER: A una cuenta de donaciones. La cuenta oficial de un partido político. Raíz.
     이케르: 후원금 계좌요. 한 정당의 공식 계좌. 라이스.
 
-050. ÁLVARO: ¿Raíz? ¿Los de Lezcano?
-    알바로: 라이스? 레스카노네?
+050. ÁLVARO: ¿Raíz? ¿Los de Lezcano, el que quiere ser presidente del Gobierno el año que viene?
+    알바로: 라이스? 내년에 총리 되겠다는 그 레스카노네?
 
 051. IKER: Los de Lezcano. El eurodiputado que sale en todas las tertulias diciendo que él va a limpiar España de arriba abajo. Pues mira cómo limpia.
     이케르: 레스카노네요. 모든 시사 토론에 나와서 스페인을 위에서 아래까지 싹 청소하겠다는 그 유럽의회 의원. 청소 참 잘하네요.
@@ -174,8 +174,8 @@
 053. IKER: Uno, no. Tres mil, sí. En seis semanas. Todos de trescientos euros exactos, ni un céntimo más ni uno menos. Tres mil por trescientos: novecientos mil euros.
     이케르: 한 건이면 아니죠. 3,000건이면 얘기가 달라요. 6주 동안. 전부 딱 300유로, 1센트도 더하지도 빼지도 않고. 3,000 곱하기 300, 90만 유로예요.
 
-054. ÁLVARO: Halcón.
-    알바로: 할콘.
+054. ÁLVARO: Halcón. Así que eso era lo que el pobre hombre tenía apuntado la noche en que lo mataron.
+    알바로: 할콘. 그러니까 그 사람이 죽던 밤에 적어 둔 게 그거였구나.
 
 055. IKER: Halcón. Ni de coña, pensé... espera, sí. Es exactamente la cifra de la nota.
     이케르: 할콘이요. 설마 했죠… 잠깐, 맞네. 메모 숫자랑 정확히 같아요.
@@ -186,8 +186,8 @@
 057. IKER: Eso es lo peor. Son personas de verdad, con DNI y cuenta en el banco. Casi todos de Usera y de Tetuán: jubilados, gente que limpia casas, camareros.
     이케르: 그게 제일 고약해요. 진짜 사람들이에요. 신분증도, 은행 계좌도 있는. 거의 다 우세라랑 테투안 사람들이에요. 은퇴자, 가사도우미, 웨이터.
 
-058. ÁLVARO: ¿Y ellos lo saben?
-    알바로: 그 사람들은 알고?
+058. ÁLVARO: ¿Y ellos lo saben, o alguien ha estado usando sus nombres sin preguntarles?
+    알바로: 그 사람들은 알고 있어? 아니면 누가 묻지도 않고 이름을 쓴 거야?
 
 059. IKER: He llamado a un par haciéndome pasar por el banco. Una señora de Tetuán me ha dicho que bastante tiene con pagar la luz. El otro me ha colgado.
     이케르: 은행인 척하고 두어 명한테 전화해 봤어요. 테투안 사는 어떤 아주머니는 전기세 내기도 벅차다고 하더라고요. 다른 한 명은 그냥 끊었어요.
@@ -198,14 +198,14 @@
 061. IKER: Desde una línea limpia, Gato. Que no nací ayer.
     이케르: 깨끗한 회선으로요, 가토. 저 어제 태어난 거 아니거든요.
 
-062. ÁLVARO: Has dicho Usera. ¿Qué calles?
-    알바로: 우세라라고 했지. 어느 거리?
+062. ÁLVARO: Has dicho Usera. ¿Qué calles exactamente? Dímelo despacio, que conozco ese barrio como mi casa.
+    알바로: 우세라라고 했지. 정확히 어느 거리야? 천천히 말해 봐, 그 동네는 내 집처럼 아니까.
 
 063. IKER: Muchas. Solo en Marcelo Usera hay cuarenta y tantos.
     이케르: 많아요. 마르셀로 우세라 거리에만 마흔 몇 명이에요.
 
-064. ÁLVARO: Mi padre vive en Marcelo Usera.
-    알바로: 우리 아빠 마르셀로 우세라 살아.
+064. ÁLVARO: Mi padre vive en Marcelo Usera, Iker, en el mismo piso desde que yo iba al colegio.
+    알바로: 우리 아빠가 마르셀로 우세라 살아, 이케르. 내가 학교 다닐 때부터 같은 집에.
 
 065. IKER: Lo sé. Lo he mirado lo primero. Tu padre no ha donado ni un euro.
     이케르: 알아요. 제일 먼저 봤어요. 아버님은 1유로도 후원 안 하셨어요.
@@ -222,26 +222,26 @@
 069. IKER: Pues según el banco, doña Pilar es una gran patriota.
     이케르: 은행 기록상으론 필라르 할머니가 대단한 애국자시네요.
 
-070. ÁLVARO: Joder. ¿Qué más tienes?
-    알바로: 젠장. 또 뭐 있어?
+070. ÁLVARO: Joder, con doña Pilar. ¿Qué más tienes? Suéltalo todo, que ya no me sorprende nada.
+    알바로: 젠장, 필라르 할머니까지. 또 뭐 있어? 다 말해, 이제 놀랄 것도 없다.
 
 071. IKER: El piso de Serrano. Lo compró una sociedad, Inversiones Ceiba SL, el 2 de abril de 2025. Dos millones cuatrocientos mil euros. En efectivo, Gato.
     이케르: 세라노 집이요. 법인이 샀어요. 인베르시오네스 세이바 SL, 2025년 4월 2일. 240만 유로. 현금으로요, 가토.
 
-072. ÁLVARO: El 2 de abril. Esa fecha me suena.
-    알바로: 4월 2일. 날짜가 낯익은데.
+072. ÁLVARO: El 2 de abril. Esa fecha me suena de algo, pero no consigo acordarme de qué.
+    알바로: 4월 2일. 그 날짜 어디서 들은 것 같은데 뭔지 기억이 안 나.
 
 073. IKER: Te suena porque el 3 de abril se acabó la golden visa. Él compró el último día, como quien coge el último metro.
     이케르: 4월 3일에 골든비자가 끝났으니까요. 마지막 날 산 거예요. 막차 타듯이.
 
-074. ÁLVARO: ¿Y Ceiba? ¿Quién está detrás?
-    알바로: 세이바는? 뒤에 누가 있어?
+074. ÁLVARO: ¿Y Ceiba? ¿Quién está detrás de esa sociedad, o es otra muñeca rusa con una muñeca dentro?
+    알바로: 세이바는? 그 회사 뒤엔 누가 있어? 아니면 안에 또 인형 든 마트료시카야?
 
 075. IKER: Una sociedad pantalla de manual, con un buzón en Príncipe de Vergara. Ceiba, por cierto, es un árbol sagrado de los mayas.
     이케르: 교과서적인 페이퍼컴퍼니예요. 프린시페 데 베르가라 거리에 우편함 하나. 참고로 세이바는 마야인들의 신성한 나무래요.
 
-076. ÁLVARO: Qué poético. Ahora el del informe pareces tú.
-    알바로: 시적이네. 이제 보고서 시인은 너구나.
+076. ÁLVARO: Qué poético, Iker. Ahora el que escribe los informes como un poeta pareces tú, no yo.
+    알바로: 시적이네, 이케르. 이제 보고서를 시처럼 쓰는 건 내가 아니라 너 같은데.
 
 077. IKER: Se pega. Oye, Gato... ¿esto se lo subimos ya a la directora? Porque esto ya no es un contable que se cae de un balcón. Es un partido que se presenta a las generales.
     이케르: 옮나 봐요. 근데 가토… 이거 이제 국장님께 올려요? 이건 더 이상 발코니에서 떨어진 회계사 얘기가 아니잖아요. 총선에 나가는 정당 얘기예요.
@@ -258,26 +258,26 @@
 081. PORTERO: Yo sin gafas no leo nada, y las gafas están en la portería. Usted sabrá lo que hace. Pero la policía ya estuvo ayer, ¿eh? Lo revolvieron todo.
     경비원: 난 안경 없으면 아무것도 못 읽어요. 안경은 경비실에 있고. 알아서 하쇼. 근데 경찰이 어제 벌써 왔다 갔어요. 다 뒤집어 놓고 갔지.
 
-082. ÁLVARO: ¿Les acompañó usted?
-    알바로: 같이 올라가셨어요?
+082. ÁLVARO: ¿Les acompañó usted arriba, o se quedaron solos en el piso mientras lo registraban?
+    알바로: 같이 올라가셨어요, 아니면 수색하는 동안 경찰만 집에 있었어요?
 
 083. PORTERO: Hasta la puerta. Me dijeron que esperara fuera. Doce años en esta finca y es el primer vecino que se me muere así, fíjese usted.
     경비원: 문 앞까지만. 밖에서 기다리라더군요. 이 건물에서 12년 일했는데, 이렇게 죽은 주민은 처음이에요, 글쎄.
 
-084. ÁLVARO: ¿Le conocía bien?
-    알바로: 그분 잘 아셨어요?
+084. ÁLVARO: ¿Le conocía bien? Me refiero a si hablaban de algo más que del tiempo y del fútbol.
+    알바로: 그분 잘 아셨어요? 날씨나 축구 말고 다른 얘기도 했냐는 거예요.
 
 085. PORTERO: Bien, bien, no. Muy educado, eso sí. Siempre solo. La mujer vino una vez, en Navidad, y se volvió a México a los cuatro días, llorando.
     경비원: 잘은 몰라요. 예의 바른 양반이었지. 늘 혼자였어요. 부인이 크리스마스에 딱 한 번 왔는데, 나흘 만에 울면서 멕시코로 돌아갔어요.
 
-086. ÁLVARO: ¿Llorando? ¿Sabe por qué?
-    알바로: 울면서요? 왜인지 아세요?
+086. ÁLVARO: ¿Llorando? ¿Sabe por qué se fue así, o si discutieron delante de usted?
+    알바로: 울면서요? 왜 그렇게 갔는지, 아니면 아저씨 앞에서 다퉜는지 아세요?
 
 087. PORTERO: Yo no pregunto, caballero. Aquí el que pregunta mucho acaba trabajando en otro barrio.
     경비원: 난 안 물어봐요, 선생. 여기선 많이 묻는 사람은 다른 동네에서 일하게 돼요.
 
-088. ÁLVARO: Iker, estoy dentro. Quinto izquierda.
-    알바로: 이케르, 들어왔어. 5층 왼쪽.
+088. ÁLVARO: Iker, estoy dentro, en el quinto izquierda. El portero se ha quedado abajo con sus gafas.
+    알바로: 이케르, 들어왔어. 5층 왼쪽. 경비원은 안경 찾으러 아래 남았어.
 
 089. IKER: Te oigo perfecto. ¿Qué tal es la casa de un contable de dos millones y medio?
     이케르: 잘 들려요. 250만 유로짜리 회계사 집은 어때요?
@@ -291,14 +291,14 @@
 092. ÁLVARO: Exacto. Aquí no vivía nadie. Aquí se guardaba algo.
     알바로: 바로 그거야. 여기 사는 사람은 없었어. 여긴 뭔가를 보관하는 곳이었지.
 
-093. IKER: ¿Y el salón? ¿Desde donde viste las siluetas?
-    이케르: 거실은요? 실루엣 본 데요?
+093. IKER: ¿Y el salón? ¿Es el sitio desde donde viste las siluetas aquella noche?
+    이케르: 거실은요? 그날 밤 실루엣 본 데가 거기예요?
 
 094. ÁLVARO: Estoy en él. Desde aquí se ve perfectamente el toldo donde estuve yo. Quien estuviera aquí esa noche me vio antes que yo a él.
     알바로: 지금 거기 있어. 여기서 내가 서 있던 차양이 아주 잘 보여. 그날 밤 여기 있던 놈은 내가 보기 전에 날 봤을 거야.
 
-095. IKER: Qué mal rollo.
-    이케르: 소름.
+095. IKER: Qué mal rollo, Gato. O sea, que mientras tú lo vigilabas a él, alguien te vigilaba a ti.
+    이케르: 소름 돋네요, 가토. 그러니까 선배가 그 사람을 감시하는 동안 누가 선배를 감시했다는 거잖아요.
 
 096. ÁLVARO: En el escurridor de la cocina hay dos vasos. Lavados y boca abajo. Un hombre que vive solo no lava dos vasos a la una de la mañana.
     알바로: 부엌 건조대에 컵이 두 개 있어. 씻어서 엎어 놨어. 혼자 사는 남자는 새벽 1시에 컵 두 개를 안 씻어.
@@ -309,26 +309,26 @@
 098. ÁLVARO: Un hombre limpio lava un vaso. Un hombre que ha recibido una visita que no debía lava dos. Y una visita que no quiere dejar huellas los lava por él, después.
     알바로: 깔끔한 남자는 컵 하나를 씻어. 받으면 안 될 손님을 받은 남자는 두 개를 씻고. 그리고 흔적 남기기 싫은 손님은, 나중에, 그 사람 대신 씻어 주지.
 
-099. IKER: Apuntado. ¿Y el balcón?
-    이케르: 적었어요. 발코니는요?
+099. IKER: Apuntado, lo de los vasos. ¿Y el balcón? ¿Hay algo que la policía no haya querido ver?
+    이케르: 컵 얘기 적었어요. 발코니는요? 경찰이 보려고 하지 않은 게 있어요?
 
 100. ÁLVARO: La barandilla me llega por el pecho. Un metro diez, más o menos. Él medía uno setenta. Para caerse de aquí hay que querer.
     알바로: 난간이 내 가슴까지 와. 1미터 10 정도. 그 사람 키가 170이었어. 여기서 떨어지려면 마음먹어야 해.
 
-101. IKER: O que te ayuden.
-    이케르: 아니면 누가 도와주거나.
+101. IKER: O que te ayuden, claro. Que alguien te levante por las piernas mientras tú intentas agarrarte a algo.
+    이케르: 아니면 누가 도와주거나요. 매달릴 걸 찾는 동안 누가 다리를 들어 올리거나.
 
 102. ÁLVARO: O que te ayuden. Hay unas rozaduras negras en la parte de abajo, en la pintura. Como de suela de zapato. Como si alguien hubiera pataleado contra los barrotes mientras le levantaban.
     알바로: 아니면 누가 도와주거나. 아래쪽 페인트에 검은 긁힌 자국이 있어. 구두 밑창 자국 같은. 누가 들어 올리는 동안 난간 살을 발로 마구 찬 것처럼.
 
-103. IKER: La Nacional las habrá visto, ¿no?
-    이케르: 경찰도 봤겠죠?
+103. IKER: La Nacional las habrá visto, ¿no? Digo yo que alguien habrá hecho fotos de la barandilla.
+    이케르: 경찰도 봤겠죠? 누군가는 난간 사진을 찍었겠죠.
 
 104. ÁLVARO: La Nacional ve lo que le conviene. Espera: en el dormitorio hay una maleta, medio hecha.
     알바로: 경찰은 자기 편한 것만 봐. 잠깐, 침실에 가방이 있어. 반쯤 싸 놨어.
 
-105. IKER: ¿Medio hecha?
-    이케르: 반쯤요?
+105. IKER: ¿Medio hecha? ¿Como si se fuera a ir de viaje o como si lo hubieran interrumpido haciendo las maletas?
+    이케르: 반쯤요? 여행 갈 참이었던 것처럼요, 아니면 짐 싸다가 누가 방해한 것처럼요?
 
 106. ÁLVARO: Camisas dobladas, un neceser, dos jerséis, unas zapatillas... y un billete impreso. Madrid–México, viernes 16 de octubre, salida 11:55.
     알바로: 개어 놓은 셔츠, 세면도구 가방, 스웨터 두 벌, 운동화… 그리고 인쇄된 항공권. 마드리드–멕시코, 10월 16일 금요일, 11시 55분 출발.
@@ -339,8 +339,8 @@
 108. ÁLVARO: Se iba, Iker. Un hombre no hace la maleta para tirarse por un balcón. Se iba a casa, y alguien no quiso que llegara.
     알바로: 떠나려던 거야, 이케르. 발코니에서 뛰어내리려는 사람은 짐을 안 싸. 집에 가려던 건데, 누군가 그가 도착하길 원치 않았던 거지.
 
-109. ÁLVARO: Espera, que me llaman. Es Ruiz-Belda. No cuelgues.
-    알바로: 잠깐, 전화 왔어. 루이스-벨다야. 끊지 마.
+109. ÁLVARO: Espera, que me llaman al otro móvil. Es Ruiz-Belda, y eso nunca es buena señal. No cuelgues.
+    알바로: 잠깐, 다른 폰으로 전화 왔어. 루이스-벨다야. 그건 절대 좋은 신호가 아니지. 끊지 마.
 
 110. SANTI: Álvaro, disculpe que le interrumpa. ¿Está usted en el domicilio de Serrano?
     산티: 알바로, 방해해서 죄송합니다. 세라노 주거지에 계십니까?
@@ -360,8 +360,8 @@
 115. ÁLVARO: Aquí husmeamos todos, Santiago. La diferencia es que unos husmeamos en las cuentas de los demás y otros, por lo visto, en los ordenadores de sus propios compañeros.
     알바로: 여기선 다들 뒤지죠, 산티아고. 차이라면 누구는 남의 계좌를 뒤지고, 누구는 보아하니 자기 동료들 컴퓨터를 뒤진다는 거겠죠.
 
-116. SANTI: No sé qué insinúa.
-    산티: 무슨 말씀을 하시려는 건지 모르겠군요.
+116. SANTI: No sé qué insinúa, Álvaro, pero le recomiendo que tenga mucho cuidado con lo que dice por teléfono.
+    산티: 무슨 말씀을 하시려는 건지 모르겠군요, 알바로. 전화로 하는 말은 아주 조심하시길 권합니다.
 
 117. ÁLVARO: No insinúo nada. Hay un hombre muerto que tenía un billete para hoy. Eso es lo que investigo. Si el billete me lleva a Raíz, iré a Raíz.
     알바로: 아무 말도 안 하려는 겁니다. 오늘 날짜 항공권을 가진 남자가 죽었어요. 제가 수사하는 건 그겁니다. 그 항공권이 라이스로 데려가면, 라이스로 가는 거고요.
@@ -369,8 +369,8 @@
 118. SANTI: Entonces irá por el procedimiento, Álvaro. Con un informe a la directora, con la firma del magistrado y con mi visto bueno. Por ese orden. Buenas tardes.
     산티: 그렇다면 절차대로 가시죠, 알바로. 국장님께 보고서 올리고, 판사 서명 받고, 제 결재 받고. 그 순서대로요. 좋은 오후 보내십시오.
 
-119. IKER: ¿Sigues ahí? ¿Qué quería?
-    이케르: 아직 있어요? 뭐래요?
+119. IKER: ¿Sigues ahí? ¿Qué quería el señor del procedimiento a estas horas de la tarde?
+    이케르: 아직 있어요? 이 오후에 절차 나리께서 뭘 원하셨대요?
 
 120. ÁLVARO: Saber lo que tú miraste ayer. Y ya lo sabía, Iker. ¿Quién puede ver tus consultas?
     알바로: 네가 어제 뭘 들여다봤는지 알고 싶대. 근데 이미 알고 있었어, 이케르. 네 조회 기록은 누가 볼 수 있어?
@@ -384,8 +384,8 @@
 123. RAMÓN: Pinar de Chamartín. Bambú. Chamartín. Plaza de Castilla. Valdeacederas. Tetuán...
     라몬: 피나르 데 차마르틴. 밤부. 차마르틴. 플라사 데 카스티야. 발데아세데라스. 테투안…
 
-124. ÁLVARO: Sigue, papá. Vas muy bien.
-    알바로: 계속해, 아빠. 잘하고 있어.
+124. ÁLVARO: Sigue, papá, que vas muy bien. No pienses en la siguiente, deja que salga sola.
+    알바로: 계속해, 아빠. 잘하고 있어. 다음 역 생각하지 말고 저절로 나오게 둬.
 
 125. RAMÓN: Estrecho. Alvarado. Cuatro Caminos. Ríos Rosas. Iglesia. Bilbao. Tribunal... Gran Vía. ¡Gran Vía! ¿Has visto? Hoy no se me ha escapado.
     라몬: 에스트레초. 알바라도. 쿠아트로 카미노스. 리오스 로사스. 이글레시아. 빌바오. 트리부날… 그란 비아. 그란 비아! 봤냐? 오늘은 안 놓쳤다.
@@ -408,8 +408,8 @@
 131. RAMÓN: En verano vino un chico amable, de una asociación de mayores. Regalaban un jamón si firmabas un papel de las pensiones. Pilarín firmó.
     라몬: 여름에 싹싹한 청년이 왔어, 노인회에서 나왔다고. 연금 서류에 서명하면 하몬을 하나 준다고. 필라린은 서명했지.
 
-132. ÁLVARO: ¿Y tú? ¿Firmaste tú?
-    알바로: 아빠는? 아빠도 서명했어?
+132. ÁLVARO: ¿Y tú, papá? ¿Firmaste tú también algún papel de esos a cambio del jamón?
+    알바로: 아빠는? 아빠도 하몬 받으려고 그런 서류에 서명했어?
 
 133. RAMÓN: Yo no firmo nada que no me haya leído antes tu madre, que en paz descanse. Así que me quedé sin jamón.
     라몬: 난 네 엄마가, 하늘에 있는 네 엄마가 먼저 읽어 준 게 아니면 아무것도 서명 안 한다. 그래서 하몬은 못 받았지.

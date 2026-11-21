@@ -24,8 +24,8 @@
 003. VENDEDORA: Para usted, a treinta, mi reina. ¿Es para su ofrenda? ¿A quién va a poner este año?
     꽃 장수: 아가씨한텐 30페소. 제단에 올리려고요? 올해는 누굴 모셔요?
 
-004. RENATA: A un amigo. Es su segundo año.
-    레나타: 친구요. 올해가 두 번째예요.
+004. RENATA: A un amigo, un compañero del periódico. Este es su segundo año de muerto.
+    레나타: 친구요, 신문사 동료. 이번이 떠나고 나서 두 번째 해예요.
 
 005. VENDEDORA: Ay, los de segundo año todavía están aprendiendo el camino. Póngale bastante flor, que el olor es lo que los guía, y una veladora para que no se pierdan.
     꽃 장수: 아이고, 두 번째 해엔 아직 길을 배우는 중이에요. 꽃을 넉넉히 놓아요, 향기가 길잡이니까. 길 잃지 말라고 초도 하나 켜 두고요.
@@ -42,8 +42,8 @@
 009. RENATA: Aquí no vamos a llorarles. Los invitamos a cenar. Es distinto.
     레나타: 여기선 울러 가는 게 아니야. 저녁 먹으러 오라고 초대하는 거지. 그게 달라.
 
-010. ÁLVARO: ¿Y ese pan con huesos encima?
-    알바로: 그럼 위에 뼈 올린 저 빵은?
+010. ÁLVARO: ¿Y ese pan redondo con huesos encima? No me digas que también es para los muertos.
+    알바로: 그럼 위에 뼈 올린 저 둥근 빵은? 설마 그것도 망자용이라고 하진 마.
 
 011. RENATA: Pan de muerto. Las tiras son los huesos, la bolita de arriba es el cráneo y el azahar es para que huela a casa. Cómprate uno, no seas codo.
     레나타: 판 데 무에르토. 길쭉한 건 뼈, 위에 동그란 건 두개골, 오렌지꽃 향은 집 냄새 나라고 넣는 거야. 하나 사. 쪼잔하게 굴지 말고.
@@ -54,20 +54,20 @@
 013. RENATA: Ya estamos. Pásame la foto. La de la mesa, la del marco de hojalata.
     레나타: 다 왔다. 사진 좀 줘. 탁자 위에 있는 거, 양철 액자.
 
-014. ÁLVARO: ¿Es él? ¿Tomás?
-    알바로: 이 사람이야? 토마스?
+014. ÁLVARO: ¿Es él? ¿Este es Tomás, el compañero del que nunca quieres hablar?
+    알바로: 이 사람이야? 네가 절대 얘기하려 하지 않던 그 동료, 토마스?
 
 015. RENATA: Tomás Aguirre. Lo mataron en marzo del año pasado, en Culiacán, saliendo de una taquería a las nueve de la noche. Le dispararon once veces. Once. Como si con una no bastara.
     레나타: 토마스 아기레. 작년 3월에 쿨리아칸에서 죽었어. 밤 아홉 시에 타코집에서 나오다가. 열한 발을 맞았어. 열한 발. 한 발로는 모자라다는 듯이.
 
-016. ÁLVARO: Lo siento, Renata.
-    알바로: 안됐다, 레나타.
+016. ÁLVARO: Lo siento mucho, Renata. De verdad, y no lo digo por decir.
+    알바로: 정말 안됐다, 레나타. 진심이야, 그냥 하는 말 아니고.
 
 017. RENATA: Todos lo sintieron. El gobernador lo sintió, la fiscalía lo sintió, hasta mandaron una corona al velorio. Lo que nadie hizo fue buscar a quien apretó el gatillo.
     레나타: 다들 안됐다고 했어. 주지사도, 검찰도. 장례식장에 화환까지 보냈지. 근데 방아쇠 당긴 놈을 찾은 사람은 아무도 없었어.
 
-018. ÁLVARO: ¿Qué estaba investigando?
-    알바로: 뭘 취재하고 있었는데?
+018. ÁLVARO: ¿Y qué estaba investigando cuando lo mataron? Porque once tiros no son un atraco.
+    알바로: 그럼 죽었을 때 뭘 취재하고 있었는데? 열한 발이면 강도는 아니잖아.
 
 019. RENATA: Lo mismo que yo ahora. Dinero que entraba sucio en Sinaloa y salía limpio en algún lugar de Europa. Cuando lo mataron, agarré sus libretas y seguí. Así llegué a Julio.
     레나타: 지금 내가 하는 거랑 똑같아. 시날로아에 더럽게 들어와서 유럽 어딘가에서 깨끗하게 나가는 돈. 그가 죽고 나서 내가 그 수첩들을 들고 이어서 했어. 그렇게 훌리오한테 닿은 거야.
@@ -78,8 +78,8 @@
 021. RENATA: Ponemos lo que les gustaba. A Tomás, una Coca bien fría, cacahuates japoneses y una libreta, porque nunca salía sin ella. Agua, por si llegan con sed del viaje. Sal, para purificar. Y el papel picado, que es el aire.
     레나타: 생전에 좋아하던 걸 올려. 토마스한텐 차가운 콜라, 일본식 땅콩, 그리고 수첩 하나. 늘 들고 다녔거든. 먼 길 오느라 목마를까 봐 물. 정화하라고 소금. 그리고 파펠 피카도, 그건 바람이야.
 
-022. ÁLVARO: ¿Y de verdad crees que vuelve?
-    알바로: 정말 돌아온다고 믿어?
+022. ÁLVARO: ¿Y de verdad crees que vuelve? Te lo pregunto en serio, no para burlarme.
+    알바로: 정말 돌아온다고 믿어? 놀리려는 게 아니라 진지하게 묻는 거야.
 
 023. RENATA: Los muertos vienen hoy a casa, Álvaro. Si nos acordamos de ellos. El día que nadie se acuerde, ese día se mueren de verdad.
     레나타: 죽은 사람들은 오늘 집에 와, 알바로. 우리가 기억하면. 아무도 기억 안 하는 날, 그날 진짜로 죽는 거야.
@@ -93,23 +93,23 @@
 026. ÁLVARO: Todavía no. Dijo que la mandaría el mismo día. Y me parece bien: si yo fuera ella, tampoco me fiaría de nadie.
     알바로: 아직. 당일에 보낸다고 했잖아. 난 그게 맞다고 봐. 내가 그 사람이라도 아무도 안 믿을 거야.
 
-027. RENATA: Tu teléfono. ¿Es ella?
-    레나타: 너 전화 와. 그 사람이야?
+027. RENATA: Te está vibrando el teléfono encima de la mesa, al lado de las veladoras. ¿Es ella?
+    레나타: 탁자 위 초 옆에서 네 전화가 울려. 그 사람이야?
 
-028. ÁLVARO: No. Es Galván… Dígame, Galván.
-    알바로: 아니. 갈반이야… 네, 갈반.
+028. ÁLVARO: No, no es ella, es Galván, y eso un domingo nunca es buena señal… Dígame, Galván.
+    알바로: 아니, 갈반이야. 일요일에 그 사람 전화는 좋은 징조가 아니지… 네, 갈반.
 
 029. GALVÁN: Robles, feliz día de Todos Santos. ¿Ya le pusieron ofrenda a alguien? En mi casa mi señora pone hasta al perro que tuvimos en el ochenta y cinco.
     갈반: 로블레스 씨, 즐거운 만성절 되세요. 제단은 누구한테 차려 드렸어요? 우리 집사람은 85년에 키우던 개까지 올려요.
 
-030. ÁLVARO: Estamos en ello. ¿Qué necesita?
-    알바로: 차리는 중입니다. 무슨 일이시죠?
+030. ÁLVARO: Estamos en ello, Galván, aunque me imagino que no me llama para hablar de flores. ¿Qué necesita?
+    알바로: 차리는 중입니다, 갈반. 꽃 얘기하려고 전화하신 건 아닐 테고. 무슨 일이시죠?
 
 031. GALVÁN: Me llegó un rumor. Dicen que la viuda de Prieto está en la ciudad y que quiere hablar con ustedes. Si es verdad, a mí me gustaría estar presente. Por su seguridad, nada más.
     갈반: 소문을 하나 들었어요. 프리에토 미망인이 시내에 와 있는데, 두 분이랑 얘기하고 싶어 한다더군요. 사실이라면 저도 그 자리에 있고 싶어요. 두 분 안전 때문에요, 그뿐입니다.
 
-032. ÁLVARO: ¿Quién le ha contado eso?
-    알바로: 누가 그런 얘길 했습니까?
+032. ÁLVARO: ¿Quién le ha contado eso? Porque nosotros no se lo hemos dicho a nadie.
+    알바로: 누가 그런 얘길 했습니까? 우린 아무한테도 말 안 했는데요.
 
 033. GALVÁN: Un pajarito. En esta época los pajaritos cantan mucho, Robles. ¿Dónde y cuándo?
     갈반: 작은 새 한 마리가요. 이맘때면 새들이 많이 지저귀거든요, 로블레스 씨. 어디서, 언제예요?
@@ -126,8 +126,8 @@
 037. ÁLVARO: O alguien está escuchando tu móvil, o alguien está escuchando a Lola. Y ninguna de las dos cosas me gusta.
     알바로: 누가 네 폰을 도청하고 있거나, 롤라를 도청하고 있거나. 둘 다 마음에 안 들어.
 
-038. RENATA: Entonces mañana dejamos los celulares aquí.
-    레나타: 그럼 내일 휴대폰은 여기 두고 가자.
+038. RENATA: Entonces mañana dejamos los celulares aquí, en la casa, y nos vamos sin nada.
+    레나타: 그럼 내일 휴대폰은 여기 집에 두고 빈손으로 가자.
 
 039. ÁLVARO: Aquí y encendidos, para que parezca que seguimos en casa. Y llevamos un desechable cada uno, comprado hoy, pagado en efectivo.
     알바로: 여기 두되 켜 둬. 우리가 집에 있는 것처럼 보이게. 그리고 대포폰 하나씩 들고 가. 오늘 산 거, 현금으로.
@@ -186,14 +186,14 @@
 057. LOLA: Dos. Lo sabía. A mí me dijeron que estaba deprimido, que había bebido, que la barandilla era baja. Julio no bebía entre semana. Y nunca, nunca se habría ido sin despedirse de mí.
     롤라: 둘. 그럴 줄 알았어요. 저한텐 우울증이 있었다, 술을 마셨다, 난간이 낮았다고 하더군요. 훌리오는 주중엔 술 안 마셨어요. 그리고 절대, 절대 나한테 인사도 없이 떠날 사람이 아니에요.
 
-058. ÁLVARO: Ese es su altar.
-    알바로: 이게 남편분 제단이군요.
+058. ÁLVARO: Ese es su altar, ¿verdad? Se nota que lo ha preparado con mucho cariño.
+    알바로: 저게 남편분 제단이군요. 정성껏 차리신 게 보이네요.
 
 059. LOLA: Ese es. Su foto de la boda de mi sobrina, la única en la que sale sonriendo. Su chilorio, porque era de Culiacán hasta los huesos. Una Pacífico. Y sus cigarros de menta, que yo odiaba.
     롤라: 네. 조카 결혼식 때 사진이에요. 웃고 있는 게 그것뿐이라. 칠로리오, 뼛속까지 쿨리아칸 사람이었으니까. 퍼시피코 맥주 한 병. 그리고 제가 그렇게 싫어하던 박하 담배.
 
-060. RENATA: ¿Fumaba mentolados?
-    레나타: 박하 담배 피우셨어요?
+060. RENATA: ¿Fumaba mentolados? Nunca lo vi fumar cuando nos veíamos en Culiacán.
+    레나타: 박하 담배를 피우셨어요? 쿨리아칸에서 만날 땐 피우는 걸 한 번도 못 봤는데.
 
 061. LOLA: Desde que lo conocí. Decía que los de menta no olían a cigarro y que así yo no me daba cuenta. Siempre me daba cuenta. Treinta años dándome cuenta.
     롤라: 처음 만났을 때부터요. 박하 담배는 담배 냄새가 안 나서 내가 모를 거라나요. 늘 알았죠. 30년 내내 알았어요.
@@ -201,29 +201,29 @@
 062. ÁLVARO: En el balcón fumaba esos. Me acuerdo del paquete verde.
     알바로: 발코니에서 그걸 피우셨어요. 초록색 담뱃갑이 기억납니다.
 
-063. LOLA: ¿Ve? Usted también se dio cuenta.
-    롤라: 보세요. 당신도 알아챘잖아요.
+063. LOLA: ¿Ve? Usted también se dio cuenta, y eso que solo lo vio una noche.
+    롤라: 보세요. 당신도 알아챘잖아요. 딱 하룻밤 봤을 뿐인데도.
 
-064. RENATA: Lola, cuéntenos los últimos meses. ¿Qué cambió?
-    레나타: 롤라, 마지막 몇 달 얘기해 주세요. 뭐가 달라졌어요?
+064. RENATA: Lola, si puede, cuéntenos cómo fueron los últimos meses. ¿Qué cambió en él?
+    레나타: 롤라, 괜찮으시면 마지막 몇 달이 어땠는지 얘기해 주세요. 그분이 뭐가 달라졌어요?
 
 065. LOLA: Todo. Antes llegaba a la casa, cenaba, veía el béisbol y se dormía en el sillón. En enero empezó a viajar a Madrid cada mes. Volvía con regalos caros y con cara de no haber dormido.
     롤라: 전부 다요. 전에는 집에 와서 저녁 먹고 야구 보다가 소파에서 잠들곤 했어요. 그러다 1월부터 매달 마드리드에 가기 시작했어요. 비싼 선물을 들고, 한숨도 못 잔 얼굴로 돌아왔죠.
 
-066. ÁLVARO: ¿Le dijo para quién trabajaba allí?
-    알바로: 거기서 누구 일을 하는지 말씀하셨나요?
+066. ÁLVARO: ¿Y alguna vez le dijo para quién trabajaba allí, aunque fuera de pasada?
+    알바로: 거기서 누구 일을 하는지 지나가는 말로라도 말씀하신 적 있나요?
 
 067. LOLA: Me dijo que unos señores de España querían comprar empresas mexicanas y que él les revisaba los números. Que era legal. Que por fin íbamos a vivir tranquilos. Lo repetía tanto que dejé de creérmelo.
     롤라: 스페인 양반들이 멕시코 회사들을 사고 싶어 해서 자기가 숫자를 봐 준다고 했어요. 합법이라고. 이제 우리도 편하게 살 거라고. 하도 되풀이해서 나중엔 안 믿게 됐어요.
 
-068. RENATA: ¿Mencionó algún nombre? ¿Una empresa, una persona?
-    레나타: 이름을 말한 적 있어요? 회사든 사람이든?
+068. RENATA: ¿Y nunca mencionó ningún nombre? Una empresa, una persona, aunque fuera un apodo.
+    레나타: 이름은 한 번도 말 안 했어요? 회사든 사람이든, 별명이라도요.
 
 069. LOLA: Uno solo, una sola vez. Hablaba por teléfono en la cocina, creyendo que yo dormía, y dijo: "Si los españoles ya firmaron el informe, el Maestro está cubierto." Luego colgó y se quedó media hora mirando la pared.
     롤라: 딱 한 번, 하나요. 제가 자는 줄 알고 부엌에서 통화하면서 그러더군요. "스페인 사람들이 보고서에 서명했으면 마에스트로는 안전해." 그러고 전화를 끊고 30분 동안 벽만 쳐다봤어요.
 
-070. ÁLVARO: ¿El Maestro?
-    알바로: 마에스트로?
+070. ÁLVARO: ¿El Maestro? ¿Así, con artículo, como si fuera un título?
+    알바로: 마에스트로? 그렇게 관사까지 붙여서, 무슨 직함처럼요?
 
 071. RENATA: Benjamín Ochoa. Le dicen así porque daba clases de economía en la UNAM. Ahora da clases de otras cosas.
     레나타: 벤하민 오초아. 국립자치대에서 경제학을 가르쳐서 그렇게 불러. 지금은 다른 걸 가르치지.
@@ -237,8 +237,8 @@
 074. LOLA: La última vez que vino a casa, en septiembre, dejó una calavera de azúcar en el librero. Me dijo: "Esta no se come, Lola. Esta va en mi ofrenda, si me pasa algo." Yo me reí. Le dije que no fuera payaso.
     롤라: 9월에 마지막으로 집에 왔을 때, 책장에 설탕 해골을 하나 두고 갔어요. 그러더군요. "이건 먹는 거 아니야, 롤라. 나한테 무슨 일 생기면 내 제단에 올려." 전 웃었죠. 실없는 소리 하지 말라고.
 
-075. RENATA: ¿Y usted la puso en el altar?
-    레나타: 그래서 제단에 올리셨어요?
+075. RENATA: ¿Y usted la puso en el altar, tal como él le había pedido?
+    레나타: 그래서 그분이 부탁한 대로 제단에 올리셨어요?
 
 076. LOLA: Ahí está, con su nombre en la frente, "Julio", como las que venden en los mercados. Tómela. Está hueca por detrás.
     롤라: 저기 있어요. 시장에서 파는 것처럼 이마에 "훌리오"라고 이름 쓰인 거. 가져가세요. 뒤가 비어 있어요.
@@ -255,20 +255,20 @@
 080. LOLA: Me voy esta noche a Culiacán, en camión. Mi hermana no sabe nada, y así se va a quedar.
     롤라: 오늘 밤 버스로 쿨리아칸에 가요. 언니는 아무것도 몰라요. 앞으로도 모를 거고요.
 
-081. ÁLVARO: Señora, ¿quién más sabía que veníamos hoy?
-    알바로: 부인, 오늘 저희가 온다는 걸 또 누가 알았죠?
+081. ÁLVARO: Señora, piénselo bien antes de contestar: ¿quién más sabía que veníamos hoy?
+    알바로: 부인, 잘 생각해 보고 대답해 주세요. 오늘 저희가 온다는 걸 또 누가 알았죠?
 
 082. LOLA: Nadie. Bueno… la semana pasada me llamó un señor del gobierno. Muy amable. Me dijo que era de inteligencia y que quería ayudarme con los trámites de Julio.
     롤라: 아무도요. 아, 그러니까… 지난주에 정부 쪽 남자한테서 전화가 왔어요. 아주 친절했어요. 정보기관 사람인데 훌리오 서류 처리를 도와주고 싶다고요.
 
-083. RENATA: ¿Le dijo cómo se llamaba?
-    레나타: 이름을 말했어요?
+083. RENATA: ¿Y le dijo cómo se llamaba ese señor tan amable?
+    레나타: 그 친절한 분이 이름은 말했어요?
 
-084. LOLA: Galván. Héctor Galván.
-    롤라: 갈반. 엑토르 갈반이요.
+084. LOLA: Sí, me lo dijo dos veces, para que lo apuntara: Galván. Héctor Galván.
+    롤라: 네, 적어 두라고 두 번이나 말했어요. 갈반. 엑토르 갈반.
 
-085. ÁLVARO: ¿Y usted le contó que iba a vernos?
-    알바로: 그 사람한테 저희를 만난다고 말씀하셨어요?
+085. ÁLVARO: ¿Y usted le contó a Galván que iba a vernos hoy aquí?
+    알바로: 그럼 갈반한테 오늘 여기서 저희를 만난다고 말씀하셨어요?
 
 086. LOLA: Le conté que la periodista me había buscado. Nada más. ¿Hice mal?
     롤라: 기자님이 저를 찾았다고만 했어요. 그게 다예요. 제가 잘못한 건가요?
@@ -279,8 +279,8 @@
 088. RENATA: Álvaro. En la esquina hay una camioneta blanca. Lleva diez minutos con el motor encendido.
     레나타: 알바로. 모퉁이에 흰색 승합차. 시동 켠 채로 10분째 서 있어.
 
-089. ÁLVARO: Lola, ¿la casa tiene salida por detrás?
-    알바로: 롤라, 이 집 뒷문 있습니까?
+089. ÁLVARO: Lola, escúcheme bien: ¿esta casa tiene alguna salida por detrás?
+    알바로: 롤라, 잘 들으세요. 이 집에 뒤로 나가는 길이 있습니까?
 
 090. LOLA: Por el patio, a un callejón que da al jardín. Hoy está lleno de gente por el desfile de catrinas.
     롤라: 마당으로 나가면 공원으로 이어지는 골목이 있어요. 오늘은 카트리나 행렬 때문에 사람이 꽉 찼을 거예요.
@@ -303,8 +303,8 @@
 096. ÁLVARO: El USB lo llevo en el bolsillo interior. Si nos separamos, nos vemos donde quedamos.
     알바로: USB는 안주머니에 있어. 흩어지면 약속한 데서 만나.
 
-097. RENATA: ¿Donde quedamos? No quedamos en nada.
-    레나타: 약속한 데? 약속한 거 없잖아.
+097. RENATA: ¿Donde quedamos? Pero si no quedamos en nada, Álvaro, ni siquiera en una hora.
+    레나타: 약속한 데? 우리 아무 약속도 안 했잖아, 알바로. 시간조차.
 
 098. ÁLVARO: Pues quedamos ahora: en la iglesia de San Juan Bautista, en la puerta lateral.
     알바로: 그럼 지금 하자. 산 후안 바우티스타 성당, 옆문.
@@ -315,8 +315,8 @@
 100. ÁLVARO: Y mira detrás de la banda. Dos hombres con máscara de calavera sin flores y chamarra de cuero. No bailan. Miran.
     알바로: 관악대 뒤도 봐. 꽃 없는 해골 가면에 가죽 점퍼 입은 남자 둘. 춤 안 춰. 보고만 있어.
 
-101. RENATA: Como los halcones.
-    레나타: 할코네스처럼.
+101. RENATA: Como los halcones de Tepito, ¿no? Mismo trabajo, distinto disfraz.
+    레나타: 테피토 할코네스처럼? 하는 일은 같고 분장만 다르네.
 
 102. ÁLVARO: No. Los halcones miraban. Estos vienen a por algo.
     알바로: 아니. 할코네스는 보기만 했지. 저놈들은 뭘 가지러 온 거야.
@@ -381,8 +381,8 @@
 122. SICARIO: No están, licenciado. Se los tragó la tierra… Sí, ya sé que usted dijo que vendrían por aquí… No, no los vi salir.
     청부업자: 없습니다, 변호사님. 땅으로 꺼졌어요… 네, 이쪽으로 올 거라고 하신 건 압니다… 아뇨, 나가는 건 못 봤어요.
 
-123. RENATA: "Licenciado." ¿Oíste? ¿Quién es el licenciado?
-    레나타: "변호사님." 들었어? 그 변호사님이 누군데?
+123. RENATA: "Licenciado." ¿Oíste? ¿Quién demonios es ese licenciado que sabía por dónde vendríamos?
+    레나타: "변호사님." 들었어? 우리가 어디로 올지 알던 그 변호사님은 대체 누구야?
 
 124. ÁLVARO: En este país medio mundo es licenciado. Cómete la tostada.
     알바로: 이 나라에선 반은 다 '리센시아도'잖아. 토스타다나 먹어.
@@ -429,8 +429,8 @@
 138. IKER: Venga, enchúfalo. Si lleva alguna trampa, prefiero que explote en México que aquí.
     이케르: 좋아요, 꽂아요. 함정이 있으면 여기보단 멕시코에서 터지는 게 낫죠.
 
-139. RENATA: Qué amable tu amigo.
-    레나타: 네 친구 참 친절하다.
+139. RENATA: Qué amable tu amigo, de verdad. Me encanta saber que soy la que puede explotar.
+    레나타: 네 친구 참 친절하다, 정말. 터져도 되는 사람이 나라니 기쁘네.
 
 140. IKER: Es humor vasco, Renata, muy seco. Vale, ya lo veo. Una sola carpeta, cifrada. La contraseña tiene ocho caracteres. ¿Alguna idea?
     이케르: 바스크식 유머예요, 레나타 씨. 아주 건조하죠. 좋아요, 보여요. 폴더 하나, 암호화돼 있어요. 비밀번호는 여덟 자리. 짐작 가는 거 있어요?
@@ -444,14 +444,14 @@
 143. IKER: Tres mil, equis, trescientos, sin puntos… Ni de coña… espera, sí. Ha entrado.
     이케르: 3000, x, 300, 점 빼고… 설마… 잠깐, 맞네. 열렸어요.
 
-144. RENATA: ¿Qué hay?
-    레나타: 뭐가 있어?
+144. RENATA: ¿Qué hay dentro? Dímelo ya, que llevo dos años esperando esto.
+    레나타: 안에 뭐가 있어? 빨리 말해 줘. 이거 2년 기다렸어.
 
 145. IKER: Una hoja de Excel enorme, con cuatro pestañas y nombres en clave. Fechas, cantidades, números de cuenta. Esto es un mapa del dinero de punta a punta, y nos va a llevar días entenderlo.
     이케르: 엄청 큰 엑셀 파일이요. 탭이 네 개고 이름은 다 암호예요. 날짜, 금액, 계좌번호. 이건 처음부터 끝까지 돈의 지도예요. 해독하려면 며칠은 걸리겠어요.
 
-146. ÁLVARO: Despacito, Iker. Empieza por arriba.
-    알바로: 천천히, 이케르. 맨 위부터.
+146. ÁLVARO: Despacito y con buena letra, Iker. Empieza por arriba y no te saltes nada.
+    알바로: 천천히, 또박또박, 이케르. 맨 위부터 시작해. 하나도 건너뛰지 말고.
 
 147. IKER: Arriba hay una portada, como la de un informe. Os la paso a la pantalla. Léela tú, Renata, que yo ya tengo los ojos cuadrados.
     이케르: 맨 위에 표지가 있어요. 보고서 표지처럼. 화면으로 넘길게요. 레나타 씨가 읽어요. 전 눈이 네모가 됐어요.

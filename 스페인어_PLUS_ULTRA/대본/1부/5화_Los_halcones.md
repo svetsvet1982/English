@@ -33,17 +33,17 @@
 006. ÁLVARO: Eso es justo lo que me preocupa. Javier Robles nació hace una semana. En Madrid lo conocen cuatro personas, y aquí, en teoría, solo dos: tú y él.
     알바로: 내가 걱정하는 게 바로 그거야. 하비에르 로블레스는 일주일 전에 태어났어. 마드리드에서 아는 사람은 넷, 여기선 이론상 딱 둘. 너, 그리고 그 사람.
 
-007. RENATA: Y yo no fui. Así que… Galván.
-    레나타: 난 아니고. 그럼… 갈반.
+007. RENATA: Y yo no fui, te lo juro, que yo ni sabía en qué hotel te habían metido. Así que… Galván.
+    레나타: 난 아니야, 맹세해. 네가 어느 호텔에 묵는지도 몰랐는데 뭐. 그럼… 갈반.
 
-008. ÁLVARO: Galván. Que, por cierto, llega tarde.
-    알바로: 갈반. 그런데 그 사람, 늦네.
+008. ÁLVARO: Galván, exacto. Que, por cierto, quedó a las nueve y ya son casi las nueve y media.
+    알바로: 갈반, 바로 그거야. 그런데 그 사람 아홉 시에 보자더니 벌써 아홉 시 반이 다 돼 가네.
 
 009. GALVÁN: ¡Llego puntual, señor Robles! Puntual mexicano, que es otra cosa. Y usted se me adelantó: yo iba a pasar por su hotel. Buenos días, señorita Villaseñor. Aquí en la plaza Río de Janeiro los chilaquiles verdes son una religión.
     갈반: 정시에 왔습니다, 로블레스 씨! 멕시코식 정시요, 그건 좀 다르죠. 그리고 먼저 나와 계셨네요. 호텔로 모시러 가려 했는데. 안녕하세요, 비야세뇨르 기자님. 이 리우데자네이루 광장에선 초록 칠라킬레스가 거의 종교예요.
 
-010. ÁLVARO: Siéntese, Galván. Antes de los chilaquiles, lea esto.
-    알바로: 앉으세요, 갈반. 칠라킬레스 전에 이것부터 읽어 보시죠.
+010. ÁLVARO: Siéntese, Galván, y antes de que lleguen los chilaquiles, haga el favor de leer esto con calma.
+    알바로: 앉으세요, 갈반. 칠라킬레스 나오기 전에 이것부터 천천히 읽어 보시죠.
 
 011. GALVÁN: "Bienvenido, señor Robles." Ah, caray. ¿Se lo dejaron en el cuarto?
     갈반: "환영합니다, 로블레스 씨." 아이고, 이런. 방에 두고 갔어요?
@@ -60,8 +60,8 @@
 015. GALVÁN: El hotel lo elegí yo, sí, pero con su gente de Madrid. Si quieren buscar una fuga, empiecen por su casa, no por la mía.
     갈반: 호텔은 제가 골랐죠, 네. 하지만 마드리드 쪽 사람들이랑 같이요. 새는 데를 찾고 싶으면 남의 집 말고 자기 집부터 뒤지세요.
 
-016. ÁLVARO: ¿Su CNI o el mío?
-    알바로: 당신네 CNI요, 우리 CNI요?
+016. ÁLVARO: ¿Su CNI o el mío? Porque, tal como lo dice, parece que ya tiene sospechoso.
+    알바로: 당신네 CNI요, 우리 CNI요? 말하는 걸 보니 벌써 짚이는 사람이 있는 것 같은데요.
 
 017. GALVÁN: Esa es la pregunta de siempre, Robles. Y le digo una cosa: ninguno de los dos es tan hermético como dice el folleto.
     갈반: 그게 늘 하는 질문이죠, 로블레스 씨. 하나 말씀드리면, 둘 다 안내 책자에 쓰인 것만큼 입이 무겁진 않아요.
@@ -72,8 +72,8 @@
 019. GALVÁN: Les traigo un mapa. Miren: Tepito, aquí, a quince minutos del Zócalo. El barrio bravo. Desde que ustedes aterrizaron, hay más movimiento de lo normal.
     갈반: 지도를 가져왔습니다. 보세요, 테피토. 여기, 소칼로에서 15분 거리. 거친 동네죠. 두 분이 착륙한 뒤로 평소보다 움직임이 많아요.
 
-020. ÁLVARO: ¿Movimiento de qué tipo?
-    알바로: 어떤 움직임이요?
+020. ÁLVARO: ¿Movimiento de qué tipo? Porque yo ayer solo vi tráfico y vendedores de elotes.
+    알바로: 어떤 움직임이요? 난 어제 꽉 막힌 차랑 옥수수 장수밖에 못 봤는데요.
 
 021. GALVÁN: Halcones. Chamacos de dieciséis, diecisiete años, en moto o parados en una esquina con un radio y un refresco. No venden nada, no cargan nada. Solo miran y avisan.
     갈반: 할코네스요. 열여섯, 열일곱 먹은 애들이 오토바이를 타거나 무전기랑 탄산음료 하나 들고 길모퉁이에 서 있죠. 뭘 팔지도 않고 나르지도 않아요. 그냥 보고, 알리는 거예요.
@@ -93,8 +93,8 @@
 026. GALVÁN: Entonces alguien preguntó en su nombre. Lo cual es peor.
     갈반: 그럼 누가 당신 이름으로 묻고 다닌 거네요. 그게 더 나쁘죠.
 
-027. RENATA: La tequilera es Tres Lunas, ¿verdad?
-    레나타: 그 테킬라 회사, 트레스 루나스죠?
+027. RENATA: La tequilera es Tres Lunas, ¿verdad? Llevo dos años oyendo ese nombre en voz baja.
+    레나타: 그 테킬라 회사, 트레스 루나스죠? 2년째 그 이름을 귓속말로만 듣고 있어요.
 
 028. GALVÁN: Tres Lunas, de Jalisco. Botella azul con tres lunas plateadas, muy bonita. Exportan a España, Estados Unidos y Japón, y según Hacienda venden más tequila del que pueden destilar sus agaves.
     갈반: 트레스 루나스, 할리스코 회사요. 은색 달 세 개가 박힌 파란 병, 아주 예쁘죠. 스페인, 미국, 일본에 수출하는데, 국세청 말로는 자기네 아가베로 증류할 수 있는 양보다 더 많이 판답니다.
@@ -120,8 +120,8 @@
 035. ÁLVARO: Perfectamente. Despacito y con buena letra, Galván. Solo vamos a mirar.
     알바로: 잘 알겠습니다. 천천히, 또박또박 하죠, 갈반. 그냥 구경만 할 겁니다.
 
-036. GALVÁN: Eso mismo dicen los halcones.
-    갈반: 할코네스도 딱 그렇게 말하죠.
+036. GALVÁN: Eso mismo dicen los halcones, señor Robles, y mire nomás lo bien que les pagan por mirar.
+    갈반: 할코네스도 딱 그렇게 말하죠, 로블레스 씨. 그런데 구경하는 값으로 얼마나 잘 받는지 보세요.
 
 037. IKER: Gato, ¿me oyes? Aquí son las seis de la tarde y me estoy comiendo un pintxo de tortilla delante de seis pantallas. ¿Qué tal por la tierra del mariachi?
     이케르: 가토, 들려요? 여긴 저녁 여섯 시고, 저는 모니터 여섯 개 앞에서 토르티야 핀초 먹는 중이에요. 마리아치의 나라는 어때요?
@@ -132,8 +132,8 @@
 039. IKER: Pues algo raro. El año pasado declararon en la aduana española cuarenta mil botellas, y en las tiendas de España no hay ni una. He buscado en supermercados, en tiendas gourmet, hasta en internet. Nada.
     이케르: 그게 좀 이상해요. 작년에 스페인 세관에 4만 병을 신고했는데, 스페인 가게엔 한 병도 없어요. 마트, 고급 식료품점, 인터넷까지 다 뒤졌어요. 없어요.
 
-040. ÁLVARO: ¿Cuarenta mil botellas fantasma?
-    알바로: 유령 병이 4만 개라고?
+040. ÁLVARO: ¿Cuarenta mil botellas fantasma? Eso no se lo bebe ni un pueblo entero en fiestas.
+    알바로: 유령 병이 4만 개라고? 그건 온 마을이 축제 때 마셔도 다 못 마셔.
 
 041. IKER: Y caras, ¿eh? Facturadas a noventa euros la botella. A ese precio, yo me paso a la sidra.
     이케르: 그것도 비싼 거요. 병당 90유로로 청구했더라고요. 그 값이면 전 사과주로 갈아탈래요.
@@ -144,8 +144,8 @@
 043. IKER: ¿Esa es la periodista? Hola, Renata, encantado. Dile que en Bilbao todo vale lo que cuesta, menos el Athletic, que no tiene precio.
     이케르: 그분이 그 기자예요? 안녕하세요, 레나타 씨, 반가워요. 빌바오에선 다 제값을 한다고 전해 줘요. 아틀레틱만 빼고요. 걘 값을 못 매기거든요.
 
-044. ÁLVARO: Céntrate, Iker. ¿Quién recibía las botellas en España?
-    알바로: 집중해, 이케르. 스페인에서 그 병들 누가 받았어?
+044. ÁLVARO: Céntrate, Iker, que el Athletic no paga facturas. ¿Quién recibía las botellas en España?
+    알바로: 집중해, 이케르. 아틀레틱이 송장 대신 내주진 않아. 스페인에서 그 병들 누가 받았어?
 
 045. IKER: Un importador de Valencia que comparte agente de aduanas con otra empresa mexicana, Verde Michoacán, S.A. de C.V. Exportan aguacate. Mismo agente, mismo puerto y, a veces, el mismo contenedor.
     이케르: 발렌시아의 수입업자인데, 다른 멕시코 회사랑 통관 대리인이 같아요. 베르데 미초아칸 주식회사. 아보카도 수출해요. 같은 대리인, 같은 항구, 가끔은 같은 컨테이너.
@@ -171,29 +171,29 @@
 052. RENATA: El taxista no quiere entrar más. Dice que hasta aquí llega, que para adentro de Tepito no se mete ni aunque le paguemos doble.
     레나타: 기사님이 더는 안 들어가겠대. 여기까지래. 두 배를 줘도 테피토 안쪽엔 안 들어간대.
 
-053. ÁLVARO: ¿Tan mal está el barrio?
-    알바로: 동네가 그렇게 험해?
+053. ÁLVARO: ¿Tan mal está el barrio como para rechazar el doble de dinero?
+    알바로: 돈을 두 배 준다는데도 거절할 만큼 동네가 그렇게 험해?
 
 054. RENATA: No está mal, está ocupado. Allá adentro todo el mundo trabaja, y a nadie le gusta que lo miren trabajar.
     레나타: 험한 게 아니라 바쁜 거야. 저 안에선 다들 일하는데, 일하는 걸 누가 쳐다보는 건 아무도 안 좋아해.
 
-055. ÁLVARO: Entendido. Pues a pie, como los turistas valientes.
-    알바로: 알았어. 그럼 걸어가자. 용감한 관광객처럼.
+055. ÁLVARO: Entendido. Pues entramos a pie, como los turistas valientes, y que sea lo que Dios quiera.
+    알바로: 알았어. 그럼 걸어서 들어가자. 용감한 관광객처럼. 될 대로 되라지.
 
 056. RENATA: Bueno. Bienvenido a Tepito. Regla número uno: no saques el celular. Regla número dos: si alguien te ofrece algo, di "ahorita no, gracias", aunque ese ahorita no signifique nada.
     레나타: 자, 테피토에 온 걸 환영해. 규칙 하나, 휴대폰 꺼내지 마. 규칙 둘, 누가 뭘 권하면 "아오리타 노, 그라시아스"라고 해. 그 '아오리타'가 아무 뜻이 없더라도.
 
-057. ÁLVARO: ¿Cómo que no significa nada?
-    알바로: 아무 뜻이 없다니?
+057. ÁLVARO: ¿Cómo que no significa nada? Una palabra que no significa nada es lo más peligroso que hay.
+    알바로: 아무 뜻이 없다니? 아무 뜻 없는 단어가 세상에서 제일 위험한 거야.
 
 058. RENATA: Ahorita puede ser ahora mismo, dentro de una hora o nunca. Depende del tono. Tú dilo con tono de nunca.
     레나타: '아오리타'는 지금 당장일 수도, 한 시간 뒤일 수도, 영영 안일 수도 있어. 말투에 달렸지. 넌 '영영 안' 말투로 해.
 
-059. ÁLVARO: Ahorita no, gracias. ¿Así?
-    알바로: 아오리타 노, 그라시아스. 이렇게?
+059. ÁLVARO: Ahorita no, gracias. ¿Así te parece bien, o sueno como un inspector de Hacienda?
+    알바로: 아오리타 노, 그라시아스. 이렇게 하면 돼? 아니면 세무 조사관처럼 들려?
 
-060. RENATA: Con menos acento de Madrid. Pero pasa.
-    레나타: 마드리드 억양 좀 빼고. 그래도 통과.
+060. RENATA: Con menos acento de Madrid y menos cara de inspector. Pero bueno, pasa.
+    레나타: 마드리드 억양 좀 빼고, 조사관 같은 얼굴도 좀 풀고. 그래도 뭐, 통과.
 
 061. ÁLVARO: Hay un chaval en la esquina, con gorra roja y un walkie en la mano. Lleva mirándonos desde que bajamos del taxi.
     알바로: 모퉁이에 빨간 모자 쓰고 무전기 든 애 있어. 택시에서 내릴 때부터 계속 우릴 보고 있어.
@@ -222,8 +222,8 @@
 069. VENDEDOR: Ahí ya no hay nada, señorita. Cerró hace un mes. Llegaron unos señores, sacaron cajas toda la noche y ya no volvieron. Si yo fuera ustedes, me compraba unos tenis y me regresaba a la Roma.
     노점상: 거긴 이제 아무것도 없어요, 아가씨. 한 달 전에 닫았어요. 웬 양반들이 와서 밤새 상자를 빼 가더니 다신 안 왔어요. 내가 당신들이면 운동화나 한 켤레 사서 로마로 돌아가겠네.
 
-070. ÁLVARO: ¿Y cómo sabe que venimos de la Roma?
-    알바로: 우리가 로마에서 온 건 어떻게 아세요?
+070. ÁLVARO: ¿Y usted cómo sabe que venimos de la Roma, si no le hemos dicho nada?
+    알바로: 아무 말도 안 했는데 우리가 로마에서 온 건 어떻게 아세요?
 
 071. VENDEDOR: Porque aquí las noticias llegan antes que la gente, jefe.
     노점상: 여기선 소식이 사람보다 먼저 도착하거든요, 사장님.
@@ -234,8 +234,8 @@
 073. ÁLVARO: Vamos a la distribuidora de todos modos. Ya que hemos venido, que nos vean trabajar.
     알바로: 그래도 창고는 가 보자. 여기까지 온 김에, 우리 일하는 거 실컷 보라고 하지 뭐.
 
-074. RENATA: ¿Estás loco?
-    레나타: 너 미쳤어?
+074. RENATA: ¿Estás loco? Nos están mirando cuatro motos y tú quieres meterte en una bodega.
+    레나타: 너 미쳤어? 오토바이 네 대가 우릴 보고 있는데 창고에 들어가겠다고?
 
 075. ÁLVARO: Un poco. Mira, la cortina metálica tiene el candado roto. Alguien entró hace poco.
     알바로: 조금. 봐, 셔터 자물쇠가 부서져 있어. 누가 최근에 들어갔어.
@@ -255,8 +255,8 @@
 080. RENATA: Álvaro. Afuera. Escucha.
     레나타: 알바로. 밖에. 들어 봐.
 
-081. ÁLVARO: ¿Qué es eso? ¿Un silbido?
-    알바로: 저게 뭐야? 휘파람?
+081. ÁLVARO: ¿Qué es eso? ¿Un silbido? Suena como si alguien estuviera llamando a un perro.
+    알바로: 저게 뭐야? 휘파람? 누가 개 부르는 소리 같은데.
 
 082. RENATA: Es el chiflido. Cuando los halcones chiflan así, es que ya viene alguien que no es halcón. Hay que irnos. Ya.
     레나타: 신호 휘파람이야. 할코네스가 저렇게 불면, 할콘이 아닌 누군가가 오고 있다는 뜻이야. 가야 돼. 지금.
@@ -303,14 +303,14 @@
 096. ÁLVARO: Se cierran las puertas. Dentro. Ya está.
     알바로: 문 닫힌다. 탔어. 됐어.
 
-097. RENATA: No manches. No manches. Me tiemblan las piernas.
-    레나타: 말도 안 돼. 진짜 말도 안 돼. 다리가 떨려.
+097. RENATA: No manches. No manches, de verdad. Me tiemblan las piernas como si hubiera corrido un maratón.
+    레나타: 말도 안 돼. 진짜 말도 안 돼. 마라톤이라도 뛴 것처럼 다리가 떨려.
 
 098. ÁLVARO: A mí también, pero yo disimulo mejor. Llevo quince años practicando.
     알바로: 나도 그래. 난 티를 덜 낼 뿐이지. 15년 연습했거든.
 
-099. RENATA: ¿Y para qué demonios querías esa radio?
-    레나타: 근데 그 무전기는 대체 왜 챙긴 거야?
+099. RENATA: ¿Y para qué demonios querías esa radio, si casi nos matan por ella?
+    레나타: 그거 때문에 죽을 뻔했는데, 그 무전기는 대체 왜 챙긴 거야?
 
 100. ÁLVARO: Porque nosotros acabamos de salir de su barrio, pero ellos no han salido de esta frecuencia. Escucha.
     알바로: 우린 걔네 동네를 빠져나왔지만, 걔네는 이 주파수를 못 빠져나갔으니까. 들어 봐.
@@ -330,8 +330,8 @@
 105. ÁLVARO: Buena pregunta. Y la última persona con la que hablamos antes de subir a ese taxi fue Galván.
     알바로: 좋은 질문이야. 그리고 그 택시 타기 전에 마지막으로 얘기한 사람이 갈반이었지.
 
-106. RENATA: ¿Crees que Galván…?
-    레나타: 설마 갈반이…?
+106. RENATA: ¿Crees que Galván…? No, no puede ser, si fue él quien nos dijo que no fuéramos.
+    레나타: 설마 갈반이…? 아니, 말도 안 돼. 가지 말라고 한 게 그 사람인데.
 
 107. ÁLVARO: Creo que aquí todo el mundo trabaja para alguien, y que todavía no sé para quién trabaja él. Esta noche vamos a Vallejo igualmente. Pero sin avisar a nadie.
     알바로: 여기선 다들 누군가를 위해 일한다고 생각해. 그런데 그 사람이 누굴 위해 일하는지는 아직 모르겠어. 오늘 밤 바예호는 그래도 간다. 대신 아무한테도 안 알리고.
@@ -357,8 +357,8 @@
 114. IKER: Las cámaras del perímetro van por una red sin contraseña. De verdad, sin contraseña, como en dos mil cinco. Dame treinta segundos y os congelo la imagen.
     이케르: 외곽 카메라가 비밀번호 없는 네트워크에 물려 있어요. 진짜로, 2005년처럼 비밀번호가 없어요. 30초만 줘요, 화면 얼려 드릴게요.
 
-115. ÁLVARO: Treinta segundos. ¿Y el perro?
-    알바로: 30초. 개는?
+115. ÁLVARO: Treinta segundos, de acuerdo. ¿Y el perro? A ese no lo congelas desde Madrid.
+    알바로: 30초, 좋아. 개는? 개는 마드리드에서 못 얼리잖아.
 
 116. RENATA: El perro es mío. Traigo tacos de suadero en la bolsa, y no hay perro en Vallejo que resista un taco de suadero.
     레나타: 개는 내가 맡을게. 가방에 수아데로 타코 있어. 바예호에 수아데로 타코 앞에서 버티는 개는 없어.
@@ -390,8 +390,8 @@
 125. ÁLVARO: Aquí hay algo más. Un archivador con los papeles de las dos empresas en la misma carpeta. El mismo despacho contable, el mismo sello, la misma firma.
     알바로: 여기 뭐가 더 있어. 서류철인데, 두 회사 서류가 한 폴더에 들어 있어. 같은 회계 사무소, 같은 도장, 같은 서명.
 
-126. RENATA: ¿Qué firma?
-    레나타: 무슨 서명?
+126. RENATA: ¿Qué firma? Léemela tú, que con esta luz no veo nada.
+    레나타: 무슨 서명? 네가 읽어 줘, 이 불빛으론 하나도 안 보여.
 
 127. ÁLVARO: "C.P. Julio César Prieto Ruelas". Tu fuente firmaba las cuentas de las dos.
     알바로: "공인회계사 훌리오 세사르 프리에토 루엘라스." 네 정보원이 두 회사 장부에 다 서명했어.
@@ -438,8 +438,8 @@
 141. ÁLVARO: Lucía, cariño, soy yo. Sigo de viaje, con muchos números y poca cama. Dile al abuelo que vuelvo pronto, y que me guarde el periódico del domingo. Te quiero.
     알바로: 루시아, 우리 딸, 아빠야. 아직 출장 중이야. 숫자는 많고 잠은 적고. 할아버지한테 아빠 곧 간다고, 일요일 신문 챙겨 두라고 전해 줘. 사랑해.
 
-142. RENATA: ¿Tu hija?
-    레나타: 딸이야?
+142. RENATA: ¿Era tu hija? Nunca me habías dicho que tenías una.
+    레나타: 딸이야? 딸 있다는 얘기 한 번도 안 했잖아.
 
 143. ÁLVARO: Dieciséis años. Cree que trabajo en estadística. Y en el fondo no se equivoca: me paso el día contando cosas que no cuadran.
     알바로: 열여섯 살. 내가 통계청에서 일하는 줄 알아. 사실 아주 틀린 말도 아니지. 하루 종일 안 맞는 숫자를 세고 있으니까.
@@ -447,8 +447,8 @@
 144. RENATA: Espera. Mi celular. Número desconocido, con lada de Sinaloa. Es un audio.
     레나타: 잠깐. 내 휴대폰. 모르는 번호야, 시날로아 지역번호. 음성 메시지야.
 
-145. ÁLVARO: Ponlo en altavoz.
-    알바로: 스피커로 틀어.
+145. ÁLVARO: Ponlo en altavoz, pero bajito, que estas paredes son de papel.
+    알바로: 스피커로 틀어. 대신 작게. 여기 벽이 종잇장이야.
 
 146. LOLA: Señorita Villaseñor, soy Dolores Prieto, la esposa de Julio. Sé que usted lo conocía, y sé que el español que la acompaña lo vio caer.
     롤라: 비야세뇨르 기자님, 저 돌로레스 프리에토예요. 훌리오의 아내요. 기자님이 남편을 알았다는 것도, 같이 있는 그 스페인 분이 남편이 떨어지는 걸 봤다는 것도 알아요.
