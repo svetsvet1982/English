@@ -9,7 +9,7 @@
 > - 난이도: B1+–B2 · 턴 수: 148
 > - 이번 화의 핵심 표현: "máxima discreción", "hacerse cargo de", "cadena de custodia", "subir como la espuma", "apartar a alguien de un caso", "sin acritud", "de buenas maneras", "no me haga arrepentirme"
 > - 방언 포인트: 누리아의 *escolta, exacte, collons, home, ho sabia*와 *vosotros* 명령형(*dejadlos, metedlos*) · 아리에타·산티의 *usted* 존댓말과 레이스모(*le saqué de Madrid*) · 루시아의 *finde, que me muero* · 베버의 또박또박한 외국인 스페인어(*aún*에 대한 감탄)
-> - 복선/연결: 4화 끝 "l'Arquitecte"·"Es un arquitecto"를 이어받아 감염 규모를 확정한다. 아리에타가 언급한 누리아의 2022년 의회 증언과 '피해자 보고서' → 6화 누리아의 고백. 루시아의 토요일 AVE(19시 40분 산츠 도착) → 6화. 상자 속에 켜 둔 감염 휴대전화로 C2 서버를 관찰하는 누리아의 계획 → 6화 끝 사그라다 파밀리아 IP 대역. 로이그의 "포블레노우 커피" 암시 = 묵인.
+> - 복선/연결: 4화 끝 "l'Arquitecte"·"Es un arquitecto"를 이어받아 감염 규모를 확정한다. 아리에타가 언급한 누리아의 2022년 의회 증언과 '피해자 보고서' → 6화 누리아의 고백. 루시아의 토요일 AVE(110시 산츠 도착) → 6화. 상자 속에 켜 둔 감염 휴대전화로 C2 서버를 관찰하는 누리아의 계획 → 6화 끝 사그라다 파밀리아 IP 대역. 로이그의 "포블레노우 커피" 암시 = 묵인.
 
 ---
 
@@ -48,8 +48,8 @@
 011. ÁLVARO: ¿Cuáles?
     알바로: 어느 거?
 
-012. NÚRIA: La entrada del programa ministerial, pabellón cuatro. El lunes, entre las nueve y diez y las nueve cuarenta. La taquilla catorce del domingo fue el ensayo, solo con Albers.
-    누리아: 장관 프로그램 입구, 4번 홀. 월요일 9시 10분부터 9시 40분 사이. 일요일 14번 사물함은 리허설이었고, 알버스 한 명뿐이었어.
+012. NÚRIA: La entrada del programa ministerial, pabellón cuatro. El lunes, entre las nueve y diez y las diez. El domingo, las taquillas del recorrido lo instalaron; el lunes, el torno lo despertó.
+    누리아: 장관 프로그램 입구, 4번 홀. 월요일 9시 10분부터 10시 사이. 일요일에 투어 동선의 사물함이 심어 놓고, 월요일에 개찰구가 깨운 거야.
 
 013. ÁLVARO: Media hora. La media hora en que entraban los ministros.
     알바로: 30분. 장관들이 들어가던 그 30분이네.
@@ -153,8 +153,8 @@
 046. ÁLVARO: Como todas. Ayer oí a los suecos discutir por el precio del salmón.
     알바로: 다 그렇죠. 어제는 스웨덴 사람들이 연어 값으로 싸우는 게 들렸어요.
 
-047. WEBER: No tengo humor para bromas. La ministra Albers se ha enterado esta mañana de que alguien lee sus mensajes desde el domingo, incluidos los de su hija, que tiene catorce años y le escribe todas las noches.
-    베버: 농담할 기분 아닙니다. 알버스 장관은 오늘 아침에야 일요일부터 누군가 자기 메시지를 읽고 있었다는 걸 알았어요. 매일 밤 연락하는 열네 살 딸 메시지까지요.
+047. WEBER: No tengo humor para bromas. La ministra Albers se ha enterado esta mañana de que alguien lee sus mensajes desde el lunes, incluidos los de su hija, que tiene catorce años y le escribe todas las noches.
+    베버: 농담할 기분 아닙니다. 알버스 장관은 오늘 아침에야 월요일부터 누군가 자기 메시지를 읽고 있었다는 걸 알았어요. 매일 밤 연락하는 열네 살 딸 메시지까지요.
 
 048. NÚRIA: Lo siento, Jonas. De verdad.
     누리아: 미안해요, 요나스. 진심이에요.
@@ -279,8 +279,8 @@
 088. ARRIETA: Buenas tardes, Medina, Roig. Les dejo a Santiago para los detalles, pero antes quiero los hechos. Sin adornos.
     아리에타: 안녕하세요, 메디나, 로이그. 세부 사항은 산티아고한테 맡기겠지만, 그 전에 사실부터 듣고 싶어요. 꾸밈없이.
 
-089. ÁLVARO: Siete ministros. Albers el domingo, en la taquilla catorce; los otros seis, el lunes entre las nueve y diez y las nueve y cuarenta, en los tornos del programa ministerial. El servidor sigue activo.
-    알바로: 장관 일곱 명입니다. 알버스는 일요일 14번 사물함에서, 나머지 여섯은 월요일 9시 10분에서 9시 40분 사이 장관 프로그램 개찰구에서. 서버는 아직 살아 있습니다.
+089. ÁLVARO: Siete ministros. El domingo, las taquillas del recorrido oficial les instalaron el programa; el lunes, entre las nueve y diez y las diez, los tornos del programa ministerial lo activaron. El servidor sigue activo.
+    알바로: 장관 일곱 명입니다. 일요일 공식 투어 동선의 사물함이 프로그램을 심었고, 월요일 9시 10분에서 10시 사이 장관 프로그램 개찰구가 그걸 깨웠습니다. 서버는 아직 살아 있습니다.
 
 090. ARRIETA: ¿Quién lo ha encontrado?
     아리에타: 누가 찾아냈죠?
