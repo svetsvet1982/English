@@ -332,11 +332,11 @@
 106. DECLAN: This is terrible. How much do I owe you?
     데클런: 이거 끔찍하다. 얼마야?
 
-107. MO: Two fifty. This is a bar, not Georgetown.
-    모: 2달러 50센트. 여긴 바야, 조지타운이 아니라.
+107. MO: Seven. Same as last month. You complain every single time.
+    모: 7달러. 지난달이랑 똑같아. 넌 매번 불평하더라.
 
-108. DECLAN: Best deal in Washington. I might actually cry.
-    데클런: 워싱턴 최고의 거래네. 진짜 눈물 날 것 같다.
+108. DECLAN: Because it's still a crime. In Dorchester, they'd arrest you.
+    데클런: 아직도 범죄니까. 도체스터였으면 넌 체포야.
 
 109. DECLAN: Walsh Forensic.
     데클런: 월시 포렌식입니다.
