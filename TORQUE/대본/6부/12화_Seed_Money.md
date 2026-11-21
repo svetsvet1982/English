@@ -39,7 +39,7 @@
 008. RUTH: It's a start. We sold half the stored beans last week at ten sixty, which isn't great but is better than nine eighty. The rest go by June first, like we promised.
     루스: 시작이죠. 저장해 둔 콩 절반을 지난주에 10달러 60센트에 팔았는데, 좋진 않아도 9달러 80센트보단 낫죠. 나머진 약속대로 6월 1일까지 팔 거고요.
 
-009. JO: Good morning, Amundsens, and good morning, Ohio. I brought paper, two contracts. Coffee first, or business?
+009. JO: Good morning, Amundsens, and good morning, Ohio. I brought paper, two contracts, so do you want coffee first, or business?
     조: 좋은 아침이에요, 아먼슨 씨네. 좋은 아침, 오하이오. 계약서 두 개 가져왔는데, 커피 먼저 할까요, 일 먼저 할까요?
 
 010. RUTH: In this family, business happens with coffee, so here.
@@ -48,7 +48,7 @@
 011. JO: Thank you. But first, the big news is the picture, Sam, the one from Marlene's dairy. It's my little tractor running a milking parlor in the middle of the night after a tornado.
     조: 고마워요. 근데 먼저 큰 소식은 그 사진이에요. 샘, 토네이도 뒤 한밤중에 우리 작은 트랙터가 말린네 착유장을 돌리던 그 사진이요.
 
-012. TYLER: It's everywhere. My mom sent it to me, and my mom doesn't even know what a tractor is.
+012. TYLER: It's everywhere. My mom sent it to me, and she doesn't even know what a tractor is.
     타일러: 어디에나 있어요. 트랙터가 뭔지도 모르는 우리 엄마가 보내 줬다니까요.
 
 013. JO: Two million people have seen it, and three of my investors called on Saturday to put in six million dollars more as a seed extension.
@@ -96,7 +96,7 @@
 027. JO: The pleasure is mine, and Dale, contract two is for you.
     조: 제가 더 기뻐요. 데일, 두 번째 계약서는 아저씨 거예요.
 
-028. DALE: For me? I'm not buying anything, the bank said so.
+028. DALE: For me? I'm not buying anything, because the bank said so.
     데일: 나한테요? 난 아무것도 안 사요. 은행이 그랬잖아요.
 
 029. JO: You're not buying, you're working for me, for one year, as Furrow's first test farm. The F1 stays here, and you use it every day. You tell us what breaks, and you report everything.
@@ -180,7 +180,7 @@
 055. GLORIA: I'll bring the twenty twenty-three wine from my drawer, which I've been saving for something worth it.
     글로리아: 가치 있는 일에 쓰려고 서랍에 아껴 둔 2023년산 와인 가져갈게요.
 
-056. TINA: Sam, wait, don't leave yet! Half the co-op is in the driveway.
+056. TINA: Sam, wait, don't leave yet! Half the co-op just pulled into the driveway.
     티나: 샘! 잠깐요, 아직 가지 마요! 협동조합 사람 절반이 진입로에 와 있어요.
 
 057. SAM: Half the co-op is here?
@@ -222,7 +222,7 @@
 069. SAM: Marlene, you didn't have to.
     샘: 말린, 안 그러셔도 되는데.
 
-070. MARLENE: Out here, we always have to, that's the rule. And Roy says if you ever need a cow, call him.
+070. MARLENE: Out here, we always have to, that's the rule. And Roy says if you ever need a cow, you should call him.
     말린: 여기선 늘 그래야 해요. 그게 규칙이에요. 로이가 혹시 소가 필요하면 전화하래요.
 
 071. SAM: I'll keep that in mind. I don't know where I'd put a cow.
@@ -237,7 +237,7 @@
 074. TYLER: Two thousand, copy that.
     타일러: 이천 개, 접수.
 
-075. HANK: And Sam? Thanks for answering the phone in December. It started all of this.
+075. HANK: And Sam? Thanks for answering the phone in December, because that started all of this.
     행크: 그리고 샘, 12월에 전화 받아 줘서 고마워요. 그게 이 모든 걸 시작했잖아요.
 
 076. SAM: You started it, Hank, when you gave Dale my name.
@@ -267,7 +267,7 @@
 084. SAM: Ruth, Dale, thank you for the letter, for the table, and for everything.
     샘: 루스, 데일, 편지랑 식탁이랑 전부 고마워요.
 
-085. DALE: Don't make a speech, Sam. Ruth says you make speeches.
+085. DALE: Don't make a speech, Sam, because Ruth says you always make speeches.
     데일: 연설하지 마요, 샘. 루스가 당신 연설한다고 하던데.
 
 086. SAM: No speech, just the short version: you taught me what we're for.
@@ -282,13 +282,13 @@
 089. SAM: I'll come back, so see you around, Dale.
     샘: 다시 올게요. 또 봐요, 데일.
 
-090. DALE: See you around, Ohio. Drive careful, and fix your heater.
+090. DALE: See you around, Ohio. Drive careful, and get that heater fixed.
     데일: 또 봐요, 오하이오. 조심해서 가고, 히터 좀 고쳐요.
 
 091. TYLER: It's nine hours to Dayton, so do you want to drive first, or should I?
     타일러: 데이턴까지 아홉 시간인데, 먼저 운전하실래요, 제가 할까요?
 
-092. SAM: You drive. I want to look at the fields.
+092. SAM: You drive, because I want to look at the fields.
     샘: 네가 해. 밭 구경하고 싶어.
 
 093. TYLER: Two months ago, I asked you why we were going to Iowa for one letter.
@@ -360,7 +360,7 @@
 115. TYLER: Can we put that on a T-shirt?
     타일러: 그거 티셔츠에 넣어도 돼요?
 
-116. WEN: No. Earl has already reserved all the T-shirts.
+116. WEN: No, because Earl has already reserved all the T-shirts.
     웬: 안 돼요. 얼이 티셔츠를 벌써 다 찜해 놨어요.
 
 117. SAM: Thank you for staying, Wen.
@@ -381,7 +381,7 @@
 122. SAM: It's been a strange spring.
     샘: 이상한 봄이었잖아.
 
-123. ERIN: You're home at eight fifteen, so that's fifteen minutes late. Lily, your father is late.
+123. ERIN: You're home at eight fifteen, so that's fifteen minutes late. Lily, your father is late again.
     에린: 여덟 시 십오 분에 왔네. 15분 늦었어. 릴리, 아빠 늦었다.
 
 124. LILY: Fifteen minutes is on time for Dad, it's basically early. Sit down, it's spaghetti, and don't say anything about the sauce.
@@ -459,7 +459,7 @@
 148. TONY: When can you come?
     토니: 언제 올 수 있어?
 
-149. ERIN: Not tomorrow. Tomorrow he's having breakfast with his family.
+149. ERIN: Not tomorrow, because tomorrow he's having breakfast with his family.
     에린: 내일은 안 돼요. 내일은 가족이랑 아침 먹어요.
 
 150. SAM: Not tomorrow, Tony. Tomorrow I'm having breakfast with my family, but I'll come next week. Let's see if it spins.

@@ -54,7 +54,7 @@
 013. JO: I'm going to put that on a T-shirt. Okay, watch this. I'm going to pull that sprayer up the steepest, muddiest part of Hal's orchard.
     조: 그거 티셔츠에 새겨야겠어요. 자, 보세요. 저 방제기를 할 씨 과수원에서 제일 가파르고 질척한 데로 끌고 올라갈 거예요.
 
-014. HAL: Go slow, Jo, I just fixed that gate.
+014. HAL: Go slow, Jo, because I just fixed that gate.
     할: 천천히 가, 조. 그 문 방금 고쳤어.
 
 015. WEN: It's so quiet that I can hear the birds over the motor.
@@ -66,7 +66,7 @@
 017. SAM: She's slowing down about halfway up.
     샘: 중간쯤에서 느려지네요.
 
-018. WEN: Listen to how the motor pitch just changed. It's derating.
+018. WEN: Listen to how the motor pitch just changed, because it's derating.
     웬: 모터 소리 바뀐 거 들어 봐요. 출력을 줄이고 있어요.
 
 019. TYLER: What does derating mean in plain English?
@@ -138,7 +138,7 @@
 041. SOFIA: Dr. Liu, I've read all of your papers, even the one from twenty fifteen with forty-one downloads.
     소피아: 리우 박사님, 논문 전부 읽었어요. 다운로드 마흔한 번짜리 2015년 거까지요.
 
-042. WEN: It's forty-three now. Paula Strand at Greaves read it twice.
+042. WEN: It's forty-three now, since Paula Strand at Greaves read it twice.
     웬: 이제 마흔세 번이에요. 그리브스의 폴라 스트랜드가 두 번 읽었대요.
 
 043. SOFIA: Then I'm forty-four. Here's our motor opened up, a traction motor at forty kilowatts peak. We use two per tractor, one for the wheels and one for the hydraulics and the power take-off.
@@ -192,13 +192,13 @@
 059. WEN: You can. Our firmware watches the magnet temperature every millisecond. On a cold start, it warms the motor gently and limits the current for the first few minutes, so the farmer won't notice, but the motor will.
     웬: 지을 수 있어요. 우리 펌웨어가 자석 온도를 1밀리초마다 보다가, 차가울 때 시동하면 모터를 살살 데우고 처음 몇 분은 전류를 제한해요. 농부는 못 느끼지만 모터는 느끼죠.
 
-060. SOFIA: That's elegant. The software protects the magnet.
+060. SOFIA: That's elegant, the way the software protects the magnet.
     소피아: 우아하네요. 소프트웨어가 자석을 보호하는 거잖아요.
 
 061. WEN: That's the whole company, weak magnets and smart software. Physics doesn't negotiate, but you can be polite to it.
     웬: 그게 우리 회사 전부예요. 약한 자석, 똑똑한 소프트웨어. 물리학은 협상 안 하지만, 예의 바르게 대할 순 있죠.
 
-062. HAL: I like her. She talks like my grandmother.
+062. HAL: I like her, because she talks like my grandmother.
     할: 이 사람 마음에 드네. 우리 할머니처럼 말해.
 
 063. WEN: Thank you, I think, and since I never met your grandmother, I'll take it as a compliment.
@@ -297,7 +297,7 @@
 094. JO: I love this woman already.
     조: 그분 벌써 좋아요.
 
-095. DALE: Everybody does. Send it by the eighteenth, and I'll make room next to Marge.
+095. DALE: Everybody does. Send it by the eighteenth, and I'll make room for it next to Marge.
     데일: 다들 그래요. 18일까지 보내면 마지 옆에 자리 마련할게요.
 
 096. JO: Okay, now comes the hard part, which is money.
@@ -378,7 +378,7 @@
 121. JO: Gloria, can I ask for one thing? I want the open port in the contract, in writing. That way, if Ferrox ever gets bought by a big company, nobody can lock my farmers out.
     조: 글로리아, 하나만 요청해도 될까요? 열린 포트를 계약서에 서면으로 넣고 싶어요. 나중에 페록스가 대기업에 팔려도 아무도 제 농부들을 잠가 버릴 수 없게요.
 
-122. SAM: Done, put it in. Ferrox isn't for sale, but put it in anyway.
+122. SAM: Done, put it in. Ferrox isn't for sale, but put it in there anyway.
     샘: 좋아요, 넣으세요. 페록스는 매물이 아니지만 그래도 넣으세요.
 
 123. GLORIA: I'll have Ben write it tonight. He'll complain, but he'll write it.
@@ -390,13 +390,13 @@
 125. GLORIA: It's a prototype deal, so don't let Sam promise you anything else.
     글로리아: 시제품 거래예요. 샘이 다른 거 약속하게 두지 마요.
 
-126. JO: Sign it here, on the hood. That's how we sign things at Furrow.
+126. JO: Sign it here, on the hood, because that's how we sign things at Furrow.
     조: 여기 보닛 위에 서명해요. 퍼로에선 이렇게 서명하거든요.
 
 127. SAM: On the hood of a tractor, with the sun going down behind a cherry orchard.
     샘: 체리 과수원 뒤로 해가 지는데 트랙터 보닛 위에서라니.
 
-128. TYLER: Somebody take a picture. This is a brochure.
+128. TYLER: Somebody take a picture, this is a brochure.
     타일러: 누가 사진 좀 찍어요. 이거 안내 책자감이에요.
 
 129. HAL: My grandfather planted these trees with a horse in nineteen twenty-six, and I'm going to tell him at the cemetery that we're finally getting rid of the diesel.

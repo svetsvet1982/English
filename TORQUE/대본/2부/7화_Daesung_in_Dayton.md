@@ -291,7 +291,7 @@
 092. PARK: 감사합니다, 사장님. Where are you from in Korea?
     박 대표: 감사합니다, 사장님. 한국 어디에서 오셨어요?
 
-093. MRS. CHOI: I'm from Daegu, but it's been thirty years in Ohio now, because my husband worked at the old Delphi plant, and then we opened this restaurant.
+093. MRS. CHOI: I'm from Daegu, but it's been thirty years in Ohio now. My husband worked at the old Delphi plant, and then we opened this restaurant.
     최 사장: 대구요. 근데 이제 오하이오에서 30년이에요. 남편이 옛날 델파이 공장에서 일하다가 이 식당을 차렸어요.
 
 094. SAM: Delphi? I worked at Delphi too until it closed, as a motor engineer.

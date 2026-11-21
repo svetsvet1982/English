@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. DALE: Sam, over here! Watch where you step, that's planted.
+001. DALE: Sam, over here! Watch where you step, because that part's already planted.
     데일: 샘! 이쪽이요! 발밑 조심해요. 거기 심은 데예요.
 
 002. SAM: It just looks like dirt to me, very nice, very flat dirt.
@@ -33,13 +33,13 @@
 006. SAM: And how's our guest doing, the little one from Michigan?
     샘: 그럼 미시간에서 온 작은 손님은 어때요?
 
-007. DALE: Jo's little tractor? Come see. Ruth's been driving it all morning, hauling seed bags from the shed to the planter, and she won't give me a turn.
+007. DALE: Jo's little tractor? Come and see for yourself. Ruth's been driving it all morning, hauling seed bags from the shed to the planter, and she won't give me a turn.
     데일: 조의 작은 트랙터요? 와서 봐요. 루스가 아침 내내 몰고 다니면서 창고에서 파종기까지 씨앗 포대를 나르는데, 나한테 차례를 안 줘요.
 
 008. RUTH: Because you'd drive it like Marge, hard and grumpy, when this one likes to be treated nicely.
     루스: 당신은 마지처럼 거칠고 투덜대면서 몰 거잖아. 이건 다정하게 대해 줘야 좋아해.
 
-009. TYLER: Ruth, how's it handling, honestly? Jo will want a report.
+009. TYLER: Ruth, how's it handling, honestly? Jo's going to want a full report.
     타일러: 루스, 솔직히 운전감은 어때요? 조가 보고를 원할 거예요.
 
 010. RUTH: Like a golf cart that joined the Army. Jo told me you said that, and she was right. It's quiet, I can hear the radio, and my back doesn't hurt.
@@ -48,7 +48,7 @@
 011. SAM: Any codes on the screen?
     샘: 화면에 코드 뜬 거 있어요?
 
-012. DALE: That's the strange thing. I plugged my phone into that little port on the motor like you showed me, and the app tells me things in English.
+012. DALE: That's the strange thing. I plugged my phone into that little port on the motor like you showed me, and now the app tells me things in plain English.
     데일: 그게 이상한 거예요. 당신이 보여 준 대로 모터의 그 작은 포트에 폰을 꽂았더니 앱이 영어로 이것저것 알려 줘요.
 
 013. TYLER: What does it say?
@@ -72,7 +72,7 @@
 019. TYLER: Hey, is it me, or did it get warm really fast? It was cold at lunch.
     타일러: 저만 그래요, 아니면 갑자기 엄청 따뜻해졌어요? 점심땐 추웠는데.
 
-020. RUTH: It's not you. It's seventy-eight degrees in April, with the wind from the south.
+020. RUTH: It's not you. It's seventy-eight degrees in April, with the wind coming from the south.
     루스: 당신만 그런 거 아니에요. 4월에 남풍까지 불면서 화씨 78도예요.
 
 021. DALE: I don't like that sky, so look west.
@@ -81,7 +81,7 @@
 022. SAM: It's really dark over there, and kind of green?
     샘: 저쪽 진짜 어두워요. 그리고 좀 초록색인데요?
 
-023. RUTH: Green is bad. Green means hail, or worse.
+023. RUTH: Green is bad, because green means hail, or worse.
     루스: 초록색은 안 좋아요. 초록색이면 우박이거나 더 나쁜 거예요.
 
 024. TYLER: My phone. Everybody's phone. "Tornado Warning. Story County. Take shelter now in a basement or an interior room."
@@ -93,7 +93,7 @@
 026. SAM: What's the difference, since I'm from Ohio, where we just have snow days?
     샘: 차이가 뭐예요? 전 눈 때문에 휴교하는 날만 있는 오하이오 출신이라서요.
 
-027. RUTH: A watch means it could happen, and a warning means it is happening. Dale, the siren.
+027. RUTH: A watch means it could happen, and a warning means it is happening. Dale, listen to the siren.
     루스: 주의보는 일어날 수도 있다는 거고, 경보는 지금 일어나고 있다는 거예요. 데일, 사이렌.
 
 028. TYLER: Is that the siren from town?
@@ -120,13 +120,13 @@
 035. SAM: Potatoes and tornadoes is the most Iowa sentence I've ever heard.
     샘: 감자랑 토네이도라니, 제가 들어 본 것 중에 제일 아이오와다운 문장이네요.
 
-036. RUTH: Mind the third step. It's been loose since Reagan.
+036. RUTH: Mind the third step, it's been loose since Reagan.
     루스: 세 번째 계단 조심해요. 레이건 때부터 헐거웠거든요.
 
 037. TYLER: I've got the radio. It's saying something about rotation near Highway sixty-five.
     타일러: 라디오 가져왔어요. 65번 고속도로 근처에서 회전이 관측됐다고 하네요.
 
-038. DALE: That's three miles west and moving northeast. Close the door, Tyler, and pull the bar across.
+038. DALE: That's three miles west and moving northeast. Close the door, Tyler, and pull the bar across it.
     데일: 서쪽으로 3마일이고 북동쪽으로 움직이고 있어. 문 닫고 빗장 걸어, 타일러.
 
 039. RUTH: Now we sit, and we listen, and we ride it out. There are candles in the coffee can, and there's pie in the other coffee can. I'm not joking.
@@ -255,7 +255,7 @@
 080. DALE: Ruth Amundsen, honestly.
     데일: 루스 아먼슨, 정말.
 
-081. RUTH: You can be mad later. Right now there's a tornado.
+081. RUTH: You can be mad at me later. Right now there's a tornado.
     루스: 화는 나중에 내. 지금은 토네이도가 있잖아.
 
 082. SAM: Dale, for what it's worth, Ruth asked me the same thing in February that she's asking you now. She asked whether I'd let farmers fix their own machines, and I said I'd try. She doesn't take "no" easily.
@@ -273,7 +273,7 @@
 086. SAM: Is it over, and can we go up and look?
     샘: 끝났어요? 올라가서 봐도 돼요?
 
-087. DALE: Not yet. Sometimes it goes quiet in the middle, the calm before the storm, or the calm inside it. Wait for the radio.
+087. DALE: Not yet. Sometimes it goes quiet in the middle, the calm before the storm, or the calm inside it. We wait for the radio.
     데일: 아직. 가끔 중간에 조용해지거든요. 폭풍 전의 고요거나 폭풍 속의 고요거나. 라디오 기다려요.
 
 088. TYLER: The radio says the warning for our area expires in five minutes. The storm is moving into Hardin County.
@@ -285,10 +285,10 @@
 090. TYLER: Ma'am, this is the best pie I've ever had. Please don't tell Donna.
     타일러: 부인, 이거 제가 먹어 본 파이 중에 최고예요. 도나한테는 말하지 말아 주세요.
 
-091. SAM: There's a pie war, Ruth. Donna in Dayton says her cherry beats your anything.
+091. SAM: There's a pie war going on, Ruth. Donna in Dayton says her cherry beats your anything.
     샘: 파이 전쟁이 났어요, 루스. 데이턴의 도나가 자기 체리 파이가 루스 씨 어떤 파이든 이긴대요.
 
-092. RUTH: Tell Donna to bring it. I'll be waiting.
+092. RUTH: Tell Donna to bring it, and I'll be waiting.
     루스: 도나한테 가져와 보라고 해요. 기다리고 있을게요.
 
 093. DALE: Sam, can I ask you one now?
@@ -306,7 +306,7 @@
 097. DALE: Then we're the same kind of stubborn.
     데일: 그럼 우린 같은 종류의 고집쟁이네요.
 
-098. SAM: Jo would like that. She builds stubborn tractors.
+098. SAM: Jo would like that, since she builds stubborn tractors.
     샘: 조가 좋아하겠네요. 고집 센 트랙터를 만드니까요.
 
 099. TYLER: The radio says the warning's over. All clear for Story County.
@@ -324,7 +324,7 @@
 103. SAM: Dale, look at the roof of the machine shed.
     샘: 데일, 기계 창고 지붕 좀 봐요.
 
-104. DALE: We lost some panels on the east side. Let's look inside, but careful, there's glass.
+104. DALE: We lost some panels on the east side. Let's look inside, but be careful, because there's glass everywhere.
     데일: 동쪽 패널 몇 장이 날아갔네. 안을 보자. 유리 있으니까 조심해요.
 
 105. TYLER: Jo's little tractor is fine, and it's wet, but it's fine.
@@ -342,7 +342,7 @@
 109. RUTH: Dale, the bins are standing, all six of them.
     루스: 데일, 저장통이 서 있어. 여섯 개 다.
 
-110. SAM: Is that the new fan on number four? It's not running.
+110. SAM: Is that the new fan on number four? It doesn't seem to be running.
     샘: 저게 4번 새 팬이에요? 안 돌아가네요.
 
 111. DALE: Nothing's running, because the power's out. Look at the pole by the road, and you'll see the line's down.
@@ -402,10 +402,10 @@
 129. SAM: It turns that generator. Dale, hook it up. Tyler, help me with the cable to the panel. Marlene, is the main switch off?
     샘: 저 발전기를 돌려요. 데일, 연결해요. 타일러, 배전반까지 케이블 같이 끌자. 말린 씨, 주 차단기 내려가 있어요?
 
-130. MARLENE: It's off. Roy did it before the storm, and he's good for that much.
+130. MARLENE: It's off, because Roy did it before the storm. He's good for that much.
     말린: 내려가 있어. 로이가 폭풍 전에 내렸어. 그 정도는 해.
 
-131. DALE: The PTO's connected. Sam, it's your motor, so you start it.
+131. DALE: The PTO's connected. Sam, it's your motor, so you should start it.
     데일: PTO 연결됐어. 샘, 당신 모터니까 당신이 시동 걸어요.
 
 132. SAM: Let's see if it spins.
@@ -417,7 +417,7 @@
 134. MARLENE: The lights! The milk house lights are on! Roy! Roy, start the pump!
     말린: 불! 우유 저장실 불 들어왔어! 로이! 로이, 펌프 돌려!
 
-135. DALE: Listen to that well pump. The water's running.
+135. DALE: Listen to that well pump, the water's running.
     데일: 저 우물 펌프 소리 들어 봐. 물 나온다.
 
 136. MARLENE: The cooler's humming, so the milk is safe. Oh, thank God, and thank Ohio.
@@ -444,19 +444,19 @@
 143. MARLENE: Eight hours gets us through the night and the morning milking, and by then Gene's nephew can bring a generator from the dealer.
     말린: 여덟 시간이면 밤이랑 아침 착유까지 버텨. 그때쯤이면 진 조카가 딜러에서 발전기를 가져올 수 있어.
 
-144. GENE: Kyle's already loading one, since the dealer opened up at midnight. Randy's driving it himself.
+144. GENE: Kyle's already loading one, since the dealer opened up at midnight, and Randy's driving it himself.
     진: 카일이 벌써 하나 싣고 있어. 딜러가 자정에 문 열었고, 랜디가 직접 몰고 온대.
 
 145. SAM: Randy's coming at midnight, after everything?
     샘: 그 일이 다 있었는데 랜디가 자정에 온다고요?
 
-146. DALE: That's Randy. In a storm, there's no Greaves and no Ferrox, there's just neighbors. Neighbors help neighbors.
+146. DALE: That's Randy for you. In a storm, there's no Greaves and no Ferrox, there's just neighbors. Neighbors help neighbors.
     데일: 그게 랜디야. 폭풍 속에선 그리브스도 페록스도 없고 그냥 이웃만 있지. 이웃은 이웃을 돕는 거야.
 
 147. TYLER: Sam, your phone, and it's Jo.
     타일러: 샘, 폰이요. 조예요.
 
-148. JO: Sam, I saw the news about Story County! Is everybody okay? Is my tractor okay?
+148. JO: Sam, I just saw the news about Story County! Is everybody okay, and is my tractor okay?
     조: 샘! 스토리 카운티 뉴스 봤어요. 다들 괜찮아요? 제 트랙터는요?
 
 149. SAM: Everybody's okay and your tractor's fine, and right now it's keeping a hundred and eighty cows cold and watered.

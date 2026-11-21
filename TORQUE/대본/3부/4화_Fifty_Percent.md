@@ -15,17 +15,17 @@
 
 ## 대본
 
-001. EARL: Everybody keep it down, because Gloria's in her office and she just made a noise I've never heard a human being make.
+001. EARL: Everybody keep it down. Gloria's in her office, and she just made a noise I've never heard a human being make.
     얼: 다들 조용히 해. 글로리아가 사무실에 있는데, 방금 사람한테서 처음 듣는 소리를 냈어.
 
-002. PATTY: Was it a scream or a laugh, because with Gloria those sound the same?
+002. PATTY: Was it a scream or a laugh? With Gloria, those sound the same.
     패티: 비명이었어요, 웃음이었어요? 글로리아는 그 두 개가 똑같이 들리거든요.
 
 003. EARL: It was a scream with numbers in it.
     얼: 숫자 섞인 비명이었어.
 
-004. SAM: Morning, everybody, gather around Betsy. Gloria will be out in a minute, because she's having a conversation with the steel tariff.
-    샘: 다들 좋은 아침, 베치 앞으로 모여. 글로리아는 곧 나올 거야. 지금 철강 관세랑 대화 중이거든.
+004. SAM: Morning, everybody, gather around Betsy. Gloria will be out in a minute, she's having a conversation with the steel tariff.
+    샘: 다들 좋은 아침, 베치 앞으로 모여. 글로리아는 곧 나올 거야. 지금 철강 관세랑 대화 중이야.
 
 005. DARNELL: Is it true that it's fifty percent? My brother-in-law works at the steel mill in Middletown, and he's happy because he says they'll hire.
     대넬: 진짜 50퍼센트예요? 매형이 미들타운 제철소에서 일하는데, 사람 뽑을 거라고 좋아하던데요.
@@ -45,17 +45,17 @@
 010. EARL: We've got eight hundred washer motors for Haverford with the truck at two, and forty seat motors for the Atlas tests. Rachel in Detroit wants them in salt spray by Friday.
     얼: 해버퍼드 세탁기 모터 팔백 개고 트럭은 두 시야. 그리고 애틀러스 시험용 시트 모터 마흔 개. 디트로이트의 레이철이 금요일까지 염수 분무 시험에 넣고 싶대.
 
-011. WEN: And don't forget the juice box test, because I bought apple and grape, and grape is more aggressive.
+011. WEN: And don't forget the juice box test. I bought apple and grape, and grape is more aggressive.
     웬: 주스 시험도 잊지 마세요. 사과랑 포도 샀는데, 포도가 더 공격적이에요.
 
 012. DARNELL: Dr. Liu, you're really going to pour juice on a motor on purpose?
     대넬: 리우 박사님, 진짜 모터에 일부러 주스를 붓는다고요?
 
-013. WEN: Yes, on purpose, because children will do it by accident and I'd like to do it first.
+013. WEN: Yes, on purpose. Children will do it by accident, and I'd like to do it first.
     웬: 네, 일부러요. 애들은 실수로 그럴 테니까 제가 먼저 해 보고 싶어요.
 
-014. GLORIA: Okay, I'm here, but nobody look at my face, because I've been up since four doing math.
-    글로리아: 자, 나 왔어. 근데 아무도 내 얼굴 보지 마. 새벽 네 시부터 계산했거든.
+014. GLORIA: Okay, I'm here, but nobody look at my face. I've been up since four doing math.
+    글로리아: 자, 나 왔어. 근데 아무도 내 얼굴 보지 마. 새벽 네 시부터 계산했어.
 
 015. SAM: How bad is it, Gloria? Just give it to me straight.
     샘: 얼마나 나빠요, 글로리아? 돌려 말하지 말고 그냥 말해 줘요.
@@ -66,8 +66,8 @@
 017. TYLER: So it basically doubled overnight.
     타일러: 그러니까 하룻밤에 두 배가 된 거네요.
 
-018. GLORIA: It doubled while we were asleep, baby, which means about forty cents more on every seat motor, just in duty. The stack on a washer motor is bigger, so that's two dollars and thirty-five cents more.
-    글로리아: 우리가 자는 동안 두 배가 됐어, 얘. 시트 모터 하나에 관세만 40센트쯤 더 붙는다는 거야. 세탁기 모터는 스택이 더 크니까 2달러 35센트 더고.
+018. GLORIA: It doubled while we were asleep, baby. That's about forty cents more on every seat motor, just in duty. The stack on a washer motor is bigger, so there it's two dollars and thirty-five cents more.
+    글로리아: 우리가 자는 동안 두 배가 됐어, 얘. 시트 모터 하나에 관세만 40센트쯤 더 붙어. 세탁기 모터는 스택이 더 크니까 2달러 35센트 더고.
 
 019. EARL: Two dollars on a washer motor doesn't sound like the end of the world.
     얼: 세탁기 모터 하나에 2달러면 세상 끝날 일처럼 들리진 않는데.
@@ -81,25 +81,25 @@
 022. WEN: Couldn't we buy American steel instead, like electrical steel from Pittsburgh?
     웬: 대신 미국산 강판, 피츠버그 전기강판 같은 걸 사면 안 돼요?
 
-023. GLORIA: Three Rivers cut us to thirty percent in April, and that's all we get, because Calloway has the rest. Rick Malone told me again last week that it's allocation and there's nothing more until next year.
-    글로리아: 쓰리 리버스는 4월에 우리 물량을 30퍼센트로 깎았고 그게 다야. 나머진 캘러웨이가 갖고 있거든. 릭 말론이 지난주에도 물량 배정이라서 내년까진 더 없다고 그러더라.
+023. GLORIA: Three Rivers cut us to thirty percent in April, and that's all we get. Calloway has the rest. Rick Malone told me again last week that it's allocation and there's nothing more until next year.
+    글로리아: 쓰리 리버스는 4월에 우리 물량을 30퍼센트로 깎았고 그게 다야. 나머진 캘러웨이가 갖고 있어. 릭 말론이 지난주에도 물량 배정이라서 내년까진 더 없다고 그러더라.
 
 024. SAM: And what about everybody else who makes electrical steel in this country?
     샘: 그럼 이 나라에서 전기강판 만드는 다른 데는요?
 
-025. GLORIA: They're full, and everybody who can make it is raising prices, because now they can. That's what a tariff does, it protects the mill, and then the mill charges more.
+025. GLORIA: They're full, and everybody who can make it is raising prices, because now they can. That's what a tariff does. It protects the mill, and then the mill charges more.
     글로리아: 꽉 찼어. 만들 수 있는 데는 다 가격을 올려, 이젠 올려도 되니까. 관세가 원래 그래. 제철소를 보호하고, 그러면 제철소는 값을 더 받지.
 
 026. DARNELL: So my brother-in-law gets a raise, and we pay for it.
     대넬: 그러니까 매형은 월급이 오르고, 그 돈은 우리가 내는 거네요.
 
-027. GLORIA: More or less, honey, because somebody always pays.
-    글로리아: 대충 그래, 얘. 누군가는 항상 내니까.
+027. GLORIA: More or less, honey. Somebody always pays.
+    글로리아: 대충 그래, 얘. 누군가는 항상 내.
 
 028. PATTY: Do we pass it on to Haverford and Atlas?
     패티: 그거 해버퍼드랑 애틀러스한테 넘겨요?
 
-029. GLORIA: Good question, Patty, because that's exactly the question. Haverford's contract says we can adjust for tariffs once a quarter, but Atlas doesn't have a contract yet.
+029. GLORIA: Good question, Patty, that's exactly the question. Haverford's contract says we can adjust for tariffs once a quarter, but Atlas doesn't have a contract yet.
     글로리아: 좋은 질문이야, 패티. 바로 그게 질문이지. 해버퍼드 계약서엔 분기마다 관세만큼 조정할 수 있다고 돼 있는데, 애틀러스는 아직 계약서가 없어.
 
 030. SAM: And Nate's contract said the supplier eats every cost increase.
@@ -114,7 +114,7 @@
 033. GLORIA: Only the ones who needed a loan, baby.
     글로리아: 대출 필요했던 사람들만, 얘.
 
-034. SAM: Okay, everybody, listen up. Prices are going up on some of our materials, but that's not your problem, because your problem is building good motors, and Gloria and I will worry about the steel.
+034. SAM: Okay, everybody, listen up. Prices are going up on some of our materials, but that's not your problem. Your problem is building good motors, and Gloria and I will worry about the steel.
     샘: 좋아, 다들 들어. 자재 일부 가격이 오르고 있는데, 그건 여러분 문제가 아니야. 여러분 문제는 좋은 모터를 만드는 거고, 강판 걱정은 글로리아랑 내가 할게.
 
 035. EARL: And what if the steel gets too expensive?
@@ -132,7 +132,7 @@
 039. DARNELL: Two faces, one news, and I'm stealing that, Patty.
     대넬: 얼굴 두 개, 뉴스 하나. 그 말 훔쳐 갈게요, 패티.
 
-040. PATTY: Take it, because I've got plenty.
+040. PATTY: Take it, I've got plenty.
     패티: 가져가. 나 그런 말 많아.
 
 041. JUDY: Gloria Banks, you look tired, and you look the way everybody in my business looks this month.
@@ -147,7 +147,7 @@
 044. SAM: That's the whole story, four places for one little motor.
     샘: 그게 전부예요. 작은 모터 하나에 네 군데요.
 
-045. JUDY: That's not a story, Mr. Kowalski, that's a paperwork nightmare, so let's walk through it one border at a time.
+045. JUDY: That's not a story, Mr. Kowalski, that's a paperwork nightmare. Let's walk through it one border at a time.
     주디: 그건 이야기가 아니라 서류 악몽이에요, 코왈스키 씨. 국경 하나씩 차근차근 짚어 보죠.
 
 046. SAM: Please do, and call me Sam.
@@ -156,23 +156,23 @@
 047. JUDY: Border one is Korea to Ohio. The laminations come in, Customs calls them steel, and you pay fifty percent duty on the steel value, and duty is just the word we use for a tariff when you're actually paying it.
     주디: 첫 번째 국경은 한국에서 오하이오예요. 라미네이션이 들어오면 세관은 철강이라고 보고, 철강 가치의 50퍼센트를 관세로 내요. '듀티'는 그냥 관세를 실제로 낼 때 쓰는 말이에요.
 
-048. GLORIA: We've got that part, because that's the part that made me scream this morning.
-    글로리아: 그 부분은 알아. 오늘 아침에 나를 비명 지르게 한 게 그 부분이거든.
+048. GLORIA: We've got that part. That's the part that made me scream this morning.
+    글로리아: 그 부분은 알아. 오늘 아침에 나를 비명 지르게 한 게 그 부분이야.
 
-049. JUDY: Border two is Ohio to Mexico, where your motor goes to Brenner's seat plant in Monterrey. Mexico mostly doesn't tax an American motor going into a North American car, so far, so good.
-    주디: 두 번째 국경은 오하이오에서 멕시코예요. 그쪽 모터가 몬테레이의 브레너 시트 공장으로 가요. 북미 차에 들어가는 미국산 모터엔 멕시코가 대체로 관세를 안 매기니까 여기까진 괜찮아요.
+049. JUDY: Border two is Ohio to Mexico, where your motor goes to Brenner's seat plant in Monterrey. Mexico mostly doesn't tax an American motor going into a North American car. So far, so good.
+    주디: 두 번째 국경은 오하이오에서 멕시코예요. 그쪽 모터가 몬테레이의 브레너 시트 공장으로 가요. 북미 차에 들어가는 미국산 모터엔 멕시코가 대체로 관세를 안 매겨요. 여기까진 괜찮아요.
 
 050. WEN: And what happens at border three?
     웬: 그럼 세 번째 국경에선 어떻게 돼요?
 
-051. JUDY: Border three is where it gets interesting, because it's Mexico back to the United States, and now it's not a motor anymore, it's a seat. And since May third, imported auto parts pay a twenty-five percent tariff.
+051. JUDY: Border three is where it gets interesting. It's Mexico back to the United States, and now it's not a motor anymore, it's a seat. And since May third, imported auto parts pay a twenty-five percent tariff.
     주디: 세 번째 국경이 재밌어지는 데예요. 멕시코에서 다시 미국으로 오는데, 이제 모터가 아니라 시트거든요. 그리고 5월 3일부터 수입 자동차 부품에는 25퍼센트 관세가 붙어요.
 
 052. SAM: You mean twenty-five percent on the whole seat?
     샘: 시트 전체에 25퍼센트라는 거예요?
 
-053. JUDY: Yes, unless the seat qualifies under USMCA, which is the trade agreement between us, Mexico, and Canada. Parts that qualify are exempt for now, and "for now" is doing a lot of work in that sentence.
-    주디: 네, 시트가 USMCA 조건을 충족하지 않으면요. 미국, 멕시코, 캐나다 사이의 무역협정이에요. 충족하는 부품은 일단 면제인데, 그 문장에서 '일단'이 아주 많은 일을 하고 있죠.
+053. JUDY: Yes, unless the seat qualifies under USMCA, the trade agreement between us, Mexico, and Canada. Parts that qualify are exempt for now, and "for now" is doing a lot of work in that sentence.
+    주디: 네, 시트가 미국, 멕시코, 캐나다 사이의 무역협정인 USMCA 조건을 충족하지 않으면요. 충족하는 부품은 일단 면제인데, 그 문장에서 '일단'이 아주 많은 일을 하고 있죠.
 
 054. TYLER: And how does a seat qualify?
     타일러: 그럼 시트는 어떻게 충족해요?
@@ -186,8 +186,8 @@
 057. JUDY: For auto parts it depends on the part, and the rules are thick, but the idea is regional content. A big share of the value has to come from North America, meaning the U.S., Mexico, or Canada.
     주디: 자동차 부품은 부품마다 다르고 규정이 두꺼운데, 핵심은 역내 부가가치예요. 가치의 큰 부분이 북미, 그러니까 미국, 멕시코, 캐나다에서 나와야 해요.
 
-058. GLORIA: And what about our motor, which is made in Ohio?
-    글로리아: 그럼 오하이오에서 만드는 우리 모터는?
+058. GLORIA: And what about our motor? It's made in Ohio.
+    글로리아: 그럼 우리 모터는? 오하이오에서 만드는데.
 
 059. JUDY: Your motor is made in Ohio, with laminations from Korea and magnets from where?
     주디: 오하이오에서 만들긴 하는데, 라미네이션은 한국산이고 자석은 어디 거죠?
@@ -207,14 +207,14 @@
 064. SAM: Wait, for every single piece?
     샘: 잠깐, 부품 하나하나 다요?
 
-065. JUDY: For every piece that matters, because Brenner will ask you for it, and Atlas will ask Brenner for it. If Customs ever audits the seat, they'll ask everyone, so keep the paper for five years.
-    주디: 중요한 부품은 전부요. 브레너가 달라고 할 거고, 애틀러스는 브레너한테 달라고 할 거니까요. 세관이 시트를 감사하면 전부한테 달라고 할 테니까 서류는 5년간 보관하세요.
+065. JUDY: For every piece that matters. Brenner will ask you for it, and Atlas will ask Brenner for it. If Customs ever audits the seat, they'll ask everyone, so keep the paper for five years.
+    주디: 중요한 부품은 전부요. 브레너가 달라고 할 거고, 애틀러스는 브레너한테 달라고 할 거예요. 세관이 시트를 감사하면 전부한테 달라고 할 테니까 서류는 5년간 보관하세요.
 
-066. GLORIA: Five years is nothing, honey, because I still have every receipt from nineteen ninety-nine.
+066. GLORIA: Five years is nothing, honey. I still have every receipt from nineteen ninety-nine.
     글로리아: 5년은 아무것도 아니야, 얘. 난 1999년 영수증도 다 갖고 있어.
 
-067. WEN: Here's what I don't understand. Our motor is made in Ohio by people in Ohio, so why is the hardest part proving that it's American?
-    웬: 제가 이해 못 하는 게 있어요. 우리 모터는 오하이오에서 오하이오 사람들이 만드는데, 그게 미국산이라는 걸 증명하는 게 왜 제일 어려워요?
+067. WEN: Here's what I don't understand. Our motor is made in Ohio by people in Ohio. Why is the hardest part proving that it's American?
+    웬: 제가 이해 못 하는 게 있어요. 우리 모터는 오하이오에서 오하이오 사람들이 만들어요. 그게 미국산이라는 걸 증명하는 게 왜 제일 어려워요?
 
 068. JUDY: Because everything is made everywhere now, Dr. Liu, and a car is a passport with wheels. Every part has been on three continents before it gets to the dealer.
     주디: 요즘은 모든 게 모든 데서 만들어지니까요, 리우 박사님. 차는 바퀴 달린 여권이에요. 모든 부품이 대리점에 가기 전에 대륙 세 개를 거쳐요.
@@ -222,13 +222,13 @@
 069. TYLER: A passport with wheels, I really like that.
     타일러: 바퀴 달린 여권이라, 그거 진짜 좋네요.
 
-070. JUDY: You can have it, because I've got a lot of those. Okay, now let's get to the question Gloria really called me about, which is landed cost.
-    주디: 가져가요, 그런 말 많으니까. 자, 이제 글로리아가 진짜 전화한 이유인 도착 원가 얘기를 하죠.
+070. JUDY: You can have it, I've got a lot of those. Okay, now let's get to the question Gloria really called me about, landed cost.
+    주디: 가져가요, 그런 말 많아요. 자, 이제 글로리아가 진짜 전화한 이유, 도착 원가 얘기를 하죠.
 
 071. SAM: And what's landed cost?
     샘: 도착 원가가 뭐예요?
 
-072. JUDY: It's what a thing really costs by the time it lands on your loading dock, which is the price plus shipping, insurance, duty, and my fee. Most people only look at the first number.
+072. JUDY: It's what a thing really costs by the time it lands on your loading dock. That's the price plus shipping, insurance, duty, and my fee, and most people only look at the first number.
     주디: 물건이 그쪽 하역장에 도착했을 때의 진짜 원가예요. 가격에 운송비, 보험료, 관세, 그리고 제 수수료까지 더한 거죠. 대부분은 첫 번째 숫자만 봐요.
 
 073. GLORIA: And what does it look like for the Korean laminations after today?
@@ -252,22 +252,22 @@
 079. GLORIA: Judy, honestly, is there anything we can do this month, not in two years but this month?
     글로리아: 주디, 솔직히 이번 달에 할 수 있는 게 있어? 2년 뒤 말고 이번 달에.
 
-080. JUDY: There are three things. The first one is to make sure the laminations are classified correctly, because sometimes a different code means a different rate, and I'll check, but don't get your hopes up.
+080. JUDY: There are three things. The first one is to make sure the laminations are classified correctly, because sometimes a different code means a different rate. I'll check, but don't get your hopes up.
     주디: 세 가지가 있어요. 첫째는 라미네이션 분류가 맞는지 확인하는 거예요. 코드가 다르면 세율이 다를 때가 있거든요. 확인은 해 볼게요. 근데 기대는 하지 마세요.
 
 081. SAM: And what's the second thing?
     샘: 두 번째는요?
 
-082. JUDY: The second is to add a tariff clause to every new contract, so that if duties go up, the price goes up. Atlas will hate it, but ask anyway.
+082. JUDY: The second is to add a tariff clause to every new contract, so that if duties go up, the price goes up too. Atlas will hate it, but ask anyway.
     주디: 둘째는 새 계약서마다 관세 조항을 넣어서 관세가 오르면 가격도 오르게 하는 거예요. 애틀러스는 싫어하겠지만 그래도 요구하세요.
 
 083. GLORIA: And what's the third?
     글로리아: 세 번째는?
 
-084. JUDY: The third is to get your suppliers to sign certificates of origin now, before Brenner asks, because when Brenner asks, they'll want it in forty-eight hours. Everybody wants everything in forty-eight hours.
-    주디: 셋째는 브레너가 달라기 전에 지금 공급사들한테 원산지 증명서 서명받아 두는 거예요. 브레너가 달라고 할 땐 48시간 안에 달라고 할 거거든요. 다들 뭐든 48시간 안에 달래요.
+084. JUDY: The third is to get your suppliers to sign certificates of origin now, before Brenner asks. When Brenner asks, they'll want it in forty-eight hours, and everybody wants everything in forty-eight hours.
+    주디: 셋째는 브레너가 달라기 전에 지금 공급사들한테 원산지 증명서 서명받아 두는 거예요. 브레너가 달라고 할 땐 48시간 안에 달라고 할 거예요. 다들 뭐든 48시간 안에 달래요.
 
-085. TYLER: I'll take that one, because I'm good at bothering people.
+085. TYLER: I'll take that one. I'm good at bothering people.
     타일러: 그건 제가 맡을게요. 저 사람 귀찮게 하는 거 잘해요.
 
 086. GLORIA: He really is, and he once called my dentist to move my appointment.
@@ -300,7 +300,7 @@
 095. JUDY: Then you hired the right woman.
     주디: 그럼 사람 제대로 뽑았네요.
 
-096. MINJUN: Good morning, Sam, although it's good evening for me, because it's eleven p.m. in Ulsan. I saw the news about steel and couldn't sleep, so I thought we should talk.
+096. MINJUN: Good morning, Sam, although it's good evening for me, since it's eleven p.m. in Ulsan. I saw the news about steel and couldn't sleep, so I thought we should talk.
     민준: 샘, 좋은 아침이에요. 뭐, 울산은 밤 열한 시라 저한텐 좋은 저녁이지만요. 철강 뉴스 보고 잠이 안 와서 얘기나 하자 싶었어요.
 
 097. SAM: Minjun, thank you for staying up so late. Is Seo-yeon asleep?
@@ -312,8 +312,8 @@
 099. WEN: That's the best definition I've heard all day.
     웬: 오늘 들은 정의 중에 최고네요.
 
-100. MINJUN: Wen, you're there too, which is good, because I need both of you. Mr. Park asked me to call, because the steel tariff is a big problem for us, not just with you but with all our American customers.
-    민준: 웬, 거기 있었네요. 잘됐어요, 두 분 다 필요하거든요. 박 대표님이 전화하라고 하셨어요. 철강 관세가 우리한테 큰 문제라서요. 샘 회사만이 아니라 미국 고객 전부랑요.
+100. MINJUN: Wen, you're there too, good, I need both of you. Mr. Park asked me to call. The steel tariff is a big problem for us, not just with you but with all our American customers.
+    민준: 웬, 거기 있었네요. 잘됐어요, 두 분 다 필요해요. 박 대표님이 전화하라고 하셨어요. 철강 관세가 우리한테 큰 문제예요. 샘 회사만이 아니라 미국 고객 전부랑요.
 
 101. SAM: How many American customers do you have right now, Minjun?
     샘: 지금 미국 고객이 몇 군데예요, 민준?
@@ -324,25 +324,25 @@
 103. WEN: Interesting is what people say when they mean small.
     웬: 흥미롭다는 건 작다는 뜻으로 하는 말이죠.
 
-104. MINJUN: In Korean, Mr. Park means it as a compliment, because he thinks your rotor is going to be very important. Okay, here's why I'm calling, Sam, which is that I think we should build a plant in America.
-    민준: 한국어로는 박 대표님이 칭찬으로 하신 말이에요. 샘 회사 로터가 아주 중요해질 거라고 생각하시거든요. 자, 전화한 이유는요, 샘, 미국에 공장을 짓자는 거예요.
+104. MINJUN: In Korean, Mr. Park means it as a compliment. He thinks your rotor is going to be very important. Okay, here's why I'm calling, Sam. I think we should build a plant in America.
+    민준: 한국어로는 박 대표님이 칭찬으로 하신 말이에요. 샘 회사 로터가 아주 중요해질 거라고 생각하세요. 자, 전화한 이유는요, 샘, 미국에 공장을 짓자는 거예요.
 
 105. SAM: You mean a plant here, in America?
     샘: 여기, 미국에 공장을 짓자고요?
 
-106. MINJUN: I mean a lamination plant, with stamping and stacking in the United States. The steel comes in as coil and we cut it here, so our customers stop paying fifty percent on our parts, and this morning made the decision for us.
+106. MINJUN: I mean a lamination plant, stamping and stacking in the United States. The steel comes in as coil and we cut it here, so our customers stop paying fifty percent on our parts. This morning made the decision for us.
     민준: 라미네이션 공장이요. 미국에서 타발하고 적층하는 거죠. 강판은 코일로 들어오고 여기서 자르니까 고객들이 우리 부품에 50퍼센트를 안 내도 돼요. 오늘 아침이 결정을 내려 준 거예요.
 
 107. GLORIA: But the coil would still pay the steel tariff, wouldn't it?
     글로리아: 근데 코일도 철강 관세는 내야 하잖아, 그렇지?
 
-108. MINJUN: Yes, but only until we can buy coil from American mills. And the value we add, the stamping, the stacking, and the people, all of that becomes American, which is the regional content your broker talked about.
+108. MINJUN: Yes, but only until we can buy coil from American mills. And the value we add, the stamping, the stacking, and the people, all of that becomes American. That's the regional content your broker talked about.
     민준: 네, 근데 미국 제철소에서 코일을 살 수 있을 때까지만요. 그리고 우리가 붙이는 가치, 타발, 적층, 사람, 그게 다 미국산이 돼요. 그쪽 관세사가 말한 역내 부가가치죠.
 
-109. SAM: Where would you build it, because Ohio has a lot of empty buildings?
+109. SAM: Where would you build it? Ohio has a lot of empty buildings.
     샘: 어디에 지을 거예요? 오하이오엔 빈 건물이 많은데요.
 
-110. MINJUN: Mr. Park wants Georgia, because our two battery customers are there. There are Korean engineers there, and Korean restaurants and churches, so it's easier for our people to live there.
+110. MINJUN: Mr. Park wants Georgia, because our two battery customers are there. There are Korean engineers, Korean restaurants, and Korean churches, and it's easier for our people to live there.
     민준: 박 대표님은 조지아를 원하세요. 배터리 고객 두 곳이 거기 있거든요. 한국인 엔지니어도, 한국 식당이랑 교회도 있어서 우리 직원들이 살기 편해요.
 
 111. SAM: I was really hoping you'd say Ohio.
@@ -360,29 +360,29 @@
 115. GLORIA: Minjun, honey, I love you, but we don't have money for a plant in Georgia, when we barely have money for steel in Ohio.
     글로리아: 민준, 얘, 사랑하지만 우린 조지아에 공장 지을 돈이 없어. 오하이오에서 강판 살 돈도 겨우 있는데.
 
-116. MINJUN: I know, Gloria, and that's why Mr. Park said seventy-thirty. And honestly, in Korea a partner is not only money, because a partner is someone who stays when it's hard.
+116. MINJUN: I know, Gloria, and that's why Mr. Park said seventy-thirty. And honestly, in Korea a partner is not only money. A partner is someone who stays when it's hard.
     민준: 알아요, 글로리아. 그래서 박 대표님이 7 대 3이라고 하신 거예요. 그리고 솔직히 한국에선 파트너가 돈만은 아니에요. 힘들 때 남아 있는 사람이 파트너예요.
 
 117. SAM: We've had a hard year, and you stayed.
     샘: 우리 힘든 한 해 보냈는데, 민준은 남아 있었잖아요.
 
-118. MINJUN: You stayed too, because when Three Rivers dropped you in March, you could have bought cheap Chinese steel, and you called me instead. Mr. Park remembers that.
+118. MINJUN: You stayed too. When Three Rivers dropped you in March, you could have bought cheap Chinese steel, and you called me instead. Mr. Park remembers that.
     민준: 샘도 남아 있었죠. 3월에 쓰리 리버스가 끊었을 때 싼 중국산 강판을 살 수도 있었는데 대신 저한테 전화했잖아요. 박 대표님은 그걸 기억하세요.
 
 119. WEN: If we said yes, how fast could Daesung build it?
     웬: 우리가 좋다고 하면 대성이 얼마나 빨리 지을 수 있어요?
 
-120. MINJUN: Very fast, because we already looked at land in Georgia last year for another customer. Machines can ship from Ulsan in eight weeks, so we'd start construction by September and start production early next year. Ppalli-ppalli.
-    민준: 아주 빨리요. 작년에 다른 고객 때문에 조지아 땅을 이미 봐 뒀거든요. 기계는 울산에서 8주면 실어 보낼 수 있으니까 9월에 착공하고 내년 초에 생산할 수 있어요. 빨리빨리.
+120. MINJUN: Very fast. We already looked at land in Georgia last year for another customer, and machines can ship from Ulsan in eight weeks. We'd start construction by September and production early next year. Ppalli-ppalli.
+    민준: 아주 빨리요. 작년에 다른 고객 때문에 조지아 땅을 이미 봐 뒀고, 기계는 울산에서 8주면 실어 보낼 수 있어요. 9월에 착공하고 내년 초에 생산할 수 있죠. 빨리빨리.
 
 121. SAM: Ppalli-ppalli.
     샘: 빨리빨리.
 
-122. MINJUN: But carefully, always carefully. Sam, you don't have to answer tonight, because it's eleven thirty here and my wife is giving me a look.
-    민준: 하지만 조심스럽게요, 항상 조심스럽게. 샘, 오늘 밤에 대답 안 해도 돼요. 여긴 열한 시 반이고 아내가 눈치를 주고 있거든요.
+122. MINJUN: But carefully, always carefully. Sam, you don't have to answer tonight. It's eleven thirty here, and my wife is giving me a look.
+    민준: 하지만 조심스럽게요, 항상 조심스럽게. 샘, 오늘 밤에 대답 안 해도 돼요. 여긴 열한 시 반이고 아내가 눈치를 주고 있어요.
 
-123. SAM: Tell her I'm sorry, and tell Mr. Park I'm very interested. Give me a few weeks, because we're in the middle of something with Atlas.
-    샘: 미안하다고 전해 줘요. 그리고 박 대표님께 아주 관심 있다고 전해 줘요. 지금 애틀러스 일을 하는 중이라 몇 주만 시간 주세요.
+123. SAM: Tell her I'm sorry, and tell Mr. Park I'm very interested. Give me a few weeks, though, we're in the middle of something with Atlas.
+    샘: 미안하다고 전해 줘요. 그리고 박 대표님께 아주 관심 있다고 전해 줘요. 근데 지금 애틀러스 일을 하는 중이라 몇 주만 시간 주세요.
 
 124. MINJUN: Atlas Motors, the car company? Wow, okay, that's a big fish. Good night, Sam, good night, Wen, and Gloria, please eat something.
     민준: 애틀러스 모터스요, 그 자동차 회사? 와, 좋아요, 대어네요. 안녕히 주무세요, 샘. 잘 자요, 웬. 글로리아, 뭐 좀 드세요.
@@ -402,16 +402,16 @@
 129. NATE: Atlas will pay for the tooling, and Frank fought for that himself. He said, "If we own it, we pay for it," and I've never heard Frank say that in eleven years.
     네이트: 애틀러스가 금형비를 낸대요. 프랭크가 직접 싸워서 따냈어요. "우리가 가지면 우리가 낸다"고 하더라고요. 11년 동안 프랭크가 그런 말 하는 거 처음 들었어요.
 
-130. GLORIA: That's three hundred eighty thousand dollars, so thank you, Frank.
+130. GLORIA: That's three hundred eighty thousand dollars. Thank you, Frank.
     글로리아: 38만 달러네. 고마워요, 프랭크.
 
-131. NATE: And here's the part you'll hate, which is that thirteen forty is too high, and Frank can live with thirteen ten for the long term. Net ninety stays, because Atlas pays us at ninety, so we pay you at ninety.
+131. NATE: And here's the part you'll hate. Thirteen forty is too high, and Frank can live with thirteen ten for the long term. Net ninety stays, because Atlas pays us at ninety, so we pay you at ninety.
     네이트: 그리고 싫어하실 부분은, 13달러 40센트가 너무 높대요. 프랭크는 장기적으로 13달러 10센트면 괜찮대요. 90일 지급은 그대로예요. 애틀러스가 우리한테 90일에 주니까 우리도 그쪽에 90일에 줘요.
 
 132. SAM: What about the bridge order, the forty thousand?
     샘: 임시 주문은요? 4만 개요?
 
-133. NATE: It's thirteen forty for the bridge, since it's an emergency, and thirteen ten after that. Price-downs start in year two at two percent, not three, which is the best anybody's ever gotten from Frank.
+133. NATE: It's thirteen forty for the bridge, since it's an emergency, and thirteen ten after that. Price-downs start in year two at two percent, not three, and that's the best anybody's ever gotten from Frank.
     네이트: 임시 주문은 비상 상황이니까 13달러 40센트, 그 뒤로는 13달러 10센트예요. 단가 인하는 2년 차부터 3퍼센트 말고 2퍼센트고요. 프랭크한테서 누가 받아 낸 것 중에 최고예요.
 
 134. GLORIA: And what about the tariff clause, if steel goes up again?
@@ -438,19 +438,19 @@
 141. TYLER: So it's nearshoring, not offshoring.
     타일러: 그러니까 오프쇼어링이 아니라 니어쇼어링이네요.
 
-142. NATE: Exactly, because offshoring is China and nearshoring is next door. Come down next week, and I'll introduce you to a man named Alejandro Garza, who runs a contract factory here and is the best in Monterrey.
-    네이트: 바로 그거예요. 오프쇼어링은 중국이고 니어쇼어링은 옆집이죠. 다음 주에 내려오세요. 알레한드로 가르사라는 사람 소개해 드릴게요. 여기서 위탁 생산 공장을 운영하는데 몬테레이 최고예요.
+142. NATE: Exactly. Offshoring is China, and nearshoring is next door. Come down next week, and I'll introduce you to Alejandro Garza, who runs a contract factory here. He's the best in Monterrey.
+    네이트: 바로 그거예요. 오프쇼어링은 중국이고 니어쇼어링은 옆집이죠. 다음 주에 내려오세요. 여기서 위탁 생산 공장을 운영하는 알레한드로 가르사를 소개해 드릴게요. 몬테레이 최고예요.
 
 143. SAM: Nate, is this a condition for the contract?
     샘: 네이트, 이게 계약 조건이에요?
 
-144. NATE: It's not a condition, it's a suggestion from a friend. But I'll be honest, which is that if the tariffs change again, the supplier in Mexico has an advantage over the supplier in Ohio, and I'd rather my friend be in Mexico.
+144. NATE: It's not a condition, it's a suggestion from a friend. But I'll be honest. If the tariffs change again, the supplier in Mexico has an advantage over the supplier in Ohio, and I'd rather my friend be in Mexico.
     네이트: 조건 아니에요. 친구로서 하는 제안이죠. 근데 솔직히 말할게요. 관세가 또 바뀌면 멕시코 협력사가 오하이오 협력사보다 유리해요. 전 제 친구가 멕시코에 있었으면 좋겠어요.
 
 145. SAM: I'll come and look, but that's all I can promise.
     샘: 가서 볼게요. 근데 약속할 수 있는 건 그게 다예요.
 
-146. NATE: That's all I'm asking, so bring sunscreen, because it's a hundred and two degrees here.
+146. NATE: That's all I'm asking. Bring sunscreen, it's a hundred and two degrees here.
     네이트: 제가 바라는 것도 그게 다예요. 선크림 챙기세요. 여기 화씨 102도예요.
 
 147. EARL: Sam, kid, look at me. I watched them move Moraine's work away one line at a time, and it always started with "just a suggestion."

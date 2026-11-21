@@ -54,7 +54,7 @@
 013. SAM: "Liberty Rotor Systems. One hundred percent American. Proudly made in Alabama," and there's a giant eagle.
     샘: "리버티 로터 시스템즈. 100퍼센트 미국산. 자랑스러운 앨라배마산." 거대한 독수리까지 있네.
 
-014. MARCUS: The eagle has a motor in its claws. That's a little much.
+014. MARCUS: The eagle has a motor in its claws, and that's a little much.
     마커스: 독수리 발톱에 모터가 있어요. 좀 과하네요.
 
 015. WEN: Look at their price sign, which says, "Drone motor, eighty-nine dollars. In stock. Ships tomorrow."
@@ -69,7 +69,7 @@
 018. TYLER: Last year, Liberty Rotor didn't exist. I checked, and they registered the company in March.
     타일러: 작년엔 리버티 로터라는 회사가 없었어요. 확인했어요. 3월에 회사 등록했더라고요.
 
-019. SAM: That's the same month China started squeezing magnets. Interesting timing.
+019. SAM: That's the same month China started squeezing magnets, which is interesting timing.
     샘: 중국이 자석을 조이기 시작한 그달이네. 타이밍 재밌다.
 
 020. WEN: In this industry, there are no coincidences. Only supply chains.
@@ -153,7 +153,7 @@
 046. SAM: You're letting go of the controls?
     샘: 조종간을 놓는다고?
 
-047. WEN: He's right. Governor sees the vibration on motor three, so it will lower motor three, raise motor one, and protect the balance. Then it lands itself. Watch.
+047. WEN: He's right. Governor sees the vibration on motor three, so it will lower motor three, raise motor one, and protect the balance, and then it lands itself. Watch.
     웬: 타일러 말이 맞아요. 거버너가 3번 진동을 감지해서, 3번은 낮추고 1번은 올려서 균형을 지켜요. 그다음 스스로 착륙해요. 보세요.
 
 048. MARCUS: Motor three is at twenty percent and motor one is at seventy-five. It's stable and coming down slowly, ten feet, five feet.
@@ -210,7 +210,7 @@
 065. MARCUS: Page forty-one, and I read it four times.
     마커스: 41쪽이요. 네 번 읽었어요.
 
-066. TYLER: Bringing it home, and it's landed. Thank you, everybody.
+066. TYLER: Bringing it home, and it's landed, thank you, everybody.
     타일러: 복귀합니다. 착륙했습니다. 감사합니다, 여러분.
 
 067. SAM: They're clapping, Tyler, and the generals are clapping.
@@ -228,7 +228,7 @@
 071. LINDA: Mr. Novak, that was good flying and good judgment. You let the system do its job, and most pilots don't trust the system.
     린다: 노박 씨, 비행도 판단도 좋았어요. 시스템이 제 일을 하게 두셨죠. 대부분 조종사는 시스템을 안 믿어요.
 
-072. TYLER: I trust Dr. Liu's system. That's different.
+072. TYLER: I trust Dr. Liu's system, and that's different.
     타일러: 전 리우 박사님의 시스템을 믿는 거예요. 그건 다르죠.
 
 073. LINDA: I'll remember that. Mr. Kowalski, I'm going to say something unofficial, and then I'm going to deny I said it.
@@ -252,7 +252,7 @@
 079. WEN: Fifty thousand, when you started the company in March.
     웬: 5만 개요? 회사를 3월에 세우셨는데.
 
-080. BRETT: We move fast, ma'am. That's the American way.
+080. BRETT: We move fast, ma'am, that's the American way.
     브렛: 저흰 빠릅니다, 부인. 그게 미국식이죠.
 
 081. WEN: Where do your magnets come from?
@@ -261,7 +261,7 @@
 082. BRETT: We source globally and assemble locally. Every motor is assembled right here in Alabama by twenty-two American workers.
     브렛: 원료는 세계에서, 조립은 현지에서요. 모든 모터를 여기 앨라배마에서 미국인 노동자 스물두 명이 조립합니다.
 
-083. WEN: "Source globally," you said. Which part of the globe?
+083. WEN: "Source globally," you said, but which part of the globe?
     웬: "세계에서"라고 하셨는데, 세계 어디요?
 
 084. BRETT: Ma'am, that's proprietary, and I'm sure you understand. Here, take a free sample, on the house, and show it to your engineers.
@@ -273,7 +273,7 @@
 086. BRETT: Then you're going to love it, ma'am.
     브렛: 그럼 엄청 마음에 드실 겁니다.
 
-087. SAM: He gave us a free sample. Either he's very confident or very stupid.
+087. SAM: He gave us a free sample, so either he's very confident or very stupid.
     샘: 공짜 샘플을 줬어. 엄청 자신 있거나 엄청 멍청하거나지.
 
 088. MARCUS: Or he thinks nobody actually opens them.
@@ -303,10 +303,10 @@
 096. SAM: So the motor is made in China, and they put it in an American box in Alabama.
     샘: 그러니까 모터는 중국산인데, 앨라배마에서 미국 상자에 넣은 거네.
 
-097. WEN: It's worse than that. Look at the bearing and read the label.
+097. WEN: It's worse than that, look at the bearing and read the label.
     웬: 그보다 더 나빠요. 베어링 보세요. 라벨 읽어 봐요.
 
-098. SAM: It says "Precison," P-R-E-C-I-S-O-N. They spelled precision wrong.
+098. SAM: It says "Precison," P-R-E-C-I-S-O-N, so they spelled precision wrong.
     샘: "Precison." P-R-E-C-I-S-O-N. 프리시전 철자가 틀렸어.
 
 099. MARCUS: Is that bad, I mean, besides the spelling?
@@ -345,7 +345,7 @@
 110. WEN: Then we do it the right way, with photos with time stamps, the receipt that says "free sample," and the serial number, and Ben writes the letter with no adjectives.
     웬: 그럼 제대로 해요. 시간 찍힌 사진, "무료 샘플"이라고 적힌 영수증, 일련번호. 편지는 벤이 쓰고, 형용사는 빼고요.
 
-111. SAM: No adjectives. Gloria's training is working on all of us.
+111. SAM: No adjectives, Gloria's training is working on all of us.
     샘: 형용사 금지라. 글로리아 교육이 다들 먹히고 있네.
 
 112. MARCUS: Sam, one more thing. There are fifty thousand motors in Decatur, so who's buying them?
@@ -378,7 +378,7 @@
 121. SAM: I've been in defense for one month, and slow and boring sounds right.
     샘: 국방 일 한 지 한 달인데, 느리고 지루한 건 맞네요.
 
-122. JULIAN: I watched your demo. Most founders would have panicked when that prop cracked, but your guy let go of the controls, and your engineer called the problem in two seconds. That's a team.
+122. JULIAN: I watched your demo, and most founders would have panicked when that prop cracked. But your guy let go of the controls, and your engineer called the problem in two seconds. That's a team.
     줄리언: 시연 봤어요. 프로펠러 금 갔을 때 대부분 창업자는 당황했을 거예요. 근데 그쪽 조종사는 조종간을 놓았고, 엔지니어는 2초 만에 문제를 짚었죠. 그게 팀이에요.
 
 123. SAM: That's Tyler and Wen, and I just stand there and nod.
@@ -411,13 +411,13 @@
 132. JULIAN: I'm honest about one thing. In this market, speed is a strategy. The companies that win the next five years will be the ones that get big fast, while slow companies get bought or copied.
     줄리언: 한 가지엔 솔직하죠. 이 시장에선 속도가 전략이에요. 앞으로 5년을 이기는 회사는 빨리 커지는 회사예요. 느린 회사는 팔리거나 베껴지죠.
 
-133. SAM: We've already been copied. That's why I have a lawyer.
+133. SAM: We've already been copied, that's why I have a lawyer.
     샘: 우린 이미 베껴졌어요. 그래서 변호사가 있죠.
 
 134. JULIAN: Calloway, I know. I read the complaint, and it's a good complaint. Your lawyer writes like he's angry.
     줄리언: 캘러웨이죠. 알아요. 소장 읽었어요. 잘 쓴 소장이에요. 변호사가 화난 사람처럼 쓰더군요.
 
-135. SAM: He's always angry. It's his best quality.
+135. SAM: He's always angry, and it's his best quality.
     샘: 그 사람은 늘 화나 있어요. 그게 최고 장점이죠.
 
 136. JULIAN: Then let me ask you one question, which you don't have to answer. Ten years from now, what is Ferrox, a motor company or something bigger?
@@ -444,10 +444,10 @@
 143. SAM: I'll keep it, although I don't know if I'll call.
     샘: 갖고는 있을게요. 전화할지는 모르겠지만.
 
-144. JULIAN: Nobody knows. That's why it's called venture. Good night, Sam, and congratulations on not crashing.
+144. JULIAN: Nobody knows, that's why it's called venture. Good night, Sam, and congratulations on not crashing.
     줄리언: 아무도 몰라요. 그래서 벤처라고 하죠. 잘 자요, 샘. 추락 안 한 거 축하해요.
 
-145. TYLER: Sam, there you are! Who was that guy? He had very expensive shoes.
+145. TYLER: Sam, there you are! Who was that guy with the very expensive shoes?
     타일러: 샘, 여기 계셨네요! 저 사람 누구예요? 구두가 엄청 비싸 보이던데요.
 
 146. SAM: He's a venture capitalist who gave me his card and didn't ask for anything, and I don't trust it.
@@ -462,7 +462,7 @@
 149. TYLER: I know. I told him, "Sir, let us finish what we started," and he said, "Good answer. That's the first time you've ever said that to me."
     타일러: 알아요. 그래서 "대대장님, 시작한 거 먼저 끝내겠습니다" 했더니, "좋은 대답이다. 네가 나한테 그런 말 한 건 처음이다" 하시더라고요.
 
-150. SAM: He's right. Let's go home and finish what we started. Let's see if it spins.
+150. SAM: He's right, so let's go home and finish what we started. Let's see if it spins.
     샘: 그분 말이 맞아. 집에 가서 시작한 거 끝내자. 일단 돌려 보자.
 
 ---

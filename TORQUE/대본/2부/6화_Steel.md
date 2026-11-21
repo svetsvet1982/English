@@ -219,7 +219,7 @@
 068. SAM: Forty percent? Why would American steel go up because of a tariff on foreign steel?
     샘: 40퍼센트요? 외국 강판에 관세 붙는데 왜 미국 강판이 올라요?
 
-069. RICK: Because when imported steel gets twenty-five percent more expensive, American mills don't have to be cheap anymore, so we can raise prices, and you'll still pay, because the other option is worse.
+069. RICK: Because when imported steel gets twenty-five percent more expensive, American mills don't have to be cheap anymore. We can raise prices, and you'll still pay, because the other option is worse.
     릭: 수입 강판이 25퍼센트 비싸지면 미국 공장들은 더 이상 싸게 팔 필요가 없거든요. 가격을 올려도 그쪽은 낼 거예요, 다른 선택지가 더 나쁘니까요.
 
 070. WEN: So the tariff protects your mill, and the customer pays for the protection.
