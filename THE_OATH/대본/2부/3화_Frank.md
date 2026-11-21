@@ -23,8 +23,8 @@
 003. FRANK: On a boat, seven means six thirty, except for lawyers. Sit down, but not there, because that's bait.
     프랭크: 배에선 일곱 시면 여섯 시 반이야. 변호사만 빼고. 앉아. 거기 말고, 거긴 미끼야.
 
-004. DAN: With respect, Detective, your boat is sitting on land in a parking lot.
-    댄: 외람되지만, 형사님, 배가 주차장 땅바닥에 있는데요.
+004. DAN: With respect, Mr. DeLuca, your boat is sitting on land in a parking lot.
+    댄: 외람되지만, 데루카 씨, 배가 주차장 땅바닥에 있는데요.
 
 005. FRANK: It's January, so she sleeps on land in winter, like a bear. Do you want some coffee?
     프랭크: 1월이잖아. 겨울엔 곰처럼 땅에서 자. 커피 좀 줄까?
@@ -47,8 +47,8 @@
 011. FRANK: It was the biggest fish of my whole life, I swear.
     프랭크: 내 평생 제일 큰 놈이었어, 맹세해.
 
-012. DAN: Detective, striped bass season in New York closed on December fifteenth, so if you caught one yesterday, you either threw it back or you broke the law.
-    댄: 형사님, 뉴욕 줄무늬농어 시즌은 12월 15일에 끝났어요. 어제 잡으셨다면 놓아주셨거나 법을 어기신 거죠.
+012. DAN: Mr. DeLuca, striped bass season in New York closed on December fifteenth, so if you caught one yesterday, you either threw it back or you broke the law.
+    댄: 데루카 씨, 뉴욕 줄무늬농어 시즌은 12월 15일에 끝났어요. 어제 잡으셨다면 놓아주셨거나 법을 어기신 거죠.
 
 013. FRANK: Or?
     프랭크: 아니면?
@@ -164,8 +164,8 @@
 050. DAN: I heard that, Mrs. DeLuca, every word, even though he's holding the phone far away.
     댄: 다 들었어요, 데루카 부인. 한 마디도 안 빼고요. 전화기를 멀리 들고 계신데도요.
 
-051. ANGIE: That's good to hear. He's been home for eight years, and he reorganized my spice cabinet twice, alphabetically, so please take him.
-    앤지: 잘됐네요. 이 사람 집에 있은 지 8년이에요. 내 양념장을 두 번이나 정리했어요, 알파벳순으로. 그러니 제발 데려가요.
+051. ANGIE: That's good to hear. He's been home for eight years, Mr. Reardon, and he reorganized my spice cabinet twice, alphabetically, so please take him.
+    앤지: 잘됐네요. 이 사람 집에 있은 지 8년이에요, 레이든 씨. 내 양념장을 두 번이나 정리했어요, 알파벳순으로. 그러니 제발 데려가요.
 
 052. FRANK: She exaggerates, because it was only once, and the second time was by color.
     프랭크: 과장이야. 한 번뿐이었어. 두 번째는 색깔별이었고.
@@ -182,8 +182,8 @@
 056. FRANK: That's why I want to meet her. I want to see her up close.
     프랭크: 그러니까 보고 싶은 거지. 가까이서 보고 싶어.
 
-057. MARISOL: You must be the detective, so welcome to the office. The elevator is broken, the heat is a concept, and Ruth is waiting for you.
-    마리솔: 형사님이시죠, 사무실에 오신 걸 환영해요. 엘리베이터는 고장이고, 난방은 개념이고, 루스가 기다리고 있어요.
+057. MARISOL: Mr. DeLuca? You must be the detective, so welcome to the office. The elevator is broken, the heat is a concept, and Ruth is waiting for you.
+    마리솔: 데루카 씨? 형사님이시죠, 사무실에 오신 걸 환영해요. 엘리베이터는 고장이고, 난방은 개념이고, 루스가 기다리고 있어요.
 
 058. FRANK: The heat is a what?
     프랭크: 난방이 뭐라고?
@@ -329,8 +329,8 @@
 105. ODELL: There was a fight in the yard last night. When there's a fight, everybody stays in their cells until the captain says otherwise. Could be a day. Could be a week.
     오델: 어젯밤에 운동장에서 싸움이 났어요. 싸움이 나면 대장이 풀라고 할 때까지 전원 감방에 있어요. 하루일 수도 있고, 일주일일 수도 있어요.
 
-106. DAN: Is Eli Ward all right? Was he involved in the fight at all?
-    댄: 일라이 워드는 괜찮아요? 싸움에 연루되기라도 했어요?
+106. DAN: Is Mr. Ward all right? Was he involved in the fight at all?
+    댄: 워드 씨는 괜찮아요? 싸움에 연루되기라도 했어요?
 
 107. ODELL: I can't tell you that, but I can tell you Ward's not the type. He runs the law library on C block, and he's a quiet guy.
     오델: 그건 말 못 해요. 근데 워드는 그런 타입 아니라는 건 말할 수 있어요. C동 법률 도서관을 맡고 있는 조용한 친구예요.
@@ -422,8 +422,8 @@
 136. ODELL: Counselor? You're still here?
     오델: 변호사님? 아직 계셨어요?
 
-137. DAN: We were just leaving. Sergeant, could you get this note to Eli Ward? It's not legal advice, just the date.
-    댄: 막 가려던 참이에요. 경사님, 이 쪽지 일라이 워드한테 전해 줄 수 있어요? 법률 조언 아니고 그냥 날짜예요.
+137. DAN: We were just leaving. Sergeant, could you get this note to Mr. Ward? It's not legal advice, just the date.
+    댄: 막 가려던 참이에요. 경사님, 이 쪽지 워드 씨한테 전해 줄 수 있어요? 법률 조언 아니고 그냥 날짜예요.
 
 138. ODELL: I'll put it in with his mail tonight, and he'll want it, because he's been asking every guard on C block if a lawyer named Reardon called.
     오델: 오늘 밤 우편물에 넣어 둘게요. 반가워할 거예요. C동 교도관 전부한테 레이든이라는 변호사한테서 연락 왔냐고 묻고 다녔거든요.
