@@ -30,16 +30,16 @@
 005. EARL: Sometimes nothing is the loudest thing in the room.
     얼: 가끔은 아무것도 없는 게 방에서 제일 시끄러운 거야.
 
-006. BEN: Sam, it's Ben, and of course you're awake, so listen to me very carefully. The review period ended at midnight, and the administration did not disapprove, which means it's final.
+006. BEN: Sam, it's Ben. Of course you're awake, so listen to me very carefully. The review period ended at midnight, and the administration did not disapprove, which means it's final.
     벤: 벤: 샘, 벤이야. 당연히 깨어 있겠지. 잘 들어. 심사 기간이 자정에 끝났고, 행정부가 거부하지 않았어. 확정이란 얘기야.
 
-007. SAM: Say it one more time, Ben, and slowly, because Earl's here with me.
+007. SAM: Say it one more time, Ben, and slowly. Earl's here with me.
     샘: 샘: 한 번만 더 말해 줘요, 벤, 천천히요. 얼도 여기 있어요.
 
 008. BEN: The exclusion order is in effect. As of this morning, every EverSpin motor, and every product with one inside, is banned from import into the United States, and since Customs has the order, they'll stop it at the border.
     벤: 벤: 수입배제명령이 발효됐어. 오늘 아침부터 모든 에버스핀 모터, 그리고 그게 들어간 모든 제품은 미국 수입이 금지야. 세관이 명령을 받았으니까 국경에서 막을 거야.
 
-009. EARL: Ben, explain this to an old man, because nobody signed anything, and the President didn't say yes?
+009. EARL: Ben, explain this to an old man. Nobody signed anything, and the President didn't say yes?
     얼: 얼: 벤, 늙은이한테 설명 좀 해 줘. 아무도 서명 안 하고 대통령이 좋다고도 안 했는데?
 
 010. BEN: He didn't have to say yes, Earl. In plain English, the law gives the White House sixty days to say no, and if they stay quiet, the order becomes final, so silence is a yes.
@@ -54,16 +54,16 @@
 013. SAM: You mean EverSpin 2.
     샘: 샘: 에버스핀 2 말이죠.
 
-014. BEN: EverSpin 2, which Wen will have to look at. But today, Sam, today you won, and I promised myself two drinks tonight, so I'm keeping that promise.
+014. BEN: EverSpin 2, which Wen will have to look at. But today, Sam, today you won. I promised myself two drinks tonight, and I'm keeping that promise.
     벤: 벤: 에버스핀 2, 웬이 봐야 할 거야. 근데 오늘은, 샘, 오늘은 네가 이겼어. 오늘 밤 두 잔 하기로 나 자신이랑 약속했으니까 그 약속 지킬 거야.
 
 015. SAM: Thank you, Ben, for three years, and for the stairs.
     샘: 샘: 고마워요, 벤, 3년 동안, 그 계단까지.
 
-016. BEN: The third step's still loose, because the bakery won't fix it. Now go tell your people.
+016. BEN: The third step's still loose, and the bakery won't fix it. Now go tell your people.
     벤: 벤: 세 번째 계단 아직 헐거워, 빵집이 안 고쳐 줘서. 이제 가서 직원들한테 말해.
 
-017. GLORIA: Okay, okay, everybody gather around Betsy, come on! Patty, put down the coffee, and Darnell, your hat's on backwards, because Sam has something to say.
+017. GLORIA: Okay, okay, everybody gather around Betsy, come on! Patty, put down the coffee, and Darnell, your hat's on backwards. Sam has something to say.
     글로리아: 글로리아: 자, 자, 다들 베치 앞으로 모여, 어서! 패티, 커피 내려놓고, 대넬, 모자 거꾸로 썼어. 샘이 할 말이 있대.
 
 018. SAM: Morning, everybody. I know most of you already saw the news on your phones, but I want to say it here, in front of Betsy, because this is where it started.
@@ -84,10 +84,10 @@
 023. DARNELL: Three years, man. I was an apprentice when they came for Kevin, and now I'm on a fan line with forty people.
     대넬: 대넬: 3년이야, 와. 케빈 데려갔을 때 난 견습생이었는데, 지금은 마흔 명 있는 팬 라인에 있어.
 
-024. SAM: I want to say one more thing before the bell wears out, which is that this isn't a win against Calloway's workers. There are eleven hundred people in Saltillo, Mexico, who built those motors, and they didn't steal anything, somebody in Charlotte did.
+024. SAM: I want to say one more thing before the bell wears out. This isn't a win against Calloway's workers. There are eleven hundred people in Saltillo, Mexico, who built those motors, and they didn't steal anything. Somebody in Charlotte did.
     샘: 샘: 종이 닳기 전에 하나만 더 말할게. 이건 캘러웨이 노동자들을 이긴 게 아니야. 멕시코 살티요에서 그 모터를 만든 사람이 천백 명 있는데, 그 사람들은 아무것도 안 훔쳤어. 샬럿의 누군가가 훔쳤지.
 
-025. EARL: He's right, because I know what it's like to build something good and get a memo.
+025. EARL: He's right. I know what it's like to build something good and get a memo.
     얼: 얼: 샘 말이 맞아. 좋은 걸 만들고 나서 메모 한 장 받는 게 어떤 건지 난 알거든.
 
 026. GLORIA: Okay, before we all cry, everybody look at the board.
@@ -96,7 +96,7 @@
 027. TYLER: It's in green marker, "Exclusion: in effect. May 17," and underneath, "Runway: 36 weeks." Gloria, that's the most green I've ever seen on that board.
     타일러: 타일러: 초록 마커로 "수입배제: 발효. 5월 17일," 그리고 밑에 "런웨이: 36주." 글로리아, 저 칠판에 초록색이 이렇게 많은 건 처음 봐요.
 
-028. GLORIA: Don't get used to it, baby, because green is a mood, and black is the math.
+028. GLORIA: Don't get used to it, baby. Green is a mood, and black is the math.
     글로리아: 글로리아: 익숙해지지 마, 얘. 초록은 기분이고, 검정이 수학이야.
 
 029. SAM: Okay, last thing, we've got new faces this morning, since our summer co-op students start today. Wen, do you want to introduce them?
@@ -108,7 +108,7 @@
 031. EARL: Lily Kowalski, that sounds familiar. Are you related to anybody here?
     얼: 얼: 릴리 코왈스키라, 어디서 들어 본 이름인데. 여기 누구랑 친척이야?
 
-032. LILY: I don't think so, Earl, I mean, Mr. Washington, because I've never seen these people before in my life.
+032. LILY: I don't think so, Earl, I mean, Mr. Washington. I've never seen these people before in my life.
     릴리: 릴리: 아닌 것 같은데요, 얼, 아니, 워싱턴 씨. 이분들 태어나서 처음 보거든요.
 
 033. DARNELL: She's even got a name tag that says "L. Kowalski," and Lily, you used to ride around this floor on a pallet jack.
@@ -135,13 +135,13 @@
 040. LILY: Yes, Dr. Liu, understood.
     릴리: 릴리: 네, 리우 박사님, 알겠습니다.
 
-041. TYLER: Sam, the phones started at eight-oh-one, and I've got a list, so do you want the good ones or the weird ones first?
+041. TYLER: Sam, the phones started at eight-oh-one, and I've got a list. Do you want the good ones or the weird ones first?
     타일러: 타일러: 대표님, 전화가 8시 1분부터 울리기 시작해서 목록 있어요. 좋은 거 먼저 들으실래요, 이상한 거 먼저 들으실래요?
 
 042. SAM: Give me the facts first, like what's happening at the border.
     샘: 샘: 사실부터 줘, 국경에서 무슨 일이 일어나고 있는지.
 
-043. TYLER: Megan says six trucks from Saltillo were turned back at Laredo this morning, because Customs had the motor part numbers on a list, and two more trucks just sat there with their engines running.
+043. TYLER: Megan says six trucks from Saltillo were turned back at Laredo this morning. Customs had the motor part numbers on a list, and two more trucks just sat there with their engines running.
     타일러: 타일러: 메건 말로는 오늘 아침 살티요에서 온 트럭 여섯 대가 라레도에서 돌려보내졌대요. 세관 목록에 모터 부품 번호가 있었고, 두 대는 시동 켜 놓고 그냥 서 있었대요.
 
 044. SAM: What about the products already in this country?
@@ -150,7 +150,7 @@
 045. GLORIA: That's the cease and desist part, which means Calloway can't sell what's sitting in its own warehouses. But a store that already bought a Stryde drill can still sell it.
     글로리아: 글로리아: 그게 중지명령 부분이야. 캘러웨이는 자기 창고에 있는 걸 못 판다는 거지. 근데 이미 스트라이드 드릴을 산 매장은 그걸 계속 팔 수 있어.
 
-046. TYLER: Calloway put out a statement at eight-thirty, so do you want me to read it?
+046. TYLER: Calloway put out a statement at eight-thirty. Do you want me to read it?
     타일러: 타일러: 캘러웨이가 8시 반에 성명을 냈는데, 읽어 드릴까요?
 
 047. SAM: Yeah, go ahead and read it.
@@ -174,7 +174,7 @@
 053. SAM: I noticed, since I was up all night listening to it.
     샘: 샘: 눈치챘어요, 밤새 그 조용함을 듣고 있었으니까요.
 
-054. KAYLA: Calloway's people had meetings at the Trade Representative's office until Friday afternoon, and they tried everything, defense, jobs, cheap tools for working families. And the answer was nothing, which is a big deal.
+054. KAYLA: Calloway's people had meetings at the Trade Representative's office until Friday afternoon, and they tried everything, defense, jobs, cheap tools for working families. The answer was nothing, and that's a big deal.
     케일라: 케일라: 캘러웨이 쪽 사람들이 금요일 오후까지 무역대표부 사무실에서 미팅을 했는데, 국방, 일자리, 일하는 가정을 위한 싼 공구까지 다 해 봤어요. 그리고 답은 아무것도 없음이었는데, 그거 큰일이에요.
 
 055. SAM: Why do you think they stayed out of it?
@@ -186,13 +186,13 @@
 057. SAM: But I didn't pick the timing.
     샘: 샘: 근데 내가 타이밍을 고른 게 아닌데요.
 
-058. KAYLA: Nobody does, but the smart ones just use it. The hearing's June ninth, and Theo sent the formal letter this morning, so bring a tie.
+058. KAYLA: Nobody does, but the smart ones just use it. The hearing's June ninth, and Theo sent the formal letter this morning. Bring a tie.
     케일라: 케일라: 아무도 안 골라요, 똑똑한 사람은 그냥 이용하죠. 청문회는 6월 9일이고, 테오가 오늘 아침 정식 서한을 보냈으니까 넥타이 챙겨요.
 
 059. TYLER: Okay, now the weird ones, starting with a reporter from a Charlotte TV station who wants to know if you're "happy that Carolina jobs are at risk."
     타일러: 타일러: 좋아요, 이제 이상한 거요. 먼저 샬럿 TV 기자가 "캐롤라이나 일자리가 위험해져서 기쁘냐"고 묻고 싶대요.
 
-060. SAM: Tell her the truth, which is no, I'm not happy about that. I'm happy about the law, and those are different things.
+060. SAM: Tell her the truth. No, I'm not happy about that. I'm happy about the law, and those are different things.
     샘: 샘: 사실대로 말해, 아니라고, 그건 기쁘지 않다고. 법이 지켜진 게 기쁜 거고, 그 둘은 다른 거야.
 
 061. JAYDEN: My uncle texted me to say it's a good day for Ohio, but now drills will cost more at Hammerline, and he wants to know if that's true.
@@ -204,52 +204,52 @@
 063. DARNELL: And it'll last longer than three days without smoking.
     대넬: 그리고 사흘 만에 연기 안 나고 더 오래가겠지.
 
-064. GLORIA: That's true too, Jayden, and both things are true, so tell your uncle both.
+064. GLORIA: That's true too, Jayden. Both things are true, so tell your uncle both.
     글로리아: 글로리아: 그것도 맞아, 제이든. 둘 다 사실이니까 삼촌한테 둘 다 말해 드려.
 
-065. MEGAN: Sam, it's Megan Cho, and I'm writing about today, so can I quote you on something?
+065. MEGAN: Sam, it's Megan Cho. I'm writing about today, so can I quote you on something?
     메건: 메건: 샘, 메건 조예요. 오늘 일에 대해 쓰고 있는데, 한마디 인용해도 될까요?
 
 066. SAM: That depends on the question, Megan.
     샘: 샘: 질문에 따라 달라요, 메건.
 
-067. MEGAN: Three years ago you were thirty-eight people and a house loan, and today a Fortune fifty company can't import its own motor, so how does that feel?
+067. MEGAN: Three years ago you were thirty-eight people and a house loan, and today a Fortune fifty company can't import its own motor. How does that feel?
     메건: 메건: 3년 전엔 서른여덟 명이랑 집 담보 대출이었는데, 오늘은 포춘 50대 기업이 자기 모터를 수입 못 해요. 기분이 어때요?
 
-068. SAM: It feels like the law worked, which is all I wanted, and you can quote that. And Megan, please mention the people in Saltillo, because they didn't do this.
+068. SAM: It feels like the law worked, which is all I wanted, and you can quote that. And Megan, please mention the people in Saltillo. They didn't do this.
     샘: 샘: 법이 제대로 작동한 기분이에요, 내가 원한 건 그게 다예요. 그건 인용해도 돼요. 그리고 메건, 살티요 사람들 얘기도 꼭 써 줘요, 그 사람들이 한 일이 아니니까.
 
-069. MEGAN: I'm already writing that part, because I talked to a line worker there an hour ago. Her name's Graciela, and she asked me if Ferrox is hiring in Mexico.
+069. MEGAN: I'm already writing that part. I talked to a line worker there an hour ago, a woman named Graciela, and she asked me if Ferrox is hiring in Mexico.
     메건: 메건: 그 부분 벌써 쓰고 있어요, 한 시간 전에 거기 라인 노동자랑 통화했거든요. 이름이 그라시엘라인데, 페록스가 멕시코에서 사람 뽑냐고 묻더라고요.
 
 070. SAM: And what did you tell her?
     샘: 샘: 그래서 뭐라고 했어요?
 
-071. MEGAN: I told her I'd ask you, so I'm asking, off the record if you want.
+071. MEGAN: I told her I'd ask you, so I'm asking. It can be off the record, if you want.
     메건: 메건: 물어보겠다고 했죠. 그래서 묻는 거예요, 원하면 비공식으로요.
 
 072. SAM: Put it on the record. I don't know yet, but I'm not going to pretend those eleven hundred people don't exist.
     샘: 샘: 공식으로 해요. 아직 몰라요, 근데 그 천백 명이 없는 척하진 않을 거예요.
 
-073. WEN: Sam, come to the lab for a minute, because you need to see this.
+073. WEN: Sam, come to the lab for a minute. You need to see this.
     웬: 웬: 대표님, 실험실에 잠깐 와 보세요. 이거 보셔야 해요.
 
 074. SAM: Is something wrong with the knee?
     샘: 무릎에 문제 있어요?
 
-075. WEN: Nothing is wrong with the knee, but something is right with the co-op student, because Lily found a mark on the gear.
+075. WEN: Nothing is wrong with the knee, but something is right with the co-op student. Lily found a mark on the gear.
     웬: 웬: 무릎엔 문제없어요. 근데 코업 학생한테 잘된 게 있어요, 릴리가 기어에서 자국을 찾았거든요.
 
 076. LILY: Mr. Kowalski, look at the output gear of the left knee, where there's a tiny polished line, right here, on one tooth only.
     릴리: 릴리: 코왈스키 씨, 왼쪽 무릎 출력 기어 보세요. 여기 이빨 하나에만 아주 작게 반들반들한 선이 있어요.
 
-077. SAM: Mr. Kowalski, okay, so what does the line mean?
+077. SAM: Mr. Kowalski, okay. So what does the line mean?
     샘: 샘: 코왈스키 씨라, 좋아. 그래서 그 선이 무슨 뜻이야?
 
 078. LILY: I think it's from the first step-down, the one where Gus sat. When the knee let go and caught again, one tooth took the whole hit, and it's not broken, but it remembers.
     릴리: 릴리: 거스가 앉았던 첫 번째 내려오기 때 생긴 것 같아요. 무릎이 힘을 놨다가 다시 잡을 때 이빨 하나가 충격을 다 받은 거예요. 부러지진 않았지만 기억하고 있어요.
 
-079. WEN: She's right, because with a thirty-millisecond release, the gear pays for it. Now we know the fix wasn't only firmware, and the next knee needs a gear that forgives.
+079. WEN: She's right. With a thirty-millisecond release, the gear pays for it. Now we know the fix wasn't only firmware, and the next knee needs a gear that forgives.
     웬: 웬: 릴리 말이 맞아요. 30밀리초 힘을 놓으면 그 값을 기어가 치르거든요. 이제 수정이 펌웨어만으로 끝나는 게 아니란 걸 알았으니, 다음 무릎엔 봐주는 기어가 필요해요.
 
 080. EARL: Metal don't lie.
@@ -267,28 +267,28 @@
 084. WEN: If you look with the microscope first, you see what you want to see. If you measure first, you see what's there.
     웬: 현미경부터 보면 보고 싶은 걸 보게 돼요. 먼저 재면 거기 있는 걸 보게 되고요.
 
-085. SAM: Good work, Ms. Kowalski, so put it in the report and send it to Oscar and Ingrid today.
+085. SAM: Good work, Ms. Kowalski. Put it in the report and send it to Oscar and Ingrid today.
     샘: 샘: 잘했어요, 코왈스키 씨. 보고서에 넣어서 오늘 오스카랑 잉그리드한테 보내요.
 
 086. LILY: It's already in the draft, and Dr. Liu says no adjectives.
     릴리: 릴리: 벌써 초안에 넣었어요, 리우 박사님이 형용사 쓰지 말래요.
 
-087. TYLER: Sam, it's Renata from Ironjaw, and she says it's urgent, because she's talking very fast, even for Renata.
+087. TYLER: Sam, it's Renata from Ironjaw, and she says it's urgent. She's talking very fast, even for Renata.
     타일러: 타일러: 대표님, 아이언조 레나타예요. 급하대요, 레나타치고도 엄청 빨리 말해요.
 
 088. RENATA: Sam, have you seen it? Stryde just announced a stop-sale on the Fury and a voluntary recall of every unit sold since September, which is about two hundred thousand drills.
     레나타: 레나타: 샘, 봤어요? 스트라이드가 방금 퓨리 판매 중지와 함께 9월 이후 판 거 전부 자발적 리콜을 발표했어요, 드릴 약 20만 대요.
 
-089. SAM: A recall, because of the order?
-    샘: 샘: 명령 때문에 리콜이요?
+089. SAM: A recall? Is it because of the order?
+    샘: 샘: 리콜이요? 명령 때문에요?
 
-090. RENATA: That's the funny part, because they're not saying the order. They're saying "a potential overheating issue in a small number of units," when Kim Duffy's stores had eleven percent returns.
+090. RENATA: That's the funny part. They're not saying the order. They're saying "a potential overheating issue in a small number of units," when Kim Duffy's stores had eleven percent returns.
     레나타: 레나타: 그게 웃긴 부분이에요, 명령 얘기는 안 하거든요. "일부 제품의 과열 가능성"이래요, 킴 더피네 매장 반품률이 11퍼센트였는데요.
 
 091. GLORIA: In plain English, they can't import new ones, so they finally admitted the old ones were bad. Funny how that works.
     글로리아: 쉬운 말로, 새것을 수입 못 하게 되니까 이제야 옛날 게 불량이었다고 인정한 거야. 참 묘하게 돌아가지.
 
-092. RENATA: And here's why I'm calling. Gene got a call at nine from Stryde's head of sourcing, and they want to buy motors from Ferrox, either through us or directly, because they don't care which.
+092. RENATA: And here's why I'm calling. Gene got a call at nine from Stryde's head of sourcing, and they want to buy motors from Ferrox, either through us or directly. They don't care which.
     레나타: 레나타: 그리고 제가 전화한 이유는요, 진이 9시에 스트라이드 소싱 책임자한테 전화를 받았는데, 페록스 모터를 사고 싶대요. 저희를 통하든 직접이든 상관없대요.
 
 093. SAM: So Stryde wants our motors now.
@@ -303,13 +303,13 @@
 096. RENATA: And what happens after that?
     레나타: 레나타: 그다음엔요?
 
-097. SAM: After that, I don't know yet, and I won't decide today, not on the day we won, because people make bad decisions on good days.
+097. SAM: After that, I don't know yet. I won't decide today, not on the day we won, because people make bad decisions on good days.
     샘: 샘: 그다음은 아직 몰라요. 오늘은, 이긴 날엔 결정 안 해요. 사람은 좋은 날에 나쁜 결정을 하거든요.
 
 098. RENATA: Gene says to tell you his grandfather would agree, and then he says to tell you he's nervous anyway.
     레나타: 레나타: 진이 할아버지도 동의하셨을 거라고 전해 달래요. 그러고는 그래도 불안하다고 전해 달래요.
 
-099. SAM: Tell Gene I'm nervous too, because that's how he knows I'm being honest.
+099. SAM: Tell Gene I'm nervous too. That's how he knows I'm being honest.
     샘: 샘: 진한테 나도 불안하다고 전해 줘요. 그래야 내가 솔직하다는 걸 알 거예요.
 
 100. TYLER: Kim Duffy from Hammerline is on line two.
@@ -333,7 +333,7 @@
 106. EARL: Two Saturdays for the second shift, and I'll have to talk to Denise, because the contract talks are still going and overtime is on the table.
     얼: 얼: 2교대 토요일 두 번. 그리고 드니즈랑 얘기해야 해, 단체협약 교섭이 아직 진행 중이고 초과근무도 안건이니까.
 
-107. SAM: Then we talk to Denise first. Kim, tell Trevor yes, with one condition, which is that if my people say no to the Saturdays, it's June eighth, not June first.
+107. SAM: Then we talk to Denise first. Kim, tell Trevor yes, with one condition. If my people say no to the Saturdays, it's June eighth, not June first.
     샘: 샘: 그럼 드니즈랑 먼저 얘기해요. 킴, 트레버한테 하겠다고 해요, 조건 하나 붙여서요. 우리 직원들이 토요일 근무 싫다고 하면 6월 1일이 아니라 6월 8일이에요.
 
 108. KIM: He's not going to like that.
@@ -360,34 +360,34 @@
 115. SAM: Julian said the same thing on Monday in different words, that "that's not a line, that's a building."
     샘: 샘: 줄리언이 월요일에 다른 단어로 같은 말을 했어요. "그건 라인이 아니라 건물이다"라고요.
 
-116. GLORIA: Julian Ashford said that? Then he's going to offer you money, and I'm going to want to hear it, so don't make that face.
+116. GLORIA: Julian Ashford said that? Then he's going to offer you money, and I'm going to want to hear it. Don't make that face.
     글로리아: 글로리아: 줄리언 애시퍼드가 그랬어? 그럼 너한테 돈을 제안할 거고, 나는 그 얘기 듣고 싶을 거야. 그러니까 그런 표정 짓지 마.
 
 117. SAM: What face are you talking about?
     샘: 샘: 무슨 표정이요?
 
-118. GLORIA: The Stan face, the one that says, "Never let anybody hold your keys." I know that face, because I've seen it for three years.
+118. GLORIA: The Stan face, the one that says, "Never let anybody hold your keys." I know that face. I've seen it for three years.
     글로리아: 글로리아: 스탠 표정, "아무한테도 열쇠 맡기지 마라" 하는 그거. 그 표정 알아, 3년 동안 봤거든.
 
 119. SAM: It's a good face, Gloria.
     샘: 샘: 좋은 표정이에요, 글로리아.
 
-120. GLORIA: It's a good face that's going to need a second building, so think about who pays for it, that's all I'm saying. But today, go enjoy the bell.
+120. GLORIA: It's a good face that's going to need a second building. Think about who pays for it, that's all I'm saying. But today, go enjoy the bell.
     글로리아: 글로리아: 두 번째 건물이 필요해질 좋은 표정이지. 그 돈을 누가 낼지 생각해 봐, 내 말은 그게 다야. 근데 오늘은 가서 종소리나 즐겨.
 
 121. LILY: Dad? Sorry, I mean Mr. Kowalski, everybody's gone. Mom says you're supposed to be home by six, but it's Monday, so technically you're okay.
     릴리: 릴리: 아빠? 죄송해요, 코왈스키 씨, 다들 갔어요. 엄마가 아빠 여섯 시까지 집에 와야 한대요. 근데 월요일이니까 엄밀히 말하면 괜찮긴 해요.
 
-122. SAM: It's Tuesday, Thursday, and Sunday, and I know the schedule, because it's on the refrigerator in two colors.
+122. SAM: It's Tuesday, Thursday, and Sunday. I know the schedule, it's on the refrigerator in two colors.
     샘: 샘: 화요일, 목요일, 일요일. 일정 알아, 냉장고에 두 가지 색으로 붙어 있잖아.
 
-123. LILY: You're sitting in front of Betsy with no lights on, which is a little dramatic.
+123. LILY: You're sitting in front of Betsy with no lights on. That's a little dramatic.
     릴리: 릴리: 불도 안 켜고 베치 앞에 앉아 있잖아요, 좀 극적이에요.
 
-124. SAM: Your grandfather did it in a truck in his driveway, and I do it in front of Betsy, so it runs in the family. How was your first day, Ms. Kowalski?
+124. SAM: Your grandfather did it in a truck in his driveway, and I do it in front of Betsy. It runs in the family. How was your first day, Ms. Kowalski?
     샘: 샘: 네 할아버지는 진입로 트럭 안에서 그러셨고, 난 베치 앞에서 하니까 집안 내력이야. 첫날 어땠어요, 코왈스키 씨?
 
-125. LILY: It was hard, because Dr. Liu made me redo one page three times, and it was the best day of my life.
+125. LILY: It was hard. Dr. Liu made me redo one page three times, and it was the best day of my life.
     릴리: 릴리: 힘들었어요, 리우 박사님이 한 페이지를 세 번 다시 하게 하셨거든요. 인생 최고의 날이었어요.
 
 126. SAM: Hang on, that's my phone, and it's a number I saved but never called, with a Charlotte area code.
@@ -396,7 +396,7 @@
 127. LILY: Is that who I think it is?
     릴리: 릴리: 제가 생각하는 그 사람이에요?
 
-128. SAM: Please go wait in the car, Lily, because this one I take alone.
+128. SAM: Please go wait in the car, Lily. This one I take alone.
     샘: 샘: 차에서 좀 기다려, 릴리. 이건 혼자 받을게.
 
 129. VICTORIA: Hello, Sam, and congratulations. I said don't celebrate in public, but your production supervisor rang a bell so loudly that someone posted it, and it has forty thousand views.
@@ -405,7 +405,7 @@
 130. SAM: That was Patty, and she's not a supervisor, she's better than a supervisor.
     샘: 샘: 그건 패티예요. 반장이 아니라, 반장보다 나은 사람이죠.
 
-131. VICTORIA: I'll remember that. Sam, I'm calling for a reason, and this time the message did happen, because I'm calling officially, from my office, with my door open.
+131. VICTORIA: I'll remember that. Sam, I'm calling for a reason, and this time the message did happen. I'm calling officially, from my office, with my door open.
     빅토리아: 빅토리아: 기억해 둘게요. 샘, 이유가 있어서 전화했어요. 이번 메시지는 진짜 있었던 일이에요, 공식적으로 제 사무실에서 문 열어 놓고 거는 거니까요.
 
 132. SAM: Okay, go ahead.
@@ -444,7 +444,7 @@
 143. VICTORIA: After your hearing. Bradley wants to hear what you say about him in front of the Senate before he decides how much it's worth to stop you saying it again.
     빅토리아: 청문회 뒤에요. 브래들리는 당신이 상원 앞에서 자기 얘기를 뭐라고 하는지 먼저 듣고, 그다음에 당신이 그 말을 다시 못 하게 하는 데 얼마를 쓸지 정하고 싶어 해요.
 
-144. SAM: Then tell him something from me. I'm not going to the Senate to talk about him, I'm going to talk about my company, so he can't buy my silence, because I'm not planning to make any noise about him.
+144. SAM: Then tell him something from me. I'm not going to the Senate to talk about him. I'm going to talk about my company, and he can't buy my silence, because I'm not planning to make any noise about him.
     샘: 샘: 그럼 나 대신 하나 전해 줘요. 난 그 사람 얘기하러 상원에 가는 게 아니라 우리 회사 얘기하러 가요. 그러니까 내 침묵을 살 수 없어요, 난 그 사람에 대해 떠들 계획이 없으니까.
 
 145. VICTORIA: He won't believe that, you know.
@@ -453,10 +453,10 @@
 146. SAM: And do you believe it?
     샘: 샘: 당신은 믿어요?
 
-147. VICTORIA: I've stopped betting against you, Sam, because it's bad for my career. Talk to Ben, and I'll send dates.
+147. VICTORIA: I've stopped betting against you, Sam. It's bad for my career. Talk to Ben, and I'll send dates.
     빅토리아: 빅토리아: 당신 반대쪽에 거는 건 그만뒀어요, 샘, 경력에 안 좋더라고요. 벤이랑 얘기해요, 날짜 보낼게요.
 
-148. LILY: Well, was it her? You were on the phone for eleven minutes, because I timed it.
+148. LILY: Well, was it her? You were on the phone for eleven minutes. I timed it.
     릴리: 릴리: 그래서요, 그 사람이었어요? 11분 통화했어요, 제가 쟀거든요.
 
 149. SAM: It was her, and Calloway wants to talk in New York, after the hearing.

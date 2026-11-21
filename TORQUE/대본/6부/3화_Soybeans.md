@@ -15,10 +15,10 @@
 
 ## 대본
 
-001. RUTH: Coffee's on the stove. Books are on the table. Which one do you want first?
+001. RUTH: Coffee's on the stove, and the books are on the table. Which one do you want first?
     루스: 커피는 가스레인지 위에 있고, 장부는 식탁 위에 있어요. 뭐부터 하실래요?
 
-002. GLORIA: Books. Coffee is for after the bad news.
+002. GLORIA: The books, because coffee is for after the bad news.
     글로리아: 장부요. 커피는 나쁜 소식 듣고 나서 마시는 거예요.
 
 003. RUTH: Oh, I like you already, so sit. Mr. Kowalski, you can sit too, but this is a ladies' table this morning.
@@ -30,25 +30,25 @@
 005. GLORIA: He's been trained for nine years and he still talks during my numbers, so okay, Ruth, walk me through it.
     글로리아: 9년째 훈련받았는데 아직도 내가 숫자 말할 때 끼어들어요. 자, 루스, 차근차근 보여 줘요.
 
-006. RUTH: We farm fourteen hundred acres, and we own nine hundred and rent five hundred from a widow in Ames at two ninety an acre, which last year meant seven twenty in beans and six eighty in corn.
+006. RUTH: We farm fourteen hundred acres. We own nine hundred and rent five hundred from a widow in Ames at two ninety an acre. Last year, that was seven twenty in beans and six eighty in corn.
     루스: 1,400에이커예요. 900은 우리 땅이고 500은 에임스 사는 과부한테 에이커당 290달러에 빌려요. 작년엔 콩 720, 옥수수 680이었고요.
 
 007. GLORIA: And the yields, how did the crop actually do?
     글로리아: 수확량은요? 작물이 실제로 어떻게 나왔어요?
 
-008. RUTH: It did well, and that's the cruel part, with fifty-five bushels of beans an acre and two hundred of corn, because the weather was kind to us even though the market wasn't.
+008. RUTH: It did well, and that's the cruel part. We got fifty-five bushels of beans an acre and two hundred of corn. The weather was kind to us, but the market wasn't.
     루스: 좋았어요. 그게 잔인한 부분이에요. 콩은 에이커당 55부셸, 옥수수는 200. 날씨는 우리 편이었는데 시장이 아니었죠.
 
 009. GLORIA: So you grew a lot, and nobody wanted to pay for it.
     글로리아: 그러니까 많이 길렀는데 아무도 제값을 안 쳐줬다는 거네요.
 
-010. RUTH: Last spring China stopped buying American soybeans, and I don't mean less, I mean zero, from May until almost November, while they bought from Brazil instead.
+010. RUTH: Last spring, China stopped buying American soybeans. I don't mean less, I mean zero, from May until almost November. They bought from Brazil instead.
     루스: 작년 봄에 중국이 미국 대두를 안 사기 시작했어요. 줄인 게 아니라 0이요. 5월부터 거의 11월까지 대신 브라질 걸 샀죠.
 
 011. SAM: That was because of the tariffs we put on China last spring.
     샘: 작년 봄에 우리가 중국에 매긴 관세 때문이었죠.
 
-012. RUTH: It was because of the trade war, where we put tariffs on them and they put tariffs on us, and they hit us where it hurts, Iowa soybeans, because they know exactly where we live.
+012. RUTH: It was the trade war. We put tariffs on them, they put tariffs on us, and they hit us where it hurts, which is Iowa soybeans. They know exactly where we live.
     루스: 무역 전쟁 때문이죠. 우리가 관세를 매기니까 저쪽도 매기고, 아이오와 대두라는 아픈 데를 때렸어요. 우리가 어디 사는지 정확히 알거든요.
 
 013. GLORIA: In a normal year, how much do China's purchases matter to you?
@@ -57,7 +57,7 @@
 014. RUTH: In a normal year, about half of America's soybean exports go to China. We don't ship to China ourselves. But when they stop buying, every elevator in Iowa drops its price.
     루스: 평년엔 미국 대두 수출의 절반쯤이 중국으로 가요. 우리가 직접 중국에 보내는 건 아니에요. 그래도 그쪽이 안 사면 아이오와 엘리베이터 전부가 값을 내려요.
 
-015. GLORIA: Okay, so what did you sell, and for how much?
+015. GLORIA: Okay. What did you sell, and for how much?
     글로리아: 좋아요. 그럼 뭘 얼마에 팔았어요?
 
 016. RUTH: We sold fourteen thousand bushels of beans at harvest at nine eighty a bushel, and the rest, twenty-five thousand six hundred, is still sitting in our bins, waiting.
@@ -66,7 +66,7 @@
 017. GLORIA: And what does it cost you to grow a bushel?
     글로리아: 한 부셸 기르는 데 얼마 들어요?
 
-018. RUTH: With rent, seed, fertilizer, fuel, and interest, it's about eleven dollars, so on every bushel I sold at harvest, I lost a dollar twenty.
+018. RUTH: With rent, seed, fertilizer, fuel, and interest, it's about eleven dollars. So on every bushel I sold at harvest, I lost a dollar twenty.
     루스: 땅세, 씨앗, 비료, 기름, 이자까지 하면 11달러쯤이에요. 그러니까 수확 때 판 부셸마다 1달러 20센트씩 잃은 거죠.
 
 019. SAM: You can't break even at nine eighty.
@@ -84,19 +84,19 @@
 023. SAM: An operating loan, so is that like our line of credit?
     샘: 운영자금 대출이면 우리 신용한도 같은 거예요?
 
-024. GLORIA: Close, but in plain English, every spring a farmer borrows money to plant, for seed, fertilizer, and diesel, and in the fall he sells the crop and pays it back, so if the crop pays, everybody's happy.
+024. GLORIA: Close. In plain English, every spring a farmer borrows money to plant, for seed, fertilizer, and diesel. In the fall, he sells the crop and pays it back. If the crop pays, everybody's happy.
     글로리아: 비슷해. 쉬운 말로 하면, 농부는 봄마다 씨앗, 비료, 경유 사려고 돈을 빌리고, 가을에 작물 팔아서 갚아. 작물이 돈이 되면 다 행복하지.
 
 025. SAM: And if the crop doesn't pay?
     샘: 작물이 돈이 안 되면요?
 
-026. GLORIA: Then you roll it over, so what you couldn't pay this fall becomes part of next spring's loan, and the next, because farm debt doesn't explode, it grows quietly, like mold.
+026. GLORIA: Then you roll it over. Whatever you couldn't pay this fall becomes part of next spring's loan, and then the next. Farm debt doesn't explode. It grows quietly, like mold.
     글로리아: 그럼 넘기는 거지. 이번 가을에 못 갚은 게 내년 봄 대출에 붙고, 그다음 해에도 붙어. 농가 부채는 폭발하지 않아. 곰팡이처럼 조용히 자라.
 
-027. RUTH: You've done this before. I can tell by how you read a page.
+027. RUTH: You've done this before, I can tell by how you read a page.
     루스: 이 일 해 보셨네요. 페이지 읽는 거 보면 알아요.
 
-028. GLORIA: I spent twenty-five years at a bank in Cincinnati, with some farm loans down in Brown County, and I said no to a lot of good people while always wondering what their kitchens looked like.
+028. GLORIA: I spent twenty-five years at a bank in Cincinnati, with some farm loans down in Brown County. I said no to a lot of good people, and I always wondered what their kitchens looked like.
     글로리아: 신시내티 은행에서 25년 있었고, 남쪽 브라운 카운티 농가 대출도 좀 했어요. 좋은 사람들한테 '안 돼요'를 많이 하면서 그 사람들 부엌이 어떻게 생겼을지 늘 궁금했죠.
 
 029. RUTH: Now you know they look like this, with coffee and paper and a calendar with a seed company logo.
@@ -111,25 +111,25 @@
 032. SAM: Nineteen eighty-five was the farm crisis.
     샘: 1985년이면 농가 위기 때네요.
 
-033. RUTH: I was twenty-three, and I watched my father-in-law sell the cattle to keep the land, and he never said a word about it, not once for the rest of his life.
+033. RUTH: I was twenty-three. I watched my father-in-law sell the cattle to keep the land, and he never said a word about it, not once for the rest of his life.
     루스: 제가 스물셋이었는데, 시아버지가 땅을 지키려고 소를 파는 걸 봤어요. 그 얘기는 돌아가실 때까지 한 번도 안 하셨어요.
 
 034. GLORIA: What about the government money, the bridge payments everyone keeps talking about?
     글로리아: 정부 돈은요? 다들 얘기하는 그 브리지 지원금이요?
 
-035. RUTH: It's thirty dollars and eighty-eight cents an acre for beans and forty-four thirty-six for corn, which for us comes to fifty-two thousand, three hundred and ninety-eight dollars, and the letter says it'll arrive by the twenty-eighth.
+035. RUTH: It's thirty dollars and eighty-eight cents an acre for beans and forty-four thirty-six for corn. For us, that comes to fifty-two thousand, three hundred and ninety-eight dollars. The letter says it'll arrive by the twenty-eighth.
     루스: 콩은 에이커당 30달러 88센트, 옥수수는 44달러 36센트라서, 우리는 5만 2,398달러예요. 편지엔 28일까지 들어온대요.
 
 036. GLORIA: You know it to the dollar.
     글로리아: 1달러 단위까지 아시네요.
 
-037. RUTH: I know everything to the dollar, because that's my job.
+037. RUTH: I know everything to the dollar. That's my job.
     루스: 전 다 1달러 단위로 알아요. 그게 제 일이에요.
 
 038. SAM: Does the fifty-two thousand actually help?
     샘: 그 5만 2천 달러가 실제로 도움이 돼요?
 
-039. RUTH: It helps, and I'm grateful, and I mean that, because it pays the rent on the widow's land, but it doesn't touch the two hundred and ten.
+039. RUTH: It helps, and I'm grateful, I mean that. It pays the rent on the widow's land. But it doesn't touch the two hundred and ten.
     루스: 도움 돼요. 감사하고, 진심이에요. 과부 땅 땅세는 그걸로 내니까요. 근데 21만 달러엔 손도 못 대요.
 
 040. GLORIA: I read that the soybean people say it's not enough.
@@ -138,10 +138,10 @@
 041. RUTH: Some say it's not enough. Some say farmers shouldn't take it at all, that it's a bailout. My neighbor Gene says take it and stop complaining. Everybody at church has an opinion.
     루스: 부족하다는 사람도 있고, 아예 받지 말아야 한다는 사람도 있어요. 구제금융이라고요. 이웃 진은 받고 불평 그만하래요. 교회 사람들은 다 의견이 있어요.
 
-042. SAM: What's yours, Ruth, because you haven't said?
+042. SAM: What's yours, Ruth? You haven't said yet what you think.
     샘: 루스 생각은요? 아직 말씀 안 하셨잖아요.
 
-043. RUTH: Mine? I'd rather sell my beans than get a check, because a check is a bandage and a market is a cure.
+043. RUTH: Mine? I'd rather sell my beans than get a check. A check is a bandage, and a market is a cure.
     루스: 제 생각이요? 수표 받는 것보다 콩 파는 게 낫죠. 수표는 반창고고, 시장이 약이에요.
 
 044. GLORIA: Ruth, can I ask you a hard question?
@@ -165,22 +165,22 @@
 050. GLORIA: It's always men standing around trucks, and honestly, it's the same back in Ohio.
     글로리아: 남자들은 늘 트럭 옆에 서 있다니까요. 솔직히 오하이오도 똑같아요.
 
-051. DALE: That's it, the tallest thing in Story County, because some people have a cathedral and we have a grain elevator.
+051. DALE: That's it, the tallest thing in Story County. Some people have a cathedral, and we have a grain elevator.
     데일: 저거예요. 스토리 카운티에서 제일 높은 거. 어떤 사람들은 성당이 있고, 우린 곡물 엘리베이터가 있죠.
 
 052. GLORIA: It's huge, but what is it, exactly?
     글로리아: 엄청 크네요. 근데 정확히 뭐예요?
 
-053. DALE: A grain elevator buys grain from farmers, dries it, stores it, and sells it on to the big buyers by train, barge, or export, and this one belongs to the co-op, which Lyle runs.
+053. DALE: A grain elevator buys grain from farmers, dries it, stores it, and sells it on to the big buyers by train, barge, or export. This one belongs to the co-op, and Lyle runs it.
     데일: 곡물 엘리베이터는 농부한테서 곡물을 사서 말리고 저장했다가 기차, 바지선, 수출로 큰 구매자들한테 되팔아요. 이건 협동조합 거고, 라일이 운영하죠.
 
-054. LYLE: Dale, and you must be the Ohio people, so come in where it's warm in the office, and watch the ice.
+054. LYLE: Dale. And you must be the Ohio people. Come in, it's warm in the office, and watch the ice.
     라일: 데일. 그리고 오하이오 분들이시군요. 따뜻한 사무실로 들어오세요. 얼음 조심하시고요.
 
 055. SAM: I'm Sam Kowalski, and this is Gloria Banks, our CFO.
     샘: 샘 코왈스키예요. 이쪽은 우리 CFO 글로리아 뱅크스예요.
 
-056. LYLE: I'm Lyle Brandvold, and I've been running this elevator for nineteen years, so what can I tell you?
+056. LYLE: I'm Lyle Brandvold, and I've been running this elevator for nineteen years. What can I tell you?
     라일: 라일 브랜드볼드예요. 이 엘리베이터 19년째 운영하고 있는데, 뭘 알려 드릴까요?
 
 057. GLORIA: Tell us about the price. What's a bushel of beans worth today?
@@ -204,13 +204,13 @@
 063. GLORIA: And now, is anybody calling you this winter?
     글로리아: 지금은요? 이번 겨울엔 누가 전화해요?
 
-064. LYLE: After the meeting in Korea at the end of October, China said it would buy again, and they have bought some, mostly through the big export companies on the coast, so it's better, but it's not normal.
+064. LYLE: After the meeting in Korea at the end of October, China said it would buy again. They have bought some, mostly through the big export companies on the coast. It's better, but it's not normal.
     라일: 10월 말 한국 회담 뒤에 중국이 다시 사겠다고 했고, 주로 해안의 큰 수출 회사들 통해서 실제로 조금 샀어요. 나아지긴 했는데, 정상은 아니에요.
 
 065. SAM: What would normal look like?
     샘: 정상은 어떤 거예요?
 
-066. LYLE: Normal is when I don't have to think about Beijing before breakfast, and right now Brazil is harvesting a record crop, which is a lot of beans competing with Dale's.
+066. LYLE: Normal is when I don't have to think about Beijing before breakfast. And right now Brazil is harvesting a record crop. That's a lot of beans competing with Dale's.
     라일: 정상은 아침 먹기 전에 베이징 생각 안 해도 되는 거죠. 그리고 지금 브라질이 역대 최대 작물을 수확하고 있어서, 데일 콩이랑 경쟁하는 콩이 엄청 많아요.
 
 067. DALE: The Brazilians learned from us. We sent them our seed and our machines thirty years ago. Now they eat our lunch.
@@ -219,7 +219,7 @@
 068. GLORIA: Honestly, how do people here feel about the trade war?
     글로리아: 솔직히 여기 사람들은 무역 전쟁을 어떻게 생각해요?
 
-069. LYLE: Honestly, it's split, because some guys say China cheated for years and somebody had to stand up, so they'll take a hard year for a fair deal, while other guys say they're paying the bill for everybody else's fight.
+069. LYLE: Honestly? It's split. Some guys say China cheated for years and somebody had to stand up, and they'll take a hard year for a fair deal. Other guys say they're paying the bill for everybody else's fight.
     라일: 솔직히 갈려요. 중국이 몇 년 동안 속였으니 누군가는 맞서야 했고, 공정한 거래를 위해서라면 힘든 1년쯤 버티겠다는 사람들이 있고, 남의 싸움 계산서를 자기들이 낸다는 사람들도 있어요.
 
 070. SAM: And they still drink coffee together in this office?
@@ -240,19 +240,19 @@
 075. SAM: Lyle, what's that roaring noise under the floor?
     샘: 라일, 바닥 밑에서 웅웅거리는 저 소리 뭐예요?
 
-076. LYLE: Those are aeration fans, big electric fans that push air through the grain bins so the grain doesn't spoil, and we run all forty-two of them on this site all winter.
+076. LYLE: Those are aeration fans, big electric fans that push air through the grain bins so the grain doesn't spoil. We've got forty-two of them on this site, and we run them all winter.
     라일: 통풍 팬이에요. 곡물이 안 상하게 저장통에 공기를 밀어 넣는 큰 전기 팬인데, 이 부지 마흔두 대를 겨울 내내 돌려요.
 
 077. GLORIA: If forty-two motors are running all winter, what's your electric bill?
     글로리아: 모터 마흔두 개가 겨울 내내 돌면 전기요금은 얼마예요?
 
-078. LYLE: Don't ask, and the motors die from moisture, dust, and cold, so I replace six or seven a year, and every one costs me a week waiting for the part.
-    라일: 묻지 마세요. 그리고 모터가 습기, 먼지, 추위 때문에 죽어요. 1년에 여섯, 일곱 개는 가는데, 갈 때마다 부품 기다리느라 일주일씩 걸려요.
+078. LYLE: Don't ask. The motors die every winter from the moisture, dust, and cold, so I end up replacing six or seven a year. Every one of them costs me a week waiting for the part.
+    라일: 묻지 마세요. 습기, 먼지, 추위 때문에 겨울마다 모터가 죽어서 1년에 여섯, 일곱 개는 갈아요. 갈 때마다 부품 기다리느라 일주일씩 걸리고요.
 
 079. SAM: Who makes those motors, and why do you keep buying them if they die every winter?
     샘: 그 모터 어디서 만들어요? 겨울마다 죽는데 왜 계속 사세요?
 
-080. LYLE: The old ones came from a company in Missouri that closed, and the new ones I couldn't tell you, because the box says Mexico and the motor says China.
+080. LYLE: The old ones came from a company in Missouri that closed. The new ones, I couldn't tell you. The box says Mexico, and the motor says China.
     라일: 옛날 건 문 닫은 미주리 회사 거였고, 새 건 모르겠어요. 상자엔 멕시코, 모터엔 중국이라고 써 있거든요.
 
 081. GLORIA: Sam, I can see your face, so don't.
@@ -261,22 +261,22 @@
 082. SAM: I'm just asking questions.
     샘: 그냥 질문하는 거예요.
 
-083. GLORIA: You're designing a fan motor in your head. I know that look.
+083. GLORIA: You're designing a fan motor in your head right now, and I know that look.
     글로리아: 머릿속으로 팬 모터 설계하고 있잖아. 그 표정 알아.
 
-084. LYLE: If you are, let me know, because every elevator in Iowa has this problem, and so does every farm with bins, like Dale's six bins with a fan on every one.
+084. LYLE: If you are, let me know. Every elevator in Iowa has this problem, and so does every farm with bins. Dale's got six bins, with a fan on every one.
     라일: 그러시면 알려 주세요. 아이오와 엘리베이터는 다 이 문제가 있고, 저장통 있는 농장도 다 그래요. 데일네도 저장통 여섯 개에 팬이 하나씩 있어요.
 
 085. DALE: Two of mine are making a sound I don't like.
     데일: 내 거 두 개가 마음에 안 드는 소리를 내요.
 
-086. LYLE: Talk to the co-op board, because Ruth knows them all, and the board buys in bulk for the members, like fertilizer, fuel, and seed, so why not motors?
+086. LYLE: Talk to the co-op board. Ruth knows them all. The board buys fertilizer, fuel, and seed in bulk for the members, so why not motors?
     라일: 협동조합 이사회랑 얘기해 보세요. 루스가 다 알아요. 이사회가 비료, 기름, 씨앗을 조합원 대신 대량으로 사는데, 모터라고 안 될 거 없죠.
 
 087. SAM: How does a co-op decide?
     샘: 협동조합은 어떻게 결정해요?
 
-088. LYLE: Slowly, and with pie, and they want to know who you are before they care what you sell.
+088. LYLE: Slowly, and with pie. They want to know who you are before they care what you sell.
     라일: 천천히요, 파이랑 같이. 그리고 뭘 파는지보다 당신이 누군지를 먼저 알고 싶어 해요.
 
 089. GLORIA: Sounds like my church.
@@ -285,8 +285,8 @@
 090. LYLE: It's the same people, mostly.
     라일: 대부분 같은 사람들이에요.
 
-091. DALE: We should go, because Janine's coming at two and Ruth wants me there, washed.
-    데일: 가야겠어요. 재닌이 두 시에 오는데 루스가 나 씻고 있으래요.
+091. DALE: We should go. Janine's coming at two, and Ruth wants me there, washed.
+    데일: 가야겠어요. 재닌이 두 시에 오는데, 루스가 나 씻고 있으래요.
 
 092. LYLE: Good luck, Dale, and tell Janine I said she owes me a pie from the church sale.
     라일: 행운을 빌어, 데일. 재닌한테 교회 바자회 파이 하나 빚졌다고 전해 줘.
@@ -300,10 +300,10 @@
 095. GLORIA: Finally, an economy I understand.
     글로리아: 드디어 내가 이해하는 경제가 나왔네.
 
-096. JANINE: Ruth, Dale, thank you for having me, and you must be the folks from Ohio Ruth told me about, so I hope you don't mind if I speak plainly in front of guests.
+096. JANINE: Ruth, Dale, thank you for having me. And you must be the folks from Ohio that Ruth told me about. I hope you don't mind if I speak plainly in front of guests.
     재닌: 루스, 데일, 초대해 줘서 고마워요. 루스가 말한 오하이오 분들이시군요. 손님들 앞에서 솔직하게 말해도 괜찮을까요?
 
-097. RUTH: Please do, because Gloria is a banker too, or was.
+097. RUTH: Please do. Gloria is a banker too, or at least she was.
     루스: 그래 줘요. 글로리아도 은행원이에요. 였죠.
 
 098. JANINE: Then she knows what I'm about to say, so Dale, the board approved your operating loan for this year at six hundred and ninety thousand.
@@ -324,13 +324,13 @@
 103. DALE: The north eighty.
     데일: 북쪽 80.
 
-104. JANINE: I mean selling it, Dale, because land prices are still strong, and it would clear the carryover and then some.
+104. JANINE: I mean selling it, Dale. Land prices are still strong, and it would clear the carryover and then some.
     재닌: 파는 거요, 데일. 땅값이 아직 괜찮아서 넘어온 빚 다 갚고도 남을 거예요.
 
 105. DALE: My grandfather bought the north eighty in nineteen fifty-one with money he saved from the war. He walked it every Sunday. I'm not selling it to pay for a fight between Washington and Beijing.
     데일: 할아버지가 1951년에 전쟁 때 모은 돈으로 북쪽 80을 샀어요. 일요일마다 걸어 다녔지. 워싱턴이랑 베이징 싸움값 내려고 그걸 팔진 않아요.
 
-106. JANINE: I understand, Dale, and I'm not your enemy, because I grew up four miles from here, and I'm trying to keep you farming for the next ten years, not just this one.
+106. JANINE: I understand, Dale, and I'm not your enemy. I grew up four miles from here. I'm trying to keep you farming for the next ten years, not just this one.
     재닌: 이해해요, 데일. 전 적이 아니에요. 여기서 4마일 떨어진 데서 자랐고, 올해만이 아니라 앞으로 10년 동안 농사를 계속 짓게 하려는 거예요.
 
 107. DALE: Ruth, did you know about this?
@@ -348,7 +348,7 @@
 111. SAM: Maybe we should step outside.
     샘: 저희는 잠깐 나가 있을까요.
 
-112. RUTH: Sit down, Mr. Kowalski, because you came for the truth, and this is the truth.
+112. RUTH: Sit down, Mr. Kowalski. You came for the truth, and this is it.
     루스: 앉으세요, 코왈스키 씨. 진실 보러 오셨잖아요. 이게 진실이에요.
 
 113. GLORIA: Janine, can I say something as a former banker?
@@ -360,10 +360,10 @@
 115. GLORIA: In twenty-five years, I learned one thing. A banker who drives to your kitchen is a banker who wants you to survive. The ones who want your land send a letter.
     글로리아: 25년 동안 하나 배웠어요. 당신 부엌까지 운전해 오는 은행원은 당신이 살아남길 바라는 은행원이에요. 땅을 원하는 사람들은 편지를 보내죠.
 
-116. JANINE: Thank you, because that's true.
+116. JANINE: Thank you, that's true.
     재닌: 고마워요. 맞는 말이에요.
 
-117. GLORIA: But condition three is a plan, not a sale, right? The bank wants a plan to pay down the carryover, and selling the land is one plan, but it's not the only plan.
+117. GLORIA: But condition three is a plan, not a sale, right? The bank wants a plan to pay down the carryover. Selling the land is one plan, but it's not the only plan.
     글로리아: 근데 세 번째 조건은 매각이 아니라 계획이죠? 은행은 넘어온 빚을 줄일 계획을 원하는 거고, 땅을 파는 건 그중 하나일 뿐이에요.
 
 118. JANINE: That's correct, so if they show me another way to cut costs or raise cash by the fall, the board will listen.
@@ -399,13 +399,13 @@
 128. SAM: I hear it, and the bearing's going.
     샘: 들려요. 베어링이 나가고 있네요.
 
-129. DALE: I'm sorry about the kitchen, because Ruth was right and I did exactly what she said I'd do.
+129. DALE: I'm sorry about the kitchen. Ruth was right, and I did exactly what she said I'd do.
     데일: 부엌에서는 미안했어요. 루스 말이 맞았어요. 딱 루스가 말한 대로 했지.
 
 130. SAM: You don't have to apologize. My wife does the same thing. She knows what I'll do before I do it.
     샘: 사과 안 하셔도 돼요. 제 아내도 똑같아요. 제가 뭘 할지 저보다 먼저 알아요.
 
-131. DALE: I've farmed this ground for forty-eight years, like my father and his father, and we grow enough food to feed maybe five thousand people a year, so do you know what I'm thinking right now?
+131. DALE: I've farmed this ground for forty-eight years, and so did my father and his father. We grow enough food to feed maybe five thousand people a year. You know what I'm thinking right now?
     데일: 48년 동안 이 땅을 일궜어요. 아버지도, 할아버지도 그랬고. 우리가 1년에 기르는 걸로 한 오천 명은 먹일 거예요. 지금 내가 무슨 생각 하는지 알아요?
 
 132. SAM: Tell me.
@@ -423,7 +423,7 @@
 136. SAM: No, it's a foreign-owned glass factory now, and some of the guys work there.
     샘: 아니요. 지금은 외국계 유리 공장인데, 옛날 사람 몇이 거기서 일해요.
 
-137. DALE: That's what scares me, not a bad year, because I've had bad years, but the idea that this land becomes somebody else's glass factory.
+137. DALE: That's what scares me. It's not a bad year, because I've had bad years. What scares me is that this land becomes somebody else's glass factory.
     데일: 그게 무서운 거예요. 힘든 해는 겪어 봤으니 그게 아니라, 이 땅이 누군가의 유리 공장이 되는 게 무서운 거예요.
 
 138. SAM: Dale, I can't promise you soybean prices. I can't promise you the north eighty.
@@ -432,22 +432,22 @@
 139. DALE: I know, and I'm not asking you to, son.
     데일: 알아요. 그런 거 바라는 거 아니에요.
 
-140. SAM: But I can build you a fan motor for bin number four that you can fix yourself. And I'll start there.
+140. SAM: But I can build you a fan motor for bin number four that you can fix yourself, and I'll start there.
     샘: 근데 4번 저장통에 직접 고칠 수 있는 팬 모터는 만들어 드릴 수 있어요. 거기서부터 시작할게요.
 
-141. DALE: Start with one bin. That's how you start anything out here.
+141. DALE: Start with one bin, because that's how you start anything out here.
     데일: 저장통 하나부터. 여기선 뭐든 그렇게 시작해요.
 
-142. GLORIA: Sam, get in the truck, because it's minus ten and Judy Kessler is calling me!
+142. GLORIA: Sam, get in the truck! It's minus ten, and Judy Kessler is calling me.
     글로리아: 샘! 트럭에 타. 영하 10도인 데다 주디 케슬러가 전화하고 있어.
 
 143. SAM: Judy, our customs broker, calling at eight at night?
     샘: 주디요? 우리 관세사가 밤 여덟 시에요?
 
-144. GLORIA: Judy, you're on speaker, and I'm in Iowa in a truck next to a soybean bin, so go.
+144. GLORIA: Judy, you're on speaker, and I'm in a truck in Iowa next to a soybean bin. Go ahead.
     글로리아: 주디, 스피커예요. 나 아이오와에서 대두 저장통 옆 트럭 안에 있어. 말해.
 
-145. JUDY: Gloria, quick heads-up, because the Supreme Court could rule on the emergency tariffs any day now, maybe this Friday, so I want your import records ready, every entry since last February.
+145. JUDY: Gloria, quick heads-up. The Supreme Court could rule on the emergency tariffs any day now, maybe this Friday. I want your import records ready, every entry since last February.
     주디: 글로리아, 미리 알려 줄게요. 대법원이 비상 관세 판결을 언제든, 어쩌면 이번 금요일에 낼 수 있어요. 작년 2월 이후 통관 건마다 수입 기록 전부 준비해 둬요.
 
 146. GLORIA: Why, and what does it matter to us?
@@ -459,8 +459,8 @@
 148. GLORIA: Judy, honey, in twenty-five years I've never seen Washington give money back.
     글로리아: 주디, 25년 동안 워싱턴이 돈 돌려주는 거 한 번도 못 봤어.
 
-149. JUDY: There's a first time for everything, so it's Friday, Gloria, and have the records ready.
-    주디: 뭐든 처음은 있죠. 금요일이에요, 글로리아. 기록 준비해 둬요.
+149. JUDY: There's a first time for everything, Gloria. Just have the records ready by Friday.
+    주디: 뭐든 처음은 있죠, 글로리아. 금요일까지 기록만 준비해 둬요.
 
 150. DALE: Hey, if Washington is handing money back, tell them where Story County is.
     데일: 이봐요, 워싱턴이 돈을 돌려준다면 스토리 카운티가 어딨는지도 좀 알려 줘요.

@@ -15,10 +15,10 @@
 
 ## 대본
 
-001. TYLER: Okay, everybody, hold on, because this is the best part of the whole drive and you have to wait for it.
+001. TYLER: Okay, everybody, hold on. This is the best part of the whole drive, and you have to wait for it.
     타일러: 타일러: 자, 다들 꽉 잡으세요, 이게 이번 운전에서 제일 좋은 부분이거든요. 좀 기다려 보세요.
 
-002. SAM: It's a tunnel, Tyler, and I've been in tunnels before, because believe it or not, Ohio has tunnels too.
+002. SAM: It's a tunnel, Tyler. I've been in tunnels before, and believe it or not, Ohio has tunnels too.
     샘: 샘: 터널이잖아, 타일러. 나 터널 들어가 봤어. 믿기 힘들겠지만 오하이오에도 터널 있거든.
 
 003. TYLER: Not this one, you haven't. You go into the hill and everything's dark, and then boom, the whole city jumps out at you, three rivers and all the bridges at once.
@@ -60,7 +60,7 @@
 015. WEN: I brought two highlighters, and the green one is for the things I disagree with.
     웬: 웬: 형광펜 두 개 가져왔어요. 초록색은 제가 동의 안 하는 부분용이에요.
 
-016. OSCAR: You made it! You must be Sam Kowalski, and I'm Oscar Vance, so come in, come in, but watch the floor drain, because it's from 1894 like everything else in here except the robots.
+016. OSCAR: You made it! You must be Sam Kowalski. I'm Oscar Vance, so come in, come in, but watch the floor drain. It's from 1894, like everything else in here except the robots.
     오스카: 오스카: 오셨네요! 샘 코왈스키 맞으시죠, 저는 오스카 밴스예요. 들어오세요, 들어오세요. 근데 바닥 배수구 조심하세요, 여기 로봇 빼고 다 그렇듯이 1894년 거거든요.
 
 017. SAM: Nice to meet you, Oscar. This is Dr. Wen Liu, our CTO, and this is Tyler Novak, who runs business development.
@@ -78,7 +78,7 @@
 021. WEN: No, I'm not, but there really is a mistake.
     웬: 웬: 아니요, 근데 실수가 있는 건 진짜예요.
 
-022. OSCAR: Okay, I like her already. Come on, I want you to meet Gus before he embarrasses me, so Gus, come over here and say hello!
+022. OSCAR: Okay, I like her already. Come on, I want you to meet Gus before he embarrasses me. Gus, come over here and say hello!
     오스카: 오스카: 좋아요, 벌써 마음에 드네요. 이리 오세요, 거스가 저 망신시키기 전에 인사시켜 드릴게요. 거스, 이리 와서 인사해!
 
 023. TYLER: Whoa, it's walking, Sam, it's actually walking around!
@@ -90,8 +90,8 @@
 025. OSCAR: That's the nicest thing anyone's said about his gait. Gus is five foot nine and about a hundred and fifty pounds, and he has forty joints with a motor in every one.
     오스카: 오스카: 거스 걸음걸이에 대해 들은 말 중에 제일 친절한 말이네요. 거스는 키 5피트 9인치에 몸무게 약 150파운드고, 관절 마흔 개마다 모터가 하나씩 있어요.
 
-026. TYLER: Can I ask a dumb question, which is why he's called Gus?
-    타일러: 타일러: 바보 같은 질문 하나 해도 돼요? 왜 이름이 거스예요?
+026. TYLER: Can I ask a dumb question? Why do you call him Gus, of all names?
+    타일러: 타일러: 바보 같은 질문 하나 해도 돼요? 왜 하필 이름이 거스예요?
 
 027. OSCAR: He's named after my grandfather, Augustin Vance, who did thirty-two years at the Homestead steel works right down the river until they closed it in 1986. He used to say his hands built half of this city.
     오스카: 오스카: 우리 할아버지 이름을 땄어요, 오거스틴 밴스요. 강 바로 아래 홈스테드 제철소에서 32년 일하셨는데 1986년에 문을 닫았죠. 할아버지는 자기 손이 이 도시 절반을 지었다고 하셨어요.
@@ -99,7 +99,7 @@
 028. SAM: Thirty-two years, huh? My father did thirty-two years at GM Moraine, and they closed it in 2008.
     샘: 샘: 32년이라. 우리 아버지도 GM 모레인에서 32년 일하셨는데, 2008년에 문 닫았어요.
 
-029. OSCAR: Then you get it. Okay, Gus, let's show them the boxes, so pick up the blue box, buddy, nice and easy.
+029. OSCAR: Then you get it. Okay, Gus, let's show them the boxes. Pick up the blue box, buddy, nice and easy.
     오스카: 오스카: 그럼 아시겠네요. 좋아, 거스, 상자 보여 드리자. 파란 상자 들어, 친구, 살살.
 
 030. TYLER: He's bending down, and he's got it, he's actually got it!
@@ -120,7 +120,7 @@
 035. TYLER: And now he sat down.
     타일러: 타일러: 그리고 이제 주저앉았어요.
 
-036. OSCAR: He sat down, okay, and that's fine, because it's a safe fall. He's designed to sit when he's confused, which is better than falling forward onto a person.
+036. OSCAR: He sat down, okay, and that's fine. It's a safe fall. He's designed to sit when he's confused, which is better than falling forward onto a person.
     오스카: 오스카: 주저앉았네요. 좋아요, 괜찮아요, 안전한 넘어짐이거든요. 헷갈리면 앉도록 설계돼 있는데, 사람 쪽으로 앞으로 넘어지는 것보단 낫죠.
 
 037. SAM: My dad does that too, he sits down when he's confused.
@@ -135,10 +135,10 @@
 040. OSCAR: This is Ingrid Sorensen, head of controls. She tells me not to do things, and then I do them, and then she's right, which is a good system.
     오스카: 오스카: 이쪽은 잉그리드 소렌슨, 제어 총괄이에요. 저한테 뭘 하지 말라고 하고, 저는 하고, 그러면 잉그리드가 맞는데, 그게 좋은 시스템이죠.
 
-041. OSCAR: Okay, coffee first, then the real conversation upstairs, and the stairs are also from 1894, so hold the rail.
+041. OSCAR: Okay, coffee first, then the real conversation upstairs. The stairs are also from 1894, so hold the rail.
     오스카: 오스카: 좋아요, 커피 먼저 마시고 위층에서 진짜 얘기해요. 계단도 1894년 거니까 난간 잡으세요.
 
-042. SAM: So, Oscar, Julian sent me five words, so why don't you give me the long version?
+042. SAM: So, Oscar, Julian sent me five words. Why don't you give me the long version?
     샘: 샘: 그래서요, 오스카, 줄리언은 나한테 다섯 단어를 보냈으니까 긴 버전으로 얘기해 줄래요?
 
 043. OSCAR: The long version is that everybody wants a humanoid, from warehouses to car plants to hospitals. They don't want a robot arm in a cage, they want something that walks into a building made for people and does a person's job.
@@ -153,7 +153,7 @@
 046. SAM: Hang on, let's make sure we all use the same words. Wen, what exactly is an actuator, in plain English?
     샘: 샘: 잠깐요, 다들 같은 말을 쓰는지 확인하죠. 웬, 액추에이터가 정확히 뭐예요, 쉬운 말로?
 
-047. WEN: In plain English, it's a muscle. It's a motor, a small gearbox, a sensor that knows the angle, and a little computer, all in one package, so you give it a command and the joint moves.
+047. WEN: In plain English, it's a muscle. It's a motor, a small gearbox, a sensor that knows the angle, and a little computer, all in one package. You give it a command, and the joint moves.
     웬: 웬: 쉬운 말로 하면 근육이에요. 모터, 작은 기어박스, 각도를 아는 센서, 작은 컴퓨터가 한 덩어리로 들어 있어서, 명령을 주면 관절이 움직여요.
 
 048. OSCAR: Exactly, and Gus has forty muscles, with twelve in the legs, fourteen in the arms, three in the waist, three in the neck, and eight in the hands.
@@ -162,7 +162,7 @@
 049. TYLER: Forty motors in one robot, Sam, that's more motors than a fully loaded Atlas Summit.
     타일러: 타일러: 로봇 하나에 모터 마흔 개라니, 대표님, 풀옵션 아틀라스 서밋보다 많아요.
 
-050. SAM: Not quite, because the Summit has forty-two, but those motors don't have to carry the car.
+050. SAM: Not quite. The Summit has forty-two, but those motors don't have to carry the car.
     샘: 샘: 그건 아니야, 서밋은 마흔둘이거든. 근데 그 모터들은 차를 들고 다닐 필요가 없잖아.
 
 051. OSCAR: Right now I buy my actuators from a supplier in Shenzhen, and they're good, really good. But last month they told me lead time is twenty-six weeks, and the price is going up forty percent.
@@ -192,7 +192,7 @@
 059. WEN: Can I see the knee, the one that made him sit down?
     웬: 웬: 거스를 주저앉게 만든 그 무릎, 볼 수 있을까요?
 
-060. INGRID: I have one here on the bench, but be careful, because it's heavier than it looks.
+060. INGRID: I have one here on the bench. Be careful, it's heavier than it looks.
     잉그리드: 잉그리드: 여기 작업대에 하나 있어요. 근데 조심하세요, 보기보다 무거워요.
 
 061. WEN: So it's a frameless motor with neodymium magnets and a strain wave gear, and it weighs about eleven hundred grams.
@@ -207,7 +207,7 @@
 064. INGRID: The problem is heat, because the peak only lasts a few seconds. If Gus squats ten times in a row, the magnets get hot and hot neodymium gets weaker, so the controller cuts the current to protect it, and he sits down.
     잉그리드: 잉그리드: 문제는 열이에요, 최대치는 몇 초밖에 안 가거든요. 거스가 열 번 연속으로 쪼그리면 자석이 뜨거워지고 뜨거운 네오디뮴은 약해져서, 제어기가 보호하려고 전류를 줄이고, 거스는 주저앉죠.
 
-065. WEN: That's interesting, so do you know what ferrite does when it gets hot?
+065. WEN: That's interesting. Do you know what ferrite does when it gets hot?
     웬: 웬: 흥미롭네요. 그럼 페라이트는 뜨거워지면 어떻게 되는지 아세요?
 
 066. INGRID: Wait, it doesn't get weaker too? I thought every magnet did that.
@@ -216,10 +216,10 @@
 067. WEN: It does a little, but it becomes harder to demagnetize, because ferrite hates the cold, not the heat. That's why a warehouse in July is a very comfortable place for a ferrite magnet.
     웬: 웬: 조금은요. 근데 감자(減磁)되기는 더 어려워져요, 페라이트는 더위가 아니라 추위를 싫어하거든요. 그래서 7월의 물류 창고는 페라이트 자석한테 아주 편한 곳이에요.
 
-068. OSCAR: Okay, but here's the thing everybody tells me, that ferrite is weak, like a third of the strength of neodymium. For a robot that's the whole game, because we talk about torque density.
+068. OSCAR: Okay, but here's the thing everybody tells me, that ferrite is weak, like a third of the strength of neodymium. For a robot, that's the whole game. We talk about torque density all day.
     오스카: 오스카: 좋아요, 근데 다들 하는 말이 있어요. 페라이트는 약하다, 네오디뮴 힘의 3분의 1 정도라고요. 로봇한테는 그게 전부예요, 우린 토크 밀도를 따지거든요.
 
-069. TYLER: Torque density, okay, but I'm the sales guy, so somebody help me out here.
+069. TYLER: Torque density, okay. I'm the sales guy, so somebody help me out here.
     타일러: 타일러: 토크 밀도라, 좋아요, 근데 저는 영업 담당이라서요, 누가 좀 도와주세요.
 
 070. INGRID: It's how much twist you get for every kilogram you carry, because a robot has to carry its own motors. If the knee gets heavier, the hip has to work harder, and the battery dies sooner.
@@ -228,7 +228,7 @@
 071. SAM: So every gram you add to the knee, you pay for it twice, once in the knee and once in the hip.
     샘: 샘: 그러니까 무릎에 1그램 더할 때마다 두 번 값을 치르는 거네요. 무릎에서 한 번, 엉덩이에서 한 번.
 
-072. OSCAR: It's three times, actually, because the battery's the third. That's why nobody uses ferrite in humanoids, since everybody says it's too heavy for the same torque.
+072. OSCAR: It's three times, actually. The battery's the third. That's why nobody uses ferrite in humanoids, since everybody says it's too heavy for the same torque.
     오스카: 오스카: 사실 세 번이에요, 배터리가 세 번째거든요. 그래서 휴머노이드엔 아무도 페라이트를 안 써요, 같은 토크면 너무 무겁다고 다들 그러니까요.
 
 073. WEN: Everybody also said it was too weak for cars and for surgical robots. Sam, show him the number.
@@ -255,28 +255,28 @@
 080. WEN: Our rotor stacks the magnetic flux in three layers at a very specific angle, which is the patent, and that gets us about ninety-two percent of a neodymium motor. The last eight percent we get from the firmware and from the gear.
     웬: 웬: 우리 로터는 자속을 아주 특정한 각도로 세 층에 쌓는데, 그게 특허예요. 그걸로 네오디뮴 모터의 92퍼센트쯤 나와요. 나머지 8퍼센트는 펌웨어와 기어에서 얻고요.
 
-081. INGRID: Okay, and what about the weight, which is the number Oscar loses sleep over?
+081. INGRID: Okay, and what about the weight? That's the number Oscar loses sleep over.
     잉그리드: 잉그리드: 좋아요, 그럼 무게는요? 오스카가 잠 못 자는 숫자가 그거예요.
 
 082. WEN: My guess before testing is that for the same torque at the joint, it'll be about fifteen percent heavier, or maybe twelve if I'm clever.
     웬: 웬: 시험 전 제 추측으로는, 관절에서 같은 토크에 15퍼센트쯤 무거울 거예요. 제가 잘하면 12퍼센트고요.
 
-083. OSCAR: Fifteen percent heavier on the knees, so what do you think, Ingrid?
+083. OSCAR: Fifteen percent heavier on the knees. What do you think, Ingrid?
     오스카: 오스카: 무릎이 15퍼센트 무거워진다라, 어떻게 생각해, 잉그리드?
 
 084. INGRID: It hurts, but it's not death. If the knee never has to cut current, he can squat all day instead of ten times, and a heavier knee that works is lighter than a knee that sits down.
     잉그리드: 잉그리드: 아프긴 하지만 죽을 정돈 아니에요. 무릎이 전류를 줄일 일이 없으면 열 번이 아니라 하루 종일 쪼그릴 수 있고, 일하는 무거운 무릎이 주저앉는 가벼운 무릎보다 가벼운 거예요.
 
-085. TYLER: I'm writing that down, because that's a sales line if I ever heard one.
+085. TYLER: I'm writing that down. That's a sales line if I ever heard one.
     타일러: 타일러: 그거 적어 둘게요, 그거 완전 영업 멘트예요.
 
-086. WEN: There's another thing, which is that your knee must be back-drivable, yes? If a person pushes the robot, the joint should give a little instead of fighting.
+086. WEN: There's another thing. Your knee must be back-drivable, yes? If a person pushes the robot, the joint should give a little instead of fighting.
     웬: 웬: 하나 더 있어요. 무릎은 백드라이브가 돼야 하죠? 사람이 로봇을 밀면 관절이 맞서지 말고 조금 밀려야 하잖아요.
 
 087. OSCAR: Yes, that's for safety, because if Gus bumps into somebody, his arm has to feel soft. That's half the reason humanoids are so hard.
     오스카: 오스카: 네, 안전 때문이에요. 거스가 누구랑 부딪치면 팔이 부드럽게 느껴져야 하거든요. 휴머노이드가 이렇게 어려운 이유의 절반이 그거예요.
 
-088. SAM: Back-drivable, okay, so Wen, give Tyler the plain English before he asks.
+088. SAM: Back-drivable, okay. Wen, give Tyler the plain English before he asks.
     샘: 샘: 백드라이브라, 좋아요, 웬, 타일러가 묻기 전에 쉬운 말로 해 줘요.
 
 089. WEN: If you can turn the joint by hand when the power is off, it's back-drivable, like a door. A bank vault door is not back-drivable, but Gus must be a kitchen door.
@@ -297,7 +297,7 @@
 094. SAM: We're in drills, washing machines, car seats, tractors, data centers, drones, wheelchairs, and a surgical robot, because we go where the hard problem is. A robot knee is right up our alley.
     샘: 샘: 우린 드릴, 세탁기, 자동차 시트, 트랙터, 데이터센터, 드론, 휠체어, 수술 로봇에 들어가요, 어려운 문제가 있는 데로 가니까요. 로봇 무릎은 딱 우리 전문이에요.
 
-095. OSCAR: Okay, then here's my real question, which is how fast I can see one. I don't mean a drawing, I mean a knee on Gus.
+095. OSCAR: Okay, then here's my real question: how fast can I see one? I don't mean a drawing, I mean a knee on Gus.
     오스카: 오스카: 좋아요, 그럼 진짜 질문이요, 하나 보려면 얼마나 걸려요? 도면 말고, 거스한테 단 무릎이요.
 
 096. WEN: A proper design would take eight weeks, but a proof of concept would be much faster.
@@ -321,7 +321,7 @@
 102. SAM: Well, Julian doesn't wind the copper.
     샘: 샘: 근데 줄리언이 구리선 감는 건 아니잖아요.
 
-103. OSCAR: Fair enough. Look, think about it over lunch, because there's a pierogi place on Butler Street. Ingrid, take Dr. Liu to the test floor, and I'll take Sam and Tyler to eat.
+103. OSCAR: Fair enough. Look, think about it over lunch. There's a pierogi place on Butler Street. Ingrid, take Dr. Liu to the test floor, and I'll take Sam and Tyler to eat.
     오스카: 오스카: 맞는 말이에요. 저기, 점심 먹으면서 생각해 보세요, 버틀러 가에 피에로기 집이 있거든요. 잉그리드, 리우 박사님 시험장으로 모셔, 난 샘이랑 타일러 데리고 밥 먹으러 갈게.
 
 104. WEN: I'm not hungry, thank you.
@@ -330,7 +330,7 @@
 105. SAM: Wen, you haven't eaten a thing since Dayton.
     샘: 샘: 웬, 데이턴에서부터 아무것도 안 먹었잖아요.
 
-106. WEN: I'm not hungry, Sam, because I want to see the hips.
+106. WEN: I'm not hungry, Sam. I want to go and see the hips.
     웬: 웬: 배 안 고파요, 대표님, 엉덩이 관절 보고 싶거든요.
 
 107. TYLER: Sam, did you see the look on her face?
@@ -423,8 +423,8 @@
 136. SAM: Okay, two knees in one week, so Oscar, here's the deal. Wen builds you a proof of concept, two knee actuators for one robot for the demo, and that's it, with no promises after that until we see the data.
     샘: 샘: 좋아요, 일주일에 무릎 두 개. 오스카, 이렇게 하죠. 웬이 데모용으로 로봇 한 대에 들어갈 무릎 액추에이터 두 개를 개념 증명으로 만들어 줄 거예요. 그게 다고, 데이터 보기 전엔 그 뒤로 아무 약속도 없어요.
 
-137. OSCAR: Deal, so what do you need from us?
-    오스카: 오스카: 좋아요, 저희한테 뭐가 필요해요?
+137. OSCAR: Deal. So what do you need from us to get started?
+    오스카: 오스카: 좋아요. 그럼 시작하려면 저희한테 뭐가 필요해요?
 
 138. WEN: I need the mounting drawings tonight and the command protocol from your main controller. And I need Ingrid on the phone every night until Monday.
     웬: 웬: 장착 도면은 오늘 밤에, 그리고 메인 제어기의 명령 프로토콜이 필요해요. 또 월요일까지 매일 밤 잉그리드랑 통화해야 해요.
@@ -441,7 +441,7 @@
 142. SAM: You know Gloria's going to ask who's paying for all this.
     샘: 글로리아가 이거 다 누가 돈 내냐고 물을 거 알죠.
 
-143. GLORIA: Gloria is already asking, because Tyler texted me a picture of a robot sitting on the floor. Sam, what did you just agree to?
+143. GLORIA: Gloria is already asking. Tyler texted me a picture of a robot sitting on the floor. Sam, what did you just agree to?
     글로리아: 글로리아: 글로리아는 벌써 묻고 있어, 타일러가 바닥에 주저앉은 로봇 사진을 문자로 보냈거든. 샘, 방금 뭐에 동의한 거야?
 
 144. SAM: It's two knees in one week as a proof of concept. We pay for our own time and they pay for parts, and if it works, we talk about real money.
@@ -456,13 +456,13 @@
 147. GLORIA: You said "eleven investors" like it's a small thing, baby. Fine, one week, and I'm writing "KNEES" on the board, but in pencil.
     글로리아: 글로리아: 너 "투자자 열한 명"을 별일 아닌 것처럼 말하네, 얘. 좋아, 일주일. 칠판에 "무릎"이라고 쓴다, 근데 연필로.
 
-148. JULIAN: Sam Kowalski, this is Julian Ashford. Oscar just texted me a thumbs-up and a picture of your CTO lying under a robot, so I take it you're in?
+148. JULIAN: Sam Kowalski, this is Julian Ashford. Oscar just texted me a thumbs-up and a picture of your CTO lying under a robot. I take it you're in?
     줄리언: 줄리언: 샘 코왈스키, 줄리언 애시퍼드예요. 오스카가 방금 엄지 이모티콘이랑 로봇 밑에 누워 있는 CTO 사진을 보냈네요. 하겠다는 거죠?
 
 149. SAM: We're in for two knees, Julian. Not the whole robot.
     샘: 무릎 두 개만 하는 거예요, 줄리언. 로봇 전체가 아니라.
 
-150. JULIAN: That's how it always starts. See you Monday, and Sam? Tell your knees not to sit down, because my investors have very short attention spans.
+150. JULIAN: That's how it always starts. See you Monday, and Sam? Tell your knees not to sit down. My investors have very short attention spans.
     줄리언: 줄리언: 늘 그렇게 시작하죠. 월요일에 봐요. 그리고 샘? 무릎한테 주저앉지 말라고 전해요, 우리 투자자들은 집중력이 아주 짧거든요.
 
 ---

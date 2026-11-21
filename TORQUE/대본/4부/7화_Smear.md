@@ -27,7 +27,7 @@
 004. SAM: Good. Wen, is the version five update for the Haverford motors ready?
     샘: 좋아요. 웬, 해버퍼드 모터용 5 버전 업데이트 준비됐어요?
 
-005. WEN: It's ready, because testing finished last night.
+005. WEN: It's ready. Testing finished last night.
     웬: 준비됐어요. 어젯밤에 테스트 끝났어요.
 
 006. SAM: Great, so anything else, Tyler, since you usually have something?
@@ -54,13 +54,13 @@
 013. EARL: Trust me, nobody wants that.
     얼: 그건 아무도 원치 않아.
 
-014. WEN: It's because of me, because everybody saw the blog.
+014. WEN: It's because of me. Everybody saw the blog.
     웬: 저 때문이에요. 다들 그 블로그를 봤거든요.
 
 015. SAM: What blog? Somebody please tell me what's going on.
     샘: 무슨 블로그? 누가 무슨 일인지 좀 말해 줘.
 
-016. TYLER: Sam, you haven't seen it? It went up Wednesday night, and somebody posted it in the parking lot group, so it's everywhere now, on industry forums and a couple of news sites.
+016. TYLER: Sam, you haven't seen it? It went up Wednesday night, and somebody posted it in the parking lot group. Now it's everywhere, on industry forums and a couple of news sites.
     타일러: 샘, 못 봤어요? 수요일 밤에 올라왔어요. 누가 주차장 단톡방에 올렸고, 지금은 어디에나 있어요. 업계 포럼이랑 뉴스 사이트 몇 군데까지요.
 
 017. SAM: I was in a detention center in Georgia until Wednesday and then on the phone with Korea all night, so show me.
@@ -69,13 +69,13 @@
 018. TYLER: Okay, the site is called "Industrial Integrity Watch," and the headline is, "Who's Really Behind America's Rare-Earth-Free Motor?"
     타일러: 네. 사이트 이름은 '산업 청렴성 감시'고, 제목은 '미국의 희토류 프리 모터 뒤에는 진짜 누가 있나?'예요.
 
-019. SAM: Read it out loud, because I want to hear exactly what it says.
+019. SAM: Read it out loud. I want to hear exactly what it says.
     샘: 소리 내서 읽어 봐. 정확히 뭐라고 써 있는지 듣고 싶어.
 
 020. TYLER: I don't want to read it out loud, not in front of Wen.
     타일러: 소리 내서 읽기 싫어요. 웬 앞에서는요.
 
-021. WEN: Read it, Tyler, because I've read it eleven times, and I want Sam to hear it.
+021. WEN: Read it, Tyler. I've read it eleven times, and I want Sam to hear it.
     웬: 읽어요, 타일러. 전 열한 번 읽었어요. 샘도 들었으면 해요.
 
 022. TYLER: "Ferrox Motion, the Ohio company now suing Calloway Dynamics, relies on a Chinese national as its chief engineer. Dr. Wen Liu was born in Shenzhen. Her father is a member of the Chinese Communist Party."
@@ -90,7 +90,7 @@
 025. SAM: Who wrote it, and is there a name anywhere on the page?
     샘: 누가 썼어? 어디 이름이라도 있어?
 
-026. TYLER: Nobody, because it's anonymous, with no name anywhere, and the site was created three weeks ago with four articles, all about us.
+026. TYLER: Nobody. It's anonymous, with no name anywhere, and the site was created three weeks ago with four articles, all about us.
     타일러: 아무도요. 익명이에요. 이름이 어디에도 없어요. 사이트는 3주 전에 만들어졌고, 글이 네 개인데 전부 우리 얘기예요.
 
 027. SAM: Three weeks ago, which was the week we filed.
@@ -105,22 +105,22 @@
 030. PATTY: Somebody in my church group printed it out, printed it, Sam, and who even prints things anymore?
     패티: 우리 교회 모임에선 누가 출력까지 해 왔어. 출력을, 샘. 요즘 누가 출력을 해?
 
-031. EARL: That's why nobody talked this morning, because everybody got it from somebody, and nobody knew what to say to Wen.
+031. EARL: That's why nobody talked this morning. Everybody got it from somebody, and nobody knew what to say to Wen.
     얼: 그래서 아침에 아무도 말을 안 한 거야. 다들 누군가한테서 받았고, 웬한테 뭐라고 해야 할지 몰랐던 거지.
 
-032. WEN: You can say anything to me, because I'm still the same person who was here on Monday.
+032. WEN: You can say anything to me. I'm still the same person who was here on Monday.
     웬: 저한테 무슨 말이든 해도 돼요. 전 월요일에 여기 있던 그 사람 그대로예요.
 
-033. SAM: Okay, everybody, listen, because somebody wants you to feel exactly what you're feeling right now, which is confused, nervous, and a little suspicious.
+033. SAM: Okay, everybody, listen. Somebody wants you to feel exactly what you're feeling right now, which is confused, nervous, and a little suspicious.
     샘: 자, 다들 들어요. 누군가는 여러분이 지금 느끼는 걸 정확히 느끼길 원해요. 혼란스럽고, 불안하고, 조금 의심스러운 기분이요.
 
-034. SAM: That's the whole point, because they can't beat us in court, so they're trying to beat us in your group chat, and I'm going to deal with it today.
+034. SAM: That's the whole point. They can't beat us in court, so they're trying to beat us in your group chat, and I'm going to deal with it today.
     샘: 그게 핵심이에요. 법정에서 우릴 못 이기니까 여러분 단톡방에서 이기려는 거예요. 제가 오늘 처리할게요.
 
-035. GLORIA: Sam, tell them about the charter flight, because they want to know.
+035. GLORIA: Sam, tell them about the charter flight. They want to know.
     글로리아: 샘, 전세기 얘기 해 줘. 다들 궁금해해.
 
-036. SAM: Right, there's some good news, because the charter flight from Atlanta landed in Korea this morning, so Mr. Oh, Jihoon, and the other seven are home with their families. They got the cards, and Jayden, Mr. Oh kept yours.
+036. SAM: Right, there's some good news. The charter flight from Atlanta landed in Korea this morning, so Mr. Oh, Jihoon, and the other seven are home with their families. They got the cards, and Jayden, Mr. Oh kept yours.
     샘: 맞다, 좋은 소식이 있어요. 애틀랜타에서 출발한 전세기가 오늘 아침 한국에 도착했어요. 오 기사님, 지훈 씨, 나머지 일곱 명이 가족 품으로 돌아갔어요. 카드도 받았고요. 제이든, 오 기사님이 네 카드는 간직하셨대.
 
 037. JAYDEN: He did, he kept mine, when I wrote it really fast?
@@ -144,7 +144,7 @@
 043. SAM: It's your lab, though, so how bad is it? I don't mean the blog, I mean you.
     샘: 그래도 웬 실험실이죠. 얼마나 안 좋아요? 블로그 말고, 웬 말이에요.
 
-044. WEN: Look at my phone, because there are sixty-three messages since Wednesday, mostly from numbers I don't know.
+044. WEN: Look at my phone. There are sixty-three messages since Wednesday, mostly from numbers I don't know.
     웬: 제 휴대폰 보세요. 수요일부터 메시지가 예순세 개예요. 대부분 모르는 번호고요.
 
 045. SAM: What do they say? You don't have to read me all of them.
@@ -156,7 +156,7 @@
 047. SAM: Your car, here in our parking lot?
     샘: 웬 차요? 여기, 우리 주차장에서?
 
-048. WEN: Taken from the road, through the fence, yesterday I think, because you can see the coffee cup on my dashboard.
+048. WEN: Taken from the road, through the fence, yesterday I think. You can see the coffee cup on my dashboard.
     웬: 도로에서 울타리 너머로 찍은 거예요. 어제 같아요. 계기판 위에 제 커피 컵이 보이거든요.
 
 049. SAM: Okay, that's not words on a blog anymore, that's a threat, so we're calling the police today.
@@ -165,13 +165,13 @@
 050. WEN: The police will say it's just a picture of a car.
     웬: 경찰은 그냥 차 사진이라고 할 거예요.
 
-051. SAM: Then they'll say it, and it'll be on record, because Ben says everything goes on record. And I'm getting a camera at the fence, and Earl is going to walk you to your car.
+051. SAM: Then they'll say it, and it'll be on record. Ben says everything goes on record. And I'm getting a camera at the fence, and Earl is going to walk you to your car.
     샘: 그럼 그렇게 말하라고 하죠. 그래도 기록에 남아요. 벤이 모든 건 기록에 남긴다고 했잖아요. 그리고 울타리에 카메라 달고, 얼이 차까지 같이 걸어갈 거예요.
 
 052. WEN: I don't need a bodyguard, Sam.
     웬: 경호원은 필요 없어요, 샘.
 
-053. SAM: Earl's not a bodyguard, because he's sixty-one with bad knees, so he's a witness.
+053. SAM: Earl's not a bodyguard. He's sixty-one with bad knees, so he's a witness.
     샘: 얼은 경호원이 아니에요. 예순한 살에 무릎도 안 좋아요. 증인이에요.
 
 054. WEN: Okay, Earl can be a witness.
@@ -180,13 +180,13 @@
 055. SAM: Wen, is the thing about your father true?
     샘: 웬, 아버님 얘기 그거 사실이에요?
 
-056. WEN: It's true. He joined the Party in 1979, when he was a twenty-four-year-old new teacher, because the principal told all the young teachers to join. He taught children about Newton for forty years, and now he grows tomatoes on his balcony.
+056. WEN: It's true. He joined the Party in 1979, when he was a twenty-four-year-old new teacher. The principal told all the young teachers to join. He taught children about Newton for forty years, and now he grows tomatoes on his balcony.
     웬: 사실이에요. 1979년에 입당하셨어요. 스물네 살 신임 교사였는데, 교장이 젊은 교사들 다 입당하라고 했거든요. 40년 동안 아이들한테 뉴턴을 가르치셨고, 지금은 발코니에서 토마토를 키우세요.
 
 057. SAM: And they make it sound like he's a spy chief.
     샘: 근데 그걸 무슨 스파이 두목처럼 써 놨네요.
 
-058. WEN: That's the trick, Sam, because every sentence is true, my birthplace, my father, my trips, but they put the true things next to each other so you see something false. It's called guilt by association.
+058. WEN: That's the trick, Sam. Every sentence is true, my birthplace, my father, my trips, but they put the true things next to each other so you see something false. It's called guilt by association.
     웬: 그게 수법이에요, 샘. 문장 하나하나는 다 사실이에요. 출생지, 아버지, 여행. 근데 사실들을 나란히 놓아서 거짓을 보게 만드는 거죠. 그걸 연좌의 오류라고 해요.
 
 059. SAM: Guilt by association, you said?
@@ -201,7 +201,7 @@
 062. WEN: Don't be sorry, be smart, and ask who benefits from this blog.
     웬: 미안해하지 말고 똑똑해지세요. 이 블로그로 누가 이득을 보는지 생각해 보세요.
 
-063. SAM: Calloway, because Victoria basically told me on the phone, "That question is going to get louder."
+063. SAM: Calloway. Victoria basically told me on the phone, "That question is going to get louder."
     샘: 캘러웨이죠. 빅토리아가 전화로 거의 대놓고 말했어요. '그 질문은 점점 커질 거예요.'
 
 064. WEN: But you can't prove it.
@@ -219,88 +219,88 @@
 068. SAM: Look into what, Gary, her passport or her coffee?
     샘: 뭘 알아보라는 거야, 개리? 여권? 커피?
 
-069. GARY: You know how it is, with a big appliance company, a supplier in the news, and the word "China" in the headline, so our board gets nervous, and I have to show I did my due diligence.
+069. GARY: You know how it is. A big appliance company, a supplier in the news, and the word "China" in the headline, and our board gets nervous. I have to show I did my due diligence.
     개리: 어떤지 알잖아. 대형 가전 회사에, 공급사가 뉴스에 나오고, 제목에 '중국'이 들어가 있으면 이사회가 불안해해. 내가 실사를 했다는 걸 보여 줘야 해.
 
 070. SAM: Due diligence, meaning what?
     샘: 실사라는 게 뭔데?
 
-071. GARY: Meaning I ask you some questions, you send me some answers, I put them in a folder, and my CEO feels better, so it's mostly paper, mostly.
+071. GARY: Meaning I ask you some questions, you send me some answers, I put them in a folder, and my CEO feels better. It's mostly paper. Mostly.
     개리: 내가 질문 몇 개 하면 당신이 답을 보내고, 난 그걸 폴더에 넣고, 우리 CEO는 마음이 놓이는 거지. 거의 서류 작업이야. 거의.
 
 072. SAM: Gary, you've had Wen's motor in your washing machines since April, so did any of them call Beijing?
     샘: 개리, 4월부터 웬의 모터가 당신네 세탁기에 들어가 있잖아. 그중에 베이징에 전화 건 거 있어?
 
-073. GARY: Ha, no, they just spin very efficiently. Look, Sam, personally I don't care, because Dr. Liu saved my spring. But everybody's replaceable, including me, so send me the answers by Friday.
+073. GARY: Ha, no, they just spin very efficiently. Look, Sam, personally I don't care. Dr. Liu saved my spring. But everybody's replaceable, including me, so send me the answers by Friday.
     개리: 하, 아니. 그냥 아주 효율적으로 돌아가지. 샘, 개인적으론 상관없어. 리우 박사가 내 봄을 살려 줬으니까. 근데 누구든 대체될 수 있어. 나도 포함해서. 금요일까지 답 보내 줘.
 
 074. SAM: I'll send them today, Gary.
     샘: 오늘 보낼게, 개리.
 
-075. GLORIA: There's more, because Atlas sent an email too, not from Frank but from their compliance department, a "supplier foreign influence questionnaire" that's fourteen pages long.
+075. GLORIA: There's more. Atlas sent an email too, not from Frank but from their compliance department, a "supplier foreign influence questionnaire" that's fourteen pages long.
     글로리아: 더 있어. 아틀라스도 이메일 보냈어. 프랭크 말고 컴플라이언스 부서에서. '공급사 외국 영향 설문지.' 14페이지짜리.
 
 076. SAM: Fourteen pages, for a seat motor that costs thirteen dollars.
     샘: 14페이지요? 13달러짜리 시트 모터 하나에?
 
-077. GLORIA: Ownership, board members, foreign employees, foreign bank accounts, and trips to "countries of concern." It's not just about Wen, because they send it to everybody now, but the timing, baby.
+077. GLORIA: Ownership, board members, foreign employees, foreign bank accounts, and trips to "countries of concern." It's not just about Wen. They send it to everybody now, but the timing, baby.
     글로리아: 지분 구조, 이사진, 외국인 직원, 해외 계좌, '우려 국가' 방문 이력. 웬 얘기만은 아니야. 요즘은 모두한테 보내거든. 근데 타이밍이 말이야, 얘.
 
-078. TYLER: To be fair, those questions aren't crazy, because I was in the Army, and supply chains get attacked, with chips that have back doors and stuff like that, so big companies have to ask.
+078. TYLER: To be fair, those questions aren't crazy. I was in the Army, and supply chains get attacked, with chips that have back doors and stuff like that. Big companies have to ask.
     타일러: 공정하게 말하면, 그 질문들이 말도 안 되는 건 아니에요. 저 군대 있었잖아요. 공급망은 공격당해요. 백도어 달린 칩 같은 거요. 대기업은 물어봐야 해요.
 
-079. WEN: Tyler is right, and I would ask those questions too, because if I were Atlas, I would want to know.
+079. WEN: Tyler is right, and I would ask those questions too. If I were Atlas, I would want to know.
     웬: 타일러 말이 맞아요. 저라도 그 질문 할 거예요. 제가 아틀라스라면 알고 싶을 테니까요.
 
 080. GLORIA: Then we answer every question honestly and completely, and Wen already wrote her list for Ben, didn't you?
     글로리아: 그럼 모든 질문에 정직하게, 빠짐없이 답하자. 웬, 벤한테 줄 목록 벌써 썼지?
 
-081. WEN: Every trip, every person, and every bank account, in two pages, because my life is very boring on paper.
+081. WEN: Every trip, every person, and every bank account, in two pages. My life is very boring on paper.
     웬: 모든 여행, 모든 사람, 모든 계좌요. 두 페이지예요. 서류상으로 제 인생은 아주 지루해요.
 
-082. GLORIA: Boring is our friend, because Ben said so.
+082. GLORIA: Boring is our friend. Ben said so.
     글로리아: 지루한 게 우리 친구야. 벤이 그랬잖아.
 
-083. SAM: But answering questionnaires isn't enough, because somebody is putting this story in people's heads, so we need to put a different one there, a true one.
+083. SAM: But answering questionnaires isn't enough. Somebody is putting this story in people's heads, so we need to put a different one there, a true one.
     샘: 근데 설문지에 답하는 걸로는 부족해요. 누가 사람들 머릿속에 이 이야기를 넣고 있잖아요. 우리가 다른 이야기를 넣어야 해요. 진짜 이야기를요.
 
 084. GLORIA: How, with a blog of our own?
     글로리아: 어떻게? 우리도 블로그 만들어?
 
-085. SAM: With Megan Cho, because she told me in August to watch the internet for three weeks, and it's been three weeks, so I'm calling her.
+085. SAM: With Megan Cho. She told me in August to watch the internet for three weeks, and it's been three weeks, so I'm calling her.
     샘: 메건 조요. 8월에 3주 동안 인터넷을 지켜보라고 했거든요. 딱 3주 됐어요. 전화할게요.
 
-086. MEGAN: You called me, which is a first, because usually CEOs run from me.
+086. MEGAN: You called me, which is a first. Usually CEOs run from me.
     메건: 저한테 전화를 다 하시고, 처음이네요. 보통 CEO들은 절 피해 다니거든요.
 
 087. SAM: I'm not a usual CEO, and thanks for coming down from Columbus.
     샘: 전 보통 CEO가 아니라서요. 콜럼버스에서 와 줘서 고마워요.
 
-088. MEGAN: I was coming anyway, so let's set the rules. This is on the record, which means everything you say, I can print, and if you want something off the record, you say so first, not after.
+088. MEGAN: I was coming anyway. Let's set the rules. This is on the record, which means everything you say, I can print. If you want something off the record, you say so first, not after.
     메건: 어차피 오려던 참이었어요. 규칙부터 정하죠. 이건 공식 인터뷰예요. 하시는 말은 전부 기사로 쓸 수 있어요. 비공식으로 하고 싶은 말은 먼저 말씀하세요. 나중 말고요.
 
-089. SAM: On the record is good, because that's what I want.
+089. SAM: On the record is good. That's what I want.
     샘: 공식으로 좋아요. 제가 원하는 게 그거예요.
 
-090. MEGAN: First question, which is whether it's true, as the blog says, that your CTO's father is a member of the Communist Party.
+090. MEGAN: First question. The blog says your CTO's father is a member of the Communist Party. Is that true?
     메건: 첫 질문이요. 블로그에 따르면 CTO의 아버지가 공산당원이라는데, 사실입니까?
 
-091. SAM: Yes. He joined in 1979, as a twenty-four-year-old schoolteacher, because his principal told him to, and he's seventy now and retired, and he tutors neighborhood kids in physics and grows tomatoes.
+091. SAM: Yes. He joined in 1979, as a twenty-four-year-old schoolteacher. His principal told him to, and he's seventy now and retired, and he tutors neighborhood kids in physics and grows tomatoes.
     샘: 네. 1979년에 스물네 살 교사였을 때 교장이 시켜서 입당했습니다. 지금은 일흔이고 은퇴하셨어요. 동네 아이들한테 물리를 가르치고 토마토를 키우십니다.
 
 092. MEGAN: So you're confirming it, on the record.
     메건: 그럼 공식적으로 확인해 주시는 거네요.
 
-093. SAM: I'm confirming the truth. There are tens of millions of Party members in China, Megan, teachers, nurses, and factory managers, so if that's the test, half the people who make our phones fail it.
+093. SAM: I'm confirming the truth. There are tens of millions of Party members in China, Megan, teachers, nurses, and factory managers. If that's the test, half the people who make our phones fail it.
     샘: 사실을 확인하는 겁니다. 중국엔 당원이 수천만 명이에요, 메건. 교사, 간호사, 공장 관리자. 그게 기준이면 우리 휴대폰 만드는 사람 절반이 탈락이에요.
 
 094. MEGAN: Some people would say that's exactly the problem.
     메건: 바로 그게 문제라고 할 사람들도 있겠죠.
 
-095. SAM: Then let's talk about the real problem, which is that our motors have zero parts from China, zero, because Wen designed it that way years before it was popular, so she's the reason we don't need Chinese magnets.
+095. SAM: Then let's talk about the real problem. Our motors have zero parts from China, zero. Wen designed it that way years before it was popular, and she's the reason we don't need Chinese magnets.
     샘: 그럼 진짜 문제를 얘기하죠. 저희 모터엔 중국산 부품이 하나도 없어요. 하나도요. 그게 유행하기 몇 년 전부터 웬이 그렇게 설계했어요. 우리가 중국 자석이 필요 없는 건 웬 덕분이에요.
 
-096. MEGAN: Second question, which is whether Dr. Liu has access to everything at Ferrox.
+096. MEGAN: Second question. Does Dr. Liu have access to everything at Ferrox?
     메건: 두 번째 질문이요. 리우 박사가 페록스의 모든 것에 접근할 수 있나요?
 
 097. SAM: She wrote everything at Ferrox, so that's like asking if the author has access to the book.
@@ -309,13 +309,13 @@
 098. MEGAN: That's a good line, and you practiced it.
     메건: 좋은 말이네요. 연습하셨죠.
 
-099. SAM: In the truck, because Gloria made me practice it six times.
+099. SAM: In the truck. Gloria made me practice it six times.
     샘: 트럭에서요. 글로리아가 여섯 번 연습시켰어요.
 
-100. MEGAN: Third question, and this is the one my editor wants, which is whether you would move Dr. Liu to a different role if you ever bid on defense work.
+100. MEGAN: Third question, and this is the one my editor wants. If you ever bid on defense work, would you move Dr. Liu to a different role?
     메건: 세 번째 질문이요. 이게 편집장이 원하는 질문인데요. 혹시 국방 사업에 입찰하게 되면 리우 박사를 다른 자리로 옮기실 건가요?
 
-101. SAM: If the law requires something specific for a specific contract, we'll follow the law, but I won't push her out to make a blog happy, not ever, because I stand by her one hundred percent.
+101. SAM: If the law requires something specific for a specific contract, we'll follow the law, but I won't push her out to make a blog happy, not ever. I stand by her one hundred percent.
     샘: 특정 계약에 법이 특정한 걸 요구하면 법을 따르겠습니다. 하지만 블로그 비위 맞추자고 웬을 밀어내진 않을 겁니다. 절대로요. 전 백 퍼센트 웬 편입니다.
 
 102. MEGAN: You know that answer might cost you contracts someday.
@@ -336,7 +336,7 @@
 107. SAM: And who hired the firm?
     샘: 그 회사는 누가 고용했는데요?
 
-108. MEGAN: That, I don't know, because PR firms don't publish their clients, and I have a guess, but guesses don't go in my paper.
+108. MEGAN: That, I don't know. PR firms don't publish their clients, and I have a guess, but guesses don't go in my paper.
     메건: 그건 몰라요. 홍보 회사는 고객을 공개 안 하거든요. 짐작은 가지만, 짐작은 기사에 안 들어가요.
 
 109. SAM: Could Ben find out in discovery?
@@ -348,31 +348,31 @@
 111. SAM: So it's a smear campaign.
     샘: 흠집 내기 캠페인이라.
 
-112. MEGAN: That's what it is, many small attacks from many places that look like they came from nowhere, and nobody signs it, which is what makes it work.
+112. MEGAN: That's what it is. Many small attacks from many places, and they look like they came from nowhere. Nobody signs it, and that's what makes it work.
     메건: 그게 바로 이거예요. 여러 곳에서 오는 작은 공격 여러 개가 어디서 왔는지 모르게 보이는 거요. 아무도 서명하지 않죠. 그래서 먹히는 거고요.
 
 113. SAM: Why are you telling me this off the record?
     샘: 그걸 왜 비공식으로 얘기해 주는 거예요?
 
-114. MEGAN: Because I can't print it yet, and you should know what you're fighting. Back on the record now, with one last question, which is how Dr. Liu is doing.
+114. MEGAN: Because I can't print it yet, and you should know what you're fighting. Now we're back on the record, with one last question. How is Dr. Liu doing?
     메건: 아직 기사로 못 쓰니까요. 그리고 뭐랑 싸우는지는 아셔야죠. 이제 다시 공식으로요. 마지막 질문, 리우 박사는 어떻게 지내세요?
 
-115. SAM: Ask her yourself, because she's in the lab, but I'll warn you, she'll answer like a physicist.
+115. SAM: Ask her yourself. She's in the lab, but I'll warn you, she'll answer like a physicist.
     샘: 직접 물어봐요. 실험실에 있어요. 근데 경고하는데, 물리학자처럼 대답할 거예요.
 
-116. WEN: I'm doing badly. Someone took a photo of my car, and someone called my father's number in Shenzhen from an American phone and hung up, and I'm sleeping three hours, and those are the facts.
+116. WEN: I'm doing badly. Someone took a photo of my car. Someone called my father's number in Shenzhen from an American phone and hung up. I'm sleeping three hours, and those are the facts.
     웬: 안 좋아요. 누가 제 차 사진을 찍었고, 누가 미국 번호로 선전에 계신 아버지한테 전화했다가 끊었어요. 전 세 시간 자요. 그게 사실이에요.
 
 117. MEGAN: Your father, someone called your father?
     메건: 아버님이요? 누가 아버님한테 전화를 했다고요?
 
-118. WEN: Yesterday, and he thought it was me, so he said, "Wen, are you in trouble?" I said no, and that was the first time I've lied to him in ten years.
+118. WEN: Yesterday. He thought it was me, and he said, "Wen, are you in trouble?" I said no, and that was the first time I've lied to him in ten years.
     웬: 어제요. 아버지는 저인 줄 아셨대요. '웬, 무슨 일 있니?' 하시길래 아니라고 했어요. 10년 만에 처음으로 아버지한테 거짓말한 거예요.
 
 119. MEGAN: Can I quote you on that?
     메건: 그 말 인용해도 될까요?
 
-120. WEN: Yes, all of it, because if they want to tell my story, I'd rather tell it myself.
+120. WEN: Yes, all of it. If they want to tell my story, I'd rather tell it myself.
     웬: 네, 전부요. 제 이야기를 하겠다면, 차라리 제가 직접 할래요.
 
 121. EARL: Wen, have you got a minute? Come out to the floor before you walk to your car.
@@ -381,13 +381,13 @@
 122. WEN: Earl, I told Sam I don't need a bodyguard.
     웬: 얼, 샘한테 경호원 필요 없다고 했어요.
 
-123. EARL: I'm not a bodyguard, I'm a witness, because Sam said so, so come on.
+123. EARL: I'm not a bodyguard, I'm a witness. Sam said so, so come on.
     얼: 난 경호원 아니야, 증인이야. 샘이 그랬잖아. 어서 와.
 
 124. WEN: Why is everyone standing by Betsy, when second shift should be working?
     웬: 왜 다들 베치 옆에 서 있어요? 2교대는 일하고 있어야 하잖아요.
 
-125. PATTY: We are working, because we worked on this during lunch, both shifts. Darnell, unroll it.
+125. PATTY: We are working. We worked on this during lunch, both shifts. Darnell, unroll it.
     패티: 일하고 있어. 점심시간에 이거 만들었거든. 두 교대 다. 대널, 펼쳐.
 
 126. DARNELL: Okay, Jayden, grab the other end and lift it higher, higher, okay.
@@ -399,7 +399,7 @@
 128. WEN: "Physics doesn't have a passport. Ferrox Motion. Moraine, Ohio." And all the names.
     웬: "물리학에는 여권이 없다. 페록스 모션. 오하이오주 모레인." 그리고 이름들이 전부.
 
-129. PATTY: Ninety-four names, because everybody signed, even the night cleaning crew.
+129. PATTY: Ninety-four names. Everybody signed, even the night cleaning crew.
     패티: 아흔네 명 이름이야. 다 서명했어. 야간 청소반까지.
 
 130. WEN: That's what I said at the press conference.
@@ -411,7 +411,7 @@
 132. JAYDEN: I signed it too, and my uncle doesn't have to know.
     제이든: 저도 서명했어요. 삼촌은 몰라도 돼요.
 
-133. DARNELL: My Army buddy texted again, and I told him, "I work at the American company that doesn't need Chinese magnets, because of her."
+133. DARNELL: My Army buddy texted again, and I told him, "I work at the American company that doesn't need Chinese magnets. Of her."
     대넬: 군대 동기가 또 문자 했길래 말했어요. '난 중국 자석이 필요 없는 미국 회사에서 일해. 저 사람 덕분에.'
 
 134. PATTY: And I took the printout from my church group and wrote on the back, "This is my friend, she's a good person, come meet her," and I put it back on the table.
@@ -450,19 +450,19 @@
 145. SAM: You mean Lou's?
     샘: 루스 말이에요?
 
-146. WEN: Lou's, Tuesday morning, before the huddle, and I'll tell you everything, where I came from and why I stayed, because you've known me nine years, and you don't know any of it.
+146. WEN: Lou's, Tuesday morning, before the huddle, and I'll tell you everything, where I came from and why I stayed. You've known me nine years, and you don't know any of it.
     웬: 루스요. 화요일 아침, 회의 전에요. 다 말해 드릴게요. 어디서 왔고, 왜 남았는지. 절 9년이나 아셨는데 그건 하나도 모르시잖아요.
 
 147. SAM: I know you make terrible coffee.
     샘: 커피 형편없이 타는 건 알죠.
 
-148. WEN: That's the first thing you'll learn is wrong, because my coffee is excellent, and your coffee machine is the problem.
+148. WEN: That's the first thing you'll learn is wrong. My coffee is excellent, and your coffee machine is the problem.
     웬: 그게 틀렸다는 걸 제일 먼저 알게 되실 거예요. 제 커피는 훌륭해요. 문제는 샘 커피 머신이에요.
 
-149. EARL: She's right about that, because the machine honks like a goose.
+149. EARL: She's right about that. The machine honks like a goose.
     얼: 그건 웬 말이 맞아. 그 기계 거위처럼 꽥꽥거려.
 
-150. WEN: Tuesday at six a.m., and bring Gloria's runway face, because it's a long story.
+150. WEN: Tuesday at six a.m., and bring Gloria's runway face. It's a long story.
     웬: 화요일 새벽 여섯 시요. 글로리아의 런웨이 얼굴로 오세요. 긴 이야기예요.
 
 ---

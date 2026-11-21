@@ -42,7 +42,7 @@
 009. SAM: No, not cheaper, Gloria, it's bigger.
     샘: 아뇨, 안 싸요. 더 커요.
 
-010. BEN: Sam Kowalski, get in here, and sorry about the wait, because a clerk in Cincinnati was explaining to me, very slowly, why my motion was filed in the wrong font.
+010. BEN: Sam Kowalski, get in here, and sorry about the wait. A clerk in Cincinnati was explaining to me, very slowly, why my motion was filed in the wrong font.
     벤: 샘 코왈스키! 들어와. 기다리게 해서 미안. 신시내티 판사실 서기가 내 신청서가 왜 글꼴이 틀렸는지 아주 천천히 설명해 주더라고.
 
 011. SAM: The wrong font, seriously, is that a real problem?
@@ -66,13 +66,13 @@
 017. SAM: I had just been robbed, Ben, I just didn't know it for eight months.
     샘: 진짜로 강도당한 거였어. 여덟 달 동안 몰랐을 뿐이지.
 
-018. BEN: Here's what I told him, which is that you have something most people who walk into my office don't have, a story a jury can understand in thirty seconds.
+018. BEN: Here's what I told him. You have something most people who walk into my office don't have: a story a jury can understand in thirty seconds.
     벤: 내가 한 말은 이거예요. 당신들한텐 내 사무실에 오는 사람들 대부분이 못 가진 게 있다, 배심원이 30초 만에 이해할 수 있는 이야기.
 
 019. GLORIA: And what story would that be?
     글로리아: 그게 무슨 이야기인데요?
 
-020. BEN: A small shop in an old warehouse in Dayton builds something the big boys said was impossible, and a giant company tries to buy it, gets told no, hires away their engineer, and eight months later, like magic, the giant has the same thing.
+020. BEN: A small shop in an old warehouse in Dayton builds something the big boys said was impossible. A giant company tries to buy it, gets told no, and hires away their engineer. Eight months later, like magic, the giant has the same thing.
     벤: 데이턴 낡은 창고의 작은 공장이 큰 회사들이 불가능하다던 걸 만들고, 거대 기업이 사려다 거절당하자 엔지니어를 빼 가고, 여덟 달 뒤에 마법처럼 그 거인한테 똑같은 게 생기는 거죠.
 
 021. WEN: It isn't magic, Mr. Adler, it's my firmware.
@@ -84,7 +84,7 @@
 023. GLORIA: That's a nice speech, Mr. Adler, but do you give it to everybody who walks through that door?
     글로리아: 멋진 연설이네요, 애들러 변호사님. 근데 저 문으로 들어오는 사람마다 해 주세요?
 
-024. BEN: Only to the ones with good evidence, because the others get a cup of coffee and a polite goodbye.
+024. BEN: Only to the ones with good evidence. The others get a cup of coffee and a polite goodbye.
     벤: 증거 좋은 사람한테만요. 나머지는 커피 한 잔이랑 정중한 작별 인사를 받아 가죠.
 
 025. SAM: So you really think our evidence is good?
@@ -105,10 +105,10 @@
 030. BEN: You see what I mean, small firm but big service.
     벤: 봤죠? 작은 로펌, 큰 서비스.
 
-031. SAM: Funny, because you said "big mouth" in March.
+031. SAM: Funny. You said "big mouth" in March.
     샘: 웃기네, 3월엔 '큰 입'이라며.
 
-032. BEN: The mouth is still big, I just added the chairs. Okay, everybody into the conference room and bring your coffee, because this is going to take a while.
+032. BEN: The mouth is still big, I just added the chairs. Okay, everybody into the conference room and bring your coffee. This is going to take a while.
     벤: 입은 여전히 커. 의자만 추가했지. 자, 다들 회의실로 가자. 커피 들고 와, 시간 좀 걸릴 거야.
 
 033. WEN: How long is "a while" in lawyer time?
@@ -120,7 +120,7 @@
 035. GLORIA: And at what hourly rate are we talking?
     글로리아: 그건 시간당 얼마짜리예요?
 
-036. BEN: Today is free, because today I'm auditioning, and you're deciding whether you want to marry me, so to speak.
+036. BEN: Today is free. Today I'm auditioning, and you're deciding whether you want to marry me, so to speak.
     벤: 오늘은 무료예요. 오늘은 제가 오디션 보는 날이거든요. 말하자면 저랑 결혼할지 정하는 자리죠.
 
 037. GLORIA: I've been married, and that also started out free.
@@ -159,13 +159,13 @@
 048. WEN: It means something personal to Sam's father, but for the court, it means that I wrote it.
     웬: 샘의 아버님께 의미가 있는 거예요. 하지만 법원에는, 제가 썼다는 뜻이고요.
 
-049. BEN: That's a good answer, so keep that answer. Now I'm going to ask you the question Calloway's lawyers will ask, which is whether another engineer could, by accident, write those same six characters in that same place.
+049. BEN: That's a good answer, so keep that answer. Now I'm going to ask you the question Calloway's lawyers will ask. Could another engineer, by accident, write those same six characters in that same place?
     벤: 좋은 대답이에요, 그 대답 그대로 가져가세요. 이제 캘러웨이 변호사들이 할 질문을 할게요. 다른 엔지니어가 우연히 그 여섯 글자를 그 자리에 똑같이 쓸 수 있을까요?
 
-050. WEN: No, because the chance is smaller than winning the lottery twice in one week.
+050. WEN: No. The chance is smaller than winning the lottery twice in one week.
     웬: 아니요. 그 확률은 한 주에 복권에 두 번 당첨될 확률보다 낮아요.
 
-051. BEN: I'm going to need an expert to say that with a calculator, but I believe you. So now comes the big question, which is where we sue them, and for what.
+051. BEN: I'm going to need an expert to say that with a calculator, but I believe you. Now comes the big question: where do we sue them, and for what?
     벤: 계산기 들고 그 말을 해 줄 전문가가 필요하겠지만, 전 믿어요. 이제 큰 질문이에요. 어디서, 뭘로 소송하느냐.
 
 052. SAM: I just assumed we'd sue them in court for stealing, and that would be it.
@@ -183,13 +183,13 @@
 056. WEN: Is the "on purpose" part important?
     웬: '일부러'라는 부분이 중요해요?
 
-057. BEN: It's very important, because if you left the code on a park bench, it's not a secret anymore. Did Kevin sign a confidentiality agreement?
+057. BEN: It's very important. If you left the code on a park bench, it's not a secret anymore. Did Kevin sign a confidentiality agreement?
     벤: 아주 중요해요. 코드를 공원 벤치에 두고 다녔으면 더 이상 비밀이 아니니까요. 케빈이 비밀유지 약정에 서명했어요?
 
 058. SAM: He did, but there was no non-compete, just the confidentiality part.
     샘: 했어. 근데 경업금지는 없고 비밀유지만 있어.
 
-059. BEN: That's fine, because we're not saying he can't work for Calloway, we're saying he can't bring your code with him. Door number one gets you money if you win, but it's slow, two or three years.
+059. BEN: That's fine. We're not saying he can't work for Calloway, we're saying he can't bring your code with him. Door number one gets you money if you win, but it's slow, two or three years.
     벤: 그거면 돼. 캘러웨이에서 일하지 말라는 게 아니라 당신네 코드를 들고 가지 말라는 거니까. 1번 문은 이기면 돈을 받지만 느려. 2년, 3년.
 
 060. SAM: Two or three years, okay, so what's behind door number two?
@@ -213,31 +213,31 @@
 066. SAM: They build it in Saltillo, Mexico, where their plant assembles the whole motor before it comes across the border at Laredo, and the box we bought says "Ensamblado en México."
     샘: 멕시코 살티요에서 만들어. 거기 공장에서 모터 전체를 조립해서 라레도로 국경을 넘어오는 거야. 우리가 산 상자에도 "멕시코에서 조립"이라고 써 있어.
 
-067. BEN: Assembled in Mexico and imported into the United States, which is our ticket into the ITC, because if the product crosses the border, the ITC can stop it at the border.
+067. BEN: Assembled in Mexico and imported into the United States, which is our ticket into the ITC. If the product crosses the border, the ITC can stop it at the border.
     벤: 멕시코에서 조립해서 미국으로 수입한다, 그게 ITC로 들어가는 우리 입장권이야. 제품이 국경을 넘으면 ITC가 국경에서 막을 수 있으니까.
 
 068. GLORIA: And how long does all of that take?
     글로리아: 그건 다 하는 데 얼마나 걸려요?
 
-069. BEN: That's the other superpower, because it's fast, sixteen to eighteen months from start to finish, while in federal court, eighteen months is when people finish arguing about the font.
+069. BEN: That's the other superpower. It's fast, sixteen to eighteen months from start to finish, while in federal court, eighteen months is when people finish arguing about the font.
     벤: 그게 또 하나의 초능력이에요. 빨라요, 처음부터 끝까지 16개월에서 18개월. 연방법원에서 18개월이면 사람들이 겨우 글꼴 가지고 다투는 걸 끝낼 때죠.
 
 070. SAM: So we do both, and we get money from Ohio and a wall at the border from Washington.
     샘: 그러니까 둘 다 하자는 거네. 오하이오에서는 돈, 워싱턴에서는 국경의 벽.
 
-071. BEN: We do both, and we file the ITC complaint for trade secrets and for your patent, the four-seventeen, because Calloway's rotor looks a lot like yours, Dr. Liu.
+071. BEN: We do both, and we file the ITC complaint for trade secrets and for your patent, the four-seventeen. Calloway's rotor looks a lot like yours, Dr. Liu.
     벤: 둘 다. ITC 제소장에는 영업비밀이랑 특허 '417 둘 다 넣어. 캘러웨이 로터가 박사님 거랑 아주 닮았거든요.
 
 072. WEN: It doesn't look like mine, it is mine, just with a different paint.
     웬: 닮은 게 아니에요. 제 거에 페인트만 다르게 칠한 거예요.
 
-073. BEN: Write that down, Marcy, "a different paint." Okay, now here comes the part nobody likes, because after we file, there's something called discovery.
+073. BEN: Write that down, Marcy, "a different paint." Okay, now here comes the part nobody likes. After we file, there's something called discovery.
     벤: 마시, 그거 적어 둬. "페인트만 다르게." 자, 이제 다들 싫어하는 부분이 나와요. 제소하고 나면 증거개시라는 게 있거든요.
 
 074. SAM: Discovery, as in we discover what they did?
     샘: 증거개시라면, 그쪽이 뭘 했는지 우리가 알아낸다는 거?
 
-075. BEN: Both sides discover everything, so we get their emails, their code, and their engineers' text messages, and they get yours, Sam, every email you ever wrote about Calloway and every angry text.
+075. BEN: Both sides discover everything. We get their emails, their code, and their engineers' text messages, and they get yours, Sam. Every email you ever wrote about Calloway, and every angry text.
     벤: 양쪽 다 전부 알아내. 우린 그쪽 이메일이랑 코드, 엔지니어들 문자를 받고, 그쪽도 당신 걸 받아. 캘러웨이에 대해 쓴 모든 이메일, 화나서 보낸 모든 문자까지, 샘.
 
 076. SAM: Oh, I didn't think about that.
@@ -249,7 +249,7 @@
 078. SAM: I don't remember exactly, but it was something about a snake in a nice suit.
     샘: 정확히는 기억 안 나는데, 좋은 정장 입은 뱀이 어쩌고 했던 것 같아요.
 
-079. BEN: That's honestly fine, because juries understand anger, and what they don't understand is hiding. So starting today, nobody deletes anything, not one email, not one text, and not even the snake.
+079. BEN: That's honestly fine. Juries understand anger, and what they don't understand is hiding. So starting today, nobody deletes anything, not one email, not one text, and not even the snake.
     벤: 진짜로 괜찮아. 배심원은 화난 건 이해하고, 이해 못 하는 건 숨기는 거야. 그러니까 오늘부터 아무도 아무것도 지우지 마. 이메일 하나, 문자 하나, 뱀 문자도.
 
 080. WEN: And what about Calloway, do you think they'll delete things?
@@ -261,31 +261,31 @@
 082. SAM: Okay, and what about Kevin, are we suing Kevin too?
     샘: 알았어. 케빈은? 케빈도 소송해?
 
-083. BEN: We name him, because we have to, since he's the one with the USB drive. But between us, Kevin is not the target, he's a door, and somewhere behind that door is the person who told him what to bring.
+083. BEN: We name him. We have to, since he's the one with the USB drive. But between us, Kevin is not the target, he's a door, and somewhere behind that door is the person who told him what to bring.
     벤: 피고로 이름은 올려, 그래야 해. USB를 가진 게 그 사람이니까. 근데 우리끼리 얘기지만, 케빈은 표적이 아니라 문이야. 그 문 뒤 어딘가에 뭘 가져오라고 시킨 사람이 있지.
 
-084. WEN: That would be Martin Shaw, because Kevin was connected to him online in October, before he left.
+084. WEN: That would be Martin Shaw. Kevin was connected to him online in October, before he left.
     웬: 마틴 쇼일 거예요. 케빈이 떠나기 전 10월에 온라인으로 그 사람이랑 연결돼 있었거든요.
 
 085. BEN: Martin Shaw, or someone above him, and we'll find out in discovery. Gloria, you've been very patient, and I can see you have a question with numbers in it.
     벤: 마틴 쇼, 아니면 그 위의 누군가겠죠. 증거개시에서 알게 될 거예요. 글로리아 씨, 아주 잘 참으셨어요. 숫자가 들어간 질문이 있는 얼굴이네요.
 
-086. GLORIA: I have exactly one question, which is how much.
+086. GLORIA: My only question is how much this is going to cost.
     글로리아: 질문은 딱 하나예요. 얼마예요?
 
-087. BEN: For the ITC case through the hearing, with experts, forensics, my team, and a Washington firm for local help, you're looking at between five and six million dollars, and I'd plan for six.
+087. BEN: For the ITC case through the hearing, with experts, forensics, my team, and a Washington firm for local help, you're looking at five to six million dollars. I'd plan for six.
     벤: ITC 사건을 심리까지, 전문가랑 포렌식, 우리 팀, 워싱턴 현지 로펌 도움까지 포함하면 500만에서 600만 달러 사이예요. 600으로 계획하세요.
 
 088. GLORIA: Six million dollars, you said?
     글로리아: 600만 달러라고요?
 
-089. BEN: Six, but the federal court case can wait a bit, because courts usually pause the patent part while the ITC moves, so the big money is the ITC.
+089. BEN: Six, but the federal court case can wait a bit. Courts usually pause the patent part while the ITC moves, so the big money is the ITC.
     벤: 600이요. 연방법원 사건은 좀 기다려도 돼요. ITC가 진행되는 동안 법원은 보통 특허 부분을 멈춰 두거든요. 그러니까 큰돈은 ITC예요.
 
 090. GLORIA: Mr. Adler, our company made a small profit last year for the first time in three years, and six million dollars is more than half of what we sold last year.
     글로리아: 애들러 변호사님, 우리 회사가 작년에 3년 만에 처음으로 이익을 냈어요, 작게요. 600만 달러면 작년 매출의 절반이 넘어요.
 
-091. BEN: I know, I read your numbers, because Sam sent them over.
+091. BEN: I know, I read your numbers. Sam sent them over.
     벤: 알아요. 샘이 보내 줘서 숫자 읽었어요.
 
 092. GLORIA: Then you also know we just won a contract with Atlas Motors that requires us to buy new tooling, hire forty people, and wait ninety days for the first check.
@@ -297,7 +297,7 @@
 094. SAM: Ben, what about the contingency thing, where you only get paid if we win?
     샘: 벤, 성공보수는 어때? 우리가 이겨야만 돈 받는 거.
 
-095. BEN: A contingency fee is something I've done on small cases, but on a case this size, against Calloway, my firm would be out of business before the hearing, because Calloway has three hundred lawyers and I have nine and Marcy.
+095. BEN: A contingency fee is something I've done on small cases, but on a case this size, against Calloway, my firm would be out of business before the hearing. Calloway has three hundred lawyers and I have nine and Marcy.
     벤: 성공보수는 작은 사건에선 해 봤어. 근데 이 규모에 캘러웨이 상대로 하면 심리 전에 우리 로펌이 문을 닫아. 캘러웨이는 변호사가 300명인데 난 아홉 명이랑 마시뿐이거든.
 
 096. MARCY: That's ten, if you count me as a lawyer, which you really should.
@@ -315,7 +315,7 @@
 100. SAM: Thank you, Ben, I really mean it, and just give us one night to talk it over.
     샘: 고마워, 벤, 진심이야. 하룻밤만 얘기해 볼 시간을 줘.
 
-101. GLORIA: Don't take the exit for the outlet mall, Sam, because I'm not in the mood for shoes.
+101. GLORIA: Don't take the exit for the outlet mall, Sam. I'm not in the mood for shoes.
     글로리아: 아웃렛 출구로 빠지지 마, 샘. 신발 볼 기분 아니야.
 
 102. SAM: I wasn't going to, but you've been quiet since Columbus, and that's never a good sign.
@@ -327,19 +327,19 @@
 104. SAM: You're going to say it anyway, aren't you?
     샘: 어차피 말하실 거잖아요.
 
-105. GLORIA: I am. Sam, I think this lawsuit is the right thing to do, and I also think it might be the thing that kills us, and both of those are true at the same time, because our runway is twelve weeks, baby.
+105. GLORIA: I am. Sam, I think this lawsuit is the right thing to do. I also think it might be the thing that kills us, and both of those are true at the same time. Our runway is twelve weeks, baby.
     글로리아: 그래. 샘, 이 소송은 옳은 일이라고 생각해. 그리고 우릴 죽이는 일이 될 수도 있다고도 생각해. 둘 다 동시에 사실이야. 우리 런웨이가 12주거든, 얘.
 
 106. WEN: Was the twelve weeks before Atlas, or after?
     웬: 12주는 아틀라스 전이에요, 후예요?
 
-107. GLORIA: After, because Atlas is wonderful, but Atlas pays in ninety days, and until then it's a hole we have to fill with our own money. And now he wants to dig a second hole called Calloway.
+107. GLORIA: After. Atlas is wonderful, but Atlas pays in ninety days, and until then it's a hole we have to fill with our own money. And now he wants to dig a second hole called Calloway.
     글로리아: 후야. 아틀라스는 훌륭하지만 90일 뒤에 돈을 주니까, 그때까진 우리 돈으로 메워야 하는 구멍이야. 근데 이제 얘가 캘러웨이라는 두 번째 구멍을 파겠대.
 
 108. SAM: Gloria, they stole eight years of Wen's work from us, and I can't just let that go.
     샘: 글로리아, 그 사람들이 웬의 8년치 일을 훔쳤어요. 그걸 그냥 넘어갈 순 없어요.
 
-109. GLORIA: I'm not saying let it go, I'm saying pick your moment, because you win a war by staying alive long enough to fight it. If we run out of cash in month eight, Calloway doesn't even have to win, they just have to wait.
+109. GLORIA: I'm not saying let it go, I'm saying pick your moment. You win a war by staying alive long enough to fight it. If we run out of cash in month eight, Calloway doesn't even have to win, they just have to wait.
     글로리아: 넘어가라는 게 아니라 때를 고르라는 거야. 전쟁은 싸울 때까지 살아남는 쪽이 이기는 거거든. 8개월째에 현금이 떨어지면 캘러웨이는 이길 필요도 없어. 그냥 기다리면 돼.
 
 110. WEN: That is exactly what they want, a long, expensive war against a small company.
@@ -363,7 +363,7 @@
 116. SAM: What if Ben finds an investor, someone who'll pay the six million?
     샘: 벤이 600만을 내줄 투자자를 찾으면요?
 
-117. GLORIA: Then we're giving away a piece of the money we might win, just to pay for the right to try to win it. It's not free money, Sam, because nothing is free money.
+117. GLORIA: Then we're giving away a piece of the money we might win, just to pay for the right to try to win it. It's not free money, Sam. Nothing is free money.
     글로리아: 그럼 우리가 딸지도 모르는 돈의 일부를, 따 볼 권리를 사려고 내주는 거야. 공짜 돈이 아니야, 샘. 공짜 돈 같은 건 없어.
 
 118. SAM: But it would keep our runway alive.
@@ -381,7 +381,7 @@
 122. SAM: Deal, every page with your glasses on.
     샘: 좋아요. 모든 페이지, 안경 쓰고.
 
-123. GLORIA: And Sam, once we file, there's no going back, because you can't un-sue a company like Calloway. It's a point of no return.
+123. GLORIA: And Sam, once we file, there's no going back. You can't un-sue a company like Calloway. It's a point of no return.
     글로리아: 그리고 샘, 일단 제소하면 되돌릴 수 없어. 캘러웨이 같은 회사한테 건 소송은 무를 수가 없거든. 돌아올 수 없는 지점이야.
 
 124. SAM: I know that, Gloria.
@@ -396,7 +396,7 @@
 127. SAM: A little of both, honestly, but is anybody else still here?
     샘: 솔직히 둘 다 조금씩요. 아직 누구 있어요?
 
-128. EARL: It's just me and Betsy, since second shift went home at eleven, and I was running a test on the Atlas seat motors, which are running at a good temperature.
+128. EARL: It's just me and Betsy. Second shift went home at eleven, and I was running a test on the Atlas seat motors. Temperature's looking good.
     얼: 나랑 베치뿐이야. 2교대는 열한 시에 퇴근했고, 난 아틀라스 시트 모터 시험 돌리고 있었어. 온도 좋더라.
 
 129. SAM: Earl, can I ask you something, not as a boss but as a guy who's known me since I was nine?
@@ -408,19 +408,19 @@
 131. SAM: When they closed Moraine, did anybody really fight it, with lawyers and court and all of it?
     샘: 모레인 문 닫을 때, 누가 진짜로 싸웠어요? 변호사, 법원, 전부 해서요?
 
-132. EARL: The union tried, and we had meetings, we had signs, and we had a lawyer from Detroit who wore cowboy boots, but it didn't matter, because the decision was made in an office we never saw.
+132. EARL: The union tried, and we had meetings, we had signs, and we had a lawyer from Detroit who wore cowboy boots, but it didn't matter. The decision was made in an office we never saw.
     얼: 노조가 해 봤지. 회의도 하고, 피켓도 들고, 카우보이 부츠 신은 디트로이트 변호사도 있었어. 근데 소용없었어. 결정은 우리가 본 적도 없는 사무실에서 내려졌으니까.
 
 133. SAM: So you're saying it was all pointless.
     샘: 그럼 다 의미가 없었다는 거네요.
 
-134. EARL: I didn't say that, because we lost, but we lost standing up, and your dad still talks about it. Thirty years from now, nobody remembers if you won, they remember if you stood up.
+134. EARL: I didn't say that. We lost, but we lost standing up, and your dad still talks about it. Thirty years from now, nobody remembers if you won, they remember if you stood up.
     얼: 그렇게 말 안 했다. 졌지만, 서서 졌어. 네 아버지가 아직도 그 얘길 해. 30년 뒤에 사람들은 네가 이겼는지는 기억 못 해. 네가 일어섰는지를 기억하지.
 
 135. SAM: Gloria says this could sink the whole company.
     샘: 글로리아는 이게 회사를 통째로 가라앉힐 수도 있대요.
 
-136. EARL: Gloria's usually right, because she's right about money and I'm right about metal. And this Calloway motor that Wen took apart, I held that rotor in my own hand. Metal don't lie. That's our rotor.
+136. EARL: Gloria's usually right. She's right about money and I'm right about metal. And this Calloway motor that Wen took apart, I held that rotor in my own hand. Metal don't lie. That's our rotor.
     얼: 글로리아 말이 보통 맞지. 돈에 대해선 그 여자가 맞고, 쇠에 대해선 내가 맞아. 그리고 웬이 뜯은 이 캘러웨이 모터, 그 로터를 내 손으로 들어 봤어. 쇠는 거짓말 안 해. 그거 우리 로터야.
 
 137. SAM: I know it is, Earl.
@@ -447,13 +447,13 @@
 144. SAM: Nobody died, so file it, Ben, both doors, federal court and the ITC.
     샘: 아무도 안 죽었어. 제소해, 벤. 문 두 개 다, 연방법원이랑 ITC.
 
-145. BEN: Are you sure, because once the complaint is public, Calloway's lawyers will be all over you, and so will the press, and your life gets very loud?
+145. BEN: Are you sure. Once the complaint is public, Calloway's lawyers will be all over you, and so will the press, and your life gets very loud?
     벤: 확실해? 제소장이 공개되면 캘러웨이 변호사들이 달려들 거고 언론도 그럴 거야. 인생이 아주 시끄러워진다고.
 
-146. SAM: I'm sure, but Gloria has a condition, which is that nobody signs with an investor until she reads every page.
+146. SAM: I'm sure, but Gloria has a condition. Nobody signs with an investor until she reads every page.
     샘: 확실해. 근데 글로리아한테 조건이 있어. 투자자랑은 그 사람이 모든 페이지를 읽기 전엔 서명 안 한다는 거.
 
-147. BEN: Good, I like her more every hour. I'll have the draft complaint in two weeks, and meanwhile I've got a meeting for you next Thursday, so bring Gloria and make sure she brings her glasses.
+147. BEN: Good, I like her more every hour. I'll have the draft complaint in two weeks, and meanwhile I've got a meeting for you next Thursday. Bring Gloria, and make sure she brings her glasses.
     벤: 좋아, 갈수록 그분이 좋아지네. 제소장 초안은 2주 안에 줄게. 그사이에 다음 주 목요일에 미팅 하나 잡아 뒀으니 글로리아 데려와. 안경도 꼭 챙기라고 해.
 
 148. SAM: A meeting with who, exactly?

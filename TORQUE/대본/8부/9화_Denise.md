@@ -36,7 +36,7 @@
 007. GLORIA: That one's ours, because the law says we have to post it. It's the official notice from the National Labor Relations Board, and the election is October fifteenth.
     글로리아: 그건 우리가 붙인 거야. 법적으로 붙여야 하거든. 전미노동관계위원회 공식 공고문이고, 투표는 10월 15일이야.
 
-008. COLE: Next Thursday? That's fast, because I thought these things took months.
+008. COLE: Next Thursday? That's fast. I thought these things took months.
     콜: 다음 주 목요일이요? 빠르네요. 이런 건 몇 달 걸리는 줄 알았어요.
 
 009. GLORIA: The union filed the petition last Thursday, and Sam agreed to the first date they asked for, so there are no lawyers fighting about it and no delays.
@@ -90,7 +90,7 @@
 025. SAM: That sounds like Ben. He's never once been subtle.
     샘: 벤 같네요. 한 번도 돌려 말한 적이 없어요.
 
-026. MIRIAM: First, the rules, before you say one more word to any employee, so write this down: T-I-P-S.
+026. MIRIAM: First, the rules, before you say one more word to any employee. Write this down: T-I-P-S.
     미리엄: 먼저 규칙이요. 직원한테 한마디라도 더 하기 전에요. 이거 적으세요. T-I-P-S.
 
 027. SAM: Tips, like for a waitress?
@@ -123,8 +123,8 @@
 036. SAM: I don't know yet, but I want to talk to Earl, and I want to meet her, Denise Porter.
     샘: 아직 모르겠어요. 근데 얼이랑 얘기하고 싶고, 그 사람, 드니즈 포터를 만나고 싶어요.
 
-037. MIRIAM: You can meet the union president, because that's legal, but do it somewhere public, bring nothing to sign, and make no promises. And Mr. Kowalski?
-    미리엄: 노조 지부장은 만나도 돼요, 합법이니까요. 근데 공개된 장소에서 만나고, 서명할 건 아무것도 가져가지 말고, 약속도 하지 마세요. 그리고 코왈스키 씨?
+037. MIRIAM: You can meet the union president. That's legal, but do it somewhere public, bring nothing to sign, and make no promises. And Mr. Kowalski?
+    미리엄: 노조 지부장은 만나도 돼요, 합법이에요. 근데 공개된 장소에서 만나고, 서명할 건 아무것도 가져가지 말고, 약속도 하지 마세요. 그리고 코왈스키 씨?
 
 038. SAM: Yes, Miriam?
     샘: 네, 미리엄?
@@ -141,7 +141,7 @@
 042. SAM: Earl, did you know about this?
     샘: 얼, 이거 알고 있었어요?
 
-043. EARL: Sam, I'm not going to lie to you, because I've known for two months.
+043. EARL: Sam, I'm not going to lie to you. I've known for two months.
     얼: 샘, 거짓말 안 할게. 두 달 전부터 알았어.
 
 044. SAM: Two months, since August, since the pilot?
@@ -225,7 +225,7 @@
 070. SAM: So it's my fault for growing, for saying yes to Helix.
     샘: 그러니까 성장한 게, 헬릭스한테 '네'라고 한 게 제 잘못이네요.
 
-071. EARL: It's nobody's fault, it's arithmetic, so ask Gloria. When a company gets big, people need something bigger than one good man, and what they need is a system.
+071. EARL: It's nobody's fault, it's arithmetic. Ask Gloria. When a company gets big, people need something bigger than one good man, and what they need is a system.
     얼: 누구 잘못도 아니야, 산수야. 글로리아한테 물어봐. 회사가 커지면 사람들은 좋은 사람 하나보다 더 큰 게 필요해. 시스템이 필요하지.
 
 072. SAM: Did you sign a card?
@@ -255,16 +255,16 @@
 080. SAM: Patty said my face looks like somebody died.
     샘: 패티가 제 얼굴이 누가 죽은 것 같대요.
 
-081. EARL: Patty's right, so fix your face, Sam, and then go meet Denise. You'll like her, because I taught her how to torque a wheel bolt in 1999.
-    얼: 패티 말이 맞아. 얼굴 좀 고치고, 샘, 그다음에 드니즈 만나 봐. 마음에 들 거야. 1999년에 내가 걔한테 휠 볼트 조이는 법을 가르쳤거든.
+081. EARL: Patty's right. Fix your face, Sam, and then go meet Denise. You'll like her. I taught her how to torque a wheel bolt in 1999.
+    얼: 패티 말이 맞아. 얼굴 좀 고치고, 샘, 그다음에 드니즈 만나 봐. 마음에 들 거야. 1999년에 내가 걔한테 휠 볼트 조이는 법을 가르쳤어.
 
 082. SAM: You know her from the old days?
     샘: 그 사람을 옛날부터 알아요?
 
-083. EARL: She worked the line at Moraine for nine years, right until the end, and your dad knows her too, so ask him.
-    얼: 모레인 라인에서 마지막까지 9년 일했어. 네 아버지도 아니까 물어봐.
+083. EARL: She worked the line at Moraine for nine years, right until the end. Your dad knows her too. Ask him.
+    얼: 모레인 라인에서 마지막까지 9년 일했어. 네 아버지도 알아. 물어봐.
 
-084. DONNA: Sam, you look terrible, so is it coffee or pie?
+084. DONNA: Sam, you look terrible. Is it coffee or pie?
     도나: 샘, 얼굴이 엉망이네. 커피, 아니면 파이?
 
 085. SAM: Both, and whatever she's having.
@@ -273,8 +273,8 @@
 086. DONNA: Denise has had the same thing since 2003, black coffee and a slice of cherry. Sit down, and I'll bring two of everything.
     도나: 드니즈는 2003년부터 블랙커피에 체리 파이 한 조각, 똑같은 거 먹어. 앉아. 다 두 개씩 가져다줄게.
 
-087. DENISE: Mr. Kowalski, I'm Denise Porter, and thanks for meeting me, because most owners send a lawyer.
-    드니즈: 코왈스키 씨, 드니즈 포터예요. 만나 줘서 고마워요. 사장들은 대부분 변호사를 보내거든요.
+087. DENISE: Mr. Kowalski, I'm Denise Porter. Thanks for meeting me yourself, since most owners send a lawyer.
+    드니즈: 코왈스키 씨, 드니즈 포터예요. 직접 만나 줘서 고마워요. 사장들은 대부분 변호사를 보내거든요.
 
 088. SAM: My lawyer told me to meet you in public, bring nothing to sign and make no promises.
     샘: 제 변호사가 공개된 데서 만나고, 서명할 건 가져가지 말고, 약속도 하지 말래요.
@@ -309,7 +309,7 @@
 098. SAM: Ms. Porter, can I ask you something directly?
     샘: 포터 씨, 하나 직접 물어봐도 돼요?
 
-099. DENISE: Call me Denise, and yes, because that's why we're here.
+099. DENISE: Call me Denise. And yes, that's why we're here.
     드니즈: 드니즈라고 해요. 그리고 네, 그러려고 만난 거잖아요.
 
 100. SAM: Why my plant, when Calloway has nine thousand workers in the Carolinas and no union?

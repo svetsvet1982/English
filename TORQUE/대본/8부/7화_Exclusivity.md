@@ -75,7 +75,7 @@
 020. BEN: I haven't even read it yet.
     벤: 아직 읽지도 않았어.
 
-021. SAM: I don't need you to read it, because I said no to Haverford in 2025, and I'll say no to Helix in 2026.
+021. SAM: I don't need you to read it. I said no to Haverford in 2025, and I'll say no to Helix in 2026.
     샘: 읽을 필요 없어요. 2025년에 해버퍼드한테도 안 된다고 했고, 2026년에 헬릭스한테도 안 된다고 할 거예요.
 
 022. BEN: Humor me. In plain English, escrow means you give a copy of the Governor's source code to a neutral company, like a bank vault, and if certain things happen, Helix gets the key.
@@ -132,7 +132,7 @@
 039. SAM: Ben, what did I tell you after Haverford in 2025? I said nobody holds our keys.
     샘: 벤, 2025년 해버퍼드 건 끝나고 내가 뭐라고 했어요? 우리 열쇠는 아무도 못 쥔다고 했죠.
 
-040. BEN: That was your father, and you just quote him a lot. Finish your donut, because we're due at ten.
+040. BEN: That was your father, and you just quote him a lot. Finish your donut. We're due at ten.
     벤: 그건 네 아버지 말이고, 네가 많이 인용할 뿐이지. 도넛 마저 먹어. 열 시까지 가야 해.
 
 041. RAJ: Welcome, and this is Lauren Hsu, our legal counsel, and Gordon Wells, our CFO, is on from Seattle.
@@ -153,11 +153,11 @@
 046. LAUREN: Shall we start with your comments? Mr. Adler sent us a redline last night, and it's mostly red.
     로런: 의견부터 시작할까요? 애들러 변호사님이 어젯밤 수정본을 보내셨는데, 거의 다 빨간색이에요.
 
-047. BEN: I like red, because it's a festive color, very seasonal.
+047. BEN: I like red. It's a festive color, very seasonal.
     벤: 전 빨간색 좋아해요. 축제 분위기 나잖아요, 아주 계절감 있고요.
 
-048. SAM: Let me make it simple, Raj, because the pilot worked. It's nine point four percent, and it's held for four weeks, so we want to do this, all eleven campuses.
-    샘: 간단하게 할게요, 라지. 시범사업은 성공했어요. 9.4퍼센트가 4주째 유지되고 있으니까, 우리 이거 하고 싶어요. 단지 열한 곳 전부요.
+048. SAM: Let me make it simple, Raj. The pilot worked, with nine point four percent that's held for four weeks, and we want to do this, all eleven campuses.
+    샘: 간단하게 할게요, 라지. 시범사업은 성공했고, 9.4퍼센트가 4주째 유지되고 있어요. 우리 이거 하고 싶어요. 단지 열한 곳 전부요.
 
 049. RAJ: Good, then sign it.
     라지: 좋아요, 그럼 서명하세요.
@@ -174,16 +174,16 @@
 053. RAJ: Let me explain why we need them, and then you explain why you can't. Fair?
     라지: 우리가 왜 그게 필요한지 설명하고, 그다음에 당신이 왜 안 되는지 설명하는 거예요. 공정하죠?
 
-054. SAM: That's fair, so go ahead and explain.
+054. SAM: That's fair. Go ahead and explain.
     샘: 공정하네요. 설명해 보세요.
 
-055. RAJ: Exclusivity first, because we'll spend two hundred million with you and help you build a fan line.
-    라지: 독점부터요. 우린 당신네한테 2억 달러를 쓰고 팬 라인 짓는 것도 도울 거니까요.
+055. RAJ: Exclusivity first. We'll spend two hundred million with you and help you build a fan line.
+    라지: 독점부터요. 우린 당신네한테 2억 달러를 쓰고 팬 라인 짓는 것도 도울 거예요.
 
 056. RAJ: And then, after we've taught you everything, you sell the same motors to my three biggest competitors, so they save nine percent on cooling too. We paid for your education, and they get the diploma.
     라지: 그러고 나서 우리가 다 가르쳐 주면, 당신은 똑같은 모터를 우리 3대 경쟁사한테 팔아서 그쪽도 냉각에서 9퍼센트를 아끼겠죠. 학비는 우리가 냈는데 졸업장은 그쪽이 받는 거예요.
 
-057. WEN: You didn't teach us the motor, because we built the motor.
+057. WEN: You didn't teach us the motor. We built the motor.
     웬: 모터는 그쪽이 가르쳐 준 게 아니에요. 우리가 만들었죠.
 
 058. RAJ: Fair, but Tess taught you the MOP, Brandon taught you the pump room, and your five point five came from our building system. That's knowledge, Dr. Liu.
@@ -282,8 +282,8 @@
 089. BEN: In my experience, that's the same thing, especially after lunch.
     벤: 제 경험으론 그게 같은 거예요. 특히 점심 먹고 나서는요.
 
-090. GORDON: Nine months is fine, so Lauren, write it. I have ten minutes, so let's go back to seven and twelve, because those are the ones that matter.
-    고든: 9개월 괜찮아요. 로런, 그렇게 적어요. 10분 남았으니 7조랑 12조로 돌아가죠. 그게 중요한 거니까.
+090. GORDON: Nine months is fine. Lauren, write it. I have ten minutes left, so let's go back to seven and twelve, which are the ones that matter.
+    고든: 9개월 괜찮아요. 로런, 그렇게 적어요. 10분 남았으니 중요한 7조랑 12조로 돌아가죠.
 
 091. RAJ: Here's my best offer: not all of North America, just our five biggest competitors, and for three years instead of five.
     라지: 최선의 제안이에요. 북미 전체 말고 우리 최대 경쟁사 다섯 곳만, 그리고 5년 말고 3년이요.
@@ -315,11 +315,11 @@
 100. RAJ: Understood, Gordon, you'll have it by Friday.
     라지: 알겠습니다, 고든. 금요일까지 드릴게요.
 
-101. LAUREN: Mr. Kowalski, I'll be honest about the board, because they've seen a competing proposal from Calloway Dynamics.
+101. LAUREN: Mr. Kowalski, I'll be honest about the board. They've seen a competing proposal from Calloway Dynamics.
     로런: 코왈스키 씨, 이사회에 대해 솔직하게 말할게요. 이사회가 캘러웨이 다이내믹스에서 온 경쟁 제안서를 봤어요.
 
-102. SAM: I know Raj is talking to Calloway, because he told me in August.
-    샘: 라지가 캘러웨이랑 얘기하는 거 알아요. 8월에 말해 줬거든요.
+102. SAM: I know Raj is talking to Calloway. He told me in August.
+    샘: 라지가 캘러웨이랑 얘기하는 거 알아요. 8월에 말해 줬어요.
 
 103. LAUREN: What he may not have told you is the terms. Calloway accepts full exclusivity for five years, they accept source code escrow with our trigger, and their price is fifteen percent below yours.
     로런: 조건까진 말씀 안 드렸을 수도 있겠네요. 캘러웨이는 5년 완전 독점을 받아들이고, 우리 발동 조건 그대로 소스코드 위탁도 받아들여요. 그리고 가격은 당신네보다 15퍼센트 낮아요.
@@ -348,19 +348,19 @@
 111. RAJ: Sam, if you lose, Calloway has a legal motor that's fifteen percent cheaper, with escrow and exclusivity, and I have to explain to my board why I chose the small company with the angry engineer.
     라지: 샘, 당신들이 지면 캘러웨이는 15퍼센트 더 싸고 위탁에 독점까지 되는 합법적인 모터를 갖게 돼요. 그리고 전 왜 화난 엔지니어가 있는 작은 회사를 골랐는지 이사회에 해명해야 하고요.
 
-112. WEN: I'm not angry, because this is just my normal face.
+112. WEN: I'm not angry. This is just my normal face.
     웬: 화난 거 아니에요. 이게 그냥 제 평소 얼굴이에요.
 
-113. SAM: Can we take ten minutes, so I can talk to my people?
-    샘: 우리 사람들이랑 얘기 좀 하게 10분만 쉬어도 될까요?
+113. SAM: Can we take ten minutes? I need to talk to my people.
+    샘: 10분만 쉬어도 될까요? 우리 사람들이랑 얘기 좀 해야겠어요.
 
 114. RAJ: Take twenty. There's a stairwell at the end of the hall where everybody goes to yell.
     라지: 20분 쉬세요. 복도 끝에 다들 소리 지르러 가는 비상계단이 있어요.
 
-115. GLORIA: Okay, nobody's yelling, we're doing math. Sam, it's two hundred and ten million dollars, so talk to me.
+115. GLORIA: Okay, nobody's yelling, we're doing math. Sam, it's two hundred and ten million dollars. Talk to me.
     글로리아: 자, 아무도 소리 안 질러. 계산하는 거야. 샘, 2억 1천만 달러야. 말해 봐.
 
-116. SAM: Gloria, you know what I'm going to say, because you always do.
+116. SAM: Gloria, you know what I'm going to say. You always do.
     샘: 글로리아, 제가 뭐라고 할지 알잖아요. 늘 알잖아요.
 
 117. GLORIA: I know, but say it anyway, because I want to hear if your voice shakes.
@@ -402,7 +402,7 @@
 129. SAM: I know, and I'm asking again, not for the code and not for the vault, but for a license on our terms. Let me walk you through it, and then tell me if I'm crazy.
     샘: 알아요. 다시 묻는 거예요. 코드도 금고도 말고, 우리 조건의 라이선스요. 차근차근 설명할 테니 듣고 제가 미쳤는지 말해 줘요.
 
-130. WEN: I'll tell you anyway, so go.
+130. WEN: I'll tell you anyway. Go.
     웬: 어차피 말할 거예요. 해 보세요.
 
 131. RAJ: That was twenty minutes, and you look calmer, which worries me.

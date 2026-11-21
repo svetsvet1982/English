@@ -15,55 +15,55 @@
 
 ## 대본
 
-001. SAM: What time is it? Actually, don't tell me, because my body says it's seven at night yesterday.
+001. SAM: What time is it? Actually, don't tell me. My body says it's seven at night yesterday.
     샘: 지금 몇 시야? 아니, 말하지 마. 내 몸은 어제 저녁 일곱 시래.
 
-002. WEN: It's eight in the morning on Friday, and you slept four hours at the airport hotel, so that's what jet lag feels like.
+002. WEN: It's eight in the morning on Friday, and you slept four hours at the airport hotel. That's what jet lag feels like.
     웬: 금요일 아침 여덟 시예요. 공항 호텔에서 네 시간 주무셨으니, 시차 적응 안 되는 게 그런 느낌이에요.
 
 003. SAM: I thought jet lag was a feeling, but this is a disease.
     샘: 시차는 그냥 느낌인 줄 알았는데, 이건 병이야.
 
-004. MINJUN: Sam, drink this canned coffee from the convenience store, which is very sweet, and Koreans survive on it.
+004. MINJUN: Sam, drink this. It's canned coffee from the convenience store, very sweet, and Koreans survive on it.
     민준: 샘, 편의점 캔커피 이거 드세요. 엄청 단데, 한국 사람들은 이걸로 버텨요.
 
 005. SAM: Oh, that's sweet, like somebody put Donna's pie in a can.
     샘: 오, 달다. 누가 도나 파이를 캔에 넣은 것 같네.
 
-006. MINJUN: That's our train on platform eleven, the KTX to Ulsan, which takes two hours and fifteen minutes, and in America that's how long you wait for a train.
+006. MINJUN: That's our train on platform eleven, the KTX to Ulsan. It takes two hours and fifteen minutes, which in America is how long you wait for a train.
     민준: 11번 플랫폼에 있는 게 우리 기차, 울산행 KTX예요. 2시간 15분 걸리는데, 미국에선 기차 기다리는 시간이죠.
 
 007. WEN: Minjun, why didn't we take the train from the airport?
     웬: 민준아, 왜 공항에서 바로 기차 안 탔어?
 
-008. MINJUN: There used to be one, but not anymore, so we take the airport train to Seoul Station and then the KTX. Sunbae, you used to know everything.
+008. MINJUN: There used to be one, but not anymore. So we take the airport train to Seoul Station and then the KTX. Sunbae, you used to know everything.
     민준: 예전엔 있었는데 이젠 없어요. 그래서 공항철도로 서울역 와서 KTX 타는 거예요. 선배, 예전엔 다 아셨잖아요.
 
-009. WEN: I knew everything about motors, and you knew everything about trains and restaurants, which was our deal in the lab.
+009. WEN: I knew everything about motors, and you knew everything about trains and restaurants. That was our deal in the lab.
     웬: 난 모터에 대해서 다 알았고, 넌 기차랑 식당에 대해서 다 알았지. 그게 연구실에서 우리 거래였어.
 
 010. SAM: Okay, seat 7A, and Lily made me practice this one. Gamsahamnida, is that right?
     샘: 좋아, 7A 좌석. 릴리가 이거 연습시켰어. 감사합니다, 맞아?
 
-011. MINJUN: Very good! It's a little American, but very good, so what else did Lily teach you?
+011. MINJUN: Very good! It's a little American, but very good. What else did Lily teach you?
     민준: 아주 좋아요! 살짝 미국식인데 아주 좋아요. 릴리가 또 뭘 가르쳐 줬어요?
 
 012. SAM: You use two hands when you give something to an older person, you don't write names in red or stick chopsticks straight up in the rice, and you don't pour your own drink.
     샘: 어른한테 뭘 드릴 땐 두 손으로, 이름은 빨간색으로 쓰지 말고, 밥에 젓가락 똑바로 꽂지 말고, 그리고 자기 술은 자기가 따르지 말 것.
 
-013. MINJUN: She watched a lot of dramas, which I can tell from the chopsticks.
+013. MINJUN: She watched a lot of dramas. I can tell from the chopsticks.
     민준: 드라마 많이 봤네요. 젓가락 얘기에서 티가 나요.
 
 014. SAM: She says two hundred hours, although now it's four hundred.
     샘: 이백 시간이래. 지금은 사백 시간이고.
 
-015. WEN: Sam, what's in the big bag, since you carried it on the plane like it was a baby?
+015. WEN: Sam, what's in the big bag? You carried it on the plane like it was a baby.
     웬: 샘, 그 큰 가방엔 뭐가 들었어요? 비행기에서 아기처럼 안고 계시던데.
 
-016. SAM: It's a quilt for Minjun's mother, which Erin drove two hours to an Amish shop in Holmes County to buy, because my dad said, "Bring her something from Ohio. Not a motor."
+016. SAM: It's a quilt for Minjun's mother. Erin drove two hours to an Amish shop in Holmes County to buy it, after my dad said, "Bring her something from Ohio. Not a motor."
     샘: 민준 어머님 드릴 퀼트야. 에린이 홈스 카운티 아미시 가게까지 두 시간 운전해서 샀어. 아버지가 "오하이오에서 뭘 가져가라. 모터 말고"라고 하셔서.
 
-017. MINJUN: A quilt? Sam, my mother is going to cry, and then she's going to put it in a closet and never use it, because it's too nice.
+017. MINJUN: A quilt? Sam, my mother is going to cry. Then she's going to put it in a closet and never use it, because it's too nice.
     민준: 퀼트요? 샘, 우리 어머니 우실 거예요. 그러고는 너무 좋아서 옷장에 넣고 절대 안 쓰실 거고요.
 
 018. SAM: That's what my dad did with Mr. Park's red ginseng.
@@ -78,7 +78,7 @@
 021. WEN: And what's in this small envelope?
     웬: 그럼 이 작은 봉투엔 뭐가 들었어요?
 
-022. SAM: Lily's drawing for Seoyeon, since they've been mailing drawings to each other since Georgia, like pen pals who can't spell yet. This one's Betsy with a bow on her head, and don't ask me why.
+022. SAM: It's Lily's drawing for Seoyeon. They've been mailing drawings to each other since Georgia, like pen pals who can't spell yet. This one's Betsy with a bow on her head, and don't ask me why.
     샘: 릴리가 서연이한테 주는 그림이야. 조지아 이후로 둘이 아직 철자도 모르는 펜팔처럼 그림을 주고받거든. 이번 건 머리에 리본 단 베치인데, 왜냐고 묻지 마.
 
 023. MINJUN: Seoyeon asked me last week, "Is Betsy a girl or a machine?" and I said both.
@@ -87,7 +87,7 @@
 024. SAM: Minjun, before we get there, I want to ask you something that I've been afraid to ask for two years.
     샘: 민준, 거기 도착하기 전에 2년 동안 묻기 무서웠던 걸 하나 물어보고 싶어.
 
-025. MINJUN: Ask, Sam, because the train is fast, but you still have two hours.
+025. MINJUN: Ask, Sam. The train is fast, but you still have two hours.
     민준: 물어보세요, 샘. 기차가 빠르긴 해도 두 시간은 있어요.
 
 026. SAM: Is tonight going to be okay with your mother? In Georgia, she asked you why you went to a country that puts you in chains, and I've never had an answer.
@@ -105,13 +105,13 @@
 030. SAM: Come on, Earl's not that old.
     샘: 에이, 얼은 그렇게 늙진 않았어.
 
-031. MINJUN: To my mother, everyone over sixty is a grandfather, and since she's seventy-four, she's a grandmother to the whole building.
+031. MINJUN: To my mother, everyone over sixty is a grandfather. She's seventy-four, so she's a grandmother to the whole building.
     민준: 우리 어머니한텐 예순 넘은 사람은 다 할아버지예요. 일흔넷이시니까 아파트 전체의 할머니시죠.
 
 032. SAM: I brought a quilt, but is that enough?
     샘: 퀼트 가져왔는데, 그걸로 될까?
 
-033. MINJUN: No, but it's a good start, and the rest you eat, because in my family you apologize by eating everything she puts in front of you.
+033. MINJUN: No, but it's a good start, and the rest you eat. In my family, you apologize by eating everything she puts in front of you.
     민준: 아니요. 근데 좋은 시작이에요. 나머진 드시면 돼요. 우리 집에선 어머니가 앞에 놓는 걸 다 먹는 걸로 사과하거든요.
 
 034. SAM: And how much does she put in front of you?
@@ -120,28 +120,28 @@
 035. MINJUN: Everything. Sam, did you eat breakfast?
     민준: 전부요. 샘, 아침 드셨어요?
 
-036. SAM: Just the coffee, the sweet one, so is that a problem?
+036. SAM: Just the coffee, the sweet one. Is that a problem?
     샘: 그 단 커피만. 그게 문제야?
 
 037. MINJUN: Good, and don't eat lunch either.
     민준: 잘했어요. 점심도 드시지 마세요.
 
-038. WEN: Sam, look out the window at those rice fields, which look like Shenzhen when I was a child, before the cranes.
+038. WEN: Sam, look out the window at those rice fields. They look like Shenzhen when I was a child, before the cranes.
     웬: 샘, 창밖에 저 논 좀 보세요. 크레인 들어오기 전, 제가 어릴 때 선전 같아요.
 
 039. SAM: Just wait till you see Ulsan's cranes.
     샘: 울산 크레인 보면 놀랄걸.
 
-040. MINJUN: You'll see them from the train before you see the city, because that's Ulsan, cranes first and then people.
+040. MINJUN: You'll see them from the train before you see the city. That's Ulsan: cranes first, then people.
     민준: 도시보다 크레인이 기차에서 먼저 보일 거예요. 그게 울산이에요. 크레인 먼저, 사람은 그다음.
 
-041. PARK: Welcome to Ulsan, Sam and Dr. Liu, and please put on the white helmets, because white is for guests and yellow is for workers.
+041. PARK: Welcome to Ulsan, Sam and Dr. Liu. Please put on the white helmets. White is for guests, and yellow is for workers.
     박 대표: 울산에 오신 걸 환영합니다, 샘, 리우 박사님. 흰색 안전모 쓰세요. 흰색은 손님용, 노란색은 작업자용입니다.
 
 042. SAM: Mr. Park, what is that? That's not a crane, it's a building that decided to move.
     샘: 박 대표님, 저게 뭐예요? 저건 크레인이 아니라 움직이기로 마음먹은 건물인데요.
 
-043. PARK: We call it the Goliath crane, and it lifts nine hundred tons, so that red block hanging from it is one piece of a ship, like a slice of bread.
+043. PARK: We call it the Goliath crane, and it lifts nine hundred tons. That red block hanging from it is one piece of a ship, like a slice of bread.
     박 대표: 골리앗 크레인이라고 부르는데, 900톤을 듭니다. 저기 매달린 빨간 블록이 배 한 조각이에요. 식빵 한 조각처럼요.
 
 044. WEN: So you build ships in blocks?
@@ -156,43 +156,43 @@
 047. PARK: Everyone thinks they invented it, and Koreans think we invented it, but Americans built ships like this in the war eighty years ago and then forgot.
     박 대표: 다들 자기가 발명한 줄 알아요. 한국 사람도 그렇고요. 그런데 미국은 80년 전 전쟁 때 이렇게 배를 짓고는 잊었지요.
 
-048. MINJUN: This is the dry dock, which in plain English is a giant hole next to the sea, where you build the ship in the hole, then open a gate and let the sea in so the ship floats out.
+048. MINJUN: This is the dry dock. In plain English, it's a giant hole next to the sea. You build the ship in the hole, then open a gate and let the sea in, and the ship floats out.
     민준: 여기가 드라이 도크예요. 쉬운 말로 바다 옆에 판 거대한 구덩이인데, 구덩이 안에서 배를 짓고 문을 열어 바닷물을 들여보내면 배가 떠서 나가요.
 
 049. SAM: How big is the one that's in the dock now?
     샘: 지금 도크에 있는 저건 얼마나 커?
 
-050. PARK: It's an oil tanker, three hundred thirty meters long, so if you stood it on its end, it would be taller than your tallest building in Dayton.
+050. PARK: It's an oil tanker, three hundred thirty meters long. If you stood it on its end, it would be taller than your tallest building in Dayton.
     박 대표: 유조선이에요. 330미터니까 세워 놓으면 데이턴에서 제일 높은 건물보다 높아요.
 
 051. SAM: My whole factory would fit on that deck, parking lot included.
     샘: 우리 공장 전체가 저 갑판에 들어가겠네요. 주차장까지.
 
-052. WEN: Where's the tug, Minjun, because I came to see the small one?
+052. WEN: Where's the tug, Minjun? I came to see the small one.
     웬: 예인선은 어디 있어, 민준아? 난 작은 거 보러 왔는데.
 
-053. MINJUN: The small one over there next to the wall is Hanbit's first hybrid tug, hull number one, and its engine room is still empty, which is where the motors go if sunbae is right about the math.
+053. MINJUN: Over there, the small one next to the wall. That's Hanbit's first hybrid tug, hull number one, and its engine room is still empty. That's where the motors go, if sunbae is right about the math.
     민준: 저기 벽 옆에 작은 게 한빛의 첫 하이브리드 예인선, 1번 선체예요. 기관실이 아직 비어 있는데, 선배 계산이 맞으면 거기에 모터가 들어가요.
 
 054. SAM: It looks like a bulldog sitting next to a whale.
     샘: 고래 옆에 앉은 불도그 같네.
 
-055. PARK: That is a very good description of a tug, so may I use it when I tell the customer?
+055. PARK: That is a very good description of a tug. May I use it when I tell the customer?
     박 대표: 예인선을 아주 잘 표현하셨네요. 고객한테 말할 때 써도 될까요?
 
 056. WEN: Can we go down into the engine room?
     웬: 기관실에 내려가 봐도 돼요?
 
-057. PARK: Of course, but watch the stairs, because they are steep, and ships are not designed for visitors.
+057. PARK: Of course, but watch the stairs. They are steep, and ships are not designed for visitors.
     박 대표: 물론이지요. 그런데 계단 조심하세요. 가파르거든요. 배는 방문객을 위해 설계되지 않았어요.
 
-058. WEN: Sam, look at the space where the motor sits, with the mounts and the shaft line, because it's tighter than the drawings. And it's hot, so in August it must be fifty degrees in here.
+058. WEN: Sam, look at the space where the motor sits, with the mounts and the shaft line. It's tighter than the drawings. And it's hot; in August it must be fifty degrees in here.
     웬: 샘, 모터 자리 공간 좀 보세요. 받침대랑 축 라인까지, 도면보다 좁아요. 그리고 더워서 8월이면 여기 50도는 되겠어요.
 
-059. MINJUN: It's fifty-two, sunbae, because the yard measured it last week.
+059. MINJUN: It's fifty-two, sunbae. The yard measured it last week.
     민준: 52도요, 선배. 조선소에서 지난주에 쟀어요.
 
-060. WEN: Then our cooling numbers are wrong, so I'll fix them on the train tonight.
+060. WEN: Then our cooling numbers are wrong. I'll fix them on the train tonight.
     웬: 그럼 우리 냉각 수치가 틀렸네. 오늘 밤 기차에서 고칠게.
 
 061. SAM: Wen, we're not taking the train tonight.
@@ -210,13 +210,13 @@
 065. SAM: Is it steel prices?
     샘: 철강 가격이요?
 
-066. PARK: It's age, because the best welders are over fifty-five, and young people don't want this work when it's hot, dangerous, and far from Seoul, so we bring workers from other countries, and it's still not enough.
+066. PARK: Age. The best welders are over fifty-five, and young people don't want work that's hot, dangerous, and far from Seoul. We bring workers from other countries, and it's still not enough.
     박 대표: 나이요. 최고의 용접공들이 쉰다섯이 넘었는데, 젊은 사람들은 덥고 위험하고 서울에서 먼 이 일을 안 하려고 해요. 다른 나라에서 일꾼을 데려와도 여전히 모자랍니다.
 
 067. SAM: We have the same problem in Dayton, where Earl's sixty-four, and every time he takes a vacation, I lose two pounds from stress.
     샘: 데이턴도 똑같아요. 얼이 예순넷인데, 얼이 휴가 갈 때마다 전 스트레스로 1킬로씩 빠져요.
 
-068. PARK: Minjun's father was one of the best, with thirty-one years in this yard, and tonight you will see his hands, which have many small burns, like stars.
+068. PARK: Minjun's father was one of the best, with thirty-one years in this yard. Tonight you will see his hands. They have many small burns, like stars.
     박 대표: 민준이 아버님이 최고 중 한 분이었지요. 이 조선소에서 31년. 오늘 밤 그분 손을 보시면 별처럼 작은 화상 자국이 많을 거예요.
 
 069. MINJUN: My father welded the hull of the first ship I ever saw launched, when I was six, and he lifted me on his shoulders to watch.
@@ -225,7 +225,7 @@
 070. SAM: My dad built cars for thirty-two years at GM in Moraine, and on Saturdays he took me to the plant and let me sit in a car with no seats and pretend to drive it to Florida.
     샘: 우리 아버지는 모레인 GM에서 32년 동안 차를 만드셨어. 토요일마다 날 공장에 데려가서 의자 없는 차에 앉혀 주셨고, 난 플로리다까지 운전하는 척했지.
 
-071. PARK: Then your fathers will understand each other without translation. Come, because there's one more stop, and I want to introduce you to someone.
+071. PARK: Then your fathers will understand each other without translation. Come, there's one more stop. I want to introduce you to someone.
     박 대표: 그럼 두 분 아버님은 통역 없이도 서로 이해하시겠군요. 갑시다. 한 군데만 더 가서 소개해 드리고 싶은 분이 있어요.
 
 072. SAM: Who, Mr. Park, when I've already met everybody in this yard?
@@ -234,7 +234,7 @@
 073. MINJUN: My grandfather, or I mean, Daesung's grandfather.
     민준: 우리 할아버지요. 그러니까, 대성의 할아버지요.
 
-074. PARK: Our first press, which came used from Japan in 1991, made stamped steel for twenty years, and then we retired him to the lobby, so every new employee bows to him on the first day.
+074. PARK: Our first press. He came used from Japan in 1991 and made stamped steel for twenty years, and then we retired him to the lobby. Every new employee bows to him on the first day.
     박 대표: 1991년에 일본에서 중고로 들여온 우리 첫 프레스예요. 20년 동안 강판을 찍고 로비로 은퇴했지요. 신입 사원은 첫날 이분께 인사를 해요.
 
 075. SAM: Mr. Park, you told me about him in 2025 at Betsy, and Earl wanted to do the same thing with Betsy.
@@ -243,7 +243,7 @@
 076. PARK: And did you do it?
     박 대표: 그래서 하셨어요?
 
-077. SAM: Betsy's not retired, because she tests every motor we ship, but starting next month, every apprentice touches her frame on the first day, which is Earl's rule.
+077. SAM: Betsy's not retired. She tests every motor we ship. But starting next month, every apprentice touches her frame on the first day. That's Earl's rule.
     샘: 베치는 은퇴 안 했어요. 우리가 출하하는 모든 모터를 시험하니까요. 그래도 다음 달부터 견습생은 첫날 다 베치 프레임을 만져요. 얼의 규칙이에요.
 
 078. PARK: Then, Sam, you should bow.
@@ -252,7 +252,7 @@
 079. SAM: To the press? Mr. Park, it's a machine.
     샘: 프레스한테요? 박 대표님, 그건 기계잖아요.
 
-080. PARK: To the press, because he worked longer than you have.
+080. PARK: To the press. He worked longer than you have.
     박 대표: 프레스한테요. 당신보다 오래 일했으니까요.
 
 081. SAM: Okay. Annyeonghaseyo, Grandfather, I'm Sam, and I build motors in Ohio, where your grandson makes my bones.
@@ -264,13 +264,13 @@
 083. SAM: Wait, you can actually hear him?
     샘: 잠깐, 이분 말이 진짜 들려?
 
-084. MINJUN: Every Daesung engineer can hear him, because that's the job.
+084. MINJUN: Every Daesung engineer can hear him. That's the job.
     민준: 대성 엔지니어는 다 들려요. 그게 일이에요.
 
-085. WEN: Mr. Park, I have a question, which is why you're doing this, because the marine company is big, Daesung is three hundred people, and if it fails, it hurts you.
+085. WEN: Mr. Park, I have a question. Why are you doing this? The marine company is big, Daesung is three hundred people, and if it fails, it hurts you.
     웬: 박 대표님, 질문이 있어요. 왜 이걸 하세요? 해양 회사는 규모가 크고 대성은 삼백 명인데, 실패하면 대표님이 다치세요.
 
-086. PARK: I am sixty-five, Dr. Liu, and I have two choices: I can sell Daesung to a big group from Seoul, which has asked three times, or I can build one more thing.
+086. PARK: I am sixty-five, Dr. Liu, and I have two choices. I can sell Daesung to a big group from Seoul, which has asked three times. Or I can build one more thing.
     박 대표: 전 예순다섯이에요, 리우 박사님. 선택지가 두 개 있어요. 세 번이나 물어 온 서울의 큰 그룹에 대성을 팔든가, 아니면 하나를 더 짓든가.
 
 087. SAM: They asked you to sell too?
@@ -282,7 +282,7 @@
 089. SAM: So what do you want to leave behind?
     샘: 그럼 대표님은 뭘 남기고 싶으세요?
 
-090. PARK: Ships that move without China's magnets, and a company Minjun can run without me. Now go, because Minjun's mother is waiting, and she is not a patient woman.
+090. PARK: Ships that move without China's magnets, and a company Minjun can run without me. Now go. Minjun's mother is waiting, and she is not a patient woman.
     박 대표: 중국 자석 없이 움직이는 배, 그리고 저 없이도 민준이가 운영할 수 있는 회사요. 자, 가세요. 민준이 어머니가 기다리시는데, 참을성 있는 분이 아니에요.
 
 091. SEOYEON: Uncle Sam! Aunt Wen! Did you bring a drawing from Lily?
@@ -291,13 +291,13 @@
 092. SAM: Seoyeon, you got so big! Here's Betsy, and she's wearing a bow.
     샘: 서연아, 많이 컸네! 여기 베치야. 리본 달았어.
 
-093. SEOYEON: She's so pretty! I'm nine now, and I speak English like Georgia, so y'all come in!
+093. SEOYEON: She's so pretty! I'm nine now, and I speak English like Georgia. Y'all come in!
     서연: 너무 예쁘다! 저 이제 아홉 살이고, 영어 조지아처럼 해요. 다들 들어오세요!
 
 094. JIEUN: Seoyeon, shoes. Sam, welcome, and please take your shoes off here. I'm Jieun, and Minjun talks about you so much that I feel like I already fed you.
     지은: 서연아, 신발. 샘, 어서 오세요. 신발은 여기서 벗으시고요. 지은이에요. 민준 씨가 하도 얘기해서 벌써 밥을 차려 드린 것 같아요.
 
-095. SAM: Thank you for having us, because Minjun told me you sent peanut butter to Ohio once when he came back for Thanksgiving, and I still owe you a whole box of the crunchy kind.
+095. SAM: Thank you for having us. Minjun told me you sent peanut butter to Ohio once when he came back for Thanksgiving, and I still owe you a whole box of the crunchy kind.
     샘: 초대해 주셔서 감사해요. 민준이 추수감사절에 돌아왔을 때 오하이오에 땅콩버터를 보내 주셨다고 들었어요. 아직 크런치로 한 박스 빚졌어요.
 
 096. JIEUN: Minjun told you about the peanut butter? I'm going to kill him.
@@ -309,13 +309,13 @@
 098. SAM: Annyeonghaseyo, and thank you for inviting me. This is from my wife, Erin, in Ohio, and it's a quilt that Amish women made by hand.
     샘: 안녕하세요, 초대해 주셔서 감사합니다. 이건 오하이오에 있는 제 아내 에린이 드리는 거예요. 아미시 여자분들이 손으로 만든 퀼트예요.
 
-099. MRS. KANG: Two hands, good, so someone taught you.
+099. MRS. KANG: Two hands. Good. Someone taught you.
     민준 어머니: 두 손으로. 좋네. 누가 가르쳤구먼.
 
 100. MINJUN: She says you have very good manners.
     민준: 예의가 아주 바르시대요.
 
-101. MRS. KANG: Minjun, don't make it nicer, and translate what I say, because I said someone taught him. Sit down and eat first, and then we talk.
+101. MRS. KANG: Minjun, don't make it nicer. Translate what I say. I said someone taught him. Sit down and eat first, and then we talk.
     민준 어머니: 민준아, 좋게 바꾸지 마. 내가 한 말 그대로 해. 누가 가르쳤다고 했어. 앉아서 먼저 먹어요. 얘기는 그다음에.
 
 102. MR. HAN: Sit here next to me. Soju?
@@ -327,16 +327,16 @@
 104. MR. HAN: Ha, good, Minjun, this American knows more than you did at twenty.
     민준 아버지: 하, 좋아. 민준아, 이 미국 사람이 네 스무 살 때보다 더 아는구나.
 
-105. WEN: Mrs. Kang, this soup is wonderful, thank you, because my mother made something like this with fish in Shenzhen.
+105. WEN: Mrs. Kang, this soup is wonderful, thank you. My mother made something like this with fish in Shenzhen.
     웬: 어머님, 이 국 정말 맛있어요, 감사합니다. 저희 어머니도 선전에서 생선 넣고 이런 걸 끓이셨거든요.
 
 106. MRS. KANG: Is your mother gone?
     민준 어머니: 어머니는 돌아가셨어요?
 
-107. WEN: Since 2010, and I couldn't go home for the funeral, because I was a student in America.
+107. WEN: Since 2010. I couldn't go home for the funeral, because I was a student in America.
     웬: 2010년에요. 미국에서 학생이라 장례식에도 못 갔어요.
 
-108. MRS. KANG: Then eat more, and here, I'll give you more fish, because a daughter far from home should eat more.
+108. MRS. KANG: Then eat more. Here, I'll give you more fish. A daughter far from home should eat more.
     민준 어머니: 그럼 더 먹어요. 자, 생선 더 줄게. 집에서 멀리 떨어진 딸은 더 먹어야 해.
 
 109. SAM: Mrs. Kang, before I eat any more, may I say something? Minjun, please translate exactly, and don't make it nicer.
@@ -345,7 +345,7 @@
 110. MINJUN: Okay, exactly, I promise.
     민준: 알았어요. 그대로 할게요.
 
-111. SAM: In 2025, Minjun came to Georgia because I asked him to build something with me, and then he was put in chains in front of cameras. I've never said this to you, because I've never met you, but I'm sorry.
+111. SAM: In 2025, Minjun came to Georgia because I asked him to build something with me, and then he was put in chains in front of cameras. I've never said this to you, because I've never met you. I'm sorry.
     샘: 2025년에 민준이 조지아에 온 건 제가 같이 뭘 짓자고 해서였는데, 카메라 앞에서 쇠사슬에 묶였죠. 어머님을 뵌 적이 없어서 한 번도 말씀 못 드렸지만, 죄송합니다.
 
 112. MRS. KANG: Did you put the chains on him?
@@ -360,19 +360,19 @@
 115. MINJUN: Mother, I didn't say it that well.
     민준: 어머니, 저 그렇게 멋있게 말 안 했어요.
 
-116. MRS. KANG: You said it worse, and I fixed it. Sam, I'm still angry at the country, but not at you, because you came here and brought my daughter-in-law peanut butter debts and a blanket from your wife.
+116. MRS. KANG: You said it worse, and I fixed it. Sam, I'm still angry at the country, but not at you. You came here. You brought my daughter-in-law peanut butter debts and a blanket from your wife.
     민준 어머니: 더 못하게 말했지, 내가 고친 거야. 샘, 나 아직 그 나라엔 화나 있어도 당신한텐 아니에요. 당신은 여기 와서 우리 며느리한테 땅콩버터 빚도 갚으러 오고, 아내가 보낸 이불도 가져왔잖아.
 
 117. SAM: It's actually a quilt, ma'am.
     샘: 사실 퀼트예요, 어머님.
 
-118. MRS. KANG: In this house, it's a blanket, and I will never use it, because it's too nice.
+118. MRS. KANG: In this house, it's a blanket. I will never use it. It's too nice.
     민준 어머니: 이 집에선 이불이에요. 너무 좋아서 절대 안 쓸 거예요.
 
 119. MINJUN: See, I told you so, Sam.
     민준: 거봐요, 제가 말했잖아요, 샘.
 
-120. MR. HAN: Sam, look at my hands, because every mark is a ship: this one is 1994, my first tanker, and this one is the ship with the bad weather, when the wind came off the sea. Do you have marks like this?
+120. MR. HAN: Sam, look at my hands. Every mark is a ship. This one is 1994, my first tanker, and this one is the ship with the bad weather, when the wind came off the sea. Do you have marks like this?
     민준 아버지: 샘, 내 손 봐요. 자국 하나하나가 배 한 척이야. 이건 1994년 내 첫 유조선, 이건 바다에서 바람 불어오던 날씨 나빴던 배. 당신도 이런 자국 있어요?
 
 121. SAM: Here on my thumb, from a winding machine named Brenda in 2011, and my dad has one from the GM plant in 1979.
@@ -381,16 +381,16 @@
 122. MR. HAN: Then we are the same kind of people, the people who make heavy things.
     민준 아버지: 그럼 우린 같은 종류의 사람이네. 무거운 걸 만드는 사람들.
 
-123. MRS. KANG: Enough about hands, so eat. Sam, you are family now, and in this house, family eats until the pot is empty.
+123. MRS. KANG: Enough about hands. Eat. Sam, you are family now, and in this house, family eats until the pot is empty.
     민준 어머니: 손 얘기는 그만하고 먹어요. 샘, 당신은 이제 가족이에요. 이 집에선 가족은 냄비가 빌 때까지 먹어요.
 
 124. SAM: And how big is the pot?
     샘: 냄비가 얼마나 큰데요?
 
-125. JIEUN: Don't ask, Sam, just eat, and loosen your belt. Minjun, take them to the noraebang after, because your father wants to sing.
+125. JIEUN: Don't ask, Sam, just eat, and loosen your belt. Minjun, take them to the noraebang after. Your father wants to sing.
     지은: 묻지 마세요, 샘, 그냥 드세요. 그리고 벨트 푸시고요. 민준 씨, 끝나고 노래방 모시고 가요. 아버님이 노래하고 싶어 하셔.
 
-126. MINJUN: Okay, Sam, you pick the song in room nine, and everybody has to sing, because that's the law in Korea.
+126. MINJUN: Okay, Sam, you pick the song in room nine. Everybody has to sing. That's the law in Korea.
     민준: 자, 샘. 9번 방에서 노래 고르세요. 다 불러야 해요. 한국에선 그게 법이에요.
 
 127. SAM: Wait, is that really the law?
@@ -402,22 +402,22 @@
 129. MR. HAN: Then I go first, with an old song about the sea that you don't need Korean to understand.
     민준 아버지: 그럼 내가 먼저 하지. 바다에 관한 옛날 노래인데, 한국말 몰라도 알아들을 거요.
 
-130. SAM: That was beautiful, because I didn't understand a word, and I almost cried.
+130. SAM: That was beautiful. I didn't understand a word, and I almost cried.
     샘: 정말 아름다웠어요. 한 마디도 못 알아들었는데 울 뻔했어요.
 
-131. MINJUN: That means you understood. Okay, Sam, it's your turn, so what's the song?
+131. MINJUN: That means you understood. Okay, Sam, it's your turn. What's the song?
     민준: 그럼 알아들으신 거예요. 자, 샘 차례예요. 무슨 노래예요?
 
-132. SAM: "Hang On Sloopy," which is Ohio's official rock song, seriously, because the state legislature voted on it in 1985.
+132. SAM: "Hang On Sloopy." It's Ohio's official rock song, seriously. The state legislature voted on it in 1985.
     샘: "행 온 슬루피." 오하이오주 공식 록 노래야. 진짜로. 1985년에 주 의회가 표결로 정했어.
 
-133. WEN: Sam can't sing, because I've heard him in the truck, so Mr. Park, I apologize for my country.
+133. WEN: Sam can't sing. I've heard him in the truck. Mr. Park, I apologize for my country.
     웬: 샘은 노래 못 해요. 트럭에서 들어 봤거든요. 박 대표님, 우리나라를 대신해 사과드려요.
 
 134. PARK: Which country do you mean?
     박 대표: 어느 나라 말씀이세요?
 
-135. WEN: Both, because today it's both.
+135. WEN: Both. Today, it's both.
     웬: 둘 다요. 오늘은 둘 다.
 
 136. MINJUN: Sam, that was terrible, the worst singing I've ever heard in this room, and my father is clapping!
@@ -429,31 +429,31 @@
 138. SAM: That's pretty much my whole business philosophy.
     샘: 그게 제 사업 철학 전부예요.
 
-139. WEN: It's my turn, so just one song, my mother's favorite, in Chinese, and Minjun, don't laugh.
+139. WEN: It's my turn. Just one song, my mother's favorite, in Chinese. Minjun, don't laugh.
     웬: 제 차례예요. 한 곡만, 저희 어머니가 제일 좋아하시던 중국 노래. 민준아, 웃지 마.
 
 140. MINJUN: Sunbae, in two years in the lab, I never heard you sing once.
     민준: 선배, 연구실 2년 동안 선배 노래하는 거 한 번도 못 들었어요.
 
-141. WEN: That's because in the lab, I was working, and tonight I'm with family.
+141. WEN: That's because in the lab, I was working. Tonight I'm with family.
     웬: 연구실에선 일하고 있었으니까. 오늘 밤엔 가족이랑 있잖아.
 
 142. SAM: Minjun, while she sings, can I tell you something honestly? I was scared to come here, even more scared than I was at the hearing in Washington.
     샘: 민준, 웬이 노래하는 동안 솔직하게 하나 말해도 될까? 여기 오는 거 무서웠어. 워싱턴 청문회보다 더.
 
-143. MINJUN: I know, because in Folkston I was scared every night, and I thought, "I'll never go back to America." Then Earl's letters came: "YOU CAME TO BUILD. THAT'S NOT A CRIME." In capital letters.
+143. MINJUN: I know. In Folkston I was scared every night, and I thought, "I'll never go back to America." Then Earl's letters came: "YOU CAME TO BUILD. THAT'S NOT A CRIME." In capital letters.
     민준: 알아요. 포크스턴에서 전 매일 밤 무서워서 "다시는 미국 안 간다" 생각했어요. 그러다 얼 할아버지 편지가 왔죠. "당신은 지으러 왔다. 그건 범죄가 아니다." 대문자로요.
 
 144. SAM: He still writes everything in capitals, even his grocery lists and birthday cards, and Loretta says he yells on paper.
     샘: 아직도 장보기 목록이고 생일 카드고 다 대문자로 써. 로레타 말로는 종이 위에서 소리 지른대.
 
-145. MINJUN: Sam, I'm going to build ships with you, not because Mr. Park says so, but because one man drove all night. My mother is right that that's where it starts.
+145. MINJUN: Sam, I'm going to build ships with you. Not because Mr. Park says so, but because one man drove all night. My mother is right. That's where it starts.
     민준: 샘, 저 샘이랑 배를 지을 거예요. 대표님이 시켜서가 아니라, 한 사람이 밤새 운전해 왔으니까요. 거기서 시작된다는 우리 어머니 말이 맞아요.
 
 146. SAM: Then let's go build some ships.
     샘: 그럼 배를 짓자.
 
-147. WEN: Sam, your phone is buzzing on the table, and it's four in the morning in Dayton, so who is awake?
+147. WEN: Sam, your phone is buzzing on the table. It's four in the morning in Dayton, so who is awake?
     웬: 샘, 테이블에서 휴대폰 울려요. 데이턴은 새벽 네 시인데 누가 깨어 있어요?
 
 148. SAM: Tyler. Of course. "Boss. Since the hearing video, forty-one new requests. A space company, an air-taxi company, Atlas wants EV pickups again. Call me. Everyone wants a yes."
@@ -462,7 +462,7 @@
 149. MINJUN: Forty-one, Sam, and that's a lot of yeses.
     민준: 마흔한 건이라니, 샘, 예스가 엄청 많네요.
 
-150. SAM: That's a lot of yeses, so I'm going to need Gloria.
+150. SAM: That's a lot of yeses. I'm going to need Gloria.
     샘: 예스가 너무 많네. 글로리아가 필요하겠어.
 
 ---

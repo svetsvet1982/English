@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. LILY: Dad, you're holding the hot dogs wrong, because you're holding them like motor parts.
+001. LILY: Dad, you're holding the hot dogs wrong. You're holding them like motor parts.
     릴리: 아빠, 핫도그 잘못 들고 있어. 모터 부품처럼 들고 있잖아.
 
 002. SAM: There's a right way to hold a hot dog?
@@ -24,8 +24,8 @@
 003. ERIN: According to your daughter, there's a right way to do everything, and she gets that from you.
     에린: 당신 딸 말로는 모든 일에 맞는 방법이 있대. 그건 당신 닮았어.
 
-004. STAN: She gets it from me, and Sam got it from me too, so it skipped nobody.
-    스탠: 나 닮은 거다. 샘도 나 닮았고. 그러니까 아무도 안 건너뛰었지.
+004. STAN: She gets it from me, and Sam got it from me too. It skipped nobody.
+    스탠: 나 닮은 거다. 샘도 나 닮았고. 아무도 안 건너뛰었지.
 
 005. GLORIA: Okay, Ferrox families, listen up! Potato salad is on the left, Loretta's famous beans are in the middle, and Earl is not allowed near the grill.
     글로리아: 자, Ferrox 가족 여러분, 잘 들어요! 감자 샐러드는 왼쪽, 로레타의 유명한 콩 요리는 가운데, 그리고 얼은 그릴 근처 금지예요.
@@ -45,10 +45,10 @@
 010. TYLER: This is the first company picnic I've ever been to where the CEO is grilling. At my last job, the CEO came for ten minutes and took a photo.
     타일러: CEO가 고기 굽는 회사 피크닉은 처음이에요. 전 직장에선 CEO가 10분 왔다가 사진 한 장 찍고 갔거든요.
 
-011. DARNELL: In the Army, the officers served the food on holidays, and it's the same idea, because it's good for morale.
-    대넬: 군대에선 명절에 장교들이 배식했어요. 같은 거죠. 사기에 좋으니까요.
+011. DARNELL: In the Army, the officers served the food on holidays. It's the same idea, and it's good for morale.
+    대넬: 군대에선 명절에 장교들이 배식했어요. 같은 거죠. 사기에 좋아요.
 
-012. SAM: It's not about morale, I just like grilling, because it's the only time nobody asks me about tariffs.
+012. SAM: It's not about morale, I just like grilling. It's the only time nobody asks me about tariffs.
     샘: 사기 때문이 아니라 그냥 굽는 게 좋아. 아무도 관세 얘기 안 묻는 유일한 시간이거든.
 
 013. WEN: Sam, I need to ask you something about tariffs.
@@ -63,8 +63,8 @@
 016. ERIN: Wen, it looks perfect, like a picture in a magazine.
     에린: 웬, 완벽해 보여요. 잡지 사진 같아요.
 
-017. WEN: Thank you, and it's within two percent of the recipe's target weight, so I'm proud of it.
-    웬: 고마워요. 레시피 목표 무게의 2퍼센트 오차 안이라 자랑스러워요.
+017. WEN: Thank you. It's within two percent of the recipe's target weight, and I'm proud of it.
+    웬: 고마워요. 레시피 목표 무게의 2퍼센트 오차 안이에요. 자랑스러워요.
 
 018. GLORIA: Sam, your phone is buzzing on the blanket, and it says "Frank."
     글로리아: 샘, 네 폰이 담요 위에서 울리고 있어. '프랭크'래.
@@ -84,10 +84,10 @@
 023. GLORIA: We passed the whole thing?
     글로리아: 전부 통과했다고?
 
-024. SAM: It's full approval, two weeks before the deadline, which means the three-year contract is ours to lose.
-    샘: 완전 승인이에요, 마감 2주 전에. 이제 3년 계약은 우리가 놓치지만 않으면 우리 거라는 뜻이에요.
+024. SAM: It's full approval, two weeks before the deadline. Now the three-year contract is ours to lose.
+    샘: 완전 승인이에요, 마감 2주 전에. 이제 3년 계약은 우리가 놓치지만 않으면 우리 거예요.
 
-025. EARL: Hey, everybody, listen up, because the car people said yes, and our motor is officially good enough for Detroit!
+025. EARL: Hey, everybody, listen up! The car people said yes, and our motor is officially good enough for Detroit!
     얼: 야, 다들 들어 봐! 자동차 사람들이 좋대! 우리 모터가 공식적으로 디트로이트에 쓸 만하대!
 
 026. PATTY: We did it, after the gear thing and the magnifying glass?
@@ -96,8 +96,8 @@
 027. DARNELL: Hooah, that's what I'm talking about!
     대넬: 후아, 바로 그거죠!
 
-028. LILY: My spreadsheet is going to Detroit, which means my spreadsheet is famous.
-    릴리: 내 스프레드시트가 디트로이트로 간다. 그러니까 내 스프레드시트가 유명해진 거야.
+028. LILY: My spreadsheet is going to Detroit. My spreadsheet is famous now.
+    릴리: 내 스프레드시트가 디트로이트로 간다. 이제 내 스프레드시트가 유명해졌어.
 
 029. STAN: What's a PPAP, and is that a kind of firecracker?
     스탠: PPAP가 뭐냐? 폭죽 종류냐?
@@ -117,14 +117,14 @@
 034. ERIN: I'll believe it when I see it stay there for an hour.
     에린: 한 시간 동안 거기 그대로 있는 걸 보면 믿을게.
 
-035. TYLER: Wen, is that a news alert on your phone, because your face just did a thing?
+035. TYLER: Wen, is that a news alert on your phone? Your face just did a thing.
     타일러: 박사님, 폰에 그거 뉴스 알림이에요? 방금 표정이 변했는데요.
 
 036. WEN: My face doesn't do things, and it's a video from Minjun. Look, they broke ground in Georgia on Monday, and Mr. Park is holding a gold shovel.
     웬: 제 얼굴은 안 변해요. 민준이 보낸 영상이에요. 봐요, 월요일에 조지아에서 착공했대요. 박 대표님이 금색 삽을 들고 계세요.
 
-037. GLORIA: A gold shovel in Georgia in July, so that man is going to melt.
-    글로리아: 7월에 조지아에서 금색 삽이라니, 그분 녹아 버리시겠다.
+037. GLORIA: A gold shovel in Georgia in July? That man is going to melt.
+    글로리아: 7월에 조지아에서 금색 삽이라니? 그분 녹아 버리시겠다.
 
 038. WEN: Minjun says, "Bones are in the ground, ppalli-ppalli," and then there's a heart emoji.
     웬: 민준이 "뼈가 땅에 들어갔어요, 빨리빨리"래요. 그리고 하트 이모티콘도 있어요.
@@ -132,26 +132,26 @@
 039. STAN: Bones in the ground? What does that mean, did somebody die?
     스탠: 뼈가 땅에 들어갔다고? 그게 무슨 뜻이냐, 누가 죽었냐?
 
-040. SAM: It's a factory, Dad, because our Korean partner is building a plant in Georgia for our steel parts.
-    샘: 공장이에요, 아버지. 우리 한국 파트너가 조지아에 우리 강판 부품용 공장을 짓고 있거든요.
+040. SAM: It's a factory, Dad. Our Korean partner is building a plant in Georgia for our steel parts.
+    샘: 공장이에요, 아버지. 우리 한국 파트너가 조지아에 우리 강판 부품용 공장을 짓고 있어요.
 
 041. STAN: So it's in Georgia, not Ohio.
     스탠: 그러니까 오하이오가 아니라 조지아에.
 
-042. SAM: The heart stays in Ohio, because I promised Earl.
-    샘: 심장은 오하이오에 남아요. 얼한테 약속했거든요.
+042. SAM: The heart stays in Ohio. I promised Earl.
+    샘: 심장은 오하이오에 남아요. 얼한테 약속했어요.
 
 043. STAN: Earl told me, and he said you said it like you meant it.
     스탠: 얼이 말해 줬다. 진심인 것처럼 말했다더라.
 
-044. EARL: I said he said it like he meant it the third time, because the first two times he sounded like a politician.
-    얼: 세 번째에 진심인 것처럼 말했다고 했지. 앞의 두 번은 정치인 같았거든.
+044. EARL: I said he said it like he meant it the third time. The first two times he sounded like a politician.
+    얼: 세 번째에 진심인 것처럼 말했다고 했지. 앞의 두 번은 정치인 같았어.
 
 045. LORETTA: Earl, just eat your beans.
     로레타: 얼, 콩이나 먹어.
 
-046. TYLER: Hey, turn up the radio, because they're talking about the big bill that's being signed today.
-    타일러: 저기, 라디오 소리 좀 키워요. 오늘 서명하는 그 큰 법안 얘기 하고 있어요.
+046. TYLER: Hey, turn up the radio! They're talking about the big bill that's being signed today.
+    타일러: 저기, 라디오 소리 좀 키워요! 오늘 서명하는 그 큰 법안 얘기 하고 있어요.
 
 047. PATTY: Is that the one with everything in it? My sister has been calling me about it all week.
     패티: 다 들어 있는 그거요? 우리 언니가 그거 때문에 일주일 내내 전화했어요.
@@ -159,16 +159,16 @@
 048. TYLER: "The bill extends the twenty seventeen tax cuts, adds new deductions for tips and overtime, ends the tax credit for new electric vehicles on September thirtieth, and makes changes to Medicaid and food assistance."
     타일러: "법안은 2017년 감세를 연장하고, 팁과 초과근무에 대한 새 공제를 추가하며, 신차 전기차 세액공제를 9월 30일에 종료하고, 메디케이드와 식품 지원에 변화를 줍니다."
 
-049. DARNELL: Wait, overtime, so there's no tax on overtime?
-    대넬: 잠깐만요, 초과근무요? 초과근무엔 세금이 없다고요?
+049. DARNELL: Wait, overtime? You mean there's no tax on overtime?
+    대넬: 잠깐만요, 초과근무요? 초과근무엔 세금이 없다는 거예요?
 
 050. GLORIA: It's not no tax, baby, it's a deduction up to a limit for a few years. You'll still pay some, but you'll pay less.
     글로리아: 세금이 없는 건 아니야, 얘. 몇 년 동안 한도까지 받는 공제야. 그래도 조금은 내는데, 덜 내지.
 
-051. DARNELL: I worked sixty hours of overtime in June for the PPAP, so that's real money for me, because it's my car payment.
+051. DARNELL: I worked sixty hours of overtime in June for the PPAP. That's real money for me, it's my car payment.
     대넬: 6월에 PPAP 때문에 초과근무를 60시간 했어요. 저한텐 진짜 돈이에요. 차 할부금이거든요.
 
-052. PATTY: And my sister is scared about her Medicaid, because she takes care of our mom full-time and doesn't have a job on paper.
+052. PATTY: And my sister is scared about her Medicaid. She takes care of our mom full-time, so she doesn't have a job on paper.
     패티: 그리고 우리 언니는 메디케이드 때문에 겁먹었어요. 엄마를 전업으로 돌보느라 서류상으로는 직업이 없거든요.
 
 053. DARNELL: I'm sorry, Patty, I didn't think about that.
@@ -177,8 +177,8 @@
 054. PATTY: It's okay, honey, and you should be happy about your overtime. It's a big bill that's good for some people and scary for other people, same as always.
     패티: 괜찮아, 얘. 초과근무는 기뻐해도 돼. 큰 법안이라 어떤 사람한텐 좋고 어떤 사람한텐 무섭고, 늘 그렇지.
 
-055. EARL: Same news, two faces, which is what you said in June.
-    얼: 같은 뉴스, 얼굴 두 개. 6월에 네가 한 말이잖아.
+055. EARL: Same news, two faces, just like you said in June.
+    얼: 같은 뉴스, 얼굴 두 개. 6월에 네가 한 말 그대로네.
 
 056. PATTY: I say it every month, Earl, and the news keeps proving me right.
     패티: 매달 하는 말이에요, 얼. 뉴스가 계속 제 말이 맞다는 걸 증명해 주네요.
@@ -189,29 +189,29 @@
 058. GLORIA: Don't do what, baby?
     글로리아: 뭘 하지 마, 얘?
 
-059. SAM: Don't take out the calculator, because I can see it in your bag.
+059. SAM: Don't take out the calculator. I can see it in your bag.
     샘: 계산기 꺼내지 마요. 가방에 있는 거 보여요.
 
 060. GLORIA: Baby, a law just passed that changes our taxes, our customers, and maybe our biggest new contract, while we're sitting on a picnic blanket. You want me to wait until Monday?
     글로리아: 얘, 우리가 피크닉 담요에 앉아 있는 동안 우리 세금이랑 고객이랑 어쩌면 제일 큰 새 계약까지 바꾸는 법이 통과됐어. 월요일까지 기다리라고?
 
-061. ERIN: Yes, I want you to wait until Monday, because it's a holiday.
+061. ERIN: Yes, I want you to wait until Monday. It's a holiday.
     에린: 네, 월요일까지 기다렸으면 좋겠어요. 휴일이잖아요.
 
-062. GLORIA: Erin, honey, I love you, so give me five minutes, just five, and then I'll put it away and eat Wen's pie.
+062. GLORIA: Erin, honey, I love you. Give me five minutes, just five, and then I'll put it away and eat Wen's pie.
     글로리아: 에린, 얘, 사랑해. 5분만, 딱 5분만 줘. 그다음엔 넣어 두고 웬 파이 먹을게.
 
 063. ERIN: Five minutes, and I'm timing you.
     에린: 5분이에요. 시간 잴 거예요.
 
-064. GLORIA: Okay, there are three things. The first is the electric vehicle tax credit, where right now the government gives you up to seventy-five hundred dollars back when you buy a new EV, which is money off your taxes. After September thirtieth, it's gone.
-    글로리아: 좋아, 세 가지야. 첫째는 전기차 세액공제야. 지금은 새 전기차를 사면 정부가 최대 7,500달러를 세금에서 깎아 줘. 근데 9월 30일 이후엔 없어져.
+064. GLORIA: Okay, there are three things. The first is the electric vehicle tax credit. Right now, when you buy a new EV, the government gives you up to seventy-five hundred dollars off your taxes, and after September thirtieth, it's gone.
+    글로리아: 좋아, 세 가지야. 첫째는 전기차 세액공제야. 지금은 새 전기차를 사면 정부가 세금에서 최대 7,500달러를 깎아 주는데, 9월 30일 이후엔 없어져.
 
 065. TYLER: So everybody's going to rush to buy one before September.
     타일러: 그럼 다들 9월 전에 사려고 몰려가겠네요.
 
-066. GLORIA: And then nobody buys one in October. Atlas makes a hybrid Summit and an electric one, and our coolant pump goes in both, so half that business might shrink after September.
-    글로리아: 그리고 10월엔 아무도 안 사겠지. 애틀러스는 하이브리드 서밋이랑 전기 서밋을 만드는데 우리 냉각수 펌프가 둘 다에 들어가니까, 9월 이후엔 그 사업 절반이 줄어들 수도 있어.
+066. GLORIA: And then nobody buys one in October. Atlas makes a hybrid Summit and an electric one, and our coolant pump goes in both. Half that business might shrink after September.
+    글로리아: 그리고 10월엔 아무도 안 사겠지. 애틀러스는 하이브리드 서밋이랑 전기 서밋을 만드는데 우리 냉각수 펌프가 둘 다에 들어가. 9월 이후엔 그 사업 절반이 줄어들 수도 있어.
 
 067. WEN: The pump isn't even in the contract yet, it's only a maybe.
     웬: 펌프는 아직 계약에 없어요. 그냥 '어쩌면'일 뿐이에요.
@@ -222,16 +222,16 @@
 069. LORETTA: Earl, we were going to get a heat pump, and the man came to the house in May.
     로레타: 여보, 우리 히트펌프 놓으려고 했잖아. 5월에 사람이 집에 왔었고.
 
-070. EARL: Then we're getting it before Christmas, so remind me.
+070. EARL: Then we're getting it before Christmas. Remind me.
     얼: 그럼 크리스마스 전에 놓자. 나한테 상기시켜 줘.
 
 071. LORETTA: I'll remind you every day, honey, like always.
     로레타: 늘 그렇듯이 매일 상기시켜 줄게, 여보.
 
-072. GLORIA: And the third one is the good one for us, which is research and development. Since twenty twenty-two, a company that spent money on research had to spread the tax deduction over five years, but now we can expense all of it the same year.
-    글로리아: 그리고 셋째가 우리한테 좋은 건데, 연구개발이야. 2022년부터는 회사가 연구에 돈을 쓰면 세금 공제를 5년에 나눠 받아야 했는데, 이제는 그해에 전부 비용으로 처리할 수 있어.
+072. GLORIA: And the third one is the good one for us, research and development. Since twenty twenty-two, a company that spent money on research had to spread the tax deduction over five years. Now we can expense all of it the same year.
+    글로리아: 그리고 셋째가 우리한테 좋은 거야, 연구개발. 2022년부터는 회사가 연구에 돈을 쓰면 세금 공제를 5년에 나눠 받아야 했어. 이제는 그해에 전부 비용으로 처리할 수 있어.
 
-073. SAM: Gloria, in plain English, please, because it's a holiday.
+073. SAM: Gloria, in plain English, please. It's a holiday.
     샘: 글로리아, 쉽게 말해 줘요. 휴일이잖아요.
 
 074. GLORIA: In plain English, when Wen spends a dollar inventing something, we write off the whole dollar this year instead of twenty cents a year for five years. We take it off our taxable income, so it's less tax and more cash right now.
@@ -246,8 +246,8 @@
 077. TYLER: And how big a check are we talking about?
     타일러: 얼마나 큰 수표 얘기예요?
 
-078. GLORIA: I don't know yet, because I need my accountant, and my accountant is at a lake like Frank. But it's big enough to change the board.
-    글로리아: 아직 몰라. 회계사가 필요한데, 회계사도 프랭크처럼 호수에 가 있거든. 근데 칠판 숫자를 바꿀 만큼은 커.
+078. GLORIA: I don't know yet. I need my accountant, and my accountant is at a lake like Frank. But it's big enough to change the board.
+    글로리아: 아직 몰라. 회계사가 필요한데, 회계사도 프랭크처럼 호수에 가 있어. 근데 칠판 숫자를 바꿀 만큼은 커.
 
 079. STAN: So the same bill helps the factory and hurts Patty's sister.
     스탠: 그러니까 같은 법이 공장은 돕고 패티 언니는 아프게 하는구나.
@@ -264,7 +264,7 @@
 083. STAN: I think I'm seventy-seven, and I've seen a lot of bills, and most of them were less important than the people who argued about them thought. Now pass the beans.
     스탠: 난 일흔일곱이고 법안을 많이 봤는데, 대부분은 그걸로 싸운 사람들이 생각한 것보다 덜 중요했어. 이제 콩 좀 줘라.
 
-084. ERIN: That's five minutes, Gloria, so put the calculator away.
+084. ERIN: That's five minutes, Gloria. Put the calculator away.
     에린: 5분 됐어요, 글로리아. 계산기 넣으세요.
 
 085. GLORIA: It's away, look, it's gone, and Sam, we'll talk on Monday.
@@ -300,10 +300,10 @@
 095. ERIN: It was the last day of June. Do you remember what we said about June back in January?
     에린: 6월의 마지막 날이었어. 1월에 우리가 6월에 대해 뭐라고 했는지 기억나?
 
-096. SAM: We said that if things weren't getting better by June, we'd talk about selling. And things got better, Erin, way better, with Haverford and Atlas and the PPAP, so we don't need to sell.
-    샘: 6월까지 나아지지 않으면 매각 얘기를 하자고 했지. 그리고 나아졌잖아, 에린, 훨씬. 해버퍼드, 애틀러스, PPAP까지. 그러니까 팔 필요 없어.
+096. SAM: We said that if things weren't getting better by June, we'd talk about selling. And things got better, Erin, way better, with Haverford and Atlas and the PPAP. We don't need to sell.
+    샘: 6월까지 나아지지 않으면 매각 얘기를 하자고 했지. 그리고 나아졌잖아, 에린, 훨씬. 해버퍼드, 애틀러스, PPAP까지. 팔 필요 없어.
 
-097. ERIN: I know they got better, but that's not my point. My point is that June came and went and you didn't even notice, because we made a deadline together at our kitchen table and you forgot it existed.
+097. ERIN: I know they got better, but that's not my point. My point is that June came and went and you didn't even notice. We made a deadline together at our kitchen table, and you forgot it existed.
     에린: 나아진 거 알아. 근데 그게 요점이 아니야. 요점은 6월이 왔다 갔는데 당신은 알아채지도 못했다는 거야. 우리 부엌 식탁에서 같이 정한 기한인데, 당신은 그게 있었다는 것조차 잊었어.
 
 098. SAM: I didn't forget, I just thought it didn't matter anymore.
@@ -318,7 +318,7 @@
 101. ERIN: And then there was Lily's banquet in May, where you got there at eight fifteen and she got her award at seven forty. She looked for you in the crowd, Sam, and I watched her look.
     에린: 그리고 5월에 릴리 시상식도 있었지. 당신은 여덟 시 십오 분에 왔고 릴리는 일곱 시 사십 분에 상 받았어. 사람들 사이에서 당신을 찾았어, 샘. 찾는 걸 내가 봤어.
 
-102. SAM: The flight was delayed, and you know that, because I ran all the way from the parking lot.
+102. SAM: The flight was delayed, and you know that. I ran all the way from the parking lot.
     샘: 비행기가 연착됐잖아. 알잖아. 주차장에서부터 뛰어왔다고.
 
 103. ERIN: I know, and I know you ran. I'm not saying you're a bad father, I'm saying you're a good father who's never there, and those are different problems.
@@ -333,8 +333,8 @@
 106. SAM: Atlas is the biggest contract we've ever had, and ninety families depend on it, and so does Terrell in Chicago.
     샘: 애틀러스는 우리가 받아 본 것 중 제일 큰 계약이야. 아흔 가족이 거기 달려 있고, 시카고의 테럴도 그래.
 
-107. ERIN: And one family depends on you being here, this one. I triage for a living, Sam, so I know how to decide what's urgent, and you don't, because everything is urgent to you.
-    에린: 그리고 한 가족은 당신이 여기 있는 거에 달려 있어. 바로 이 가족. 난 생사를 가르는 게 직업이야, 샘. 그래서 뭐가 급한지 정하는 법을 아는데, 당신은 몰라. 당신한텐 모든 게 급하니까.
+107. ERIN: And one family depends on you being here, this one. I triage for a living, Sam, and I know how to decide what's urgent. You don't, because everything is urgent to you.
+    에린: 그리고 한 가족은 당신이 여기 있는 거에 달려 있어. 바로 이 가족. 난 생사를 가르는 게 직업이야, 샘. 뭐가 급한지 정하는 법을 알아. 당신은 몰라. 당신한텐 모든 게 급하니까.
 
 108. SAM: What do you want me to do? Tell me, and I'll do it.
     샘: 내가 뭘 했으면 좋겠어? 말해 줘. 할게.
@@ -345,8 +345,8 @@
 110. SAM: Okay, that's fair, and it's harder, but it's fair.
     샘: 그래, 맞는 말이야. 더 어렵지만 맞는 말이야.
 
-111. ERIN: Lily's going to be a senior in the fall, and she wants to visit Purdue in August, which is your school. She hasn't asked you, because she thinks you'll say you're busy.
-    에린: 릴리가 가을이면 고3인데, 8월에 당신 학교인 퍼듀를 방문하고 싶어 해. 당신이 바쁘다고 할 것 같아서 안 물어본 거야.
+111. ERIN: Lily's going to be a senior in the fall, and she wants to visit Purdue in August, your old school. She hasn't asked you, because she thinks you'll say you're busy.
+    에린: 릴리가 가을이면 고3인데, 8월에 당신 모교인 퍼듀를 방문하고 싶어 해. 당신이 바쁘다고 할 것 같아서 안 물어본 거야.
 
 112. SAM: She actually wants to go to Purdue?
     샘: 릴리가 정말 퍼듀에 가고 싶어 한다고?
@@ -363,13 +363,13 @@
 116. SAM: Erin, I'm going to take her myself in August, for a whole day, with no phone.
     샘: 에린, 8월에 내가 직접 데려갈게. 하루 종일, 폰 없이.
 
-117. ERIN: Don't promise, because you know what I said in May.
+117. ERIN: Don't promise. You know what I said in May.
     에린: 약속하지 마. 5월에 내가 뭐라고 했는지 알잖아.
 
 118. SAM: "Don't promise. Just try."
     샘: "약속하지 마. 그냥 노력해."
 
-119. ERIN: This time I want more than trying, because this time I want you to make time. I don't mean find time, I mean make it, and there's a difference.
+119. ERIN: This time I want more than trying. This time I want you to make time, and I don't mean find time, I mean make it. There's a difference.
     에린: 이번엔 노력하는 것 이상을 원해. 이번엔 시간을 만들어. 찾는 게 아니라 만드는 거. 차이가 있어.
 
 120. SAM: Make time, okay, and I'll put it on Gloria's board in green.
@@ -387,7 +387,7 @@
 124. SAM: Honestly, I have no idea.
     샘: 솔직히 전혀 모르겠어.
 
-125. ERIN: It's my mother's birthday. Come on, because the fireworks are starting soon and Lily saved us a spot.
+125. ERIN: It's my mother's birthday. Come on, the fireworks are starting soon, and Lily saved us a spot.
     에린: 우리 엄마 생신이야. 가자, 불꽃놀이 곧 시작하는데 릴리가 자리 맡아 놨어.
 
 126. LILY: Over here, Mom, Dad! I saved the blanket, and Grandpa's already asleep.
@@ -411,17 +411,17 @@
 132. TYLER: She's going to count every one, and I already know it.
     타일러: 박사님 하나하나 다 셀 거예요. 벌써 알아요.
 
-133. WEN: Only the big ones, because the small ones are statistically boring.
-    웬: 큰 것만요. 작은 건 통계적으로 지루하거든요.
+133. WEN: Only the big ones. The small ones are statistically boring.
+    웬: 큰 것만요. 작은 건 통계적으로 지루해요.
 
-134. LILY: Dad, can I ask you something, because Mom said I should ask you myself?
+134. LILY: Dad, can I ask you something? Mom said I should ask you myself.
     릴리: 아빠, 하나 물어봐도 돼? 엄마가 직접 물어보래.
 
 135. SAM: You can ask me anything, Lil.
     샘: 뭐든지 물어봐, 릴.
 
-136. LILY: Can we go to Purdue in August, just to look? I know you're busy with Atlas, so if you can't, it's okay, because Mom can take me.
-    릴리: 8월에 퍼듀에 그냥 보러 갈 수 있어? 애틀러스 때문에 바쁜 거 알아. 못 가면 괜찮아, 엄마가 데려가 줄 수 있으니까.
+136. LILY: Can we go to Purdue in August, just to look? I know you're busy with Atlas, so if you can't, it's okay. Mom can take me.
+    릴리: 8월에 퍼듀에 그냥 보러 갈 수 있어? 애틀러스 때문에 바쁜 거 알아. 못 가면 괜찮아. 엄마가 데려가 줄 수 있어.
 
 137. SAM: We'll go on Tuesday, August twelfth, for the whole day, and I'll show you where I almost failed thermodynamics.
     샘: 8월 12일 화요일에 하루 종일 가자. 아빠가 열역학 낙제할 뻔한 데 보여 줄게.
@@ -429,8 +429,8 @@
 138. LILY: Really? You're not just saying that?
     릴리: 진짜? 그냥 하는 말 아니지?
 
-139. SAM: Ask your mom, because it's going on the refrigerator calendar tonight.
-    샘: 엄마한테 물어봐. 오늘 밤에 냉장고 달력에 쓸 거니까.
+139. SAM: Ask your mom. It's going on the refrigerator calendar tonight.
+    샘: 엄마한테 물어봐. 오늘 밤에 냉장고 달력에 쓸 거야.
 
 140. ERIN: I'll believe it when I see it, Sam.
     에린: 보면 믿을게, 샘.
@@ -441,7 +441,7 @@
 142. ERIN: We'll see.
     에린: 두고 보자.
 
-143. STAN: Here they go, so look at that, because the first one's always the best.
+143. STAN: Here they go. Look at that, the first one's always the best.
     스탠: 시작한다. 저거 봐라. 첫 번째가 항상 제일 좋아.
 
 144. WEN: It's one point two seconds, so listen. There.

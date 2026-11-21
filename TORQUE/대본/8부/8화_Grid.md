@@ -15,10 +15,10 @@
 
 ## 대본
 
-001. KELLER: Mr. Kowalski, you called, and I wasn't sure you would, because most people lose my card.
+001. KELLER: Mr. Kowalski, you called. I wasn't sure you would, since most people lose my card.
     켈러: 코왈스키 씨, 전화하셨네요. 하실지 몰랐어요. 대부분 제 명함을 잃어버리거든요.
 
-002. SAM: I keep cards, because my CFO makes me. This is Dr. Wen Liu, our CTO.
+002. SAM: I keep cards. My CFO makes me. This is Dr. Wen Liu, our CTO.
     샘: 전 명함 보관해요. 우리 CFO가 시켜서요. 이쪽은 우리 CTO 웬 리우 박사예요.
 
 003. KELLER: Dr. Liu, welcome to the least glamorous building in Ohio. This is Renee Jennings, who runs transmission planning and knows where every wire goes.
@@ -33,13 +33,13 @@
 006. RENEE: I mean last Monday.
     르네: 지난주 월요일이요.
 
-007. SAM: Our coffee machine sounds like a goose, so I think we'd get along.
+007. SAM: Our coffee machine sounds like a goose. I think we'd get along.
     샘: 우리 커피 머신은 거위 소리가 나요. 우리 잘 맞을 것 같네요.
 
 008. RENEE: Brian says you're in the middle of the Helix thing, the Greene County thing and the electric bill thing, which is a lot of things.
     르네: 브라이언 말로는 헬릭스 건, 그린 카운티 건, 전기요금 건 한가운데 계신다고요. 건이 많네요.
 
-009. SAM: It's really one thing, because it all comes down to the grid.
+009. SAM: It's really one thing. It all comes down to the grid.
     샘: 사실 하나예요. 결국 다 전력망 얘기거든요.
 
 010. RENEE: Everything comes down to the grid, but people just don't notice until the lights go out. So what do you want to know?
@@ -48,7 +48,7 @@
 011. SAM: Helix's new campus in Greene County, where Raj says full power comes in 2031. His board wants to know why, and I want to know if there's any way to make it sooner.
     샘: 그린 카운티 헬릭스 새 단지요. 라지는 2031년에 전력이 다 들어온대요. 이사회는 이유를 알고 싶어 하고, 전 더 앞당길 방법이 있는지 알고 싶어요.
 
-012. RENEE: Everybody wants sooner, so come look at the wall.
+012. RENEE: Everybody wants sooner. Come look at the wall.
     르네: 다들 앞당기고 싶어 하죠. 벽 보러 오세요.
 
 013. TYLER: Whoa, that's a big map, and it covers the whole wall.
@@ -114,7 +114,7 @@
 033. RENEE: Everybody in transmission knows the Mercers, because Glen's grandfather fought a line in 1964 and won by parking his tractor in front of the survey crew for nine days. We still tell new engineers that story in their first week.
     르네: 송전 쪽 사람은 다 머서 집안을 알아요. 글렌 할아버지가 1964년에 측량팀 앞에 트랙터를 아흐레 동안 세워 두고 송전선이랑 싸워서 이겼거든요. 지금도 신입 엔지니어한테 첫 주에 그 얘기를 해 줘요.
 
-034. EARL: Good for him, because somebody should win against those towers once.
+034. EARL: Good for him. Somebody should win against those towers once.
     얼: 잘했네. 저 철탑들 상대로 한 번은 누가 이겨야지.
 
 035. RENEE: It's Earl, right? Personally, I agree with you, but professionally, I have to build the line. The third thing is the real problem, which is transformers.
@@ -138,7 +138,7 @@
 041. WEN: Ms. Jennings, can I ask a different question?
     웬: 제닝스 씨, 다른 질문 하나 해도 될까요?
 
-042. RENEE: Call me Renee, and yes, because engineers ask the best questions, while executives just ask "when."
+042. RENEE: Call me Renee, and yes. Engineers ask the best questions, while executives just ask "when."
     르네: 르네라고 하세요. 그리고 네. 엔지니어가 제일 좋은 질문을 하거든요. 임원들은 '언제'만 묻고요.
 
 043. SAM: I'm standing right here, you know.
@@ -150,8 +150,8 @@
 045. WEN: You build the grid for the hottest hour of the year, the peak, correct?
     웬: 전력망은 1년 중 제일 더운 한 시간, 피크에 맞춰 짓잖아요. 맞죠?
 
-046. RENEE: Correct, because peak demand is everything. If we can survive four p.m. on the hottest day of July, we can survive the rest of the year.
-    르네: 맞아요. 피크 수요가 전부거든요. 7월 제일 더운 날 오후 네 시를 버틸 수 있으면 나머지 1년은 버틸 수 있어요.
+046. RENEE: Correct. Peak demand is everything, and if we can survive four p.m. on the hottest day of July, we can survive the rest of the year.
+    르네: 맞아요. 피크 수요가 전부예요. 7월 제일 더운 날 오후 네 시를 버틸 수 있으면 나머지 1년은 버틸 수 있어요.
 
 047. WEN: How many hours a year is the grid actually close to that peak?
     웬: 1년에 전력망이 실제로 그 피크에 가까운 시간이 몇 시간이에요?
@@ -207,7 +207,7 @@
 064. RENEE: For phase one, yes, with a contract that says if they don't cut when we call, we cut them, automatically, with no phone call and no excuses.
     르네: 1단계는요. 우리가 요청할 때 안 줄이면 우리가 끊는다는 계약이 붙어요. 자동으로, 전화도 변명도 없이요.
 
-065. KELLER: That's real, because there are a few pilots like that in other states, but nobody in Ohio has done it for a data center this size.
+065. KELLER: That's real. There are a few pilots like that in other states, but nobody in Ohio has done it for a data center this size.
     켈러: 그거 진짜예요. 다른 주에 그런 시범 사업이 몇 개 있는데, 오하이오에선 이 규모 데이터센터로 해 본 데가 없어요.
 
 066. GLORIA: Wait, so the grid doesn't need to be bigger, it needs customers who are smarter.
@@ -243,14 +243,14 @@
 076. SAM: If every big building in your territory did what Wen just described, how many of those red dots could you connect without a new transformer?
     샘: 관할 안의 큰 건물들이 다 웬이 말한 걸 하면, 저 빨간 점 중 몇 개를 새 변압기 없이 연결할 수 있어요?
 
-077. RENEE: Nobody's ever asked me that, so hold on and let me think like an engineer instead of a utility.
+077. RENEE: Nobody's ever asked me that. Hold on, and let me think like an engineer instead of a utility.
     르네: 그런 질문은 처음 받아요. 잠깐만요, 전력회사 말고 엔지니어처럼 생각해 볼게요.
 
 078. RENEE: Maybe a third, maybe more, because factories, hospitals and cold storage warehouses all have big pumps and fans. That's a lot of red dots that turn green.
     르네: 3분의 1쯤, 어쩌면 더요. 공장, 병원, 냉동 창고는 다 큰 펌프랑 팬이 있으니까요. 빨간 점이 꽤 많이 초록색으로 바뀌겠네요.
 
-079. EARL: Hospitals, sure, because Erin's hospital has a cooling plant the size of our whole building. I've seen it, when her friend Shonda gave me a tour once.
-    얼: 병원 맞아. 에린네 병원엔 우리 건물 전체만 한 냉각 설비가 있거든. 친구 숀다가 한번 구경시켜 줘서 봤어.
+079. EARL: Hospitals, sure. Erin's hospital has a cooling plant the size of our whole building. I saw it when her friend Shonda gave me a tour once.
+    얼: 병원 맞아. 에린네 병원엔 우리 건물 전체만 한 냉각 설비가 있어. 친구 숀다가 한번 구경시켜 줘서 봤지.
 
 080. GLORIA: Earl, why on earth were you touring a hospital cooling plant?
     글로리아: 얼, 도대체 병원 냉각 설비는 왜 구경했어?
@@ -258,7 +258,7 @@
 081. EARL: Loretta had her knee done, and I got bored.
     얼: 로레타 무릎 수술할 때 심심해서.
 
-082. RENEE: Mr. Kowalski, I'll be honest, because in this building we think about one thing, which is building more lines, more transformers and more substations, since that's how utilities get paid.
+082. RENEE: Mr. Kowalski, I'll be honest. In this building we think about one thing, which is building more lines, more transformers and more substations, since that's how utilities get paid.
     르네: 코왈스키 씨, 솔직하게 말할게요. 이 건물에선 송전선, 변압기, 변전소를 더 짓는 것 한 가지만 생각해요. 전력회사는 그렇게 돈을 벌거든요.
 
 083. RENEE: You just walked in and asked how to build less, and my boss won't love that, but I love it.
@@ -291,8 +291,8 @@
 092. RENEE: We have a standard signal for large customers, although most of them ignore it. Here's the spec, which is forty pages.
     르네: 대형 고객용 표준 신호가 있는데, 대부분 무시하죠. 여기 사양서요. 40쪽이에요.
 
-093. WEN: Forty pages is short, because I've written longer emails to my father.
-    웬: 40쪽이면 짧네요. 아버지한테 그보다 긴 이메일도 썼거든요.
+093. WEN: Forty pages is short. I've written longer emails to my father.
+    웬: 40쪽이면 짧네요. 아버지한테 그보다 긴 이메일도 썼어요.
 
 094. EARL: Don't tell Tess, or she'll write thirty-eight more.
     얼: 테스한텐 말하지 마. 38쪽 더 쓸 거야.
@@ -300,7 +300,7 @@
 095. RENEE: Who's Tess?
     르네: 테스가 누구예요?
 
-096. RAJ: Okay, I'm looking at your picture of the map, and there are forty-one red dots ahead of me, which is depressing, so tell me something that isn't.
+096. RAJ: Okay, I'm looking at your picture of the map, and there are forty-one red dots ahead of me. That's depressing, so tell me something that isn't.
     라지: 좋아요, 보내 준 지도 사진 보고 있는데, 내 앞에 빨간 점이 마흔하나네요. 우울하니까 안 우울한 얘기 해 줘요.
 
 097. SAM: Two things. First, your board asked why you'd buy pumps for buildings without power, and the answer is don't, not yet. Put our pumps and fans in the eleven campuses you already have.
@@ -342,7 +342,7 @@
 109. RAJ: Lauren hated Ben, which is different. Okay, now let me tell you about Friday.
     라지: 로런은 벤을 싫어한 거예요, 그건 달라요. 좋아요, 이제 금요일 얘기를 할게요.
 
-110. GLORIA: Here it comes, so Sam, hold my hand.
+110. GLORIA: Here it comes. Sam, hold my hand.
     글로리아: 온다. 샘, 내 손 잡아.
 
 111. RAJ: Gordon took your counteroffer to the board on Friday, with no exclusivity and no escrow, but first in line, forty percent of the new lines, a twelve-month early look and most-favored pricing. The board asked one question.
@@ -351,7 +351,7 @@
 112. SAM: What was the question?
     샘: 무슨 질문이었는데요?
 
-113. RAJ: "Who's the backup manufacturer?" That's the springing license, because if Ferrox disappears, who builds our pumps? They want the name of a real company today.
+113. RAJ: "Who's the backup manufacturer?" That's the springing license. If Ferrox disappears, who builds our pumps? They want the name of a real company today.
     라지: "예비 제조사가 누구냐?" 그 대기 라이선스 말이에요. 페록스가 사라지면 누가 우리 펌프를 만드냐는 거죠. 오늘 진짜 회사 이름을 원해요.
 
 114. WEN: I have a name, and he's on the other screen.
@@ -396,17 +396,17 @@
 127. SAM: Bring the pen, and we'll sign in front of Betsy.
     샘: 펜 가져와요. 베치 앞에서 서명해요.
 
-128. EARL: Second shift's on the floor, boss, and they want to watch, so is that okay?
+128. EARL: Second shift's on the floor, boss, and they want to watch. Is that okay?
     얼: 2교대가 현장에 있는데, 사장, 다들 보고 싶대. 괜찮아?
 
-129. SAM: Of course, because it's their contract too, since they built the forty pumps.
+129. SAM: Of course. It's their contract too, since they built the forty pumps.
     샘: 당연하죠. 펌프 마흔 대를 그 사람들이 만들었으니 그 사람들 계약이기도 해요.
 
 130. RAJ: So this is Betsy. I've heard about her for two months, and she's smaller than I expected.
     라지: 이게 베치군요. 두 달 동안 얘기만 들었는데, 생각보다 작네요.
 
-131. EARL: Don't say that in front of her, because she has a temper.
-    얼: 그 앞에서 그런 말 하지 마. 성질 있으니까.
+131. EARL: Don't say that in front of her. She has a temper.
+    얼: 그 앞에서 그런 말 하지 마. 성질 있어.
 
 132. RAJ: My apologies, Betsy. Sam, I'll sign first and then you, and then I'd like to say something to your people, if that's okay.
     라지: 실례했어요, 베치. 샘, 제가 먼저 서명하고 그다음 당신이 하고, 그다음에 괜찮다면 직원분들께 한마디 하고 싶어요.
@@ -414,8 +414,8 @@
 133. SAM: Go right ahead.
     샘: 그럼요, 하세요.
 
-134. RAJ: Done, so it's your turn.
-    라지: 끝났어요. 당신 차례예요.
+134. RAJ: Done. Your turn.
+    라지: 끝. 당신 차례예요.
 
 135. SAM: Done. Okay, everybody, that's Helix for five years, non-exclusive, so we keep every customer we have, and we just got a big new one.
     샘: 끝. 자, 여러분, 헬릭스와 5년 비독점 계약이에요. 지금 있는 고객 다 지키면서 큰 고객 하나가 새로 생겼어요.
@@ -456,7 +456,7 @@
 147. SAM: What is it?
     샘: 뭔데요?
 
-148. EARL: Somebody dropped it, and I'm not going to say whose. It's a card, so read the top.
+148. EARL: Somebody dropped it, and I'm not going to say whose. It's a card. Read the top.
     얼: 누가 떨어뜨렸는데, 누군지는 말 안 할게. 카드야. 맨 위 읽어 봐.
 
 149. SAM: "UAW. Authorization for Representation. I want the United Auto Workers to represent me in collective bargaining." It's signed.

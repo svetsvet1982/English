@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. TYLER: Okay, the video link is ready for ten o'clock sharp, so your friend in Korea should be joining any second, Dr. Liu.
+001. TYLER: Okay, the video link is ready for ten o'clock sharp. Your friend in Korea should be joining any second, Dr. Liu.
     타일러: 자, 열 시 정각 화상 연결 준비됐어요. 박사님 한국 친구분이 곧 들어오실 거예요.
 
 002. WEN: Tyler, what time did you write on the invitation?
@@ -27,7 +27,7 @@
 004. WEN: I said ten a.m. Wednesday in Ulsan, not in Dayton.
     웬: 울산 기준 수요일 오전 열 시라고 했어요. 데이턴 말고요.
 
-005. TYLER: Oh no, okay, so what time is it in Korea right now?
+005. TYLER: Oh no, okay. What time is it in Korea right now?
     타일러: 아이고, 좋아요. 그럼 지금 한국은 몇 시예요?
 
 006. WEN: Korea is fourteen hours ahead of us, so right now in Ulsan it's midnight, tomorrow, Thursday.
@@ -45,22 +45,22 @@
 010. SAM: Okay, cancel it and send an apology right now, and say it was completely our mistake.
     샘: 좋아, 취소하고 지금 당장 사과 메일 보내. 전적으로 우리 실수라고 해.
 
-011. TYLER: Wait, somebody's joining, because the light just went green.
+011. TYLER: Wait, somebody's joining. The light just went green.
     타일러: 잠깐만요, 누가 들어와요. 방금 초록불 켜졌어요.
 
 012. MINJUN: Hello, good morning, or is it good evening? Wen-sunbae, is that you? I'm sorry, my camera is very dark.
     민준: 여보세요, 좋은 아침입니다. 아니, 좋은 저녁인가요? 웬 선배, 맞으세요? 죄송합니다, 카메라가 많이 어둡네요.
 
-013. WEN: Minjun, it's midnight there, so why did you join?
+013. WEN: Minjun, it's midnight there. Why did you join?
     웬: 민준 씨, 거긴 자정이잖아요. 왜 들어왔어요?
 
-014. MINJUN: Because the invitation said ten o'clock, and I thought maybe it was American time, and maybe it was important, so I stayed at the office.
+014. MINJUN: Because the invitation said ten o'clock. I thought maybe it was American time, and maybe it was important, so I stayed at the office.
     민준: 초대장에 열 시라고 써 있어서요. 미국 시간일 수도 있고, 중요한 일일 수도 있겠다 싶어서 사무실에 남아 있었습니다.
 
-015. SAM: Mr. Han, I'm Sam Kowalski, and I'm so sorry, because that was completely our mistake. Please go home and sleep.
+015. SAM: Mr. Han, I'm Sam Kowalski, and I'm so sorry. That was completely our mistake, so please go home and sleep.
     샘: 한 선생님, 샘 코왈스키입니다. 정말 죄송합니다, 전적으로 저희 실수였어요. 제발 들어가서 주무세요.
 
-016. MINJUN: It's okay, really, because in Korea midnight at the office is not so unusual. We have a saying, "빨리빨리," which means "quickly, quickly."
+016. MINJUN: It's okay, really. In Korea, midnight at the office is not so unusual. We have a saying, "빨리빨리," which means "quickly, quickly."
     민준: 괜찮습니다, 정말로요. 한국에선 자정에 사무실에 있는 게 그렇게 드문 일이 아닙니다. '빨리빨리'라는 말이 있는데, '어서, 어서'라는 뜻이죠.
 
 017. TYLER: I like this guy already.
@@ -78,7 +78,7 @@
 021. SAM: Seven p.m. it is, and we'll be here. Thank you, Mr. Han, and I'm sorry again.
     샘: 저녁 일곱 시로 하죠, 여기 있을게요. 고맙습니다, 한 선생님. 그리고 다시 한번 죄송합니다.
 
-022. MINJUN: No problem, I'll see you in nineteen hours, I mean, seven hours, because the time difference is very confusing. Good night!
+022. MINJUN: No problem, I'll see you in nineteen hours. I mean, seven hours, because the time difference is very confusing. Good night!
     민준: 괜찮습니다. 열아홉 시간 뒤에, 아니, 일곱 시간 뒤에 뵙겠습니다. 시차가 너무 헷갈리네요. 안녕히 계세요!
 
 023. SAM: Tyler.
@@ -90,7 +90,7 @@
 025. SAM: Wen, before tonight, tell me what I need to know. I don't want to make a second mistake on the same day.
     샘: 웬, 오늘 밤 전에 내가 알아야 할 걸 말해 줘요. 같은 날 두 번 실수하고 싶지 않아요.
 
-026. WEN: Okay, first, his name, because Han is his family name and Minjun is his given name, and in Korea the family name comes first.
+026. WEN: Okay, first, his name. Han is his family name and Minjun is his given name, and in Korea the family name comes first.
     웬: 좋아요, 첫째는 이름이에요. 한이 성이고 민준이 이름인데, 한국에선 성이 먼저 와요.
 
 027. SAM: So he's Mr. Han, not Mr. Minjun.
@@ -102,7 +102,7 @@
 029. TYLER: Then why did he call you "sunbae," is that a title too?
     타일러: 그럼 아까 박사님을 왜 '선배'라고 불렀어요? 그것도 직함이에요?
 
-030. WEN: Sort of, because it means a senior, someone who started before you at school or at work, and I was in the lab at Ohio State two years before he came.
+030. WEN: Sort of. It means a senior, someone who started before you at school or at work, and I was in the lab at Ohio State two years before he came.
     웬: 비슷해요. 학교나 직장에서 먼저 시작한 사람, 선배라는 뜻이에요. 제가 오하이오주립대 연구실에 그 사람보다 2년 먼저 들어갔거든요.
 
 031. SAM: So you're his senior, and that lasts forever?
@@ -114,13 +114,13 @@
 033. SAM: What else should I know, and what about the CEO, President Park?
     샘: 또 알아야 할 게 뭐예요? 대표님, 박 대표님은요?
 
-034. WEN: He's older, maybe sixty, and his English is slower than Minjun's. Speak simply, don't rush him, and don't make jokes at the start, because it's respect first and jokes later.
+034. WEN: He's older, maybe sixty, and his English is slower than Minjun's. Speak simply, don't rush him, and don't make jokes at the start. It's respect first and jokes later.
     웬: 나이가 많으세요, 예순쯤. 영어는 민준 씨보다 느리고요. 쉽게 말하고, 재촉하지 말고, 시작부터 농담하지 마세요. 존중이 먼저고, 농담은 나중이에요.
 
-035. TYLER: Sam, that means no jokes at all, because you're not good at the "later" part.
+035. TYLER: Sam, that means no jokes at all. You're not good at the "later" part.
     타일러: 샘, 그 말은 농담 아예 하지 말라는 거예요. 샘은 '나중' 부분을 잘 못하잖아요.
 
-036. SAM: Thank you, Tyler. And what do they want from us, Wen, because why would a big Korean company care about thirty-six people in Ohio?
+036. SAM: Thank you, Tyler. And what do they want from us, Wen? Why would a big Korean company care about thirty-six people in Ohio?
     샘: 고마워, 타일러. 그리고 그쪽은 우리한테 뭘 원해요, 웬? 큰 한국 회사가 왜 오하이오의 서른여섯 명한테 관심을 가져요?
 
 037. WEN: It's because of the tariffs. Korean companies sell a lot to America, and now the rules change every month, so they want a partner inside America, someone they can trust for a long time.
@@ -135,13 +135,13 @@
 040. SAM: Partner, not price, got it.
     샘: 가격 말고 파트너. 알겠어요.
 
-041. MINJUN: Good evening, everyone, and good morning from Ulsan, so can you hear me well?
+041. MINJUN: Good evening, everyone, and good morning from Ulsan. Can you hear me well?
     민준: 안녕하세요, 여러분. 울산에서 아침 인사 드립니다. 잘 들리세요?
 
 042. SAM: Perfectly, Mr. Han, and thank you for doing this twice in one day. Did you get any sleep?
     샘: 아주 잘 들려요, 한 팀장님. 하루에 두 번이나 해 주셔서 고맙습니다. 좀 주무셨어요?
 
-043. MINJUN: I got five hours, which is a lot for me. And please call me Minjun, because in Ulsan I'm 팀장님, but in America I'm Minjun.
+043. MINJUN: I got five hours, which is a lot for me. And please call me Minjun. In Ulsan I'm 팀장님, but in America I'm Minjun.
     민준: 다섯 시간 잤어요, 저한텐 많은 겁니다. 그리고 그냥 민준이라고 불러 주세요. 울산에선 팀장님이지만, 미국에선 민준입니다.
 
 044. SAM: Then I'm Sam, and thank you, Minjun.
@@ -165,7 +165,7 @@
 050. WEN: I remember, and you broke three samples learning it.
     웬: 기억해요. 그거 배우다가 샘플 세 개 깨 먹었죠.
 
-051. MINJUN: It was four, because I hid one, and now you know.
+051. MINJUN: It was four. I hid one, and now you know.
     민준: 네 개요. 하나는 숨겼거든요. 이제 아셨네요.
 
 052. SAM: Minjun, let me tell you what we need. A big appliance company wants up to two hundred thousand washing machine motors a year, and our stamping shop in Dayton can't do that many.
@@ -177,7 +177,7 @@
 054. SAM: Eight percent, when to us it's everything.
     샘: 8퍼센트라. 우리한텐 전부인데.
 
-055. MINJUN: I understand, but I must also tell you the difficult part honestly, so did you hear about the steel tariff on March twelfth?
+055. MINJUN: I understand, but I must also tell you the difficult part honestly. Did you hear about the steel tariff on March twelfth?
     민준: 이해합니다. 근데 어려운 부분도 솔직하게 말씀드려야겠습니다. 3월 12일 철강 관세 들으셨죠?
 
 056. SAM: Twenty-five percent with no exceptions, and everybody's talking about it.
@@ -189,10 +189,10 @@
 058. WEN: So from March, every stack you send us gets twenty-five percent added at the port.
     웬: 그러니까 3월부터는 보내 주시는 스택마다 항구에서 25퍼센트가 붙는 거네요.
 
-059. MINJUN: Probably, and I don't want to promise you a price and then you get a surprise at the port, because that is not how I want to start.
+059. MINJUN: Probably. I don't want to promise you a price and then you get a surprise at the port, because that is not how I want to start.
     민준: 아마도요. 가격을 약속드렸는데 항구에서 깜짝 놀라시게 하고 싶지 않아요. 그런 식으로 시작하고 싶진 않습니다.
 
-060. SAM: I really appreciate that, so what would the price be before the tariff?
+060. SAM: I really appreciate that. What would the price be before the tariff?
     샘: 그거 정말 고마워요. 그럼 관세 전 가격은 얼마쯤일까요?
 
 061. MINJUN: For the size Sunbae sent me, it's about nine dollars and forty cents per set, shipped from Ulsan, and with the tariff, maybe eleven seventy-five delivered to Ohio.
@@ -204,31 +204,31 @@
 063. WEN: And on top of that, they can't make two hundred thousand.
     웬: 게다가 거긴 20만 개를 못 만들어요.
 
-064. MINJUN: There's one more difficult thing, which is lead time. From our factory to your factory, by ship and by train, is about five or six weeks, so if something goes wrong, you cannot wait for us, and you need a safety stock.
+064. MINJUN: There's one more difficult thing, which is lead time. From our factory to your factory, by ship and by train, is about five or six weeks. If something goes wrong, you cannot wait for us, so you need a safety stock.
     민준: 어려운 게 하나 더 있는데, 리드 타임입니다. 저희 공장에서 그쪽 공장까지 배랑 기차로 5~6주쯤 걸려요. 그러니 문제가 생기면 저희를 기다릴 수 없어서 안전 재고가 필요합니다.
 
 065. TYLER: Lead time means from ordering to receiving, right?
     타일러: 리드 타임은 주문부터 입고까지란 뜻이죠?
 
-066. MINJUN: Yes, exactly, and five weeks in the ocean is a long time, because a lot can happen, with storms, ports, and politics.
+066. MINJUN: Yes, exactly. Five weeks in the ocean is a long time, and a lot can happen, with storms, ports, and politics.
     민준: 네, 맞습니다. 바다에서 5주는 긴 시간이에요. 폭풍, 항구, 정치, 많은 일이 생길 수 있죠.
 
 067. SAM: Especially politics, these days.
     샘: 요즘은 특히 정치죠.
 
-068. MINJUN: Especially politics, so I want to suggest something, not for today, but for you to think about. Someday, maybe Daesung builds a stamping line in America, near you.
+068. MINJUN: Especially politics. So I want to suggest something, not for today, but for you to think about. Someday, maybe Daesung builds a stamping line in America, near you.
     민준: 특히 정치죠. 그래서 하나 제안드리고 싶습니다. 오늘 말고, 생각해 보셨으면 해서요. 언젠가 대성이 미국에, 그쪽 근처에 타발 라인을 지을 수도 있다는 거요.
 
 069. SAM: You'd build in America, really?
     샘: 미국에 짓는다고요, 정말요?
 
-070. MINJUN: My president is thinking about it, and many Korean companies are thinking about it now. But we only build where we have a long-term partner, because we don't build for one order.
+070. MINJUN: My president is thinking about it, and many Korean companies are thinking about it now. But we only build where we have a long-term partner. We don't build for one order.
     민준: 저희 대표님이 생각하고 계시고, 요즘 한국 회사들이 많이 생각하고 있습니다. 근데 저희는 장기 파트너가 있는 곳에만 지어요. 주문 하나 보고 짓진 않습니다.
 
 071. SAM: That's what we want too, not one order but a partner, someone we can grow with for ten or twenty years.
     샘: 우리도 그걸 원해요. 주문 하나가 아니라 10년, 20년 같이 클 수 있는 파트너요.
 
-072. WEN: He means it, because he's very bad at pretending.
+072. WEN: He means it. He's very bad at pretending.
     웬: 진심이에요. 이 사람 연기를 아주 못하거든요.
 
 073. MINJUN: Sunbae told me that already in her email, where she wrote, "He's honest. Sometimes too honest. But he never lies to the people who work with him."
@@ -264,16 +264,16 @@
 083. PARK: Ha, good, strict is good. Mr. Kowalski, I am sixty-three years old, and I started Daesung with eleven people in 1991, a small company like you, and now we have four hundred people.
     박 대표: 하, 좋습니다. 엄한 게 좋은 거죠. 코왈스키 씨, 저는 예순셋입니다. 1991년에 그쪽처럼 작은 회사로, 열한 명으로 대성을 시작했어요. 지금은 사백 명입니다.
 
-084. SAM: Eleven people to four hundred is amazing, so how did you do it?
+084. SAM: Eleven people to four hundred is amazing. How did you do it?
     샘: 열한 명에서 사백 명이라니 대단하시네요. 어떻게 하셨어요?
 
 085. PARK: One customer at a time, and I never left a partner when times were bad. In Korea, we remember who stayed with us in 1997, in the crisis, and we remember.
     박 대표: 고객 한 명씩이요. 그리고 힘들 때 파트너를 떠난 적이 없습니다. 한국에선 1997년 외환위기 때 누가 곁에 있었는지 기억해요. 우린 기억합니다.
 
-086. SAM: My father would understand that, because he worked at a car plant here for thirty-two years, and when it closed, he remembered who stayed too.
+086. SAM: My father would understand that. He worked at a car plant here for thirty-two years, and when it closed, he remembered who stayed too.
     샘: 저희 아버지가 이해하실 거예요. 여기 자동차 공장에서 32년 일하셨는데, 그 공장이 문 닫았을 때 아버지도 누가 남았는지 기억하셨죠.
 
-087. PARK: Your father, good, I would like to meet him, maybe. In March I am visiting America, Mexico first, then maybe Ohio, so is it possible?
+087. PARK: Your father, good, I would like to meet him, maybe. In March I am visiting America, Mexico first, then maybe Ohio. Is it possible?
     박 대표: 아버님, 좋네요. 언젠가 뵙고 싶습니다. 3월에 미국에 가는데, 먼저 멕시코, 그다음엔 어쩌면 오하이오. 가능할까요?
 
 088. SAM: It's more than possible, and we'd be honored to have you in Dayton.
@@ -294,22 +294,22 @@
 093. MINJUN: My president is a man of few words, so when he says he wants to visit, it means he is serious, very serious.
     민준: 저희 대표님은 말이 적은 분이세요. 그래서 방문하고 싶다고 하시면 진지하다는 뜻이에요, 아주 진지하신 겁니다.
 
-094. SAM: We'll be ready, so what happens next?
+094. SAM: We'll be ready. What happens next?
     샘: 준비해 둘게요. 다음은 뭐예요?
 
-095. MINJUN: I have news, because after Sunbae's first email two weeks ago, I sent you a box of standard samples. It's not your shape yet, but our normal stacks, so you can see our quality, and it should arrive tomorrow.
+095. MINJUN: I have news. After Sunbae's first email two weeks ago, I sent you a box of standard samples. It's not your shape yet, but our normal stacks, so you can see our quality, and it should arrive tomorrow.
     민준: 소식이 있습니다. 2주 전에 선배 첫 이메일을 받고 나서 표준 샘플 한 상자를 보냈어요. 아직 그쪽 모양은 아니고 품질을 보실 수 있게 저희 일반 스택을 넣었는데, 내일 도착할 거예요.
 
 096. WEN: You sent samples two weeks ago, before we even talked?
     웬: 2주 전에 샘플을 보냈다고요? 우리가 얘기하기도 전에요?
 
-097. MINJUN: 빨리빨리, Sunbae, but carefully, because I packed it myself.
+097. MINJUN: 빨리빨리, Sunbae, but carefully. I packed it myself.
     민준: 빨리빨리죠, 선배. 근데 조심스럽게요, 제가 직접 포장했거든요.
 
 098. SAM: And what about the custom shape for the washing machine?
     샘: 그럼 세탁기용 맞춤 모양은요?
 
-099. MINJUN: Send me your final drawings this week, and we will make the tools, so custom samples take about three weeks, and we'll send them by air, so there's no waiting for ships.
+099. MINJUN: Send me your final drawings this week, and we will make the tools. Custom samples take about three weeks, and we'll send them by air, so there's no waiting for ships.
     민준: 이번 주에 최종 도면 보내 주시면 금형을 만들게요. 맞춤 샘플은 3주쯤 걸리고, 항공으로 보낼 테니 배 기다릴 필요 없어요.
 
 100. SAM: Minjun, thank you, really. Go have breakfast, and tell your wife I'm sorry about midnight.
@@ -321,13 +321,13 @@
 102. SAM: They liked Wen, and I was just standing next to Wen.
     샘: 웬을 좋아한 거지. 난 그냥 웬 옆에 서 있었고.
 
-103. WEN: That's accurate. Thank you for dinner, Erin, because this soup is very good.
+103. WEN: That's accurate. Thank you for dinner, Erin, this soup is very good.
     웬: 정확해요. 저녁 고마워요, 에린. 이 수프 정말 맛있어요.
 
-104. ERIN: It's from a can, Wen, because I worked a twelve-hour shift, but I'll take the compliment.
+104. ERIN: It's from a can, Wen. I worked a twelve-hour shift, but I'll take the compliment.
     에린: 통조림이에요, 웬. 열두 시간 근무하고 왔거든요. 근데 칭찬은 받을게요.
 
-105. LILY: Dad, if Korean people are coming to Dayton, you need my help, because I've watched, like, two hundred hours of Korean dramas and I know everything.
+105. LILY: Dad, if Korean people are coming to Dayton, you need my help. I've watched, like, two hundred hours of Korean dramas, and I know everything.
     릴리: 아빠, 한국 사람들이 데이턴에 오면 내 도움이 필요할 거야. 나 한국 드라마 이백 시간은 봤거든. 다 알아.
 
 106. SAM: Two hundred hours? And when exactly did you do your homework?
@@ -354,16 +354,16 @@
 113. ERIN: Why would you turn your head?
     에린: 고개를 왜 돌려?
 
-114. WEN: It's a sign of respect, because you don't drink face to face with someone older. Lily, how do you know this, when I didn't know it until I was twenty-six?
+114. WEN: It's a sign of respect, because you don't drink face to face with someone older. Lily, how do you know this? I didn't know it until I was twenty-six.
     웬: 존중의 표시예요. 나이 많은 사람이랑 얼굴 마주 보고 마시지 않거든요. 릴리, 이걸 어떻게 알아요? 전 스물여섯 살이 돼서야 알았는데.
 
 115. LILY: It's from episode four of my favorite drama, where the main guy has to have dinner with his girlfriend's father, who owns a shipping company, and it goes very badly.
     릴리: 제일 좋아하는 드라마 4화요. 남자 주인공이 해운 회사 회장인 여자 친구 아버지랑 저녁을 먹어야 하는데, 완전 망해요.
 
-116. SAM: Great, so I have red ink, two hands, and turn my head, and is there anything else?
+116. SAM: Great, so I have red ink, two hands, and turn my head. Is there anything else?
     샘: 좋아. 그럼 빨간 펜, 두 손, 고개 돌리기. 또 있어?
 
-117. WEN: One more, and it's important, because in Korea saying "no" directly is rude. If President Park says, "That will be difficult," it often means no, so listen carefully to "difficult."
+117. WEN: One more, and it's important. In Korea, saying "no" directly is rude. If President Park says, "That will be difficult," it often means no, so listen carefully to "difficult."
     웬: 하나 더요, 중요한 거예요. 한국에선 대놓고 '아니요'라고 하는 게 무례해요. 박 대표님이 "그건 좀 어렵겠습니다"라고 하시면 대개 거절이라는 뜻이니까, '어렵다'를 잘 들으세요.
 
 118. ERIN: Huh, that's like hospital administrators, where "We'll look into it" means "never."
@@ -378,7 +378,7 @@
 121. SAM: We sent our changes last Thursday, and Gary hasn't answered, but Gloria says silence is a negotiating tactic.
     샘: 지난 목요일에 수정안 보냈는데 개리는 아직 답이 없어. 글로리아는 침묵도 협상 전술이래.
 
-122. ERIN: Or maybe he's just busy, because not everything's a tactic.
+122. ERIN: Or maybe he's just busy. Not everything's a tactic.
     에린: 아니면 그냥 바쁘거나. 모든 게 전술은 아니야.
 
 123. SAM: In the last three months, almost everything has been a tactic.
@@ -393,16 +393,16 @@
 126. EARL: Kid, Wen, get down to the dock! There's a box from Korea, and it's the most beautiful box I've ever seen.
     얼: 얘, 웬, 하역장으로 내려와! 한국에서 상자가 왔는데, 내가 본 상자 중에 제일 예뻐.
 
-127. SAM: A beautiful box? Earl, it's eight in the morning, so how beautiful can a box be?
+127. SAM: A beautiful box? Earl, it's eight in the morning. How beautiful can a box be?
     샘: 예쁜 상자요? 얼, 아침 여덟 시예요. 상자가 예뻐 봤자죠.
 
 128. EARL: Look at it, with perfect corners and foam cut to fit every piece, and somebody wrote "Handle with care" in English, Korean, and, I think, Spanish.
     얼: 봐 봐. 모서리 완벽하고, 조각마다 딱 맞게 깎은 스펀지에, 누가 "취급 주의"를 영어, 한국어, 그리고 아마 스페인어로 써 놨어.
 
-129. WEN: That's Minjun, because he always over-prepares.
+129. WEN: That's Minjun. He always over-prepares.
     웬: 민준 씨예요. 늘 과하게 준비하거든요.
 
-130. SAM: What's this on top, because it's not steel, it's a little gift box?
+130. SAM: What's this on top? It's not steel, it's a little gift box.
     샘: 맨 위에 이건 뭐예요? 강판이 아니라 작은 선물 상자네요.
 
 131. WEN: It's red ginseng, a Korean health tonic that you give to people you respect, usually older people, and there's a card.
@@ -438,13 +438,13 @@
 141. WEN: Our shop in Dayton leaves burrs on maybe one sheet in fifty, so I check every batch.
     웬: 데이턴 업체는 대충 50장에 한 장꼴로 거스러미가 있어서 전 매번 다 검사해요.
 
-142. EARL: This stack is flat like a pool table, and I'll measure it, but I don't need to, because I can feel it.
+142. EARL: This stack is flat like a pool table. I'll measure it, but I don't need to, because I can feel it.
     얼: 이 스택은 당구대처럼 평평해. 재 보긴 하겠지만 그럴 필요도 없어. 느낌이 와.
 
 143. SAM: So how do we test it properly?
     샘: 그럼 제대로 시험하려면 어떻게 해요?
 
-144. WEN: These are standard shapes, so I can't put them in our washer motor yet, but I can measure the loss, which is how much energy the steel wastes as heat, and I'll know by tonight.
+144. WEN: These are standard shapes, so I can't put them in our washer motor yet. But I can measure the loss, which is how much energy the steel wastes as heat, and I'll know by tonight.
     웬: 이건 표준 모양이라 아직 우리 세탁기 모터엔 못 넣어요. 그래도 강판이 에너지를 얼마나 열로 낭비하는지, 손실은 잴 수 있어요. 오늘 밤이면 알아요.
 
 145. SAM: And the custom ones arrive in three weeks.
@@ -459,7 +459,7 @@
 148. SAM: It's from Minjun. "Sam, Wen-sunbae. This is only the beginning. Please test hard. We are not afraid of hard tests. 빨리빨리 — but carefully. Minjun."
     샘: 민준 씨네요. "샘, 웬 선배. 이건 시작일 뿐입니다. 세게 시험해 주세요. 저희는 어려운 시험이 두렵지 않습니다. 빨리빨리 — 하지만 조심스럽게. 민준."
 
-149. EARL: "Quickly, but carefully," I like this guy, because that's how we used to build trucks.
+149. EARL: "Quickly, but carefully." I like this guy, because that's how we used to build trucks.
     얼: "빨리, 하지만 조심스럽게"라. 이 친구 마음에 든다. 우리가 옛날에 트럭 그렇게 만들었어.
 
 150. SAM: Then let's test hard, so, Wen, put it on the bench. Let's see if it spins.

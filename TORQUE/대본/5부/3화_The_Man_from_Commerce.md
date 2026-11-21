@@ -24,7 +24,7 @@
 003. GLORIA: "Exploratory" is what my ex-husband called his first date with his second wife.
     글로리아: "탐색적"이라. 내 전남편이 두 번째 마누라랑 첫 데이트를 그렇게 불렀지.
 
-004. TYLER: Before he gets here, quick update, which is that Linda confirmed she got our proposal with one line, "Received. Under review."
+004. TYLER: Before he gets here, a quick update. Linda confirmed she got our proposal, with one line: "Received. Under review."
     타일러: 그 사람 오기 전에 잠깐 업데이트요. 린다가 제안서 받았다고 확인했어요. 딱 한 줄요. "접수. 검토 중."
 
 005. SAM: That's it? We worked until midnight on that thing.
@@ -33,10 +33,10 @@
 006. TYLER: From Linda, that's basically a hug, Sam.
     타일러: 린다한테서 그 정도면 거의 포옹이에요, 샘.
 
-007. SAM: Okay, Kayla's calling, and she's the one who warned me about this guy, so hold on. Kayla, you're on speaker with Gloria, Wen, and Tyler.
+007. SAM: Okay, Kayla's calling. She's the one who warned me about this guy, so hold on. Kayla, you're on speaker with Gloria, Wen, and Tyler.
     샘: 좋아, 케일라 전화다. 이 사람 조심하라고 알려 준 게 케일라야. 잠깐만. 케일라, 스피커예요. 글로리아, 웬, 타일러 같이 있어요.
 
-008. KAYLA: Hi, everybody. I only have five minutes because the Senator's in a hearing, so Sam, what do you know about Preston Wyatt?
+008. KAYLA: Hi, everybody. I only have five minutes because the Senator's in a hearing. Sam, what do you know about Preston Wyatt?
     케일라: 다들 안녕하세요. 의원님이 청문회 중이라 5분밖에 없어요. 샘, 프레스턴 와이엇에 대해 뭘 알아요?
 
 009. SAM: Only that he works at Commerce and he wants to talk.
@@ -48,7 +48,7 @@
 011. GLORIA: So he's a short-term guy making long-term deals.
     글로리아: 그러니까 단기로 있는 사람이 장기 딜을 하는 거네.
 
-012. KAYLA: That's one way to put it, but another way is that he's very good at his job, because he worked on some of the deals you've been reading about this year.
+012. KAYLA: That's one way to put it. Another way is that he's very good at his job. He worked on some of the deals you've been reading about this year.
     케일라: 그렇게 말할 수도 있죠. 다르게 말하면 일을 아주 잘한다는 거예요. 올해 기사로 보신 딜 몇 개를 그 사람이 했거든요.
 
 013. WEN: You mean the government buying part of the rare-earth company, the steel company, and the chip company.
@@ -66,7 +66,7 @@
 017. SAM: What does that mean here, for a motor company in Moraine?
     샘: 그게 여기선 무슨 뜻이에요? 모레인의 모터 회사한테요?
 
-018. KAYLA: It means he's coming now because the truce just made rare-earth news less scary, and he wants to do deals while people still care. I've gotta go, so good luck.
+018. KAYLA: It means he's coming now because the truce just made rare-earth news less scary. He wants to do deals while people still care. I've gotta go, good luck.
     케일라: 휴전 때문에 희토류 뉴스가 덜 무서워졌으니까 지금 오는 거예요. 사람들이 아직 신경 쓸 때 딜을 하고 싶은 거죠. 가 봐야 해요. 행운을 빌어요.
 
 019. TYLER: She talks even faster than me, and I didn't know that was possible.
@@ -81,7 +81,7 @@
 022. GLORIA: You nod like a golden retriever, baby, and people think it means yes.
     글로리아: 너 골든 리트리버처럼 끄덕인단 말이야, 얘. 사람들은 그걸 예스로 알아.
 
-023. WEN: I'll watch his hands, because people who sell things with their hands are hiding something with their mouth.
+023. WEN: I'll watch his hands. People who sell things with their hands are hiding something with their mouth.
     웬: 전 손을 볼게요. 손으로 파는 사람은 입으로 뭘 숨기거든요.
 
 024. TYLER: Is that a Chinese saying?
@@ -105,19 +105,19 @@
 030. SAM: Okay, everybody, nobody nod.
     샘: 좋아, 다들, 아무도 끄덕이지 마.
 
-031. WYATT: Mr. Kowalski, I'm Preston Wyatt, and thank you for having me. What a building, too. Is that an old auto parts warehouse, because you can still see the loading docks?
+031. WYATT: Mr. Kowalski, I'm Preston Wyatt, and thank you for having me. What a building! Was this an old auto parts warehouse? You can still see the loading docks.
     와이엇: 코왈스키 씨, 프레스턴 와이엇입니다. 초대해 주셔서 감사합니다. 건물 멋지네요. 옛날 자동차 부품 창고였나요? 아직 하역장이 보이네요.
 
 032. SAM: It is, and we bought the lease in 2016. Please sit down. This is Gloria Banks, our CFO, Dr. Wen Liu, our CTO, and Tyler Novak.
     샘: 맞아요. 2016년에 임차권을 샀어요. 앉으세요. 이쪽은 CFO 글로리아 뱅크스, CTO 웬 리우 박사, 그리고 타일러 노박입니다.
 
-033. WYATT: Dr. Liu, I've read your patent twice, but I'm not an engineer, so the second time was mostly for the pictures.
+033. WYATT: Dr. Liu, I've read your patent twice. I'm not an engineer, so the second time was mostly for the pictures.
     와이엇: 리우 박사님, 특허를 두 번 읽었습니다. 엔지니어가 아니라서 두 번째는 거의 그림 보려고 읽었지만요.
 
 034. WEN: The pictures are the best part, Mr. Wyatt.
     웬: 그림이 제일 좋은 부분이죠, 와이엇 씨.
 
-035. WYATT: I'll get right to it, because I know your time is valuable and I know you just sent a proposal to the Army, so congratulations.
+035. WYATT: I'll get right to it. I know your time is valuable, and I know you just sent a proposal to the Army, so congratulations.
     와이엇: 바로 본론으로 가죠. 시간이 귀하신 것도 알고, 막 육군에 제안서 내신 것도 압니다. 축하드려요.
 
 036. GLORIA: You know about the Army proposal?
@@ -135,7 +135,7 @@
 040. SAM: Go ahead, we're listening.
     샘: 말씀하세요. 듣고 있어요.
 
-041. WYATT: For forty years, America did industrial policy one way, which was giving grants and tax breaks and hoping. Sometimes the company used the money well, and sometimes it moved the factory to another country anyway.
+041. WYATT: For forty years, America did industrial policy one way. We gave grants and tax breaks, and we hoped. Sometimes the company used the money well, and sometimes it moved the factory to another country anyway.
     와이엇: 40년 동안 미국은 산업 정책을 한 방식으로 했어요. 보조금 주고 세금 깎아 주고 바라는 거죠. 돈을 잘 쓴 회사도 있고, 그래도 공장을 외국으로 옮긴 회사도 있었어요.
 
 042. EARL: You mean like Moraine.
@@ -147,7 +147,7 @@
 044. SAM: The GM plant down the road, where my dad worked thirty-two years until it closed in 2008.
     샘: 이 길 아래 GM 공장이요. 아버지가 32년 일하셨는데, 2008년에 문 닫았어요.
 
-045. WYATT: Then you understand better than most people in Washington. This year we started doing it differently, so when taxpayers put money into a company, taxpayers get something back, which is a piece of the company.
+045. WYATT: Then you understand better than most people in Washington. This year we started doing it differently. When taxpayers put money into a company, taxpayers get something back, a piece of the company.
     와이엇: 그럼 워싱턴 사람들 대부분보다 잘 아시겠네요. 올해부터 방식을 바꿨습니다. 납세자가 회사에 돈을 넣으면 납세자도 뭔가 돌려받아요. 회사의 일부를요.
 
 046. GLORIA: You mean an equity stake.
@@ -159,22 +159,22 @@
 048. WEN: All of those companies use rare earths or make them. We're the company that doesn't need them.
     웬: 그 회사들은 다 희토류를 쓰거나 만들어요. 저희는 희토류가 필요 없는 회사고요.
 
-049. WYATT: Which is exactly why you interest me, Dr. Liu, because if the magnet plan works, great, but if it doesn't, the country needs a plan B, and you're plan B.
+049. WYATT: That's exactly why you interest me, Dr. Liu. If the magnet plan works, great. If it doesn't, the country needs a plan B, and you're plan B.
     와이엇: 바로 그래서 관심이 가는 겁니다, 리우 박사님. 자석 계획이 잘되면 좋죠. 안 되면 나라엔 플랜 B가 필요하고, 그게 귀사예요.
 
 050. TYLER: Plan B, I like that, and it's going on a T-shirt.
     타일러: 플랜 B라, 좋네요. 티셔츠에 새겨야겠어요.
 
-051. WYATT: Here's the offer, which is fifty million dollars, thirty-five million as a low-interest loan and fifteen million as a grant. That's enough to build a second line, maybe a second plant, here in Ohio.
+051. WYATT: Here's the offer. It's fifty million dollars, thirty-five million as a low-interest loan and fifteen million as a grant. That's enough to build a second line, maybe a second plant, here in Ohio.
     와이엇: 제안은 이렇습니다. 5천만 달러요. 3,500만은 저금리 대출, 1,500만은 보조금. 여기 오하이오에 두 번째 라인, 어쩌면 두 번째 공장을 지을 만한 돈이죠.
 
 052. GLORIA: Did you say fifty million?
     글로리아: 5천만이라고 했어?
 
-053. WYATT: Fifty million, and I watched your eyebrows, Ms. Banks, because they went up a quarter of an inch.
+053. WYATT: Fifty million. I watched your eyebrows, Ms. Banks, and they went up a quarter of an inch.
     와이엇: 5천만이요. 뱅크스 씨 눈썹 봤어요. 0.5센티는 올라가던데요.
 
-054. GLORIA: My eyebrows have a mind of their own, so what do you want in return?
+054. GLORIA: My eyebrows have a mind of their own. What do you want in return?
     글로리아: 내 눈썹은 따로 놀아. 그래서 대가로 뭘 원해?
 
 055. WYATT: Two things, and the first is warrants for ten percent of the company.
@@ -189,7 +189,7 @@
 058. GLORIA: So you only get paid if we win.
     글로리아: 그러니까 우리가 이겨야만 돈을 버는 거네요.
 
-059. WYATT: Exactly, because we're betting on you, and that's the friendly part.
+059. WYATT: Exactly, we're betting on you, and that's the friendly part.
     와이엇: 그렇죠. 저희가 귀사에 거는 거예요. 그게 친절한 부분이고요.
 
 060. SAM: And what's the second thing, the unfriendly part?
@@ -210,10 +210,10 @@
 065. WYATT: Only on a few things, not on your products, your prices, or who you hire. We don't want to run your company, Mr. Kowalski, we want to make sure nobody else runs it into the ground.
     와이엇: 몇 가지에만요. 제품, 가격, 채용엔 안 해요. 저희는 회사를 운영하고 싶은 게 아니에요, 코왈스키 씨. 다른 누가 회사를 망쳐 놓지 못하게 하려는 거죠.
 
-066. GLORIA: "Nobody else," you said, so who do you mean?
+066. GLORIA: "Nobody else," you said, so who do you mean by that?
     글로리아: "다른 누가"라고 했지. 누구 말이야?
 
-067. WYATT: I think you know, because a large company in Charlotte tried to buy you twice last winter, first for twenty-two million and then for thirty-five.
+067. WYATT: I think you know. A large company in Charlotte tried to buy you twice last winter, first for twenty-two million and then for thirty-five.
     와이엇: 아실 텐데요. 샬럿의 대기업이 지난겨울에 두 번 인수하려 했잖아요. 2,200만, 그다음 3,500만.
 
 068. SAM: How do you know those numbers, when we never made them public?
@@ -231,7 +231,7 @@
 072. WEN: And after you leave your office?
     웬: 그럼 당신이 그 사무실을 떠난 다음엔요?
 
-073. WYATT: Then whoever comes next, because the share belongs to the government, not to me.
+073. WYATT: Then it's whoever comes next, because the share belongs to the government, not to me.
     와이엇: 그럼 다음 사람이죠. 그 주식은 제 것이 아니라 정부 것이니까요.
 
 074. WEN: So we don't know who will hold it.
@@ -243,7 +243,7 @@
 076. GLORIA: Mr. Wyatt, can I ask about the loan, like what "low interest" means and when the money comes? Because I've been waiting for the SBA since March.
     글로리아: 와이엇 씨, 대출 좀 물어봐도 돼? "저금리"가 얼마고 돈은 언제 와? 중소기업청은 3월부터 기다리고 있거든.
 
-077. WYATT: Around three percent for ten years, and this is not the SBA, so if we agree on terms in the next few weeks, the first money could arrive in the first quarter.
+077. WYATT: Around three percent for ten years. And this is not the SBA. If we agree on terms in the next few weeks, the first money could arrive in the first quarter.
     와이엇: 10년에 3퍼센트 정도요. 그리고 이건 중소기업청이 아닙니다. 몇 주 안에 조건을 합의하면 1분기에 첫 돈이 들어갈 수 있어요.
 
 078. GLORIA: Three percent, when my bank is charging Sam eight and a half on his house.
@@ -258,16 +258,16 @@
 081. WYATT: Some standard ones, like production staying in the United States and reporting every quarter, and we'd want a seat at the table, as an observer, at your board meetings.
     와이엇: 표준적인 몇 가지요. 생산은 미국에 둘 것, 분기마다 보고할 것. 그리고 이사회에 참관인으로 한 자리를 원합니다.
 
-082. GLORIA: We don't really have board meetings, because we have Sam, me, and a pizza.
+082. GLORIA: We don't really have board meetings. We have Sam, me, and a pizza.
     글로리아: 우린 이사회 같은 거 없어. 샘이랑 나랑 피자 한 판이 다야.
 
-083. WYATT: With fifty million dollars, you'll need a real board, because that's just good governance.
+083. WYATT: With fifty million dollars, you'll need a real board. That's just good governance.
     와이엇: 5천만 달러면 진짜 이사회가 필요하실 겁니다. 그게 좋은 지배구조죠.
 
 084. TYLER: Mr. Wyatt, does this affect the Army contract, like do we need this deal to get that one?
     타일러: 와이엇 씨, 이게 육군 계약에 영향이 있나요? 그러니까 그걸 따려면 이 딜이 필요해요?
 
-085. WYATT: No, it's a different department and a different process, but I won't pretend they don't talk to each other, because a company with government backing looks like a safer bet.
+085. WYATT: No, it's a different department and a different process. But I won't pretend they don't talk to each other. A company with government backing looks like a safer bet.
     와이엇: 아니요, 부서도 절차도 달라요. 다만 서로 대화 안 한다고는 안 하겠습니다. 정부가 뒤에 있는 회사가 더 안전해 보이니까요.
 
 086. SAM: With respect, Mr. Wyatt, that sounds a little like pressure.
@@ -291,7 +291,7 @@
 092. EARL: You can look, but don't touch.
     얼: 봐도 돼. 만지지는 말고.
 
-093. WYATT: Understood, sir, look but don't touch, which is actually my job description.
+093. WYATT: Understood, sir, look but don't touch. That's actually my job description.
     와이엇: 알겠습니다. 보되 만지지 말 것. 사실 제 직무 설명이 그거예요.
 
 094. GLORIA: Oh, is it really?
@@ -309,7 +309,7 @@
 098. EARL: The railing is part of Betsy.
     얼: 난간도 베치의 일부야.
 
-099. TYLER: He's gone, and the black car left, so can we talk now? Because I have a lot of feelings.
+099. TYLER: He's gone, the black car just left. Can we talk now, please? I have a lot of feelings.
     타일러: 갔어요. 검은 차 떠났어요. 이제 말해도 돼요? 저 감정이 엄청 많거든요.
 
 100. SAM: Nobody talk for one minute, just one minute.
@@ -324,13 +324,13 @@
 103. GLORIA: I know, I couldn't help it. Sam, three percent for ten years, plus a grant we don't pay back, and I've been counting weeks for a year when a man just walked in and offered me years.
     글로리아: 알아, 참을 수가 없었어. 샘, 10년에 3퍼센트, 거기에 안 갚아도 되는 보조금. 난 1년 내내 주 단위로 셌는데, 어떤 남자가 들어와서 몇 년을 주겠대.
 
-104. TYLER: I'll say it, I think we should take it, because a second line, a second plant, and Army production is the dream, and it's exactly what we talked about at Lou's.
+104. TYLER: I'll say it, I think we should take it. A second line, a second plant, and Army production is the dream, and it's exactly what we talked about at Lou's.
     타일러: 제가 말할게요. 받아야 한다고 봐요. 두 번째 라인, 두 번째 공장, 육군 생산, 이게 꿈이잖아요. 루네 가게에서 얘기한 바로 그거예요.
 
 105. WEN: At Lou's, we talked about building things. Nobody said, "And then someone in Washington decides if we can sell."
     웬: Lou's에서는 뭔가 만드는 얘기를 했죠. "그리고 워싱턴의 누군가가 우리가 팔 수 있는지 결정한다"고 한 사람은 없었어요.
 
-106. TYLER: We don't want to sell, because you said so and Sam said so, so who cares if they can stop us?
+106. TYLER: We don't want to sell, you said so and Sam said so. So who cares if they can stop us?
     타일러: 우린 팔 생각 없잖아요. 박사님도 샘도 그랬고요. 그럼 그쪽이 막을 수 있든 말든 무슨 상관이에요?
 
 107. WEN: Tyler, today we don't want to sell, but in ten years maybe Sam wants to retire, or the employees want to own the company, or a German company wants to license our rotor, and each time, we ask permission.
@@ -351,10 +351,10 @@
 112. EARL: In 2009, the government saved GM with billions, and they owned a big piece of it for a while. A lot of guys kept their jobs because of that, and I'm not gonna pretend they didn't.
     얼: 2009년에 정부가 수십억으로 GM을 살렸어. 한동안 큰 지분을 갖고 있었지. 그 덕에 일자리 지킨 사람이 많아. 아니라고 안 할게.
 
-113. GLORIA: See? Earl's on my side, because Earl understands money.
+113. GLORIA: See? Earl's on my side, and Earl understands money.
     글로리아: 봐, 얼은 내 편이야. 얼은 돈을 알거든.
 
-114. EARL: I'm not done, because Moraine was already closed by then. The money saved the company, but it didn't save our plant, because money from Washington saves what Washington cares about.
+114. EARL: I'm not done. Moraine was already closed by then, so the money saved the company but not our plant. Money from Washington saves what Washington cares about.
     얼: 아직 안 끝났어. 그땐 모레인은 이미 닫혔어. 돈이 회사는 살렸지만 우리 공장은 못 살렸지. 워싱턴 돈은 워싱턴이 신경 쓰는 걸 살려.
 
 115. SAM: So what are you saying, Earl, take it or don't?
@@ -363,10 +363,10 @@
 116. EARL: I'm saying find out what they care about before you take their money. Because it's not gonna be Betsy.
     얼: 돈 받기 전에 그쪽이 뭘 신경 쓰는지 알아내라는 거야. 베치는 아닐 테니까.
 
-117. GLORIA: Sam, you're quiet, and you're never quiet, so it's scaring me.
+117. GLORIA: Sam, you're quiet, and you're never quiet. It's starting to scare me.
     글로리아: 샘, 조용하네. 너 절대 안 조용한 애잖아. 무섭다.
 
-118. SAM: I'm thinking about what Kayla said, that timing is policy, because he gave us two weeks to answer right when we're waiting on the Army.
+118. SAM: I'm thinking about what Kayla said, that timing is policy. He gave us two weeks to answer, right when we're waiting on the Army.
     샘: 케일라 말을 생각하고 있었어요. 타이밍이 정책이라는 거. 하필 육군 기다리는 때에 2주 안에 답하래요.
 
 119. GLORIA: You think he timed it.
@@ -378,13 +378,13 @@
 121. TYLER: So we say no? We just walk away from fifty million dollars?
     타일러: 그럼 거절해요? 5천만 달러를 그냥 버려요?
 
-122. SAM: No, we don't say anything yet, because first we read the term sheet, we ask Ben, and we sleep on it.
+122. SAM: No, we don't say anything yet. First we read the term sheet, we ask Ben, and we sleep on it.
     샘: 아니, 아직 아무 말도 안 해. 먼저 조건 요약서 읽고, 벤한테 묻고, 하룻밤 자면서 생각해.
 
 123. GLORIA: Sleep on it, you? You haven't slept since 2016.
     글로리아: 자면서 생각한다고, 네가? 너 2016년부터 잠 안 잤잖아.
 
-124. SAM: Then I'll lie down on it, which is the same thing. Wen, can you write down every question you'd ask him, every single one?
+124. SAM: Then I'll lie down on it, same thing. Wen, can you write down every question you'd ask him, every single one?
     샘: 그럼 누워서 생각할게요. 같은 거죠. 웬, 그 사람한테 물을 질문 전부 적어 줄래요? 하나도 빠짐없이.
 
 125. WEN: I started during his presentation, and I have nine already.
@@ -396,7 +396,7 @@
 127. STAN: I'm watching Jeopardy, and the guy from Kansas is losing. What's wrong? You only call at seven when something's wrong.
     스탠: 제퍼디 보는 중이다. 캔자스에서 온 놈이 지고 있어. 무슨 일이냐? 너 일곱 시에 전화하는 건 뭔 일 있을 때뿐이잖아.
 
-128. SAM: Nothing's wrong, but something's weird, because a man from the government came today and offered us fifty million dollars.
+128. SAM: Nothing's wrong, but something's weird. A man from the government came today and offered us fifty million dollars.
     샘: 잘못된 건 없는데 이상한 일이 있어요. 오늘 정부에서 어떤 사람이 와서 5천만 달러를 주겠대요.
 
 129. STAN: Fifty million, for what?
@@ -408,7 +408,7 @@
 131. STAN: That doesn't sound weird, son, that sounds like Christmas.
     스탠: 그게 뭐가 이상하냐. 크리스마스 같구먼.
 
-132. SAM: In return, they want a piece of the company and a special share, so if we ever want to sell, or move, or license our technology overseas, they can say no.
+132. SAM: In return, they want a piece of the company and a special share. If we ever want to sell, or move, or license our technology overseas, they can say no.
     샘: 대신 회사 지분이랑 특별한 주식을 원해요. 우리가 팔거나, 옮기거나, 해외에 기술을 라이선스하려고 하면 그쪽이 안 된다고 할 수 있어요.
 
 133. STAN: So they want the keys to your truck.
@@ -435,13 +435,13 @@
 140. SAM: He gave you a pamphlet?
     샘: 팸플릿을 줬다고요?
 
-141. STAN: I still have it in the kitchen drawer with the takeout menus, because I kept it to remind me what Washington thought we were worth, which was a pamphlet.
+141. STAN: I still have it in the kitchen drawer with the takeout menus. I kept it to remind me what Washington thought we were worth, which was a pamphlet.
     스탠: 아직 부엌 서랍에 배달 메뉴판이랑 같이 있다. 워싱턴이 우릴 얼마짜리로 봤는지 잊지 말려고 둔 거야. 팸플릿 한 장.
 
 142. SAM: This time it's fifty million dollars.
     샘: 이번엔 5,000만 달러예요.
 
-143. STAN: Then this time they think you're worth something, and that's good, that's real, but ask yourself why.
+143. STAN: Then this time they think you're worth something, and that's good, that's real. But ask yourself why.
     스탠: 그럼 이번엔 네가 뭔가 가치 있다고 보는 거지. 그건 좋은 거고, 진짜야. 근데 왜인지 스스로 물어봐.
 
 144. SAM: Because the country needs a plan B because of China, or that's what he said.

@@ -18,31 +18,31 @@
 001. FRANK: Sam, it's Frank, are you up? I know it's early, but I need five minutes before my boss gets in.
     프랭크: 샘, 프랭크예요. 일어났어요? 이른 거 아는데, 상사 출근하기 전에 5분만 필요해요.
 
-002. SAM: It's six forty-five, Frank, and I'm already at the factory, because I'm always up.
-    샘: 여섯 시 사십오 분이에요, 프랭크. 벌써 공장이에요. 전 항상 일어나 있거든요.
+002. SAM: It's six forty-five, Frank, and I'm already at the factory. I'm always up.
+    샘: 여섯 시 사십오 분이에요, 프랭크. 벌써 공장이에요. 전 항상 일어나 있어요.
 
-003. FRANK: Good, then I'll be straight with you, because you've been straight with me. The licenses are coming in, not in a flood but in a trickle, but it's real.
-    프랭크: 좋아요, 그럼 솔직하게 말할게요. 그쪽이 나한테 솔직했으니까. 허가가 나오고 있어요. 홍수처럼은 아니고 찔끔찔끔이지만, 진짜예요.
+003. FRANK: Good. Then I'll be straight with you, since you've been straight with me. The licenses are coming in, not in a flood, more like a trickle, but it's real.
+    프랭크: 좋아요. 그쪽이 나한테 솔직했으니까 나도 솔직하게 말할게요. 허가가 나오고 있어요. 홍수처럼은 아니고 찔끔찔끔이지만, 진짜예요.
 
 004. SAM: Wen told me that a few companies got approvals last week.
     샘: 지난주에 몇몇 회사가 승인받았다고 웬이 말해 줬어요.
 
-005. FRANK: After the talks in London, the Chinese started approving some magnet exports, with six-month licenses, one customer at a time. Our magnet supplier got one on Monday, which is enough for maybe ten weeks of seat motors.
+005. FRANK: After the talks in London, the Chinese started approving some magnet exports, six-month licenses, one customer at a time. Our magnet supplier got one on Monday, and that's enough for maybe ten weeks of seat motors.
     프랭크: 런던 회담 뒤로 중국이 자석 수출을 일부 승인하기 시작했어요. 6개월짜리 허가를 고객 한 곳씩요. 우리 자석 공급사가 월요일에 하나 받았는데, 시트 모터 10주치 정도예요.
 
 006. SAM: Ten weeks, and then what happens after ten weeks?
     샘: 10주라, 그럼 10주 뒤엔 어떻게 돼요?
 
-007. FRANK: After ten weeks, who knows, because maybe they renew and maybe they don't. Maybe somebody in Washington says something on TV and the door closes again, and that's the problem.
-    프랭크: 10주 뒤는 아무도 모르죠. 갱신해 줄 수도 있고 안 해 줄 수도 있으니까. 워싱턴의 누가 TV에서 뭔가 말하면 문이 다시 닫힐 수도 있고, 그게 문제예요.
+007. FRANK: After ten weeks, who knows? Maybe they renew and maybe they don't. Maybe somebody in Washington says something on TV and the door closes again, and that's the problem.
+    프랭크: 10주 뒤는 아무도 모르죠. 갱신해 줄 수도 있고 안 해 줄 수도 있고. 워싱턴의 누가 TV에서 뭔가 말하면 문이 다시 닫힐 수도 있고요. 그게 문제예요.
 
 008. SAM: So what does that mean for us and for the bridge order?
     샘: 그럼 우리한테, 그리고 임시 주문엔 어떤 의미예요?
 
-009. FRANK: The bridge order stands, because I gave you my word and Brenner signed the PO. It's forty thousand at thirteen forty, and that's not changing.
-    프랭크: 임시 주문은 그대로예요. 내가 약속했고 브레너가 발주서에 서명했으니까. 4만 개에 13달러 40센트, 그건 안 바뀌어요.
+009. FRANK: The bridge order stands. I gave you my word, and Brenner signed the PO, forty thousand at thirteen forty. That's not changing.
+    프랭크: 임시 주문은 그대로예요. 내가 약속했고 브레너가 발주서에 서명했어요. 4만 개에 13달러 40센트. 그건 안 바뀌어요.
 
-010. SAM: Then what's changing, because you didn't call me at six forty-five to tell me nothing's changing?
+010. SAM: Then what's changing? You didn't call me at six forty-five to tell me nothing's changing.
     샘: 그럼 뭐가 바뀌는데요? 아무것도 안 바뀐다고 말하려고 여섯 시 사십오 분에 전화하진 않았을 거잖아요.
 
 011. FRANK: It's the long-term business, the three-year contract. My boss wants to know if we still need you when the magnets come back, and she's not the only one asking.
@@ -51,29 +51,29 @@
 012. SAM: Who else is asking, Brenner or your finance people?
     샘: 또 누가 묻는데요? 브레너요, 재무팀이요?
 
-013. FRANK: I can't say, but there's a meeting this afternoon at two on the executive floor with my boss, Helen Krause, the head of global purchasing. I got you fifteen minutes, so bring your best fifteen minutes.
+013. FRANK: I can't say. But there's a meeting this afternoon at two on the executive floor with my boss, Helen Krause, the head of global purchasing. I got you fifteen minutes, so bring your best fifteen minutes.
     프랭크: 그건 말 못 해요. 근데 오늘 오후 두 시에 임원 층에서 우리 상사, 글로벌 구매 총괄 헬렌 크라우스랑 회의가 있어요. 15분 따 놨으니까 최고의 15분을 들고 와요.
 
 014. SAM: Today? Frank, it's a four-hour drive, and I have a Haverford truck at noon.
     샘: 오늘이요? 프랭크, 차로 네 시간 거리고 정오에 해버퍼드 트럭도 있는데요.
 
-015. FRANK: Then you'd better leave now. And Sam, bring the CTO, because Helen likes people who say "I don't know" when they don't know.
-    프랭크: 그럼 지금 출발해야겠네. 그리고 샘, CTO 데려와요. 헬렌은 모를 때 모른다고 말하는 사람을 좋아하거든요.
+015. FRANK: Then you'd better leave now. And Sam, bring the CTO. Helen likes people who say "I don't know" when they don't know.
+    프랭크: 그럼 지금 출발해야겠네. 그리고 샘, CTO 데려와요. 헬렌은 모를 때 모른다고 말하는 사람을 좋아해요.
 
-016. GLORIA: Was that Frank, because your face says it was Frank?
+016. GLORIA: Was that Frank? Your face says it was Frank.
     글로리아: 프랭크였어? 얼굴에 프랭크라고 써 있네.
 
 017. SAM: He got us fifteen minutes with his boss today at two in Detroit. The licenses are coming back, and they're wondering if they still need us.
     샘: 오늘 두 시에 디트로이트에서 상사랑 15분 잡아 줬어요. 허가가 다시 나오니까 아직 우리가 필요한지 고민하는 거죠.
 
-018. GLORIA: Of course they are, because this is what Wen said in Dearborn. Fear starts the relationship, but it doesn't keep it.
-    글로리아: 당연히 그렇겠지. 디어본에서 웬이 한 말 그대로야. 두려움은 관계를 시작하게 하지만 유지하게 하진 않는다.
+018. GLORIA: Of course they are. It's what Wen said in Dearborn, that fear starts the relationship, but it doesn't keep it.
+    글로리아: 당연히 그렇겠지. 디어본에서 웬이 한 말 그대로야. 두려움은 관계를 시작하게 하지만 유지하게 하진 않는다고.
 
 019. SAM: Wait, you heard about that?
     샘: 잠깐, 그 얘기도 들었어요?
 
-020. GLORIA: It's Tyler, baby, because Tyler texts me everything. Go, and take Wen, and I'll call Minjun back for you.
-    글로리아: 타일러야, 얘. 타일러가 다 문자 보내거든. 가. 웬 데려가고. 민준한텐 내가 대신 전화할게.
+020. GLORIA: It's Tyler, baby. Tyler texts me everything. Now go, take Wen, and I'll call Minjun back for you.
+    글로리아: 타일러야, 얘. 타일러가 다 문자 보내. 이제 가. 웬 데려가고. 민준한텐 내가 대신 전화할게.
 
 021. SAM: Tell Minjun the answer is yes.
     샘: 민준한테 대답은 좋다고 전해 줘요.
@@ -81,14 +81,14 @@
 022. GLORIA: Yes to what, the Georgia plant?
     글로리아: 뭐가 좋다고? 조지아 공장?
 
-023. SAM: Yes to the partnership at seventy-thirty, because I thought about it all weekend. If the steel is going to stay expensive, we need laminations made in America, and Minjun stayed when it was hard.
+023. SAM: Yes to the partnership at seventy-thirty. I thought about it all weekend. If the steel is going to stay expensive, we need laminations made in America, and Minjun stayed when it was hard.
     샘: 7 대 3 파트너십 좋다고요. 주말 내내 생각했어요. 강판이 계속 비쌀 거면 미국에서 만든 라미네이션이 필요하고, 민준은 힘들 때 남아 있었잖아요.
 
 024. GLORIA: And what about Ohio? Earl's going to ask you that before I do, baby, and Stan will ask after him.
     글로리아: 그럼 오하이오는? 내가 묻기 전에 얼이 물을 거야, 얘. 그다음엔 스탠이 묻고.
 
-025. SAM: The heart stays in Ohio, because laminations aren't the heart, they're the bones, and bones can live in Georgia.
-    샘: 심장은 오하이오에 남아요. 라미네이션은 심장이 아니라 뼈니까요. 뼈는 조지아에 있어도 돼요.
+025. SAM: The heart stays in Ohio. Laminations aren't the heart, they're the bones, and bones can live in Georgia.
+    샘: 심장은 오하이오에 남아요. 라미네이션은 심장이 아니라 뼈예요. 뼈는 조지아에 있어도 돼요.
 
 026. GLORIA: Sounds like you've been talking to Earl.
     글로리아: 얼이랑 얘기했나 보네.
@@ -102,13 +102,13 @@
 029. TYLER: How did the juice box test go, Dr. Liu, and did it survive?
     타일러: 주스 시험은 어떻게 됐어요, 박사님? 살아남았어요?
 
-030. WEN: Apple and grape were no problem, and I also tried orange soda, which was a mistake, not for the motor but for the lab, because it's still sticky.
-    웬: 사과랑 포도는 문제없었어요. 오렌지 탄산음료도 해 봤는데 그건 실수였어요. 모터 말고 실험실한테요. 아직도 끈적거리거든요.
+030. WEN: Apple and grape were no problem. I also tried orange soda, and that was a mistake, not for the motor but for the lab. It's still sticky.
+    웬: 사과랑 포도는 문제없었어요. 오렌지 탄산음료도 해 봤는데 그건 실수였어요. 모터 말고 실험실한테요. 아직도 끈적거려요.
 
-031. TYLER: Can I come, please, because I want to see the executive floor and I've never seen one?
+031. TYLER: Can I come, please? I want to see the executive floor, and I've never seen one.
     타일러: 저도 가도 돼요? 제발요. 임원 층 보고 싶은데 한 번도 못 봤어요.
 
-032. SAM: You can come, but you're not talking, because Helen Krause likes people who say "I don't know."
+032. SAM: You can come, but you're not talking. Helen Krause likes people who say "I don't know."
     샘: 와도 되는데 말은 하지 마. 헬렌 크라우스는 모른다고 말하는 사람을 좋아한대.
 
 033. TYLER: I say "I don't know" all the time, and it's basically my whole personality.
@@ -135,29 +135,29 @@
 040. WEN: I'll say it in a nice voice, probably.
     웬: 아마 부드러운 목소리로 말할 거예요.
 
-041. FRANK: You made it two minutes early, so listen fast. Helen's in there with Rachel and two people from finance, and the meeting before you ran long, but don't ask who it was.
-    프랭크: 2분 일찍 왔네. 자, 빨리 들어요. 헬렌이 레이철이랑 재무팀 두 명이랑 안에 있는데, 앞 회의가 길어졌어요. 누구였는지는 묻지 마요.
+041. FRANK: You made it two minutes early, so listen fast. Helen's in there with Rachel and two people from finance. The meeting before you ran long, and don't ask who it was.
+    프랭크: 2분 일찍 왔네. 자, 빨리 들어요. 헬렌이 레이철이랑 재무팀 두 명이랑 안에 있어요. 앞 회의가 길어졌는데, 누구였는지는 묻지 마요.
 
 042. SAM: So who was it?
     샘: 그래서 누구였는데요?
 
-043. FRANK: I said don't ask, so go in, you've got fifteen minutes.
+043. FRANK: I said don't ask. Go in, you've got fifteen minutes.
     프랭크: 묻지 말라니까. 들어가요, 15분이에요.
 
-044. HELEN: Mr. Kowalski, Dr. Liu, please sit down, I'm Helen Krause. I've read Rachel's report and Frank's memo, and Frank likes you, which worries me, because Frank doesn't like anybody.
+044. HELEN: Mr. Kowalski, Dr. Liu, please sit down. I'm Helen Krause. I've read Rachel's report and Frank's memo, and Frank likes you, which worries me. Frank doesn't like anybody.
     헬렌: 코왈스키 씨, 리우 박사님, 앉으세요. 헬렌 크라우스예요. 레이철 보고서랑 프랭크 메모 읽었는데, 프랭크가 그쪽을 좋아해서 걱정이에요. 프랭크는 아무도 안 좋아하거든요.
 
 045. FRANK: I'm sitting right here, Helen.
     프랭크: 저 바로 여기 앉아 있는데요, 헬렌.
 
-046. HELEN: I know, Frank. Mr. Kowalski, here's my problem, which is that six weeks ago we had no magnets, and today the licenses are trickling in. Why should Atlas sign a three-year contract with a company of seventy people?
-    헬렌: 알아요, 프랭크. 코왈스키 씨, 제 고민은 6주 전엔 자석이 없었는데 지금은 허가가 조금씩 나오고 있다는 거예요. 애틀러스가 왜 직원 70명짜리 회사랑 3년 계약을 해야 하죠?
+046. HELEN: I know, Frank. Mr. Kowalski, here's my problem. Six weeks ago we had no magnets, and today the licenses are trickling in. Why should Atlas sign a three-year contract with a company of seventy people?
+    헬렌: 알아요, 프랭크. 코왈스키 씨, 제 고민은 이거예요. 6주 전엔 자석이 없었는데 지금은 허가가 조금씩 나오고 있어요. 애틀러스가 왜 직원 70명짜리 회사랑 3년 계약을 해야 하죠?
 
 047. SAM: Can I answer with a question, a short one, I promise?
     샘: 질문으로 대답해도 될까요? 짧은 거예요, 약속해요.
 
-048. HELEN: You have fourteen minutes, so use them how you like.
-    헬렌: 14분 남았으니까 원하는 대로 쓰세요.
+048. HELEN: You have fourteen minutes. Use them how you like.
+    헬렌: 14분 남았어요. 원하는 대로 쓰세요.
 
 049. SAM: How long is the license your magnet supplier got on Monday?
     샘: 월요일에 그쪽 자석 공급사가 받은 허가가 몇 개월짜리예요?
@@ -192,19 +192,19 @@
 059. HELEN: And what about the main drive motor, the big one that moves the car?
     헬렌: 그럼 차를 움직이는 큰 거, 메인 구동 모터는요?
 
-060. WEN: I don't know yet, because we've never built one that big. I could guess, but then you'd be paying for my guess.
-    웬: 아직 모르겠어요. 그렇게 큰 건 만들어 본 적이 없거든요. 추측은 할 수 있지만 그럼 제 추측에 돈을 내시게 되는 거예요.
+060. WEN: I don't know yet. We've never built one that big. I could guess, but then you'd be paying for my guess.
+    웬: 아직 모르겠어요. 그렇게 큰 건 만들어 본 적이 없어요. 추측은 할 수 있지만 그럼 제 추측에 돈을 내시게 되는 거예요.
 
-061. HELEN: Frank was right about you, so go on.
+061. HELEN: Frank was right about you. Go on.
     헬렌: 프랭크 말이 맞았네요. 계속하세요.
 
-062. WEN: May I use your whiteboard? I want to show you one picture, because it's the only picture that matters.
-    웬: 화이트보드 써도 될까요? 그림 하나만 보여 드릴게요. 중요한 그림은 그것 하나거든요.
+062. WEN: May I use your whiteboard? I want to show you one picture, the only picture that matters.
+    웬: 화이트보드 써도 될까요? 그림 하나만 보여 드릴게요. 중요한 그림은 그것 하나예요.
 
 063. HELEN: Please, go ahead.
     헬렌: 그러세요.
 
-064. WEN: This is your Summit with its forty-two small motors, and here's where their magnets come from, which is one country that makes ninety percent of the world's rare-earth magnets. That's one arrow, and it's called a single point of failure.
+064. WEN: This is your Summit with its forty-two small motors, and here's where their magnets come from, one country that makes ninety percent of the world's rare-earth magnets. That's one arrow, and it's called a single point of failure.
     웬: 이게 작은 모터 마흔두 개가 들어간 서밋이고, 그 자석은 여기서 와요. 세계 희토류 자석의 90퍼센트를 만드는 한 나라죠. 화살표가 하나예요. 이걸 단일 장애점이라고 해요.
 
 065. TYLER: And what does that mean in plain English?
@@ -216,7 +216,7 @@
 067. TYLER: Sorry, I said I'd be furniture.
     타일러: 죄송해요, 가구처럼 있겠다고 했는데.
 
-068. HELEN: It's fine, because the furniture asked the right question. So, Dr. Liu, you're the second arrow.
+068. HELEN: It's fine. The furniture asked the right question. So, Dr. Liu, you're the second arrow.
     헬렌: 괜찮아요. 가구가 좋은 질문을 했네요. 그러니까 리우 박사님, 그쪽이 두 번째 화살표라는 거죠.
 
 069. WEN: We're one second arrow, and I'm not asking you to stop buying rare-earth motors. I'm asking you to never again have only one arrow.
@@ -225,19 +225,19 @@
 070. HELEN: You mean a dual source, and finance hates dual sources. Finance wants one supplier, the cheapest one, and a lot of volume to beat on the price.
     헬렌: 이중 공급처 말이군요. 재무팀은 이중 공급처를 싫어해요. 공급사는 하나, 제일 싼 데, 그리고 가격 후려칠 물량을 원하죠.
 
-071. SAM: And finance had one supplier in May, so how did that work out?
+071. SAM: And finance had one supplier in May. How did that work out?
     샘: 그리고 5월에 재무팀은 공급사가 하나였죠. 어떻게 됐어요?
 
 072. HELEN: You're pushing your luck, Mr. Kowalski.
     헬렌: 운을 너무 시험하시네요, 코왈스키 씨.
 
-073. SAM: I know, and I'm sorry, because I've been told I do that.
+073. SAM: I know, and I'm sorry. I've been told I do that.
     샘: 알아요, 죄송해요. 제가 그런다는 말 자주 들어요.
 
-074. HELEN: Let me tell you what I'm thinking, and you can tell me if I'm crazy. I'm thinking we hedge our bets, so we take the Chinese magnets while they come and keep a second source that doesn't need them.
+074. HELEN: Let me tell you what I'm thinking, and you can tell me if I'm crazy. I'm thinking we hedge our bets. We take the Chinese magnets while they come, and we keep a second source that doesn't need them.
     헬렌: 제 생각을 말할 테니 미친 소리인지 말해 주세요. 위험을 분산하자는 거예요. 중국 자석이 나오는 동안은 그걸 받고, 그게 필요 없는 두 번째 공급처를 유지하는 거죠.
 
-075. SAM: That's not crazy, because it's what Frank said on day one, that he doesn't bet, he hedges.
+075. SAM: That's not crazy. It's what Frank said on day one, that he doesn't bet, he hedges.
     샘: 미친 소리 아니에요. 프랭크가 첫날 한 말이에요. 내기는 안 하고 분산한다고요.
 
 076. HELEN: Frank says that to everybody. The question is how big a share we give the second source, whether it's ten percent or thirty, and who that second source should be.
@@ -270,7 +270,7 @@
 085. FRANK: His CFO taught him that, and her name's Gloria. I've never met her, and I'm already scared of her.
     프랭크: 저 사람 CFO가 가르쳤어요. 이름이 글로리아래요. 한 번도 못 만났는데 벌써 무서워요.
 
-086. HELEN: Good answer. Here's my real question, and then we're done, because Rachel says your motor isn't approved for production yet and you have no PPAP. How long will that take?
+086. HELEN: Good answer. Here's my real question, and then we're done. Rachel says your motor isn't approved for production yet, and you have no PPAP. How long will that take?
     헬렌: 좋은 대답이에요. 진짜 질문 하나 하고 끝낼게요. 레이철 말로는 그쪽 모터가 아직 양산 승인을 못 받았고 PPAP가 없다던데요. 얼마나 걸려요?
 
 087. SAM: I'm sorry, but what's PPAP? I've heard the letters, but nobody's ever explained them to me.
@@ -285,8 +285,8 @@
 090. RACHEL: For a new supplier who's never done automotive, it's four to six months, if they're good.
     레이철: 자동차 경험이 전혀 없는 신규 협력사면 4개월에서 6개월이요. 잘하는 데가요.
 
-091. SAM: We're good and we're fast, because changing our line fast is one of the three things we do best.
-    샘: 우린 잘하고 빨라요. 라인을 빨리 바꾸는 게 우리가 제일 잘하는 세 가지 중 하나거든요.
+091. SAM: We're good and we're fast. Changing our line fast is one of the three things we do best.
+    샘: 우린 잘하고 빨라요. 라인을 빨리 바꾸는 게 우리가 제일 잘하는 세 가지 중 하나예요.
 
 092. HELEN: Then show me. Thank you both, that was a good fourteen minutes, and Frank will be in touch.
     헬렌: 그럼 보여 주세요. 두 분 다 고마워요. 좋은 14분이었어요. 프랭크가 연락드릴 거예요.
@@ -297,8 +297,8 @@
 094. FRANK: Not in here, we'll talk outside. Go wait by the elevator, and I'll be out in ten.
     프랭크: 여기서 말고 밖에서 얘기해요. 엘리베이터 앞에서 기다려요, 10분 안에 나갈게요.
 
-095. WEN: She never smiled, not once in fourteen minutes, because I counted.
-    웬: 한 번도 안 웃었어요. 14분 동안 한 번도요. 세어 봤거든요.
+095. WEN: She never smiled, not once in fourteen minutes. I counted.
+    웬: 한 번도 안 웃었어요. 14분 동안 한 번도요. 세어 봤어요.
 
 096. SAM: She said "good answer," and I'll take it.
     샘: '좋은 대답'이라고 했잖아요. 그거면 됐어요.
@@ -315,20 +315,20 @@
 100. MARTIN: Sam Kowalski, and Dr. Liu, what a small world. I didn't know Atlas was talking to Ohio.
     마틴: 샘 코왈스키, 그리고 리우 박사님, 세상 참 좁네요. 애틀러스가 오하이오랑도 얘기하는 줄 몰랐어요.
 
-101. SAM: Martin, I didn't know Atlas was talking to Charlotte, because I thought Calloway didn't make seat motors.
-    샘: 마틴, 저도 애틀러스가 샬럿이랑 얘기하는 줄 몰랐네요. 캘러웨이는 시트 모터 안 만드는 줄 알았거든요.
+101. SAM: Martin, I didn't know Atlas was talking to Charlotte. I thought Calloway didn't make seat motors.
+    샘: 마틴, 저도 애틀러스가 샬럿이랑 얘기하는 줄 몰랐네요. 캘러웨이는 시트 모터 안 만드는 줄 알았어요.
 
-102. MARTIN: We make everything, Sam, which is the point of being Calloway. And right now we have something nobody else has, which is magnets.
+102. MARTIN: We make everything, Sam. That's the point of being Calloway. And right now we have something nobody else has, and that's magnets.
     마틴: 우린 다 만들어요, 샘. 그게 캘러웨이의 존재 이유죠. 그리고 지금 우리한텐 아무도 없는 게 있어요. 자석이요.
 
 103. WEN: You have rare-earth magnets? Where did you get them?
     웬: 희토류 자석이 있다고요? 어디서 구했어요?
 
-104. MARTIN: We bought ahead, so last year, when everyone else was waiting, we built a stockpile. There are six months of magnets sitting in a warehouse in Charlotte, and a stockpile is just a fancy word for a very full closet.
-    마틴: 미리 샀어요. 작년에 다들 기다릴 때 우린 비축했죠. 6개월치 자석이 샬럿 창고에 있어요. 비축분은 그냥 아주 꽉 찬 벽장을 멋있게 부르는 말이에요.
+104. MARTIN: We bought ahead. Last year, when everyone else was waiting, we built a stockpile, and now there are six months of magnets sitting in a warehouse in Charlotte. A stockpile is just a fancy word for a very full closet.
+    마틴: 미리 샀어요. 작년에 다들 기다릴 때 우린 비축했고, 지금 6개월치 자석이 샬럿 창고에 있어요. 비축분은 그냥 아주 꽉 찬 벽장을 멋있게 부르는 말이에요.
 
-105. SAM: Six months, and then what happens after six months, Martin, because closets run out?
-    샘: 6개월이라, 그럼 6개월 뒤엔요, 마틴? 벽장도 바닥나잖아요.
+105. SAM: Six months. And after six months, Martin? Closets run out.
+    샘: 6개월이라. 그럼 6개월 뒤엔요, 마틴? 벽장도 바닥나잖아요.
 
 106. MARTIN: After six months, we'll have something else, something new that you'll hear about soon, and I think you'll find it very interesting.
     마틴: 6개월 뒤엔 다른 게, 새로운 게 있을 거예요. 곧 듣게 될 텐데, 아주 흥미로우실 거예요.
@@ -342,14 +342,14 @@
 109. SAM: Kevin told me he was working on factory automation, which has nothing to do with motors.
     샘: 케빈은 모터랑 상관없는 공장 자동화 일을 한다고 했는데요.
 
-110. MARTIN: Did he? Well, people say a lot of things when they're leaving a job. Good luck with Atlas, Sam, because you'll need it.
-    마틴: 그랬어요? 뭐, 사람들은 회사 떠날 때 이런저런 말을 많이 하죠. 애틀러스 일 잘되길 바라요, 샘. 운이 필요하실 테니까.
+110. MARTIN: Did he? Well, people say a lot of things when they're leaving a job. Good luck with Atlas, Sam. You'll need it.
+    마틴: 그랬어요? 뭐, 사람들은 회사 떠날 때 이런저런 말을 많이 하죠. 애틀러스 일 잘되길 바라요, 샘. 운이 필요하실 거예요.
 
 111. TYLER: Did he just say Kevin is one of his best people in motors?
     타일러: 방금 케빈이 모터 쪽에서 자기 팀 최고 인재 중 하나라고 했어요?
 
-112. WEN: He said it on purpose, because he wanted us to hear it.
-    웬: 일부러 말한 거예요. 우리가 듣길 원했으니까요.
+112. WEN: He said it on purpose. He wanted us to hear it.
+    웬: 일부러 말한 거예요. 우리가 듣길 원했어요.
 
 113. SAM: Why would he do that, and why tell us?
     샘: 왜 그러겠어요? 왜 우리한테 말해요?
@@ -360,10 +360,10 @@
 115. TYLER: "Something new, you'll hear about it soon," is just what Victoria said in January, that there'd be something we won't like in the spring.
     타일러: "새로운 거, 곧 듣게 될 거다"라니, 1월에 빅토리아가 한 말이랑 똑같잖아요. 봄에 우리가 안 좋아할 게 나올 거라고.
 
-116. SAM: It's not spring anymore, it's almost July, so whatever it is, it's late.
-    샘: 이제 봄은 지났어. 거의 7월이야. 그러니까 그게 뭐든 늦은 거지.
+116. SAM: It's not spring anymore, it's almost July. Whatever it is, it's late.
+    샘: 이제 봄은 지났어. 거의 7월이야. 그게 뭐든 늦은 거지.
 
-117. WEN: It's a little late, which means it's bigger than they planned, or harder.
+117. WEN: It's a little late, and that means it's bigger than they planned, or harder.
     웬: 좀 늦었네요. 그 말은 계획보다 크거나 더 어렵다는 거예요.
 
 118. SAM: Wen, if Calloway shows up with a ferrite motor, our kind of motor, what do we do?
@@ -381,17 +381,17 @@
 122. TYLER: Copy that, sorry, I'm furniture again.
     타일러: 접수. 죄송해요, 다시 가구 할게요.
 
-123. SAM: Right now I can't think about Calloway, because I have one customer, one fifteen-minute meeting, and a woman named Helen who never smiles.
-    샘: 지금은 캘러웨이 생각할 여유가 없어요. 고객 하나, 15분짜리 회의 하나, 그리고 절대 안 웃는 헬렌이라는 사람이 있으니까요.
+123. SAM: Right now I can't think about Calloway. I have one customer, one fifteen-minute meeting, and a woman named Helen who never smiles.
+    샘: 지금은 캘러웨이 생각할 여유가 없어요. 고객 하나, 15분짜리 회의 하나, 그리고 절대 안 웃는 헬렌이라는 사람이 있어요.
 
 124. WEN: She smiled once, when Tyler asked for it in plain English, very small and on the left side.
     웬: 한 번 웃었어요. 타일러가 쉽게 말해 달라고 했을 때요. 아주 살짝, 왼쪽으로.
 
-125. TYLER: I made a vice president smile, so put that on my review.
+125. TYLER: I made a vice president smile. Put that on my review.
     타일러: 제가 부사장님을 웃게 했네요. 인사 평가에 넣어 주세요.
 
-126. FRANK: Okay, we're in the parking lot, because nobody listens in parking lots. Sorry about the rain, but that's Detroit in June, where you get four seasons in an afternoon.
-    프랭크: 자, 주차장이에요. 주차장에선 아무도 안 엿들으니까. 비는 미안해요. 6월의 디트로이트는 오후 한나절에 사계절이 다 와요.
+126. FRANK: Okay, we're in the parking lot, where nobody listens. Sorry about the rain, but that's Detroit in June, four seasons in an afternoon.
+    프랭크: 자, 주차장이에요. 여기선 아무도 안 엿들어요. 비는 미안해요. 6월의 디트로이트는 오후 한나절에 사계절이 다 와요.
 
 127. SAM: Frank, was it Calloway before us?
     샘: 프랭크, 우리 앞이 캘러웨이였어요?
@@ -399,7 +399,7 @@
 128. FRANK: I told you not to ask, and I'm not going to answer. But I'll tell you that Helen likes options, and today she got two.
     프랭크: 묻지 말라고 했잖아요. 대답도 안 할 거고요. 근데 헬렌은 선택지를 좋아하는데, 오늘 두 개를 받았다는 건 말해 줄게요.
 
-129. SAM: What did she decide, Frank? Please tell me she decided something today, because I drove four hours in the rain and my CTO has been staring at the dashboard like it owes her money.
+129. SAM: What did she decide, Frank? Please tell me she decided something today. I drove four hours in the rain, and my CTO has been staring at the dashboard like it owes her money.
     샘: 뭘 결정했어요, 프랭크? 오늘 뭔가 결정했다고 말해 줘요. 빗속에 네 시간 운전했고, 우리 CTO는 대시보드가 돈이라도 빌린 것처럼 노려보고 있었다고요.
 
 130. FRANK: Here's the deal. The bridge order stays yours, all forty thousand, and the big three-year contract for seats and maybe coolant pumps is on the table. But she won't sign it with a supplier who has no PPAP.
@@ -414,13 +414,13 @@
 133. SAM: And how long do we get?
     샘: 그래서 얼마나 주는데요?
 
-134. FRANK: You get thirty days for a full PPAP, approved by Brenner's quality team and signed off by Rachel, which means July eighteenth.
-    프랭크: 브레너 품질팀 승인에 레이철 최종 서명까지 받은 완전한 PPAP를 30일 안에요. 그러니까 7월 18일이에요.
+134. FRANK: You get thirty days for a full PPAP, approved by Brenner's quality team and signed off by Rachel. That's July eighteenth.
+    프랭크: 브레너 품질팀 승인에 레이철 최종 서명까지 받은 완전한 PPAP를 30일 안에요. 7월 18일이에요.
 
 135. TYLER: Thirty days, when Rachel said that's impossible?
     타일러: 30일이요? 레이철은 그게 불가능하다고 했잖아요.
 
-136. FRANK: Rachel said it's never been done, which isn't the same thing, and Helen likes that difference.
+136. FRANK: Rachel said it's never been done. That's not the same thing, and Helen likes that difference.
     프랭크: 레이철은 한 번도 해낸 적이 없다고 했죠. 그건 같은 말이 아니고, 헬렌은 그 차이를 좋아해요.
 
 137. SAM: And what if we don't make it, even if we're late by one day?
@@ -435,7 +435,7 @@
 140. FRANK: I didn't hear that, and I'm getting wet. Sam, can you do it? Give me the real answer, not the CFO answer.
     프랭크: 못 들은 걸로 할게요. 비 맞고 있잖아요. 샘, 할 수 있어요? CFO 대답 말고 진짜 대답 해 봐요.
 
-141. SAM: I don't know, because I've never done a PPAP, and nobody at Ferrox has. But I know we'll try harder than anybody you've ever hired.
+141. SAM: I don't know. I've never done a PPAP, and nobody at Ferrox has. But I know we'll try harder than anybody you've ever hired.
     샘: 모르겠어요. PPAP 해 본 적이 없고, Ferrox엔 해 본 사람이 아무도 없어요. 근데 이사님이 써 본 누구보다 열심히 할 거라는 건 알아요.
 
 142. FRANK: Helen would like that answer, "I don't know," so you learned fast.
@@ -444,7 +444,7 @@
 143. SAM: I had a good teacher, several of them, actually.
     샘: 좋은 선생님이 있었어요. 사실 여러 명이요.
 
-144. FRANK: Thirty days, Sam. Prove it. And I'll tell you something off the record, which is that I want you to win, because I'm tired of buying everything from people I can't call.
+144. FRANK: Thirty days, Sam. Prove it. And I'll tell you something off the record. I want you to win, because I'm tired of buying everything from people I can't call.
     프랭크: 30일이에요, 샘. 증명해 봐요. 그리고 비공식적으로 하나 말해 줄게요. 난 그쪽이 이기면 좋겠어요. 전화도 못 하는 사람들한테서 다 사는 거 지겨워요.
 
 145. SAM: Thank you, Frank, for the fifteen minutes and for the parking lot.
@@ -456,8 +456,8 @@
 147. TYLER: A hundred and forty pages in thirty days is almost five pages a day.
     타일러: 30일 동안 140쪽이면 하루에 거의 다섯 쪽이에요.
 
-148. WEN: It's not pages, Tyler, it's tests, because every page is a test, a measurement, or a signature.
-    웬: 쪽수가 아니라 시험이에요, 타일러. 한 쪽 한 쪽이 시험이거나 측정이거나 서명이거든요.
+148. WEN: It's not pages, Tyler, it's tests. Every page is a test, a measurement, or a signature.
+    웬: 쪽수가 아니라 시험이에요, 타일러. 한 쪽 한 쪽이 시험이거나 측정이거나 서명이에요.
 
 149. SAM: Then we'd better get Earl a bigger coffee machine.
     샘: 그럼 얼한테 더 큰 커피 머신을 사 줘야겠네요.

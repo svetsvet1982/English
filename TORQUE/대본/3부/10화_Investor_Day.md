@@ -57,7 +57,7 @@
 014. PATTY: Wait, isn't that what we make, ferrite magnets with a special rotor and smart software? That's the exact thing Earl explained to me on my first day.
     패티: 잠깐만요, 저거 우리가 만드는 거 아니에요? 페라이트 자석에 특별한 로터, 똑똑한 소프트웨어. 제 첫날 얼이 저한테 설명해 준 거랑 똑같은데요.
 
-015. EARL: That's exactly what we make, word for word, because she just read our website out loud.
+015. EARL: That's exactly what we make, word for word. She just read our website out loud.
     얼: 딱 우리가 만드는 거야. 토씨 하나 안 틀리고. 우리 웹사이트를 소리 내서 읽었네.
 
 016. VICTORIA: To tell you more, please welcome the man who led the team. Our head of motor development, Martin Shaw.
@@ -72,7 +72,7 @@
 019. MARTIN: EverSpin motors are assembled at our plant in Saltillo, Mexico, and they will be available through our distributors starting next week. Automotive customers are already in testing.
     마틴: 에버스핀 모터는 멕시코 살티요 공장에서 조립되며, 다음 주부터 유통사를 통해 구매하실 수 있습니다. 자동차 고객사들은 이미 시험 중입니다.
 
-020. SAM: He said automotive customers are already in testing, which means Atlas, so he's talking to Helen through the camera.
+020. SAM: When he says automotive customers are already in testing, he means Atlas. He's talking to Helen through the camera.
     샘: 자동차 고객사가 이미 시험 중이라는 건 애틀러스 얘기야. 카메라 너머로 헬렌한테 말하는 거지.
 
 021. GLORIA: He means Helen Krause and her six months of magnets in a closet.
@@ -93,8 +93,8 @@
 026. GLORIA: Tyler, check the stock price right now, while she's still talking.
     글로리아: 타일러, 저 사람 아직 말하는 동안 지금 주가 확인해.
 
-027. TYLER: It's up four percent, then five, then six, so Calloway is up six percent in ten minutes.
-    타일러: 4퍼센트 올랐어요, 그다음 5, 그다음 6. 캘러웨이가 10분 만에 6퍼센트 올랐어요.
+027. TYLER: It's up four percent, now five, now six. Calloway is up six percent in ten minutes.
+    타일러: 4퍼센트 올랐어요, 이제 5, 이제 6. 캘러웨이가 10분 만에 6퍼센트 올랐어요.
 
 028. EARL: What does six percent mean in real money?
     얼: 6퍼센트면 진짜 돈으로 얼마야?
@@ -114,7 +114,7 @@
 033. SAM: Wen, hold on.
     샘: 웬, 잠깐만요.
 
-034. WEN: Please turn it off, because I've heard enough.
+034. WEN: Please turn it off. I've heard enough.
     웬: 제발 꺼 주세요. 들을 만큼 들었어요.
 
 035. SAM: Okay, Patty, turn it off, and everybody, back to work. I know how this looks and that some of you are scared, but we have orders, we have customers, and we have Betsy, and nothing changed at Ferrox in the last fifteen minutes.
@@ -147,7 +147,7 @@
 044. TYLER: Sam, your phone, it's Gary, and Nina's on the other line while Frank's texting.
     타일러: 샘, 폰이요. 개리예요. 니나는 다른 회선에 있고 프랭크는 문자 보내고 있어요.
 
-045. SAM: All three in the same minute, okay. Gary first, because he sounds the most nervous when he's calm.
+045. SAM: All three in the same minute, okay. Gary first, since he sounds the most nervous when he's calm.
     샘: 셋 다 같은 1분 안에라, 좋아. 개리 먼저. 침착할 때 제일 불안한 사람이니까.
 
 046. GARY: Sam, did you see it?
@@ -159,11 +159,11 @@
 048. GARY: Calloway's sales guy called my office twenty minutes after the show started, just twenty minutes. He wants to quote EverSpin for the Haverford Pro, and he says it'll be fifteen percent less than you.
     개리: 캘러웨이 영업 담당이 쇼 시작하고 딱 20분 만에 내 사무실에 전화했어요. 해버퍼드 프로에 에버스핀 견적을 내고 싶다면서, 그쪽보다 15퍼센트 싸게 하겠대요.
 
-049. SAM: Fifteen percent, so they're trying to undercut us.
-    샘: 15퍼센트라, 우리보다 싸게 쳐서 밀어내려는 거네요.
+049. SAM: Fifteen percent. They're trying to undercut us.
+    샘: 15퍼센트라. 우리보다 싸게 쳐서 밀어내려는 거네요.
 
-050. GARY: Undercut is a nice word, but in my business we call it "a race to the bottom with a faster car." I'm not changing anything, Sam, because we have a contract, and I'm just telling you what's coming.
-    개리: 밀어낸다는 건 점잖은 표현이고, 우리 업계에선 "더 빠른 차로 하는 바닥 치기 경주"라고 해요. 난 아무것도 안 바꿔요, 샘. 계약이 있으니까. 그냥 뭐가 오는지 말해 주는 거예요.
+050. GARY: Undercut is a nice word, but in my business we call it "a race to the bottom with a faster car." I'm not changing anything, Sam, we have a contract. I'm just telling you what's coming.
+    개리: 밀어낸다는 건 점잖은 표현이고, 우리 업계에선 "더 빠른 차로 하는 바닥 치기 경주"라고 해요. 난 아무것도 안 바꿔요, 샘. 계약이 있잖아요. 그냥 뭐가 오는지 말해 주는 거예요.
 
 051. SAM: I appreciate that, Gary, I really do.
     샘: 고마워요, 개리. 진심이에요.
@@ -186,7 +186,7 @@
 057. SAM: Thank you, Nina. You have no idea how much I needed to hear that today.
     샘: 고마워요, 니나. 오늘 그 말이 얼마나 듣고 싶었는지 모를 거예요.
 
-058. NINA: Don't thank me, just stay better than them. Cash is late, love is on time, remember? Okay, I have to go, because Bryce is calling again.
+058. NINA: Don't thank me, just stay better than them. Cash is late, love is on time, remember? Okay, I have to go, Bryce is calling again.
     니나: 고마워하지 말고 그냥 저쪽보다 계속 나으면 돼요. 돈은 늦어도 사랑은 제때 온다, 기억하죠? 끊을게요, 브라이스가 또 전화해요.
 
 059. TYLER: Frank's text says, "Call me. Not urgent. Okay, a little urgent."
@@ -201,10 +201,10 @@
 062. FRANK: Helen saw it too, and she called me into her office because she wants to know if this changes anything.
     프랭크: 헬렌도 봤어요. 이게 뭔가를 바꾸는지 알고 싶다고 날 사무실로 불렀어요.
 
-063. SAM: Does it? Tell me the truth, Frank, because I can take it.
-    샘: 바꿔요? 사실대로 말해 줘요, 프랭크. 감당할 수 있으니까.
+063. SAM: Does it? Tell me the truth, Frank. I can take it.
+    샘: 바꿔요? 사실대로 말해 줘요, 프랭크. 감당할 수 있어요.
 
-064. FRANK: Here's what I told her, which is that Ferrox has a PPAP and Calloway's EverSpin doesn't, not for our seats, not yet. You passed a test they haven't even taken, and that's worth a lot in this building.
+064. FRANK: Here's what I told her. Ferrox has a PPAP and Calloway's EverSpin doesn't, not for our seats, not yet. You passed a test they haven't even taken, and that's worth a lot in this building.
     프랭크: 내가 이렇게 말했어요. Ferrox는 PPAP가 있고 캘러웨이 에버스핀은 우리 시트용으로 아직 없다고요. 그쪽은 저쪽이 치르지도 않은 시험을 통과한 거고, 이 건물에선 그게 큰 가치예요.
 
 065. SAM: And what did Helen say to that?
@@ -216,8 +216,8 @@
 067. SAM: Is the award decision still at the end of the month?
     샘: 수주 결정은 아직 월말이에요?
 
-068. FRANK: The sourcing committee meets on the thirtieth, and I'm still on your side. But Sam, Calloway is going to come in with a lower price for the long term, so be ready.
-    프랭크: 소싱 위원회가 30일에 열리고, 난 아직 그쪽 편이에요. 근데 샘, 캘러웨이가 장기 계약에 더 낮은 가격을 들고 올 테니까 준비해요.
+068. FRANK: The sourcing committee meets on the thirtieth, and I'm still on your side. But Sam, Calloway is going to come in with a lower price for the long term. Be ready.
+    프랭크: 소싱 위원회가 30일에 열리고, 난 아직 그쪽 편이에요. 근데 샘, 캘러웨이가 장기 계약에 더 낮은 가격을 들고 올 거예요. 준비해요.
 
 069. SAM: Lower than thirteen ten?
     샘: 13달러 10센트보다 낮게요?
@@ -228,7 +228,7 @@
 071. GLORIA: Well, how many fires are we putting out?
     글로리아: 그래서, 불 몇 개 끄는 중이야?
 
-072. SAM: We've got three, because Gary's not changing anything yet, and Nina's loyal for now. And Frank says Calloway is going to undercut us on the long-term contract.
+072. SAM: Three of them. Gary's not changing anything yet, and Nina's loyal for now. And Frank says Calloway is going to undercut us on the long-term contract.
     샘: 세 개요. 개리는 아직 아무것도 안 바꾸고, 니나는 일단 의리 지키고요. 그리고 프랭크 말로는 캘러웨이가 장기 계약에서 우리보다 싸게 부를 거래요.
 
 073. GLORIA: "Yet" and "for now" are the two most dangerous words in business, baby.
@@ -246,8 +246,8 @@
 077. GLORIA: She's a reporter who covers industry and tech for one of the big business sites, and my friend at the bank reads her every morning.
     글로리아: 큰 경제 사이트 중 한 곳에서 산업이랑 테크를 쓰는 기자야. 은행 친구가 매일 아침 그 사람 기사 읽어.
 
-078. SAM: A reporter, so what do I do? I've never talked to a reporter in my life, unless you count the high school newspaper.
-    샘: 기자라니, 어떻게 해요? 고등학교 신문 빼면 평생 기자랑 얘기해 본 적이 없는데요.
+078. SAM: A reporter? What do I do? I've never talked to a reporter in my life, unless you count the high school newspaper.
+    샘: 기자요? 어떻게 해요? 고등학교 신문 빼면 평생 기자랑 얘기해 본 적이 없는데요.
 
 079. GLORIA: You answer politely, and you say nothing you don't want to see with your name next to it tomorrow morning.
     글로리아: 정중하게 받아. 그리고 내일 아침에 네 이름 옆에 붙어 나와도 괜찮은 말만 해.
@@ -261,7 +261,7 @@
 082. SAM: Hello, this is Sam Kowalski.
     샘: 여보세요, 샘 코왈스키입니다.
 
-083. MEGAN: Hi, Mr. Kowalski, my name is Megan Cho, and I cover manufacturing and supply chains. I'm writing about Calloway's announcement today, and your company's name keeps coming up, so do you have a few minutes?
+083. MEGAN: Hi, Mr. Kowalski, my name is Megan Cho, and I cover manufacturing and supply chains. I'm writing about Calloway's announcement today, and your company's name keeps coming up. Do you have a few minutes?
     메건: 안녕하세요, 코왈스키 씨. 제조업이랑 공급망을 취재하는 메건 조라고 합니다. 오늘 캘러웨이 발표에 대해 쓰고 있는데 그쪽 회사 이름이 계속 나와서요. 몇 분 괜찮으세요?
 
 084. SAM: My company's name came up from who, when we don't exactly have a press office?
@@ -270,22 +270,22 @@
 085. MEGAN: It's from people who know the industry, analysts and a couple of suppliers. They say Ferrox is the only other company in America that makes motors like EverSpin, and that you've been doing it since twenty sixteen.
     메건: 업계를 아는 사람들, 애널리스트랑 협력사 두어 곳이요. Ferrox가 미국에서 에버스핀 같은 모터를 만드는 유일한 다른 회사고, 2016년부터 해 오셨다고 하더라고요.
 
-086. SAM: That's true, because we've been doing it for nine years.
+086. SAM: That's true. We've been doing it for nine years.
     샘: 사실이에요. 9년째 하고 있어요.
 
 087. MEGAN: Can I quote you on that?
     메건: 그 말 인용해도 될까요?
 
-088. SAM: You mean that we've been making ferrite motors since twenty sixteen? Sure, because that's on our website.
+088. SAM: You mean that we've been making ferrite motors since twenty sixteen? Sure, that's on our website.
     샘: 2016년부터 페라이트 모터를 만들어 왔다는 거요? 그럼요, 우리 웹사이트에도 있는걸요.
 
-089. MEGAN: Great, and one more question, which is what you think of EverSpin.
-    메건: 좋아요. 질문 하나 더요. 에버스핀은 어떻게 생각하세요?
+089. MEGAN: Great. One more question, then. What do you think of EverSpin?
+    메건: 좋아요. 그럼 질문 하나 더요. 에버스핀은 어떻게 생각하세요?
 
 090. SAM: I haven't seen it, and I can't comment on a product I haven't tested.
     샘: 아직 못 봤어요. 시험해 보지 않은 제품에 대해선 말할 수 없어요.
 
-091. MEGAN: That's fair, but here's the thing. One of the people I talked to said Calloway hired two engineers from Ferrox last December, so is that true?
+091. MEGAN: That's fair, but here's the thing. One of the people I talked to said Calloway hired two engineers from Ferrox last December. Is that true?
     메건: 그렇죠. 근데 문제는 이거예요. 제가 얘기해 본 사람 중 한 명이 캘러웨이가 작년 12월에 Ferrox 엔지니어 두 명을 데려갔다고 하던데, 사실이에요?
 
 092. SAM: I don't want to talk about former employees, and I wish them well.
@@ -297,8 +297,8 @@
 094. SAM: No comment.
     샘: 노코멘트입니다.
 
-095. MEGAN: Okay, I understand. Mr. Kowalski, can I make you an offer, which is that you talk to me on background?
-    메건: 알겠어요, 이해해요. 코왈스키 씨, 제안 하나 해도 될까요? 배경 설명으로 얘기해 주시는 거예요.
+095. MEGAN: Okay, I understand. Mr. Kowalski, can I make you an offer? Would you be willing to talk to me on background?
+    메건: 알겠어요, 이해해요. 코왈스키 씨, 제안 하나 해도 될까요? 배경 설명으로 얘기해 주실 수 있으세요?
 
 096. SAM: On background? What does that mean?
     샘: 배경 설명이요? 그게 무슨 뜻이에요?
@@ -309,7 +309,7 @@
 098. SAM: And what does off the record mean?
     샘: 그럼 비공식은 무슨 뜻이에요?
 
-099. MEGAN: Off the record means I can't use it at all, not even without your name, because it's just for me to understand. Most people mix those up.
+099. MEGAN: Off the record means I can't use it at all, not even without your name. It's just there to help me understand, and most people mix those two up.
     메건: 비공식은 이름 없이도 아예 쓸 수 없다는 뜻이에요. 그냥 제가 이해하는 용도죠. 대부분 그 둘을 헷갈려 해요.
 
 100. SAM: Then here's something on background. Building a good ferrite motor isn't hard, but building one as good as a rare-earth motor is very hard, and it took my team nine years to get to ninety-two percent.
@@ -324,7 +324,7 @@
 103. MEGAN: I did, okay. I'm going to publish tomorrow morning, but a trade magazine is already running a headline this afternoon, and I'll be honest, you won't like it.
     메건: 제가 했죠, 좋아요. 전 내일 아침에 기사 낼 건데, 업계지 하나가 오늘 오후에 벌써 제목을 냈어요. 솔직히 마음에 안 드실 거예요.
 
-104. SAM: What does it say, because you might as well tell me now?
+104. SAM: What does it say? You might as well tell me now.
     샘: 뭐라고 했는데요? 차라리 지금 말해 주세요.
 
 105. MEGAN: It says "Ferrox Outflanked," which means Calloway went around you. It's like an army that doesn't attack you from the front, it just goes around the side and gets there first.
@@ -348,7 +348,7 @@
 111. SAM: That one you can use, "keep looking."
     샘: 그건 써도 돼요. "계속 찾아보세요."
 
-112. MEGAN: Thank you, and I'll be in touch. And Mr. Kowalski, off the record, market share isn't everything, because companies win the first month and lose the next five years all the time.
+112. MEGAN: Thank you, I'll be in touch. And Mr. Kowalski, off the record, market share isn't everything. Companies win the first month and lose the next five years all the time.
     메건: 감사합니다. 또 연락드릴게요. 그리고 코왈스키 씨, 비공식으로요. 시장 점유율이 전부는 아니에요. 첫 달에 이기고 다음 5년을 지는 회사는 항상 있거든요.
 
 113. SAM: Thank you, Megan, I'll remember that.
@@ -363,7 +363,7 @@
 116. GLORIA: That's not bad, baby, that's actually not bad for your first reporter.
     글로리아: 나쁘지 않네, 얘. 첫 기자치고는 사실 나쁘지 않아.
 
-117. TYLER: She knew Kevin's name, so how did she know Kevin's name?
+117. TYLER: She knew Kevin's name. How did she know Kevin's name?
     타일러: 케빈 이름을 알던데요. 어떻게 알았지?
 
 118. SAM: She said people in the industry are talking, and if they're talking about Kevin, they're thinking the same thing Darnell asked this morning.
@@ -372,7 +372,7 @@
 119. GLORIA: "How did they make it so fast?"
     글로리아: "어떻게 그렇게 빨리 만들었지?"
 
-120. SAM: Where's Wen, because I haven't seen her since the TV went off?
+120. SAM: Where's Wen? I haven't seen her since the TV went off.
     샘: 웬 어디 있어요? TV 끈 뒤로 못 봤어요.
 
 121. EARL: She's been in her lab with the door closed since the TV went off, and she told me she's "thinking." I've known her nine years, and that's a scary kind of thinking.
@@ -387,14 +387,14 @@
 124. SAM: You've been in here for nine hours, Wen.
     샘: 여기 아홉 시간째 있었어요, 웬.
 
-125. WEN: I watched the presentation four more times and paused it on every slide. Look at this one, the efficiency curve for EverSpin, and look at the shape, because here at low speed, it bends.
-    웬: 발표를 네 번 더 보면서 슬라이드마다 멈췄어요. 이거 봐요, 에버스핀 효율 곡선이요. 모양을 봐요. 여기 저속에서 휘어요.
+125. WEN: I watched the presentation four more times and paused it on every slide. Look at this one, the efficiency curve for EverSpin. Look at the shape, how it bends here at low speed.
+    웬: 발표를 네 번 더 보면서 슬라이드마다 멈췄어요. 이거 봐요, 에버스핀 효율 곡선이요. 모양을 봐요. 여기 저속에서 휘는 거요.
 
-126. SAM: Okay, so it bends.
-    샘: 그래요, 휘네요.
+126. SAM: Okay, I see that it bends.
+    샘: 네, 휘는 게 보여요.
 
-127. WEN: Our curve bends in exactly the same place, because that bend is the Governor correcting for the weak magnets at low speed. It's my firmware, and it's the fingerprint of my code.
-    웬: 우리 곡선도 정확히 같은 데서 휘어요. 그 휨은 거버너가 저속에서 약한 자석을 보정하는 거거든요. 제 펌웨어고, 제 코드의 지문이에요.
+127. WEN: Our curve bends in exactly the same place. That bend is the Governor correcting for the weak magnets at low speed. It's my firmware, and it's the fingerprint of my code.
+    웬: 우리 곡선도 정확히 같은 데서 휘어요. 그 휨은 거버너가 저속에서 약한 자석을 보정하는 거예요. 제 펌웨어고, 제 코드의 지문이에요.
 
 128. SAM: Couldn't they have found the same answer on their own, with two good engineers and the same physics?
     샘: 그쪽이 혼자 같은 답을 찾았을 수도 있잖아요? 좋은 엔지니어 둘에 같은 물리학이면요.
@@ -405,8 +405,8 @@
 130. SAM: What do you mean by the same mistakes?
     샘: 같은 실수라니 무슨 뜻이에요?
 
-131. WEN: There's a small dip in our curve here, at about eleven hundred RPM, which is a bug I've known about for two years. It's harmless, so I never fixed it, but look at their curve.
-    웬: 우리 곡선에 여기, 1,100RPM쯤에 작은 움푹한 데가 있어요. 2년 전부터 알던 버그인데 해가 없어서 안 고쳤어요. 근데 저쪽 곡선 봐요.
+131. WEN: There's a small dip in our curve here, at about eleven hundred RPM. It's a bug I've known about for two years, and it's harmless, so I never fixed it. Now look at their curve.
+    웬: 우리 곡선에 여기, 1,100RPM쯤에 작은 움푹한 데가 있어요. 2년 전부터 알던 버그인데 해가 없어서 안 고쳤어요. 이제 저쪽 곡선 봐요.
 
 132. SAM: It has the same dip.
     샘: 똑같이 움푹하네요.
@@ -414,7 +414,7 @@
 133. WEN: It has the same dip at the same speed.
     웬: 같은 속도에서 똑같이 움푹해요.
 
-134. SAM: Wen, that's a slide on a screen, and it's not proof, because a lawyer would laugh at a slide.
+134. SAM: Wen, that's a slide on a screen, and it's not proof. A lawyer would laugh at a slide.
     샘: 웬, 그건 화면 속 슬라이드지 증거가 아니에요. 변호사는 슬라이드 보고 웃을 거예요.
 
 135. WEN: I know, and that's why I'm not calling a lawyer, I'm calling a distributor. Martin said EverSpin will be available next week, and I want one in my hands, on my bench.
@@ -426,8 +426,8 @@
 137. WEN: Why would I need three?
     웬: 세 개가 왜 필요해요?
 
-138. SAM: One to open and two to keep sealed, with the receipts. Ben Adler told me in March not to touch Kevin's laptop, because if it's evidence it has to stay clean, and it's the same idea.
-    샘: 하나는 열고, 두 개는 영수증이랑 같이 봉인해서 보관하는 거예요. 3월에 벤 애들러가 증거라면 깨끗해야 하니까 케빈 노트북 절대 건드리지 말라고 했잖아요. 같은 거예요.
+138. SAM: One to open and two to keep sealed, with the receipts. Ben Adler told me in March not to touch Kevin's laptop, because evidence has to stay clean. It's the same idea.
+    샘: 하나는 열고, 두 개는 영수증이랑 같이 봉인해서 보관하는 거예요. 3월에 벤 애들러가 증거는 깨끗해야 하니까 케빈 노트북 절대 건드리지 말라고 했잖아요. 같은 거예요.
 
 139. WEN: You're thinking like a lawyer now.
     웬: 이제 변호사처럼 생각하시네요.
@@ -453,10 +453,10 @@
 146. SAM: And what if it is there?
     샘: 있으면요?
 
-147. WEN: Sam, nobody does this in six months, nobody. Kevin left in December and it's July, so if it's real, it's ours.
-    웬: 샘, 6개월 만에 이걸 하는 사람은 없어요, 아무도요. 케빈은 12월에 나갔고 지금은 7월이니까, 그게 진짜라면 그건 우리 거예요.
+147. WEN: Sam, nobody does this in six months, nobody. Kevin left in December and it's July. If it's real, it's ours.
+    웬: 샘, 6개월 만에 이걸 하는 사람은 없어요, 아무도요. 케빈은 12월에 나갔고 지금은 7월이에요. 그게 진짜라면 그건 우리 거예요.
 
-148. SAM: Go home and sleep, Wen, because you can't buy a motor at midnight.
+148. SAM: Go home and sleep, Wen. You can't buy a motor at midnight.
     샘: 집에 가서 자요, 웬. 자정에 모터를 살 순 없잖아요.
 
 149. WEN: I already ordered three online, and they won't ship until next week, but I'm number one on the list.

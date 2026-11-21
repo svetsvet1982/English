@@ -18,10 +18,10 @@
 001. STAN: You're late, and the game started twenty minutes ago.
     스탠: 늦었다. 경기 20분 전에 시작했어.
 
-002. SAM: Hi, Dad, sorry, there was traffic on Dorothy Lane, so who's winning?
+002. SAM: Hi, Dad. Sorry, there was traffic on Dorothy Lane. Who's winning?
     샘: 안녕하세요, 아버지. 도로시 레인이 막혀서요. 누가 이기고 있어요?
 
-003. STAN: The Bengals are losing, which is how I know it's Sunday, so sit down, there's chili on the stove.
+003. STAN: The Bengals are losing, which is how I know it's Sunday. Sit down, there's chili on the stove.
     스탠: 벵골스가 지고 있지. 그래서 일요일인 줄 알아. 앉아라. 스토브에 칠리 있다.
 
 004. SAM: You made chili, and did the doctor actually say you could eat chili?
@@ -42,10 +42,10 @@
 009. STAN: So, Earl called me on Thursday night, and he said some big-shot lady from a big-shot company wanted to buy your shop.
     스탠: 그래서 말인데. 얼이 목요일 밤에 전화했더라. 어디 거물 회사의 거물 아줌마가 네 가게를 사고 싶어 했다고.
 
-010. SAM: Earl has a big mouth, because I told him on Thursday afternoon, and he called you the same night?
+010. SAM: Earl has a big mouth. I told him on Thursday afternoon, and he called you the same night?
     샘: 얼은 입이 너무 가벼워요. 목요일 오후에 말했는데 그날 밤에 바로 전화했다고요?
 
-011. STAN: Earl has been my friend for almost fifty years, and his mouth is exactly the right size, so is it true?
+011. STAN: Earl has been my friend for almost fifty years, and his mouth is exactly the right size. Is it true?
     스탠: 얼은 거의 50년 된 내 친구야. 입 크기는 딱 적당해. 그래서, 사실이냐?
 
 012. SAM: It's true, it was Calloway Dynamics, and they offered twenty-two million dollars for the whole company.
@@ -60,7 +60,7 @@
 015. STAN: And you told them no.
     스탠: 그런데 넌 싫다고 했고.
 
-016. SAM: I said no, but politely, because Gloria made me practice in the truck.
+016. SAM: I said no, but politely. Gloria made me practice in the truck.
     샘: 싫다고 했어요. 정중하게요. 글로리아가 트럭에서 연습까지 시켰거든요.
 
 017. STAN: Why?
@@ -75,7 +75,7 @@
 020. SAM: Because they wanted to move everything to South Carolina, and because they'd keep the patent and close the building in two years. And because, I don't know, Dad, maybe because of you.
     샘: 다 사우스캐롤라이나로 옮기고 싶어 해서요. 특허만 챙기고 2년 안에 건물을 닫을 거라서요. 그리고, 모르겠어요, 아버지. 어쩌면 아버지 때문에요.
 
-021. STAN: Because of me? Don't put this on me, son, because I make chili and watch the Bengals lose, and I don't run companies.
+021. STAN: Because of me? Don't put this on me, son. I make chili and watch the Bengals lose, and I don't run companies.
     스탠: 나 때문에? 나한테 떠넘기지 마라, 아들. 난 칠리 끓이고 벵골스 지는 거 보는 사람이지 회사 운영하는 사람 아니다.
 
 022. SAM: I know, I just mean that I remember what happened to you.
@@ -102,7 +102,7 @@
 029. STAN: And I'll go to physical therapy tomorrow morning, but tonight I want to look at my plant. Humor an old man.
     스탠: 물리치료는 내일 아침에 갈 거다. 근데 오늘 밤엔 내 공장을 보고 싶어. 늙은이 비위 좀 맞춰 줘.
 
-030. SAM: Okay, you win, so let me get your coat from the closet.
+030. SAM: Okay, you win. Let me get your coat from the closet.
     샘: 알았어요, 아버지가 이겼어요. 옷장에서 코트 가져올게요.
 
 031. STAN: Not the new one Erin bought, I want the old brown one with the patches.
@@ -111,13 +111,13 @@
 032. SAM: Dad, that coat is older than I am.
     샘: 아버지, 그 코트 저보다 나이 많아요.
 
-033. STAN: That's why it's warm, because they don't make things like that anymore.
+033. STAN: That's why it's warm. They don't make things like that anymore.
     스탠: 그러니까 따뜻하지. 요즘은 그렇게 안 만들어.
 
 034. SAM: You say that about everything, cars, coats, music, bread, and people.
     샘: 아버지는 뭐든 그 소리 하세요. 차, 코트, 음악, 빵, 사람까지.
 
-035. STAN: Because it's true about everything, except your motors, which are good, because Earl says so.
+035. STAN: Because it's true about everything, except your motors. Your motors are good, and Earl says so.
     스탠: 다 맞는 말이니까. 네 모터만 빼고. 네 모터는 좋다. 얼이 그러더라.
 
 036. SAM: Earl said that, when he told me last week my motors were too quiet to trust?
@@ -129,13 +129,13 @@
 038. SAM: Now that sounds more like Earl.
     샘: 그게 더 얼답네요.
 
-039. STAN: Get the keys and bring the chili, because I'm not finished.
+039. STAN: Get the keys and bring the chili. I'm not finished.
     스탠: 열쇠 챙겨라. 칠리도 가져오고. 아직 다 안 먹었다.
 
 040. SAM: You want to eat chili in my truck, when I just had it cleaned?
     샘: 제 트럭에서 칠리를 드시겠다고요? 방금 세차했는데요?
 
-041. STAN: I ate lunch in a car for thirty-two years, so ten minutes in a truck won't kill me.
+041. STAN: I ate lunch in a car for thirty-two years. Ten minutes in a truck won't kill me.
     스탠: 32년을 차 안에서 점심 먹었다. 트럭에서 10분쯤으로 안 죽어.
 
 042. SAM: I think the doctor might disagree.
@@ -147,7 +147,7 @@
 044. SAM: All right, all right, but put your seat belt on, please.
     샘: 알았어요, 알았어요. 안전벨트 매세요.
 
-045. STAN: I know how a seat belt works, because I built the cars they go in.
+045. STAN: I know how a seat belt works. I built the cars they go in.
     스탠: 안전벨트 쓰는 법은 안다. 그게 들어가는 차를 내가 만들었어.
 
 046. SAM: Here we are. I'll leave the engine running so you stay warm.
@@ -165,7 +165,7 @@
 050. SAM: You really mean that, that you're not angry someone else owns it now?
     샘: 진심이에요? 다른 사람이 주인이 된 게 화나지 않으세요?
 
-051. STAN: Of course I mean it, because somebody has a job in there, and somebody's paying a mortgage because of that building. That's not nothing.
+051. STAN: Of course I mean it. Somebody has a job in there, and somebody's paying a mortgage because of that building. That's not nothing.
     스탠: 당연히 진심이지. 누군가 저기서 일하고 있고, 누군가 저 건물 덕에 집 대출을 갚고 있어. 그건 별것 아닌 게 아니야.
 
 052. SAM: But it's not your plant anymore, is it?
@@ -174,7 +174,7 @@
 053. STAN: It was never my plant, it was General Motors' plant, and I just thought it was mine, which was my mistake.
     스탠: 애초에 내 공장이 아니었어. 제너럴 모터스 공장이었지. 난 그냥 내 거라고 생각했고. 그게 내 실수였다.
 
-054. SAM: Tell me about the last day, because you never really told me.
+054. SAM: Tell me about the last day. You never really told me.
     샘: 마지막 날 얘기 해 주세요. 제대로 들은 적이 없어요.
 
 055. STAN: You were there, more or less. You were thirty. You came over for dinner that night, and your mother made pot roast, and nobody ate it.
@@ -183,7 +183,7 @@
 056. SAM: I remember the pot roast, but I don't remember the day.
     샘: 팟로스트는 기억나요. 근데 그날은 기억이 안 나요.
 
-057. STAN: It was two days before Christmas, two thousand eight, and everybody knew it was coming, because the economy was falling apart and the company was asking Washington for money. But knowing it's coming and seeing it are different things.
+057. STAN: It was two days before Christmas, two thousand eight, and everybody knew it was coming. The economy was falling apart, and the company was asking Washington for money. But knowing it's coming and seeing it are different things.
     스탠: 크리스마스 이틀 전이었다. 2008년. 다들 올 줄 알았어. 경제가 무너지고 회사가 워싱턴에 돈을 달라고 하던 때였으니까. 근데 올 줄 아는 거랑 직접 보는 건 다르더라.
 
 058. SAM: How did they tell you, was there a meeting, or a letter, or what?
@@ -213,13 +213,13 @@
 066. SAM: And you?
     샘: 아버지는요?
 
-067. STAN: I had my pension, because the union fought for it, and that's why I wear the pin, by the way. It's not because I'm stubborn, it's because those people fought for my pension while I was busy putting in seats.
+067. STAN: I had my pension, because the union fought for it, and that's why I wear the pin, by the way. It's not that I'm stubborn. Those people fought for my pension while I was busy putting in seats.
     스탠: 난 연금이 있었지. 노조가 싸워서 얻어 냈으니까. 그래서 이 배지를 다는 거다. 고집 때문이 아니라, 내가 시트 다느라 바쁠 때 그 사람들이 내 연금을 위해 싸워 줬으니까.
 
 068. SAM: I didn't know that was why you wear it. I always thought you were just being stubborn.
     샘: 그래서 그걸 다시는 줄 몰랐어요. 전 늘 그냥 고집 때문인 줄 알았어요.
 
-069. STAN: You never asked, because kids don't ask, and that's fine.
+069. STAN: You never asked. Kids don't ask, and that's fine.
     스탠: 넌 안 물어봤지. 자식들은 원래 안 물어. 괜찮다.
 
 070. SAM: Dad, the woman from Calloway said they'd keep my people for two years, with better benefits and moving help to South Carolina. It sounded nice, and it sounded like a memo with a bow on it.
@@ -237,7 +237,7 @@
 074. SAM: Dad.
     샘: 아버지.
 
-075. STAN: Listen to me, because I'm not telling you to sell, and I'm not telling you not to sell. Twenty-two million dollars could send Lily to any school in the country and pay off your house, and that matters.
+075. STAN: Listen to me. I'm not telling you to sell, and I'm not telling you not to sell. Twenty-two million dollars could send Lily to any school in the country and pay off your house, and that matters.
     스탠: 내 말 들어. 팔라는 것도 아니고 팔지 말라는 것도 아니다. 2,200만 달러면 릴리를 이 나라 어느 학교에든 보낼 수 있고, 네 집 대출도 갚을 수 있어. 그건 중요한 거다.
 
 076. SAM: It does matter, a lot, and that's why I couldn't sleep on Thursday.
@@ -258,10 +258,10 @@
 081. EARL: Morning, and you look like you slept in your truck.
     얼: 좋은 아침. 트럭에서 잔 사람 같네.
 
-082. SAM: I slept about four hours, so okay, everybody, gather around Betsy. Before we talk about what spins today, I need to talk about the Rivet order.
+082. SAM: I slept about four hours. Okay, everybody, gather around Betsy. Before we talk about what spins today, I need to talk about the Rivet order.
     샘: 네 시간쯤 잤어요. 자, 다들 베치 앞으로 모여. 오늘 뭐 돌릴지 얘기하기 전에 리벳 주문 얘기부터 해야 해.
 
-083. TYLER: Finally, because I've been dying since Wednesday.
+083. TYLER: Finally! I've been dying since Wednesday.
     타일러: 드디어요. 수요일부터 궁금해 죽는 줄 알았어요.
 
 084. SAM: Nina's contract came in on Friday, for five thousand hub motors by the end of March, with a thirty percent deposit in mid-January. It's the biggest order we've ever had, and I haven't signed it yet.
@@ -270,7 +270,7 @@
 085. TYLER: Why not, when this is the thing we've been waiting for?
     타일러: 왜요? 우리가 기다리던 게 이거잖아요.
 
-086. SAM: Because before I sign it, I want to hear from the people who would actually have to build it, so Earl, you go first.
+086. SAM: Because before I sign it, I want to hear from the people who would actually have to build it. Earl, you go first.
     샘: 서명하기 전에 실제로 그걸 만들어야 할 사람들 얘기를 듣고 싶어서. 얼, 먼저 해요.
 
 087. EARL: Right now we make about six hundred a month with one shift, and to get five thousand by March, we need about fourteen hundred a month starting in December, which means a second shift.
@@ -285,13 +285,13 @@
 090. TYLER: That last one's you, right, Earl?
     타일러: 마지막 그 사람이 반장님이죠?
 
-091. EARL: That last one is somebody younger than me who I haven't met yet, because I'm sixty-one, and I don't do nights anymore unless the building is on fire.
+091. EARL: That last one is somebody younger than me who I haven't met yet. I'm sixty-one, and I don't do nights anymore unless the building is on fire.
     얼: 마지막 그 사람은 아직 못 만난 나보다 젊은 누군가야. 난 예순하나라 건물에 불난 거 아니면 이제 야간은 안 해.
 
 092. SAM: Can we actually find twelve people by December, in this job market?
     샘: 이런 구인 시장에서 12월까지 열두 명을 진짜 구할 수 있어요?
 
-093. EARL: Honestly, winders are the problem, because anybody can learn assembly in a week. Winding copper by hand, the way we do it for the special rotors, takes months to learn properly, and nobody teaches that anymore.
+093. EARL: Honestly, winders are the problem. Anybody can learn assembly in a week, but winding copper by hand, the way we do it for the special rotors, takes months to learn properly. Nobody teaches that anymore.
     얼: 솔직히 권선공이 문제야. 조립은 누구나 일주일이면 배워. 근데 특수 로터에 하듯이 구리를 손으로 감는 건 제대로 배우려면 몇 달 걸려. 이젠 그걸 가르치는 데도 없고.
 
 094. SAM: Then we'll teach it ourselves.
@@ -309,7 +309,7 @@
 098. SAM: Wen, what about you?
     샘: 웬은요?
 
-099. WEN: The design and the firmware are ready, so the bottleneck is the winding machines. We have two, and one of them is from two thousand eleven and makes a noise like a sick cow.
+099. WEN: The design and the firmware are ready. The bottleneck is the winding machines. We have two, and one of them is from two thousand eleven and makes a noise like a sick cow.
     웬: 설계도 펌웨어도 준비됐어요. 병목은 권선기예요. 두 대 있는데, 한 대는 2011년식이고 아픈 소 같은 소리를 내요.
 
 100. EARL: Her name is Brenda, and she's not sick, she's just old, like me.
@@ -348,22 +348,22 @@
 111. TYLER: Only the lawnmower guy, and in my defense, it was a very professional bar.
     타일러: 잔디깎이 사람만요. 변명하자면, 아주 프로페셔널한 술집이었어요.
 
-112. GLORIA: The pump company is the one I care about, because they pay fast, and fast money keeps the lights on while we build the slow money.
+112. GLORIA: The pump company is the one I care about, because they pay fast. Fast money keeps the lights on while we build the slow money.
     글로리아: 내가 관심 있는 건 펌프 회사야. 돈을 빨리 주거든. 빠른 돈이 있어야 느린 돈 만드는 동안 불을 켜 둘 수 있어.
 
-113. SAM: Okay, Kevin, you've been quiet, and you're our firmware guy, so is there anything I should know?
+113. SAM: Okay, Kevin, you've been quiet, and you're our firmware guy. Is there anything I should know?
     샘: 좋아. 케빈, 조용하네. 펌웨어 담당인데, 내가 알아야 할 거 있어?
 
-114. KEVIN: No, I mean, the code is fine, and Wen's update is solid, so I can handle the testing scripts for the bigger volume.
+114. KEVIN: No, I mean, the code is fine, and Wen's update is solid. I can handle the testing scripts for the bigger volume.
     케빈: 아뇨, 그러니까, 코드는 괜찮아요. 웬 박사님 업데이트도 탄탄하고요. 물량 늘어나는 테스트 스크립트는 제가 맡을 수 있어요.
 
-115. SAM: Good, but are you okay, Kevin, because you look more tired than usual?
+115. SAM: Good. But are you okay, Kevin? You look more tired than usual.
     샘: 좋아. 근데 괜찮아, 케빈? 평소보다 더 피곤해 보여.
 
-116. KEVIN: It's just the kids, because the little one isn't sleeping. Actually, Sam, could I take this Friday off for some family stuff?
+116. KEVIN: It's just the kids. The little one isn't sleeping. Actually, Sam, could I take this Friday off for some family stuff?
     케빈: 그냥 애들 때문에요. 막내가 잠을 안 자서요. 그런데 샘, 이번 금요일에 쉬어도 될까요? 집안일이 좀 있어서요.
 
-117. SAM: Sure, take the day, because family comes first, but just send Wen what she needs.
+117. SAM: Sure, take the day, family comes first. Just send Wen what she needs.
     샘: 그럼, 쉬어. 가족이 먼저지. 웬이 필요한 것만 보내 줘.
 
 118. KEVIN: Thanks.
@@ -378,28 +378,28 @@
 121. SAM: Okay, here's where I am. I went to see my dad yesterday, and we sat outside the old Moraine plant for an hour, with the engine running and a bowl of chili.
     샘: 좋아, 내 생각을 말할게. 어제 아버지 뵈러 갔어. 시동 켜 놓고 칠리 한 그릇 들고 옛 모레인 공장 앞에 한 시간 앉아 있었어.
 
-122. EARL: Stan ate chili in your truck? That man has no fear, so did he spill it?
+122. EARL: Stan ate chili in your truck? That man has no fear. Did he spill it?
     얼: 스탠 형님이 네 트럭에서 칠리를 먹었다고? 그 양반 겁이 없네. 흘렸어?
 
 123. SAM: He did, and he spilled some, and he blamed the truck, but he said something that stuck with me: "Know what you're selling."
     샘: 드셨고, 좀 흘리셨고, 트럭 탓을 하셨지. 근데 마음에 남는 말을 하셨어. "네가 뭘 파는지 알아라."
 
-124. GLORIA: Meaning what, exactly, because your father says a lot of things?
+124. GLORIA: Meaning what, exactly? Your father says a lot of things.
     글로리아: 그게 정확히 무슨 뜻이야? 너희 아버지는 말씀을 많이 하시잖아.
 
-125. SAM: Meaning if I'm going to say no to twenty-two million dollars, I can't then play it safe and hide, because saying no only makes sense if we're going to grow. Otherwise it's just pride.
+125. SAM: Meaning if I'm going to say no to twenty-two million dollars, I can't then play it safe and hide. Saying no only makes sense if we're going to grow. Otherwise it's just pride.
     샘: 2,200만 달러를 거절할 거면, 그다음에 몸 사리고 숨으면 안 된다는 거예요. 거절은 우리가 성장할 때만 말이 돼요. 아니면 그냥 자존심이죠.
 
 126. WEN: So you're going to sign it.
     웬: 그러니까 서명하시겠다는 거군요.
 
-127. SAM: I'm going to sign, because we're going to take the plunge. Earl calls the college, Wen finds us a used winding machine, Tyler closes the pump company this week, and Gloria and I go to the bank.
+127. SAM: I'm going to sign. We're going to take the plunge. Earl calls the college, Wen finds us a used winding machine, Tyler closes the pump company this week, and Gloria and I go to the bank.
     샘: 서명할 거야. 과감하게 뛰어드는 거지. 얼은 칼리지에 전화하고, 웬은 중고 권선기를 찾고, 타일러는 이번 주에 펌프 회사 계약 따내고, 글로리아랑 난 은행에 가.
 
 128. TYLER: Copy that.
     타일러: 접수.
 
-129. GLORIA: Sam, I support you, but you understand that if this goes wrong, it goes wrong for good, because there's no second Calloway offer waiting if we run out of cash in February.
+129. GLORIA: Sam, I support you. But you understand that if this goes wrong, it goes wrong for good. There's no second Calloway offer waiting if we run out of cash in February.
     글로리아: 샘, 난 널 지지해. 근데 이게 잘못되면 영영 잘못되는 거라는 건 알아 둬. 2월에 현금 떨어지면 캘러웨이가 두 번째 제안 들고 기다리고 있진 않아.
 
 130. SAM: I understand, but actually, I think there might be another offer, only it'll be smaller, and meaner.
@@ -408,7 +408,7 @@
 131. EARL: Then let's make sure we don't need it.
     얼: 그럼 그게 필요 없게 하자.
 
-132. SAM: Then let's not need it, okay, so what spins today?
+132. SAM: Then let's not need it. Okay, what spins today?
     샘: 그래요, 필요 없게 하죠. 자, 오늘 뭐 돌리지?
 
 133. EARL: Three hundred motors for the bike shop in Columbus, and Brenda too, if she's in a good mood.
@@ -417,7 +417,7 @@
 134. SAM: Let's see if it spins.
     샘: 일단 돌려 보자.
 
-135. NINA: Sam, tell me something good, because I'm on a subway platform and I have about one bar of signal!
+135. NINA: Sam, tell me something good! I'm on a subway platform and I have about one bar of signal.
     니나: 샘! 좋은 소식 좀 말해 줘요. 지하철 승강장인데 신호가 한 칸밖에 없어요.
 
 136. SAM: I just signed your contract, for five thousand motors by the end of March.
@@ -426,25 +426,25 @@
 137. NINA: Oh my God, Sam, you have no idea how much I needed that.
     니나: 세상에. 세상에, 샘. 그게 얼마나 필요했는지 몰라요.
 
-138. SAM: I have some idea, because we're about to hire twelve people and buy a machine from Germany.
+138. SAM: I have some idea. We're about to hire twelve people and buy a machine from Germany.
     샘: 조금은 알아요. 우리 이제 열두 명 뽑고 독일에서 기계 사야 하거든요.
 
-139. NINA: You should come to Brooklyn and see the shop and meet the riders, because if you're going to build motors for them, you should see how they actually use them.
+139. NINA: You should come to Brooklyn and see the shop and meet the riders. If you're going to build motors for them, you should see how they actually use them.
     니나: 브루클린에 와요. 매장도 보고 라이더들도 만나요. 그 사람들 모터를 만들 거면 실제로 어떻게 쓰는지 봐야죠.
 
-140. SAM: That's a good idea, actually, because I should see it with my own eyes, so how about next week?
+140. SAM: That's a good idea, actually. I should see it with my own eyes, so how about next week?
     샘: 사실 좋은 생각이네요. 제 눈으로 봐야죠. 다음 주 어때요?
 
-141. NINA: Thursday works, and bring good shoes, because my riders work twelve hours a day, and they'll want to see if you can keep up.
+141. NINA: Thursday works. Bring good shoes, because my riders work twelve hours a day, and they'll want to see if you can keep up.
     니나: 목요일이요. 좋은 신발 신고 와요. 우리 라이더들은 하루 열두 시간 일하니까, 당신이 따라올 수 있는지 보고 싶어 할 거예요.
 
-142. SAM: I'll bring Tyler, who used to be in the Army, so he can keep up with anybody.
+142. SAM: I'll bring Tyler. He used to be in the Army, and he can keep up with anybody.
     샘: 타일러 데려갈게요. 군대 출신이라 누구든 따라가요.
 
-143. NINA: Perfect, and oh, Sam, one weird thing. Somebody from a big company called my office on Thursday, asking questions about our motor supplier, so was that you?
+143. NINA: Perfect. Oh, and Sam, one weird thing. Somebody from a big company called my office on Thursday, asking questions about our motor supplier. Was that you?
     니나: 좋아요. 아, 그리고 샘? 이상한 일이 하나 있었어요. 목요일에 어떤 대기업에서 우리 사무실로 전화해서 모터 공급처에 대해 이것저것 묻더라고요. 혹시 당신이었어요?
 
-144. SAM: No, that wasn't me, so which company was it?
+144. SAM: No, that wasn't me. Which company was it?
     샘: 아뇨, 저 아니에요. 어느 회사였어요?
 
 145. NINA: My assistant didn't catch the name, just something with a C, and she said the guy was very polite and very curious.
@@ -456,7 +456,7 @@
 147. NINA: That sounds a little ominous, Sam.
     니나: 좀 불길하게 들리는데요, 샘.
 
-148. SAM: It's probably nothing, probably, so I'll see you Thursday, Nina.
+148. SAM: It's probably nothing. Probably. I'll see you Thursday, Nina.
     샘: 아마 별일 아닐 거예요. 아마도요. 목요일에 봐요, 니나.
 
 149. WEN: It's not nothing.

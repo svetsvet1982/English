@@ -21,7 +21,7 @@
 002. SAM: I saw it last night, hundreds of people and helicopters, and I called Minjun at eleven, but he didn't pick up.
     샘: 어젯밤에 봤어. 사람 수백 명에 헬기까지. 열한 시에 민준한테 전화했는데 안 받더라.
 
-003. TYLER: The news says four hundred and seventy-five people were detained, and more than three hundred of them are Korean, so they're calling it the biggest single raid ever.
+003. TYLER: The news says four hundred and seventy-five people were detained, and more than three hundred of them are Korean. They're calling it the biggest single raid ever.
     타일러: 뉴스에선 475명이 구금됐대요. 그중 300명 넘게 한국인이고요. 단일 단속으로는 역대 최대래요.
 
 004. GLORIA: Does detained mean arrested, like in handcuffs?
@@ -39,7 +39,7 @@
 008. SAM: Minjun, I want your people to stop working today and go to the hotel until the lawyer reviews everything.
     샘: 민준, 오늘은 너희 사람들 일 멈추게 해. 변호사가 다 검토할 때까지 호텔에 가 있어.
 
-009. MINJUN: Sam, I can't stop, because the transformer arrives at ten, and if nobody signs for it, it goes back on the truck to Tennessee, and we wait another month.
+009. MINJUN: Sam, I can't stop. The transformer arrives at ten, and if nobody signs for it, it goes back on the truck to Tennessee, and we wait another month.
     민준: 샘, 못 멈춰. 변압기가 열 시에 와. 아무도 서명 안 하면 트럭 타고 테네시로 돌아가고, 우린 또 한 달 기다려야 해.
 
 010. SAM: Then let Wade sign for it, since he's American, and your guys go to the hotel.
@@ -69,7 +69,7 @@
 018. GLORIA: Sam, what's happening down there?
     글로리아: 샘, 거기 무슨 일이야?
 
-019. SAM: They're at the gate, so everybody be quiet, because I'm listening.
+019. SAM: They're at the gate, so everybody be quiet. I'm listening.
     샘: 정문에 왔대요. 다들 조용히 해요. 듣고 있어요.
 
 020. WEN: Sam, put it on speaker.
@@ -108,13 +108,13 @@
 031. SAM: Okay, okay, I need to think, so Gloria, who do we know in immigration law?
     샘: 좋아, 좋아. 생각 좀 해야겠어요. 글로리아, 우리가 아는 이민법 쪽 사람 있어요?
 
-032. GLORIA: Nobody, because Ben does patents, Doug at the bank does mortgages, and I do math.
+032. GLORIA: Nobody. Ben does patents, Doug at the bank does mortgages, and I do math.
     글로리아: 아무도 없어. 벤은 특허, 은행의 더그는 주택담보대출, 난 계산.
 
 033. WEN: Sam, on Tuesday night you asked Minjun for the visa list, so did he send it?
     웬: 샘, 화요일 밤에 민준 씨한테 비자 명단 달라고 했잖아요. 보냈어요?
 
-034. SAM: He sent it Wednesday, and I forwarded it to Ben, who gave me a name, Hannah Lowe in Atlanta, and I had a call with her scheduled for Monday.
+034. SAM: He sent it Wednesday, and I forwarded it to Ben, who gave me a name, Hannah Lowe in Atlanta. I had a call with her scheduled for Monday.
     샘: 수요일에 보냈어. 벤한테 전달했더니 이름을 하나 줬어. 애틀랜타의 해나 로. 월요일에 통화 잡아 놨었고.
 
 035. WEN: Monday is too late, so call her now, Sam, right now.
@@ -144,31 +144,31 @@
 043. SAM: Yes, six are on B-1 business visas and four are on ESTA, and the manager, Han Min-jun, is on a B-1.
     샘: 네. 여섯 명은 B-1 상용 비자, 네 명은 ESTA예요. 관리자 한민준은 B-1이고요.
 
-044. HANNAH: Send it to me right now. Here's what's going to happen, Mr. Kowalski, which is that they will probably all be detained and taken to a processing center, most likely Folkston, near the Florida line.
+044. HANNAH: Send it to me right now. Here's what's going to happen, Mr. Kowalski. They will probably all be detained and taken to a processing center, most likely Folkston, near the Florida line.
     해나: 지금 바로 보내 주세요. 코왈스키 씨, 앞으로 어떻게 되냐면요, 아마 전원 구금될 거예요. 처리 시설로 옮겨질 거고, 플로리다 경계 근처 포크스턴일 가능성이 제일 커요.
 
 045. SAM: A processing center, so is that a jail?
     샘: 처리 시설이요? 그게 감옥이에요?
 
-046. HANNAH: In plain English, it's a detention facility for immigration cases, and it's not a criminal jail, but it looks like one and it feels like one, with fences, uniforms, and no phones.
+046. HANNAH: In plain English, it's a detention facility for immigration cases. It's not a criminal jail, but it looks like one and it feels like one, with fences, uniforms, and no phones.
     해나: 쉬운 말로, 이민 사건용 구금 시설이에요. 형사 감옥은 아닌데, 생긴 것도 느낌도 감옥 같아요. 철조망, 제복, 전화 없음.
 
 047. WEN: Will they be charged with a crime?
     웬: 범죄로 기소되나요?
 
-048. HANNAH: Probably not, because working without the right visa is usually a civil violation, not a crime, so the question is whether what they were doing fits the scope of work their visa allows.
+048. HANNAH: Probably not. Working without the right visa is usually a civil violation, not a crime, so the question is whether what they were doing fits the scope of work their visa allows.
     해나: 아마 아닐 거예요. 맞지 않는 비자로 일하는 건 보통 범죄가 아니라 행정 위반이거든요. 문제는 그 사람들이 하던 일이 비자가 허용하는 업무 범위에 맞느냐예요.
 
 049. SAM: What do you mean by scope of work?
     샘: 업무 범위가 무슨 뜻이에요?
 
-050. HANNAH: I mean what exactly they were doing with their hands, because a B-1 lets you install equipment your company sold, in some cases, and train people, but it doesn't let you build the building, and ESTA is even narrower, meetings, not work.
+050. HANNAH: I mean what exactly they were doing with their hands. A B-1 lets you install equipment your company sold, in some cases, and train people, but it doesn't let you build the building. ESTA is even narrower, meetings, not work.
     해나: 정확히 손으로 뭘 하고 있었냐는 거예요. B-1은 경우에 따라 자기 회사가 판 장비를 설치하고 사람을 교육하는 건 되지만, 건물을 짓는 건 안 돼요. ESTA는 더 좁아요. 회의는 되고, 일은 안 돼요.
 
 051. WEN: They were installing the press, their own company's press, and Mr. Oh doesn't build buildings, he builds presses.
     웬: 그 사람들은 프레스를 설치하고 있었어요. 자기 회사 프레스요. 오 기사님은 건물 안 지어요. 프레스를 짓죠.
 
-052. HANNAH: Good, that helps, so write that down, and get me contracts, invoices for the press, and anything showing what they were hired to do, because I'll need all of it by tonight.
+052. HANNAH: Good, that helps, so write that down, and get me contracts, invoices for the press, and anything showing what they were hired to do. I'll need all of it by tonight.
     해나: 좋아요, 도움이 돼요. 적어 두세요. 계약서, 프레스 송장, 무슨 일로 고용됐는지 보여 주는 건 뭐든지요. 오늘 밤까지 전부 필요해요.
 
 053. SAM: What can you do for them right now?
@@ -180,7 +180,7 @@
 055. GLORIA: Due process, meaning what, exactly, for these ten men?
     글로리아: 적법 절차라면, 그 열 명한테는 정확히 무슨 의미예요?
 
-056. HANNAH: Meaning the government has to follow the rules too, even when it's angry, so everybody gets a fair process, a hearing, and an interpreter, citizen or not.
+056. HANNAH: Meaning the government has to follow the rules too, even when it's angry. Everybody gets a fair process, a hearing, and an interpreter, citizen or not.
     해나: 정부도 화가 났을 때조차 규칙을 지켜야 한다는 뜻이에요. 시민이든 아니든 모두 공정한 절차와 심리, 통역을 받아요.
 
 057. SAM: How much is this going to cost?
@@ -198,13 +198,13 @@
 061. GLORIA: I heard the number, and I'm not a monster, Sam.
     글로리아: 금액 들었어. 나 괴물 아니야, 샘.
 
-062. HANNAH: There's one more call you need to make, to the Korean consulate in Atlanta, because they'll send consular officers to Folkston, who can visit, check that people are okay, and talk to their families.
+062. HANNAH: There's one more call you need to make, to the Korean consulate in Atlanta. They'll send consular officers to Folkston, who can visit, check that people are okay, and talk to their families.
     해나: 전화 한 통 더 하셔야 해요. 애틀랜타 한국 영사관이요. 포크스턴에 영사를 보낼 거예요. 면회하고, 다들 괜찮은지 확인하고, 가족들이랑 얘기할 수 있어요.
 
 063. SAM: The consulate, okay, thank you, Ms. Lowe.
     샘: 영사관, 알겠습니다. 감사합니다, 로 변호사님.
 
-064. HANNAH: Call me Hannah, because we're going to be talking a lot.
+064. HANNAH: Call me Hannah. We're going to be talking a lot.
     해나: 해나라고 부르세요. 앞으로 통화 많이 할 테니까요.
 
 065. WADE: Sam, it's Wade, and I'm sorry, I'm so sorry.
@@ -219,7 +219,7 @@
 068. SAM: Zip ties, on men who came here to install a machine.
     샘: 케이블 타이라니. 기계 설치하러 온 사람들한테.
 
-069. WADE: They let me keep working after I showed my license, because I was born in Statesboro fifty-nine years ago, and they didn't even look at my face.
+069. WADE: They let me keep working after I showed my license. I was born in Statesboro fifty-nine years ago, and they didn't even look at my face.
     웨이드: 난 면허증 보여 주니까 계속 일하라더군. 스테이츠버러에서 태어나 59년 살았소. 내 얼굴은 쳐다보지도 않더이다.
 
 070. WEN: Wade, where are Minjun's laptop and the documents in the office?
@@ -246,7 +246,7 @@
 077. SAM: Consul Yoon, my name is Sam Kowalski, the American partner of Daesung Precision in Georgia, and ten of their employees were just detained, including the manager, Han Min-jun.
     샘: 윤 영사님, 저는 샘 코왈스키입니다. 조지아에서 대성정밀의 미국 측 파트너예요. 방금 대성 직원 열 명이 구금됐어요. 관리자 한민준 씨도요.
 
-078. YOON: Mr. Kowalski, thank you for calling. We have more than three hundred Korean citizens from yesterday, and now ten more, so please send me the names and passport numbers, and we'll add them to our list.
+078. YOON: Mr. Kowalski, thank you for calling. We have more than three hundred Korean citizens from yesterday, and now ten more. Please send me the names and passport numbers, and we'll add them to our list.
     윤: 코왈스키 씨, 연락 주셔서 감사합니다. 어제부터 한국 국민이 300명 넘게 있는데, 이제 열 명이 더 늘었네요. 이름과 여권 번호를 보내 주시면 명단에 추가하겠습니다.
 
 079. SAM: Will someone see them today?
@@ -255,19 +255,19 @@
 080. YOON: Our team is driving to Folkston now, and Seoul is speaking with Washington at a very high level, but I can't promise more than that. Still, they are not alone, so please tell their company that.
     윤: 저희 팀이 지금 포크스턴으로 가고 있습니다. 서울이 워싱턴과 아주 높은 급에서 얘기하고 있고요. 그 이상은 약속드릴 수 없지만, 그분들은 혼자가 아닙니다. 회사에도 그렇게 전해 주세요.
 
-081. EARL: Turn it off, Tyler, because we've seen enough helicopters for one day.
+081. EARL: Turn it off, Tyler. We've seen enough helicopters for one day.
     얼: 꺼라, 타일러. 헬기는 하루치로 충분히 봤다.
 
 082. TYLER: They keep showing the same video of the guys in a line with chains around their waists, and it's hard to watch.
     타일러: 똑같은 영상만 계속 틀어요. 허리에 쇠사슬 찬 사람들이 줄 서 있는 거요. 보기 힘들어요.
 
-083. JAYDEN: My uncle says good, because if you work here without papers, you should go home, and it's not fair to people who wait in line.
+083. JAYDEN: My uncle says good. If you work here without papers, you should go home, and it's not fair to people who wait in line.
     제이든: 우리 삼촌은 잘됐대요. 서류 없이 여기서 일하면 집에 가야 한다고요. 줄 서서 기다리는 사람들한테 불공평하대요.
 
-084. DARNELL: That's not crazy, Jayden, because my brother's wife is from the Philippines, and they waited six years for her green card, with lawyers and fees, so they did it the right way.
+084. DARNELL: That's not crazy, Jayden. My brother's wife is from the Philippines, and they waited six years for her green card, with lawyers and fees. They did it the right way.
     대넬: 그게 이상한 말은 아니야, 제이든. 우리 형수가 필리핀 사람인데, 영주권 받는 데 6년 걸렸어. 변호사에 수수료에. 제대로 된 방법으로 한 거지.
 
-085. PATTY: But Minjun's people aren't sneaking across a border, because they came on a plane with passports to install a machine that nobody in America knows how to install, and that's different.
+085. PATTY: But Minjun's people aren't sneaking across a border. They came on a plane with passports to install a machine that nobody in America knows how to install, and that's different.
     패티: 근데 민준 씨 사람들은 국경을 몰래 넘은 게 아니잖아. 여권 들고 비행기 타고 와서, 미국에선 아무도 설치할 줄 모르는 기계를 설치하러 온 거야. 그건 다르지.
 
 086. JAYDEN: Is it, though, when the news said they were on the wrong visa?
@@ -276,7 +276,7 @@
 087. PATTY: The news also said they were in chains for installing a press. Honey, I've seen people arrested for less, but I've never seen chains for a wrench.
     패티: 뉴스는 그 사람들이 프레스 설치하다 쇠사슬 찼다고도 했지. 얘, 더 사소한 걸로 잡혀가는 사람도 봤지만, 렌치 들었다고 쇠사슬 차는 건 처음 봐.
 
-088. EARL: I'll say something nobody's going to like, which is that both of you are right.
+088. EARL: I'll say something nobody's going to like. Both of you are right.
     얼: 아무도 안 좋아할 말 하나 하마. 너희 둘 다 맞아.
 
 089. TYLER: Earl, that's what Gloria always says.
@@ -288,7 +288,7 @@
 091. DARNELL: So the rules don't match the invitation.
     대넬: 규칙이 초대장이랑 안 맞는 거네요.
 
-092. EARL: That's exactly it, because it's like inviting a guy to fix your roof and then calling the cops because he's on a ladder.
+092. EARL: That's exactly it. It's like inviting a guy to fix your roof and then calling the cops because he's on a ladder.
     얼: 바로 그거야. 지붕 고치라고 사람 불러 놓고 사다리에 올라갔다고 경찰 부르는 거랑 같아.
 
 093. JAYDEN: My uncle would say, then get the right visa first.
@@ -300,7 +300,7 @@
 095. PATTY: I'll bring cookies, two kinds.
     패티: 쿠키 가져갈게. 두 종류로.
 
-096. TYLER: What I don't get is the timing, because those plants were announced years ago, and everybody knew Korean crews were installing everything, so why now?
+096. TYLER: What I don't get is the timing. Those plants were announced years ago, and everybody knew Korean crews were installing everything, so why now?
     타일러: 제가 이해 안 되는 건 타이밍이에요. 그 공장들은 몇 년 전에 발표됐고, 한국 작업반이 다 설치한다는 거 다들 알았잖아요. 왜 지금이에요?
 
 097. DARNELL: Because the rules changed, or the people enforcing them changed, with a different administration and different priorities.
@@ -309,10 +309,10 @@
 098. JAYDEN: My uncle voted for this, and he says this is what he voted for.
     제이든: 우리 삼촌은 이거 찍었어요. 이러라고 찍은 거래요.
 
-099. PATTY: And my sister voted for it too, and she's sick about it, because she said, "I wanted them to stop the cartels, not a guy with a wrench."
+099. PATTY: And my sister voted for it too, and she's sick about it. She said, "I wanted them to stop the cartels, not a guy with a wrench."
     패티: 우리 언니도 찍었는데 속상해서 죽으려고 해. '난 마약 카르텔을 막으라고 했지, 렌치 든 사람을 막으라고 한 게 아니야'라더라.
 
-100. EARL: That's the thing about votes, because you vote for a direction, but you don't get to pick every turn.
+100. EARL: That's the thing about votes. You vote for a direction, but you don't get to pick every turn.
     얼: 투표라는 게 그래. 방향에 표를 주는 거지, 모퉁이 하나하나를 고르는 게 아니야.
 
 101. GLORIA: Okay, everybody, lunch is over, and I have one thing to say, and then we go back to work.
@@ -321,7 +321,7 @@
 102. TYLER: Is it going to be "both of you are right"?
     타일러: '둘 다 맞다'예요?
 
-103. GLORIA: No, smart mouth, it's this. Minjun is our partner and his people are our partners, so whatever you think about the law, those ten men are sitting somewhere tonight, scared, and their families in Korea are watching the same video you are.
+103. GLORIA: No, smart mouth, it's this. Minjun is our partner, and his people are our partners. Whatever you think about the law, those ten men are sitting somewhere tonight, scared, and their families in Korea are watching the same video you are.
     글로리아: 아니, 이 말대꾸쟁이야. 이거야. 민준은 우리 파트너고, 그 사람들도 우리 파트너야. 법에 대해 어떻게 생각하든, 그 열 명은 오늘 밤 어딘가에 겁먹은 채 앉아 있고, 한국에 있는 가족들은 너희랑 똑같은 영상을 보고 있어.
 
 104. JAYDEN: I didn't think about that, about their families, I mean.
@@ -339,13 +339,13 @@
 108. SAM: Wen, you're awfully quiet.
     샘: 웬, 유난히 조용하네요.
 
-109. WEN: I was thinking about the B-1, because Minjun had the right visa for a manager, and Mr. Oh had a B-1 too, and still they didn't ask what he was doing, they just took everybody.
+109. WEN: I was thinking about the B-1. Minjun had the right visa for a manager, and Mr. Oh had a B-1 too. And still, they didn't ask what he was doing. They just took everybody.
     웬: B-1 생각하고 있었어요. 민준 씨는 관리자로서 맞는 비자였고, 오 기사님도 B-1이었어요. 그런데도 뭘 하고 있었는지 묻지도 않고 그냥 전부 데려갔잖아요.
 
 110. SAM: Hannah says they'll sort it out at the processing center.
     샘: 해나가 처리 시설에서 가려낼 거래요.
 
-111. WEN: That's how it works, because first everybody goes in, and then the paperwork decides who comes out, and I know that system, since I've been on the paperwork side for seventeen years.
+111. WEN: That's how it works. First everybody goes in, and then the paperwork decides who comes out. I know that system, because I've been on the paperwork side for seventeen years.
     웬: 원래 그렇게 돌아가요. 먼저 다 집어넣고, 그다음에 서류가 누가 나올지 정해요. 그 시스템 알아요. 17년 동안 서류 쪽에 있었으니까요.
 
 112. SAM: Are you okay, Wen, honestly?
@@ -375,13 +375,13 @@
 120. GLORIA: Smart woman. Wen, are you going with him?
     글로리아: 똑똑한 여자야. 웬, 너도 같이 가?
 
-121. WEN: Hannah said it's better if I don't, because a Chinese engineer showing up at an immigration center the week after a reporter asked about my passport would be bad, so she said, "Let's not give anybody a picture."
+121. WEN: Hannah said it's better if I don't. A Chinese engineer showing up at an immigration center the week after a reporter asked about my passport would be bad, so she said, "Let's not give anybody a picture."
     웬: 해나가 안 가는 게 낫대요. 기자가 제 여권 얘기를 꺼낸 바로 다음 주에 중국인 엔지니어가 이민 시설에 나타나면 안 좋다고요. '아무한테도 그림을 주지 말자'고 했어요.
 
 122. SAM: She's right, and I hate that she's right.
     샘: 맞는 말이네요. 맞는 말이라서 싫어요.
 
-123. WEN: Me too. Take this, because it's from Jihoon's girlfriend, who found my email somehow, and she wants him to know she's waiting.
+123. WEN: Me too. Take this. It's from Jihoon's girlfriend, who found my email somehow, and she wants him to know she's waiting.
     웬: 저도요. 이거 가져가세요. 지훈 씨 여자친구가 보낸 거예요. 어떻게 제 이메일을 찾았더라고요. 기다리고 있다는 걸 알려 주고 싶대요.
 
 124. SAM: I'll get it to him, somehow.
@@ -390,7 +390,7 @@
 125. EARL: And this is from the floor, and Jayden wrote one too, so don't tell his uncle.
     얼: 이건 현장에서 보낸 거다. 제이든도 하나 썼어. 걔 삼촌한텐 말하지 마.
 
-126. SAM: Ladies and gentlemen, this is your captain, and we're about forty minutes out of Atlanta. Sorry, just kidding, but that's what I'd say if I were flying this thing, because I'd tell everybody it's going to be fine.
+126. SAM: Ladies and gentlemen, this is your captain, and we're about forty minutes out of Atlanta. Sorry, just kidding, but that's what I'd say if I were flying this thing. I'd tell everybody it's going to be fine.
     샘: 승객 여러분, 기장입니다. 애틀랜타까지 40분 남았습니다. 미안, 농담이야. 내가 이 비행기를 몬다면 그렇게 말할 거라고. 다들 괜찮을 거라고 말해 줄 거야.
 
 127. ERIN: You're talking to yourself again, on the phone, with me.
@@ -405,13 +405,13 @@
 130. SAM: I keep hearing Mr. Oh's voice saying "gwaenchana," because he was telling the young guys it's okay while he was getting zip-tied, and he's fifty-four, Erin.
     샘: 오 기사님 목소리가 계속 들려. '괜찮아.' 자기가 케이블 타이에 묶이면서 젊은 친구들한테 괜찮다고 하셨대. 쉰네 살이야, 에린.
 
-131. ERIN: At the hospital, the older patients always do that, because they comfort the young ones, even when they're the ones who are hurt.
+131. ERIN: At the hospital, the older patients always do that. They comfort the young ones, even when they're the ones who are hurt.
     에린: 병원에서도 나이 든 환자들이 늘 그래. 자기가 다친 사람인데도 젊은 사람들을 달래 줘.
 
 132. SAM: What am I supposed to do when I get there, when I'm a motor guy who doesn't know anything about immigration?
     샘: 거기 가서 난 뭘 해야 돼? 난 모터 하는 사람이고 이민은 하나도 모르는데.
 
-133. ERIN: You don't have to know anything, because Hannah knows. Your job is to show up and be the American guy in the waiting room who says, "These men are with me."
+133. ERIN: You don't have to know anything. Hannah knows. Your job is to show up and be the American guy in the waiting room who says, "These men are with me."
     에린: 아무것도 몰라도 돼. 해나가 알잖아. 당신 일은 그 자리에 가는 거야. 대기실에서 '이 사람들은 나랑 같이 왔습니다'라고 말하는 미국 사람이 돼 주는 거.
 
 134. SAM: That's really all?
@@ -435,7 +435,7 @@
 140. SAM: Hannah, I just landed in Atlanta, so is there any news?
     샘: 해나, 방금 애틀랜타 도착했어요. 소식 있어요?
 
-141. HANNAH: Some, because they're all at Folkston, all ten, and they've been processed. The consulate saw Mr. Han at five o'clock, and he's okay, just tired, and he asked about you.
+141. HANNAH: Some. They're all at Folkston, all ten, and they've been processed. The consulate saw Mr. Han at five o'clock, and he's okay, just tired, and he asked about you.
     해나: 조금요. 열 명 다 포크스턴에 있고, 처리 절차를 마쳤어요. 영사관이 다섯 시에 한 팀장님을 만났는데, 괜찮대요. 피곤할 뿐이고요. 샘 씨 안부를 물었대요.
 
 142. SAM: What did he say, and did he say anything about the others?
@@ -453,7 +453,7 @@
 146. SAM: Voluntary departure, meaning they just go home?
     샘: 자진 출국이요? 그냥 집에 간다는 거예요?
 
-147. HANNAH: Meaning they leave the country on their own, without a deportation order on their record, which is faster and might be the best option, but it means the press doesn't get installed, and coming back gets harder.
+147. HANNAH: Meaning they leave the country on their own, without a deportation order on their record. It's faster, and it might be the best option, but it means the press doesn't get installed, and coming back gets harder.
     해나: 기록에 추방 명령을 남기지 않고 스스로 출국한다는 뜻이에요. 더 빠르고, 최선일 수도 있어요. 대신 프레스는 설치 못 하고, 다시 들어오기도 어려워져요.
 
 148. SAM: And what does Minjun want?

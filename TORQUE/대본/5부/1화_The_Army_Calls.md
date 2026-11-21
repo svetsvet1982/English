@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. TYLER: Did you hear? They signed it last night, so after forty-three days the government's finally open again.
+001. TYLER: Did you hear? They signed it last night. After forty-three days, the government's finally open again.
     타일러: 들으셨어요? 어젯밤에 서명해서, 43일 만에 정부가 드디어 다시 문 열었어요.
 
 002. EARL: Forty-three days, and my cousin, who's a TSA guy at the airport, worked the whole time for zero dollars. He's gonna get paid in one big lump, and his wife already spent it.
@@ -27,10 +27,10 @@
 004. SAM: Morning, everybody, gather around Betsy. Yes, the shutdown's over, and no, I don't know who won. All I know is that the SBA answers the phone again.
     샘: 다들 좋은 아침, 베치 앞으로 모여. 그래, 셧다운 끝났어. 누가 이겼는지는 나도 몰라. 내가 아는 건 중소기업청이 다시 전화를 받는다는 것뿐이야.
 
-005. GLORIA: And the ITC too, because Ben says our case is moving again, although slowly, like a turtle with a cold.
+005. GLORIA: And the ITC too. Ben says our case is moving again, slowly, like a turtle with a cold.
     글로리아: 그리고 ITC도. 벤 말로는 우리 사건이 다시 움직인대. 감기 걸린 거북이처럼 천천히긴 하지만.
 
-006. SAM: A moving turtle is better than a parked one, so okay. What spins today?
+006. SAM: A moving turtle is better than a parked one. Okay, what spins today?
     샘: 움직이는 거북이가 서 있는 거북이보단 낫죠. 좋아요. 오늘 뭐 돌리지?
 
 007. EARL: Four hundred cooling pumps for Atlas, which is a smaller order than last month, because, you know.
@@ -51,10 +51,10 @@
 012. TYLER: Sam, sorry, it's almost nine, and the Army lady, Ms. Linda Farrow, is going to be on the screen in ten minutes.
     타일러: 샘, 죄송한데 곧 아홉 시예요. 육군 그분, 린다 패로 씨가 10분 뒤에 화면에 들어오세요.
 
-013. SAM: The Army lady, okay. Wen, Gloria, Tyler, I want you in the conference room, and Earl, you too, because if she asks how fast we can build something, I want the guy who actually builds it in the room.
+013. SAM: The Army lady, okay. Wen, Gloria, Tyler, I want you in the conference room, and Earl, you too. If she asks how fast we can build something, I want the guy who actually builds it in the room.
     샘: 육군 그분, 좋아. 웬, 글로리아, 타일러는 회의실로. 얼, 형님도요. 그분이 뭘 얼마나 빨리 만들 수 있냐고 물으면, 실제로 만드는 사람이 그 방에 있었으면 해요.
 
-014. EARL: I don't do video calls, Sam, because my face isn't built for HD.
+014. EARL: I don't do video calls, Sam. My face isn't built for HD.
     얼: 난 화상통화 안 해, 샘. 내 얼굴은 고화질용이 아니거든.
 
 015. SAM: Then sit behind the camera and just listen.
@@ -72,31 +72,31 @@
 019. EARL: I'm Earl, from production, and I'm not here.
     얼: 난 생산 맡은 얼이고, 여기 없는 사람이야.
 
-020. LINDA: Noted. Mr. Kowalski, I'll be direct, because I lost forty-three days and I'd like some of them back. I emailed you on October thirtieth, and then the lights went out.
+020. LINDA: Noted. Mr. Kowalski, I'll be direct. I lost forty-three days, and I'd like some of them back. I emailed you on October thirtieth, and then the lights went out.
     린다: 기록했습니다. 코왈스키 씨, 직설적으로 말씀드릴게요. 43일을 잃어서 좀 돌려받고 싶거든요. 10월 30일에 이메일을 보냈는데, 그 뒤로 불이 꺼졌죠.
 
 021. SAM: We got it, and honestly, we've read it about fifty times.
     샘: 받았어요. 솔직히 한 쉰 번은 읽었어요.
 
-022. LINDA: Then you know the basics, which is that the Army is buying a lot of small drones, and most of their motors come from one country.
+022. LINDA: Then you know the basics. The Army is buying a lot of small drones, and most of their motors come from one country.
     린다: 그럼 기본은 아시겠네요. 육군이 소형 드론을 많이 사는데, 그 모터 대부분이 한 나라에서 온다는 거요.
 
 023. WEN: And the magnets inside them come from the same country.
     웬: 그리고 그 안의 자석도 같은 나라에서 오죠.
 
-024. LINDA: Correct, Dr. Liu, which is a problem when that country is the one you're worried about. I've read your test data, and I have to ask, does your motor really not use rare earths at all?
+024. LINDA: Correct, Dr. Liu. That's a problem when that country is the one you're worried about. I've read your test data, and I have to ask. Does your motor really not use rare earths at all?
     린다: 맞습니다, 리우 박사님. 그 나라가 바로 걱정하는 나라라면 문제죠. 시험 데이터를 읽었는데, 여쭤봐야겠네요. 정말 희토류를 전혀 안 쓰나요?
 
-025. WEN: Not a gram, because we use ferrite magnets, our own rotor design, and our own control firmware, and it's the firmware that makes up most of the difference.
+025. WEN: Not a gram. We use ferrite magnets, our own rotor design and our own control firmware, and it's the firmware that makes up most of the difference.
     웬: 1그램도 안 씁니다. 페라이트 자석, 자체 회전자 설계, 자체 제어 펌웨어를 쓰는데, 차이의 대부분은 펌웨어가 메웁니다.
 
-026. LINDA: Most of the difference, you said, which means not all of it.
+026. LINDA: Most of the difference, you said. That means not all of it.
     린다: 대부분이라고 하셨죠. 전부는 아니라는 뜻이고요.
 
 027. WEN: Physics doesn't negotiate, Ms. Farrow. Our motor is a little heavier, but it doesn't stop working when someone on the other side of the world signs a new export rule.
     웬: 물리학은 협상 안 해요, 패로 씨. 저희 모터가 조금 더 무겁긴 하지만, 지구 반대편 누군가가 새 수출 규정에 서명한다고 멈추진 않아요.
 
-028. LINDA: That's the sentence that got you this meeting, so here's what I need. I want two thousand motors for a small quadcopter, the kind a soldier carries in a backpack, delivered and tested in ninety days.
+028. LINDA: That's the sentence that got you this meeting. Here's what I need. I want two thousand motors for a small quadcopter, the kind a soldier carries in a backpack, delivered and tested in ninety days.
     린다: 그 문장 덕분에 이 회의가 잡힌 겁니다. 그래서 제가 필요한 건 이래요. 병사가 배낭에 넣고 다니는 소형 쿼드콥터용 모터 2,000개를, 90일 안에 납품하고 시험까지 끝내는 겁니다.
 
 029. SAM: Ninety days from when?
@@ -120,7 +120,7 @@
 035. TYLER: Yes, ma'am, for four years, and I've crashed more of these things than I want to admit.
     타일러: 네, 4년 했습니다. 인정하고 싶지 않을 만큼 많이 추락시켜 봤어요.
 
-036. LINDA: Then you know why I don't want them fragile. Mr. Kowalski, I have one more question before we talk money, which is how many foreign persons work at your company?
+036. LINDA: Then you know why I don't want them fragile. Mr. Kowalski, I have one more question before we talk money. How many foreign persons work at your company?
     린다: 그럼 왜 약하면 안 되는지 아시겠네요. 코왈스키 씨, 돈 얘기 전에 하나만 더요. 회사에 외국인이 몇 명이나 일하나요?
 
 037. SAM: Foreign persons, I'd have to check, but we have, uh, a few people who aren't citizens. Why does that matter for motors?
@@ -132,16 +132,16 @@
 039. GLORIA: Ms. Farrow, before we go any further, I have to ask what kind of contract this is, because the government contracts I've seen come with a phone book of rules.
     글로리아: 패로 씨, 더 나가기 전에 이게 어떤 계약인지 물어봐야겠어. 내가 본 정부 계약은 전화번호부만 한 규정이 딸려 오거든.
 
-040. LINDA: This one is different, because it's what we call an other transaction agreement, or an OTA.
+040. LINDA: This one is different. It's what we call an other transaction agreement, or an OTA.
     린다: 이건 다릅니다. 기타 거래 협약, OTA라고 부르는 거예요.
 
 041. GLORIA: "Other transaction." That sounds like the drawer in my kitchen where I put everything that doesn't fit anywhere else.
     글로리아: '기타 거래'요. 우리 부엌 서랍 같은 소리네요. 아무 데도 안 맞는 걸 다 넣어 두는 서랍.
 
-042. LINDA: That's not a bad description. In plain English, a normal defense contract follows thousands of pages of federal rules, and an OTA doesn't follow most of them, because Congress made it for prototypes so we can work with small, fast companies like yours.
+042. LINDA: That's not a bad description. In plain English, a normal defense contract follows thousands of pages of federal rules, and an OTA doesn't follow most of them. Congress made it for prototypes, so we can work with small, fast companies like yours.
     린다: 나쁘지 않은 설명이네요. 쉽게 말하면, 일반 국방 계약은 수천 쪽의 연방 규정을 따르는데 OTA는 대부분 안 따라요. 의회가 시제품용으로 만든 거라, 이런 작고 빠른 회사와 일할 수 있게요.
 
-043. SAM: Prototype, so what you're saying is that these two thousand motors are a test.
+043. SAM: Prototype. So what you're saying is that these two thousand motors are a test.
     샘: 시제품이라. 그러니까 이 2,000개는 시험이라는 거네요.
 
 044. LINDA: These two thousand motors are a prototype. If they work, there's something called follow-on production. That means I can give you a production contract without starting a whole new competition.
@@ -159,7 +159,7 @@
 048. LINDA: I thought you weren't here, Earl.
     린다: 여기 안 계신다면서요, 얼.
 
-049. EARL: I'm not, so that must have been the wind.
+049. EARL: I'm not here. That must have been the wind outside.
     얼: 없어. 그건 바람 소리였을 거야.
 
 050. GLORIA: What's the value of the prototype agreement, roughly?
@@ -183,7 +183,7 @@
 056. SAM: You'll get a lot of things in writing from us.
     샘: 저희한테서 서면으로 많이 받으실 거예요.
 
-057. LINDA: Good, because in my job, if it's not in writing, it didn't happen. You can say "Yes, ma'am" on this call all you want, but until I see it on paper, it's just weather.
+057. LINDA: Good. In my job, if it's not in writing, it didn't happen. You can say "Yes, ma'am" on this call all you want, but until I see it on paper, it's just weather.
     린다: 좋아요. 제 일에서는 서면에 없으면 없었던 일이거든요. 이 통화에서 "네, 알겠습니다"를 아무리 해도, 종이로 보기 전까진 그냥 날씨 얘기예요.
 
 058. TYLER: Copy that.
@@ -210,10 +210,10 @@
 065. LINDA: I can't tell you that. But I can tell you I've read about your lawsuit, and I don't care about it. I care about motors.
     린다: 그건 말씀 못 드려요. 하지만 귀사 소송 기사를 읽었다는 것, 그리고 그건 관심 없다는 건 말씀드릴 수 있어요. 제 관심은 모터예요.
 
-066. SAM: That's refreshing, because most people only want to talk about the lawsuit.
+066. SAM: That's refreshing. Most people only want to talk about the lawsuit.
     샘: 신선하네요. 다들 소송 얘기만 하고 싶어 하거든요.
 
-067. LINDA: Most people aren't trying to get drones to a unit by spring. So here's the deadline, which is that I want your written proposal by next Wednesday, the nineteenth, with a price, a schedule, and a test plan.
+067. LINDA: Most people aren't trying to get drones to a unit by spring. So here's the deadline. I want your written proposal by next Wednesday, the nineteenth, with a price, a schedule, and a test plan.
     린다: 다들 봄까지 부대에 드론을 보내려는 건 아니니까요. 마감은 이렇습니다. 다음 주 수요일, 19일까지 서면 제안서를 주세요. 가격, 일정, 시험 계획 포함해서요.
 
 068. GLORIA: That gives us six days.
@@ -240,7 +240,7 @@
 075. WEN: Ferrite magnets actually get a little stronger in the cold, so the hot end is the hard part, and we'll need to test it.
     웬: 페라이트 자석은 사실 추울 때 조금 더 강해져요. 어려운 건 고온 쪽이라, 시험해 봐야 합니다.
 
-076. LINDA: Good answer, because people who say "no problem" make me very nervous, Dr. Liu.
+076. LINDA: Good answer. People who say "no problem" make me very nervous, Dr. Liu.
     린다: 좋은 대답이에요. "문제없다"고 하는 사람들은 절 아주 불안하게 하거든요, 리우 박사님.
 
 077. SAM: Then you're going to love Wen. She has never said "no problem" in her life.
@@ -249,10 +249,10 @@
 078. WEN: Because there is always a problem.
     웬: 문제는 늘 있으니까요.
 
-079. LINDA: I like her already. Mr. Kowalski, one last thing, which is that you're about to find out how the government works. It will feel slow, and it will feel like we don't trust you, and we don't, not yet, because that's my job.
+079. LINDA: I like her already. Mr. Kowalski, one last thing. You're about to find out how the government works. It will feel slow, and it will feel like we don't trust you. We don't, not yet. That's my job.
     린다: 벌써 마음에 드네요. 코왈스키 씨, 마지막으로, 이제 정부가 어떻게 돌아가는지 알게 되실 거예요. 느리게 느껴질 거고, 저희가 못 믿는 것처럼 느껴질 텐데, 실제로 아직은 안 믿어요. 그게 제 일이니까요.
 
-080. SAM: That's fair enough, so how do we earn it?
+080. SAM: That's fair enough. So how do we earn it, then?
     샘: 그럴 만하죠. 그럼 신뢰는 어떻게 얻나요?
 
 081. LINDA: Deliver on the date, answer my emails the same day, and never, ever surprise me.
@@ -288,7 +288,7 @@
 091. WEN: She said it may matter a lot. When the government says "may," I've learned to listen.
     웬: 아주 클 수도 있다고 했죠. 정부가 '~일 수도'라고 하면 잘 들어야 한다는 걸 배웠어요.
 
-092. SAM: We'll read the security email together when it comes, twice, like she said. Right now I want to know one thing, which is whether we can build two thousand of these by February.
+092. SAM: We'll read the security email together when it comes, twice, like she said. Right now I want to know one thing. Can we build two thousand of these by February?
     샘: 보안 이메일 오면 같이 읽자. 그분 말대로 두 번. 지금 내가 알고 싶은 건 하나야. 2월까지 이걸 2,000개 만들 수 있어?
 
 093. EARL: That depends on how big the motor is.
@@ -300,7 +300,7 @@
 095. EARL: A hockey puck, huh? We've never made anything that small.
     얼: 하키 퍽이라고? 우린 그렇게 작은 건 만들어 본 적 없어.
 
-096. WEN: We made the prototype for the e-bike sensor last year, which was even smaller, and it used the same rotor idea, scaled down.
+096. WEN: We made the prototype for the e-bike sensor last year, and it was even smaller. It used the same rotor idea, scaled down.
     웬: 작년에 전기자전거 센서용 시제품 만들었잖아요. 그게 더 작았어요. 같은 회전자 아이디어를 축소한 거고요.
 
 097. EARL: That was one prototype, on a Saturday, with Wen holding her breath, and that's not a line, that's a science fair.
@@ -351,10 +351,10 @@
 112. SAM: Atlas is cutting their order anyway, and the truce made sure of that.
     샘: 아틀라스는 어차피 주문 줄이고 있잖아요. 휴전 때문에 확실해졌고요.
 
-113. GLORIA: That's exactly my point, Sam. Everybody wanted us when China closed the door, and then when China opened it a crack, half of them walked right back through it, so the Army could do the same thing next year.
+113. GLORIA: That's exactly my point, Sam. Everybody wanted us when China closed the door. Then China opened it a crack, and half of them walked right back through it. The Army could do the same thing next year.
     글로리아: 내 말이 바로 그거야, 샘. 중국이 문 닫았을 땐 다들 우릴 원했어. 그러다 중국이 문을 살짝 여니까 절반이 바로 그리로 돌아갔지. 육군도 내년에 똑같이 할 수 있어.
 
-114. WEN: I don't think so, because the Army isn't buying our motor because it's cheaper. It's buying it because it can't trust the other one, and a truce doesn't change that.
+114. WEN: I don't think so. The Army isn't buying our motor because it's cheaper. It's buying it because it can't trust the other one, and a truce doesn't change that.
     웬: 전 아니라고 봐요. 육군은 싸서 우리 모터를 사는 게 아니에요. 다른 걸 못 믿어서 사는 거고, 휴전이 그걸 바꾸진 않아요.
 
 115. GLORIA: So you're saying this is the one customer that doesn't expire in November.
@@ -366,7 +366,7 @@
 117. GLORIA: Hm, that's a good line, and I hate it when you have good lines.
     글로리아: 흠, 좋은 말이네. 네가 좋은 말 할 때 진짜 싫어.
 
-118. SAM: So here's where we are, which is that Earl needs a machine and hands, Wen needs documents, and Gloria needs the money early.
+118. SAM: So here's where we are. Earl needs a machine and hands, Wen needs documents, and Gloria needs the money early.
     샘: 그러니까 정리하면, 형님은 기계랑 손이 필요하고, 웬은 문서가 필요하고, 글로리아는 돈을 일찍 받아야 해.
 
 119. EARL: And somebody's gotta write the proposal by Wednesday.
@@ -381,7 +381,7 @@
 122. SAM: You were in the Army, so you know how they talk. Just take out the exclamation points and put in the dates.
     샘: 넌 군대 있었잖아. 어떻게 말하는지 알지. 느낌표 빼고 날짜 넣어.
 
-123. GLORIA: And no adjectives, because contracting officers hate adjectives, so write it like a grocery list.
+123. GLORIA: And no adjectives. Contracting officers hate adjectives, so write it like a grocery list.
     글로리아: 그리고 형용사 금지. 계약관들은 형용사 싫어해. 장보기 목록처럼 써.
 
 124. TYLER: A grocery list for the Pentagon, huh. Copy that.
@@ -429,16 +429,16 @@
 138. SAM: You keep a diary?
     샘: 너 일기 써?
 
-139. TYLER: It's a figure of speech, so please don't tell Earl.
+139. TYLER: It's just a figure of speech. Please don't tell Earl about it.
     타일러: 말이 그렇다는 거예요. 얼한테는 말하지 마세요.
 
 140. SAM: Tyler, I hired you to sell bike motors, and you've been great at it, but this isn't selling, is it?
     샘: 타일러, 난 자전거 모터 팔라고 널 뽑았고, 넌 정말 잘했어. 근데 이건 파는 게 아니지?
 
-141. TYLER: No, it isn't, because I flew these things, Sam. I know what breaks, what freezes, and what a tired nineteen-year-old does with it at three in the morning, so let me help build them, not just sell them.
+141. TYLER: No, it isn't. I flew these things, Sam. I know what breaks, what freezes, and what a tired nineteen-year-old does with it at three in the morning. Let me help build them, not just sell them.
     타일러: 아니에요. 전 이걸 직접 날렸어요, 샘. 뭐가 부러지고, 뭐가 얼고, 새벽 세 시에 지친 열아홉 살이 이걸로 뭘 하는지 알아요. 그러니까 팔기만 말고 만드는 걸 돕게 해 주세요.
 
-142. SAM: Then you're the program lead, which means the proposal, the schedule, Halcyon, and Linda all go through you.
+142. SAM: Then you're the program lead. The proposal, the schedule, Halcyon and Linda all go through you.
     샘: 그럼 네가 프로그램 책임자야. 제안서, 일정, 할시온, 린다, 전부 너를 거쳐.
 
 143. TYLER: Program lead? Like, with an actual title?
@@ -447,7 +447,7 @@
 144. SAM: With a title, and with Wen checking every number you write. Don't get excited.
     샘: 직함도 주고, 네가 쓰는 숫자는 전부 웬이 확인하고. 들뜨지 마.
 
-145. TYLER: Too late, because I'm already excited.
+145. TYLER: It's way too late for that, Sam. I'm already excited.
     타일러: 늦었어요. 벌써 신났거든요.
 
 146. SAM: Your phone just buzzed, and so did mine, at the same time.

@@ -57,16 +57,16 @@
 014. GLORIA: Welcome to big business, Earl.
     글로리아: 대기업 세계에 온 걸 환영해, 얼.
 
-015. GLORIA: Okay, everybody sit. I printed it out, because I don't trust anything I can't write on, and I've marked every page that worries me in red.
+015. GLORIA: Okay, everybody sit. I printed it out, because I don't trust anything I can't write on. I've marked every page that worries me in red.
     글로리아: 자, 다들 앉아. 출력해 왔어, 글씨를 못 쓰는 건 안 믿거든. 걱정되는 페이지는 전부 빨간색으로 표시해 놨어.
 
-016. TYLER: Gloria, that's almost every page, so the whole thing is basically red.
+016. TYLER: Gloria, that's almost every page. The whole thing is basically red.
     타일러: 글로리아, 그거 거의 모든 페이지잖아요. 거의 통째로 빨간데요.
 
-017. GLORIA: Now you understand my evening, so let's start with the easy one on page six: "Payment terms: Net one hundred twenty days from receipt of invoice."
+017. GLORIA: Now you understand my evening. Let's start with the easy one, page six: "Payment terms: Net one hundred twenty days from receipt of invoice."
     글로리아: 이제 내 저녁이 어땠는지 알겠지. 쉬운 것부터 하자, 6쪽. "지급 조건: 청구서 수령일로부터 120일 이내 지급."
 
-018. EARL: In plain English, please, because I left my lawyer dictionary at home.
+018. EARL: In plain English, please. I left my lawyer dictionary at home.
     얼: 쉬운 말로 부탁해. 변호사 사전을 집에 두고 왔거든.
 
 019. GLORIA: In plain English? We make the motors, we ship them, and we send them a bill, and then they wait four months before they pay us. Four months, Earl.
@@ -87,16 +87,16 @@
 024. TYLER: So we'd basically be lending them three and a half million dollars?
     타일러: 그러니까 사실상 우리가 그쪽한테 350만 달러를 빌려주는 거네요?
 
-025. GLORIA: Interest-free, to a company that's a hundred times bigger than us, so isn't that sweet of us?
+025. GLORIA: Interest-free, to a company that's a hundred times bigger than us. Isn't that sweet of us?
     글로리아: 무이자로, 우리보다 백 배 큰 회사한테. 우리 참 착하지?
 
 026. SAM: Is net one-twenty normal for a company their size?
     샘: 그 정도 크기 회사한테 120일이 보통이에요?
 
-027. GLORIA: It's common, but it's not normal. Big companies do it because they can, and the small guy needs the order, so the small guy says yes, and that's what we call a squeeze.
+027. GLORIA: It's common, but it's not normal. Big companies do it because they can. The small guy needs the order, so the small guy says yes, and that's what we call a squeeze.
     글로리아: 흔하지, 정상은 아니고. 대기업은 할 수 있으니까 하는 거고, 작은 쪽은 주문이 필요하니까 '네'라고 해. 그걸 쥐어짜기라고 하지.
 
-028. SAM: Okay, I get it, that one's bad, so what's next on your list?
+028. SAM: Okay, I get it, that one's bad. What's next on your list?
     샘: 알겠어요, 그건 나쁘네요. 목록에 다음은 뭐예요?
 
 029. GLORIA: Page eleven is my favorite: "Supplier agrees to an annual price reduction of three percent, effective on each anniversary of the agreement."
@@ -108,31 +108,31 @@
 031. GLORIA: Every year, automatically, and it's called a price-down clause. In year one it's fifty-four dollars, in year two it's about fifty-two forty, and by year three it's about fifty dollars and eighty cents.
     글로리아: 매년, 자동으로. 그걸 단가 인하 조항이라고 해. 1년 차엔 54달러, 2년 차엔 52달러 40센트쯤, 3년 차엔 50달러 80센트쯤.
 
-032. EARL: And what if copper goes up, or steel, because didn't the radio say steel's getting a big tariff now?
+032. EARL: And what if copper goes up, or steel? Didn't the radio say steel's getting a big tariff now?
     얼: 그럼 구리나 강판이 오르면? 라디오에서 이제 강철에 큰 관세 붙는다고 하지 않았어?
 
 033. WEN: They announced it yesterday, twenty-five percent on all imported steel and aluminum starting March twelfth, and they said there are no exceptions this time.
     웬: 어제 발표했어요. 수입 철강이랑 알루미늄 전부에 3월 12일부터 25퍼센트, 이번엔 예외 없대요.
 
-034. GLORIA: And the contract doesn't care, because whether copper's up, steel's up, or tariffs are up, the price still goes down three percent. They're asking us to get better every single year, no matter what the world does.
+034. GLORIA: And the contract doesn't care. Whether copper's up, steel's up, or tariffs are up, the price still goes down three percent. They're asking us to get better every single year, no matter what the world does.
     글로리아: 그리고 계약서는 상관 안 해. 구리가 오르든, 강판이 오르든, 관세가 오르든 가격은 그래도 3퍼센트 내려가. 세상이 어떻게 되든 우리더러 매년 나아지라는 거지.
 
-035. SAM: Well, to be fair, that's how manufacturing works, because you learn, you get faster, and your cost goes down.
+035. SAM: Well, to be fair, that's how manufacturing works. You learn, you get faster, and your cost goes down.
     샘: 음, 공정하게 말하면 제조업이 원래 그렇잖아요. 배우고, 빨라지고, 원가가 내려가고.
 
-036. GLORIA: For the first couple of years, maybe, but not forever, Sam, because at some point you're not getting better, you're just bleeding slower.
+036. GLORIA: For the first couple of years, maybe, but not forever, Sam. At some point you're not getting better, you're just bleeding slower.
     글로리아: 처음 몇 년은 그럴 수도 있지. 근데 영원히는 아니야, 샘. 어느 순간부터는 나아지는 게 아니라 그냥 피를 천천히 흘리는 거야.
 
-037. EARL: Okay, so where's my part, the quality part?
+037. EARL: Okay, where's my part, the quality part?
     얼: 좋아, 그럼 내 부분은 어디야? 품질 부분.
 
-038. GLORIA: Page nineteen, so get ready: "For each motor returned as defective, Supplier shall pay a penalty of five hundred dollars, plus all labor costs for removal and replacement."
+038. GLORIA: Page nineteen, and get ready: "For each motor returned as defective, Supplier shall pay a penalty of five hundred dollars, plus all labor costs for removal and replacement."
     글로리아: 19쪽이야, 각오해. "불량으로 반품된 모터 하나당 공급사는 500달러의 벌금과 함께 탈거·교체에 드는 모든 인건비를 부담한다."
 
 039. EARL: Five hundred bucks for a fifty-four-dollar motor?
     얼: 54달러짜리 모터에 벌금 500달러?
 
-040. GLORIA: Keep listening, because it gets better: "In the event that late delivery by Supplier causes a stoppage of Buyer's production line, Supplier shall pay fifteen thousand dollars per hour of stoppage."
+040. GLORIA: Keep listening, it gets better: "In the event that late delivery by Supplier causes a stoppage of Buyer's production line, Supplier shall pay fifteen thousand dollars per hour of stoppage."
     글로리아: 계속 들어, 더 있어. "공급사의 납품 지연으로 구매사의 생산 라인이 멈출 경우, 공급사는 정지 시간당 1만 5천 달러를 지급한다."
 
 041. EARL: Per hour, on Marcy's line? That line builds four thousand machines a day.
@@ -153,7 +153,7 @@
 046. WEN: "Supplier shall place all firmware source code in escrow, and Buyer shall have the right to access it in the event of supply interruption." They want our code, Sam.
     웬: "공급사는 모든 펌웨어 소스코드를 제3자에게 예치하며, 공급 중단 시 구매사는 이에 접근할 권리를 가진다." 우리 코드를 원하는 거예요, 샘.
 
-047. TYLER: Sorry, what's escrow, because I've only heard that word when people buy houses?
+047. TYLER: Sorry, what's escrow? I've only heard that word when people buy houses.
     타일러: 죄송한데 에스크로가 뭐예요? 집 살 때나 듣는 단어인데.
 
 048. WEN: It's a locked box held by a third party. If we go out of business, or we're late, or they decide we've failed, the box opens and they get the Governor, our software, everything that makes our motor smart.
@@ -177,13 +177,13 @@
 054. GLORIA: I'd never waste the paper, Gary.
     글로리아: 전 종이를 낭비하진 않아요, 개리.
 
-055. GARY: Ha, okay, let me save us some time, because every supplier says the same three things: "Net one-twenty is too long, three percent is too much, and the penalties are crazy." Am I close?
+055. GARY: Ha, okay, let me save us some time. Every supplier says the same three things: "Net one-twenty is too long, three percent is too much, and the penalties are crazy." Am I close?
     개리: 하, 좋아요. 시간 좀 아껴 드릴게요. 공급사들은 다 똑같은 세 가지를 말해요. "120일은 너무 길고, 3퍼센트는 너무 많고, 벌금은 미쳤다." 비슷해요?
 
 056. SAM: You forgot the fourth one, which is the source code.
     샘: 네 번째를 빠뜨리셨네요. 소스코드요.
 
-057. GARY: Ah, the escrow, okay, so five things. Sam, you have to understand my side, because if you go bankrupt next year, I have two hundred thousand washing machines with no motors, and my CEO needs to know I have a backup.
+057. GARY: Ah, the escrow, okay, five things. Sam, you have to understand my side. If you go bankrupt next year, I have two hundred thousand washing machines with no motors, and my CEO needs to know I have a backup.
     개리: 아, 에스크로. 좋아요, 다섯 가지. 샘, 제 입장도 이해해 줘야 해요. 그쪽이 내년에 파산하면 전 모터 없는 세탁기가 20만 대예요. 우리 CEO는 제게 대비책이 있다는 걸 알아야 하고요.
 
 058. SAM: I understand that, but that code is the company. If I give you the code, I'm not a supplier anymore, I'm just a factory you can replace.
@@ -210,7 +210,7 @@
 065. GARY: Okay, look, I'm not here to trick anybody. This is our standard agreement, and every supplier we have signed some version of it, big ones, small ones, and foreign ones.
     개리: 좋아요, 보세요. 전 누굴 속이려는 게 아니에요. 이건 우리 표준 계약서고, 우리 공급사들은 큰 데든 작은 데든 외국 데든 전부 어떤 버전으로든 서명했어요.
 
-066. GLORIA: Then let's talk about the version, because net one-twenty doesn't work for us, and we need net thirty.
+066. GLORIA: Then let's talk about the version. Net one-twenty doesn't work for us, and we need net thirty.
     글로리아: 그럼 버전 얘기를 하죠. 120일은 저희한테 안 돼요. 30일이 필요해요.
 
 067. GARY: Thirty? Gloria, I love you, but I'd get laughed out of the building, and our finance team would have me arrested.
@@ -225,13 +225,13 @@
 070. GLORIA: Ninety days is still three months of our cash in your pocket, and for a company our size, that's the difference between living and dying.
     글로리아: 90일도 여전히 석 달치 우리 현금이 그쪽 주머니에 있는 거예요. 우리 규모 회사한텐 그게 사느냐 죽느냐의 차이고요.
 
-071. GARY: I hear you, I really do, so let me take ninety upstairs and see what they say. What else is there?
+071. GARY: I hear you, I really do. Let me take ninety upstairs and see what they say. What else is there?
     개리: 알아들었어요, 진짜로요. 90일을 위에 올려서 뭐라는지 볼게요. 다른 건요?
 
 072. SAM: The price-down, three percent every year no matter what happens to steel or copper, when steel's getting a twenty-five percent tariff next month, Gary, and you know that.
     샘: 단가 인하요. 강판이나 구리가 어떻게 되든 매년 3퍼센트인데, 다음 달에 강철에 25퍼센트 관세 붙어요, 개리. 아시잖아요.
 
-073. GARY: I know that, because I'm getting the same tariff on every steel panel in every washing machine I build, so do you think anybody is lowering my price-down?
+073. GARY: I know that. I'm getting the same tariff on every steel panel in every washing machine I build. Do you think anybody is lowering my price-down?
     개리: 알죠. 저도 제가 만드는 모든 세탁기의 모든 강철 패널에 똑같은 관세를 맞아요. 누가 제 단가 인하를 낮춰 줄 것 같아요?
 
 074. SAM: So your boss squeezes you, and you squeeze us.
@@ -249,7 +249,7 @@
 078. TYLER: I'm Tyler Novak, in sales, and I used to fly drones in the Army, so I'm used to things that change direction fast.
     타일러: 영업 담당 타일러 노박이에요. 육군에서 드론 날렸어요. 그래서 방향 확 바뀌는 거에 익숙해요.
 
-079. GARY: I like that, an index, because it's not standard, but it's not crazy. Write it down for me, and I'll show it to finance.
+079. GARY: I like that, an index. It's not standard, but it's not crazy. Write it down for me, and I'll show it to finance.
     개리: 좋네요, 지수 연동이라. 표준은 아니지만 미친 소린 아니에요. 적어서 보내 주시면 재무팀에 보여 줄게요.
 
 080. EARL: Can I talk about the penalties? I'm Earl, and I run the floor.
@@ -258,7 +258,7 @@
 081. GARY: Sure, Earl. Go ahead.
     개리: 물론이죠, 얼. 말씀하세요.
 
-082. EARL: Five hundred dollars for every motor that comes back, okay, I don't love it, but I get it, because if my motor breaks in somebody's basement, I should pay. But who decides it was my motor that broke?
+082. EARL: Five hundred dollars for every motor that comes back, okay. I don't love it, but I get it, because if my motor breaks in somebody's basement, I should pay. But who decides it was my motor that broke?
     얼: 반품 모터 하나당 500달러, 그래, 좋진 않지만 이해는 해. 내 모터가 누구네 지하실에서 고장 나면 내가 물어야지. 근데 고장 난 게 내 모터라고 누가 정하는데?
 
 083. GARY: Our service technicians go out to the house and look at it.
@@ -270,7 +270,7 @@
 085. GARY: A brick?
     개리: 벽돌이요?
 
-086. EARL: My grandson did it, and it's a long story. The point is, I want to see every motor you send back, and I'll put it on Betsy myself, so if it's my fault I'll pay, and if it's not, I don't.
+086. EARL: My grandson did it, and it's a long story. The point is, I want to see every motor you send back, and I'll put it on Betsy myself. If it's my fault, I'll pay, and if it's not, I don't.
     얼: 내 손자가 그랬어, 얘기가 길어. 요점은, 반품하는 모터는 전부 내가 직접 베치에 걸어 보겠다는 거야. 내 잘못이면 낼게. 아니면 안 내고.
 
 087. GARY: Who's Betsy, if you don't mind me asking?
@@ -279,7 +279,7 @@
 088. SAM: She's our test stand, our dynamometer, and she's older than Tyler.
     샘: 우리 시험대, 다이너모미터요. 타일러보다 나이가 많아요.
 
-089. GARY: You named your test machine, of course you did. Okay, Earl, a joint inspection is something I can probably live with. The line-stop penalty stays, though, because that one isn't mine, it comes from the top.
+089. GARY: You named your test machine, of course you did. Okay, Earl, a joint inspection is something I can probably live with. The line-stop penalty stays, though. That one isn't mine, it comes from the top.
     개리: 시험 기계에 이름을 붙였군요, 그럴 줄 알았어요. 좋아요, 얼, 공동 검사는 아마 감수할 수 있어요. 근데 라인 정지 벌금은 그대로예요. 그건 제 게 아니라 맨 위에서 내려온 거거든요.
 
 090. SAM: And where are we on the source code, Gary?
@@ -303,16 +303,16 @@
 096. SAM: Did they really sign it already?
     샘: 정말 벌써 서명했어요?
 
-097. GARY: They did, so we'll talk soon.
+097. GARY: They did. We'll talk soon.
     개리: 정말요. 그럼 또 얘기해요.
 
-098. TYLER: He's bluffing, he has to be, because nobody signs that thing in a week.
+098. TYLER: He's bluffing, he has to be. Nobody signs that thing in a week.
     타일러: 블러핑이에요, 그럴 수밖에 없어요. 저걸 일주일 만에 서명하는 데는 없어요.
 
 099. GLORIA: Somebody desperate signs it in a day.
     글로리아: 절박한 데는 하루 만에 서명해.
 
-100. SAM: Okay, let's go to Gloria's office, because I want to see the board.
+100. SAM: Okay, let's go to Gloria's office. I want to see the board.
     샘: 좋아요, 글로리아 사무실로 가요. 칠판 보고 싶어요.
 
 101. GLORIA: Here it is, "Fourteen weeks," which is today, with Rivet paying us on time and no Haverford. It was fifteen in January, but we hired four people for the second shift, and that's where the week went.
@@ -327,7 +327,7 @@
 104. TYLER: Why November, of all months?
     타일러: 왜 하필 11월이에요?
 
-105. GLORIA: It's July plus one hundred twenty days, honey, so count it on your fingers. And this line here, going down, is our cash, and it hits zero right about here.
+105. GLORIA: It's July plus one hundred twenty days, honey, count it on your fingers. And this line here, going down, is our cash. It hits zero right about here.
     글로리아: 7월 더하기 120일이야, 얘. 손가락으로 세 봐. 그리고 여기 내려가는 이 선이 우리 현금인데, 딱 여기쯤에서 0이 돼.
 
 106. SAM: September.
@@ -342,13 +342,13 @@
 109. GLORIA: That's what I said in November, Earl: good companies don't die from bad news, they die from good news they can't afford.
     글로리아: 11월에 내가 한 말이잖아, 얼. 좋은 회사는 나쁜 소식으로 안 죽어. 감당 못 하는 좋은 소식으로 죽지.
 
-110. TYLER: But what about net ninety, since Gary said he'd try for ninety?
+110. TYLER: But what about net ninety? Gary said he'd try for ninety.
     타일러: 근데 90일이면요? 개리가 90일은 해 보겠다고 했잖아요.
 
-111. GLORIA: With net ninety, the line hits zero in October instead of September, so it's a nicer funeral, Tyler, but it's still a funeral.
+111. GLORIA: With net ninety, the line hits zero in October instead of September. It's a nicer funeral, Tyler, but it's still a funeral.
     글로리아: 90일이면 9월 대신 10월에 0이 돼. 장례식이 좀 더 근사해지는 거야, 타일러. 그래도 장례식이지.
 
-112. TYLER: Okay, but hear me out. If we walk away, Gary signs with Mexico and we lose two hundred thousand motors a year forever, so that's a funeral too, just a slower one.
+112. TYLER: Okay, but hear me out. If we walk away, Gary signs with Mexico and we lose two hundred thousand motors a year forever. That's a funeral too, just a slower one.
     타일러: 좋아요, 근데 끝까지 들어 봐요. 우리가 손 떼면 개리는 멕시코랑 계약하고 우린 1년에 20만 개를 영원히 잃어요. 그것도 장례식이에요. 좀 느린 거일 뿐이지.
 
 113. GLORIA: A slow funeral is still better than a fast one.
@@ -360,10 +360,10 @@
 115. SAM: Hey, both of you, just breathe for a second.
     샘: 야, 둘 다. 잠깐 숨 좀 쉬어.
 
-116. WEN: I think you're both missing the real problem, because the money, maybe we can fix, with banks, investors, or Haverford paying for tooling. But if we put the Governor in escrow, we can never fix that, and that's forever.
+116. WEN: I think you're both missing the real problem. The money, maybe we can fix, with banks, investors, or Haverford paying for tooling. But if we put the Governor in escrow, we can never fix that, and that's forever.
     웬: 두 분 다 진짜 문제를 놓치고 있는 것 같아요. 돈은 은행이든 투자자든 해버퍼드의 공구 비용이든 어쩌면 해결할 수 있어요. 근데 거버너를 에스크로에 넣으면 그건 절대 되돌릴 수 없어요. 영원한 거예요.
 
-117. EARL: She's right, because money comes and goes, but if you give away the recipe, you don't get it back.
+117. EARL: She's right. Money comes and goes, but if you give away the recipe, you don't get it back.
     얼: 웬 말이 맞아. 돈은 들어왔다 나갔다 하지만, 레시피를 줘 버리면 다시는 못 돌려받아.
 
 118. TYLER: So what, we just say no to the biggest deal in the history of the company, again? We said no to Calloway twice, and at some point, saying no isn't a strategy.
@@ -375,10 +375,10 @@
 120. TYLER: I'm sorry, but I'm the one who has to go out and find customers, Sam, and customers like this don't call every week.
     타일러: 죄송해요. 근데 나가서 고객을 찾아와야 하는 사람은 저예요, 샘. 그리고 이런 고객은 매주 전화하지 않아요.
 
-121. SAM: No, you're right to say it, because it's a fair question. Saying no to Calloway was about not selling the company, but this is different, because this is about how we grow.
+121. SAM: No, you're right to say it, it's a fair question. Saying no to Calloway was about not selling the company. This is different, because this is about how we grow.
     샘: 아니야, 말하는 게 맞아. 정당한 질문이야. 캘러웨이를 거절한 건 회사를 안 판다는 거였지만, 이건 달라. 이건 우리가 어떻게 크느냐의 문제야.
 
-122. GLORIA: So what are you thinking, Sam, because your face is doing something?
+122. GLORIA: So what are you thinking, Sam? Your face is doing something.
     글로리아: 그래서 무슨 생각인데, 샘? 얼굴이 뭔가 하고 있는데.
 
 123. SAM: I'm thinking we don't say yes, and we don't say no. We send Gary our markup with net forty-five, Tyler's price index, and Earl's joint inspection, and no source code, not in a box and not anywhere.
@@ -387,7 +387,7 @@
 124. GLORIA: And if he says no to all of it, what then?
     글로리아: 그리고 그쪽이 전부 다 거절하면? 그다음엔?
 
-125. SAM: Then we keep building Wen's samples anyway, because a contract is just paper, and a motor that works on Betsy is something he can't get anywhere else.
+125. SAM: Then we keep building Wen's samples anyway. A contract is just paper, and a motor that works on Betsy is something he can't get anywhere else.
     샘: 그럼 어쨌든 웬의 샘플은 계속 만들어요. 계약서는 그냥 종이고, 베치에서 제대로 도는 모터는 개리가 다른 데선 못 구하는 거니까요.
 
 126. EARL: Metal don't lie.
@@ -396,7 +396,7 @@
 127. TYLER: Okay, I'll write up the index tonight.
     타일러: 알겠어요. 지수 연동안은 오늘 밤에 제가 쓸게요.
 
-128. GLORIA: And I'm leaving the board like this, fourteen weeks and a line that hits zero in September, so every time you walk in here, you remember.
+128. GLORIA: And I'm leaving the board like this, fourteen weeks and a line that hits zero in September, so that every time you walk in here, you remember.
     글로리아: 그리고 칠판은 이대로 둘 거야. 14주, 그리고 9월에 0이 되는 선. 네가 여기 들어올 때마다 기억하라고.
 
 129. SAM: I'll remember, Gloria, I promise.
@@ -405,13 +405,13 @@
 130. GLORIA: Don't promise me, promise Erin, and go home before eight for once.
     글로리아: 나한테 약속하지 말고 에린한테 약속해. 그리고 오늘은 좀 여덟 시 전에 집에 가.
 
-131. SAM: Hello, Gary? I'm driving, so you're on speaker, but is everything okay?
+131. SAM: Hello, Gary? I'm driving, so you're on speaker. Is everything okay?
     샘: 여보세요, 개리? 운전 중이라 스피커로 받았어요. 무슨 일 있어요?
 
 132. GARY: Everything's fine, I just wanted to call you without an audience, with no Gloria, no Doctor, and no Earl, just two guys. Is that okay?
     개리: 별일 없어요. 그냥 구경꾼 없이 전화하고 싶었어요. 글로리아도, 박사님도, 얼도 없이 그냥 남자 둘이서요. 괜찮아요?
 
-133. SAM: Sure, it's just the two of us, so what's on your mind, Gary?
+133. SAM: Sure, it's just the two of us. What's on your mind, Gary?
     샘: 그럼요, 우리 둘만이에요. 무슨 생각 하세요, 개리?
 
 134. GARY: I liked your team today, and I mean that. Your CFO is tough, your engineer reads page twenty-eight, and your floor guy would die for his motors, and that's rare.
@@ -420,19 +420,19 @@
 135. SAM: Thank you, I think so too.
     샘: 고마워요. 저도 그렇게 생각해요.
 
-136. GARY: But I want to give you some advice, because I've been doing this a long time: don't fall in love with your terms. My CEO doesn't care about your team, he cares about fifty-four dollars.
+136. GARY: But I want to give you some advice, because I've been doing this a long time. Don't fall in love with your terms. My CEO doesn't care about your team, he cares about fifty-four dollars.
     개리: 근데 조언 하나 하고 싶어요, 제가 이 일을 오래 했으니까요. 그쪽 조건이랑 사랑에 빠지지 마세요. 우리 CEO는 그쪽 팀엔 관심 없고, 54달러에 관심 있어요.
 
 137. SAM: And what do you care about, Gary?
     샘: 그럼 개리는 뭐에 관심 있어요?
 
-138. GARY: Me? I care about not getting fired, because I'm fifty-five years old, Sam, my kid's in college, and I've got eleven years left on my mortgage.
+138. GARY: Me? I care about not getting fired. I'm fifty-five years old, Sam, my kid's in college, and I've got eleven years left on my mortgage.
     개리: 저요? 안 잘리는 거에 관심 있죠. 전 쉰다섯이에요, 샘. 애는 대학 다니고, 주택 대출은 11년 남았고요.
 
-139. SAM: I didn't know that, because you never talk about yourself in meetings.
+139. SAM: I didn't know that. You never talk about yourself in meetings.
     샘: 그건 몰랐어요. 회의에선 자기 얘기를 전혀 안 하시잖아요.
 
-140. GARY: Why would you? Here's the thing: if you don't sign, I sign with Mexico or with the big American company, and if that goes badly, my CEO finds a new purchasing VP, because that's how it works.
+140. GARY: Why would you? Here's the thing: if you don't sign, I sign with Mexico or with the big American company. And if that goes badly, my CEO finds a new purchasing VP. That's how it works.
     개리: 알 리가 없죠. 요점은 이거예요. 그쪽이 서명 안 하면 전 멕시코든 큰 미국 회사든 하고 계약해요. 그리고 그게 잘못되면 우리 CEO는 새 구매 부사장을 찾겠죠. 원래 그렇게 돌아가요.
 
 141. SAM: That sounds like a hard way to live.
@@ -441,28 +441,28 @@
 142. GARY: It's the only way to live in a big company. Everybody's replaceable, Sam. Including me.
     개리: 대기업에서 사는 유일한 방법이에요. 누구든 대체 가능해요, 샘. 저까지 포함해서요.
 
-143. SAM: Not everybody, and not everything, because some things can't be replaced, and that's what I'm trying to build.
+143. SAM: Not everybody, and not everything. Some things can't be replaced, and that's what I'm trying to build.
     샘: 누구나 그런 건 아니에요, 모든 게 그런 것도 아니고요. 어떤 건 대체가 안 되는데, 제가 만들려는 게 그거예요.
 
-144. GARY: Then you'd better build it fast, so did you read the news about steel?
+144. GARY: Then you'd better build it fast. Did you read the news about steel?
     개리: 그럼 빨리 만드는 게 좋을 거예요. 철강 뉴스 읽었어요?
 
 145. SAM: Twenty-five percent, starting March twelfth.
     샘: 25퍼센트요, 3월 12일부터.
 
-146. GARY: Your steel price is about to change, Sam, and my number isn't, so think about fifty-four dollars before you send me your markup.
+146. GARY: Your steel price is about to change, Sam, and my number isn't. Think about fifty-four dollars before you send me your markup.
     개리: 그쪽 강판 가격은 곧 바뀔 거예요, 샘. 그리고 제 숫자는 안 바뀌고요. 수정안 보내기 전에 54달러를 생각해 보세요.
 
 147. SAM: I'll think about it. And Gary, thanks for calling, really.
     샘: 생각해 볼게요. 그리고 개리, 전화해 줘서 고마워요. 진짜로요.
 
-148. GARY: Don't thank me, because I'm not your friend, Sam, I'm just the guy who likes you before he squeezes you. Drive safe.
+148. GARY: Don't thank me. I'm not your friend, Sam, I'm just the guy who likes you before he squeezes you. Drive safe.
     개리: 고마워하지 마세요. 전 친구가 아니에요, 샘. 쥐어짜기 전에 그쪽을 좋아하는 사람일 뿐이죠. 운전 조심해요.
 
-149. SAM: Erin, it's me, and no, I'm on my way. I know, it'll be before eight, because Gloria made me promise.
+149. SAM: Erin, it's me, and no, I'm on my way. I know, it'll be before eight. Gloria made me promise.
     샘: 에린, 나야. 아니, 가는 중이야. 알아, 여덟 시 전에 갈게. 글로리아가 약속하게 했거든.
 
-150. SAM: And Erin, is there any coffee left at home, because I've got forty-four pages to read again tonight?
+150. SAM: And Erin, is there any coffee left at home? I've got forty-four pages to read again tonight.
     샘: 그리고 에린, 집에 커피 남았어? 오늘 밤에 44쪽을 다시 읽어야 하거든.
 
 ---

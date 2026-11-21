@@ -66,8 +66,8 @@
 017. TYLER: It's just my keys, a pocketknife, a multitool and a little flashlight, which is an Army habit, sir.
     타일러: 그냥 열쇠하고 주머니칼, 멀티툴, 작은 손전등이에요. 군대 습관이에요.
 
-018. CURTIS: Those stay here, and you can pick them up on the way out. Army, huh? I did eight years in the Air Force, so what did you do?
-    커티스: 그건 여기 두고 가셨다가 나가실 때 찾아가세요. 육군이요? 전 공군에서 8년 했는데, 뭐 하셨어요?
+018. CURTIS: Those stay here, and you can pick them up on the way out. Army, huh? I did eight years in the Air Force myself. What did you do?
+    커티스: 그건 여기 두고 가셨다가 나가실 때 찾아가세요. 육군이요? 전 공군에서 8년 했어요. 뭐 하셨어요?
 
 019. TYLER: I flew drones in the Army, so technically, I was in your air.
     타일러: 육군에서 드론 날렸어요. 그러니까 엄밀히 말하면 제가 공군 하늘에 있었던 거죠.
@@ -75,7 +75,7 @@
 020. CURTIS: Technically, you were a guest. Okay, you're all approved, but Mr. Mehta is running a little late.
     커티스: 엄밀히 말하면 손님이었죠. 자, 다 승인됐는데, 메타 씨가 좀 늦으신대요.
 
-021. SAM: Thanks. Is it always this strict, because it feels like going through an airport?
+021. SAM: Thanks. Is it always this strict? It feels like going through airport security.
     샘: 고마워요. 늘 이렇게 엄격해요? 꼭 공항 검색대 같네요.
 
 022. CURTIS: It's stricter, because an airport just moves people, and this building holds about half the internet for three states. Bank records, hospital files, people's family photos, and if something walks out of here, it's my job.
@@ -126,7 +126,7 @@
 037. SAM: Nice to meet you, Raj. Was it a real fire?
     샘: 반가워요, 라지. 진짜 불이 났어요?
 
-038. RAJ: Just a figurative one. And you must be Dr. Liu, because I read your ITC testimony.
+038. RAJ: Just a figurative one. And you must be Dr. Liu. I read your ITC testimony.
     라지: 비유적인 불이요. 그리고 리우 박사님이시죠. ITC 증언 읽었어요.
 
 039. WEN: I didn't know that testimony was public.
@@ -270,7 +270,7 @@
 085. SAM: And who's the person calling you at three in the morning?
     샘: 새벽 세 시에 전화하는 건 누군데요?
 
-086. RAJ: Usually it's a very scared twenty-four-year-old technician, because uptime is everything here. In plain English, uptime is the percentage of time everything is working, and my contracts promise ninety-nine point nine nine nine percent.
+086. RAJ: Usually it's a very scared twenty-four-year-old technician. Uptime is everything here. In plain English, uptime is the percentage of time everything is working, and my contracts promise ninety-nine point nine nine nine percent.
     라지: 보통 잔뜩 겁먹은 스물네 살 기술자요. 여긴 가동률이 전부거든요. 쉽게 말하면, 업타임은 모든 게 정상으로 돌아가는 시간의 비율이고, 제 계약서엔 99.999퍼센트라고 약속돼 있어요.
 
 087. TYLER: So how much downtime is that per year?
@@ -294,7 +294,7 @@
 093. TYLER: Hang on, aren't you a vice president yourself?
     타일러: 잠깐만요, 본인도 부사장이시잖아요?
 
-094. RAJ: There are a lot of us, and we yell at each other, so it's a whole culture.
+094. RAJ: There are a lot of us, and we yell at each other. It's a whole culture.
     라지: 우리 같은 사람 많아요. 서로 소리 지르는 게 하나의 문화예요.
 
 095. WEN: Your pumps have a different flange and a different control signal than ours. I'll need your drawings this week, and I'll need to see the pump room myself.
@@ -372,7 +372,7 @@
 119. TYLER: But that's the point of a pilot, right? We don't promise ten years. We promise one month of real data, and the data does the talking.
     타일러: 근데 그게 시범사업의 의미잖아요? 10년을 약속하는 게 아니라, 진짜 데이터 한 달을 약속하고, 말은 데이터가 하는 거죠.
 
-120. GLORIA: Listen to me, all of you, because if this thing gets big, it'll eat the whole factory. I've seen it before: a small company gets one giant customer, and one day the giant sneezes and the small company dies.
+120. GLORIA: Listen to me, all of you. If this thing gets big, it'll eat the whole factory. I've seen it before: a small company gets one giant customer, and one day the giant sneezes and the small company dies.
     글로리아: 다들 내 말 들어. 이게 커지면 공장 전체를 먹어 치울 거야. 나 전에 봤어. 작은 회사가 거대 고객 하나를 잡았다가, 어느 날 그 거인이 재채기 한 번 하면 작은 회사가 죽는 거.
 
 121. SAM: Then we don't let it eat the whole factory. We keep our other customers, Haverford, Atlas, Tony and the farmers, so nobody gets all of us.

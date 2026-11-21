@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. TYLER: We're in booth four-eleven, between a duct tape company and a guy selling truck ladders, so I'd say we've made it.
+001. TYLER: We're in booth four-eleven, between a duct tape company and a guy selling truck ladders. I'd say we've made it.
     타일러: 부스 411번이요. 덕트 테이프 회사랑 트럭 사다리 파는 사람 사이예요. 우리 성공한 거죠.
 
 002. WEN: The duct tape company has a better banner than we do.
@@ -24,7 +24,7 @@
 003. SAM: The duct tape company has been doing this since 1960. Okay, motor on the table and spec sheets in the rack, and Tyler, where's the demo furnace?
     샘: 덕트 테이프 회사는 1960년부터 이걸 해 왔어. 자, 모터는 테이블에, 사양서는 거치대에. 타일러, 시연용 퍼니스는 어디 있어?
 
-004. TYLER: It's coming, because Tony's bringing it on a dolly, and he says it's one of the seven dead ones that Wen brought back to life.
+004. TYLER: It's coming. Tony's bringing it on a dolly, and he says it's one of the seven dead ones that Wen brought back to life.
     타일러: 오고 있어요. 토니가 손수레로 가져와요. 죽었던 일곱 대 중 하나인데 웬이 살려 냈대요.
 
 005. WEN: I didn't bring it back to life, I replaced its heart.
@@ -42,13 +42,13 @@
 009. TYLER: "EverSpin Comfort, the rare-earth-free future of HVAC," so they've literally put our sentence on their wall.
     타일러: "에버스핀 컴포트, 희토류 없는 냉난방의 미래." 우리 문장을 그대로 벽에 붙여 놨네요.
 
-010. WEN: They have our sentence in their motor too, so let's see who people believe.
+010. WEN: They have our sentence in their motor too. Let's see who people believe.
     웬: 모터 안에도 우리 문장이 있죠. 사람들이 누굴 믿는지 보죠.
 
 011. SAM: Okay, before the doors open, what spins today?
     샘: 자, 문 열기 전에. 오늘 뭐 돌리지?
 
-012. TYLER: We've got one demo furnace, one FX-B1 prototype, four hundred spec sheets, and me, because I'm the one who spins.
+012. TYLER: We've got one demo furnace, one FX-B1 prototype, four hundred spec sheets, and me. I'm the one who spins.
     타일러: 시연용 퍼니스 하나, FX-B1 시제품 하나, 사양서 400장, 그리고 저요. 돌아가는 건 저거든요.
 
 013. SAM: Let's see if it spins.
@@ -60,7 +60,7 @@
 015. TONY: Mike, get over here! Sam, this is Mike Dombrowski from Akron, and he and his brother have twelve trucks and one brain between them.
     토니: 마이크! 이리 와. 샘, 이쪽은 애크런의 마이크 돔브로스키. 형제 둘이 트럭 열두 대에 뇌는 하나 나눠 써.
 
-016. MIKE: My brother has the brain and I have the trucks, so okay, show me.
+016. MIKE: My brother has the brain and I have the trucks. Okay, show me.
     마이크: 뇌는 동생 거고 트럭은 제 거예요. 자, 보여 줘 봐요.
 
 017. WEN: It fits five common brackets, and you connect your phone to this port, and after the app asks for the furnace model and the house size, it programs itself.
@@ -69,22 +69,22 @@
 018. MIKE: There's really no password?
     마이크: 진짜 비밀번호가 없어요?
 
-019. WEN: There's no password, because it's your motor and you bought it.
+019. WEN: No password. It's your motor, and you bought it.
     웬: 없어요. 당신이 산 당신 모터니까요.
 
-020. MIKE: Huh, that's going to take some getting used to, so can I try?
+020. MIKE: Huh, that's going to take some getting used to. Can I try?
     마이크: 허, 그거 익숙해지는 데 시간 좀 걸리겠네요. 해 봐도 돼요?
 
 021. TYLER: Go ahead, and I'll time you.
     타일러: 해 보세요. 시간 잴게요.
 
-022. MIKE: Okay, so model number, house size, and "Run setup"... and it's spinning and ramping up, and that's quiet, so is that it?
+022. MIKE: Okay, model number, house size, and "Run setup." It's spinning, it's ramping up, and that's really quiet. Is that it?
     마이크: 자, 모델 번호, 집 크기, "설정 실행"... 돌아가네요. 속도 올라가고. 조용하네. 이게 끝이에요?
 
 023. TYLER: That took one minute forty-one seconds.
     타일러: 1분 41초 걸렸어요.
 
-024. MIKE: The last factory motor I installed took me an hour on hold. Okay, but here's my problem, so did you get the letter?
+024. MIKE: The last factory motor I installed took me an hour on hold. But here's my problem. Did you get the letter?
     마이크: 지난번에 단 공장 모터는 통화 대기만 한 시간이었어요. 근데 문제가 있어요. 그 편지 받았어요?
 
 025. SAM: You mean the one from Arcwell about the warranty?
@@ -96,16 +96,16 @@
 027. TONY: Mike, a lot of the furnaces we fix are out of warranty anyway.
     토니: 마이크, 우리가 고치는 퍼니스 상당수는 어차피 보증 끝났어.
 
-028. MIKE: A lot, but not all, so if I put this in a five-year-old Arcwell and the compressor dies next year, the homeowner calls a lawyer, and the lawyer calls me.
+028. MIKE: A lot, but not all. If I put this in a five-year-old Arcwell and the compressor dies next year, the homeowner calls a lawyer, and the lawyer calls me.
     마이크: 상당수죠, 전부는 아니고요. 5년 된 아크웰에 이걸 달았는데 내년에 압축기가 죽으면 집주인이 변호사를 부르고, 그 변호사는 저한테 전화해요.
 
-029. SAM: That's fair, so give me five minutes, because I want to ask our lawyer while you're standing here.
+029. SAM: That's fair. Give me five minutes, I want to ask our lawyer while you're standing here.
     샘: 맞는 말이에요. 5분만 줘요. 당신이 여기 있을 때 우리 변호사한테 물어볼게요.
 
 030. BEN: Sam, I'm in the car, and Marcy says you sound excited, which worries me.
     벤: 샘, 나 차 안이야. 마시가 너 신나 보인다는데, 그게 걱정이야.
 
-031. SAM: Ben, quick one: a furnace company is telling contractors that if they install our motor, the whole unit's warranty is void, so can they do that?
+031. SAM: Ben, quick one. A furnace company is telling contractors that if they install our motor, the whole unit's warranty is void. Can they do that?
     샘: 벤, 짧게요. 퍼니스 회사가 업체들한테 우리 모터 달면 장비 전체 보증이 무효라고 하고 있어요. 그게 돼요?
 
 032. BEN: Read me the exact words they used.
@@ -126,7 +126,7 @@
 037. SAM: So if our motor breaks their furnace, that's on us.
     샘: 그러니까 우리 모터가 그쪽 퍼니스를 망가뜨리면 우리 책임이네요.
 
-038. BEN: Right, but if the compressor dies for its own reasons, they can't blame a blower motor just because it's not theirs, and the FTC has sent warning letters about this kind of language.
+038. BEN: Right. But if the compressor dies for its own reasons, they can't blame a blower motor just because it's not theirs. The FTC has sent warning letters about this kind of language.
     벤: 맞아. 근데 압축기가 자기 이유로 죽으면, 자기네 거 아니라고 송풍 모터 탓을 할 순 없어. FTC가 이런 문구에 경고장도 보낸 적 있어.
 
 039. MIKE: Can I get that in writing?
@@ -138,13 +138,13 @@
 041. SAM: It's a contractor from Akron, Ben, with twelve trucks and a nervous brother.
     샘: 애크런 업체 사장이에요, 벤. 트럭 열두 대에 겁 많은 동생 하나.
 
-042. BEN: Tell Akron I can't give him legal advice from a car on I-71, but Ferrox can stand behind its own motor, so if your motor damages something, you pay, and you put that on a card.
+042. BEN: Tell Akron I can't give him legal advice from a car on I-71. But Ferrox can stand behind its own motor. If your motor damages something, you pay, and you put that on a card.
     벤: 애크런한테 I-71 차 안에서 법률 자문은 못 한다고 해. 근데 페록스는 자기 모터를 책임질 수 있어. 네 모터가 뭘 망가뜨리면 네가 물어 주는 거야. 그걸 카드에 써.
 
 043. SAM: So a damage guarantee, right on the box.
     샘: 그러니까 손상 보증을 상자에 바로 넣는 거네요.
 
-044. BEN: And don't trash Arcwell in public, just be calm and boring, because boring wins. Bye.
+044. BEN: And don't trash Arcwell in public. Just be calm and boring, because boring wins. Bye.
     벤: 그리고 아크웰을 공개적으로 깎아내리지 마. 차분하고 지루하게 해. 지루한 게 이겨. 끊는다.
 
 045. MIKE: Okay, I heard that, and "if our motor breaks your furnace, we pay" is something I can show my brother.
@@ -159,7 +159,7 @@
 048. TONY: Twenty? Mike, I love you!
     토니: 스무 개! 마이크, 사랑한다!
 
-049. MIKE: Don't, because people are watching.
+049. MIKE: Don't, people are watching.
     마이크: 하지 마요. 사람들 보잖아요.
 
 050. GWEN: Excuse me, is this the rare-earth-free blower motor, the one that's not across the aisle?
@@ -180,7 +180,7 @@
 055. GWEN: Then I owe you a coffee. Can I ask you a direct question about your motor, Mr. Kowalski, which is whether it sparks?
     그웬: 그럼 커피 한 잔 빚졌네요. 코왈스키 씨, 모터에 대해 직설적으로 하나 물을게요. 불꽃 튀어요?
 
-056. WEN: No, because there are no brushes, and the electronics are sealed in a potted module.
+056. WEN: No. There are no brushes, and the electronics are sealed in a potted module.
     웬: 아뇨. 브러시가 없고, 전자부는 수지로 밀봉한 모듈 안에 있어요.
 
 057. GWEN: So you must be the engineer.
@@ -189,25 +189,25 @@
 058. WEN: I'm Wen Liu, and why do you ask about sparks?
     웬: 웬 리우예요. 불꽃은 왜 물으세요?
 
-059. GWEN: Because of the new refrigerant, so let's get coffee, but not at their coffee bar, because I don't want a hat.
+059. GWEN: Because of the new refrigerant. Let's get coffee, but not at their coffee bar, because I don't want a hat.
     그웬: 새 냉매 때문에요. 커피 마시러 가요. 저쪽 커피 바 말고요. 모자 받기 싫거든요.
 
 060. SAM: Gwen, I've been learning about the refrigerant change all month, mostly from a twenty-two-year-old apprentice. Tell me what it looks like from the factory.
     샘: 그웬, 이번 달 내내 냉매 전환에 대해 배웠어요. 주로 스물두 살 견습생한테서요. 공장에서 보면 어떤지 얘기해 주세요.
 
-061. GWEN: From the factory, it looks like the biggest redesign I've seen in twenty years, because every product we make had to change at once, while the old refrigerant is being phased out and the new ones are mildly flammable.
+061. GWEN: From the factory, it looks like the biggest redesign I've seen in twenty years. Every product we make had to change at once. The old refrigerant is being phased out, and the new ones are mildly flammable.
     그웬: 공장에서 보면 20년 동안 본 것 중 제일 큰 재설계예요. 우리가 만드는 모든 제품이 한꺼번에 바뀌어야 했어요. 옛 냉매는 단계적으로 퇴출되고, 새 냉매는 약한 인화성이고요.
 
 062. WEN: A2L has a lower burning velocity, but it's still flammable at certain concentrations.
     웬: A2L은 연소 속도가 낮지만, 특정 농도에선 여전히 불이 붙어요.
 
-063. GWEN: Right, so the new safety standard says that if refrigerant leaks inside the house, a sensor has to detect it and the system has to react, which mostly means the indoor blower has to turn on and mix the air.
+063. GWEN: Right. The new safety standard says that if refrigerant leaks inside the house, a sensor has to detect it and the system has to react. Mostly, that means the indoor blower has to turn on and mix the air.
     그웬: 맞아요. 그래서 새 안전 기준은 냉매가 집 안에서 새면 센서가 감지하고 시스템이 반응해야 한다고 해요. 주로 실내 송풍기가 켜져서 공기를 섞어야 한다는 거죠.
 
 064. SAM: So the fan isn't just comfort anymore, it's a safety device.
     샘: 그럼 팬이 이제 쾌적함만이 아니라 안전장치네요.
 
-065. GWEN: Exactly. In plain English, the fan used to be about comfort, but now it's also the thing that keeps a leak from building up in a closet, so if it doesn't start, that's a real problem.
+065. GWEN: Exactly. In plain English, the fan used to be about comfort, but now it's also the thing that keeps a leak from building up in a closet. If it doesn't start, that's a real problem.
     그웬: 바로 그거예요. 쉬운 말로, 팬은 원래 쾌적함 담당이었는데 이젠 벽장 안에 샌 냉매가 쌓이지 않게 막는 장치이기도 해요. 그게 안 켜지면 진짜 문제죠.
 
 066. TONY: And you don't want the fan itself making a spark in a cloud of refrigerant.
@@ -216,7 +216,7 @@
 067. GWEN: That too, and the standards deal with that, but I'd rather have a motor that's boring and sealed than one I have to argue about.
     그웬: 그것도요. 기준에서 다루긴 해요. 근데 따져 봐야 하는 모터보다 지루하고 밀봉된 모터가 좋아요.
 
-068. SAM: That's funny, because our lawyer just told me on the phone that boring wins.
+068. SAM: That's funny. Our lawyer just told me on the phone that boring wins.
     샘: 웃기네요. 우리 변호사가 방금 전화로 지루한 게 이긴다고 했거든요.
 
 069. GWEN: Your lawyer is right. Here's my real problem, which is that our current blower motor supplier is overseas and their magnets come from China.
@@ -231,13 +231,13 @@
 072. SAM: And the truce has an expiration date this November.
     샘: 그리고 휴전은 올해 11월에 만료되죠.
 
-073. GWEN: November, and our new heat pump platform launches next spring, so if I design it around a motor that might disappear in November, my CEO will make me live in the warehouse.
+073. GWEN: November, and our new heat pump platform launches next spring. If I design it around a motor that might disappear in November, my CEO will make me live in the warehouse.
     그웬: 11월이요. 우리 새 히트펌프 플랫폼은 내년 봄 출시고요. 11월에 사라질지도 모르는 모터에 맞춰 설계하면 우리 CEO가 저를 창고에서 살게 할 거예요.
 
 074. TYLER: Is that a real threat?
     타일러: 그거 진짜 협박이에요?
 
-075. GWEN: He has a very nice warehouse. Okay, why is your motor better than the one across the aisle, since they told me the same story about no rare earths and made in North America?
+075. GWEN: He has a very nice warehouse. Okay, why is your motor better than the one across the aisle? They told me the same story, no rare earths and made in North America.
     그웬: 아주 좋은 창고가 있거든요. 자, 왜 당신 모터가 건너편 것보다 나아요? 거기서도 똑같은 얘기 했어요. 희토류 없고 북미산이라고.
 
 076. SAM: Honestly, we believe some of their technology came from us, and we have a case at the ITC with a hearing in July, but I can't say more than that.
@@ -249,7 +249,7 @@
 078. SAM: That's what we're asking the commission for, but it's not decided yet.
     샘: 그게 우리가 위원회에 요청하는 거예요. 아직 결정된 건 아니고요.
 
-079. GWEN: That's a supply risk too, so great, another one. Dr. Liu, technically, what does your motor do that theirs doesn't?
+079. GWEN: That's a supply risk too. Great, another one. Dr. Liu, technically, what does your motor do that theirs doesn't?
     그웬: 그것도 공급 위험이네요. 좋네요, 또 하나 추가. 리우 박사님, 기술적으로 당신 모터는 그쪽 모터가 못 하는 뭘 해요?
 
 080. WEN: Theirs is based on our old firmware, version four point two, while ours is version five with better heat management, but for your problem that's not the important difference.
@@ -261,16 +261,16 @@
 082. WEN: Let me think, and do you have a napkin?
     웬: 생각 좀 해 볼게요. 냅킨 있어요?
 
-083. TONY: She wants a napkin, so is that normal?
+083. TONY: She wants a napkin. Is that normal?
     토니: 냅킨 달래. 이거 정상이야?
 
-084. SAM: That's how our company was born, so give her the napkin.
+084. SAM: That's how our company was born. Give her the napkin.
     샘: 우리 회사가 그렇게 태어났어요. 냅킨 줘요.
 
 085. WEN: Gwen, when your leak sensor detects refrigerant, what tells the blower to start?
     웬: 그웬, 누설 센서가 냉매를 감지하면 송풍기한테 켜지라고 하는 건 뭐예요?
 
-086. GWEN: The main control board does, because the sensor talks to the board and the board talks to the motor.
+086. GWEN: The main control board does. The sensor talks to the board, and the board talks to the motor.
     그웬: 메인 제어 기판이요. 센서가 기판한테, 기판이 모터한테 말하죠.
 
 087. WEN: And what if the board is the thing that failed?
@@ -285,19 +285,19 @@
 090. GWEN: Keep going, I'm listening.
     그웬: 계속하세요. 듣고 있어요.
 
-091. WEN: Add a second input that runs directly from the leak sensor to the motor, so if the motor hears "leak," it starts at mixing speed no matter what the board says, and with two paths, if one dies, the other still works.
+091. WEN: Add a second input that runs directly from the leak sensor to the motor. If the motor hears "leak," it starts at mixing speed, no matter what the board says. With two paths, if one dies, the other still works.
     웬: 누설 센서에서 모터로 바로 가는 두 번째 입력을 다는 거예요. 모터가 "누설" 신호를 들으면 기판이 뭐라든 혼합 속도로 켜져요. 경로가 둘이니까 하나가 죽어도 다른 하나는 작동하죠.
 
 092. GWEN: So it's a redundant path in the motor itself.
     그웬: 모터 자체에 이중화 경로를 두는 거네요.
 
-093. WEN: Governor already watches its own current and temperature, so adding one more input is small, and the difficult part is testing it so the motor never starts by mistake when there's no leak.
+093. WEN: Governor already watches its own current and temperature, so adding one more input is small. The difficult part is testing it, so the motor never starts by mistake when there's no leak.
     웬: 거버너가 이미 자기 전류랑 온도를 감시하니까 입력 하나 더하는 건 작은 일이에요. 어려운 건 누설이 없을 때 실수로 켜지지 않게 테스트하는 거예요.
 
 094. TONY: If a fan turned on by itself at three a.m. for no reason, my customers would call an exorcist.
     토니: 새벽 세 시에 팬이 이유 없이 혼자 켜지면, 우리 손님들은 퇴마사를 부를 거야.
 
-095. GWEN: Mine would too, so Dr. Liu, how long would that take?
+095. GWEN: Mine would too. Dr. Liu, how long would that take?
     그웬: 우리 손님들도요. 리우 박사님, 그거 얼마나 걸려요?
 
 096. WEN: A working prototype in your air handler would take six weeks, or maybe five if you send me one of your units and your sensor spec.
@@ -315,25 +315,25 @@
 100. TYLER: Sixty thousand a year is a real number.
     타일러: 1년에 6만이면 진짜 숫자네요.
 
-101. GWEN: It's real if it works and if my purchasing department doesn't faint at your price, because purchasing faints easily.
+101. GWEN: It's real if it works and if my purchasing department doesn't faint at your price. Purchasing faints easily.
     그웬: 작동하고, 우리 구매팀이 가격 보고 기절 안 하면 진짜죠. 구매팀은 잘 기절하거든요.
 
 102. SAM: Every purchasing department I've met faints easily, and then they wake up and ask for three percent.
     샘: 제가 만난 구매팀은 다 잘 기절해요. 그러다 깨어나서 3퍼센트 깎아 달라고 하죠.
 
-103. GWEN: Ha, so you've met Detroit.
+103. GWEN: Ha, you've met Detroit.
     그웬: 하, 디트로이트를 만나 보셨군요.
 
-104. SAM: I've met Detroit. Gwen, one thing I should tell you up front is that our diagnostic port is open on every motor, so contractors can read it and program it, and we don't lock it.
+104. SAM: I've met Detroit. Gwen, there's one thing I should tell you up front. Our diagnostic port is open on every motor. Contractors can read it and program it, and we don't lock it.
     샘: 만나 봤죠. 그웬, 미리 말씀드릴 게 있어요. 우리 진단 포트는 모든 모터에서 공개예요. 업체가 읽고 프로그래밍할 수 있고, 잠그지 않아요.
 
 105. GWEN: Is that true for the safety function too?
     그웬: 안전 기능도 그래요?
 
-106. WEN: No, and that's a fair question, because contractors can read the safety settings but they can't turn them off. Reading is open and safety is locked, and that's a difference I can defend.
+106. WEN: No, and that's a fair question. Contractors can read the safety settings, but they can't turn them off. Reading is open and safety is locked, and that's a difference I can defend.
     웬: 아뇨. 좋은 질문이에요. 업체는 안전 설정을 읽을 순 있지만 끌 순 없어요. 읽기는 공개, 안전은 잠금. 그건 제가 방어할 수 있는 차이예요.
 
-107. GWEN: Good, because if a contractor can turn off leak mitigation to stop a noise complaint, somebody will.
+107. GWEN: Good. If a contractor can turn off leak mitigation to stop a noise complaint, somebody will.
     그웬: 좋아요. 소음 민원 막으려고 누설 완화 기능을 끌 수 있으면 누군가는 끌 거거든요.
 
 108. TONY: She's right that somebody will, and it'll probably be Mike's brother.
@@ -342,25 +342,25 @@
 109. SAM: It's open where it helps the owner and locked where it protects the owner, and I like that.
     샘: 주인을 돕는 곳은 열고, 주인을 지키는 곳은 잠근다. 그거 좋네요.
 
-110. GWEN: Write that on your banner, because it's better than the duct tape.
+110. GWEN: Write that on your banner. It's better than the duct tape.
     그웬: 그거 현수막에 써요. 덕트 테이프보다 나아요.
 
-111. TYLER: Gwen, can I ask what the old refrigerant deadline did to your sales, since Tony said contractors were rushing to install old units last year?
+111. TYLER: Gwen, can I ask what the old refrigerant deadline did to your sales? Tony said contractors were rushing to install old units last year.
     타일러: 그웬, 옛 냉매 마감이 매출에 어떤 영향을 줬는지 물어봐도 돼요? 토니 말로는 작년에 업체들이 옛날 장비 설치하느라 바빴다던데요.
 
-112. GWEN: Right, because split systems built with the old refrigerant before 2025 could still be installed until January first, so everybody emptied their warehouses in the fall, and the tax credit ended at the same moment.
+112. GWEN: Right. Split systems built with the old refrigerant before 2025 could still be installed until January first, so everybody emptied their warehouses in the fall. And the tax credit ended at the same moment.
     그웬: 맞아요. 2025년 전에 옛 냉매로 만든 분리형 시스템은 1월 1일까지 설치할 수 있었거든요. 그래서 다들 가을에 창고를 비웠어요. 거기에 세액공제도 같은 순간에 끝났고요.
 
 113. TONY: So that's two cliffs on the same day, and Happy New Year.
     토니: 같은 날 절벽이 두 개였지. 새해 복 많이 받아라.
 
-114. GWEN: And this spring everyone is learning the new equipment, so some builders went back to gas and a basic AC while some went all in on heat pumps, and it's a strange market.
+114. GWEN: And this spring, everyone is learning the new equipment. Some builders went back to gas and a basic AC, and some went all in on heat pumps. It's a strange market.
     그웬: 그리고 올봄엔 다들 새 장비를 배우는 중이에요. 어떤 건설사는 가스에 기본 에어컨으로 돌아갔고, 어떤 데는 히트펌프에 올인했죠. 이상한 시장이에요.
 
 115. SAM: In my experience, strange markets are where small companies get in the door.
     샘: 제 경험상, 이상한 시장이 작은 회사가 문 안에 들어가는 곳이에요.
 
-116. GWEN: Or where they get crushed, because I've seen both. Dr. Liu, can I keep the napkin?
+116. GWEN: Or where they get crushed. I've seen both. Dr. Liu, can I keep the napkin?
     그웬: 아니면 깔려 죽거나요. 둘 다 봤어요. 리우 박사님, 냅킨 가져가도 돼요?
 
 117. WEN: No, it's mine, but I'll send you a drawing tonight.
@@ -369,22 +369,22 @@
 118. GWEN: Fair enough. Mr. Kowalski, I need a prototype order to go through my company for fifty motors to test in our lab in July, and if they pass, we talk production.
     그웬: 그렇죠. 코왈스키 씨, 회사로 시제품 주문을 넣어야 해요. 7월에 우리 연구실에서 테스트할 모터 50개요. 통과하면 양산 얘기 하죠.
 
-119. SAM: Fifty motors in six weeks, so who signs it?
+119. SAM: Fifty motors in six weeks. Who signs it?
     샘: 모터 50개를 6주 안에. 서명은 누가 해요?
 
-120. GWEN: I do, because up to a hundred thousand dollars I don't need anybody, and that's the only power I have.
+120. GWEN: I do. Up to a hundred thousand dollars I don't need anybody, and that's the only power I have.
     그웬: 제가요. 10만 달러까지는 아무 허락도 필요 없어요. 제가 가진 유일한 권한이죠.
 
 121. TYLER: A hundred thousand without asking anybody is a good power to have.
     타일러: 아무한테도 안 묻고 10만이면 좋은 권한이네요.
 
-122. GWEN: Don't tell my CEO, because he thinks it's fifty.
+122. GWEN: Don't tell my CEO. He thinks it's fifty.
     그웬: 우리 CEO한텐 말하지 마요. 5만인 줄 알거든요.
 
 123. SAM: Wen, can you do six weeks with everything else, meaning Iowa, the drones, Atlas, the FX-B1, and the hearing prep?
     샘: 웬, 다른 것까지 다 하면서 6주 돼요? 아이오와, 드론, 애틀라스, FX-B1, 청문회 준비까지요?
 
-124. WEN: Marcus can take the drones for a month and the FX-B1 is almost done, so I'll do the hearing prep at night.
+124. WEN: Marcus can take the drones for a month, and the FX-B1 is almost done. I'll do the hearing prep at night.
     웬: 드론은 마커스가 한 달 맡으면 되고, FX-B1은 거의 끝났어요. 청문회 준비는 밤에 할게요.
 
 125. SAM: Wen, you already do everything at night.
@@ -408,7 +408,7 @@
 131. TYLER: Okay, final count for the day is three hundred and sixty spec sheets gone, forty-one contractors signed up for Tony's garage, and one prototype order.
     타일러: 자, 오늘 최종 집계요. 사양서 360장 나갔고, 토니 차고에 업체 41곳 가입했고, 시제품 주문 하나요.
 
-132. TONY: Forty-one? The breakfast club only has sixty members, so who are the other ones?
+132. TONY: Forty-one? The breakfast club only has sixty members. Who are the other ones?
     토니: 41곳! 조찬 클럽은 예순 명뿐인데, 나머진 누구야?
 
 133. TYLER: They're guys who saw Mike program the motor in one minute forty-one, and he did it four more times for people, and he's very proud.
@@ -426,7 +426,7 @@
 137. TONY: You're starting to sound like me, and that's dangerous for you.
     토니: 너 나처럼 말하기 시작했다. 그거 너한테 위험해.
 
-138. SAM: Wen, you've been quiet, so what's wrong?
+138. SAM: Wen, you've been quiet. What's wrong?
     샘: 웬, 조용하네요. 무슨 일 있어요?
 
 139. WEN: Nothing is wrong, I'm just thinking about the second input, and about something else.
@@ -441,13 +441,13 @@
 142. SAM: It's in their HVAC motor too?
     샘: 냉난방 모터에도요?
 
-143. WEN: It's in everything they make, because they didn't change it and they didn't even understand it. Sam, they're building a whole business on Kevin's copy.
+143. WEN: It's in everything they make. They didn't change it, and they didn't even understand it. Sam, they're building a whole business on Kevin's copy.
     웬: 그쪽이 만드는 모든 것에 있어요. 바꾸지도 않았고, 이해하지도 못했어요. 샘, 그쪽은 케빈이 빼 간 복사본 위에 사업 전체를 세우고 있어요.
 
-144. SAM: Then July is going to be interesting, so let's pack up, and Tony, thanks for the dolly.
+144. SAM: Then July is going to be interesting. Let's pack up, and Tony, thanks for the dolly.
     샘: 그럼 7월이 재미있겠네요. 정리하자. 토니, 손수레 고마워요.
 
-145. TONY: Thanks for the forty-one, because I'll buy you Italian beef forever.
+145. TONY: Thanks for the forty-one. I'll buy you Italian beef forever.
     토니: 41곳 고마워. 평생 이탈리안 비프 사 줄게.
 
 146. TYLER: Sam, your phone's been buzzing on the table for a minute.

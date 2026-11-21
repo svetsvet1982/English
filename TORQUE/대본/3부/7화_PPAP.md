@@ -18,7 +18,7 @@
 001. GLORIA: Okay, it's six a.m., and welcome to the war room. Nobody touch the binders unless Lily says you can touch the binders.
     글로리아: 자, 새벽 여섯 시고, 작전실에 온 걸 환영해. 릴리가 만져도 된다고 하기 전엔 아무도 바인더 만지지 마.
 
-002. LILY: There are nineteen binders, and each one has a color, so blue is design, green is process, yellow is testing, and red is anything Teresa will yell about.
+002. LILY: There are nineteen binders, and each one has a color. Blue is design, green is process, yellow is testing, and red is anything Teresa will yell about.
     릴리: 바인더가 열아홉 개고 각각 색이 있어요. 파랑은 설계, 초록은 공정, 노랑은 시험, 빨강은 테레사가 소리 지를 만한 것 전부요.
 
 003. TYLER: Why are there so many red ones, Lily? That's, like, half the table.
@@ -27,13 +27,13 @@
 004. LILY: Because Grandpa says quality people always find something, and he said, "If they don't find anything, they think they didn't look hard enough."
     릴리: 할아버지가 품질 쪽 사람들은 항상 뭔가를 찾아낸다고 하셨어요. "아무것도 못 찾으면 자기가 덜 찾았다고 생각한다"고요.
 
-005. EARL: Your grandpa's right, because the quality guys at Moraine once wrote me up for a crooked label. The motor was perfect, but the label was crooked.
-    얼: 할아버지 말이 맞아. 모레인 품질 쪽 사람들이 한번은 라벨이 비뚤어졌다고 날 지적했거든. 모터는 완벽했는데 라벨이 비뚤어졌다고.
+005. EARL: Your grandpa's right. The quality guys at Moraine once wrote me up for a crooked label, when the motor was perfect.
+    얼: 할아버지 말이 맞아. 모레인 품질 쪽 사람들이 한번은 모터는 완벽한데 라벨이 비뚤어졌다고 날 지적했어.
 
 006. SAM: Lily, how long have you been here?
     샘: 릴리, 너 여기 언제부터 있었어?
 
-007. LILY: Since four, because Mom dropped me off on her way to the hospital. It's summer, Dad, so I don't have school, I have binders.
+007. LILY: Since four. Mom dropped me off on her way to the hospital. It's summer, Dad, so I don't have school, I have binders.
     릴리: 네 시부터. 엄마가 병원 가는 길에 내려 줬어. 여름이잖아, 아빠. 학교는 없고 바인더가 있지.
 
 008. SAM: You should be sleeping, or at the pool, or doing whatever sixteen-year-olds do in June.
@@ -45,7 +45,7 @@
 010. WEN: Coming from me, that's very high praise.
     웬: 저한테서 그 말이면 아주 높은 칭찬이에요.
 
-011. GLORIA: Okay, listen up, because today is the day. Teresa Nguyen from Brenner quality arrives at eight to audit the whole factory, and this afternoon we do the run at rate.
+011. GLORIA: Okay, listen up, today is the day. Teresa Nguyen from Brenner quality arrives at eight to audit the whole factory, and this afternoon we do the run at rate.
     글로리아: 자, 잘 들어. 오늘이 그날이야. 브레너 품질팀 테레사 응우옌이 여덟 시에 와서 공장 전체를 감사하고, 오후엔 런 앳 레이트를 해.
 
 012. JAYDEN: Sorry, but what's a run at rate?
@@ -72,7 +72,7 @@
 019. WEN: I imagined three hundred, but Rachel told me to stop at two hundred and twelve.
     웬: 삼백 가지 상상했는데, 레이철이 이백열두 개에서 멈추라고 했어요.
 
-020. GLORIA: And what about the firmware, because Rachel won't sign anything that says "beta"?
+020. GLORIA: And what about the firmware? Rachel won't sign anything that says "beta."
     글로리아: 펌웨어는? 레이철은 '베타'라고 써 있는 건 아무것도 서명 안 할 거야.
 
 021. WEN: It's frozen at version five point two, with no more changes without a formal change request to Atlas. From today, I can't even fix a typo in a comment without asking Detroit.
@@ -84,14 +84,14 @@
 023. WEN: I don't like the car business.
     웬: 자동차 업계 싫어요.
 
-024. SAM: What else isn't done? Tell me the bad news now, while I still have coffee in my hand and twenty-one hours before she leaves, because I don't want to hear about it from Teresa at three o'clock.
-    샘: 또 안 끝난 게 뭐예요? 손에 커피 들려 있고 그 사람 갈 때까지 스물한 시간 남았을 때 나쁜 소식 말해 줘요. 세 시에 테레사한테 듣고 싶진 않으니까.
+024. SAM: What else isn't done? Tell me the bad news now, while I still have coffee in my hand and twenty-one hours before she leaves. I don't want to hear about it from Teresa at three o'clock.
+    샘: 또 안 끝난 게 뭐예요? 손에 커피 들려 있고 그 사람 갈 때까지 스물한 시간 남았을 때 나쁜 소식 말해 줘요. 세 시에 테레사한테 듣고 싶진 않아요.
 
 025. LILY: Red binder number four is the supplier certificates, and Tyler's been chasing them for three weeks.
     릴리: 빨간 바인더 4번이 공급사 증명서인데, 타일러 아저씨가 3주째 쫓아다니고 있어요.
 
-026. TYLER: I have twenty-six out of twenty-eight, because the magnet company in Japan sent theirs at midnight. The last two are the bearings from Cincinnati and the copper from Pennsylvania.
-    타일러: 스물여덟 개 중에 스물여섯 개 받았어요. 일본 자석 회사가 자정에 보내 줬거든요. 남은 두 개는 신시내티 베어링이랑 펜실베이니아 구리예요.
+026. TYLER: I have twenty-six out of twenty-eight, now that the magnet company in Japan sent theirs at midnight. The last two are the bearings from Cincinnati and the copper from Pennsylvania.
+    타일러: 일본 자석 회사가 자정에 보내 줘서 스물여덟 개 중에 스물여섯 개 받았어요. 남은 두 개는 신시내티 베어링이랑 펜실베이니아 구리예요.
 
 027. GLORIA: You mean our bearings, the good ones in the blue boxes?
     글로리아: 우리 베어링 말이야? 파란 상자에 든 좋은 거?
@@ -99,8 +99,8 @@
 028. TYLER: Yes, the good ones, and the guy who signs the certificates is on a fishing trip in Canada with no cell service. His office says Monday.
     타일러: 네, 좋은 거요. 증명서에 서명하는 사람이 캐나다로 낚시 여행을 갔는데 휴대폰이 안 터진대요. 사무실에선 월요일이래요.
 
-029. EARL: He's fishing in the middle of a PPAP, so that's a man with priorities.
-    얼: PPAP 한복판에 낚시라, 우선순위가 확실한 사람이네.
+029. EARL: He's fishing in the middle of a PPAP? That's a man with priorities.
+    얼: PPAP 한복판에 낚시라고? 우선순위가 확실한 사람이네.
 
 030. SAM: Call his office back and ask if anybody else can sign. If not, I'll drive to Cincinnati myself and sit in their lobby until somebody does.
     샘: 그 사무실에 다시 전화해서 다른 사람이 서명할 수 있는지 물어봐. 안 되면 내가 직접 신시내티 가서 누가 서명할 때까지 로비에 앉아 있을게.
@@ -108,7 +108,7 @@
 031. TYLER: Copy that, and what about the copper?
     타일러: 접수. 구리는요?
 
-032. GLORIA: I'll handle the copper, because the man who owns that company still owes me for a loan in two thousand eight. He'll sign.
+032. GLORIA: I'll handle the copper. The man who owns that company still owes me for a loan in two thousand eight, and he'll sign.
     글로리아: 구리는 내가 처리할게. 그 회사 사장이 아직 2008년 대출 건으로 나한테 신세가 있거든. 서명할 거야.
 
 033. JAYDEN: Is there anybody in Ohio who doesn't owe Gloria a favor?
@@ -123,11 +123,11 @@
 036. EARL: You checked all fifty of them?
     얼: 쉰 개 전부 확인했어?
 
-037. LUPITA: All fifty, and one had a scratch, so I put it in the red box, and I'm still angry about it.
+037. LUPITA: All fifty. One had a scratch, so I put it in the red box, and I'm still angry about it.
     루피타: 쉰 개 전부요. 하나에 흠집이 있어서 빨간 상자에 넣었는데, 아직 화나요.
 
-038. EARL: That's my girl. See, everybody, that's how you do it, because you find the one and you're angry about it.
-    얼: 역시. 봤지, 다들? 그렇게 하는 거야. 하나를 찾아내고 그거 때문에 화를 내는 거.
+038. EARL: That's my girl. See, everybody? That's how you do it. You find the one, and you're angry about it.
+    얼: 역시. 봤지, 다들? 그렇게 하는 거야. 하나를 찾아내고, 그거 때문에 화를 내는 거.
 
 039. PATTY: Lupita, how are you liking Ohio so far?
     패티: 루피타, 오하이오는 지금까지 어때요?
@@ -144,7 +144,7 @@
 043. SAM: She's been here four days, and she already sounds like me.
     샘: 여기 온 지 나흘 됐는데 벌써 나처럼 말하네.
 
-044. GLORIA: Okay, it's seven fifty-five, so everybody to your stations. Earl, tuck in your shirt, and Sam, don't make jokes, because Teresa doesn't laugh.
+044. GLORIA: Okay, it's seven fifty-five, everybody to your stations. Earl, tuck in your shirt, and Sam, don't make jokes, because Teresa doesn't laugh.
     글로리아: 자, 일곱 시 오십오 분이야. 다들 자리로. 얼, 셔츠 집어넣고, 샘, 농담하지 마. 테레사는 안 웃어.
 
 045. SAM: And how do you know that?
@@ -156,10 +156,10 @@
 047. SAM: Welcome to Ferrox, I'm Sam Kowalski. Dr. Wen Liu will answer your technical questions, and Earl Washington runs production.
     샘: Ferrox에 오신 걸 환영합니다, 샘 코왈스키예요. 기술 질문은 웬 리우 박사가 답할 거고, 생산은 얼 워싱턴이 맡고 있어요.
 
-048. TERESA: Good. Mr. Washington, let's start on the floor, because I like to see things before I read about them.
-    테레사: 좋아요. 워싱턴 씨, 현장부터 시작하죠. 전 읽기 전에 직접 보는 걸 좋아하거든요.
+048. TERESA: Good. Mr. Washington, let's start on the floor. I like to see things before I read about them.
+    테레사: 좋아요. 워싱턴 씨, 현장부터 시작하죠. 전 읽기 전에 직접 보는 걸 좋아해요.
 
-049. EARL: Call me Earl, because everybody does.
+049. EARL: Call me Earl. Everybody does.
     얼: 얼이라고 불러요. 다들 그래요.
 
 050. TERESA: I'll call you Mr. Washington until I know you, and then I'll decide. What's this?
@@ -171,13 +171,13 @@
 052. TERESA: You actually name your machines?
     테레사: 기계에 진짜 이름을 붙여요?
 
-053. EARL: Only the good ones, because the bad ones don't stay long enough to get a name.
-    얼: 좋은 놈들만. 나쁜 놈들은 이름 붙일 만큼 오래 안 있거든.
+053. EARL: Only the good ones. The bad ones don't stay long enough to get a name.
+    얼: 좋은 놈들만. 나쁜 놈들은 이름 붙일 만큼 오래 안 있어.
 
 054. TERESA: Hm, this torque wrench at station six has a calibration sticker that says it expired on June fifteenth.
     테레사: 흠, 6번 작업대 토크 렌치의 교정 스티커에 6월 15일에 만료됐다고 돼 있네요.
 
-055. EARL: That can't be right, so Darnell, check the calibration log.
+055. EARL: That can't be right. Darnell, check the calibration log.
     얼: 그럴 리가 없는데. 대넬, 교정 기록 확인해.
 
 056. DARNELL: It was recalibrated on the twentieth, sir, sorry, Earl. The lab sent the new sticker, but nobody put it on, and it's still in the drawer.
@@ -186,11 +186,11 @@
 057. TERESA: So the tool is fine, but the paper says it isn't.
     테레사: 그러니까 공구는 괜찮은데 서류가 아니라고 하네요.
 
-058. EARL: The tool is fine, because metal don't lie.
+058. EARL: The tool is fine. Metal don't lie.
     얼: 공구는 괜찮아. 쇠는 거짓말 안 해.
 
-059. TERESA: Metal doesn't lie, Mr. Washington, but in my job I can only see the paper. If the sticker says expired, then every motor tightened with that wrench since the fifteenth is a question, because calibration is proof that your tools tell the truth.
-    테레사: 쇠는 거짓말 안 하죠, 워싱턴 씨. 근데 제 일에선 서류만 볼 수 있어요. 스티커가 만료라고 하면 15일 이후로 그 렌치로 조인 모든 모터가 의문이 돼요. 교정은 공구가 진실을 말한다는 증거거든요.
+059. TERESA: Metal doesn't lie, Mr. Washington, but in my job I can only see the paper. If the sticker says expired, then every motor tightened with that wrench since the fifteenth is a question. That's what calibration is, proof that your tools tell the truth.
+    테레사: 쇠는 거짓말 안 하죠, 워싱턴 씨. 근데 제 일에선 서류만 볼 수 있어요. 스티커가 만료라고 하면 15일 이후로 그 렌치로 조인 모든 모터가 의문이 돼요. 교정이 그런 거예요. 공구가 진실을 말한다는 증거요.
 
 060. EARL: Darnell, put the sticker on, and print the calibration certificate and staple it to her clipboard.
     얼: 대넬, 스티커 붙여. 그리고 교정 증명서 출력해서 이분 클립보드에 스테이플로 박아.
@@ -228,17 +228,17 @@
 071. SAM: She's my daughter, and she built the spreadsheet.
     샘: 제 딸이고, 그 스프레드시트를 만들었어요.
 
-072. TERESA: That's called traceability, which in plain English means that if something goes wrong, you can trace it back to where it came from and forward to everywhere it went. Most small suppliers can't, because they have a box of paper and a guy named Steve.
+072. TERESA: That's called traceability. In plain English, if something goes wrong, you can trace it back to where it came from and forward to everywhere it went. Most small suppliers can't, because all they have is a box of paper and a guy named Steve.
     테레사: 그게 추적성이에요. 쉽게 말하면 뭔가 잘못됐을 때 그게 어디서 왔는지 거꾸로, 어디로 갔는지 앞으로 추적할 수 있다는 거죠. 작은 협력사 대부분은 못 해요. 서류 한 상자랑 스티브라는 사람만 있거든요.
 
 073. TYLER: Well, we don't have a Steve.
     타일러: 음, 저흰 스티브 없어요.
 
-074. TERESA: You have a sixteen-year-old, which is better. Okay, the floor is good, better than I expected, so let's see the run at rate.
+074. TERESA: You have a sixteen-year-old, and that's better. Okay, the floor is good, better than I expected. Let's see the run at rate.
     테레사: 열여섯 살이 있잖아요. 그게 더 나아요. 좋아요, 현장은 생각보다 괜찮네요. 런 앳 레이트 보죠.
 
-075. EARL: Okay, everybody, it's three hundred motors at normal speed with normal people. Nobody be a hero, because heroes make mistakes.
-    얼: 자, 다들, 평소 속도에 평소 사람으로 모터 삼백 개야. 아무도 영웅 되지 마. 영웅이 실수를 하거든.
+075. EARL: Okay, everybody, it's three hundred motors at normal speed with normal people. Nobody be a hero. Heroes make mistakes.
+    얼: 자, 다들, 평소 속도에 평소 사람으로 모터 삼백 개야. 아무도 영웅 되지 마. 영웅이 실수를 해.
 
 076. JAYDEN: What if I'm just naturally heroic?
     제이든: 제가 원래 타고난 영웅이면요?
@@ -255,7 +255,7 @@
 080. GLORIA: We've done one hundred and eighty, right on pace, and Teresa hasn't said a word in two hours. I don't know if that's good or bad.
     글로리아: 백팔십 개 끝났고 딱 속도에 맞춰 가고 있어. 테레사가 두 시간째 한마디도 안 하는데, 좋은 건지 나쁜 건지 모르겠어.
 
-081. WEN: She's writing less than she was earlier, and now she's mostly watching, which is good.
+081. WEN: She's writing less than she was earlier, and now she's mostly watching. That's good.
     웬: 아까보다 적는 게 줄었고 지금은 대부분 보기만 해요. 좋은 거예요.
 
 082. TYLER: Sam, the bearing company in Cincinnati is on the phone, and the fishing guy's boss is going to sign the certificate. He's emailing it now.
@@ -270,11 +270,11 @@
 085. SAM: Then tell him I'll buy him a very nice salad.
     샘: 그럼 아주 좋은 샐러드 산다고 해.
 
-086. GLORIA: And the copper man signed too, like I told you, so it's twenty-eight out of twenty-eight, baby.
+086. GLORIA: And the copper man signed too, like I told you. That's twenty-eight out of twenty-eight, baby.
     글로리아: 그리고 구리 사장도 서명했어. 내가 말했지. 스물여덟 개 중 스물여덟 개야, 얘.
 
-087. LILY: Red binder four is now green, so I'm changing the tab.
-    릴리: 빨간 바인더 4번은 이제 초록이라 탭 바꿀게요.
+087. LILY: Red binder four is green now. I'm changing the tab.
+    릴리: 빨간 바인더 4번은 이제 초록이에요. 탭 바꿀게요.
 
 088. EARL: Two hundred and seventy. Two eighty. Two ninety. Patty, Darnell, last ten. Slow and smooth.
     얼: 이백칠십. 이백팔십. 이백구십. 패티, 대넬, 마지막 열 개. 천천히, 매끄럽게.
@@ -285,10 +285,10 @@
 090. DARNELL: Smooth is fast.
     대넬: 매끄러우면 빠르다.
 
-091. EARL: That's three hundred, and that's the run, so put everything on Betsy.
+091. EARL: Three hundred. That's the run, so put everything on Betsy.
     얼: 삼백. 런 끝났어. 전부 베치에 올려.
 
-092. TERESA: Good. Put every motor through the end-of-line test, because I want to see all three hundred results myself.
+092. TERESA: Good. Put every motor through the end-of-line test. I want to see all three hundred results myself.
     테레사: 좋아요. 모든 모터를 출하 시험에 돌리세요. 결과 삼백 개는 제가 직접 볼 거예요.
 
 093. WEN: Two ninety-eight passed. Two ninety-nine passed. Three hundred.
@@ -297,7 +297,7 @@
 094. TERESA: And what about three hundred?
     테레사: 삼백 번은요?
 
-095. WEN: Number three hundred failed on noise, because there's a whine in the gear stage that's six decibels over the limit.
+095. WEN: Number three hundred failed on noise. There's a whine in the gear stage that's six decibels over the limit.
     웬: 삼백 번은 소음으로 불합격이에요. 기어단에서 윙 하는 소리가 나는데 한계보다 6데시벨 높아요.
 
 096. EARL: Damn it, it's the last one, and it's always the last one.
@@ -306,17 +306,17 @@
 097. TERESA: Two ninety-nine out of three hundred is very good, Mr. Washington, but my job isn't to tell you what's good. My job is to ask why number three hundred failed, and whether there are more like it in your warehouse.
     테레사: 삼백 개 중 이백구십구 개면 아주 좋아요, 워싱턴 씨. 근데 제 일은 뭐가 좋은지 말해 주는 게 아니라, 왜 삼백 번이 떨어졌는지, 창고에 그런 게 더 있는지 묻는 거예요.
 
-098. SAM: What happens now, and do we fail the whole audit because of one motor? Frank's thirty days don't have room for starting over, so I need to know exactly what you need from us.
+098. SAM: What happens now? Do we fail the whole audit because of one motor? Frank's thirty days don't have room for starting over, so I need to know exactly what you need from us.
     샘: 이제 어떻게 돼요? 모터 하나 때문에 감사 전체가 불합격이에요? 프랭크의 30일엔 다시 시작할 여유가 없으니까 저희한테 정확히 뭐가 필요한지 알아야 해요.
 
 099. TERESA: I leave at six. If you can show me the root cause and a containment plan by tomorrow morning, I'll write it as a corrective action, not a failure, but if you can't, I write "not approved," and Frank gets my report.
     테레사: 전 여섯 시에 퇴근해요. 내일 아침까지 근본 원인이랑 봉쇄 계획을 보여 주시면 불합격 말고 시정 조치로 쓸게요. 못 보여 주시면 '승인 불가'라고 쓰고, 프랭크가 제 보고서를 받게 돼요.
 
-100. GLORIA: Containment, so explain it like we're tired, honey, because we are.
-    글로리아: 봉쇄라, 우리가 피곤한 사람들이라고 생각하고 설명해 줘, 얘. 진짜 피곤하니까.
+100. GLORIA: Containment. Explain it like we're tired, honey, because we are.
+    글로리아: 봉쇄라. 우리가 피곤한 사람들이라고 생각하고 설명해 줘, 얘. 진짜 피곤하니까.
 
-101. TERESA: Containment means you put a fence around the problem, so you find every part that might have the same defect and make sure none of them get to a customer. Then you fix the cause.
-    테레사: 봉쇄는 문제 둘레에 울타리를 치는 거예요. 같은 불량이 있을 수 있는 부품을 전부 찾아서 하나도 고객한테 안 가게 하는 거죠. 그다음에 원인을 고치고요.
+101. TERESA: Containment means you put a fence around the problem. You find every part that might have the same defect and make sure none of them get to a customer, and then you fix the cause.
+    테레사: 봉쇄는 문제 둘레에 울타리를 치는 거예요. 같은 불량이 있을 수 있는 부품을 전부 찾아서 하나도 고객한테 안 가게 하고, 그다음에 원인을 고치는 거죠.
 
 102. EARL: Okay, nobody's going home. Darnell, open number three hundred, Jayden, get me the gear trays, and Lupita, I want your eyes on this.
     얼: 좋아, 아무도 집에 안 가. 대넬, 삼백 번 열어. 제이든, 기어 트레이 가져와. 루피타, 네 눈이 필요해.
@@ -330,8 +330,8 @@
 105. EARL: I don't see anything at all.
     얼: 아무것도 안 보이는데.
 
-106. PATTY: Here, use my magnifying glass, because I always have it.
-    패티: 여기요, 제 돋보기 쓰세요. 항상 갖고 다니거든요.
+106. PATTY: Here, use my magnifying glass. I always have it on me.
+    패티: 여기요, 제 돋보기 쓰세요. 항상 갖고 다녀요.
 
 107. EARL: Okay, now I see it. Lupita, you saw that without a glass?
     얼: 그래, 이제 보인다. 루피타, 그걸 돋보기도 없이 봤어?
@@ -360,11 +360,11 @@
 115. JAYDEN: Two thousand gears, by hand?
     제이든: 기어 이천 개를 손으로요?
 
-116. EARL: You wanted to be a hero, Jayden, so here's your chance, but do it quietly.
+116. EARL: You wanted to be a hero, Jayden. Here's your chance, but do it quietly.
     얼: 영웅 되고 싶다며, 제이든. 기회 왔다. 근데 조용히 해.
 
-117. SAM: I'll call the gear supplier, because if their machine is making burrs, they need to know tonight, not Monday.
-    샘: 기어 공급사에 전화할게. 그쪽 기계가 버를 만들고 있으면 월요일 말고 오늘 밤에 알아야 하니까.
+117. SAM: I'll call the gear supplier. If their machine is making burrs, they need to know tonight, not Monday.
+    샘: 기어 공급사에 전화할게. 그쪽 기계가 버를 만들고 있으면 월요일 말고 오늘 밤에 알아야 해.
 
 118. LILY: Dad, can I stay? I can sort, and I can update the list every hour so Teresa sees it in the morning.
     릴리: 아빠, 나 남아도 돼? 분류할 수 있고, 한 시간마다 목록 업데이트해서 테레사가 아침에 볼 수 있게 할게.
@@ -378,11 +378,11 @@
 121. TYLER: I'll get pizza with no ranch, for Lupita.
     타일러: 루피타를 위해서 랜치 없는 피자 사 올게요.
 
-122. LUPITA: Thank you, Tyler, because you're the only civilized man in Ohio.
+122. LUPITA: Thank you, Tyler. You're the only civilized man in Ohio.
     루피타: 고마워요, 타일러. 오하이오에서 유일하게 교양 있는 남자네요.
 
-123. EARL: Okay, we'll use two tables, with Patty and Lupita on table one and Darnell and Jayden on table two. Lily's on the list, and I check every bad one myself, so let's go.
-    얼: 좋아, 테이블 두 개 쓴다. 패티랑 루피타가 1번, 대넬이랑 제이든이 2번. 릴리는 목록 맡고, 불량은 전부 내가 직접 확인해. 가자.
+123. EARL: Okay, two tables. Patty and Lupita are on table one, and Darnell and Jayden are on table two. Lily's on the list, and I check every bad one myself. Let's go.
+    얼: 좋아, 테이블 두 개. 패티랑 루피타가 1번, 대넬이랑 제이든이 2번. 릴리는 목록 맡고, 불량은 전부 내가 직접 확인해. 가자.
 
 124. PATTY: Earl, what time is it now?
     패티: 얼, 지금 몇 시예요?
@@ -390,10 +390,10 @@
 125. EARL: It's eleven thirty, Patty. Don't ask me again until it's light outside.
     얼: 열한 시 반이야, 패티. 밖이 밝아질 때까진 다시 묻지 마.
 
-126. TERESA: Good morning. It's five a.m., and I didn't expect anybody to be here, because I came early to finish my report.
+126. TERESA: Good morning. It's five a.m., and I didn't expect anybody to be here. I came early to finish my report.
     테레사: 안녕하세요. 새벽 다섯 시라 아무도 없을 줄 알았어요. 보고서 마무리하려고 일찍 왔거든요.
 
-127. SAM: Nobody went home, so here's what we found.
+127. SAM: Nobody went home. Here's what we found.
     샘: 아무도 집에 안 갔어요. 찾은 걸 보여 드릴게요.
 
 128. WEN: The root cause is a worn cutting tool at the gear supplier's plant, which started making burrs on Monday morning. They found it at two a.m. and replaced it, and here's their email.
@@ -429,8 +429,8 @@
 138. EARL: Lupita from Monterrey found it with her own eyes, and Patty confirmed it with a magnifying glass. I just held the light.
     얼: 몬테레이에서 온 루피타가 맨눈으로 찾았고, 패티가 돋보기로 확인했어. 난 불만 비췄지.
 
-139. TERESA: In eleven years of supplier audits, I've never had a supplier fail a test at four p.m. and fix it by five a.m., because most of them send me an email on Monday that says "investigating."
-    테레사: 11년 동안 협력사 감사를 하면서 오후 네 시에 시험에 떨어지고 새벽 다섯 시까지 고친 협력사는 처음이에요. 대부분은 월요일에 '조사 중'이라는 이메일을 보내거든요.
+139. TERESA: In eleven years of supplier audits, I've never had a supplier fail a test at four p.m. and fix it by five a.m. Most of them send me an email on Monday that says "investigating."
+    테레사: 11년 동안 협력사 감사를 하면서 오후 네 시에 시험에 떨어지고 새벽 다섯 시까지 고친 협력사는 처음이에요. 대부분은 월요일에 '조사 중'이라는 이메일을 보내죠.
 
 140. GLORIA: So what does the report say? Don't make an old banker wait, honey.
     글로리아: 그래서 보고서엔 뭐라고 써? 늙은 은행원 기다리게 하지 마, 얘.
@@ -438,17 +438,17 @@
 141. TERESA: It says there was one minor finding fixed on site, and one test failure where the root cause was found, contained, and corrected. The run at rate passed, and the audit result is approved.
     테레사: 경미한 지적 하나는 현장 시정, 시험 불합격 하나는 근본 원인 규명, 봉쇄, 시정까지 완료라고 써요. 런 앳 레이트는 합격이고, 감사 결과는 승인이에요.
 
-142. JAYDEN: Approved, so that means we passed?
+142. JAYDEN: Approved? Does that mean we passed?
     제이든: 승인이요? 그럼 우리 통과한 거예요?
 
 143. TERESA: You passed my audit, and now the whole package goes to Rachel in Detroit for the final sign-off, which she has until July eighteenth to give. If I were you, I'd sleep for twelve hours.
     테레사: 제 감사를 통과한 거예요. 이제 서류 전체가 디트로이트의 레이철한테 가서 최종 서명을 받는데, 7월 18일까지 시간이 있어요. 저라면 열두 시간 자겠어요.
 
-144. EARL: Ma'am, thank you, and I mean it. You were tough, but you were fair, and that's all anybody on a line ever wants from a quality person, which is more than Moraine ever gave us.
-    얼: 고마워요, 진심이에요. 깐깐했지만 공정했어요. 라인에 있는 사람이 품질 쪽 사람한테 바라는 건 그게 다인데, 모레인은 그것도 안 해 줬어요.
+144. EARL: Ma'am, thank you, and I mean it. You were tough, but you were fair, and that's all anybody on a line ever wants from a quality person. That's more than Moraine ever gave us.
+    얼: 고마워요, 진심이에요. 깐깐했지만 공정했어요. 라인에 있는 사람이 품질 쪽 사람한테 바라는 건 그게 다예요. 모레인은 그것도 안 해 줬어요.
 
-145. TERESA: You can call me Teresa, Earl, because I've decided.
-    테레사: 테레사라고 불러도 돼요, 얼. 정했거든요.
+145. TERESA: You can call me Teresa, Earl. I've decided.
+    테레사: 테레사라고 불러도 돼요, 얼. 정했어요.
 
 146. PATTY: She called him Earl, and did everybody hear that?
     패티: 얼이라고 불렀어요. 다들 들었어요?
@@ -456,13 +456,13 @@
 147. DARNELL: That was really close, and it all came down to one gear.
     대넬: 진짜 아슬아슬했어요. 기어 하나 때문에 다 날아갈 뻔했잖아요.
 
-148. SAM: We made it by the skin of our teeth, which is what my dad would say.
+148. SAM: We made it by the skin of our teeth. That's what my dad would say.
     샘: 간신히 이빨 가죽 한 겹 차이로 해냈네. 우리 아버지라면 그렇게 말씀하셨을 거야.
 
 149. LILY: Dad, teeth don't have skin.
     릴리: 아빠, 이빨엔 가죽이 없어.
 
-150. SAM: That's how close it was, Lil. Now go home and sleep, all of you, and Lupita, you too. Earl, I'll drive you, because you're not driving.
+150. SAM: That's how close it was, Lil. Now go home and sleep, all of you, and Lupita, you too. Earl, I'll drive you, you're not driving.
     샘: 그만큼 아슬아슬했다는 거야, 릴. 이제 다들 집에 가서 자. 루피타도. 얼, 내가 태워 줄게요. 운전하지 마요.
 
 ---

@@ -18,92 +18,92 @@
 001. EARL: Stop the line. Everybody, stop. Betsy's yelling.
     얼: 라인 멈춰. 다들, 멈춰. 베치가 소리 지르고 있어.
 
-002. SAM: What's the reading? Is it the same problem as the last three?
+002. SAM: What's the reading, and is it the same problem as the last three?
     샘: 수치가 어때요? 앞의 세 개랑 같은 문제예요?
 
-003. EARL: Vibration. Way over the limit. That's the fourth one in a row from this batch. Darnell, pull the next one off the cart and put it on the stand.
-    얼: 진동. 한계를 한참 넘었어. 이번 묶음에서 연속 네 번째야. 대넬, 카트에서 다음 거 꺼내서 시험대에 올려.
+003. EARL: It's vibration, way over the limit, and that's the fourth one in a row from this batch. Darnell, pull the next one off the cart and put it on the stand.
+    얼: 진동. 한계를 한참 넘었어. 이 배치에서 연속 네 번째야. 대넬, 카트에서 다음 거 꺼내서 시험대에 올려.
 
-004. DARNELL: Yes, sir. This one's number one-oh-five.
-    대넬: 네. 이건 105번이에요.
+004. DARNELL: Yes, sir, and this one's number one-oh-five.
+    대넬: 네, 알겠습니다. 이건 105번이에요.
 
-005. EARL: Don't call me sir. I worked for a living. Run it.
-    얼: 서라고 부르지 마. 난 몸으로 일해서 먹고살았어. 돌려.
+005. EARL: Don't call me sir. I worked for a living. Now run it.
+    얼: 선생님이라고 부르지 마. 난 몸으로 일한 사람이야. 돌려.
 
-006. DARNELL: Running. Same noise. Hear that? Like a grinder.
+006. DARNELL: It's running, and it's the same noise. Hear that? It sounds like a grinder.
     대넬: 돌립니다. 같은 소리예요. 들려요? 그라인더 같은 소리.
 
-007. SAM: I hear it. Wen, are you seeing this?
+007. SAM: I hear it too. Wen, are you seeing this on your screen?
     샘: 들려. 웬, 이거 보고 있어요?
 
-008. WEN: I'm seeing it. The vibration is at the same frequency on every bad motor. That's not random. Something inside is the same in all of them.
-    웬: 보고 있어요. 불량 모터마다 진동이 같은 주파수예요. 무작위가 아니에요. 안에 있는 뭔가가 전부 똑같은 거예요.
+008. WEN: I'm seeing it. The vibration is at the same frequency on every bad motor, and that's not random. Something inside is the same in all of them.
+    웬: 보고 있어요. 불량 모터마다 진동 주파수가 같아요. 무작위가 아니에요. 안에 있는 뭔가가 전부 똑같은 거예요.
 
 009. TYLER: How many is that so far, out of this morning's batch?
-    타일러: 오늘 아침 묶음에서 지금까지 몇 개예요?
+    타일러: 오늘 아침 배치에서 지금까지 몇 개예요?
 
-010. EARL: Out of the first three hundred we tested this morning, sixty-two failed. Patty, how many on the board?
-    얼: 오늘 아침에 시험한 첫 삼백 개 중에 예순두 개 불합격. 패티, 칠판에 몇 개야?
+010. EARL: Out of the first three hundred we tested this morning, sixty-two failed. Patty, how many are on the board?
+    얼: 오늘 아침에 시험한 첫 삼백 개 중에 예순두 개 불합격. 패티, 칠판엔 몇 개야?
 
-011. PATTY: Sixty-two failed, two hundred and thirty-eight passed. I'm writing them in red and green, like Christmas.
+011. PATTY: Sixty-two failed and two hundred and thirty-eight passed, and I'm writing them in red and green, like Christmas.
     패티: 불합격 예순둘, 합격 이백삼십팔. 크리스마스처럼 빨강이랑 초록으로 쓰고 있어요.
 
-012. EARL: Very festive, Patty.
+012. EARL: That's very festive of you, Patty.
     얼: 아주 축제 분위기네, 패티.
 
-013. SAM: That's one in five. If one in five fails from the whole batch, that's two hundred bad motors out of a thousand. And the first Rivet shipment goes out on January sixth.
-    샘: 다섯 개 중 하나네요. 전체 묶음에서 다섯 개 중 하나가 떨어지면 천 개 중에 이백 개가 불량이에요. 그리고 리벳 첫 출하가 1월 6일이고요.
+013. SAM: That's one in five. If one in five fails from the whole batch, that's two hundred bad motors out of a thousand, and the first Rivet shipment goes out on January sixth.
+    샘: 다섯 개 중 하나네. 배치 전체에서 다섯 중 하나가 불량이면 천 개 중 이백 개가 불량이야. 그리고 첫 리벳 출하가 1월 6일이고.
 
-014. TYLER: And today is Christmas Eve, and everybody's supposed to go home at noon.
-    타일러: 그리고 오늘은 크리스마스이브고, 다들 정오에 퇴근하기로 돼 있죠.
+014. TYLER: And today is Christmas Eve, when everybody's supposed to go home at noon.
+    타일러: 그리고 오늘은 크리스마스이브고, 다들 정오에 퇴근하기로 했잖아요.
 
 015. SAM: I know what day it is, Tyler.
     샘: 오늘이 무슨 날인지 알아, 타일러.
 
-016. EARL: Okay. Nobody panic. A bad motor isn't a disaster. It's a question. We find the root cause. That means the real reason, not the first thing you see. Darnell, Patty, Jayden, come here. School's in session.
-    얼: 좋아. 다들 당황하지 마. 불량 모터는 재앙이 아니야. 질문이지. 근본 원인을 찾는 거야. 진짜 이유 말이야, 처음 눈에 띄는 거 말고. 대넬, 패티, 제이든, 이리 와. 수업 시작이다.
+016. EARL: Okay, nobody panic. A bad motor isn't a disaster, it's a question, and we find the root cause, which means the real reason, not the first thing you see. Darnell, Patty, Jayden, come here. School's in session.
+    얼: 좋아. 아무도 당황하지 마. 불량 모터는 재앙이 아니라 질문이야. 근본 원인을 찾는 거야. 처음 보이는 게 아니라 진짜 이유. 대넬, 패티, 제이든, 이리 와. 수업 시작이다.
 
-017. PATTY: Now? On Christmas Eve?
+017. PATTY: Now, on Christmas Eve?
     패티: 지금요? 크리스마스이브에?
 
-018. EARL: Patty, a factory doesn't know it's Christmas. Machines don't have families. That's why you have to be smarter than them. Darnell, open number one-oh-five.
-    얼: 패티, 공장은 크리스마스인 줄 몰라. 기계는 가족이 없거든. 그래서 사람이 기계보다 똑똑해야 하는 거야. 대넬, 105번 열어.
+018. EARL: Patty, a factory doesn't know it's Christmas, and machines don't have families. That's why you have to be smarter than them. Darnell, open number one-oh-five.
+    얼: 패티, 공장은 크리스마스를 몰라. 기계는 가족이 없거든. 그러니까 기계보다 똑똑해야 해. 대넬, 105번 열어.
 
-019. DARNELL: Opening it. Okay. It's open.
-    대넬: 엽니다. 됐어요. 열었어요.
+019. DARNELL: Opening it, okay, and it's open.
+    대넬: 엽니다. 됐어요, 열었어요.
 
-020. EARL: Good. Now, when a motor shakes, there are only a few reasons. The rotor isn't balanced. The shaft is bent. Something's loose. Or a bearing is bad. Which do you check first?
-    얼: 좋아. 모터가 떨리는 이유는 몇 개 안 돼. 로터 균형이 안 맞거나. 축이 휘었거나. 뭐가 헐겁거나. 베어링이 불량이거나. 뭐부터 확인할래?
+020. EARL: Good. When a motor shakes, there are only a few reasons: the rotor isn't balanced, the shaft is bent, something's loose, or a bearing is bad. So which do you check first?
+    얼: 좋아. 모터가 흔들릴 땐 이유가 몇 개 없어. 로터 균형이 안 맞거나, 축이 휘었거나, 뭔가 헐겁거나, 베어링이 나쁘거나. 뭐부터 확인해?
 
-021. DARNELL: The easiest one? Because it's quick to rule out?
+021. DARNELL: The easiest one, because it's quick to rule out?
     대넬: 제일 쉬운 거요? 빨리 배제할 수 있으니까요?
 
-022. EARL: The easiest one. Good answer. Always check the easy thing first, because the easy thing is usually the answer, and you feel stupid if it is. Spin the rotor by hand.
-    얼: 제일 쉬운 거. 좋은 대답이야. 항상 쉬운 거부터 확인해. 쉬운 게 보통 정답이고, 정답이면 바보가 된 기분이 들거든. 로터를 손으로 돌려 봐.
+022. EARL: The easiest one, good answer. The easy thing is usually the answer, and you feel stupid if it is. Spin the rotor by hand.
+    얼: 제일 쉬운 거. 좋은 대답이야. 쉬운 게 보통 정답이고, 그게 정답이면 바보 된 기분이 들거든. 로터를 손으로 돌려 봐.
 
-023. DARNELL: It feels rough. Like there's sand inside.
+023. DARNELL: It feels rough, like there's sand inside.
     대넬: 거칠어요. 안에 모래가 있는 것처럼요.
 
 024. EARL: Now spin a good one. Patty, give him one from the green list.
-    얼: 이제 좋은 걸 돌려 봐. 패티, 초록 목록에 있는 거 하나 줘.
+    얼: 이제 좋은 걸 돌려 봐. 패티, 초록 목록에서 하나 줘.
 
-025. DARNELL: Oh. That's totally different. It's smooth. Like butter.
-    대넬: 아. 완전히 달라요. 부드러워요. 버터처럼요.
+025. DARNELL: Oh, that's totally different. This one's smooth, like butter.
+    대넬: 아. 완전히 달라요. 버터처럼 부드러워요.
 
-026. EARL: That's a bearing problem. Forty years, and I still trust my fingers more than any computer. No offense, Wen.
-    얼: 그게 베어링 문제야. 40년이 지나도 난 어떤 컴퓨터보다 내 손가락을 더 믿어. 기분 나빠하지 마, 웬.
+026. EARL: That's a bearing problem, and after forty years, I still trust my fingers more than any computer, no offense, Wen.
+    얼: 베어링 문제야. 40년이 지나도 난 어떤 컴퓨터보다 내 손가락을 믿어. 기분 나빠하지 마, 웬.
 
-027. WEN: None taken. My computer agrees with your fingers. Earl, can I see the bearings from a bad one and a good one? Side by side.
-    웬: 안 나빠요. 제 컴퓨터도 당신 손가락이랑 같은 의견이에요. 얼, 불량 거랑 좋은 거 베어링 볼 수 있어요? 나란히요.
+027. WEN: None taken. My computer agrees with your fingers. Earl, can I see the bearings from a bad one and a good one, side by side?
+    웬: 안 나빠요. 제 컴퓨터도 반장님 손가락이랑 같은 의견이에요. 얼, 불량 거랑 정상 거 베어링을 나란히 볼 수 있어요?
 
-028. EARL: Jayden, pull the bearings. Gently. They're small, and they roll under things.
-    얼: 제이든, 베어링 빼. 살살. 작아서 밑으로 굴러 들어가.
+028. EARL: Jayden, pull the bearings, and be gentle. They're small, and they roll under things.
+    얼: 제이든, 베어링 빼. 살살. 작아서 밑으로 굴러가.
 
 029. SAM: Wen, what are you looking for over there? You're very quiet.
-    샘: 웬, 거기서 뭘 찾는 거예요? 엄청 조용하네요.
+    샘: 웬, 거기서 뭘 찾아요? 아주 조용하네요.
 
 030. WEN: The boxes. Tyler, can you bring me the boxes these bearings came in? They should be in the recycling behind the loading dock.
-    웬: 상자요. 타일러, 이 베어링들이 담겨 온 상자 가져다줄래요? 하역장 뒤 재활용함에 있을 거예요.
+    웬: 상자요. 타일러, 이 베어링이 담겨 온 상자 좀 가져다줄래요? 하역장 뒤 재활용함에 있을 거예요.
 
 031. TYLER: You want me to go through the recycling on Christmas Eve?
     타일러: 크리스마스이브에 재활용함을 뒤지라고요?
@@ -111,359 +111,359 @@
 032. WEN: Yes. Merry Christmas.
     웬: 네. 메리 크리스마스.
 
-033. TYLER: Copy that. Merry Christmas to you too, Doctor.
-    타일러: 접수. 박사님도 메리 크리스마스요.
+033. TYLER: Copy that, and merry Christmas to you too, Doctor.
+    타일러: 접수. 박사님도 메리 크리스마스예요.
 
 034. SAM: While he's digging, tell me what you're thinking.
-    샘: 타일러가 뒤지는 동안, 무슨 생각인지 말해 줘요.
+    샘: 타일러가 뒤지는 동안 무슨 생각 하는지 말해 줘요.
 
-035. WEN: I'm thinking about my list. In October, I started making a list of every bearing supplier, and where the bearings are really made. Remember? You told me to finish it.
-    웬: 제 목록 생각하고 있어요. 10월에 베어링 공급업체랑 베어링이 실제로 어디서 만들어지는지 목록을 만들기 시작했잖아요. 기억나요? 끝내라고 했잖아요.
+035. WEN: I'm thinking about my list. In October, I started making a list of every bearing supplier and where the bearings are really made, remember? You told me to finish it.
+    웬: 제 목록 생각하고 있어요. 10월에 베어링 업체 전부랑 실제 생산지를 목록으로 만들기 시작했잖아요, 기억나요? 샘이 끝내라고 했죠.
 
-036. TYLER: Got them! Two kinds of boxes. Blue ones and white ones.
-    타일러: 찾았어요! 상자가 두 종류예요. 파란 거랑 흰 거.
+036. TYLER: Got them, and there are two kinds of boxes, blue ones and white ones!
+    타일러: 찾았어요! 상자가 두 종류예요. 파란 거랑 하얀 거.
 
-037. WEN: Okay. Which bearings came in which boxes? Earl, do you remember?
-    웬: 좋아요. 어느 베어링이 어느 상자에 들어 있었어요? 얼, 기억나요?
+037. WEN: Okay, which bearings came in which boxes? Earl, do you remember?
+    웬: 좋아요. 어느 베어링이 어느 상자에 왔죠? 얼, 기억나요?
 
-038. EARL: The blue boxes are from our regular supplier in Cincinnati. The white boxes came in November. Our regular guy was backordered, so we bought five thousand from a new distributor online. They were cheaper.
-    얼: 파란 상자는 신시내티 단골 공급업체 거야. 흰 상자는 11월에 들어왔어. 단골이 재고가 밀려서 온라인 새 유통업체한테 오천 개를 샀거든. 더 쌌어.
+038. EARL: The blue boxes are from our regular supplier in Cincinnati. The white boxes came in November, when our regular guy was backordered, so we bought five thousand from a new distributor online. They were cheaper.
+    얼: 파란 상자는 신시내티 단골 업체 거야. 하얀 상자는 11월에 왔어. 단골이 재고가 밀려서 온라인 새 유통업체에서 오천 개 샀지. 더 쌌거든.
 
 039. WEN: How much cheaper than our regular supplier?
     웬: 단골 공급업체보다 얼마나 더 쌌어요?
 
-040. EARL: About forty percent.
-    얼: 40퍼센트쯤.
+040. EARL: They were about forty percent cheaper.
+    얼: 40퍼센트쯤 쌌어.
 
-041. WEN: Forty percent cheaper, for the same bearing, from the same famous German brand. That's too good to be true.
-    웬: 같은 독일 유명 브랜드의 같은 베어링이 40퍼센트나 싸다고요. 그건 말이 안 되게 좋은 거예요.
+041. WEN: Forty percent cheaper, for the same bearing, from the same famous German brand, which is too good to be true.
+    웬: 40퍼센트나 싸다니. 같은 베어링, 같은 유명 독일 브랜드인데. 너무 좋아서 믿기 어렵네요.
 
-042. SAM: Let me see the white box. It says "Made in Germany." The logo looks right.
-    샘: 흰 상자 좀 봐요. "독일 제조"라고 써 있네요. 로고도 맞아 보이고.
+042. SAM: Let me see the white box, which says "Made in Germany," and the logo looks right.
+    샘: 하얀 상자 좀 보자. '독일산'이라고 써 있네. 로고도 맞아 보이고.
 
-043. WEN: Look closer. Look at the letters in the brand name. Now look at the blue box. Same brand.
-    웬: 더 자세히 보세요. 브랜드 이름 글자를 보세요. 이제 파란 상자를 보세요. 같은 브랜드예요.
+043. WEN: Look closer at the letters in the brand name, and now look at the blue box, which is the same brand.
+    웬: 더 자세히 봐요. 브랜드 이름 글자를요. 이제 파란 상자를 봐요. 같은 브랜드예요.
 
-044. SAM: The letters on the white box are a little thicker. And there's a spelling mistake in the small print. "Precison." No second "i."
-    샘: 흰 상자 글자가 조금 더 두꺼워요. 그리고 작은 글씨에 철자 틀린 게 있네요. "Precison." 두 번째 'i'가 없어요.
+044. SAM: The letters on the white box are a little thicker, and there's a spelling mistake in the small print: "Precison," with no second "i."
+    샘: 하얀 상자 글자가 조금 더 굵네. 그리고 작은 글씨에 철자가 틀렸어. 'Precison.' 두 번째 'i'가 없어.
 
-045. WEN: And look at the bearing itself. The real ones have the brand laser-etched on the side, very clean. These have it stamped, slightly crooked. Patty, can I borrow your magnifying glass?
-    웬: 그리고 베어링 자체를 보세요. 진짜는 옆면에 브랜드가 레이저로 아주 깔끔하게 새겨져 있어요. 이건 찍혀 있고, 살짝 비뚤어요. 패티, 돋보기 좀 빌려줄래요?
+045. WEN: And look at the bearing itself. The real ones have the brand laser-etched on the side, very clean, while these have it stamped, slightly crooked. Patty, can I borrow your magnifying glass?
+    웬: 베어링 자체도 봐요. 진품은 옆면에 브랜드가 레이저로 아주 깔끔하게 새겨져 있어요. 이건 찍혀 있고 살짝 비뚤어요. 패티, 돋보기 좀 빌려줄래요?
 
 046. PATTY: How did you know I have a magnifying glass?
     패티: 제가 돋보기 있는 거 어떻게 아셨어요?
 
-047. WEN: You read every label in this building with it. I've seen you.
-    웬: 그걸로 이 건물 라벨을 전부 읽잖아요. 봤어요.
+047. WEN: You read every label in this building with it, and I've seen you.
+    웬: 이 건물 라벨을 전부 그걸로 읽잖아요. 봤어요.
 
-048. PATTY: I'm fifty-two. The labels got smaller. It's not my fault.
-    패티: 저 쉰둘이에요. 라벨이 작아진 거예요. 제 잘못이 아니라고요.
+048. PATTY: I'm fifty-two, and the labels got smaller. It's not my fault.
+    패티: 전 쉰둘이에요. 라벨이 작아진 거예요. 제 탓 아니에요.
 
-049. WEN: Look. The steel balls inside the bad bearing are slightly different sizes. Not by much. Maybe a few thousandths of a millimeter. But a real bearing has a very tight tolerance. Tolerance means how much difference is allowed. These are outside it.
-    웬: 보세요. 불량 베어링 안쪽 강철 볼들이 크기가 살짝 달라요. 많이는 아니에요. 몇천분의 1밀리미터쯤. 근데 진짜 베어링은 공차가 아주 엄격해요. 공차는 허용되는 차이가 얼마나인지예요. 이건 그걸 벗어났어요.
+049. WEN: Look at the steel balls inside the bad bearing, which are slightly different sizes, maybe by a few thousandths of a millimeter. A real bearing has a very tight tolerance, which means how much difference is allowed, and these are outside it.
+    웬: 보세요. 불량 베어링 안의 쇠구슬 크기가 살짝 달라요. 많이는 아니고 천분의 몇 밀리미터쯤. 근데 진짜 베어링은 공차가 아주 엄격해요. 공차는 허용되는 차이를 말해요. 이건 그 범위를 벗어났어요.
 
 050. SAM: So these aren't really German bearings at all.
     샘: 그러니까 이건 전혀 독일 베어링이 아니네요.
 
-051. WEN: These are counterfeit bearings. Fake. Made somewhere cheap, put in boxes that look German, and sold online at a price that's just believable enough.
-    웬: 위조 베어링이에요. 가짜요. 어딘가 싼 데서 만들어서 독일제처럼 보이는 상자에 넣고, 딱 믿을 만한 가격에 온라인으로 판 거죠.
+051. WEN: These are counterfeit bearings, fakes, made somewhere cheap, put in boxes that look German, and sold online at a price that's just believable enough.
+    웬: 이건 위조 베어링이에요. 가짜. 어디 싼 데서 만들어서 독일 것처럼 보이는 상자에 넣고, 딱 믿을 만한 가격에 온라인으로 판 거예요.
 
-052. TYLER: Like the VoltMax motor. Same trick, smaller part.
-    타일러: 볼트맥스 모터처럼요. 같은 수법, 더 작은 부품.
+052. TYLER: It's like the VoltMax motor, the same trick with a smaller part.
+    타일러: 볼트맥스 모터랑 같네요. 같은 수법인데 부품만 더 작은 거죠.
 
-053. WEN: Same trick. And this distributor was on my list. I marked it "unverified" in October. I couldn't find out where they really got their bearings.
-    웬: 같은 수법이에요. 그리고 이 유통업체는 제 목록에 있었어요. 10월에 '미확인'이라고 표시해 뒀어요. 베어링을 실제로 어디서 가져오는지 알아낼 수가 없었거든요.
+053. WEN: The same trick. And this distributor was on my list. I marked it "unverified" in October, when I couldn't find out where they really got their bearings.
+    웬: 같은 수법이에요. 그리고 이 유통업체가 제 목록에 있었어요. 10월에 '미확인'으로 표시해 뒀죠. 베어링을 실제로 어디서 들여오는지 알아낼 수가 없었거든요.
 
-054. EARL: That's on me. I bought them. Our guy was backordered, the price was good, and I was in a hurry for the second shift. I didn't check Wen's list.
-    얼: 내 잘못이야. 내가 샀어. 단골이 재고가 밀렸고, 가격도 좋았고, 2교대 때문에 급했어. 웬의 목록을 확인 안 했어.
+054. EARL: That's on me. I bought them. Our guy was backordered, the price was good, and I was in a hurry for the second shift, so I didn't check Wen's list.
+    얼: 내 잘못이야. 내가 샀어. 단골은 재고가 밀렸고, 값은 좋았고, 2교대 때문에 급했어. 웬 목록을 확인 안 했지.
 
-055. SAM: Earl, it's not on you. It's on the guy who printed fake boxes.
-    샘: 얼, 아저씨 잘못 아니에요. 가짜 상자 찍은 놈 잘못이죠.
+055. SAM: Earl, it's not on you, it's on the guy who printed fake boxes.
+    샘: 얼, 반장님 잘못 아니에요. 가짜 상자 찍은 놈 잘못이죠.
 
-056. EARL: It's a little on me. Forty years, I should've smelled it. Okay. Feelings later. How many motors have the white-box bearings?
-    얼: 조금은 내 잘못이야. 40년인데 냄새를 맡았어야지. 좋아. 감정은 나중에. 흰 상자 베어링 들어간 모터가 몇 개야?
+056. EARL: It's a little on me. After forty years, I should've smelled it. Okay, feelings later. How many motors have the white-box bearings?
+    얼: 조금은 내 잘못이야. 40년이면 냄새를 맡았어야지. 좋아, 감정은 나중에. 하얀 상자 베어링 들어간 모터가 몇 개야?
 
-057. WEN: According to the build records, every motor built after November twenty-fifth. That's about seven hundred motors. Some of the fakes are fine by luck. Some aren't. We can't sell any of them.
-    웬: 생산 기록상으로는 11월 25일 이후 만든 모터 전부요. 칠백 개쯤이에요. 운 좋게 괜찮은 가짜도 있고 아닌 것도 있어요. 근데 하나도 팔면 안 돼요.
+057. WEN: According to the build records, it's every motor built after November twenty-fifth, which is about seven hundred motors. Some of the fakes are fine by luck and some aren't, but we can't sell any of them.
+    웬: 생산 기록에 따르면 11월 25일 이후 만든 모터 전부예요. 칠백 개쯤이요. 운 좋게 괜찮은 가짜도 있고 아닌 것도 있어요. 근데 하나도 못 팔아요.
 
-058. SAM: Seven hundred motors. Every one needs new bearings.
-    샘: 모터 칠백 개. 하나하나 베어링을 새로 갈아야 하네요.
+058. SAM: Seven hundred motors, and every one needs new bearings.
+    샘: 모터 칠백 개. 전부 베어링을 새로 넣어야 하네요.
 
-059. EARL: Fourteen hundred bearings. Two per motor. Plus we take every motor apart and put it back together. And test it on Betsy again.
-    얼: 베어링 천사백 개. 모터당 두 개. 거기에 모터를 전부 분해했다가 다시 조립해야 하고. 베치에서 다시 시험하고.
+059. EARL: That's fourteen hundred bearings, two per motor, plus we take every motor apart, put it back together, and test it on Betsy again.
+    얼: 베어링 천사백 개. 모터당 두 개. 거기에 모터를 다 분해하고 다시 조립하고, 베치에서 다시 시험해야 해.
 
 060. TYLER: How long does all of that take, realistically?
-    타일러: 그거 전부 하는 데 현실적으로 얼마나 걸려요?
+    타일러: 그거 다 하면 현실적으로 얼마나 걸려요?
 
-061. EARL: With everybody? About two days of work. If we had the bearings. Which we don't.
-    얼: 전원 투입하면? 이틀쯤 일거리. 베어링이 있다면. 근데 없잖아.
+061. EARL: With everybody, about two days of work, if we had the bearings, which we don't.
+    얼: 다 같이 하면 이틀쯤. 베어링이 있으면. 근데 없잖아.
 
-062. SAM: Tyler, call our regular supplier in Cincinnati. Now.
-    샘: 타일러, 신시내티 단골 공급업체에 전화해. 지금.
+062. SAM: Tyler, call our regular supplier in Cincinnati right now.
+    샘: 타일러, 신시내티 단골 업체에 지금 전화해.
 
-063. TYLER: Calling. Ringing. "Thank you for calling. Our office is closed for the holidays and will reopen on January second." It's a recording.
-    타일러: 거는 중. 신호 가요. "전화 주셔서 감사합니다. 저희 사무실은 연휴 기간 휴무이며 1월 2일에 다시 엽니다." 녹음이에요.
+063. TYLER: Calling, and it's ringing. "Thank you for calling. Our office is closed for the holidays and will reopen on January second." It's a recording.
+    타일러: 전화합니다. 신호 가요. "전화 주셔서 감사합니다. 저희 사무실은 연휴 동안 휴무이며 1월 2일에 다시 엽니다." 녹음이에요.
 
-064. SAM: January second. If we start on January second, we miss the January sixth shipment.
-    샘: 1월 2일. 1월 2일에 시작하면 1월 6일 출하를 못 맞춰요.
+064. SAM: January second? If we start on January second, we miss the January sixth shipment.
+    샘: 1월 2일이라. 1월 2일에 시작하면 1월 6일 출하를 놓쳐.
 
-065. WEN: And if we miss the first shipment, Nina's investor will remember the Amazon motor. And he'll start asking questions again.
-    웬: 그리고 첫 출하를 놓치면 니나 투자자가 그 아마존 모터를 떠올릴 거예요. 그리고 다시 질문하기 시작하겠죠.
+065. WEN: And if we miss the first shipment, Nina's investor will remember the Amazon motor, and he'll start asking questions again.
+    웬: 그리고 첫 출하를 놓치면 니나 투자자가 아마존 모터를 다시 떠올릴 거예요. 또 질문을 하기 시작하겠죠.
 
-066. SAM: Okay. Let's think. Who else sells real bearings, in this size, and is open on Christmas Eve?
-    샘: 좋아요. 생각해 봐요. 이 크기의 진짜 베어링을 팔고 크리스마스이브에 문 연 데가 또 어디 있을까요?
+066. SAM: Okay, let's think about who else sells real bearings in this size and is open on Christmas Eve.
+    샘: 좋아. 생각해 보자. 이 크기 진짜 베어링을 팔면서 크리스마스이브에 문 연 데가 또 어디 있지?
 
-067. PATTY: My brother-in-law works in a warehouse in Toledo. Industrial parts. I don't know if they have bearings.
-    패티: 제 시동생이 톨레도 창고에서 일해요. 산업용 부품이요. 베어링이 있는지는 모르겠어요.
+067. PATTY: My brother-in-law works in a warehouse in Toledo, with industrial parts, but I don't know if they have bearings.
+    패티: 제 매형이 톨레도 창고에서 일해요. 산업용 부품이요. 베어링이 있는지는 모르겠어요.
 
-068. EARL: Toledo. Wait. What's the name of the warehouse?
-    얼: 톨레도. 잠깐. 그 창고 이름이 뭐야?
+068. EARL: Toledo, wait, what's the name of the warehouse?
+    얼: 톨레도라. 잠깐, 창고 이름이 뭐야?
 
-069. PATTY: Brezinski Supply. It's a family business. Old guy runs it.
-    패티: 브레진스키 서플라이요. 가족 회사예요. 노인분이 운영해요.
+069. PATTY: It's Brezinski Supply, a family business that an old guy runs.
+    패티: 브레진스키 서플라이요. 가족 회사예요. 할아버지가 운영해요.
 
-070. EARL: Walt Brezinski. I know Walt. Walt sold bearings to Moraine for twenty years. He was at Stan's retirement party. He cried during the toast.
-    얼: 월트 브레진스키. 나 월트 알아. 20년 동안 모레인에 베어링을 납품했어. 스탠 퇴직 파티에도 왔었지. 건배사 때 울었어.
+070. EARL: Walt Brezinski! I know Walt. Walt sold bearings to Moraine for twenty years, and he was at Stan's retirement party, where he cried during the toast.
+    얼: 월트 브레진스키. 월트 알아. 20년 동안 모레인에 베어링 팔았어. 스탠 형님 은퇴 파티에도 왔지. 건배사 할 때 울었어.
 
-071. SAM: Do you have his number? Please say you have his number.
-    샘: 번호 있어요? 제발 있다고 해 줘요.
+071. SAM: Do you have his number, and please say you have his number.
+    샘: 번호 있어요? 있다고 말해 줘요.
 
-072. EARL: No. But Stan does. Stan has everybody's number. In a little book. With a pencil.
-    얼: 아니. 근데 스탠은 있어. 스탠은 모든 사람 번호가 있어. 작은 수첩에. 연필로.
+072. EARL: No, but Stan does. Stan has everybody's number, in a little book, with a pencil.
+    얼: 아니. 근데 스탠 형님은 있어. 형님은 모든 사람 번호가 있어. 작은 수첩에, 연필로.
 
-073. SAM: Dad, it's me. Sorry to call on Christmas Eve. Do you still have Walt Brezinski's number? In Toledo? The bearing guy?
-    샘: 아버지, 저예요. 크리스마스이브에 전화해서 죄송해요. 아직 월트 브레진스키 번호 있으세요? 톨레도에? 베어링 하시는 분?
+073. SAM: Dad, it's me, and sorry to call on Christmas Eve, but do you still have Walt Brezinski's number, the bearing guy in Toledo?
+    샘: 아버지, 저예요. 크리스마스이브에 전화해서 죄송해요. 월트 브레진스키 번호 아직 있으세요? 톨레도에 베어링 하시는 분이요.
 
-074. STAN: Walt? Of course I have Walt's number. Why do you need Walt on Christmas Eve? Are you in trouble?
-    스탠: 월트? 당연히 있지. 크리스마스이브에 월트는 왜 찾아? 무슨 일 있냐?
+074. STAN: Walt? Of course I have Walt's number, but why do you need Walt on Christmas Eve, and are you in trouble?
+    스탠: 월트? 당연히 월트 번호 있지. 크리스마스이브에 월트는 왜? 무슨 일 났냐?
 
-075. SAM: Fake bearings. Seven hundred motors. I need fourteen hundred real ones by tomorrow.
-    샘: 가짜 베어링이요. 모터 칠백 개. 내일까지 진짜 천사백 개가 필요해요.
+075. SAM: It's fake bearings in seven hundred motors. I need fourteen hundred real ones by tomorrow.
+    샘: 가짜 베어링이요. 모터 칠백 개요. 내일까지 진짜 천사백 개가 필요해요.
 
-076. STAN: Fake bearings. Lord. We had that in ninety-one. Okay. Give me ten minutes. Walt doesn't answer numbers he doesn't know, but he always answers me.
-    스탠: 가짜 베어링. 세상에. 91년에도 그런 일 있었지. 알았다. 10분만 줘. 월트는 모르는 번호는 안 받는데, 나는 항상 받아.
+076. STAN: Fake bearings, Lord. We had that in ninety-one. Okay, give me ten minutes. Walt doesn't answer numbers he doesn't know, but he always answers me.
+    스탠: 가짜 베어링이라. 이런. 91년에도 그런 일이 있었지. 좋아. 10분만 줘라. 월트는 모르는 번호는 안 받는데, 나는 항상 받아.
 
-077. SAM: Thank you, Dad.
-    샘: 고마워요, 아버지.
+077. SAM: Thank you so much, Dad.
+    샘: 정말 고마워요, 아버지.
 
 078. STAN: Don't thank me. Just don't buy cheap bearings again. I taught you that when you were twelve.
-    스탠: 고마워하지 마라. 다신 싼 베어링이나 사지 마. 열두 살 때 가르쳐 줬잖아.
+    스탠: 고마워할 거 없다. 다시는 싼 베어링 사지 마라. 열두 살 때 가르쳤잖아.
 
-079. SAM: I didn't buy them. Earl did.
+079. SAM: I didn't buy them, Earl did.
     샘: 제가 산 거 아니에요. 얼이 샀어요.
 
-080. STAN: Earl bought cheap bearings? Tell Earl I'm very disappointed in him. Ten minutes.
-    스탠: 얼이 싼 베어링을 샀다고? 얼한테 내가 아주 실망했다고 전해라. 10분.
+080. STAN: Earl bought cheap bearings? Tell Earl I'm very disappointed in him, and give me ten minutes.
+    스탠: 얼이 싼 베어링을 샀다고? 얼한테 아주 실망했다고 전해라. 10분.
 
-081. EARL: What did he say?
+081. EARL: What did he say about it?
     얼: 뭐래?
 
 082. SAM: He says he's very disappointed in you.
-    샘: 아저씨한테 아주 실망하셨대요.
+    샘: 반장님한테 아주 실망했대요.
 
 083. EARL: I'm never going to hear the end of this. He's going to bring it up at every Thanksgiving until I die.
-    얼: 이거 평생 듣겠네. 내가 죽을 때까지 추수감사절마다 꺼내겠지.
+    얼: 이거 평생 듣겠네. 내가 죽을 때까지 추수감사절마다 꺼낼 거야.
 
-084. SAM: Probably. Okay. While we wait, everybody start taking apart the white-box motors. Carefully. Don't damage anything we can save. Darnell, Patty, Jayden, you're with Earl.
-    샘: 아마도요. 좋아요. 기다리는 동안 다들 흰 상자 모터 분해 시작해요. 조심해서. 살릴 수 있는 건 망가뜨리지 말고. 대넬, 패티, 제이든은 얼이랑 해.
+084. SAM: Probably. Okay, while we wait, everybody start taking apart the white-box motors. Be careful not to damage anything we can save. Darnell, Patty, Jayden, you're with Earl.
+    샘: 아마도요. 자, 기다리는 동안 다들 하얀 상자 모터 분해 시작해. 조심해서, 살릴 수 있는 건 망가뜨리지 말고. 대넬, 패티, 제이든은 얼이랑 해.
 
-085. DARNELL: We're staying? Past noon? On Christmas Eve?
-    대넬: 남는 거예요? 정오 넘어서도? 크리스마스이브에?
+085. DARNELL: We're staying past noon, on Christmas Eve?
+    대넬: 남는 거예요? 정오 넘어서요? 크리스마스이브에?
 
-086. SAM: I can't ask you to stay. It's Christmas Eve, and you've worked here for two weeks. Anyone who needs to go home, go home. No hard feelings. I mean that.
-    샘: 남아 달라고는 못 해. 크리스마스이브고, 여기서 일한 지 2주밖에 안 됐잖아. 집에 가야 하는 사람은 가. 서운해하지 않을게. 진심이야.
+086. SAM: I can't ask you to stay. It's Christmas Eve, and you've worked here for two weeks. Anyone who needs to go home, go home, no hard feelings, and I mean that.
+    샘: 남으라고 할 순 없어. 크리스마스이브고, 여기서 일한 지 2주밖에 안 됐잖아. 집에 가야 하는 사람은 가. 서운해하지 않을게. 진심이야.
 
 087. DARNELL: Sir, I spent three Christmas Eves in places a lot worse than this. Here, at least, there's heat and nobody's shooting. I'm staying.
-    대넬: 사장님, 전 이보다 훨씬 나쁜 데서 크리스마스이브를 세 번 보냈어요. 여긴 적어도 난방도 되고 아무도 총 안 쏘잖아요. 남을게요.
+    대넬: 사장님, 전 크리스마스이브를 여기보다 훨씬 나쁜 데서 세 번 보냈어요. 여긴 적어도 난방도 되고 총 쏘는 사람도 없잖아요. 남을게요.
 
-088. PATTY: My kids are grown, and my husband falls asleep at eight. I'm staying too.
-    패티: 우리 애들은 다 컸고 남편은 여덟 시면 잠들어요. 저도 남을게요.
+088. PATTY: My kids are grown, and my husband falls asleep at eight, so I'm staying too.
+    패티: 애들은 다 컸고 남편은 여덟 시면 자요. 저도 남을게요.
 
 089. SAM: Jayden?
     샘: 제이든?
 
-090. JAYDEN: My mom said I can stay if I'm home by tomorrow morning for presents. And if somebody feeds me.
-    제이든: 엄마가 내일 아침 선물 뜯을 때까지 집에 오면 남아도 된대요. 그리고 누가 밥 먹여 주면요.
+090. JAYDEN: My mom said I can stay if I'm home by tomorrow morning for presents, and if somebody feeds me.
+    제이든: 엄마가 내일 아침 선물 뜯을 때까지 집에 오면 남아도 된대요. 누가 밥 먹여 주면요.
 
-091. SAM: Somebody will feed you. I promise.
-    샘: 누가 밥 먹여 줄 거야. 약속할게.
+091. SAM: Somebody will feed you, I promise.
+    샘: 누가 밥 먹여 줄 거야. 약속해.
 
-092. STAN: Walt's waiting for you. He has the bearings. Real ones, from his own shelf, the same German brand. He's got about two thousand in that size. He'll open the warehouse for you tonight.
-    스탠: 월트가 기다리고 있다. 베어링 있대. 진짜로, 자기 선반에 있는 걸로, 같은 독일 브랜드. 그 크기로 이천 개쯤 있대. 오늘 밤에 창고 열어 준대.
+092. STAN: Walt's waiting for you. He has the bearings, real ones from his own shelf, the same German brand, about two thousand in that size. He'll open the warehouse for you tonight.
+    스탠: 월트가 기다린다. 베어링 있대. 자기 선반에 있는 진짜, 같은 독일 브랜드로. 그 크기로 이천 개쯤 있대. 오늘 밤에 창고 열어 준다.
 
 093. SAM: Dad, that's amazing. What did you say to him?
     샘: 아버지, 대단해요. 뭐라고 하셨어요?
 
 094. STAN: I said my son is making American motors, and some crook sold him fake German bearings, and it's Christmas. Walt doesn't like crooks. He also doesn't like Christmas, so it was easy.
-    스탠: 내 아들이 미국 모터를 만드는데 어떤 사기꾼이 가짜 독일 베어링을 팔았고, 크리스마스라고 했지. 월트는 사기꾼을 싫어해. 크리스마스도 싫어하고. 그래서 쉬웠어.
+    스탠: 내 아들이 미국 모터를 만드는데 어떤 사기꾼이 가짜 독일 베어링을 팔았고, 크리스마스라고 했지. 월트는 사기꾼을 싫어해. 크리스마스도 싫어하고. 그래서 쉬웠다.
 
 095. SAM: I'm leaving now. Toledo is about two and a half hours.
     샘: 지금 출발할게요. 톨레도까지 두 시간 반쯤이에요.
 
-096. STAN: Drive safe. It's icy north of Lima. And bring Walt a bottle of something. He drinks rye.
-    스탠: 조심히 운전해라. 라이마 북쪽은 길이 얼었어. 그리고 월트한테 술 한 병 가져가. 호밀 위스키 마셔.
+096. STAN: Drive safe, it's icy north of Lima. And bring Walt a bottle of something. He drinks rye.
+    스탠: 조심해서 가라. 라이마 북쪽은 길이 얼었어. 그리고 월트한테 술 한 병 가져가. 라이 위스키 마신다.
 
-097. WALT: You must be Stan's boy. You look like him. You have the same worried face.
-    월트: 스탠 아들이구먼. 아버지 닮았네. 걱정하는 얼굴이 똑같아.
+097. WALT: You must be Stan's boy. You look like him, with the same worried face.
+    월트: 스탠 아들이구먼. 닮았어. 걱정하는 얼굴이 똑같아.
 
-098. SAM: Mr. Brezinski. Thank you for opening up. I know it's Christmas Eve. This is for you. My dad said rye.
-    샘: 브레진스키 씨. 문 열어 주셔서 감사해요. 크리스마스이브인 거 알아요. 이거 드리려고요. 아버지가 호밀 위스키라고 하셔서요.
+098. SAM: Mr. Brezinski, thank you for opening up. I know it's Christmas Eve. This is for you, and my dad said rye.
+    샘: 브레진스키 씨, 문 열어 주셔서 고마워요. 크리스마스이브인 거 알아요. 이거 드리려고요. 아버지가 라이라고 하셔서요.
 
-099. WALT: Your dad is a smart man. Come in. The bearings are on the cart. Two thousand. I counted them twice. Let me see one of the fakes.
-    월트: 네 아버지는 똑똑한 사람이야. 들어와. 베어링은 카트에 있어. 이천 개. 두 번 셌어. 가짜 하나 보여 줘 봐.
+099. WALT: Your dad is a smart man. Come in, the bearings are on the cart, two thousand, and I counted them twice. Let me see one of the fakes.
+    월트: 네 아버지 똑똑한 양반이야. 들어와. 베어링은 카트에 있어. 이천 개. 두 번 셌어. 가짜 하나 보여 줘 봐.
 
-100. SAM: Here. "Precison," with no second "i."
-    샘: 여기요. "Precison", 두 번째 'i' 없는 거.
+100. SAM: Here it is, "Precison," with no second "i."
+    샘: 여기요. 'Precison.' 두 번째 'i'가 없어요.
 
-101. WALT: Oh, I've seen these. Last spring, a guy came in here trying to sell me a whole truckload of them. Very nice suit. Very bad bearings. I told him to get out.
-    월트: 아, 이거 본 적 있어. 작년 봄에 어떤 놈이 여기 와서 트럭 한 대분을 팔려고 하더라. 양복은 아주 좋았지. 베어링은 아주 나빴고. 나가라고 했어.
+101. WALT: Oh, I've seen these. Last spring a guy came in here trying to sell me a whole truckload of them, in a very nice suit with very bad bearings, and I told him to get out.
+    월트: 아, 이거 봤어. 지난봄에 어떤 놈이 이걸 트럭 한 대분 팔겠다고 왔었지. 양복은 아주 좋고 베어링은 아주 나빴어. 꺼지라고 했지.
 
-102. SAM: How did you know they were fake? Just by looking?
-    샘: 가짜인 줄 어떻게 아셨어요? 그냥 보고요?
+102. SAM: How did you know they were fake, just by looking?
+    샘: 가짜인 걸 어떻게 아셨어요? 보기만 하고요?
 
-103. WALT: Same way your Earl knew. I spun one with my fingers. Fifty years in this business, son. Machines can lie. Boxes can lie. Fingers don't.
-    월트: 너희 얼이 안 거랑 똑같지. 손가락으로 돌려 봤어. 이 바닥 50년이야, 젊은이. 기계도 거짓말하고 상자도 거짓말해. 손가락은 안 해.
+103. WALT: The same way your Earl knew. I spun one with my fingers. Fifty years in this business, son, and machines can lie, boxes can lie, but fingers don't.
+    월트: 너희 얼이 안 것처럼. 손가락으로 돌려 봤지. 이 바닥 50년이다, 젊은이. 기계도 거짓말하고 상자도 거짓말하지만 손가락은 안 해.
 
-104. SAM: What do I owe you? And please don't give me a Christmas price.
-    샘: 얼마 드리면 돼요? 그리고 크리스마스 가격은 안 받으셨으면 해요.
+104. SAM: What do I owe you, and please don't give me a Christmas price.
+    샘: 얼마 드리면 돼요? 크리스마스 가격은 말고요.
 
-105. WALT: The normal price. Not one dollar more for Christmas Eve. I don't charge extra for other people's emergencies. That's how you lose customers for life.
-    월트: 정상 가격. 크리스마스이브라고 1달러도 더 안 받아. 남의 급한 일로 웃돈 받진 않아. 그러면 평생 고객을 잃거든.
+105. WALT: The normal price, and not one dollar more for Christmas Eve. I don't charge extra for other people's emergencies. That's how you lose customers for life.
+    월트: 정가. 크리스마스이브라고 1달러도 더 안 받아. 남의 급한 사정에 웃돈 안 받는다. 그러면 평생 손님을 잃어.
 
-106. SAM: That's about fourteen thousand dollars. I'll have Gloria send it on Thursday.
-    샘: 1만 4천 달러쯤 되네요. 목요일에 글로리아한테 보내라고 할게요.
+106. SAM: That's about fourteen thousand dollars, and I'll have Gloria send it on Thursday.
+    샘: 1만 4천 달러쯤이네요. 목요일에 글로리아한테 보내라고 할게요.
 
 107. WALT: Send it whenever. Stan's word is good. And son, one more thing.
     월트: 아무 때나 보내. 스탠 말이면 믿을 만해. 그리고 젊은이, 하나 더.
 
-108. SAM: Yes, sir?
-    샘: 네?
+108. SAM: Yes, sir, what is it?
+    샘: 네, 뭔데요?
 
-109. WALT: Find out who sold you those fakes, and report them. Not for you. For the next guy. Somebody bought that truckload I said no to. That's a lot of motors out there with sand in them.
-    월트: 그 가짜를 누가 팔았는지 알아내서 신고해. 너 때문이 아니라. 다음 사람을 위해서. 내가 거절한 그 트럭분을 누군가는 샀을 거야. 저 밖에 모래 든 모터가 엄청 많다는 얘기지.
+109. WALT: Find out who sold you those fakes and report them, not for you, but for the next guy. Somebody bought that truckload I said no to, and that's a lot of motors out there with sand in them.
+    월트: 그 가짜 판 놈 찾아서 신고해. 너 때문이 아니라 다음 사람을 위해서. 내가 거절한 트럭 한 대분을 누군가는 샀을 거야. 모래 든 모터가 밖에 잔뜩 돌아다닌다는 거지.
 
-110. SAM: I will. I promise.
+110. SAM: I will, I promise.
     샘: 그럴게요. 약속해요.
 
-111. WALT: Merry Christmas. Tell your father he still owes me twenty dollars from the Super Bowl in nineteen eighty-nine.
+111. WALT: Merry Christmas, and tell your father he still owes me twenty dollars from the Super Bowl in nineteen eighty-nine.
     월트: 메리 크리스마스. 네 아버지한테 1989년 슈퍼볼 때 빌린 20달러 아직 안 갚았다고 전해.
 
-112. LILY: Dad! You're back! It's almost midnight. I brought food. Mom's on a shift, so I made it. Don't judge it.
-    릴리: 아빠! 왔다! 거의 자정이야. 음식 가져왔어. 엄마는 근무라서 내가 만들었어. 평가하지 마.
+112. LILY: Dad, you're back, and it's almost midnight! I brought food. Mom's on a shift, so I made it, but don't judge it.
+    릴리: 아빠! 왔다! 거의 자정이야. 음식 가져왔어. 엄마가 근무라서 내가 만들었어. 평가하지 마.
 
-113. SAM: Lil? What are you doing here at midnight? It's Christmas Eve.
-    샘: 릴? 자정에 여기서 뭐 해? 크리스마스이브잖아.
+113. SAM: Lil, what are you doing here at midnight on Christmas Eve?
+    샘: 릴? 크리스마스이브 자정에 여기서 뭐 해?
 
-114. LILY: Mom said, and I'm quoting her, "Your father will forget to eat, and so will everyone with him." So I made fourteen sandwiches and a pot of chili. Grandpa's recipe.
-    릴리: 엄마가 그랬어. 그대로 옮기면, "네 아빠는 밥 먹는 걸 까먹을 거고, 같이 있는 사람들도 다 그럴 거야." 그래서 샌드위치 열네 개랑 칠리 한 냄비 만들었어. 할아버지 레시피로.
+114. LILY: Mom said, and I'm quoting her, "Your father will forget to eat, and so will everyone with him," so I made fourteen sandwiches and a pot of chili, from Grandpa's recipe.
+    릴리: 엄마가 그랬어, 그대로 옮기면, "네 아빠는 밥 먹는 거 까먹을 거고, 같이 있는 사람들도 다 그럴 거야." 그래서 샌드위치 열네 개랑 칠리 한 냄비 만들었어. 할아버지 레시피로.
 
-115. JAYDEN: Somebody fed me. You promised, and somebody fed me.
-    제이든: 누가 밥 먹여 줬어요. 약속하시더니 진짜 누가 밥 먹여 줬어요.
+115. JAYDEN: Somebody fed me! You promised, and somebody actually fed me.
+    제이든: 누가 밥 먹여 줬어요. 약속하셨는데, 진짜 누가 먹여 줬어요.
 
 116. PATTY: This chili is better than mine, and I've been making chili for thirty years. Don't tell my husband.
-    패티: 이 칠리 내 거보다 맛있어. 나 칠리 30년 끓였는데. 남편한텐 말하지 마.
+    패티: 이 칠리 제 거보다 맛있어요. 30년 동안 칠리 끓였는데. 남편한텐 말하지 마세요.
 
-117. EARL: Bearings! Okay, everybody, finish your sandwich and wash your hands. Real bearings don't like chili.
-    얼: 베어링이다! 자, 다들 샌드위치 다 먹고 손 씻어. 진짜 베어링은 칠리 안 좋아해.
+117. EARL: The bearings are here! Okay, everybody, finish your sandwich and wash your hands, because real bearings don't like chili.
+    얼: 베어링 왔다! 자, 다들 샌드위치 다 먹고 손 씻어. 진짜 베어링은 칠리 싫어해.
 
-118. LILY: Can I help?
-    릴리: 나도 도와도 돼?
+118. LILY: Can I help with something?
+    릴리: 나도 뭐 도와도 돼요?
 
 119. EARL: Can you press a bearing onto a shaft without hitting it with a hammer?
     얼: 망치로 안 때리고 베어링을 축에 끼울 수 있어?
 
-120. LILY: I don't know. I've never tried. Is it hard?
-    릴리: 몰라요. 해 본 적 없어요. 어려워요?
+120. LILY: I don't know, I've never tried. Is it hard?
+    릴리: 모르겠어요. 해 본 적이 없어서요. 어려워요?
 
-121. EARL: Then tonight you learn the ropes. Patty, show her the press. Same way I showed you last week. Slowly, and with a lot of yelling.
-    얼: 그럼 오늘 밤에 요령을 배우는 거야. 패티, 프레스 보여 줘. 내가 지난주에 너한테 보여 준 대로. 천천히, 고함 많이 치면서.
+121. EARL: Then tonight you learn the ropes. Patty, show her the press, the same way I showed you last week, slowly, and with a lot of yelling.
+    얼: 그럼 오늘 밤에 요령을 배우는 거야. 패티, 프레스 보여 줘. 지난주에 내가 보여 준 것처럼. 천천히, 소리 많이 지르면서.
 
 122. PATTY: I don't yell.
     패티: 전 고함 안 쳐요.
 
-123. EARL: You will. Give it a week.
-    얼: 치게 될 거야. 일주일만 지나 봐.
+123. EARL: You will. Give it a week with these three.
+    얼: 지르게 될 거야. 일주일만 지나 봐.
 
 124. LILY: Dad, this is so cool. I'm basically doing robotics, but with real stuff.
-    릴리: 아빠, 이거 진짜 멋져. 거의 로봇 공학인데 진짜 물건으로 하는 거잖아.
+    릴리: 아빠, 이거 진짜 멋져. 그냥 로봇 동아리인데 진짜 물건으로 하는 거잖아.
 
 125. SAM: Wen, how many motors are back together?
-    샘: 웬, 모터 몇 개 다시 조립됐어요?
+    샘: 웬, 다시 조립된 모터가 몇 개예요?
 
-126. WEN: It's four forty-five in the morning. Six hundred and eighty-one are rebuilt. Nineteen to go. Lily rebuilt sixty-two by herself.
-    웬: 새벽 네 시 사십오 분이에요. 육백팔십한 개 재조립 끝났어요. 열아홉 개 남았어요. 릴리가 혼자 예순두 개 했어요.
+126. WEN: It's four forty-five in the morning, and six hundred and eighty-one are rebuilt, with nineteen to go, and Lily rebuilt sixty-two by herself.
+    웬: 새벽 4시 45분이에요. 육백팔십한 개 다시 조립했고 열아홉 개 남았어요. 릴리가 혼자 예순두 개 했어요.
 
-127. SAM: Sixty-two? By herself? Lil, really?
-    샘: 예순두 개? 혼자서? 릴, 진짜?
+127. SAM: Sixty-two by herself, Lil, really?
+    샘: 혼자서 예순두 개? 릴, 진짜?
 
-128. LILY: Patty yelled at me twice. It works.
-    릴리: 패티 아줌마가 나한테 두 번 고함쳤어. 효과 있더라.
+128. LILY: Patty yelled at me twice, and it works.
+    릴리: 패티 아줌마가 두 번 소리 질렀어. 효과 있어.
 
-129. EARL: Last one. Number seven hundred. Darnell, put it on Betsy.
+129. EARL: This is the last one, number seven hundred. Darnell, put it on Betsy.
     얼: 마지막 거. 칠백 번. 대넬, 베치에 올려.
 
-130. DARNELL: On Betsy. Running. Listen. Nothing. It's quiet.
-    대넬: 베치에 올렸어요. 돌립니다. 들어 보세요. 아무 소리 없어요. 조용해요.
+130. DARNELL: It's on Betsy and running. Listen to that, there's nothing at all, and it's quiet.
+    대넬: 베치에 올렸어요. 돌립니다. 들어 봐요. 아무 소리 없어요. 조용해요.
 
-131. WEN: Vibration is normal. All seven hundred rebuilt motors passed. The whole batch is clean.
-    웬: 진동 정상. 재조립한 칠백 개 전부 통과. 묶음 전체가 깨끗해요.
+131. WEN: The vibration is normal. All seven hundred rebuilt motors passed, and the whole batch is clean.
+    웬: 진동 정상이에요. 다시 조립한 칠백 개 전부 통과했어요. 배치 전체가 깨끗해요.
 
-132. SAM: We're back on track. The January sixth shipment is safe.
-    샘: 다시 정상 궤도예요. 1월 6일 출하는 무사해요.
+132. SAM: We're back on track, and the January sixth shipment is safe.
+    샘: 다시 정상 궤도야. 1월 6일 출하는 안전해.
 
-133. JAYDEN: Is it Christmas yet?
+133. JAYDEN: Is it Christmas yet, or not?
     제이든: 이제 크리스마스예요?
 
 134. WEN: It's been Christmas for almost five hours, Jayden.
     웬: 크리스마스 된 지 거의 다섯 시간 됐어요, 제이든.
 
 135. PATTY: Then somebody sing something. I'm too tired to stand, but I can sing.
-    패티: 그럼 누가 노래 좀 해. 너무 피곤해서 서 있지는 못하겠는데 노래는 할 수 있어.
+    패티: 그럼 누가 노래 좀 해요. 너무 피곤해서 서 있진 못해도 노래는 할 수 있어요.
 
-136. DARNELL: "Silent night, holy night." Come on, everybody knows this one.
-    대넬: "고요한 밤, 거룩한 밤." 자, 이건 다들 알잖아요.
+136. DARNELL: "Silent night, holy night," so come on, everybody knows this one.
+    대넬: "고요한 밤, 거룩한 밤." 자, 다들 아는 노래잖아요.
 
 137. EARL: I can't sing.
     얼: 나 노래 못 해.
 
-138. LILY: Nobody can sing at five in the morning, Earl. That's the rule.
-    릴리: 새벽 다섯 시엔 아무도 노래 못 해요, 얼. 그게 규칙이에요.
+138. LILY: Nobody can sing at five in the morning, Earl, and that's the rule.
+    릴리: 새벽 다섯 시엔 아무도 노래 못 해요, 아저씨. 그게 규칙이에요.
 
 139. STAN: Is this the factory where they buy cheap bearings?
     스탠: 여기가 싼 베어링 사는 공장이냐?
 
-140. SAM: Dad? What are you doing here? It's five in the morning. On Christmas.
-    샘: 아버지? 여기서 뭐 하세요? 새벽 다섯 시예요. 크리스마스에.
+140. SAM: Dad, what are you doing here at five in the morning, on Christmas?
+    샘: 아버지? 여기서 뭐 하세요? 크리스마스 새벽 다섯 시에요.
 
-141. STAN: I'm seventy-seven. I wake up at five every day. I brought coffee. Real coffee, from a real coffee shop, not from Earl's goose machine.
-    스탠: 나 일흔일곱이야. 매일 다섯 시에 일어나. 커피 가져왔다. 진짜 커피 가게에서 산 진짜 커피. 얼의 거위 기계 말고.
+141. STAN: I'm seventy-seven, and I wake up at five every day. I brought coffee, real coffee from a real coffee shop, not from Earl's goose machine.
+    스탠: 난 일흔일곱이야. 매일 다섯 시에 깬다. 커피 가져왔어. 진짜 커피숍에서 산 진짜 커피. 얼의 거위 머신 거 말고.
 
-142. EARL: Stan. I'm sorry about the bearings.
-    얼: 스탠. 베어링 일은 미안해.
+142. EARL: Stan, I'm sorry about the bearings.
+    얼: 형님, 베어링 일은 미안해.
 
-143. STAN: I know, Earl. I'm going to bring it up every Thanksgiving until you die.
+143. STAN: I know, Earl, and I'm going to bring it up every Thanksgiving until you die.
     스탠: 알아, 얼. 네가 죽을 때까지 추수감사절마다 꺼낼 거다.
 
 144. EARL: I knew it.
     얼: 그럴 줄 알았어.
 
-145. STAN: Who are these people? Why are there strangers singing in your factory on Christmas morning?
-    스탠: 이 사람들은 누구냐? 크리스마스 아침에 왜 네 공장에서 낯선 사람들이 노래를 부르고 있어?
+145. STAN: Who are these people, and why are there strangers singing in your factory on Christmas morning?
+    스탠: 이 사람들은 누구냐? 크리스마스 아침에 네 공장에서 왜 모르는 사람들이 노래를 하고 있어?
 
-146. SAM: These are Earl's students, Dad. Darnell, Patty, and Jayden. They stayed all night. They saved the first shipment.
-    샘: 얼의 학생들이에요, 아버지. 대넬, 패티, 제이든. 밤새 남아 줬어요. 첫 출하를 살렸어요.
+146. SAM: These are Earl's students, Dad, Darnell, Patty, and Jayden, who stayed all night and saved the first shipment.
+    샘: 얼의 학생들이에요, 아버지. 대넬, 패티, 제이든. 밤새 남아서 첫 출하를 살렸어요.
 
 147. STAN: Is that right? Earl, are you teaching them the way I taught you?
-    스탠: 그래? 얼, 내가 너 가르친 방식으로 가르치고 있냐?
+    스탠: 그래? 얼, 내가 너 가르친 식으로 가르치고 있냐?
 
 148. EARL: Slowly, and with a lot of yelling.
     얼: 천천히, 고함 많이 치면서.
 
-149. STAN: Teaching with volume. Good. Merry Christmas, everybody. Now go home. Your families are waiting, and the motors aren't going anywhere.
-    스탠: 볼륨 있는 교육. 좋아. 다들 메리 크리스마스. 이제 집에 가. 가족들이 기다려. 모터는 어디 도망 안 가.
+149. STAN: Teaching with volume, good. Merry Christmas, everybody, and now go home. Your families are waiting, and the motors aren't going anywhere.
+    스탠: 볼륨 높여서 가르치기. 좋다. 다들 메리 크리스마스. 이제 집에 가. 가족들이 기다린다. 모터는 어디 안 가.
 
-150. SAM: Merry Christmas, Dad. Thank you for Walt.
-    샘: 메리 크리스마스, 아버지. 월트 아저씨 연결해 줘서 고마워요.
+150. SAM: Merry Christmas, Dad, and thank you for Walt.
+    샘: 메리 크리스마스, 아버지. 월트 일 고마워요.
 
 ---
 

@@ -18,7 +18,7 @@
 001. EARL: It's six in the morning and the coffee's not even made, so this better be important, Sam.
     얼: 새벽 여섯 시에 커피도 아직 안 내렸어. 중요한 일이어야 할 거다, 샘.
 
-002. SAM: It's important, because Greaves wants an answer by Friday and I'm going to give it today, but before I do, I want to hear from everybody one more time.
+002. SAM: It's important. Greaves wants an answer by Friday, and I'm going to give it today. But before I do, I want to hear from everybody one more time.
     샘: 중요해요. 그리브스가 금요일까지 답을 달라는데 오늘 줄 거예요. 그 전에 다들 얘기를 한 번 더 듣고 싶어요.
 
 003. GLORIA: You already know what I think. I said it on the phone last week. This deal is a choice, not a rescue.
@@ -33,10 +33,10 @@
 006. TYLER: Except the future, because Greaves is the biggest buyer of farm motors in America.
     타일러: 미래만 빼고요. 그리브스는 미국 최대의 농기계 모터 구매자거든요.
 
-007. GLORIA: Except the future, and Tyler's right about that, but there's one more cost, so Wen?
+007. GLORIA: Except the future, and Tyler's right about that. But there's one more cost, and Wen can explain it.
     글로리아: 미래만 빼고. 그건 타일러 말이 맞아. 근데 비용이 하나 더 있어. 웬?
 
-008. WEN: If we do an open port, it costs money, with a standard connector on every motor at about nine dollars each, plus the app, the code book, and the online manuals, so about a hundred and eighty thousand dollars to start.
+008. WEN: If we do an open port, it costs money. There's a standard connector on every motor at about nine dollars each, plus the app, the code book, and the online manuals. That's about a hundred and eighty thousand dollars to start.
     웬: 열린 포트를 하면 돈이 들어요. 모터마다 개당 9달러쯤 하는 표준 커넥터에, 앱, 코드 책, 온라인 설명서까지 하면 시작하는 데 18만 달러쯤 들어요.
 
 009. EARL: Nine dollars a motor for a plug is more than my first hourly wage.
@@ -48,25 +48,25 @@
 011. SAM: Wen, explain the design again for Earl and Marcus, who weren't on the call.
     샘: 웬, 통화 때 없었던 얼이랑 마커스를 위해서 설계 다시 설명해 줘요.
 
-012. WEN: Every Ferrox controller already knows what's wrong with its motor, like temperature, current, bearing noise, or a loose wire, and right now it just blinks a light, but instead it would speak through a standard plug in a published language.
+012. WEN: Every Ferrox controller already knows what's wrong with its motor, whether it's temperature, current, bearing noise, or a loose wire. Right now it just blinks a light. Instead, it would speak through a standard plug in a published language.
     웬: 페록스 제어기는 온도, 전류, 베어링 소음, 헐거운 전선처럼 자기 모터에 뭐가 문젠지 이미 알아요. 지금은 불만 깜빡이는데, 대신 표준 플러그로 공개된 언어로 말하게 하는 거예요.
 
 013. MARCUS: Published how, like an open standard?
     마커스: 어떻게 공개해요? 공개 표준처럼요?
 
-014. WEN: Exactly, and in plain English, an open standard is a language anybody is allowed to speak, and farm machines already have one for talking to each other, so we'd use it and publish every code on our website for free.
+014. WEN: Exactly. In plain English, an open standard is a language anybody is allowed to speak. Farm machines already have one for talking to each other, so we'd use it, and we'd publish every code on our website for free.
     웬: 정확해요. 쉬운 말로 하면 공개 표준은 누구나 써도 되는 언어예요. 농기계들은 서로 대화하는 표준이 이미 있으니까 그걸 쓰고, 모든 코드를 우리 웹사이트에 무료로 공개하는 거죠.
 
 015. MARCUS: And what about the firmware itself, can anybody change it?
     마커스: 그럼 펌웨어 자체는요? 아무나 바꿀 수 있어요?
 
-016. WEN: No, the firmware stays signed, so you can read the motor's health and replace it with any Ferrox motor with no pairing, but nobody can rewrite the brain, and that's about safety, not business.
+016. WEN: No, the firmware stays signed. You can read the motor's health and replace it with any Ferrox motor, with no pairing. But nobody can rewrite the brain, and that's about safety, not business.
     웬: 아니요, 펌웨어는 서명된 채로 둬요. 모터 상태를 읽고 아무 페록스 모터로나 페어링 없이 바꿀 수는 있지만, 아무도 두뇌를 다시 쓸 순 없어요. 그건 사업이 아니라 안전 문제예요.
 
 017. MARCUS: That's clean, and Governor-D stays completely separate, since the Army contract requires it.
     마커스: 깔끔하네요. 그리고 육군 계약이 요구하니까 거버너-D는 완전히 따로 가고요.
 
-018. WEN: Completely separate, with a different branch, a different enclave, and different rules, so nothing about this touches the Army.
+018. WEN: It's completely separate. It's a different branch with a different enclave and different rules, and nothing about this touches the Army.
     웬: 완전히 따로요. 브랜치도, 엔클레이브도, 규칙도 달라서 이건 육군하고 전혀 상관없어요.
 
 019. EARL: Okay, it's my turn, so can I say something that's not about numbers?
@@ -75,13 +75,13 @@
 020. SAM: That's why I asked you here at six.
     샘: 그래서 여섯 시에 부른 거예요.
 
-021. EARL: At Moraine, every machine on the line had a real manual with pictures, so if the line went down at three in the morning, a guy like me opened the manual and fixed it, and nobody called Detroit.
+021. EARL: At Moraine, every machine on the line had a real manual with pictures. If the line went down at three in the morning, a guy like me opened the manual and fixed it. Nobody called Detroit.
     얼: 모레인에선 라인의 모든 기계에 그림 있는 진짜 설명서가 있었어. 새벽 세 시에 라인이 서면 나 같은 사람이 설명서 펴고 고쳤지. 아무도 디트로이트에 전화 안 했어.
 
-022. TYLER: Times changed, Earl, because machines have computers now, and you can't open a manual for code.
+022. TYLER: Times changed, Earl. Machines have computers now, and you can't open a manual for code.
     타일러: 시대가 바뀌었잖아요, 얼. 이제 기계엔 컴퓨터가 있어서 코드는 설명서 펴서 못 고쳐요.
 
-023. EARL: Times changed, but respect didn't, because when you lock a man out of his own machine, you're telling him he's too dumb to fix it, and farmers aren't dumb, just like line workers weren't dumb.
+023. EARL: Times changed, but respect didn't. When you lock a man out of his own machine, you're telling him he's too dumb to fix it. Farmers aren't dumb, and line workers weren't dumb either.
     얼: 시대는 바뀌었어도 존중은 안 바뀌었어. 남자를 자기 기계에서 쫓아내는 건 너는 고칠 만큼 똑똑하지 않다고 말하는 거야. 농부들은 안 멍청해. 라인 노동자들이 안 멍청했던 것처럼.
 
 024. TYLER: I never said they were dumb.
@@ -93,22 +93,22 @@
 026. SAM: Tyler, you get the last word before I decide, so is there anything you haven't said?
     샘: 타일러, 결정하기 전 마지막 말이야. 아직 안 한 말 있어?
 
-027. TYLER: Just one thing, which is that if we say no to the lock, let's still offer Greaves the open version at the same price, so they're the ones who say no and we don't close the door ourselves.
+027. TYLER: Just one thing. If we say no to the lock, let's still offer Greaves the open version at the same price. Let them be the ones who say no, so we don't close the door ourselves.
     타일러: 하나만요. 잠금을 거절해도 그리브스한테 열린 버전을 같은 가격에 제안해요. 거절은 그쪽이 하게 하고, 우리가 먼저 문 닫지 말고요.
 
-028. GLORIA: That's smart, Tyler, because we make them close the door, not us.
+028. GLORIA: That's smart, Tyler. We make them close the door, and not us.
     글로리아: 그거 똑똑하네, 타일러. 문은 우리가 아니라 그쪽이 닫게 하자.
 
 029. TYLER: I have my moments.
     타일러: 저도 가끔은요.
 
-030. SAM: Okay, here's my decision: every Ferrox motor ships with an open port, not just the farm motors but washers, cars, bikes, and fans, so every customer can read what's wrong and replace the part, with no pairing, no password, and no dealer.
+030. SAM: Okay, here's my decision. Every Ferrox motor ships with an open port, not just the farm motors but washers, cars, bikes, and fans. Every customer can read what's wrong and replace the part, with no pairing, no password, and no dealer.
     샘: 좋아, 내 결정은 이거야. 농기계 모터만이 아니라 세탁기, 자동차, 자전거, 팬까지 모든 페록스 모터는 열린 포트를 달고 나간다. 모든 고객이 뭐가 문젠지 읽고 부품을 바꿀 수 있게. 페어링도, 비밀번호도, 딜러도 없이.
 
 031. EARL: Every motor, even the washing machine ones for Gary?
     얼: 모든 모터를? 개리네 세탁기 모터까지?
 
-032. SAM: Every motor, and we offer Greaves the open version at the price they offered, so if they want it locked, they'll have to buy from somebody else.
+032. SAM: Every motor. And we offer Greaves the open version at the price they offered. If they want it locked, they'll have to buy from somebody else.
     샘: 모든 모터요. 그리고 그리브스한테 열린 버전을 그쪽이 제시한 가격에 제안할 거예요. 잠긴 걸 원하면 다른 데서 사야겠죠.
 
 033. GLORIA: You know what they'll say.
@@ -117,37 +117,37 @@
 034. SAM: I know what they'll say. I'm going to give them the chance to say it.
     샘: 알아요. 그 말을 할 기회를 주려는 거예요.
 
-035. WEN: Thank you, Sam, because I've been waiting six years for someone to let me build it this way.
+035. WEN: Thank you, Sam. I've been waiting six years for someone to let me build it this way.
     웬: 고마워요, 샘. 누가 이렇게 만들게 해 주길 6년 동안 기다렸거든요.
 
-036. SAM: Don't thank me, because you built it and I just said yes.
+036. SAM: Don't thank me, because you built it. I just said yes.
     샘: 고마워하지 마요. 웬이 만든 거고 난 그냥 '네' 했을 뿐이에요.
 
 037. WEN: Saying yes was the expensive part. Writing the code is easy. Deciding to give it away is hard.
     웬: '네'라고 하는 게 비싼 부분이었어요. 코드 짜는 건 쉬워요. 그걸 내주기로 결정하는 게 어렵죠.
 
-038. EARL: It's seven, so it's huddle time, and everybody's at Betsy.
+038. EARL: It's seven, time for the huddle, and everybody's at Betsy.
     얼: 일곱 시다, 허들 시간. 다들 베치 앞에 모였어.
 
 039. SAM: Good morning, everybody. What spins today?
     샘: 다들 좋은 아침. 오늘 뭐 돌리지?
 
-040. PATTY: The drone line is at twelve hundred this month and on schedule, there are twenty FX-A7 fan motors for Iowa, and I heard a rumor that we're going to start putting plugs on everything.
+040. PATTY: The drone line is at twelve hundred this month and on schedule, and there are twenty FX-A7 fan motors for Iowa. I also heard a rumor that we're going to start putting plugs on everything.
     패티: 드론 라인은 이번 달 천이백 개로 일정대로고, 아이오와행 FX-A7 팬 모터 스무 개 있어요. 그리고 이제 모든 제품에 플러그를 단다는 소문을 들었어요.
 
-041. SAM: You heard right, Patty. I'll tell you all about it tonight. Right now, I have a phone call to make.
+041. SAM: You heard right, Patty, and I'll tell you all about it tonight. Right now, I have a phone call to make.
     샘: 제대로 들었어요, 패티. 오늘 밤에 다 얘기해 줄게요. 지금은 전화 한 통 해야 해서요.
 
 042. NEIL: Sam, you're two days early, so is that a good sign or a bad sign?
     닐: 샘, 이틀 일찍 연락하셨네요. 좋은 신호예요, 나쁜 신호예요?
 
-043. SAM: It's an honest sign. Neil, I'll get straight to it. We can't do the firmware lock.
+043. SAM: It's an honest sign. Neil, I'll get straight to it: we can't do the firmware lock.
     샘: 정직한 신호예요. 닐, 바로 말씀드릴게요. 펌웨어 잠금은 못 해요.
 
 044. NEIL: I see, and I was afraid you'd say that.
     닐: 그렇군요. 그 말씀 하실까 봐 걱정했어요.
 
-045. SAM: But I want to make you an offer of the same motors, same price, and same schedule, with an open diagnostic port, where the firmware is signed so nobody can tamper with it, but the codes are readable and there's no pairing.
+045. SAM: But I want to make you an offer: the same motors, same price, and same schedule, with an open diagnostic port. The firmware is signed, so nobody can tamper with it, but the codes are readable and there's no pairing.
     샘: 근데 같은 모터, 같은 가격, 같은 일정으로 열린 진단 포트를 단 제안을 드리고 싶어요. 펌웨어는 서명돼 있어서 아무도 손 못 대지만, 코드는 읽을 수 있고 페어링은 없어요.
 
 046. NEIL: You know I can't take that upstairs.
@@ -156,7 +156,7 @@
 047. SAM: I know, but I wanted you to have the choice anyway.
     샘: 알아요. 그래도 선택권을 드리고 싶었어요.
 
-048. NEIL: Can I ask why, really, since you're walking away from twelve million dollars? I've been in sourcing for twenty years, and I've never seen a supplier your size walk away from a number like that.
+048. NEIL: Can I ask why? Really, you're walking away from twelve million dollars. I've been in sourcing for twenty years, and I've never seen a supplier your size walk away from a number like that.
     닐: 진짜로 이유를 물어봐도 돼요? 1,200만 달러를 걷어차는 거잖아요. 구매 일 20년 했는데, 그쪽 규모 공급사가 그런 숫자를 걷어차는 건 처음 봐요.
 
 049. SAM: Because I sat at a farmer's kitchen table, and his wife asked me one question. Would I build motors a farmer can fix himself? I said I'd try. I can't put our name on a lock and still say I tried.
@@ -165,7 +165,7 @@
 050. NEIL: Your name wouldn't have been on it. That was the white label.
     닐: 그쪽 이름은 안 붙었을 거예요. 그게 화이트 라벨이었잖아요.
 
-051. SAM: That's worse, because then I'd be hiding.
+051. SAM: That's even worse, because then I'd be hiding.
     샘: 그게 더 나빠요. 그럼 숨는 거잖아요.
 
 052. NEIL: Then we're done, and I'm sorry, Sam, I mean that.
@@ -174,7 +174,7 @@
 053. SAM: I know you do. You've been straight with us from the start.
     샘: 알아요. 처음부터 솔직하게 대해 주셨잖아요.
 
-054. NEIL: You understand what happens next, because we'll sign with the Carolina company, and their motor will be in our planters by next spring, locked, so your competitor gets a twelve-million-dollar contract, and maybe a lot more.
+054. NEIL: You understand what happens next. We'll sign with the Carolina company, and their motor will be in our planters by next spring, locked. Your competitor gets a twelve-million-dollar contract, and maybe a lot more.
     닐: 다음에 뭐가 일어날지 아시죠. 캐롤라이나 회사랑 서명하면 내년 봄엔 그쪽 모터가 잠긴 채로 저희 파종기에 들어가요. 그쪽 경쟁사가 1,200만 달러, 어쩌면 훨씬 더 큰 계약을 따는 거죠.
 
 055. SAM: I understand, and I've thought about it every night this week.
@@ -183,7 +183,7 @@
 056. NEIL: And our dealers will be told not to stock Ferrox replacement parts, which isn't personal, it's policy.
     닐: 그리고 저희 딜러들한텐 페록스 교체 부품을 들이지 말라는 지시가 갈 거예요. 개인적인 게 아니라 방침이에요.
 
-057. SAM: That's fine, because we'll sell them at the co-op.
+057. SAM: That's fine, we'll sell them at the co-op.
     샘: 괜찮아요. 협동조합에서 팔면 되니까요.
 
 058. NEIL: You really believe that's a business.
@@ -192,10 +192,10 @@
 059. SAM: I believe it's the long game. Every farmer in Iowa remembers who let them fix their own machine. That's customer loyalty you can't buy with a discount.
     샘: 장기전이라고 믿어요. 아이오와 농부들은 누가 자기 기계를 고치게 해 줬는지 다 기억해요. 그건 할인으로는 못 사는 고객 충성도예요.
 
-060. NEIL: Or they'll remember the cheaper motor. Farmers are loyal, Sam. But they're also broke this year.
+060. NEIL: Or they'll remember the cheaper motor. Farmers are loyal, Sam, but they're also broke this year.
     닐: 아니면 더 싼 모터를 기억하겠죠. 농부들은 충성스러워요, 샘. 근데 올해는 빈털터리기도 하고요.
 
-061. SAM: You might be right. We'll find out by next spring.
+061. SAM: You might be right, and we'll find out by next spring.
     샘: 그쪽 말이 맞을 수도 있죠. 내년 봄이면 알게 되겠죠.
 
 062. NEIL: I usually am, which is why they pay me, but since this is our last conversation for a while, I'll tell you something off the record.
@@ -222,13 +222,13 @@
 069. TYLER: So Calloway gets our twelve million, the same people we're suing for stealing from us.
     타일러: 그러니까 우리 걸 훔쳤다고 소송 건 캘러웨이가 우리 1,200만 달러를 가져가는 거네요.
 
-070. SAM: Calloway gets Greaves's twelve million, because it was never ours.
+070. SAM: Calloway gets Greaves's twelve million, Tyler, and it was never ours.
     샘: 캘러웨이가 그리브스의 1,200만 달러를 가져가는 거지. 우리 거였던 적은 없어.
 
 071. TYLER: That's a nice way to say it.
     타일러: 듣기 좋게 말하시네요.
 
-072. SAM: It's the true way to say it, because you had me offer them the open version and they said no, so you were right to make me offer it.
+072. SAM: It's the true way to say it. You had me offer them the open version, and they said no. You were right to make me offer it.
     샘: 사실대로 말하는 거야. 네가 열린 버전을 제안하자고 했고 그쪽이 거절했잖아. 제안하게 한 건 네가 옳았어.
 
 073. TYLER: It doesn't feel like I was right.
@@ -237,7 +237,7 @@
 074. SAM: It never does on the day. Ask me in a year.
     샘: 그날엔 원래 그런 기분 안 들어. 1년 뒤에 물어봐.
 
-075. GLORIA: Sam, Megan Cho, the reporter, called, because she's writing about right to repair and she heard Greaves was talking to us.
+075. GLORIA: Sam, Megan Cho called, the reporter. She's writing about right to repair, and she heard Greaves was talking to us.
     글로리아: 샘, 그 기자 메건 조가 전화했어. 수리할 권리 기사를 쓰는데 그리브스가 우리랑 얘기한다는 걸 들었대.
 
 076. SAM: Already, after forty minutes?
@@ -249,19 +249,19 @@
 078. SAM: Why Iowa tonight, when I just got off the phone with Greaves?
     샘: 그리브스랑 방금 통화 끝났는데, 왜 오늘 밤 아이오와예요?
 
-079. GLORIA: Because Ruth invited her, since Ruth has organized another meeting at the church at seven o'clock, and she says, quote, "If he decided, he should tell us to our faces."
+079. GLORIA: Because Ruth invited her. Ruth has organized another meeting at the church at seven o'clock, and she says, quote, "If he decided, he should tell us to our faces."
     글로리아: 루스가 초대했으니까. 루스가 일곱 시에 교회 모임을 또 잡았는데, 그대로 옮기면, "결정했으면 우리 얼굴 보고 말해야죠."
 
 080. SAM: How did Ruth know I decided?
     샘: 제가 결정한 걸 루스가 어떻게 알았어요?
 
-081. GLORIA: I told her last night, because I knew what you'd do before you did, just like your wife.
+081. GLORIA: I told her last night. I knew what you'd do before you did, just like your wife.
     글로리아: 내가 어젯밤에 말했어. 네 아내처럼, 네가 뭘 할지 너보다 먼저 알았거든.
 
 082. SAM: Is there even a flight, when it's almost ten already?
     샘: 벌써 열 시 다 됐는데 비행기는 있어요?
 
-083. TYLER: There's a twelve-fifteen out of Dayton through Chicago, and I already booked three seats for you, me, and Gloria.
+083. TYLER: There's a twelve-fifteen out of Dayton through Chicago. I already booked three seats, for you, me, and Gloria.
     타일러: 데이턴에서 열두 시 십오 분, 시카고 경유요. 샘, 저, 글로리아 세 자리 벌써 예약했어요.
 
 084. GLORIA: I'm coming because Kurt owes me a signed purchase order, and because I want to see Ruth's face.
@@ -270,37 +270,37 @@
 085. SAM: Let's go to Iowa.
     샘: 아이오와 가자.
 
-086. RUTH: You made it, so sit in the front this time, because you've earned it.
+086. RUTH: You made it, so sit in the front this time. You've earned it.
     루스: 왔네요. 이번엔 앞에 앉아요. 그럴 자격 있어요.
 
 087. SAM: Ruth, how many people are here?
     샘: 루스, 몇 분이나 오셨어요?
 
-088. RUTH: A hundred and ten, and we ran out of chairs, so some of the young ones are standing by the piano.
+088. RUTH: A hundred and ten, and we ran out of chairs. Some of the young ones are standing by the piano.
     루스: 백열 명이요. 의자가 모자라서 젊은 사람 몇은 피아노 옆에 서 있어요.
 
 089. GENE: Ohio, you came back, and that's two points.
     진: 오하이오, 다시 왔네. 그럼 2점이야.
 
-090. LORNA: I drove four hours again, and there are no lemon bars this time, Tina, so I came for you, Sam, and don't let me down.
+090. LORNA: I drove four hours again, and there are no lemon bars this time, Tina. I came for you, Sam, so don't let me down.
     로나: 또 네 시간 운전했어요. 티나, 이번엔 레몬 바도 없으니 샘 때문에 온 거예요. 실망시키지 마요.
 
-091. MEGAN: Sam, it's Megan Cho, and we've met, so I'm going to sit in the back and write things down, and you can pretend I'm not here.
+091. MEGAN: Sam, it's Megan Cho, and we've met. I'm going to sit in the back and write things down, so pretend I'm not here.
     메건: 샘, 메건 조예요. 만난 적 있죠. 뒤에 앉아서 받아 적을 테니 없는 사람인 척하세요.
 
 092. SAM: You're never not here, Megan.
     샘: 메건이 없었던 적은 없죠.
 
-093. MEGAN: That's my job, Sam. Somebody has to write it down.
+093. MEGAN: That's my job, Sam, because somebody has to write it down.
     메건: 그게 제 일이에요, 샘. 누군가는 받아 적어야죠.
 
-094. RUTH: Everybody, you all know Sam by now, because he sat in the back three weeks ago and listened, and tonight he asked to talk, so go ahead, Sam.
+094. RUTH: Everybody, you all know Sam by now. He sat in the back three weeks ago and listened, and tonight he asked to talk. Go ahead, Sam.
     루스: 여러분, 이제 다들 샘 아시죠. 3주 전엔 뒤에 앉아서 듣기만 했는데, 오늘 밤엔 자기가 말하겠대요. 샘, 하세요.
 
-095. SAM: Thank you, and I'll be short: three weeks ago Tina told us about a screen that knew and didn't tell her, and today a big company offered us twelve million dollars to build our motors like that screen.
+095. SAM: Thank you, and I'll be short. Three weeks ago, Tina told us about a screen that knew and didn't tell her. Today a big company offered us twelve million dollars to build our motors like that screen.
     샘: 감사합니다. 짧게 할게요. 3주 전에 티나 씨가 알면서도 말을 안 해 준 화면 얘기를 했는데, 오늘 한 대기업이 우리 모터를 그 화면처럼 만들라고 1,200만 달러를 제안했어요.
 
-096. TINA: And then what, because everybody's holding their breath?
+096. TINA: And then what? Everybody in here is holding their breath.
     티나: 그래서요? 다들 숨죽이고 있어요.
 
 097. SAM: And we said no.
@@ -309,13 +309,13 @@
 098. GENE: You said no to twelve million dollars?
     진: 1,200만 달러를 거절했다고?
 
-099. SAM: Yes, sir, and here's what we're doing instead: starting with every motor we ship this summer, every Ferrox motor will have an open port with a standard plug, and the fault codes will be published on our website in plain English.
+099. SAM: Yes, sir. And here's what we're doing instead. Starting with every motor we ship this summer, every Ferrox motor will have an open port with a standard plug. The fault codes will be published on our website in plain English.
     샘: 네. 그리고 대신 이렇게 할 거예요. 올여름 출하분부터 모든 페록스 모터에 표준 플러그로 된 열린 포트를 달고, 고장 코드는 우리 웹사이트에 쉬운 영어로 공개할 거예요.
 
 100. LORNA: Published for anybody, not just Greaves dealers?
     로나: 그리브스 딜러만이 아니라 누구한테나 공개요?
 
-101. SAM: For anybody, with a free app on your phone and repair manuals online with pictures, and any Ferrox motor replaces any other with no pairing and no dealer, and we'll sell parts to anyone who asks, whether that's farmers, independent shops, or the co-op.
+101. SAM: For anybody. There's a free app on your phone and repair manuals online with pictures. Any Ferrox motor replaces any other, with no pairing and no dealer, and we'll sell parts to anyone who asks, whether that's farmers, independent shops, or the co-op.
     샘: 누구한테나요. 휴대폰 무료 앱에 그림 있는 온라인 수리 설명서도 있고, 페록스 모터는 페어링도 딜러도 없이 서로 바꿔 끼울 수 있어요. 부품은 농부든 독립 정비소든 협동조합이든 달라는 사람한테 다 팔 거고요.
 
 102. TINA: Can I ask a dumb question?
@@ -333,19 +333,19 @@
 106. GENE: I can live with that. My brother burned his barn down without any software.
     진: 그건 받아들일 수 있지. 우리 형은 소프트웨어 없이도 헛간을 태웠어.
 
-107. LORNA: Sam, I have to say that in the seven years I've been doing this work, you're the first motor company I've seen say this out loud, in public, to farmers.
+107. LORNA: Sam, I have to say this. I've been doing this work for seven years, and you're the first motor company I've seen say this out loud, in public, to farmers.
     로나: 샘, 이건 말해야겠어요. 이 일 7년 했는데, 이걸 공개적으로 농부들 앞에서 소리 내서 말하는 모터 회사는 처음 봐요.
 
 108. SAM: We're a small company, Lorna. Don't make us bigger than we are.
     샘: 우린 작은 회사예요, 로나. 실제보다 크게 만들지 마세요.
 
-109. LORNA: Small companies are where everything starts. Ask the Wright brothers.
+109. LORNA: Small companies are where everything starts, so ask the Wright brothers.
     로나: 모든 건 작은 회사에서 시작해요. 라이트 형제한테 물어봐요.
 
 110. SAM: You know about the Wright brothers?
     샘: 라이트 형제를 아세요?
 
-111. LORNA: Everybody knows about the Wright brothers, and you're from Dayton, so you've probably said it ten times this month.
+111. LORNA: Everybody knows about the Wright brothers. You're from Dayton, so you've probably said it ten times this month.
     로나: 라이트 형제는 다 알죠. 데이턴에서 오셨으니 이번 달에만 열 번은 말했을 거예요.
 
 112. SAM: Only twice, maybe three times, and Earl said it once too.
@@ -369,7 +369,7 @@
 118. DALE: I'm not crying, it's the dust from the furnace.
     데일: 안 울어. 난로 먼지 때문이야.
 
-119. KURT: Can I add one thing? Sam, since word got around about the open plug, eighty more members have signed up for the fan motor, so sixty became a hundred and forty in one week.
+119. KURT: Can I add one thing? Sam, since word got around about the open plug, eighty more members have signed up for the fan motor. Sixty became a hundred and forty in one week.
     커트: 하나만 덧붙여도 될까요? 샘, 열린 플러그 소문이 돌고 나서 팬 모터 신청이 여든 명 더 들어와서, 일주일 만에 예순이 백사십이 됐어요.
 
 120. GLORIA: A hundred and forty at ten eighty means, Kurt, you'll need a bigger purchase order.
@@ -381,22 +381,22 @@
 122. GENE: Ohio, do you know what this is?
     진: 오하이오, 이게 뭔지 알아?
 
-123. SAM: What is it, Gene, because I've been waiting all night?
+123. SAM: What is it, Gene? I've been waiting all night to hear.
     샘: 뭔데요, 진? 밤새 기다렸어요.
 
-124. GENE: It means talk isn't cheap anymore, because you paid for it, and that's three points.
+124. GENE: It means talk isn't cheap anymore, because you paid for it. That's three points, Ohio.
     진: 이제 말이 싸지 않다는 거야. 값을 치렀으니까. 3점.
 
 125. MEGAN: Sam, over here, I have one question for the record. "We said no to twelve million dollars": can I quote you on that?
     메건: 샘, 여기요. 기록용 질문 하나요. "1,200만 달러를 거절했다." 그거 인용해도 돼요?
 
-126. SAM: You can quote me on the open port, but leave the twelve million out, because it wasn't ours, and the company has every right to choose another supplier.
+126. SAM: You can quote me on the open port, but leave the twelve million out. It wasn't ours, and the company has every right to choose another supplier.
     샘: 열린 포트는 인용해도 되는데 1,200만 달러는 빼 주세요. 우리 돈이 아니었고, 그 회사는 다른 공급사를 고를 권리가 충분히 있어요.
 
 127. MEGAN: You're protecting them, after they walked away from you?
     메건: 그쪽이 먼저 떠났는데도 보호하는 거예요?
 
-128. SAM: I'm being fair, because they made an offer and we didn't like the terms, which is business, so the story is the port, not the fight.
+128. SAM: I'm being fair. They made an offer and we didn't like the terms, and that's business. The story is the port, not the fight.
     샘: 공정하게 하는 거예요. 그쪽이 제안했고 우린 조건이 마음에 안 들었으니, 그게 사업이죠. 기사는 싸움이 아니라 포트예요.
 
 129. MEGAN: You're a strange CEO, Sam. Most of them want me to write about the fight.
@@ -423,7 +423,7 @@
 136. SAM: When you say it like that, it sounds bad.
     샘: 그렇게 말하니까 나빠 보이네요.
 
-137. GLORIA: And you got a hundred and forty fan motors, a co-op with eleven hundred members, and a hundred and ten farmers who'll tell everybody they know, because bad news has a pickup truck, baby, and tonight good news got one too.
+137. GLORIA: And you got a hundred and forty fan motors, a co-op with eleven hundred members, and a hundred and ten farmers who'll tell everybody they know. Bad news has a pickup truck, baby, and tonight good news got one too.
     글로리아: 그리고 팬 모터 백사십 개, 조합원 천백 명짜리 협동조합, 아는 사람한테 다 말할 농부 백열 명을 얻었지. 나쁜 소식은 픽업트럭을 탄다며, 얘. 오늘 밤엔 좋은 소식도 한 대 탔어.
 
 138. TYLER: Gloria, is that a compliment?
@@ -441,7 +441,7 @@
 142. SAM: And what did you tell her, Wen?
     샘: 그래서 뭐라고 했어요, 웬?
 
-143. WEN: I said, "Thank you. No," not "not now," just no, and I told her I already work somewhere with no fences, because she offered me a lab with no fences, and you just built a company with no locks.
+143. WEN: I said, "Thank you. No." Not "not now," just no. I told her I already work somewhere with no fences. She offered me a lab with no fences, and you just built a company with no locks.
     웬: "고맙습니다. 아니요"라고 했어요. "지금은 아니다"가 아니라 그냥 아니요. 그분은 울타리 없는 연구실을 제안했지만, 샘은 방금 자물쇠 없는 회사를 만들었으니 이미 울타리 없는 곳에서 일한다고 했어요.
 
 144. SAM: Wen, I don't know what to say.

@@ -21,19 +21,19 @@
 002. SAM: Good morning. My name is Sam Kowalski. I'm the founder of Ferrox Motion. Today, we filed, uh, we filed two, um. Sorry. Can I start again?
     샘: 안녕하세요. 저는 샘 코왈스키입니다. 페록스 모션 창업자입니다. 오늘 저희는, 어, 두 건을, 음. 죄송해요. 다시 해도 돼?
 
-003. BEN: You can start again in this room, but out there you can't, because out there, "um" becomes the headline.
+003. BEN: You can start again in this room, but out there you can't. Out there, "um" becomes the headline.
     벤: 이 방에선 다시 해도 돼. 근데 밖에선 안 돼. 밖에선 '음'이 헤드라인이 되거든.
 
 004. GLORIA: He's been practicing in the truck all week, and he was perfect in the truck.
     글로리아: 일주일 내내 트럭에서 연습했어요. 트럭에선 완벽했다고요.
 
-005. BEN: Everybody's perfect in the truck. Sam, look at me, because you're not giving a speech, you're telling a story you already know, so tell it like you'd tell Earl.
+005. BEN: Everybody's perfect in the truck. Sam, look at me. You're not giving a speech, you're telling a story you already know, so tell it like you'd tell Earl.
     벤: 트럭에선 다들 완벽해요. 샘, 날 봐. 연설하는 게 아니라 이미 아는 이야기를 하는 거야. 얼한테 하듯이 해.
 
 006. EARL: He tells me stories with a whole lot of swearing.
     얼: 얘는 나한테 욕을 잔뜩 섞어서 얘기하는데.
 
-007. BEN: Okay, not exactly like Earl. Give me three points, Sam, because that's all anybody will remember, so what are your three points?
+007. BEN: Okay, not exactly like Earl. Give me three points, Sam. That's all anybody will remember, so what are your three points?
     벤: 그래, 얼한테 하듯이는 말고. 요점 세 개만, 샘. 사람들이 기억하는 건 그게 다야. 세 가지가 뭐야?
 
 008. SAM: One, we built something new here in Dayton, two, we believe Calloway took it, and three, we're asking the courts to make them stop.
@@ -45,7 +45,7 @@
 010. WEN: An allegation, so we are not allowed to say the truth?
     웬: 주장이라고요? 그럼 진실을 말하면 안 된다는 거예요?
 
-011. BEN: In plain English, an allegation is something you say is true but haven't proven yet, and if Sam says "they stole" and we lose, Calloway can sue him for saying it, so we say "we believe."
+011. BEN: In plain English, an allegation is something you say is true but haven't proven yet. If Sam says "they stole" and we lose, Calloway can sue him for saying it. So we say "we believe."
     벤: 쉬운 말로, 주장은 사실이라고 말하지만 아직 증명 안 된 거예요. 샘이 '훔쳤다'고 했다가 우리가 지면 캘러웨이가 그 말로 샘을 고소할 수 있어요. 그래서 '우리는 본다'고 하는 거죠.
 
 012. WEN: Well, I believe it very much.
@@ -63,10 +63,10 @@
 016. TYLER: Mr. Kowalski, isn't it true that you're just jealous because Calloway's motor is better than yours?
     타일러: 코왈스키 씨, 사실 캘러웨이 모터가 당신 것보다 좋아서 질투하는 것뿐 아닙니까?
 
-017. SAM: It's not better, because it's literally our motor, and it has my dad's name in it!
+017. SAM: It's not better. It's literally our motor, and it has my dad's name in it!
     샘: 더 낫긴 뭐가 나아요, 말 그대로 우리 모터인데! 거기 우리 아버지 이름까지 들어 있다고요!
 
-018. BEN: Stop, because that's exactly what they want, you angry and emotional, and you just told the world about STAN76, which we're saving for the hearing.
+018. BEN: Stop. That's exactly what they want, you angry and emotional, and you just told the world about STAN76, which we're saving for the hearing.
     벤: 그만. 그게 바로 그쪽이 원하는 거야. 화나고 감정적인 당신. 게다가 심리 때까지 아껴 두는 STAN76을 방금 온 세상에 말해 버렸잖아.
 
 019. SAM: Sorry, okay, let me try that one again from the top.
@@ -84,13 +84,13 @@
 023. GLORIA: Ben, what if somebody asks about money, or about the investor?
     글로리아: 벤, 누가 돈이나 투자자 얘기를 물으면요?
 
-024. BEN: Then Sam says, "We're well funded for this case, and I won't discuss the details," which is short and boring, and boring is your friend today.
+024. BEN: Then Sam says, "We're well funded for this case, and I won't discuss the details." Short and boring, and boring is your friend today.
     벤: 그럼 샘이 '이 사건에 필요한 자금은 충분하고, 세부 사항은 말씀드리지 않겠습니다'라고 하면 돼요. 짧고 지루하게. 오늘은 지루한 게 친구예요.
 
 025. SAM: Got it, boring is my friend.
     샘: 알았어, 지루한 게 내 친구다.
 
-026. STAN: Is this the room, because Earl told me to come to the room with the doughnuts?
+026. STAN: Is this the room. Earl told me to come to the room with the doughnuts?
     스탠: 여기가 그 방이냐? 얼이 도넛 있는 방으로 오라더라.
 
 027. SAM: Dad, what are you doing here?
@@ -99,7 +99,7 @@
 028. STAN: My son is going on television to fight a company from Charlotte, so you think I'm going to watch that from my couch? I even wore my good shirt.
     스탠: 내 아들이 샬럿 회사랑 싸우러 텔레비전에 나간다는데, 내가 소파에서 보고 있을 줄 알았냐? 좋은 셔츠까지 입고 왔다.
 
-029. EARL: And his union pin, because I told him to wear it.
+029. EARL: And his union pin. I told him to wear it.
     얼: 노조 배지도 달았어. 내가 달라고 했지.
 
 030. BEN: Mr. Kowalski, it's an honor, so stand right behind Sam, on the left, next to Dr. Liu, and don't say anything, just look like Ohio.
@@ -117,7 +117,7 @@
 034. TYLER: Nobody did, but he's from the TV station in Dayton, and he says it's for "the wide shot."
     타일러: 아무도요. 데이턴 방송국 사람인데, '와이드 샷' 찍는 거래요.
 
-035. BEN: The complaint went in at nine this morning, in federal court in Dayton and electronically at the ITC, so it's public now, and there's no taking it back.
+035. BEN: The complaint went in at nine this morning, in federal court in Dayton and electronically at the ITC. It's public now, and there's no taking it back.
     벤: 제소장은 오늘 아침 아홉 시에 들어갔어요. 데이턴 연방법원에, 그리고 ITC엔 전자로요. 이제 공개됐으니 되돌릴 방법은 없어요.
 
 036. SAM: So this is the point of no return.
@@ -150,7 +150,7 @@
 045. LANCE: Lance Pruett, Channel Seven. Mr. Kowalski, Calloway is one of the biggest companies in America. Aren't you worried they'll just outspend you?
     랜스: 채널 7의 랜스 프루엣입니다. 코왈스키 씨, 캘러웨이는 미국에서 손꼽히는 대기업입니다. 그쪽이 그냥 돈으로 밀어붙일까 봐 걱정되지 않으세요?
 
-046. SAM: They have more money than us, and they always will, but money doesn't decide who invented something, facts decide that, and we believe the facts are on our side.
+046. SAM: They have more money than us, and they always will. But money doesn't decide who invented something, facts decide that, and we believe the facts are on our side.
     샘: 그쪽은 저희보다 돈이 많고, 앞으로도 그럴 겁니다. 하지만 누가 발명했는지는 돈이 아니라 사실이 정합니다. 그리고 저희는 사실이 저희 편이라고 봅니다.
 
 047. LANCE: How are you paying for this, when lawsuits like this cost millions?
@@ -171,7 +171,7 @@
 052. SAM: Dr. Liu is a permanent resident of the United States who has lived in Ohio for seventeen years.
     샘: 리우 박사는 미국 영주권자이고, 오하이오에서 17년을 살았습니다.
 
-053. MEGAN: But she's a citizen of China, and I'm asking because people in the industry are already saying that if any technology leaked, it might have leaked the other way, toward China, so how do you answer that?
+053. MEGAN: But she's a citizen of China. I'm asking because people in the industry are already saying that if any technology leaked, it might have leaked the other way, toward China. How do you answer that?
     메건: 그래도 중국 시민이시죠. 업계에서 벌써 기술이 샜다면 반대 방향, 그러니까 중국 쪽으로 샜을 수도 있다는 말이 나와서 여쭙는 겁니다. 어떻게 답하시겠습니까?
 
 054. SAM: And who exactly is saying that?
@@ -186,7 +186,7 @@
 057. BEN: Sam.
     벤: 샘.
 
-058. SAM: Can I say something that's not on my list? Dr. Liu designed this motor and wrote every line of the firmware, and she built a supply chain with zero parts from China, so anyone who wants to see that can come inside today.
+058. SAM: Can I say something that's not on my list? Dr. Liu designed this motor and wrote every line of the firmware. She built a supply chain with zero parts from China, and anyone who wants to see that can come inside today.
     샘: 준비 안 한 말 하나 해도 됩니까? 리우 박사는 이 모터를 설계했고 펌웨어를 한 줄도 빠짐없이 썼습니다. 중국산 부품이 하나도 없는 공급망도 만들었고요. 보고 싶은 분은 오늘 안으로 들어오십시오.
 
 059. MEGAN: Can I quote you on that?
@@ -195,7 +195,7 @@
 060. SAM: You can quote me on every single word.
     샘: 한 마디도 빠짐없이 인용하셔도 됩니다.
 
-061. MEGAN: Then here's a follow-up, which is whether Dr. Liu would like to answer for herself.
+061. MEGAN: Then a follow-up. Dr. Liu, would you like to answer for yourself?
     메건: 그럼 추가 질문이요. 리우 박사님, 직접 답하시겠어요?
 
 062. WEN: Yes. I came to Ohio State in 2008 to study motors, and I stayed because Ohio let me build them. Physics doesn't negotiate, and it doesn't have a passport, and that's all I have to say.
@@ -207,7 +207,7 @@
 064. STAN: I'm his father, and I'm not supposed to talk.
     스탠: 얘 아버지요. 난 말하면 안 된다던데.
 
-065. LANCE: Just one question, which is why you're here today.
+065. LANCE: Just one question, sir. Why did you come out here today?
     랜스: 딱 하나만요. 오늘 왜 오셨습니까?
 
 066. STAN: I worked thirty-two years at the GM plant down the road. They closed it with a memo. My son builds things here. I came to see him not get closed with a memo.
@@ -216,7 +216,7 @@
 067. BEN: Okay, thank you all, and that's all for today. The complaint is public, and my office will send copies to anyone who asks, so thank you.
     벤: 네, 다들 감사합니다. 오늘은 여기까지입니다. 제소장은 공개돼 있고, 요청하시면 저희 사무실에서 사본을 보내 드립니다. 감사합니다.
 
-068. LANCE: Mr. Kowalski, one last thing, which is whether Calloway has contacted you.
+068. LANCE: Mr. Kowalski, one last thing. Has Calloway contacted you yet?
     랜스: 코왈스키 씨, 마지막으로 하나만요. 캘러웨이에서 연락이 왔습니까?
 
 069. SAM: Not yet, but I'm sure they will, probably before dinner.
@@ -246,13 +246,13 @@
 077. SAM: Was that you being nice to us?
     샘: 그게 친절을 베푸신 거예요?
 
-078. MEGAN: That was me being fair, which is different, because nice is for friends, and I'm not your friend, Mr. Kowalski, I'm a reporter.
+078. MEGAN: That was me being fair, which is different. Nice is for friends, and I'm not your friend, Mr. Kowalski, I'm a reporter.
     메건: 공정했던 거예요. 그건 달라요. 친절은 친구한테 하는 거고, 전 코왈스키 씨 친구가 아니라 기자예요.
 
 079. SAM: Then I'll take fair, gladly.
     샘: 그럼 공정한 걸로 기꺼이 받을게요.
 
-080. MEGAN: Good, and one more thing on background, not for quotes. Watch what happens online over the next three weeks, because these things usually start small.
+080. MEGAN: Good, and one more thing on background, not for quotes. Watch what happens online over the next three weeks. These things usually start small.
     메건: 좋아요. 하나 더, 배경 설명으로요. 인용은 안 돼요. 앞으로 3주 동안 온라인에서 무슨 일이 일어나는지 지켜보세요. 이런 건 보통 작게 시작하거든요.
 
 081. SAM: On background means I can't say you told me.
@@ -279,19 +279,19 @@
 088. MEGAN: Ha, no, but nice try.
     메건: 하, 안 돼요. 시도는 좋았어요.
 
-089. TYLER: Sam, get inside, because Calloway put out a statement!
+089. TYLER: Sam, get inside. Calloway put out a statement!
     타일러: 샘! 안으로요! 캘러웨이가 성명을 냈어요!
 
 090. SAM: I have to go, but thank you for being fair.
     샘: 가 봐야겠네요. 공정하게 해 줘서 고마워요.
 
-091. TYLER: Okay, listen to this, because it's only two sentences. "Calloway Dynamics believes these claims are without merit. We will vigorously defend our innovation and our people."
+091. TYLER: Okay, listen to this. It's only two sentences. "Calloway Dynamics believes these claims are without merit. We will vigorously defend our innovation and our people."
     타일러: 자, 들어 보세요. 딱 두 문장이에요. "캘러웨이 다이내믹스는 이 주장들이 근거가 없다고 봅니다. 우리는 우리의 혁신과 우리 사람들을 강력히 방어할 것입니다."
 
 092. GLORIA: That's it, just two sentences, when we spent a month on our complaint?
     글로리아: 그게 다야? 두 문장? 우린 제소장에 한 달을 썼는데?
 
-093. BEN: That's normal, because every big company says the same two sentences, where "without merit" means "we disagree," and "vigorously defend" means "we have a lot of lawyers."
+093. BEN: That's normal. Every big company says the same two sentences, where "without merit" means "we disagree," and "vigorously defend" means "we have a lot of lawyers."
     벤: 그게 정상이에요. 대기업은 다 똑같은 두 문장을 말해요. '근거 없다'는 '동의 안 한다'는 뜻이고, '강력히 방어한다'는 '변호사가 많다'는 뜻이죠.
 
 094. WEN: "Our innovation," so they called my code their innovation.
@@ -300,7 +300,7 @@
 095. EARL: And "our people," which means Kevin, so they're telling us they'll protect Kevin.
     얼: 그리고 '우리 사람들.' 그게 케빈이야. 케빈을 지키겠다고 우리한테 말하는 거지.
 
-096. BEN: Good catch, Earl, because that's a message to Kevin as much as to us, and it says, "Stay with us, we've got you."
+096. BEN: Good catch, Earl. That's a message to Kevin as much as to us, and it says, "Stay with us, we've got you."
     벤: 잘 잡았어요, 얼. 그건 우리한테만큼이나 케빈한테 보내는 메시지예요. '우리 곁에 있어, 우리가 지켜 줄게.'
 
 097. TYLER: Channel Seven is running it at noon, and I've got it on my laptop here, so everybody shut up.
@@ -327,13 +327,13 @@
 104. SAM: Dad, honestly, you were the best part of the whole thing.
     샘: 아버지, 솔직히 아버지가 제일 좋았어요.
 
-105. BEN: He was, because juries love a garage, and they love a father even more. Sam, you were good too, since you lost your list once, but you got it back.
+105. BEN: He was. Juries love a garage, and they love a father even more. Sam, you were good too, since you lost your list once, but you got it back.
     벤: 맞아요. 배심원은 차고를 좋아하고, 아버지는 더 좋아하거든. 샘, 당신도 잘했어. 한 번 요점을 놓쳤지만 다시 찾았으니까.
 
 106. SAM: I didn't plan for the Wen question at all.
     샘: 웬 질문은 전혀 대비를 못 했어.
 
-107. BEN: Nobody did, but what you said was true and it came from the heart, which is sometimes better than staying on message, but only sometimes, so don't make it a habit.
+107. BEN: Nobody did, but what you said was true and it came from the heart. That's sometimes better than staying on message, but only sometimes, so don't make it a habit.
     벤: 아무도 못 했지. 근데 당신 말은 사실이었고 진심이었어. 그게 메시지 지키는 것보다 나을 때도 있어. 가끔은. 버릇 들이진 마.
 
 108. WEN: Can I say something about that?
@@ -342,22 +342,22 @@
 109. SAM: Of course you can, Wen.
     샘: 당연하지, 웬.
 
-110. WEN: Megan's question was not an accident, because someone is preparing a story about me, and after seventeen years in this country, I know what that question means.
+110. WEN: Megan's question was not an accident. Someone is preparing a story about me, and after seventeen years in this country, I know what that question means.
     웬: 메건의 질문은 우연이 아니었어요. 누군가 저에 대한 이야기를 준비하고 있어요. 이 나라에서 17년을 살았으니 그 질문이 무슨 뜻인지 알아요.
 
 111. GLORIA: What does it mean, honey?
     글로리아: 무슨 뜻인데, 얘?
 
-112. WEN: It means they will not fight the evidence, they will fight the person, because if they can make people afraid of me, the evidence doesn't matter.
+112. WEN: It means they will not fight the evidence, they will fight the person. If they can make people afraid of me, the evidence doesn't matter.
     웬: 증거랑 싸우지 않고 사람이랑 싸우겠다는 뜻이에요. 사람들이 저를 무서워하게 만들면 증거는 상관없어지니까요.
 
-113. BEN: She's right, and it's an old trick, because when you can't beat the facts, you change the subject, and the easiest subject in America right now is China.
+113. BEN: She's right, and it's an old trick. When you can't beat the facts, you change the subject, and the easiest subject in America right now is China.
     벤: 맞아요, 오래된 수법이에요. 사실을 못 이기면 화제를 돌리는 거죠. 그리고 지금 미국에서 제일 쉬운 화제가 중국이에요.
 
-114. TYLER: But that's crazy, because Wen hates China more than I do. Well, not hates, but she hates the Chinese magnet monopoly, and she talks about it every lunch.
+114. TYLER: But that's crazy. Wen hates China more than I do. Well, not hates, but she hates the Chinese magnet monopoly, and she talks about it every lunch.
     타일러: 근데 말도 안 돼요. 웬은 저보다 중국을 더 싫어하는데. 아, 싫어하는 건 아니고, 중국 자석 독점을 싫어하죠. 점심때마다 그 얘기 해요.
 
-115. WEN: I don't hate China, Tyler, because my father lives there, but I hate monopolies, and that's different.
+115. WEN: I don't hate China, Tyler. My father lives there, but I hate monopolies, and that's different.
     웬: 중국을 싫어하진 않아요, 타일러. 우리 아버지가 거기 사세요. 제가 싫어하는 건 독점이에요. 그건 달라요.
 
 116. TYLER: Right, sorry, that's what I meant to say.
@@ -372,10 +372,10 @@
 119. WEN: Why, when I have nothing to hide?
     웬: 왜요? 전 숨길 게 없는데요.
 
-120. BEN: That's exactly why, because people with nothing to hide can show everything, so let's show everything before they ask.
+120. BEN: That's exactly why. People with nothing to hide can show everything, so let's show everything before they ask.
     벤: 바로 그래서예요. 숨길 게 없는 사람은 다 보여 줄 수 있잖아요. 그쪽이 묻기 전에 다 보여 줍시다.
 
-121. WEN: Okay, it's my father, my aunt, and two old classmates, and I go once a year at Chinese New Year, so I'll write it all down.
+121. WEN: Okay, it's my father, my aunt, and two old classmates. I go once a year at Chinese New Year. I'll write it all down.
     웬: 알겠어요. 아버지, 고모, 옛 동창 두 명이에요. 1년에 한 번 춘절에 가요. 전부 적을게요.
 
 122. GLORIA: And what about the rest of us, what do we do?
@@ -387,13 +387,13 @@
 124. EARL: Six hundred, if nobody else goes on TV.
     얼: 아무도 텔레비전에 또 안 나가면 600개.
 
-125. STAN: I'm retiring from television, because one time was enough.
+125. STAN: I'm retiring from television. One time was enough.
     스탠: 난 텔레비전 은퇴한다. 한 번이면 충분해.
 
 126. SAM: Dad, I'll walk you to the car, since it's almost six.
     샘: 아버지, 차까지 모셔다드릴게요. 거의 여섯 시예요.
 
-127. STAN: You don't have to walk me anywhere, because I walked to this parking lot from the GM plant for thirty-two years. Your phone's buzzing.
+127. STAN: You don't have to walk me anywhere. I walked to this parking lot from the GM plant for thirty-two years. Your phone's buzzing.
     스탠: 날 어디 데려다줄 필요 없다. 32년 동안 GM 공장에서 이 주차장까지 걸어 다녔어. 너 전화 울린다.
 
 128. SAM: It's a number from Charlotte.
@@ -411,13 +411,13 @@
 132. SAM: Victoria, in January you said you wouldn't call again.
     샘: 빅토리아, 1월에 다시는 전화 안 한다고 했잖아요.
 
-133. VICTORIA: In January, you hadn't sued my company, so things change. I'm not calling as Calloway, because our lawyers would kill me, I'm calling as someone who used to like you.
+133. VICTORIA: In January, you hadn't sued my company, so things change. I'm not calling as Calloway. Our lawyers would kill me, I'm calling as someone who used to like you.
     빅토리아: 1월엔 당신이 우리 회사를 고소하지 않았죠. 상황이 바뀌었어요. 캘러웨이로서 전화한 건 아니에요, 우리 변호사들이 날 죽일 테니까. 한때 당신을 좋아했던 사람으로서 거는 거예요.
 
 134. SAM: Used to, which is an interesting way to put it.
     샘: 한때라. 재미있는 표현이네요.
 
-135. VICTORIA: Used to, yes. You could have called me first, Sam, before the cameras, and we could have talked, but now it's public, and public fights only end one way, badly, for everyone.
+135. VICTORIA: Used to, yes. You could have called me first, Sam, before the cameras, and we could have talked. Now it's public, and public fights only end one way, badly, for everyone.
     빅토리아: 한때요. 카메라 앞에 서기 전에 나한테 먼저 전화할 수도 있었잖아요, 샘. 얘기할 수 있었을 텐데. 이제 공개됐고, 공개된 싸움은 끝이 하나뿐이에요. 모두한테 나쁘게.
 
 136. SAM: You hired my engineer, and eight months later you had my motor, so what exactly did you want to talk about?
@@ -429,13 +429,13 @@
 138. SAM: What about it, Victoria?
     샘: 그게 뭐요?
 
-139. VICTORIA: That question is going to get louder, and not from me, because I don't control the internet. But you're a company that wants defense contracts someday, with a CTO from Shenzhen whose father still lives there, so people will ask.
+139. VICTORIA: That question is going to get louder, and not from me. I don't control the internet. But you're a company that wants defense contracts someday, with a CTO from Shenzhen whose father still lives there, so people will ask.
     빅토리아: 그 질문은 점점 커질 거예요. 내가 하는 건 아니고요, 난 인터넷을 통제 못 하니까. 하지만 언젠가 국방 계약을 원하는 회사에, 아버지가 아직 선전에 사는 선전 출신 CTO가 있잖아요. 사람들은 물을 거예요.
 
 140. SAM: Is that advice, or is it a threat?
     샘: 그게 조언이에요, 협박이에요?
 
-141. VICTORIA: It's advice, because if it were a threat, you wouldn't hear it from me.
+141. VICTORIA: It's advice. If it were a threat, you wouldn't hear it from me.
     빅토리아: 조언이에요. 협박이었으면 나한테서 듣진 않았겠죠.
 
 142. SAM: How do you know her father lives in Shenzhen?
@@ -453,13 +453,13 @@
 146. SAM: It's how my factory works, so goodnight, Victoria.
     샘: 우리 공장은 그렇게 돌아가요. 잘 자요, 빅토리아.
 
-147. STAN: Who was that, because you look like you bit a lemon?
+147. STAN: Who was that. You look like you bit a lemon?
     스탠: 누구냐? 레몬 씹은 얼굴이다.
 
 148. SAM: The snake in the nice suit, who called to tell me they're coming after Wen, without actually saying it.
     샘: 좋은 정장 입은 뱀이요. 웬을 노리겠다고 말하러 전화했어요. 그 말은 안 하면서요.
 
-149. STAN: That's how they do it, because at Moraine they never said they were closing, they just stopped fixing the roof.
+149. STAN: That's how they do it. At Moraine they never said they were closing, they just stopped fixing the roof.
     스탠: 그게 그 사람들 방식이야. 모레인에서도 문 닫는다는 말은 끝까지 안 했어. 그냥 지붕 수리를 안 했지.
 
 150. SAM: Then we fix our roof, Dad, every leak, starting tomorrow.

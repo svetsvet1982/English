@@ -18,10 +18,10 @@
 001. TYLER: Sam, it's Pittsburgh on line two, Rick Malone from Three Rivers, and he says it's urgent.
     타일러: 샘, 2번 전화요. 피츠버그 스리 리버스의 릭 말론이요. 급하대요.
 
-002. SAM: Rick never says anything is urgent, so put him through. Rick, it's seven fifteen, did somebody die?
+002. SAM: Rick never says anything is urgent. Put him through. Rick, it's seven fifteen, did somebody die?
     샘: 릭은 급하다는 말을 절대 안 하는데. 연결해 줘. 릭, 일곱 시 15분이에요. 누구 죽었어요?
 
-003. RICK: Morning, Sam, and nobody died, but I wanted you to hear this from me before you get the letter, because I owe you that much.
+003. RICK: Morning, Sam, and nobody died. But I wanted you to hear this from me before you get the letter, because I owe you that much.
     릭: 좋은 아침이에요, 샘. 아무도 안 죽었어요. 근데 편지 받기 전에 저한테서 먼저 들었으면 해서요. 그 정도는 해 드려야죠.
 
 004. SAM: That sounds worse than somebody dying, Rick.
@@ -30,7 +30,7 @@
 005. RICK: Starting April first, your allocation of thin-gauge electrical steel is being cut by seventy percent.
     릭: 4월 1일부터 그쪽 얇은 전기강판 배정량이 70퍼센트 줄어요.
 
-006. SAM: Seventy percent? Rick, we've bought from you for eight years, so what's an allocation, even, when you've never used that word with me?
+006. SAM: Seventy percent? Rick, we've bought from you for eight years. What's an allocation, even? You've never used that word with me.
     샘: 70퍼센트요? 릭, 우리가 8년 동안 거기서 샀어요. 배정량이라는 게 대체 뭐예요? 그 단어 한 번도 안 쓰셨잖아요.
 
 007. RICK: When there's more demand than steel, the mill decides who gets how much, and that's your allocation, your share of the pie, which just got a lot smaller.
@@ -51,7 +51,7 @@
 012. SAM: Rick, come on, it's been eight years.
     샘: 릭, 왜 이래요. 8년이에요.
 
-013. RICK: I can't say it on the phone, but I can tell you that they're not from Pennsylvania and they're not from Ohio, because they're from somewhere a lot warmer.
+013. RICK: I can't say it on the phone. But I can tell you they're not from Pennsylvania and they're not from Ohio. They're from somewhere a lot warmer.
     릭: 전화로는 말 못 해요. 근데 펜실베이니아도 아니고 오하이오도 아니라는 건 말할 수 있어요. 훨씬 따뜻한 데서 왔어요.
 
 014. SAM: So you mean North Carolina.
@@ -63,7 +63,7 @@
 016. SAM: Charlotte, to be exact.
     샘: 정확히는 샬럿이고요.
 
-017. RICK: I really didn't say that. Look, come see me today if you can, and I'll show you what I can do, because I don't want to lose you, Sam, and I mean it.
+017. RICK: I really didn't say that. Look, come see me today if you can, and I'll show you what I can do. I don't want to lose you, Sam, and I mean it.
     릭: 진짜 그런 말 안 했어요. 저기, 오늘 되면 저 보러 오세요. 제가 할 수 있는 걸 보여 드릴게요. 샘을 잃고 싶지 않아요, 진심이에요.
 
 018. SAM: I'll be there by noon.
@@ -75,13 +75,13 @@
 020. SAM: He didn't say it, but he said everything except the name.
     샘: 말은 안 했어요. 근데 이름만 빼고 다 말했죠.
 
-021. WEN: Calloway makes rare-earth motors and uses thick steel for big industrial motors, so why would they suddenly need two years of thin-gauge steel? Thin-gauge is what you need for high-efficiency motors, motors like ours.
+021. WEN: Calloway makes rare-earth motors and uses thick steel for big industrial motors. Why would they suddenly need two years of thin-gauge steel? Thin-gauge is what you need for high-efficiency motors, motors like ours.
     웬: 캘러웨이는 희토류 모터를 만들고, 큰 산업용 모터엔 두꺼운 강판을 써요. 그런데 갑자기 얇은 강판 2년치가 왜 필요해요? 얇은 강판은 고효율 모터, 그러니까 우리 같은 모터에 필요한 거예요.
 
 022. SAM: You think this is about the spring launch, whatever Victoria warned me about.
     샘: 이게 빅토리아가 경고했던 그 봄 출시랑 관련 있다고 생각하는 거군요.
 
-023. WEN: I think it's two things at once, because they need the steel, and they know we need it too, so taking it from us is a bonus.
+023. WEN: I think it's two things at once. They need the steel, and they know we need it too, so taking it from us is a bonus.
     웬: 두 가지가 동시에라고 생각해요. 그쪽도 강판이 필요하고, 우리도 필요하다는 걸 알아요. 우리한테서 뺏는 건 덤이고요.
 
 024. TYLER: Can they really do that, just buy all the steel?
@@ -96,7 +96,7 @@
 027. GLORIA: Enough to finish Rivet and the March bike orders, and after that about six weeks, and then nothing.
     글로리아: 리벳이랑 3월 자전거 주문 끝낼 만큼. 그다음엔 6주 정도, 그다음엔 없어.
 
-028. EARL: Six weeks, and that's for the bike motors, so that's not even counting the washers.
+028. EARL: Six weeks, and that's for the bike motors. That's not even counting the washers.
     얼: 6주? 그것도 자전거 모터 기준이니까 세탁기는 계산에도 안 들어간 거고.
 
 029. WEN: The washers will use Daesung's stacks if they pass, and we find that out tonight.
@@ -111,7 +111,7 @@
 032. TYLER: Is it bad that I kind of want to go to Charlotte and yell at somebody?
     타일러: 샬럿 가서 누구한테 소리 지르고 싶은 게 나쁜 건가요?
 
-033. SAM: Yes, so don't. Wen, come with me to Pittsburgh, and, Gloria, run the numbers on everything, domestic, Korean, all of it, because I want to know what a motor costs us, landed, starting today.
+033. SAM: Yes, so don't. Wen, come with me to Pittsburgh. Gloria, run the numbers on everything, domestic, Korean, all of it. I want to know what a motor costs us, landed, starting today.
     샘: 응, 하지 마. 웬, 피츠버그 같이 가요. 글로리아, 국내산, 한국산 전부 계산해 줘요. 오늘부터 모터 하나에 도착 원가가 얼마나 드는지 알고 싶어요.
 
 034. GLORIA: I started at six a.m., baby, so I'll have it by the time you're back.
@@ -138,10 +138,10 @@
 041. RICK: Welcome to Pittsburgh, Sam, and, Dr. Liu, nice to see you again. Put on hard hats and glasses, and watch the yellow lines, because forklifts here don't stop for anybody.
     릭: 피츠버그에 오신 걸 환영해요, 샘. 리우 박사님, 다시 뵙네요. 안전모랑 보안경 쓰시고 노란 선 조심하세요. 여기 지게차는 누구 때문에도 안 서요.
 
-042. SAM: Rick, I didn't drive four hours for a tour, so tell me what's going on.
+042. SAM: Rick, I didn't drive four hours for a tour. Tell me what's going on.
     샘: 릭, 견학하러 네 시간 운전한 거 아니에요. 무슨 일인지 말해 줘요.
 
-043. RICK: I know, so walk with me and I'll explain while we walk, because it's louder out here and nobody can hear us.
+043. RICK: I know. Walk with me and I'll explain while we walk. It's louder out here, so nobody can hear us.
     릭: 알아요. 같이 걸으면서 설명할게요. 밖이 더 시끄러워서 아무도 못 들어요.
 
 044. WEN: Is this the thin-gauge line?
@@ -153,7 +153,7 @@
 046. SAM: And what about the other one, can't we just buy from them?
     샘: 그럼 다른 한 곳은요? 거기서 사면 안 돼요?
 
-047. RICK: They're sold out through next year, mostly to car companies, because everybody wants electric motors now, and every electric motor needs this steel.
+047. RICK: They're sold out through next year, mostly to car companies. Everybody wants electric motors now, and every electric motor needs this steel.
     릭: 내년까지 대부분 자동차 회사한테 매진이에요. 요즘 다들 전기 모터를 원하고, 전기 모터는 전부 이 강판이 필요하거든요.
 
 048. SAM: So if you won't sell to me, nobody in America will.
@@ -162,7 +162,7 @@
 049. RICK: Not in the amounts you need, and not at a normal price.
     릭: 필요하신 양으로는, 정상 가격으로는 안 되죠.
 
-050. SAM: Rick, I'm asking you as a friend, so who signed the deal?
+050. SAM: Rick, I'm asking you as a friend. Who signed the deal?
     샘: 릭, 친구로서 묻는 거예요. 누가 계약했어요?
 
 051. RICK: Can we keep this off the record?
@@ -189,7 +189,7 @@
 058. SAM: Did they ask about us, and did Calloway mention Ferrox by name?
     샘: 그쪽에서 우리에 대해 물었어요? 캘러웨이가 페록스 이름을 꺼냈어요?
 
-059. RICK: They asked for a list of our customers who buy that grade, and our owner said no, but they knew anyway, because their purchasing guy said, "I hear you supply a small motor shop in Dayton."
+059. RICK: They asked for a list of our customers who buy that grade, and our owner said no. But they knew anyway. Their purchasing guy said, "I hear you supply a small motor shop in Dayton."
     릭: 그 등급 사는 고객 목록을 달라고 해서 사장님은 거절했어요. 근데 어차피 알더라고요. 그쪽 구매 담당이 "데이턴의 작은 모터 업체에 공급하신다면서요"라고 했거든요.
 
 060. WEN: So they already knew about us.
@@ -198,10 +198,10 @@
 061. RICK: They knew, and I'm sorry, Sam.
     릭: 알았죠. 미안해요, 샘.
 
-062. SAM: It's not your fault, so what can you do for us, since you said you'd show me?
+062. SAM: It's not your fault. You said you'd show me what you can do, so what can you do for us?
     샘: 릭 잘못 아니에요. 보여 주겠다고 했잖아요, 우리한테 해 줄 수 있는 게 뭐예요?
 
-063. RICK: Two things. First, I can keep thirty percent of your old allocation, and that's guaranteed, because I fought for that.
+063. RICK: Two things. First, I can keep thirty percent of your old allocation, and that's guaranteed. I fought for that.
     릭: 두 가지요. 첫째, 예전 배정량의 30퍼센트는 지켜 드릴 수 있어요. 그건 보장해요, 그거 지키려고 싸웠거든요.
 
 064. SAM: And what's the second thing?
@@ -228,7 +228,7 @@
 071. RICK: That's one way to say it. The other way is that this mill employs nine hundred people, and for twenty years cheap imports almost shut us down twice, and some of those guys are my neighbors.
     릭: 그렇게 말할 수도 있죠. 다르게 말하면, 이 공장에 구백 명이 일하는데 20년 동안 싼 수입품 때문에 두 번이나 문 닫을 뻔했어요. 그중에 제 이웃들도 있고요.
 
-072. SAM: My dad's plant closed in 2008, so I understand that side too, and I'm not angry about the tariff, I'm angry about Charlotte.
+072. SAM: My dad's plant closed in 2008, so I understand that side too. I'm not angry about the tariff, I'm angry about Charlotte.
     샘: 우리 아버지 공장은 2008년에 문 닫았어요. 그쪽 입장도 이해해요. 관세 때문이 아니라 샬럿 때문에 화난 거예요.
 
 073. RICK: I know you are, and for what it's worth, so am I.
@@ -237,7 +237,7 @@
 074. WEN: Rick, I have a technical question about Calloway's agreement: is it for the same grade we use, with the same coating?
     웬: 릭, 캘러웨이 계약에 대해 기술적인 질문 하나요. 우리가 쓰는 거랑 같은 등급, 같은 코팅이에요?
 
-075. RICK: Same grade, same thickness, same coating, and I noticed that too, because I thought it was strange.
+075. RICK: Same grade, same thickness, same coating. I noticed that too, and I thought it was strange.
     릭: 같은 등급, 같은 두께, 같은 코팅이요. 저도 그거 눈치챘는데, 이상하다고 생각했어요.
 
 076. WEN: Why did that seem strange to you?
@@ -252,13 +252,13 @@
 079. SAM: So Calloway ordered steel with Wen's exact recipe.
     샘: 그러니까 캘러웨이가 웬의 레시피 그대로 강판을 주문했다는 거네요.
 
-080. RICK: I'm a steel salesman, Sam, so I don't know what it means, but if I were you, I'd want to know how they knew the recipe.
+080. RICK: I'm a steel salesman, Sam, and I don't know what it means. But if I were you, I'd want to know how they knew the recipe.
     릭: 전 강판 영업사원이라 그게 무슨 뜻인지 몰라요, 샘. 근데 제가 그쪽이라면 그쪽이 그 레시피를 어떻게 알았는지 알고 싶을 거예요.
 
 081. SAM: Kevin.
     샘: 케빈.
 
-082. WEN: Or Luis, or both, because Kevin had access to every specification we ever wrote.
+082. WEN: Or Luis, or both. Kevin had access to every specification we ever wrote.
     웬: 아니면 루이스, 아니면 둘 다요. 케빈은 우리가 쓴 모든 사양에 접근할 수 있었어요.
 
 083. RICK: I didn't hear any of that, and I'm walking you to your truck now.
@@ -285,10 +285,10 @@
 090. SAM: Everything hurts today, Rick, and we're just choosing which kind.
     샘: 오늘은 다 아파요, 릭. 우린 그냥 어느 쪽 아픔을 고를지 정하는 거예요.
 
-091. GLORIA: Can you hear me? You're on speaker in my office, and Tyler's here too, so where are you?
+091. GLORIA: Can you hear me? You're on speaker in my office, and Tyler's here too. Where are you?
     글로리아: 들려? 내 사무실 스피커폰이고, 타일러도 여기 있어. 어디야?
 
-092. SAM: I'm somewhere in West Virginia for about four more minutes, and then Ohio, so tell me the numbers.
+092. SAM: I'm somewhere in West Virginia for about four more minutes, and then Ohio. Tell me the numbers.
     샘: 4분쯤 더 웨스트버지니아 어딘가고, 그다음엔 오하이오예요. 숫자 말해 줘요.
 
 093. GLORIA: Okay, let's start with the bike motors, because that's the money we have today. With Rick's thirty percent plus spot steel at forty percent more, each bike motor costs us about nine dollars more to make.
@@ -297,13 +297,13 @@
 094. SAM: Nine dollars, on a motor we sell for two eighty-nine.
     샘: 289달러에 파는 모터에서 9달러라.
 
-095. GLORIA: It's not the end of the world on a bike motor, because our margin is big enough, so it hurts, but we live.
+095. GLORIA: It's not the end of the world on a bike motor. Our margin is big enough, so it hurts, but we live.
     글로리아: 자전거 모터에선 세상 끝나는 건 아니야. 마진이 그만큼은 되니까, 아프지만 살아.
 
-096. TYLER: And what about the washer motor, because that's the one that scares me?
+096. TYLER: And what about the washer motor? That's the one that scares me.
     타일러: 그럼 세탁기 모터는요? 그게 무서워요.
 
-097. GLORIA: The washer motor is where it gets ugly. Fifty-four dollars is Gary's number, and the steel stack is the biggest piece of the cost, so Daesung's price was nine forty, but with the tariff it's eleven seventy-five, landed.
+097. GLORIA: The washer motor is where it gets ugly. Fifty-four dollars is Gary's number, and the steel stack is the biggest piece of the cost. Daesung's price was nine forty, but with the tariff it's eleven seventy-five, landed.
     글로리아: 세탁기 모터에서 추해지지. 54달러는 개리 숫자고, 강판 스택이 원가에서 제일 큰 덩어리야. 대성 가격이 9달러 40센트였는데, 관세 붙으면 도착 원가로 11달러 75센트야.
 
 098. SAM: And what about domestic, if we could get American steel somehow?
@@ -312,7 +312,7 @@
 099. GLORIA: Domestic, if we could even get it, would be about thirteen at the spot price, so Korean steel with a tariff is still cheaper than American steel without one.
     글로리아: 국내산은 구할 수 있다 쳐도 스폿 가격으로 13달러쯤일 거야. 그러니까 관세 붙은 한국 강판이 관세 없는 미국 강판보다 여전히 싸.
 
-100. TYLER: That's crazy, because the tariff was supposed to make American steel the cheaper option.
+100. TYLER: That's crazy. The tariff was supposed to make American steel the cheaper option.
     타일러: 말도 안 돼요. 관세는 미국 강판을 더 싼 선택지로 만들려고 한 거 아니에요?
 
 101. GLORIA: It was supposed to make foreign steel more expensive, and it did, but it also made American steel more expensive, and nobody said it would make anything cheaper.
@@ -321,7 +321,7 @@
 102. SAM: So what does the whole washer motor cost us now, landed at Findlay?
     샘: 그럼 지금 세탁기 모터 전체 원가는요? 핀들레이 도착 기준으로요?
 
-103. GLORIA: At full volume with Daesung's stacks, it's about fifty-three dollars to make, and then you add shipping and the warranty you promised Harold, so call it fifty-six.
+103. GLORIA: At full volume with Daesung's stacks, it's about fifty-three dollars to make. Then you add shipping and the warranty you promised Harold, so call it fifty-six.
     글로리아: 물량 다 채우고 대성 스택 쓰면 만드는 데 53달러쯤. 운송비랑 네가 해럴드한테 약속한 보증 비용 더하면 56달러라고 치자.
 
 104. SAM: Fifty-six, when Gary wants to pay fifty-four.
@@ -333,22 +333,22 @@
 106. TYLER: So we'd basically be paying Haverford to take our motors.
     타일러: 그럼 사실상 우리가 해버퍼드한테 돈 내고 모터를 가져가 달라는 거네요.
 
-107. GLORIA: That's what fifty-four means now, honey, because before March twelfth it was a bad price, and after March twelfth it's a losing price.
+107. GLORIA: That's what fifty-four means now, honey. Before March twelfth it was a bad price, and after March twelfth it's a losing price.
     글로리아: 이제 54달러는 그런 뜻이야, 얘. 3월 12일 전엔 나쁜 가격이었고, 3월 12일 이후엔 손해 보는 가격이야.
 
 108. SAM: And what about sixty-one, my number?
     샘: 그럼 제 숫자, 61달러는요?
 
-109. GLORIA: At sixty-one, we make about five dollars a motor, which is enough to live and enough to pay back the machines, but not enough to get rich, so five dollars is a healthy number.
+109. GLORIA: At sixty-one, we make about five dollars a motor. That's enough to live and enough to pay back the machines, but not enough to get rich. Five dollars is a healthy number.
     글로리아: 61달러면 모터 하나에 5달러쯤 남아. 살 만큼, 기계값 갚을 만큼은 되지만 부자 될 만큼은 아니야. 5달러면 건강한 숫자야.
 
 110. WEN: Gary will say sixty-one is impossible.
     웬: 개리는 61달러가 불가능하다고 할 거예요.
 
-111. GLORIA: Gary also has to buy steel for his washer panels, so Gary's costs went up today too, just like everybody's did, and the question is who blinks first.
+111. GLORIA: Gary also has to buy steel for his washer panels, so Gary's costs went up today too, just like everybody's. The question is who blinks first.
     글로리아: 개리도 세탁기 패널용 강판을 사야 하니까 개리 원가도 오늘 올랐어. 다 올랐지. 문제는 누가 먼저 눈을 깜빡이느냐야.
 
-112. TYLER: And the news is getting worse, because Europe just announced tariffs on American goods starting next month, and Canada too, so everybody's hitting back.
+112. TYLER: And the news is getting worse. Europe just announced tariffs on American goods starting next month, and Canada too. Everybody's hitting back.
     타일러: 그리고 뉴스는 점점 나빠져요. 유럽이 방금 다음 달부터 미국산 제품에 관세를 매긴다고 발표했고, 캐나다도요. 다들 맞받아치고 있어요.
 
 113. GLORIA: Wonderful. Tyler, go update the board for me, and you know where the red marker is.
@@ -369,7 +369,7 @@
 118. SAM: Sorry, I'm just thinking out loud.
     샘: 죄송해요. 그냥 생각을 소리 내서 하는 중이에요.
 
-119. GLORIA: Think out loud tonight at Betsy, because if that Korean motor fails, none of this math matters, and if it passes, we have something to fight with.
+119. GLORIA: Think out loud tonight at Betsy. If that Korean motor fails, none of this math matters, and if it passes, we have something to fight with.
     글로리아: 소리 내서 생각하는 건 오늘 밤 베치 앞에서 해. 그 한국 모터가 실패하면 이 계산 다 소용없고, 통과하면 싸울 게 생기는 거니까.
 
 120. SAM: Then let's see if it spins. We'll be there by seven thirty.
@@ -381,7 +381,7 @@
 122. SAM: Does it look okay? Be honest with me, Earl.
     샘: 괜찮아 보여요? 솔직하게 말해 줘요, 얼.
 
-123. EARL: It looks beautiful, but that doesn't mean anything, because the ugly ones sometimes run better.
+123. EARL: It looks beautiful, but that doesn't mean anything. The ugly ones sometimes run better.
     얼: 아름다워 보여. 근데 그게 아무 의미도 없어. 못생긴 놈들이 가끔 더 잘 돌거든.
 
 124. WEN: Start at low speed with the wash cycle first, and then we go up to full spin.
@@ -396,7 +396,7 @@
 127. TYLER: In plain English, please?
     타일러: 쉬운 말로 해 주실래요?
 
-128. WEN: In plain English, the software is learning how heavy the clothes are and how they're moving in the drum, so imagine wet towels all on one side, and the motor feels that and adjusts.
+128. WEN: In plain English, the software is learning how heavy the clothes are and how they're moving in the drum. Imagine wet towels all on one side. The motor feels that and adjusts.
     웬: 쉬운 말로 하면, 소프트웨어가 빨래가 얼마나 무거운지, 드럼 안에서 어떻게 움직이는지 배우는 중이에요. 젖은 수건이 한쪽으로 다 쏠렸다고 상상해 보세요. 모터가 그걸 느끼고 조절하는 거예요.
 
 129. EARL: Going up to four hundred RPM, eight hundred, twelve hundred, and now full spin at fourteen hundred.
@@ -411,13 +411,13 @@
 132. SAM: Exactly.
     샘: 바로 그거야.
 
-133. WEN: Noise at one meter is fifty-two decibels, while the Foshan motor we measured from Gary's sample was fifty-nine, so that's seven decibels quieter, which is better than I promised.
+133. WEN: Noise at one meter is fifty-two decibels. The Foshan motor we measured from Gary's sample was fifty-nine, so that's seven decibels quieter, which is better than I promised.
     웬: 1미터 거리 소음 52데시벨이에요. 개리 샘플로 잰 포산 모터는 59였으니까 7데시벨 조용해요. 제가 약속한 것보다 좋아요.
 
 134. EARL: What's the temperature?
     얼: 온도는 어때?
 
-135. WEN: It's forty-one degrees after twenty minutes, which is very good, because the Korean steel has low loss, lower than our Dayton stacks, so it's wasting less energy as heat.
+135. WEN: It's forty-one degrees after twenty minutes, which is very good. The Korean steel has low loss, lower than our Dayton stacks, so it's wasting less energy as heat.
     웬: 20분 지나서 41도, 아주 좋아요. 한국 강판은 손실이 데이턴 스택보다 낮아서 에너지를 열로 덜 낭비하고 있어요.
 
 136. SAM: And how's the efficiency?
@@ -426,13 +426,13 @@
 137. WEN: It's ninety-two point six percent at full spin. Sam, that's the best number we've ever recorded on any motor, better than Patty's two thousandth hub motor.
     웬: 최대 탈수에서 92.6퍼센트예요. 샘, 우리가 어떤 모터에서든 기록한 것 중에 제일 좋은 숫자예요. 패티의 2,000번째 허브 모터보다 좋아요.
 
-138. EARL: Don't tell Patty, because she'll be upset.
+138. EARL: Don't tell Patty. She'll be upset.
     얼: 패티한텐 말하지 마. 속상해할 거야.
 
 139. TYLER: Can I tell Gary right now, please?
     타일러: 개리한테 지금 말해도 돼요? 제발요?
 
-140. SAM: Not tonight, because on Friday the samples go to Findlay, so let his engineers find it themselves, since it's better when they discover it.
+140. SAM: Not tonight. On Friday the samples go to Findlay, so let his engineers find it themselves. It's better when they discover it.
     샘: 오늘 밤은 안 돼. 금요일에 샘플이 핀들레이로 가니까 그쪽 엔지니어들이 직접 알아내게 두자. 직접 발견하는 게 더 효과가 있어.
 
 141. EARL: The kid's learning. Metal don't lie, and you don't have to brag for it.
@@ -441,25 +441,25 @@
 142. SAM: Wen, what time is it in Ulsan right now?
     샘: 웬, 울산은 지금 몇 시예요?
 
-143. WEN: It's ten forty in the morning tomorrow, Thursday, so you can call, because it's a civilized hour.
+143. WEN: It's ten forty in the morning tomorrow, Thursday. You can call, it's a civilized hour.
     웬: 내일, 목요일 오전 열 시 40분이요. 예의 바른 시간이니까 전화해도 돼요.
 
 144. SAM: Minjun, it's Sam, sorry, is this a good time? Yes, it's night here, but your stacks just passed at ninety-two point six percent, in the quietest motor we've ever built.
     샘: 민준 씨, 샘이에요. 미안해요, 지금 괜찮아요? 네, 여긴 밤이에요. 그쪽 스택이 방금 92.6퍼센트로 통과했어요. 우리가 만든 것 중에 제일 조용한 모터예요.
 
-145. MINJUN: Ninety-two point six, really? Sam, that's wonderful, and I'll tell President Park right now, because even though he's in a meeting, I'll tell him anyway.
+145. MINJUN: Ninety-two point six, really? Sam, that's wonderful! He's in a meeting, but I'll tell President Park right now anyway.
     민준: 92.6이요, 정말요? 샘, 정말 잘됐네요. 지금 바로 대표님께 말씀드릴게요. 회의 중이시지만 그래도 말씀드릴게요.
 
-146. SAM: Minjun, there's something else, because our American steel supplier just cut us by seventy percent after a competitor bought the line. You're not just a second source anymore, because you might be our only source.
+146. SAM: Minjun, there's something else. Our American steel supplier just cut us by seventy percent after a competitor bought the line. You're not just a second source anymore. You might be our only source.
     샘: 민준 씨, 하나 더 있어요. 경쟁사가 라인을 사 버려서 미국 강판 공급사가 방금 우리 물량을 70퍼센트 줄였어요. 이제 그쪽은 그냥 두 번째 공급처가 아니라 유일한 공급처일 수도 있어요.
 
-147. MINJUN: I understand, and then this is important, because President Park wants to come to Dayton next week, on March twentieth. He wants to see your factory, and he wants to talk about something bigger than samples.
+147. MINJUN: I understand, and then this is important. President Park wants to come to Dayton next week, on March twentieth. He wants to see your factory, and he wants to talk about something bigger than samples.
     민준: 이해합니다. 그럼 이건 중요하네요. 대표님이 다음 주, 3월 20일에 데이턴에 가고 싶어 하세요. 공장을 보고 싶어 하시고, 샘플보다 더 큰 얘기를 하고 싶어 하세요.
 
 148. SAM: Bigger, and how much bigger?
     샘: 더 큰 거요? 얼마나 큰 거요?
 
-149. MINJUN: In Korea, we don't say big things on the phone, Sam, we say them at dinner with soju, so please find a good Korean restaurant in Dayton.
+149. MINJUN: In Korea, we don't say big things on the phone, Sam. We say them at dinner, with soju, so please find a good Korean restaurant in Dayton.
     민준: 한국에선 큰 얘기는 전화로 안 해요, 샘. 저녁 자리에서 소주랑 같이 하죠. 데이턴에서 좋은 한식당 하나 찾아 주세요.
 
 150. SAM: A Korean restaurant in Dayton, with Wen and Lily and her two hundred hours of dramas, I think we can do that.

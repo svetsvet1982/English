@@ -27,7 +27,7 @@
 004. EARL: I didn't say one word about politics, Gloria, I said coffee.
     얼: 나 정치 얘기 한마디도 안 했어, 글로리아. 커피 얘기 했지.
 
-005. SAM: Morning, everybody, come on and gather around Betsy. I know half of you are happy this morning and half of you didn't sleep, and that's fine, because we still have motors to ship.
+005. SAM: Morning, everybody, come on and gather around Betsy. I know half of you are happy this morning and half of you didn't sleep, and that's fine. We still have motors to ship.
     샘: 다들 좋은 아침. 자, 베치 앞으로 모여 봐. 오늘 아침에 절반은 기분 좋고 절반은 한숨도 못 잤다는 거 알아. 그래도 괜찮아. 우린 그래도 모터를 출하해야 하니까.
 
 006. TYLER: Is that our new company motto, "We still have motors to ship"?
@@ -48,7 +48,7 @@
 011. SAM: Okay, what spins today?
     샘: 좋아, 오늘 뭐 돌리지?
 
-012. EARL: Two hundred hub motors for the bike shop in Indianapolis, all wound and assembled, and they go on Betsy this morning, so if they pass, they're on a truck by three.
+012. EARL: Two hundred hub motors for the bike shop in Indianapolis, all wound and assembled, and they go on Betsy this morning. If they pass, they're on a truck by three.
     얼: 인디애나폴리스 자전거 가게에 보낼 허브 모터 이백 개. 권선이랑 조립 다 끝났고 오늘 아침에 베치에 올라가니까, 통과하면 세 시까지 트럭에 싣는다.
 
 013. SAM: And if they don't pass, what's the plan, Earl?
@@ -57,13 +57,13 @@
 014. EARL: Then I stay late and you buy pizza, same as always.
     얼: 그럼 난 늦게까지 남고 넌 피자 사는 거지, 늘 그렇듯이.
 
-015. SAM: Deal, so Wen, where are we on the firmware update?
+015. SAM: Deal. Wen, where are we on the firmware update?
     샘: 좋아. 그럼 웬, 펌웨어 업데이트는 어디까지 왔어요?
 
 016. WEN: Version four point two is finished, and it gives the hub motor about six percent more torque on hills without more heat, which I finished testing at two in the morning.
     웬: 4.2 버전 끝났어요. 언덕에서 허브 모터 토크가 6퍼센트쯤 더 나오는데 열은 더 안 나요. 새벽 두 시에 테스트 끝냈어요.
 
-017. TYLER: You were up at two a.m., so were you watching the election too?
+017. TYLER: You were up at two a.m.? Were you watching the election too?
     타일러: 새벽 두 시까지 깨어 계셨어요? 박사님도 선거 보셨어요?
 
 018. WEN: No, I was watching the motor, which is a lot more predictable.
@@ -78,13 +78,13 @@
 021. TYLER: A signature, like an artist signs a painting?
     타일러: 서명이요? 화가가 그림에 하듯이요?
 
-022. WEN: More like a canary, because if someone ever steals our code and puts it in their own product, the canary will still be sitting there, and I will know.
+022. WEN: More like a canary. If someone ever steals our code and puts it in their own product, the canary will still be sitting there, and I will know.
     웬: 카나리아에 가까워요. 누가 우리 코드를 훔쳐서 자기 제품에 넣으면, 카나리아는 거기 그대로 앉아 있을 거고, 전 알게 되겠죠.
 
 023. EARL: Stan's gonna want royalties for that, you know.
     얼: 스탠 형님이 그거 로열티 달라고 할걸.
 
-024. TYLER: Wait, Stan as in Sam's dad, so why would his name be in the code?
+024. TYLER: Wait, you mean Stan as in Sam's dad? Why would his name be in the code?
     타일러: 잠깐, 스탠이면 샘 아버님이요? 왜 코드에 아버님 이름이 있어요?
 
 025. WEN: It means something to him, and that's all you need to know.
@@ -96,7 +96,7 @@
 027. GLORIA: I have a lot to say from the money side, but I'll say it in your office, with the door closed, after your call.
     글로리아: 돈 쪽에선 할 말이 많지. 근데 네 사무실에서, 문 닫고, 통화 끝나고 할게.
 
-028. SAM: That doesn't sound good, because nothing good ever happens with the door closed.
+028. SAM: That doesn't sound good. Nothing good ever happens with the door closed.
     샘: 그거 좋은 소리로 안 들리는데요. 문 닫고 하는 얘기 중에 좋은 건 없잖아요.
 
 029. GLORIA: It's not bad news, Sam, it's just math.
@@ -114,13 +114,13 @@
 033. EARL: Fair enough, but I'm still right about the coffee machine.
     얼: 괜찮지. 근데 커피 머신 얘기는 여전히 내 말이 맞아.
 
-034. SAM: Nobody's arguing about the coffee machine, Earl, because it's broken and everyone agrees. Okay, let's see if it spins.
+034. SAM: Nobody's arguing about the coffee machine, Earl. It's broken, and everyone agrees on that. Okay, let's see if it spins.
     샘: 커피 머신 가지고 싸우는 사람 없어요, 얼. 고장 났고, 다 동의하니까. 자, 일단 돌려 보자.
 
 035. TYLER: Sam, your nine o'clock is ready. Nina from Rivet is already on the video link, and she looks like she drank about four espressos.
     타일러: 샘, 아홉 시 미팅 준비됐어요. 리벳의 니나가 벌써 화상 연결에 들어와 있는데, 에스프레소 네 잔쯤 마신 얼굴이에요.
 
-036. SAM: Good morning, Nina, can you hear me okay, or is our Wi-Fi acting up again, because it gets nervous whenever the welding starts?
+036. SAM: Good morning, Nina, can you hear me okay? Our Wi-Fi gets nervous whenever the welding starts.
     샘: 니나, 좋은 아침이에요. 잘 들려요? 아니면 와이파이가 또 말썽인가요? 우리 와이파이는 용접만 시작하면 긴장을 하거든요.
 
 037. NINA: I can hear you fine, Sam. Listen, I'm going to skip the small talk, because I've been on the phone with my investors since six a.m., and I need an answer from you today.
@@ -141,7 +141,7 @@
 042. SAM: So it's the uncertainty that's killing you.
     샘: 그러니까 불확실성 때문에 미치겠다는 거군요.
 
-043. NINA: Exactly, because if my motor suddenly costs twenty-five percent more in the spring, my bikes cost more, and my customers are delivery guys who count every dollar, so they'll just buy the cheapest thing on Amazon.
+043. NINA: Exactly. If my motor suddenly costs twenty-five percent more in the spring, my bikes cost more. My customers are delivery guys who count every dollar, so they'll just buy the cheapest thing on Amazon.
     니나: 바로 그거예요. 봄에 갑자기 모터 값이 25퍼센트 오르면 자전거 값이 오르고, 제 손님들은 1달러도 따지는 배달 기사들이라 그냥 아마존에서 제일 싼 걸 사겠죠.
 
 044. SAM: So you want a second source, somebody outside China.
@@ -198,7 +198,7 @@
 061. WEN: He says yes to things anyway, but I am the reason they work.
     웬: 어차피 '네'는 맨날 해요. 근데 그게 돌아가는 건 저 때문이죠.
 
-062. NINA: I like her already, so okay, what do you need from me to make this happen?
+062. NINA: I like her already. Okay, what do you need from me to make this happen?
     니나: 벌써 마음에 드네요. 좋아요, 이걸 성사시키려면 저한테서 뭐가 필요해요?
 
 063. SAM: Here's the ask: if we're going to build five thousand motors, I have to buy the copper, the magnets, and the steel up front, months before you pay me, so I need a deposit.
@@ -219,7 +219,7 @@
 068. NINA: I know it's not ideal, but I'm being honest with you instead of promising you money I don't have yet.
     니나: 이상적이지 않은 거 알아요. 근데 아직 없는 돈을 약속하는 대신 솔직하게 말하는 거예요.
 
-069. SAM: I appreciate that, honestly, because most people promise first and explain later.
+069. SAM: I appreciate that, honestly. Most people promise first and explain later.
     샘: 그건 진심으로 고마워요. 대부분은 먼저 약속하고 나중에 설명하거든요.
 
 070. NINA: So can you pull it off, five thousand motors by March, with the money coming in January?
@@ -237,7 +237,7 @@
 074. NINA: You just made my week, Sam, and I'll have my lawyer send the contract by Friday. And Sam, thank you for not making me beg.
     니나: 덕분에 이번 주가 살았네요, 샘. 금요일까지 변호사한테 계약서 보내라고 할게요. 그리고 샘, 사정하게 만들지 않아서 고마워요.
 
-075. SAM: I'd never do that to you, so we'll talk soon.
+075. SAM: I'd never do that to you. We'll talk soon.
     샘: 절대 그럴 리 없죠. 곧 얘기해요.
 
 076. WEN: You said yes before you asked me if we can actually make five thousand motors.
@@ -261,13 +261,13 @@
 082. SAM: I heard the call went well, if you're wondering.
     샘: 혹시 궁금할까 봐 하는 말인데, 통화 잘됐어요.
 
-083. GLORIA: I heard, because Wen texted me "He said yes" with three angry faces, so now look at this board.
+083. GLORIA: I heard. Wen texted me "He said yes" with three angry faces. Now look at this board.
     글로리아: 들었어. 웬이 "또 '네'래요"라고 화난 얼굴 세 개 붙여서 문자 보냈더라. 그러니까 이제 이 칠판 봐.
 
 084. SAM: "Nine weeks"? What exactly is nine weeks supposed to mean?
     샘: "9주"? 9주가 대체 뭔데요?
 
-085. GLORIA: That's our runway, baby, and runway means how long we can keep paying everybody before the money in the bank runs out, if nothing new comes in. Nine weeks, so say it with me. Runway.
+085. GLORIA: That's our runway, baby, and runway means how long we can keep paying everybody before the money in the bank runs out, if nothing new comes in. We have nine weeks. Say it with me. Runway.
     글로리아: 그게 우리 활주로야, 얘. 런웨이는 새로 들어오는 돈이 없을 때 은행 잔고가 바닥나기 전까지 모두한테 월급을 줄 수 있는 기간이야. 9주. 따라 해. 런웨이.
 
 086. SAM: Runway.
@@ -300,7 +300,7 @@
 095. GLORIA: I didn't say that, I said it's math, and I want you to understand the math before you fall in love with the order.
     글로리아: 그런 말 안 했어. 수학이라고 했지. 그 주문이랑 사랑에 빠지기 전에 계산부터 이해하라는 거야.
 
-096. SAM: I already fell in love with the order, Gloria, because five thousand motors is almost as many as we made all of last year.
+096. SAM: I already fell in love with the order, Gloria. Five thousand motors is almost as many as we made all of last year.
     샘: 이미 그 주문이랑 사랑에 빠졌어요, 글로리아. 모터 오천 개면 작년 한 해 동안 만든 거랑 거의 맞먹는다고요.
 
 097. GLORIA: I know, and that's exactly why I'm worried.
@@ -324,7 +324,7 @@
 103. GLORIA: I'm not going to say the word "house" in this office, Sam. But you heard me not say it.
     글로리아: 이 사무실에서 '집'이라는 단어는 안 꺼낼게, 샘. 근데 내가 안 꺼낸 거 들었지.
 
-104. SAM: I heard you not say it, so what's option two?
+104. SAM: I heard you not say it. What's option two?
     샘: 안 꺼낸 거 들었어요. 그럼 두 번째는요?
 
 105. GLORIA: Option two, we find another customer who pays faster, so the cash keeps moving while we build for Nina. Tyler says he has a few leads.
@@ -336,7 +336,7 @@
 107. GLORIA: The other half paid us last year. And option three, which you're not going to like, is that we slow down and tell Nina we can only do half.
     글로리아: 나머지 절반은 작년에 우리한테 돈을 줬어. 그리고 셋째는 너 싫어할 텐데, 속도를 늦추고 니나한테 절반만 할 수 있다고 말하는 거야.
 
-108. SAM: If we do half, she calls Vietnam this afternoon, because she told me so.
+108. SAM: If we do half, she calls Vietnam this afternoon. She told me so herself.
     샘: 절반만 하면 그 사람 오늘 오후에 베트남에 전화해요. 저한테 그렇게 말했어요.
 
 109. GLORIA: Then you have a decision to make, not today, but soon. I'll update the board every Monday, and I want you to look at it every Monday, even when you don't want to.
@@ -357,10 +357,10 @@
 114. LILY: It's true, Dad, that chicken is basically powder now.
     릴리: 진짜야, 아빠. 그 닭고기 이제 거의 가루야.
 
-115. SAM: Sorry, it was a big day at work, so how was school today, Lil?
+115. SAM: Sorry, it was a big day at work. How was school today, Lil?
     샘: 미안, 회사에서 바쁜 날이었어. 오늘 학교는 어땠어, 릴?
 
-116. LILY: It was weird, because half my class was celebrating and half my class was crying, and my history teacher made us write a paragraph about "peaceful disagreement."
+116. LILY: It was weird. Half my class was celebrating and half my class was crying, and my history teacher made us write a paragraph about "peaceful disagreement."
     릴리: 이상했어. 반 애들 절반은 축하하고 절반은 울고, 역사 선생님은 '평화로운 의견 차이'에 대해 한 문단 쓰라고 했어.
 
 117. ERIN: That's a good assignment, actually.
@@ -372,13 +372,13 @@
 119. SAM: That's my girl, and you'll definitely get an A, but Earl will want a copy.
     샘: 역시 우리 딸. 무조건 A야. 근데 얼 아저씨가 한 부 달라고 할걸.
 
-120. LILY: Also, the robotics club needs motors for our competition robot, just small ones, so do you have any extra at the factory?
+120. LILY: Also, the robotics club needs motors for our competition robot, just small ones. Do you have any extra at the factory?
     릴리: 그리고 로봇 동아리에서 대회용 로봇에 넣을 모터가 필요해. 작은 거면 되는데, 공장에 남는 거 있어?
 
 121. SAM: Every motor we have right now is spoken for, sweetheart. We just got the biggest order in the history of the company.
     샘: 지금 있는 모터는 전부 주인이 있어, 우리 딸. 오늘 회사 역사상 제일 큰 주문을 받았거든.
 
-122. ERIN: Wait, really, Sam? That's amazing, so why didn't you lead with that?
+122. ERIN: Wait, really, Sam? That's amazing! Why didn't you lead with that?
     에린: 잠깐, 진짜, 샘? 대단하다. 왜 그걸 먼저 말 안 했어?
 
 123. SAM: Because Gloria spent an hour explaining how it might also kill us.
@@ -441,19 +441,19 @@
 142. ERIN: Calloway, like the giant company with the commercials during football games?
     에린: 캘러웨이? 미식축구 중계 때 광고 나오는 그 거대 기업?
 
-143. SAM: That's the one, and they make everything from jet engine parts to industrial motors, so they're about a thousand times bigger than us.
+143. SAM: That's the one. They make everything from jet engine parts to industrial motors, and they're about a thousand times bigger than us.
     샘: 바로 거기. 제트엔진 부품부터 산업용 모터까지 다 만들어. 우리보다 천 배쯤 커.
 
 144. ERIN: And how does she know about your order, when you only got it this morning?
     에린: 근데 그 사람이 당신 주문을 어떻게 알아? 오늘 아침에 받은 거잖아.
 
-145. SAM: That's a really good question, because Nina hasn't even sent the contract yet, and nobody outside the factory should know.
+145. SAM: That's a really good question. Nina hasn't even sent the contract yet, and nobody outside the factory should know.
     샘: 그거 정말 좋은 질문이야. 니나는 아직 계약서도 안 보냈고, 공장 밖에선 아무도 몰라야 하거든.
 
 146. ERIN: So are you going to answer her, or pretend you didn't see it?
     에린: 그래서 답장할 거야, 아니면 못 본 척할 거야?
 
-147. SAM: I don't know yet, because part of me wants to know what she wants. Another part of me thinks a company that big doesn't want coffee with a company our size unless they want something else.
+147. SAM: I don't know yet. Part of me wants to know what she wants. Another part of me thinks a company that big doesn't want coffee with a company our size unless they want something else.
     샘: 아직 모르겠어. 한편으로는 그 사람이 뭘 원하는지 알고 싶어. 다른 한편으로는, 그렇게 큰 회사가 우리 같은 크기의 회사랑 커피를 마시고 싶어 할 때는 다른 걸 원하는 거라고 생각하고.
 
 148. ERIN: Something else like what?

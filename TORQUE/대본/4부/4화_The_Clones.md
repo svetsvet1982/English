@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. EARL: Okay, people, gather around Betsy, because the holiday weekend starts at three, and nobody leaves early, and nobody leaves a motor on the stand.
+001. EARL: Okay, people, gather around Betsy. The holiday weekend starts at three, and nobody leaves early, and nobody leaves a motor on the stand.
     얼: 자, 다들 베치 앞에 모여. 연휴가 세 시부터 시작이야. 일찍 가는 사람도 없고, 스탠드에 모터 남겨 두고 가는 사람도 없다.
 
 002. SAM: Thanks, Earl, and morning, everybody. What spins today?
@@ -54,10 +54,10 @@
 013. TYLER: De minimis, which is Latin for "too small to care about."
     타일러: 디미니미스요. 라틴어로 '신경 쓸 필요 없을 만큼 작은 것'이라는 뜻이에요.
 
-014. GLORIA: Let me do it, Tyler, because you'll take twenty minutes. In plain English, until today, if you ordered something from overseas worth less than eight hundred dollars, it came in duty-free, with no tariff and almost no paperwork.
+014. GLORIA: Let me do it, Tyler. You'll take twenty minutes. In plain English, until today, if you ordered something from overseas worth less than eight hundred dollars, it came in duty-free, with no tariff and almost no paperwork.
     글로리아: 내가 할게, 타일러. 너 하면 20분 걸려. 쉬운 말로, 오늘까지는 해외에서 800달러 미만짜리를 주문하면 무관세로 들어왔어. 관세도 없고 서류도 거의 없이.
 
-015. GLORIA: That was millions of little packages a day, and customs couldn't open them all, so a lot of cheap stuff and a lot of fake stuff came in through that door.
+015. GLORIA: That was millions of little packages a day, and customs couldn't open them all. A lot of cheap stuff, and a lot of fake stuff, came in through that door.
     글로리아: 하루에 작은 소포가 수백만 개였어. 세관이 다 열어 볼 수가 없으니 싼 물건이랑 가짜 물건이 그 문으로 잔뜩 들어왔지.
 
 016. DARNELL: But didn't they already close that for China back in May?
@@ -69,7 +69,7 @@
 018. WEN: A loophole is a gap in the rules that's big enough to drive a truck through.
     웬: 빈틈이라는 건 트럭이 지나갈 만큼 큰 규칙의 구멍이에요.
 
-019. TYLER: Or a very small package, and today the gap is closed for every country, so every package needs a customs entry and pays duty, and VoltMax's whole business was built on that gap.
+019. TYLER: Or a very small package. As of today, the gap is closed for every country, and every package needs a customs entry and pays duty. VoltMax's whole business was built on that gap.
     타일러: 아니면 아주 작은 소포가 지나가거나요. 오늘부터는 모든 나라에 그 구멍이 막혀서, 소포마다 통관 신고하고 관세를 내야 해요. 볼트맥스 사업은 통째로 그 구멍 위에 서 있었고요.
 
 020. PATTY: So the fake motor is gone because it's not cheap anymore.
@@ -81,22 +81,22 @@
 022. PATTY: I'd make a great anything, I'm just slow about it.
     패티: 난 뭘 해도 잘해. 좀 느릴 뿐이지.
 
-023. EARL: Not everybody's celebrating, though, because my neighbor's wife sells handmade jewelry, and she buys little twenty-dollar bags of beads from overseas. She says now every bag costs her an extra fee and a week of waiting.
+023. EARL: Not everybody's celebrating, though. My neighbor's wife sells handmade jewelry, and she buys little twenty-dollar bags of beads from overseas. She says now every bag costs her an extra fee and a week of waiting.
     얼: 근데 다들 좋아하는 건 아니야. 옆집 부인이 수제 장신구를 파는데, 해외에서 20달러짜리 구슬 봉지를 사거든. 이제 봉지마다 수수료 붙고 일주일씩 기다린대.
 
-024. GLORIA: That's the other side of it, because the same rule that kills VoltMax hurts a lady with a bead business, and rules don't aim very well.
+024. GLORIA: That's the other side of it. The same rule that kills VoltMax hurts a lady with a bead business, and rules don't aim very well.
     글로리아: 그게 반대쪽 얘기야. 볼트맥스를 죽인 그 규칙이 구슬 장사하는 아주머니도 다치게 하지. 규칙은 조준을 잘 못 해.
 
-025. DARNELL: My cousin says it's about time, because American stores couldn't compete with packages that paid zero tax.
+025. DARNELL: My cousin says it's about time. American stores couldn't compete with packages that paid zero tax.
     대넬: 제 사촌은 진작 그랬어야 했대요. 세금 한 푼 안 내는 소포랑 미국 가게들이 경쟁이 안 됐다고요.
 
-026. EARL: Your cousin and my neighbor should have dinner together, because they'd argue till midnight.
+026. EARL: Your cousin and my neighbor should have dinner together. They'd argue till midnight.
     얼: 네 사촌이랑 우리 옆집 부인이 저녁 한번 먹어야겠다. 자정까지 싸울 거야.
 
 027. SAM: And they'd both be partly right. Okay, Tyler, is that the whole news?
     샘: 둘 다 조금씩 맞을 거고요. 자, 타일러, 소식은 그게 다야?
 
-028. TYLER: No, that's the good half, and here's the bad half, because VoltMax is gone, but look at this. "ZipTorque Pro Hub Kit. Powered by Calloway rare-earth-free technology. Two hundred nineteen dollars."
+028. TYLER: No, that's the good half, and here's the bad half. VoltMax is gone, but look at this. "ZipTorque Pro Hub Kit. Powered by Calloway rare-earth-free technology. Two hundred nineteen dollars."
     타일러: 아뇨, 그건 좋은 쪽 절반이고요, 나쁜 쪽 절반은 이거예요. 볼트맥스는 사라졌는데 이것 좀 보세요. "집토크 프로 허브 키트. 캘러웨이 희토류 프리 기술 탑재. 219달러."
 
 029. WEN: Two hundred nineteen, when ours is two hundred eighty-nine.
@@ -120,7 +120,7 @@
 035. GLORIA: Are those real reviews or fake reviews?
     글로리아: 진짜 리뷰야, 가짜 리뷰야?
 
-036. TYLER: Real, I think, and that's the worst part, because people like it, since it works, because it's ours.
+036. TYLER: Real, I think, and that's the worst part. People like it, since it works. It's ours.
     타일러: 진짜 같아요. 그게 제일 최악이에요. 사람들이 좋아해요. 잘 돌아가니까요. 우리 거니까요.
 
 037. SAM: Okay, Tyler, you're on this today, so every listing that uses our name or our photos or claims anything false, we report. Wen, can you help him tell the real claims from the false ones?
@@ -138,7 +138,7 @@
 041. SAM: We don't have interns, Tyler, and we've never had interns.
     샘: 우린 인턴 없어, 타일러. 있었던 적도 없고.
 
-042. TYLER: Lily's school gets out at two-thirty on Fridays, and she's good at computers, because she found the bug in the robot code last spring.
+042. TYLER: Lily's school gets out at two-thirty on Fridays, and she's good at computers. She found the bug in the robot code last spring.
     타일러: 릴리 학교가 금요일엔 두 시 반에 끝나요. 컴퓨터 잘하잖아요. 작년 봄에 로봇 코드 버그도 찾았고요.
 
 043. SAM: You want to hire my daughter?
@@ -159,19 +159,19 @@
 048. LILY: What's a takedown request, exactly?
     릴리: 삭제 요청이 정확히 뭐예요?
 
-049. TYLER: It's a form where you tell the website, "This seller is breaking the rules, please take it down," and then you wait, and then they ask for more information, and then you wait again.
+049. TYLER: It's a form where you tell the website, "This seller is breaking the rules, please take it down." Then you wait, they ask for more information, and you wait again.
     타일러: 양식이야. 사이트에 '이 판매자가 규칙을 어기고 있으니 내려 주세요'라고 하는 거지. 그리고 기다려. 그럼 정보를 더 달래. 그리고 또 기다려.
 
 050. LILY: That sounds exactly like school, especially the waiting part.
     릴리: 완전 학교랑 똑같네요. 특히 기다리는 부분이요.
 
-051. TYLER: It's exactly like school. Okay, this one says "FerroDrive Hub, rare-earth-free, Ohio quality," and they stole our photo, because that's our motor on Betsy, and you can see Earl's elbow.
+051. TYLER: It's exactly like school. Okay, this one says "FerroDrive Hub, rare-earth-free, Ohio quality," and they stole our photo. That's our motor on Betsy, and you can see Earl's elbow.
     타일러: 완전 학교야. 자, 이거. '페로드라이브 허브, 희토류 프리, 오하이오 품질.' 우리 사진을 훔쳤어. 베치 위에 있는 우리 모터잖아. 얼 반장님 팔꿈치까지 보여.
 
-052. LILY: Oh my God, that's definitely Earl's elbow, because he has that burn mark.
+052. LILY: Oh my God, that's definitely Earl's elbow. He has that burn mark.
     릴리: 세상에, 확실히 얼 아저씨 팔꿈치예요. 그 화상 자국 있잖아요.
 
-053. TYLER: Exactly, so that's a copyright problem, because the photo belongs to us. Click "intellectual property," then "copyright," and then upload the original photo.
+053. TYLER: Exactly, so that's a copyright problem. The photo belongs to us. Click "intellectual property," then "copyright," and then upload the original photo.
     타일러: 맞아. 그러니까 저작권 문제야, 사진이 우리 거니까. '지식재산권' 누르고, '저작권' 누르고, 원본 사진 올려.
 
 054. LILY: Done, but what about this one, "Ferox Motion Compatible," with one R?
@@ -183,7 +183,7 @@
 056. LILY: Is our name actually a trademark?
     릴리: 우리 이름이 진짜 상표예요?
 
-057. TYLER: It is, because your dad registered it in 2017, when we had three people, and Gloria says it's the smartest two hundred fifty dollars he ever spent. We're also in the brand registry.
+057. TYLER: It is. Your dad registered it in 2017, when we had three people, and Gloria says it's the smartest two hundred fifty dollars he ever spent. We're also in the brand registry.
     타일러: 응. 너희 아빠가 직원 세 명일 때인 2017년에 등록했어. 글로리아는 그게 아빠가 쓴 250달러 중에 제일 똑똑한 돈이래. 그리고 우린 브랜드 등록제에도 들어가 있어.
 
 058. LILY: What's the brand registry?
@@ -198,7 +198,7 @@
 061. TYLER: Usually. Okay, report it, and then next.
     타일러: 보통은. 자, 신고하고 다음 거.
 
-062. LILY: This one's weird, because it's a ZipTorque kit, but the description says "Designed in Dayton, Ohio."
+062. LILY: This one's weird. It's a ZipTorque kit, but the description says "Designed in Dayton, Ohio."
     릴리: 이건 이상해요. 집토크 키트인데 설명에 '오하이오 데이턴에서 설계'라고 돼 있어요.
 
 063. TYLER: What, let me see. "Designed in Dayton, Ohio, built with Calloway precision." Oh, so now they're stealing our hometown.
@@ -216,7 +216,7 @@
 067. LILY: Can we report it, even though it's kind of a lie and kind of the truth?
     릴리: 이거 신고할 수 있어요? 좀 거짓말이고 좀 사실인데.
 
-068. WEN: That is the most dangerous kind of lie, but no, we can't report it as false, because if we did, it would sound like we're admitting something.
+068. WEN: That is the most dangerous kind of lie, but no, we can't report it as false. If we did, it would sound like we're admitting something.
     웬: 그게 제일 위험한 거짓말이에요. 근데 안 돼요, 거짓이라고 신고 못 해요. 그러면 우리가 뭘 인정하는 것처럼 들리니까요.
 
 069. TYLER: Yeah, Ben would kill us for that.
@@ -225,16 +225,16 @@
 070. WEN: Ben would kill us slowly, so put it on the list for Ben.
     웬: 벤은 천천히 죽일 거예요. 벤한테 넘길 목록에 올려 두세요.
 
-071. LILY: Okay, that's twelve reported and twenty-eight left. Wait, this one is new, because it wasn't here an hour ago.
+071. LILY: Okay, that's twelve reported and twenty-eight left. Wait, this one is new. It wasn't here an hour ago.
     릴리: 좋아요, 열두 개 신고했고 스물여덟 개 남았어요. 잠깐, 이건 새 거예요. 한 시간 전엔 없었어요.
 
-072. TYLER: Let me see. "VoltMaxx," with two X's, the same photo and the same box, but two hundred and nine dollars now, because of the duty.
+072. TYLER: Let me see. "VoltMaxx," with two X's, the same photo and the same box, but two hundred and nine dollars now. Of the duty.
     타일러: 보자. 'VoltMaxx', X가 두 개. 사진도 같고 상자도 같은데, 관세 때문에 이제 209달러네.
 
 073. LILY: They came back in one morning?
     릴리: 하루 아침에 다시 나타났다고요?
 
-074. TYLER: With an extra X, yeah, because this is the whack-a-mole game, where you hit one and another one pops up.
+074. TYLER: With an extra X, yeah. This is the whack-a-mole game, where you hit one and another one pops up.
     타일러: X 하나 더 붙여서. 이게 두더지 잡기야. 하나 때리면 다른 게 튀어나와.
 
 075. LILY: Like at the arcade, with the little hammer?
@@ -249,7 +249,7 @@
 078. LILY: I'm not an intern, I'm a consultant, and Tyler's paying me in pizza.
     릴리: 저 인턴 아니에요, 컨설턴트예요. 타일러가 피자로 줘요.
 
-079. GLORIA: Smart girl, always get paid in something. Tyler, Patty wants you on the floor, because she found something in the returns bin.
+079. GLORIA: Smart girl, always get paid in something. Tyler, Patty wants you on the floor. She found something in the returns bin.
     글로리아: 똑똑하네. 뭐로든 꼭 받아야 해. 타일러, 패티가 현장으로 오래. 반품함에서 뭘 찾았대.
 
 080. PATTY: Look at this, a customer in Indiana sent it back and says his Ferrox motor died after two weeks, but this isn't ours.
@@ -273,7 +273,7 @@
 086. PATTY: The note just says "online," so thanks, buddy, very helpful.
     패티: 메모엔 '온라인'이라고만 써 있어. 고맙다, 친구야. 아주 도움 되네.
 
-087. LILY: Can I call him? I'm good at calling strangers, because I sell cookies for the robotics club.
+087. LILY: Can I call him? I'm good at calling strangers. I sell cookies for the robotics club.
     릴리: 제가 전화해 봐도 돼요? 저 모르는 사람한테 전화 잘해요. 로봇 동아리 쿠키 팔거든요.
 
 088. PATTY: You'd really do that for us?
@@ -291,28 +291,28 @@
 092. LILY: He bought it from a link in a video review, where the video guy said, "This is basically the Ferrox motor, at half the price."
     릴리: 영상 리뷰에 있는 링크로 샀대요. 영상 속 남자가 '이거 사실상 페록스 모터인데 반값'이라고 했대요.
 
-093. TYLER: The video guy, of course, because there's always a video guy.
+093. TYLER: The video guy, of course. There's always a video guy.
     타일러: 영상 남자. 당연하지. 꼭 영상 남자가 있어.
 
 094. WEN: So the fake is not only selling our name, it's selling our reputation, and when it breaks, we get the blame.
     웬: 그러니까 가짜가 우리 이름만 파는 게 아니라 우리 평판을 팔고 있는 거네요. 고장 나면 욕은 우리가 먹고요.
 
-095. TYLER: Exactly, and I need Ben for this, so Lily, keep reporting, because you're doing great.
+095. TYLER: Exactly, and I need Ben for this, so Lily, keep reporting. You're doing great.
     타일러: 바로 그거예요. 이건 벤이 필요해요. 릴리, 계속 신고해. 아주 잘하고 있어.
 
 096. BEN: Tyler, it's the Friday before Labor Day, and I'm in my car with a cooler full of hot dogs, so this had better be good.
     벤: 타일러, 노동절 전 금요일이야. 나 핫도그 가득한 아이스박스 싣고 차에 있어. 좋은 얘기여야 할 거다.
 
-097. TYLER: It's half good, because VoltMax is gone thanks to de minimis, but a copy came back with two X's, there are seven legal kits using Calloway motors, and one of them says "Designed in Dayton."
+097. TYLER: It's half good. VoltMax is gone thanks to de minimis, but a copy came back with two X's, there are seven legal kits using Calloway motors, and one of them says "Designed in Dayton."
     타일러: 반만 좋아요. 디미니미스 덕분에 볼트맥스는 사라졌는데, X 두 개 붙인 복제품이 돌아왔고, 캘러웨이 모터 쓰는 합법 키트가 일곱 개고, 그중 하나엔 '데이턴에서 설계'라고 써 있어요.
 
-098. BEN: "Designed in Dayton," that's kind of funny. Don't touch that one, just send it to me, because it might be evidence.
+098. BEN: "Designed in Dayton," that's kind of funny. Don't touch that one, just send it to me. It might be evidence.
     벤: '데이턴에서 설계'라, 좀 웃기네. 그건 건드리지 말고 나한테 보내. 증거가 될 수도 있어.
 
 099. SAM: Ben, it's Sam, and I'm here too. Is there a way to stop fakes before they get into the country, instead of chasing them online?
     샘: 벤, 나 샘이야, 나도 있어. 온라인에서 쫓아다니는 대신 가짜가 나라에 들어오기 전에 막는 방법은 없어?
 
-100. BEN: There is, because you can record your trademark with Customs and Border Protection, which keeps a database for the officers at the ports. If they see a box that says "Ferrox" and it's not from you, they can seize it.
+100. BEN: There is. You can record your trademark with Customs and Border Protection, which keeps a database for the officers at the ports. If they see a box that says "Ferrox" and it's not from you, they can seize it.
     벤: 있어. 세관국경보호청에 상표를 등록하면 돼. 항구 직원들이 보는 데이터베이스가 있거든. '페록스'라고 써 있는데 당신네가 보낸 게 아닌 상자를 보면 압수할 수 있어.
 
 101. SAM: Then why didn't we do that months ago?
@@ -336,13 +336,13 @@
 107. WEN: So the ZipTorque kits keep coming in.
     웬: 그러니까 집토크 키트는 계속 들어오겠네요.
 
-108. BEN: Until the ITC issues an exclusion order, and then Customs gets a different kind of order, "Stop every motor from Calloway's Saltillo plant with this design." That's the hammer, and that's why we're doing all this.
+108. BEN: Until the ITC issues an exclusion order. Then Customs gets a different kind of order: "Stop every motor from Calloway's Saltillo plant with this design." That's the hammer, and that's why we're doing all this.
     벤: ITC가 수입배제 명령을 낼 때까지는요. 그러면 세관이 다른 종류의 명령을 받아요. '이 설계로 된 캘러웨이 살티요 공장 모터는 전부 막아라.' 그게 망치고, 우리가 이걸 다 하는 이유예요.
 
 109. TYLER: So until then, it's whack-a-mole.
     타일러: 그럼 그때까진 두더지 잡기네요.
 
-110. BEN: Until then, it's whack-a-mole, but whack the liars, because every one you take down is one less person who buys a fake, has it break, and blames you.
+110. BEN: Until then, it's whack-a-mole, but whack the liars. Every one you take down is one less person who buys a fake, has it break, and blames you.
     벤: 그때까진 두더지 잡기야. 근데 거짓말쟁이는 때려. 하나 내릴 때마다 가짜 사서 고장 나고 당신네 탓하는 사람이 한 명 줄어드니까.
 
 111. LILY: Mr. Adler, it's Lily, and can I ask something?
@@ -351,10 +351,10 @@
 112. BEN: Lily Kowalski, the robot girl? Of course you can.
     벤: 릴리 코왈스키? 그 로봇 소녀? 물론이지.
 
-113. LILY: If someone makes a video saying "this is basically Ferrox," is that illegal, because a guy bought a fake from a video like that?
+113. LILY: If someone makes a video saying "this is basically Ferrox," is that illegal. A guy bought a fake from a video like that?
     릴리: 누가 '이거 사실상 페록스'라고 영상을 만들면 그거 불법이에요? 어떤 분이 그런 영상 보고 가짜를 샀거든요.
 
-114. BEN: Good question, and it depends, because if he's paid by the seller and doesn't say so, that's a problem with the Federal Trade Commission, since influencers are supposed to say when they get paid.
+114. BEN: Good question, and it depends. If he's paid by the seller and doesn't say so, that's a problem with the Federal Trade Commission, since influencers are supposed to say when they get paid.
     벤: 좋은 질문이야. 상황에 따라 달라. 판매자한테 돈 받고도 그걸 안 밝혔으면 연방거래위원회 문제가 돼. 인플루언서는 돈 받으면 밝혀야 하거든.
 
 115. LILY: So I should check whether he said "sponsored."
@@ -381,7 +381,7 @@
 122. SAM: How, exactly, when they already have the design?
     샘: 어떻게? 그쪽은 이미 설계를 갖고 있는데.
 
-123. WEN: They copied version four point two, which is Kevin's copy from last November, but I'm on version five now, and five is twelve percent better on heat, and they don't have five.
+123. WEN: They copied version four point two, Kevin's copy from last November. I'm on version five now, which is twelve percent better on heat, and they don't have five.
     웬: 그쪽이 베낀 건 4.2 버전이에요. 작년 11월 케빈이 가져간 거요. 전 지금 5 버전이고, 5는 발열이 12퍼센트 나아요. 그쪽엔 5가 없어요.
 
 124. TYLER: So we're always one version ahead of them.
@@ -414,7 +414,7 @@
 133. SAM: That's amazing, Nina, really.
     샘: 진짜 대단하다, 니나.
 
-134. NINA: It's amazing and terrifying, because I need a lot more motors, two thousand by November, so can you do that?
+134. NINA: It's amazing and terrifying. I need a lot more motors, two thousand by November, so can you do that?
     니나: 대단하고 무서워. 모터가 훨씬 더 필요하거든. 11월까지 2,000개. 할 수 있어?
 
 135. SAM: Two thousand, and Earl's going to kill me, but yes.
@@ -429,7 +429,7 @@
 138. WEN: I'm looking at him the same way I did last November, Nina.
     웬: 작년 11월이랑 똑같은 눈으로 보고 있어요, 니나.
 
-139. NINA: Ha, hi, Wen! One more thing, Sam, because a sales rep came into my shop on Tuesday with a ZipTorque kit and said, "Why pay Ohio prices when you can get the same motor for less?"
+139. NINA: Ha, hi, Wen! One more thing, Sam. A sales rep came into my shop on Tuesday with a ZipTorque kit and said, "Why pay Ohio prices when you can get the same motor for less?"
     니나: 하! 안녕, 웬. 샘, 하나 더. 화요일에 영업사원이 집토크 키트를 들고 우리 가게에 와서는 '똑같은 모터를 싸게 살 수 있는데 왜 오하이오 가격을 내요?' 그러더라.
 
 140. SAM: What did you say to him, and please tell me you were nice?
@@ -456,13 +456,13 @@
 147. SAM: No argument here. Hold on, my phone again, and it's Georgia. Minjun!
     샘: 토 안 달아요. 잠깐, 또 전화네. 조지아예요. 민준!
 
-148. MINJUN: Sam, sorry, it's very loud here, because we just finished the floor for the stamping press, very fast but very careful concrete. When are you coming? You promised.
+148. MINJUN: Sam, sorry, it's very loud here. We just finished the floor for the stamping press, very fast but very careful concrete. When are you coming? You promised.
     민준: 샘! 미안, 여기 엄청 시끄러워. 방금 프레스 놓을 바닥 다 했거든. 콘크리트, 아주 빨리, 아주 조심해서. 언제 와? 약속했잖아.
 
-149. SAM: Tuesday, because Wen and I fly down Tuesday morning.
+149. SAM: Tuesday. Wen and I fly down Tuesday morning.
     샘: 화요일. 웬이랑 화요일 아침에 내려가.
 
-150. MINJUN: Good, so bring light clothes, because Georgia is hotter than Ulsan in August, and bring your appetite, since Wade says he's making barbecue.
+150. MINJUN: Good, so bring light clothes. Georgia is hotter than Ulsan in August, and bring your appetite, since Wade says he's making barbecue.
     민준: 좋아. 얇은 옷 챙겨. 8월 조지아는 울산보다 더워. 그리고 배도 비워 와. 웨이드가 바비큐 한대.
 
 ---

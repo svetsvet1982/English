@@ -21,7 +21,7 @@
 002. WEN: It's lake-effect snow, which happens when the cold air moves across Lake Michigan and picks up moisture, and I can draw you a diagram.
     웬: 호수 효과 눈이에요. 찬 공기가 미시간 호수를 지나면서 수분을 머금는 거죠. 그림 그려 드릴 수 있어요.
 
-003. SAM: Please don't draw me a diagram before coffee, because my brain doesn't do weather science until at least nine.
+003. SAM: Please don't draw me a diagram before coffee. My brain doesn't do weather science until at least nine.
     샘: 커피 마시기 전엔 그림 그리지 마요. 제 머리는 최소 아홉 시까진 기상학을 못 해요.
 
 004. WEN: I already drew it last night in the hotel, because I couldn't sleep. I also drew the controller wiring twice, just to calm down.
@@ -42,7 +42,7 @@
 009. MARK: Good morning, you must be the Ferrox team, and I'm Mark Ellison, who'll be running your system test today.
     마크: 안녕하세요. Ferrox 팀이시죠. 마크 엘리슨입니다. 오늘 시스템 시험을 진행할 거예요.
 
-010. SAM: I'm Sam Kowalski, and this is Dr. Wen Liu, our CTO, so thanks for fitting us in.
+010. SAM: I'm Sam Kowalski, and this is Dr. Wen Liu, our CTO. Thanks for fitting us in.
     샘: 샘 코왈스키예요. 이쪽은 우리 CTO 웬 리우 박사고요. 끼워 주셔서 고마워요.
 
 011. MARK: Don't thank me, thank the company that cancelled in October. Okay, first, some rules: you can watch from behind the glass, but you can't touch the bike once it's in the chamber, and you can't argue with the results.
@@ -69,25 +69,25 @@
 018. SAM: And how do you find out, do you just ride it around the parking lot?
     샘: 그건 어떻게 알아내요? 그냥 주차장을 한 바퀴 타 보는 거예요?
 
-019. MARK: We try to make it fail, so we overcharge it, spray it with water, shake it for hours, run it hot up a fake hill, and drop it, and if it survives without smoke, fire, or shock, it passes.
+019. MARK: We try to make it fail. We overcharge it, spray it with water, shake it for hours, run it hot up a fake hill, and drop it. If it survives without smoke, fire, or shock, it passes.
     마크: 망가지게 만들어 보는 거예요. 과충전하고, 물 뿌리고, 몇 시간 흔들고, 가짜 언덕을 뜨겁게 오르게 하고, 떨어뜨려요. 연기나 불이나 감전 없이 버티면 통과예요.
 
 020. SAM: That sounds like a normal day for a delivery rider in Brooklyn. The guy I followed last week would call that a slow Tuesday.
     샘: 브루클린 배달 라이더의 평범한 하루처럼 들리네요. 지난주에 따라다닌 친구는 그걸 한가한 화요일이라고 할걸요.
 
-021. MARK: That's exactly why the tests exist, because real life is harder than any catalog.
+021. MARK: That's exactly why the tests exist. Real life is harder than any catalog.
     마크: 그래서 시험이 있는 거예요. 현실은 어떤 카탈로그보다 혹독하거든요.
 
-022. WEN: Out of curiosity, which test do most systems fail, so I know where to look?
+022. WEN: Out of curiosity, which test do most systems fail? I want to know where to look.
     웬: 궁금해서 그런데, 대부분의 시스템이 어느 시험에서 떨어져요? 어디를 봐야 할지 알고 싶어서요.
 
-023. MARK: Honestly, it's the hill, the long, hot climb, because everything gets hot at the same time, and the weakest part gives up.
+023. MARK: Honestly, it's the hill, the long, hot climb. Everything gets hot at the same time, and the weakest part gives up.
     마크: 솔직히 언덕이요. 길고 뜨거운 오르막. 모든 게 동시에 뜨거워지면서 제일 약한 부품이 포기하죠.
 
-024. WEN: Our motor is designed for long hills, because that was the whole point of the new firmware.
+024. WEN: Our motor is designed for long hills. That was the whole point of the new firmware.
     웬: 우리 모터는 긴 언덕용으로 설계됐어요. 새 펌웨어의 목적이 바로 그거였고요.
 
-025. MARK: Then you'll pass the hill, so let's get started.
+025. MARK: Then you'll pass the hill. Let's get started.
     마크: 그럼 언덕은 통과하시겠네요. 시작하죠.
 
 026. SAM: The bike looks so small in there, with all those cables and sensors on it.
@@ -108,19 +108,19 @@
 031. WEN: Who is this Mateo you keep mentioning?
     웬: 자꾸 말하는 마테오가 누구예요?
 
-032. SAM: He's the rider I followed in Brooklyn, who rides twelve hours in the rain, so if our motor survives Mateo, it can survive anything.
+032. SAM: He's the rider I followed in Brooklyn, who rides twelve hours in the rain. If our motor survives Mateo, it can survive anything.
     샘: 브루클린에서 따라다닌 라이더요. 빗속에서 열두 시간을 달려요. 우리 모터가 마테오를 버티면 뭐든 버틸 수 있어요.
 
-033. MARK: The water test is complete, with no leaks into the electrical parts, so that's a pass.
+033. MARK: The water test is complete, with no leaks into the electrical parts. That's a pass.
     마크: 물 시험 완료. 전기 부품으로 누수 없음. 통과입니다.
 
 034. SAM: Yes!
     샘: 좋았어!
 
-035. MARK: Please don't celebrate after every test, because there are eleven more.
+035. MARK: Please don't celebrate after every test. There are eleven more.
     마크: 시험 하나마다 환호하지 마세요. 열한 개 더 남았어요.
 
-036. SAM: Sorry, I'm new at this, because usually I'm the one running tests, not watching them through glass.
+036. SAM: Sorry, I'm new at this. Usually I'm the one running tests, not watching them through glass.
     샘: 죄송해요, 이런 건 처음이라. 보통은 제가 시험을 하는 쪽이지 유리 너머로 보는 쪽이 아니거든요.
 
 037. MARK: Yes, I can tell.
@@ -129,7 +129,7 @@
 038. WEN: So is the vibration test next?
     웬: 그럼 다음은 진동 시험이에요?
 
-039. MARK: Vibration is next, and it takes four hours, so you might want to get lunch.
+039. MARK: Vibration is next, and it takes four hours. You might want to get lunch.
     마크: 다음은 진동이에요. 네 시간 걸려요. 점심 드시고 오셔도 돼요.
 
 040. SAM: No, thanks, we'll stay here.
@@ -138,7 +138,7 @@
 041. MARK: It's your choice, but the vending machine has chips and sadness.
     마크: 마음대로 하세요. 자판기엔 과자랑 슬픔밖에 없어요.
 
-042. WEN: The vibration, overcharge, and drop tests all passed, so now it's the hill.
+042. WEN: The vibration, overcharge, and drop tests all passed. Now it's the hill.
     웬: 진동 시험 통과. 과충전 통과. 낙하 통과. 이제 언덕이에요.
 
 043. SAM: How long is the hill test, and is that the one you said most systems fail?
@@ -150,7 +150,7 @@
 045. WEN: What's the exact temperature limit for the controller, please?
     웬: 컨트롤러 온도 한계가 정확히 몇 도예요?
 
-046. MARK: It depends on the parts inside, but for this controller, the limit is in the documents your customer sent, so you should know it.
+046. MARK: It depends on the parts inside, but for this controller, the limit is in the documents your customer sent. You should know it.
     마크: 내부 부품에 따라 다른데, 이 컨트롤러는 고객사가 보낸 서류에 한계가 나와 있어요. 아셔야 하는 건데요.
 
 047. WEN: I know it very well.
@@ -168,7 +168,7 @@
 051. WEN: Yes, but it runs our firmware, and our firmware tells it how hard to push.
     웬: 맞아요. 근데 거기서 우리 펌웨어가 돌아가고, 얼마나 세게 밀지는 우리 펌웨어가 정해요.
 
-052. SAM: Okay, then why are you making that face, because you're scaring me a little?
+052. SAM: Okay, then why are you making that face? You're scaring me a little.
     샘: 알겠어요. 그럼 왜 그런 표정이에요? 좀 무서운데요.
 
 053. WEN: Because the controller is getting hotter faster than I expected.
@@ -186,7 +186,7 @@
 057. WEN: Come on. Come on. Level off.
     웬: 제발. 제발. 멈춰.
 
-058. MARK: The controller has exceeded the temperature limit, so I'm stopping the test.
+058. MARK: The controller has exceeded the temperature limit. I'm stopping the test.
     마크: 컨트롤러가 온도 한계를 초과했습니다. 시험 중단합니다.
 
 059. SAM: That's it, it's over? We drove six hours through the snow for this?
@@ -204,7 +204,7 @@
 063. SAM: We failed a thirty-eight-thousand-dollar test by four degrees?
     샘: 3만 8천 달러짜리 시험을 4도 차이로 떨어졌다고요?
 
-064. MARK: A fail by four degrees is still a fail, Mr. Kowalski, because the limit is the limit.
+064. MARK: A fail by four degrees is still a fail, Mr. Kowalski. The limit is the limit.
     마크: 4도 차이로 떨어져도 불합격은 불합격이에요, 코왈스키 씨. 한계는 한계니까요.
 
 065. WEN: I would like to see the full temperature data, please, every second of it.
@@ -216,7 +216,7 @@
 067. WEN: Actually, it's a request.
     웬: 사실 요청이에요.
 
-068. MARK: Requests are fine too, so I'll print it for you.
+068. MARK: Requests are fine too. I'll print it for you.
     마크: 요청도 괜찮아요. 출력해 드릴게요.
 
 069. SAM: Wen, what happened, when you said the firmware was ready?
@@ -225,10 +225,10 @@
 070. WEN: Can we not talk about it here, behind the glass?
     웬: 여기서 얘기하지 말아요. 유리 뒤에서는요.
 
-071. SAM: Sure, let's go to the truck, because it's warmer, and nobody is taking notes there.
+071. SAM: Sure, let's go to the truck. It's warmer, and nobody is taking notes there.
     샘: 그래요. 트럭으로 가요. 더 따뜻하고, 거기선 아무도 받아 적지 않으니까.
 
-072. SAM: Okay, we're alone now, so talk to me.
+072. SAM: Okay, we're alone now. Talk to me.
     샘: 자, 이제 우리뿐이에요. 얘기해 봐요.
 
 073. WEN: It was me.
@@ -240,7 +240,7 @@
 075. WEN: It was version four point two, the update I finished on election night, which gives the motor six percent more torque on hills, and I was so proud of it.
     웬: 4.2 버전이요. 선거날 밤에 끝낸 업데이트요. 언덕에서 모터 토크를 6퍼센트 더 주는 거. 정말 자랑스러워했죠.
 
-076. SAM: I remember, because you were so happy you didn't even watch the election results.
+076. SAM: I remember. You were so happy you didn't even watch the election results.
     샘: 기억나요. 너무 좋아서 선거 결과도 안 봤잖아요.
 
 077. WEN: More torque means the controller pushes more current, and more current means more heat in the controller. Our motor can handle the heat, but Nina's controller can't, and I tested the motor, but I didn't test it with her controller on a long hill.
@@ -255,13 +255,13 @@
 080. SAM: Can you fix it, and please tell me the answer is yes, even if it's complicated?
     샘: 고칠 수 있어요? 복잡하더라도 된다고 말해 줘요.
 
-081. WEN: I can do it in about twenty minutes, by limiting the current when the controller gets hot, so the rider will lose a little power on very long hills, but it'll be safe.
+081. WEN: I can do it in about twenty minutes, by limiting the current when the controller gets hot. The rider will lose a little power on very long hills, but it'll be safe.
     웬: 20분쯤이면 돼요. 컨트롤러가 뜨거워지면 전류를 제한하면 돼요. 아주 긴 언덕에선 출력이 조금 줄겠지만 안전해요.
 
-082. SAM: Twenty minutes, so let's fix it right now and run the test again today, because we're already here, the bike is already in the chamber, and Mark looks bored.
+082. SAM: Twenty minutes? Then let's fix it right now and run the test again today. We're already here, the bike is already in the chamber, and Mark looks bored.
     샘: 20분이면, 지금 고치고 오늘 다시 시험하죠. 우린 이미 여기 있고, 자전거도 시험실에 있고, 마크는 심심해 보이잖아요.
 
-083. WEN: It doesn't work like that, because once a system fails, we need a new test date for a retest, and Mark said that in the first email.
+083. WEN: It doesn't work like that. Once a system fails, we need a new test date for a retest, and Mark said that in the first email.
     웬: 그렇게 안 돼요. 한 번 떨어지면 재시험 날짜를 새로 잡아야 해요. 마크가 첫 이메일에 그렇게 썼어요.
 
 084. SAM: I didn't read the first email, I just read the subject line and the price.
@@ -279,7 +279,7 @@
 088. SAM: Everybody makes mistakes, Wen, even you, especially at two in the morning.
     샘: 다들 실수해요, 웬. 웬도요. 특히 새벽 두 시엔.
 
-089. WEN: I don't, because that's my job. You make the big promises, and I make sure nothing breaks, but today, I broke it.
+089. WEN: I don't, because that's my job. You make the big promises, and I make sure nothing breaks. Today, I broke it.
     웬: 전 안 해요. 그게 제 일이에요. 샘은 큰 약속을 하고, 전 아무것도 안 망가지게 하죠. 근데 오늘은 제가 망가뜨렸어요.
 
 090. SAM: Then fix the software in the truck, and I'll go fix the calendar, deal?
@@ -288,16 +288,16 @@
 091. MARK: You want a retest, like everybody, and you're the third one this week.
     마크: 재시험 원하시죠. 다들 원해요. 이번 주에만 세 번째예요.
 
-092. SAM: The fix is already done, because Dr. Liu changed the software in the parking lot, so we just need another hour on the hill.
+092. SAM: The fix is already done. Dr. Liu changed the software in the parking lot, so we just need another hour on the hill.
     샘: 수정은 이미 끝났어요. 리우 박사가 주차장에서 소프트웨어를 바꿨어요. 언덕에서 한 시간만 더 하면 돼요.
 
-093. MARK: I believe you, but I can't run your bike again today, because the next available retest slot is in eight weeks, at the end of January.
+093. MARK: I believe you, but I can't run your bike again today. The next available retest slot is in eight weeks, at the end of January.
     마크: 믿어요. 근데 오늘 다시 돌릴 순 없어요. 다음 재시험 가능한 날짜는 8주 뒤, 1월 말이에요.
 
 094. SAM: Eight weeks, when our customer's investor needs a test date before Christmas, or he holds the money?
     샘: 8주요? 고객사 투자자는 크리스마스 전에 시험 날짜가 없으면 돈을 묶어 둔다는데요.
 
-095. MARK: I'm sorry, but every lab in the country is backed up, because every e-bike company, every scooter company, and every battery company is trying to get certified at the same time, and we're running three shifts.
+095. MARK: I'm sorry, but every lab in the country is backed up. Every e-bike company, every scooter company, and every battery company is trying to get certified at the same time, and we're running three shifts.
     마크: 죄송해요. 전국 시험소가 다 밀려 있어요. 전기자전거 회사, 킥보드 회사, 배터리 회사가 전부 동시에 인증받으려고 해요. 저흰 3교대로 돌리고 있어요.
 
 096. SAM: Okay, is there a cancellation list, since somebody always gets sick or runs late?
@@ -312,7 +312,7 @@
 099. MARK: That's Janet, and Janet doesn't like phone calls.
     마크: 재닛이에요. 재닛은 전화 싫어해요.
 
-100. SAM: Nobody likes phone calls, so can I call her anyway?
+100. SAM: Nobody likes phone calls. Can I call her anyway?
     샘: 전화 좋아하는 사람은 없죠. 그래도 걸어 봐도 돼요?
 
 101. MARK: You're very persistent, Mr. Kowalski, when most people just go home and complain on the internet.
@@ -324,7 +324,7 @@
 103. MARK: Wait, I thought the airplane was North Carolina, at Kitty Hawk, right?
     마크: 잠깐, 비행기는 노스캐롤라이나 아니었어요? 키티호크요.
 
-104. SAM: They flew it in North Carolina, but they built it in Dayton, in a bicycle shop, so two bike mechanics from Dayton taught the world to fly.
+104. SAM: They flew it in North Carolina, but they built it in Dayton, in a bicycle shop. Two bike mechanics from Dayton taught the world to fly.
     샘: 날린 건 노스캐롤라이나에서고, 만든 건 데이턴이에요. 자전거 가게에서요. 데이턴의 자전거 정비공 둘이 세상에 나는 법을 가르친 거죠.
 
 105. MARK: Fine, here's Janet's extension, but don't tell her I gave it to you.
@@ -336,7 +336,7 @@
 107. SAM: Hi, Janet, my name is Sam Kowalski, from Ferrox Motion in Ohio, and Mark gave me, I mean, I found your number. I'm calling about a retest slot.
     샘: 안녕하세요, 재닛. 오하이오 Ferrox 모션의 샘 코왈스키예요. 마크가 줬, 아니, 번호를 찾았어요. 재시험 자리 때문에 전화했어요.
 
-108. JANET: Everyone is calling about a retest slot, Mr. Kowalski, and I've had nine calls today already, so the next open one is January twenty-ninth.
+108. JANET: Everyone is calling about a retest slot, Mr. Kowalski, and I've had nine calls today already. The next open one is January twenty-ninth.
     재닛: 다들 재시험 자리 때문에 전화하세요, 코왈스키 씨. 오늘만 벌써 아홉 통째예요. 다음 빈자리는 1월 29일이에요.
 
 109. SAM: I understand, but can you put us on the cancellation list for any date before Christmas, at any time? We'll drive through the night if we have to.
@@ -345,16 +345,16 @@
 110. JANET: I can add you, but you'd be number fourteen on the list.
     재닛: 넣어 드릴 순 있는데, 명단에서 14번이에요.
 
-111. SAM: Fourteen, okay, so realistically, what are the chances we get in before Christmas?
+111. SAM: Fourteen, okay. Realistically, what are the chances we get in before Christmas?
     샘: 14번. 알겠어요. 현실적으로 크리스마스 전에 들어갈 가능성은요?
 
-112. JANET: Honestly, low, because people don't cancel in December, they cancel in the summer, when they go on vacation.
+112. JANET: Honestly, low. People don't cancel in December, they cancel in the summer, when they go on vacation.
     재닛: 솔직히 낮아요. 사람들은 12월엔 취소 안 해요. 여름에 휴가 갈 때 취소하죠.
 
-113. SAM: Put us on anyway, please, because fourteen is better than nothing.
+113. SAM: Put us on anyway, please. Fourteen is better than nothing.
     샘: 그래도 넣어 주세요. 14번이라도 없는 것보단 나아요.
 
-114. JANET: You're on, as number fourteen, so don't call me every day.
+114. JANET: You're on, as number fourteen. Don't call me every day.
     재닛: 넣었어요. 14번. 매일 전화하지 마세요.
 
 115. SAM: Then I'll call you every other day.
@@ -378,7 +378,7 @@
 121. GLORIA: So today cost thirty-eight thousand dollars, and the next one costs nineteen more, and Nina's investor wants a date before Christmas.
     글로리아: 그러니까 오늘 3만 8천 달러 들었고, 다음 건 1만 9천 더 들고, 니나 투자자는 크리스마스 전 날짜를 원하고.
 
-122. SAM: That's a very good summary, so you should write the company newsletter.
+122. SAM: That's a very good summary. You should write the company newsletter.
     샘: 아주 훌륭한 요약이네요. 사내 소식지 쓰셔도 되겠어요.
 
 123. GLORIA: I'm going to update the board right now, and you're not going to like the number. Don't call me again today unless it's good news, baby.
@@ -399,13 +399,13 @@
 128. SAM: At the end of January, unless someone cancels, and we're number fourteen on the list.
     샘: 누가 취소하지 않으면 1월 말이에요. 우린 명단 14번이고요.
 
-129. NINA: My investor is going to hate that, because he hates waiting more than he hates losing.
+129. NINA: My investor is going to hate that. He hates waiting more than he hates losing.
     니나: 투자자가 싫어할 거예요. 그 사람은 지는 것보다 기다리는 걸 더 싫어해요.
 
 130. SAM: Tell him the truth, that the motor survived the rain, the shaking, and the drop, and that we found a problem in the lab instead of on the Manhattan Bridge.
     샘: 사실대로 말해요. 모터가 비도, 흔들림도, 낙하도 버텼다고. 그리고 문제를 맨해튼 브리지가 아니라 시험소에서 찾았다고요.
 
-131. NINA: That's a good line, so can I use it?
+131. NINA: That's a good line. Can I use it?
     니나: 좋은 말이네요. 써도 돼요?
 
 132. SAM: It's all yours, Nina.
@@ -414,10 +414,10 @@
 133. MARK: Mr. Kowalski and Dr. Liu, don't leave yet!
     마크: 코왈스키 씨. 리우 박사님. 아직 가지 마세요.
 
-134. SAM: Did we forget something, because Wen always leaves a pen somewhere?
+134. SAM: Did we forget something? Wen always leaves a pen somewhere.
     샘: 뭐 두고 왔어요? 웬이 꼭 어디 펜을 두고 오거든요.
 
-135. MARK: No, Janet just called me, because someone cancelled their slot on December eighteenth, two weeks from today.
+135. MARK: No, Janet just called me. Someone cancelled their slot on December eighteenth, two weeks from today.
     마크: 아니요. 재닛이 방금 전화했어요. 누가 12월 18일 자리를 취소했대요. 오늘부터 2주 뒤요.
 
 136. SAM: But we're number fourteen, and Janet said the chances were low.
@@ -453,7 +453,7 @@
 146. SAM: A big industrial company with a brand-new e-bike system? That's unusual, isn't it?
     샘: 완전히 새로운 전기자전거 시스템을 가진 큰 산업 회사요? 그거 흔한 일 아니잖아요?
 
-147. MARK: Their paperwork said Charlotte, North Carolina, and that's all I know, so drive safe, because the snow's getting worse.
+147. MARK: Their paperwork said Charlotte, North Carolina, and that's all I know. Drive safe, because the snow's getting worse.
     마크: 서류에 노스캐롤라이나 샬럿이라고 돼 있었어요. 제가 아는 건 그게 다예요. 조심해서 가세요. 눈이 더 심해지고 있어요.
 
 148. WEN: Charlotte.

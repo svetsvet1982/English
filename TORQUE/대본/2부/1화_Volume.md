@@ -27,19 +27,19 @@
 004. GLORIA: And what about Canada and Mexico, are they getting hit too?
     글로리아: 캐나다랑 멕시코는? 거기도 맞는 거야?
 
-005. WEN: Both of them got a thirty-day pause, because they made a deal yesterday afternoon, a few hours before the deadline, so for now it's only China.
+005. WEN: Both of them got a thirty-day pause. They made a deal yesterday afternoon, a few hours before the deadline, so for now it's only China.
     웬: 둘 다 30일 유예됐어요. 어제 오후에, 마감 몇 시간 전에 합의했거든요. 그래서 일단은 중국만이에요.
 
 006. SAM: For now, which is basically the phrase of the year.
     샘: 일단은. 거의 올해의 표현이네요.
 
-007. WEN: There's more, because China answered this morning with tariffs on American coal and natural gas and new export controls on five metals: tungsten, tellurium, bismuth, molybdenum, and indium.
+007. WEN: There's more. China answered this morning with tariffs on American coal and natural gas, and new export controls on five metals: tungsten, tellurium, bismuth, molybdenum, and indium.
     웬: 더 있어요. 중국이 오늘 아침에 미국산 석탄이랑 천연가스에 관세를 매기고, 금속 다섯 개에 새 수출통제를 걸었어요. 텅스텐, 텔루륨, 비스무트, 몰리브덴, 인듐이요.
 
 008. GLORIA: I understood "coal" and "gas," but the rest sounded like a spell from a wizard movie.
     글로리아: '석탄'이랑 '가스'는 알아들었는데, 나머진 마법사 영화에 나오는 주문 같네.
 
-009. WEN: They're small metals that big industries can't live without, and in December it was gallium, so now with these five they're testing the door to see how far it opens.
+009. WEN: They're small metals that big industries can't live without. In December it was gallium, and now with these five, they're testing the door to see how far it opens.
     웬: 큰 산업들이 없으면 못 사는 작은 금속들이에요. 12월엔 갈륨이었고, 이제 이 다섯 개로 문이 얼마나 열리나 시험해 보는 거죠.
 
 010. GLORIA: And you think the next one is rare earths.
@@ -48,7 +48,7 @@
 011. WEN: I said that in December, and I'm still saying it.
     웬: 12월에 말했고, 지금도 그렇게 말하고 있어요.
 
-012. SAM: Okay, radio off, because here's Findlay, "Flag City, USA," and look at that, there are flags on every single light pole.
+012. SAM: Okay, radio off, here's Findlay. "Flag City, USA." Look at that, there are flags on every single light pole.
     샘: 좋아요, 라디오 끄고요. 핀들레이 다 왔어요, '깃발의 도시, 미국.' 저거 봐요, 가로등마다 깃발이 꽂혀 있어요.
 
 013. GARY: Sam Kowalski, you found us! I'm Gary Holt, welcome to Haverford, and thanks for driving up in this weather.
@@ -57,16 +57,16 @@
 014. SAM: Thanks for having us, Gary. This is Gloria Banks, our CFO, and Dr. Wen Liu, our CTO and co-founder.
     샘: 불러 주셔서 감사해요, 개리. 이쪽은 우리 CFO 글로리아 뱅크스, 이쪽은 CTO이자 공동창업자 웬 리우 박사예요.
 
-015. GARY: The brains and the money, that's smart, because you never bring the brains and the money to a meeting unless you're serious.
+015. GARY: The brains and the money, that's smart. You never bring the brains and the money to a meeting unless you're serious.
     개리: 두뇌랑 돈이라, 현명하시네요. 진지하지 않으면 두뇌랑 돈을 같이 회의에 데려오는 법이 없거든요.
 
 016. GLORIA: Or unless the CEO can't be trusted to go alone.
     글로리아: 아니면 대표 혼자 보내면 못 믿을 때나.
 
-017. GARY: Ha, I like her already! Okay, put these on, safety glasses and earplugs, because it gets loud on the floor.
+017. GARY: Ha, I like her already! Okay, put these on, safety glasses and earplugs. It gets loud on the floor.
     개리: 하! 벌써 마음에 드네요. 자, 이거 쓰세요, 보안경이랑 귀마개요. 현장은 시끄럽거든요.
 
-018. SAM: Wow, how long is this line, because I can't even see the other end of it?
+018. SAM: Wow, how long is this line? I can't even see the other end of it.
     샘: 와, 이 라인 길이가 얼마예요? 반대쪽 끝이 보이지도 않네요.
 
 019. GARY: It's about half a mile if you straighten it out, and we build roughly four thousand washing machines a day in this building, on two shifts and sometimes three.
@@ -78,7 +78,7 @@
 021. GARY: I know, I did my homework. Marcy, come here a second! Marcy runs the drum line, and she's been here longer than most of the machines.
     개리: 알아요, 숙제는 해 왔거든요. 마시! 잠깐 와 봐요. 마시가 드럼 라인 책임자인데, 여기 기계들 대부분보다 오래 있었죠.
 
-022. MARCY: It'll be thirty-one years in March. Who are these folks, Gary, because they don't look like auditors?
+022. MARCY: It'll be thirty-one years in March. Who are these folks, Gary? They don't look like auditors.
     마시: 3월이면 31년이에요. 이분들은 누구예요, 개리? 감사관처럼은 안 생겼는데.
 
 023. GARY: They make motors down in Dayton, and they do it without rare earths.
@@ -96,7 +96,7 @@
 027. SAM: I'll tell him, I promise, but what does this station do?
     샘: 전해 드릴게요, 약속해요. 근데 이 자리는 뭘 하는 데예요?
 
-028. MARCY: This is where the motor goes in, see, because the drum comes down the line, the motor drops in, four bolts, one connector, and it's done in twenty-two seconds.
+028. MARCY: This is where the motor goes in, see? The drum comes down the line, the motor drops in, four bolts, one connector, and it's done in twenty-two seconds.
     마시: 여기가 모터 들어가는 데예요, 보이죠? 드럼이 라인 타고 내려오면 모터가 들어가고, 볼트 네 개, 커넥터 하나면 22초 만에 끝나요.
 
 029. WEN: And where does this motor come from, who makes it for you right now?
@@ -114,13 +114,13 @@
 033. GARY: You see why I sent you that email.
     개리: 제가 왜 그 이메일을 보냈는지 아시겠죠.
 
-034. WEN: Can I pick one up, because I want to feel the weight?
+034. WEN: Can I pick one up? I want to feel the weight.
     웬: 하나 들어 봐도 돼요? 무게를 느껴 보고 싶어요.
 
 035. MARCY: Sure, honey, but lift with your legs, because it's heavier than it looks.
     마시: 그럼요. 근데 다리로 들어요, 보기보다 무거우니까.
 
-036. WEN: It's direct drive with an outer rotor, and the magnets are neodymium, glued in, so it's probably about nine kilos, while ours would be a little heavier, maybe ten.
+036. WEN: It's direct drive with an outer rotor, and the magnets are neodymium, glued in. It's probably about nine kilos, while ours would be a little heavier, maybe ten.
     웬: 외전형 로터를 쓴 직결 구동이네요. 자석은 네오디뮴이고 접착돼 있으니 아마 9킬로쯤일 거예요. 우리 건 조금 더 무거워서 10킬로쯤 되겠고요.
 
 037. MARCY: One extra kilo? Honey, if it doesn't break my back and it doesn't come back broken, I don't care what it weighs.
@@ -132,13 +132,13 @@
 039. MARCY: Not a lot, but when they do, it's always the same complaint: the machine shakes, it screams on the spin cycle, and the customer calls it a jet engine.
     마시: 많진 않아요. 근데 돌아올 때는 맨날 같은 불만이에요. 기계가 흔들리고, 탈수할 때 비명을 지르고, 손님이 제트 엔진이라고 하죠.
 
-040. GARY: Okay, that's enough honesty for one tour, thanks, Marcy. Let's go upstairs, folks, because I have coffee and a number I want to show you.
+040. GARY: Okay, that's enough honesty for one tour, thanks, Marcy. Let's go upstairs, folks, I have coffee and a number I want to show you.
     개리: 자, 견학 한 번에 솔직함은 그 정도면 충분해요, 고마워요, 마시. 위층으로 가시죠, 여러분. 커피랑 보여 드리고 싶은 숫자가 있어요.
 
-041. GARY: Sit anywhere, and the coffee's terrible, but it's hot. I'm going to be direct, because I've been in purchasing for twenty-six years and I hate wasting time.
+041. GARY: Sit anywhere. The coffee's terrible, but it's hot. I'm going to be direct, because I've been in purchasing for twenty-six years and I hate wasting time.
     개리: 아무 데나 앉으세요. 커피는 끔찍한데 뜨겁긴 해요. 직설적으로 갈게요. 구매 일만 26년 했고, 시간 낭비하는 거 질색이거든요.
 
-042. SAM: We appreciate that, because we hate wasting time too.
+042. SAM: We appreciate that, and we hate wasting time too.
     샘: 그게 고맙죠. 저희도 시간 낭비는 질색이거든요.
 
 043. GARY: Next year we're launching a new line of washers called the Haverford Pro, starting at two hundred thousand machines a year, and every one of them needs a motor.
@@ -147,10 +147,10 @@
 044. SAM: Two hundred thousand motors, every single year?
     샘: 모터 20만 개요, 해마다?
 
-045. GARY: Every year, and I want them made in America without Chinese magnets, because I want to put "Made in Ohio" on the box and I want it to be true.
+045. GARY: Every year. And I want them made in America, without Chinese magnets. I want to put "Made in Ohio" on the box, and I want it to be true.
     개리: 해마다요. 그리고 미국에서, 중국 자석 없이 만든 걸 원해요. 상자에 '메이드 인 오하이오'라고 쓰고 싶고, 그게 사실이었으면 좋겠거든요.
 
-046. GLORIA: That's a beautiful sentence, Gary, so can I ask what it costs?
+046. GLORIA: That's a beautiful sentence, Gary. Can I ask what it costs?
     글로리아: 아름다운 문장이네요, 개리. 그럼 그게 얼마짜리인지 물어봐도 돼요?
 
 047. GARY: Right to the money, okay. Our Foshan motor costs us forty-eight dollars landed, which is the price after shipping, after the port, after everything, when it's sitting on Marcy's line.
@@ -159,7 +159,7 @@
 048. GLORIA: And after midnight, that's about fifty-three.
     글로리아: 그리고 자정 이후엔 53달러쯤 되겠네.
 
-049. GARY: About fifty-three, and my CEO thinks it could be twenty-five percent by the summer, but nobody knows, and that's the problem, because I can't build a business plan on "nobody knows."
+049. GARY: About fifty-three, and my CEO thinks it could be twenty-five percent by the summer. Nobody knows, and that's the problem. I can't build a business plan on "nobody knows."
     개리: 53달러쯤이요. 우리 CEO는 여름까지 25퍼센트가 될 수도 있다고 보는데, 아무도 몰라요. 그게 문제죠. '아무도 모른다' 위에 사업 계획을 세울 순 없잖아요.
 
 050. SAM: So what's your number, Gary?
@@ -171,13 +171,13 @@
 052. SAM: Fifty-four.
     샘: 54달러.
 
-053. GARY: You don't like it, I can see it on your face, because you've got a terrible poker face, Sam, and somebody should tell you.
+053. GARY: You don't like it, I can see it on your face. You've got a terrible poker face, Sam, and somebody should tell you.
     개리: 마음에 안 드시는구나, 얼굴에 써 있어요. 포커페이스가 엉망이네요, 샘. 누가 말해 줘야 할 텐데.
 
 054. GLORIA: Everybody tells him, but he doesn't listen.
     글로리아: 다들 말해요. 안 들어서 그렇지.
 
-055. SAM: It's not that I don't like it, it's that we've never built this motor, or anything at this volume, so I can't give you a price for a motor that doesn't exist yet.
+055. SAM: It's not that I don't like it. We've never built this motor, or anything at this volume, so I can't give you a price for a motor that doesn't exist yet.
     샘: 마음에 안 드는 게 아니라, 우린 이 모터도, 이 정도 물량도 만들어 본 적이 없어요. 그러니 아직 존재하지도 않는 모터에 가격을 드릴 순 없죠.
 
 056. GARY: Then give me a guess, a real one, and I won't hold you to it today.
@@ -195,7 +195,7 @@
 060. SAM: At full volume, if everything goes right, I think we could get to sixty-one.
     샘: 물량 다 채우고 모든 게 잘 풀리면, 61달러까지는 갈 수 있을 것 같아요.
 
-061. GARY: Sixty-one is seven dollars over my number, and seven dollars times two hundred thousand is one point four million dollars a year, so my CEO would throw me out the window.
+061. GARY: Sixty-one is seven dollars over my number. Seven dollars times two hundred thousand is one point four million dollars a year, and my CEO would throw me out the window.
     개리: 61달러면 제 숫자보다 7달러 높네요. 7달러 곱하기 20만 개면 1년에 140만 달러니까, 우리 CEO가 저를 창문 밖으로 던질 거예요.
 
 062. GLORIA: Is it a high window?
@@ -216,7 +216,7 @@
 067. GARY: In plain English? I'm a purchasing guy, Doctor, and I went to college for marketing.
     개리: 쉬운 말로 하면요? 전 구매 담당이에요, 박사님. 대학에서 마케팅 전공했거든요.
 
-068. WEN: In plain English, our motor is smarter, because it feels the load in the drum and adjusts many times a second. That means a quieter spin, less shaking, and fewer angry phone calls, and that has a price too.
+068. WEN: In plain English, our motor is smarter. It feels the load in the drum and adjusts many times a second. That means a quieter spin, less shaking, and fewer angry phone calls, and that has a price too.
     웬: 쉬운 말로 하면, 우리 모터가 더 똑똑해요. 드럼 안의 무게를 느끼고 1초에 여러 번 조절하거든요. 그러면 탈수가 조용하고, 덜 흔들리고, 화난 전화가 줄어요. 그것도 값이 있는 거예요.
 
 069. GARY: Fewer angry phone calls, now you're speaking my CEO's language. Okay, that's interesting, that's actually very interesting.
@@ -243,7 +243,7 @@
 076. SAM: Honestly, not with what we have today.
     샘: 솔직히, 오늘 가진 걸로는 안 돼요.
 
-077. GARY: I appreciate that, because most people lie to me in the first meeting and save the truth for the third.
+077. GARY: I appreciate that. Most people lie to me in the first meeting and save the truth for the third.
     개리: 그 말 고마워요. 대부분 첫 미팅에서 저한테 거짓말하고 진실은 세 번째 미팅까지 아껴 두거든요.
 
 078. SAM: We'd need more winding machines, probably a new assembly line, more people, and maybe a bigger building, but capacity is a problem you can solve with money and time.
@@ -261,7 +261,7 @@
 082. GLORIA: It's a polite way to say "not yet."
     글로리아: '아직은요'를 공손하게 말하는 방법이죠.
 
-083. GARY: Fair enough. Look, I'll be honest with you too, because I'm not only talking to you, I'm also talking to a company in Mexico and a big American company, and I'd be crazy not to.
+083. GARY: Fair enough. Look, I'll be honest with you too. I'm not only talking to you, I'm also talking to a company in Mexico and a big American company, and I'd be crazy not to.
     개리: 그렇다 치죠. 저도 솔직하게 말할게요. 그쪽하고만 얘기하는 거 아니에요. 멕시코 회사랑도, 큰 미국 회사랑도 얘기하고 있어요. 안 그러면 제가 미친 거죠.
 
 084. SAM: Which big American company? Can you at least tell me what they make?
@@ -291,16 +291,16 @@
 092. GLORIA: I read everything with a strong coffee.
     글로리아: 전 뭐든 진한 커피랑 읽어요.
 
-093. GARY: Then we'll get along fine. Sam, I'll be straight with you one more time, because I like you, but I don't buy motors because I like people, I buy them because the numbers work.
+093. GARY: Then we'll get along fine. Sam, I'll be straight with you one more time. I like you, but I don't buy motors because I like people. I buy them because the numbers work.
     개리: 그럼 잘 지내겠네요. 샘, 한 번 더 솔직하게 말할게요. 전 당신이 좋아요. 근데 사람이 좋아서 모터를 사진 않아요. 숫자가 맞아서 사죠.
 
 094. SAM: Then let's make the numbers work.
     샘: 그럼 숫자를 맞춰 보죠.
 
-095. GARY: That's what I wanted to hear, so drive safe, because the roads get bad south of Lima.
+095. GARY: That's what I wanted to hear. Drive safe, the roads get bad south of Lima.
     개리: 그 말이 듣고 싶었어요. 운전 조심해요, 라이마 남쪽은 길이 안 좋아지거든요.
 
-096. GLORIA: Okay, we're out of the parking lot, so now somebody say it, because I'm not going to be the first.
+096. GLORIA: Okay, we're out of the parking lot. Now somebody say it, because I'm not going to be the first.
     글로리아: 좋아, 주차장 빠져나왔어. 이제 누가 말 좀 해 봐. 난 먼저 안 할 거니까.
 
 097. SAM: Two hundred thousand motors a year.
@@ -318,13 +318,13 @@
 101. SAM: And it's a little too good to be true.
     샘: 그리고 좀 지나치게 좋아서 믿기 어렵죠.
 
-102. GLORIA: Thank you, but a little? Baby, let me do the math out loud, so you can hear how it sounds in a moving truck.
+102. GLORIA: Thank you, but a little? Baby, let me do the math out loud so you can hear how it sounds in a moving truck.
     글로리아: 고마워. 근데 좀? 얘, 내가 소리 내서 계산해 볼 테니 달리는 트럭 안에서 그게 어떻게 들리는지 들어 봐.
 
 103. SAM: Go ahead, I'm listening.
     샘: 해 보세요, 듣고 있어요.
 
-104. GLORIA: Two hundred thousand motors at fifty-four dollars is ten point eight million dollars a year, while our whole company made about nine million last year, so one customer would be bigger than all of us.
+104. GLORIA: Two hundred thousand motors at fifty-four dollars is ten point eight million dollars a year. Our whole company made about nine million last year, so one customer would be bigger than all of us.
     글로리아: 모터 20만 개에 54달러면 1년에 1,080만 달러야. 우리 회사 전체가 작년에 900만 달러쯤 벌었으니까, 고객 하나가 우리 전부보다 커지는 거지.
 
 105. WEN: Is that bad, though?
@@ -336,13 +336,13 @@
 107. SAM: But we'd still have Rivet, and the other bike shops.
     샘: 그래도 리벳이랑 다른 자전거 가게들은 남잖아요.
 
-108. GLORIA: Rivet is five thousand motors, and it ends in March. Sam, here's the part that keeps me up: to make two hundred thousand motors, you need machines, so how much, Wen, ballpark?
+108. GLORIA: Rivet is five thousand motors, and it ends in March. Sam, here's the part that keeps me up: to make two hundred thousand motors, you need machines. How much, Wen, ballpark?
     글로리아: 리벳은 모터 5천 개고, 3월에 끝나. 샘, 내가 잠 못 자는 부분은 여기야. 20만 개를 만들려면 기계가 필요하잖아. 얼마야, 웬? 대충.
 
 109. WEN: New winding machines, a second assembly line, test stands, and tooling would come to maybe three and a half million, maybe four.
     웬: 새 권선기, 두 번째 조립 라인, 시험대, 공구류까지 하면 350만 달러쯤, 어쩌면 400만이요.
 
-110. GLORIA: Four million dollars, when we have about fifteen weeks of cash and a loan on Sam's house, so where does four million dollars come from?
+110. GLORIA: Four million dollars. We have about fifteen weeks of cash and a loan on Sam's house, so where does four million dollars come from?
     글로리아: 400만 달러. 우린 현금이 15주치 정도 있고 샘 집에 대출이 하나 있는데, 400만 달러가 어디서 나와?
 
 111. SAM: Maybe from Haverford, because big companies sometimes pay for tooling up front.
@@ -360,7 +360,7 @@
 115. WEN: There's another problem, and it's not money, it's steel. Every motor needs a stack of thin steel sheets inside, the laminations, and our stamping shop in Dayton can do maybe forty thousand sets a year, not two hundred.
     웬: 문제가 하나 더 있어요. 돈 말고 강판이요. 모터마다 안에 얇은 강판을 쌓은 묶음, 라미네이션이 들어가는데, 데이턴의 우리 타발 업체는 1년에 4만 세트쯤밖에 못 해요. 20만은 안 돼요.
 
-116. SAM: So we find a bigger one, because there must be somebody in Ohio who can do it.
+116. SAM: So we find a bigger one. There must be somebody in Ohio who can do it.
     샘: 그럼 더 큰 데를 찾죠. 오하이오에 할 수 있는 데가 분명 있을 거예요.
 
 117. WEN: There aren't many in this country, and the good ones are already busy with car companies. But I know someone in Korea, from when we were in the same lab at Ohio State.
@@ -378,13 +378,13 @@
 121. SAM: Why Erin, what does she have to do with it?
     샘: 에린이요? 에린이 무슨 상관이에요?
 
-122. GLORIA: Erin gave you until June, Sam, and if things aren't getting better by June, you talk about selling, so does a four-million-dollar hole look like "getting better"?
+122. GLORIA: Erin gave you until June, Sam. If things aren't getting better by June, you talk about selling. Does a four-million-dollar hole look like "getting better"?
     글로리아: 에린이 6월까지 시간을 줬잖아, 샘. 6월까지 나아지는 게 없으면 매각 얘기 하기로. 400만 달러짜리 구멍이 '나아지는 것'처럼 보이니?
 
 123. SAM: A two-hundred-thousand-motor customer looks like getting better.
     샘: 20만 개짜리 고객은 나아지는 것처럼 보이죠.
 
-124. GLORIA: Only if they pay us, and only if they pay us on time, and we haven't even seen the contract yet, so remember that.
+124. GLORIA: Only if they pay us, and only if they pay us on time. We haven't even seen the contract yet, so remember that.
     글로리아: 그쪽이 돈을 줄 때만, 그것도 제때 줄 때만이야. 우린 아직 계약서도 못 봤어. 그거 기억해.
 
 125. SAM: I'll remember. Wen, write to your friend in Korea tonight, just to say hello.
@@ -408,7 +408,7 @@
 131. SAM: That's it, just "huh"?
     샘: 그게 다예요? 그냥 "허"?
 
-132. EARL: What do you want me to say? At Moraine we built a thousand trucks a day, so big doesn't scare me, but big and cheap scares me, so how cheap do they want it?
+132. EARL: What do you want me to say? At Moraine we built a thousand trucks a day, so big doesn't scare me. Big and cheap scares me. How cheap do they want it?
     얼: 뭐라고 해 주길 바라는데? 모레인에선 하루에 트럭 천 대를 만들었어. 큰 건 안 무서워. 크고 싼 게 무섭지. 얼마나 싸게 원한대?
 
 133. SAM: They want fifty-four dollars, and I said sixty-one.
@@ -426,25 +426,25 @@
 137. SAM: So how do I make them want our quality?
     샘: 그럼 어떻게 해야 우리 품질 때문에 원하게 만들죠?
 
-138. EARL: You put it on Betsy and let them watch, because you can argue about money all day, about tariffs, about China, about whatever's on the radio. But metal don't lie.
+138. EARL: You put it on Betsy and let them watch. You can argue about money all day, about tariffs, about China, about whatever's on the radio. But metal don't lie.
     얼: 베치에 올려놓고 보여 주는 거야. 돈이든 관세든 중국이든 라디오에 나오는 뭐든, 그런 건 하루 종일 싸울 수 있거든. 근데 쇠는 거짓말 안 해.
 
 139. SAM: "Metal don't lie," huh, is that even grammatically correct?
     샘: "쇠는 거짓말 안 해"라. 그거 문법적으로 맞긴 해요?
 
-140. EARL: It's been correct for forty years, so don't you start with me.
+140. EARL: It's been correct for forty years. Don't you start with me.
     얼: 40년 동안 맞았어. 그러니 나한테 시비 걸지 마.
 
-141. SAM: Okay, Earl, one more question. If we do this, everything changes, more people, more machines, maybe a new building, and this place won't feel like this anymore, so is that okay?
+141. SAM: Okay, Earl, one more question. If we do this, everything changes, with more people, more machines, maybe a new building, and this place won't feel like this anymore. Is that okay?
     샘: 알았어요. 얼, 하나만 더요. 이걸 하면 다 바뀌어요. 사람도, 기계도 늘고 어쩌면 새 건물도 생기고, 여기가 더는 이런 느낌이 아닐 거예요. 그래도 괜찮아요?
 
-142. EARL: Kid, I watched a plant with four thousand people close, so you know what I'd give to watch one grow? Don't you worry about how it feels, worry about whether it works.
+142. EARL: Kid, I watched a plant with four thousand people close. You know what I'd give to watch one grow? Don't you worry about how it feels, worry about whether it works.
     얼: 얘, 난 사천 명 있던 공장이 문 닫는 걸 봤어. 공장 하나 커지는 걸 볼 수 있다면 내가 뭘 내놓을 것 같냐? 느낌은 걱정하지 말고, 돌아가는지만 걱정해.
 
 143. SAM: Thanks, Earl, I mean it.
     샘: 고마워요, 얼. 진심이에요.
 
-144. EARL: Don't thank me, buy pizza for the night crew, because they heard you were in Findlay and they're nervous.
+144. EARL: Don't thank me, buy pizza for the night crew. They heard you were in Findlay, and they're nervous.
     얼: 고마워하지 말고 야간조한테 피자나 사. 네가 핀들레이 갔다는 거 듣고 다들 긴장했어.
 
 145. SAM: Why would they be nervous about that?
@@ -453,16 +453,16 @@
 146. EARL: Because when the boss goes to meet a big company, sometimes he comes back and says, "We've been sold." They remember November.
     얼: 사장이 큰 회사 만나러 가면, 가끔 돌아와서 "우리 팔렸어"라고 하거든. 다들 11월을 기억해.
 
-147. SAM: Then I'll tell them myself that nobody's being sold, because somebody wants to buy our motors, not us.
+147. SAM: Then I'll tell them myself that nobody's being sold. Somebody wants to buy our motors, not us.
     샘: 그럼 제가 직접 말할게요, 아무도 안 팔린다고요. 누가 우리를 사려는 게 아니라 우리 모터를 사려는 거니까요.
 
-148. EARL: Good, say it just like that. And your phone's lit up, so who's emailing you at ten at night?
+148. EARL: Good, say it just like that. And your phone's lit up. Who's emailing you at ten at night?
     얼: 좋아, 딱 그렇게 말해. 그리고 네 폰 불 들어왔다. 밤 열 시에 누가 이메일을 보내?
 
 149. SAM: Gary Holt. "Great meeting. Our standard supplier agreement will be in your inbox on Tuesday. Forty-two pages. You're going to love it."
     샘: 개리 홀트예요. "좋은 미팅이었어요. 우리 표준 공급 계약서는 화요일에 받은편지함에 들어갈 거예요. 42쪽. 마음에 드실 거예요."
 
-150. EARL: Forty-two pages? Nobody loves forty-two pages, so read the fine print, kid, every word.
+150. EARL: Forty-two pages? Nobody loves forty-two pages. Read the fine print, kid, every word.
     얼: 42쪽? 42쪽을 좋아하는 사람은 없어. 깨알 같은 글씨까지 읽어라, 얘. 한 글자도 빼지 말고.
 
 ---

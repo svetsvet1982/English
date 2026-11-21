@@ -15,34 +15,34 @@
 
 ## 대본
 
-001. JAYDEN: Turn it up, because the weather guy looks scared, and I've never seen the weather guy look scared.
+001. JAYDEN: Turn it up, the weather guy looks scared. I've never seen the weather guy look scared.
     제이든: 소리 좀 키워 봐요. 날씨 아저씨 표정이 겁먹었어요. 날씨 아저씨가 겁먹은 건 처음 봐요.
 
 002. PATTY: "Excessive heat warning for the Miami Valley through Wednesday. Heat index up to one hundred and eight. Check on elderly neighbors."
     패티: "수요일까지 마이애미 밸리 일대 폭염 경보. 체감온도 최고 화씨 108도. 노인 이웃의 안부를 확인하세요."
 
-003. DARNELL: My phone just did the loud alarm, because the grid operator is asking everybody to conserve power between two and seven.
+003. DARNELL: My phone just did the loud alarm. The grid operator is asking everybody to conserve power between two and seven.
     대넬: 방금 폰이 큰 경보음을 냈어요. 전력망 운영 기관이 두 시부터 일곱 시까지 다들 전기를 아껴 달래요.
 
 004. EARL: Conserve means set your thermostat to seventy-eight and suffer quietly.
     얼: 아껴라는 건 온도 조절기를 화씨 78도에 맞추고 조용히 고생하라는 뜻이지.
 
-005. GLORIA: It also means the people who run the grid are worried, because when they ask nicely, it's because they don't want to ask rudely.
+005. GLORIA: It also means the people who run the grid are worried. When they ask nicely, it's because they don't want to ask rudely.
     글로리아: 그건 전력망 운영하는 사람들이 걱정한다는 뜻이기도 해. 정중하게 부탁할 땐, 무례하게 부탁하기 싫어서야.
 
 006. LILY: Wait, is the factory going to shut down?
     릴리: 잠깐, 공장이 문 닫아요?
 
-007. SAM: No, because we already agreed to cut back in an emergency, so the paint oven goes off at two and everything else runs. Okay, everybody, what spins today?
+007. SAM: No. We already agreed to cut back in an emergency, so the paint oven goes off at two and everything else runs. Okay, everybody, what spins today?
     샘: 아니. 비상시엔 줄이기로 이미 약속해 뒀어. 도장 오븐은 두 시에 끄고 나머지는 다 돌아가. 자, 다들. 오늘 뭐 돌리지?
 
-008. EARL: We've got seat motors for Atlas, tractor motors, and whatever Tony needs, because he's called me four times since five a.m.
+008. EARL: We've got seat motors for Atlas, tractor motors, and whatever Tony needs. He's called me four times since five a.m.
     얼: 애틀라스 시트 모터, 트랙터 모터, 그리고 토니가 필요한 거 전부. 새벽 다섯 시부터 나한테 네 번 전화했어.
 
 009. TYLER: He called me six times, and the website got two hundred orders over the weekend, when normally it gets twenty.
     타일러: 저한텐 여섯 번 했어요. 그리고 주말에 웹사이트 주문이 200건 들어왔어요. 보통은 20건인데요.
 
-010. SAM: Lily, this is your first week, so welcome to Ferrox, and it's not always like this.
+010. SAM: Lily, this is your first week, so welcome to Ferrox. It's not always like this.
     샘: 릴리, 이번 주가 첫 주지. 페록스에 온 걸 환영해. 늘 이런 건 아니야.
 
 011. PATTY: It's always like this, sweetheart, and your father just likes to say that.
@@ -51,13 +51,13 @@
 012. SAM: Tony's on the line now, so I'll put him on speaker. Go ahead, Tony.
     샘: 토니가 지금 전화 연결됐어요. 스피커로 돌릴게요. 말해요, 토니.
 
-013. TONY: Sam, listen, I've got forty-one dead blowers on my list with more coming in every ten minutes, because the heat is killing the old motors, and they overheat and quit.
+013. TONY: Sam, listen. I've got forty-one dead blowers on my list, and more coming in every ten minutes. The heat is killing the old motors. They overheat and quit.
     토니: 샘! 들어 봐. 죽은 송풍기가 목록에 41대고, 10분마다 더 들어와. 더위가 옛날 모터들을 죽이고 있어. 과열돼서 멈춰.
 
 014. SAM: How many FX-B1s do you have left in the garage?
     샘: 차고에 FX-B1 몇 개 남았어요?
 
-015. TONY: Eleven, because the breakfast club took the rest on Friday and Saturday, and Mike drove down from Akron at midnight with an empty van.
+015. TONY: Eleven. The breakfast club took the rest on Friday and Saturday, and Mike drove down from Akron at midnight with an empty van.
     토니: 열한 개. 나머진 금요일, 토요일에 조찬 클럽이 다 가져갔어. 마이크는 자정에 빈 밴 끌고 애크런에서 내려왔어.
 
 016. GLORIA: We delivered two hundred last Monday, and they're gone in a week?
@@ -75,19 +75,19 @@
 020. WEN: Is it one of our five brackets?
     웬: 우리 브래킷 다섯 종 중 하나예요?
 
-021. TONY: No, and that's my problem, because it's a compact unit with a smaller mount, the factory motor is backordered until July, and Buckeye has nine in the whole state.
+021. TONY: No, and that's my problem. It's a compact unit with a smaller mount. The factory motor is backordered until July, and Buckeye has nine in the whole state.
     토니: 아니. 그게 문제야. 소형 장비라 장착부가 더 작아. 공장 모터는 7월까지 입고 대기고, 벅아이엔 주 전체에 아홉 개뿐이야.
 
 022. SAM: How many are dead in that building?
     샘: 그 건물에 몇 대나 죽었어요?
 
-023. TONY: Forty-four so far, so the manager is moving people into the community room, which has one big AC that still works, and there are eighty-year-olds on folding chairs.
+023. TONY: Forty-four so far. The manager is moving people into the community room, because it has one big AC that still works. There are eighty-year-olds on folding chairs.
     토니: 지금까지 44대. 관리소장이 사람들을 주민 회의실로 옮기고 있어. 큰 에어컨 하나가 아직 돌아가거든. 여든 넘은 분들이 접이식 의자에 앉아 계셔.
 
-024. LILY: That's horrible, so can't they just open the windows?
+024. LILY: That's horrible. Can't they just open the windows?
     릴리: 끔찍해요. 그냥 창문 열면 안 돼요?
 
-025. TONY: It's dangerous, kid, because old people don't feel heat the way you do and they don't feel thirsty, so they sit there and say they're fine, and then they stand up and fall down.
+025. TONY: It's dangerous, kid. Old people don't feel heat the way you do, and they don't feel thirsty. They sit there and say they're fine, and then they stand up and fall down.
     토니: 위험해, 꼬마야. 노인들은 너처럼 더위를 못 느껴. 목마른 것도 못 느끼고. 괜찮다고 앉아 있다가 일어나면 쓰러지는 거야.
 
 026. SAM: Wen, how fast can you do a sixth bracket?
@@ -105,13 +105,13 @@
 030. SAM: How many FX-B1s are built and sitting on the shelf right now, Earl?
     샘: 얼, 지금 다 만들어져서 선반에 있는 FX-B1이 몇 개예요?
 
-031. EARL: Sixty are tested on Betsy and boxed, and another hundred and twenty have motors but no control modules, because the modules came Friday.
+031. EARL: Sixty are tested on Betsy and boxed. Another hundred and twenty have motors but no control modules, since the modules only came Friday.
     얼: 베치로 테스트하고 포장까지 한 게 60개. 모터는 있는데 제어 모듈이 없는 게 120개 더 있어. 모듈이 금요일에 왔거든.
 
 032. GLORIA: Earl, what's stopping you from finishing them?
     글로리아: 얼, 그거 마무리하는 데 뭐가 걸려?
 
-033. EARL: People, because everybody's on Atlas and the tractors, and if I pull them, the Atlas truck leaves short tomorrow.
+033. EARL: People. Everybody's on Atlas and the tractors, and if I pull them, the Atlas truck leaves short tomorrow.
     얼: 사람이지. 다들 애틀라스랑 트랙터에 붙어 있어. 그 사람들 빼면 내일 애틀라스 트럭이 물량 모자란 채로 떠나.
 
 034. SAM: Then we don't pull them, we add people, meaning everybody who isn't on a line, the office, sales, and me.
@@ -120,28 +120,28 @@
 035. GLORIA: Me? Sam, I count the money, I don't build the money.
     글로리아: 나? 샘, 난 돈을 세지, 돈을 만들진 않아.
 
-036. SAM: Yes, you, Gloria, because it's all hands on deck, so can you put a control module on a motor?
+036. SAM: Yes, you, Gloria. It's all hands on deck. Can you put a control module on a motor?
     샘: 네, 글로리아도요. 전원 총동원이에요. 모터에 제어 모듈 달 수 있어요?
 
-037. GLORIA: Baby, I put four kids' bikes together on Christmas Eve, alone, with instructions in Swedish, so give me a screwdriver.
+037. GLORIA: Baby, I put four kids' bikes together on Christmas Eve, alone, with instructions in Swedish. Give me a screwdriver.
     글로리아: 얘, 난 크리스마스이브에 혼자서 스웨덴어 설명서 보고 애들 자전거 네 대를 조립한 사람이야. 드라이버 줘.
 
 038. TYLER: I'll take the website orders, and then I'm on the boxing table.
     타일러: 전 웹사이트 주문 처리하고 포장 테이블로 갈게요.
 
-039. LILY: Me too, so Earl, tell me what to do, and you don't need to be nice, just tell me.
+039. LILY: Me too. Earl, tell me what to do. You don't need to be nice, just tell me.
     릴리: 저도요. 얼, 뭐 할지 말해 줘요. 친절할 필요 없어요. 그냥 말해 줘요.
 
 040. EARL: That's your grandpa talking. Okay, Patty, you're the boss of the module table. Let's see if it spins.
     얼: 그건 네 할아버지 말투다. 좋아, 패티, 네가 모듈 테이블 반장이야. 일단 돌려 보자.
 
-041. PATTY: Okay, office people, listen to me, because the module goes on with four screws, not three and not five, and then the connector clicks, and if it doesn't click, it's not in.
+041. PATTY: Okay, office people, listen to me. The module goes on with four screws, not three and not five. Then the connector clicks, and if it doesn't click, it's not in.
     패티: 자, 사무실 사람들, 잘 들어. 모듈은 나사 네 개로 달아. 세 개도 다섯 개도 아니고 네 개. 그다음 커넥터가 딸깍해야 해. 딸깍 안 하면 안 들어간 거야.
 
-042. GLORIA: Four screws and a click, so I can do that.
+042. GLORIA: Four screws and a click, I think I can handle that.
     글로리아: 나사 네 개에 딸깍. 그건 할 수 있어.
 
-043. PATTY: Then you put it on the cart for Betsy, because nobody puts anything in a box until Betsy says yes.
+043. PATTY: Then you put it on the cart for Betsy. Nobody puts anything in a box until Betsy says yes.
     패티: 그다음 베치행 카트에 올려. 베치가 오케이 하기 전엔 아무도 상자에 안 넣어.
 
 044. TYLER: Even today, with a senior building waiting?
@@ -150,10 +150,10 @@
 045. EARL: Especially today. A motor that fails in that building tonight is worse than no motor at all, because people stop watching for the heat. Metal don't lie, and neither does Betsy.
     얼: 오늘 같은 날은 더더욱. 오늘 밤 그 건물에서 고장 나는 모터는 모터가 없는 것보다 나빠. 사람들이 더위를 경계하지 않게 되니까. 쇠는 거짓말 안 하고, 베치도 안 해.
 
-046. WEN: Earl, Nicky's photo came in, and the compact mount is a ninety-millimeter bolt circle while ours are a hundred and two, so I can draw an adapter plate in twenty minutes.
+046. WEN: Earl, Nicky's photo came in. The compact mount is a ninety-millimeter bolt circle, and ours are a hundred and two. I can draw an adapter plate in twenty minutes.
     웬: 얼, 니키 사진 왔어요. 소형 장착부는 볼트 원 지름이 90밀리고 우리 건 102예요. 어댑터 판은 20분이면 그려요.
 
-047. EARL: Then draw it. Darnell, get the shear and the brake warmed up, because we're bending steel by hand.
+047. EARL: Then draw it. Darnell, get the shear and the brake warmed up. We're bending steel by hand.
     얼: 그럼 그려. 대넬, 절단기랑 절곡기 예열해. 손으로 강판 구부린다.
 
 048. DARNELL: How many do you need, Earl? Give me a number.
@@ -165,10 +165,10 @@
 050. WEN: I don't break things on the first try, I break them on the second.
     웬: 전 첫 시도엔 안 망가뜨려요. 두 번째에 망가뜨리죠.
 
-051. JAYDEN: Hey, Lily, you're doing the labels wrong, because the serial number goes on the left so the contractor can see it with the box in the truck.
+051. JAYDEN: Hey, Lily, you're doing the labels wrong. The serial number goes on the left, so the contractor can see it with the box in the truck.
     제이든: 야, 릴리. 라벨 잘못 붙이고 있어. 일련번호는 왼쪽이야. 상자가 트럭에 있어도 업체가 볼 수 있게.
 
-052. LILY: Oh, thanks, so who decided that?
+052. LILY: Oh, thanks for telling me. Who decided that?
     릴리: 아, 고마워. 그거 누가 정했어?
 
 053. JAYDEN: I did, last week, after Tony complained.
@@ -183,7 +183,7 @@
 056. SAM: Okay, who has a module that won't click?
     샘: 자, 딸깍 안 되는 모듈 누구 거예요?
 
-057. GLORIA: Me, because it won't click, and I'm pushing, and I'm a strong woman, but it's not clicking.
+057. GLORIA: Me. It won't click, even though I'm pushing as hard as a strong woman can push.
     글로리아: 나. 딸깍을 안 해. 누르고 있어. 나 힘센 여자야. 근데 안 돼.
 
 058. PATTY: It's upside down, Gloria.
@@ -195,25 +195,25 @@
 060. TYLER: I'm telling absolutely everybody.
     타일러: 전 모두한테 다 말할 거예요.
 
-061. EARL: The first twenty modules went through Betsy and all twenty passed, with normal current draw and normal noise, so good work, office people.
+061. EARL: The first twenty modules went through Betsy, and all twenty passed with normal current draw and normal noise. Good work, office people.
     얼: 첫 모듈 스무 개 베치 통과했어. 스무 개 전부 합격. 전류도 정상, 소음도 정상. 잘했어, 사무실 사람들.
 
-062. WEN: The first adapter plate fits Nicky's photo within half a millimeter, so Darnell, make fifty-three more.
+062. WEN: The first adapter plate fits Nicky's photo within half a millimeter. Darnell, make fifty-three more.
     웬: 첫 어댑터 판이 니키 사진이랑 0.5밀리 안으로 맞아요. 대넬, 53개 더 만들어요.
 
 063. DARNELL: Fifty-three by hand, in this heat?
     대넬: 53개를 손으로요? 이 더위에?
 
-064. SAM: I'll bend, so show me once.
+064. SAM: I'll bend. Show me once how it's done.
     샘: 내가 구부릴게. 한 번만 보여 줘.
 
-065. DARNELL: You? Okay, boss, the steel goes in here, you line it up with the mark, and you put your foot down slow, really slow, because if you go fast, the corner cracks.
+065. DARNELL: You? Okay, boss. The steel goes in here, you line it up with the mark, and you put your foot down slow. Really slow, because if you go fast, the corner cracks.
     대넬: 사장님이요? 좋아요. 강판은 여기 넣고, 표시에 맞추고, 발은 천천히 내려요. 진짜 천천히요. 빨리 하면 모서리가 갈라져요.
 
 066. SAM: Slow is smooth. Smooth is fast.
     샘: 천천히 하면 매끄럽고. 매끄러우면 빠르다.
 
-067. DARNELL: That's an Army thing, so who told you that?
+067. DARNELL: That's an Army thing, though. Who told you that one?
     대넬: 그거 군대 말인데요. 누가 알려 줬어요?
 
 068. SAM: Tyler did, every time I rush him.
@@ -222,7 +222,7 @@
 069. GLORIA: Sam, I hate to be the money lady in the middle of a good deed, but I have to be.
     글로리아: 샘, 좋은 일 하는 중에 돈 얘기하는 아줌마 되기 싫지만 해야겠어.
 
-070. SAM: Go ahead, Gloria, because I'm bending steel but I'm listening.
+070. SAM: Go ahead, Gloria. I'm bending steel, but I'm listening.
     샘: 말해요, 글로리아. 강판 구부리고 있지만 듣고 있어요.
 
 071. GLORIA: The two hundred motors at Tony's are on consignment, and the contractors who took them owe us in thirty days, and so far eighteen have paid and thirty-one haven't.
@@ -237,22 +237,22 @@
 074. SAM: I don't know yet, but I'll ask the manager tonight.
     샘: 아직 몰라요. 오늘 밤에 관리소장한테 물어볼게요.
 
-075. GLORIA: Ask before you install, baby, not after, because after, everybody forgets.
+075. GLORIA: Ask before you install, baby, not after. After, everybody forgets.
     글로리아: 설치하기 전에 물어, 얘. 후에 말고. 후엔 다들 까먹어.
 
 076. SAM: And what if they can't pay?
     샘: 못 내면요?
 
-077. GLORIA: Then we decide that with our eyes open, because I'm not saying no, I'm saying write it down.
+077. GLORIA: Then we decide that with our eyes open. I'm not saying no, I'm saying write it down.
     글로리아: 그럼 눈 똑바로 뜨고 결정하는 거야. 안 된다는 게 아니라 적어 두라는 거야.
 
-078. EARL: Sam, it's two o'clock, so the paint oven's going off, because the grid's asking.
+078. EARL: Sam, it's two o'clock. The paint oven's going off, because the grid's asking.
     얼: 샘! 두 시야. 도장 오븐 끈다. 전력망이 요청했어.
 
 079. SAM: Turn it off. Wen, does that slow us down?
     샘: 꺼요. 웬, 그거 때문에 늦어져요?
 
-080. WEN: Not for the FX-B1, because the adapter plates don't need paint, and bare steel inside a closet is fine, since nobody will see it except a contractor and a spider.
+080. WEN: Not for the FX-B1. The adapter plates don't need paint, and bare steel inside a closet is fine. Nobody will see it except a contractor and a spider.
     웬: FX-B1은 아니에요. 어댑터 판은 도장이 필요 없어요. 벽장 안이면 맨 강판도 괜찮아요. 볼 건 업체 기사랑 거미뿐이에요.
 
 081. TYLER: Okay, the count is sixty boxed this morning plus sixty-one more through Betsy since lunch, and fifty-four adapter plates.
@@ -261,7 +261,7 @@
 082. EARL: Minus the four that Sam cracked.
     얼: 샘이 갈라 먹은 네 개 빼고.
 
-083. SAM: It was three, because one was already cracked.
+083. SAM: It was three, actually, because one was already cracked when I got it.
     샘: 세 개예요. 하나는 원래 갈라져 있었어요.
 
 084. EARL: Metal don't lie, Sam.
@@ -270,10 +270,10 @@
 085. SAM: Load the van, and Tyler and Lily, you're with me. Earl, call Tony and tell him we're coming with a hundred and twenty-one motors.
     샘: 밴에 실어. 타일러, 릴리, 나랑 가자. 얼, 토니한테 전화해서 모터 121개 들고 간다고 해 줘요.
 
-086. ERIN: Sam? I only have two minutes, so are you driving?
+086. ERIN: Sam? I only have two minutes before I go back in. Are you driving?
     에린: 샘? 2분밖에 없어. 운전 중이야?
 
-087. SAM: Tyler's driving, and I'm in the back with a hundred motors and our daughter, so how are you?
+087. SAM: Tyler's driving, and I'm in the back with a hundred motors and our daughter. How are you doing?
     샘: 타일러가 운전해. 난 뒤에 모터 백 개랑 우리 딸이랑 있어. 당신은 어때?
 
 088. ERIN: Honestly, it's the worst day of the summer, and it's only June. We've had nine heat cases since noon, and two were bad, including one man who came in at a hundred and six degrees.
@@ -297,7 +297,7 @@
 094. ERIN: The neighbor said the Wayne Avenue apartments, the old brick ones, but why?
     에린: 이웃이 웨인 애비뉴 아파트래. 오래된 벽돌 건물. 왜?
 
-095. SAM: Because I can't fix a hundred and six degrees, but I can fix a fan. Hold on, and Tyler, call Reggie, because he's in Kettering, ten minutes from Wayne Avenue.
+095. SAM: Because I can't fix a hundred and six degrees, but I can fix a fan. Hold on. Tyler, call Reggie, he's in Kettering, ten minutes from Wayne Avenue.
     샘: 화씨 106도는 내가 못 고쳐. 근데 팬은 고칠 수 있어. 잠깐만. 타일러, 레지한테 전화해. 케터링에 있으니까 웨인 애비뉴에서 10분 거리야.
 
 096. TYLER: I'm calling him now, and he picked up on the first ring.
@@ -309,34 +309,34 @@
 098. SAM: I know, but I can fix the ones I hear about.
     샘: 알아. 근데 내 귀에 들어온 건 고칠 수 있어.
 
-099. ERIN: That's what I do too, which is triage, because you treat what's in front of you and you try not to think about the people who never made it to the door.
+099. ERIN: That's what I do too. It's called triage. You treat what's in front of you, and you try not to think about the people who never made it to the door.
     에린: 나도 그래. 그게 중증도 분류야. 눈앞에 있는 사람을 치료하고, 끝내 문까지 못 온 사람들은 생각 안 하려고 애쓰는 거지.
 
 100. REGGIE: Sam? Tyler says you've got a building on Wayne Avenue.
     레지: 샘? 타일러 말로는 웨인 애비뉴에 건물 하나가 있다며.
 
-101. SAM: Reggie, it's an old brick building, and a man went to the hospital from there today because his AC died Saturday, and I don't know how many others are down.
+101. SAM: Reggie, it's an old brick building. A man went to the hospital from there today, because his AC died Saturday, and I don't know how many others are down.
     샘: 레지, 오래된 벽돌 건물이에요. 오늘 거기서 한 분이 병원에 실려 갔어요. 토요일에 에어컨이 죽었대요. 다른 데도 몇 세대나 고장 났는지 몰라요.
 
-102. REGGIE: I know that building, because I serviced it in 2019, and the landlord is cheap, but he's not evil, so I'll go now and knock on doors.
+102. REGGIE: I know that building, I serviced it in 2019. The landlord is cheap, but he's not evil. I'll go now and knock on doors.
     레지: 그 건물 알아요. 2019년에 정비했어요. 집주인이 짜긴 해도 악당은 아니에요. 지금 가서 문 두드려 볼게요.
 
-103. SAM: Earl has ten FX-B1s left on the shelf and Wen has spare adapter plates, so pick them up on your way, and don't worry about paying today, because we'll sort it out later.
+103. SAM: Earl has ten FX-B1s left on the shelf, and Wen has spare adapter plates. Pick them up on your way. Don't worry about paying today, we'll sort it out later.
     샘: 얼한테 선반에 FX-B1 열 개 남았고, 웬한테 예비 어댑터 판이 있어요. 가는 길에 챙겨 가요. 오늘 돈 걱정은 하지 말고요. 나중에 정리해요.
 
 104. REGGIE: Gloria's going to call me about that.
     레지: 그거 때문에 글로리아가 저한테 전화하겠네요.
 
-105. SAM: Probably, so answer when she does.
+105. SAM: Probably, so just answer when she does.
     샘: 아마요. 오면 받으세요.
 
-106. ERIN: I have to go, because somebody's coming in from a softball game. Sam?
+106. ERIN: I have to go, somebody's coming in from a softball game. Sam?
     에린: 끊어야 해. 소프트볼 경기 하다 누가 실려 와. 샘?
 
 107. SAM: Yeah, I'm still here.
     샘: 응, 듣고 있어.
 
-108. ERIN: Drink water, because you never drink water when you're fixing something, and make Lily drink water too.
+108. ERIN: Drink water. You never drink water when you're fixing something. And make Lily drink water too.
     에린: 물 마셔. 당신 뭐 고칠 땐 절대 물을 안 마시잖아. 릴리도 물 마시게 하고.
 
 109. LILY: I'm drinking it right now, Mom, but Dad isn't.
@@ -369,31 +369,31 @@
 118. TYLER: I'm just going to keep driving and not hear anything.
     타일러: 전 그냥 운전하면서 아무것도 못 들은 걸로 할게요.
 
-119. SAM: Thanks, Tyler. Lily, you're right, because I've been saying "after this" for ten years, after this order, after this lawsuit, so after this summer I'm going to fix that too.
+119. SAM: Thanks, Tyler. Lily, you're right. I've been saying "after this" for ten years, after this order, after this lawsuit. After this summer, I'm going to fix that too.
     샘: 고마워, 타일러. 릴리, 네 말이 맞아. 10년 동안 "이것만 끝나면"이라고 했어. 이 주문만, 이 소송만. 이번 여름 끝나면 그것도 고칠게.
 
-120. LILY: After this summer I'm at Purdue, so fix it before then.
+120. LILY: After this summer I'm at Purdue. Fix it before then.
     릴리: 이번 여름 끝나면 전 퍼듀에 있어요. 그 전에 고쳐요.
 
 121. LORRAINE: Mr. Kowalski? I'm Lorraine Fitch, and I manage Maple Court, and Tony said you were bringing a miracle in a van.
     로레인: 코왈스키 씨? 로레인 피치예요. 메이플 코트 관리소장이에요. 토니 말로는 밴에 기적을 싣고 오신다던데요.
 
-122. SAM: It's a hundred and twenty-one motors and three tired people, so how is everyone?
+122. SAM: It's a hundred and twenty-one motors and three tired people. How is everyone?
     샘: 모터 121개랑 지친 사람 셋이요. 다들 어떠세요?
 
 123. LORRAINE: The community room has ninety people in a space for sixty, and the fire department came by twice, and we sent two residents to the hospital as a precaution, but both are okay.
     로레인: 주민 회의실이 예순 명 공간에 아흔 명이에요. 소방서가 두 번 다녀갔고, 예방 차원에서 입주민 두 분을 병원에 보냈어요. 두 분 다 괜찮으세요.
 
-124. TONY: Nicky and my guys have already pulled thirty dead motors, so Sam, I need the adapters right now, so give me the box.
+124. TONY: Nicky and my guys have already pulled thirty dead motors. Sam, I need the adapters right now. Give me the box.
     토니: 니키랑 우리 애들이 벌써 죽은 모터 서른 개 뺐어. 샘, 어댑터 지금 당장 필요해. 상자 줘.
 
-125. SAM: Lorraine, before we start, I have to ask you something awkward, because my CFO made me promise, and that's who pays for these.
+125. SAM: Lorraine, before we start, I have to ask you something awkward, because my CFO made me promise. Who pays for these?
     샘: 로레인, 시작하기 전에 곤란한 걸 하나 여쭤야 해요. 우리 CFO랑 약속했거든요. 이건 누가 내요?
 
-126. LORRAINE: The owner is a nonprofit with an emergency repair budget that's small, very small, so I can pay for twenty today, and the rest I'll have to take to the board.
+126. LORRAINE: The owner is a nonprofit with an emergency repair budget, and it's small, very small. I can pay for twenty today. The rest I'll have to take to the board.
     로레인: 소유주가 비영리 단체라 긴급 수리 예산이 있어요. 적어요, 아주 적어요. 오늘은 스무 개 값은 낼 수 있어요. 나머진 이사회에 올려야 하고요.
 
-127. SAM: Then install all forty-four tonight, pay for twenty, and take the rest to your board, and if the board says no, we'll talk, because nobody sleeps in a folding chair.
+127. SAM: Then install all forty-four tonight, pay for twenty, and take the rest to your board. If the board says no, we'll talk. Nobody sleeps in a folding chair.
     샘: 그럼 오늘 밤에 44개 다 달아요. 스무 개 값만 내시고 나머진 이사회에 올리세요. 이사회가 안 된다고 하면 그때 얘기해요. 접이식 의자에서 자는 사람은 없어야죠.
 
 128. LORRAINE: Are you sure about that?
@@ -408,40 +408,40 @@
 131. SAM: I'm one of them, and my name's Sam.
     샘: 그중 하나예요. 샘이라고 해요.
 
-132. CLARENCE: I'm Clarence Boyd from apartment 3C, and I'm seventy-nine. I was in Vietnam in '68 and thought that was the hottest place I'd ever be, but I was wrong, because it's my apartment.
+132. CLARENCE: I'm Clarence Boyd, apartment 3C, and I'm seventy-nine. I was in Vietnam in '68, and I thought that was the hottest place I'd ever be. I was wrong. It's my apartment.
     클래런스: 클래런스 보이드요. 3C호. 일흔아홉이오. 68년에 베트남에 있었는데, 거기가 평생 제일 더운 곳일 줄 알았지. 틀렸어. 내 아파트요.
 
 133. SAM: We'll get you home tonight, sir.
     샘: 오늘 밤엔 댁으로 가시게 해 드릴게요, 어르신.
 
-134. CLARENCE: I worked twenty-six years at the Fisher Body plant here in Columbus, so who builds your motors?
+134. CLARENCE: I worked twenty-six years at the Fisher Body plant here in Columbus. Who builds your motors?
     클래런스: 여기 콜럼버스 피셔 바디 공장에서 26년 일했소. 당신네 모터는 누가 만드오?
 
-135. SAM: People in Moraine do, and some of them used to build trucks, because my dad was at the GM plant there.
+135. SAM: People in Moraine, and some of them used to build trucks. My dad was at the GM plant there.
     샘: 모레인 사람들이요. 몇은 예전에 트럭 만들던 사람들이고요. 저희 아버지도 거기 GM 공장에 계셨어요.
 
-136. CLARENCE: Moraine, then it'll hold up, so tell your father a Fisher Body man said that.
+136. CLARENCE: Moraine, huh? Then it'll hold up. Tell your father a Fisher Body man said that.
     클래런스: 모레인이라. 그럼 오래 버티겠군. 피셔 바디 사람이 그랬다고 아버지께 전하시오.
 
 137. LILY: Mr. Boyd, would you like some water? You really should drink some water.
     릴리: 보이드 할아버지, 물 좀 드실래요? 물 꼭 드셔야 해요.
 
-138. CLARENCE: My granddaughter says the same thing, because every girl your age is a nurse.
+138. CLARENCE: My granddaughter says the same thing. Every girl your age is a nurse.
     클래런스: 우리 손녀도 똑같은 소리를 하지. 네 또래 여자애들은 다 간호사야.
 
 139. LILY: My mom's a nurse and I'm going to be an engineer, but I can still make you drink water.
     릴리: 저희 엄마가 간호사예요. 전 엔지니어 될 거고요. 그래도 물은 드시게 할 수 있어요.
 
-140. TONY: Three-C, Clarence, your blower's in and Nicky just programmed it, so go feel your living room.
+140. TONY: Three-C! Clarence, your blower's in, and Nicky just programmed it. Go feel your living room.
     토니: 3C! 클래런스, 송풍기 달았어요. 니키가 방금 프로그래밍했어요. 거실 가서 느껴 보세요.
 
-141. CLARENCE: Well, I'll be damned, it's cold air, so young man, you just got a Christmas card for the rest of my life.
+141. CLARENCE: Well, I'll be damned, that's cold air. Young man, you just got a Christmas card for the rest of my life.
     클래런스: 허, 이거 참. 찬 바람이네. 젊은이, 내 남은 평생 크리스마스카드 받게 됐소.
 
 142. NICKY: Uncle Tony, that's twelve with thirty-two to go, and I need more adapters on the third floor.
     니키: 삼촌, 열두 개 했어요. 서른두 개 남았어요. 3층에 어댑터 더 필요해요.
 
-143. TONY: Sam, go up to the third floor, because owners carry adapters.
+143. TONY: Sam, go up to the third floor. Owners carry adapters.
     토니: 샘, 3층으로 가. 사장은 어댑터 나르는 거야.
 
 144. TYLER: Sam, your phone's ringing, and it's Reggie.
@@ -459,7 +459,7 @@
 148. TYLER: Sam, it's eleven o'clock, and Ben's calling for the third time.
     타일러: 샘, 열한 시예요. 벤이 세 번째 전화해요.
 
-149. BEN: Sam, where are you? Never mind, because Kevin's deposition starts at nine tomorrow morning and Calloway is sending three lawyers, so I need you in that room, awake.
+149. BEN: Sam, where are you? Never mind. Kevin's deposition starts at nine tomorrow morning, and Calloway is sending three lawyers. I need you in that room, awake.
     벤: 샘, 어디야? 됐어, 말하지 마. 케빈 증언 녹취가 내일 아침 아홉 시에 시작해. 캘러웨이가 변호사 셋을 보낸대. 너 그 방에 있어야 해. 깨어 있는 채로.
 
 150. SAM: I'm on the third floor of a senior building in Columbus with thirty-two motors to go, but I'll be there, Ben, and I'll be awake, probably.

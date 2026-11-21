@@ -30,10 +30,10 @@
 005. PATTY: I saw my retirement account, and I'm trying not to look at it again until summer.
     패티: 제 퇴직연금 계좌 봤어요. 여름까지는 다시 안 보려고요.
 
-006. DARNELL: It'll come back, because it always does in the long term.
+006. DARNELL: It'll come back. In the long term, it always does.
     대넬: 회복될 거예요. 길게 보면 늘 그래요.
 
-007. PATTY: Darnell, I'm fifty-two, so I don't have a lot of "long term" left.
+007. PATTY: Darnell, I'm fifty-two. I don't have a lot of "long term" left.
     패티: 대넬, 나 쉰둘이야. '장기'라는 게 나한텐 별로 안 남았어.
 
 008. GLORIA: Okay, okay, that's not the news I want to talk about, so, Sam, tell them the other one.
@@ -42,7 +42,7 @@
 009. SAM: Last week, Washington said it's going to review the efficiency standards for home appliances like washing machines, dryers, and air conditioners, and some of the rules might be delayed or even rolled back.
     샘: 지난주에 워싱턴이 세탁기, 건조기, 에어컨 같은 가전제품 효율 기준을 재검토하겠다고 했어. 일부 규정은 연기되거나 철회될 수도 있대.
 
-010. DARNELL: Is that bad for us, because honestly, I thought fewer rules was good for small companies?
+010. DARNELL: Is that bad for us? Honestly, I thought fewer rules was good for small companies.
     대넬: 그게 우리한테 안 좋은 거예요? 솔직히 전 규제가 줄면 작은 회사한테 좋은 줄 알았는데요.
 
 011. SAM: Sometimes it is, and that's a fair question. Wen, can you explain what the standard actually is?
@@ -51,7 +51,7 @@
 012. WEN: An efficiency standard is a minimum, where the government says, "Every washer sold in America must use less than this much energy and water," and if your machine uses more, you can't sell it.
     웬: 효율 기준은 최저선이에요. 정부가 "미국에서 팔리는 세탁기는 전부 에너지랑 물을 이만큼보다 적게 써야 한다"고 정하는 거죠. 기계가 그보다 많이 쓰면 못 팔아요.
 
-013. EARL: In plain English, it's a floor, so you can be better, but you can't be worse.
+013. EARL: In plain English, it's a floor. You can be better, but you can't be worse.
     얼: 쉬운 말로 하면 바닥이야. 더 좋을 순 있어도 더 나쁠 순 없는 거지.
 
 014. WEN: Exactly, and last year a new, stricter standard for washers was finalized, which companies have until 2028 to meet. Our motor meets it easily, but the cheap motors don't.
@@ -72,13 +72,13 @@
 019. DARNELL: I'm not saying no rules, Earl, I'm saying fewer of them, and slower.
     대넬: 규정을 없애자는 게 아니에요, 얼. 줄이고, 천천히 바꾸자는 거죠.
 
-020. PATTY: I'm saying cheaper washers, because my dryer is from 2006, and if the new ones cost more because of some rule, I'm keeping mine until it catches fire.
+020. PATTY: I'm saying cheaper washers. My dryer is from 2006, and if the new ones cost more because of some rule, I'm keeping mine until it catches fire.
     패티: 전 세탁기가 싸야 한다는 쪽이에요. 제 건조기가 2006년 거거든요. 무슨 규정 때문에 새 게 더 비싸면 불날 때까지 그냥 쓸 거예요.
 
 021. GLORIA: So we've got the whole country in one huddle.
     글로리아: 허들 하나에 나라 전체가 다 있네.
 
-022. SAM: We do, and everybody's a little bit right, because Darnell's right that rules can hurt small businesses, Earl's right that some rules protect people, and Patty's right that prices matter.
+022. SAM: We do, and everybody's a little bit right. Darnell's right that rules can hurt small businesses, Earl's right that some rules protect people, and Patty's right that prices matter.
     샘: 그러네요. 다들 조금씩 맞아. 대넬 말대로 규정이 작은 사업체를 힘들게 할 수 있고, 얼 말대로 어떤 규정은 사람을 지켜 주고, 패티 말대로 가격이 중요하지.
 
 023. TYLER: And what are we right about, then?
@@ -87,19 +87,19 @@
 024. SAM: We're right that we built a better motor because the rules said it had to be better, and now the rules might change in the middle of the game.
     샘: 우리는 규정이 더 좋아야 한다고 해서 더 좋은 모터를 만들었다는 게 맞지. 그리고 이제 경기 도중에 규칙이 바뀔 수도 있다는 거고.
 
-025. GLORIA: Which is the part that worries me, not the rule but the change, because you can plan for strict and you can plan for easy, but you can't plan for "maybe."
+025. GLORIA: Which is the part that worries me, not the rule but the change. You can plan for strict and you can plan for easy, but you can't plan for "maybe."
     글로리아: 내가 걱정하는 게 그 부분이야. 규정이 아니라 변경. 엄격한 것도 느슨한 것도 대비할 수 있지만, '어쩌면'은 대비를 못 해.
 
 026. EARL: So what do we do, write a letter to the government, like that ever works?
     얼: 그래서 어쩌자고? 정부에 편지라도 써? 그게 퍽이나 통하겠다.
 
-027. SAM: Actually, I already did, sort of, because I filled out the contact form on our senator's website on Friday.
+027. SAM: Actually, I already did, sort of. I filled out the contact form on our senator's website on Friday.
     샘: 사실 비슷한 건 이미 했어요. 금요일에 우리 주 상원의원 웹사이트 문의 양식을 작성했거든요.
 
-028. TYLER: The contact form? Sam, nobody reads the contact form, because that goes straight to an intern's spam folder.
+028. TYLER: The contact form? Sam, nobody reads the contact form. That goes straight to an intern's spam folder.
     타일러: 문의 양식이요? 샘, 그거 아무도 안 읽어요. 바로 인턴 스팸 폴더로 가요.
 
-029. SAM: Somebody read it, because a woman named Kayla Reese who works for the senator called yesterday, and I'm calling her back at nine.
+029. SAM: Somebody read it. A woman named Kayla Reese who works for the senator called yesterday, and I'm calling her back at nine.
     샘: 누군가는 읽었어. 상원의원실에서 일하는 케일라 리스라는 사람이 어제 전화했거든. 아홉 시에 다시 전화하기로 했어.
 
 030. TYLER: Wait, seriously, the form actually worked?
@@ -111,19 +111,19 @@
 032. WEN: Those are actually four words.
     웬: 그거 사실 네 단어예요.
 
-033. SAM: Two ideas, then. Wen, can you be in the call, because she'll ask technical questions?
+033. SAM: Two ideas, then. Wen, can you be in the call? She'll ask technical questions.
     샘: 그럼 아이디어 두 개. 웬, 통화에 같이 있어 줄래요? 기술 질문을 할 거예요.
 
 034. WEN: I'll be there, and I'll bring the numbers.
     웬: 있을게요. 숫자 챙겨 갈게요.
 
-035. DARNELL: Sam, can I say one more thing, because I don't want you to think I'm against the company?
+035. DARNELL: Sam, can I say one more thing? I don't want you to think I'm against the company.
     대넬: 샘, 하나만 더 말해도 돼요? 제가 회사 반대편이라고 생각하시진 않았으면 해서요.
 
-036. SAM: I don't think that, Darnell, not for a second, so go ahead.
+036. SAM: I don't think that, Darnell, not for a second. Go ahead.
     샘: 그런 생각 안 해, 대넬, 한순간도. 말해 봐.
 
-037. DARNELL: If you talk to Washington, don't just ask them to protect us, because that's what the big guys do when they write rules that only they can follow. Ask for something that's fair for everybody.
+037. DARNELL: If you talk to Washington, don't just ask them to protect us. That's what the big guys do when they write rules that only they can follow. Ask for something that's fair for everybody.
     대넬: 워싱턴이랑 얘기하시면 우리만 보호해 달라고 하지 마세요. 그건 큰 회사들이 자기들만 지킬 수 있는 규정을 만들 때 하는 짓이에요. 모두한테 공평한 걸 요구하세요.
 
 038. SAM: That's good advice, really good advice.
@@ -138,13 +138,13 @@
 041. EARL: Don't flatter me before lunch.
     얼: 점심 전에 비행기 태우지 마.
 
-042. GLORIA: Okay, the debate club is closed, so rotors, motors, everybody back to work.
+042. GLORIA: Okay, the debate club is closed. Rotors, motors, everybody back to work.
     글로리아: 자, 토론 동아리 끝. 로터, 모터, 다들 일하러 가.
 
-043. SAM: One more thing, and thank you, all of you, because we disagreed for ten minutes and nobody threw a wrench, which is how it should be.
+043. SAM: One more thing, and thank you, all of you. We disagreed for ten minutes and nobody threw a wrench, which is how it should be.
     샘: 하나만 더. 다들 고마워. 10분 동안 의견이 달랐는데 아무도 스패너 안 던졌잖아. 그래야지.
 
-044. PATTY: Give us time, because it's only Wednesday.
+044. PATTY: Give us time, it's only Wednesday.
     패티: 시간 좀 줘요. 아직 수요일이잖아요.
 
 045. SAM: Fair enough. Let's see if it spins.
@@ -156,19 +156,19 @@
 047. SAM: That's fine, and please call me Sam. I have Dr. Wen Liu here, our CTO.
     샘: 괜찮아요, 샘이라고 불러 주세요. 여기 우리 CTO 웬 리우 박사도 있어요.
 
-048. KAYLA: Hi, Dr. Liu. Okay, I read your message about a company in Dayton that makes motors with no rare earths and all its supply outside China, so is that accurate?
+048. KAYLA: Hi, Dr. Liu. Okay, I read your message about a company in Dayton that makes motors with no rare earths and all its supply outside China. Is that accurate?
     케일라: 안녕하세요, 리우 박사님. 좋아요, 메시지 읽었어요. 데이턴에서 희토류 없이 모터를 만들고 공급망은 전부 중국 밖인 회사. 정확한가요?
 
 049. WEN: It's accurate, with ferrite magnets from Indiana and Japan, steel from Pittsburgh, and copper from Arizona and Chile.
     웬: 정확해요. 페라이트 자석은 인디애나랑 일본, 강판은 피츠버그, 구리는 애리조나랑 칠레예요.
 
-050. KAYLA: Great, because that's the kind of thing my boss loves. Now, your question was about efficiency standards, so let me explain how this works, because most people think the President just signs something and it's done.
+050. KAYLA: Great, that's the kind of thing my boss loves. Now, your question was about efficiency standards, so let me explain how this works. Most people think the President just signs something and it's done.
     케일라: 좋아요, 그런 게 우리 의원님이 좋아하시는 거예요. 자, 질문이 효율 기준에 관한 거였죠. 어떻게 돌아가는지 설명해 드릴게요. 대부분 대통령이 뭔가에 서명하면 끝나는 줄 알거든요.
 
 051. SAM: Isn't that how it works?
     샘: 그렇게 되는 거 아니에요?
 
-052. KAYLA: Sometimes it's faster, but for most rules, no, because changing a standard is called rulemaking, and the agency has to write a proposed rule, publish it, and then open a public comment period.
+052. KAYLA: Sometimes it's faster, but for most rules, no. Changing a standard is called rulemaking, and the agency has to write a proposed rule, publish it, and then open a public comment period.
     케일라: 가끔은 더 빠르지만, 대부분 규정은 아니에요. 기준을 바꾸는 걸 규칙 제정이라고 하는데, 기관이 규칙안을 쓰고, 공고하고, 그다음에 의견 수렴 기간을 열어야 해요.
 
 053. SAM: Public comment, meaning anybody can say what they think?
@@ -186,13 +186,13 @@
 057. SAM: So when will they open the comment period for washers?
     샘: 그럼 세탁기 의견 수렴은 언제 열려요?
 
-058. KAYLA: Nobody knows yet, and that's the honest answer, because right now it's a review, not a proposal. But I'll tell you the most important rule in this city. In this town, timing is policy.
+058. KAYLA: Nobody knows yet, and that's the honest answer. Right now it's a review, not a proposal. But I'll tell you the most important rule in this city. In this town, timing is policy.
     케일라: 아직 아무도 몰라요, 그게 솔직한 답이에요. 지금은 검토 단계지 규칙안이 아니거든요. 근데 이 도시에서 제일 중요한 규칙을 알려 드릴게요. 이 동네에선 타이밍이 곧 정책이에요.
 
 059. SAM: What does that mean, exactly?
     샘: 그게 정확히 무슨 뜻이에요?
 
-060. KAYLA: It means the people who show up early shape the conversation, because by the time the proposal is published, the big trade groups have already had twenty meetings, so if you wait for the official comment period, you're late.
+060. KAYLA: It means the people who show up early shape the conversation. By the time the proposal is published, the big trade groups have already had twenty meetings, so if you wait for the official comment period, you're late.
     케일라: 일찍 나타나는 사람들이 논의의 틀을 짠다는 뜻이에요. 규칙안이 공고될 때쯤이면 큰 업계 단체들은 이미 회의를 스무 번은 했어요. 그러니 공식 의견 수렴 기간까지 기다리면 늦은 거예요.
 
 061. WEN: So we should write something now, before there's anything to comment on.
@@ -210,13 +210,13 @@
 065. SAM: That's fair, and I'm not asking you to pick our side.
     샘: 공정하네요. 우리 편 들어 달라는 거 아니에요.
 
-066. KAYLA: Good, because I can't, but I can make sure your side is in the room, which most small companies never are.
+066. KAYLA: Good, because I can't. But I can make sure your side is in the room, which most small companies never are.
     케일라: 다행이에요, 전 그럴 수 없거든요. 근데 그쪽 입장이 그 방 안에 있게는 해 드릴 수 있어요. 작은 회사들은 대부분 거기 끼지도 못하거든요.
 
 067. WEN: What makes a letter like this useful, and what do people in your office actually read?
     웬: 이런 편지는 뭐가 있어야 쓸모 있어요? 의원실 사람들은 실제로 뭘 읽어요?
 
-068. KAYLA: Three things. One, specific numbers, not adjectives, so don't say "much more efficient," say "uses this many kilowatt-hours less per year." Two, real jobs in real towns, and three, what happens if the rule changes.
+068. KAYLA: Three things. One, specific numbers, not adjectives. Don't say "much more efficient," say "uses this many kilowatt-hours less per year." Two, real jobs in real towns, and three, what happens if the rule changes.
     케일라: 세 가지요. 하나, 형용사 말고 구체적인 숫자. "훨씬 효율적"이라고 하지 말고 "연간 몇 킬로와트시 덜 쓴다"고 하세요. 둘, 실제 동네의 실제 일자리. 셋, 규정이 바뀌면 무슨 일이 생기는지.
 
 069. SAM: And should we say the standard should stay exactly as it is?
@@ -234,7 +234,7 @@
 073. SAM: We don't have a government relations department, though.
     샘: 근데 우린 대관 부서가 없어요.
 
-074. KAYLA: You do now, and it's you, so congratulations. Okay, four minutes left, so can I ask why a motor company cares so much about rare earths, when most people in my office can't spell it?
+074. KAYLA: You do now, and it's you, so congratulations. Okay, four minutes left. Can I ask why a motor company cares so much about rare earths, when most people in my office can't spell it?
     케일라: 이제 있어요, 샘이에요. 축하드려요. 자, 4분 남았는데 하나 물어봐도 돼요? 모터 회사가 왜 그렇게 희토류에 신경을 써요? 우리 사무실 사람들 대부분은 철자도 못 쓰는데요.
 
 075. WEN: Because almost every powerful motor in America has rare-earth magnets inside, in cars, drones, wind turbines, washing machines, and missiles, and about ninety percent of those magnets are made in China.
@@ -243,7 +243,7 @@
 076. KAYLA: Ninety percent, is that real?
     케일라: 90퍼센트요? 그거 진짜예요?
 
-077. WEN: Roughly, for the processing and the magnets, yes, so if China decides to stop selling them, a lot of American factories stop the same week.
+077. WEN: Roughly, for the processing and the magnets, yes. If China decides to stop selling them, a lot of American factories stop the same week.
     웬: 정제랑 자석 쪽은 대략 그래요. 그러니 중국이 안 팔기로 결정하면 미국 공장 상당수가 같은 주에 멈춰요.
 
 078. KAYLA: Do you really think they'd do that?
@@ -255,10 +255,10 @@
 080. KAYLA: Huh, okay, that's going in my notes, in capital letters.
     케일라: 흠, 좋아요. 그거 제 메모에 적을게요, 대문자로요.
 
-081. SAM: Our floor manager would be proud, because he writes everything in capital letters.
+081. SAM: Our floor manager would be proud. He writes everything in capital letters.
     샘: 우리 현장 반장이 자랑스러워하겠네요. 그분은 모든 걸 대문자로 쓰거든요.
 
-082. KAYLA: Sam, here's my honest advice: the efficiency letter is good, so do it, but the bigger story is the second thing, a company in Ohio that doesn't need China. Keep telling that story, and keep telling it to me.
+082. KAYLA: Sam, here's my honest advice. The efficiency letter is good, so do it, but the bigger story is the second thing, a company in Ohio that doesn't need China. Keep telling that story, and keep telling it to me.
     케일라: 샘, 솔직한 조언이에요. 효율 편지 좋아요, 하세요. 근데 더 큰 이야기는 두 번째, 중국이 필요 없는 오하이오 회사예요. 그 이야기를 계속하세요. 저한테 계속 해 주세요.
 
 083. SAM: Why you, though?
@@ -270,13 +270,13 @@
 085. WEN: Then write down "Ferrox."
     웬: 그럼 '페록스'라고 적으세요.
 
-086. KAYLA: I already did, F-E-R-R-O-X, in capital letters. Okay, I have to run, because my boss is giving a speech about something completely different.
+086. KAYLA: I already did, F-E-R-R-O-X, in capital letters. Okay, I have to run. My boss is giving a speech about something completely different.
     케일라: 벌써 적었어요, F-E-R-R-O-X, 대문자로. 자, 가야 해요. 의원님이 완전히 다른 주제로 연설하시거든요.
 
-087. SAM: Thank you, Kayla, really, because I didn't expect anyone to answer.
+087. SAM: Thank you, Kayla, really. I didn't expect anyone to answer.
     샘: 고마워요, 케일라, 정말로요. 누가 답할 거라고는 기대 안 했어요.
 
-088. KAYLA: Most people don't, and that's why I answer, so send me the letter by Friday.
+088. KAYLA: Most people don't, and that's why I answer. Send me the letter by Friday.
     케일라: 대부분 기대 안 하죠. 그래서 제가 답하는 거예요. 금요일까지 편지 보내 주세요.
 
 089. SAM: You'll have it by Friday.
@@ -288,10 +288,10 @@
 091. SAM: Nobody talks faster than Tyler.
     샘: 타일러보다 말 빠른 사람은 없어요.
 
-092. WEN: She just did. Sam, she's right about the second thing, because the efficiency rule is one weapon, but rare earths could be the whole war.
+092. WEN: She just did. Sam, she's right about the second thing. The efficiency rule is one weapon, but rare earths could be the whole war.
     웬: 방금 있었어요. 샘, 두 번째 얘기는 그 사람 말이 맞아요. 효율 규정은 무기 하나지만, 희토류는 전쟁 전체가 될 수 있어요.
 
-093. SAM: Let's win the small fight first, so tonight at Lou's, you, me, Gloria, and Tyler write the letter.
+093. SAM: Let's win the small fight first. Tonight at Lou's, you, me, Gloria, and Tyler write the letter.
     샘: 작은 싸움부터 이기죠. 오늘 밤 루스에서 웬, 나, 글로리아, 타일러가 편지 써요.
 
 094. WEN: We're writing it at a diner?
@@ -306,13 +306,13 @@
 097. GLORIA: Donna, you're a saint.
     글로리아: 도나, 당신은 성녀야.
 
-098. DONNA: I'm a waitress, honey, which is the same thing with worse shoes. What are you writing, because it looks serious?
+098. DONNA: I'm a waitress, honey, which is the same thing with worse shoes. What are you writing? It looks serious.
     도나: 웨이트리스야, 얘. 같은 건데 신발만 더 나쁘지. 뭐 써? 심각해 보이네.
 
 099. TYLER: It's a letter to Washington about washing machines.
     타일러: 워싱턴에 보내는 편지요, 세탁기에 관해서요.
 
-100. DONNA: Tell them my washer eats socks, one every week, so where do they go? Somebody in Washington should look into that.
+100. DONNA: Tell them my washer eats socks, one every week. Where do they go? Somebody in Washington should look into that.
     도나: 내 세탁기가 매주 양말을 한 짝씩 먹는다고 전해 줘. 어디로 가는 거야? 워싱턴의 누군가가 그것 좀 조사해야 해.
 
 101. SAM: I'll put it in the footnotes, Donna.
@@ -321,7 +321,7 @@
 102. GLORIA: Okay, Kayla said three things, numbers, jobs, and what happens if the rule changes, so, Wen, numbers first.
     글로리아: 좋아. 케일라가 숫자, 일자리, 규정이 바뀌면 생기는 일, 세 가지랬지. 웬, 숫자부터.
 
-103. WEN: Our washer motor uses about eighteen percent less energy than a typical motor at the same price, which for a family is about thirty kilowatt-hours a year, so across two hundred thousand machines, that's six million kilowatt-hours every year.
+103. WEN: Our washer motor uses about eighteen percent less energy than a typical motor at the same price. For a family, that's about thirty kilowatt-hours a year, and across two hundred thousand machines, it's six million kilowatt-hours every year.
     웬: 우리 세탁기 모터는 같은 가격대 일반 모터보다 에너지를 18퍼센트쯤 덜 써요. 한 가정에 연간 30킬로와트시 정도니까, 기계 20만 대면 매년 600만 킬로와트시예요.
 
 104. TYLER: Six million sounds big, but is it?
@@ -330,31 +330,31 @@
 105. WEN: It's about what five hundred American homes use in a year, from one product line.
     웬: 미국 가정 오백 곳이 1년 동안 쓰는 양쯤이에요. 제품 라인 하나에서요.
 
-106. GLORIA: That's a sentence Kayla can use, so write it down exactly like that.
+106. GLORIA: That's a sentence Kayla can use. Write it down exactly like that.
     글로리아: 그건 케일라가 쓸 수 있는 문장이야. 딱 그대로 적어.
 
 107. SAM: Okay, jobs. If we get the Haverford deal, we go from thirty-six people to maybe ninety in two years, in Moraine, in a building that used to make car parts.
     샘: 좋아요, 일자리. 해버퍼드 거래를 따면 2년 안에 서른여섯 명에서 아흔 명쯤으로 늘어요. 원래 자동차 부품 만들던 모레인의 건물에서요.
 
-108. GLORIA: Don't say ninety, because we don't have the Haverford deal.
+108. GLORIA: Don't say ninety. We don't have the Haverford deal.
     글로리아: 아흔이라고 하지 마. 해버퍼드 거래 아직 없잖아.
 
 109. SAM: Then I'll say "up to ninety," with a good contract.
     샘: 그럼 좋은 계약이면 "최대 아흔 명"이라고 할게요.
 
-110. GLORIA: "Up to" is fine, because lawyers love "up to."
+110. GLORIA: "Up to" is fine. Lawyers love "up to."
     글로리아: "최대"면 좋아. 변호사들은 '최대'를 좋아하지.
 
 111. TYLER: And the third thing, what if it changes?
     타일러: 그리고 세 번째는요? 규정이 바뀌면요?
 
-112. SAM: This is where I want to do what Darnell said, because I don't want to write, "Please protect us from cheaper competitors." That's not fair, and honestly, it's a little embarrassing.
+112. SAM: This is where I want to do what Darnell said. I don't want to write, "Please protect us from cheaper competitors." That's not fair, and honestly, it's a little embarrassing.
     샘: 여기서 대넬이 한 말대로 하고 싶어요. "싼 경쟁사로부터 우리를 보호해 주세요"라고는 쓰기 싫어요. 그건 공평하지 않고, 솔직히 좀 창피하기도 하고요.
 
 113. WEN: Then what do you want to say instead?
     웬: 그럼 대신 뭐라고 하고 싶은데요?
 
-114. SAM: I want to say: don't change the rules in the middle of the game, because companies invested to meet the 2028 standard, and if you move the finish line now, you punish the people who started running early.
+114. SAM: I want to say: don't change the rules in the middle of the game. Companies invested to meet the 2028 standard, and if you move the finish line now, you punish the people who started running early.
     샘: 이렇게요. 경기 도중에 규칙을 바꾸지 마라. 회사들은 2028년 기준을 맞추려고 투자했다. 지금 결승선을 옮기면 일찍 출발한 사람들을 벌주는 거다.
 
 115. GLORIA: Ooh, "punish the people who started running early," I like that.
@@ -363,7 +363,7 @@
 116. TYLER: And what about Darnell's uncle, the HVAC guy, who'd say the rules change too fast and cost too much?
     타일러: 그럼 대넬 삼촌, 냉난방 하시는 분은요? 그분은 규정이 너무 빨리 바뀌고 돈이 너무 많이 든다고 하실 텐데요.
 
-117. SAM: He's right too, so we say it: small companies need rules that are clear, stable, and not rewritten every four years, so whatever the standard is, keep it steady, a level playing field.
+117. SAM: He's right too, so we say it. Small companies need rules that are clear, stable, and not rewritten every four years. Whatever the standard is, keep it steady, a level playing field.
     샘: 그분 말도 맞아. 그러니까 그것도 쓰자. 작은 회사들한테는 명확하고, 안정적이고, 4년마다 다시 쓰이지 않는 규정이 필요하다. 기준이 뭐든 꾸준히 유지하라. 공평한 경기장.
 
 118. WEN: A level playing field means everybody follows the same rules, and the rules don't move.
@@ -372,37 +372,37 @@
 119. GLORIA: That's a letter both Darnell and Earl could sign.
     글로리아: 그건 대넬이랑 얼이 둘 다 서명할 수 있는 편지네.
 
-120. SAM: That's the idea, because if it's only good for us, it's lobbying, but if it's good for both of them, it's an argument.
+120. SAM: That's the idea. If it's only good for us, it's lobbying, but if it's good for both of them, it's an argument.
     샘: 그게 핵심이에요. 우리한테만 좋으면 로비고, 둘 다한테 좋으면 논거죠.
 
-121. DONNA: More coffee, since you've been staring at that napkin for twenty minutes?
+121. DONNA: More coffee? You've been staring at that napkin for twenty minutes.
     도나: 커피 더? 그 냅킨만 20분째 쳐다보고 있잖아.
 
 122. SAM: Yes, please. Donna, can I ask you something: if a washing machine cost thirty dollars more but used less electricity, would you buy it?
     샘: 네, 주세요. 도나, 하나 물어봐도 돼요? 세탁기가 30달러 더 비싼데 전기를 덜 쓰면 사실 거예요?
 
-123. DONNA: Thirty dollars? Honey, that's two good tip nights, so would it stop eating my socks?
+123. DONNA: Thirty dollars? Honey, that's two good tip nights. Would it stop eating my socks?
     도나: 30달러? 얘, 그건 팁 잘 나오는 밤 이틀치야. 그럼 양말은 안 먹어?
 
 124. SAM: Probably not, I'm afraid.
     샘: 아마 아닐걸요.
 
-125. DONNA: Then I'd think about it, because thinking is free and thirty dollars is not.
+125. DONNA: Then I'd think about it. Thinking is free, and thirty dollars is not.
     도나: 그럼 생각은 해 볼게. 생각은 공짜지만 30달러는 아니니까.
 
 126. GARY: Sam, it's late, I know, but I'm calling because I heard something, and I want you to hear it from me.
     개리: 샘, 늦은 거 알아요. 근데 들은 게 있어서 전화했어요. 저한테서 들으셨으면 해서요.
 
-127. SAM: I'm in a parking lot, so go ahead, Gary, is it bad?
+127. SAM: I'm in a parking lot, so go ahead, Gary. Is it bad?
     샘: 주차장이에요. 말씀하세요, 개리. 안 좋은 거예요?
 
-128. GARY: It depends on who you are. My CEO heard about the efficiency review, and he's very happy, because he thinks the 2028 washer standard is going away.
+128. GARY: It depends on who you are. My CEO heard about the efficiency review, and he's very happy. He thinks the 2028 washer standard is going away.
     개리: 누구냐에 따라 달라요. 우리 CEO가 효율 재검토 소식을 듣고 아주 좋아해요. 2028년 세탁기 기준이 없어질 거라고 생각하세요.
 
-129. SAM: Nobody knows that yet, because it's a review, not a decision.
+129. SAM: Nobody knows that yet. It's a review, not a decision.
     샘: 아직 아무도 몰라요. 검토지, 결정이 아니에요.
 
-130. GARY: Tell that to my CEO, because he came into my office today and said, "Gary, if we don't need the expensive motor to meet the standard, why are we paying for it?"
+130. GARY: Tell that to my CEO. He came into my office today and said, "Gary, if we don't need the expensive motor to meet the standard, why are we paying for it?"
     개리: 그건 우리 CEO한테 말해 보세요. 오늘 제 사무실에 와서 이러셨어요. "개리, 기준 맞추는 데 비싼 모터가 필요 없으면 왜 그 돈을 내야 하지?"
 
 131. SAM: And what did you tell him?
@@ -423,7 +423,7 @@
 136. GARY: I can't tell you that, but if the standard disappears, the gap gets wider, and a lot of your story disappears with it.
     개리: 그건 말 못 해요. 근데 기준이 사라지면 그 격차는 더 벌어지고, 그쪽 이야기의 상당 부분도 같이 사라져요.
 
-137. SAM: Not all of it, because the noise is still there, a ten-year warranty is still there, and "Made in Ohio" is still there.
+137. SAM: Not all of it. The noise is still there, a ten-year warranty is still there, and "Made in Ohio" is still there.
     샘: 전부는 아니죠. 소음도, 10년 보증도, '메이드 인 오하이오'도 그대로예요.
 
 138. GARY: A ten-year warranty on the motor? Who told you to offer that?
@@ -432,7 +432,7 @@
 139. SAM: A seventy-four-year-old man named Harold, in your customer's store, and my CFO didn't faint, so I'm offering it.
     샘: 그쪽 거래처 매장에 있던 일흔네 살 해럴드라는 분이요. 그리고 우리 CFO가 기절 안 했으니까 제안하는 거예요.
 
-140. GARY: Huh, ten years, that's not nothing, because the Mexico company offers two.
+140. GARY: Huh, ten years, that's not nothing. The Mexico company offers two.
     개리: 허, 10년이라. 그거 별거 아닌 게 아니네요. 멕시코 회사는 2년이에요.
 
 141. SAM: Then put that in front of your CEO, ten years versus two, and tell him our samples will be on your bench next week.
@@ -450,7 +450,7 @@
 145. SAM: Pittsburgh is for our bike motors, but for two hundred thousand washers, we needed a bigger partner.
     샘: 피츠버그는 자전거 모터용이에요. 세탁기 20만 대에는 더 큰 파트너가 필요했어요.
 
-146. GARY: Okay, just be careful, Sam, because next Wednesday is March twelfth, when the steel tariff starts, and imported steel is going to get very expensive, very fast.
+146. GARY: Okay, just be careful, Sam. Next Wednesday is March twelfth, when the steel tariff starts, and imported steel is going to get very expensive, very fast.
     개리: 알겠어요. 그냥 조심해요, 샘. 다음 주 수요일이 3월 12일, 철강 관세 시작하는 날이에요. 수입 강판은 아주 빨리, 아주 비싸질 거예요.
 
 147. SAM: I know, and we're already doing the math.
@@ -462,7 +462,7 @@
 149. GLORIA: Was that Gary? You look like a man who just found out he's in a race nobody told him about.
     글로리아: 개리였어? 아무도 안 알려 준 경주에 나와 있다는 걸 방금 안 사람 얼굴이네.
 
-150. SAM: It's two races, Gloria, one in Washington and one on March twelfth, so send the letter tomorrow, not Friday, because timing is policy.
+150. SAM: It's two races, Gloria, one in Washington and one on March twelfth. Send the letter tomorrow, not Friday. Timing is policy.
     샘: 경주 두 개예요, 글로리아. 하나는 워싱턴에서, 하나는 3월 12일에. 편지는 금요일 말고 내일 보내요. 타이밍이 곧 정책이니까요.
 
 ---

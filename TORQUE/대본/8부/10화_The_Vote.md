@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. ERIN: It's eleven o'clock, and you've been staring at that screen since nine, so how long is it?
+001. ERIN: It's eleven o'clock, and you've been staring at that screen since nine. How long is it?
     에린: 열한 시야. 아홉 시부터 그 화면만 보고 있는데, 얼마나 길어?
 
 002. SAM: It's four paragraphs, and I've written it thirty times.
@@ -24,8 +24,8 @@
 003. ERIN: Your dad told you to write it the first night, before you slept.
     에린: 아버님이 첫날 밤 자기 전에 쓰라고 하셨잖아.
 
-004. SAM: I did write it the first night, but then I slept, and then I started writing like an owner, so he was right.
-    샘: 첫날 밤에 썼어. 근데 자고 나니까 사장처럼 쓰기 시작하더라. 아버지 말이 맞았어.
+004. SAM: I did write it the first night. Then I slept, and then I started writing like an owner. He was right.
+    샘: 첫날 밤에 썼어. 그러고 잤는데, 그다음부터 사장처럼 쓰기 시작하더라. 아버지 말이 맞았어.
 
 005. ERIN: Then read me the first version, the one from that night.
     에린: 그럼 첫 번째 버전 읽어 줘. 그날 밤 거.
@@ -33,7 +33,7 @@
 006. SAM: It's not very professional, and Miriam would have a heart attack.
     샘: 별로 전문적이지 않아. 미리엄이 보면 심장마비 올걸.
 
-007. ERIN: I'm not a professional, I'm your wife, so read it.
+007. ERIN: I'm not a professional, I'm your wife. Read it.
     에린: 난 전문가가 아니라 당신 아내야. 읽어.
 
 008. SAM: Hold on, my phone's ringing, and it's Lily.
@@ -57,25 +57,25 @@
 014. LILY: Dad, can I say something? We had a labor history lecture in my humanities class last week, and the professor showed a picture of the Flint sit-down strike from 1937, and I thought of Grandpa.
     릴리: 아빠, 하나 말해도 돼? 지난주에 인문학 수업에서 노동사 강의를 했는데, 교수님이 1937년 플린트 연좌 파업 사진을 보여 줬어. 할아버지 생각났어.
 
-015. SAM: Of course you did, because he'd want to be in that picture.
+015. SAM: Of course you did. He'd want to be in that picture.
     샘: 당연히 그랬겠지. 할아버지는 그 사진 속에 있고 싶어 하실걸.
 
 016. LILY: And then I thought of you, because the professor said the hardest thing for an owner isn't losing a vote, it's not taking it personally. And I thought, my dad takes everything personally.
     릴리: 그러고 나서 아빠 생각이 났어. 교수님이 사장한테 제일 어려운 건 투표에서 지는 게 아니라 그걸 개인적으로 받아들이지 않는 거라고 했거든. 그래서 생각했지, 우리 아빠는 모든 걸 개인적으로 받아들이는데.
 
-017. SAM: That's not fair, because I don't take the weather personally.
+017. SAM: That's not fair. I don't take the weather personally.
     샘: 그건 좀 아니지. 난 날씨는 개인적으로 안 받아들여.
 
 018. ERIN: That's completely fair, and you know it.
     에린: 완전히 맞는 말이야. 당신도 알잖아.
 
-019. LILY: It's a good thing, Dad, because you take Betsy personally and you take bad bearings personally, and that's why the motors are good. But tomorrow, don't.
+019. LILY: It's a good thing, Dad. You take Betsy personally and you take bad bearings personally, and that's why the motors are good. But tomorrow, don't.
     릴리: 좋은 거야, 아빠. 아빠는 베치도 불량 베어링도 개인적으로 받아들이잖아. 그래서 모터가 좋은 거고. 근데 내일은 그러지 마.
 
 020. SAM: Okay, Professor, I'll try.
     샘: 알겠어요, 교수님. 노력할게.
 
-021. LILY: Read me the email, because I want to hear it.
+021. LILY: Read me the email. I want to hear it.
     릴리: 이메일 읽어 줘. 듣고 싶어.
 
 022. ERIN: Read the first version, the one from that night.
@@ -117,7 +117,7 @@
 034. SAM: And what about the other twenty-nine versions, the ones with the careful words?
     샘: 나머지 스물아홉 개 버전은? 조심스러운 단어들 들어간 거?
 
-035. ERIN: Delete them, because they were written by an owner.
+035. ERIN: Delete them. They were written by an owner.
     에린: 지워. 그건 사장이 쓴 거니까.
 
 036. LILY: That's exactly what Grandpa would say.
@@ -138,8 +138,8 @@
 041. EARL: It's six-forty and everybody's here, first shift and the second shift guys who came in early to vote. Boss, do you want to say something?
     얼: 여섯 시 사십 분, 다 왔어. 1교대랑 투표하려고 일찍 온 2교대 애들까지. 사장, 한마디 할래?
 
-042. SAM: Just one thing. You all got my email at six, and I'm not going to read it again, because it says what it says.
-    샘: 하나만요. 여섯 시에 다들 내 이메일 받았죠. 쓴 대로니까 다시 읽진 않을 거예요.
+042. SAM: Just one thing. You all got my email at six, and I'm not going to read it again. It says what it says.
+    샘: 하나만요. 여섯 시에 다들 내 이메일 받았죠. 다시 읽진 않을 거예요. 쓴 대로예요.
 
 043. PATTY: Can I read it out loud, for the guys who don't check email?
     패티: 이메일 안 보는 애들 위해서 내가 소리 내서 읽어도 돼?
@@ -156,8 +156,8 @@
 047. PATTY: "I'll also tell you that I'm hurt." Sam, you actually put that in an email?
     패티: "그리고 제가 상처받았다는 것도 말씀드립니다." 샘, 진짜 이걸 이메일에 썼어?
 
-048. SAM: My wife and daughter made me, because I wanted to take it out.
-    샘: 아내랑 딸이 쓰라고 했어요. 난 빼고 싶었는데.
+048. SAM: My wife and daughter made me keep it. I wanted to take it out.
+    샘: 아내랑 딸이 남기라고 했어요. 난 빼고 싶었는데.
 
 049. PATTY: Good for them. "This month I learned that a family isn't enough for two hundred people. You need it written down."
     패티: 잘했네. "이번 달에 200명에게는 가족만으로는 부족하다는 걸 배웠습니다. 서면으로 적어 둬야 한다는 걸요."
@@ -171,7 +171,7 @@
 052. JAYDEN: That's it? There's no "the union will take your money"? My cousin's company sent a twelve-page letter with charts.
     제이든: 그게 다예요? "노조가 돈을 가져갈 겁니다" 같은 거 없어요? 우리 사촌네 회사는 그래프까지 넣은 열두 쪽짜리 편지 보냈어요.
 
-053. SAM: No charts, because Gloria's charts are for customers.
+053. SAM: No charts. Gloria's charts are for customers.
     샘: 그래프 없어요. 글로리아 그래프는 고객용이에요.
 
 054. GLORIA: And for you, when you misbehave, which is most Mondays.
@@ -180,8 +180,8 @@
 055. DARNELL: Can I say something, not about how I'm voting, but about this?
     대넬: 한마디 해도 돼요? 어떻게 투표할지 말고 이거에 대해서요.
 
-056. SAM: You can say anything, Darnell, because I'm the one who can't ask.
-    샘: 뭐든 말해도 돼요, 대넬. 물어볼 수 없는 건 나니까.
+056. SAM: You can say anything, Darnell. I'm the one who can't ask.
+    샘: 뭐든 말해도 돼요, 대넬. 물어볼 수 없는 건 나예요.
 
 057. DARNELL: I've worked at three places since the Army, and at the last one, when we tried to organize, they fired the two guys who started it. They said it was "performance," but everybody knew it wasn't.
     대넬: 전역하고 세 군데서 일했는데, 마지막 데선 노조를 만들려고 하니까 시작한 두 명을 잘랐어요. '성과' 때문이라고 했지만 다들 아닌 거 알았죠.
@@ -195,7 +195,7 @@
 060. DARNELL: So however this goes, I just want to say that's not normal, it's rare, and that's all.
     대넬: 그러니까 이게 어떻게 되든, 그건 정상이 아니라 드문 거라고 말하고 싶었어요. 그게 다예요.
 
-061. EARL: Okay, that's enough speeches before coffee, because the government's here. Everybody, this is Agent Diaz.
+061. EARL: Okay, that's enough speeches before coffee. The government's here. Everybody, this is Agent Diaz.
     얼: 자, 커피 전에 연설은 그만. 정부에서 왔어. 다들, 이쪽은 디아스 담당관이야.
 
 062. DIAZ: Good morning, I'm Lorraine Diaz from the National Labor Relations Board's Cincinnati office, and I'll be running today's election. I'll go over a few rules, and then you can vote.
@@ -216,7 +216,7 @@
 067. DIAZ: Then no, and Mr. Washington can't vote, Mr. Kowalski can't vote, and Dr. Liu can't vote either.
     디아스: 그럼 못 하세요. 워싱턴 씨도, 코왈스키 씨도, 리우 박사님도 못 하세요.
 
-068. WEN: I can't vote anywhere, so it's becoming a theme.
+068. WEN: I can't vote anywhere. It's becoming a theme.
     웬: 전 어디서도 투표를 못 하네요. 이게 주제가 돼 가요.
 
 069. DIAZ: The ballot is secret, and it has one question: "Do you wish to be represented for purposes of collective bargaining by the UAW?" There are two boxes, Yes or No, so mark one.
@@ -249,22 +249,22 @@
 078. SAM: Morning, Denise. The coffee's terrible, but help yourself.
     샘: 안녕하세요, 드니즈. 커피는 끔찍하지만 알아서 드세요.
 
-079. DENISE: I've had your coffee, because Earl brought me a cup in the parking lot last week, and it tastes like a goose.
+079. DENISE: I've had your coffee. Earl brought me a cup in the parking lot last week, and it tastes like a goose.
     드니즈: 그쪽 커피 마셔 봤어요. 지난주에 얼이 주차장으로 한 잔 가져다줬는데, 거위 맛이 나던데요.
 
 080. EARL: I told you, everybody says goose, even the government.
     얼: 내가 말했지. 다들 거위래, 정부까지.
 
-081. DIAZ: The polls are open, so first voter, please.
+081. DIAZ: The polls are open. First voter, please.
     디아스: 투표를 시작합니다. 첫 번째 투표자 나오세요.
 
-082. SAM: Earl, walk with me out of the building, because I'm not going to stand here and watch people vote.
+082. SAM: Earl, walk with me out of the building. I'm not going to stand here and watch people vote.
     샘: 얼, 건물 밖으로 같이 걸어요. 여기 서서 사람들 투표하는 거 지켜보진 않을 거예요.
 
 083. EARL: Good, that's the right instinct. So where are we going?
     얼: 좋아, 그게 맞는 본능이야. 그래서 어디 가는데?
 
-084. SAM: The fan line site, because they're pouring concrete for the new floor today, and I want to watch something get built.
+084. SAM: The fan line site. They're pouring concrete for the new floor today, and I want to watch something get built.
     샘: 팬 라인 부지요. 오늘 새 바닥 콘크리트 타설하는데, 뭔가 지어지는 걸 보고 싶어요.
 
 085. EARL: You want to watch concrete dry on the biggest day of the year.
@@ -309,7 +309,7 @@
 098. COLE: I can't breathe right now.
     콜: 지금 숨을 못 쉬겠어요.
 
-099. PATTY: Breathe, honey, because it's just paper.
+099. PATTY: Breathe, honey. It's just paper.
     패티: 숨 쉬어, 얘. 그냥 종이야.
 
 100. EARL: Sam, you're squeezing my arm.
@@ -330,8 +330,8 @@
 105. DIAZ: The count is complete, with one hundred seventy-seven ballots and two challenged ballots not opened. Of the one hundred seventy-five counted, one hundred and four are yes, and seventy-one are no.
     디아스: 개표를 마쳤습니다. 투표 177장 중 이의 제기 2장은 열지 않았고, 집계된 175장 중 예 104표, 아니요 71표입니다.
 
-106. DIAZ: The challenged ballots cannot change the result, so a majority of the valid votes counted have been cast for the UAW.
-    디아스: 이의 제기된 투표는 결과를 바꿀 수 없으므로, 유효 투표의 과반수가 UAW에 투표했습니다.
+106. DIAZ: The challenged ballots cannot change the result. A majority of the valid votes counted have been cast for the UAW.
+    디아스: 이의 제기된 투표는 결과를 바꿀 수 없습니다. 유효 투표의 과반수가 UAW에 투표했습니다.
 
 107. COLE: We won? We actually won.
     콜: 우리가 이겼어요? 진짜 이겼어요.
@@ -357,14 +357,14 @@
 114. JAYDEN: Am I allowed to say what I voted?
     제이든: 저 뭐 찍었는지 말해도 돼요?
 
-115. DIAZ: You can say whatever you want, young man, because it's a free country. Just don't write it on the ballot.
+115. DIAZ: You can say whatever you want, young man. It's a free country. Just don't write it on the ballot.
     디아스: 하고 싶은 말은 뭐든 해도 돼요, 젊은이. 자유 국가니까요. 투표용지에만 쓰지 마요.
 
 116. SAM: Everybody, can I have one minute?
     샘: 여러분, 1분만 주실래요?
 
-117. EARL: Quiet, because the boss is talking.
-    얼: 조용. 사장 말한다.
+117. EARL: Quiet, everybody. The boss is talking.
+    얼: 다들 조용. 사장 말한다.
 
 118. SAM: I said I'd respect the outcome, and I respect it. Denise, I'll see you at the table in November, and I'll bring Gloria and all of her numbers, not a memo.
     샘: 결과를 존중하겠다고 했고, 존중합니다. 드니즈, 11월에 테이블에서 봬요. 메모 말고 글로리아랑 숫자 전부 가지고 갈게요.
@@ -372,8 +372,8 @@
 119. DENISE: And I'll bring my people, who'll ask hard questions.
     드니즈: 그리고 전 어려운 질문을 할 우리 사람들을 데려갈게요.
 
-120. SAM: Good, because that's what the table is for. And everybody, Betsy runs at seven tomorrow, same as always. Let's see if it spins.
-    샘: 좋아요, 테이블이 그러라고 있는 거니까요. 그리고 여러분, 베치는 늘 그렇듯이 내일 일곱 시에 돌아가요. 일단 돌려 봅시다.
+120. SAM: Good. That's what the table is for. And everybody, Betsy runs at seven tomorrow, same as always. Let's see if it spins.
+    샘: 좋아요. 테이블이 그러라고 있는 거예요. 그리고 여러분, 베치는 늘 그렇듯이 내일 일곱 시에 돌아가요. 일단 돌려 봅시다.
 
 121. GLORIA: Sit down, Sam, and close the door. Not on the edge of the desk, in the chair.
     글로리아: 앉아, 샘, 문 닫고. 책상 모서리 말고 의자에.
@@ -381,7 +381,7 @@
 122. SAM: You said that to me in 2024, on the first day of the runway board.
     샘: 2024년 런웨이 칠판 첫날에도 그렇게 말했죠.
 
-123. GLORIA: And you still sit on the edge of the desk, because some things a union can't fix. How are you?
+123. GLORIA: And you still sit on the edge of the desk. Some things a union can't fix. How are you?
     글로리아: 그리고 넌 아직도 책상 모서리에 앉지. 노조로도 못 고치는 게 있어. 기분은 어때?
 
 124. SAM: Honestly, better than I thought, lighter. Is that weird?
@@ -396,7 +396,7 @@
 127. GLORIA: I'm management, baby, so I'm not allowed to want anything. But I'll tell you what I thought when Diaz read the number: I thought about the guy after you.
     글로리아: 난 관리자라서 뭘 바라면 안 돼, 얘. 근데 디아스가 숫자 읽을 때 무슨 생각 했는지는 말해 줄게. 네 다음에 올 사람 생각을 했어.
 
-128. SAM: Earl said that, Denise said that, and now you, so did you three plan this?
+128. SAM: Earl said that, Denise said that, and now you. Did you three plan this?
     샘: 얼도 드니즈도 그 말 했는데, 이제 글로리아까지. 셋이 짜고 한 거예요?
 
 129. GLORIA: No, it's because we're all thinking it. Sam, I'm sixty, Earl's sixty-three and you're forty-eight, and Wen is the youngest of the four of us at forty-three. What happens to this place in fifteen years?
@@ -435,7 +435,7 @@
 140. SAM: What about the union, can they both exist in the same building?
     샘: 노조는요? 둘이 한 건물에 같이 있을 수 있어요?
 
-141. GLORIA: They can live together, because there are union shops with ESOPs. The union gives people a voice at the table, and the ESOP gives them a piece of the table.
+141. GLORIA: They can live together. There are union shops with ESOPs, where the union gives people a voice at the table and the ESOP gives them a piece of the table.
     글로리아: 같이 갈 수 있어. 노조가 있으면서 ESOP을 하는 사업장도 있거든. 노조는 사람들한테 테이블에서의 목소리를 주고, ESOP은 테이블의 한 조각을 주지.
 
 142. SAM: Gloria, are you serious, tonight of all nights?
@@ -447,7 +447,7 @@
 144. SAM: Not Wen, and not Earl? They'd want to know.
     샘: 웬도, 얼도 아니고요? 알고 싶어 할 텐데요.
 
-145. GLORIA: Not yet, because Earl would cry, and Wen would build a spreadsheet better than mine, and I'm not ready for either.
+145. GLORIA: Not yet. Earl would cry, and Wen would build a spreadsheet better than mine, and I'm not ready for either.
     글로리아: 아직은. 얼은 울 거고, 웬은 나보다 나은 스프레드시트를 만들 텐데, 둘 다 아직 감당할 준비가 안 됐어.
 
 146. SAM: Okay, look at the numbers quietly, and ask me again after the ITC decision.

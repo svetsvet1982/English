@@ -54,13 +54,13 @@
 013. GLORIA: Some of it, and how much is the fight. The utility says one number and the consumer groups say another, because everybody has a chart.
     글로리아: 일부는. 얼마나냐가 싸움이지. 전력회사는 이 숫자를 말하고 소비자 단체는 저 숫자를 말해. 다들 그래프가 있거든.
 
-014. PATTY: Then I'll say it, because we're selling motors to a data center right now.
-    패티: 그럼 내가 말할게. 우리 지금 이 순간 데이터센터에 모터 팔고 있잖아.
+014. PATTY: Then I'll say it out loud. We're selling motors to a data center right now.
+    패티: 그럼 내가 대놓고 말할게. 우리 지금 데이터센터에 모터 팔고 있잖아.
 
 015. JAYDEN: So does that make us the bad guys?
     제이든: 그럼 우리가 나쁜 놈들이에요?
 
-016. EARL: Nobody here is a bad guy, so sit down, Jayden.
+016. EARL: Nobody here is a bad guy. Sit down, Jayden.
     얼: 여기 나쁜 놈은 없어. 앉아, 제이든.
 
 017. JAYDEN: I am sitting down.
@@ -99,7 +99,7 @@
 028. PATTY: "A little less," huh? Tell that to my sister.
     패티: '조금 덜'이라고? 그걸 우리 언니한테 말해 봐.
 
-029. SAM: Maybe I will, because the Public Utilities Commission is holding a public hearing downtown tonight about the power company's new rate hike, and anybody can speak.
+029. SAM: Maybe I will. The Public Utilities Commission is holding a public hearing downtown tonight about the power company's new rate hike, and anybody can speak.
     샘: 그럴지도 몰라요. 오늘 밤 시내에서 공공요금위원회가 전력회사 새 요금 인상 건으로 공청회를 여는데, 누구나 발언할 수 있대요.
 
 030. GLORIA: Another rate hike, on top of this one?
@@ -138,7 +138,7 @@
 041. HEARING OFFICER: Good evening. This is a local public hearing of the Public Utilities Commission of Ohio on the rate application of Great Miami Power. Speakers have three minutes. Please state your name and where you live.
     진행관: 안녕하십니까. 그레이트 마이애미 전력의 요금 신청에 관한 오하이오 공공요금위원회 지역 공청회입니다. 발언자는 3분입니다. 성함과 거주지를 말씀해 주십시오.
 
-042. GLORIA: Look at this room, Sam, because every seat is taken and there are people standing in back.
+042. GLORIA: Look at this room, Sam. Every seat is taken, and there are people standing in back.
     글로리아: 이 방 좀 봐, 샘. 자리가 꽉 차서 뒤에 서 있는 사람들도 있어.
 
 043. SAM: That's because everybody got the same envelope.
@@ -240,8 +240,8 @@
 075. SAM: Sure. Gloria, can you save my seat?
     샘: 그럼요. 글로리아, 자리 좀 맡아 줄래요?
 
-076. KELLER: I hear you're working with Helix, so you know we're not the villains here. We're stuck in the middle.
-    켈러: 헬릭스랑 일하신다고 들었어요. 그러니 아시겠지만 저희가 악당은 아니에요. 중간에 끼어 있는 거죠.
+076. KELLER: I hear you're working with Helix. You know we're not the villains here, right? We're stuck in the middle.
+    켈러: 헬릭스랑 일하신다고 들었어요. 저희가 악당은 아닌 거 아시죠? 중간에 끼어 있는 거예요.
 
 077. SAM: Stuck between who, exactly?
     샘: 정확히 누구 사이에요?
@@ -282,8 +282,8 @@
 089. SAM: That's crazy.
     샘: 말도 안 되네요.
 
-090. KELLER: That's the utility business. The break's over, so good luck in there, because some of these folks know who you are.
-    켈러: 그게 전력 사업이에요. 쉬는 시간 끝났네요. 행운을 빌어요. 여기 몇 분은 선생님이 누군지 알거든요.
+090. KELLER: That's the utility business. The break's over, so good luck in there. Some of these folks know who you are.
+    켈러: 그게 전력 사업이에요. 쉬는 시간 끝났네요, 행운을 빌어요. 여기 몇 분은 선생님이 누군지 알거든요.
 
 091. ODESSA: You're the motor man, Kowalski, who was on Channel 7 with your daddy, the one with the union pin.
     오데사: 모터 하는 양반 코왈스키죠. 채널 7에 노조 배지 단 아버님이랑 같이 나왔잖아요.
@@ -291,7 +291,7 @@
 092. SAM: That's my dad, Stan. Mrs. Grant, your speech was the best thing I've heard all year.
     샘: 제 아버지 스탠이에요. 그랜트 여사님, 오늘 발언은 올해 들은 것 중 최고였어요.
 
-093. ODESSA: Don't butter me up, because you're selling motors to the data centers, aren't you?
+093. ODESSA: Don't butter me up. You're selling motors to the data centers, aren't you?
     오데사: 비위 맞추지 마세요. 데이터센터에 모터 팔고 있죠, 그쵸?
 
 094. SAM: Yes, ma'am, we are, to one company, as a pilot.
@@ -387,7 +387,7 @@
 124. SAM: Whether our motors can make her bill smaller, and not just Helix's.
     샘: 우리 모터가 헬릭스 것만 말고 그분 요금도 줄일 수 있는지요.
 
-125. PATTY: Huh, that's a good question, so why didn't we ever ask that?
+125. PATTY: Huh, that's a good question. Why didn't we ever ask that?
     패티: 흠, 좋은 질문이네. 우린 왜 그걸 한 번도 안 물어봤지?
 
 126. WEN: You called me at nine-thirty at night to ask about furnace blowers, while I was watching the Helix pumps on Betsy.
@@ -411,7 +411,7 @@
 132. SAM: Fifty dollars just isn't a lot, though.
     샘: 근데 50달러면 많진 않네요.
 
-133. GLORIA: For you, baby. For Mrs. Lattimore, that's more than five days of food, because you heard Odessa say nine dollars is four days.
+133. GLORIA: For you, baby. For Mrs. Lattimore, that's more than five days of food. You heard Odessa say nine dollars is four days.
     글로리아: 너한텐 그렇지, 얘. 래티모어 할머니한텐 닷새 넘는 식비야. 9달러가 나흘이라고 오데사가 말하는 거 들었잖아.
 
 134. SAM: And how much does the motor cost with installation?
@@ -438,7 +438,7 @@
 141. SAM: Then let's, hold on, it's Raj, calling at ten at night.
     샘: 그럼 하자고, 잠깐만요, 라지예요. 밤 열 시에 전화했네.
 
-142. RAJ: Sam, quick question, because tonight's news has you standing next to a woman holding her bill.
+142. RAJ: Sam, I have a quick question. Tonight's news has you standing next to a woman holding her bill.
     라지: 샘, 짧게 물을게요. 오늘 밤 뉴스에 고지서 든 여자 옆에 선 당신이 나오네요.
 
 143. SAM: That's Patty, and she works for me.
@@ -462,8 +462,8 @@
 149. SAM: I'm on the side of the cheapest megawatt, the one nobody uses, yours and theirs.
     샘: 저는 제일 싼 메가와트 편이에요. 아무도 안 쓰는 그거요. 당신 것도, 그 사람들 것도.
 
-150. RAJ: That's a good line, so save it, because you'll need it in Greene County. Our new campus goes to a county vote next month, so see you on the twenty-seventh, Sam.
-    라지: 좋은 대사네요. 아껴 두세요, 그린 카운티에서 필요할 테니까. 우리 새 단지가 다음 달 군 표결에 올라가요. 27일에 봬요, 샘.
+150. RAJ: That's a good line. Save it, because you'll need it in Greene County, where our new campus goes to a county vote next month. See you on the twenty-seventh, Sam.
+    라지: 좋은 대사네요. 아껴 두세요. 다음 달 우리 새 단지가 군 표결에 올라가는 그린 카운티에서 필요할 테니까. 27일에 봬요, 샘.
 
 ---
 

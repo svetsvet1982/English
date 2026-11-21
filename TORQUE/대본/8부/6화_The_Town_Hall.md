@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. GLORIA: Look at the parking lot, Sam, because there are actual tractors out there, and somebody drove a combine.
+001. GLORIA: Look at the parking lot, Sam. There are actual tractors out there, and somebody drove a combine.
     글로리아: 주차장 좀 봐, 샘. 진짜 트랙터들이 있어. 누가 콤바인까지 몰고 왔어.
 
 002. SAM: That's a message, if you ask me.
@@ -66,8 +66,8 @@
 017. SAM: Sure. Gloria, I'll come find you.
     샘: 그럼요. 글로리아, 이따 찾으러 갈게요.
 
-018. RAJ: I need to be honest with you, because this vote is close. Two of the three commissioners are undecided, so a good word from a local manufacturer could matter.
-    라지: 솔직하게 말할게요. 이번 표결은 박빙이에요. 위원 셋 중 둘이 아직 결정을 못 해서, 지역 제조업체가 좋은 말 한마디 해 주면 영향이 있을 수 있어요.
+018. RAJ: I need to be honest with you. This vote is close, and two of the three commissioners are undecided, so a good word from a local manufacturer could matter.
+    라지: 솔직하게 말할게요. 이번 표결은 박빙이고 위원 셋 중 둘이 아직 결정을 못 했어요. 그래서 지역 제조업체가 좋은 말 한마디 해 주면 영향이 있을 수 있어요.
 
 019. SAM: Raj, I'm going to speak, but I'm not going to speak for you.
     샘: 라지, 발언은 할 거예요. 근데 당신 편으로 하진 않을 거예요.
@@ -144,7 +144,7 @@
 043. GLEN: I'm not against progress, but a building the size of twelve football fields, humming all night next to my bedroom window, isn't progress, it's noise.
     글렌: 전 발전에 반대하지 않아요. 근데 축구장 열두 개만 한 건물이 밤새 우리 침실 창문 옆에서 웅웅거리는 건 발전이 아니라 소음이에요.
 
-044. GLEN: And when the power company builds new lines to feed it, whose fields do you think the towers go through? Mine, so ask them that.
+044. GLEN: And when the power company builds new lines to feed it, whose fields do you think the towers go through? Mine. Ask them that.
     글렌: 그리고 전력회사가 거기 전기 대려고 새 송전선을 깔면, 철탑이 누구 밭을 지나가겠어요? 우리 밭이죠. 그거 물어보세요.
 
 045. HARLAN: Thank you, Mr. Mercer, and your concern about the lines is noted. Next is Jenna Whitley.
@@ -156,8 +156,8 @@
 047. JENNA: Mr. Mehta says closed-loop, and I want to believe him. But what happens when it's a hundred degrees in August and the loop isn't enough? Do they open a valve, who checks, and who do I call?
     제나: 메타 씨는 폐쇄 순환식이래요. 믿고 싶어요. 근데 8월에 38도 넘고 순환이 모자라면요? 밸브를 여나요, 누가 확인하고, 전 누구한테 전화해요?
 
-048. JENNA: My kids drink that water, so I don't need a promise. I need a phone number and a person who answers it.
-    제나: 우리 애들이 그 물을 마셔요. 그러니까 약속은 필요 없어요. 전화번호랑 그 전화를 받는 사람이 필요해요.
+048. JENNA: My kids drink that water. I don't need a promise. I need a phone number and a person who answers it.
+    제나: 우리 애들이 그 물을 마셔요. 약속은 필요 없어요. 전화번호랑 그 전화를 받는 사람이 필요해요.
 
 049. PATTY: She's good, she's really good.
     패티: 저 사람 잘하네, 진짜 잘해.
@@ -168,7 +168,7 @@
 051. HARLAN: Thank you, Mrs. Whitley. Our next speaker is Odessa Grant, from Dayton.
     할런: 감사합니다, 휘틀리 씨. 다음 발언자는 데이턴에서 오신 오데사 그랜트 씨입니다.
 
-052. GLEN: Dayton? This is Greene County, so what's she doing at our meeting?
+052. GLEN: Dayton? This is Greene County. What's she doing at our meeting?
     글렌: 데이턴? 여긴 그린 카운티인데, 저 사람이 왜 우리 회의에 와?
 
 053. ODESSA: The electric bill doesn't know county lines, sir, and neither do I.
@@ -186,8 +186,8 @@
 057. HARLAN: Thank you, Mrs. Grant. That's a fair point, and you used exactly two minutes.
     할런: 감사합니다, 그랜트 씨. 일리 있는 말씀이고, 정확히 2분 쓰셨네요.
 
-058. ODESSA: I taught fourth grade, so I know how to use a clock.
-    오데사: 4학년 가르쳤으니까 시계 쓰는 법은 알죠.
+058. ODESSA: I taught fourth grade. I know how to use a clock.
+    오데사: 4학년 가르쳤어요. 시계 쓰는 법은 알죠.
 
 059. HARLAN: Next is Sam Kowalski, from Moraine.
     할런: 다음은 모레인의 샘 코왈스키 씨입니다.
@@ -207,17 +207,17 @@
 064. SAM: I'm not here to tell you how to vote, because I don't live in Greene County. Mr. Mercer does, and Mrs. Whitley does, so they should count more than me.
     샘: 어떻게 투표하라고 말하러 온 거 아닙니다. 전 그린 카운티에 안 살거든요. 머서 씨와 휘틀리 씨는 사시니까 그분들 목소리가 저보다 더 중요해야 해요.
 
-065. SAM: But I've spent six weeks inside a data center, and I've spent the last month listening to people whose bills went up, so here's what I learned from both sides.
-    샘: 근데 전 6주 동안 데이터센터 안에 있었고, 지난 한 달은 요금이 오른 사람들 얘기를 들었어요. 그래서 양쪽에서 배운 걸 말씀드릴게요.
+065. SAM: But I've spent six weeks inside a data center, and I've spent the last month listening to people whose bills went up. Here's what I learned from both sides.
+    샘: 근데 전 6주 동안 데이터센터 안에 있었고, 지난 한 달은 요금이 오른 사람들 얘기를 들었어요. 양쪽에서 배운 걸 말씀드릴게요.
 
-066. SAM: One, the people at Helix are serious, and they count every watt, so they're not villains. A twenty-four-year-old technician there told me he's scared every night, because a customer's work depends on him.
-    샘: 첫째, 헬릭스 사람들은 진지하고 1와트까지 세요. 악당이 아니에요. 거기 스물네 살 기술자는 고객의 일이 자기한테 달려 있어서 매일 밤 무섭대요.
+066. SAM: One, the people at Helix are serious. They count every watt, and they're not villains. A twenty-four-year-old technician there told me he's scared every night, because a customer's work depends on him.
+    샘: 첫째, 헬릭스 사람들은 진지해요. 1와트까지 세고, 악당이 아니에요. 거기 스물네 살 기술자는 고객의 일이 자기한테 달려 있어서 매일 밤 무섭대요.
 
 067. SAM: Two, the people on Hoover Avenue are also serious. An eighty-four-year-old woman chose her blood pressure pills over her air conditioner this summer, and she's not a villain either.
     샘: 둘째, 후버 애비뉴 사람들도 진지해요. 여든네 살 할머니가 올여름에 에어컨 대신 혈압약을 골랐어요. 그분도 악당이 아니에요.
 
-068. SAM: So if this happens, I'd ask for four things in writing, because Mrs. Grant is right that promises leak.
-    샘: 그래서 이게 성사된다면 네 가지를 서면으로 요청하고 싶어요. 약속은 샌다는 그랜트 여사님 말씀이 맞으니까요.
+068. SAM: So if this happens, I'd ask for four things in writing. Mrs. Grant is right that promises leak.
+    샘: 그래서 이게 성사된다면 네 가지를 서면으로 요청하고 싶어요. 약속은 샌다는 그랜트 여사님 말씀이 맞아요.
 
 069. SAM: First, Helix pays the full cost of every new line and substation that serves this campus, not the neighbors and not the families in Dayton.
     샘: 첫째, 이 단지에 들어가는 새 송전선과 변전소 비용은 이웃이나 데이턴 가정들이 아니라 전부 헬릭스가 냅니다.
@@ -240,7 +240,7 @@
 075. PATTY: Gloria, people are clapping on both sides of the room.
     패티: 글로리아, 방 양쪽에서 사람들이 박수 쳐.
 
-076. GLORIA: Look at Raj, though, because he's not clapping, he's writing.
+076. GLORIA: Look at Raj, though. He's not clapping, he's writing.
     글로리아: 근데 라지 좀 봐. 박수는 안 치고 적고 있어.
 
 077. HARLAN: Mr. Kowalski, before you sit down, I have a question, since you're the only speaker tonight who sells to the applicant. Is that all right?
@@ -315,7 +315,7 @@
 100. RAJ: Of course.
     라지: 그럼요.
 
-101. HARLAN: Mr. Mercer asked about power lines, so when does the power company say it can actually connect this campus? I ask because I've heard rumors.
+101. HARLAN: Mr. Mercer asked about power lines. When does the power company say it can actually connect this campus? I ask because I've heard rumors.
     할런: 머서 씨가 송전선을 물으셨는데, 전력회사는 이 단지를 실제로 언제 연결할 수 있다고 하나요? 소문을 들어서 여쭤보는 겁니다.
 
 102. RAJ: The first phase, with partial power, is possibly 2029, and for full power, the utility's current estimate is 2031.
@@ -324,8 +324,8 @@
 103. GLEN: 2031? You want my neighbor's farm now for a building that can't turn on for five years?
     글렌: 2031년? 5년 동안 켜지도 못할 건물 때문에 지금 우리 옆집 농장을 원한다고요?
 
-104. RAJ: Mr. Mercer, that's the honest answer, because everybody in my industry is waiting in the same line, and if we don't get in line now, we wait even longer.
-    라지: 머서 씨, 그게 정직한 대답이에요. 우리 업계는 모두 같은 줄에 서 있어서, 지금 줄을 안 서면 더 오래 기다려야 해요.
+104. RAJ: Mr. Mercer, that's the honest answer. Everybody in my industry is waiting in the same line, and if we don't get in line now, we wait even longer.
+    라지: 머서 씨, 그게 정직한 대답이에요. 우리 업계는 모두 같은 줄에 서 있고, 지금 줄을 안 서면 더 오래 기다려야 해요.
 
 105. HARLAN: Thank you, everyone, and this meeting is adjourned.
     할런: 감사합니다, 여러분. 회의를 마칩니다.
@@ -345,7 +345,7 @@
 110. MEGAN: Nobody plans it. Can I quote you on the four conditions, on the record?
     메건: 다들 계획은 안 하죠. 네 가지 조건, 공식적으로 인용해도 돼요?
 
-111. SAM: You can quote what I said in there, because I said it in public, and it's the same thing I'd say anywhere.
+111. SAM: You can quote what I said in there. I said it in public, and it's the same thing I'd say anywhere.
     샘: 저 안에서 한 말은 인용해도 돼요. 공개적으로 한 말이고, 어디서든 똑같이 할 말이니까요.
 
 112. MEGAN: And off the record, is Helix offering you a big contract?
@@ -363,8 +363,8 @@
 116. MEGAN: One more, and then I'll let you go. Calloway is pitching data centers too, and their sales team was in Columbus last week. Did you know?
     메건: 하나만 더 하고 보내 드릴게요. 캘러웨이도 데이터센터에 영업하고 있는데, 지난주에 영업팀이 콜럼버스에 왔대요. 알았어요?
 
-117. SAM: I heard, because Raj told me himself the night of our first meeting.
-    샘: 들었어요. 첫 미팅 날 밤에 라지가 직접 말해 줬거든요.
+117. SAM: I heard. Raj told me himself, the night of our first meeting.
+    샘: 들었어요. 첫 미팅 날 밤에 라지가 직접 말해 줬어요.
 
 118. MEGAN: They're telling people the ITC case is "a small company's tantrum." That's a quote from someone in the room, but it's not on the record.
     메건: 사람들한테 ITC 사건이 "작은 회사의 떼쓰기"라고 하고 다녀요. 그 자리에 있던 사람한테 들은 말인데, 공식은 아니에요.
@@ -390,8 +390,8 @@
 125. GLEN: Leon Mercer, from the paint shop.
     글렌: 리언 머서, 도장 공장이요.
 
-126. SAM: My dad would know him, Stan Kowalski, because he knows everybody from paint.
-    샘: 아버지 스탠 코왈스키가 아실 거예요. 도장 쪽 사람은 다 아시거든요.
+126. SAM: My dad would know him. Stan Kowalski knows everybody from paint.
+    샘: 아버지가 아실 거예요. 스탠 코왈스키는 도장 쪽 사람은 다 알거든요.
 
 127. GLEN: Tell him Leon's nephew says hello, and tell him I still don't want that building next to my bedroom.
     글렌: 리언 조카가 안부 전한다고 해 주세요. 그리고 난 여전히 그 건물이 우리 침실 옆에 오는 건 싫다고 전해 주고요.
@@ -399,17 +399,17 @@
 128. SAM: I'll tell him both.
     샘: 둘 다 전할게요.
 
-129. GLEN: But if it comes, I want your four things, all four, in writing, because you heard the teacher.
+129. GLEN: But if it comes, I want your four things, all four, in writing. You heard the teacher.
     글렌: 근데 들어온다면, 당신 네 가지 다 서면으로 원해요. 선생님 말씀 들었잖아요.
 
 130. RAJ: Sam, walk with me to the car.
     라지: 샘, 차까지 같이 걸어요.
 
-131. SAM: Okay, just say it, because you're angry.
+131. SAM: Okay, just say it. You're angry.
     샘: 좋아요, 그냥 말해요. 화났잖아요.
 
-132. RAJ: I'm not angry, I'm calculating, because you just cost me two weeks.
-    라지: 화난 거 아니에요, 계산하는 중이에요. 당신이 방금 2주를 날려 먹었거든요.
+132. RAJ: I'm not angry, I'm calculating. You just cost me two weeks.
+    라지: 화난 거 아니에요, 계산하는 중이에요. 당신이 방금 2주를 날려 먹었어요.
 
 133. SAM: I know.
     샘: 알아요.
@@ -420,7 +420,7 @@
 135. SAM: How, when I just made your life harder in front of four TV cameras?
     샘: 어떻게요? 방금 TV 카메라 네 대 앞에서 당신 일을 더 어렵게 만들었는데.
 
-136. RAJ: Before tonight, two commissioners were leaning no, because Harlan told me in the hallway. Now they have something to vote yes on, your four conditions, and if I sign them, they can go home and tell Mr. Mercer they made us pay.
+136. RAJ: Before tonight, two commissioners were leaning no. Harlan told me in the hallway. Now they have something to vote yes on, your four conditions, and if I sign them, they can go home and tell Mr. Mercer they made us pay.
     라지: 오늘 밤 전엔 위원 둘이 반대 쪽으로 기울어 있었어요. 할런이 복도에서 말해 줬죠. 이제 당신 네 가지 조건이라는 찬성할 근거가 생겼고, 제가 서명하면 그 사람들은 집에 가서 머서 씨한테 우리한테 돈을 내게 했다고 말할 수 있어요.
 
 137. SAM: So you'll sign them?
@@ -432,8 +432,8 @@
 139. SAM: Every watt has a price.
     샘: 1와트마다 값이 있죠.
 
-140. RAJ: Don't steal my line. Here's the thing, Sam, because tonight I learned something about you.
-    라지: 내 대사 훔치지 마요. 근데 말이에요, 샘, 오늘 밤 당신에 대해 하나 배웠어요.
+140. RAJ: Don't steal my line. Here's the thing, Sam. Tonight I learned something about you.
+    라지: 내 대사 훔치지 마요. 근데 말이에요, 샘. 오늘 밤 당신에 대해 하나 배웠어요.
 
 141. SAM: And what's that?
     샘: 그게 뭔데요?
@@ -450,7 +450,7 @@
 145. SAM: Should I bring my lawyer, or is this a handshake meeting?
     샘: 변호사 데려가야 해요, 아니면 악수만 하는 자리예요?
 
-146. RAJ: Bring your lawyer, bring your CFO, and bring Mrs. Grant if you want, because you're going to need everybody.
+146. RAJ: Bring your lawyer, bring your CFO, and bring Mrs. Grant if you want. You're going to need everybody.
     라지: 변호사도 CFO도 데려오시고, 원하면 그랜트 여사님도 모셔 오세요. 다 필요할 거예요.
 
 147. SAM: Why, what's in it?

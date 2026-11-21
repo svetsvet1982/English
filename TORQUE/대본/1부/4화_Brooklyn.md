@@ -18,22 +18,22 @@
 001. TYLER: Okay, so this is the A train, and if my map is right, we get off at Hoyt-Schermerhorn.
     타일러: 자, 이게 A선이고, 제 지도가 맞으면 호이트-셔머혼에서 내려요.
 
-002. SAM: How do you even say that, because it sounds like a law firm?
+002. SAM: How do you even say that? It sounds like a law firm.
     샘: 그걸 어떻게 읽어? 무슨 로펌 이름 같은데.
 
-003. TYLER: I have no idea, so I'm just going to point at the sign when we get there.
+003. TYLER: I have no idea. I'm just going to point at the sign when we get there.
     타일러: 전혀 모르겠어요. 도착하면 그냥 표지판 가리키려고요.
 
 004. SAM: I haven't been on a New York subway since my honeymoon. Erin made me take her to see the Statue of Liberty, and it rained the whole time.
     샘: 신혼여행 이후로 뉴욕 지하철 처음 타 봐. 에린이 자유의 여신상 보러 가자고 해서 갔는데 내내 비가 왔어.
 
-005. TYLER: It's raining now too, so maybe New York just doesn't like you.
+005. TYLER: It's raining now too. Maybe New York just doesn't like you.
     타일러: 지금도 비 오잖아요. 뉴욕이 그냥 샘을 싫어하나 봐요.
 
 006. SAM: New York doesn't like anybody, Tyler, and Nina says that's exactly why people love it.
     샘: 뉴욕은 아무도 안 좋아해, 타일러. 니나 말로는 그래서 사람들이 뉴욕을 사랑한대.
 
-007. TYLER: Look at that guy across from us, with the delivery bag, the helmet, and the phone on his arm, because I bet he's riding an e-bike today.
+007. TYLER: Look at that guy across from us, with the delivery bag, the helmet, and the phone on his arm. I bet he's riding an e-bike today.
     타일러: 맞은편 저 사람 보세요. 배달 가방에 헬멧에 팔에 폰. 오늘 전기자전거 탈 거라는 데 걸게요.
 
 008. SAM: Then why is he on the train with a helmet and no bike?
@@ -54,34 +54,34 @@
 013. TYLER: In the Army, the equipment that people loved wasn't the fanciest, it was the stuff that didn't die. If a drone died in the field, nobody cared how good the specs were, and I think these riders are the same.
     타일러: 군대에서 사람들이 좋아한 장비는 제일 화려한 게 아니었어요. 안 죽는 거였죠. 현장에서 드론이 죽으면 사양이 얼마나 좋은지 아무도 신경 안 썼어요. 이 라이더들도 똑같을 것 같아요.
 
-014. SAM: That's a good thought, so hold on to it.
+014. SAM: That's a good thought. Hold on to it.
     샘: 좋은 생각이야. 그 생각 잘 간직해.
 
 015. TYLER: The next stop is ours, Hoyt-something.
     타일러: 다음 역이 우리 역이에요. 호이트 뭐시기.
 
-016. NINA: You made it, and you're soaking wet! Welcome to Brooklyn, so come in, come in, there's coffee in the back.
+016. NINA: You made it, and you're soaking wet! Welcome to Brooklyn. Come in, come in, there's coffee in the back.
     니나: 왔네요! 그리고 흠뻑 젖었네요. 브루클린에 오신 걸 환영해요. 들어와요, 들어와, 안쪽에 커피 있어요.
 
 017. SAM: Nina, this is Tyler Novak. He does sales and business development, and he's going to try to sell you more motors before lunch.
     샘: 니나, 이쪽은 타일러 노박이에요. 영업이랑 사업개발 담당이고, 점심 전에 모터 더 팔아 보려고 할 거예요.
 
-018. TYLER: I would never do that, and hi, it's nice to meet you, because this place is amazing.
+018. TYLER: I would never do that. Hi, it's nice to meet you, and this place is amazing.
     타일러: 절대 안 그래요. 안녕하세요, 반가워요. 여기 진짜 멋지네요.
 
-019. NINA: It's a mess, but it's my mess, so the front of the shop is sales, and the back of the shop is repairs, which is honestly where we make our reputation.
+019. NINA: It's a mess, but it's my mess. The front of the shop is sales, and the back of the shop is repairs, which is honestly where we make our reputation.
     니나: 엉망이지만 제 엉망이에요. 앞쪽은 판매고, 뒤쪽은 수리예요. 솔직히 우리 평판은 거기서 만들어져요.
 
 020. SAM: Can we see the back, since I'm guessing that's where the real story is?
     샘: 뒤쪽 볼 수 있어요? 진짜 이야기는 거기 있을 것 같은데.
 
-021. NINA: That's why I invited you, so Ray, Ray, the motor people from Ohio are here!
+021. NINA: That's why I invited you. Ray! Ray, the motor people from Ohio are here!
     니나: 그러려고 초대한 거예요. 레이! 레이, 오하이오에서 모터 사람들 왔어.
 
-022. RAY: The motor people, finally, so come here, because I want to show you something ugly.
+022. RAY: The motor people, finally. Come here, I want to show you something ugly.
     레이: 모터 사람들, 드디어. 이리 와요, 흉한 거 하나 보여 줄게요.
 
-023. SAM: I love ugly, because ugly is where you learn things, so show me.
+023. SAM: I love ugly. Ugly is where you learn things, so show me.
     샘: 흉한 거 좋아해요. 배우는 건 늘 흉한 데서죠. 보여 줘요.
 
 024. RAY: This is a hub motor from our current supplier, six months old, and the rider brought it in yesterday because the bike stopped in the middle of the Manhattan Bridge.
@@ -93,10 +93,10 @@
 026. RAY: Go ahead, but you'd better bring a towel.
     레이: 그러세요. 수건 챙기시고.
 
-027. SAM: Oh, wow, there's water inside, and rust on the bearings, because the seal around the axle is basically gone.
+027. SAM: Oh, wow, there's water inside, and rust on the bearings. The seal around the axle is basically gone.
     샘: 와, 안에 물이 들어 있네요. 베어링엔 녹이 슬었고, 축 둘레 실링은 거의 없어졌어요.
 
-028. RAY: That's every motor we see in November, because New York has rain, snow, salt, and potholes the size of bathtubs, while these motors are designed for a nice, dry warehouse in a catalog.
+028. RAY: That's every motor we see in November. New York has rain, snow, salt, and potholes the size of bathtubs, and these motors are designed for a nice, dry warehouse in a catalog.
     레이: 11월에 보는 모터는 다 그래요. 뉴욕엔 비, 눈, 소금, 욕조만 한 포트홀이 있는데, 이 모터들은 카탈로그에 나오는 깔끔하고 건조한 창고용으로 설계된 거거든요.
 
 029. TYLER: How often do you see this in a normal week?
@@ -105,7 +105,7 @@
 030. RAY: In winter, ten, maybe fifteen a week, and every one of those is a rider who can't work until we fix it.
     레이: 겨울엔 일주일에 열 개, 많으면 열다섯 개요. 그리고 그 하나하나가 우리가 고칠 때까지 일을 못 하는 라이더예요.
 
-031. NINA: That's the part people outside this shop don't understand, because for a lot of our customers, the bike isn't a toy, it's their job. If the bike is down, they don't get paid.
+031. NINA: That's the part people outside this shop don't understand. For a lot of our customers, the bike isn't a toy, it's their job. If the bike is down, they don't get paid.
     니나: 이 가게 밖 사람들이 모르는 게 그거예요. 우리 손님 상당수한테 자전거는 장난감이 아니라 일이에요. 자전거가 멈추면 돈을 못 벌어요.
 
 032. SAM: So what you're talking about is downtime.
@@ -114,31 +114,31 @@
 033. NINA: Exactly. Every day of downtime is maybe a hundred and fifty dollars they don't make, plus the cost of the repair.
     니나: 바로 그거예요. 멈추는 날 하루마다 150달러쯤 못 버는 거고, 거기에 수리비까지.
 
-034. SAM: Our motors are sealed better than this, because Wen designed them for Ohio winters, but honestly, we've never tested them in New York.
+034. SAM: Our motors are sealed better than this, because Wen designed them for Ohio winters. But honestly, we've never tested them in New York.
     샘: 우리 모터는 이것보다 밀봉이 잘돼 있어요. 웬이 오하이오 겨울에 맞춰 설계했거든요. 근데 솔직히 뉴욕에선 시험해 본 적이 없어요.
 
-035. RAY: Then you're about to find out, because this city tests everything for free.
+035. RAY: Then you're about to find out. This city tests everything for free.
     레이: 그럼 이제 알게 되시겠네요. 이 도시는 뭐든 공짜로 시험해 주거든요.
 
-036. NINA: Come here, because I want to show you the other room, the one I worry about at night.
+036. NINA: Come here, I want to show you the other room, the one I worry about at night.
     니나: 이리 와요. 다른 방 보여 줄게요. 제가 밤에 걱정하는 방이요.
 
 037. SAM: What's in there, when it looks like a bank vault?
     샘: 거긴 뭐가 있어요? 은행 금고 같은데.
 
-038. NINA: Batteries, because every battery we sell or store is in a metal fireproof cabinet, and there's a special fire extinguisher on the wall that Ray checks every single morning.
+038. NINA: Batteries. Every battery we sell or store is in a metal fireproof cabinet, and there's a special fire extinguisher on the wall that Ray checks every single morning.
     니나: 배터리요. 우리가 팔거나 보관하는 배터리는 전부 금속 방화 캐비닛에 들어 있어요. 벽에는 특수 소화기가 있고, 레이가 매일 아침 점검해요.
 
 039. TYLER: Is all of that a city rule, or is it just you being careful?
     타일러: 그거 전부 시 규정이에요, 아니면 사장님이 조심하시는 거예요?
 
-040. NINA: Some of it is, because a few years ago there were a lot of battery fires in this city, in apartments and stores, and people died. Most of them were cheap batteries with no safety testing.
+040. NINA: Some of it is. A few years ago there were a lot of battery fires in this city, in apartments and stores, and people died. Most of them were cheap batteries with no safety testing.
     니나: 일부는요. 몇 년 전에 이 도시에 배터리 화재가 많았어요. 아파트, 가게, 사람도 죽었고요. 대부분 안전 시험을 안 거친 싸구려 배터리였어요.
 
 041. SAM: I remember seeing that on the news, with whole buildings burning.
     샘: 뉴스에서 본 기억 나요. 건물 통째로 탔죠.
 
-042. NINA: After that, the city said you can't sell an e-bike or a battery here unless it's certified by an approved safety lab, so if you don't have the certificate, you don't sell, simple as that.
+042. NINA: After that, the city said you can't sell an e-bike or a battery here unless it's certified by an approved safety lab. If you don't have the certificate, you don't sell, simple as that.
     니나: 그 뒤로 시에서 승인된 안전 시험소의 인증이 없으면 전기자전거든 배터리든 못 판다고 했어요. 인증서 없으면 못 파는 거예요. 간단하죠.
 
 043. SAM: Is that for the battery, or for the whole bike?
@@ -165,10 +165,10 @@
 050. NINA: Which is why I'm telling you today, and not in February.
     니나: 그러니까 2월이 아니라 오늘 말하는 거예요.
 
-051. SAM: Thank you, and I mean it, because nobody told us this part.
+051. SAM: Thank you, and I mean it. Nobody told us this part.
     샘: 고마워요. 진심이에요. 아무도 이 얘기는 안 해 줬어요.
 
-052. NINA: Nobody tells anybody anything in this business, and that's why I like you, Sam, because you ask.
+052. NINA: Nobody tells anybody anything in this business. That's why I like you, Sam, because you ask.
     니나: 이 바닥에선 아무도 아무것도 안 알려 줘요. 그래서 당신이 좋아요, 샘. 당신은 물어보잖아요.
 
 053. TYLER: Can I ask something too, Nina?
@@ -180,7 +180,7 @@
 055. TYLER: Where do your riders buy bikes when they can't afford yours?
     타일러: 라이더들이 여기 자전거를 살 형편이 안 되면 어디서 사요?
 
-056. NINA: Online, because a lot of them buy the cheapest bike they can find, sometimes used, sometimes with no certificate at all, and then they come to us when it breaks.
+056. NINA: Online. A lot of them buy the cheapest bike they can find, sometimes used, sometimes with no certificate at all, and then they come to us when it breaks.
     니나: 온라인이요. 상당수가 찾을 수 있는 제일 싼 자전거를 사요. 중고일 때도 있고, 인증이 아예 없을 때도 있고요. 그러다 고장 나면 우리한테 오죠.
 
 057. TYLER: So the cheap bike isn't really cheap, it just sends the bill later.
@@ -192,7 +192,7 @@
 059. SAM: If you could ask all of your riders one question, what would they actually want from a bike?
     샘: 라이더들 전부한테 질문 하나만 할 수 있다면, 그 사람들이 자전거에서 진짜 원하는 게 뭘까요?
 
-060. NINA: Don't ask me, ask them, because I have a better idea. Mateo is one of our best customers, and he rides about sixty miles a day, so you can ride along with him this afternoon.
+060. NINA: Don't ask me, ask them. Actually, I have a better idea. Mateo is one of our best customers, and he rides about sixty miles a day, so you can ride along with him this afternoon.
     니나: 저 말고 그 사람들한테 물어요. 더 좋은 생각이 있어요. 마테오가 우리 최고 고객 중 하나인데, 하루에 60마일쯤 달려요. 오늘 오후에 같이 따라 달려 봐요.
 
 061. SAM: In the rain, both of us, on bikes we've never ridden?
@@ -225,7 +225,7 @@
 070. RAY: That's a business model, and it isn't mine, it's theirs.
     레이: 그게 비즈니스 모델이에요. 제 거 말고 그쪽 거.
 
-071. SAM: I'll talk to Wen, because I think we can design it so a good mechanic can open it with normal tools.
+071. SAM: I'll talk to Wen. I think we can design it so a good mechanic can open it with normal tools.
     샘: 웬이랑 얘기해 볼게요. 실력 있는 정비사가 보통 공구로 열 수 있게 설계할 수 있을 것 같아요.
 
 072. RAY: If you do that, I'll tell every mechanic in Brooklyn your name.
@@ -234,13 +234,13 @@
 073. SAM: Deal, Ray, you've got yourself a deal.
     샘: 좋아요, 레이. 약속이에요.
 
-074. NINA: See, Ray's already selling for you, so Tyler, you might lose your job.
+074. NINA: See? Ray's already selling for you. Tyler, you might lose your job.
     니나: 봐요, 레이가 벌써 대신 팔고 있잖아요. 타일러, 일자리 잃겠어요.
 
 075. TYLER: Ray, how do you feel about moving to Ohio?
     타일러: 레이, 오하이오로 이사 오는 거 어때요?
 
-076. RAY: I've never been to Ohio, so is it nice?
+076. RAY: I've never been to Ohio. Is it nice?
     레이: 오하이오엔 가 본 적이 없어요. 좋아요?
 
 077. TYLER: It's flat and the people are nice, and there's a lot of chili.
@@ -249,13 +249,13 @@
 078. RAY: I think I'll stay in Brooklyn.
     레이: 전 브루클린에 있을게요.
 
-079. NINA: Mateo just texted that he's outside, so go. And Sam, don't slow him down, because he has a family to feed.
+079. NINA: Mateo just texted that he's outside, so go. And Sam, don't slow him down. He has a family to feed.
     니나: 마테오가 밖에 왔다고 문자 했어요. 가요. 그리고 샘? 그 사람 늦추지 마요. 먹여 살릴 가족이 있으니까.
 
 080. SAM: Understood, we won't slow him down.
     샘: 알겠어요. 안 늦출게요.
 
-081. MATEO: You're the motor guys? Nina said you want to ride with me, so do you have bikes?
+081. MATEO: You're the motor guys? Nina said you want to ride with me. Do you have bikes?
     마테오: 모터 만드는 분들이에요? 니나가 저랑 같이 달리고 싶어 한다던데, 자전거 있어요?
 
 082. SAM: Nina lent us two from the shop, and they have our motors in them, our prototypes.
@@ -273,19 +273,19 @@
 086. TYLER: How did you know, is it the haircut?
     타일러: 어떻게 알았어요? 머리 스타일 때문이에요?
 
-087. MATEO: Only Army guys say "copy that" in real life, like my cousin does. Okay, the first order is Thai food going to Park Slope, so let's go.
+087. MATEO: Only Army guys say "copy that" in real life, like my cousin does. Okay, the first order is Thai food going to Park Slope. Let's go.
     마테오: 실제로 "카피 댓"이라고 하는 건 군인들뿐이에요. 제 사촌도 그래요. 좋아요, 첫 주문은 파크 슬로프로 가는 태국 음식. 가요.
 
 088. SAM: How many orders do you do in a day?
     샘: 하루에 주문 몇 개 해요?
 
-089. MATEO: On a good day, maybe thirty, and on a rainy day like this, more, because nobody wants to go out. Rain is good for business and bad for everything else.
+089. MATEO: On a good day, maybe thirty. On a rainy day like this, more, because nobody wants to go out. Rain is good for business and bad for everything else.
     마테오: 좋은 날엔 서른 개쯤. 오늘처럼 비 오는 날엔 더 많아요. 아무도 밖에 안 나가고 싶어 하니까요. 비는 장사엔 좋고 나머지엔 다 나빠요.
 
 090. SAM: How do you get paid, by the order or by the hour?
     샘: 돈은 어떻게 받아요? 건당이요, 시간당이요?
 
-091. MATEO: The app pays per order, plus tips, and a while ago the city made a rule that the apps have to pay a minimum per hour, because before that, some days I made almost nothing.
+091. MATEO: The app pays per order, plus tips. A while ago the city made a rule that the apps have to pay a minimum per hour, and before that, some days I made almost nothing.
     마테오: 앱이 건당 주고, 팁이 따로 있어요. 얼마 전에 시에서 앱이 시간당 최저 보수를 줘야 한다는 규칙을 만들었어요. 그 전엔 거의 못 버는 날도 있었거든요.
 
 092. TYLER: Did that new rule actually help?
@@ -297,7 +297,7 @@
 094. SAM: And what about tips, do people tip in the rain?
     샘: 팁은요? 비 오는 날에도 사람들이 팁 줘요?
 
-095. MATEO: Some people tip more in the rain, because they feel bad, and some people tip nothing, rain or sun, so you learn which buildings are good.
+095. MATEO: Some people tip more in the rain, because they feel bad. Some people tip nothing, rain or sun. You learn which buildings are good.
     마테오: 비 오면 미안해서 팁을 더 주는 사람도 있고, 비가 오든 해가 뜨든 한 푼도 안 주는 사람도 있어요. 어느 건물이 좋은지 알게 되죠.
 
 096. TYLER: So which buildings are good, asking for a friend?
@@ -306,10 +306,10 @@
 097. MATEO: That's a professional secret, Army.
     마테오: 그건 영업 비밀이에요, 군인 양반.
 
-098. SAM: Hold on, my motor is making a noise, so do you hear that?
+098. SAM: Hold on, my motor is making a noise. Do you hear that?
     샘: 잠깐, 제 모터에서 소리가 나요. 들려요?
 
-099. MATEO: That's not your motor, that's the bus behind you, so keep going.
+099. MATEO: That's not your motor, that's the bus behind you. Keep going.
     마테오: 그거 모터 아니에요. 뒤에 있는 버스예요. 계속 가요.
 
 100. SAM: Right, okay, I'll keep going.
@@ -318,13 +318,13 @@
 101. MATEO: Wait here with the bikes for two minutes.
     마테오: 여기서 자전거 지키고 2분만 기다려요.
 
-102. TYLER: He's fast, because I'm a little out of breath, and I have a motor.
+102. TYLER: He's fast. I'm a little out of breath, and I have a motor.
     타일러: 빠르네요. 저 숨이 좀 찬데, 모터도 있잖아요.
 
 103. SAM: I'm completely out of breath, and I'm the guy who designed the motor.
     샘: 난 숨이 완전히 찼어. 그 모터 설계한 사람인데.
 
-104. MATEO: Okay, done, with a five-dollar tip, so that's a good building. The next one is in Prospect Heights, which has hills, so is your motor ready for hills?
+104. MATEO: Okay, done, with a five-dollar tip, so that's a good building. The next one is in Prospect Heights, which has hills. Is your motor ready for hills?
     마테오: 좋아요, 끝. 팁 5달러. 좋은 건물이에요. 다음은 프로스펙트 하이츠인데 언덕이에요. 모터 언덕 준비됐어요?
 
 105. SAM: Our new software gives it more torque on hills, or that's the idea, anyway.
@@ -354,16 +354,16 @@
 113. SAM: Can I ask you something important, about what scares you most about your bike?
     샘: 중요한 거 하나 물어봐도 돼요? 자전거에서 제일 무서운 게 뭐예요?
 
-114. MATEO: There are two things, and the first is the battery, because my friend's apartment burned last year. Everyone got out, thank God, but he lost everything, so now I charge my battery outside in the hallway, and I don't sleep well.
+114. MATEO: There are two things, and the first is the battery. My friend's apartment burned last year. Everyone got out, thank God, but he lost everything, so now I charge my battery outside in the hallway, and I don't sleep well.
     마테오: 두 가지요. 하나는 배터리. 작년에 친구 아파트가 탔어요. 다행히 다 빠져나왔는데 친구는 전부 잃었어요. 그래서 이제 배터리를 밖 복도에서 충전하고, 잠을 잘 못 자요.
 
 115. SAM: And what's the second thing, since you said two?
     샘: 두 번째는요? 두 가지라고 했잖아요.
 
-116. MATEO: The motor dying, your motor, so does it die in the rain?
+116. MATEO: The motor dying. Your motor. Does it die in the rain?
     마테오: 모터가 죽는 거요. 당신 모터요. 비 오면 죽어요?
 
-117. SAM: It shouldn't, but I'll be honest with you, Mateo, I don't know for sure yet, because I've never seen it in rain like this.
+117. SAM: It shouldn't, but I'll be honest with you, Mateo. I don't know for sure yet, because I've never seen it in rain like this.
     샘: 안 죽어야죠. 근데 솔직히 말할게요, 마테오. 아직 확실히는 몰라요. 이런 비에서 본 적이 없거든요.
 
 118. MATEO: Okay, then today you find out.
@@ -372,10 +372,10 @@
 119. TYLER: Sam, it's been almost four hours and twelve deliveries, and our motors haven't skipped once.
     타일러: 샘, 거의 네 시간에 배달 열두 건이에요. 우리 모터 한 번도 안 끊겼어요.
 
-120. SAM: I know, because I've been listening to mine the whole time like a nervous parent.
+120. SAM: I know. I've been listening to mine the whole time like a nervous parent.
     샘: 알아. 내내 초조한 부모처럼 내 모터 소리 듣고 있었어.
 
-121. MATEO: Your motor is quieter than mine, and on the hill, I felt the push, so it's good.
+121. MATEO: Your motor is quieter than mine, and on the hill, I felt the push. It's good.
     마테오: 당신 모터가 제 거보다 조용해요. 그리고 언덕에서 느꼈어요. 미는 힘. 좋아요.
 
 122. SAM: That means more to me than any test in our factory.
@@ -387,7 +387,7 @@
 124. SAM: It's more than the cheap ones online, but less than a week of downtime.
     샘: 온라인 싼 거보단 비싸요. 근데 일주일 못 일하는 것보단 싸요.
 
-125. MATEO: That's a good answer, so you should be the salesman, not him.
+125. MATEO: That's a good answer. You should be the salesman, not him.
     마테오: 좋은 대답이네요. 저 사람 말고 당신이 영업해야겠어요.
 
 126. TYLER: Everybody keeps trying to take my job today, first Ray and now Mateo.
@@ -408,13 +408,13 @@
 131. SAM: Go ahead, I'm listening.
     샘: 해 봐, 듣고 있어.
 
-132. TYLER: The real customer isn't Nina, it's Mateo, because Nina buys the motor, but Mateo is the one who loses money when it breaks. So what if we sell Nina something nobody else sells?
+132. TYLER: The real customer isn't Nina, it's Mateo. Nina buys the motor, but Mateo is the one who loses money when it breaks. So what if we sell Nina something nobody else sells?
     타일러: 진짜 고객은 니나가 아니라 마테오예요. 모터는 니나가 사지만, 고장 나면 돈을 잃는 건 마테오잖아요. 그러니까 니나한테 아무도 안 파는 걸 팔면 어때요?
 
 133. SAM: Like what, cheaper motors, when we can't go much cheaper?
     샘: 뭐 같은 거? 더 싼 모터? 더 싸게는 못 해.
 
-134. TYLER: A promise, that if a Ferrox motor dies, the shop swaps it in twenty-four hours, and Ray can fix the old one himself, with normal tools, so there's no shipping and no three weeks.
+134. TYLER: A promise. If a Ferrox motor dies, the shop swaps it in twenty-four hours, and Ray can fix the old one himself, with normal tools. There's no shipping and no three weeks.
     타일러: 약속이요. Ferrox 모터가 죽으면 가게에서 24시간 안에 바꿔 주고, 레이가 보통 공구로 옛 걸 직접 고치는 거예요. 배송도 없고, 3주도 없고요.
 
 135. SAM: That means Nina keeps spare motors in the shop.
@@ -429,16 +429,16 @@
 138. TYLER: Don't sound so surprised about it.
     타일러: 그렇게 놀란 티 내지 마세요.
 
-139. SAM: I'm not surprised, I'm proud, and there's a difference. Wen will hate it at first, because it means changing the housing, and then she'll love it.
+139. SAM: I'm not surprised, I'm proud, and there's a difference. Wen will hate it at first, because it means changing the housing. Then she'll love it.
     샘: 놀란 게 아니라 자랑스러운 거야. 그건 달라. 웬은 처음엔 싫어할 거야. 하우징을 바꿔야 하니까. 그러다 좋아하겠지.
 
-140. TYLER: That's how she is with every idea, because she hated my coffee machine idea for a month.
+140. TYLER: That's how she is with every idea. She hated my coffee machine idea for a month.
     타일러: 박사님은 모든 아이디어에 그래요. 제 커피 머신 아이디어도 한 달 동안 싫어했어요.
 
-141. SAM: That's how she is with everything, so hold on, it's Nina.
+141. SAM: That's how she is with everything. Hold on, it's Nina.
     샘: 웬은 모든 일에 그래. 잠깐, 니나다.
 
-142. NINA: Sam, I just got off the phone with my lead investor, and I've got good news and bad news, so which do you want first?
+142. NINA: Sam, I just got off the phone with my lead investor, and I've got good news and bad news. Which do you want first?
     니나: 샘, 방금 주 투자자랑 통화 끝났어요. 좋은 소식이랑 나쁜 소식이 있는데, 뭐부터 들을래요?
 
 143. SAM: Give me the good news first.
@@ -447,7 +447,7 @@
 144. NINA: Mateo called me and said your motor is the best one he's ever ridden, and he said, and I quote, "Tell the Ohio guy he can keep up."
     니나: 마테오가 전화했어요. 당신 모터가 지금까지 탄 것 중 최고래요. 그대로 옮기면, "오하이오 아저씨한테 따라올 만하다고 전해 줘요."
 
-145. SAM: That might be the nicest thing anyone has said to me this year, so what's the bad news?
+145. SAM: That might be the nicest thing anyone has said to me this year. And the bad news?
     샘: 올해 들은 말 중에 제일 좋은 말일지도 모르겠네요. 나쁜 소식은요?
 
 146. NINA: My investor wants proof that the new bike, with your motor, can pass the safety certification before he releases the January money.
@@ -456,7 +456,7 @@
 147. SAM: Before January, when you said the labs are backed up for months?
     샘: 1월 전에요? 시험소가 몇 달씩 밀려 있다면서요.
 
-148. NINA: I know what I said, and that's why it's bad news, because if there's no test date before Christmas, he says the deal is on hold.
+148. NINA: I know what I said, and that's why it's bad news. If there's no test date before Christmas, he says the deal is on hold.
     니나: 제가 한 말 알아요. 그래서 나쁜 소식이라는 거예요. 크리스마스 전에 시험 날짜가 없으면 거래를 보류하겠대요.
 
 149. SAM: Okay, we'll find a lab, and we'll find a date.

@@ -30,19 +30,19 @@
 005. EARL: We've got the second batch of tractor motors for Iowa, drone motors on line two, and Atlas seat motors like always, plus seven furnaces from Columbus that smell like a basement.
     얼: 아이오와 트랙터 모터 2차분, 2번 라인 드론 모터, 늘 하던 애틀라스 시트 모터. 그리고 지하실 냄새 나는 콜럼버스 퍼니스 일곱 대.
 
-006. WEN: The furnaces are mine, so I'm taking the blower housings out today, because I need the exact shape of every bracket.
+006. WEN: The furnaces are mine. I'm taking the blower housings out today, because I need the exact shape of every bracket.
     웬: 퍼니스는 제 거예요. 오늘 송풍기 하우징을 빼낼 거예요. 브래킷마다 정확한 모양이 필요하거든요.
 
 007. DARNELL: Hey, Tony, my uncle Reggie says hi, and he also says you owe him twenty bucks.
     대넬: 토니, 안녕하세요. 레지 삼촌이 안부 전하래요. 그리고 20달러 빚졌다고 하던데요.
 
-008. TONY: Reggie owes me forty, so tell him I said that.
+008. TONY: Reggie owes me forty, and you can tell him I said that.
     토니: 레지가 나한테 40 빚졌어. 내가 그랬다고 전해.
 
 009. TYLER: I love this guy already.
     타일러: 벌써 이 사람 좋아요.
 
-010. GLORIA: Tony, honey, I'm Gloria, and Sam says you want a motor at half price, so come to my conference room after the huddle and bring your numbers.
+010. GLORIA: Tony, honey, I'm Gloria. Sam says you want a motor at half price, so come to my conference room after the huddle and bring your numbers.
     글로리아: 토니, 자기, 난 글로리아야. 샘 말로는 반값 모터를 원한다며. 허들 끝나고 내 회의실로 와. 숫자 챙겨 와.
 
 011. TONY: I don't have numbers, I just have a feeling in my stomach.
@@ -51,7 +51,7 @@
 012. GLORIA: Then bring your stomach, honey.
     글로리아: 그럼 배를 들고 와, 자기.
 
-013. SAM: Okay, one more thing. Last week Tony lost forty heat pump jobs in one phone call, and I want everybody to understand why, so that's today's homework.
+013. SAM: Okay, there's one more thing. Last week Tony lost forty heat pump jobs in one phone call, and I want everybody to understand why. That's your homework for today.
     샘: 자, 하나 더. 지난주에 토니가 전화 한 통에 히트펌프 일감 40건을 잃었어. 다들 왜 그런지 이해했으면 좋겠어. 그게 오늘 숙제야.
 
 014. EARL: Homework on a Monday, great.
@@ -72,13 +72,13 @@
 019. SAM: Did you have to lay anybody off yet, Tony?
     샘: 토니, 벌써 해고한 사람 있어요?
 
-020. TONY: Not yet, but I cut hours, and one guy went to work for a pool company because, he said, "At least people still buy pools."
+020. TONY: Not yet, but I cut hours. One guy went to work for a pool company. He said, "At least people still buy pools."
     토니: 아직은. 근무 시간을 줄였지. 한 놈은 수영장 회사로 갔어. "적어도 수영장은 아직 사잖아요" 하더라.
 
 021. DARNELL: My uncle said the same thing at Easter, and he let one guy go.
     대넬: 삼촌도 부활절에 똑같은 얘기 했어요. 한 명 내보냈대요.
 
-022. TONY: Reggie's got five trucks, so one guy is twenty percent, and that hurts.
+022. TONY: Reggie's got five trucks, so one guy is twenty percent. That hurts.
     토니: 레지는 트럭이 다섯 대야. 한 명이면 20퍼센트지. 그거 아파.
 
 023. SAM: And what about the builder, Hartley Homes? Is there any chance they come back?
@@ -93,7 +93,7 @@
 026. TONY: No, and that's what makes me mad. He's not wrong, he's just thinking about next month while I'm thinking about the next fifteen years.
     토니: 아니. 그래서 화나는 거야. 틀린 게 아니라, 그 사람은 다음 달을 생각하고 난 앞으로 15년을 생각하는 거지.
 
-027. WEN: Both are rational, because they have different time horizons.
+027. WEN: Both are rational. They just have different time horizons.
     웬: 둘 다 합리적이에요. 시간 지평이 다를 뿐이에요.
 
 028. TONY: Is she always like this?
@@ -102,34 +102,34 @@
 029. EARL: Every day since 2016.
     얼: 2016년부터 매일.
 
-030. TONY: And you know the worst part? In October and November I couldn't keep up, because I had a waiting list of sixty families, and I worked Thanksgiving morning.
+030. TONY: And you know the worst part? In October and November I couldn't keep up. I had a waiting list of sixty families, and I worked Thanksgiving morning.
     토니: 제일 웃긴 게 뭔지 알아? 10월, 11월엔 감당이 안 됐어. 대기 명단에 가족이 예순 집이었고, 추수감사절 아침에도 일했어.
 
 031. EARL: We were one of them, and Loretta made the guy wait three hours until she found the right spot for the outdoor unit.
     얼: 우리도 그중 하나였어. 로레타가 실외기 자리 찾을 때까지 기사를 세 시간이나 기다리게 했지.
 
-032. TONY: Three hours is nothing, because I had a lady move hers four times.
+032. TONY: Three hours is nothing. I had a lady move hers four times.
     토니: 세 시간은 아무것도 아니야. 네 번 옮긴 아줌마도 있었어.
 
 033. SAM: So it wasn't really demand that died, it was demand that moved into last year.
     샘: 그러니까 수요가 죽은 게 아니라 작년으로 옮겨 간 거네요.
 
-034. TONY: Moved, died, I don't care what you call it, because I can't pay my techs with "moved."
+034. TONY: Moved, died, I don't care what you call it. I can't pay my techs with "moved."
     토니: 옮겼든 죽었든 뭐라 부르든 상관없어. "옮겼다"로는 기사들 월급 못 줘.
 
 035. GLORIA: Okay, boys, conference room, now. Tony, sit there, and Sam, sit where I can see you. Wen, you can stay with your furnaces.
     글로리아: 자, 얘들아, 회의실로. 지금. 토니, 거기 앉아. 샘, 내 눈에 보이는 데 앉아. 웬, 넌 퍼니스랑 있어도 돼.
 
-036. WEN: Thank you, because they're better company.
+036. WEN: Thank you. They're better company.
     웬: 고마워요. 걔들이 더 좋은 말동무예요.
 
 037. TONY: Wow, okay, that's cold.
     토니: 와, 알았어. 차갑네.
 
-038. GLORIA: Don't take it personally, honey, because she says that about everybody. Okay, I spent the weekend on the heat pump market, so let's do this properly.
+038. GLORIA: Don't take it personally, honey, she says that about everybody. Okay, I spent the weekend on the heat pump market, so let's do this properly.
     글로리아: 기분 나빠하지 마, 자기. 쟤는 누구한테나 그래. 자, 주말 내내 히트펌프 시장을 들여다봤어. 제대로 해 보자.
 
-039. SAM: She spent her weekend on it, which means she's going to tell us something we don't want to hear.
+039. SAM: She spent her weekend on it. That means she's going to tell us something we don't want to hear.
     샘: 주말을 거기 썼대요. 그럼 우리가 듣기 싫은 얘기를 하겠다는 거예요.
 
 040. GLORIA: That's my love language. First, the tax credit, which was thirty percent of the cost up to two thousand dollars, ended December thirty-first.
@@ -138,10 +138,10 @@
 041. TONY: Right, Merry Christmas, and goodbye.
     토니: 그렇지. 메리 크리스마스, 그리고 안녕.
 
-042. GLORIA: Second, the national numbers, which surprised me, because across the country heat pumps are still outselling gas furnaces this year, so the market didn't fall off a cliff everywhere.
+042. GLORIA: Second, the national numbers, and this surprised me. Across the country, heat pumps are still outselling gas furnaces this year. The market didn't fall off a cliff everywhere.
     글로리아: 둘째, 전국 수치. 이게 놀라웠어. 전국적으로 보면 올해도 히트펌프가 가스 퍼니스보다 더 팔리고 있어. 시장이 어디서나 급락한 건 아니야.
 
-043. TONY: Then the country should come to Columbus, because my phone says different.
+043. TONY: Then the country should come to Columbus. My phone says different.
     토니: 그럼 전국이 콜럼버스에 와 봐야 해. 내 전화는 딴 얘기 하거든.
 
 044. GLORIA: And I believe your phone, and here's why both are true. Down south, where it's warm, people already used heat pumps and electricity is the default, but up here it's cold and gas is cheap.
@@ -150,7 +150,7 @@
 045. SAM: So in Ohio, the credit was doing more of the work.
     샘: 그러니까 오하이오에선 공제가 더 많은 일을 하고 있었던 거네요.
 
-046. GLORIA: Exactly. Now I want to explain one phrase, because it's the whole game, and that's payback period, which Tony probably says every day.
+046. GLORIA: Exactly. Now I want to explain one phrase, because it's the whole game. Payback period. Tony probably says it every day.
     글로리아: 바로 그거야. 이제 한 단어를 설명할게. 이게 게임 전부거든. 회수 기간. 토니는 아마 매일 쓰는 말일 거야.
 
 047. TONY: I say it, but I don't always explain it right.
@@ -168,13 +168,13 @@
 051. TONY: Right, that's what I quoted.
     토니: 맞아, 내가 낸 견적이야.
 
-052. GLORIA: The heat pump with the gas furnace as backup is thirteen and a half, so the heat pump costs five thousand dollars more up front, and that's the upfront cost difference.
+052. GLORIA: The heat pump with the gas furnace as backup is thirteen and a half. So the heat pump costs five thousand dollars more up front, and that's the upfront cost difference.
     글로리아: 가스 퍼니스를 보조로 쓰는 히트펌프는 13,500. 그러니까 히트펌프가 처음에 5천 달러 더 드는 거야. 그게 초기 비용 차이지.
 
 053. TYLER: And how much would the Kerrs actually save every year?
     타일러: 그럼 커 부부가 실제로 매년 얼마나 아껴요?
 
-054. GLORIA: With cheap gas in Columbus, maybe three hundred dollars a year on heating, plus some on cooling because the new unit is efficient either way, so call it three-fifty.
+054. GLORIA: With cheap gas in Columbus, maybe three hundred dollars a year on heating. They'd save some on cooling too, since the new unit is efficient either way. Call it three-fifty.
     글로리아: 콜럼버스는 가스가 싸니까 난방으로 1년에 300달러쯤. 새 장비는 어느 쪽이든 효율이 좋으니까 냉방에서도 조금. 350이라고 치자.
 
 055. SAM: Five thousand divided by three-fifty is fourteen years.
@@ -186,13 +186,13 @@
 057. TONY: At seven years people say yes, and at fourteen years people say, "We'll think about it."
     토니: 7년이면 사람들이 해요. 14년이면 "생각해 볼게요" 하지.
 
-058. GLORIA: And "we'll think about it" means no, because in twenty-five years at a bank, nobody ever came back after "we'll think about it."
+058. GLORIA: And "we'll think about it" means no. In twenty-five years at a bank, nobody ever came back after "we'll think about it."
     글로리아: 그리고 "생각해 볼게요"는 안 한다는 뜻이야. 은행에서 25년 일했는데, 그 말 하고 다시 온 사람은 한 명도 없었어.
 
 059. TYLER: So in plain English, without the credit, a heat pump doesn't pencil out?
     타일러: 그러니까 쉽게 말해서, 공제 없으면 히트펌프는 계산이 안 맞는 거예요?
 
-060. GLORIA: For a house with cheap gas, often it doesn't, but don't write that on your forehead yet, because there's another column.
+060. GLORIA: For a house with cheap gas, often it doesn't. But don't write that on your forehead yet. Look at the other column.
     글로리아: 가스 싼 집이면 대개 안 맞지. 근데 아직 이마에 써 붙이진 마. 다른 칸이 있거든.
 
 061. SAM: Wait, what's that other column that says "Electric heat, propane"?
@@ -201,10 +201,10 @@
 062. GLORIA: Those are houses that don't have gas at all, like old houses with electric baseboard heat, farmhouses on propane, and apartments, and for them a heat pump can cut the heating bill in half.
     글로리아: 가스가 아예 없는 집들이야. 전기 걸레받이 난방하는 오래된 집, 프로판 쓰는 농가, 아파트. 그런 데는 히트펌프가 난방비를 반으로 줄일 수 있어.
 
-063. TONY: That's true, and those I can still sell, because a guy in Grove City with baseboard heat paid me back in his head before I finished the estimate.
+063. TONY: That's true, those I can still sell. A guy in Grove City with baseboard heat paid me back in his head before I finished the estimate.
     토니: 맞아. 그런 건 아직 팔 수 있어. 그로브시티에 걸레받이 난방 쓰는 사람은 내가 견적 다 쓰기도 전에 머릿속으로 계산 끝냈더라.
 
-064. GLORIA: For those houses the payback is five or six years even with no credit, so it's not "heat pumps are dead," it's "heat pumps are a smaller market for a while."
+064. GLORIA: For those houses the payback is five or six years, even with no credit. So it's not "heat pumps are dead." It's "heat pumps are a smaller market for a while."
     글로리아: 그런 집은 공제 없이도 회수 기간이 5, 6년이야. 그러니까 "히트펌프는 죽었다"가 아니라 "히트펌프 시장이 한동안 작아진다"야.
 
 065. SAM: What about rebates, though, like the thing Tony mentioned from the power company?
@@ -216,10 +216,10 @@
 067. TONY: It's six pages, with a photo of the old unit, a photo of the new unit, and a photo of your soul.
     토니: 여섯 장이야. 옛날 장비 사진, 새 장비 사진, 그리고 네 영혼 사진까지.
 
-068. TYLER: What about the state, though, since I heard there was federal money for state rebate programs?
+068. TYLER: What about the state, though? I heard there was federal money for state rebate programs.
     타일러: 주 정부는요? 주 환급 프로그램에 연방 돈이 내려왔다고 들었는데요.
 
-069. GLORIA: I heard that too, so I looked, and the website says "coming soon," which it's said for a long time, and I don't put "coming soon" on my board.
+069. GLORIA: I heard that too, so I looked. The website says "coming soon," and it's said that for a long time. I don't put "coming soon" on my board.
     글로리아: 나도 들었어. 그래서 찾아봤지. 웹사이트에 "곧 시작"이라고 써 있더라. 그게 꽤 오래됐어. 난 "곧 시작"은 내 칠판에 안 올려.
 
 070. SAM: Fair enough. So where does Ferrox fit in all this?
@@ -228,7 +228,7 @@
 071. GLORIA: That's the right question. Tony, roughly how many furnaces and air conditioners are there in Columbus?
     글로리아: 그게 맞는 질문이야. 토니, 콜럼버스에 퍼니스랑 에어컨이 대충 몇 대나 있어?
 
-072. TONY: In the metro there are maybe eight hundred thousand homes, and most have both, so call it a million and a half boxes.
+072. TONY: In the metro there are maybe eight hundred thousand homes, and most have both. Call it a million and a half boxes.
     토니: 광역권에 집이 80만 채쯤 될 거야. 대부분 둘 다 있으니까 상자 150만 개라고 치자.
 
 073. GLORIA: And how many do you replace in a normal year?
@@ -237,13 +237,13 @@
 074. TONY: Across the whole city, maybe one in fifteen, and the rest we fix.
     토니: 도시 전체로 치면 열다섯 대 중 한 대쯤. 나머진 고치지.
 
-075. GLORIA: That's my point, because fourteen out of fifteen boxes don't get replaced this year, they get repaired, and credits don't matter to a repair, since a broken fan in July is a broken fan in July.
+075. GLORIA: That's my point. Fourteen out of fifteen boxes don't get replaced this year, they get repaired. Credits don't matter to a repair, because a broken fan in July is a broken fan in July.
     글로리아: 내 말이 그거야. 열다섯 중 열넷은 올해 교체 안 하고 수리해. 수리엔 공제가 상관없어. 7월에 고장 난 팬은 그냥 7월에 고장 난 팬이야.
 
 076. SAM: So that's the repair-and-replace market.
     샘: 그게 수리·교체 시장이네요.
 
-077. GLORIA: Exactly, because the new-system market depends on Washington while the repair market depends on weather, and I trust weather more, since weather keeps its promises.
+077. GLORIA: Exactly. The new-system market depends on Washington, and the repair market depends on weather. I trust weather more, because weather keeps its promises.
     글로리아: 바로 그거야. 신규 시장은 워싱턴에 달렸고, 수리 시장은 날씨에 달렸어. 난 날씨를 더 믿어. 날씨는 약속을 지키거든.
 
 078. TYLER: That's going on a T-shirt, I swear.
@@ -273,22 +273,22 @@
 086. TONY: Then I need to sit down more.
     토니: 그럼 더 앉아야 돼.
 
-087. GLORIA: Don't celebrate yet, because each bracket kit needs its own tooling and Wen wants five brackets to start, which is about a hundred and twenty thousand dollars before we sell one motor.
+087. GLORIA: Don't celebrate yet. Each bracket kit needs its own tooling, and Wen wants five brackets to start. That's about a hundred and twenty thousand dollars before we sell one motor.
     글로리아: 아직 축하하지 마. 브래킷 키트마다 금형이 따로 필요해. 웬은 처음에 브래킷 다섯 개를 원하고. 모터 하나 팔기 전에 12만 달러쯤 들어.
 
 088. SAM: And how many do we need to sell to get that back?
     샘: 그럼 그거 회수하려면 몇 개 팔아야 돼요?
 
-089. GLORIA: A little over six hundred motors, so Tony's five hundred gets us most of the way and the breakfast club gets us the rest.
+089. GLORIA: A little over six hundred motors. Tony's five hundred gets us most of the way, and the breakfast club gets us the rest.
     글로리아: 600개 조금 넘게. 토니 500개로 거의 다 가고, 나머진 조찬 클럽이 채워 주는 거지.
 
 090. TONY: The breakfast club, huh? I'm going to tell them she called it that.
     토니: 조찬 클럽이라. 이 사람이 그렇게 불렀다고 걔들한테 말할 거야.
 
-091. SAM: Tony, you have the Kerrs at three, right? Would you mind if I came along, because I want to hear a real family do this math?
+091. SAM: Tony, you have the Kerrs at three, right? Mind if I come along? I want to hear a real family do this math.
     샘: 토니, 세 시에 커 부부 만나죠? 같이 가도 돼요? 진짜 가족이 이 계산을 하는 걸 듣고 싶어요.
 
-092. TONY: Come, and bring the cookies from your break room, because Amy likes cookies.
+092. TONY: Come, and bring the cookies from your break room. Amy likes cookies.
     토니: 와. 너네 휴게실 쿠키 챙겨 와. 에이미가 쿠키 좋아해.
 
 093. AMY: Come in, and sorry about the bottles everywhere. Ellie finally fell asleep, so everybody please whisper. Jason told me about you, Sam, the motor guy.
@@ -297,7 +297,7 @@
 094. SAM: That's me, and I brought cookies.
     샘: 저예요. 쿠키 가져왔어요.
 
-095. AMY: Then you can stay. Tony fixed the leak last week, which, thank you, it's running, but I want to understand, so just tell me yes or no: is a heat pump worth it or not?
+095. AMY: Then you can stay. Tony fixed the leak last week, and thank you, it's running. But I want to understand. Is a heat pump worth it or not? Just tell me yes or no.
     에이미: 그럼 계셔도 돼요. 토니가 지난주에 누수 고쳐 줬어요. 감사해요, 잘 돌아가요. 근데 이해하고 싶어요. 그냥 예, 아니요로만 말해 주세요. 히트펌프가 그만한 가치가 있어요, 없어요?
 
 096. TONY: Honestly? It depends.
@@ -306,16 +306,16 @@
 097. AMY: I really hate "it depends."
     에이미: 전 "경우에 따라"가 진짜 싫어요.
 
-098. JASON: She's a pharmacist, so she likes exact doses.
+098. JASON: She's a pharmacist. She likes exact doses.
     제이슨: 약사라서 정확한 용량을 좋아해요.
 
-099. SAM: Then let me give you an exact dose. Your house has gas heat and your gas is cheap, so with no credit, a heat pump takes about fourteen years to pay for itself.
+099. SAM: Then let me give you an exact dose. Your house has gas heat, and your gas is cheap. With no credit, a heat pump takes about fourteen years to pay for itself.
     샘: 그럼 정확한 용량을 드릴게요. 이 집은 가스 난방이고 가스가 싸요. 그래서 공제 없으면 히트펌프 본전 뽑는 데 14년쯤 걸려요.
 
 100. AMY: Fourteen years means Ellie will be fourteen, and she'll hate us by then.
     에이미: 14년이면 엘리가 열네 살이네요. 그때쯤이면 우릴 싫어할 텐데.
 
-101. JASON: She'll hate us anyway, because that's how teenagers work.
+101. JASON: She'll hate us anyway. That's how teenagers work.
     제이슨: 어차피 싫어할 거야. 십 대는 원래 그래.
 
 102. AMY: So the answer is no.
@@ -327,13 +327,13 @@
 104. AMY: Okay, go ahead.
     에이미: 네, 말씀하세요.
 
-105. TONY: Your AC is old, but it's sealed now, so run it this summer and save a little every month in a jar. When it dies, you replace it with a heat pump that's sized right, and you know what you're paying.
+105. TONY: Your AC is old, but it's sealed now. Run it this summer and save a little every month in a jar. When it dies, you replace it with a heat pump that's sized right, and you know what you're paying.
     토니: 에어컨은 오래됐지만 이제 밀봉됐어. 올여름은 그냥 돌려. 매달 조금씩 병에 모아. 그게 죽으면 크기 딱 맞는 히트펌프로 바꾸는 거야. 그땐 얼마 내는지 알고.
 
 106. JASON: And what about the fan, the tired one the other guy mentioned?
     제이슨: 그럼 팬은요? 전에 온 분이 말한 그 지친 팬이요.
 
-107. SAM: That's where I come in, because the fan motor in your furnace runs every time the AC runs, and if it's tired, it's costing you money every hour.
+107. SAM: That's where I come in. The fan motor in your furnace runs every time the AC runs, and if it's tired, it's costing you money every hour.
     샘: 그게 제 몫이에요. 퍼니스 팬 모터는 에어컨이 돌 때마다 같이 돌아요. 그게 지쳤으면 매시간 돈이 새는 거예요.
 
 108. AMY: Roughly how much money are we talking about?
@@ -342,10 +342,10 @@
 109. SAM: In your house, Wen would want me to measure it first, but my guess is sixty to a hundred dollars a summer, which isn't a fortune.
     샘: 이 집에선 웬이라면 먼저 재 보라고 하겠지만, 제 추측으론 여름 한 철에 60에서 100달러요. 큰돈은 아니에요.
 
-110. AMY: But it's not nothing, because a hundred dollars is a lot of diapers.
+110. AMY: But it's not nothing. A hundred dollars is a lot of diapers.
     에이미: 그래도 적은 건 아니죠. 100달러면 기저귀가 꽤 돼요.
 
-111. TONY: And the best part is that when you do get a heat pump, the new fan motor stays, so you don't throw it away.
+111. TONY: And here's the best part. When you do get a heat pump, the new fan motor stays, so you don't throw it away.
     토니: 그리고 제일 좋은 건, 나중에 히트펌프 달아도 새 팬 모터는 그대로 쓴다는 거야. 안 버려도 돼.
 
 112. AMY: So we spend a little now and save a little now, and the big thing waits.
@@ -366,7 +366,7 @@
 117. TONY: No, I'm going to come back in the fall and drink your coffee.
     토니: 아니. 가을에 와서 너네 커피 마실 거야.
 
-118. AMY: Can I ask you something, Sam? My sister thinks the credit ending was good, because she says, why should her taxes pay for my air conditioner?
+118. AMY: Can I ask you something, Sam? My sister thinks the credit ending was good. She says, why should her taxes pay for my air conditioner?
     에이미: 하나 물어봐도 돼요, 샘? 언니는 세액공제 끝난 게 잘된 거래요. 왜 자기 세금으로 내 에어컨 값을 내 주냐고요.
 
 119. SAM: Honestly, your sister has a point.
@@ -393,10 +393,10 @@
 126. GLORIA: So how was the family?
     글로리아: 그래서 그 가족은 어땠어?
 
-127. SAM: They said "not yet" to the heat pump and "yes" to the motor, and Gloria, it was the most honest sales call I've ever seen, because Tony talked them out of spending money.
+127. SAM: They said "not yet" to the heat pump and "yes" to the motor. Gloria, it was the most honest sales call I've ever seen. Tony talked them out of spending money.
     샘: 히트펌프엔 "아직", 모터엔 "예" 했어요. 글로리아, 제가 본 영업 중에 제일 정직했어요. 토니가 돈 쓰지 말라고 설득하더라고요.
 
-128. GLORIA: And they'll buy from him for twenty years, which is how my bank worked, because the best loan I ever made was the one I talked a man out of.
+128. GLORIA: And they'll buy from him for twenty years. That's how my bank worked. The best loan I ever made was the one I talked a man out of.
     글로리아: 그럼 그 사람들은 20년 동안 토니한테 살 거야. 우리 은행도 그랬어. 내가 한 최고의 대출은 어떤 남자한테 하지 말라고 설득한 대출이었어.
 
 129. SAM: So do we actually do it and build the replacement motor?
@@ -408,7 +408,7 @@
 131. SAM: It says "Eighteen weeks" in green, and that's good.
     샘: "18주", 초록색이네요. 좋은 거잖아요.
 
-132. GLORIA: It's good, but it's not twenty-five million good, because that loan money has a fence around it. It's for the new building and the new line, not for adventures.
+132. GLORIA: It's good, but it's not twenty-five million good. That loan money has a fence around it. It's for the new building and the new line, not for adventures.
     글로리아: 좋지. 근데 2,500만 달러만큼 좋은 건 아니야. 그 대출금엔 울타리가 쳐져 있어. 새 건물이랑 새 라인용이지, 모험용이 아니야.
 
 133. SAM: Is a furnace motor really an adventure, Gloria?
@@ -426,7 +426,7 @@
 137. SAM: You wrote my daughter's graduation on the company runway board?
     샘: 회사 런웨이 칠판에 제 딸 졸업식을 써 놨어요?
 
-138. GLORIA: It's the only thing in this building you read every day. Now, the motor, so what are we calling it?
+138. GLORIA: It's the only thing in this building you read every day. Now, the motor. What are we calling it?
     글로리아: 이 건물에서 네가 매일 읽는 건 그거 하나뿐이잖아. 자, 모터. 이름은 뭐로 할 거야?
 
 139. SAM: Wen wants to call it "FX-B1," with B for blower.
@@ -435,7 +435,7 @@
 140. GLORIA: Of course she does, and Earl's going to call it something else within a week.
     글로리아: 당연히 그렇겠지. 일주일도 안 돼서 얼이 딴 이름으로 부를 거야.
 
-141. SAM: Probably. Gloria, one more thing, because Tony's five hundred is great, but the other sixty contractors don't buy from Tony, they buy from Buckeye.
+141. SAM: Probably. Gloria, there's one more thing. Tony's five hundred is great, but the other sixty contractors don't buy from Tony. They buy from Buckeye.
     샘: 아마도요. 글로리아, 하나 더요. 토니 500개는 좋아요. 근데 나머지 업체 예순 곳은 토니한테 안 사요. 벅아이한테 사요.
 
 142. GLORIA: You mean the distributor.
@@ -447,10 +447,10 @@
 144. GLORIA: So call them tomorrow morning, before you lose your nerve.
     글로리아: 그럼 내일 아침에 전화해. 겁먹기 전에.
 
-145. SAM: I don't have to, because Tony called them for me and their sales guy already called back.
+145. SAM: I don't have to. Tony called them for me, and their sales guy already called back.
     샘: 그럴 필요 없어요. 토니가 대신 전화했고, 거기 영업사원이 벌써 다시 전화했어요.
 
-146. GLORIA: That was fast, too fast, so what did he say?
+146. GLORIA: That was fast, too fast if you ask me. What did he say?
     글로리아: 빠르네. 너무 빨라. 뭐래?
 
 147. SAM: His name is Carl, and he said, "Any friend of Tony's is a friend of mine," and then he asked if I play golf.

@@ -39,43 +39,43 @@
 008. SAM: Is it that obvious? I thought I was hiding it pretty well.
     샘: 그렇게 티 나요? 꽤 잘 숨기고 있는 줄 알았는데.
 
-009. TSA OFFICER: I've been doing this for fourteen years, so I can tell a vacation from a funeral from a divorce lawyer, and you're somewhere in the middle.
-    TSA 요원: 이 일 14년 해서 휴가 가는 사람, 장례식 가는 사람, 이혼 변호사 만나러 가는 사람 다 구분해요. 선생님은 그 중간 어디쯤이네요.
+009. TSA OFFICER: I've been doing this for fourteen years. I can tell a vacation from a funeral from a divorce lawyer, and you're somewhere in the middle.
+    TSA 요원: 이 일 14년 했어요. 휴가 가는 사람, 장례식 가는 사람, 이혼 변호사 만나러 가는 사람 다 구분하는데, 선생님은 그 중간 어디쯤이네요.
 
 010. SAM: That's about right, actually.
     샘: 사실 대충 맞아요.
 
-011. VICTORIA: You came. I ordered two coffees, and yours is black, because I remembered from Columbus.
-    빅토리아: 왔네요. 커피 두 잔 시켜 뒀어요. 콜럼버스에서 기억해 둬서 당신 건 블랙이에요.
+011. VICTORIA: You came. I ordered two coffees, and yours is black. I remembered from Columbus.
+    빅토리아: 왔네요. 커피 두 잔 시켜 뒀어요. 당신 건 블랙이에요. 콜럼버스에서 기억했죠.
 
 012. SAM: That was two years ago, in a hotel lounge in Columbus.
     샘: 그게 2년 전 콜럼버스 호텔 라운지에서였는데요.
 
-013. VICTORIA: I remember everything about people who say no to me, because it's a short list. Sit.
+013. VICTORIA: I remember everything about people who say no to me. It's a short list. Sit.
     빅토리아: 저한테 '아니요'라고 한 사람에 대해선 다 기억해요. 짧은 목록이거든요. 앉아요.
 
 014. SAM: How did you get me into a lounge? I had to buy a seventy-nine-dollar ticket to Chicago just to get past security.
     샘: 라운지엔 어떻게 들어오게 한 거예요? 보안 검색 통과하려고 79달러짜리 시카고행 표를 사야 했어요.
 
-015. VICTORIA: You bought a ticket? You could've asked, because I have guest passes.
+015. VICTORIA: You bought a ticket? You could've asked. I have guest passes.
     빅토리아: 표를 샀어요? 물어보지 그랬어요. 게스트 패스가 있는데.
 
 016. SAM: You said "come alone," but you didn't say "and I'll handle it."
     샘: "혼자 오라"고만 했지, "내가 알아서 할게"라곤 안 했잖아요.
 
-017. VICTORIA: Fair, so I'll pay you back the seventy-nine dollars. Everything is a negotiation, Sam. Even this coffee.
+017. VICTORIA: Fair. I'll pay you back the seventy-nine dollars. Everything is a negotiation, Sam. Even this coffee.
     빅토리아: 맞네요. 79달러 갚을게요. 모든 게 협상이에요, 샘. 이 커피까지도요.
 
 018. SAM: You said that the first time we met, right before you offered me twenty-two million dollars.
     샘: 처음 만났을 때도 그 말 했죠. 저한테 2,200만 달러를 제안하기 직전에요.
 
-019. VICTORIA: I say it to everybody, because it's the only thing I say that's always true.
-    빅토리아: 다들한테 해요. 제가 하는 말 중에 늘 사실인 유일한 말이거든요.
+019. VICTORIA: I say it to everybody. It's the only thing I say that's always true.
+    빅토리아: 다들한테 해요. 제가 하는 말 중에 늘 사실인 유일한 말이에요.
 
 020. SAM: Victoria, I need to say something before we start. My lawyer doesn't know I'm here, but my CFO does, and if this is a trap, I'll tell Ben everything tonight.
     샘: 빅토리아, 시작하기 전에 할 말이 있어요. 제 변호사는 제가 여기 온 거 모르지만 CFO는 알아요. 이게 함정이면 오늘 밤 벤한테 전부 말할 거예요.
 
-021. VICTORIA: It's not a trap, and you should tell him, because lawyers are allowed to hear about things that never happened.
+021. VICTORIA: It's not a trap. And you should tell him, since lawyers are allowed to hear about things that never happened.
     빅토리아: 함정 아니에요. 그리고 말해야죠. 변호사는 일어나지 않은 일에 대해 들어도 되거든요.
 
 022. SAM: What do you mean, things that never happened?
@@ -105,8 +105,8 @@
 030. SAM: Victoria, why am I here? You didn't invite me to talk about Darnell's dog.
     샘: 빅토리아, 저 왜 여기 있는 거예요? 대넬 개 얘기하자고 부른 건 아니잖아요.
 
-031. VICTORIA: Drink your coffee first, because it's the last easy thing we'll do today.
-    빅토리아: 커피부터 마셔요. 오늘 우리가 할 마지막 쉬운 일이니까.
+031. VICTORIA: Drink your coffee first. It's the last easy thing we'll do today.
+    빅토리아: 커피부터 마셔요. 오늘 우리가 할 마지막 쉬운 일이에요.
 
 032. SAM: Okay, I'm drinking it.
     샘: 좋아요, 마시고 있어요.
@@ -123,8 +123,8 @@
 036. SAM: And do you feel lighter with your four million dollars?
     샘: 그래서 그 400만 달러로 가벼워졌어요?
 
-037. VICTORIA: Nobody at Calloway feels lighter, because that's not how we're built.
-    빅토리아: 캘러웨이에 가벼운 사람은 없어요. 우린 그렇게 생겨 먹지 않았거든요.
+037. VICTORIA: Nobody at Calloway feels lighter. That's not how we're built.
+    빅토리아: 캘러웨이에 가벼운 사람은 없어요. 우린 그렇게 생겨 먹지 않았어요.
 
 038. SAM: Then how are you built?
     샘: 그럼 어떻게 생겨 먹었는데요?
@@ -135,8 +135,8 @@
 040. SAM: And you're the piece.
     샘: 그리고 당신이 그 조각이고요.
 
-041. VICTORIA: You noticed, which is good, because you've gotten better at reading people since 2024.
-    빅토리아: 알아챘네요, 좋아요. 2024년 이후로 사람 읽는 게 늘었네요.
+041. VICTORIA: You noticed. Good. You've gotten better at reading people since 2024.
+    빅토리아: 알아챘네요. 좋아요. 2024년 이후로 사람 읽는 게 늘었네요.
 
 042. SAM: People keep telling me that, my CFO, a reporter, and now you.
     샘: 다들 그 말을 해요. 우리 CFO도, 기자도, 이제 당신까지.
@@ -144,11 +144,11 @@
 043. VICTORIA: People are right about you more often than you think. Okay, here's the first thing, off the record. Do you know what "off the record" means between two people who aren't reporters?
     빅토리아: 사람들은 당신에 대해 생각보다 자주 맞아요. 좋아요, 첫 번째 얘기예요, 오프 더 레코드로요. 기자가 아닌 두 사람 사이에서 '오프 더 레코드'가 무슨 뜻인지 알아요?
 
-044. SAM: No, so tell me.
+044. SAM: No. Tell me.
     샘: 몰라요. 말해 줘요.
 
-045. VICTORIA: It means if you repeat it, I'll say you're lying, and you'll have no proof, and I'll be very convincing, because I always am.
-    빅토리아: 당신이 그걸 옮기면 전 당신이 거짓말한다고 할 거고, 당신한텐 증거가 없다는 뜻이에요. 그리고 전 아주 설득력 있을 거예요, 늘 그러니까.
+045. VICTORIA: It means if you repeat it, I'll say you're lying, and you'll have no proof. And I'll be very convincing. I always am.
+    빅토리아: 당신이 그걸 옮기면 전 당신이 거짓말한다고 할 거고, 당신한텐 증거가 없다는 뜻이에요. 그리고 전 아주 설득력 있을 거예요. 늘 그래요.
 
 046. SAM: Then why tell me? Why take the risk at all?
     샘: 그럼 왜 말해요? 왜 굳이 위험을 감수해요?
@@ -195,14 +195,14 @@
 060. SAM: You told him to compete in eighteen months, so what did you think he'd do?
     샘: 18개월 안에 경쟁하라고 했는데, 그 사람이 뭘 할 거라고 생각했어요?
 
-061. VICTORIA: I thought he'd hire smart people, which he did, because Kevin is very smart. I didn't think he'd hire smart people and tell them to carry a USB drive.
-    빅토리아: 똑똑한 사람들을 뽑을 거라고 생각했죠. 실제로 그랬고요, 케빈은 아주 똑똑하니까. 똑똑한 사람을 뽑아서 USB를 들고 오게 할 거라곤 생각 못 했어요.
+061. VICTORIA: I thought he'd hire smart people, and he did. Kevin is very smart. I didn't think he'd hire smart people and tell them to carry a USB drive.
+    빅토리아: 똑똑한 사람들을 뽑을 거라고 생각했고, 실제로 그랬죠. 케빈은 아주 똑똑해요. 똑똑한 사람을 뽑아서 USB를 들고 오게 할 거라곤 생각 못 했어요.
 
 062. SAM: That's a very convenient thing not to think, Victoria, for a person in your job.
     샘: 당신 같은 자리에 있는 사람한텐 생각 안 하기에 아주 편리한 일이네요, 빅토리아.
 
-063. VICTORIA: Yes, it is, and you're allowed to say that, because I've said it to myself every night since July.
-    빅토리아: 네, 그래요. 그렇게 말해도 돼요. 7월 이후로 매일 밤 저 자신한테 그 말을 하니까요.
+063. VICTORIA: Yes, it is. You're allowed to say that. I've said it to myself every night since July.
+    빅토리아: 네, 그래요. 그렇게 말해도 돼요. 7월 이후로 매일 밤 저 자신한테 그 말을 해요.
 
 064. SAM: And what about the blog in 2025, "Who's really behind America's rare-earth-free motor?" and the calls to Wen's father in Shenzhen?
     샘: 그럼 2025년 그 블로그 "미국 희토류 없는 모터 뒤에 진짜 누가 있나?"하고, 선전의 웬 아버지한테 걸려 온 전화는요?
@@ -219,16 +219,16 @@
 068. SAM: Wen's father is seventy-one, and he thought his daughter was in trouble, so she lied to him for the first time in ten years so he wouldn't worry.
     샘: 웬 아버지는 일흔한 살이신데, 딸이 곤경에 빠진 줄 아셨어요. 그래서 웬은 아버지 걱정 안 하시게 10년 만에 처음으로 거짓말을 했고요.
 
-069. VICTORIA: I know, because I read Megan Cho's article twice.
+069. VICTORIA: I know. I read Megan Cho's article twice.
     빅토리아: 알아요. 메건 조 기사를 두 번 읽었어요.
 
 070. SAM: Then say it to Wen, not to me.
     샘: 그럼 나한테 말고 웬한테 말해요.
 
-071. VICTORIA: Someday, but not today, because today I'm not allowed to say anything to anybody, which is why I'm here talking to you.
-    빅토리아: 언젠가요. 오늘은 아니에요. 오늘 전 누구한테도 아무 말도 하면 안 되거든요. 그래서 여기서 당신이랑 얘기하는 거죠.
+071. VICTORIA: Someday, but not today. Today I'm not allowed to say anything to anybody, which is why I'm here talking to you.
+    빅토리아: 언젠가요. 오늘은 아니에요. 오늘 전 누구한테도 아무 말도 하면 안 돼요. 그래서 여기서 당신이랑 얘기하는 거죠.
 
-072. SAM: That makes no sense, because you're talking to the man who's suing you.
+072. SAM: That makes no sense. You're talking to the man who's suing you.
     샘: 말이 안 되잖아요. 당신을 고소한 사람이랑 얘기하고 있는데.
 
 073. VICTORIA: It makes perfect sense if you work at Calloway. Can I tell you something that isn't about the case?
@@ -246,17 +246,17 @@
 077. VICTORIA: A memo. I was eleven, and I watched him read it, and I decided that day that I would never be the person who reads the memo. I'd be the person who writes it.
     빅토리아: 메모요. 전 열한 살이었고 아버지가 그걸 읽는 걸 봤어요. 그리고 그날 결심했죠. 절대 메모를 읽는 사람은 되지 않겠다, 메모를 쓰는 사람이 되겠다고요.
 
-078. SAM: My father found out about Moraine the same way, because they closed it with a memo.
-    샘: 우리 아버지도 모레인을 똑같이 알았어요. 메모 한 장으로 닫았거든요.
+078. SAM: My father found out about Moraine the same way. They closed it with a memo.
+    샘: 우리 아버지도 모레인을 똑같이 알았어요. 메모 한 장으로 닫았죠.
 
-079. VICTORIA: I know, because I heard him say it on Channel 7, and that's when I started to hate this case.
+079. VICTORIA: I know. I heard him say it on Channel 7, and that's when I started to hate this case.
     빅토리아: 알아요. 채널 7에서 그분이 그 말 하는 걸 들었어요. 그때부터 이 사건이 싫어지기 시작했죠.
 
 080. SAM: Because you saw your father standing at that time clock.
     샘: 그 출퇴근 기록기 앞에 서 있던 아버님이 보여서요.
 
-081. VICTORIA: Because I saw that I'd become the memo. Don't look at me like that, because I'm not asking for sympathy. I'm a senior vice president at a Fortune fifty company, and I'm fine.
-    빅토리아: 제가 메모가 됐다는 걸 봤으니까요. 그렇게 보지 마요, 동정해 달라는 거 아니에요. 전 포춘 50대 기업 수석부사장이고, 괜찮아요.
+081. VICTORIA: Because I saw that I'd become the memo. Don't look at me like that. I'm not asking for sympathy. I'm a senior vice president at a Fortune fifty company, and I'm fine.
+    빅토리아: 제가 메모가 됐다는 걸 봤으니까요. 그렇게 보지 마요. 동정해 달라는 거 아니에요. 전 포춘 50대 기업 수석부사장이고, 괜찮아요.
 
 082. SAM: Are you?
     샘: 괜찮아요?
@@ -273,11 +273,11 @@
 086. SAM: Why are you telling me that, when it's your own company's legal advice?
     샘: 당신 회사 자체 법률 자문인데, 왜 그걸 나한테 말해요?
 
-087. VICTORIA: Because the next part matters, and I want you to believe it. Let's move to the window, because I want to watch planes for this.
+087. VICTORIA: Because the next part matters, and I want you to believe it. Let's move to the window. I want to watch planes for this.
     빅토리아: 다음 얘기가 중요하고, 당신이 믿었으면 하니까요. 창가로 가요. 이건 비행기를 보면서 하고 싶어요.
 
-088. VICTORIA: Do you know what I learned in twenty-six years of big-company deals? Read between the lines, because Calloway never settles before it loses, and it always settles right after.
-    빅토리아: 대기업 거래 26년 하면서 뭘 배웠는지 알아요? 행간을 읽으라는 거예요. 캘러웨이는 지기 전엔 절대 합의 안 하고, 지고 나면 언제나 바로 하거든요.
+088. VICTORIA: Do you know what I learned in twenty-six years of big-company deals? Read between the lines. Calloway never settles before it loses, and it always settles right after.
+    빅토리아: 대기업 거래 26년 하면서 뭘 배웠는지 알아요? 행간을 읽으라는 거예요. 캘러웨이는 지기 전엔 절대 합의 안 하고, 지고 나면 언제나 바로 해요.
 
 089. SAM: So right after the twenty-third.
     샘: 그러니까 23일 바로 뒤에요.
@@ -294,8 +294,8 @@
 093. SAM: So what does Calloway want, money, time, or for me to go away?
     샘: 그래서 캘러웨이는 뭘 원해요? 돈, 시간, 아니면 내가 사라지는 거?
 
-094. VICTORIA: That's the wrong question, because everybody knows Calloway wants money, time and silence. The right question is what Calloway can't lose.
-    빅토리아: 그건 틀린 질문이에요. 캘러웨이가 돈, 시간, 침묵을 원한다는 건 다 알거든요. 맞는 질문은 캘러웨이가 뭘 잃으면 안 되느냐예요.
+094. VICTORIA: That's the wrong question. Everybody knows Calloway wants money, time and silence. The right question is what Calloway can't lose.
+    빅토리아: 그건 틀린 질문이에요. 캘러웨이가 돈, 시간, 침묵을 원한다는 건 다 알아요. 맞는 질문은 캘러웨이가 뭘 잃으면 안 되느냐예요.
 
 095. SAM: So what can't Calloway lose?
     샘: 그래서 캘러웨이가 뭘 잃으면 안 되는데요?
@@ -312,14 +312,14 @@
 099. SAM: You sound like Ben. That's a little terrifying, honestly.
     샘: 벤처럼 말하네요. 솔직히 좀 무섭네요.
 
-100. VICTORIA: Ben sounds like me, because he learned it in June. Sam, here's what I want you to hear: when Calloway comes to the table, and they will, they'll offer you a lot of money, and you'll want to say no, because you're you.
-    빅토리아: 벤이 저처럼 말하는 거예요, 6월에 배웠으니까. 샘, 이걸 들어 줬으면 해요. 캘러웨이가 테이블에 나오면, 나올 거예요, 아주 많은 돈을 제안할 거고, 당신은 거절하고 싶겠죠. 당신이니까.
+100. VICTORIA: Ben sounds like me. He learned it in June. Sam, here's what I want you to hear: when Calloway comes to the table, and they will, they'll offer you a lot of money, and you'll want to say no, because you're you.
+    빅토리아: 벤이 저처럼 말하는 거예요. 6월에 배웠죠. 샘, 이걸 들어 줬으면 해요. 캘러웨이가 테이블에 나오면, 나올 거예요, 아주 많은 돈을 제안할 거고, 당신은 거절하고 싶겠죠. 당신이니까.
 
 101. SAM: Probably, yes.
     샘: 아마 그렇겠죠.
 
-102. VICTORIA: Don't say no to the money, say no to the silence, because money is the easy part. Their real bargaining chip is something else.
-    빅토리아: 돈에 대고 거절하지 말고 침묵에 대고 거절해요. 돈은 쉬운 부분이에요. 그쪽 진짜 협상 카드는 다른 거예요.
+102. VICTORIA: Don't say no to the money. Say no to the silence. Money is the easy part, and their real bargaining chip is something else.
+    빅토리아: 돈에 대고 거절하지 말고 침묵에 대고 거절해요. 돈은 쉬운 부분이고, 그쪽 진짜 협상 카드는 다른 거예요.
 
 103. SAM: What's a bargaining chip for them, in plain English?
     샘: 쉽게 말하면 그쪽한테 협상 카드가 뭔데요?
@@ -342,8 +342,8 @@
 109. SAM: From us, you mean.
     샘: 우리한테서 말이군요.
 
-110. VICTORIA: I didn't say that, because I'm watching a plane land.
-    빅토리아: 전 그런 말 안 했어요. 비행기 착륙하는 거 보고 있거든요.
+110. VICTORIA: I didn't say that. I'm watching a plane land.
+    빅토리아: 전 그런 말 안 했어요. 비행기 착륙하는 거 보고 있어요.
 
 111. SAM: Victoria, you want Calloway to buy motors from the company it stole from.
     샘: 빅토리아, 캘러웨이가 자기가 훔친 회사한테서 모터를 사길 원하는 거군요.
@@ -372,7 +372,7 @@
 119. SAM: And what about Martin Shaw, the man who wrote the email?
     샘: 그럼 그 이메일을 쓴 마틴 쇼는요?
 
-120. VICTORIA: Martin's been on leave since June, and he's not coming back, so now they need a second name, and it's me or nobody. That's how a bridge stays standing, because you throw away the cracked pieces and pour new concrete.
+120. VICTORIA: Martin's been on leave since June, and he's not coming back. Now they need a second name, and it's me or nobody. That's how a bridge stays standing: you throw away the cracked pieces and pour new concrete.
     빅토리아: 마틴은 6월부터 휴직 중이고 안 돌아올 거예요. 이제 두 번째 이름이 필요한데, 저든지 아무도 아니든지예요. 다리는 그렇게 서 있는 거예요. 금 간 조각은 버리고 새 콘크리트를 붓죠.
 
 121. SAM: Victoria, why are you really telling me all this?
@@ -396,10 +396,10 @@
 127. SAM: If you lose your job, what will you do?
     샘: 일자리를 잃으면 뭐 할 거예요?
 
-128. VICTORIA: Nobody's ever asked me that, not my husband and not my headhunter. I don't know, so maybe I'll finally learn how small companies work, since I've only ever bought them.
+128. VICTORIA: Nobody's ever asked me that, not my husband and not my headhunter. I don't know. Maybe I'll finally learn how small companies work, since I've only ever bought them.
     빅토리아: 그런 질문은 처음 받아요. 남편도 헤드헌터도 안 물었어요. 모르겠어요. 어쩌면 드디어 작은 회사가 어떻게 돌아가는지 배울지도요. 전 사기만 했으니까.
 
-129. SAM: You'd hate it, because the coffee machine sounds like a goose.
+129. SAM: You'd hate it. The coffee machine sounds like a goose.
     샘: 싫어할 거예요. 커피 머신이 거위 소리를 내거든요.
 
 130. VICTORIA: I'd love it. I'd hate it and I'd love it, and that's the problem.
@@ -414,7 +414,7 @@
 133. SAM: And mine's going to Chicago without me, so that's seventy-nine dollars wasted.
     샘: 그리고 제 건 저 없이 시카고로 가겠네요. 79달러 날렸어요.
 
-134. VICTORIA: Here's seventy-nine dollars in cash, because I told you I'd pay you back.
+134. VICTORIA: Here's seventy-nine dollars in cash. I told you I'd pay you back.
     빅토리아: 여기 현금 79달러요. 갚겠다고 했잖아요.
 
 135. SAM: You keep your promises. I didn't expect that from you.
@@ -435,13 +435,13 @@
 140. VICTORIA: Tell him, and tell him I said he was very good in June, because he'll hate that. Goodbye, Sam.
     빅토리아: 말해요. 그리고 6월에 아주 잘했다고 제가 그러더라고 전해요. 싫어할 테니까. 잘 가요, 샘.
 
-141. GLORIA: Well? You've been sitting in that truck for twenty minutes, because I can hear the engine running.
+141. GLORIA: Well? You've been sitting in that truck for twenty minutes. I can hear the engine running.
     글로리아: 그래서? 그 트럭에 20분째 앉아 있잖아. 엔진 소리 들려.
 
 142. SAM: I'm just checking the oil.
     샘: 그냥 오일 확인 중이에요.
 
-143. GLORIA: Don't give me Stan's line, baby, so what did she want?
+143. GLORIA: Don't give me Stan's line, baby. What did she want?
     글로리아: 스탠 대사 하지 마, 얘. 그 여자 뭘 원했어?
 
 144. SAM: I can't tell you on the phone, but Gloria, I think Calloway's going to come to the table after November twenty-third, if we win.
@@ -453,10 +453,10 @@
 146. SAM: She told me she was watching a plane land.
     샘: 비행기 착륙하는 거 보고 있다고 했어요.
 
-147. BEN: Sam, Gloria patched me in, so you met with Victoria Lang alone, in an airport, without telling me?
+147. BEN: Sam, Gloria patched me in. You met with Victoria Lang alone, in an airport, without telling me?
     벤: 샘, 글로리아가 나 연결했어. 빅토리아 랭을 공항에서 혼자, 나한테 말도 안 하고 만났다고?
 
-148. SAM: Parties are allowed to talk, Ben, because you told me that in 2025.
+148. SAM: Parties are allowed to talk, Ben. You told me that in 2025.
     샘: 당사자끼린 얘기해도 되잖아요, 벤. 2025년에 그렇게 말해 줬잖아요.
 
 149. BEN: I told you that so you'd know it, not so you'd do it! Come to Columbus tomorrow and bring every word. And Sam, did she say anything about me?

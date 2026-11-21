@@ -27,7 +27,7 @@
 004. WEN: I hope it wasn't too terrible to read.
     웬: 읽기에 너무 끔찍하진 않았길 바라요.
 
-005. DONNA: Honey, it made me cry over my eggs, because somebody called your daddy? That's low, so the pie's on the house.
+005. DONNA: Honey, it made me cry over my eggs. Somebody called your daddy? That's low, so the pie's on the house.
     도나: 아이고, 달걀 먹다가 울었어요. 누가 아버님한테 전화를 했다고? 그건 비열하지. 파이는 서비스예요.
 
 006. WEN: Thank you, Donna, that's very kind.
@@ -39,16 +39,16 @@
 008. WEN: Where should I start, when there's a lot, and most of it is not funny?
     웬: 어디서부터 시작해야 할까요? 할 얘기가 많은데, 대부분 웃기지 않아요.
 
-009. SAM: At the beginning, because I've known you nine years, and all I know is that you were born in Shenzhen and your father's a teacher, which is embarrassing, actually.
+009. SAM: At the beginning. I've known you nine years, and all I know is that you were born in Shenzhen and your father's a teacher, which is embarrassing, actually.
     샘: 처음부터요. 9년을 알았는데, 내가 아는 건 선전에서 태어났고 아버님이 선생님이라는 것뿐이에요. 사실 좀 창피하네요.
 
-010. WEN: It's not embarrassing, because I never told you. Okay, I was born in 1983, when Shenzhen was fishing villages and rice fields and a lot of construction cranes, and my father says the cranes came before the buildings.
+010. WEN: It's not embarrassing. I never told you. Okay, I was born in 1983, when Shenzhen was fishing villages and rice fields and a lot of construction cranes, and my father says the cranes came before the buildings.
     웬: 창피한 거 아니에요. 제가 말을 안 했으니까요. 좋아요, 전 1983년에 태어났어요. 그때 선전은 어촌이랑 논이랑 공사 크레인뿐이었어요. 아버지 말로는 건물보다 크레인이 먼저 왔대요.
 
 011. SAM: Fishing villages, when Shenzhen has, what, seventeen million people now?
     샘: 어촌이요? 선전이 지금 인구 천칠백만쯤 되지 않아요?
 
-012. WEN: More, because it grew up with me, and every year the city was taller. My mother worked in an electronics factory, assembling tiny motors for cassette players, Walkmans, thousands a day.
+012. WEN: More. It grew up with me, and every year the city was taller. My mother worked in an electronics factory, assembling tiny motors for cassette players, Walkmans, thousands a day.
     웬: 더 돼요. 저랑 같이 자랐어요. 해마다 도시가 높아졌죠. 어머니는 전자 공장에서 일하셨어요. 카세트 플레이어, 워크맨에 들어가는 작은 모터를 조립하셨어요. 하루에 수천 개씩요.
 
 013. SAM: Your mother built motors, and I never knew that.
@@ -60,34 +60,34 @@
 015. SAM: That sounds like me and my dad, except it was a carburetor and a hammer.
     샘: 저랑 우리 아버지 같네요. 우린 카뷰레터랑 망치였지만요.
 
-016. WEN: My father taught physics, and every night after dinner he gave me one problem, only one, so if I solved it, I could watch television, and if not, no television.
+016. WEN: My father taught physics. Every night after dinner he gave me one problem, only one. If I solved it, I could watch television, and if not, no television.
     웬: 아버지는 물리를 가르치셨어요. 매일 저녁 먹고 나면 문제를 하나 주셨어요. 딱 하나요. 풀면 텔레비전을 볼 수 있고, 못 풀면 못 보는 거예요.
 
 017. SAM: So how often did you get to watch TV?
     샘: 그래서 텔레비전은 얼마나 자주 봤어요?
 
-018. WEN: Almost never, because he gave me hard problems.
+018. WEN: Almost never. He gave me hard problems.
     웬: 거의 못 봤어요. 어려운 문제만 주셨거든요.
 
 019. DONNA: Here's your apple, and I warmed it up, but don't tell Lou I used the good butter.
     도나: 여기 사과 파이. 데워 왔어. 좋은 버터 쓴 거 루한테 말하지 마.
 
-020. SAM: Thanks, Donna. Keep going, Wen, because I want to know how you got to Ohio.
+020. SAM: Thanks, Donna. Keep going, Wen. I want to know how you got to Ohio.
     샘: 고마워요, 도나. 계속해요, 웬. 오하이오엔 어떻게 왔는지 궁금해요.
 
-021. WEN: I studied electrical engineering in Guangzhou and then worked two years at a big motor company in Shenzhen, on rare earth motors with neodymium magnets, because that was the only way anyone built a good motor then.
+021. WEN: I studied electrical engineering in Guangzhou and then worked two years at a big motor company in Shenzhen, on rare earth motors with neodymium magnets. That was the only way anyone built a good motor then.
     웬: 광저우에서 전기공학을 공부하고, 선전의 큰 모터 회사에서 2년 일했어요. 네오디뮴 자석을 쓰는 희토류 모터요. 그땐 좋은 모터를 만드는 방법이 그것뿐이었거든요.
 
 022. SAM: So you started on the other side, the rare earth side.
     샘: 그럼 반대편에서 시작했네요. 희토류 쪽에서.
 
-023. WEN: I did. In 2008, I got into the PhD program at Ohio State with a full scholarship, under a famous motor designer, and I was so proud, my father was so proud, and my mother cried for three days.
+023. WEN: I did. In 2008, I got into the PhD program at Ohio State with a full scholarship, under a famous motor designer. I was so proud, my father was so proud, and my mother cried for three days.
     웬: 반대편에서 시작했죠. 2008년에 전액 장학금으로 오하이오주립대 박사과정에 들어갔어요. 지도교수가 모터 설계로 유명한 분이었고요. 전 너무 자랑스러웠고, 아버지도 자랑스러워하셨고, 어머니는 사흘을 우셨어요.
 
 024. SAM: Was that happy crying or sad crying?
     샘: 기뻐서 운 거예요, 슬퍼서 운 거예요?
 
-025. WEN: Both, because Chinese mothers can do both at the same time. At the airport, my father gave me an envelope with three thousand dollars, all his savings, and he said, "Don't come back until you're a doctor."
+025. WEN: Both. Chinese mothers can do both at the same time. At the airport, my father gave me an envelope with three thousand dollars, all his savings, and he said, "Don't come back until you're a doctor."
     웬: 둘 다요. 중국 엄마들은 둘을 동시에 할 수 있어요. 공항에서 아버지가 봉투를 주셨는데 3천 달러가 들어 있었어요. 전 재산이었죠. 그러고는 '박사 되기 전엔 돌아오지 마라' 하셨어요.
 
 026. SAM: Three thousand dollars, on a teacher's salary.
@@ -99,7 +99,7 @@
 028. SAM: What was Ohio like that first year?
     샘: 첫해에 오하이오는 어땠어요?
 
-029. WEN: Cold, because I arrived in August, and everybody said, "Wait until January," and I didn't understand. In Shenzhen, January is fifteen degrees, but in Columbus, January was minus fifteen, so I bought my first coat at a thrift store for seven dollars.
+029. WEN: Cold. I arrived in August, and everybody said, "Wait until January," and I didn't understand. In Shenzhen, January is fifteen degrees, but in Columbus, January was minus fifteen, so I bought my first coat at a thrift store for seven dollars.
     웬: 추웠어요. 8월에 왔는데 다들 '1월까지 기다려 봐'라고 했어요. 무슨 말인지 몰랐죠. 선전은 1월에 15도인데, 콜럼버스는 1월에 영하 15도였어요. 중고 가게에서 첫 코트를 샀어요. 7달러짜리요.
 
 030. SAM: A seven-dollar coat in a Columbus January, and I'm so sorry.
@@ -120,10 +120,10 @@
 035. WEN: In September 2010, there was a fight between China and Japan over a fishing boat and some islands, and suddenly China stopped selling rare earths to Japan, just stopped, overnight.
     웬: 2010년 9월에 중국이랑 일본이 어선이랑 섬 몇 개 때문에 싸웠어요. 그러더니 갑자기 중국이 일본에 희토류 판매를 끊었어요. 그냥 끊었어요. 하룻밤 사이에.
 
-036. SAM: I remember that, sort of, because it was on the news for a week.
+036. SAM: I remember that, sort of. It was on the news for a week.
     샘: 그거 기억나요. 어렴풋이. 일주일쯤 뉴스에 나왔죠.
 
-037. WEN: For you, a week, but for me, the most important week of my life, because neodymium went up ten times in a few months, Japanese motor companies panicked, and I thought, this will happen again, to everybody.
+037. WEN: For you, a week, but for me, the most important week of my life. Neodymium went up ten times in a few months, Japanese motor companies panicked, and I thought, this will happen again, to everybody.
     웬: 샘한텐 일주일이었죠. 저한텐 인생에서 제일 중요한 일주일이었어요. 네오디뮴 값이 몇 달 만에 열 배가 뛰었고, 일본 모터 회사들은 공황 상태였어요. 그래서 생각했죠. 이건 또 일어난다, 모두한테.
 
 038. SAM: And so you changed your research.
@@ -135,16 +135,16 @@
 040. SAM: That sounds exactly like you, even back then.
     샘: 그때도 딱 웬답네요.
 
-041. WEN: He let me, grudgingly, and that's where the flux stacking idea came from, the four-seventeen, which I drew the first version of on a napkin in the student union at two a.m.
+041. WEN: He let me, grudgingly, and that's where the flux stacking idea came from, the four-seventeen. I drew the first version on a napkin in the student union at two a.m.
     웬: 마지못해 허락하셨어요. 자속 적층 아이디어가 거기서 나왔어요. 특허 '417이요. 첫 버전은 새벽 두 시에 학생회관 냅킨에 그렸어요.
 
 042. SAM: A napkin, and Ben is going to love that.
     샘: 냅킨이라니. 벤이 아주 좋아하겠네요.
 
-043. WEN: Ben already asked for it, but I don't have it, because somebody threw it away, probably me.
+043. WEN: Ben already asked for it, but I don't have it. Somebody threw it away, probably me.
     웬: 벤이 벌써 달라고 했어요. 근데 없어요. 누가 버렸어요. 아마 제가요.
 
-044. SAM: What happened with your mother, because you said she cried for three days when you left, and you've never mentioned her, not once?
+044. SAM: What happened with your mother. You said she cried for three days when you left, and you've never mentioned her, not once?
     샘: 어머님은 어떻게 되셨어요? 떠날 때 사흘을 우셨다면서, 어머님 얘기는 한 번도 안 했잖아요.
 
 045. WEN: She got sick in my second year with liver cancer, very fast, and my father called in February 2010 and said, "Come home now."
@@ -159,13 +159,13 @@
 048. SAM: Why not, and what could possibly stop you?
     샘: 왜요? 뭐가 막을 수 있었는데요?
 
-049. WEN: Because I was on a student visa, and at that time, Chinese students in science, especially in some fields, got stuck in what they call administrative processing when they tried to come back, for months, sometimes a year, and some never came back.
+049. WEN: Because I was on a student visa. At that time, Chinese students in science, especially in some fields, got stuck in what they call administrative processing when they tried to come back. It took months, sometimes a year, and some never came back.
     웬: 학생 비자였거든요. 그때는 과학 분야, 특히 일부 분야의 중국 학생들이 다시 들어오려고 하면 행정 심사라는 데 걸렸어요. 몇 달씩, 어떤 땐 1년씩요. 아예 못 돌아온 사람도 있었고요.
 
 050. SAM: Administrative processing, meaning what, in plain English?
     샘: 행정 심사요? 쉬운 말로 하면요?
 
-051. WEN: In plain English, it means "we're checking you, and we won't tell you how long, or why," and motors are on a sensitive list, so my professor said, "If you leave, you might lose your lab, your funding, everything."
+051. WEN: In plain English, it means "we're checking you, and we won't tell you how long, or why." Motors are on a sensitive list, and my professor said, "If you leave, you might lose your lab, your funding, everything."
     웬: 쉬운 말로, '널 조사하고 있는데 얼마나 걸릴지, 왜 하는지는 안 알려 줄게'라는 뜻이에요. 모터는 민감 목록에 있었어요. 교수님이 '떠나면 연구실이고 연구비고 다 잃을 수도 있다'고 하셨어요.
 
 052. SAM: So you stayed here.
@@ -177,7 +177,7 @@
 054. SAM: Wen.
     샘: 웬.
 
-055. WEN: My father never blamed me, and he said, "Your mother would want you to finish," but I've always thought this country cost me my mother's funeral, and I stayed anyway, and I don't know what that says about me.
+055. WEN: My father never blamed me. He said, "Your mother would want you to finish." But I've always thought this country cost me my mother's funeral, and I stayed anyway. I don't know what that says about me.
     웬: 아버지는 한 번도 절 탓하지 않으셨어요. '네 엄마는 네가 끝내길 바랄 거다' 하셨죠. 근데 전 늘 이 나라 때문에 어머니 장례식을 놓쳤다고 생각했어요. 그런데도 남았고요. 그게 저에 대해 뭘 말해 주는지 모르겠어요.
 
 056. SAM: It says you finished what she wanted you to finish.
@@ -192,7 +192,7 @@
 059. SAM: Please, Donna, the whole pot.
     샘: 네, 도나. 통째로요.
 
-060. DONNA: Coming right up, honey, so take your time, because nobody's waiting for this booth until the farmers come at seven.
+060. DONNA: Coming right up, honey, so take your time. Nobody's waiting for this booth until the farmers come at seven.
     도나: 금방 갖다줄게. 천천히 해요. 일곱 시에 농부들 오기 전까진 이 자리 기다리는 사람 없으니까.
 
 061. SAM: So what happened after the PhD?
@@ -210,19 +210,19 @@
 065. SAM: I read it four times in my truck, and I didn't understand half of it, but I understood that you'd done something everybody said was impossible.
     샘: 트럭에서 네 번 읽었어요. 절반은 이해 못 했는데, 다들 불가능하다던 걸 웬이 해냈다는 건 알겠더라고요.
 
-066. WEN: You called the lab and said, "My name is Sam, and I have a garage and a used dynamometer, so want to see if it spins?"
+066. WEN: You called the lab and said, "My name is Sam, and I have a garage and a used dynamometer. Want to see if it spins?"
     웬: 연구실로 전화해서 그러셨죠. '전 샘이라고 하는데요, 차고랑 중고 다이너모미터가 있어요. 돌아가는지 볼래요?'
 
 067. SAM: Did I really say that?
     샘: 내가 진짜 그랬어요?
 
-068. WEN: Word for word, and I almost hung up, because I thought you were crazy. Then I drove to Dayton on a Saturday, and Betsy spun my motor, and I stopped thinking you were crazy, mostly.
+068. WEN: Word for word, and I almost hung up. I thought you were crazy. Then I drove to Dayton on a Saturday, and Betsy spun my motor, and I stopped thinking you were crazy, mostly.
     웬: 토씨 하나 안 틀리고요. 끊을 뻔했어요. 미친 사람인 줄 알았거든요. 그러다 토요일에 데이턴까지 운전해 갔고, 베치가 제 모터를 돌렸고, 그때부터 미쳤다는 생각을 접었어요. 대부분은요.
 
 069. SAM: And in 2016, you quit a good job with a good salary to start a company in an old warehouse with a guy you'd met six times.
     샘: 그리고 2016년에 월급 좋은 직장을 그만두고 여섯 번 만난 남자랑 낡은 창고에서 회사를 차렸죠.
 
-070. WEN: Seven times, and there was a visa problem, because when I left that company, I needed a new sponsor, and that was you. You paid the lawyer with your own credit card, and you never told Gloria.
+070. WEN: Seven times, and there was a visa problem. When I left that company, I needed a new sponsor, and that was you. You paid the lawyer with your own credit card, and you never told Gloria.
     웬: 일곱 번이요. 그리고 비자 문제도 있었어요. 그 회사를 나오면 새 후원자가 필요했는데, 그게 샘이었죠. 변호사비를 개인 신용카드로 내셨잖아요. 글로리아한텐 끝까지 말 안 하시고.
 
 071. SAM: Gloria wasn't there yet. Wen, can I ask you some questions, real ones?
@@ -234,43 +234,43 @@
 073. SAM: Why did you stay, after your mother, after the visas, and after everything this country did to make it hard? Why not go back to Shenzhen, where you'd be running a big motor company by now?
     샘: 왜 남았어요? 어머님 일, 비자 일, 이 나라가 힘들게 만든 그 모든 걸 겪고도요. 왜 선전으로 안 돌아갔어요? 지금쯤 큰 모터 회사를 운영하고 있을 텐데.
 
-074. WEN: Probably, because my classmates do, and one of them has a factory with eight thousand people.
+074. WEN: Probably. My classmates do, and one of them has a factory with eight thousand people.
     웬: 아마 그랬겠죠. 제 동창들이 그러고 있어요. 한 명은 직원 8천 명짜리 공장을 갖고 있어요.
 
 075. SAM: So why didn't you?
     샘: 그런데 왜요?
 
-076. WEN: Because in Shenzhen, I would build what I was told to build, but here, a crazy man with a garage let me build what I believed in, so I came for a degree, and I stayed for a garage.
+076. WEN: Because in Shenzhen, I would build what I was told to build. Here, a crazy man with a garage let me build what I believed in. I came for a degree, and I stayed for a garage.
     웬: 선전에선 시키는 걸 만들었을 테니까요. 여기선 차고 가진 미친 남자가 제가 믿는 걸 만들게 해 줬어요. 학위 때문에 왔다가, 차고 때문에 남은 거예요.
 
 077. SAM: That's the nicest thing anyone has ever said about my garage.
     샘: 누가 내 차고에 대해 한 말 중에 제일 다정한 말이네요.
 
-078. WEN: It's also because of Ohio, which I don't say often, because people here are honest about what they think, even when they're wrong, while in Shenzhen everyone is polite, and you never know.
+078. WEN: It's also because of Ohio, which I don't say often. People here are honest about what they think, even when they're wrong, while in Shenzhen everyone is polite, and you never know.
     웬: 오하이오 때문이기도 해요. 자주 하는 말은 아닌데요. 여기 사람들은 틀렸을 때조차 자기 생각을 솔직하게 말해요. 선전에선 다들 예의 바른데, 속은 절대 몰라요.
 
 079. SAM: You mean like Jayden's uncle.
     샘: 제이든 삼촌처럼요.
 
-080. WEN: Like Jayden's uncle, who thinks I'm a problem, but he says it to my face, through Jayden, and I can respect that. The blog, I can't respect, because the blog has no face.
+080. WEN: Like Jayden's uncle, who thinks I'm a problem, but he says it to my face, through Jayden, and I can respect that. The blog, I can't respect. The blog has no face.
     웬: 제이든 삼촌처럼요. 절 문제라고 생각하지만, 제이든을 통해서라도 면전에서 말하잖아요. 그건 존중할 수 있어요. 블로그는 존중 못 해요. 블로그엔 얼굴이 없으니까요.
 
 081. SAM: Second question, honestly, do you feel like you belong here?
     샘: 두 번째 질문이요. 솔직히, 여기 속해 있다고 느껴요?
 
-082. WEN: At the factory, yes, and at Lou's, yes, because Donna gives me pie, but at the airport, no. Every time I come back from China, I stand in the green card line and wait for the officer to look at my passport too long.
+082. WEN: At the factory, yes, and at Lou's, yes. Donna gives me pie, but at the airport, no. Every time I come back from China, I stand in the green card line and wait for the officer to look at my passport too long.
     웬: 공장에선 네. 루스에서도 네, 도나가 파이를 주니까요. 공항에선 아니에요. 중국에서 돌아올 때마다 영주권자 줄에 서서 심사관이 제 여권을 너무 오래 보기를 기다려요.
 
 083. SAM: And does that actually happen?
     샘: 그게 정말 그래요?
 
-084. WEN: Every year, and last February they took me to a little room for two hours, asked about my work, and looked at my phone, and then they said, "Welcome home, ma'am," welcome home, after two hours.
+084. WEN: Every year. Last February they took me to a little room for two hours, asked about my work, and looked at my phone. Then they said, "Welcome home, ma'am." Welcome home, after two hours.
     웬: 매년요. 작년 2월엔 작은 방에 두 시간 동안 데려갔어요. 일에 대해 묻고, 휴대폰을 봤어요. 그러고는 '집에 오신 걸 환영합니다'래요. 두 시간 뒤에, 집에 온 걸 환영한대요.
 
 085. SAM: You never told me any of that.
     샘: 그런 얘기 한 번도 안 했잖아요.
 
-086. WEN: You were busy with the Haverford deal, and it's normal, because for people like me it's normal, and being under suspicion is like the weather, so you bring an umbrella.
+086. WEN: You were busy with the Haverford deal, and it's normal. For people like me it's normal, and being under suspicion is like the weather, so you bring an umbrella.
     웬: 해버퍼드 거래로 바쁘셨잖아요. 그리고 그건 흔한 일이에요. 저 같은 사람들한텐 정상이에요. 의심받는 건 날씨 같은 거예요. 우산을 챙기면 돼요.
 
 087. SAM: Third question, and you can tell me it's none of my business, but have you thought about becoming a citizen?
@@ -288,19 +288,19 @@
 091. SAM: So either way, you could lose something.
     샘: 그러니까 어느 쪽이든 뭔가를 잃을 수 있네요.
 
-092. WEN: Either way, and that's the immigrant math, which Gloria would understand, because every choice has a cost that doesn't show up on the board.
+092. WEN: Either way, and that's the immigrant math, which Gloria would understand. Every choice has a cost that doesn't show up on the board.
     웬: 어느 쪽이든요. 그게 이민자의 계산이에요. 글로리아는 이해할 거예요. 모든 선택엔 칠판에 안 나타나는 비용이 있으니까요.
 
 093. SAM: Would a passport stop the blog, if you were a citizen?
     샘: 시민권자가 되면 여권이 그 블로그를 막아 줄까요?
 
-094. WEN: No, because they'd say, "She only became a citizen for the lawsuit," and people who want to suspect you will always find a reason.
+094. WEN: No. They'd say, "She only became a citizen for the lawsuit," and people who want to suspect you will always find a reason.
     웬: 아니요. '소송 때문에 시민권을 딴 것뿐'이라고 하겠죠. 의심하고 싶은 사람은 늘 이유를 찾아요.
 
-095. SAM: Then here's my answer, which is that whatever you decide, citizen or not, I've got your back, and if the Army calls someday and says they want us but not you, I'll tell them to call somebody else.
+095. SAM: Then here's my answer. Whatever you decide, citizen or not, I've got your back. If the Army calls someday and says they want us but not you, I'll tell them to call somebody else.
     샘: 그럼 내 대답은 이거예요. 시민권을 받든 안 받든, 웬이 뭘 결정하든 난 웬 편이에요. 언젠가 육군이 전화해서 우리는 원하는데 웬은 안 된다고 하면, 다른 데 알아보라고 할 거예요.
 
-096. WEN: Don't say that, because you can't afford to say that.
+096. WEN: Don't say that. You can't afford to say that.
     웬: 그런 말 하지 마세요. 그런 말 할 형편이 아니잖아요.
 
 097. SAM: I just did, in front of Donna, which makes it a contract.
@@ -312,7 +312,7 @@
 099. WEN: Everybody in Ohio is a witness now.
     웬: 이제 오하이오 사람은 다 증인이네요.
 
-100. SAM: Wen, one more question, which is why you never told me any of this in nine years.
+100. SAM: Wen, one more question. Why did you never tell me any of this in nine years?
     샘: 웬, 하나만 더요. 9년 동안 왜 이 얘기를 하나도 안 했어요?
 
 101. WEN: Because I thought if I was useful enough, my story wouldn't matter, since nobody asks the useful person where she's from. Then the blog came, and I learned that's not true, so I'm telling you now.
@@ -327,13 +327,13 @@
 104. SAM: You don't have to do that.
     샘: 그럴 필요 없어요.
 
-105. WEN: I know, and that's why I want to, because ninety-four people signed a banner for me, and they deserve more than "thank you."
+105. WEN: I know, and that's why I want to. Ninety-four people signed a banner for me, and they deserve more than "thank you."
     웬: 알아요. 그래서 하고 싶은 거예요. 아흔네 명이 저를 위해 현수막에 서명했어요. '고맙다'는 말보다 더 많은 걸 받을 자격이 있어요.
 
 106. SAM: Okay, tomorrow at seven, and I'll make sure Earl doesn't sing.
     샘: 좋아요. 내일 일곱 시. 얼이 노래 안 부르게 할게요.
 
-107. DONNA: Farmers are here, so sorry, kids, booth time's up. Dr. Liu, come back anytime, because pie's always on the house for you now.
+107. DONNA: Farmers are here, so sorry, kids, booth time's up. Dr. Liu, come back anytime. Pie's always on the house for you now.
     도나: 농부들 왔네. 미안해, 얘들아. 자리 비워 줘야 해. 리우 박사님, 언제든 와요. 이제부터 박사님 파이는 늘 서비스예요.
 
 108. WEN: Donna, you'll go out of business that way.
@@ -345,7 +345,7 @@
 110. SAM: Thank you, Donna, for everything, and for the good butter.
     샘: 고마워요, 도나. 다요. 좋은 버터도요.
 
-111. EARL: Okay, gather around, and before anybody asks, no, I'm not singing, because Sam made me promise.
+111. EARL: Okay, gather around, and before anybody asks, no, I'm not singing. Sam made me promise.
     얼: 자, 모여. 누가 묻기 전에 말하는데, 노래 안 한다. 샘이 약속하라더라.
 
 112. TYLER: Aw, man, that's a shame.
@@ -360,10 +360,10 @@
 115. WEN: You all read the blog. It said my father is a Party member. That's true. He's a retired physics teacher who grows tomatoes. He gave me three thousand dollars, all his savings, when I left for Ohio. I still have the envelope.
     웬: 다들 블로그 읽었죠. 아버지가 당원이라고 했어요. 사실이에요. 토마토 키우는 은퇴한 물리 선생님이세요. 제가 오하이오로 떠날 때 전 재산 3천 달러를 주셨어요. 그 봉투 아직 갖고 있어요.
 
-116. WEN: The blog said I go to China every year, and that's true, because I visit him at Chinese New Year, and every year when I come back, the airport puts me in a little room, which I never told any of you.
+116. WEN: The blog said I go to China every year, and that's true. I visit him at Chinese New Year. And every year when I come back, the airport puts me in a little room. I never told any of you.
     웬: 블로그엔 제가 매년 중국에 간다고 써 있었죠. 사실이에요. 춘절에 아버지를 뵈러 가요. 그리고 매년 돌아올 때마다 공항에서 작은 방에 들어가요. 여러분 누구한테도 말 안 했어요.
 
-117. WEN: My mother died in 2010, while I was a student here, and I didn't go to her funeral, because I was afraid I couldn't come back. I chose this country over her funeral, and I want you to know how much this place cost me.
+117. WEN: My mother died in 2010, while I was a student here, and I didn't go to her funeral. I was afraid I couldn't come back. I chose this country over her funeral, and I want you to know how much this place cost me.
     웬: 제 어머니는 2010년, 제가 여기 학생일 때 돌아가셨어요. 다시 못 돌아올까 봐 장례식에 못 갔어요. 어머니 장례식 대신 이 나라를 택한 거예요. 이곳이 저한테 얼마나 큰 대가를 치르게 했는지 알아 주셨으면 해요.
 
 118. PATTY: Oh, honey.
@@ -384,13 +384,13 @@
 123. JAYDEN: He said, "Calling somebody's old man in China to scare him? That's not how Americans fight." He still thinks the visa stuff in Georgia was right, but he said that.
     제이든: '중국에 있는 남의 아버지한테 전화해서 겁을 줘? 그건 미국 사람이 싸우는 방식이 아니야.' 조지아 비자 건은 여전히 옳았다고 생각하시지만, 그 말은 하셨어요.
 
-124. WEN: Tell your uncle thank you, because I think I'd like your uncle.
+124. WEN: Tell your uncle thank you. I think I'd like your uncle.
     웬: 삼촌께 감사하다고 전해 줘요. 삼촌이랑 잘 맞을 것 같아요.
 
-125. JAYDEN: He wants to meet you and see the motor without Chinese magnets, because he doesn't believe it's real.
+125. JAYDEN: He wants to meet you and see the motor without Chinese magnets. He doesn't believe it's real.
     제이든: 삼촌이 박사님 만나 보고 싶대요. 중국 자석 없는 모터를 보고 싶대요. 진짜라는 걸 안 믿으시거든요.
 
-126. WEN: Bring him on Saturday, and I'll put it on Betsy for him, because physics is very convincing.
+126. WEN: Bring him on Saturday, and I'll put it on Betsy for him. Physics is very convincing.
     웬: 토요일에 모셔 와요. 베치에 올려서 보여 드릴게요. 물리학은 설득력이 아주 좋거든요.
 
 127. GLORIA: Okay, I'm going to cry, and I don't cry at seven a.m., so somebody say something about motors.
@@ -411,16 +411,16 @@
 132. BEN: Sam, I've got two things, one good and one bad, so which do you want first?
     벤: 샘, 두 가지야. 하나는 좋고 하나는 나빠. 뭐부터 들을래?
 
-133. SAM: Bad, because it's always bad first.
+133. SAM: Bad. It's always bad first.
     샘: 나쁜 거. 항상 나쁜 거부터.
 
-134. BEN: Calloway's lawyers filed their first discovery requests this morning, and they want everything about Wen, immigration records, travel records, and communications with anyone in China for ten years, all of it.
+134. BEN: Calloway's lawyers filed their first discovery requests this morning. They want everything about Wen: immigration records, travel records, and communications with anyone in China for ten years.
     벤: 캘러웨이 변호사들이 오늘 아침 첫 증거개시 요청을 냈어. 웬에 관한 걸 전부 달래. 이민 기록, 여행 기록, 10년 동안 중국에 있는 누구랑이든 주고받은 연락, 전부 다.
 
 135. SAM: That's the blog, just the blog in a legal costume.
     샘: 그거 블로그잖아. 법의 옷만 입힌 블로그.
 
-136. BEN: That's exactly what it is, because their theory will be that if any technology moved, it moved from Ferrox to China, not from Ferrox to Calloway. It's garbage, but it's legal garbage, and we have to answer it.
+136. BEN: That's exactly what it is. Their theory will be that if any technology moved, it moved from Ferrox to China, not from Ferrox to Calloway. It's garbage, but it's legal garbage, and we have to answer it.
     벤: 딱 그거야. 그쪽 논리는 기술이 어디로 갔다면 페록스에서 캘러웨이가 아니라 페록스에서 중국으로 갔다는 거겠지. 쓰레기야. 근데 법적인 쓰레기라 답은 해야 해.
 
 137. WEN: Let them have it, all of it.
@@ -429,7 +429,7 @@
 138. SAM: Wen, are you sure?
     샘: 웬, 정말요?
 
-139. WEN: Give them everything, my two pages, my boring life, and my father's tomatoes, and if they want to read it, let them read it, because nothing in there is a secret except my mother's funeral, and I just told ninety-four people.
+139. WEN: Give them everything, my two pages, my boring life, and my father's tomatoes, and if they want to read it, let them read it. Nothing in there is a secret except my mother's funeral, and I just told ninety-four people.
     웬: 전부 주세요. 두 페이지, 제 지루한 인생, 아버지 토마토까지요. 읽고 싶으면 읽으라고 하세요. 거기 비밀은 하나도 없어요. 어머니 장례식 빼고요. 그것도 방금 아흔네 명한테 말했고요.
 
 140. BEN: Dr. Liu, you're going to be a terrible witness for them, and I love it. Okay, now the good news.
@@ -444,10 +444,10 @@
 143. SAM: It's real! Earl, the ITC voted to open the case.
     샘: 진짜다! 얼, ITC가 사건 개시하기로 표결했대요.
 
-144. EARL: Is that good, because it sounds like a lot of paperwork?
+144. EARL: Is that good. It sounds like a lot of paperwork?
     얼: 그게 좋은 거냐? 서류만 잔뜩 늘어날 것 같은데.
 
-145. BEN: Tell Earl it's very good, and tell him the judge has set a target date about eighteen months from now, because the clock starts today.
+145. BEN: Tell Earl it's very good, and tell him the judge has set a target date about eighteen months from now. The clock starts today.
     벤: 얼한테 아주 좋은 거라고 해. 그리고 판사가 목표 날짜를 잡았다고. 지금부터 18개월 뒤쯤. 오늘부터 시계가 돌아.
 
 146. SAM: Eighteen months, starting today.
@@ -456,13 +456,13 @@
 147. GLORIA: That's eighteen months of legal bills, paid by Northgate, so thank God for Dana Whitcombe.
     글로리아: 18개월치 법률 비용을 노스게이트가 내는 거지. 데이나 휘트컴한테 감사해야겠네.
 
-148. BEN: One more thing, Sam, because Hannah Lowe called me. Minjun's flight is Monday, Atlanta to Seoul at three p.m., and he wants to see you before he goes.
+148. BEN: One more thing, Sam. Hannah Lowe called me. Minjun's flight is Monday, Atlanta to Seoul at three p.m., and he wants to see you before he goes.
     벤: 하나 더, 샘. 해나 로가 전화했어. 민준 비행기가 월요일 오후 세 시, 애틀랜타발 서울행이래. 떠나기 전에 당신 보고 싶대.
 
 149. SAM: Tell her I'll be there. Wen, are you coming this time?
     샘: 간다고 전해 줘. 웬, 이번엔 같이 갈래요?
 
-150. WEN: This time, yes, because he's my hoobae, and in Korea you don't let your junior leave alone.
+150. WEN: This time, yes. He's my hoobae, and in Korea you don't let your junior leave alone.
     웬: 이번엔 갈게요. 제 후배잖아요. 한국에선 후배를 혼자 떠나보내지 않아요.
 
 ---

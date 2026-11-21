@@ -18,13 +18,13 @@
 001. TYLER: Okay, did everybody see this? Washington wants to buy a piece of the biggest chipmaker in the country, like actually own part of it, so is Washington buying companies now?
     타일러: 다들 이거 봤어요? 워싱턴이 이 나라 최대 반도체 회사 지분을 사겠대요. 진짜로 일부를 소유한다는 거예요. 이제 워싱턴이 회사를 사들이는 거예요?
 
-002. EARL: The government bought a piece of the car companies back in '09, and I remember it well, because some people called it a rescue and some people called it socialism.
+002. EARL: The government bought a piece of the car companies back in '09, and I remember it well. Some people called it a rescue and some people called it socialism.
     얼: 정부가 09년에도 자동차 회사 지분을 샀어. 잘 기억하지. 누구는 구제라고 하고, 누구는 사회주의라고 했어.
 
 003. DARNELL: And what did you call it back then?
     대넬: 그럼 반장님은 뭐라고 하셨어요?
 
-004. EARL: I called it my cousin's paycheck, because he got to keep his job.
+004. EARL: I called it my cousin's paycheck. He got to keep his job.
     얼: 내 사촌 월급이라고 했지. 그 덕에 걔가 일자리를 지켰거든.
 
 005. PATTY: My husband says if taxpayers own part of a company, taxpayers should get part of the profit. That sounds fair to me.
@@ -48,7 +48,7 @@
 011. PRIYA: Nice to meet you all. Before we talk to the money people this afternoon, Ben wants me to walk you through how we protect the evidence, which is boring, but it's also the whole case.
     프리야: 다들 반가워요. 오후에 돈 대는 사람들 만나기 전에, 벤이 증거를 어떻게 보호하는지 설명해 드리라고 했어요. 지루하지만 그게 사건의 전부예요.
 
-012. SAM: Boring is fine, because we like boring here, so come on, it's in Gloria's office.
+012. SAM: Boring is fine. We like boring here, so come on, it's in Gloria's office.
     샘: 지루한 거 좋아요, 우린 지루한 거 좋아하거든요. 이리 오세요, 글로리아 사무실에 있어요.
 
 013. GLORIA: Kevin's laptop has been locked in that cabinet since December, and I have the only key, which I wear around my neck like a grandmother.
@@ -72,13 +72,13 @@
 019. SAM: Changed it how, when it's his own laptop?
     샘: 어떻게 바꿔요? 자기 노트북인데.
 
-020. PRIYA: They'll say you put the one-twelve copy there yourself to frame him, because that's their job. So we make a perfect copy of the drive, we lock the original, and we only ever work on the copy.
+020. PRIYA: They'll say you put the one-twelve copy there yourself to frame him. That's their job. So we make a perfect copy of the drive, we lock the original, and we only ever work on the copy.
     프리야: 그 1시 12분 복사를 당신들이 직접 넣어서 누명을 씌웠다고 할 거예요. 그게 그 사람들 일이니까. 그래서 드라이브를 완벽하게 복제하고, 원본은 잠가 두고, 작업은 복제본으로만 해요.
 
 021. WEN: So it's like a master copy of firmware, which you never touch.
     웬: 펌웨어 마스터 사본 같은 거네요. 마스터는 절대 안 건드리는.
 
-022. PRIYA: Exactly like that, and every copy gets a digital fingerprint, a long number that changes if even one letter changes, so we can prove nothing was touched.
+022. PRIYA: Exactly like that. Every copy gets a digital fingerprint, a long number that changes if even one letter changes. That way we can prove nothing was touched.
     프리야: 딱 그거예요. 사본마다 디지털 지문, 긴 숫자가 붙는데, 글자 하나만 바뀌어도 그 숫자가 바뀌어요. 그래서 아무것도 안 건드렸다는 걸 증명할 수 있죠.
 
 023. BEN: And the canary gets the same treatment, so Wen, where is the Calloway motor you took apart in July right now?
@@ -93,7 +93,7 @@
 026. WEN: You actually want them to watch?
     웬: 그 사람들이 보길 원한다고요?
 
-027. PRIYA: I want them to have no excuses, because if they watch me find STAN76 with their own eyes, they can't say we invented it.
+027. PRIYA: I want them to have no excuses. If they watch me find STAN76 with their own eyes, they can't say we invented it.
     프리야: 변명거리를 없애고 싶은 거예요. 제가 STAN76을 찾는 걸 자기 눈으로 보면, 우리가 지어냈다고 못 하니까요.
 
 028. TYLER: That's so cool, it's like a cop show but with motors.
@@ -108,16 +108,16 @@
 031. BEN: Let him stay, since he's probably a witness too. Tyler, you were here when Kevin left, right?
     벤: 있게 둬요. 아마 그 친구도 증인일 테니까. 타일러, 케빈 떠날 때 여기 있었죠?
 
-032. TYLER: I was, and he said he was going to do factory automation, and he said it like three times, even though nobody asked him three times.
+032. TYLER: I was. He said he was going to do factory automation, and he said it like three times, even though nobody asked him three times.
     타일러: 있었어요. 공장 자동화 하러 간다고 했는데, 세 번이나 말하더라고요. 아무도 세 번 안 물어봤는데요.
 
-033. BEN: That's useful, so write that down, Priya, because people who lie usually explain too much.
+033. BEN: That's useful, so write that down, Priya. People who lie usually explain too much.
     벤: 그거 쓸모 있네. 프리야, 적어 둬요. 거짓말하는 사람은 보통 설명이 너무 많거든.
 
-034. SAM: Ben, I have a question, which is whether we have to prove everything, or whether they have to prove they didn't do it.
+034. SAM: Ben, I have a question. Do we have to prove everything, or do they have to prove they didn't do it?
     샘: 벤, 질문 있어. 우리가 다 증명해야 해, 아니면 그쪽이 안 했다는 걸 증명해야 해?
 
-035. BEN: Good question. The burden of proof is on us, because we're the ones saying they did something wrong, but it's not beyond any doubt like a murder trial, it's just more likely than not.
+035. BEN: Good question. The burden of proof is on us. We're the ones saying they did something wrong, but it's not beyond any doubt like a murder trial, it's just more likely than not.
     벤: 좋은 질문이야. 입증 책임은 우리한테 있어. 잘못했다고 주장하는 쪽이 우리니까. 근데 살인 재판처럼 의심의 여지가 없어야 하는 건 아니고, 그럴 가능성이 더 높기만 하면 돼.
 
 036. GLORIA: More likely than not, so that means fifty-one percent.
@@ -129,7 +129,7 @@
 038. SAM: What kind of number are we talking?
     샘: 무슨 숫자?
 
-039. BEN: They want to know how much this case is worth, meaning how much money comes in if we win or if Calloway settles, because that's what they're buying.
+039. BEN: They want to know how much this case is worth, meaning how much money comes in if we win or if Calloway settles. That's what they're buying.
     벤: 이 사건이 얼마짜리냐는 거지. 우리가 이기거나 캘러웨이가 합의하면 돈이 얼마나 들어오느냐. 그 사람들이 사는 게 그거니까.
 
 040. GLORIA: And what do you think it's worth, Ben?
@@ -144,10 +144,10 @@
 043. GLORIA: You can have a donut, since you brought them.
     글로리아: 도넛 먹어. 네가 사 왔잖아.
 
-044. PRIYA: One more thing before I go, which is that from now on, nobody in this building talks about the case by text, email, or social media, so if you want to talk about it, you call Ben.
+044. PRIYA: One more thing before I go. From now on, nobody in this building talks about the case by text, email, or social media. If you want to talk about it, you call Ben.
     프리야: 가기 전에 하나만 더요. 이제부터 이 건물에선 아무도 문자나 이메일, SNS로 사건 얘기를 하면 안 돼요. 얘기하고 싶으면 벤한테 전화하세요.
 
-045. SAM: That's going to be hard, because this building runs on group texts.
+045. SAM: That's going to be hard. This building runs on group texts.
     샘: 그거 어렵겠네요. 이 건물은 단톡방으로 돌아가거든요.
 
 046. PRIYA: Then this building needs a new group text, one that's only about lunch.
@@ -162,10 +162,10 @@
 049. BEN: Okay, at two o'clock we have the investor, Dana Whitcombe from Northgate Legal Capital out of Chicago, and she's smart and fair, but she will not smile once.
     벤: 자, 두 시에 투자자가 와요. 시카고 노스게이트 리걸 캐피털의 데이나 휘트컴. 똑똑하고 공정하지만 한 번도 안 웃을 거예요.
 
-050. GLORIA: Good, because neither will I.
+050. GLORIA: Good. Neither will I.
     글로리아: 좋아요. 나도 안 웃을 거니까.
 
-051. DANA: Thank you for having me, and I'll be direct, because I think you prefer that. Northgate does litigation funding, which means we invest in lawsuits, and out of forty-one cases we've funded, we've lost seven, and we don't like losing.
+051. DANA: Thank you for having me, and I'll be direct. I think you prefer that. Northgate does litigation funding, which means we invest in lawsuits, and out of forty-one cases we've funded, we've lost seven, and we don't like losing.
     데이나: 불러 주셔서 감사합니다. 직설적으로 말씀드릴게요, 그걸 좋아하실 것 같아서요. 노스게이트는 소송 자금 투자, 그러니까 소송에 투자하는 회사예요. 마흔한 건을 지원해서 일곱 건 졌고, 저흰 지는 걸 싫어해요.
 
 052. SAM: Well, nobody likes losing.
@@ -183,31 +183,31 @@
 056. GLORIA: That's flattering, so now tell us what it costs.
     글로리아: 듣기 좋네요. 이제 얼마인지 말해 봐요.
 
-057. DANA: Here's the offer. Northgate pays all legal costs through the ITC hearing, up to six million dollars, including Ben's firm, the experts, the Washington firm, and Priya, so you pay nothing out of pocket.
+057. DANA: Here's the offer. Northgate pays all legal costs through the ITC hearing, up to six million dollars, including Ben's firm, the experts, the Washington firm, and Priya. You pay nothing out of pocket.
     데이나: 제안은 이렇습니다. 노스게이트가 ITC 심리까지 법률 비용 전부를 600만 달러 한도로 냅니다. 벤의 로펌, 전문가, 워싱턴 로펌, 프리야까지요. 사비로 내실 건 하나도 없어요.
 
 058. SAM: We'd pay nothing at all?
     샘: 하나도 안 낸다고요?
 
-059. DANA: Nothing, and in return, if you win money in court or in a settlement, Northgate receives forty percent of the total recovery, while if you lose, you owe us nothing, because we take the risk.
+059. DANA: Nothing, and in return, if you win money in court or in a settlement, Northgate receives forty percent of the total recovery, while if you lose, you owe us nothing. We take the risk.
     데이나: 하나도요. 대신 법원이든 합의든 돈을 받으시면 노스게이트가 총 회수액의 40퍼센트를 받습니다. 지시면 저희한테 빚지실 건 없어요. 위험은 저희가 지니까요.
 
 060. GLORIA: Forty percent of everything, you're saying.
     글로리아: 전부의 40퍼센트라는 거네요.
 
-061. DANA: Forty percent of the recovery, not of your company, because we don't want your company, we want a piece of the action.
+061. DANA: Forty percent of the recovery, not of your company. We don't want your company, we want a piece of the action.
     데이나: 회수액의 40퍼센트예요, 회사가 아니라. 회사는 원하지 않아요. 저희가 원하는 건 이익의 한몫이죠.
 
 062. SAM: But Ben said the ITC doesn't pay any money, and it only stops products at the border.
     샘: 근데 벤이 ITC는 돈을 안 준다고 했잖아요. 국경에서 제품만 막는다고.
 
-063. DANA: Correct, the ITC is the hammer. If Calloway's motors can't enter the country, Calloway's customers panic and Calloway settles, so the settlement is the payday, and the hammer is what makes the payday happen.
+063. DANA: Correct, the ITC is the hammer. If Calloway's motors can't enter the country, Calloway's customers panic and Calloway settles. The settlement is the payday, and the hammer is what makes the payday happen.
     데이나: 맞아요, ITC는 망치예요. 캘러웨이 모터가 못 들어오면 고객들이 당황하고, 캘러웨이는 합의하죠. 합의가 돈 받는 날이고, 망치가 그날을 만들어 주는 거예요.
 
 064. WEN: So you are betting that Calloway gives up.
     웬: 그러니까 캘러웨이가 포기한다는 데 거시는 거네요.
 
-065. DANA: I'm betting that Calloway does math, because big companies always do math eventually, and the only question is how long it takes them.
+065. DANA: I'm betting that Calloway does math. Big companies always do math eventually, and the only question is how long it takes them.
     데이나: 캘러웨이가 계산을 한다는 데 거는 거예요. 대기업은 결국 늘 계산을 하거든요. 문제는 그게 얼마나 걸리느냐죠.
 
 066. GLORIA: May I see the term sheet, the real one, all of it?
@@ -216,7 +216,7 @@
 067. DANA: Of course, it's twenty-two pages, so take your time.
     데이나: 물론이죠. 22페이지예요. 천천히 보세요.
 
-068. GLORIA: I will, and Sam, get me more coffee, because this is going to take a while.
+068. GLORIA: I will, and Sam, get me more coffee. This is going to take a while.
     글로리아: 그럴 거예요. 샘, 커피 더 갖다줘. 시간 좀 걸릴 거야.
 
 069. TYLER: She just put her glasses on, oh no, the glasses are on.
@@ -228,7 +228,7 @@
 071. DANA: While she reads, Mr. Kowalski, can I ask you something off the record? Calloway offered you thirty-five million in January, Ben told me, so why not just sell?
     데이나: 읽으시는 동안, 코왈스키 씨, 비공식적으로 하나 여쭤봐도 될까요? 1월에 캘러웨이가 3,500만 달러를 제안했다고 벤한테 들었어요. 왜 그냥 안 파셨어요?
 
-072. SAM: Because they wanted the company so they could close it slowly, and I watched that happen to my father's plant, so I didn't want to be the one signing the memo.
+072. SAM: Because they wanted the company so they could close it slowly. I watched that happen to my father's plant, and I didn't want to be the one signing the memo.
     샘: 회사를 사서 천천히 문 닫으려고 했으니까요. 우리 아버지 공장이 그렇게 되는 걸 봤어요. 그 메모에 서명하는 사람이 되기 싫었어요.
 
 073. DANA: That's a good answer for a jury, but is it the real answer?
@@ -240,7 +240,7 @@
 075. GLORIA: Page fourteen, section eight, "Settlement approval." Ms. Whitcombe, this says we can't accept any settlement without Northgate's written consent.
     글로리아: 14페이지, 8조, '합의 승인.' 휘트컴 씨, 여기 보면 노스게이트의 서면 동의 없이는 어떤 합의도 못 받아들인다고 돼 있네요.
 
-076. DANA: That's standard, because we're putting six million dollars at risk, and we need a say in how it ends.
+076. DANA: That's standard. We're putting six million dollars at risk, and we need a say in how it ends.
     데이나: 그건 표준이에요. 600만 달러를 걸고 있으니 끝을 어떻게 낼지에 대해 발언권이 있어야죠.
 
 077. GLORIA: A say is one thing, but a veto is another. If Calloway offers us something we want that isn't money, like a promise to stop selling, you could block it just because it doesn't pay you enough.
@@ -273,7 +273,7 @@
 086. WEN: So you are charging us more because we are poor.
     웬: 그러니까 우리가 가난해서 더 받으시는 거네요.
 
-087. DANA: I'm charging you for risk, Dr. Liu, because Calloway could drag this out for years, appeal, or go after your patent again, and every month of that is my money.
+087. DANA: I'm charging you for risk, Dr. Liu. Calloway could drag this out for years, appeal, or go after your patent again, and every month of that is my money.
     데이나: 위험 값을 받는 거예요, 리우 박사님. 캘러웨이는 이걸 몇 년씩 끌 수도 있고, 항소하거나 특허를 또 공격할 수도 있어요. 그 한 달 한 달이 다 제 돈이에요.
 
 088. SAM: Can we have the night to think about it?
@@ -309,28 +309,28 @@
 098. SAM: Okay, shift change is in ten minutes, and I want to tell everybody what's going on, not the numbers, just the decision.
     샘: 자, 10분 뒤에 교대예요. 다들한테 무슨 일인지 말하고 싶어요. 숫자 말고, 결정만요.
 
-099. BEN: Do it without details, Sam, and remember what Priya said, because every word in this building could end up in a courtroom.
+099. BEN: Do it without details, Sam, and remember what Priya said. Every word in this building could end up in a courtroom.
     벤: 세부 사항은 빼, 샘. 프리야 말 기억하고. 이 건물에서 한 말은 전부 법정에 갈 수 있어.
 
 100. SAM: No details, I promise, just the truth.
     샘: 세부 사항은 빼고, 진실만 말할게.
 
-101. EARL: Okay, listen up, because the boss wants two minutes. Second shift, put down your coffee, and first shift, you can go home after this.
+101. EARL: Okay, listen up. The boss wants two minutes. Second shift, put down your coffee, and first shift, you can go home after this.
     얼: 자, 잘 들어. 사장이 2분만 달래. 2교대는 커피 내려놓고, 1교대는 이거 끝나면 퇴근해도 돼.
 
-102. SAM: Thanks, Earl. Everybody, next Tuesday Ferrox is going to sue Calloway Dynamics, both in federal court and at the International Trade Commission in Washington, because we believe they took our technology.
+102. SAM: Thanks, Earl. Everybody, next Tuesday Ferrox is going to sue Calloway Dynamics, both in federal court and at the International Trade Commission in Washington. We believe they took our technology.
     샘: 고마워요, 얼. 여러분, 다음 주 화요일에 페록스가 캘러웨이 다이내믹스를 상대로 소송을 겁니다. 연방법원이랑 워싱턴 국제무역위원회 두 군데에서요. 그쪽이 우리 기술을 가져갔다고 보기 때문입니다.
 
 103. DARNELL: Is this about Kevin, boss?
     대넬: 이거 케빈 때문이에요?
 
-104. SAM: I can't say much, because our lawyer would kill me, but you're not stupid, so you can probably guess.
+104. SAM: I can't say much. Our lawyer would kill me, but you're not stupid, so you can probably guess.
     샘: 많이는 말 못 해요. 변호사가 날 죽일 거라. 근데 다들 바보 아니니까 짐작은 하겠죠.
 
-105. PATTY: Sam, can I ask the question everybody's thinking, which is whether we can afford this? Lawsuits cost a fortune, and my sister sued a contractor once and lost her house.
+105. PATTY: Sam, can I ask the question everybody's thinking? Can we actually afford this? Lawsuits cost a fortune, and my sister sued a contractor once and lost her house.
     패티: 샘, 다들 생각하는 질문 해도 돼요? 우리가 이걸 감당할 수 있어요? 소송은 돈이 엄청 들잖아요. 우리 언니는 시공업자 고소했다가 집을 날렸어요.
 
-106. SAM: That's a fair question, Patty. We're working with an investor who would pay the legal bills, and if we lose, we don't owe them anything, so your paychecks are not paying for this.
+106. SAM: That's a fair question, Patty. We're working with an investor who would pay the legal bills, and if we lose, we don't owe them anything. Your paychecks are not paying for this.
     샘: 정당한 질문이에요, 패티. 법률 비용을 대 줄 투자자랑 얘기 중이고, 우리가 지면 그쪽에 갚을 건 없어요. 여러분 월급으로 이걸 내는 게 아니에요.
 
 107. EARL: And if we win, what happens to the money then?
@@ -342,10 +342,10 @@
 109. GLORIA: Yes, I'm working on it.
     글로리아: 그래, 손보는 중이야.
 
-110. JAYDEN: Is Calloway going to come after us with layoffs or something, because my mom says big companies crush little ones?
+110. JAYDEN: Is Calloway going to come after us with layoffs or something. My mom says big companies crush little ones?
     제이든: 캘러웨이가 우리한테 보복해서 정리해고 같은 거 생기는 거예요? 엄마가 큰 회사는 작은 회사를 짓밟는대요.
 
-111. SAM: Jayden, nobody is getting laid off because of this. Calloway will probably say bad things about us and might try to scare our customers, because that's what big companies do when they're nervous.
+111. SAM: Jayden, nobody is getting laid off because of this. Calloway will probably say bad things about us and might try to scare our customers. That's what big companies do when they're nervous.
     샘: 제이든, 이것 때문에 잘리는 사람은 없어. 캘러웨이가 우리 욕을 하고 고객들을 겁주려 할 수는 있어. 대기업은 긴장하면 그러거든.
 
 112. TYLER: Which means they're nervous, which means we're winning.
@@ -366,7 +366,7 @@
 117. GLORIA: Patty, you sound exactly like me this morning.
     글로리아: 패티, 너 오늘 아침의 나랑 똑같이 말한다.
 
-118. SAM: One more rule, which is that starting today, nobody talks about this on social media, no posts and no comments, and if a reporter calls, you send them to me.
+118. SAM: One more rule. Starting today, nobody talks about this on social media, no posts and no comments. If a reporter calls, you send them to me.
     샘: 규칙 하나 더요. 오늘부터 SNS에서 이 얘기 금지예요. 게시물도 댓글도 안 돼요. 기자가 전화하면 저한테 넘기세요.
 
 119. JAYDEN: What if it's my mom who calls?
@@ -378,7 +378,7 @@
 121. EARL: Okay, that's it, second shift, Betsy's waiting, and we've got two hundred Atlas seat motors today, so let's go.
     얼: 자, 끝. 2교대, 베치가 기다린다. 오늘 아틀라스 시트 모터 200개야. 가자.
 
-122. WEN: Sam, about the investor, forty percent is not the real problem, the veto is, because if they can block a settlement, they own our decisions.
+122. WEN: Sam, about the investor, forty percent is not the real problem, the veto is. If they can block a settlement, they own our decisions.
     웬: 샘, 투자자 말인데요, 진짜 문제는 40퍼센트가 아니라 거부권이에요. 합의를 막을 수 있으면 우리 결정을 그쪽이 쥐는 거니까요.
 
 123. SAM: Gloria said the same thing in the meeting, on page fourteen.
@@ -411,7 +411,7 @@
 132. DANA: Twenty-five is a big drop from forty.
     데이나: 40에서 25면 많이 깎는 거예요.
 
-133. GLORIA: Forty is what you ask people who are desperate, and we're not desperate, because we have a cleaner case than anything on your desk, and Ben tells me there are two other funds that would like to see it.
+133. GLORIA: Forty is what you ask people who are desperate, and we're not desperate. We have a cleaner case than anything on your desk, and Ben tells me there are two other funds that would like to see it.
     글로리아: 40은 절박한 사람들한테 부르는 값이에요. 우린 절박하지 않아요. 당신 책상에 있는 어떤 사건보다 깔끔한 사건이 있고, 벤 말로는 이걸 보고 싶어 하는 펀드가 두 군데 더 있대요.
 
 134. DANA: Are there really two other funds?
@@ -429,13 +429,13 @@
 138. DANA: Ms. Banks, you're asking me to take all the risk and less of the reward.
     데이나: 뱅크스 씨, 저보고 위험은 다 지고 보상은 덜 받으라는 거네요.
 
-139. GLORIA: I'm asking you to take a fair share of a very good bet, and you told me you don't like losing, so don't lose this one to somebody in New York.
+139. GLORIA: I'm asking you to take a fair share of a very good bet. You told me you don't like losing, so don't lose this one to somebody in New York.
     글로리아: 아주 좋은 판에서 공정한 몫을 가져가라는 거예요. 지는 거 싫다면서요. 그럼 이걸 뉴욕 누구한테 뺏기지 마세요.
 
 140. DANA: Thirty, no veto, and we get our money back first, before any split.
     데이나: 30. 거부권 없음. 그리고 배분 전에 저희가 먼저 원금을 회수합니다.
 
-141. GLORIA: Twenty-five and no veto, but you get your money back first, because that part is fair, I'll give you that.
+141. GLORIA: Twenty-five and no veto, but you get your money back first. That part is fair, I'll give you that.
     글로리아: 25에 거부권 없음. 대신 원금은 먼저 회수하세요. 그건 공정하니까, 그건 인정할게요.
 
 142. DANA: You're not going to move at all, are you?
@@ -459,7 +459,7 @@
 148. SAM: Gloria, you just negotiated them down fifteen points in four minutes.
     샘: 글로리아, 방금 4분 만에 15포인트를 깎으셨어요.
 
-149. GLORIA: Fifteen points and a veto, and don't forget the veto, because that was the real win. Now go home, baby, because on Tuesday you're going to stand in front of cameras.
+149. GLORIA: Fifteen points and a veto, and don't forget the veto. That was the real win. Now go home, baby. On Tuesday you're going to stand in front of cameras.
     글로리아: 15포인트에 거부권까지. 거부권 잊지 마, 그게 진짜 승리야. 이제 집에 가, 얘. 화요일엔 카메라 앞에 서야 하니까.
 
 150. SAM: Cameras? Nobody said anything to me about cameras.

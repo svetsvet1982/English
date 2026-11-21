@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. RHONDA: Section nine is on page fourteen, so read it out loud, Tyler, because I want Sam to hear it in somebody else's voice.
+001. RHONDA: Section nine, page fourteen. Read it out loud, Tyler, because I want Sam to hear it in somebody else's voice.
     론다: 9조, 14쪽이에요. 소리 내서 읽어요, 타일러. 샘이 다른 사람 목소리로 들었으면 해서요.
 
 002. TYLER: "Access to Covered Technical Data, including the flight controller interface and encrypted command protocol, shall be limited to U.S. citizens with a documented need-to-know."
@@ -36,31 +36,31 @@
 007. TYLER: Halcyon sent it Wednesday night, the day after Linda signed, and I forwarded it to you, Wen, and Rhonda, but I didn't read section nine because I read the delivery schedule first.
     타일러: 할시온이 린다 서명 다음 날, 수요일 밤에 보냈어요. 샘, 웬, 론다한테 전달했는데, 전 납품 일정부터 읽느라 9조는 안 읽었어요.
 
-008. RHONDA: Wen read it, because her login opened the PDF on Wednesday at eleven fifty-two p.m., but she didn't open the technical files, and I checked.
+008. RHONDA: Wen read it. Her login opened the PDF on Wednesday at eleven fifty-two p.m., but she didn't open the technical files. I checked.
     론다: 웬은 읽었어요. 수요일 밤 11시 52분에 웬 계정으로 PDF가 열렸거든요. 근데 기술 파일은 안 열었어요. 확인했어요.
 
 009. SAM: Wait, you checked her logins without telling her?
     샘: 잠깐, 웬한테 말도 안 하고 로그인 기록을 봤다고요?
 
-010. RHONDA: Sam, that's literally what you're paying me for, because every login in the enclave gets recorded, which is rule number something-something.
+010. RHONDA: Sam, that's literally what you're paying me for. Every login in the enclave gets recorded, that's rule number something-something.
     론다: 샘, 그게 말 그대로 저한테 돈 주는 이유예요. 엔클레이브 안 로그인은 전부 기록돼요. 규칙 몇 번 몇 번이죠.
 
 011. SAM: Okay, so what does this mean, in your words?
     샘: 알았어요. 그래서 이게 무슨 뜻이에요? 론다 말로요.
 
-012. RHONDA: In my words, it looks like a deemed export problem, because if you show controlled technology to a foreign national inside the United States, the law treats it as if you exported it to their country.
+012. RHONDA: In my words, it looks like a deemed export problem. If you show controlled technology to a foreign national inside the United States, the law treats it as if you exported it to their country.
     론다: 제 말로 하면, 간주 수출 문제 같아요. 미국 안에서 외국 국적자한테 통제 기술을 보여 주면, 법은 그걸 그 사람 나라로 수출한 것처럼 취급하거든요.
 
 013. TYLER: Even if they never leave Dayton?
     타일러: 그 사람이 데이턴을 한 번도 안 떠나도요?
 
-014. RHONDA: Even if they never leave this building, because the idea is that the knowledge is in their head now, and their head can get on a plane.
+014. RHONDA: Even if they never leave this building. The idea is that the knowledge is in their head now, and their head can get on a plane.
     론다: 이 건물을 안 나가도요. 그 지식이 이제 그 사람 머릿속에 있다는 거죠. 머리는 비행기를 탈 수 있으니까요.
 
 015. SAM: So we'd need an export license for Wen to work in her own company.
     샘: 그러니까 웬이 자기 회사에서 일하려면 수출 허가가 필요하다는 거네요.
 
-016. RHONDA: Maybe, and that's why Ben is calling in at nine, because I'm a cyber person and this is a lawyer thing. But Sam, I've seen this before, and with Chinese nationals, licenses for defense technology almost never get approved.
+016. RHONDA: Maybe, and that's why Ben is calling in at nine. I'm a cyber person, and this is a lawyer thing. But Sam, I've seen this before, and with Chinese nationals, licenses for defense technology almost never get approved.
     론다: 아마도요. 그래서 벤이 아홉 시에 들어와요. 전 사이버 쪽이고 이건 변호사 일이에요. 근데 샘, 전에 본 적 있어요. 중국 국적자한텐 국방 기술 허가가 거의 안 나와요.
 
 017. SAM: Wen's lived here for seventeen years, and she has a green card.
@@ -69,10 +69,10 @@
 018. RHONDA: I know, and I like Wen. I'm not saying it's fair, I'm saying it's how the system works.
     론다: 알아요. 저도 웬 좋아해요. 공평하다는 게 아니라, 시스템이 그렇게 돌아간다는 거예요.
 
-019. TYLER: Sam, can I say something? I didn't read section nine because I was excited about the dates, so that's on me.
+019. TYLER: Sam, can I say something? I didn't read section nine because I was excited about the dates. That's on me.
     타일러: 샘, 한마디 해도 돼요? 날짜에 들떠서 9조를 안 읽었어요. 제 잘못이에요.
 
-020. SAM: It's not on you, because Linda asked about foreign persons on day one, on the very first call, and I said, "I'd have to check," and then I didn't check.
+020. SAM: It's not on you. Linda asked about foreign persons on day one, on the very first call, and I said, "I'd have to check." Then I didn't check.
     샘: 네 잘못 아니야. 린다가 첫날, 첫 통화에서 외국인 얘기를 물었는데 내가 "확인해 봐야겠다"고 하고는 확인을 안 했어.
 
 021. RHONDA: And why didn't you check?
@@ -96,7 +96,7 @@
 027. SAM: What happens if we just let her see the files, I mean, what actually happens?
     샘: 그냥 웬이 파일 보게 하면 어떻게 돼요? 실제로요.
 
-028. RHONDA: You certify every month that only citizens have access, so if you sign that and it's not true, it's a false statement to the government, and Halcyon loses its Army contract and you lose yours.
+028. RHONDA: You certify every month that only citizens have access. If you sign that and it's not true, it's a false statement to the government. Halcyon loses its Army contract, and you lose yours.
     론다: 매달 시민권자만 접근한다고 인증하잖아요. 그걸 서명했는데 사실이 아니면 정부에 허위 진술이에요. 할시온도 육군 계약을 잃고, 샘도 잃어요.
 
 029. TYLER: And people can go to prison for that.
@@ -114,49 +114,49 @@
 033. BEN: Morning, everybody. I've been listening, and I've been reading, and I have good news and bad news.
     벤: 다들 좋은 아침. 듣고 있었고, 읽고 있었고, 좋은 소식이랑 나쁜 소식이 있어.
 
-034. SAM: Bad news first, because I'm getting used to it.
+034. SAM: Bad news first. I'm getting used to it.
     샘: 나쁜 소식부터요. 이제 익숙해지고 있어요.
 
 035. BEN: No, good news first, because it changes the bad news.
     벤: 아니, 좋은 소식 먼저. 그게 나쁜 소식을 바꾸거든.
 
-036. BEN: Rhonda, you're half right, because "deemed export" is real, and if you show controlled tech to a foreign person in the US, it counts as an export. But here's the thing, which is that under export law, a green card holder isn't a foreign person.
+036. BEN: Rhonda, you're half right. "Deemed export" is real, and if you show controlled tech to a foreign person in the US, it counts as an export. But here's the thing. Under export law, a green card holder isn't a foreign person.
     벤: 론다, 반은 맞아요. "간주 수출"은 진짜 있고, 미국에서 외국인한테 통제 기술을 보여 주면 수출로 쳐요. 근데 문제는, 수출법상 영주권자는 외국인이 아니에요.
 
 037. RHONDA: Wait, are you serious?
     론다: 잠깐, 진짜요?
 
-038. BEN: Really. In plain English, export rules have two kinds of people, "U.S. persons," which means citizens and permanent residents, and everybody else. Wen has a green card, so under the export law, she's a U.S. person.
+038. BEN: Really. In plain English, export rules have two kinds of people. There are "U.S. persons," meaning citizens and permanent residents, and there's everybody else. Wen has a green card, so under the export law, she's a U.S. person.
     벤: 진짜요. 쉽게 말하면 수출 규정엔 두 종류의 사람이 있어요. 시민권자와 영주권자를 뜻하는 "미국인", 그리고 나머지 전부. 웬은 영주권이 있으니까 수출법상 미국인이에요.
 
 039. SAM: So she doesn't need a license.
     샘: 그럼 허가가 필요 없네요.
 
-040. BEN: For the export law, there's no license needed, which is the good news. I checked it three times and called a friend who used to work in export enforcement, and he laughed at me for asking.
+040. BEN: Under the export law, she doesn't need a license, and that's the good news. I checked it three times. I even called a friend who used to work in export enforcement, and he laughed at me for asking.
     벤: 수출법상으론 허가가 필요 없어요. 그게 좋은 소식이에요. 세 번 확인했고, 수출 단속 일 하던 친구한테도 전화했는데 그런 걸 묻냐고 웃더라고요.
 
 041. TYLER: Then what's the bad news, Ben?
     타일러: 그럼 나쁜 소식은요, 벤?
 
-042. BEN: The bad news is section nine, because the contract doesn't say "U.S. persons," it says "U.S. citizens," and the Army is allowed to ask for more than the law requires, which on this program, they did.
+042. BEN: The bad news is section nine. The contract doesn't say "U.S. persons," it says "U.S. citizens." The Army is allowed to ask for more than the law requires, and on this program, they did.
     벤: 나쁜 소식은 9조예요. 계약엔 "미국인"이 아니라 "미국 시민권자"라고 돼 있어요. 육군은 법보다 더 요구할 수 있고, 이 사업에선 그렇게 했어요.
 
 043. SAM: So the law says she's fine, and the contract says she's not.
     샘: 그러니까 법은 웬이 괜찮다고 하고, 계약은 안 된다고 하는 거네요.
 
-044. BEN: Exactly, so it's not a crime problem, it's a contract problem, which is better, but a contract problem with the Army can still kill the contract.
+044. BEN: Exactly. It's not a crime problem, it's a contract problem, and that's better. But a contract problem with the Army can still kill the contract.
     벤: 맞아요. 범죄 문제가 아니라 계약 문제예요. 그게 낫긴 하죠. 하지만 육군과의 계약 문제는 여전히 계약을 죽일 수 있어요.
 
 045. RHONDA: Why would the Army ask for citizens only, when most programs say U.S. persons?
     론다: 왜 육군이 시민권자만 요구해요? 대부분 사업은 미국인이라고 하는데.
 
-046. BEN: This one has encrypted command protocols, which is how the soldier's controller talks to the drone, and if an enemy learns that, they can take control of the drone or jam it, so the program office went stricter than the law.
+046. BEN: This one has encrypted command protocols. That's how the soldier's controller talks to the drone. If an enemy learns it, they can take control of the drone or jam it, so the program office went stricter than the law.
     벤: 이건 암호화된 명령 프로토콜이 있어요. 병사의 조종기가 드론이랑 대화하는 방식이요. 적이 그걸 알면 드론을 빼앗거나 방해할 수 있어요. 그래서 사업단이 법보다 엄격하게 한 거죠.
 
 047. SAM: Can we ask for an exception, just for Wen and just for this program?
     샘: 예외를 요청할 수 있어요? 웬한테만, 이 사업에서만요?
 
-048. BEN: It's called a waiver, and yes, you can ask. Linda's on the other line, because I asked her to call in. Linda?
+048. BEN: It's called a waiver, and yes, you can ask. I asked Linda to call in, and she's on the other line. Linda?
     벤: 그걸 웨이버라고 해요. 네, 요청할 수 있어요. 린다가 다른 회선에 있어요. 들어와 달라고 했거든요. 린다?
 
 049. LINDA: I'm here. Mr. Kowalski, I asked you about foreign persons on November thirteenth, and I'm not saying that to make you feel bad, I'm saying it because it's in my notes.
@@ -171,16 +171,16 @@
 052. SAM: How not fast? Give me a real number, please.
     샘: 얼마나 안 빨라요? 진짜 숫자로 말해 주세요.
 
-053. LINDA: Not before February, and possibly not at all, while your delivery date doesn't move.
+053. LINDA: Not before February, and possibly not at all. And your delivery date doesn't move.
     린다: 2월 전엔 안 되고, 아예 안 될 수도 있어요. 납품일은 그대로고요.
 
-054. SAM: Ms. Farrow, Dr. Liu designed this motor and every line of the firmware, so she's the reason we're on your list.
+054. SAM: Ms. Farrow, Dr. Liu designed this motor and every line of the firmware. She's the reason we're on your list.
     샘: 패로 씨, 리우 박사가 이 모터를 설계했어요. 펌웨어도 한 줄 한 줄 다요. 우리가 그 명단에 오른 이유가 그 사람이에요.
 
-055. LINDA: I understand, and I read her patent too, so I'm not questioning her. I'm telling you what the security office will do, because they don't read patents, they read forms.
+055. LINDA: I understand. I read her patent too, and I'm not questioning her. I'm telling you what the security office will do. They don't read patents, they read forms.
     린다: 이해합니다. 저도 그 특허 읽었어요. 그분을 의심하는 게 아니에요. 보안실이 어떻게 할지 말씀드리는 거예요. 그 사람들은 특허를 안 읽고 서식을 읽어요.
 
-056. BEN: Linda, what if we build a firewall, where Wen works on the motor and the base firmware, the commercial part, and a citizen engineer does the integration with Halcyon's protocol, so Wen never sees section nine data?
+056. BEN: Linda, what if we build a firewall? Wen works on the motor and the base firmware, the commercial part. A citizen engineer does the integration with Halcyon's protocol, and Wen never sees section nine data.
     벤: 린다, 방화벽을 세우면 어때요? 웬은 모터랑 기본 펌웨어, 상업용 부분만 하고, 시민권자 엔지니어가 할시온 프로토콜 통합을 해요. 그럼 웬은 9조 데이터를 절대 안 보죠.
 
 057. LINDA: That's what most companies do, with a written plan for who can see what, separate accounts, and separate rooms if needed, and I'd need it on paper by Friday.
@@ -195,7 +195,7 @@
 060. SAM: Understood, and thank you.
     샘: 알겠습니다. 감사해요.
 
-061. LINDA: One more thing, because I've seen companies lose their best people over this, so talk to her before you send me anything, not after.
+061. LINDA: One more thing. I've seen companies lose their best people over this. Talk to her before you send me anything, not after.
     린다: 하나 더요. 이 일로 최고의 인재를 잃는 회사들을 봤어요. 저한테 뭘 보내기 전에 그분이랑 얘기하세요. 보낸 뒤가 아니라.
 
 062. RHONDA: Huh, I didn't expect that from the Army.
@@ -210,7 +210,7 @@
 065. SAM: Marcus has been here two weeks, and he still gets lost looking for the bathroom.
     샘: 마커스는 온 지 2주야. 아직도 화장실 찾다 길 잃어.
 
-066. TYLER: Marcus is the only firmware engineer we have who's a citizen, because I can read the protocol, but I can't write the code, and you can't either.
+066. TYLER: Marcus is the only firmware engineer we have who's a citizen. I can read the protocol, but I can't write the code, and neither can you.
     타일러: 시민권자 펌웨어 엔지니어는 마커스뿐이에요. 저는 프로토콜은 읽어도 코드는 못 쓰고, 샘도 못 쓰잖아요.
 
 067. BEN: Sam, can I say something as a friend, not a lawyer?
@@ -240,7 +240,7 @@
 075. SAM: No, Tyler, this one's mine.
     샘: 아니, 타일러. 이건 내 몫이야.
 
-076. RHONDA: I'll be in Gloria's office, so text me if you need the access logs or a hug, although I'm better at logs.
+076. RHONDA: I'll be in Gloria's office. Text me if you need the access logs or a hug, although I'm better at logs.
     론다: 글로리아 사무실에 있을게요. 접속 기록이나 포옹 필요하면 문자 주세요. 기록 쪽이 더 자신 있지만요.
 
 077. TYLER: She's in the parking lot, and she's just sitting in her car.
@@ -252,28 +252,28 @@
 079. TYLER: The camera says forty minutes. She's been here since nine fifteen.
     타일러: 카메라로 보니까 40분이요. 9시 15분부터 와 계셨어요.
 
-080. SAM: Then she's been waiting for me, so okay, send her in.
+080. SAM: Then she's been waiting for me. Okay, send her in.
     샘: 그럼 날 기다리고 있었던 거네. 좋아, 들어오라고 해.
 
-081. WEN: Don't explain section nine to me, because I read it on Wednesday, I read it again on Thursday, and I read it on Thanksgiving instead of eating Patty's green beans.
+081. WEN: Don't explain section nine to me. I read it on Wednesday, I read it again on Thursday, and I read it on Thanksgiving instead of eating Patty's green beans.
     웬: 9조 설명하지 마세요. 수요일에 읽었고, 목요일에 또 읽었고, 추수감사절엔 패티 그린빈 대신 그걸 읽었어요.
 
-082. SAM: I wasn't going to explain it, I was going to say I'm angry, because I'm really angry, Wen.
+082. SAM: I wasn't going to explain it. I was going to say I'm angry. I'm really angry, Wen.
     샘: 설명하려던 거 아니야. 화났다고 말하려던 거야. 나 진짜 화났어, 웬.
 
 083. WEN: And who are you angry at?
     웬: 누구한테요?
 
-084. SAM: At the rule, at Halcyon, and at me, mostly at me, because Linda asked about foreign persons on the first day, and I didn't ask the next question.
+084. SAM: At the rule, at Halcyon, and at me, mostly at me. Linda asked about foreign persons on the first day, and I didn't ask the next question.
     샘: 규칙한테, 할시온한테, 나한테. 제일은 나한테. 린다가 첫날 외국인 얘기를 물었는데, 난 그다음 질문을 안 했어.
 
-085. WEN: I noticed, because you hesitated on the call when you said "a few people who aren't citizens," and I was one of the few people.
+085. WEN: I noticed. You hesitated on the call when you said "a few people who aren't citizens," and I was one of the few people.
     웬: 알아챘어요. 통화 중에 머뭇거렸잖아요. "시민권자가 아닌 사람이 몇 명"이라고요. 제가 그 몇 명 중 하나였어요.
 
-086. SAM: Ben says the law is on your side, because you're a U.S. person under export rules, and it's the contract where the Army went stricter than the law.
+086. SAM: Ben says the law is on your side. Under export rules you're a U.S. person, and the problem is the contract. The Army went stricter than the law.
     샘: 벤 말로는 법은 네 편이래. 수출 규정상 넌 미국인이야. 문제는 계약이고, 육군이 법보다 엄격하게 한 거야.
 
-087. WEN: I know, because I looked it up on Wednesday night, and on this, I know the law better than Ben does. It doesn't help, because a door is a door, Sam, and it doesn't matter which lock is on it.
+087. WEN: I know. I looked it up on Wednesday night, and on this, I know the law better than Ben does. It doesn't help. A door is a door, Sam, and it doesn't matter which lock is on it.
     웬: 알아요. 수요일 밤에 찾아봤어요. 이건 제가 벤보다 법을 더 잘 알아요. 근데 소용없어요. 문은 문이에요, 샘. 어떤 자물쇠가 달렸든 상관없어요.
 
 088. SAM: Linda says we can ask for a waiver, and we're going to ask today.
@@ -285,7 +285,7 @@
 090. SAM: How do you know that, when you weren't on the call?
     샘: 그걸 어떻게 알아? 통화에 없었잖아.
 
-091. WEN: Because I was born in Shenzhen, and my father is in Shenzhen, and he joined the Party at twenty-four because his principal told him to. I go home every Lunar New Year, so I know what every box will say.
+091. WEN: Because I was born in Shenzhen, and my father is in Shenzhen. He joined the Party at twenty-four because his principal told him to. I go home every Lunar New Year. I know what every box will say.
     웬: 전 선전에서 태어났고, 아버지가 선전에 계세요. 교장이 시켜서 스물넷에 당에 가입하셨고요. 전 음력설마다 집에 가요. 서류 칸마다 뭐라고 적힐지 알아요.
 
 092. SAM: So while we wait, we need a plan to make the February date.
@@ -294,7 +294,7 @@
 093. WEN: You mean Marcus, don't you?
     웬: 마커스 말하는 거죠?
 
-094. SAM: Marcus does the integration with Halcyon's protocol, the encrypted part, and you do the motor, the rotor, and the base firmware, everything outside the fence, so he builds his part on top of yours.
+094. SAM: Marcus does the integration with Halcyon's protocol, the encrypted part. You do the motor, the rotor, and the base firmware, everything outside the fence. He builds his part on top of yours.
     샘: 마커스가 할시온 프로토콜, 암호화된 부분 통합을 해. 넌 모터, 회전자, 기본 펌웨어, 울타리 밖 전부를 하고. 마커스는 네 것 위에 자기 걸 쌓는 거야.
 
 095. WEN: Marcus has been here two weeks, and he read my paper in graduate school, and he's a good engineer, but he doesn't know where Governor gets nervous.
@@ -318,7 +318,7 @@
 101. WEN: No, it isn't, which is my point. In September, people online called me a spy, and you stood in front of a camera and said you trusted me, and now a paper says I can't see my own work, and you're making a plan.
     웬: 네, 안 공평하죠. 그게 제 말이에요. 9월에 인터넷에서 사람들이 절 스파이라고 했을 때, 샘은 카메라 앞에서 절 믿는다고 했어요. 이제 종이 한 장이 제 일을 제가 못 본다고 하는데, 샘은 계획을 세우고 있어요.
 
-102. SAM: I'm making a plan because the plan keeps the company alive, and I still trust you, because nothing about that has changed.
+102. SAM: I'm making a plan because the plan keeps the company alive. And I still trust you. Nothing about that has changed.
     샘: 계획을 세우는 건 그게 회사를 살리니까야. 그리고 난 여전히 널 믿어. 그건 하나도 안 변했어.
 
 103. WEN: Then say no to the Army, Sam.
@@ -327,7 +327,7 @@
 104. SAM: Wait, what did you say?
     샘: 잠깐, 뭐라고?
 
-105. WEN: You heard me. If you trust me and they don't, then say no, because that's what you did with Calloway, twice, when you said Ferrox isn't for sale. So is Ferrox for sale to the Army?
+105. WEN: You heard me. If you trust me and they don't, then say no. That's what you did with Calloway, twice, when you said Ferrox isn't for sale. So is Ferrox for sale to the Army?
     웬: 들으셨잖아요. 샘은 절 믿는데 그쪽이 안 믿으면, 노 하세요. 캘러웨이한테 두 번 그랬잖아요. 페록스는 안 판다고. 그럼 페록스는 육군한텐 파는 거예요?
 
 106. SAM: That's not the same thing, and you know it.
@@ -357,10 +357,10 @@
 114. SAM: You think I want to sign that every month, seriously?
     샘: 내가 매달 그걸 서명하고 싶을 것 같아? 진짜로?
 
-115. WEN: I think you'll sign it, which is different, and I think you're right to sign it, which is the worst part, because I can't even be angry at you correctly.
+115. WEN: I think you'll sign it, and that's different. I also think you're right to sign it, and that's the worst part. I can't even be angry at you correctly.
     웬: 서명할 거라고 생각해요. 그건 다른 얘기죠. 그리고 서명하는 게 옳다고 생각해요. 그게 제일 최악이에요. 샘한테 제대로 화낼 수도 없잖아요.
 
-116. SAM: Then be angry at me incorrectly, because I can take it.
+116. SAM: Then be angry at me incorrectly. I can take it.
     샘: 그럼 틀리게 화내. 나 견딜 수 있어.
 
 117. WEN: I don't want to be angry, Sam, I want to be trusted by a country I've lived in and paid taxes to for seventeen years. In September, you said "I've got your back."
@@ -375,13 +375,13 @@
 120. SAM: Then what do you want me to do? Tell me, and I'll do it.
     샘: 그럼 내가 뭘 하길 바라? 말해, 할게.
 
-121. WEN: I want you to send the waiver request with my name, my whole history, every trip, and every phone number, and don't hide anything, because if they say no, I want them to say no to the truth.
+121. WEN: I want you to send the waiver request with my name, my whole history, every trip, and every phone number. Don't hide anything. If they say no, I want them to say no to the truth.
     웬: 웨이버 요청을 보내 주세요. 제 이름, 제 이력 전부, 모든 여행, 모든 전화번호까지요. 아무것도 숨기지 마세요. 거절한다면, 진실에 대해 거절하게 하고 싶어요.
 
 122. SAM: Okay, I can do that.
     샘: 알았어. 그건 할 수 있어.
 
-123. WEN: And I want two days, so don't call me, don't text me, and don't send Gloria to my house with soup.
+123. WEN: And I want two days. Don't call me, don't text me, and don't send Gloria to my house with soup.
     웬: 그리고 이틀 주세요. 전화도, 문자도 하지 마세요. 글로리아한테 수프 들려서 집에 보내지도 말고요.
 
 124. SAM: Gloria will want to send soup, and you know she will.
@@ -396,7 +396,7 @@
 127. SAM: Come in, Marcus. Is she gone?
     샘: 들어와, 마커스. 웬은 갔어?
 
-128. MARCUS: She left at four, and her desk is empty, because she took her coffee mug and the photo of the first rotor, and she left her badge in the drawer.
+128. MARCUS: She left at four, and her desk is empty. She took her coffee mug and the photo of the first rotor, and she left her badge in the drawer.
     마커스: 네 시에 갔어요. 책상이 비었어요. 커피 머그랑 첫 회전자 사진은 가져가고, 출입증은 서랍에 두고 갔어요.
 
 129. SAM: She left her badge?
@@ -411,19 +411,19 @@
 132. MARCUS: "Marcus. Page forty-one is where Governor gets nervous. Above forty-eight degrees, trust the current sensor, not the temperature sensor. Don't let them rush you. W."
     마커스: "마커스. 41쪽이 거버너가 불안해하는 곳이에요. 48도 넘으면 온도 센서 말고 전류 센서를 믿어요. 사람들이 서두르게 하지 마요. W."
 
-133. GLORIA: She left you instructions, so that's not a resignation letter, that's a mother leaving a babysitter a list.
+133. GLORIA: She left you instructions. That's not a resignation letter, that's a mother leaving a babysitter a list.
     글로리아: 너한테 설명서를 남겼네. 그건 사직서가 아니야. 엄마가 베이비시터한테 남기는 목록이지.
 
 134. EARL: She left her badge, Gloria, and you don't leave your badge if you're coming back Monday.
     얼: 출입증을 두고 갔어, 글로리아. 월요일에 돌아올 거면 출입증을 안 두고 가.
 
-135. GLORIA: Or she left it so nobody could say she touched something she shouldn't, because you know Wen, and she'd rather lose her job than lose an argument about the rules.
+135. GLORIA: Or she left it so nobody could say she touched something she shouldn't. You know Wen. She'd rather lose her job than lose an argument about the rules.
     글로리아: 아니면 손대면 안 되는 걸 만졌다는 말 안 들으려고 두고 간 거지. 웬 알잖아. 규칙 논쟁에서 지느니 직장을 잃을 애야.
 
 136. SAM: She asked for two days and said not to call her.
     샘: 이틀 달래요. 전화하지 말래요.
 
-137. GLORIA: Then she gets two days, and I'm not sending soup, I'm sending chili, because chili isn't soup.
+137. GLORIA: Then she gets two days. And I'm not sending soup, I'm sending chili. Chili isn't soup.
     글로리아: 그럼 이틀 줘. 그리고 난 수프 안 보내. 칠리 보낼 거야. 칠리는 수프가 아니거든.
 
 138. EARL: Chili is absolutely soup, Gloria.
@@ -432,7 +432,7 @@
 139. GLORIA: Earl, I will fight you in this parking lot.
     글로리아: 얼, 이 주차장에서 한판 붙자.
 
-140. MARCUS: Sam, can I say something? I don't want to do this, not like this, because I came here to learn from her, not to replace her.
+140. MARCUS: Sam, can I say something? I don't want to do this, not like this. I came here to learn from her, not to replace her.
     마커스: 샘, 한마디 해도 돼요? 이거 하기 싫어요. 이런 식으로는요. 전 그분한테 배우러 왔지, 대신하러 온 게 아니에요.
 
 141. SAM: You're not replacing her, Marcus. Nobody replaces her. You're standing in for her, inside a fence she's not allowed in.
@@ -462,7 +462,7 @@
 149. SAM: She told me not to call, not to text, nothing at all.
     샘: 전화도 문자도 하지 말래요. 아무것도요.
 
-150. GLORIA: Then write it down, because she's a woman who believes in things in writing, just like the Army.
+150. GLORIA: Then write it down. She's a woman who believes in things in writing, just like the Army.
     글로리아: 그럼 글로 써. 걔는 서면을 믿는 여자야. 육군처럼.
 
 ---

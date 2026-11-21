@@ -135,7 +135,7 @@
 040. STAN: I'll be awake, I'm always awake. I'll be sitting by the phone like it's 1996 and your father just called from a pay phone to say the dorm smells like feet.
     스탠: 깨어 있을 거다, 난 늘 깨어 있어. 1996년에 네 아빠가 공중전화로 기숙사에서 발 냄새 난다고 전화했을 때처럼 전화기 옆에 앉아 있으마.
 
-041. ERIN: Sam, your phone's on the counter, so do you want it or not?
+041. ERIN: Sam, your phone's on the counter. Do you want it or not?
     에린: 샘, 폰 조리대에 있어. 가져갈 거야, 말 거야?
 
 042. SAM: Leave it, no, bring it, but put it in the glove box, because Gloria might call if the plant floods.
@@ -213,8 +213,8 @@
 066. SAM: Okay, that's fair, and we'll miss you, everybody will. Patty will actually have to learn spreadsheets, and Earl will have nobody to complain to about Tyler, which is honestly the scariest part of this whole thing.
     샘: 그래, 인정. 다들 너 보고 싶어 할 거야. 패티는 진짜로 스프레드시트를 배워야 하고, 얼은 타일러 흉볼 사람이 없어지겠지. 솔직히 이게 제일 무서운 부분이야.
 
-067. LILY: I'm serious, though, because you're taking on this huge data center thing, and Earl looked tired at the barbecue. And Jayden said something weird last week.
-    릴리: 근데 진지하게, 아빠는 그 엄청난 데이터센터 일을 맡았고, 바비큐 때 얼 아저씨도 지쳐 보였어. 그리고 제이든이 지난주에 좀 이상한 말을 했어.
+067. LILY: I'm serious, though. You're taking on this huge data center thing, and Earl looked tired at the barbecue. And Jayden said something weird last week.
+    릴리: 근데 진지하게. 아빠는 그 엄청난 데이터센터 일을 맡았고, 바비큐 때 얼 아저씨도 지쳐 보였어. 그리고 제이든이 지난주에 좀 이상한 말을 했어.
 
 068. SAM: What did Jayden say?
     샘: 제이든이 뭐라고 했는데?
@@ -252,8 +252,8 @@
 079. ERIN: Okay, no factory talk until Lafayette, because that was the deal. Lil, put on some music.
     에린: 자, 라피엣 도착할 때까지 공장 얘기 금지. 그게 약속이었잖아. 릴, 음악 좀 틀어.
 
-080. LILY: One more thing, and then music. When I graduate, I want to work at Ferrox, but not because I'm your kid, because I earned it on my own merit.
-    릴리: 하나만 더 하고 음악 틀게. 나 졸업하면 페록스에서 일하고 싶어. 근데 아빠 딸이라서가 아니라, 내 실력으로 따낸 자리였으면 좋겠어.
+080. LILY: One more thing, and then music. When I graduate, I want to work at Ferrox, but I want to earn it on my own merit, not get it because I'm your kid.
+    릴리: 하나만 더 하고 음악 틀게. 나 졸업하면 페록스에서 일하고 싶어. 근데 아빠 딸이라서 얻는 게 아니라, 내 실력으로 따내고 싶어.
 
 081. SAM: Then you'd have to interview with Wen.
     샘: 그럼 웬이랑 면접 봐야 할 텐데.
@@ -294,8 +294,8 @@
 093. ASHLYN: Oh my gosh, you're funny. These are my parents, and Dad, this is Lily, who's in engineering too.
     애슐린: 세상에, 너 웃기다. 우리 부모님이셔. 아빠, 이쪽은 릴리. 얘도 공대야.
 
-094. MR. BROOKS: Nice to meet you, I'm Wes Brooks. We drove down from Fort Wayne this morning, so where are you folks from?
-    브룩스 씨: 반가워요, 웨스 브룩스예요. 오늘 아침에 포트웨인에서 왔는데, 어디서 오셨어요?
+094. MR. BROOKS: Nice to meet you, I'm Wes Brooks. We drove down from Fort Wayne this morning. Where are you folks from?
+    브룩스 씨: 반가워요, 웨스 브룩스예요. 오늘 아침에 포트웨인에서 왔어요. 어디서 오셨어요?
 
 095. SAM: Dayton, well, Moraine, which is just south of Dayton. I'm Sam Kowalski, and this is my wife, Erin.
     샘: 데이턴이요. 정확히는 데이턴 바로 남쪽 모레인이요. 샘 코왈스키예요. 이쪽은 아내 에린이고요.
@@ -330,7 +330,7 @@
 105. ASHLYN: Everything is politics this year. Come on, Lily, help me with the rug.
     애슐린: 올해는 모든 게 정치야. 가자, 릴리, 러그 까는 거 도와줘.
 
-106. SAM: Okay, I'll put the shelf together, so where's the bag of screws?
+106. SAM: Okay, I'll put the shelf together. Where's the bag of screws?
     샘: 좋아, 아빠가 선반 조립할게. 나사 봉지 어디 있어?
 
 107. LILY: Dad, you're using the long screws for the short holes. They're going to come out the other side.
@@ -354,7 +354,7 @@
 113. SAM: She's right about the screws, and she's right about Cole, too. And she's right that I wasn't going to measure, because I was just going to push harder until it worked, which is how I fix everything.
     샘: 나사는 쟤 말이 맞고, 콜 얘기도 맞아. 그리고 내가 안 재려고 했던 것도 맞아. 될 때까지 그냥 더 세게 밀려고 했거든. 내가 뭐든 그렇게 고치잖아.
 
-114. ERIN: She's right about a lot of things. Sam, look at how she holds the screwdriver, because that's your hand.
+114. ERIN: She's right about a lot of things. Sam, look at the way she holds that screwdriver. That's your hand.
     에린: 쟤는 많은 게 맞아. 샘, 쟤 드라이버 잡는 거 좀 봐. 저거 당신 손이야.
 
 115. SAM: That's my hand, and Dad's.
@@ -366,7 +366,7 @@
 117. LILY: A free hard hat? Yes, absolutely.
     릴리: 공짜 안전모? 응, 무조건.
 
-118. ERIN: Then that's our cue, Sam, because it's time.
+118. ERIN: Then that's our cue, Sam. It's time.
     에린: 그럼 우리가 갈 때네, 샘. 시간 됐어.
 
 119. SAM: Already? We just got here.
@@ -387,7 +387,7 @@
 124. SAM: I'll check the oil for five minutes, maybe six. And I'll call Grandpa from the parking lot and tell him he was right about everything, which he'll enjoy more than anything that happens today.
     샘: 오일은 5분만, 어쩌면 6분 확인할게. 그리고 주차장에서 할아버지한테 전화해서 다 맞았다고 말할 거야. 오늘 있는 어떤 일보다 그걸 더 좋아하실걸.
 
-125. LILY: I love you, Dad, so go build something. Mom, take care of him, because he's going to be a mess.
+125. LILY: I love you, Dad. Go build something. Mom, take care of him, because he's going to be a mess.
     릴리: 사랑해, 아빠. 가서 뭔가 만들어. 엄마, 아빠 잘 챙겨. 엉망이 될 테니까.
 
 126. ERIN: You sat in the parking lot for twelve minutes, and I timed it.

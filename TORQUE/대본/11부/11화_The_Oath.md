@@ -285,95 +285,95 @@
 090. LILY: I'm going, Wen, I'm going.
     릴리: 릴리: 가요, 웬, 가요.
 
-091. MR. LIU: Xiaowen. Can you hear me? Is the camera on? I can see a car ceiling.
-    리우 선생: 샤오원. 들리니? 카메라 켜졌니? 자동차 천장이 보이는구나.
+091. MR. LIU: Xiaowen, can you hear me? Is the camera on? All I can see is a car ceiling.
+    리우 선생: 리우 선생: 샤오원, 들리니? 카메라 켜졌니? 자동차 천장만 보이는구나.
 
 092. WEN: I'm here, Baba, and I'm sorry, because I was holding the phone wrong. Can you see me now?
     웬: 웬: 여기 있어요, 아빠. 죄송해요, 폰을 잘못 들고 있었어요. 이제 보여요?
 
-093. MR. LIU: I see you. You look tired. You look happy. You look like your mother when she was tired and happy.
-    리우 선생: 보인다. 피곤해 보이는구나. 행복해 보이고. 네 엄마가 피곤하고 행복할 때 같은 얼굴이다.
+093. MR. LIU: I see you now. You look tired and happy, just like your mother when she was tired and happy.
+    리우 선생: 리우 선생: 이제 보인다. 피곤하고 행복해 보이는구나, 네 엄마가 피곤하고 행복할 때처럼.
 
 094. WEN: It's done, Baba, because I said the words, and I'm an American now.
     웬: 웬: 끝났어요, 아빠. 그 말 했으니까 이제 미국인이에요.
 
-095. MR. LIU: I know. I watched the clock. At ten your time, I stood up in the kitchen. Your aunt thought I was going to the bathroom. I told her I was standing for my daughter.
-    리우 선생: 안다. 시계 보고 있었어. 그쪽 시간 열 시에 부엌에서 일어났지. 네 이모는 내가 화장실 가는 줄 알더라. 딸을 위해 서 있는 거라고 했다.
+095. MR. LIU: I know. I was watching the clock, and at ten your time I stood up in the kitchen. Your aunt thought I was going to the bathroom, but I told her I was standing for my daughter.
+    리우 선생: 리우 선생: 안다. 시계 보고 있다가 그쪽 시간 열 시에 부엌에서 일어났지. 네 이모는 내가 화장실 가는 줄 알았는데, 딸을 위해 서 있는 거라고 했다.
 
 096. WEN: You really stood up?
     웬: 웬: 정말 일어나셨어요?
 
-097. MR. LIU: For one minute. My knees are not American motors. Is Mr. Kowalski there? I can see a large shoulder in the back.
-    리우 선생: 1분 동안. 내 무릎은 미국 모터가 아니라서. 코왈스키 씨 거기 있니? 뒤에 큰 어깨가 보이는데.
+097. MR. LIU: Only for one minute, since my knees are not American motors. Is Mr. Kowalski there? I can see a large shoulder in the back.
+    리우 선생: 리우 선생: 1분만. 내 무릎은 미국 모터가 아니라서. 코왈스키 씨 거기 있니? 뒤에 큰 어깨가 보이는데.
 
 098. SAM: Hello, Mr. Liu, and it's an honor. I'm sorry it's so late there.
     샘: 샘: 안녕하세요, 리우 선생님, 영광입니다. 거기 너무 늦은 시간이라 죄송해요.
 
-099. MR. LIU: Mr. Kowalski. I watched your speech. Eleven times. I have a question as a teacher. Why did you put the paper down?
-    리우 선생: 코왈스키 씨. 당신 연설 봤어요. 열한 번. 교사로서 질문 하나 있어요. 왜 원고를 내려놨어요?
+099. MR. LIU: Mr. Kowalski, I watched your speech eleven times. I have a question as a teacher: why did you put the paper down?
+    리우 선생: 리우 선생: 코왈스키 씨, 당신 연설 열한 번 봤어요. 교사로서 질문 하나 할게요. 왜 원고를 내려놨어요?
 
 100. SAM: Because the answer wasn't on it, sir.
     샘: 답이 거기 없었으니까요, 선생님.
 
-101. MR. LIU: Good answer. I tell my students the same thing. The answer is never on the paper you brought. It's in the problem.
-    리우 선생: 좋은 대답이네요. 나도 학생들한테 똑같이 말해요. 답은 가져온 종이에 있지 않다고. 문제 안에 있다고.
+101. MR. LIU: Good answer. I tell my students the same thing, that the answer is never on the paper you brought with you. It's in the problem.
+    리우 선생: 리우 선생: 좋은 대답이네요. 나도 학생들한테 똑같이 말해요. 답은 가져온 종이에 있지 않다고. 문제 안에 있다고.
 
 102. WEN: Baba, you know what this means, that I can't use my Chinese passport anymore. When I come to see you, I need a visa, like a stranger.
     웬: 웬: 아빠, 이게 무슨 뜻인지 아시죠. 이제 중국 여권 못 써요. 아빠 보러 가려면 남처럼 비자가 필요해요.
 
-103. MR. LIU: Xiaowen. A passport is a piece of paper. I taught physics for thirty-eight years. I know the difference between paper and mass.
-    리우 선생: 샤오원. 여권은 종이 한 장이다. 난 38년 동안 물리를 가르쳤어. 종이랑 질량의 차이는 안다.
+103. MR. LIU: Xiaowen, a passport is a piece of paper. I taught physics for thirty-eight years, and I know the difference between paper and mass.
+    리우 선생: 리우 선생: 샤오원, 여권은 종이 한 장이다. 38년 동안 물리를 가르쳤으니, 종이랑 질량의 차이는 안다.
 
 104. WEN: So what's the difference?
     웬: 웬: 그럼 차이가 뭔데요?
 
-105. MR. LIU: Paper can be changed by a government. Mass cannot. You are my daughter. That has mass.
-    리우 선생: 종이는 정부가 바꿀 수 있어. 질량은 못 바꿔. 너는 내 딸이다. 그건 질량이 있지.
+105. MR. LIU: A government can change paper, but it can't change mass. You are my daughter, and that has mass.
+    리우 선생: 리우 선생: 종이는 정부가 바꿀 수 있지만, 질량은 못 바꿔. 너는 내 딸이고, 그건 질량이 있지.
 
 106. WEN: Baba.
     웬: 아빠.
 
-107. MR. LIU: Don't cry in the car. Mr. Kowalski will have to clean it.
-    리우 선생: 차에서 울지 마라. 코왈스키 씨가 청소해야 하잖니.
+107. MR. LIU: Don't cry in the car, or Mr. Kowalski will have to clean it.
+    리우 선생: 리우 선생: 차에서 울지 마라, 코왈스키 씨가 청소해야 하잖니.
 
 108. SAM: It's her car, sir, and she keeps it very clean.
     샘: 샘: 웬 차예요, 선생님, 아주 깨끗하게 관리해요.
 
-109. MR. LIU: Of course she does. Her mother was the same. Xiaowen, there's one more thing. Something your mother said. I never told you, because I thought you would think it was silly.
-    리우 선생: 당연히 그렇겠지. 네 엄마도 그랬어. 샤오원, 하나 더 있다. 네 엄마가 한 말인데. 네가 우습게 생각할까 봐 한 번도 말 안 했어.
+109. MR. LIU: Of course she does. Her mother was the same way. Xiaowen, there's one more thing your mother said that I never told you, because I thought you would find it silly.
+    리우 선생: 리우 선생: 당연히 그렇겠지, 네 엄마도 그랬어. 샤오원, 네 엄마가 한 말이 하나 더 있는데, 네가 우습게 생각할까 봐 한 번도 말 안 했어.
 
 110. WEN: Please, tell me.
     웬: 웬: 말해 주세요.
 
-111. MR. LIU: The night you left in 2008. At the airport. She said, "She'll become one of them. And that's all right. Someone has to build good things over there too."
-    리우 선생: 네가 떠난 2008년 그날 밤. 공항에서. 네 엄마가 그랬다. "저 애는 저쪽 사람이 될 거예요. 그래도 괜찮아요. 저쪽에서도 누군가는 좋은 걸 만들어야 하니까요."
+111. MR. LIU: It was the night you left in 2008, at the airport. She said, "She'll become one of them. And that's all right. Someone has to build good things over there too."
+    리우 선생: 리우 선생: 네가 떠난 2008년 그날 밤 공항에서였다. 네 엄마가 그랬지. "저 애는 저쪽 사람이 될 거예요. 그래도 괜찮아요. 저쪽에서도 누군가는 좋은 걸 만들어야 하니까요."
 
 112. WEN: She really said that?
     웬: 웬: 엄마가 정말 그렇게 말했어요?
 
-113. MR. LIU: In the parking lot. Then she bought a terrible coffee and cried. I said nothing. I'm a teacher. I wait until the student is ready.
-    리우 선생: 주차장에서. 그러고는 형편없는 커피를 사서 울었지. 난 아무 말도 안 했다. 난 교사니까. 학생이 준비될 때까지 기다리지.
+113. MR. LIU: She said it in the parking lot, and then she bought a terrible coffee and cried. I said nothing. I'm a teacher, and I wait until the student is ready.
+    리우 선생: 리우 선생: 주차장에서 그러고는 형편없는 커피를 사서 울었지. 난 아무 말도 안 했다. 난 교사라서, 학생이 준비될 때까지 기다리거든.
 
 114. WEN: And was I ready?
     웬: 웬: 그럼 제가 준비됐어요?
 
-115. MR. LIU: You stood up in front of seventy-two strangers and said the words with a shaking hand. Yes. You were ready.
-    리우 선생: 낯선 사람 일흔두 명 앞에 서서 떨리는 손으로 그 말을 했잖니. 그래. 준비됐어.
+115. MR. LIU: You stood in front of seventy-two strangers and said the words with a shaking hand. Yes, you were ready.
+    리우 선생: 리우 선생: 낯선 사람 일흔두 명 앞에 서서 떨리는 손으로 그 말을 했잖니. 그래, 준비됐어.
 
 116. WEN: How do you know my hand was shaking?
     웬: 제 손이 떨린 건 어떻게 아세요?
 
-117. MR. LIU: Because your mother's did too. On our wedding day. Same hand. The right one.
-    리우 선생: 네 엄마 손도 떨렸으니까. 우리 결혼식 날에. 같은 손. 오른손.
+117. MR. LIU: Your mother's hand shook too, on our wedding day. It was the same hand, the right one.
+    리우 선생: 리우 선생: 우리 결혼식 날 네 엄마 손도 떨렸거든. 같은 손, 오른손이었다.
 
-118. MR. LIU: Now. It's midnight. I'm an old man. Go eat your pie. I know there's pie. There's always pie in Ohio.
-    리우 선생: 자. 자정이다. 난 늙은이야. 가서 파이 먹어라. 파이 있는 거 안다. 오하이오엔 늘 파이가 있지.
+118. MR. LIU: Now, it's midnight and I'm an old man. Go and eat your pie. I know there's pie, because there's always pie in Ohio.
+    리우 선생: 리우 선생: 자, 자정이고 난 늙은이다. 가서 파이 먹어라. 파이 있는 거 안다, 오하이오엔 늘 파이가 있잖니.
 
 119. WEN: Pie is not food, Baba, because you said that.
     웬: 웬: 파이는 음식이 아니라고 하셨잖아요, 아빠.
 
-120. MR. LIU: Today it is food. Today, eat two pieces. See it through, Xiaowen. You did. Goodnight, Mr. Kowalski. Take care of my daughter. No. She takes care of herself. Take care of her motors.
-    리우 선생: 오늘은 음식이다. 오늘은 두 조각 먹어라. 끝까지 해내라, 샤오원. 해냈구나. 잘 자요, 코왈스키 씨. 내 딸 잘 부탁해요. 아니. 그 애는 자기가 알아서 해요. 그 애 모터나 잘 부탁해요.
+120. MR. LIU: Today it is food, so eat two pieces. See it through, Xiaowen, and you did. Goodnight, Mr. Kowalski, and take care of my daughter. No, she takes care of herself. Take care of her motors.
+    리우 선생: 리우 선생: 오늘은 음식이니까 두 조각 먹어라. 끝까지 해내라, 샤오원. 해냈구나. 잘 자요, 코왈스키 씨, 내 딸 잘 부탁해요. 아니, 그 애는 자기가 알아서 하지. 그 애 모터나 잘 부탁해요.
 
 121. DONNA: Okay, everybody, sit down, because nobody touches this pie until the citizen cuts it. Wen, honey, that's you, so here's the knife.
     도나: 도나: 자, 다들 앉아. 시민이 자르기 전엔 아무도 이 파이 건드리지 마. 웬, 얘, 그게 너야, 칼 여기 있어.

@@ -21,10 +21,10 @@
 002. SAM: He's waving his passport over his head like a trophy.
     샘: 여권을 트로피처럼 머리 위로 흔들고 있네.
 
-003. MINJUN: Sam! Tyler! Sunbae! I have a proper visa this time, so look, look, look, because it's stamped, signed, and everything.
+003. MINJUN: Sam! Tyler! Sunbae! I have a proper visa this time, look, look, look, it's stamped, signed, and everything.
     민준: 샘! 타일러! 선배! 이번엔 제대로 된 비자예요. 보세요, 보세요, 보세요. 도장, 서명, 다 있어요.
 
-004. WEN: Min-jun, put it away before you drop it, because you drop things.
+004. WEN: Min-jun, put it away before you drop it, you always drop things.
     웬: 민준 씨, 떨어뜨리기 전에 넣어요. 민준 씨는 물건 떨어뜨리잖아요.
 
 005. MINJUN: That was one time, four samples, one time, back in 2011, and Sunbae, you will never let me forget it.
@@ -51,7 +51,7 @@
 012. MINJUN: That's it, after two months of paperwork, two lawyers, and one interview at the embassy, it ended with six words, and I almost cried at the baggage carousel.
     민준: 그게 다예요. 두 달 동안의 서류, 변호사 둘, 대사관 인터뷰 한 번 끝에 여섯 단어로 끝났어요. 수하물 벨트 앞에서 거의 울 뻔했어요.
 
-013. TYLER: An L-one, so what does that mean, exactly?
+013. TYLER: What does an L-one actually mean, Min-jun?
     타일러: L-1이요? 그게 정확히 뭐예요?
 
 014. MINJUN: It's for people who work for a company in Korea and move to the same company in America, and since Daesung owns seventy percent of our Georgia company, now I'm officially its manager.
@@ -60,7 +60,7 @@
 015. SAM: The right visa for the right job, which is all we wanted the first time.
     샘: 맞는 일에 맞는 비자. 처음에도 우리가 원한 건 그것뿐이었어요.
 
-016. MINJUN: I know, because the first time, everybody told us a short business visa was fine for installing machines, and then one morning, it wasn't fine.
+016. MINJUN: I know. The first time, everybody told us a short business visa was fine for installing machines, and then one morning, it wasn't fine.
     민준: 알아요. 처음엔 다들 기계 설치하는 데 단기 상용 비자면 된다고 했죠. 그러다 어느 날 아침, 안 되는 거였어요.
 
 017. WEN: How is your family, and how is Seo-yeon?
@@ -78,13 +78,13 @@
 021. SAM: Then you have to eat a lot of turkey tonight, for Seo-yeon.
     샘: 그럼 오늘 밤에 칠면조 많이 먹어야겠네요. 서연이를 위해서.
 
-022. MINJUN: That's the plan, because I didn't eat on the plane, so I'm saving room.
+022. MINJUN: That's the plan. I didn't eat on the plane, so I'm saving room.
     민준: 그게 계획이에요. 비행기에서 안 먹었어요. 배를 남겨 뒀죠.
 
 023. TYLER: Did you read the news about Korea and the US, the big investment thing?
     타일러: 한국이랑 미국 뉴스 봤어요? 그 큰 투자 얘기요.
 
-024. MINJUN: Tyler, in Ulsan, people talked about nothing else for two weeks, because it's three hundred and fifty billion dollars, with a hundred and fifty billion just for ships.
+024. MINJUN: Tyler, in Ulsan, people talked about nothing else for two weeks. It's three hundred and fifty billion dollars, with a hundred and fifty billion just for ships.
     민준: 타일러, 울산에선 2주 내내 그 얘기만 했어요. 3,500억 달러요. 조선에만 1,500억이고요.
 
 025. SAM: That's an investment pledge, right, and not money that's already been spent?
@@ -96,7 +96,7 @@
 027. WEN: And what about the visa problem and the raid?
     웬: 그럼 비자 문제랑 단속은요?
 
-028. MINJUN: Both governments say they're fixing it, so there's a new desk at the embassy just for Korean companies, with faster interviews and clearer rules about who can install machines.
+028. MINJUN: Both governments say they're fixing it. There's a new desk at the embassy just for Korean companies, with faster interviews and clearer rules about who can install machines.
     민준: 양국 정부가 고치고 있다고 해요. 대사관에 한국 기업 전용 창구가 생겼고, 인터뷰도 빨라지고, 누가 기계를 설치할 수 있는지 규정도 더 명확해졌어요.
 
 029. SAM: And do you believe them?
@@ -123,13 +123,13 @@
 036. MINJUN: And what about Earl, is Earl coming tonight?
     민준: 얼 씨는요? 오늘 밤에 와요?
 
-037. TYLER: Earl's been at Lou's since noon, because he's guarding the turkey.
+037. TYLER: Earl's been at Lou's since noon guarding the turkey.
     타일러: 얼은 정오부터 루네 가게에 있어요. 칠면조 지키는 중이에요.
 
 038. MINJUN: Guarding it from who?
     민준: 누구로부터요?
 
-039. TYLER: From Gloria, because last year she tried to add a "healthy" side dish, and Earl's still not over it.
+039. TYLER: From Gloria. Last year she tried to add a "healthy" side dish, and Earl's still not over it.
     타일러: 글로리아한테서요. 작년에 "건강한" 반찬을 넣으려고 했는데, 얼이 아직도 못 잊었어요.
 
 040. MINJUN: In Georgia, Earl called me every week, every Sunday, and when I was in the detention center, he wrote me a three-page letter by hand.
@@ -162,7 +162,7 @@
 049. MINJUN: Excuse me, Donna, is this a bird or a building? Because in Korea, we don't eat a bird this big.
     민준: 실례지만, 도나 씨, 이게 새예요, 건물이에요? 한국에선 이렇게 큰 새는 안 먹어요.
 
-050. DONNA: Sweetheart, in Ohio, this is a small one. You must be Min-jun, because Earl hasn't shut up about you for two months.
+050. DONNA: Sweetheart, in Ohio, this is a small one. You must be Min-jun, since Earl hasn't shut up about you for two months.
     도나: 얘, 오하이오에선 이게 작은 거야. 네가 민준이구나. 얼이 두 달 동안 네 얘기만 했어.
 
 051. EARL: I said two things about him, maybe three.
@@ -174,7 +174,7 @@
 053. EARL: Get over here, kid.
     얼: 이리 와, 꼬마야.
 
-054. GLORIA: Look at that, Earl's hugging somebody, so somebody take a picture, because this only happens once every ten years.
+054. GLORIA: Look at that, Earl's hugging somebody. Somebody take a picture, because this only happens once every ten years.
     글로리아: 저거 봐, 얼이 누굴 안아 주네. 누가 사진 찍어. 10년에 한 번 있는 일이야.
 
 055. DARNELL: Got it, and it's going on the break room wall.
@@ -183,7 +183,7 @@
 056. EARL: If that goes on the wall, you're on night shift until you're forty.
     얼: 그거 벽에 붙이면 너 마흔 살까지 야간 근무야.
 
-057. STAN: Sam, over here, because I saved you a seat next to me and across from the stuffing, which is the best seat in the house.
+057. STAN: Sam, over here. I saved you a seat next to me and across from the stuffing, the best seat in the house.
     스탠: 샘, 이리 와. 내 옆에, 스터핑 맞은편에 자리 맡아 놨다. 제일 좋은 자리야.
 
 058. SAM: Thanks, Dad. Where's Erin, did she text you?
@@ -204,7 +204,7 @@
 063. EARL: Oh, here we go again.
     얼: 아, 또 시작이네.
 
-064. GLORIA: It has bacon in it, Earl, and cheese, and a lot of dressing, so it's a salad in name only.
+064. GLORIA: It has bacon in it, Earl, and cheese, and a lot of dressing. It's a salad in name only.
     글로리아: 베이컨 들어갔어, 얼. 치즈도, 드레싱도 잔뜩. 이름만 샐러드야.
 
 065. EARL: Then I accept it, Gloria.
@@ -216,16 +216,16 @@
 067. MINJUN: What is a potluck? I know "pot," and I know "luck."
     민준: 포틀럭이 뭐예요? "팟"도 알고 "럭"도 아는데.
 
-068. TYLER: Everybody brings one dish without planning it, so you might get four pies and no potatoes, and that's the luck part.
+068. TYLER: Everybody brings one dish, and nobody plans it. So you might get four pies and no potatoes, and that's the luck part.
     타일러: 각자 요리 하나씩 가져오는데 미리 안 정해요. 그래서 파이 네 개에 감자는 하나도 없을 수도 있죠. 그게 운이에요.
 
-069. MINJUN: In Korea, we have something similar for holidays, but the grandmother plans everything, so there is no luck, there is only the grandmother.
+069. MINJUN: In Korea, we have something similar for holidays, but the grandmother plans everything. There is no luck, only the grandmother.
     민준: 한국에도 명절에 비슷한 게 있어요. 근데 할머니가 다 정하세요. 운은 없고, 할머니만 있어요.
 
 070. STAN: That sounds like my mother, God rest her soul.
     스탠: 우리 어머니 같구먼. 하늘에서 편히 쉬시길.
 
-071. MINJUN: I didn't know what to bring, so I brought this japchae from my wife, which is glass noodles with vegetables, and she made it at five in the morning before I left.
+071. MINJUN: I didn't know what to bring, so I brought japchae from my wife. It's glass noodles with vegetables, and she made it at five in the morning before I left.
     민준: 뭘 가져와야 할지 몰라서 아내가 만든 잡채를 가져왔어요. 채소 넣은 당면 요리예요. 제가 떠나기 전 새벽 다섯 시에 만들었어요.
 
 072. DONNA: You carried noodles from Korea?
@@ -249,13 +249,13 @@
 078. EARL: They needed it, Sam.
     얼: 걔들한텐 그게 필요했어, 샘.
 
-079. SAM: I'll go first, and I'm thankful for every person at this table, because we had a crazy year with magnets, lawyers, tariffs, and a shutdown, and nobody quit on each other.
+079. SAM: I'll go first. I'm thankful for every person at this table. We had a crazy year with magnets, lawyers, tariffs, and a shutdown, and nobody quit on each other.
     샘: 내가 먼저 할게. 이 테이블의 모든 사람한테 감사해. 자석, 변호사, 관세, 셧다운까지 미친 한 해였는데, 아무도 서로를 포기하지 않았어.
 
-080. PATTY: I'm thankful I didn't have to choose between rent and groceries this year, for the first time in three years, and that's because of this job.
+080. PATTY: I'm thankful I didn't have to choose between rent and groceries this year, for the first time in three years. That's because of this job.
     패티: 올해는 월세랑 장보기 중에 고르지 않아도 돼서 감사해요. 3년 만에 처음이에요. 이 직장 덕분이에요.
 
-081. DARNELL: I'm thankful for health insurance, because when my son broke his arm in September, I didn't panic about the bill, I just panicked about the arm.
+081. DARNELL: I'm thankful for health insurance. When my son broke his arm in September, I didn't panic about the bill, I just panicked about the arm.
     대넬: 건강보험에 감사해요. 9월에 아들이 팔이 부러졌는데, 병원비 걱정은 안 하고 팔 걱정만 했어요.
 
 082. GLORIA: I'm thankful for six weeks of runway, which is two more than October. And for Donna, who let me pay for this whole dinner in three installments.
@@ -282,7 +282,7 @@
 089. GLORIA: Wen, that's the saddest thing anyone has ever said at Thanksgiving.
     글로리아: 웬, 그건 추수감사절에 누가 한 말 중에 제일 슬픈 말이야.
 
-090. WEN: Fine, I'm also thankful for all of you, and that's not physics, that's just true.
+090. WEN: Fine, I'm also thankful for all of you. That's not physics, that's just true.
     웬: 알았어요. 여러분 모두에게도 감사해요. 그건 물리학이 아니라 그냥 사실이에요.
 
 091. EARL: I'm thankful the kid came back, and that's it, that's my whole speech.
@@ -300,7 +300,7 @@
 095. STAN: That was a good one, son. That was the best one tonight.
     스탠: 좋은 말이었다, 젊은이. 오늘 밤 최고였어.
 
-096. MINJUN: It's cold out here, so you come out to the parking lot to talk business on Thanksgiving?
+096. MINJUN: It's cold out here. You really came out to the parking lot to talk business on Thanksgiving?
     민준: 밖은 춥네요. 추수감사절에 일 얘기 하려고 주차장까지 나오신 거예요?
 
 097. SAM: Erin would kill me if I did it inside, and she'll be here in twenty minutes. So, Georgia, and tell me the truth, is Daesung still in?
@@ -318,28 +318,28 @@
 101. SAM: So that means you're in.
     샘: 그럼 하는 거네요.
 
-102. MINJUN: We're in, but with changes, because every Korean engineer gets the right visa before they fly, with no shortcuts. It's slower and it costs more, and we hire more local people in Georgia and train them.
+102. MINJUN: We're in, but with changes. Every Korean engineer gets the right visa before they fly, with no shortcuts. It's slower and it costs more, and we hire more local people in Georgia and train them.
     민준: 해요. 근데 바뀐 게 있어요. 한국 엔지니어는 전부 비행기 타기 전에 맞는 비자를 받아요. 편법은 없어요. 더 느리고 돈도 더 들죠. 그리고 조지아에서 현지 사람을 더 뽑아서 교육할 거예요.
 
-103. SAM: Good, because that's what we want too, so when can the line start?
+103. SAM: Good, that's what we want too. So when can the line start?
     샘: 좋아요, 우리도 그걸 원해요. 라인은 언제 시작할 수 있어요?
 
-104. MINJUN: Maybe in the spring, because the machines are still in the building under plastic, waiting like a dog waiting for its owner.
+104. MINJUN: Maybe in the spring. The machines are still in the building under plastic, waiting like a dog waiting for its owner.
     민준: 봄쯤이요. 기계들이 아직 건물 안에 비닐 덮고 기다리고 있어요. 주인 기다리는 개처럼요.
 
 105. SAM: There's one more thing I have to tell you. Somebody from the government offered us fifty million dollars last week.
     샘: 하나 더 말해야 할 게 있어요. 지난주에 정부에서 누가 5,000만 달러를 제안했어요.
 
-106. MINJUN: Fifty million, Sam, that's amazing, because that's bigger than our whole Georgia budget.
+106. MINJUN: Fifty million, Sam, that's amazing. That's bigger than our whole Georgia budget.
     민준: 5천만이요, 샘, 대단하네요. 우리 조지아 예산 전체보다 커요.
 
-107. SAM: It comes with a golden share, so if we ever want to license our technology to a foreign company, the government can say no.
+107. SAM: It comes with a golden share. If we ever want to license our technology to a foreign company, the government can say no.
     샘: 황금주가 딸려 있어요. 외국 회사에 기술을 라이선스하려고 하면 정부가 안 된다고 할 수 있어요.
 
 108. MINJUN: A foreign company, you mean like Daesung.
     민준: 외국 회사요. 대성 같은 거죠.
 
-109. SAM: Like Daesung, yes, so we asked them about allies like Korea, Japan, and Europe, and we're waiting for an answer.
+109. SAM: Like Daesung, yes. We asked them about allies like Korea, Japan, and Europe, and we're waiting for an answer.
     샘: 네, 대성 같은 거요. 그래서 한국, 일본, 유럽 같은 동맹국은 어떠냐고 물어봤고, 답을 기다리고 있어요.
 
 110. MINJUN: Sam, I'll be honest, because you were honest with me in Georgia. If Daesung needs Washington's permission for every motor, President Park will be very polite. And then he'll build somewhere else.
@@ -348,19 +348,19 @@
 111. SAM: I figured as much.
     샘: 그럴 줄 알았어요.
 
-112. MINJUN: Not because he's angry, but because he's careful, since Koreans have learned that a promise from a big country can change when the government changes. We had a raid at a factory that both governments invited us to build.
+112. MINJUN: Not because he's angry, but because he's careful. Koreans have learned that a promise from a big country can change when the government changes. We had a raid at a factory that both governments invited us to build.
     민준: 화나서가 아니에요. 신중해서예요. 한국 사람들은 큰 나라의 약속이 정부가 바뀌면 바뀔 수 있다는 걸 배웠어요. 양국 정부가 지어 달라고 초대한 공장에서 단속이 있었잖아요.
 
 113. SAM: That's the same thing Wen said about the golden share, just in different words.
     샘: 웬이 황금주에 대해 한 말이랑 똑같네요. 단어만 다르고.
 
-114. MINJUN: Sunbae is always right, which is very annoying.
+114. MINJUN: Sunbae is always right, and it's very annoying.
     민준: 선배는 늘 맞아요. 아주 짜증 나죠.
 
 115. SAM: Can I ask you something personal about those days in that room? Are you okay, really?
     샘: 개인적인 거 하나 물어봐도 돼요? 그 방에서 보낸 날들이요. 괜찮아요? 진짜로?
 
-116. MINJUN: Mostly, but sometimes when I see a uniform at the airport, my heart goes very fast, and my wife says I talk in my sleep in English, which is strange, because I dream in Korean.
+116. MINJUN: Mostly. But sometimes when I see a uniform at the airport, my heart goes very fast. My wife says I talk in my sleep in English, which is strange, because I dream in Korean.
     민준: 거의요. 근데 가끔 공항에서 제복을 보면 심장이 엄청 빨리 뛰어요. 아내 말로는 제가 영어로 잠꼬대를 한대요. 이상하죠, 꿈은 한국어로 꾸거든요.
 
 117. SAM: And what do you say in your sleep?
@@ -369,22 +369,22 @@
 118. MINJUN: She says I keep saying, "I'm an engineer. I'm an engineer." Like a password.
     민준: 계속 "저는 엔지니어예요. 저는 엔지니어예요"라고 한대요. 비밀번호처럼요.
 
-119. SAM: I'm sorry, I really am, because we brought you to Georgia, so we should have checked every visa ourselves.
+119. SAM: I'm sorry, I really am. We brought you to Georgia, so we should have checked every visa ourselves.
     샘: 미안해요. 진심으로요. 우리가 조지아로 불렀으니까, 비자를 우리가 하나하나 확인했어야 했어요.
 
-120. MINJUN: Sam, you flew to Georgia the same night and hired a lawyer for people you'd never met, so my wife says, "That man is a good man," and she doesn't say that about anybody, not even about me.
+120. MINJUN: Sam, you flew to Georgia the same night and hired a lawyer for people you'd never met. My wife says, "That man is a good man," and she doesn't say that about anybody, not even about me.
     민준: 샘, 그날 밤에 바로 조지아로 날아오셨잖아요. 본 적도 없는 사람들을 위해 변호사도 구하셨고요. 그래서 아내가 "그분은 좋은 사람이야"래요. 아무한테도 그런 말 안 해요. 저한테도요.
 
 121. SAM: Then I owe her one.
     샘: 그럼 제가 신세 졌네요.
 
-122. MINJUN: You owe her a jar of peanut butter, the crunchy kind, because it's very expensive in Korea.
+122. MINJUN: You owe her a jar of peanut butter, the crunchy kind, which is very expensive in Korea.
     민준: 땅콩버터 한 병 빚지신 거예요. 크런치로요. 한국에선 엄청 비싸거든요.
 
 123. SAM: Deal, and I'll make it a whole case of it.
     샘: 좋아요. 한 상자로 보낼게요.
 
-124. MINJUN: Sam, one more thing, which is a fresh start, okay? No more apologizing, because we start again, the right way.
+124. MINJUN: Sam, one more thing. It's a fresh start, okay? No more apologizing, we start again the right way.
     민준: 샘, 하나 더요. 새 출발이에요, 알았죠? 더는 사과하지 마세요. 다시 시작해요, 제대로요.
 
 125. SAM: A fresh start, and the right way this time.
@@ -402,7 +402,7 @@
 129. SAM: Is the grandmother okay?
     샘: 그 할머니는 괜찮아?
 
-130. ERIN: She has a broken wrist, and she was mad because she didn't finish the lights. Where's Min-jun, because I want to meet the famous Min-jun?
+130. ERIN: She has a broken wrist, and she was mad because she didn't finish the lights. Where's Min-jun? I want to meet the famous Min-jun.
     에린: 손목 부러졌어. 전구 다 못 달았다고 화내시더라. 민준 씨는? 그 유명한 민준 씨 보고 싶은데.
 
 131. LILY: He left with Earl, who's driving him to the hotel, and they were arguing about the Bengals.
@@ -411,7 +411,7 @@
 132. ERIN: Of course they were. Sam, you look happy, and I haven't seen you look happy in a while.
     에린: 당연하지. 샘, 당신 행복해 보여. 그런 얼굴 본 지 꽤 됐네.
 
-133. SAM: It was a good night, because everybody said what they were thankful for, and Min-jun almost made Donna cry.
+133. SAM: It was a good night. Everybody said what they were thankful for, and Min-jun almost made Donna cry.
     샘: 좋은 밤이었어. 다들 감사한 걸 말했는데, 민준 씨가 도나를 거의 울릴 뻔했어.
 
 134. ERIN: And what did you say?
@@ -420,25 +420,25 @@
 135. SAM: I said I was thankful nobody quit on each other this year.
     샘: 올해 아무도 서로를 포기하지 않아서 감사하다고 했지.
 
-136. ERIN: That's nice, but that's a CEO answer, though, so what about at home?
+136. ERIN: That's nice, but that's a CEO answer. What about at home?
     에린: 좋네. 근데 그건 CEO 답이잖아. 집에서는?
 
 137. SAM: At home, I'm thankful you're still here after the house, the loan, the lawyers, all of it.
     샘: 집에서는 당신이 아직 곁에 있어 줘서 감사해. 집이며 대출이며 변호사며, 그 모든 걸 겪고도.
 
-138. ERIN: I'm still here, and I'm tired, but I'm here, so ask me again at Christmas.
+138. ERIN: I'm still here. I'm tired, but I'm here, so ask me again at Christmas.
     에린: 아직 여기 있어. 피곤하지만 여기 있어. 크리스마스에 다시 물어봐.
 
-139. LILY: Mom, I'm thankful you're both here, and that's mine. I didn't say it at the table because Grandpa was crying.
+139. LILY: Mom, I'm thankful you're both here, that's mine. I didn't say it at the table because Grandpa was crying.
     릴리: 엄마, 난 두 사람 다 여기 있어서 감사해. 그게 내 거야. 할아버지가 울고 계셔서 테이블에선 말 안 했어.
 
 140. SAM: Grandpa wasn't crying, he just had gravy in his eye.
     샘: 할아버지 안 우셨어. 눈에 그레이비가 들어갔을 뿐이야.
 
-141. ERIN: Sure he did. Where's Wen, because I wanted to say hi?
+141. ERIN: Sure he did. I wanted to say hi to Wen, so where is she?
     에린: 그렇겠지. 웬은? 인사하고 싶었는데.
 
-142. LILY: She left early, because she said she had to check something at work.
+142. LILY: She left early, said she had to check something at work.
     릴리: 일찍 갔어. 회사에서 뭘 확인해야 한대.
 
 143. ERIN: On Thanksgiving? Is she okay?

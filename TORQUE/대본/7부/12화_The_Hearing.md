@@ -15,122 +15,122 @@
 
 ## 대본
 
-001. GLORIA: Seven days. Seven days of this building, and I still can't find the women's restroom without a map.
-    글로리아: 7일. 이 건물에서 7일째인데 아직도 지도 없이는 여자 화장실을 못 찾겠어.
+001. GLORIA: I've spent seven days in this building, and I still can't find the women's restroom without a map.
+    글로리아: 이 건물에서 7일을 보냈는데, 아직도 지도 없인 여자 화장실을 못 찾아.
 
-002. BEN: It's on the third floor, behind the room where they keep the old trade cases. Nobody goes there. Morning, everybody. Last day. How did everybody sleep?
-    벤: 3층에 있어, 옛날 무역 사건 보관실 뒤에. 아무도 안 가는 데야. 다들 좋은 아침. 마지막 날이다. 다들 잘 잤어?
+002. BEN: It's on the third floor, behind the room where they keep the old trade cases, where nobody ever goes. Morning, everybody, it's the last day. How did you all sleep?
+    벤: 3층에 있어. 옛날 무역 사건 기록 보관하는 방 뒤에. 아무도 안 가는 데야. 다들 좋은 아침. 마지막 날이다. 잠은 잘 잤어?
 
-003. WEN: I slept four hours. That's two more than last Monday.
-    웬: 네 시간 잤어요. 지난 월요일보다 두 시간 많이요.
+003. WEN: I slept four hours, which is two more than last Monday.
+    웬: 네 시간 잤어요. 지난 월요일보다 두 시간 더요.
 
 004. SAM: I slept on a plane. I flew home Saturday night for Sunday dinner, and I took the five a.m. flight back this morning.
     샘: 비행기에서 잤어. 일요일 저녁 먹으려고 토요일 밤에 집에 갔다가, 오늘 아침 다섯 시 비행기로 돌아왔어.
 
-005. BEN: You flew home for one dinner? In the middle of a federal trade hearing?
-    벤: 저녁 한 끼 먹으려고 집에 갔다고? 연방 무역 심리 한가운데에?
+005. BEN: You flew home for one dinner in the middle of a federal trade hearing?
+    벤: 연방 무역 청문회 한복판에 저녁 한 끼 먹으러 집에 갔다 왔다고?
 
-006. SAM: It was a date that doesn't move. Erin made pot roast. My father was a witness.
-    샘: 움직이지 않는 날짜였거든. 에린이 포트 로스트를 했고. 아버지가 증인이었어.
+006. SAM: It was a date that doesn't move. Erin made pot roast, and my father was a witness.
+    샘: 움직이지 않는 날짜였어요. 에린이 팟로스트를 만들었고, 아버지가 증인이었어요.
 
-007. GLORIA: Sam kept a promise, Ben. Write that down somewhere. It's historic.
+007. GLORIA: Sam kept a promise, Ben, so write that down somewhere, because it's historic.
     글로리아: 샘이 약속을 지켰어, 벤. 어디 적어 둬. 역사적인 일이야.
 
-008. BEN: I'll put it in my closing. Okay. Before we go in, let's review the week in plain English, because the judge will review it too, in very fancy English.
-    벤: 최종 변론에 넣을게. 자. 들어가기 전에 이번 주를 쉬운 말로 정리하자. 판사도 정리할 텐데, 아주 고급 영어로 할 거니까.
+008. BEN: I'll put it in my closing. Okay, before we go in, let's review the week in plain English. The judge will review it too, in very fancy English.
+    벤: 최종 변론에 넣을게. 자, 들어가기 전에 이번 주를 쉬운 말로 정리하자. 판사도 정리할 거야. 아주 고급스러운 말로.
 
-009. SAM: Go ahead. Plain English. I'm too tired for the fancy kind.
-    샘: 해 봐. 쉬운 말로. 고급 영어 듣기엔 너무 피곤해.
+009. SAM: Go ahead in plain English, please. I'm too tired for the fancy kind.
+    샘: 쉬운 말로 해요. 고급스러운 말 듣기엔 너무 피곤해요.
 
-010. BEN: Day one, Monday. We opened one of the sealed boxes in front of the judge. Gloria's and Earl's signatures were still on the tape. Wen extracted the firmware right there and ran the birdwatcher. S-T-A-N-7-6. Live.
-    벤: 첫날, 월요일. 판사 앞에서 봉인 상자 하나를 열었지. 테이프엔 글로리아랑 얼 서명이 그대로 있었고. 웬이 그 자리에서 펌웨어를 뽑아서 버드워처를 돌렸어. S-T-A-N-7-6. 실시간으로.
+010. BEN: On day one, Monday, we opened one of the sealed boxes in front of the judge, with Gloria's and Earl's signatures still on the tape. Wen extracted the firmware right there and ran the birdwatcher, and it found S-T-A-N-7-6, live.
+    벤: 첫날, 월요일. 판사 앞에서 봉인 상자 하나를 열었어. 테이프엔 글로리아랑 얼 서명이 그대로 있었고. 웬이 그 자리에서 펌웨어를 뽑아서 버드워처를 돌렸지. S-T-A-N-7-6. 생중계로.
 
-011. GLORIA: The judge leaned forward. I saw it. Judges don't lean.
-    글로리아: 판사가 몸을 앞으로 숙였어. 내가 봤어. 판사들은 안 숙여.
+011. GLORIA: The judge leaned forward, and I saw it with my own eyes, because judges don't lean.
+    글로리아: 판사가 몸을 앞으로 기울였어. 내 눈으로 봤어. 판사들은 원래 안 기울이거든.
 
-012. BEN: Day two, Calloway's expert said the canary could have been planted after purchase. Then Priya Natarajan testified. In June, her lab bought three EverSpin motors from three different states. Sealed. Untouched by Ferrox.
-    벤: 둘째 날, 캘러웨이 전문가가 카나리아가 구매 후에 심어졌을 수 있다고 했어. 그다음 프리야 나타라잔이 증언했지. 6월에 그쪽 연구소가 세 개 주에서 에버스핀 모터 세 개를 샀어. 봉인 상태로. 페록스는 손도 안 댔고.
+012. BEN: On day two, Calloway's expert said the canary could have been planted after purchase. Then Priya Natarajan testified that in June her lab bought three EverSpin motors from three different states, sealed and untouched by Ferrox.
+    벤: 둘째 날엔 캘러웨이 전문가가 카나리아가 구입 후에 심어졌을 수 있다고 했어. 그다음 프리야 나타라잔이 증언했지. 6월에 자기 연구소가 세 개 주에서 에버스핀 모터를 세 대 샀다고. 봉인된 채로, 페록스는 손도 안 댄 걸로.
 
-013. WEN: STAN76 in all three. Including one of their new furnace blower motors from a store in Georgia.
-    웬: 세 개 다 STAN76이 있었어요. 조지아 매장에서 산 신형 퍼니스 송풍 모터까지 포함해서요.
+013. WEN: STAN76 was in all three, including one of their new furnace blower motors from a store in Georgia.
+    웬: 세 대 전부에 STAN76이 있었어요. 조지아 매장에서 산 신형 퍼니스 송풍 모터까지요.
 
-014. BEN: That's called chain of custody. In plain English? We can show every hand that touched the evidence, from the store shelf to the courtroom. Nobody's hand was ours.
-    벤: 그걸 증거 보관의 연속성이라고 해. 쉬운 말로? 가게 선반에서 법정까지, 증거를 만진 모든 손을 보여 줄 수 있다는 거야. 그중 우리 손은 하나도 없었고.
+014. BEN: That's called chain of custody. In plain English, we can show every hand that touched the evidence, from the store shelf to the courtroom, and none of those hands were ours.
+    벤: 그걸 증거 보관의 연속성이라고 해. 쉬운 말로, 매장 선반에서 법정까지 증거를 만진 손을 하나하나 다 보여 줄 수 있다는 거야. 그중에 우리 손은 하나도 없어.
 
-015. SAM: Day three was Victoria. I was in the room for that one.
-    샘: 셋째 날은 빅토리아였지. 그건 내가 그 방에 있었어.
+015. SAM: Day three was Victoria, and I was in the room for that one.
+    샘: 셋째 날은 빅토리아였죠. 그날은 저도 법정에 있었어요.
 
-016. BEN: Day three, Victoria testified for two hours. She said a legal review happened in June 2025. She doesn't know what it covered. And she said again, "I never verified what the Dayton package was."
-    벤: 셋째 날, 빅토리아가 두 시간 증언했어. 2025년 6월에 법무 검토가 있었대. 뭘 다뤘는지는 모르고. 그리고 다시 말했지. "데이턴 패키지가 뭔지 확인한 적 없습니다."
+016. BEN: On day three, Victoria testified for two hours. She said a legal review happened in June 2025, but she doesn't know what it covered. And she said again, "I never verified what the Dayton package was."
+    벤: 셋째 날, 빅토리아가 두 시간 증언했어. 2025년 6월에 법무 검토가 있었다고 했지. 근데 뭘 검토했는지는 모른대. 그리고 다시 말했어. "데이턴 패키지가 뭔지 확인한 적이 없습니다."
 
-017. GLORIA: She didn't look at Sam once. Not one time in two hours.
-    글로리아: 샘을 한 번도 안 쳐다보더라. 두 시간 동안 한 번도.
+017. GLORIA: She didn't look at Sam once, not one time in two hours.
+    글로리아: 샘을 한 번도 안 쳐다봤어. 두 시간 동안 단 한 번도.
 
-018. SAM: She looked once. At the end. Then she left.
-    샘: 한 번 봤어요. 마지막에. 그러고 나갔어요.
+018. SAM: She looked once, at the very end, and then she left.
+    샘: 한 번 봤어요. 맨 마지막에요. 그러고는 나갔어요.
 
-019. BEN: Day four. The big one. Martin Shaw. His lawyer stood up and said Mr. Shaw would not answer any questions. He invoked his Fifth Amendment right against self-incrimination.
-    벤: 넷째 날. 제일 큰 날. 마틴 쇼. 그 사람 변호사가 일어나서 쇼 씨는 어떤 질문에도 답하지 않겠다고 했어. 자기부죄 거부, 수정헌법 5조 권리를 행사한 거지.
+019. BEN: Day four was the big one, Martin Shaw. His lawyer stood up and said Mr. Shaw would not answer any questions, and he invoked his Fifth Amendment right against self-incrimination.
+    벤: 넷째 날이 큰 거였지. 마틴 쇼. 그쪽 변호사가 일어나서 쇼 씨는 어떤 질문에도 답하지 않겠다고 했어. 자기부죄 거부권, 수정헌법 5조를 행사한 거야.
 
-020. WEN: He took the Fifth.
-    웬: 묵비권을 행사했죠.
+020. WEN: In other words, he took the Fifth.
+    웬: 그러니까 묵비권을 행사한 거죠.
 
-021. GLORIA: In plain English, for the people in the back, Ben. What does that mean for us?
-    글로리아: 쉬운 말로, 뒤쪽 사람들 위해서, 벤. 그게 우리한테 무슨 뜻이야?
+021. GLORIA: In plain English, for the people in the back, Ben, what does that mean for us?
+    글로리아: 쉬운 말로, 뒤에 있는 사람들 위해서, 벤. 그게 우리한테 무슨 뜻이야?
 
-022. BEN: In plain English? Anybody can refuse to answer if the answer might be used against them in a criminal case. That's his right. But this is a civil case. Here, the judge is allowed to think about why he won't answer.
-    벤: 쉬운 말로? 누구든 답이 형사 사건에서 자기한테 불리하게 쓰일 수 있으면 대답을 거부할 수 있어. 그건 그 사람 권리야. 근데 이건 민사 사건이야. 여기선 판사가 그 사람이 왜 대답을 안 하는지 생각해 봐도 돼.
+022. BEN: In plain English, anybody can refuse to answer if the answer might be used against them in a criminal case, and that's his right. But this is a civil case, and here the judge is allowed to think about why he won't answer.
+    벤: 쉬운 말로? 형사 사건에서 불리하게 쓰일 수 있는 답이면 누구든 거부할 수 있어. 그건 그 사람 권리야. 근데 이건 민사 사건이야. 여기선 판사가 왜 답을 안 하는지 고려할 수 있어.
 
 023. SAM: So his silence can actually count against him here?
     샘: 그러니까 여기선 그 사람 침묵이 실제로 불리하게 작용할 수 있다는 거야?
 
-024. BEN: It can. It doesn't have to. That's the judge's call. And Calloway was very unhappy. Pell's face looked like a man who'd swallowed a bee.
-    벤: 그럴 수 있어. 꼭 그런 건 아니고. 그건 판사 판단이야. 그리고 캘러웨이는 아주 불쾌해했어. 펠 얼굴이 벌 삼킨 사람 같더라.
+024. BEN: It can, but it doesn't have to, because that's the judge's call. Calloway was very unhappy about it. Pell looked like a man who'd swallowed a bee.
+    벤: 그럴 수 있어. 꼭 그래야 하는 건 아니고. 그건 판사가 판단할 일이야. 캘러웨이는 아주 불쾌해했어. 펠은 벌을 삼킨 사람 같은 얼굴이었고.
 
-025. GLORIA: I enjoyed that face. I'm not proud of it.
-    글로리아: 그 얼굴 즐거웠어. 자랑할 일은 아니지만.
+025. GLORIA: I enjoyed that face, and I'm not proud of it.
+    글로리아: 난 그 얼굴이 즐거웠어. 자랑할 일은 아니지만.
 
-026. BEN: Day five and six, technical experts. Boring. Important. And today. Kevin, then Wen in rebuttal, then closing arguments. Then the record closes.
-    벤: 다섯째, 여섯째 날은 기술 전문가. 지루하고. 중요하고. 그리고 오늘. 케빈, 그다음 웬이 반박 증언, 그다음 최종 변론. 그러면 기록이 닫혀.
+026. BEN: Days five and six were technical experts, boring but important. Today it's Kevin, then Wen in rebuttal, then closing arguments, and then the record closes.
+    벤: 다섯째, 여섯째 날은 기술 전문가들. 지루하지만 중요했어. 그리고 오늘. 케빈, 그다음 웬의 반박 증언, 그다음 최종 변론. 그러면 기록이 종결돼.
 
 027. SAM: And then what happens after the record closes, Ben?
     샘: 그럼 기록이 닫힌 다음엔 어떻게 돼, 벤?
 
-028. BEN: Then the judge writes. The initial determination comes in November. Then the full commission reviews it. Today is the last day we get to talk.
-    벤: 그다음엔 판사가 써. 예비판정은 11월에 나와. 그다음 위원회 전체가 그걸 검토하고. 오늘이 우리가 말할 수 있는 마지막 날이야.
+028. BEN: Then the judge writes. The initial determination comes in November, and after that the full commission reviews it. Today is the last day we get to talk.
+    벤: 그다음엔 판사가 써. 예비판정은 11월에 나오고, 그다음 위원회 전체가 검토해. 우리가 말할 수 있는 건 오늘이 마지막이야.
 
-029. WEN: Where's Kevin right now? Is he here yet?
+029. WEN: Where's Kevin right now, and is he here yet?
     웬: 케빈은 지금 어디 있어요? 벌써 왔어요?
 
-030. BEN: With Paul, in a witness room on the second floor. He threw up at seven-fifteen. Paul says that's normal for him now.
-    벤: 폴이랑 2층 증인 대기실에 있어. 일곱 시 15분에 토했대. 폴 말로는 요즘 걔한텐 그게 정상이래.
+030. BEN: He's with Paul in a witness room on the second floor. He threw up at seven-fifteen, and Paul says that's normal for him now.
+    벤: 폴이랑 2층 증인 대기실에 있어. 7시 15분에 토했대. 폴 말로는 이제 그게 평소래.
 
-031. GLORIA: Poor boy.
-    글로리아: 불쌍한 녀석.
+031. GLORIA: Oh, that poor boy.
+    글로리아: 아이고, 불쌍한 것.
 
-032. WEN: Don't say that yet, Gloria. Not until he's done.
-    웬: 아직 그런 말 하지 마세요, 글로리아. 다 끝날 때까진요.
+032. WEN: Don't say that yet, Gloria, not until he's done.
+    웬: 아직 그 말 하지 마세요, 글로리아. 끝날 때까진요.
 
-033. GLORIA: I'll say it after. Okay. Sam, are you okay?
-    글로리아: 나중에 할게. 자. 샘, 괜찮아?
+033. GLORIA: Fine, I'll say it after he's done. Sam, are you doing okay?
+    글로리아: 알았어, 끝나고 할게. 샘, 너는 괜찮아?
 
-034. SAM: I keep thinking about the first day. 2016. Wen and me in a warehouse with a used dynamometer we bought at an auction for eleven thousand dollars. And now we're here, in Washington, arguing about it in front of a federal judge.
-    샘: 계속 첫날 생각이 나요. 2016년. 웬이랑 나랑, 경매에서 1만 1천 달러에 산 중고 다이너모미터 하나 있는 창고에서. 그리고 지금은 여기 워싱턴에서 연방 판사 앞에서 그걸로 다투고 있고.
+034. SAM: I keep thinking about the first day in 2016. Wen and I were in a warehouse with a used dynamometer we'd bought at an auction for eleven thousand dollars. And now we're here in Washington, arguing about it in front of a federal judge.
+    샘: 자꾸 첫날이 생각나요. 2016년이요. 웬이랑 저랑 창고에서, 경매로 만 천 달러 주고 산 중고 동력계 하나 놓고 있었잖아요. 근데 지금은 워싱턴에서 연방 판사 앞에서 그걸 두고 다투고 있어요.
 
-035. WEN: Betsy would be proud of us. Or very confused.
-    웬: 베치가 우릴 자랑스러워할 거예요. 아니면 엄청 헷갈려하거나.
+035. WEN: Betsy would be proud of us, or very confused.
+    웬: 베치가 자랑스러워할 거예요. 아니면 엄청 헷갈려하거나.
 
-036. BEN: Both. Okay. Phones off. Let's go. And Sam?
-    벤: 둘 다. 자. 폰 끄고. 들어가자. 그리고 샘?
+036. BEN: Probably both of those. Okay, everybody turn your phones off and let's go in. And Sam, one more thing?
+    벤: 아마 둘 다겠지. 자, 다들 휴대폰 끄고 들어가자. 그리고 샘, 하나 더?
 
-037. SAM: I know. I'm furniture.
-    샘: 알아. 난 가구야.
+037. SAM: I know, I'm furniture.
+    샘: 알아요. 전 가구죠.
 
-038. BEN: Expensive furniture. In a nice suit. Erin picked the tie?
-    벤: 비싼 가구. 좋은 정장 입은. 넥타이 에린이 골랐어?
+038. BEN: You're expensive furniture in a very nice suit today. Did Erin pick out the tie for you?
+    벤: 오늘은 아주 좋은 양복 입은 비싼 가구네. 넥타이는 에린이 골라 줬어?
 
-039. SAM: Erin picked the tie. Lily picked the socks. They have rockets on them.
-    샘: 넥타이는 에린이 골랐어. 양말은 릴리가 골랐고. 로켓 그림 있어.
+039. SAM: Erin picked the tie and Lily picked the socks, which have rockets on them.
+    샘: 넥타이는 에린이, 양말은 릴리가 골랐어요. 로켓 그림 있어요.
 
 040. BEN: Whatever you do, don't show the judge your socks.
     벤: 무슨 일이 있어도 판사한테 양말은 보여 주지 마.
@@ -141,8 +141,8 @@
 042. BEN: Your Honor, Ferrox calls Kevin Doyle.
     벤: 재판장님, 페록스는 케빈 도일을 증인으로 신청합니다.
 
-043. JUDGE: Mr. Doyle, please take the stand. Raise your right hand. Do you swear or affirm that the testimony you're about to give is the truth?
-    판사: 도일 씨, 증인석에 앉으세요. 오른손을 드세요. 지금부터 하실 증언이 진실임을 선서 또는 확약합니까?
+043. JUDGE: Mr. Doyle, please take the stand and raise your right hand. Do you swear or affirm that the testimony you're about to give is the truth?
+    판사: 도일 씨, 증인석에 서서 오른손을 들어 주십시오. 지금부터 하실 증언이 진실임을 선서 또는 확약합니까?
 
 044. KEVIN: I do.
     케빈: 합니다.
@@ -165,8 +165,8 @@
 050. KEVIN: Yes. On November twenty-second, 2024, at about one in the morning, I copied the entire code repository to a personal USB drive. On December ninth, I copied the four-two calibration tables and test data to the same drive.
     케빈: 네. 2024년 11월 22일 새벽 한 시쯤, 코드 저장소 전체를 개인 USB 드라이브에 복사했습니다. 12월 9일엔 4.2 보정표랑 시험 데이터를 같은 드라이브에 복사했고요.
 
-051. BEN: Why?
-    벤: 왜요?
+051. BEN: Why did you do that?
+    벤: 왜 그랬습니까?
 
 052. KEVIN: Because Mr. Shaw asked me to. That's Exhibit forty-two. "Bring the full four-two calibration tables and the test data. Everything." And because I wanted the job, and the money, and I told myself it was just experience.
     케빈: 쇼 씨가 그러라고 해서요. 그게 증거 42번입니다. "4.2 보정표 전체랑 시험 데이터를 가져와요. 전부 다." 그리고 제가 그 일자리랑 돈을 원했고, 그냥 경험일 뿐이라고 스스로를 속였기 때문입니다.
@@ -180,11 +180,11 @@
 055. BEN: Are those numbers in Calloway's EverSpin motors today?
     벤: 그 숫자들이 오늘날 캘러웨이 에버스핀 모터에 들어 있습니까?
 
-056. PELL: Objection. Foundation. The witness hasn't examined current products.
-    펠: 이의 있습니다. 근거 부족. 증인은 현재 제품을 검사한 적이 없습니다.
+056. PELL: Objection on foundation, Your Honor, since the witness hasn't examined current products.
+    펠: 근거 부족으로 이의 있습니다, 재판장님. 증인은 현재 제품을 검사한 적이 없습니다.
 
-057. JUDGE: Sustained. Rephrase, Mr. Adler.
-    판사: 인정합니다. 질문을 바꾸세요, 애들러 변호사.
+057. JUDGE: That's sustained, so please rephrase the question, Mr. Adler.
+    판사: 이의 인정합니다. 질문을 바꿔 주십시오, 애들러 변호사.
 
 058. BEN: Mr. Doyle, while you worked at Calloway, did you see the Ferrox calibration tables used in EverSpin firmware?
     벤: 도일 씨, 캘러웨이에서 일하는 동안 에버스핀 펌웨어에 페록스 보정표가 쓰이는 걸 봤습니까?
@@ -192,11 +192,11 @@
 059. KEVIN: Yes. Every build I worked on, from February 2025 until I went on leave in March 2026.
     케빈: 네. 2025년 2월부터 2026년 3월 휴직할 때까지 제가 작업한 모든 빌드에서요.
 
-060. BEN: Thank you, Mr. Doyle. Nothing further for now, Your Honor.
-    벤: 감사합니다, 도일 씨. 지금은 더 질문 없습니다, 재판장님.
+060. BEN: Thank you, Mr. Doyle. I have nothing further for now, Your Honor.
+    벤: 감사합니다, 도일 씨. 재판장님, 지금은 더 질문 없습니다.
 
-061. JUDGE: Mr. Pell. Cross-examination.
-    판사: 펠 변호사. 반대신문하세요.
+061. JUDGE: Mr. Pell, you may begin your cross-examination.
+    판사: 펠 변호사, 반대신문 시작하십시오.
 
 062. PELL: Mr. Doyle. You lied to Mr. Kowalski in December 2024, didn't you? You told him you'd be working on factory automation.
     펠: 도일 씨. 2024년 12월에 코왈스키 씨한테 거짓말했죠? 공장 자동화 일을 할 거라고 했잖습니까.
@@ -211,13 +211,13 @@
     케빈: 맞습니다.
 
 066. PELL: So you're a man who lies when it's in his interest.
-    펠: 그러니까 자기한테 이로울 때 거짓말하는 사람이군요.
+    펠: 그러니까 증인은 자기한테 이로우면 거짓말하는 사람이군요.
 
-067. BEN: Objection. Argumentative.
-    벤: 이의 있습니다. 논쟁적 질문입니다.
+067. BEN: Objection, Your Honor, that's argumentative.
+    벤: 이의 있습니다, 재판장님. 논쟁적인 질문입니다.
 
-068. JUDGE: I'll allow it. The witness may answer.
-    판사: 허용합니다. 증인은 답하세요.
+068. JUDGE: I'll allow it, and the witness may answer.
+    판사: 허용하겠습니다. 증인은 답해도 됩니다.
 
 069. KEVIN: I was. In 2024. Yes.
     케빈: 그랬습니다. 2024년엔요. 네.
@@ -228,14 +228,14 @@
 071. KEVIN: Yes.
     케빈: 네.
 
-072. PELL: Thank you. No further...
+072. PELL: Thank you, and no further...
     펠: 감사합니다. 더 이상...
 
 073. KEVIN: And because it's true. Can I finish? Your Honor, can I finish my answer?
     케빈: 그리고 그게 사실이기 때문에요. 끝까지 말해도 될까요? 재판장님, 답을 끝까지 해도 됩니까?
 
 074. JUDGE: You may finish your answer, Mr. Doyle.
-    판사: 답을 마치세요, 도일 씨.
+    판사: 답변을 마저 하십시오, 도일 씨.
 
 075. KEVIN: The agreement says I have to tell the truth. My lawyer wrote that word. Not "help Ferrox." "Truth." If I lie today, I lose the agreement. So, yes, I'm saving myself. The only way I can save myself is by telling the truth.
     케빈: 합의서엔 제가 진실을 말해야 한다고 써 있습니다. 그 단어는 제 변호사가 썼습니다. "페록스를 도와라"가 아니라 "진실"이요. 오늘 거짓말하면 합의가 깨집니다. 그러니까 네, 저는 저를 구하고 있습니다. 저를 구하는 유일한 방법이 진실을 말하는 거고요.
@@ -246,29 +246,29 @@
 077. KEVIN: You don't have to believe me. Believe the emails. Believe the USB log. Believe the typo on line one fifty-one. They were honest before I was.
     케빈: 저를 믿으실 필요 없습니다. 이메일을 믿으세요. USB 기록을 믿으세요. 151번째 줄 오타를 믿으세요. 그것들은 저보다 먼저 정직했습니다.
 
-078. PELL: Nothing further.
+078. PELL: I have nothing further.
     펠: 더 질문 없습니다.
 
-079. JUDGE: Redirect, Mr. Adler?
+079. JUDGE: Do you have any redirect, Mr. Adler?
     판사: 재주신문 하시겠습니까, 애들러 변호사?
 
 080. BEN: Just one question, Your Honor. Mr. Doyle, did anyone at Ferrox tell you what to say today?
-    벤: 하나만 하겠습니다, 재판장님. 도일 씨, 페록스의 누군가가 오늘 무슨 말을 하라고 시킨 적 있습니까?
+    벤: 한 가지만 묻겠습니다, 재판장님. 도일 씨, 페록스에서 누가 오늘 뭐라고 말하라고 했습니까?
 
 081. KEVIN: No. Mr. Kowalski told me one thing in June. "Tell the truth. All of it. Even the parts that make you look bad." That's all he said.
     케빈: 아니요. 코왈스키 씨는 6월에 딱 한 가지만 말했습니다. "진실을 말해. 전부 다. 네가 나빠 보이는 부분까지." 그게 다였습니다.
 
-082. BEN: Nothing further.
-    벤: 더 없습니다.
+082. BEN: I have nothing further, Your Honor.
+    벤: 더 질문 없습니다, 재판장님.
 
-083. JUDGE: The witness may step down. Thank you, Mr. Doyle. Mr. Adler, rebuttal?
+083. JUDGE: The witness may step down, and thank you, Mr. Doyle. Mr. Adler, do you have rebuttal?
     판사: 증인은 내려가셔도 됩니다. 감사합니다, 도일 씨. 애들러 변호사, 반박 증언 있습니까?
 
 084. BEN: Ferrox calls Dr. Wen Liu, in rebuttal to Calloway's expert on the issue of planting.
     벤: 페록스는 '심기' 쟁점에 관한 캘러웨이 전문가 증언을 반박하기 위해 웬 리우 박사를 신청합니다.
 
-085. JUDGE: Dr. Liu, you remain under oath from last Monday. Go ahead.
-    판사: 리우 박사, 지난 월요일의 선서가 유지됩니다. 진행하세요.
+085. JUDGE: Dr. Liu, you remain under oath from last Monday, so please go ahead.
+    판사: 리우 박사, 지난 월요일 선서가 여전히 유효합니다. 진행하십시오.
 
 086. BEN: Dr. Liu, Calloway's expert says someone at Ferrox could have written STAN76 into the Calloway motors after you bought them. Is that possible?
     벤: 리우 박사, 캘러웨이 전문가는 페록스의 누군가가 모터를 산 뒤에 캘러웨이 모터에 STAN76을 써넣었을 수 있다고 합니다. 그게 가능합니까?
@@ -288,8 +288,8 @@
 091. WEN: Only if they already had our numbers, Your Honor. And if they already had our numbers, the canary has done its job.
     웬: 이미 우리 숫자를 갖고 있을 때만요, 재판장님. 그리고 이미 우리 숫자를 갖고 있었다면, 카나리아는 할 일을 다 한 거예요.
 
-092. GLORIA: Lord.
-    글로리아: 세상에.
+092. GLORIA: Lord have mercy, she got him.
+    글로리아: 세상에, 웬이 해냈네.
 
 093. BEN: Dr. Liu, there's one more thing in the firmware. Tell the court about line one fifty-one.
     벤: 리우 박사, 펌웨어에 하나 더 있습니다. 151번째 줄에 대해 법정에 말씀해 주세요.
@@ -309,158 +309,158 @@
 098. JUDGE: Overruled. The witness is testifying to her own experience as the author of the code. I'll give it the weight it deserves.
     판사: 기각합니다. 증인은 그 코드를 쓴 사람으로서 자기 경험을 증언하고 있습니다. 합당한 비중으로 고려하겠습니다.
 
-099. BEN: Thank you, Dr. Liu. Nothing further.
-    벤: 감사합니다, 리우 박사. 더 없습니다.
+099. BEN: Thank you, Dr. Liu, and I have nothing further for this witness.
+    벤: 감사합니다, 리우 박사. 이 증인에게 더 질문 없습니다.
 
 100. JUDGE: We'll take a thirty-minute recess before closing arguments.
     판사: 최종 변론 전에 30분 휴정하겠습니다.
 
-101. GLORIA: Sam. Look over there. By the window. Alone.
-    글로리아: 샘. 저기 봐. 창가에. 혼자 있어.
+101. GLORIA: Sam, look over there by the window, where Kevin's standing all alone.
+    글로리아: 샘, 저기 창가 봐. 케빈이 혼자 서 있어.
 
-102. SAM: Kevin.
-    샘: 케빈.
+102. SAM: It's Kevin, standing there by himself.
+    샘: 케빈이네요. 혼자 서 있어요.
 
-103. GLORIA: Go. I'll keep Ben busy. He talks to me during every recess anyway.
-    글로리아: 가. 벤은 내가 붙잡아 둘게. 어차피 휴정 때마다 나한테 말 걸어.
+103. GLORIA: Go talk to him, and I'll keep Ben busy. He talks to me during every recess anyway.
+    글로리아: 가서 얘기해. 벤은 내가 붙잡고 있을게. 어차피 휴정 때마다 나한테 말 걸어.
 
-104. PAUL: Mr. Kowalski. My client would like a minute. I'll stay right here. Nothing about the case, please.
-    폴: 코왈스키 씨. 제 의뢰인이 잠깐 얘기하고 싶어 합니다. 전 여기 바로 있겠습니다. 사건 얘기는 하지 마시고요.
+104. PAUL: Mr. Kowalski, my client would like a minute. I'll stay right here, and please, nothing about the case.
+    폴: 코왈스키 씨, 제 의뢰인이 잠깐 얘기하고 싶어 합니다. 전 바로 여기 있겠습니다. 사건 얘기는 하지 말아 주세요.
 
-105. SAM: Nothing about the case. Got it. Thank you, Paul.
-    샘: 사건 얘기는 안 해요. 알겠어요. 고마워요, 폴.
+105. SAM: Nothing about the case, I understand. Thank you for this, Paul.
+    샘: 사건 얘기는 안 할게요. 이렇게 해 줘서 고마워요, 폴.
 
 106. KEVIN: Sam.
     케빈: 샘.
 
-107. SAM: Kevin. You did okay in there. Better than okay.
-    샘: 케빈. 거기서 잘했어. 잘한 것 이상이야.
+107. SAM: Kevin, you did okay in there, better than okay.
+    샘: 케빈, 안에서 잘했어. 잘한 정도가 아니야.
 
-108. KEVIN: I threw up twice.
-    케빈: 두 번 토했어요.
+108. KEVIN: I threw up twice this morning.
+    케빈: 오늘 아침에 두 번 토했어요.
 
-109. SAM: Not in front of the judge, though. That counts for something.
-    샘: 그래도 판사 앞에선 안 했잖아. 그것도 쳐 줘야지.
+109. SAM: Not in front of the judge, though, and that counts for something.
+    샘: 판사 앞에선 안 했잖아. 그것도 어디야.
 
-110. KEVIN: Sam, I've been trying to figure out what to say to you for eighteen months. In my car. In the shower. At three in the morning. I had a whole speech. It's gone. So I'll just say it.
-    케빈: 샘, 18개월 동안 무슨 말을 해야 할지 생각했어요. 차 안에서. 샤워하면서. 새벽 세 시에. 연설문 하나를 통째로 갖고 있었는데. 다 날아갔어요. 그러니까 그냥 말할게요.
+110. KEVIN: Sam, I've been trying to figure out what to say to you for eighteen months, in my car, in the shower, at three in the morning. I had a whole speech, and now it's gone, so I'll just say it.
+    케빈: 샘, 18개월 동안 무슨 말을 해야 할지 고민했어요. 차에서, 샤워하면서, 새벽 세 시에. 연설문을 통째로 준비했는데 다 날아갔어요. 그러니까 그냥 말할게요.
 
-111. SAM: Okay.
-    샘: 그래.
+111. SAM: Okay, go ahead and say it.
+    샘: 그래, 말해 봐.
 
-112. KEVIN: I'm sorry. For the files. For the lie in your office. For looking at your keyboard. For Wen's father getting phone calls, even though I didn't know about that. For all of it. I'm sorry.
-    케빈: 죄송해요. 파일. 사무실에서 한 거짓말. 키보드만 쳐다본 거. 웬 아버님이 전화 받으신 거, 그건 몰랐지만요. 전부 다요. 죄송해요.
+112. KEVIN: I'm sorry for the files, for the lie in your office, and for looking at your keyboard. I'm sorry that Wen's father got phone calls, even though I didn't know about that. I'm sorry for all of it.
+    케빈: 파일 가져간 거, 사무실에서 거짓말한 거, 키보드만 쳐다본 거 죄송해요. 웬 아버지께 전화 간 것도요. 그건 몰랐지만요. 전부 다 죄송해요.
 
 113. SAM: Kevin.
     샘: 케빈.
 
-114. KEVIN: You don't have to say anything. I know you can't forgive me today. Maybe not ever. I just needed you to hear it from me, standing up, looking at you. Not a keyboard.
-    케빈: 아무 말씀 안 하셔도 돼요. 오늘 저를 용서 못 하시는 거 알아요. 어쩌면 영영. 그냥 제 입으로, 서서, 샘을 보면서 하는 걸 들으셨으면 했어요. 키보드 말고요.
+114. KEVIN: You don't have to say anything. I know you can't forgive me today, maybe not ever. I just needed you to hear it from me while I'm standing up and looking at you, not at a keyboard.
+    케빈: 아무 말 안 하셔도 돼요. 오늘 용서 못 하시는 거 알아요. 어쩌면 영영요. 그냥 제가 서서, 키보드 말고 샘을 보면서 직접 하는 말을 들으셨으면 했어요.
 
-115. SAM: My father told me something last summer. "Make them look you in the eye." You're the first one who did.
-    샘: 작년 여름에 아버지가 그러셨어. "그놈들이 네 눈을 보게 만들어." 그렇게 한 건 네가 처음이야.
+115. SAM: My father told me something last summer: "Make them look you in the eye." You're the first one who did.
+    샘: 아버지가 작년 여름에 그러셨어. "상대가 네 눈을 보게 만들어라." 그렇게 한 건 네가 처음이야.
 
-116. KEVIN: Martin never will. Victoria almost did, on Wednesday.
+116. KEVIN: Martin never will, and Victoria almost did, on Wednesday.
     케빈: 마틴은 절대 안 할 거예요. 빅토리아는 수요일에 거의 할 뻔했고요.
 
-117. SAM: Almost doesn't count, Kevin. You counted. Today, you counted.
-    샘: 거의는 안 쳐 줘, 케빈. 넌 쳐 줄게. 오늘은 쳐 줄게.
+117. SAM: Almost doesn't count, Kevin. You did count, though, and today you were the one who looked me in the eye.
+    샘: 거의는 안 쳐줘, 케빈. 근데 넌 쳐줘. 오늘 내 눈을 본 사람은 너였어.
 
 118. KEVIN: Sam...
     케빈: 샘...
 
-119. SAM: I'm not forgiving you today, Kevin. I'm not there yet. But I'm not your enemy anymore. Go home. Take Emma and Noah to the lake or something. Sleep.
-    샘: 오늘 널 용서하는 건 아니야, 케빈. 아직 거기까진 못 갔어. 근데 이제 네 적은 아니야. 집에 가. 엠마랑 노아 데리고 호수든 어디든 가. 그리고 자.
+119. SAM: I'm not forgiving you today, Kevin, because I'm not there yet. But I'm not your enemy anymore. Go home, take Emma and Noah to the lake or something, and sleep.
+    샘: 오늘 용서하진 않을 거야, 케빈. 아직 거기까지 못 갔어. 근데 이제 네 적은 아니야. 집에 가. 에마랑 노아 데리고 호수라도 가. 그리고 자.
 
-120. KEVIN: Thank you.
-    케빈: 감사합니다.
+120. KEVIN: Thank you, Sam, for saying that.
+    케빈: 그 말 해 주셔서 고마워요, 샘.
 
-121. WEN: Kevin.
-    웬: 케빈.
+121. WEN: Kevin, wait a moment.
+    웬: 케빈, 잠깐만요.
 
-122. KEVIN: Wen. Your testimony. The part about the mistake. "Nobody plants a mistake." That was...
-    케빈: 웬. 증언. 실수 부분이요. "실수를 심는 사람은 없다." 그거...
+122. KEVIN: Wen, your testimony, the part about the mistake, "Nobody plants a mistake." That was...
+    케빈: 웬, 증언이요. 실수에 관한 부분. "실수를 심는 사람은 없다." 그건...
 
-123. WEN: That was true. Tell Noah the rabbit's name is Professor Grizzly. He never asked me. I named it before he was born.
-    웬: 그건 사실이었어요. 노아한테 토끼 이름이 그리즐리 교수라고 전해요. 걔가 한 번도 안 물어봤거든요. 걔 태어나기 전에 지은 이름이에요.
+123. WEN: That was true. Tell Noah the rabbit's name is Professor Grizzly. He never asked me, but I named it before he was born.
+    웬: 그건 사실이었어요. 노아한테 토끼 이름이 그리즐리 교수라고 전해 줘요. 한 번도 안 물어봤지만, 노아 태어나기 전에 지어 둔 이름이에요.
 
-124. KEVIN: Professor Grizzly. He's going to love that. Thank you, Wen.
-    케빈: 그리즐리 교수. 엄청 좋아할 거예요. 고마워요, 웬.
+124. KEVIN: Professor Grizzly is going to be his favorite name in the world. Thank you, Wen.
+    케빈: 그리즐리 교수라니, 세상에서 제일 좋아하는 이름이 될 거예요. 고마워요, 웬.
 
-125. PAUL: Kevin. It's time.
-    폴: 케빈. 시간 됐어요.
+125. PAUL: Kevin, it's time to go.
+    폴: 케빈, 갈 시간이야.
 
-126. KEVIN: Sam. Thank you for not ruining me. I mean that.
-    케빈: 샘. 절 망치지 않아 주셔서 감사해요. 진심이에요.
+126. KEVIN: Sam, thank you for not ruining me, and I mean that.
+    케빈: 샘, 절 망가뜨리지 않아 주셔서 고마워요. 진심이에요.
 
-127. SAM: You did most of that yourself, Kevin. Now you're fixing it yourself. That's the part that matters.
-    샘: 그건 대부분 네가 스스로 한 거야, 케빈. 이제는 스스로 바로잡고 있고. 중요한 건 그 부분이야.
+127. SAM: You did most of that yourself, Kevin, and now you're fixing it yourself. That's the part that matters.
+    샘: 망가뜨린 건 대부분 네가 한 거야, 케빈. 그리고 이제 네가 직접 고치고 있어. 그게 중요한 부분이야.
 
-128. GLORIA: Sam. Did he just bow his head to you? Like in church?
-    글로리아: 샘. 쟤 방금 너한테 고개 숙인 거야? 교회에서처럼?
+128. GLORIA: Sam, did he just bow his head to you, like in church?
+    글로리아: 샘, 쟤 방금 너한테 고개 숙인 거야? 교회에서처럼?
 
-129. SAM: He did. I didn't know what to do with my hands.
-    샘: 그랬어요. 손을 어떻게 해야 할지 모르겠더라고요.
+129. SAM: He did, and I didn't know what to do with my hands.
+    샘: 네. 손을 어디 둬야 할지 모르겠더라고요.
 
-130. GLORIA: Poor boy. Now I'm allowed to say it. Wen, am I allowed?
-    글로리아: 불쌍한 녀석. 이제 말해도 되지. 웬, 해도 돼?
+130. GLORIA: Poor boy, and now I'm finally allowed to say it, right, Wen?
+    글로리아: 불쌍한 것. 이제야 말해도 되는 거지, 웬?
 
 131. WEN: Now you can say it.
-    웬: 이제 해도 돼요.
+    웬: 이제 하셔도 돼요.
 
-132. BEN: Okay. Closing arguments are done. The judge said, "The record is closed." That sentence is the most beautiful sentence in law. Sam, it's out of our hands.
-    벤: 자. 최종 변론 끝났어. 판사가 "기록을 종결합니다"라고 했어. 법에서 제일 아름다운 문장이야. 샘, 이제 우리 손을 떠났어.
+132. BEN: Okay, closing arguments are done, and the judge said, "The record is closed." That's the most beautiful sentence in law. Sam, it's out of our hands.
+    벤: 자, 최종 변론 끝났다. 판사가 "기록을 종결합니다"라고 했어. 법에서 제일 아름다운 문장이야. 샘, 이제 우리 손을 떠났어.
 
-133. SAM: Out of our hands. I really hate that sentence, Ben.
-    샘: 우리 손을 떠났다. 난 그 문장이 정말 싫어, 벤.
+133. SAM: Out of our hands. I really hate that sentence, Ben, more than any sentence in English.
+    샘: 우리 손을 떠났다. 그 문장 정말 싫어요, 벤. 영어에서 제일 싫은 문장이에요.
 
-134. BEN: Everybody hates it. That's why I say it with a cocktail. November, Sam. The initial determination. Until then, go build motors.
-    벤: 다들 싫어해. 그래서 난 칵테일 들고 말하지. 11월이야, 샘. 예비판정. 그때까진 가서 모터나 만들어.
+134. BEN: Everybody hates it, which is why I say it with a cocktail. It's November now, Sam, for the initial determination. Until then, go build motors.
+    벤: 다들 싫어해. 그래서 난 칵테일이랑 같이 말하지. 이제 11월이야, 샘. 예비판정. 그때까진 가서 모터나 만들어.
 
-135. GLORIA: And go to Marblehead. Saturday. With your wife and your daughter. Give me your phone now. I brought the coffee can.
-    글로리아: 그리고 마블헤드 가. 토요일에. 아내랑 딸이랑. 지금 폰 줘. 커피 깡통 가져왔어.
+135. GLORIA: And go to Marblehead on Saturday with your wife and your daughter. Give me your phone now, because I brought the coffee can.
+    글로리아: 그리고 토요일엔 아내랑 딸이랑 마블헤드 가. 휴대폰 지금 내놔. 커피 깡통 가져왔어.
 
-136. SAM: You brought the actual coffee can? To Washington?
-    샘: 진짜 커피 깡통을 가져왔어요? 워싱턴까지?
+136. SAM: You brought the actual coffee can to Washington?
+    샘: 진짜 그 커피 깡통을 워싱턴까지 가져왔어요?
 
-137. GLORIA: I said I would keep your phone in the coffee can. I don't make promises in pencil.
-    글로리아: 네 폰은 커피 깡통에 보관하겠다고 했잖아. 난 연필로 약속 안 해.
+137. GLORIA: I said I would keep your phone in the coffee can, and I don't make promises in pencil.
+    글로리아: 네 폰을 커피 깡통에 보관한다고 했잖아. 난 연필로 약속 안 해.
 
-138. SAM: Saturday, Gloria. It's Monday. I need my phone until Friday.
-    샘: 토요일이에요, 글로리아. 오늘은 월요일이고요. 금요일까진 폰이 필요해요.
+138. SAM: The trip is on Saturday, Gloria, and today is only Monday. I still need my phone until Friday.
+    샘: 여행은 토요일이에요, 글로리아. 오늘은 월요일이고요. 금요일까진 폰이 필요해요.
 
-139. GLORIA: Then call your wife first. Before anybody else. That's the rule tonight.
-    글로리아: 그럼 아내한테 먼저 전화해. 다른 누구보다 먼저. 그게 오늘 밤 규칙이야.
+139. GLORIA: Then call your wife first, before you talk to anybody else. That's the rule for tonight.
+    글로리아: 그럼 다른 누구랑 얘기하기 전에 아내한테 먼저 전화해. 그게 오늘 밤 규칙이야.
 
-140. ERIN: Hi. You called early. Is it over? Really over?
-    에린: 안녕. 일찍 전화했네. 끝났어? 진짜 끝났어?
+140. ERIN: Hi, you called early, so is it over? Is it really over this time?
+    에린: 어, 일찍 전화했네. 끝났어? 이번엔 진짜 끝났어?
 
-141. SAM: It's over. The record is closed. Kevin testified. Wen was perfect. The judge decides in November.
-    샘: 끝났어. 기록 종결. 케빈이 증언했고. 웬은 완벽했어. 판사가 11월에 결정해.
+141. SAM: It's over and the record is closed. Kevin testified, Wen was perfect, and the judge decides in November.
+    샘: 끝났어. 기록 종결됐어. 케빈이 증언했고, 웬은 완벽했어. 판사가 11월에 결정해.
 
-142. ERIN: How do you feel, honey? Tell me the truth.
-    에린: 기분은 어때, 여보? 솔직히 말해 줘.
+142. ERIN: How do you feel about it, honey? Tell me the truth, not the version for Ben.
+    에린: 기분은 어때, 여보? 솔직하게 말해. 벤한테 하는 버전 말고.
 
-143. SAM: Empty. Good empty. Like after a long shift. Erin, I called you first. Before Ben's cocktail, before anybody.
-    샘: 텅 빈 느낌. 좋은 쪽으로. 긴 근무 끝난 것처럼. 에린, 당신한테 제일 먼저 전화했어. 벤 칵테일보다 먼저, 누구보다 먼저.
+143. SAM: I feel empty, but a good empty, like after a long shift. Erin, I called you first, before Ben's cocktail, before anybody.
+    샘: 텅 빈 느낌이야. 좋은 쪽으로. 긴 근무 끝난 것처럼. 에린, 당신한테 제일 먼저 전화했어. 벤 칵테일보다도, 누구보다도 먼저.
 
-144. ERIN: I noticed. Saturday. The lighthouse. Lily already packed. She packed on Thursday.
-    에린: 알아챘어. 토요일. 등대. 릴리는 벌써 짐 쌌어. 목요일에 쌌대.
+144. ERIN: I noticed that. We're going to the lighthouse on Saturday, and Lily already packed her bag on Thursday.
+    에린: 알아챘어. 토요일엔 등대 가는 거야. 릴리는 목요일에 벌써 짐 다 쌌어.
 
-145. SAM: Of course she did. I'll be home Wednesday night. I love you.
-    샘: 당연히 그랬겠지. 수요일 밤에 갈게. 사랑해.
+145. SAM: Of course she did. I'll be home Wednesday night, and I love you.
+    샘: 당연히 그랬겠지. 수요일 밤에 집에 갈게. 사랑해.
 
-146. ERIN: I love you too. Now go to sleep. Doctor's orders.
-    에린: 나도 사랑해. 이제 가서 자. 간호사 지시야.
+146. ERIN: I love you too. Now go to sleep, and that's doctor's orders.
+    에린: 나도 사랑해. 이제 자. 의사 지시야.
 
-147. GLORIA: Sam. Before you sleep. Tyler forwarded an email to all of us. It came in during closing arguments. You'll want to read it.
-    글로리아: 샘. 자기 전에. 타일러가 우리 전부한테 메일 하나를 전달했어. 최종 변론 중에 들어왔대. 읽어 보고 싶을 거야.
+147. GLORIA: Sam, before you sleep, Tyler forwarded an email to all of us. It came in during closing arguments, and you'll want to read it.
+    글로리아: 샘, 자기 전에. 타일러가 우리 모두한테 이메일을 전달했어. 최종 변론 중에 들어왔대. 읽어 보고 싶을 거야.
 
 148. SAM: "Mr. Kowalski. My name is Raj Mehta. I run data center infrastructure at Helix Cloud. Our cooling fans and pumps use more electricity than some towns. Every watt has a price."
     샘: "코왈스키 씨. 라지 메타라고 합니다. 헬릭스 클라우드의 데이터센터 인프라를 맡고 있습니다. 저희 냉각 팬과 펌프는 웬만한 마을보다 전기를 많이 씁니다. 1와트마다 값이 있지요."
 
-149. GLORIA: Keep reading.
-    글로리아: 계속 읽어.
+149. GLORIA: Keep reading, because there's more.
+    글로리아: 계속 읽어. 더 있어.
 
 150. SAM: "I read about your heat pump motors in Columbus. I need motors that don't depend on anybody's truce. Our data centers need you. Can we meet in Ohio next week?" Gloria, tell him Monday. After the lighthouse.
     샘: "콜럼버스 히트펌프 모터 얘기 읽었습니다. 누구의 휴전에도 기대지 않는 모터가 필요합니다. 저희 데이터센터에 당신이 필요합니다. 다음 주 오하이오에서 뵐 수 있을까요?" 글로리아, 월요일이라고 전해 줘요. 등대 다녀온 다음에.

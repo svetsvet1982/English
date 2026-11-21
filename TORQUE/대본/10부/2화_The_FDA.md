@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. EARL: Morning, everybody. Somebody fixed the coffee machine, and I want to know who, so I can thank them and then fire them for touching it.
+001. EARL: Morning, everybody. Somebody fixed the coffee machine, and I want to know who. I can thank them and then fire them for touching it.
     얼: 좋은 아침. 누가 커피 머신 고쳤던데, 누군지 알고 싶다. 고맙다고 하고 나서 그거 건드린 죄로 잘라 버리게.
 
 002. PATTY: It was me, and all I did was hit it on the left side twice.
@@ -24,13 +24,13 @@
 003. EARL: That's not fixing it, Patty, that's assault.
     얼: 그건 고친 게 아니라 폭행이지, 패티.
 
-004. SAM: Okay, everybody, gather around Betsy, because I want to know what spins today.
+004. SAM: Okay, everybody, gather around Betsy. I want to know what spins today.
     샘: 자, 다들 베치 앞으로 모여. 오늘 뭐 돌리는지 들어 보자.
 
 005. EARL: Drill motors for Ironjaw, second shift's run, all passed overnight. And Wen's little elbow motor gets its first rotor this afternoon.
     얼: 아이언조 드릴 모터, 2교대분 밤새 전부 통과. 그리고 웬의 작은 팔꿈치 모터가 오늘 오후에 첫 로터를 받는다.
 
-006. WEN: The die came from the toolmaker last night, and it's beautiful, with nine slots, so I touched it like a baby.
+006. WEN: The die came from the toolmaker last night. It's beautiful, with nine slots. I touched it like a baby.
     웬: 금형이 어젯밤에 공구 업체에서 왔는데, 아름다워요. 슬롯이 아홉 개라서 아기 만지듯 만졌어요.
 
 007. TYLER: She really did, and I saw it, and honestly it was weird.
@@ -45,10 +45,10 @@
 010. SAM: Them, and also medical devices, which, as of last week, we might be part of.
     샘: 그 사람들이고, 의료기기도 맡아. 지난주부터 우리가 거기 끼게 될지도 모르고.
 
-011. BEV: You might be, or you might run screaming by lunch. Good morning, I'm Bev Stokes, and yes, I'm early, because I'm always early, which is a professional disease.
+011. BEV: You might be, or you might run screaming by lunch. Good morning, I'm Bev Stokes, and yes, I'm early. I'm always early, which is a professional disease.
     베브: 낄 수도 있죠. 아니면 점심 전에 소리 지르며 도망가실 수도 있고요. 좋은 아침이에요, 베브 스토크스예요. 네, 일찍 왔어요. 전 늘 일찍 와요, 직업병이죠.
 
-012. EARL: You want coffee? It works today, because Patty beat it up.
+012. EARL: You want coffee? It works today, since Patty beat it up.
     얼: 커피 줄까? 오늘은 돼. 패티가 패 놨거든.
 
 013. BEV: I'll take it black, thanks, and is that the famous Betsy that Dr. Karim talked about like she was a person?
@@ -57,7 +57,7 @@
 014. EARL: She is a person, she just doesn't talk much.
     얼: 사람 맞아. 말을 별로 안 할 뿐이지.
 
-015. BEV: Well, in about two months she's going to need paperwork like a person, so let's go to your conference room, because I brought markers.
+015. BEV: Well, in about two months she's going to need paperwork like a person. Let's go to your conference room. I brought markers.
     베브: 음, 한 두 달 뒤면 쟤도 사람처럼 서류가 필요할 거예요. 회의실로 가죠, 마커 가져왔거든요.
 
 016. BEV: Okay, let's start with the big picture, which is that Dr. Karim's robot, Heron, is a medical device, and before you can sell a medical device in this country, the FDA has to say yes.
@@ -72,16 +72,16 @@
 019. GLORIA: So what's the difference, in plain English, please, because I'm a numbers person?
     글로리아: 그래서 차이가 뭔데? 쉬운 말로 부탁해. 난 숫자 쪽 사람이라.
 
-020. BEV: In plain English? Approval is for brand-new, high-risk things like a heart valve, where you prove from scratch that it's safe, while clearance means "this is as safe as something already on the market."
+020. BEV: In plain English? Approval is for brand-new, high-risk things like a heart valve, where you prove from scratch that it's safe. Clearance means "this is as safe as something already on the market."
     베브: 쉬운 말로요? 승인은 심장 판막처럼 완전히 새롭고 위험한 것용이라 처음부터 안전하다는 걸 증명해야 해요. 허가는 '이미 시장에 있는 것만큼 안전하다'는 뜻이고요.
 
 021. GLORIA: So it's like a mortgage appraisal, where you compare the house to the one down the street.
     글로리아: 그러니까 주택 담보 감정 같은 거네. 같은 동네 집이랑 비교하는 거.
 
-022. BEV: That's actually perfect, because the house down the street is called a "predicate," and the paperwork is called a 510(k), and please don't ask why, because it's just a section number.
+022. BEV: That's actually perfect. The house down the street is called a "predicate," and the paperwork is called a 510(k), and please don't ask why. It's just a section number.
     베브: 그거 딱이네요. 같은 동네 집을 '선행 기기'라고 하고, 서류는 510(k)라고 해요. 이름이 왜 그런지는 묻지 마세요. 그냥 조항 번호예요.
 
-023. SAM: Heron already got a 510(k) two years ago, so why does she need anything new?
+023. SAM: Heron already got a 510(k) two years ago. Why does she need anything new?
     샘: 헤런은 2년 전에 벌써 510(k)를 받았잖아요. 왜 새로 뭐가 필요해요?
 
 024. BEV: Because she's changing the motors in the arms, and when you change something that could affect safety, you have to ask whether you need to tell the FDA, and for a surgical robot's joints, the answer is yes.
@@ -96,25 +96,25 @@
 027. EARL: And if it's not perfect?
     얼: 완벽하지 않으면?
 
-028. BEV: Then they send questions, the clock stops, and Dr. Karim's investors start calling her at night, so it'll be perfect.
+028. BEV: Then they send questions, the clock stops, and Dr. Karim's investors start calling her at night. It'll be perfect.
     베브: 그럼 질문이 오고 시계가 멈추고, 카림 박사 투자자들이 밤에 전화하기 시작하죠. 그러니까 완벽할 거예요.
 
-029. TYLER: Copy that, it has to be perfect, so no pressure at all.
+029. TYLER: Copy that, it has to be perfect. No pressure at all.
     타일러: 접수. 완벽해야 한다니, 부담 하나도 없네요.
 
-030. BEV: Now here's the part you actually care about, which is that the FDA does not regulate you, because you make a component, and component makers are mostly outside the rules.
+030. BEV: Now here's the part you actually care about, which is that the FDA does not regulate you. You make a component, and component makers are mostly outside the rules.
     베브: 이제 여러분이 진짜 신경 쓸 부분이에요. FDA는 여러분을 규제하지 않아요. 여러분은 부품을 만들고, 부품 제조사는 대체로 규정 밖에 있거든요.
 
 031. GLORIA: Oh, thank God for that.
     글로리아: 아, 그건 다행이다.
 
-032. BEV: Don't thank Him yet, because the FDA regulates Dr. Karim, and the rules say she has to control her suppliers, so in practice you live inside her quality system.
+032. BEV: Don't thank Him yet. The FDA regulates Dr. Karim, and the rules say she has to control her suppliers. In practice you live inside her quality system.
     베브: 아직 감사하지 마세요. FDA는 카림 박사를 규제하고, 규정상 그녀가 공급사를 관리해야 해요. 그러니까 실제로는 여러분이 그녀의 품질 시스템 안에서 사는 거예요.
 
 033. SAM: She said that in Cleveland, that our factory becomes part of her device.
     샘: 클리블랜드에서 그 말 했어요. 우리 공장이 자기 기기의 일부가 된다고요.
 
-034. BEV: She's quoting me, because I say it to every supplier and then watch their faces, and yours are doing the usual thing.
+034. BEV: She's quoting me. I say it to every supplier and then watch their faces, and yours are doing the usual thing.
     베브: 제 말을 인용한 거예요. 모든 공급사한테 그렇게 말하고 얼굴을 보거든요. 여러분 얼굴도 늘 보던 그 표정이네요.
 
 035. DARNELL: What's a quality system, though? We already do quality, since Betsy tests every motor.
@@ -132,7 +132,7 @@
 039. PATTY: I'm Patty, and I keep a notebook of everything I do, every day, since my first day here.
     패티: 패티예요. 여기 첫날부터 제가 하는 거 전부 매일 공책에 적어요.
 
-040. BEV: Patty, I think I love you, and everyone else in this room is going to learn to think like Patty.
+040. BEV: Patty, I think I love you. Everyone else in this room is going to learn to think like Patty.
     베브: 패티, 사랑에 빠질 것 같아요. 이 방에 있는 다른 사람들은 전부 패티처럼 생각하는 법을 배우게 될 거예요.
 
 041. EARL: Then God help us all.
@@ -144,7 +144,7 @@
 043. WEN: Certified by whom, the FDA itself or somebody else?
     웬: 누가 인증해요? FDA가 직접요, 아니면 다른 누가요?
 
-044. BEV: By an outside auditor, who comes in, reads everything, and watches your people work, and they're very polite, and they miss nothing.
+044. BEV: By an outside auditor, who comes in, reads everything, and watches your people work. They're very polite, and they miss nothing.
     베브: 외부 심사원이요. 와서 전부 읽고 직원들 일하는 걸 지켜봐요. 아주 예의 바르고, 아무것도 놓치지 않아요.
 
 045. TYLER: Sounds like Gloria at a restaurant when the bill comes.
@@ -153,13 +153,13 @@
 046. GLORIA: I heard that, baby, every word.
     글로리아: 다 들었어, 얘. 한 마디도 안 빼고.
 
-047. BEV: Okay, let me write the five big words on the board, because if you remember these, you'll survive: document control, traceability, change control, training, and CAPA.
+047. BEV: Okay, let me write the five big words on the board. If you remember these, you'll survive: document control, traceability, change control, training, and CAPA.
     베브: 자, 큰 단어 다섯 개를 칠판에 쓸게요. 이것만 기억하면 살아남아요. 문서 관리, 추적성, 변경 관리, 교육, 그리고 CAPA.
 
 048. EARL: Cap-what, did you say?
     얼: 캡 뭐라고?
 
-049. BEV: Corrective and preventive action, which means that when something goes wrong, you fix it, you find out why, and you make sure it never happens again, and you write all three down.
+049. BEV: Corrective and preventive action. It means that when something goes wrong, you fix it and you find out why. Then you make sure it never happens again, and you write all three down.
     베브: 시정 및 예방 조치요. 뭔가 잘못되면 고치고, 왜 그랬는지 찾고, 다시는 안 일어나게 만들어요. 그리고 그 세 가지를 다 적어요.
 
 050. EARL: We already do that, like on Christmas Eve with the fake bearings, when we found the cause and fixed it.
@@ -174,10 +174,10 @@
 053. BEV: The FDA doesn't read minds, Earl, and it definitely doesn't read pizza boxes. It reads records.
     베브: FDA는 마음을 안 읽어요, 얼. 피자 상자는 절대 안 읽고요. 기록을 읽어요.
 
-054. SAM: Let's start with document control, so what does that mean for us, on the floor, on a regular Tuesday?
+054. SAM: Let's start with document control. What does that mean for us, on the floor, on a regular Tuesday?
     샘: 문서 관리부터 하죠. 그게 우리한테, 공장 바닥에서, 평범한 화요일에 무슨 뜻이에요?
 
-055. BEV: It means every work instruction has a version number, and when you change it, the old one gets pulled off the wall the same day, so nobody builds from a photocopy they found in a drawer.
+055. BEV: It means every work instruction has a version number, and when you change it, the old one gets pulled off the wall the same day. Nobody builds from a photocopy they found in a drawer.
     베브: 작업 지침서마다 버전 번호가 있다는 뜻이에요. 바꾸면 옛날 건 그날 바로 벽에서 떼서, 서랍에서 찾은 복사본 보고 만드는 사람이 없게 하는 거죠.
 
 056. DARNELL: Earl, there's a drawer full of those in the winding room.
@@ -186,7 +186,7 @@
 057. EARL: Those are historical documents, Darnell.
     얼: 그건 역사적 문서야, 대넬.
 
-058. BEV: Then they go to a museum, not near the line. Now traceability, so Wen, if a motor in Heron fails in a hospital in five years, what can you tell me about it?
+058. BEV: Then they go to a museum, not near the line. Now traceability. Wen, if a motor in Heron fails in a hospital in five years, what can you tell me about it?
     베브: 그럼 라인 근처 말고 박물관에 가야죠. 다음은 추적성이에요. 웬, 5년 뒤에 병원에서 헤런 안의 모터 하나가 고장 나면 그 모터에 대해 뭘 말해 줄 수 있어요?
 
 059. WEN: I can give you the serial number, the firmware version, and Betsy's test data, plus the lot of the laminations, thanks to a spreadsheet my boss's daughter made two summers ago.
@@ -198,55 +198,55 @@
 061. WEN: Some of that, but not all of it, and the glue probably not.
     웬: 일부는요. 전부는 아니고, 접착제는 아마 안 될 거예요.
 
-062. BEV: That's an honest answer, because most suppliers say "all of it," and then I find the pizza box.
+062. BEV: That's an honest answer. Most suppliers say "all of it," and then I find the pizza box.
     베브: 정직한 대답이네요. 공급사 대부분은 '전부요'라고 하고, 그다음에 제가 피자 상자를 찾아내거든요.
 
 063. TYLER: Why does it matter who wound it, if the motor passed the test?
     타일러: 모터가 시험 통과했으면 누가 감았는지가 왜 중요해요?
 
-064. BEV: Because tests can miss things, and if one bad batch of glue gets out, Dr. Karim has to find every robot with that glue, in every hospital, in one afternoon. That's called a recall, and you do not want to be the reason for one.
+064. BEV: Because tests can miss things, and if one bad batch of glue gets out, Dr. Karim has to find every robot with that glue, in every hospital, in one afternoon. That's called a recall. You do not want to be the reason for one.
     베브: 시험이 놓칠 수도 있으니까요. 불량 접착제 한 배치가 나가면 카림 박사는 그 접착제가 든 로봇을 모든 병원에서 오후 한나절 안에 찾아내야 해요. 그걸 리콜이라고 하는데, 그 원인이 되고 싶진 않으실 거예요.
 
 065. SAM: Okay, and what about change control?
     샘: 알겠어요. 그럼 변경 관리는요?
 
-066. BEV: This is the one that hurts small companies, because right now, if Wen finds a better glue on Tuesday, you use it on Wednesday, correct?
+066. BEV: This is the one that hurts small companies. Right now, if Wen finds a better glue on Tuesday, you use it on Wednesday, correct?
     베브: 이게 작은 회사들을 아프게 하는 거예요. 지금은 웬이 화요일에 더 좋은 접착제를 찾으면 수요일에 쓰죠, 맞죠?
 
 067. WEN: Tuesday afternoon, if it's really good.
     웬: 정말 좋으면 화요일 오후에요.
 
-068. BEV: Not anymore, not for these motors, because any change, whether it's a screw, a supplier, or one line of firmware, goes to Dr. Karim first, in writing, months ahead, and she decides if it needs testing or if she has to tell the FDA.
+068. BEV: Not anymore, not for these motors. Any change, whether it's a screw, a supplier, or one line of firmware, goes to Dr. Karim first, in writing, months ahead. She decides if it needs testing or if she has to tell the FDA.
     베브: 이제 안 돼요, 이 모터들은요. 나사 하나, 공급사 하나, 펌웨어 한 줄이라도 몇 달 전에 서면으로 카림 박사한테 먼저 가요. 시험이 필요한지, FDA에 알려야 하는지는 그녀가 정해요.
 
 069. WEN: Even one line of firmware?
     웬: 펌웨어 한 줄까지요?
 
-070. BEV: Your firmware runs inside a surgical robot, so to the FDA it's medical software, and every version you ship has to be validated, frozen, and documented.
+070. BEV: Your firmware runs inside a surgical robot. To the FDA it's medical software, and every version you ship has to be validated, frozen, and documented.
     베브: 그쪽 펌웨어가 수술 로봇 안에서 도니까 FDA 입장에선 의료용 소프트웨어예요. 출하하는 버전마다 검증하고, 동결하고, 문서화해야 해요.
 
-071. WEN: For the Army we made a separate branch called Governor-D, so we could make one for medicine called Governor-M, frozen, so that nobody touches it without a signature.
+071. WEN: For the Army we made a separate branch called Governor-D. We could make one for medicine called Governor-M. It would be frozen, and nobody touches it without a signature.
     웬: 육군용으로는 거버너-D라는 별도 브랜치를 만들었으니까, 의료용으로 거버너-M을 만들 수 있어요. 동결해서 서명 없이는 아무도 못 건드리게요.
 
 072. BEV: Now you're talking my language.
     베브: 이제 제 언어로 말씀하시네요.
 
-073. EARL: Let me ask you something straight, Bev, because we did PPAP for Detroit two summers ago, with nineteen binders and a lady named Teresa who crawled over every inch of this place, so isn't that the same thing?
+073. EARL: Let me ask you something straight, Bev. We did PPAP for Detroit two summers ago, with nineteen binders and a lady named Teresa who crawled over every inch of this place. Isn't that the same thing?
     얼: 하나 솔직하게 물어보자, 베브. 우리 재작년 여름에 디트로이트 PPAP 했어. 바인더 열아홉 개에, 테리사라는 양반이 여기 구석구석을 기어 다녔지. 그거랑 같은 거 아니야?
 
-074. BEV: It's a cousin, because PPAP proves you can build it right once, while this proves you build it right every day, and that you can prove it ten years later.
+074. BEV: It's a cousin. PPAP proves you can build it right once. This proves you build it right every day, and that you can prove it ten years later.
     베브: 사촌쯤 돼요. PPAP는 한 번 제대로 만들 수 있다는 걸 증명하고, 이건 매일 제대로 만든다는 걸, 그리고 10년 뒤에도 그걸 증명할 수 있다는 걸 보여 줘요.
 
 075. EARL: You said ten years?
     얼: 10년이라고?
 
-076. BEV: As long as the robot is in a hospital, which could be fifteen, so your records have to outlive your coffee machine and probably your career.
+076. BEV: As long as the robot is in a hospital, which could be fifteen. Your records have to outlive your coffee machine and probably your career.
     베브: 로봇이 병원에 있는 동안 내내요. 15년일 수도 있어요. 기록이 커피 머신보다, 아마 얼 씨 경력보다도 오래 살아야 해요.
 
-077. EARL: That's not hard, because the coffee machine's dying.
+077. EARL: That's not hard. The coffee machine's already dying.
     얼: 그건 안 어려워. 커피 머신은 죽어 가니까.
 
-078. BEV: Let's walk the floor, because I want to see where these motors would actually be built.
+078. BEV: Let's walk the floor. I want to see where these motors would actually be built.
     베브: 공장 바닥을 걸어 보죠. 이 모터들이 실제로 어디서 만들어질지 보고 싶어요.
 
 079. SAM: This is the winding room, with drill motors on that side, drone motors over there, and seat motors for Detroit in the back.
@@ -258,7 +258,7 @@
 081. DARNELL: That's Jayden on a forklift, which is different from a forklift.
     대넬: 저건 지게차 탄 제이든이에요. 그냥 지게차랑은 다르죠.
 
-082. BEV: Here's my problem, which is dust, metal shavings, and somebody's sandwich, because a surgical robot's joint has bearings so precise that one grain of grit can change how it feels in a surgeon's hand.
+082. BEV: Here's my problem, which is dust, metal shavings, and somebody's sandwich. A surgical robot's joint has bearings so precise that one grain of grit can change how it feels in a surgeon's hand.
     베브: 제 고민은 먼지, 쇳가루, 그리고 누군가의 샌드위치예요. 수술 로봇 관절의 베어링은 아주 정밀해서 모래알 하나로도 외과의 손에 느껴지는 감이 달라질 수 있거든요.
 
 083. WEN: The bearings and the encoder go in last, and that step can't happen out here.
@@ -267,7 +267,7 @@
 084. BEV: Exactly, so you need a clean room, which isn't a hospital operating room and isn't sterile, just clean, with filtered air, special clothes, and rules about who comes in.
     베브: 바로 그거예요. 클린룸이 필요해요. 병원 수술실도 아니고 멸균도 아니고, 그냥 깨끗한 곳이요. 걸러진 공기, 특수복, 출입 규칙이 있는 곳.
 
-085. EARL: Special clothes, so you mean the bunny suits, like the chip factories.
+085. EARL: Special clothes. You mean the bunny suits, like the chip factories.
     얼: 특수복이라, 반도체 공장 같은 그 토끼 옷 말하는구나.
 
 086. BEV: It's a little less dramatic, but yes, a hood, a mask, gloves, and booties.
@@ -285,7 +285,7 @@
 090. SAM: Where would it go, Bev, physically, in this building, with these walls?
     샘: 베브, 그게 물리적으로 이 건물, 이 벽들 안에서 어디에 들어가야 해요?
 
-091. BEV: Somewhere away from the grinding and the loading dock, and it doesn't have to be big, maybe six hundred square feet, so you can build a modular one in a week if you have the money.
+091. BEV: Somewhere away from the grinding and the loading dock. It doesn't have to be big, maybe six hundred square feet. You can build a modular one in a week if you have the money.
     베브: 연삭 작업이랑 하역장에서 먼 곳이요. 클 필요는 없어요, 600제곱피트쯤. 돈만 있으면 조립식으로 일주일이면 지어요.
 
 092. PATTY: What about the old break room, which nobody's used since the new one opened, and which has a door that closes?
@@ -297,22 +297,22 @@
 094. BEV: Not anymore, it isn't.
     베브: 이제는 아니에요.
 
-095. TYLER: Bev, here's an honest question, because you've seen a lot of suppliers: how many small factories actually make it through this?
+095. TYLER: Bev, here's an honest question. You've seen a lot of suppliers: how many small factories actually make it through this?
     타일러: 베브, 솔직한 질문이요. 공급사 많이 보셨잖아요. 작은 공장들 중에 실제로 이걸 통과하는 데가 얼마나 돼요?
 
-096. BEV: The ones who treat it like a punishment almost never make it, but the ones who decide it's how good shops behave anyway mostly do, because it's not about being smart, it's about being stubborn.
+096. BEV: The ones who treat it like a punishment almost never make it. But the ones who decide it's how good shops behave anyway mostly do. It's not about being smart, it's about being stubborn.
     베브: 벌 받는 것처럼 생각하는 데는 거의 못 해요. 어차피 좋은 공장은 이렇게 하는 거라고 마음먹는 데는 대부분 통과하고요. 똑똑함의 문제가 아니라 고집의 문제예요.
 
 097. SAM: We're good at stubborn.
     샘: 고집은 우리가 잘하죠.
 
-098. BEV: I noticed, because your sign out front says "Physics doesn't have a passport," and stubborn people make signs like that.
+098. BEV: I noticed. Your sign out front says "Physics doesn't have a passport," and stubborn people make signs like that.
     베브: 눈치챘어요. 앞에 붙은 현수막에 "물리학엔 여권이 없다"라고 써 있던데, 고집 센 사람들이 그런 현수막을 만들죠.
 
 099. WEN: That one's about me.
     웬: 그건 제 얘기예요.
 
-100. BEV: Then you're the most stubborn of all, which is good, so now somebody take me to your money person, because I'm about to ruin her afternoon.
+100. BEV: Then you're the most stubborn of all, which is good. Now somebody take me to your money person. I'm about to ruin her afternoon.
     베브: 그럼 제일 고집 세신 거네요, 좋아요. 이제 누가 저 돈 담당한테 데려다주세요. 그분 오후를 망치러 갈 거니까요.
 
 101. GLORIA: I'm already ruined, honey, since I've been adding this up ever since you said "clean room," so sit down, and Sam, close the door.
@@ -321,10 +321,10 @@
 102. SAM: Nothing good happens with the door closed.
     샘: 문 닫고 하는 얘기 중에 좋은 건 없는데.
 
-103. GLORIA: Then don't look, but a modular clean room with the air system and the changing area comes to about one eighty-five, by Bev's number.
+103. GLORIA: Then don't look. But a modular clean room with the air system and the changing area comes to about one eighty-five, by Bev's number.
     글로리아: 그럼 보지 마. 공조 시스템이랑 탈의 공간까지 있는 조립식 클린룸이 베브 견적으로 18만 5천쯤이야.
 
-104. BEV: That's if you do it right, and don't do it cheap, because cheap clean rooms fail their first particle count.
+104. BEV: That's if you do it right, and don't do it cheap. Cheap clean rooms fail their first particle count.
     베브: 제대로 하면요. 싸게 하지 마세요. 싼 클린룸은 첫 입자 측정에서 떨어져요.
 
 105. GLORIA: Then there's two new people, a quality engineer who's done this before and someone to run the documents, which with benefits is two hundred ten thousand a year.
@@ -345,7 +345,7 @@
 110. SAM: And what do we sell them in the first year?
     샘: 그리고 첫해에 우리가 파는 건?
 
-111. TYLER: Thirty robots with nine motors each, plus spares, so call it three hundred thirty motors, and since Karim's German supplier charges her twenty-four hundred now, I was going to quote nineteen hundred.
+111. TYLER: Thirty robots with nine motors each, plus spares. Call it three hundred thirty motors, and since Karim's German supplier charges her twenty-four hundred now, I was going to quote nineteen hundred.
     타일러: 로봇 서른 대에 대당 아홉 개, 예비품까지 대략 모터 삼백삼십 개요. 카림 박사의 독일 공급사가 지금 2,400달러 받으니까, 전 1,900달러로 견적 내려고 했어요.
 
 112. GLORIA: Three hundred thirty times nineteen hundred is six hundred twenty-seven thousand, and that's before materials.
@@ -354,13 +354,13 @@
 113. SAM: So year one, we lose money.
     샘: 그러니까 첫해엔 손해네.
 
-114. GLORIA: Year one, we lose money, not enough to hurt us but enough to notice, and in year two, if she sells eighty robots, we're about even, so maybe in year three we make something.
+114. GLORIA: Year one, we lose money, not enough to hurt us but enough to notice, and in year two, if she sells eighty robots, we're about even. Maybe in year three we make something.
     글로리아: 첫해엔 손해야. 회사가 다칠 정도는 아니지만 눈에 띌 정도로. 2년 차에 그쪽이 로봇 여든 대를 팔면 대충 본전이고, 3년 차엔 뭔가 남을 수도 있지.
 
-115. SAM: Maybe, you said, and I hate the word maybe when it's next to a dollar sign.
+115. SAM: Maybe, you said. I hate the word maybe when it's next to a dollar sign.
     샘: 어쩌면이라. 달러 표시 옆에 붙은 '어쩌면'은 정말 싫은데.
 
-116. GLORIA: Sam, I've been your CFO a long time, and I've said yes to a lot of crazy, like drones, lawsuits, and Georgia, but every one of those had a big customer or a big principle, and this one has three hundred motors.
+116. GLORIA: Sam, I've been your CFO a long time. I've said yes to a lot of crazy, like drones, lawsuits, and Georgia. But every one of those had a big customer or a big principle, and this one has three hundred motors.
     글로리아: 샘, 내가 네 CFO 오래 했어. 드론, 소송, 조지아까지 미친 짓에 '예' 많이 했지. 근데 그 하나하나엔 큰 고객이나 큰 원칙이 있었어. 이건 모터 삼백 개야.
 
 117. TYLER: Can I make the case for the other side?
@@ -372,25 +372,25 @@
 119. TYLER: Every customer we've ever had asks the same question first, "Is your quality real?", and if we build motors for a surgical robot with the FDA looking over our shoulder, nobody ever asks that again.
     타일러: 지금까지 모든 고객이 제일 먼저 "품질 진짜예요?"라고 물었어요. 우리가 FDA가 어깨 너머로 보는 상황에서 수술 로봇 모터를 만들면, 그 질문은 다시는 아무도 안 해요.
 
-120. BEV: He's not wrong, because a medical quality system is a badge that defense people and aerospace people both respect, and it opens doors that money doesn't.
+120. BEV: He's not wrong. A medical quality system is a badge that defense people and aerospace people both respect. It opens doors that money doesn't.
     베브: 틀린 말 아니에요. 의료 품질 시스템은 방산 쪽도 항공우주 쪽도 인정하는 배지예요. 돈으로 못 여는 문을 열어 주죠.
 
 121. GLORIA: Doors don't pay salaries, though.
     글로리아: 근데 문이 월급을 주진 않잖아.
 
-122. WEN: Gloria, the clean room and the documents will make the drill motors and the drone motors better too, because we will stop losing things, and we do lose things.
+122. WEN: Gloria, the clean room and the documents will make the drill motors and the drone motors better too. We will stop losing things, and we do lose things.
     웬: 글로리아, 클린룸이랑 문서 관리는 드릴 모터랑 드론 모터도 더 좋게 만들 거예요. 우리가 뭘 잃어버리는 일이 없어질 테니까요. 우리 잘 잃어버리잖아요.
 
-123. GLORIA: That's true, because Earl lost a forklift once.
+123. GLORIA: That's true. Earl lost a forklift once, you know.
     글로리아: 그건 맞아. 얼은 한 번 지게차를 잃어버렸지.
 
-124. EARL: It was behind the steel racks, so it wasn't lost, it was resting.
+124. EARL: It was behind the steel racks. It wasn't lost, it was resting.
     얼: 강판 선반 뒤에 있었어. 잃어버린 게 아니라 쉬고 있었던 거야.
 
-125. GLORIA: Sam, it's your call, and I've told you the numbers, so if you say yes, I'll find the money, because I always find the money.
+125. GLORIA: Sam, it's your call, and I've told you the numbers. If you say yes, I'll find the money, because I always find the money.
     글로리아: 샘, 네가 정해. 숫자는 말했으니까, 네가 하자고 하면 돈은 내가 찾을게. 난 늘 돈을 찾아내.
 
-126. SAM: Let me say out loud the thing everybody's thinking, which is that we're not a medical company, because we make motors for bikes and washers and drills.
+126. SAM: Let me say out loud the thing everybody's thinking, which is that we're not a medical company. We make motors for bikes and washers and drills.
     샘: 다들 생각하는 걸 내가 소리 내서 말해 볼게. 우린 의료 회사가 아니야. 자전거랑 세탁기랑 드릴 모터를 만들지.
 
 127. WEN: We are now.
@@ -399,13 +399,13 @@
 128. SAM: Wen, come on.
     샘: 웬, 무슨 소리야.
 
-129. WEN: Sam, when I was a student, my mother died, and I watched the funeral on a laptop, but before that she was in a hospital in Shenzhen for four months, where the machines kept her comfortable, because somebody built them carefully.
+129. WEN: Sam, when I was a student, my mother died. I watched the funeral on a laptop. But before that she was in a hospital in Shenzhen for four months, where the machines kept her comfortable, because somebody built them carefully.
     웬: 샘, 제가 학생이었을 때 어머니가 돌아가셨고, 전 노트북으로 장례식을 봤어요. 그 전에 어머니는 선전의 병원에 넉 달 계셨는데, 기계들이 어머니를 편하게 해 줬어요. 누군가 그걸 정성껏 만든 거죠.
 
-130. SAM: I didn't know about the four months, because you never told us that part.
+130. SAM: I didn't know about the four months. You never told us that part.
     샘: 넉 달 얘긴 몰랐어요. 그 부분은 한 번도 말 안 했잖아요.
 
-131. WEN: I never thought about who it was, but now I think about it, because somebody in a room like this decided to do the paperwork.
+131. WEN: I never thought about who it was, but now I think about it. Somebody in a room like this decided to do the paperwork.
     웬: 그게 누군지 생각해 본 적이 없었는데, 이제는 생각해요. 이런 방에 있던 누군가가 서류 작업을 하기로 결정한 거예요.
 
 132. GLORIA: Well, you don't play fair, Wen.
@@ -414,7 +414,7 @@
 133. WEN: Physics doesn't negotiate, but I do, sometimes.
     웬: 물리학은 협상 안 해요. 하지만 저는 가끔 해요.
 
-134. SAM: Okay, we do it, so Gloria, find the money, but carefully, and Bev, I want you here once a week until we know what we're doing.
+134. SAM: Okay, we do it. Gloria, find the money, but carefully. Bev, I want you here once a week until we know what we're doing.
     샘: 좋아, 하자. 글로리아, 돈 찾아 줘요, 근데 조심해서. 베브, 우리가 뭘 하는지 알 때까지 일주일에 한 번 와 줬으면 해요.
 
 135. BEV: Every Tuesday, and I'll be early.
@@ -429,7 +429,7 @@
 138. DARNELL: You? I thought nobody was putting you in a bunny suit.
     대넬: 형님이요? 아무도 토끼 옷에 못 집어넣는다면서요.
 
-139. EARL: Nobody is, because I'm walking in by myself, and that's different.
+139. EARL: Nobody is. I'm walking in by myself, and that's different.
     얼: 아무도 못 넣지. 내 발로 들어가는 거니까, 그건 다르지.
 
 140. GLORIA: Sam, your phone is ringing on line two, and it's Cleveland.
@@ -438,7 +438,7 @@
 141. SAM: Dr. Karim, we just finished with Bev, and the short version is that we're in.
     샘: 카림 박사님, 방금 베브랑 얘기 끝났어요. 짧게 말하면, 하겠습니다.
 
-142. KARIM: I hoped you would say that, so I'm sending the quality agreement tonight, which is thirty-one pages, and please read all of them, especially page nine.
+142. KARIM: I hoped you would say that. I'm sending the quality agreement tonight, which is thirty-one pages, and please read all of them, especially page nine.
     카림: 그 말씀 하시길 바랐어요. 오늘 밤 품질 협약서 보낼게요. 서른한 쪽인데, 전부 읽어 주세요. 특히 9쪽이요.
 
 143. SAM: What's on page nine, and should I be sitting down for this?
@@ -450,10 +450,10 @@
 145. SAM: Any time?
     샘: 언제든요?
 
-146. KARIM: Any time at all, so welcome to medicine, Mr. Kowalski.
+146. KARIM: Any time at all. Welcome to medicine, Mr. Kowalski.
     카림: 언제든요. 의료계에 오신 걸 환영합니다, 코왈스키 대표님.
 
-147. TYLER: Sam, there's a text from Erin, so do you want me to read it?
+147. TYLER: Sam, there's a text from Erin. Do you want me to read it?
     타일러: 샘, 에린 문자 왔어요. 읽어 드려요?
 
 148. SAM: Go ahead.
@@ -462,7 +462,7 @@
 149. TYLER: "Your dad canceled his doctor's appointment again. Says he's 'too busy.' He's retired, Sam. Call him."
     타일러: "아버님이 병원 예약 또 취소하셨어. '너무 바쁘다'고. 은퇴하신 분이야, 샘. 전화드려."
 
-150. SAM: Too busy, he says, too busy watching us build a clean room, so I'll call him tonight. Okay, everybody back to work, because we've got a nap room to destroy.
+150. SAM: Too busy, he says, too busy watching us build a clean room, so I'll call him tonight. Okay, everybody back to work. We've got a nap room to destroy.
     샘: 너무 바쁘시대. 우리 클린룸 짓는 거 구경하느라 바쁘시겠지. 오늘 밤에 전화할게. 자, 다들 일하러 가자. 낮잠 방 하나 부숴야 하니까.
 
 ---

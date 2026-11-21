@@ -21,7 +21,7 @@
 002. SAM: Both of them? Why would they call a U.S. senator's office about a state race?
     샘: 둘 다요? 왜 주 선거 일로 연방 상원의원실에 전화를 해요?
 
-003. KAYLA: Because everybody in Ohio politics knows I know you, so congratulations, you're a talking point now.
+003. KAYLA: Because everybody in Ohio politics knows I know you. Congratulations, you're a talking point now.
     케일라: 오하이오 정계 사람들은 다 제가 샘을 안다는 걸 알거든요. 축하해요, 이제 샘은 '선거 화제'예요.
 
 004. SAM: A talking point? Is that good or bad?
@@ -30,8 +30,8 @@
 005. KAYLA: In plain English, a talking point is a short line a campaign repeats until you can't forget it, and you're about to be in two of them. Whether that's good depends on what you do this week.
     케일라: 쉽게 말하면, 선거 화제는 캠프가 사람들이 못 잊을 때까지 되풀이하는 짧은 문장인데, 샘은 곧 두 군데에 들어가게 돼요. 좋은지 나쁜지는 이번 주에 샘이 뭘 하느냐에 달렸고요.
 
-006. SAM: Okay, so who are they, since I barely know who my own state senator is?
-    샘: 그렇군요. 근데 누군데요? 전 우리 주 상원의원이 누군지도 잘 몰라요.
+006. SAM: Okay, who are they? I barely know who my own state senator is.
+    샘: 그렇군요. 누군데요? 전 우리 주 상원의원이 누군지도 잘 몰라요.
 
 007. KAYLA: Senator Brent Halvorsen is the incumbent, and he's been in the state senate eight years. His message is jobs, growth and "Ohio builds the future," and data centers are part of that.
     케일라: 현직은 브렌트 핼버슨 상원의원이고, 주 상원 8년째예요. 메시지는 일자리, 성장, "오하이오가 미래를 짓는다"이고, 데이터센터도 그 일부죠.
@@ -87,8 +87,8 @@
 024. SAM: A picture of a factory, not a picture of me agreeing with them.
     샘: 공장 사진이요. 제가 그 사람들한테 동의하는 사진 말고요.
 
-025. KAYLA: Now you're thinking like a politician, which scares me a little. My train is going into a tunnel, so call me tonight.
-    케일라: 이제 정치인처럼 생각하네요, 좀 무서워요. 기차가 터널로 들어가니까 오늘 밤에 전화해요.
+025. KAYLA: Now you're thinking like a politician, which scares me a little. My train is going into a tunnel. Call me tonight.
+    케일라: 이제 정치인처럼 생각하네요, 좀 무서워요. 기차가 터널로 들어가요. 오늘 밤에 전화해요.
 
 026. GLORIA: Was that Kayla? You've got the face, the "Washington" face.
     글로리아: 케일라였어? 그 얼굴 하고 있네, '워싱턴' 얼굴.
@@ -99,8 +99,8 @@
 028. GLORIA: Lord, in an election year, a factory is a stage and every worker is an extra, and you know that, right?
     글로리아: 세상에, 선거철엔 공장이 무대고 노동자는 다 엑스트라야. 알지?
 
-029. SAM: I know that, so I'm going to tell everybody in the break room at nine-thirty, both shifts if we can.
-    샘: 알아요. 그래서 아홉 시 반에 휴게실에서 다들한테 말할 거예요. 가능하면 두 교대 다요.
+029. SAM: I know that. I'm going to tell everybody in the break room at nine-thirty, both shifts if we can.
+    샘: 알아요. 아홉 시 반에 휴게실에서 다들한테 말할 거예요. 가능하면 두 교대 다요.
 
 030. GLORIA: Second shift is asleep, baby.
     글로리아: 2교대는 자고 있어, 얘.
@@ -108,16 +108,16 @@
 031. SAM: Then I'll do it again at three, with the same words.
     샘: 그럼 세 시에 똑같은 말로 한 번 더 할게요.
 
-032. GLORIA: Same words, good, because that's how you stay honest, by saying it twice the same way.
+032. GLORIA: Same words, good. That's how you stay honest, by saying it twice the same way.
     글로리아: 똑같은 말로, 좋아. 두 번 똑같이 말하는 게 정직하게 남는 법이지.
 
-033. TYLER: Sam, you've got two emails, because Halvorsen's campaign wants to come at ten and Ruddick's campaign wants to come at two, both today.
+033. TYLER: Sam, you've got two emails. Halvorsen's campaign wants to come at ten and Ruddick's campaign wants to come at two, both today.
     타일러: 샘, 이메일 두 통 왔어요. 핼버슨 캠프는 열 시에, 러딕 캠프는 두 시에 오고 싶대요. 둘 다 오늘이요.
 
 034. SAM: Today, without even asking?
     샘: 오늘? 묻지도 않고?
 
-035. TYLER: They're kind of asking, because the subject line on both is "Confirming today," which is campaign for "we're coming anyway."
+035. TYLER: They're kind of asking. The subject line on both is "Confirming today," which is campaign for "we're coming anyway."
     타일러: 일종의 묻는 거예요. 둘 다 제목이 '오늘 일정 확인'인데, 캠프 말로 "어쨌든 갑니다"란 뜻이죠.
 
 036. GLORIA: They found out about each other, and now nobody wants to be second.
@@ -156,7 +156,7 @@
 047. PATTY: She doesn't want to stop them, she wants them to pay, and there's a difference, Darnell.
     패티: 막겠다는 게 아니라 돈을 내게 하겠다는 거야. 차이가 있어, 대넬.
 
-048. EARL: Here we go again, because every election it's the same two people in the same break room.
+048. EARL: Here we go again. Every election it's the same two people in the same break room.
     얼: 또 시작이네. 선거 때마다 같은 휴게실에서 같은 두 사람이야.
 
 049. TYLER: For the record, I don't like either of them. Halvorsen sent me a fundraising email with my name spelled wrong, and Ruddick's ad has a sad piano in it.
@@ -195,25 +195,25 @@
 060. EARL: Well, now I feel bad about yelling at the TV last night.
     얼: 이런, 어젯밤에 TV한테 소리 지른 게 미안해지네.
 
-061. PATTY: Sam, I have to tell you something, because Ruddick's people called me Saturday. They want me in a commercial, just me holding my bill and saying "same woman."
+061. PATTY: Sam, I have to tell you something. Ruddick's people called me Saturday, and they want me in a commercial, just me holding my bill and saying "same woman."
     패티: 샘, 말할 게 있어. 러딕 캠프에서 토요일에 전화 왔는데, 광고에 나와 달래. 나 혼자 고지서 들고 "같은 여자"라고 말하는 거.
 
 062. SAM: Do you want to do it?
     샘: 하고 싶어요?
 
-063. PATTY: I don't know, part of me does, because nobody ever asked me to be in anything. But they want me in my Ferrox shirt, in front of the plant.
+063. PATTY: I don't know. Part of me does, because nobody ever asked me to be in anything. But they want me in my Ferrox shirt, in front of the plant.
     패티: 모르겠어. 일부는 하고 싶어. 아무도 나한테 뭐에 나와 달라고 한 적이 없거든. 근데 페록스 셔츠 입고 공장 앞에서 찍재.
 
-064. GLORIA: Of course they do, because the shirt is the whole point.
+064. GLORIA: Of course they do. The shirt is the whole point.
     글로리아: 당연히 그렇겠지. 셔츠가 핵심이니까.
 
-065. SAM: Patty, you can be in any commercial you want, because you're a citizen and you paid that bill, so that's your voice. But not in the shirt and not in front of the plant, which is the same rule for everybody.
+065. SAM: Patty, you can be in any commercial you want. You're a citizen and you paid that bill, so that's your voice. But not in the shirt and not in front of the plant, which is the same rule for everybody.
     샘: 패티, 원하는 광고 어디든 나와도 돼요. 시민이고 그 요금 낸 사람이니까, 그건 패티 목소리예요. 근데 셔츠는 안 되고 공장 앞도 안 돼요. 모두한테 같은 규칙이에요.
 
 066. DARNELL: Even if Halvorsen asks me?
     대넬: 핼버슨이 저한테 부탁해도요?
 
-067. SAM: Even if Halvorsen asks you, because it's the same rule and the same words.
+067. SAM: Even if Halvorsen asks you. It's the same rule and the same words.
     샘: 핼버슨이 부탁해도요. 같은 규칙, 같은 말이에요.
 
 068. PATTY: Okay, I'll think about it, maybe in my church sweater.
@@ -222,7 +222,7 @@
 069. EARL: The church sweater with the turkeys on it?
     얼: 칠면조 그려진 그 교회 스웨터?
 
-070. PATTY: It's September, Earl, so the one with the apples.
+070. PATTY: It's September, Earl. The one with the apples.
     패티: 9월이잖아, 얼. 사과 그려진 거.
 
 071. SAM: One more thing: when they come, they'll want to shake your hands, but you don't have to. If you're busy, stay busy, and if you want to say something to them, say it, because nobody gets in trouble either way.
@@ -231,13 +231,13 @@
 072. JAYDEN: Can I ask Halvorsen about my student loans?
     제이든: 핼버슨한테 학자금 대출 물어봐도 돼요?
 
-073. SAM: You can ask him anything, because he's a state senator and that's his job.
-    샘: 뭐든 물어봐도 돼요. 주 상원의원이니까 그게 그 사람 일이에요.
+073. SAM: You can ask him anything. He's a state senator, and that's his job.
+    샘: 뭐든 물어봐도 돼요. 주 상원의원이고, 그게 그 사람 일이에요.
 
 074. EARL: Ask him why Route 741 has had a pothole the size of a bathtub since April.
     얼: 741번 도로에 4월부터 욕조만 한 구멍이 왜 그대로인지 물어봐.
 
-075. GLORIA: Okay, everybody, back to work, because they'll be here in thirty minutes and Betsy doesn't care who wins.
+075. GLORIA: Okay, everybody, back to work. They'll be here in thirty minutes, and Betsy doesn't care who wins.
     글로리아: 자, 다들 일하러 가. 30분 뒤에 올 거고, 베치는 누가 이기든 관심 없어.
 
 076. TYLER: Sam, Halvorsen's here early, and he brought a photographer and a guy carrying a rolled-up banner.
@@ -249,7 +249,7 @@
 078. TYLER: He says it's "just in case."
     타일러: "혹시 몰라서"래요.
 
-079. HALVORSEN: Sam Kowalski, Brent Halvorsen, and what an operation! I drive past this building every week and never knew what was inside, so this is the Ohio story, right here.
+079. HALVORSEN: Sam Kowalski, Brent Halvorsen, and what an operation! I drive past this building every week and never knew what was inside. This is the Ohio story, right here.
     핼버슨: 샘 코왈스키! 브렌트 핼버슨입니다. 대단한 곳이네요! 매주 이 건물 앞을 지나다니면서도 안에 뭐가 있는 줄 몰랐어요. 이게 바로 오하이오 이야기예요.
 
 080. SAM: Welcome, Senator, and thanks for coming, but the banner stays rolled up.
@@ -294,8 +294,8 @@
 093. TYLER: No banner, just a camera with a very big lens pointed at the Helix line.
     타일러: 현수막은 없고, 아주 큰 렌즈 달린 카메라가 헬릭스 라인을 향하고 있어요.
 
-094. RUDDICK: Mr. Kowalski, I'm Carol Ruddick, and thank you for having me. I know you got two of us today, so I hope I'm the more interesting one.
-    러딕: 코왈스키 씨, 캐럴 러딕입니다. 불러 주셔서 감사해요. 오늘 둘이나 맞으신 거 아는데, 제가 더 흥미로운 쪽이면 좋겠네요.
+094. RUDDICK: Mr. Kowalski, I'm Carol Ruddick, and thank you for having me. I know you got two of us today. I hope I'm the more interesting one.
+    러딕: 코왈스키 씨, 캐럴 러딕입니다. 불러 주셔서 감사해요. 오늘 둘이나 맞으신 거 알아요. 제가 더 흥미로운 쪽이면 좋겠네요.
 
 095. SAM: Welcome. Your camera can film anything except that line over there, because that's a customer's equipment and it's in our contract.
     샘: 환영합니다. 카메라로는 저쪽 라인만 빼고 뭐든 찍으셔도 돼요. 고객 장비라서 계약서에 있거든요.
@@ -309,7 +309,7 @@
 098. RUDDICK: Fine, Luke, point it at the window. Mr. Kowalski, I saw the clip from the utility hearing with your employee, Patty, and "Same woman" is the most honest thing anybody's said in this campaign.
     러딕: 좋아요, 루크, 창문 쪽으로 돌려. 코왈스키 씨, 직원분 패티 씨 나온 전력 공청회 영상 봤어요. "같은 여자"는 이번 선거에서 누가 한 말 중에 제일 정직한 말이에요.
 
-099. SAM: Patty's honest about everything, so ask her about my parking sometime.
+099. SAM: Patty's honest about everything. Ask her about my parking sometime.
     샘: 패티는 뭐든 정직해요. 언제 제 주차 실력에 대해 물어보세요.
 
 100. RUDDICK: Here's my position: I don't hate data centers. I hate a deal where a company gets a fifteen-year tax break while Mrs. Lattimore on Hoover Avenue pays for the power lines.
@@ -318,16 +318,16 @@
 101. SAM: Wait, you know Mrs. Lattimore?
     샘: 잠깐, 래티모어 할머니를 아세요?
 
-102. RUDDICK: Odessa Grant introduced me, because Odessa introduces everybody to everybody, and she said you owe her homework.
+102. RUDDICK: Odessa Grant introduced me. Odessa introduces everybody to everybody, and she said you owe her homework.
     러딕: 오데사 그랜트가 소개해 줬어요. 오데사는 모두를 모두에게 소개하거든요. 샘이 숙제를 빚졌다던데요.
 
-103. SAM: I turned it in on Thursday, so her church gets a new furnace blower next week, and the utility program pays for it.
+103. SAM: I turned it in on Thursday. Her church gets a new furnace blower next week, and the utility program pays for it.
     샘: 목요일에 냈어요. 그분 교회에 다음 주 새 퍼니스 송풍기가 들어가는데, 전력회사 프로그램이 내요.
 
 104. RUDDICK: That's exactly the kind of story I'd love to tell, "Local factory cuts church's bill while data centers raise yours." Can I say that?
     러딕: 제가 정말 하고 싶은 이야기가 그런 거예요. "지역 공장은 교회 요금을 줄이고, 데이터센터는 당신 요금을 올린다." 그렇게 말해도 될까요?
 
-105. SAM: No, because the second half isn't mine, and my motors are going into a data center too, to make it use less power.
+105. SAM: No, because the second half isn't mine. My motors are going into a data center too, to make it use less power.
     샘: 아니요. 뒤의 절반은 제 얘기가 아니니까요. 제 모터는 데이터센터에도 들어가요. 전기를 덜 쓰게 하려고요.
 
 106. RUDDICK: So you're on both sides.
@@ -342,10 +342,10 @@
 109. GLORIA: Please don't encourage him.
     글로리아: 제발 부추기지 마세요.
 
-110. RUDDICK: Is Patty here, because I'd love to say hello?
+110. RUDDICK: Is Patty here? I'd love to say hello.
     러딕: 패티 씨 계세요? 인사하고 싶은데.
 
-111. PATTY: I'm here, hi, I'm on break. I'm not in the shirt, well, I am, but I'm not going to be in the commercial in the shirt, because Sam says so, and I agree.
+111. PATTY: I'm here, hi, I'm on break. I'm not in the shirt, well, I am, but I'm not going to be in the commercial in the shirt. Sam says so, and I agree.
     패티: 여기 있어요, 안녕하세요, 쉬는 시간이에요. 셔츠는 안 입었어요, 아, 입고 있긴 한데, 광고엔 이 셔츠 입고 안 나갈 거예요. 샘이 그랬고, 저도 동의해요.
 
 112. RUDDICK: Then you'll do it?
@@ -354,13 +354,13 @@
 113. PATTY: Maybe, on Saturday, in my apple sweater at my sister's kitchen table, holding her bill instead of mine, because hers is worse.
     패티: 아마도요. 토요일에 사과 스웨터 입고 우리 언니네 부엌 식탁에서, 제 거 말고 언니 고지서 들고요. 언니 게 더 심하거든요.
 
-114. RUDDICK: That's even better, so thank you, Patty.
+114. RUDDICK: That's even better. Thank you, Patty.
     러딕: 그게 더 좋네요. 고마워요, 패티 씨.
 
-115. RUDDICK: Mr. Kowalski, one last question. Senator Halvorsen was here this morning, so did you tell him the same thing you're telling me?
-    러딕: 코왈스키 씨, 마지막 질문이요. 핼버슨 의원이 오늘 아침에 왔었는데, 그분한테도 저한테 하는 말이랑 똑같이 하셨어요?
+115. RUDDICK: Mr. Kowalski, one last question. Senator Halvorsen was here this morning. Did you tell him the same thing you're telling me?
+    러딕: 코왈스키 씨, 마지막 질문이요. 핼버슨 의원이 오늘 아침에 왔었죠. 그분한테도 저한테 하는 말이랑 똑같이 하셨어요?
 
-116. SAM: Word for word, because Gloria taught me to say it twice the same way.
+116. SAM: Word for word. Gloria taught me to say it twice the same way.
     샘: 토씨 하나 안 틀리고요. 두 번 똑같이 말하라고 글로리아한테 배웠어요.
 
 117. RUDDICK: And what did he say?
@@ -387,7 +387,7 @@
 124. SAM: That's exactly why there are four.
     샘: 그래서 딱 네 개인 거예요.
 
-125. RUDDICK: Mr. Kowalski, you're a pain, and I mean that as a compliment, so thank you for the tour.
+125. RUDDICK: Mr. Kowalski, you're a pain, and I mean that as a compliment. Thank you for the tour.
     러딕: 코왈스키 씨, 골치 아픈 분이네요. 칭찬이에요. 견학 감사해요.
 
 126. KAYLA: So, how did it go? It's only eight o'clock, and I've already heard from three people.
@@ -417,7 +417,7 @@
 134. KAYLA: A photo of the senator next to Betsy, with no workers and no banner, and the caption says, "Ohio-made motors are making Ohio's data centers more efficient," which is true.
     케일라: 베치 옆에 선 의원 사진이요. 노동자도 현수막도 없고, 설명은 "오하이오산 모터가 오하이오 데이터센터를 더 효율적으로 만들고 있다"예요. 사실이죠.
 
-135. SAM: That's fine, because that's true.
+135. SAM: That's fine. It's true.
     샘: 그건 괜찮아요. 사실이니까.
 
 136. KAYLA: And Ruddick posted a photo of the window with the caption, "Even the people who build for data centers want them to pay their fair share," which is half true.
@@ -441,7 +441,7 @@
 142. KAYLA: The county commissioners will vote on rezoning six hundred acres off Route 35 for a data center campus, and the developer is Helix Cloud, your customer. Ruddick, Halvorsen and everybody with a camera will be there.
     케일라: 군 위원들이 35번 국도 쪽 600에이커를 데이터센터 단지로 용도 변경하는 표결을 하는데, 개발사가 샘네 고객 헬릭스 클라우드예요. 러딕도 핼버슨도, 카메라 든 사람은 다 올 거예요.
 
-143. SAM: Odessa asked me to come, because she wants my "real answer" in public.
+143. SAM: Odessa asked me to come. She wants my "real answer" in public.
     샘: 오데사가 오라고 했어요. 제 '진짜 답'을 공개적으로 듣고 싶대요.
 
 144. KAYLA: And what about Helix?
@@ -456,7 +456,7 @@
 147. SAM: "Saw the senator's photo with Betsy. Nice. Saw Ruddick's photo of your window. Less nice. Tuesday in Greene County, I'd like you to speak. For us."
     샘: "의원이 베치랑 찍은 사진 봤어요. 좋네요. 러딕이 찍은 당신네 창문 사진도 봤어요. 덜 좋네요. 화요일 그린 카운티에서 발언해 줬으면 해요. 우리 편으로."
 
-148. KAYLA: There it is, because the customer wants a banner too.
+148. KAYLA: There it is. The customer wants a banner too.
     케일라: 나왔네요. 고객도 현수막을 원하는 거예요.
 
 149. SAM: It's a different kind of banner.

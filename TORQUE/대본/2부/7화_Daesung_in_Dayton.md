@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. LILY: Dad, stop fixing your tie, because you've fixed it four times and it's fine.
+001. LILY: Dad, stop fixing your tie. You've fixed it four times, and it's fine.
     릴리: 아빠, 넥타이 그만 만져. 네 번째야, 괜찮다니까.
 
 002. SAM: Why are you even here, Lil, when you should be in school?
@@ -33,7 +33,7 @@
 006. WEN: It's correct, and I'm impressed.
     웬: 맞게 썼네요. 감탄했어요.
 
-007. LILY: And it's written in black, not red, because I know the rules.
+007. LILY: And it's written in black, not red. I know the rules.
     릴리: 그리고 빨간색 말고 검은색으로 썼어요. 규칙 알거든요.
 
 008. SAM: There they are, so, Minjun, over here!
@@ -42,7 +42,7 @@
 009. MINJUN: Sam, Sunbae, finally we meet in person, and it's so good to see you! President Park, this is Sam Kowalski.
     민준: 샘, 선배, 드디어 직접 뵙네요. 정말 반가워요! 대표님, 이분이 샘 코왈스키입니다.
 
-010. SAM: President Park, welcome to Dayton, because it's an honor, and thank you for coming all this way.
+010. SAM: President Park, welcome to Dayton, it's an honor. Thank you for coming all this way.
     샘: 박 대표님, 데이턴에 오신 걸 환영합니다. 영광입니다. 먼 길 와 주셔서 감사합니다.
 
 011. PARK: Thank you, Mr. Kowalski. It was a long flight, Mexico, then Chicago, then here, but I am happy. Who is this young lady?
@@ -72,19 +72,19 @@
 019. SAM: Let me show you around. This building used to be a warehouse for car parts, and when the plants closed, it was empty for six years until we moved in in 2016.
     샘: 안내해 드릴게요. 이 건물은 원래 자동차 부품 창고였는데, 공장들이 문 닫고 6년 동안 비어 있다가 저희가 2016년에 들어왔죠.
 
-020. PARK: It is small but clean, very clean, and I like clean factories, because a dirty factory makes a dirty product.
+020. PARK: It is small, but clean, very clean. I like clean factories, because a dirty factory makes a dirty product.
     박 대표: 작지만 깨끗하네요, 아주 깨끗해요. 깨끗한 공장 좋아합니다. 지저분한 공장엔 지저분한 제품이 나오거든요.
 
 021. EARL: That's what I tell the night crew every single day.
     얼: 제가 야간조한테 매일같이 하는 말이에요.
 
-022. PARK: What is this machine, so old and so big?
+022. PARK: What is this machine? It is so old, and so big.
     박 대표: 이 기계는 뭔가요? 아주 오래되고 크네요.
 
 023. SAM: That's Old Betsy, our dynamometer, our test stand, and every motor we make has to pass her before it leaves the building.
     샘: 올드 베치예요. 저희 다이너모미터, 시험대요. 저희가 만드는 모터는 전부 건물을 나가기 전에 베치를 통과해야 해요.
 
-024. PARK: Betsy is a name, so you named the machine?
+024. PARK: Betsy is a name. You gave the machine a name?
     박 대표: 베치는 이름이네요. 기계에 이름을 붙였어요?
 
 025. EARL: We bought her at an auction in 2016 for eleven thousand dollars, from a plant that closed, and she's older than half my crew.
@@ -108,22 +108,22 @@
 031. MINJUN: And this is where you wind the motors, by hand?
     민준: 여기가 모터 권선하는 데예요? 손으로요?
 
-032. WEN: Partly by hand, because we have two winding machines, one from 2011 and one used from Michigan, and for two hundred thousand washer motors, we need six more.
+032. WEN: Partly by hand. We have two winding machines, one from 2011 and one used from Michigan, and for two hundred thousand washer motors, we need six more.
     웬: 일부는 손으로요. 권선기가 2011년식 하나, 미시간에서 온 중고 하나, 두 대 있는데, 세탁기 모터 20만 개를 하려면 여섯 대가 더 필요해요.
 
-033. PARK: Six more machines is expensive, so do you have money?
+033. PARK: Six more machines is expensive. Do you have money?
     박 대표: 기계 여섯 대 더면 비싸네요. 돈 있어요?
 
 034. GLORIA: Everybody asks us that, President Park, and the answer is "We're working on it."
     글로리아: 다들 그걸 물어보세요, 대표님. 대답은 "작업 중입니다"예요.
 
-035. PARK: Ha, honest, good. In Korea we say a company is not the building, a company is the people, so show me the people who made the motor that passed, ninety-two point six.
+035. PARK: Ha, honest, good. In Korea we say a company is not the building, a company is the people. Show me the people who made the motor that passed, ninety-two point six.
     박 대표: 하, 정직하네요, 좋아요. 한국에선 회사는 건물이 아니라 사람이라고 해요. 그러니 92.6으로 통과한 모터 만든 사람들 보여 주세요.
 
-036. EARL: That's Darnell over there, because he wound it. Darnell, come say hello, because this is President Park, who made the steel.
+036. EARL: That's Darnell over there, he wound it. Darnell, come say hello. This is President Park, the man who made the steel.
     얼: 저기 대넬이 감았어요. 대넬, 와서 인사해. 이분이 그 강판 만드신 박 대표님이야.
 
-037. DARNELL: Sir, it's an honor, because your steel is the best I've ever touched, with no burrs, not one.
+037. DARNELL: Sir, it's an honor. Your steel is the best I've ever touched, with no burrs, not one.
     대넬: 대표님, 영광입니다. 대표님 강판은 제가 만져 본 것 중에 최고예요. 거스러미가 하나도 없어요.
 
 038. PARK: You were a soldier? You stand like a soldier.
@@ -138,10 +138,10 @@
 041. SAM: Okay, please sit, and would you like coffee or tea? We have both, and the coffee machine works today, which is rare.
     샘: 자, 앉으세요. 커피나 차 드릴까요? 둘 다 있는데, 오늘은 드물게 커피 머신이 돌아가요.
 
-042. PARK: Tea, please. Mr. Kowalski, Minjun will speak the details, because my English is slow, but I will listen to everything.
+042. PARK: Tea, please. Mr. Kowalski, my English is slow, so Minjun will speak the details, but I will listen to everything.
     박 대표: 차로 주세요. 코왈스키 씨, 제 영어는 느려서 세부 사항은 민준이 말할 겁니다. 하지만 전부 듣겠습니다.
 
-043. MINJUN: Thank you, President Park. Sam, let me start with what we can offer, because Daesung can supply your stator and rotor stacks, up to two hundred thousand sets a year, starting in July.
+043. MINJUN: Thank you, President Park. Sam, let me start with what we can offer. Daesung can supply your stator and rotor stacks, up to two hundred thousand sets a year, starting in July.
     민준: 감사합니다, 대표님. 샘, 저희가 드릴 수 있는 것부터 말씀드릴게요. 대성은 7월부터 연간 최대 20만 세트의 스테이터와 로터 스택을 공급할 수 있습니다.
 
 044. SAM: At nine forty a set?
@@ -153,7 +153,7 @@
 046. GLORIA: That's very fair, and fairer than anything Haverford offered us.
     글로리아: 아주 공평하네요. 해버퍼드가 제안한 그 어떤 것보다 공평해요.
 
-047. MINJUN: But we need something from you too, because if we reserve this capacity for you, we can't use it for other customers, so we need a volume commitment.
+047. MINJUN: But we need something from you too. If we reserve this capacity for you, we can't use it for other customers, so we need a volume commitment.
     민준: 근데 저희도 그쪽에서 받아야 할 게 있어요. 이 생산 능력을 그쪽에 예약하면 다른 고객한테 쓸 수 없으니까 물량 약속이 필요합니다.
 
 048. GLORIA: How much of a commitment are we talking about?
@@ -162,13 +162,13 @@
 049. MINJUN: A minimum of one hundred thousand sets in the first year, and for the first order, a thirty percent deposit.
     민준: 첫해 최소 10만 세트요. 그리고 첫 주문에는 30퍼센트 계약금이요.
 
-050. GLORIA: Thirty percent? Minjun, honey, we don't even have the Haverford contract yet, so if I pay you a thirty percent deposit and Haverford walks away, I can't make payroll.
+050. GLORIA: Thirty percent? Minjun, honey, we don't even have the Haverford contract yet. If I pay you a thirty percent deposit and Haverford walks away, I can't make payroll.
     글로리아: 30퍼센트? 민준, 우린 아직 해버퍼드 계약도 없어요. 30퍼센트 계약금 내고 해버퍼드가 떠나 버리면 월급을 못 줘요.
 
-051. MINJUN: I understand, but a deposit is normal for a new customer, especially from far away, because it shows commitment.
+051. MINJUN: I understand, but a deposit is normal for a new customer, especially from far away. It shows commitment.
     민준: 이해합니다. 근데 새 고객, 특히 먼 곳의 고객한테 계약금은 보통이에요. 약속의 증거니까요.
 
-052. SAM: What if it was fifteen percent, so we show commitment and we stay alive?
+052. SAM: What if it was fifteen percent? We show commitment, and we stay alive.
     샘: 15퍼센트면 어때요? 약속도 보여 드리고, 저희도 살아남고요.
 
 053. PARK: That will be difficult.
@@ -177,7 +177,7 @@
 054. SAM: I understand, President Park.
     샘: 알겠습니다, 대표님.
 
-055. MINJUN: Let's put the deposit aside for a moment and come back to it, so what do you need from us, Sam?
+055. MINJUN: Let's put the deposit aside for a moment and come back to it. What do you need from us, Sam?
     민준: 계약금은 잠깐 미뤄 두고 나중에 다시 얘기하죠. 샘, 저희한테 뭐가 필요하세요?
 
 056. SAM: Two things, and the first one is important to me. Last week our American steel supplier told us that a competitor ordered steel using our exact specification, Wen's recipe, and we think someone took it from us.
@@ -186,10 +186,10 @@
 057. MINJUN: Took it? You mean someone stole it?
     민준: 가져갔다고요? 누가 훔쳤다는 뜻이에요?
 
-058. WEN: We don't know yet, but the exact geometry of our rotor and stator is our design, so if we send you the drawings, they can't go to anyone else, ever.
+058. WEN: We don't know yet. But the exact geometry of our rotor and stator is our design, and if we send you the drawings, they can't go to anyone else, ever.
     웬: 아직 몰라요. 근데 우리 로터랑 스테이터의 정확한 형상은 우리 설계예요. 도면을 보내 드리면 그건 절대 다른 누구한테도 가면 안 돼요.
 
-059. MINJUN: Of course, because we sign confidentiality agreements with every customer.
+059. MINJUN: Of course. We sign confidentiality agreements with every customer.
     민준: 물론이죠. 저희는 모든 고객과 비밀유지 계약을 맺어요.
 
 060. SAM: I need more than confidentiality. I need you to promise you won't make our shapes for anyone else, even if someone else asks for the same shape, and even if they pay more.
@@ -198,7 +198,7 @@
 061. PARK: Even if they pay more, you say?
     박 대표: 돈을 더 줘도요?
 
-062. SAM: Especially if they pay more, because somebody with very deep pockets is coming after us, and if they come to you, I need to know you'll say no.
+062. SAM: Especially if they pay more. Somebody with very deep pockets is coming after us, and if they come to you, I need to know you'll say no.
     샘: 특히 돈을 더 주면요. 아주 돈 많은 누군가가 우릴 쫓고 있어요. 그쪽이 대표님께 가면, 거절하실 거라는 걸 알아야 해요.
 
 063. PARK: Who is it, who is coming after you?
@@ -225,31 +225,31 @@
 070. SAM: Then you understand exactly what I mean.
     샘: 그럼 무슨 말인지 정확히 이해하시겠네요.
 
-071. PARK: I understand, okay, so your shapes are only for you, and I promise it in writing, and I will tell you if Calloway calls me.
+071. PARK: I understand. Okay, your shapes are only for you, and I promise it in writing. And I will tell you if Calloway calls me.
     박 대표: 이해합니다, 좋아요. 그쪽 모양은 그쪽만을 위해, 서면으로 약속합니다. 그리고 캘러웨이가 연락하면 말씀드리겠습니다.
 
-072. SAM: Thank you, because that means a lot.
+072. SAM: Thank you, that means a lot to me.
     샘: 감사합니다. 정말 큰 의미가 있어요.
 
 073. MINJUN: And what's the second thing, Sam?
     민준: 그리고 두 번째는요, 샘?
 
-074. SAM: The second thing is time, because five or six weeks by ship is a long way, and one storm, one port strike, or one new tariff and our line stops, so I'd love to have you closer.
+074. SAM: The second thing is time. Five or six weeks by ship is a long way, and one storm, one port strike, or one new tariff, and our line stops. I'd love to have you closer.
     샘: 두 번째는 시간이에요. 배로 5~6주면 먼 길이라, 폭풍 한 번, 항만 파업 한 번, 새 관세 하나면 우리 라인이 멈춰요. 더 가까이 계시면 좋겠어요.
 
-075. MINJUN: President Park has been thinking about the same thing, so shall I say it, President Park?
+075. MINJUN: President Park has been thinking about the same thing. Shall I say it, President Park?
     민준: 대표님도 같은 생각을 하고 계셨어요. 말씀드려도 될까요, 대표님?
 
-076. PARK: Not here, but tonight at dinner, because big things are for dinner.
+076. PARK: Not here. Tonight, at dinner, because big things are for dinner.
     박 대표: 여기선 말고, 오늘 밤 저녁에요. 큰 얘기는 저녁에 하는 거예요.
 
 077. GLORIA: Then let's talk about the small things here, like the deposit.
     글로리아: 그럼 작은 얘기는 여기서 하죠. 계약금 같은 거요.
 
-078. MINJUN: Gloria, can I explain our side? If Haverford walks away, Daesung has tools and capacity made only for your shape, and we cannot sell them to anyone else because we promised, so we carry risk too.
+078. MINJUN: Gloria, can I explain our side? If Haverford walks away, Daesung has tools and capacity made only for your shape. We cannot sell them to anyone else because we promised, so we carry risk too.
     민준: 글로리아, 저희 입장을 설명해도 될까요? 해버퍼드가 떠나면 대성은 그쪽 모양에만 맞춘 금형이랑 생산 능력을 갖고 있게 되는데, 약속했으니까 다른 누구한테도 못 팔아요. 그러니까 저희도 위험을 지는 거예요.
 
-079. GLORIA: That's a fair point, and I hadn't thought of it that way, because our promise makes your deposit more important.
+079. GLORIA: That's a fair point, and I hadn't thought of it that way. Our promise makes your deposit more important.
     글로리아: 일리 있네요, 그렇게는 생각 못 했어요. 우리 약속 때문에 그쪽 계약금이 더 중요해지는 거네요.
 
 080. SAM: So what if the deposit is tied to the Haverford contract, with fifteen percent when we sign the MOU and another fifteen when Haverford signs? If Haverford never signs, you keep the first fifteen.
@@ -258,7 +258,7 @@
 081. MINJUN: So the total is still thirty percent, but in two steps.
     민준: 그러니까 총액은 여전히 30퍼센트인데, 두 단계로요.
 
-082. SAM: Thirty percent in two steps, so you get your thirty, and we get to stay alive between the steps.
+082. SAM: Thirty percent in two steps. You get your thirty, and we get to stay alive between the steps.
     샘: 30퍼센트를 두 단계로요. 그쪽은 30을 다 받고, 저희는 그 사이에 살아남는 거죠.
 
 083. MINJUN: President Park? 대표님, 두 번에 나눠서 30퍼센트랍니다.
@@ -276,13 +276,13 @@
 087. GLORIA: Lord, I'm going to learn this language if it kills me.
     글로리아: 세상에. 죽는 한이 있어도 이 언어는 배워야겠네.
 
-088. PARK: Mr. Kowalski, you did not push, because when I said "difficult," you stopped, and then you found another road. This is good, and in Korea we say this is how you let someone keep face.
+088. PARK: Mr. Kowalski, you did not push. When I said "difficult," you stopped, and then you found another road. This is good. In Korea we say this is how you let someone keep face.
     박 대표: 코왈스키 씨, 밀어붙이지 않았어요. 제가 '어렵다'고 하니까 멈추고 다른 길을 찾았죠. 이게 좋은 거예요. 한국에선 이게 상대 체면을 지켜 주는 방법이라고 해요.
 
 089. SAM: Save face, we have that expression in English too. I had a good teacher, two good teachers, actually.
     샘: 체면을 지켜 준다, 영어에도 그런 표현이 있어요. 좋은 선생님이 있었거든요. 사실 두 분이요.
 
-090. PARK: Good, so tonight I meet your teachers, and your father too, I hope?
+090. PARK: Good. Tonight I meet your teachers, and your father too, I hope?
     박 대표: 좋아요. 오늘 밤 그 선생님들을 만나겠네요. 아버님도 오시길 바라요.
 
 091. MRS. CHOI: 어서 오세요! Welcome, welcome, President Park, it is an honor. Mr. Han told me you were coming, so I made your table special.
@@ -297,10 +297,10 @@
 094. SAM: Delphi? I worked at Delphi too until it closed, as a motor engineer.
     샘: 델파이요? 저도 델파이에서 문 닫을 때까지 모터 엔지니어로 일했어요.
 
-095. MRS. CHOI: Then you are family, so sit, sit, and I bring the food, because you don't order, I decide.
+095. MRS. CHOI: Then you are family. Sit, sit, and I bring the food. You don't order, I decide.
     최 사장: 그럼 식구네요. 앉으세요, 앉으세요. 음식은 제가 가져와요. 주문하는 거 아니에요, 제가 정해요.
 
-096. GLORIA: I like her, because she runs this place the way I run the money.
+096. GLORIA: I like her. She runs this place the way I run the money.
     글로리아: 저분 마음에 든다. 이 식당을 내가 돈 관리하듯이 운영하시네.
 
 097. STAN: Sorry I'm late, but I had to find a parking spot. In my day you could park anywhere in Dayton, and now there are lines everywhere.
@@ -309,46 +309,46 @@
 098. SAM: President Park, this is my father, Stan Kowalski.
     샘: 박 대표님, 저희 아버지 스탠 코왈스키예요.
 
-099. PARK: Mr. Kowalski, the father, I sent you something, so did you receive it?
+099. PARK: Mr. Kowalski, the father. I sent you something, and did you receive it?
     박 대표: 코왈스키 씨, 아버님. 뭘 하나 보내 드렸는데, 받으셨나요?
 
-100. STAN: The red ginseng? I did, and thank you, because it's on my mantel, next to my wife's picture. I haven't opened it, because it's too nice to open.
+100. STAN: The red ginseng? I did, and thank you. It's on my mantel, next to my wife's picture, and I haven't opened it, because it's too nice to open.
     스탠: 홍삼이요? 받았지요, 고맙습니다. 우리 집사람 사진 옆에, 벽난로 위에 놔뒀어요. 뜯기엔 너무 좋아서 안 뜯었어요.
 
-101. LILY: Earl called it, because he said you'd never open it.
+101. LILY: Earl called it. He said you'd never open it.
     릴리: 얼 아저씨가 맞혔어. 할아버지가 절대 안 뜯으실 거랬거든.
 
-102. PARK: Ha, no, no, you must open it, because it is for your health, so a little every morning, and you will live to a hundred.
+102. PARK: Ha, no, no, you must open it. It is for your health, so a little every morning, and you will live to a hundred.
     박 대표: 하! 아니, 아니요. 꼭 뜯으셔야 해요, 건강을 위한 거니까요. 매일 아침 조금씩 드시면 백 살까지 사실 거예요.
 
 103. STAN: A hundred? Then I'd have to watch the Bengals for twenty-three more years, and I don't know if I can take it.
     스탠: 백 살? 그럼 벵골스 경기를 23년이나 더 봐야 하잖아요. 그걸 견딜 수 있을지 모르겠네.
 
-104. MINJUN: Okay, before we eat, in Korea we always start with a toast, and Mrs. Choi brought soju, but, Lily, you have juice, so don't worry.
+104. MINJUN: Okay, before we eat, in Korea we always start with a toast. Mrs. Choi brought soju, but, Lily, you have juice, so don't worry.
     민준: 자, 한국에선 먹기 전에 늘 건배부터 해요. 최 사장님이 소주 가져오셨어요. 릴리는 주스니까 걱정 마세요.
 
 105. LILY: I know the rules, two hands and turn my head, even with juice.
     릴리: 규칙 알아요. 두 손, 고개 돌리기. 주스라도요.
 
-106. PARK: Very good. Mr. Kowalski, the older one, Stan, I will pour for you first, because you are older than me?
+106. PARK: Very good. Mr. Kowalski, the older one, Stan, I will pour for you first. You are older than me?
     박 대표: 아주 좋아요. 연장자 코왈스키 씨, 스탠, 제가 먼저 따라 드릴게요. 저보다 연세가 많으시죠?
 
 107. STAN: I'm seventy-seven.
     스탠: 일흔일곱이요.
 
-108. PARK: I am sixty-three, so you are my 형님, my big brother, and I pour for you.
+108. PARK: I am sixty-three, so you are my 형님, my big brother. I pour for you.
     박 대표: 저는 예순셋이에요. 그러니까 형님, 큰형님이시네요. 제가 따라 드릴게요.
 
-109. STAN: Big brother, huh? I've never been anybody's big brother, because I was the youngest of five.
+109. STAN: Big brother, huh? I've never been anybody's big brother. I was the youngest of five.
     스탠: 큰형님이라. 누구 형님이 돼 본 적이 없는데. 오 남매 중 막내였거든요.
 
-110. GLORIA: Sam, give me a pen, because I want to write down the names of all these dishes.
+110. GLORIA: Sam, give me a pen. I want to write down the names of all these dishes.
     글로리아: 샘, 펜 좀 줘. 이 음식 이름들 다 적어 놓고 싶어.
 
-111. LILY: Gloria, wait, not that one, because that's a red pen!
+111. LILY: Gloria, wait, not that one! That's a red pen!
     릴리: 글로리아, 잠깐만요, 그거 말고요! 그거 빨간 펜이에요!
 
-112. GLORIA: Oh Lord, I almost wrote President Park's name in red. Thank you, baby, because you just saved this whole deal.
+112. GLORIA: Oh Lord, I almost wrote President Park's name in red. Thank you, baby, you just saved this whole deal.
     글로리아: 세상에, 하마터면 박 대표님 이름을 빨간색으로 쓸 뻔했네. 고마워, 얘. 네가 이 거래 전체를 살렸다.
 
 113. PARK: Ha, the young lady knows everything! Okay, does everyone have a glass? In Korea we say "건배," which means "empty the glass," or we say "위하여," which means "for the sake of."
@@ -372,7 +372,7 @@
 119. MINJUN: That was perfect, 형님.
     민준: 완벽하셨어요, 형님.
 
-120. PARK: Stan, your son says you worked at a car plant for thirty-two years, and it closed, so what happened?
+120. PARK: Stan, your son says you worked at a car plant for thirty-two years, and it closed. What happened?
     박 대표: 스탠, 아드님 말로는 자동차 공장에서 32년 일하셨는데 문을 닫았다고요. 무슨 일이 있었어요?
 
 121. STAN: It was 2008, the financial crisis. They closed Moraine with a memo, four thousand people, and I found out on the radio before my boss told me.
@@ -384,7 +384,7 @@
 123. STAN: One page, and that's the part nobody understands, how small the paper is.
     스탠: 한 페이지. 아무도 이해 못 하는 게 그 부분이에요. 종이가 얼마나 작은지.
 
-124. PARK: Yes, and that is why I don't sell, and why your son doesn't sell, because we are the same.
+124. PARK: Yes, and that is why I don't sell, and why your son doesn't sell. We are the same.
     박 대표: 네. 그래서 전 안 팔고, 아드님도 안 파는 거예요. 우린 같아요.
 
 125. STAN: Then you're a good man, little brother. Here, it's my turn to pour, and it's two hands, right?
@@ -396,7 +396,7 @@
 127. SAM: I'm listening, President Park.
     샘: 듣고 있어요, 대표님.
 
-128. PARK: Ships are slow and tariffs change every month. Daesung sells to Korean car companies in America, and they are building in the South, in Georgia and Alabama, so we must be close to them, and someday we build a factory in America.
+128. PARK: Ships are slow, and tariffs change every month. Daesung sells to Korean car companies in America, and they are building in the South, in Georgia and Alabama. We must be close to them, so someday we build a factory in America.
     박 대표: 배는 느리고 관세는 매달 바뀌어요. 대성은 미국에 있는 한국 자동차 회사들한테 파는데, 그 회사들이 남부, 조지아랑 앨라배마에 공장을 짓고 있어요. 우린 가까이 있어야 하니까 언젠가 미국에 공장을 지을 겁니다.
 
 129. SAM: In America, for stamping?
@@ -408,19 +408,19 @@
 131. GLORIA: President Park, with respect, we can barely buy six winding machines.
     글로리아: 대표님, 외람된 말씀이지만, 저희는 권선기 여섯 대 사기도 벅차요.
 
-132. PARK: It is not money now, because Daesung brings the money and the machines, and Ferrox brings the design and the customers. Together we study it for one year, maybe two, in Georgia, maybe, or Ohio, and we will see.
+132. PARK: It is not money now. Daesung brings the money and the machines, and Ferrox brings the design and the customers. Together we study it for one year, maybe two, in Georgia, maybe, or Ohio. We will see.
     박 대표: 지금 돈 얘기가 아니에요. 대성이 돈이랑 기계를, 페록스는 설계랑 고객을 가져와요. 1년, 어쩌면 2년 같이 검토하는 거예요. 조지아일 수도, 오하이오일 수도 있고요. 두고 봅시다.
 
 133. SAM: That's a very big thing, President Park.
     샘: 그건 정말 큰 얘기네요, 대표님.
 
-134. PARK: Big things start small, so tonight only a handshake, and tomorrow a paper, not a contract, but a promise to keep talking.
+134. PARK: Big things start small. Tonight, only a handshake, and tomorrow a paper, not a contract, but a promise to keep talking.
     박 대표: 큰 일은 작게 시작해요. 오늘 밤엔 악수만, 내일은 종이 한 장. 계약서 말고, 계속 얘기하자는 약속이요.
 
 135. STAN: A handshake deal is how it used to work, so, Sam, shake the man's hand.
     스탠: 악수로 하는 약속이라, 옛날엔 다 그렇게 했지. 샘, 이분 손 잡아라.
 
-136. SAM: Good morning, everybody, and gather around Betsy. We have guests, so be on your best behavior, Earl.
+136. SAM: Good morning, everybody, gather around Betsy. We have guests, so be on your best behavior, Earl.
     샘: 다들 좋은 아침. 베치 앞으로 모여. 손님 계시니까 예의 바르게 해요, 얼.
 
 137. EARL: I'm always on my best behavior, and I even bowed to the press this morning, well, to Betsy, for practice.
@@ -435,13 +435,13 @@
 140. WEN: It says four things: Daesung supplies our steel stacks at a fixed price for eighteen months, Daesung never makes our shapes for anyone else, we pay the deposit in two steps, and together we study a factory in America.
     웬: 네 가지요. 대성이 18개월 동안 고정 가격으로 우리 강판 스택을 공급하고, 대성은 우리 모양을 절대 다른 누구한테도 만들어 주지 않고, 계약금은 두 단계로 내고, 같이 미국 공장을 검토한다.
 
-141. MINJUN: And one more thing, because if Daesung builds that factory, Ferrox gets the first chance to be the partner, which in English, I think, you call the right of first refusal.
+141. MINJUN: And one more thing. If Daesung builds that factory, Ferrox gets the first chance to be the partner, which in English, I think, you call the right of first refusal.
     민준: 그리고 하나 더요. 대성이 그 공장을 지으면 페록스가 파트너가 될 첫 번째 기회를 가져요. 영어로는 우선협상권이라고 하는 것 같아요.
 
 142. GLORIA: Right of first refusal means nobody else gets the deal unless we say no first, and I like that phrase.
     글로리아: 우선협상권은 우리가 먼저 거절하기 전엔 아무도 그 거래를 못 가져간다는 뜻이야. 그 표현 마음에 든다.
 
-143. PARK: It is a black pen, not red, because Lily checked.
+143. PARK: It is a black pen, not red. Lily checked.
     박 대표: 검은 펜이에요. 빨간색 아니에요, 릴리가 확인했어요.
 
 144. LILY: I checked it twice, actually.
@@ -459,7 +459,7 @@
 148. PARK: Let's see if it spins. 위하여!
     박 대표: 돌아가나 보자. 위하여!
 
-149. TYLER: Sam, sorry, sorry, because Gary just texted: "Engineers love the samples. Quietest motor we've ever tested. But we need to talk. Something came up. Call me before noon."
+149. TYLER: Sam, sorry, sorry, Gary just texted: "Engineers love the samples. Quietest motor we've ever tested. But we need to talk. Something came up. Call me before noon."
     타일러: 샘, 죄송해요, 죄송해요. 개리가 방금 문자 보냈어요. "엔지니어들이 샘플을 아주 좋아해요. 우리가 시험한 것 중에 제일 조용한 모터래요. 근데 얘기 좀 해야겠어요. 일이 좀 생겼어요. 정오 전에 전화 줘요."
 
 150. EARL: "Something came up." Kid, in forty years, nothing good ever came after "something came up."

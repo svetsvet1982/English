@@ -24,7 +24,7 @@
 003. EARL: Steel with a fifty percent tariff on it.
     얼: 50퍼센트 관세 붙은 강철이지.
 
-004. GLORIA: Don't start, Earl, because it's ten in the morning.
+004. GLORIA: Don't start, Earl, not at ten in the morning.
     글로리아: 시작하지 마, 얼. 아침 열 시야.
 
 005. DONNA: Hey, turn that up, Lou. Something's happening in Washington. They've got the little red banner on the screen.
@@ -39,7 +39,7 @@
 008. SAM: "The Court ruled that the emergency economic powers law does not give the President the power to impose tariffs. The tariffs imposed under that law are unlawful."
     샘: "법원은 비상경제권한법이 대통령에게 관세를 부과할 권한을 주지 않는다고 판결했습니다. 그 법에 근거해 부과된 관세는 위법입니다."
 
-009. DONNA: What does that mean in English, please, because I've got pie to cut?
+009. DONNA: What does that mean in English, please? I've got pie to cut.
     도나: 그게 알아듣게 말하면 무슨 뜻이야? 나 파이 잘라야 해.
 
 010. SAM: It means a lot of the tariffs from last year just got thrown out, maybe not all of them, but a lot of them.
@@ -54,13 +54,13 @@
 013. GLORIA: Wait, are you telling me we might get money back?
     글로리아: 잠깐. 우리 돈 돌려받을 수도 있다는 거야?
 
-014. SAM: I don't know, maybe, because that's what Judy said on Tuesday in the truck next to a soybean bin, when she told us to get every customs record ready since the Court could rule any day.
+014. SAM: I don't know, maybe. That's what Judy said on Tuesday, in the truck next to a soybean bin. She told us to get every customs record ready, since the Court could rule any day.
     샘: 몰라요, 어쩌면요. 화요일에 대두 저장통 옆 트럭에서 주디가 법원이 언제든 판결할 수 있으니 통관 기록 전부 준비하라고 했잖아요.
 
-015. GLORIA: Sam, in twenty-five years I have never once seen Washington give anybody money back, because they give you a form, and the form gives you a headache.
+015. GLORIA: Sam, in twenty-five years I have never once seen Washington give anybody money back. They give you a form, and the form gives you a headache.
     글로리아: 샘, 25년 동안 워싱턴이 누구한테 돈 돌려주는 거 한 번도 못 봤어. 서류를 주고, 그 서류가 두통을 주지.
 
-016. EARL: Hold on, because I liked some of those tariffs, since somebody finally said enough to the cheap stuff, and now the Court says no?
+016. EARL: Hold on, I liked some of those tariffs. Somebody finally said enough to the cheap stuff, and now the Court says no?
     얼: 잠깐만. 난 그 관세 몇 개는 좋았어. 드디어 누가 싸구려 물건한테 그만하라고 했는데, 이제 법원이 안 된대?
 
 017. SAM: The Court didn't say tariffs are bad, Earl. It said this law was the wrong tool. Congress has the power to tax. The President used an emergency law instead.
@@ -69,10 +69,10 @@
 018. EARL: So they can do it again, with a different law.
     얼: 그러니까 다른 법으로 또 할 수 있다는 거네.
 
-019. SAM: Probably, and the steel tariffs are under a different law, so those stay.
+019. SAM: Probably. The steel tariffs are under a different law, so those stay.
     샘: 아마도요. 철강 관세는 다른 법이라서 그건 남아요.
 
-020. EARL: Good, because I like the steel ones.
+020. EARL: Good, I like the steel ones.
     얼: 좋아. 철강 관세는 마음에 들거든.
 
 021. GLORIA: Of course you do. You're not paying for the Korean laminations.
@@ -93,16 +93,16 @@
 026. DONNA: Nobody takes oatmeal in a box, Gloria.
     도나: 오트밀 포장해 가는 사람은 없어, 글로리아.
 
-027. GLORIA: Today somebody does. Judy, it's Gloria, and did you see? I know, I know you said Friday, so don't gloat.
+027. GLORIA: Today somebody does. Judy? It's Gloria, did you see? I know, I know you said Friday, so don't gloat.
     글로리아: 오늘은 있어. 주디? 글로리아야, 봤어? 알아, 금요일이라고 했던 거 아니까 잘난 척하지 마.
 
-028. EARL: Did she call it, because Judy said Friday, didn't she?
+028. EARL: Did she call it? Judy said Friday, didn't she?
     얼: 주디가 맞힌 거야? 주디가 금요일이라고 했잖아, 그치?
 
-029. SAM: She said "maybe Friday," so yes, she called it, because Judy's been doing customs for thirty years and she calls everything.
+029. SAM: She said "maybe Friday," so yes, she called it. Judy's been doing customs for thirty years, and she calls everything.
     샘: "어쩌면 금요일"이라고 했죠. 그러니까 맞혔네요. 주디는 관세 일만 30년이라 다 맞혀요.
 
-030. GLORIA: She's driving up from Cincinnati for two o'clock, and she says, quote, "Bring every customs entry since last February, and don't let Sam promise anybody anything."
+030. GLORIA: She's driving up from Cincinnati and she'll be here at two. She says, quote, "Bring every customs entry since last February, and don't let Sam promise anybody anything."
     글로리아: 두 시까지 신시내티에서 차로 온대. 그대로 옮기면, "작년 2월 이후 통관 기록 전부 가져오고, 샘이 아무한테도 아무것도 약속 못 하게 해."
 
 031. SAM: Why does everybody say that about me?
@@ -135,7 +135,7 @@
 040. EARL: Now we've got a pie war, so Lord help us.
     얼: 이제 파이 전쟁이 났네. 주여, 도와주소서.
 
-041. JUDY: Okay, Gloria, you look like you didn't sleep, and Mr. Kowalski, you look like you're about to promise something, so sit down, both of you.
+041. JUDY: Okay. Gloria, you look like you didn't sleep, and Mr. Kowalski, you look like you're about to promise something. Sit down, both of you.
     주디: 자, 글로리아는 잠 못 잔 얼굴이고, 코왈스키 씨는 뭔가 약속하려는 얼굴이네요. 둘 다 앉아요.
 
 042. BEN: Can everybody hear me? I'm in my car in a parking lot in Columbus. My other client is having a much worse day than you.
@@ -159,19 +159,19 @@
 048. TYLER: Which tariffs are gone, exactly?
     타일러: 정확히 어떤 관세가 없어진 거예요?
 
-049. JUDY: The reciprocal tariffs on almost every country from April are gone, and so are the fentanyl tariffs on China, Canada, and Mexico, because they were all under that law.
+049. JUDY: The reciprocal tariffs from April, the ones on almost every country, are gone. So are the fentanyl tariffs on China, Canada, and Mexico, since they were all under that law.
     주디: 4월부터 거의 모든 나라에 매긴 상호관세요. 그리고 중국·캐나다·멕시코에 매긴 펜타닐 관세도요. 다 그 법에 근거한 거라서요.
 
 050. GLORIA: And which ones stay?
     글로리아: 그럼 남는 건요?
 
-051. JUDY: Steel, aluminum, cars and car parts, and copper were done under a different law, Section 232, for national security, so they're untouched, and the old China tariffs from the first trade war stay too.
+051. JUDY: Steel, aluminum, cars and car parts, and copper were done under a different law, Section 232, for national security. Those are untouched, and the old China tariffs from the first trade war stay too.
     주디: 철강, 알루미늄, 자동차와 부품, 구리는 국가 안보를 이유로 한 다른 법, 232조로 한 거라 손도 안 댔어요. 1차 무역 전쟁 때의 옛날 중국 관세도 남고요.
 
 052. EARL: So the Korean steel tariff stays.
     얼: 그러니까 한국 철강 관세는 남는다는 거네.
 
-053. JUDY: Your laminations count as steel at fifty percent, so that stays, and I'm sorry, Gloria.
+053. JUDY: Your laminations count as steel, at fifty percent, so that stays. I'm sorry, Gloria.
     주디: 라미네이션은 철강으로 쳐서 50퍼센트 그대로 남아요. 미안해, 글로리아.
 
 054. GLORIA: The biggest one is still standing. Of course it is.
@@ -180,7 +180,7 @@
 055. WEN: Then what did we pay under IEEPA?
     웬: 그럼 우리가 IEEPA로 낸 건 뭐예요?
 
-056. JUDY: That's why I'm here, because there are your Japanese ferrite magnets, at ten percent from April and fifteen from August after Japan made its deal, plus the strontium powder from Spain and some test equipment from Germany.
+056. JUDY: That's why I'm here. Your Japanese ferrite magnets paid ten percent from April and fifteen from August, after Japan made its deal. Then there's the strontium powder from Spain and some test equipment from Germany.
     주디: 그래서 내가 온 거예요. 일본산 페라이트 자석이 4월부터 10퍼센트, 일본이 협상한 8월부터 15퍼센트였고, 스페인산 스트론튬 분말이랑 독일산 시험 장비 몇 개가 있어요.
 
 057. TYLER: What about the strontium we get from Mexico?
@@ -198,7 +198,7 @@
 061. SAM: We got them from the distributor in Cincinnati, the ones in the blue boxes.
     샘: 신시내티 유통업체요. 파란 상자에 든 거.
 
-062. JUDY: Then you're not the importer of record, they are, because the refund goes to whoever paid the duty at the border, and if they raised your price because of tariffs, that's between you and them.
+062. JUDY: Then you're not the importer of record, they are. The refund goes to whoever paid the duty at the border. If they raised your price because of tariffs, that's between you and them.
     주디: 그럼 기록상 수입자는 당신이 아니라 그쪽이에요. 환급은 국경에서 관세를 낸 사람한테 가니까요. 그쪽이 관세 때문에 값을 올렸다면 그건 당신네랑 그쪽 사이 문제고요.
 
 063. WEN: What does "importer of record" mean in plain English?
@@ -207,10 +207,10 @@
 064. JUDY: It's the name on the customs paper, whoever signed for the box at the border, and that's the only name Washington knows.
     주디: 세관 서류에 적힌 이름, 국경에서 상자 받는다고 서명한 사람이요. 워싱턴은 그 이름만 알아요.
 
-065. GLORIA: Okay, so how do we get our money back, and do we just fill out a form?
+065. GLORIA: Okay, so how do we get our money back? Do we just fill out a form?
     글로리아: 좋아. 그럼 돈은 어떻게 돌려받아? 서류 작성하면 돼?
 
-066. JUDY: Here's the problem: the Court said the tariffs were unlawful, but it did not say how refunds work, so that goes back to the trade court in New York and to Customs.
+066. JUDY: Here's the problem. The Court said the tariffs were unlawful, but it did not say how refunds work. That goes back to the trade court in New York and to Customs.
     주디: 그게 문제예요. 법원은 관세가 위법이라고만 했지 환급 방법은 말 안 했어요. 그건 뉴욕 국제무역법원이랑 세관으로 다시 넘어가요.
 
 067. BEN: There are already more than a thousand lawsuits at the trade court from companies that sued early to protect their place in line.
@@ -219,13 +219,13 @@
 068. GLORIA: A thousand lawsuits, and we didn't file a single one.
     글로리아: 소송 천 건인데, 우린 하나도 안 냈네.
 
-069. BEN: You were a little busy with the Army, Gloria, and with Calloway, and you can't sue everybody at once, which even I can't do.
+069. BEN: You were a little busy with the Army, Gloria, and with Calloway. You can't sue everybody at once, and even I can't do that.
     벤: 너네 육군 일이랑 캘러웨이 일로 좀 바빴잖아, 글로리아. 모든 사람을 한꺼번에 고소할 순 없어. 나도 못 해.
 
 070. SAM: Do we need to sue now?
     샘: 지금 소송해야 해요?
 
-071. BEN: Maybe, depending on what Customs does in the next few weeks, because if they set up a refund process, you file a claim, but if they drag their feet, you might have to sue to get your own money back.
+071. BEN: Maybe. It depends on what Customs does in the next few weeks. If they set up a refund process, you file a claim, but if they drag their feet, you might have to sue to get your own money back.
     벤: 어쩌면. 앞으로 몇 주 동안 세관이 뭘 하느냐에 달렸어. 환급 절차를 만들면 청구하면 되는데, 질질 끌면 네 돈 돌려받으려고 소송해야 할 수도 있지.
 
 072. TYLER: We sue the government to get our own money back, which is quite a sentence.
@@ -237,7 +237,7 @@
 074. EARL: Liquidated, like a store going out of business?
     얼: 정산? 문 닫는 가게 떨이처럼?
 
-075. JUDY: It's a different meaning, because in customs, liquidation is the day Customs closes the books on a shipment, usually about a year after it arrives, and after that the duty is final unless you protest.
+075. JUDY: It's a different meaning. In customs, liquidation is the day Customs closes the books on a shipment, usually about a year after it arrives. After that, the duty is final unless you protest.
     주디: 다른 뜻이에요. 세관에서 정산은 화물이 도착하고 보통 1년쯤 뒤에 세관이 장부를 닫는 날이에요. 그다음엔 이의를 제기하지 않으면 관세가 확정돼요.
 
 076. EARL: A protest, you mean with signs?
@@ -270,16 +270,16 @@
 085. JUDY: In theory, yes, but in practice the administration has other tools under different laws, and I'd be surprised if we got through the weekend without something new.
     주디: 이론적으로는요. 하지만 실제로는 행정부한테 다른 법이라는 다른 도구가 있어서, 이번 주말을 새 소식 없이 넘기면 놀랄 것 같아요.
 
-086. BEN: She's right, because today is not the end, it's halftime.
+086. BEN: She's right. Today is not the end, it's halftime.
     벤: 주디 말이 맞아. 오늘은 끝이 아니라 하프타임이야.
 
-087. WEN: This is the part I find exhausting, not the tariff but the changing, because a tariff we can plan for, but a rule that changes every three months we can't.
+087. WEN: This is the part I find exhausting, and it's not the tariff, it's the changing. A tariff we can plan for, but a rule that changes every three months we can't.
     웬: 제가 지치는 건 관세가 아니라 변하는 거예요. 관세는 대비할 수 있지만, 석 달마다 바뀌는 규칙은 대비 못 해요.
 
 088. TYLER: Some of our customers liked the tariffs, Wen, like Gary's people, who said the tariffs made American motors look cheap.
     타일러: 우리 고객 중에 관세 좋아한 데도 있어요, 박사님. 개리네 사람들은 관세 덕분에 미국 모터가 싸 보였대요.
 
-089. WEN: I know, and I'm not saying tariffs are wrong, I'm saying certainty has value. Physics doesn't negotiate, and policy shouldn't change every quarter.
+089. WEN: I know, and I'm not saying tariffs are wrong. I'm saying certainty has value. Physics doesn't negotiate, and policy shouldn't change every quarter.
     웬: 알아요. 관세가 틀렸다는 게 아니라 확실성에도 가치가 있다는 거예요. 물리학은 협상 안 해요. 정책이 분기마다 바뀌면 안 되죠.
 
 090. EARL: Both of you are right. That's the problem with this whole country right now.
@@ -321,10 +321,10 @@
 102. GLORIA: You're saying it with your eyes, and I can see you spending it on fans.
     글로리아: 눈으로 말하고 있잖아. 팬에다 쓰는 게 보여.
 
-103. JUDY: Gloria's right to be careful, because the refund might take months or longer, and some people say a year, and the government could fight parts of it.
+103. JUDY: Gloria's right to be careful. The refund might take months, or even longer, and some people say a year. The government could also fight parts of it.
     주디: 글로리아가 조심하는 게 맞아요. 환급은 몇 달, 아니 더 걸릴 수도 있어요. 1년이라는 사람도 있고, 정부가 일부를 두고 다툴 수도 있고요.
 
-104. SAM: Six hundred thousand is about six weeks of runway, Gloria, which could pay for the second line without touching the loan, or a fan motor program, or a cushion for the summer.
+104. SAM: Six hundred thousand is about six weeks of runway, Gloria. It could pay for the second line without touching the loan, or start a fan motor program, or give us a cushion for the summer.
     샘: 60만 달러면 런웨이 6주쯤이에요, 글로리아. 대출 안 건드리고 2호 라인 비용을 낼 수도 있고, 팬 모터 사업을 할 수도 있고, 여름 대비 쿠션이 될 수도 있어요.
 
 105. GLORIA: It's six weeks of maybe, so I'll write it on the board in pencil.
@@ -333,7 +333,7 @@
 106. SAM: Why would you write it in pencil?
     샘: 왜 연필로요?
 
-107. GLORIA: It's like the R and D refund last summer, because hope gets pencil and cash gets marker.
+107. GLORIA: It's like the R and D refund last summer. Hope gets pencil, and cash gets marker.
     글로리아: 작년 여름 R&D 환급처럼. 희망은 연필이고, 현금은 마커야.
 
 108. JUDY: One more question, and it's a hard one. Did you pass any of these tariffs on to customers?
@@ -369,7 +369,7 @@
 118. SAM: Is it the wrong sentence?
     샘: 틀린 문장이에요?
 
-119. GLORIA: No, it's the right sentence, and that's what makes me mad, because you always pick the expensive right sentence.
+119. GLORIA: No, it's the right sentence, and that's what makes me mad. You always pick the expensive right sentence.
     글로리아: 아니, 맞는 문장이야. 그래서 화가 나는 거야. 넌 늘 비싼 정답을 고르거든.
 
 120. JUDY: Gloria, you've got a good one here.
@@ -381,22 +381,22 @@
 122. SAM: And do we tell Nina now, or when the money comes?
     샘: 니나한테 지금 말해요, 아니면 돈 들어오면요?
 
-123. GLORIA: When it comes and not before, because promises before cash are how companies die, so you can promise her with a check in your hand.
+123. GLORIA: When it comes, and not before. Promises before cash are how companies die, so make the promise with a check in your hand.
     글로리아: 들어오면. 그 전엔 안 돼. 현금 전에 하는 약속 때문에 회사가 죽는 거야. 수표 손에 들고 약속해.
 
-124. SAM: Deal, and when the check comes, I'll call Nina myself and tell her why, because she answered our calls when we were nine weeks from zero, and she never asked for a discount.
+124. SAM: Deal. When the check comes, I'll call Nina myself and tell her why. She answered our calls when we were nine weeks from zero, and she never asked for a discount.
     샘: 좋아요. 수표 오면 제가 직접 니나한테 전화해서 이유도 말할게요. 우리 런웨이가 9주밖에 안 남았을 때 전화를 받아 줬고, 할인 한 번 안 해 달라고 했으니까요.
 
-125. JUDY: I'll start the protests Monday, and keep the news on this weekend, because I mean it.
+125. JUDY: I'll start the protests Monday. And keep the news on this weekend, I mean it.
     주디: 월요일에 이의 제기 시작할게요. 그리고 이번 주말엔 뉴스 켜 놔요. 진짜로요.
 
 126. PATTY: Sam, you're still here at seven thirty, while second shift is on break?
     패티: 샘, 일곱 시 반인데 아직 계세요? 2교대 쉬는 시간이에요.
 
-127. SAM: Gloria's still here too, because she's guarding a number.
+127. SAM: Gloria's still here too. She's guarding a number.
     샘: 글로리아도 아직 있어요. 숫자 하나를 지키고 계세요.
 
-128. DARNELL: Turn on the TV, because my wife texted me that there's something new.
+128. DARNELL: Turn on the TV. My wife just texted me that there's something new.
     대넬: TV 켜 봐요. 아내가 새 소식 있다고 문자했어요.
 
 129. EARL: Already, after nine hours? The ink on the Court's paper isn't even dry yet, and they've already got a new one printed.
@@ -417,10 +417,10 @@
 134. PATTY: It says a hundred and fifty days. After that, Congress has to vote to keep it.
     패티: 150일이래요. 그다음엔 의회가 투표해야 유지된대요.
 
-135. SAM: A hundred and fifty days takes us to late July, right in the middle of everything we're trying to plan, because spring planting, the drone line, and the Army's next order all land before July.
+135. SAM: A hundred and fifty days takes us to late July, right in the middle of everything we're trying to plan. Spring planting, the drone line, and the Army's next order all land before July.
     샘: 150일이면 7월 말이네요. 봄 파종, 드론 라인, 육군의 다음 주문까지, 우리가 계획하려는 게 다 7월 전에 떨어지는데 딱 그 한가운데예요.
 
-136. DARNELL: Honestly, I'm okay with it, because I think we need tariffs, and I just want them done the right way, so they stick.
+136. DARNELL: Honestly? I'm okay with it, because I think we need tariffs. I just want them done the right way, so they stick.
     대넬: 솔직히 전 괜찮아요. 관세는 필요하다고 보거든요. 그냥 제대로 해서 오래갔으면 좋겠어요.
 
 137. PATTY: And I want my groceries to stop going up. My sister's on a fixed income. Every new tariff is a new number at the checkout.
@@ -438,7 +438,7 @@
 141. WEN: For a hundred and fifty days, and there's already talk of fifteen.
     웬: 150일 동안은요. 그리고 벌써 15퍼센트 얘기가 나와요.
 
-142. SAM: So the Court maybe gave us money back, and Washington definitely gave us a new tariff, and for now, the new one is cheaper than the old one.
+142. SAM: So the Court maybe gave us money back, and Washington definitely gave us a new tariff. And for now, the new one is cheaper than the old one.
     샘: 그러니까 법원은 어쩌면 돈을 돌려줬고, 워싱턴은 확실히 새 관세를 줬고, 지금은 새 게 옛날 것보다 싸다는 거네.
 
 143. DARNELL: So are we back to square one?

@@ -15,13 +15,13 @@
 
 ## 대본
 
-001. TONY: You're late, Dayton, because I said six-thirty and it's six-thirty-four, and in my business four minutes is a lost customer.
+001. TONY: You're late, Dayton. I said six-thirty and it's six-thirty-four, and in my business four minutes is a lost customer.
     토니: 늦었어, 데이턴. 여섯 시 반이라고 했는데 지금 여섯 시 삼십사 분이야. 우리 바닥에선 4분이면 손님 하나 날아가.
 
-002. SAM: There was a truck on its side on 70, so blame the highway, not me. Good morning, Tony.
+002. SAM: There was a truck on its side on 70, so blame the highway. Good morning, Tony.
     샘: 70번 도로에 트럭이 하나 넘어져 있었어요. 그러니까 제 탓 말고 고속도로 탓 해요. 좋은 아침이에요, 토니.
 
-003. TONY: Morning, get in, and grab the coffee in the cup holder, but don't touch the one with the lid, because that's Nicky's and he bites.
+003. TONY: Morning, get in. Coffee's in the cup holder, but don't touch the one with the lid. That's Nicky's, and he bites.
     토니: 그래, 좋은 아침. 타. 커피는 컵홀더에 있는데, 뚜껑 있는 건 손대지 마. 니키 거고, 걔 물어.
 
 004. NICKY: I don't bite, I promise. Hi, Mr. Kowalski, I'm Nicky, which basically means I'm the nephew.
@@ -39,7 +39,7 @@
 008. SAM: Who told you that?
     샘: 누가 그래요?
 
-009. TONY: Reggie told me, Darnell's uncle, because we've had the same contractor breakfast for fifteen years, and he talks about you like you invented pancakes.
+009. TONY: Reggie, Darnell's uncle. We've had the same contractor breakfast for fifteen years, and he talks about you like you invented pancakes.
     토니: 레지가 그러더라. 대넬 삼촌 말이야. 15년째 같은 시공업자 조찬 모임을 하는데, 너네 얘기를 하면 팬케이크라도 발명한 줄 알겠더라.
 
 010. SAM: So what spins today, Tony?
@@ -57,10 +57,10 @@
 014. TONY: It was forty-one degrees last night, and she's seventy-two years old. In Ohio, May is a rumor.
     토니: 어젯밤 기온이 41도(화씨)였고, 그분은 일흔둘이야. 오하이오에서 5월은 소문일 뿐이지.
 
-015. SAM: Fair enough. Tony, on the phone last week you said nobody's buying heat pumps, so walk me through what actually happened.
+015. SAM: Fair enough. Tony, on the phone last week you said nobody's buying heat pumps. Walk me through what actually happened.
     샘: 그렇네요. 토니, 지난주 전화로 히트펌프 사는 사람이 없다고 했잖아요. 실제로 무슨 일이 있었는지 차근차근 얘기해 줘요.
 
-016. TONY: What happened is December. Last fall everybody and their cousin wanted a heat pump before the tax credit ran out, so we did four installs a day, Saturdays too, and I missed my own anniversary.
+016. TONY: What happened is December. Last fall everybody and their cousin wanted a heat pump before the tax credit ran out. We did four installs a day, Saturdays too, and I missed my own anniversary.
     토니: 12월이 무슨 일이냐면 말이야. 작년 가을엔 세액공제 끝나기 전에 너도나도 히트펌프를 원했어. 그래서 하루에 설치를 네 건씩 했지, 토요일까지. 내 결혼기념일도 놓쳤어.
 
 017. NICKY: Aunt Carla still brings it up every single Sunday.
@@ -72,22 +72,22 @@
 019. SAM: Was that just because the credit ended?
     샘: 그게 그냥 공제가 끝나서였어요?
 
-020. TONY: Partly, because two thousand bucks off is a big deal when the job is fourteen grand. But it's more than that, since everybody who was going to buy bought early, and they pulled the whole year into November.
+020. TONY: Partly. Two thousand bucks off is a big deal when the job is fourteen grand. But it's more than that, because everybody who was going to buy bought early. They pulled the whole year into November.
     토니: 일부는 그렇지. 공사가 만 4천인데 2천 깎아 주면 큰 거거든. 근데 그게 다가 아니야. 살 사람은 다 일찍 샀어. 1년 치 수요를 11월로 다 당겨 버린 거지.
 
 021. SAM: So this spring, the people left are the ones who didn't want one.
     샘: 그럼 올봄에 남은 사람들은 원래 안 사려던 사람들이네요.
 
-022. TONY: Or couldn't afford one, because prices are up and the new refrigerant made everything more expensive.
+022. TONY: Or couldn't afford one. Prices are up, and the new refrigerant made everything more expensive.
     토니: 아니면 살 돈이 없거나. 가격이 올랐고, 새 냉매 때문에 전부 더 비싸졌거든.
 
 023. SAM: What does the new refrigerant have to do with it?
     샘: 새 냉매가 그거랑 무슨 상관이에요?
 
-024. TONY: It has everything to do with it, so ask Nicky, because he just passed the test on it.
+024. TONY: It has everything to do with it. Ask Nicky, he just passed the test on it.
     토니: 다 상관있지. 니키한테 물어봐. 얘가 그 시험 막 붙었거든.
 
-025. NICKY: Okay, so the old refrigerant, R-410A, is being phased down because it's bad for the climate, and new systems use what we call A2L refrigerants. They're better for the climate, but they're a little bit flammable, not like gasoline, just mildly.
+025. NICKY: Okay, so the old refrigerant, R-410A, is being phased down because it's bad for the climate. New systems use what we call A2L refrigerants. They're better for the climate, but they're a little bit flammable, not like gasoline, just mildly.
     니키: 네, 그러니까 예전 냉매인 R-410A는 기후에 나빠서 단계적으로 줄이고 있고, 새 시스템은 A2L 냉매라는 걸 써요. 기후엔 더 좋은데 약간 불이 붙어요. 휘발유 같은 건 아니고, 약하게요.
 
 026. SAM: Mildly flammable is a great phrase to put in a brochure.
@@ -105,19 +105,19 @@
 030. TONY: Bingo, you can be taught, just like Reggie said you could.
     토니: 빙고. 배울 줄 아네. 레지 말대로야.
 
-031. SAM: But you didn't call me to sell heat pumps, Tony, because I make motors and I don't make the box.
+031. SAM: But you didn't call me to sell heat pumps, Tony. I make motors, and I don't make the box.
     샘: 근데 히트펌프 팔라고 저한테 전화한 건 아니잖아요, 토니. 전 모터 만들지 상자는 안 만들어요.
 
-032. TONY: I know what you make, and every furnace and heat pump in this city has a motor or three, so guess what dies first.
+032. TONY: I know what you make. Every furnace and heat pump in this city has a motor or three, so guess what dies first.
     토니: 너 뭐 만드는지 알아. 이 도시 퍼니스랑 히트펌프엔 전부 모터가 하나에서 세 개씩 들어 있어. 뭐가 제일 먼저 죽는지 맞혀 봐.
 
 033. SAM: The motor.
     샘: 모터요.
 
-034. TONY: The motor, and the fancy ones especially, the variable-speed electronic ones that are very efficient and very smart. They're smart like a teenager, though, because they work great until they don't, and then they won't talk to you.
+034. TONY: The motor, and the fancy ones especially, the variable-speed electronic ones that are very efficient and very smart. They're smart like a teenager, though. They work great until they don't, and then they won't talk to you.
     토니: 모터지. 특히 고급 모터. 가변속에 전자식, 효율 좋고 아주 똑똑한 놈들. 근데 십 대처럼 똑똑해. 잘 되다가 안 되면 말을 안 해.
 
-035. NICKY: That's actually true, because we had one last week that just sat there and blinked at us.
+035. NICKY: That's actually true. We had one last week that just sat there and blinked at us.
     니키: 그건 진짜예요. 지난주에 그냥 우리 보고 깜빡이기만 하는 놈이 있었어요.
 
 036. TONY: It threw a code nobody can read without the factory laptop. Okay, here we are, and Sam, you carry the drop cloth.
@@ -126,7 +126,7 @@
 037. SAM: Is that one of your rules?
     샘: 그것도 규칙이에요?
 
-038. TONY: It's my father's rule, since 1974: when you walk into somebody's home, you protect their floor before you touch their furnace, because people remember the floor.
+038. TONY: It's my father's rule, since 1974. When you walk into somebody's home, you protect their floor before you touch their furnace, because people remember the floor.
     토니: 우리 아버지 규칙이야, 1974년부터. 남의 집에 들어가면 퍼니스 만지기 전에 바닥부터 보호해. 사람들은 바닥을 기억하거든.
 
 039. SAM: Got it, floor first.
@@ -135,13 +135,13 @@
 040. TONY: Floor first, always. Mrs. Pike, it's Tony, and I brought a guy from Dayton, but don't worry, he's harmless!
     토니: 언제나 바닥 먼저. 파이크 부인! 토니예요! 데이턴에서 사람 하나 데려왔는데, 걱정 마세요, 해 안 끼쳐요!
 
-041. DOLORES: Anthony, thank God you're here, come in, because it's colder in here than outside and I slept in my coat.
+041. DOLORES: Anthony, thank God you're here, come in. It's colder in here than outside, and I slept in my coat.
     돌로레스: 앤서니, 와 줘서 다행이다. 들어와. 여기가 바깥보다 추워서 코트 입고 잤어.
 
-042. TONY: Then it's no hotel for you tonight, because what you need is a blower motor. Is the furnace still down in the basement?
+042. TONY: No hotel for you tonight, then. What you need is a blower motor. Is the furnace still down in the basement?
     토니: 그럼 오늘 밤엔 호텔 안 가셔도 돼요. 필요한 건 송풍 모터예요. 퍼니스는 아직 지하실에 있죠?
 
-043. DOLORES: Where else would it be? Watch the third step, because my husband was going to fix it in 1998.
+043. DOLORES: Where else would it be? Watch the third step, though. My husband was going to fix it in 1998.
     돌로레스: 거기 말고 어디 있겠어? 세 번째 계단 조심해. 우리 남편이 1998년에 고친다고 했던 거야.
 
 044. SAM: I have a step like that at my lawyer's office.
@@ -150,7 +150,7 @@
 045. DOLORES: Then your lawyer must have married my husband. So who's this one, Anthony?
     돌로레스: 그럼 그 변호사가 우리 남편이랑 결혼했나 보네. 그래서 이 사람은 누구야, 앤서니?
 
-046. TONY: This is Sam, who makes motors in Dayton, so whatever you do, don't let him explain magnets.
+046. TONY: This is Sam, who makes motors in Dayton. Whatever you do, don't let him explain magnets.
     토니: 샘이에요. 데이턴에서 모터 만들어요. 무슨 일이 있어도 자석 설명은 시키지 마세요.
 
 047. DOLORES: My husband worked at the Western Electric plant, and he could talk about relays all through dinner, which I actually miss.
@@ -159,19 +159,19 @@
 048. NICKY: Uncle Tony, it's the blower. The motor's warm, the capacitor's fine, the control board says it's sending power. The motor's just not answering.
     니키: 삼촌, 송풍기 맞아요. 모터는 따뜻하고, 콘덴서는 멀쩡하고, 제어 기판은 전원 보내고 있다고 나와요. 모터가 그냥 대답을 안 해요.
 
-049. TONY: It's a variable-speed unit, twelve years old and still the original equipment, so of course it is.
+049. TONY: It's a variable-speed unit, twelve years old, still the original equipment. Of course it is.
     토니: 가변속에, 12년 됐고, 순정 부품 그대로네. 당연히 그렇겠지.
 
-050. SAM: Can I look? It's the control module on the back of the motor that's dead, not the motor itself, and I can smell it, because that's a burned capacitor on the circuit board, not in the windings.
+050. SAM: Can I look? It's the control module on the back of the motor that's dead, not the motor itself. I can smell it. That's a burned capacitor on the circuit board, not in the windings.
     샘: 제가 봐도 돼요? 죽은 건 모터 자체가 아니라 뒤에 붙은 제어 모듈이에요. 냄새로 알아요. 권선이 아니라 회로 기판의 콘덴서가 탄 거예요.
 
 051. TONY: Wait, you can really smell the difference?
     토니: 잠깐, 그 차이를 진짜 냄새로 알아?
 
-052. SAM: I've spent twenty years burning things, so I know the windings smell like hot varnish while the board smells like a birthday candle.
+052. SAM: I've spent twenty years burning things. The windings smell like hot varnish, and the board smells like a birthday candle.
     샘: 20년 동안 이것저것 태워 봤거든요. 권선은 뜨거운 바니시 냄새가 나고, 기판은 생일 초 냄새가 나요.
 
-053. DOLORES: So can you fix it today, Anthony? Tell me the truth, because I'm too old for nice lies.
+053. DOLORES: So can you fix it today, Anthony? Tell me the truth, I'm too old for nice lies.
     돌로레스: 그래서 오늘 고칠 수 있어, 앤서니? 솔직히 말해. 난 착한 거짓말 듣기엔 너무 늙었어.
 
 054. TONY: The truth is that the right part is a factory motor programmed for your exact furnace, the distributor says it's backordered three weeks, and it's nine hundred and forty dollars before I even touch it.
@@ -186,16 +186,16 @@
 057. DOLORES: And I'm supposed to spend three weeks in a coat?
     돌로레스: 그럼 난 3주 동안 코트 입고 살라고?
 
-058. TONY: No, not in a coat. Nicky, get the universal motor off the truck, the old-fashioned kind with one speed and no brains, because it'll fit with an adapter.
+058. TONY: No, not in a coat. Nicky, get the universal motor off the truck, the old-fashioned kind with one speed and no brains. It'll fit with an adapter.
     토니: 아뇨, 코트 안 입으셔도 돼요. 니키, 트럭에서 범용 모터 가져와. 옛날식, 속도 하나에 머리 없는 놈. 어댑터 끼우면 맞을 거야.
 
 059. SAM: That one's going to burn more electricity, though.
     샘: 근데 그건 전기를 더 먹을 텐데요.
 
-060. TONY: It'll use about a third more, and it's louder, but it's here today, which means she sleeps without a coat.
+060. TONY: It'll use about a third more, and it's louder. But it's here today, and she sleeps without a coat.
     토니: 3분의 1쯤 더 먹고 더 시끄럽지. 근데 오늘 바로 있잖아. 그럼 이분이 코트 안 입고 주무시는 거야.
 
-061. DOLORES: I'll take the loud one, because my husband was loud and I'm used to it.
+061. DOLORES: I'll take the loud one. My husband was loud, so I'm used to it.
     돌로레스: 시끄러운 걸로 할게. 우리 남편도 시끄러웠어서 익숙해.
 
 062. TONY: You got it, and when the good motor comes in, if you want it, I'll swap it at cost with no second service call charge.
@@ -204,7 +204,7 @@
 063. DOLORES: Anthony, you're going to go broke being this nice.
     돌로레스: 앤서니, 그렇게 착하게 굴다간 망해.
 
-064. TONY: My father spent thirty years going broke being nice, so you could say it's a family business.
+064. TONY: My father spent thirty years going broke being nice. You could say it's a family business.
     토니: 우리 아버지가 30년 동안 착하게 굴다 망했어요. 가업인 셈이죠.
 
 065. SAM: Tony, how often do you see this kind of thing?
@@ -216,19 +216,19 @@
 067. SAM: And you can't program them yourself?
     샘: 그리고 직접 프로그래밍은 못 하고요?
 
-068. TONY: Not without the factory password, and only the distributor gets that, so I wait.
+068. TONY: Not without the factory password, and only the distributor gets that. So I wait.
     토니: 공장 비밀번호 없인 안 돼. 그건 유통업체만 받아. 그러니까 기다리는 거지.
 
 069. SAM: Huh. I spent the whole winter in Iowa listening to a farmer say exactly that about his tractor.
     샘: 흠. 겨울 내내 아이오와에서 농부가 자기 트랙터 얘기로 똑같은 말 하는 걸 들었어요.
 
-070. TONY: Then you already know what I'm going to ask you, so let's go, because the Kerrs are waiting in Hilliard.
+070. TONY: Then you already know what I'm going to ask you. Let's go, the Kerrs are waiting in Hilliard.
     토니: 그럼 내가 뭘 물을지 이미 알겠네. 가자. 힐리어드에서 커 부부가 기다려.
 
-071. JASON: Hey, Tony, thanks for coming. Amy's at work, so you've got me, and I'm the one who doesn't understand any of this.
+071. JASON: Hey, Tony, thanks for coming. Amy's at work, so you've got me, the one who doesn't understand any of this.
     제이슨: 안녕하세요, 토니. 와 주셔서 감사해요. 에이미는 출근해서 저만 있는데, 이런 거 하나도 모르는 쪽이 저예요.
 
-072. TONY: That's the best kind of customer. Jason, this is Sam, who's riding along today, so okay, show me the patient.
+072. TONY: That's the best kind of customer. Jason, this is Sam, he's riding along today. Okay, show me the patient.
     토니: 그게 제일 좋은 손님이야. 제이슨, 이쪽은 샘. 오늘 같이 다녀. 자, 환자 보여 줘.
 
 073. JASON: It's that one, which came with the house, and the inspector said it was "near end of life." Last summer it froze up twice, and our electric bill was four hundred dollars in August.
@@ -237,7 +237,7 @@
 074. TONY: It's nineteen years old with the old refrigerant, and see that oily spot on the copper? That's a leak, and it's been leaking for a while.
     토니: 19년 됐고 옛날 냉매네. 구리관에 기름 자국 보여? 그게 누수야. 꽤 오래 새고 있었어.
 
-075. JASON: So what are my options? Be honest with me, because we had a baby in February and the budget is basically diapers.
+075. JASON: So what are my options? Be honest with me. We had a baby in February, and the budget is basically diapers.
     제이슨: 그럼 제 선택지는 뭐예요? 솔직하게 말해 주세요. 2월에 아기가 태어나서 예산이 거의 기저귀 값이에요.
 
 076. TONY: Congratulations. Okay, there are three options, and the first is that I find the leak, fix it, and refill it, which is maybe twelve hundred because old refrigerant is expensive now, and it buys you a summer or two.
@@ -255,16 +255,16 @@
 080. TONY: Your neighbor got two thousand back from the government, and that's gone now.
     토니: 옆집은 정부한테서 2천 돌려받았잖아. 그건 이제 없어.
 
-081. JASON: Yeah, so what if you just top it off and skip the leak, and we deal with it next year?
+081. JASON: Yeah, so what if you just top it off and skip the leak? We could deal with it next year.
     제이슨: 네, 그럼 그냥 채우기만 하고 누수는 넘어가면요? 내년에 처리하고요.
 
-082. TONY: I could, and a lot of guys would take your money and fill it up, and then it leaks out again by August, and you call somebody else and say Russo ripped you off.
+082. TONY: I could, and a lot of guys would. They take your money, fill it up, and it leaks out again by August. Then you call somebody else and say Russo ripped you off.
     토니: 할 수는 있지. 그렇게 하는 사람도 많아. 돈 받고 채워 주면 8월쯤 또 다 새. 그럼 딴 데 전화해서 루소가 바가지 씌웠다고 하겠지.
 
 083. JASON: I really wouldn't say that, Tony.
     제이슨: 전 진짜 그런 말 안 할 거예요, 토니.
 
-084. TONY: You would, because everybody does. I don't cut corners, Jason, and it's not because I'm a saint, it's because word of mouth is the only advertising I can afford, so you tell your neighbors and your neighbors tell theirs.
+084. TONY: You would, everybody does. I don't cut corners, Jason, and it's not because I'm a saint. Word of mouth is the only advertising I can afford. You tell your neighbors, and your neighbors tell theirs.
     토니: 할 거야. 다들 그래. 난 대충 안 해, 제이슨. 내가 성인이라서가 아니라, 입소문이 내가 감당할 수 있는 유일한 광고라서 그래. 네가 이웃한테 말하고, 그 이웃이 또 이웃한테 말하는 거지.
 
 085. SAM: Can I ask something, Jason? Do you know why it froze up last summer?
@@ -276,7 +276,7 @@
 087. SAM: Tired. That's not an engineering word, but it's an honest one. When the indoor fan slows down, not enough air moves across the cold coil, and the coil turns into an ice cube.
     샘: 지쳤다. 공학 용어는 아니지만 정직한 말이네요. 실내 팬이 느려지면 차가운 코일 위로 공기가 충분히 안 지나가고, 그럼 코일이 얼음 덩어리가 돼요.
 
-088. TONY: He's right, because a bad fan gives you a frozen coil and a high bill, so half your four hundred dollars was probably that tired fan.
+088. TONY: He's right. A bad fan gives you a frozen coil and a high bill, and half your four hundred dollars was probably that tired fan.
     토니: 맞는 말이야. 팬이 나쁘면 코일이 얼고 요금이 올라. 400달러 중 절반은 아마 그 지친 팬 때문이었을 거야.
 
 089. JASON: So a better fan would actually mean a lower bill?
@@ -285,7 +285,7 @@
 090. SAM: Some, though it's not magic. A good variable-speed fan motor uses a lot less power than an old one-speed motor, and that's the whole reason they put the smart ones in.
     샘: 좀 줄어요. 마법은 아니지만요. 좋은 가변속 팬 모터는 옛날 단속 모터보다 전기를 훨씬 덜 먹어요. 그래서 똑똑한 모터를 넣는 거예요.
 
-091. JASON: Okay, now I'm confused, so is the smart motor good or bad?
+091. JASON: Okay, now I'm confused. Is the smart motor good or bad?
     제이슨: 아, 이제 헷갈려요. 똑똑한 모터는 좋은 거예요, 나쁜 거예요?
 
 092. TONY: It's good when it works and expensive when it doesn't. Jason, let me fix the leak properly for twelve hundred, then you save for a heat pump, and I'll give you this year's price next spring, in writing.
@@ -294,10 +294,10 @@
 093. JASON: You'd really do that, and put it in writing?
     제이슨: 진짜 그렇게 해 주세요? 서면으로요?
 
-094. TONY: My father put everything in writing and then forgot where he put it, so I use my phone.
+094. TONY: My father put everything in writing and then forgot where he put it. I use my phone.
     토니: 우리 아버지는 다 서면으로 남겼는데 어디 뒀는지 까먹었어. 그래서 난 휴대폰 써.
 
-095. JASON: Deal, and thank you, seriously, because Amy said you'd try to sell us the big one.
+095. JASON: Deal, and thank you, seriously. Amy said you'd try to sell us the big one.
     제이슨: 좋아요. 진짜 고마워요. 에이미는 토니가 비싼 거 팔려고 할 거라고 했거든요.
 
 096. TONY: The big one doesn't fit your diaper budget. Nicky, get the nitrogen, and Sam, hold the flashlight.
@@ -318,10 +318,10 @@
 101. SAM: A nurse? My wife is a nurse, Tony.
     샘: 간호사요? 제 아내가 간호사예요, 토니.
 
-102. TONY: Then you'll understand why I'm mad. Look at this outdoor fan motor with no brand on it and a sticker that says "high efficiency," and then look inside.
+102. TONY: Then you'll understand why I'm mad. Look at this outdoor fan motor with no brand on it and a sticker that says "high efficiency." Now look inside.
     토니: 그럼 내가 왜 화났는지 알겠네. 이 실외 팬 모터 봐. 상표도 없고 스티커엔 "고효율"이라고 써 있어. 이제 안을 봐.
 
-103. SAM: The bearings are gone and the magnet's cracked, so that's not a motor, that's a costume.
+103. SAM: The bearings are gone and the magnet's cracked. That's not a motor, that's a costume.
     샘: 베어링 나갔고 자석은 금 갔네요. 이건 모터가 아니에요. 코스프레지.
 
 104. TONY: And the warranty on it is ten years, on paper.
@@ -330,16 +330,16 @@
 105. SAM: This is the same thing that happened to us with bike motors in 2024, the same costume in a different box.
     샘: 2024년에 자전거 모터로 우리가 겪은 거랑 똑같네요. 같은 코스프레, 다른 상자.
 
-106. TONY: Now you see it. I'm hungry, so do you like Italian beef?
+106. TONY: Now you see it. I'm hungry, though. You like Italian beef?
     토니: 이제 보이지? 배고프다. 이탈리안 비프 좋아해?
 
 107. SAM: I'm from Dayton, so I like everything with gravy on it.
     샘: 전 데이턴 사람이라 그레이비 얹은 건 다 좋아해요.
 
-108. TONY: Good man. This place has been here since my father's time, so sit in the back where it's quiet.
+108. TONY: Good man. This place has been here since my father's time. Sit in the back where it's quiet.
     토니: 좋아. 여긴 우리 아버지 때부터 있던 데야. 조용한 안쪽에 앉아.
 
-109. SAM: Can I ask something personal? Reggie said you've had offers, so why not sell?
+109. SAM: Can I ask something personal? Reggie said you've had offers. Why not sell?
     샘: 개인적인 거 하나 물어봐도 돼요? 레지 말로는 제안도 받았다던데, 왜 안 팔아요?
 
 110. TONY: I've had three offers in two years from private equity guys in nice shoes. They buy ten small contractors, put one logo on the trucks, and tell the techs to sell the big unit every single time.
@@ -357,16 +357,16 @@
 114. TONY: Good. My father started this with one truck and a toolbox, and he used to say, "Anthony, I fix what the brochure promised." The brochure says "comfort," and somebody has to actually deliver comfort.
     토니: 잘했어. 우리 아버지는 트럭 한 대랑 공구함 하나로 시작했어. 늘 그러셨지. "앤서니, 난 안내 책자가 약속한 걸 고친다." 책자엔 "쾌적함"이라고 써 있잖아. 누군가는 그 쾌적함을 실제로 갖다줘야지.
 
-115. SAM: "I fix what the brochure promised" is good, so can I steal that?
+115. SAM: "I fix what the brochure promised." That's good. Can I steal that?
     샘: "안내 책자가 약속한 걸 고친다." 좋네요. 그거 훔쳐 가도 돼요?
 
-116. TONY: Everybody does. Okay, let's talk business, and Nicky, eat your sandwich and listen, because you're going to own this company one day, God help us.
+116. TONY: Everybody does. Okay, let's talk business. Nicky, eat your sandwich and listen, because you're going to own this company one day, God help us.
     토니: 다들 훔쳐 가. 자, 일 얘기 하자. 니키, 샌드위치 먹으면서 들어. 언젠가 네가 이 회사 주인 될 거야, 하느님 맙소사.
 
 117. NICKY: I'm listening, and I'm also eating.
     니키: 듣고 있어요. 먹으면서요.
 
-118. TONY: Here's my problem, Sam. Sales of new systems are dead until the market wakes up, and that's fine, because I lived through 2009, but repairs never die, since old systems break every day.
+118. TONY: Here's my problem, Sam. Sales of new systems are dead until the market wakes up, and that's fine, I lived through 2009. But repairs never die, because old systems break every day.
     토니: 내 문제는 이거야, 샘. 시장이 깨어날 때까진 신규 시스템 판매는 죽었어. 괜찮아, 2009년도 겪어 봤으니까. 근데 수리는 안 죽어. 오래된 시스템은 매일 고장 나거든.
 
 119. SAM: So this year, fixing beats selling.
@@ -378,13 +378,13 @@
 121. SAM: And I'm guessing they set the price.
     샘: 그리고 거기서 가격을 정하겠네요.
 
-122. TONY: They set the price and the wait, so the big contractors go first and guys like me get "three weeks."
+122. TONY: They set the price and the wait. The big contractors go first, and guys like me get "three weeks."
     토니: 가격도 정하고 대기 기간도 정해. 큰 업체가 먼저고, 나 같은 사람은 "3주"야.
 
 123. NICKY: Uncle Tony calls their sales guy "the toll booth" behind his back.
     니키: 삼촌은 거기 영업사원을 뒤에서 "톨게이트"라고 불러요.
 
-124. TONY: That's Carl, a nice guy who plays a lot of golf, but that's not important right now, so here's what I want.
+124. TONY: That's Carl, a nice guy who plays a lot of golf. That's not important right now. Here's what I want.
     토니: 칼이야. 착한 놈이고 골프 많이 쳐. 근데 그건 지금 중요한 게 아니고, 내가 원하는 건 이거야.
 
 125. SAM: Go ahead, I'm listening.
@@ -405,13 +405,13 @@
 130. TONY: Then you're my guy. Give me half the price of the factory motor and stuff that doesn't die in eleven months, and I'll buy five hundred this year and tell every guy at that breakfast.
     토니: 그럼 네가 내 사람이야. 공장 모터 반값에, 11개월 만에 안 죽는 물건. 그거 해 주면 올해 500개 사고, 그 조찬 모임 사람들한테 다 말할게.
 
-131. SAM: Five hundred isn't a lot of motors for us, Tony, because we ship that in a morning for one customer.
+131. SAM: Five hundred isn't a lot of motors for us, Tony. We ship that in a morning for one customer.
     샘: 500개는 우리한텐 많은 게 아니에요, 토니. 고객 한 곳에 아침나절이면 그만큼 출하해요.
 
-132. TONY: It's five hundred from me, and then there's Reggie, the guy in Toledo, the two brothers in Akron, and the lady in Cincinnati with nineteen trucks, because that breakfast has sixty contractors, which means sixty mouths.
+132. TONY: It's five hundred from me. Then there's Reggie, the guy in Toledo, the two brothers in Akron, and the lady in Cincinnati with nineteen trucks. That breakfast has sixty contractors, which means sixty mouths.
     토니: 나한테서 500개야. 그다음 레지, 톨레도 놈, 애크런 형제 둘, 트럭 열아홉 대 가진 신시내티 아줌마. 그 조찬 모임에 업체가 예순 개야. 입이 예순 개라고.
 
-133. SAM: That's word of mouth with a motor in it, so give me a second, because I want to call my CTO.
+133. SAM: That's word of mouth with a motor in it. Give me a second, I want to call my CTO.
     샘: 모터 달린 입소문이네요. 잠깐만요. 우리 CTO한테 전화 좀 할게요.
 
 134. WEN: Sam, you're on speaker in the lab, and Earl is here eating my crackers.
@@ -420,7 +420,7 @@
 135. SAM: Wen, quick question: how hard is a variable-speed replacement furnace blower motor with open programming by phone that fits most of the common furnaces?
     샘: 웬, 짧게 물어볼게요. 흔한 퍼니스 대부분에 맞고, 휴대폰으로 공개 프로그래밍 되는 가변속 교체용 송풍 모터, 얼마나 어려워요?
 
-136. WEN: The motor is easy, because we already have a pump motor in that size range. The hard part is the mounting, since every furnace company uses a slightly different bracket on purpose.
+136. WEN: The motor is easy, since we already have a pump motor in that size range. The hard part is the mounting. Every furnace company uses a slightly different bracket, on purpose.
     웬: 모터는 쉬워요. 그 크기대 펌프 모터가 이미 있으니까요. 어려운 건 장착부예요. 퍼니스 회사마다 일부러 브래킷을 조금씩 다르게 만들거든요.
 
 137. TONY: On purpose, you hear that? She gets it.
@@ -435,13 +435,13 @@
 140. WEN: A prototype that fits the five most common brackets would take three weeks, or four with Governor tuned for air instead of water, and I'll need a dead furnace to test it in.
     웬: 제일 흔한 브래킷 다섯 개에 맞는 시제품이면 3주요. 거버너를 물 대신 공기에 맞추려면 4주고요. 테스트할 고장 난 퍼니스가 하나 필요해요.
 
-141. TONY: Lady, I have a garage full of dead furnaces, so I'll bring you six.
+141. TONY: Lady, I have a garage full of dead furnaces. I'll bring you six.
     토니: 아가씨, 우리 차고에 죽은 퍼니스가 한가득이야. 여섯 대 갖다줄게.
 
 142. WEN: Don't call me lady, call me Wen, and bring seven.
     웬: 아가씨라고 부르지 마세요. 웬이라고 하세요. 그리고 일곱 대 가져오세요.
 
-143. EARL: Sam, it's Earl, and tell him Loretta and I put a heat pump in last December, because it's the best thing we ever bought.
+143. EARL: Sam, it's Earl. Tell him Loretta and I put a heat pump in last December, and it's the best thing we ever bought.
     얼: 샘, 나 얼이야. 그 사람한테 말해 줘, 로레타랑 나 작년 12월에 히트펌프 달았다고. 우리가 산 것 중에 최고야.
 
 144. TONY: December? You're the guys who ruined my anniversary!
@@ -462,7 +462,7 @@
 149. NICKY: "Had"?
     니키: "했었다"고요?
 
-150. TONY: Had. They just switched all forty to gas furnaces and cheap ACs, because "without the credit, buyers won't pay for it," so forty jobs are gone. Sam, do you still think five hundred motors is small?
+150. TONY: Had. They just switched all forty to gas furnaces and cheap ACs. "Without the credit, buyers won't pay for it." That's forty jobs, gone. Sam, do you still think five hundred motors is small?
     토니: 맡겼었지. 방금 40건 전부 가스 퍼니스랑 싼 에어컨으로 바꿨대. "공제 없으면 구매자가 그 돈 안 낸다"고. 일감 40건이 날아갔어. 샘, 아직도 모터 500개가 적다고 생각해?
 
 ---
