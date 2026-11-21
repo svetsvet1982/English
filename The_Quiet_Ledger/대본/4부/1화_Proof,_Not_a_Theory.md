@@ -426,8 +426,8 @@
 137. NINA: Declan. Your phone just lit up.
     니나: 데클런. 휴대폰 불 들어왔어요.
 
-138. DECLAN: It's him. "Still on for the tenth? Six a.m. The river's low and the browns are rising. Just us. H."
-    데클런: 그 사람이야. "10일 그대로지? 새벽 여섯 시. 강물은 낮고 브라운 송어가 올라오고 있다. 우리 둘만. H."
+138. DECLAN: It's him. "Still on for the tenth? Friday night or Saturday dawn, your choice. The river's low and the browns are rising. Just us. H."
+    데클런: 그 사람이야. "10일 그대로지? 금요일 밤이든 토요일 새벽이든 네가 정해라. 강물은 낮고 브라운 송어가 올라오고 있다. 우리 둘만. H."
 
 139. TESS: Tell him yes.
     테스: 간다고 해.
