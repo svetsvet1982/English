@@ -33,8 +33,8 @@
 006. GALVÁN: Yo traigo mala cara; usted, la camisa de ayer. Encontramos el carro de la señora Villaseñor en una lateral de Constituyentes, con la puerta abierta.
     갈반: 저는 얼굴이 안 좋고, 당신은 어제 셔츠 그대로군요. 비야세뇨르 씨 차를 콘스티투옌테스 측도에서 찾았습니다. 문이 열린 채로요.
 
-007. ÁLVARO: ¿Y ella?
-    알바로: 그 사람은?
+007. ÁLVARO: ¿Y ella? Dime que por lo menos hay alguna señal de ella.
+    알바로: 그 사람은? 적어도 흔적이라도 있다고 말해 줘.
 
 008. GALVÁN: Ni ella, ni su bolsa, ni su computadora. Solo una zapatilla en el asiento del conductor.
     갈반: 본인도, 가방도, 노트북도 없었습니다. 운전석에 구두 한 짝만 남아 있었어요.
@@ -66,11 +66,11 @@
 017. ÁLVARO: Pues limpia. Empieza por decirme quién se la ha llevado.
     알바로: 그럼 치워. 누가 데려갔는지부터 말해 봐.
 
-018. GALVÁN: No lo sé.
-    갈반: 모릅니다.
+018. GALVÁN: No lo sé, señor Medina, y créame que me encantaría saberlo.
+    갈반: 모릅니다, 메디나 씨. 저도 정말 알고 싶습니다.
 
-019. ÁLVARO: Héctor.
-    알바로: 엑토르.
+019. ÁLVARO: Héctor. Mírame a la cara y repítemelo, a ver si te lo crees tú.
+    알바로: 엑토르. 내 얼굴 보고 다시 말해 봐. 너 스스로도 믿기나 보게.
 
 020. GALVÁN: Le digo que no lo sé. Puede ser gente de Tres Lunas, de Michoacán, o alguien que solo quería una computadora.
     갈반: 모른다니까요. 트레스 루나스 쪽일 수도, 미초아칸 쪽일 수도, 그냥 노트북이 탐났던 놈일 수도 있어요.
@@ -78,8 +78,8 @@
 021. ÁLVARO: Espera. Está sonando el móvil de Renata. Me está llamando a mí.
     알바로: 잠깐. 레나타 번호로 전화가 와. 나한테 걸고 있어.
 
-022. GALVÁN: Ponga el altavoz. Y no diga su nombre.
-    갈반: 스피커로 돌리세요. 그리고 본명은 말하지 마세요.
+022. GALVÁN: Ponga el altavoz, y no diga su nombre verdadero por nada del mundo.
+    갈반: 스피커로 돌리세요. 그리고 무슨 일이 있어도 본명은 말하지 마세요.
 
 023. GUARDAESPALDAS: ¿Señor Robles? Buenos días. Le hablo de parte del licenciado.
     경호원: 로블레스 씨? 좋은 아침입니다. 선생님 대신 연락드립니다.
@@ -90,8 +90,8 @@
 025. GUARDAESPALDAS: La señorita está bien. Desayunó chilaquiles y durmió mejor que usted. El licenciado lo invita a comer mañana en Cuernavaca, a las dos.
     경호원: 아가씨는 무사합니다. 아침으로 칠라킬레스 드셨고, 손님보다 잘 주무셨어요. 선생님께서 내일 2시, 쿠에르나바카로 점심 초대를 하십니다.
 
-026. ÁLVARO: ¿Y si no voy?
-    알바로: 안 가면?
+026. ÁLVARO: ¿Y si no voy? ¿Qué pasa si decido no presentarme a esa comida?
+    알바로: 안 가면? 내가 그 점심에 안 나타나기로 하면 어떻게 되는데?
 
 027. GUARDAESPALDAS: Entonces la señorita se quedará con nosotros una temporada, y al licenciado no le gustan las visitas largas. Venga solo, sin teléfono y sin su amigo de la otra CNI. Le mandamos la ubicación.
     경호원: 그럼 아가씨가 저희랑 한동안 지내셔야죠. 그런데 선생님은 오래 머무는 손님을 별로 안 좋아하십니다. 혼자 오세요. 전화기도, 다른 CNI 친구분도 빼고요. 위치는 보내 드리겠습니다.
@@ -102,8 +102,8 @@
 029. GUARDAESPALDAS: Mañana, señor. Puntual, por favor. El licenciado es profesor; le molesta mucho que la gente llegue tarde.
     경호원: 내일 하세요. 시간 꼭 지켜 주시고요. 선생님은 교수 출신이라 사람들이 늦는 걸 아주 싫어하십니다.
 
-030. GALVÁN: Ha colgado.
-    갈반: 끊었네요.
+030. GALVÁN: Ha colgado. Y apostaría a que ese teléfono ya está otra vez apagado.
+    갈반: 끊었네요. 장담컨대 그 전화, 벌써 다시 꺼져 있을 겁니다.
 
 031. ÁLVARO: Licenciado. Profesor. Cuernavaca. ¿Me lo vas a decir tú o se lo pregunto a Iker?
     알바로: 선생. 교수. 쿠에르나바카. 네가 말해 줄래, 아니면 이케르한테 물어볼까?
@@ -135,11 +135,11 @@
 040. GALVÁN: Ochoa tiene amigos en la fiscalía y, si me apura, en mi propia oficina. Si mando a diez hombres, cinco le avisan.
     갈반: 오초아는 검찰에도, 따지고 보면 제 사무실에도 친구가 있어요. 열 명을 보내면 다섯은 그 사람한테 귀띔합니다.
 
-041. ÁLVARO: Entonces voy solo. Como ha dicho él.
-    알바로: 그럼 혼자 갈게. 그쪽 말대로.
+041. ÁLVARO: Entonces voy solo, como ha dicho él. No me deja otra opción.
+    알바로: 그럼 혼자 갈게. 그쪽 말대로. 다른 선택지를 안 주잖아.
 
-042. GALVÁN: Llévese esto, al menos.
-    갈반: 이거라도 가져가세요.
+042. GALVÁN: Llévese esto, al menos. Está limpia y nadie sabrá de dónde ha salido.
+    갈반: 이거라도 가져가세요. 깨끗한 총이라 어디서 나온 건지 아무도 모를 겁니다.
 
 043. ÁLVARO: Guárdate la pistola, Héctor. Si entro armado, salgo sin pistola, sin Renata y sin dientes.
     알바로: 총은 넣어 둬, 엑토르. 무장하고 들어가면 총도 없이, 레나타도 없이, 이빨도 없이 나오게 될 거야.
@@ -147,8 +147,8 @@
 044. GALVÁN: Como quiera. Lo esperaré en la caseta de Tlalpan hasta las seis. Si a las seis no me ha llamado, voy a buscarlo, con permiso o sin él.
     갈반: 마음대로 하세요. 틀랄판 톨게이트에서 6시까지 기다리겠습니다. 6시까지 전화 없으면 찾으러 갈 겁니다. 허가가 있든 없든.
 
-045. ÁLVARO: Creía que no te gustaba trabajar sin permiso.
-    알바로: 너 허가 없이 일하는 거 싫어하는 줄 알았는데.
+045. ÁLVARO: Creía que no te gustaba trabajar sin permiso, Héctor. Me sorprendes.
+    알바로: 너 허가 없이 일하는 거 싫어하는 줄 알았는데, 엑토르. 의외네.
 
 046. GALVÁN: No me gusta. Pero me gusta todavía menos tener que explicarle a su gobierno por qué le devolvemos a un espía en una caja.
     갈반: 싫습니다. 그래도 당신네 정부에 스파이를 왜 관에 넣어 돌려보내는지 설명하는 건 더 싫거든요.
@@ -156,8 +156,8 @@
 047. IKER: ¿Se lo has contado a Arrieta? Dime la verdad, Gato.
     이케르: 아리에타 국장한테 말했어요? 솔직히 말해요, 가토.
 
-048. ÁLVARO: No.
-    알바로: 아니.
+048. ÁLVARO: No, no se lo he contado, y tú tampoco se lo vas a contar.
+    알바로: 아니, 말 안 했어. 그리고 너도 말 안 할 거고.
 
 049. IKER: Gato, por favor. Vas a comer con el contable de un cártel, solo y sin móvil, en un país que no es el tuyo.
     이케르: 가토, 제발요. 남의 나라에서, 휴대폰도 없이, 혼자서, 카르텔 회계사랑 밥 먹으러 가는 거잖아요.
@@ -174,8 +174,8 @@
 053. IKER: Te lo digo en serio. He leído la tesis doctoral de Ochoa, que está colgada en la web de la UNAM. ¿Sabes de qué va?
     이케르: 진지하게 하는 말이에요. 오초아 박사 논문 읽었어요. UNAM 사이트에 올라와 있더라고요. 무슨 내용인지 알아요?
 
-054. ÁLVARO: Sorpréndeme.
-    알바로: 놀라게 해 봐.
+054. ÁLVARO: Sorpréndeme, anda, que hoy ya nada me puede sorprender.
+    알바로: 놀라게 해 봐. 오늘은 이제 뭘 들어도 안 놀랄 테니까.
 
 055. IKER: "Mercados ilegales y racionalidad económica: el caso de las rutas de contrabando." Trescientas páginas defendiendo que un cártel funciona igual que una multinacional. Y lo peor es que está muy bien escrita.
     이케르: "불법 시장과 경제적 합리성: 밀수 루트의 사례." 카르텔이 다국적 기업이랑 똑같이 돌아간다는 주장으로 300페이지예요. 제일 끔찍한 건, 진짜 잘 썼다는 거예요.
@@ -198,14 +198,14 @@
 061. ÁLVARO: Curvas, montaña y un camión de aguacates delante de mí. Me lo tomo como una señal.
     알바로: 커브, 산, 그리고 내 앞엔 아보카도 트럭. 이걸 징조로 받아들일게.
 
-062. IKER: ¿Una señal de qué?
-    이케르: 무슨 징조요?
+062. IKER: ¿Una señal de qué? No me asustes, que ya bastante tengo con mirar el GPS.
+    이케르: 무슨 징조요? 겁주지 마요. GPS 보고 있는 것만으로도 충분히 무서워요.
 
 063. ÁLVARO: De que el universo tiene sentido del humor. Te dejo, que voy a apagar el móvil antes de llegar. Si no te llamo esta noche…
     알바로: 우주에도 유머 감각이 있다는 징조. 끊는다. 도착 전에 휴대폰 꺼야 해. 오늘 밤에 전화 안 하면…
 
-064. IKER: Me llamas. Punto.
-    이케르: 하게 될 거예요. 끝.
+064. IKER: Me llamas. Punto. Y no hay más que hablar, Gato.
+    이케르: 하게 될 거예요. 끝. 더 할 말 없어요, 가토.
 
 065. GUARDAESPALDAS: Bienvenido a Cuernavaca, señor Robles. Llega cinco minutos antes. Al licenciado le va a encantar.
     경호원: 쿠에르나바카에 오신 걸 환영합니다, 로블레스 씨. 5분 일찍 오셨네요. 선생님께서 아주 좋아하시겠습니다.
@@ -237,8 +237,8 @@
 074. OCHOA: Todo es un negocio, señor Robles. Se lo dije veinte años a mis alumnos, y ninguno me creyó hasta su primera hipoteca.
     오초아: 모든 게 사업입니다, 로블레스 씨. 20년 동안 학생들한테 그렇게 말했는데, 다들 첫 주택 대출을 받기 전까진 안 믿더군요.
 
-075. ÁLVARO: Agua.
-    알바로: 물요.
+075. ÁLVARO: Agua, gracias. Hoy prefiero tener la cabeza muy clara, licenciado.
+    알바로: 물 주세요. 오늘은 정신이 아주 맑은 게 좋겠네요, 선생.
 
 076. OCHOA: Agua. Muy bien. Es usted un hombre prudente. ¿Sabe usted dónde está sentado?
     오초아: 물. 좋습니다. 신중한 분이시군요. 지금 어디 앉아 계신지 아십니까?
@@ -273,14 +273,14 @@
 086. OCHOA: No, claro que no. Las facturas son reales, las naves son falsas y el dinero llegó a donde tenía que llegar. Pero fíjese en un detalle que a los periodistas siempre se les escapa: ¿quién diseñó el camino?
     오초아: 물론 아니죠. 송장은 진짜고, 창고는 가짜고, 돈은 가야 할 곳에 도착했습니다. 그런데 기자들이 늘 놓치는 부분을 한번 보세요. 그 길은 누가 설계했을까요?
 
-087. ÁLVARO: Dígamelo usted.
-    알바로: 말씀해 보시죠.
+087. ÁLVARO: Dígamelo usted, licenciado, ya que parece saberlo todo tan bien.
+    알바로: 다 그렇게 잘 아시는 것 같으니, 선생이 말씀해 보시죠.
 
 088. OCHOA: Yo soy economista, señor Robles, no ingeniero. Yo no construyo caminos; los uso. Si alguien me ofrece un puerto, un banco en los Pirineos y un sello que dice que todo está limpio, hago lo que haría cualquier empresario racional.
     오초아: 저는 경제학자입니다, 로블레스 씨. 엔지니어가 아니에요. 길을 만들진 않습니다. 쓸 뿐이죠. 누가 항구 하나, 피레네산맥의 은행 하나, 그리고 다 깨끗하다는 도장 하나를 내밀면, 저는 합리적인 사업가라면 누구나 할 일을 합니다.
 
-089. ÁLVARO: Pagar.
-    알바로: 돈을 내는 거군요.
+089. ÁLVARO: Pagar, supongo. Pagar y no hacer demasiadas preguntas sobre el camino.
+    알바로: 돈을 내는 거겠죠. 내고, 그 길에 대해선 너무 많이 묻지 않는 거.
 
 090. OCHOA: Pagar. Y pagar caro, se lo aseguro. Mire usted: la ruta no la vendimos nosotros. Nos la vendieron. Y quien nos la vendió no habla con acento de Sinaloa, sino con el suyo.
     오초아: 내는 거죠. 그것도 아주 비싸게, 장담합니다. 잘 들으세요. 그 루트는 우리가 판 게 아닙니다. 우리가 산 거예요. 그리고 우리한테 판 사람은 시날로아 억양이 아니라 당신 억양으로 말합니다.
@@ -291,14 +291,14 @@
 092. OCHOA: Le estoy diciendo que en este negocio, como en cualquier otro, la oferta existe antes que la demanda. Nosotros teníamos dinero; ustedes tenían un partido que necesitaba dinero, y un señor muy elegante que sabía juntar las dos cosas.
     오초아: 이 사업도 다른 사업처럼 공급이 수요보다 먼저 존재한다는 말씀입니다. 우리에겐 돈이 있었고, 당신들에겐 돈이 필요한 정당이 있었죠. 그리고 그 둘을 이어 줄 줄 아는 아주 우아한 신사가 한 분 있었고요.
 
-093. ÁLVARO: ¿Qué señor?
-    알바로: 어떤 신사요?
+093. ÁLVARO: ¿Qué señor? Si va a darme la mitad de la historia, deme también la otra mitad.
+    알바로: 어떤 신사요? 이야기 반을 주실 거면 나머지 반도 주시죠.
 
 094. OCHOA: Ah, no. Eso sería regalarle la tesis entera, y a mí no me gusta regalar nada. Además, creo que usted ya tiene un nombre en la cabeza. Se le nota en la cara desde que se sentó.
     오초아: 아, 그건 안 됩니다. 그러면 논문을 통째로 선물하는 셈이고, 저는 뭘 공짜로 주는 걸 안 좋아해요. 게다가 당신 머릿속엔 이미 이름 하나가 있는 것 같군요. 앉으실 때부터 얼굴에 다 쓰여 있습니다.
 
-095. ÁLVARO: Se equivoca.
-    알바로: 잘못 보셨습니다.
+095. ÁLVARO: Se equivoca, licenciado. En mi cabeza solo hay sueño y jet lag.
+    알바로: 잘못 보셨습니다, 선생. 제 머릿속엔 졸음이랑 시차밖에 없어요.
 
 096. OCHOA: Puede ser. Me equivoco a menudo con las personas; con los números, casi nunca. Pruebe el mole, por favor; es de Puebla.
     오초아: 그럴 수도 있죠. 사람은 자주 잘못 봅니다. 숫자는 거의 안 틀리지만요. 몰레 좀 드셔 보세요. 푸에블라식입니다.
@@ -309,14 +309,14 @@
 098. OCHOA: Julio César se cayó de un balcón en Madrid. Eso dicen los periódicos, y yo leo muchos periódicos.
     오초아: 훌리오 세사르는 마드리드에서 발코니에서 떨어졌죠. 신문에 그렇게 나왔고, 저는 신문을 많이 읽습니다.
 
-099. ÁLVARO: Yo estaba allí. No se cayó.
-    알바로: 저 거기 있었습니다. 떨어진 게 아니에요.
+099. ÁLVARO: Yo estaba allí, en la calle, mirando su ventana. No se cayó.
+    알바로: 저 거기 있었습니다. 길에서 그 창문을 보고 있었어요. 떨어진 게 아니에요.
 
 100. OCHOA: Entonces sabe usted más que yo, y eso me preocupa. Que Julio hablara con periodistas era una tragedia; que alguien en Madrid supiera en qué piso dormía esa noche es otra muy distinta.
     오초아: 그럼 저보다 많이 아시는군요. 그게 저를 걱정시킵니다. 훌리오가 기자와 얘기했다는 건 비극이었죠. 하지만 그날 밤 그가 몇 층에서 자는지 마드리드의 누군가가 알고 있었다는 건 전혀 다른 문제입니다.
 
-101. ÁLVARO: ¿Insinúa que no fueron ustedes?
-    알바로: 당신들이 한 게 아니라는 겁니까?
+101. ÁLVARO: ¿Insinúa que no fueron ustedes los que lo tiraron por el balcón?
+    알바로: 그를 발코니에서 떨어뜨린 게 당신들이 아니라는 겁니까?
 
 102. OCHOA: No insinúo nada. Constato que alguien conocía su dirección, y que esa dirección no se la di yo. Saque usted sus conclusiones; para eso le pagan.
     오초아: 아무것도 암시하지 않습니다. 누군가 그의 주소를 알고 있었고, 그 주소를 준 건 제가 아니라는 사실을 확인할 뿐이죠. 결론은 당신이 내리세요. 그러라고 월급 받으시는 거잖습니까.
@@ -339,8 +339,8 @@
 108. OCHOA: Por favor, señor Robles. No me ofenda en mi propia casa. Yo no soy un salvaje; soy un profesor jubilado con un jardín. La señorita está entera, ha comido mejor que usted y me ha llamado asesino tres veces, cosa que le agradezco.
     오초아: 제발요, 로블레스 씨. 제 집에서 저를 모욕하지 마세요. 저는 야만인이 아닙니다. 정원 딸린 은퇴한 교수죠. 아가씨는 멀쩡하고, 당신보다 잘 먹었고, 저를 세 번이나 살인자라고 불렀습니다. 그 점은 고맙게 생각해요.
 
-109. ÁLVARO: ¿Le agradece que lo llame asesino?
-    알바로: 살인자라고 불러서 고맙다고요?
+109. ÁLVARO: ¿Le agradece que lo llame asesino? Tiene usted un sentido del humor muy raro.
+    알바로: 살인자라고 불러서 고맙다고요? 유머 감각이 참 특이하시네요.
 
 110. OCHOA: La sinceridad escasea, señor Robles, y lo que escasea se paga. Usted, en cambio, lleva una hora sin decirme ni una sola verdad, empezando por su apellido.
     오초아: 솔직함은 귀하거든요, 로블레스 씨. 귀한 건 값을 치러야 하고요. 반면 당신은 한 시간째 저한테 진실을 단 한 마디도 안 하셨죠. 성(姓)부터 시작해서요.
@@ -351,26 +351,26 @@
 112. OCHOA: Por fin una pregunta de economista. Quiero muy poco. No quiero dinero, ni sus archivos, ni la computadora de la señorita, que por cierto ya le hemos devuelto. Quiero una información.
     오초아: 드디어 경제학자다운 질문이군요. 바라는 건 아주 적습니다. 돈도, 당신 파일도, 아가씨 노트북도 필요 없어요. 노트북은 이미 돌려드렸고요. 원하는 건 정보 하나입니다.
 
-113. ÁLVARO: No trabajo para usted.
-    알바로: 저는 당신 밑에서 일하지 않습니다.
+113. ÁLVARO: No trabajo para usted, ni pienso hacerlo, ni hoy ni nunca.
+    알바로: 저는 당신 밑에서 일하지 않습니다. 그럴 생각도 없고요. 오늘도, 앞으로도.
 
 114. OCHOA: Todavía no ha oído la pregunta y ya me dice que no. Escuche primero, y luego me dice que no con fundamento.
     오초아: 질문도 듣기 전에 거절부터 하시는군요. 먼저 들으시고, 그다음에 근거 있게 거절하세요.
 
-115. ÁLVARO: Le escucho.
-    알바로: 듣겠습니다.
+115. ÁLVARO: Le escucho, pero no le prometo nada antes de saber qué quiere.
+    알바로: 듣겠습니다. 하지만 뭘 원하시는지 알기 전엔 아무것도 약속 못 합니다.
 
 116. OCHOA: Usted va a encontrar al hombre que vende las rutas. Quizá no este año, pero lo encontrará, porque es usted terco y porque ese hombre, sospecho, lo conoce a usted. Cuando lo encuentre, quiero que me lo diga a mí antes que a nadie.
     오초아: 당신은 루트를 파는 그 남자를 찾아낼 겁니다. 올해는 아닐지 몰라도 찾아낼 거예요. 고집이 세시니까. 그리고 짐작건대 그 남자도 당신을 알고 있으니까. 찾으면 누구보다 먼저 저한테 말해 주셨으면 합니다.
 
-117. ÁLVARO: ¿Para qué? ¿Para matarlo?
-    알바로: 왜요? 죽이려고요?
+117. ÁLVARO: ¿Para qué lo quiere? ¿Para matarlo, como hacen ustedes con los que estorban?
+    알바로: 왜요? 걸리적거리는 사람들한테 늘 하듯 죽이려고요?
 
 118. OCHOA: Para saber con quién estoy haciendo negocios. Quien le vende una ruta a un cártel puede vendérsela también a otro, o a la policía. Yo no me fío de los proveedores que trabajan para todos los bandos.
     오초아: 제가 누구랑 거래하고 있는지 알려고요. 한 카르텔에 루트를 파는 사람은 다른 카르텔에도, 경찰에도 팔 수 있습니다. 저는 모든 편에 다 물건을 대는 공급자는 안 믿습니다.
 
-119. ÁLVARO: ¿Y si no se lo digo?
-    알바로: 말 안 하면요?
+119. ÁLVARO: ¿Y si no se lo digo nunca? ¿Qué pasa entonces con su inversión?
+    알바로: 끝내 말 안 하면요? 그럼 당신 투자는 어떻게 되는데요?
 
 120. OCHOA: Entonces habré hecho una mala inversión, cosa que me pasa muy poco. Pero no se preocupe: no le pido que me pague hoy.
     오초아: 그럼 제가 투자를 잘못한 셈이 되겠죠. 저한텐 거의 없는 일입니다만. 하지만 걱정 마세요. 오늘 갚으라는 게 아니니까요.
@@ -381,8 +381,8 @@
 122. OCHOA: Se la lleva ahora mismo. A crédito, digamos. Fíjese qué generoso: ningún banco de Andorra le daría estas condiciones.
     오초아: 지금 바로 데려가세요. 외상이라고 해 두죠. 얼마나 후한지 보세요. 안도라의 어떤 은행도 이런 조건은 안 줄 겁니다.
 
-123. ÁLVARO: ¿Y qué me impide no pagarle nunca?
-    알바로: 제가 끝내 안 갚으면 어쩌시려고요?
+123. ÁLVARO: ¿Y qué me impide no pagarle nunca, una vez que esté en Madrid?
+    알바로: 마드리드에 돌아간 뒤에 제가 끝내 안 갚으면 어쩌시려고요?
 
 124. OCHOA: Nada. Solo su conciencia y mi memoria. Y de las dos, la mía es la que dura más. Traigan a la señorita, por favor.
     오초아: 어쩌긴요. 당신의 양심과 제 기억력만 남겠죠. 그리고 그 둘 중 오래가는 건 제 쪽입니다. 아가씨를 모셔 오세요.
@@ -396,11 +396,11 @@
 127. RENATA: Me quitaron una zapatilla, el teléfono y la paciencia. Lo demás está completo. ¿Qué le diste?
     레나타: 구두 한 짝이랑 휴대폰이랑 인내심을 뺏겼어. 나머진 다 멀쩡해. 넌 저 사람한테 뭘 줬어?
 
-128. ÁLVARO: Nada. Todavía nada.
-    알바로: 아무것도. 아직은.
+128. ÁLVARO: Nada, tranquila. Todavía nada, y ya hablaremos de eso en el coche.
+    알바로: 아무것도, 걱정 마. 아직은 아무것도. 그 얘긴 차에서 하자.
 
-129. RENATA: "Todavía." Esa palabra no me gusta nada.
-    레나타: "아직은." 그 말 진짜 마음에 안 들어.
+129. RENATA: "Todavía." Esa palabra no me gusta nada, y menos dicha en esta casa.
+    레나타: "아직은." 그 말 진짜 마음에 안 들어. 이 집에서 들으니 더더욱.
 
 130. OCHOA: Señorita Villaseñor, ha sido un placer, aunque usted no opine lo mismo. Le recomiendo que maneje más despacio. Y que mire el retrovisor.
     오초아: 비야세뇨르 씨, 즐거웠습니다. 당신은 생각이 다르시겠지만. 운전은 좀 천천히 하시길 권합니다. 백미러도 보시고요.
@@ -417,8 +417,8 @@
 134. OCHOA: Uno más no le hará daño. No se deje convencer por su encanto: los mejores vendedores siempre parecen amigos de la familia.
     오초아: 한 명 더 있다고 해가 되진 않을 겁니다. 그 남자의 매력에 넘어가지 마세요. 최고의 장사꾼은 늘 집안 친구처럼 보이는 법이니까요.
 
-135. ÁLVARO: Sube al coche, Renata. Nos vamos.
-    알바로: 차에 타, 레나타. 가자.
+135. ÁLVARO: Sube al coche, Renata, y no mires atrás. Nos vamos de aquí.
+    알바로: 차에 타, 레나타. 뒤돌아보지 말고. 여기서 나가자.
 
 136. OCHOA: Ah, y una cosa más. No se olvide de lo que me debe.
     오초아: 아, 그리고 하나 더. 저한테 진 빚, 잊지 마세요.

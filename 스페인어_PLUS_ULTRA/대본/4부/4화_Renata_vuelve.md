@@ -36,8 +36,8 @@
 007. RENATA: "Hola, Renata." Siete meses, un apagón, una orden de busca y captura, y me dices "hola, Renata", como si nos hubiéramos visto ayer en el mercado.
     레나타: "안녕, 레나타." 일곱 달에, 정전에, 수배령까지 났는데, 어제 시장에서 본 사람한테 하듯 "안녕, 레나타"라고?
 
-008. ÁLVARO: ¿Qué quieres que te diga?
-    알바로: 무슨 말을 했으면 좋겠는데?
+008. ÁLVARO: ¿Y qué quieres que te diga, delante de un inglés y una guardia civil?
+    알바로: 영국 사람이랑 과르디아 시빌 앞에서 무슨 말을 했으면 좋겠는데?
 
 009. RENATA: No sé. Algo con más verbos.
     레나타: 몰라. 동사 좀 더 들어간 거.
@@ -66,14 +66,14 @@
 017. NIGEL: I conjugate perfectly in English, que conste.
     나이절: 전 영어로는 동사 변화 완벽하거든요, 분명히 해 두죠.
 
-018. ÁLVARO: ¿Y desde dónde has venido? ¿Desde Madrid?
-    알바로: 어디서 온 거야? 마드리드에서?
+018. ÁLVARO: ¿Y desde dónde has venido tan temprano? ¿Desde Madrid, con tu escolta?
+    알바로: 이렇게 아침 일찍 어디서 온 거야? 마드리드에서, 경호원 달고?
 
 019. RENATA: Desde Ciudad de México. Me quedé en Madrid hasta Semana Santa, con mi policía aburrido y mi piso feo, y luego me volví. No aguantaba escribir con otro nombre.
     레나타: 멕시코시티에서. 부활절까지는 마드리드에 있었어. 지루한 경찰이랑 못생긴 집이랑. 그러고 돌아갔지. 남의 이름으로 쓰는 거 못 견디겠더라.
 
-020. ÁLVARO: No me lo dijiste.
-    알바로: 나한텐 말 안 했잖아.
+020. ÁLVARO: Volviste a México y no me lo dijiste. Ni un mensaje.
+    알바로: 멕시코로 돌아갔으면서 나한텐 말도 안 했잖아. 문자 하나 없이.
 
 021. RENATA: Tú tampoco me dijiste que te ibas a Barcelona hasta que tuviste la maleta hecha. Estamos empatados, español.
     레나타: 너도 바르셀로나 간다는 거 짐 다 싸고 나서야 말했잖아. 우리 비긴 거야, 스페인 남자.
@@ -84,8 +84,8 @@
 023. NIGEL: Finally. Good luck, primo. Y si necesitan algo, the tea is always ready.
     나이절: 드디어. 행운을 빌어요, 사촌. 그리고 뭐 필요하면, 차는 늘 준비돼 있어요.
 
-024. RENATA: ¿De qué habla?
-    레나타: 무슨 소리야?
+024. RENATA: ¿De qué habla este señor? ¿Qué té ni qué nada?
+    레나타: 이 아저씨 무슨 소리야? 차는 무슨 차?
 
 025. ÁLVARO: Es una contraseña. Larga historia. ¿Por qué has venido, Renata? Y no me digas que por mí.
     알바로: 암호야. 얘기하자면 길어. 왜 왔어, 레나타? 나 때문이라고는 하지 마.
@@ -93,32 +93,32 @@
 026. RENATA: No te lo iba a decir, presumido. He venido porque alguien me ha mandado a cobrarte una deuda. Y porque traigo esto.
     레나타: 그런 말 할 생각도 없었거든, 잘난 척은. 누가 너한테 빚 받아 오라고 보내서 왔어. 그리고 이걸 가져왔고.
 
-027. ÁLVARO: ¿Qué es?
-    알바로: 뭔데?
+027. ÁLVARO: ¿Qué es esto? Pesa como si llevaras ladrillos en el bolso.
+    알바로: 이게 뭔데? 가방에 벽돌이라도 든 것처럼 무겁네.
 
 028. RENATA: No lo abras aquí. Es la segunda mitad del cuaderno de Julio. Las páginas que nunca encontramos.
     레나타: 여기서 열지 마. 훌리오 장부의 나머지 반이야. 우리가 끝내 못 찾은 쪽들.
 
-029. ÁLVARO: ¿El cuaderno negro? ¿Dónde estaba?
-    알바로: 그 검은 공책? 어디 있었는데?
+029. ÁLVARO: ¿El cuaderno negro de Julio? ¿Dónde demonios ha estado todo este tiempo?
+    알바로: 훌리오의 그 검은 공책? 대체 그동안 어디 있었던 거야?
 
 030. RENATA: En Cuernavaca. En una caja fuerte, detrás de un cuadro horrible de un caballo.
     레나타: 쿠에르나바카. 끔찍하게 못생긴 말 그림 뒤 금고 안에.
 
-031. ÁLVARO: Ochoa.
-    알바로: 오초아.
+031. ÁLVARO: Ochoa. Tenía que ser él, el profesor de economía.
+    알바로: 오초아. 그 사람일 수밖에 없지. 그 경제학 교수.
 
 032. RENATA: El Maestro. Hace tres semanas se presentó en mi casa de Narvarte un abogado muy peinado, con un sobre y un mensaje: "El licenciado quiere hablar con el señor Medina. Dígale que los intereses se acumulan."
     레나타: 엘 마에스트로. 3주 전에 머리를 아주 단정하게 빗어 넘긴 변호사가 나르바르테 우리 집에 왔어. 봉투 하나랑 전갈 하나 들고. "선생님께서 메디나 씨와 이야기하고 싶어 하십니다. 이자가 쌓이고 있다고 전해 주세요."
 
-033. ÁLVARO: ¿Y cómo tenía Ochoa la libreta de Julio?
-    알바로: 오초아가 훌리오 공책을 어떻게 갖고 있었는데?
+033. ÁLVARO: ¿Y cómo llegó la libreta de Julio a las manos de Ochoa?
+    알바로: 훌리오 공책이 어쩌다 오초아 손에 들어간 건데?
 
 034. RENATA: Lola se la dio en noviembre, cuando volvió a Culiacán. A cambio de que la dejaran vivir tranquila. No la juzgo.
     레나타: 롤라가 11월에 쿨리아칸 돌아가서 줬대. 조용히 살게 내버려 두는 조건으로. 난 롤라 탓 안 해.
 
-035. ÁLVARO: ¿No?
-    알바로: 안 해?
+035. ÁLVARO: ¿No la juzgas? Entregó lo único que tenía de su marido.
+    알바로: 탓 안 한다고? 남편이 남긴 유일한 걸 넘겼는데.
 
 036. RENATA: Si me hubieran puesto delante a dos tipos con pistola y una foto de mi mamá, yo habría hecho lo mismo sin pensarlo. Por eso no la juzgo.
     레나타: 총 든 놈 둘이랑 우리 엄마 사진을 눈앞에 들이밀었으면, 나도 생각할 것도 없이 똑같이 했을 거야. 그러니까 탓 안 해.
@@ -138,8 +138,8 @@
 041. ROCÍO: Mi tía dice que la mexicana puede dormir en el cuarto de la plancha, y tú, Gato, en la hamaca.
     로시오: 이모가 멕시코 언니는 다림질 방에서 자고, 가토 넌 해먹에서 자래.
 
-042. ÁLVARO: ¿Y por qué yo en la hamaca?
-    알바로: 왜 난 해먹인데?
+042. ÁLVARO: ¿Y por qué me toca a mí la hamaca, si se puede saber?
+    알바로: 근데 왜 해먹은 내 차지인데, 물어봐도 되나?
 
 043. ROCÍO: Porque eres el fugitivo, illo. Los fugitivos duermen mal en todas partes, así que da igual dónde.
     로시오: 네가 도망자잖아, 얘. 도망자는 어디서 자든 잠 못 자니까, 어디든 상관없지.
@@ -153,8 +153,8 @@
 046. RENATA: Era mi fuente. Mira, la letra de Julio. Cada vez más pequeña, como si supiera que se le acababa el papel.
     레나타: 취재원이었지. 봐, 훌리오 글씨. 점점 작아져. 종이가 다 떨어져 가는 걸 알았던 것처럼.
 
-047. ROCÍO: ¿Y estas columnitas dibujadas al margen?
-    로시오: 여백에 그린 이 쪼그만 기둥들은 뭐야?
+047. ROCÍO: ¿Y estas columnitas dibujadas al margen? Parecen las del escudo de España.
+    로시오: 여백에 그린 이 쪼그만 기둥들은 뭐야? 스페인 국장에 있는 거 같은데.
 
 048. ÁLVARO: Dos columnas. Las dibujaba al lado de cada pago en el que Atalaya había firmado algo. Es el logotipo de la empresa. Y el mechero de Velasco.
     알바로: 기둥 두 개. 아탈라야가 뭔가에 서명한 지불마다 옆에 그려 놨어. 그 회사 로고야. 그리고 벨라스코 라이터고.
@@ -162,14 +162,14 @@
 049. RENATA: Hay columnas en todas las páginas del veinticinco y del veintiséis. Julio no sabía cómo se llamaba el dueño, pero sabía dibujar su firma.
     레나타: 2025년이랑 2026년 쪽마다 기둥이 있어. 훌리오는 주인 이름은 몰랐어도 그 서명은 그릴 줄 알았던 거야.
 
-050. ROCÍO: ¿Y estas letras? "A.A. Gib."
-    로시오: 이 글자는? "A.A. Gib."
+050. ROCÍO: ¿Y estas letras de aquí abajo? "A.A. Gib." ¿Qué significan?
+    로시오: 여기 아래 이 글자는? "A.A. Gib." 무슨 뜻이야?
 
 051. ÁLVARO: Atalaya Advisory, Gibraltar. La filial cuyas cajas vimos anteayer en un sótano.
     알바로: 아탈라야 어드바이저리, 지브롤터. 그저께 지하실에서 상자째 본 그 자회사.
 
-052. RENATA: ¿Ya estuviste ahí? ¿Y no me esperaste?
-    레나타: 벌써 거기 갔었어? 나 안 기다리고?
+052. RENATA: ¿Ya estuviste ahí dentro? ¿Y no me esperaste, ni me avisaste?
+    레나타: 벌써 거기 들어가 봤어? 나 기다리지도 않고, 말도 없이?
 
 053. ÁLVARO: No sabía que venías. Si me lo hubieras dicho, te habría esperado. Bueno, quizá.
     알바로: 네가 오는 줄 몰랐지. 말해 줬으면 기다렸을 거야. 음, 아마도.
@@ -180,8 +180,8 @@
 055. ÁLVARO: "Albar — reformas — T. Pregunta: ¿por qué un constructor de Madrid paga azulejos al otro lado del mar?"
     알바로: "알바르 — 리모델링 — T. 질문: 마드리드 건설업자가 왜 바다 건너편 타일값을 내지?"
 
-056. ROCÍO: T. ¿Toledo? ¿Tarifa?
-    로시오: T. 톨레도? 타리파?
+056. ROCÍO: ¿T.? Puede ser cualquier cosa. ¿Toledo? ¿Tarifa? ¿Tu tía?
+    로시오: T? 아무거나 될 수 있잖아. 톨레도? 타리파? 너네 이모?
 
 057. RENATA: O cualquier cosa. Julio lo abreviaba todo. Para él, "T.L." era Tres Lunas y "V.M." era Verde Michoacán.
     레나타: 아니면 아무거나. 훌리오는 뭐든 줄여 썼어. "T.L."은 트레스 루나스, "V.M."은 베르데 미초아칸이었고.
@@ -204,8 +204,8 @@
 063. RENATA: Quiere sobrevivir. Este verano detuvieron en Houston a Paulina Fuentes, su mano derecha en Verde Michoacán. Y en julio él desapareció de Cuernavaca.
     레나타: 살아남고 싶은 거지. 이번 여름에 베르데 미초아칸에서 그 사람 오른팔이던 파울리나 푸엔테스가 휴스턴에서 체포됐어. 그리고 7월에 그 사람은 쿠에르나바카에서 사라졌고.
 
-064. ÁLVARO: ¿Quién la vendió?
-    알바로: 누가 그 여자를 팔았는데?
+064. ÁLVARO: ¿Y quién la vendió? Porque eso no lo hace la DEA sola.
+    알바로: 그럼 누가 그 여자를 팔았는데? 그건 마약단속국 혼자서 하는 일이 아니잖아.
 
 065. RENATA: Según el abogado, el mismo señor elegante que le vendió la ruta hace años. Por lo visto, Ochoa le dijo que no a algo. Y poco después cayó Paulina.
     레나타: 변호사 말로는, 몇 년 전에 그 사람한테 루트를 판 바로 그 우아한 신사래. 듣자 하니 오초아가 뭔가를 거절했대. 그리고 얼마 안 가 파울리나가 잡혔고.
@@ -261,8 +261,8 @@
 082. OCHOA: Por eso le llamo. Usted y yo tenemos ahora un acreedor en común, aunque él crea que es al revés. Si yo hubiera sabido en el diecinueve con qué clase de hombre negociaba, habría pedido más garantías.
     오초아: 그래서 전화드린 겁니다. 이제 당신과 저는 받을 빚이 있는 상대가 같아요. 그쪽은 거꾸로라고 생각하겠지만. 19년에 제가 어떤 부류의 사람과 거래하는지 알았더라면, 담보를 더 요구했을 겁니다.
 
-083. ÁLVARO: ¿Qué quiere de mí?
-    알바로: 저한테 뭘 원하십니까?
+083. ÁLVARO: ¿Y qué quiere exactamente de mí, licenciado? Hable claro, por favor.
+    알바로: 정확히 저한테 뭘 원하십니까, 선생님? 분명하게 말씀해 주세요.
 
 084. OCHOA: Lo que me debe. Un nombre. Me lo prometió en Cuernavaca: el del español que vende las rutas, antes que a nadie.
     오초아: 저한테 진 빚이요. 이름 하나. 쿠에르나바카에서 약속하셨지요. 루트를 파는 스페인 사람의 이름을, 누구보다 먼저.
@@ -279,8 +279,8 @@
 088. OCHOA: En tres, señorita, no me quite méritos. A principios de septiembre estaré en su costa, en un barco que se llama como mi antiguo oficio. Ya les avisaré del muelle.
     오초아: 세 나라입니다, 아가씨. 제 공을 깎지 마세요. 9월 초에 그쪽 해안에 가 있을 겁니다. 제 옛 직업 이름을 붙인 배를 타고요. 부두는 따로 알려 드리지요.
 
-089. ÁLVARO: ¿Y hasta entonces?
-    알바로: 그때까지는요?
+089. ÁLVARO: ¿Y hasta entonces, qué hacemos? ¿Esperar sentados en una azotea?
+    알바로: 그때까진 뭘 합니까? 옥상에 앉아서 기다려요?
 
 090. OCHOA: Hasta entonces, un consejo gratis, el único que le daré. Lea la última página de Julio con mucha atención. Él nunca escribía una pregunta si no sospechaba ya la respuesta.
     오초아: 그때까진 공짜 조언 하나. 제가 드리는 유일한 공짜입니다. 훌리오의 마지막 쪽을 아주 꼼꼼히 읽어 보세요. 그 친구는 답을 짐작하지 못한 질문은 절대 적지 않았거든요.
@@ -291,8 +291,8 @@
 092. OCHOA: Exactamente. Buenas noches, señor Medina. Y salude a la señora Benítez, que respira muy fuerte para no estar en esta conversación.
     오초아: 바로 그겁니다. 안녕히 주무십시오, 메디나 씨. 그리고 베니테스 씨께도 안부 전해 주세요. 이 대화에 없는 사람치고는 숨소리가 너무 크시더군요.
 
-093. ROCÍO: ¿Cómo sabe que estoy aquí?
-    로시오: 내가 여기 있는 걸 어떻게 알아?
+093. ROCÍO: ¿Y cómo sabe ese hombre que estoy aquí, si no he abierto la boca?
+    로시오: 나 입도 안 뗐는데, 저 사람은 내가 여기 있는 걸 어떻게 알아?
 
 094. RENATA: Porque te has reído cuando habló del corral. Yo también te he oído.
     레나타: 우리 얘기 나왔을 때 네가 웃었잖아. 나도 들었어.
@@ -321,8 +321,8 @@
 102. ÁLVARO: Renata, en Barcelona cogí el teléfono para llamarte muchas veces. Marcaba y colgaba antes del primer tono. Como un adolescente.
     알바로: 레나타, 바르셀로나에서 너한테 전화하려고 몇 번이나 폰을 들었어. 번호 누르고, 신호 가기 전에 끊고. 무슨 사춘기 애처럼.
 
-103. RENATA: ¿Cuántas veces?
-    레나타: 몇 번이나?
+103. RENATA: ¿Cuántas veces, Álvaro? Quiero el número exacto, no una aproximación.
+    레나타: 몇 번이나, 알바로? 대충 말고 정확한 숫자로.
 
 104. ÁLVARO: No sé. Las suficientes para que me diera vergüenza contarlas.
     알바로: 몰라. 세기 창피할 만큼.
@@ -333,8 +333,8 @@
 106. ÁLVARO: Lo sospechaba. Por eso colgaba.
     알바로: 짐작은 했어. 그래서 끊은 거야.
 
-107. RENATA: ¿Neta? ¿Colgabas para que me fuera?
-    레나타: 진짜? 나 가라고 끊었다고?
+107. RENATA: ¿Neta? ¿Me estás diciendo que colgabas para que me fuera?
+    레나타: 진짜? 나 가라고 끊었다는 거야?
 
 108. ÁLVARO: Colgaba porque, si te hubieras quedado por mí, ahora estarías aquí, en una azotea, con un hombre al que busca toda la policía de España. Y eso no te lo quería hacer.
     알바로: 끊은 건, 네가 나 때문에 남았으면 지금 여기, 옥상에서, 스페인 경찰 전부가 쫓는 남자 옆에 있을 테니까. 너한테 그런 짓은 하기 싫었어.
@@ -342,8 +342,8 @@
 109. RENATA: Pues mira dónde estoy. En una azotea, con un hombre al que busca toda la policía de España. Y he venido yo solita, sin que nadie me llamara.
     레나타: 그럼 내가 지금 어디 있나 봐. 옥상에서, 스페인 경찰 전부가 쫓는 남자 옆에. 그것도 아무도 안 불렀는데 나 혼자 제 발로 왔어.
 
-110. ÁLVARO: Tú has venido por la historia.
-    알바로: 넌 기사 때문에 온 거잖아.
+110. ÁLVARO: Tú has venido por la historia, Renata. Siempre vienes por la historia.
+    알바로: 넌 기사 때문에 온 거잖아, 레나타. 넌 늘 기사 때문에 오지.
 
 111. RENATA: He venido por las dos cosas. No me obligues a elegir cuál pesa más, porque hoy no lo sé.
     레나타: 둘 다 때문에 왔어. 어느 쪽이 더 무거운지 고르라고 하지 마. 오늘은 나도 모르니까.
@@ -354,14 +354,14 @@
 113. RENATA: Me acuerdo. Y tú me hiciste caso, por primera vez en tu vida.
     레나타: 기억나. 그리고 넌 내 말을 들었지. 태어나서 처음으로.
 
-114. ÁLVARO: ¿Y si ahora lo dijera?
-    알바로: 지금 말하면?
+114. ÁLVARO: ¿Y si ahora lo dijera yo, aquí, con el faro de testigo?
+    알바로: 그럼 지금 내가 말하면? 여기서, 등대를 증인 삼아서?
 
 115. RENATA: Ahora no, Álvaro. Ahorita no. Y ya sabes que en México "ahorita" puede ser dentro de un minuto o nunca.
     레나타: 지금은 안 돼, 알바로. '아오리타'는 안 돼. 멕시코에서 '아오리타'는 1분 뒤일 수도 있고, 영영 아닐 수도 있는 거 알지?
 
-116. ÁLVARO: ¿Y cuál de los dos es este?
-    알바로: 그럼 이번엔 어느 쪽인데?
+116. ÁLVARO: ¿Y cuál de los dos ahoritas es este, el de un minuto o el de nunca?
+    알바로: 그럼 이번 '아오리타'는 어느 쪽인데? 1분 뒤야, 영영이야?
 
 117. RENATA: Este es un ahorita de cuando termine todo esto. Cuando tengas tu nombre otra vez y yo pueda firmar con el mío.
     레나타: 이번 건 이 일 다 끝나면의 '아오리타'야. 네가 네 이름을 되찾고, 내가 내 이름으로 서명할 수 있을 때.

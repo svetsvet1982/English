@@ -39,8 +39,8 @@
 008. RENATA: Nadie. Por eso se lo pregunto a usted. Leí una nota de tres líneas en un diario digital: "Un hombre de nacionalidad mexicana cae desde un quinto piso en la calle Serrano". Tres líneas. Julio valía más que eso.
     레나타: 아무도요. 그래서 그쪽한테 묻는 거예요. 인터넷 신문에서 세 줄짜리 기사를 읽었어요. "멕시코 국적 남성, 세라노 거리 5층에서 추락." 세 줄. 훌리오는 그것보단 가치 있는 사람이었어요.
 
-009. ÁLVARO: Lo siento. De verdad.
-    알바로: 유감입니다. 진심으로요.
+009. ÁLVARO: Lo siento, de verdad. Sé que suena a fórmula, pero esta vez no lo digo por decir.
+    알바로: 유감입니다, 진심으로요. 형식적인 말처럼 들리겠지만, 이번엔 그냥 하는 말이 아닙니다.
 
 010. RENATA: No me diga que lo siente. Dígame si saltó.
     레나타: 유감이라는 말 하지 말고요. 그 사람이 뛰어내렸는지나 말해요.
@@ -60,8 +60,8 @@
 015. ÁLVARO: ¿Periodista de dónde? Porque ese acento no es de Chamberí.
     알바로: 어디 기자요? 그 억양은 참베리 쪽은 아닌데요.
 
-016. RENATA: De México, obviamente. ¿Qué, no se me nota?
-    레나타: 멕시코죠, 당연히. 뭐예요, 티 안 나요?
+016. RENATA: De México, obviamente. ¿Qué, no se me nota, o es que ustedes los espías necesitan que se lo pongan por escrito?
+    레나타: 멕시코죠, 당연히. 뭐예요, 티 안 나요? 아니면 스파이들은 글로 써 줘야 알아요?
 
 017. ÁLVARO: Se le nota. Lo que no sé todavía es si es usted periodista o la persona que estaba deseando saber si Julio había hablado antes de caer.
     알바로: 티 납니다. 제가 아직 모르는 건, 당신이 기자인지, 아니면 훌리오가 떨어지기 전에 입을 열었는지 몹시 궁금했던 사람인지예요.
@@ -72,8 +72,8 @@
 019. ÁLVARO: Eso tiene arreglo, si sigue usted en Madrid. ¿Sigue en Madrid?
     알바로: 그건 해결할 수 있죠. 아직 마드리드에 있다면요. 있습니까?
 
-020. RENATA: ¿Y por qué cree que sigo en Madrid?
-    레나타: 내가 아직 마드리드에 있다고 왜 생각하는데요?
+020. RENATA: ¿Y por qué cree que sigo en Madrid? A lo mejor le estoy llamando desde Culiacán con un café en la mano.
+    레나타: 내가 아직 마드리드에 있다고 왜 생각하는데요? 쿨리아칸에서 커피 들고 전화하는 걸 수도 있잖아요.
 
 021. ÁLVARO: Porque la llamada no tiene el retraso de las internacionales, y porque ha dicho "la calle Goya" como quien la ha pisado esta semana.
     알바로: 국제전화 특유의 지연이 없고, "고야 거리"를 이번 주에 직접 걸어 본 사람처럼 말했으니까요.
@@ -93,8 +93,8 @@
 026. RENATA: No se preocupe. Yo lo reconozco a usted. Los policías de aquí siempre tienen cara de estar esperando un autobús que no llega.
     레나타: 걱정 마요. 내가 그쪽을 알아볼 테니까. 여기 경찰들은 늘 안 오는 버스 기다리는 얼굴을 하고 있거든요.
 
-027. ÁLVARO: No soy policía.
-    알바로: 경찰 아닙니다.
+027. ÁLVARO: No soy policía, aunque entiendo que desde fuera, y con esta cara de sueño, cueste notar la diferencia.
+    알바로: 경찰 아닙니다. 밖에서 보면, 게다가 이렇게 졸린 얼굴이면 차이를 알기 어렵겠지만요.
 
 028. RENATA: Pues peor tantito. Y traiga el celular de Julio. Si no lo trae, no hay plática.
     레나타: 그럼 더 나쁘네요. 그리고 훌리오 휴대폰 가져와요. 안 가져오면 얘기 없어요.
@@ -105,11 +105,11 @@
 030. RENATA: No, señor. Aquí no hay "ya veremos". O lo trae o me voy, y se queda usted solito con su balcón.
     레나타: 아뇨. "두고 보자" 같은 건 없어요. 가져오든지, 아니면 난 가고 그쪽은 발코니랑 둘이 남는 거죠.
 
-031. ÁLVARO: Hasta mañana, Renata.
-    알바로: 내일 봅시다, 레나타.
+031. ÁLVARO: Hasta mañana, Renata. Y procure llegar sola, porque yo pienso hacer exactamente lo mismo.
+    알바로: 내일 봅시다, 레나타. 혼자 오도록 해요. 나도 똑같이 그럴 생각이니까.
 
-032. RENATA: Hasta mañana, señor Gobierno.
-    레나타: 내일 봐요, 정부 아저씨.
+032. RENATA: Hasta mañana, señor Gobierno. Y no se ponga corbata, que en el mercado se le va a notar de lejos.
+    레나타: 내일 봐요, 정부 아저씨. 넥타이는 매지 마요. 시장에서 멀리서도 티 나니까.
 
 033. IKER: Gato, son las ocho y cuarto de un sábado. Que conste en acta que estoy en la Casa sin cobrar horas extra y con el mismo jersey de ayer.
     이케르: 가토, 토요일 아침 여덟 시 십오 분이에요. 저 초과근무 수당도 없이, 어제 입은 스웨터 그대로 본부에 있다는 거 기록에 남겨 주세요.
@@ -120,8 +120,8 @@
 035. IKER: Número mexicano, línea de contrato, en itinerancia desde el domingo pasado. Está a nombre de Renata Villaseñor. Treinta y ocho años, nacida en Culiacán.
     이케르: 멕시코 번호고, 약정 회선, 지난 일요일부터 로밍 중이에요. 명의는 레나타 비야세뇨르. 서른여덟 살, 쿨리아칸 출생.
 
-036. ÁLVARO: Periodista.
-    알바로: 기자.
+036. ÁLVARO: Periodista, entonces. Eso cuadra con el acento y con las prisas que tenía por saber si Julio había saltado.
+    알바로: 그럼 기자네. 억양이랑도, 훌리오가 뛰어내렸는지 그렇게 급하게 알고 싶어 하던 거랑도 맞아떨어져.
 
 037. IKER: Periodista, y de las que molestan. Trabaja para Línea Directa, un medio independiente de Ciudad de México. Blanqueo, cárteles, contratos públicos… lo típico para acabar mal.
     이케르: 기자요. 그것도 성가신 쪽. 멕시코시티 독립 매체 리네아 디렉타 소속이에요. 돈세탁, 카르텔, 공공 계약… 험한 꼴 당하기 딱 좋은 분야죠.
@@ -132,8 +132,8 @@
 039. IKER: Como su compañero, Tomás Aguirre, también de Línea Directa. Lo mataron en Culiacán en marzo del año pasado, a la salida de un restaurante. Dos tiros desde una moto. Ningún detenido.
     이케르: 동료처럼요. 토마스 아기레, 같은 리네아 디렉타. 작년 3월 쿨리아칸에서 식당 나오다가 살해됐어요. 오토바이에서 두 발. 체포된 사람은 없고요.
 
-040. ÁLVARO: Joder.
-    알바로: 젠장.
+040. ÁLVARO: Joder. Así que cuando dice que Julio valía más que tres líneas, sabe muy bien de lo que habla.
+    알바로: 젠장. 그러니까 훌리오가 세 줄보다 가치 있다고 했을 때, 자기가 무슨 말을 하는지 정확히 알고 있었던 거네.
 
 041. IKER: Y hay más. Ella firmaba con él la mitad de los reportajes. Después del asesinato publicó una columna que se titulaba "Sigue el dinero, no al muerto". La leí anoche y todavía tengo los pelos de punta.
     이케르: 더 있어요. 그 사람이랑 기사 절반을 공동으로 썼어요. 살해 사건 뒤엔 "시체 말고 돈을 따라가"라는 칼럼을 냈고요. 어젯밤에 읽었는데 아직도 소름이 돋아요.
@@ -177,8 +177,8 @@
 054. RENATA: Ya no. Ya llegó. Y a mí póngame dos de esas que están de muerte, que hoy la muerte la paga él.
     레나타: 이제 안 기다려도 돼요. 왔으니까. 나한텐 그 끝내준다는 걸로 두 개요. 오늘 계산은 이 사람이 하니까.
 
-055. CAMARERA: Marchando.
-    웨이트리스: 바로 나갑니다.
+055. CAMARERA: Marchando esas dos, y el vermú ahora mismo, que se le ve con cara de necesitarlo.
+    웨이트리스: 그 두 개 바로 나갑니다. 베르무트도 지금 드릴게요, 필요해 보이시네요.
 
 056. ÁLVARO: Llevaba un buen rato mirándome desde la barra de las croquetas, ¿verdad?
     알바로: 크로켓 카운터에서 한참 날 보고 있었죠?
@@ -186,17 +186,17 @@
 057. RENATA: Doce minutos. Quería ver si venía solo y si miraba mucho el celular. Los que vienen acompañados siempre miran el celular.
     레나타: 12분. 혼자 왔는지, 휴대폰을 자주 보는지 보려고요. 일행 달고 온 사람은 꼭 휴대폰을 봐요.
 
-058. ÁLVARO: ¿Y?
-    알바로: 그래서요?
+058. ÁLVARO: ¿Y a qué conclusión ha llegado después de doce minutos espiando a un espía?
+    알바로: 그래서 스파이를 12분 동안 염탐하고 나서 무슨 결론을 내렸어요?
 
 059. RENATA: No lo miró ni una vez. O viene solo, o es muy bueno. ¿Cómo se llama?
     레나타: 한 번도 안 보던데요. 혼자 왔거나, 아니면 아주 잘하는 거죠. 이름이 뭐예요?
 
-060. ÁLVARO: Álvaro.
-    알바로: 알바로.
+060. ÁLVARO: Álvaro. Con eso le basta por ahora, que ya es más de lo que suelo decir en una primera cita.
+    알바로: 알바로. 지금은 그걸로 충분할 겁니다. 첫 만남에서 보통 말하는 것보다 많이 말한 거예요.
 
-061. RENATA: ¿Álvaro qué?
-    레나타: 알바로 뭐요?
+061. RENATA: ¿Álvaro qué? Porque Álvaros en Madrid debe de haber unos cuantos miles, y yo no pienso preguntar en todos los bares.
+    레나타: 알바로 뭐요? 마드리드에 알바로가 몇 천 명은 될 텐데, 바마다 다 물어보고 다닐 생각은 없거든요.
 
 062. ÁLVARO: Álvaro, de momento. Igual que usted es Renata, de momento, aunque los dos sabemos que ya tengo su apellido, su fecha de nacimiento y la calle donde duerme.
     알바로: 일단은 알바로. 당신이 일단은 레나타인 것처럼요. 물론 내가 이미 당신 성이랑 생년월일, 묵는 거리까지 알고 있다는 건 둘 다 알지만.
@@ -204,17 +204,17 @@
 063. RENATA: Qué rápido. Ustedes son eficientes cuando quieren. Lástima que no lo fueran el jueves en la madrugada.
     레나타: 빠르네. 그쪽 사람들은 마음만 먹으면 유능하군요. 목요일 새벽엔 안 그랬던 게 아쉽네요.
 
-064. ÁLVARO: Touché.
-    알바로: 한 방 먹었네요.
+064. ÁLVARO: Touché. Me lo he ganado, y le aseguro que esa pregunta me la hago yo también cada noche desde el jueves.
+    알바로: 한 방 먹었네요. 그럴 만하죠. 그리고 그 질문은 목요일부터 나도 매일 밤 스스로에게 하고 있어요.
 
-065. RENATA: ¿Lo vio caer?
-    레나타: 떨어지는 걸 봤어요?
+065. RENATA: ¿Lo vio caer? Quiero decir con sus propios ojos, no en un informe ni en una cámara.
+    레나타: 떨어지는 걸 봤어요? 보고서나 카메라 말고, 그쪽 눈으로 직접요.
 
-066. ÁLVARO: Sí.
-    알바로: 네.
+066. ÁLVARO: Sí, lo vi caer desde la acera de enfrente, y no se lo deseo a nadie, ni siquiera a usted.
+    알바로: 네, 길 건너편 인도에서 떨어지는 걸 봤어요. 누구한테도, 당신한테도 바라지 않을 장면이었죠.
 
-067. RENATA: ¿Saltó?
-    레나타: 뛰어내렸어요?
+067. RENATA: ¿Saltó? Contésteme solo a eso, sin rodeos, y le prometo que después le cuento lo que usted quiera.
+    레나타: 뛰어내렸어요? 그것만 돌려 말하지 말고 대답해요. 그러면 그다음엔 원하는 거 다 말해 줄게요.
 
 068. ÁLVARO: Antes de responderle, necesito que me explique por qué un contable de Culiacán con un piso de dos millones en Serrano hablaba con una periodista que escribe sobre blanqueo de dinero.
     알바로: 대답하기 전에 설명부터 들어야겠어요. 세라노에 200만 유로짜리 집을 가진 쿨리아칸 출신 회계사가 왜 돈세탁 기사를 쓰는 기자랑 얘기를 했는지.
@@ -222,8 +222,8 @@
 069. RENATA: ¿Ve? Ya empezó el interrogatorio. Yo pensé que primero me iba a dejar probar las ostras.
     레나타: 거봐요. 벌써 심문 시작이네. 굴부터 맛보게 해 줄 줄 알았는데.
 
-070. ÁLVARO: Las ostras ya están pagadas. Las preguntas, no.
-    알바로: 굴값은 이미 냈습니다. 질문값은 아직이고요.
+070. ÁLVARO: Las ostras ya están pagadas, Renata. Las preguntas, no, y esas me las va a pagar usted con respuestas.
+    알바로: 굴값은 이미 냈어요, 레나타. 질문값은 아직이고, 그건 당신이 대답으로 내야죠.
 
 071. RENATA: Julio me buscó a mí, no al revés. Hace un año me escribió un correo cifrado: llevaba las cuentas de gente muy pesada y no quería morirse con eso en la conciencia.
     레나타: 훌리오가 날 찾아왔어요. 내가 찾아간 게 아니라. 1년 전에 암호화된 메일을 보냈더라고요. 아주 거물들 장부를 맡고 있는데, 그걸 양심에 얹은 채로 죽고 싶진 않다고.
@@ -243,17 +243,17 @@
 076. ÁLVARO: ¿Y qué le enseñó cuando por fin se decidió a confiar en usted?
     알바로: 그래서 마침내 당신을 믿기로 했을 때 뭘 보여 줬습니까?
 
-077. RENATA: Su turno. ¿Saltó o lo empujaron?
-    레나타: 이번엔 그쪽 차례. 뛰어내렸어요, 밀렸어요?
+077. RENATA: Su turno, que yo ya le he contado más de lo que pensaba. ¿Saltó o lo empujaron?
+    레나타: 이번엔 그쪽 차례예요. 난 생각보다 많이 말했으니까. 뛰어내렸어요, 밀렸어요?
 
 078. ÁLVARO: Había alguien más en el piso. Vi una segunda silueta en la ventana, un segundo antes de que cayera.
     알바로: 집 안에 누가 더 있었어요. 떨어지기 1초 전에 창가에 두 번째 실루엣을 봤습니다.
 
-079. RENATA: ¿Neta?
-    레나타: 진짜요?
+079. RENATA: ¿Neta? ¿Me lo está diciendo en serio o es otra de sus técnicas para que yo hable más?
+    레나타: 진짜요? 진심으로 하는 말이에요, 아니면 나 말 더 하게 만드는 기술 중 하나예요?
 
-080. ÁLVARO: Si eso significa "en serio", sí. Neta.
-    알바로: 그게 "정말"이라는 뜻이면, 네. 진짜요.
+080. ÁLVARO: Si "neta" significa "en serio", sí, neta. No le haría esa jugada con un muerto de por medio.
+    알바로: '네타'가 '정말'이라는 뜻이면, 네, 진짜요. 사람이 죽었는데 그런 수작은 안 부립니다.
 
 081. RENATA: Lo sabía. Lo sabía desde que leí esas tres líneas. Julio le tenía pánico a las alturas, ¿sabe? Solo salía al balcón para fumar, y aun así se quedaba pegado a la pared.
     레나타: 그럴 줄 알았어. 그 세 줄 읽었을 때부터 알았어요. 훌리오는 높은 데를 엄청 무서워했거든요. 담배 피울 때만 발코니에 나갔고, 그때도 벽에 딱 붙어 있었어요.
@@ -285,23 +285,23 @@
 090. ÁLVARO: Con mi jefa. Es una prueba en una investigación abierta. Si se la enseño a una periodista sin autorización, me la juego.
     알바로: 상관한테요. 진행 중인 수사의 증거예요. 허가 없이 기자한테 보여 줬다가는 내 목이 날아갑니다.
 
-091. RENATA: ¿Neta? ¿Un espía que pide permiso?
-    레나타: 진짜요? 허락받는 스파이?
+091. RENATA: ¿Neta? ¿Un espía que pide permiso? Pensé que ustedes hacían lo que querían y luego lo arreglaban.
+    레나타: 진짜요? 허락받는 스파이? 그쪽 사람들은 하고 싶은 대로 하고 나중에 수습하는 줄 알았는데.
 
-092. ÁLVARO: Un espía que quiere seguir siéndolo el lunes.
-    알바로: 월요일에도 스파이로 남고 싶은 스파이죠.
+092. ÁLVARO: Un espía que quiere seguir siéndolo el lunes, y que no le serviría de nada si lo echan el domingo.
+    알바로: 월요일에도 스파이로 남고 싶은 스파이죠. 일요일에 잘리면 당신한테도 아무 쓸모 없을 거고요.
 
 093. RENATA: Mire, Álvaro de momento. En mi país, a los que piden permiso para todo los entierran con los papeles en regla. Tomás pidió permiso. Pidió escolta, pidió que la fiscalía lo escuchara, pidió que lo sacaran de Culiacán. Le dijeron que esperara.
     레나타: 이봐요, 일단은 알바로 씨. 우리나라에선 매사에 허락받는 사람들은 서류 완벽하게 갖춘 채로 묻혀요. 토마스도 허락을 구했어요. 경호를 요청했고, 검찰이 자기 말을 들어 달라고 했고, 쿨리아칸에서 빼내 달라고 했죠. 돌아온 대답은 기다리라는 거였어요.
 
-094. ÁLVARO: Tomás Aguirre.
-    알바로: 토마스 아기레.
+094. ÁLVARO: Tomás Aguirre. Leí lo de la moto esta mañana, antes de venir, y también su columna.
+    알바로: 토마스 아기레. 오늘 아침 오기 전에 오토바이 사건 읽었어요. 당신 칼럼도요.
 
-095. RENATA: Ya veo que hizo su tarea.
-    레나타: 숙제는 해 왔네요.
+095. RENATA: Ya veo que hizo su tarea antes de venir, como los buenos alumnos que se sientan en primera fila.
+    레나타: 앞줄에 앉는 모범생처럼 오기 전에 숙제는 해 왔네요.
 
-096. ÁLVARO: Lo siento.
-    알바로: 유감입니다.
+096. ÁLVARO: Lo siento mucho, Renata, y no se lo digo como policía ni como espía, sino como alguien que también ha perdido compañeros.
+    알바로: 정말 유감이에요, 레나타. 경찰이나 스파이로서가 아니라, 나도 동료를 잃어 본 사람으로서 하는 말입니다.
 
 097. RENATA: Todo el mundo lo siente, y el sentimiento no sirve para nada. Sigue el dinero, no al muerto. Es lo único que aprendí en marzo.
     레나타: 다들 유감이래요. 근데 유감은 아무 쓸모가 없어요. 시체 말고 돈을 따라가. 3월에 내가 배운 건 그거 하나예요.
@@ -309,11 +309,11 @@
 098. ÁLVARO: Vale. Le propongo un trato. Usted me enseña sus cuarenta páginas y yo le enseño una sola cosa del móvil. Una. Y si lo que veo me sirve, hablamos de lo demás.
     알바로: 좋아요. 거래합시다. 당신은 그 40쪽을 보여 주고, 나는 휴대폰에서 딱 하나만 보여 주죠. 하나. 그리고 내가 본 게 쓸모 있으면 나머지 얘기를 합시다.
 
-099. RENATA: ¿Una sola? Qué codo.
-    레나타: 딱 하나요? 짠돌이네.
+099. RENATA: ¿Una sola? Cuarenta páginas a cambio de una sola cosa. Qué codo.
+    레나타: 딱 하나요? 40쪽 주는데 딱 하나. 짠돌이네.
 
-100. ÁLVARO: ¿Codo?
-    알바로: 코도?
+100. ÁLVARO: ¿Codo? Eso aquí es una parte del brazo, así que me temo que me lo va a tener que traducir.
+    알바로: 코도? 여기선 팔꿈치인데, 번역 좀 해 주셔야겠네요.
 
 101. RENATA: Tacaño. Agarrado. Así les decimos allá a los que no sueltan nada. Okey, trato. Pero primero usted, porque yo ya puse sobre la mesa a Tomás, a Julio y un café frío.
     레나타: 구두쇠. 짠돌이. 우리 쪽에선 아무것도 안 내놓는 사람을 그렇게 불러요. 좋아요, 거래해요. 근데 그쪽 먼저. 난 벌써 토마스랑 훌리오랑 식은 커피까지 테이블에 올려놨으니까.
@@ -321,8 +321,8 @@
 102. ÁLVARO: Mire esto. Es una nota que guardó el miércoles por la noche, pocas horas antes de caer.
     알바로: 이걸 보세요. 수요일 밤, 떨어지기 몇 시간 전에 저장한 메모예요.
 
-103. RENATA: "Halcón… tres mil por trescientos". ¿Halcón?
-    레나타: "할콘… 3,000 곱하기 300." 할콘?
+103. RENATA: "Halcón… tres mil por trescientos." ¿Halcón? ¿Eso es lo último que escribió?
+    레나타: "할콘… 3,000 곱하기 300." 할콘? 그게 그 사람이 마지막으로 쓴 거예요?
 
 104. ÁLVARO: ¿Le dice algo esa palabra? Allí tiene que significar algo.
     알바로: 그 단어 짚이는 거 있어요? 그쪽에선 뭔가 뜻이 있을 텐데요.
@@ -336,11 +336,11 @@
 107. RENATA: O Julio era el halcón de alguien. ¿Y lo de tres mil por trescientos?
     레나타: 아니면 훌리오가 누군가의 할콘이었거나. 그 3,000 곱하기 300은요?
 
-108. ÁLVARO: Ni idea.
-    알바로: 모르겠는데요.
+108. ÁLVARO: Ni idea. Pensaba que a lo mejor usted me lo podía explicar, ya que es la experta.
+    알바로: 모르겠는데요. 전문가시니까 오히려 당신이 설명해 줄 수 있을까 했죠.
 
-109. RENATA: Me está mintiendo.
-    레나타: 거짓말하시네.
+109. RENATA: Me está mintiendo, Álvaro de momento, y además lo hace bastante peor de lo que se cree.
+    레나타: 거짓말하시네요, 일단은 알바로 씨. 게다가 본인 생각보다 훨씬 서툴게.
 
 110. ÁLVARO: ¿Por qué dice eso? Le he contestado con total sinceridad.
     알바로: 왜 그렇게 말하죠? 아주 솔직하게 대답했는데요.
@@ -366,8 +366,8 @@
 117. RENATA: El día antes de que quitaran las visas doradas.
     레나타: 골든비자 없애기 전날이네요.
 
-118. ÁLVARO: Veo que usted también hace sus tareas.
-    알바로: 당신도 숙제는 해 오는군요.
+118. ÁLVARO: Veo que usted también hace sus tareas, y con mejor nota que la mayoría de mis compañeros.
+    알바로: 당신도 숙제는 해 오는군요. 우리 동료들 대부분보다 점수도 좋고.
 
 119. RENATA: En la redacción le decíamos "el último tren". Todo el que tenía dinero sucio en México hizo fila en Madrid esa primavera, como si estuvieran vendiendo los últimos boletos del Titanic.
     레나타: 편집국에선 그걸 "막차"라고 불렀어요. 멕시코에서 더러운 돈 가진 사람들은 그해 봄에 죄다 마드리드에 줄을 섰죠. 타이타닉 마지막 표라도 파는 것처럼.
@@ -378,14 +378,14 @@
 121. RENATA: Algunas, no todas. Esa era la segunda mitad del trato con Julio: la explicación. Y la explicación se cayó con él desde un quinto piso.
     레나타: 몇 개는요. 전부는 아니고. 그게 훌리오랑 한 거래의 나머지 절반이었어요. 설명. 그런데 그 설명이 그 사람이랑 같이 5층에서 떨어졌죠.
 
-122. ÁLVARO: O se quedó arriba, con la segunda silueta.
-    알바로: 아니면 위에 남았거나요. 두 번째 실루엣이랑.
+122. ÁLVARO: O se quedó arriba, con la segunda silueta, en el bolsillo del que salió por el garaje.
+    알바로: 아니면 위에 남았거나요. 두 번째 실루엣이랑, 차고로 나간 놈 주머니 속에.
 
 123. RENATA: ¿Revisaron el departamento? ¿O nomás vieron el balcón y se fueron?
     레나타: 아파트는 뒤져 봤어요? 아니면 발코니만 보고 갔어요?
 
-124. ÁLVARO: De arriba abajo. Ningún cuaderno negro.
-    알바로: 샅샅이요. 검은 공책은 없었습니다.
+124. ÁLVARO: De arriba abajo, cajón por cajón. Ningún cuaderno negro, ni siquiera un papel con una cifra.
+    알바로: 샅샅이요, 서랍 하나하나. 검은 공책은 없었어요, 숫자 적힌 종이 한 장도요.
 
 125. RENATA: Entonces si no se lo llevó quien lo empujó, Julio lo escondió antes. Y si yo fuera él, lo habría dejado en México, con su gente, con Lola.
     레나타: 그럼 민 사람이 가져간 게 아니라면 훌리오가 미리 숨긴 거예요. 내가 그 사람이었으면 멕시코에 뒀을 거예요. 자기 사람들 곁에, 롤라 곁에.
@@ -396,8 +396,8 @@
 127. RENATA: Su esposa, sí. La conozco poco. Sé que va a estar rota y que no va a querer hablar con nadie que tenga acento de aquí.
     레나타: 네, 부인이요. 잘은 몰라요. 무너져 있을 거고, 이쪽 억양 쓰는 사람이랑은 절대 얘기 안 하려 할 거란 건 알아요.
 
-128. ÁLVARO: Entonces haría falta alguien con acento de allí.
-    알바로: 그럼 그쪽 억양을 쓰는 사람이 필요하겠군요.
+128. ÁLVARO: Entonces haría falta alguien con acento de allí, que conozca a Lola y que no le dé miedo volver a Culiacán.
+    알바로: 그럼 그쪽 억양을 쓰고, 롤라를 알고, 쿨리아칸에 돌아가는 게 무섭지 않은 사람이 필요하겠군요.
 
 129. RENATA: Fíjese que eso mismo estaba pensando yo. Quédese las fotocopias, que el número ya lo tiene. Y pague las ostras, que estaban de muerte.
     레나타: 어머, 나도 딱 그 생각 하고 있었는데. 복사본은 가져요. 번호는 이미 알잖아요. 그리고 굴값 내요. 끝내줬으니까.
@@ -405,8 +405,8 @@
 130. RAMÓN: ¿Álvaro? ¿Eres tú? Es que no veo bien la pantalla esta.
     라몬: 알바로? 너냐? 이놈의 화면이 잘 안 보여서.
 
-131. ÁLVARO: Soy yo, papá. ¿Qué pasa? ¿Estás bien?
-    알바로: 저예요, 아버지. 왜요? 괜찮으세요?
+131. ÁLVARO: Soy yo, papá. ¿Qué pasa? ¿Estás bien? Es raro que me llames a estas horas.
+    알바로: 저예요, 아버지. 왜요? 괜찮으세요? 이 시간에 전화하시는 거 드문데.
 
 132. RAMÓN: Estoy bien, estoy bien. Te llamaba porque mañana es domingo y no sé si vienes a comer. He comprado pollo. O eso creo, que ya no me fío de mí.
     라몬: 괜찮아, 괜찮아. 내일 일요일이라 밥 먹으러 오나 해서 전화했지. 닭을 사 놨거든. 아마도. 이젠 나도 날 못 믿겠다.
@@ -423,11 +423,11 @@
 136. RAMÓN: Gran Vía. Claro. "Próxima estación: Gran Vía." Cuarenta años diciéndolo… Aquí está el pollo, mira. Detrás de la leche.
     라몬: 그란 비아. 그렇지. "다음 역은 그란 비아입니다." 40년을 그 말을 했는데… 여기 닭 있다, 봐라. 우유 뒤에.
 
-137. ÁLVARO: Directora, siento llamarla un sábado por la noche.
-    알바로: 국장님, 토요일 밤에 전화드려 죄송합니다.
+137. ÁLVARO: Directora, siento llamarla un sábado por la noche, pero esto no podía esperar al lunes.
+    알바로: 국장님, 토요일 밤에 전화드려 죄송합니다. 그런데 이건 월요일까지 기다릴 수가 없었습니다.
 
-138. ARRIETA: No lo siente, Medina. Vaya al grano.
-    아리에타: 죄송하지 않잖아요, 메디나. 본론만 말해요.
+138. ARRIETA: No lo siente, Medina, y yo tengo la cena enfriándose en la mesa. Vaya al grano.
+    아리에타: 죄송하지 않잖아요, 메디나. 난 저녁이 식어 가고 있어요. 본론만 말해요.
 
 139. ÁLVARO: La mujer que llamó al móvil de Prieto es periodista mexicana. Tiene medio cuaderno de contabilidad suyo, y en esa mitad aparece Inversiones Ceiba con la cifra exacta del piso de Serrano.
     알바로: 프리에토 휴대폰으로 전화한 여자는 멕시코 기자입니다. 프리에토의 장부 절반을 갖고 있는데, 거기 인베르시오네스 세이바가 세라노 아파트 정확한 금액과 함께 나옵니다.
@@ -447,8 +447,8 @@
 144. ARRIETA: Tráigame hechos, no corazonadas. El lunes decido. Y si esto sigue adelante, se hará por el procedimiento, con la firma de Santi y una tapadera que aguante. ¿Entendido?
     아리에타: 직감 말고 사실을 가져와요. 월요일에 결정하겠어요. 그리고 이게 진행된다면 절차대로 갑니다. 산티의 서명이랑 버틸 만한 위장 신분까지. 알겠어요?
 
-145. ÁLVARO: Entendido.
-    알바로: 알겠습니다.
+145. ÁLVARO: Entendido, directora. El lunes le llevo un informe por escrito, con todas las fotocopias.
+    알바로: 알겠습니다, 국장님. 월요일에 복사본 전부 첨부해서 서면 보고서 올리겠습니다.
 
 146. ÁLVARO: ¿Sí?
     알바로: 여보세요?

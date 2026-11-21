@@ -33,8 +33,8 @@
 006. ÁLVARO: Hay mil consultoras en Madrid que hacen informes para bancos. Se ponen un nombre bonito, una torre o un faro, y cobran por decir que el dinero está limpio.
     알바로: 마드리드엔 은행 보고서 써 주는 컨설팅 회사가 천 개는 있어. 탑이니 등대니 그럴싸한 이름 붙여 놓고, 돈이 깨끗하다고 말해 주는 값을 받지.
 
-007. RENATA: Eso no es un no.
-    레나타: 그건 "아니"가 아닌데.
+007. RENATA: Eso no es un no, Álvaro. Eso es una clase de economía para no contestarme.
+    레나타: 그건 '아니'가 아닌데, 알바로. 대답 안 하려고 경제학 강의하는 거지.
 
 008. ÁLVARO: Tampoco es un sí. Iker, ¿estás ahí? Dime que ya has abierto el resto del archivo.
     알바로: "응"도 아니지. 이케르, 듣고 있어? 파일 나머지 다 열었다고 말해 줘.
@@ -42,26 +42,26 @@
 009. IKER: Aquí estoy, con la cámara congelada y un pintxo de tortilla que ya no está ni frío ni caliente. Lo he abierto, sí, y es una maravilla.
     이케르: 여기 있어요. 카메라는 멈췄고, 또르띠야 핀초는 차갑지도 뜨겁지도 않아요. 열었어요. 근데 이거 진짜 예술이에요.
 
-010. RENATA: ¿Una maravilla? ¿Neta?
-    레나타: 예술? 진짜?
+010. RENATA: ¿Una maravilla? ¿Neta? A mí me parece una lista de la compra carísima.
+    레나타: 예술? 진짜? 나한텐 엄청 비싼 장보기 목록으로 보이는데.
 
 011. IKER: Para un analista, sí. Julio lo tenía todo ordenado por columnas: fecha, importe, origen, destino y una última columna que solo dice "DD".
     이케르: 분석관한텐 그래요. 훌리오가 전부 열별로 정리해 놨어요. 날짜, 금액, 출처, 목적지. 그리고 마지막 열엔 "DD"라고만 적혀 있고요.
 
-012. ÁLVARO: Due diligence.
-    알바로: 실사(due diligence).
+012. ÁLVARO: Due diligence, la revisión que hace una consultora antes de que alguien invierta.
+    알바로: 실사(due diligence). 누가 투자하기 전에 컨설팅 회사가 하는 검토 말이야.
 
 013. IKER: Eso. Empecemos por el origen. Tres Lunas y Verde Michoacán pagan facturas a una empresa española, Construcciones Albar, por unas naves frigoríficas en el puerto de Algeciras.
     이케르: 그거요. 출처부터 볼게요. 트레스 루나스랑 베르데 미초아칸이 스페인 회사, 콘스트루시오네스 알바르에 대금을 지급해요. 알헤시라스 항구의 냉동 창고 건설비 명목으로요.
 
-014. RENATA: ¿Naves para qué?
-    레나타: 창고는 뭐 하려고?
+014. RENATA: ¿Naves frigoríficas para qué? Si allí no se cultiva ni un aguacate.
+    레나타: 냉동 창고는 뭐 하려고? 거긴 아보카도 하나 안 나는데.
 
 015. IKER: Para guardar aguacate antes de distribuirlo por Europa. En teoría. Catorce millones de euros en dieciocho meses.
     이케르: 아보카도를 유럽에 유통하기 전에 보관하려고요. 이론상으로는. 18개월 동안 1,400만 유로.
 
-016. ÁLVARO: ¿Y las naves existen?
-    알바로: 그 창고, 실제로 있어?
+016. ÁLVARO: ¿Y esas naves existen de verdad, o solo en las facturas?
+    알바로: 그 창고, 진짜로 있어? 아니면 송장에만 있어?
 
 017. IKER: He mirado las imágenes de satélite de este verano. Hay una nave a medio hacer, una grúa parada y mucha tierra. Si eso vale catorce millones, yo soy del Madrid.
     이케르: 올여름 위성 사진을 봤는데요. 반쯤 짓다 만 창고 하나, 멈춰 선 크레인 하나, 그리고 흙이 잔뜩. 그게 1,400만 유로면 저는 레알 마드리드 팬이에요.
@@ -75,8 +75,8 @@
 020. IKER: Exacto. Y luego Albar, en vez de pagar a proveedores, manda transferencias a Andorra, a una entidad que se llama Banca Pirineu.
     이케르: 정확해요. 그다음 알바르는 하청업체에 돈을 주는 대신 안도라로 송금해요. 방카 피리네우라는 은행으로.
 
-021. ÁLVARO: Andorra. Cómo no.
-    알바로: 안도라. 그럼 그렇지.
+021. ÁLVARO: Andorra. Cómo no. Si me hubieras dicho Suiza, me habría sorprendido más.
+    알바로: 안도라. 그럼 그렇지. 스위스라고 했으면 차라리 더 놀랐겠다.
 
 022. IKER: Desde Banca Pirineu salen pagos a tres sociedades pantalla, todas creadas el mismo mes, con el mismo administrador: un señor de ochenta y dos años que vive en una residencia de Lleida.
     이케르: 방카 피리네우에서 페이퍼컴퍼니 세 곳으로 돈이 나가요. 셋 다 같은 달에 설립됐고 대표도 같은 사람이에요. 예이다의 요양원에 사는 여든두 살 할아버지.
@@ -87,17 +87,17 @@
 024. IKER: Como los tres mil vecinos de Usera y Tetuán que no saben que han donado trescientos euros a Raíz. Ese es el último paso: el pitufeo.
     이케르: 라이스에 300유로씩 후원한 줄도 모르는 우세라랑 테투안 주민 3,000명처럼요. 그게 마지막 단계예요. 쪼개기.
 
-025. ÁLVARO: Entonces ya lo tenemos. Aguacate, Albar, Andorra, Raíz.
-    알바로: 그럼 다 잡았네. 아보카도, 알바르, 안도라, 라이스.
+025. ÁLVARO: Entonces ya lo tenemos todo: aguacate, Albar, Andorra y, al final del camino, Raíz.
+    알바로: 그럼 다 잡았네. 아보카도, 알바르, 안도라, 그리고 길 끝엔 라이스.
 
 026. IKER: Lo tenemos en una hoja de cálculo que hizo un muerto, Gato. Eso no se sostiene ni en un juzgado ni en una reunión con Arrieta.
     이케르: 죽은 사람이 만든 엑셀 파일로 잡은 거죠, 가토. 그걸론 법정에서도, 아리에타 국장 회의에서도 못 버텨요.
 
-027. ÁLVARO: "Tráigame hechos, no corazonadas." Ya lo sé.
-    알바로: "직감 말고 사실을 가져와요." 알아.
+027. ÁLVARO: "Tráigame hechos, no corazonadas." Ya lo sé, Iker, me lo dice cada lunes en la pecera.
+    알바로: "직감 말고 사실을 가져와요." 알아, 이케르. 월요일마다 어항에서 듣는 소리야.
 
-028. RENATA: ¿Y la columna "DD"? ¿Qué dice exactamente?
-    레나타: 그 "DD" 열은? 정확히 뭐라고 돼 있어?
+028. RENATA: ¿Y la columna "DD"? ¿Qué dice exactamente, aparte de esas dos letras?
+    레나타: 그 "DD" 열은? 그 두 글자 말고 정확히 뭐라고 돼 있어?
 
 029. IKER: En cada fila pone lo mismo: "Ver expediente físico. Vasco de Quiroga, piso veintitrés, archivo B." Nada más.
     이케르: 줄마다 똑같아요. "실물 서류 참조. 바스코 데 키로가, 23층, B 문서고." 그게 다예요.
@@ -105,8 +105,8 @@
 030. RENATA: Vasco de Quiroga es la avenida principal de Santa Fe. Ahí están todas las torres de cristal, los corporativos, los bancos.
     레나타: 바스코 데 키로가는 산타페의 중심 대로야. 유리 빌딩, 대기업 본사, 은행이 다 거기 있어.
 
-031. ÁLVARO: ¿Quién tiene el piso veintitrés?
-    알바로: 23층은 누가 쓰는데?
+031. ÁLVARO: ¿Y quién ocupa el piso veintitrés? Dime que no es un bufete de abogados.
+    알바로: 23층은 누가 쓰는데? 법률 사무소라고만 하지 마.
 
 032. IKER: Dame un segundo… Verde Michoacán, sede corporativa. Dirección financiera: licenciada Paulina Fuentes.
     이케르: 잠깐만요… 베르데 미초아칸 본사. 재무 담당 이사, 파울리나 푸엔테스.
@@ -138,17 +138,17 @@
 041. ÁLVARO: Hola, cariño. Vuelvo pronto, te lo prometo. El congreso de estadística se ha alargado un poco… Y dile al abuelo que le llamo mañana, aunque luego se le olvide que le he llamado.
     알바로: 안녕, 우리 딸. 금방 갈게, 약속해. 통계 학회가 좀 길어졌어… 할아버지한텐 내일 전화한다고 전해 줘. 전화한 걸 나중에 잊어버리시더라도.
 
-042. RENATA: ¿Congreso de estadística?
-    레나타: 통계 학회?
+042. RENATA: ¿Congreso de estadística? ¿Eso es lo mejor que se te ocurrió para tu hija?
+    레나타: 통계 학회? 딸한테 둘러댄 게 고작 그거야?
 
-043. ÁLVARO: No preguntes.
-    알바로: 묻지 마.
+043. ÁLVARO: No preguntes, por favor. Llevo años inventándome congresos y ya se me acaban los temas.
+    알바로: 묻지 마, 제발. 몇 년째 학회를 지어내다 보니 이제 주제도 바닥났어.
 
 044. RENATA: No pregunto. Pero algún día te va a cachar, y no va a ser bonito.
     레나타: 안 물어. 근데 언젠가 걔한테 딱 걸릴 거야. 그땐 볼만하겠다.
 
-045. IKER: Probando, probando. Gato, ¿me oyes por el pinganillo?
-    이케르: 테스트, 테스트. 가토, 이어피스로 들려요?
+045. IKER: Probando, probando. Gato, ¿me oyes bien por el pinganillo, o te subo el volumen?
+    이케르: 테스트, 테스트. 가토, 이어피스로 잘 들려요? 볼륨 올릴까요?
 
 046. ÁLVARO: Te oigo. Estoy en el vestíbulo. Aquí hay más mármol que en El Escorial.
     알바로: 들려. 로비야. 여기 대리석이 엘 에스코리알보다 많아.
@@ -162,8 +162,8 @@
 049. IKER: Escúchame bien. El aparatito que llevas en el bolsillo interior lee tarjetas de acceso a medio metro. Cuando la licenciada te dé la mano, acércate un poco.
     이케르: 잘 들어요. 안주머니에 있는 그 장치, 50센티 안이면 출입 카드를 읽어요. 이사가 악수할 때 살짝 다가가요.
 
-050. ÁLVARO: ¿Cuánto es "un poco"?
-    알바로: "살짝"이 어느 정돈데?
+050. ÁLVARO: ¿Y cuánto es exactamente "un poco"? Porque aquí la gente se saluda con un beso.
+    알바로: '살짝'이 정확히 어느 정돈데? 여기선 인사할 때 볼 뽀뽀도 하던데.
 
 051. IKER: Lo que harías con alguien que te cae bien. No con alguien del Athletic.
     이케르: 마음에 드는 사람한테 하는 정도요. 아틀레틱 팬한테 말고요.
@@ -180,8 +180,8 @@
 055. EJECUTIVA: Ay, eso dicen todos los españoles. Pase, por favor. ¿Le ofrezco un café de Chiapas, un agua?
     푸엔테스: 어머, 스페인 분들은 다 그렇게 말씀하세요. 들어오세요. 치아파스 커피 드릴까요, 아니면 물?
 
-056. IKER: Tarjeta copiada. Bien hecho, Gato. Ahora sé encantador.
-    이케르: 카드 복제 완료. 잘했어요, 가토. 이제 매력 발산하세요.
+056. IKER: Tarjeta copiada a la primera. Bien hecho, Gato. Ahora sé encantador, que se te da fatal.
+    이케르: 카드 한 번에 복제 완료. 잘했어요, 가토. 이제 매력 발산하세요. 선배 그거 진짜 못하잖아요.
 
 057. ÁLVARO: Un café, gracias. Le seré franco, licenciada: no he venido por el aguacate, aunque me parezca un negocio estupendo.
     알바로: 커피 주세요. 솔직히 말씀드리죠, 이사님. 아보카도 때문에 온 건 아닙니다. 훌륭한 사업이긴 하지만요.
@@ -210,14 +210,14 @@
 065. EJECUTIVA: Ha pasado, señor Robles, se lo aseguro. Tenemos un informe de debida diligencia de una consultora europea de primer nivel. Todo limpio, todo en regla.
     푸엔테스: 거쳤습니다, 로블레스 씨. 장담해요. 유럽 최고 수준의 컨설팅 회사에서 받은 실사 보고서가 있어요. 전부 깨끗하고, 전부 규정대로예요.
 
-066. ÁLVARO: ¿Podría verlo?
-    알바로: 볼 수 있을까요?
+066. ÁLVARO: ¿Podría verlo, aunque fuera un momento, aquí mismo, delante de usted?
+    알바로: 잠깐이라도, 여기서 이사님 앞에서 볼 수 있을까요?
 
 067. EJECUTIVA: Hoy no, me temo. Es un documento confidencial y tendría que pedir autorización al consejo. Pero puedo enviarle un resumen ejecutivo la semana que viene, si firma un acuerdo de confidencialidad.
     푸엔테스: 오늘은 어려울 것 같아요. 기밀 문서라 이사회 승인을 받아야 하거든요. 비밀유지 계약서에 서명해 주시면 다음 주에 요약본은 보내 드릴 수 있어요.
 
-068. RENATA: Traducción: ni de broma.
-    레나타: 번역하면, 꿈도 꾸지 마.
+068. RENATA: Traducción: ni de broma, güey. Esa no te enseña ni la portada.
+    레나타: 번역하면, 꿈도 꾸지 마. 저 여자는 표지도 안 보여 줄걸.
 
 069. ÁLVARO: Me parece perfecto. Disculpe, licenciada, ¿el baño? El café de Chiapas es muy bueno, pero muy rápido.
     알바로: 좋습니다. 실례지만 이사님, 화장실이…? 치아파스 커피가 아주 좋은데, 효과도 아주 빠르네요.
@@ -231,8 +231,8 @@
 072. ÁLVARO: Puerta abierta. Cajas, carpetas, polvo… Esto parece el trastero de mi padre.
     알바로: 문 열었어. 상자, 서류철, 먼지… 우리 아버지 창고 같네.
 
-073. IKER: Busca por orden alfabético. A de Albar.
-    이케르: 가나다순으로 찾아요. 알바르의 A.
+073. IKER: Busca por orden alfabético, que estos corporativos lo archivan todo igual. A de Albar.
+    이케르: 가나다순으로 찾아요. 이런 회사들은 다 똑같이 정리하거든요. 알바르의 A.
 
 074. ÁLVARO: Albar… Albar. Aquí está. "Proyecto Algeciras. Debida diligencia." Es un tocho de cien páginas.
     알바로: 알바르… 알바르. 여기 있다. "알헤시라스 프로젝트. 실사." 백 페이지짜리 벽돌이야.
@@ -255,8 +255,8 @@
 080. RENATA: Ya no tienes. Sal de ahí.
     레나타: 이제 없어. 거기서 나와.
 
-081. GUARDIA: Buenas tardes, señor. ¿Se le perdió algo?
-    경비원: 안녕하세요, 손님. 뭘 잃어버리셨나요?
+081. GUARDIA: Buenas tardes, señor. ¿Se le perdió algo por aquí, o busca a alguien?
+    경비원: 안녕하세요, 손님. 여기서 뭘 잃어버리셨나요, 아니면 누굴 찾으세요?
 
 082. ÁLVARO: Pues sí, el baño. Me dijeron a la izquierda, pero yo soy de Madrid, y en Madrid la izquierda es un concepto bastante relativo.
     알바로: 네, 화장실요. 왼쪽이라고 들었는데, 제가 마드리드 사람이라서요. 마드리드에선 '왼쪽'이 꽤 상대적인 개념이거든요.
@@ -270,8 +270,8 @@
 085. GUARDIA: Lo acompaño, no se vaya a perder otra vez.
     경비원: 모셔다 드리죠. 또 길 잃으시면 안 되니까요.
 
-086. EJECUTIVA: ¿Todo bien, señor Robles? Tardó usted un poquito.
-    푸엔테스: 괜찮으세요, 로블레스 씨? 좀 오래 걸리셨네요.
+086. EJECUTIVA: ¿Todo bien, señor Robles? Tardó usted un poquito, ya me estaba preocupando.
+    푸엔테스: 괜찮으세요, 로블레스 씨? 좀 오래 걸리셔서 걱정하던 참이었어요.
 
 087. ÁLVARO: Me perdí, licenciada. Su edificio tiene más pasillos que un ministerio. Le firmo ese acuerdo de confidencialidad cuando quiera.
     알바로: 길을 잃었습니다, 이사님. 이 건물은 정부 부처보다 복도가 많네요. 비밀유지 계약서는 언제든 서명하겠습니다.
@@ -279,8 +279,8 @@
 088. EJECUTIVA: Se lo mando hoy mismo. Y salúdeme a sus clientes en Madrid. Seguro que tenemos amigos en común.
     푸엔테스: 오늘 바로 보내 드릴게요. 마드리드 고객분들께도 안부 전해 주세요. 분명 아는 분들이 겹칠 거예요.
 
-089. IKER: Esa última frase no me ha gustado nada.
-    이케르: 마지막 말, 하나도 마음에 안 들어요.
+089. IKER: Esa última frase no me ha gustado nada, Gato. Ha sonado a amenaza educada.
+    이케르: 마지막 말, 하나도 마음에 안 들어요, 가토. 예의 바른 협박처럼 들렸어요.
 
 090. ÁLVARO: A mí tampoco. Renata, arranca. Bajo por las escaleras.
     알바로: 나도. 레나타, 시동 걸어. 계단으로 내려갈게.
@@ -291,8 +291,8 @@
 092. IKER: Ya. He limpiado las fotos y he cruzado el informe con el Excel de Julio. Encaja todo. Cada factura de Albar tiene su anexo y su visto bueno.
     이케르: 다 됐어요. 사진 보정하고 보고서를 훌리오 엑셀이랑 대조해 봤어요. 다 맞아떨어져요. 알바르 송장마다 부록이랑 승인 도장이 붙어 있어요.
 
-093. ÁLVARO: Explícamelo como si yo fuera Arrieta.
-    알바로: 내가 아리에타 국장이라고 생각하고 설명해 봐.
+093. ÁLVARO: Explícamelo como si yo fuera Arrieta, sin tecnicismos y en menos de un minuto.
+    알바로: 내가 아리에타 국장이라고 생각하고 설명해 봐. 전문 용어 빼고, 1분 안에.
 
 094. IKER: Vale. La consultora revisó el proyecto Algeciras y certificó tres cosas: que las naves existían, que los precios eran de mercado y que no había indicios de blanqueo de capitales. Las tres son mentira.
     이케르: 네. 컨설팅 회사가 알헤시라스 프로젝트를 검토하고 세 가지를 인증했어요. 창고가 실재한다, 가격이 시장가다, 자금 세탁 정황이 없다. 셋 다 거짓말이에요.
@@ -303,14 +303,14 @@
 096. IKER: Eso es. Sin ese informe, el banco andorrano habría bloqueado las transferencias en una semana. Con él, han movido catorce millones sin que nadie levantara una ceja.
     이케르: 바로 그거예요. 그 보고서가 없었으면 안도라 은행이 일주일 만에 송금을 막았을 거예요. 근데 그게 있으니까 1,400만 유로를 옮기는데 아무도 눈썹 하나 까딱 안 한 거죠.
 
-097. ÁLVARO: ¿Y la firma?
-    알바로: 서명은?
+097. ÁLVARO: ¿Y la firma? ¿Se sabe por fin quién firmó ese informe?
+    알바로: 서명은? 그 보고서에 누가 서명했는지 이제 알겠어?
 
 098. IKER: La firma es un garabato, ni idea de quién es. Pero el sello ahora se lee perfectamente. ¿Te lo leo?
     이케르: 서명은 그냥 낙서예요. 누군지 전혀 모르겠어요. 근데 도장은 이제 선명하게 읽혀요. 읽어 드려요?
 
-099. ÁLVARO: Léelo.
-    알바로: 읽어.
+099. ÁLVARO: Léelo, Iker. Despacio, palabra por palabra, y sin chistes del Athletic.
+    알바로: 읽어, 이케르. 천천히, 한 글자씩, 아틀레틱 농담 빼고.
 
 100. IKER: "Atalaya Risk Consulting, S.L. Paseo de la Castellana, Madrid." Y debajo, un logo: dos columnas pequeñitas con una cinta, como las del escudo de España.
     이케르: "아탈라야 리스크 컨설팅 유한회사. 마드리드, 카스테야나 대로." 그 밑에 로고가 있어요. 리본 감긴 작은 기둥 두 개. 스페인 국장에 있는 것처럼요.
@@ -330,11 +330,11 @@
 105. ÁLVARO: No.
     알바로: 아니.
 
-106. RENATA: Mentiroso.
-    레나타: 거짓말쟁이.
+106. RENATA: Mentiroso. Y además, para ser espía, mientes bastante mal, ¿sabes?
+    레나타: 거짓말쟁이. 게다가 스파이치고 거짓말 진짜 못한다, 너.
 
-107. ÁLVARO: ¿Perdona?
-    알바로: 뭐라고?
+107. ÁLVARO: ¿Perdona? ¿Me acabas de llamar mentiroso delante de Iker?
+    알바로: 뭐라고? 이케르 앞에서 나보고 거짓말쟁이라고 한 거야?
 
 108. RENATA: Desde que viste ese nombre en el USB estás raro. Te quedas callado, cambias de tema, pides más café. Yo me paso la vida entrevistando a gente que miente, Álvaro. Sé cómo se ve.
     레나타: USB에서 그 이름 본 뒤로 너 이상해. 말없이 있다가, 말 돌리다가, 커피만 더 시키고. 난 평생 거짓말하는 사람들을 인터뷰하며 살았어, 알바로. 어떤 얼굴인지 알아.
@@ -375,35 +375,35 @@
 120. RENATA: Pues entonces no me pidas que me esconda. Me voy a la redacción a dejar una copia de todo en la caja fuerte de Línea Directa, por si acaso. Y no me pidas permiso, porque no te lo pienso dar.
     레나타: 그럼 숨으라고 하지 마. 편집국 갈 거야. 혹시 모르니까 리네아 디렉타 금고에 전부 사본 맡겨 둘 거고. 허락해 달라고도 하지 마. 안 해 줄 거니까.
 
-121. ÁLVARO: Renata, espera. Te llevo yo.
-    알바로: 레나타, 기다려. 내가 데려다줄게.
+121. ÁLVARO: Renata, espera un momento. Te llevo yo, que de noche no deberías ir sola.
+    알바로: 레나타, 잠깐만. 내가 데려다줄게. 밤에 혼자 다니면 안 돼.
 
 122. RENATA: No. Necesito manejar sola un rato. Y tú necesitas pensar en ese nombre que no te suena.
     레나타: 아니. 잠깐 혼자 운전하고 싶어. 그리고 넌 그 '모르는' 이름에 대해 생각 좀 해 봐.
 
-123. IKER: Gato… ya se ha ido.
-    이케르: 가토… 갔어요.
+123. IKER: Gato… ya se ha ido. Ha dado un portazo que se ha oído hasta en Bilbao.
+    이케르: 가토… 갔어요. 문 닫는 소리가 빌바오까지 들렸어요.
 
-124. ÁLVARO: Ya.
-    알바로: 알아.
+124. ÁLVARO: Ya lo sé, Iker. No hace falta que me lo narres.
+    알바로: 알아, 이케르. 중계까지 할 필요는 없어.
 
 125. IKER: Oye, no sé quién es esa gente, ni te lo voy a preguntar. Pero si conoces a alguien de Atalaya, más vale que me lo digas antes de que me lo encuentre yo en una base de datos.
     이케르: 저기요, 그 사람들이 누군지 모르고, 묻지도 않을게요. 근데 아탈라야에 아는 사람 있으면, 제가 데이터베이스에서 먼저 찾아내기 전에 말해 주는 게 좋을 거예요.
 
-126. ÁLVARO: Duérmete, Iker. Mañana hablamos.
-    알바로: 자라, 이케르. 내일 얘기하자.
+126. ÁLVARO: Duérmete, Iker, que allí ya es de madrugada. Mañana hablamos.
+    알바로: 자라, 이케르. 거긴 벌써 새벽이잖아. 내일 얘기하자.
 
 127. RENATA: ¿Sigues despierto? Soy yo. No te llamo para pedirte perdón, que quede claro.
     레나타: 아직 안 자? 나야. 사과하려고 전화한 거 아니야. 분명히 해 둘게.
 
-128. ÁLVARO: Clarísimo. ¿Dónde estás?
-    알바로: 아주 분명하네. 어디야?
+128. ÁLVARO: Clarísimo, no te preocupes. ¿Dónde estás? Se oye mucho tráfico.
+    알바로: 아주 분명하네, 걱정 마. 어디야? 차 소리가 많이 들리는데.
 
 129. RENATA: En Constituyentes, saliendo de la redacción. Ya dejé la copia en la caja fuerte. Mi editora casi se infarta cuando vio el sello.
     레나타: 콘스티투옌테스. 편집국에서 나오는 길이야. 사본은 금고에 넣었어. 편집장이 도장 보더니 심장마비 올 뻔했어.
 
-130. ÁLVARO: ¿Le has contado lo de Atalaya?
-    알바로: 아탈라야 얘기도 했어?
+130. ÁLVARO: ¿Y le has contado a tu editora lo de Atalaya?
+    알바로: 편집장한테 아탈라야 얘기도 했어?
 
 131. RENATA: Le conté lo que sé, que es menos de lo que sabes tú. ¿Me lo vas a contar algún día, o me entero por el periódico?
     레나타: 내가 아는 만큼 얘기했어. 네가 아는 것보단 적지. 언젠가 말해 줄 거야, 아니면 신문 보고 알아야 해?
@@ -414,8 +414,8 @@
 133. RENATA: Fíjate que eso es lo más honesto que me has dicho en dos semanas… Espérate. Hay una camioneta blanca detrás de mí desde que salí. Sin placas.
     레나타: 그거 2주 동안 네가 한 말 중에 제일 솔직한 말이다… 잠깐만. 편집국 나올 때부터 흰 승합차가 따라와. 번호판도 없어.
 
-134. ÁLVARO: ¿Desde la redacción? ¿Estás segura?
-    알바로: 편집국부터? 확실해?
+134. ÁLVARO: ¿Desde la redacción? ¿Estás segura de que no es solo una casualidad?
+    알바로: 편집국부터? 그냥 우연이 아닌 게 확실해?
 
 135. RENATA: Me cambié de carril dos veces y se cambió conmigo. Ahorita se me está pegando… Álvaro, se me está cerrando otra por delante.
     레나타: 차선을 두 번 바꿨는데 두 번 다 따라왔어. 지금 바짝 붙고 있어… 알바로, 앞에서 또 한 대가 막아서고 있어.

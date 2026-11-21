@@ -30,8 +30,8 @@
 005. ROCÍO: Eso era antes del acuerdo. Ahora la verja ya no es lo que era. Los controles fuertes están en el puerto y en el aeropuerto, y por aquí se pasa andando, como quien va a por el pan.
     로시오: 그건 협정 전 얘기지. 이젠 철책도 예전 같지 않아. 빡센 검문은 항구랑 공항에서 하고, 여긴 빵 사러 가듯 걸어서 건너.
 
-006. ÁLVARO: ¿Así de fácil?
-    알바로: 그렇게 쉽다고?
+006. ÁLVARO: ¿Así de fácil? ¿Un fugitivo entra en Gibraltar como quien va a la playa?
+    알바로: 그렇게 쉽다고? 도망자가 해변 가듯 지브롤터에 들어간다고?
 
 007. ROCÍO: Fácil no. Hay cámaras, hay patrullas y de vez en cuando paran a alguien al azar. Tú camina normal, no corras y mira el Peñón como si fuera la primera vez.
     로시오: 쉽진 않지. 카메라도 있고 순찰도 있고, 가끔 아무나 골라서 세워. 넌 평소처럼 걸어. 뛰지 말고, 바위산을 처음 보는 사람처럼 쳐다봐.
@@ -42,8 +42,8 @@
 009. ROCÍO: Ni yo. Hoy libro. Si preguntan, vengo a por tabaco y ginebra, como medio Cádiz.
     로시오: 나도. 오늘 비번이야. 누가 물으면 카디스 사람 반이 그러듯 담배랑 진 사러 온 거야.
 
-010. ÁLVARO: ¿Y yo?
-    알바로: 그럼 난?
+010. ÁLVARO: ¿Y yo qué he venido a comprar, si alguien me pregunta?
+    알바로: 그럼 난? 누가 물으면 난 뭐 사러 온 건데?
 
 011. ROCÍO: Tú eres mi primo de Madrid, recién separado y en plena mala racha. No te costará.
     로시오: 넌 마드리드 사는 내 사촌. 막 이혼하고 되는 일 하나 없는. 연기 어렵지 않을 거야.
@@ -102,8 +102,8 @@
 029. NIGEL: Ha! Eso lo decía Ignacio: "Nigel, conjugas fatal, pero guardas muy bien la boca."
     나이절: 하! 그거 이그나시오가 하던 말이에요. "나이절, 동사 변화는 엉망인데 입은 아주 무겁단 말이야."
 
-030. ÁLVARO: ¿Conoce a Velasco?
-    알바로: 벨라스코를 압니까?
+030. ÁLVARO: ¿Conoce a Velasco? ¿Personalmente, o solo de verle en la tele?
+    알바로: 벨라스코를 압니까? 직접요, 아니면 TV에서만?
 
 031. NIGEL: Everybody here knows Ignacio. Pero aquí no, too many ears. Vamos a un pub.
     나이절: 여기선 다들 이그나시오를 알아요. 근데 여기선 말고요, 귀가 너무 많아요. 펍으로 가요.
@@ -129,8 +129,8 @@
 038. NIGEL: I don't know you. But I know Ignacio. Hace quince años trabajamos juntos en una operación, tabaco y hachís, aquí en la bahía. Él tenía una fuente, un chico de La Línea, muy joven.
     나이절: 당신은 몰라요. 하지만 이그나시오는 알죠. 15년 전에 같이 작전을 했어요. 담배랑 대마초, 여기 만에서요. 그 사람한테 정보원이 하나 있었어요. 라 리네아 출신 아이, 아주 어린.
 
-039. ÁLVARO: ¿Y qué pasó con el chico?
-    알바로: 그 애는 어떻게 됐어요?
+039. ÁLVARO: ¿Y qué pasó con el chico? Dígamelo sin rodeos, por favor.
+    알바로: 그 애는 어떻게 됐어요? 돌려 말하지 말고 말해 줘요.
 
 040. NIGEL: Ignacio decided que el chico era más útil quemado que vivo. Dio su nombre a la gente equivocada para proteger otra operación. Lo encontraron en la playa de Poniente.
     나이절: 이그나시오가 정했죠. 그 애는 살아 있는 것보다 정체가 드러나는 게 더 쓸모 있다고. 다른 작전을 지키려고 엉뚱한 놈들한테 그 애 이름을 줬어요. 포니엔테 해변에서 발견됐죠.
@@ -159,14 +159,14 @@
 048. NIGEL: Avergonzada, right. Con el acuerdo, Gibraltar tiene que demostrar que no es un paraíso de empresas fantasma.
     나이절: 창피하다, 라이트. 협정 때문에 지브롤터는 유령 회사 천국이 아니라는 걸 보여 줘야 해요.
 
-049. ÁLVARO: ¿Y por eso cierran oficinas?
-    알바로: 그래서 사무실들을 닫는 거예요?
+049. ÁLVARO: ¿Y por eso están cerrando oficinas, para quedar bien con Bruselas?
+    알바로: 그래서 사무실들을 닫는 거예요? 브뤼셀에 잘 보이려고?
 
 050. NIGEL: Small ones, feas, yes. Atalaya Advisory no tiene oficina, solo una dirección: una fiduciaria de Irish Town, Calpe Fiduciary Services. El dueño murió en marzo, un infarto. Natural, I think.
     나이절: 작고 지저분한 데들요, 네. 아탈라야 어드바이저리는 사무실이 없고 주소만 있어요. 아이리시 타운의 신탁회사, 칼페 피듀셔리 서비시스요. 사장이 3월에 심장마비로 죽었어요. 자연사, 인 것 같아요.
 
-051. ÁLVARO: ¿Lo cree o lo sabe?
-    알바로: 그렇게 생각하는 거예요, 아는 거예요?
+051. ÁLVARO: ¿Natural? ¿Lo cree usted o lo sabe de verdad, Nigel?
+    알바로: 자연사요? 그렇게 생각하는 거예요, 정말 아는 거예요, 나이절?
 
 052. NIGEL: Here we say "I think" for everything. Even for the weather. El caso es que la fiduciaria está cerrada y todo el archivo está en cajas en el sótano, esperando que alguien lo lleve a Londres.
     나이절: 여기선 뭐든 "인 것 같아요"라고 해요. 날씨 얘기할 때도요. 요점은, 그 신탁회사는 문 닫았고 서류는 전부 상자에 담겨 지하실에 있다는 거예요. 누가 런던으로 가져가길 기다리면서요.
@@ -195,8 +195,8 @@
 060. NIGEL: She is a bit like an embassy. Mañana, a las diez. La puerta verde junto a la carnicería.
     나이절: 좀 대사관 같긴 해요. 내일 열 시. 정육점 옆 초록 문이에요.
 
-061. ÁLVARO: ¿Y los móviles?
-    알바로: 휴대폰은요?
+061. ÁLVARO: ¿Y los móviles? El mío es de prepago, comprado en una gasolinera.
+    알바로: 휴대폰은요? 내 건 주유소에서 산 선불폰인데.
 
 062. NIGEL: Sin nombre, please. Como un buen inglés: sin nombre y sin opiniones.
     나이절: 이름 없는 걸로요, 플리즈. 착한 영국 사람처럼. 이름도 없고 의견도 없이.
@@ -231,11 +231,11 @@
 072. NIGEL: Two hours. Si oigo algo, digo "the tea is ready". Entonces apagan la luz y no respiran.
     나이절: 두 시간이에요. 무슨 소리 나면 "차 준비됐어요"라고 할게요. 그럼 불 끄고 숨도 쉬지 마요.
 
-073. ROCÍO: ¿Y si de verdad está el té?
-    로시오: 진짜로 차가 준비되면?
+073. ROCÍO: ¿Y si de verdad está el té? Con los ingleses nunca se sabe.
+    로시오: 진짜로 차가 준비된 거면? 영국 사람들은 모르는 거잖아.
 
-074. NIGEL: At this hour, the tea is never ready.
-    나이절: 이 시간엔 차가 절대 준비 안 돼요.
+074. NIGEL: At this hour, the tea is never ready. A estas horas, solo whisky.
+    나이절: 이 시간엔 차가 절대 준비 안 돼요. 이 시간엔 위스키뿐이죠.
 
 075. ÁLVARO: Aquí está. Atalaya Advisory Limited, constituida en dos mil diecinueve. Directora: una señora de ochenta y cuatro años que vive en Sandy Bay.
     알바로: 여기 있다. 아탈라야 어드바이저리 리미티드, 2019년 설립. 이사: 샌디 베이에 사는 여든네 살 할머니.
@@ -258,8 +258,8 @@
 081. ÁLVARO: Pilar Holdings, Luxemburgo. Esa pagó al ingeniero de la Sagrada Familia. Nordlicht Trading, Limasol. Cerulean Navigation, la dueña del barco que se nos escapó de Valencia.
     알바로: 필라르 홀딩스, 룩셈부르크. 사그라다 파밀리아 엔지니어한테 돈 준 데야. 노르트리히트 트레이딩, 리마솔. 세룰리언 내비게이션, 발렌시아에서 우리가 놓친 배 주인.
 
-082. ROCÍO: ¿Y esta? Mediterráneo Prime Properties, Benidorm.
-    로시오: 이건? 메디테라네오 프라임 프로퍼티스, 베니도름.
+082. ROCÍO: ¿Y esta otra? Mediterráneo Prime Properties, Benidorm. Me suena de algo.
+    로시오: 이건? 메디테라네오 프라임 프로퍼티스, 베니도름. 어디서 들어 본 것 같은데.
 
 083. ÁLVARO: El ruso de los pisos. E Iberdata Norte, la del centro de datos de Zaragoza.
     알바로: 아파트 팔던 러시아 놈. 그리고 이베르다타 노르테, 사라고사 데이터센터 빌리던 데.
@@ -279,14 +279,14 @@
 088. ROCÍO: Aquí lo que se enfría no son aguacates. Es lo que dijo Paco: los pagos vienen de la Roca. Con este dinero se pagan las gomas, los motores, la gasolina y los chavales que las pilotan.
     로시오: 거기서 식히는 건 아보카도가 아니지. 파코 말 그대로야. 돈은 바위에서 나온다. 이 돈으로 쾌속정이랑 엔진이랑 기름이랑, 그거 모는 애들까지 다 사는 거야.
 
-089. ÁLVARO: Rocío.
-    알바로: 로시오.
+089. ÁLVARO: Rocío, para un momento. Respira, que no tenemos prisa.
+    알바로: 로시오, 잠깐 멈춰. 숨 쉬어. 급할 거 없어.
 
 090. ROCÍO: Febrero, hace tres años. Hay un pago de ochenta mil ese mismo mes. "Reposición de material." ¿Sabes lo que es reponer material, Álvaro? Comprar otra lancha cuando la Guardia Civil te quita una.
     로시오: 3년 전 2월. 그달에 8만짜리가 하나 있어. "장비 보충." 장비 보충이 뭔지 알아, 알바로? 과르디아 시빌이 한 척 뺏으면 새로 한 척 사는 거야.
 
-091. ÁLVARO: Lo siento.
-    알바로: 미안해.
+091. ÁLVARO: Lo siento, Rocío. Lo siento de verdad, por Juan y por Migue.
+    알바로: 미안해, 로시오. 진심으로. 후안이랑 미게 일.
 
 092. ROCÍO: No lo sientas. Hazle una foto. A todas. Y luego me las pones delante cuando me entren ganas de rendirme.
     로시오: 미안해하지 마. 사진 찍어. 전부 다. 그리고 내가 포기하고 싶어질 때 내 눈앞에 들이밀어.
@@ -306,8 +306,8 @@
 097. ÁLVARO: En marzo esto estaba aquí, debajo de un gato. Hay algo más: un contrato sin nombre de cliente.
     알바로: 3월에 이건 여기, 고양이 밑에 있었어. 하나 더 있어. 고객 이름 없는 계약서.
 
-098. IKER: ¿Sin nombre? ¿Y qué pone?
-    이케르: 이름이 없다고요? 뭐라고 써 있는데요?
+098. IKER: ¿Sin nombre de cliente? ¿Y entonces qué pone en el contrato?
+    이케르: 고객 이름이 없다고요? 그럼 계약서엔 뭐라고 써 있는데요?
 
 099. ÁLVARO: "Servicio: gestión de crisis de reputación institucional. Fase final. Fecha de entrega: veintiséis de septiembre de dos mil veintisiete."
     알바로: "서비스: 기관 평판 위기 관리. 최종 단계. 인도일: 2027년 9월 26일."
@@ -315,8 +315,8 @@
 100. IKER: El veintiséis de septiembre. El día de las elecciones.
     이케르: 9월 26일. 총선 날이네요.
 
-101. ROCÍO: ¿Y cuánto cuesta una crisis así?
-    로시오: 그런 위기는 얼마나 하는데?
+101. ROCÍO: ¿Y cuánto cobra Atalaya por una crisis de ese tamaño?
+    로시오: 아탈라야는 그만한 위기에 얼마를 받는데?
 
 102. ÁLVARO: Doce millones. La mitad por adelantado y la otra mitad "a la entrega". Como quien encarga una boda.
     알바로: 1,200만. 반은 선불, 나머지 반은 "인도 시". 무슨 결혼식 주문하듯이.
@@ -348,8 +348,8 @@
 111. NIGEL: I will. Goodnight… Ya se fue. Ustedes, fuera, ahora. Por la puerta de atrás, no por la calle principal.
     나이절: 그럴게요. 안녕히 가세요… 갔어요. 두 분, 나가요, 지금. 뒷문으로요, 큰길 말고.
 
-112. ÁLVARO: ¿Quién ha entrado dos veces este mes, Nigel?
-    알바로: 이번 달에 두 번 들어온 게 누구예요, 나이절?
+112. ÁLVARO: ¿Quién ha entrado dos veces este mes, Nigel? ¿Ladrones o gente de Atalaya?
+    알바로: 이번 달에 두 번 들어온 게 누구예요, 나이절? 도둑이에요, 아탈라야 사람들이에요?
 
 113. NIGEL: I don't know. Pero si yo hubiera sabido que alguien más buscaba estas cajas, no os habría traído aquí. Go. Mañana hablamos.
     나이절: 몰라요. 근데 다른 누가 이 상자들을 찾고 있다는 걸 알았으면 두 분을 여기 안 데려왔을 거예요. 가요. 내일 얘기해요.
@@ -381,14 +381,14 @@
 122. SOTOMAYOR: Plus Ultra, con un "non" delante que no tenía que estar. Ya sabía yo que alguien vendría.
     소토마요르: 플루스 울트라. 앞에 원래 없어야 했던 '논'이 붙은 거. 언젠가 누가 올 줄 알았지.
 
-123. ROCÍO: ¿Por qué lo sabía?
-    로시오: 어떻게 아셨어요?
+123. ROCÍO: ¿Por qué lo sabía, don Tomás? Han pasado casi cuarenta años.
+    로시오: 어떻게 아셨어요, 돈 토마스? 벌써 40년 가까이 지났는데요.
 
 124. SOTOMAYOR: Porque los mecheros, niña, no se graban para encender cigarros. Se graban para acordarse de algo. Y lo que uno quiere recordar, otros quieren saberlo.
     소토마요르: 아가씨, 라이터는 담배 붙이려고 새기는 게 아니거든. 뭘 기억하려고 새기는 거야. 그리고 누가 기억하고 싶어 하는 건, 남들은 알고 싶어 하지.
 
-125. ÁLVARO: ¿Quién lo encargó?
-    알바로: 누가 주문했어요?
+125. ÁLVARO: ¿Y quién se lo encargó entonces? ¿Fue el propio Ignacio?
+    알바로: 그럼 그때 누가 주문했어요? 이그나시오 본인이었어요?
 
 126. SOTOMAYOR: Su padre. Lo tengo apuntado en el libro de encargos de mi padre. Mira: catorce de junio del ochenta y ocho.
     소토마요르: 그 애 아버지가. 우리 아버지 주문 장부에 적혀 있어. 봐, 88년 6월 14일.
@@ -399,20 +399,20 @@
 128. SOTOMAYOR: El padre quería Plus Ultra, como en el escudo. Para un hijo que acababa de aprobar las oposiciones del Estado, ¿qué mejor? "Más allá", que el niño iba a llegar lejos.
     소토마요르: 아버지는 국장(國章)처럼 플루스 울트라를 원했지. 막 국가 공무원 시험에 붙은 아들한테 그보다 나은 게 있겠나? "더 멀리". 아이가 멀리 갈 거라고.
 
-129. ROCÍO: ¿Y el "non"?
-    로시오: 그럼 '논'은요?
+129. ROCÍO: ¿Y el "non"? ¿Quién pidió que lo añadieran delante?
+    로시오: 그럼 '논'은요? 앞에 그걸 넣어 달라고 한 건 누구예요?
 
 130. SOTOMAYOR: Al día siguiente vino Ignacio solo. Veinticuatro años, flaco, con una chaqueta prestada. Puso un billete en el mostrador y me pidió que añadiera esa palabra delante, y que no se lo dijera a su padre.
     소토마요르: 다음 날 이그나시오가 혼자 왔어. 스물넷, 비쩍 마르고, 빌린 재킷 입고. 계산대에 지폐 한 장 올려놓더니 그 단어를 앞에 넣어 달라더군. 아버지한텐 말하지 말라고.
 
-131. ÁLVARO: ¿Le dijo por qué?
-    알바로: 이유는 말했어요?
+131. ÁLVARO: ¿Y le explicó por qué quería esa palabra delante?
+    알바로: 그 단어를 왜 앞에 넣고 싶은지 설명은 했어요?
 
 132. SOTOMAYOR: Me dijo: "Mi padre ya fue más allá una vez, Tomás. Alguien en esta casa tiene que saber dónde está el límite." No me dijo más, y yo no pregunté.
     소토마요르: 이러더군. "우리 아버진 이미 한 번 너머로 가 봤어요, 토마스 씨. 이 집에서 누군가는 한계가 어딘지 알아야죠." 그 이상은 말 안 했고, 나도 안 물었어.
 
-133. ÁLVARO: ¿Qué hizo su padre?
-    알바로: 그 아버지가 뭘 했는데요?
+133. ÁLVARO: ¿Y qué hizo su padre, don Tomás? ¿Adónde fue más allá?
+    알바로: 그 아버지가 뭘 했는데요, 돈 토마스? 어디 너머로 갔다는 거예요?
 
 134. SOTOMAYOR: Eso no me toca a mí contarlo. Lo que pasó en esa casa se quedó en esa casa, y la Viña guarda los secretos mejor que la Iglesia.
     소토마요르: 그건 내가 할 얘기가 아니야. 그 집에서 일어난 일은 그 집에 남았고, 라 비냐는 교회보다 비밀을 잘 지키거든.
@@ -435,8 +435,8 @@
 140. SOTOMAYOR: Con una camisa blanca y un coche que no cabía en la calle. Me dijo: "Si me hubiera quedado en Cádiz, Tomás, ahora sería un hombre honrado y pobre." Y se rio, pero sin ganas.
     소토마요르: 하얀 셔츠에, 골목에 들어오지도 못하는 차를 끌고. 그러더군. "토마스 씨, 내가 카디스에 남았으면 지금쯤 정직하고 가난한 사람이었겠죠." 그러고 웃었어. 마지못해.
 
-141. ROCÍO: ¿Y usted qué le contestó?
-    로시오: 그래서 뭐라고 하셨어요?
+141. ROCÍO: ¿Y usted qué le contestó, don Tomás, si se puede saber?
+    로시오: 그래서 뭐라고 대답하셨어요, 돈 토마스? 여쭤봐도 된다면요.
 
 142. SOTOMAYOR: Que aquí casi todos somos honrados y pobres. Luego me preguntó si alguien había venido por el mechero.
     소토마요르: 여기 사람은 거의 다 정직하고 가난하다고. 그랬더니 혹시 누가 라이터 물으러 왔었냐고 묻더군.
