@@ -9,7 +9,7 @@
 > - 난이도: B1+–B2 · 턴 수: 148
 > - 이번 화의 핵심 표현: "halcón", "sobrefacturar", "un seguimiento", "a menos que + 접속법", "que se forme", "ahorita", "no manches", "ponerse de malas"
 > - 방언 포인트: 레나타가 가르치는 *ahorita*의 세 가지 의미(지금 당장 / 이따가 / 영영 안) — 경비원의 "Ahorita reviso"로 회수. 멕시코 *chamaco, güero, morra, nomás, ándale, lada* vs 알바로의 마드리드 *chaval, chivato, madre mía*. 스페인 사람을 낮춰 부르는 멕시코 멸칭 *gachupín*.
-> - 복선/연결: 4화 끝의 쪽지 "Bienvenido, señor Robles"에서 시작. 위장 신분 유출 경로(대사관? 갈반?)와 갈반의 이중성 의심이 처음 싹튼다. 훌리오가 트레스 루나스·베르데 미초아칸 두 회사 장부에 모두 서명했다는 사실. 창고 앞 SUV의 양복 남자. 마지막 턴: 롤라의 연락 → 6화 망자의 날.
+> - 복선/연결: 4화 끝, 레나타와 통화 중 문 밑으로 들어온 손글씨 쪽지 "Bienvenido, señor Robles"에서 시작. 위장 신분 유출 경로(마드리드 본부? 갈반?)와 갈반의 이중성 의심이 처음 싹튼다. 훌리오가 트레스 루나스·베르데 미초아칸 두 회사 장부에 모두 서명했다는 사실. 창고 앞 SUV의 양복 남자. 마지막 턴: 롤라의 연락 → 6화 망자의 날.
 
 ---
 
@@ -18,29 +18,29 @@
 001. RENATA: "Bienvenido, señor Robles." ¿Y la dormiste debajo de la almohada o qué? Enséñamela otra vez.
     레나타: "환영합니다, 로블레스 씨." 그거 베개 밑에 깔고 잤어? 다시 보여 줘.
 
-002. ÁLVARO: Aquí la tienes. Papel del hotel, letras de imprenta, ni una huella. La pasaron por debajo de la puerta a las tres y diez de la madrugada.
-    알바로: 자, 여기. 호텔 메모지, 또박또박 쓴 대문자, 지문 하나 없어. 새벽 3시 10분에 문 밑으로 밀어 넣었더라.
+002. ÁLVARO: Aquí la tienes. Papel del hotel, escrita a mano, con letra de colegio de monjas y ni una huella. La pasaron por debajo de la puerta mientras hablaba contigo.
+    알바로: 자, 여기. 호텔 메모지, 손글씨, 수녀원 학교에서 배운 것 같은 반듯한 글씨에 지문 하나 없어. 너랑 통화하는 동안 문 밑으로 밀어 넣었어.
 
-003. RENATA: ¿Y cómo sabes la hora exacta?
-    레나타: 시간은 어떻게 그렇게 정확히 알아?
+003. RENATA: ¿Y de verdad no viste a nadie en el pasillo?
+    레나타: 복도에서 진짜 아무도 못 봤어?
 
-004. ÁLVARO: Porque no dormía. El jet lag y yo tenemos una relación muy intensa.
-    알바로: 안 자고 있었으니까. 나랑 시차는 아주 뜨거운 사이거든.
+004. ÁLVARO: A nadie. Y después no pegué ojo. El jet lag y yo tenemos una relación muy intensa.
+    알바로: 아무도. 그러고 나서 한숨도 못 잤어. 나랑 시차는 아주 뜨거운 사이거든.
 
 005. RENATA: Pues bienvenido a la Roma, güey. Aquí el café es bueno, el aguacate está carísimo y alguien ya sabe cómo te llamas. Bueno, cómo te llamas de mentira.
     레나타: 그럼 로마 지구에 온 걸 환영해. 여긴 커피 맛있고, 아보카도는 엄청 비싸고, 누군가는 벌써 네 이름을 알아. 아, 가짜 이름 말이야.
 
-006. ÁLVARO: Eso es justo lo que me preocupa. Javier Robles nació hace una semana. En Madrid lo conocen cuatro personas, y aquí, en teoría, solo una.
-    알바로: 내가 걱정하는 게 바로 그거야. 하비에르 로블레스는 일주일 전에 태어났어. 마드리드에서 아는 사람은 넷, 여기선 이론상 딱 한 명.
+006. ÁLVARO: Eso es justo lo que me preocupa. Javier Robles nació hace una semana. En Madrid lo conocen cuatro personas, y aquí, en teoría, solo dos: tú y él.
+    알바로: 내가 걱정하는 게 바로 그거야. 하비에르 로블레스는 일주일 전에 태어났어. 마드리드에서 아는 사람은 넷, 여기선 이론상 딱 둘. 너, 그리고 그 사람.
 
-007. RENATA: Galván.
-    레나타: 갈반.
+007. RENATA: Y yo no fui. Así que… Galván.
+    레나타: 난 아니고. 그럼… 갈반.
 
 008. ÁLVARO: Galván. Que, por cierto, llega tarde.
     알바로: 갈반. 그런데 그 사람, 늦네.
 
-009. GALVÁN: ¡Llego puntual, señor Robles! Puntual mexicano, que es otra cosa. Buenos días, señorita Villaseñor. ¿Ya pidieron? Aquí en la plaza Río de Janeiro los chilaquiles verdes son una religión.
-    갈반: 정시에 왔습니다, 로블레스 씨! 멕시코식 정시요, 그건 좀 다르죠. 안녕하세요, 비야세뇨르 기자님. 주문은 하셨어요? 이 리우데자네이루 광장에선 초록 칠라킬레스가 거의 종교예요.
+009. GALVÁN: ¡Llego puntual, señor Robles! Puntual mexicano, que es otra cosa. Y usted se me adelantó: yo iba a pasar por su hotel. Buenos días, señorita Villaseñor. Aquí en la plaza Río de Janeiro los chilaquiles verdes son una religión.
+    갈반: 정시에 왔습니다, 로블레스 씨! 멕시코식 정시요, 그건 좀 다르죠. 그리고 먼저 나와 계셨네요. 호텔로 모시러 가려 했는데. 안녕하세요, 비야세뇨르 기자님. 이 리우데자네이루 광장에선 초록 칠라킬레스가 거의 종교예요.
 
 010. ÁLVARO: Siéntese, Galván. Antes de los chilaquiles, lea esto.
     알바로: 앉으세요, 갈반. 칠라킬레스 전에 이것부터 읽어 보시죠.
@@ -48,17 +48,17 @@
 011. GALVÁN: "Bienvenido, señor Robles." Ah, caray. ¿Se lo dejaron en el cuarto?
     갈반: "환영합니다, 로블레스 씨." 아이고, 이런. 방에 두고 갔어요?
 
-012. ÁLVARO: Debajo de la puerta. Y antes de que me lo pregunte: no, no le he dado este nombre a nadie en México, salvo a usted.
-    알바로: 문 밑에요. 묻기 전에 말씀드리면, 아뇨, 멕시코에서 이 이름을 알려 준 사람은 당신밖에 없습니다.
+012. ÁLVARO: Debajo de la puerta. Y antes de que me lo pregunte: no, en México este nombre solo lo saben usted y ella.
+    알바로: 문 밑에요. 묻기 전에 말씀드리면, 아뇨, 멕시코에서 이 이름을 아는 사람은 당신이랑 이 사람뿐입니다.
 
 013. GALVÁN: Pues yo no lo escribí, se lo juro por mi madrecita. Mi letra es mucho más fea.
     갈반: 저는 안 썼어요, 우리 어머니를 걸고 맹세합니다. 제 글씨는 이것보다 훨씬 못생겼거든요.
 
-014. RENATA: ¿Y su gente? Porque quien haya reservado ese hotel sabía el nombre.
-    레나타: 그쪽 사람들은요? 그 호텔 예약한 사람은 이름을 알았을 거잖아요.
+014. RENATA: ¿Y su gente? Porque quien haya elegido ese hotel sabía el nombre.
+    레나타: 그쪽 사람들은요? 그 호텔 고른 사람은 이름을 알았을 거잖아요.
 
-015. GALVÁN: La reserva la hizo su embajada, no nosotros. Si quieren buscar una fuga, empiecen por su casa, no por la mía.
-    갈반: 예약은 그쪽 대사관이 했어요, 우리가 아니라. 새는 데를 찾고 싶으면 남의 집 말고 자기 집부터 뒤지세요.
+015. GALVÁN: El hotel lo elegí yo, sí, pero con su gente de Madrid. Si quieren buscar una fuga, empiecen por su casa, no por la mía.
+    갈반: 호텔은 제가 골랐죠, 네. 하지만 마드리드 쪽 사람들이랑 같이요. 새는 데를 찾고 싶으면 남의 집 말고 자기 집부터 뒤지세요.
 
 016. ÁLVARO: ¿Su CNI o el mío?
     알바로: 당신네 CNI요, 우리 CNI요?
@@ -463,7 +463,7 @@
 
 ## 핵심 표현 정리 (낭독하지 않음)
 
-- **quien haya + 과거분사** — ~한 사람이 누구든(접속법 현재완료) / "quien haya reservado ese hotel sabía el nombre" (014)
+- **quien haya + 과거분사** — ~한 사람이 누구든(접속법 현재완료) / "quien haya elegido ese hotel sabía el nombre" (014)
 - **que se forme (hay fila)** — 줄 서라고 해, 대기 줄 길다(멕시코 구어, 비꼼) / "Si alguien quería asustarnos, que se forme." (018)
 - **halcón** — 멕시코에서 카르텔의 망보는 사람 / "Aquí se llaman halcones porque lo ven todo desde arriba." (024)
 - **sobrefacturar** — 과다 청구하다(돈세탁의 고전 수법) / "En mi tierra eso se llama sobrefacturar." (029)
