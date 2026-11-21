@@ -35,8 +35,8 @@
 007. ROSE: Alithos Anesti, which means "Truly, he is risen," after you say "He is risen." Good boy, so now go find the red eggs in the bowl on the windowsill.
     로즈: 알리소스 아네스티. "부활하셨다" 하면 "참으로 부활하셨다" 하는 거야. 착하다. 이제 창턱 그릇에 있는 빨간 달걀 찾아와.
 
-008. ZOE: Yiayia, can I keep recording? My history teacher gave me extra credit last time, so this time I'm doing Easter.
-    조이: 할머니, 계속 녹화해도 돼? 역사 선생님이 지난번에 가산점 줬거든. 이번엔 부활절로 할 거야.
+008. ZOE: Yiayia, can I keep recording? Mr. Okafor gave me extra credit last time, so this time I'm doing Easter.
+    조이: 할머니, 계속 녹화해도 돼? 오카포 선생님이 지난번에 가산점 줬거든. 이번엔 부활절로 할 거야.
 
 009. ROSE: Record, but if I say something bad about your uncle, you erase it.
     로즈: 녹화해. 근데 내가 네 삼촌 욕하면 지워.
@@ -122,8 +122,8 @@
 036. STATHIS: Rose, Christos Anesti! Is that John's son on the lamb? Stand up straight, boy, because your father turned it with one hand and held a cigarette with the other.
     스타티스: 로즈! 흐리스토스 아네스티! 양 돌리는 게 존 아들이야? 똑바로 서라, 얘야. 네 아버진 한 손으로 돌리고 다른 손엔 담배 들었어.
 
-037. DAN: Alithos Anesti, sir, but my father quit smoking in 1999.
-    댄: 알리소스 아네스티, 아저씨. 근데 아버지는 1999년에 담배 끊으셨어요.
+037. DAN: Alithos Anesti, Mr. Stathis, but my father quit smoking in 1999.
+    댄: 알리소스 아네스티, 스타시스 아저씨. 근데 아버지는 1999년에 담배 끊으셨어요.
 
 038. STATHIS: He quit on paper, but in the garage he smoked until 2003, and I know, because I gave him the matches.
     스타티스: 서류상으로는. 차고에선 2003년까지 피웠어. 내가 알지, 성냥을 내가 줬으니까.
@@ -224,8 +224,8 @@
 070. STATHIS: Use it, because Walsh is dead and he won't sue you. Your father will, though, because he's a lawyer.
     스타티스: 써. 월시는 죽었으니 고소 안 할 거다. 네 아버지는 하겠지만. 변호사잖아.
 
-071. DAN: I'm not going to sue my own daughter, I promise you that.
-    댄: 제 딸을 고소하진 않아요, 약속해요.
+071. DAN: I'm not going to sue my own daughter, Mr. Stathis, I promise you that.
+    댄: 제 딸을 고소하진 않아요, 스타시스 아저씨. 약속해요.
 
 072. KEVIN: Don't be so sure, because he sues everybody now.
     케빈: 장담하지 마. 형은 요즘 다 고소해.
