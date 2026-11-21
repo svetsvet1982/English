@@ -407,8 +407,8 @@
 131. DECLAN: I was just visiting.
     데클런: 그냥 방문하러 왔어요.
 
-132. HOWARD: Ruth's office, I'd guess. She makes better coffee than I do, and she'll tell you so. How is Rose? She hasn't answered my texts in weeks. I hope it's only sixteen.
-    하워드: 루스 사무실이겠지. 그 사람 커피가 내 것보다 낫지, 본인도 그렇게 말할 거고. 로즈는 어떠니? 몇 주째 내 문자에 답이 없구나. 그냥 열여섯 살이라 그런 거면 좋겠다.
+132. HOWARD: Ruth's office, I'd guess. She makes better coffee than I do, and she'll tell you so. How is Rose? She's gone quiet since the cow photo. I hope it's only sixteen.
+    하워드: 루스 사무실이겠지. 그 사람 커피가 내 것보다 낫지, 본인도 그렇게 말할 거고. 로즈는 어떠니? 소 사진 보낸 뒤로 조용하구나. 그냥 열여섯 살이라 그런 거면 좋겠다.
 
 133. DECLAN: She's busy. Summer. You know.
     데클런: 바빠요. 여름이잖아요. 아시잖아요.
