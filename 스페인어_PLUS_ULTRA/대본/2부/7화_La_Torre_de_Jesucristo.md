@@ -36,8 +36,8 @@
 007. ROIG: Hasta las dos. A las dos entra el turno de las grúas y empieza a haber gente que hace preguntas.
     로이그: 두 시까지. 두 시면 크레인 조가 들어오고, 이것저것 묻는 사람들이 생기기 시작해.
 
-008. NÚRIA: ¿Trabajan de noche, las grúas?
-    누리아: 크레인이 밤에도 일해요?
+008. NÚRIA: ¿Las grúas trabajan de noche? Yo pensaba que en esta ciudad las obras paraban hasta para el vermut.
+    누리아: 크레인이 밤에도 일해요? 이 도시는 베르무트 마실 때도 공사 멈추는 줄 알았는데.
 
 009. ROIG: Desde el centenario no paran. Con la torre de Jesucristo acabada, ahora van a por la fachada de la Gloria, y de día no se puede mover nada con tanto turista.
     로이그: 백 주기 이후로 쉬지를 않아. 예수 그리스도 탑이 끝났으니 이제 영광의 파사드로 넘어가는데, 낮엔 관광객이 워낙 많아서 아무것도 못 옮기거든.
@@ -51,17 +51,17 @@
 012. ROIG: Eso dicen todos los que luego me llaman a las cuatro de la mañana. Bona nit.
     로이그: 다들 그렇게 말하고 나서 새벽 네 시에 나한테 전화하더라. 잘 자.
 
-013. ÁLVARO: Ha colgado.
-    알바로: 끊었네.
+013. ÁLVARO: Ha colgado sin esperar respuesta. En Madrid a eso lo llamamos cariño de jefa.
+    알바로: 대답도 안 듣고 끊었네. 마드리드에선 그걸 상사의 애정이라고 하지.
 
-014. NÚRIA: Me cae bien. Es la primera persona de tu Casa que habla claro.
-    누리아: 저 사람 마음에 들어. 너네 '집' 사람 중에 처음으로 말을 똑바로 하는 사람이야.
+014. NÚRIA: Me cae bien. Es la primera persona de tu Casa que habla claro, aunque sea para amenazarnos, y eso, viniendo de vosotros, ya es mucho decir.
+    누리아: 저 사람 마음에 들어. 너네 '집' 사람 중에 처음으로 말을 똑바로 하는 사람이야. 우릴 협박하려고 하는 말이라도. 너희한테서 그 정도면 대단한 거지.
 
-015. ÁLVARO: No es mi Casa. Es la suya. En la suya yo soy el realquilado.
-    알바로: 내 집 아니야. 저 사람 집이지. 거기서 난 세 들어 사는 사람이고.
+015. ÁLVARO: No es mi Casa, es la suya. Yo aquí soy el realquilado de Madrid, el que paga tarde y hace ruido, y ella lo sabe perfectamente.
+    알바로: 내 집 아니야, 저 사람 집이지. 난 여기서 마드리드에서 온 세입자야. 월세 늦게 내고 시끄러운. 저 사람도 그거 잘 알고.
 
-016. NÚRIA: ¿Qué es eso que vibra?
-    누리아: 그거 뭐야, 진동 울리는 거?
+016. NÚRIA: ¿Qué es eso que te vibra en el bolsillo? No me digas que es tu directora otra vez.
+    누리아: 주머니에서 뭐가 울리는 거야? 설마 또 너네 국장은 아니지?
 
 017. ÁLVARO: Mi hija. Un audio. Desde el sábado me manda uno cada noche y yo no le contesto.
     알바로: 내 딸. 음성 메시지. 토요일부터 밤마다 하나씩 보내는데, 내가 답을 안 해.
@@ -78,8 +78,8 @@
 021. NÚRIA: Tu hija tiene más carácter que todo tu ministerio junto.
     누리아: 네 딸, 너네 부처 전체 합친 것보다 깡다구 있다.
 
-022. ÁLVARO: Eso lo ha sacado de su madre, que es abogada y no perdona.
-    알바로: 그건 엄마 닮은 거야. 변호사라 봐주는 게 없거든.
+022. ÁLVARO: Eso lo ha sacado de su madre, que es abogada y no perdona ni una. Si le hubieras visto la cara cuando le conté lo de Barcelona, lo entenderías.
+    알바로: 그건 엄마 닮은 거야. 변호사라 하나도 안 봐주거든. 바르셀로나 간다고 했을 때 그 사람 얼굴 봤으면 너도 이해할 거야.
 
 023. NÚRIA: No sé yo. "Sin la palabra estadística." Eso es muy tuyo.
     누리아: 글쎄다. "'통계'라는 단어 빼고." 그거 완전 너잖아.
@@ -102,26 +102,26 @@
 029. GUARDIA DE SEGURIDAD: Los de las grúas, a partir de las dos. Y el chico de los sensores, que está arriba. Ese no duerme nunca.
     경비원: 크레인 쪽은 두 시부터고요. 그리고 센서 담당 청년, 위에 있어요. 그 친구는 잠을 안 자요.
 
-030. ÁLVARO: ¿Arriba dónde?
-    알바로: 위 어디요?
+030. ÁLVARO: ¿Arriba dónde, exactamente? Porque desde aquí abajo todo lo que veo es arriba.
+    알바로: 위 어디요, 정확히? 여기서 보면 전부 위라서요.
 
 031. GUARDIA DE SEGURIDAD: En la torre de Jesucristo. Ahí, donde la cruz. Sube casi todas las noches a calibrar no sé qué, dice que de noche la piedra está más tranquila.
     경비원: 예수 그리스도 탑이요. 저기, 십자가 있는 데. 거의 매일 밤 올라가서 뭘 보정한다나. 밤엔 돌이 더 차분하대요.
 
-032. NÚRIA: ¿Cómo se llama?
-    누리아: 이름이 뭐예요?
+032. NÚRIA: ¿Y cómo se llama ese chico que no duerme nunca? Por si tenemos que preguntarle algo.
+    누리아: 그 잠 안 자는 청년 이름이 뭐예요? 혹시 물어볼 게 생길지 몰라서요.
 
 033. GUARDIA DE SEGURIDAD: Oriol. Un chaval muy educado. Si necesitan algo de la red, él se lo sabe todo. El cuarto técnico está ahí, detrás de los palés.
     경비원: 오리올이요. 아주 예의 바른 청년이에요. 네트워크 쪽으로 필요한 거 있으면 그 친구가 다 알아요. 기술실은 저기, 팔레트 뒤에 있어요.
 
-034. ÁLVARO: Gracias. Si le necesitamos, ya le avisaremos.
-    알바로: 고맙습니다. 필요하면 부를게요.
+034. ÁLVARO: Gracias, Quim. Si le necesitamos, ya le avisaremos; usted siga con lo suyo y no pase frío.
+    알바로: 고마워요, 킴. 필요하면 부를게요. 하던 일 하시고 감기 조심하세요.
 
 035. NÚRIA: Mira hacia arriba. No, en serio, Álvaro, para un segundo y mira.
     누리아: 위 좀 봐. 아니, 진짜로, 알바로. 잠깐 멈춰서 봐.
 
-036. ÁLVARO: Hostia.
-    알바로: 와, 씨.
+036. ÁLVARO: Hostia. Perdona la palabra, con la iglesia delante, pero es que no hay otra.
+    알바로: 와, 씨. 성당 앞에서 미안한 말이지만, 다른 말이 안 나와.
 
 037. NÚRIA: Ciento setenta y dos metros y medio. Un poco menos que Montjuïc, porque Gaudí decía que su obra no podía ser más alta que la obra de Dios.
     누리아: 172.5미터. 몬주익보다 조금 낮아. 가우디가 자기 작품이 신의 작품보다 높아선 안 된다고 했거든.
@@ -132,20 +132,20 @@
 039. NÚRIA: La subieron el año pasado, para el centenario de su muerte. Media Barcelona salió al balcón. Mi madre lloró, y mi madre no pisa una iglesia desde 1985.
     누리아: 작년에, 가우디 서거 백 주기에 올렸어. 바르셀로나 절반이 발코니로 나왔지. 우리 엄마가 울었어. 1985년 이후로 성당에 발도 안 들인 사람이.
 
-040. ÁLVARO: ¿Y tú?
-    알바로: 넌?
+040. ÁLVARO: ¿Y tú? No me digas que tú también saliste al balcón a llorar como tu madre.
+    알바로: 넌? 설마 너도 엄마처럼 발코니에 나가서 운 건 아니지?
 
 041. NÚRIA: Yo estaba en el taller, destripando un malware ruso. Lo vi en directo en el móvil. En una pantalla, todo parece más pequeño.
     누리아: 난 작업실에서 러시아 악성코드 뜯어보고 있었어. 휴대폰으로 생중계 봤지. 화면으로 보면 뭐든 작아 보여.
 
-042. ÁLVARO: Pues ahí la tienes, a tamaño real y sin pantalla de por medio.
-    알바로: 자, 저기 있네. 실물 크기로, 화면 없이.
+042. ÁLVARO: Pues ahí la tienes, a tamaño real y sin pantalla de por medio. Aunque hayamos venido a buscar un servidor, déjame mirarla un minuto más.
+    알바로: 자, 저기 있네. 실물 크기로, 화면 없이. 서버 찾으러 온 거긴 하지만, 1분만 더 보자.
 
 043. NÚRIA: Y en algún sitio de ahí arriba hay un servidor escuchando a siete ministros. Qué manera de estropear una postal, collons.
     누리아: 그리고 저 위 어딘가에 장관 일곱 명을 엿듣는 서버가 있고. 엽서 한 장 제대로 망쳐 놨네, 젠장.
 
-044. ÁLVARO: ¿Este es el cuarto?
-    알바로: 여기가 기술실이야?
+044. ÁLVARO: ¿Este es el cuarto técnico? Pensaba que sería más grande, la verdad, con tanto cable.
+    알바로: 여기가 기술실이야? 솔직히 케이블이 이렇게 많은데 더 클 줄 알았어.
 
 045. NÚRIA: Sí. Aguántame la linterna. No, más abajo, que no veo las etiquetas.
     누리아: 응. 손전등 좀 들어 줘. 아니, 더 아래. 라벨이 안 보여.
@@ -156,8 +156,8 @@
 047. NÚRIA: El concentrador. Todos los sensores de la obra, inclinómetros, galgas, estaciones de viento, mandan sus datos aquí antes de salir a internet. Si el servidor de control se esconde entre ellos, tiene que pasar por esta caja.
     누리아: 집선기. 공사장 센서 전부, 경사계, 변형률 게이지, 풍속계가 인터넷으로 나가기 전에 여기로 데이터를 보내. 제어 서버가 그 사이에 숨어 있다면 반드시 이 상자를 거쳐야 해.
 
-048. ÁLVARO: ¿Y eso que te sacas del bolsillo?
-    알바로: 그럼 주머니에서 꺼내는 그건 뭔데?
+048. ÁLVARO: ¿Y eso que te acabas de sacar del bolsillo? Porque eso no venía en el plan de Mercè.
+    알바로: 그럼 방금 주머니에서 꺼낸 그건 뭔데? 그건 메르세 계획에 없던 거잖아.
 
 049. NÚRIA: Nada. Un chisme del tamaño de una caja de cerillas. Copia lo que pasa por el cable y me lo manda a casa.
     누리아: 아무것도 아니야. 성냥갑만 한 물건. 케이블로 지나가는 걸 복사해서 우리 집으로 보내 줘.
@@ -165,8 +165,8 @@
 050. ÁLVARO: Núria. Mercè ha dicho que no toquemos nada que no sea nuestro.
     알바로: 누리아. 메르세가 우리 것 아닌 건 건드리지 말랬어.
 
-051. NÚRIA: Y no lo toco. Lo enchufo. Es distinto.
-    누리아: 안 건드려. 꽂기만 하는 거야. 달라.
+051. NÚRIA: Y no lo toco, Álvaro. Lo enchufo, que es muy distinto. Tocar sería romper algo, y yo no rompo nada.
+    누리아: 안 건드려, 알바로. 꽂기만 하는 거야. 그건 완전히 달라. 건드리는 건 뭘 망가뜨리는 거고, 난 아무것도 안 망가뜨려.
 
 052. ÁLVARO: Eso es intervenir comunicaciones sin autorización judicial. Si alguien lo encuentra, no es que nos quemen a nosotros, es que el caso entero se va a la basura.
     알바로: 그거 법원 허가 없는 통신 감청이야. 누가 찾아내면 우리만 끝나는 게 아니라 사건 전체가 쓰레기통으로 가는 거라고.
@@ -174,8 +174,8 @@
 053. NÚRIA: ¿Me vas a dar tú lecciones de autorización judicial? ¿Tú? ¿Quieres que te recuerde quién leyó mis mensajes en 2020 sin pedirle permiso a nadie?
     누리아: 네가 나한테 법원 허가 강의를 하겠다고? 네가? 2020년에 누구 허락도 없이 내 메시지 읽은 게 누군지 다시 말해 줄까?
 
-054. ÁLVARO: No hace falta que me lo recuerdes.
-    알바로: 다시 말할 필요 없어.
+054. ÁLVARO: No hace falta que me lo recuerdes. Me lo recuerdo yo solo todas las noches, en esa escalera de cinco pisos.
+    알바로: 다시 말할 필요 없어. 그 5층 계단에서 매일 밤 나 혼자 되새기니까.
 
 055. NÚRIA: Pues entonces déjame. Dos minutos, y te prometo que lo quito antes de que nadie se dé cuenta.
     누리아: 그럼 그냥 놔둬. 2분이면 돼. 아무도 눈치채기 전에 뗄게, 약속해.
@@ -186,8 +186,8 @@
 057. NÚRIA: Que conste. Ya está. Luz verde. Mira, ya empieza a…
     누리아: 분명히 해 둘게. 됐다. 초록불. 봐, 벌써 들어오기 시작…
 
-058. ORIOL: Bona nit. Perdonin, ¿se han perdido?
-    오리올: 안녕하세요. 실례지만, 길을 잃으셨나요?
+058. ORIOL: Bona nit. Perdonin, ¿se han perdido? Este cuarto no suele recibir visitas, y menos a estas horas.
+    오리올: 안녕하세요. 실례지만, 길을 잃으셨나요? 이 방엔 손님이 잘 안 오거든요. 이 시간엔 더더욱이요.
 
 059. ÁLVARO: Buenas noches. No, qué va. Somos los de la aseguradora.
     알바로: 안녕하세요. 아뇨, 전혀요. 보험사에서 왔습니다.
@@ -207,20 +207,20 @@
 064. ORIOL: Casi siempre. De día hay quince mil personas dentro y el ruido de diez grúas. Los sensores de la torre no se pueden calibrar con todo eso vibrando.
     오리올: 거의 늘요. 낮엔 안에 만 오천 명이 있고 크레인 열 대가 시끄럽게 돌아가거든요. 그게 다 흔들리는 상태론 탑 센서를 보정할 수가 없어요.
 
-065. NÚRIA: ¿Y de noche no vibra?
-    누리아: 밤엔 안 흔들려요?
+065. NÚRIA: ¿Y de noche no vibra nada? Con este viento, yo diría que hasta las piedras tiemblan.
+    누리아: 밤엔 아무것도 안 흔들려요? 이 바람이면 돌까지 떨 것 같은데.
 
 066. ORIOL: Solo el viento. Esta noche sopla tramontana, por eso subía. Quiero que los datos queden limpios antes de que empiecen con la Gloria.
     오리올: 바람만요. 오늘 밤엔 트라문타나가 불어서 올라가려던 참이었습니다. 영광의 파사드 공사가 시작되기 전에 데이터를 깨끗하게 남겨 두고 싶어서요.
 
-067. ÁLVARO: ¿Subía adónde? ¿Ahí arriba?
-    알바로: 어디로 올라가요? 저 위로?
+067. ÁLVARO: ¿Subía adónde? ¿Ahí arriba, donde la cruz, con este viento y a estas horas?
+    알바로: 어디로 올라가요? 저 위, 십자가 있는 데요? 이 바람에, 이 시간에?
 
 068. ORIOL: A la base de la cruz. Hay un montacargas de obra hasta el último nivel. Si no tienen vértigo, les enseño los nodos de allí. Para su informe, digo.
     오리올: 십자가 바로 아래까지요. 꼭대기 층까지 공사용 리프트가 있습니다. 고소공포증 없으시면 거기 노드들도 보여 드릴게요. 보고서에 쓰시라고요.
 
-069. NÚRIA: ¿Se puede?
-    누리아: 그래도 돼요?
+069. NÚRIA: ¿De verdad se puede subir? Llevo toda la vida mirándola desde abajo y nunca he subido a ninguna torre.
+    누리아: 진짜 올라가도 돼요? 평생 아래서만 봤지, 탑엔 한 번도 올라가 본 적 없어요.
 
 070. ORIOL: Con casco, arnés y conmigo, sí. Sin mí, no dejaría subir ni al Papa.
     오리올: 안전모, 하네스, 그리고 제가 같이 있으면요. 제가 없으면 교황님도 못 올라가십니다.
@@ -231,8 +231,8 @@
 072. ORIOL: Agárrense a la barra. Son tres minutos. Al principio impresiona un poco; luego uno se acostumbra.
     오리올: 손잡이 꼭 잡으세요. 3분 걸립니다. 처음엔 좀 아찔한데, 금방 익숙해져요.
 
-073. ÁLVARO: ¿Usted se ha acostumbrado?
-    알바로: 당신은 익숙해졌어요?
+073. ÁLVARO: ¿Y usted se ha acostumbrado, después de tantas subidas, o todavía se agarra a la barra?
+    알바로: 그럼 당신은 익숙해졌어요? 그렇게 많이 올라갔으니. 아니면 아직도 손잡이 잡아요?
 
 074. ORIOL: Yo subo desde los veintitrés. Ya no sé si me he acostumbrado o si es que ya no me queda miedo.
     오리올: 스물세 살 때부터 올라왔어요. 이젠 익숙해진 건지, 아니면 두려움이 다 떨어진 건지 모르겠습니다.
@@ -243,26 +243,26 @@
 076. ORIOL: Seis. Entré de becario cuando todavía faltaban las torres de los evangelistas. He visto crecer cada una en la pantalla antes de verla en la piedra.
     오리올: 6년이요. 복음사가 탑들이 아직 안 올라갔을 때 인턴으로 들어왔어요. 탑 하나하나가 돌로 올라가기 전에 화면에서 자라는 걸 봤죠.
 
-077. ÁLVARO: Debe de ser raro. Construirlo todo dos veces.
-    알바로: 이상하겠네요. 전부 두 번씩 짓는 거니까.
+077. ÁLVARO: Debe de ser raro, ¿no? Construirlo todo dos veces, primero en la pantalla y luego en la piedra.
+    알바로: 이상하겠네요. 전부 두 번씩 짓는 거잖아요. 먼저 화면에서, 그다음에 돌로.
 
 078. ORIOL: Es lo más bonito que hay. Primero lo hacemos sin peso, en el ordenador, y luego la piedra nos dice si teníamos razón. Casi siempre la tenemos.
     오리올: 세상에서 제일 아름다운 일이에요. 먼저 컴퓨터 안에서 무게 없이 짓고, 그다음에 돌이 우리가 맞았는지 말해 주죠. 거의 늘 맞습니다.
 
-079. NÚRIA: ¿Casi?
-    누리아: 거의?
+079. NÚRIA: ¿Casi? ¿Y qué pasa las veces que la piedra les dice que no tenían razón?
+    누리아: 거의요? 그럼 돌이 틀렸다고 말할 땐 어떻게 되는데요?
 
 080. ORIOL: Casi. La piedra tiene su carácter, com tothom. Ja hi som. Cuidado con el escalón, que está helado.
     오리올: 거의요. 돌도 성깔이 있거든요, 누구나 그렇듯이. 다 왔습니다. 계단 조심하세요, 얼어 있어요.
 
-081. ÁLVARO: Madre mía.
-    알바로: 세상에.
+081. ÁLVARO: Madre mía. Si mi padre viera esto, diría que Barcelona tiene más luces que todas las estaciones de la línea uno juntas.
+    알바로: 세상에. 우리 아버지가 이걸 보면, 바르셀로나 불빛이 1호선 역 전부 합친 것보다 많다고 하실 거예요.
 
 082. ORIOL: Barcelona entera. Allí el mar, allí Montjuïc, detrás el Tibidabo. Y aquí encima, la cruz. Tóquenla si quieren, que no muerde.
     오리올: 바르셀로나 전체예요. 저기가 바다, 저기가 몬주익, 뒤쪽이 티비다보. 그리고 바로 위가 십자가입니다. 만져 보셔도 돼요, 안 물어요.
 
-083. NÚRIA: Está tibia.
-    누리아: 미지근하네.
+083. NÚRIA: Está tibia. Con el frío que hace, pensaba que se me iba a quedar la mano pegada.
+    누리아: 미지근하네요. 이렇게 추운데, 손이 쩍 달라붙을 줄 알았어요.
 
 084. ORIOL: Son los leds. Va iluminada por dentro, por eso de noche se ve desde los aviones. Mi abuela dice que es lo único bueno que ha hecho esta obra en cincuenta años.
     오리올: LED 때문이에요. 안에서 불을 밝혀서 밤엔 비행기에서도 보이죠. 저희 할머니는 이게 이 공사가 오십 년 동안 한 일 중에 유일하게 잘한 거래요.
@@ -273,8 +273,8 @@
 086. ORIOL: Mi abuela es de Gaudí como uno es de su familia: lo quiere mucho y no lo aguanta. Pero eso es otra historia. ¿Les enseño los nodos?
     오리올: 할머니가 가우디를 대하는 건 가족 대하듯 해요. 아주 사랑하는데 견디질 못하죠. 근데 그건 다른 얘기고요. 노드 보여 드릴까요?
 
-087. NÚRIA: Sí, por favor. ¿Cuántos hay en la torre?
-    누리아: 네, 부탁해요. 탑에 몇 개나 있어요?
+087. NÚRIA: Sí, por favor, que para eso hemos venido. ¿Cuántos nodos hay en esta torre, más o menos?
+    누리아: 네, 부탁해요. 그거 보러 온 거니까요. 이 탑에 노드가 대략 몇 개나 있어요?
 
 088. ORIOL: Cuarenta y dos. Inclinómetros, galgas extensométricas, temperatura, viento. Cada uno manda una lectura cada diez segundos. Si la torre se mueve un milímetro, lo sabemos antes que ella.
     오리올: 마흔두 개요. 경사계, 변형률 게이지, 온도, 바람. 하나하나가 10초마다 측정값을 보냅니다. 탑이 1밀리만 움직여도 탑보다 우리가 먼저 알아요.
@@ -285,11 +285,11 @@
 090. ORIOL: El despacho técnico, la empresa de mantenimiento y yo. Bueno, sobre todo yo. Soy el único que se lo sabe de memoria.
     오리올: 기술사무소, 유지보수 업체, 그리고 저요. 뭐, 주로 저죠. 이걸 통째로 외우고 있는 건 저 하나니까요.
 
-091. ÁLVARO: Eso no lo dice mucha gente.
-    알바로: 그런 말 하는 사람 별로 없는데.
+091. ÁLVARO: Eso no lo dice mucha gente, ¿sabe? Y menos delante de dos desconocidos de una aseguradora.
+    알바로: 그런 말 하는 사람 별로 없는데, 아세요? 보험사에서 온 낯선 사람 둘 앞에서라면 더더욱.
 
-092. ORIOL: ¿El qué?
-    오리올: 뭘요?
+092. ORIOL: ¿El qué, perdone? Con este viento, a veces no oigo ni la mitad de lo que me dicen.
+    오리올: 뭘요, 죄송한데? 이 바람에선 가끔 남의 말 절반도 안 들려서요.
 
 093. ÁLVARO: Que es el único. Normalmente uno lo esconde, por si algún día pasa algo.
     알바로: 자기가 유일하다는 거요. 보통은 숨기죠. 혹시 언젠가 무슨 일이 생길지 모르니까.
@@ -309,8 +309,8 @@
 098. ORIOL: Para diseñarla colgó una maqueta enorme del techo: cuerdas, cadenas y saquitos de perdigones. Cada saquito era el peso de una parte del edificio, y la gravedad dibujaba sola la curva perfecta.
     오리올: 그걸 설계하려고 천장에 거대한 모형을 매달았어요. 줄이랑 사슬이랑 산탄 주머니로요. 주머니 하나하나가 건물 한 부분의 무게였고, 중력이 알아서 완벽한 곡선을 그렸죠.
 
-099. ÁLVARO: ¿Y luego?
-    알바로: 그다음엔요?
+099. ÁLVARO: ¿Y luego qué hacía con todo eso colgado? No me diga que construía el edificio boca abajo.
+    알바로: 그다음엔 그 매달린 걸로 뭘 했는데요? 설마 건물을 거꾸로 지은 건 아니죠?
 
 100. ORIOL: Luego le hacía una foto, le daba la vuelta a la foto y ya tenía los arcos. Lo que cuelga, si lo pones del revés, no se cae. Esa curva se llama catenaria.
     오리올: 그다음엔 사진을 찍어서, 그 사진을 뒤집으면 아치가 나오는 거예요. 매달린 건 거꾸로 세워도 무너지지 않아요. 그 곡선을 '카테나리아', 현수선이라고 합니다.
@@ -321,11 +321,11 @@
 102. ORIOL: Catenaria. Una palabra preciosa, ¿verdad? La aprendí con siete años, colgando los collares de mi abuela de una percha.
     오리올: 카테나리아. 예쁜 말이죠? 일곱 살 때 할머니 목걸이를 옷걸이에 매달면서 배웠어요.
 
-103. ÁLVARO: ¿Y qué decía su abuela?
-    알바로: 할머님은 뭐라고 하셨어요?
+103. ÁLVARO: ¿Y qué decía su abuela cuando le veía con sus collares colgados de una percha?
+    알바로: 할머님은 손자가 자기 목걸이를 옷걸이에 매다는 걸 보시고 뭐라고 하셨어요?
 
-104. ORIOL: Que se los devolviera sin nudos. Nunca lo conseguí.
-    오리올: 엉킨 데 없이 돌려 달라고요. 한 번도 성공 못 했죠.
+104. ORIOL: Que se los devolviera sin nudos y en el mismo orden en que estaban. Nunca lo conseguí, y ella nunca dejó de prestármelos, que es lo que hacen las abuelas.
+    오리올: 엉킨 데 없이, 원래 있던 순서대로 돌려 달라고요. 한 번도 성공 못 했는데, 할머니는 그래도 늘 빌려주셨어요. 할머니들은 원래 그러시잖아요.
 
 105. NÚRIA: Una pregunta técnica, si no le importa. ¿Estos nodos tienen salida directa a internet, o todo pasa por el concentrador de abajo?
     누리아: 괜찮으시면 기술적인 질문 하나요. 이 노드들은 인터넷으로 바로 나가요, 아니면 전부 아래 집선기를 거쳐요?
@@ -333,8 +333,8 @@
 106. ORIOL: Todo pasa por abajo. Ya lo ha visto usted. Hace un rato.
     오리올: 전부 아래를 거칩니다. 직접 보셨잖아요. 조금 전에.
 
-107. NÚRIA: Sí, claro. Lo he visto.
-    누리아: 네, 그렇죠. 봤죠.
+107. NÚRIA: Sí, claro. Lo he visto, con la linterna y todo. Tiene usted muy buena memoria.
+    누리아: 네, 그렇죠. 봤죠, 손전등까지 들고. 기억력이 아주 좋으시네요.
 
 108. ORIOL: Me alegra que se interesen tanto. Normalmente los de las aseguradoras solo preguntan si la póliza cubre a los turistas que se caen.
     오리올: 이렇게 관심 가져 주시니 기쁘네요. 보통 보험사 분들은 넘어지는 관광객까지 보험이 되는지만 물으시거든요.
@@ -342,17 +342,17 @@
 109. ÁLVARO: Nosotros somos más curiosos. Es un defecto profesional, qué le vamos a hacer.
     알바로: 우린 호기심이 좀 많아서요. 직업병이죠, 어쩌겠어요.
 
-110. ORIOL: Ya lo noto. Usted es de Madrid, ¿verdad?
-    오리올: 그런 것 같네요. 마드리드 분이시죠?
+110. ORIOL: Ya lo noto. Y perdone que se lo pregunte así, pero usted es de Madrid, ¿verdad?
+    오리올: 그런 것 같네요. 이렇게 여쭤봐서 죄송하지만, 마드리드 분이시죠?
 
-111. ÁLVARO: Se me nota, ¿eh?
-    알바로: 티 나요?
+111. ÁLVARO: ¿Tanto se me nota, eh? Y eso que llevo un mes intentando decir "bon dia" sin que se rían de mí.
+    알바로: 그렇게 티 나요? 한 달째 웃음거리 안 되게 '봉 디아' 연습하고 있는데도요.
 
 112. ORIOL: Un poco. Dice "aquí" como si fuera suyo. No es un reproche, eh. Mi abuela diría que es una virtud.
     오리올: 조금요. '여기'라고 말씀하실 때 꼭 자기 땅처럼 말하세요. 탓하는 거 아닙니다. 저희 할머니라면 미덕이라고 하실 거예요.
 
-113. ÁLVARO: ¿Y usted qué dice?
-    알바로: 당신은 뭐라고 하는데요?
+113. ÁLVARO: ¿Y usted qué dice? Porque su abuela no está aquí, y usted sí.
+    알바로: 그럼 당신은 뭐라고 하는데요? 할머님은 여기 안 계시고, 당신은 있잖아요.
 
 114. ORIOL: Yo digo que bajemos, que la tramontana está subiendo y no quiero que se queden congelados. No me perdonaría que se resfriaran por mi culpa.
     오리올: 저는 내려가자고 하죠. 트라문타나가 세지고 있어서, 두 분이 얼어붙으시면 안 되니까요. 저 때문에 감기라도 걸리시면 제가 저를 용서 못 할 겁니다.
@@ -363,8 +363,8 @@
 116. ORIOL: El viento. Es el más antiguo. Tiene la luz de otro color porque es de otra marca. Nada misterioso.
     오리올: 바람이요. 제일 오래된 거예요. 다른 회사 제품이라 불빛 색이 다른 거고요. 수상할 거 하나 없습니다.
 
-117. NÚRIA: Ja. Nada misterioso.
-    누리아: 그렇군요. 수상할 거 하나 없다.
+117. NÚRIA: Ja. Nada misterioso, claro. Eso mismo dicen todos los programas antes de hacer algo misterioso.
+    누리아: 그렇군요. 수상할 거 하나 없다, 그렇죠. 프로그램들도 수상한 짓 하기 직전엔 다 그렇게 말하더라고요.
 
 118. ORIOL: Abajo les dejo mi tarjeta, por si necesitan algo más para el informe. Escríbanme cuando quieran. Contesto rápido; duermo poco.
     오리올: 아래에서 명함 드릴게요. 보고서에 더 필요한 게 있으시면요. 언제든 연락 주세요. 답장은 빨라요. 잠을 별로 안 자서.
@@ -378,8 +378,8 @@
 121. ORIOL: A ustedes. Y una cosa, inspector, sin que se ofenda.
     오리올: 제가 고맙죠. 그리고 하나만요, 검사관님. 기분 나빠하진 마시고요.
 
-122. ÁLVARO: Diga.
-    알바로: 말해요.
+122. ÁLVARO: Diga, diga. A estas horas ya no me ofende casi nada.
+    알바로: 말해요, 말해. 이 시간엔 웬만한 건 기분도 안 나빠요.
 
 123. ORIOL: Cuando vuelva, si vuelve, no hace falta que traiga eso que lleva debajo de la chaqueta. Allí arriba, de madrugada, las cosas pesan el doble. Que tengan bona nit.
     오리올: 다음에 오실 때, 다시 오신다면요, 재킷 밑에 차고 계신 그건 안 가져오셔도 됩니다. 새벽에 저 위에선 뭐든 두 배로 무겁거든요. 좋은 밤 되세요.
@@ -387,8 +387,8 @@
 124. NÚRIA: ¿Lo has oído? ¿Has oído lo que te ha dicho?
     누리아: 들었어? 너한테 뭐라고 했는지 들었냐고.
 
-125. ÁLVARO: Lo he oído. Abre el portátil y dime que esto ha servido para algo.
-    알바로: 들었어. 노트북 열고, 오늘 밤이 쓸모 있었다고 말해 줘.
+125. ÁLVARO: Lo he oído, y creo que no se me va a olvidar en mucho tiempo. Abre el portátil y dime que esta noche ha servido para algo más que para pasar frío.
+    알바로: 들었어. 한동안 잊히지 않을 것 같다. 노트북 열고, 오늘 밤이 추위에 떠는 것 말고 다른 데도 쓸모가 있었다고 말해 줘.
 
 126. NÚRIA: Ya está abierto. Ese tío ha visto el chisme en el cuarto, Álvaro, estoy segura, y no ha dicho ni mu.
     누리아: 벌써 열었어. 저 사람 기술실에서 그 장치 봤어, 알바로. 확실해. 근데 찍소리도 안 했어.
@@ -405,14 +405,14 @@
 130. NÚRIA: Habla la que lleva siete años desconfiando de la gente con placa. Mira. Aquí. El nodo azul.
     누리아: 7년 동안 배지 단 사람들 의심하며 산 사람이 말하는 거야. 봐. 여기. 파란 노드.
 
-131. ÁLVARO: ¿Qué le pasa?
-    알바로: 그게 왜?
+131. ÁLVARO: ¿Qué le pasa al nodo azul? Para mí todas las lucecitas parecen iguales.
+    알바로: 파란 노드가 왜? 내 눈엔 불빛이 다 똑같아 보이는데.
 
 132. NÚRIA: El de viento. El más antiguo, de otra marca, nada misterioso. Ha estado callado cuarenta minutos y, justo cuando nos hemos ido, se ha puesto a hablar.
     누리아: 풍속계. 제일 오래되고, 다른 회사 거고, 수상할 거 하나 없다는 그거. 사십 분 동안 조용하다가 우리가 나오자마자 말을 하기 시작했어.
 
-133. ÁLVARO: ¿Con quién?
-    알바로: 누구랑?
+133. ÁLVARO: ¿Hablar con quién, a estas horas? El viento no tiene muchos amigos de madrugada.
+    알바로: 이 시간에 누구랑 말을 해? 새벽엔 바람한테 친구가 별로 없을 텐데.
 
 134. NÚRIA: Con un servidor de Frankfurt que rebota a otro de Chipre. No son lecturas de viento, Álvaro. Nadie manda cuatro megas para decir que sopla tramontana.
     누리아: 프랑크푸르트 서버랑. 거기서 키프로스 서버로 튕겨. 풍속 데이터 아니야, 알바로. 트라문타나 분다고 말하려고 4메가씩 보내는 사람은 없어.
@@ -423,8 +423,8 @@
 136. NÚRIA: No lo sé todavía. Sé que es su red y su nodo. Y no quiero que nadie lo toque hasta que esté segura.
     누리아: 아직 몰라. 그 사람 네트워크고 그 사람 노드라는 것만 알아. 그리고 내가 확신할 때까진 아무도 그 사람 건드리지 않았으면 해.
 
-137. ÁLVARO: Esta noche nadie va a tocar a nadie. Llamo a Iker.
-    알바로: 오늘 밤엔 아무도 누구 하나 안 건드려. 이케르한테 전화할게.
+137. ÁLVARO: Esta noche nadie va a tocar a nadie, te lo prometo. Pero quiero saber quién es ese chico antes de que amanezca, así que llamo a Iker.
+    알바로: 오늘 밤엔 아무도 누구 하나 안 건드려, 약속해. 근데 날 밝기 전에 저 청년이 누군지는 알아야겠어. 이케르한테 전화할게.
 
 138. IKER: Son las dos y media, Gato. Tengo a la gata dormida encima del pecho y un Athletic-Betis grabado sin ver. Más vale que sea importante.
     이케르: 두 시 반이에요, 가토. 고양이는 내 가슴 위에서 자고 있고, 녹화해 둔 아틀레틱-베티스 경기는 아직 못 봤어요. 중요한 일이어야 할 거예요.
@@ -447,14 +447,14 @@
 144. IKER: Hola, Núria, encantado de no conocerte. Te lo mando ahora. Mallorca, entre Sardenya y Marina. Eso está pegado a la obra, ¿no?
     이케르: 안녕하세요, 누리아 씨. 못 만나 봬서 반가워요. 지금 보낼게요. 마요르카 거리, 사르데냐랑 마리나 사이. 거기 공사장 바로 옆 아니에요?
 
-145. ÁLVARO: Enfrente. Justo enfrente de donde acabamos de estar.
-    알바로: 맞은편이야. 우리가 방금 있던 데 바로 맞은편.
+145. ÁLVARO: Enfrente, Iker. Justo enfrente de donde acabamos de estar, a cien metros de esa cruz encendida.
+    알바로: 맞은편이야, 이케르. 우리가 방금 있던 데 바로 맞은편, 그 불 켜진 십자가에서 백 미터 거리.
 
 146. NÚRIA: Espera. Lo busco en el plan urbanístico. La manzana entera está marcada en rojo desde 1976, y nadie se ha atrevido a borrarla.
     누리아: 잠깐. 도시계획도에서 찾아볼게. 그 블록 전체가 1976년부터 빨간색으로 칠해져 있어. 아무도 감히 못 지운 채로.
 
-147. ÁLVARO: ¿Y qué significa el rojo?
-    알바로: 빨간색이 무슨 뜻인데?
+147. ÁLVARO: ¿Y qué significa ese rojo? Explícamelo rápido, que Iker se nos duerme al teléfono.
+    알바로: 그 빨간색이 무슨 뜻인데? 빨리 설명해 줘, 이케르가 전화기 붙들고 잠들겠어.
 
 148. NÚRIA: Su abuela vive justo donde quieren poner la escalinata.
     누리아: 그 사람 할머니가 사는 데가, 딱 계단을 놓으려는 자리야.

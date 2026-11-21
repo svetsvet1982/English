@@ -25,14 +25,14 @@
 003. CLIMENT: Por los zapatos. En Hogueras nadie lleva zapatos de piel.
     클리멘트: 신발 보고. 오게라 기간에 가죽 구두 신는 사람은 없거든.
 
-004. ÁLVARO: Pues que me tiren uno. A lo mejor me despierta.
-    알바로: 그럼 하나 던지라 그래. 그거라도 맞으면 정신 좀 들겠지.
+004. ÁLVARO: Pues que me tiren uno, a ver si me despierta, porque llevo desde las seis en la carretera y con este calor no hay quien piense.
+    알바로: 그럼 하나 던지라 그래. 그거라도 맞으면 정신 좀 들겠지. 새벽 6시부터 운전했는데 이 더위엔 머리가 안 돌아가.
 
 005. CLIMENT: Mira, ahí la tienes. La foguera del Raval Roig.
     클리멘트: 봐, 저기 있다. 라발 로이그 오게라.
 
-006. ÁLVARO: ¿Eso es una bombilla gigante?
-    알바로: 저거 거대한 전구야?
+006. ÁLVARO: ¿Eso de ahí arriba es una bombilla gigante, o es que este calor me está haciendo ver cosas raras?
+    알바로: 저 위에 있는 거 거대한 전구야, 아니면 더위 먹어서 헛것이 보이는 거야?
 
 007. CLIMENT: Una bombilla fundida de doce metros. El lema es "Tots a fosques", todos a oscuras. Va del apagón de abril del veinticinco.
     클리멘트: 12미터짜리 나간 전구. 제목이 "토츠 아 포스케스", 다 같이 깜깜하게. 25년 4월 대정전을 비꼬는 거야.
@@ -61,8 +61,8 @@
 015. VICENTE: Tu padre no ha nacido aquí. Prueba primero, y luego hablas.
     비센테: 자네 아버지는 여기서 안 태어났잖나. 먼저 먹어 보고 말하게.
 
-016. ÁLVARO: Vale. Me callo. Está buenísimo.
-    알바로: 네. 조용히 할게요. 엄청 맛있네요.
+016. ÁLVARO: Vale, me callo y lo reconozco: está buenísimo, aunque si se lo cuento a mi padre en Usera no se lo va a creer.
+    알바로: 네, 조용히 하고 인정할게요. 엄청 맛있네요. 우세라에 계신 아버지한테 얘기해도 안 믿으시겠지만요.
 
 017. VICENTE: Mare meua, un madrileño que reconoce algo. Apúntalo, Amparo.
     비센테: 세상에, 마드리드 사람이 뭘 인정하다니. 적어 둬, 암파로.
@@ -73,8 +73,8 @@
 019. VICENTE: Cuarenta y uno. Vi entrar tabaco de Gibraltar, hachís de Tánger y, una vez, un tigre metido en una caja de plátanos.
     비센테: 마흔한 해. 지브롤터 담배, 탕헤르 해시시, 그리고 한 번은 바나나 상자에 든 호랑이까지 들어오는 걸 봤지.
 
-020. ÁLVARO: ¿Un tigre?
-    알바로: 호랑이요?
+020. ÁLVARO: ¿Un tigre de verdad? Me está tomando el pelo, don Vicente, porque eso no se lo cree ni Climent.
+    알바로: 진짜 호랑이요? 놀리시는 거죠, 돈 비센테. 그건 클리멘트도 안 믿을걸요.
 
 021. VICENTE: Pequeñito, pero tigre. Lo que te quiero decir es que un barco me lo cuenta todo, aunque el capitán no abra la boca.
     비센테: 쪼끄만 놈이었지만 호랑이는 호랑이지. 내 말은, 선장이 입을 안 열어도 배는 나한테 다 말해 준다는 거야.
@@ -85,14 +85,14 @@
 023. VICENTE: Primero mira la pancarta que hay detrás del ninot grande. Lee lo que pone abajo, en letra pequeña.
     비센테: 먼저 큰 니놋 뒤에 있는 현수막을 보게. 아래 작은 글씨로 뭐라고 쓰여 있나 읽어 봐.
 
-024. ÁLVARO: "Con la colaboración de Mediterráneo Prime Properties." Hostia.
-    알바로: "협찬: 메디테라네오 프라임 프로퍼티스." 젠장.
+024. ÁLVARO: Aquí pone: "Con la colaboración de Mediterráneo Prime Properties." Hostia, es la inmobiliaria de Sorokin, la misma del ático de Benidorm.
+    알바로: 여기 쓰여 있네요. "협찬: 메디테라네오 프라임 프로퍼티스." 젠장, 소로킨 부동산이잖아. 베니도름 펜트하우스 그 회사.
 
 025. VICENTE: Cuarenta mil euros nos dieron. A una foguera de barrio que nunca ha pasado de doce mil. Llegó un señor muy educado y pagó en una tarde lo que nosotros juntamos en tres años vendiendo lotería.
     비센테: 4만 유로를 주더군. 1만 2천을 넘어 본 적 없는 동네 오게라에. 아주 점잖은 양반이 와서, 우리가 복권 팔아 3년 모을 돈을 오후 한나절에 내고 갔어.
 
-026. ÁLVARO: ¿Venía solo?
-    알바로: 혼자 왔어요?
+026. ÁLVARO: ¿Y ese señor tan educado venía solo, o traía a alguien que le cubriera las espaldas?
+    알바로: 그 점잖은 양반 혼자 왔어요, 아니면 뒤를 봐 줄 사람이라도 데려왔어요?
 
 027. VICENTE: Con otro detrás, uno de ojos muy claros y una cicatriz en la ceja, que no se sienta nunca. El educado es el que habla. Habla un castellano de libro, como los locutores de radio de antes.
     비센테: 뒤에 하나 달고 왔지. 눈이 아주 옅고 눈썹에 흉터 있는 놈. 그놈은 절대 안 앉아. 말은 점잖은 쪽이 해. 옛날 라디오 아나운서처럼 책에 나오는 스페인어를 쓰더군.
@@ -103,8 +103,8 @@
 029. VICENTE: Nada. Eso es lo que me escama. Quien regala cuarenta mil euros para que le quemen una bombilla es que quiere ver arder algo, aunque no sea la bombilla.
     비센테: 아무것도. 그게 수상하단 거야. 전구 하나 태우라고 4만 유로를 내놓는 사람은, 전구가 아니더라도 뭔가 타는 걸 보고 싶은 거라고.
 
-030. CLIMENT: Cuéntele lo de la ventana, don Vicente.
-    클리멘트: 창문 얘기 해 주세요, 돈 비센테.
+030. CLIMENT: Don Vicente, cuéntele también lo de la ventana, que eso fue lo que a mí me dejó sin dormir el lunes.
+    클리멘트: 돈 비센테, 창문 얘기도 해 주세요. 월요일에 저 그것 때문에 잠을 못 잤다니까요.
 
 031. VICENTE: Esta nit no. Hay demasiada gente y demasiado cantueso.
     비센테: 오늘 밤은 안 돼. 사람도 너무 많고 칸투에소 술도 너무 돌았어.
@@ -115,8 +115,8 @@
 033. VICENTE: Y si supieras lo que sé yo, xiquet, no me pedirías que hablara aquí, con los amigos del ruso en la barra.
     비센테: 내가 아는 걸 자네가 알았다면, 젊은이, 러시아 놈 친구들이 바에 있는 이 자리에서 말하라고 하진 않을 걸세.
 
-034. ÁLVARO: ¿Están aquí?
-    알바로: 여기 있어요?
+034. ÁLVARO: ¿Me está diciendo que están aquí, en este mismo racó, mientras nosotros hablamos de ellos?
+    알바로: 지금 여기 있다는 거예요? 우리가 걔들 얘기하고 있는 바로 이 라코에?
 
 035. VICENTE: No mires. Dos mesas detrás de ti. Los de las camisas blancas que no beben.
     비센테: 돌아보지 마. 자네 뒤로 두 테이블. 흰 셔츠 입고 술 안 마시는 놈들.
@@ -124,8 +124,8 @@
 036. CLIMENT: Redéu. Medina, quieto. Sigue comiendo como si nada, que te miran.
     클리멘트: 맙소사. 메디나, 가만있어. 아무 일 없는 것처럼 먹어. 쳐다보고 있어.
 
-037. ÁLVARO: Estoy comiendo. Es lo único que estoy haciendo bien esta noche.
-    알바로: 먹고 있어. 오늘 밤 내가 제대로 하는 건 그것뿐이야.
+037. ÁLVARO: Estoy comiendo, tranquilo. Es lo único que estoy haciendo bien esta noche, y si sigo así, al final del verano no me cabrán ni los pantalones de Javier Robles.
+    알바로: 먹고 있잖아, 진정해. 오늘 밤 내가 제대로 하는 건 그것뿐이야. 이대로 가면 여름 끝날 때쯤엔 하비에르 로블레스 바지도 안 맞겠다.
 
 038. VICENTE: Mañana, en la cremà. Cuando suba la palmera del Benacantil, todo el mundo mirará al cielo. Yo estaré detrás de la foguera, en la escalera que baja al Postiguet, y allí te lo cuento todo.
     비센테: 내일, 크레마 때. 베나칸틸 산에서 팔메라 불꽃이 올라가면 다들 하늘을 볼 거야. 난 오게라 뒤, 포스티게트 해변으로 내려가는 계단에 있겠네. 거기서 다 말해 주지.
@@ -136,8 +136,8 @@
 040. VICENTE: Porque es el único momento del año en que nadie en Alacant escucha nada. Ni a ti ni a mí. Vinga, acábate la coca.
     비센테: 1년 중 알라칸트에서 아무도 아무 소리 못 듣는 유일한 순간이니까. 자네 말도, 내 말도. 자, 코카나 마저 먹게.
 
-041. ÁLVARO: Perdone, tengo que cogerlo. ¿Oksana? ¿Pasa algo?
-    알바로: 죄송해요, 이건 받아야 해서요. 옥사나 씨? 무슨 일 있어요?
+041. ÁLVARO: Perdone, don Vicente, pero esta llamada tengo que cogerla. ¿Oksana? ¿Pasa algo? Es tarde para usted, que madruga más que nadie.
+    알바로: 죄송해요, 돈 비센테, 이 전화는 받아야 해서요. 옥사나 씨? 무슨 일 있어요? 누구보다 일찍 일어나시는 분이 이 시간에 웬일이에요?
 
 042. OKSANA: Buenas noches. Disculpe la hora. ¿Qué es ese ruido? ¿Dónde está usted?
     옥사나: 안녕하세요. 늦은 시간에 죄송합니다. 그 소리는 뭐죠? 어디 계십니까?
@@ -148,14 +148,14 @@
 044. OKSANA: Nada más. Claro. En Járkov, durante meses, este sonido no era una fiesta. Perdone, no es importante.
     옥사나: 그냥 폭죽. 그렇죠. 하르키우에선 몇 달 동안 이 소리가 축제가 아니었어요. 죄송합니다, 중요한 얘기 아닙니다.
 
-045. ÁLVARO: Sí que lo es. ¿Quiere que me aleje un poco?
-    알바로: 중요한 얘기예요. 좀 떨어진 데로 갈까요?
+045. ÁLVARO: Sí que lo es, Oksana, no se disculpe. ¿Quiere que me aleje un poco de la barra? Aquí hay tanto ruido que casi no la oigo.
+    알바로: 중요한 얘기예요, 옥사나 씨. 사과하지 마세요. 바에서 좀 떨어진 데로 갈까요? 여긴 너무 시끄러워서 잘 안 들려요.
 
 046. OKSANA: No hace falta. Le llamo por las fotos que me mandó del cuaderno de Kirill. En la última página hay una palabra a lápiz, casi borrada. Está en ruso.
     옥사나: 괜찮습니다. 보내 주신 키릴 수첩 사진 때문에 전화했어요. 마지막 장에 연필로 쓴, 거의 지워진 단어가 하나 있어요. 러시아어로요.
 
-047. ÁLVARO: ¿Qué palabra?
-    알바로: 무슨 단어요?
+047. ÁLVARO: ¿Y qué palabra es? Yo de ruso sé decir "salud" y poco más, así que dígamela despacio.
+    알바로: 무슨 단어인데요? 러시아어는 '건배' 말고는 아는 게 없으니까 천천히 말해 주세요.
 
 048. OKSANA: "Yakor". Significa ancla. Y al lado, un número: diecinueve. Sin unidades. No sé si son metros, nudos o días.
     옥사나: "야코르". 닻이라는 뜻입니다. 옆에 숫자가 하나 있어요. 19. 단위는 없습니다. 미터인지, 노트인지, 날짜인지 모르겠어요.
@@ -169,8 +169,8 @@
 051. ÁLVARO: Usted y don Vicente se llevarían de maravilla. Aquí nadie quiere contarme nada hasta mañana.
     알바로: 옥사나 씨랑 돈 비센테는 아주 잘 맞으시겠네요. 여긴 다들 내일까지 아무 말도 안 해 주려고 하거든요.
 
-052. OKSANA: ¿Quién es don Vicente?
-    옥사나: 돈 비센테가 누구죠?
+052. OKSANA: ¿Y quién es ese don Vicente? Me habla de él como si yo tuviera que conocerlo.
+    옥사나: 그 돈 비센테라는 분은 누구죠? 제가 당연히 알아야 하는 사람처럼 말씀하시네요.
 
 053. ÁLVARO: Un señor que come atún con brevas. Mañana se lo explico. Y Oksana, gracias por llamar, aunque haya sido con petardos de fondo.
     알바로: 참치에 무화과를 얹어 먹는 분이요. 내일 설명할게요. 그리고 옥사나 씨, 폭죽 소리 들으면서까지 전화해 줘서 고마워요.
@@ -184,8 +184,8 @@
 056. ÁLVARO: Te oigo. Estoy en el balcón del tercero, el de los toldos azules. Sorokin me acaba de servir un cava.
     알바로: 들려. 파란 차양 있는 4층 발코니야. 소로킨이 방금 카바 한 잔 따라 줬어.
 
-057. CLIMENT: Disfruta. Aquí abajo huele a pólvora y a crema solar. Y te quedan once minutos.
-    클리멘트: 즐겨라. 여긴 화약이랑 선크림 냄새뿐이야. 그리고 11분 남았어.
+057. CLIMENT: Disfruta mientras puedas. Aquí abajo huele a pólvora y a crema solar, y hay una señora que me ha pisado tres veces. Te quedan once minutos.
+    클리멘트: 즐길 수 있을 때 즐겨라. 여긴 화약이랑 선크림 냄새뿐이고, 어떤 아주머니가 내 발을 세 번이나 밟았어. 11분 남았다.
 
 058. SOROKIN: Javier, ¿le gusta el balcón? Lo alquilé hace un año. En Alicante, un balcón en Luceros para la última mascletà vale más que un apartamento en Benidorm.
     소로킨: 하비에르, 발코니 마음에 드십니까? 1년 전에 빌렸지요. 알리칸테에선 마지막 마스클레타 날 루세로스 발코니가 베니도름 아파트보다 비쌉니다.
@@ -202,14 +202,14 @@
 062. SOROKIN: La tele no sirve. La mascletà se escucha con el estómago. Si pudiera explicárselo con palabras, no le habría hecho venir.
     소로킨: TV로는 소용없어요. 마스클레타는 배로 듣는 겁니다. 말로 설명할 수 있었다면 오시라고 하지도 않았겠지요.
 
-063. ÁLVARO: He venido por lo de Luxemburgo. Me prometió los papeles.
-    알바로: 난 룩셈부르크 건 때문에 왔어요. 서류 준다고 했잖아요.
+063. ÁLVARO: Yo he venido por lo de Luxemburgo, Pavel, no por los petardos. Me prometió los papeles de la sociedad, y no me gustaría pensar que me ha hecho venir para nada.
+    알바로: 난 폭죽 보러 온 게 아니라 룩셈부르크 건 때문에 왔어요, 파벨. 회사 서류 준다고 약속했잖아요. 헛걸음시킨 거라고는 생각하고 싶지 않네요.
 
 064. SOROKIN: Los papeles, sí. Dmitri los tiene. Dmitri, los papeles del señor Robles.
     소로킨: 서류, 그렇지요. 드미트리가 갖고 있습니다. 드미트리, 로블레스 씨 서류.
 
-065. DMITRI: Luego.
-    드미트리: 나중에요.
+065. DMITRI: Luego. Primero quiero ver cómo mira la mascletà el señor Robles.
+    드미트리: 나중에요. 먼저 로블레스 씨가 마스클레타 어떻게 보는지 보고 싶어요.
 
 066. SOROKIN: Dmitri es tímido, perdónele. En mi país decimos que el que habla poco ve mucho.
     소로킨: 드미트리가 숫기가 없어서요, 양해해 주세요. 우리나라에선 말이 적은 사람이 많이 본다고 하지요.
@@ -220,8 +220,8 @@
 068. DMITRI: Usted habla mucho, señor Robles. Hombre de Madrid, amigos en todas partes. También en Barcelona.
     드미트리: 말 많으시네요, 로블레스 씨. 마드리드 사람, 친구는 어디에나. 바르셀로나에도.
 
-069. CLIMENT: Medina, ojo con ese. No le contestes.
-    클리멘트: 메디나, 저놈 조심해. 대꾸하지 마.
+069. CLIMENT: Medina, ojo con ese, que no ha dicho Barcelona por casualidad. No le contestes, cambia de tema.
+    클리멘트: 메디나, 저놈 조심해. 바르셀로나 얘기 괜히 꺼낸 거 아니야. 대꾸하지 말고 화제 돌려.
 
 070. ÁLVARO: Tengo dinero. Quien tiene dinero tiene amigos en todas partes. Es la única ley que se cumple en este país.
     알바로: 난 돈이 있어요. 돈 있는 사람은 어디에나 친구가 있죠. 이 나라에서 지켜지는 법은 그거 하나예요.
@@ -235,8 +235,8 @@
 073. SOROKIN: Porque me recuerda a alguien. Un hombre que compraba cosas que no necesitaba solo para ver quién se las vendía.
     소로킨: 누굴 떠올리게 하셔서요. 필요도 없는 걸 사던 사람이었죠. 누가 파는지 보려고요.
 
-074. ÁLVARO: Yo compro casas, Pavel. Lo demás me da bastante igual.
-    알바로: 난 집을 사요, 파벨. 나머진 별 관심 없어요.
+074. ÁLVARO: Yo compro casas, Pavel, y las vendo más caras. Lo demás me da bastante igual, siempre que nadie me haga preguntas sobre de dónde sale el dinero.
+    알바로: 난 집을 사요, 파벨. 그리고 더 비싸게 팔죠. 나머진 별 관심 없어요. 돈이 어디서 났는지 아무도 안 묻기만 하면요.
 
 075. SOROKIN: Claro. Escuche: primero los truenos, uno a uno, como pasos. Luego el ritmo. Y al final, el terremoto. Si estuviera usted abajo, sentiría el suelo moverse bajo los pies.
     소로킨: 물론이죠. 들어 보세요. 먼저 천둥이 하나씩, 발소리처럼. 그다음 리듬. 마지막엔 지진. 아래에 계셨다면 발밑에서 땅이 움직이는 게 느껴지실 겁니다.
@@ -256,8 +256,8 @@
 080. SOROKIN: ¡Que esto es como un apagón al revés! ¡Todo el mundo deja de pensar a la vez y nadie sabe por qué!
     소로킨: 이건 거꾸로 된 정전 같다고요! 모두가 동시에 생각을 멈추고, 아무도 이유를 모르죠!
 
-081. ÁLVARO: ¡No le oigo!
-    알바로: 안 들려요!
+081. ÁLVARO: ¡No le oigo nada, Pavel!
+    알바로: 하나도 안 들려요, 파벨!
 
 082. SOROKIN: ¡Mejor! ¡Ahora viene el terremoto!
     소로킨: 차라리 잘됐네요! 이제 지진이 옵니다!
@@ -265,8 +265,8 @@
 083. CLIMENT: Medina... ¿me oyes? El de la ceja... te está haciendo fotos con el móvil...
     클리멘트: 메디나… 들려? 눈썹 흉터… 너 폰으로 찍고 있어…
 
-084. ÁLVARO: ¡Brindo por Alicante, Pavel!
-    알바로: 알리칸테를 위하여, 파벨!
+084. ÁLVARO: ¡Brindo por Alicante, Pavel, y por los balcones que valen más que un apartamento!
+    알바로: 알리칸테를 위하여, 파벨! 아파트보다 비싼 발코니들을 위하여!
 
 085. SOROKIN: ¡Por Alicante! ¡Por todo lo que se quema!
     소로킨: 알리칸테를 위하여! 불타는 모든 것을 위하여!
@@ -274,14 +274,14 @@
 086. SOROKIN: Ya está. Escuche ahora el silencio de después, que es lo que más me gusta. Veinte mil personas sordas, felices y sin saber muy bien qué les ha pasado.
     소로킨: 끝났습니다. 이제 그다음의 정적을 들어 보세요. 제가 제일 좋아하는 부분이죠. 2만 명이 귀가 먹먹한 채로 행복해하면서, 자기들한테 무슨 일이 있었는지 잘 모르는.
 
-087. ÁLVARO: Me pitan los oídos.
-    알바로: 귀가 울려요.
+087. ÁLVARO: Me pitan los oídos como si me hubiera estallado una bomba al lado, y usted tan tranquilo.
+    알바로: 옆에서 폭탄이라도 터진 것처럼 귀가 울려요. 근데 당신은 태연하네요.
 
 088. SOROKIN: Se le pasará. Esta noche quemamos la foguera que patrocina mi empresa, en el Raval Roig. Una bombilla, muy simbólico. Venga a medianoche y le daré los papeles de Luxemburgo en mano, delante del fuego.
     소로킨: 곧 괜찮아지실 겁니다. 오늘 밤 라발 로이그에서 우리 회사가 후원한 오게라를 태웁니다. 전구 모양이에요. 아주 상징적이죠. 자정에 오시면 불 앞에서 룩셈부르크 서류를 직접 드리겠습니다.
 
-089. ÁLVARO: ¿Y si prefiero que me los mande por correo?
-    알바로: 우편으로 받고 싶다면요?
+089. ÁLVARO: ¿Y si prefiero que me los mande por correo, como hace todo el mundo, en vez de recogerlos delante de una hoguera con medio Alicante mirando?
+    알바로: 남들처럼 우편으로 보내 달라고 하면요? 알리칸테 사람 절반이 보는 앞에서, 모닥불 앞에서 받는 대신에요.
 
 090. SOROKIN: Entonces usted no sería el hombre que yo creo, y yo me habría equivocado, cosa que casi nunca me pasa. Dmitri, acompaña al señor Robles hasta la escalera.
     소로킨: 그렇다면 당신은 제가 생각하는 그 사람이 아니고, 제가 틀린 거겠지요. 저한텐 거의 없는 일입니다. 드미트리, 로블레스 씨를 계단까지 모셔.
@@ -301,8 +301,8 @@
 095. ÁLVARO: Lo sé. Pero si no voy, don Vicente estará solo detrás de la foguera esperando a un madrileño que no llega. Y ellos sí llegarán.
     알바로: 알아. 근데 내가 안 가면 돈 비센테 혼자 오게라 뒤에서 안 오는 마드리드 놈을 기다리게 돼. 그리고 저놈들은 올 거고.
 
-096. CLIMENT: ¿Avisamos a Madrid?
-    클리멘트: 마드리드에 알릴까?
+096. CLIMENT: ¿Y si avisamos a Madrid? Que manden a alguien, porque esto se nos está quedando grande a los dos.
+    클리멘트: 마드리드에 알릴까? 사람 좀 보내라고. 이건 우리 둘이 감당하기엔 판이 너무 커지고 있어.
 
 097. ÁLVARO: Madrid ya lo sabe. Mi parte de anoche, con el nombre de don Vicente, lo leyeron en el gabinete de la directora a las ocho de la mañana. Si alguien allí habla más de la cuenta, preferiría saberlo esta noche y no en su funeral.
     알바로: 마드리드는 이미 알아. 돈 비센테 이름 적힌 어젯밤 내 보고서를 국장 비서실이 아침 8시에 읽었어. 거기서 누가 입을 놀린다면, 그분 장례식이 아니라 오늘 밤에 알고 싶어.
@@ -313,8 +313,8 @@
 099. CLIMENT: Las doce menos diez. Los bomberos ya están mojando las fachadas.
     클리멘트: 11시 50분. 소방관들이 벌써 건물 벽에 물 뿌리고 있어.
 
-100. ÁLVARO: ¿Mojan las casas antes del fuego?
-    알바로: 불 붙이기 전에 집에 물을 뿌려?
+100. ÁLVARO: ¿Me estás diciendo que mojan las casas antes del fuego? En Madrid eso lo harían después, cuando ya no quedara nada.
+    알바로: 불 붙이기 전에 집에 물을 뿌린다고? 마드리드였으면 다 타고 나서야 뿌렸을 텐데.
 
 101. CLIMENT: Si no, se quema el barrio. Luego mojan a la gente: la banyà. Esa camisa no vuelve seca a Madrid.
     클리멘트: 안 그러면 동네가 다 타. 그다음엔 사람들한테 뿌려. 그게 바냐야. 그 셔츠는 마른 채로 마드리드 못 돌아가.
@@ -325,8 +325,8 @@
 103. CLIMENT: Yo veo al de la ceja. Y a uno de camisa blanca cerca de la escalera del Postiguet.
     클리멘트: 난 눈썹 흉터가 보여. 그리고 흰 셔츠 하나가 포스티게트 계단 근처에 있어.
 
-104. ÁLVARO: ¿Y don Vicente?
-    알바로: 돈 비센테는?
+104. ÁLVARO: ¿Y don Vicente? Me dijo que estaría en la escalera, pero desde aquí no veo a nadie con bastón.
+    알바로: 돈 비센테는? 계단에 있겠다고 했는데 여기선 지팡이 든 사람이 안 보여.
 
 105. CLIMENT: No lo veo. Redéu, no lo veo. Hace diez minutos estaba en la barra.
     클리멘트: 안 보여. 맙소사, 안 보여. 10분 전엔 바에 있었는데.
@@ -334,20 +334,20 @@
 106. FESTERA: ¿Busca usted a Vicent? Ha bajado a la escalera. Ha dicho que esperaba a un amigo de Madrid con zapatos de señorito.
     축제 위원: 비센트 찾으세요? 계단으로 내려갔어요. 도련님 구두 신은 마드리드 친구를 기다린다던데요.
 
-107. ÁLVARO: Ese soy yo. Gracias, señora.
-    알바로: 그게 저예요. 고맙습니다.
+107. ÁLVARO: Ese soy yo, señora, aunque lo de señorito no me lo llamaba nadie desde el colegio. Gracias.
+    알바로: 그게 저예요, 아주머니. 도련님 소리는 학교 다닐 때 이후로 처음 듣네요. 고맙습니다.
 
 108. CLIMENT: La palmera, Medina. Todo el mundo mirará al cielo. Tú no.
     클리멘트: 팔메라다, 메디나. 다들 하늘을 볼 거야. 넌 보지 마.
 
-109. ÁLVARO: Don Vicente. Estoy aquí.
-    알바로: 돈 비센테. 저 왔어요.
+109. ÁLVARO: Don Vicente, soy yo, el de Madrid. Estoy aquí, a su espalda; no se dé la vuelta todavía.
+    알바로: 돈 비센테, 저예요, 마드리드 사람. 뒤에 있어요. 아직 돌아보지 마세요.
 
 110. VICENTE: Ya te veía. Esos zapatos brillan más que la palmera. Escúchame bien, que tengo poco tiempo y menos aire.
     비센테: 진작 봤네. 그 구두가 팔메라보다 더 번쩍이거든. 잘 듣게. 시간도 없고 숨은 더 없으니.
 
-111. ÁLVARO: Le escucho.
-    알바로: 듣고 있어요.
+111. ÁLVARO: Le escucho, don Vicente. Hable bajo, que con el ruido de la palmera nadie nos va a oír.
+    알바로: 듣고 있어요, 돈 비센테. 작게 말씀하세요. 팔메라 소리 때문에 아무도 못 들을 거예요.
 
 112. VICENTE: Desde mi ventana se ve la bahía entera. Hace tres semanas, un compañero del puerto de València me llamó por un barco que no hacía lo que hacen los barcos...
     비센테: 우리 집 창문에선 만이 전부 보여. 3주 전에 발렌시아 항구의 옛 동료가 전화를 했어. 배가 해야 할 짓을 안 하는 배가 하나 있다고…
@@ -376,8 +376,8 @@
 120. VICENTE: Me duele la vergüenza. Setenta y nueve años y tirado en el suelo como un borracho de San Juan.
     비센테: 창피해서 아프네. 일흔아홉에 산 후안 날 취객처럼 바닥에 나뒹굴다니.
 
-121. ÁLVARO: Climent, ¿dónde está el tirador?
-    알바로: 클리멘트, 쏜 놈 어디 있어?
+121. ÁLVARO: Climent, ¿dónde está el tirador? Dime que lo tienes, porque aquí abajo no veo más que humo.
+    알바로: 클리멘트, 쏜 놈 어디 있어? 잡았다고 해 줘. 여기 아래선 연기밖에 안 보여.
 
 122. CLIMENT: Ha vuelto a subir hacia la plaza y se ha metido entre la gente. Han encendido la traca; no puedo disparar con medio barrio delante.
     클리멘트: 다시 광장 쪽으로 올라가서 사람들 틈에 숨었어. 트라카에 불 붙였어. 동네 사람 절반이 앞에 있는데 쏠 수가 없어.
@@ -388,8 +388,8 @@
 124. VICENTE: Escucha, xiquet. Por abajo no. En la playa habrá otro esperando; siempre ponen a otro. Por arriba, por el callejón de la ermita. Conozco cada piedra de este barrio.
     비센테: 잘 듣게, 젊은이. 아래로는 안 돼. 해변에 한 놈 더 기다리고 있을 거야. 늘 하나 더 두거든. 위로, 성당 골목으로 가세. 이 동네 돌멩이 하나하나 다 아네.
 
-125. ÁLVARO: ¿Puede andar?
-    알바로: 걸으실 수 있어요?
+125. ÁLVARO: ¿Puede andar, don Vicente? Porque si no, le llevo en brazos, y no me lo tome a mal.
+    알바로: 걸으실 수 있어요, 돈 비센테? 안 되면 제가 안고 갈게요. 기분 나빠하지 마시고요.
 
 126. VICENTE: Si me das el brazo, puedo hasta bailar.
     비센테: 팔만 빌려주면 춤도 추겠네.
@@ -421,8 +421,8 @@
 135. CLIMENT: El de la ceja se ha parado delante de la manguera. Mira a todas partes. Ahora... se da la vuelta. Se va hacia la plaza, con Sorokin.
     클리멘트: 눈썹 흉터가 호스 앞에서 멈췄어. 사방을 둘러보고 있어. 이제… 돌아선다. 소로킨이랑 광장 쪽으로 간다.
 
-136. ÁLVARO: ¿Y el tirador?
-    알바로: 쏜 놈은?
+136. ÁLVARO: ¿Y el tirador? No me digas que se ha ido tan tranquilo entre medio barrio.
+    알바로: 쏜 놈은? 동네 사람들 틈으로 유유히 빠져나갔다고는 하지 마.
 
 137. CLIMENT: Se ha esfumado. Mis chicos han encontrado tres casquillos entre los cartuchos de la traca. Nueve milímetros. Si no hubieras gritado, habrían sido tres balas en el pecho de don Vicente.
     클리멘트: 증발했어. 우리 애들이 트라카 화약 통 사이에서 탄피 세 개를 찾았어. 9밀리. 네가 소리 안 질렀으면, 돈 비센테 가슴에 세 발 박혔을 거야.
@@ -457,8 +457,8 @@
 147. VICENTE: El que les quita el sueño a tus rusos. Lo nombraron por teléfono en la barra, creyendo que un viejo sordo no entiende nada, y yo llamé a mis compañeros del puerto de València. Un petrolero viejo, con bandera de las que se compran.
     비센테: 자네 러시아 놈들 잠 못 들게 하는 배. 바에서 전화로 이름을 대더군, 귀 먹은 늙은이는 못 알아듣는 줄 알고. 그래서 발렌시아 항구 옛 동료들한테 전화했지. 낡은 유조선이야. 돈 주고 사는 그런 깃발을 단.
 
-148. ÁLVARO: ¿Y cómo se llama?
-    알바로: 이름이 뭔데요?
+148. ÁLVARO: ¿Y cómo se llama ese barco? Porque si los rusos lo nombraron delante de usted, ya han cometido su primer error.
+    알바로: 그 배 이름이 뭔데요? 러시아 놈들이 어르신 앞에서 이름을 댔다면, 첫 번째 실수를 한 거예요.
 
 149. VICENTE: El barco se llama Marlin Star. Lleva tres semanas fondeado sin descargar nada.
     비센테: 배 이름은 마린 스타. 3주째 닻을 내리고 서 있는데, 짐은 하나도 안 내렸어.

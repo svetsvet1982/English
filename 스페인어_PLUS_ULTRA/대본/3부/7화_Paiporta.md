@@ -25,8 +25,8 @@
 003. IKER: Todo lo que huele a Marlin Star. El jueves a las once tenía acceso y a las once y cuarto, ya no. Sin aviso, sin correo, sin nada.
     이케르: 마린 스타 냄새 나는 건 전부요. 목요일 열한 시엔 접속됐는데 열한 시 십오 분엔 이미 안 됐어요. 통보도, 메일도, 아무것도 없이.
 
-004. ÁLVARO: ¿Quién firma el cierre?
-    알바로: 차단 서명은 누가 했어?
+004. ÁLVARO: ¿Y quién firma el cierre? Alguien tendrá que haber puesto su nombre en algún sitio, digo yo.
+    알바로: 그럼 차단 서명은 누가 했어? 어딘가엔 누군가 이름을 올렸을 거 아냐.
 
 005. IKER: Ahí está lo raro. No firma nadie. Pone "por orden superior", que es como poner "por arte de magia".
     이케르: 그게 이상하다는 거예요. 아무도 서명 안 했어요. '상부 지시'라고만 돼 있어요. '마법으로'라고 써 놓은 거나 마찬가지죠.
@@ -49,8 +49,8 @@
 011. IKER: Vale, papá. ¿Y tú qué haces en Paiporta un sábado por la tarde?
     이케르: 네, 아빠. 근데 선배는 토요일 오후에 파이포르타에서 뭐 해요?
 
-012. ÁLVARO: La ingeniera me ha pedido que venga. No me ha dicho para qué.
-    알바로: 엔지니어가 오라고 했어. 왜인지는 말 안 하고.
+012. ÁLVARO: La ingeniera me ha pedido que venga, y cuando una mujer como ella te pide algo un sábado, no preguntas. No me ha dicho para qué, solo la hora.
+    알바로: 엔지니어가 오라고 했어. 그런 사람이 토요일에 부탁하면 이유는 안 묻는 거야. 왜인지는 말 안 하고 시간만 알려 줬어.
 
 013. IKER: Con esa mujer nunca sabes si te va a dar un dato o una bronca.
     이케르: 그 사람은 정보를 줄지 잔소리를 할지 도무지 알 수가 없어요.
@@ -70,20 +70,20 @@
 018. OKSANA: Desde octubre de dos mil veinticuatro, sí. Antes no. Venga, vamos andando hasta el barranco.
     옥사나: 2024년 10월부터는요. 그 전엔 안 그랬어요. 가요, 협곡까지 걸어가죠.
 
-019. ÁLVARO: ¿Andando? Con este calor debe de haber treinta y ocho grados.
-    알바로: 걸어서요? 이 더위면 38도는 될 텐데.
+019. ÁLVARO: ¿Andando? Con este calor debe de haber treinta y ocho grados, y yo me he puesto la única camisa que no tiene manchas de sudor.
+    알바로: 걸어서요? 이 더위면 38도는 될 텐데요. 땀 얼룩 없는 셔츠는 이거 하나뿐인데.
 
 020. OKSANA: Treinta y nueve. Aquel día no hacía calor. Tampoco llovía aquí. Eso es lo primero que tiene que entender.
     옥사나: 39도요. 그날은 덥지 않았어요. 여기엔 비도 안 왔고요. 그게 제일 먼저 이해하셔야 할 점이에요.
 
-021. ÁLVARO: ¿No llovía?
-    알바로: 비가 안 왔다고요?
+021. ÁLVARO: ¿Cómo que no llovía? Yo siempre me había imaginado una tormenta enorme encima del pueblo.
+    알바로: 비가 안 왔다니요? 전 늘 마을 위에 엄청난 폭풍이 몰아친 줄로만 알았는데요.
 
 022. OKSANA: En Paiporta, casi nada. Llovía arriba, en las montañas, a cuarenta kilómetros. Aquí la gente volvía del trabajo con el paraguas cerrado.
     옥사나: 파이포르타엔 거의 안 왔어요. 비는 위쪽, 40킬로미터 떨어진 산에 내렸죠. 여기 사람들은 우산을 접은 채 퇴근하고 있었어요.
 
-023. ÁLVARO: Y el agua bajó por aquí.
-    알바로: 그런데 물이 여기로 내려왔군요.
+023. ÁLVARO: Y aun así, sin una gota aquí, el agua bajó por este barranco hasta las casas.
+    알바로: 그런데도 여긴 비 한 방울 없었는데, 물이 이 협곡을 따라 집들까지 내려왔군요.
 
 024. OKSANA: Por este barranco. Normalmente está seco, ¿ve? Piedras, cañas, un carrito de supermercado. Aquella tarde pasó por aquí un río que no tenía nombre.
     옥사나: 이 협곡으로요. 평소엔 말라 있어요, 보이죠? 돌, 갈대, 마트 카트 하나. 그날 오후엔 이름도 없는 강이 여길 지나갔어요.
@@ -94,26 +94,26 @@
 026. OKSANA: Todo parece imposible desde arriba. Ese es el problema de los que miran desde arriba.
     옥사나: 위에서 보면 다 불가능해 보이죠. 그게 위에서 내려다보는 사람들의 문제예요.
 
-027. ÁLVARO: ¿Lo dice por mí o por los políticos?
-    알바로: 저 들으라고 하는 말이에요, 정치인들 얘기예요?
+027. ÁLVARO: ¿Eso lo dice por mí o por los políticos? Porque si es por mí, me lo he ganado a pulso.
+    알바로: 그거 저 들으라고 하는 말이에요, 정치인들 얘기예요? 저라면 뭐, 들을 만하죠.
 
 028. OKSANA: Por todos. Yo también miraba desde arriba. Trabajaba en Paterna, en el centro de control, y en la pantalla tenía toda la red de la provincia. Veía caer subestaciones como fichas de dominó.
     옥사나: 모두요. 저도 위에서 내려다봤어요. 파테르나 관제센터에서 일했고, 화면엔 도 전체 전력망이 떠 있었죠. 변전소가 도미노처럼 쓰러지는 걸 보고 있었어요.
 
-029. ÁLVARO: ¿Usted estaba trabajando esa noche?
-    알바로: 그날 밤 근무 중이셨어요?
+029. ÁLVARO: Entonces, ¿usted estaba trabajando esa noche, delante de esa pantalla, mientras pasaba todo esto?
+    알바로: 그럼 그날 밤 이 모든 일이 벌어지는 동안 그 화면 앞에서 근무 중이셨던 거예요?
 
 030. OKSANA: Terminé el turno a las seis. A las siete menos cuarto ya estaba en casa. Pensé: qué suerte, hoy llego pronto.
     옥사나: 여섯 시에 교대가 끝났어요. 여섯 시 사십오 분엔 벌써 집이었죠. 생각했어요. 운 좋네, 오늘은 일찍 왔어.
 
-031. ÁLVARO: ¿Dónde vivía?
-    알바로: 어디 사셨는데요?
+031. ÁLVARO: ¿Y dónde vivía usted? Si no le importa enseñármelo, claro, que no quiero obligarla a nada.
+    알바로: 어디 사셨는데요? 보여 주셔도 괜찮다면요. 억지로 그러시라는 건 아니에요.
 
 032. OKSANA: Allí, en esa calle, la segunda a la izquierda. Planta baja, con un patio y un limonero. Ahora es un local vacío; han tapiado la puerta.
     옥사나: 저기, 왼쪽 두 번째 골목이요. 1층, 작은 마당에 레몬 나무가 있었어요. 지금은 빈 점포예요. 문은 벽돌로 막아 버렸고요.
 
-033. ÁLVARO: Hay una marca en la pared. Muy alta.
-    알바로: 벽에 표시가 있네요. 아주 높이.
+033. ÁLVARO: Hay una marca azul en la pared, muy alta, casi a la altura de mi cabeza.
+    알바로: 벽에 파란 표시가 있네요. 아주 높이, 거의 제 머리 높이예요.
 
 034. OKSANA: Un metro noventa. Hasta ahí llegó el agua. Los vecinos la pintaron de azul para que nadie se olvide.
     옥사나: 1미터 90이요. 물이 거기까지 찼어요. 아무도 잊지 말라고 이웃들이 파란색으로 칠했죠.
@@ -124,14 +124,14 @@
 036. OKSANA: Más que usted, sí. Y mucho más que Consuelo.
     옥사나: 당신보다 크죠. 콘수엘로보다는 훨씬 더 크고요.
 
-037. ÁLVARO: ¿Quién era Consuelo?
-    알바로: 콘수엘로가 누구였어요?
+037. ÁLVARO: ¿Quién era Consuelo? Es la primera vez que me habla de alguien de este barrio.
+    알바로: 콘수엘로가 누구였어요? 이 동네 사람 얘기를 하시는 건 처음이네요.
 
 038. OKSANA: Mi vecina de enfrente. Ochenta y un años. Vivía con su marido, Pepe, que tenía ochenta y cinco y andaba con andador. Me hacían arroz al horno los domingos, aunque yo no lo pidiera.
     옥사나: 맞은편 이웃이요. 여든한 살. 남편 페페랑 살았는데, 그분은 여든다섯에 보행기를 쓰셨어요. 제가 부탁하지 않아도 일요일마다 아로스 알 오르노를 해 주셨죠.
 
-039. ÁLVARO: ¿Me lo cuenta desde el principio?
-    알바로: 처음부터 얘기해 주실래요?
+039. ÁLVARO: ¿Me lo cuenta desde el principio? No tengo prisa, y aquí nadie nos escucha.
+    알바로: 처음부터 얘기해 주실래요? 전 급할 거 없고, 여긴 듣는 사람도 없어요.
 
 040. OKSANA: Usted es espía. Sabe que nadie cuenta nada desde el principio. Le cuento lo que recuerdo.
     옥사나: 당신은 스파이잖아요. 누구도 처음부터 얘기하진 않는다는 거 아시잖아요. 기억나는 걸 말씀드릴게요.
@@ -151,14 +151,14 @@
 045. OKSANA: Crucé el rellano y llamé a la puerta de Consuelo. Ella gritaba que Pepe no podía subir, que no le dejaba solo.
     옥사나: 복도를 건너가서 콘수엘로네 문을 두드렸어요. 페페가 못 올라간다고, 혼자 두고 못 간다고 소리치시더군요.
 
-046. ÁLVARO: ¿Y usted qué hizo?
-    알바로: 그래서 어떻게 하셨어요?
+046. ÁLVARO: ¿Y usted qué hizo entonces, con el agua por la cintura y Consuelo gritando?
+    알바로: 그래서 어떻게 하셨어요? 물은 허리까지 차고 콘수엘로 할머니는 소리치고 있는데.
 
 047. OKSANA: Lo que haría un ingeniero. Calculé. Pepe pesaba noventa kilos, yo cincuenta y cinco. Necesitaba a alguien más. Subí al primero a buscar a Javi, el vecino joven.
     옥사나: 엔지니어라면 했을 일을 했죠. 계산했어요. 페페는 90킬로, 저는 55킬로. 한 사람이 더 필요했어요. 젊은 이웃 하비를 부르러 2층으로 올라갔어요.
 
-048. ÁLVARO: Hizo bien.
-    알바로: 잘하신 거예요.
+048. ÁLVARO: Hizo bien, Oksana. Sola no habría podido con noventa kilos y el agua subiendo.
+    알바로: 잘하신 거예요, 옥사나 씨. 물이 차오르는데 90킬로를 혼자선 못 드셨을 거예요.
 
 049. OKSANA: No lo sé. Tardé dos minutos en subir y despertar a Javi, que tenía turno de noche. Cuando bajamos, el agua había cerrado la puerta de Consuelo. La presión, ¿entiende? No se podía abrir.
     옥사나: 모르겠어요. 야간 근무라 자고 있던 하비를 깨워서 내려오는 데 2분 걸렸어요. 내려와 보니 물이 콘수엘로네 문을 막아 버렸더군요. 수압이요, 아시겠어요? 열리지가 않았어요.
@@ -169,26 +169,26 @@
 051. OKSANA: Empujamos los dos. Javi rompió el cristal de la ventana del patio con una silla. Pero el agua ya estaba por encima.
     옥사나: 둘이서 밀었어요. 하비가 의자로 마당 쪽 창문 유리를 깼고요. 그런데 물이 벌써 그 위까지 차 있었어요.
 
-052. ÁLVARO: No tiene que seguir si no quiere.
-    알바로: 원치 않으시면 더 안 하셔도 돼요.
+052. ÁLVARO: No tiene que seguir si no quiere, Oksana. Lo que me ha contado ya es más que suficiente.
+    알바로: 원치 않으시면 더 안 하셔도 돼요, 옥사나 씨. 지금까지 얘기해 주신 것만으로도 충분해요.
 
 053. OKSANA: Sí tengo que seguir. Si me paro ahora, no lo voy a contar nunca.
     옥사나: 해야 해요. 지금 멈추면 영영 말 못 할 거예요.
 
-054. ÁLVARO: Vale. Estoy aquí.
-    알바로: 알겠어요. 듣고 있어요.
+054. ÁLVARO: Vale. Entonces siga, que yo estoy aquí y no me voy a mover hasta que termine.
+    알바로: 알겠어요. 그럼 계속하세요. 전 여기 있어요. 끝나실 때까지 안 움직일게요.
 
 055. OKSANA: Pasamos la noche en la escalera, entre el primero y el segundo, con los hijos de Javi. Oíamos los coches chocando en la calle, como si alguien moviera muebles enormes en la oscuridad.
     옥사나: 하비네 아이들이랑 2층과 3층 사이 계단에서 밤을 보냈어요. 길에서 차들이 부딪치는 소리가 들렸어요. 누가 어둠 속에서 거대한 가구를 옮기는 것처럼.
 
-056. ÁLVARO: ¿Y por la mañana?
-    알바로: 아침엔요?
+056. ÁLVARO: ¿Y por la mañana, cuando por fin bajó el agua? ¿Qué encontraron?
+    알바로: 아침엔요? 마침내 물이 빠졌을 때요. 뭘 발견했어요?
 
 057. OKSANA: Por la mañana bajó el agua y llegó el barro. Y el silencio. Los encontraron juntos, en la cocina. Ella le tenía cogida la mano.
     옥사나: 아침이 되자 물이 빠지고 진흙이 왔어요. 그리고 정적이요. 두 분은 부엌에서 함께 발견됐어요. 할머니가 할아버지 손을 꼭 잡고 계셨대요.
 
-058. ÁLVARO: Lo siento mucho. De verdad.
-    알바로: 정말 유감이에요. 진심으로.
+058. ÁLVARO: Lo siento mucho, Oksana. De verdad. No sé qué otra cosa se puede decir en una calle como esta.
+    알바로: 정말 유감이에요, 옥사나 씨. 진심으로요. 이런 골목에서 그것 말고 무슨 말을 할 수 있을지 모르겠네요.
 
 059. OKSANA: Si hubiera bajado sola, sin esperar a Javi, quizás habría abierto la puerta antes que la presión. Lo he calculado mil veces. A veces el resultado es que sí.
     옥사나: 하비를 기다리지 않고 혼자 내려갔더라면, 어쩌면 수압보다 먼저 문을 열었을지도 몰라요. 천 번은 계산해 봤어요. 어떨 땐 답이 '그렇다'로 나와요.
@@ -211,20 +211,20 @@
 065. OKSANA: Hay una en la plaza. La abrieron otra vez en primavera. Todo lo que ve aquí lo abrieron otra vez.
     옥사나: 광장에 하나 있어요. 봄에 다시 열었죠. 여기 보이는 건 전부 다시 연 거예요.
 
-066. ÁLVARO: ¿Y los responsables? ¿Alguien pagó por aquella alerta?
-    알바로: 책임자들은요? 그 경보 때문에 누가 대가를 치렀나요?
+066. ÁLVARO: ¿Y los responsables? ¿Alguien pagó por aquella alerta que llegó cuando el agua ya les llegaba a la cintura?
+    알바로: 책임자들은요? 물이 허리까지 찬 다음에야 온 그 경보 때문에 누가 대가를 치렀나요?
 
 067. OKSANA: Durante meses, todos firmaron comunicados. El Gobierno contra la Generalitat, la Generalitat contra el Gobierno, los alcaldes contra los dos. Muchas firmas. Ninguna llegó a tiempo.
     옥사나: 몇 달 동안 다들 성명서에 서명했죠. 중앙정부는 주정부를, 주정부는 중앙정부를, 시장들은 둘 다를 탓했어요. 서명은 많았어요. 제때 도착한 건 하나도 없었고요.
 
-068. ÁLVARO: En España somos muy buenos firmando después.
-    알바로: 스페인은 나중에 서명하는 건 참 잘하죠.
+068. ÁLVARO: En España somos muy buenos firmando después, cuando ya no sirve para nada. Es casi un deporte nacional.
+    알바로: 스페인은 아무 소용 없어진 다음에 서명하는 건 참 잘하죠. 거의 국민 스포츠예요.
 
 069. OKSANA: En todas partes. En mi país, la luz es política. Aquí el agua también lo fue. Y ahora alguien quiere que la luz lo sea otra vez.
     옥사나: 어디나 그래요. 우리나라에선 전기가 정치예요. 여기선 물도 정치였고요. 그리고 이제 누군가 전기를 다시 정치로 만들고 싶어 해요.
 
-070. ÁLVARO: Por eso me ha traído aquí.
-    알바로: 그래서 절 여기 데려오신 거군요.
+070. ÁLVARO: O sea, que por eso me ha traído aquí, y no para enseñarme el pueblo.
+    알바로: 그러니까 그래서 절 여기 데려오신 거군요. 동네 구경시켜 주려고가 아니라.
 
 071. OKSANA: Le he traído porque en junio usted me preguntó por qué ayudo a un servicio de inteligencia en el que no confío. Esta calle es la respuesta.
     옥사나: 6월에 당신이 물었잖아요. 믿지도 않는 정보기관을 왜 돕느냐고. 이 골목이 그 대답이에요.
@@ -232,8 +232,8 @@
 072. OKSANA: Si este verano, con cuarenta y cuatro grados, se apaga la luz, ¿quién cree usted que se queda encerrado? Los que viven en planta baja, los que tienen oxígeno en casa. Los Pepes y las Consuelos.
     옥사나: 올여름 44도에 전기가 나가면, 누가 갇힐 것 같으세요? 1층에 사는 사람들, 집에 산소 호흡기 두고 사는 사람들. 페페 같은, 콘수엘로 같은 사람들이요.
 
-073. ÁLVARO: Lo entiendo.
-    알바로: 이해해요.
+073. ÁLVARO: Lo entiendo, Oksana, de verdad que lo entiendo. Por eso estoy aquí.
+    알바로: 이해해요, 옥사나 씨. 정말로 이해해요. 그래서 여기 와 있는 거고요.
 
 074. OKSANA: No. Usted lo entiende con la cabeza. Yo le pido que lo entienda con los pies, aquí, encima del barro que ya no se ve.
     옥사나: 아니요. 당신은 머리로 이해하는 거예요. 저는 발로 이해해 달라는 거예요. 여기, 이제는 보이지 않는 진흙 위에서.
@@ -247,14 +247,14 @@
 077. ÁLVARO: Esta va gratis. Tengo en el coche los papeles de una residencia para mi padre. Llevo dos semanas con ellos en la guantera. Sin firmar.
     알바로: 이건 공짜예요. 차에 아버지 요양원 입소 서류가 있어요. 2주째 글러브박스에 넣고 다녀요. 서명도 안 하고.
 
-078. OKSANA: ¿Su padre está enfermo?
-    옥사나: 아버님이 편찮으세요?
+078. OKSANA: ¿Su padre está enfermo? Perdone que se lo pregunte así, tan directamente; en mi país lo hacemos siempre.
+    옥사나: 아버님이 편찮으세요? 이렇게 대놓고 여쭤서 죄송해요. 우리나라에선 늘 이렇게 물어요.
 
 079. ÁLVARO: Alzheimer. Fue maquinista de metro treinta y cinco años. Se sabe todas las estaciones de la línea uno, pero el martes no sabía dónde estaba el baño de su casa.
     알바로: 알츠하이머요. 35년 동안 지하철 기관사였어요. 1호선 역은 전부 외우는데, 화요일엔 자기 집 화장실이 어딘지 몰랐대요.
 
-080. OKSANA: ¿Y por qué no firma?
-    옥사나: 그런데 왜 서명을 안 하세요?
+080. OKSANA: Entonces, si los papeles están listos, ¿por qué no los firma? Quiero entender la lógica.
+    옥사나: 그럼 서류가 다 준비돼 있는데 왜 서명을 안 하세요? 그 논리를 이해하고 싶어요.
 
 081. ÁLVARO: Porque si firmo, es verdad. Mientras estén en la guantera, todavía es mi padre el que decide.
     알바로: 서명하면 진짜가 되니까요. 글러브박스에 있는 동안은 아직 아버지가 결정하는 거고요.
@@ -268,8 +268,8 @@
 084. OKSANA: Consuelo no quiso dejar a Pepe. Y yo no supe sacarlos. A veces quedarse al lado no salva a nadie, señor Medina. A veces hay que firmar el papel feo.
     옥사나: 콘수엘로는 페페를 두고 가지 않으려 했어요. 그리고 저는 두 분을 꺼낼 줄 몰랐고요. 곁에 남는다고 누굴 구하는 건 아닐 때가 있어요, 메디나 씨. 때로는 그 보기 싫은 서류에 서명해야 해요.
 
-085. ÁLVARO: Mañana subo a Madrid. Lo intentaré.
-    알바로: 내일 마드리드에 올라가요. 해 볼게요.
+085. ÁLVARO: Mañana subo a Madrid a ver a mi padre. Lo intentaré, se lo prometo, aunque no le aseguro nada.
+    알바로: 내일 아버지 보러 마드리드에 올라가요. 해 볼게요, 약속해요. 장담은 못 하지만요.
 
 086. OKSANA: No lo intente. Hágalo. Y la horchata la pago yo; usted hoy ya ha pagado bastante.
     옥사나: 해 보지 말고, 하세요. 오르차타는 제가 살게요. 당신은 오늘 이미 충분히 치렀어요.
@@ -277,26 +277,26 @@
 087. ENCARNA: Álvaro, hijo, pasa, que te vas a asar en el descansillo. Tu padre está en el sillón, con la tele sin volumen.
     엥카르나: 알바로, 얘, 들어와. 계단참에서 익어 버리겠다. 아버지는 소파에 계셔. 소리 끈 TV 보면서.
 
-088. ÁLVARO: Gracias, Encarna. ¿Cómo ha pasado la semana?
-    알바로: 고마워요, 엥카르나 아주머니. 이번 주는 어떠셨어요?
+088. ÁLVARO: Gracias, Encarna, de verdad. ¿Cómo ha pasado la semana? Por teléfono me dijiste que regular.
+    알바로: 고마워요, 엥카르나 아주머니, 정말로요. 이번 주는 어떠셨어요? 전화로는 그저 그렇다고 하셨잖아요.
 
 089. ENCARNA: Mal, hijo, no te voy a engañar. El miércoles se dejó el gas abierto y el viernes a las cuatro de la mañana me lo encontré en la escalera con el uniforme del metro puesto.
     엥카르나: 안 좋았어, 얘. 거짓말 안 할게. 수요일엔 가스를 틀어 놓고, 금요일 새벽 네 시엔 지하철 제복을 입고 계단에 서 계시더라.
 
-090. ÁLVARO: ¿Con el uniforme? Si ni siquiera sabía que lo guardaba todavía.
-    알바로: 제복을요? 아직 갖고 계신 줄도 몰랐는데.
+090. ÁLVARO: ¿Con el uniforme puesto? Si ni siquiera sabía que lo guardaba todavía; pensaba que mamá lo había regalado a la parroquia hace años.
+    알바로: 제복을 입고요? 아직 갖고 계신 줄도 몰랐는데. 엄마가 몇 년 전에 성당에 기부한 줄 알았어요.
 
 091. ENCARNA: Decía que llegaba tarde al primer tren de Pinar de Chamartín. Yo ya no puedo, Álvaro. Tengo setenta y tres años y la cadera hecha polvo.
     엥카르나: 피나르 데 차마르틴 첫차에 늦었다고 하시더라. 나 이제 못 하겠어, 알바로. 일흔셋에 고관절도 다 망가졌고.
 
-092. ÁLVARO: Lo sé. Te lo agradezco más de lo que te imaginas.
-    알바로: 알아요. 생각하시는 것보다 훨씬 고마워하고 있어요.
+092. ÁLVARO: Lo sé, Encarna. Te lo agradezco más de lo que te imaginas, y si no fuera por ti, hace meses que habría tenido que dejar el trabajo para cuidarle.
+    알바로: 알아요, 아주머니. 생각하시는 것보다 훨씬 고마워하고 있어요. 아주머니 아니었으면 아버지 돌보느라 몇 달 전에 일을 그만뒀어야 했을 거예요.
 
 093. ENCARNA: No quiero que me lo agradezcas. Quiero que firmes esos papeles antes de que pase algo que no tenga arreglo.
     엥카르나: 고마워하라는 게 아니야. 되돌릴 수 없는 일이 생기기 전에 그 서류에 서명하라는 거지.
 
-094. RAMÓN: ¿Quién es, Encarna? ¿Es el del gas?
-    라몬: 누구야, 엥카르나? 가스 검침원이야?
+094. RAMÓN: ¿Quién es, Encarna? ¿Es el del gas? Dile que el contador está en la cocina, como siempre.
+    라몬: 누구야, 엥카르나? 가스 검침원이야? 계량기는 늘 그렇듯 부엌에 있다고 해.
 
 095. ÁLVARO: Soy yo, papá. Álvaro.
     알바로: 나야, 아빠. 알바로.
@@ -304,8 +304,8 @@
 096. RAMÓN: ¡Álvaro! Qué alto estás. ¿Ya has salido del colegio?
     라몬: 알바로! 많이 컸구나. 벌써 학교 끝났어?
 
-097. ÁLVARO: Hace mucho, papá. Ya tengo canas, mira.
-    알바로: 오래전에 끝났지, 아빠. 봐, 흰머리도 났어.
+097. ÁLVARO: Hace mucho que salí, papá. Ya tengo canas, mira, y una hija de dieciséis años.
+    알바로: 끝난 지 오래야, 아빠. 봐, 흰머리도 났고, 열여섯 살 먹은 딸도 있어.
 
 098. RAMÓN: Canas… Tu madre también tenía. Se las teñía de castaño y decía que nadie lo notaba. Lo notaba todo Usera.
     라몬: 흰머리라… 네 엄마도 있었지. 밤색으로 물들이고는 아무도 모른다고 했어. 우세라 사람들은 다 알았는데.
@@ -316,8 +316,8 @@
 100. RAMÓN: ¿Una residencia? ¿Para quién?
     라몬: 요양원? 누가 가는데?
 
-101. ÁLVARO: Para ti. Para que estés acompañado por las noches.
-    알바로: 아빠가. 밤에 혼자 있지 않게.
+101. ÁLVARO: Para ti, papá. Para que estés acompañado por las noches y no tengas que bajar a la escalera a las cuatro de la mañana buscando el primer tren.
+    알바로: 아빠가. 밤에 혼자 있지 않게. 새벽 네 시에 첫차 찾으러 계단에 나가지 않아도 되게.
 
 102. RAMÓN: Yo estoy acompañado. Tengo la radio, tengo a Encarna y tengo las estaciones. Pinar de Chamartín, Bambú, Chamartín, Plaza de Castilla…
     라몬: 나 혼자 아니야. 라디오도 있고, 엥카르나도 있고, 역들도 있어. 피나르 데 차마르틴, 밤부, 차마르틴, 플라사 데 카스티야…
@@ -334,8 +334,8 @@
 106. RAMÓN: Eso no se lo digas a nadie, que me echan.
     라몬: 그거 아무한테도 말하지 마라. 나 잘린다.
 
-107. ÁLVARO: No se lo diré a nadie, papá. Te lo prometo.
-    알바로: 아무한테도 말 안 할게, 아빠. 약속해.
+107. ÁLVARO: No se lo diré a nadie, papá, te lo prometo. Ese secreto lo llevo guardado cuarenta años y no lo voy a soltar ahora.
+    알바로: 아무한테도 말 안 할게, 아빠. 약속해. 그 비밀 40년 동안 지켰는데 이제 와서 털어놓진 않지.
 
 108. ENCARNA: Ahí tienes el boli, hijo, en la mesa. Yo me voy a mi casa, que esto es cosa vuestra.
     엥카르나: 볼펜 거기 있다, 얘. 식탁 위에. 난 우리 집 갈게. 이건 너희 부자 일이니까.
@@ -364,8 +364,8 @@
 116. SANTI: Lo sé, Álvaro, y le pido disculpas. Pero hay asuntos que no entienden de calendarios. Le llamo por su analista, el señor Etxeberria.
     산티: 압니다, 알바로. 죄송해요. 그런데 달력 사정 안 봐주는 일들이 있어서요. 당신 분석관, 에체베리아 씨 일로 전화했습니다.
 
-117. ÁLVARO: ¿Qué le pasa a Iker?
-    알바로: 이케르가 왜요?
+117. ÁLVARO: ¿A Iker? ¿Qué le pasa a Iker para que me llame usted un domingo por la tarde?
+    알바로: 이케르요? 이케르가 무슨 일이길래 일요일 오후에 실장님이 직접 전화를 하세요?
 
 118. SANTI: Nada, de momento. Pero el sistema ha registrado consultas suyas en bases que ya no le corresponden. Varias. De madrugada.
     산티: 아직은 아무 일도요. 다만 시스템에 그분이 이제 권한 없는 데이터베이스를 조회한 기록이 남았어요. 여러 번. 새벽에.
@@ -439,8 +439,8 @@
 141. RAMÓN: Me las trajo un amigo de tu padre. Un señor muy elegante, con corbata, aunque hacía un calor de muerte.
     라몬: 네 아빠 친구가 갖다줬어. 아주 멋쟁이 신사더라. 더워 죽겠는데 넥타이까지 매고.
 
-142. LUCÍA: ¿Qué amigo? ¿Cuándo?
-    루시아: 무슨 친구? 언제?
+142. LUCÍA: ¿Qué amigo, abuelo? ¿Y cuándo vino? Papá no me ha dicho nada de ninguna visita.
+    루시아: 무슨 친구, 할아버지? 언제 왔는데? 아빠는 누가 온다는 말 한마디도 안 했어.
 
 143. RAMÓN: Ayer, o esta mañana, no sé. Dijo que este verano iba a hacer mucho calor y que siempre tuviera velas en casa, por si acaso. Que ojalá yo convenciera a Álvaro de volver a Madrid antes de que hiciera demasiado calor.
     라몬: 어제였나, 오늘 아침이었나, 모르겠다. 올여름은 아주 더울 테니 집에 늘 양초를 두라더라. 혹시 모르니까. 너무 더워지기 전에 내가 알바로를 마드리드로 돌아오게 설득해 주면 좋겠다고도 했고.

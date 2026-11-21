@@ -19,8 +19,8 @@
 001. OKSANA: Prueba de radio. Aquí Paterna, sala de control. Veinte cuarenta y uno. ¿Me recibes?
     옥사나: 무전 테스트. 여기는 파테르나 관제실. 20시 41분. 들려?
 
-002. ÁLVARO: Te recibo, Paterna. Alto, claro y con acento de Járkov.
-    알바로: 잘 들려, 파테르나. 크고 또렷하게, 하르키우 억양까지.
+002. ÁLVARO: Te recibo, Paterna, alto y claro, y con ese acento de Járkov que ya echaba de menos desde esta mañana.
+    알바로: 잘 들려, 파테르나. 크고 또렷하게. 아침부터 그리웠던 그 하르키우 억양까지.
 
 003. OKSANA: Mi acento no es de Járkov. Es de los libros de gramática. ¿Dónde estás?
     옥사나: 내 억양은 하르키우 게 아니야. 문법책에서 배운 거지. 지금 어디야?
@@ -31,20 +31,20 @@
 005. CLIMENT: Xe, que no he comido desde las seis. Si me desmayo, ¿quién te cubre?
     클리멘트: 아 진짜, 6시부터 쫄쫄 굶었거든. 내가 쓰러지면 누가 너 엄호해?
 
-006. OKSANA: Teniente Climent. ¿Mi hermana?
-    옥사나: 클리멘트 중위님. 제 동생은요?
+006. OKSANA: Teniente Climent, antes de seguir necesito saberlo: ¿cómo está mi hermana?
+    옥사나: 클리멘트 중위님, 계속하기 전에 알아야겠어요. 제 동생은 어때요?
 
 007. CLIMENT: Tranquila. Mi cabo está en mi silla de plástico, en el pasillo de la sexta, y hay otro agente dentro, vestido de celador. Yulia no sale de su planta sin que yo me entere.
     클리멘트: 걱정 마. 6층 복도 내 플라스틱 의자엔 우리 상병이 앉아 있고, 안에 하나는 이송 요원 복장으로 넣어 놨어. 율리아가 자기 병동을 나서면 내가 바로 알아.
 
-008. OKSANA: Ella no sabe que la vigilan.
-    옥사나: 동생은 감시받는 줄 몰라요.
+008. OKSANA: Ella no sabe que la vigilan, ¿verdad? Prefiero que siga sin saberlo esta noche.
+    옥사나: 동생은 감시받는 줄 모르죠? 오늘 밤엔 계속 몰랐으면 좋겠어요.
 
 009. CLIMENT: Ni lo va a saber. A menos que el celador vuelva a tirar el café.
     클리멘트: 앞으로도 모를 거야. 그 이송 요원이 커피를 또 엎지만 않으면.
 
-010. NÚRIA: Oksana, servidores aislados. He desenchufado todo lo que tu jefe me ha dejado.
-    누리아: 옥사나, 서버 격리 끝. 너희 상사가 허락한 건 다 뽑았어.
+010. NÚRIA: Oksana, servidores aislados. He desenchufado todo lo que tu jefe me ha dejado tocar, y he sudado más que en un concierto de verano.
+    누리아: 옥사나, 서버 격리 끝. 너희 상사가 만지게 해 준 건 다 뽑았어. 여름 콘서트 때보다 땀을 더 흘렸네.
 
 011. SUPERVISOR: Su amiga me ha desconectado la mitad de los enlaces, ingeniera. Si esto sale mal, mañana nos echan a las dos. Y a mí también.
     관제 책임자: 친구분이 제 회선 절반을 끊어 놨어요, 엔지니어님. 이게 잘못되면 내일 두 분 다 잘려요. 저도요.
@@ -52,14 +52,14 @@
 012. OKSANA: Si sale mal, señor Albiol, mañana no habrá oficina de la que echarnos.
     옥사나: 잘못되면요, 알비올 씨, 내일은 우릴 쫓아낼 사무실 자체가 없을 거예요.
 
-013. ÁLVARO: ¿Y el bicho? ¿Está despierto?
-    알바로: 그 벌레는? 깨어 있어?
+013. ÁLVARO: ¿Y el bicho? ¿Está despierto o sigue durmiendo la siesta en vuestros servidores?
+    알바로: 그 벌레는? 깨어 있어, 아니면 아직 너희 서버에서 낮잠 자고 있어?
 
 014. NÚRIA: Despierto y con hambre. FONAMENTS tiene órdenes cargadas en catorce subestaciones y en los inversores de tres plantas solares, Requena, Villena y Utiel. Lo que nos contó Oriol era verdad: no necesita entrar a las nueve. Lleva meses dentro.
     누리아: 깨어 있고, 배도 고파해. 포나멘츠가 변전소 열네 곳이랑 태양광 발전소 세 곳, 레케나·비예나·우티엘 인버터에 명령을 심어 놨어. 오리올 말이 맞았어. 9시에 들어올 필요도 없어. 몇 달째 안에 있었으니까.
 
-015. ÁLVARO: Traducción para un madrileño, por favor.
-    알바로: 마드리드 사람용으로 번역 좀.
+015. ÁLVARO: Traducción para un madrileño, por favor, que yo de inversores solo conozco los de la Bolsa.
+    알바로: 마드리드 사람용으로 번역 좀. 나는 인버터라고 하면 주식 투자자밖에 몰라.
 
 016. OKSANA: A las nueve, esas plantas subirán y bajarán su potencia muy rápido, como un niño saltando en una cama. La red entera bailará con él. Si nadie lo para, en cuarenta segundos cae Valencia; en tres minutos, la península.
     옥사나: 9시에 그 발전소들이 출력을 아주 빠르게 올렸다 내렸다 할 거야. 침대 위에서 방방 뛰는 애처럼. 그러면 전력망 전체가 같이 춤을 춰. 아무도 안 막으면 40초 만에 발렌시아가, 3분 만에 반도 전체가 쓰러지지.
@@ -76,8 +76,8 @@
 020. OKSANA: Sí. A las nueve menos uno separo Valencia del resto de España con mis manos, línea por línea. Cuando empiece el baile, no tendrá adónde ir.
     옥사나: 응. 8시 59분에 내 손으로 발렌시아를 나머지 스페인에서 떼어 낼 거야. 선로 하나씩. 춤이 시작돼도 갈 데가 없게.
 
-021. ÁLVARO: Lo sé, lo sé. Pero dicho en voz alta suena peor. ¿Entera?
-    알바로: 알아, 알아. 근데 소리 내서 들으니까 더 무섭네. 통째로?
+021. ÁLVARO: Lo sé, lo sé, ya me lo explicaste en Requena con dibujos y todo. Pero dicho en voz alta, a menos de veinte minutos, suena mucho peor. ¿Valencia entera?
+    알바로: 알아, 알아. 레케나에서 그림까지 그려 가며 설명해 줬잖아. 근데 20분도 안 남기고 소리 내서 들으니까 훨씬 더 무섭네. 발렌시아 통째로?
 
 022. OKSANA: Valencia, Castellón y media Alicante. Cinco millones de personas a oscuras para que cuarenta y tantos millones no lo estén. Una isla. Una isla que se apaga.
     옥사나: 발렌시아, 카스테욘, 알리칸테 절반. 사천몇백만이 어둠에 빠지지 않게, 오백만 명을 어둠 속에 두는 거야. 섬 하나. 불이 꺼지는 섬.
@@ -85,8 +85,8 @@
 023. ÁLVARO: Joder.
     알바로: 젠장.
 
-024. OKSANA: Sí. Esa es la palabra técnica.
-    옥사나: 응. 그게 전문 용어야.
+024. OKSANA: Sí. Esa es la palabra técnica, aunque en los informes la escribimos de otra manera.
+    옥사나: 응. 그게 전문 용어야. 보고서엔 좀 다르게 쓰지만.
 
 025. ÁLVARO: Audio de Lucía. Lo escucho ya, que dentro de veinte minutos no habrá cobertura.
     알바로: 루시아 음성 메시지다. 지금 들을게. 20분 뒤면 신호도 없을 테니까.
@@ -94,8 +94,8 @@
 026. LUCÍA: Papá, contesta. Es un audio, no una bomba. En la tele dicen que en Valencia vais a llegar a cuarenta y cuatro. Bebe agua. He ido a ver al abuelo: hoy se acordaba de todas las estaciones hasta Sol. Te quiero, pesado.
     루시아: 아빠, 답장해. 음성 메시지지 폭탄 아니잖아. 뉴스에서 발렌시아 44도까지 간대. 물 마셔. 할아버지 보고 왔는데, 오늘은 솔 역까지 다 기억하셨어. 사랑해, 귀찮은 아빠.
 
-027. ÁLVARO: Hasta Sol. Bien, papá.
-    알바로: 솔까지라. 잘하셨어요, 아버지.
+027. ÁLVARO: Hasta Sol. Bien, papá, muy bien; esta noche yo también voy a necesitar acordarme de todo.
+    알바로: 솔까지라. 잘하셨어요, 아버지. 오늘 밤엔 저도 전부 기억해야 할 것 같아요.
 
 028. CLIMENT: Gato, furgoneta blanca por el acceso sur, sin luces. Junto a la grúa siete.
     클리멘트: 가토, 남쪽 진입로로 흰색 승합차, 라이트 끄고 들어와. 7번 크레인 옆.
@@ -103,23 +103,23 @@
 029. ÁLVARO: La veo. Bajan dos. El de la camisa clara anda como si fuera el dueño.
     알바로: 보인다. 둘 내려. 밝은 셔츠 입은 놈은 항구 주인처럼 걷네.
 
-030. CLIMENT: ¿Es él?
-    클리멘트: 그놈이야?
+030. CLIMENT: ¿Es él? Dime que sí, que llevo tres noches sin dormir por culpa de ese tío.
+    클리멘트: 그놈이야? 그렇다고 해 줘. 저놈 때문에 사흘째 잠을 못 잤어.
 
 031. ÁLVARO: Es Sorokin. El de la ceja partida es Dmitri. Llevan una bolsa de pesca.
     알바로: 소로킨이야. 눈썹 찢어진 건 드미트리고. 낚시 가방을 들고 있어.
 
-032. CLIMENT: Redéu. En esa bolsa no hay cañas.
-    클리멘트: 세상에. 저 가방에 낚싯대는 없겠다.
+032. CLIMENT: Redéu. En esa bolsa no hay cañas, eso te lo digo yo, que pesco desde los siete años.
+    클리멘트: 세상에. 저 가방에 낚싯대는 없어. 일곱 살 때부터 낚시한 내가 장담해.
 
-033. OKSANA: Faltan dieciséis minutos. Si él está en el puerto, ¿quién da la orden?
-    옥사나: 16분 남았어. 그 사람이 항구에 있으면 명령은 누가 내려?
+033. OKSANA: Faltan dieciséis minutos. Si él está en el puerto, tan tranquilo, ¿quién da la orden? Alguien tiene que apretar el botón, ¿no?
+    옥사나: 16분 남았어. 그 사람이 항구에 저렇게 태연하게 있으면 명령은 누가 내려? 누군가는 버튼을 눌러야 하잖아?
 
 034. NÚRIA: Nadie, Oksana. La orden ya está dada. Él no ha venido a apretar un botón, ha venido a irse. Hay una neumática atada al final del muelle; la tengo en la cámara del puerto, mientras haya cámara.
     누리아: 아무도 안 내려, 옥사나. 명령은 이미 내려졌어. 그 사람은 버튼 누르러 온 게 아니라 떠나려고 온 거야. 부두 끝에 고무보트가 묶여 있어. 항구 카메라로 보고 있어, 카메라가 살아 있는 동안은.
 
-035. ÁLVARO: Pues no se va. Climent, ¿y la patrullera?
-    알바로: 그럼 못 떠나지. 클리멘트, 순찰정은?
+035. ÁLVARO: Pues no se va, que esta vez no se nos escapa. Climent, ¿y la patrullera?
+    알바로: 그럼 못 떠나. 이번엔 안 놓쳐. 클리멘트, 순찰정은?
 
 036. CLIMENT: El Servicio Marítimo está a dos millas, pegado a la Marlin Star. Si la neumática sale, la pillamos en el agua. En teoría.
     클리멘트: 해상대가 2해리 밖에서 마린 스타에 붙어 있어. 고무보트가 나가면 물 위에서 잡는다. 이론상으론.
@@ -130,8 +130,8 @@
 038. SOROKIN: Buenas noches, ingeniera Melnyk. Esta frecuencia es muy fácil de encontrar, ¿sabe?
     소로킨: 안녕하십니까, 멜니크 엔지니어님. 이 주파수, 찾기가 아주 쉽더군요.
 
-039. OKSANA: Le oigo.
-    옥사나: 들려요.
+039. OKSANA: Le oigo, señor Sorokin, y le aseguro que ya no me sorprende nada de usted.
+    옥사나: 들려요, 소로킨 씨. 이제 당신이 뭘 해도 놀랍지 않아요.
 
 040. SOROKIN: Le dije que a las nueve usted no tocaría nada. Me gustaría pensar que es una mujer razonable. Su hermana tiene turno de noche en la sexta planta, ¿verdad? Los hospitales tienen generadores… durante unas horas.
     소로킨: 9시에 아무것도 건드리지 마시라고 말씀드렸지요. 합리적인 분이라고 믿고 싶습니다. 동생분이 6층 야간 근무시죠? 병원엔 발전기가 있습니다… 몇 시간 동안은.
@@ -148,8 +148,8 @@
 044. NÚRIA: Collons. Nos estaba escuchando todo el rato, y yo pensando que el canal de la Guardia Civil era seguro.
     누리아: 젠장. 처음부터 다 듣고 있었네. 난 과르디아 시빌 채널은 안전한 줄 알았는데.
 
-045. ÁLVARO: Canal cuatro, todos. Oksana, ¿estás bien?
-    알바로: 다들 4번 채널. 옥사나, 괜찮아?
+045. ÁLVARO: Canal cuatro, todos, y nadie dice nombres. Oksana, ¿estás bien? Contéstame de verdad.
+    알바로: 다들 4번 채널, 이름은 아무도 말하지 마. 옥사나, 괜찮아? 솔직하게 대답해.
 
 046. OKSANA: No, pero estoy aquí. Señor Albiol, abra el panel viejo. El de botones.
     옥사나: 아니. 그래도 여기 있어. 알비올 씨, 옛날 패널 열어 주세요. 버튼 달린 거요.
@@ -199,20 +199,20 @@
 061. NÚRIA: Las pantallas mienten. Marcan cincuenta y el analizador dice cuarenta y nueve coma ocho.
     누리아: 화면이 거짓말해. 화면엔 50인데 분석기엔 49.8이야.
 
-062. OKSANA: Créete al analizador. Las pantallas ahora son suyas.
-    옥사나: 분석기를 믿어. 이제 화면은 저쪽 거야.
+062. OKSANA: Créete al analizador, Núria, no a la pantalla. Las pantallas ahora son suyas.
+    옥사나: 분석기를 믿어, 누리아. 화면 말고. 이제 화면은 저쪽 거야.
 
 063. SUPERVISOR: ¡Se va la luz de la sala! ¡Entran los generadores!
     관제 책임자: 관제실 전기 나갑니다! 발전기 들어옵니다!
 
-064. ÁLVARO: Se ha ido todo. Grúas, farolas, aduana. Climent, no me veo ni los zapatos.
-    알바로: 다 나갔어. 크레인, 가로등, 세관. 클리멘트, 내 신발도 안 보여.
+064. ÁLVARO: Se ha ido todo: grúas, farolas, aduana, hasta el faro del rompeolas. Climent, no me veo ni los zapatos, y eso que son los nuevos.
+    알바로: 다 나갔어. 크레인, 가로등, 세관, 방파제 등대까지. 클리멘트, 내 신발도 안 보여. 새로 산 건데.
 
 065. CLIMENT: Linterna no, que te ven desde la otra punta del muelle. Espera a que se te acostumbren los ojos.
     클리멘트: 손전등은 안 돼, 부두 반대편에서도 보여. 눈이 적응할 때까지 기다려.
 
-066. ÁLVARO: No tenemos tiempo para que se me acostumbren los ojos. ¿Dónde están?
-    알바로: 눈이 적응할 시간 같은 거 없어. 놈들 어디 있어?
+066. ÁLVARO: No tenemos tiempo para que se me acostumbren los ojos, Climent; en cinco minutos ese tío está en el agua. ¿Dónde están?
+    알바로: 눈이 적응할 시간 같은 거 없어, 클리멘트. 5분이면 저놈은 물 위에 있어. 놈들 어디 있어?
 
 067. CLIMENT: Junto a la furgoneta. Oigo una cremallera. Están abriendo la bolsa.
     클리멘트: 승합차 옆. 지퍼 소리 들려. 가방 여는 중이야.
@@ -232,8 +232,8 @@
 072. SUPERVISOR: Quique. Quique Ferrando. Tiene veintiséis años y lleva tres meses con nosotros.
     관제 책임자: 키케요. 키케 페란도. 스물여섯 살에, 우리랑 일한 지 석 달 됐어요.
 
-073. OKSANA: Póngamelo por la radio de servicio.
-    옥사나: 업무용 무전으로 연결해 주세요.
+073. OKSANA: Póngamelo por la radio de servicio, por favor, y que nadie más hable en ese canal.
+    옥사나: 업무용 무전으로 연결해 주세요. 그리고 그 채널에선 아무도 말하지 말라고 하세요.
 
 074. ÁLVARO: Se mueven hacia el final del muelle. Y rápido, como si vieran.
     알바로: 부두 끝으로 움직인다. 그것도 빨라. 앞이 보이는 것처럼.
@@ -262,8 +262,8 @@
 082. OKSANA: Lo sé. Yo le daré cada paso. Usted solo tiene que hacer lo que yo diga, en el orden en que lo diga. ¿Lleva el casco y los guantes?
     옥사나: 알아요. 제가 한 단계씩 불러 줄게요. 제가 말하는 걸, 제가 말하는 순서대로만 하면 돼요. 안전모랑 장갑 했어요?
 
-083. TÉCNICO: Sí. Me tiemblan las manos, pero sí.
-    기술자: 네. 손이 떨리긴 하는데, 네.
+083. TÉCNICO: Sí, lo llevo todo puesto. Me tiemblan las manos, pero sí, aquí estoy.
+    기술자: 네, 다 착용했어요. 손이 떨리긴 하는데, 네, 여기 있어요.
 
 084. OKSANA: A mí también, Quique. Vamos despacio, como si tuviéramos toda la noche. Linterna en la boca, no en la mano.
     옥사나: 저도 떨려요, 키케. 밤새 시간 있는 것처럼 천천히 가요. 손전등은 손 말고 입에 무세요.
@@ -301,8 +301,8 @@
 095. OKSANA: Ahora escúcheme bien, Quique. Cuando gire la manivela va a oír un golpe muy fuerte, como un disparo, y quizá vea un arco azul. Es normal. No suelte. Si suelta a la mitad, se vuelve a cerrar.
     옥사나: 이제 잘 들어요, 키케. 손잡이를 돌리면 총소리 같은 아주 큰 소리가 날 거고, 파란 불꽃이 보일 수도 있어요. 정상이에요. 놓지 마세요. 중간에 놓으면 다시 닫혀요.
 
-096. TÉCNICO: ¿Y si me pasa algo?
-    기술자: 저한테 무슨 일 생기면요?
+096. TÉCNICO: ¿Y si me pasa algo? Tengo una hija de dos años, ingeniera.
+    기술자: 저한테 무슨 일 생기면요? 두 살짜리 딸이 있어요, 엔지니어님.
 
 097. OKSANA: No le va a pasar nada. Yo no he podido salvar a todos los que quería, pero esta noche no voy a perder a nadie. A usted tampoco.
     옥사나: 아무 일도 없을 거예요. 전 구하고 싶은 사람을 다 구하진 못했어요. 하지만 오늘 밤엔 아무도 안 잃을 거예요. 당신도요.
@@ -310,11 +310,11 @@
 098. CLIMENT: Cuarenta metros. Dmitri se queda cubriendo. Sorokin está desatando la neumática.
     클리멘트: 40미터. 드미트리는 남아서 엄호 중. 소로킨은 고무보트 줄 풀고 있어.
 
-099. ÁLVARO: ¿Nos ve?
-    알바로: 우리 보여?
+099. ÁLVARO: ¿Nos ve desde ahí con esas gafas, o todavía no se ha dado cuenta?
+    알바로: 저놈 그 안경으로 우리 보여? 아니면 아직 눈치 못 챘어?
 
-100. CLIMENT: Si nos viera, ya estaríamos muertos.
-    클리멘트: 보였으면 우린 벌써 죽었지.
+100. CLIMENT: Si nos viera, ya estaríamos muertos, así que de momento somos invisibles.
+    클리멘트: 보였으면 우린 벌써 죽었지. 그러니까 지금은 우리가 투명 인간이야.
 
 101. ÁLVARO: Vale. Bengala a la de tres. Tú a Dmitri, yo al muelle. Una… dos…
     알바로: 좋아. 셋 하면 조명탄. 넌 드미트리, 난 부두. 하나… 둘…
@@ -334,8 +334,8 @@
 106. TÉCNICO: ¡Ya está! ¡Ha sonado como una bomba! La manivela está abajo del todo.
     기술자: 됐어요! 폭탄 터지는 소리 났어요! 손잡이 끝까지 내려갔어요.
 
-107. OKSANA: No la suelte todavía. Núria.
-    옥사나: 아직 놓지 마세요. 누리아.
+107. OKSANA: No la suelte todavía, Quique, aguante un poco más. Núria, ¿qué marca fuera?
+    옥사나: 아직 놓지 마세요, 키케. 조금만 더 버텨요. 누리아, 바깥 수치는?
 
 108. NÚRIA: Minglanilla abierta. La isla está sola. Fuera… cuarenta y nueve coma cuatro… coma cinco… coma siete. ¡Sube! ¡Está subiendo, Oksana!
     누리아: 밍글라니야 개방. 섬이 혼자 남았어. 바깥… 49.4… .5… .7. 올라간다! 올라가고 있어, 옥사나!
@@ -346,32 +346,32 @@
 110. OKSANA: Ya puede soltar, Quique. Siéntese en el suelo y respire. Lo ha hecho mejor que muchos ingenieros con veinte años de oficio.
     옥사나: 이제 놓으셔도 돼요, 키케. 바닥에 앉아서 숨 쉬어요. 20년 차 엔지니어들보다 잘하셨어요.
 
-111. TÉCNICO: Oiga… ¿mi casa también está a oscuras?
-    기술자: 저기요… 우리 집도 깜깜해요?
+111. TÉCNICO: Oiga… ¿mi casa también está a oscuras? Vivo en Burjassot, con mi mujer y la niña.
+    기술자: 저기요… 우리 집도 깜깜해요? 부르야솟에 살아요, 아내랑 딸이랑.
 
 112. OKSANA: Sí. La mía también. Hoy las dos casas están a oscuras para que las demás no lo estén.
     옥사나: 네. 우리 집도요. 오늘은 다른 집들이 밝도록, 우리 두 집이 어두운 거예요.
 
-113. ÁLVARO: ¡Sorokin! ¡Quieto! Las manos donde yo las vea.
-    알바로: 소로킨! 멈춰! 손 보이는 데 둬.
+113. ÁLVARO: ¡Sorokin! ¡Quieto! Las manos donde yo las vea, o te juro que disparo.
+    알바로: 소로킨! 멈춰! 손 보이는 데 둬. 안 그러면 맹세코 쏜다.
 
 114. SOROKIN: Señor Robles, o como se llame de verdad. No esperaba que viniera usted en persona.
     소로킨: 로블레스 씨, 아니 진짜 이름이 뭐든 간에. 직접 오실 줄은 몰랐습니다.
 
-115. ÁLVARO: Sal de la neumática. Despacito.
-    알바로: 보트에서 나와. 천천히.
+115. ÁLVARO: Sal de la neumática, despacito y con buena letra, como decía mi padre.
+    알바로: 보트에서 나와. 천천히, 또박또박. 우리 아버지 말마따나.
 
 116. SOROKIN: Se le ve muy poco, ¿sabe? Me ha quitado las gafas con su fuego artificial. Ahora estamos iguales: dos hombres a oscuras en un muelle.
     소로킨: 당신이 잘 안 보이는군요. 그 불꽃놀이 때문에 안경을 벗어야 했거든요. 이제 공평하네요. 어두운 부두 위의 두 남자.
 
-117. ÁLVARO: No estamos iguales. Yo tengo una pistola y tú, cinco millones de valencianos esperándote.
-    알바로: 공평하지 않아. 난 총이 있고, 넌 발렌시아 사람 오백만 명이 기다리고 있지.
+117. ÁLVARO: No estamos iguales. Yo tengo una pistola, y tú tienes cinco millones de valencianos esperándote para preguntarte por qué esta noche no pueden ni abrir la nevera.
+    알바로: 공평하지 않아. 난 총이 있고, 넌 오늘 밤 왜 냉장고도 못 여는지 물어보려고 기다리는 발렌시아 사람 오백만 명이 있지.
 
 118. SOROKIN: Yo no he apagado nada, Gato. Yo solo he pagado el alquiler. El programa es de un barcelonés, la idea es de un madrileño y el calendario lo eligieron sus políticos.
     소로킨: 저는 아무것도 안 껐습니다, 가토. 집세만 냈을 뿐이죠. 프로그램은 바르셀로나 사람 거고, 아이디어는 마드리드 사람 거고, 날짜는 당신네 정치인들이 골랐습니다.
 
-119. ÁLVARO: ¿Cómo me has llamado?
-    알바로: 날 뭐라고 불렀어?
+119. ÁLVARO: ¿Cómo me has llamado? Repítelo, porque ese nombre no lo conoce casi nadie.
+    알바로: 날 뭐라고 불렀어? 다시 말해 봐. 그 이름 아는 사람 거의 없거든.
 
 120. SOROKIN: Gato. Así le llamaba Kirill, ¿no? El pobre Kirill pidió por usted y solo por usted. Yo, en su lugar, me preguntaría quién le dio ese nombre. Un nombre así no se encuentra en internet.
     소로킨: 가토. 키릴이 그렇게 불렀잖습니까? 가엾은 키릴은 당신을, 오직 당신만 찾았죠. 제가 당신이라면 누가 그 이름을 그에게 줬는지 궁금해하겠습니다. 그런 이름은 인터넷에서 찾을 수 있는 게 아니거든요.
@@ -385,14 +385,14 @@
 123. SOROKIN: Y otro dato. Hay un hombre mío en la sexta planta de La Fe. Si no recibe mi llamada a las diez, la señorita Melnyk se quedará sin la única familia que le queda.
     소로킨: 정보 하나 더. 라 페 6층에 제 사람이 있습니다. 10시에 제 전화를 못 받으면, 멜니크 양은 하나 남은 가족을 잃게 되겠죠.
 
-124. ÁLVARO: Climent. Canal cuatro. La Fe, sexta planta, ¡ya!
-    알바로: 클리멘트. 4번 채널. 라 페, 6층, 당장!
+124. ÁLVARO: Climent, canal cuatro, ¡ya! Que alguien suba a la sexta planta de La Fe ahora mismo.
+    알바로: 클리멘트, 4번 채널, 당장! 누구든 지금 바로 라 페 6층으로 올라가게 해!
 
 125. CLIMENT: Lo estoy pidiendo, Gato. No contestan. Sin luz, la radio del hospital va a trozos y solo oigo ruido.
     클리멘트: 요청 중이야, 가토. 응답이 없어. 전기가 없어서 병원 무전이 끊겨. 잡음만 들려.
 
-126. OKSANA: Álvaro, ¿qué pasa con Yulia? ¡Dímelo!
-    옥사나: 알바로, 율리아한테 무슨 일이야? 말해!
+126. OKSANA: Álvaro, ¿qué pasa con Yulia? ¡Dímelo! Lo estoy oyendo todo por la radio.
+    옥사나: 알바로, 율리아한테 무슨 일이야? 말해! 무전으로 다 듣고 있어.
 
 127. SOROKIN: ¿Lo ve? Ella lo ha entendido antes que usted. Usted es un buen hombre, Gato. Ese siempre ha sido su problema. Ojalá fuera un poco peor; nos habríamos entendido mejor.
     소로킨: 보세요. 저 여자가 당신보다 먼저 알아들었습니다. 당신은 좋은 사람이에요, 가토. 그게 늘 당신 문제였죠. 조금만 더 나빴으면 좋았을 텐데. 우린 더 잘 통했을 겁니다.
@@ -439,14 +439,14 @@
 141. LOCUTORA: Son las diez menos cuarto. Les recordamos que el resto de España tiene luz. El apagón afecta solo a la Comunitat Valenciana. Si tienen vecinos mayores, llamen a su puerta. Llamen a la puerta, no al teléfono.
     아나운서: 9시 45분입니다. 다시 알려 드립니다. 스페인 나머지 지역은 전기가 들어와 있습니다. 정전은 발렌시아 지방에만 해당됩니다. 이웃에 어르신이 계시면 문을 두드려 주세요. 전화 말고, 문을 두드려 주세요.
 
-142. ÁLVARO: Oksana, aquí Álvaro. Lo tenía a cinco metros y se me ha escapado.
-    알바로: 옥사나, 알바로야. 5미터 앞에 있었는데 놓쳤어.
+142. ÁLVARO: Oksana, aquí Álvaro. Lo tenía a cinco metros, con la pistola en la mano, y se me ha escapado como un pez entre los dedos.
+    알바로: 옥사나, 알바로야. 총을 들고 5미터 앞에 두고 있었는데, 손가락 사이로 물고기 빠져나가듯 놓쳤어.
 
 143. OKSANA: Lo he oído todo. Elegiste a mi hermana. Si hubieras elegido otra cosa, yo no te lo habría perdonado nunca.
     옥사나: 다 들었어. 넌 내 동생을 택했어. 다른 걸 택했다면 난 평생 널 용서 못 했을 거야.
 
-144. ÁLVARO: ¿Y la red? Dime algo bueno. Lo que sea.
-    알바로: 망은? 좋은 소식 하나만 줘. 뭐라도.
+144. ÁLVARO: ¿Y la red? Dime algo bueno, Núria, lo que sea, porque esta noche lo necesito más que el agua.
+    알바로: 망은? 좋은 소식 하나만 줘, 누리아. 뭐라도. 오늘 밤엔 물보다 그게 더 필요해.
 
 145. NÚRIA: Fuera, cincuenta coma cero cero. Madrid, Sevilla, Bilbao, Barcelona, todo encendido. Lo has hecho.
     누리아: 바깥 50.00. 마드리드, 세비야, 빌바오, 바르셀로나, 다 켜져 있어. 네가 해냈어.
@@ -454,8 +454,8 @@
 146. SUPERVISOR: Mire por la ventana, ingeniera. Ni una luz hasta el mar. Se ven las estrellas.
     관제 책임자: 창밖 좀 보세요, 엔지니어님. 바다까지 불빛 하나 없어요. 별이 보여요.
 
-147. ÁLVARO: Oksana. ¿Sigues ahí?
-    알바로: 옥사나. 아직 거기 있어?
+147. ÁLVARO: Oksana, ¿sigues ahí? Dime algo, aunque solo sea que estás cansada.
+    알바로: 옥사나, 아직 거기 있어? 뭐라도 말해 줘. 피곤하다는 말이라도.
 
 148. OKSANA: Sigo aquí. Escúchame, Álvaro, y díselo a tu directora y a quien quiera oírlo.
     옥사나: 여기 있어. 들어, 알바로. 그리고 너희 국장한테도, 듣고 싶은 사람 누구한테든 전해.

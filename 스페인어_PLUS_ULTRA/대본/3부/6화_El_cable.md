@@ -19,14 +19,14 @@
 001. CLIMENT: Ya estamos. Esa caseta blanca entre los arrozales es la estación de amarre. Quien pase por aquí en bici pensaría que es una depuradora.
     클리멘트: 다 왔어. 논 사이에 있는 저 하얀 건물이 케이블 상륙국이야. 자전거 타고 지나가는 사람은 정수장인 줄 알 거야.
 
-002. ÁLVARO: ¿Eso? ¿Por ahí pasa internet?
-    알바로: 저게? 저기로 인터넷이 지나간다고?
+002. ÁLVARO: ¿Eso? ¿Me está diciendo que por esa caseta, que parece un almacén de aperos, pasa internet?
+    알바로: 저게? 농기구 창고처럼 생긴 저 건물로 인터넷이 지나간다고?
 
 003. OKSANA: Por ahí pasa casi todo, señor Medina. Internet, los bancos, las llamadas a Mallorca y una parte de mi trabajo que usted no ve.
     옥사나: 거의 모든 게 지나갑니다, 메디나 씨. 인터넷, 은행, 마요르카로 가는 통화, 그리고 당신 눈엔 안 보이는 제 일의 일부도요.
 
-004. ÁLVARO: ¿Su trabajo?
-    알바로: 옥사나 씨 일이요?
+004. ÁLVARO: ¿Su trabajo también pasa por ahí? Pensaba que lo suyo eran los cables de alta tensión, no los de internet.
+    알바로: 옥사나 씨 일도 저기로 지나간다고요? 고압선 담당인 줄 알았지, 인터넷 케이블은 생각도 못 했네요.
 
 005. OKSANA: Se lo explicará ella mejor que yo. Es la jefa de la estación. Buenos días.
     옥사나: 저분이 저보다 잘 설명할 겁니다. 상륙국장이에요. 안녕하세요.
@@ -34,8 +34,8 @@
 006. JEFA DE ESTACIÓN: Buenos días. Pasen, y cierren rápido, que aquí dentro las máquinas viven a dieciocho grados y fuera estamos a cuarenta.
     상륙국장: 안녕하세요. 들어오세요. 문은 빨리 닫아 주시고요. 안의 기계들은 18도에서 사는데 밖은 40도라서요.
 
-007. CLIMENT: Redéu, qué gloria. Me quedaría a vivir aquí hasta septiembre.
-    클리멘트: 세상에, 천국이네. 9월까지 여기서 살고 싶다.
+007. CLIMENT: Redéu, qué gloria. Me quedaría a vivir aquí hasta septiembre, con una silla plegable y un bocadillo, y que me buscaran los de la comandancia si querían.
+    클리멘트: 세상에, 천국이네. 접이식 의자 하나랑 샌드위치 하나 들고 9월까지 여기서 살고 싶다. 사령부 사람들이 찾든 말든.
 
 008. JEFA DE ESTACIÓN: Todos dicen lo mismo hasta que llevan ocho horas sin ventanas. A ver, ¿qué quiere saber exactamente el CNI de mis cables?
     상륙국장: 다들 그렇게 말해요. 창문 없이 여덟 시간 있기 전까지는요. 자, CNI가 정확히 우리 케이블에 대해 뭘 알고 싶으신 거죠?
@@ -61,17 +61,17 @@
 015. OKSANA: Entonces no solo estaríamos a oscuras. Estaríamos sordos. Primero te quitan la luz; después, los oídos.
     옥사나: 그럼 우린 어둠 속에 있는 것만이 아니게 됩니다. 귀까지 먹게 되죠. 먼저 전기를 빼앗고, 그다음엔 귀를 빼앗는 겁니다.
 
-016. CLIMENT: Xe, qué alegría me das un lunes por la mañana.
-    클리멘트: 어휴, 월요일 아침부터 참 기분 좋은 소리 해 주네.
+016. CLIMENT: Xe, qué alegría me das un lunes por la mañana. Si llego a saber que la visita era para esto, me quedo en el cuartel con el ventilador.
+    클리멘트: 어휴, 월요일 아침부터 참 기분 좋은 소리 해 주네. 이런 얘기 들으러 오는 줄 알았으면 선풍기 틀어 놓고 부대에 있을걸.
 
-017. ÁLVARO: ¿Y cómo de protegido está? ¿Lo vigila alguien?
-    알바로: 보호는 얼마나 돼 있어요? 누가 지키긴 해요?
+017. ÁLVARO: ¿Y cómo de protegido está un cable así? Porque si es tan fino, me imagino que alguien lo vigilará día y noche.
+    알바로: 그런 케이블은 보호가 얼마나 돼 있어요? 그렇게 가늘면 누가 밤낮으로 지키고 있을 것 같은데요.
 
 018. JEFA DE ESTACIÓN: Cerca de la costa va enterrado a metro y medio bajo la arena. Más lejos ya no. A partir del kilómetro diecinueve, el cable está tumbado en el fondo, sin enterrar.
     상륙국장: 해안 가까이에선 모래 밑 1.5미터에 묻혀 있어요. 멀리 가면 아니고요. 19킬로미터 지점부터는 묻지 않고 해저에 그냥 누워 있어요.
 
-019. OKSANA: ¿Ha dicho el kilómetro diecinueve?
-    옥사나: 19킬로미터라고 하셨습니까?
+019. OKSANA: Perdone, ¿ha dicho el kilómetro diecinueve? Necesito que me lo repita, por favor, exactamente con esas palabras.
+    옥사나: 죄송한데, 19킬로미터라고 하셨습니까? 정확히 그 말 그대로 한 번만 더 말씀해 주세요.
 
 020. JEFA DE ESTACIÓN: Sí. ¿Por qué se ha puesto así? Es un dato público.
     상륙국장: 네. 왜 그렇게 놀라세요? 공개된 정보예요.
@@ -79,8 +79,8 @@
 021. OKSANA: Porque un hombre muerto lo escribió a lápiz en la última página de su cuaderno. "Yakor, diecinueve." Ancla, diecinueve.
     옥사나: 죽은 사람이 그걸 수첩 마지막 장에 연필로 적어 놨거든요. "야코르, 19." 닻, 19.
 
-022. ÁLVARO: Kirill no estaba contando días. Estaba contando kilómetros.
-    알바로: 키릴은 날짜를 센 게 아니었어. 킬로미터를 센 거야.
+022. ÁLVARO: Kirill no estaba contando días, ni metros, ni nudos. Estaba contando kilómetros desde la costa, y sabía muy bien dónde acaba la arena.
+    알바로: 키릴은 날짜도, 미터도, 노트도 센 게 아니었어. 해안에서부터 킬로미터를 센 거야. 모래가 어디서 끝나는지 정확히 알고 있었던 거지.
 
 023. CLIMENT: Medina, ¿y si fuera una casualidad? Hay mil cosas que pueden ser diecinueve.
     클리멘트: 메디나, 우연이면? 19일 수 있는 건 천 가지도 넘잖아.
@@ -91,8 +91,8 @@
 025. JEFA DE ESTACIÓN: ¿El Marlin Star? ¿Lo dicen por el petrolero viejo de enfrente?
     상륙국장: 마린 스타요? 앞바다에 있는 그 낡은 유조선 말씀하시는 거예요?
 
-026. ÁLVARO: ¿Lo conoce?
-    알바로: 아세요?
+026. ÁLVARO: ¿Lo conoce? Pensaba que desde aquí, entre arrozales, nadie se fijaría en un barco tan lejos.
+    알바로: 아세요? 이런 논 한가운데서는 그렇게 먼 배에 아무도 신경 안 쓸 줄 알았는데요.
 
 027. JEFA DE ESTACIÓN: Lo vemos todas las mañanas desde la playa. Mis técnicos lo llaman el Fantasma, porque nunca carga, nunca descarga y nunca se va.
     상륙국장: 매일 아침 해변에서 보여요. 우리 기술자들은 '유령'이라고 불러요. 싣지도 않고, 내리지도 않고, 떠나지도 않으니까요.
@@ -109,8 +109,8 @@
 031. JEFA DE ESTACIÓN: Con el reflectómetro, sí. Mandamos luz por la fibra y miramos cómo vuelve. Si algo la dobla o la aprieta, vemos en qué kilómetro está.
     상륙국장: 반사 측정기로는요. 광섬유로 빛을 쏘고 어떻게 돌아오는지 봐요. 뭔가 섬유를 휘거나 누르면 몇 킬로미터 지점인지 보여요.
 
-032. OKSANA: ¿En tiempo real?
-    옥사나: 실시간으로요?
+032. OKSANA: ¿Y eso se puede ver en tiempo real, mientras pasa, o solo después, cuando el daño ya está hecho?
+    옥사나: 그걸 실시간으로, 일어나는 동안 볼 수 있습니까? 아니면 피해가 다 생긴 다음에야 볼 수 있습니까?
 
 033. JEFA DE ESTACIÓN: Si me lo pide un juez, en tiempo real. Si me lo pide usted, cuando acabe mi turno.
     상륙국장: 판사가 요청하면 실시간이요. 당신이 요청하면 제 근무 끝나고요.
@@ -124,8 +124,8 @@
 036. CLIMENT: Hecho. Por cierto, don Vicente está en Elche, en casa de su sobrina. No vuelve al Raval hasta que le compres un bastón.
     클리멘트: 그러자. 아, 돈 비센테는 엘체 조카딸 집에 계셔. 네가 새 지팡이 사 주기 전엔 라발에 안 돌아가시겠대.
 
-037. ÁLVARO: Se lo compraré de plata. Me salvó la vida.
-    알바로: 은으로 된 걸로 사 드려야지. 내 목숨을 구해 주셨으니까.
+037. ÁLVARO: Se lo compraré de plata, y con su nombre grabado, porque si no llega a ser por él, ahora estaría yo en un tanatorio de Alicante y no aquí.
+    알바로: 은으로 된 걸로, 이름까지 새겨서 사 드려야지. 그분 아니었으면 난 지금 여기가 아니라 알리칸테 장례식장에 있었을 테니까.
 
 038. IKER: Gato, ¿me ves? Se me congela la cara cada dos segundos. Esta conexión es peor que la defensa del Atleti.
     이케르: 가토, 보여요? 2초마다 얼굴이 멈춰요. 이 연결 상태, 아틀레티 수비보다 엉망이에요.
@@ -136,26 +136,26 @@
 040. IKER: Una Copa es una Copa. Vosotros celebráis llegar a octavos. Bueno, ¿está la ingeniera contigo?
     이케르: 컵은 컵이죠. 형네는 16강 가면 잔치하잖아요. 아무튼, 엔지니어분 같이 계세요?
 
-041. OKSANA: Estoy aquí. Buenas noches, señor Etxeberria.
-    옥사나: 여기 있습니다. 안녕하세요, 에체베리아 씨.
+041. OKSANA: Estoy aquí, a su lado. Buenas noches, señor Etxeberria, y gracias por trabajar tan tarde por nosotros.
+    옥사나: 여기 옆에 있습니다. 안녕하세요, 에체베리아 씨. 저희 때문에 늦게까지 일해 주셔서 감사합니다.
 
 042. IKER: Iker, por favor. Señor Etxeberria es mi abuelo, y está en Bakio pescando chipirones.
     이케르: 이케르라고 불러 주세요. 에체베리아 씨는 우리 할아버지고, 지금 바키오에서 꼴뚜기 낚고 계세요.
 
-043. ÁLVARO: Al grano, Iker. ¿Qué tienes del Marlin Star?
-    알바로: 본론, 이케르. 마린 스타에 대해 뭐 나왔어?
+043. ÁLVARO: Al grano, Iker, que la ingeniera madruga y yo no tengo tu paciencia. ¿Qué tienes del Marlin Star?
+    알바로: 본론으로 가, 이케르. 엔지니어분은 새벽에 일어나셔야 하고 나는 너만큼 참을성이 없어. 마린 스타에 대해 뭐 나왔어?
 
 044. IKER: Petrolero de dos mil cuatro. Ha cambiado de nombre tres veces y de bandera cuatro. Ahora lleva la de Comoras.
     이케르: 2004년 건조 유조선. 이름을 세 번, 깃발을 네 번 바꿨어요. 지금은 코모로 깃발이에요.
 
-045. ÁLVARO: ¿Comoras? ¿Eso dónde está?
-    알바로: 코모로? 그게 어디야?
+045. ÁLVARO: ¿Comoras? Te juro que no sabría ponerlo en un mapa ni aunque me pagaran por ello. ¿Eso dónde está?
+    알바로: 코모로? 돈을 준다 해도 지도에서 못 찾겠다. 그게 어디야?
 
 046. IKER: En el océano Índico. El barco no ha estado allí en su vida. La bandera se compra por internet, como unas zapatillas.
     이케르: 인도양이요. 저 배는 거기 가 본 적도 없어요. 깃발은 운동화처럼 인터넷으로 사는 거예요.
 
-047. OKSANA: ¿Y de dónde viene?
-    옥사나: 어디서 왔습니까?
+047. OKSANA: ¿Y de dónde viene, señor... perdón, Iker? Me interesa saber qué puertos ha tocado antes de llegar aquí.
+    옥사나: 그럼 어디서 온 겁니까, 에체베리아 씨… 아, 죄송합니다, 이케르 씨? 여기 오기 전에 어느 항구들을 들렀는지 알고 싶어요.
 
 048. IKER: En abril cargó crudo en Ust-Luga, en el Báltico ruso. Bajó por el Canal de la Mancha, pasó el Estrecho y descargó en un trasvase en alta mar, cerca de Grecia. Desde el tres de junio está aquí.
     이케르: 4월에 발트해 러시아 쪽 우스트루가에서 원유를 실었어요. 영국 해협으로 내려와서 지브롤터 해협을 지나 그리스 근처 공해에서 배 대 배로 옮겨 실었고요. 6월 3일부터는 거기 있어요.
@@ -166,8 +166,8 @@
 050. IKER: Lo bonito: el dueño, Cerulean Navigation, está en las Marshall; el gestor, en Dubái; y el fletador es una empresa de Limasol que conoces.
     이케르: 재밌는 건요, 선주 세룰리언 내비게이션은 마셜제도, 관리사는 두바이, 그리고 배를 빌린 용선주는 형도 아는 리마솔 회사예요.
 
-051. ÁLVARO: No me digas que es Nordlicht.
-    알바로: 설마 노르틀리히트라고 하지 마.
+051. ÁLVARO: No me digas que es Nordlicht, Iker, porque como me digas que sí, esta noche no duermo.
+    알바로: 설마 노르틀리히트라고 하지 마, 이케르. 맞다고 하면 나 오늘 밤 잠 못 잔다.
 
 052. IKER: Nordlicht Trading. Ni de coña... espera, sí. Son ellos.
     이케르: 노르틀리히트 트레이딩. 설마… 잠깐, 맞네. 그놈들이에요.
@@ -178,14 +178,14 @@
 054. IKER: Y hay más. Cuatro veces en tres semanas ha apagado el AIS, el transpondedor que dice dónde está. Siempre de noche, siempre unas seis horas.
     이케르: 더 있어요. 3주 동안 네 번 AIS를 껐어요. 위치를 알려 주는 송신기요. 매번 밤에, 매번 여섯 시간쯤.
 
-055. ÁLVARO: ¿Y qué hace en esas seis horas?
-    알바로: 그 여섯 시간 동안 뭘 하는데?
+055. ÁLVARO: ¿Y qué hace en esas seis horas a oscuras? Porque nadie apaga el transpondedor para dormir mejor.
+    알바로: 그 여섯 시간 동안 깜깜한 데서 뭘 하는데? 잠 잘 자려고 송신기 끄는 놈은 없잖아.
 
 056. IKER: Según el AIS, nada, porque oficialmente no existe. Pero he pedido imágenes de radar del satélite europeo, que no se tragan ese cuento. Y en dos de esas noches, el barco no estaba donde debía.
     이케르: AIS로는 아무것도요. 공식적으론 존재하지 않으니까. 근데 유럽 위성 레이더 영상을 받았거든요. 그건 그런 거짓말 안 통해요. 그 밤들 중 이틀은 배가 있어야 할 자리에 없었어요.
 
-057. OKSANA: ¿Dónde estaba?
-    옥사나: 어디 있었습니까?
+057. OKSANA: ¿Y dónde estaba exactamente esas noches? Le pido que me dé las coordenadas más precisas que tenga.
+    옥사나: 그 밤들에 정확히 어디 있었습니까? 가지고 계신 것 중 가장 정확한 좌표를 알려 주세요.
 
 058. IKER: Dos millas al sur. Justo encima del corredor del Tirant. Y por la mañana, otra vez en su sitio, como un niño que vuelve a la cama antes de que se despierten sus padres.
     이케르: 남쪽으로 2마일. 딱 티란트 케이블 회랑 위요. 그리고 아침이면 다시 제자리에. 부모가 깨기 전에 침대로 돌아가는 애처럼.
@@ -193,8 +193,8 @@
 059. ÁLVARO: Con esto voy a la directora. Mándamelo todo, fuera de carpetas compartidas.
     알바로: 이거 들고 국장한테 간다. 전부 나한테 보내. 공유 폴더엔 올리지 말고.
 
-060. IKER: Fuera de los canales. Me van a poner una calle con ese nombre.
-    이케르: 채널 밖으로. 언젠가 그 이름 붙은 거리 하나 생기겠어요.
+060. IKER: Fuera de los canales, como siempre. Un día me van a poner una calle con ese nombre en Bilbao, y tú vendrás a inaugurarla con la bufanda del Atleti.
+    이케르: 채널 밖으로, 늘 그렇듯이요. 언젠가 빌바오에 그 이름 붙은 거리가 생길 거고, 형은 아틀레티 머플러 두르고 개통식에 오겠죠.
 
 061. ARRIETA: Medina, son las once de la noche. Espero que no sea otra corazonada.
     아리에타: 메디나, 밤 11시예요. 또 직감 얘기는 아니길 바라요.
@@ -202,8 +202,8 @@
 062. ÁLVARO: Le llamo por un petrolero vacío, directora, alquilado por la misma empresa chipriota que compró CATENARIA. Lleva tres semanas a pocos kilómetros de un cable por el que pasa el telecontrol de la red eléctrica.
     알바로: 빈 유조선 때문에 전화드렸습니다, 국장님. 카테나리아를 산 그 키프로스 회사가 빌린 배입니다. 전력망 원격 제어가 지나가는 케이블에서 몇 킬로 떨어진 곳에 3주째 있습니다.
 
-063. ARRIETA: ¿Dentro o fuera de aguas territoriales?
-    아리에타: 영해 안이에요, 밖이에요?
+063. ARRIETA: Antes de seguir, Medina, necesito saber una cosa: ¿ese barco está dentro o fuera de aguas territoriales?
+    아리에타: 더 가기 전에 하나만 알아야겠어요, 메디나. 그 배, 영해 안이에요, 밖이에요?
 
 064. ÁLVARO: Fuera. A trece millas. El cable entra en aguas españolas una milla más cerca.
     알바로: 밖입니다. 13마일. 케이블은 그보다 1마일 안쪽에서 스페인 영해로 들어옵니다.
@@ -220,8 +220,8 @@
 068. SANTI: Una cosa más, si me permite, directora. Álvaro, por el procedimiento: lo que esté mirando Etxeberria, que pase por el gabinete. Así nos ahorramos sustos.
     산티: 하나만 더요, 국장님, 괜찮으시다면. 알바로, 절차대로 하죠. 에체베리아가 보고 있는 건 비서실을 거치게 해 주세요. 그래야 놀랄 일이 없죠.
 
-069. ÁLVARO: ¿Estabas escuchando, Santi?
-    알바로: 듣고 있었어, 산티?
+069. ÁLVARO: ¿Estabas escuchando, Santi? No sabía que esta llamada fuera a tres bandas.
+    알바로: 듣고 있었어, 산티? 이게 3자 통화인 줄은 몰랐네.
 
 070. SANTI: Estoy en el despacho de la directora a las once de la noche, Álvaro. Escuchar es mi trabajo. Buenas noches.
     산티: 밤 11시에 국장님 방에 있잖아요, 알바로. 듣는 게 제 일입니다. 안녕히 주무세요.
@@ -274,8 +274,8 @@
 086. OKSANA: Señor Medina, acabo de ver algo en la pantalla. Una pequeña tensión en la fibra. Kilómetro veintitrés. Muy pequeña, pero no estaba hace un minuto.
     옥사나: 메디나 씨, 방금 화면에 뭔가 보였어요. 광섬유에 작은 장력. 23킬로미터 지점. 아주 작지만, 1분 전엔 없었습니다.
 
-087. ÁLVARO: ¿Qué significa eso?
-    알바로: 그게 무슨 뜻이에요?
+087. ÁLVARO: ¿Y eso qué significa, Oksana? Explíquemelo como a mi padre, que aquí arriba solo veo agua negra.
+    알바로: 그게 무슨 뜻이에요, 옥사나 씨? 우리 아버지한테 하듯이 설명해 주세요. 여기 위에선 시커먼 물밖에 안 보여요.
 
 088. OKSANA: Que algo pesado está tocando el fondo cerca del cable. Todavía no lo toca. Pero el fondo se mueve, y el cable lo siente, como usted sentiría a alguien sentándose en el otro extremo del sofá.
     옥사나: 뭔가 무거운 게 케이블 근처 해저에 닿고 있다는 뜻입니다. 아직 케이블을 건드리진 않았어요. 하지만 바닥이 움직이고, 케이블이 그걸 느껴요. 소파 반대편 끝에 누가 앉으면 당신이 느끼듯이요.
@@ -325,8 +325,8 @@
 103. OKSANA: Estoy de acuerdo con el señor Medina. Si hubieran querido romper el cable esta noche, no se habrían movido a tres nudos con nosotros mirando. Esto no ha sido un intento fallido. Ha sido una medición.
     옥사나: 메디나 씨 말에 동의합니다. 오늘 밤 케이블을 끊을 생각이었다면, 우리가 보는 앞에서 3노트로 움직이지는 않았을 겁니다. 이건 실패한 시도가 아니었어요. 측정이었습니다.
 
-104. CLIMENT: ¿Una medición de qué?
-    클리멘트: 뭘 측정했는데?
+104. CLIMENT: ¿Una medición de qué? Porque yo lo único que he medido esta noche es lo mucho que me mareo en un barco.
+    클리멘트: 뭘 측정했는데? 오늘 밤 내가 잰 건 배에서 멀미가 얼마나 심한지밖에 없는데.
 
 105. OKSANA: De nosotros. Cuánto tarda la Guardia Civil en reaccionar. Cuánto tarda la estación en ver la tensión. Cuánto tiempo tendrían el día de verdad, antes de que alguien llegara.
     옥사나: 우리를요. 과르디아 시빌이 반응하는 데 얼마나 걸리는지. 상륙국이 장력을 보는 데 얼마나 걸리는지. 진짜 그날, 누가 도착하기 전까지 자기들한테 시간이 얼마나 있을지.
@@ -340,8 +340,8 @@
 108. CLIMENT: Si me lo hubieras dicho hace un mes, te habría llamado exagerado.
     클리멘트: 한 달 전에 그 말 했으면 과장 좀 그만하라고 했을 거야.
 
-109. ÁLVARO: Llámame cuando amanezca. Ahora necesito un café y una cama.
-    알바로: 해 뜨면 불러. 지금은 커피 한 잔이랑 침대가 필요해.
+109. ÁLVARO: Llámame cuando amanezca, pero no antes, que ahora mismo necesito un café, una cama y que nadie me hable de anclas en por lo menos cuatro horas.
+    알바로: 해 뜨면 불러. 그 전엔 말고. 지금은 커피 한 잔, 침대, 그리고 최소 네 시간 동안 아무도 나한테 닻 얘기 안 하는 게 필요해.
 
 110. OKSANA: No lo hemos soñado. Tengo la curva guardada. Las máquinas no sueñan, señor Medina.
     옥사나: 꿈 아닙니다. 곡선 저장해 뒀어요. 기계는 꿈을 꾸지 않습니다, 메디나 씨.
@@ -355,20 +355,20 @@
 113. IKER: Gato, ¿tienes cinco minutos? Ya sé que no has dormido.
     이케르: 가토, 5분 있어요? 못 잔 거 알아요.
 
-114. ÁLVARO: Tengo cinco minutos y dos ojeras. ¿Qué pasa?
-    알바로: 5분하고 다크서클 두 개 있어. 무슨 일이야?
+114. ÁLVARO: Tengo cinco minutos, dos ojeras y un café de máquina que sabe a gasolina. ¿Qué pasa, Iker?
+    알바로: 5분하고, 다크서클 두 개, 휘발유 맛 나는 자판기 커피 하나 있어. 무슨 일이야, 이케르?
 
 115. IKER: He cruzado la curva de Oksana con las imágenes de radar de esta noche. El ancla bajó en el kilómetro veintitrés y la levantaron a menos de doscientos metros del cable. Lo midieron al centímetro.
     이케르: 옥사나 씨 곡선을 어젯밤 레이더 영상이랑 맞춰 봤어요. 닻은 23킬로미터 지점에서 내렸고, 케이블에서 200미터도 안 되는 데서 올렸어요. 센티미터 단위로 잰 거예요.
 
-116. ÁLVARO: ¿Algo más del barco?
-    알바로: 배에 대해 다른 건?
+116. ÁLVARO: ¿Y del barco qué más sabes? Me interesa la gente que va dentro, más que el ancla.
+    알바로: 배에 대해선 또 뭐 알아? 닻보다 안에 타고 있는 사람들이 더 궁금해.
 
 117. IKER: Veintidós tripulantes. Diecinueve de Myanmar y Filipinas, marineros mal pagados. Pero hay tres rusos que no aparecen en ningún registro.
     이케르: 선원 스물두 명. 열아홉은 미얀마하고 필리핀 출신, 박봉 선원들이에요. 근데 러시아인 셋은 어떤 기록에도 안 나와요.
 
-118. ÁLVARO: ¿Y quiénes son?
-    알바로: 누군데?
+118. ÁLVARO: ¿Y quiénes son esos tres? Porque un ruso que no aparece en ningún registro suele aparecer en el nuestro.
+    알바로: 그 셋은 누군데? 어떤 기록에도 없는 러시아인은 보통 우리 기록엔 있거든.
 
 119. IKER: Uno figura como "supervisor de carga". En un barco que no carga nada. Le he pasado la foto del pasaporte por el reconocimiento facial y estaba a punto de darme un nombre cuando...
     이케르: 하나는 '화물 감독'으로 올라 있어요. 아무것도 안 싣는 배에서요. 여권 사진을 안면 인식에 돌렸는데, 막 이름이 나오려던 참에…
@@ -385,14 +385,14 @@
 123. IKER: Son las once y cuarto. Hace un cuarto de hora tenía acceso a todo, y ahora no puedo abrir ni el correo. Ni la carpeta del Marlin Star, ni las imágenes, ni la búsqueda que estaba haciendo.
     이케르: 11시 15분이에요. 15분 전까지만 해도 다 접근됐는데, 지금은 메일도 안 열려요. 마린 스타 폴더도, 영상도, 하던 검색도요.
 
-124. ÁLVARO: ¿Un fallo del sistema?
-    알바로: 시스템 오류야?
+124. ÁLVARO: ¿No será un fallo del sistema? Con el calor que hace, hasta los servidores de la Casa se cuelgan.
+    알바로: 시스템 오류 아니야? 이 더위엔 본부 서버도 뻗잖아.
 
 125. IKER: Los fallos del sistema no eligen. Mis compañeros de la mesa de al lado siguen trabajando tan tranquilos. Solo me lo han cerrado a mí, y justo mientras buscaba esa cara.
     이케르: 시스템 오류는 사람을 고르지 않아요. 옆자리 동료들은 아무렇지 않게 계속 일하고 있어요. 나만 막혔어요. 그것도 딱 그 얼굴을 찾고 있을 때.
 
-126. ÁLVARO: ¿Lo subiste al gabinete, como pidió Santi?
-    알바로: 산티가 말한 대로 비서실에 올렸어?
+126. ÁLVARO: Una pregunta, y no te enfades: ¿lo subiste al gabinete, como pidió Santi anoche?
+    알바로: 하나만 물을게, 화내지 말고. 어젯밤 산티가 말한 대로 비서실에 올렸어?
 
 127. IKER: Ni de coña. Te lo mandé a ti, fuera de los canales. Y aun así lo saben.
     이케르: 절대 아니죠. 채널 밖으로 형한테만 보냈어요. 그런데도 알아요.

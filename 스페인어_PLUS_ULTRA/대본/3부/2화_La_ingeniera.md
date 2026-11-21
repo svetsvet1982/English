@@ -31,8 +31,8 @@
 005. OKSANA: Oksana Melnyk. Vivo en Valencia. Ayer a las siete tenía una cita aquí.
     옥사나: 옥사나 멜니크예요. 발렌시아에 살아요. 어제 저녁 일곱 시에 이 집에서 약속이 있었어요.
 
-006. ÁLVARO: Y vino.
-    알바로: 그래서 오셨고요.
+006. ÁLVARO: Y vino, claro. Lo pone en su libreta: "nueve de junio, siete de la tarde, vendrá".
+    알바로: 그래서 오셨군요. 그 사람 수첩에 쓰여 있었어요. '6월 9일 저녁 일곱 시, 올 것'.
 
 007. OKSANA: Vine. Ciento treinta kilómetros. Vi la cinta, vi un coche verde y blanco y volví a Valencia sin bajar del mío.
     옥사나: 왔죠. 130킬로미터. 테이프를 보고, 초록색과 흰색 차를 보고, 제 차에서 내리지도 않고 발렌시아로 돌아갔어요.
@@ -61,8 +61,8 @@
 015. OKSANA: Me prometió que ayer me lo explicaría todo. Me dijo exactamente esto: "Si el miércoles no estoy, ya sabrá por qué." Yo pensé que era teatro ruso.
     옥사나: 어제 다 설명해 주겠다고 약속했어요. 정확히 이렇게 말했죠. "수요일에 제가 없으면, 왜인지 알게 될 겁니다." 전 러시아식 연극인 줄 알았어요.
 
-016. ÁLVARO: ¿Desde cuándo le conocía?
-    알바로: 언제부터 아셨어요?
+016. ÁLVARO: ¿Y desde cuándo le conocía? Porque en la libreta su nombre aparece varias veces, y siempre con un "no".
+    알바로: 언제부터 아셨어요? 수첩에 당신 이름이 여러 번 나오는데, 늘 '아니'라는 말이 붙어 있거든요.
 
 017. OKSANA: Desde el doce de mayo. Me esperó en el aparcamiento de mi trabajo, en Paterna, junto a mi coche. Dijo que se llamaba Mijaíl.
     옥사나: 5월 12일부터요. 파테르나의 직장 주차장에서 제 차 옆에 서서 기다리고 있었어요. 이름이 미하일이라고 했어요.
@@ -73,26 +73,26 @@
 019. OKSANA: Le dije que llamaría a seguridad. La segunda vez, el diecinueve, le dije lo mismo en ruso, para que me entendiera mejor.
     옥사나: 경비를 부르겠다고 했어요. 두 번째, 19일에는 같은 말을 러시아어로 했어요. 더 잘 알아들으라고.
 
-020. CLIMENT: ¿Y la tercera?
-    클리멘트: 세 번째는요?
+020. CLIMENT: ¿Y la tercera vez? Porque en la libreta pone "café, diez minutos", y eso ya no es un no.
+    클리멘트: 세 번째는요? 수첩엔 '카페, 10분'이라고 쓰여 있던데, 그건 이미 거절이 아니잖아요.
 
 021. OKSANA: La tercera acepté un café. Diez minutos. Me dijo su nombre verdadero, Kirill, y me pidió que no se lo contara a nadie.
     옥사나: 세 번째엔 커피 한 잔을 받아들였어요. 10분. 진짜 이름이 키릴이라고 말했고, 아무한테도 말하지 말아 달라고 부탁했어요.
 
-022. ÁLVARO: ¿Qué quería de usted?
-    알바로: 당신한테 뭘 원했죠?
+022. ÁLVARO: ¿Y qué quería de usted, exactamente? Un hombre así no insiste tres veces por un café.
+    알바로: 그래서 정확히 뭘 원했죠? 그런 사람이 커피 한 잔 때문에 세 번이나 매달리진 않으니까요.
 
 023. OKSANA: Antes de responder, quiero saber con quién hablo. Ella es guardia civil. ¿Y usted?
     옥사나: 대답하기 전에, 제가 누구랑 얘기하는지 알고 싶어요. 이분은 과르디아 시빌이죠. 그쪽은요?
 
-024. ÁLVARO: Trabajo para el Gobierno, en Madrid.
-    알바로: 마드리드에서 정부 일을 합니다.
+024. ÁLVARO: Trabajo para el Gobierno, en Madrid. Digamos que en un departamento que no sale mucho en los periódicos.
+    알바로: 마드리드에서 정부 일을 합니다. 신문에 별로 안 나오는 부서라고 해 두죠.
 
 025. OKSANA: En Madrid hay mucho Gobierno. Sea más concreto.
     옥사나: 마드리드엔 정부가 많아요. 좀 더 정확하게요.
 
-026. ÁLVARO: Centro Nacional de Inteligencia.
-    알바로: 국가정보센터요.
+026. ÁLVARO: Centro Nacional de Inteligencia. Ya está, ya lo he dicho, y la teniente es testigo de que no me ha dolido.
+    알바로: 국가정보센터요. 됐죠, 말했어요. 하나도 안 아팠다는 건 중위가 증인이에요.
 
 027. OKSANA: Ah. Entonces es usted un espía que pregunta por otro espía.
     옥사나: 아. 그럼 다른 스파이에 대해 묻는 스파이시네요.
@@ -106,8 +106,8 @@
 030. CLIMENT: Xe, ya somos dos. Yo tampoco me fío, y me pagan para colaborar.
     클리멘트: 아이고, 그럼 우리 둘이네요. 저도 저 사람들 안 믿어요. 협조하라고 월급까지 받는데.
 
-031. ÁLVARO: Gracias, Amparo. Muy útil.
-    알바로: 고마워, 아파로. 큰 도움이 되네.
+031. ÁLVARO: Gracias, Amparo, muy útil. Recuérdame que te invite a un café cuando acabe todo esto.
+    알바로: 고마워, 아파로, 큰 도움이 되네. 이거 다 끝나면 커피 한 잔 사라고 나중에 말해 줘.
 
 032. OKSANA: Él me habló de un agente. Dijo que en España solo podía fiarme de uno, y que los demás le llamaban Gato. ¿Es usted?
     옥사나: 그 사람이 요원 한 명 얘기를 했어요. 스페인에서는 딱 한 사람만 믿을 수 있다고, 다른 사람들은 그를 가토라고 부른다고. 당신이에요?
@@ -124,14 +124,14 @@
 036. OKSANA: Aquí no. Esta casa me da frío, aunque estemos a treinta y cinco grados. Mañana termino el turno a las ocho. Si quiere, puede venir a Valencia.
     옥사나: 여기선 안 돼요. 35도인데도 이 집은 오싹해요. 내일 여덟 시에 근무가 끝나요. 원하시면 발렌시아로 오세요.
 
-037. ÁLVARO: ¿Dónde?
-    알바로: 어디로요?
+037. ÁLVARO: ¿Dónde, exactamente? Valencia es grande y yo no la conozco tan bien como debería.
+    알바로: 정확히 어디서요? 발렌시아는 넓은데, 제가 생각만큼 잘 알지 못해서요.
 
 038. OKSANA: En el antiguo cauce del río, debajo del Puente de las Flores, a las nueve y media. Hay mucha gente corriendo y nadie escucha a nadie.
     옥사나: 옛 강바닥, 꽃의 다리 밑에서요. 아홉 시 반에. 뛰는 사람이 많고, 아무도 남의 말을 안 들어요.
 
-039. ÁLVARO: Allí estaré. Y gracias por volver.
-    알바로: 거기 가겠습니다. 그리고 다시 와 주셔서 고마워요.
+039. ÁLVARO: Allí estaré, a las nueve y media en punto. Y gracias por volver esta mañana, de verdad.
+    알바로: 거기 가겠습니다. 아홉 시 반 정각에요. 그리고 오늘 아침에 다시 와 주셔서 정말 고마워요.
 
 040. OKSANA: No he vuelto por usted. He vuelto porque no me gusta que la gente me deba cosas.
     옥사나: 당신 때문에 온 거 아니에요. 사람들이 저한테 뭘 빚지는 게 싫어서 온 거예요.
@@ -142,8 +142,8 @@
 042. ÁLVARO: Habla como si cada palabra le costara dinero. Y me gusta. Es difícil mentir así.
     알바로: 단어 하나하나에 돈이 드는 것처럼 말하더라. 그게 좋아. 그렇게 말하면서 거짓말하긴 어렵거든.
 
-043. OKSANA: Llega cuatro minutos tarde, señor Medina.
-    옥사나: 4분 늦으셨어요, 메디나 씨.
+043. OKSANA: Llega usted cuatro minutos tarde, señor Medina. En mi trabajo, cuatro minutos son mucho tiempo.
+    옥사나: 4분 늦으셨어요, 메디나 씨. 제 일에서 4분은 아주 긴 시간이에요.
 
 044. ÁLVARO: He aparcado en Benimaclet y he venido andando. A las nueve y media de la noche, todavía treinta y un grados. ¿Esto es normal?
     알바로: 베니마클레트에 차를 대고 걸어왔어요. 밤 아홉 시 반인데 아직도 31도예요. 이게 정상이에요?
@@ -163,26 +163,26 @@
 049. OKSANA: La teniente habla mucho. Sí. Vivía en Paiporta, en una planta baja con un limonero. Ahora vivo en un segundo piso. No volveré a vivir en una planta baja nunca.
     옥사나: 중위님은 말이 많으시네요. 네. 파이포르타에, 레몬나무가 있는 1층 집에 살았어요. 지금은 2층에 살아요. 다시는 1층에 살지 않을 거예요.
 
-050. ÁLVARO: Lo siento.
-    알바로: 유감이에요.
+050. ÁLVARO: Lo siento mucho, de verdad. No me imagino lo que es perderlo todo en una sola noche.
+    알바로: 정말 유감이에요. 하룻밤 사이에 전부 잃는 게 어떤 건지 상상도 안 되네요.
 
 051. OKSANA: Gracias. Pero no hemos venido a hablar de mí. Usted quería saber qué quería Kirill.
     옥사나: 감사합니다. 하지만 제 얘기 하러 온 건 아니잖아요. 키릴이 뭘 원했는지 알고 싶으셨죠.
 
-052. ÁLVARO: Le escucho.
-    알바로: 듣고 있어요.
+052. ÁLVARO: Tiene razón, perdone. Le escucho, y le prometo que no la voy a interrumpir.
+    알바로: 맞아요, 죄송해요. 듣고 있어요. 끼어들지 않겠다고 약속할게요.
 
 053. OKSANA: En el café me dio una hoja doblada en cuatro. Una lista de seis subestaciones de la provincia de Valencia, con un número al lado de cada una. Números que solo conocemos los que trabajamos dentro.
     옥사나: 카페에서 네 번 접은 종이 한 장을 줬어요. 발렌시아 주 변전소 여섯 곳의 목록이었고, 각각 옆에 숫자가 있었어요. 안에서 일하는 사람만 아는 숫자들이에요.
 
-054. ÁLVARO: ¿Qué clase de números?
-    알바로: 어떤 숫자요?
+054. ÁLVARO: ¿Qué clase de números? ¿Teléfonos, matrículas, algo que yo pueda entender sin ser ingeniero?
+    알바로: 어떤 숫자요? 전화번호, 차량 번호, 아니면 엔지니어가 아니어도 이해할 수 있는 거요?
 
 055. OKSANA: Direcciones internas de los equipos de control. Es como si alguien de fuera supiera el número de cada habitación de un hospital y qué enfermo duerme en cada cama.
     옥사나: 제어 장비의 내부 주소요. 병원 밖에 있는 누군가가 병실 번호마다 어떤 환자가 자는지까지 다 아는 것과 같아요.
 
-056. ÁLVARO: ¿Y cómo los tenía él?
-    알바로: 그걸 그 사람이 어떻게 갖고 있었죠?
+056. ÁLVARO: ¿Y cómo los tenía él, si se supone que solo los conocen ustedes, los de dentro?
+    알바로: 그런데 그 사람이 그걸 어떻게 갖고 있었죠? 안에서 일하는 분들만 안다면서요.
 
 057. OKSANA: Dijo que los había visto en Moscú, en una carpeta que no debía existir, antes de irse. Y que en la misma carpeta había una lista de personas. Ingenieros. Los que saben apagar y encender esta región.
     옥사나: 떠나기 전에 모스크바에서, 존재해선 안 되는 서류철에서 봤다고 했어요. 그리고 같은 서류철에 사람들 명단도 있었대요. 엔지니어들. 이 지역을 끄고 켤 줄 아는 사람들.
@@ -193,8 +193,8 @@
 059. OKSANA: Tercera. Por orden alfabético, no por importancia. Me lo dijo como si fuera un cumplido.
     옥사나: 세 번째요. 중요도 순이 아니라 알파벳 순으로요. 무슨 칭찬이라도 하듯이 말하더군요.
 
-060. ÁLVARO: ¿Tiene todavía esa hoja?
-    알바로: 그 종이 아직 갖고 계세요?
+060. ÁLVARO: ¿Y todavía tiene esa hoja? Si la tuviera, Madrid me escucharía de otra manera.
+    알바로: 그 종이 아직 갖고 계세요? 그게 있으면 마드리드가 제 말을 다르게 들어 줄 텐데요.
 
 061. OKSANA: La quemé esa misma noche en el fregadero. Pero la recuerdo entera. Soy ingeniera, señor Medina. Recordar números es mi trabajo.
     옥사나: 그날 밤에 싱크대에서 태웠어요. 하지만 전부 기억해요. 저는 엔지니어예요, 메디나 씨. 숫자를 기억하는 게 제 일이에요.
@@ -205,26 +205,26 @@
 063. OKSANA: Porque él me pidió que esperara hasta que tuviera pruebas. Y porque, si yo hubiera llevado a mi jefe una lista que me había dado un ruso en un café, hoy ya no trabajaría en el centro de control.
     옥사나: 증거를 잡을 때까지 기다려 달라고 부탁했으니까요. 그리고 러시아 남자가 카페에서 준 목록을 제가 상사한테 가져갔다면, 지금쯤 전 관제센터에서 일하고 있지 않을 거예요.
 
-064. ÁLVARO: ¿Le dijo algo más? Lo que sea.
-    알바로: 다른 말은 없었어요? 뭐든지요.
+064. ÁLVARO: ¿Le dijo algo más aquel día? Lo que sea, aunque a usted le parezca una tontería.
+    알바로: 그날 다른 말은 없었어요? 뭐든지요. 당신한테는 별거 아닌 것 같아도요.
 
 065. OKSANA: Una frase. La he repetido tantas veces que ya la sé en dos idiomas.
     옥사나: 한 문장이요. 너무 많이 되뇌어서 이제 두 언어로 다 외워요.
 
-066. ÁLVARO: Dígamela en español.
-    알바로: 스페인어로 말해 주세요.
+066. ÁLVARO: Dígamela en español, por favor, y con las mismas palabras que usó él, si puede.
+    알바로: 스페인어로 말해 주세요. 할 수 있으면 그 사람이 쓴 단어 그대로요.
 
 067. OKSANA: "Este verano alguien va a llamar a la puerta de su red. Primero llamará despacio, para ver si alguien abre. Cuando vea que nadie abre, entrará."
     옥사나: "올여름 누군가가 당신네 전력망의 문을 두드릴 겁니다. 처음엔 누가 여는지 보려고 살살 두드리겠죠. 아무도 안 연다는 걸 알면, 들어올 겁니다."
 
-068. ÁLVARO: ¿Y usted qué le contestó?
-    알바로: 그래서 뭐라고 대답하셨어요?
+068. ÁLVARO: ¿Y usted qué le contestó? Supongo que no le dio las gracias por el aviso.
+    알바로: 그래서 뭐라고 대답하셨어요? 경고해 줘서 고맙다고 하진 않으셨을 것 같은데.
 
 069. OKSANA: Que en Járkov ya han entrado muchas veces, sin llamar. Con misiles. Que no necesitaba que un ruso me explicara lo que es quedarse a oscuras.
     옥사나: 하르키우엔 이미 여러 번 들어왔다고요. 노크도 없이. 미사일로요. 캄캄해지는 게 뭔지 러시아 사람한테 설명 들을 필요는 없다고요.
 
-070. ÁLVARO: ¿Y él?
-    알바로: 그랬더니요?
+070. ÁLVARO: ¿Y él qué hizo cuando usted le dijo eso? ¿Se enfadó, se levantó y se fue?
+    알바로: 당신이 그렇게 말했을 때 그 사람은 어떻게 했어요? 화냈어요, 일어나서 가 버렸어요?
 
 071. OKSANA: Bajó la cabeza. Dijo: "Lo sé. Yo estaba del otro lado. Por eso estoy aquí." Y pagó los dos cafés.
     옥사나: 고개를 숙였어요. "압니다. 제가 반대편에 있었으니까요. 그래서 여기 온 겁니다." 그러고는 커피 두 잔 값을 냈어요.
@@ -253,8 +253,8 @@
 079. OKSANA: Volvió poco a poco, porque mucha gente trabajó muchas horas para que volviera. Pero aquel día fue un accidente, y todavía discutimos por qué pasó.
     옥사나: 조금씩 돌아왔죠. 많은 사람이 오랜 시간 일했으니까요. 하지만 그날은 사고였어요. 왜 그랬는지는 아직도 논쟁 중이고요.
 
-080. ÁLVARO: ¿Y si no lo fuera?
-    알바로: 사고가 아니라면요?
+080. ÁLVARO: ¿Y si aquel día no lo fuera? ¿Y si alguien estuviera ensayando, mirando cuánto tardábamos en reaccionar?
+    알바로: 만약 그날이 사고가 아니었다면요? 누가 예행연습을 하면서 우리가 얼마 만에 대응하는지 지켜본 거라면요?
 
 081. OKSANA: Si alguien lo hiciera a propósito, elegiría el peor momento. No un lunes de primavera a mediodía. Una noche de verano, con cuarenta grados y todo el mundo con el aire acondicionado encendido.
     옥사나: 누가 일부러 한다면 최악의 순간을 고르겠죠. 봄날 월요일 정오가 아니라. 40도 넘는 여름밤, 모두가 에어컨을 켜 놓은 때.
@@ -277,8 +277,8 @@
 087. OKSANA: Algún día también se lo explicaré. Hoy no. Hoy solo le digo una cosa que aprendí en mi país.
     옥사나: 그것도 언젠가 설명해 드릴게요. 오늘은 아니에요. 오늘은 제 나라에서 배운 것 하나만 말씀드릴게요.
 
-088. ÁLVARO: ¿Cuál?
-    알바로: 뭔데요?
+088. ÁLVARO: ¿Cuál? Después de todo lo que me ha contado, ya no sé si quiero saberlo.
+    알바로: 뭔데요? 지금까지 들은 걸 생각하면, 알고 싶은지 모르겠네요.
 
 089. OKSANA: En mi país, la luz es política. Quien decide cuándo se enciende una casa, decide mucho más que eso.
     옥사나: 우리나라에선 전기가 정치예요. 집에 언제 불이 켜질지를 정하는 사람은 그보다 훨씬 많은 걸 정해요.
@@ -289,8 +289,8 @@
 091. OKSANA: Leí un informe en marzo, de una investigadora de Barcelona. Estuvo publicado tres horas antes de que lo borraran. Yo lo descargué en la segunda hora.
     옥사나: 3월에 바르셀로나 연구자가 쓴 보고서를 읽었어요. 세 시간 올라와 있다가 삭제됐죠. 전 두 번째 시간에 내려받았어요.
 
-092. ÁLVARO: ¿Por qué?
-    알바로: 왜요?
+092. ÁLVARO: ¿Por qué lo descargó? Usted no me parece una persona que guarde cosas por curiosidad.
+    알바로: 왜 내려받으셨어요? 호기심 때문에 뭘 저장해 두는 분 같지는 않은데.
 
 093. OKSANA: Porque hablaba de un módulo para redes eléctricas que nadie había usado todavía. Y en mi trabajo, lo que nadie ha usado todavía es lo que más miedo da.
     옥사나: 아직 아무도 쓰지 않은 전력망용 모듈 얘기가 있었으니까요. 제 일에선, 아직 아무도 안 쓴 게 제일 무서워요.
@@ -310,8 +310,8 @@
 098. CLIMENT: La autopsia. Nueve milímetros, munición subsónica, de la que se usa con silenciador. El que disparó sabía lo que hacía. Dos tiros y se fue andando.
     클리멘트: 부검 결과. 9밀리, 아음속탄, 소음기랑 같이 쓰는 거. 쏜 놈은 뭘 하는지 알았어. 두 발 쏘고 걸어서 갔어.
 
-099. ÁLVARO: ¿Andando?
-    알바로: 걸어서?
+099. ÁLVARO: ¿Andando? ¿Después de matar a un hombre, a plena luz, en una urbanización llena de vecinos?
+    알바로: 걸어서? 사람을 죽이고, 그것도 날이 밝았는데, 이웃 가득한 단지에서?
 
 100. CLIMENT: Una vecina inglesa, la señora Hughes, salió a regar a las seis menos diez y vio a un hombre con gorra bajando hacia la cala. Pensó que era un turista madrugador.
     클리멘트: 영국인 이웃 휴스 부인이 다섯 시 오십 분에 물 주러 나왔다가, 모자 쓴 남자가 만 쪽으로 내려가는 걸 봤대. 일찍 일어난 관광객인 줄 알았고.
@@ -340,8 +340,8 @@
 108. CLIMENT: Un coche de paisano en Benimaclet. Hecho. Ahora, si me permites, tengo una boda de mi prima en Xàtiva y llego tarde a la paella.
     클리멘트: 베니마클레트에 사복 차 한 대. 됐어. 이제 실례할게. 하티바에서 사촌 결혼식이 있는데 파에야 늦겠어.
 
-109. ÁLVARO: Ve. Y guárdame un trozo de socarrat.
-    알바로: 가. 그리고 누룽지 한 조각 남겨 와.
+109. ÁLVARO: Ve, ve, que la paella no espera a nadie. Y guárdame aunque sea un trozo de socarrat.
+    알바로: 가, 가. 파에야는 아무도 안 기다려. 그리고 누룽지 한 조각이라도 남겨 와.
 
 110. CLIMENT: Eso ni lo sueñes. El socarrat no se comparte.
     클리멘트: 꿈도 꾸지 마. 소카라트는 나누는 게 아니야.
@@ -352,8 +352,8 @@
 112. ÁLVARO: Hay una ingeniera de la red eléctrica en Valencia que descargó tu informe en marzo, antes de que lo borraran.
     알바로: 발렌시아에 전력망 엔지니어가 한 명 있는데, 3월에 네 보고서가 지워지기 전에 내려받았어.
 
-113. NÚRIA: Collons. ¿Y qué dice?
-    누리아: 젠장. 그래서 뭐래?
+113. NÚRIA: Collons. ¿Y qué dice de él? ¿Lo entendió, o solo lo guardó por si acaso?
+    누리아: 젠장. 그래서 그 보고서에 대해 뭐래? 이해했대, 아니면 그냥 혹시 몰라서 저장했대?
 
 114. ÁLVARO: Que lo que nadie ha usado todavía es lo que más miedo da. Y un ruso muerto le dijo que este verano iban a llamar a la puerta de la red.
     알바로: 아직 아무도 안 쓴 게 제일 무섭대. 그리고 죽은 러시아 남자가 그 여자한테 올여름 전력망 문을 두드릴 거라고 했대.
@@ -367,8 +367,8 @@
 117. NÚRIA: ¿A un centro de control lleno de cámaras y de gente de seguridad que trabaja para vosotros? Ni aunque me lo pidiera el Papa.
     누리아: 카메라랑 너희 쪽 보안 요원들 가득한 관제센터에? 교황이 부탁해도 안 가.
 
-118. ÁLVARO: ¿Y por vídeo?
-    알바로: 화상으로는?
+118. ÁLVARO: ¿Y por vídeo? Desde tu casa, sin cámaras nuestras y sin que nadie te vea la cara.
+    알바로: 화상으로는? 너희 집에서, 우리 카메라도 없고 아무도 네 얼굴 안 보게.
 
 119. NÚRIA: Por vídeo, sí. Desde aquí, con mis máquinas y con mi café. Pero que conste que lo hago por ella, home, no por ti ni por tu Casa.
     누리아: 화상이면 돼. 여기서, 내 장비랑 내 커피랑. 근데 분명히 해 둘게. 그 사람 때문에 하는 거지, 너나 너희 본부 때문이 아니야.
@@ -385,8 +385,8 @@
 123. NÚRIA: Pues piensa también en quién se beneficia de que un ruso muerto lleve tu nombre en la boca. Yo, en tu lugar, empezaría por ahí.
     누리아: 그럼 죽은 러시아 사람 입에 네 이름이 오르내려서 누가 득을 보는지도 생각해 봐. 나라면 거기서부터 시작하겠어.
 
-124. IKER: Gato, perdona que te llame un sábado. ¿Estás solo?
-    이케르: 가토, 토요일에 전화해서 미안해요. 혼자예요?
+124. IKER: Gato, perdona que te llame un sábado, sé que es tu día de no contestar. ¿Estás solo?
+    이케르: 가토, 토요일에 전화해서 미안해요. 형이 전화 안 받는 날인 거 알아요. 혼자예요?
 
 125. ÁLVARO: Solo, en un piso de Ruzafa sin cortinas, con un ventilador que hace ruido de helicóptero. Dime.
     알바로: 혼자야. 루사파에 커튼도 없는 집에서, 헬리콥터 소리 나는 선풍기랑. 말해.
@@ -394,8 +394,8 @@
 126. IKER: He vuelto a escuchar la grabación del domingo. Al final, después de colgar la operadora, se oye algo de fondo. Lo he limpiado.
     이케르: 일요일 녹음을 다시 들어 봤어요. 끝에, 교환원이 끊은 다음에 배경에서 뭔가 들려요. 잡음을 제거해 봤어요.
 
-127. ÁLVARO: ¿Y?
-    알바로: 그래서?
+127. ÁLVARO: ¿Y qué se oye? No me tengas en vilo, que con este calor no me queda paciencia.
+    알바로: 그래서 뭐가 들리는데? 애태우지 마. 이 더위에 인내심 하나도 안 남았어.
 
 128. IKER: Campanas, y una sirena de barco. Llamaba desde una cabina del puerto de Villajoyosa, no desde su casa. No se fiaba ni de su propio teléfono.
     이케르: 종소리랑 뱃고동 소리. 자기 집이 아니라 비야호요사 항구 공중전화에서 건 거예요. 자기 전화도 안 믿었던 거죠.
@@ -406,8 +406,8 @@
 130. IKER: Oficialmente, el gabinete, la directora, tú y yo. Extraoficialmente, no lo sé, y eso es lo que no me deja dormir.
     이케르: 공식적으로는 비서실, 국장님, 형, 그리고 저요. 비공식적으로는 몰라요. 그게 제가 잠을 못 자는 이유고요.
 
-131. ÁLVARO: Duerme, que mañana es domingo. Y no lo comentes con nadie.
-    알바로: 자. 내일 일요일이야. 그리고 아무한테도 말하지 마.
+131. ÁLVARO: Duerme, que mañana es domingo y te lo has ganado. Y no lo comentes con nadie, ni en la máquina del café.
+    알바로: 자. 내일 일요일이잖아. 그럴 자격 있어. 그리고 아무한테도 말하지 마. 커피 자판기 앞에서도.
 
 132. IKER: Con nadie. Ni con mi gata, que es muy cotilla.
     이케르: 아무한테도요. 제 고양이한테도요. 걔가 엄청 수다쟁이거든요.
@@ -433,8 +433,8 @@
 139. OKSANA: No hace falta. Se acaban de ir. Le he hecho una foto a la matrícula. Es alemana.
     옥사나: 그럴 필요 없어요. 방금 갔어요. 번호판 사진 찍어 뒀어요. 독일 번호판이에요.
 
-140. ÁLVARO: Mándemela. ¿Y su hermana?
-    알바로: 보내 주세요. 동생분은요?
+140. ÁLVARO: Mándemela ahora mismo, se la paso a la teniente. ¿Y su hermana? ¿Está con usted en casa?
+    알바로: 지금 바로 보내 주세요. 중위한테 넘길게요. 동생분은요? 집에 같이 계세요?
 
 141. OKSANA: Yulia tiene turno de noche en el hospital. Mejor así. Si estuviera aquí, me haría preguntas que no sé contestar.
     옥사나: 율리아는 병원 야간 근무예요. 차라리 잘됐어요. 여기 있었으면 제가 대답 못 할 질문을 했을 테니까.
@@ -445,14 +445,14 @@
 143. OKSANA: No. Si me escondiera ahora, ellos sabrían que tengo miedo, y quien tiene miedo no trabaja bien. Hay algo en la red que quiero que vea.
     옥사나: 아니요. 지금 숨으면 제가 겁먹었다는 걸 저 사람들이 알게 돼요. 겁먹은 사람은 일을 제대로 못 해요. 전력망에 당신이 봤으면 하는 게 있어요.
 
-144. ÁLVARO: ¿Qué es?
-    알바로: 뭔데요?
+144. ÁLVARO: ¿Qué es? ¿Algo que tenga que ver con la lista de Kirill, o con el informe de Barcelona?
+    알바로: 뭔데요? 키릴의 명단이랑 관련된 거예요, 아니면 바르셀로나 보고서랑요?
 
 145. OKSANA: Por teléfono no. Kirill tenía razón en eso.
     옥사나: 전화로는 안 돼요. 그건 키릴 말이 맞았어요.
 
-146. ÁLVARO: Entonces dígame dónde y cuándo.
-    알바로: 그럼 어디서, 언제인지 말해 주세요.
+146. ÁLVARO: Entonces dígame dónde y cuándo, y allí estaré, aunque tenga que ir andando desde Ruzafa.
+    알바로: 그럼 어디서, 언제인지 말해 주세요. 루사파에서 걸어가야 해도 갈게요.
 
 147. OKSANA: Mañana a las seis, en el centro de control. Traiga a su amiga de Barcelona.
     옥사나: 내일 여섯 시, 관제센터에서요. 바르셀로나 친구분도 데려오세요.

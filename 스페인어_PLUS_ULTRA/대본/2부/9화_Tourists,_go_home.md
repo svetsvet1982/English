@@ -18,20 +18,20 @@
 001. NÚRIA: Escolta, quítate esa gorra. Con la gorra del Atleti pareces un guiri de crucero.
     누리아: 야, 그 모자 벗어. 아틀레티 모자 쓰니까 크루즈선에서 내린 관광객 같잖아.
 
-002. ÁLVARO: Esa es la idea. Nadie mira dos veces a un turista despistado.
-    알바로: 그게 노린 거야. 어리바리한 관광객은 아무도 두 번 안 쳐다봐.
+002. ÁLVARO: Esa es la idea. Nadie mira dos veces a un turista despistado, y menos si lleva una camisa de flores como esta.
+    알바로: 그게 노린 거야. 어리바리한 관광객은 아무도 두 번 안 쳐다봐. 이런 꽃무늬 셔츠까지 입었으면 더더욱.
 
-003. NÚRIA: Hoy los turistas son el blanco, nen. Literalmente.
-    누리아: 오늘은 관광객이 표적이야. 말 그대로.
+003. NÚRIA: Hoy los turistas son el blanco, nen. Literalmente, y con munición de agua que no perdona a nadie.
+    누리아: 오늘은 관광객이 표적이야. 말 그대로. 누구도 봐주지 않는 물총 탄알로.
 
-004. ÁLVARO: ¿Lo dices por las pistolas de agua?
-    알바로: 물총 말하는 거야?
+004. ÁLVARO: ¿Lo dices por las pistolas de agua? Pensaba que eso era una leyenda para asustar a los cruceristas.
+    알바로: 물총 말하는 거야? 난 크루즈 관광객 겁주려고 지어낸 얘긴 줄 알았는데.
 
 005. NÚRIA: Lo digo porque en la última manifestación empaparon a una familia entera de Ohio, y la foto salió hasta en Japón.
     누리아: 지난번 시위 때 오하이오에서 온 가족을 통째로 흠뻑 적셨는데, 그 사진이 일본에까지 났다는 얘기야.
 
-006. ÁLVARO: Entonces me quito la gorra. Pero la camisa se queda.
-    알바로: 그럼 모자는 벗을게. 셔츠는 그대로야.
+006. ÁLVARO: Entonces me quito la gorra, pero la camisa se queda, que me la regaló mi hija y le prometí que la estrenaría en la playa.
+    알바로: 그럼 모자는 벗을게. 근데 셔츠는 그대로야. 딸이 사 준 건데, 해변에서 처음 입겠다고 약속했거든.
 
 007. IKER: Gato, ¿me oyes? Prueba de pinganillo. Di algo que no sea del Atleti.
     이케르: 가토, 들려요? 이어피스 테스트. 아틀레티 얘기 말고 아무 말이나 해 봐요.
@@ -39,8 +39,8 @@
 008. ÁLVARO: Te oigo. Y el Athletic sigue sin ganar fuera de casa.
     알바로: 들려. 그리고 아틀레틱은 여전히 원정에서 못 이기더라.
 
-009. IKER: Vale, funciona. Te odio. Núria, ¿me oyes?
-    이케르: 오케이, 잘 되네요. 미워요. 누리아, 들려요?
+009. IKER: Vale, funciona, aunque te odio un poquito más que hace cinco minutos. Núria, ¿me oyes tú también?
+    이케르: 오케이, 잘 되네요. 5분 전보다 조금 더 미워졌지만요. 누리아, 누리아도 들려요?
 
 010. NÚRIA: Bon dia, Madrid. Te oigo perfectamente, aunque no sé por cuánto tiempo, y te explico por qué antes de que empiece el ruido.
     누리아: 봉 디아, 마드리드. 아주 잘 들려. 근데 얼마나 갈지는 모르겠어. 소음 시작되기 전에 왜 그런지 설명해 줄게.
@@ -51,8 +51,8 @@
 012. NÚRIA: Cuando veinte mil personas se juntan en dos calles, todos los móviles piden señal a la vez a las mismas antenas. La red se satura, como un bar con un solo camarero. Las llamadas se cortan, los mensajes llegan tarde o no llegan.
     누리아: 이만 명이 두 길에 몰리면, 휴대전화 전부가 같은 안테나에 동시에 신호를 달라고 해. 그럼 망이 포화돼. 직원 하나뿐인 술집처럼. 전화는 끊기고, 메시지는 늦게 오거나 아예 안 와.
 
-013. ÁLVARO: Y por eso Oriol ha elegido la manifestación.
-    알바로: 그래서 오리올이 시위를 고른 거구나.
+013. ÁLVARO: Y por eso Oriol ha elegido la manifestación: porque ahí nadie puede escucharle aunque lo intente.
+    알바로: 그래서 오리올이 시위를 고른 거구나. 거기선 아무리 애써도 아무도 자기 말을 못 엿들으니까.
 
 014. NÚRIA: Por eso y porque las cámaras solo verán pancartas, banderas y agua. Es el mejor escondite de Barcelona: una multitud enfadada que no mira a nadie en concreto.
     누리아: 그것도 있고, 카메라엔 현수막이랑 깃발이랑 물만 찍힐 테니까. 바르셀로나 최고의 은신처야. 딱히 누구를 쳐다보지 않는, 화난 군중.
@@ -60,14 +60,14 @@
 015. IKER: El mensaje del jueves no dice la hora. Solo "Dissabte. Barceloneta. A la manifestació."
     이케르: 목요일에 가로챈 메시지엔 시간이 없어요. "토요일. 바르셀로네타. 시위에서." 그게 다예요.
 
-016. ÁLVARO: La convocatoria es a las doce, ¿no?
-    알바로: 시위 소집은 열두 시지?
+016. ÁLVARO: La convocatoria es a las doce, ¿no? Lo digo para saber cuánto tiempo nos queda para colocarnos.
+    알바로: 시위 소집은 열두 시지? 자리 잡을 시간이 얼마나 남았는지 알고 싶어서.
 
 017. NÚRIA: A las doce en el Passeig de Joan de Borbó. Luego bajan hacia la playa, hasta los cubos.
     누리아: 열두 시에 후안 데 보르보 산책로. 그다음에 해변 쪽으로, 큐브까지 내려가.
 
-018. IKER: ¿Los cubos?
-    이케르: 큐브요?
+018. IKER: ¿Los cubos? Perdonad, pero desde Madrid eso suena a una discoteca o a un juego de niños.
+    이케르: 큐브요? 미안한데, 마드리드에서 들으면 무슨 클럽이나 애들 장난감 이름 같아요.
 
 019. NÚRIA: La escultura de la playa, cuatro cubos de hierro oxidado, uno encima de otro. Aquí todo el mundo queda "en los cubos".
     누리아: 해변에 있는 조형물. 녹슨 철 큐브 네 개가 위로 쌓여 있어. 여기선 다들 "큐브에서" 만나자고 해.
@@ -84,14 +84,14 @@
 023. ROIG: Pues le hace una foto a la maleta. Hay veinte mil personas y la mitad odia a la policía, aunque sea la nuestra. Si se descubre en medio de esa gente, le van a tirar algo más que agua.
     로이그: 그럼 가방 사진을 찍으세요. 거기 이만 명이 있고, 그 절반은 경찰을 싫어해요. 우리 경찰이라도요. 그 사람들 한복판에서 정체가 드러나면 물보다 더한 걸 맞을 겁니다.
 
-024. ÁLVARO: Entendido. Observar, fotografiar, a casa.
-    알바로: 알겠습니다. 관찰, 사진, 귀가.
+024. ÁLVARO: Entendido. Observar, fotografiar y volver a casa sin que nadie se entere de que he estado allí.
+    알바로: 알겠습니다. 관찰하고, 사진 찍고, 제가 거기 있었다는 걸 아무도 모르게 집에 가겠습니다.
 
-025. ROIG: Y que la señora Ballester no toque nada. No quiero que mañana sus amigos de las redes publiquen que el CNI espía manifestaciones.
-    로이그: 그리고 발레스테르 씨는 아무것도 건드리지 않게 하세요. 내일 그분 SNS 친구들이 'CNI가 시위를 사찰한다'고 올리는 건 사양이에요.
+025. ROIG: Y que la señora Ballester no toque nada. No quiero que mañana sus amigos de las redes publiquen que el CNI espía manifestaciones, porque esa noticia la tendría que desmentir yo.
+    로이그: 그리고 발레스테르 씨는 아무것도 건드리지 않게 하세요. 내일 그분 SNS 친구들이 'CNI가 시위를 사찰한다'고 올리는 건 사양이에요. 그 기사를 해명해야 하는 건 저니까요.
 
-026. ÁLVARO: Ha colgado.
-    알바로: 끊었어.
+026. ÁLVARO: Ha colgado sin despedirse, como siempre que cree que ha ganado una discusión.
+    알바로: 인사도 없이 끊었어. 말싸움에서 이겼다고 생각할 때면 늘 그래.
 
 027. NÚRIA: Lo he oído todo, eh. "La señora Ballester." Collons, que tengo treinta y cuatro años.
     누리아: 다 들었거든. "발레스테르 씨." 젠장, 나 서른넷이야.
@@ -102,8 +102,8 @@
 029. NÚRIA: Pues tiene razón en una cosa. Si nos descubren ahí dentro, no habrá placa que nos saque. Así que, a menos que veas a Oriol, tú eres un turista y yo soy una vecina cabreada.
     누리아: 근데 하나는 맞는 말이야. 저 안에서 들키면 어떤 신분증도 우릴 못 꺼내 줘. 그러니까 오리올이 보이기 전까진, 넌 관광객이고 난 열 받은 동네 주민이야.
 
-030. ÁLVARO: ¿Y lo de cabreada es actuar?
-    알바로: 열 받은 건 연기야?
+030. ÁLVARO: ¿Y lo de cabreada es parte del papel o te sale de forma natural desde que te conozco?
+    알바로: 열 받은 건 배역의 일부야, 아니면 내가 널 알고 나서부터 저절로 나오는 거야?
 
 031. NÚRIA: Eso no tengo que actuarlo. Vamos, que ya suenan los tambores.
     누리아: 그건 연기할 필요도 없어. 가자, 벌써 북소리 들린다.
@@ -123,23 +123,23 @@
 036. NÚRIA: Mil ochocientos euros por un piso de treinta metros. Ese es el precio. Su nieto se ha tenido que ir a vivir a Mataró porque aquí no encuentra nada que no sea un piso turístico.
     누리아: 30제곱미터 집에 1,800유로. 그게 그 가격이야. 저 집 손자는 여기선 관광객용 숙소 말곤 아무것도 못 구해서 마타로로 이사 가야 했어.
 
-037. ÁLVARO: Como Oriol con su abuela. Todo esto le toca de cerca.
-    알바로: 오리올이랑 할머니 같네. 이게 다 그 사람 일이기도 하구나.
+037. ÁLVARO: Como Oriol con su abuela, que lleva sesenta años en la calle Mallorca y ya le han ofrecido dinero por irse. Todo esto le toca de cerca.
+    알바로: 오리올이랑 할머니 같네. 마요르카 거리에서 60년을 사셨는데 벌써 나가라고 돈까지 제안받으셨잖아. 이게 다 그 사람 일이기도 하구나.
 
-038. NÚRIA: Por eso no creo que esté aquí solo por el dinero. Quiere que lo vean entre los suyos, aunque nadie sepa lo que ha hecho.
-    누리아: 그래서 돈 때문에만 여기 온 것 같진 않아. 아무도 자기가 뭘 했는지 모르더라도, 자기 사람들 틈에 있는 걸 보여 주고 싶은 거야.
+038. NÚRIA: Por eso no creo que esté aquí solo por el dinero. Quiere que lo vean entre los suyos, aunque nadie sepa lo que ha hecho ni a quién se lo ha vendido.
+    누리아: 그래서 돈 때문에만 여기 온 것 같진 않아. 아무도 자기가 뭘 했는지, 누구한테 팔았는지 모르더라도, 자기 사람들 틈에 있는 걸 보여 주고 싶은 거야.
 
 039. IKER: Gato, se te oye fatal. ¿Hay alguna novedad o es solo ruido?
     이케르: 가토, 소리가 엉망이에요. 뭐 새로운 거 있어요, 아니면 그냥 소음이에요?
 
-040. ÁLVARO: Ruido y tambores. Todavía nada.
-    알바로: 소음이랑 북소리. 아직 아무것도.
+040. ÁLVARO: Ruido y tambores, nada más. Todavía no hay ni rastro de Oriol, pero la gente sigue llegando desde el metro.
+    알바로: 소음이랑 북소리뿐이야. 아직 오리올 흔적은 없는데, 지하철에서 사람들이 계속 몰려와.
 
 041. MANIFESTANTE: ¡Eh, tú! ¡El de la camisa de flores! Tourists, go home!
     시위 참가자: 야, 너! 꽃무늬 셔츠! 관광객은 집으로!
 
-042. ÁLVARO: ¡Oiga, que soy de Usera! ¡Oiga…!
-    알바로: 저기요, 저 우세라 사람이에요! 저기요…!
+042. ÁLVARO: ¡Oiga, que soy de Usera, que yo también pago alquiler! ¡Oiga…!
+    알바로: 저기요, 저 우세라 사람이에요, 저도 월세 낸다고요! 저기요…!
 
 043. NÚRIA: Déu n'hi do. Te ha dado de lleno. Estás chorreando, Gato.
     누리아: 세상에. 정통으로 맞았네. 물 줄줄 흐른다, 가토.
@@ -165,8 +165,8 @@
 050. ÁLVARO: Ríete, ríete. Mira hacia el mercado, a la izquierda del puesto de las chapas. ¿Lo ves?
     알바로: 웃어, 웃어. 시장 쪽 봐. 배지 파는 좌판 왼쪽. 보여?
 
-051. NÚRIA: ¿Dónde? Hay mil personas con mochila.
-    누리아: 어디? 배낭 멘 사람이 천 명이야.
+051. NÚRIA: ¿Dónde? Hay mil personas con mochila y la mitad lleva capucha porque no quiere salir en las fotos.
+    누리아: 어디? 배낭 멘 사람이 천 명인데, 그 절반은 사진에 안 찍히려고 모자를 썼다고.
 
 052. ÁLVARO: Sudadera gris, capucha, mochila negra. No lleva pancarta y no canta. Es el único que mira el reloj.
     알바로: 회색 후드티, 모자 쓰고, 검은 배낭. 현수막도 안 들고 구호도 안 외쳐. 시계 보는 사람은 저 사람뿐이야.
@@ -174,8 +174,8 @@
 053. NÚRIA: Es él. Es Oriol. Camina igual que en la obra, como si contara los pasos.
     누리아: 맞아. 오리올이야. 공사장에서처럼 걸어. 걸음 수를 세는 것처럼.
 
-054. IKER: ¿Confirmado? Dime que lo tenéis.
-    이케르: 확인됐어요? 잡았다고 말해 줘요.
+054. IKER: ¿Confirmado? Dime que lo tenéis, porque Roig me va a llamar en diez minutos y quiero darle algo.
+    이케르: 확인됐어요? 잡았다고 말해 줘요. 로이그가 10분 뒤에 전화할 텐데 뭐라도 줘야 하거든요.
 
 055. ÁLVARO: Lo tenemos. Va hacia la playa. Núria, tú por el lado del mar; yo me quedo detrás, a unos veinte metros.
     알바로: 찾았어. 해변 쪽으로 가. 누리아, 넌 바다 쪽으로. 난 한 20미터 뒤에 붙을게.
@@ -186,8 +186,8 @@
 057. ÁLVARO: Me vio con casco y chaleco de obra. Ahora soy un guiri mojado. No creo que me reconozca, a menos que se fije en la cara.
     알바로: 그땐 안전모에 공사 조끼 차림이었어. 지금은 젖은 관광객이고. 얼굴을 자세히 보지 않는 한 못 알아볼 거야.
 
-058. NÚRIA: Tienes cara de policía, que lo sepas.
-    누리아: 너 얼굴이 완전 경찰이야, 알아 둬.
+058. NÚRIA: Pues tienes cara de policía, que lo sepas, por mucha camisa de flores que te pongas encima.
+    누리아: 근데 너 얼굴이 완전 경찰이야, 알아 둬. 꽃무늬 셔츠를 아무리 걸쳐도 말이야.
 
 059. ÁLVARO: Eso me lo dice mi hija desde que tenía seis años. Muévete.
     알바로: 그 말은 딸이 여섯 살 때부터 했어. 움직여.
@@ -204,8 +204,8 @@
 063. ÁLVARO: Pregúntele a su casero. Iker, ¿sigues ahí? Ha llegado a los cubos y se ha parado.
     알바로: 집주인한테 물어보세요. 이케르, 아직 있어? 큐브에 도착해서 멈췄어.
 
-064. IKER: Aquí sigo, a trozos. ¿Hay alguien con él?
-    이케르: 여기 있어요, 띄엄띄엄. 옆에 누구 있어요?
+064. IKER: Aquí sigo, aunque solo os oigo a trozos y cada vez peor. ¿Hay alguien con él o está esperando solo?
+    이케르: 여기 있어요. 띄엄띄엄, 점점 더 안 들리지만요. 옆에 누구 있어요, 아니면 혼자 기다려요?
 
 065. NÚRIA: Todavía no. Está de espaldas al mar, mirando a la gente. Escolta, está nervioso. Se toca la correa de la mochila todo el rato.
     누리아: 아직. 바다를 등지고 사람들을 보고 있어. 야, 긴장했어. 배낭 끈을 계속 만지작거려.
@@ -222,8 +222,8 @@
 069. IKER: Hazle una foto. Necesito que la mandes ya, antes de que la red se muera del todo.
     이케르: 사진 찍어요. 망이 완전히 죽기 전에 지금 바로 보내 줘요.
 
-070. ÁLVARO: Núria, ¿puedes tú? Yo estoy demasiado de frente.
-    알바로: 누리아, 네가 찍을 수 있어? 난 너무 정면이야.
+070. ÁLVARO: Núria, ¿puedes hacerla tú? Yo estoy demasiado de frente y, si levanto el móvil, me verán seguro.
+    알바로: 누리아, 네가 찍을 수 있어? 난 너무 정면이라 폰 들면 무조건 들켜.
 
 071. NÚRIA: Ya está. Fingiendo un selfie con el mar. Tengo a los dos, y a Oriol de perfil. Te la mando, Iker.
     누리아: 됐어. 바다 배경으로 셀카 찍는 척했어. 둘 다 찍었고, 오리올 옆모습도. 보낼게, 이케르.
@@ -252,20 +252,20 @@
 079. NÚRIA: No habrá ni sobre ni bolsa. Doscientos mil, dos millones… ese dinero hoy no se lleva en una maleta. Lo mandan desde un móvil, en criptomonedas, en cuanto el bajo diga que está todo bien.
     누리아: 봉투도 가방도 없을 거야. 20만이든 200만이든, 그런 돈은 요즘 가방에 안 넣어 다녀. 작은 남자가 다 괜찮다고 하는 순간 휴대전화로 보내는 거야. 암호화폐로.
 
-080. ÁLVARO: Entonces lo que estamos viendo es la entrega. La segunda, supongo, porque lo que lleva el móvil de los ministros ya lo vendió hace meses.
-    알바로: 그럼 지금 보는 게 납품이네. 두 번째겠지. 장관들 폰에 들어간 건 몇 달 전에 이미 팔았으니까.
+080. ÁLVARO: Entonces lo que estamos viendo es la entrega. La segunda, supongo, porque lo que lleva el móvil de los ministros ya lo vendió hace meses, y alguien ha vuelto a por más.
+    알바로: 그럼 지금 보는 게 납품이네. 두 번째겠지. 장관들 폰에 들어간 건 몇 달 전에 이미 팔았으니까. 누군가 더 달라고 다시 온 거야.
 
 081. IKER: Lo tengo. Agarraos. El alto se llama Hugo Sáez. Exmilitar, once años en la Legión, y desde hace cuatro, "consultor de seguridad" en Atalaya Risk Consulting.
     이케르: 나왔어요. 꽉 잡아요. 키 큰 남자 이름은 우고 사에스. 전직 군인, 외인부대 11년. 그리고 4년 전부터 아탈라야 리스크 컨설팅의 '보안 컨설턴트'예요.
 
-082. ÁLVARO: Atalaya.
-    알바로: 아탈라야.
+082. ÁLVARO: Atalaya. Claro que sí. Si hay un charco en España, Velasco tiene a alguien chapoteando dentro.
+    알바로: 아탈라야. 그럼 그렇지. 스페인에 물웅덩이가 있으면, 벨라스코는 그 안에서 첨벙대는 사람을 꼭 하나 심어 둬.
 
 083. IKER: Sale en una foto de una cena de empresa en la Castellana, dos filas detrás de Velasco. Sonriendo, para lo poco que debe de sonreír ese hombre.
     이케르: 카스테야나에서 열린 회사 만찬 사진에 나와요. 벨라스코 두 줄 뒤에서. 웃고 있어요. 저 사람이 웃는 일이 얼마나 드문지 생각하면요.
 
-084. NÚRIA: ¿Y el bajo? El de las gafas.
-    누리아: 작은 남자는? 선글라스 낀 사람.
+084. NÚRIA: ¿Y el bajo? El de las gafas de sol, el que está mirando el móvil como si le fuera la vida en ello.
+    누리아: 작은 남자는? 선글라스 낀 사람, 목숨이라도 걸린 것처럼 폰만 들여다보는 사람.
 
 085. IKER: Con las gafas no me da nada. Necesito que se las quite, aunque sea un segundo. Pídele a la virgen de Begoña, que a mí me funciona.
     이케르: 선글라스 쓰고 있으니 아무것도 안 나와요. 1초라도 벗게 해야 돼요. 베고냐 성모님께 빌어 봐요. 저한텐 먹히던데.
@@ -282,8 +282,8 @@
 089. ÁLVARO: Núria. Núria, vuelve. Joder.
     알바로: 누리아. 누리아, 돌아와. 젠장.
 
-090. IKER: ¿Qué pasa? Se ha cortado. ¿Gato?
-    이케르: 무슨 일이에요? 끊겼어요. 가토?
+090. IKER: ¿Qué pasa? Se ha cortado y solo he oído un taco. ¿Gato? ¿Seguís vivos?
+    이케르: 무슨 일이에요? 끊겨서 욕 한마디밖에 못 들었어요. 가토? 살아 있어요?
 
 091. ÁLVARO: Se ha metido entre la gente. Está a cinco metros de ellos, grabando a los de las pancartas. El bajo se está quitando las gafas para mirar la pantalla del móvil. Por el sol.
     알바로: 사람들 사이로 들어갔어. 저 사람들한테서 5미터 거리야. 현수막 든 사람들 찍는 척하고. 작은 남자가 휴대전화 화면 보려고 선글라스를 벗고 있어. 햇빛 때문에.
@@ -297,8 +297,8 @@
 094. NÚRIA: Ya salgo. Pero, escolta, Oriol está mirando hacia aquí. No a mí. Hacia ti.
     누리아: 나가고 있어. 근데, 야, 오리올이 이쪽을 보고 있어. 나 말고. 너를.
 
-095. ÁLVARO: Me ha visto. Ha visto la cara de policía, como dice mi hija.
-    알바로: 날 봤어. 우리 딸 말대로 경찰 얼굴을 봤네.
+095. ÁLVARO: Me ha visto. Ha visto la cara de policía, como dice mi hija, y ahora ya no hay camisa que me salve.
+    알바로: 날 봤어. 우리 딸 말대로 경찰 얼굴을 봤네. 이제 어떤 셔츠도 날 못 구해.
 
 096. NÚRIA: Le está diciendo algo a Sáez. Sáez se gira. Gato, te están mirando los tres.
     누리아: 사에스한테 뭐라고 해. 사에스가 돌아본다. 가토, 셋이 다 널 보고 있어.
@@ -306,8 +306,8 @@
 097. ÁLVARO: Oriol se va. Corre hacia dentro. Voy.
     알바로: 오리올이 간다. 안쪽 골목으로 뛰어. 따라간다.
 
-098. IKER: ¡Gato, que Roig ha dicho ni carreras!
-    이케르: 가토, 로이그가 추격도 안 된다고 했잖아요!
+098. IKER: ¡Gato, que Roig ha dicho ni carreras, ni detenciones, ni placas! ¡Que nos cuelga a los dos!
+    이케르: 가토, 로이그가 추격도, 체포도, 신분증도 안 된다고 했잖아요! 우리 둘 다 매달릴 거예요!
 
 099. ÁLVARO: Pues que me abra un expediente. Núria, ¿dónde estás?
     알바로: 그럼 징계 절차 밟으라고 해. 누리아, 어디야?
@@ -321,8 +321,8 @@
 102. NÚRIA: …Sant Carles… la plaza… ¿Gato?
     누리아: …산트 카를레스… 광장… 가토?
 
-103. ÁLVARO: Nada. Red muerta. Iker, ¿me oyes tú?
-    알바로: 안 돼. 망이 죽었어. 이케르, 넌 들려?
+103. ÁLVARO: Nada, red muerta, como si alguien hubiera apagado la ciudad entera. Iker, ¿me oyes tú por lo menos?
+    알바로: 안 돼, 망이 죽었어. 누가 도시 전체를 꺼 버린 것 같아. 이케르, 너라도 들려?
 
 104. IKER: Te oigo a medias. Las calles de la Barceloneta son estrechas y largas, como un peine. Si lo pierdes en una, sale por otra y no lo vuelves a ver en tu vida.
     이케르: 반쯤 들려요. 바르셀로네타 골목은 빗처럼 좁고 길어요. 한 골목에서 놓치면 다른 데로 빠져나가서 평생 다시 못 봐요.
@@ -345,8 +345,8 @@
 110. ORIOL: Hablar con ustedes es lo que me va a matar, señor Medina.
     오리올: 당신들이랑 얘기하는 게 바로 날 죽게 할 일이에요, 메디나 씨.
 
-111. ÁLVARO: ¿Cómo sabes mi nombre? Oriol… ¡Oriol!
-    알바로: 내 이름은 어떻게 알아? 오리올… 오리올!
+111. ÁLVARO: ¿Cómo sabes mi apellido? ¿Quién te lo ha dicho? Oriol… ¡Oriol!
+    알바로: 내 성은 어떻게 알아? 누가 말해 줬어? 오리올… 오리올!
 
 112. SÁEZ: Yo que usted no seguiría corriendo. A su edad, con el suelo mojado, uno se rompe la cadera.
     사에스: 내가 당신이라면 더 안 뛸 텐데. 그 나이에 바닥까지 젖었으면 고관절 나가기 십상이거든.
@@ -357,20 +357,20 @@
 114. SÁEZ: Me aparto. Soy un hombre educado. Pero antes, un recado de Madrid: dicen que Barcelona le está sentando muy bien y que no se canse demasiado.
     사에스: 비켜 드리죠. 전 예의 바른 사람이니까. 근데 그 전에 마드리드에서 온 전갈 하나. 바르셀로나가 당신한테 아주 잘 맞는 것 같다고, 너무 무리하지 말라더군요.
 
-115. ÁLVARO: Dile a tu jefe que le mando recuerdos. Y que sé dónde cena.
-    알바로: 네 사장한테 안부 전해. 그리고 어디서 저녁 먹는지 안다고 해.
+115. ÁLVARO: Dile a tu jefe que le mando recuerdos, y que sé perfectamente en qué restaurante de la Castellana cena los jueves.
+    알바로: 네 사장한테 안부 전해. 그리고 목요일마다 카스테야나 어느 식당에서 저녁 먹는지 똑똑히 안다고 해.
 
 116. SÁEZ: Se lo diré, Medina. Seguro que se ríe. Dmitri, nos vamos.
     사에스: 전하죠, 메디나. 분명 웃을 겁니다. 드미트리, 가자.
 
-117. DMITRI: Da. Ya lo tenemos. Él no importa.
-    드미트리: 다. 이미 받았어. 저 사람은 상관없어.
+117. DMITRI: Da. Ya lo tenemos todo, comprobado y pagado. Él no importa, déjalo correr.
+    드미트리: 다. 이미 다 받았어. 확인하고 돈도 냈고. 저 사람은 상관없어, 뛰게 놔둬.
 
 118. ÁLVARO: Dmitri. Iker, ¿me oyes? El bajo se llama Dmitri. Acento ruso.
     알바로: 드미트리. 이케르, 들려? 작은 남자 이름은 드미트리야. 러시아 억양.
 
-119. IKER: Te oigo… Dmitri, apuntado. ¿Y Oriol?
-    이케르: 들려요… 드미트리, 적어 뒀어요. 오리올은요?
+119. IKER: Te oigo, aunque fatal… Dmitri, apuntado con acento ruso incluido. ¿Y Oriol? ¿Todavía lo ves?
+    이케르: 들려요, 엉망이지만요… 드미트리, 러시아 억양까지 적어 뒀어요. 오리올은요? 아직 보여요?
 
 120. ÁLVARO: Lo he perdido detrás de Sáez. Ese cabrón me ha cortado el paso a propósito para que se escape.
     알바로: 사에스 뒤로 놓쳤어. 그 개자식이 일부러 길을 막아서 도망가게 했어.
@@ -378,11 +378,11 @@
 121. NÚRIA: ¡Gato! Por fin. Ha bajado al metro, a la estación de Barceloneta. Lo he visto entrar justo cuando cerraban las puertas. Línea cuatro, dirección Trinitat Nova.
     누리아: 가토! 드디어. 지하철로 내려갔어, 바르셀로네타역. 문 닫히기 직전에 들어가는 거 봤어. 4호선, 트리니타트 노바 방면.
 
-122. ÁLVARO: Me lo ha hecho a mí. Me ha mandado a un turista al metro y luego se ha metido él.
-    알바로: 나한테 당한 걸 돌려줬네. 내가 관광객을 지하철로 보냈더니 자기가 들어갔어.
+122. ÁLVARO: Me lo ha hecho a mí. Yo le he mandado a un turista al metro hace media hora, y él ha aprendido la lección y se ha metido dentro sin que lo viera.
+    알바로: 나한테 당한 걸 돌려줬네. 내가 30분 전에 관광객을 지하철로 보냈더니, 그걸 배워서 내가 못 보는 사이에 자기가 들어갔어.
 
-123. NÚRIA: Iker, ¿puedes ver las cámaras del metro?
-    누리아: 이케르, 지하철 카메라 볼 수 있어?
+123. NÚRIA: Iker, ¿puedes ver las cámaras del metro? Aunque sea solo la de esa estación.
+    누리아: 이케르, 지하철 카메라 볼 수 있어? 그 역 카메라 하나만이라도.
 
 124. IKER: Sin una orden de un juez y sin que se entere Roig, no. Y con la orden tardaría tres días. Lo siento. Lo hemos perdido.
     이케르: 판사 영장 없이, 로이그 몰래는 안 돼요. 영장 받아도 사흘은 걸리고요. 미안해요. 놓쳤어요.
@@ -390,14 +390,14 @@
 125. CAMARERO: Dos bombas, dos cañas y una toalla. La toalla es gratis, que hoy ya he secado a seis.
     웨이터: 봄바 두 개, 생맥주 두 잔, 그리고 수건 하나. 수건은 공짜예요. 오늘 벌써 여섯 명 말려 줬거든요.
 
-126. ÁLVARO: Gracias. ¿Qué es exactamente una bomba?
-    알바로: 고마워요. 근데 봄바가 정확히 뭐예요?
+126. ÁLVARO: Gracias, de verdad, que ya no sabía dónde escurrirme. ¿Qué es exactamente una bomba?
+    알바로: 고마워요, 정말. 어디서 물을 짜야 할지 몰랐거든요. 근데 봄바가 정확히 뭐예요?
 
 127. NÚRIA: Una croqueta de patata y carne, con dos salsas, una picante y un alioli. Se inventó aquí, en la Barceloneta. Es lo único de este barrio que todavía no se ha vendido a un fondo.
     누리아: 감자랑 고기 넣은 크로켓에 소스 두 가지, 매운 소스랑 알리올리. 여기 바르셀로네타에서 생긴 거야. 이 동네에서 아직 펀드에 안 팔린 유일한 거지.
 
-128. ÁLVARO: Pica. Pica mucho. Me gusta.
-    알바로: 맵다. 엄청 매워. 좋네.
+128. ÁLVARO: Pica. Pica mucho, como si me hubieran vuelto a disparar, pero esta vez dentro de la boca. Me gusta.
+    알바로: 맵다. 엄청 매워. 또 총 맞은 것 같아, 이번엔 입안에다. 좋네.
 
 129. NÚRIA: ¿Cómo sabía Oriol tu apellido? Yo no se lo dije, y en la obra nadie pronunció tu apellido.
     누리아: 오리올이 네 성은 어떻게 알았어? 난 말 안 했고, 공사장에선 아무도 네 성을 입에 안 올렸잖아.
@@ -405,8 +405,8 @@
 130. ÁLVARO: Se lo ha dicho Sáez. O Velasco, a través de Sáez. Quieren que Oriol tenga más miedo de mí que de ellos, para que no hable con nadie.
     알바로: 사에스가 말했겠지. 아니면 벨라스코가 사에스를 통해서. 오리올이 자기들보다 날 더 무서워하게 만들고 싶은 거야. 아무하고도 얘기 못 하게.
 
-131. NÚRIA: Pues lo están consiguiendo. ¿Has visto cómo te miraba? Como si fueras tú el que le va a quitar la casa a su abuela.
-    누리아: 그럼 성공하고 있네. 널 어떻게 보는지 봤어? 마치 네가 할머니 집을 뺏으러 온 사람인 것처럼.
+131. NÚRIA: Pues lo están consiguiendo. ¿Has visto cómo te miraba? Como si fueras tú el que le va a quitar la casa a su abuela, y no los que le pagan.
+    누리아: 그럼 성공하고 있네. 널 어떻게 보는지 봤어? 마치 할머니 집을 뺏으러 온 사람이 돈 주는 그 사람들이 아니라 너인 것처럼.
 
 132. ÁLVARO: Tengo una idea. A Sáez lo conoce todo el mundo que se mueve en ese mercado. Le voy a mandar la foto a Facu.
     알바로: 생각이 있어. 그 시장에서 움직이는 사람이면 다 사에스를 알 거야. 사진을 파쿠한테 보내 볼게.
@@ -420,32 +420,32 @@
 135. FACU: Che, Gato, ¿de dónde sacaste esta foto, boludo? A este lo conozco. Es Hugo, el milico de los señores de Madrid. Posta, borrala. Ese no compra, ese cobra deudas. Y si vos lo estás mirando a él, él ya te está mirando a vos.
     파쿠: 야, 가토, 이 사진 어디서 났냐, 바보야? 이 사람 알아. 우고야. 마드리드 신사분들의 군바리. 진짜로, 지워. 저 사람은 물건 사는 사람이 아니라 빚 받으러 다니는 사람이야. 네가 걜 보고 있으면, 걔도 이미 널 보고 있는 거야.
 
-136. NÚRIA: Encantador. ¿Siempre habla así?
-    누리아: 참 다정하시네. 늘 저렇게 말해?
+136. NÚRIA: Encantador. ¿Siempre habla así, como si te estuviera cobrando cada palabra?
+    누리아: 참 다정하시네. 늘 저렇게 말해? 한 마디 한 마디 돈 받는 것처럼?
 
-137. ÁLVARO: Siempre. Pero esta vez no me ha pedido dinero. Eso es lo que me preocupa.
-    알바로: 늘. 근데 이번엔 돈 얘기를 안 했어. 그게 걱정돼.
+137. ÁLVARO: Siempre. Pero esta vez no me ha pedido dinero, ni un euro, ni siquiera un favor para más adelante. Eso es lo que me preocupa.
+    알바로: 늘. 근데 이번엔 돈 얘기를 안 했어. 1유로도, 나중에 갚을 부탁 하나도. 그게 걱정돼.
 
 138. NÚRIA: Escolta, Gato. Lo de hoy. Lo de meterme entre ellos. No lo he hecho para hacerme la valiente.
     누리아: 있잖아, 가토. 오늘 일. 그 사람들 사이로 들어간 거. 용감한 척하려고 그런 거 아니야.
 
-139. ÁLVARO: Ya lo sé. Lo has hecho porque querías ver la cara del que compra lo que te hicieron a ti.
-    알바로: 알아. 너한테 그 짓을 한 물건을 사는 사람 얼굴을 보고 싶어서 그런 거잖아.
+139. ÁLVARO: Ya lo sé. Lo has hecho porque querías ver la cara del que compra lo que te hicieron a ti, y si yo hubiera estado en tu lugar, habría hecho lo mismo.
+    알바로: 알아. 너한테 그 짓을 한 물건을 사는 사람 얼굴을 보고 싶어서 그런 거잖아. 내가 네 입장이었어도 똑같이 했을 거야.
 
 140. NÚRIA: Sí. Pero no quiero que me lo agradezcas, ni que me protejas como si fuera tu hija. Quiero que me digas la verdad aunque no te guste, y que no le pases mis fotos a nadie de tu Casa sin preguntarme antes.
     누리아: 응. 근데 고맙다는 말도 필요 없고, 네 딸처럼 보호해 주는 것도 싫어. 마음에 안 들어도 진실을 말해 줬으면 좋겠고, 내 사진을 너네 본부 누구한테든 나한테 묻기 전엔 넘기지 않았으면 해.
 
-141. ÁLVARO: Trato hecho. Aunque ya se las he mandado a Iker, que conste.
-    알바로: 좋아, 약속. 근데 이미 이케르한텐 보냈다는 거, 기록해 둬.
+141. ÁLVARO: Trato hecho, aunque, si te soy sincero, ya se las he mandado a Iker antes de que me lo pidieras, que conste.
+    알바로: 좋아, 약속. 근데 솔직히 말하면, 네가 말하기 전에 이미 이케르한텐 보냈어. 기록해 둬.
 
-142. NÚRIA: Iker no cuenta. Iker es de los nuestros.
-    누리아: 이케르는 빼고. 이케르는 우리 편이야.
+142. NÚRIA: Iker no cuenta, home. Iker es de los nuestros, aunque trabaje en tu Casa y sea del Athletic.
+    누리아: 이케르는 빼야지. 이케르는 우리 편이야. 너네 본부에서 일하고 아틀레틱 팬이긴 해도.
 
 143. IKER: Eso lo he oído, y me ha llegado al corazón. Gato, Núria, ¿estáis sentados? Ya tengo lo de Dmitri.
     이케르: 그거 들었어요. 감동받았어요. 가토, 누리아, 앉아 있어요? 드미트리 결과 나왔어요.
 
-144. ÁLVARO: Sentados y con una bomba en la mano. Dispara.
-    알바로: 앉아 있고 손엔 봄바도 들었어. 말해 봐.
+144. ÁLVARO: Sentados, mojados y con una bomba en la mano, que no es poco para un sábado. Dispara.
+    알바로: 앉아 있고, 젖었고, 손엔 봄바도 들었어. 토요일치고 나쁘지 않지. 말해 봐.
 
 145. IKER: La foto de Núria, con la cara entera, es perfecta. La he cruzado con los archivos de los aliados. Coincide al noventa y seis por ciento con un hombre que fotografiaron en Viena en 2025 saliendo de un piso franco.
     이케르: 누리아가 찍은 얼굴 전체 사진, 완벽해요. 동맹국 자료랑 대조해 봤어요. 2025년 빈에서 안가를 나오다 찍힌 남자랑 96퍼센트 일치해요.

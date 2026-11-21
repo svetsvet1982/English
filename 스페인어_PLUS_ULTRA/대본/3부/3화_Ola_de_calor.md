@@ -19,8 +19,8 @@
 001. VIGILANTE: Buenos días. Documentación, por favor. ¿A quién viene a ver a estas horas?
     경비원: 안녕하세요. 신분증 좀 보여 주세요. 이 시간에 누구 만나러 오셨어요?
 
-002. ÁLVARO: A Oksana Melnyk. Me espera a las seis.
-    알바로: 옥사나 멜니크 씨요. 여섯 시에 보기로 했어요.
+002. ÁLVARO: Vengo a ver a Oksana Melnyk, del centro de control. Me espera a las seis y, por lo que me han contado, no le gusta esperar.
+    알바로: 관제센터의 옥사나 멜니크 씨를 만나러 왔어요. 여섯 시에 보기로 했는데, 듣자 하니 기다리는 걸 안 좋아하신다더군요.
 
 003. VIGILANTE: Son las seis y siete. Ha llamado dos veces preguntando por usted.
     경비원: 지금 여섯 시 7분인데요. 그분이 벌써 두 번이나 전화해서 찾으셨어요.
@@ -40,8 +40,8 @@
 008. OKSANA: Entonces tendremos que encontrar algo. Póngase esta tarjeta. No toque nada, no haga fotos y no se apoye en las mesas.
     옥사나: 그럼 뭔가 찾아내야겠네요. 이 출입증 다세요. 아무것도 만지지 말고, 사진 찍지 말고, 책상에 기대지 마세요.
 
-009. ÁLVARO: ¿Puedo respirar?
-    알바로: 숨은 쉬어도 돼요?
+009. ÁLVARO: ¿Y respirar puedo, o también tengo que pedirle permiso por escrito al jefe de sala?
+    알바로: 숨은 쉬어도 돼요, 아니면 그것도 관제실장한테 서면으로 허락받아야 해요?
 
 010. OKSANA: Despacio. Pase. Esta es la sala de control del Levante.
     옥사나: 천천히요. 들어오세요. 여기가 레반테 관제실이에요.
@@ -70,14 +70,14 @@
 018. OKSANA: Exacto. Si todos los aires acondicionados de Valencia se encendieran a la vez y las centrales no pedalearan más fuerte, la bicicleta iría más despacio. Cuarenta y nueve coma nueve. Cuarenta y nueve coma ocho.
     옥사나: 맞아요. 발렌시아의 에어컨이 한꺼번에 다 켜졌는데 발전소가 페달을 더 세게 안 밟으면, 자전거는 느려지겠죠. 49.9. 49.8.
 
-019. ÁLVARO: ¿Y si baja mucho?
-    알바로: 많이 떨어지면요?
+019. ÁLVARO: ¿Y qué pasa si baja mucho? Porque me imagino que la bicicleta no se para sin más, como la mía.
+    알바로: 많이 떨어지면 어떻게 되는데요? 제 자전거처럼 그냥 멈추진 않을 것 같은데요.
 
 020. OKSANA: Por debajo de cuarenta y nueve coma cinco, la red empieza a desconectar barrios enteros ella sola, para salvarse. Se llama deslastre de cargas. Es como tirar sacos de arena de un globo para que no caiga.
     옥사나: 49.5 밑으로 내려가면, 전력망이 스스로 살려고 동네를 통째로 끊기 시작해요. 부하 차단이라고 해요. 열기구가 떨어지지 않게 모래주머니를 던지는 거랑 같아요.
 
-021. ÁLVARO: ¿Y los sacos son personas?
-    알바로: 그 모래주머니가 사람들이고요?
+021. ÁLVARO: ¿Y esos sacos de arena son personas? Dígamelo claro, que para eso he venido a las seis.
+    알바로: 그 모래주머니가 사람들이에요? 분명하게 말해 주세요. 그러려고 여섯 시에 온 거니까.
 
 022. OKSANA: Son hospitales sin aire, ascensores parados y ancianos en un cuarto piso a cuarenta grados. Por eso no dormimos cuando hace calor.
     옥사나: 에어컨 꺼진 병원, 멈춘 엘리베이터, 40도 더위 속 4층에 갇힌 노인들이죠. 그래서 더울 때 우린 잠을 안 자요.
@@ -94,8 +94,8 @@
 026. OKSANA: Muy bien. Los paneles solares no tienen ese peso. Son electrónica. Muy limpia, muy rápida, pero si nadie la programa bien, no empuja cuando la bicicleta frena.
     옥사나: 아주 좋아요. 태양광 패널엔 그런 무게가 없어요. 전자 장치예요. 아주 깨끗하고 빠르지만, 누가 제대로 프로그래밍하지 않으면 자전거가 느려질 때 밀어 주질 않아요.
 
-027. ÁLVARO: Entonces el sol es el malo.
-    알바로: 그럼 태양이 나쁜 놈이네요.
+027. ÁLVARO: Entonces el sol es el malo de la película, y los paneles son sus cómplices.
+    알바로: 그럼 태양이 이 영화의 악당이고, 패널들은 공범이네요.
 
 028. OKSANA: No. Eso es lo que dirán en la televisión si un día se apaga todo. El sol no es el malo. El malo es quien conoce sus debilidades.
     옥사나: 아니요. 언젠가 전부 꺼지면 텔레비전에서 그렇게 말하겠죠. 태양은 나쁜 놈이 아니에요. 나쁜 놈은 그 약점을 아는 사람이에요.
@@ -106,8 +106,8 @@
 030. OKSANA: Esto. El sábado, a las cinco y cuarenta y uno de la tarde. Mire la línea: la frecuencia no baja ni sube. Se balancea, como si fuera un columpio.
     옥사나: 이거요. 토요일 오후 5시 41분. 이 선을 보세요. 주파수가 떨어지지도 올라가지도 않아요. 그네처럼 흔들려요.
 
-031. ÁLVARO: Arriba, abajo. Arriba, abajo. ¿Cada cuánto?
-    알바로: 위, 아래. 위, 아래. 얼마 간격으로요?
+031. ÁLVARO: Arriba, abajo, arriba, abajo, como si respirara. ¿Y cada cuánto lo hace, más o menos?
+    알바로: 위, 아래, 위, 아래. 숨 쉬는 것 같네요. 대략 얼마 간격으로 그래요?
 
 032. OKSANA: Cada cinco segundos, más o menos. Cero coma veintiún hercios. Eso es una oscilación.
     옥사나: 대략 5초마다요. 0.21헤르츠. 이게 진동이에요.
@@ -118,8 +118,8 @@
 034. OKSANA: Las oscilaciones son como los soldados que cruzan un puente. Si caminan cada uno a su paso, no pasa nada. Si marchan todos al mismo ritmo, el puente empieza a moverse, y si nadie los para, el puente se cae.
     옥사나: 진동은 다리를 건너는 군인들 같아요. 제각각 걸으면 아무 일도 없어요. 모두 같은 박자로 행진하면 다리가 흔들리기 시작하고, 아무도 안 멈추면 다리가 무너져요.
 
-035. ÁLVARO: ¿Y esto lo ha visto alguien más?
-    알바로: 이걸 본 사람이 또 있어요?
+035. ÁLVARO: ¿Y esto lo ha visto alguien más aparte de usted, o es nuestro secreto de las seis de la mañana?
+    알바로: 이걸 당신 말고 본 사람이 또 있어요, 아니면 새벽 여섯 시의 우리만의 비밀이에요?
 
 036. JEFE DE SALA: Lo hemos visto todos, señor... ¿Medina? Vicent Garrigues, jefe de sala. Y lo hemos clasificado como lo que es: ruido.
     관제실장: 다들 봤죠, 어… 메디나 씨? 비센트 가리게스, 관제실장입니다. 그리고 원래 그런 거니까 '노이즈'로 분류했어요.
@@ -139,8 +139,8 @@
 041. JEFE DE SALA: Y lo hizo muy bien. Por eso ahora le pido que descanse un poco. Le dejo con su invitado, que tengo una reunión con Madrid.
     관제실장: 그리고 아주 잘했죠. 그러니까 이제 좀 쉬라는 거예요. 손님이랑 계세요. 전 마드리드랑 회의가 있어서.
 
-042. ÁLVARO: Simpático.
-    알바로: 친절하시네.
+042. ÁLVARO: Simpático, el jefe. Se nota que le encanta que le visiten los de Madrid a primera hora.
+    알바로: 친절하시네, 실장님. 마드리드 사람이 아침 일찍 찾아오는 걸 아주 좋아하시는 게 티가 나요.
 
 043. OKSANA: No es mala persona. Es un hombre que necesita que todo sea ruido.
     옥사나: 나쁜 사람은 아니에요. 모든 게 노이즈여야 하는 사람일 뿐이에요.
@@ -151,8 +151,8 @@
 045. OKSANA: Hubo oscilaciones antes del apagón, también pequeñas. Todavía discuten las causas. Pero yo pienso cada día que, si las hubiéramos entendido diez minutos antes, quizá España no se habría quedado a oscuras.
     옥사나: 정전 전에 진동이 있었어요. 그때도 작았죠. 원인은 아직도 논쟁 중이에요. 하지만 전 매일 생각해요. 그걸 10분만 일찍 이해했더라면 스페인이 깜깜해지지 않았을지도 모른다고.
 
-046. ÁLVARO: ¿Y esta vez cuánto tiempo tenemos?
-    알바로: 이번엔 시간이 얼마나 있어요?
+046. ÁLVARO: ¿Y esta vez cuánto tiempo tenemos, si es que tenemos alguno? Porque diez minutos no me parecen suficientes.
+    알바로: 이번엔 시간이 얼마나 있어요, 있기나 하다면요? 10분은 충분하지 않은 것 같아서요.
 
 047. OKSANA: No lo sé. Pero el miércoles anuncian cuarenta y cuatro grados. Récord del año.
     옥사나: 몰라요. 하지만 수요일 예보가 44도예요. 올해 최고 기록이죠.
@@ -163,8 +163,8 @@
 049. OKSANA: Y la del viernes también. Y la del jueves.
     옥사나: 금요일 것도요. 목요일 것도요.
 
-050. ÁLVARO: Joder.
-    알바로: 젠장.
+050. ÁLVARO: Joder. Tres días seguidos, a la misma hora, y aquí todo el mundo lo llama ruido.
+    알바로: 젠장. 사흘 연속, 같은 시각인데, 여기선 다들 그걸 노이즈라고 부르네.
 
 051. OKSANA: Mañana estaré de turno de tarde. Si quiere ver al fantasma en directo, venga a las cinco y media. Y traiga agua.
     옥사나: 내일은 오후 근무예요. 유령을 직접 보고 싶으면 다섯 시 반에 오세요. 물도 챙기시고요.
@@ -175,8 +175,8 @@
 053. OKSANA: Aquí dentro estamos a veinte grados para que no se calienten los ordenadores. Las personas no importan tanto. Siéntese a mi lado.
     옥사나: 컴퓨터가 과열되지 않게 안은 20도예요. 사람은 그렇게 중요하지 않아요. 제 옆에 앉으세요.
 
-054. ÁLVARO: ¿Cómo va la bicicleta?
-    알바로: 자전거는 어때요?
+054. ÁLVARO: ¿Y cómo va hoy la bicicleta, ingeniera? Porque con este calor yo ya no podría ni pedalear.
+    알바로: 오늘 자전거는 어때요, 엔지니어님? 이 더위엔 저는 페달도 못 밟겠는데요.
 
 055. OKSANA: Cansada. Treinta y ocho mil megavatios en toda España, récord de junio. Las centrales de gas están al máximo y el sol empieza a bajar.
     옥사나: 지쳤어요. 스페인 전체 3만 8천 메가와트, 6월 최고 기록이에요. 가스 발전소는 최대치고, 해는 지기 시작했어요.
@@ -187,8 +187,8 @@
 057. OKSANA: Me dijo que la red española tenía una enfermedad que todavía no daba síntomas. Me pidió que no se lo dijera a nadie hasta que él tuviera pruebas. Yo pensé que era un ruso intentando asustar a una ucraniana.
     옥사나: 스페인 전력망에 아직 증상이 없는 병이 있다고 했어요. 자기가 증거를 잡을 때까지 아무한테도 말하지 말아 달라고 했고요. 전 러시아 남자가 우크라이나 여자를 겁주려는 거라고 생각했어요.
 
-058. ÁLVARO: ¿Y ahora?
-    알바로: 지금은요?
+058. ÁLVARO: ¿Y ahora? ¿Sigue pensando que solo quería asustarla, después de lo que le hicieron?
+    알바로: 지금은요? 그 사람이 그렇게 당했는데도, 그냥 겁주려던 거라고 생각하세요?
 
 059. OKSANA: Ahora está muerto y yo miro el reloj cada tarde.
     옥사나: 지금은 그 사람이 죽었고, 전 매일 오후에 시계를 봐요.
@@ -199,8 +199,8 @@
 061. OKSANA: Mire Turís Nord, la subestación de la izquierda. Y Silla Oest, abajo.
     옥사나: 왼쪽 변전소, 투리스 노르드를 보세요. 그리고 아래쪽 시야 오에스트도요.
 
-062. ÁLVARO: ¿Por qué esas dos?
-    알바로: 왜 그 두 개예요?
+062. ÁLVARO: ¿Por qué precisamente esas dos? En esa pared hay docenas de círculos.
+    알바로: 왜 하필 그 두 개예요? 저 벽엔 동그라미가 수십 개나 있는데.
 
 063. OKSANA: Porque en las tres tardes anteriores la oscilación empezó allí. Y en Sagunt Port, en el norte. Siempre las tres juntas.
     옥사나: 앞선 세 번의 오후 모두 진동이 거기서 시작됐어요. 그리고 북쪽 사군트 포르트에서도요. 항상 셋이 동시에요.
@@ -217,14 +217,14 @@
 067. OKSANA: Ahí. ¿Lo ve? Arriba, abajo. Cero coma veintiuno otra vez.
     옥사나: 저기요. 보여요? 위, 아래. 또 0.21이에요.
 
-068. ÁLVARO: Lo veo. Como un corazón con hipo.
-    알바로: 보여요. 딸꾹질하는 심장 같네.
+068. ÁLVARO: Lo veo, lo veo perfectamente. Es como un corazón con hipo, y no me gusta nada.
+    알바로: 보여요, 아주 잘 보여요. 딸꾹질하는 심장 같네요. 전혀 마음에 안 들어요.
 
 069. OKSANA: Veinte segundos. Cuarenta. Un minuto. Ningún parque solar ha cambiado su producción, ninguna línea ha caído y nadie ha pulsado nada en esta sala.
     옥사나: 20초. 40초. 1분. 태양광 단지 어디도 출력을 바꾸지 않았고, 끊긴 선로도 없고, 이 방에서 아무도 아무것도 누르지 않았어요.
 
-070. ÁLVARO: ¿Y si lo dejamos crecer?
-    알바로: 그냥 커지게 두면요?
+070. ÁLVARO: ¿Y si no hacemos nada y lo dejamos crecer, para ver hasta dónde llega?
+    알바로: 아무것도 안 하고 그냥 커지게 두면요? 어디까지 가는지 보게요.
 
 071. OKSANA: No crece. Esa es la parte que me da miedo. Mire: noventa y cuatro segundos y se apaga sola. Exactamente como el sábado.
     옥사나: 안 커져요. 그게 제가 무서운 부분이에요. 보세요. 94초, 그리고 저절로 사라져요. 토요일이랑 똑같이.
@@ -265,8 +265,8 @@
 083. OKSANA: En teoría, los protocolos. En la práctica, una persona con miedo delante de esta pantalla. Necesito los registros de las subestaciones, señor Medina. Los de dentro, los que no ve nadie.
     옥사나: 이론상으론 규정이요. 실제론 이 화면 앞에 앉은 겁먹은 사람 한 명이죠. 변전소 기록이 필요해요, 메디나 씨. 안쪽 기록, 아무도 안 보는 거요.
 
-084. ÁLVARO: ¿Y por qué no los saca usted?
-    알바로: 왜 직접 안 꺼내요?
+084. ÁLVARO: ¿Y por qué no los saca usted misma? Trabaja aquí, tiene acceso, conoce el sistema mejor que nadie.
+    알바로: 왜 직접 안 꺼내세요? 여기서 일하고, 접근 권한도 있고, 시스템도 누구보다 잘 아시잖아요.
 
 085. OKSANA: Porque si los copio sin permiso me echan, y sin trabajo me quitan el permiso de residencia. Pero si un agente del Estado me lo pidiera por escrito...
     옥사나: 허가 없이 복사하면 잘리고, 일이 없으면 체류 허가가 날아가요. 하지만 국가 요원이 서면으로 요청한다면…
@@ -292,14 +292,14 @@
 092. CLIMENT: El coche que vio el vecino de Kirill la noche del ocho. Un Audi gris, matrícula alemana. Lo hemos encontrado en un aparcamiento de Altea.
     클리멘트: 8일 밤에 키릴 이웃이 봤다는 차 말이야. 회색 아우디, 독일 번호판. 알테아의 주차장에서 찾았어.
 
-093. ÁLVARO: ¿Limpio?
-    알바로: 깨끗하고?
+093. ÁLVARO: ¿Limpio, o limpio de verdad? Porque los que hacen estas cosas suelen olvidarse de algo pequeño.
+    알바로: 깨끗해? 아니면 진짜 깨끗해? 이런 짓 하는 놈들은 보통 작은 거 하나씩은 놓치거든.
 
 094. CLIMENT: Como una patena, redéu. Ni una huella. Pero el contrato de alquiler no está a nombre de una persona. Está a nombre de una empresa de Benidorm.
     클리멘트: 반짝반짝하더라, 젠장. 지문 하나 없어. 근데 렌트 계약서가 개인 명의가 아니야. 베니도름의 회사 명의야.
 
-095. ÁLVARO: Déjame adivinar. Una inmobiliaria.
-    알바로: 맞혀 볼게. 부동산이지.
+095. ÁLVARO: Déjame adivinar: una inmobiliaria con vistas al mar y muchos clientes que pagan en efectivo.
+    알바로: 맞혀 볼게. 바다 전망에 현금 내는 고객 많은 부동산이지.
 
 096. CLIMENT: Mediterráneo Prime Properties. Venden pisos con vistas al mar a rusos, ucranianos e ingleses, a veces en el mismo edificio. El director se llama Pavel Sorokin.
     클리멘트: 메디테라네오 프라임 프로퍼티스. 러시아 사람, 우크라이나 사람, 영국 사람한테 바다 전망 아파트를 팔아. 가끔은 같은 건물에서. 대표 이름이 파벨 소로킨이야.
@@ -325,8 +325,8 @@
 103. ÁLVARO: Se te ve. Y se te oye. Núria, te presento a Oksana Melnyk.
     알바로: 보여. 들리고. 누리아, 옥사나 멜니크 씨야.
 
-104. OKSANA: Encantada, señora Ballester. Gracias por conectarse.
-    옥사나: 반갑습니다, 바예스테르 씨. 연결해 주셔서 감사해요.
+104. OKSANA: Encantada, señora Ballester. Le agradezco que se conecte en plena tarde de trabajo, sobre todo sabiendo lo que piensa de nosotros.
+    옥사나: 반갑습니다, 바예스테르 씨. 한창 일하실 오후에, 저희를 어떻게 생각하시는지 알면서도 연결해 주셔서 감사해요.
 
 105. NÚRIA: Núria, home, Núria. Y de tú, si no te importa. Ya me tratan de usted los abogados del ministerio, y no me traen nada bueno.
     누리아: 누리아라고 해, 누리아. 말도 편하게 해, 괜찮으면. 존댓말은 부처 변호사들이 이미 충분히 해 주거든. 좋은 거 하나도 안 가져오면서.
@@ -334,14 +334,14 @@
 106. OKSANA: Prefiero el usted. Es más seguro para mí. Pero puede llamarme Oksana.
     옥사나: 전 존댓말이 좋아요. 저한텐 그게 더 안전해요. 그래도 옥사나라고 부르셔도 돼요.
 
-107. NÚRIA: Collons, otra como yo. Vale. ¿Dónde estáis?
-    누리아: 세상에, 나 같은 사람이 또 있네. 좋아. 어디야?
+107. NÚRIA: Collons, otra como yo, que no se fía ni de su sombra. Vale, me parece bien. ¿Dónde estáis?
+    누리아: 세상에, 나처럼 자기 그림자도 안 믿는 사람이 또 있네. 좋아, 괜찮아. 어디야?
 
 108. ÁLVARO: En la sala B, la de reuniones. Fuera estamos a cuarenta y cuatro. Oksana ha sacado los registros esta mañana, con mi carta, y el portátil no está conectado a nada.
     알바로: 회의실 B. 밖은 44도야. 옥사나가 오늘 아침에 내 편지 들고 기록을 꺼냈고, 노트북은 아무 데도 연결 안 돼 있어.
 
-109. NÚRIA: ¿Ni a la red de la empresa?
-    누리아: 회사 망에도?
+109. NÚRIA: ¿Ni a la red de la empresa? Porque si está conectado, aunque sea por un cable, me desconecto ahora mismo.
+    누리아: 회사 망에도? 케이블 하나라도 연결돼 있으면 나 지금 당장 끊는다.
 
 110. OKSANA: A nada. Lo que veas en la pantalla te lo enseño por la cámara del móvil. Es lento, pero nadie puede escuchar un papel.
     옥사나: 아무 데도요. 화면에 뜨는 건 휴대폰 카메라로 보여 드릴게요. 느리지만, 종이는 아무도 엿들을 수 없죠.
@@ -355,8 +355,8 @@
 113. NÚRIA: Acércalo. Más. Escolta, ¿ves esas líneas de las cinco y cuarenta? No son comandos de vuestra sala. Vienen de dentro del propio controlador, como si se hablara a sí mismo.
     누리아: 가까이. 더. 잠깐, 5시 40분 그 줄들 보여? 너희 관제실 명령이 아니야. 제어기 자기 안에서 나와. 혼잣말하는 것처럼.
 
-114. ÁLVARO: Tradúcemelo.
-    알바로: 번역해 줘.
+114. ÁLVARO: Tradúcemelo, por favor, que yo de esto entiendo lo mismo que mi padre de los paneles solares.
+    알바로: 번역 좀 해 줘. 나 이거 우리 아버지가 태양광 패널 아는 만큼밖에 몰라.
 
 115. NÚRIA: Alguien ha metido un trozo de código dentro del aparato que abre y cierra los interruptores. Cada tarde, ese código hace que el aparato tiemble un poquito, muy rápido, para empujar la red sin que nadie lo note.
     누리아: 누가 차단기를 열고 닫는 장치 안에 코드 한 조각을 심었어. 매일 오후 그 코드가 장치를 아주 빠르게 살짝 떨게 해. 아무도 모르게 망을 밀어 보는 거야.
@@ -364,8 +364,8 @@
 116. OKSANA: Los soldados en el puente.
     옥사나: 다리 위의 군인들.
 
-117. NÚRIA: ¿Qué?
-    누리아: 뭐?
+117. NÚRIA: ¿Qué soldados? ¿De qué puente hablas? Me he perdido algo, ¿no?
+    누리아: 무슨 군인? 무슨 다리 얘기야? 나 뭐 놓친 거 있지?
 
 118. OKSANA: Algo que le expliqué a él. Tres subestaciones, el mismo ritmo, cero coma veintiún hercios. Si alguien quisiera apagar España, empezaría así: enseñando a la red a bailar mal.
     옥사나: 저분한테 설명한 거예요. 변전소 세 곳, 같은 박자, 0.21헤르츠. 누가 스페인을 끄고 싶다면 이렇게 시작하겠죠. 망한테 춤을 틀리게 가르치는 걸로.
@@ -385,14 +385,14 @@
 123. NÚRIA: La misma curva que encontré en marzo en los móviles de los ministros. Coseno hiperbólico. La firma de Oriol. Es como encontrar su letra en una carta de amenaza.
     누리아: 3월에 장관들 폰에서 찾은 거랑 같은 곡선. 쌍곡코사인. 오리올의 서명이야. 협박 편지에서 그 사람 글씨를 찾은 거나 마찬가지지.
 
-124. OKSANA: ¿Quién es Oriol?
-    옥사나: 오리올이 누구예요?
+124. OKSANA: ¿Quién es Oriol? Es la segunda vez que oigo ese nombre y nadie me lo explica.
+    옥사나: 오리올이 누구예요? 그 이름 두 번째 듣는데 아무도 설명을 안 해 주네요.
 
 125. ÁLVARO: Un chico que escribía programas bonitos para una catedral. Desapareció en marzo. Lo que está mirando usted es la parte que nadie había usado: FONAMENTS.
     알바로: 성당을 위해 예쁜 프로그램을 짜던 청년이요. 3월에 사라졌어요. 지금 보고 계신 게 아무도 안 쓰던 부분이에요. 폰아멘츠.
 
-126. OKSANA: Fonaments. Cimientos.
-    옥사나: 폰아멘츠. 기초.
+126. OKSANA: Fonaments. En catalán quiere decir cimientos, ¿verdad? Lo que sostiene un edificio entero sin que nadie lo vea.
+    옥사나: 폰아멘츠. 카탈루냐어로 '기초'라는 뜻이죠? 아무 눈에도 안 띄면서 건물 전체를 받치는 거.
 
 127. NÚRIA: En el código había un comentario en ruso, escrito con letras latinas: "Ne trogat' do leta". No tocar hasta el verano. Yo pensé que hablaban de agosto.
     누리아: 코드 안에 라틴 문자로 쓴 러시아어 주석이 있었어. "네 트로가트 도 레타." 여름까지 건드리지 말 것. 난 8월 얘긴 줄 알았지.
@@ -406,14 +406,14 @@
 130. NÚRIA: Esperad. Hay algo más. Oksana, ¿qué hora tienes ahí?
     누리아: 잠깐. 하나 더 있어. 옥사나, 지금 몇 시야?
 
-131. OKSANA: Las cinco y cuarenta. ¿Por qué?
-    옥사나: 5시 40분이요. 왜요?
+131. OKSANA: Son las cinco y cuarenta, en punto. ¿Por qué? ¿Qué está viendo que yo no veo?
+    옥사나: 5시 40분 정각이요. 왜요? 제가 못 보는 걸 뭘 보고 계신 거예요?
 
 132. NÚRIA: Porque el controlador acaba de escribir una línea nueva. Ahora mismo, mientras hablamos. Y no es la oscilación de siempre.
     누리아: 제어기가 방금 새 줄을 썼거든. 지금, 우리가 얘기하는 동안에. 그리고 늘 하던 진동이 아니야.
 
-133. ÁLVARO: ¿Qué pone?
-    알바로: 뭐라고 쓰여 있어?
+133. ÁLVARO: ¿Y qué pone esa línea nueva, Núria? Dilo despacio, que aquí no respira nadie.
+    알바로: 그 새 줄엔 뭐라고 쓰여 있어, 누리아? 천천히 말해. 여기 다들 숨도 못 쉬고 있어.
 
 134. NÚRIA: Una cuenta atrás. Y una pregunta a un servidor de fuera: ¿probar o ejecutar?
     누리아: 카운트다운. 그리고 바깥 서버에 묻는 질문 하나. 시험이냐, 실행이냐.

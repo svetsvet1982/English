@@ -28,14 +28,14 @@
 004. ÁLVARO: Ayer firmé los papeles. El lunes entra en la residencia.
     알바로: 어제 서류에 서명했어. 월요일에 요양원 들어가셔.
 
-005. IKER: ¿Por lo de las velas?
-    이케르: 양초 때문에요?
+005. IKER: ¿Lo has hecho por lo de las velas? Porque si yo encontrara esa caja en casa de mi aita, también firmaría.
+    이케르: 양초 때문에 그런 거예요? 저라도 우리 아빠 집에서 그 상자를 봤으면 서명했을 거예요.
 
 006. ÁLVARO: Por lo de las velas. Una caja de doce, al lado de sus pastillas. Velasco no deja regalos. Deja recados.
     알바로: 양초 때문에. 열두 개짜리 상자 하나, 아버지 약 바로 옆에. 벨라스코는 선물을 두고 가지 않아. 전갈을 두고 가지.
 
-007. IKER: ¿Y Lucía?
-    이케르: 루시아는요?
+007. IKER: ¿Y Lucía cómo lo lleva? Que con dieciséis años estas cosas se viven el doble.
+    이케르: 루시아는 어떻게 받아들였어요? 열여섯이면 이런 일 두 배로 힘들잖아요.
 
 008. ÁLVARO: Lucía está mejor que yo. Me mandó el audio, me esperó en el portal y me dijo: "Papá, firma ya, que el abuelo no es tonto, el tonto eres tú."
     알바로: 루시아는 나보다 괜찮아. 음성 메시지 보내 놓고 현관에서 기다리더니 그러더라. "아빠, 그냥 서명해. 할아버지가 바보가 아니라 아빠가 바보야."
@@ -43,14 +43,14 @@
 009. IKER: Esa chica va a ser directora del CNI antes que tú. Siéntate.
     이케르: 그 애가 선배보다 먼저 CNI 국장 되겠네요. 앉아요.
 
-010. ÁLVARO: ¿Lo has encontrado?
-    알바로: 찾았어?
+010. ÁLVARO: Bueno, déjate de calor y de gatas: ¿lo has encontrado o no? Llevo todo el viaje sin pensar en otra cosa.
+    알바로: 더위 얘기, 고양이 얘기는 됐고. 찾았어, 못 찾았어? 오는 내내 그 생각뿐이었어.
 
 011. IKER: He encontrado a quién mira. Tres noches, tres documentos, una misma llave. Mira la pantalla.
     이케르: 누가 들여다보는지 찾았어요. 사흘 밤, 문서 세 개, 열쇠 하나. 화면 봐요.
 
-012. ÁLVARO: Explícamelo como si fuera del Atleti.
-    알바로: 아틀레티코 팬한테 하듯이 설명해 봐.
+012. ÁLVARO: Vale, pues explícamelo como si fuera del Atleti, que a estas horas no me da para más.
+    알바로: 좋아, 그럼 아틀레티코 팬한테 하듯이 설명해 봐. 이 시간엔 머리가 그 이상 안 돌아가.
 
 013. IKER: O sea, despacio y con dibujos. Vale. Primera noche: lunes veintidós de marzo, nueve y cuarenta y siete. Alguien abre el informe del traslado de Oriol Vidal y la dirección de su abuela.
     이케르: 그러니까 천천히, 그림 그려 가면서요. 좋아요. 첫째 밤. 3월 22일 월요일 아홉 시 사십칠 분. 누가 오리올 비달 이송 보고서랑 할머니 주소를 열어요.
@@ -61,8 +61,8 @@
 015. IKER: Exacto. Segunda noche: siete de junio, once y diez. Alguien escucha la grabación de Kirill, la de "solo hablaré con el agente Gato". Dos días antes de que lo maten.
     이케르: 정확해요. 둘째 밤. 6월 7일 열한 시 십 분. 누가 키릴 녹음을 들어요. "가토라는 요원하고만 얘기하겠다"는 그거요. 그 사람이 살해되기 이틀 전에.
 
-016. ÁLVARO: ¿Y la tercera?
-    알바로: 셋째는?
+016. ÁLVARO: ¿Y la tercera noche? Dime que no tiene nada que ver con Valencia, aunque ya me lo imagino.
+    알바로: 셋째 밤은? 발렌시아랑 상관없다고 말해 줘. 이미 짐작은 가지만.
 
 017. IKER: El jueves pasado, uno de julio. La orden que me cierra el acceso a Marlin Star sale del mismo terminal. Las tres veces, el mismo: el del gabinete del director.
     이케르: 지난 목요일, 7월 1일. 마린 스타 접근을 막은 지시가 같은 단말기에서 나와요. 세 번 다 같은 단말기. 국장 비서실 거요.
@@ -91,35 +91,35 @@
 025. IKER: Ya lo sé. Por eso he hecho tres copias. Una en el disco duro de siempre, debajo del arenero de la gata.
     이케르: 알아요. 그래서 사본을 세 개 만들었어요. 하나는 늘 하던 대로 고양이 화장실 밑 하드에.
 
-026. ÁLVARO: ¿Todavía guardas cosas ahí?
-    알바로: 아직도 거기다 넣어 둬?
+026. ÁLVARO: ¿Todavía guardas cosas ahí? Te dije en marzo que ese escondite era de película mala.
+    알바로: 아직도 거기다 넣어 둬? 3월에 내가 그 은신처 삼류 영화 같다고 했잖아.
 
 027. IKER: Nadie mete la mano debajo de un arenero. Es la caja fuerte más segura de Madrid.
     이케르: 고양이 화장실 밑에 손 넣는 사람은 없어요. 마드리드에서 제일 안전한 금고예요.
 
-028. ÁLVARO: ¿Y quién sabe que existe esa caja fuerte?
-    알바로: 그 금고 있는 걸 누가 아는데?
+028. ÁLVARO: ¿Y quién más sabe que existe esa caja fuerte? Piénsalo bien antes de contestar.
+    알바로: 그 금고 있는 걸 또 누가 알아? 대답하기 전에 잘 생각해 봐.
 
 029. IKER: Tú. Y la directora. En marzo, cuando le llevé el móvil de Julio, le dije que tenía otra copia guardada en casa. Por si acaso.
     이케르: 선배요. 그리고 국장님. 3월에 훌리오 폰 가져갔을 때, 집에 사본이 하나 더 있다고 말씀드렸어요. 혹시 몰라서.
 
-030. ÁLVARO: ¿Le dijiste dónde?
-    알바로: 어디 있는지도 말했어?
+030. ÁLVARO: ¿Y le dijiste dónde estaba exactamente, o solo que la tenías?
+    알바로: 정확히 어디 있는지도 말했어, 아니면 갖고 있다는 것만?
 
 031. IKER: Le dije "en casa". No le dije "debajo de la gata". Tengo mis límites.
     이케르: '집에'라고만 했어요. '고양이 밑에'라곤 안 했어요. 저도 선은 지켜요.
 
-032. ÁLVARO: ¿Y las otras dos copias?
-    알바로: 나머지 두 개는?
+032. ÁLVARO: Bien hecho. ¿Y las otras dos copias, dónde las tienes? No me digas que en la nevera.
+    알바로: 잘했어. 나머지 두 개는 어디 있어? 냉장고라고는 하지 마.
 
 033. IKER: Una para ti, en este pendrive. La otra se la acabo de mandar a Núria, cifrada, con todo lo de Marlin Star y las vibraciones de la red. Si me hubieras hecho caso en junio, ya la tendría ella desde hace semanas.
     이케르: 하나는 선배 거, 이 USB에요. 다른 하나는 방금 누리아한테 암호화해서 보냈어요. 마린 스타 자료랑 전력망 진동 데이터까지 전부요. 6월에 제 말 들었으면 누리아가 벌써 몇 주 전에 받았을 텐데.
 
-034. ÁLVARO: En junio no sabía de quién fiarme.
-    알바로: 6월엔 누굴 믿어야 할지 몰랐어.
+034. ÁLVARO: En junio no sabía de quién fiarme, Iker. Ni siquiera de mí mismo, si te soy sincero.
+    알바로: 6월엔 누굴 믿어야 할지 몰랐어, 이케르. 솔직히 나 자신도 못 믿었어.
 
-035. IKER: ¿Y ahora sí?
-    이케르: 지금은 알아요?
+035. IKER: ¿Y ahora sí lo sabes? Porque desde aquí, con este calor, yo ya no me fío ni de la gata.
+    이케르: 지금은 알아요? 저는 이 더위에 고양이도 못 믿겠는데.
 
 036. ÁLVARO: Ahora sé de quién no. Mañana a primera hora se lo llevo a Arrieta. Tú no vengas. Quédate en casa, enfermo, con fiebre, lo que sea.
     알바로: 지금은 누굴 믿으면 안 되는지는 알아. 내일 아침 일찍 아리에타한테 가져갈게. 넌 오지 마. 집에 있어. 아프다고 해, 열 난다고 하든지, 아무거나.
@@ -130,8 +130,8 @@
 038. ÁLVARO: Y otra cosa. El domingo Santi me pidió un informe firmado sobre ti. Para el martes.
     알바로: 그리고 하나 더. 일요일에 산티가 너에 대한 서명된 보고서를 달래더라. 화요일까지.
 
-039. IKER: ¿Y se lo diste?
-    이케르: 그래서 줬어요?
+039. IKER: ¿Y se lo diste? Dime que no has firmado nada contra mí, Gato, porque me muero aquí mismo.
+    이케르: 그래서 줬어요? 저 고발하는 데 서명한 거 아니죠, 가토? 그랬으면 저 여기서 죽어요.
 
 040. ÁLVARO: Le mandé un folio en blanco con mi firma. Que lo rellene él.
     알바로: 내 서명만 한 백지 한 장 보냈어. 지가 채우라고.
@@ -139,8 +139,8 @@
 041. IKER: Aupa, Gato. Eso es lo más bilbaíno que has hecho en tu vida.
     이케르: 아우파, 가토. 선배 인생에서 제일 빌바오 사람다운 짓이네요.
 
-042. ÁLVARO: No te acostumbres. Y cierra con dos vueltas cuando me vaya.
-    알바로: 익숙해지지 마. 나 가면 문 두 번 잠가.
+042. ÁLVARO: No te acostumbres, que mañana vuelvo a ser de Madrid. Y cierra con dos vueltas cuando me vaya, aunque sé que la gata abre puertas mejor que tú.
+    알바로: 익숙해지지 마. 내일이면 다시 마드리드 사람이야. 그리고 나 가면 문 두 번 잠가. 고양이가 너보다 문은 더 잘 여는 거 알지만.
 
 043. SEGURIDAD: Señor Medina, no puede pasar. Hay una actuación en curso en esta planta.
     보안 담당관: 메디나 씨, 들어가시면 안 됩니다. 이 층에서 조치가 진행 중입니다.
@@ -160,8 +160,8 @@
 048. SANTI: Buenos días, Álvaro. Le habría avisado anoche, pero no contestaba.
     산티: 좋은 아침입니다, 알바로. 어젯밤에 알려 드렸을 텐데, 전화를 안 받으시더군요.
 
-049. ÁLVARO: ¿De qué se le acusa?
-    알바로: 무슨 혐의입니까?
+049. ÁLVARO: ¿De qué se le acusa exactamente? Quiero oírselo decir a usted, con todas las palabras.
+    알바로: 정확히 무슨 혐의입니까? 실장님 입으로 똑똑히 듣고 싶습니다.
 
 050. SANTI: De revelación de secretos oficiales. Esta madrugada, a las tres y doce, el usuario del señor Etxeberria envió cuatro gigas de material clasificado a un servidor de Limasol.
     산티: 국가기밀 누설입니다. 오늘 새벽 세 시 십이 분, 에체베리아 씨 아이디로 기밀 자료 4기가가 리마솔의 서버로 전송됐어요.
@@ -250,8 +250,8 @@
 078. ÁLVARO: Muy bien. Le traigo un hecho que tengo guardado desde diciembre.
     알바로: 좋습니다. 12월부터 품고 있던 사실 하나 가져오죠.
 
-079. ARRIETA: ¿Desde diciembre?
-    아리에타: 12월부터요?
+079. ARRIETA: ¿Desde diciembre? Espero, por su bien, que sea un hecho y no otra corazonada.
+    아리에타: 12월부터요? 본인을 위해서라도 그게 직감이 아니라 사실이길 바라요.
 
 080. ÁLVARO: El nueve de diciembre desayuné con Ignacio Velasco en San Ginés. En mitad de la conversación me dijo: "Ese hombre fumaba mentolado en el balcón, ¿no?"
     알바로: 12월 9일에 산 히네스에서 이그나시오 벨라스코와 아침을 먹었습니다. 얘기 도중에 그러더군요. "그 남자, 발코니에서 멘톨 피웠다며?"
@@ -262,8 +262,8 @@
 082. ÁLVARO: Esa noche llovía. Nadie recogió las colillas. Lo del mentolado solo estaba en el registro de vigilancia, nivel reservado. ¿Sabe quién podía leer ese registro?
     알바로: 그날 밤엔 비가 왔습니다. 꽁초는 아무도 수거 못 했어요. 멘톨 얘기는 잠복 기록에만 있었습니다. 등급은 '비밀'. 그 기록을 누가 볼 수 있었는지 아십니까?
 
-083. ARRIETA: Dígamelo usted.
-    아리에타: 당신이 말해 봐요.
+083. ARRIETA: Dígamelo usted, Medina, ya que parece que lo tiene todo tan claro.
+    아리에타: 당신이 말해 봐요, 메디나. 다 알고 있는 것 같으니까.
 
 084. ÁLVARO: Cuatro. Yo, Iker, usted y su gabinete. Yo no se lo dije a Velasco. Iker no ha comido nunca churros con Velasco. Quedan dos, directora.
     알바로: 넷입니다. 저, 이케르, 국장님, 그리고 국장님 비서실. 저는 벨라스코한테 말 안 했습니다. 이케르는 벨라스코랑 추로스 먹어 본 적도 없고요. 남는 건 둘입니다, 국장님.
@@ -274,8 +274,8 @@
 086. ÁLVARO: Porque en diciembre no sabía si uno de esos dos era usted.
     알바로: 12월엔 그 둘 중 하나가 국장님인지 아닌지 몰랐으니까요.
 
-087. ARRIETA: ¿Y ahora lo sabe?
-    아리에타: 지금은 알아요?
+087. ARRIETA: ¿Y ahora lo sabe? Porque me está mirando como si todavía no estuviera seguro.
+    아리에타: 지금은 알아요? 아직도 확신 못 한다는 얼굴로 날 보고 있는데.
 
 088. ÁLVARO: Ahora sé otra cosa. Iker le dijo a usted en marzo que tenía una copia en casa. Solo a usted. Y esta mañana, a las seis, unos señores con guantes han ido directos a buscarla.
     알바로: 지금은 다른 걸 압니다. 이케르는 3월에 국장님께 집에 사본이 있다고 말했습니다. 국장님한테만요. 그리고 오늘 아침 여섯 시, 장갑 낀 사람들이 곧장 그걸 찾으러 갔고요.
@@ -301,8 +301,8 @@
 095. ARRIETA: ¿Sabe cuántos contratos tiene Atalaya con ministerios de este Gobierno? Once. ¿Sabe a cuántas semanas estamos de unas elecciones generales? A once también. Qué número tan bonito.
     아리에타: 아탈라야가 이 정부 부처들과 맺은 계약이 몇 건인지 알아요? 열한 건. 총선까지 몇 주 남았는지는 알아요? 그것도 열한 주. 참 예쁜 숫자죠.
 
-096. ÁLVARO: ¿Me está diciendo que tiene miedo?
-    알바로: 지금 두렵다는 말씀입니까?
+096. ÁLVARO: ¿Me está diciendo que tiene miedo, directora? Nunca pensé que se lo oiría decir a usted.
+    알바로: 지금 두렵다는 말씀입니까, 국장님? 국장님 입에서 그런 말을 들을 줄은 몰랐습니다.
 
 097. ARRIETA: Le estoy diciendo que estoy entre la espada y la pared. Si usted hubiera estado en mi lugar esta madrugada, con esos papeles delante y el teléfono del ministro sonando, ¿qué habría hecho?
     아리에타: 진퇴양난이라는 말이에요. 오늘 새벽 당신이 내 자리에 있었다면, 그 서류를 앞에 두고 장관 전화가 울려 대는 상황에서, 어떻게 했겠어요?
@@ -319,8 +319,8 @@
 101. ARRIETA: Ya lo veo. Ojalá pudiera decirle otra cosa. Etxeberria pasa a disposición judicial mañana. Usted vuelve hoy a Valencia y no toca un solo sistema de esta casa. Ni uno.
     아리에타: 보여요. 다른 말을 해 줄 수 있으면 좋겠네요. 에체베리아는 내일 법원에 넘겨져요. 당신은 오늘 발렌시아로 돌아가고, 이 기관 시스템엔 하나도 손대지 마요. 단 하나도.
 
-102. ÁLVARO: ¿Ni uno? ¿Y con qué trabajo?
-    알바로: 하나도요? 그럼 뭘로 일합니까?
+102. ÁLVARO: ¿Ni uno? ¿Y con qué quiere que trabaje, con un cuaderno y un lápiz, como Kirill?
+    알바로: 하나도요? 그럼 뭘로 일하라는 겁니까? 키릴처럼 수첩이랑 연필로요?
 
 103. ARRIETA: Con lo que no sea de esta casa. No le he dicho eso. Y, Medina, la próxima vez que guarde un hecho siete meses, guárdeselo para siempre.
     아리에타: 이 기관 것이 아닌 걸로요. 난 그런 말 안 했어요. 그리고 메디나, 다음에 또 사실 하나를 일곱 달씩 품고 있을 거면 차라리 영원히 품고 있어요.
@@ -334,17 +334,17 @@
 106. IKER: Gato, ¿eres tú? Me dejan una llamada de cinco minutos. Estoy en los calabozos de Canillas.
     이케르: 가토, 선배예요? 5분 통화 허락받았어요. 카니야스 유치장이에요.
 
-107. ÁLVARO: Soy yo. ¿Cómo estás? ¿Te tratan bien?
-    알바로: 나야. 괜찮아? 대우는 괜찮고?
+107. ÁLVARO: Soy yo, Iker. ¿Cómo estás? ¿Te tratan bien ahí dentro, o tengo que ir a montar un escándalo?
+    알바로: 나야, 이케르. 괜찮아? 거기서 대우는 괜찮고? 아니면 내가 가서 한바탕 뒤집어 놔야 돼?
 
 108. IKER: El bocadillo era de mortadela. Es lo más parecido a la tortura.
     이케르: 샌드위치가 모르타델라였어요. 고문이랑 제일 비슷한 거죠.
 
-109. ÁLVARO: Te he buscado abogada: Garbiñe Unzueta, de Bilbao. Odia al Atleti.
-    알바로: 변호사 구했어. 가르비녜 운수에타, 빌바오 출신. 아틀레티코를 싫어해.
+109. ÁLVARO: Te he buscado abogada: Garbiñe Unzueta, de Bilbao, la mejor en secretos oficiales que he encontrado con tan poco tiempo. Y odia al Atleti, así que os vais a llevar bien.
+    알바로: 변호사 구했어. 가르비녜 운수에타, 빌바오 출신. 이렇게 급하게 찾은 사람 중엔 국가기밀 사건 최고야. 게다가 아틀레티코를 싫어하니까 너랑 잘 맞을 거야.
 
-110. IKER: ¿Y Txapela?
-    이케르: 차펠라는요?
+110. IKER: ¿Y Txapela? ¿Quién le está dando de comer? Que si no come a las nueve, se pone imposible.
+    이케르: 차펠라는요? 누가 밥 줘요? 아홉 시에 안 먹으면 난리 치는데.
 
 111. ÁLVARO: En casa de Lucía, durmiendo encima del libro que no piensa leer.
     알바로: 루시아네 집에. 걔가 안 읽겠다는 책 위에서 자고 있어.
@@ -355,11 +355,11 @@
 113. ÁLVARO: No te va a pasar nada. Y yo ya lo sé.
     알바로: 아무 일 없을 거야. 그리고 난 이미 알아.
 
-114. IKER: Lo del paquete a Núria… ¿le ha llegado?
-    이케르: 누리아한테 보낸 거… 도착했어요?
+114. IKER: Una cosa más. Lo del paquete a Núria… ¿le ha llegado? No he podido comprobarlo antes de que vinieran.
+    이케르: 하나 더요. 누리아한테 보낸 거… 도착했어요? 그 사람들 오기 전에 확인을 못 했어요.
 
-115. ÁLVARO: Esta noche hablo con ella.
-    알바로: 오늘 밤에 통화할 거야.
+115. ÁLVARO: Esta noche hablo con ella desde Valencia, con un teléfono que no sea de la Casa.
+    알바로: 오늘 밤 발렌시아에서 통화할 거야. 본부 거 아닌 전화로.
 
 116. IKER: Dile que la clave es el año en que el Athletic ganó la última Copa. Ella no lo sabrá, pero tú sí. Por desgracia.
     이케르: 비밀번호는 아틀레틱이 마지막으로 코파 우승한 해라고 전해 줘요. 누리아는 모를 테지만 선배는 알잖아요. 안타깝게도.
@@ -376,20 +376,20 @@
 120. NÚRIA: Collons. Os coméis entre vosotros. Bueno, tu amigo, antes de que se lo comieran, me ha dejado un trabajo precioso. La contraseña era una tontería de fútbol, por cierto.
     누리아: 젠장. 너희는 서로를 잡아먹는구나. 아무튼 네 친구가 잡아먹히기 전에 나한테 끝내주는 작업물을 남겼어. 참고로 비밀번호는 축구 관련 시시한 거였고.
 
-121. ÁLVARO: Ya me lo ha explicado. ¿Qué has encontrado?
-    알바로: 그건 들었어. 뭘 찾았어?
+121. ÁLVARO: Ya me lo ha explicado él, y me ha dolido en el alma. ¿Qué has encontrado, Núria?
+    알바로: 그건 걔가 설명해 줬어. 가슴이 아프더라. 뭘 찾았어, 누리아?
 
 122. NÚRIA: Escolta. Las vibraciones que vio Oksana en junio no son ruido. Son órdenes de prueba de FONAMENTS. Pequeñas, cada noche a la misma hora, como alguien que afina un violín antes del concierto.
     누리아: 들어 봐. 6월에 옥사나가 본 진동은 잡음이 아니야. 폰아먼츠의 시험 명령이야. 작은 거, 매일 밤 같은 시각에. 연주회 전에 바이올린 조율하는 것처럼.
 
-123. ÁLVARO: ¿Y de dónde salen esas órdenes?
-    알바로: 그 명령은 어디서 나오는데?
+123. ÁLVARO: ¿Y de dónde salen esas órdenes? Porque si sabemos quién es el violinista, sabremos dónde es el concierto.
+    알바로: 그 명령은 어디서 나오는데? 바이올린 켜는 놈을 알면 연주회가 어디서 열리는지도 알 수 있잖아.
 
 124. NÚRIA: Esa es la parte bonita. Pasan por Fráncfort y por Chipre, como en Barcelona. Pero el tiempo que tardan en llegar no miente.
     누리아: 그게 예쁜 부분이야. 바르셀로나 때처럼 프랑크푸르트랑 키프로스를 거쳐. 그런데 도착하는 데 걸리는 시간은 거짓말을 못 해.
 
-125. ÁLVARO: Explícamelo como si fuera mi padre.
-    알바로: 우리 아버지한테 하듯이 설명해 줘.
+125. ÁLVARO: Vale, pero explícamelo como si fuera mi padre, que de redes sé lo mismo que de violines.
+    알바로: 좋아, 근데 우리 아버지한테 하듯이 설명해 줘. 네트워크에 대해선 바이올린만큼이나 아는 게 없으니까.
 
 126. NÚRIA: Si las órdenes vinieran de verdad desde Chipre, tardarían unos sesenta milisegundos. Tardan nueve. Nueve milisegundos es estar aquí al lado, en España, a pocos cientos de kilómetros de Valencia.
     누리아: 명령이 정말 키프로스에서 온다면 60밀리초쯤 걸려야 해. 그런데 9밀리초 걸려. 9밀리초면 바로 옆이야. 스페인 안, 발렌시아에서 몇백 킬로미터 거리.
@@ -400,8 +400,8 @@
 128. NÚRIA: Exacte. Y tu amigo, además, había cruzado las facturas de electricidad de los centros de datos con los picos de las pruebas. Uno gasta de más justo a esas horas.
     누리아: 바로 그거. 게다가 네 친구가 데이터센터들 전기 요금 청구서를 시험 명령 피크랑 대조해 놨더라. 딱 그 시간에 전기를 더 먹는 데가 하나 있어.
 
-129. ÁLVARO: ¿Cuál?
-    알바로: 어디?
+129. ÁLVARO: ¿Cuál de ellos? Dime que no es uno de los que salen en los anuncios del Gobierno.
+    알바로: 어느 데? 정부 광고에 나오는 데들 중 하나라고는 하지 마.
 
 130. NÚRIA: Un sitio enorme en mitad del desierto, alquilado por una empresa que se llama Iberdata Norte. La empresa tiene dieciocho meses y un administrador de ochenta y dos años.
     누리아: 사막 한가운데 있는 엄청 큰 곳. 이베르다타 노르테라는 회사가 임대했어. 회사는 생긴 지 18개월, 명목 이사는 여든두 살 노인이고.
@@ -409,8 +409,8 @@
 131. ÁLVARO: Como las sociedades de Andorra. Velasco repite sus trucos.
     알바로: 안도라 페이퍼컴퍼니들이랑 똑같네. 벨라스코는 자기 수법을 되풀이해.
 
-132. NÚRIA: Porque le funcionan, home. ¿Tienes a Oksana cerca?
-    누리아: 먹히니까 그렇지. 옥사나 근처에 있어?
+132. NÚRIA: Porque le funcionan, home, y porque nadie le ha hecho pagar nunca por ellos. ¿Tienes a Oksana cerca?
+    누리아: 먹히니까 그렇지. 게다가 그걸로 대가를 치른 적이 한 번도 없잖아. 옥사나 근처에 있어?
 
 133. ÁLVARO: Está aquí, en el balcón, oyéndolo todo en altavoz.
     알바로: 여기 있어. 발코니에서 스피커로 다 듣고 있어.

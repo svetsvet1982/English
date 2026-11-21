@@ -25,11 +25,11 @@
 003. IKER: Pues esto es mejor que la radio. Una llamada a la centralita, del domingo, a las once y cuarenta y dos.
     이케르: 이건 라디오보다 나아요. 대표번호로 걸려 온 전화예요. 일요일 오전 열한 시 사십이 분.
 
-004. ÁLVARO: ¿Del domingo? Hoy es miércoles.
-    알바로: 일요일? 오늘 수요일이야.
+004. ÁLVARO: ¿Del domingo? Hoy es miércoles, Iker. ¿Me estás diciendo que esto lleva tres días dando vueltas por la Casa?
+    알바로: 일요일? 오늘 수요일이야, 이케르. 이게 사흘째 본부 안에서 굴러다녔다는 얘기야?
 
-005. IKER: Ya. De eso también hablaremos. Dale, escucha.
-    이케르: 알아요. 그 얘기도 할 거예요. 자, 들어 봐요.
+005. IKER: Ya, de eso también hablaremos, y no te va a gustar. Pero primero dale, escucha hasta el final.
+    이케르: 알아요. 그 얘기도 할 거예요. 형 마음에 안 들 거고요. 근데 일단 끝까지 들어 봐요.
 
 006. KIRILL: Buenos días. Por favor, no me pase con nadie más. He llamado tres veces esta semana y siempre me dicen que espere.
     키릴: 안녕하십니까. 제발 다른 사람한테 돌리지 마십시오. 이번 주에만 세 번 전화했는데 매번 기다리라고만 합니다.
@@ -40,8 +40,8 @@
 008. KIRILL: Aquí me llamo Mijaíl Petrenko, pero ese no es mi nombre. Trabajé veinte años escuchando las comunicaciones de otros países, y ahora alguien quiere apagar la luz del suyo.
     키릴: 여기선 미하일 페트렌코라고 불립니다만, 제 이름은 아닙니다. 저는 20년 동안 다른 나라들의 통신을 엿들었습니다. 그리고 지금 누군가가 당신네 나라의 불을 끄려고 합니다.
 
-009. OPERADORA: ¿Puede repetir eso, por favor?
-    교환원: 다시 한번 말씀해 주시겠어요?
+009. OPERADORA: Perdone, caballero, ¿puede repetir eso último, por favor? No estoy segura de haberle entendido bien.
+    교환원: 죄송합니다, 선생님. 마지막 말씀 다시 해 주시겠어요? 제가 제대로 들었는지 모르겠어서요.
 
 010. KIRILL: Por teléfono no. Solo hablaré con un agente. Le llaman Gato. Si me pasan con otro, cuelgo y no vuelvo a llamar.
     키릴: 전화로는 안 됩니다. 한 요원하고만 이야기하겠습니다. 가토라고 부르더군요. 다른 사람을 바꿔 주면 끊고 다시는 안 겁니다.
@@ -55,14 +55,14 @@
 013. KIRILL: Díganle que él no me conoce, pero que yo sé quién es. Lo sé por la misma gente que le conoce a él desde hace veinte años. Él lo entenderá.
     키릴: 그 사람은 저를 모른다고 전해 주십시오. 하지만 저는 그가 누군지 압니다. 20년 전부터 그를 알던 바로 그 사람들한테서 들었습니다. 그러면 그는 이해할 겁니다.
 
-014. ÁLVARO: Pues no entiendo nada. ¿Quién es este hombre?
-    알바로: 근데 난 하나도 모르겠는데. 이 사람 누구야?
+014. ÁLVARO: Pues yo no entiendo nada, porque a este hombre no le he oído en mi vida. ¿Quién es?
+    알바로: 근데 난 하나도 모르겠어. 이 사람 목소리는 평생 처음 듣거든. 누구야?
 
 015. IKER: Kirill Arsenov, cincuenta y un años. Ingeniero de señales de la inteligencia militar rusa hasta 2024. Desertó por Alemania y acabó aquí con papeles nuevos.
     이케르: 키릴 아르세노프, 쉰한 살. 2024년까지 러시아 군 정보기관 신호 엔지니어였어요. 독일을 통해 망명했고, 새 서류 받아서 여기까지 왔어요.
 
-016. ÁLVARO: ¿Aquí dónde?
-    알바로: 여기 어디?
+016. ÁLVARO: ¿Y aquí dónde, exactamente? Porque "aquí" en tu boca puede ser desde Getafe hasta Canarias.
+    알바로: 그래서 여기가 정확히 어디야? 네가 말하는 '여기'는 헤타페부터 카나리아까지 다 될 수 있잖아.
 
 017. IKER: En Villajoyosa, en Alicante. Un chalet con vistas al mar. Teníamos su ficha en un cajón: prioridad baja, revisión cada seis meses.
     이케르: 알리칸테의 비야호요사요. 바다 보이는 별장. 파일은 서랍에 있었어요. 우선순위 낮음, 6개월마다 점검.
@@ -100,11 +100,11 @@
 028. IKER: Un momento. Es la directora, por la línea interna. Os pongo en altavoz.
     이케르: 잠깐만요. 국장님이에요, 내선으로. 스피커로 돌릴게요.
 
-029. ARRIETA: Medina, ¿está ahí Ruiz-Belda?
-    아리에타: 메디나, 거기 루이스벨다 있어요?
+029. ARRIETA: Medina, buenos días. Dígame que Ruiz-Belda está ahí con ustedes, porque no me coge el móvil.
+    아리에타: 메디나, 좋은 아침이에요. 루이스벨다가 거기 같이 있다고 해 줘요. 휴대폰을 안 받네요.
 
-030. SANTI: Aquí estoy, directora.
-    산티: 여기 있습니다, 국장님.
+030. SANTI: Aquí estoy, directora. Disculpe lo del móvil, estaba explicándole a Medina lo de la cita de mañana.
+    산티: 여기 있습니다, 국장님. 전화는 죄송합니다. 메디나에게 내일 약속 건을 설명하던 중이었습니다.
 
 031. ARRIETA: Entonces cancele la cita de mañana. La Guardia Civil de Villajoyosa ha encontrado a un hombre muerto en su garaje hace una hora. Dos disparos. Se llamaba Mijaíl Petrenko.
     아리에타: 그럼 내일 약속은 취소하세요. 한 시간 전에 비야호요사 과르디아 시빌이 자기 차고에서 죽은 남자를 발견했어요. 두 발. 이름은 미하일 페트렌코.
@@ -112,14 +112,14 @@
 032. IKER: Ni de coña… espera. Sí. Es él.
     이케르: 설마… 잠깐만요. 맞네. 그 사람이에요.
 
-033. ÁLVARO: ¿A qué hora?
-    알바로: 몇 시에요?
+033. ÁLVARO: ¿A qué hora le encontraron, directora? Quiero saber cuántas horas de ventaja nos lleva el que lo hizo.
+    알바로: 몇 시에 발견됐습니까, 국장님? 범인이 우리보다 몇 시간이나 앞서 있는지 알고 싶습니다.
 
 034. ARRIETA: El jardinero lo encontró a las siete y media. El forense calcula que llevaba muerto unas dos horas. Medina, quiero que salga para allí ahora mismo.
     아리에타: 정원사가 일곱 시 반에 발견했어요. 검시관 추정으로는 죽은 지 두 시간쯤 됐고요. 메디나, 지금 당장 그쪽으로 출발했으면 해요.
 
-035. ÁLVARO: ¿Y la verificación?
-    알바로: 검증은요?
+035. ÁLVARO: ¿Y la verificación, directora? ¿La cancelamos también, o mandamos al equipo a verificar que está muerto?
+    알바로: 그럼 검증은요, 국장님? 그것도 취소합니까, 아니면 팀을 보내서 죽었는지 검증할까요?
 
 036. ARRIETA: Ahórrese la ironía. Le espera la teniente Climent. Tráigame hechos, no corazonadas.
     아리에타: 비꼬는 건 아껴 두세요. 클리멘트 중위가 기다리고 있어요. 직감 말고 사실을 가져와요.
@@ -133,8 +133,8 @@
 039. IKER: Te mando la ficha al móvil. Son cuatro horas hasta allí si no paras.
     이케르: 파일은 폰으로 보낼게요. 안 쉬고 가면 네 시간이에요.
 
-040. ÁLVARO: Pararé en Albacete a echar gasolina, y nada más.
-    알바로: 알바세테에서 기름만 넣고 바로 갈 거야.
+040. ÁLVARO: Pararé en Albacete a echar gasolina, y nada más, aunque el coche me pida clemencia por el camino.
+    알바로: 알바세테에서 기름만 넣고 바로 갈 거야. 차가 가다가 살려 달라고 해도.
 
 041. IKER: Gato, ¿por qué sabe un ruso tu nombre de guerra?
     이케르: 가토, 러시아 사람이 왜 형 작전명을 알아요?
@@ -151,14 +151,14 @@
 045. CLIMENT: Es el terral, el viento de poniente. Baja del interior y nos trae el horno de La Mancha entero. Bienvenido a junio.
     클리멘트: 테랄이에요, 서쪽에서 부는 바람. 내륙에서 내려와서 라만차의 화덕을 통째로 실어 와요. 6월에 온 걸 환영해요.
 
-046. ÁLVARO: ¿Este es el garaje?
-    알바로: 여기가 그 차고예요?
+046. ÁLVARO: ¿Y este es el garaje? Lo imaginaba más grande, para alguien que vivía con tanto miedo.
+    알바로: 여기가 그 차고야? 그렇게 겁먹고 살던 사람 치고는 더 클 줄 알았는데.
 
 047. CLIMENT: Este es. La puerta automática, abierta hasta la mitad. El coche con el motor apagado y la puerta del conductor abierta. Y él, aquí, entre el coche y la pared.
     클리멘트: 여기예요. 자동문은 반쯤 열려 있었고, 차는 시동이 꺼진 채 운전석 문이 열려 있었어요. 그리고 그 사람은 여기, 차하고 벽 사이에.
 
-048. ÁLVARO: Dos disparos, me dijeron.
-    알바로: 두 발이라고 들었는데.
+048. ÁLVARO: En Madrid me dijeron que fueron dos disparos. ¿Lo confirmáis vosotros, o eso también está por verificar?
+    알바로: 마드리드에선 두 발이라고 하던데. 여기서도 확인된 거예요, 아니면 그것도 검증 대기 중이에요?
 
 049. CLIMENT: Dos. Uno en el pecho y otro en la cabeza, muy juntos. Y nadie oyó nada, en una urbanización llena de jubilados ingleses que se despiertan si se cae una almendra del árbol.
     클리멘트: 두 발. 가슴에 하나, 머리에 하나, 아주 가깝게. 그런데 아무도 못 들었대요. 나무에서 아몬드 하나만 떨어져도 깨는 영국 은퇴자들이 가득한 단지에서요.
@@ -169,8 +169,8 @@
 051. CLIMENT: Todos los días a las seis menos cuarto. Bajaba a nadar a la cala antes de que apretara el calor. Lo dice el jardinero, que era el único con quien hablaba.
     클리멘트: 매일 새벽 다섯 시 사십오 분. 더위가 기승을 부리기 전에 작은 만으로 수영하러 내려갔대요. 정원사 말이에요. 그 사람이 말 섞는 유일한 상대였거든요.
 
-052. ÁLVARO: ¿Cámaras?
-    알바로: 카메라는요?
+052. ÁLVARO: ¿Y cámaras? En una urbanización así tiene que haber alguna, aunque solo sea para vigilar las piscinas.
+    알바로: 카메라는요? 이런 단지면 하나쯤은 있을 텐데. 수영장 감시용이라도.
 
 053. CLIMENT: Dos en la entrada de la urbanización. Las dos sin grabar desde el domingo por la noche. Un "fallo eléctrico", dice la empresa de seguridad.
     클리멘트: 단지 입구에 두 대. 둘 다 일요일 밤부터 녹화가 안 됐어요. 경비업체 말로는 '전기 고장'이래요.
@@ -184,11 +184,11 @@
 056. ÁLVARO: Llamó a la Casa. Preguntó por un agente concreto.
     알바로: 본부에 전화했어요. 특정 요원을 찾았고요.
 
-057. CLIMENT: ¿Por quién?
-    클리멘트: 누구를요?
+057. CLIMENT: ¿Y por quién preguntó, si se puede saber? Porque aquí nadie me ha dicho ni media palabra.
+    클리멘트: 그래서 누구를 찾았는데요, 물어봐도 되면? 여기선 아무도 나한테 한마디도 안 해 줬거든요.
 
-058. ÁLVARO: Por mí.
-    알바로: 저요.
+058. ÁLVARO: Por mí. Por mi nombre de guerra, para ser exactos, que no sale en ninguna guía telefónica.
+    알바로: 저요. 정확히는 제 작전명으로요. 전화번호부 어디에도 안 나오는 이름이죠.
 
 059. CLIMENT: Ah, mira. Ahora entiendo por qué la directora en persona llamó a mi coronel a las nueve de la mañana. ¿Y usted le conocía?
     클리멘트: 아, 그렇구나. 이제야 국장님이 직접 아침 아홉 시에 우리 대령님한테 전화한 이유를 알겠네. 그럼 그 사람 아는 사이였어요?
@@ -205,8 +205,8 @@
 063. CLIMENT: Amparo. Y ahora mira esto, Álvaro, que es lo raro de verdad.
     클리멘트: 아파로. 그럼 이거 좀 봐, 알바로. 진짜 이상한 건 이거야.
 
-064. ÁLVARO: A ver.
-    알바로: 어디 봐.
+064. ÁLVARO: A ver, enséñamelo, que llevo cuatro horas de carretera y ya no me sorprende casi nada.
+    알바로: 어디 보여 줘. 네 시간을 달려왔더니 이젠 웬만한 건 놀랍지도 않아.
 
 065. CLIMENT: El móvil no está, ni en el coche ni en la casa. La cartera sí, con trescientos euros dentro, así que no me hables de un robo.
     클리멘트: 휴대폰이 없어. 차에도, 집에도. 지갑은 있어. 안에 300유로 들어 있고. 그러니까 강도 얘기는 하지도 마.
@@ -217,11 +217,11 @@
 067. CLIMENT: Y esto. Mírale la muñeca izquierda. Escrito con bolígrafo azul, como hacen los críos cuando no quieren olvidarse de algo.
     클리멘트: 그리고 이거. 왼쪽 손목 좀 봐. 파란 볼펜으로 썼어. 애들이 뭘 안 까먹으려고 할 때처럼.
 
-068. ÁLVARO: "Jueves, once."
-    알바로: '목요일, 열한 시.'
+068. ÁLVARO: Aquí pone "Jueves, once". Con su propia letra, me imagino, y apretando mucho el bolígrafo.
+    알바로: '목요일, 열한 시'라고 쓰여 있네. 본인 글씨겠지. 볼펜을 꾹꾹 눌러 썼고.
 
-069. CLIMENT: ¿Te dice algo?
-    클리멘트: 뭐 짚이는 거 있어?
+069. CLIMENT: ¿Y eso te dice algo a ti? Porque a mí me suena a cita con el dentista.
+    클리멘트: 그게 너한텐 뭐 짚이는 거 있어? 난 치과 예약 같은데.
 
 070. ÁLVARO: Me dice que alguien sabía que el jueves a las once iba a hablar conmigo, y que no quiso esperar a que llegara el jueves.
     알바로: 누군가가 이 사람이 목요일 열한 시에 나랑 얘기할 거라는 걸 알았다는 거. 그리고 목요일이 올 때까지 기다려 주지 않았다는 거.
@@ -235,26 +235,26 @@
 073. CLIMENT: Xe, acabas de llegar y ya me pides que me calle algo en un atestado.
     클리멘트: 이봐, 알바로. 오자마자 조서에서 뭘 빼 달라는 거야?
 
-074. ÁLVARO: Te pido que esperes un par de días. No es lo mismo.
-    알바로: 이틀만 기다려 달라는 거야. 그건 다른 얘기지.
+074. ÁLVARO: Te pido que esperes un par de días, no que mientas. No es lo mismo, y tú lo sabes.
+    알바로: 이틀만 기다려 달라는 거지, 거짓말하라는 게 아니야. 그건 다른 얘기고, 너도 알잖아.
 
 075. CLIMENT: Vale, dos días. Pero me lo cuentas todo. No somos los primos del pueblo.
     클리멘트: 좋아, 이틀. 대신 나한테 다 얘기해. 우리가 무슨 시골 사촌인 줄 알아?
 
-076. ÁLVARO: Trato hecho. ¿Y la casa?
-    알바로: 약속할게. 집은?
+076. ÁLVARO: Trato hecho, Amparo, palabra de exguardia civil. ¿Y la casa? ¿Ha entrado alguien antes que nosotros?
+    알바로: 약속할게, 아파로. 전직 과르디아 시빌으로서 하는 말이야. 집은? 우리보다 먼저 들어간 사람 있어?
 
 077. CLIMENT: Arriba, subiendo esas escaleras. La he precintado esta mañana. Si quieres verla con luz, vamos antes de que se ponga el sol.
     클리멘트: 위에. 저 계단 올라가면 돼. 오늘 아침에 봉인해 뒀어. 밝을 때 보고 싶으면 해 지기 전에 가자.
 
-078. ÁLVARO: Quiero verla antes de que la vea nadie más.
-    알바로: 다른 누가 보기 전에 보고 싶어.
+078. ÁLVARO: Quiero verla antes de que la vea nadie más, sobre todo antes de que llegue alguien de Madrid con prisas.
+    알바로: 다른 누가 보기 전에 보고 싶어. 특히 마드리드에서 누가 급하게 내려오기 전에.
 
 079. CLIMENT: Desde esta terraza se ve todo el casco antiguo. ¿Ves las casas de colores, junto a la desembocadura del río? Dicen que los pescadores las pintaban así para reconocer la suya desde el mar.
     클리멘트: 이 테라스에서 구시가지가 다 보여. 강 하구 옆에 알록달록한 집들 보이지? 어부들이 바다에서 자기 집을 알아보려고 그렇게 칠했대.
 
-080. ÁLVARO: Huele a chocolate.
-    알바로: 초콜릿 냄새가 나네.
+080. ÁLVARO: ¿Y este olor? Huele a chocolate, como si alguien estuviera haciendo churros en la terraza de al lado.
+    알바로: 이 냄새는 뭐야? 초콜릿 냄새가 나. 옆 테라스에서 누가 추로스라도 만드는 것처럼.
 
 081. CLIMENT: Son las fábricas de abajo. Aquí el chocolate es casi religión. Cuando sopla de levante, todo el pueblo huele a merienda.
     클리멘트: 아래쪽 공장들이야. 여기선 초콜릿이 거의 종교야. 동풍이 불면 온 동네에서 간식 냄새가 나.
@@ -265,8 +265,8 @@
 083. CLIMENT: Desde aquí ves quién sube por la carretera de la cala tres curvas antes de que llegue a tu puerta.
     클리멘트: 여기선 누가 만 쪽 도로로 올라오는지, 문 앞에 닿기 세 굽이 전부터 보여.
 
-084. ÁLVARO: Y aun así le pillaron en su propio garaje.
-    알바로: 그런데도 자기 차고에서 당했네.
+084. ÁLVARO: Y aun así le pillaron en su propio garaje, a la hora de siempre, sin que viera venir a nadie.
+    알바로: 그런데도 자기 차고에서 당했네. 늘 같은 시간에, 누가 오는 것도 못 보고.
 
 085. CLIMENT: Le esperaban dentro, creo yo. La puerta lateral no tiene ni un arañazo.
     클리멘트: 안에서 기다리고 있었던 거야, 내 생각엔. 옆문엔 긁힌 자국 하나 없어.
@@ -286,8 +286,8 @@
 090. ÁLVARO: Mira esta frase. "Si me hubiera ido antes, ahora no tendría miedo." Lo escribió él, en el margen.
     알바로: 이 문장 봐. '더 일찍 떠났더라면 지금 무섭지 않을 텐데.' 본인이 여백에 써 놨어.
 
-091. CLIMENT: Un ejercicio de gramática.
-    클리멘트: 문법 연습이겠지.
+091. CLIMENT: Bueno, también puede ser un simple ejercicio de gramática, de los que vienen al final de cada tema.
+    클리멘트: 뭐, 그냥 문법 연습일 수도 있잖아. 단원마다 끝에 나오는 그런 거.
 
 092. ÁLVARO: O una confesión. A veces son lo mismo.
     알바로: 아니면 고백이거나. 가끔은 그게 같은 거야.
@@ -295,8 +295,8 @@
 093. CLIMENT: Pues espera a ver la despensa. Velas, cajas y cajas de velas. Pilas, una radio de manivela, garrafas de agua, un hornillo de camping y latas para un mes.
     클리멘트: 그럼 식료품 창고 좀 봐. 양초, 양초가 몇 상자씩이야. 건전지, 손으로 돌리는 라디오, 물통, 캠핑 버너, 한 달 치 통조림까지.
 
-094. ÁLVARO: Velas.
-    알바로: 양초.
+094. ÁLVARO: Velas. Cajas de velas, Amparo. Eso no me lo esperaba, y ahora mismo es lo que menos me gusta.
+    알바로: 양초. 양초 상자들이라니, 아파로. 그건 예상 못 했어. 지금은 그게 제일 마음에 안 들어.
 
 095. CLIMENT: Después del apagón de 2025 media España se compró una radio, pero esto es otra cosa. Esto es de alguien que sabía algo que nosotros no sabemos.
     클리멘트: 2025년 대정전 이후로 스페인 사람 절반은 라디오를 하나씩 샀지. 근데 이건 차원이 달라. 우리가 모르는 걸 알던 사람의 창고야.
@@ -304,8 +304,8 @@
 096. ÁLVARO: En marzo, un hombre al que conozco desde hace veinte años me llamó por teléfono para decirme que este verano iba a hacer mucho calor y que comprara velas.
     알바로: 3월에, 20년 동안 알고 지낸 사람이 전화를 했어. 올여름은 아주 더울 테니까 양초를 사 두라고.
 
-097. CLIMENT: ¿Y las compraste?
-    클리멘트: 그래서 샀어?
+097. CLIMENT: ¿Y las compraste, o te las regaló él con una tarjeta de felicitación?
+    클리멘트: 그래서 샀어? 아니면 그 사람이 축하 카드랑 같이 선물해 줬어?
 
 098. ÁLVARO: No. Pensé que era una amenaza y no un consejo. Ahora no sé si habría sido mejor hacerle caso.
     알바로: 아니. 충고가 아니라 협박인 줄 알았어. 지금은 그 말을 들었어야 했나 싶어.
@@ -319,14 +319,14 @@
 101. CLIMENT: Y seis meses antes, la DANA. Estuve diez días en Paiporta con las botas llenas de barro. Aquí ya sabemos lo que es que se te lleve todo una noche.
     클리멘트: 그리고 그 반년 전엔 다나. 나 파이포르타에서 열흘 동안 장화에 진흙 가득 채우고 있었어. 여기 사람들은 하룻밤에 전부 쓸려 가는 게 뭔지 이미 알아.
 
-102. ÁLVARO: Lo siento. No lo sabía.
-    알바로: 미안. 몰랐어.
+102. ÁLVARO: Lo siento, Amparo, no lo sabía. Desde Madrid la DANA se vio por la tele, y eso no es lo mismo.
+    알바로: 미안해, 아파로. 몰랐어. 마드리드에선 다나를 텔레비전으로 봤거든. 그건 같은 게 아니지.
 
 103. CLIMENT: No pasa nada. Venga, al cajón de la cocina. Debajo del cubertero hay algo que no he querido tocar sin ti.
     클리멘트: 괜찮아. 자, 부엌 서랍으로. 수저통 밑에 너 없이는 손대고 싶지 않았던 게 있어.
 
-104. ÁLVARO: Una libreta. Pequeña, de tapas negras. Casi todo son números.
-    알바로: 수첩이네. 작고, 검은 표지. 거의 다 숫자야.
+104. ÁLVARO: Una libreta pequeña, de tapas negras, de las que se compran en cualquier estanco. Casi todo son números.
+    알바로: 작은 수첩이네. 검은 표지, 아무 담뱃가게에서나 파는 거. 거의 다 숫자야.
 
 105. CLIMENT: Frecuencias, horarios o la lista de la compra. Con un ruso nunca se sabe.
     클리멘트: 주파수든 시간표든 장 볼 목록이든. 러시아 사람 건 알 수가 없지.
@@ -346,17 +346,17 @@
 110. ÁLVARO: Y en la última página, subrayado dos veces: "O. Melnyk — RIT".
     알바로: 그리고 마지막 장에, 밑줄 두 번. 'O. 멜니크 — RIT'.
 
-111. CLIMENT: ¿RIT? ¿Un banco? ¿Una aseguradora?
-    클리멘트: RIT? 은행? 보험사?
+111. CLIMENT: ¿RIT? ¿Eso qué es, un banco, una aseguradora? Porque a mí no me suena de nada.
+    클리멘트: RIT? 그게 뭐야, 은행? 보험사? 난 처음 들어 보는데.
 
-112. ÁLVARO: No lo sé. Se lo mando a Iker. Mañana lo sabremos.
-    알바로: 모르겠어. 이케르한테 사진 보낼게. 내일이면 알겠지.
+112. ÁLVARO: No lo sé, pero le mando una foto a Iker, que es capaz de averiguarlo antes de que me duerma.
+    알바로: 모르겠어. 이케르한테 사진 보낼게. 걔는 내가 잠들기 전에 알아낼 수도 있어.
 
 113. CLIMENT: Te he reservado una habitación en un hostal del puerto. Pequeña, pero tiene aire acondicionado, que con este terral es lo único que importa.
     클리멘트: 항구 쪽 민박에 방 하나 잡아 놨어. 작지만 에어컨은 있어. 이 테랄엔 그거 하나면 돼.
 
-114. ÁLVARO: Gracias, Amparo. Mañana a las nueve, aquí.
-    알바로: 고마워, 아파로. 내일 아홉 시, 여기서.
+114. ÁLVARO: Gracias, Amparo, de verdad. Mañana a las nueve, aquí, y si me retraso es que el mosquito ha ganado.
+    알바로: 고마워, 아파로, 진짜로. 내일 아홉 시, 여기서. 내가 늦으면 모기가 이긴 걸로 알아.
 
 115. LUCÍA: Papá, contesta. Es un audio, no una bomba. Mamá dice que estás en la playa. ¿En la playa? ¿Tú? Si es verdad, mándame una foto, porque no me lo creo.
     루시아: 아빠, 답장해. 음성 메시지지 폭탄 아니잖아. 엄마가 아빠 바닷가에 있대. 바닷가? 아빠가? 진짜면 사진 보내. 안 믿기니까.
@@ -370,8 +370,8 @@
 118. ÁLVARO: Si pudiera, el sábado me iría contigo a ver al abuelo y le llevaríamos churros. Pero no puedo. Llámale tú por mí, ¿vale? Y suerte el viernes.
     알바로: 할 수만 있으면 토요일에 너랑 할아버지 보러 가서 추로스 사 갈 텐데. 근데 안 돼. 아빠 대신 네가 전화 좀 드려 줄래? 금요일 시험 잘 보고.
 
-119. IKER: Gato, buenos días. ¿Has dormido algo?
-    이케르: 가토, 좋은 아침이에요. 좀 잤어요?
+119. IKER: Gato, buenos días. Te he llamado dos veces antes de las ocho. ¿Has dormido algo, o te has pasado la noche con la libreta?
+    이케르: 가토, 좋은 아침이에요. 여덟 시 전에 두 번 전화했어요. 좀 잤어요, 아니면 밤새 수첩만 봤어요?
 
 120. ÁLVARO: Tres horas, con un mosquito con mucha vocación. Dime qué es RIT.
     알바로: 세 시간. 사명감 넘치는 모기 한 마리랑. RIT가 뭔지 말해 봐.
@@ -379,8 +379,8 @@
 121. IKER: Red Ibérica de Transporte. Los que mueven la electricidad de alta tensión por todo el país. Las torres grandes, las subestaciones, todo eso.
     이케르: 레드 이베리카 데 트란스포르테. 고압 전기를 전국으로 보내는 회사예요. 큰 송전탑, 변전소, 그런 거 전부요.
 
-122. ÁLVARO: La luz.
-    알바로: 전기네.
+122. ÁLVARO: La luz. O sea, que el ruso de las velas iba detrás de alguien que trabaja con la luz.
+    알바로: 전기네. 그러니까 양초 쌓아 둔 러시아인이 전기 다루는 사람을 쫓아다녔다는 거네.
 
 123. IKER: La luz. Y O. Melnyk es Oksana Melnyk, treinta y siete años, ucraniana, de Járkov. Ingeniera de sistemas en su centro de control de Levante, en Paterna.
     이케르: 전기요. 그리고 O. 멜니크는 옥사나 멜니크, 서른일곱 살, 우크라이나인, 하르키우 출신. 파테르나에 있는 레반테 관제센터의 계통 엔지니어예요.
@@ -391,8 +391,8 @@
 125. IKER: Llegó en 2022, con la guerra. Vivía en Paiporta hasta octubre del 24. Sale en las listas de ayudas de la DANA: vivienda en planta baja, pérdida total.
     이케르: 2022년에 전쟁 때문에 왔어요. 2024년 10월까지 파이포르타에 살았고요. 다나 지원금 명단에 있어요. 1층 주택, 전파.
 
-126. ÁLVARO: Joder.
-    알바로: 젠장.
+126. ÁLVARO: Joder. Perdió la casa en la riada y ahora le persigue un ruso con una libreta. Vaya año lleva.
+    알바로: 젠장. 홍수로 집을 잃었는데 이제는 수첩 든 러시아인이 쫓아다녔다고. 무슨 이런 해가 다 있어.
 
 127. IKER: Ahora vive en Benimaclet, de alquiler, con una hermana que es enfermera en La Fe. Ni una multa, ni un antecedente. Limpia como una patena.
     이케르: 지금은 베니마클레트에서 월세 살아요. 라 페 병원 간호사인 여동생도 있고요. 벌금 한 장, 전과 하나 없어요. 완전 깨끗해요.
@@ -421,8 +421,8 @@
 135. CLIMENT: Álvaro, ¿con quién hablas? Cuelga un momento.
     클리멘트: 알바로, 누구랑 통화해? 잠깐 끊어 봐.
 
-136. ÁLVARO: ¿Qué pasa?
-    알바로: 무슨 일이야?
+136. ÁLVARO: ¿Qué pasa, Amparo? Tienes la cara de cuando encontraste la libreta debajo del cubertero.
+    알바로: 무슨 일이야, 아파로? 수저통 밑에서 수첩 찾았을 때 그 얼굴이야.
 
 137. CLIMENT: Hay una mujer en la puerta. Dice que el muerto le debía una conversación.
     클리멘트: 문 앞에 여자가 하나 와 있어. 죽은 사람이 자기한테 대화 한 번을 빚졌대.
