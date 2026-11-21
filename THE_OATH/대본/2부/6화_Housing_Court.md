@@ -137,8 +137,8 @@
 041. KLEIN: I know, because I read about you. Park Avenue, huh? Nice cart. I had a cart once, back in 1991, but I left it in the elevator.
     클라인: 알아요, 기사 읽었지. 파크 애비뉴라며? 카트 좋네. 나도 1991년에 카트 하나 있었는데, 엘리베이터에 두고 내렸어.
 
-042. DAN: Before we start, I'd like to discuss the HP action we filed last Thursday, and the harassment claim that goes with it.
-    댄: 시작하기 전에 지난 목요일에 낸 수리 명령 소송이랑, 거기 딸린 괴롭힘 청구에 대해 얘기하고 싶습니다.
+042. DAN: Mr. Klein, before we start, I'd like to discuss the HP action we filed last Thursday, and the harassment claim that goes with it.
+    댄: 클라인 변호사님, 시작하기 전에 지난 목요일에 낸 수리 명령 소송이랑, 거기 딸린 괴롭힘 청구에 대해 얘기하고 싶습니다.
 
 043. KLEIN: Sure, sure, later, because I've got sixty cases this morning, and yours are only thirty-one of them. Where's your client, the famous one from the video?
     클라인: 그래, 그래, 나중에. 오늘 아침 사건이 예순 개야. 당신 건 그중 서른한 개뿐이고. 당신 의뢰인은 어디 있어? 그 영상에 나온 유명한 분.
@@ -146,8 +146,8 @@
 044. AISHA: Dan, he's walking toward Gladys.
     아이샤: 댄, 저 사람 글래디스 쪽으로 가요.
 
-045. KLEIN: Gladys Moore! It's Barry Klein, and we've met, in 2009, I think. Listen, I have something for you, just between us, because my client wants to make your life easier.
-    클라인: 글래디스 무어 씨! 배리 클라인이에요. 2009년에 만났던 것 같은데. 들어 봐요, 우리끼리 드릴 게 있어요. 제 의뢰인이 당신 삶을 편하게 해 드리고 싶대요.
+045. KLEIN: Mrs. Moore! It's Barry Klein, and we've met, in 2009, I think. Listen, I have something for you, just between us, because my client wants to make your life easier.
+    클라인: 무어 부인! 배리 클라인이에요. 2009년에 만났던 것 같은데. 들어 봐요, 우리끼리 드릴 게 있어요. 제 의뢰인이 당신 삶을 편하게 해 드리고 싶대요.
 
 046. GLADYS: My life would be a lot easier with heat.
     글래디스: 난방이 있으면 내 삶이 훨씬 편해지지.
@@ -155,8 +155,8 @@
 047. KLEIN: How about fifteen thousand dollars in cash? We forget the back rent, and you move out by June, maybe to Florida, somewhere warm.
     클라인: 현금 만 오천 달러 어때요? 밀린 임대료는 잊어 드리고, 6월까지 이사 나가시는 거죠. 플로리다 같은 따뜻한 데로.
 
-048. DAN: Stop right there, Barry. She is represented by counsel, so you can't talk to her about this case without me, and you know that.
-    댄: 거기까지요, 배리. 그분은 변호인이 있어요. 저 없이 이 사건 얘기를 하면 안 된다는 거, 알잖아요.
+048. DAN: Stop right there, Mr. Klein. Mrs. Moore is represented by counsel, so you can't talk to her about this case without me, and you know that.
+    댄: 거기까지요, 클라인 변호사님. 무어 부인은 변호인이 있어요. 저 없이 이 사건 얘기를 하면 안 된다는 거, 알잖아요.
 
 049. KLEIN: Old habits, Counselor. Half these tenants don't have lawyers, so I forget who does.
     클라인: 옛날 버릇이에요, 변호사님. 여기 세입자 절반은 변호사가 없으니까, 누가 있는지 까먹어요.
@@ -167,8 +167,8 @@
 051. AISHA: It's Rule 4.2: a lawyer can't talk about a case with someone who has their own lawyer, so you go through the lawyer. It protects people from exactly this.
     아이샤: 규칙 4.2요. 변호사는 자기 변호사가 있는 사람과 사건 얘기를 하면 안 돼요. 변호사를 거쳐야 해요. 바로 이런 걸 막으려는 거예요.
 
-052. GLADYS: Fifteen thousand dollars to leave the apartment I've lived in for forty-eight years? Young man, my husband's ashes are in that apartment.
-    글래디스: 48년 산 집에서 나가는 데 만 오천 달러? 젊은이, 그 집엔 우리 남편 유골이 있어.
+052. GLADYS: Fifteen thousand dollars to leave the apartment I've lived in for forty-eight years? Mr. Klein, my husband's ashes are in that apartment.
+    글래디스: 48년 산 집에서 나가는 데 만 오천 달러? 클라인 씨, 그 집엔 우리 남편 유골이 있어.
 
 053. KLEIN: We'd help with the moving, of course.
     클라인: 이사는 물론 도와드리죠.
@@ -230,17 +230,17 @@
 072. AISHA: She's a court attorney who works for the judge, and she tries to settle cases before they ever reach the judge, so most cases end in her room.
     아이샤: 법원 소속 조정 변호사예요. 판사 밑에서 일하면서 판사한테 가기 전에 사건을 합의시키려고 해요. 대부분 사건이 저 방에서 끝나요.
 
-073. ADEYEMI: Sit down. I'm Ms. Adeyemi, and I have seventy files this morning, so let's be quick. Barry, what does your client want?
-    아데예미: 앉으세요. 아데예미입니다. 오늘 아침 파일이 일흔 개라 빨리 하죠. 배리, 의뢰인은 뭘 원해요?
+073. ADEYEMI: Sit down. I'm Ms. Adeyemi, and I have seventy files this morning, so let's be quick. Mr. Klein, what does your client want?
+    아데예미: 앉으세요. 아데예미입니다. 오늘 아침 파일이 일흔 개라 빨리 하죠. 클라인 변호사님, 의뢰인은 뭘 원해요?
 
 074. KLEIN: My client wants three months of rent from thirty-one tenants, and it's simple.
     클라인: 세입자 서른한 명한테서 석 달 치 임대료요. 간단해요.
 
-075. ADEYEMI: And what about the tenants, Counselor?
-    아데예미: 세입자 측은요, 변호사님?
+075. ADEYEMI: And what about the tenants, Mr. Reardon?
+    아데예미: 세입자 측은요, 레이든 변호사님?
 
-076. DAN: Thank you. If I may, the respondents' defense rests on three independent grounds. First, the warranty of habitability, which, as the Court of Appeals held in Park West Village, requires—
-    댄: 감사합니다. 말씀드리자면, 피고 측 항변은 세 가지 독립된 근거에 기초합니다. 첫째, 거주 적합성 보증으로, 항소법원이 파크 웨스트 빌리지 판결에서 판시했듯이—
+076. DAN: Ms. Adeyemi, thank you. If I may, the respondents' defense rests on three independent grounds. First, the warranty of habitability, which, as the Court of Appeals held in Park West Village, requires—
+    댄: 아데예미 변호사님, 감사합니다. 말씀드리자면, 피고 측 항변은 세 가지 독립된 근거에 기초합니다. 첫째, 거주 적합성 보증으로, 항소법원이 파크 웨스트 빌리지 판결에서 판시했듯이—
 
 077. ADEYEMI: Counselor, I know Park West Village, because I went to law school. What do you want?
     아데예미: 변호사님, 파크 웨스트 빌리지는 알아요. 저도 로스쿨 나왔어요. 원하는 게 뭐예요?
@@ -248,14 +248,14 @@
 078. DAN: I'm explaining what we want. Second, there's a pattern of harassment documented in text messages from the managing agent, which I've attached as Exhibit—
     댄: 원하는 걸 설명하는 중입니다. 둘째, 관리 대리인의 문자 메시지로 기록된 괴롭힘 패턴이 있으며, 이를 증거로 첨부한 바—
 
-079. ADEYEMI: Counselor, in one sentence, what do your clients want?
-    아데예미: 변호사님, 한 문장으로, 의뢰인들이 원하는 게 뭐죠?
+079. ADEYEMI: Mr. Reardon, in one sentence, what do your clients want?
+    아데예미: 레이든 변호사님, 한 문장으로, 의뢰인들이 원하는 게 뭐죠?
 
 080. DAN: They want… They want heat.
     댄: 그분들은… 난방을 원해요.
 
-081. ADEYEMI: Thank you, and was that so hard? Barry, does your client want to give them heat?
-    아데예미: 고마워요. 그게 그렇게 어려웠어요? 배리, 의뢰인은 그분들한테 난방을 줄 생각이 있어요?
+081. ADEYEMI: Thank you, and was that so hard? Mr. Klein, does your client want to give them heat?
+    아데예미: 고마워요. 그게 그렇게 어려웠어요? 클라인 변호사님, 의뢰인은 그분들한테 난방을 줄 생각이 있어요?
 
 082. KLEIN: My client is working on the boiler situation, but these things take time, with parts, permits, and contractors.
     클라인: 의뢰인이 보일러 문제를 처리하는 중이에요. 근데 이런 건 시간이 걸려요. 부품, 허가, 시공업체.
@@ -263,8 +263,8 @@
 083. GLADYS: He's been working on it since October. He's a very slow worker.
     글래디스: 10월부터 해결 중이라네. 아주 느린 일꾼이야.
 
-084. ADEYEMI: Please, Gladys, let your lawyer talk. Counselor, I'm going to adjourn these, so come back with a proposal, something I can sign, and not forty pages.
-    아데예미: 글래디스, 변호사가 말하게 해 주세요. 변호사님, 이건 연기할게요. 제안서 들고 다시 오세요. 제가 서명할 수 있는 걸로. 40쪽 말고.
+084. ADEYEMI: Mrs. Moore, please, let your lawyer talk. Mr. Reardon, I'm going to adjourn these, so come back with a proposal, something I can sign, and not forty pages.
+    아데예미: 무어 부인, 변호사가 말하게 해 주세요. 레이든 변호사님, 이건 연기할게요. 제안서 들고 다시 오세요. 제가 서명할 수 있는 걸로. 40쪽 말고.
 
 085. DAN: How did you know it was forty pages?
     댄: 40쪽인 건 어떻게 아셨어요?
