@@ -18,10 +18,10 @@
 001. LINDA: This is box forty, the last one, serial numbers nineteen-sixty-one to two thousand. Mr. Novak, open it, please.
     린다: 40번 상자, 마지막 거예요. 일련번호 1961번부터 2000번까지. 노박 씨, 열어 주세요.
 
-002. TYLER: Opening box forty. There are forty motors in foam inserts, with test certificates on top and lot numbers on every certificate.
+002. TYLER: Opening box forty, with forty motors in foam inserts, test certificates on top, and lot numbers on every certificate.
     타일러: 40번 상자 엽니다. 모터 40개, 폼 완충재에 들어 있고, 위에 시험 성적서가 있어요. 성적서마다 로트 번호가 있고요.
 
-003. LINDA: I'm going to pick three at random. Don't tell me which ones are your favorites.
+003. LINDA: I'm going to pick three at random, and don't tell me which ones are your favorites.
     린다: 무작위로 세 개 고를게요. 어느 게 제일 아끼는 건지 말하지 마세요.
 
 004. EARL: They're all my favorites, ma'am.
@@ -30,7 +30,7 @@
 005. LINDA: That's the correct answer, Mr. Washington. I'll take nineteen sixty-four, nineteen eighty-eight, and number two thousand.
     린다: 정답이에요, 워싱턴 씨. 1964번, 1988번, 그리고 2000번으로 할게요.
 
-006. PATTY: Two thousand is the one I assembled. I put a tiny mark inside the cover, a little star. Is that allowed?
+006. PATTY: Two thousand is the one I assembled, and I put a tiny mark inside the cover, a little star. Is that allowed?
     패티: 2000번은 제가 조립한 거예요. 덮개 안에 작은 표시를 했어요. 작은 별이요. 그래도 돼요?
 
 007. LINDA: Is it in the drawing, Patty?
@@ -42,7 +42,7 @@
 009. LINDA: Then I didn't see it. Mr. Washington, put them on your test stand for the full acceptance test, thermal, vibration, and endurance, and I'll watch the whole thing.
     린다: 그럼 전 못 본 거예요. 워싱턴 씨, 시험대에 올려 주세요. 열, 진동, 내구 전체 수락 시험이요. 처음부터 끝까지 지켜볼게요.
 
-010. EARL: Betsy, you heard the lady. Show her what you've got.
+010. EARL: Betsy, you heard the lady, now show her what you've got.
     얼: 베치, 이분 말 들었지. 실력 보여 드려.
 
 011. LINDA: You talk to your equipment, I see.
@@ -51,7 +51,7 @@
 012. EARL: She listens better than most people.
     얼: 베치가 대부분 사람보다 말을 잘 들어.
 
-013. WEN: Motor nineteen sixty-four is at full power in forty-five degrees ambient. We're simulating a hot day in the desert.
+013. WEN: Motor nineteen sixty-four is at full power in forty-five degrees ambient, to simulate a hot day in the desert.
     웬: 1964번 모터, 주변 온도 45도에서 최대 출력이에요. 사막의 더운 날을 재현하는 거예요.
 
 014. MARCUS: Winding temperature is ninety-one, then ninety-three, and now it's holding at ninety-four, when the limit is one-twenty.
@@ -60,7 +60,7 @@
 015. LINDA: And what about the vibration test with the new Korean bearings?
     린다: 진동 시험은요? 새 한국산 베어링으로요.
 
-016. EARL: It's smooth as butter. You could balance a coin on her.
+016. EARL: It's smooth as butter, you could balance a coin on her.
     얼: 버터처럼 부드러워. 동전 세워도 돼.
 
 017. TYLER: Can I try? I've always wanted to do the coin thing.
@@ -72,10 +72,10 @@
 019. LINDA: Number two thousand, Patty's motor. This is the endurance test, thirty minutes at eighty percent and then a stop-start cycle, like a soldier flying it hard all night.
     린다: 2000번, 패티 씨 모터예요. 내구 시험이에요. 80퍼센트로 30분, 그다음 정지·시동 반복이요. 병사가 밤새 거칠게 날리는 것처럼요.
 
-020. PATTY: I can't watch. Tell me when it's over.
+020. PATTY: I can't watch, just tell me when it's over.
     패티: 못 보겠어요. 끝나면 말해 주세요.
 
-021. GLORIA: Patty, you assembled a motor that's about to go to the Army. Watch it, you earned it.
+021. GLORIA: Patty, you assembled a motor that's about to go to the Army, so watch it. You earned it.
     글로리아: 패티, 네가 조립한 모터가 육군으로 가려는 참이야. 봐. 네가 그럴 자격 있어.
 
 022. WEN: After thirty minutes, the temperature is flat, and after two hundred stop-start cycles, there are no faults and no drift.
@@ -93,10 +93,10 @@
 026. TYLER: Yes! Yes, yes, yes, we did it!
     타일러: 예스! 예스, 예스, 예스, 해냈어요!
 
-027. LINDA: Mr. Novak, please don't hug me. It's not in the agreement.
+027. LINDA: Mr. Novak, please don't hug me, it's not in the agreement.
     린다: 노박 씨, 안지 마세요. 협약서에 없는 내용이에요.
 
-028. TYLER: Copy that. I'll hug Earl instead.
+028. TYLER: Copy that, I'll hug Earl instead.
     타일러: 접수. 그럼 얼을 안을게요.
 
 029. EARL: You will not, kid.
@@ -108,10 +108,10 @@
 031. SAM: Thank you, Linda, for everything, even for the rules.
     샘: 고마워요, 린다. 전부 다요. 규정까지도요.
 
-032. LINDA: Don't thank me for the rules. Nobody thanks me for the rules. Now for the bad news, which comes with congratulations. Now the real paperwork starts.
+032. LINDA: Don't thank me for the rules, nobody does. Now for the bad news, which comes with congratulations. Now the real paperwork starts.
     린다: 규정 때문에 고마워하지 마세요. 아무도 안 그래요. 이제 나쁜 소식이에요, 축하와 함께 오는. 이제 진짜 서류 작업이 시작됩니다.
 
-033. GLORIA: The real paperwork? Then what was the last three months?
+033. GLORIA: If that's the real paperwork, what was the last three months?
     글로리아: 진짜 서류 작업이라니. 그럼 지난 석 달은 뭐였는데?
 
 034. LINDA: The last three months were a prototype, Ms. Banks. Follow-on production is a real contract with bigger numbers and more rules. And before we sign it, your cybersecurity needs an outside assessment, not a self-assessment.
@@ -123,7 +123,7 @@
 036. LINDA: Then get in line today. Mr. Kowalski, one more thing about Dr. Liu's waiver. I asked this morning, and it's still under review.
     린다: 그럼 오늘 줄 서세요. 코왈스키 씨, 하나 더요. 리우 박사님 웨이버, 오늘 아침에 물어봤는데 아직 검토 중이에요.
 
-037. WEN: Still under review. In government, that's better than "no," right?
+037. WEN: Still under review is better than "no" in government, right?
     웬: 아직 검토 중이라. 정부에선 그게 "안 된다"보단 낫죠?
 
 038. LINDA: In government, "under review" can last longer than some marriages, but it's not "no." And Dr. Liu, I wrote a note in your file saying the firewall plan worked, and that the person outside the fence wrote page forty-one.
@@ -150,13 +150,13 @@
 045. SAM: I'll tell you where we are, and I'll be honest, since you were honest with me in November.
     샘: 어디까지 왔는지 말씀드릴게요. 솔직하게요. 11월에 저한테 솔직하셨으니까요.
 
-046. WYATT: I appreciate that. Honesty saves everybody a lot of time.
+046. WYATT: I appreciate that, honesty saves everybody a lot of time.
     와이엇: 감사합니다. 솔직함은 모두의 시간을 아껴 주죠.
 
-047. SAM: We're grateful for the offer. The money is real, and the country needs what we build. But we won't accept the golden share in any form. That's our walk-away point.
+047. SAM: We're grateful for the offer. The money is real, and the country needs what we build, but we won't accept the golden share in any form. That's our walk-away point.
     샘: 제안은 감사해요. 돈은 진짜고, 나라엔 우리가 만드는 게 필요하죠. 하지만 황금주는 어떤 형태로도 받지 않겠습니다. 그게 우리가 물러설 수 없는 선이에요.
 
-048. WYATT: A walk-away point. You've been talking to lawyers.
+048. WYATT: You said walk-away point, so you've been talking to lawyers.
     와이엇: 결렬 기준점이라. 변호사들이랑 얘기하셨군요.
 
 049. BEN: Just one, but a very expensive one.
@@ -189,13 +189,13 @@
 058. WYATT: Your father would have been a good negotiator.
     와이엇: 아버님이 훌륭한 협상가가 되셨겠네요.
 
-059. SAM: He was a union steward for eleven years. He was a good negotiator.
+059. SAM: He was a union steward for eleven years, so yes, he was a good negotiator.
     샘: 11년 동안 노조 대의원이셨어요. 좋은 협상가셨죠.
 
 060. WYATT: So what you're saying is no.
     와이엇: 그러니까 거절하신다는 거군요.
 
-061. SAM: I'm saying no to the golden share, but I'm not saying no to you. We have a counterproposal.
+061. SAM: I'm saying no to the golden share, but not to you, because we have a counterproposal.
     샘: 황금주를 거절하는 거지, 당신을 거절하는 게 아니에요. 역제안이 있어요.
 
 062. WYATT: I'm listening. Show me what you've got, Mr. Kowalski.
@@ -204,7 +204,7 @@
 063. GLORIA: Here it is on one page, with no adjectives. It's a loan of twenty-five million dollars at the standard government rate for ten years, which builds the second drone line and a real test center.
     글로리아: 여기 한 장짜리예요. 형용사 없이. 정부 표준 금리로 10년, 2,500만 달러 대출. 그걸로 두 번째 드론 라인이랑 제대로 된 시험 센터를 지어요.
 
-064. WYATT: Twenty-five. That's half of what I offered.
+064. WYATT: Twenty-five, half of what I offered.
     와이엇: 2,500만이라. 제가 제안한 것의 절반이네요.
 
 065. GLORIA: Half, because we don't need fifty right now. We need twenty-five, and we can pay it back. Mr. Wyatt, I was a banker for twenty-five years, and I don't borrow what I don't need.
@@ -213,7 +213,7 @@
 066. WYATT: And what about the grant, the fifteen million?
     와이엇: 보조금은요? 1,500만 달러.
 
-067. GLORIA: We don't want it. Free money always has the most strings.
+067. GLORIA: We don't want it, free money always has the most strings.
     글로리아: 안 받아요. 공짜 돈에 끈이 제일 많이 달려 있거든요.
 
 068. WYATT: That's a very unusual thing to hear in my office.
@@ -225,7 +225,7 @@
 070. WYATT: Two percent is small, though.
     와이엇: 2퍼센트는 작은데요.
 
-071. BEN: It's two percent of a company that just delivered to the Army fifteen days early. A company with a patent that survived Calloway's challenge. It's only small today.
+071. BEN: It's two percent of a company that just delivered to the Army fifteen days early, with a patent that survived Calloway's challenge. It's only small today.
     벤: 방금 육군에 15일 일찍 납품한 회사의 2퍼센트예요. 캘러웨이의 공격을 견딘 특허를 가진 회사의 2퍼센트고요. 오늘 작을 뿐이죠.
 
 072. WYATT: And what about the special share?
@@ -240,7 +240,7 @@
 075. BEN: The government can always say no through the normal process, Mr. Wyatt. A foreign buyer still goes through security review. We're not asking you to give up the law, we're asking you not to add a private key on top of it.
     벤: 정부는 언제든 정상 절차로 안 된다고 할 수 있어요, 와이엇 씨. 외국 구매자는 여전히 안보 심사를 거치니까. 법을 포기하라는 게 아니라, 그 위에 개인 열쇠를 하나 더 얹지 말라는 거예요.
 
-076. WYATT: Mr. Kowalski, if I take this back to my boss, he's going to ask me one question. What does the country get?
+076. WYATT: Mr. Kowalski, if I take this back to my boss, he's going to ask me one question: what does the country get?
     와이엇: 코왈스키 씨, 이걸 상관한테 가져가면 질문 하나를 할 겁니다. 나라는 뭘 얻느냐.
 
 077. SAM: The country gets motors without China, made in Ohio, for soldiers and, starting this spring, for farmers.
@@ -252,7 +252,7 @@
 079. SAM: After the Covered List, a man in Nebraska told me somebody should have built the American version before they banned the Chinese one. We're going to build it, spraying drones and maybe tractors.
     샘: 대상 목록 발표 후에 네브래스카의 어떤 분이, 중국산을 금지하기 전에 누가 미국판을 만들어 놨어야 했다고 하더군요. 우리가 만들 거예요. 방제 드론, 어쩌면 트랙터도요.
 
-080. WYATT: That's a good line. Can I use it?
+080. WYATT: That's a good line, mind if I use it?
     와이엇: 좋은 말이네요. 써도 될까요?
 
 081. SAM: It's not mine, it's Hank's, but sure.
@@ -267,7 +267,7 @@
 084. WYATT: She's mostly right, but here's my honest view. Most companies I visit say yes in the first meeting. They're scared, they need money, and I'm the man in the black car. You didn't say yes, you asked seven questions.
     와이엇: 대체로 맞는 말씀이죠. 제 솔직한 생각은 이래요. 제가 찾아가는 회사 대부분은 첫 만남에서 예스 해요. 겁나고, 돈이 필요하고, 제가 검은 차 탄 사람이니까요. 근데 여러분은 예스 대신 질문 일곱 개를 했죠.
 
-085. BEN: Seven good ones. Nine looks nervous.
+085. BEN: Seven good ones, since nine looks nervous.
     벤: 좋은 걸로 일곱 개요. 아홉 개는 불안해 보이거든요.
 
 086. WYATT: The golden share was always the part my boss wanted most, and the part I believed in least. Between us, I'll take this to him and argue for it.
@@ -285,10 +285,10 @@
 090. WYATT: The middle in Washington is wherever the last person who's still talking says it is. Let me make one call, I'll step outside.
     와이엇: 워싱턴의 중간은 마지막까지 말하는 사람이 정하는 곳이에요. 전화 한 통 할게요. 잠깐 나가 있겠습니다.
 
-091. TYLER: He's been outside for twenty minutes in minus twelve. Is he okay?
+091. TYLER: He's been outside for twenty minutes in minus twelve, is he okay?
     타일러: 밖에 20분째 있어요. 영하 12도에. 괜찮은 거예요?
 
-092. EARL: He's a Washington guy, and they're warm-blooded. They live on coffee and power.
+092. EARL: He's a Washington guy, and they're warm-blooded, living on coffee and power.
     얼: 워싱턴 사람이잖아. 피가 뜨거워. 커피랑 권력으로 사니까.
 
 093. GLORIA: Sam, if he comes back with no, what do we do?
@@ -318,7 +318,7 @@
 101. SAM: We have a deal, in principle.
     샘: 합의했어요. 원칙적으로요.
 
-102. WYATT: In principle. That's your lawyer's influence again.
+102. WYATT: In principle, that's your lawyer's influence again.
     와이엇: 원칙적으로라. 또 변호사님 영향이군요.
 
 103. BEN: We'll sign when it's in writing, in February.
@@ -333,34 +333,34 @@
 106. WYATT: You've already said that, Mr. Kowalski.
     와이엇: 이미 말씀하셨잖아요, 코왈스키 씨.
 
-107. SAM: I know. I just wanted to say it politely one more time, because my father would want me to.
+107. SAM: I know, I just wanted to say it politely one more time, because my father would want me to.
     샘: 알아요. 그냥 한 번 더 정중하게 말하고 싶었어요. 아버지가 그러길 바라실 테니까요.
 
 108. WYATT: Then tell your father he won, and tell him he'd be welcome in Washington if he ever wants to negotiate for us.
     와이엇: 그럼 아버님께 이기셨다고 전해 주세요. 그리고 저희 쪽 협상가로 나서고 싶으시면 워싱턴에서 언제든 환영한다고요.
 
-109. SAM: He'd say no. He doesn't like Washington.
+109. SAM: He'd say no, he doesn't like Washington.
     샘: 거절하실 거예요. 워싱턴 안 좋아하시거든요.
 
-110. WYATT: Nobody likes Washington, Mr. Kowalski. That's how you know it's working.
+110. WYATT: Nobody likes Washington, Mr. Kowalski, and that's how you know it's working.
     와이엇: 아무도 워싱턴을 안 좋아해요, 코왈스키 씨. 그래야 제대로 돌아가고 있다는 거죠.
 
 111. TYLER: The truck's backing up! Everybody, the Halcyon truck's at the dock for forty boxes!
     타일러: 트럭 후진해요! 다들, 할시온 트럭이 하역장에 왔어요! 상자 40개요!
 
-112. EARL: Patty, you load the last box, number forty. You earned it.
+112. EARL: Patty, you load the last box, number forty, you earned it.
     얼: 패티, 마지막 상자 40번은 네가 실어. 그럴 자격 있어.
 
 113. PATTY: Me? Earl, I'm going to cry.
     패티: 제가요? 얼, 저 울 것 같아요.
 
-114. EARL: Cry after you put it down, not before. That's a two-thousand-dollar box.
+114. EARL: Cry after you put it down, not before, it's a two-thousand-dollar box.
     얼: 내려놓고 울어. 그 전엔 안 돼. 2천 달러짜리 상자야.
 
 115. STAN: Did I miss it? Erin said three o'clock, so I took the bus.
     스탠: 내가 놓쳤냐? 에린이 세 시라길래 버스 타고 왔다.
 
-116. SAM: Dad! You didn't miss it, the truck's still here. Come stand next to me.
+116. SAM: Dad! You didn't miss it, the truck's still here, so come stand next to me.
     샘: 아버지! 안 놓치셨어요. 트럭 아직 있어요. 제 옆에 서세요.
 
 117. STAN: Two thousand motors for the Army, made in Moraine. In the war, before my time, GM built a lot of things for the Army, and my father was one of the guys who built them.
@@ -375,7 +375,7 @@
 120. SAM: Dad, I said no to the golden share, and I said, "No, thank you," politely, twice.
     샘: 아버지, 황금주 거절했어요. "사양하겠습니다"라고요. 정중하게, 두 번.
 
-121. STAN: Twice? Good. The first time is for them, and the second time is for you.
+121. STAN: Twice? Good, because the first time is for them and the second time is for you.
     스탠: 두 번? 잘했다. 첫 번째는 그쪽을 위한 거고, 두 번째는 너를 위한 거다.
 
 122. GLORIA: Everybody, before the truck leaves, look at my board!
@@ -390,7 +390,7 @@
 125. EARL: Fourteen weeks, and one customer who doesn't expire. Metal don't lie, Gloria, and neither does your board.
     얼: 14주. 유효기간 없는 고객 하나. 쇠는 거짓말 안 해, 글로리아. 네 칠판도 그렇고.
 
-126. ERIN: You're home before nine on a Tuesday. Should I call a doctor?
+126. ERIN: You're home before nine on a Tuesday, should I call a doctor?
     에린: 화요일인데 아홉 시 전에 집에 왔네. 의사 불러야 해?
 
 127. SAM: Call the whole emergency room. We delivered two thousand motors fifteen days early, and I said no to the golden share, and the government said okay.
@@ -405,7 +405,7 @@
 130. SAM: Grandpa's learning. How about you, Lil, any news from Purdue?
     샘: 할아버지도 배우시네. 넌 어때, 릴? 퍼듀에서 소식 있어?
 
-131. LILY: I got deferred. They want to see my grades from this semester, and they'll decide in March.
+131. LILY: I got deferred, they want to see my grades from this semester and they'll decide in March.
     릴리: 보류됐어. 이번 학기 성적을 보고 싶대. 3월에 결정한대.
 
 132. SAM: Deferred, but that's not a no.
@@ -420,13 +420,13 @@
 135. SAM: Iowa? I don't know anybody in Iowa.
     샘: 아이오와? 아이오와에 아는 사람 없는데.
 
-136. LILY: Open it! Nobody sends real letters anymore. It's like a letter out of the blue from the eighteen hundreds!
+136. LILY: Open it! Nobody sends real letters anymore, it's like a letter out of the blue from the eighteen hundreds!
     릴리: 열어 봐! 요즘 진짜 편지 보내는 사람 없잖아. 1800년대에서 난데없이 날아온 편지 같아!
 
 137. SAM: "Dear Mr. Kowalski. My name is Dale Amundsen. I farm corn and soybeans in Story County, Iowa, with my wife, Ruth. Same land my grandfather farmed."
     샘: "코왈스키 씨께. 저는 데일 아먼슨이라고 합니다. 아이오와주 스토리 카운티에서 아내 루스와 옥수수와 대두 농사를 짓습니다. 제 할아버지가 짓던 땅입니다."
 
-138. ERIN: Keep going, don't stop there. I want to hear it.
+138. ERIN: Keep going, don't stop there, I want to hear it.
     에린: 계속 읽어. 거기서 멈추지 마. 듣고 싶어.
 
 139. SAM: "I got your name from Hank Lindqvist in Nebraska. Hank says you're the only motor man in America who answered the phone on the worst day of his year and didn't hang up."

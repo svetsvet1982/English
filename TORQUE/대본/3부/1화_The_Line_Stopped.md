@@ -33,20 +33,20 @@
 006. SAM: You mean Chicago, and the whole plant is down?
     샘: 시카고 말씀이죠? 공장 전체가 멈췄다고요?
 
-007. FRANK: The whole line is down, and four thousand people got sent home. We ran out of seat motors, and we're two weeks from running out of coolant pump motors, because both use rare-earth magnets from China and the licenses aren't coming.
-    프랭크: 라인 전체가 멈췄고 사천 명이 집으로 돌아갔어요. 시트 모터가 바닥났고 냉각수 펌프 모터도 2주 뒤면 바닥나요. 둘 다 중국산 희토류 자석을 쓰는데 수출 허가가 안 나오거든요.
+007. FRANK: The whole line is down, and four thousand people got sent home. We ran out of seat motors, and we're two weeks from running out of coolant pump motors. Both use rare-earth magnets from China, and the licenses aren't coming.
+    프랭크: 라인 전체가 멈췄고 사천 명이 집으로 돌아갔어요. 시트 모터가 바닥났고 냉각수 펌프 모터도 2주 뒤면 바닥나요. 둘 다 중국산 희토류 자석을 쓰는데 수출 허가가 안 나와요.
 
-008. SAM: I'm really sorry, Frank, that's terrible, so tell me what I can do.
+008. SAM: I'm really sorry, Frank, that's terrible. Tell me what I can do.
     샘: 정말 안됐네요, 프랭크. 끔찍하네요. 제가 뭘 하면 될지 말씀하세요.
 
-009. FRANK: You can get on a plane, because I want you in Chicago by noon. I want you to see what a stopped plant looks like, and then I want to talk numbers.
+009. FRANK: You can get on a plane. I want you in Chicago by noon. I want you to see what a stopped plant looks like, and then I want to talk numbers.
     프랭크: 비행기 타면 돼요. 정오까지 시카고로 와요. 멈춘 공장이 어떤 모습인지 직접 보고, 그다음에 숫자 얘기 합시다.
 
 010. SAM: Okay, I can be there by noon, and I'll bring my sales guy, Tyler.
     샘: 알겠습니다, 정오까지 갈 수 있어요. 영업 담당 타일러를 데려갈게요.
 
-011. FRANK: Bring whoever you want, as long as you bring samples. And Sam, don't tell anybody where you're going, because in Detroit a stopped plant is a stock price.
-    프랭크: 누구든 데려와요, 샘플만 챙기면. 그리고 샘, 어디 가는지 아무한테도 말하지 마요. 디트로이트에선 멈춘 공장이 곧 주가니까.
+011. FRANK: Bring whoever you want, as long as you bring samples. And Sam, don't tell anybody where you're going. In Detroit, a stopped plant is a stock price.
+    프랭크: 누구든 데려와요, 샘플만 챙기면. 그리고 샘, 어디 가는지 아무한테도 말하지 마요. 디트로이트에선 멈춘 공장이 곧 주가예요.
 
 012. SAM: Understood, Frank, I'll see you at noon.
     샘: 알겠습니다, 프랭크. 정오에 뵙죠.
@@ -54,7 +54,7 @@
 013. ERIN: You're going to Chicago today, when the Haverford people are coming at two?
     에린: 오늘 시카고를 간다고? 두 시에 해버퍼드 사람들 오는데?
 
-014. SAM: Gloria can handle Haverford. Erin, a car plant just stopped because of magnets, which is exactly what Wen said would happen, and they called us.
+014. SAM: Gloria can handle Haverford. Erin, a car plant just stopped because of magnets, exactly like Wen said it would, and they called us.
     샘: 해버퍼드는 글로리아가 맡으면 돼. 에린, 자동차 공장이 자석 때문에 멈췄어. 웬이 말한 그대로야. 그리고 우리한테 전화했다고.
 
 015. ERIN: I heard, and I'm proud of you. I'm also on a twelve-hour shift today, and I'm the one who has to tell Lily you'll miss her robotics banquet again.
@@ -66,13 +66,13 @@
 017. ERIN: It's at seven o'clock, she's getting an award, and she told you about it twice.
     에린: 일곱 시야. 상 받아. 두 번이나 말했잖아.
 
-018. SAM: I'll try to be back, and I mean it, because Chicago is only an hour away by plane.
-    샘: 돌아오도록 해 볼게, 진짜로. 시카고는 비행기로 한 시간이면 되니까.
+018. SAM: I'll try to be back, and I mean it. Chicago is only an hour away by plane.
+    샘: 돌아오도록 해 볼게, 진짜로. 시카고는 비행기로 한 시간이면 돼.
 
-019. ERIN: Don't promise, just try. And take a clean shirt, because you always spill coffee on the plane.
+019. ERIN: Don't promise, just try. And take a clean shirt. You always spill coffee on the plane.
     에린: 약속하지 말고 그냥 노력해. 그리고 깨끗한 셔츠 챙겨. 당신 비행기에서 맨날 커피 쏟잖아.
 
-020. SAM: Tyler, wake up and pack a bag, and grab the seat motor samples on your way, because we're flying to Chicago at eight.
+020. SAM: Tyler, wake up and pack a bag. Grab the seat motor samples on your way, we're flying to Chicago at eight.
     샘: 타일러, 일어나서 가방 싸. 오는 길에 시트 모터 샘플 챙기고. 여덟 시에 시카고 가.
 
 021. TYLER: Copy that. Wait, which samples do you want, the ones from the Haverford demo or the ones Wen told us never to touch?
@@ -90,13 +90,13 @@
 025. TYLER: Whoa, okay, I'm up, I'm really up, and I'm putting on pants right now.
     타일러: 와, 알겠어요, 일어났어요, 진짜 일어났어요. 지금 바지 입는 중이에요.
 
-026. WEN: Earl told me you took the samples. Sam, those aren't finished, because the firmware on them is still version five point one, beta.
+026. WEN: Earl told me you took the samples. Sam, those aren't finished. The firmware on them is still version five point one, beta.
     웬: 샘플 가져가셨다고 얼이 말해 줬어요. 샘, 그거 완성품 아니에요. 펌웨어가 아직 5.1 베타 버전이에요.
 
 027. SAM: I know, and I'm sorry, but Frank asked for samples and those are the only seat motors we have.
     샘: 알아요, 미안해요. 근데 프랭크가 샘플을 달라고 했는데 우리한테 있는 시트 모터가 그것뿐이라서요.
 
-028. WEN: Then tell him the truth, which is that they work but they're not validated for cars. If he puts them in a seat and they fail, he won't blame the beta, he'll blame us.
+028. WEN: Then tell him the truth. They work, but they're not validated for cars. If he puts them in a seat and they fail, he won't blame the beta, he'll blame us.
     웬: 그럼 사실대로 말하세요. 작동은 하지만 자동차용으로 검증은 안 됐다고요. 그 사람이 시트에 넣었다가 고장 나면, 베타를 탓하지 않고 우리를 탓할 거예요.
 
 029. SAM: I'll tell him. Now honestly, if we had to, what's the most seat motors we could make in a month?
@@ -105,25 +105,25 @@
 030. WEN: Honestly, with Haverford running, it's about four thousand a month. Maybe we could do six with a third shift, if Earl doesn't kill anyone.
     웬: 솔직히 해버퍼드 물량 돌리면서면 한 달에 사천 개쯤이요. 3교대 하면 육천 개쯤 될 수도 있어요. 얼이 누굴 죽이지 않는다면요.
 
-031. TYLER: We're boarding in ten. Hey, my phone says the Geneva deal is holding and tariffs on China are down for ninety days, so why aren't the magnets coming?
-    타일러: 10분 뒤 탑승이에요. 저기, 폰에 제네바 합의가 유지되고 있고 중국 관세가 90일 동안 내려갔다고 뜨는데요, 그럼 자석은 왜 안 오는 거예요?
+031. TYLER: We're boarding in ten. Hey, my phone says the Geneva deal is holding and tariffs on China are down for ninety days. So why aren't the magnets coming?
+    타일러: 10분 뒤 탑승이에요. 저기, 폰에 제네바 합의가 유지되고 있고 중국 관세가 90일 동안 내려갔다고 뜨는데요. 그럼 자석은 왜 안 오는 거예요?
 
-032. WEN: Because magnets aren't about tariffs, Tyler, they're about licenses. A government can lower a tariff on Monday and still sit on a license for three months, which is what I mean when I say different door, different key.
-    웬: 자석은 관세 문제가 아니라 허가 문제니까요, 타일러. 정부는 월요일에 관세를 내리고도 허가는 석 달 동안 깔고 앉아 있을 수 있어요. 문이 다르면 열쇠도 다르다는 게 그 뜻이에요.
+032. WEN: Because magnets aren't about tariffs, Tyler, they're about licenses. A government can lower a tariff on Monday and still sit on a license for three months. Different door, different key.
+    웬: 자석은 관세 문제가 아니라 허가 문제니까요, 타일러. 정부는 월요일에 관세를 내리고도 허가는 석 달 동안 깔고 앉아 있을 수 있어요. 문이 다르면 열쇠도 다른 거예요.
 
 033. TYLER: Got it. Sam, Gloria's on the other line, and she sounds calm, which honestly is scary.
     타일러: 알겠어요. 샘, 글로리아가 다른 회선에 있는데요, 목소리가 차분해요. 솔직히 그게 무서워요.
 
-034. GLORIA: I'm calm because I've had one cup of coffee, so listen to me. Whatever this man offers, you don't say yes in the room, you just say, "Let me talk to my CFO."
-    글로리아: 커피 한 잔 마셔서 차분한 거야, 그러니까 잘 들어. 그 사람이 뭘 제안하든 그 방에서 '네' 하지 마. 그냥 "CFO랑 얘기해 볼게요"라고 해.
+034. GLORIA: I'm calm because I've had one cup of coffee. Now listen to me. Whatever this man offers, you don't say yes in the room. You just say, "Let me talk to my CFO."
+    글로리아: 커피 한 잔 마셔서 차분한 거야. 이제 잘 들어. 그 사람이 뭘 제안하든 그 방에서 '네' 하지 마. 그냥 "CFO랑 얘기해 볼게요"라고 해.
 
 035. SAM: Gloria, a plant is stopped and they need help today.
     샘: 글로리아, 공장이 멈췄고 오늘 도움이 필요하다고요.
 
-036. GLORIA: And Detroit has a long history of loving small suppliers on Monday and squeezing them on Friday. Our runway is nineteen weeks, baby, which is the highest it's ever been, and I'd like to keep it that way.
+036. GLORIA: And Detroit has a long history of loving small suppliers on Monday and squeezing them on Friday. Our runway is nineteen weeks, baby, the highest it's ever been, and I'd like to keep it that way.
     글로리아: 그리고 디트로이트는 월요일엔 작은 협력사를 사랑하고 금요일엔 쥐어짜는 오랜 전통이 있어. 우리 런웨이 19주야, 얘. 역대 최고고, 난 그걸 지키고 싶어.
 
-037. SAM: I know it's nineteen, because I saw it on the board in green marker again.
+037. SAM: I know it's nineteen. I saw it on the board in green marker again.
     샘: 19주인 거 알아요. 칠판에 또 초록색으로 써 있는 거 봤어요.
 
 038. GLORIA: Then remember that board when you're sitting in the room, and say it with me.
@@ -132,17 +132,17 @@
 039. SAM: "Let me talk to my CFO."
     샘: "CFO랑 얘기해 볼게요."
 
-040. GLORIA: Good. And call Erin, because everybody knows about the banquet except you, baby.
-    글로리아: 잘했어. 그리고 에린한테 전화해. 시상식 얘기는 너 빼고 다 아니까, 얘.
+040. GLORIA: Good. And call Erin. Everybody knows about the banquet except you, baby.
+    글로리아: 잘했어. 그리고 에린한테 전화해. 시상식 얘기는 너 빼고 다 알아, 얘.
 
-041. FRANK: So you're Sam Kowalski, and you're shorter than you sound on the phone. Welcome to Chicago Assembly, which has been idle since eleven last night. This is what a million dollars an hour looks like when it isn't moving.
+041. FRANK: So you're Sam Kowalski. You're shorter than you sound on the phone. Welcome to Chicago Assembly, idle since eleven last night. This is what a million dollars an hour looks like when it isn't moving.
     프랭크: 당신이 샘 코왈스키구먼. 전화 목소리보다 키가 작네요. 시카고 조립공장에 온 걸 환영해요. 어젯밤 열한 시부터 놀고 있죠. 시간당 백만 달러짜리가 안 움직이면 이렇게 생겼어요.
 
 042. SAM: Does it really cost a million dollars an hour?
     샘: 정말 시간당 백만 달러나 들어요?
 
-043. FRANK: Roughly, yes, because every hour this line doesn't run, we don't build about sixty vehicles. You can do the math yourself, and my boss does it out loud every fifteen minutes.
-    프랭크: 대충 그래요. 이 라인이 한 시간 안 돌 때마다 차를 육십 대쯤 못 만드니까. 계산은 직접 해 봐요. 우리 상사는 15분마다 소리 내서 계산하던데.
+043. FRANK: Roughly, yes. Every hour this line doesn't run, we don't build about sixty vehicles. You can do the math yourself, and my boss does it out loud every fifteen minutes.
+    프랭크: 대충 그래요. 이 라인이 한 시간 안 돌 때마다 차를 육십 대쯤 못 만들어요. 계산은 직접 해 봐요. 우리 상사는 15분마다 소리 내서 계산하던데.
 
 044. TYLER: It's so quiet in here, and I always thought a car plant would be loud.
     타일러: 여기 엄청 조용하네요. 자동차 공장은 늘 시끄러울 줄 알았는데.
@@ -153,7 +153,7 @@
 046. SAM: How many vehicles are sitting there half built?
     샘: 반쯤 만들어진 채로 서 있는 차가 몇 대예요?
 
-047. FRANK: About eleven hundred Summits, and every one of them is finished except the seats. No seats means no sale, because you can't ship a forty-eight-thousand-dollar SUV with milk crates in the front.
+047. FRANK: About eleven hundred Summits, and every one of them is finished except the seats. No seats, no sale. You can't ship a forty-eight-thousand-dollar SUV with milk crates in the front.
     프랭크: 서밋이 천백 대쯤요. 시트만 빼고 전부 다 됐어요. 시트가 없으면 못 팔아요. 4만 8천 달러짜리 SUV 앞자리에 우유 상자 놓고 출고할 순 없잖아요.
 
 048. TYLER: Milk crates in the front would be a pretty bold option package.
@@ -171,7 +171,7 @@
 052. TERRELL: It'll be twenty-three in September. So you're the magnet guys?
     테럴: 9월이면 23년이에요. 그쪽이 자석 하는 사람들이에요?
 
-053. SAM: We're the no-magnet guys, actually, although we do use magnets, just not rare-earth ones. Ours are ferrite, which is the same stuff as a refrigerator magnet, only smarter.
+053. SAM: We're the no-magnet guys, actually. Well, we do use magnets, just not rare-earth ones. Ours are ferrite, the same stuff as a refrigerator magnet, only smarter.
     샘: 사실 자석 안 하는 사람들이에요. 아, 자석은 쓰는데 희토류 자석만 안 써요. 우리 건 페라이트예요. 냉장고 자석이랑 같은 재료인데 좀 더 똑똑할 뿐이죠.
 
 054. TERRELL: I don't care what they're made of, man, I care if they show up. They told us Tuesday night not to come in tomorrow, and they didn't give us any date to come back.
@@ -180,8 +180,8 @@
 055. SAM: Are you getting paid while you're out?
     샘: 쉬는 동안 급여는 나와요?
 
-056. TERRELL: Some, because the union contract covers part of it. But my daughter starts community college in August, and "part of it" doesn't cover part of anything.
-    테럴: 조금요, 노조 계약으로 일부는 나오니까. 근데 우리 딸이 8월에 커뮤니티 칼리지 들어가는데, '일부'로는 아무것도 '일부'조차 안 돼요.
+056. TERRELL: Some. The union contract covers part of it. But my daughter starts community college in August, and "part of it" doesn't cover part of anything.
+    테럴: 조금요. 노조 계약으로 일부는 나와요. 근데 우리 딸이 8월에 커뮤니티 칼리지 들어가는데, '일부'로는 아무것도 '일부'조차 안 돼요.
 
 057. SAM: I hear you. My father was laid off from a GM plant in Moraine after thirty-two years, and they closed it with a memo.
     샘: 무슨 말인지 알아요. 우리 아버지가 모레인 GM 공장에서 32년 일하고 해고됐어요. 메모 한 장으로 문을 닫았죠.
@@ -207,22 +207,22 @@
 064. TERRELL: It's exactly like that, except the bus pays your mortgage.
     테럴: 딱 그래요. 그 버스가 주택 대출을 갚아 준다는 것만 빼면.
 
-065. SAM: Terrell, I can't promise you anything today, but I'll tell you what I tell my own people, which is that I'll tell you the truth when I know it.
+065. SAM: Terrell, I can't promise you anything today. But I'll tell you what I tell my own people. I'll tell you the truth when I know it.
     샘: 테럴, 오늘은 아무것도 약속 못 해요. 근데 우리 직원들한테 하는 말을 똑같이 할게요. 알게 되면 사실대로 말해 줄게요.
 
 066. TERRELL: That's more than I get from the TV, where they keep saying "temporary production adjustment." I've never once adjusted my mortgage temporarily.
     테럴: TV보단 낫네요. 거기선 계속 '일시적 생산 조정'이래요. 난 주택 대출을 일시적으로 조정해 본 적이 한 번도 없는데.
 
-067. FRANK: Okay, let me show you the seat line, which is where your motors would go if they were real and if they worked.
+067. FRANK: Okay, let me show you the seat line. This is where your motors would go, if they were real and if they worked.
     프랭크: 자, 시트 라인 보여 줄게요. 그쪽 모터가 진짜고 제대로 돌아간다면 여기 들어갈 거예요.
 
-068. SAM: They're real and they work, so go ahead and show him, Tyler.
+068. SAM: They're real, and they work. Go ahead and show him, Tyler.
     샘: 진짜고 돌아가요. 타일러, 보여 드려.
 
 069. TYLER: This is our seat adjuster motor, and it's completely rare-earth-free. It moves the seat forward and back and up and down, and it holds its position with the power off.
     타일러: 이게 저희 시트 조절 모터고, 희토류가 전혀 없어요. 시트를 앞뒤, 위아래로 움직이고, 전원이 꺼져도 위치를 잡고 있어요.
 
-070. FRANK: It's bigger than ours, so is it going to fit in the track?
+070. FRANK: It's bigger than ours. Is it going to fit in the track?
     프랭크: 우리 거보다 크네. 레일에 들어가겠어요?
 
 071. SAM: It's about four millimeters longer, and our CTO says she can shorten it, but not by August.
@@ -261,7 +261,7 @@
 082. SAM: That's the best spec I've ever heard in my life.
     샘: 제가 들어 본 사양 중에 최고네요.
 
-083. TERRELL: Then write it down, because nobody in an office ever writes it down.
+083. TERRELL: Then write it down. Nobody in an office ever writes it down.
     테럴: 그럼 적어 둬요. 사무실 사람들은 절대 안 적거든요.
 
 084. TYLER: I'm writing it down right now, "connector clicks the first time," so I've got it.
@@ -276,7 +276,7 @@
 087. FRANK: I'll call you myself, and I'll do it before the TV does.
     프랭크: 내가 직접 할게. TV보다 먼저.
 
-088. TERRELL: Okay. Hey, Ohio, it was nice to meet you, so make that thing fit.
+088. TERRELL: Okay. Hey, Ohio, it was nice to meet you. Make that thing fit.
     테럴: 알았어요. 저기, 오하이오, 만나서 반가웠어요. 그거 꼭 들어가게 만들어요.
 
 089. SAM: We'll do our best, and you take care of your daughter.
@@ -285,23 +285,23 @@
 090. TYLER: Sam, did you see his face when he held it? He wasn't looking at a motor, he was looking at August.
     타일러: 샘, 그 사람이 모터 들었을 때 얼굴 봤어요? 모터를 보는 게 아니라 8월을 보고 있었어요.
 
-091. FRANK: Sit down, and excuse the coffee, because it's plant coffee. It's been sitting there since the line stopped, so it's about as old as the crisis.
-    프랭크: 앉아요. 커피는 양해해요, 공장 커피라. 라인 멈춘 뒤로 계속 저기 있었으니까 이번 위기랑 나이가 같아요.
+091. FRANK: Sit down, and excuse the coffee. It's plant coffee, and it's been sitting there since the line stopped, so it's about as old as the crisis.
+    프랭크: 앉아요. 커피는 양해해요. 공장 커피인데 라인 멈춘 뒤로 계속 저기 있었으니까 이번 위기랑 나이가 같아요.
 
-092. SAM: I've had worse, believe me, because our coffee machine sounds like a goose.
-    샘: 더 나쁜 것도 마셔 봤어요. 우리 커피 머신은 거위 소리가 나거든요.
+092. SAM: I've had worse, believe me. Our coffee machine sounds like a goose.
+    샘: 더 나쁜 것도 마셔 봤어요. 우리 커피 머신은 거위 소리가 나요.
 
-093. FRANK: Let me tell you how this works so you're not surprised later. I'm the purchasing director, so I buy things, but I don't decide alone. Engineering decides if it's good, Quality decides if it's safe, and Finance decides if it's cheap.
+093. FRANK: Let me tell you how this works so you're not surprised later. I'm the purchasing director, and I buy things, but I don't decide alone. Engineering decides if it's good, Quality decides if it's safe, and Finance decides if it's cheap.
     프랭크: 나중에 놀라지 않게 어떻게 돌아가는지 말해 줄게요. 난 구매 이사라서 물건을 사지만 혼자 결정 안 해요. 좋은지는 엔지니어링이, 안전한지는 품질이, 싼지는 재무가 정해요.
 
 094. SAM: And you decide if it's on time.
     샘: 그리고 제때 오는지는 이사님이 정하고요.
 
-095. FRANK: I decide if I get fired, which is what the plant manager told me this morning, only with more words.
+095. FRANK: I decide if I get fired. That's what the plant manager told me this morning, only with more words.
     프랭크: 난 내가 잘릴지를 정하죠. 오늘 아침에 공장장이 그렇게 말하더라고요. 단어만 좀 더 많았고.
 
-096. TYLER: Sorry, quick question, because I'm new to cars and everybody keeps saying "OEM." Is Atlas the OEM?
-    타일러: 죄송한데 하나만요. 제가 자동차는 처음인데 다들 계속 'OEM'이라고 하던데, 애틀러스가 OEM이에요?
+096. TYLER: Sorry, quick question, since I'm new to cars. Everybody keeps saying "OEM." Is Atlas the OEM?
+    타일러: 죄송한데 하나만요, 제가 자동차는 처음이라서요. 다들 계속 'OEM'이라고 하던데, 애틀러스가 OEM이에요?
 
 097. FRANK: We're the OEM, the original equipment manufacturer, which in plain English means we're the name on the back of the car. Everybody else, the seat company, the motor company, the guy who makes the cup holders, they're all suppliers.
     프랭크: 우리가 OEM, 완성차 제조사죠. 쉽게 말하면 차 뒤에 붙은 이름이 우리라는 거예요. 나머지, 시트 회사, 모터 회사, 컵홀더 만드는 사람, 다 협력사고요.
@@ -309,8 +309,8 @@
 098. TYLER: And the suppliers are, what, below you?
     타일러: 그럼 협력사는, 그러니까, 그 아래고요?
 
-099. FRANK: Suppliers are below us, and below them are their suppliers, so it's a pyramid, son. We sit on top, and everything rolls downhill, especially blame.
-    프랭크: 협력사는 우리 아래고, 그 아래엔 그 협력사의 협력사가 있으니까 피라미드예요, 젊은 친구. 우리가 꼭대기에 앉아 있고, 모든 게 아래로 굴러 내려가죠. 특히 책임이.
+099. FRANK: Suppliers are below us, and below them are their suppliers. It's a pyramid, son. We sit on top, and everything rolls downhill, especially blame.
+    프랭크: 협력사는 우리 아래고, 그 아래엔 그 협력사의 협력사가 있어요. 피라미드예요, 젊은 친구. 우리가 꼭대기에 앉아 있고, 모든 게 아래로 굴러 내려가죠. 특히 책임이.
 
 100. SAM: Frank, why us, when you're Atlas and you could call anybody?
     샘: 프랭크, 왜 우리예요? 애틀러스면 누구한테든 전화할 수 있잖아요.
@@ -327,8 +327,8 @@
 104. SAM: I'll take weird, but here's the truth about the samples. They work, but the firmware is a beta and they haven't been validated for automotive, and my CTO made me promise to say that.
     샘: 특이한 건 받아들이죠. 근데 샘플에 대해 사실을 말씀드릴게요. 작동은 하지만 펌웨어가 베타고 자동차용 검증은 안 됐어요. 우리 CTO가 이 말 꼭 하라고 약속을 받아 냈어요.
 
-105. FRANK: I like your CTO already, because every supplier who walks in here says everything is ready. Then a month later I find out what "ready" meant.
-    프랭크: 그 CTO 벌써 마음에 드네. 여기 들어오는 협력사마다 다 준비됐다고 하거든요. 그러고 한 달 뒤에 '준비됐다'가 무슨 뜻이었는지 알게 되죠.
+105. FRANK: I like your CTO already. Every supplier who walks in here says everything is ready, and then a month later I find out what "ready" meant.
+    프랭크: 그 CTO 벌써 마음에 드네. 여기 들어오는 협력사마다 다 준비됐다고 해요. 그러고 한 달 뒤에 '준비됐다'가 무슨 뜻이었는지 알게 되죠.
 
 106. SAM: In our shop, "ready" means it passed Old Betsy.
     샘: 우리 공장에서 '준비됐다'는 건 올드 베치를 통과했다는 뜻이에요.
@@ -375,7 +375,7 @@
 120. SAM: We've survived a lot worse than a walk to Ohio.
     샘: 오하이오까지 걷는 것보다 훨씬 더한 것도 버텼어요.
 
-121. FRANK: I'll bet you have, because you've got a reputation, you know. A guy at Haverford told me you turned down a lot of money from a very big company.
+121. FRANK: I'll bet you have. You've got a reputation, you know. A guy at Haverford told me you turned down a lot of money from a very big company.
     프랭크: 그랬겠죠. 평판이 있더라고요. 해버퍼드 사람이 그러는데, 아주 큰 회사가 내민 큰돈을 거절했다면서요.
 
 122. SAM: Word travels fast around here.
@@ -420,8 +420,8 @@
 135. SAM: Somebody named Gloria did, and she also told me not to sign anything in this room.
     샘: 글로리아라는 사람이요. 이 방에서 아무것도 서명하지 말라고도 했어요.
 
-136. FRANK: She's a smart woman, so don't sign anything in this room. Nobody signs anything in Detroit anyway, because we have meetings about signing things.
-    프랭크: 똑똑한 사람이네. 이 방에선 아무것도 서명하지 마요. 어차피 디트로이트에선 아무도 서명 안 해요. 서명할지 말지에 대한 회의를 하거든.
+136. FRANK: She's a smart woman. Don't sign anything in this room. Nobody signs anything in Detroit anyway, we have meetings about signing things.
+    프랭크: 똑똑한 사람이네. 이 방에선 아무것도 서명하지 마요. 어차피 디트로이트에선 아무도 서명 안 해요. 서명할지 말지에 대한 회의를 하지.
 
 137. TYLER: Frank, can I ask what happens if we can only do half, say twenty thousand?
     타일러: 프랭크, 여쭤봐도 될까요? 저희가 절반, 그러니까 2만 개만 할 수 있으면요?
@@ -435,8 +435,8 @@
 140. FRANK: Tuesday works, but come to headquarters in Detroit, not here. I'll need engineering in the room, and they'll want to tear your motor apart.
     프랭크: 화요일 좋아요. 근데 여기 말고 디트로이트 본사로 와요. 엔지니어링도 불러야 하는데, 그쪽 모터를 다 뜯어 보고 싶어 할 거예요.
 
-141. SAM: They can tear it apart, because it's built to be opened.
-    샘: 뜯어 보셔도 돼요. 열어 볼 수 있게 만들었으니까요.
+141. SAM: They can tear it apart. It's built to be opened.
+    샘: 뜯어 보셔도 돼요. 열어 볼 수 있게 만들었어요.
 
 142. FRANK: That's either very honest or very stupid.
     프랭크: 아주 정직하거나 아주 멍청하거나 둘 중 하나네.
@@ -444,13 +444,13 @@
 143. SAM: My dad says it's both, actually.
     샘: 우리 아버지는 둘 다래요.
 
-144. FRANK: I think I'd like your dad. All right, that's my phone, it's the plant manager. All eyes are on this building today, Sam, so don't waste my Tuesday.
-    프랭크: 그 아버님 마음에 들겠네. 좋아요, 내 전화네. 공장장이에요. 오늘은 모두의 눈이 이 건물에 쏠려 있어요, 샘. 그러니까 내 화요일 낭비하지 마요.
+144. FRANK: I think I'd like your dad. All right, that's my phone, the plant manager. All eyes are on this building today, Sam. Don't waste my Tuesday.
+    프랭크: 그 아버님 마음에 들겠네. 좋아요, 내 전화네. 공장장이에요. 오늘은 모두의 눈이 이 건물에 쏠려 있어요, 샘. 내 화요일 낭비하지 마요.
 
 145. SAM: We won't.
     샘: 안 그럴게요.
 
-146. TYLER: Forty thousand by August, Sam, which is more than we made all of last year.
+146. TYLER: Forty thousand by August, Sam. That's more than we made all of last year.
     타일러: 8월까지 4만 개요, 샘. 작년 한 해 동안 만든 것보다 많아요.
 
 147. SAM: I know. Call Wen and call Earl, and then book us on the four o'clock flight.
