@@ -16,8 +16,8 @@
 
 ## Guion
 
-001. IKER: Pasa, pasa, y cierra rápido, que se escapa la gata. Y perdona el calor: el aire acondicionado lleva muerto desde el lunes.
-    이케르: 들어와요, 들어와. 빨리 닫아요, 고양이 나가요. 더운 건 미안해요. 에어컨이 월요일부터 죽었어요.
+001. IKER: Pasa y cierra rápido, que se escapa la gata. El aire lleva muerto desde el lunes.
+    이케르: 들어와서 빨리 닫아요, 고양이 나가요. 에어컨이 월요일부터 죽었어요.
 
 002. ÁLVARO: Treinta y cuatro grados en un cuarto piso de Tetuán. Esto es peor que Valencia.
     알바로: 테투안 5층에 34도라. 발렌시아보다 심하네.
@@ -31,8 +31,8 @@
 005. IKER: ¿Por lo de las velas?
     이케르: 양초 때문에요?
 
-006. ÁLVARO: Por lo de las velas. Una caja de doce, en la mesa de la cocina, al lado de las pastillas. Velasco no deja regalos. Deja recados.
-    알바로: 양초 때문에. 열두 개짜리 상자 하나, 부엌 식탁 위 약 옆에. 벨라스코는 선물을 두고 가지 않아. 전갈을 두고 가지.
+006. ÁLVARO: Por lo de las velas. Una caja de doce, al lado de sus pastillas. Velasco no deja regalos. Deja recados.
+    알바로: 양초 때문에. 열두 개짜리 상자 하나, 아버지 약 바로 옆에. 벨라스코는 선물을 두고 가지 않아. 전갈을 두고 가지.
 
 007. IKER: ¿Y Lucía?
     이케르: 루시아는요?
@@ -40,8 +40,8 @@
 008. ÁLVARO: Lucía está mejor que yo. Me mandó el audio, me esperó en el portal y me dijo: "Papá, firma ya, que el abuelo no es tonto, el tonto eres tú."
     알바로: 루시아는 나보다 괜찮아. 음성 메시지 보내 놓고 현관에서 기다리더니 그러더라. "아빠, 그냥 서명해. 할아버지가 바보가 아니라 아빠가 바보야."
 
-009. IKER: Esa chica va a ser directora del CNI antes que tú. Siéntate. Lo que te voy a enseñar no se puede ver de pie.
-    이케르: 그 애가 선배보다 먼저 CNI 국장 되겠네요. 앉아요. 지금 보여 줄 건 서서 볼 게 아니에요.
+009. IKER: Esa chica va a ser directora del CNI antes que tú. Siéntate.
+    이케르: 그 애가 선배보다 먼저 CNI 국장 되겠네요. 앉아요.
 
 010. ÁLVARO: ¿Lo has encontrado?
     알바로: 찾았어?
@@ -133,8 +133,8 @@
 039. IKER: ¿Y se lo diste?
     이케르: 그래서 줬어요?
 
-040. ÁLVARO: Le mandé un folio en blanco con mi firma abajo. Que lo rellene él, que se le da muy bien.
-    알바로: 맨 밑에 내 서명만 한 백지 한 장 보냈어. 지가 채우라고. 그런 거 아주 잘하잖아.
+040. ÁLVARO: Le mandé un folio en blanco con mi firma. Que lo rellene él.
+    알바로: 내 서명만 한 백지 한 장 보냈어. 지가 채우라고.
 
 041. IKER: Aupa, Gato. Eso es lo más bilbaíno que has hecho en tu vida.
     이케르: 아우파, 가토. 선배 인생에서 제일 빌바오 사람다운 짓이네요.
@@ -151,14 +151,14 @@
 045. IKER: ¡Gato! ¡Gato, diles que yo no he sido!
     이케르: 가토! 가토, 저 아니라고 말해 줘요!
 
-046. ÁLVARO: ¿Iker? ¿Qué haces aquí? Te dije que te quedaras en casa. Suéltele el brazo, que no se va a escapar.
-    알바로: 이케르? 여기서 뭐 해? 집에 있으라고 했잖아. 팔 놔요, 도망 안 가니까.
+046. ÁLVARO: ¿Iker? Te dije que te quedaras en casa. Suéltele el brazo, hombre.
+    알바로: 이케르? 집에 있으라고 했잖아. 팔 좀 놔요.
 
-047. IKER: ¡Han venido a mi casa a las seis! Con una orden del juez, con guantes, con todo. Han levantado el arenero, Gato. Han levantado el arenero.
-    이케르: 여섯 시에 우리 집에 왔어요! 판사 영장 들고, 장갑 끼고, 다 갖춰서. 고양이 화장실을 들어냈어요, 가토. 화장실을 들어냈다고요.
+047. IKER: ¡Han venido a mi casa a las seis, con una orden del juez y con guantes! Han levantado el arenero, Gato.
+    이케르: 여섯 시에 우리 집에 왔어요, 판사 영장 들고 장갑 끼고! 고양이 화장실을 들어냈어요, 가토.
 
-048. SANTI: Buenos días, Álvaro. Lamento que tenga que verlo así. Le habría avisado anoche, pero usted no contestaba al teléfono.
-    산티: 좋은 아침입니다, 알바로. 이런 꼴을 보게 해서 유감이에요. 어젯밤에 알려 드렸을 텐데, 전화를 안 받으시더군요.
+048. SANTI: Buenos días, Álvaro. Le habría avisado anoche, pero no contestaba.
+    산티: 좋은 아침입니다, 알바로. 어젯밤에 알려 드렸을 텐데, 전화를 안 받으시더군요.
 
 049. ÁLVARO: ¿De qué se le acusa?
     알바로: 무슨 혐의입니까?
@@ -199,17 +199,17 @@
 061. SEGURIDAD: Señor Ruiz-Belda, el coche de la Policía Nacional está abajo. Lo trasladan a Canillas.
     보안 담당관: 루이스벨다 실장님, 국가경찰 차량이 아래 와 있습니다. 카니야스로 이송합니다.
 
-062. IKER: Gato. La gata. Se llama Txapela. Come pienso de pescado, no de pollo, que el de pollo lo vomita.
-    이케르: 가토. 고양이요. 이름은 차펠라예요. 생선 사료 먹어요. 닭고기 거는 토해요.
+062. IKER: Gato. La gata se llama Txapela. Pienso de pescado, que el de pollo lo vomita.
+    이케르: 가토. 고양이 이름은 차펠라예요. 생선 사료요. 닭고기 거는 토해요.
 
 063. ÁLVARO: Txapela. Pienso de pescado. Hecho. Iker, mírame: no digas nada sin abogado. Nada.
     알바로: 차펠라. 생선 사료. 알았어. 이케르, 나 봐. 변호사 없이는 아무 말도 하지 마. 아무 말도.
 
-064. IKER: Sufrir es lo nuestro, ¿no? Eso lo decís los del Atleti. Pues mira, hoy soy un poco del Atleti.
-    이케르: 고통은 우리 몫이라면서요? 아틀레티코 사람들이 그러잖아요. 그럼 오늘은 저도 좀 아틀레티코 팬이네요.
+064. IKER: "Sufrir es lo nuestro", ¿no? Hoy soy un poco del Atleti.
+    이케르: "고통은 우리 몫"이라면서요? 오늘은 저도 좀 아틀레티코 팬이네요.
 
-065. SANTI: Álvaro, la directora le espera en su despacho. Me gustaría que me lo explicara todo a mí antes, pero ella ha insistido en verle a solas.
-    산티: 알바로, 국장님이 집무실에서 기다리십니다. 그 전에 제게 다 설명해 주셨으면 했는데, 국장님이 단둘이 보시겠다고 고집하셔서요.
+065. SANTI: La directora le espera. Me gustaría que me lo explicara a mí antes, pero ella ha insistido en verle a solas.
+    산티: 국장님이 기다리십니다. 그 전에 제게 설명해 주셨으면 했는데, 국장님이 단둘이 보시겠다고 고집하셔서요.
 
 066. ÁLVARO: Por el procedimiento, supongo.
     알바로: 절차대로겠죠.
@@ -337,17 +337,17 @@
 107. ÁLVARO: Soy yo. ¿Cómo estás? ¿Te tratan bien?
     알바로: 나야. 괜찮아? 대우는 괜찮고?
 
-108. IKER: El bocadillo de esta mañana era de mortadela. Es lo más cerca de la tortura que he estado nunca.
-    이케르: 오늘 아침 샌드위치가 모르타델라였어요. 살면서 고문에 제일 가까이 가 본 거예요.
+108. IKER: El bocadillo era de mortadela. Es lo más parecido a la tortura.
+    이케르: 샌드위치가 모르타델라였어요. 고문이랑 제일 비슷한 거죠.
 
-109. ÁLVARO: Te he buscado una abogada. Se llama Garbiñe Unzueta, es de Bilbao y odia al Atleti. Te va a encantar.
-    알바로: 변호사 구했어. 가르비녜 운수에타. 빌바오 출신이고 아틀레티코를 싫어해. 맘에 들 거야.
+109. ÁLVARO: Te he buscado abogada: Garbiñe Unzueta, de Bilbao. Odia al Atleti.
+    알바로: 변호사 구했어. 가르비녜 운수에타, 빌바오 출신. 아틀레티코를 싫어해.
 
 110. IKER: ¿Y Txapela?
     이케르: 차펠라는요?
 
-111. ÁLVARO: Txapela está en casa de Lucía, durmiendo encima del libro de lectura que Lucía no piensa leer. Pienso de pescado.
-    알바로: 차펠라는 루시아네 집에 있어. 루시아가 안 읽겠다는 독서 과제 책 위에서 자고 있어. 생선 사료로.
+111. ÁLVARO: En casa de Lucía, durmiendo encima del libro que no piensa leer.
+    알바로: 루시아네 집에. 걔가 안 읽겠다는 책 위에서 자고 있어.
 
 112. IKER: Gracias. Gato, escúchame, que se acaba el tiempo. Yo no envié nada a Limasol. Si me pasara algo aquí dentro, quiero que alguien lo sepa.
     이케르: 고마워요. 가토, 들어 봐요, 시간 없어요. 저 리마솔에 아무것도 안 보냈어요. 혹시 여기서 무슨 일이 생기면, 누군가는 알고 있었으면 해요.
@@ -367,8 +367,8 @@
 117. ÁLVARO: Dos mil veinticuatro. Contra el Mallorca. Por desgracia.
     알바로: 2024년. 마요르카 상대로. 안타깝게도.
 
-118. NÚRIA: Bona nit, Gato. Son las once y media de la noche y llevo dieciocho horas con el regalo de tu amigo. ¿Es verdad que está detenido?
-    누리아: 보나 닛, 가토. 밤 열한 시 반이고, 네 친구가 보낸 선물이랑 열여덟 시간째 씨름 중이야. 진짜 체포됐어?
+118. NÚRIA: Bona nit, Gato. Llevo dieciocho horas con el regalo de tu amigo. ¿Es verdad que está detenido?
+    누리아: 보나 닛, 가토. 네 친구가 보낸 선물이랑 열여덟 시간째 씨름 중이야. 진짜 체포됐어?
 
 119. ÁLVARO: Desde ayer por la mañana. Le han pillado con las manos en la masa, dicen. Con unas manos que no son las suyas.
     알바로: 어제 아침부터. 현장에서 딱 걸렸다더라. 자기 것도 아닌 손으로.
@@ -415,8 +415,8 @@
 133. ÁLVARO: Está aquí, en el balcón, oyéndolo todo en altavoz.
     알바로: 여기 있어. 발코니에서 스피커로 다 듣고 있어.
 
-134. NÚRIA: Bien. Que vaya preparando ropa de abrigo para las noches y mucha agua para el día. Os vais al desierto.
-    누리아: 좋아. 밤에 입을 두꺼운 옷이랑 낮에 마실 물 잔뜩 챙기라고 해. 너희 사막 가야 하니까.
+134. NÚRIA: Bien. Que prepare mucha agua. Os vais al desierto.
+    누리아: 좋아. 물 잔뜩 챙기라고 해. 너희 사막 가야 하니까.
 
 135. ÁLVARO: ¿Qué desierto, Núria? Dilo ya.
     알바로: 무슨 사막, 누리아? 빨리 말해.
