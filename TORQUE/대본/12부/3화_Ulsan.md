@@ -309,35 +309,35 @@
 098. SAM: Annyeonghaseyo, and thank you for inviting me. This is from my wife, Erin, in Ohio, and it's a quilt that Amish women made by hand.
     샘: 안녕하세요, 초대해 주셔서 감사합니다. 이건 오하이오에 있는 제 아내 에린이 드리는 거예요. 아미시 여자분들이 손으로 만든 퀼트예요.
 
-099. MRS. KANG: Two hands. Good. Someone taught you.
+099. MRS. KANG: Two hands, good, so someone taught you.
     민준 어머니: 두 손으로. 좋네. 누가 가르쳤구먼.
 
 100. MINJUN: She says you have very good manners.
     민준: 예의가 아주 바르시대요.
 
-101. MRS. KANG: Minjun, don't make it nicer. Translate what I say. I said someone taught him. Sit down. Eat first. Then we talk.
-    민준 어머니: 민준아, 좋게 바꾸지 마. 내가 한 말 그대로 해. 누가 가르쳤다고 했어. 앉아요. 먼저 먹고. 얘기는 그다음에.
+101. MRS. KANG: Minjun, don't make it nicer, and translate what I say, because I said someone taught him. Sit down and eat first, and then we talk.
+    민준 어머니: 민준아, 좋게 바꾸지 마. 내가 한 말 그대로 해. 누가 가르쳤다고 했어. 앉아서 먼저 먹어요. 얘기는 그다음에.
 
-102. MR. HAN: Sit here. Next to me. Soju?
-    민준 아버지: 여기 앉아요. 내 옆에. 소주?
+102. MR. HAN: Sit here next to me. Soju?
+    민준 아버지: 여기 내 옆에 앉아요. 소주?
 
 103. SAM: Yes, thank you, with two hands, and I don't pour my own.
     샘: 네, 감사합니다. 두 손으로 받고, 제 잔은 제가 안 따르고요.
 
-104. MR. HAN: Ha. Good. Minjun, this American knows more than you did at twenty.
-    민준 아버지: 하. 좋아. 민준아, 이 미국 사람이 네 스무 살 때보다 더 아는구나.
+104. MR. HAN: Ha, good, Minjun, this American knows more than you did at twenty.
+    민준 아버지: 하, 좋아. 민준아, 이 미국 사람이 네 스무 살 때보다 더 아는구나.
 
 105. WEN: Mrs. Kang, this soup is wonderful, thank you, because my mother made something like this with fish in Shenzhen.
     웬: 어머님, 이 국 정말 맛있어요, 감사합니다. 저희 어머니도 선전에서 생선 넣고 이런 걸 끓이셨거든요.
 
-106. MRS. KANG: Your mother is gone?
+106. MRS. KANG: Is your mother gone?
     민준 어머니: 어머니는 돌아가셨어요?
 
 107. WEN: Since 2010, and I couldn't go home for the funeral, because I was a student in America.
     웬: 2010년에요. 미국에서 학생이라 장례식에도 못 갔어요.
 
-108. MRS. KANG: Then eat more. Here. I'll give you more fish. A daughter far from home should eat more.
-    민준 어머니: 그럼 더 먹어요. 자. 생선 더 줄게. 집에서 멀리 떨어진 딸은 더 먹어야 해.
+108. MRS. KANG: Then eat more, and here, I'll give you more fish, because a daughter far from home should eat more.
+    민준 어머니: 그럼 더 먹어요. 자, 생선 더 줄게. 집에서 멀리 떨어진 딸은 더 먹어야 해.
 
 109. SAM: Mrs. Kang, before I eat any more, may I say something? Minjun, please translate exactly, and don't make it nicer.
     샘: 어머님, 더 먹기 전에 한마디 해도 될까요? 민준, 그대로 통역해 줘. 좋게 바꾸지 말고.
@@ -360,29 +360,29 @@
 115. MINJUN: Mother, I didn't say it that well.
     민준: 어머니, 저 그렇게 멋있게 말 안 했어요.
 
-116. MRS. KANG: You said it worse. I fixed it. Sam, I'm still angry at the country. Not at you. You came here. You brought my daughter-in-law peanut butter debts and a blanket from your wife.
-    민준 어머니: 더 못하게 말했지. 내가 고친 거야. 샘, 나 아직 그 나라엔 화나 있어요. 당신한텐 아니고. 당신은 여기 왔잖아. 우리 며느리한테 땅콩버터 빚도 갚으러 오고, 아내가 보낸 이불도 가져오고.
+116. MRS. KANG: You said it worse, and I fixed it. Sam, I'm still angry at the country, but not at you, because you came here and brought my daughter-in-law peanut butter debts and a blanket from your wife.
+    민준 어머니: 더 못하게 말했지, 내가 고친 거야. 샘, 나 아직 그 나라엔 화나 있어도 당신한텐 아니에요. 당신은 여기 와서 우리 며느리한테 땅콩버터 빚도 갚으러 오고, 아내가 보낸 이불도 가져왔잖아.
 
 117. SAM: It's actually a quilt, ma'am.
     샘: 사실 퀼트예요, 어머님.
 
-118. MRS. KANG: In this house, it's a blanket. I will never use it. It's too nice.
-    민준 어머니: 이 집에선 이불이에요. 절대 안 쓸 거예요. 너무 좋아서.
+118. MRS. KANG: In this house, it's a blanket, and I will never use it, because it's too nice.
+    민준 어머니: 이 집에선 이불이에요. 너무 좋아서 절대 안 쓸 거예요.
 
 119. MINJUN: See, I told you so, Sam.
     민준: 거봐요, 제가 말했잖아요, 샘.
 
-120. MR. HAN: Sam. Look. My hands. Every mark is a ship. This one, 1994, my first tanker. This one, the ship with the bad weather, when the wind came off the sea. You have marks like this?
-    민준 아버지: 샘. 봐요. 내 손. 자국 하나하나가 배 한 척이야. 이건 1994년, 내 첫 유조선. 이건 바다에서 바람 불어오던, 날씨 나빴던 배. 당신도 이런 자국 있어요?
+120. MR. HAN: Sam, look at my hands, because every mark is a ship: this one is 1994, my first tanker, and this one is the ship with the bad weather, when the wind came off the sea. Do you have marks like this?
+    민준 아버지: 샘, 내 손 봐요. 자국 하나하나가 배 한 척이야. 이건 1994년 내 첫 유조선, 이건 바다에서 바람 불어오던 날씨 나빴던 배. 당신도 이런 자국 있어요?
 
 121. SAM: Here on my thumb, from a winding machine named Brenda in 2011, and my dad has one from the GM plant in 1979.
     샘: 여기 엄지에요. 2011년에 브렌다라는 권선기한테서요. 그리고 우리 아버지는 1979년 GM 공장에서 생긴 게 하나 있으세요.
 
-122. MR. HAN: Then we are the same kind of people. People who make heavy things.
+122. MR. HAN: Then we are the same kind of people, the people who make heavy things.
     민준 아버지: 그럼 우린 같은 종류의 사람이네. 무거운 걸 만드는 사람들.
 
-123. MRS. KANG: Enough hands. Eat. Sam, you are family now. In this house, family eats until the pot is empty.
-    민준 어머니: 손 얘기는 그만. 먹어요. 샘, 당신은 이제 가족이에요. 이 집에선 가족은 냄비가 빌 때까지 먹어요.
+123. MRS. KANG: Enough about hands, so eat. Sam, you are family now, and in this house, family eats until the pot is empty.
+    민준 어머니: 손 얘기는 그만하고 먹어요. 샘, 당신은 이제 가족이에요. 이 집에선 가족은 냄비가 빌 때까지 먹어요.
 
 124. SAM: And how big is the pot?
     샘: 냄비가 얼마나 큰데요?
@@ -399,8 +399,8 @@
 128. PARK: It is my law, and I'm the oldest here except for Minjun's father.
     박 대표: 제 법이요. 그리고 민준이 아버님 빼면 제가 제일 나이가 많지요.
 
-129. MR. HAN: Then I go first. An old song. About the sea. You don't need Korean to understand.
-    민준 아버지: 그럼 내가 먼저 하지. 옛날 노래. 바다에 관한 거. 한국말 몰라도 알아들을 거요.
+129. MR. HAN: Then I go first, with an old song about the sea that you don't need Korean to understand.
+    민준 아버지: 그럼 내가 먼저 하지. 바다에 관한 옛날 노래인데, 한국말 몰라도 알아들을 거요.
 
 130. SAM: That was beautiful, because I didn't understand a word, and I almost cried.
     샘: 정말 아름다웠어요. 한 마디도 못 알아들었는데 울 뻔했어요.
@@ -423,8 +423,8 @@
 136. MINJUN: Sam, that was terrible, the worst singing I've ever heard in this room, and my father is clapping!
     민준: 샘, 진짜 형편없었어요! 이 방에서 들은 노래 중에 최악이었는데, 우리 아버지가 박수 치세요!
 
-137. MR. HAN: Terrible! But loud! In a noraebang, loud is more important than good.
-    민준 아버지: 형편없어! 그래도 크게! 노래방에선 잘하는 것보다 크게 하는 게 중요해.
+137. MR. HAN: Terrible, but loud! In a noraebang, loud is more important than good.
+    민준 아버지: 형편없어, 그래도 크게! 노래방에선 잘하는 것보다 크게 하는 게 중요해.
 
 138. SAM: That's pretty much my whole business philosophy.
     샘: 그게 제 사업 철학 전부예요.
