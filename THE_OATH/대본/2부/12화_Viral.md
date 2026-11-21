@@ -119,7 +119,7 @@
 035. JUNE: That's it, because everything else you'll learn the hard way.
     준: 그게 다예요. 나머진 직접 부딪혀서 배우실 거예요.
 
-036. PRODUCER: You have ninety seconds, so look at Carla, not the camera. Garrity from the union is on the remote screen, but don't look at him.
+036. PRODUCER: Mr. Reardon, you have ninety seconds, so look at Carla, not the camera. Garrity from the union is on the remote screen, but don't look at him.
     PD: 레이든 씨, 90초 남았어요. 카메라 말고 칼라를 보세요. 노조의 개리티가 원격 화면에 나와요. 그 사람은 보지 마세요.
 
 037. DAN: Where am I supposed to look, then, at the floor?
@@ -131,26 +131,26 @@
 039. BENITEZ: Good morning, New York. This morning, a video has been seen more than four million times. A seventeen-year-old in the Bronx, face down on the sidewalk. With me is the family's lawyer, Daniel Reardon.
     베니테스: 좋은 아침입니다, 뉴욕. 오늘 아침 한 영상이 4백만 회 넘게 조회됐습니다. 브롱크스의 열일곱 살 소년이 보도에 엎드려 있는 영상이죠. 가족 측 변호사 대니얼 레이든 씨가 함께합니다.
 
-040. BENITEZ: And joining us remotely is Tom Garrity, spokesman for the officers' union. Let's start with you, Counselor: what did we just see?
-    베니테스: 그리고 원격으로 경찰관 노조 대변인 톰 개리티가 함께합니다. 변호사님부터 시작하죠. 우리가 방금 본 게 뭡니까?
+040. BENITEZ: And joining us remotely is Tom Garrity, spokesman for the officers' union. Mr. Reardon, let's start with you: what did we just see?
+    베니테스: 그리고 원격으로 경찰관 노조 대변인 톰 개리티가 함께합니다. 레이든 변호사님부터 시작하죠. 우리가 방금 본 게 뭡니까?
 
 041. DAN: Thank you, Carla. What the video depicts is an encounter that, in our view, raises serious constitutional questions under the Fourth Amendment, specifically regarding the use of force after the subject had been effectively restrained, and—
     댄: 감사합니다, 카를라. 영상이 묘사하는 건 저희가 보기에 수정헌법 제4조상 심각한 헌법적 문제를 제기하는 상황입니다. 특히 대상자가 사실상 제압된 이후의 무력 사용에 관해서, 그리고—
 
-042. BENITEZ: Could you say that in plain terms, please?
-    베니테스: 쉬운 말로 다시 해 주시겠어요?
+042. BENITEZ: Could you say that in plain terms, Mr. Reardon?
+    베니테스: 레이든 변호사님, 쉬운 말로 다시 해 주시겠어요?
 
 043. DAN: In plain terms, we've filed a Section 1983 action in federal court, alleging excessive force, false arrest, and municipal liability under Monell, based on the city's failure to—
     댄: 쉽게 말하면, 연방법원에 1983조 소송을 제기했습니다. 과잉 무력, 불법 체포, 그리고 모넬 판례에 따른 시의 책임을 주장하며, 시가 ~하지 않은 것에 근거해—
 
-044. BENITEZ: Let me turn to the union side now. Your reaction?
-    베니테스: 이제 노조 쪽으로 가 보죠. 반응은요?
+044. BENITEZ: Let me turn to the union side now. Mr. Garrity, your reaction?
+    베니테스: 이제 노조 쪽으로 가 보죠. 개리티 씨, 반응은요?
 
 045. GARRITY: Carla, I'll keep it simple: this kid reached into his pocket at night on Tremont, and officers have one second to decide, one second. Lawyers get three years.
     개러티: 칼라, 간단히 말하죠. 이 애가 밤에 트레몬트에서 주머니에 손을 넣었어요. 경찰은 결정할 시간이 1초예요. 1초. 변호사는 3년이고요.
 
-046. BENITEZ: Counselor, your response?
-    베니테스: 변호사님, 답변은요?
+046. BENITEZ: Mr. Reardon, your response?
+    베니테스: 레이든 변호사님, 답변은요?
 
 047. DAN: Well, the case law is clear that the reasonableness of force is judged from the perspective of a reasonable officer on the scene, and we don't dispute that, but the relevant question is—
     댄: 음, 판례상 무력의 합리성은 현장의 합리적인 경찰관 관점에서 판단한다는 게 분명하고, 저희도 그걸 다투진 않습니다만, 관련된 질문은—
@@ -161,8 +161,8 @@
 049. DAN: That's not what I said, Carla. That's not what I said.
     댄: 제가 그렇게 말한 게 아닙니다, 카를라. 그렇게 말하지 않았어요.
 
-050. BENITEZ: Counselor, here's a simple question: did the officer in that video do something wrong?
-    베니테스: 변호사님, 간단한 질문입니다. 영상 속 경찰관이 잘못한 겁니까?
+050. BENITEZ: Mr. Reardon, here's a simple question: did the officer in that video do something wrong?
+    베니테스: 레이든 변호사님, 간단한 질문입니다. 영상 속 경찰관이 잘못한 겁니까?
 
 051. DAN: I can't say the officer did anything wrong in the sense of a legal conclusion, because that's for the court to decide, and there's also the question of qualified immunity, which—
     댄: 법적 결론이라는 의미에서 경찰관이 잘못했다고 말할 수는 없습니다. 그건 법원이 결정할 문제고, 또 자격 면책이라는 문제도 있어서—
@@ -176,8 +176,8 @@
 054. GARRITY: It's not complicated, Carla, because officers made a split-second decision. The charges were dropped, fine, that happens, but nobody's going to put my members on trial on the internet.
     개러티: 복잡할 거 없어요, 칼라. 경찰관들은 순간적인 판단을 내렸어요. 혐의는 취하됐죠. 좋아요, 그럴 수 있어요. 하지만 누구도 우리 조합원들을 인터넷에서 재판에 세울 순 없어요.
 
-055. BENITEZ: You have fifteen seconds, Counselor. What's your message to the people watching?
-    베니테스: 15초 남았습니다, 변호사님. 시청자들께 하실 말씀은요?
+055. BENITEZ: You have fifteen seconds, Mr. Reardon. What's your message to the people watching?
+    베니테스: 15초 남았습니다, 레이든 변호사님. 시청자들께 하실 말씀은요?
 
 056. DAN: My message is that we intend to pursue all available remedies in the appropriate forum, and we're confident that the evidence, when it's fully developed through discovery, will—
     댄: 저희는 적절한 법정에서 가능한 모든 구제 수단을 추구할 것이며, 증거가 증거개시를 통해 충분히 드러나면—
@@ -185,8 +185,8 @@
 057. BENITEZ: We'll have to leave it there, and thank you both. After the break, it's the weather, and it's going to be a hot one.
     베니테스: 여기까지 하겠습니다. 두 분 감사합니다. 광고 후엔 날씨입니다. 덥겠네요.
 
-058. PRODUCER: And we're out, so thank you, and your car's downstairs.
-    PD: 끝났습니다. 감사합니다. 차는 아래층에 있어요.
+058. PRODUCER: And we're out, so thank you, Mr. Reardon, and your car's downstairs.
+    PD: 끝났습니다. 감사합니다, 레이든 씨. 차는 아래층에 있어요.
 
 059. DAN: How was it, honestly? You've seen a thousand of these.
     댄: 어땠어요, 솔직히? 이런 거 천 번은 보셨잖아요.
@@ -332,8 +332,8 @@
 106. AISHA: I already did, and I underlined it twice.
     아이샤: 벌써 적었어요. 밑줄 두 번.
 
-107. JUNE: Okay, let's practice, and I'm Carla: "Counselor, what did we just see?" You have eight seconds, so go.
-    준: 좋아요, 연습해요. 제가 칼라예요. "변호사님, 방금 본 게 뭡니까?" 8초예요. 시작.
+107. JUNE: Okay, let's practice, and I'm Carla: "Mr. Reardon, what did we just see?" You have eight seconds, so go.
+    준: 좋아요, 연습해요. 제가 칼라예요. "레이든 변호사님, 방금 본 게 뭡니까?" 8초예요. 시작.
 
 108. DAN: Let me say it plain. A seventeen-year-old asked why he was being stopped. He got punched twice for asking. That's what you saw.
     댄: 쉽게 말씀드리죠. 열일곱 살 아이가 왜 세우냐고 물었습니다. 묻는다는 이유로 두 번 맞았습니다. 그게 여러분이 본 겁니다.
@@ -374,8 +374,8 @@
 120. JUNE: There are about forty reporters. And a lot of neighbors. Vinny gave everybody a free slice. He says it's the best day of business he's ever had.
     준: 기자가 마흔 명쯤 있어요. 동네 사람들도 많고요. 비니 사장님이 다들한테 피자 한 조각씩 공짜로 줬어요. 장사 역사상 최고의 날이래요.
 
-121. DARNELL: I want to say one thing, just one, even though my mom said I don't have to.
-    대널: 한 가지만 말하고 싶어요. 딱 하나요. 엄마는 안 해도 된다고 했지만요.
+121. DARNELL: Mr. Reardon, I want to say one thing, just one, even though my mom said I don't have to.
+    대널: 레이든 씨, 한 가지만 말하고 싶어요. 딱 하나요. 엄마는 안 해도 된다고 했지만요.
 
 122. DAN: You don't have to. But if you want to, I'll stand right next to you. What do you want to say?
     댄: 안 해도 돼. 근데 하고 싶으면 내가 바로 옆에 서 있을게. 뭐라고 하고 싶어?
@@ -383,8 +383,8 @@
 123. DARNELL: It's short, so you'll hear it.
     대널: 짧아요. 들으시면 알아요.
 
-124. YVONNE: Go ahead, because we're ready.
-    이본: 시작하세요. 저희 준비됐어요.
+124. YVONNE: Go ahead, Mr. Reardon, because we're ready.
+    이본: 시작하세요, 레이든 씨. 저희 준비됐어요.
 
 125. DAN: Thank you all for coming. Let me say it plain. On February fifteenth, right here, a seventeen-year-old asked the police why he was being stopped. He got punched twice for asking.
     댄: 와 주셔서 감사합니다. 쉽게 말씀드리겠습니다. 2월 15일, 바로 여기서, 열일곱 살 아이가 경찰에게 왜 세우냐고 물었습니다. 묻는다는 이유로 두 번 맞았습니다.
@@ -401,8 +401,8 @@
 129. BRIANNA: That's my brother!
     브리아나: 그게 내 동생이야!
 
-130. BENITEZ: It's Carla Benitez again, Counselor! Did the officer do something wrong?
-    베니테스: 변호사님! 칼라 베니테스예요, 또요! 경찰관이 잘못한 겁니까?
+130. BENITEZ: Mr. Reardon! It's Carla Benitez again! Did the officer do something wrong?
+    베니테스: 레이든 변호사님! 칼라 베니테스예요, 또요! 경찰관이 잘못한 겁니까?
 
 131. DAN: Yes. Punching a boy in handcuffs is wrong. A judge will decide what the law says about it. We're confident about what the judge will see.
     댄: 네. 수갑 찬 아이를 때리는 건 잘못입니다. 법적으로 어떤지는 판사가 정할 겁니다. 판사가 무엇을 보게 될지 저희는 확신합니다.
