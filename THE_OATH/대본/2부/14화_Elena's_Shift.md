@@ -17,11 +17,11 @@
 001. DOLORES: Sir, the waiting room is full. If you're not a patient, you can't stay. If you are a patient, you'll be here till Tuesday.
     돌로레스: 선생님, 대기실 꽉 찼어요. 환자 아니시면 여기 계시면 안 되고요. 환자시면 화요일까지 계셔야 할 거예요.
 
-002. DAN: I'm not a patient, I'm a husband, and I brought my wife, the doctor, some dinner.
-    댄: 환자 아니에요. 남편이에요. 의사인 제 아내한테 저녁 가져왔어요.
+002. DAN: I'm not a patient, I'm a husband, and I brought Dr. Reardon some dinner.
+    댄: 환자 아니에요. 남편이에요. 레이든 선생님 저녁 가져왔어요.
 
-003. DOLORES: You're Dan, the lawyer from the video with the boy? Your wife showed us, and she was very proud, although she pretended she wasn't.
-    돌로레스: 댄이군요? 그 소년 영상에 나온 변호사? 부인이 보여 줬어요. 아주 자랑스러워했어요. 아닌 척했지만.
+003. DOLORES: You're Dan, the lawyer from the video with the boy? Dr. Reardon showed us, and she was very proud, although she pretended she wasn't.
+    돌로레스: 댄이군요? 그 소년 영상에 나온 변호사? 레이든 선생님이 보여 줬어요. 아주 자랑스러워했어요. 아닌 척했지만.
 
 004. DAN: That sounds like her, because pretending is her favorite sport.
     댄: 딱 그 사람이네요. 아닌 척하는 게 제일 좋아하는 운동이거든요.
@@ -215,8 +215,8 @@
 067. ALVARADO: No, no, no, I'm okay, I'm okay, but I have to go, because they'll steal my bike.
     알바라도: 아니, 아니, 아니, 괜찮아요, 괜찮아요. 가야 돼요. 자전거 훔쳐 갈 거예요.
 
-068. ELENA: I'm Elena Reardon, and I'm a doctor here, so look at me. What's your name? Just your first name is fine.
-    엘레나: 저는 엘레나 레이든이고 여기 의사예요. 저 보세요. 이름이 뭐예요? 이름만이면 돼요.
+068. ELENA: Sir, I'm Dr. Reardon, so look at me. What's your name? Just your first name is fine.
+    엘레나: 저는 레이든 의사예요. 저 보세요. 이름이 뭐예요? 이름만이면 돼요.
 
 069. ALVARADO: Why do you want it? Are you the police?
     알바라도: 왜요? 경찰이에요?
