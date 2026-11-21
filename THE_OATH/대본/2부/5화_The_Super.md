@@ -17,8 +17,8 @@
 001. GLADYS: Come in, but keep your coats on, because I'm being practical, and it's forty-seven degrees in here.
     글래디스: 들어와요. 코트는 입고 있어요. 현실적으로 말하는 거예요. 여기 8도예요.
 
-002. DAN: Good morning, I'm Dan Reardon, and this is Aisha Bellamy and June Park.
-    댄: 안녕하세요, 댄 레이든입니다. 이쪽은 아이샤 벨라미, 그리고 준 박이에요.
+002. DAN: Good morning, Mrs. Moore, I'm Dan Reardon, and this is Aisha Bellamy and June Park.
+    댄: 안녕하세요, 무어 부인. 댄 레이든입니다. 이쪽은 아이샤 벨라미, 그리고 준 박이에요.
 
 003. GLADYS: I know who you are, you're Ruth's new man from Park Avenue, and you're taller than I expected. Sit on the couch, because it's the warmest spot.
     글래디스: 누군지 알아요. 파크 애비뉴에서 온 루스의 새 사람이죠. 생각보다 키가 크네. 소파에 앉아요, 거기가 제일 따뜻해요.
@@ -35,8 +35,8 @@
 007. GLADYS: You've done your reading, good. I've lived in this apartment since 1979, which is forty-eight years, and I've outlived four landlords, so I intend to outlive this one.
     글래디스: 공부 좀 해 왔네, 좋아요. 1979년부터 이 집에 살았어요. 48년이에요. 집주인 넷보다 오래 살았으니 이번 놈보다도 오래 살 작정이에요.
 
-008. DAN: Who's the landlord here, if you don't mind me asking?
-    댄: 실례지만 여기 집주인이 누구예요?
+008. DAN: Who's the landlord here, Mrs. Moore, if you don't mind me asking?
+    댄: 무어 부인, 실례지만 여기 집주인이 누구예요?
 
 009. GLADYS: Call me Gladys, please, and that's the question, because nobody knows. The building was sold in 2021, and since then the landlord is just a name on paper.
     글래디스: 글래디스라고 불러요. 그리고 그게 문제예요. 아무도 몰라요. 2021년에 건물이 팔렸는데, 그 뒤로 집주인은 서류상 이름일 뿐이에요.
@@ -146,8 +146,8 @@
 044. LUIS: The management company, Bronx Prime, sends me texts. Look: "Do not speak to tenants' lawyers. Refer all questions to the office." But there is no office, just a phone number.
     루이스: 관리 회사 브롱크스 프라임이요. 문자를 보내요. 보세요. "세입자 측 변호사와 대화 금지. 모든 질문은 사무실로." 근데 사무실은 없어요. 전화번호뿐이에요.
 
-045. DAN: Luis, you don't have to tell us anything, and if you want us to leave, we'll leave. But can we look at the boiler? Just look.
-    댄: 루이스, 아무 말 안 하셔도 돼요. 가라고 하시면 갈게요. 근데 보일러만 좀 봐도 될까요? 보기만요.
+045. DAN: Mr. Ocasio, you don't have to tell us anything, and if you want us to leave, we'll leave. But can we look at the boiler? Just look.
+    댄: 오카시오 씨, 아무 말 안 하셔도 돼요. 가라고 하시면 갈게요. 근데 보일러만 좀 봐도 될까요? 보기만요.
 
 046. LUIS: Looking is free, so come on down, but watch your head, because the pipe is low.
     루이스: 보는 건 공짜예요. 내려와요. 머리 조심하고요, 배관이 낮아요.
@@ -194,8 +194,8 @@
 060. LUIS: Against the law doesn't pay my rent, though.
     루이스: 불법이라고 해서 제 월세를 내 주진 않잖아요.
 
-061. JUNE: Can I say something? I'm new, and it's my first case, but when I was thirteen, my mom wasn't paid properly for four years, and her boss fired her when she complained.
-    준: 한마디 해도 돼요? 전 신입이고 첫 사건인데요, 제가 열세 살 때 엄마가 4년 동안 제대로 돈을 못 받았어요. 따졌더니 사장이 해고했고요.
+061. JUNE: Mr. Ocasio, can I say something? I'm new, and it's my first case, but when I was thirteen, my mom wasn't paid properly for four years, and her boss fired her when she complained.
+    준: 오카시오 씨, 한마디 해도 돼요? 전 신입이고 첫 사건인데요, 제가 열세 살 때 엄마가 4년 동안 제대로 돈을 못 받았어요. 따졌더니 사장이 해고했고요.
 
 062. LUIS: What happened to her in the end?
     루이스: 결국 어머니는 어떻게 됐어요?
@@ -233,8 +233,8 @@
 073. LUIS: Friday night, I was here until three in the morning. She made a sound like a gunshot, and then nothing. I sat on that bucket and cried. My daughter found me.
     루이스: 금요일 밤에 새벽 세 시까지 여기 있었어요. 총소리 같은 소리를 내더니 그다음엔 아무것도요. 저 양동이에 앉아서 울었어요. 딸이 저를 발견했어요.
 
-074. DAN: Luis, you didn't fail. You kept a sixty-year-old machine alive with your own money while the owner hid behind a voicemail, and that's not failure.
-    댄: 루이스, 실패한 게 아니에요. 주인이 음성사서함 뒤에 숨어 있는 동안 자기 돈으로 60년 된 기계를 살려 놓으셨잖아요. 그건 실패가 아니에요.
+074. DAN: Mr. Ocasio, you didn't fail. You kept a sixty-year-old machine alive with your own money while the owner hid behind a voicemail, and that's not failure.
+    댄: 오카시오 씨, 실패한 게 아니에요. 주인이 음성사서함 뒤에 숨어 있는 동안 자기 돈으로 60년 된 기계를 살려 놓으셨잖아요. 그건 실패가 아니에요.
 
 075. LUIS: Then what is it?
     루이스: 그럼 뭔데요?
@@ -248,8 +248,8 @@
 078. DAN: That's a separate claim, but yes. June, write down his wages since December.
     댄: 그건 별개 청구지만, 네. 준, 12월부터 받을 임금 적어 둬요.
 
-079. JUNE: I'm already writing. Luis, I'm going to ask you one thing my mom's investigator asked us: do you have pay stubs?
-    준: 벌써 적고 있어요. 루이스, 우리 엄마 조사관이 물어봤던 거 하나 여쭤볼게요. 급여 명세서 있어요?
+079. JUNE: I'm already writing. Mr. Ocasio, I'm going to ask you one thing my mom's investigator asked us: do you have pay stubs?
+    준: 벌써 적고 있어요. 오카시오 씨, 우리 엄마 조사관이 물어봤던 거 하나 여쭤볼게요. 급여 명세서 있어요?
 
 080. LUIS: I have two years of them in a shoebox, because my wife labels everything.
     루이스: 2년 치가 신발 상자에 있어요. 아내가 뭐든 다 이름표를 붙이거든요.
@@ -377,8 +377,8 @@
 121. RUTH: Post it.
     루스: 올려.
 
-122. KEISHA: You came back! Look, look at the truck out there.
-    키샤: 다시 오셨네요! 저기 봐요, 저 트럭 좀 봐요.
+122. KEISHA: Mr. Reardon, you came back! Look, look at the truck out there.
+    키샤: 레이든 씨, 다시 오셨네요! 저기 봐요, 저 트럭 좀 봐요.
 
 123. DAN: Is that what I think it is?
     댄: 저게 제가 생각하는 그거예요?
@@ -410,8 +410,8 @@
 132. GLADYS: He doesn't have a face. You said so yourself. He has a mask.
     글래디스: 그 사람 얼굴 없어요. 당신이 그랬잖아. 가면이 있다고.
 
-133. LUIS: There's a gray BMW across the street, and it's been sitting there for twenty minutes now.
-    루이스: 길 건너에 회색 BMW가 있어요. 벌써 20분째 서 있어요.
+133. LUIS: Mr. Reardon, there's a gray BMW across the street, and it's been sitting there for twenty minutes now.
+    루이스: 레이든 씨, 길 건너에 회색 BMW가 있어요. 벌써 20분째 서 있어요.
 
 134. DAN: Do you know who it is?
     댄: 누군지 알아요?
@@ -428,8 +428,8 @@
 138. SAYER: Then these are for you, and there are thirty more in my car for the others on the rent strike list. Have a good afternoon.
     세이어: 그럼 이건 당신 거예요. 차에 임대료 파업 명단에 있는 다른 분들 것도 서른 개 더 있어요. 좋은 오후 보내세요.
 
-139. DAN: I'm Dan Reardon, and I represent the tenants' association. What are these?
-    댄: 댄 레이든입니다. 세입자 협회를 대리하고 있어요. 이게 뭡니까?
+139. DAN: Mr. Sayer, I'm Dan Reardon, and I represent the tenants' association. What are these?
+    댄: 세이어 씨, 댄 레이든입니다. 세입자 협회를 대리하고 있어요. 이게 뭡니까?
 
 140. SAYER: They're nonpayment petitions, Counselor. The owner is suing for the rent. Housing Court, next Wednesday. You can read, I assume.
     세이어: 임대료 미납 소장이에요, 변호사님. 소유주가 임대료 소송을 거는 거죠. 주택법원, 다음 주 수요일. 읽을 줄은 아시겠죠.
@@ -440,8 +440,8 @@
 142. SAYER: The owner is aware of the conditions and is addressing them.
     세이어: 소유주는 상황을 인지하고 있으며 대처 중입니다.
 
-143. DAN: And who exactly is the owner?
-    댄: 그래서 소유주가 정확히 누구죠?
+143. DAN: And who exactly is the owner, Mr. Sayer?
+    댄: 그래서 소유주가 정확히 누구죠, 세이어 씨?
 
 144. SAYER: It's Walton Holdings 1147 LLC, and that's on the papers.
     세이어: 월턴 홀딩스 1147 LLC요. 서류에 있잖아요.
