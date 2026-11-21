@@ -278,8 +278,8 @@
 088. DAN: Your Honor, while she looks for it, it's page two-forty-one of the deposition transcript, lines six through nineteen.
     댄: 재판장님, 찾으시는 동안 말씀드리면, 증언 녹취록 241쪽, 6행부터 19행입니다.
 
-089. JUDGE MORRISON: I appreciate the help, Counselor, but please let her find it herself.
-    모리슨 판사: 도와주셔서 고맙습니다, 변호사님. 하지만 본인이 직접 찾게 두세요.
+089. JUDGE MORRISON: Thank you, Mr. Reardon, but please let her find it herself.
+    모리슨 판사: 고맙습니다, 레이든 변호사님. 하지만 본인이 직접 찾게 두세요.
 
 090. DAN: Of course, and I'm sorry, Your Honor.
     댄: 물론입니다. 죄송합니다, 재판장님.

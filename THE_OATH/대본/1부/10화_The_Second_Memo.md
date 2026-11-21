@@ -254,8 +254,8 @@
 080. DAN: One nurse for forty beds, every single night of the week.
     댄: 매일 밤마다, 간호사 한 명에 침대 마흔 개.
 
-081. TEDDY: It's not enough, but it's one, and one is a lot more than none, believe me.
-    테디: 부족하죠. 그래도 한 명이에요. 한 명은 없는 것보다 훨씬 많아요, 정말로.
+081. TEDDY: It's not enough, but it's one, and one is a lot more than none, Mr. Reardon.
+    테디: 부족하죠. 그래도 한 명이에요. 한 명은 없는 것보다 훨씬 많아요, 레이든 변호사님.
 
 082. DAN: Yes, it is, Teddy, and you're right about that.
     댄: 맞아요, 테디. 그 말이 맞아요.
@@ -290,8 +290,8 @@
 092. DAN: Nobody, just somebody I've never met, and I think she's been waiting for someone to ask for about a year and a half.
     댄: 아무도 아니에요. 만나 본 적 없는 사람이요. 1년 반쯤 누가 물어봐 주길 기다리고 있었던 것 같아요.
 
-093. TEDDY: Then I hope somebody asks her. It's not my place, sir, but you should go home, because whatever's on that page will still be there in the morning, since paper doesn't go anywhere.
-    테디: 그럼 누가 물어봐 주면 좋겠네요. 제가 할 말은 아니지만, 집에 가세요. 그 종이에 뭐가 있든 아침에도 있을 거예요. 종이는 어디 안 가요.
+093. TEDDY: Then I hope somebody asks her. It's not my place, Mr. Reardon, but you should go home, because whatever's on that page will still be there in the morning, since paper doesn't go anywhere.
+    테디: 그럼 누가 물어봐 주면 좋겠네요. 제가 할 말은 아니지만, 레이든 변호사님, 집에 가세요. 그 종이에 뭐가 있든 아침에도 있을 거예요. 종이는 어디 안 가요.
 
 094. DAN: That's the problem, Teddy, because paper doesn't go anywhere unless somebody makes it go.
     댄: 그게 문제예요, 테디. 종이는 어디 안 가죠. 누가 없애지 않는 한.

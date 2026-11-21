@@ -98,8 +98,8 @@
 028. DAN: Knowing the file better than she does. Which, thanks to your tabs, I'm about to fake very convincingly.
     댄: 그 사람보다 파일을 더 잘 아는 거. 네 탭 덕분에, 이제 아주 그럴듯하게 아는 척할 수 있겠다.
 
-029. PEGGY: They're all inside, Mr. Reardon, and the client asked for sparkling water, but we didn't have the brand he likes, so he's already a little disappointed in us.
-    페기: 레이든 변호사님, 다들 안에 계세요. 고객분이 탄산수를 찾으셨는데 좋아하시는 브랜드가 없어서, 벌써 우리한테 살짝 실망하셨어요.
+029. PEGGY: They're all inside, Mr. Reardon, and Mr. Holloway asked for sparkling water, but we didn't have the brand he likes, so he's already a little disappointed in us.
+    페기: 레이든 변호사님, 다들 안에 계세요. 홀러웨이 씨가 탄산수를 찾으셨는데 좋아하시는 브랜드가 없어서, 벌써 우리한테 살짝 실망하셨어요.
 
 030. DAN: Great, so we're starting from behind, which is where I do my best work.
     댄: 좋네요. 뒤처진 채로 시작하는 거군요. 제가 제일 잘하는 데가 거기예요.
@@ -230,8 +230,8 @@
 072. VICTORIA: In English, that means we win. Sorry if it isn't poetic enough for you.
     빅토리아: 쉬운 말로 하면, 우리가 이긴다는 거지. 너한텐 시적이지 않아서 미안하네.
 
-073. DAN: It works, and I won't pretend it doesn't work, but I do have one question about it.
-    댄: 효과는 있어요. 없다고 우기진 않을게요. 그런데 한 가지 질문이 있습니다.
+073. DAN: It works, and I won't pretend it doesn't work, but I do have one question about it, Mr. Holloway.
+    댄: 효과는 있어요. 없다고 우기진 않을게요. 그런데 한 가지 질문이 있습니다, 홀러웨이 씨.
 
 074. GRANT: Go ahead.
     그랜트: 하세요.
@@ -380,8 +380,8 @@
 122. DAN: I sent her flowers, on a colleague's advice, which I'm told was the right call.
     댄: 동료 조언 듣고 꽃 보냈어요. 그게 맞는 선택이었다고 하더라고요.
 
-123. RUTH: Good, because a note would have been worse. So what can I do for you, Counselor?
-    루스: 잘했네. 메모였으면 더 나빴을 거야. 그래서 무슨 일이죠, 변호사님?
+123. RUTH: Good, because a note would have been worse. So what can I do for you, Mr. Reardon?
+    루스: 잘했네. 메모였으면 더 나빴을 거야. 그래서 무슨 일이죠, 레이든 변호사?
 
 124. DAN: I'm calling about two things. First, we should meet and confer on the deposition calendar, and I'd like to start with the named plaintiffs in October.
     댄: 두 가지 때문에 전화드렸어요. 첫째, 증언 녹취 일정을 사전 협의해야 하는데, 10월에 대표 원고들부터 시작하고 싶습니다.
@@ -446,8 +446,8 @@
 144. DAN: Then it's October sixth at ten a.m., and my assistant will send the notice.
     댄: 그럼 10월 6일 오전 10시로 하죠. 제 비서가 통지서 보낼 겁니다.
 
-145. RUTH: I'll be there, and please wear a better suit than the brown one, because I hear it's a legend.
-    루스: 갈게요. 그 갈색 정장보단 나은 걸로 입고 와요. 전설이라던데.
+145. RUTH: I'll be there, Mr. Reardon, and please wear a better suit than the brown one, because I hear it's a legend.
+    루스: 갈게요, 레이든 변호사. 그 갈색 정장보단 나은 걸로 입고 와요. 전설이라던데.
 
 146. AISHA: She knows about the brown suit. How does she know about the brown suit?
     아이샤: 갈색 정장을 알아요. 그분이 갈색 정장을 어떻게 알아요?

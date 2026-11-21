@@ -278,8 +278,8 @@
 088. CARMEN: I didn't know there was a paper for that. Nobody gave me a paper.
     카르멘: 그런 서류가 있는 줄 몰랐어요. 아무도 서류를 안 줬어요.
 
-089. DAN: Thank you, that's very helpful, and that's the third brick.
-    댄: 감사합니다. 아주 도움이 됐어요. 그게 세 번째 벽돌이고요.
+089. DAN: Thank you, Mrs. Ortiz, that's very helpful, and that's the third brick.
+    댄: 감사합니다, 오르티스 부인. 아주 도움이 됐어요. 그게 세 번째 벽돌이고요.
 
 090. RUTH: The third what, Counsel, did I just hear you say brick?
     루스: 세 번째 뭐라고요, 변호사님? 방금 벽돌이라고 했어요?

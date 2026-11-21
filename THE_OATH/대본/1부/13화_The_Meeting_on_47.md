@@ -311,8 +311,8 @@
 099. VICTORIA: Don't thank me, because I said it because it's true, and because I'd rather tell him in this room than explain it to Judge Pike with my name on the brief. That's not courage, it's self-preservation with good manners.
     빅토리아: 고마워하지 마. 사실이라서 말한 거고, 내 이름 들어간 서면으로 파이크 판사한테 설명하느니 이 방에서 말하는 게 나아서야. 그건 용기가 아니라 예의 바른 자기 보존이야.
 
-100. HOWARD: Daniel, I want you in my office now, and thank you both, Victoria and Aisha.
-    하워드: 대니얼, 지금 내 사무실로 와. 빅토리아, 아이샤, 둘 다 고마워.
+100. HOWARD: Daniel, I want you in my office now. Victoria, Ms. Bellamy, thank you both.
+    하워드: 대니얼, 지금 내 사무실로 와. 빅토리아, 벨러미 변호사, 둘 다 고마워.
 
 101. HOWARD: Sit down, but not in the good chair, so sit in the other one, because I'm not feeling generous.
     하워드: 앉아. 아니, 좋은 의자 말고. 다른 데 앉아. 너그러운 기분이 아니야.
