@@ -17,14 +17,14 @@
 001. LORETTA: Come in, all of you. Sit wherever there's a chair. Thirty-one years here, and I never bought enough chairs.
     로레타: 들어와요, 다들. 의자 있는 데 아무 데나 앉아요. 여기서 31년인데 의자를 넉넉히 산 적이 없네.
 
-002. DAN: Good afternoon, I'm Dan Reardon, and it's good to finally meet you.
-    댄: 안녕하세요, 댄 레이든입니다. 드디어 뵙게 돼서 반갑습니다.
+002. DAN: Mrs. Ward, I'm Dan Reardon, and it's good to finally meet you.
+    댄: 워드 부인, 댄 레이든입니다. 드디어 뵙게 돼서 반갑습니다.
 
 003. LORETTA: You lost my son's appeal, and you wrote him back, so you did both. Sit down, because you get the good chair that doesn't wobble.
     로레타: 당신이 우리 아들 항소에서 졌지. 그리고 답장도 했고. 둘 다 했네. 앉아요. 안 흔들리는 좋은 의자 줄게.
 
-004. PITTS: I'm Lorraine Pitts, and I represent Tasha Greene after thirty years at Legal Aid. Thank you for having us in your home.
-    피츠: 로레인 피츠입니다. 타샤 그린을 대리해요. 법률구조협회에서 30년 일했어요. 집으로 불러 주셔서 감사합니다.
+004. PITTS: I'm Lorraine Pitts, and I represent Ms. Greene after thirty years at Legal Aid. Mrs. Ward, thank you for having us in your home.
+    피츠: 로레인 피츠입니다. 그린 씨를 대리해요. 법률구조협회에서 30년 일했어요. 워드 부인, 집으로 불러 주셔서 감사합니다.
 
 005. LORETTA: Ruth told me about you, and she said you're the toughest lawyer she knows, except her.
     로레타: 루스가 당신 얘기 했어요. 자기가 아는 제일 깐깐한 변호사래요. 자기 빼고.
@@ -32,8 +32,8 @@
 006. PITTS: Ruth always adds "except her," because it's her signature.
     피츠: 루스는 늘 "나 빼고"를 붙여요. 그게 그 사람 서명이죠.
 
-007. AISHA: I'm Aisha, and I'm a notary, so I'll stamp Tasha's statement.
-    아이샤: 저는 아이샤예요. 공증인이에요. 타샤 진술서에 도장 찍을 거예요.
+007. AISHA: Mrs. Ward, I'm Aisha, and I'm a notary, so I'll stamp Tasha's statement.
+    아이샤: 워드 부인, 저는 아이샤예요. 공증인이에요. 타샤 진술서에 도장 찍을 거예요.
 
 008. LORETTA: A notary, like at the bank, with the little stamp?
     로레타: 공증인? 은행에서 작은 도장 찍는 그거?
@@ -74,8 +74,8 @@
 020. LORETTA: This couch, because Eli and I were sitting right here on October sixth, 2011, watching the Yankees. I threw a slipper at that television, and it's the same television, and it still has the mark.
     로레타: 이 소파야. 2011년 10월 6일에 일라이랑 바로 여기 앉아서 양키스를 봤어. 내가 저 텔레비전에 슬리퍼를 던졌지. 같은 텔레비전이야. 자국이 아직 있어.
 
-021. TASHA: I practiced this at the laundromat for a week, so if I don't say it now, I'll lose it.
-    타샤: 빨래방에서 일주일 동안 연습했어요. 지금 말 안 하면 잊어버릴 거예요.
+021. TASHA: Mrs. Ward, I practiced this at the laundromat for a week, so if I don't say it now, I'll lose it.
+    타샤: 워드 부인, 빨래방에서 일주일 동안 연습했어요. 지금 말 안 하면 잊어버릴 거예요.
 
 022. LORETTA: Then say it, baby.
     로레타: 그럼 말해, 아가.
@@ -161,8 +161,8 @@
 049. LORETTA: There's one more thing: my closet has fifteen scrapbooks, one per year, with every article and every letter, and when you need them, they're yours.
     로레타: 하나 더 있어요. 옷장에 스크랩북이 열다섯 권 있어요. 1년에 한 권씩. 기사, 편지 전부요. 필요하면 다 가져가요.
 
-050. DAN: I'll need them this summer, every page of them.
-    댄: 이번 여름에 필요할 거예요. 한 장도 빠짐없이.
+050. DAN: I'll need them this summer, Mrs. Ward, every page of them.
+    댄: 이번 여름에 필요할 거예요, 워드 부인. 한 장도 빠짐없이.
 
 051. RUTH: You didn't have to come. I could have taken a cab.
     루스: 안 와도 됐는데. 택시 탈 수 있었어.
@@ -305,16 +305,16 @@
 097. FRANK: Because I worked the Bronx for twenty years, kid. If I know the name, I'll know the man. And I want to enjoy one more barbecue before I find out who he is.
     프랭크: 브롱크스에서 20년 일했으니까, 이 친구야. 이름을 알면 그 사람을 알게 될 거야. 그게 누군지 알기 전에 바비큐 한 번만 더 즐기고 싶어.
 
-098. DELGADO: People versus Eli Ward, so counsel, please approach. Counselor, your motion came in this morning, and you asked for an early conference, so here it is.
+098. DELGADO: People versus Eli Ward, so counsel, please approach. Mr. Reardon, your motion came in this morning, and you asked for an early conference, so here it is.
     델가도: 피플 대 일라이 워드. 변호인들, 앞으로 나오세요. 레이든 변호사, 신청서가 오늘 아침 들어왔죠. 조기 협의를 요청했고요. 지금 하죠.
 
-099. DAN: Thank you, Your Honor, I'm Daniel Reardon from the Abernathy Center, for Eli Ward.
-    댄: 감사합니다, 재판장님. 일라이 워드 측, 애버내시 센터의 대니얼 레이든입니다.
+099. DAN: Thank you, Your Honor, I'm Daniel Reardon from the Abernathy Center, for Mr. Ward.
+    댄: 감사합니다, 재판장님. 워드 씨 측, 애버내시 센터의 대니얼 레이든입니다.
 
 100. TRAN: Philip Tran, for the People, Your Honor. From the Bronx District Attorney's Office, Appeals Bureau.
     트랜: 검찰 측 필립 트랜입니다, 재판장님. 브롱크스 지방검찰청 항소부입니다.
 
-101. DELGADO: For the people in the back, "the People" means the prosecution, the State of New York. Counselor Tran, have you read this?
+101. DELGADO: For the people in the back, "the People" means the prosecution, the State of New York. Mr. Tran, have you read this?
     델가도: 뒤에 계신 분들을 위해 말하면, "피플"은 검찰, 즉 뉴욕주를 뜻합니다. 트란 검사, 이거 읽었어요?
 
 102. TRAN: I read it at lunch, Your Honor, and it's thirty-one pages, which is unusually short.
@@ -326,11 +326,11 @@
 104. TRAN: The People will oppose, Your Honor. Recantations are viewed with great suspicion. A witness who changes her story after fifteen years is not, by herself, enough to vacate a murder conviction.
     트랜: 검찰은 반대합니다, 재판장님. 증언 번복은 매우 의심스럽게 봅니다. 15년 뒤에 진술을 바꾼 증인 한 명만으로는 살인 유죄 판결을 취소하기에 충분하지 않습니다.
 
-105. DELGADO: And the defense's response?
-    델가도: 변호인 측 답변은요?
+105. DELGADO: Mr. Reardon, the defense's response?
+    델가도: 레이든 변호사, 변호인 측 답변은요?
 
-106. DAN: Your Honor, the prosecutor is right about one thing: a recantation alone would be weak, and that's why it isn't alone.
-    댄: 재판장님, 검사님 말씀 중 하나는 맞습니다. 번복 하나만으론 약하죠. 그래서 하나만이 아닙니다.
+106. DAN: Your Honor, Mr. Tran is right about one thing: a recantation alone would be weak, and that's why it isn't alone.
+    댄: 재판장님, 트란 검사님 말씀 중 하나는 맞습니다. 번복 하나만으론 약하죠. 그래서 하나만이 아닙니다.
 
 107. DELGADO: Go on.
     델가도: 계속하세요.
@@ -338,7 +338,7 @@
 108. DAN: At trial, the lead detective testified, "Per my report, the witness made a positive identification," on page three twelve. That report was never given to the defense, not before trial and not after, and we've never seen it.
     댄: 재판에서 담당 형사는 "제 보고서에 따르면 목격자가 확실히 지목했습니다."라고 증언했습니다. 312쪽입니다. 그 보고서는 재판 전에도 후에도 변호인에게 주어진 적이 없습니다. 저희는 본 적이 없어요.
 
-109. DELGADO: Counselor Tran, does the People's file contain that report?
+109. DELGADO: Mr. Tran, does the People's file contain that report?
     델가도: 트란 검사, 검찰 파일에 그 보고서가 있습니까?
 
 110. TRAN: I don't know yet, Your Honor, because the file is from 2011, and it's in storage.
@@ -359,8 +359,8 @@
 115. TRAN: Understood, Your Honor.
     트랜: 알겠습니다, 재판장님.
 
-116. DELGADO: Here's what happens. The People's written response is due August twenty-seventh, which is eight weeks, and that's plenty of time to search storage.
-    델가도: 이렇게 하죠. 검찰의 서면 답변은 8월 27일까지. 8주입니다. 창고 뒤지기엔 충분한 시간이죠.
+116. DELGADO: Here's what happens. Mr. Tran, the People's written response is due August twenty-seventh, which is eight weeks, and that's plenty of time to search storage.
+    델가도: 이렇게 하죠. 트란 검사, 검찰의 서면 답변은 8월 27일까지. 8주입니다. 창고 뒤지기엔 충분한 시간이죠.
 
 117. DELGADO: Second, I'm ordering the People and the NYPD to locate and preserve the black knit hat and every item of physical evidence from this case. Nothing gets moved, tested, or thrown away without an order from me.
     델가도: 둘째, 검찰과 NYPD에 검은 니트 모자와 이 사건의 모든 물적 증거를 찾아서 보존하라고 명령합니다. 내 명령 없이는 아무것도 옮기거나, 감정하거나, 폐기하지 마세요.
@@ -371,11 +371,11 @@
 119. DAN: Thank you, Your Honor.
     댄: 감사합니다, 재판장님.
 
-120. DELGADO: Don't thank me yet, Counselor, because I haven't granted anything. I'm setting an evidentiary hearing, which means witnesses under oath in this courtroom, including Tasha Greene.
-    델가도: 아직 고마워하지 마세요, 변호사님. 아무것도 인용하지 않았어요. 증거 심리를 잡겠습니다. 이 법정에서 증인들이 선서하고 증언한다는 뜻이죠. 타샤 그린도 포함해서.
+120. DELGADO: Don't thank me yet, Mr. Reardon, because I haven't granted anything. I'm setting an evidentiary hearing, which means witnesses under oath in this courtroom, including Tasha Greene.
+    델가도: 아직 고마워하지 마세요, 레이든 변호사님. 아무것도 인용하지 않았어요. 증거 심리를 잡겠습니다. 이 법정에서 증인들이 선서하고 증언한다는 뜻이죠. 타샤 그린도 포함해서.
 
-121. DELGADO: The hearing will begin on Monday, October eighteenth, at ten a.m., and Eli Ward will be produced from Harlow for it. Is there anything else?
-    델가도: 심리는 10월 18일 월요일 오전 10시에 시작합니다. 일라이 워드는 할로에서 출석시킵니다. 다른 건 없나요?
+121. DELGADO: The hearing will begin on Monday, October eighteenth, at ten a.m., and Mr. Ward will be produced from Harlow for it. Is there anything else?
+    델가도: 심리는 10월 18일 월요일 오전 10시에 시작합니다. 워드 씨는 할로에서 출석시킵니다. 다른 건 없나요?
 
 122. TRAN: Nothing further from the People.
     트랜: 검찰 측은 더 없습니다.
@@ -383,7 +383,7 @@
 123. DAN: Nothing, Your Honor.
     댄: 없습니다, 재판장님.
 
-124. DELGADO: We're adjourned. Counselor, off the record, I read your 2013 appeal brief this morning to compare, and this one is much better.
+124. DELGADO: We're adjourned. Mr. Reardon, off the record, I read your 2013 appeal brief this morning to compare, and this one is much better.
     델가도: 휴정합니다. 레이든 변호사, 비공식으로요. 오늘 아침 비교하려고 2013년 항소 이유서를 읽었는데, 이번 게 훨씬 낫네요.
 
 125. DAN: I had more time this time, Your Honor.
