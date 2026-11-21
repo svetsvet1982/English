@@ -84,7 +84,7 @@
 023. LILY: Grandpa, you were there in 1976?
     릴리: 할아버지, 1976년에 거기 계셨어요?
 
-024. STAN: I was twenty-eight years old. Of course I was there. Where else would I be?
+024. STAN: I was twenty-eight years old, so of course I was there. Where else would I be?
     스탠: 그때 스물여덟이었어. 당연히 있었지. 내가 어디 있었겠냐?
 
 025. ERIN: Stan, sit down first. You've been standing for an hour, and your feet are going to complain to me tomorrow.
@@ -93,7 +93,7 @@
 026. STAN: My feet complain to you every day. You're the only one who listens.
     스탠: 내 발은 매일 너한테 불평해. 들어 주는 게 너뿐이니까.
 
-027. ERIN: That's my job, Stan. Feet are my specialty.
+027. ERIN: That's my job, Stan. Feet happen to be my specialty.
     에린: 그게 제 일이에요, 스탠. 발이 제 전문이거든요.
 
 028. GLORIA: Erin, honey, sit with me. You look like you worked a twelve.
@@ -147,7 +147,7 @@
 044. STAN: Okay, everybody quiet. The sun's going down and I'm old, and if I don't tell this now, I'll fall asleep before the fireworks.
     스탠: 자, 다들 조용. 해는 지고 있고 난 늙었어. 지금 안 하면 불꽃놀이 전에 잠들 거야.
 
-045. SAM: Go ahead, Dad. We're listening.
+045. SAM: Go ahead, Dad, we're all listening.
     샘: 말해요, 아빠. 듣고 있어요.
 
 046. STAN: In the summer of '76, I'd been back from the Army for seven years, and I still didn't know what I was. I pumped gas, I loaded lumber, and I drove a bread truck for a while, but nothing stuck.
@@ -159,7 +159,7 @@
 048. STAN: I ate half the doughnuts, so they fired me. Anyway, that summer the whole country was throwing a birthday party for two hundred years. There were flags everywhere and tall ships on TV in New York harbor.
     스탠: 도넛을 반이나 먹어서 잘렸지. 아무튼 그해 여름엔 온 나라가 200살 생일 파티를 했어. 사방에 깃발이고, TV엔 뉴욕 항구의 범선들이 나오고.
 
-049. EARL: I remember the ships. My mother cried.
+049. EARL: I remember those ships. My mother cried in front of the TV.
     얼: 그 배들 기억나. 우리 어머니가 우셨어.
 
 050. STAN: Everybody's mother cried. And on the night of July fourth, I went down to this river, right about here where we're sitting, all alone with a hot dog and a bad mood.
@@ -405,7 +405,7 @@
 130. ERIN: Because you keep making promises, honey. Come on, they're starting.
     에린: 당신이 자꾸 약속을 하니까 그렇지, 여보. 가자. 시작한다.
 
-131. LILY: You're back! Did you guys fight? You both have that face.
+131. LILY: You're back! Did you guys fight? You both have that same face.
     릴리: 왔다! 두 분 싸웠어요? 둘 다 그 표정이에요.
 
 132. ERIN: We talked. Sit down, honey, your father has something to say. Stan, you're a witness.
@@ -417,7 +417,7 @@
 134. SAM: Okay, three dates that don't move. One is Sunday dinners, the rule we set last spring, and since I've missed four of the last six, from now on I don't miss them, and if I'm in Washington, I fly home Saturday night.
     샘: 좋아. 움직이지 않는 날짜 세 개. 하나, 일요일 저녁. 지난봄에 정한 규칙인데 최근 여섯 번 중 네 번을 빠졌어. 이제부턴 안 빠져. 워싱턴에 있으면 토요일 밤 비행기로 와.
 
-135. LILY: Four out of six. I counted too.
+135. LILY: Four out of six. I've been counting too.
     릴리: 여섯 번 중 네 번. 저도 셌어요.
 
 136. SAM: Two. The hearing ends July twenty-seventh, so that weekend, August first and second, the three of us drive to the Marblehead lighthouse on Lake Erie. No phones. Gloria keeps my phone in her purse.

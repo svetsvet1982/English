@@ -27,7 +27,7 @@
 004. VICTORIA: Good morning. I brought my own box, and it's very small, just a photograph and a coffee cup. That's all I took from twenty-six years.
     빅토리아: 빅토리아: 좋은 아침이에요. 제 상자는 제가 가져왔는데, 아주 작아요. 사진 한 장이랑 커피 잔 하나, 26년에서 가져온 건 그게 다예요.
 
-005. SAM: Victoria, come in. Would you like some coffee?
+005. SAM: Victoria, come in. Would you like some coffee from the machine?
     샘: 샘: 빅토리아, 들어와요. 커피 마실래요?
 
 006. VICTORIA: From the goose, please. I'm not a guest you like yet, and I know the rules.
@@ -402,7 +402,7 @@
 129. BEN: Of course it was. Welcome to the side with the loose step.
     벤: 벤: 그럴 줄 알았어요. 헐거운 계단 있는 편에 온 걸 환영해요.
 
-130. ERIN: You're sitting on the porch steps in the dark. That's new. It used to be the backyard.
+130. ERIN: You're sitting on the porch steps in the dark, and that's new. It used to be the backyard.
     에린: 에린: 어두운 데서 현관 계단에 앉아 있네. 그건 새롭다, 원래는 뒷마당이었잖아.
 
 131. SAM: I'm moving up in the world.
@@ -459,7 +459,7 @@
 148. MINJUN: It's Gary's line, and Frank stole it first. Sam, Mr. Park wants you to come to Ulsan in August, and he says, "Bring Wen. And bring your passport. I know you don't have one."
     민준: 민준: 개리 대사죠, 프랭크가 먼저 훔쳤어요. 샘, 박 대표님이 8월에 울산에 오시래요. "웬이랑 같이 와. 그리고 여권 챙기고. 없는 거 알아" 하셨어요.
 
-149. SAM: I don't have a passport. How does he know that?
+149. SAM: I don't have a passport. How on earth does he know that?
     샘: 샘: 나 여권 없는데, 그걸 어떻게 아세요?
 
 150. MINJUN: Everybody knows that, Sam. Get a passport. Ships, Sam. Let's build ships.

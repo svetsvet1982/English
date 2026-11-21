@@ -81,7 +81,7 @@
 022. SAM: When Moraine closed, I watched my dad sit in his kitchen chair for six months, doing nothing, and I was thirty and so angry, but I didn't know who to be angry at. I started Ferrox so I'd never send that memo.
     샘: 모레인이 문 닫았을 때, 아버지가 여섯 달 동안 부엌 의자에 아무것도 안 하고 앉아 계신 걸 봤어. 난 서른이었고 너무 화가 났는데, 누구한테 화를 내야 할지 몰랐어. 그런 메모를 절대 안 보내려고 Ferrox를 시작했어.
 
-023. ERIN: I remember that year. You barely slept.
+023. ERIN: I remember that year. You barely slept for months.
     에린: 그해 기억나. 당신 거의 못 잤잖아.
 
 024. SAM: And now, for the first time in eight years, the world is moving toward us. Wen thinks China will cut off rare earths, and if she's right, we'll have the only motor in this country that doesn't need them.
@@ -138,7 +138,7 @@
 041. ERIN: I trust you completely. I don't trust bankers. And you hear what you want to hear when you're excited, so I'm the second opinion.
     에린: 당신은 완전히 믿어. 은행원을 못 믿지. 그리고 당신은 들뜨면 듣고 싶은 것만 들어. 내가 두 번째 의견이야.
 
-042. SAM: It's Tuesday at ten. Can you get off work?
+042. SAM: It's Tuesday at ten. Can you get the morning off work?
     샘: 화요일 열 시야. 근무 뺄 수 있어?
 
 043. ERIN: I already switched shifts on Monday, when Gloria told me.
@@ -156,7 +156,7 @@
 047. ERIN: I'm Erin Kowalski, his wife, and I'm the collateral.
     에린: 에린 코왈스키예요. 이 사람 아내고요. 제가 담보예요.
 
-048. DOUG: Ha, well, that's honest. Please sit down. Would you like some coffee?
+048. DOUG: Ha, well, that's honest. Please sit down, and can I get anyone some coffee?
     더그: 하. 솔직하시네요. 앉으세요. 커피 드릴까요?
 
 049. GLORIA: Doug, we'll skip the coffee. You know why we're here. Ferrox needs a line of credit of about one point two million to get through the spring.
@@ -426,7 +426,7 @@
 137. DOUG: Thirty-one times. I counted once.
     더그: 서른한 번이요. 한 번 세 봤어요.
 
-138. SAM: Erin, are you really sure? We can still walk out.
+138. SAM: Erin, are you really sure? We can still get up and walk out.
     샘: 에린, 정말 확실해? 아직 나갈 수 있어.
 
 139. ERIN: Ask me again and I'll take the pen away. I'm sure. You gave me a real why, the test passed yesterday, and we have a deadline in June. I'm sure.
@@ -435,7 +435,7 @@
 140. SAM: Okay, this is the last page.
     샘: 좋아. 마지막 페이지야.
 
-141. DOUG: That's it, you're done. The money will be available on Monday, three hundred thousand. Use it wisely.
+141. DOUG: That's it, you're done. The money will be available on Monday, all three hundred thousand of it. Use it wisely.
     더그: 끝났어요. 돈은 월요일부터 쓰실 수 있어요. 30만 달러. 현명하게 쓰세요.
 
 142. GLORIA: That puts us at about eleven weeks, and with the Rivet deposit in January, maybe fifteen, which is enough to get to March and enough to wait for the SBA.
