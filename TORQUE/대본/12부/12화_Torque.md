@@ -39,7 +39,7 @@
 008. GLADYS: My husband talks to his truck, so I don't judge. We finished the floor at four, and you're standing on the only wet spot.
     글래디스: 우리 남편은 트럭한테 말해요. 그러니 뭐라 안 해요. 바닥은 네 시에 끝냈는데, 대표님이 유일하게 젖은 자리에 서 계세요.
 
-009. SAM: Sorry, I'll move. Gladys, it's the first huddle in the new building, so do you want to stay for it?
+009. SAM: Sorry, I'll move. Gladys, it's the first huddle in the new building. Do you want to stay for it?
     샘: 미안해요, 비킬게요. 글래디스, 새 건물 첫 허들인데 남아서 보실래요?
 
 010. GLADYS: My shift ends at five, but I own part of this floor now. I'm staying, and I'll sit on a bucket.
@@ -51,7 +51,7 @@
 012. GLADYS: A bucket's fine. A bucket's honest.
     글래디스: 양동이면 돼요. 양동이는 정직하잖아요.
 
-013. SAM: Okay, Betsy, it's just us again, so can I tell you something? Eleven years ago, I bought you for eleven thousand dollars from a factory that closed, and I didn't even know if you'd work. Dad found you on page nine.
+013. SAM: Okay, Betsy, it's just us again. Can I tell you something? Eleven years ago, I bought you for eleven thousand dollars from a factory that closed, and I didn't even know if you'd work. Dad found you on page nine.
     샘: 좋아, 베치, 다시 우리 둘이네. 하나 말해도 돼? 11년 전에 문 닫은 공장에서 1만 1천 달러에 널 샀는데, 네가 돌아갈지도 몰랐어. 아버지가 신문 9면에서 찾으셨지.
 
 014. SAM: The first motor I put on you failed, and so did the second one. The third one was Wen's rotor, and it passed at three in the morning with eighty-nine percent. She cried, and I pretended I didn't see.
@@ -78,13 +78,13 @@
 021. SAM: Pie at six in the morning, Donna? That's early, even for you.
     샘: 아침 여섯 시에 파이라니요, 도나? 도나치고도 이른데요.
 
-022. DONNA: Nobody recommends pie at six in the morning, and that's why it's good. It's cherry, since 1991, plus coconut cream for your father, half a slice, since his doctor still calls me.
+022. DONNA: Nobody recommends pie at six in the morning, and that's why it's good. Cherry, since 1991. And coconut cream for your father, half a slice, because his doctor still calls me.
     도나: 아침 여섯 시에 파이 추천하는 사람은 없지. 그래서 맛있는 거야. 1991년부터 체리. 그리고 아버지 드릴 코코넛 크림 반 조각. 의사가 아직도 나한테 전화하거든.
 
 023. SAM: Donna, how many times have you saved this company with pie?
     샘: 도나, 파이로 이 회사를 몇 번이나 살렸어요?
 
-024. DONNA: I stopped counting in 2025, but Gloria counts, so ask her.
+024. DONNA: I stopped counting in 2025. Gloria keeps count, so ask her.
     도나: 2025년에 세는 거 그만뒀어. 글로리아가 세니까 걔한테 물어봐.
 
 025. SAM: I think I owe you about four hundred slices.
@@ -93,7 +93,7 @@
 026. DONNA: It's four hundred and twelve, according to the spreadsheet Gloria sent me. Pay me in customers. You've been doing fine.
     도나: 사백열두 조각이야. 글로리아가 스프레드시트 보내 줬어. 손님으로 갚아. 잘하고 있잖아.
 
-027. SAM: Donna, can I ask you something? You've watched me since 2016, so am I doing the right thing by stepping aside?
+027. SAM: Donna, can I ask you something? You've watched me since 2016. Am I doing the right thing by stepping aside?
     샘: 도나, 하나 물어봐도 돼요? 2016년부터 날 봐 왔잖아요. 옆으로 비키는 거, 내가 옳은 일 하는 거예요?
 
 028. DONNA: Honey, every morning for eleven years, you came into my diner looking like you were carrying a refrigerator up the stairs. Last Tuesday, you came in with Erin and ate eggs like a person. That's my answer.
@@ -114,10 +114,10 @@
 033. STAN: Who's talking about grease, when I smell coconut cream?
     스탠: 누가 기름 얘기 하냐? 코코넛 크림 냄새가 나는데.
 
-034. SAM: Dad? It's six a.m., so how did you get here?
+034. SAM: Dad? It's six in the morning. How did you even get here?
     샘: 아버지? 아침 여섯 시인데 어떻게 오셨어요?
 
-035. STAN: I drove, since I'm allowed to drive in daylight and it's almost daylight. I left the porch light on for you, and then I thought, why wait for him when I can come to him?
+035. STAN: I drove. I'm allowed to drive in daylight, and it's almost daylight. I left the porch light on for you, and then I thought, why wait for him? I'll go to him.
     스탠: 운전해서 왔지. 낮엔 운전해도 되는데 거의 낮이잖아. 너 오라고 현관 불 켜 뒀다가, 왜 기다리나 싶더라. 내가 너한테 오면 되지.
 
 036. SAM: You came to the first huddle at plant one too, back in 2016, and you sat on a paint can.
@@ -147,13 +147,13 @@
 044. STAN: Loretta's always been a smart woman.
     스탠: 로레타는 늘 똑똑한 사람이었지.
 
-045. EARL: Smarter than me, Stan. Sam, the tug motor's on the stand, and it's ready, since Wen and Minjun were here till two.
+045. EARL: Smarter than me, Stan. Sam, the tug motor's on the stand and it's ready. Wen and Minjun were here till two.
     얼: 저보다 똑똑하죠, 스탠. 샘, 예인선 모터는 시험대에 올라가 있고 준비됐어. 웬이랑 민준이 두 시까지 여기 있었거든.
 
 046. PATTY: Sam! Did you hear, or did anybody tell you?
     패티: 샘! 들었어? 누가 말해 줬어?
 
-047. SAM: Tell me what, Patty? Nobody tells me anything anymore.
+047. SAM: Tell me what, Patty? Nobody tells me anything around here anymore.
     샘: 뭘요, 패티? 이젠 아무도 나한테 말을 안 해 줘요.
 
 048. PATTY: The employee seat on the board. The vote closed Friday at midnight, and Earl nominated me, but I didn't even know until Wednesday.
@@ -213,10 +213,10 @@
 066. MADDIE: Mr. Kowalski, Lily texted me at four that she's driving from Purdue. She said, "Don't let them start without me."
     매디: 코왈스키 대표님, 릴리가 네 시에 퍼듀에서 운전해서 오고 있다고 문자했어요. "나 없이 시작하게 하지 마"래요.
 
-067. TERESA: Sam, here's a quick update, because I can't help it. The ISO 13485 pre-audit is next month, and we're ahead, and the classification society wants to witness the tug motor test in December.
+067. TERESA: Sam, a quick update, because I can't help myself. The ISO 13485 pre-audit is next month, and we're ahead. And the classification society wants to witness the tug motor test in December.
     테레사: 샘, 참을 수가 없어서 짧게 보고할게요. ISO 13485 예비 심사가 다음 달인데 앞서가고 있어요. 그리고 선급이 12월에 예인선 모터 시험에 입회하고 싶대요.
 
-068. SAM: You're not supposed to tell me updates anymore, so tell Wen.
+068. SAM: You're not supposed to give me updates anymore. Tell Wen.
     샘: 이제 나한테 보고하면 안 돼요. 웬한테 해요.
 
 069. TERESA: I told Wen at eleven last night. I'm telling you out of habit, and I'll break it by Friday.
@@ -234,13 +234,13 @@
 073. TYLER: It's like the Army, but with better coffee. Copy that, Sam.
     타일러: 군대 같은데 커피가 더 좋아요. 접수예요, 샘.
 
-074. MINJUN: Sam, good morning! Here it's morning, and in Ulsan it's night, so good morning and good night. Mr. Park is awake and watching on my phone.
+074. MINJUN: Sam, good morning! It's morning here and night in Ulsan, so good morning and good night. Mr. Park is awake and watching on my phone.
     민준: 샘, 안녕하세요! 여기는 아침이고 울산은 밤이니까, 좋은 아침이고 잘 자요. 대표님이 깨어 계셔서 제 폰으로 보고 계세요.
 
 075. SAM: Good night, Mr. Park, and thank you for staying up.
     샘: 안녕히 주무세요, 박 대표님. 안 주무시고 계셔서 감사해요.
 
-076. MINJUN: He says, "Don't sleep until it spins," which he says to everybody, and sunbae hasn't slept since Thursday.
+076. MINJUN: He says, "Don't sleep until it spins." He says that to everybody. Sunbae hasn't slept since Thursday.
     민준: "돌아가기 전까진 자지 마"래요. 대표님은 모두한테 그 말 하세요. 선배는 목요일부터 안 잤어요.
 
 077. VICTORIA: Sam, before you go up, Wen asked me something yesterday, and I want you to hear it from me.
@@ -258,13 +258,13 @@
 081. VICTORIA: I said yes, and then I went to my car and cried for ten minutes. It was a better ten minutes than the hour in July.
     빅토리아: '예스' 하고는 차로 가서 10분 울었어요. 7월의 그 한 시간보다 나은 10분이었어요.
 
-082. GLORIA: Okay, everybody, it's six-fifty, so gather around Betsy. Gladys, you can stay on the bucket. Stan, there's an actual chair for you, not a paint can.
+082. GLORIA: Okay, everybody, it's six-fifty. Gather around Betsy. Gladys, you can stay on the bucket. Stan, there's an actual chair for you, not a paint can.
     글로리아: 자, 다들. 여섯 시 50분이야. 베치 앞으로 모여. 글래디스는 양동이에 그대로 있어도 돼. 스탠, 페인트 통 말고 진짜 의자 있어요.
 
 083. LILY: Wait, wait, I'm here, don't start without me! I drove three hours! Maddie, did they start?
     릴리: 잠깐, 잠깐, 나 왔어! 시작하지 마! 세 시간 운전했어! 매디, 시작했어?
 
-084. MADDIE: Not yet, you're fine, so breathe.
+084. MADDIE: Not yet, you're totally fine. Just take a breath.
     매디: 아직. 괜찮아. 숨 쉬어.
 
 085. ERIN: I'm here too, even though my class is at nine. I told my professor I had a medical emergency again, and he's starting to worry about this family.
@@ -276,7 +276,7 @@
 087. ERIN: Of course I came. It's a Monday, and it's not even one of your days, but I came anyway. That's how it works now, both ways.
     에린: 당연히 왔지. 월요일이라 당신 귀가 요일도 아닌데, 그래도 왔어. 이제 그렇게 하는 거야. 양쪽 다.
 
-088. GLORIA: Sam, you're on, and Erin said three things, so I'm timing you.
+088. GLORIA: Sam, you're on. Erin said three things, and I'm timing you.
     글로리아: 샘, 네 차례야. 에린이 세 가지랬으니까 시간 잴게.
 
 089. EARL: So am I, and fifty-eight seconds is the record.
@@ -297,7 +297,7 @@
 094. PATTY: Oh my God, it's Wen.
     패티: 세상에, 웬이래.
 
-095. SAM: Three, two years ago, a blog said she was a spy, and last year the Army wouldn't let her see her own code. In July, she became a citizen, and today she's the boss, so nobody can tell her she can't anymore.
+095. SAM: Three. Two years ago, a blog said she was a spy, and last year the Army wouldn't let her see her own code. In July, she became a citizen. Today she's the boss, and nobody can tell her she can't anymore.
     샘: 셋, 2년 전엔 블로그가 웬을 스파이라고 했고, 작년엔 육군이 자기 코드를 못 보게 했어. 7월에 시민이 됐고, 오늘은 대표야. 이제 아무도 웬한테 안 된다고 못 해.
 
 096. GLORIA: That's fifty-one seconds, a new record.
@@ -348,7 +348,7 @@
 111. WEN: I will, Baba, and I'll call you after. Lily, don't hang up. He wants to see it spin.
     웬: 그럴게요, 바바. 끝나고 전화할게요. 릴리, 끊지 마. 돌아가는 거 보고 싶어 하셔.
 
-112. GLORIA: Before the huddle, there's one thing, so everybody look at my board. I've counted runway every Friday since 2016, first in weeks and then in months, from nine weeks to four weeks to thirty months.
+112. GLORIA: Before the huddle, there's one thing. Everybody look at my board. I've counted runway every Friday since 2016, first in weeks and then in months: nine weeks, four weeks, thirty months.
     글로리아: 허들 전에 하나만. 다들 내 칠판 봐. 2016년부터 금요일마다 런웨이를 셌어. 처음엔 주 단위로, 그다음엔 달 단위로. 9주, 4주, 30개월.
 
 113. TYLER: Wait, is she erasing the whole thing?
@@ -384,7 +384,7 @@
 123. GLORIA: Okay, okay, sit down with your coffee in your hand. It's seven o'clock. Wen, it's yours.
     글로리아: 알았어, 알았어. 커피 들고 앉아. 일곱 시야. 웬, 네 거야.
 
-124. EARL: It's seven a.m., so everybody around Betsy. Tyler, put the donut down.
+124. EARL: It's seven a.m. Everybody around Betsy, and Tyler, put the donut down.
     얼: 아침 일곱 시다. 다들 베치 앞으로. 타일러, 도넛 내려놔.
 
 125. TYLER: It's pie, Earl, on Donna's orders.
@@ -399,7 +399,7 @@
 128. ERIN: You're making the face again.
     에린: 당신 또 표정 짓고 있어.
 
-129. SAM: I'm allowed to make faces. I'm in the back.
+129. SAM: I'm allowed to make faces. I'm standing in the back.
     샘: 해도 돼. 난 뒤에 있잖아.
 
 130. EARL: What spins today is robot fingers for Gus, three hundred cartridges of Lily's design, Saltillo motors on line one, and twelve surgery motors in the clean room. And on Betsy, the tug motor, one-tenth scale, a hundred and fifty kilowatts.
@@ -432,7 +432,7 @@
 139. MINJUN: It's at two hundred eighty RPM and full torque, with Betsy at the top of her scale. Sunbae, look at the current, and look at the heat.
     민준: 280RPM에 최대 토크, 베치가 눈금 끝까지 갔어요. 선배, 전류 보세요. 열도 보세요.
 
-140. WEN: They're both flat, which means the magnets are happy. Marcus, cut winding A.
+140. WEN: They're both flat, so the magnets are happy. Marcus, cut winding A.
     웬: 둘 다 평평해. 자석이 행복하다는 뜻이야. 마커스, A 권선 끊어.
 
 141. MARCUS: Winding A is off, and winding B is carrying it alone. It's still turning, with torque at sixty-one percent, and it's holding.
@@ -453,13 +453,13 @@
 146. MADDIE: Then why is everybody crying, Mr. Kowalski, even you, when it's going, like, two hundred RPM?
     매디: 겨우 200RPM쯤인데 왜 다들 울어요? 코왈스키 대표님까지요.
 
-147. SAM: It's two hundred eighty. And I'm not the boss anymore, Maddie, so call me Sam.
+147. SAM: It's two hundred eighty. And I'm not the boss anymore, Maddie, so you can call me Sam.
     샘: 280이야. 그리고 난 이제 대표 아니야, 매디. 샘이라고 불러.
 
 148. MADDIE: Okay, Sam, why does everybody here always say torque, when everybody else in the world talks about speed?
     매디: 알겠어요, 샘. 세상 사람들은 다 속도 얘기하는데, 여기 사람들은 왜 맨날 토크 얘기만 해요?
 
-149. SAM: Because speed is what people notice. Look at that shaft, which is slow enough to count the bolts. Someday, somewhere, it's going to push a ship ten times its size into a harbor, and that's what we build.
+149. SAM: Because speed is what people notice. Look at that shaft. It's slow enough to count the bolts. And someday, somewhere, it's going to push a ship ten times its size into a harbor. That's what we build.
     샘: 속도는 사람들 눈에 띄는 거니까. 저 축 봐. 볼트를 셀 수 있을 만큼 느리지. 그런데 언젠가 어딘가에서, 자기보다 열 배 큰 배를 항구 안으로 밀어 넣을 거야. 그게 우리가 만드는 거야.
 
 150. SAM: Torque isn't speed. It's what gets heavy things moving.
