@@ -53,11 +53,11 @@
 013. ODELL: Word for word, so go on in and take your time, because he doesn't get many visitors.
     오델: 토씨 하나 안 틀리고요. 들어가세요. 천천히 하세요. 면회 오는 사람이 별로 없거든요.
 
-014. ELI: So you're the lawyer from the letter, finally in the same room.
-    일라이: 그러니까 편지 속 그 변호사네요. 드디어 같은 방에서.
+014. ELI: Mr. Reardon. So you're the lawyer from the letter, finally in the same room.
+    일라이: 레이든 씨. 그러니까 편지 속 그 변호사네요. 드디어 같은 방에서.
 
-015. DAN: It's good to finally meet you, Eli Ward.
-    댄: 드디어 만나서 반가워요, 일라이 워드.
+015. DAN: Mr. Ward. It's good to finally meet you.
+    댄: 워드 씨. 드디어 만나서 반가워요.
 
 016. ELI: Call me Eli, because everybody does, except the ones who call me eleven A four four seven two. You look different than I pictured.
     일라이: 일라이라고 불러요. 다들 그래요. 11A4472라고 부르는 사람들 빼고요. 생각했던 거랑 다르게 생기셨네요.
@@ -383,8 +383,8 @@
 123. ODELL: You have five minutes, Counselor.
     오델: 5분 남았어요, 변호사님.
 
-124. ELI: Dan, there's one more thing before you go, and it matters.
-    일라이: 댄, 가기 전에 하나만 더요. 중요한 거예요.
+124. ELI: Mr. Reardon — Dan — there's one more thing before you go, and it matters.
+    일라이: 레이든 씨, 아니, 댄. 가기 전에 하나만 더요. 중요한 거예요.
 
 125. DAN: Go ahead.
     댄: 말해요.
