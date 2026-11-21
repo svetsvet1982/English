@@ -7,9 +7,9 @@
 > - 배경: 2027년 7월 12일(월) 오전 A-23 고속도로 테루엘 구간, 에어컨이 약한 렌터카(바깥 41도) → 같은 날 오후 모네그로스의 가상 마을 발데시에라(Valdesierra)의 바 '카사 필라르' → 그날 밤 마을 오스탈 → 7월 13일(화) 오전 10시 Monegros Data Campus 정문과 400kV 변전소 점검 → 7월 14일(수) 밤 23시 45분 캠퍼스 C-4동 잠입. 비 한 방울 없는 넉 달째의 가뭄, 바싹 마른 밀밭과 물이 가득한 냉각용 저수지.
 > - 등장인물: 알바로, 옥사나, 누리아(전화·이어폰), 바 주인(CAMARERA), 율리아(음성 메시지), 캠퍼스 경비원(VIGILANTE), 캠퍼스 시설 책임자(JEFE DE PLANTA), 오리올
 > - 난이도: B1+–B2 · 턴 수: 140
-> - 이번 화의 핵심 표현: "dar la lata", "bordar algo", "tutearse", "ser lo de menos", "darle a alguien por desaparecido", "estar mal conectado", "ponerse en lo peor", "a estas alturas"
+> - 이번 화의 핵심 표현: "dar la lata", "bordar algo", "tutearse", "ser lo de menos", "darle a alguien por desaparecido", "estar mal conectado", "que conste que…", "a estas alturas"
 > - 방언 포인트: 알바로의 마드리드 구어 *tío, vale, mola, hostia* / 누리아의 *escolta, home, collons, bon dia* / 옥사나의 교과서식 스페인어(1976년 소련 교재 문장)와 *usted*에서 *tú*로 넘어가는 순간(039~041) / 바 주인의 아라곤식 친근함(*hija*, 어미 *-ico*: *un poquico*) / 오리올의 카탈루냐어(*Qui hi ha?*, *la iaia*, *Déu meu*)
-> - 문법 포인트(3부: 조건법·접속법 과거): *Parece que alguien les hubiera pasado un soplete* (047), *Si me pillaran, no perdería solo el trabajo* (078), *Si yo fuera usted, no me quedaría ahí* (100), *Ojalá pudiera decirte que no* (085), *Si no hubiera vendido aquel código, mi abuela estaría en su casa* (133), *como si no hubiera pasado nada* (121)
+> - 문법 포인트(3부: 조건법·접속법 과거): *Parece que alguien les hubiera pasado un soplete* (047), *Si me pillaran, no perdería solo el trabajo* (078), *si yo fuera usted, no los dejaría solos ni un minuto* (100), *Ojalá pudiera decirte que no* (086), *Si no hubiera vendido aquel código, mi abuela estaría en su casa* (134), *como si no hubiera pasado nada* (120)
 > - 복선/연결: 8화 끝 누리아가 찾은 제어 노드(사라고사 외곽 데이터센터)를 받아 시작. 옥사나가 1월에 이 캠퍼스의 계통 연계 보고서에 서명했다(010) → 그녀의 죄책감. 누리아의 '핀초'(USB 장치)가 변전소 제어반을 통해 캠퍼스 건물관리망에 들어감(095) → 10화 원격 감시와 '7분 간격 신호'(2부 CATENARIA와 동일). 율리아는 라 페 병원 간호사, 야간 근무(069) → 10화 소로킨의 협박. 오리올의 마지막 말 "No soy el único ingeniero aquí" → 10화.
 
 ---
@@ -19,17 +19,17 @@
 001. NÚRIA: Gato, ¿me oyes? Si se corta, es culpa de Teruel, no mía.
     누리아: 가토, 들려? 끊기면 테루엘 탓이지 내 탓 아니야.
 
-002. ÁLVARO: Te oigo. Vamos por la A-23, pasado Sarrión. El aire acondicionado del coche ha decidido jubilarse.
-    알바로: 들려. A-23 타고 사리온 지났어. 차 에어컨이 은퇴하기로 했나 봐.
+002. ÁLVARO: Te oigo. Vamos por la A-23, pasado Sarrión. El aire del coche se ha jubilado.
+    알바로: 들려. A-23 타고 사리온 지났어. 차 에어컨이 은퇴했어.
 
-003. OKSANA: No se ha jubilado. Funciona perfectamente. El problema es que fuera estamos a cuarenta y un grados.
-    옥사나: 은퇴 안 했어요. 완벽하게 작동하고 있어요. 문제는 바깥이 41도라는 거예요.
+003. OKSANA: No se ha jubilado. Funciona. El problema es que fuera hay cuarenta y un grados.
+    옥사나: 은퇴 안 했어요. 작동해요. 문제는 바깥이 41도라는 거예요.
 
 004. NÚRIA: Bon dia, Oksana. ¿Ya te está dando la lata?
     누리아: 좋은 아침, 옥사나. 벌써 귀찮게 굴어?
 
-005. OKSANA: Desde Sagunto. Primero con la radio, luego con el fútbol y ahora con el aire acondicionado.
-    옥사나: 사군토에서부터요. 처음엔 라디오, 그다음엔 축구, 지금은 에어컨으로요.
+005. OKSANA: Desde Sagunto. Primero la radio, luego el fútbol y ahora el aire acondicionado.
+    옥사나: 사군토에서부터요. 처음엔 라디오, 그다음엔 축구, 지금은 에어컨이요.
 
 006. ÁLVARO: Núria, dime algo bueno antes de que me derrita.
     알바로: 누리아, 나 녹기 전에 좋은 소식 좀 줘.
@@ -58,23 +58,23 @@
 014. OKSANA: Mañana a las diez tengo una inspección oficial de la subestación. Revisión de verano por la ola de calor. Todo con papeles.
     옥사나: 내일 열 시에 변전소 공식 점검이 있어요. 폭염 대비 여름 점검이요. 서류 다 갖춰서요.
 
-015. ÁLVARO: Y yo soy su técnico. Casco, chaleco y cara de no entender nada.
-    알바로: 난 조수고. 안전모에 조끼에, 아무것도 모르는 얼굴로.
+015. ÁLVARO: Y yo, su técnico torpe.
+    알바로: 난 서툰 조수고.
 
-016. NÚRIA: Eso último lo bordas.
-    누리아: 마지막 건 완벽하게 하겠네.
+016. NÚRIA: Eso lo bordas.
+    누리아: 그건 완벽하게 하겠네.
 
 017. ÁLVARO: Gracias, guapa. Siempre tan cariñosa.
     알바로: 고맙다, 예쁜아. 늘 이렇게 다정하다니까.
 
-018. NÚRIA: Una cosa, Gato. ¿Quién más sabe que estáis en Aragón?
-    누리아: 하나만, 가토. 너희가 아라곤에 있는 거 또 누가 알아?
+018. NÚRIA: ¿Quién más sabe que estáis en Aragón?
+    누리아: 너희가 아라곤에 있는 거 또 누가 알아?
 
 019. ÁLVARO: En la Casa, nadie. Con Iker detenido y quien tú sabes leyendo cada papel, prefiero que me den por desaparecido a que me den por informado.
     알바로: 본부엔 아무도. 이케르는 잡혀 있고, 너도 아는 그 사람이 서류 한 장 한 장 다 읽고 있는데, 보고했다고 치느니 실종됐다고 치는 게 나아.
 
-020. NÚRIA: Me parece bien. Esta noche os mando los planos de las naves. Si es que Teruel me deja…
-    누리아: 좋아. 오늘 밤에 건물 도면 보내 줄게. 테루엘이 허락해 준다면…
+020. NÚRIA: Esta noche os mando los planos. Si Teruel me deja…
+    누리아: 오늘 밤에 도면 보내 줄게. 테루엘이 허락해 준다면…
 
 021. OKSANA: Se ha cortado.
     옥사나: 끊겼어요.
@@ -85,8 +85,8 @@
 023. OKSANA: ¿Puedo hacerle una pregunta personal, Álvaro?
     옥사나: 개인적인 질문 하나 해도 될까요, 알바로?
 
-024. ÁLVARO: Llevamos tres horas en un horno con ruedas. Pregunte lo que quiera.
-    알바로: 바퀴 달린 오븐에서 세 시간째예요. 뭐든 물어봐요.
+024. ÁLVARO: Tres horas en un horno con ruedas. Pregunte.
+    알바로: 바퀴 달린 오븐에서 세 시간째예요. 물어봐요.
 
 025. OKSANA: ¿Por qué canta las canciones de la radio si no se sabe ninguna letra?
     옥사나: 가사도 하나 모르면서 라디오 노래는 왜 따라 불러요?
@@ -118,8 +118,8 @@
 034. ÁLVARO: Hombre, muy útil para pedir un café.
     알바로: 와, 커피 주문할 때 아주 유용하겠네요.
 
-035. OKSANA: Había otra mejor. "La brigada cumplió el plan quinquenal con orgullo y sin quejarse del calor."
-    옥사나: 더 좋은 것도 있었어요. "작업반은 더위에 불평하지 않고 자랑스럽게 5개년 계획을 완수했다."
+035. OKSANA: Otra mejor: "La brigada cumplió el plan quinquenal sin quejarse del calor."
+    옥사나: 더 좋은 것도 있어요. "작업반은 더위에 불평하지 않고 5개년 계획을 완수했다."
 
 036. ÁLVARO: ¿Sin quejarse del calor? Eso va por mí.
     알바로: 더위에 불평하지 않고? 그거 나 들으라고 하는 소리죠.
@@ -133,7 +133,7 @@
 039. OKSANA: No lo ponga en el informe. Y… si quiere, podemos tutearnos. Me cuesta un poco, pero después de tres horas en este horno creo que nos lo hemos ganado.
     옥사나: 보고서엔 쓰지 마세요. 그리고… 괜찮으면 우리 말 편하게 해요. 저한텐 좀 어렵지만, 이 오븐에서 세 시간을 버텼으니 그럴 자격은 생긴 것 같아요.
 
-040. ÁLVARO: Hecho. Aunque el libro de los soviéticos no te va a ayudar mucho con el tú.
+040. ÁLVARO: Hecho. Aunque el libro soviético no te va a ayudar con el tú.
     알바로: 좋아. 근데 소련 교재는 반말엔 별 도움이 안 될걸.
 
 041. OKSANA: Entonces me corregirás tú. Pero despacio.
@@ -148,20 +148,20 @@
 044. ÁLVARO: Una caña bien fría. Y para ella…
     알바로: 아주 차가운 생맥주 한 잔이요. 그리고 이쪽은…
 
-045. OKSANA: Agua con gas, por favor. Lo más fría que sea posible.
-    옥사나: 탄산수 주세요. 최대한 차갑게요.
+045. OKSANA: Agua con gas, muy fría, por favor.
+    옥사나: 탄산수요, 아주 차갑게 부탁해요.
 
-046. CAMARERA: Fría tengo. Lo que no tengo es lluvia. Desde marzo no ha caído ni una gota en Valdesierra.
-    바 주인: 차가운 건 있지. 없는 건 비야. 3월부터 발데시에라엔 비 한 방울 안 왔어.
+046. CAMARERA: Fría, sí. Lluvia, no. Desde marzo no ha caído ni una gota en Valdesierra.
+    바 주인: 차가운 건 있지. 비는 없고. 3월부터 발데시에라엔 비 한 방울 안 왔어.
 
-047. ÁLVARO: Ya hemos visto los campos desde la carretera. Parece que alguien les hubiera pasado un soplete.
-    알바로: 길에서 밭 봤어요. 누가 토치로 싹 지지고 간 것 같던데요.
+047. ÁLVARO: Ya hemos visto los campos. Parece que alguien les hubiera pasado un soplete.
+    알바로: 밭 봤어요. 누가 토치로 싹 지지고 간 것 같던데요.
 
 048. CAMARERA: El cereal se ha quedado en nada, hijo. Y a los de regadío les cortan el agua del canal tres días por semana. Restricciones, dicen.
     바 주인: 곡식은 다 망했어. 물 대는 집들은 일주일에 사흘씩 수로 물이 끊기고. 제한 급수래.
 
-049. OKSANA: ¿Y el centro de datos? Hemos visto una balsa enorme llena de agua, justo al lado de la carretera.
-    옥사나: 그럼 데이터센터는요? 길 바로 옆에 물이 가득 찬 커다란 저수지가 있던데요.
+049. OKSANA: ¿Y el centro de datos? Tiene una balsa enorme llena de agua.
+    옥사나: 그럼 데이터센터는요? 물이 가득 찬 커다란 저수지가 있던데요.
 
 050. CAMARERA: Ah, el campus. Esa balsa es para enfriar los ordenadores. Los ordenadores beben y las ovejas no. Así está el mundo.
     바 주인: 아, 그 캠퍼스. 그 저수지는 컴퓨터 식히는 용도야. 컴퓨터는 물을 마시는데 양들은 못 마셔. 세상이 그래.
@@ -181,8 +181,8 @@
 055. ÁLVARO: ¿Su sobrino trabaja allí? Qué suerte.
     알바로: 조카분이 거기서 일해요? 운이 좋네요.
 
-056. CAMARERA: Suerte, no sé. Hace el turno de noche y dice que es el trabajo más raro que ha tenido. Que hay una nave donde no le dejan entrar ni a él, y que de allí salen unos tíos que hablan como en las películas de espías.
-    바 주인: 운인지는 모르겠다. 야간 근무 하는데, 살면서 해 본 일 중에 제일 이상하대. 자기도 못 들어가게 하는 건물이 하나 있는데, 거기서 첩보 영화처럼 말하는 남자들이 나온대.
+056. CAMARERA: Suerte, no sé. Hace el turno de noche. Dice que hay una nave donde no le dejan entrar ni a él, y que de allí salen unos tíos que hablan como en las películas de espías.
+    바 주인: 운인지는 모르겠다. 야간 근무 하는데, 자기도 못 들어가게 하는 건물이 하나 있대. 거기서 첩보 영화처럼 말하는 남자들이 나온다나.
 
 057. ÁLVARO: ¿Como en las películas?
     알바로: 영화처럼요?
@@ -193,8 +193,8 @@
 059. ÁLVARO: De Bilbao conozco a uno, y le aseguro que habla todavía más raro.
     알바로: 빌바오 사람 하나 아는데, 장담컨대 그 녀석이 더 이상하게 말해요.
 
-060. CAMARERA: ¿Y vosotros qué sois? ¿De la tele, de los del agua o de los del campus?
-    바 주인: 그럼 당신들은 뭐야? 방송국? 수자원공사? 아니면 캠퍼스 쪽?
+060. CAMARERA: ¿Y vosotros qué sois? ¿De la tele o del campus?
+    바 주인: 그럼 당신들은 뭐야? 방송국? 아니면 캠퍼스 쪽?
 
 061. OKSANA: De la compañía eléctrica. Venimos a revisar la subestación por la ola de calor.
     옥사나: 전력회사에서 왔어요. 폭염 때문에 변전소 점검하러요.
@@ -202,11 +202,11 @@
 062. CAMARERA: Pues revisadla bien, hija. Si a esos les sobra la luz y a nosotros nos falta el agua, algo está mal conectado.
     바 주인: 그럼 잘 좀 봐 줘, 아가씨. 저 사람들은 전기가 남아돌고 우린 물이 모자라면, 뭔가 잘못 연결된 거야.
 
-063. OKSANA: Tiene usted toda la razón. Algo está muy mal conectado.
-    옥사나: 정말 맞는 말씀이에요. 뭔가 아주 잘못 연결돼 있어요.
+063. OKSANA: Tiene razón. Algo está muy mal conectado.
+    옥사나: 맞는 말씀이에요. 뭔가 아주 잘못 연결돼 있어요.
 
-064. CAMARERA: Os pongo unas olivicas, invita la casa. Que con este calor hay que comer un poquico, aunque no apetezca.
-    바 주인: 올리브 좀 줄게, 서비스야. 이 더위엔 입맛 없어도 조금은 먹어야 돼.
+064. CAMARERA: Os pongo unas olivicas, invita la casa. Hay que comer un poquico.
+    바 주인: 올리브 좀 줄게, 서비스야. 조금은 먹어야지.
 
 065. ÁLVARO: Una nave donde no dejan entrar ni a los vigilantes. ¿Has oído eso?
     알바로: 경비원도 못 들어가는 건물 하나. 들었어?
@@ -214,8 +214,8 @@
 066. OKSANA: Lo he oído. Y he oído otra cosa: el pueblo sin agua y la balsa llena. Hace seis meses yo firmé un papel que decía que todo esto era progreso.
     옥사나: 들었어. 그리고 다른 것도 들었지. 물 없는 마을과 가득 찬 저수지. 여섯 달 전에 나는 이게 다 발전이라고 적힌 서류에 서명했어.
 
-067. ÁLVARO: Tú firmaste unos transformadores, Oksana. No firmaste la sequía.
-    알바로: 넌 변압기에 서명한 거야, 옥사나. 가뭄에 서명한 게 아니라.
+067. ÁLVARO: Firmaste unos transformadores. No firmaste la sequía.
+    알바로: 넌 변압기에 서명한 거야. 가뭄에 서명한 게 아니라.
 
 068. OKSANA: En mi país, la luz es política. Aquí, por lo visto, también el agua.
     옥사나: 우리나라에선 전기가 정치야. 여기선 보아하니 물도 그렇네.
@@ -232,8 +232,8 @@
 072. ÁLVARO: ¿Sabe a qué has venido?
     알바로: 네가 뭐 하러 온 건지 알아?
 
-073. OKSANA: Cree que he venido a revisar transformadores con un compañero muy pesado. No es mentira del todo.
-    옥사나: 아주 성가신 동료랑 변압기 보러 온 줄 알아. 완전히 거짓말은 아니지.
+073. OKSANA: Cree que reviso transformadores con un compañero muy pesado. No es del todo mentira.
+    옥사나: 아주 성가신 동료랑 변압기 보는 줄 알아. 완전히 거짓말은 아니지.
 
 074. NÚRIA: Ja hi sóc. ¿Me oís? He tenido que subir a la azotea para tener cobertura, y aquí en Barcelona son las once y hace treinta grados.
     누리아: 나 왔어. 들려? 옥상까지 올라와야 신호가 잡히더라. 바르셀로나는 밤 열한 시인데 30도야.
@@ -244,8 +244,8 @@
 076. NÚRIA: Mañana, durante la inspección, tenéis que encontrar el armario de control de la subestación. Esa red de control está unida a la del campus por un cable que alguien no quiso pagar dos veces. Conectas mi pincho ahí y yo entro.
     누리아: 내일 점검하는 동안 변전소 제어반을 찾아야 돼. 그 제어망은 캠퍼스 망이랑 케이블 하나로 이어져 있어. 누가 두 번 돈 내기 싫었던 거지. 거기에 내 핀초를 꽂으면 내가 들어가.
 
-077. ÁLVARO: El pincho que me mandaste por mensajero. Lo tengo en el bolsillo, junto a las llaves del coche.
-    알바로: 택배로 보내 준 그 핀초. 차 열쇠랑 같이 주머니에 있어.
+077. ÁLVARO: El que me mandaste por mensajero. Lo llevo en el bolsillo.
+    알바로: 택배로 보내 준 그거. 주머니에 있어.
 
 078. OKSANA: Un momento. Ese armario lo abro yo, con mi tarjeta, y queda registrado con mi nombre. Si me pillaran, no perdería solo el trabajo. Perdería el permiso de residencia.
     옥사나: 잠깐만. 그 제어반은 내 카드로 내가 여는 거고, 내 이름으로 기록이 남아. 만약 걸리면 일자리만 잃는 게 아니야. 체류 허가를 잃어.
@@ -256,8 +256,8 @@
 080. ÁLVARO: Si alguien pregunta, el pincho es mío y tú no has visto nada. Yo soy el técnico torpe que se apoya donde no debe.
     알바로: 누가 물으면 핀초는 내 거고 넌 아무것도 못 본 거야. 난 기대면 안 되는 데 기대는 서툰 조수고.
 
-081. OKSANA: Eso no es un plan. Eso es un hombre que se ofrece para que le detengan.
-    옥사나: 그건 계획이 아니야. 체포해 달라고 자원하는 남자지.
+081. OKSANA: Eso no es un plan. Es ofrecerse para que te detengan.
+    옥사나: 그건 계획이 아니야. 잡아가 달라고 자원하는 거지.
 
 082. ÁLVARO: A estas alturas, es lo único que se me da bien.
     알바로: 이쯤 되면 그게 내가 제일 잘하는 거야.
@@ -280,14 +280,14 @@
 088. OKSANA: Oksana Melnyk, Red Ibérica de Transporte. Inspección de verano de la subestación, a las diez. Este es mi compañero, Javier Robles.
     옥사나: 옥사나 멜니크, 레드 이베리카 데 트란스포르테입니다. 열 시 변전소 여름 점검이요. 이쪽은 제 동료 하비에르 로블레스예요.
 
-089. VIGILANTE: Aquí los tengo. Dejen los móviles personales en la taquilla, por favor. Ahora viene el jefe de planta.
-    경비원: 여기 있네요. 개인 휴대폰은 보관함에 넣어 주세요. 곧 시설 책임자님 오십니다.
+089. VIGILANTE: Aquí los tengo. Los móviles personales, en la taquilla. Ahora viene el jefe.
+    경비원: 여기 있네요. 개인 휴대폰은 보관함에 넣어 주세요. 곧 책임자님 오십니다.
 
 090. JEFE DE PLANTA: Bienvenidos al futuro. Perdonen el calor, aquí fuera es Monegros, pero dentro de las naves tenemos dieciocho grados todo el año.
     시설 책임자: 미래에 오신 걸 환영합니다. 더위는 양해해 주세요. 여기 바깥은 모네그로스지만, 건물 안은 1년 내내 18도거든요.
 
-091. ÁLVARO: Qué envidia. Yo tengo dieciocho grados solo en la nevera.
-    알바로: 부럽네요. 저희 집은 냉장고 안만 18도인데.
+091. ÁLVARO: Qué envidia. En mi casa, solo la nevera.
+    알바로: 부럽네요. 우리 집은 냉장고 안만 그런데.
 
 092. OKSANA: Empezaremos por los transformadores y después revisaremos el armario de control y los registros de consumo de cada nave. Es el protocolo de verano.
     옥사나: 변압기부터 시작해서, 그다음에 제어반이랑 건물별 소비 전력 기록을 확인하겠습니다. 여름 점검 규정이에요.
@@ -310,14 +310,14 @@
 098. ÁLVARO: Despacio. Contador uno, ochocientos doce. Contador dos… a ver, que esto tiene más cables que un cuarto de adolescente.
     알바로: 천천히요. 1번 계량기, 812. 2번 계량기는… 어디 보자, 이거 무슨 사춘기 애 방보다 선이 더 많네.
 
-099. NÚRIA: Estoy dentro. Gato, estoy dentro. No toques nada más.
-    누리아: 들어왔어. 가토, 들어왔다고. 이제 아무것도 건드리지 마.
+099. NÚRIA: Estoy dentro, Gato. No toques nada más.
+    누리아: 들어왔어, 가토. 이제 아무것도 건드리지 마.
 
 100. VIGILANTE: Jefe, perdone. Los señores de la C-4 preguntan quién está en la subestación. Dicen que si yo fuera usted, no los dejaría solos ni un minuto.
     경비원: 책임자님, 죄송한데요. C-4 쪽 분들이 변전소에 누가 있냐고 물어요. 자기들이 책임자님이라면 저 사람들 1분도 혼자 두지 않을 거래요.
 
-101. JEFE DE PLANTA: Dígales que es la compañía eléctrica y que se vayan a su nave. Perdonen, ingeniera. Clientes extranjeros, muy suyos.
-    시설 책임자: 전력회사라고 하고 자기 건물로 돌아가라고 해. 죄송합니다, 엔지니어님. 외국 고객사라 좀 유별나서요.
+101. JEFE DE PLANTA: Dígales que es la compañía eléctrica. Perdone, ingeniera. Clientes extranjeros, muy suyos.
+    시설 책임자: 전력회사라고 전해. 죄송합니다, 엔지니어님. 외국 고객사라 좀 유별나서요.
 
 102. OKSANA: Hablando de la C-4. Me gustaría ver su consumo de los últimos tres meses. Y algo más: el protocolo de verano exige una prueba de conmutación a los grupos electrógenos.
     옥사나: C-4 얘기가 나온 김에요. 지난 석 달간 소비 전력을 보고 싶습니다. 그리고 하나 더요. 여름 점검 규정상 비상발전기 전환 시험을 해야 합니다.
@@ -352,17 +352,17 @@
 112. NÚRIA: Lleva barba y está muy delgado, pero se frota el hombro izquierdo como si le doliera. Collons. Déu meu. És l'Oriol.
     누리아: 수염 길렀고 엄청 말랐는데, 아픈 것처럼 왼쪽 어깨를 문지르고 있어. 젠장. 세상에. 오리올이야.
 
-113. OKSANA: ¿El chico de Barcelona? ¿El que escribió el código?
-    옥사나: 바르셀로나 그 청년? 코드를 쓴 사람?
+113. OKSANA: ¿El chico que escribió el código?
+    옥사나: 코드를 쓴 그 청년?
 
-114. ÁLVARO: El mismo. Lo sacaron de una ambulancia en marzo y desde entonces nadie sabía si estaba vivo.
-    알바로: 맞아. 3월에 이송 차량에서 사라졌고, 그 뒤로 살아 있는지 아무도 몰랐어.
+114. ÁLVARO: El mismo. Desapareció en marzo y desde entonces nadie sabía si estaba vivo.
+    알바로: 맞아. 3월에 사라졌고, 그 뒤로 살아 있는지 아무도 몰랐어.
 
 115. NÚRIA: Pues está vivo, y está trabajando para ellos. O lo están obligando. Desde aquí no lo puedo saber.
     누리아: 살아 있어. 그리고 저 사람들을 위해 일하고 있어. 아니면 억지로 시키는 거든가. 여기선 알 수가 없어.
 
-116. ÁLVARO: Para saberlo hay que preguntárselo a él. Mañana por la noche, a las once y cuarenta y cinco.
-    알바로: 알려면 본인한테 물어봐야지. 내일 밤 열한 시 45분에.
+116. ÁLVARO: Para saberlo, hay que preguntárselo a él. Mañana, a las once y cuarenta y cinco.
+    알바로: 알려면 본인한테 물어봐야지. 내일, 열한 시 45분에.
 
 117. OKSANA: Por eso me has mirado así cuando he pedido la prueba de conmutación.
     옥사나: 그래서 내가 전환 시험을 요청할 때 그런 눈으로 날 봤구나.
@@ -441,7 +441,7 @@
 ## 핵심 표현 정리 (낭독하지 않음)
 
 - **dar la lata (a alguien)** — (구어) 귀찮게 굴다, 들볶다 / "¿Ya te está dando la lata?" (004)
-- **bordar algo** — (구어) ~을 완벽하게 해내다(원뜻 '수놓다') / "Eso último lo bordas." (016)
+- **bordar algo** — (구어) ~을 완벽하게 해내다(원뜻 '수놓다') / "Eso lo bordas." (016)
 - **darle a alguien por desaparecido** — ~를 실종된 것으로 간주하다 / "prefiero que me den por desaparecido a que me den por informado" (019)
 - **ser lo de menos** — 그건 별로 중요하지 않다 / "la letra es lo de menos" (026)
 - **tutearse** — 서로 *tú*로 부르다, 말을 놓다 / "podemos tutearnos" (039)

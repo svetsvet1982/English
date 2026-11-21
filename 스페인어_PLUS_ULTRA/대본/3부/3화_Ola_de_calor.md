@@ -22,14 +22,14 @@
 002. ÁLVARO: A Oksana Melnyk. Me espera a las seis.
     알바로: 옥사나 멜니크 씨요. 여섯 시에 보기로 했어요.
 
-003. VIGILANTE: Son las seis y siete. Ya ha llamado dos veces a la garita para preguntar si había llegado usted.
-    경비원: 지금 여섯 시 7분인데요. 그분이 벌써 두 번이나 초소로 전화해서 오셨냐고 물어보셨어요.
+003. VIGILANTE: Son las seis y siete. Ha llamado dos veces preguntando por usted.
+    경비원: 지금 여섯 시 7분인데요. 그분이 벌써 두 번이나 전화해서 찾으셨어요.
 
 004. OKSANA: Dije a las seis, señor Medina. En esta sala, siete minutos es mucho tiempo.
     옥사나: 여섯 시라고 했어요, 메디나 씨. 이 관제실에서 7분은 긴 시간이에요.
 
-005. ÁLVARO: Buenos días a usted también. La autovía a estas horas es un horno lleno de camiones.
-    알바로: 네, 좋은 아침입니다. 이 시간 고속도로는 트럭으로 꽉 찬 오븐이에요.
+005. ÁLVARO: Buenos días a usted también. La autovía a estas horas es un horno.
+    알바로: 네, 좋은 아침입니다. 이 시간 고속도로는 완전 오븐이에요.
 
 006. OKSANA: Estamos a treinta y un grados y todavía no ha salido el sol. ¿Dónde está su amiga de Barcelona?
     옥사나: 해도 안 떴는데 31도예요. 바르셀로나 친구분은 어디 있죠?
@@ -82,7 +82,7 @@
 022. OKSANA: Son hospitales sin aire, ascensores parados y ancianos en un cuarto piso a cuarenta grados. Por eso no dormimos cuando hace calor.
     옥사나: 에어컨 꺼진 병원, 멈춘 엘리베이터, 40도 더위 속 4층에 갇힌 노인들이죠. 그래서 더울 때 우린 잠을 안 자요.
 
-023. ÁLVARO: ¿Y quién pedalea más fuerte cuando hace falta?
+023. ÁLVARO: ¿Y quién pedalea más fuerte cuando hace falta, ingeniera?
     알바로: 필요할 때 페달을 더 세게 밟는 건 누군데요?
 
 024. OKSANA: Antes, las grandes centrales. Turbinas de cientos de toneladas, girando sin parar. Si algo falla, siguen girando un poco por su propio peso. Eso se llama inercia.
@@ -133,7 +133,7 @@
 039. ÁLVARO: En abril del veinticinco yo estaba en Madrid, buscando una radio de pilas en casa de mi padre. ¿Usted dónde estaba, ingeniera?
     알바로: 2025년 4월에 전 마드리드에서 아버지 집 건전지 라디오를 찾고 있었어요. 엔지니어님은 어디 계셨어요?
 
-040. OKSANA: Aquí. En esta silla. Doce horas sin levantarme.
+040. OKSANA: Aquí. En esta silla. Doce horas seguidas sin levantarme.
     옥사나: 여기요. 이 의자에. 열두 시간 동안 일어나지 않았어요.
 
 041. JEFE DE SALA: Y lo hizo muy bien. Por eso ahora le pido que descanse un poco. Le dejo con su invitado, que tengo una reunión con Madrid.
@@ -154,8 +154,8 @@
 046. ÁLVARO: ¿Y esta vez cuánto tiempo tenemos?
     알바로: 이번엔 시간이 얼마나 있어요?
 
-047. OKSANA: No lo sé. Pero el miércoles anuncian cuarenta y cuatro grados en Valencia. La demanda más alta del año.
-    옥사나: 몰라요. 하지만 수요일에 발렌시아가 44도래요. 올해 최고 수요예요.
+047. OKSANA: No lo sé. Pero el miércoles anuncian cuarenta y cuatro grados. Récord del año.
+    옥사나: 몰라요. 하지만 수요일 예보가 44도예요. 올해 최고 기록이죠.
 
 048. ÁLVARO: Y la oscilación del sábado fue a las cinco y cuarenta y uno.
     알바로: 그리고 토요일 진동은 5시 41분이었고.
@@ -181,8 +181,8 @@
 055. OKSANA: Cansada. Treinta y ocho mil megavatios en toda España, récord de junio. Las centrales de gas están al máximo y el sol empieza a bajar.
     옥사나: 지쳤어요. 스페인 전체 3만 8천 메가와트, 6월 최고 기록이에요. 가스 발전소는 최대치고, 해는 지기 시작했어요.
 
-056. ÁLVARO: Ayer no le pregunté una cosa. Kirill vino a verla. ¿Le habló de esto, de las oscilaciones?
-    알바로: 어제 하나 못 물어봤네요. 키릴이 당신을 찾아왔었잖아요. 이 얘기, 진동 얘기를 했어요?
+056. ÁLVARO: Ayer no le pregunté algo. ¿Kirill le habló de esto, de las oscilaciones?
+    알바로: 어제 하나 못 물어봤네요. 키릴이 이 얘기, 진동 얘기를 했어요?
 
 057. OKSANA: Me dijo que la red española tenía una enfermedad que todavía no daba síntomas. Me pidió que no se lo dijera a nadie hasta que él tuviera pruebas. Yo pensé que era un ruso intentando asustar a una ucraniana.
     옥사나: 스페인 전력망에 아직 증상이 없는 병이 있다고 했어요. 자기가 증거를 잡을 때까지 아무한테도 말하지 말아 달라고 했고요. 전 러시아 남자가 우크라이나 여자를 겁주려는 거라고 생각했어요.
@@ -196,8 +196,8 @@
 060. ÁLVARO: Cinco y treinta y ocho.
     알바로: 5시 38분.
 
-061. OKSANA: Mire la subestación de Turís Nord. La de la izquierda. Y la de Silla Oest, abajo.
-    옥사나: 투리스 노르드 변전소 보세요. 왼쪽 거요. 그리고 아래쪽 시야 오에스트도요.
+061. OKSANA: Mire Turís Nord, la subestación de la izquierda. Y Silla Oest, abajo.
+    옥사나: 왼쪽 변전소, 투리스 노르드를 보세요. 그리고 아래쪽 시야 오에스트도요.
 
 062. ÁLVARO: ¿Por qué esas dos?
     알바로: 왜 그 두 개예요?
@@ -238,8 +238,8 @@
 074. ÁLVARO: Una persona sí.
     알바로: 사람은 하죠.
 
-075. OKSANA: Ojalá fuera ruido. Lo digo de verdad. Ojalá Vicent tuviera razón y yo fuera una refugiada que ve fantasmas.
-    옥사나: 차라리 노이즈였으면 좋겠어요. 진심으로요. 비센트 말이 맞고, 제가 그냥 유령을 보는 난민이면 좋겠어요.
+075. OKSANA: Ojalá fuera ruido. De verdad. Ojalá Vicent tuviera razón y yo viera fantasmas.
+    옥사나: 차라리 노이즈였으면 좋겠어요. 진심으로요. 비센트 말이 맞고, 제가 그냥 유령을 보는 거면 좋겠어요.
 
 076. ÁLVARO: ¿Qué es lo peor que podría pasar? Sin bicicletas, por favor.
     알바로: 최악의 경우 뭐가 일어날 수 있어요? 자전거 말고요.
@@ -283,8 +283,8 @@
 089. ÁLVARO: Lucía, cariño, las velas son por si acaso. Como en abril del veinticinco, ¿te acuerdas? Jugamos al parchís con una linterna. Bebe agua y llama al abuelo mañana, que a mí no siempre me reconoce.
     알바로: 루시아, 우리 딸, 양초는 혹시 몰라서야. 2025년 4월처럼, 기억나? 손전등 켜고 파르치스 했잖아. 물 많이 마시고, 내일 할아버지한테 전화 좀 해 줘. 나는 가끔 못 알아보셔서.
 
-090. CLIMENT: Xe, Medina, ¿estás despierto? Son las doce y en Ruzafa se oye hasta el aire acondicionado del vecino.
-    클리멘트: 야, 메디나, 깨어 있어? 열두 시인데 루사파에선 옆집 에어컨 소리까지 들리네.
+090. CLIMENT: Xe, Medina, ¿estás despierto? En Ruzafa se oye hasta el aire del vecino.
+    클리멘트: 야, 메디나, 깨어 있어? 루사파에선 옆집 에어컨 소리까지 들리네.
 
 091. ÁLVARO: El mío está roto desde el domingo. Duermo con una toalla mojada en la cabeza. ¿Qué tienes, Amparo?
     알바로: 내 건 일요일부터 고장이야. 젖은 수건 머리에 얹고 자. 뭐 있어, 암파로?
@@ -304,13 +304,13 @@
 096. CLIMENT: Mediterráneo Prime Properties. Venden pisos con vistas al mar a rusos, ucranianos e ingleses, a veces en el mismo edificio. El director se llama Pavel Sorokin.
     클리멘트: 메디테라네오 프라임 프로퍼티스. 러시아 사람, 우크라이나 사람, 영국 사람한테 바다 전망 아파트를 팔아. 가끔은 같은 건물에서. 대표 이름이 파벨 소로킨이야.
 
-097. ÁLVARO: ¿Y qué dice el señor Sorokin del Audi?
+097. ÁLVARO: ¿Y qué dice el señor Sorokin del Audi gris?
     알바로: 그 소로킨 씨는 아우디에 대해 뭐래?
 
 098. CLIMENT: Que se lo alquilaron a un cliente que pagó en efectivo y que, por desgracia, no le hicieron fotocopia del pasaporte. Muy amable. Me ofreció un café y un ático.
     클리멘트: 현금 낸 고객한테 빌려줬는데 안타깝게도 여권 사본을 안 떠 놨대. 아주 친절하더라. 나한테 커피랑 펜트하우스를 권했어.
 
-099. ÁLVARO: Si yo fuera un comprador de Madrid con mucho dinero, ¿crees que me lo ofrecería a mí también?
+099. ÁLVARO: Si yo fuera un comprador madrileño con dinero, ¿me lo ofrecería a mí también?
     알바로: 내가 돈 많은 마드리드 구매자라면, 나한테도 권할 것 같아?
 
 100. CLIMENT: Te lo ofrecería con la cama hecha. ¿En qué estás pensando?
@@ -400,10 +400,10 @@
 128. OKSANA: En Valencia el verano empieza cuando quiere. Este año, el diez de junio.
     옥사나: 발렌시아에선 여름이 제멋대로 시작해요. 올해는 6월 10일이었죠.
 
-129. ÁLVARO: El día después de que mataran a Kirill.
-    알바로: 키릴이 죽은 다음 날이네.
+129. ÁLVARO: El día después de que mataran a Kirill en su garaje.
+    알바로: 키릴이 자기 차고에서 죽은 다음 날이네.
 
-130. NÚRIA: Esperad. Hay algo más. Oksana, ¿qué hora tienes?
+130. NÚRIA: Esperad. Hay algo más. Oksana, ¿qué hora tienes ahí?
     누리아: 잠깐. 하나 더 있어. 옥사나, 지금 몇 시야?
 
 131. OKSANA: Las cinco y cuarenta. ¿Por qué?
@@ -415,8 +415,8 @@
 133. ÁLVARO: ¿Qué pone?
     알바로: 뭐라고 쓰여 있어?
 
-134. NÚRIA: Una cuenta atrás. Y una pregunta a un servidor de fuera: si puede pasar de probar a ejecutar.
-    누리아: 카운트다운. 그리고 바깥 서버에 묻는 질문 하나. 시험에서 실행으로 넘어가도 되냐고.
+134. NÚRIA: Una cuenta atrás. Y una pregunta a un servidor de fuera: ¿probar o ejecutar?
+    누리아: 카운트다운. 그리고 바깥 서버에 묻는 질문 하나. 시험이냐, 실행이냐.
 
 135. OKSANA: ¿Y qué le han contestado?
     옥사나: 그래서 뭐라고 답이 왔어요?
