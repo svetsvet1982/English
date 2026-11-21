@@ -4,10 +4,10 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 6화 · 서사 기능: 2부의 감정적 중심 — 누리아의 과거 고백, 알바로의 첫 인정, 루시아의 발견. 그리고 C2 서버의 위치
-> - 배경: 2027년 3월 6일(토) 오전 포블레노우 22@ 옛 직물공장 건물의 Fosca Labs(주말이라 텅 빔) → 정오 람블라 델 포블레노우에서 보가텔 해변까지 걷기(옛 공장 굴뚝들) → 같은 날 19시 40분 산츠역과 산트 안토니의 엘리베이터 없는 5층 아파트 → 3월 7일(일) 아침 같은 아파트 → 정오 산트 안토니 시장 일요 헌책·카드 장터 → 저녁 산츠역 플랫폼과 누리아의 전화. 맑고 바람 찬 주말.
+> - 배경: 2027년 3월 6일(토) 오전 포블레노우 22@ 옛 직물공장 건물의 Fosca Labs(주말이라 텅 빔) → 오후 람블라 델 포블레노우에서 보가텔 해변까지 걷기(옛 공장 굴뚝들) → 같은 날 19시 40분 산츠역과 산트 안토니의 엘리베이터 없는 5층 아파트 → 3월 7일(일) 아침 같은 아파트 → 정오 산트 안토니 시장 일요 헌책·카드 장터 → 저녁 산츠역 플랫폼과 누리아의 전화. 맑고 바람 찬 주말.
 > - 등장인물: 누리아, 알바로, 루시아(음성 메시지·대면)
 > - 난이도: B1+–B2 · 턴 수: 148
-> - 이번 화의 핵심 표현: "jaula de Faraday", "a la vista de todos", "llamada perdida", "dar la cara", "no querer saber", "hacerse el tonto", "que yo sepa", "rayarse"
+> - 이번 화의 핵심 표현: "a palo seco", "jaula de Faraday", "llamada perdida", "sin que + 접속법", "deber haberlo visto venir", "no querer leer también es leer", "que yo sepa", "rayarse"
 > - 방언 포인트: 누리아의 *escolta, home, déu n'hi do, ostres, nena, va, collons*와 카탈루냐어 그대로의 문장(*Gràcies per no mentir-me.*) · 루시아의 마드리드 10대 은어 *en plan, flipar, mazo, rayarse, el insti, qué fuerte, literal, renta* · 알바로의 *vale, tío*
 > - 복선/연결: 5화 끝 알바로의 "No."를 이어받아 시작. 5화에서 아리에타가 말한 누리아의 2022년 의회 증언·피해자 보고서의 내막(2020년 10월 제로클릭 감염, 조르디와 파우). 1부 내내 이어진 '통계청' 거짓말이 끝난다. 베버가 CCN에 넘기지 않은 알버스 장관의 휴대전화 → 누리아가 C2 통신을 추적 → 마지막 턴, 사그라다 파밀리아 공사 현장 네트워크(7화).
 
@@ -255,8 +255,8 @@
 080. NÚRIA: Pues escúchalo tranquilo. Yo me quedo mirando el mar.
     누리아: 그럼 편하게 들어. 난 바다나 보고 있을게.
 
-081. LUCÍA: Papá, contesta. Es un audio, no una bomba. Estoy en el AVE, pasando por Zaragoza, y el wifi va fatal. Llego a las ocho menos veinte. Y no me digas que tienes trabajo, que es sábado y los de Estadística no contáis nada en sábado.
-    루시아: 아빠, 답장해. 음성 메시지지 폭탄 아니잖아. 나 AVE 안이야. 사라고사 지나는 중인데 와이파이 완전 별로야. 7시 40분 도착. 그리고 일 있다는 소리 하지 마. 토요일이잖아. 통계청 사람들은 토요일엔 아무것도 안 세잖아.
+081. LUCÍA: Papá, contesta. Es un audio, no una bomba. Acabo de subir al AVE y el wifi ya va fatal. Llego a las ocho menos veinte. Y no me digas que tienes trabajo, que es sábado y los de Estadística no contáis nada en sábado.
+    루시아: 아빠, 답장해. 음성 메시지지 폭탄 아니잖아. 방금 AVE 탔는데 와이파이 벌써 완전 별로야. 7시 40분 도착. 그리고 일 있다는 소리 하지 마. 토요일이잖아. 통계청 사람들은 토요일엔 아무것도 안 세잖아.
 
 082. NÚRIA: ¿Estadística?
     누리아: 통계청?

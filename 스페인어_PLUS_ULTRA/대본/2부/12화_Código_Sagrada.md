@@ -230,7 +230,7 @@
     누리아: "할머니, 나 괜찮아. 찾지 마. 제라늄에 물 줘." 괜찮대요. 제라늄에 물 주시래요.
 
 072. MONTSE: Y dentro había esto. La llave del piso de Gràcia, el que me enseñó en Navidad. Y otro papel: "Ja està pagat, iaia."
-    몬세: 그리고 안에 이게 들어 있었어요. 크리스마스 때 보여 준 그라시아 집 열쇠. 그리고 종이 한 장 더. "이제 다 갚았어, 할머니."
+    몬세: 그리고 안에 이게 들어 있었어요. 크리스마스 때 보여 준 그라시아 집 열쇠. 그리고 종이 한 장 더. "할머니, 다 냈어."
 
 073. ÁLVARO: Cumplen lo que prometen. Eso es lo peor de esta gente.
     알바로: 약속은 지키는군. 그게 이 인간들의 제일 끔찍한 점이야.
