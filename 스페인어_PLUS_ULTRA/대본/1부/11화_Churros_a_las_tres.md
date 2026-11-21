@@ -18,8 +18,8 @@
 001. RENATA: Son las once y media y no me has contestado ni un mensaje. ¿Sigues vivo o ya te tiraron también de un balcón?
     레나타: 열한 시 반인데 메시지 하나 답이 없네. 살아는 있는 거야, 아니면 너도 발코니에서 떨어뜨렸어?
 
-002. ÁLVARO: Vivo. Mirando el techo de mi casa desde hace tres días.
-    알바로: 살아 있어. 사흘째 우리 집 천장만 보고 있어.
+002. ÁLVARO: Vivo, aunque no sé por cuánto tiempo. Llevo tres días mirando el techo de mi casa y contando las grietas, como si alguna fuera a darme una respuesta.
+    알바로: 살아 있어, 언제까지일진 모르겠지만. 사흘째 우리 집 천장만 보면서 금 간 데를 세고 있어. 그중에 하나라도 답을 줄 것처럼.
 
 003. RENATA: Por lo de Lezcano. Todavía le estás dando vueltas a la cena, ¿verdad?
     레나타: 레스카노 때문이구나. 아직도 그 저녁 자리 곱씹고 있지?
@@ -30,8 +30,8 @@
 005. RENATA: ¿Y quién es Ignacio? Y no me digas que es un nombre muy común en España, porque te cuelgo ahorita mismo.
     레나타: 그래서 이그나시오가 누군데? 스페인에 흔한 이름이라고 하기만 해 봐, 지금 당장 끊어 버릴 거야.
 
-006. ÁLVARO: Ignacio Velasco. El dueño de Atalaya, la empresa del informe de Santa Fe.
-    알바로: 이그나시오 벨라스코. 아탈라야 대표. 산타페 보고서의 그 회사.
+006. ÁLVARO: Ignacio Velasco. El dueño de Atalaya, la empresa del informe de Santa Fe. Y antes de eso, durante muchos años, el número dos de la Casa en la que trabajo.
+    알바로: 이그나시오 벨라스코. 아탈라야 대표. 산타페 보고서의 그 회사. 그리고 그 전엔 오랫동안 내가 일하는 본부의 2인자였어.
 
 007. RENATA: Eso ya lo sé, güey. Lo busqué en internet. Te pregunto quién es para ti.
     레나타: 그건 나도 알아. 인터넷에서 찾아봤거든. 너한테 어떤 사람이냐고 묻는 거야.
@@ -84,8 +84,8 @@
 023. RENATA: Entonces acuérdate de todo. Cada palabra. Sigue el dinero, no al muerto, pero esta vez sigue también lo que no te diga.
     레나타: 그럼 전부 기억해. 한 마디도 빼지 말고. 시체 말고 돈을 따라가. 근데 이번엔 그 사람이 말 안 하는 것도 따라가.
 
-024. ÁLVARO: Eso es muy de periodista, Renata. Lo de seguir los silencios.
-    알바로: 그거 진짜 기자 같은 소리다, 레나타. 침묵을 따라가라는 거.
+024. ÁLVARO: Eso es muy de periodista, Renata, lo de seguir los silencios. Nosotros también lo hacemos, pero luego lo escribimos en un informe que nadie lee y lo guardamos en un cajón.
+    알바로: 그거 진짜 기자 같은 소리다, 레나타. 침묵을 따라가라는 거. 우리도 그렇게 하긴 해. 근데 우린 아무도 안 읽는 보고서에 적어서 서랍에 넣어 두지.
 
 025. RENATA: Es de mujer de Culiacán. Ahí aprendes que lo importante siempre es lo que el otro se calla. Cuídate, Gato.
     레나타: 쿨리아칸 여자다운 말이지. 거기선 중요한 건 늘 상대가 입 다무는 쪽에 있다는 걸 배우거든. 몸조심해, 가토.
@@ -102,8 +102,8 @@
 029. CAMARERO: ¿Chocolate y churros para dos, entonces? A esta hora todo el mundo acaba pidiendo lo mismo.
     종업원: 그럼 초콜라테에 추로스 2인분 하실래요? 이 시간엔 다들 결국 그걸 시키시거든요.
 
-030. ÁLVARO: Cuando llegue, lo decide él. Siempre lo ha decidido él.
-    알바로: 그분 오면 그분이 정할 거예요. 늘 그분이 정했으니까.
+030. ÁLVARO: Cuando llegue, lo decide él. Siempre lo ha decidido él, desde la primera vez que me trajo aquí, hace más de veinte años, cuando yo todavía llevaba bigote.
+    알바로: 그분 오면 그분이 정할 거예요. 늘 그분이 정했으니까요. 20년도 더 전에 처음 여기 데려왔을 때부터요. 제가 아직 콧수염 기르던 시절에.
 
 031. VELASCO: ¿Llueve en Madrid?
     벨라스코: 마드리드에 비가 오나?
@@ -270,8 +270,8 @@
 085. VELASCO: Yo no la meto. La metes tú cada vez que vuelves a casa con olor a miedo. ¿Cómo está Ramón?
     벨라스코: 내가 끌어들이는 게 아니야. 네가 겁에 전 냄새를 풍기며 집에 들어갈 때마다 끌어들이는 거지. 라몬은 좀 어떠냐?
 
-086. ÁLVARO: Olvidándose de cosas. Se pierde en su propio barrio.
-    알바로: 이것저것 잊어버려요. 자기 동네에서 길을 잃어요.
+086. ÁLVARO: Olvidándose de cosas. Se pierde en su propio barrio, y hace unas semanas lo encontró la policía en la boca de metro, esperando un tren que ya no conduce.
+    알바로: 이것저것 잊어버려요. 자기 동네에서 길을 잃고요. 몇 주 전엔 지하철 입구에 계신 걸 경찰이 찾았어요. 이제 몰지도 않는 기차를 기다리시면서.
 
 087. VELASCO: Lo siento de verdad. Se sabía la línea uno de memoria. Me la recitó en tu boda, de Pinar de Chamartín a Valdecarros.
     벨라스코: 정말 안됐구나. 1호선을 통째로 외우던 분이었는데. 네 결혼식 때 나한테 읊어 주셨지. 피나르 데 차마르틴부터 발데카로스까지.
@@ -360,8 +360,8 @@
 115. VELASCO: Para trabajar conmigo. Que es distinto. Allí no hay banderas en las paredes, pero tampoco hay nadie que te mande a vigilar balcones bajo la lluvia para luego enterrar el informe.
     벨라스코: 나랑 일하라는 거지. 그건 다른 얘기야. 거기 벽엔 국기가 없어. 대신 빗속에서 발코니를 감시하라고 보내 놓고 보고서는 묻어 버리는 사람도 없지.
 
-116. ÁLVARO: Yo trabajo para el país, Ignacio. Aunque el país no lo sepa.
-    알바로: 전 나라를 위해 일해요, 이그나시오. 나라는 모르더라도.
+116. ÁLVARO: Yo trabajo para el país, Ignacio. Aunque el país no lo sepa, aunque no me dé las gracias y aunque algunos días tenga que recordármelo a mí mismo delante del espejo.
+    알바로: 전 나라를 위해 일해요, 이그나시오. 나라는 모르더라도, 고맙단 말 한마디 없더라도, 어떤 날엔 거울 앞에서 스스로한테 되새겨야 하더라도요.
 
 117. VELASCO: La patria es un cliente más, Gato. Uno que paga tarde, que no da las gracias y que, cuando las cosas salen mal, siempre encuentra a alguien a quien echarle la culpa.
     벨라스코: 조국도 고객 중 하나일 뿐이야, 가토. 돈은 늦게 주고, 고맙단 말은 안 하고, 일이 틀어지면 꼭 누군가한테 책임을 떠넘기는 고객.
@@ -390,8 +390,8 @@
 125. IKER: ¿Sí? ¿Quién se ha muerto? Son las cuatro y veinte, Gato.
     이케르: 여보세요? 누가 죽었어요? 새벽 네 시 이십 분이에요, 가토.
 
-126. ÁLVARO: Nadie, todavía. Perdona la hora, pero necesito que me escuches despierto.
-    알바로: 아직은 아무도. 시간 미안해. 근데 정신 차리고 들어 줘야 돼.
+126. ÁLVARO: Nadie, todavía. Perdona la hora, chaval, pero necesito que me escuches despierto y que no le cuentes a nadie que te he llamado, ni siquiera mañana en el café.
+    알바로: 아직은 아무도. 시간 미안하다, 인마. 근데 정신 차리고 들어 줘야 돼. 그리고 내가 전화했다는 거 아무한테도 말하지 마. 내일 커피 마실 때도.
 
 127. IKER: Ahora sí. Tengo a mi gato encima del pecho mirándome con odio. ¿Qué pasa?
     이케르: 이제 깼죠. 우리 집 고양이가 가슴팍에 올라앉아서 증오의 눈빛으로 보고 있어요. 무슨 일인데요?

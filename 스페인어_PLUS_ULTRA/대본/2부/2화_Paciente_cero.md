@@ -18,20 +18,20 @@
 001. NÚRIA: Bon dia, Jonas. Son las siete y diez, la ministra está en la ducha y yo quiero su teléfono antes de que se seque el pelo.
     누리아: 봉 디아, 요나스. 일곱 시 십 분이고, 장관님은 샤워 중이고, 난 장관님이 머리 말리기 전에 그 폰을 받아야겠어.
 
-002. WEBER: Buenos días. Aquí lo tiene. Pero antes debo confesarle algo.
-    베버: 좋은 아침입니다. 여기 있습니다. 그런데 그 전에 고백할 게 있어요.
+002. WEBER: Buenos días, señora Ballester. Aquí lo tiene, recién cargado. Pero antes de que lo abra debo confesarle algo, y no le va a gustar.
+    베버: 좋은 아침입니다, 바예스테르 씨. 여기 있습니다, 방금 충전했어요. 그런데 열어 보시기 전에 고백할 게 있어요. 마음에 안 드실 겁니다.
 
-003. NÚRIA: Escolta, si empiezas así, me pido un café doble.
-    누리아: 잠깐, 그렇게 시작하면 나 커피 더블로 시킨다.
+003. NÚRIA: Escolta, si empiezas así a las siete de la mañana, me pido un café doble y me siento, porque las confesiones alemanas nunca son cortas.
+    누리아: 잠깐, 아침 일곱 시부터 그렇게 시작하면 나 커피 더블로 시키고 앉을래. 독일식 고백은 절대 짧지 않거든.
 
 004. WEBER: Anoche, en la cena oficial, la organización insistió. Sin la aplicación no hay acceso a la zona ministerial ni al escenario principal.
     베버: 어젯밤 공식 만찬에서 주최 측이 고집을 부렸어요. 앱이 없으면 장관 구역에도, 메인 무대에도 못 들어간다고요.
 
-005. NÚRIA: No me digas que se ha instalado FiraPass.
-    누리아: 설마 피라패스 깔았다는 말은 아니지.
+005. NÚRIA: No me digas que se ha instalado FiraPass, Jonas, después de tres reuniones y un correo en mayúsculas.
+    누리아: 설마 피라패스 깔았다는 말은 아니지, 요나스. 회의 세 번에 대문자로 쓴 메일까지 보냈는데.
 
-006. WEBER: Se la instalé yo. A las once y media.
-    베버: 제가 깔아 드렸습니다. 열한 시 반에.
+006. WEBER: Peor todavía: se la instalé yo mismo, a las once y media, porque ella estaba saludando al embajador y me dio el teléfono.
+    베버: 더 나빠요. 제가 직접 깔아 드렸어요. 열한 시 반에요. 장관님이 대사님과 인사하시느라 폰을 저한테 맡기셨거든요.
 
 007. NÚRIA: Collons, Jonas. Te lo dije en la reunión, te lo dije por escrito y te lo dije en alemán, con mi acento horrible.
     누리아: 젠장, 요나스. 회의에서도 말했고, 서면으로도 말했고, 내 끔찍한 발음으로 독일어로도 말했잖아.
@@ -48,20 +48,20 @@
 011. NÚRIA: "Mejoras de rendimiento" es la mentira más vieja de mi oficio. Déjame ver.
     누리아: '성능 개선'은 우리 바닥에서 제일 오래된 거짓말이야. 줘 봐.
 
-012. WEBER: ¿Ve algo raro?
-    베버: 이상한 거 보입니까?
+012. WEBER: ¿Ve algo raro? Dígamelo enseguida, aunque sea una tontería, porque llevo toda la noche sin dormir pensando en esto.
+    베버: 이상한 거 보입니까? 사소한 거라도 바로 말해 주세요. 이 생각 때문에 밤새 한숨도 못 잤어요.
 
 013. NÚRIA: Nada. Y eso no me tranquiliza. Batería normal, permisos normales, ningún proceso extraño. Parece el móvil de una ministra aburrida.
     누리아: 아무것도. 그게 더 불안해. 배터리 정상, 권한 정상, 이상한 프로세스 없음. 지루한 장관님 폰 같아.
 
-014. WEBER: La ministra no es aburrida. Toca el violonchelo.
-    베버: 장관님은 지루한 분이 아닙니다. 첼로를 켜세요.
+014. WEBER: La ministra no es aburrida, se lo aseguro. Toca el violonchelo en un cuarteto de aficionados todos los jueves.
+    베버: 장관님은 지루한 분이 아닙니다, 장담해요. 매주 목요일마다 아마추어 사중주단에서 첼로를 켜세요.
 
 015. NÚRIA: Pues que lo toque lejos del móvil. Le voy a poner un perfil que pase todo su tráfico por mi servidor de Poblenou. Quiero ver cada paquete que salga de este teléfono hoy.
     누리아: 그럼 폰에서 멀리 떨어져서 켜시라 그래. 이 폰 트래픽이 전부 포블레노우에 있는 내 서버를 거치게 하는 프로필을 깔 거야. 오늘 이 폰에서 나가는 패킷은 하나도 빠짐없이 봐야겠어.
 
-016. WEBER: ¿Eso es legal?
-    베버: 그거 합법입니까?
+016. WEBER: ¿Eso es legal? Se lo pregunto porque luego seré yo quien tenga que explicárselo a los abogados del ministerio.
+    베버: 그거 합법입니까? 나중에 부처 변호사들한테 설명해야 하는 게 저라서 여쭤보는 겁니다.
 
 017. NÚRIA: Es vuestro teléfono oficial, vuestro contrato y tu firma. Es más legal que lo que hacen otros, te lo aseguro.
     누리아: 너희 공용폰이고, 너희 계약이고, 네 서명이야. 다른 사람들이 하는 짓보다 훨씬 합법적이야, 장담해.
@@ -78,20 +78,20 @@
 021. NÚRIA: Pues yo prefiero que esté lejos. Dame el móvil, ve a buscar a tu ministra y no dejes que toque nada que brille.
     누리아: 난 멀리 있는 게 좋아. 폰 주고, 장관님 모시러 가. 그리고 반짝이는 건 아무것도 못 만지게 해.
 
-022. WEBER: Ella no toca nada que brille. Solo el violonchelo.
-    베버: 장관님은 반짝이는 거 안 만지세요. 첼로만 만지시죠.
+022. WEBER: Ella no toca nada que brille, señora Ballester. Solo el violonchelo, y le aseguro que ese no tiene wifi.
+    베버: 장관님은 반짝이는 거 안 만지세요, 바예스테르 씨. 첼로만 만지시죠. 그건 와이파이 없다고 장담합니다.
 
 023. ROIG: Centro de control del pabellón cero. Cuatrocientas cámaras, seis pantallas gigantes y un café que sabe a cartón. Bienvenido al primer día del Mobile, Medina.
     로이그: 0홀 관제센터예요. 카메라 사백 대, 대형 스크린 여섯 개, 그리고 종이 맛 나는 커피. 모바일 첫날에 오신 걸 환영해요, 메디나 씨.
 
-024. ÁLVARO: ¿Cuánta gente ha entrado ya?
-    알바로: 벌써 몇 명이나 들어왔습니까?
+024. ÁLVARO: ¿Cuánta gente ha entrado ya? Porque desde aquí arriba parece que media Europa ha decidido venir el mismo día.
+    알바로: 벌써 몇 명이나 들어왔습니까? 여기 위에서 보니까 유럽 절반이 같은 날 오기로 한 것 같은데요.
 
 025. ROIG: Treinta y dos mil personas en una hora, por los tornos, con la acreditación y la cara. Si alguien quisiera esconderse, este sería el mejor sitio del mundo.
     로이그: 한 시간에 삼만 이천 명이요. 출입증이랑 얼굴로 게이트를 통과해서요. 누가 숨고 싶다면 여기가 세상에서 제일 좋은 곳이겠죠.
 
-026. ÁLVARO: Los alemanes no me contestan.
-    알바로: 독일 쪽이 답이 없습니다.
+026. ÁLVARO: Pues los alemanes siguen sin contestarme. He llamado a Weber dos veces y me salta un buzón que habla en tres idiomas.
+    알바로: 독일 쪽이 아직도 답이 없습니다. 베버한테 두 번 전화했는데, 3개 국어로 말하는 음성 사서함만 나와요.
 
 027. ROIG: Los alemanes tienen a su consultora, y su consultora no le quiere a usted ni en pintura. No se lo tome como algo personal.
     로이그: 독일 쪽엔 컨설턴트가 있고, 그 컨설턴트는 당신을 그림으로도 보기 싫어해요. 개인적으로 받아들이진 마세요.
@@ -102,47 +102,47 @@
 029. IKER: Gato, ¿estás en la feria? ¿Ya te han dado un llavero con lucecitas?
     이케르: 가토, 박람회장이에요? 불 들어오는 열쇠고리는 받았어요?
 
-030. ÁLVARO: Una acreditación con mi cara de hace diez años. Dime que tienes algo.
-    알바로: 십 년 전 내 얼굴 박힌 출입증 받았어. 뭐 좀 건졌다고 말해 줘.
+030. ÁLVARO: Una acreditación con mi cara de hace diez años, cuando todavía tenía pelo en la coronilla. Dime que tienes algo, Iker, que aquí no me habla nadie.
+    알바로: 십 년 전 내 얼굴 박힌 출입증. 정수리에 아직 머리카락 있을 때. 뭐 좀 건졌다고 말해 줘, 이케르. 여기선 아무도 나랑 말을 안 해.
 
 031. IKER: Tengo algo y no tengo nada. La dirección de Barcelona no es de una casa ni de una empresa normal. Es un bloque de miles de direcciones privadas, alquilado a través de un revendedor de telecomunicaciones.
     이케르: 건진 것도 있고 없는 것도 있어요. 바르셀로나 주소는 가정집도 아니고 평범한 회사도 아니에요. 사설 주소 수천 개짜리 대역인데, 통신 재판매업체를 통해서 임대한 거예요.
 
-032. ÁLVARO: ¿Miles? ¿Para qué quiere alguien miles de direcciones?
-    알바로: 수천 개? 누가 주소를 수천 개씩이나 써?
+032. ÁLVARO: ¿Miles? ¿Y para qué quiere alguien miles de direcciones, si no es para esconder una aguja en un pajar?
+    알바로: 수천 개? 건초더미에 바늘 숨기려는 게 아니면 누가 주소를 수천 개씩이나 써?
 
 033. IKER: Para sensores. Cámaras, termómetros, cosas que miden y mandan datos sin que nadie las mire. Es una red de máquinas, no de personas.
     이케르: 센서요. 카메라, 온도계, 아무도 안 쳐다봐도 재고 데이터 보내는 것들이요. 사람 네트워크가 아니라 기계 네트워크예요.
 
-034. ÁLVARO: ¿De quién?
-    알바로: 누구 건데?
+034. ÁLVARO: ¿Y de quién son esas máquinas? Porque alguien paga la factura, y quien paga suele ser quien escucha.
+    알바로: 그럼 그 기계들은 누구 건데? 누군가는 요금을 내잖아. 돈 내는 놈이 보통 듣는 놈이고.
 
 035. IKER: Aún no lo sé. El revendedor tiene la sede en Andorra y el contrato está a nombre de una sociedad que cambia de administrador cada seis meses.
     이케르: 아직 몰라요. 재판매업체 본사는 안도라에 있고, 계약은 여섯 달마다 대표가 바뀌는 회사 명의로 돼 있어요.
 
-036. ÁLVARO: Qué casualidad. Andorra otra vez.
-    알바로: 이런 우연이 있나. 또 안도라네.
+036. ÁLVARO: Qué casualidad, Andorra otra vez. Cada vez que algo apesta en este caso, aparece un buzón en Andorra.
+    알바로: 이런 우연이 있나, 또 안도라네. 이 사건에서 뭔가 구린내 날 때마다 안도라에 우편함이 하나씩 나타나.
 
 037. IKER: A mí las casualidades me dan urticaria. Y otra cosa: el servidor ha estado callado desde enero. Hasta esta madrugada.
     이케르: 전 우연 소리만 들으면 두드러기 나요. 그리고 하나 더. 그 서버, 1월부터 조용했어요. 오늘 새벽까지는요.
 
-038. ÁLVARO: ¿Qué ha pasado esta madrugada?
-    알바로: 오늘 새벽에 무슨 일이 있었는데?
+038. ÁLVARO: ¿Y qué ha pasado esta madrugada? No me tengas en vilo, que aquí hay cuatrocientas cámaras mirándome la cara.
+    알바로: 그래서 오늘 새벽에 무슨 일이 있었는데? 애태우지 마. 여기 카메라 사백 대가 내 얼굴 보고 있다고.
 
 039. IKER: Anoche, a las once y cuarenta, se despertó. Veinte minutos de tráfico de salida, como si estuviera mandando algo a muchos sitios a la vez.
     이케르: 어젯밤 열한 시 사십 분에 깨어났어요. 이십 분 동안 밖으로 트래픽을 쏟아냈어요. 한꺼번에 여러 군데로 뭘 보내는 것처럼요.
 
-040. ÁLVARO: A las once y cuarenta. ¿Estás seguro?
-    알바로: 열한 시 사십 분. 확실해?
+040. ÁLVARO: A las once y cuarenta, dices. ¿Estás seguro de la hora, Iker? Piénsalo bien, porque es importante.
+    알바로: 열한 시 사십 분이라고? 시간 확실해, 이케르? 잘 생각해 봐. 중요한 거야.
 
 041. IKER: Seguro como que el Athletic es el mejor equipo de la historia. ¿Por qué?
     이케르: 아틀레틱이 역사상 최고의 팀인 것만큼 확실해요. 왜요?
 
-042. ÁLVARO: Porque a las once y cuarenta se actualizó la app oficial de este congreso.
-    알바로: 열한 시 사십 분에 이 박람회 공식 앱이 업데이트됐거든.
+042. ÁLVARO: Porque a las once y cuarenta, justo a esa hora, se actualizó la app oficial de este congreso, la misma que llevan en el bolsillo cien mil personas.
+    알바로: 열한 시 사십 분, 딱 그 시간에 이 박람회 공식 앱이 업데이트됐거든. 십만 명이 주머니에 넣고 다니는 그 앱이.
 
-043. IKER: Ni de coña… Espera. Sí. Joder, sí.
-    이케르: 설마… 잠깐. 맞네. 젠장, 맞아요.
+043. IKER: Ni de coña… Espera. Sí. Joder, sí. Es la misma hora al minuto, Gato, y eso no lo hace ningún servidor por casualidad.
+    이케르: 설마… 잠깐. 맞네. 젠장, 맞아요. 분 단위까지 같은 시간이에요, 가토. 그건 어떤 서버도 우연으로는 안 해요.
 
 044. ROIG: Medina, ¿qué pasa? Quiero que me lo cuente antes de que lo haga.
     로이그: 메디나 씨, 무슨 일이에요? 하기 전에 말해 달라고 했잖아요.
@@ -153,11 +153,11 @@
 046. ROIG: La app la gestiona la organización con una empresa privada. Para que nos den el código, necesitaremos una orden judicial o un milagro.
     로이그: 그 앱은 주최 측이 민간 업체랑 같이 운영해요. 코드를 받으려면 법원 영장이나 기적이 필요할 거예요.
 
-047. ÁLVARO: ¿Qué tarda menos?
-    알바로: 어느 쪽이 더 빠릅니까?
+047. ÁLVARO: ¿Y qué tarda menos, la orden o el milagro? Lo digo porque la feria se acaba el jueves y el que escucha no va a esperar.
+    알바로: 그럼 영장이랑 기적 중에 뭐가 더 빠릅니까? 박람회는 목요일에 끝나고, 엿듣는 놈은 기다려 주지 않을 테니까요.
 
-048. ROIG: En Barcelona, el milagro. Los juzgados de guardia están desbordados.
-    로이그: 바르셀로나에선 기적이요. 당직 법원은 일이 넘쳐나거든요.
+048. ROIG: En Barcelona, el milagro, sin duda. Los juzgados de guardia están desbordados, y ningún juez firma nada contra una feria que trae cien mil visitantes.
+    로이그: 바르셀로나에선 당연히 기적이죠. 당직 법원은 일이 넘쳐나고, 방문객 십만 명 데려오는 박람회를 상대로 서명해 줄 판사는 없어요.
 
 049. ÁLVARO: Pues pida el milagro. Yo voy a buscar a quien no quiere hablar conmigo.
     알바로: 그럼 기적을 청하세요. 전 저랑 말하기 싫어하는 사람을 찾으러 가겠습니다.
@@ -177,29 +177,29 @@
 054. NÚRIA: Delegación alemana. Y no la pase por el lector, por favor. Mírela con los ojos.
     누리아: 독일 대표단. 그리고 리더기에 찍지 마세요. 눈으로 보세요.
 
-055. AZAFATA: Tengo que pasarla por el lector, señora. Es el protocolo.
-    도우미: 리더기에 찍어야 합니다, 손님. 규정이에요.
+055. AZAFATA: Lo siento, señora, pero tengo que pasarla por el lector. Es el protocolo, y si no lo hago, mañana me quedo sin trabajo.
+    도우미: 죄송하지만 손님, 리더기에 찍어야 합니다. 규정이에요. 안 그러면 전 내일 일자리 잃어요.
 
-056. WEBER: Ella viene conmigo. Yo me hago responsable.
-    베버: 이분은 저랑 같이 왔습니다. 제가 책임지죠.
+056. WEBER: Ella viene conmigo, señorita. Yo me hago responsable de lo que pase, y si hace falta, firmo donde usted me diga.
+    베버: 이분은 저랑 같이 왔습니다, 아가씨. 무슨 일이 생기면 제가 책임지죠. 필요하면 말씀하시는 곳에 서명하겠습니다.
 
 057. AZAFATA: Como quiera. Pero que conste que se lo he dicho.
     도우미: 알겠습니다. 하지만 제가 말씀드렸다는 건 분명히 해 두세요.
 
-058. NÚRIA: Que conste. Jonas, ¿dónde está la ministra?
-    누리아: 분명히 해 둘게요. 요나스, 장관님 어디 계셔?
+058. NÚRIA: Que conste, que conste. Jonas, ¿dónde está la ministra ahora mismo? Necesito saber si lleva el teléfono encima.
+    누리아: 분명히 해 둘게요, 분명히. 요나스, 장관님 지금 어디 계셔? 폰을 갖고 계신지 알아야 해.
 
 059. WEBER: En el auditorio, con otros seis ministros. Hablando de soberanía digital, precisamente.
     베버: 강당에요. 다른 장관 여섯 명이랑 같이요. 하필이면 디지털 주권에 대해 말씀 중이세요.
 
-060. NÚRIA: Qué ironía. ¿Y su teléfono?
-    누리아: 아이러니하네. 그럼 폰은?
+060. NÚRIA: Qué ironía, hablar de soberanía con un teléfono que no controlas. ¿Y su teléfono, dónde está ahora?
+    누리아: 아이러니하네. 통제도 못 하는 폰 들고 주권 얘기라니. 그럼 그 폰은 지금 어디 있어?
 
 061. WEBER: En mi bolsillo, como usted pidió. Pero a las nueve y cincuenta lo llevaba ella, al entrar por el acceso VIP.
     베버: 말씀하신 대로 제 주머니에 있어요. 하지만 아홉 시 오십 분에 VIP 출입구로 들어오실 땐 장관님이 들고 계셨어요.
 
-062. NÚRIA: ¿Pasó la acreditación por el torno?
-    누리아: 출입증을 게이트에 찍었어?
+062. NÚRIA: ¿Y pasó la acreditación por el torno, como todo el mundo, o la dejaron entrar por la puerta de los camareros?
+    누리아: 그래서 다른 사람들처럼 출입증을 게이트에 찍었어, 아니면 웨이터 문으로 들여보내 줬어?
 
 063. WEBER: Claro. Todos la pasan. Hay que tocar el lector con la tarjeta, y ella llevaba el teléfono en la misma mano.
     베버: 물론이죠. 다들 찍어요. 카드를 리더기에 대야 하는데, 장관님이 같은 손에 폰을 들고 계셨어요.
@@ -207,14 +207,14 @@
 064. NÚRIA: Déjame ver el monitor… Ahí está. Nueve y cincuenta y dos: una ráfaga corta. Luego otra a las nueve y cincuenta y nueve. Y otra a las diez y seis.
     누리아: 모니터 좀 보자… 저기 있다. 아홉 시 오십이 분, 짧은 신호 한 번. 그다음 아홉 시 오십구 분에 또. 그리고 열 시 육 분에 또.
 
-065. WEBER: ¿Qué significa?
-    베버: 그게 무슨 뜻입니까?
+065. WEBER: ¿Y qué significa eso, en un idioma que yo pueda explicarle a mi ministra sin que se asuste?
+    베버: 그게 무슨 뜻입니까? 장관님이 놀라지 않게 설명할 수 있는 말로 해 주세요.
 
 066. NÚRIA: Que cada siete minutos, desde que tocó ese lector, el teléfono de tu ministra habla con alguien. Pequeñas ráfagas cifradas, como si susurrara.
     누리아: 그 리더기를 찍은 뒤로 칠 분마다 너희 장관님 폰이 누군가랑 얘기하고 있다는 뜻이야. 속삭이듯이, 짧게 암호화된 신호로.
 
-067. WEBER: ¿Hablar con quién?
-    베버: 누구랑요?
+067. WEBER: ¿Hablar con quién? ¿Con alguien de aquí dentro, o con alguien que está a miles de kilómetros?
+    베버: 누구랑요? 이 안에 있는 사람이랑요, 아니면 수천 킬로 떨어진 누군가랑요?
 
 068. NÚRIA: Con un servidor que finge ser una red de distribución de contenidos, como si descargara fotos de gatitos. Pero lo que sube pesa más que lo que baja.
     누리아: 콘텐츠 전송망인 척하는 서버랑. 고양이 사진이라도 내려받는 것처럼. 근데 올라가는 게 내려오는 것보다 무거워.
@@ -231,14 +231,14 @@
 072. NÚRIA: Lo estaba. Por eso me da tanto miedo. Nadie hizo clic en nada. Nadie abrió un enlace. Solo tocó un lector.
     누리아: 깨끗했지. 그래서 이렇게 무서운 거야. 아무도 아무것도 클릭 안 했어. 아무도 링크 안 열었어. 리더기 한 번 찍은 것뿐이야.
 
-073. WEBER: Entonces, ¿la aplicación?
-    베버: 그럼, 앱입니까?
+073. WEBER: Entonces, ¿ha sido la aplicación? ¿La misma que yo le instalé con mis propias manos mientras ella saludaba al embajador?
+    베버: 그럼 앱 때문입니까? 장관님이 대사님과 인사하시는 동안 제가 제 손으로 깔아 드린 그 앱이요?
 
 074. NÚRIA: La aplicación y la tarjeta, juntas. Pero quiero comprobarlo con un teléfono limpio antes de decir nada más. Dame diez minutos y tu acreditación.
     누리아: 앱이랑 카드, 둘이 같이. 근데 더 말하기 전에 깨끗한 폰으로 확인하고 싶어. 십 분이랑 네 출입증 줘.
 
-075. WEBER: ¿La mía?
-    베버: 제 거요?
+075. WEBER: ¿La mía? Yo no entiendo nada de tecnología, señora Ballester; lo más complicado que hago es reservar trenes.
+    베버: 제 거요? 전 기술은 하나도 몰라요, 바예스테르 씨. 제가 하는 제일 복잡한 일이 기차 예매예요.
 
 076. NÚRIA: La mía la tienen fichada; me han visto discutir con la organización. Tú eres un señor alemán muy serio al que nadie mira dos veces.
     누리아: 내 건 찍혀 있어. 주최 측이랑 싸우는 거 다 봤거든. 넌 아무도 두 번 안 쳐다보는 아주 진지한 독일 아저씨잖아.
@@ -246,14 +246,14 @@
 077. NÚRIA: Escolta, Jonas. Este móvil lo he comprado esta mañana en una tienda de Sants. Lo he sacado de la caja delante de ti.
     누리아: 잘 봐, 요나스. 이 폰은 오늘 아침 산츠의 가게에서 샀어. 네 앞에서 상자 뜯었지.
 
-078. WEBER: Lo he visto. Todavía tenía el plástico.
-    베버: 봤습니다. 비닐도 그대로였어요.
+078. WEBER: Lo he visto, sí. Todavía tenía el plástico, y usted lo ha arrancado con los dientes, que no es muy higiénico.
+    베버: 봤습니다, 네. 비닐도 그대로였는데 이로 뜯으시더군요. 별로 위생적이진 않아요.
 
 079. NÚRIA: Le instalo FiraPass, entro con tu acreditación y ahora, si quieres que lo veamos juntos, toca el lector del torno con la tarjeta y el teléfono en la misma mano.
     누리아: 피라패스 깔고, 네 출입증으로 로그인하고. 이제 같이 확인하고 싶으면, 카드랑 폰을 같은 손에 들고 게이트 리더기를 찍어.
 
-080. WEBER: ¿Y si no pasa nada?
-    베버: 아무 일도 없으면요?
+080. WEBER: ¿Y si no pasa nada? Entonces habremos perdido una mañana y yo habré hecho el ridículo delante de una azafata.
+    베버: 아무 일도 없으면요? 그럼 오전을 날린 거고, 전 도우미 앞에서 웃음거리가 된 거죠.
 
 081. NÚRIA: Pues invito yo a la cerveza y me disculpo por escrito. Venga, toca.
     누리아: 그럼 맥주는 내가 사고, 서면으로 사과할게. 자, 찍어.
@@ -261,14 +261,14 @@
 082. AZAFATA: Bienvenido de nuevo, señor Weber. Que tenga un buen día de feria.
     도우미: 다시 오셨네요, 베버 씨. 즐거운 박람회 되세요.
 
-083. WEBER: Gracias. Ya está. ¿Y ahora?
-    베버: 고맙습니다. 됐어요. 이제요?
+083. WEBER: Gracias, igualmente. Ya está, señora Ballester, he pasado la tarjeta como un turista más. ¿Y ahora qué hacemos?
+    베버: 고맙습니다, 당신도요. 됐습니다, 바예스테르 씨. 여느 관광객처럼 카드 찍었어요. 이제 뭘 하죠?
 
 084. NÚRIA: Ahora esperamos. Mira la pantalla, no a mí. Cuarenta segundos… cincuenta…
     누리아: 이제 기다려. 날 보지 말고 화면 봐. 사십 초… 오십 초…
 
-085. WEBER: Nada. Quizá se ha equivocado usted.
-    베버: 아무것도 없네요. 어쩌면 틀리신 건지도.
+085. WEBER: Nada, no pasa nada. Quizá se ha equivocado usted, y le confieso que me alegraría muchísimo.
+    베버: 아무것도 없네요. 어쩌면 틀리신 건지도 모르겠어요. 솔직히 그러면 정말 기쁘겠습니다.
 
 086. NÚRIA: Un minuto y diez. Ahí. Primera ráfaga. Mismo servidor, mismo tamaño, mismo silencio.
     누리아: 일 분 십 초. 저기. 첫 신호. 같은 서버, 같은 크기, 같은 침묵.
@@ -279,17 +279,17 @@
 088. NÚRIA: Paciente cero, Jonas. Tu ministra es la paciente cero, y este teléfono de ciento noventa euros es el paciente uno.
     누리아: 최초 감염자야, 요나스. 너희 장관님이 최초 감염자고, 이 백구십 유로짜리 폰이 두 번째 환자야.
 
-089. WEBER: ¿Cómo es posible, si no he hecho nada? Solo he tocado una tarjeta.
-    베버: 어떻게 그럴 수가 있죠? 전 아무것도 안 했어요. 카드 하나 댄 것뿐인데.
+089. WEBER: ¿Cómo es posible, si no he hecho nada? Solo he tocado una tarjeta, como hacen cada día millones de personas en el metro.
+    베버: 어떻게 그럴 수가 있죠? 전 아무것도 안 했어요. 매일 수백만 명이 지하철에서 하듯 카드 하나 댄 것뿐인데.
 
 090. NÚRIA: El lector manda un mensaje, el teléfono lo recibe por NFC y FiraPass lo lee en segundo plano. La actualización de anoche le enseñó a leerlo mal, a propósito.
     누리아: 리더기가 메시지를 보내면, 폰이 NFC로 받고, 피라패스가 백그라운드에서 그걸 읽어. 어젯밤 업데이트가 그걸 잘못 읽도록 가르친 거야. 일부러.
 
-091. WEBER: ¿Mal?
-    베버: 잘못?
+091. WEBER: ¿Mal? ¿Quiere decir que alguien ha programado un error a propósito, como quien deja una ventana sin cerrar?
+    베버: 잘못이요? 누가 창문 하나 일부러 안 잠그듯이, 오류를 일부러 심어 놨다는 말씀입니까?
 
-092. NÚRIA: Mal a propósito. Un error tan pequeño que parece un descuido, y por ese agujero se cuela todo lo demás. Es elegante, collons. Ojalá no lo fuera.
-    누리아: 일부러 잘못. 실수처럼 보일 만큼 작은 오류인데, 그 구멍으로 나머지가 전부 스며들어. 젠장, 우아해. 차라리 안 우아했으면 좋겠다.
+092. NÚRIA: Exacto, a propósito. Un error tan pequeño que parece un descuido, y por ese agujero se cuela todo lo demás. Es elegante, collons. Ojalá no lo fuera.
+    누리아: 바로 그거, 일부러. 실수처럼 보일 만큼 작은 오류인데, 그 구멍으로 나머지가 전부 스며들어. 젠장, 우아해. 차라리 안 우아했으면 좋겠다.
 
 093. WEBER: Tengo que informar a Berlín inmediatamente. A la ministra, a la oficina federal, a todos.
     베버: 당장 베를린에 보고해야 합니다. 장관님께, 연방 보안청에, 모두에게요.
@@ -297,11 +297,11 @@
 094. NÚRIA: Primero quiero que apagues el teléfono de la ministra y lo metas en esta bolsa. Es una bolsa de Faraday; ahí dentro no oye nada.
     누리아: 그 전에 장관님 폰 끄고 이 주머니에 넣어. 패러데이 백이야. 이 안에선 아무것도 못 들어.
 
-095. WEBER: Hecho. ¿Y los demás?
-    베버: 했습니다. 그럼 다른 사람들은요?
+095. WEBER: Hecho, ya está apagado y dentro de la bolsa. ¿Y qué hacemos con los demás?
+    베버: 했습니다. 껐고 주머니에 넣었어요. 그럼 다른 사람들은 어떻게 하죠?
 
-096. NÚRIA: ¿Qué demás?
-    누리아: 다른 사람들?
+096. NÚRIA: ¿Qué demás? Ahora mismo solo me preocupa una ministra, y ya me parece demasiado para un lunes.
+    누리아: 다른 사람들? 지금 내가 걱정하는 건 장관 한 명뿐이야. 그것만으로도 월요일치곤 차고 넘쳐.
 
 097. WEBER: Los otros ministros. Había siete en ese escenario, y todos entraron por el mismo torno.
     베버: 다른 장관들이요. 그 무대에 일곱 명이 있었고, 다들 같은 게이트로 들어왔어요.
@@ -312,8 +312,8 @@
 099. WEBER: Señora Ballester, tengo que pedirle algo. Que esto no salga de aquí hasta que Berlín decida qué hacer. Es un asunto diplomático.
     베버: 바예스테르 씨, 부탁드릴 게 있습니다. 베를린이 어떻게 할지 정할 때까지 이 일이 밖으로 새 나가지 않게 해 주세요. 외교 문제입니다.
 
-100. NÚRIA: ¿Me pides que me calle mientras escuchan a seis ministros más?
-    누리아: 장관 여섯 명이 더 도청당하는 동안 입 다물고 있으라고?
+100. NÚRIA: ¿Me estás pidiendo que me calle mientras escuchan a seis ministros más? ¿Tú sabes lo que me estás pidiendo, Jonas?
+    누리아: 장관 여섯 명이 더 도청당하는 동안 입 다물고 있으라는 거야? 너 지금 무슨 부탁하는지 알아, 요나스?
 
 101. WEBER: Le pido que me dé dos horas. Si lo hacemos público ahora, se para el congreso, se hunde la bolsa y alguien en Madrid dirá que Alemania exagera.
     베버: 두 시간만 달라는 겁니다. 지금 공개하면 박람회가 멈추고, 주가가 폭락하고, 마드리드의 누군가는 독일이 호들갑 떤다고 하겠죠.
@@ -327,29 +327,29 @@
 104. NÚRIA: Al Gobierno español se lo dices tú, de gabinete a gabinete, por la vía oficial. Al CNI no le debo nada.
     누리아: 스페인 정부엔 네가 말해. 비서실 대 비서실로, 공식 채널로. 난 CNI한테 빚진 거 없어.
 
-105. ÁLVARO: Núria. Te he buscado por tres pabellones, y un robot me ha ofrecido un café.
-    알바로: 누리아. 너 찾느라 전시홀 세 개를 돌았어. 로봇이 커피도 권하더라.
+105. ÁLVARO: Núria, por fin. Te he buscado por tres pabellones, me he perdido dos veces y un robot me ha ofrecido un café.
+    알바로: 누리아, 드디어. 너 찾느라 전시홀 세 개를 돌았어. 두 번 길 잃고, 로봇이 커피도 권하더라.
 
-106. NÚRIA: ¿Y lo has aceptado?
-    누리아: 그래서 받아 마셨어?
+106. NÚRIA: ¿Y lo has aceptado? Porque esos robots los patrocina una empresa de datos, y seguro que ya sabe cómo te gusta el café.
+    누리아: 그래서 받아 마셨어? 그 로봇들 데이터 회사가 후원하는 거라, 네가 커피 어떻게 마시는지 벌써 알걸.
 
 107. ÁLVARO: No me fío de quien sonríe tanto. ¿Qué haces con una bolsa de Faraday aquí?
     알바로: 그렇게 웃는 놈은 안 믿어. 여기서 패러데이 백 들고 뭐 하는 거야?
 
-108. NÚRIA: Mi trabajo. Que es exactamente lo que deberías estar haciendo tú, lejos de aquí.
-    누리아: 내 일. 너도 바로 그걸 하고 있어야지. 여기서 멀리 떨어져서.
+108. NÚRIA: Mi trabajo, que es exactamente lo que deberías estar haciendo tú, pero lejos de aquí y lejos de mis clientes.
+    누리아: 내 일. 너도 바로 그걸 하고 있어야지. 단, 여기서 멀리, 내 고객들한테서도 멀리.
 
 109. ÁLVARO: Anoche, a las once y cuarenta, se actualizó FiraPass. A la misma hora se despertó en Barcelona un servidor que llevaba semanas dormido. No creo que sea casualidad.
     알바로: 어젯밤 열한 시 사십 분에 피라패스가 업데이트됐어. 같은 시각, 몇 주째 잠들어 있던 서버가 바르셀로나에서 깨어났고. 우연은 아닌 것 같아.
 
-110. NÚRIA: ¿Qué servidor?
-    누리아: 무슨 서버?
+110. NÚRIA: ¿Qué servidor? Habla claro, que no tengo tiempo para misterios de espía.
+    누리아: 무슨 서버? 똑바로 말해. 스파이식 수수께끼 할 시간 없어.
 
 111. ÁLVARO: Uno que ya escuchó a un hombre que ahora está muerto. Te lo cuento si me dices qué hay en esa bolsa.
     알바로: 지금은 죽은 어떤 남자를 엿듣던 서버. 그 주머니에 뭐가 들었는지 말해 주면 얘기해 줄게.
 
-112. NÚRIA: No funciono así. Con vosotros no hago trueques.
-    누리아: 난 그렇게 안 해. 너희랑은 거래 안 해.
+112. NÚRIA: No funciono así, Álvaro. Con vosotros no hago trueques, porque al final siempre salgo perdiendo yo.
+    누리아: 난 그렇게 안 해, 알바로. 너희랑은 거래 안 해. 결국 손해 보는 건 늘 나거든.
 
 113. ÁLVARO: No es un trueque. Es que no quiero que haya un segundo muerto porque tú y yo no nos soportamos.
     알바로: 거래가 아니야. 너랑 나랑 서로 못 견딘다는 이유로 두 번째 시체가 나오는 게 싫은 거야.
@@ -357,8 +357,8 @@
 114. WEBER: Señor Medina, la delegación alemana informará a su Gobierno por los canales oficiales. Le ruego que respete el procedimiento.
     베버: 메디나 씨, 독일 대표단은 공식 채널로 스페인 정부에 알릴 겁니다. 절차를 존중해 주시기 바랍니다.
 
-115. ÁLVARO: El procedimiento. Me suena. Núria, solo dime una cosa: ¿es la app?
-    알바로: 절차라. 많이 듣던 말이네요. 누리아, 하나만 말해 줘. 앱이야?
+115. ÁLVARO: El procedimiento. Me suena; me lo dicen en Madrid cada vez que algo importante se queda en un cajón. Núria, solo dime una cosa: ¿es la app?
+    알바로: 절차라. 많이 듣던 말이네요. 마드리드에서 중요한 게 서랍에 처박힐 때마다 듣는 말이죠. 누리아, 하나만 말해 줘. 앱이야?
 
 116. NÚRIA: Pregúntaselo a tu ministro. Él lo sabrá dentro de dos horas. Tú, cuando él quiera.
     누리아: 너희 장관한테 물어봐. 장관은 두 시간 뒤에 알게 될 거야. 넌 장관이 원할 때 알게 되겠지.
@@ -366,8 +366,8 @@
 117. ÁLVARO: Toma mi número. No lo uses si no quieres, pero no lo tires hasta mañana.
     알바로: 내 번호 받아. 싫으면 쓰지 마. 대신 내일까진 버리지 마.
 
-118. NÚRIA: Ya lo tengo. Jonas me lo ha dado tres veces.
-    누리아: 이미 있어. 요나스가 세 번이나 줬거든.
+118. NÚRIA: Ya lo tengo. Jonas me lo ha dado tres veces, y una de ellas escrito en una servilleta, como en las películas.
+    누리아: 이미 있어. 요나스가 세 번이나 줬거든. 한 번은 영화처럼 냅킨에 써서.
 
 119. WEBER: Señora Ballester, ¿dónde está? Tengo noticias de Berlín, y no son buenas.
     베버: 바예스테르 씨, 어디세요? 베를린에서 소식이 왔는데, 좋은 소식은 아닙니다.
@@ -390,35 +390,35 @@
 125. WEBER: En el mío también. Pero hay algo más. El jefe de gabinete francés me ha comentado en el cóctel que a su ministra se le calienta el teléfono.
     베버: 우리나라도 마찬가지예요. 그런데 하나 더 있어요. 프랑스 비서실장이 칵테일 파티에서 그러는데, 자기 장관 폰이 뜨거워진대요.
 
-126. NÚRIA: Collons. Ya son dos.
-    누리아: 젠장. 벌써 둘이네.
+126. NÚRIA: Collons. Ya son dos, y esto es solo lo que se cuenta en un cóctel; imagínate lo que se callan.
+    누리아: 젠장. 벌써 둘이네. 그것도 칵테일 파티에서 흘린 것만. 입 다물고 있는 건 얼마나 될지 상상해 봐.
 
-127. WEBER: Quizá más. Nadie quiere ser el primero en admitirlo.
-    베버: 더 있을지도요. 아무도 먼저 인정하고 싶어 하지 않으니까요.
+127. WEBER: Quizá más, mucho más. Nadie quiere ser el primero en admitirlo, porque el primero que lo admite es el que sale en los periódicos.
+    베버: 더 있을지도요, 훨씬 더. 아무도 먼저 인정하고 싶어 하지 않아요. 먼저 인정하는 사람이 신문에 나니까요.
 
 128. NÚRIA: Escolta, Jonas. El problema no es solo la app; son los lectores de los tornos. Alguien les ha cambiado el firmware. Para pararlos hay que entrar en la red de la Fira esta noche.
     누리아: 잘 들어, 요나스. 문제는 앱만이 아니야. 게이트 리더기야. 누가 펌웨어를 바꿔 놨어. 그걸 멈추려면 오늘 밤 피라 네트워크에 들어가야 해.
 
-129. WEBER: ¿Y usted no puede hacerlo?
-    베버: 당신은 못 합니까?
+129. WEBER: ¿Y usted no puede hacerlo? Me dijeron que antes entraba en sistemas mucho más difíciles por diversión.
+    베버: 당신은 못 합니까? 예전엔 재미로 훨씬 어려운 시스템에도 들어갔다고 들었는데요.
 
-130. NÚRIA: Si entro sin permiso, mañana la detenida soy yo y el que escucha sigue escuchando.
-    누리아: 할 수는 있지. 근데 허락 없이 들어가면 내일 체포되는 건 나고, 엿듣는 놈은 계속 엿듣겠지.
+130. NÚRIA: Poder, puedo. Pero si entro sin permiso, mañana la detenida soy yo y el que escucha sigue escuchando tan tranquilo.
+    누리아: 할 수는 있지. 근데 허락 없이 들어가면 내일 체포되는 건 나고, 엿듣는 놈은 태연하게 계속 엿듣겠지.
 
-131. WEBER: Entonces necesita una autorización.
-    베버: 그럼 허가가 필요하겠군요.
+131. WEBER: Entonces lo que necesita es una autorización, alguien que firme y que responda si algo sale mal.
+    베버: 그럼 필요한 건 허가군요. 서명해 주고, 일이 잘못되면 책임질 사람.
 
 132. NÚRIA: Necesito a alguien que pueda despertar a un juez, cerrar un torno y obligar a la organización a abrir sus servidores sin que me pregunten de qué lado estoy.
     누리아: 판사를 깨우고, 게이트를 닫고, 주최 측더러 서버를 열라고 강제할 수 있는 사람이 필요해. 내가 어느 편인지 묻지도 않고.
 
-133. WEBER: Conozco a una persona así. Me ha llamado tres veces hoy.
-    베버: 그런 사람 하나 압니다. 오늘 저한테 세 번 전화했죠.
+133. WEBER: Conozco a una persona así, y usted también. Me ha llamado tres veces hoy, y la última vez parecía preocupado de verdad.
+    베버: 그런 사람 하나 압니다. 당신도 알고요. 오늘 저한테 세 번 전화했는데, 마지막엔 정말 걱정하는 것 같았어요.
 
-134. NÚRIA: Ya lo sé, Jonas. Por eso me duele.
-    누리아: 알아, 요나스. 그래서 속이 쓰린 거야.
+134. NÚRIA: Ya lo sé, Jonas. Por eso me duele tanto, porque es justo la persona a la que juré no llamar nunca.
+    누리아: 알아, 요나스. 그래서 이렇게 속이 쓰린 거야. 절대 전화 안 하겠다고 맹세한 바로 그 사람이니까.
 
-135. ÁLVARO: ¿Diga?
-    알바로: 여보세요?
+135. ÁLVARO: ¿Diga? ¿Quién llama a estas horas a un número que no conoce casi nadie?
+    알바로: 여보세요? 이런 시간에 거의 아무도 모르는 번호로 누가 전화한 거죠?
 
 136. NÚRIA: Soy Núria. No cuelgues, que solo lo voy a decir una vez.
     누리아: 누리아야. 끊지 마. 딱 한 번만 말할 거니까.
@@ -429,11 +429,11 @@
 138. NÚRIA: No te emociones. Esto no es una tregua. Es la app, son los lectores, y ya hay por lo menos dos ministras infectadas.
     누리아: 들뜨지 마. 휴전 아니니까. 앱이 맞고, 리더기도 맞고, 감염된 장관이 최소 두 명이야.
 
-139. ÁLVARO: Lo sé. Iker dice que el servidor recibe datos de varios teléfonos a la vez.
-    알바로: 알아. 이케르 말로는 그 서버가 여러 대의 폰에서 동시에 데이터를 받고 있대.
+139. ÁLVARO: Lo sé, o me lo temía. Iker dice que el servidor recibe datos de varios teléfonos a la vez, y que desde las diez de la mañana no ha parado ni un segundo.
+    알바로: 알아. 아니, 그럴까 봐 겁났어. 이케르 말로는 그 서버가 여러 대의 폰에서 동시에 데이터를 받는대. 아침 열 시부터 일 초도 안 쉬었대.
 
-140. NÚRIA: Entonces escúchame bien, Álvaro Medina.
-    누리아: 그럼 잘 들어, 알바로 메디나.
+140. NÚRIA: Entonces escúchame bien, Álvaro Medina, porque mañana a las ocho hay otro desayuno con lectores y no pienso repetirlo.
+    누리아: 그럼 잘 들어, 알바로 메디나. 내일 여덟 시에 리더기 달린 조찬이 또 있고, 난 두 번 말 안 할 거니까.
 
 141. NÚRIA: Necesito a alguien con placa. Por desgracia, eres tú.
     누리아: 신분증 가진 사람이 필요해. 불행히도, 그게 너야.
