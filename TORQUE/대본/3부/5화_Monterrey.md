@@ -24,8 +24,8 @@
 003. TYLER: It's a hundred and two degrees at nine in the morning, and even though I was in Kuwait, this still feels personal.
     타일러: 아침 아홉 시에 화씨 102도예요. 쿠웨이트에도 있어 봤는데, 이건 아직도 저한테 감정 있는 것 같아요.
 
-004. NATE: It's air-conditioned inside, which is the first thing you'll notice, because Alejandro runs a very nice factory. Come and meet him.
-    네이트: 안은 에어컨이 돼요. 그게 제일 먼저 눈에 띌 거예요. 알레한드로는 아주 좋은 공장을 운영하거든요. 인사하러 가시죠.
+004. NATE: It's air-conditioned inside, and that's the first thing you'll notice. Alejandro runs a very nice factory, so come and meet him.
+    네이트: 안은 에어컨이 돼요. 그게 제일 먼저 눈에 띌 거예요. 알레한드로는 아주 좋은 공장을 운영하니까 인사하러 가시죠.
 
 005. GARZA: Sam Kowalski, bienvenidos, and welcome to Garza Industrial. Nate says you're the man who makes motors without the magic metal.
     가르사: 샘 코왈스키, 비엔베니도스, 가르사 인더스트리얼에 오신 걸 환영합니다. 네이트 말로는 마법의 금속 없이 모터를 만드는 분이라던데요.
@@ -33,7 +33,7 @@
 006. SAM: That's me. Thank you for having us, Mr. Garza. This is Earl Washington, our production chief, and Tyler Novak, sales.
     샘: 접니다. 초대해 주셔서 감사합니다, 가르사 씨. 이쪽은 생산 반장 얼 워싱턴, 그리고 영업 담당 타일러 노박이에요.
 
-007. GARZA: Please call me Alejandro. Earl, I've heard about you too, because Nate says you were at General Motors for many years.
+007. GARZA: Please call me Alejandro. Earl, I've heard about you too. Nate says you were at General Motors for many years.
     가르사: 알레한드로라고 불러 주세요. 얼, 당신 얘기도 들었어요. 네이트 말로는 제너럴 모터스에 오래 계셨다고요.
 
 008. EARL: I spent most of my working life at Moraine, until they shut it down.
@@ -45,8 +45,8 @@
 010. EARL: I appreciate you not pretending.
     얼: 아닌 척 안 해 줘서 고맙네.
 
-011. NATE: I'll leave you three with Alejandro, because I have to check on my seat line. Sam, dinner tonight is on me, and since Alejandro picked the restaurant, it'll be good.
-    네이트: 세 분은 알레한드로랑 계세요. 전 시트 라인 좀 보고 와야 해서요. 샘, 오늘 저녁은 제가 살게요. 알레한드로가 식당을 골랐으니 맛있을 거예요.
+011. NATE: I'll leave you three with Alejandro, I have to check on my seat line. Sam, dinner tonight is on me, and since Alejandro picked the restaurant, it'll be good.
+    네이트: 세 분은 알레한드로랑 계세요. 전 시트 라인 좀 보고 와야 해요. 샘, 오늘 저녁은 제가 살게요. 알레한드로가 식당을 골랐으니 맛있을 거예요.
 
 012. GARZA: Come, let me show you the floor. We have three hundred and forty people on two shifts, and we build parts for eleven companies, mostly American, with two Japanese and one German.
     가르사: 오세요, 현장 보여 드릴게요. 2교대에 삼백사십 명이 일하고, 열한 개 회사 부품을 만들어요. 대부분 미국 회사고, 일본 두 곳, 독일 한 곳이에요.
@@ -57,14 +57,14 @@
 014. EARL: Everything's cleaner than our break room, Tyler.
     얼: 우리 휴게실보다 안 깨끗한 데가 없어, 타일러.
 
-015. GARZA: Clean is cheaper, because dirt makes defects, defects make customers angry, and angry customers go to Vietnam.
-    가르사: 깨끗한 게 더 싸요. 먼지는 불량을 만들고, 불량은 고객을 화나게 하고, 화난 고객은 베트남으로 가니까요.
+015. GARZA: Clean is cheaper. Dirt makes defects, defects make customers angry, and angry customers go to Vietnam.
+    가르사: 깨끗한 게 더 싸요. 먼지는 불량을 만들고, 불량은 고객을 화나게 하고, 화난 고객은 베트남으로 가죠.
 
 016. SAM: And what do you build for Nate?
     샘: 네이트한테는 뭘 만들어 주세요?
 
-017. GARZA: We build small assemblies, like seat switches, wiring harnesses, and the little brackets that hold the motors. Nate builds the seats next door, so we're the hands that help his hands.
-    가르사: 작은 조립품을 만들어요. 시트 스위치, 배선 하네스, 모터 잡아 주는 작은 브래킷 같은 거요. 네이트는 옆 건물에서 시트를 만드니까 우린 그 사람 손을 돕는 손이에요.
+017. GARZA: We build small assemblies, like seat switches, wiring harnesses, and the little brackets that hold the motors. Nate builds the seats next door, and we're the hands that help his hands.
+    가르사: 작은 조립품을 만들어요. 시트 스위치, 배선 하네스, 모터 잡아 주는 작은 브래킷 같은 거요. 네이트는 옆 건물에서 시트를 만들고, 우린 그 사람 손을 돕는 손이에요.
 
 018. SAM: And what about the empty building Nate mentioned?
     샘: 그럼 네이트가 말한 빈 건물은요?
@@ -78,13 +78,13 @@
 021. GARZA: They're waiting for Washington to decide what it wants. Every time Washington sneezes, Monterrey catches a cold, and this year Washington has the flu.
     가르사: 워싱턴이 뭘 원하는지 정하길 기다리는 거죠. 워싱턴이 재채기하면 몬테레이는 감기에 걸리는데, 올해 워싱턴은 독감이에요.
 
-022. EARL: Who's this, because she's really fast?
+022. EARL: Who's this? She's really fast.
     얼: 이분은 누구야? 손이 진짜 빠르네.
 
 023. GARZA: This is Lupita Treviño, who runs the harness line and has been with my family for twenty years. Lupita, these are the motor people from Ohio.
     가르사: 이쪽은 루피타 트레비뇨예요. 하네스 라인 조장이고 우리 집안이랑 20년 일했어요. 루피타, 오하이오에서 온 모터 회사 분들이야.
 
-024. LUPITA: Hello and welcome, and I'm sorry, because my English is okay but not great.
+024. LUPITA: Hello and welcome. I'm sorry, my English is okay but not great.
     루피타: 안녕하세요, 환영해요. 죄송해요, 제 영어는 괜찮은데 아주 좋진 않아요.
 
 025. EARL: My English isn't great either, ma'am, and you can ask anybody. How many of these do you make in a shift?
@@ -99,14 +99,14 @@
 028. LUPITA: You make motors? Do you make them with your hands or with machines?
     루피타: 모터 만드세요? 손으로 만들어요, 기계로 만들어요?
 
-029. EARL: Both, because machines wind the copper and people do the rest. And every motor goes on a test stand called Betsy before it leaves the building.
+029. EARL: Both. Machines wind the copper and people do the rest, and every motor goes on a test stand called Betsy before it leaves the building.
     얼: 둘 다요. 구리는 기계가 감고 나머지는 사람이 해요. 그리고 모든 모터는 건물 나가기 전에 베치라는 시험대에 올라가요.
 
 030. LUPITA: Every one of them, not just some?
     루피타: 일부만이 아니라 전부요?
 
-031. EARL: Every single one, because metal don't lie, but you gotta ask it every time.
-    얼: 하나도 빠짐없이. 쇠는 거짓말 안 하지만, 매번 물어봐야 하거든.
+031. EARL: Every single one. Metal don't lie, but you gotta ask it every time.
+    얼: 하나도 빠짐없이. 쇠는 거짓말 안 하지만, 매번 물어봐야 해.
 
 032. LUPITA: Metal don't lie, me gusta, and I'm going to tell my team.
     루피타: 쇠는 거짓말 안 한다, 메 구스타. 우리 팀한테 말해 줄게요.
@@ -114,8 +114,8 @@
 033. SAM: Lupita, can I ask you something? Do people stay here a long time, like you have?
     샘: 루피타, 하나 물어봐도 돼요? 여기 사람들은 루피타처럼 오래 일해요?
 
-034. LUPITA: Some do, but not all, because the young ones go where the pay is better. There's a new car parts plant down the road that pays twenty pesos more a day, so they go.
-    루피타: 일부는요, 다는 아니고요. 젊은 애들은 돈 더 주는 데로 가거든요. 길 아래에 하루에 20페소 더 주는 새 자동차 부품 공장이 생겨서 다들 가요.
+034. LUPITA: Some do, but not all. The young ones go where the pay is better, and there's a new car parts plant down the road that pays twenty pesos more a day, so they go.
+    루피타: 일부는요, 다는 아니고요. 젊은 애들은 돈 더 주는 데로 가요. 길 아래에 하루에 20페소 더 주는 새 자동차 부품 공장이 생겨서 다들 가요.
 
 035. GARZA: That's turnover, and it's our biggest problem, which in plain English means people leave. Every year about a third of my line workers quit, and I have to train new ones.
     가르사: 그게 이직이고, 우리 제일 큰 문제예요. 쉽게 말하면 사람들이 떠난다는 거죠. 매년 라인 작업자 3분의 1쯤이 그만둬서 새로 가르쳐야 해요.
@@ -126,28 +126,28 @@
 037. GARZA: Everybody thinks Mexico is cheap labor and that's the whole story, but it's not. Monterrey has engineers, universities, and good people, but the good people have choices now.
     가르사: 다들 멕시코는 싼 노동력이고 그게 다라고 생각하는데, 아니에요. 몬테레이엔 엔지니어도, 대학도, 좋은 사람들도 있어요. 근데 좋은 사람들한테 이젠 선택지가 있죠.
 
-038. EARL: It's the same in Ohio, because the good ones always have choices.
+038. EARL: It's the same in Ohio. The good ones always have choices.
     얼: 오하이오도 똑같아. 잘하는 사람은 항상 선택지가 있지.
 
-039. LUPITA: Then you have to give them a reason to stay, which is what Don Alejandro's father used to say.
+039. LUPITA: Then you have to give them a reason to stay. That's what Don Alejandro's father used to say.
     루피타: 그럼 남을 이유를 줘야죠. 돈 알레한드로 아버님이 늘 그렇게 말씀하셨어요.
 
 040. GARZA: My father said many things, and that one was correct. Come, let me show you the empty building, and then we'll have lunch, and then you can tell me what you really want.
     가르사: 우리 아버지는 많은 말을 하셨는데, 그건 맞는 말이었죠. 오세요, 빈 건물 보여 드릴게요. 그다음에 점심 먹고, 그다음에 진짜 원하시는 게 뭔지 말해 주세요.
 
-041. GARZA: This is the best cabrito in Monterrey, which is roasted goat. Earl, don't make that face until you've tried it.
+041. GARZA: This is the best cabrito in Monterrey, roasted goat. Earl, don't make that face until you've tried it.
     가르사: 이게 몬테레이 최고의 카브리토, 새끼 염소 구이예요. 얼, 먹어 보기 전엔 그런 표정 짓지 마세요.
 
 042. EARL: I'm not making a face, my face just does that.
     얼: 표정 안 지었어. 내 얼굴이 원래 그래.
 
-043. TYLER: Earl, it's seriously amazing, so just try it.
+043. TYLER: Earl, it's seriously amazing. Just try it.
     타일러: 얼, 이거 진짜 끝내줘요. 그냥 드셔 봐요.
 
 044. EARL: Okay, okay. Huh, that's good, that's very good, but don't tell Donna at Lou's.
     얼: 알았어, 알았어. 허, 맛있네, 아주 맛있어. 근데 Lou's의 도나한텐 말하지 마.
 
-045. NATE: Alejandro, tell Sam the numbers, because he likes numbers, and he likes them honest.
+045. NATE: Alejandro, tell Sam the numbers. He likes numbers, and he likes them honest.
     네이트: 알레한드로, 샘한테 숫자 말해 줘요. 숫자 좋아하는데, 정직한 숫자를 좋아해요.
 
 046. GARZA: Honest numbers, okay. My line workers make about four and a half dollars an hour, with benefits, transport, and lunch, and your workers in Ohio make what, twenty-two or twenty-five?
@@ -156,19 +156,19 @@
 047. SAM: It's around there, and more with overtime.
     샘: 그쯤이고, 초과근무 하면 더 돼요.
 
-048. GARZA: So on labor alone I'm much cheaper, but your motor isn't mostly labor, is it? It's copper, steel, magnets, and your secret rotor, so labor is maybe twenty percent.
-    가르사: 그러니까 인건비만 보면 제가 훨씬 싸요. 근데 그쪽 모터는 대부분이 인건비가 아니잖아요? 구리, 강판, 자석, 비밀 로터니까 인건비는 20퍼센트쯤이겠죠.
+048. GARZA: So on labor alone I'm much cheaper. But your motor isn't mostly labor, is it? It's copper, steel, magnets, and your secret rotor, and labor is maybe twenty percent.
+    가르사: 그러니까 인건비만 보면 제가 훨씬 싸요. 근데 그쪽 모터는 대부분이 인건비가 아니잖아요? 구리, 강판, 자석, 비밀 로터고, 인건비는 20퍼센트쯤이겠죠.
 
 049. SAM: It's about eighteen percent.
     샘: 18퍼센트쯤이에요.
 
-050. GARZA: Then if you moved everything here, you'd save maybe twelve or thirteen percent, which is real money, but you'd lose other things.
+050. GARZA: Then if you moved everything here, you'd save maybe twelve or thirteen percent. That's real money, but you'd lose other things.
     가르사: 그럼 전부 여기로 옮기면 12이나 13퍼센트쯤 아끼겠네요. 진짜 돈이죠. 근데 다른 걸 잃을 거예요.
 
 051. TYLER: What kind of things would we lose?
     타일러: 어떤 걸 잃는데요?
 
-052. GARZA: You'd lose control and speed of change, because your engineers are in Ohio. When something goes wrong at two in the morning, who fixes it, someone on a plane? Logistics is not only trucks, my friend, it's people too.
+052. GARZA: You'd lose control and speed of change, because your engineers are in Ohio. When something goes wrong at two in the morning, who fixes it, someone on a plane? Logistics is not only trucks, my friend. It's people too.
     가르사: 통제권이랑 변화의 속도를 잃죠. 그쪽 엔지니어들은 오하이오에 있으니까요. 새벽 두 시에 문제가 생기면 누가 고쳐요, 비행기 탄 누군가가? 물류는 트럭만이 아니에요, 친구. 사람도 물류예요.
 
 053. NATE: Alejandro, you're supposed to be selling him the building.
@@ -219,20 +219,20 @@
 068. NATE: Okay, this is getting emotional, and since I'm paying, let's talk business. Sam, what would you actually put in Alejandro's building?
     네이트: 자, 분위기가 감성적으로 흘러가는데 계산은 제가 하니까 사업 얘기 하죠. 샘, 알레한드로 건물에 실제로 뭘 넣으실 거예요?
 
-069. SAM: I'm not sure yet, so tell me honestly what you'd want, Nate.
+069. SAM: I'm not sure yet. Tell me honestly what you'd want, Nate.
     샘: 아직 모르겠어요. 네이트가 원하는 걸 솔직하게 말해 봐요.
 
-070. NATE: Honestly, I'd want the whole motor, built here, tested here, and delivered next door on a forklift. There'd be no border, no customs broker, and no two-day truck, so my seat line would never wait for Ohio.
-    네이트: 솔직히 모터 전체요. 여기서 만들고, 여기서 시험하고, 옆 건물로 지게차로 배달하는 거죠. 국경도, 관세사도, 이틀 걸리는 트럭도 없으니까 우리 시트 라인이 오하이오를 기다릴 일이 없죠.
+070. NATE: Honestly, I'd want the whole motor, built here, tested here, and delivered next door on a forklift. No border, no customs broker, no two-day truck. My seat line would never wait for Ohio.
+    네이트: 솔직히 모터 전체요. 여기서 만들고, 여기서 시험하고, 옆 건물로 지게차로 배달하는 거죠. 국경도, 관세사도, 이틀 걸리는 트럭도 없이요. 우리 시트 라인이 오하이오를 기다릴 일이 없죠.
 
 071. SAM: And my rotor design, my firmware, my winding process, all in a building I don't own, in a country I don't know.
     샘: 그리고 제 로터 설계, 펌웨어, 권선 공정이 전부 제 것도 아닌 건물에, 제가 모르는 나라에 있게 되고요.
 
-072. GARZA: That's fair, and I'd be nervous too, because I've seen companies lose their secrets in places like this. Not in my building, but in places like this.
+072. GARZA: That's fair, and I'd be nervous too. I've seen companies lose their secrets in places like this, not in my building, but in places like this.
     가르사: 맞는 말이에요. 저라도 불안하겠죠. 이런 데서 비밀을 잃는 회사들을 봤거든요. 제 건물에서는 아니지만 이런 데서요.
 
-073. TYLER: We've already had someone take our secrets back in Ohio, so it's not about Mexico.
-    타일러: 저흰 이미 오하이오에서 비밀을 가져간 사람이 있었어요. 그러니까 멕시코 문제는 아니에요.
+073. TYLER: We've already had someone take our secrets back in Ohio. It's not about Mexico.
+    타일러: 저흰 이미 오하이오에서 비밀을 가져간 사람이 있었어요. 멕시코 문제가 아니에요.
 
 074. SAM: Tyler, that's enough.
     샘: 타일러, 그만해.
@@ -261,7 +261,7 @@
 082. GARZA: You mean a subassembly, where you send me the heart of the motor already tested, and we put the clothes on it?
     가르사: 하위 조립 말씀이군요. 이미 시험 마친 모터 심장을 보내 주시면 우리가 옷을 입히는 거고요?
 
-083. SAM: Exactly, because the rotor, the windings, the firmware, and Betsy all stay in Ohio, and you do the last fifteen minutes.
+083. SAM: Exactly. The rotor, the windings, the firmware, and Betsy all stay in Ohio, and you do the last fifteen minutes.
     샘: 바로 그거예요. 로터, 권선, 펌웨어, 베치는 전부 오하이오에 남고, 알레한드로는 마지막 15분을 하는 거죠.
 
 084. EARL: That's the part that takes the most hands and the least brains, no offense to Lupita.
@@ -276,20 +276,20 @@
 087. SAM: Maybe, but I don't decide over goat. I decide in Ohio, with Gloria and Wen and a calculator.
     샘: 어쩌면. 근데 염소 고기 앞에서 결정은 안 해. 오하이오에서 글로리아랑 웬이랑 계산기 놓고 결정하지.
 
-088. NATE: That's fair, but you'll come back to it, because I can see it on your face.
-    네이트: 그렇죠. 근데 다시 이 얘기로 돌아오실 거예요. 얼굴에 보이거든요.
+088. NATE: That's fair, but you'll come back to it. I can see it on your face.
+    네이트: 그렇죠. 근데 다시 이 얘기로 돌아오실 거예요. 얼굴에 보여요.
 
 089. TYLER: His face does a lot, and everybody says so.
     타일러: 샘 얼굴은 표정이 많아요. 다들 그래요.
 
-090. GARZA: Tomorrow morning before your flight, I want to show you one more thing, which is the border. If you're going to work with Mexico, you need to see the bridge.
-    가르사: 내일 아침 비행기 타기 전에 하나 더 보여 드리고 싶어요. 국경이요. 멕시코랑 일하실 거면 그 다리를 보셔야 해요.
+090. GARZA: Tomorrow morning before your flight, I want to show you one more thing, the border. If you're going to work with Mexico, you need to see the bridge.
+    가르사: 내일 아침 비행기 타기 전에 하나 더, 국경을 보여 드리고 싶어요. 멕시코랑 일하실 거면 그 다리를 보셔야 해요.
 
 091. EARL: And how far is it from here?
     얼: 여기서 얼마나 멀어?
 
-092. GARZA: It's two and a half hours to Nuevo Laredo, and we leave at five, so Earl, bring a hat.
-    가르사: 누에보라레도까지 두 시간 반이고 다섯 시에 출발해요. 그러니까 얼, 모자 챙기세요.
+092. GARZA: It's two and a half hours to Nuevo Laredo, and we leave at five. Earl, bring a hat.
+    가르사: 누에보라레도까지 두 시간 반이고 다섯 시에 출발해요. 얼, 모자 챙기세요.
 
 093. EARL: I always bring a hat.
     얼: 난 항상 모자 챙겨.
@@ -300,7 +300,7 @@
 095. NATE: And on that note, I'm getting the check. This was really good, everybody, and Sam, call me after you talk to Gloria.
     네이트: 그럼 이쯤에서 계산할게요. 다들 정말 좋았어요. 샘, 글로리아랑 얘기하고 전화 주세요.
 
-096. TYLER: Is that a line of trucks or a parking lot, because it goes all the way to the horizon?
+096. TYLER: Is that a line of trucks or a parking lot? It goes all the way to the horizon.
     타일러: 저거 트럭 줄이에요, 주차장이에요? 지평선까지 이어져 있는데요.
 
 097. GARZA: That's the line to cross into Laredo, with thousands of trucks every day. It's the busiest land port for trade in your whole country, and maybe the whole world.
@@ -324,10 +324,10 @@
 103. SAM: Drones? Why do you care about drones?
     샘: 드론? 드론엔 왜 관심이야?
 
-104. TYLER: I flew them in the Army, remember? Every drone motor I ever touched had Chinese magnets in it, so if they want American drones, somebody's going to need American motors.
-    타일러: 군대에서 몰았잖아요, 기억나요? 제가 만진 드론 모터엔 전부 중국산 자석이 들어 있었어요. 그러니까 미국산 드론을 원하면 누군가는 미국산 모터가 필요할 거예요.
+104. TYLER: I flew them in the Army, remember? Every drone motor I ever touched had Chinese magnets in it. If they want American drones, somebody's going to need American motors.
+    타일러: 군대에서 몰았잖아요, 기억나요? 제가 만진 드론 모터엔 전부 중국산 자석이 들어 있었어요. 미국산 드론을 원하면 누군가는 미국산 모터가 필요할 거예요.
 
-105. EARL: One market at a time, Tyler, because we're standing at the border with a car problem.
+105. EARL: One market at a time, Tyler. We're standing at the border with a car problem.
     얼: 시장은 한 번에 하나씩, 타일러. 우린 지금 자동차 문제 들고 국경에 서 있잖아.
 
 106. TYLER: I'm just saying, and I'm writing it down for later.
@@ -339,13 +339,13 @@
 108. SAM: Alejandro, can I ask you something straight? If I put the final assembly in your building, and next year the rules change again, what happens to you?
     샘: 알레한드로, 솔직하게 하나 물어봐도 돼요? 제가 최종 조립을 알레한드로 건물에 넣었는데 내년에 규칙이 또 바뀌면, 알레한드로는 어떻게 돼요?
 
-109. GARZA: The same thing that always happens, which is that I adjust. I've adjusted through NAFTA, China, COVID, and now this, and my family has been adjusting for thirty years.
+109. GARZA: The same thing that always happens. I adjust. I've adjusted through NAFTA, China, COVID, and now this, and my family has been adjusting for thirty years.
     가르사: 늘 그렇듯이 적응하죠. 나프타, 중국, 코로나, 그리고 지금 이것까지 적응해 왔고, 우리 집안은 30년째 적응하는 중이에요.
 
 110. EARL: And what if the rules change so Mexico loses, and the work has to go back to the States?
     얼: 규칙이 바뀌어서 멕시코가 손해 보고 일이 다시 미국으로 가야 하면?
 
-111. GARZA: Then I lose a customer and I find another one. I'd rather lose you to Ohio than to China, because at least Ohio is a neighbor.
+111. GARZA: Then I lose a customer, and I find another one. I'd rather lose you to Ohio than to China. At least Ohio is a neighbor.
     가르사: 그럼 고객 하나 잃고 다른 고객 찾죠. 중국보다는 오하이오한테 잃는 게 나아요. 적어도 오하이오는 이웃이니까.
 
 112. SAM: That's a very generous way to see it.
@@ -357,8 +357,8 @@
 114. SAM: And what do you call staying home?
     샘: 그럼 집에 머무는 건 뭐라고 해요?
 
-115. GARZA: Staying home is keeping all the control and paying for it, because every choice costs something, and the smart ones strike a balance.
-    가르사: 집에 머무는 건 통제권을 전부 지키고 그 값을 치르는 거죠. 모든 선택엔 비용이 있으니까 똑똑한 사람들은 균형을 잡아요.
+115. GARZA: Staying home is keeping all the control and paying for it. Every choice costs something, and the smart ones strike a balance.
+    가르사: 집에 머무는 건 통제권을 전부 지키고 그 값을 치르는 거죠. 모든 선택엔 비용이 있고, 똑똑한 사람들은 균형을 잡아요.
 
 116. EARL: Strike a balance, that's what Stan used to say about his marriage.
     얼: 균형을 잡는다라, 스탠 형님이 결혼 생활에 대해 맨날 하던 말이네.
@@ -366,13 +366,13 @@
 117. SAM: My mom used to say Dad never struck anything except his thumb with a hammer.
     샘: 우리 엄마는 아버지가 망치로 엄지 말고는 아무것도 친 적이 없다고 하셨어요.
 
-118. GARZA: Then your mother was the balance, which is usually how it works.
-    가르사: 그럼 어머님이 균형이셨네요. 보통 그렇거든요.
+118. GARZA: Then your mother was the balance. It's usually the mother.
+    가르사: 그럼 어머님이 균형이셨네요. 보통 엄마들이 그래요.
 
 119. TYLER: The line just moved, like, ten feet.
     타일러: 줄이 방금 움직였어요. 한 3미터쯤.
 
-120. GARZA: Then celebrate, because that was a good minute.
+120. GARZA: Then celebrate. That was a good minute.
     가르사: 그럼 축하하세요. 좋은 1분이었네요.
 
 121. EARL: Kid, I'll say this once. If you put the last fifteen minutes here and the heart stays in Ohio, I can live with that, but if anybody ever tries to move the heart, I'll lie down in front of the truck.
@@ -390,7 +390,7 @@
 125. EARL: Good, now let's get out of this line before I melt.
     얼: 좋아. 이제 내가 녹기 전에 이 줄에서 빠져나가자.
 
-126. GLORIA: Okay, I'm on speaker, and Wen's here too. Earl, are you sunburned, because Tyler sent me a picture and you look like a tomato in a hat.
+126. GLORIA: Okay, I'm on speaker, and Wen's here too. Earl, are you sunburned? Tyler sent me a picture, and you look like a tomato in a hat.
     글로리아: 자, 스피커 켰고 웬도 여기 있어. 얼, 햇볕에 탔어? 타일러가 사진 보냈는데 모자 쓴 토마토 같더라.
 
 127. EARL: I'm going to kill Tyler when we get home.
@@ -405,10 +405,10 @@
 130. WEN: And who flashes the firmware?
     웬: 그럼 펌웨어는 누가 올려요?
 
-131. SAM: We do, in Ohio, before the core ships, so nobody in Monterrey ever touches the code.
-    샘: 우리가 오하이오에서 코어 출하 전에 올려요. 그러니까 몬테레이에선 아무도 코드에 손 안 대요.
+131. SAM: We do, in Ohio, before the core ships. Nobody in Monterrey ever touches the code.
+    샘: 우리가 오하이오에서 코어 출하 전에 올려요. 몬테레이에선 아무도 코드에 손 안 대요.
 
-132. WEN: Good, because that's the only answer I would accept.
+132. WEN: Good. That's the only answer I would accept.
     웬: 좋아요. 제가 받아들일 수 있는 유일한 대답이에요.
 
 133. GLORIA: Give me numbers, baby, and tell me what it saves.
@@ -420,10 +420,10 @@
 135. GLORIA: A third of the line is what gets us the forty thousand by September.
     글로리아: 라인 3분의 1이면 9월까지 4만 개가 되네.
 
-136. EARL: And nobody in Ohio loses a job, because I asked, and we'll actually need more people on cores.
+136. EARL: And nobody in Ohio loses a job. I asked, and we'll actually need more people on cores.
     얼: 그리고 오하이오에선 아무도 일자리 안 잃어. 내가 물어봤는데 오히려 코어 만들 사람이 더 필요해.
 
-137. WEN: What about quality, because if they put the housing on wrong, it's still our name?
+137. WEN: What about quality? If they put the housing on wrong, it's still our name.
     웬: 품질은요? 그쪽이 하우징을 잘못 끼우면 그래도 우리 이름이잖아요.
 
 138. EARL: Wen, I met the woman who runs their harness line, and she's still angry about one defect from last month, just one. Our quality is going to be fine.
@@ -438,7 +438,7 @@
 141. GLORIA: And what about Nate, who wanted the whole motor in Mexico?
     글로리아: 모터 전체를 멕시코에 두고 싶어 했던 네이트는 어쩌고?
 
-142. SAM: Nate gets his seat line right next door to the last step, which is most of what he wanted, but he doesn't get the heart.
+142. SAM: Nate gets his seat line right next door to the last step. That's most of what he wanted, but he doesn't get the heart.
     샘: 네이트는 마지막 단계를 시트 라인 바로 옆에 두게 되잖아요. 원하던 것 대부분이죠. 근데 심장은 못 가져가요.
 
 143. GLORIA: Strike a balance.
@@ -447,17 +447,17 @@
 144. SAM: How did you know Alejandro said that?
     샘: 알레한드로가 그 말 한 거 어떻게 알았어요?
 
-145. GLORIA: Tyler texts me everything, baby, absolutely everything, so I know about the goat.
-    글로리아: 타일러가 나한테 다 문자 보내, 얘. 진짜 전부. 그래서 염소 얘기도 알아.
+145. GLORIA: Tyler texts me everything, baby, absolutely everything. I know about the goat.
+    글로리아: 타일러가 나한테 다 문자 보내, 얘. 진짜 전부. 염소 얘기도 알아.
 
 146. TYLER: Copy that, and I plead guilty.
     타일러: 접수. 유죄 인정할게요.
 
-147. SAM: Okay, then it's decided, so our core stays in Ohio and Monterrey does the last fifteen minutes. I'll call Nate and Alejandro from the airport.
+147. SAM: Okay, then it's decided. Our core stays in Ohio, and Monterrey does the last fifteen minutes. I'll call Nate and Alejandro from the airport.
     샘: 좋아요, 그럼 결정됐어요. 우리 핵심은 오하이오에 남고 몬테레이는 마지막 15분을 해요. 공항에서 네이트랑 알레한드로한테 전화할게요.
 
-148. WEN: Sam, there's one more thing, because Frank called while you were at the border. The Chinese licenses are starting to come in slowly, and a few companies got approvals this week.
-    웬: 샘, 하나 더요. 국경에 계실 때 프랭크가 전화했어요. 중국 허가가 천천히 나오기 시작했고, 이번 주에 몇몇 회사가 승인받았대요.
+148. WEN: Sam, there's one more thing. Frank called while you were at the border, and the Chinese licenses are starting to come in slowly. A few companies got approvals this week.
+    웬: 샘, 하나 더요. 국경에 계실 때 프랭크가 전화했는데, 중국 허가가 천천히 나오기 시작했대요. 이번 주에 몇몇 회사가 승인받았대요.
 
 149. SAM: And how slowly are we talking?
     샘: 얼마나 천천히요?

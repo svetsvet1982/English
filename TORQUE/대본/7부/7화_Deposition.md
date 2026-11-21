@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. BEN: Rule number one is that you don't talk, you don't nod, and you don't make faces, because you're the party representative, which means you're furniture.
+001. BEN: Rule number one: you don't talk, you don't nod, and you don't make faces. You're the party representative, which means you're furniture.
     벤: 규칙 1번. 넌 말 안 하고, 고개 안 끄덕이고, 표정도 안 짓는다. 넌 당사자 대표야. 그러니까 가구라는 거지.
 
 002. SAM: So I'm furniture, got it, the quiet, expensive kind with no faces.
@@ -24,16 +24,16 @@
 003. BEN: Expensive furniture, yes. The camera will be on her, not you, but she can see you, and she's very good at reading people.
     벤: 비싼 가구지. 카메라는 너 말고 그 사람을 찍어. 근데 그 사람은 널 볼 수 있고, 사람 읽는 데 아주 능해.
 
-004. SAM: I know, because she read me over coffee in 2024 in a hotel lounge in Columbus, and she got most of it right, except the price.
+004. SAM: I know. She read me over coffee in 2024, in a hotel lounge in Columbus, and she got most of it right. The only thing she got wrong was the price.
     샘: 알아요. 2024년에 콜럼버스 호텔 라운지에서 커피 마시면서 저를 읽었거든요. 거의 다 맞혔어요. 틀린 건 가격뿐이었죠.
 
 005. BEN: Rule number two is that when Pell objects, you ignore it. He'll say "objection, form" about forty times, mostly for the record, and she still has to answer unless he tells her not to.
     벤: 규칙 2번. 펠이 이의 제기하면 무시해. "이의 있습니다, 질문 형식"을 마흔 번쯤 할 거야. 대부분 기록용이야. 펠이 답하지 말라고 하지 않는 한 그 사람은 답해야 해.
 
-006. SAM: In plain English, what's a deposition, really, because I watched Kevin's for seven hours and I'm still not sure?
+006. SAM: In plain English, what's a deposition, really? I watched Kevin's for seven hours, and I'm still not sure.
     샘: 쉬운 말로, 증언 녹취가 진짜 뭐예요? 케빈 걸 일곱 시간이나 봤는데 아직도 잘 모르겠어요.
 
-007. BEN: In plain English, it's questions and answers under oath before the hearing, with no judge in the room, while a court reporter types every word and a camera records her face, so later I can play any answer at the hearing.
+007. BEN: In plain English, it's questions and answers under oath, before the hearing, with no judge in the room. A court reporter types every word, and a camera records her face. Later, I can play any answer at the hearing.
     벤: 쉬운 말로? 청문회 전에 선서하고 하는 문답이야. 방에 판사는 없어. 속기사가 한 마디도 빼지 않고 치고, 카메라가 얼굴을 찍어. 나중에 청문회에서 어떤 답이든 틀 수 있어.
 
 008. SAM: So it's like a practice round before the real hearing.
@@ -45,7 +45,7 @@
 010. SAM: Honestly, how do you think Kevin did last week?
     샘: 솔직히 지난주에 케빈 어땠다고 생각해요?
 
-011. BEN: Honestly, he was the worst-dressed and most honest witness I've seen in ten years, because he said "I don't know" when he didn't know and "I did it" when he did it, and Pell objected two hundred times.
+011. BEN: Honestly, he was the worst-dressed and most honest witness I've seen in ten years. He said "I don't know" when he didn't know and "I did it" when he did it. Pell objected two hundred times.
     벤: 솔직히? 10년 동안 본 증인 중에 옷은 제일 못 입고 제일 정직했어. 모를 땐 "모르겠다"고 했고, 했을 땐 "제가 했다"고 했지. 펠은 이의를 이백 번 제기했고.
 
 012. SAM: And Martin's emails? The ones Kevin showed me in the parking lot. Are they officially in the record now, or do we still have to fight for them?
@@ -63,7 +63,7 @@
 016. SAM: And do you actually have a hole, Ben?
     샘: 그래서 진짜 구멍 찾았어, 벤?
 
-017. BEN: I have two, Exhibit forty-one and Exhibit forty-two, but don't look at the folder, because she's coming in.
+017. BEN: I have two, Exhibit forty-one and Exhibit forty-two. Don't look at the folder, she's coming in.
     벤: 두 개 있어. 증거물 41번이랑 42번. 폴더 쳐다보지 마. 그 사람 들어온다.
 
 018. VICTORIA: Good morning, Mr. Adler, and good morning to you too, Sam.
@@ -72,10 +72,10 @@
 019. SAM: Good morning, Victoria, and it's been a while since the coffee.
     샘: 좋은 아침이에요, 빅토리아. 그 커피 이후로 오랜만이네요.
 
-020. VICTORIA: You look tired, so is that the heat or the lawsuit?
+020. VICTORIA: You look tired. Is that the heat or the lawsuit?
     빅토리아: 피곤해 보이네요. 더위 때문이에요, 소송 때문이에요?
 
-021. SAM: It was a senior building in Columbus with forty-four air handlers, so it was a long week.
+021. SAM: It was a senior building in Columbus with forty-four air handlers. It was a long week.
     샘: 콜럼버스 노인 주택에서 공조기 44대를 달았어요. 긴 한 주였죠.
 
 022. PELL: Ms. Lang, please don't speak with the other side. I'm Gordon Pell, for Calloway Dynamics and the witness, and good morning, Mr. Adler.
@@ -84,7 +84,7 @@
 023. BEN: Good morning, Mr. Pell, and that's a nice suit.
     벤: 안녕하세요, 펠 변호사님. 양복 멋지네요.
 
-024. PELL: Thank you, so shall we begin?
+024. PELL: Thank you. Shall we begin, then?
     펠: 감사합니다. 시작할까요?
 
 025. VIDEOGRAPHER: We're on the record. The time is nine-oh-two a.m. This is the videotaped deposition of Victoria Lang, in the matter before the U.S. International Trade Commission.
@@ -96,13 +96,13 @@
 027. VICTORIA: I do.
     빅토리아: 맹세합니다.
 
-028. BEN: Good morning, Ms. Lang. My name is Ben Adler and I represent Ferrox Motion, so have you ever been deposed before?
+028. BEN: Good morning, Ms. Lang. My name is Ben Adler, and I represent Ferrox Motion. Have you ever been deposed before?
     벤: 안녕하세요, 랭 증인. 페록스 모션을 대리하는 벤 애들러입니다. 증언 녹취를 해 본 적 있습니까?
 
 029. VICTORIA: Three times. All of them were commercial disputes, years ago.
     빅토리아: 세 번이요. 전부 몇 년 전 상거래 분쟁이었습니다.
 
-030. BEN: Then you know the rules, so if you don't understand a question, tell me, and if you need a break, ask, just not while a question is waiting for an answer.
+030. BEN: Then you know the rules. If you don't understand a question, tell me, and if you need a break, ask. Just not while a question is waiting for an answer.
     벤: 그럼 규칙은 아시겠네요. 질문을 이해 못 하시면 말씀하시고, 쉬고 싶으면 요청하세요. 다만 답변을 기다리는 질문이 있을 땐 안 됩니다.
 
 031. VICTORIA: I understand the rules, Mr. Adler.
@@ -165,13 +165,13 @@
 050. VICTORIA: To the best of my knowledge, no. Not before 2025.
     빅토리아: 제가 아는 한, 아니요. 2025년 이전엔 아니었습니다.
 
-051. BEN: In July 2025 Calloway launched EverSpin at ninety-one percent, so in about six months your program went from below ninety to ninety-one?
+051. BEN: In July 2025, Calloway launched EverSpin at ninety-one percent. So in about six months, your program went from below ninety to ninety-one?
     벤: 2025년 7월에 캘러웨이가 91퍼센트로 에버스핀을 출시했습니다. 그러니까 약 여섯 달 만에 90 미만에서 91로 올라갔다는 겁니까?
 
 052. VICTORIA: Our engineers worked very hard that spring. Nights and weekends.
     빅토리아: 그해 봄에 저희 엔지니어들이 아주 열심히 일했습니다. 밤이고 주말이고요.
 
-053. BEN: I'm sure they did, so when did Kevin Doyle join Calloway?
+053. BEN: I'm sure they did. When did Kevin Doyle join Calloway?
     벤: 그랬겠죠. 케빈 도일은 언제 캘러웨이에 입사했습니까?
 
 054. VICTORIA: I believe in January 2025. I'd have to check.
@@ -192,10 +192,10 @@
 059. BEN: You don't recall whether you discussed hiring the lead firmware engineer from the company you had just tried to buy?
     벤: 방금 인수하려던 회사의 수석 펌웨어 엔지니어 채용을 논의했는지 기억이 안 난다는 겁니까?
 
-060. PELL: Objection, because that's been asked and answered.
+060. PELL: Objection, asked and answered.
     펠: 이의 있습니다. 이미 묻고 답한 질문입니다.
 
-061. BEN: I'll move on. Ms. Lang, I'm handing you what's been marked as Exhibit forty-one, so take your time and tell me when you've read it.
+061. BEN: I'll move on. Ms. Lang, I'm handing you what's been marked as Exhibit forty-one. Take your time, and tell me when you've read it.
     벤: 넘어가겠습니다. 랭 증인, 증거물 41번으로 표시된 문서를 드리겠습니다. 천천히 읽으시고 다 읽으면 말씀해 주세요.
 
 062. VICTORIA: I've read it, Mr. Adler.
@@ -240,22 +240,22 @@
 075. BEN: What did you understand "Dayton package" to mean, when you read it in March 2025?
     벤: 2025년 3월에 그걸 읽었을 때, "데이턴 패키지"를 무슨 뜻으로 이해했습니까?
 
-076. PELL: Objection, because that calls for speculation.
+076. PELL: Objection, calls for speculation.
     펠: 이의 있습니다. 추측을 요구하는 질문입니다.
 
-077. BEN: I'm asking about her own understanding, which isn't speculation, so you can answer.
+077. BEN: I'm asking about her own understanding, and that's not speculation. You can answer.
     벤: 증인 본인의 이해를 묻는 겁니다. 추측이 아니죠. 답하셔도 됩니다.
 
 078. VICTORIA: I understood it to mean the experience and knowledge Mr. Doyle brought with him. His expertise. Engineers carry their experience from job to job.
     빅토리아: 도일 씨가 가지고 온 경험과 지식이라는 뜻으로 이해했습니다. 그의 전문성이요. 엔지니어는 직장을 옮길 때 경험을 가지고 다니니까요.
 
-079. BEN: His experience, so is that the word you would use for it?
+079. BEN: His experience. Is that the word you would use for it?
     벤: 그의 경험이라. 그게 증인이 쓰실 단어입니까?
 
 080. VICTORIA: That is the word I would use.
     빅토리아: 제가 쓸 단어는 그겁니다.
 
-081. BEN: Interesting, because it's the same word Mr. Shaw used with Mr. Doyle in November 2024: "Bring your experience." Did you and Mr. Shaw ever discuss what that meant?
+081. BEN: Interesting. It's the same word Mr. Shaw used with Mr. Doyle in November 2024: "Bring your experience." Did you and Mr. Shaw ever discuss what that meant?
     벤: 흥미롭네요. 2024년 11월에 쇼 씨가 도일 씨한테 쓴 단어와 같거든요. "경험을 가져오세요." 증인과 쇼 씨가 그게 무슨 뜻인지 논의한 적 있습니까?
 
 082. VICTORIA: Not that I recall.
@@ -285,7 +285,7 @@
 090. VICTORIA: Thank you, Mr. Adler.
     빅토리아: 감사합니다, 애들러 변호사님.
 
-091. BEN: This is an email from Mr. Shaw to Mr. Doyle's personal Gmail account, dated November twenty-first, 2024, the night before Mr. Doyle copied the entire Ferrox code repository, so please read it.
+091. BEN: This is an email from Mr. Shaw to Mr. Doyle's personal Gmail account, dated November twenty-first, 2024. That's the night before Mr. Doyle copied the entire Ferrox code repository. Please read it.
     벤: 이건 2024년 11월 21일 자로 쇼 씨가 도일 씨 개인 지메일 계정으로 보낸 이메일입니다. 도일 씨가 페록스 코드 저장소 전체를 복사하기 전날 밤이죠. 읽어 주십시오.
 
 092. VICTORIA: "Kevin, the team here is excited. To hit our timeline, we need a running start. Bring the full four-two calibration tables and the test data. Everything. We'll clean it up on our side. Delete this. M."
@@ -306,10 +306,10 @@
 097. BEN: Ms. Lang, in March 2025, when you read "Dayton package," did you think it might include files like these, the calibration tables, the test data, "everything"?
     벤: 랭 증인, 2025년 3월에 "데이턴 패키지"를 읽으셨을 때, 이런 파일들, 그러니까 보정표, 테스트 데이터, "전부"가 들어 있을 수 있다고 생각하셨습니까?
 
-098. PELL: Objection to the form, because the question is compound.
+098. PELL: Objection to the form, it's a compound question.
     펠: 형식에 이의 있습니다. 복합 질문입니다.
 
-099. BEN: I'll make it simple, so did you ask anyone what was in the Dayton package?
+099. BEN: I'll make it simple. Did you ask anyone what was in the Dayton package?
     벤: 간단히 하죠. 데이턴 패키지에 뭐가 들어 있는지 누구한테 물어본 적 있습니까?
 
 100. VICTORIA: No.
@@ -330,10 +330,10 @@
 105. BEN: You trusted your team, or did you prefer not to know?
     벤: 팀을 믿으신 겁니까, 아니면 모르는 편을 택하신 겁니까?
 
-106. PELL: Objection, because that's argumentative, so don't answer that.
+106. PELL: Objection, argumentative. I'm instructing the witness not to answer that.
     펠: 이의 있습니다. 논쟁적인 질문입니다. 답하지 마십시오.
 
-107. BEN: He can object, but he can't instruct you not to answer just because he doesn't like the question. I'll withdraw it anyway, though, because I think the record is clear.
+107. BEN: He can object, but he can't instruct you not to answer just because he doesn't like the question. I'll withdraw it anyway. I think the record is clear.
     벤: 이의는 제기할 수 있지만, 질문이 마음에 안 든다고 답변 거부를 지시할 순 없습니다. 그래도 철회하겠습니다. 기록은 분명하다고 보니까요.
 
 108. VICTORIA: I'd like to read Exhibit forty-two again.
@@ -354,7 +354,7 @@
 113. SAM: Mr. Pell said very clearly that you shouldn't talk to me.
     샘: 펠 변호사가 저랑 얘기하지 말라고 아주 분명히 했잖아요.
 
-114. VICTORIA: Mr. Pell bills nine hundred dollars an hour to tell me what I shouldn't do, and he's in the restroom with his phone, so we have about four minutes.
+114. VICTORIA: Mr. Pell bills nine hundred dollars an hour to tell me what I shouldn't do. He's in the restroom, and he takes his phone, so we have about four minutes.
     빅토리아: 펠 변호사는 시간당 900달러 받고 나한테 하지 말아야 할 걸 말해 줘요. 지금 폰 들고 화장실에 있으니까 4분쯤 있어요.
 
 115. SAM: Then I'll say one thing, which is that I'm not going to ask you about the case.
@@ -363,7 +363,7 @@
 116. VICTORIA: Thank you, Sam, I appreciate that.
     빅토리아: 고마워요, 샘. 그건 고맙네요.
 
-117. SAM: But I am going to ask you about the coffee, because in 2024 you told me everything is a negotiation, even the coffee, so is this a negotiation?
+117. SAM: But I am going to ask you about the coffee. In 2024, you told me everything is a negotiation, even the coffee. Is this a negotiation?
     샘: 근데 커피에 대해선 물을게요. 2024년에 모든 게 협상이라고 했잖아요. 커피까지도. 이것도 협상이에요?
 
 118. VICTORIA: No, this is a woman who just read an email she should have asked about fifteen months ago.
@@ -378,7 +378,7 @@
 121. SAM: And you delivered, ahead of schedule, I assume.
     샘: 그리고 결과를 냈군요. 일정보다 빨리요, 아마.
 
-122. VICTORIA: Eighteen months early, and the stock went up six percent in ten minutes, so I had a very good year, Sam, with a bonus I'm now trying very hard not to think about.
+122. VICTORIA: Eighteen months early, and the stock went up six percent in ten minutes. I had a very good year, Sam. I got a bonus I'm now trying very hard not to think about.
     빅토리아: 18개월 앞당겨서요. 주가가 10분 만에 6퍼센트 올랐어요. 아주 좋은 해였죠, 샘. 지금은 생각 안 하려고 엄청 애쓰는 보너스도 받았고요.
 
 123. SAM: I had a lawsuit, a smear campaign, and my CTO's father getting phone calls in Shenzhen.
@@ -396,13 +396,13 @@
 127. SAM: Victoria, why are you telling me any of this, when you know I'll tell Ben?
     샘: 빅토리아, 왜 이런 얘길 해요? 제가 벤한테 말할 거 알잖아요.
 
-128. VICTORIA: Because I want you to understand that when a company like Calloway is cornered, it doesn't look for the truth, it looks for a name, one name, so be careful whose name it is.
+128. VICTORIA: Because I want you to understand something. When a company like Calloway is cornered, it doesn't look for the truth. It looks for a name, one name, so be careful whose name it is.
     빅토리아: 하나 이해해 줬으면 해서요. 캘러웨이 같은 회사는 궁지에 몰리면 진실을 찾지 않아요. 이름을 찾죠. 이름 하나요. 그게 누구 이름일지 조심해요.
 
 129. SAM: Do you mean Kevin's name?
     샘: 케빈 이름 말이에요?
 
-130. VICTORIA: Kevin's was the first choice, but Kevin got a lawyer, so now they need a second choice. Mr. Pell is back, so enjoy the coffee.
+130. VICTORIA: Kevin's was the first choice, but Kevin got a lawyer. So now they need a second choice. Mr. Pell is back. Enjoy the coffee.
     빅토리아: 케빈이 첫 번째 선택이었죠. 근데 케빈이 변호사를 구했어요. 그러니 이제 두 번째 선택이 필요하죠. 펠 변호사 돌아왔네요. 커피 맛있게 드세요.
 
 131. VIDEOGRAPHER: We're back on the record at eleven-fifty-two a.m.
@@ -432,37 +432,37 @@
 139. BEN: We're at Gate B-nine two hours early, and you still look like you've seen a ghost. What happened is she corrected herself on the record, against her own lawyer's advice.
     벤: B9 게이트에 두 시간 일찍 와 있는데도 넌 아직 귀신 본 얼굴이네. 무슨 일이냐면, 그 사람이 자기 변호사 조언을 거스르고 기록상 자기 말을 정정했어.
 
-140. SAM: Is that good for us, or is it just unusual, because I can't tell the difference anymore with lawyers?
+140. SAM: Is that good for us, or is it just unusual? I can't tell the difference anymore with lawyers.
     샘: 그게 우리한테 좋은 거예요, 아니면 그냥 드문 거예요? 변호사들 일은 이제 구분이 안 돼요.
 
-141. BEN: It's unusual, because witnesses like her protect the company, but today, for one sentence, she protected herself, which tells me Calloway's story is cracking, since "we did it ourselves" doesn't survive Exhibit forty-two.
+141. BEN: It's unusual. Witnesses like her protect the company, but today, for one sentence, she protected herself. That tells me Calloway's story is cracking, because "we did it ourselves" doesn't survive Exhibit forty-two.
     벤: 드문 일이야. 그런 증인은 회사를 지키거든. 근데 오늘, 딱 한 문장에서, 자기를 지켰어. 그건 캘러웨이 이야기가 금 가고 있다는 뜻이야. "우리가 직접 했다"는 증거물 42번을 못 버텨.
 
 142. SAM: She talked to me in the hallway during the break.
     샘: 휴식 시간에 복도에서 저한테 말을 걸었어요.
 
-143. BEN: I know, because I saw you through the glass, so did you say anything about the case?
+143. BEN: I know, I saw you through the glass. Did you say anything about the case?
     벤: 알아. 유리창 너머로 봤어. 사건 얘기 했어?
 
 144. SAM: No, we talked about coffee, and she said that when a company is cornered, it looks for a name.
     샘: 아뇨. 커피 얘기 했어요. 그리고 회사가 궁지에 몰리면 이름을 찾는다고 했어요.
 
-145. BEN: Then she knows whose name it might be. That's your phone, so who is it?
+145. BEN: Then she knows whose name it might be. That's your phone. Who is it?
     벤: 그럼 그게 누구 이름일지 알고 있는 거야. 너 전화 왔다. 누구야?
 
-146. MEGAN: Sam, it's Megan Cho, and sorry to bother you, but I'm hearing from two sources that Calloway put Martin Shaw on leave this afternoon, so do you have any comment?
+146. MEGAN: Sam, it's Megan Cho, sorry to bother you. I'm hearing from two sources that Calloway put Martin Shaw on leave this afternoon. Do you have any comment?
     메건: 샘, 메건 조예요. 방해해서 미안해요. 두 군데서 캘러웨이가 오늘 오후 마틴 쇼를 휴직시켰다는 얘기를 듣고 있어요. 코멘트 있어요?
 
-147. SAM: No comment, Megan, because you know I can't.
+147. SAM: No comment, Megan. You know I can't.
     샘: 노코멘트예요, 메건. 못 하는 거 알잖아요.
 
-148. MEGAN: I know, but I had to ask, so off the record, how did it go today?
+148. MEGAN: I know, I had to ask. Off the record, how did it go today?
     메건: 알아요. 그래도 물어봐야 했어요. 비공식으로, 오늘 어땠어요?
 
 149. SAM: Off the record, you'll have to ask Ben.
     샘: 비공식으로요? 벤한테 물어보세요.
 
-150. BEN: Tell her nothing, but between us, Sam, I've been waiting six years for a witness like Victoria Lang to do what she did today, because she blinked.
+150. BEN: Tell her nothing. But between us, Sam, I've been waiting six years for a witness like Victoria Lang to do what she did today. She blinked.
     벤: 아무 말도 하지 마. 근데 우리끼리 얘기지만, 샘, 빅토리아 랭 같은 증인이 오늘 같은 일을 하길 6년 동안 기다렸어. 그 사람이 먼저 흔들렸어.
 
 ---
