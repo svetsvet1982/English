@@ -51,7 +51,7 @@
 012. LILY: They're barely warm, Mr. Alvarez, forty-four degrees after three matches, while the other teams' motors are at sixty.
     릴리: 거의 안 따뜻해요, 알바레즈 선생님. 세 경기 뒤에 44도인데, 다른 팀 모터는 60도예요.
 
-013. MR. ALVAREZ: Forty-four is incredible. Where did you get those motors again? You never told me.
+013. MR. ALVAREZ: Forty-four is incredible. Where did you say you got those motors, because you never told me?
     알바레즈 선생님: 44도라니 대단하네. 그 모터 어디서 구했다고 했지? 말 안 해 줬잖아.
 
 014. LILY: From a friend of the family, someone who doesn't like to throw things away.
@@ -69,7 +69,7 @@
 018. ERIN: Earl, you came too, on a Saturday? Loretta let you out of the house?
     에린: 얼, 아저씨도 오셨어요? 토요일에? 로레타 아주머니가 외출을 허락하셨어요?
 
-019. EARL: I wouldn't miss it. Lily invited me personally.
+019. EARL: I wouldn't miss it, not when Lily invited me personally.
     얼: 빠질 리가 있나. 릴리가 직접 초대했는데.
 
 020. ERIN: Why would she invite you personally, when she didn't even invite her own uncle?
@@ -222,7 +222,7 @@
 069. LILY: Earl did, because I asked him. Don't be mad at him.
     릴리: 얼 아저씨. 내가 부탁했으니까 아저씨한테 화내지 마.
 
-070. SAM: And the controller? This isn't a normal controller. Is this Wen's?
+070. SAM: And the controller? This isn't a normal controller, is it Wen's?
     샘: 그리고 컨트롤러는? 이거 보통 컨트롤러가 아니잖아. 웬 거야?
 
 071. LILY: Wen taught me, and we wrote a simple version together that she called "Governor Junior." It's nothing secret, just enough to keep them cool.
@@ -255,7 +255,7 @@
 080. SAM: I'm not mad. I'm a little hurt that everybody knew except me, but mostly I'm amazed. You built a drive system from scratch with failed parts, and it beats everybody's motors.
     샘: 화 안 났어. 나만 빼고 다 알았다는 게 조금 서운하긴 한데, 대부분은 놀라워. 불합격 부품으로 구동 시스템을 처음부터 만들었는데, 그게 다른 애들 모터를 다 이기잖아.
 
-081. LILY: It's not from scratch, though. The motors are yours.
+081. LILY: It's not from scratch, though, because the motors are yours.
     릴리: 처음부터는 아니야. 모터는 아빠 거잖아.
 
 082. SAM: The motors are the easy part, Lil, and making them work together is the hard part.
@@ -297,8 +297,8 @@
 094. STAN: Too fast, look at them, all gas and no brakes.
     스탠: 너무 빨라. 봐라, 액셀만 있고 브레이크가 없어.
 
-095. EARL: Lily's going slow, smart girl. She's saving her motors.
-    얼: 릴리는 천천히 가네. 똑똑한 애야, 모터를 아끼는 거야.
+095. EARL: Lily's going slow, smart girl. She's saving her motors for the end.
+    얼: 릴리는 천천히 가네. 똑똑한 애야, 막판을 위해 모터를 아끼는 거야.
 
 096. SAM: Come on, Lil, come on.
     샘: 힘내, 릴, 힘내.
@@ -393,7 +393,7 @@
 126. SAM: Okay, it's just us. Mom's driving Grandpa home and Earl's taking the robot to school, so it's you and me. Where do you want to eat? Anywhere, your choice.
     샘: 좋아, 이제 우리 둘이야. 엄마는 할아버지 모셔다드리고 얼 아저씨는 로봇을 학교에 갖다 놓는대. 어디서 먹고 싶어? 어디든, 네가 골라.
 
-127. LILY: Lou's. I want cherry pie.
+127. LILY: Lou's, because I want cherry pie.
     릴리: 루스. 체리 파이 먹고 싶어.
 
 128. SAM: Then Lou's it is.
