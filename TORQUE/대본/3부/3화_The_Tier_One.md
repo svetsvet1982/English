@@ -21,8 +21,8 @@
 002. SAM: Black coffee would be great, thank you, and thanks for having us, Mr. Brenner.
     샘: 블랙커피면 좋겠어요, 감사합니다. 초대해 주셔서 감사해요, 브레너 씨.
 
-003. NATE: Please call me Nate, because Mr. Brenner was my grandfather. He started this company in a garage in nineteen sixty-two with one welding machine and a lot of opinions.
-    네이트: 네이트라고 불러 주세요. 브레너 씨는 우리 할아버지였거든요. 1962년에 차고에서 용접기 한 대랑 고집 한 보따리로 이 회사를 시작하셨어요.
+003. NATE: Please call me Nate. Mr. Brenner was my grandfather, and he started this company in a garage in nineteen sixty-two with one welding machine and a lot of opinions.
+    네이트: 네이트라고 불러 주세요. 브레너 씨는 우리 할아버지였는데, 1962년에 차고에서 용접기 한 대랑 고집 한 보따리로 이 회사를 시작하셨어요.
 
 004. SAM: I started mine in an old parts warehouse with one used dynamometer. I think I'd have liked your grandfather.
     샘: 전 옛날 부품 창고에서 중고 다이너모미터 한 대로 시작했어요. 할아버님이랑 잘 맞았을 것 같네요.
@@ -33,8 +33,8 @@
 006. GLORIA: I did commercial lending in Cincinnati for twenty-five years, so I've read a lot of contracts, honey.
     글로리아: 신시내티에서 25년 동안 기업 대출 했어. 그러니까 계약서 많이 읽어 봤지, 얘.
 
-007. NATE: Then you and I speak the same language. Let me start with the good news, because I believe in starting with good news, and the good news is that we love your motor.
-    네이트: 그럼 저랑 같은 언어를 쓰시겠네요. 좋은 소식부터 시작할게요. 전 좋은 소식부터 말하는 걸 믿거든요. 좋은 소식은, 그쪽 모터가 아주 마음에 든다는 거예요.
+007. NATE: Then you and I speak the same language. Let me start with the good news, since I believe in starting with good news, and the good news is that we love your motor.
+    네이트: 그럼 저랑 같은 언어를 쓰시겠네요. 전 좋은 소식부터 말하는 걸 믿으니까 좋은 소식부터 할게요. 그쪽 모터가 아주 마음에 들어요.
 
 008. TYLER: That's really great to hear.
     타일러: 정말 좋은 말씀이네요.
@@ -54,20 +54,20 @@
 013. NATE: You were definitely a banker. Okay, it's not really bad news, it's just how this industry works. Have you sold to automotive before?
     네이트: 확실히 은행 출신이시네요. 좋아요, 나쁜 소식이라기보단 그냥 이 업계가 돌아가는 방식이에요. 자동차 쪽에 팔아 보신 적 있으세요?
 
-014. SAM: Never, because we started with e-bikes, and now we make washing machine motors for Haverford in Findlay.
+014. SAM: Never. We started with e-bikes, and now we make washing machine motors for Haverford in Findlay.
     샘: 한 번도요. 처음엔 전기자전거로 시작했고, 지금은 핀들레이의 해버퍼드에 세탁기 모터를 만들어요.
 
-015. NATE: Then let me draw you a picture, if you don't mind, because I think better with a marker.
+015. NATE: Then let me draw you a picture, if you don't mind. I think better with a marker.
     네이트: 그럼 그림을 하나 그려 드릴게요, 괜찮으시면요. 전 마커를 들어야 생각이 잘돼서요.
 
 016. TYLER: Frank drew us a pyramid last week, on a napkin in Chicago.
     타일러: 프랭크도 지난주에 시카고에서 냅킨에 피라미드 그려 줬어요.
 
-017. NATE: Frank draws a pyramid because Frank sits on top of it. I'll draw you the view from the middle, which is less pretty.
+017. NATE: Frank draws a pyramid because Frank sits on top of it. I'll draw you the view from the middle, and it's less pretty.
     네이트: 프랭크는 꼭대기에 앉아 있으니까 피라미드를 그리죠. 전 중간에서 보는 그림을 그려 드릴게요. 덜 예뻐요.
 
-018. NATE: Here's Atlas at the top, which is the OEM, and right under them is us, Brenner. We're a Tier One supplier, so we build complete seats and ship them straight to the assembly line.
-    네이트: 맨 위에 애틀러스가 있고, 그게 OEM이죠. 바로 밑에 우리, 브레너가 있어요. 우린 1차 협력사라서 완제품 시트를 만들어서 조립 라인으로 바로 보내요.
+018. NATE: Here's Atlas at the top, the OEM, and right under them is us, Brenner. We're a Tier One supplier. We build complete seats and ship them straight to the assembly line.
+    네이트: 맨 위에 OEM인 애틀러스가 있고, 바로 밑에 우리, 브레너가 있어요. 우린 1차 협력사예요. 완제품 시트를 만들어서 조립 라인으로 바로 보내요.
 
 019. SAM: And who's under you?
     샘: 그럼 그 밑에는 누가 있어요?
@@ -93,7 +93,7 @@
 026. NATE: The money goes down slowly, and the pressure goes down quickly, which in this industry we call flow down.
     네이트: 돈은 천천히 내려가고 압박은 빨리 내려가요. 이 업계에선 그걸 '플로 다운'이라고 해요.
 
-027. GLORIA: Flow down. Please explain it to Sam like he's five, because he's an engineer.
+027. GLORIA: Flow down. Please explain it to Sam like he's five. He's an engineer.
     글로리아: 플로 다운이라. 샘한테 다섯 살짜리한테 하듯이 설명해 줘. 엔지니어거든.
 
 028. SAM: Thank you so much, Gloria.
@@ -120,13 +120,13 @@
 035. NATE: Sam told Frank you wouldn't let him sign anything, and in Detroit, that's a reputation.
     네이트: 샘이 프랭크한테 당신이 아무것도 서명 못 하게 한다고 했대요. 디트로이트에선 그게 평판이에요.
 
-036. TYLER: Can we see the actual terms, because I want to know what's flowing down?
-    타일러: 실제 조건 볼 수 있어요? 뭐가 흘러내려 오는지 알고 싶어서요.
+036. TYLER: Can we see the actual terms? I want to know what's flowing down.
+    타일러: 실제 조건 볼 수 있어요? 뭐가 흘러내려 오는지 알고 싶어요.
 
 037. NATE: Of course, here's our standard Tier Two agreement for the Summit seat program, and I've marked the parts that matter.
     네이트: 물론이죠. 서밋 시트 프로그램용 표준 2차 협력사 계약서예요. 중요한 부분은 표시해 뒀어요.
 
-038. GLORIA: Let me read it, and Sam, don't touch it, because your face does things when you read contracts.
+038. GLORIA: Let me read it. Sam, don't touch it, your face does things when you read contracts.
     글로리아: 내가 읽을게. 샘, 손대지 마. 넌 계약서 읽을 때 표정이 다 드러나.
 
 039. SAM: My face doesn't do anything, Gloria.
@@ -150,17 +150,17 @@
 045. NATE: If one of your motors fails on the line in Chicago and the line stops, Atlas charges us for the downtime, and then we charge you. It's in section nine.
     네이트: 그쪽 모터 하나가 시카고 라인에서 고장 나서 라인이 멈추면, 애틀러스가 정지 시간 비용을 우리한테 청구하고 우린 그걸 그쪽한테 청구해요. 9조에 있어요.
 
-046. TYLER: How much is the downtime, because Frank said it was about a million dollars an hour?
+046. TYLER: How much is the downtime? Frank said it was about a million dollars an hour.
     타일러: 정지 시간 비용이 얼마예요? 프랭크는 시간당 백만 달러쯤이라던데요.
 
-047. NATE: Don't worry, because it's capped, so you'd only pay up to two hundred and fifty thousand per event.
-    네이트: 걱정 마세요, 상한이 있으니까. 한 건당 최대 25만 달러까지만 내시면 돼요.
+047. NATE: Don't worry, it's capped. You'd only pay up to two hundred and fifty thousand per event.
+    네이트: 걱정 마세요, 상한이 있어요. 한 건당 최대 25만 달러까지만 내시면 돼요.
 
 048. SAM: Only two hundred and fifty thousand, he says.
     샘: '겨우' 25만 달러라고 하시네요.
 
-049. GLORIA: Two hundred and fifty thousand is about two and a half weeks of our runway, baby, so one bad motor and one stopped line means we lose two weeks.
-    글로리아: 25만 달러면 우리 런웨이 2주 반이야, 얘. 불량 모터 하나에 라인 한 번 멈추면 2주가 날아가는 거지.
+049. GLORIA: Two hundred and fifty thousand is about two and a half weeks of our runway, baby. One bad motor and one stopped line, and we lose two weeks.
+    글로리아: 25만 달러면 우리 런웨이 2주 반이야, 얘. 불량 모터 하나에 라인 한 번 멈추면 2주가 날아가.
 
 050. NATE: Then don't make a bad motor.
     네이트: 그럼 불량 모터를 안 만드시면 되죠.
@@ -171,7 +171,7 @@
 052. NATE: And who's Betsy?
     네이트: 베치가 누구예요?
 
-053. TYLER: Everybody asks that, because she's sort of famous in our building.
+053. TYLER: Everybody asks that. She's sort of famous in our building.
     타일러: 다들 그거 물어보세요. 저희 건물에선 좀 유명인이거든요.
 
 054. SAM: She's our test stand, and every motor goes on Betsy before it ships. That's one hundred percent of them, not a sample, every single one.
@@ -210,10 +210,10 @@
 065. NATE: I mean a relationship where you get in the door. Do you know how many motor companies would kill to be Tier Two on the Summit, when before April, Atlas wouldn't have taken your call?
     네이트: 문 안으로 들어오는 관계 말이에요. 서밋 2차 협력사가 되려고 목숨 거는 모터 회사가 얼마나 많은지 아세요? 4월 전이었으면 애틀러스는 그쪽 전화도 안 받았을 텐데요.
 
-066. SAM: I know, because Frank told me we were small, weird, and not booked.
-    샘: 알아요. 프랭크가 우리더러 작고, 특이하고, 일정이 비어 있다고 했거든요.
+066. SAM: I know. Frank told me we were small, weird, and not booked.
+    샘: 알아요. 프랭크가 우리더러 작고, 특이하고, 일정이 비어 있다고 했어요.
 
-067. NATE: Frank has a way with words. Here's what I'd like you to do, which is take the agreement home, read it, and come back to me by Friday, because I'd love to have you on the team.
+067. NATE: Frank has a way with words. Here's what I'd like you to do. Take the agreement home, read it, and come back to me by Friday. I'd love to have you on the team.
     네이트: 프랭크가 말을 잘하죠. 이렇게 해 주시면 좋겠어요. 계약서 가져가서 읽어 보시고 금요일까지 연락 주세요. 같은 팀이 되면 좋겠어요.
 
 068. GLORIA: One question before we go, about the tooling. How much does the tooling cost for this motor?
@@ -231,8 +231,8 @@
 072. GLORIA: So we pay for it, and Atlas owns it.
     글로리아: 그러니까 돈은 우리가 내고, 주인은 애틀러스네.
 
-073. NATE: That way, if you go out of business, Atlas can move the tooling to another supplier, so it protects everyone.
-    네이트: 그래야 그쪽이 망해도 애틀러스가 금형을 다른 협력사로 옮길 수 있으니까 모두를 보호하는 거예요.
+073. NATE: That way, if you go out of business, Atlas can move the tooling to another supplier. It protects everyone.
+    네이트: 그래야 그쪽이 망해도 애틀러스가 금형을 다른 협력사로 옮길 수 있죠. 모두를 보호하는 거예요.
 
 074. GLORIA: It protects everyone except the people who paid for it.
     글로리아: 돈 낸 사람만 빼고 다 보호하네.
@@ -240,8 +240,8 @@
 075. NATE: Gloria, I'm going to send you a fruit basket, and I don't know why, I just feel like I should.
     네이트: 글로리아 씨, 과일 바구니 하나 보내 드릴게요. 왜인지는 모르겠는데 그냥 그래야 할 것 같아요.
 
-076. GLORIA: Send it to the factory, because Earl likes pears.
-    글로리아: 공장으로 보내. 얼이 배 좋아하거든.
+076. GLORIA: Send it to the factory. Earl likes pears.
+    글로리아: 공장으로 보내. 얼이 배 좋아해.
 
 077. SAM: Nate, can I ask you something off the contract? What do you really think about our motor, not as a buyer, but as an engineer's grandson?
     샘: 네이트, 계약서 밖의 질문 하나 해도 돼요? 구매자로서 말고 엔지니어의 손자로서, 우리 모터 진짜 어떻게 생각해요?
@@ -249,11 +249,11 @@
 078. NATE: Honestly, I think it's the best seat motor I've seen in five years. And I think you have no idea how hard this industry is going to be on you.
     네이트: 솔직히 5년 동안 본 시트 모터 중에 최고예요. 그리고 이 업계가 그쪽한테 얼마나 가혹할지 전혀 모르고 계신 것 같아요.
 
-079. SAM: That's two honest answers, so thank you.
+079. SAM: That's two honest answers. Thank you.
     샘: 솔직한 대답이 두 개네요. 고마워요.
 
-080. NATE: Here's one more honest thing, since we're friends now. Most of our seats for the Summit are built in Monterrey, Mexico, so your motors will cross the border before they ever see Chicago.
-    네이트: 이제 친구니까 솔직한 거 하나 더요. 서밋 시트는 대부분 멕시코 몬테레이에서 만들어요. 그러니까 그쪽 모터는 시카고에 가기 전에 국경부터 건너게 될 거예요.
+080. NATE: Here's one more honest thing, since we're friends now. Most of our seats for the Summit are built in Monterrey, Mexico, which means your motors will cross the border before they ever see Chicago.
+    네이트: 이제 친구니까 솔직한 거 하나 더요. 서밋 시트는 대부분 멕시코 몬테레이에서 만들어요. 그쪽 모터는 시카고에 가기 전에 국경부터 건너게 될 거예요.
 
 081. TYLER: Mexico? Frank never mentioned that to us.
     타일러: 멕시코요? 프랭크는 그 얘기 한 번도 안 했는데요.
@@ -264,14 +264,14 @@
 083. GLORIA: Does crossing the border change the price?
     글로리아: 국경 건너면 가격이 바뀌어?
 
-084. NATE: Right now the rules are changing every week, so ask a customs broker, or ask two, and they'll give you three answers.
+084. NATE: Right now the rules are changing every week. Ask a customs broker, or ask two, and they'll give you three answers.
     네이트: 지금은 규칙이 매주 바뀌어요. 관세사한테 물어보세요. 두 명한테 물어보면 대답이 세 개 나올 거예요.
 
 085. SAM: We'll ask, and thank you for your time, Nate.
     샘: 물어볼게요. 시간 내 주셔서 고마워요, 네이트.
 
-086. NATE: Thank you for coming. And Sam, here's a little advice, which is that in this business everybody wants the unicorn, but nobody wants to feed it.
-    네이트: 와 주셔서 감사합니다. 그리고 샘, 작은 조언 하나 드릴게요. 이 바닥에선 다들 유니콘을 원하지만 먹이 주고 싶어 하는 사람은 없어요.
+086. NATE: Thank you for coming. And Sam, a little advice. In this business everybody wants the unicorn, but nobody wants to feed it.
+    네이트: 와 주셔서 감사합니다. 그리고 샘, 작은 조언 하나. 이 바닥에선 다들 유니콘을 원하지만 먹이 주고 싶어 하는 사람은 없어요.
 
 087. TYLER: Is it just me, or did he say no and yes at the same time?
     타일러: 저만 그래요, 아니면 저 사람이 동시에 안 된다랑 된다를 말한 거예요?
@@ -282,10 +282,10 @@
 089. SAM: Frank told me that when Nate is polite, you should check your wallet.
     샘: 프랭크가 그랬어요. 네이트가 예의 바를 땐 지갑을 확인하라고.
 
-090. GLORIA: Frank and I would get along, because I like a man who warns people.
+090. GLORIA: Frank and I would get along. I like a man who warns people.
     글로리아: 프랭크랑 나 잘 맞겠네. 난 미리 경고해 주는 남자가 좋아.
 
-091. TYLER: Okay, I'm driving, so Gloria, you're in the front, and Sam, you're in the back with the contract.
+091. TYLER: Okay, I'm driving. Gloria, you're in the front, and Sam, you're in the back with the contract.
     타일러: 좋아요, 운전은 제가 할게요. 글로리아는 앞에, 샘은 뒤에 계약서랑 같이 타세요.
 
 092. SAM: Why am I in the back, when it's my company, Tyler?
@@ -294,10 +294,10 @@
 093. TYLER: Because Gloria needs the front seat to yell at the numbers, and you need to call Wen.
     타일러: 글로리아가 숫자한테 소리 지르려면 앞자리가 필요하고, 샘은 박사님한테 전화해야 하니까요.
 
-094. SAM: Wen, it's me, and we're on I-75, so can you hear me?
-    샘: 웬, 나예요. I-75 타고 있는데 들려요?
+094. SAM: Wen, it's me, we're on I-75. Can you hear me?
+    샘: 웬, 나예요. I-75 타고 있어요. 들려요?
 
-095. WEN: I can hear you, and I can also hear Gloria, who's already using the calculator, because I can hear the beeping.
+095. WEN: I can hear you, and I can also hear Gloria. She's already using the calculator, I can hear the beeping.
     웬: 들려요. 글로리아 목소리도 들리고요. 벌써 계산기 쓰고 있네요, 삑삑 소리가 들려요.
 
 096. SAM: How much would the tooling cost for the shorter seat motor, the one with the new end cap?
@@ -312,32 +312,32 @@
 099. WEN: Atlas owns it? You mean we pay for it and they own it?
     웬: 애틀러스 거라고요? 우리가 돈 내고 그쪽이 갖는다고요?
 
-100. GLORIA: Welcome to Detroit, honey, and hold on, because I'm doing the margin.
+100. GLORIA: Welcome to Detroit, honey. Hold on, I'm doing the margin.
     글로리아: 디트로이트에 온 걸 환영해, 얘. 잠깐만, 마진 계산 중이야.
 
 101. TYLER: Gloria, can you explain margin to me one more time? I know it's money, I just want to know which money.
     타일러: 글로리아, 마진 한 번만 더 설명해 줄래요? 돈인 건 아는데, 어떤 돈인지 알고 싶어서요.
 
-102. GLORIA: Margin is what's left after you pay for making the thing. If I sell you a pie for ten dollars and the pie cost me seven to make, my margin is three dollars, which is thirty percent.
-    글로리아: 마진은 물건 만드는 데 든 돈을 내고 남는 거야. 내가 파이를 10달러에 파는데 만드는 데 7달러 들었으면 마진은 3달러, 30퍼센트지.
+102. GLORIA: Margin is what's left after you pay for making the thing. If I sell you a pie for ten dollars and the pie cost me seven to make, my margin is three dollars. That's thirty percent.
+    글로리아: 마진은 물건 만드는 데 든 돈을 내고 남는 거야. 내가 파이를 10달러에 파는데 만드는 데 7달러 들었으면 마진은 3달러. 30퍼센트지.
 
 103. TYLER: Okay, so what's our margin on a seat motor?
     타일러: 알겠어요. 그럼 시트 모터 마진은 얼마예요?
 
-104. GLORIA: Our cost to build one seat motor with the third shift and overtime is about ten ninety, counting copper, magnets, steel, labor, power, and Betsy. At twelve sixty, our margin is a dollar seventy, which is about thirteen percent.
+104. GLORIA: Our cost to build one seat motor with the third shift and overtime is about ten ninety, counting copper, magnets, steel, labor, power, and Betsy. At twelve sixty, our margin is a dollar seventy, about thirteen percent.
     글로리아: 3교대랑 초과근무 포함해서 시트 모터 하나 만드는 원가가 10달러 90센트쯤이야. 구리, 자석, 강판, 인건비, 전기, 베치까지 쳐서. 12달러 60센트면 마진이 1달러 70센트, 13퍼센트쯤이지.
 
 105. SAM: Thirteen percent isn't terrible, though.
     샘: 근데 13퍼센트면 끔찍하진 않은데요.
 
-106. GLORIA: Wait, I'm not done, because the price drops three percent a year. By year two our margin is about eleven percent, and by year three it's about eight, and our costs don't go down three percent a year, because copper doesn't care about Atlas.
-    글로리아: 기다려, 아직 안 끝났어. 단가가 매년 3퍼센트씩 내려가니까. 2년 차엔 마진이 11퍼센트쯤, 3년 차엔 8퍼센트쯤 돼. 근데 우리 원가는 매년 3퍼센트씩 안 내려가. 구리는 애틀러스 사정 안 봐주거든.
+106. GLORIA: Wait, I'm not done. The price drops three percent a year, so by year two our margin is about eleven percent, and by year three it's about eight. And our costs don't go down three percent a year, because copper doesn't care about Atlas.
+    글로리아: 기다려, 아직 안 끝났어. 단가가 매년 3퍼센트씩 내려가니까 2년 차엔 마진이 11퍼센트쯤, 3년 차엔 8퍼센트쯤 돼. 근데 우리 원가는 매년 3퍼센트씩 안 내려가. 구리는 애틀러스 사정 안 봐주거든.
 
 107. WEN: And what happens if copper goes up?
     웬: 구리가 오르면 어떻게 돼요?
 
-108. GLORIA: Then we're paying Atlas to build their seats. Now add the three eighty in tooling up front, and we get paid ninety days after we ship, so for the bridge order alone we'd be carrying about seven hundred thousand dollars.
-    글로리아: 그럼 우리가 돈 내고 애틀러스 시트를 만들어 주는 꼴이지. 이제 금형비 38만을 먼저 내는 걸 더하고, 돈은 출하하고 90일 뒤에 받으니까, 임시 주문만으로도 70만 달러쯤 떠안게 돼.
+108. GLORIA: Then we're paying Atlas to build their seats. Now add the three eighty in tooling up front, and remember we get paid ninety days after we ship. For the bridge order alone, we'd be carrying about seven hundred thousand dollars.
+    글로리아: 그럼 우리가 돈 내고 애틀러스 시트를 만들어 주는 꼴이지. 이제 금형비 38만을 먼저 내는 걸 더하고, 돈은 출하하고 90일 뒤에 받는다는 걸 기억해. 임시 주문만으로도 70만 달러쯤 떠안게 돼.
 
 109. SAM: And what does that do to the runway?
     샘: 그럼 런웨이는 어떻게 돼요?
@@ -354,8 +354,8 @@
 113. WEN: Then why does anybody do it?
     웬: 그럼 왜 다들 해요?
 
-114. GLORIA: For the volume, because once you're in, you're in for seven or eight years on one program. And if you're good, they give you the next program, so the prize isn't the first contract, it's the tenth one.
-    글로리아: 물량 때문이지. 한 번 들어가면 한 프로그램에 7, 8년이야. 잘하면 다음 프로그램도 주니까, 상은 첫 번째 계약이 아니라 열 번째 계약이야.
+114. GLORIA: For the volume. Once you're in, you're in for seven or eight years on one program, and if you're good, they give you the next program. The prize isn't the first contract, it's the tenth one.
+    글로리아: 물량 때문이지. 한 번 들어가면 한 프로그램에 7, 8년이고, 잘하면 다음 프로그램도 줘. 상은 첫 번째 계약이 아니라 열 번째 계약이야.
 
 115. SAM: Nate said the same thing, that his grandfather had one customer for forty-one years.
     샘: 네이트도 같은 말 했어요. 할아버지가 한 고객이랑 41년 거래했다고요.
@@ -375,14 +375,14 @@
 120. GLORIA: Tyler, write that down.
     글로리아: 타일러, 그거 적어.
 
-121. TYLER: I can't, because I'm driving.
+121. TYLER: I can't, I'm driving.
     타일러: 못 적어요, 운전 중이라.
 
 122. GLORIA: Then you'd better remember it.
     글로리아: 그럼 잘 기억해 둬.
 
-123. SAM: Here's the thing, though, which is that right now, today, there's no other motor. Nate needs us, Frank needs us, and Terrell needs us, and that's leverage, a word I learned with Gary in April.
-    샘: 근데 문제는 이거예요. 지금, 오늘, 다른 모터가 없다는 거. 네이트도, 프랭크도, 테럴도 우리가 필요해요. 그게 협상력이죠. 4월에 개리랑 하면서 배운 단어예요.
+123. SAM: Here's the thing, though. Right now, today, there's no other motor. Nate needs us, Frank needs us, and Terrell needs us, and that's leverage, a word I learned with Gary in April.
+    샘: 근데 문제는 이거예요. 지금, 오늘, 다른 모터가 없어요. 네이트도, 프랭크도, 테럴도 우리가 필요하죠. 그게 협상력이에요. 4월에 개리랑 하면서 배운 단어예요.
 
 124. WEN: That's leverage that only lasts until the licenses come back.
     웬: 허가가 다시 나올 때까지만 가는 협상력이죠.
@@ -390,19 +390,19 @@
 125. SAM: Then we'd better use it before the licenses come back.
     샘: 그럼 허가가 다시 나오기 전에 써야죠.
 
-126. EARL: You're back, and it's ten o'clock at night, and Gloria's at the board with the red marker, which is never good.
+126. EARL: You're back, it's ten o'clock at night, and Gloria's at the board with the red marker. That's never good.
     얼: 왔네. 밤 열 시인데 글로리아가 빨간 마커 들고 칠판 앞에 있어. 그건 절대 좋은 신호가 아니지.
 
-127. GLORIA: It's not red, Earl, it's orange, because I'm being optimistic.
-    글로리아: 빨간색 아니야, 얼. 주황색이야. 낙관적으로 쓰는 중이거든.
+127. GLORIA: It's not red, Earl, it's orange. I'm being optimistic.
+    글로리아: 빨간색 아니야, 얼. 주황색이야. 낙관적으로 쓰는 중이야.
 
-128. EARL: What's it say? Read it to me, because my glasses are in the truck.
+128. EARL: What's it say? Read it to me, my glasses are in the truck.
     얼: 뭐라고 써 있어? 읽어 줘. 안경이 트럭에 있어.
 
-129. SAM: It's our counteroffer, and we're calling Nate tonight. Earl, you should hear this, because if we take this deal, your line is going to carry it.
+129. SAM: It's our counteroffer, and we're calling Nate tonight. Earl, you should hear this, since if we take this deal, your line is going to carry it.
     샘: 우리 역제안이요. 오늘 밤에 네이트한테 전화해요. 얼, 들어 두세요. 이 계약 받으면 얼의 라인이 감당해야 하니까요.
 
-130. EARL: My line carries everything, kid, so go ahead, I'm listening.
+130. EARL: My line carries everything, kid. Go ahead, I'm listening.
     얼: 내 라인은 뭐든 감당해, 꼬마야. 해 봐, 듣고 있어.
 
 131. GLORIA: Number one, it's thirteen forty a motor, not twelve sixty. Number two, Atlas pays for the tooling, since Atlas owns it. Number three, there's no price-down in year one, and after that it's one and a half percent, not three.
@@ -420,19 +420,19 @@
 135. SAM: He doesn't have to take all of it, he just has to take enough of it. Gloria says we start high so we have room to come down.
     샘: 다 받을 필요 없어요. 충분히만 받으면 돼요. 글로리아가 높게 시작해야 내려갈 여지가 있대요.
 
-136. GLORIA: That's rule number one of negotiating, baby, so never open with your walk-away point.
+136. GLORIA: That's rule number one of negotiating, baby. Never open with your walk-away point.
     글로리아: 협상 제1원칙이야, 얘. 절대 마지노선부터 꺼내지 마.
 
 137. SAM: Okay, I'm calling him, and it's ringing. Nate, it's Sam Kowalski, and I'm sorry to call so late.
     샘: 좋아요, 전화할게요. 신호 가요. 네이트, 샘 코왈스키예요. 늦게 전화해서 미안해요.
 
-138. NATE: Not at all, Sam, because I'm still at the office, and everyone in this industry is still at the office this month. What can I do for you?
+138. NATE: Not at all, Sam. I'm still at the office, and everyone in this industry is still at the office this month. What can I do for you?
     네이트: 전혀요, 샘. 아직 사무실이에요. 이번 달엔 이 업계 사람들 다 아직 사무실에 있어요. 뭘 도와드릴까요?
 
 139. SAM: I read the agreement, and I'm sending you a counteroffer in writing tonight. But I wanted to tell you myself first, so it's not a surprise.
     샘: 계약서 읽었고, 오늘 밤에 서면으로 역제안 보낼게요. 근데 놀라지 않으시게 먼저 직접 말씀드리고 싶었어요.
 
-140. NATE: That's very polite of you, so go ahead, I'm listening.
+140. NATE: That's very polite of you. Go ahead, I'm listening.
     네이트: 아주 예의 바르시네요. 말씀하세요, 듣고 있어요.
 
 141. SAM: We want thirteen forty, with Atlas paying for the tooling, no price-down in year one, and one and a half percent after that. We also want net sixty on the bridge order and a chargeback cap at fifty thousand.
@@ -456,13 +456,13 @@
 147. EARL: Fifty percent on steel, when our laminations are steel?
     얼: 철강에 50퍼센트? 우리 라미네이션이 철강이잖아.
 
-148. NATE: Now you know why I'm still at the office, because my frames are steel too, Sam. We're all in the middle now, so good night.
+148. NATE: Now you know why I'm still at the office. My frames are steel too, Sam. We're all in the middle now. Good night.
     네이트: 이제 제가 왜 아직 사무실에 있는지 아시겠죠. 우리 시트 프레임도 철강이에요, 샘. 이제 다 같이 중간에 끼었네요. 안녕히 주무세요.
 
-149. GLORIA: I'm going to need a new marker, because orange isn't going to cover this.
+149. GLORIA: I'm going to need a new marker. Orange isn't going to cover this.
     글로리아: 새 마커가 필요하겠다. 주황색으론 이거 감당 안 돼.
 
-150. SAM: Call Minjun in the morning, because Korea's thirteen hours ahead and he's probably reading this news right now.
+150. SAM: Call Minjun in the morning. Korea's thirteen hours ahead, and he's probably reading this news right now.
     샘: 아침에 민준한테 전화해요. 한국은 열세 시간 빠르니까 아마 지금 이 뉴스 읽고 있을 거예요.
 
 ---

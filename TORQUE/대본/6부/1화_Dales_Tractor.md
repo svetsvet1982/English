@@ -219,8 +219,8 @@
 068. SAM: Dale, what does this actually cost you, not the part, but the waiting?
     샘: 데일, 이게 실제로 얼마나 손해예요? 부품 말고 기다리는 거요.
 
-069. DALE: Right now, in February? Not much, because the ground is frozen anyway. April's a different story. Every day I'm late planting, I lose about a bushel an acre.
-    데일: 지금 2월엔 별로 안 돼요. 고장 나서 못 쓰지만 땅이 얼어 있으니까. 근데 4월엔 얘기가 달라요. 파종이 하루 늦을 때마다 에이커당 1부셸쯤 잃거든요.
+069. DALE: Right now, in February? Not much, because she's out of commission but the ground is frozen anyway. April's a different story. Every day I'm late planting, I lose about a bushel an acre.
+    데일: 지금 2월엔요? 별로 안 돼요. 고장 나서 못 쓰지만 어차피 땅이 얼어 있으니까. 4월엔 얘기가 달라요. 파종이 하루 늦을 때마다 에이커당 1부셸쯤 잃어요.
 
 070. TYLER: How many acres do you have?
     타일러: 몇 에이커나 있으세요?

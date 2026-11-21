@@ -21,10 +21,10 @@
 002. EARL: There's always a map with arrows, and the arrows never help.
     얼: 화살표 있는 지도는 늘 나와. 그 화살표가 도움 된 적은 없어.
 
-003. PATTY: But what is it, though, because I keep hearing "review," so are they canceling it?
+003. PATTY: But what is it, though? I keep hearing "review." Are they canceling it?
     패티: 근데 그게 뭐예요? 계속 "재검토"라는 말만 들려요. 없애는 거예요?
 
-004. SAM: That's what we're going to find out, because Kayla's calling in at nine to explain it. Okay, before that, what spins today?
+004. SAM: That's what we're going to find out. Kayla's calling in at nine to explain it. Okay, before that, what spins today?
     샘: 그걸 알아보려는 거야. 케일라가 아홉 시에 연결해서 설명해 줄 거야. 자, 그 전에. 오늘 뭐 돌리지?
 
 005. EARL: We've got twenty-two hundred seat motor cores for Monterrey, FX-B1s for Tony, the final test on fifty Northfield prototypes, and the tractor motors, like always.
@@ -33,7 +33,7 @@
 006. WEN: The Northfield prototypes ship Friday, and the second input works after three thousand cycles.
     웬: 노스필드 시제품은 금요일에 출하해요. 두 번째 입력은 3천 사이클 돌려도 잘 작동해요.
 
-007. SAM: Good, so let's see if it spins.
+007. SAM: Good. Let's see if it spins.
     샘: 좋아. 일단 돌려 보자.
 
 008. DARNELL: Sam, can I say something about the treaty before Kayla comes on?
@@ -42,19 +42,19 @@
 009. SAM: Go ahead, Darnell.
     샘: 말해 봐, 대넬.
 
-010. DARNELL: My brother-in-law at the steel mill thinks this review is the best thing that could happen, because he says the deal let too much Mexican steel and too many car jobs go south.
+010. DARNELL: My brother-in-law at the steel mill thinks this review is the best thing that could happen. He says the deal let too much Mexican steel and too many car jobs go south.
     대넬: 제철소 다니는 매형은 이 재검토가 일어날 수 있는 최고의 일이래요. 그 협정 때문에 멕시코 철강이랑 자동차 일자리가 너무 많이 남쪽으로 갔대요.
 
-011. PATTY: And my nephew works at a parts warehouse in Columbus that ships to Mexico every day, so he's scared he'll lose his job.
+011. PATTY: And my nephew works at a parts warehouse in Columbus that ships to Mexico every day. He's scared he'll lose his job.
     패티: 그리고 우리 조카는 매일 멕시코로 물건 보내는 콜럼버스 부품 창고에서 일해요. 일자리 잃을까 봐 겁내요.
 
 012. EARL: Both of them can be right, which is the annoying thing about trade.
     얼: 둘 다 맞을 수 있어. 그게 무역의 짜증 나는 점이야.
 
-013. TYLER: Kayla's on, so hi, Kayla.
+013. TYLER: Kayla's on the line now, everybody. Hi, Kayla.
     타일러: 케일라 연결됐어요. 안녕하세요, 케일라.
 
-014. KAYLA: Morning, everybody, and I'm in a hallway because every room here is full of people arguing, so do you want the short version or the real version?
+014. KAYLA: Morning, everybody. I'm in a hallway, because every room here is full of people arguing. Do you want the short version or the real version?
     케일라: 다들 좋은 아침이에요. 여기 방마다 싸우는 사람들로 꽉 차서 복도에 나와 있어요. 짧은 버전으로 할까요, 진짜 버전으로 할까요?
 
 015. GLORIA: Short version first, honey, and then the real one.
@@ -66,22 +66,22 @@
 017. PATTY: So does that mean it's over?
     패티: 그럼 끝난 거예요?
 
-018. KAYLA: No, and that's the important part, because nobody's tearing it up today. The agreement stays in force, the trade rules don't change tomorrow morning, and parts that qualify still cross the border the same way.
+018. KAYLA: No, and that's the important part. Nobody's tearing it up today. The agreement stays in force, the trade rules don't change tomorrow morning, and parts that qualify still cross the border the same way.
     케일라: 아뇨. 그게 중요한 부분이에요. 오늘 아무도 협정을 찢어 버리지 않아요. 협정은 여전히 유효하고, 내일 아침에 무역 규정이 바뀌지도 않아요. 조건에 맞는 부품은 똑같이 국경을 넘어요.
 
 019. TYLER: Then what actually changed?
     타일러: 그럼 실제로 뭐가 바뀐 거예요?
 
-020. KAYLA: The clock did, and here's the real version: when the agreement was signed, it got a built-in expiration date of sixteen years, so 2036, and every six years the three countries review it together.
+020. KAYLA: The clock did. Here's the real version. When the agreement was signed, it got a built-in expiration date, sixteen years, so 2036. Every six years, the three countries review it together.
     케일라: 시계요. 진짜 버전은 이거예요. 협정이 서명될 때 만료일이 처음부터 박혀 있었어요. 16년, 그러니까 2036년이요. 그리고 6년마다 세 나라가 같이 재검토해요.
 
 021. SAM: So in plain English, it's a sunset clause.
     샘: 쉬운 말로 하면 일몰 조항이네요.
 
-022. KAYLA: In plain English, there's a sunset built in, so if all three say "keep going," the clock resets to sixteen years, but if one says no, they review it every year until they agree, or until 2036.
+022. KAYLA: In plain English? There's a sunset built in. If all three say "keep going," the clock resets to sixteen years. If one says no, they review it every year until they agree, or until 2036.
     케일라: 쉬운 말로? 일몰이 박혀 있는 거죠. 셋 다 "계속하자"고 하면 시계가 16년으로 리셋돼요. 한 나라라도 안 된다고 하면, 합의할 때까지 또는 2036년까지 매년 재검토해요.
 
-023. GLORIA: Every year, so every July we hold our breath.
+023. GLORIA: Every year. So every July, we hold our breath.
     글로리아: 매년이라. 그럼 7월마다 숨 참고 있어야 하네.
 
 024. KAYLA: Every year until somebody agrees, and separately, Washington wants bilateral talks, one country at a time.
@@ -90,13 +90,13 @@
 025. WEN: Why not extend it and negotiate at the same time?
     웬: 왜 연장하면서 동시에 협상하지 않아요?
 
-026. KAYLA: Because the people who made this decision think the annual review is leverage, since if the deal could end, the other side has a reason to give more, and that's one view.
+026. KAYLA: Because the people who made this decision think the annual review is leverage. If the deal could end, the other side has a reason to give more. That's one view.
     케일라: 이 결정을 내린 사람들은 연례 재검토가 지렛대라고 생각하거든요. 협정이 끝날 수 있으면 상대가 더 내줄 이유가 생기니까요. 그게 한 가지 시각이에요.
 
 027. EARL: And what's the other view?
     얼: 그럼 다른 시각은?
 
-028. KAYLA: The other view is that companies hate uncertainty, because if you don't know the rules for 2030, you don't build a factory in 2026, not in Mexico, and maybe not in Ohio either.
+028. KAYLA: The other view is that companies hate uncertainty. If you don't know the rules for 2030, you don't build a factory in 2026, not in Mexico, and maybe not in Ohio either.
     케일라: 다른 시각은 기업들이 불확실성을 싫어한다는 거예요. 2030년 규칙을 모르면 2026년에 공장을 안 지어요. 멕시코에도, 어쩌면 오하이오에도요.
 
 029. DARNELL: My brother-in-law would definitely say the first one, loudly.
@@ -108,7 +108,7 @@
 031. KAYLA: And in my office, both of them work for the Senator, whose noon statement will say "Ohio workers" four times.
     케일라: 그리고 우리 사무실엔 둘 다 의원님 밑에서 일해요. 정오 성명엔 "오하이오 노동자"가 네 번 나올 거예요.
 
-032. TYLER: Kayla, what does this mean for cars specifically, since our seat motors go to Monterrey for final assembly, then into seats, then to Chicago?
+032. TYLER: Kayla, what does this mean for cars, specifically? Our seat motors go to Monterrey for final assembly, then into seats, then to Chicago.
     타일러: 케일라, 자동차엔 구체적으로 무슨 의미예요? 우리 시트 모터는 몬테레이에서 최종 조립하고, 시트에 들어가서, 시카고로 가거든요.
 
 033. KAYLA: That's exactly what people are worried about, the rules of origin, meaning how much of a car has to be made in North America, or in the U.S., to cross without tariffs, and those rules might get tighter.
@@ -120,10 +120,10 @@
 035. KAYLA: In plain English, to get the good deal at the border, a car needs a certain amount of local ingredients, and Washington might want more of those ingredients to be American.
     케일라: 쉬운 말로요? 국경에서 좋은 조건을 받으려면 차에 현지 재료가 일정량 들어가야 해요. 워싱턴은 그 재료가 더 많이 미국산이길 원할 수 있어요.
 
-036. EARL: Our cores are made right here in Moraine, so that's an American ingredient.
+036. EARL: Our cores are made right here in Moraine. That's an American ingredient.
     얼: 우리 코어는 바로 여기 모레인에서 만들어. 그건 미국 재료지.
 
-037. KAYLA: Then for you, tighter rules might actually help, but for your partner in Monterrey it could be harder, which is why Frank and Alejandro called me. I'll drop off now, because they're joining, so good luck.
+037. KAYLA: Then for you, tighter rules might actually help. For your partner in Monterrey, it could be harder, and that's why Frank and Alejandro called me. I'll drop off now, they're joining. Good luck.
     케일라: 그럼 여러분한텐 엄격한 규정이 오히려 도움이 될 수도 있어요. 근데 몬테레이 파트너한텐 더 힘들 수 있죠. 그래서 프랭크랑 알레한드로가 저한테 전화했어요. 전 빠질게요. 그분들 들어와요. 행운을 빌어요.
 
 038. SAM: Thanks, Kayla, really.
@@ -156,7 +156,7 @@
 047. ALEJANDRO: "Wait-and-see." My father used to say that every time Washington sneezes, Monterrey catches a cold, but today Washington didn't sneeze, it just looked at us and said, "Maybe I'll sneeze next year."
     알레한드로: "관망"이라. 우리 아버지는 워싱턴이 재채기할 때마다 몬테레이가 감기에 걸린다고 하셨어요. 근데 오늘 워싱턴은 재채기도 안 했어요. 우릴 보더니 "내년쯤 재채기할지도" 하고 말았죠.
 
-048. GLORIA: That's worse, because a sneeze you can plan for.
+048. GLORIA: That's worse. A sneeze, you can plan for.
     글로리아: 그게 더 나빠. 재채기는 대비라도 하지.
 
 049. ALEJANDRO: Exactly, Gloria, and the German company that was going to use my empty building called at seven to pause again.
@@ -174,7 +174,7 @@
 053. ALEJANDRO: I told them what Sam told me last year, "Nobody is moving the heart," and I hope that's still true.
     알레한드로: 작년에 샘이 저한테 한 말을 해 줬어요. "아무도 심장을 옮기지 않는다." 아직 그게 사실이길 바라요.
 
-054. SAM: It's still true, because the heart is in Ohio and your team does the last fifteen minutes, and that doesn't change because of a news alert.
+054. SAM: It's still true. The heart is in Ohio, and your team does the last fifteen minutes. That doesn't change because of a news alert.
     샘: 아직 사실이에요. 심장은 오하이오에 있고, 그쪽 팀은 마지막 15분을 맡아요. 뉴스 알림 하나로 그게 안 바뀌어요.
 
 055. FRANK: Let me be the bad guy for a minute, Sam, and suppose Washington wants more U.S. content in every seat.
@@ -186,7 +186,7 @@
 057. FRANK: It helps you, but maybe not a seat that's sewn in Monterrey, and Brenner's whole seat plant is down there.
     프랭크: 너한텐 도움 되지. 근데 몬테레이에서 꿰매는 시트한텐 아닐 수도 있어. 브레너 시트 공장이 통째로 거기 있잖아.
 
-058. ALEJANDRO: Frank's right that if the rules change, the question is how they count every piece, and nobody knows that yet, because it could take a year of talks.
+058. ALEJANDRO: Frank's right. If the rules change, the question is how they count every piece, and nobody knows that yet. It could take a year of talks.
     알레한드로: 프랭크 말이 맞아요. 규정이 바뀌면 부품 하나하나를 어떻게 세느냐가 문제예요. 그건 아직 아무도 몰라요. 협상에 1년이 걸릴 수도 있어요.
 
 059. WEN: Then we don't know the question yet, only that there will be one.
@@ -198,10 +198,10 @@
 061. TYLER: Frank, can I ask about the worst case, not the likely one, but the worst one?
     타일러: 프랭크, 최악의 경우 물어봐도 돼요? 가능성 높은 거 말고 최악이요.
 
-062. FRANK: Son, I'm a purchasing guy, so I only think about the worst case, so go ahead.
+062. FRANK: Son, I'm a purchasing guy. I only think about the worst case, so go ahead.
     프랭크: 이봐, 난 구매 담당이야. 최악의 경우만 생각해. 물어봐.
 
-063. TYLER: The worst case is that one country gives notice and leaves, and I read that takes six months' notice, so is that real?
+063. TYLER: The worst case is that one country gives notice and leaves. I read that takes six months' notice. Is that real?
     타일러: 최악은 한 나라가 통보하고 탈퇴하는 거잖아요. 6개월 전에 통보해야 한다고 읽었는데, 진짜예요?
 
 064. FRANK: That's real, and it's always been in there, but nobody's used it, and not today either.
@@ -219,7 +219,7 @@
 068. SAM: You already did that to me once.
     샘: 저한텐 이미 한 번 그러셨잖아요.
 
-069. FRANK: And you answered, which is why you have the contract. What I need from you two isn't a prediction, it's a plan, so if it gets worse, how fast can Ferrox and Garza adjust?
+069. FRANK: And you answered. That's why you have the contract. What I need from you two isn't a prediction, it's a plan. If it gets worse, how fast can Ferrox and Garza adjust?
     프랭크: 그리고 네가 받았지. 그래서 계약을 따낸 거야. 너희 둘한테 필요한 건 예측이 아니라 계획이야. 상황이 나빠지면 페록스랑 가르사가 얼마나 빨리 조정할 수 있어?
 
 070. ALEJANDRO: On my side, I can do what you need for a long time, or I can stop in ninety days, and I don't like the second one, but I can do it.
@@ -228,19 +228,19 @@
 071. SAM: Alejandro, if it comes to that, we won't do it to you in ninety days, we'll do it with you.
     샘: 알레한드로, 그렇게 되더라도 90일 만에 당신한테 하지 않을게요. 당신이랑 같이 할게요.
 
-072. ALEJANDRO: Thank you, and I'll remember that sentence, because my father would have liked it.
+072. ALEJANDRO: Thank you. I'll remember that sentence, and my father would have liked it.
     알레한드로: 고마워요. 그 문장 기억할게요. 우리 아버지가 좋아하셨을 거예요.
 
 073. FRANK: And what about your side, Sam?
     프랭크: 그럼 네 쪽은, 샘?
 
-074. SAM: I'll know my side by tonight, because Gloria has a whiteboard she's been looking at since six a.m. like it owes her money.
+074. SAM: I'll know my side by tonight. Gloria has a whiteboard she's been looking at since six a.m. like it owes her money.
     샘: 제 쪽은 오늘 밤까지 알려 드릴게요. 글로리아가 새벽 여섯 시부터 칠판을 돈 떼먹은 사람처럼 노려보고 있거든요.
 
 075. GLORIA: It does owe me money.
     글로리아: 진짜로 나한테 돈 떼먹었어.
 
-076. FRANK: Then have Gloria send it to me, because Helen trusts Gloria more than she trusts me.
+076. FRANK: Then have Gloria send it to me. Helen trusts Gloria more than she trusts me.
     프랭크: 그럼 글로리아가 나한테 보내게 해. 헬렌은 나보다 글로리아를 더 믿어.
 
 077. GLORIA: Smart woman, that Helen.
@@ -249,7 +249,7 @@
 078. FRANK: One more thing, which I'm not supposed to tell you: Calloway told Helen their Saltillo plant is "fully protected."
     프랭크: 하나 더. 이건 말하면 안 되는 건데, 캘러웨이가 헬렌한테 살티요 공장은 "완전히 보호된다"고 했어.
 
-079. WEN: Saltillo is in Mexico, so how is it protected?
+079. WEN: Saltillo is in Mexico, though. How exactly is it protected?
     웬: 살티요는 멕시코에 있잖아요. 어떻게 보호돼요?
 
 080. FRANK: That's what Helen asked, and they didn't have an answer, they just said "protected" in a very confident voice, which is what big companies do.
@@ -264,34 +264,34 @@
 083. EARL: I like Helen now, which I didn't think I would.
     얼: 이제 헬렌이 좋아졌어. 그럴 줄 몰랐는데.
 
-084. FRANK: Don't tell her, because she'll smile with the left side of her mouth, and it's terrifying.
+084. FRANK: Don't tell her. She'll smile with the left side of her mouth, and it's terrifying.
     프랭크: 말하지 마. 입 왼쪽으로만 웃을 거야. 그거 무서워.
 
 085. TYLER: Frank, about our hearing in three weeks, is Atlas watching?
     타일러: 프랭크, 3주 뒤 청문회 말인데요, 애틀라스도 지켜보고 있어요?
 
-086. FRANK: Everybody in Detroit is watching, because if the commission says Calloway's motors can't come in, every purchasing guy who bought EverSpin needs a new supplier overnight.
+086. FRANK: Everybody in Detroit is watching. If the commission says Calloway's motors can't come in, every purchasing guy who bought EverSpin needs a new supplier overnight.
     프랭크: 디트로이트는 다 지켜보고 있어. 위원회가 캘러웨이 모터 수입이 안 된다고 하면, 에버스핀 산 구매 담당은 하룻밤 사이에 새 공급업체가 필요해.
 
 087. SAM: That's not decided yet, Frank, and it won't be for months.
     샘: 그건 아직 결정 안 났어요, 프랭크. 몇 달은 걸려요.
 
-088. FRANK: I know, I'm just telling you what's on people's whiteboards. Okay, I'm out, so good luck, Garza, and Kowalski, send me the plan.
+088. FRANK: I know. I'm just telling you what's on people's whiteboards. Okay, I'm out. Good luck, Garza, and Kowalski, send me the plan.
     프랭크: 알아. 사람들 칠판에 뭐가 적혀 있는지 말해 주는 거야. 자, 난 나간다. 가르사, 행운을 빌어. 코왈스키, 계획 보내.
 
-089. ALEJANDRO: Sam, give me one more minute, because Lupita wants to say something.
+089. ALEJANDRO: Sam, give me one more minute. Lupita wants to say something.
     알레한드로: 샘, 1분만 더요. 루피타가 할 말이 있대요.
 
 090. LUPITA: Earl, my team asked me to tell you that we did good work for you, with zero returns from Atlas this year.
     루피타: 얼, 우리 팀이 꼭 전해 달래요. 우리가 잘 해냈다고요. 올해 애틀라스 반품 0건이에요.
 
-091. EARL: I know, Lupita, because it's taped to my wall, and Ohio knows.
+091. EARL: I know, Lupita. It's taped to my wall, and Ohio knows.
     얼: 알아, 루피타. 내 벽에 붙여 놨어. 오하이오도 알아.
 
-092. ALEJANDRO: She's crying now, so I'm going to hang up before I do too. Hasta luego.
+092. ALEJANDRO: She's crying now, and I'm going to hang up before I do too. Hasta luego.
     알레한드로: 울고 있네요. 저도 울기 전에 끊을게요. 아스타 루에고.
 
-093. PATTY: That was hard to watch, because Lupita never cries.
+093. PATTY: That was hard to watch. Lupita never cries, not even at weddings.
     패티: 보기 힘들었어요. 루피타는 절대 안 우는데.
 
 094. DARNELL: Yeah, and my brother-in-law never met Lupita.
@@ -300,7 +300,7 @@
 095. EARL: Most people who talk about trade never met anybody on the other side of it, including me, until last year.
     얼: 무역 얘기하는 사람들 대부분은 그 반대편 사람을 만나 본 적이 없어. 나도 작년까진 그랬어.
 
-096. GLORIA: Okay, whiteboard time, with three scenarios that aren't predictions, because I'm not a fortune teller, I'm a woman with three colors of marker.
+096. GLORIA: Okay, whiteboard time. Three scenarios, not predictions. I'm not a fortune teller, I'm a woman with three colors of marker.
     글로리아: 자, 칠판. 시나리오 세 개. 예측 아니야. 난 점쟁이가 아니라 마커 세 가지 색 가진 여자야.
 
 097. TYLER: Let me guess, green, yellow, and red.
@@ -312,7 +312,7 @@
 099. SAM: Okay, and what do we actually do in green?
     샘: 좋아요. 초록이면 우린 실제로 뭘 해요?
 
-100. GLORIA: Nothing new, so we keep the cores in Ohio, keep Alejandro, keep the contract, and stop panicking every time Tyler's phone beeps.
+100. GLORIA: Nothing new. We keep the cores in Ohio, keep Alejandro, keep the contract, and we stop panicking every time Tyler's phone beeps.
     글로리아: 새로운 건 없어. 코어는 오하이오에, 알레한드로도 그대로, 계약도 그대로. 타일러 폰 울릴 때마다 겁먹는 것만 그만하면 돼.
 
 101. TYLER: My phone has a very loud beep.
@@ -321,7 +321,7 @@
 102. GLORIA: Then change it. Yellow is "tighter rules of origin," with more U.S. content required, and in that world Ohio cores are worth more, but the Monterrey assembly might not count the way it does now.
     글로리아: 그럼 바꿔. 노랑은 "원산지 규정 강화". 미국산 비중을 더 요구하는 거지. 그럼 오하이오 코어 가치는 올라가. 근데 몬테레이 조립이 지금처럼 쳐지지 않을 수도 있어.
 
-103. WEN: In yellow, we may need to move the gear stage back here, because it's the piece that counts most.
+103. WEN: In yellow, we may need to move the gear stage back here. It's the piece that counts most.
     웬: 노랑이면 기어단을 여기로 다시 가져와야 할 수도 있어요. 그게 제일 많이 쳐지는 부분이거든요.
 
 104. EARL: That's sixty cents a motor more labor, which we figured out last year.
@@ -336,10 +336,10 @@
 107. GLORIA: Red is "somebody gives notice, tariffs on Mexican assembly," with six months of warning, maybe less if things get ugly, and in red, everything Alejandro does has to come back to Ohio fast.
     글로리아: 빨강은 "누군가 탈퇴 통보, 멕시코 조립에 관세". 경고 기간 6개월, 험악해지면 더 짧을 수도 있어. 빨강이면 알레한드로가 하는 일을 전부 빨리 오하이오로 가져와야 해.
 
-108. EARL: We don't have the room or the people for that, because we're already running two shifts on cores.
+108. EARL: We don't have the room or the people for that. We're already running two shifts on cores.
     얼: 그럴 공간도 사람도 없어. 코어 라인은 벌써 2교대로 돌리고 있어.
 
-109. GLORIA: Not today we don't, and that's the point of a contingency plan, Earl, because it's not for today, it's for the day you don't have time to make one.
+109. GLORIA: Not today we don't. That's the point of a contingency plan, Earl. It's not for today, it's for the day you don't have time to make one.
     글로리아: 오늘은 없지. 그게 비상 계획의 핵심이야, 얼. 오늘을 위한 게 아니라, 계획 세울 시간이 없는 그날을 위한 거야.
 
 110. PATTY: What does a contingency plan look like in real life?
@@ -363,7 +363,7 @@
 116. SAM: So an empty bay, just in case.
     샘: 빈 구역이라. 혹시 모르니까요.
 
-117. GLORIA: It's the cheapest insurance in manufacturing. Number four is Alejandro's contract, so if we ever bring work back, he gets a year's notice, not ninety days, and we help him find a new customer.
+117. GLORIA: It's the cheapest insurance in manufacturing. Number four is Alejandro's contract. If we ever bring work back, he gets a year's notice, not ninety days, and we help him find a new customer.
     글로리아: 제조업에서 제일 싼 보험이야. 넷, 알레한드로 계약. 혹시 일을 다시 가져오게 되면 90일이 아니라 1년 전에 통보하고, 새 고객 찾는 걸 도와줘.
 
 118. WEN: That part costs us nothing today, Gloria.
@@ -375,13 +375,13 @@
 120. TYLER: What's the total cost for all four, Gloria?
     타일러: 네 개 다 하면 총 얼마예요, 글로리아?
 
-121. GLORIA: About two hundred and sixty thousand dollars, mostly the fixtures, so the runway goes from nineteen weeks to seventeen, and I can live with seventeen.
+121. GLORIA: About two hundred and sixty thousand dollars, mostly the fixtures. The runway goes from nineteen weeks to seventeen, and I can live with seventeen.
     글로리아: 26만 달러쯤. 대부분 지그 값이야. 런웨이가 19주에서 17주가 돼. 17주면 버틸 만해.
 
 122. EARL: Nineteen? When did it get to nineteen?
     얼: 19주? 언제 19주까지 갔어?
 
-123. GLORIA: Last week, because Tony's contractors paid, forty-four out of forty-nine, and Maple Court's board voted yes on the other twenty-four motors.
+123. GLORIA: Last week. Tony's contractors paid, forty-four out of forty-nine, and Maple Court's board voted yes on the other twenty-four motors.
     글로리아: 지난주에. 토니네 업체들이 냈어. 마흔아홉 곳 중 마흔넷. 그리고 메이플 코트 이사회가 나머지 모터 24개도 승인했어.
 
 124. SAM: And what about the other five contractors who didn't pay?
@@ -405,7 +405,7 @@
 130. SAM: That's a hedge, and Frank taught me that word when he said, "I don't bet. I hedge."
     샘: 헤지죠. 프랭크가 가르쳐 준 말이에요. "난 도박 안 해. 헤지하지."
 
-131. DARNELL: Sam, can I tell my brother-in-law what you decided, since he'll want to know?
+131. DARNELL: Sam, can I tell my brother-in-law what you decided? He'll want to know.
     대넬: 샘, 결정하신 거 매형한테 말해도 돼요? 궁금해할 거예요.
 
 132. SAM: Tell him, and tell Patty's nephew too, the same thing to both of them, which is that we're getting ready for either one of them to be right.
@@ -414,13 +414,13 @@
 133. PATTY: That's very diplomatic of you.
     패티: 엄청 외교적이네요.
 
-134. SAM: That's Kayla's influence. Gloria, send the plan to Frank and to Alejandro, the same document, because there are no secrets between partners.
+134. SAM: That's Kayla's influence. Gloria, send the plan to Frank and to Alejandro, the same document. There are no secrets between partners.
     샘: 케일라 영향이야. 글로리아, 계획은 프랭크랑 알레한드로한테 보내 줘요. 같은 문서로요. 파트너끼리는 비밀 없어요.
 
 135. GLORIA: I'm already writing it.
     글로리아: 벌써 쓰고 있어.
 
-136. TYLER: Sam, sorry, one more alert from the ITC docket, because the judge ruled on Ben's motion about Victoria's deposition and the "did legal review it" question.
+136. TYLER: Sam, sorry, one more alert, from the ITC docket. The judge ruled on Ben's motion about Victoria's deposition, the "did legal review it" question.
     타일러: 샘, 죄송해요, 알림 하나 더요. ITC 사건 기록에서 왔어요. 판사가 빅토리아 증언 녹취에 관한 벤의 신청, 그 "법무 검토 했냐" 질문에 대해 결정했어요.
 
 137. SAM: And what did the judge say?
@@ -435,7 +435,7 @@
 140. SAM: In Washington, twenty-six days from now.
     샘: 워싱턴에서. 26일 뒤에.
 
-141. EARL: Sam, it's six o'clock, so go home, because Saturday's the Fourth and you promised Erin.
+141. EARL: Sam, it's six o'clock, so go home. Saturday's the Fourth, and you promised Erin.
     얼: 샘, 여섯 시야. 집에 가. 토요일이 독립기념일이잖아. 에린한테 약속했잖아.
 
 142. SAM: Wait, how do you know what I promised Erin?
@@ -462,7 +462,7 @@
 149. EARL: It's not my story to tell, but I'll give you a hint: ask him what he was doing in July of 1976.
     얼: 내가 할 얘기가 아니야. 근데 힌트는 줄게. 1976년 7월에 뭐 하고 있었는지 물어봐.
 
-150. SAM: 1976, seventy-six, so Earl, is this about STAN76?
+150. SAM: 1976. Seventy-six. Earl, is this about STAN76?
     샘: 1976년. 칠십육. 얼, 이거 STAN76 얘기예요?
 
 ---

@@ -66,13 +66,13 @@
 017. RUTH: That letter said "no," Dale.
     루스: 그 편지에 '싫어'라고 썼었잖아, 데일.
 
-018. DALE: The first one did. The second one said "maybe." That's the one I mean.
+018. DALE: The first one did, but the second one said "maybe," and that's the one I mean.
     데일: 첫 번째는 그랬지. 두 번째는 '어쩌면'이었어. 그걸 말하는 거야.
 
 019. TYLER: Hey, is it me, or did it get warm really fast? It was cold at lunch.
     타일러: 저만 그래요, 아니면 갑자기 엄청 따뜻해졌어요? 점심땐 추웠는데.
 
-020. RUTH: It's not you. It's seventy-eight degrees in April, with the wind coming from the south.
+020. RUTH: It's not just you, because it's seventy-eight degrees in April, with the wind coming from the south.
     루스: 당신만 그런 거 아니에요. 4월에 남풍까지 불면서 화씨 78도예요.
 
 021. DALE: I don't like that sky, so look west.
@@ -99,7 +99,7 @@
 028. TYLER: Is that the siren from town?
     타일러: 저게 마을에서 나는 사이렌이에요?
 
-029. DALE: It's from Nevada, four miles away, and if we can hear it this far, the wind's carrying it. The planter and the tractors stay where they are. Everybody goes to the cellar.
+029. DALE: It's from Nevada, four miles away, and if we can hear it this far, the wind's carrying it. The planter and the tractors stay where they are, and everybody goes to the cellar.
     데일: 4마일 떨어진 네바다에서 나는 거야. 여기서 들리면 바람이 실어 오는 거지. 파종기랑 트랙터는 그 자리에 두고, 다들 지하 저장고로 가.
 
 030. SAM: What about the little tractor, Jo's prototype?
@@ -123,7 +123,7 @@
 036. RUTH: Mind the third step, it's been loose since Reagan.
     루스: 세 번째 계단 조심해요. 레이건 때부터 헐거웠거든요.
 
-037. TYLER: I've got the radio. It's saying something about rotation near Highway sixty-five.
+037. TYLER: I've got the radio, and it's saying something about rotation near Highway sixty-five.
     타일러: 라디오 가져왔어요. 65번 고속도로 근처에서 회전이 관측됐다고 하네요.
 
 038. DALE: That's three miles west and moving northeast. Close the door, Tyler, and pull the bar across it.
@@ -234,7 +234,7 @@
 073. RUTH: It's the only way you'll listen. I've been working on a plan with Gloria since February, by email, and you don't read email.
     루스: 이래야 당신이 듣잖아. 2월부터 글로리아랑 이메일로 계획을 짜고 있었는데, 당신은 이메일 안 읽잖아.
 
-074. DALE: A plan for what? We don't have money for plans.
+074. DALE: A plan for what? We don't even have money for plans.
     데일: 무슨 계획? 우린 계획 세울 돈도 없잖아.
 
 075. RUTH: It's for the bank, for September. Our repairs last year were thirty-eight thousand, and with fixable machines and the co-op, Gloria thinks we can cut that in half. The fan on bin four already saves us electricity. And there's one more piece.
@@ -282,7 +282,7 @@
 089. RUTH: It's five more minutes, so eat your pie, Tyler.
     루스: 5분만 더예요. 파이 먹어요, 타일러.
 
-090. TYLER: Ma'am, this is the best pie I've ever had. Please don't tell Donna.
+090. TYLER: Ma'am, this is the best pie I've ever had, so please don't tell Donna.
     타일러: 부인, 이거 제가 먹어 본 파이 중에 최고예요. 도나한테는 말하지 말아 주세요.
 
 091. SAM: There's a pie war going on, Ruth. Donna in Dayton says her cherry beats your anything.
@@ -318,7 +318,7 @@
 101. RUTH: Oh, oh, the old maple.
     루스: 어머, 어머, 그 늙은 단풍나무.
 
-102. DALE: It split down the middle, and half of it's on the fence. That tree was here before my grandfather.
+102. DALE: It split right down the middle, and half of it's on the fence. That tree was here before my grandfather.
     데일: 한가운데가 쪼개져서 반쪽이 울타리 위에 있네. 저 나무는 할아버지보다 먼저 여기 있었는데.
 
 103. SAM: Dale, look at the roof of the machine shed.
@@ -336,7 +336,7 @@
 107. TYLER: Marge is fine under her tarp, without a scratch.
     타일러: 마지는 방수포 밑에서 흠집 하나 없이 괜찮아요.
 
-108. DALE: Of course she is. Nothing on Marge is fragile. She doesn't have a computer to scare.
+108. DALE: Of course she is. Nothing on Marge is fragile, and she doesn't have a computer to scare.
     데일: 당연하지. 마지는 약한 데가 하나도 없어. 겁먹을 컴퓨터가 없으니까.
 
 109. RUTH: Dale, the bins are standing, all six of them.
@@ -354,7 +354,7 @@
 113. RUTH: Two or three days, but we have a small generator for the house that'll keep the fridge and the well pump going.
     루스: 2~3일이라. 그래도 집에 냉장고랑 우물 펌프 정도는 돌릴 작은 발전기가 있어요.
 
-114. DALE: We'll be fine. The beans in the bins can sit for three days, and it's cool tonight.
+114. DALE: We'll be fine, because the beans in the bins can sit for three days and it's cool tonight.
     데일: 우린 괜찮아. 저장통 콩은 사흘쯤 버티고, 오늘 밤은 서늘하니까.
 
 115. SAM: Dale, your phone is ringing.
@@ -390,13 +390,13 @@
 125. DALE: I've got my father's old PTO generator from nineteen ninety in the back of the shed, and we used it for the derecho. Marlene, we're coming.
     데일: 창고 뒤에 아버지가 쓰던 1990년식 PTO 발전기가 있어요. 데레초 때 썼죠. 말린, 우리가 갈게.
 
-126. MARLENE: Dale, over here, by the milk house! Watch the wires. Roy says they're dead, but don't trust Roy.
+126. MARLENE: Dale, over here, by the milk house! Watch the wires, because Roy says they're dead, but don't trust Roy.
     말린: 데일! 이쪽, 우유 저장실 옆이야. 전선 조심해. 로이는 전기 안 통한대지만 로이 말 믿지 마.
 
 127. DALE: Marlene, this is Sam and Tyler, from Ohio. And this little thing is a tractor, so don't laugh.
     데일: 말린, 오하이오에서 온 샘이랑 타일러야. 그리고 이 쪼끄만 게 트랙터니까 웃지 마.
 
-128. MARLENE: I'm not laughing, I'm crying, because it's been a long day. What does it do?
+128. MARLENE: I'm not laughing, I'm crying, because it's been a long day. What does it actually do?
     말린: 안 웃어, 울고 있어. 긴 하루였거든. 이게 뭘 하는데?
 
 129. SAM: It turns that generator. Dale, hook it up. Tyler, help me with the cable to the panel. Marlene, is the main switch off?
@@ -405,7 +405,7 @@
 130. MARLENE: It's off, because Roy did it before the storm. He's good for that much.
     말린: 내려가 있어. 로이가 폭풍 전에 내렸어. 그 정도는 해.
 
-131. DALE: The PTO's connected. Sam, it's your motor, so you should start it.
+131. DALE: The PTO's connected, Sam. It's your motor, so you should be the one to start it.
     데일: PTO 연결됐어. 샘, 당신 모터니까 당신이 시동 걸어요.
 
 132. SAM: Let's see if it spins.
@@ -450,7 +450,7 @@
 145. SAM: Randy's coming at midnight, after everything?
     샘: 그 일이 다 있었는데 랜디가 자정에 온다고요?
 
-146. DALE: That's Randy for you. In a storm, there's no Greaves and no Ferrox, there's just neighbors. Neighbors help neighbors.
+146. DALE: That's Randy for you. In a storm, there's no Greaves and no Ferrox, there's just neighbors, and neighbors help neighbors.
     데일: 그게 랜디야. 폭풍 속에선 그리브스도 페록스도 없고 그냥 이웃만 있지. 이웃은 이웃을 돕는 거야.
 
 147. TYLER: Sam, your phone, and it's Jo.

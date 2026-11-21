@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. LILY: There are seventy-three chairs, because I counted, and forty-one countries, because it says so in the program.
+001. LILY: There are seventy-three chairs. I counted, and the program says there are forty-one countries.
     릴리: 릴리: 의자가 일흔세 개예요, 세어 봤어요. 그리고 프로그램에 마흔한 개 나라라고 써 있어요.
 
 002. ERIN: You count everything now, and Wen did that to you.
@@ -33,7 +33,7 @@
 006. STAN: Two bike mechanics from Dayton taught the world to fly, and now a girl from Shenzhen becomes an American next to their airplane. I'd like to see somebody write a better memo than that.
     스탠: 스탠: 데이턴의 자전거 정비공 둘이 세상에 나는 법을 가르쳤는데, 이제 선전에서 온 아가씨가 그 사람들 비행기 옆에서 미국인이 된다. 그보다 나은 메모 쓸 사람 있으면 보고 싶다.
 
-007. GLORIA: She's forty-four, Stan, so she's not a girl.
+007. GLORIA: She's forty-four, Stan. She's not a girl.
     글로리아: 글로리아: 웬은 마흔넷이에요, 스탠, 아가씨 아니에요.
 
 008. STAN: When you're eighty, everybody under sixty is a girl, including you, Gloria.
@@ -48,10 +48,10 @@
 011. SAM: How many of them are there?
     샘: 샘: 몇 명이나 돼요?
 
-012. TYLER: There are forty-three in Ferrox shirts, plus families, because Patty organized a carpool. Darnell brought a cooler, and Jayden made a sign, but it's spelled wrong.
+012. TYLER: There are forty-three in Ferrox shirts, plus families. Patty organized a carpool, Darnell brought a cooler, and Jayden made a sign, but it's spelled wrong.
     타일러: 타일러: 페록스 셔츠 입은 사람이 가족들 빼고 마흔셋이에요, 패티가 카풀을 짰거든요. 대넬은 아이스박스 가져왔고, 제이든이 피켓을 만들었는데 철자가 틀렸어요.
 
-013. JAYDEN: It's not wrong, because it says "Welcome Home, Dr. Lui," and that's how you spell it.
+013. JAYDEN: It's not wrong. It says "Welcome Home, Dr. Lui," and that's how you spell it.
     제이든: 제이든: 안 틀렸어요. "웰컴 홈, 루이 박사님"이라고 썼는데, 그렇게 쓰는 거잖아요.
 
 014. LILY: It's L-I-U, Jayden, and you've worked with her for three years.
@@ -60,13 +60,13 @@
 015. JAYDEN: I always just called her Dr. Liu out loud, so I never had to write it.
     제이든: 제이든: 늘 리우 박사님이라고 소리로만 불러서 쓸 일이 없었다고.
 
-016. PATTY: I fixed it with tape, so it says "Liu" now, but the "i" is a little crooked.
+016. PATTY: I fixed it with tape, and it says "Liu" now. The "i" is a little crooked, though.
     패티: 패티: 테이프로 고쳐서 이제 "리우"예요. 근데 "i"가 좀 삐뚤어요.
 
 017. EARL: Forty-three is the same number as the card, and that's not an accident.
     얼: 얼: 마흔셋이면 카드 서명이랑 같은 숫자야. 우연이 아니지.
 
-018. PATTY: Earl signed the card twice, so it's forty-two people and Earl twice.
+018. PATTY: Earl signed the card twice, so it's really forty-two people and Earl twice.
     패티: 패티: 얼이 카드에 두 번 서명했으니까, 마흔두 명이랑 얼 두 번이에요.
 
 019. SAM: So where is she sitting?
@@ -78,10 +78,10 @@
 021. ERIN: Why is she holding it like that?
     에린: 왜 그렇게 들고 있어?
 
-022. GLORIA: Because she has to give it back today, honey, since you hand in the green card when you take the oath. She's had it since 2015, so she's saying goodbye to it.
+022. GLORIA: Because she has to give it back today, honey. You hand in the green card when you take the oath, and she's had it since 2015. She's saying goodbye to it.
     글로리아: 글로리아: 오늘 반납해야 하거든, 얘. 선서할 때 영주권 카드를 내니까. 웬은 2015년부터 갖고 있었으니까 작별 인사 하는 거야.
 
-023. JUDGE: Good morning, everyone, and please be seated. My name is Harriet Okonkwo, and I'm a United States magistrate judge for the Southern District of Ohio, so happy Fourth of July.
+023. JUDGE: Good morning, everyone, and please be seated. My name is Harriet Okonkwo, and I'm a United States magistrate judge for the Southern District of Ohio. Happy Fourth of July.
     판사: 판사: 좋은 아침입니다, 여러분, 앉으십시오. 저는 오하이오 남부 지방법원 연방 치안판사 해리엇 오콩코입니다. 독립기념일을 축하합니다.
 
 024. JUDGE: Today is a naturalization ceremony. In plain English, it's the day the law catches up with what your hearts decided a long time ago, and some of you have waited two years, while some have waited twenty.
@@ -99,7 +99,7 @@
 028. TYLER: She said "third row," so Wen's going to kill somebody.
     타일러: 타일러: "세 번째 줄"이래요, 박사님이 누구 죽이겠는데요.
 
-029. GLORIA: That was me, because I called the clerk on Thursday, and I'm not sorry.
+029. GLORIA: That was me. I called the clerk on Thursday, and I'm not sorry.
     글로리아: 글로리아: 그거 나야, 목요일에 서기한테 전화했거든. 미안하지 않아.
 
 030. JUDGE: Candidates, please stand, raise your right hand, and repeat after me.
@@ -132,16 +132,16 @@
 039. JUDGE: "And that I take this obligation freely, without any mental reservation or purpose of evasion. So help me God." Congratulations. Please be seated, my fellow citizens.
     판사: "그리고 나는 어떠한 마음의 유보나 회피의 의도 없이 자유로이 이 의무를 받아들입니다. 신이시여 도우소서." 축하합니다. 앉으십시오, 나의 동료 시민 여러분.
 
-040. EARL: Fellow citizens, she said fellow citizens, so I'm going to need a minute.
+040. EARL: Fellow citizens. She said fellow citizens, and I'm going to need a minute.
     얼: 얼: 동료 시민, 동료 시민이라고 했어. 나 잠깐 시간 좀 줘.
 
-041. WEN: You can all stop staring at me, because I know there are forty-three of you.
+041. WEN: You can all stop staring at me. I know there are forty-three of you.
     웬: 웬: 다들 그만 쳐다봐도 돼요, 마흔세 명인 거 알아요.
 
 042. SAM: It's forty-two and Earl twice.
     샘: 샘: 마흔두 명이랑 얼 두 번이에요.
 
-043. WEN: I know, because Patty told me. Can we sit here on this bench for a minute, just you and me, before the pie?
+043. WEN: I know, Patty told me. Can we sit here on this bench for a minute, just you and me, before the pie?
     웬: 웬: 알아요, 패티가 말해 줬어요. 파이 먹기 전에 이 벤치에 대표님이랑 저만 잠깐 앉아도 돼요?
 
 044. SAM: Of course, since everybody else is fighting over Darnell's cooler.
@@ -177,7 +177,7 @@
 054. SAM: And you told me in about forty seconds.
     샘: 그리고 당신은 한 40초 만에 말해 줬죠.
 
-055. WEN: It was twenty-two seconds, because the magnet was cracked, neodymium from China that had been sitting in a cold truck. I told you, "Your motor didn't die. Your supply chain killed it."
+055. WEN: It was twenty-two seconds. The magnet was cracked, neodymium from China that had been sitting in a cold truck. I told you, "Your motor didn't die. Your supply chain killed it."
     웬: 웬: 22초요. 추운 트럭에 실려 있던 중국산 네오디뮴 자석에 금이 가 있었거든요. 제가 "모터가 죽은 게 아니에요. 공급망이 죽인 거예요"라고 했죠.
 
 056. SAM: And then I asked you to lunch.
@@ -195,10 +195,10 @@
 060. SAM: Wen, I read Megan's story, the Sunday one.
     샘: 샘: 웬, 메건의 일요일 기사 읽었어요.
 
-061. WEN: I know you did, because you called me at seven a.m. and said nothing for eleven seconds, and then you said, "Okay," and hung up.
+061. WEN: I know you did. You called me at seven a.m. and said nothing for eleven seconds, and then you said, "Okay," and hung up.
     웬: 웬: 읽은 거 알아요. 아침 일곱 시에 전화해서 11초 동안 아무 말도 안 하다가 "알았어요" 하고 끊었잖아요.
 
-062. SAM: I didn't know what to say, because you never told me.
+062. SAM: I didn't know what to say. You never told me.
     샘: 샘: 무슨 말을 해야 할지 몰랐어요, 나한테 한 번도 말 안 했잖아요.
 
 063. WEN: Because I was ashamed. For seventeen years I told everyone I couldn't go home because of my visa, and that was true, but it wasn't the whole truth.
@@ -207,7 +207,7 @@
 064. SAM: Your mother told you not to come.
     샘: 어머니가 오지 말라고 하셨죠.
 
-065. WEN: She called me from the hospital three days before she died, because she knew. She said, "Xiaowen, don't come. If you come, they might not let you back. Stay. Finish. Build the thing you told me about."
+065. WEN: She called me from the hospital three days before she died. She knew. She said, "Xiaowen, don't come. If you come, they might not let you back. Stay. Finish. Build the thing you told me about."
     웬: 웬: 돌아가시기 사흘 전에 병원에서 전화하셨어요, 알고 계셨던 거예요. "샤오원, 오지 마라. 오면 다시 못 돌아갈지도 몰라. 남아라. 끝내라. 네가 말했던 그거 만들어라" 하셨어요.
 
 066. SAM: She meant the motor.
@@ -225,19 +225,19 @@
 070. SAM: Why were you ashamed, when she told you to stay?
     샘: 샘: 어머니가 남으라고 하셨는데 왜 부끄러웠어요?
 
-071. WEN: Because when she said it, part of me was relieved. I was afraid to go home, afraid I'd never come back, and she knew that, too, so she gave me permission so I wouldn't have to choose.
+071. WEN: Because when she said it, part of me was relieved. I was afraid to go home, afraid I'd never come back, and she knew that, too. She gave me permission so I wouldn't have to choose.
     웬: 웬: 그 말을 들었을 때 제 일부가 안도했으니까요. 집에 가는 게, 다시는 못 돌아올까 봐 무서웠는데, 어머니도 그걸 아셨어요. 그래서 제가 고르지 않아도 되게 허락해 주신 거예요.
 
 072. SAM: Wen, that's not something to be ashamed of, that's a mother.
     샘: 샘: 웬, 그건 부끄러워할 일이 아니에요. 그게 엄마예요.
 
-073. WEN: Erin said the same thing in the hallway at the hospital in February, when your father was in surgery, because I told her first, not Megan.
+073. WEN: Erin said the same thing in the hallway at the hospital in February, when your father was in surgery. I told her first, not Megan.
     웬: 웬: 에린도 2월에 아버님 수술하실 때 병원 복도에서 똑같이 말했어요. 메건 말고 에린한테 먼저 말했거든요.
 
 074. SAM: Erin knew, since February?
     샘: 샘: 에린이 2월부터 알았어요?
 
-075. WEN: Erin knows a lot of things, Sam, but she doesn't tell you, because you'd try to fix them in ten seconds.
+075. WEN: Erin knows a lot of things, Sam. She doesn't tell you, because you'd try to fix them in ten seconds.
     웬: 웬: 에린은 많은 걸 알아요, 대표님. 근데 대표님한테 말 안 하는 건 10초 만에 고치려고 들 테니까요.
 
 076. SAM: That's fair, that's very fair.
@@ -255,7 +255,7 @@
 080. SAM: Do you want me there with you?
     샘: 샘: 내가 옆에 있을까요?
 
-081. WEN: Yes, but in the back seat, quietly, because he'll want to see you. He watched the clip with Chinese subtitles somebody made, but he won't tell me who sent it to him.
+081. WEN: Yes, but in the back seat, quietly. He'll want to see you. He watched the clip with Chinese subtitles somebody made, but he won't tell me who sent it to him.
     웬: 웬: 네, 근데 뒷자리에서 조용히요, 대표님 보고 싶어 하실 테니까. 누가 만든 중국어 자막으로 그 영상 보셨는데, 누가 보내 줬는지는 말 안 하세요.
 
 082. SAM: Is it dangerous for him, watching it?
@@ -279,7 +279,7 @@
 088. LILY: Okay, Wen, then congratulations, Wen.
     릴리: 릴리: 좋아요, 웬, 그럼 축하해요, 웬.
 
-089. WEN: Thank you, and now go away, because I'm calling my father.
+089. WEN: Thank you. Now go away, I'm calling my father.
     웬: 웬: 고마워요. 이제 가요, 아버지한테 전화할 거예요.
 
 090. LILY: I'm going, Wen, I'm going.
@@ -288,13 +288,13 @@
 091. MR. LIU: Xiaowen, can you hear me? Is the camera on? All I can see is a car ceiling.
     리우 선생: 리우 선생: 샤오원, 들리니? 카메라 켜졌니? 자동차 천장만 보이는구나.
 
-092. WEN: I'm here, Baba, and I'm sorry, because I was holding the phone wrong. Can you see me now?
+092. WEN: I'm here, Baba. I'm sorry, I was holding the phone wrong. Can you see me now?
     웬: 웬: 여기 있어요, 아빠. 죄송해요, 폰을 잘못 들고 있었어요. 이제 보여요?
 
 093. MR. LIU: I see you now. You look tired and happy, just like your mother when she was tired and happy.
     리우 선생: 리우 선생: 이제 보인다. 피곤하고 행복해 보이는구나, 네 엄마가 피곤하고 행복할 때처럼.
 
-094. WEN: It's done, Baba, because I said the words, and I'm an American now.
+094. WEN: It's done, Baba. I said the words, and I'm an American now.
     웬: 웬: 끝났어요, 아빠. 그 말 했으니까 이제 미국인이에요.
 
 095. MR. LIU: I know. I was watching the clock, and at ten your time I stood up in the kitchen. Your aunt thought I was going to the bathroom, but I told her I was standing for my daughter.
@@ -369,19 +369,19 @@
 118. MR. LIU: Now, it's midnight and I'm an old man. Go and eat your pie. I know there's pie, because there's always pie in Ohio.
     리우 선생: 리우 선생: 자, 자정이고 난 늙은이다. 가서 파이 먹어라. 파이 있는 거 안다, 오하이오엔 늘 파이가 있잖니.
 
-119. WEN: Pie is not food, Baba, because you said that.
+119. WEN: Pie is not food, Baba. You said that yourself.
     웬: 웬: 파이는 음식이 아니라고 하셨잖아요, 아빠.
 
 120. MR. LIU: Today it is food, so eat two pieces. See it through, Xiaowen, and you did. Goodnight, Mr. Kowalski, and take care of my daughter. No, she takes care of herself. Take care of her motors.
     리우 선생: 리우 선생: 오늘은 음식이니까 두 조각 먹어라. 끝까지 해내라, 샤오원. 해냈구나. 잘 자요, 코왈스키 씨, 내 딸 잘 부탁해요. 아니, 그 애는 자기가 알아서 하지. 그 애 모터나 잘 부탁해요.
 
-121. DONNA: Okay, everybody, sit down, because nobody touches this pie until the citizen cuts it. Wen, honey, that's you, so here's the knife.
+121. DONNA: Okay, everybody, sit down. Nobody touches this pie until the citizen cuts it. Wen, honey, that's you, so here's the knife.
     도나: 도나: 자, 다들 앉아. 시민이 자르기 전엔 아무도 이 파이 건드리지 마. 웬, 얘, 그게 너야, 칼 여기 있어.
 
 122. WEN: What is it, Donna?
     웬: 웬: 이게 뭐예요, 도나?
 
-123. DONNA: It's strawberries, blueberries, and coconut cream for red, white, and blue, and the crust has a little star on it, because Patty helped, and she stars everything she loves.
+123. DONNA: It's strawberries, blueberries, and coconut cream for red, white, and blue. The crust has a little star on it, because Patty helped, and she stars everything she loves.
     도나: 도나: 빨강, 하양, 파랑으로 딸기, 블루베리, 코코넛 크림이야. 크러스트엔 작은 별이 있는데, 패티가 도왔거든. 패티는 좋아하는 거엔 다 별을 그리잖아.
 
 124. PATTY: It's a little crooked, like Jayden's "i."
@@ -390,7 +390,7 @@
 125. JAYDEN: That's never going away, is it?
     제이든: 그거 평생 가는 거죠?
 
-126. EARL: Never, son, because that's what a factory is. Everybody remembers your worst day forever, and they love you anyway.
+126. EARL: Never, son. That's what a factory is. Everybody remembers your worst day forever, and they love you anyway.
     얼: 얼: 평생이지, 젊은이, 공장이 원래 그래. 다들 네 최악의 날을 영원히 기억하는데, 그래도 널 아껴.
 
 127. GLORIA: Wen, before you cut it, I have something for you from the mail, which came to the plant on Friday with a Washington postmark.
@@ -399,7 +399,7 @@
 128. WEN: Who is it from?
     웬: 웬: 누구한테서요?
 
-129. GLORIA: Read it out loud, honey, because we all want to know.
+129. GLORIA: Read it out loud, honey. We all want to know.
     글로리아: 글로리아: 소리 내서 읽어, 얘, 다들 궁금해해.
 
 130. WEN: It's a card. "Dr. Liu. Welcome to the country. I'm sorry it took us so long to say it. With respect, Senator Thomas Crandall. P.S. I read the footnote."
@@ -423,22 +423,22 @@
 136. WEN: Thank you, Sam, that's enough. Okay, I'm cutting the pie, with two pieces for me, on my father's orders.
     웬: 웬: 고마워요, 대표님, 그만해요. 좋아요, 파이 자를게요. 아버지 명령이니까 저는 두 조각이요.
 
-137. ERIN: Wen, one more thing before everybody eats, which is that you get to vote now, in November, for the first time.
+137. ERIN: Wen, one more thing before everybody eats. You get to vote now, in November, for the first time.
     에린: 에린: 웬, 다들 먹기 전에 하나만 더. 이제 11월에 처음으로 투표할 수 있어.
 
 138. WEN: I know, and I've already studied the whole ballot, both sides, and I disagree with everyone a little.
     웬: 웬: 알아요, 벌써 투표용지 전부 양쪽 다 공부했어요. 모두하고 조금씩 의견이 달라요.
 
-139. TYLER: Welcome to America, Wen, because that's the most American thing you've ever said.
+139. TYLER: Welcome to America, Wen. That's the most American thing you've ever said.
     타일러: 타일러: 미국에 온 걸 환영해요, 박사님. 박사님이 한 말 중에 제일 미국적인 말이에요.
 
 140. EARL: And on Monday you get a new badge, the one that opens the room.
     얼: 얼: 그리고 월요일엔 그 방 여는 새 출입증 받지.
 
-141. WEN: Linda called on Friday to say the access starts on Monday at seven, and Marcus says he's going to show me page forty-one of my own plan, so I can see what I wasn't allowed to see.
+141. WEN: Linda called on Friday to say the access starts on Monday at seven. Marcus says he's going to show me page forty-one of my own plan, so I can see what I wasn't allowed to see.
     웬: 웬: 린다가 금요일에 전화해서 접근 권한은 월요일 7시부터래요. 마커스가 제가 못 보게 돼 있던 걸 볼 수 있게 제 계획서 41쪽을 보여 주겠대요.
 
-142. STAN: Two bike mechanics from Dayton, and now one physicist from Shenzhen, so somebody raise a glass.
+142. STAN: Two bike mechanics from Dayton, and now one physicist from Shenzhen. Somebody raise a glass.
     스탠: 스탠: 데이턴의 자전거 정비공 둘, 그리고 이제 선전에서 온 물리학자 하나. 누가 잔 좀 들어라.
 
 143. EARL: To Dr. Wen Liu, American citizen, and still the smartest person in every room she walks into.

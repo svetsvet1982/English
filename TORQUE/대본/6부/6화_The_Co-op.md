@@ -39,7 +39,7 @@
 008. TYLER: Can I keep just one slide with the picture of the motor?
     타일러: 모터 사진 한 장만 남겨도 돼요?
 
-009. RUTH: You can keep the motor, but bring the real one. Farmers like to touch things.
+009. RUTH: You can keep the motor, but bring the real one, because farmers like to touch things.
     루스: 모터는 가져가요. 대신 진짜 걸로요. 농부들은 만지는 걸 좋아하거든요.
 
 010. SAM: Earl shipped it overnight, and it's in the truck.
@@ -102,7 +102,7 @@
 029. SAM: You took it off yourself, in the dark, in March?
     샘: 3월에 깜깜할 때 직접 떼어 내셨어요?
 
-030. DALE: I took it off last night, and it took me forty minutes and two cups of coffee. The bearing's shot, but look at the label.
+030. DALE: I took it off last night, and it took me forty minutes and two cups of coffee. The bearing's completely shot, but look at the label.
     데일: 어젯밤에 40분이랑 커피 두 잔 걸려서 뗐어요. 베어링은 완전히 갔는데, 라벨 좀 봐요.
 
 031. TYLER: "Made in China." And under that, a sticker from a company in Mexico.
@@ -132,13 +132,13 @@
 039. SAM: She's our second test stand, Old Betsy's little sister, and Earl named her.
     샘: 우리 두 번째 시험대요. 올드 베치 여동생인데, 얼이 이름 붙였어요.
 
-040. KURT: They're ready for you now. Good luck, and don't mention fertilizer.
+040. KURT: They're ready for you now. Good luck in there, and whatever you do, don't mention fertilizer.
     커트: 들어오시래요. 행운을 빌고, 비료 얘기는 꺼내지 마세요.
 
 041. GENE: Come in and sit, Ohio. You've got twenty minutes, and we've already used up our patience on nitrogen.
     진: 들어와서 앉아, 오하이오. 20분 줄게. 우린 질소 비료 얘기로 인내심을 이미 다 썼거든.
 
-042. SAM: Thank you, Mr. Ostrander, and thank you all. I'll keep it quick.
+042. SAM: Thank you, Mr. Ostrander, and thank you all, and I'll keep it quick.
     샘: 감사합니다, 오스트랜더 씨. 모두 감사드리고, 짧게 할게요.
 
 043. TINA: Hi, Sam, I'm new on the board since I was elected in January, so I'm the one who still asks dumb questions.
@@ -159,7 +159,7 @@
 048. SAM: Ours fits the same bolts and the same shaft, so Dale can swap it in forty minutes. It uses about twelve percent less electricity, and it's sealed, so dust and moisture stay out.
     샘: 우리 건 같은 볼트, 같은 축에 맞아서 데일 씨가 40분이면 바꿀 수 있어요. 전기는 12퍼센트쯤 덜 쓰고, 밀봉돼 있어서 먼지랑 습기가 안 들어가요.
 
-049. TINA: Twelve percent less electricity? How much is that in dollars?
+049. TINA: Twelve percent less electricity? How much is that in actual dollars?
     티나: 전기 12퍼센트 절약이요. 돈으로 치면 얼마예요?
 
 050. SAM: For a fan that runs most of the winter, it's about a hundred and forty dollars a year per fan.
@@ -375,7 +375,7 @@
 120. SAM: Let me call my CFO. She'll yell at me, but she'll be fair.
     샘: 우리 CFO한테 전화해 볼게요. 소리는 지르겠지만 공정할 거예요.
 
-121. GLORIA: Sixty motors to a co-op? Who pays for them, and when?
+121. GLORIA: Sixty motors to a co-op? Who pays for them, and when do they pay?
     글로리아: 협동조합에 모터 예순 개? 누가 언제 내는데?
 
 122. KURT: The co-op pays thirty days after delivery, and we've never missed a payment in sixty years.

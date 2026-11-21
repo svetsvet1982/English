@@ -42,7 +42,7 @@
 009. EARL: You had a memo about our coffee machine?
     얼: 얼: 우리 커피 머신에 대한 메모가 있었다고?
 
-010. VICTORIA: I had a memo about everything, Earl, because that was my job. I'd like to have a different job now.
+010. VICTORIA: I had a memo about everything, Earl. That was my job, and I'd like to have a different job now.
     빅토리아: 빅토리아: 모든 것에 대한 메모가 있었어요, 얼, 그게 제 일이었으니까요. 이제는 다른 일을 하고 싶어요.
 
 011. GLORIA: Sit down, Victoria. On Friday Sam told us you left Calloway and want to work with us for six months as an advisor. Is that right?
@@ -237,7 +237,7 @@
 074. EARL: Huh, that's actually useful.
     얼: 얼: 허, 그거 진짜 쓸모 있네.
 
-075. VICTORIA: Write it down, Earl, because that's one thing I was right about. I'll still owe Wen one thing I was wrong about.
+075. VICTORIA: Write it down, Earl. That's one thing I was right about. I'll still owe Wen one thing I was wrong about.
     빅토리아: 빅토리아: 적어 둬요, 얼. 그건 제가 맞았던 거 하나예요. 웬한텐 여전히 틀렸던 거 하나 빚졌고요.
 
 076. LILY: Grandpa, what's that hole in the fence?
@@ -291,7 +291,7 @@
 092. DOBBINS: That's downtown Moraine, all two blocks of it.
     도빈스: 도빈스: 모레인 시내죠, 두 블록 전부요.
 
-093. MARLA: I'll get right to it. We know you've looked at four sites, and we'd like you to pick the north lot, so here's what Ohio can offer.
+093. MARLA: I'll get right to it. We know you've looked at four sites, and we'd like you to pick the north lot. Here's what Ohio can offer.
     말라: 말라: 바로 본론으로 갈게요. 부지 네 곳을 보신 거 알아요. 북쪽 부지를 골라 주셨으면 하는데, 오하이오가 드릴 수 있는 건 이래요.
 
 094. MARLA: There's a job creation tax credit worth about four million over seven years, based on new payroll, and a workforce training grant of one point five million. And the city and county would offer a property tax abatement.
@@ -378,7 +378,7 @@
 121. MARLA: So that's a proportional clawback, a seventy-five percent abatement for fifteen years, training through Sinclair, a rail fund request, and the lot at one point four. Do we have a deal?
     말라: 말라: 그러니까 비례 환수, 15년간 75퍼센트 감면, 싱클레어를 통한 훈련, 철도 기금 요청, 그리고 부지는 140만. 합의된 건가요?
 
-122. DOBBINS: One more thing, because the city wants something, and it's not money. It's the groundbreaking, which we'd like on a weekday, so the schools can bring kids.
+122. DOBBINS: One more thing. The city wants something, and it's not money. It's the groundbreaking, which we'd like on a weekday, so the schools can bring kids.
     도빈스: 도빈스: 하나 더요. 시가 원하는 게 있는데, 돈은 아니에요. 착공식이요. 학교에서 아이들을 데려올 수 있게 평일에 했으면 해요.
 
 123. STAN: And the fence. Leave the hole, and put a gate there with a sign.
@@ -393,16 +393,16 @@
 126. SAM: Then we have a deal, pending the paper. Ben will hate me for saying yes before he reads it.
     샘: 샘: 그럼 합의예요, 서류는 남았지만요. 벤이 읽기 전에 좋다고 했다고 날 미워할 거예요.
 
-127. BEN: I already hate you, because I was listening. It's a good deal, and proportional was smart. Who thought of that?
+127. BEN: I already hate you. I was listening. It's a good deal, and proportional was smart. Who thought of that?
     벤: 벤: 벌써 미워, 듣고 있었거든. 좋은 거래고, 비례 방식은 똑똑했어. 누구 생각이야?
 
 128. VICTORIA: That was me, Ben.
     빅토리아: 빅토리아: 저예요, 벤.
 
-129. BEN: Of course it was, so welcome to the side with the loose step.
+129. BEN: Of course it was. Welcome to the side with the loose step.
     벤: 벤: 그럴 줄 알았어요. 헐거운 계단 있는 편에 온 걸 환영해요.
 
-130. ERIN: You're sitting on the porch steps in the dark, which is new, because it used to be the backyard.
+130. ERIN: You're sitting on the porch steps in the dark. That's new. It used to be the backyard.
     에린: 에린: 어두운 데서 현관 계단에 앉아 있네. 그건 새롭다, 원래는 뒷마당이었잖아.
 
 131. SAM: I'm moving up in the world.
@@ -426,7 +426,7 @@
 137. SAM: Wen says it's not a circle, it's a spiral, where you come back to the same place, but higher up.
     샘: 샘: 웬은 원이 아니라 나선이래. 같은 자리로 돌아오는데, 더 높은 데로.
 
-138. ERIN: Wen's usually right. Come inside, because it's almost ten, and you said you'd be in bed by ten on Mondays.
+138. ERIN: Wen's usually right. Come inside, it's almost ten, and you said you'd be in bed by ten on Mondays.
     에린: 에린: 웬 말이 보통 맞지. 들어와, 거의 열 시야. 월요일엔 열 시에 잔다며.
 
 139. SAM: Hang on, that's my phone. It's Min-jun, calling from Korea, where it's eleven in the morning.
@@ -459,7 +459,7 @@
 148. MINJUN: It's Gary's line, and Frank stole it first. Sam, Mr. Park wants you to come to Ulsan in August, and he says, "Bring Wen. And bring your passport. I know you don't have one."
     민준: 민준: 개리 대사죠, 프랭크가 먼저 훔쳤어요. 샘, 박 대표님이 8월에 울산에 오시래요. "웬이랑 같이 와. 그리고 여권 챙기고. 없는 거 알아" 하셨어요.
 
-149. SAM: I don't have a passport, so how does he know that?
+149. SAM: I don't have a passport. How does he know that?
     샘: 샘: 나 여권 없는데, 그걸 어떻게 아세요?
 
 150. MINJUN: Everybody knows that, Sam. Get a passport. Ships, Sam. Let's build ships.

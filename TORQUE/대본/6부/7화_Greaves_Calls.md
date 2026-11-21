@@ -120,7 +120,7 @@
 035. NEIL: Happy tears, I hope.
     닐: 기쁨의 눈물이길 바라요.
 
-036. SAM: And what about the conditions, since there are always conditions with numbers like that?
+036. SAM: And what about the conditions? There are always conditions with numbers like that.
     샘: 그럼 조건은요? 그런 숫자엔 늘 조건이 붙잖아요.
 
 037. NEIL: There are a few, but let's get lunch first. You'll want to be sitting down and fed.
@@ -150,7 +150,7 @@
 045. NEIL: That's sixty fan motors, I believe, and it's a nice pilot. But we'd ask you to step back from selling directly to farmers. You'd sell through us, and our dealers would carry your motors.
     닐: 팬 모터 예순 개였죠. 좋은 시범 구매예요. 근데 농부한테 직접 파는 건 그만두고 저희를 통해 파셨으면 해요. 저희 딜러들이 그쪽 모터를 취급하는 거죠.
 
-046. SAM: And under whose name, ours or yours?
+046. SAM: And under whose name would we sell it, ours or yours?
     샘: 누구 이름으로요? 우리 거, 아니면 그쪽 거?
 
 047. NEIL: That's condition two, white label. The motor says Greaves on it, and your name is in the paperwork, not on the product.
@@ -168,13 +168,13 @@
 051. NEIL: Condition three is the important one, the firmware. Your motor controller would talk only to our tractor's computer and our dealer service software. The fault codes are encrypted, we sign the firmware updates, and the dealer pairs any replacement motor.
     닐: 세 번째가 중요한 펌웨어예요. 그쪽 모터 제어기는 저희 트랙터 컴퓨터와 딜러 서비스 소프트웨어하고만 통신하고, 고장 코드는 암호화하고, 펌웨어 업데이트는 저희가 서명하고, 교체 모터는 딜러가 페어링하는 거죠.
 
-052. SAM: Paired by the dealer, just like Dale's sensor.
+052. SAM: Paired by the dealer, just like Dale's sensor was.
     샘: 딜러가 페어링한다니, 데일 센서처럼요.
 
 053. NEIL: Like every part on every modern machine. It's a closed system for a reason.
     닐: 모든 현대 기계의 모든 부품처럼요. 닫힌 시스템인 데는 이유가 있어요.
 
-054. SAM: Then tell me the reason, the real one.
+054. SAM: Then tell me the reason, and I mean the real one.
     샘: 그럼 그 이유를 말해 주세요. 진짜 이유요.
 
 055. NEIL: The official reasons are safety, emissions, and quality. A farmer who installs the wrong motor on a planter can damage a sixty-thousand-dollar machine and blame us. Those are real.
@@ -303,7 +303,7 @@
 096. TYLER: That's twelve million dollars, Sam, twelve.
     타일러: 1,200만 달러예요, 샘. 1,200만.
 
-097. SAM: I heard the number, Tyler, since I was in the room.
+097. SAM: I heard the number, Tyler, because I was in the room.
     샘: 숫자 들었어, 타일러. 나도 그 방에 있었잖아.
 
 098. TYLER: You were in the room with your arms crossed. You had your "no" face on from the moment he said "paired by the dealer."
