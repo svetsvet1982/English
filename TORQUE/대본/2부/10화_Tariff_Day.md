@@ -15,28 +15,28 @@
 
 ## 대본
 
-001. TYLER: Everybody, it's starting, so somebody turn it up, and, Patty, you're closest to the remote!
+001. TYLER: Everybody, it's starting! Somebody turn it up. Patty, you're closest to the remote!
     타일러: 다들, 시작해요! 누가 소리 좀 키워 줘요. 패티, 리모컨 제일 가까이 있잖아요!
 
-002. PATTY: I'm turning it up, so calm down, Tyler, because it's a speech, not the Super Bowl.
+002. PATTY: I'm turning it up, so calm down, Tyler. It's a speech, not the Super Bowl.
     패티: 키우고 있어. 진정해, 타일러. 연설이지 슈퍼볼이 아니잖아.
 
-003. TYLER: Today it's bigger than the Super Bowl, because my whole retirement account is watching this.
+003. TYLER: Today it's bigger than the Super Bowl. My whole retirement account is watching this.
     타일러: 오늘은 슈퍼볼보다 커요. 제 퇴직연금 계좌 전체가 이걸 보고 있다고요.
 
 004. EARL: Quiet, he's at the podium, and they're calling it "Liberation Day."
     얼: 조용. 연단에 섰다. '해방의 날'이라고 부르네.
 
-005. GLORIA: I said no politics before seven a.m., and it's four in the afternoon, so I'll allow it, but nobody throws anything at my four-hundred-dollar TV.
+005. GLORIA: I said no politics before seven a.m., and it's four in the afternoon, so I'll allow it. But nobody throws anything at my four-hundred-dollar TV.
     글로리아: 아침 일곱 시 전엔 정치 얘기 금지라고 했지. 지금 오후 네 시니까 허락할게. 근데 아무도 내 400달러짜리 TV에 뭐 던지지 마.
 
-006. DARNELL: Nobody's throwing anything, Gloria, because it's the same rules as Inauguration Day.
+006. DARNELL: Nobody's throwing anything, Gloria. It's the same rules as Inauguration Day.
     대넬: 아무도 안 던져요, 글로리아. 취임식 날이랑 같은 규칙이에요.
 
 007. WEN: He's holding up a big chart that goes country by country, with two columns of numbers.
     웬: 나라별로 숫자가 두 줄로 된 큰 표를 들고 있어요.
 
-008. SAM: Read it, Wen, since you have better eyes than all of us.
+008. SAM: Read it, Wen. You have better eyes than all of us.
     샘: 읽어 줘요, 웬. 우리 중에 눈이 제일 좋잖아요.
 
 009. WEN: First, there's a ten percent tariff on everything from every country, starting this Saturday, and that's the baseline.
@@ -54,13 +54,13 @@
 013. WEN: Vietnam is forty-six, Thailand thirty-six, Japan twenty-four, Europe twenty, and South Korea twenty-five.
     웬: 베트남 46, 태국 36, 일본 24, 유럽 20, 한국 25요.
 
-014. SAM: Korea is twenty-five, so what does that do to Daesung?
+014. SAM: Korea is twenty-five. What does that do to Daesung?
     샘: 한국이 25면, 대성은 어떻게 되는 거예요?
 
-015. WEN: I don't know yet, so I'll text Minjun, and it's five in the morning in Ulsan, so he's probably already at his desk.
+015. WEN: I don't know yet, so I'll text Minjun. It's five in the morning in Ulsan, so he's probably already at his desk.
     웬: 아직 몰라요. 민준 씨한테 문자할게요. 울산은 새벽 다섯 시니까 아마 벌써 책상에 앉아 있을 거예요.
 
-016. EARL: He keeps saying "reciprocal," and what does that even mean, because I hear it, but I don't get it?
+016. EARL: He keeps saying "reciprocal." What does that even mean? I hear it, but I don't get it.
     얼: 자꾸 '상호'라고 하네. 그게 대체 무슨 뜻이야? 듣긴 하는데 모르겠어.
 
 017. GLORIA: In plain English, reciprocal means "you do it to me, I do it to you," so the idea is that if another country charges a tax on American products, we charge one on theirs. Tit for tat.
@@ -69,10 +69,10 @@
 018. EARL: Tit for tat, okay, now that I understand.
     얼: 받은 대로 돌려주기라, 좋아. 그건 이해하지.
 
-019. WEN: But the numbers aren't only about tariffs, because they seem to be based on trade deficits, how much more we buy from them than they buy from us, and economists are going to argue about this for years.
+019. WEN: But the numbers aren't only about tariffs. They seem to be based on trade deficits, how much more we buy from them than they buy from us, and economists are going to argue about this for years.
     웬: 근데 그 숫자가 관세만 보고 정한 게 아니에요. 우리가 그 나라에서 사는 게 그 나라가 우리한테서 사는 것보다 얼마나 많으냐, 무역 적자를 기준으로 한 것 같아요. 경제학자들이 몇 년은 싸우겠네요.
 
-020. DARNELL: Let them argue, because somebody finally did something, and for thirty years everybody said our factories were leaving, and nobody did anything.
+020. DARNELL: Let them argue. Somebody finally did something. For thirty years everybody said our factories were leaving, and nobody did anything.
     대넬: 싸우라고 해요. 드디어 누가 뭔가를 했잖아요. 30년 동안 다들 공장이 떠난다고만 하고 아무도 아무것도 안 했어요.
 
 021. PATTY: Darnell, what about prices, for shoes, phones, and my kids' school clothes? Somebody pays for this, and it's me.
@@ -84,22 +84,22 @@
 023. PATTY: Factories take years to build, while my grocery bill comes every week.
     패티: 공장 짓는 데는 몇 년 걸리는데, 내 장바구니 값은 매주 나가.
 
-024. TYLER: Guys, look at my phone, because the stock market closed right before the speech, but the futures are falling hard, down three or four percent.
+024. TYLER: Guys, look at my phone. The stock market closed right before the speech, but the futures are falling hard, down three or four percent.
     타일러: 다들, 제 폰 좀 봐요. 증시는 연설 직전에 마감했는데, 선물이 3퍼센트, 4퍼센트씩 세게 떨어지고 있어요.
 
 025. SAM: Futures? In plain English, Tyler.
     샘: 선물? 쉬운 말로, 타일러.
 
-026. TYLER: It's a bet on what the market will do tomorrow morning, and right now everybody's betting it crashes. My 401(k), I just checked, so don't look at me.
+026. TYLER: It's a bet on what the market will do tomorrow morning, and right now everybody's betting it crashes. My 401(k), I just checked. Don't look at me.
     타일러: 내일 아침에 시장이 어떻게 될지에 대한 베팅인데, 지금은 다들 폭락에 걸고 있어요. 내 401(k)! 방금 확인했어요, 나 쳐다보지 마요.
 
-027. EARL: You're twenty-nine, so you'll be fine, because you have forty years to get it back.
+027. EARL: You're twenty-nine, you'll be fine. You have forty years to get it back.
     얼: 넌 스물아홉이야. 괜찮아. 되찾을 시간이 40년이나 있어.
 
 028. TYLER: I don't want to get it back, I want to keep it.
     타일러: 되찾고 싶은 게 아니라 지키고 싶은 거예요.
 
-029. SAM: Okay, everybody, listen, because whatever you think about this, it changes things for us and for Haverford, so I need to make some calls.
+029. SAM: Okay, everybody, listen. Whatever you think about this, it changes things for us and for Haverford, and I need to make some calls.
     샘: 자, 다들 들어 봐. 이걸 어떻게 생각하든 우리한테도, 해버퍼드한테도 변화가 생겨. 나 전화 좀 돌려야 해.
 
 030. WEN: Minjun texted, and he says, "Our stacks are steel. Steel already has its own twenty-five percent tariff, so the new Korea number doesn't add on top. For now."
@@ -111,7 +111,7 @@
 032. SAM: So our steel doesn't get worse, which is good news, the first good news today.
     샘: 그럼 우리 강판은 더 나빠지진 않네요. 오늘 첫 좋은 소식이에요.
 
-033. WEN: Our ferrite magnets from Japan will get twenty-four percent, but the ones from Indiana won't, and our copper from Chile gets ten, so everything moves a little.
+033. WEN: Our ferrite magnets from Japan will get twenty-four percent, but the ones from Indiana won't, and our copper from Chile gets ten. Everything moves a little.
     웬: 일본에서 오는 페라이트 자석은 24퍼센트가 붙지만 인디애나 건 안 붙고, 칠레 구리는 10이에요. 다 조금씩 움직여요.
 
 034. GLORIA: I'll run it tonight, but I already know it's going to be ugly.
@@ -123,13 +123,13 @@
 036. SAM: It's Gary, of course it's Gary, and I don't think he's calling to say congratulations.
     샘: 개리예요, 당연히 개리지. 축하한다고 전화한 건 아닐 것 같네요.
 
-037. GLORIA: Take it in your office and put him on speaker, because I want to hear his voice when he's scared.
+037. GLORIA: Take it in your office and put him on speaker. I want to hear his voice when he's scared.
     글로리아: 사무실에서 받고 스피커로 해. 겁먹었을 때 목소리 좀 들어 보게.
 
 038. SAM: That's cold, Gloria.
     샘: 차갑네요, 글로리아.
 
-039. GLORIA: It's not cold, it's information, because scared people tell the truth.
+039. GLORIA: It's not cold, it's information. Scared people tell the truth.
     글로리아: 차가운 거 아니야, 정보야. 겁먹은 사람은 진실을 말하거든.
 
 040. SAM: Gary, I'm here, and you're on speaker with Gloria.
@@ -141,28 +141,28 @@
 042. SAM: We saw it, and the whole break room saw it.
     샘: 봤어요. 휴게실 전체가 봤어요.
 
-043. GARY: My compressors come from China, so that's thirty-four percent more on top of the twenty, my control boards come from Vietnam at forty-six, and my hinges from Thailand at thirty-six. Sam, I'm not a washing machine company anymore, I'm a tariff company.
+043. GARY: My compressors come from China, so that's thirty-four percent more on top of the twenty. My control boards come from Vietnam at forty-six, and my hinges from Thailand at thirty-six. Sam, I'm not a washing machine company anymore, I'm a tariff company.
     개리: 압축기가 중국에서 오니까 20퍼센트 위에 34퍼센트 더, 제어 기판은 베트남이라 46, 경첩은 태국이라 36이에요. 샘, 우린 이제 세탁기 회사가 아니라 관세 회사예요.
 
 044. GLORIA: Breathe, Gary, just breathe.
     글로리아: 숨 쉬어요, 개리. 그냥 숨 쉬어요.
 
-045. GARY: I'm breathing, into a paper bag, Gloria, because my CEO just called an emergency meeting for six o'clock, and I have twenty minutes.
+045. GARY: I'm breathing, into a paper bag, Gloria. My CEO just called an emergency meeting for six o'clock, and I have twenty minutes.
     개리: 쉬고 있어요, 종이봉투에 대고요, 글로리아. CEO가 방금 여섯 시에 긴급회의를 소집해서 20분 남았어요.
 
 046. SAM: Okay, slow down, and tell me what you need from us before six o'clock.
     샘: 알겠어요, 천천히요. 여섯 시 전에 우리한테 뭐가 필요한지 말해 봐요.
 
-047. GARY: I need to tell you something before the meeting, because after the meeting I might not be allowed to: my CEO is leaning toward the other bid, the cheaper one.
+047. GARY: I need to tell you something before the meeting, because after the meeting I might not be allowed to. My CEO is leaning toward the other bid, the cheaper one.
     개리: 회의 전에 말해 둘 게 있어요. 회의 끝나면 말 못 하게 될 수도 있으니까요. CEO가 다른 입찰, 싼 쪽으로 기울고 있어요.
 
 048. SAM: You mean Calloway.
     샘: 캘러웨이 말이군요.
 
-049. GARY: I'm still not saying the name, but yes, forty-nine, because when every cost goes up, he wants the cheapest motor. He said it this morning: "In a storm, you don't buy the nicest umbrella. You buy the one that's on sale."
+049. GARY: I'm still not saying the name, but yes, forty-nine. When every cost goes up, he wants the cheapest motor. He said it this morning: "In a storm, you don't buy the nicest umbrella. You buy the one that's on sale."
     개리: 이름은 여전히 안 말할 거예요. 근데 네, 49달러. 다른 원가가 다 오를 땐 찾을 수 있는 제일 싼 모터를 원하세요. 오늘 아침에 그러셨어요. "폭풍이 올 땐 제일 좋은 우산을 사는 게 아니라 세일하는 걸 산다."
 
-050. GLORIA: Gary, the other bid uses magnets from China, which just got fifty-four percent, so how can they still be at forty-nine?
+050. GLORIA: Gary, the other bid uses magnets from China, which just got fifty-four percent. How can they still be at forty-nine?
     글로리아: 개리, 다른 입찰은 방금 54퍼센트가 된 중국산 자석을 써요. 어떻게 아직도 49달러예요?
 
 051. GARY: They called me an hour ago, before the speech, and said, "Whatever happens today, we'll hold forty-nine. We'll eat the tariff."
@@ -171,7 +171,7 @@
 052. SAM: Eat the tariff? They'd lose even more money on every motor.
     샘: 관세를 떠안는다고요? 그럼 모터마다 손해가 더 커질 텐데요.
 
-053. GARY: They don't care, Sam, because they want this contract very badly, and they called it "strategic." When a company that size uses the word "strategic," it means they've already decided to lose money.
+053. GARY: They don't care, Sam. They want this contract very badly, and they called it "strategic." When a company that size uses the word "strategic," it means they've already decided to lose money.
     개리: 상관 안 해요, 샘. 이 계약을 아주 간절하게 원하고, '전략적'이라고 하더라고요. 그 정도 큰 회사가 '전략적'이라는 단어를 쓰면, 손해 볼 각오를 이미 했다는 뜻이에요.
 
 054. GLORIA: So they'll lose money to make sure we don't get it.
@@ -183,13 +183,13 @@
 056. SAM: Gary, can I say something as a friend, not a supplier?
     샘: 개리, 공급사 말고 친구로서 하나 말해도 돼요?
 
-057. GARY: Go ahead, but I have eighteen minutes, so say it fast.
+057. GARY: Go ahead, but I have eighteen minutes. Say it fast.
     개리: 하세요. 18분 남았으니까 빨리 말해요.
 
-058. SAM: Their motor depends on magnets from China, and today Washington put fifty-four percent on China, so what do you think China does tomorrow, or Friday?
+058. SAM: Their motor depends on magnets from China, and today Washington put fifty-four percent on China. What do you think China does tomorrow, or Friday?
     샘: 그쪽 모터는 중국산 자석에 기대는데, 오늘 워싱턴이 중국에 54퍼센트를 매겼어요. 중국이 내일, 아니면 금요일에 뭘 할 것 같아요?
 
-059. GARY: They'll hit back, because everybody hits back.
+059. GARY: They'll hit back. Everybody hits back.
     개리: 맞받아치겠죠. 다들 그러니까.
 
 060. SAM: And what's the one thing China has that everybody needs, and nobody else has?
@@ -198,40 +198,40 @@
 061. GARY: You're talking about rare earths again, your doctor's theory.
     개리: 또 희토류 얘기네요, 그 박사님 이론.
 
-062. SAM: It's not a theory, because in December it was gallium, and in February five more metals, so every time they get hit, they answer with something we can't make. Gary, if they stop the magnets, the cheap motor is a motor with no magnets.
+062. SAM: It's not a theory. In December it was gallium, and in February five more metals. Every time they get hit, they answer with something we can't make. Gary, if they stop the magnets, the cheap motor is a motor with no magnets.
     샘: 이론이 아니에요. 12월엔 갈륨, 2월엔 금속 다섯 개 더. 맞을 때마다 우리가 못 만드는 걸로 받아쳐요. 개리, 그쪽이 자석을 막으면 싼 모터는 자석 없는 모터가 돼요.
 
 063. GARY: And if they don't, if China just answers with more tariffs, like always?
     개리: 안 막으면요? 중국이 늘 그랬듯이 그냥 관세로만 받아치면요?
 
-064. SAM: Then you saved five dollars a motor, and you bought it from a company that's losing money on purpose to put me out of business, so what happens to your price after I'm gone?
+064. SAM: Then you saved five dollars a motor, and you bought it from a company that's losing money on purpose to put me out of business. What happens to your price after I'm gone?
     샘: 그럼 모터 하나에 5달러 아낀 거고, 절 망하게 하려고 일부러 손해 보는 회사한테서 산 거죠. 제가 없어지고 나면 그쪽 가격은 어떻게 될 것 같아요?
 
 065. GARY: It goes up, I suppose.
     개리: 오르겠죠, 아마.
 
-066. SAM: It goes up, because when there's only one bidder, there's no bidding.
+066. SAM: It goes up. When there's only one bidder, there's no bidding.
     샘: 오르죠. 입찰자가 하나뿐이면 입찰이라는 게 없으니까요.
 
-067. GLORIA: You know that, Gary, because you've been in purchasing for twenty-six years.
+067. GLORIA: You know that, Gary. You've been in purchasing for twenty-six years.
     글로리아: 알잖아요, 개리. 구매 일만 26년 했잖아요.
 
-068. GARY: I know that, and my CEO knows that too, but my CEO has a board meeting next week and a stock price that just fell off a cliff, so he's not thinking about two years from now, he's thinking about Monday.
+068. GARY: I know that, and my CEO knows that too. But my CEO has a board meeting next week and a stock price that just fell off a cliff. He's not thinking about two years from now, he's thinking about Monday.
     개리: 알아요, 우리 CEO도 알고요. 근데 그분은 다음 주에 이사회가 있고 주가는 방금 절벽에서 떨어졌어요. 2년 뒤가 아니라 월요일을 생각하는 거죠.
 
 069. SAM: So honestly, what are you asking me, Gary?
     샘: 그래서 솔직히 저한테 원하는 게 뭐예요, 개리?
 
-070. GARY: I'm asking if you can do fifty dollars, because if you can do fifty, I can walk into that meeting and fight for you on quality, noise, and made in Ohio, and I'll fight.
+070. GARY: I'm asking if you can do fifty dollars. If you can do fifty, I can walk into that meeting and fight for you on quality, noise, and made in Ohio, and I'll fight.
     개리: 50달러 가능한지 묻는 거예요. 50이 되면 그 회의에 들어가서 품질, 소음, 메이드 인 오하이오로 당신 편에서 싸울 수 있어요. 싸울게요.
 
-071. GLORIA: Our cost is fifty-six, Gary, so fifty is six dollars under water, and on two hundred thousand motors, that's one point two million dollars a year, so we'd be dead by Christmas.
+071. GLORIA: Our cost is fifty-six, Gary, so fifty is six dollars under water. On two hundred thousand motors, that's one point two million dollars a year, and we'd be dead by Christmas.
     글로리아: 우리 원가가 56달러예요, 개리. 50이면 6달러 물속이에요. 모터 20만 개면 1년에 120만 달러니까 크리스마스 전에 죽어요.
 
 072. GARY: Then I don't know how to help you.
     개리: 그럼 어떻게 도와야 할지 모르겠네요.
 
-073. SAM: Gary, I'm not dropping to fifty or to fifty-two, because my price is sixty-one, and I'm going to stay at sixty-one, not because I'm proud, but because that's the price where we stay alive.
+073. SAM: Gary, I'm not dropping to fifty or to fifty-two. My price is sixty-one, and I'm going to stay at sixty-one. Not because I'm proud, but because that's the price where we stay alive.
     샘: 개리, 50으로도 52로도 안 내려요. 제 가격은 61달러고, 61에 머물 거예요. 자존심 때문이 아니라 그게 우리가 살아남는 가격이라서요.
 
 074. GARY: Sixty-one, in this market, today? You're crazy, Sam.
@@ -261,13 +261,13 @@
 082. SAM: And what did you hear?
     샘: 그래서 뭐가 들렸어요?
 
-083. GLORIA: He was telling the truth, because he likes you, and he's going to lose.
+083. GLORIA: He was telling the truth. He likes you, and he's going to lose.
     글로리아: 진실을 말하고 있었어. 널 좋아해. 그리고 질 거야.
 
 084. SAM: Lose what, the deal? We already lost the deal.
     샘: 뭘 진다는 거예요, 거래요? 거래는 이미 놓쳤잖아요.
 
-085. GLORIA: The argument with his CEO, and maybe his job too, because that man is standing on a trap door.
+085. GLORIA: The argument with his CEO, and maybe his job too. That man is standing on a trap door.
     글로리아: CEO랑의 논쟁, 어쩌면 일자리도. 그 사람 함정 문 위에 서 있어.
 
 086. SAM: Did I do the right thing by saying no to fifty?
@@ -279,7 +279,7 @@
 088. SAM: If Haverford goes with Calloway, we're back to bike motors and Erin's June deadline.
     샘: 해버퍼드가 캘러웨이로 가면 우린 다시 자전거 모터에, 에린의 6월 기한이에요.
 
-089. GLORIA: I know, baby, so go downstairs, because second shift is starting, and they all watched the same speech you did, so they need to see your face.
+089. GLORIA: I know, baby. Go downstairs, second shift is starting. They all watched the same speech you did, and they need to see your face.
     글로리아: 알아, 얘. 아래층 내려가 봐. 2교대 시작하는데, 다들 너랑 같은 연설을 봤으니 네 얼굴을 봐야 해.
 
 090. SAM: What do I tell them? Half of them are happy and half of them are scared, and I can't make either half feel better without lying to the other half.
@@ -291,10 +291,10 @@
 092. EARL: I'm just saying, for forty years I watched them ship our jobs overseas, from Moraine, Delphi, and Frigidaire, all of it, and somebody finally said "enough," so I'm not going to apologize for liking that.
     얼: 내 말은, 40년 동안 모레인, 델파이, 프리지데어, 전부 우리 일자리가 바다 건너로 실려 가는 걸 봤다는 거야. 드디어 누가 "그만"이라고 했으니, 그게 좋다는 걸 사과하진 않을 거야.
 
-093. PATTY: I'm not asking you to apologize, Earl, I'm asking who's paying, because the warehouse that fired me last year said "the economy," and I believed them.
+093. PATTY: I'm not asking you to apologize, Earl, I'm asking who's paying. The warehouse that fired me last year said "the economy," and I believed them.
     패티: 사과하라는 거 아니에요, 얼. 누가 돈을 내느냐고 묻는 거예요. 작년에 절 해고한 물류창고도 '경제' 때문이라고 했고, 전 그 말을 믿었거든요.
 
-094. DARNELL: I voted for this, and I'll say it, and I still think it's right long-term, but I'll be honest, I'm nervous too, because my wife's car needs new tires, and I don't know what tires cost next month.
+094. DARNELL: I voted for this, I'll say it, and I still think it's right long-term. But I'll be honest, I'm nervous too. My wife's car needs new tires, and I don't know what tires cost next month.
     대넬: 전 이걸 찍었어요, 말할게요. 장기적으로는 여전히 맞다고 생각해요. 근데 솔직히 저도 불안해요. 아내 차 타이어를 갈아야 하는데, 다음 달에 타이어가 얼마일지 모르겠어요.
 
 095. TYLER: And I didn't vote for this, and my 401(k) just lost a used car, but hey, if it brings factories back to Ohio, I'll buy the first tire from Darnell's factory.
@@ -303,7 +303,7 @@
 096. DARNELL: I don't have a factory, Tyler.
     대넬: 저 공장 없어요, 타일러.
 
-097. TYLER: Yet, because you don't have a factory yet.
+097. TYLER: Yet. You don't have a factory yet.
     타일러: 아직은요. 아직 없는 거죠.
 
 098. SAM: Hey, everybody, second shift, first shift, whoever's here, can I have two minutes?
@@ -312,19 +312,19 @@
 099. EARL: Is this a speech?
     얼: 연설하는 거야?
 
-100. SAM: It's not a speech, it's just the truth. Haverford's CEO is probably going to choose the other company with the cheaper motor, because Calloway is losing money on purpose to beat us, and they said so.
+100. SAM: It's not a speech, it's just the truth. Haverford's CEO is probably going to choose the other company, the cheaper motor. Calloway is losing money on purpose to beat us, and they said so.
     샘: 연설 아니에요, 그냥 진실이에요. 해버퍼드 CEO가 아마 더 싼 모터를 낸 다른 회사를 고를 거야. 캘러웨이가 우릴 이기려고 일부러 손해를 보고 있는데, 본인들이 그렇게 말했대.
 
 101. PATTY: So we lost the washing machine deal?
     패티: 그럼 세탁기 거래 놓친 거예요?
 
-102. SAM: Probably, but not officially, because Gary's CEO meets at six, but probably, yes, and I'd rather you hear it from me tonight.
+102. SAM: Probably, but not officially, because Gary's CEO meets at six. But probably, yes, and I'd rather you hear it from me tonight.
     샘: 아마. 공식적으론 아니야. 개리네 CEO가 여섯 시에 회의하거든. 근데 아마 그럴 거야. 오늘 밤 나한테서 듣는 게 나을 것 같아서.
 
 103. DARNELL: Is it because of the tariffs, or because of Calloway?
     대넬: 관세 때문이에요? 아니면 캘러웨이 때문이에요?
 
-104. SAM: Partly the tariffs, because everybody's costs went up today, and when costs go up, people buy cheap, which is normal, so I don't blame Haverford.
+104. SAM: Partly the tariffs. Everybody's costs went up today, and when costs go up, people buy cheap. That's normal, and I don't blame Haverford.
     샘: 일부는 관세 때문이야. 오늘 다들 원가가 올랐고, 원가가 오르면 사람들은 싼 걸 사. 그게 정상이니까 해버퍼드 탓 안 해.
 
 105. EARL: So what now, are we in trouble?
@@ -333,7 +333,7 @@
 106. SAM: We're in the same place we were in January, with bike motors, a good team, and a lot of uncertainty. Our steel from Korea isn't getting worse, our motor is still the quietest one Haverford ever tested, and Calloway's motor still depends on China.
     샘: 1월이랑 같은 자리야. 자전거 모터, 좋은 팀, 그리고 엄청난 불확실성. 한국 강판은 더 나빠지지 않고, 우리 모터는 여전히 해버퍼드가 시험한 것 중에 제일 조용하고, 캘러웨이 모터는 여전히 중국에 기대고 있어.
 
-107. PATTY: Is anybody getting laid off? I need to know, Sam, because I've been through that once already, last year, and I can't do it twice.
+107. PATTY: Is anybody getting laid off? I need to know, Sam. I've been through that once already, last year, and I can't do it twice.
     패티: 누구 해고되는 사람 있어요? 알아야 해요, 샘. 작년에 한 번 겪었는데, 두 번은 못 해요.
 
 108. SAM: No, not today and not this month, and I promise you that. If that ever changes, you'll hear it from me, in this room, before anybody else, and not from a memo.
@@ -348,13 +348,13 @@
 111. SAM: Please, go ahead.
     샘: 그러세요, 말해요.
 
-112. WEN: I listened to all of you, Earl, Patty, Darnell, and Tyler, and you're all a little right. I'm from China, and my father is in Shenzhen, so today both of my countries hit each other, hard.
+112. WEN: I listened to all of you, Earl, Patty, Darnell, and Tyler, and you're all a little right. I'm from China, and my father is in Shenzhen. Today, both of my countries hit each other, hard.
     웬: 얼, 패티, 대넬, 타일러, 다들 하는 말 들었는데, 다 조금씩 맞아요. 전 중국 출신이고 아버지는 선전에 계세요. 그러니까 오늘 제 두 나라가 서로를 세게 때린 거예요.
 
 113. PATTY: Oh, honey, I didn't even think about that.
     패티: 아이고, 박사님. 그건 생각도 못 했네.
 
-114. WEN: It's okay, because I'm not saying it so you'll feel sorry for me, I'm saying it because I know how the other side thinks. They will not just accept fifty-four percent, and they will answer, probably by Friday.
+114. WEN: It's okay. I'm not saying it so you'll feel sorry for me, I'm saying it because I know how the other side thinks. They will not just accept fifty-four percent, and they will answer, probably by Friday.
     웬: 괜찮아요. 불쌍하게 봐 달라고 하는 말이 아니라, 상대편이 어떻게 생각하는지 아니까 하는 말이에요. 그쪽은 54퍼센트를 그냥 받아들이지 않고, 아마 금요일까지는 받아칠 거예요.
 
 115. DARNELL: With what, more tariffs? They can't match fifty-four percent forever.
@@ -378,7 +378,7 @@
 121. PATTY: So the thing that's scary for everybody else is good for us?
     패티: 그러니까 다른 사람들한텐 무서운 게 우리한텐 좋은 거예요?
 
-122. WEN: It's not good, because a lot of people would lose their jobs, and car plants could stop, so I don't want it to happen. But if it happens, we have to be ready.
+122. WEN: It's not good. A lot of people would lose their jobs, and car plants could stop, so I don't want it to happen. But if it happens, we have to be ready.
     웬: 좋은 건 아니에요. 많은 사람이 일자리를 잃고 자동차 공장이 멈출 수도 있으니까, 전 그런 일이 안 생겼으면 해요. 근데 생기면 우린 준비돼 있어야 해요.
 
 123. SAM: That's the right way to say it. Okay, second shift, go build some bike motors, and thank you, all of you, for arguing like adults.
@@ -396,25 +396,25 @@
 127. SAM: I know, Gloria, like a grown man.
     샘: 알아요, 글로리아. 어른답게.
 
-128. GLORIA: I ran the numbers, and with the new tariffs on the Japanese magnets and the Chilean copper, our bike motors cost about four dollars more, so the runway goes from eleven weeks to ten.
+128. GLORIA: I ran the numbers. With the new tariffs on the Japanese magnets and the Chilean copper, our bike motors cost about four dollars more, and the runway goes from eleven weeks to ten.
     글로리아: 계산해 봤어. 일본 자석이랑 칠레 구리에 붙는 새 관세까지 넣으면 자전거 모터가 4달러쯤 더 들어. 런웨이는 11주에서 10주로.
 
 129. SAM: Ten weeks, and Haverford is probably gone.
     샘: 10주. 그리고 해버퍼드는 아마 끝났고.
 
-130. GLORIA: Probably, so now I'm going to tell you something, and I want you to listen with your whole head.
+130. GLORIA: Probably. So now I'm going to tell you something, and I want you to listen with your whole head.
     글로리아: 아마. 그래서 이제 내가 뭘 말할 건데, 머리 전체로 들어.
 
 131. SAM: Okay, I'm listening.
     샘: 네, 듣고 있어요.
 
-132. GLORIA: I worked at a bank for twenty-five years, so do you know when my bank made the most money?
+132. GLORIA: I worked at a bank for twenty-five years. Do you know when my bank made the most money?
     글로리아: 나 은행에서 25년 일했어. 우리 은행이 언제 돈을 제일 많이 벌었는지 알아?
 
 133. SAM: When the economy was good? When everybody had money to borrow and spend?
     샘: 경기가 좋을 때요? 다들 빌리고 쓸 돈이 있을 때요?
 
-134. GLORIA: No, when it was terrible, in 2008 and 2009, because everybody was scared, and scared people come to whoever looks steady. We looked steady, and we weren't the biggest bank, but we were the calmest one.
+134. GLORIA: No, when it was terrible, in 2008 and 2009. Everybody was scared, and scared people come to whoever looks steady. We looked steady, and we weren't the biggest bank, but we were the calmest one.
     글로리아: 아니. 2008년, 2009년, 최악일 때. 다들 겁먹었고, 겁먹은 사람들은 안정돼 보이는 쪽으로 와. 우리가 안정돼 보였어. 제일 큰 은행은 아니었지만 제일 침착한 은행이었지.
 
 135. SAM: So you're saying the chaos helped you.
@@ -462,7 +462,7 @@
 149. SAM: Green, and that's twice this year.
     샘: 초록색이라, 올해 두 번째네요.
 
-150. GLORIA: Don't get used to it. Now go home, baby, and kiss your wife, and keep your phone on tonight, because I have a feeling it's going to ring.
+150. GLORIA: Don't get used to it. Now go home, baby, and kiss your wife. And keep your phone on tonight, because I have a feeling it's going to ring.
     글로리아: 익숙해지지 마. 이제 집에 가, 얘. 아내한테 뽀뽀하고, 오늘 밤은 폰 켜 둬. 울릴 것 같은 느낌이 들어.
 
 ---
