@@ -101,14 +101,14 @@
 029. RUTH: That's why I'm nervous. When a stranger offers you twice what you need, read the second page first.
     루스: 그래서 긴장되는 거야. 낯선 사람이 필요한 것의 두 배를 내밀면 두 번째 장부터 읽어.
 
-030. WHITLEY: Welcome, both of you. I'm Sloane Whitley, executive director of the Pryce Foundation. Can I get you anything, like water, or matcha? We have a kombucha tap.
-    휘틀리: 두 분 환영합니다. 프라이스 재단 사무총장 슬론 휘틀리예요. 뭐 드릴까요? 물이나 말차요? 콤부차 탭도 있어요.
+030. WHITLEY: Ms. Abernathy, Mr. Reardon, welcome. I'm Sloane Whitley, executive director of the Pryce Foundation. Can I get you anything, like water, or matcha? We have a kombucha tap.
+    휘틀리: 애버내시 씨, 레이든 씨, 환영합니다. 프라이스 재단 사무총장 슬론 휘틀리예요. 뭐 드릴까요? 물이나 말차요? 콤부차 탭도 있어요.
 
 031. RUTH: You have a kombucha tap, and I have a radiator that bites.
     루스: 여긴 콤부차 탭이 있고, 우리 사무실엔 무는 라디에이터가 있지.
 
-032. PRYCE: That's exactly why we're here. Hi, I'm Callum, please. I watched the video of Gladys Moore maybe ten times, with the thermometer at forty-seven degrees, and it wrecked me.
-    프라이스: 바로 그래서 우리가 여기 있는 거죠. 안녕하세요, 캘럼이라고 불러 주세요. 글래디스 무어 영상을 열 번은 봤어요. 온도계, 8도. 완전 무너졌어요.
+032. PRYCE: That's exactly why we're here. Hi, I'm Callum, please. I watched the video of Mrs. Moore maybe ten times, with the thermometer at forty-seven degrees, and it wrecked me.
+    프라이스: 바로 그래서 우리가 여기 있는 거죠. 안녕하세요, 캘럼이라고 불러 주세요. 무어 부인 영상을 열 번은 봤어요. 온도계, 8도. 완전 무너졌어요.
 
 033. DAN: It wrecked a lot of people, and that's the idea.
     댄: 많은 사람이 무너졌죠. 그게 목적이었어요.
@@ -158,14 +158,14 @@
 048. DAN: Paragraph three. "During the grant period, the Center will consult with the Foundation before initiating litigation that may create reputational risk for the Foundation or its affiliates."
     댄: 3항. "지원 기간 동안 센터는 재단 또는 그 계열사에 평판 위험을 초래할 수 있는 소송을 제기하기 전에 재단과 협의한다."
 
-049. RUTH: "Or its affiliates" — and who exactly are the affiliates?
-    루스: "또는 그 계열사." 그 계열사가 정확히 누구죠?
+049. RUTH: "Or its affiliates" — and who exactly are the affiliates, Mr. Pryce?
+    루스: "또는 그 계열사." 그 계열사가 정확히 누구죠, 프라이스 씨?
 
 050. PRYCE: That's Lumen, my company, and a few smaller things, but it's boilerplate.
     프라이스: 루멘, 제 회사요. 그리고 작은 것 몇 개. 상투적인 문구예요.
 
-051. DAN: Boilerplate means standard language that every contract has, but this isn't standard. What does Lumen sell?
-    댄: 상투 문구는 모든 계약서에 들어가는 표준 문장이에요. 근데 이건 표준이 아니에요. 루멘은 뭘 팔죠?
+051. DAN: Boilerplate means standard language that every contract has, but this isn't standard. Mr. Pryce, what does Lumen sell?
+    댄: 상투 문구는 모든 계약서에 들어가는 표준 문장이에요. 근데 이건 표준이 아니에요. 프라이스 씨, 루멘은 뭘 팔죠?
 
 052. PRYCE: We sell payments, mostly, and a newer product called Lumen Vision, which is AI that reviews video for safety.
     프라이스: 주로 결제요. 그리고 신제품 루멘 비전. 안전을 위해 영상을 검토하는 AI예요.
@@ -188,8 +188,8 @@
 058. PRYCE: You actually read city budget documents for fun?
     프라이스: 시 예산 문서를 재미로 읽어요?
 
-059. RUTH: I read everything boring, because that's where people hide things.
-    루스: 지루한 건 다 읽어요. 사람들이 거기 숨기거든요.
+059. RUTH: I read everything boring, Mr. Pryce, because that's where people hide things.
+    루스: 지루한 건 다 읽어요, 프라이스 씨. 사람들이 거기 숨기거든요.
 
 060. DAN: So if we sue the NYPD, and the lawsuit is about body cameras that weren't turned on, that creates "reputational risk" for an affiliate. And we'd have to consult you first.
     댄: 그러니까 우리가 NYPD를 고소하고 그게 꺼져 있던 바디캠에 관한 소송이면, 계열사에 '평판 위험'이 생기는 거죠. 그럼 먼저 재단과 협의해야 하고요.
@@ -221,8 +221,8 @@
 069. PRYCE: My lawyers won't let me do that, I'm afraid.
     프라이스: 아쉽지만 제 변호사들이 허락 안 할 거예요.
 
-070. RUTH: Then your lawyers are the ones running your foundation, not you, and that's very sad. You should talk to them.
-    루스: 그럼 재단을 운영하는 건 당신이 아니라 당신 변호사들이네. 참 슬프군. 그 사람들이랑 얘기해 봐.
+070. RUTH: Then your lawyers are the ones running your foundation, not you, and that's very sad, Mr. Pryce. You should talk to them.
+    루스: 그럼 재단을 운영하는 건 당신이 아니라 당신 변호사들이네. 참 슬프군요, 프라이스 씨. 그 사람들이랑 얘기해 봐.
 
 071. PRYCE: Ruth, can I be honest? Your center is going to close, because I've seen your numbers, and my people checked. You'll be out of money by July.
     프라이스: 루스, 솔직히 말해도 될까요? 센터는 문 닫을 거예요. 숫자 봤어요. 우리 쪽에서 확인했어요. 7월이면 돈이 바닥나요.
@@ -245,8 +245,8 @@
 077. PRYCE: The offer stays open until Friday. Dan, you understand how the world works, because you were in it, so talk to her.
     프라이스: 제안은 금요일까지 유효해요. 댄, 세상이 어떻게 돌아가는지 알잖아요. 그 안에 있었으니까. 설득해 봐요.
 
-078. DAN: I was in it, and that's exactly why I left.
-    댄: 그 안에 있었죠. 그래서 나온 거예요.
+078. DAN: I was in it, Mr. Pryce, and that's exactly why I left.
+    댄: 그 안에 있었죠, 프라이스 씨. 그래서 나온 거예요.
 
 079. ELENA: You're not asleep, and it's eleven. You've been looking at the bank app for twenty minutes.
     엘레나: 안 자네. 열한 시야. 20분째 은행 앱 보고 있어.
@@ -461,8 +461,8 @@
 149. DAN: This is Dan. Yes, this morning? All of them? Thank you, thank you, and I'll call the family. Everybody, the DA dismissed all charges against Darnell, resisting, obstruction, everything.
     댄: 댄입니다. 네, 오늘 아침이요? 전부요? 감사합니다, 정말 감사합니다. 가족한테 전화할게요. 여러분, 검찰이 대널 혐의를 전부 기각했어요. 체포 불응, 방해, 전부요.
 
-150. YVONNE: It's Yvonne, because they called me too. Darnell's crying, and I'm crying, so listen to me: you said we wait until the charges are gone, and they're gone, so post the video.
-    이본: 이본이에요. 저한테도 전화 왔어요. 대널이 울어요. 저도 울어요. 들어 보세요. 혐의가 없어질 때까지 기다리자고 하셨죠. 없어졌어요. 영상 올려요.
+150. YVONNE: Mr. Reardon? It's Yvonne, and they called me too. Darnell's crying, and I'm crying, so listen to me: you said we wait until the charges are gone, and they're gone, so post the video.
+    이본: 레이든 씨? 이본이에요. 저한테도 전화 왔어요. 대널이 울어요. 저도 울어요. 들어 보세요. 혐의가 없어질 때까지 기다리자고 하셨죠. 없어졌어요. 영상 올려요.
 
 ---
 
