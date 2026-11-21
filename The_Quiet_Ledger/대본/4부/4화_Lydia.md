@@ -243,7 +243,7 @@
     데클런: 이거 봐, 테스. 이메일마다 맨 위에 헤더가 있어. 봉투의 소인 같은 거야. 어느 서버에서 언제 보냈는지 보여 줘.
 
 077. TESS: And this one was sent from where? Can you tell from that?
-    테스: 그럼 이건 어디서 보낸 거예요? 그걸로 알 수 있어요?
+    테스: 그럼 이건 어디서 보낸 건데? 그걸로 알 수 있어?
 
 078. DECLAN: Vienna. A server registered to Anselm Advisory. September ninth, eight-oh-nine a.m. Vienna time. That's two-oh-nine here.
     데클런: 빈. 안셀름 어드바이저리 명의 서버. 9월 9일, 빈 시간 오전 8시 9분. 여기 시간으로 새벽 2시 9분.

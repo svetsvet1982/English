@@ -4,60 +4,60 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 4부 3화 · 서사 기능: 2인극 / 탐색전 / 증거 확보
-> - 배경: 버지니아 매디슨 카운티를 지나 셰넌도어 국립공원 쪽 자갈길을 오르는 데클런의 스바루(2027년 7월 10일 토요일 새벽 5시 30분, 전날 밤 컬페퍼 모텔에서 출발, 테스와 통화 → 전파가 끊김. 하워드의 조건 "No phones, no files, no FBI"에 따라 휴대폰은 글러브박스에, 테스의 라이터 크기 카메라는 던킨 커피 봉투 속에) → 라피던 강가 하워드의 낚시 오두막과 강(오전~오후, 습하고 더운 여름날) → 같은 오두막, 해 질 녘(하워드가 장작을 가지러 나간 사이)과 모닥불 저녁 → 밤 9시, 오두막 앞과 돌아오는 차 안(테스와 통화)
+> - 배경: 버지니아 매디슨 카운티를 지나 셰넌도어 국립공원 쪽 자갈길을 오르는 데클런의 스바루(2027년 7월 10일 토요일 새벽 5시 30분, 전날 밤 컬페퍼 모텔에서 출발, 테스와 통화 → 전파가 끊김. 하워드의 조건은 "No phones, no files, no FBI"였지만, 로즈에게 송어 사진을 약속했다며 휴대폰은 꺼서 주머니에) → 라피던 강가 하워드의 낚시 오두막과 강(오전~오후, 습하고 더운 여름날) → 같은 오두막, 해 질 녘(하워드가 장작을 가지러 나간 사이)과 모닥불 저녁 → 밤 9시, 오두막 앞과 돌아오는 차 안(테스와 통화)
 > - 등장인물: Declan, Howard, Tess(전화·도청 수신)
 > - 난이도: B1–B2 · 턴 수: 150
 > - 이번 화의 핵심 표현: "wear a wire", "Don't ask. Let him tell.", "dead zone", "Let the rod do the work.", "catch and release", "I'm not keeping score.", "He never leaves anything on a table.", "You've gotten very good at this. I taught you that."
-> - 복선/연결: 2화 도청기 = 아버지 유품 타이멕스 손목시계, "Don't ask. Let him tell." · 2부 2화·11화 송어 길이("Fourteen and a quarter." / "Thirteen and three-quarters.")와 "A man who rounds up his trout will round up other things." · 플라이 북(가죽 표지, 2016년부터) — 데클런이 2016~2026년 페이지 41장을 테스의 소형 카메라로 촬영(→9화 해독) · 하워드는 잉크로 쓴다("Pen's for people who think they're right.") · 오두막은 일찍 다 갚았다(→5화 Blue Ridge의 담보대출 상환) · 마이클의 어린 시절 카드놀이와 2016년(→11화 고백) · 엘리너의 마지막 여름 · 하워드가 도청기를 알았는지는 끝까지 모호
+> - 복선/연결: 2화 도청기 = 아버지 유품 타이멕스 손목시계, "Don't ask. Let him tell." · 2부 2화·11화 송어 길이("Fourteen and a quarter." / "Thirteen and three-quarters.")와 "A man who rounds up his trout will round up other things." · 플라이 북(가죽 표지, 2016년부터) — 데클런이 2016~2026년 페이지 41장을 휴대폰 카메라(비행기 모드)로 촬영(→9화 해독) · 하워드는 잉크로 쓴다("Pen's for people who think they're right.") · 오두막은 일찍 다 갚았다(→5화 Blue Ridge의 담보대출 상환) · 마이클의 어린 시절 카드놀이와 2016년(→11화 고백) · 엘리너의 마지막 여름 · 하워드가 도청기를 알았는지는 끝까지 모호
 
 ---
 
 ## 대본
 
 001. TESS: Talk to me. Where are you right now?
-    테스: 말해 봐요. 지금 어디예요?
+    테스: 말해 봐. 지금 어디야?
 
 002. DECLAN: Route 231, just past Madison. Cows on the left, a church on the right, and a sign that says "Jesus Saves" with half the letters missing.
     데클런: 231번 도로, 매디슨 막 지났어. 왼쪽엔 소, 오른쪽엔 교회, 그리고 글자 반쯤 떨어진 "예수님이 구원하신다" 간판.
 
 003. TESS: Which half?
-    테스: 어느 쪽 반이요?
+    테스: 어느 쪽 반?
 
 004. DECLAN: Enough that it just says "Jesus Sav." Like he's still deciding.
     데클런: "예수님이 구원하" 까지만 남았어. 아직 고민 중이신 것처럼.
 
 005. TESS: Okay, comedian. In about six miles you lose cell service. After that, it's only the watch. I can hear you. You can't hear me.
-    테스: 알았어요, 코미디언 양반. 한 10킬로쯤 가면 휴대폰 신호 끊겨요. 그다음부턴 시계뿐이에요. 난 당신 말이 들리는데 당신은 내 말이 안 들려요.
+    테스: 알았어, 코미디언 양반. 한 10킬로쯤 가면 휴대폰 신호 끊겨. 그다음부턴 시계뿐이야. 난 네 말이 들리는데 넌 내 말이 안 들려.
 
 006. DECLAN: A one-way radio. Just like my marriage.
     데클런: 일방통행 무전기네. 내 결혼 생활처럼.
 
 007. TESS: The relay box in your trunk picks up the watch and sends it to me. I'm parked behind a feed store four miles down the river. If you need me, say "the Pike." I'll come.
-    테스: 트렁크에 있는 중계기가 시계 신호를 받아서 나한테 보내요. 난 강 따라 6킬로쯤 아래 사료 가게 뒤에 주차해 있어요. 내가 필요하면 "더 파이크"라고 해요. 바로 갈게요.
+    테스: 트렁크에 있는 중계기가 시계 신호를 받아서 나한테 보내. 난 강 따라 6킬로쯤 아래 사료 가게 뒤에 주차해 있을 거야. 내가 필요하면 "더 파이크"라고 해. 바로 갈게.
 
 008. DECLAN: The Massachusetts Turnpike. My emergency word is a highway.
     데클런: 매사추세츠 턴파이크. 내 비상 암호가 고속도로라니.
 
 009. TESS: You picked it. Now tell me the rule one more time.
-    테스: 당신이 고른 거예요. 자, 규칙 한 번만 더 말해 봐요.
+    테스: 네가 고른 거잖아. 자, 규칙 한 번만 더 말해 봐.
 
 010. DECLAN: Don't ask. Let him tell. No Reed, no Blue Ridge, no TALLOW.
     데클런: 묻지 마라. 그가 말하게 둬라. 리드도, 블루리지도, 탤로우도 말하지 마라.
 
 011. TESS: And if he starts confessing?
-    테스: 그리고 그 사람이 자백하기 시작하면요?
+    테스: 그리고 그 사람이 자백하기 시작하면?
 
 012. DECLAN: Then I keep my mouth shut and let him. But Tess, he won't. Howard has never said one sentence in his life by accident.
     데클런: 그럼 입 다물고 하게 둬야지. 근데 테스, 안 할 거야. 하워드는 평생 문장 하나도 실수로 말해 본 적 없는 사람이야.
 
 013. TESS: Then we listen to what he says on purpose. That leaves fingerprints too.
-    테스: 그럼 일부러 하는 말을 듣는 거죠. 그것도 지문을 남겨요.
+    테스: 그럼 일부러 하는 말을 듣는 거지. 그것도 지문을 남겨.
 
-014. DECLAN: Gravel road now. One bar. My phone goes in the glove box, like he asked.
-    데클런: 이제 자갈길. 한 칸. 휴대폰은 그 사람 말대로 글러브박스에 넣는다.
+014. DECLAN: Gravel road now. One bar. Phone's off, in my pocket. I promised Rose trout pictures.
+    데클런: 이제 자갈길. 한 칸. 휴대폰은 꺼서 주머니에 넣었어. 로즈한테 송어 사진 약속했거든.
 
-015. TESS: And my camera's in the Dunkin' bag, under the cups. Whatever happens in there, you're not doing anything wrong. He invited you.
-    테스: 내 카메라는 던킨 봉투 안, 컵 밑에 있어요. 거기서 무슨 일이 있든, 당신은 잘못하는 거 하나도 없어요. 그 사람이 초대한 거예요.
+015. TESS: Good. Declan, whatever happens in there, you're not doing anything wrong. He invited you. Remember that.
+    테스: 좋아. 데클런, 거기서 무슨 일이 있든 넌 잘못하는 거 하나도 없어. 그 사람이 초대한 거야. 그거 잊지 마.
 
 016. DECLAN: That's what I keep telling myself. Okay, no bars. Tess, if you can hear this, it's five fifty-two, and I can see the cabin.
     데클런: 계속 나 자신한테 그렇게 말하고 있어. 좋아, 신호 없음. 테스, 이게 들리면, 지금 5시 52분이고 오두막이 보여.
@@ -83,11 +83,11 @@
 023. HOWARD: Then bring one in. And your phone, Declan? I did say no phones.
     하워드: 그럼 하나 들고 들어오게. 그리고 휴대폰은, 데클런? 휴대폰은 안 된다고 했지.
 
-024. DECLAN: In the glove box. No phones, no files, no FBI. I read the invitation.
-    데클런: 글러브박스에 있어요. 휴대폰 없이, 서류 없이, FBI 없이. 초대장 잘 읽었어요.
+024. DECLAN: Switched off, in my pocket. I promised Rose pictures of trout. No files, no FBI.
+    데클런: 꺼서 주머니에 넣었어요. 로즈한테 송어 사진 보내 주기로 약속했거든요. 서류도, FBI도 없어요.
 
-025. HOWARD: Good. But that's new. You never used to wear a watch.
-    하워드: 좋아. 그런데 그건 처음 보는군. 자넨 원래 시계를 안 찼잖나.
+025. HOWARD: Then Rose shall have her trout. But that's new. You never used to wear a watch.
+    하워드: 그럼 로즈한테 송어를 보여 줘야지. 그런데 그건 처음 보는군. 자넨 원래 시계를 안 찼잖나.
 
 026. DECLAN: My father's Timex. Frankie found it in a drawer in Dorchester. It loses two minutes a day, but I like it.
     데클런: 아버지 타이멕스예요. 프랭키가 도체스터 서랍에서 찾았어요. 하루에 2분씩 늦게 가는데, 그래도 좋아요.
@@ -311,8 +311,8 @@
 099. DECLAN: Tess, he's out back, behind the shed. The book's on the table. Now.
     데클런: 테스, 뒤로 나갔어. 창고 뒤. 수첩은 탁자 위에 있어. 지금이야.
 
-100. DECLAN: Glasses off. Opening it. First page, December 2016. Your camera's out of the coffee bag. It's the size of a lighter. One. Two.
-    데클런: 안경 치우고. 펼친다. 첫 장, 2016년 12월. 당신 카메라 커피 봉투에서 꺼냈어. 라이터만 해. 하나. 둘.
+100. DECLAN: Glasses off. Opening it. First page, December 2016. Phone on, airplane mode. Camera only. One. Two.
+    데클런: 안경 치우고. 펼친다. 첫 장, 2016년 12월. 휴대폰 켰어, 비행기 모드. 카메라만. 하나. 둘.
 
 101. HOWARD: Declan! Is the kindling box by the stove full or empty?
     하워드: 데클런! 난로 옆 불쏘시개 상자 찼나, 비었나?
@@ -435,31 +435,31 @@
     하워드: 조심해서 가게, 얘야. 그리고 그 시계 태엽 좀 감게. 늦게 가고 있어.
 
 141. TESS: Declan. You've got signal. Talk to me. Are you okay?
-    테스: 데클런. 신호 잡혀요. 말해 봐요. 괜찮아요?
+    테스: 데클런. 신호 잡혔다. 말해 봐. 괜찮아?
 
 142. DECLAN: I'm on 231, past the church. Jesus is still deciding. Did you get it all?
     데클런: 231번 도로, 교회 지났어. 예수님은 아직 고민 중이셔. 다 들었어?
 
 143. TESS: Fifteen hours of audio. Fish, a dead wife, a son who counts cards, and an ax. Not one word I can take to a judge.
-    테스: 녹음 열다섯 시간. 물고기, 죽은 아내, 카드 세는 아들, 그리고 도끼. 판사한테 가져갈 말은 한마디도 없어요.
+    테스: 녹음 열다섯 시간. 물고기, 죽은 아내, 카드 세는 아들, 그리고 도끼. 판사한테 가져갈 말은 한마디도 없어.
 
 144. DECLAN: I've got forty-one pages. 2016 to 2026. All in his handwriting.
     데클런: 난 마흔한 장 있어. 2016년부터 2026년까지. 전부 그 사람 글씨로.
 
 145. TESS: And the last thing he said? "I taught you that." Did he mean the fishing, or did he mean the watch?
-    테스: 그리고 마지막에 한 말은요? "내가 가르친 거지." 낚시 얘기예요, 아니면 시계 얘기예요?
+    테스: 그리고 마지막에 한 말은? "내가 가르친 거지." 낚시 얘기야, 아니면 시계 얘기야?
 
 146. DECLAN: I don't know. I've known him twenty-three years, Tess, and I don't know.
     데클런: 몰라. 23년을 알았는데, 테스, 모르겠어.
 
 147. TESS: Then tell me this. Why would a man like that leave his diary on a table and go chop wood for ten minutes?
-    테스: 그럼 이거 하나만 말해 봐요. 그런 사람이 왜 일기장을 탁자 위에 두고 10분 동안 장작을 패러 나갔을까요?
+    테스: 그럼 이거 하나만 말해 봐. 그런 사람이 왜 일기장을 탁자 위에 두고 10분 동안 장작을 패러 나갔을까?
 
 148. DECLAN: Because he was tired. Because he's old. Because he trusts me.
     데클런: 피곤해서. 늙어서. 날 믿으니까.
 
 149. TESS: You don't believe any of that.
-    테스: 그중에 당신이 믿는 건 하나도 없잖아요.
+    테스: 그중에 네가 믿는 건 하나도 없잖아.
 
 150. DECLAN: No. Howard has never left anything on a table in his life. Not a pawn, not a number, not a book. If he left it there, Tess, he wanted it found. I just don't know why yet.
     데클런: 응. 하워드는 평생 탁자 위에 뭘 그냥 두고 간 적이 없어. 폰 하나도, 숫자 하나도, 수첩 하나도. 그걸 거기 뒀다면, 테스, 누가 찾길 바랐던 거야. 왜인지는 아직 모르겠지만.

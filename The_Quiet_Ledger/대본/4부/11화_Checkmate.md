@@ -410,8 +410,8 @@
 132. DECLAN: Does Michael know?
     데클런: 마이클은 알아요?
 
-133. HOWARD: Michael thinks a kind friend forgave his debt. He hasn't placed a bet in three years. He'll read the rest in the newspaper. I'd like you to call him first, if you can bear it.
-    하워드: 마이클은 친절한 친구가 빚을 탕감해 준 줄 알아. 3년째 도박은 손도 안 댔네. 나머지는 신문에서 읽게 되겠지. 견딜 수 있다면, 자네가 먼저 전화해 주면 좋겠네.
+133. HOWARD: Michael thinks a kind friend forgave his debt. He hasn't placed a bet in eleven months. He'll read the rest in the newspaper. I'd like you to call him first, if you can bear it.
+    하워드: 마이클은 친절한 친구가 빚을 탕감해 준 줄 알아. 11개월째 도박은 손도 안 댔네. 나머지는 신문에서 읽게 되겠지. 견딜 수 있다면, 자네가 먼저 전화해 주면 좋겠네.
 
 134. DECLAN: I'll call him. Tomorrow.
     데클런: 전화할게요. 내일.
