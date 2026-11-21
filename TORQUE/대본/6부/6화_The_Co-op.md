@@ -33,8 +33,8 @@
 006. TYLER: You want me to put away all of them?
     타일러: 전부 넣어 두라고요?
 
-007. RUTH: There are nine farmers sitting in that room who've known each other for fifty years, and they don't want slides, they want to look at your face and decide if you're lying.
-    루스: 그 방엔 50년 동안 서로 알고 지낸 농부 아홉 명이 앉아 있어요. 슬라이드 말고, 당신 얼굴을 보고 거짓말하는지 판단하고 싶어 하죠.
+007. RUTH: Nine farmers who've known each other for fifty years are sitting in that room. They don't want slides. They want to look at your face and decide if you're lying.
+    루스: 그 방엔 50년 동안 서로 알고 지낸 농부 아홉 명이 앉아 있어요. 슬라이드는 필요 없어요. 당신 얼굴을 보고 거짓말하는지 판단하고 싶어 하죠.
 
 008. TYLER: Can I keep just one slide with the picture of the motor?
     타일러: 모터 사진 한 장만 남겨도 돼요?
@@ -45,14 +45,14 @@
 010. SAM: Earl shipped it overnight, and it's in the truck.
     샘: 얼이 밤새 보내서 트럭에 있어요.
 
-011. KURT: What is it, exactly, because Ruth only said "a fan motor that doesn't quit"?
+011. KURT: What is it, exactly? Ruth only said "a fan motor that doesn't quit."
     커트: 정확히 뭐예요? 루스는 "안 멈추는 팬 모터"라고만 하던데요.
 
 012. SAM: It's a seven-and-a-half horsepower motor for grain bin aeration fans, with the same mounting as the ones you use now so it bolts right on, and it has ferrite magnets with no rare earths, sealed against dust and moisture.
     샘: 곡물 저장통 통풍 팬용 7.5마력 모터예요. 지금 쓰시는 거랑 장착 방식이 같아서 그대로 볼트로 달면 되고, 희토류 없는 페라이트 자석에, 먼지랑 습기 차단 밀봉이에요.
 
-013. KURT: Apparently we call it the FX-A7, since that's what the box says.
-    커트: 상자에 그렇게 써 있으니 FX-A7이라고 부르나 보네요.
+013. KURT: We call it the FX-A7, apparently. That's what the box says.
+    커트: 상자에 FX-A7이라고 써 있네요.
 
 014. TYLER: The "A" is for agriculture and the seven is for seven and a half, because we rounded down to be humble.
     타일러: A는 농업의 A고, 7은 7.5마력이에요. 겸손하려고 내림했어요.
@@ -63,8 +63,8 @@
 016. SAM: In plain English, how is a co-op different from a store?
     샘: 쉬운 말로 하면 협동조합은 가게랑 뭐가 달라요?
 
-017. KURT: A store sells to you and keeps the profit, but a co-op is owned by the people who buy from it, so profits go back to the members, and every member gets one vote, big farm or small.
-    커트: 가게는 물건을 팔고 이익을 가져가지만, 협동조합은 거기서 사는 사람들이 주인이라 이익이 조합원한테 돌아가요. 그리고 큰 농장이든 작은 농장이든 조합원은 다 한 표씩이에요.
+017. KURT: A store sells to you and keeps the profit. A co-op is owned by the people who buy from it. Profits go back to the members. And every member gets one vote, big farm or small.
+    커트: 가게는 물건을 팔고 이익을 가져가요. 협동조합은 거기서 사는 사람들이 주인이에요. 이익은 조합원한테 돌아가고요. 그리고 조합원은 큰 농장이든 작은 농장이든 다 한 표씩이에요.
 
 018. TYLER: So the customers are the owners.
     타일러: 그러니까 손님이 주인이네요.
@@ -75,8 +75,8 @@
 020. SAM: That's a lot of pressure for one man with a coffee pot.
     샘: 커피포트 하나 든 사람한텐 부담이 크네요.
 
-021. KURT: It keeps me honest, and we buy fertilizer, fuel, seed, and parts in bulk for the members, but we've never bought a motor company's product before, so you'd be the first.
-    커트: 덕분에 정직하게 살죠. 조합원을 위해 비료, 연료, 씨앗, 부품을 대량으로 사는데, 모터 회사 제품은 한 번도 안 사 봤어요. 당신네가 처음이 될 거예요.
+021. KURT: It keeps me honest. We buy fertilizer, fuel, seed, and parts in bulk for the members. We've never bought a motor company's product before. You'd be the first.
+    커트: 덕분에 정직하게 살죠. 조합원을 위해 비료, 연료, 씨앗, 부품을 대량으로 사요. 모터 회사 제품은 한 번도 안 사 봤어요. 당신네가 처음이 될 거예요.
 
 022. RUTH: And they've been burned before, so tell him, Kurt.
     루스: 그리고 크게 데인 적이 있어요. 말해 줘요, 커트.
@@ -87,10 +87,10 @@
 024. TYLER: What do you mean, the company disappeared?
     타일러: 회사가 사라졌다는 게 무슨 말이에요?
 
-025. KURT: The phone number became a pizza place in Arizona, and Gene still brings it up at every meeting.
+025. KURT: The phone number became a pizza place in Arizona. Gene still brings it up at every meeting.
     커트: 전화번호가 애리조나 피자 가게 번호가 됐어요. 진은 아직도 회의 때마다 그 얘기를 해요.
 
-026. SAM: I can't promise we'll never make a mistake, but I can promise our phone number won't become a pizza place.
+026. SAM: I can't promise we'll never make a mistake. But I can promise our phone number won't become a pizza place.
     샘: 우리가 절대 실수 안 한다고는 약속 못 해요. 하지만 우리 전화번호가 피자 가게가 되진 않을 거라고는 약속할 수 있어요.
 
 027. KURT: Say that inside, because Gene will like that.
@@ -147,8 +147,8 @@
 044. GENE: There are no dumb questions, Tina, only dumb salesmen.
     진: 바보 같은 질문은 없어, 티나. 바보 같은 영업사원만 있지.
 
-045. SAM: Then I'll try not to be one, so on this table are two motors, with the fan motor from Dale Amundsen's bin number four on the left and ours on the right.
-    샘: 그럼 그렇게 안 되도록 노력할게요. 이 탁자에 모터 두 개가 있는데, 왼쪽은 데일 아먼슨 씨 4번 저장통 팬 모터고 오른쪽이 우리 거예요.
+045. SAM: Then I'll try not to be one. On this table are two motors. On the left is the fan motor from Dale Amundsen's bin number four. On the right is ours.
+    샘: 그럼 그렇게 안 되도록 노력할게요. 이 탁자에 모터 두 개가 있어요. 왼쪽은 데일 아먼슨 씨 4번 저장통 팬 모터예요. 오른쪽이 우리 거고요.
 
 046. GENE: Dale took his motor off to bring it here?
     진: 데일이 여기 가져오려고 자기 모터를 뗐어?
@@ -159,8 +159,8 @@
 048. SAM: Ours fits the same bolts and the same shaft, so Dale can swap it in forty minutes, and it uses about twelve percent less electricity and is sealed, so dust and moisture stay out.
     샘: 우리 건 같은 볼트, 같은 축에 맞아서 데일 씨가 40분이면 바꿀 수 있어요. 전기는 12퍼센트쯤 덜 쓰고, 밀봉돼 있어서 먼지랑 습기가 안 들어가요.
 
-049. TINA: Twelve percent less electricity is how much in dollars?
-    티나: 전기 12퍼센트 절약이면 돈으로 얼마예요?
+049. TINA: Twelve percent less electricity. How much is that in dollars?
+    티나: 전기 12퍼센트 절약이요. 돈으로 치면 얼마예요?
 
 050. SAM: For a fan that runs most of the winter, it's about a hundred and forty dollars a year per fan.
     샘: 겨울 대부분 도는 팬이면 팬 하나당 1년에 140달러쯤이요.
@@ -171,7 +171,7 @@
 052. SAM: Eleven hundred and fifty dollars.
     샘: 1,150달러요.
 
-053. GENE: The one from China is nine eighty, and I've got the catalog right here.
+053. GENE: The one from China is nine eighty. I've got the catalog right here.
     진: 중국 건 980이야. 카탈로그 여기 있어.
 
 054. SAM: Yes, sir, ours is a hundred and seventy dollars more, but in about a year and a half the electricity pays for the difference, and after that it's saving you money.
@@ -189,11 +189,11 @@
 058. SAM: Kurt told me, and I can't promise we'll never make a mistake, but I can promise our phone number won't become a pizza place.
     샘: 커트한테 들었어요. 절대 실수 안 한다고는 약속 못 해도, 우리 전화번호가 피자 가게가 되진 않을 거라고는 약속할 수 있어요.
 
-059. TINA: How can you promise that, when small companies go under all the time?
-    티나: 작은 회사는 맨날 망하는데 그걸 어떻게 약속해요?
+059. TINA: How can you promise that? Small companies go under all the time.
+    티나: 그걸 어떻게 약속해요? 작은 회사는 맨날 망하잖아요.
 
-060. SAM: That's a fair question, and we started with nine people in a garage and we're a hundred and twenty now, with an Army contract and a twenty-five million dollar government loan that we signed last month.
-    샘: 좋은 질문이에요. 차고에서 아홉 명으로 시작해서 지금은 백이십 명이고, 육군 계약이랑 지난달에 서명한 2,500만 달러 정부 대출도 있어요.
+060. SAM: That's a fair question. We started with nine people in a garage. We're a hundred and twenty now. We have an Army contract and a twenty-five million dollar government loan, signed last month.
+    샘: 좋은 질문이에요. 차고에서 아홉 명으로 시작했어요. 지금은 백이십 명이에요. 육군 계약이 있고, 지난달에 서명한 2,500만 달러 정부 대출도 있어요.
 
 061. GENE: Government money, hm.
     진: 정부 돈이라, 흠.
@@ -201,10 +201,10 @@
 062. SAM: It's a loan, not a gift, which we pay back with interest, and we turned down the version that came with strings.
     샘: 선물이 아니라 이자 붙여서 갚는 대출이에요. 그리고 조건이 주렁주렁 달린 버전은 거절했어요.
 
-063. GENE: What kind of strings, so spell it out for us, son.
+063. GENE: What kind of strings? Spell it out for us, son.
     진: 어떤 조건인데? 우리한테 똑똑히 말해 봐.
 
-064. SAM: The kind where Washington gets a veto over who we sell to, and my dad says never let anyone hold your keys.
+064. SAM: The kind where Washington gets a veto over who we sell to. My dad says never let anyone hold your keys.
     샘: 우리가 누구한테 팔지 워싱턴이 거부권을 갖는 조건이요. 아버지가 누구한테도 열쇠를 맡기지 말라고 하셨거든요.
 
 065. GENE: Your dad's a smart man.
@@ -231,14 +231,14 @@
 072. GENE: Then why are you here?
     진: 그럼 왜 왔어?
 
-073. RUTH: Gene, may I say something? I'm only a member, not a board member, but I've been a member for forty-one years.
+073. RUTH: Gene, may I say something? I'm only a member, not a board member. But I've been a member for forty-one years.
     루스: 진, 한마디 해도 돼? 난 이사가 아니라 그냥 조합원이지만, 조합원으로 41년이야.
 
 074. GENE: Go ahead, Ruth, since you always do anyway.
     진: 말해, 루스. 어차피 늘 하잖아.
 
-075. RUTH: This man drove to our farm in February with a heater that only worked on one side, and he looked at Dale's tractor and told us the truth, "I can't fix it," which nobody ever says.
-    루스: 이 사람은 2월에 한쪽만 히터 나오는 차를 몰고 우리 농장에 와서 데일 트랙터를 보고 사실대로 말했어요. "전 이거 못 고쳐요." 그런 말 하는 사람 아무도 없어요.
+075. RUTH: This man drove to our farm in February with a heater that only worked on one side. He looked at Dale's tractor, and he told us the truth. He said, "I can't fix it." Nobody ever says that.
+    루스: 이 사람은 2월에 한쪽만 히터 나오는 차를 몰고 우리 농장에 왔어요. 데일 트랙터를 보고 사실대로 말했어요. "전 이거 못 고쳐요." 그런 말 하는 사람 아무도 없어요.
 
 076. TINA: That's true, because salesmen always say they can fix it.
     티나: 맞아요. 영업사원들은 맨날 고칠 수 있다고 하죠.
@@ -258,8 +258,8 @@
 081. GENE: Ha, he would.
     진: 하, 그러겠지.
 
-082. RUTH: I'm not asking you to buy two thousand motors, I'm asking you to take a chance on a few, so let the members try them and let reputation do the rest.
-    루스: 모터 이천 개 사라는 거 아니야. 몇 개만 믿고 써 보자는 거지. 조합원들이 써 보게 하고, 나머진 평판이 알아서 하게 하자고.
+082. RUTH: I'm not asking you to buy two thousand motors. I'm asking you to take a chance on a few. Let the members try them. Let reputation do the rest.
+    루스: 모터 이천 개 사라는 거 아니야. 몇 개만 믿고 써 보자는 거야. 조합원들이 써 보게 하고, 나머진 평판이 알아서 하게 하자고.
 
 083. TINA: I like that idea of a pilot, like we did with the new seed variety two years ago.
     티나: 시범 구매 좋아요. 2년 전에 새 종자 품종 때 그렇게 했잖아요.
@@ -267,19 +267,19 @@
 084. GENE: The seed was good.
     진: 그 종자는 괜찮았지.
 
-085. TINA: The seed was great, and we only knew because we tried a little first.
+085. TINA: The seed was great. And we only knew because we tried a little first.
     티나: 아주 좋았죠. 그것도 먼저 조금 써 봤으니까 안 거고요.
 
 086. GENE: Sam, I've got one more question, the important one: if we take a chance on you, who do we call when it breaks?
     진: 샘, 중요한 거 하나만 더. 우리가 당신을 믿어 보면, 고장 났을 때 누구한테 전화해?
 
-087. SAM: Can I answer that one over coffee, because I think it deserves more than twenty minutes?
+087. SAM: Can I answer that one over coffee? I think it deserves more than twenty minutes.
     샘: 그건 커피 마시면서 대답해도 될까요? 20분으로는 부족한 질문 같아서요.
 
-088. GENE: Twenty minutes are up anyway, and there are donuts in the back, so Kurt, get the good ones.
-    진: 어차피 20분 다 됐어. 뒤에 도넛 있으니까 커트, 좋은 걸로 가져와.
+088. GENE: Twenty minutes are up anyway. There are donuts in the back. Kurt, get the good ones.
+    진: 어차피 20분 다 됐어. 뒤에 도넛 있어. 커트, 좋은 걸로 가져와.
 
-089. KURT: There are no good ones, Gene, just the box from the gas station.
+089. KURT: There are no good ones, Gene. There's just the box from the gas station.
     커트: 좋은 거 없어요, 진. 주유소에서 산 상자 하나뿐이에요.
 
 090. GENE: Then get the box.
@@ -294,8 +294,8 @@
 093. TYLER: The real meeting is the donuts?
     타일러: 진짜 회의가 도넛이에요?
 
-094. DALE: Everything real out here happens over donuts, because the meeting is for the minutes and the donuts are for the decision.
-    데일: 여기선 진짜 일은 다 도넛 먹으면서 일어나요. 회의는 회의록용이고, 도넛은 결정용이거든요.
+094. DALE: Everything real out here happens over donuts. The meeting is for the minutes. The donuts are for the decision.
+    데일: 여기선 진짜 일은 다 도넛 먹으면서 일어나요. 회의는 회의록용이고, 도넛은 결정용이에요.
 
 095. SAM: Tyler, write that down too.
     샘: 타일러, 그것도 적어 둬.
@@ -312,10 +312,10 @@
 099. SAM: Not Chinese, and not engineer either, because Dr. Liu is writing it, and she says if a farmer can't understand it at two in the morning, she failed.
     샘: 중국어도 엔지니어 말도 아니에요. 리우 박사가 쓰고 있는데, 새벽 두 시에 농부가 못 알아들으면 자기가 실패한 거래요.
 
-100. GENE: And when the card isn't enough, since cards don't fix bearings?
+100. GENE: And when the card isn't enough? Cards don't fix bearings.
     진: 카드로 안 되면? 카드가 베어링을 고쳐 주진 않잖아.
 
-101. SAM: Then you call Lyle's guy, so Kurt, who fixes things at the elevator?
+101. SAM: Then you call Lyle's guy. Kurt, who fixes things at the elevator?
     샘: 그럼 라일 쪽 사람한테 전화하세요. 커트, 엘리베이터에서 누가 고쳐요?
 
 102. KURT: That's Danny, who's been our maintenance man for fifteen years and can fix anything with a motor in it, if somebody lets him.
@@ -330,8 +330,8 @@
 105. SAM: On your shelf, and you don't pay for them until you use them.
     샘: 그 선반에요. 쓰실 때까지는 돈 안 내셔도 돼요.
 
-106. GENE: And if Danny can't fix it, since he's good but only one man?
-    진: 대니도 못 고치면? 잘하긴 해도 한 사람이잖아.
+106. GENE: And if Danny can't fix it? Danny's good, but he's one man.
+    진: 대니도 못 고치면? 대니가 잘하긴 해도 한 사람이야.
 
 107. SAM: Then you call me on this number, which is my cell phone, not a sales line or a call center, but me.
     샘: 그럼 저한테 전화하세요. 이게 제 휴대폰 번호예요. 영업 번호나 콜센터 말고 저요.
@@ -351,16 +351,16 @@
 112. TINA: Why are you really doing this, when Iowa is a long way from Dayton and there must be easier customers?
     티나: 진짜 이걸 왜 하세요? 아이오와는 데이턴에서 멀고, 더 쉬운 고객도 있을 텐데요.
 
-113. SAM: There are easier customers, but my dad worked thirty-two years at a GM plant that closed with a memo, and every machine he ever fixed, he was allowed to fix, so I want to build things like that again.
-    샘: 더 쉬운 고객은 있죠. 근데 우리 아버지는 메모 한 장으로 문 닫은 GM 공장에서 32년 일했고, 아버지가 고친 기계는 다 고쳐도 되는 기계였어요. 그런 걸 다시 만들고 싶어요.
+113. SAM: There are easier customers. But my dad worked thirty-two years at a GM plant that closed with a memo. Every machine he ever fixed, he was allowed to fix. I want to build things like that again.
+    샘: 더 쉬운 고객은 있죠. 근데 우리 아버지는 메모 한 장으로 문 닫은 GM 공장에서 32년 일했어요. 아버지가 고친 기계는 다 고쳐도 되는 기계였어요. 그런 걸 다시 만들고 싶어요.
 
-114. GENE: That's not a business reason, son, that's a family reason.
-    진: 그건 사업적인 이유가 아니라 집안 이유잖아.
+114. GENE: That's not a business reason, son. That's a family reason.
+    진: 그건 사업적인 이유가 아니잖아. 집안 이유지.
 
 115. SAM: No, sir, so here's the business reason: every farm machine is going electric, and whoever builds the motors farmers trust will sell a lot of motors, and I'd like that to be us.
     샘: 맞아요. 그래서 사업적인 이유는 이거예요. 농기계는 다 전기로 가고 있고, 농부들이 믿는 모터를 만드는 회사가 모터를 많이 팔 텐데, 그게 우리였으면 해요.
 
-116. GENE: Now that's a business reason, and I like both of them, so hold on while I call Kurt over.
+116. GENE: Now that's a business reason. I like both of them. Hold on, I'm calling Kurt over.
     진: 그건 사업적인 이유네. 둘 다 마음에 들어. 잠깐, 커트 부를게.
 
 117. KURT: Is this about price, Gene, and you want me to negotiate?
@@ -372,7 +372,7 @@
 119. KURT: Sam, we'd want a pilot of sixty motors that members sign up for, so at sixty, can you do better than eleven fifty?
     커트: 샘, 조합원들이 신청하는 식으로 모터 예순 개 시범 구매를 하고 싶어요. 예순 개면 1,150보다 낮출 수 있어요?
 
-120. SAM: Let me call my CFO, who'll yell at me, but she'll be fair.
+120. SAM: Let me call my CFO. She'll yell at me, but she'll be fair.
     샘: 우리 CFO한테 전화해 볼게요. 소리는 지르겠지만 공정할 거예요.
 
 121. GLORIA: Sixty motors to a co-op, so who pays, and when?
@@ -396,7 +396,7 @@
 127. SAM: April fifteenth, before planting, so the bins with stored beans stay dry until they're sold.
     샘: 파종 전인 4월 15일이요. 저장해 둔 콩이 팔릴 때까지 저장통이 마르게요.
 
-128. RUTH: Our beans have to be sold by June first, because that's the bank's rule.
+128. RUTH: Our beans have to be sold by June first. That's the bank's rule.
     루스: 우리 콩은 6월 1일까지 팔아야 해요. 은행 조건이거든요.
 
 129. SAM: Then bin number four gets the first motor.
@@ -411,25 +411,25 @@
 132. GENE: It's Gene, and that's a handshake, because out here a handshake is the contract, and the paper is for the bank and the lawyers.
     진: 진이라고 해. 그리고 이게 악수야. 여기선 악수가 계약이고, 종이는 은행이랑 변호사들용이지.
 
-133. TYLER: Does that hold up in court, sir? I'm just asking for our lawyer.
+133. TYLER: Does that hold up in court, sir? Just asking for our lawyer.
     타일러: 그거 법원에서도 인정돼요? 우리 변호사 때문에 여쭤보는 거예요.
 
 134. GENE: Son, if it ever gets to court out here, we've already lost. Your word is your bond.
     진: 이봐, 여기서 그게 법원까지 가면 이미 진 거야. 말이 곧 보증이지.
 
-135. TINA: Welcome to Story Prairie, Sam, and don't make us call the pizza place.
+135. TINA: Welcome to Story Prairie, Sam. Don't make us call the pizza place.
     티나: 스토리 프레리에 오신 걸 환영해요, 샘. 우리가 피자 가게에 전화하게 만들지 마요.
 
 136. SAM: You'll never have to, I promise.
     샘: 그럴 일 절대 없을 거예요. 약속해요.
 
-137. LYLE: Hey, Sam, before you go, Kurt, tell him about this morning.
+137. LYLE: Hey, Sam, before you go. Kurt, tell him about this morning.
     라일: 샘, 가기 전에요. 커트, 오늘 아침 얘기 해 줘.
 
 138. KURT: Right, the funny thing is that at seven this morning I got a call from the Greaves dealer, not Randy but the regional manager, and it's the first time he's ever called me.
     커트: 아, 맞다. 재밌는 게, 오늘 아침 일곱 시에 그리브스 딜러한테서 전화가 왔어요. 랜디 말고 지역 관리자였는데, 저한테 전화한 건 처음이에요.
 
-139. SAM: What did he want, because Greaves doesn't usually call co-ops, right?
+139. SAM: What did he want? Greaves doesn't usually call co-ops, right?
     샘: 뭘 원했대요? 그리브스는 보통 협동조합한테 전화 안 하잖아요?
 
 140. KURT: He offered us twenty percent off Greaves fan motors for the whole co-op if we sign this month, and he said, quote, "Be careful with outside motor companies. They come and go."
@@ -447,11 +447,11 @@
 144. GENE: Twenty percent off, when Greaves has never given this co-op twenty percent off anything, not in fifty-two years.
     진: 20퍼센트 할인이라니. 그리브스는 52년 동안 이 조합에 뭐든 20퍼센트 깎아 준 적이 없어.
 
-145. RUTH: So what does that tell you, Gene, and say it out loud.
+145. RUTH: So what does that tell you, Gene? Say it out loud.
     루스: 그래서 그게 무슨 뜻이겠어, 진? 소리 내서 말해 봐.
 
-146. GENE: It tells me Ohio is worth something, because Greaves doesn't waste a phone call on nobody.
-    진: 오하이오가 뭔가 가치가 있다는 거지. 그리브스는 아무한테나 전화 낭비 안 하거든.
+146. GENE: It tells me Ohio is worth something. Greaves doesn't waste a phone call on nobody.
+    진: 오하이오가 뭔가 가치가 있다는 거지. 그리브스는 아무한테나 전화 낭비 안 해.
 
 147. SAM: We're meeting Greaves next Thursday at their headquarters.
     샘: 다음 주 목요일에 그리브스 본사에서 그쪽을 만나요.

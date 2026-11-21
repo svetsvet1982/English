@@ -18,14 +18,14 @@
 001. JO: Welcome to the worst field in Michigan, and watch your step, because the mud here eats boots.
     조: 미시간 최악의 밭에 오신 걸 환영해요. 발밑 조심하세요. 여기 진흙은 부츠를 먹거든요.
 
-002. TYLER: It ate mine already, and my left foot is wet up to the ankle.
+002. TYLER: It ate mine already. My left foot is wet up to the ankle.
     타일러: 벌써 제 거 먹었어요. 왼발이 발목까지 젖었어요.
 
 003. JO: Then you're officially a farmer. Dr. Liu, Sam, this is Hal Duncan, whose orchard this is, with four generations of cherries.
     조: 그럼 공식적으로 농부가 되신 거예요. 리우 박사님, 샘, 이분이 4대째 체리 농사를 짓는 이 과수원 주인 할 던컨이에요.
 
-004. HAL: It's five, if you count my grandmother, who did the real work while my grandfather mostly talked to the horses.
-    할: 우리 할머니까지 치면 다섯이지. 진짜 일은 할머니가 했고, 할아버지는 주로 말들한테 말이나 걸었어.
+004. HAL: Five, if you count my grandmother. She did the real work. My grandfather mostly talked to the horses.
+    할: 우리 할머니까지 치면 다섯이지. 진짜 일은 할머니가 했어. 할아버지는 주로 말들한테 말이나 걸었고.
 
 005. SAM: These trees look dead, every single one, all the way up the hill.
     샘: 나무들이 언덕 위까지 하나도 빠짐없이 죽은 것 같아요.
@@ -39,8 +39,8 @@
 008. HAL: With three tractors on a hundred and sixty acres, it's about eighteen thousand dollars a year, and my workers breathe the exhaust all day between the rows, because under the trees the smoke doesn't go anywhere.
     할: 160에이커에 트랙터 세 대로 1년에 1만 8천 달러쯤이야. 그리고 우리 일꾼들이 하루 종일 줄 사이에서 배기가스를 마셔. 나무 밑에선 연기가 빠져나가질 않거든.
 
-009. JO: That's why I started Furrow, because my uncle worked orchards for thirty years and had a cough for the last ten.
-    조: 그래서 퍼로를 시작했어요. 삼촌이 30년 동안 과수원 일을 했는데, 마지막 10년은 기침을 달고 사셨거든요.
+009. JO: That's why I started Furrow. My uncle worked orchards for thirty years. He had a cough for the last ten.
+    조: 그래서 퍼로를 시작했어요. 삼촌이 30년 동안 과수원 일을 했는데, 마지막 10년은 기침을 달고 사셨어요.
 
 010. SAM: I'm sorry to hear that, Jo.
     샘: 그 얘긴 유감이에요, 조.
@@ -60,8 +60,8 @@
 015. WEN: It's so quiet that I can hear the birds over the motor.
     웬: 아주 조용해서 모터 소리 위로 새소리가 들려요.
 
-016. HAL: That's the part I like best, because my guys can talk to each other while they work, when with diesel they use hand signals.
-    할: 그게 내가 제일 좋아하는 부분이야. 디젤일 땐 손짓으로 하는데, 이건 우리 애들이 일하면서 서로 얘기할 수 있거든.
+016. HAL: That's the part I like best. My guys can talk to each other while they work. With diesel, they use hand signals.
+    할: 그게 내가 제일 좋아하는 부분이야. 우리 애들이 일하면서 서로 얘기할 수 있거든. 디젤일 땐 손짓으로 해.
 
 017. SAM: She's slowing down about halfway up.
     샘: 중간쯤에서 느려지네요.
@@ -87,11 +87,11 @@
 024. JO: It's a rare-earth permanent magnet motor from a supplier in Ningbo, and honestly it's a good motor that's very powerful for its size, but in heat and mud, under load for hours, it gets hot.
     조: 닝보 공급사의 희토류 영구자석 모터예요. 솔직히 크기에 비해 아주 강한 좋은 모터인데, 더위랑 진흙 속에서 몇 시간씩 부하가 걸리면 뜨거워져요.
 
-025. WEN: Rare-earth magnets lose strength when they get hot, so the motor has to slow down to protect the magnets, and that's physics, not quality.
-    웬: 희토류 자석은 뜨거워지면 힘이 약해져서, 자석을 보호하려고 모터가 느려져야 해요. 그건 품질이 아니라 물리학이에요.
+025. WEN: Rare-earth magnets lose strength when they get hot. So the motor has to slow down to protect the magnets. That's physics, not quality.
+    웬: 희토류 자석은 뜨거워지면 힘이 약해져요. 그래서 자석을 보호하려고 모터가 느려져야 하는 거예요. 그건 품질이 아니라 물리학이에요.
 
-026. JO: And the bigger problem is I can't get them, because in October my lead time went to twenty-six weeks, and now it's back to ten, but my investors keep asking about November.
-    조: 더 큰 문제는 구할 수가 없다는 거예요. 10월엔 납기가 26주까지 갔다가 지금은 10주로 돌아왔는데, 투자자들이 계속 11월을 물어봐요.
+026. JO: And the bigger problem is I can't get them. In October, my lead time went to twenty-six weeks. Now it's back to ten. But my investors keep asking about November.
+    조: 그리고 더 큰 문제는 구할 수가 없다는 거예요. 10월엔 납기가 26주까지 갔어요. 지금은 10주로 돌아왔고요. 근데 투자자들이 계속 11월을 물어봐요.
 
 027. TYLER: Everybody's asking about November, Greaves, Hank, and now you.
     타일러: 그리브스, 행크, 이젠 조까지, 다들 11월을 물어보네요.
@@ -114,7 +114,7 @@
 033. JO: Please do, because Sofia, our lead engineer, is in the barn with a spare one on the bench, and she's been waiting all week to meet you.
     조: 그럼요. 우리 수석 엔지니어 소피아가 헛간에서 예비 모터를 작업대에 올려놓고 박사님 만나려고 일주일 내내 기다렸어요.
 
-034. SAM: Hal, can I ask you something? If Jo's tractor worked all day with no stopping, would you buy it?
+034. SAM: Hal, can I ask you something? If Jo's tractor worked all day, no stopping, would you buy it?
     샘: 할, 하나 물어봐도 돼요? 조의 트랙터가 멈추지 않고 하루 종일 돌아간다면 사시겠어요?
 
 035. HAL: For the right price I'd buy three, and I'd sell my diesels to a guy in Ohio, no offense.
@@ -123,13 +123,13 @@
 036. SAM: None taken, so what's the right price for a man like you?
     샘: 괜찮아요. 그럼 할 같은 분한테 맞는 값은 얼마예요?
 
-037. HAL: A diesel this size is about forty thousand, so if the electric is fifty-five and I save eighteen thousand a year on fuel, I'll do the math, and it's not hard math.
-    할: 이만한 디젤이 4만 달러쯤이야. 전기가 5만 5천이고 연료비를 1년에 1만 8천 아끼면, 계산은 내가 하지. 어려운 계산도 아니고.
+037. HAL: A diesel this size is about forty thousand. If the electric is fifty-five, and I save eighteen thousand a year on fuel, I'll do the math. It's not hard math.
+    할: 이만한 디젤이 4만 달러쯤이야. 전기가 5만 5천이고 연료비를 1년에 1만 8천 아끼면, 계산은 내가 하지. 어려운 계산 아니야.
 
 038. TYLER: The diesel savings pay back the difference in one year.
     타일러: 디젤 아낀 돈으로 1년이면 차액이 빠지네요.
 
-039. HAL: And my guys stop coughing, which you can't put in a spreadsheet, but I put it in mine anyway.
+039. HAL: And my guys stop coughing. You can't put that in a spreadsheet, but I put it in mine anyway.
     할: 그리고 우리 애들 기침도 멈추고. 그건 스프레드시트에 못 넣지만, 난 어쨌든 넣어.
 
 040. JO: Come on to the barn, where there's coffee and the heater actually works on both sides.
@@ -159,8 +159,8 @@
 048. WEN: Did you say cherry juice?
     웬: 체리즙이라고 했어요?
 
-049. SOFIA: It's sticky and it gets everywhere, so it's the enemy of every seal.
-    소피아: 끈적하고 어디든 들어가서 모든 밀봉의 적이에요.
+049. SOFIA: It's sticky, and it gets everywhere. It's the enemy of every seal.
+    소피아: 끈적하고 어디든 들어가요. 모든 밀봉의 적이에요.
 
 050. WEN: Good, because I like a real enemy, and here's the honest answer: for the same power, our ferrite motor will be about eighteen percent heavier than this one.
     웬: 좋아요. 진짜 적이 있는 게 좋거든요. 솔직한 대답은, 같은 출력이면 우리 페라이트 모터가 이것보다 18퍼센트쯤 더 무거울 거라는 거예요.
@@ -246,8 +246,8 @@
 077. WEN: The traction motor shares a lot with our Atlas pump motor and our drone line, so with a new housing, new winding, and new firmware profile, it's eight weeks for the first pair.
     웬: 구동 모터는 아틀라스 펌프 모터, 드론 라인이랑 공유하는 게 많아서, 하우징이랑 권선, 펌웨어 설정만 새로 하면 첫 한 쌍은 8주요.
 
-078. JO: Eight weeks is June, which is the middle of the season.
-    조: 8주면 6월인데, 시즌 한가운데예요.
+078. JO: Eight weeks is June. That's the middle of the season.
+    조: 8주면 6월이에요. 시즌 한가운데예요.
 
 079. SAM: Can we do something faster for a field test?
     샘: 현장 시험용으로 더 빨리 할 방법 있어요?
@@ -258,16 +258,16 @@
 081. JO: Two weeks means that by mid-April, one of my tractors has a Ferrox motor in it.
     조: 2주면 4월 중순엔 제 트랙터 한 대에 페록스 모터가 들어가는 거네요.
 
-082. TYLER: And then where do you test it, since it's still muddy here?
-    타일러: 그다음엔 어디서 시험해요? 여긴 아직 질척하잖아요.
+082. TYLER: And then where do you test it? It's still muddy here, right?
+    타일러: 그다음엔 어디서 시험해요? 여긴 아직 질척하잖아요?
 
 083. JO: Here, and somewhere flat and hard with real farm work in April, like row crops and planting.
     조: 여기서도 하고, 4월에 줄뿌림 작물이나 파종 같은 진짜 농사일이 있는 평평하고 단단한 데서도 해야죠.
 
-084. SAM: I know a farm in Iowa that starts planting around the twentieth, where the farmer has a nineteen seventy-nine tractor named Marge, and he can fix anything.
-    샘: 20일쯤 파종을 시작하는 아이오와 농장을 하나 알아요. 그 농부한테 마지라는 1979년식 트랙터가 있고, 뭐든 고칠 수 있어요.
+084. SAM: I know a farm in Iowa. They start planting around the twentieth. The farmer has a nineteen seventy-nine tractor named Marge, and he can fix anything.
+    샘: 아이오와에 농장을 하나 알아요. 20일쯤 파종을 시작해요. 그 농부한테 마지라는 1979년식 트랙터가 있고, 뭐든 고칠 수 있어요.
 
-085. JO: Would he let a startup tractor on his farm during planting, because that's a big ask?
+085. JO: Would he let a startup tractor on his farm during planting? That's a big ask.
     조: 파종철에 스타트업 트랙터를 자기 농장에 들여 줄까요? 그건 큰 부탁인데요.
 
 086. SAM: Let me call him, because he always picks up on the second ring.
@@ -324,8 +324,8 @@
 103. JO: Twenty-one hundred is my number.
     조: 2,100달러, 그게 제 숫자예요.
 
-104. SAM: Jo, can I be honest about our costs? The motor is heavier, so there's more steel and copper, and we make it in Ohio with people who get paid a real wage, so we can't get to twenty-one hundred on day one.
-    샘: 조, 원가 얘기 솔직하게 해도 돼요? 모터가 무거우니까 강철이랑 구리가 더 들고, 오하이오에서 제대로 된 임금 받는 사람들이 만들어요. 그래서 첫날부터 2,100달러는 안 돼요.
+104. SAM: Jo, can I be honest about our costs? The motor is heavier, so there's more steel and more copper. And we make it in Ohio, with people who get paid a real wage. We can't get to twenty-one hundred on day one.
+    샘: 조, 원가 얘기 솔직하게 해도 돼요? 모터가 무거우니까 강철이랑 구리가 더 들어요. 그리고 오하이오에서 제대로 된 임금 받는 사람들이 만들어요. 첫날부터 2,100달러는 안 돼요.
 
 105. JO: Then when, so give me a date I can show my investors.
     조: 그럼 언제요? 투자자들한테 보여 줄 날짜를 줘요.
@@ -372,7 +372,7 @@
 119. JO: Hal, you're supposed to be on my side.
     조: 할 아저씨, 제 편이어야죠.
 
-120. HAL: I am on your side, because I want your tractor to make it up my hill.
+120. HAL: I am on your side. I want your tractor to make it up my hill.
     할: 네 편이야. 네 트랙터가 내 언덕을 올라갔으면 좋겠다니까.
 
 121. JO: Gloria, can I ask for one thing? I want the open port in the contract, in writing, so if Ferrox ever gets bought by a big company, nobody can lock my farmers out.
@@ -381,7 +381,7 @@
 122. SAM: Done, so put it in, because Ferrox isn't for sale, but put it in anyway.
     샘: 좋아요, 넣으세요. 페록스는 매물이 아니지만 그래도 넣으세요.
 
-123. GLORIA: I'll have Ben write it tonight, and he'll complain, but he'll write it.
+123. GLORIA: I'll have Ben write it tonight. He'll complain, but he'll write it.
     글로리아: 오늘 밤에 벤한테 쓰라고 할게요. 투덜대겠지만 쓸 거예요.
 
 124. JO: Then we have a deal, a prototype deal.
@@ -411,13 +411,13 @@
 132. WEN: Jo, may I ask why you chose us, when you could have waited for the pause to continue like many companies will?
     웬: 조, 왜 우리를 골랐는지 물어봐도 돼요? 많은 회사처럼 유예가 계속되길 기다릴 수도 있었잖아요.
 
-133. JO: Because hope isn't a supply chain, which my dad told me after running a parts store in Flint for thirty years, where he watched a lot of factories hope.
-    조: 희망은 공급망이 아니니까요. 플린트에서 30년 동안 부품 가게를 하면서 공장들이 희망만 품는 걸 많이 본 아빠가 해 준 말이에요.
+133. JO: Because hope isn't a supply chain. My dad told me that. He ran a parts store in Flint for thirty years. He watched a lot of factories hope.
+    조: 희망은 공급망이 아니니까요. 아빠가 해 준 말이에요. 플린트에서 30년 동안 부품 가게를 했어요. 공장들이 희망만 품는 걸 많이 봤죠.
 
 134. SAM: Flint, huh, my dad would like your dad.
     샘: 플린트라. 우리 아버지가 그쪽 아버지를 좋아하시겠네요.
 
-135. JO: Everybody's dad would like my dad, and he's dead, but they would.
+135. JO: Everybody's dad would like my dad. He's dead, but they would.
     조: 다들 우리 아빠를 좋아할 거예요. 돌아가셨지만, 그래도요.
 
 136. SAM: I'm sorry, Jo, because he sounds like a man who would've liked Betsy.
@@ -441,16 +441,16 @@
 142. SAM: Two months ago, I didn't know anybody in Iowa.
     샘: 두 달 전만 해도 아이오와에 아는 사람이 없었어요.
 
-143. JO: Two months ago, I didn't know anybody in Ohio, and now I've got a CFO yelling numbers at me.
-    조: 두 달 전엔 저도 오하이오에 아는 사람이 없었는데, 이젠 숫자 외치는 CFO가 생겼네요.
+143. JO: Two months ago, I didn't know anybody in Ohio. Now I've got a CFO yelling numbers at me.
+    조: 두 달 전엔 저도 오하이오에 아는 사람이 없었어요. 이젠 숫자 외치는 CFO가 생겼네요.
 
-144. WEN: Sofia, I'll send you the cold-start profile tonight, so you can test it in your freezer room.
-    웬: 소피아, 오늘 밤에 저온 시동 설정 보내 줄 테니 냉동실에서 시험해 봐요.
+144. WEN: Sofia, I'll send you the cold-start profile tonight. You can test it in your freezer room.
+    웬: 소피아, 오늘 밤에 저온 시동 설정 보내 줄게요. 냉동실에서 시험해 보면 돼요.
 
 145. SOFIA: You have no idea how happy that makes me.
     소피아: 그게 저를 얼마나 기쁘게 하는지 모르실 거예요.
 
-146. WEN: I have some idea, because I used to test things in my apartment freezer in graduate school.
+146. WEN: I have some idea. I used to test things in my apartment freezer in graduate school.
     웬: 조금은 알아요. 대학원 때 제 아파트 냉동실에서 이것저것 시험했거든요.
 
 147. JO: Sam, one last thing about the back of my card, so do you remember what it says?

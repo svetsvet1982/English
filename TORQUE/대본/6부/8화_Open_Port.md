@@ -21,7 +21,7 @@
 002. SAM: It's important, because Greaves wants an answer by Friday and I'm going to give it today, but before I do, I want to hear from everybody one more time.
     샘: 중요해요. 그리브스가 금요일까지 답을 달라는데 오늘 줄 거예요. 그 전에 다들 얘기를 한 번 더 듣고 싶어요.
 
-003. GLORIA: You already know what I think, because I said it on the phone last week: this deal is a choice, not a rescue.
+003. GLORIA: You already know what I think. I said it on the phone last week. This deal is a choice, not a rescue.
     글로리아: 내 생각은 이미 알잖아. 지난주에 전화로 말했지. 이 거래는 선택이지 구조가 아니라고.
 
 004. SAM: I want to hear it again with the numbers, out loud, in front of Betsy.
@@ -87,8 +87,8 @@
 024. TYLER: I never said they were dumb.
     타일러: 전 그 사람들이 멍청하다고 한 적 없어요.
 
-025. EARL: I know you didn't, son, but I'm saying the lock says it for you.
-    얼: 알아, 얘야. 근데 잠금이 너 대신 그 말을 한다는 거야.
+025. EARL: I know you didn't, son. I'm saying the lock says it for you.
+    얼: 알아, 얘야. 잠금이 너 대신 그 말을 한다는 거야.
 
 026. SAM: Tyler, you get the last word before I decide, so is there anything you haven't said?
     샘: 타일러, 결정하기 전 마지막 말이야. 아직 안 한 말 있어?
@@ -114,7 +114,7 @@
 033. GLORIA: You know what they'll say.
     글로리아: 그쪽이 뭐라고 할지 알잖아.
 
-034. SAM: I know what they'll say, and I'm going to give them the chance to say it.
+034. SAM: I know what they'll say. I'm going to give them the chance to say it.
     샘: 알아요. 그 말을 할 기회를 주려는 거예요.
 
 035. WEN: Thank you, Sam, because I've been waiting six years for someone to let me build it this way.
@@ -123,8 +123,8 @@
 036. SAM: Don't thank me, because you built it and I just said yes.
     샘: 고마워하지 마요. 웬이 만든 거고 난 그냥 '네' 했을 뿐이에요.
 
-037. WEN: Saying yes was the expensive part, because writing the code is easy, but deciding to give it away is hard.
-    웬: '네'라고 하는 게 비싼 부분이었어요. 코드 짜는 건 쉽지만 그걸 내주기로 결정하는 게 어렵거든요.
+037. WEN: Saying yes was the expensive part. Writing the code is easy. Deciding to give it away is hard.
+    웬: '네'라고 하는 게 비싼 부분이었어요. 코드 짜는 건 쉬워요. 그걸 내주기로 결정하는 게 어렵죠.
 
 038. EARL: It's seven, so it's huddle time, and everybody's at Betsy.
     얼: 일곱 시다, 허들 시간. 다들 베치 앞에 모였어.
@@ -135,14 +135,14 @@
 040. PATTY: The drone line is at twelve hundred this month and on schedule, there are twenty FX-A7 fan motors for Iowa, and I heard a rumor that we're going to start putting plugs on everything.
     패티: 드론 라인은 이번 달 천이백 개로 일정대로고, 아이오와행 FX-A7 팬 모터 스무 개 있어요. 그리고 이제 모든 제품에 플러그를 단다는 소문을 들었어요.
 
-041. SAM: You heard right, Patty, and I'll tell you all about it tonight, but right now I have a phone call to make.
-    샘: 제대로 들었어요, 패티. 오늘 밤에 다 얘기해 줄 건데, 지금은 전화 한 통 해야 해서요.
+041. SAM: You heard right, Patty. I'll tell you all about it tonight. Right now, I have a phone call to make.
+    샘: 제대로 들었어요, 패티. 오늘 밤에 다 얘기해 줄게요. 지금은 전화 한 통 해야 해서요.
 
 042. NEIL: Sam, you're two days early, so is that a good sign or a bad sign?
     닐: 샘, 이틀 일찍 연락하셨네요. 좋은 신호예요, 나쁜 신호예요?
 
-043. SAM: It's an honest sign, Neil, so I'll get straight to it: we can't do the firmware lock.
-    샘: 정직한 신호예요. 닐, 바로 말씀드리면, 펌웨어 잠금은 못 해요.
+043. SAM: It's an honest sign. Neil, I'll get straight to it. We can't do the firmware lock.
+    샘: 정직한 신호예요. 닐, 바로 말씀드릴게요. 펌웨어 잠금은 못 해요.
 
 044. NEIL: I see, and I was afraid you'd say that.
     닐: 그렇군요. 그 말씀 하실까 봐 걱정했어요.
@@ -159,10 +159,10 @@
 048. NEIL: Can I ask why, really, since you're walking away from twelve million dollars? I've been in sourcing for twenty years, and I've never seen a supplier your size walk away from a number like that.
     닐: 진짜로 이유를 물어봐도 돼요? 1,200만 달러를 걷어차는 거잖아요. 구매 일 20년 했는데, 그쪽 규모 공급사가 그런 숫자를 걷어차는 건 처음 봐요.
 
-049. SAM: Because I sat at a farmer's kitchen table and his wife asked me whether I would build motors a farmer can fix himself, and I said I'd try, and I can't put our name on a lock and still say I tried.
-    샘: 농부 부엌 식탁에 앉았는데, 그 부인이 농부가 직접 고칠 수 있는 모터를 만들어 주겠냐고 물었고, 저는 노력하겠다고 했어요. 잠금에 우리 이름을 붙이면서 노력했다고 말할 순 없어요.
+049. SAM: Because I sat at a farmer's kitchen table, and his wife asked me one question. Would I build motors a farmer can fix himself? I said I'd try. I can't put our name on a lock and still say I tried.
+    샘: 농부 부엌 식탁에 앉았는데 그 부인이 질문 하나를 했어요. 농부가 직접 고칠 수 있는 모터를 만들어 주겠냐고요. 노력하겠다고 했어요. 잠금에 우리 이름을 붙이면서 노력했다고 말할 순 없어요.
 
-050. NEIL: Your name wouldn't have been on it, since that was the white label.
+050. NEIL: Your name wouldn't have been on it. That was the white label.
     닐: 그쪽 이름은 안 붙었을 거예요. 그게 화이트 라벨이었잖아요.
 
 051. SAM: That's worse, because then I'd be hiding.
@@ -171,7 +171,7 @@
 052. NEIL: Then we're done, and I'm sorry, Sam, I mean that.
     닐: 그럼 여기까지네요. 유감이에요, 샘. 진심이에요.
 
-053. SAM: I know you do, because you've been straight with us from the start.
+053. SAM: I know you do. You've been straight with us from the start.
     샘: 알아요. 처음부터 솔직하게 대해 주셨잖아요.
 
 054. NEIL: You understand what happens next, because we'll sign with the Carolina company, and their motor will be in our planters by next spring, locked, so your competitor gets a twelve-million-dollar contract, and maybe a lot more.
@@ -189,13 +189,13 @@
 058. NEIL: You really believe that's a business.
     닐: 그게 사업이 된다고 정말 믿으시네요.
 
-059. SAM: I believe it's the long game, because every farmer in Iowa remembers who let them fix their own machine, and that's customer loyalty you can't buy with a discount.
-    샘: 장기전이라고 믿어요. 아이오와 농부들은 누가 자기 기계를 고치게 해 줬는지 다 기억하는데, 그건 할인으로는 못 사는 고객 충성도예요.
+059. SAM: I believe it's the long game. Every farmer in Iowa remembers who let them fix their own machine. That's customer loyalty you can't buy with a discount.
+    샘: 장기전이라고 믿어요. 아이오와 농부들은 누가 자기 기계를 고치게 해 줬는지 다 기억해요. 그건 할인으로는 못 사는 고객 충성도예요.
 
-060. NEIL: Or they'll remember the cheaper motor, because farmers are loyal, Sam, but they're also broke this year.
+060. NEIL: Or they'll remember the cheaper motor. Farmers are loyal, Sam. But they're also broke this year.
     닐: 아니면 더 싼 모터를 기억하겠죠. 농부들은 충성스러워요, 샘. 근데 올해는 빈털터리기도 하고요.
 
-061. SAM: You might be right, and we'll find out by next spring.
+061. SAM: You might be right. We'll find out by next spring.
     샘: 그쪽 말이 맞을 수도 있죠. 내년 봄이면 알게 되겠죠.
 
 062. NEIL: I usually am, which is why they pay me, but since this is our last conversation for a while, I'll tell you something off the record.
@@ -204,10 +204,10 @@
 063. SAM: Go ahead, Neil.
     샘: 말씀하세요, 닐.
 
-064. NEIL: Paula asked me to tell you good luck, and off the record, I hope you're right, because my grandfather had a farm too.
+064. NEIL: Paula asked me to tell you good luck. And off the record, I hope you're right. My grandfather had a farm too.
     닐: 폴라가 행운을 빈다고 전해 달래요. 그리고 비공식적으로, 그쪽이 옳았으면 좋겠어요. 우리 할아버지도 농장이 있었거든요.
 
-065. SAM: Everybody's grandfather had a farm, but mine had a lunch pail and a job at the GM plant.
+065. SAM: Everybody's grandfather had a farm. Mine had a lunch pail and a job at the GM plant.
     샘: 다들 할아버지가 농장을 하셨네요. 우리 할아버지는 도시락통이랑 GM 공장 일자리가 있었는데.
 
 066. NEIL: In the Midwest, that's almost the same thing, so goodbye, Sam.
@@ -234,7 +234,7 @@
 073. TYLER: It doesn't feel like I was right.
     타일러: 제가 옳았던 기분은 안 드는데요.
 
-074. SAM: It never does on the day, so ask me in a year.
+074. SAM: It never does on the day. Ask me in a year.
     샘: 그날엔 원래 그런 기분 안 들어. 1년 뒤에 물어봐.
 
 075. GLORIA: Sam, Megan Cho, the reporter, called, because she's writing about right to repair and she heard Greaves was talking to us.
@@ -243,7 +243,7 @@
 076. SAM: Already, after forty minutes?
     샘: 벌써요? 40분밖에 안 됐는데.
 
-077. GLORIA: Every company has a man at the elevator, baby, and she wants to come to Iowa tonight.
+077. GLORIA: Every company has a man at the elevator, baby. She wants to come to Iowa tonight.
     글로리아: 회사마다 엘리베이터에 사람 하나씩은 있잖아, 얘. 오늘 밤 아이오와에 오고 싶대.
 
 078. SAM: Why Iowa tonight, when I just got off the phone with Greaves?
@@ -291,7 +291,7 @@
 092. SAM: You're never not here, Megan.
     샘: 메건이 없었던 적은 없죠.
 
-093. MEGAN: That's my job, Sam, because somebody has to write it down.
+093. MEGAN: That's my job, Sam. Somebody has to write it down.
     메건: 그게 제 일이에요, 샘. 누군가는 받아 적어야죠.
 
 094. RUTH: Everybody, you all know Sam by now, because he sat in the back three weeks ago and listened, and tonight he asked to talk, so go ahead, Sam.
@@ -327,19 +327,19 @@
 104. TINA: What's the catch, since there's always a catch with good news?
     티나: 함정이 뭐예요? 좋은 소식엔 늘 함정이 있잖아요.
 
-105. SAM: There's one thing you can't do, which is rewrite the software that runs the motor, because that stays locked for safety, so you can read it and fix it, but you can't reprogram it to run too hot and burn your barn down.
-    샘: 못 하는 게 하나 있어요. 모터를 돌리는 소프트웨어는 안전 때문에 잠가 둬요. 읽고 고칠 수는 있지만, 너무 뜨겁게 돌도록 다시 프로그래밍해서 헛간을 태울 순 없어요.
+105. SAM: There's one thing you can't do. You can't rewrite the software that runs the motor. That stays locked, for safety. You can read it. You can fix it. You can't reprogram it to run too hot and burn your barn down.
+    샘: 못 하는 게 하나 있어요. 모터를 돌리는 소프트웨어는 다시 쓸 수 없어요. 그건 안전 때문에 잠가 둬요. 읽을 수 있고, 고칠 수 있어요. 근데 너무 뜨겁게 돌도록 다시 프로그래밍해서 헛간을 태울 순 없어요.
 
-106. GENE: I can live with that, since my brother burned his barn down without any software.
-    진: 그건 받아들일 수 있지. 우리 형은 소프트웨어 없이도 헛간을 태웠으니까.
+106. GENE: I can live with that. My brother burned his barn down without any software.
+    진: 그건 받아들일 수 있지. 우리 형은 소프트웨어 없이도 헛간을 태웠어.
 
 107. LORNA: Sam, I have to say that in the seven years I've been doing this work, you're the first motor company I've seen say this out loud, in public, to farmers.
     로나: 샘, 이건 말해야겠어요. 이 일 7년 했는데, 이걸 공개적으로 농부들 앞에서 소리 내서 말하는 모터 회사는 처음 봐요.
 
-108. SAM: We're a small company, Lorna, so don't make us bigger than we are.
+108. SAM: We're a small company, Lorna. Don't make us bigger than we are.
     샘: 우린 작은 회사예요, 로나. 실제보다 크게 만들지 마세요.
 
-109. LORNA: Small companies are where everything starts, so ask the Wright brothers.
+109. LORNA: Small companies are where everything starts. Ask the Wright brothers.
     로나: 모든 건 작은 회사에서 시작해요. 라이트 형제한테 물어봐요.
 
 110. SAM: You know about the Wright brothers?
@@ -399,7 +399,7 @@
 128. SAM: I'm being fair, because they made an offer and we didn't like the terms, which is business, so the story is the port, not the fight.
     샘: 공정하게 하는 거예요. 그쪽이 제안했고 우린 조건이 마음에 안 들었으니, 그게 사업이죠. 기사는 싸움이 아니라 포트예요.
 
-129. MEGAN: You're a strange CEO, Sam, because most of them want me to write about the fight.
+129. MEGAN: You're a strange CEO, Sam. Most of them want me to write about the fight.
     메건: 이상한 CEO예요, 샘. 대부분은 싸움 얘기를 써 달라고 하거든요.
 
 130. SAM: I hear that a lot, mostly from Gloria, in her office.
@@ -417,8 +417,8 @@
 134. TYLER: Here it comes.
     타일러: 온다.
 
-135. GLORIA: You turned down three point four million in profit, you added nine dollars to every motor we make, you spent a hundred and eighty thousand on an app, and you handed Calloway a customer.
-    글로리아: 넌 이익 340만 달러를 거절했고, 우리 모터마다 9달러를 더했고, 앱에 18만 달러를 썼고, 캘러웨이한테 고객을 넘겨줬어.
+135. GLORIA: You turned down three point four million in profit. You added nine dollars to every motor we make. You spent a hundred and eighty thousand on an app. And you handed Calloway a customer.
+    글로리아: 넌 이익 340만 달러를 거절했어. 우리가 만드는 모터마다 9달러를 더했고. 앱에 18만 달러를 썼고. 그리고 캘러웨이한테 고객을 넘겨줬어.
 
 136. SAM: When you say it like that, it sounds bad.
     샘: 그렇게 말하니까 나빠 보이네요.
@@ -435,8 +435,8 @@
 140. SAM: That's my phone, and it's Wen.
     샘: 폰 울리네. 웬이에요.
 
-141. WEN: Patty told me you announced it at the church, and I wanted you to know that I wrote to Annika an hour ago.
-    웬: 패티가 교회에서 발표했다고 하더라고요. 한 시간 전에 아니카한테 답장했다는 거 알려 주고 싶었어요.
+141. WEN: Patty told me you announced it at the church. I wanted you to know something. I wrote to Annika an hour ago.
+    웬: 패티가 교회에서 발표했다고 하더라고요. 알려 줄 게 있어요. 한 시간 전에 아니카한테 답장했어요.
 
 142. SAM: And what did you tell her, Wen?
     샘: 그래서 뭐라고 했어요, 웬?
@@ -453,10 +453,10 @@
 146. TYLER: Text from Erin. "Purdue decisions come out next Friday, the twenty-seventh, at seven p.m. Lily wants you home. Not in Iowa. Home."
     타일러: 에린 문자예요. "퍼듀 결과가 다음 주 금요일, 27일 저녁 일곱 시에 나와. 릴리가 당신이 집에 있길 원해. 아이오와 말고. 집에."
 
-147. SAM: Tell her I'll be home, and that I'll be in the kitchen by six.
+147. SAM: Tell her I'll be home. Tell her I'll be in the kitchen by six.
     샘: 집에 있을 거라고 전해 줘. 여섯 시까지 부엌에 있겠다고.
 
-148. GLORIA: Do you know what you did today, Sam? That was a twelve-million-dollar speech.
+148. GLORIA: You know what you did today, Sam? That was a twelve-million-dollar speech.
     글로리아: 너 오늘 뭐 했는지 알아, 샘? 그건 1,200만 달러짜리 연설이었어.
 
 149. SAM: Honestly, Gloria, was it worth it?

@@ -27,7 +27,7 @@
 004. TYLER: It's a green comb, just like you said it would look.
     타일러: 말씀하신 대로 초록 빗처럼 보이네요.
 
-005. DALE: I always tell the truth about corn, and it's people I exaggerate about.
+005. DALE: I always tell the truth about corn. It's people I exaggerate about.
     데일: 옥수수에 대해선 늘 사실대로 말해요. 과장은 사람에 대해서만 하지.
 
 006. RUTH: And the north eighty is still ours, because Janine called yesterday to say the bank board looked at Gloria's plan, and they're giving us until the fall harvest with no sale.
@@ -60,8 +60,8 @@
 015. JO: Seed money is the first money a young company raises to plant itself and grow, like seed corn, because you put it in the ground and hope it comes up.
     조: 종잣돈은 젊은 회사가 뿌리내리고 자라려고 처음 모으는 돈이에요. 씨옥수수처럼 땅에 심고 올라오길 바라는 거죠.
 
-016. DALE: I know about seed money, since mine costs three hundred dollars a bag.
-    데일: 종잣돈은 알아요. 내 건 한 포대에 300달러거든요.
+016. DALE: I know about seed money. Mine costs three hundred dollars a bag.
+    데일: 종잣돈은 알아요. 내 건 한 포대에 300달러예요.
 
 017. JO: Mine cost me two years of sleep, but okay, contract one is Ferrox and Furrow, for production motors in twenty twenty-seven.
     조: 제 건 2년치 잠을 대가로 치렀어요. 자, 계약서 하나는 페록스랑 퍼로의 2027년 양산 모터예요.
@@ -78,7 +78,7 @@
 021. JO: It's ninety thousand dollars on signing, out of the seed money.
     조: 서명 때 9만 달러요. 종잣돈에서 나가요.
 
-022. GLORIA: Then sign it before somebody changes their mind, and Sam, I mean you.
+022. GLORIA: Then sign it before somebody changes their mind. Sam, I mean you.
     글로리아: 그럼 누가 마음 바꾸기 전에 서명해. 샘, 너 말하는 거야.
 
 023. SAM: I'm not changing my mind, so Jo, where do you want me to sign, on the hood again?
@@ -111,8 +111,8 @@
 032. RUTH: Eight thousand is half the repair savings Gloria found, Dale.
     루스: 8천 달러면 글로리아가 찾아낸 수리비 절감의 절반이야, 데일.
 
-033. DALE: I'm reading it, Ruth, because I read everything before I sign, like my father taught me.
-    데일: 읽고 있어, 루스. 아버지가 가르쳐 주신 대로 서명하기 전에 다 읽어.
+033. DALE: I'm reading it, Ruth. I read everything before I sign. My father taught me that.
+    데일: 읽고 있어, 루스. 난 서명하기 전에 다 읽어. 아버지가 가르쳐 주셨어.
 
 034. JO: Take all the time you need.
     조: 필요한 만큼 천천히 하세요.
@@ -129,13 +129,13 @@
 038. RUTH: Right here in the field with the corn coming up, Dale Amundsen is signing a contract for an electric tractor.
     루스: 바로 여기, 옥수수 올라오는 밭에서 데일 아먼슨이 전기 트랙터 계약서에 서명하네.
 
-039. DALE: Just don't tell my father.
+039. DALE: Don't tell my father.
     데일: 아버지한텐 말하지 마.
 
-040. RUTH: Your father would've driven it before you, because he loved anything new that worked.
+040. RUTH: Your father would've driven it before you. He loved anything new that worked.
     루스: 아버님이었으면 당신보다 먼저 몰았을 거야. 새것이면서 잘 돌아가는 건 다 좋아하셨잖아.
 
-041. GLORIA: Before you all go crying in a cornfield, I have news, so is Sam still there?
+041. GLORIA: Before you all go crying in a cornfield, I have news. Is Sam still there?
     글로리아: 다들 옥수수밭에서 울기 전에 소식 있어. 샘 아직 거기 있어?
 
 042. SAM: I'm right here, Gloria.
@@ -171,8 +171,8 @@
 052. RUTH: Gloria, it's Ruth, and thank you for the plan and for the bank.
     루스: 글로리아, 루스예요. 계획이랑 은행 일, 고마워요.
 
-053. GLORIA: Ruth, honey, you did the work, and I just checked your math, which didn't need checking.
-    글로리아: 루스, 일은 당신이 했어요. 난 계산만 확인했는데, 확인할 필요도 없었고요.
+053. GLORIA: Ruth, honey, you did the work. I just checked your math. Your math didn't need checking.
+    글로리아: 루스, 일은 당신이 했어요. 난 계산만 확인했지. 당신 계산은 확인할 필요도 없었고.
 
 054. RUTH: Come to Iowa sometime without Sam, just us and the books.
     루스: 언제 샘 빼고 아이오와에 와요. 우리 둘이서 장부랑 같이.
@@ -195,7 +195,7 @@
 060. KURT: He spent two days here two weeks ago and showed Danny how to change a bearing in eleven minutes, and then he ate four pieces of Tina's mom's lemon bars.
     커트: 2주 전에 이틀 와서 대니한테 베어링을 11분 만에 가는 법을 보여 주고, 티나 어머니 레몬 바를 네 조각 먹었어요.
 
-061. TINA: My mom adopted him, and she wants him back for the county fair.
+061. TINA: My mom adopted him. She wants him back for the county fair.
     티나: 우리 엄마가 그 사람을 입양했어요. 카운티 축제 때 다시 오래요.
 
 062. KURT: All hundred and forty fan motors are installed with zero failures, and the spare shelf at the elevator hasn't been touched.
@@ -225,7 +225,7 @@
 070. MARLENE: Out here we always have to, because that's the rule, and Roy says if you ever need a cow, call him.
     말린: 여기선 늘 그래야 해요. 그게 규칙이에요. 로이가 혹시 소가 필요하면 전화하래요.
 
-071. SAM: I'll keep that in mind, although I don't know where I'd put a cow.
+071. SAM: I'll keep that in mind. I don't know where I'd put a cow.
     샘: 기억해 둘게요. 소를 어디 둬야 할진 모르겠지만.
 
 072. SAM: That's my phone, and it's Hank, so Hank, I'm standing in Dale's driveway with half the county.
@@ -249,8 +249,8 @@
 078. SAM: Dale, I can't take your father's wrench.
     샘: 데일, 아버님 렌치를 받을 순 없어요.
 
-079. DALE: You can and you will, because Ruth says I have eleven of them, and this one fixed Marge more times than I can count, so hang it next to your Old Betsy.
-    데일: 받을 수 있고, 받을 거예요. 루스 말로는 나한테 열한 개 있대요. 이건 셀 수 없을 만큼 마지를 고쳤으니 당신네 올드 베치 옆에 걸어 둬요.
+079. DALE: You can, and you will. Ruth says I have eleven of them. This one fixed Marge more times than I can count. Hang it next to your Old Betsy.
+    데일: 받을 수 있고, 받을 거예요. 루스 말로는 나한테 열한 개 있대요. 이건 셀 수 없을 만큼 마지를 고쳤어요. 당신네 올드 베치 옆에 걸어 둬요.
 
 080. SAM: I'll hang it next to Betsy, right where everybody can see it.
     샘: 베치 옆, 다들 볼 수 있는 자리에 걸게요.
@@ -261,7 +261,7 @@
 082. TYLER: The pie war is over?
     타일러: 파이 전쟁 끝난 거예요?
 
-083. RUTH: The pie war is never over, so this is a ceasefire.
+083. RUTH: The pie war is never over. This is a ceasefire.
     루스: 파이 전쟁은 절대 안 끝나요. 이건 휴전이에요.
 
 084. SAM: Ruth, Dale, thank you for the letter, for the table, and for everything.
@@ -339,7 +339,7 @@
 108. WEN: That's a no with a tie on.
     웬: 넥타이 맨 '없다'죠.
 
-109. SAM: Wen, how's the code book, since Dale used it in the dark, in the mud, during a power outage?
+109. SAM: Wen, how's the code book? Dale used it in the dark, in the mud, during a power outage.
     샘: 웬, 코드 책은 어때요? 데일이 정전 중에 어둠 속에서, 진흙 속에서 썼어요.
 
 110. WEN: I know, because he sent me an email, his first email ever, Ruth says, and it said, "Your book is good. Page four has a typo. Bearing has one R." I'm fixing it tonight.
@@ -366,13 +366,13 @@
 117. SAM: Thank you for staying, Wen.
     샘: 남아 줘서 고마워요, 웬.
 
-118. WEN: I didn't stay for you, I stayed for the open port, and you just happened to be standing next to it.
-    웬: 샘 때문이 아니라 열린 포트 때문에 남은 거예요. 샘이 마침 그 옆에 서 있었을 뿐이고요.
+118. WEN: I didn't stay for you. I stayed for the open port. You just happened to be standing next to it.
+    웬: 샘 때문에 남은 거 아니에요. 열린 포트 때문에 남은 거예요. 샘이 마침 그 옆에 서 있었을 뿐이고요.
 
 119. TYLER: Erin's texting you: "ETA? Lily made dinner. Lily has never made dinner. Come home before she changes her mind."
     타일러: 에린 문자예요. "도착 예정? 릴리가 저녁 했어. 릴리가 저녁 한 거 처음이야. 마음 바뀌기 전에 집에 와."
 
-120. SAM: Tell her eight o'clock, and tell her I'm bringing cheese from a cow I saved.
+120. SAM: Tell her eight o'clock. Tell her I'm bringing cheese from a cow I saved.
     샘: 여덟 시라고 해. 내가 구해 준 소의 치즈 가져간다고 하고.
 
 121. TYLER: That's a strange text.
@@ -441,8 +441,8 @@
 142. SAM: That sounds very familiar.
     샘: 아주 익숙한 얘기네요.
 
-143. TONY: It's your farmer's tractor, but in a basement in Upper Arlington. I fix what the brochure promised, Sam, and lately the brochure's been lying.
-    토니: 당신네 농부 트랙터 얘기랑 똑같은데, 어퍼알링턴의 지하실에 있을 뿐이지. 난 안내 책자가 약속한 걸 고치는 사람이야, 샘. 근데 요즘 안내 책자가 거짓말을 해.
+143. TONY: It's your farmer's tractor, but in a basement in Upper Arlington. I fix what the brochure promised, Sam. Lately, the brochure's been lying.
+    토니: 당신네 농부 트랙터 얘기랑 똑같아. 어퍼알링턴의 지하실에 있을 뿐이지. 난 안내 책자가 약속한 걸 고치는 사람이야, 샘. 근데 요즘 안내 책자가 거짓말을 해.
 
 144. LILY: Dad, look at your face.
     릴리: 아빠, 얼굴 좀 봐.
@@ -453,7 +453,7 @@
 146. TONY: So here's my question, and you can say no, but with nobody buying heat pumps, can you help?
     토니: 그래서 질문인데, 거절해도 돼. 아무도 히트펌프를 안 사는데, 도와줄 수 있어?
 
-147. SAM: I don't know yet, Tony, but I'll come to Columbus and look.
+147. SAM: I don't know yet, Tony. But I'll come to Columbus and look.
     샘: 아직 모르겠어요, 토니. 그래도 콜럼버스에 가서 볼게요.
 
 148. TONY: When can you come?

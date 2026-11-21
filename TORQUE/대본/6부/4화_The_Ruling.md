@@ -18,8 +18,8 @@
 001. DONNA: Three coffees, two eggs over easy, one oatmeal for the lady who's watching her heart.
     도나: 커피 세 잔, 계란 반숙 둘, 그리고 심장 관리하는 숙녀분한테 오트밀 하나.
 
-002. GLORIA: I'm watching my cholesterol, Donna, because my heart is fine, and my heart is made of steel.
-    글로리아: 콜레스테롤 관리하는 거야, 도나. 심장은 멀쩡해. 내 심장은 강철로 만들었거든.
+002. GLORIA: I'm watching my cholesterol, Donna. My heart is fine. My heart is made of steel.
+    글로리아: 콜레스테롤 관리하는 거야, 도나. 심장은 멀쩡해. 내 심장은 강철로 만들었어.
 
 003. EARL: Steel with a fifty percent tariff on it.
     얼: 50퍼센트 관세 붙은 강철이지.
@@ -27,8 +27,8 @@
 004. GLORIA: Don't start, Earl, because it's ten in the morning.
     글로리아: 시작하지 마, 얼. 아침 열 시야.
 
-005. DONNA: Hey, turn that up, Lou, because something's happening in Washington and they've got the little red banner on the screen.
-    도나: 루, 그거 소리 좀 키워. 워싱턴에서 무슨 일 났나 봐, 화면에 빨간 띠 떴어.
+005. DONNA: Hey, turn that up, Lou. Something's happening in Washington. They've got the little red banner on the screen.
+    도나: 루, 그거 소리 좀 키워. 워싱턴에서 무슨 일 났나 봐. 화면에 빨간 띠 떴어.
 
 006. SAM: "Breaking news. The Supreme Court has ruled on the emergency tariffs."
     샘: "속보. 대법원이 비상 관세에 대해 판결을 내렸습니다."
@@ -63,8 +63,8 @@
 016. EARL: Hold on, because I liked some of those tariffs, since somebody finally said enough to the cheap stuff, and now the Court says no?
     얼: 잠깐만. 난 그 관세 몇 개는 좋았어. 드디어 누가 싸구려 물건한테 그만하라고 했는데, 이제 법원이 안 된대?
 
-017. SAM: The Court didn't say tariffs are bad, Earl, it said this law was the wrong tool, because Congress has the power to tax and the President used an emergency law instead.
-    샘: 법원이 관세가 나쁘다고 한 게 아니에요, 얼. 이 법이 잘못된 도구라고 한 거죠. 세금 매기는 권한은 의회에 있는데 대통령이 대신 비상법을 썼으니까요.
+017. SAM: The Court didn't say tariffs are bad, Earl. It said this law was the wrong tool. Congress has the power to tax. The President used an emergency law instead.
+    샘: 법원이 관세가 나쁘다고 한 게 아니에요, 얼. 이 법이 잘못된 도구라고 한 거예요. 세금 매기는 권한은 의회에 있는데, 대통령이 대신 비상법을 쓴 거고요.
 
 018. EARL: So they can do it again, with a different law.
     얼: 그러니까 다른 법으로 또 할 수 있다는 거네.
@@ -75,14 +75,14 @@
 020. EARL: Good, because I like the steel ones.
     얼: 좋아. 철강 관세는 마음에 들거든.
 
-021. GLORIA: Of course you do, since you're not paying for the Korean laminations.
+021. GLORIA: Of course you do. You're not paying for the Korean laminations.
     글로리아: 당연히 그렇겠지. 한국산 라미네이션 값은 네가 안 내니까.
 
 022. DONNA: My egg supplier said his prices went up because of tariffs on his chicken feed. Does this mean my eggs get cheaper?
     도나: 우리 계란 납품업자가 닭 사료 관세 때문에 값이 올랐다고 했거든. 그럼 내 계란 싸지는 거야?
 
-023. SAM: Honestly, Donna, nobody knows yet, because your supplier still has his old feed, his old contracts, and his own bills, and prices go up fast like an elevator but come down slow like the stairs.
-    샘: 솔직히, 도나, 아직 아무도 몰라요. 납품업자는 옛날 사료, 옛날 계약, 자기 청구서가 아직 있잖아요. 가격은 엘리베이터처럼 빨리 오르고 계단처럼 천천히 내려와요.
+023. SAM: Honestly, Donna, nobody knows yet. Your supplier still has his old feed, his old contracts, and his own bills. Prices go up fast, like an elevator, and come down slow, like the stairs.
+    샘: 솔직히, 도나, 아직 아무도 몰라요. 납품업자는 아직 옛날 사료, 옛날 계약, 자기 청구서가 있잖아요. 가격은 엘리베이터처럼 빨리 오르고, 계단처럼 천천히 내려와요.
 
 024. DONNA: That's like my weight after Christmas, which goes up in a week and comes down by July.
     도나: 크리스마스 지난 내 몸무게처럼. 일주일 만에 오르고 7월에야 빠지지.
@@ -111,8 +111,8 @@
 032. EARL: Because you promised a farmer in Iowa a fan motor on Tuesday.
     얼: 화요일에 아이오와 농부한테 팬 모터 약속했으니까.
 
-033. SAM: That was one fan motor for one bin, for one farmer whose bearing is grinding, so that's not a promise to the whole state of Iowa, it's a promise to Dale.
-    샘: 그건 베어링이 갈리는 농부 한 명의 저장통 하나에 팬 모터 하나였어요. 아이오와주 전체에 한 약속이 아니라 데일한테 한 약속이죠.
+033. SAM: That was one fan motor, for one bin, for one farmer whose bearing is grinding. That's not a promise to the whole state of Iowa. That's a promise to Dale.
+    샘: 그건 팬 모터 하나였어요. 저장통 하나, 베어링이 갈리는 농부 한 명. 아이오와주 전체에 한 약속이 아니에요. 데일한테 한 약속이죠.
 
 034. GLORIA: It's always one, baby, and then it's forty-two.
     글로리아: 늘 하나로 시작하지, 얘. 그러다 마흔두 개가 되고.
@@ -138,10 +138,10 @@
 041. JUDY: Okay, Gloria, you look like you didn't sleep, and Mr. Kowalski, you look like you're about to promise something, so sit down, both of you.
     주디: 자, 글로리아는 잠 못 잔 얼굴이고, 코왈스키 씨는 뭔가 약속하려는 얼굴이네요. 둘 다 앉아요.
 
-042. BEN: Can everybody hear me? I'm in my car in a parking lot in Columbus, where my other client is having a much worse day than you.
-    벤: 다들 들려? 나 콜럼버스 주차장 차 안인데, 다른 의뢰인은 너네보다 훨씬 안 좋은 하루를 보내고 있어.
+042. BEN: Can everybody hear me? I'm in my car in a parking lot in Columbus. My other client is having a much worse day than you.
+    벤: 다들 들려? 나 콜럼버스 주차장 차 안이야. 다른 의뢰인은 너네보다 훨씬 안 좋은 하루를 보내고 있어.
 
-043. SAM: We hear you, Ben, so Judy, start from the beginning and tell us what the Court actually decided.
+043. SAM: We hear you, Ben. Judy, start from the beginning. What did the Court actually decide?
     샘: 들려요, 벤. 주디, 처음부터 해 줘요. 법원이 실제로 뭘 결정한 거예요?
 
 044. JUDY: Last year the administration put a lot of tariffs on imports using a law from nineteen seventy-seven called IEEPA, the International Emergency Economic Powers Act.
@@ -150,8 +150,8 @@
 045. WEN: And what does that mean in plain English?
     웬: 쉬운 말로 하면 그게 뭐예요?
 
-046. JUDY: In plain English, it's an emergency law that lets the President freeze money and block deals with dangerous countries, and it doesn't say the word "tariff," which today the Court said is because it doesn't allow tariffs.
-    주디: 쉬운 말로 하면 대통령이 위험한 나라와의 자금을 동결하고 거래를 막게 해 주는 비상법이에요. 거기엔 '관세'라는 단어가 없는데, 오늘 법원은 관세를 허용하지 않으니까 없는 거라고 한 거예요.
+046. JUDY: In plain English, it's an emergency law. It lets the President freeze money and block deals with dangerous countries. It doesn't say the word "tariff." Today the Court said that's because it doesn't allow tariffs.
+    주디: 쉬운 말로 하면 비상시에 쓰는 법이에요. 대통령이 위험한 나라와의 자금을 동결하고 거래를 막게 해 주죠. 거기에 '관세'라는 단어는 없어요. 오늘 법원은 관세를 허용하지 않으니까 없는 거라고 한 거예요.
 
 047. BEN: The short version is, taxes belong to Congress. The Court said if you want to tax imports this big, you need Congress, or a law that clearly says so.
     벤: 짧게 말하면, 세금은 의회 몫이라는 거야. 법원은 수입품에 이렇게 큰 세금을 매기려면 의회가 있어야 하거나, 그걸 분명히 허락한 법이 있어야 한다고 했어.
@@ -174,7 +174,7 @@
 053. JUDY: Your laminations count as steel at fifty percent, so that stays, and I'm sorry, Gloria.
     주디: 라미네이션은 철강으로 쳐서 50퍼센트 그대로 남아요. 미안해, 글로리아.
 
-054. GLORIA: So the biggest one is still standing, and of course it is.
+054. GLORIA: The biggest one is still standing. Of course it is.
     글로리아: 제일 큰 놈은 아직 서 있네. 당연하지.
 
 055. WEN: Then what did we pay under IEEPA?
@@ -231,7 +231,7 @@
 072. TYLER: We sue the government to get our own money back, which is quite a sentence.
     타일러: 우리 돈 돌려받으려고 정부를 고소한다니, 그것도 참 문장이네요.
 
-073. JUDY: There's one more thing, which is that some of your entries are already liquidated.
+073. JUDY: There's one more thing. Some of your entries are already liquidated.
     주디: 하나 더 있어요. 통관 건 일부는 벌써 정산이 끝났어요.
 
 074. EARL: Liquidated, like a store going out of business?
@@ -261,7 +261,7 @@
 082. GLORIA: I gave you a loan in twenty eleven and you paid it back, so we're even.
     글로리아: 2011년에 대출해 준 거고 넌 갚았으니까 우린 비긴 거지.
 
-083. JUDY: We'll never be even, Gloria, and that's why I drove up in the sleet.
+083. JUDY: We'll never be even, Gloria. That's why I drove up in the sleet.
     주디: 우린 절대 안 비겨요, 글로리아. 그래서 진눈깨비 뚫고 온 거예요.
 
 084. WEN: Judy, I have a question, which is whether our prices go back to last year's prices if the tariffs were unlawful from the start.
@@ -282,13 +282,13 @@
 089. WEN: I know, and I'm not saying tariffs are wrong, I'm saying certainty has value. Physics doesn't negotiate, and policy shouldn't change every quarter.
     웬: 알아요. 관세가 틀렸다는 게 아니라 확실성에도 가치가 있다는 거예요. 물리학은 협상 안 해요. 정책이 분기마다 바뀌면 안 되죠.
 
-090. EARL: Both of you are right, and that's the problem with this whole country right now.
+090. EARL: Both of you are right. That's the problem with this whole country right now.
     얼: 둘 다 맞아. 지금 이 나라 전체의 문제가 그거야.
 
-091. SAM: Judy, what's our number, meaning how much did we pay under that law?
+091. SAM: Judy, what's our number? How much did we pay under that law?
     샘: 주디, 우리 숫자는요? 그 법으로 얼마나 냈어요?
 
-092. JUDY: I haven't finished adding, so give me Gloria's office and an hour.
+092. JUDY: I haven't finished adding. Give me Gloria's office and an hour.
     주디: 아직 다 안 더했어요. 글로리아 사무실이랑 한 시간만 줘요.
 
 093. GLORIA: You can use my office and my calculator, but nobody touches the red pen.
@@ -312,7 +312,7 @@
 099. SAM: Six hundred and twelve thousand dollars.
     샘: 61만 2천 달러.
 
-100. GLORIA: Don't say it like that, like it's in the bank, because it's not in the bank.
+100. GLORIA: Don't say it like that. Don't say it like it's in the bank. It's not in the bank.
     글로리아: 그렇게 말하지 마. 은행에 있는 것처럼 말하지 마. 은행에 없어.
 
 101. SAM: I'm just saying the number.
@@ -336,8 +336,8 @@
 107. GLORIA: It's like the R and D refund last summer, because hope gets pencil and cash gets marker.
     글로리아: 작년 여름 R&D 환급처럼. 희망은 연필이고, 현금은 마커야.
 
-108. JUDY: I have one more question, and it's a hard one: did you pass any of these tariffs on to customers?
-    주디: 질문 하나 더 있는데, 어려운 거예요. 이 관세 중에 고객한테 넘긴 게 있어요?
+108. JUDY: One more question, and it's a hard one. Did you pass any of these tariffs on to customers?
+    주디: 질문 하나 더요. 어려운 거예요. 이 관세 중에 고객한테 넘긴 게 있어요?
 
 109. SAM: What do you mean?
     샘: 무슨 뜻이에요?
@@ -408,13 +408,13 @@
 131. EARL: Here we go again.
     얼: 또 시작이네.
 
-132. GLORIA: Judy said the weekend, but they didn't even need the weekend.
-    글로리아: 주디가 주말이라고 했는데, 주말도 필요 없었네.
+132. GLORIA: Judy said the weekend. She didn't even need the weekend.
+    글로리아: 주디가 주말이라고 했는데. 주말도 필요 없었네.
 
 133. DARNELL: It's ten percent on everything, but temporary for how long?
     대넬: 전부 10퍼센트라. 근데 임시면 얼마 동안이에요?
 
-134. PATTY: It says a hundred and fifty days, and after that, Congress has to vote to keep it.
+134. PATTY: It says a hundred and fifty days. After that, Congress has to vote to keep it.
     패티: 150일이래요. 그다음엔 의회가 투표해야 유지된대요.
 
 135. SAM: A hundred and fifty days takes us to late July, right in the middle of everything we're trying to plan, because spring planting, the drone line, and the Army's next order all land before July.
@@ -423,14 +423,14 @@
 136. DARNELL: Honestly, I'm okay with it, because I think we need tariffs, and I just want them done the right way, so they stick.
     대넬: 솔직히 전 괜찮아요. 관세는 필요하다고 보거든요. 그냥 제대로 해서 오래갔으면 좋겠어요.
 
-137. PATTY: And I want my groceries to stop going up, because my sister's on a fixed income, and every new tariff is a new number at the checkout.
-    패티: 전 장바구니 물가가 그만 올랐으면 좋겠어요. 언니가 고정 수입으로 사는데, 관세가 새로 생길 때마다 계산대 숫자가 새로 나와요.
+137. PATTY: And I want my groceries to stop going up. My sister's on a fixed income. Every new tariff is a new number at the checkout.
+    패티: 전 장바구니 물가가 그만 올랐으면 좋겠어요. 언니가 고정 수입으로 살거든요. 관세가 새로 생길 때마다 계산대 숫자가 새로 나와요.
 
 138. EARL: Both of you are right again, so I'm going to get that on a T-shirt.
     얼: 둘 다 또 맞아. 이걸 티셔츠에 새겨야겠다.
 
-139. WEN: Here's the strange part, because our Japanese magnets were at fifteen percent, and next week they'll be at ten, so the new tariff is cheaper for us than the old one.
-    웬: 이상한 부분이 있어요. 일본산 자석이 15퍼센트였는데 다음 주부턴 10퍼센트예요. 새 관세가 우리한텐 옛날 것보다 싸요.
+139. WEN: Here's the strange part. Our Japanese magnets were at fifteen percent. Next week, they'll be at ten. The new tariff is cheaper for us than the old one.
+    웬: 이상한 부분이 있어요. 일본산 자석이 15퍼센트였잖아요. 다음 주부턴 10퍼센트예요. 새 관세가 우리한텐 옛날 것보다 싸요.
 
 140. GLORIA: For a hundred and fifty days.
     글로리아: 150일 동안은.

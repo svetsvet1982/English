@@ -42,7 +42,7 @@
 009. TYLER: Copy that, and by the way, your phone's buzzing and it's Gloria.
     타일러: 접수. 근데 폰 울려요. 글로리아예요.
 
-010. GLORIA: Sam, are you in Iowa yet, because you sound like you're inside a can of soup.
+010. GLORIA: Sam, are you in Iowa yet? You sound like you're inside a can of soup.
     글로리아: 샘, 아이오와 도착했어? 수프 깡통 안에서 말하는 것 같아.
 
 011. SAM: We're in a rental pickup with a heater that only works on the passenger side, so Tyler is suffering, but what's up?
@@ -54,8 +54,8 @@
 013. SAM: And what did Ben say about it?
     샘: 벤은 뭐래요?
 
-014. GLORIA: Ben read it three times, because he bills by the hour, and signing is Tuesday the tenth in Dayton, with Wyatt coming himself.
-    글로리아: 벤은 세 번 읽었지, 시간당으로 청구하니까. 서명은 10일 화요일 데이턴이고, 와이엇이 직접 온대.
+014. GLORIA: Ben read it three times, because he bills by the hour. Signing is Tuesday the tenth, in Dayton. Wyatt is coming himself.
+    글로리아: 벤은 세 번 읽었지. 시간당으로 청구하니까. 서명은 10일 화요일, 데이턴에서. 와이엇이 직접 온대.
 
 015. SAM: I'll be back by then, so what's the second thing?
     샘: 그때까진 돌아갈게요. 두 번째는요?
@@ -87,7 +87,7 @@
 024. SAM: Right, and you still remember that card, because people who write by hand mean it.
     샘: 그렇지. 넌 아직 그 카드를 기억하잖아. 손으로 쓰는 사람은 진심이거든.
 
-025. TYLER: Okay, but that's a feeling, and Gloria is going to ask about the business case.
+025. TYLER: Okay, but that's a feeling. Gloria is going to ask about the business case.
     타일러: 좋아요, 근데 그건 감정이잖아요. 글로리아는 사업성을 물어볼 거예요.
 
 026. SAM: Here's the business case: Hank Lindqvist sells spraying drones and needs big motors, and Dale fixes machines but can't fix this one, so when two people from farm country find us in two months, that's not luck, that's a market knocking.
@@ -96,14 +96,14 @@
 027. TYLER: Or it's two guys who are having a bad year.
     타일러: 아니면 그냥 힘든 해를 보내는 두 사람이거나요.
 
-028. SAM: Everybody out here is having a bad year, because soybean prices are low and the dealer is ninety miles away, and bad years are when people try new things.
-    샘: 여기선 다들 힘든 해야. 대두 값은 바닥이고 딜러는 90마일 떨어져 있으니까. 그런데 힘든 해에 사람들이 새로운 걸 시도하는 거야.
+028. SAM: Everybody out here is having a bad year. Soybean prices are low, and the dealer is ninety miles away. Bad years are when people try new things.
+    샘: 여기선 다들 힘든 해야. 대두 값은 바닥이고 딜러는 90마일 떨어져 있고. 힘든 해에 사람들이 새로운 걸 시도하는 거야.
 
 029. TYLER: Fair enough, but did you tell Wen we're doing this?
     타일러: 맞는 말이네요. 근데 웬 박사님한테 우리가 이거 한다고 말했어요?
 
-030. SAM: I told her I'd call her from the barn, and she said, quote, "Tractors are just big motors with opinions."
-    샘: 헛간에서 전화하겠다고 했더니, 그대로 옮기면 이러더라. "트랙터는 그냥 고집 센 큰 모터예요."
+030. SAM: I told her I'd call her from the barn. She said, quote, "Tractors are just big motors with opinions."
+    샘: 헛간에서 전화하겠다고 했지. 그랬더니 이러더라. 그대로 옮기면, "트랙터는 그냥 고집 센 큰 모터예요."
 
 031. TYLER: That sounds just like her, but hey, is that it, the red barn with the silver grain bins and a mailbox that says "Amundsen"?
     타일러: 박사님다운 말이네요. 어, 저기예요? 빨간 헛간에 은색 곡물 저장통, "Amundsen"이라고 쓰인 우편함.
@@ -147,8 +147,8 @@
 044. SAM: Tell me what happened, and take your time.
     샘: 무슨 일인지 천천히 말해 주세요.
 
-045. DALE: Ruth says I ramble, so I'll try, but on December nineteenth I'm moving grain with her when a light comes on the dashboard, then a message says "Engine power reduced," and she slows down like an old dog.
-    데일: 루스가 말을 늘어놓는다니까 노력해 볼게요. 12월 19일에 저놈으로 곡물을 옮기는데 계기판에 불이 들어오고, "엔진 출력 감소"라는 메시지가 뜨더니 늙은 개처럼 느려지더라고요.
+045. DALE: Ruth says I ramble, so I'll try. December nineteenth, I'm moving grain with her. A light comes on the dashboard. Then a message: "Engine power reduced." She slows down like an old dog.
+    데일: 루스가 말을 늘어놓는다니까 노력해 볼게요. 12월 19일, 저놈으로 곡물을 옮기고 있었어요. 계기판에 불이 하나 들어와요. 그다음 메시지가 떠요. "엔진 출력 감소." 늙은 개처럼 느려지더라고요.
 
 046. SAM: That's a derate. The computer protects the engine by cutting the power.
     샘: 출력 제한이네요. 컴퓨터가 출력을 줄여서 엔진을 보호하는 거예요.
@@ -171,8 +171,8 @@
 052. SAM: And the code didn't go away.
     샘: 그런데 코드가 안 없어졌군요.
 
-053. DALE: The code didn't go away, even though the new sensor is the right part with the same number in the same box, because the tractor says, "I don't know you," and she won't run with a part she hasn't been introduced to.
-    데일: 코드가 안 없어졌어요. 새 센서는 같은 번호, 같은 상자에 든 맞는 부품인데, 트랙터가 "난 너 몰라" 하면서 소개받지 않은 부품으로는 안 움직인대요.
+053. DALE: The code didn't go away. The new sensor is the right part, same number, same box. But the tractor says, "I don't know you." She won't run with a part she hasn't been introduced to.
+    데일: 코드가 안 없어졌어요. 새 센서는 맞는 부품이에요. 같은 번호, 같은 상자. 그런데 트랙터가 "난 너 몰라" 해요. 소개받지 않은 부품으로는 안 움직인대요.
 
 054. TYLER: Introduced to it, like at a party?
     타일러: 소개요? 파티에서처럼요?
@@ -183,20 +183,20 @@
 056. SAM: Let's ask her, so Tyler, get Wen on video and point the phone at the screen in the cab.
     샘: 물어보죠. 타일러, 웬 영상통화 연결해서 운전석 화면 쪽으로 폰 비춰.
 
-057. WEN: I can see it, and the screen says five-two-one-four and "Component not authorized," so good afternoon, Mr. Amundsen.
+057. WEN: I can see it. The screen says five-two-one-four and "Component not authorized." Good afternoon, Mr. Amundsen.
     웬: 보여요. 화면에 5214랑 "부품 미인증"이라고 떠 있네요. 안녕하세요, 아먼슨 씨.
 
 058. DALE: Afternoon, and you must be the tractors-have-opinions lady.
     데일: 안녕하세요. 트랙터가 고집 세다고 한 분이군요.
 
-059. WEN: This one has a strong opinion, and it's called parts pairing.
-    웬: 이 트랙터는 고집이 아주 센데, 그게 부품 페어링이라는 거예요.
+059. WEN: This one has a strong opinion. It's called parts pairing.
+    웬: 이 트랙터는 고집이 아주 세네요. 부품 페어링이라는 거예요.
 
 060. TYLER: Can you say that in plain English?
     타일러: 쉬운 말로 하면요?
 
-061. WEN: In plain English, every important part has a serial number inside it like a name tag, and the tractor's computer keeps a list of approved names, so a new part, even a perfect one, isn't on the list until the dealer's software adds it.
-    웬: 쉬운 말로 하면, 중요한 부품마다 이름표 같은 일련번호가 있고 트랙터 컴퓨터가 승인된 이름 목록을 갖고 있어요. 그래서 새 부품은 아무리 완벽해도 딜러 소프트웨어가 추가하기 전엔 목록에 없어요.
+061. WEN: In plain English, every important part has a serial number inside it, like a name tag. The tractor's computer keeps a list of approved names. A new part, even a perfect one, isn't on the list. Only the dealer's software can add it.
+    웬: 쉬운 말로 하면, 중요한 부품마다 안에 일련번호가 있어요. 이름표 같은 거예요. 트랙터 컴퓨터가 승인된 이름 목록을 갖고 있어요. 새 부품은 아무리 완벽해도 목록에 없어요. 딜러 소프트웨어만 거기에 추가할 수 있죠.
 
 062. DALE: So the sensor's fine, and it's the paperwork that's broken.
     데일: 그러니까 센서는 멀쩡하고 서류가 고장 난 거네.
@@ -204,7 +204,7 @@
 063. WEN: Yes, that is exactly right, because the metal is fine and only the permission is missing.
     웬: 네, 정확해요. 쇠는 멀쩡하고 허락만 빠진 거예요.
 
-064. SAM: Wen, can we get around it, or is there some way to tell the computer the new part is okay?
+064. SAM: Wen, can we get around it? Is there a way to tell the computer the new part is okay?
     샘: 웬, 우회할 수 있어요? 컴퓨터한테 새 부품이 괜찮다고 알려 줄 방법이 있어요?
 
 065. WEN: Technically, probably, since people do it with software from overseas forums, but it's a legal gray area, it could void his warranty, and if we do it, Greaves will say Ferrox hacked their tractor.
@@ -261,14 +261,14 @@
 082. WEN: Mr. Amundsen, may I ask whether you actually like the new tractor, apart from this problem?
     웬: 아먼슨 씨, 하나 여쭤봐도 될까요? 이 일 말고, 새 트랙터 자체는 마음에 드세요?
 
-083. DALE: For the life of me, I do, because she's smooth, she steers herself with GPS, and she's got a seat that doesn't break my back, so she's a great machine until she isn't, and then I'm at their mercy.
-    데일: 정말이지, 좋아요. 부드럽고, GPS로 혼자 조향하고, 허리 안 아픈 의자도 있으니까. 훌륭한 기계예요, 안 될 때까지는. 그다음엔 그 사람들 손에 달린 거죠.
+083. DALE: For the life of me, I do. She's smooth, she steers herself with GPS, and she's got a seat that doesn't break my back. She's a great machine, until she isn't. Then I'm at their mercy.
+    데일: 정말이지, 좋아요. 부드럽고, GPS로 혼자 조향하고, 허리 안 아픈 의자도 있고. 훌륭한 기계예요. 안 될 때까지는요. 그다음엔 그 사람들 손에 달린 거죠.
 
 084. WEN: That is useful, thank you, and Sam, the problem is not the technology, which is good, but who holds the key.
     웬: 도움이 되네요, 감사해요. 샘, 문제는 기술이 아니에요. 기술은 좋아요. 문제는 누가 열쇠를 쥐고 있느냐예요.
 
-085. SAM: My dad always says that: "Never let anyone hold your keys."
-    샘: 우리 아버지가 늘 그 말 해요. "누구한테도 네 열쇠를 맡기지 마라."
+085. SAM: My dad says that. "Never let anyone hold your keys."
+    샘: 우리 아버지가 그 말 해요. "누구한테도 네 열쇠를 맡기지 마라."
 
 086. DALE: Your dad sounds like a farmer.
     데일: 아버님이 농부 같네요.
@@ -276,7 +276,7 @@
 087. SAM: He did thirty-two years at a GM plant, so that's close enough.
     샘: GM 공장에서 32년 일하셨으니, 비슷하죠.
 
-088. WEN: I have to go, because Marcus has a question about the Army firmware, but Mr. Amundsen, I'm sorry about your tractor.
+088. WEN: I have to go. Marcus has a question about the Army firmware. Mr. Amundsen, I'm sorry about your tractor.
     웬: 가 봐야 해요. 마커스가 육군 펌웨어 관련해서 물어볼 게 있대요. 아먼슨 씨, 트랙터 일은 유감이에요.
 
 089. DALE: It's not your fault, Doctor, since you didn't build her.
@@ -303,7 +303,7 @@
 096. RANDY: Hey, Dale, and hello, gentlemen, I know why you're calling and I'm sorry, but the earliest technician I've got is March ninth.
     랜디: 아, 데일. 안녕하세요, 여러분. 왜 전화하셨는지 알고 죄송한데, 제일 빠른 기술자 일정이 3월 9일이에요.
 
-097. SAM: Randy, this is Sam Kowalski, and can I ask why it takes five weeks?
+097. SAM: Randy, this is Sam Kowalski. Can I ask why it takes five weeks?
     샘: 랜디, 샘 코왈스키예요. 왜 5주나 걸리는지 물어봐도 될까요?
 
 098. RANDY: Sure, six years ago there were three Greaves dealers in this part of Iowa, and now there's one, which is me, with four technicians covering eleven counties, and every one of them is booked solid.
@@ -336,19 +336,19 @@
 107. SAM: Can Dale buy that software himself?
     샘: 데일이 그 소프트웨어를 직접 살 수는 없어요?
 
-108. RANDY: Greaves sells a customer version now for about a thousand dollars a year, and it reads the codes and shows you what's wrong, but it can't pair parts or clear the serious ones, which only the dealer version can.
-    랜디: 그리브스가 요즘 1년에 천 달러쯤 하는 고객용 버전을 팔아요. 코드 읽고 뭐가 문젠지 보여 주는데, 부품 페어링이나 심각한 코드 삭제는 딜러 버전만 돼요.
+108. RANDY: Greaves sells a customer version now. It's about a thousand dollars a year. It reads the codes, it shows you what's wrong, but it can't pair parts or clear the serious ones. Only the dealer version can.
+    랜디: 그리브스가 요즘 고객용 버전을 팔아요. 1년에 천 달러쯤이에요. 코드 읽고, 뭐가 문젠지 보여 주는데, 부품 페어링이나 심각한 코드 삭제는 못 해요. 딜러 버전만 돼요.
 
 109. TYLER: So it tells you what's broken, but it won't let you fix it.
     타일러: 그러니까 뭐가 고장 났는지는 알려 주는데 고치게는 안 해 주는 거네요.
 
-110. RANDY: Greaves calls it an emissions issue, because if farmers clear those codes themselves, some will just turn the filters off.
-    랜디: 그리브스는 배출가스 문제라고 해요. 농부들이 그 코드를 직접 지우면 그냥 필터를 꺼 버리는 사람도 있을 거라서요.
+110. RANDY: Greaves calls it an emissions issue. If farmers clear those codes themselves, some will just turn the filters off.
+    랜디: 그리브스는 배출가스 문제라고 해요. 농부들이 그 코드를 직접 지우면, 그냥 필터를 꺼 버리는 사람도 있을 거래요.
 
 111. DALE: Some of them would, but I wouldn't, because I've got grandkids breathing this air.
     데일: 그러는 사람도 있겠지. 근데 난 안 그래. 이 공기 마시는 손주들이 있거든.
 
-112. RANDY: I believe you, Dale, because I've known you twenty years, but the software doesn't know you, it only knows the rules.
+112. RANDY: I believe you, Dale. I've known you twenty years. But the software doesn't know you. It only knows the rules.
     랜디: 믿어요, 데일. 20년 알고 지냈잖아요. 근데 소프트웨어는 데일을 몰라요. 규칙만 알죠.
 
 113. SAM: Is there anything faster, any way at all?
@@ -384,8 +384,8 @@
 123. DALE: Randy's a good man, and that's the worst part, because you can't even be mad at him properly.
     데일: 랜디는 좋은 사람이에요. 그게 제일 고약하지. 제대로 화낼 수도 없으니까.
 
-124. SAM: Dale, I can't fix your tractor, and I want to be honest about that, because it's not my tractor and it's not my software.
-    샘: 데일, 전 트랙터를 못 고쳐요. 그건 솔직하게 말씀드리고 싶어요. 제 트랙터도 아니고 제 소프트웨어도 아니니까요.
+124. SAM: Dale, I can't fix your tractor. I want to be honest about that. It's not my tractor, and it's not my software.
+    샘: 데일, 전 트랙터를 못 고쳐요. 그건 솔직하게 말씀드리고 싶어요. 제 트랙터도 아니고 제 소프트웨어도 아니에요.
 
 125. DALE: I knew that before I wrote the letter, so come inside, because Ruth will explain the rest better than me.
     데일: 편지 쓰기 전부터 알았어요. 안으로 들어와요. 나머진 루스가 나보다 잘 설명할 거예요.
@@ -408,8 +408,8 @@
 131. SAM: Ruth, Dale said you'd explain the rest better than him.
     샘: 루스, 데일이 나머진 루스가 더 잘 설명할 거라고 하던데요.
 
-132. RUTH: I keep the books, because Dale fixes things and I count things, and I'll tell you what the books say, which is that the tractor is a symptom, not the disease.
-    루스: 제가 장부를 봐요. 데일은 고치고 저는 세죠. 장부가 뭐라고 하는지 말씀드리면, 트랙터는 증상이지 병이 아니에요.
+132. RUTH: I keep the books. Dale fixes things, and I count things. And I'll tell you what the books say. The tractor is a symptom. It's not the disease.
+    루스: 제가 장부를 봐요. 데일은 고치고, 저는 세죠. 장부가 뭐라고 하는지 말씀드릴게요. 트랙터는 증상이에요. 병이 아니고요.
 
 133. SAM: Then what's the disease, if not the tractor?
     샘: 그럼 병은 뭔데요?
@@ -426,8 +426,8 @@
 137. SAM: It worked, because my wife read it out loud at our kitchen table, and my daughter said nobody sends real letters anymore.
     샘: 통했어요. 아내가 우리 부엌 식탁에서 소리 내서 읽었는데, 딸은 요즘 진짜 편지 보내는 사람 없다고 하더라고요.
 
-138. RUTH: Then she should get more of them, but Mr. Kowalski, let me be clear that we're not asking you to fix our tractor.
-    루스: 그럼 따님이 편지를 더 받아 봐야겠네요. 근데 코왈스키 씨, 확실히 말씀드리면 우리 트랙터 고쳐 달라는 게 아니에요.
+138. RUTH: Then she should get more of them. Mr. Kowalski, let me be clear. We're not asking you to fix our tractor.
+    루스: 그럼 따님이 편지를 더 받아 봐야겠네요. 코왈스키 씨, 확실히 말씀드릴게요. 우리 트랙터 고쳐 달라는 게 아니에요.
 
 139. SAM: Then what are you asking?
     샘: 그럼 뭘 부탁하시는 거예요?
@@ -438,7 +438,7 @@
 141. TYLER: That's a big ask, ma'am.
     타일러: 그건 큰 부탁이네요, 부인.
 
-142. RUTH: It's a small ask that only sounds big because nobody ever says yes to it.
+142. RUTH: It's a small ask. It only sounds big because nobody says yes to it.
     루스: 작은 부탁이에요. 아무도 '네'라고 안 해서 크게 들릴 뿐이죠.
 
 143. DALE: Ruth always wins at this table. I gave up in nineteen seventy-nine.

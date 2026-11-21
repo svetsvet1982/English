@@ -33,17 +33,17 @@
 006. LILY: Can everybody please stop talking, because I can't breathe, and I've refreshed this page forty times?
     릴리: 다들 제발 말 좀 그만해 줄래? 숨을 못 쉬겠어. 이 페이지 마흔 번 새로고침했어.
 
-007. ERIN: Honey, it won't change until seven, and refreshing it doesn't make it come faster.
+007. ERIN: Honey, it won't change until seven. Refreshing it doesn't make it come faster.
     에린: 얘, 일곱 시까진 안 바뀌어. 새로고침한다고 빨리 나오는 거 아니야.
 
 008. LILY: I know that logically, Mom, but my finger doesn't know that.
     릴리: 머리로는 알아, 엄마. 손가락이 모르는 거야.
 
-009. STAN: When I was a young man waiting to hear from GM, I checked the mailbox eleven times in one day, until the mailman told me to get a hobby.
-    스탠: 내가 젊었을 때 GM 연락 기다리면서 하루에 우편함을 열한 번 확인했더니, 집배원이 취미 좀 가지라더라.
+009. STAN: When I was a young man, waiting to hear from GM, I checked the mailbox eleven times in one day. The mailman told me to get a hobby.
+    스탠: 내가 젊었을 때 GM 연락 기다리면서, 하루에 우편함을 열한 번 확인했어. 집배원이 취미 좀 가지라더라.
 
-010. LILY: And did you get in, Grandpa?
-    릴리: 그래서 붙었어, 할아버지?
+010. LILY: Did you get in?
+    릴리: 붙었어?
 
 011. STAN: I got in and stayed thirty-two years, and I never checked a mailbox that hard again.
     스탠: 붙어서 32년 일했지. 그리고 다시는 우편함을 그렇게 열심히 안 봤어.
@@ -63,11 +63,11 @@
 016. LILY: When they deferred me in January, they said they wanted to see my first-semester grades, and I got straight A's except one A-minus in English.
     릴리: 1월에 보류됐을 때 1학기 성적을 보고 싶다고 했잖아. 영어 하나만 A마이너스고 전부 A 받았어.
 
-017. ERIN: Mrs. Patterson gives everybody an A-minus, because she thinks an A makes you lazy.
+017. ERIN: Mrs. Patterson gives everybody an A-minus. She thinks an A makes you lazy.
     에린: 패터슨 선생님은 다들 A마이너스 줘. A 주면 게을러진다고 생각하셔.
 
-018. LILY: She told me my essay was the best one she'd read this year, and then she gave me an A-minus.
-    릴리: 내 에세이가 올해 읽은 것 중에 최고라더니 A마이너스 줬어.
+018. LILY: She told me my essay was the best one she'd read this year. Then she gave me an A-minus.
+    릴리: 내 에세이가 올해 읽은 것 중에 최고래. 그러고 A마이너스 줬어.
 
 019. SAM: What essay, when you never told me there was an essay?
     샘: 무슨 에세이? 에세이 있다는 말 한 번도 안 했잖아.
@@ -105,7 +105,7 @@
 030. STAN: I knew it, and I even told the mailman.
     스탠: 내 그럴 줄 알았다. 집배원한테도 말했어.
 
-031. SAM: You told the mailman, Dad, when you don't even like the mailman?
+031. SAM: You told the mailman? Dad, you don't even like the mailman.
     샘: 집배원한테 말씀하셨다고요? 아버지, 집배원 좋아하지도 않으시잖아요.
 
 032. STAN: I did last week, when I said my granddaughter is going to be an engineer like her father, and he said, "Get a hobby."
@@ -129,8 +129,8 @@
 038. ERIN: That's actually a good speech, Sam.
     에린: 그거 진짜 좋은 연설이다, 샘.
 
-039. LILY: I'm over the moon, I'm actually over the moon, and I have to text Priya, who got into Michigan this morning.
-    릴리: 날아갈 것 같아, 진짜 하늘을 나는 기분이야. 오늘 아침에 미시간 붙은 프리야한테 문자해야 해.
+039. LILY: I'm over the moon. I'm actually over the moon. I have to text Priya. She got into Michigan this morning.
+    릴리: 날아갈 것 같아. 진짜 하늘을 나는 기분이야. 프리야한테 문자해야 해. 걔는 오늘 아침에 미시간 붙었어.
 
 040. STAN: Over the moon is good, so now let's eat the apple pie Erin made.
     스탠: 하늘을 난다니 좋다. 이제 에린이 만든 사과 파이 먹자.
@@ -186,11 +186,11 @@
 057. LILY: Sixty-one thousand, Mom? I didn't know that.
     릴리: 6만 1천? 엄마, 나 그거 몰랐어.
 
-058. ERIN: You weren't supposed to know, because that's the point of a college fund, where you save it quietly and one day you open it.
-    에린: 몰라야 하는 거야. 대학 자금은 원래 조용히 모았다가 어느 날 여는 거거든.
+058. ERIN: You weren't supposed to know. That's the point of a college fund. You save it quietly, and one day you open it.
+    에린: 몰라야 하는 거야. 대학 자금은 원래 그래. 조용히 모았다가 어느 날 여는 거지.
 
-059. SAM: Erin, I didn't know it was that much, and I didn't even know you were still putting money in.
-    샘: 에린, 그렇게 많은 줄 몰랐어. 아직도 돈 넣고 있는 줄도 몰랐고.
+059. SAM: Erin, I didn't know it was that much. I didn't even know you were still putting money in.
+    샘: 에린, 그렇게 많은 줄 몰랐어. 아직도 돈 넣고 있는 줄도 몰랐어.
 
 060. ERIN: You never look at the fridge calendar either, Sam, where I put a note every year: "College fund, check."
     에린: 냉장고 달력도 안 보잖아, 샘. 매년 거기 메모해 놨어. "대학 자금, 확인."
@@ -231,8 +231,8 @@
 072. LILY: Dad, everybody starts with loans, like Priya's whole family, so it's normal.
     릴리: 아빠, 다들 대출로 시작해. 프리야네 가족도 다 대출 있어. 정상이야.
 
-073. SAM: We can cover the rest, because I'll talk to Doug at the bank, and we could add to the line of credit on the house.
-    샘: 나머진 우리가 낼 수 있어. 은행 더그한테 얘기해서 집 담보 신용한도를 늘리면 돼.
+073. SAM: We can cover the rest. I'll talk to Doug at the bank. We could add to the line of credit on the house.
+    샘: 나머진 우리가 낼 수 있어. 은행 더그한테 얘기해 볼게. 집 담보 신용한도를 늘리면 돼.
 
 074. ERIN: No.
     에린: 안 돼.
@@ -246,11 +246,11 @@
 077. SAM: It's for Lily, not for the factory.
     샘: 이건 공장 말고 릴리를 위한 거야.
 
-078. ERIN: I know it's for Lily, and that's why I'm careful, because if something happens to the company, I don't want her to feel like her college took the house.
+078. ERIN: I know it's for Lily. That's why I'm careful. If something happens to the company, I don't want her to feel like her college took the house.
     에린: 릴리를 위한 거 알아. 그래서 조심하는 거야. 회사에 무슨 일이 생겼을 때 릴리가 자기 대학 때문에 집이 날아갔다고 느끼는 거 싫어.
 
-079. LILY: Can I say something? I don't want the house either, so I'll take the small loan and do the co-op, and I'll work at Lou's in the summer if I have to.
-    릴리: 나도 한마디 해도 돼? 나도 집 거는 거 싫어. 작은 대출 받고 코업도 하고, 필요하면 여름에 루네 식당에서 일할게.
+079. LILY: Can I say something? I don't want the house either. I'll take the small loan. I'll do the co-op. And I'll work at Lou's in the summer if I have to.
+    릴리: 나도 한마디 해도 돼? 나도 집 거는 거 싫어. 작은 대출 받을게. 코업도 하고. 필요하면 여름에 루네 식당에서 일할게.
 
 080. STAN: Donna would love that.
     스탠: 도나가 아주 좋아하겠다.
@@ -261,11 +261,11 @@
 082. SAM: Can I call Gloria, just for one question?
     샘: 글로리아한테 질문 하나만 하게 전화해도 돼?
 
-083. ERIN: It's nine at night, Sam.
-    에린: 밤 아홉 시야, 샘.
+083. ERIN: It's nine at night.
+    에린: 밤 아홉 시야.
 
-084. SAM: Gloria answers at nine at night, and she answers at three in the morning.
-    샘: 글로리아는 밤 아홉 시에도, 새벽 세 시에도 받아.
+084. SAM: Gloria answers at nine at night. Gloria answers at three in the morning.
+    샘: 글로리아는 밤 아홉 시에도 받아. 새벽 세 시에도 받아.
 
 085. GLORIA: Who died?
     글로리아: 누가 죽었어?
@@ -300,7 +300,7 @@
 095. SAM: The title is "My Father's Factory."
     샘: 제목이 "아빠의 공장"이네.
 
-096. ERIN: Read it out loud, because your dad wants to hear it.
+096. ERIN: Read it out loud. Your dad wants to hear it.
     에린: 소리 내서 읽어. 아버님도 듣고 싶어 하셔.
 
 097. SAM: "I learned to walk at a factory. My father says I held on to the steel frame of a machine called Old Betsy and took my first steps toward a box of motors."
@@ -333,8 +333,8 @@
 106. STAN: Did you really say that?
     스탠: 네가 진짜 그런 말을 했냐?
 
-107. SAM: I don't remember saying that, Dad, because I say a lot of things in the kitchen, and most of them are about toast.
-    샘: 그런 말 한 기억이 없어요, 아버지. 부엌에서 이런저런 말 많이 하는데 대부분 토스트 얘기잖아요.
+107. SAM: I don't remember saying that. I say a lot of things in the kitchen, Dad. Most of them are about toast.
+    샘: 그런 말 한 기억이 없어요. 부엌에서 이런저런 말 많이 하잖아요, 아버지. 대부분 토스트 얘기고요.
 
 108. ERIN: You said it in the kitchen while you were burning toast.
     에린: 부엌에서 토스트 태우면서 했어.
@@ -348,8 +348,8 @@
 111. SAM: In November, she wrote "someone can fix it" in November?
     샘: 11월에? "누군가 고칠 수 있다"를 11월에 썼다고?
 
-112. ERIN: She got it from you, from watching you before you even said it out loud.
-    에린: 당신한테서 배운 거야. 당신이 그걸 소리 내서 말하기도 전에 보면서.
+112. ERIN: She got it from you. She got it from watching you before you even said it out loud.
+    에린: 당신한테서 배운 거야. 당신이 그걸 소리 내서 말하기도 전에 보면서 배운 거지.
 
 113. SAM: Last paragraph. "I want to study engineering because I want to build things that keep their promises. And I want to come home for dinner more than my father does. I'm still working on that part."
     샘: 마지막 문단. "나는 약속을 지키는 물건을 만들고 싶어서 공학을 공부하고 싶다. 그리고 아빠보다 더 자주 저녁 먹으러 집에 오고 싶다. 그 부분은 아직 노력 중이다."
@@ -369,8 +369,8 @@
 118. SAM: I'm fine, it's just the dust from the furnace.
     샘: 괜찮아. 그냥 난로 먼지 때문이야.
 
-119. ERIN: We don't have a furnace with dust, because we have a heat pump.
-    에린: 우리 집엔 먼지 나는 난로 없어. 히트펌프잖아.
+119. ERIN: We don't have a furnace with dust. We have a heat pump.
+    에린: 우리 집엔 먼지 나는 난로 없어. 히트펌프야.
 
 120. SAM: A farmer in Iowa said that last week in church, and it worked better for him.
     샘: 아이오와 농부가 지난주에 교회에서 그 말을 했는데, 그 사람한텐 더 잘 먹혔어.
@@ -384,10 +384,10 @@
 123. STAN: Your mother never could keep a secret, and she told the whole church I cried at your graduation, but I didn't cry, I just had something in my eye for about an hour.
     스탠: 네 엄마는 비밀을 못 지켰지. 네 졸업식 때 내가 울었다고 교회 사람들한테 다 말했어. 난 안 울었다. 눈에 뭐가 들어가서 한 시간쯤 그랬던 거지.
 
-124. ERIN: It runs in the family, because Lily kept this one from you for five months.
-    에린: 집안 내력이에요. 릴리는 이걸 다섯 달 동안 숨겼잖아요.
+124. ERIN: It runs in the family. Lily kept this one from you for five months.
+    에린: 집안 내력이에요. 릴리는 이걸 다섯 달 동안 당신한테 숨겼잖아.
 
-125. STAN: That's the Kowalski half, because the Kowalski men keep secrets, and the women just make you read them out loud.
+125. STAN: That's the Kowalski half. The Kowalski men keep secrets. The women just make you read them out loud.
     스탠: 그건 코왈스키 쪽 피야. 코왈스키 남자들은 비밀을 지키고, 여자들은 그걸 소리 내서 읽게 만들지.
 
 126. LILY: Dad, you're still up at two in the morning?
@@ -417,10 +417,10 @@
 134. LILY: Because I'm happy and I'm scared, both, since West Lafayette is three hours away and I've never lived anywhere but here.
     릴리: 행복하면서 무서워서, 둘 다. 웨스트라피엣은 세 시간 거리인데, 여기 말고 다른 데서 살아 본 적이 없잖아.
 
-135. SAM: Three hours is nothing, when I drove nine hours to Iowa last month.
+135. SAM: Three hours is nothing. I drove nine hours to Iowa last month.
     샘: 세 시간은 아무것도 아니야. 지난달엔 아이오와까지 아홉 시간 운전했는데.
 
-136. LILY: That's what scares me, because if you'll drive nine hours to Iowa for a farmer, will you drive three hours to Indiana for me?
+136. LILY: That's what scares me. If you'll drive nine hours to Iowa for a farmer, will you drive three hours to Indiana for me?
     릴리: 그게 무서운 거야. 농부 때문에 아이오와까지 아홉 시간 운전한다면, 나 때문에 인디애나까지 세 시간 운전해 줄 거야?
 
 137. SAM: Lily, I will drive three hours to Indiana every time you call, and that's a promise, and a machine is a promise, as somebody once wrote.
@@ -441,13 +441,13 @@
 142. LILY: I remember everything you say at dinner, when you're there.
     릴리: 아빠가 저녁 먹을 때 하는 말은 다 기억해. 아빠가 있을 때는.
 
-143. SAM: Last week we decided every Ferrox motor will have an open port, so anybody can read the codes and fix it, and it cost us a big customer.
-    샘: 지난주에 누구나 코드를 읽고 고칠 수 있게 모든 페록스 모터에 열린 포트를 달기로 했어. 그것 때문에 큰 고객 하나를 잃었고.
+143. SAM: Last week, we decided every Ferrox motor will have an open port. Anybody can read the codes and fix it. It cost us a big customer.
+    샘: 지난주에 모든 페록스 모터에 열린 포트를 달기로 했어. 누구나 코드를 읽고 고칠 수 있게. 그것 때문에 큰 고객 하나를 잃었어.
 
 144. LILY: Mom told me, after Gloria told Mom, that it was twelve million dollars.
     릴리: 엄마가 말해 줬어. 글로리아가 엄마한테 말했대. 1,200만 달러라고.
 
-145. SAM: Does everybody in this family talk to Gloria, or is there a group chat I'm not in?
+145. SAM: Does everybody in this family talk to Gloria? Is there a group chat I'm not in?
     샘: 이 집 사람들은 다 글로리아랑 얘기해? 나만 빠진 단톡방 있어?
 
 146. LILY: Everybody talks to Gloria, Dad, but was it the right call?

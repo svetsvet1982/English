@@ -21,14 +21,14 @@
 002. TYLER: Yes, ma'am. How many people are you expecting tonight, in this wind?
     타일러: 네, 부인. 이 바람에 오늘 밤 몇 분이나 오세요?
 
-003. RUTH: Forty if the wind behaves and sixty if word got around, and since it's Thursday, it got around.
-    루스: 바람이 얌전하면 마흔, 소문이 돌았으면 예순이요. 목요일이니까 돌았을 거예요.
+003. RUTH: Forty, if the wind behaves. Sixty, if word got around. It's Thursday, so it got around.
+    루스: 바람이 얌전하면 마흔. 소문이 돌았으면 예순. 목요일이니까 돌았을 거예요.
 
-004. SAM: Why does Thursday matter, is that a church thing out here?
+004. SAM: Why does Thursday matter? Is that a church thing out here?
     샘: 목요일이 왜 중요해요? 여기 교회 풍습인가요?
 
-005. RUTH: Thursday is when the men drink coffee at the elevator, and Lyle tells everybody everything.
-    루스: 목요일은 남자들이 엘리베이터에서 커피 마시는 날인데, 라일이 다 말하거든요.
+005. RUTH: Thursday is when the men drink coffee at the elevator. Lyle tells everybody everything.
+    루스: 목요일은 남자들이 엘리베이터에서 커피 마시는 날이에요. 라일이 다 말해요.
 
 006. LYLE: I heard that, Ruth, and I only told eleven people.
     라일: 들었어요, 루스. 열한 명한테만 말했다고요.
@@ -36,8 +36,8 @@
 007. RUTH: And they told eleven people each.
     루스: 그 사람들이 또 열한 명씩 말했겠지.
 
-008. DALE: Sam, you sit in the back, because folks here don't like a stranger in the front row, so let them look at you first.
-    데일: 샘, 뒤에 앉아요. 여기 사람들은 낯선 사람이 맨 앞줄에 있는 거 안 좋아하니까 먼저 구경하게 해 줘요.
+008. DALE: Sam, you sit in the back. Folks here don't like a stranger in the front row. Let them look at you first.
+    데일: 샘, 뒤에 앉아요. 여기 사람들은 낯선 사람이 맨 앞줄에 있는 거 안 좋아해요. 먼저 구경하게 해 줘요.
 
 009. SAM: I'm happy in the back, since I'm here to listen.
     샘: 뒤가 좋아요. 들으러 온 거니까요.
@@ -54,11 +54,11 @@
 013. SAM: I'm not selling anything tonight, sir, I promise, because I'm just here to listen.
     샘: 오늘 밤엔 아무것도 안 팔아요, 약속해요. 그냥 들으러 왔어요.
 
-014. GENE: That's what the last one said, right before he sold my brother a grain dryer that caught fire.
-    진: 지난번 사람도 그렇게 말하고는 우리 형한테 불나는 곡물 건조기를 팔았지.
+014. GENE: That's what the last one said. He sold my brother a grain dryer that caught fire.
+    진: 지난번 사람도 그렇게 말했어. 우리 형한테 불나는 곡물 건조기를 팔았지.
 
-015. TYLER: Our motors don't catch fire, sir, because we test every one on a machine called Old Betsy.
-    타일러: 저희 모터는 불 안 나요. 전부 올드 베치라는 기계로 시험하거든요.
+015. TYLER: Our motors don't catch fire, sir. We test every one on a machine called Old Betsy.
+    타일러: 저희 모터는 불 안 나요. 전부 올드 베치라는 기계로 시험해요.
 
 016. GENE: You name your machines? Like a dog or a horse?
     진: 기계에 이름을 붙여? 개나 말처럼?
@@ -75,8 +75,8 @@
 020. TINA: My mom made eighty, because she knows this crowd.
     티나: 엄마가 여든 개 만들었어요. 이 사람들 잘 알거든요.
 
-021. RUTH: Thank you all for coming out in this wind, and we have a guest speaker tonight and some guests from Ohio, but first, Dale wants to say something.
-    루스: 이 바람에 와 주셔서 다들 고마워요. 오늘 밤 초청 연사도 있고 오하이오에서 오신 손님들도 있는데, 먼저 데일이 할 말이 있대요.
+021. RUTH: Thank you all for coming out in this wind. We have a guest speaker tonight, and we have some guests from Ohio. But first, Dale wants to say something.
+    루스: 이 바람에 와 주셔서 다들 고마워요. 오늘 밤 초청 연사가 있고, 오하이오에서 오신 손님들도 있어요. 근데 먼저 데일이 할 말이 있대요.
 
 022. DALE: I'll be short since Ruth's watching, but my G-340 has been dead in the barn since December over one sensor that I changed myself, and the dealer comes March ninth to plug in a laptop.
     데일: 루스가 보고 있으니까 짧게 할게요. 내 G-340이 내가 직접 간 센서 하나 때문에 12월부터 헛간에서 죽어 있는데, 딜러는 3월 9일에 노트북 꽂으러 온대요.
@@ -123,22 +123,22 @@
 036. DALE: That sounds just like Randy, who says the same thing.
     데일: 그게 랜디야. 랜디도 똑같은 말을 해.
 
-037. LORNA: Every Randy says the same thing, because the dealers aren't villains, and most of them are good people stuck in a bad system.
-    로나: 랜디들은 다 똑같은 말을 해요. 딜러가 악당은 아니고, 대부분 나쁜 시스템에 갇힌 좋은 사람들이거든요.
+037. LORNA: Every Randy says the same thing. The dealers aren't villains. Most of them are good people stuck in a bad system.
+    로나: 랜디들은 다 똑같은 말을 해요. 딜러가 악당은 아니에요. 대부분 나쁜 시스템에 갇힌 좋은 사람들이죠.
 
-038. GENE: My nephew works at the Greaves dealer in Ames, and he's a good kid, so I don't want this to be about him.
-    진: 내 조카가 에임스 그리브스 딜러에서 일하는데 착한 애야. 이게 그 애 얘기가 되는 건 싫어.
+038. GENE: My nephew works at the Greaves dealer in Ames. He's a good kid. I don't want this to be about him.
+    진: 내 조카가 에임스 그리브스 딜러에서 일해. 착한 애야. 이게 그 애 얘기가 되는 건 싫어.
 
 039. LORNA: It isn't, Gene, it's about who holds the keys, and your nephew doesn't hold them either, Greaves does.
     로나: 그 얘기 아니에요, 진. 누가 열쇠를 쥐고 있느냐의 얘기인데, 조카분도 열쇠가 없어요. 그리브스가 쥐고 있죠.
 
-040. TINA: So what can we actually do, because I'm tired of being mad and I want to know what's real?
-    티나: 그럼 우리가 실제로 뭘 할 수 있어요? 화내는 거 지쳤고, 뭐가 진짜인지 알고 싶어요.
+040. TINA: So what can we actually do? I'm tired of being mad. I want to know what's real.
+    티나: 그럼 우리가 실제로 뭘 할 수 있어요? 화내는 거 지쳤어요. 뭐가 진짜인지 알고 싶어요.
 
 041. LORNA: That's the right question, and there are three fights going on, one in federal court, one in the copyright law, and one in the state capitals, so let me take them one at a time.
     로나: 그게 맞는 질문이에요. 지금 연방 법원, 저작권법, 주 의회, 이렇게 세 군데서 싸움이 벌어지고 있어요. 하나씩 설명할게요.
 
-042. RUTH: Take your time, Lorna, because nobody's going home in this wind.
+042. RUTH: Take your time, Lorna. Nobody's going home in this wind.
     루스: 천천히 해요, 로나. 이 바람에 집에 갈 사람 없어요.
 
 043. TYLER: Should I take notes?
@@ -156,8 +156,8 @@
 047. TINA: What did they say the company did wrong, exactly?
     티나: 그 회사가 정확히 뭘 잘못했다는 거예요?
 
-048. LORNA: The government says they kept the best repair software for their dealers only, so farmers and independent mechanics couldn't do the repairs, which pushed repair prices up and made farmers wait.
-    로나: 정부 말로는 최고 수리 소프트웨어를 딜러만 쓰게 해서 농부랑 독립 정비사가 수리를 못 했대요. 그 때문에 수리비가 오르고 농부들이 기다렸다는 거예요.
+048. LORNA: The government says they kept the best repair software for their dealers only. So farmers and independent mechanics couldn't do the repairs. That pushed repair prices up and made farmers wait.
+    로나: 정부 말로는 최고 수리 소프트웨어를 딜러만 쓰게 했대요. 그래서 농부랑 독립 정비사가 수리를 못 했고요. 그 때문에 수리비가 오르고 농부들이 기다렸다는 거예요.
 
 049. LYLE: For the Ohio people, what's an independent mechanic?
     라일: 오하이오 사람들 위해서, 독립 정비사가 뭐야?
@@ -165,7 +165,7 @@
 050. LORNA: It's a mechanic who doesn't work for a dealer, like the guy in town with his own shop, and there used to be one in every county, but now there are fewer, because they can't get the software.
     로나: 딜러 소속이 아닌 정비사요. 마을에서 자기 가게 하는 사람. 예전엔 카운티마다 하나씩 있었는데, 소프트웨어를 못 구해서 지금은 줄었어요.
 
-051. SAM: And what does the company say, because they must have an answer?
+051. SAM: And what does the company say? They must have an answer.
     샘: 그럼 그 회사는 뭐라고 해요? 대답이 있을 거 아니에요.
 
 052. LORNA: They say they already sell repair tools to farmers, that the lawsuit is wrong, and that some things have to stay locked for safety and emissions. They're fighting it hard.
@@ -198,11 +198,11 @@
 061. GENE: Even on my own tractor, the one I paid for?
     진: 내 돈 주고 산 내 트랙터인데도?
 
-062. LORNA: Here's the strange part, because since about twenty eighteen there's been an exception that allows you, the owner, to break the lock to repair your own machine.
-    로나: 여기서 이상해져요. 2018년쯤부터 주인인 당신은 자기 기계를 고치려고 잠금을 깰 수 있다는 예외가 생겼거든요.
+062. LORNA: Here's the strange part. Since about twenty eighteen, there's an exception. You, the owner, are allowed to break the lock to repair your own machine.
+    로나: 여기서 이상해져요. 2018년쯤부터 예외가 생겼어요. 주인인 당신은 자기 기계를 고치려고 잠금을 깰 수 있어요.
 
-063. DALE: Then why can't I fix mine, when I'm the owner?
-    데일: 그럼 내가 주인인데 왜 못 고쳐?
+063. DALE: Then why can't I fix mine? I'm the owner, aren't I?
+    데일: 그럼 난 왜 못 고쳐? 내가 주인이잖아?
 
 064. LORNA: Because nobody is allowed to sell you the tool to do it, which in plain English means you're allowed to pick your own lock, but nobody's allowed to sell you a lockpick.
     로나: 그걸 할 도구를 아무도 팔면 안 되거든요. 쉬운 말로 하면 자기 자물쇠를 따는 건 되는데, 자물쇠 따는 도구를 파는 건 아무도 안 돼요.
@@ -234,8 +234,8 @@
 073. TINA: What about Iowa, has anybody in Des Moines even tried?
     티나: 아이오와는요? 디모인에서 누가 시도라도 해 봤어요?
 
-074. LORNA: Bills come up in Des Moines every year, but so far they haven't passed, because the equipment makers and the dealer associations have good lobbyists, and the farmers have lemon bars.
-    로나: 디모인에서 매년 법안이 올라오는데 지금까진 통과 못 했어요. 농기계 회사랑 딜러 협회는 로비스트가 좋고, 농부들한텐 레몬 바가 있거든요.
+074. LORNA: Bills come up in Des Moines every year. So far, they haven't passed. The equipment makers and the dealer associations have good lobbyists. The farmers have lemon bars.
+    로나: 디모인에서 매년 법안이 올라와요. 지금까진 통과 못 했어요. 농기계 회사랑 딜러 협회는 로비스트가 좋거든요. 농부들한텐 레몬 바가 있고요.
 
 075. TINA: My mom's lemon bars could pass a law.
     티나: 우리 엄마 레몬 바면 법도 통과시킬걸요.
@@ -246,8 +246,8 @@
 077. GENE: What's in the fine print? Tell us the part they don't say out loud.
     진: 깨알 조항에 뭐가 있는데? 그 사람들이 소리 내서 안 하는 말 해 봐.
 
-078. LORNA: In return, the farm groups agreed not to push for state laws, and the company decides what "access" means, which is how you get a thousand-dollar app that reads codes but can't clear them.
-    로나: 그 대가로 농업 단체들은 주 법률을 밀지 않기로 했고, '접근'이 뭔지는 회사가 정해요. 그래서 코드는 읽는데 못 지우는 천 달러짜리 앱이 나오는 거죠.
+078. LORNA: In return, the farm groups agreed not to push for state laws. And the company decides what "access" means. That's how you get a thousand-dollar app that reads codes but can't clear them.
+    로나: 그 대가로 농업 단체들은 주 법률을 밀지 않기로 했어요. 그리고 '접근'이 뭔지는 회사가 정해요. 그래서 코드는 읽는데 못 지우는 천 달러짜리 앱이 나오는 거죠.
 
 079. DALE: That's my app, the one I pay for.
     데일: 그게 내가 돈 내고 쓰는 앱이야.
@@ -255,7 +255,7 @@
 080. LORNA: Half this room pays for that one, Dale.
     로나: 이 방 사람 절반이 그거 돈 내고 써요, 데일.
 
-081. SAM: Lorna, can I ask about the other side, like what the makers would say if they were in this room?
+081. SAM: Lorna, can I ask the other side? What would the makers say if they were in this room?
     샘: 로나, 반대쪽 얘기도 물어봐도 될까요? 제조사들이 이 방에 있다면 뭐라고 할까요?
 
 082. LORNA: That's a fair question, and they'd say modern machines are complicated and a bad repair can hurt somebody, that dealers keep rural towns alive, and that they spent billions on that software and shouldn't have to give it away.
@@ -264,7 +264,7 @@
 083. GENE: And some of that is true.
     진: 그리고 그중 일부는 사실이고.
 
-084. LORNA: Some of that is true, Gene, and I'll never tell you it's all black and white, but there's a difference between protecting your software and holding a farmer's planting season hostage.
+084. LORNA: Some of that is true, Gene. I'll never tell you it's all black and white. But there's a difference between protecting your software and holding a farmer's planting season hostage.
     로나: 일부는 사실이에요, 진. 다 흑백이라고는 절대 안 할게요. 그래도 자기 소프트웨어를 보호하는 거랑 농부의 파종철을 인질로 잡는 건 달라요.
 
 085. TYLER: So what's the word for it when one company controls all the repairs?
@@ -300,14 +300,14 @@
 095. LORNA: Good, because listening is rare, and most companies show up here with a slideshow.
     로나: 좋네요. 듣는 건 드문 일이거든요. 회사들은 대부분 슬라이드 들고 와요.
 
-096. LORNA: That's the end of my part, and now it's your turn, so who wants to tell a story? Tina, I know you've got one.
-    로나: 제 얘기는 여기까지고, 이제 여러분 차례예요. 누가 이야기해 볼래요? 티나, 하나 있는 거 알아요.
+096. LORNA: That's the end of my part. Now it's your turn. Who wants to tell a story? Tina, I know you've got one.
+    로나: 제 얘기는 여기까지예요. 이제 여러분 차례예요. 누가 이야기해 볼래요? 티나, 하나 있는 거 알아요.
 
 097. TINA: Okay, so last October at harvest, my combine threw a code for the hydraulic pressure sensor, and rain was coming in four days.
     티나: 좋아요. 작년 10월 수확철에 콤바인에서 유압 센서 코드가 떴어요. 나흘 뒤에 비가 온다고 했고요.
 
-098. GENE: I remember that rain, because it came in sideways, right through the barn door.
-    진: 그 비 기억나. 헛간 문으로 옆으로 들이쳤지.
+098. GENE: I remember that rain. It came in sideways, right through the barn door.
+    진: 그 비 기억나. 옆으로 들이쳤지. 헛간 문으로 바로.
 
 099. TINA: The dealer came on day five, after the rain, and I lost about a fifth of my beans on the ground, and my husband and I have three kids and rent most of our land, so that rain was our Christmas.
     티나: 딜러가 비 온 다음, 닷새째에 왔어요. 콩 5분의 1쯤을 땅에 버렸어요. 남편이랑 저는 애가 셋이고 땅은 거의 빌린 거라, 그 비가 우리 크리스마스였어요.
@@ -336,14 +336,14 @@
 107. TINA: I know, Gene, it was Kyle, and he was nice and apologized four times.
     티나: 알아요, 진 아저씨. 카일이었는데, 친절했고 사과를 네 번이나 했어요.
 
-108. GENE: My point is, if farmers fix everything themselves, what happens to Kyle and the dealer in Ames, which is forty jobs in a town that needs them?
-    진: 내 말은, 농부들이 다 직접 고치면 카일이랑 에임스 딜러는 어떻게 되냐는 거야. 일자리가 필요한 마을에 일자리 마흔 개라고.
+108. GENE: My point is, if farmers fix everything themselves, what happens to Kyle? What happens to the dealer in Ames? That's forty jobs in a town that needs them.
+    진: 내 말은, 농부들이 다 직접 고치면 카일은 어떻게 되냐는 거야. 에임스 딜러는? 일자리가 필요한 마을에 일자리 마흔 개야.
 
-109. LORNA: That's a fair worry, Gene, but in Colorado the dealers are still there and farmers still use them for big jobs, so they just aren't the only door anymore.
-    로나: 타당한 걱정이에요, 진. 근데 콜로라도에도 딜러는 아직 있고 농부들은 큰일은 여전히 딜러한테 맡겨요. 그냥 유일한 문이 아닐 뿐이죠.
+109. LORNA: That's a fair worry, Gene. In Colorado, the dealers are still there. Farmers still use them for big jobs. They just aren't the only door anymore.
+    로나: 타당한 걱정이에요, 진. 콜로라도에도 딜러는 아직 있어요. 농부들은 큰일은 여전히 딜러한테 맡기고요. 그냥 유일한 문이 아닐 뿐이죠.
 
-110. LYLE: Can I tell one? It's not a tractor but the fans at the elevator, where the new motors have a control box that won't talk to anything but the maker's own app, and the app is only in Chinese.
-    라일: 나도 하나 해도 돼? 트랙터 말고 엘리베이터 팬 얘기인데, 새 모터에 제조사 앱 말고는 아무것하고도 말을 안 하는 제어함이 달려 있어. 그런데 앱이 중국어로만 돼.
+110. LYLE: Can I tell one? It's not a tractor. It's the fans at the elevator. The new motors have a control box that won't talk to anything but the maker's own app. And the app is only in Chinese.
+    라일: 나도 하나 해도 돼? 트랙터 얘기 아니고 엘리베이터 팬 얘기야. 새 모터엔 제조사 앱 말고는 아무것하고도 말을 안 하는 제어함이 달려 있어. 그런데 앱이 중국어로만 돼.
 
 111. TYLER: Only in Chinese, for a fan in the middle of Iowa?
     타일러: 아이오와 한복판 팬인데 중국어로만요?
@@ -357,17 +357,17 @@
 114. GENE: Marge is a good tractor. I've pulled her out of the mud twice.
     진: 마지는 좋은 트랙터야. 내가 진흙에서 두 번이나 끌어냈지.
 
-115. DALE: Marge is the best tractor in Story County, and she can't plant my farm, and that's my whole story: the old one I can fix can't do the job, and the new one that can do the job, I can't fix.
+115. DALE: Marge is the best tractor in Story County, and she can't plant my farm. That's my whole story. The old one I can fix can't do the job. The new one that can do the job, I can't fix.
     데일: 마지는 스토리 카운티 최고의 트랙터인데 내 농사를 못 지어. 그게 내 얘기 전부야. 고칠 수 있는 옛날 건 일을 못 하고, 일을 할 수 있는 새 건 내가 못 고쳐.
 
-116. LORNA: That's the best summary of this whole fight I've ever heard, so can I steal that, Dale?
+116. LORNA: That's the best summary of this whole fight I've ever heard. Can I steal that, Dale?
     로나: 이 싸움 전체를 이보다 잘 요약한 건 처음 들어요. 그거 써먹어도 돼요, 데일?
 
 117. DALE: Bring me a lemon bar and it's yours.
     데일: 레몬 바 하나 갖다주면 당신 거야.
 
-118. LORNA: Mr. Kowalski, you've been listening all night, so is there anything you want to say?
-    로나: 코왈스키 씨, 밤새 듣기만 하셨는데 하고 싶은 말 있어요?
+118. LORNA: Mr. Kowalski, you've been listening all night. Anything you want to say?
+    로나: 코왈스키 씨, 밤새 듣기만 하셨네요. 하고 싶은 말 있어요?
 
 119. SAM: Just one thing, which is that I'm an engineer, so I'm not going to fix the federal courts, and I'm not going to fix Des Moines.
     샘: 하나만요. 전 엔지니어라서 연방 법원도 못 고치고 디모인도 못 고쳐요.
@@ -414,7 +414,7 @@
 133. SAM: It's two words, "open port," with a question mark.
     샘: 두 단어요. "열린 포트", 물음표 붙여서.
 
-134. DALE: What's an open port, a computer thing or a boat thing?
+134. DALE: What's an open port? Is that a computer thing or a boat thing?
     데일: 열린 포트가 뭔데요? 컴퓨터 얘기예요, 배 얘기예요?
 
 135. SAM: I don't know yet, so let me call Wen, because she'll tell me if it's stupid.

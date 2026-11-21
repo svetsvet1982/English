@@ -36,7 +36,7 @@
 007. HANK: You're taking half, which is what I offered, with my drones on the left, your motors on the right, and the bathrooms behind us, so it's a great neighborhood.
     행크: 내가 제안한 대로 절반 쓰는 거죠. 내 드론은 왼쪽, 당신 모터는 오른쪽, 화장실은 뒤에. 아주 좋은 동네예요.
 
-008. EARL: I drove nine hours in a van with forty motors and a planter to get here, so I'm not complaining about the neighborhood.
+008. EARL: I drove nine hours in a van with forty motors and a planter to get here. I'm not complaining about the neighborhood.
     얼: 모터 마흔 개랑 파종기 하나 싣고 밴으로 아홉 시간 왔어. 동네 갖고 불평 안 해.
 
 009. HANK: What's the planter for?
@@ -45,8 +45,8 @@
 010. SAM: That's Wen's idea, and she built it in a week out of one row unit off an old planter, where our motor drives the seed disk instead of a chain, so we'll fill it with corn and let people watch it plant.
     샘: 웬 아이디어예요. 낡은 파종기에서 떼어 낸 한 줄짜리 장치로 일주일 만에 만들었는데, 체인 대신 우리 모터가 씨앗 원판을 돌려요. 옥수수 채워서 사람들이 심는 걸 구경하게 하려고요.
 
-011. HANK: Farmers love watching seed drop, because for them it's like a fish tank.
-    행크: 농부들은 씨앗 떨어지는 거 보는 거 좋아해요. 그 사람들한텐 어항 같은 거거든요.
+011. HANK: Farmers love watching seed drop. It's like a fish tank for them.
+    행크: 농부들은 씨앗 떨어지는 거 보는 거 좋아해요. 그 사람들한텐 어항 같은 거예요.
 
 012. TYLER: Hey, look down the hall, because is that Greaves over there?
     타일러: 저기 복도 끝 좀 봐요. 저게 그리브스예요?
@@ -57,7 +57,7 @@
 014. EARL: We have a coffee machine that sounds like a goose.
     얼: 우린 거위 소리 나는 커피 머신 있는데.
 
-015. TYLER: We didn't bring the goose, Earl, because it stayed in Ohio.
+015. TYLER: We didn't bring the goose, Earl. It stayed in Ohio.
     타일러: 거위는 안 가져왔잖아요, 얼. 오하이오에 두고 왔어요.
 
 016. EARL: That's what I'm saying, so I guess they win.
@@ -84,8 +84,8 @@
 023. HANK: You guys signed with the government on Tuesday and drove to a farm show on Wednesday?
     행크: 화요일에 정부랑 서명하고 수요일에 농기계 박람회로 운전해 온 거예요?
 
-024. SAM: Tuesday was the paper and today is the work, and doors open in ten minutes, so Tyler, how's our foot traffic plan?
-    샘: 화요일은 서류였고 오늘은 일이죠. 10분 뒤에 문 여는데, 타일러, 방문객 유치 계획은 어때?
+024. SAM: Tuesday was the paper. Today is the work. Doors open in ten minutes. Tyler, how's our foot traffic plan?
+    샘: 화요일은 서류였고 오늘은 일이죠. 10분 뒤에 문 열어요. 타일러, 방문객 유치 계획은 어때?
 
 025. TYLER: My foot traffic plan is that we're by the bathrooms, so everybody comes eventually.
     타일러: 방문객 계획이요? 우리가 화장실 옆이니까 결국 다 와요.
@@ -99,16 +99,16 @@
 028. SAM: Hank, before the crowd comes, tell me exactly what you need for your drone motors.
     샘: 행크, 사람들 몰려오기 전에 드론 모터에 정확히 뭐가 필요한지 말해 줘요.
 
-029. HANK: Spraying drones carry a forty-liter tank, which is ninety pounds of liquid hanging under eight propellers when it's full, so the motors are about four times bigger than your Army ones, and they run hot all day in July.
-    행크: 방제 드론은 40리터 탱크를 다는데, 꽉 차면 프로펠러 여덟 개 밑에 액체 90파운드가 매달리는 거예요. 그래서 모터가 육군용보다 네 배쯤 크고, 7월 내내 하루 종일 뜨겁게 돌아요.
+029. HANK: Spraying drones carry a forty-liter tank. Full, that's ninety pounds of liquid hanging under eight propellers. The motors are about four times bigger than your Army ones, and they run hot all day in July.
+    행크: 방제 드론은 40리터 탱크를 달아요. 꽉 차면 프로펠러 여덟 개 밑에 액체 90파운드가 매달리는 거예요. 모터는 당신네 육군용보다 네 배쯤 크고, 7월 내내 하루 종일 뜨겁게 돌아요.
 
 030. SAM: And the American drone companies need them by when?
     샘: 미국 드론 회사들은 언제까지 필요하대요?
 
-031. HANK: Spraying starts in June, so they need test motors in April or they lose the whole season, and a lost season out here is a lost year.
-    행크: 방제는 6월에 시작하니까 4월엔 시험용 모터가 있어야 해요. 안 그러면 시즌을 날리는데, 여기서 시즌을 날리면 1년을 날리는 거예요.
+031. HANK: Spraying starts in June. They need test motors in April, or they lose the whole season. A lost season out here is a lost year.
+    행크: 방제는 6월에 시작해요. 4월에 시험용 모터가 있어야 해요. 안 그러면 시즌 전체를 날려요. 여기서 시즌을 날리면 1년을 날리는 거고요.
 
-032. SAM: Then you'll have test motors in April, and I'll put it in writing.
+032. SAM: Then you'll have test motors in April. I'll put it in writing.
     샘: 그럼 4월에 시험용 모터 드릴게요. 서면으로 써 드릴게요.
 
 033. HANK: You don't have to put it in writing, because you answered the phone in December, and that's my writing.
@@ -168,7 +168,7 @@
 051. MARV: Ohio, huh, and what do Ohio people know about corn?
     마브: 오하이오라. 오하이오 사람들이 옥수수에 대해 뭘 알아?
 
-052. EARL: Sir, Ohio grows a whole lot of corn, and my uncle grew it in Darke County until his knees gave out.
+052. EARL: Sir, Ohio grows a whole lot of corn. My uncle grew it in Darke County until his knees gave out.
     얼: 선생님, 오하이오도 옥수수 엄청 길러요. 우리 삼촌이 무릎이 망가질 때까지 다크 카운티에서 길렀어요.
 
 053. MARV: Darke County, huh, all right, then. I'm Marv, and I farm two thousand acres in Indiana, and I've bought every color of tractor there is, so give me your card.
@@ -201,13 +201,13 @@
 062. TYLER: Two hundred and twelve by my clicker, with fifty-one cards gone, and I've counted the questions too, which are the same five over and over.
     타일러: 계수기로 이백열두 명이고, 명함은 쉰한 장 나갔어요. 질문도 세어 봤는데, 똑같은 다섯 개가 계속 나와요.
 
-063. SAM: Then tell me what the five are.
-    샘: 그 다섯 개가 뭔지 말해 봐.
+063. SAM: Tell me the five.
+    샘: 그 다섯 개 말해 봐.
 
-064. TYLER: First, can I open it myself, and second, who fixes it at two in the morning in May? Then, does it work at twenty below, what does it cost, and do you take my data?
-    타일러: 첫째, 내가 직접 열 수 있나. 둘째, 5월 새벽 두 시에 누가 고치나. 그리고 영하 20도에서 되나, 얼마인가, 내 데이터 가져가나.
+064. TYLER: One: can I open it myself? Two: who fixes it at two in the morning in May? Three: does it work at twenty below? Four: what does it cost? Five: do you take my data?
+    타일러: 하나, 내가 직접 열 수 있나? 둘, 5월 새벽 두 시에 누가 고치나? 셋, 영하 20도에서 되나? 넷, 얼마인가? 다섯, 내 데이터 가져가나?
 
-065. HANK: That's every farmer in America in five questions, so you should frame that list.
+065. HANK: That's every farmer in America in five questions. You should frame that list.
     행크: 미국 농부 전부가 질문 다섯 개에 들어 있네요. 그 목록 액자에 넣어 둬요.
 
 066. SAM: Number five surprised me, the one about the data.
@@ -219,7 +219,7 @@
 068. EARL: Our motors don't send anything anywhere, they just turn.
     얼: 우리 모터는 아무 데도 아무것도 안 보내. 그냥 돌기만 하지.
 
-069. SAM: Then that's an answer, "Your data stays on your farm," so Tyler, write that down.
+069. SAM: Then that's an answer. "Your data stays on your farm." Tyler, write that down.
     샘: 그럼 그게 대답이네. "데이터는 당신 농장에 남습니다." 타일러, 적어 둬.
 
 070. TYLER: I'm writing it, but what about two in the morning in May, because that's the hard one?
@@ -234,10 +234,10 @@
 073. TYLER: That's a good line, so can I use it?
     타일러: 좋은 말이네요. 써도 돼요?
 
-074. HANK: Only if you say it slowly, because people out here don't trust a fast talker.
-    행크: 천천히 말할 때만요. 여기 사람들은 말 빠른 사람 안 믿거든요.
+074. HANK: Only if you say it slowly. People out here don't trust a fast talker.
+    행크: 천천히 말할 때만요. 여기 사람들은 말 빠른 사람 안 믿어요.
 
-075. TYLER: I'm from the Army, sir, and I talk fast because people were shooting at us.
+075. TYLER: I'm from the Army, sir. I talk fast because people were shooting at us.
     타일러: 저 육군 출신이에요. 말이 빠른 건 사람들이 우리한테 총을 쏴서 그래요.
 
 076. HANK: Well, nobody's shooting at you here, so slow down, son.
@@ -255,20 +255,20 @@
 080. EARL: And if it's good?
     얼: 좋으면요?
 
-081. MARV: If it's good, about eleven people will know, because good news travels slow on a farm.
-    마브: 좋으면 열한 명쯤 알지. 농장에선 좋은 소식은 천천히 퍼지거든.
+081. MARV: If it's good, about eleven people will know. Good news travels slow on a farm.
+    마브: 좋으면 열한 명쯤 알지. 농장에선 좋은 소식은 천천히 퍼져.
 
 082. HANK: That's true, because bad news has a pickup truck while good news walks.
     행크: 맞아요. 나쁜 소식은 픽업트럭을 타고, 좋은 소식은 걸어가요.
 
-083. SAM: Then we'll be patient, but Marv, does twenty below scare you?
-    샘: 그럼 참을성 있게 가죠. 근데 마브, 영하 20도 걱정되세요?
+083. SAM: Then we'll be patient. Marv, does twenty below scare you?
+    샘: 그럼 참을성 있게 가죠. 마브, 영하 20도 걱정되세요?
 
 084. MARV: Twenty below doesn't scare me, it scares my hydraulics.
     마브: 영하 20도는 내가 무서운 게 아니라 내 유압 장치가 무서워하지.
 
-085. SAM: Our motors run from twenty-five below to fifty Celsius, and the Army tested them, because they fly drones in places colder than Indiana.
-    샘: 우리 모터는 섭씨 영하 25도부터 50도까지 돌아요. 인디애나보다 추운 데서 드론을 날리니까 육군이 시험했어요.
+085. SAM: Our motors run from twenty-five below to fifty Celsius. The Army tested them. They fly drones in places colder than Indiana.
+    샘: 우리 모터는 섭씨 영하 25도부터 50도까지 돌아요. 육군이 시험했어요. 인디애나보다 추운 데서 드론을 날려요.
 
 086. MARV: The Army, hm, well, that's not nothing.
     마브: 육군이라. 흠, 그건 별거 아닌 게 아니네.
@@ -282,7 +282,7 @@
 089. EARL: Sam, I'm going to get a coffee from the Greaves booth, just to see what a barista coffee tastes like.
     얼: 샘, 그리브스 부스 가서 커피 한 잔 받아 올게. 바리스타 커피가 무슨 맛인지 보려고.
 
-090. SAM: I'll come with you, because I want to see the turntable.
+090. SAM: I'll come with you. I want to see the turntable.
     샘: 같이 가요. 회전 무대 보고 싶어요.
 
 091. TYLER: Bring me something back, anything with sugar in it.
@@ -330,8 +330,8 @@
 105. EARL: So you need a backup, somebody who isn't in China.
     얼: 그러니까 중국에 없는 대안이 필요하다는 거네.
 
-106. NEIL: We need a second source that doesn't expire, which is how my boss put it, and I believe you have a board in your office that says something similar.
-    닐: 유효기간 없는 두 번째 공급처가 필요하다고, 우리 사장님이 그렇게 표현했어요. 그쪽 사무실에도 비슷한 말이 적힌 칠판이 있다고 들었는데요.
+106. NEIL: We need a second source that doesn't expire. That's how my boss put it. I believe you have a board in your office that says something similar.
+    닐: 유효기간 없는 두 번째 공급처가 필요하죠. 우리 사장님 표현이에요. 그쪽 사무실에도 비슷한 말이 적힌 칠판이 있다고 들었는데요.
 
 107. SAM: How do you know about Gloria's board?
     샘: 글로리아 칠판을 어떻게 아세요?
@@ -360,8 +360,8 @@
 115. SAM: Or the farmer is responsible, since it's his tractor.
     샘: 아니면 농부가 책임지면 되죠. 자기 트랙터잖아요.
 
-116. NEIL: Our dealers are the backbone of rural America, Mr. Kowalski, because they employ people in towns that don't have much else, so when you buy a Greaves, you buy a relationship.
-    닐: 저희 딜러들은 농촌 미국의 척추예요, 코왈스키 씨. 별다른 일자리가 없는 마을에서 사람들을 고용하니까요. 그리브스를 사는 건 관계를 사는 겁니다.
+116. NEIL: Our dealers are the backbone of rural America, Mr. Kowalski. They employ people in towns that don't have much else. When you buy a Greaves, you buy a relationship.
+    닐: 저희 딜러들은 농촌 미국의 척추예요, 코왈스키 씨. 별다른 일자리가 없는 마을에서 사람들을 고용하죠. 그리브스를 사는 건 관계를 사는 겁니다.
 
 117. EARL: The relationship is ninety miles away and booked until March.
     얼: 그 관계가 90마일 떨어져 있고 3월까지 예약이 차 있다니까.
@@ -381,13 +381,13 @@
 122. SAM: He reads everything about his suppliers.
     샘: 공급사에 관한 건 다 읽는대잖아요.
 
-123. EARL: I didn't like him, Sam, because he was nice the whole time and I didn't like him once.
+123. EARL: I didn't like him, Sam. He was nice the whole time, and I didn't like him once.
     얼: 난 저 사람 마음에 안 들어, 샘. 내내 친절했는데, 한 번도 마음에 안 들었어.
 
 124. SAM: Hank warned us that they're very friendly, and that's how you know.
     샘: 행크가 경고했잖아요. 아주 친절하면, 그게 신호라고.
 
-125. EARL: But he's got volume, and I saw your face when he said "real volume."
+125. EARL: But he's got volume. I saw your face when he said "real volume."
     얼: 근데 물량이 있잖아. "진짜 물량"이라고 할 때 네 얼굴 봤어.
 
 126. TYLER: You're back, so did you bring me sugar?
@@ -420,8 +420,8 @@
 135. SAM: That was the export controls.
     샘: 수출 통제 때문이었네요.
 
-136. JO: Then the pause came and it got better, but my investors asked me one question that I couldn't answer: "What happens in November?"
-    조: 그러다 유예가 나와서 나아졌는데, 투자자들이 제가 대답 못 한 질문을 하나 했어요. "11월엔 어떻게 되는데?"
+136. JO: Then the pause came, and it got better. But my investors asked me one question, and I couldn't answer it. "What happens in November?"
+    조: 그러다 유예가 나와서 나아졌어요. 그런데 투자자들이 질문 하나를 했는데, 대답을 못 했어요. "11월엔 어떻게 되는데?"
 
 137. EARL: Everybody's asking that question today.
     얼: 오늘은 다들 그 질문을 하네.
@@ -435,8 +435,8 @@
 140. JO: Everybody says that at a trade show.
     조: 박람회에선 다들 그렇게 말해요.
 
-141. SAM: Then don't believe me, but come to Dayton, or let us come to Michigan, and put our motor in your worst field. Let's see if it spins.
-    샘: 그럼 믿지 마세요. 대신 데이턴으로 오시든지, 저희가 미시간으로 가든지 해서 저희 모터를 제일 험한 밭에 넣어 보세요. 일단 돌려 보죠.
+141. SAM: Then don't believe me. Come to Dayton, or let us come to Michigan, and put our motor in your worst field. Let's see if it spins.
+    샘: 그럼 믿지 마세요. 데이턴으로 오시든지, 저희가 미시간으로 가든지 해서 저희 모터를 제일 험한 밭에 넣어 보세요. 일단 돌려 보죠.
 
 142. JO: Come in April, when the orchards are still muddy and the snow is just gone, because that's the worst field you'll ever see.
     조: 4월에 오세요. 과수원이 아직 질척거리고 눈이 막 녹았을 때라, 평생 볼 밭 중에 제일 험할 거예요.
@@ -453,7 +453,7 @@
 146. JO: It says "Tractors don't need to be fast, they need to be stubborn," and I write it on every card because people remember it.
     조: "트랙터는 빠를 필요가 없다, 고집이 세야 한다." 사람들이 기억하니까 명함마다 써요.
 
-147. HANK: Doors are closing, folks, so Sam, how was your first farm show?
+147. HANK: Doors are closing, folks. Sam, how was your first farm show?
     행크: 문 닫아요, 여러분. 샘, 첫 농기계 박람회 어땠어요?
 
 148. SAM: Two hundred people, one Greaves vice president, and one stubborn tractor, so Tyler, any messages?

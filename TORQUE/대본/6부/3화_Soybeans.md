@@ -15,8 +15,8 @@
 
 ## 대본
 
-001. RUTH: Coffee's on the stove and the books are on the table, so which one do you want first?
-    루스: 커피는 가스레인지 위에 있고 장부는 식탁 위에 있어요. 뭐부터 하실래요?
+001. RUTH: Coffee's on the stove. Books are on the table. Which one do you want first?
+    루스: 커피는 가스레인지 위에 있고, 장부는 식탁 위에 있어요. 뭐부터 하실래요?
 
 002. GLORIA: Books. Coffee is for after the bad news.
     글로리아: 장부요. 커피는 나쁜 소식 듣고 나서 마시는 거예요.
@@ -24,7 +24,7 @@
 003. RUTH: Oh, I like you already, so sit. Mr. Kowalski, you can sit too, but this is a ladies' table this morning.
     루스: 어머, 벌써 마음에 드네요. 앉으세요. 코왈스키 씨도 앉으셔도 되는데, 오늘 아침엔 여자들 식탁이에요.
 
-004. SAM: I'll sit quietly in the corner, since I've been trained by experts.
+004. SAM: I'll sit quietly in the corner. I've been trained by experts.
     샘: 구석에 조용히 앉아 있을게요. 전문가들한테 훈련받았거든요.
 
 005. GLORIA: He's been trained for nine years and he still talks during my numbers, so okay, Ruth, walk me through it.
@@ -54,8 +54,8 @@
 013. GLORIA: In a normal year, how much do China's purchases matter to you?
     글로리아: 평년엔 중국 구매가 얼마나 중요해요?
 
-014. RUTH: In a normal year about half of America's soybean exports go to China, and even though we don't ship there ourselves, when they stop buying, every elevator in Iowa drops its price.
-    루스: 평년엔 미국 대두 수출의 절반쯤이 중국으로 가요. 우리가 직접 보내는 건 아니지만, 그쪽이 안 사면 아이오와 엘리베이터 전부가 값을 내려요.
+014. RUTH: In a normal year, about half of America's soybean exports go to China. We don't ship to China ourselves. But when they stop buying, every elevator in Iowa drops its price.
+    루스: 평년엔 미국 대두 수출의 절반쯤이 중국으로 가요. 우리가 직접 중국에 보내는 건 아니에요. 그래도 그쪽이 안 사면 아이오와 엘리베이터 전부가 값을 내려요.
 
 015. GLORIA: Okay, so what did you sell, and for how much?
     글로리아: 좋아요. 그럼 뭘 얼마에 팔았어요?
@@ -93,7 +93,7 @@
 026. GLORIA: Then you roll it over, so what you couldn't pay this fall becomes part of next spring's loan, and the next, because farm debt doesn't explode, it grows quietly, like mold.
     글로리아: 그럼 넘기는 거지. 이번 가을에 못 갚은 게 내년 봄 대출에 붙고, 그다음 해에도 붙어. 농가 부채는 폭발하지 않아. 곰팡이처럼 조용히 자라.
 
-027. RUTH: You've done this before, and I can tell by how you read a page.
+027. RUTH: You've done this before. I can tell by how you read a page.
     루스: 이 일 해 보셨네요. 페이지 읽는 거 보면 알아요.
 
 028. GLORIA: I spent twenty-five years at a bank in Cincinnati, with some farm loans down in Brown County, and I said no to a lot of good people while always wondering what their kitchens looked like.
@@ -135,8 +135,8 @@
 040. GLORIA: I read that the soybean people say it's not enough.
     글로리아: 대두 협회는 부족하다고 하더라고요. 읽었어요.
 
-041. RUTH: Some say it's not enough, and some say farmers shouldn't take it at all because it's a bailout, while my neighbor Gene says take it and stop complaining, so everybody at church has an opinion.
-    루스: 부족하다는 사람도 있고, 구제금융이니까 아예 받지 말아야 한다는 사람도 있어요. 이웃 진은 받고 불평 그만하래요. 교회 사람들은 다 의견이 있죠.
+041. RUTH: Some say it's not enough. Some say farmers shouldn't take it at all, that it's a bailout. My neighbor Gene says take it and stop complaining. Everybody at church has an opinion.
+    루스: 부족하다는 사람도 있고, 아예 받지 말아야 한다는 사람도 있어요. 구제금융이라고요. 이웃 진은 받고 불평 그만하래요. 교회 사람들은 다 의견이 있어요.
 
 042. SAM: What's yours, Ruth, because you haven't said?
     샘: 루스 생각은요? 아직 말씀 안 하셨잖아요.
@@ -159,8 +159,8 @@
 048. SAM: What might the bank ask for?
     샘: 은행이 뭘 요구할 수도 있는데요?
 
-049. RUTH: Janine is coming at two, and you'll hear it from her, so now go with Dale to the elevator, because he's been sitting in the truck for twenty minutes pretending he isn't waiting.
-    루스: 재닌이 두 시에 오니까 그 사람한테서 들으실 거예요. 이제 데일이랑 엘리베이터에 가 보세요. 20분째 트럭에 앉아서 안 기다리는 척하고 있어요.
+049. RUTH: Janine is coming at two. You'll hear it from her. Now go with Dale to the elevator. He's been sitting in the truck for twenty minutes, pretending he isn't waiting.
+    루스: 재닌이 두 시에 와요. 그 사람한테서 들으실 거예요. 이제 데일이랑 엘리베이터에 가 보세요. 20분째 트럭에 앉아서 안 기다리는 척하고 있어요.
 
 050. GLORIA: It's always men standing around trucks, and honestly, it's the same back in Ohio.
     글로리아: 남자들은 늘 트럭 옆에 서 있다니까요. 솔직히 오하이오도 똑같아요.
@@ -183,23 +183,23 @@
 056. LYLE: I'm Lyle Brandvold, and I've been running this elevator for nineteen years, so what can I tell you?
     라일: 라일 브랜드볼드예요. 이 엘리베이터 19년째 운영하고 있는데, 뭘 알려 드릴까요?
 
-057. GLORIA: Tell us about the price, like what a bushel of beans is worth today.
+057. GLORIA: Tell us about the price. What's a bushel of beans worth today?
     글로리아: 가격 얘기해 줘요. 오늘 콩 한 부셸이 얼마예요?
 
-058. LYLE: Chicago says about ten forty, but my cash price is nine ninety-five, and that difference is the basis, which has been ugly since last summer.
-    라일: 시카고 선물은 10달러 40센트쯤인데 우리 현금 가격은 9달러 95센트예요. 그 차이가 베이시스인데, 작년 여름부터 아주 안 좋아요.
+058. LYLE: Chicago says about ten forty. My cash price is nine ninety-five. That difference is the basis. It's been ugly since last summer.
+    라일: 시카고 선물은 10달러 40센트쯤이에요. 우리 현금 가격은 9달러 95센트. 그 차이가 베이시스예요. 작년 여름부터 아주 안 좋아요.
 
 059. SAM: What's the basis, in plain English?
     샘: 베이시스가 쉬운 말로 뭐예요?
 
-060. LYLE: In plain English, Chicago is the price on TV, while my price is what I can actually pay you here today after shipping and storage, and when nobody's buying for export, my price falls further.
-    라일: 쉬운 말로 하면, 시카고는 TV에 나오는 가격이고 우리 가격은 운송비랑 보관비 빼고 여기서 오늘 실제로 드릴 수 있는 돈이에요. 수출로 사 가는 사람이 없으면 더 떨어지죠.
+060. LYLE: In plain English, Chicago is the price on TV. My price is what I can actually pay you, here, today, after shipping and storage. When nobody's buying for export, my price falls further.
+    라일: 쉬운 말로 하면, 시카고는 TV에 나오는 가격이에요. 우리 가격은 운송비랑 보관비 빼고 여기서 오늘 실제로 드릴 수 있는 돈이고요. 수출로 사 가는 사람이 없으면 우리 가격은 더 떨어지죠.
 
 061. DALE: Lyle, tell them about October.
     데일: 라일, 10월 얘기 해 줘.
 
-062. LYLE: October was the worst, because the bins were full, the ground piles were full, and the export buyers just weren't calling, so I had farmers lined up on the road and had to tell some of them to go home.
-    라일: 10월이 최악이었어요. 저장통도 야적장도 꽉 찼는데 수출 구매자들이 아예 전화를 안 했어요. 도로에 농부들이 줄 서 있는데 몇 분한텐 그냥 집에 가시라고 해야 했죠.
+062. LYLE: October was the worst. The bins were full, the ground piles were full, and the export buyers just weren't calling. I had farmers lined up on the road, and I had to tell some of them to go home.
+    라일: 10월이 최악이었어요. 저장통도 꽉 차고 야적장도 꽉 찼는데 수출 구매자들이 아예 전화를 안 했어요. 도로에 농부들이 줄 서 있는데, 몇 분한텐 그냥 집에 가시라고 해야 했죠.
 
 063. GLORIA: And now, is anybody calling you this winter?
     글로리아: 지금은요? 이번 겨울엔 누가 전화해요?
@@ -213,8 +213,8 @@
 066. LYLE: Normal is when I don't have to think about Beijing before breakfast, and right now Brazil is harvesting a record crop, which is a lot of beans competing with Dale's.
     라일: 정상은 아침 먹기 전에 베이징 생각 안 해도 되는 거죠. 그리고 지금 브라질이 역대 최대 작물을 수확하고 있어서, 데일 콩이랑 경쟁하는 콩이 엄청 많아요.
 
-067. DALE: The Brazilians learned from us, because we sent them our seed and our machines thirty years ago, and now they eat our lunch.
-    데일: 브라질 사람들은 우리한테서 배웠어요. 30년 전에 우리가 씨앗이랑 기계를 보내 줬는데, 이제 우리 밥그릇을 뺏어 가요.
+067. DALE: The Brazilians learned from us. We sent them our seed and our machines thirty years ago. Now they eat our lunch.
+    데일: 브라질 사람들은 우리한테서 배웠어요. 30년 전에 우리가 씨앗이랑 기계를 보내 줬지. 이제 우리 밥그릇을 뺏어 가요.
 
 068. GLORIA: Honestly, how do people here feel about the trade war?
     글로리아: 솔직히 여기 사람들은 무역 전쟁을 어떻게 생각해요?
@@ -228,11 +228,11 @@
 071. LYLE: Every morning at six, that's the rule, so you can fight about Washington, but you can't fight about whose turn it is to make coffee.
     라일: 매일 아침 여섯 시, 그게 규칙이에요. 워싱턴 얘기로는 싸워도 되는데, 누가 커피 끓일 차례인지로는 싸우면 안 돼요.
 
-072. SAM: We have the same rule, where we argue about torque, not about who you voted for.
+072. SAM: We have the same rule. We argue about torque, not about who you voted for.
     샘: 우리도 같은 규칙이 있어요. 토크로는 싸워도 누구 찍었는지로는 안 싸워요.
 
-073. DALE: I'll say one thing, which is that I voted the way I voted and I'd probably do it again, but nobody told me the price would be my beans.
-    데일: 한 가지만 말할게요. 난 찍을 사람 찍었고 아마 또 그렇게 할 거예요. 근데 그 대가가 내 콩일 거라고는 아무도 말 안 해 줬어요.
+073. DALE: I'll say one thing. I voted the way I voted, and I'd probably do it again. But nobody told me the price would be my beans.
+    데일: 한 가지만 말할게요. 난 찍을 사람 찍었고, 아마 또 그렇게 할 거예요. 근데 그 대가가 내 콩일 거라고는 아무도 말 안 해 줬어요.
 
 074. LYLE: That's most of the coffee table, right there.
     라일: 커피 테이블 사람들 대부분이 딱 그 얘기예요.
@@ -261,7 +261,7 @@
 082. SAM: I'm just asking questions.
     샘: 그냥 질문하는 거예요.
 
-083. GLORIA: You're designing a fan motor in your head, and I know that look.
+083. GLORIA: You're designing a fan motor in your head. I know that look.
     글로리아: 머릿속으로 팬 모터 설계하고 있잖아. 그 표정 알아.
 
 084. LYLE: If you are, let me know, because every elevator in Iowa has this problem, and so does every farm with bins, like Dale's six bins with a fan on every one.
@@ -294,8 +294,8 @@
 093. SAM: Does everybody here owe everybody a pie?
     샘: 여기선 다들 서로 파이를 빚지고 있어요?
 
-094. LYLE: That's how we keep track, because pie is the currency of Story County.
-    라일: 그렇게 서로 기억하는 거예요. 파이는 스토리 카운티의 화폐거든요.
+094. LYLE: That's how we keep track. Pie is the currency of Story County.
+    라일: 그렇게 서로 기억하는 거예요. 파이는 스토리 카운티의 화폐예요.
 
 095. GLORIA: Finally, an economy I understand.
     글로리아: 드디어 내가 이해하는 경제가 나왔네.
@@ -318,8 +318,8 @@
 101. GLORIA: Here it comes, the part nobody likes.
     글로리아: 온다. 아무도 안 좋아하는 부분.
 
-102. JANINE: First, the beans in the bins get sold by June first, whatever the price, and second, no new equipment purchases this year, and third, the bank wants a plan to pay down the carryover, and they suggested the north eighty.
-    재닌: 첫째, 저장통 콩은 가격이 얼마든 6월 1일까지 팔 것. 둘째, 올해 새 장비 구매 금지. 셋째, 은행은 넘어온 빚을 줄일 계획을 원하는데, 북쪽 80에이커를 제안했어요.
+102. JANINE: One, the beans in the bins get sold by June first, whatever the price. Two, no new equipment purchases this year. And three, the bank wants a plan to pay down the carryover. They suggested the north eighty.
+    재닌: 첫째, 저장통의 콩은 가격이 얼마든 6월 1일까지 팔 것. 둘째, 올해 새 장비 구매 금지. 셋째, 은행은 넘어온 빚을 줄일 계획을 원해요. 북쪽 80에이커를 제안했어요.
 
 103. DALE: The north eighty.
     데일: 북쪽 80.
@@ -327,8 +327,8 @@
 104. JANINE: I mean selling it, Dale, because land prices are still strong, and it would clear the carryover and then some.
     재닌: 파는 거요, 데일. 땅값이 아직 괜찮아서 넘어온 빚 다 갚고도 남을 거예요.
 
-105. DALE: My grandfather bought the north eighty in nineteen fifty-one with money he saved from the war, and he walked it every Sunday, so I'm not selling it to pay for a fight between Washington and Beijing.
-    데일: 할아버지가 1951년에 전쟁 때 모은 돈으로 북쪽 80을 사서 일요일마다 걸어 다녔어요. 워싱턴이랑 베이징 싸움값 내려고 그걸 팔진 않아요.
+105. DALE: My grandfather bought the north eighty in nineteen fifty-one with money he saved from the war. He walked it every Sunday. I'm not selling it to pay for a fight between Washington and Beijing.
+    데일: 할아버지가 1951년에 전쟁 때 모은 돈으로 북쪽 80을 샀어요. 일요일마다 걸어 다녔지. 워싱턴이랑 베이징 싸움값 내려고 그걸 팔진 않아요.
 
 106. JANINE: I understand, Dale, and I'm not your enemy, because I grew up four miles from here, and I'm trying to keep you farming for the next ten years, not just this one.
     재닌: 이해해요, 데일. 전 적이 아니에요. 여기서 4마일 떨어진 데서 자랐고, 올해만이 아니라 앞으로 10년 동안 농사를 계속 짓게 하려는 거예요.
@@ -357,8 +357,8 @@
 114. JANINE: Please, I'd like to hear a banker's view.
     재닌: 그러세요. 은행원 시각을 듣고 싶네요.
 
-115. GLORIA: In twenty-five years I learned one thing, which is that a banker who drives to your kitchen wants you to survive, while the ones who want your land send a letter.
-    글로리아: 25년 동안 하나 배웠어요. 당신 부엌까지 운전해 오는 은행원은 당신이 살아남길 바라는 사람이고, 땅을 원하는 사람들은 편지를 보내죠.
+115. GLORIA: In twenty-five years, I learned one thing. A banker who drives to your kitchen is a banker who wants you to survive. The ones who want your land send a letter.
+    글로리아: 25년 동안 하나 배웠어요. 당신 부엌까지 운전해 오는 은행원은 당신이 살아남길 바라는 은행원이에요. 땅을 원하는 사람들은 편지를 보내죠.
 
 116. JANINE: Thank you, because that's true.
     재닌: 고마워요. 맞는 말이에요.
@@ -387,7 +387,7 @@
 124. GLORIA: No, nobody at this table can fix soybean prices, but we can fix what we can touch.
     글로리아: 그렇죠. 이 식탁의 누구도 대두 값은 못 고쳐요. 하지만 손 닿는 건 고칠 수 있죠.
 
-125. JANINE: Send me something by September, and I'll put it in front of the board myself.
+125. JANINE: Send me something by September. I'll put it in front of the board myself.
     재닌: 9월까지 뭔가 보내 줘요. 이사회에 제가 직접 올릴게요.
 
 126. SAM: Dale, Ruth said I'd find you out here.
@@ -402,8 +402,8 @@
 129. DALE: I'm sorry about the kitchen, because Ruth was right and I did exactly what she said I'd do.
     데일: 부엌에서는 미안했어요. 루스 말이 맞았어요. 딱 루스가 말한 대로 했지.
 
-130. SAM: You don't have to apologize, because my wife does the same thing and knows what I'll do before I do it.
-    샘: 사과 안 하셔도 돼요. 제 아내도 똑같아서, 제가 뭘 할지 저보다 먼저 알아요.
+130. SAM: You don't have to apologize. My wife does the same thing. She knows what I'll do before I do it.
+    샘: 사과 안 하셔도 돼요. 제 아내도 똑같아요. 제가 뭘 할지 저보다 먼저 알아요.
 
 131. DALE: I've farmed this ground for forty-eight years, like my father and his father, and we grow enough food to feed maybe five thousand people a year, so do you know what I'm thinking right now?
     데일: 48년 동안 이 땅을 일궜어요. 아버지도, 할아버지도 그랬고. 우리가 1년에 기르는 걸로 한 오천 명은 먹일 거예요. 지금 내가 무슨 생각 하는지 알아요?
@@ -426,17 +426,17 @@
 137. DALE: That's what scares me, not a bad year, because I've had bad years, but the idea that this land becomes somebody else's glass factory.
     데일: 그게 무서운 거예요. 힘든 해는 겪어 봤으니 그게 아니라, 이 땅이 누군가의 유리 공장이 되는 게 무서운 거예요.
 
-138. SAM: Dale, I can't promise you soybean prices, and I can't promise you the north eighty.
+138. SAM: Dale, I can't promise you soybean prices. I can't promise you the north eighty.
     샘: 데일, 대두 값은 약속 못 해요. 북쪽 80에이커도 약속 못 하고요.
 
 139. DALE: I know, and I'm not asking you to, son.
     데일: 알아요. 그런 거 바라는 거 아니에요.
 
-140. SAM: But I can build you a fan motor for bin number four that you can fix yourself, and I'll start there.
+140. SAM: But I can build you a fan motor for bin number four that you can fix yourself. And I'll start there.
     샘: 근데 4번 저장통에 직접 고칠 수 있는 팬 모터는 만들어 드릴 수 있어요. 거기서부터 시작할게요.
 
-141. DALE: Start with one bin, because that's how you start anything out here.
-    데일: 저장통 하나부터 해요. 여기선 뭐든 그렇게 시작하니까.
+141. DALE: Start with one bin. That's how you start anything out here.
+    데일: 저장통 하나부터. 여기선 뭐든 그렇게 시작해요.
 
 142. GLORIA: Sam, get in the truck, because it's minus ten and Judy Kessler is calling me!
     글로리아: 샘! 트럭에 타. 영하 10도인 데다 주디 케슬러가 전화하고 있어.

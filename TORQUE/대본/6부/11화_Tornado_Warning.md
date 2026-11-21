@@ -66,10 +66,10 @@
 017. RUTH: That letter said "no," Dale.
     루스: 그 편지에 '싫어'라고 썼었잖아, 데일.
 
-018. DALE: The first one did, but the second one said "maybe," and that's the one I mean.
-    데일: 첫 번째는 그랬지. 근데 두 번째는 '어쩌면'이었어. 그걸 말하는 거야.
+018. DALE: The first one did. The second one said "maybe." That's the one I mean.
+    데일: 첫 번째는 그랬지. 두 번째는 '어쩌면'이었어. 그걸 말하는 거야.
 
-019. TYLER: Hey, is it me, or did it get warm really fast, because it was cold at lunch?
+019. TYLER: Hey, is it me, or did it get warm really fast? It was cold at lunch.
     타일러: 저만 그래요, 아니면 갑자기 엄청 따뜻해졌어요? 점심땐 추웠는데.
 
 020. RUTH: It's not you, because it's seventy-eight degrees in April with the wind from the south.
@@ -123,8 +123,8 @@
 036. RUTH: Mind the third step, because it's been loose since Reagan.
     루스: 세 번째 계단 조심해요. 레이건 때부터 헐거웠거든요.
 
-037. TYLER: I've got the radio, and it's saying something about rotation near Highway sixty-five.
-    타일러: 라디오 가져왔는데, 65번 고속도로 근처에서 회전이 관측됐다고 하네요.
+037. TYLER: I've got the radio. It's saying something about rotation near Highway sixty-five.
+    타일러: 라디오 가져왔어요. 65번 고속도로 근처에서 회전이 관측됐다고 하네요.
 
 038. DALE: That's three miles west and moving northeast, so close the door, Tyler, and pull the bar across.
     데일: 서쪽으로 3마일이고 북동쪽으로 움직이고 있어. 문 닫고 빗장 걸어, 타일러.
@@ -153,13 +153,13 @@
 046. SAM: I remember seeing the derecho on the news.
     샘: 데레초는 뉴스에서 본 기억이 나요.
 
-047. DALE: It wasn't a tornado but a wall of wind at a hundred miles an hour for forty minutes, which flattened corn from here to Illinois and threw our number two bin into the Hoffmans' field.
-    데일: 토네이도가 아니라 시속 100마일짜리 바람의 벽이 40분 동안 왔어요. 여기서 일리노이까지 옥수수를 다 눕히고, 우리 2번 저장통을 호프먼네 밭으로 던져 버렸죠.
+047. DALE: It wasn't a tornado. It was a wall of wind, a hundred miles an hour, for forty minutes. It flattened corn from here to Illinois. It threw our number two bin into the Hoffmans' field.
+    데일: 토네이도가 아니었어요. 시속 100마일짜리 바람의 벽이 40분 동안 왔어요. 여기서 일리노이까지 옥수수를 다 눕혔죠. 우리 2번 저장통을 호프먼네 밭으로 던져 버렸어요.
 
 048. RUTH: Dale rebuilt it himself with Gene and the Petersen boys, and it took them three weekends.
     루스: 데일이 진이랑 피터슨네 아들들이랑 직접 다시 지었는데, 주말 세 번 걸렸어요.
 
-049. SAM: Did the insurance cover it, since a whole grain bin can't be cheap?
+049. SAM: Did the insurance cover it? A whole grain bin can't be cheap.
     샘: 보험 처리는 됐어요? 저장통 하나가 쌀 리가 없을 텐데.
 
 050. DALE: Some of it, and neighbors covered the rest, because that's how it works out here, where nobody waits for Washington when the roof is in the next county.
@@ -234,7 +234,7 @@
 073. RUTH: It's the only way you'll listen, because I've been working on a plan with Gloria by email since February, and you don't read email.
     루스: 이래야 당신이 듣잖아. 2월부터 글로리아랑 이메일로 계획을 짜고 있었는데, 당신은 이메일 안 읽잖아.
 
-074. DALE: A plan for what, when we don't have money for plans?
+074. DALE: A plan for what? We don't have money for plans.
     데일: 무슨 계획? 우린 계획 세울 돈도 없잖아.
 
 075. RUTH: It's for the bank in September, because our repairs last year were thirty-eight thousand, and with fixable machines and the co-op, Gloria thinks we can cut that in half, and the fan on bin four already saves us electricity, but there's one more piece.
@@ -276,13 +276,13 @@
 087. DALE: Not yet, because sometimes it goes quiet in the middle, the calm before the storm, or the calm inside it, so wait for the radio.
     데일: 아직. 가끔 중간에 조용해지거든요. 폭풍 전의 고요거나 폭풍 속의 고요거나. 라디오 기다려요.
 
-088. TYLER: The radio says the warning for our area expires in five minutes, because the storm is moving into Hardin County.
-    타일러: 라디오에서 폭풍이 하딘 카운티로 이동하고 있어서 우리 지역 경보가 5분 뒤에 해제된대요.
+088. TYLER: The radio says the warning for our area expires in five minutes. The storm is moving into Hardin County.
+    타일러: 라디오에서 우리 지역 경보가 5분 뒤에 해제된대요. 폭풍이 하딘 카운티로 이동하고 있대요.
 
 089. RUTH: It's five more minutes, so eat your pie, Tyler.
     루스: 5분만 더예요. 파이 먹어요, 타일러.
 
-090. TYLER: Ma'am, this is the best pie I've ever had, so please don't tell Donna.
+090. TYLER: Ma'am, this is the best pie I've ever had. Please don't tell Donna.
     타일러: 부인, 이거 제가 먹어 본 파이 중에 최고예요. 도나한테는 말하지 말아 주세요.
 
 091. SAM: There's a pie war, Ruth, because Donna in Dayton says her cherry beats your anything.
@@ -309,8 +309,8 @@
 098. SAM: Jo would like that, because she builds stubborn tractors.
     샘: 조가 좋아하겠네요. 고집 센 트랙터를 만드니까요.
 
-099. TYLER: The radio says the warning's over, so it's all clear for Story County.
-    타일러: 라디오에서 경보가 끝났대요. 스토리 카운티 해제예요.
+099. TYLER: The radio says the warning's over. All clear for Story County.
+    타일러: 라디오에서 경보가 끝났대요. 스토리 카운티 해제요.
 
 100. DALE: Okay, let's go see what's left.
     데일: 좋아, 뭐가 남았나 보러 가자.
@@ -336,8 +336,8 @@
 107. TYLER: Marge is fine under her tarp, without a scratch.
     타일러: 마지는 방수포 밑에서 흠집 하나 없이 괜찮아요.
 
-108. DALE: Of course she is, because nothing on Marge is fragile, and she doesn't have a computer to scare.
-    데일: 당연하지. 마지는 약한 데가 하나도 없고, 겁먹을 컴퓨터도 없으니까.
+108. DALE: Of course she is. Nothing on Marge is fragile. She doesn't have a computer to scare.
+    데일: 당연하지. 마지는 약한 데가 하나도 없어. 겁먹을 컴퓨터가 없으니까.
 
 109. RUTH: Dale, the bins are standing, all six of them.
     루스: 데일, 저장통이 서 있어. 여섯 개 다.
@@ -399,7 +399,7 @@
 128. MARLENE: I'm not laughing, I'm crying, because it's been a long day, so what does it do?
     말린: 안 웃어, 울고 있어. 긴 하루였거든. 이게 뭘 하는데?
 
-129. SAM: It turns that generator, so Dale, hook it up, and Tyler, help me with the cable to the panel, and Marlene, is the main switch off?
+129. SAM: It turns that generator. Dale, hook it up. Tyler, help me with the cable to the panel. Marlene, is the main switch off?
     샘: 저 발전기를 돌려요. 데일, 연결해요. 타일러, 배전반까지 케이블 같이 끌자. 말린 씨, 주 차단기 내려가 있어요?
 
 130. MARLENE: It's off, because Roy did it before the storm, and he's good for that much.
@@ -423,7 +423,7 @@
 136. MARLENE: The cooler's humming, so the milk is safe. Oh, thank God, and thank Ohio.
     말린: 냉각기가 웅웅거리니까 우유는 무사해. 아이고, 하나님 감사합니다, 그리고 오하이오도 감사해.
 
-137. GENE: I brought the chainsaw, and I see I'm late, so is that a golf cart running Marlene's dairy?
+137. GENE: I brought the chainsaw, and I see I'm late. Is that a golf cart running Marlene's dairy?
     진: 전기톱 가져왔는데 늦었네. 저거 골프 카트가 말린네 낙농장을 돌리는 거야?
 
 138. TYLER: It's a golf cart that joined the Army, sir.

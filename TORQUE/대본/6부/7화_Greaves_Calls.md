@@ -39,22 +39,22 @@
 008. SAM: We like driving, since you see more from the ground.
     샘: 운전하는 게 좋아요. 땅에서 더 많이 보이거든요.
 
-009. NEIL: Spoken like a farmer, so let me introduce Dr. Paula Strand, who runs electrification for our whole product line, which means if it has a battery or a motor, it goes through Paula.
-    닐: 농부 같은 말씀이네요. 저희 전 제품군 전동화 책임자인 폴라 스트랜드 박사님을 소개하죠. 배터리나 모터가 들어가는 건 다 폴라를 거칩니다.
+009. NEIL: Spoken like a farmer. Let me introduce Dr. Paula Strand. She runs electrification for our whole product line. If it has a battery or a motor, it goes through Paula.
+    닐: 농부 같은 말씀이네요. 폴라 스트랜드 박사님을 소개하죠. 저희 전 제품군 전동화 책임자예요. 배터리나 모터가 들어가는 건 다 폴라를 거칩니다.
 
 010. PAULA: Nice to meet you, and I've read Dr. Liu's papers, including the flux-stacking one from twenty fifteen, which I read twice.
     폴라: 반가워요. 리우 박사님 논문 읽었어요. 2015년 자속 적층 논문은 두 번 읽었고요.
 
-011. SAM: That paper was downloaded forty-one times, so I think you might be two of them.
-    샘: 그 논문 다운로드가 마흔한 번이었으니, 그중 두 번이 박사님일지도 모르겠네요.
+011. SAM: That paper was downloaded forty-one times. I think you might be two of them.
+    샘: 그 논문 다운로드 마흔한 번이었어요. 그중 두 번이 박사님일지도 모르겠네요.
 
 012. PAULA: I might be, but is Dr. Liu coming today, by any chance?
     폴라: 그럴지도요. 근데 혹시 오늘 리우 박사님도 오세요?
 
-013. SAM: She's in Dayton running the lab, but she'll join by phone if you want to go deep.
-    샘: 데이턴에서 연구실 지키고 있는데, 깊이 들어가고 싶으시면 전화로 참여할 거예요.
+013. SAM: She's in Dayton, running the lab. She'll join by phone if you want to go deep.
+    샘: 데이턴에서 연구실 지키고 있어요. 깊이 들어가고 싶으시면 전화로 참여할 거예요.
 
-014. PAULA: I always want to go deep, but let's start with the plan.
+014. PAULA: I always want to go deep. But let's start with the plan.
     폴라: 전 늘 깊이 들어가고 싶죠. 근데 계획부터 시작해요.
 
 015. NEIL: Please sit, and can I get you coffee, since we have a barista on every floor?
@@ -90,11 +90,11 @@
 025. TYLER: And right now, the motors for all three come from China.
     타일러: 그리고 지금은 세 가지 다 모터가 중국에서 오고요.
 
-026. PAULA: They come from one supplier with rare-earth magnets made in China, so when the export controls hit last October, our lead times went from ten weeks to nine months for some parts, and we nearly stopped a planter line in Illinois.
-    폴라: 중국산 희토류 자석을 쓰는 공급사 한 곳에서요. 작년 10월 수출 통제가 터지자 일부 부품 납기가 10주에서 9개월로 늘어서, 일리노이 파종기 라인을 거의 세울 뻔했죠.
+026. PAULA: From one supplier with rare-earth magnets made in China. When the export controls hit last October, our lead times went from ten weeks to nine months for some parts. We nearly stopped a planter line in Illinois.
+    폴라: 중국산 희토류 자석을 쓰는 공급사 한 곳에서요. 작년 10월 수출 통제가 터졌을 때, 일부 부품은 납기가 10주에서 9개월로 늘었어요. 일리노이 파종기 라인을 거의 세울 뻔했죠.
 
-027. NEIL: Then the pause came and we all relaxed for about a week, until my CEO asked the question everybody asks.
-    닐: 그러다 유예가 나와서 다들 일주일쯤 마음을 놓았는데, 우리 CEO가 다들 하는 그 질문을 했어요.
+027. NEIL: Then the pause came. And we all relaxed for about a week. Then my CEO asked the question everybody asks.
+    닐: 그러다 유예가 나왔죠. 다들 일주일쯤 마음을 놓았어요. 그러고는 우리 CEO가 다들 하는 그 질문을 했어요.
 
 028. SAM: "What happens in November?"
     샘: "11월엔 어떻게 되는데?"
@@ -111,8 +111,8 @@
 032. SAM: That's a lucrative offer.
     샘: 큰돈이 되는 제안이네요.
 
-033. NEIL: It's meant to be, because we pay for the tooling and we pay in forty-five days, which I'm told is very good by your standards, and Paula's team helps you scale up.
-    닐: 그러라고 하는 제안이에요. 금형비는 저희가 내고, 대금은 그쪽 기준에선 아주 좋다는 45일 안에 드리고, 폴라 팀이 규모 키우는 것도 도와드려요.
+033. NEIL: It's meant to be. We pay for the tooling. We pay in forty-five days, which I'm told is very good by your standards. And Paula's team helps you scale up.
+    닐: 그러라고 하는 제안이에요. 금형비는 저희가 내요. 대금은 45일 안에 드리고요. 그쪽 기준에선 아주 좋은 조건이라고 들었어요. 그리고 폴라 팀이 규모 키우는 걸 도와드리고요.
 
 034. SAM: Forty-five days will make Gloria cry, because she's never seen forty-five days.
     샘: 45일이면 글로리아가 울겠네요. 45일은 본 적이 없거든요.
@@ -129,7 +129,7 @@
 038. TYLER: That's never a good sign.
     타일러: 그건 절대 좋은 신호가 아닌데요.
 
-039. NEIL: It's a very good sign, Tyler, because it means we're serious, and people only make you wait for the conditions when the money is real.
+039. NEIL: It's a very good sign, Tyler. It means we're serious. People only make you wait for the conditions when the money is real.
     닐: 아주 좋은 신호예요, 타일러. 저희가 진지하다는 뜻이니까요. 돈이 진짜일 때만 조건 얘기를 미루는 법이죠.
 
 040. SAM: Let's see if it spins.
@@ -171,7 +171,7 @@
 052. SAM: Paired by the dealer, just like Dale's sensor.
     샘: 딜러가 페어링한다니, 데일 센서처럼요.
 
-053. NEIL: Like every part on every modern machine, because it's a closed system for a reason.
+053. NEIL: Like every part on every modern machine. It's a closed system for a reason.
     닐: 모든 현대 기계의 모든 부품처럼요. 닫힌 시스템인 데는 이유가 있어요.
 
 054. SAM: Then tell me the reason, the real one.
@@ -180,8 +180,8 @@
 055. NEIL: The official reasons are safety, emissions, and quality, because a farmer who installs the wrong motor on a planter can damage a sixty-thousand-dollar machine and blame us, and those are real.
     닐: 공식적인 이유는 안전, 배출가스, 품질이에요. 농부가 파종기에 엉뚱한 모터를 달면 6만 달러짜리 기계를 망가뜨리고 우리 탓을 할 수 있으니까요. 그건 진짜예요.
 
-056. SAM: Electric motors don't have emissions, Neil, since there's no exhaust on a planter drive.
-    샘: 전기 모터는 배출가스가 없잖아요, 닐. 파종기 구동장치엔 배기관이 없는데요.
+056. SAM: Electric motors don't have emissions, Neil. There's no exhaust on a planter drive.
+    샘: 전기 모터는 배출가스가 없는데요, 닐. 파종기 구동장치엔 배기관이 없잖아요.
 
 057. PAULA: He's right about that, Neil.
     폴라: 그건 이분 말이 맞아요, 닐.
@@ -192,8 +192,8 @@
 059. SAM: So the lock protects the dealer's revenue.
     샘: 그러니까 그 잠금은 딜러 매출을 지키는 거네요.
 
-060. NEIL: The lock protects a network that keeps rural America running, because twelve thousand people work at Greaves dealers, and when the farmer's tractor breaks, they're the ones who answer, so you want to replace them with a free app?
-    닐: 그 잠금은 농촌 미국을 돌아가게 하는 네트워크를 지키는 거예요. 그리브스 딜러에서 만 이천 명이 일하는데, 농부 트랙터가 고장 나면 응답하는 게 그 사람들이에요. 그걸 무료 앱으로 대체하고 싶으세요?
+060. NEIL: The lock protects a network that keeps rural America running. Twelve thousand people work at Greaves dealers. When the farmer's tractor breaks, they're the ones who answer. You want to replace them with a free app?
+    닐: 그 잠금은 농촌 미국을 돌아가게 하는 네트워크를 지키는 거예요. 그리브스 딜러에서 만 이천 명이 일해요. 농부 트랙터가 고장 나면 응답하는 게 그 사람들이에요. 그걸 무료 앱으로 대체하고 싶으세요?
 
 061. SAM: I want the farmer to have a choice.
     샘: 전 농부한테 선택권이 있었으면 해요.
@@ -216,10 +216,10 @@
 067. TYLER: That's a real move, so thank you.
     타일러: 큰 양보네요. 감사합니다.
 
-068. SAM: And is there room to move on the white label?
-    샘: 그럼 화이트 라벨은 움직일 여지가 있어요?
+068. SAM: And the white label? Is there room to move on that?
+    샘: 그럼 화이트 라벨은요? 그건 움직일 여지가 있어요?
 
-069. NEIL: We could put "Motor by Ferrox" in small print on the inside of the cover, and Paula likes the idea, actually, because she says farmers trust you.
+069. NEIL: We could put "Motor by Ferrox" in small print on the inside of the cover. Paula likes the idea, actually. She says farmers trust you.
     닐: 덮개 안쪽에 작은 글씨로 "모터: 페록스"라고 넣을 수는 있어요. 사실 폴라가 그 아이디어를 좋아해요. 농부들이 그쪽을 믿는다고요.
 
 070. PAULA: They do, because I went to Louisville, and your booth was next to the bathrooms, but it had a line.
@@ -231,19 +231,19 @@
 072. PAULA: The other half wasn't.
     폴라: 나머지 절반은 아니었죠.
 
-073. SAM: And the firmware lock, since that's the one I care about?
+073. SAM: And the firmware lock? That's the one I care about.
     샘: 그럼 펌웨어 잠금은요? 제가 신경 쓰는 건 그거예요.
 
 074. NEIL: That's the one thing I can't move, because it's non-negotiable, and if I take a contract upstairs without the lock, my CEO will ask me if I've lost my mind while our dealer council asks for my head.
     닐: 그건 제가 못 움직이는 유일한 거예요. 협상 불가예요. 잠금 없는 계약을 위에 올리면 CEO가 제정신이냐고 물을 거고, 딜러 협의회는 제 목을 요구할 거예요.
 
-075. SAM: What if the fault codes were readable but the firmware stayed signed, so the farmer could see what's wrong but couldn't change the software?
-    샘: 고장 코드는 읽을 수 있게 하고 펌웨어만 서명된 채로 두면요? 농부는 뭐가 문젠지 볼 수 있지만 소프트웨어는 못 바꾸는 거죠.
+075. SAM: What if the fault codes were readable, but the firmware stayed signed? The farmer could see what's wrong. He just couldn't change the software.
+    샘: 고장 코드는 읽을 수 있게 하고 펌웨어만 서명된 채로 두면요? 농부는 뭐가 문젠지 볼 수 있어요. 소프트웨어만 못 바꾸는 거고요.
 
 076. PAULA: That's actually a reasonable design.
     폴라: 사실 그건 합리적인 설계예요.
 
-077. NEIL: It is a reasonable design, and if the farmer can read the code, and the code says "replace motor," he'll buy a motor from the parts store in town, not from our dealer.
+077. NEIL: It is a reasonable design. And if the farmer can read the code, and the code says "replace motor," he'll buy a motor from the parts store in town, not from our dealer.
     닐: 합리적인 설계죠. 그리고 농부가 코드를 읽을 수 있는데 코드가 "모터 교체"라고 하면, 저희 딜러 말고 마을 부품 가게에서 모터를 살 거예요.
 
 078. SAM: Only if the parts store motor works.
@@ -282,14 +282,14 @@
 089. NEIL: It's the market, Sam, which I didn't build, and I just work in it.
     닐: 그게 시장이에요, 샘. 제가 만든 게 아니라 그 안에서 일할 뿐이죠.
 
-090. PAULA: Can I say something off the clock, and Neil, don't look at me like that?
+090. PAULA: Can I say something, off the clock? Neil, don't look at me like that.
     폴라: 비공식적으로 한마디 해도 될까요? 닐, 그렇게 쳐다보지 마요.
 
 091. NEIL: Go ahead, Paula.
     닐: 하세요, 폴라.
 
-092. PAULA: I grew up on a farm in Nebraska where my dad fixed everything himself, and I became an engineer because of him, so some days, when I design things he wouldn't be allowed to fix, I think about that.
-    폴라: 전 네브래스카 농장에서 자랐는데, 아빠가 뭐든 직접 고쳤어요. 아빠 때문에 엔지니어가 됐는데, 아빠가 고치면 안 되는 물건을 설계하는 날엔 그 생각을 해요.
+092. PAULA: I grew up on a farm in Nebraska. My dad fixed everything himself. I became an engineer because of him. Some days, I design things he wouldn't be allowed to fix. I think about that.
+    폴라: 전 네브래스카 농장에서 자랐어요. 아빠가 뭐든 직접 고쳤죠. 아빠 때문에 엔지니어가 됐어요. 어떤 날은 아빠가 고치면 안 되는 물건을 설계해요. 그 생각을 해요.
 
 093. SAM: Thank you for saying that, Paula, and I mean it.
     샘: 그 말 해 주셔서 고마워요, 폴라. 진심이에요.
@@ -306,10 +306,10 @@
 097. SAM: I heard the number, Tyler, since I was in the room.
     샘: 숫자 들었어, 타일러. 나도 그 방에 있었잖아.
 
-098. TYLER: You were in the room with your arms crossed, and you had your "no" face on from the moment he said "paired by the dealer."
+098. TYLER: You were in the room with your arms crossed. You had your "no" face on from the moment he said "paired by the dealer."
     타일러: 팔짱 끼고 그 방에 있었죠. "딜러가 페어링한다"는 말 나온 순간부터 '거절' 얼굴이었어요.
 
-099. SAM: I don't have a "no" face, I have a thinking face.
+099. SAM: I don't have a "no" face. I have a thinking face.
     샘: 나 거절 얼굴 같은 거 없어. 생각하는 얼굴이지.
 
 100. TYLER: Earl calls it your "Calloway face." Everybody in the factory knows it.
@@ -336,16 +336,16 @@
 107. SAM: Dale isn't happy, because Dale's planter is a Greaves, and if he buys the Greaves planter with our motor in it, he can't fix our motor, so he'd be waiting for Randy because of us.
     샘: 데일은 안 행복해. 데일 파종기가 그리브스라서, 우리 모터 들어간 그리브스 파종기를 사면 우리 모터를 못 고쳐. 우리 때문에 랜디를 기다리게 되는 거야.
 
-108. TYLER: Dale can't buy new equipment this year anyway, because the bank said so.
+108. TYLER: Dale can't buy new equipment this year anyway. The bank said so.
     타일러: 데일은 어차피 올해 새 장비 못 사요. 은행이 그랬잖아요.
 
 109. SAM: That's not the point, and you know it.
     샘: 그게 요점이 아니란 거 너도 알잖아.
 
-110. TYLER: Then what's the point, because from where I sit, the point is a hundred and twenty paychecks, and I hired forty of those people myself and sat in their living rooms.
-    타일러: 그럼 요점이 뭔데요? 제 자리에서 보면 요점은 월급 봉투 백이십 개예요. 그중 마흔 명은 제가 직접 뽑았고, 그 사람들 거실에도 앉아 봤어요.
+110. TYLER: Then what's the point? Because from where I sit, the point is a hundred and twenty paychecks. I hired forty of those people myself. I sat in their living rooms.
+    타일러: 그럼 요점이 뭔데요? 제 자리에서 보면 요점은 월급 봉투 백이십 개예요. 그중 마흔 명은 제가 직접 뽑았어요. 그 사람들 거실에도 앉아 봤고요.
 
-111. SAM: I know you did, and you drove to half those interviews.
+111. SAM: I know you did. You drove to half those interviews.
     샘: 알아. 그 면접 절반은 네가 운전해서 갔잖아.
 
 112. TYLER: So don't make me feel like a sellout for wanting them to keep their jobs.
@@ -366,11 +366,11 @@
 117. SAM: Then why are you arguing for the lock?
     샘: 그런데 왜 잠금 편을 들어?
 
-118. TYLER: Because I hated it and I still think we should take the money, and both things are true, which is what makes it hard.
-    타일러: 싫었는데도 여전히 그 돈을 받아야 한다고 생각하니까요. 둘 다 사실이라서 어려운 거예요.
+118. TYLER: Because I hated it, and I still think we should take the money. Both things are true. That's what makes it hard.
+    타일러: 싫었는데도 여전히 그 돈을 받아야 한다고 생각하니까요. 둘 다 사실이에요. 그래서 어려운 거예요.
 
-119. SAM: Earl would say we're both right, and then he'd make us shake hands.
-    샘: 얼이라면 우리 둘 다 맞다고 하고는 악수하라고 시키겠지.
+119. SAM: Earl would say we're both right. And then he'd make us shake hands.
+    샘: 얼이라면 우리 둘 다 맞다고 하겠지. 그러고는 악수하라고 시키고.
 
 120. TYLER: Earl would also say "Metal don't lie" and then eat my donut.
     타일러: 얼은 "쇠는 거짓말 안 해"라고 하고 제 도넛도 먹겠죠.
@@ -420,8 +420,8 @@
 135. WEN: Same code. Different direction. One points out. One points in.
     웬: 같은 코드. 다른 방향. 하나는 밖을 향하고, 하나는 안을 향해요.
 
-136. SAM: So can we do it, and lock it the way they want?
-    샘: 그럼 그쪽이 원하는 대로 잠글 수 있어요?
+136. SAM: So can we do it? Lock it the way they want?
+    샘: 그럼 할 수 있어요? 그쪽이 원하는 대로 잠그는 거?
 
 137. WEN: We can lock it in six weeks, and Paula's team would never get in, and neither would Dale.
     웬: 6주면 잠글 수 있어요. 폴라 팀도 못 들어가고, 데일도 못 들어가겠죠.
@@ -429,7 +429,7 @@
 138. SAM: So the answer is yes.
     샘: 그럼 대답은 '네'네요.
 
-139. WEN: The answer to "can we" is yes, we can lock it, but the question is whether we should.
+139. WEN: The answer to "can we" is yes. We can lock it. The question is should we.
     웬: "할 수 있냐"에 대한 대답은 '네'예요. 잠글 수 있어요. 문제는 잠가야 하느냐죠.
 
 140. SAM: What do you think, not as CTO, but as Wen?
@@ -441,8 +441,8 @@
 142. SAM: Wen, are you thinking about leaving?
     샘: 웬, 떠날 생각 하는 거예요?
 
-143. WEN: I'm thinking about fences, because the Army put one around me, and I understood that one, since it had a reason I could respect, but this one would be a fence I build myself, around a farmer.
-    웬: 울타리 생각을 하는 거예요. 육군이 제 주위에 친 울타리는 존중할 수 있는 이유가 있어서 이해했어요. 근데 이건 제가 직접 농부 주위에 치는 울타리가 될 거예요.
+143. WEN: I'm thinking about fences. The Army put one around me. I understood that one. It had a reason I could respect. This one would be a fence I build myself, around a farmer.
+    웬: 울타리 생각을 하는 거예요. 육군이 제 주위에 울타리를 쳤죠. 그건 이해했어요. 존중할 수 있는 이유가 있었으니까. 이건 제가 직접 농부 주위에 치는 울타리가 될 거예요.
 
 144. SAM: That's not an answer, Wen, that's a riddle.
     샘: 그건 대답이 아니라 수수께끼잖아요, 웬.
@@ -459,7 +459,7 @@
 148. SAM: I'll decide by Wednesday, and Wen, one more thing, please don't answer Annika yet.
     샘: 수요일까지 결정할게요. 그리고 웬, 하나만 더요. 아니카한테 아직 답하지 마요.
 
-149. WEN: I wasn't going to, because I'm waiting to see what you build.
+149. WEN: I wasn't going to. I'm waiting to see what you build.
     웬: 안 하려고 했어요. 샘이 뭘 만드는지 보려고 기다리는 중이에요.
 
 150. SAM: Good night, Wen, and go home, because Betsy will still be there tomorrow.
