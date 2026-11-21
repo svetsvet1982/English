@@ -15,13 +15,13 @@
 
 ## 대본
 
-001. DALE: We're done with all fourteen hundred acres, because the last row went in at eleven last night under the lights, with corn on the east and beans on the west.
+001. DALE: We're done, all fourteen hundred acres. The last row went in at eleven last night under the lights, with corn on the east and beans on the west.
     데일: 1,400에이커 다 끝났어요. 마지막 줄은 어젯밤 열한 시에 조명 켜고 넣었고, 동쪽은 옥수수, 서쪽은 콩이에요.
 
 002. SAM: That's seven days, after a tornado.
     샘: 토네이도 겪고도 7일 만이네요.
 
-003. DALE: Eight days, and Marlene's cows got milked every one of them, so look at the north eighty, because do you see those little green lines just coming up? That's the corn we planted on the twentieth, before the storm.
+003. DALE: Eight days, and Marlene's cows got milked every one of them. Look at the north eighty, do you see those little green lines just coming up? That's the corn we planted on the twentieth, before the storm.
     데일: 8일이요. 그리고 말린네 소들은 하루도 안 빼고 젖을 짰어요. 북쪽 80 봐요. 막 올라오는 작은 초록 줄들 보여요? 20일, 폭풍 전에 심은 옥수수예요.
 
 004. TYLER: It's a green comb, just like you said it would look.
@@ -30,25 +30,25 @@
 005. DALE: I always tell the truth about corn. It's people I exaggerate about.
     데일: 옥수수에 대해선 늘 사실대로 말해요. 과장은 사람에 대해서만 하지.
 
-006. RUTH: And the north eighty is still ours, because Janine called yesterday to say the bank board looked at Gloria's plan, and they're giving us until the fall harvest with no sale.
+006. RUTH: And the north eighty is still ours. Janine called yesterday to say the bank board looked at Gloria's plan, and they're giving us until the fall harvest with no sale.
     루스: 그리고 북쪽 80은 아직 우리 거예요. 재닌이 어제 전화했는데, 은행 이사회가 글로리아 계획을 보고 매각 없이 가을 수확까지 시간을 준대요.
 
 007. SAM: Ruth, that's wonderful news.
     샘: 루스, 정말 잘됐네요.
 
-008. RUTH: It's a start, because we sold half the stored beans last week at ten sixty, which isn't great but is better than nine eighty, and the rest go by June first, like we promised.
+008. RUTH: It's a start. We sold half the stored beans last week at ten sixty, which isn't great but is better than nine eighty. The rest go by June first, like we promised.
     루스: 시작이죠. 저장해 둔 콩 절반을 지난주에 10달러 60센트에 팔았는데, 좋진 않아도 9달러 80센트보단 낫죠. 나머진 약속대로 6월 1일까지 팔 거고요.
 
-009. JO: Good morning, Amundsens, and good morning, Ohio, because I brought paper, two contracts, so coffee first, or business?
+009. JO: Good morning, Amundsens, and good morning, Ohio. I brought paper, two contracts. Coffee first, or business?
     조: 좋은 아침이에요, 아먼슨 씨네. 좋은 아침, 오하이오. 계약서 두 개 가져왔는데, 커피 먼저 할까요, 일 먼저 할까요?
 
 010. RUTH: In this family, business happens with coffee, so here.
     루스: 이 집에선 일은 커피랑 같이 해요. 여기요.
 
-011. JO: Thank you, but first, the big news is the picture, Sam, the one from Marlene's dairy, of my little tractor running a milking parlor in the middle of the night after a tornado.
+011. JO: Thank you. But first, the big news is the picture, Sam, the one from Marlene's dairy. It's my little tractor running a milking parlor in the middle of the night after a tornado.
     조: 고마워요. 근데 먼저 큰 소식은 그 사진이에요. 샘, 토네이도 뒤 한밤중에 우리 작은 트랙터가 말린네 착유장을 돌리던 그 사진이요.
 
-012. TYLER: It's everywhere, because my mom sent it to me, and my mom doesn't even know what a tractor is.
+012. TYLER: It's everywhere. My mom sent it to me, and my mom doesn't even know what a tractor is.
     타일러: 어디에나 있어요. 트랙터가 뭔지도 모르는 우리 엄마가 보내 줬다니까요.
 
 013. JO: Two million people have seen it, and three of my investors called on Saturday to put in six million dollars more as a seed extension.
@@ -57,7 +57,7 @@
 014. SAM: Seed money, so what's that in plain English, for Dale?
     샘: 종잣돈이네요. 데일한테 쉬운 말로 하면요?
 
-015. JO: Seed money is the first money a young company raises to plant itself and grow, like seed corn, because you put it in the ground and hope it comes up.
+015. JO: Seed money is the first money a young company raises to plant itself and grow. It's like seed corn. You put it in the ground and hope it comes up.
     조: 종잣돈은 젊은 회사가 뿌리내리고 자라려고 처음 모으는 돈이에요. 씨옥수수처럼 땅에 심고 올라오길 바라는 거죠.
 
 016. DALE: I know about seed money. Mine costs three hundred dollars a bag.
@@ -66,10 +66,10 @@
 017. JO: Mine cost me two years of sleep, but okay, contract one is Ferrox and Furrow, for production motors in twenty twenty-seven.
     조: 제 건 2년치 잠을 대가로 치렀어요. 자, 계약서 하나는 페록스랑 퍼로의 2027년 양산 모터예요.
 
-018. GLORIA: Am I on speaker, Jo? Good, so read it out loud, because I want to hear Sam not promise anything extra.
+018. GLORIA: Am I on speaker, Jo? Good. Read it out loud, because I want to hear Sam not promise anything extra.
     글로리아: 나 스피커야, 조? 좋아. 소리 내서 읽어요. 샘이 뭐 더 약속 안 하는 거 듣고 싶어.
 
-019. JO: It's four hundred tractors and eight hundred motors in twenty twenty-seven, then a thousand tractors in twenty twenty-eight, at twenty-four hundred per motor below five hundred tractors and twenty-two fifty at a thousand, with the open port guaranteed in writing forever.
+019. JO: It's four hundred tractors and eight hundred motors in twenty twenty-seven, then a thousand tractors in twenty twenty-eight. It's twenty-four hundred per motor below five hundred tractors and twenty-two fifty at a thousand, with the open port guaranteed in writing, forever.
     조: 2027년 트랙터 400대에 모터 800개, 2028년엔 트랙터 1,000대요. 500대 미만이면 모터당 2,400달러, 1,000대면 2,250달러고, 열린 포트는 서면으로 영구 보장이에요.
 
 020. GLORIA: And what about the deposit?
@@ -84,7 +84,7 @@
 023. SAM: I'm not changing my mind, so Jo, where do you want me to sign, on the hood again?
     샘: 마음 안 바꿔요. 조, 어디에 서명할까요? 또 보닛 위에요?
 
-024. JO: Not the hood, because this time I want it in the field, at the edge of the north eighty, with the corn coming up.
+024. JO: Not the hood. This time I want it in the field, at the edge of the north eighty, with the corn coming up.
     조: 보닛 말고요. 이번엔 옥수수 올라오는 북쪽 80 가장자리, 밭에서 하고 싶어요.
 
 025. TYLER: That's a brochure again.
@@ -96,10 +96,10 @@
 027. JO: The pleasure is mine, and Dale, contract two is for you.
     조: 제가 더 기뻐요. 데일, 두 번째 계약서는 아저씨 거예요.
 
-028. DALE: For me? I'm not buying anything, because the bank said so.
+028. DALE: For me? I'm not buying anything, the bank said so.
     데일: 나한테요? 난 아무것도 안 사요. 은행이 그랬잖아요.
 
-029. JO: You're not buying, you're working for me for one year as Furrow's first test farm, so the F1 stays here and you use it every day, and you tell us what breaks and report everything.
+029. JO: You're not buying, you're working for me, for one year, as Furrow's first test farm. The F1 stays here, and you use it every day. You tell us what breaks, and you report everything.
     조: 사시는 게 아니라 1년 동안 퍼로의 첫 시험 농장으로 저를 위해 일하시는 거예요. F1은 여기 남고, 매일 쓰시면서 뭐가 고장 나는지 전부 보고해 주시면 돼요.
 
 030. DALE: And what do I get?
@@ -120,7 +120,7 @@
 035. DALE: Page two says, "The farmer may open, inspect, and repair the machine himself, with ordinary tools," so who wrote that?
     데일: 2쪽에 "농부는 일반 공구로 기계를 직접 열고, 점검하고, 수리할 수 있다"라고 써 있네. 이거 누가 썼어요?
 
-036. JO: I did, because I copied it from your letter after Sam showed it to me.
+036. JO: I did. I copied it from your letter after Sam showed it to me.
     조: 제가요. 샘이 보여 준 아저씨 편지에서 베꼈어요.
 
 037. DALE: Then I'll sign it, so give me the pen.
@@ -141,25 +141,25 @@
 042. SAM: I'm right here, Gloria.
     샘: 여기 있어요, 글로리아.
 
-043. GLORIA: Judy called to say Customs opened the refund portal on April twentieth, the day of your tornado, and Judy filed our claim the next morning, all one hundred and eighty-six entries.
+043. GLORIA: Judy called. Customs opened the refund portal on April twentieth, the day of your tornado, and Judy filed our claim the next morning, all one hundred and eighty-six entries.
     글로리아: 주디가 전화했는데, 세관이 너네 토네이도 난 4월 20일에 환급 청구 창구를 열었대. 주디가 다음 날 아침에 백여든여섯 건 전부 청구했고.
 
 044. TYLER: And what happened?
     타일러: 그래서 어떻게 됐어요?
 
-045. GLORIA: The claim was accepted yesterday for six hundred and twelve thousand, four hundred dollars, and Customs says refunds go out sixty to ninety days after acceptance, so this summer.
+045. GLORIA: The claim was accepted yesterday, for six hundred and twelve thousand, four hundred dollars. Customs says refunds go out sixty to ninety days after acceptance, so this summer.
     글로리아: 어제 61만 2,400달러 청구가 수락됐어. 세관 말로는 수락 후 60~90일 안에 환급이 나간대. 그러니까 올여름이야.
 
 046. SAM: So it's actually real.
     샘: 그럼 진짜네요.
 
-047. GLORIA: It's accepted, and accepted is not cash, but I erased the question mark, so pencil became pen, and cash gets marker, because that's the rule.
+047. GLORIA: It's accepted, and accepted is not cash. But I erased the question mark, so pencil became pen. Cash gets marker, and that's the rule.
     글로리아: 수락된 거야. 수락은 현금이 아니야. 근데 물음표는 지웠어. 연필이 펜이 됐고, 현금은 마커야. 그게 규칙이지.
 
 048. SAM: And when it comes, Nina gets her thirty-eight thousand.
     샘: 그리고 들어오면 니나가 3만 8천 달러 받는 거예요.
 
-049. GLORIA: Thirty-eight thousand, two hundred, and I wrote it next to the refund in pen, so I don't forget and so you can't.
+049. GLORIA: Thirty-eight thousand, two hundred. I wrote it next to the refund in pen, so I don't forget and so you can't.
     글로리아: 3만 8,200달러. 나도 안 잊고 너도 못 잊게 환급 옆에 펜으로 적어 놨어.
 
 050. JO: You're giving money back that you don't have to give back?
@@ -180,19 +180,19 @@
 055. GLORIA: I'll bring the twenty twenty-three wine from my drawer, which I've been saving for something worth it.
     글로리아: 가치 있는 일에 쓰려고 서랍에 아껴 둔 2023년산 와인 가져갈게요.
 
-056. TINA: Sam, wait, don't leave yet, because half the co-op is in the driveway!
+056. TINA: Sam, wait, don't leave yet! Half the co-op is in the driveway.
     티나: 샘! 잠깐요, 아직 가지 마요! 협동조합 사람 절반이 진입로에 와 있어요.
 
 057. SAM: Half the co-op is here?
     샘: 협동조합 절반이 왔다고요?
 
-058. KURT: It's nine board members, Lyle, and Danny, because Danny wanted to say thank you for the training, since your guy Darnell was a good teacher.
+058. KURT: It's nine board members, Lyle, and Danny. Danny wanted to say thank you for the training, because your guy Darnell was a good teacher.
     커트: 이사 아홉 명, 라일, 그리고 대니요. 그쪽 대넬이 좋은 선생님이었다고 대니가 교육 고맙다고 하고 싶대요.
 
 059. SAM: Darnell came out here?
     샘: 대넬이 여기 왔었어요?
 
-060. KURT: He spent two days here two weeks ago and showed Danny how to change a bearing in eleven minutes, and then he ate four pieces of Tina's mom's lemon bars.
+060. KURT: He spent two days here, two weeks ago, and showed Danny how to change a bearing in eleven minutes. Then he ate four pieces of Tina's mom's lemon bars.
     커트: 2주 전에 이틀 와서 대니한테 베어링을 11분 만에 가는 법을 보여 주고, 티나 어머니 레몬 바를 네 조각 먹었어요.
 
 061. TINA: My mom adopted him. She wants him back for the county fair.
@@ -207,7 +207,7 @@
 064. SAM: Gene, thank you so much.
     샘: 진, 정말 감사합니다.
 
-065. GENE: Don't thank me, thank the motors, because they didn't quit, so we didn't quit on you, and that's how it works. You reap what you sow.
+065. GENE: Don't thank me, thank the motors. They didn't quit, so we didn't quit on you. That's how it works. You reap what you sow.
     진: 고마워하지 마. 모터한테 고마워해. 걔들이 안 멈췄으니까 우리도 당신을 안 버린 거야. 원래 그래. 뿌린 대로 거두는 거지.
 
 066. TYLER: Gene, how many points is Ohio at now?
@@ -222,22 +222,22 @@
 069. SAM: Marlene, you didn't have to.
     샘: 말린, 안 그러셔도 되는데.
 
-070. MARLENE: Out here we always have to, because that's the rule, and Roy says if you ever need a cow, call him.
+070. MARLENE: Out here, we always have to, that's the rule. And Roy says if you ever need a cow, call him.
     말린: 여기선 늘 그래야 해요. 그게 규칙이에요. 로이가 혹시 소가 필요하면 전화하래요.
 
 071. SAM: I'll keep that in mind. I don't know where I'd put a cow.
     샘: 기억해 둘게요. 소를 어디 둬야 할진 모르겠지만.
 
-072. SAM: That's my phone, and it's Hank, so Hank, I'm standing in Dale's driveway with half the county.
+072. SAM: That's my phone, it's Hank. Hank, I'm standing in Dale's driveway with half the county.
     샘: 폰 울리네, 행크예요. 행크, 지금 데일네 진입로에 카운티 사람 절반이랑 서 있어요.
 
-073. HANK: Then I'll be quick again, because the four test motors flew for three weeks with full tanks on hot days and no problems, so my drone company wants two thousand for next year, and they'll call Tyler Monday.
+073. HANK: Then I'll be quick again. The four test motors flew for three weeks with full tanks on hot days and no problems. My drone company wants two thousand for next year, and they'll call Tyler Monday.
     행크: 그럼 또 짧게 할게요. 시험 모터 네 개가 탱크 가득 채우고 더운 날 3주 동안 문제없이 날았어요. 그래서 우리 드론 회사가 내년용으로 이천 개 원하고, 월요일에 타일러한테 전화할 거예요.
 
 074. TYLER: Two thousand, copy that.
     타일러: 이천 개, 접수.
 
-075. HANK: And Sam, thanks for answering the phone in December, because it started all of this.
+075. HANK: And Sam? Thanks for answering the phone in December. It started all of this.
     행크: 그리고 샘, 12월에 전화 받아 줘서 고마워요. 그게 이 모든 걸 시작했잖아요.
 
 076. SAM: You started it, Hank, when you gave Dale my name.
@@ -267,7 +267,7 @@
 084. SAM: Ruth, Dale, thank you for the letter, for the table, and for everything.
     샘: 루스, 데일, 편지랑 식탁이랑 전부 고마워요.
 
-085. DALE: Don't make a speech, Sam, because Ruth says you make speeches.
+085. DALE: Don't make a speech, Sam. Ruth says you make speeches.
     데일: 연설하지 마요, 샘. 루스가 당신 연설한다고 하던데.
 
 086. SAM: No speech, just the short version: you taught me what we're for.
@@ -282,13 +282,13 @@
 089. SAM: I'll come back, so see you around, Dale.
     샘: 다시 올게요. 또 봐요, 데일.
 
-090. DALE: See you around, Ohio, and drive careful, and fix your heater.
+090. DALE: See you around, Ohio. Drive careful, and fix your heater.
     데일: 또 봐요, 오하이오. 조심해서 가고, 히터 좀 고쳐요.
 
 091. TYLER: It's nine hours to Dayton, so do you want to drive first, or should I?
     타일러: 데이턴까지 아홉 시간인데, 먼저 운전하실래요, 제가 할까요?
 
-092. SAM: You drive, because I want to look at the fields.
+092. SAM: You drive. I want to look at the fields.
     샘: 네가 해. 밭 구경하고 싶어.
 
 093. TYLER: Two months ago, I asked you why we were going to Iowa for one letter.
@@ -297,7 +297,7 @@
 094. SAM: I remember, and you said Gloria would ask about the business case.
     샘: 기억나. 글로리아가 사업성을 물어볼 거라고 했지.
 
-095. TYLER: So here's the business case two months later: three hundred and forty fan motors for one co-op with more co-ops calling, two thousand drone motors for Hank, a tractor company in Michigan, and a lot of farmers who know our name.
+095. TYLER: So here's the business case, two months later. We've got three hundred and forty fan motors for one co-op, with more co-ops calling, and two thousand drone motors for Hank. There's a tractor company in Michigan, and a lot of farmers who know our name.
     타일러: 그럼 두 달 뒤 사업성은 이거예요. 협동조합 하나에 팬 모터 삼백사십 개에 다른 협동조합들도 전화 오고, 행크 쪽 드론 모터 이천 개, 미시간 트랙터 회사, 그리고 우리 이름 아는 농부들 잔뜩.
 
 096. SAM: Minus twelve million from Greaves.
@@ -306,19 +306,19 @@
 097. TYLER: Minus twelve million from Greaves. I was wrong about that, Sam. Or not wrong, exactly. But you were more right.
     타일러: 그리브스 1,200만 달러 빼고요. 그건 제가 틀렸어요, 샘. 정확히 틀린 건 아니고요. 샘이 더 맞았던 거죠.
 
-098. SAM: Ask me in a year, and Tyler, you weren't wrong, because you were worried about a hundred and twenty paychecks, so keep worrying, because that's your job.
+098. SAM: Ask me in a year. And Tyler, you weren't wrong. You were worried about a hundred and twenty paychecks, so keep worrying, because that's your job.
     샘: 1년 뒤에 물어봐. 그리고 타일러, 넌 안 틀렸어. 월급 봉투 백이십 개를 걱정한 거니까 계속 걱정해. 그게 네 일이야.
 
 099. TYLER: Copy that, and Wen's calling.
     타일러: 접수. 웬 박사님 전화예요.
 
-100. WEN: I have two things, and first, Megan's long feature came out this morning with the headline "The Motor You're Allowed to Fix," and since nine a.m. we've had sixty-three emails.
+100. WEN: I have two things. First, Megan's long feature came out this morning, with the headline "The Motor You're Allowed to Fix." Since nine a.m., we've had sixty-three emails.
     웬: 두 가지예요. 첫째, 오늘 아침에 "고쳐도 되는 모터"라는 제목으로 메건의 장문 기사가 나왔는데, 아침 아홉 시부터 이메일이 예순세 통 왔어요.
 
 101. SAM: Sixty-three, and from who?
     샘: 예순셋이요? 누구한테서요?
 
-102. WEN: From farmers, two other co-ops, a lawnmower company, a hospital that repairs its own equipment, a man in Alaska who wants to fix his boat, and a professor who read the twenty fifteen paper, which makes forty-five.
+102. WEN: They're from farmers, two other co-ops, a lawnmower company, a hospital that repairs its own equipment, and a man in Alaska who wants to fix his boat. And a professor who read the twenty fifteen paper, which makes forty-five.
     웬: 농부들, 다른 협동조합 두 곳, 잔디 깎는 기계 회사, 장비를 직접 고치는 병원, 자기 배를 고치고 싶은 알래스카 남자, 그리고 2015년 논문을 읽은 교수까지요. 그걸로 마흔다섯 번째예요.
 
 103. TYLER: Even a hospital.
@@ -342,7 +342,7 @@
 109. SAM: Wen, how's the code book? Dale used it in the dark, in the mud, during a power outage.
     샘: 웬, 코드 책은 어때요? 데일이 정전 중에 어둠 속에서, 진흙 속에서 썼어요.
 
-110. WEN: I know, because he sent me an email, his first email ever, Ruth says, and it said, "Your book is good. Page four has a typo. Bearing has one R." I'm fixing it tonight.
+110. WEN: I know, he sent me an email. Ruth says it's his first email ever. It said, "Your book is good. Page four has a typo. Bearing has one R." I'm fixing it tonight.
     웬: 알아요. 루스 말로는 평생 처음 보낸 이메일이래요. "책 좋아요. 4쪽에 오타 있어요. 베어링에 R은 하나." 오늘 밤에 고칠 거예요.
 
 111. SAM: Wen, after two months in farm country, what are we actually best at, and what did we learn?
@@ -354,13 +354,13 @@
 113. SAM: And what's the fourth?
     샘: 네 번째는 뭔데요?
 
-114. WEN: Trust, not as a feeling but as a design choice, meaning motors that tell you the truth and let you fix them, because nobody else is building that on purpose.
+114. WEN: Trust, not as a feeling but as a design choice. I mean motors that tell you the truth and let you fix them. Nobody else is building that on purpose.
     웬: 신뢰요. 감정이 아니라 설계상의 선택으로서, 진실을 말해 주고 고치게 해 주는 모터요. 그걸 일부러 만드는 데는 아무도 없어요.
 
 115. TYLER: Can we put that on a T-shirt?
     타일러: 그거 티셔츠에 넣어도 돼요?
 
-116. WEN: No, because Earl has already reserved all the T-shirts.
+116. WEN: No. Earl has already reserved all the T-shirts.
     웬: 안 돼요. 얼이 티셔츠를 벌써 다 찜해 놨어요.
 
 117. SAM: Thank you for staying, Wen.
@@ -381,19 +381,19 @@
 122. SAM: It's been a strange spring.
     샘: 이상한 봄이었잖아.
 
-123. ERIN: You're home at eight fifteen, which is fifteen minutes late, so Lily, your father is late.
+123. ERIN: You're home at eight fifteen, so that's fifteen minutes late. Lily, your father is late.
     에린: 여덟 시 십오 분에 왔네. 15분 늦었어. 릴리, 아빠 늦었다.
 
-124. LILY: Fifteen minutes is on time for Dad, which is basically early, so sit, because it's spaghetti, and don't say anything about the sauce.
+124. LILY: Fifteen minutes is on time for Dad, it's basically early. Sit down, it's spaghetti, and don't say anything about the sauce.
     릴리: 15분이면 아빠한텐 정시야, 거의 일찍 온 거지. 앉아, 스파게티야. 소스에 대해선 아무 말도 하지 마.
 
-125. SAM: I love the sauce, and you know I paid your deposit to Purdue, because your mom made me do it online at a gas station in Illinois.
+125. SAM: I love the sauce. And you know I paid your deposit to Purdue? Your mom made me do it online at a gas station in Illinois.
     샘: 소스 좋아. 그리고 퍼듀 등록 보증금 냈어, 알지? 엄마가 일리노이 주유소에서 온라인으로 하라고 시켰거든.
 
-126. ERIN: Because you'd forget otherwise, and orientation is June eleventh, which is on the fridge calendar in red, circled twice.
+126. ERIN: Because you'd forget otherwise. Orientation is June eleventh, and it's on the fridge calendar in red, circled twice.
     에린: 안 그러면 잊어버릴 테니까. 오리엔테이션은 6월 11일이고, 냉장고 달력에 빨간색으로 동그라미 두 번 쳐 놨어.
 
-127. SAM: I'll be there, and Erin, we're going to the lake in July for a real week, and I'm putting it on the fridge myself.
+127. SAM: I'll be there. And Erin, we're going to the lake in July, for a real week, and I'm putting it on the fridge myself.
     샘: 갈게. 그리고 에린, 7월에 호수에 진짜 일주일 가자. 내가 직접 냉장고에 적을게.
 
 128. ERIN: I'll believe it when I'm sitting on the dock.
@@ -411,31 +411,31 @@
 132. SAM: I gave my number to nine farmers and a co-op, so I answer everything now. Hello? This is Sam.
     샘: 농부 아홉 명이랑 협동조합에 번호를 줘서 이제 다 받아. 여보세요? 샘입니다.
 
-133. TONY: Sam Kowalski? Name's Tony Russo, and I'm sorry about the hour, but I've had a heating and cooling company in Columbus for twenty-two years with thirty-one guys, and I'm calling because I'm desperate, and I don't say that word.
+133. TONY: Sam Kowalski? Name's Tony Russo, and I'm sorry about the hour. I've had a heating and cooling company in Columbus for twenty-two years, with thirty-one guys. I'm calling because I'm desperate, and I don't say that word.
     토니: 샘 코왈스키? 토니 루소라고 해. 늦은 시간에 미안해. 콜럼버스에서 22년째 직원 서른한 명 데리고 냉난방 회사 하는데, 절박해서 전화했어. 난 그 단어 안 쓰는 사람인데.
 
 134. SAM: How did you get my number, Mr. Russo?
     샘: 제 번호는 어떻게 아셨어요, 루소 씨?
 
-135. TONY: It's Tony, and a guy in Kettering who runs a little heating outfit says his nephew Darnell works for you, and I read the article this morning, "The motor you're allowed to fix," and I thought, that's my guy.
+135. TONY: It's Tony. A guy in Kettering who runs a little heating outfit says his nephew Darnell works for you. And I read the article this morning, "The motor you're allowed to fix," and I thought, that's my guy.
     토니: 토니라고 해. 케터링에서 작은 난방 업체 하는 친구 조카 대넬이 당신 회사에서 일한대. 그리고 오늘 아침에 "고쳐도 되는 모터" 기사 읽고 생각했지. 이 사람이다.
 
 136. SAM: What's going on, Tony?
     샘: 무슨 일이에요, 토니?
 
-137. TONY: Here's what's going on: last year I installed more heat pumps than ever, because everybody wanted one before the tax credit ended on December thirty-first, so December was crazy, and my guys worked Christmas Eve.
+137. TONY: Here's what's going on. Last year I installed more heat pumps than ever, because everybody wanted one before the tax credit ended on December thirty-first. December was crazy, and my guys worked Christmas Eve.
     토니: 무슨 일이냐면, 작년에 다들 12월 31일 세액공제 끝나기 전에 하나씩 원해서 히트펌프를 역대 최고로 많이 설치했어. 12월은 난리였고, 우리 애들 크리스마스이브에도 일했어.
 
 138. ERIN: We got ours in twenty twenty-three, before any of that.
     에린: 우린 그 전인 2023년에 했는데.
 
-139. TONY: Smart lady, but then January came and the credit was gone, and now nobody's buying heat pumps, so I've got thirty-one guys and a warehouse full of units, and the phone stopped ringing.
+139. TONY: Smart lady. But then January came and the credit was gone, and now nobody's buying heat pumps. I've got thirty-one guys and a warehouse full of units, and the phone stopped ringing.
     토니: 똑똑한 부인이네. 근데 1월이 오니까 공제가 사라졌고, 이제 아무도 히트펌프를 안 사. 직원 서른한 명에 창고 가득 장비가 있는데 전화가 안 울려.
 
 140. SAM: I'm sorry, Tony, but I build motors, and I don't sell heat pumps.
     샘: 유감이에요, 토니. 근데 전 모터를 만들지, 히트펌프는 안 팔아요.
 
-141. TONY: I know, but listen, because half the heat pumps I put in can't be fixed by my guys, since when the fan motor dies, the control board only lets the brand's warranty guy touch it, in three weeks, in July, with a family sweating.
+141. TONY: I know, but listen. Half the heat pumps I put in can't be fixed by my guys. When the fan motor dies, the control board only lets the brand's warranty guy touch it, and he comes in three weeks, in July, with a family sweating.
     토니: 알아. 근데 들어 봐. 내가 설치한 히트펌프 절반은 우리 애들이 못 고쳐. 팬 모터가 죽으면 제어 기판이 브랜드 보증 담당만 건드리게 해서, 7월에 가족이 땀 흘리는데 3주 뒤에나 와.
 
 142. SAM: That sounds very familiar.
@@ -459,10 +459,10 @@
 148. TONY: When can you come?
     토니: 언제 올 수 있어?
 
-149. ERIN: Not tomorrow, because tomorrow he's having breakfast with his family.
+149. ERIN: Not tomorrow. Tomorrow he's having breakfast with his family.
     에린: 내일은 안 돼요. 내일은 가족이랑 아침 먹어요.
 
-150. SAM: Not tomorrow, Tony, because tomorrow I'm having breakfast with my family, but next week. Let's see if it spins.
+150. SAM: Not tomorrow, Tony. Tomorrow I'm having breakfast with my family, but I'll come next week. Let's see if it spins.
     샘: 내일은 안 돼요, 토니. 내일은 가족이랑 아침 먹어요. 다음 주에요. 일단 돌려 보죠.
 
 ---

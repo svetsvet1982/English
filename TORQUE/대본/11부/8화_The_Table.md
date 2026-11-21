@@ -36,13 +36,13 @@
 007. SAM: How's his daughter, the one who wanted to be a vet?
     샘: 샘: 수의사 되고 싶다던 그 딸은 어때요?
 
-008. NINA: She's ten now, and she still wants to be a vet, and she has a hamster named Kowalski, so don't ask.
+008. NINA: She's ten now, and she still wants to be a vet. She has a hamster named Kowalski, so don't ask.
     니나: 니나: 이제 열 살인데 아직도 수의사 되고 싶대요. 코왈스키라는 햄스터를 키우는데, 묻지 마요.
 
-009. GLORIA: A hamster named Kowalski, baby, so you've made it.
+009. GLORIA: A hamster named Kowalski? Baby, you've made it.
     글로리아: 글로리아: 코왈스키라는 햄스터라니, 얘, 너 성공했다.
 
-010. NINA: I just wanted to see you before you go in there, because three years ago you made five thousand motors for me when nobody else would. Whatever happens upstairs, you already won down here.
+010. NINA: I just wanted to see you before you go in there. Three years ago you made five thousand motors for me when nobody else would. Whatever happens upstairs, you already won down here.
     니나: 니나: 들어가기 전에 그냥 보고 싶었어요. 3년 전에 아무도 안 해 줄 때 당신이 나한테 모터 5천 개를 만들어 줬잖아요. 위층에서 무슨 일이 있든, 여기 아래에선 이미 이겼어요.
 
 011. SAM: Cash is late, love is on time.
@@ -51,7 +51,7 @@
 012. NINA: You remembered! Now go, and don't let them take your umbrella.
     니나: 니나: 기억하네요! 이제 가요, 우산 뺏기지 말고요.
 
-013. BEN: Okay, final rules. It's the forty-second floor, with their law firm, their conference room, and their coffee, and we sit on the window side, because they'll want us to look at the view and feel small.
+013. BEN: Okay, final rules. It's the forty-second floor, with their law firm, their conference room, and their coffee. We sit on the window side, because they'll want us to look at the view and feel small.
     벤: 벤: 좋아, 마지막 규칙. 42층에 그쪽 로펌, 그쪽 회의실, 그쪽 커피야. 우린 창가 쪽에 앉아, 우리가 경치 보면서 작게 느끼길 바랄 테니까.
 
 014. SAM: And how is the window side better?
@@ -75,7 +75,7 @@
 020. GLORIA: And Northgate gets twenty-five percent of whatever we leave with, after our phase-two costs come back to us first. Dana called me last night and said, "No pressure," which means pressure.
     글로리아: 글로리아: 그리고 우리 2단계 비용 먼저 돌려받은 다음, 우리가 뭘 가지고 나가든 노스게이트가 25퍼센트 가져가. 데이나가 어젯밤 전화해서 "부담 갖지 마세요"래. 그 말은 부담 가지란 뜻이고.
 
-021. SAM: And what about Wen, is she on yet, because she said seven forty-five?
+021. SAM: And what about Wen? Is she on yet? She said seven forty-five.
     샘: 샘: 웬은요, 접속했어요? 7시 45분이라고 했는데.
 
 022. WEN: I'm here on the screen, in my lab. I don't need to see the view, I need to see page four of whatever they give you.
@@ -93,7 +93,7 @@
 026. SAM: Victoria, which side of the table are you on?
     샘: 샘: 빅토리아, 당신은 테이블 어느 쪽이에요?
 
-027. VICTORIA: Neither, because I'm at the end. Bradley asked me to be here and my lawyers asked me not to be, but I came anyway.
+027. VICTORIA: Neither. I'm at the end. Bradley asked me to be here and my lawyers asked me not to be, but I came anyway.
     빅토리아: 빅토리아: 어느 쪽도 아니에요, 끝자리예요. 브래들리는 와 달라고 했고 제 변호사들은 오지 말라고 했는데, 그래도 왔어요.
 
 028. STROUD: Mr. Kowalski, thank you for coming. Let me introduce Leonard Pryce, our general counsel, and I believe you know Mr. Pell.
@@ -102,7 +102,7 @@
 029. PELL: Mr. Adler, we meet again, and Charlotte feels like a long time ago.
     펠: 펠: 애들러 변호사, 또 뵙네요. 샬럿이 아주 오래전 일 같군요.
 
-030. BEN: Mr. Pell, you objected two hundred times in Charlotte, because I counted, so let's try for under a hundred today.
+030. BEN: Mr. Pell, you objected two hundred times in Charlotte. I counted. Let's try for under a hundred today.
     벤: 벤: 펠 변호사, 샬럿에서 이의를 이백 번 제기하셨죠, 세어 봤어요. 오늘은 백 번 아래로 해 보죠.
 
 031. PRYCE: Let's begin with the term sheet we've prepared. Calloway will pay forty million dollars, Ferrox dismisses the Dayton case and withdraws its comments to Customs about our new design, and both sides agree to mutual confidentiality and non-disparagement.
@@ -120,13 +120,13 @@
 035. SAM: Including the Senate, and a hearing like the one two weeks ago?
     샘: 샘: 상원도요? 2주 전 같은 청문회도요?
 
-036. PRYCE: It includes any public forum, because it's standard.
-    프라이스: 프라이스: 모든 공개 석상을 포함합니다, 표준 조항이니까요.
+036. PRYCE: It includes any public forum. It's standard.
+    프라이스: 프라이스: 모든 공개 석상을 포함합니다. 표준 조항입니다.
 
 037. SAM: Ben, tell me in plain English what section eleven means.
     샘: 벤, 11조가 무슨 뜻인지 쉬운 말로 해 줘요.
 
-038. BEN: In plain English, it's a gag clause, so you could never talk about any of this again, not to Megan and not to your employees. If a senator calls you next year, you'd have to say, "I'm not allowed to answer."
+038. BEN: In plain English, it's a gag clause. You could never talk about any of this again, not to Megan and not to your employees. If a senator calls you next year, you'd have to say, "I'm not allowed to answer."
     벤: 벤: 쉬운 말로, 입막음 조항이야. 다시는 이 얘기를 메건한테도, 네 직원들한테도 못 하게 돼. 내년에 어떤 의원이 널 부르면 "답변이 허락되지 않습니다"라고 해야 해.
 
 039. SAM: Then the answer is no.
@@ -135,7 +135,7 @@
 040. PRYCE: Mr. Kowalski, the number is negotiable, but section eleven is the deal.
     프라이스: 프라이스: 코왈스키 씨, 금액은 협상 가능하지만 11조가 이 거래의 핵심입니다.
 
-041. SAM: Then we don't have a deal. Mr. Pryce, I came here ready to settle, but I didn't come here to be quiet, because somebody once told me, "Don't say no to the money. Say no to the silence."
+041. SAM: Then we don't have a deal. Mr. Pryce, I came here ready to settle, but I didn't come here to be quiet. Somebody once told me, "Don't say no to the money. Say no to the silence."
     샘: 샘: 그럼 거래는 없어요. 프라이스 씨, 난 합의할 준비를 하고 왔지만 조용해지려고 온 건 아니에요. 누가 그러더군요. "돈에 노라고 하지 마라. 침묵에 노라고 해라."
 
 042. STROUD: And who told you that?
@@ -147,10 +147,10 @@
 044. VICTORIA: Bradley, may I say something from down here?
     빅토리아: 빅토리아: 브래들리, 여기 끝에서 제가 말해도 될까요?
 
-045. STROUD: You're at the end of the table, Victoria, so speak from there.
+045. STROUD: You're at the end of the table, Victoria. Speak from there.
     스트라우드: 스트라우드: 당신은 테이블 끝에 있으니, 빅토리아, 거기서 말하세요.
 
-046. VICTORIA: You don't need his silence, you need his silence about one thing, which is the amount. Everything else is already public, the ITC ruling, the footnote, and a clip with eleven million views, and you can't buy back what's already out the door.
+046. VICTORIA: You don't need his silence. You need his silence about one thing, the amount. Everything else is already public, the ITC ruling, the footnote, and a clip with eleven million views. You can't buy back what's already out the door.
     빅토리아: 빅토리아: 그 사람 침묵이 필요한 게 아니라, 금액이라는 한 가지에 대한 침묵이 필요한 거예요. 나머진 ITC 판정, 각주, 1,100만 회짜리 영상까지 이미 다 공개됐어요. 이미 문밖에 나간 걸 다시 살 순 없어요.
 
 047. PELL: Ms. Lang, I'd remind you that you're not here as counsel.
@@ -159,13 +159,13 @@
 048. VICTORIA: I'm here as the person who'll be blamed if this fails, Gordon, and that's a better seat than counsel.
     빅토리아: 빅토리아: 이게 실패하면 비난받을 사람으로 여기 있는 거예요, 고든. 변호인보다 나은 자리죠.
 
-049. BEN: Here's our counter on eleven: the amount stays confidential, but the fact of the settlement and its main terms are public. Non-disparagement covers false statements only, so true statements are allowed, and nothing stops anyone from answering Congress, a court, or a regulator.
+049. BEN: Here's our counter on eleven. The amount stays confidential, but the fact of the settlement and its main terms are public. Non-disparagement covers false statements only, so true statements are allowed, and nothing stops anyone from answering Congress, a court, or a regulator.
     벤: 벤: 11조에 대한 우리 역제안이요. 금액은 비밀로 하되 합의 사실과 주요 조건은 공개. 비방 금지는 허위 발언에만 적용하니까 사실인 발언은 허용. 그리고 의회·법원·규제 기관에 답하는 건 누구도 막을 수 없음.
 
 050. PRYCE: "True statements are allowed." Who decides what's true?
     프라이스: "사실인 발언은 허용." 뭐가 사실인지 누가 정합니까?
 
-051. BEN: The same people as always, which is a judge, and that's why most people try to say true things.
+051. BEN: The same people as always, a judge. That's why most people try to say true things.
     벤: 벤: 늘 정하던 사람, 판사요. 그래서 다들 사실을 말하려고 애쓰죠.
 
 052. STROUD: Fine, take it, and let's talk about money.
@@ -174,22 +174,22 @@
 053. GLORIA: Ben, did he just say "fine"?
     글로리아: 벤, 방금 "좋다"고 했어요?
 
-054. BEN: He did, but don't smile, because it's only round one.
+054. BEN: He did, but don't smile. It's only round one.
     벤: 벤: 했어요. 근데 웃지 마요, 겨우 1라운드예요.
 
-055. PRYCE: It's forty million, which is ten million more than our offer in December, which you refused.
+055. PRYCE: It's forty million. That's ten million more than our offer in December, which you refused.
     프라이스: 프라이스: 4천만입니다. 12월에 거절하신 제안보다 천만 달러 많습니다.
 
-056. GLORIA: In December you weren't banned, Mr. Pryce, so let me do math out loud. EverSpin sold about three hundred million a year for two years, a reasonable royalty is eight to twelve percent, and a Dayton jury could triple it for willful infringement.
+056. GLORIA: In December you weren't banned, Mr. Pryce. Let me do math out loud. EverSpin sold about three hundred million a year for two years, a reasonable royalty is eight to twelve percent, and a Dayton jury could triple it for willful infringement.
     글로리아: 글로리아: 12월엔 금지당하지 않았잖아요, 프라이스 씨. 소리 내서 계산할게요. 에버스핀이 2년 동안 연 3억 달러쯤 팔았고, 합리적인 로열티는 8~12퍼센트고, 데이턴 배심원은 고의 침해면 세 배로 올릴 수 있어요.
 
-057. PELL: That's speculation, Ms. Banks, because juries are unpredictable.
+057. PELL: That's speculation, Ms. Banks. Juries are unpredictable.
     펠: 펠: 그건 추측입니다, 뱅크스 씨. 배심원은 예측 불가능하죠.
 
 058. GLORIA: It's arithmetic, baby, while speculation is when you tell your board you have a fifty percent chance.
     글로리아: 글로리아: 산수예요, 얘. 추측은 이사회에 이길 확률이 50퍼센트라고 말하는 거고요.
 
-059. VICTORIA: She's right about the board, because I was there.
+059. VICTORIA: She's right about the board. I was there.
     빅토리아: 빅토리아: 이사회 얘긴 맞아요, 제가 거기 있었거든요.
 
 060. STROUD: What do you want, Mr. Kowalski, not your accountant, but you?
@@ -198,13 +198,13 @@
 061. SAM: I want five things. First, Calloway stops selling every EverSpin motor that came from our code, forever, and everything in your warehouses gets scrapped while Wen watches.
     샘: 샘: 다섯 가지요. 첫째, 캘러웨이는 우리 코드에서 나온 에버스핀 모터를 영원히 전부 판매 중지하고, 창고에 있는 건 웬이 지켜보는 앞에서 전부 폐기해요.
 
-062. SAM: Second is your new design, EverSpin 2, which you say is clean, so prove it. An independent expert chosen by both sides checks every line of code and every drawing, and if it's clean, we won't fight it at Customs.
+062. SAM: Second is your new design, EverSpin 2. You say it's clean, so prove it. An independent expert chosen by both sides checks every line of code and every drawing, and if it's clean, we won't fight it at Customs.
     샘: 샘: 둘째, 새 설계 에버스핀 2. 깨끗하다고 하니까 증명해요. 양측이 같이 고른 독립 전문가가 코드 한 줄, 도면 한 장까지 다 확인하고, 깨끗하면 세관에서 다투지 않을게요.
 
 063. WEN: And I read the expert's report, all of it.
     웬: 웬: 그리고 전문가 보고서는 제가 전부 다 읽어요.
 
-064. PRYCE: That's acceptable in principle, subject to details, so what's three?
+064. PRYCE: That's acceptable in principle, subject to details. What's three?
     프라이스: 프라이스: 세부 사항은 따로 보더라도 원칙적으로는 수용 가능합니다. 셋은요?
 
 065. SAM: Third is damages, and Gloria has a number.
@@ -216,7 +216,7 @@
 067. PRYCE: That's simply absurd.
     프라이스: 프라이스: 그건 그냥 터무니없습니다.
 
-068. GLORIA: It's less than a jury would give us, so we're offering you a discount for not making us wait until 2028.
+068. GLORIA: It's less than a jury would give us. We're offering you a discount for not making us wait until 2028.
     글로리아: 글로리아: 배심원이 줄 것보다 적어요. 2028년까지 안 기다리게 해 주는 대가로 할인해 드리는 거예요.
 
 069. SAM: Fourth is a non-exclusive license to our patent only, the four-seventeen, not our firmware and not our trade secrets. If your clean design uses our rotor geometry, you pay a royalty on every motor until 2036.
@@ -240,10 +240,10 @@
 075. PELL: Absolutely not, no.
     펠: 펠: 절대 안 됩니다.
 
-076. SAM: You haven't even heard it yet, Mr. Pell, so let me finish.
+076. SAM: You haven't even heard it yet, Mr. Pell. Let me finish.
     샘: 샘: 아직 듣지도 않았잖아요, 펠 변호사. 끝까지 말할게요.
 
-077. PELL: I don't need to, because Mr. Doyle took confidential information from his employer and then testified against his next employer, and Calloway reserves every right against him.
+077. PELL: I don't need to. Mr. Doyle took confidential information from his employer and then testified against his next employer, and Calloway reserves every right against him.
     펠: 펠: 들을 필요 없습니다. 도일 씨는 고용주의 기밀을 가져갔고 그다음엔 다음 고용주에 불리하게 증언했으니, 캘러웨이는 그에 대한 모든 권리를 유보합니다.
 
 078. BEN: He took it from us, and we've already released him, while you're the ones who asked him to bring it.
@@ -252,7 +252,7 @@
 079. PELL: That's only alleged.
     펠: 펠: 주장일 뿐이죠.
 
-080. BEN: It was found by the Commission, so read the footnote, Gordon, because it's short and you'll have time.
+080. BEN: It was found by the Commission. Read the footnote, Gordon. It's short, and you'll have time.
     벤: 벤: 위원회가 판정한 거예요. 각주 읽어 봐요, 고든, 짧으니까 읽을 시간 있을 거예요.
 
 081. STROUD: Let's take a thirty-minute break, and lunch is in the next room.
@@ -261,7 +261,7 @@
 082. GLORIA: They put out sandwiches with the crusts cut off.
     글로리아: 빵 껍질 잘라 낸 샌드위치를 내놨어.
 
-083. BEN: That's how you know it's a big firm, because small firms leave the crusts on. Wen, what's your read?
+083. BEN: That's how you know it's a big firm. Small firms leave the crusts on. Wen, what's your read?
     벤: 벤: 그래서 대형 로펌인 거 알 수 있어요, 작은 로펌은 껍질을 안 자르거든요. 웬, 어떻게 봐요?
 
 084. WEN: They accepted one and two of the five fast, which means they already decided to throw away EverSpin one. They're fighting about money and Kevin, and since money is a number and Kevin is a person, they'll fight harder about the person.
@@ -285,13 +285,13 @@
 090. SAM: That's exactly why. Ben, Gloria, get your things, and thank you for the sandwiches, Mr. Pryce.
     샘: 샘: 바로 그래서예요. 벤, 글로리아, 짐 챙겨요. 샌드위치 고마웠어요, 프라이스 씨.
 
-091. GLORIA: Sam, Sam, wait, because sixty-eight million dollars is on this table.
+091. GLORIA: Sam, Sam, wait. Sixty-eight million dollars is on this table.
     글로리아: 글로리아: 샘, 샘, 잠깐, 이 테이블에 6,800만 달러가 있어.
 
 092. SAM: Thirty-five is on the table, Gloria, and Kevin isn't.
     샘: 샘: 테이블에 있는 건 3,500이에요, 글로리아. 그리고 케빈은 없고요.
 
-093. BEN: He's walking, he's really walking, so Gloria, come on. When the client walks, the lawyer walks, and that's the only rule I've never broken.
+093. BEN: He's walking, he's really walking. Gloria, come on. When the client walks, the lawyer walks, and that's the only rule I've never broken.
     벤: 벤: 걸어 나간다, 진짜로 나간다. 글로리아, 와요. 의뢰인이 나가면 변호사도 나가요, 내가 한 번도 안 깬 유일한 규칙이에요.
 
 094. VICTORIA: Sam, wait, hold the elevator door!
@@ -306,7 +306,7 @@
 097. SAM: What are you going to do in ten minutes?
     샘: 10분 동안 뭘 할 건데요?
 
-098. VICTORIA: Something I should have done in March 2025, which is tell Bradley the truth in a room with the door closed, and Gordon won't be in it.
+098. VICTORIA: Something I should have done in March 2025. I'm going to tell Bradley the truth in a room with the door closed, and Gordon won't be in it.
     빅토리아: 빅토리아: 2025년 3월에 했어야 하는 걸요. 문 닫은 방에서 브래들리한테 사실을 말할 거고, 고든은 거기 없을 거예요.
 
 099. BEN: Sam, ten minutes costs us nothing, and the elevator will still be here.
@@ -330,13 +330,13 @@
 105. GLORIA: That it's not worth it, and that telling the truth doesn't pay.
     글로리아: 글로리아: 그럴 가치가 없다고, 진실을 말해 봤자 손해라고.
 
-106. SAM: That it's not worth it, so the next Kevin keeps quiet, and the next Calloway wins.
+106. SAM: That it's not worth it. Then the next Kevin keeps quiet, and the next Calloway wins.
     샘: 샘: 그럴 가치가 없다고요. 그럼 다음 케빈은 입을 다물고, 다음 캘러웨이가 이기죠.
 
 107. GLORIA: Okay, I'll stop being scared, in about a week.
     글로리아: 글로리아: 알았어, 무서워하는 거 그만할게. 한 일주일 뒤에.
 
-108. VICTORIA: Come back in, because Bradley wants to talk about Kevin.
+108. VICTORIA: Come back in. Bradley wants to talk about Kevin.
     빅토리아: 빅토리아: 다시 들어와요, 브래들리가 케빈 얘기를 하고 싶대요.
 
 109. SAM: What did you say to him?
@@ -360,10 +360,10 @@
 115. STROUD: Signed by me, yes. Now let's finish the money, and then I'd like five minutes with you alone, Mr. Kowalski, with no lawyers.
     스트라우드: 스트라우드: 내 서명으로요. 이제 돈을 마무리하고, 그다음에 변호사 없이 당신과 단둘이 5분만 얘기하고 싶습니다, 코왈스키 씨.
 
-116. STROUD: Sit, because this is the only room on this floor without a camera in the ceiling, and I checked.
+116. STROUD: Sit. This is the only room on this floor without a camera in the ceiling. I checked.
     스트라우드: 스트라우드: 앉으세요. 이 층에서 천장에 카메라 없는 방은 여기뿐인데, 확인했어요.
 
-117. SAM: You wanted to talk with no lawyers, so here I am.
+117. SAM: You wanted to talk with no lawyers. Here I am.
     샘: 샘: 변호사 없이 얘기하고 싶다고 했으니, 왔어요.
 
 118. STROUD: You're going to get about fifty-two million dollars, Mr. Kowalski, which is where your accountant and my lawyer will end up tonight: thirty-two in thirty days, twenty in a year, and a royalty of three and a half percent. I know, because I've decided.
@@ -381,7 +381,7 @@
 122. STROUD: You do, just like that, after three years?
     스트라우드: 스트라우드: 믿는다고요, 3년이나 싸워 놓고 그렇게 쉽게?
 
-123. SAM: Victoria didn't know either, because Martin didn't tell anybody, and nobody asked. That's what scares me about a company your size, that nobody has to know anything for something terrible to happen.
+123. SAM: Victoria didn't know either. Martin didn't tell anybody, and nobody asked. That's what scares me about a company your size: nobody has to know anything for something terrible to happen.
     샘: 샘: 빅토리아도 몰랐어요. 마틴은 아무한테도 말 안 했고 아무도 묻지 않았죠. 그게 당신네 같은 크기의 회사에서 무서운 점이에요. 끔찍한 일이 일어나는 데 누구도 뭘 알 필요가 없다는 거.
 
 124. STROUD: There are forty-one thousand people, and if I asked every question, nothing would ever ship.
@@ -390,10 +390,10 @@
 125. SAM: And if you never ask, something like EverSpin ships.
     샘: 그리고 하나도 안 물으면 에버스핀 같은 게 출하되죠.
 
-126. STROUD: You said on Wednesday that my father would have said I learned the wrong lesson from the mill, so tell me the right one.
+126. STROUD: You said on Wednesday that my father would have said I learned the wrong lesson from the mill. Tell me the right one.
     스트라우드: 스트라우드: 수요일에 우리 아버지라면 내가 그 공장에서 잘못된 교훈을 배웠다고 할 거라 했죠. 옳은 교훈을 말해 보세요.
 
-127. SAM: I said my father would say it, so here's what he'd say. The mill didn't close because it was small, it closed because somebody far away decided the people in it didn't matter, so scale didn't save it, scale closed it.
+127. SAM: I said my father would say it, so here's what he'd say. The mill didn't close because it was small. It closed because somebody far away decided the people in it didn't matter. Scale didn't save it, scale closed it.
     샘: 샘: 우리 아버지가 그럴 거라고 했죠. 아버지라면 이렇게 말할 거예요. 그 공장은 작아서가 아니라, 멀리 있는 누군가가 거기 사람들이 중요하지 않다고 정해서 닫은 거예요. 규모가 살린 게 아니라 규모가 닫은 거죠.
 
 128. STROUD: You think I don't know that?
@@ -429,7 +429,7 @@
 138. BEN: Here's the full list: EverSpin one scrapped and the appeal dropped, a clean-room check on EverSpin 2 by a joint expert, and the Dayton case dismissed when the first payment clears. The license is four-seventeen only, Kevin's protected, and only the amount is confidential.
     벤: 벤: 전체 목록이야. 에버스핀 1 폐기와 항소 취하, 에버스핀 2는 공동 전문가가 클린룸 검증, 첫 지급 들어오면 데이턴 사건 취하. 라이선스는 '417만, 케빈 보호, 비밀은 금액뿐이야.
 
-139. WEN: And there are the exclusive contracts on page six, because Calloway lets every customer out of exclusivity, Greaves, Kestrel, and the heat pump companies, so they can buy from anybody now, including us.
+139. WEN: And there are the exclusive contracts on page six. Calloway lets every customer out of exclusivity, Greaves, Kestrel, and the heat pump companies. They can buy from anybody now, including us.
     웬: 웬: 그리고 6쪽에 독점 계약이요. 캘러웨이가 그리브스, 케스트렐, 히트펌프 회사들까지 모든 고객을 독점에서 풀어 줘요. 이제 우리 포함해서 누구한테서든 살 수 있어요.
 
 140. PRYCE: That was added at three-forty, by Ms. Lang.
@@ -441,7 +441,7 @@
 142. STROUD: Mr. Kowalski, shall we shake on it?
     스트라우드: 스트라우드: 코왈스키 씨, 악수로 합의할까요?
 
-143. SAM: We'll shake on it, and then we'll sign it, because my father says a handshake is a promise, and paper is for when you forget.
+143. SAM: We'll shake on it, and then we'll sign it. My father says a handshake is a promise, and paper is for when you forget.
     샘: 샘: 악수하고, 그다음에 서명하죠. 우리 아버지가 악수는 약속이고, 종이는 잊어버릴 때를 위한 거래요.
 
 144. STROUD: Your father and mine would have argued for hours.
@@ -450,10 +450,10 @@
 145. SAM: Then they'd have gone for a beer.
     샘: 그러고 나서 맥주 마시러 갔겠죠.
 
-146. KEVIN: Hello, Sam? It's ten at night, so is something wrong?
+146. KEVIN: Hello, Sam? It's ten at night. Is something wrong?
     케빈: 케빈: 여보세요, 샘? 밤 열 시인데, 무슨 일 있어요?
 
-147. SAM: Nothing's wrong, Kevin, it's over, because we settled with Calloway an hour ago. There's a section in the agreement with your name on it, so they can't come after you, not ever, and they pay your lawyer while Stroud signs your reference.
+147. SAM: Nothing's wrong, Kevin, it's over. We settled with Calloway an hour ago. There's a section in the agreement with your name on it, so they can't come after you, not ever. They pay your lawyer, and Stroud signs your reference.
     샘: 샘: 아무 일 없어요, 케빈, 끝났어요. 한 시간 전에 캘러웨이랑 합의했는데, 합의서에 당신 이름이 붙은 조항이 있어요. 그쪽은 영원히 당신을 쫓아올 수 없고, 변호사비는 그쪽이 내고, 추천서엔 스트라우드가 서명해요.
 
 148. KEVIN: I don't understand why you would do that, when I took your code.
@@ -462,7 +462,7 @@
 149. SAM: Because then you gave us the truth. Tell Noah that Aunt Wen isn't mad anymore, and she says to bring the rabbit to Dayton sometime.
     샘: 샘: 그다음엔 우리한테 진실을 줬으니까요. 노아한테 웬 이모 이제 화 안 났다고 전해요. 언제 토끼 데리고 데이턴에 오래요.
 
-150. KEVIN: Okay, okay. Sam, I'm going to sit down on my kitchen floor now, and I'll call you tomorrow, so thank you.
+150. KEVIN: Okay, okay. Sam, I'm going to sit down on my kitchen floor now. I'll call you tomorrow. Thank you.
     케빈: 케빈: 네, 네. 샘, 저 지금 부엌 바닥에 좀 앉아야겠어요. 내일 전화할게요, 고마워요.
 
 ---

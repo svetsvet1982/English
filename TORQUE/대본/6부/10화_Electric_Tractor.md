@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. JO: Welcome to the worst field in Michigan, and watch your step, because the mud here eats boots.
+001. JO: Welcome to the worst field in Michigan. Watch your step, because the mud here eats boots.
     조: 미시간 최악의 밭에 오신 걸 환영해요. 발밑 조심하세요. 여기 진흙은 부츠를 먹거든요.
 
 002. TYLER: It ate mine already. My left foot is wet up to the ankle.
@@ -30,13 +30,13 @@
 005. SAM: These trees look dead, every single one, all the way up the hill.
     샘: 나무들이 언덕 위까지 하나도 빠짐없이 죽은 것 같아요.
 
-006. HAL: They're sleeping, because in May this whole hill turns white with blossoms and in July it turns red, but right now it's mud and branches and my diesel bill.
+006. HAL: They're sleeping. In May this whole hill turns white with blossoms, and in July it turns red. Right now it's just mud and branches and my diesel bill.
     할: 자는 거야. 5월이면 이 언덕 전체가 꽃으로 하얘지고 7월엔 빨개져. 지금은 진흙이랑 가지랑 내 디젤 청구서뿐이지만.
 
 007. WEN: How much is the diesel bill?
     웬: 디젤 청구서가 얼마예요?
 
-008. HAL: With three tractors on a hundred and sixty acres, it's about eighteen thousand dollars a year, and my workers breathe the exhaust all day between the rows, because under the trees the smoke doesn't go anywhere.
+008. HAL: With three tractors on a hundred and sixty acres, it's about eighteen thousand dollars a year. And my workers breathe the exhaust all day between the rows, because under the trees the smoke doesn't go anywhere.
     할: 160에이커에 트랙터 세 대로 1년에 1만 8천 달러쯤이야. 그리고 우리 일꾼들이 하루 종일 줄 사이에서 배기가스를 마셔. 나무 밑에선 연기가 빠져나가질 않거든.
 
 009. JO: That's why I started Furrow. My uncle worked orchards for thirty years. He had a cough for the last ten.
@@ -45,16 +45,16 @@
 010. SAM: I'm sorry to hear that, Jo.
     샘: 그 얘긴 유감이에요, 조.
 
-011. JO: Thank you, and here she is, the Furrow F1, which is electric, forty-five horsepower equivalent, and narrow enough for orchard rows, with a battery that runs ten hours.
+011. JO: Thank you. Here she is, the Furrow F1, electric and forty-five horsepower equivalent. She's narrow enough for orchard rows, and the battery runs ten hours.
     조: 고마워요. 여기 있어요, 퍼로 F1. 45마력급 전기 트랙터인데, 과수원 줄 사이에 들어갈 만큼 좁고 배터리는 열 시간 가요.
 
 012. TYLER: It's tiny, and it looks like a golf cart that joined the Army.
     타일러: 작네요. 군대 간 골프 카트 같아요.
 
-013. JO: I'm going to put that on a T-shirt, but okay, watch, because I'm going to pull that sprayer up the steepest, muddiest part of Hal's orchard.
+013. JO: I'm going to put that on a T-shirt. Okay, watch this. I'm going to pull that sprayer up the steepest, muddiest part of Hal's orchard.
     조: 그거 티셔츠에 새겨야겠어요. 자, 보세요. 저 방제기를 할 씨 과수원에서 제일 가파르고 질척한 데로 끌고 올라갈 거예요.
 
-014. HAL: Go slow, Jo, because I just fixed that gate.
+014. HAL: Go slow, Jo, I just fixed that gate.
     할: 천천히 가, 조. 그 문 방금 고쳤어.
 
 015. WEN: It's so quiet that I can hear the birds over the motor.
@@ -66,25 +66,25 @@
 017. SAM: She's slowing down about halfway up.
     샘: 중간쯤에서 느려지네요.
 
-018. WEN: Listen to how the motor pitch changed, because it's derating.
+018. WEN: Listen to how the motor pitch just changed. It's derating.
     웬: 모터 소리 바뀐 거 들어 봐요. 출력을 줄이고 있어요.
 
 019. TYLER: What does derating mean in plain English?
     타일러: 출력을 줄인다는 게 쉬운 말로 뭐예요?
 
-020. WEN: The motor is getting hot, so the computer is cutting power to protect it, like Dale's tractor in December, and the machine is saying, "I'm tired."
+020. WEN: The motor is getting hot, so the computer is cutting power to protect it, just like Dale's tractor in December. The machine is saying, "I'm tired."
     웬: 모터가 뜨거워지니까 컴퓨터가 보호하려고 출력을 줄이는 거예요. 12월에 데일 트랙터처럼, 기계가 "나 지쳤어"라고 하는 거죠.
 
 021. JO: And there it is, she made it, but slowly, and ten more minutes like that and she'd stop.
     조: 저기 있다, 올라갔어요. 근데 천천히요. 저렇게 10분만 더 가면 멈출 거예요.
 
-022. HAL: That's the problem, because I love it, but I can't have it stop halfway up a hill in June with a full tank of spray.
+022. HAL: That's the problem. I love it, but I can't have it stop halfway up a hill in June with a full tank of spray.
     할: 그게 문제야. 마음엔 드는데, 6월에 약통 가득 채우고 언덕 중간에서 멈추면 안 되잖아.
 
 023. SAM: Jo, what motor is in there now?
     샘: 조, 지금 안에 무슨 모터가 들어 있어요?
 
-024. JO: It's a rare-earth permanent magnet motor from a supplier in Ningbo, and honestly it's a good motor that's very powerful for its size, but in heat and mud, under load for hours, it gets hot.
+024. JO: It's a rare-earth permanent magnet motor from a supplier in Ningbo. Honestly, it's a good motor, and it's very powerful for its size. But in heat and mud, under load for hours, it gets hot.
     조: 닝보 공급사의 희토류 영구자석 모터예요. 솔직히 크기에 비해 아주 강한 좋은 모터인데, 더위랑 진흙 속에서 몇 시간씩 부하가 걸리면 뜨거워져요.
 
 025. WEN: Rare-earth magnets lose strength when they get hot. So the motor has to slow down to protect the magnets. That's physics, not quality.
@@ -96,7 +96,7 @@
 027. TYLER: Everybody's asking about November, Greaves, Hank, and now you.
     타일러: 그리브스, 행크, 이젠 조까지, 다들 11월을 물어보네요.
 
-028. JO: Because nobody knows, and if the pause ends and the controls come back, I have eight prototypes and zero production tractors, which is a dead company.
+028. JO: Because nobody knows. If the pause ends and the controls come back, I have eight prototypes and zero production tractors, and that's a dead company.
     조: 아무도 모르니까요. 유예가 끝나고 통제가 돌아오면 저한텐 시제품 여덟 대에 양산 트랙터 0대가 남는데, 그건 죽은 회사죠.
 
 029. HAL: Jo's a good kid who's stubborn, with stubborn tractors, and I want her to make it.
@@ -111,7 +111,7 @@
 032. WEN: Can I look at the motor up close?
     웬: 모터 가까이서 봐도 돼요?
 
-033. JO: Please do, because Sofia, our lead engineer, is in the barn with a spare one on the bench, and she's been waiting all week to meet you.
+033. JO: Please do. Sofia, our lead engineer, is in the barn with a spare one on the bench, and she's been waiting all week to meet you.
     조: 그럼요. 우리 수석 엔지니어 소피아가 헛간에서 예비 모터를 작업대에 올려놓고 박사님 만나려고 일주일 내내 기다렸어요.
 
 034. SAM: Hal, can I ask you something? If Jo's tractor worked all day, no stopping, would you buy it?
@@ -138,22 +138,22 @@
 041. SOFIA: Dr. Liu, I've read all of your papers, even the one from twenty fifteen with forty-one downloads.
     소피아: 리우 박사님, 논문 전부 읽었어요. 다운로드 마흔한 번짜리 2015년 거까지요.
 
-042. WEN: It's forty-three now, because Paula Strand at Greaves read it twice.
+042. WEN: It's forty-three now. Paula Strand at Greaves read it twice.
     웬: 이제 마흔세 번이에요. 그리브스의 폴라 스트랜드가 두 번 읽었대요.
 
-043. SOFIA: Then I'm forty-four, and here's our motor opened up, a traction motor at forty kilowatts peak, and we use two per tractor, one for the wheels and one for the hydraulics and the power take-off.
+043. SOFIA: Then I'm forty-four. Here's our motor opened up, a traction motor at forty kilowatts peak. We use two per tractor, one for the wheels and one for the hydraulics and the power take-off.
     소피아: 그럼 제가 마흔네 번째네요. 이게 열어 놓은 저희 모터예요. 최대 40킬로와트 구동 모터인데, 트랙터마다 바퀴용 하나, 유압이랑 동력 인출 장치용 하나, 두 개 써요.
 
 044. TYLER: What's a power take-off?
     타일러: 동력 인출 장치가 뭐예요?
 
-045. SOFIA: It's the spinning shaft on the back of a tractor that powers whatever you hook up, like a sprayer, a mower, or a pump, and farmers call it the PTO.
+045. SOFIA: It's the spinning shaft on the back of a tractor, and it powers whatever you hook up, like a sprayer, a mower, or a pump. Farmers call it the PTO.
     소피아: 트랙터 뒤에 달린 회전축인데, 방제기든 예초기든 펌프든 연결한 걸 돌려요. 농부들은 PTO라고 불러요.
 
 046. WEN: Can you give me the duty cycle, not the peak, but the real day?
     웬: 사용 패턴 알려 줄 수 있어요? 최대치 말고 실제 하루요.
 
-047. SOFIA: It's ten hours, with forty percent of the time pulling uphill in mud, temperatures from minus ten Celsius in March to thirty-five in July, and water, dust, cherry juice, and the occasional hit from a branch.
+047. SOFIA: It's ten hours, with forty percent of the time pulling uphill in mud. The temperature goes from minus ten Celsius in March to thirty-five in July. Then there's water, dust, cherry juice, and the occasional hit from a branch.
     소피아: 열 시간인데, 40퍼센트는 진흙 오르막을 끌어요. 온도는 3월 영하 10도에서 7월 35도까지고, 물, 먼지, 체리즙, 가끔 나뭇가지에 맞는 거까지 있어요.
 
 048. WEN: Did you say cherry juice?
@@ -162,13 +162,13 @@
 049. SOFIA: It's sticky, and it gets everywhere. It's the enemy of every seal.
     소피아: 끈적하고 어디든 들어가요. 모든 밀봉의 적이에요.
 
-050. WEN: Good, because I like a real enemy, and here's the honest answer: for the same power, our ferrite motor will be about eighteen percent heavier than this one.
+050. WEN: Good, I like a real enemy. Here's the honest answer. For the same power, our ferrite motor will be about eighteen percent heavier than this one.
     웬: 좋아요. 진짜 적이 있는 게 좋거든요. 솔직한 대답은, 같은 출력이면 우리 페라이트 모터가 이것보다 18퍼센트쯤 더 무거울 거라는 거예요.
 
 051. SOFIA: For a car that's a problem, but for a tractor?
     소피아: 자동차라면 문제죠. 근데 트랙터는요?
 
-052. JO: For a tractor, weight is traction, so heavier is better, and farmers bolt iron weights onto their tractors on purpose, which means you're giving me free weight.
+052. JO: For a tractor, weight is traction, so heavier is better. Farmers bolt iron weights onto their tractors on purpose. You're giving me free weight.
     조: 트랙터한텐 무게가 곧 견인력이라 무거울수록 좋아요. 농부들은 일부러 쇳덩이를 볼트로 다는데, 공짜 무게를 주시는 거죠.
 
 053. SAM: Weight is traction, so Tyler, write that down.
@@ -177,28 +177,28 @@
 054. TYLER: I've written down more farmer sayings this spring than in my whole life.
     타일러: 올봄에 평생 적은 것보다 더 많은 농부 속담을 적었어요.
 
-055. WEN: My second honest answer is about heat, because our motor doesn't fear heat the way this one does, since ferrite magnets actually get a little stronger when they warm up, and our weakness is the opposite, which is cold.
+055. WEN: My second honest answer is about heat. Our motor doesn't fear heat the way this one does, because ferrite magnets actually get a little stronger when they warm up. Our weakness is the opposite, which is cold.
     웬: 두 번째 솔직한 대답은 열이에요. 페라이트 자석은 따뜻해지면 오히려 조금 강해져서 우리 모터는 이것만큼 열을 겁내지 않아요. 우리 약점은 반대로 추위예요.
 
 056. SOFIA: Cold, really, of all things?
     소피아: 하필 추위요? 진짜요?
 
-057. WEN: In deep cold, ferrite magnets can be damaged if you push too much current through them at once, so a cold March morning in Michigan with a heavy load at start-up is our danger.
+057. WEN: In deep cold, ferrite magnets can be damaged if you push too much current through them at once. A cold March morning in Michigan, with a heavy load at start-up, is our danger.
     웬: 혹한에선 한꺼번에 전류를 너무 많이 밀어 넣으면 페라이트 자석이 손상될 수 있어요. 그래서 미시간의 추운 3월 아침, 시동할 때 무거운 부하가 우리 위험이에요.
 
 058. JO: So what happens then, we can't farm in March?
     조: 그럼 어떻게 돼요? 3월엔 농사 못 지어요?
 
-059. WEN: You can, because our firmware watches the magnet temperature every millisecond, and on a cold start it warms the motor gently and limits the current for the first few minutes, so the farmer won't notice, but the motor will.
+059. WEN: You can. Our firmware watches the magnet temperature every millisecond. On a cold start, it warms the motor gently and limits the current for the first few minutes, so the farmer won't notice, but the motor will.
     웬: 지을 수 있어요. 우리 펌웨어가 자석 온도를 1밀리초마다 보다가, 차가울 때 시동하면 모터를 살살 데우고 처음 몇 분은 전류를 제한해요. 농부는 못 느끼지만 모터는 느끼죠.
 
-060. SOFIA: That's elegant, because the software protects the magnet.
+060. SOFIA: That's elegant. The software protects the magnet.
     소피아: 우아하네요. 소프트웨어가 자석을 보호하는 거잖아요.
 
-061. WEN: That's the whole company, weak magnets and smart software, because physics doesn't negotiate, but you can be polite to it.
+061. WEN: That's the whole company, weak magnets and smart software. Physics doesn't negotiate, but you can be polite to it.
     웬: 그게 우리 회사 전부예요. 약한 자석, 똑똑한 소프트웨어. 물리학은 협상 안 하지만, 예의 바르게 대할 순 있죠.
 
-062. HAL: I like her, because she talks like my grandmother.
+062. HAL: I like her. She talks like my grandmother.
     할: 이 사람 마음에 드네. 우리 할머니처럼 말해.
 
 063. WEN: Thank you, I think, and since I never met your grandmother, I'll take it as a compliment.
@@ -207,7 +207,7 @@
 064. SOFIA: What about water, since our current motor is rated for splashing, not for sitting in a puddle?
     소피아: 물은요? 지금 모터는 물 튀는 정도까지만 견디고 웅덩이에 잠기는 건 안 돼요.
 
-065. WEN: We'd seal it to the standard for full submersion, one meter of water for thirty minutes, which our drone motors already pass in fog, rain, mud, and creek crossings.
+065. WEN: We'd seal it to the standard for full submersion, which is one meter of water for thirty minutes. Our drone motors already pass that, in fog, rain, mud, and creek crossings.
     웬: 수심 1미터에서 30분, 완전 침수 기준으로 밀봉할 거예요. 우리 드론 모터는 안개, 비, 진흙, 개울 건너기까지 이미 그걸 통과해요.
 
 066. TYLER: Those are the Army ones, which fly in places worse than this.
@@ -222,10 +222,10 @@
 069. JO: Rugged and stubborn, like my uncle.
     조: 튼튼하고 고집 세다. 우리 삼촌처럼.
 
-070. SOFIA: One more question about diagnostics, because our current motor's controller only talks to the supplier's software, so when it fails, we ship it to Ningbo for six weeks.
+070. SOFIA: One more question, about diagnostics. Our current motor's controller only talks to the supplier's software, so when it fails, we ship it to Ningbo for six weeks.
     소피아: 진단 관련해서 질문 하나 더요. 지금 모터 제어기는 공급사 소프트웨어하고만 통신해서, 고장 나면 닝보로 보내고 6주 걸려요.
 
-071. WEN: Ours has an open port, like every Ferrox motor since two weeks ago, with a standard plug, published codes, and a free app, so your service people can fix it and so can your farmers.
+071. WEN: Ours has an open port, like every Ferrox motor since two weeks ago. It has a standard plug, published codes, and a free app, so your service people can fix it, and so can your farmers.
     웬: 우리 건 열린 포트가 있어요. 2주 전부터 모든 페록스 모터가 표준 플러그, 공개 코드, 무료 앱을 갖췄으니 그쪽 서비스 직원도, 농부도 고칠 수 있어요.
 
 072. JO: Wait, seriously? I read something about that from a reporter in Iowa, so that was you?
@@ -237,13 +237,13 @@
 074. JO: Hal, did you hear that, an open port?
     조: 할 아저씨, 들었어요? 열린 포트래요.
 
-075. HAL: I heard, and I don't know what it is, but I heard "farmers can fix it," which is the first time anybody has said that to me since nineteen ninety.
+075. HAL: I heard, and I don't know what it is. But I heard "farmers can fix it," and nobody has said that to me since nineteen ninety.
     할: 들었어. 그게 뭔진 모르지만 "농부가 고칠 수 있다"는 건 들었지. 1990년 이후로 누가 나한테 그런 말 한 건 처음이야.
 
 076. SOFIA: Dr. Liu, how long would it take to build a prototype with two motors per tractor?
     소피아: 리우 박사님, 트랙터당 모터 두 개짜리 시제품 만드는 데 얼마나 걸려요?
 
-077. WEN: The traction motor shares a lot with our Atlas pump motor and our drone line, so with a new housing, new winding, and new firmware profile, it's eight weeks for the first pair.
+077. WEN: The traction motor shares a lot with our Atlas pump motor and our drone line. With a new housing, new winding, and new firmware profile, it's eight weeks for the first pair.
     웬: 구동 모터는 아틀라스 펌프 모터, 드론 라인이랑 공유하는 게 많아서, 하우징이랑 권선, 펌웨어 설정만 새로 하면 첫 한 쌍은 8주요.
 
 078. JO: Eight weeks is June. That's the middle of the season.
@@ -252,7 +252,7 @@
 079. SAM: Can we do something faster for a field test?
     샘: 현장 시험용으로 더 빨리 할 방법 있어요?
 
-080. WEN: For a field test, I can adapt a motor we already make in two weeks, which won't be perfect and will be heavier than it needs to be, and then the real prototype comes in eight.
+080. WEN: For a field test, I can adapt a motor we already make in two weeks. It won't be perfect, and it'll be heavier than it needs to be. Then the real prototype comes in eight.
     웬: 현장 시험용이면 이미 만드는 모터를 2주 만에 개조할 수 있어요. 완벽하지도 않고 필요 이상으로 무겁겠지만요. 진짜 시제품은 8주 뒤고요.
 
 081. JO: Two weeks means that by mid-April, one of my tractors has a Ferrox motor in it.
@@ -270,13 +270,13 @@
 085. JO: Would he let a startup tractor on his farm during planting? That's a big ask.
     조: 파종철에 스타트업 트랙터를 자기 농장에 들여 줄까요? 그건 큰 부탁인데요.
 
-086. SAM: Let me call him, because he always picks up on the second ring.
+086. SAM: Let me call him. He always picks up on the second ring.
     샘: 전화해 볼게요. 그분은 항상 두 번째 벨에 받아요.
 
 087. DALE: Sam, it's Thursday, so shouldn't you be in a meeting about money?
     데일: 샘, 목요일인데 돈 얘기하는 회의에 있어야 하는 거 아니에요?
 
-088. SAM: I'm in Michigan with an electric tractor, Dale, so would you test one on your farm during planting? It'd do chores, not the big planter, like hauling seed, running a pump, and moving things around the yard.
+088. SAM: I'm in Michigan with an electric tractor, Dale. Would you test one on your farm during planting? It'd do chores, not the big planter, like hauling seed, running a pump, and moving things around the yard.
     샘: 미시간에서 전기 트랙터랑 있어요. 데일, 파종철에 농장에서 한 대 시험해 주실래요? 큰 파종기 말고 씨앗 나르기, 펌프 돌리기, 마당에서 물건 옮기기 같은 잡일이요.
 
 089. DALE: An electric tractor, on my farm?
@@ -291,13 +291,13 @@
 092. SAM: You can fix it.
     샘: 고칠 수 있어요.
 
-093. DALE: Then send it, because Ruth says the bank said no new equipment, but she says a test isn't new equipment, it's a guest.
+093. DALE: Then send it. Ruth says the bank said no new equipment, but she says a test isn't new equipment, it's a guest.
     데일: 그럼 보내요. 루스가 은행이 새 장비는 안 된다고 했지만, 시험은 새 장비가 아니라 손님이래요.
 
 094. JO: I love this woman already.
     조: 그분 벌써 좋아요.
 
-095. DALE: Everybody does, so send it by the eighteenth, and I'll make room next to Marge.
+095. DALE: Everybody does. Send it by the eighteenth, and I'll make room next to Marge.
     데일: 다들 그래요. 18일까지 보내면 마지 옆에 자리 마련할게요.
 
 096. JO: Okay, now comes the hard part, which is money.
@@ -315,7 +315,7 @@
 100. TYLER: Our ballpark for production is twenty-six hundred.
     타일러: 저희 양산 대략 가격은 2,600달러예요.
 
-101. JO: Ballpark? In plain English, Tyler, that's seven hundred dollars more per motor, and with two motors per tractor that's fourteen hundred more per tractor, so my investors will have a heart attack again.
+101. JO: Ballpark? In plain English, Tyler, that's seven hundred dollars more per motor. With two motors per tractor, that's fourteen hundred more per tractor, and my investors will have a heart attack again.
     조: 대략이요? 쉬운 말로 하면, 타일러, 모터당 700달러 더 비싸고, 트랙터당 두 개니까 한 대에 1,400달러 더라는 거잖아요. 투자자들 또 심장마비 와요.
 
 102. TYLER: What would your investors survive?
@@ -330,34 +330,34 @@
 105. JO: Then when, so give me a date I can show my investors.
     조: 그럼 언제요? 투자자들한테 보여 줄 날짜를 줘요.
 
-106. SAM: At volume, because if you build a thousand tractors a year, our cost drops, which is the same story as every motor we make.
+106. SAM: At volume. If you build a thousand tractors a year, our cost drops, and that's the same story as every motor we make.
     샘: 물량이 되면요. 1년에 트랙터 천 대를 만들면 원가가 떨어져요. 우리가 만드는 모든 모터가 그랬어요.
 
 107. JO: A thousand tractors, when I've built eight.
     조: 천 대요? 전 여덟 대 만들었는데.
 
-108. SAM: We built six hundred motors a month when Nina found us, and now we build twelve hundred drone motors a month on one line alone, so you start somewhere.
+108. SAM: We built six hundred motors a month when Nina found us. Now we build twelve hundred drone motors a month on one line alone. You start somewhere.
     샘: 니나가 우릴 찾았을 땐 한 달에 모터 육백 개 만들었는데, 지금은 드론 라인 하나에서만 한 달에 천이백 개 만들어요. 어디선가 시작하는 거죠.
 
-109. GLORIA: Sam, am I on speaker so everybody can hear me? Good, so Jo, this is Gloria Banks, the CFO, and I'm going to say a few numbers, and nobody's going to have a heart attack.
+109. GLORIA: Sam, am I on speaker? Can everybody hear me? Good. Jo, this is Gloria Banks, the CFO, and I'm going to say a few numbers, and nobody's going to have a heart attack.
     글로리아: 샘, 나 스피커야? 다 들려? 좋아. 조, 난 CFO 글로리아 뱅크스예요. 숫자 몇 개 말할 건데, 아무도 심장마비 안 올 거예요.
 
-110. JO: Okay, go ahead, because I'm sitting down and Hal's holding my coffee.
+110. JO: Okay, go ahead. I'm sitting down, and Hal's holding my coffee.
     조: 좋아요, 말씀하세요. 앉아 있고, 할 아저씨가 커피 들고 있어요.
 
-111. GLORIA: There are two steps, and step one is the prototype, which is twenty motors for ten tractors at twenty-nine hundred each, because prototypes are expensive, plus a hundred and twenty thousand in NRE.
+111. GLORIA: There are two steps, and step one is the prototype. That's twenty motors for ten tractors at twenty-nine hundred each, because prototypes are expensive, plus a hundred and twenty thousand in NRE.
     글로리아: 두 단계예요. 1단계는 시제품이고, 트랙터 열 대용 모터 스무 개를 개당 2,900달러에 해요. 시제품은 비싸니까요. 거기에 NRE 12만 달러가 붙어요.
 
 112. TYLER: NRE, is that another one of those letters I'm supposed to know?
     타일러: NRE요? 제가 알아야 하는 또 다른 약자예요?
 
-113. GLORIA: It's non-recurring engineering, which in plain English is the one-time cost of designing something new, like Wen's time, the tooling, and the testing, so you pay it once and never again.
+113. GLORIA: It's non-recurring engineering. In plain English, it's the one-time cost of designing something new, like Wen's time, the tooling, and the testing. You pay it once and never again.
     글로리아: 비반복 엔지니어링 비용이에요. 쉬운 말로 하면 웬의 시간, 금형, 시험처럼 새걸 설계하는 데 드는 일회성 비용이라, 한 번 내면 다시는 안 내요.
 
 114. JO: So the prototype stage is about a hundred and seventy-eight thousand.
     조: 그럼 시제품 단계가 17만 8천 달러쯤이네요.
 
-115. GLORIA: A hundred and seventy-eight thousand, half up front and half on delivery, and step two is production, where if the field test works, it's twenty-two fifty per motor at a thousand tractors a year, not twenty-six or twenty-one, but twenty-two fifty.
+115. GLORIA: A hundred and seventy-eight thousand, half up front and half on delivery. Step two is production. If the field test works, it's twenty-two fifty per motor at a thousand tractors a year, not twenty-six or twenty-one, but twenty-two fifty.
     글로리아: 17만 8천 달러, 절반 선금, 절반 납품 때. 2단계는 양산인데, 현장 시험이 잘되면 연 트랙터 천 대 기준 모터당 2,250달러예요. 2,600도 2,100도 아니고 2,250.
 
 116. JO: Twenty-two fifty is a hundred and fifty more than my number.
@@ -375,10 +375,10 @@
 120. HAL: I am on your side. I want your tractor to make it up my hill.
     할: 네 편이야. 네 트랙터가 내 언덕을 올라갔으면 좋겠다니까.
 
-121. JO: Gloria, can I ask for one thing? I want the open port in the contract, in writing, so if Ferrox ever gets bought by a big company, nobody can lock my farmers out.
+121. JO: Gloria, can I ask for one thing? I want the open port in the contract, in writing. That way, if Ferrox ever gets bought by a big company, nobody can lock my farmers out.
     조: 글로리아, 하나만 요청해도 될까요? 열린 포트를 계약서에 서면으로 넣고 싶어요. 나중에 페록스가 대기업에 팔려도 아무도 제 농부들을 잠가 버릴 수 없게요.
 
-122. SAM: Done, so put it in, because Ferrox isn't for sale, but put it in anyway.
+122. SAM: Done, put it in. Ferrox isn't for sale, but put it in anyway.
     샘: 좋아요, 넣으세요. 페록스는 매물이 아니지만 그래도 넣으세요.
 
 123. GLORIA: I'll have Ben write it tonight. He'll complain, but he'll write it.
@@ -390,19 +390,19 @@
 125. GLORIA: It's a prototype deal, so don't let Sam promise you anything else.
     글로리아: 시제품 거래예요. 샘이 다른 거 약속하게 두지 마요.
 
-126. JO: Sign it here on the hood, because that's how we sign things at Furrow.
+126. JO: Sign it here, on the hood. That's how we sign things at Furrow.
     조: 여기 보닛 위에 서명해요. 퍼로에선 이렇게 서명하거든요.
 
 127. SAM: On the hood of a tractor, with the sun going down behind a cherry orchard.
     샘: 체리 과수원 뒤로 해가 지는데 트랙터 보닛 위에서라니.
 
-128. TYLER: Somebody take a picture, because this is a brochure.
+128. TYLER: Somebody take a picture. This is a brochure.
     타일러: 누가 사진 좀 찍어요. 이거 안내 책자감이에요.
 
 129. HAL: My grandfather planted these trees with a horse in nineteen twenty-six, and I'm going to tell him at the cemetery that we're finally getting rid of the diesel.
     할: 우리 할아버지가 1926년에 말로 이 나무들을 심었어. 묘지 가서 드디어 디젤 치운다고 말씀드려야겠다.
 
-130. JO: Not yet, Hal, because the test comes first, and then you can tell him anything you want.
+130. JO: Not yet, Hal. The test comes first, and then you can tell him anything you want.
     조: 아직 아니에요, 할 아저씨. 시험이 먼저고, 그다음에 뭐든 말씀드리세요.
 
 131. HAL: First the test, and then the cemetery.
@@ -420,13 +420,13 @@
 135. JO: Everybody's dad would like my dad. He's dead, but they would.
     조: 다들 우리 아빠를 좋아할 거예요. 돌아가셨지만, 그래도요.
 
-136. SAM: I'm sorry, Jo, because he sounds like a man who would've liked Betsy.
+136. SAM: I'm sorry, Jo. He sounds like a man who would've liked Betsy.
     샘: 유감이에요, 조. 베치를 좋아하셨을 분 같네요.
 
-137. JO: Don't be, because he'd be happy about today, since he hated Ningbo, not the people, but the waiting.
+137. JO: Don't be. He'd be happy about today, because he hated Ningbo, not the people, but the waiting.
     조: 그러지 마요. 오늘 일을 기뻐하셨을 거예요. 닝보를, 사람들 말고 기다리는 걸 싫어했거든요.
 
-138. TYLER: Sam, quick update, because Patty says the four test motors for Hank's spraying drones shipped to Nebraska this morning, on time.
+138. TYLER: Sam, quick update. Patty says the four test motors for Hank's spraying drones shipped to Nebraska this morning, on time.
     타일러: 샘, 짧게 보고요. 패티 말로는 행크 방제 드론용 시험 모터 네 개가 오늘 아침 네브래스카로 제때 출하됐대요.
 
 139. SAM: That's April, like I promised.

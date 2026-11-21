@@ -21,7 +21,7 @@
 002. GLORIA: Good morning, Mr. Pruitt, I'm Gloria Banks, the CFO. Come in out of the snow. Can I take your coat?
     글로리아: 안녕하세요, 프루잇 씨. CFO 글로리아 뱅크스예요. 눈 맞지 말고 들어오세요. 코트 받아 드릴까요?
 
-003. PRUITT: No, thank you, I'll keep it. I keep everything.
+003. PRUITT: No, thank you, I'll keep it, since I keep everything.
     프루잇: 아니요, 괜찮습니다. 제가 들고 있겠습니다. 저는 모든 걸 보관합니다.
 
 004. GLORIA: Pruitt, hm, any relation to Doug Prewitt at Miami Valley Savings, who's our banker?
@@ -63,7 +63,7 @@
 016. GLORIA: We have a timekeeping practice. People write their hours on a paper sheet every Friday, and Earl yells at them if they forget.
     글로리아: 근태 기록 관행은 있어요. 다들 매주 금요일에 종이에 시간을 적고, 까먹으면 얼이 소리 지르죠.
 
-017. PRUITT: A practice is not a policy. I'll make a note.
+017. PRUITT: A practice is not a policy, and I'll make a note of that.
     프루잇: 관행은 정책이 아닙니다. 기록해 두겠습니다.
 
 018. SAM: Does that count against us already, at eight oh two?
@@ -84,7 +84,7 @@
 023. PRUITT: Then I look forward to working with you, Ms. Banks.
     프루잇: 그럼 함께 일하게 되어 기대됩니다, 뱅크스 씨.
 
-024. SAM: Is that a joke? Because I can't tell.
+024. SAM: Is that a joke? I honestly can't tell with you.
     샘: 그거 농담이에요? 분간이 안 되네요.
 
 025. PRUITT: I told you, I don't have a sense of humor.
@@ -96,7 +96,7 @@
 027. PRUITT: You mean the cybersecurity requirements. I read your self-assessment, and it was minus forty-seven.
     프루잇: 사이버보안 요건 말씀이군요. 자체 평가 읽었습니다. 마이너스 47이었죠.
 
-028. GLORIA: It's sixty-two now. We're climbing.
+028. GLORIA: It's sixty-two now, and we're climbing.
     글로리아: 지금은 62예요. 올라가는 중이에요.
 
 029. PRUITT: That's not my department, but I noticed.
@@ -117,7 +117,7 @@
 034. SAM: What don't they pay for, when I thought the Army paid for everything?
     샘: 육군이 안 내는 게 뭔데요? 다 내는 줄 알았는데.
 
-035. GLORIA: Lots of things, like alcohol, parties, most entertainment, and lobbying. And, baby, here's the big one. The cost of suing someone.
+035. GLORIA: Lots of things, like alcohol, parties, most entertainment, and lobbying. And, baby, here's the big one, the cost of suing someone.
     글로리아: 많지. 술, 파티, 접대 대부분, 로비. 그리고, 얘, 제일 큰 거. 누굴 고소하는 비용.
 
 036. SAM: You mean the Calloway lawsuit?
@@ -156,7 +156,7 @@
 047. GLORIA: The indirect rate is how you share those common costs fairly. If the Army is twenty percent of our work, the Army pays about twenty percent of the rent, not fifty and not five.
     글로리아: 간접비율은 그 공통 비용을 공평하게 나누는 방법이에요. 육군이 우리 일의 20퍼센트면, 월세도 20퍼센트쯤 내는 거죠. 50도 5도 아니고요.
 
-048. PRUITT: Very good. Now show me your indirect rate.
+048. PRUITT: Very good, now show me your indirect rate.
     프루잇: 아주 좋습니다. 이제 귀사의 간접비율을 보여 주십시오.
 
 049. GLORIA: It's in binder six, with overhead at forty-one percent and general and administrative at eighteen percent.
@@ -198,7 +198,7 @@
 061. GLORIA: On the day we filed, August nineteenth. I knew someday a man like you would walk in here.
     글로리아: 소송 낸 날, 8월 19일에요. 언젠가 당신 같은 사람이 여기 들어올 줄 알았거든요.
 
-062. PRUITT: That's unusual. Most small companies mix everything together. I'm going to look at every entry anyway.
+062. PRUITT: That's unusual, since most small companies mix everything together. I'm going to look at every entry anyway.
     프루잇: 드문 일입니다. 작은 회사 대부분은 다 섞어 놓거든요. 그래도 항목마다 다 보겠습니다.
 
 063. GLORIA: I'd be disappointed if you didn't.
@@ -231,7 +231,7 @@
 072. EARL: Because I was there, and I'm always there.
     얼: 내가 거기 있었으니까. 난 늘 거기 있어.
 
-073. PRUITT: Mr. Washington, I believe you. But the government can't pay based on what you remember. If it's not written down by the employee, every day, by job, it didn't happen.
+073. PRUITT: Mr. Washington, I believe you, but the government can't pay based on what you remember. If it's not written down by the employee, every day, by job, it didn't happen.
     프루잇: 워싱턴 씨, 믿습니다. 하지만 정부는 기억으로 돈을 낼 수 없습니다. 직원이 매일, 작업별로 적지 않았다면 없었던 일입니다.
 
 074. EARL: You sound just like that Linda lady.
@@ -243,7 +243,7 @@
 076. GLORIA: Patty, come in. Mr. Pruitt, this is Patty, who does materials and logistics.
     글로리아: 패티, 들어와. 프루잇 씨, 이쪽은 자재랑 물류 맡은 패티예요.
 
-077. PATTY: Hi. Gloria said to bring my notebook, but I don't know why. It's just my notebook.
+077. PATTY: Hi. Gloria said to bring my notebook, but I don't know why, it's just my notebook.
     패티: 안녕하세요. 글로리아가 공책 가져오라고 했는데, 왜인지 모르겠어요. 그냥 제 공책인데.
 
 078. PRUITT: May I see it? I promise I'll give it back.
@@ -255,7 +255,7 @@
 080. PRUITT: "December third. Seven to nine thirty, receiving, copper for drone job. Nine thirty to noon, Haverford shipping. One to four, drone fixtures with Earl." This is every day?
     프루잇: "12월 3일. 7시~9시 반, 입고, 드론 건 구리. 9시 반~12시, 해버퍼드 출하. 1시~4시, 얼과 드론 지그." 이게 매일입니까?
 
-081. PATTY: Every day since December ninth, 2024. That was my first day here.
+081. PATTY: Every day since December ninth, 2024, my first day here.
     패티: 2024년 12월 9일부터 매일이요. 여기 첫 출근한 날이에요.
 
 082. PRUITT: Ms. Banks, this woman's notebook is the best timekeeping record in this building.
@@ -276,13 +276,13 @@
 087. PRUITT: Next is this receipt from Lou's Diner, November twenty-seventh, eight hundred and forty dollars. Which account is it in?
     프루잇: 다음, 이 영수증입니다. 루스 다이너, 11월 27일, 840달러. 어느 계정입니까?
 
-088. GLORIA: That's Thanksgiving. It was an employee event, in G and A, and it's not charged to the Army.
+088. GLORIA: That's Thanksgiving, an employee event in G and A, and it's not charged to the Army.
     글로리아: 그건 추수감사절이에요. 직원 행사로 일반관리비에 넣었고, 육군엔 청구 안 했어요.
 
 089. PRUITT: Employee morale events can be allowable, within limits, but was there alcohol?
     프루잇: 직원 사기 진작 행사는 한도 내에서 허용될 수 있습니다. 술이 있었습니까?
 
-090. GLORIA: Earl brought a bottle and paid for it himself. It's not on the receipt.
+090. GLORIA: Earl brought a bottle and paid for it himself, so it's not on the receipt.
     글로리아: 얼이 한 병 가져왔는데, 자기 돈으로 샀어요. 영수증엔 없어요.
 
 091. EARL: It was a very small bottle.
@@ -294,13 +294,13 @@
 093. PRUITT: And then there's this one, "Pizza. Twelve large. Second shift, drone prototype, December fourth," which was charged to the Army job.
     프루잇: 그리고 이것. "피자. 라지 12판. 2교대, 드론 시제품, 12월 4일." 육군 작업에 청구됐군요.
 
-094. GLORIA: That one was Tyler. He did the expense report.
+094. GLORIA: That one was Tyler, he did the expense report.
     글로리아: 그건 타일러예요. 경비 보고서를 걔가 썼어요.
 
 095. PRUITT: Then I'd like to speak to Tyler, please. Now, if possible.
     프루잇: 그럼 타일러 씨와 얘기하고 싶습니다. 가능하면 지금요.
 
-096. TYLER: Before you say anything, Gloria, I know it's the pizza. I panicked. It was for the drone team, so I thought it was a drone cost.
+096. TYLER: Before you say anything, Gloria, I know it's the pizza. I panicked, and since it was for the drone team, I thought it was a drone cost.
     타일러: 아무 말 하기 전에요, 글로리아, 알아요. 피자죠. 당황했어요. 드론 팀 거라서 드론 비용인 줄 알았어요.
 
 097. GLORIA: Baby, pizza is never a drone cost.
@@ -351,7 +351,7 @@
 112. SAM: So what happens now, do we lose the contract?
     샘: 그럼 이제 어떻게 돼요? 계약을 잃어요?
 
-113. PRUITT: I'll send my report to Ms. Farrow by Friday. My recommendation will be that the Army withhold payment on the first milestone until you fix items one and two. That's standard.
+113. PRUITT: I'll send my report to Ms. Farrow by Friday. My recommendation will be that the Army withhold payment on the first milestone until you fix items one and two, which is standard.
     프루잇: 금요일까지 패로 씨에게 보고서를 보내겠습니다. 첫째와 둘째를 고칠 때까지 1차 마일스톤 대금 지급을 보류하라고 권고할 겁니다. 표준 절차입니다.
 
 114. GLORIA: Withhold it? The first milestone is seven hundred thousand dollars. We deliver the first twenty motors to Halcyon on December nineteenth, and that money was supposed to arrive in January.
@@ -384,19 +384,19 @@
 123. PRUITT: It's a fact. In my job, that's the same thing.
     프루잇: 사실입니다. 제 일에선 같은 겁니다.
 
-124. SAM: Thank you, Mr. Pruitt, really. That was fair.
+124. SAM: Thank you, Mr. Pruitt, that was really fair.
     샘: 감사합니다, 프루잇 씨. 진심이에요. 공정했어요.
 
 125. PRUITT: Don't thank me, just fix number one. I'll be back on January sixth at eight o'clock, and I'll bring my own coffee.
     프루잇: 감사하지 마시고 첫째나 고치십시오. 1월 6일 여덟 시에 다시 오겠습니다. 커피는 제가 가져오겠습니다.
 
-126. GLORIA: I have a bottle of red wine in my bottom drawer that's been there since 2023. It was for an emergency.
+126. GLORIA: I have a bottle of red wine in my bottom drawer that's been there since 2023, for an emergency.
     글로리아: 맨 아래 서랍에 2023년부터 넣어 둔 레드 와인이 한 병 있어. 비상용이었지.
 
 127. SAM: Is this an emergency, Gloria?
     샘: 지금이 비상이에요, 글로리아?
 
-128. GLORIA: This is the definition of an emergency. Sit down, here are two paper cups. Don't tell Pruitt, it's an unallowable cost.
+128. GLORIA: This is the definition of an emergency, so sit down, here are two paper cups. Don't tell Pruitt, it's an unallowable cost.
     글로리아: 이게 바로 비상의 정의야. 앉아. 종이컵 두 개. 프루잇한텐 말하지 마. 불허 비용이니까.
 
 129. SAM: Gloria, I'm sorry. I knew the Army would be paperwork, but I didn't know it would be this much paperwork.
@@ -408,7 +408,7 @@
 131. SAM: You're not a bank anymore, you're a defense contractor.
     샘: 이제 은행이 아니잖아요. 방산 계약업체죠.
 
-132. GLORIA: Don't say that. It makes me sound like I sell missiles.
+132. GLORIA: Don't say that, it makes me sound like I sell missiles.
     글로리아: 그런 말 하지 마. 미사일 파는 사람 같잖아.
 
 133. SAM: We make motors, not missiles.
@@ -426,7 +426,7 @@
 137. SAM: Earl will hate it for two weeks, and then he'll be the one yelling at people who forget.
     샘: 형님은 2주 싫어할 거예요. 그다음엔 깜빡한 사람한테 소리 지르는 게 형님일걸요.
 
-138. GLORIA: That's true. That's exactly what happened with the safety glasses in 2018.
+138. GLORIA: That's true, that's exactly what happened with the safety glasses in 2018.
     글로리아: 맞아. 2018년 보안경 때 딱 그랬지.
 
 139. SAM: And the money, the seven hundred thousand, when do we actually see it?
@@ -447,7 +447,7 @@
 144. GLORIA: From Wyatt, who answered our seven questions and gave us until January to decide, "after the holidays, when everyone's heads are clear," he says.
     글로리아: 와이엇. 우리 질문 일곱 개에 답했고, 결정은 1월까지 하래. "연휴 지나고 다들 머리가 맑아졌을 때"라나.
 
-145. SAM: What did he say? Read me the important parts.
+145. SAM: Read me the important parts of what he said.
     샘: 뭐래요? 중요한 부분 읽어 줘요.
 
 146. GLORIA: Question one. Can the golden share be removed? "Not in the first ten years." Question two, the ESOP. "Case-by-case." Question three, a deadline for consent. "We don't anticipate unreasonable delays."

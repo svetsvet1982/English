@@ -15,7 +15,7 @@
 
 ## 대본
 
-001. TYLER: Is everybody's phone doing that, because mine won't stop buzzing?
+001. TYLER: Is everybody's phone doing that? Mine won't stop buzzing.
     타일러: 다들 폰 그래요? 제 거 진동이 안 멈춰요.
 
 002. PATTY: Mine too, and it's the stock market again, with "Wild swings at the open."
@@ -24,7 +24,7 @@
 003. EARL: Mine says my grandson wants money for a video game, but that's every Monday.
     얼: 내 건 손자가 게임 사게 돈 달래. 근데 그건 월요일마다 그래.
 
-004. SAM: Okay, everybody, phones down for five minutes and gather around Betsy, because I know it's been a crazy weekend.
+004. SAM: Okay, everybody, phones down for five minutes and gather around Betsy. I know it's been a crazy weekend.
     샘: 자, 다들 5분만 폰 내려놓고 베치 앞으로 모여. 정신없는 주말이었던 거 알아.
 
 005. GLORIA: Crazy is a nice word for it.
@@ -39,7 +39,7 @@
 008. PATTY: An export license, like a permission slip?
     패티: 수출 허가요? 무슨 허가증 같은 거요?
 
-009. WEN: Exactly like a permission slip, because a company has to apply and wait, and the official review time is forty-five working days, which is about two months, and they can say no.
+009. WEN: Exactly like a permission slip. A company has to apply and wait, and the official review time is forty-five working days, which is about two months. And they can say no.
     웬: 딱 허가증 같은 거예요. 회사가 신청하고 기다려야 하는데, 공식 심사 기간이 근무일 기준 45일, 두 달쯤이에요. 그리고 거절할 수도 있어요.
 
 010. DARNELL: Two months? What happens to the factories that need the magnets tomorrow?
@@ -51,7 +51,7 @@
 012. EARL: Dysprosium is the one you talked about in December, the one that makes the magnets work when they're hot.
     얼: 디스프로슘은 12월에 얘기했던 그거네요. 자석이 뜨거워져도 버티게 해 주는 거.
 
-013. WEN: That's the one, because almost every high-power motor in a car, a drone, or a wind turbine needs a little dysprosium or terbium, and almost all of it is processed in China.
+013. WEN: That's the one. Almost every high-power motor in a car, a drone, or a wind turbine needs a little dysprosium or terbium, and almost all of it is processed in China.
     웬: 그거예요. 자동차, 드론, 풍력 터빈에 들어가는 고출력 모터는 거의 다 디스프로슘이나 테르븀이 조금씩 필요한데, 그 거의 전부가 중국에서 정제돼요.
 
 014. TYLER: Dr. Liu, you called it in December, and nobody laughed, but nobody believed you either.
@@ -63,19 +63,19 @@
 016. EARL: She's going to say that for the rest of her life.
     얼: 저 말 평생 하시겠네.
 
-017. WEN: I'm going to say it today, and then I'll stop, because I'm not happy about it, since a lot of people will lose work because of this.
+017. WEN: I'm going to say it today, and then I'll stop. I'm not happy about it, because a lot of people will lose work because of this.
     웬: 오늘만 하고 그다음엔 그만할게요. 기쁘지 않아요. 이것 때문에 많은 사람이 일을 잃을 거니까요.
 
 018. GLORIA: And what does it mean for us?
     글로리아: 그럼 우리한텐 어떤데?
 
-019. WEN: For us, nothing changes, because we don't use a single gram of any of those seven. Our magnets are ferrite, iron oxide and strontium, which you can find almost anywhere on earth.
+019. WEN: For us, nothing changes. We don't use a single gram of any of those seven. Our magnets are ferrite, iron oxide and strontium, which you can find almost anywhere on earth.
     웬: 우리는 아무것도 안 바뀌어요. 그 일곱 개 중 어느 것도 1그램도 안 쓰거든요. 우리 자석은 페라이트, 산화철이랑 스트론튬이라 지구 거의 어디서든 구할 수 있어요.
 
 020. SAM: So on Friday we were a small motor company with ten weeks of cash, and on Monday we're the same company, but the world is different.
     샘: 그러니까 금요일엔 우리가 현금 10주치 있는 작은 모터 회사였고, 월요일인 오늘도 같은 회사야. 근데 세상이 달라졌지.
 
-021. TYLER: Sam, I'm sorry, but I have to say this, because I have forty-seven voicemails since Friday night, forty-seven, when I usually get four a week.
+021. TYLER: Sam, I'm sorry, but I have to say this. I have forty-seven voicemails since Friday night, forty-seven, when I usually get four a week.
     타일러: 샘, 죄송한데 이건 말해야겠어요. 금요일 밤부터 음성메시지가 마흔일곱 개예요, 마흔일곱. 보통은 일주일에 네 개 오는데요.
 
 022. SAM: Who are they all from?
@@ -93,7 +93,7 @@
 026. GLORIA: Now that's interesting.
     글로리아: 그거 흥미롭네.
 
-027. SAM: Okay, here's what we do. Earl, the floor runs exactly like normal, with Rivet, the bike shops, and every order on schedule, so nothing changes on the floor.
+027. SAM: Okay, here's what we do. Earl, the floor runs exactly like normal, with Rivet, the bike shops, and every order on schedule. Nothing changes on the floor.
     샘: 좋아, 이렇게 하자. 얼, 현장은 평소랑 똑같이 돌려요. 리벳, 자전거 가게들, 모든 주문 일정대로. 현장은 아무것도 안 바뀌어요.
 
 028. EARL: Copy that, as Tyler would say.
@@ -123,25 +123,25 @@
 036. SAM: How many motors do you need?
     샘: 모터가 몇 개 필요해요?
 
-037. MARISA: Normally forty thousand a year, but right now I'd take anything, because even five thousand would keep my best customers happy until this is over.
+037. MARISA: Normally forty thousand a year, but right now I'd take anything. Even five thousand would keep my best customers happy until this is over.
     마리사: 보통은 1년에 4만 개인데, 지금은 뭐든 받을게요. 5천 개만 있어도 이게 끝날 때까지 제일 중요한 고객들은 지킬 수 있어요.
 
 038. WEN: What size and what speed?
     웬: 크기랑 속도는요?
 
-039. MARISA: About one and a half horsepower, up to thirty-four hundred RPM, and a very wet environment, obviously, since it's a pool.
+039. MARISA: About one and a half horsepower, up to thirty-four hundred RPM. And it's a very wet environment, obviously, since it's a pool.
     마리사: 1.5마력쯤에 최대 3,400RPM이요. 수영장이니까 당연히 아주 습한 환경이고요.
 
-040. WEN: That's close to a motor I designed in 2021, so with a new housing and new seals, it's six weeks.
+040. WEN: That's close to a motor I designed in 2021. With a new housing and new seals, it's six weeks.
     웬: 제가 2021년에 설계한 모터랑 비슷해요. 하우징이랑 실링만 새로 하면 6주요.
 
 041. MARISA: Six weeks, okay, and what about the price?
     마리사: 6주, 좋아요. 가격은요?
 
-042. SAM: I don't know yet, because we're talking to a lot of people today, so can I call you back by Wednesday?
+042. SAM: I don't know yet. We're talking to a lot of people today, so can I call you back by Wednesday?
     샘: 아직 몰라요. 오늘 많은 분들이랑 얘기하고 있어서요. 수요일까지 다시 전화드려도 될까요?
 
-043. MARISA: Wednesday, okay. Mr. Kowalski, I'll be honest, I'll pay a deposit, fifty percent up front if that helps, because I just need to know I'm in line.
+043. MARISA: Wednesday, okay. Mr. Kowalski, I'll be honest, I'll pay a deposit, fifty percent up front if that helps. I just need to know I'm in line.
     마리사: 수요일, 좋아요. 코왈스키 씨, 솔직하게 말할게요. 도움이 된다면 계약금 50퍼센트 선불로 낼게요. 그냥 제가 줄 서 있다는 것만 알고 싶어요.
 
 044. GLORIA: Did she just say fifty percent up front?
@@ -162,31 +162,31 @@
 049. TYLER: Line two is a power tool company that makes cordless drills and saws, and it's their sourcing manager.
     타일러: 2번은 무선 드릴이랑 톱 만드는 전동공구 회사예요. 소싱 매니저래요.
 
-050. RON: Mr. Kowalski, I'm Ron Pratt, and I'll be quick, because we need small, high-speed motors, about a million a year, and our supplier's in China, so we want a backup, yesterday.
+050. RON: Mr. Kowalski, I'm Ron Pratt, and I'll be quick. We need small, high-speed motors, about a million a year, and our supplier's in China. We want a backup, yesterday.
     론: 코왈스키 씨, 론 프랫입니다. 빨리 말할게요. 저희는 작은 고속 모터가 1년에 백만 개쯤 필요한데, 공급사가 중국이라 대비책이 필요해요. 어제부터요.
 
 051. SAM: A million a year? Ron, we make thirty thousand motors a year, total, across all products.
     샘: 1년에 백만 개요? 론, 우린 모든 제품 다 합쳐서 1년에 모터 3만 개 만들어요.
 
-052. RON: Thirty thousand? Oh, I thought you were bigger, because everybody on LinkedIn is talking about you this weekend.
+052. RON: Thirty thousand? Oh, I thought you were bigger. Everybody on LinkedIn is talking about you this weekend.
     론: 3만 개요? 아, 더 큰 줄 알았어요. 주말 내내 링크드인에서 다들 그쪽 얘기를 하던데요.
 
 053. SAM: We're thirty-six people in Moraine, Ohio.
     샘: 우린 오하이오 모레인에 있는 서른여섯 명이에요.
 
-054. RON: Huh, okay, so can you license the design and let someone else build it, since we have factories in Mexico?
+054. RON: Huh, okay. Can you license the design and let someone else build it? We have factories in Mexico.
     론: 허, 알겠어요. 그럼 설계를 라이선스로 줘서 다른 데서 만들게 할 수 있어요? 저희는 멕시코에 공장이 있거든요.
 
 055. WEN: No, absolutely not.
     웬: 안 돼요, 절대로요.
 
-056. SAM: Not right now, Ron, but I'll keep your number, because things are changing fast.
+056. SAM: Not right now, Ron, but I'll keep your number. Things are changing fast.
     샘: 지금은 안 돼요, 론. 근데 번호는 저장해 둘게요. 상황이 빨리 바뀌고 있으니까요.
 
 057. RON: Honestly, once China gives out licenses, we'll probably go back, because it's cheaper.
     론: 솔직히, 중국이 허가를 내주면 아마 다시 돌아갈 거예요. 더 싸니까요.
 
-058. SAM: I appreciate the honesty, because most people wouldn't say that.
+058. SAM: I appreciate the honesty. Most people wouldn't say that.
     샘: 솔직하게 말씀해 주셔서 고마워요. 대부분은 그런 말 안 할 텐데.
 
 059. WEN: Sam, why did you say "not right now" about the license, when I said no?
@@ -204,16 +204,16 @@
 063. TYLER: Line three is Nina, and she says she'll hold.
     타일러: 3번은 니나예요. 기다린대요.
 
-064. SAM: Nina, I'm sorry, it's crazy here, so how are you?
+064. SAM: Nina, I'm sorry, it's crazy here. How are you?
     샘: 니나, 미안해요, 여기 정신없어요. 어떻게 지내요?
 
-065. NINA: Sam, I'm calling for two reasons. First, the five thousand motors are amazing, because my riders love them, and Mateo says his hills feel flat.
+065. NINA: Sam, I'm calling for two reasons. First, the five thousand motors are amazing. My riders love them, and Mateo says his hills feel flat.
     니나: 샘, 두 가지 때문에 전화했어요. 첫째, 모터 5천 개 정말 최고예요. 라이더들이 다 좋아하고, 마테오는 언덕이 평지 같대요.
 
 066. SAM: Tell Mateo thank you, and what's the second reason?
     샘: 마테오한테 고맙다고 전해 줘요. 두 번째는요?
 
-067. NINA: Every cheap e-bike brand in Brooklyn uses Chinese motors with rare-earth magnets, and as of Friday they're all panicking, so my investors want five thousand more motors for the summer, from you. Bryce said, "Thank God we kept Ohio."
+067. NINA: Every cheap e-bike brand in Brooklyn uses Chinese motors with rare-earth magnets, and as of Friday they're all panicking. So my investors want five thousand more motors for the summer, from you. Bryce said, "Thank God we kept Ohio."
     니나: 브루클린의 싼 전기자전거 브랜드는 다 희토류 자석 들어간 중국 모터를 쓰는데, 금요일부터 다들 공황이에요. 그래서 우리 투자자들이 여름용으로 당신 모터 5천 개를 더 원해요. 브라이스가 "오하이오 지켜서 다행이다"래요.
 
 068. SAM: Is that the same investor who wanted you to switch to the cheap ones in December?
@@ -222,7 +222,7 @@
 069. NINA: The same one, and he's very quiet about December now.
     니나: 그 사람이요. 요즘은 12월 얘기엔 아주 조용해요.
 
-070. SAM: Nina, you were first, before anybody, and you'll always be first, so send me the order, and I'll make it work.
+070. SAM: Nina, you were first, before anybody, and you'll always be first. Send me the order, and I'll make it work.
     샘: 니나, 당신이 누구보다 먼저였고, 늘 첫 번째예요. 주문 보내 주세요, 맞춰 볼게요.
 
 071. NINA: And Sam, cash is late, love is on time, but this time the cash is on time too, with a thirty percent deposit this week.
@@ -240,19 +240,19 @@
 075. SAM: I remember it well.
     샘: 잘 기억해요.
 
-076. KAYLA: It's today, because my boss asked me that question at seven fifteen this morning, and I gave him your name, in capital letters.
+076. KAYLA: It's today. My boss asked me that question at seven fifteen this morning, and I gave him your name, in capital letters.
     케일라: 오늘이에요. 의원님이 오늘 아침 일곱 시 15분에 그 질문을 하셔서, 그쪽 이름을 대문자로 드렸어요.
 
 077. SAM: And what happens now?
     샘: 그럼 이제 어떻게 되는데요?
 
-078. KAYLA: Right now, nothing official, because Washington is still figuring out what just hit it. But people are making lists, and you want to be on the right lists, so I'm putting you on them.
+078. KAYLA: Right now, nothing official. Washington is still figuring out what just hit it. But people are making lists, and you want to be on the right lists, so I'm putting you on them.
     케일라: 지금은 공식적인 건 없어요. 워싱턴은 아직 뭐에 맞았는지 파악 중이거든요. 근데 사람들이 명단을 만들고 있고, 맞는 명단에 올라가야 해요. 제가 올리고 있어요.
 
 079. SAM: What kind of lists are we talking about?
     샘: 어떤 명단 말이에요?
 
-080. KAYLA: Lists of companies that can help if this lasts, because defense people and car people are asking. Sam, I'll be honest, some of those calls are coming to your phone soon, so be careful who you say yes to.
+080. KAYLA: Lists of companies that can help if this lasts. Defense people and car people are both asking. Sam, I'll be honest, some of those calls are coming to your phone soon, so be careful who you say yes to.
     케일라: 이게 길어지면 도울 수 있는 회사 명단이요. 국방 쪽도, 자동차 쪽도 묻고 있어요. 샘, 솔직히 그 전화 중 일부가 곧 그쪽 폰으로 갈 거예요. 누구한테 '네'라고 할지 조심하세요.
 
 081. SAM: Why do I need to be careful?
@@ -267,22 +267,22 @@
 084. SAM: Take names, numbers, sizes, and quantities, and tell all of them we'll call back by Wednesday.
     샘: 이름, 번호, 크기, 수량 받아 두고, 전부 수요일까지 다시 연락한다고 해.
 
-085. TYLER: The drone guy says he can pay in cash today, because he has investors in Austin with "unlimited money."
+085. TYLER: The drone guy says he can pay in cash today. He has investors in Austin with "unlimited money."
     타일러: 드론 쪽 사람이 오늘 현금으로 낼 수 있대요. 오스틴에 '돈이 무한한' 투자자들이 있대요.
 
-086. GLORIA: Nobody has unlimited money, Tyler, so write him down and put a star next to his name, a small one.
+086. GLORIA: Nobody has unlimited money, Tyler. Write him down and put a star next to his name, a small one.
     글로리아: 무한한 돈 가진 사람은 없어, 타일러. 적어 두고 이름 옆에 별 하나 붙여. 작은 걸로.
 
 087. WEN: The Michigan people want motors for car seats and cooling pumps, small ones close to our bike motors, but they want three hundred thousand.
     웬: 미시간 쪽은 자동차 시트랑 냉각 펌프용으로 우리 자전거 모터랑 비슷한 작은 모터를 원해요. 근데 30만 개를 원해요.
 
-088. SAM: Three hundred thousand, so everybody wants ten times what we can make.
+088. SAM: Three hundred thousand. Everybody wants ten times what we can make.
     샘: 30만 개라. 다들 우리가 만들 수 있는 것의 열 배를 원하네요.
 
-089. GLORIA: Welcome to being popular, baby, which is a lot like being poor, because you still can't say yes to everybody.
+089. GLORIA: Welcome to being popular, baby. It's a lot like being poor, because you still can't say yes to everybody.
     글로리아: 인기 있는 세계에 온 걸 환영해, 얘. 가난한 거랑 아주 비슷해. 여전히 모두한테 '네'라고 할 순 없거든.
 
-090. SAM: Okay, everybody in the conference room at four o'clock, because we need to decide who we are.
+090. SAM: Okay, everybody in the conference room at four o'clock. We need to decide who we are.
     샘: 좋아요. 네 시에 전원 회의실로. 우리가 누군지 정해야 해요.
 
 091. TYLER: Okay, here's every call since Friday on the whiteboard, twenty-three real companies, and if we said yes to all of them, we'd need to make about two million motors a year.
@@ -294,7 +294,7 @@
 093. SAM: So we choose, and for the first time we choose our customers, but not by who's loudest.
     샘: 그러니까 골라야 해. 처음으로 우리가 고객을 고르는 거야. 제일 시끄러운 순서로는 말고.
 
-094. GLORIA: Then let me give you my rule: choose the ones who pay first, because Marisa offered fifty percent up front and Nina's paying thirty this week, and that's real money today.
+094. GLORIA: Then let me give you my rule: choose the ones who pay first. Marisa offered fifty percent up front, and Nina's paying thirty this week. That's real money, today.
     글로리아: 그럼 내 기준을 줄게. 먼저 돈 내는 사람을 골라. 마리사는 50퍼센트 선불을 제안했고, 니나는 이번 주에 30을 내. 그게 오늘 들어오는 진짜 돈이야.
 
 095. TYLER: And what about the drone guys, with unlimited money?
@@ -312,7 +312,7 @@
 099. SAM: And what about the car people, with three hundred thousand seat motors?
     샘: 그럼 시트 모터 30만 개 원하는 자동차 쪽은요?
 
-100. WEN: That's a bigger question, because car companies are slow, and they squeeze harder than Gary. But if the magnet shortage lasts, the car plants will stop, and then they'll be very, very fast.
+100. WEN: That's a bigger question. Car companies are slow, and they squeeze harder than Gary. But if the magnet shortage lasts, the car plants will stop, and then they'll be very, very fast.
     웬: 그건 더 큰 질문이에요. 자동차 회사는 느리고 개리보다 더 세게 쥐어짜요. 근데 자석 부족이 계속되면 자동차 공장이 멈출 테고, 그럼 아주아주 빨라지겠죠.
 
 101. TYLER: I can call them back and ask about their timeline.
@@ -321,7 +321,7 @@
 102. SAM: Do that, but Detroit isn't today's decision.
     샘: 그렇게 해. 근데 디트로이트는 오늘 결정할 문제가 아니야.
 
-103. GLORIA: And what about Haverford, since we haven't heard a word from Gary since Wednesday, not one word?
+103. GLORIA: And what about Haverford? We haven't heard a word from Gary since Wednesday, not one word.
     글로리아: 그리고 해버퍼드는? 수요일 이후로 개리한테서 단 한마디도 없잖아.
 
 104. SAM: I know, and I'm not calling him.
@@ -330,7 +330,7 @@
 105. TYLER: Why not, when his Chinese magnets just got cut off and Calloway's motor uses the same magnets? Gary must be panicking.
     타일러: 왜요? 개리네 중국 자석이 방금 끊겼고, 캘러웨이 모터도 같은 자석을 쓰잖아요. 개리 지금 패닉일 텐데요.
 
-106. SAM: He probably is, and that's why I'm not calling, because I told him on Wednesday, "You have my number," and if I call him now, it looks like I'm dancing on his problem.
+106. SAM: He probably is, and that's why I'm not calling. I told him on Wednesday, "You have my number," and if I call him now, it looks like I'm dancing on his problem.
     샘: 아마 그렇겠지. 그래서 전화 안 하는 거야. 수요일에 "제 번호 있잖아요"라고 했는데, 지금 전화하면 남의 불행 위에서 춤추는 것처럼 보여.
 
 107. GLORIA: And if you wait, he comes to you, and when he comes to you, the conversation is different.
@@ -351,13 +351,13 @@
 112. SAM: Go ahead, Wen.
     샘: 해요, 웬.
 
-113. WEN: Everybody's rule is different, because Gloria wants cash, Earl wants loyalty, I want customers where our design matters, and Tyler wants everybody. But we haven't answered the real question: what are we actually best at?
+113. WEN: Everybody's rule is different. Gloria wants cash, Earl wants loyalty, I want customers where our design matters, and Tyler wants everybody. But we haven't answered the real question: what are we actually best at?
     웬: 다들 기준이 달라요. 글로리아는 현금, 얼은 의리, 저는 우리 설계가 의미 있는 고객, 타일러는 전부를 원해요. 근데 진짜 질문에는 답을 안 했어요. 우리가 진짜 제일 잘하는 게 뭐예요?
 
-114. TYLER: Motors, because we make motors.
+114. TYLER: Motors. We make motors.
     타일러: 모터요. 우린 모터 만들잖아요.
 
-115. WEN: Lots of companies make motors, bigger companies and cheaper companies, so what do we do that nobody else can do?
+115. WEN: Lots of companies make motors, bigger companies and cheaper companies. What do we do that nobody else can do?
     웬: 더 크고 더 싼 회사들도 모터는 많이 만들어요. 우리가 하는 것 중에 아무도 못 하는 게 뭐예요?
 
 116. EARL: We switch fast, from bike motor to washer motor on the same line in one day, when big companies take a month.
@@ -372,19 +372,19 @@
 119. SAM: And Lily said our motors don't get tired.
     샘: 그리고 릴리는 우리 모터가 안 지친다고 했죠.
 
-120. PATTY: Sorry to interrupt, because I'm just here to drop off the test sheets, but can I say something, after four months here?
+120. PATTY: Sorry to interrupt, I'm just here to drop off the test sheets. But can I say something, after four months here?
     패티: 끼어들어서 죄송해요. 시험 기록표만 갖다 놓으러 왔는데, 여기 온 지 넉 달 된 사람으로서 하나 말해도 될까요?
 
 121. SAM: Of course, Patty, go ahead.
     샘: 물론이죠, 패티. 말해요.
 
-122. PATTY: At my old job we moved boxes, and anybody could move boxes, which is why they replaced us with robots. Here, I can feel a bad bearing with my eyes closed, and that's not a box, so don't sell what's in our hands.
+122. PATTY: At my old job we moved boxes, and anybody could move boxes, which is why they replaced us with robots. Here, I can feel a bad bearing with my eyes closed. That's not a box, so don't sell what's in our hands.
     패티: 예전 직장에선 상자를 옮겼는데, 상자는 누구나 옮길 수 있어서 로봇으로 우릴 바꿨어요. 여기선 눈 감고도 불량 베어링을 느낄 수 있어요. 그건 상자가 아니에요. 우리 손에 있는 걸 팔지 마세요.
 
-123. WEN: Thank you, Patty, because that's what I was trying to say.
+123. WEN: Thank you, Patty. That's what I was trying to say.
     웬: 고마워요, 패티. 제가 하려던 말이 그거예요.
 
-124. SAM: Okay, here's today's decision. Nina's first, because she was first, and she stays first, and Marisa's pool pumps are second, because it fits our design, she pays up front, and she'll stay. Everyone else gets a polite "not yet."
+124. SAM: Okay, here's today's decision. Nina's first, because she was first, and she stays first. Marisa's pool pumps are second, because it fits our design, she pays up front, and she'll stay. Everyone else gets a polite "not yet."
     샘: 좋아요, 오늘의 결정이에요. 니나가 첫 번째. 처음이었고, 계속 처음이에요. 마리사의 수영장 펌프가 두 번째. 우리 설계에 맞고, 선불로 내고, 남을 사람이에요. 나머지는 전부 정중하게 "아직은요."
 
 125. GLORIA: And what about the washing machines?
@@ -399,10 +399,10 @@
 128. SAM: So are you, Wen.
     샘: 웬도 그렇잖아요.
 
-129. WEN: I'm checking the pool pump drawings from 2021, so what are you writing on the whiteboard?
+129. WEN: I'm checking the pool pump drawings from 2021. What are you writing on the whiteboard?
     웬: 2021년 수영장 펌프 도면 보고 있어요. 화이트보드에 뭐 써요?
 
-130. SAM: Just one question, because I want it to be the first thing I see every morning when I walk past Betsy.
+130. SAM: Just one question. I want it to be the first thing I see every morning when I walk past Betsy.
     샘: 질문 딱 하나요. 매일 아침 베치 옆을 지나갈 때 제일 먼저 보고 싶어서요.
 
 131. WEN: "What are we actually best at?" That's my question from this afternoon.
@@ -420,7 +420,7 @@
 135. WEN: After Kevin and after the steel, you want to trust other people with our design?
     웬: 케빈 일에 강판 일까지 있었는데, 다른 사람들한테 우리 설계를 맡기고 싶어요?
 
-136. SAM: Not today, and not with anybody I don't trust, maybe not for years. But Wen, think about it, because Calloway is trying to kill the patent since they think the design is everything, so what if they're right?
+136. SAM: Not today, and not with anybody I don't trust, maybe not for years. But Wen, think about it. Calloway is trying to kill the patent because they think the design is everything. What if they're right?
     샘: 오늘은 아니에요. 못 믿는 사람한텐 절대 아니고, 몇 년 동안 아닐 수도 있어요. 근데 웬, 생각해 봐요. 캘러웨이는 설계가 전부라고 생각해서 특허를 죽이려는 거잖아요. 그 사람들 말이 맞다면요?
 
 137. WEN: Then we protect it with everything we have.
@@ -435,7 +435,7 @@
 140. SAM: Lily said on Saturday that our motors don't get tired, and I want a company that doesn't get tired either, one that's still here when the magnets come back.
     샘: 토요일에 릴리가 우리 모터는 안 지친다고 했어요. 저도 안 지치는 회사, 자석이 돌아와도 여전히 여기 있는 회사를 원해요.
 
-141. WEN: The magnets will come back, maybe in months, maybe in a year, because politics always finds a deal. Physics doesn't negotiate, but politicians do.
+141. WEN: The magnets will come back, maybe in months, maybe in a year. Politics always finds a deal. Physics doesn't negotiate, but politicians do.
     웬: 자석은 몇 달 뒤든 1년 뒤든 돌아올 거예요. 정치는 늘 거래를 찾거든요. 물리학은 협상 안 하지만, 정치인은 하죠.
 
 142. SAM: When that day comes, I don't want to be the company that was only lucky.

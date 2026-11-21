@@ -63,7 +63,7 @@
 016. SAM: And do you actually have a hole, Ben?
     샘: 그래서 진짜 구멍 찾았어, 벤?
 
-017. BEN: I have two, Exhibit forty-one and Exhibit forty-two. Don't look at the folder, she's coming in.
+017. BEN: I have two of them, Exhibit forty-one and Exhibit forty-two. Don't look at the folder, she's coming in.
     벤: 두 개 있어. 증거물 41번이랑 42번. 폴더 쳐다보지 마. 그 사람 들어온다.
 
 018. VICTORIA: Good morning, Mr. Adler, and good morning to you too, Sam.
@@ -72,10 +72,10 @@
 019. SAM: Good morning, Victoria, and it's been a while since the coffee.
     샘: 좋은 아침이에요, 빅토리아. 그 커피 이후로 오랜만이네요.
 
-020. VICTORIA: You look tired. Is that the heat or the lawsuit?
+020. VICTORIA: You look tired, Sam. Is that the heat or the lawsuit?
     빅토리아: 피곤해 보이네요. 더위 때문이에요, 소송 때문이에요?
 
-021. SAM: It was a senior building in Columbus with forty-four air handlers. It was a long week.
+021. SAM: It was a senior building in Columbus with forty-four dead air handlers. It was a long week.
     샘: 콜럼버스 노인 주택에서 공조기 44대를 달았어요. 긴 한 주였죠.
 
 022. PELL: Ms. Lang, please don't speak with the other side. I'm Gordon Pell, for Calloway Dynamics and the witness, and good morning, Mr. Adler.
@@ -84,7 +84,7 @@
 023. BEN: Good morning, Mr. Pell, and that's a nice suit.
     벤: 안녕하세요, 펠 변호사님. 양복 멋지네요.
 
-024. PELL: Thank you. Shall we begin, then?
+024. PELL: Thank you. Shall we begin, now that everyone's here?
     펠: 감사합니다. 시작할까요?
 
 025. VIDEOGRAPHER: We're on the record. The time is nine-oh-two a.m. This is the videotaped deposition of Victoria Lang, in the matter before the U.S. International Trade Commission.
@@ -402,7 +402,7 @@
 129. SAM: Do you mean Kevin's name?
     샘: 케빈 이름 말이에요?
 
-130. VICTORIA: Kevin's was the first choice, but Kevin got a lawyer. So now they need a second choice. Mr. Pell is back. Enjoy the coffee.
+130. VICTORIA: Kevin's was the first choice, but Kevin got a lawyer, so now they need a second choice. Mr. Pell is back. Enjoy the coffee.
     빅토리아: 케빈이 첫 번째 선택이었죠. 근데 케빈이 변호사를 구했어요. 그러니 이제 두 번째 선택이 필요하죠. 펠 변호사 돌아왔네요. 커피 맛있게 드세요.
 
 131. VIDEOGRAPHER: We're back on the record at eleven-fifty-two a.m.
@@ -447,13 +447,13 @@
 144. SAM: No, we talked about coffee, and she said that when a company is cornered, it looks for a name.
     샘: 아뇨. 커피 얘기 했어요. 그리고 회사가 궁지에 몰리면 이름을 찾는다고 했어요.
 
-145. BEN: Then she knows whose name it might be. That's your phone. Who is it?
+145. BEN: Then she knows whose name it might be. Your phone's buzzing, so who is it?
     벤: 그럼 그게 누구 이름일지 알고 있는 거야. 너 전화 왔다. 누구야?
 
 146. MEGAN: Sam, it's Megan Cho, sorry to bother you. I'm hearing from two sources that Calloway put Martin Shaw on leave this afternoon. Do you have any comment?
     메건: 샘, 메건 조예요. 방해해서 미안해요. 두 군데서 캘러웨이가 오늘 오후 마틴 쇼를 휴직시켰다는 얘기를 듣고 있어요. 코멘트 있어요?
 
-147. SAM: No comment, Megan. You know I can't.
+147. SAM: No comment, Megan, and you know I can't give you one.
     샘: 노코멘트예요, 메건. 못 하는 거 알잖아요.
 
 148. MEGAN: I know, I had to ask. Off the record, how did it go today?
@@ -462,7 +462,7 @@
 149. SAM: Off the record, you'll have to ask Ben.
     샘: 비공식으로요? 벤한테 물어보세요.
 
-150. BEN: Tell her nothing. But between us, Sam, I've been waiting six years for a witness like Victoria Lang to do what she did today. She blinked.
+150. BEN: Tell her nothing. But between us, Sam, I've been waiting six years for a witness like Victoria Lang to do what she did today. She blinked first.
     벤: 아무 말도 하지 마. 근데 우리끼리 얘기지만, 샘, 빅토리아 랭 같은 증인이 오늘 같은 일을 하길 6년 동안 기다렸어. 그 사람이 먼저 흔들렸어.
 
 ---

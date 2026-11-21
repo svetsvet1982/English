@@ -108,7 +108,7 @@
 031. GARY: Okay, I'm going to be honest, because that's the only thing I have left. Can I tell you where we are?
     개리: 좋아요. 솔직하게 말할게요. 그게 저한테 남은 유일한 거라서요. 우리가 어떤 상황인지 말해도 될까요?
 
-032. SAM: Please, tell us everything, because we're listening.
+032. SAM: Please, tell us everything. We're listening.
     샘: 그러세요. 다 말해 줘요. 듣고 있어요.
 
 033. GARY: On April ninth, Washington paused most of the new tariffs, except the ones on China, which are now at a hundred forty-five percent.
@@ -258,7 +258,7 @@
 081. EARL: Page nineteen, the five hundred dollars for every returned motor, is changed. Every motor that comes back goes on Betsy with your engineer watching. If it's our fault, we pay for the motor and the labor, and if it's not, we don't.
     얼: 19쪽, 반품 모터당 500달러는 바꿨어. 돌아오는 모터는 전부 그쪽 엔지니어가 보는 앞에서 베치에 올려. 우리 잘못이면 모터랑 인건비 물고, 아니면 안 물고.
 
-082. GARY: A joint inspection is fine, because I said yes to that in February.
+082. GARY: A joint inspection is fine. I said yes to that in February.
     개리: 공동 검사는 좋아요. 그건 2월에도 수락했어요.
 
 083. EARL: And the line-stop penalty, fifteen thousand dollars an hour, is gone completely.
@@ -279,7 +279,7 @@
 088. GARY: Eight weeks is better than a penalty. A penalty gives me money, but safety stock gives me motors, and I need motors.
     개리: 8주면 벌금보다 낫네요. 벌금은 돈을 주지만 안전 재고는 모터를 주잖아요. 전 모터가 필요해요.
 
-089. GARY: Okay, now the hard one, page twenty-seven, because my CEO still wants the escrow.
+089. GARY: Okay, now the hard one, page twenty-seven. My CEO still wants the escrow.
     개리: 좋아요, 이제 어려운 거, 27쪽이요. CEO는 아직도 에스크로를 원해요.
 
 090. SAM: No.
@@ -447,7 +447,7 @@
 144. SAM: Atlas Motors, the car company?
     샘: 애틀러스 모터스요, 자동차 회사요?
 
-145. FRANK: That's right, the car company. Gary Holt gave me your number this afternoon, since we go back twenty years, and he says you're the only guy in Ohio who doesn't need magnets.
+145. FRANK: That's right, the car company. Gary Holt gave me your number this afternoon, because we go back twenty years. He says you're the only guy in Ohio who doesn't need magnets.
     프랭크: 맞아요, 자동차 회사요. 우리 20년 된 사이라 개리 홀트가 오늘 오후에 그쪽 번호를 줬어요. 오하이오에서 자석이 필요 없는 유일한 사람이 그쪽이라더군요.
 
 146. SAM: That's true. What can I do for you, Mr. DeLuca?
@@ -462,7 +462,7 @@
 149. FRANK: After four weeks, Mr. Kowalski, our plant is going to stop.
     프랭크: 4주 뒤엔, 코왈스키 씨, 우리 공장이 멈춥니다.
 
-150. SAM: Then I'll be in Detroit on Monday, so send me the drawings tonight. Erin, I'm sorry. Sunday dinner, I promise, but on Monday I'm going to Motor City.
+150. SAM: Then I'll be in Detroit on Monday. Send me the drawings tonight. Erin, I'm sorry. Sunday dinner, I promise, but on Monday I'm going to Motor City.
     샘: 그럼 월요일에 디트로이트로 갈게요. 도면은 오늘 밤에 보내 주세요. 에린, 미안해. 일요일 저녁은 약속해. 근데 월요일엔 모터 시티에 가.
 
 ---
