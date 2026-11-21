@@ -17,8 +17,8 @@
 001. YVONNE: Come in, but shoes off, please, because the carpet is the only new thing we own.
     이본: 들어오세요. 신발은 벗어 주세요. 이 카펫이 우리 집에서 유일하게 새 물건이라서요.
 
-002. DAN: Of course. I'm Dan Reardon, and this is my colleague, Aisha Bellamy.
-    댄: 물론이죠. 댄 레이든입니다. 이쪽은 제 동료 아이샤 벨라미고요.
+002. DAN: Of course, Mrs. Hayes. I'm Dan Reardon, and this is my colleague, Aisha Bellamy.
+    댄: 물론이죠, 헤이스 부인. 댄 레이든입니다. 이쪽은 제 동료 아이샤 벨라미고요.
 
 003. BRIANNA: I'm Brianna, and I'm the one who sent the video. Sorry I sent it to a stranger online, but I didn't know who else to send it to.
     브리아나: 전 브리아나예요. 영상 보낸 사람이요. 인터넷에서 모르는 사람한테 보내서 죄송해요. 누구한테 보내야 할지 몰랐어요.
@@ -143,8 +143,8 @@
 043. DAN: It probably does, but online a video becomes a thousand opinions, some from future jurors, so we use it in court first.
     댄: 아마 그렇겠지. 근데 인터넷에선 영상 하나가 천 개의 의견이 돼. 그중엔 나중에 배심원이 될 사람도 있고. 그러니까 법정에서 먼저 써야 해.
 
-044. DARNELL: Can I ask you something? Is my life over, like, will this be on my record? Because I want to go to Lehman next year, like my sister.
-    대널: 하나 물어봐도 돼요? 제 인생 끝난 거예요? 기록에 남아요? 저 내년에 누나처럼 리먼 가고 싶거든요.
+044. DARNELL: Mr. Reardon, can I ask you something? Is my life over, like, will this be on my record? Because I want to go to Lehman next year, like my sister.
+    대널: 레이든 씨, 하나 물어봐도 돼요? 제 인생 끝난 거예요? 기록에 남아요? 저 내년에 누나처럼 리먼 가고 싶거든요.
 
 045. DAN: I can't promise how this ends, because my boss won't let me, but we'll work on it every day, and your life is not over.
     댄: 이게 어떻게 끝날지는 약속 못 해. 상사가 못 하게 하거든. 근데 매일 매달릴 거야. 그리고 네 인생 안 끝났어.
@@ -419,8 +419,8 @@
 135. DAN: Hello? This is Dan Reardon. Who's calling this late?
     댄: 여보세요? 댄 레이든입니다. 이렇게 늦게 누구세요?
 
-136. DARNELL: It's Darnell, and I'm sorry, but my sister gave me your number. I can't sleep, because my eye hurts when I lie down.
-    대널: 대널이에요. 죄송해요, 누나가 번호 줬어요. 잠이 안 와요. 누우면 눈이 아파서요.
+136. DARNELL: Mr. Reardon? It's Darnell, and I'm sorry, but my sister gave me your number. I can't sleep, because my eye hurts when I lie down.
+    대널: 레이든 씨? 대널이에요. 죄송해요, 누나가 번호 줬어요. 잠이 안 와요. 누우면 눈이 아파서요.
 
 137. DAN: Don't be sorry, because my boss has a rule that every call gets returned, even at midnight.
     댄: 미안해하지 마. 우리 상사 규칙이 있거든. 모든 전화엔 답한다. 자정이라도.
@@ -461,8 +461,8 @@
 149. DAN: Put some ice on that eye, because a bag of frozen peas works, and call me tomorrow, any time.
     댄: 눈에 얼음 대. 냉동 완두콩 한 봉지면 돼. 그리고 내일 전화해. 아무 때나.
 
-150. DARNELL: We don't have peas, so I'll use the pizza dough I took home from Vinny's, because it's frozen. Good night, and thank you.
-    대널: 완두콩 없어요. 비니스에서 가져온 피자 반죽 쓸게요, 얼어 있거든요. 안녕히 주무세요, 고마워요.
+150. DARNELL: We don't have peas, so I'll use the pizza dough I took home from Vinny's, because it's frozen. Good night, Mr. Reardon.
+    대널: 완두콩 없어요. 비니스에서 가져온 피자 반죽 쓸게요, 얼어 있거든요. 안녕히 주무세요, 레이든 씨.
 
 ---
 
