@@ -50,14 +50,14 @@
 012. VICTORIA: We do, Your Honor. Victoria Ashford, Whitmore Crane, for petitioner. It's a consent order. Both sides have signed.
     빅토리아: 있습니다, 재판장님. 신청인 측 Whitmore Crane의 빅토리아 애시퍼드입니다. 합의 명령안입니다. 양측 모두 서명했습니다.
 
-013. ROSARIO: Whitmore Crane in my courtroom is a first, because I've been on this bench nine years. Counselor for the tenants?
-    로사리오: 휘트모어 크레인이 내 법정에. 이 자리 9년째인데 처음이네요. 세입자 측 변호사?
+013. ROSARIO: Whitmore Crane in my courtroom is a first, because I've been on this bench nine years. Mr. Reardon?
+    로사리오: 휘트모어 크레인이 내 법정에. 이 자리 9년째인데 처음이네요. 레이든 변호사?
 
-014. DAN: Daniel Reardon for the tenants' association and all thirty-one respondents, Your Honor. We've signed, and Gladys Moore is here for the association.
-    댄: 세입자 협회와 피고 서른한 명 전원을 대리하는 대니얼 레이든입니다, 재판장님. 서명했습니다. 협회 대표로 글래디스 무어 씨가 와 계십니다.
+014. DAN: Daniel Reardon for the tenants' association and all thirty-one respondents, Your Honor. We've signed, and Mrs. Moore is here for the association.
+    댄: 세입자 협회와 피고 서른한 명 전원을 대리하는 대니얼 레이든입니다, 재판장님. 서명했습니다. 협회 대표로 무어 부인이 와 계십니다.
 
-015. ROSARIO: Gladys Moore, I remember you, because you baked a pound cake for Judge Feinberg in 1994.
-    로사리오: 글래디스 무어. 기억나요. 1994년에 파인버그 판사한테 파운드케이크 구워 줬죠.
+015. ROSARIO: Mrs. Moore, I remember you, because you baked a pound cake for Judge Feinberg in 1994.
+    로사리오: 무어 부인. 기억나요. 1994년에 파인버그 판사한테 파운드케이크 구워 줬죠.
 
 016. GLADYS: She didn't eat it, Your Honor, because of ethics.
     글래디스: 그분 안 드셨어요, 재판장님. 윤리 때문에.
@@ -80,8 +80,8 @@
 022. VICTORIA: The abatement comes out of the money the tenants have been holding in escrow. The rest is released to the owner.
     빅토리아: 감면분은 세입자들이 에스크로로 보관해 온 돈에서 차감합니다. 나머지는 소유주에게 지급하고요.
 
-023. ROSARIO: Escrow means a protected account, held until the dispute is resolved. Gladys, do you understand that you'll get some of your rent back?
-    로사리오: 에스크로는 분쟁이 해결될 때까지 보관하는 보호 계좌예요. 글래디스, 임대료 일부를 돌려받는 거 이해하시죠?
+023. ROSARIO: Escrow means a protected account, held until the dispute is resolved. Mrs. Moore, do you understand that you'll get some of your rent back?
+    로사리오: 에스크로는 분쟁이 해결될 때까지 보관하는 보호 계좌예요. 무어 부인, 임대료 일부를 돌려받는 거 이해하시죠?
 
 024. GLADYS: I understand, Your Honor. I've been doing the math on my kitchen table since Tuesday, with a pencil and a calculator from 1988. I get back nine hundred and twelve dollars.
     글래디스: 이해합니다, 재판장님. 화요일부터 부엌 식탁에서 연필이랑 1988년산 계산기로 계산했어요. 912달러 돌려받아요.
@@ -98,14 +98,14 @@
 028. ROSARIO: That's always in there, isn't it? What's fifth?
     로사리오: 그건 늘 들어가죠, 그렇죠? 다섯째는요?
 
-029. VICTORIA: The management company, Bronx Prime, has been terminated, including Trent Sayer, and the owner will meet with the tenants' association once a month, in person, at the building, starting in July.
+029. VICTORIA: The management company, Bronx Prime, has been terminated, including Mr. Sayer, and the owner will meet with the tenants' association once a month, in person, at the building, starting in July.
     빅토리아: 관리 회사 브롱크스 프라임과의 계약은 해지됐습니다. 트렌트 세이어도 포함해서요. 소유주는 7월부터 매달 한 번 건물에서 세입자 협회를 직접 만납니다.
 
 030. GLADYS: In person, with a face?
     글래디스: 직접? 얼굴 보고?
 
-031. VICTORIA: With a face, Gladys. Michael Ostrander will attend the first meeting himself, and he asked me to tell you that.
-    빅토리아: 얼굴 보고요, 글래디스. 마이클 오스트랜더가 첫 회의에 직접 나와요. 그렇게 전해 달래요.
+031. VICTORIA: With a face, Mrs. Moore. Mr. Ostrander will attend the first meeting himself, and he asked me to tell you that.
+    빅토리아: 얼굴 보고요, 무어 부인. 오스트랜더 씨가 첫 회의에 직접 나와요. 그렇게 전해 달래요.
 
 032. ROSARIO: Is there anything in the order about confidentiality?
     로사리오: 명령에 비밀유지 관련 내용이 있나요?
@@ -113,8 +113,8 @@
 033. DAN: Nothing, Your Honor, because there's no confidentiality clause, and anyone can read this order.
     댄: 없습니다, 재판장님. 비밀유지 조항은 없습니다. 누구나 이 명령을 읽을 수 있어요.
 
-034. ROSARIO: Good, because I like orders people can read. The consent order is so-ordered. Gladys, congratulations. And Counselor Ashford?
-    로사리오: 좋아요. 사람들이 읽을 수 있는 명령이 좋아요. 합의 명령을 확정합니다. 글래디스, 축하해요. 그리고 애시퍼드 변호사?
+034. ROSARIO: Good, because I like orders people can read. The consent order is so-ordered. Mrs. Moore, congratulations. And Ms. Ashford?
+    로사리오: 좋아요. 사람들이 읽을 수 있는 명령이 좋아요. 합의 명령을 확정합니다. 무어 부인, 축하해요. 그리고 애시퍼드 변호사?
 
 035. VICTORIA: Yes, Your Honor?
     빅토리아: 네, 재판장님?
@@ -125,8 +125,8 @@
 037. GLADYS: I'm having a party on Saturday on the block, and everybody's invited. Bruno, you too, so bring your mother. Your Honor, you too, but I know you can't come, because of ethics.
     글래디스: 토요일에 동네에서 파티 해요. 다들 초대야. 브루노, 너도 와. 어머니 모시고. 재판장님도요. 근데 못 오시는 거 알아요. 윤리 때문에.
 
-038. ROSARIO: I'll take a slice of that cake in spirit, Gladys.
-    로사리오: 그 케이크 한 조각, 마음으로 받을게요, 글래디스.
+038. ROSARIO: I'll take a slice of that cake in spirit, Mrs. Moore.
+    로사리오: 그 케이크 한 조각, 마음으로 받을게요, 무어 부인.
 
 039. VICTORIA: Dan, for the record, this is the first Housing Court case I've ever done, and probably the last.
     빅토리아: 댄, 기록을 위해 말하는데, 이게 내 인생 첫 주택법원 사건이야. 아마 마지막이고.
@@ -180,8 +180,8 @@
 055. SAM: I didn't eat any, I just smelled it, a lot.
     샘: 하나도 안 먹었어. 냄새만 맡았어. 많이.
 
-056. ZOE: Dad, can I interview Gladys for my history class? It's summer, but my teacher said extra credit counts for next year.
-    조이: 아빠, 글래디스 할머니 인터뷰해도 돼? 역사 수업용으로. 여름 방학인데 선생님이 가산점은 내년에도 쳐 준대.
+056. ZOE: Dad, can I interview Mrs. Moore for Mr. Okafor? It's summer, but he said extra credit counts for next year.
+    조이: 아빠, 무어 할머니 인터뷰해도 돼? 오카포 선생님 수업용으로. 여름 방학인데 선생님이 가산점은 내년에도 쳐 준대.
 
 057. DAN: Ask her yourself, but ask her slowly, because she'll talk for an hour.
     댄: 직접 물어봐. 천천히. 한 시간은 얘기하실 거야.
@@ -216,8 +216,8 @@
 067. GLADYS: Oh my, Rose, look at my hands, because I look like a movie star.
     글래디스: 어머나, 로즈, 내 손 좀 봐. 영화배우 같아.
 
-068. ROSE: You look like a woman who won, and that's better than a movie star. Can you do mine next?
-    로즈: 이긴 여자 같아. 그게 영화배우보다 나아. 내 것도 해 줄래요?
+068. ROSE: You look like a woman who won, and that's better than a movie star. Mrs. Park, can you do mine next?
+    로즈: 이긴 여자 같아. 그게 영화배우보다 나아. 박 여사님, 내 것도 해 줄래요?
 
 069. MRS. PARK: Sit, and ooh, you have very strong hands, kitchen hands, same as me.
     준 엄마: 앉아요. 어머, 손이 아주 세네. 부엌 손. 나랑 똑같아.
@@ -273,8 +273,8 @@
 086. GLADYS: Name this one Gladys, because she's going to be old and stubborn too, eventually.
     글래디스: 이건 글래디스라고 해. 언젠간 얘도 늙고 고집 세질 테니까.
 
-087. LUIS: Gladys, okay, Gladys the boiler. Do you want to press the button, Counselor?
-    루이스: 글래디스, 좋아요. 보일러 글래디스. 변호사님, 버튼 누르실래요?
+087. LUIS: Gladys, okay, Gladys the boiler. Mr. Reardon, do you want to press the button?
+    루이스: 글래디스, 좋아요. 보일러 글래디스. 레이든 씨, 버튼 누르실래요?
 
 088. DAN: It's your boiler, Luis, and you kept the old one alive for eleven years, so you press it.
     댄: 당신 보일러예요, 루이스. 11년 동안 옛날 걸 살려 놓으셨잖아요. 당신이 눌러요.
@@ -351,8 +351,8 @@
 112. GLADYS: I've been a natural since 1948, sweetheart. Nobody had a camera.
     글래디스: 1948년부터 타고났지, 아가. 카메라 든 사람이 없었을 뿐이야.
 
-113. ZOE: One more question for the interview: what will you do now, now that you won?
-    조이: 인터뷰 질문 하나 더요. 이제 뭐 하실 거예요? 이겼으니까요.
+113. ZOE: Mrs. Moore, one more question for the interview: what will you do now, now that you won?
+    조이: 무어 할머니, 인터뷰 질문 하나 더요. 이제 뭐 하실 거예요? 이겼으니까요.
 
 114. GLADYS: Now? Now I go to August, because there's a pension board meeting downtown in August, with public comment, three minutes each, and I'm going to use all three, and I'm bringing my thermometer.
     글래디스: 이제? 이제 8월로 가는 거지. 8월에 다운타운에서 연금 이사회 회의가 있어. 공개 발언, 한 사람당 3분. 3분 다 쓸 거야. 온도계도 가져갈 거고.
@@ -462,8 +462,8 @@
 149. ELENA: Fifteen years in prison is an emergency. He'll be there at two.
     엘레나: 15년 감옥살이는 응급 상황이에요. 두 시에 갈 거예요.
 
-150. DAN: I'll be there, Tasha, at two o'clock with Ms. Pitts and the papers. And Tasha, bring coffee, because Eli's mother is going to need it.
-    댄: 갈게요, 타샤. 두 시에 피츠 변호사님이랑 서류 들고요. 그리고 타샤, 커피 가져와요. 일라이 어머니한테 필요할 거예요.
+150. DAN: I'll be there, Tasha, at two o'clock with Ms. Pitts and the papers. And Tasha, bring coffee, because Mrs. Ward is going to need it.
+    댄: 갈게요, 타샤. 두 시에 피츠 변호사님이랑 서류 들고요. 그리고 타샤, 커피 가져와요. 워드 부인한테 필요할 거예요.
 
 ---
 
