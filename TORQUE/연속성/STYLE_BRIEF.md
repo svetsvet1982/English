@@ -29,3 +29,6 @@ Pass targets per episode: **choppy ≤ 12, tiny ≤ 7, average sentence ≥ 8.5 
 
 ## Done
 For each episode: `STYLE OK` and check `OK`. Reply with a table of before/after numbers (choppy, tiny, avg sentence) per episode and anything you deliberately left short.
+
+## Addendum — avoid mechanical joins (coordinator, after spot checks)
+Don't glue fragments with a connector that doesn't fit. Bad: "Don't ask, and the motors die from moisture, dust, and cold, so I replace six…" / "We should go, because Janine's coming at two…". Good: "Don't ask. The motors die every winter from the moisture, dust and cold, so I end up replacing six or seven a year." Use `because` only for a real cause, `so` only for a real result. Two or three real sentences in one turn are fine — the goal is full sentences with verbs and normal clauses, not one long chain. Aim for an average sentence of about 9–13 words; if an episode is above ~14, you've probably over-joined.
