@@ -479,7 +479,7 @@
 - **suppress evidence** — 증거를 은닉하다 / (063)
 - **remedial measures** — 시정 조치 / (065~067)
 - **report up (the ladder)** — (조직 내) 상부에 보고하다 / (075)
-- **withdraw** — (변호를) 사임하다, 손을 떼다 / "Not 'may.' Have to." (079)
+- **withdraw** — (변호를) 사임하다, 손을 떼다 / "that's not 'may,' that's 'have to.'" (079)
 - **push back** — 반박하다, 이의를 제기하다 / (142)
 - **So I've been told.** — 그렇다고 들었어요 / (149)
 
