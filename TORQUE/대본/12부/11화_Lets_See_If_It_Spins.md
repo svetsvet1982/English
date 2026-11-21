@@ -285,13 +285,13 @@
 090. STAN: It is a medical emergency, with my heart going like a drum. Eddie, sit down, you're blocking the window.
     스탠: 응급 상황 맞아. 심장이 북처럼 뛴다. 에디, 앉아. 창문 가린다.
 
-091. EDDIE: I came all the way from Findlay, Stanley, so I'm standing. Kiddo, I brought you a lucky penny from 1976, your grandpa's first year.
+091. EDDIE: I came all the way from Findlay, Stanley. I'm standing. Kiddo, I brought you a lucky penny from 1976, your grandpa's first year.
     에디: 핀들레이에서 여기까지 왔으니 서 있을 거야, 스탠리. 꼬마야, 네 할아버지 첫해인 1976년 행운의 동전 가져왔다.
 
 092. LILY: Thank you, Uncle Eddie, and I'll put it on the bench for luck.
     릴리: 고마워요, 에디 할아버지. 행운으로 작업대에 둘게요.
 
-093. MADDIE: Lily, your hands are shaking, so do you want me to hold the clipboard?
+093. MADDIE: Lily, your hands are shaking. Do you want me to hold the clipboard?
     매디: 릴리, 너 손 떨려. 클립보드 내가 들어 줄까?
 
 094. LILY: They always shake before, and then they stop. Ravi, is the fixture tight?
@@ -375,7 +375,7 @@
 120. EARL: That's my line, and she took my line.
     얼: 그거 내 대사야. 저 애가 내 대사를 가져갔어.
 
-121. LILY: Clamp on, shim in, okay. Second try, so here we go again. Let's see if it spins.
+121. LILY: Clamp on, shim in. Okay, second try. Let's see if it spins.
     릴리: 클램프 걸고, 심 넣고, 좋아. 두 번째로 다시. 일단 돌려 보자.
 
 122. RAVI: Three thousand, three thousand one hundred, three thousand two hundred, and it's clean with no spike, and now three thousand five hundred, still clean.
