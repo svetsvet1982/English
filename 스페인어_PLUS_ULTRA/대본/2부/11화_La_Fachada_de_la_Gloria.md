@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 2부 11화 · 서사 기능: 2부 액션 클라이맥스 — 거래, 저격, 구출
 > - 배경: 2027년 3월 19일(금, 성 요셉 축일·스페인 '아버지의 날') 새벽 5시 50분~7시. 마리나 거리 모퉁이에 세운 차 안 → 사그라다 파밀리아 '영광의 파사드' 공사장 정문 → 현관부(pórtico) 18미터 높이의 작업대 → 저격과 지하 성당(cripta)으로 내려가는 작업용 계단 → 가우디 광장의 구급차. 해 뜨기 직전의 차가운 3월 새벽, 맑음.
-> - 등장인물: 알바로, 누리아, 이케르(전화), 경비원 페레(GUARDIA DE SEGURIDAD), 오리올, 사에스(전화), 보스크(무전·전화), 구급대원(SANITARIA)
+> - 등장인물: 알바로, 누리아, 이케르(전화), 경비원 킴(GUARDIA DE SEGURIDAD), 오리올, 사에스(전화), 보스크(무전·전화), 구급대원(SANITARIA)
 > - 난이도: B1+–B2 · 턴 수: 145
 > - 이번 화의 핵심 표현: "no pegar ojo", "limpiar la mesa", "que conste", "a cambio", "pillar a alguien", "sostenerse", "faltaría más", "con tal de que / aunque + 접속법"
 > - 방언 포인트: 누리아의 *home, escolta, déu n'hi do, collons, molt bé* / 오리올과 경비원의 카탈루냐어 대화(*vénen amb mi, la iaia, el terrat*)와 누리아의 *terrado*(카탈루냐식 카스티야어, 표준은 *azotea*) / 알바로의 마드리드 구어 *vale, joder* / 사에스의 군대식 무동사 명령문("El portátil. Al borde de la plataforma.")
@@ -28,8 +28,8 @@
 004. NÚRIA: Pues tienes los ojos de un conejo albino. Escolta, ¿y si no viene?
     누리아: 그런 것치곤 눈이 흰 토끼처럼 빨갛네. 있잖아, 안 오면?
 
-005. ÁLVARO: Vendrá. Pidió que vinieras tú con tu portátil. Quiere que alguien que entienda el código lo vea con sus propios ojos.
-    알바로: 올 거야. 너더러 노트북 들고 오라고 했잖아. 코드를 알아보는 사람이 자기 눈으로 직접 확인하길 바라는 거야.
+005. ÁLVARO: Vendrá. Te llamó a ti, no a mí. Quiere que alguien que entienda el código lo vea con sus propios ojos.
+    알바로: 올 거야. 나 말고 너한테 전화했잖아. 코드를 알아보는 사람이 자기 눈으로 직접 확인하길 바라는 거야.
 
 006. NÚRIA: O quiere que estemos los dos en el mismo sitio, a la misma hora y sin nadie más. Es lo que haría yo si quisiera limpiar la mesa de una vez.
     누리아: 아니면 우리 둘이 같은 장소에, 같은 시간에, 아무도 없이 있길 바라는 거겠지. 내가 판을 한 번에 싹 치우고 싶으면 그렇게 할 거야.
@@ -115,8 +115,8 @@
 033. GUARDIA DE SEGURIDAD: Eh, eh, ¿adónde van ustedes? La obra no abre hasta las siete y media.
     경비원: 어이, 어이, 어디 가세요? 공사장은 일곱 시 반에 열어요.
 
-034. ORIOL: Tranquil, Pere, vénen amb mi. Són de la inspecció de seguretat, la de dimarts.
-    오리올: 괜찮아요, 페레. 저랑 같이 온 분들이에요. 안전 점검 나온 분들요, 화요일 그 점검.
+034. ORIOL: Tranquil, Quim, vénen amb mi. Són de la inspecció de seguretat, la de dimarts.
+    오리올: 괜찮아요, 킴. 저랑 같이 온 분들이에요. 안전 점검 나온 분들요, 화요일 그 점검.
 
 035. GUARDIA DE SEGURIDAD: Si usted lo dice, señor Vidal. Pero firmen aquí. Y el casco es obligatorio, ¿eh? Sin casco aquí no sube nadie, ni el arquitecto jefe.
     경비원: 비달 씨가 그렇다면야. 그래도 여기 서명하세요. 그리고 안전모는 필수예요, 아시죠? 안전모 없이는 아무도 못 올라가요. 수석 건축가도요.

@@ -8,7 +8,7 @@
 > - 등장인물: 누리아, 알바로, 이케르(전화), 로이그(전화), 오리올, 사에스, 드미트리, 파쿠(음성 메시지), 시위 참가자(MANIFESTANTE), 영국인 관광객(TURISTA)
 > - 난이도: B1+–B2 · 턴 수: 146
 > - 이번 화의 핵심 표현: "pinganillo", "saturarse (la red)", "a menos que / antes de que / en cuanto + 접속법", "dar de lleno", "cortar el paso", "abrir un expediente", "cobrar deudas", "sentar bien"
-> - 방언 포인트: 누리아의 카탈루냐어 *escolta, home, collons, déu n'hi do, nen* / 알바로의 마드리드 구어 *guiri, tío, mola, currar* / 파쿠의 보세오 *vos tenés, che, posta, laburo* / 시위 구호의 카탈루냐어 *Barcelona no està en venda*
+> - 방언 포인트: 누리아의 카탈루냐어 *escolta, home, collons, déu n'hi do, nen* / 알바로의 마드리드 구어 *guiri, joder, cabrón*, *vosotros*(*quedaos, callad*) / 파쿠의 보세오 *che, boludo, posta, borrala, vos, milico* / 시위 구호의 카탈루냐어 *Barcelona no està en venda*
 > - 복선/연결: 8화 끝 가로챈 메시지 "Dissabte. Barceloneta. A la manifestació." → 접선. 사에스가 알바로의 진짜 이름을 안다(아탈라야). 알바로가 사에스의 사진을 파쿠에게 보낸다 → 10화 파쿠 피살의 빌미. 오리올이 넘긴 것은 '두 번째 납품분' — 10화 역분석, 11화 소스 코드 거래로. 드미트리 → 3부 소로킨 네트워크.
 
 ---

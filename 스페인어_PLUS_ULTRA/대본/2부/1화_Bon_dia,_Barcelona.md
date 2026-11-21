@@ -117,7 +117,7 @@
 034. ÁLVARO: En Madrid me dijeron que usted era muy práctica.
     알바로: 마드리드에선 지부장님이 아주 실용적인 분이라고 하더군요.
 
-035. ROIG: En Madrid dicen muchas cosas de los catalanes y casi ninguna es un elogio. Escolti, voy a ser directa: yo no le he pedido. No necesito a nadie que venga a descansar a mi delegación.
+035. ROIG: En Madrid dicen muchas cosas de los catalanes y casi ninguna es un elogio. Escolti, voy a ser directa: yo no he pedido que me lo mandaran. No necesito a nadie que venga a descansar a mi delegación.
     로이그: 마드리드에선 카탈루냐 사람들에 대해 이런저런 말을 하죠. 칭찬은 거의 없고요. 잘 들으세요, 솔직하게 말할게요. 난 당신을 요청한 적 없어요. 내 지부에 쉬러 오는 사람은 필요 없어요.
 
 036. ÁLVARO: Yo tampoco he pedido venir. Ya tenemos algo en común.
