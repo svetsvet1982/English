@@ -44,11 +44,11 @@
 010. DECLAN: Don't ask. Let him tell. I've been saying it in the shower for three weeks.
     데클런: 묻지 마. 말하게 둬. 3주째 샤워하면서 중얼거리고 있어.
 
-011. TESS: And if he says anything about a gun, a pill, a back door, you say "Dunkin'," and we're inside in thirty seconds.
-    테스: 그리고 총이든 약이든 뒷문이든, 그런 얘기가 조금이라도 나오면 "던킨"이라고 해. 30초 안에 들어갈게.
+011. TESS: And if he says anything about a gun, a pill, a back door, you say "the Pike," and we're inside in thirty seconds.
+    테스: 그리고 총이든 약이든 뒷문이든, 그런 얘기가 조금이라도 나오면 "더 파이크"라고 해. 30초 안에 들어갈게.
 
-012. DECLAN: Great. My emergency word is coffee.
-    데클런: 훌륭하네. 내 비상 암호가 커피라니.
+012. DECLAN: The Pike again. Same highway, worse destination.
+    데클런: 또 파이크네. 같은 고속도로, 더 나쁜 목적지.
 
 013. TESS: It's the only word I was sure you'd remember under pressure.
     테스: 네가 긴장해도 확실히 기억할 단어가 그것밖에 없었어.

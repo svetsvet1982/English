@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 4부 2화 · 서사 기능: 작전 준비 / 망설임
 > - 배경: FBI 워싱턴 지국 ASAC 레이 칸토어의 사무실(2027년 7월 7일 수요일 오전) → 같은 건물 지하 기술작전실(같은 날 오후) → 알링턴 클라렌던, 데클런 아파트 앞에 세운 테스의 차 안(7월 8일 목요일 밤). 습한 D.C.의 여름.
-> - 등장인물: Declan, Tess, Ray Cantor(새 ASAC), Dev Rao(FBI 기술작전 요원), Howard(전화)
+> - 등장인물: Declan, Tess, Ray Kantor(새 ASAC), Dev Rao(FBI 기술작전 요원), Howard(전화)
 > - 난이도: B1–B2 · 턴 수: 135
 > - 이번 화의 핵심 표현: "wear a wire", "consensual monitoring", "one-party consent", "conditional yes", "chain of custody", "Don't ask. Let him tell.", "Go on.", "Don't let it go to your head."
 > - 복선/연결: 3부 12화 하워드의 초대 "Just us. No phones, no files, no FBI." · 도청기 = 아버지 유품 타이멕스(5월에 프랭키가 도체스터 부엌 서랍에서 찾음, 하루 2분 늦음, 수동 태엽, 뒷판 안쪽에 아버지 이니셜) — 하워드는 처음 보는 시계라 '진짜 사연'이 곧 위장 · 용두 두 번 = 녹음 시작, 트렁크의 중계기 → 무선으로 테스에게(오두막 일대는 휴대폰 불통) · 휴대폰은 꺼서 주머니에(로즈에게 송어 사진 약속) → 3화 플라이 북 촬영 · 비상 암호 "the Pike"(데클런이 고름) → 3화 · 금지어: Reed, Blue Ridge, TALLOW, 예산 코드, Peter Lisle, 두 권의 장부 · 칸토어는 아직 랭글리에 알리지 않음(→7화) · 하워드: "Something I should have shown you years ago." → 3화 플라이 북
