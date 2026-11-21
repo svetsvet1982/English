@@ -4,11 +4,11 @@
 
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 4부 3화 · 서사 기능: 2인극 / 탐색전 / 증거 확보
-> - 배경: 버지니아 매디슨 카운티를 지나 셰넌도어 국립공원 쪽 자갈길을 오르는 데클런의 스바루(2027년 7월 10일 토요일 아침 7시 30분, 테스와 통화 → 전파가 끊김) → 라피던 강가 하워드의 낚시 오두막과 강(오전~오후, 습하고 더운 여름날) → 같은 오두막, 해 질 녘(하워드가 장작을 가지러 나간 사이)과 모닥불 저녁 → 밤 9시, 오두막 앞과 돌아오는 차 안(테스와 통화)
+> - 배경: 버지니아 매디슨 카운티를 지나 셰넌도어 국립공원 쪽 자갈길을 오르는 데클런의 스바루(2027년 7월 10일 토요일 새벽 5시 30분, 전날 밤 컬페퍼 모텔에서 출발, 테스와 통화 → 전파가 끊김. 하워드의 조건 "No phones, no files, no FBI"에 따라 휴대폰은 글러브박스에, 테스의 라이터 크기 카메라는 던킨 커피 봉투 속에) → 라피던 강가 하워드의 낚시 오두막과 강(오전~오후, 습하고 더운 여름날) → 같은 오두막, 해 질 녘(하워드가 장작을 가지러 나간 사이)과 모닥불 저녁 → 밤 9시, 오두막 앞과 돌아오는 차 안(테스와 통화)
 > - 등장인물: Declan, Howard, Tess(전화·도청 수신)
 > - 난이도: B1–B2 · 턴 수: 150
 > - 이번 화의 핵심 표현: "wear a wire", "Don't ask. Let him tell.", "dead zone", "Let the rod do the work.", "catch and release", "I'm not keeping score.", "He never leaves anything on a table.", "You've gotten very good at this. I taught you that."
-> - 복선/연결: 2화 도청기 = 아버지 유품 타이멕스 손목시계, "Don't ask. Let him tell." · 2부 2화·11화 송어 길이("Fourteen and a quarter." / "Thirteen and three-quarters.")와 "A man who rounds up his trout will round up other things." · 플라이 북(가죽 표지, 2016년부터) — 데클런이 2016~2026년 페이지 41장을 휴대폰으로 촬영(→9화 해독) · 하워드는 잉크로 쓴다("Pen's for people who think they're right.") · 오두막은 일찍 다 갚았다(→5화 Blue Ridge의 담보대출 상환) · 마이클의 어린 시절 카드놀이와 2016년(→11화 고백) · 엘리너의 마지막 여름 · 하워드가 도청기를 알았는지는 끝까지 모호
+> - 복선/연결: 2화 도청기 = 아버지 유품 타이멕스 손목시계, "Don't ask. Let him tell." · 2부 2화·11화 송어 길이("Fourteen and a quarter." / "Thirteen and three-quarters.")와 "A man who rounds up his trout will round up other things." · 플라이 북(가죽 표지, 2016년부터) — 데클런이 2016~2026년 페이지 41장을 테스의 소형 카메라로 촬영(→9화 해독) · 하워드는 잉크로 쓴다("Pen's for people who think they're right.") · 오두막은 일찍 다 갚았다(→5화 Blue Ridge의 담보대출 상환) · 마이클의 어린 시절 카드놀이와 2016년(→11화 고백) · 엘리너의 마지막 여름 · 하워드가 도청기를 알았는지는 끝까지 모호
 
 ---
 
@@ -41,8 +41,8 @@
 009. TESS: You picked it. Now tell me the rule one more time.
     테스: 당신이 고른 거예요. 자, 규칙 한 번만 더 말해 봐요.
 
-010. DECLAN: Don't ask. Let him tell. Don't say Reed, don't say Blue Ridge, don't say TALLOW. Talk about fish.
-    데클런: 묻지 마라. 그가 말하게 둬라. 리드, 블루리지, 탤로우 다 말하지 마라. 물고기 얘기만 해라.
+010. DECLAN: Don't ask. Let him tell. No Reed, no Blue Ridge, no TALLOW.
+    데클런: 묻지 마라. 그가 말하게 둬라. 리드도, 블루리지도, 탤로우도 말하지 마라.
 
 011. TESS: And if he starts confessing?
     테스: 그리고 그 사람이 자백하기 시작하면요?
@@ -50,26 +50,26 @@
 012. DECLAN: Then I keep my mouth shut and let him. But Tess, he won't. Howard has never said one sentence in his life by accident.
     데클런: 그럼 입 다물고 하게 둬야지. 근데 테스, 안 할 거야. 하워드는 평생 문장 하나도 실수로 말해 본 적 없는 사람이야.
 
-013. TESS: Then we listen to what he says on purpose. People who talk on purpose still leave fingerprints.
-    테스: 그럼 일부러 하는 말을 듣는 거죠. 일부러 말하는 사람도 지문은 남겨요.
+013. TESS: Then we listen to what he says on purpose. That leaves fingerprints too.
+    테스: 그럼 일부러 하는 말을 듣는 거죠. 그것도 지문을 남겨요.
 
-014. DECLAN: I'm turning onto the gravel now. The signal's dropping. One bar.
-    데클런: 이제 자갈길로 들어간다. 신호 떨어지고 있어. 한 칸.
+014. DECLAN: Gravel road now. One bar. My phone goes in the glove box, like he asked.
+    데클런: 이제 자갈길. 한 칸. 휴대폰은 그 사람 말대로 글러브박스에 넣는다.
 
-015. TESS: Declan. Whatever happens in there, you're not doing anything wrong. He invited you.
-    테스: 데클런. 거기서 무슨 일이 있든, 당신은 잘못하는 거 하나도 없어요. 그 사람이 당신을 초대한 거예요.
+015. TESS: And my camera's in the Dunkin' bag, under the cups. Whatever happens in there, you're not doing anything wrong. He invited you.
+    테스: 내 카메라는 던킨 봉투 안, 컵 밑에 있어요. 거기서 무슨 일이 있든, 당신은 잘못하는 거 하나도 없어요. 그 사람이 초대한 거예요.
 
-016. DECLAN: That's what I keep telling myself. He invited me. Okay, that's it. No bars. Tess, if you can hear this, it's seven fifty-two, and I can see the cabin.
-    데클런: 계속 나 자신한테 그렇게 말하고 있어. 그 사람이 초대했다고. 좋아, 끝. 신호 없음. 테스, 이게 들리면, 지금 7시 52분이고 오두막이 보여.
+016. DECLAN: That's what I keep telling myself. Okay, no bars. Tess, if you can hear this, it's five fifty-two, and I can see the cabin.
+    데클런: 계속 나 자신한테 그렇게 말하고 있어. 좋아, 신호 없음. 테스, 이게 들리면, 지금 5시 52분이고 오두막이 보여.
 
-017. HOWARD: You found it. Most people miss the turn and end up in West Virginia, explaining themselves to a dog.
-    하워드: 찾아왔군. 대부분 갈림길을 놓치고 웨스트버지니아까지 가서 개한테 사정을 설명하게 되지.
+017. HOWARD: You said Friday night. I waited up until eleven, then gave you to the owls.
+    하워드: 금요일 밤이라더니. 11시까지 기다리다가 자넨 부엉이들한테 넘겨 버렸네.
 
-018. DECLAN: I almost did. Your mailbox is a coffee can on a post, Howard.
-    데클런: 저도 그럴 뻔했어요. 우편함이 기둥에 꽂은 커피 깡통이잖아요, 하워드.
+018. DECLAN: The Subaru had other plans. I slept in Culpeper. But I brought the coffee.
+    데클런: 스바루가 생각이 달랐어요. 컬페퍼에서 잤어요. 그래도 커피는 가져왔어요.
 
-019. HOWARD: Eleanor's idea. She said a real mailbox would only encourage the mail. Come here, my boy. Let me look at you.
-    하워드: 엘리너 생각이었지. 진짜 우편함을 달면 우편물만 부추긴다고 하더군. 이리 오게, 얘야. 얼굴 좀 보자.
+019. HOWARD: So you did. Dunkin', of course. Come here, my boy. Let me look at you.
+    하워드: 그렇군. 당연히 던킨이고. 이리 오게, 얘야. 얼굴 좀 보자.
 
 020. DECLAN: It's good to see you, Howard.
     데클런: 뵙게 돼서 좋네요, 하워드.
@@ -77,29 +77,29 @@
 021. HOWARD: You look tired. Boston was supposed to make you fat and lazy. Instead you came back thin and thoughtful. Your mother must be furious.
     하워드: 피곤해 보이는군. 보스턴에 가면 살찌고 게을러져야 하는 건데, 오히려 마르고 생각 많은 얼굴로 돌아왔어. 자네 어머니가 화가 나셨겠군.
 
-022. DECLAN: She sent me back with three loaves of soda bread. That's how she says she's worried.
+022. DECLAN: She sent me back with three loaves of soda bread. That's her worrying.
     데클런: 소다 빵 세 덩이 들려서 보냈어요. 그게 엄마식 걱정이에요.
 
-023. HOWARD: Then bring one in. Coffee's on. Not your gas-station coffee this time, I'm afraid. Out here I'm allowed to be a snob.
-    하워드: 그럼 하나 들고 들어오게. 커피 내려 놨네. 이번엔 자네 주유소 커피는 아니라 미안하군. 여기선 나도 잘난 척 좀 해도 되거든.
+023. HOWARD: Then bring one in. And your phone, Declan? I did say no phones.
+    하워드: 그럼 하나 들고 들어오게. 그리고 휴대폰은, 데클런? 휴대폰은 안 된다고 했지.
 
-024. DECLAN: Is that new? The watch? You never used to wear one.
-    데클런: 그거 새 거예요? 시계요? 원래 안 차셨잖아요.
+024. DECLAN: In the glove box. No phones, no files, no FBI. I read the invitation.
+    데클런: 글러브박스에 있어요. 휴대폰 없이, 서류 없이, FBI 없이. 초대장 잘 읽었어요.
 
-025. HOWARD: I was going to ask you the same thing. That's not new. That's a Timex older than you are.
-    하워드: 나도 똑같은 걸 물으려던 참이었네. 그건 새 게 아니군. 자네보다 나이 많은 타이멕스야.
+025. HOWARD: Good. But that's new. You never used to wear a watch.
+    하워드: 좋아. 그런데 그건 처음 보는군. 자넨 원래 시계를 안 찼잖나.
 
-026. DECLAN: My father's. Frankie found it in a drawer in Dorchester. It loses two minutes a day, but I like it.
-    데클런: 아버지 거예요. 프랭키가 도체스터 서랍에서 찾았어요. 하루에 2분씩 늦게 가는데, 그래도 좋아요.
+026. DECLAN: My father's Timex. Frankie found it in a drawer in Dorchester. It loses two minutes a day, but I like it.
+    데클런: 아버지 타이멕스예요. 프랭키가 도체스터 서랍에서 찾았어요. 하루에 2분씩 늦게 가는데, 그래도 좋아요.
 
-027. HOWARD: A watch that's honest about being wrong. Your father would approve. Keep it out of the river, though. Timex never promised the trout anything.
-    하워드: 틀린 걸 솔직하게 인정하는 시계로군. 자네 아버지도 마음에 들어 하셨겠어. 그래도 강물엔 넣지 말게. 타이멕스가 송어한테 약속한 건 없으니까.
+027. HOWARD: A watch that's honest about being wrong. Your father would approve. Keep it out of the river, though. Here. These waders are yours today.
+    하워드: 틀린 걸 솔직하게 인정하는 시계로군. 자네 아버지도 마음에 들어 하셨겠어. 그래도 강물엔 넣지 말게. 자. 오늘은 이 장화 바지가 자네 거야.
 
 028. DECLAN: Mine? I thought the waders were for you.
     데클런: 제 거예요? 그 장화 바지는 하워드 건 줄 알았는데요.
 
-029. HOWARD: Michael's old pair. He hasn't worn them since he was nineteen. They'll fit you if you don't breathe too much.
-    하워드: 마이클이 신던 거야. 열아홉 살 이후로 안 신었지. 숨만 너무 크게 안 쉬면 맞을 걸세.
+029. HOWARD: Michael's old pair. They'll fit you if you don't breathe too much.
+    하워드: 마이클이 신던 거야. 숨만 너무 크게 안 쉬면 맞을 걸세.
 
 030. DECLAN: I'll breathe less. How is he, Howard? Michael?
     데클런: 숨 덜 쉴게요. 어떻게 지내요, 하워드? 마이클은요?
@@ -152,8 +152,8 @@
 046. DECLAN: I caught a fish. Howard, I actually caught a fish.
     데클런: 물고기 잡았어요. 하워드, 저 진짜 물고기 잡았어요.
 
-047. HOWARD: A rainbow. Hold still. Wet your hands first, or you'll burn his skin. Eleven and a half.
-    하워드: 무지개송어군. 가만있게. 손부터 적셔. 안 그러면 피부가 데어. 11과 2분의 1.
+047. HOWARD: A rainbow. Wet your hands first, or you'll burn him. Eleven and a half.
+    하워드: 무지개송어군. 손부터 적셔. 안 그러면 피부가 데어. 11과 2분의 1.
 
 048. DECLAN: Are you going to write him in your book?
     데클런: 그것도 하워드 수첩에 적을 거예요?
@@ -161,8 +161,8 @@
 049. HOWARD: No. That one's yours. I only write down my own fish. Let him go now. Face him into the current, and he'll swim away when he's ready.
     하워드: 아니. 그건 자네 거야. 난 내 물고기만 적네. 이제 놓아주게. 물살 쪽으로 머리를 돌려 주면 준비되는 대로 헤엄쳐 갈 거야.
 
-050. DECLAN: Catch and release. You catch him, you measure him, and then you just give him back.
-    데클런: 잡았다 놓아주기. 잡고, 재고, 그냥 돌려주는 거네요.
+050. DECLAN: Catch and release. You catch him, measure him, and give him back.
+    데클런: 잡았다 놓아주기. 잡고, 재고, 돌려주는 거네요.
 
 051. HOWARD: The river lends him to you for a minute. The polite thing is to return him in the same condition. I'm going upstream to the big pool. Stay here and practice. Talk to yourself if you get lonely.
     하워드: 강이 잠깐 빌려주는 거지. 예의 바르게 하려면 받은 그대로 돌려줘야 하고. 난 위쪽 큰 소에 가 있겠네. 여기서 연습하게. 외로우면 혼잣말이라도 하고.
@@ -173,8 +173,8 @@
 053. DECLAN: Tess. He's about two hundred yards upstream. I don't know if you can hear me over the water. He hasn't said anything. He's teaching me to fish. He's happy, Tess. That's the worst part.
     데클런: 테스. 지금 위쪽으로 한 200미터쯤 갔어. 물소리 때문에 들리는지 모르겠다. 아무 말도 안 했어. 나한테 낚시를 가르치고 있어. 행복해 보여, 테스. 그게 제일 힘들어.
 
-054. HOWARD: Lunch! Bring the soda bread and your appetite. The porch, Declan, before the flies find us.
-    하워드: 점심이야! 소다 빵이랑 식욕 챙겨 오게. 현관 앞마루로, 데클런. 날벌레들이 우릴 찾기 전에.
+054. HOWARD: Lunch! Bring the soda bread. The porch, before the flies find us.
+    하워드: 점심이야! 소다 빵 챙겨 오게. 현관 앞마루로, 날벌레들이 우릴 찾기 전에.
 
 055. DECLAN: Did you catch anything up there?
     데클런: 위에서 뭐 좀 잡았어요?
@@ -248,8 +248,8 @@
 078. HOWARD: He did. And this one, from March. The first Saturday. "Brown, fourteen and a quarter." My first real fish of the year.
     하워드: 실제로 그랬어. 그리고 이건 3월 거. 첫째 주 토요일. "브라운, 14와 4분의 1." 올해 첫 진짜 물고기였지.
 
-079. DECLAN: You told me about him too. In your study. I lost in thirty-one moves that day.
-    데클런: 그놈 얘기도 해 주셨어요. 서재에서요. 그날 서른한 수 만에 졌죠.
+079. DECLAN: You told me about him in your study. I lost in thirty-one moves.
+    데클런: 그놈 얘기는 서재에서 해 주셨어요. 전 서른한 수 만에 졌고요.
 
 080. HOWARD: Thirty-one? I thought it was closer to thirty. You see? Memory is a liar with good manners. That's why I write things down.
     하워드: 서른한 수? 서른 수쯤인 줄 알았는데. 봐, 기억은 예의 바른 거짓말쟁이라니까. 그래서 내가 적는 거야.
@@ -290,8 +290,8 @@
 092. DECLAN: He put it back on the table by the window. Not the windowsill. The table. With his reading glasses on top of it.
     데클런: 창가 탁자 위에 다시 올려놨어. 창턱 말고. 탁자 위에. 위에 돋보기안경까지 얹어서.
 
-093. DECLAN: I'm not touching it. Not yet. He's twenty feet away, asleep. Or he wants me to think he is.
-    데클런: 안 건드릴 거야. 아직은. 6미터 앞에서 자고 있어. 아니면 자는 줄 알게 하고 싶은 거거나.
+093. DECLAN: I'm not touching it yet. He's asleep. Or he wants me to think so.
+    데클런: 아직은 안 건드려. 자고 있어. 아니면 자는 줄 알게 하고 싶은 거거나.
 
 094. HOWARD: Five o'clock. Did the river teach you anything this afternoon?
     하워드: 5시야. 오후에 강이 뭐 좀 가르쳐 주던가?
@@ -308,11 +308,11 @@
 098. HOWARD: No, no. The woodpile is behind the shed, and the ax and I have an understanding. Stay. Wash the cups. There's a bottle of Irish whiskey under the sink that's been waiting for a Walsh.
     하워드: 아니, 됐어. 장작더미는 창고 뒤에 있고, 도끼랑 나는 서로 잘 아는 사이야. 있게. 컵이나 씻고. 싱크대 밑에 월시 집안 사람을 기다리던 아이리시 위스키가 한 병 있네.
 
-099. DECLAN: Tess, he's out back. Behind the shed. The book's on the table. I'm doing it now.
-    데클런: 테스, 뒤로 나갔어. 창고 뒤. 수첩은 탁자 위에 있어. 지금 할게.
+099. DECLAN: Tess, he's out back, behind the shed. The book's on the table. Now.
+    데클런: 테스, 뒤로 나갔어. 창고 뒤. 수첩은 탁자 위에 있어. 지금이야.
 
-100. DECLAN: Glasses off. Opening it. First page, December 2016. Phone's out. Camera only, no signal anyway. One. Two.
-    데클런: 안경 치우고. 펼친다. 첫 장, 2016년 12월. 휴대폰 꺼냈어. 신호가 없으니 카메라만. 하나. 둘.
+100. DECLAN: Glasses off. Opening it. First page, December 2016. Your camera's out of the coffee bag. It's the size of a lighter. One. Two.
+    데클런: 안경 치우고. 펼친다. 첫 장, 2016년 12월. 당신 카메라 커피 봉투에서 꺼냈어. 라이터만 해. 하나. 둘.
 
 101. HOWARD: Declan! Is the kindling box by the stove full or empty?
     하워드: 데클런! 난로 옆 불쏘시개 상자 찼나, 비었나?
@@ -350,8 +350,8 @@
 112. HOWARD: Get the door, my boy, my hands are full of Virginia.
     하워드: 문 좀 열어 주게, 얘야. 손에 버지니아가 한가득이야.
 
-113. DECLAN: Got it. Watch the step. Found the whiskey, by the way. Behind the bleach, like you said.
-    데클런: 열었어요. 계단 조심하세요. 그리고 위스키 찾았어요. 말씀하신 대로 표백제 뒤에 있더라고요.
+113. DECLAN: Got it. Watch the step. Found the whiskey, behind the bleach.
+    데클런: 열었어요. 계단 조심하세요. 위스키 찾았어요, 표백제 뒤에서.
 
 114. HOWARD: Then pour two. You look like a man who's been running.
     하워드: 그럼 두 잔 따르게. 뛰어온 사람 같은 얼굴이군.
@@ -383,8 +383,8 @@
 123. DECLAN: Howard—
     데클런: 하워드—
 
-124. HOWARD: Eat your fish. It's better hot. And it's the last good thing I'll cook this summer, I suspect.
-    하워드: 생선 먹게. 뜨거울 때 맛있어. 그리고 아마 올여름 내가 만드는 마지막 좋은 음식일 걸세.
+124. HOWARD: Eat your fish. It's better hot. Possibly my last good meal this summer.
+    하워드: 생선 먹게. 뜨거울 때 맛있어. 어쩌면 올여름 내 마지막 좋은 요리일 걸세.
 
 125. DECLAN: Why the last?
     데클런: 왜 마지막이에요?
@@ -440,11 +440,11 @@
 142. DECLAN: I'm on 231, past the church. Jesus is still deciding. Did you get it all?
     데클런: 231번 도로, 교회 지났어. 예수님은 아직 고민 중이셔. 다 들었어?
 
-143. TESS: Thirteen hours of audio. Fish, a dead wife, a son who counts cards, and an ax. Not one word I can take to a judge.
-    테스: 녹음 열세 시간. 물고기, 죽은 아내, 카드 세는 아들, 그리고 도끼. 판사한테 가져갈 말은 한마디도 없어요.
+143. TESS: Fifteen hours of audio. Fish, a dead wife, a son who counts cards, and an ax. Not one word I can take to a judge.
+    테스: 녹음 열다섯 시간. 물고기, 죽은 아내, 카드 세는 아들, 그리고 도끼. 판사한테 가져갈 말은 한마디도 없어요.
 
-144. DECLAN: I've got forty-one pages. 2016 to 2026. Every river, every fly, every fish, in his handwriting.
-    데클런: 난 마흔한 장 있어. 2016년부터 2026년까지. 강마다, 플라이마다, 물고기마다, 그 사람 글씨로.
+144. DECLAN: I've got forty-one pages. 2016 to 2026. All in his handwriting.
+    데클런: 난 마흔한 장 있어. 2016년부터 2026년까지. 전부 그 사람 글씨로.
 
 145. TESS: And the last thing he said? "I taught you that." Did he mean the fishing, or did he mean the watch?
     테스: 그리고 마지막에 한 말은요? "내가 가르친 거지." 낚시 얘기예요, 아니면 시계 얘기예요?
