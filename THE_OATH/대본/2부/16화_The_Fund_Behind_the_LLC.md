@@ -185,14 +185,14 @@
 057. VICTORIA: I heard that, so tell Ruth the chairs are excellent, and I'll see you at two o'clock.
     빅토리아: 다 들었어. 루스한테 의자 훌륭하다고 전해. 두 시에 봐.
 
-058. PEGGY: Welcome back, Counselor. It's been six months, and you look… rested.
-    페기: 다시 오신 걸 환영해요, 변호사님. 6개월 만이네요. 얼굴이… 편해 보이세요.
+058. PEGGY: Welcome back, Mr. Reardon. It's been six months, and you look… rested.
+    페기: 다시 오신 걸 환영해요, 레이든 변호사님. 6개월 만이네요. 얼굴이… 편해 보이세요.
 
-059. DAN: Peggy, it's good to see you. This is Ruth Abernathy, and this is Gladys Moore.
-    댄: 페기, 반가워요. 이쪽은 루스 애버내시, 그리고 이쪽은 글래디스 무어예요.
+059. DAN: Peggy, it's good to see you. This is Ruth Abernathy, and this is Mrs. Gladys Moore.
+    댄: 페기, 반가워요. 이쪽은 루스 애버내시, 그리고 이쪽은 글래디스 무어 부인이에요.
 
-060. PEGGY: Ruth Abernathy, he has told me about you for nineteen years. Every December, he makes the same dinner reservation at the same restaurant, at the same table.
-    페기: 루스 애버내시 씨. 그분이 19년 동안 당신 얘기를 하셨어요. 매년 12월마다 같은 식당, 같은 테이블로 저녁 예약을 하세요.
+060. PEGGY: Ms. Abernathy, Mr. Whitmore has told me about you for nineteen years. Every December, he makes the same dinner reservation at the same restaurant, at the same table.
+    페기: 애버내시 씨. 휘트모어 대표님이 19년 동안 당신 얘기를 하셨어요. 매년 12월마다 같은 식당, 같은 테이블로 저녁 예약을 하세요.
 
 061. RUTH: He always orders the fish and complains about it. Is he here today?
     루스: 그 사람 늘 생선 시키고 불평하지. 오늘 여기 있어?
@@ -209,14 +209,14 @@
 065. GLADYS: I've been cold since October, so I'm used to it. Where's the mask?
     글래디스: 10월부터 추웠어. 익숙해. 가면은 어디 있어?
 
-066. VICTORIA: Good afternoon, I'm Victoria Ashford, and this is Michael Ostrander, from Larchmont.
-    빅토리아: 안녕하세요, 빅토리아 애시퍼드예요. 이쪽은 라치몬트의 마이클 오스트랜더고요.
+066. VICTORIA: Mrs. Moore, I'm Victoria Ashford, and this is Michael Ostrander, from Larchmont.
+    빅토리아: 무어 부인, 빅토리아 애시퍼드예요. 이쪽은 라치몬트의 마이클 오스트랜더고요.
 
 067. GLADYS: You're M. Ostrander from the mortgage, the signature! I've been trying to call you since November, and I left forty-one messages.
     글래디스: 당신이 M. 오스트랜더구나. 대출 서류 그 서명. 11월부터 전화했어요. 메시지 마흔한 개.
 
-068. OSTRANDER: I… that number goes to a management company, and I don't personally—
-    오스트랜더: 저… 그 번호는 관리 회사로 가요. 제가 개인적으로—
+068. OSTRANDER: Mrs. Moore, I… that number goes to a management company, and I don't personally—
+    오스트랜더: 무어 부인, 저… 그 번호는 관리 회사로 가요. 제가 개인적으로—
 
 069. GLADYS: You don't personally, and nobody personally. There are forty-two families, and nobody personally.
     글래디스: 당신은 개인적으로 아니고, 아무도 개인적으로 아니지. 마흔두 가구인데 아무도 개인적으로 아니야.
@@ -275,11 +275,11 @@
 087. DAN: To the last part. And to the part about the harassment claim. And to "July thirty-first." Luis Ocasio's contractor said ten days. It's been eight months.
     댄: 마지막 부분. 그리고 괴롭힘 청구 부분. 그리고 '7월 31일'. 루이스 오카시오 업체는 열흘이라고 했어. 벌써 여덟 달이야.
 
-088. OSTRANDER: With respect, there are supply chain issues—
-    오스트랜더: 외람되지만, 공급망 문제가—
+088. OSTRANDER: Mr. Reardon, with respect, there are supply chain issues—
+    오스트랜더: 레이든 변호사님, 외람되지만, 공급망 문제가—
 
-089. RUTH: Can I ask you something about slide nine, young man?
-    루스: 젊은이, 9번 슬라이드에 대해 하나 물어봐도 될까?
+089. RUTH: Mr. Ostrander, can I ask you something about slide nine?
+    루스: 오스트랜더 씨, 9번 슬라이드에 대해 하나 물어봐도 될까요?
 
 090. OSTRANDER: Slide nine?
     오스트랜더: 9번 슬라이드요?
@@ -398,8 +398,8 @@
 128. RUTH: Come to the Bronx, Howard, but the elevator's broken, so you'll have to take the stairs.
     루스: 브롱크스로 와, 하워드. 엘리베이터 고장이라 계단으로 와야 할 거야.
 
-129. HOWARD: There are fifty-four of them, I'm told, and I'll manage. I'm sorry about your heat, ma'am. I'm not allowed to say anything else, but I'm sorry.
-    하워드: 쉰네 개라더군. 해낼 거야. 부인, 난방 일은 유감입니다. 다른 말은 할 수 없지만, 유감입니다.
+129. HOWARD: There are fifty-four of them, I'm told, and I'll manage. Mrs. Moore, I'm sorry about your heat. I'm not allowed to say anything else, but I'm sorry.
+    하워드: 쉰네 개라더군. 해낼 거야. 무어 부인, 난방 일은 유감입니다. 다른 말은 할 수 없지만, 유감입니다.
 
 130. GLADYS: Thank you, sir, because you're the first one here who said it like he meant it.
     글래디스: 고마워요. 여기서 진심으로 말한 사람은 당신이 처음이에요.
