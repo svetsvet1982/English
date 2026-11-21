@@ -39,8 +39,8 @@
 008. ÁLVARO: El hombre que me sacó de la Guardia Civil, que me enseñó a mentir con la cara limpia y que me puso el nombre de Gato.
     알바로: 나를 과르디아 시빌에서 빼낸 사람. 얼굴색 하나 안 바꾸고 거짓말하는 법을 가르쳐 줬고, '가토'라는 이름도 붙여 줬지.
 
-009. RENATA: ¿Tu jefe?
-    레나타: 상사였어?
+009. RENATA: ¿Tu jefe? ¿El que te daba las órdenes cuando empezaste en ese sitio del que nunca me hablas?
+    레나타: 상사였어? 네가 절대 얘기 안 하는 그 직장 처음 들어갔을 때 지시 내리던 사람?
 
 010. ÁLVARO: Más que eso. Durante quince años fue lo más parecido a un padre que tuve dentro de la Casa.
     알바로: 그 이상이지. 15년 동안, 본부 안에서 나한테 아버지나 다름없는 사람이었어.
@@ -69,8 +69,8 @@
 018. ÁLVARO: Si voy acompañado, no viene. Y si no viene, me quedo sin saber si es el lobo o solo el perro que vigila la puerta.
     알바로: 누구랑 같이 가면 안 나와. 안 나오면 그 사람이 늑대인지, 그냥 문 지키는 개인지 끝내 모르게 돼.
 
-019. RENATA: ¿Y cuál prefieres?
-    레나타: 넌 어느 쪽이었으면 좋겠는데?
+019. RENATA: ¿Y cuál de las dos cosas prefieres que sea, si te dan a elegir?
+    레나타: 고를 수 있다면 넌 둘 중에 어느 쪽이었으면 좋겠는데?
 
 020. ÁLVARO: Que sea el perro. Pero me temo que no me van a preguntar qué prefiero.
     알바로: 개였으면 좋겠어. 근데 내가 뭘 바라는지 누가 물어봐 줄 것 같진 않네.
@@ -96,8 +96,8 @@
 027. CAMARERO: Buenas noches, o buenos días, según se mire. ¿Qué le pongo?
     종업원: 안녕히 주무… 아니, 좋은 아침이라고 해야 하나요. 뭘 드릴까요?
 
-028. ÁLVARO: De momento, un café solo. Estoy esperando a alguien.
-    알바로: 일단 에스프레소 한 잔요. 사람을 기다리고 있어서요.
+028. ÁLVARO: De momento, un café solo, por favor. Estoy esperando a alguien que siempre llega puntual.
+    알바로: 일단 에스프레소 한 잔 주세요. 늘 시간 딱 맞춰 오는 사람을 기다리고 있어서요.
 
 029. CAMARERO: ¿Chocolate y churros para dos, entonces? A esta hora todo el mundo acaba pidiendo lo mismo.
     종업원: 그럼 초콜라테에 추로스 2인분 하실래요? 이 시간엔 다들 결국 그걸 시키시거든요.
@@ -114,8 +114,8 @@
 033. VELASCO: Veinte años y te lo sabes sin pensar. Ponte de pie, hijo. Más flaco, más viejo, y el abrigo igual de feo.
     벨라스코: 20년이 지났는데 생각도 안 하고 바로 나오는구나. 일어나 봐라, 얘야. 더 마르고, 더 늙었고, 코트는 여전히 못생겼네.
 
-034. ÁLVARO: Hola, Ignacio.
-    알바로: 안녕하세요, 이그나시오.
+034. ÁLVARO: Hola, Ignacio. Pensé que no vendrías, aunque en el fondo sabía que sí.
+    알바로: 안녕하세요, 이그나시오. 안 오실 줄 알았어요. 속으론 오실 줄 알았지만.
 
 035. VELASCO: Hola, Gato. Chocolate para dos y una ración de porras, por favor. Los churros son para los turistas; las porras, para los que tenemos algo que celebrar.
     벨라스코: 그래, 가토. 초콜라테 두 잔이랑 포라스 한 접시 부탁해요. 추로스는 관광객용이고, 포라스는 축하할 일이 있는 사람들용이지.
@@ -135,11 +135,11 @@
 040. VELASCO: Que me has escrito. Hacía casi dos años que no me escribías. Desde la cena de mi jubilación, cuando te emborrachaste con un vermú y me llamaste traidor por irme a la empresa privada.
     벨라스코: 네가 연락했다는 거. 거의 2년 만이잖니. 내 퇴임 만찬 이후로 처음이야. 그날 너 베르무트 한 잔에 취해서, 민간 회사로 간다고 나더러 배신자라고 했지.
 
-041. ÁLVARO: No estaba borracho.
-    알바로: 안 취했었어요.
+041. ÁLVARO: No estaba borracho, Ignacio. Lo pensaba de verdad, y todavía no sé si me equivocaba.
+    알바로: 안 취했었어요, 이그나시오. 진심이었어요. 그리고 제가 틀렸는지 아직도 모르겠고요.
 
-042. VELASCO: Peor me lo pones.
-    벨라스코: 그럼 더 서운하구나.
+042. VELASCO: Peor me lo pones, hijo. Un borracho tiene excusa; un hombre sobrio, no.
+    벨라스코: 그럼 더 서운하구나, 얘야. 취한 사람은 핑계라도 있지, 맨정신인 사람은 없잖니.
 
 043. ÁLVARO: Sigues con el mechero. Pensé que lo habrías perdido en alguna mudanza.
     알바로: 아직 그 라이터 갖고 다니시네요. 이사하다 어디서 잃어버린 줄 알았어요.
@@ -147,8 +147,8 @@
 044. VELASCO: Ya no se puede fumar dentro de ningún sitio, así que me quedo con el gesto. Un hombre necesita algo en las manos cuando habla de cosas serias.
     벨라스코: 이제 어디 안에서도 담배를 못 피우니, 손짓만 남겨 둔 거지. 남자는 진지한 얘기를 할 때 손에 뭔가 쥐고 있어야 하거든.
 
-045. ÁLVARO: Las dos columnas. "Non plus ultra."
-    알바로: 기둥 두 개. "논 플루스 울트라."
+045. ÁLVARO: Las dos columnas, con su lema de siempre grabado encima: "Non plus ultra."
+    알바로: 기둥 두 개. 그 위엔 늘 그 문구가 새겨져 있고요. "논 플루스 울트라."
 
 046. VELASCO: Las columnas de Hércules. Me lo regaló mi padre cuando aprobé las oposiciones. Lo mandó grabar en una joyería de Cádiz que ya no existe.
     벨라스코: 헤라클레스의 기둥이지. 내가 공무원 시험 붙었을 때 아버지가 선물해 주셨어. 지금은 없어진 카디스의 보석상에서 새겨 오셨지.
@@ -159,8 +159,8 @@
 048. VELASCO: No es una errata, hijo. Es una opinión. Pero esa conversación es para otra noche, cuando seas un poco más viejo.
     벨라스코: 오타가 아니야, 얘야. 하나의 의견이지. 그 얘긴 다른 날 밤에 하자. 네가 조금 더 나이 들었을 때.
 
-049. CAMARERO: Aquí tienen. Cuidado, que el chocolate quema.
-    종업원: 여기 있습니다. 조심하세요, 초콜라테 뜨거워요.
+049. CAMARERO: Aquí tienen, chocolate y porras. Cuidado, que el chocolate quema más de lo que parece.
+    종업원: 여기 있습니다, 초콜라테랑 포라스요. 조심하세요, 초콜라테가 보기보다 뜨거워요.
 
 050. VELASCO: Gracias. Prueba, prueba. Aquí hay cosas que no cambian, y en este país eso ya es un milagro.
     벨라스코: 고마워요. 먹어 봐, 어서. 여긴 안 변하는 것들이 있어. 이 나라에선 그것만으로도 기적이지.
@@ -171,8 +171,8 @@
 052. VELASCO: Con Gonzalo Lezcano. Huevos rotos y mucha prudencia, me imagino. Gonzalo come como un campesino y habla como un notario.
     벨라스코: 곤살로 레스카노랑. 우에보스 로토스에 신중함 잔뜩이었겠지. 곤살로는 농부처럼 먹고 공증인처럼 말하거든.
 
-053. ÁLVARO: Me pidió que te saludara de su parte.
-    알바로: 안부 전해 달래요.
+053. ÁLVARO: Me pidió que te saludara de su parte, como si fuerais viejos compañeros de colegio.
+    알바로: 당신한테 안부 전해 달래요. 무슨 오랜 동창이라도 되는 것처럼.
 
 054. VELASCO: Qué detalle. Siempre ha sido un hombre educado, a pesar de lo que dicen de él en los periódicos.
     벨라스코: 세심하기도 하지. 신문에서 뭐라고 떠들든, 늘 예의 바른 사람이었어.
@@ -192,8 +192,8 @@
 059. ÁLVARO: ¿Quién te lo contó? Eso solo lo sabía mi equipo.
     알바로: 누가 말해 줬는데요? 그건 우리 팀밖에 몰랐어요.
 
-060. VELASCO: Esa pregunta es indigna de ti. Una fuente se protege, aunque sea la de tu enemigo. Y yo no soy tu enemigo.
-    벨라스코: 너답지 않은 질문이구나. 정보원은 보호하는 거야, 적의 정보원이라도. 그리고 난 네 적이 아니다.
+060. VELASCO: Esa pregunta es indigna de ti. Una fuente se protege, aunque sea la de tu enemigo, por mucho que te empeñes. Y yo no soy tu enemigo.
+    벨라스코: 너답지 않은 질문이구나. 정보원은 보호하는 거야, 적의 정보원이라도. 네가 아무리 고집을 부려도. 그리고 난 네 적이 아니다.
 
 061. ÁLVARO: Entonces explícame el informe. Despacio, que a estas horas me cuesta.
     알바로: 그럼 보고서 설명해 봐요. 천천히요, 이 시간엔 머리가 잘 안 돌아가니까.
@@ -201,14 +201,14 @@
 062. VELASCO: Te lo explico encantado. Nos contrataron para revisar a Albar. Hicimos nuestro trabajo y escribimos, en la página catorce, que había movimientos que convenía mirar con lupa. Si nadie la leyó, no es culpa mía.
     벨라스코: 기꺼이 설명해 주지. 알바르를 검토해 달라고 우리를 고용했어. 우린 할 일을 했고, 14쪽에 돋보기 대고 들여다봐야 할 자금 흐름이 있다고 적었어. 아무도 안 읽었다면 그건 내 잘못이 아니지.
 
-063. ÁLVARO: Página catorce.
-    알바로: 14쪽이라.
+063. ÁLVARO: Página catorce. Qué casualidad que sea justo la que nadie lee nunca.
+    알바로: 14쪽이라. 하필 아무도 안 읽는 쪽이라니, 참 우연이네요.
 
 064. VELASCO: Léela. Hay una frase muy bonita: "Se recomienda prudencia." En mi oficio, eso equivale a gritar "fuego" en un teatro.
     벨라스코: 읽어 봐. 아주 예쁜 문장이 하나 있어. "신중을 기할 것을 권고함." 우리 바닥에선 그게 극장 안에서 "불이야!" 하고 외치는 거나 마찬가지야.
 
-065. ÁLVARO: O a lavarse las manos con elegancia.
-    알바로: 아니면 우아하게 손을 씻는 거거나요.
+065. ÁLVARO: O a lavarse las manos con elegancia, para que luego nadie pueda decir que no avisaste.
+    알바로: 아니면 우아하게 손을 씻는 거거나요. 나중에 아무도 경고 안 했다는 소리 못 하게.
 
 066. VELASCO: Ahí está mi Gato. Lo echaba de menos. Los chicos de ahora no saben hacer una ironía sin pedir permiso por escrito.
     벨라스코: 그래, 이게 내 가토지. 보고 싶었다. 요즘 애들은 서면으로 허가받지 않고는 비꼬는 말 하나 못 하거든.
@@ -219,20 +219,20 @@
 068. VELASCO: Ya lo sé. Has venido a mirarme a los ojos para ver si te miento. Adelante, mira. Tienes toda la noche.
     벨라스코: 알지. 내가 거짓말하는지 보려고 내 눈을 들여다보러 왔지. 그래, 봐라. 밤은 기니까.
 
-069. ÁLVARO: ¿Me mientes?
-    알바로: 거짓말하고 있어요?
+069. ÁLVARO: ¿Y me mientes, Ignacio? Porque te miro y sigo sin saberlo.
+    알바로: 그래서 거짓말하고 있어요, 이그나시오? 이렇게 보는데도 모르겠거든요.
 
 070. VELASCO: Te digo lo que te puedo decir. A tu edad deberías saber que eso no es lo mismo que mentir, aunque se le parezca mucho.
     벨라스코: 말해 줄 수 있는 만큼 말하는 거지. 네 나이면 그게 거짓말이랑 아주 비슷해 보여도 같은 건 아니라는 걸 알아야지.
 
-071. ÁLVARO: Esa frase también me la enseñaste tú.
-    알바로: 그 말도 당신이 가르쳐 준 거예요.
+071. ÁLVARO: Esa frase también me la enseñaste tú, en mi primer año, en un coche aparcado en Embajadores.
+    알바로: 그 말도 당신이 가르쳐 준 거예요. 제 첫해에, 엠바하도레스에 세워 둔 차 안에서.
 
 072. VELASCO: Te lo enseñé casi todo, hijo. Por eso me duele verte así, con ese abrigo y esa cara, corriendo detrás de un tren que ya ha salido de la estación.
     벨라스코: 거의 다 내가 가르쳤지, 얘야. 그래서 이런 네 모습 보는 게 마음 아프다. 그 코트에 그 얼굴로, 이미 역을 떠난 기차 뒤를 쫓아 뛰는 게.
 
-073. ÁLVARO: ¿Qué tren?
-    알바로: 무슨 기차요?
+073. ÁLVARO: ¿Qué tren, Ignacio? Habla claro por una vez, que mi padre ya me llena la cabeza de trenes.
+    알바로: 무슨 기차요, 이그나시오? 한 번쯤은 똑바로 말해요. 기차 얘긴 아버지한테 충분히 듣고 있으니까.
 
 074. VELASCO: El de Raíz. Faltan nueve meses para las elecciones, y nadie en el Gobierno quiere que un espía toque al partido que le divide el voto a la oposición. Arrieta te lo dirá pronto.
     벨라스코: 라이스라는 기차. 총선이 아홉 달 남았어. 야당 표를 쪼개 주는 정당을 스파이가 건드리길 바라는 사람은 정부에 아무도 없다. 아리에타가 곧 그렇게 말할 거야.
@@ -252,8 +252,8 @@
 079. VELASCO: Te expliqué algo que nunca se te quedó. El toro solo se torea una vez. Si ve el capote y aprende que detrás del trapo hay un hombre, ya no hay quien lo pare. Va al cuerpo.
     벨라스코: 그때 설명해 준 게 있는데 넌 끝내 못 알아들었지. 소는 딱 한 번만 상대하는 거야. 카포테를 보고 그 천 뒤에 사람이 있다는 걸 배우면, 더는 아무도 못 막아. 몸을 향해 달려들거든.
 
-080. ÁLVARO: ¿Y yo soy el toro?
-    알바로: 그럼 제가 그 소예요?
+080. ÁLVARO: ¿Y yo soy el toro, según tú? ¿El que ya ha visto lo que hay detrás del trapo?
+    알바로: 그럼 당신 말로는 제가 그 소예요? 천 뒤에 뭐가 있는지 이미 본 소?
 
 081. VELASCO: Tú eres el toro que ha aprendido, hijo. Y a los toros que aprenden no los indultan nunca.
     벨라스코: 넌 배워 버린 소야, 얘야. 그리고 배운 소는 절대 사면해 주지 않아.
@@ -264,8 +264,8 @@
 083. VELASCO: Es un consejo. Las amenazas las hacen los que no saben hablar. Yo te estoy pidiendo que pienses en Lucía, en tu padre, en lo que te queda por delante.
     벨라스코: 충고야. 협박은 말할 줄 모르는 놈들이나 하는 거고. 난 루시아를, 네 아버지를, 네 앞에 남은 날들을 생각해 보라고 부탁하는 거다.
 
-084. ÁLVARO: No metas a mi familia en esto.
-    알바로: 우리 가족은 끌어들이지 마세요.
+084. ÁLVARO: No metas a mi familia en esto, Ignacio. Ni a Lucía ni a mi padre.
+    알바로: 우리 가족은 끌어들이지 마세요, 이그나시오. 루시아도, 아버지도요.
 
 085. VELASCO: Yo no la meto. La metes tú cada vez que vuelves a casa con olor a miedo. ¿Cómo está Ramón?
     벨라스코: 내가 끌어들이는 게 아니야. 네가 겁에 전 냄새를 풍기며 집에 들어갈 때마다 끌어들이는 거지. 라몬은 좀 어떠냐?
@@ -303,11 +303,11 @@
 096. ÁLVARO: Tú no te has retirado. Te has cambiado de tendido.
     알바로: 당신은 물러난 게 아니에요. 관람석만 바꿨지.
 
-097. VELASCO: Qué bien te ha sentado México. Vuelves con frases.
-    벨라스코: 멕시코가 너한테 잘 맞았나 보다. 명대사를 들고 돌아왔네.
+097. VELASCO: Qué bien te ha sentado México, hijo. Te fuiste con preguntas y vuelves con frases.
+    벨라스코: 멕시코가 너한테 잘 맞았나 보다, 얘야. 질문만 들고 가더니 명대사를 들고 돌아왔네.
 
-098. ÁLVARO: En México he aprendido otra palabra. Halcón.
-    알바로: 멕시코에서 단어 하나 더 배웠어요. 알콘(매).
+098. ÁLVARO: En México he aprendido otra palabra que seguro que conoces: halcón.
+    알바로: 멕시코에서 단어 하나 더 배웠어요. 분명 아실 거예요. 알콘(매).
 
 099. VELASCO: El chico que vigila la esquina desde la moto. Aquí los llamamos analistas y les pagamos peor.
     벨라스코: 오토바이 타고 길모퉁이 망보는 애들이지. 여기선 분석관이라고 부르고 월급은 더 짜게 주고.
@@ -318,8 +318,8 @@
 101. VELASCO: Pues búscate un ornitólogo, hijo. Yo de pájaros solo sé que el que vuela más alto es el que ve primero.
     벨라스코: 그럼 조류학자를 찾아가 봐라, 얘야. 내가 새에 대해 아는 건 제일 높이 나는 놈이 제일 먼저 본다는 것뿐이야.
 
-102. ÁLVARO: Julio César Prieto. ¿Te dice algo ese nombre?
-    알바로: 훌리오 세사르 프리에토. 그 이름 들으면 떠오르는 거 있어요?
+102. ÁLVARO: Julio César Prieto. ¿Te dice algo ese nombre, o también lo leíste en una página catorce?
+    알바로: 훌리오 세사르 프리에토. 그 이름 들으면 떠오르는 거 있어요? 아니면 그것도 어느 14쪽에서 읽었어요?
 
 103. VELASCO: Lo que dijeron los periódicos. Un contable mexicano que se cayó de un quinto en Serrano. Una pena.
     벨라스코: 신문에 난 정도지. 세라노 거리 5층에서 떨어진 멕시코인 회계사. 안타까운 일이야.
@@ -336,20 +336,20 @@
 107. VELASCO: Hijo, un hombre que se fuma un mentolado tras otro en un balcón, a esas horas, no está pensando en saltar. Está esperando a alguien. Ahí tienes razón.
     벨라스코: 얘야, 그 시간에 발코니에서 멘톨 담배를 줄줄이 피우는 남자는 뛰어내릴 생각을 하는 게 아니야. 누굴 기다리는 거지. 그 점에선 네 말이 맞다.
 
-108. ÁLVARO: Puede ser.
-    알바로: 그럴 수도요.
+108. ÁLVARO: Puede ser. Estaba esperando a alguien, sí, y ese alguien llegó.
+    알바로: 그럴 수도요. 누굴 기다리고 있었죠, 네. 그리고 그 누군가가 왔고요.
 
-109. VELASCO: ¿Qué te pasa? Te has quedado blanco.
-    벨라스코: 왜 그러니? 얼굴이 하얘졌다.
+109. VELASCO: ¿Qué te pasa, hijo? Te has quedado blanco, como si hubieras visto un fantasma.
+    벨라스코: 왜 그러니, 얘야? 얼굴이 하얘졌다. 귀신이라도 본 것처럼.
 
-110. ÁLVARO: El chocolate. Me he quemado la lengua.
-    알바로: 초콜라테요. 혀를 데었어요.
+110. ÁLVARO: El chocolate, nada más. Me he quemado la lengua por no esperar.
+    알바로: 초콜라테 때문이에요, 별거 아니에요. 못 기다리고 마셨다가 혀를 데었어요.
 
 111. VELASCO: Te lo ha dicho el camarero. Nunca escuchas a nadie hasta que te quemas.
     벨라스코: 종업원이 말했잖니. 넌 데어 보기 전엔 누구 말도 안 듣지.
 
-112. ÁLVARO: Será eso.
-    알바로: 그런가 보죠.
+112. ÁLVARO: Será eso. Siempre aprendo tarde, ya lo sabes tú mejor que nadie.
+    알바로: 그런가 보죠. 전 늘 늦게 배우잖아요. 누구보다 당신이 잘 알고요.
 
 113. VELASCO: Te voy a decir una cosa y luego me voy, que a mi edad las madrugadas se pagan. Cuando te canses de que te paguen poco por obedecer a gente que no te respeta, llámame.
     벨라스코: 하나만 말하고 갈게. 내 나이엔 새벽을 새우면 대가를 치르거든. 너를 존중하지도 않는 사람들 말 들어 주고 쥐꼬리만 한 월급 받는 게 지겨워지면, 나한테 전화해라.
@@ -366,20 +366,20 @@
 117. VELASCO: La patria es un cliente más, Gato. Uno que paga tarde, que no da las gracias y que, cuando las cosas salen mal, siempre encuentra a alguien a quien echarle la culpa.
     벨라스코: 조국도 고객 중 하나일 뿐이야, 가토. 돈은 늦게 주고, 고맙단 말은 안 하고, 일이 틀어지면 꼭 누군가한테 책임을 떠넘기는 고객.
 
-118. ÁLVARO: ¿Y tú a quién se la echas?
-    알바로: 그럼 당신은 누구한테 떠넘기는데요?
+118. ÁLVARO: ¿Y tú a quién se la echas cuando las cosas te salen mal a ti?
+    알바로: 그럼 당신은 일이 틀어지면 누구한테 떠넘기는데요?
 
 119. VELASCO: A nadie. Yo cobro por adelantado. ¿Nos cobra, por favor?
     벨라스코: 아무한테도. 난 선불로 받거든. 계산 좀 해 주겠어요?
 
-120. CAMARERO: Son nueve euros con sesenta, don Ignacio.
-    종업원: 9유로 60센트입니다, 돈 이그나시오.
+120. CAMARERO: Son nueve euros con sesenta, don Ignacio. Las porras de hoy, por cuenta de la casa no, que me riñen.
+    종업원: 9유로 60센트입니다, 돈 이그나시오. 오늘 포라스는 서비스로 못 드려요, 혼나거든요.
 
 121. VELASCO: Quédese con el cambio. Cuídate, hijo. Y dale un beso a la niña de mi parte, aunque ya no se acuerde de mí.
     벨라스코: 잔돈은 됐어요. 몸조심해라, 얘야. 딸아이한테 내 대신 뽀뽀 한 번 해 주고. 이제 날 기억 못 하겠지만.
 
-122. ÁLVARO: Se acuerda. Te llamaba "el señor del mechero".
-    알바로: 기억해요. 당신을 '라이터 아저씨'라고 불렀어요.
+122. ÁLVARO: Se acuerda, claro que se acuerda. Te llamaba "el señor del mechero" y te tenía un poco de miedo.
+    알바로: 기억해요, 당연히 기억하죠. 당신을 '라이터 아저씨'라고 불렀어요. 조금 무서워하기도 했고요.
 
 123. VELASCO: Qué memoria tienen los niños. Ojalá la conservara también tu padre. ¿Llueve en Madrid, Gato?
     벨라스코: 애들 기억력이란. 네 아버지도 그 기억력을 지켰으면 좋았을걸. 마드리드에 비가 오나, 가토?
@@ -405,11 +405,11 @@
 130. ÁLVARO: ¿Lo de que Julio fumaba mentolados salió en algún sitio? ¿Prensa, atestado de la Policía, autopsia, lo que sea?
     알바로: 훌리오가 멘톨 담배 피웠다는 거, 어디 나온 적 있어? 언론이든, 경찰 조서든, 부검이든, 뭐든.
 
-131. IKER: Ni de coña… espera, que lo miro.
-    이케르: 설마요… 잠깐만요, 확인해 볼게요.
+131. IKER: Ni de coña… espera, que lo miro, que tengo el portátil aquí al lado de la cama.
+    이케르: 설마요… 잠깐만요, 확인해 볼게요. 침대 옆에 노트북 있어요.
 
-132. ÁLVARO: Te espero.
-    알바로: 기다릴게.
+132. ÁLVARO: Te espero, tranquilo. Mira bien, que de esto depende más de lo que crees.
+    알바로: 기다릴게, 천천히 해. 잘 봐. 이게 네 생각보다 훨씬 중요해.
 
 133. IKER: No. Con la lluvia que caía no recogieron ni una colilla del balcón. Lo del mentolado solo aparece en tu parte, a la una y diez: "Sujeto fuma, mentolado, mira a la calle."
     이케르: 없어요. 그날 비가 쏟아져서 발코니에서 꽁초 하나 못 건졌대요. 멘톨 얘기는 선배 보고서에만 있어요. 1시 10분. "대상, 흡연, 멘톨, 길 쪽 응시."
@@ -429,8 +429,8 @@
 138. ÁLVARO: Eso es lo que me asusta, Iker. Que da igual cómo lo supiera. O lo leyó en un papel de la Casa, o se lo contó alguien que estaba aquella noche en el quinto.
     알바로: 내가 무서운 게 바로 그거야, 이케르. 어떻게 알았든 상관없다는 거. 본부 서류에서 읽었거나, 아니면 그날 밤 5층에 있던 누가 말해 줬거나.
 
-139. IKER: Joder.
-    이케르: 젠장.
+139. IKER: Joder, Gato. Me estás diciendo que puede haber un topo en la Casa.
+    이케르: 젠장, 가토. 지금 본부에 두더지가 있을 수 있다는 얘기잖아요.
 
 140. ÁLVARO: Y hay más. Solo nosotros sabíamos que esa noche Julio estaba en Serrano y que estaba solo. Alguien le dio la dirección a quien subió. Y creo que acabo de tomarme un chocolate con él.
     알바로: 그게 다가 아냐. 그날 밤 훌리오가 세라노에 있고 혼자라는 건 우리밖에 몰랐어. 누군가 올라간 놈한테 주소를 넘겼어. 그리고 난 방금 그 사람이랑 초콜라테를 마신 것 같아.
@@ -438,8 +438,8 @@
 141. IKER: Gato, si es lo que creo, esto no puede ir en un informe. Santi lo enterraría antes de que llegara a Arrieta.
     이케르: 가토, 제 생각이 맞다면 이건 보고서에 못 넣어요. 아리에타 국장한테 닿기도 전에 산티가 묻어 버릴 거예요.
 
-142. ÁLVARO: Por eso no va a haber informe.
-    알바로: 그러니까 보고서는 없어.
+142. ÁLVARO: Por eso no va a haber informe, Iker. Ni hoy ni hasta que yo te lo diga.
+    알바로: 그러니까 보고서는 없어, 이케르. 오늘도, 내가 말할 때까지도.
 
 143. IKER: ¿Y entonces qué hago? Dime qué necesitas y no me lo cuentes todo.
     이케르: 그럼 전 뭘 하면 돼요? 필요한 것만 말해요, 전부 얘기하진 말고요.
