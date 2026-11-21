@@ -187,14 +187,14 @@
 057. CLIMENT: Disfruta. Aquí abajo huele a pólvora y a crema solar. Y te quedan once minutos.
     클리멘트: 즐겨라. 여긴 화약이랑 선크림 냄새뿐이야. 그리고 11분 남았어.
 
-058. SOROKIN: Señor Robles, ¿le gusta el balcón? Lo alquilé hace un año. En Alicante, un balcón en Luceros para la última mascletà vale más que un apartamento en Benidorm.
-    소로킨: 로블레스 씨, 발코니 마음에 드십니까? 1년 전에 빌렸지요. 알리칸테에선 마지막 마스클레타 날 루세로스 발코니가 베니도름 아파트보다 비쌉니다.
+058. SOROKIN: Javier, ¿le gusta el balcón? Lo alquilé hace un año. En Alicante, un balcón en Luceros para la última mascletà vale más que un apartamento en Benidorm.
+    소로킨: 하비에르, 발코니 마음에 드십니까? 1년 전에 빌렸지요. 알리칸테에선 마지막 마스클레타 날 루세로스 발코니가 베니도름 아파트보다 비쌉니다.
 
 059. ÁLVARO: Pues véndamelo. Le compro el balcón y nos olvidamos del ático.
     알바로: 그럼 이걸 파세요. 발코니를 살 테니 펜트하우스는 잊어버리죠.
 
-060. SOROKIN: Usted siempre negociando. Me gusta. ¿Ha visto alguna vez una mascletà?
-    소로킨: 늘 흥정이시군요. 마음에 듭니다. 마스클레타 보신 적 있습니까?
+060. SOROKIN: Usted siempre negociando, Javier. Me gusta. ¿Ha visto alguna vez una mascletà?
+    소로킨: 늘 흥정이시군요, 하비에르. 마음에 듭니다. 마스클레타 보신 적 있습니까?
 
 061. ÁLVARO: En la tele. Ruido, humo y gente llorando de emoción, creo.
     알바로: TV로요. 소음, 연기, 감격해서 우는 사람들, 그런 거요.
@@ -202,8 +202,8 @@
 062. SOROKIN: La tele no sirve. La mascletà se escucha con el estómago. Si pudiera explicárselo con palabras, no le habría hecho venir.
     소로킨: TV로는 소용없어요. 마스클레타는 배로 듣는 겁니다. 말로 설명할 수 있었다면 오시라고 하지도 않았겠지요.
 
-063. ÁLVARO: He venido por el ático de Levante. Me prometió los papeles.
-    알바로: 난 레반테 펜트하우스 때문에 왔어요. 서류 준다고 했잖아요.
+063. ÁLVARO: He venido por lo de Luxemburgo. Me prometió los papeles.
+    알바로: 난 룩셈부르크 건 때문에 왔어요. 서류 준다고 했잖아요.
 
 064. SOROKIN: Los papeles, sí. Dmitri los tiene. Dmitri, los papeles del señor Robles.
     소로킨: 서류, 그렇지요. 드미트리가 갖고 있습니다. 드미트리, 로블레스 씨 서류.
@@ -217,8 +217,8 @@
 067. ÁLVARO: En el mío decimos que el que no habla es que no tiene nada que decir.
     알바로: 우리나라에선 말 안 하는 사람은 할 말이 없어서 그런 거라고 해요.
 
-068. DMITRI: Usted habla mucho, señor Robles. Para ser un hombre de Madrid, tiene amigos en todas partes. Hasta en Barcelona.
-    드미트리: 로블레스 씨는 말이 많으시네요. 마드리드 사람치고 여기저기 친구가 많으시고요. 바르셀로나에까지.
+068. DMITRI: Usted habla mucho, señor Robles. Hombre de Madrid, amigos en todas partes. También en Barcelona.
+    드미트리: 말 많으시네요, 로블레스 씨. 마드리드 사람, 친구는 어디에나. 바르셀로나에도.
 
 069. CLIMENT: Medina, ojo con ese. No le contestes.
     클리멘트: 메디나, 저놈 조심해. 대꾸하지 마.
@@ -229,14 +229,14 @@
 071. SOROKIN: Bravo. Eso podría decirlo un ruso. Mire, faltan dos minutos.
     소로킨: 브라보. 러시아 사람이 할 법한 말이군요. 보세요, 2분 남았습니다.
 
-072. ÁLVARO: ¿Y por qué me ha invitado a mí, señor Sorokin? Seguro que en este balcón hay compradores más interesantes que yo.
-    알바로: 근데 왜 하필 날 초대했어요, 소로킨 씨? 이 발코니엔 나보다 흥미로운 손님이 분명 있을 텐데.
+072. ÁLVARO: ¿Y por qué me ha invitado a mí, Pavel? Seguro que en este balcón hay compradores más interesantes que yo.
+    알바로: 근데 왜 하필 날 초대했어요, 파벨? 이 발코니엔 나보다 흥미로운 손님이 분명 있을 텐데.
 
 073. SOROKIN: Porque me recuerda a alguien. Un hombre que compraba cosas que no necesitaba solo para ver quién se las vendía.
     소로킨: 누굴 떠올리게 하셔서요. 필요도 없는 걸 사던 사람이었죠. 누가 파는지 보려고요.
 
-074. ÁLVARO: Yo compro casas, señor Sorokin. Lo demás me da bastante igual.
-    알바로: 난 집을 사요, 소로킨 씨. 나머진 별 관심 없어요.
+074. ÁLVARO: Yo compro casas, Pavel. Lo demás me da bastante igual.
+    알바로: 난 집을 사요, 파벨. 나머진 별 관심 없어요.
 
 075. SOROKIN: Claro. Escuche: primero los truenos, uno a uno, como pasos. Luego el ritmo. Y al final, el terremoto. Si estuviera usted abajo, sentiría el suelo moverse bajo los pies.
     소로킨: 물론이죠. 들어 보세요. 먼저 천둥이 하나씩, 발소리처럼. 그다음 리듬. 마지막엔 지진. 아래에 계셨다면 발밑에서 땅이 움직이는 게 느껴지실 겁니다.
@@ -265,8 +265,8 @@
 083. CLIMENT: Medina... ¿me oyes? El de la ceja... te está haciendo fotos con el móvil...
     클리멘트: 메디나… 들려? 눈썹 흉터… 너 폰으로 찍고 있어…
 
-084. ÁLVARO: ¡Brindo por Alicante!
-    알바로: 알리칸테를 위하여!
+084. ÁLVARO: ¡Brindo por Alicante, Pavel!
+    알바로: 알리칸테를 위하여, 파벨!
 
 085. SOROKIN: ¡Por Alicante! ¡Por todo lo que se quema!
     소로킨: 알리칸테를 위하여! 불타는 모든 것을 위하여!
@@ -277,8 +277,8 @@
 087. ÁLVARO: Me pitan los oídos.
     알바로: 귀가 울려요.
 
-088. SOROKIN: Se le pasará. Esta noche quemamos la foguera que patrocina mi empresa, en el Raval Roig. Una bombilla, muy simbólico. Venga a medianoche y le daré los papeles en mano, delante del fuego.
-    소로킨: 곧 괜찮아지실 겁니다. 오늘 밤 라발 로이그에서 우리 회사가 후원한 오게라를 태웁니다. 전구 모양이에요. 아주 상징적이죠. 자정에 오시면 불 앞에서 서류를 직접 드리겠습니다.
+088. SOROKIN: Se le pasará. Esta noche quemamos la foguera que patrocina mi empresa, en el Raval Roig. Una bombilla, muy simbólico. Venga a medianoche y le daré los papeles de Luxemburgo en mano, delante del fuego.
+    소로킨: 곧 괜찮아지실 겁니다. 오늘 밤 라발 로이그에서 우리 회사가 후원한 오게라를 태웁니다. 전구 모양이에요. 아주 상징적이죠. 자정에 오시면 불 앞에서 룩셈부르크 서류를 직접 드리겠습니다.
 
 089. ÁLVARO: ¿Y si prefiero que me los mande por correo?
     알바로: 우편으로 받고 싶다면요?
@@ -286,14 +286,14 @@
 090. SOROKIN: Entonces usted no sería el hombre que yo creo, y yo me habría equivocado, cosa que casi nunca me pasa. Dmitri, acompaña al señor Robles hasta la escalera.
     소로킨: 그렇다면 당신은 제가 생각하는 그 사람이 아니고, 제가 틀린 거겠지요. 저한텐 거의 없는 일입니다. 드미트리, 로블레스 씨를 계단까지 모셔.
 
-091. DMITRI: Cuidado con los escalones, señor Robles. Esta noche habrá mucha gente y poca luz.
-    드미트리: 계단 조심하세요, 로블레스 씨. 오늘 밤엔 사람은 많고 불빛은 적을 테니까.
+091. DMITRI: Cuidado con escalones, señor Robles. Esta noche, mucha gente. Poca luz.
+    드미트리: 계단 조심하세요, 로블레스 씨. 오늘 밤엔 사람 많아요. 불빛은 적고.
 
 092. CLIMENT: ¿Estás bien? Te he visto salir del portal más blanco que la espuma de la fuente.
     클리멘트: 괜찮아? 건물 현관에서 나오는데 분수 거품보다 더 하얗더라.
 
-093. ÁLVARO: El de la ceja me ha mencionado Barcelona. Sabe quién soy, o lo sospecha. Y Sorokin quiere que vaya esta noche a la cremà del Raval Roig, a la foguera de don Vicente.
-    알바로: 눈썹 흉터가 바르셀로나 얘길 꺼냈어. 내가 누군지 알거나, 의심하고 있어. 그리고 소로킨은 오늘 밤 라발 로이그 크레마에 오래. 돈 비센테네 오게라에.
+093. ÁLVARO: El de la ceja ha vuelto a sacar Barcelona. Sabe quién soy, o lo sospecha. Y Sorokin quiere que vaya esta noche a la cremà del Raval Roig, a la foguera de don Vicente.
+    알바로: 눈썹 흉터가 또 바르셀로나 얘길 꺼냈어. 내가 누군지 알거나, 의심하고 있어. 그리고 소로킨은 오늘 밤 라발 로이그 크레마에 오래. 돈 비센테네 오게라에.
 
 094. CLIMENT: Xe, no m'agrada gens. Si te han reconocido, no te invitan a una fiesta. Te invitan a una trampa con música.
     클리멘트: 어휴, 하나도 맘에 안 들어. 널 알아봤으면 그건 파티 초대가 아니야. 음악 깔린 함정 초대지.
