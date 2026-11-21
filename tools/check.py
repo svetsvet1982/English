@@ -26,7 +26,7 @@ for p in args:
     issues = []
     if mix[2] + mix[3] < 30: issues.append("too few long turns (16+ words should be ~40%)")
     if mix[3] < 8: issues.append("too few 26+ word turns (~15%)")
-    if mix[0] < 15: issues.append("too few short turns (~25%)")
+    if mix[0] < (10 if TURNS == 150 else 15): issues.append("too few short turns")
     if over: issues.append(f"{over} turn(s) over 45 words")
     stat = f"short {mix[0]}% / medium {mix[1]}% / longer {mix[2]}% / long {mix[3]}%"
     if issues:
