@@ -19,8 +19,8 @@
 001. IKER: ¿Gato? Si eres tú, no digas nada. Tose dos veces, que de este teléfono no me fío.
     이케르: 가토? 형이면 아무 말도 하지 마요. 기침 두 번 해요. 이 전화 못 믿겠어서.
 
-002. ÁLVARO: Te oigo perfectamente, Iker, y no pienso toser en un vagón lleno de gente.
-    알바로: 잘 들려, 이케르. 그리고 사람 꽉 찬 객차에서 기침 같은 거 안 할 거야.
+002. ÁLVARO: Te oigo perfectamente, Iker, y no pienso toser en un vagón lleno de gente que ya me mira raro.
+    알바로: 잘 들려, 이케르. 그리고 벌써 날 이상하게 보는 사람들로 꽉 찬 객차에서 기침 같은 거 안 할 거야.
 
 003. IKER: Vale, pues habla bajito y no digas nombres. ¿Dónde estás ahora mismo?
     이케르: 알았어요, 그럼 작게 말하고 이름은 대지 마요. 지금 어디예요?
@@ -40,8 +40,8 @@
 008. ÁLVARO: ¿Y desde qué teléfono me llamas? Dime que no es el tuyo de siempre.
     알바로: 근데 무슨 전화로 거는 거야? 늘 쓰던 거 아니라고 말해 줘.
 
-009. IKER: De un prepago del bazar de Lavapiés. Venía con funda de Hello Kitty. No preguntes.
-    이케르: 라바피에스 잡화점에서 산 선불폰이요. 헬로키티 케이스가 딸려 왔어요. 묻지 마요.
+009. IKER: De un prepago que he comprado en un bazar de Lavapiés. Venía con funda de Hello Kitty de regalo. No preguntes.
+    이케르: 라바피에스 잡화점에서 산 선불폰이요. 헬로키티 케이스가 덤으로 딸려 왔어요. 묻지 마요.
 
 010. ÁLVARO: No pregunto. Escucha: este número no lo tiene nadie más. Ni Arrieta, ni Núria, ni mi hija.
     알바로: 안 물어. 잘 들어. 이 번호는 아무도 몰라. 아리에타도, 누리아도, 내 딸도.
@@ -49,26 +49,26 @@
 011. IKER: ¿Ni Lucía? Gato, si se entera de que yo lo tengo antes que ella, me mata. Y con razón.
     이케르: 루시아도요? 가토, 걔가 자기보다 제가 먼저 받았다는 거 알면 저 죽어요. 그것도 당연히.
 
-012. ÁLVARO: Lucía me pidió que no le dijera adónde iba, para no tener que mentir si le preguntaban. Tiene dieciséis años y más cabeza que yo.
-    알바로: 루시아가 어디 가는지 말하지 말랬어. 누가 물어봐도 거짓말 안 하게. 열여섯 살인데 나보다 머리가 좋아.
+012. ÁLVARO: Lucía me pidió que no le dijera adónde iba, para no tener que mentir si le preguntaban. Tiene dieciséis años y más cabeza que yo, que ya es decir poco.
+    알바로: 루시아가 어디 가는지 말하지 말랬어. 누가 물어봐도 거짓말 안 하게. 열여섯 살인데 나보다 머리가 좋아. 하긴 그게 대단한 건 아니지만.
 
 013. IKER: ¿Y adónde vas? Bueno, mejor no me lo digas. Dime solo si hace calor.
     이케르: 그래서 어디 가는데요? 아니, 말하지 마요. 더운지만 말해 줘요.
 
-014. ÁLVARO: Hace calor. Y el aire acondicionado del vagón huele a cebolla frita.
-    알바로: 더워. 그리고 객차 에어컨에서 양파 튀긴 냄새가 나.
+014. ÁLVARO: Hace calor. Y el aire acondicionado del vagón huele a cebolla frita desde que hemos pasado Córdoba.
+    알바로: 더워. 그리고 코르도바 지나고부터 객차 에어컨에서 양파 튀긴 냄새가 나.
 
 015. IKER: Sur, entonces. Ahora escucha tú. Los trescientos mil de la cuenta de Javier Robles no entraron de golpe: fueron cinco transferencias desde mayo, todas desde una sociedad de Gibraltar.
     이케르: 그럼 남쪽이네요. 이제 형이 들어요. 하비에르 로블레스 계좌의 30만 유로는 한 번에 들어온 게 아니에요. 5월부터 다섯 번 송금됐고, 전부 지브롤터 법인에서 왔어요.
 
-016. ÁLVARO: ¿Atalaya Advisory? ¿La del número que llamó en mayo al ruso de Villajoyosa?
-    알바로: 아탈라야 어드바이저리? 5월에 비야호요사 그 러시아인한테 전화한 번호의 그 회사?
+016. ÁLVARO: ¿Atalaya Advisory? ¿La misma empresa del número que llamó en mayo al ruso de Villajoyosa para darle mi nombre?
+    알바로: 아탈라야 어드바이저리? 5월에 비야호요사 그 러시아인한테 전화해서 내 이름을 준 번호의 그 회사?
 
 017. IKER: Ni de coña… espera, sí. Bueno, es una filial de una filial. Pero la registró el mismo abogado que Atalaya Advisory.
     이케르: 설마… 잠깐, 맞네. 아니, 자회사의 자회사예요. 근데 등록한 변호사가 아탈라야 어드바이저리랑 같은 사람이에요.
 
-018. ÁLVARO: O sea, que Ignacio me ha estado pagando un sueldo para que parezca un traidor. Qué detalle. Nunca me había subido el sueldo nadie.
-    알바로: 그러니까 이그나시오가 날 배신자로 보이게 하려고 월급을 꼬박꼬박 줬다는 거네. 세심하기도 하지. 나한테 월급 올려 준 사람은 처음이야.
+018. ÁLVARO: O sea, que Ignacio me ha estado pagando un sueldo para que parezca un traidor. Qué detalle. En quince años, la Casa nunca me subió el sueldo tanto.
+    알바로: 그러니까 이그나시오가 날 배신자로 보이게 하려고 월급을 꼬박꼬박 줬다는 거네. 세심하기도 하지. 15년 동안 본부는 월급을 그만큼 올려 준 적이 없는데.
 
 019. IKER: Gato, ¿por qué el sur? Si hubieras cogido un avión a Bilbao, mi madre te habría escondido en el caserío de mi abuelo y no te habría encontrado nadie en la vida.
     이케르: 가토, 왜 남쪽이에요? 빌바오행 비행기만 탔으면 우리 엄마가 할아버지 농가에 숨겨 줬을 거고, 평생 아무도 못 찾았을 텐데.
@@ -79,11 +79,11 @@
 021. ÁLVARO: Es por el mechero de Velasco, Iker. Se lo grabaron en una joyería de Cádiz que ya no existe. Y él nació allí, en el barrio de La Viña, aunque lo cuente muy poco.
     알바로: 벨라스코 라이터 때문이야, 이케르. 그거 지금은 없어진 카디스의 보석상에서 각인한 거야. 그리고 그 사람, 거기 라 비냐 동네에서 태어났어. 본인은 잘 얘기 안 하지만.
 
-022. IKER: ¿Vas a buscar a un joyero por un mechero? ¿Con media España buscándote a ti?
-    이케르: 라이터 하나 때문에 보석상을 찾으러 간다고요? 스페인 반이 형을 찾고 있는데?
+022. IKER: ¿Vas a buscar a un joyero por un mechero? ¿Con media España buscándote a ti? Gato, estás peor de lo que pensaba.
+    이케르: 라이터 하나 때문에 보석상을 찾으러 간다고요? 스페인 반이 형을 찾고 있는데? 가토, 생각보다 상태가 심각하네요.
 
-023. ÁLVARO: Voy a buscar de dónde sale Ignacio. Todo el mundo tiene un sitio donde fue pequeño, y ahí es donde se le ven las costuras.
-    알바로: 이그나시오가 어디서 나온 사람인지 찾으러 가는 거야. 누구나 어릴 적 살던 데가 있고, 거기서 꿰맨 자국이 보이거든.
+023. ÁLVARO: Voy a buscar de dónde sale Ignacio. Todo el mundo tiene un sitio donde fue pequeño, y ahí es donde se le ven las costuras, por muy bien vestido que vaya.
+    알바로: 이그나시오가 어디서 나온 사람인지 찾으러 가는 거야. 누구나 어릴 적 살던 데가 있고, 거기선 꿰맨 자국이 보이거든. 아무리 잘 차려입어도.
 
 024. ÁLVARO: Te dejo, que viene el revisor por el pasillo con cara de pedir el DNI.
     알바로: 끊는다. 검표원이 신분증 달라고 할 얼굴로 통로로 오고 있어.
@@ -97,14 +97,14 @@
 027. ÁLVARO: No tengo prisa, no se preocupe. A mí no me espera nadie en Cádiz.
     알바로: 안 급해요, 걱정 마세요. 카디스에 절 기다리는 사람은 없어요.
 
-028. REVISOR: Eso dicen todos los que bajan en Cádiz en julio. Luego conocen a alguien en la playa de la Victoria y ya no vuelven.
-    검표원: 7월에 카디스에서 내리는 사람은 다 그렇게 말해요. 그러다 빅토리아 해변에서 누굴 만나면 다신 안 돌아가죠.
+028. REVISOR: Eso dicen todos los que bajan en Cádiz en julio. Luego conocen a alguien en la playa de la Victoria, se comen unas tortillitas de camarones y ya no vuelven.
+    검표원: 7월에 카디스에서 내리는 사람은 다 그렇게 말해요. 그러다 빅토리아 해변에서 누굴 만나고, 새우 부침개 좀 먹고 나면 다신 안 돌아가죠.
 
 029. ÁLVARO: Yo no vengo a la playa. Vengo por trabajo, aunque con esta camisa no lo parezca.
     알바로: 전 해변에 가는 거 아니에요. 일 때문에 가요. 이 셔츠로는 안 그래 보이겠지만.
 
-030. REVISOR: Pues trae usted cara de necesitar la playa más que el trabajo. Buen viaje.
-    검표원: 그런데 얼굴은 일보다 해변이 더 필요해 보이시네요. 좋은 여행 되세요.
+030. REVISOR: Pues trae usted cara de necesitar la playa más que el trabajo, caballero. Hágame caso y báñese. Buen viaje.
+    검표원: 그런데 얼굴은 일보다 해변이 더 필요해 보이시네요, 손님. 제 말 듣고 바다에 좀 들어가세요. 좋은 여행 되세요.
 
 031. CASERA: Pase, pase. Treinta euros la noche, por adelantado y en efectivo.
     마리 앙헬레스: 들어와요, 들어와. 하룻밤 30유로, 선불에 현금으로.
@@ -127,8 +127,8 @@
 037. CASERA: Lo de siempre: políticos, el apagón y un espía fugado. Yo no veo noticias, hijo. Me suben la tensión.
     마리 앙헬레스: 맨날 그거죠. 정치인들, 정전, 도망친 스파이 하나. 난 뉴스 안 봐요, 젊은 양반. 혈압 올라서.
 
-038. ÁLVARO: Hace usted muy bien. A mí también me suben la tensión, últimamente más que nunca.
-    알바로: 아주 잘하시는 거예요. 저도 혈압 올라요. 요즘은 그 어느 때보다.
+038. ÁLVARO: Hace usted muy bien, señora. A mí también me suben la tensión, y últimamente más que nunca, créame.
+    알바로: 아주 잘하시는 거예요. 저도 혈압 올라요. 요즘은 그 어느 때보다, 정말로요.
 
 039. CASERA: Si llaman de madrugada, no abra: o es la droga o es la Guardia Civil.
     마리 앙헬레스: 새벽에 누가 초인종 누르면 열지 마요. 마약 하는 놈들 아니면 과르디아 시빌이니까.
@@ -154,8 +154,8 @@
 046. ROCÍO: Date la vuelta. Contra la pared. ¿Álvaro Medina, cuarenta y cinco años, de Madrid, agente del CNI con orden de busca y captura?
     로시오: 돌아서. 벽에 붙어. 알바로 메디나, 마흔다섯, 마드리드 출신, 수배령 떨어진 CNI 요원 맞지?
 
-047. ÁLVARO: Depende de quién pregunte. Últimamente me lo pregunta mucha gente.
-    알바로: 누가 묻느냐에 따라 다르지. 요즘 그걸 묻는 사람이 많아서.
+047. ÁLVARO: Depende de quién pregunte. Últimamente me lo pregunta mucha gente, y casi nadie con buenas intenciones.
+    알바로: 누가 묻느냐에 따라 다르지. 요즘 그걸 묻는 사람이 많은데, 좋은 뜻으로 묻는 사람은 거의 없거든.
 
 048. ROCÍO: La sargento Rocío Benítez, del puesto de Barbate. La que te esposa. ¿Te vale?
     로시오: 바르바테 초소의 로시오 베니테스 경사. 너한테 수갑 채우는 사람. 됐어?
@@ -175,8 +175,8 @@
 053. ÁLVARO: Tenía hambre. Y la mojama de aquí tiene fama hasta en Madrid.
     알바로: 배고팠어. 그리고 여기 모하마는 마드리드에서도 유명하잖아.
 
-054. ROCÍO: Luego te pasaste una hora mirando el mar desde el paseo, sin bañarte, con unos zapatos de oficina. Illo, parecías un notario en un entierro.
-    로시오: 그다음엔 산책로에서 한 시간 동안 바다만 봤지. 수영도 안 하고, 사무실 구두 신고. 얘, 장례식 온 공증인 같더라.
+054. ROCÍO: Luego te pasaste una hora mirando el mar desde el paseo, sin bañarte, con unos zapatos de oficina y la mochila abrazada. Illo, parecías un notario en un entierro.
+    로시오: 그다음엔 산책로에서 한 시간 동안 바다만 봤지. 수영도 안 하고, 사무실 구두 신고, 가방은 꼭 끌어안고. 얘, 장례식 온 공증인 같더라.
 
 055. ÁLVARO: O sea, que lo de la barba no ha funcionado. Tres días sin afeitarme para nada.
     알바로: 그러니까 수염은 소용없었네. 사흘이나 면도 안 했는데 헛수고야.
@@ -193,11 +193,11 @@
 059. ÁLVARO: ¿Y quieres saberlo de verdad, o solo quieres algo bonito para el informe?
     알바로: 정말 알고 싶은 거야, 아니면 보고서에 쓸 그럴듯한 얘기가 필요한 거야?
 
-060. ROCÍO: Quiero saberlo. Tienes hasta que salga el sol. Luego llamo al cuartel, me dan una medalla y tú te vuelves a Madrid en un furgón.
-    로시오: 알고 싶어. 해 뜰 때까지 시간 줄게. 그다음엔 초소에 전화하고, 난 훈장 받고, 넌 호송차 타고 마드리드로 돌아가는 거야.
+060. ROCÍO: Quiero saberlo. Tienes hasta que salga el sol. Luego llamo al cuartel, me dan una medalla y tú te vuelves a Madrid en un furgón, con aire acondicionado si tienes suerte.
+    로시오: 알고 싶어. 해 뜰 때까지 시간 줄게. 그다음엔 초소에 전화하고, 난 훈장 받고, 넌 호송차 타고 마드리드로 가는 거야. 운 좋으면 에어컨 나오는 걸로.
 
-061. ÁLVARO: Es una historia larga, y la mitad no te la vas a creer.
-    알바로: 긴 얘기야. 그리고 반은 안 믿을 거야.
+061. ÁLVARO: Es una historia larga, y la mitad no te la vas a creer. Yo mismo todavía no me la creo.
+    알바로: 긴 얘기야. 그리고 반은 안 믿을 거야. 나도 아직 안 믿기거든.
 
 062. ROCÍO: Mejor, la noche es larga. Tengo dos cervezas; una todavía no te la has ganado.
     로시오: 잘됐네, 밤은 기니까. 맥주 두 캔 있어. 하나는 아직 네가 받을 자격이 없고.
@@ -220,11 +220,11 @@
 068. ROCÍO: ¿A Raíz? Illo, lo de los tres mil abuelitos que donaban sin saberlo lo vi en las noticias. A mi madre le pidieron una firma.
     로시오: 라이스? 얘, 모르는 사이에 후원자가 된 할머니 할아버지 3천 명 얘기, 뉴스에서 봤어. 우리 엄마한테도 누가 서명해 달라더라.
 
-069. ÁLVARO: Pues detrás de todo aquello había un informe de una consultora muy elegante de la Castellana. Atalaya Risk Consulting. Su dueño se llama Ignacio Velasco.
-    알바로: 근데 그 모든 것 뒤에 카스테야나에 있는 아주 우아한 컨설팅 회사의 보고서가 있었어. 아탈라야 리스크 컨설팅. 주인 이름이 이그나시오 벨라스코야.
+069. ÁLVARO: Pues detrás de todo aquello había un informe de una consultora muy elegante de la Castellana, con moqueta y vistas. Atalaya Risk Consulting. Su dueño se llama Ignacio Velasco.
+    알바로: 근데 그 모든 것 뒤에 카스테야나의 아주 우아한 컨설팅 회사 보고서가 있었어. 카펫 깔리고 전망 좋은 데. 아탈라야 리스크 컨설팅. 주인 이름이 이그나시오 벨라스코야.
 
-070. ROCÍO: ¿Velasco? ¿El del pelo blanco que sale en la tele diciendo que ya lo avisó?
-    로시오: 벨라스코? 텔레비전에 나와서 자기가 이미 경고했다는 그 백발 아저씨?
+070. ROCÍO: ¿Velasco? ¿El del pelo blanco que sale en la tele diciendo que ya lo avisó? Mi madre dice que habla muy bonito.
+    로시오: 벨라스코? 텔레비전에 나와서 자기가 이미 경고했다는 그 백발 아저씨? 우리 엄마는 그 사람 말을 참 예쁘게 한대.
 
 071. ÁLVARO: Ese. Fue mi jefe durante quince años. Me sacó de la Guardia Civil, me puso el nombre de Gato y vino a mi boda.
     알바로: 그 사람. 15년 동안 내 상관이었어. 날 과르디아 시빌에서 빼 왔고, 가토라는 이름을 붙여 줬고, 내 결혼식에도 왔지.
@@ -244,8 +244,8 @@
 076. ROCÍO: ¿Siete ministros? ¿Y eso no salió en la tele? Porque yo me acordaría.
     로시오: 장관 일곱 명? 그게 텔레비전에 안 나왔어? 나왔으면 기억할 텐데.
 
-077. ÁLVARO: Salió que lo había resuelto otra gente. La que lo resolvió de verdad, una chica de Poblenou, tiene ahora su nombre borrado de un informe.
-    알바로: 다른 사람들이 해결했다고 나왔지. 진짜로 해결한 포블레노우의 그 친구는 보고서에서 이름이 지워졌고.
+077. ÁLVARO: Salió que lo había resuelto otra gente. La que lo resolvió de verdad, una chica de Poblenou que odia al CNI, tiene ahora su nombre borrado de un informe oficial.
+    알바로: 다른 사람들이 해결했다고 나왔지. 진짜로 해결한 건 CNI를 싫어하는 포블레노우의 친구인데, 지금은 공식 보고서에서 이름이 지워졌어.
 
 078. ROCÍO: Eso me suena. Aquí pasa igual: el alijo lo coge un guardia y la foto se la hace un ministro.
     로시오: 어디서 많이 들어 본 얘기네. 여기도 똑같아. 마약은 대원이 잡고, 사진은 장관이 찍어.
@@ -304,8 +304,8 @@
 096. ROCÍO: Toma. La cerveza. Te la has ganado, más o menos. Está caliente, que la nevera de esta pensión es de los tiempos de Franco.
     로시오: 자. 맥주. 대충 받을 자격은 된 것 같네. 미지근해. 이 하숙집 냉장고가 프랑코 시절 거라서.
 
-097. ÁLVARO: Gracias. ¿Y tú? Llevo dos horas hablando. ¿Por qué no me has entregado ya?
-    알바로: 고마워. 너는? 나 두 시간째 떠들고 있어. 왜 아직 안 넘겼어?
+097. ÁLVARO: Gracias. ¿Y tú? Llevo dos horas hablando y tú no me has contado nada. ¿Por qué no me has entregado ya?
+    알바로: 고마워. 너는? 나 두 시간째 떠드는데 넌 아무 얘기도 안 했어. 왜 아직 안 넘겼어?
 
 098. ROCÍO: Porque tú hablas de un señor de la Castellana y yo tengo aquí abajo el mar lleno de lanchas. A lo mejor es el mismo dinero, a lo mejor no. Me gustaría saberlo antes de que te lleven.
     로시오: 넌 카스테야나의 어떤 아저씨 얘길 하는데, 난 여기 아래 바다에 쾌속정이 바글바글하거든. 같은 돈일 수도 있고, 아닐 수도 있지. 너 끌려가기 전에 그걸 알고 싶어.
@@ -322,11 +322,11 @@
 102. ROCÍO: No lo leíste, lo viste. Había gente grabando desde el muelle. Y alguno aplaudía.
     로시오: 읽은 게 아니라 본 거야. 부두에서 찍는 사람들이 있었으니까. 그리고 몇몇은 박수를 쳤지.
 
-103. ÁLVARO: Lo siento mucho, de verdad. No quería abrir eso a estas horas.
-    알바로: 정말 미안해. 이 시간에 그 얘길 꺼내게 할 생각은 없었어.
+103. ÁLVARO: Lo siento mucho. No quería abrir eso.
+    알바로: 정말 미안해. 그 얘길 꺼내게 할 생각은 없었어.
 
-104. ROCÍO: Juan y Migue. Juan tenía dos niños y hacía unas croquetas de choco buenísimas. Migue, el más joven, me llamaba "jefa" para hacerme rabiar.
-    로시오: 후안이랑 미게. 후안은 애가 둘이었고, 갑오징어 크로켓을 끝내주게 만들었어. 막내 미게는 나 약 올리려고 "대장님"이라고 불렀지.
+104. ROCÍO: Juan y Migue. Juan tenía dos niños y hacía unas croquetas de choco buenísimas. Migue, el más joven del puesto, me llamaba "jefa" para hacerme rabiar, y lo conseguía siempre.
+    로시오: 후안이랑 미게. 후안은 애가 둘이었고, 갑오징어 크로켓을 끝내주게 만들었어. 초소 막내 미게는 나 약 올리려고 "대장님"이라고 불렀는데, 매번 성공했지.
 
 105. ÁLVARO: ¿Tú estabas allí esa noche? ¿En el puerto, con ellos?
     알바로: 그날 밤 너도 거기 있었어? 항구에, 그 사람들이랑?
@@ -334,7 +334,7 @@
 106. ROCÍO: Tenía que estar. Le cambié el turno a Migue porque era el cumpleaños de mi madre. Si no me hubiera cambiado el turno, a lo mejor la del cementerio sería yo, y él estaría aquí contigo.
     로시오: 있어야 했지. 엄마 생일이라서 미게랑 근무를 바꿨거든. 내가 근무를 안 바꿨으면, 어쩌면 묘지에 있는 건 나고, 지금 너랑 여기 있는 건 걔였을 거야.
 
-107. ÁLVARO: O estaríais vivos los dos. Eso no se sabe.
+107. ÁLVARO: O estaríais vivos los dos. No se sabe.
     알바로: 아니면 둘 다 살아 있었을 수도 있고. 그건 모르는 거야.
 
 108. ROCÍO: No se sabe. Eso es lo peor. Desde entonces, si oigo motores de noche, me asomo. Mi madre dice que parezco un gato.
@@ -346,7 +346,7 @@
 110. ROCÍO: No te emociones, illo. Aquí los gatos comen pescado y saben nadar.
     로시오: 김칫국 마시지 마, 얘. 여기 고양이들은 생선 먹고 헤엄도 쳐.
 
-111. ÁLVARO: ¿Y qué tienen que ver esas lanchas con Velasco?
+111. ÁLVARO: ¿Y qué pintan esas lanchas con Velasco?
     알바로: 그래서 그 쾌속정들이 벨라스코랑 무슨 상관인데?
 
 112. ROCÍO: No lo sé. Pero desde el año pasado algo ha cambiado. Ya no hay peleas entre clanes, los pilotos cobran puntuales y los fardos no se quedan en la marisma: se los llevan camiones frigoríficos de fruta. Como si alguien hubiera puesto orden.
@@ -355,8 +355,8 @@
 113. ÁLVARO: ¿Camiones de fruta? ¿Y hacia dónde van esos camiones?
     알바로: 과일 트럭? 그 트럭들은 어디로 가는데?
 
-114. ROCÍO: A Algeciras. A una nave del puerto llena de aguacates que nadie se come.
-    로시오: 알헤시라스로. 아무도 안 먹는 아보카도로 꽉 찬 항구 창고로.
+114. ROCÍO: A Algeciras. A una nave del puerto llena de aguacates que nadie se come y que nadie ha visto nunca en una frutería.
+    로시오: 알헤시라스로. 아무도 안 먹고, 과일 가게에선 아무도 본 적 없는 아보카도로 꽉 찬 항구 창고로.
 
 115. ÁLVARO: Aguacates. El cártel del contable exportaba aguacates de Michoacán, y en sus papeles había un almacén frigorífico en el puerto de Algeciras. Lo llamaban Proyecto Algeciras: catorce millones en facturas falsas.
     알바로: 아보카도. 그 회계사의 카르텔이 미초아칸산 아보카도를 수출했어. 그리고 서류에 알헤시라스 항의 냉동창고가 있었지. "프로젝트 알헤시라스"라고 불렀어. 허위 송장으로 1,400만 유로.
@@ -367,8 +367,8 @@
 117. ÁLVARO: Ojalá. Si me lo hubieras contado tú hace un año, no te habría creído.
     알바로: 그랬으면 좋겠다. 1년 전에 네가 이 얘길 했으면 난 안 믿었을 거야.
 
-118. ROCÍO: Está clareando. Mira, el sol sale por ahí, detrás del faro de Trafalgar. Dame tu móvil de prepago: voy a llamar al único número guardado.
-    로시오: 날 밝는다. 봐, 해가 저기 트라팔가르 등대 뒤로 떠. 선불폰 줘. 저장된 딱 하나 있는 번호에 걸어 볼 거야.
+118. ROCÍO: Está clareando. Mira, el sol sale por ahí, detrás del faro de Trafalgar, como si no hubiera pasado nada. Dame tu móvil de prepago: voy a llamar al único número guardado.
+    로시오: 날 밝는다. 봐, 해가 저기 트라팔가르 등대 뒤로 떠. 아무 일도 없었다는 듯이. 선불폰 줘. 저장된 딱 하나 있는 번호에 걸어 볼 거야.
 
 119. ÁLVARO: ¿Para qué? Si es quien creo, te va a contestar medio dormido.
     알바로: 왜? 내 생각이 맞으면 반쯤 잠든 목소리로 받을 텐데.
@@ -376,8 +376,8 @@
 120. ROCÍO: Mejor. Si es tu cómplice, lo sabré en dos frases, miarma. Me crié detrás de la barra de un bar.
     로시오: 더 좋지. 공범이면 두 마디 만에 알아, 이 양반아. 나 술집 카운터 뒤에서 컸거든.
 
-121. IKER: ¿Gato? Son las siete de la mañana. ¿Estás bien?
-    이케르: 가토? 아침 일곱 시예요. 괜찮아요?
+121. IKER: ¿Gato? Son las siete. ¿Estás bien?
+    이케르: 가토? 일곱 시예요. 괜찮아요?
 
 122. ROCÍO: Buenos días. Soy sargento de la Guardia Civil y tengo a tu amigo esposado. Dime algo que solo sepas tú.
     로시오: 좋은 아침. 과르디아 시빌 경사고, 네 친구한테 수갑 채워 놨어. 너만 아는 얘기 하나 해 봐.

@@ -195,8 +195,8 @@
 060. VELASCO: Y no le dije a nadie dónde estabas, aunque me habría salido muy barato. Ramón era un hombre decente. Me recitó la línea uno en tu boda, y pensé: este hombre sabe dónde termina cada cosa.
     벨라스코: 그리고 네가 어디 있는지 아무한테도 말 안 했다. 아주 싸게 먹혔을 텐데도. 라몬은 점잖은 분이었어. 네 결혼식에서 1호선을 외워 주시는데 생각했지. 이분은 모든 게 어디서 끝나는지 아시는구나.
 
-061. ÁLVARO: Valdecarros. Final de trayecto. Eso fue lo último que dijo, y no te lo voy a regalar.
-    알바로: 발데카로스. 종점입니다. 그게 아버지 마지막 말이었어. 그건 너한테 안 줘.
+061. ÁLVARO: Valdecarros. Final de trayecto. Esa última estación me la dejó a mí, Ignacio, y no te la voy a regalar.
+    알바로: 발데카로스. 종점입니다. 그 마지막 역은 아버지가 나한테 남겨 주신 거야, 이그나시오. 너한텐 안 줘.
 
 062. PRESENTADORA: Atención, llegan los primeros datos oficiales. Con el ocho por ciento escrutado, la participación supera el setenta por ciento.
     진행자: 주목해 주십시오, 첫 공식 집계가 들어왔습니다. 개표율 8퍼센트, 투표율은 70퍼센트를 넘었습니다.

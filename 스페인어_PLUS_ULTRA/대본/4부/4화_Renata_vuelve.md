@@ -24,8 +24,8 @@
 003. NIGEL: Porque preguntó por "el gato español con cara de lunes". Solo hay uno.
     나이절: "월요일 같은 얼굴을 한 스페인 고양이"를 찾았거든요. 그런 사람은 하나뿐이에요.
 
-004. ÁLVARO: Esa frase es suya. Solo ella me llama así.
-    알바로: 그 사람 말이에요. 날 그렇게 부르는 건 그 사람뿐이에요.
+004. ÁLVARO: Esa frase es suya. Solo ella me llama así, desde que en México le dije que los lunes me caían mal.
+    알바로: 그 사람 말이에요. 멕시코에서 내가 월요일이 싫다고 한 뒤로, 날 그렇게 부르는 건 그 사람뿐이에요.
 
 005. RENATA: ¿Neta? ¿Esa barba? Pareces un profeta que se ha quedado sin profecías.
     레나타: 진짜? 그 수염 뭐야? 예언 다 떨어진 예언자 같아.
@@ -45,8 +45,8 @@
 010. NIGEL: Right. I think this is the moment when the English leave. Rocío, ¿un café fuera?
     나이절: 라이트. 지금이 영국 사람이 빠질 타이밍 같네요. 로시오, 밖에서 커피 한잔?
 
-011. ROCÍO: Ni de broma. Esto no me lo pierdo yo por nada del mundo.
-    로시오: 꿈도 꾸지 마. 이건 무슨 일이 있어도 놓칠 수 없지.
+011. ROCÍO: Ni de broma. Esto no me lo pierdo yo por nada del mundo, que en Barbate no pasa nada desde el carnaval.
+    로시오: 꿈도 꾸지 마. 이건 무슨 일이 있어도 못 놓쳐. 바르바테는 카니발 이후로 아무 일도 없었다고.
 
 012. RENATA: Y tú debes de ser la guardia civil que lo detuvo y luego lo soltó. Iker me habló de ti.
     레나타: 그럼 네가 얘 잡았다가 풀어 준 과르디아 시빌이구나. 이케르가 네 얘기 했어.
@@ -123,8 +123,8 @@
 036. RENATA: Si me hubieran puesto delante a dos tipos con pistola y una foto de mi mamá, yo habría hecho lo mismo sin pensarlo. Por eso no la juzgo.
     레나타: 총 든 놈 둘이랑 우리 엄마 사진을 눈앞에 들이밀었으면, 나도 생각할 것도 없이 똑같이 했을 거야. 그러니까 탓 안 해.
 
-037. ÁLVARO: Aquí no podemos hablar. Hay cámaras hasta en las papeleras.
-    알바로: 여기선 얘기 못 해. 쓰레기통에까지 카메라가 있어.
+037. ÁLVARO: Aquí no podemos hablar. Hay cámaras hasta en las papeleras, y la mitad de esta cafetería trabaja para alguien que no es el dueño.
+    알바로: 여기선 얘기 못 해. 쓰레기통에까지 카메라가 있고, 이 카페 손님 반은 주인 아닌 누군가를 위해 일해.
 
 038. RENATA: Pues llévame a donde sí se pueda. Y antes cómprame algo de comer, que tres cafés no son un desayuno.
     레나타: 그럼 얘기할 수 있는 데로 데려가. 그 전에 뭐 좀 사 줘. 커피 세 잔은 아침밥이 아니거든.
@@ -186,8 +186,8 @@
 057. RENATA: O cualquier cosa. Julio lo abreviaba todo. Para él, "T.L." era Tres Lunas y "V.M." era Verde Michoacán.
     레나타: 아니면 아무거나. 훌리오는 뭐든 줄여 썼어. "T.L."은 트레스 루나스, "V.M."은 베르데 미초아칸이었고.
 
-058. ÁLVARO: Hay que cruzarlo con las fotos del sótano. Iker las tiene ordenadas por fecha.
-    알바로: 지하실 사진이랑 대조해 봐야 돼. 이케르가 날짜순으로 정리해 놨어.
+058. ÁLVARO: Hay que cruzarlo con las fotos del sótano. Iker las tiene ordenadas por fecha, y si Julio apuntó un pago, tiene que haber una factura gemela en Gibraltar.
+    알바로: 지하실 사진이랑 대조해 봐야 돼. 이케르가 날짜순으로 정리해 놨어. 훌리오가 적은 지불이 있으면 지브롤터에 쌍둥이 송장이 있을 거야.
 
 059. RENATA: Mañana. Hoy quiero que me cuentes otra cosa. ¿Qué te pasó, Álvaro? Lo de Valencia. La última vez que te vi eras el héroe incómodo, y ahora sales en la tele como traidor.
     레나타: 내일 해. 오늘은 다른 얘기 듣고 싶어. 무슨 일 있었던 거야, 알바로? 발렌시아 일. 마지막으로 봤을 땐 껄끄러운 영웅이었는데, 지금은 TV에 반역자로 나오잖아.
@@ -195,8 +195,8 @@
 060. ÁLVARO: Velasco me eligió. Usó a un ruso muerto como cebo y a mí como anzuelo. Y yo piqué, porque nadie sospecha de un mediocre.
     알바로: 벨라스코가 날 골랐어. 죽은 러시아인을 미끼로, 나를 낚싯바늘로 썼지. 그리고 난 덥석 물었고. 아무도 평범한 놈은 의심 안 하니까.
 
-061. RENATA: Tú no eres un mediocre. Eres terco, que es distinto.
-    레나타: 넌 평범한 놈 아니야. 고집이 센 거지. 그건 다른 거야.
+061. RENATA: Tú no eres un mediocre. Eres terco, que es distinto. Los mediocres se rinden en la página tres, y tú vas por la doscientos.
+    레나타: 넌 평범한 놈 아니야. 고집이 센 거지. 그건 다른 거야. 평범한 놈들은 3쪽에서 포기하는데 넌 200쪽째잖아.
 
 062. ROCÍO: Y ahora, ¿qué quiere tu Maestro? Porque un narco no manda un cuaderno por amor al periodismo.
     로시오: 그래서 너희 마에스트로는 뭘 원하는데? 마약상이 저널리즘 사랑해서 공책 보내진 않을 거 아냐.
@@ -243,8 +243,8 @@
 076. OCHOA: Es lo único que me queda. La casa de Cuernavaca la tiene la fiscalía, y mis cuentas, unos señores de Washington muy serios.
     오초아: 남은 게 그것뿐이라서요. 쿠에르나바카 집은 검찰이 가져갔고, 제 계좌는 워싱턴의 아주 근엄한 양반들이 가져갔지요.
 
-077. ÁLVARO: Recibí su cuaderno. Gracias. Supongo que no es un regalo.
-    알바로: 공책 받았습니다. 고맙습니다. 선물은 아니겠죠.
+077. ÁLVARO: Recibí su cuaderno. Gracias. Supongo que no es un regalo, porque en su mundo, licenciado, hasta los regalos llevan factura.
+    알바로: 공책 받았습니다. 고맙습니다. 선물은 아니겠죠. 선생님 세계에선 선물에도 청구서가 붙으니까요.
 
 078. OCHOA: Nada es un regalo, ya se lo dije en mi jardín. Es un adelanto. Una muestra de buena voluntad, que entre deudor y acreedor siempre conviene.
     오초아: 선물인 건 없다고, 제 정원에서 이미 말씀드렸지요. 선금입니다. 성의 표시랄까요. 채무자와 채권자 사이엔 늘 그런 게 좋거든요.
@@ -255,8 +255,8 @@
 080. OCHOA: Señorita Villaseñor, qué gusto oírla con las dos zapatillas puestas. Le contesto: porque el hombre que me vendió la ruta me ha vendido también a mí.
     오초아: 비야세뇨르 양, 이번엔 신발 두 짝 다 신고 계신 목소리라 반갑군요. 대답해 드리지요. 제게 루트를 판 사람이 이번엔 저까지 팔아 버렸거든요.
 
-081. ÁLVARO: Bienvenido al club. Yo llevo desde julio en el mismo corral.
-    알바로: 같은 신세가 되신 걸 환영합니다. 전 7월부터 같은 우리에 갇혀 있거든요.
+081. ÁLVARO: Bienvenido al club. Yo llevo desde julio en el mismo corral, con mi foto en todos los telediarios y una cuenta en Andorra que no abrí yo.
+    알바로: 같은 신세가 되신 걸 환영합니다. 전 7월부터 같은 우리에 갇혀 있거든요. 뉴스마다 제 사진이 나오고, 제가 만들지도 않은 안도라 계좌까지 달고요.
 
 082. OCHOA: Por eso le llamo. Usted y yo tenemos ahora un acreedor en común, aunque él crea que es al revés. Si yo hubiera sabido en el diecinueve con qué clase de hombre negociaba, habría pedido más garantías.
     오초아: 그래서 전화드린 겁니다. 이제 당신과 저는 받을 빚이 있는 상대가 같아요. 그쪽은 거꾸로라고 생각하겠지만. 19년에 제가 어떤 부류의 사람과 거래하는지 알았더라면, 담보를 더 요구했을 겁니다.
@@ -294,8 +294,8 @@
 093. ROCÍO: ¿Y cómo sabe ese hombre que estoy aquí, si no he abierto la boca?
     로시오: 나 입도 안 뗐는데, 저 사람은 내가 여기 있는 걸 어떻게 알아?
 
-094. RENATA: Porque te has reído cuando habló del corral. Yo también te he oído.
-    레나타: 우리 얘기 나왔을 때 네가 웃었잖아. 나도 들었어.
+094. RENATA: Porque te has reído cuando habló del corral, y ese hombre oye una risa a seis mil kilómetros. Yo también te he oído.
+    레나타: 우리 얘기 나왔을 때 네가 웃었잖아. 저 사람은 6천 킬로미터 밖에서도 웃음소리를 들어. 나도 들었고.
 
 095. ROCÍO: Illo, qué miedo de hombre. Habla como un cura y amenaza como un notario.
     로시오: 얘, 무서운 사람이다. 말은 신부님처럼 하고 협박은 공증인처럼 해.
@@ -324,8 +324,8 @@
 103. RENATA: ¿Cuántas veces, Álvaro? Quiero el número exacto, no una aproximación.
     레나타: 몇 번이나, 알바로? 대충 말고 정확한 숫자로.
 
-104. ÁLVARO: No sé. Las suficientes para que me diera vergüenza contarlas.
-    알바로: 몰라. 세기 창피할 만큼.
+104. ÁLVARO: No sé. Las suficientes para que me diera vergüenza contarlas. Una vez llegué a oír tu voz en el contestador y colgué como si quemara.
+    알바로: 몰라. 세기 창피할 만큼. 한 번은 자동응답기에서 네 목소리까지 듣고는, 뜨거운 거 만진 것처럼 끊었어.
 
 105. RENATA: Si me hubieras llamado una sola vez, una, no me habría ido a México. ¿Lo sabías?
     레나타: 네가 딱 한 번만, 한 번만 전화했으면 나 멕시코 안 갔을 거야. 알고 있었어?
@@ -372,8 +372,8 @@
 119. RENATA: El veintiséis de septiembre, según tu contrato misterioso del sótano. Ya me lo contó Rocío. Esa mujer lo cuenta todo.
     레나타: 9월 26일이겠지. 지하실에서 나온 그 수상한 계약서대로라면. 로시오가 벌써 말해 줬어. 그 여자는 뭐든 다 말해.
 
-120. ÁLVARO: Rocío lo cuenta todo menos lo que le duele.
-    알바로: 로시오는 아픈 것 빼고 다 말하지.
+120. ÁLVARO: Rocío lo cuenta todo menos lo que le duele. De Juan y Migue, por ejemplo, solo me ha hablado una noche, y con las esposas puestas.
+    알바로: 로시오는 아픈 것 빼고 다 말하지. 후안이랑 미게 얘기만 해도, 딱 하룻밤, 나한테 수갑 채워 놓고 했어.
 
 121. RENATA: Como tú. Duérmete, español. Mañana tenemos que encontrar un mar con azulejos.
     레나타: 너처럼. 자, 스페인 남자. 내일은 타일 깔린 바다를 찾아야 하잖아.
@@ -387,8 +387,8 @@
 124. IKER: Desde que me suspendieron, solo de día. Como los vampiros y los porteros de discoteca.
     이케르: 정직당하고부턴 낮에만요. 뱀파이어랑 클럽 문지기처럼요.
 
-125. ÁLVARO: ¿Qué ves, Renata? Tú con las facturas eres más rápida que yo.
-    알바로: 뭐가 보여, 레나타? 송장은 네가 나보다 빠르잖아.
+125. ÁLVARO: ¿Qué ves, Renata? Tú con las facturas eres más rápida que yo; yo leo números y tú lees mentiras.
+    알바로: 뭐가 보여, 레나타? 송장은 네가 나보다 빠르잖아. 난 숫자를 읽고, 넌 거짓말을 읽지.
 
 126. RENATA: Mira. Albar le factura "consultoría" a Atalaya Advisory, Atalaya Advisory le paga a Albar unas "reformas", y Albar dice que esas reformas se hacen fuera de España. Es un círculo.
     레나타: 봐. 알바르가 아탈라야 어드바이저리에 "컨설팅" 청구서를 보내고, 아탈라야 어드바이저리는 알바르한테 "리모델링" 대금을 줘. 근데 알바르는 그 리모델링을 스페인 밖에서 한대. 빙빙 도는 거야.

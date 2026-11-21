@@ -18,8 +18,8 @@
 001. ROCÍO: Illo, quítate esa gorra, que pareces más sospechoso con ella que sin ella.
     로시오: 얘, 그 모자 좀 벗어. 쓰고 있으니까 안 쓴 것보다 더 수상해 보여.
 
-002. ÁLVARO: Con gorra o sin gorra, tengo la misma cara que sale en la tele.
-    알바로: 모자를 쓰든 안 쓰든, TV에 나오는 그 얼굴이잖아.
+002. ÁLVARO: Con gorra o sin gorra, tengo la misma cara que sale en la tele cada noche, entre el tiempo y los deportes.
+    알바로: 모자를 쓰든 안 쓰든, 매일 밤 날씨랑 스포츠 사이에 TV에 나오는 그 얼굴이야.
 
 003. ROCÍO: Pues la de la tele no tiene barba. Tú pareces un pescador de Barbate después de una mala noche.
     로시오: TV 속 얼굴엔 수염이 없거든. 넌 밤새 허탕 친 바르바테 어부 같아.
@@ -36,8 +36,8 @@
 007. ROCÍO: Fácil no. Hay cámaras, hay patrullas y de vez en cuando paran a alguien al azar. Tú camina normal, no corras y mira el Peñón como si fuera la primera vez.
     로시오: 쉽진 않지. 카메라도 있고 순찰도 있고, 가끔 아무나 골라서 세워. 넌 평소처럼 걸어. 뛰지 말고, 바위산을 처음 보는 사람처럼 쳐다봐.
 
-008. ÁLVARO: Es la primera vez que lo miro sin estar de servicio.
-    알바로: 근무 아닐 때 보는 건 진짜 처음이야.
+008. ÁLVARO: Es la primera vez que lo miro sin estar de servicio. Siempre lo había visto desde una lancha o desde un despacho, con prisa.
+    알바로: 근무 아닐 때 보는 건 처음이야. 늘 보트 위에서나 사무실에서, 바쁘게만 봤거든.
 
 009. ROCÍO: Ni yo. Hoy libro. Si preguntan, vengo a por tabaco y ginebra, como medio Cádiz.
     로시오: 나도. 오늘 비번이야. 누가 물으면 카디스 사람 반이 그러듯 담배랑 진 사러 온 거야.
@@ -66,8 +66,8 @@
 017. IKER: Txapela es lo más limpio que hay en mi vida, que conste. Y otra cosa: si hubieras entrado por el puerto, ya te habrían reconocido. Allí sí hay cámaras con reconocimiento facial.
     이케르: 착스펠라가 제 인생에서 제일 깨끗한 존재거든요, 분명히 해 두죠. 그리고 하나 더요. 항구로 들어갔으면 벌써 걸렸을 거예요. 거긴 진짜 안면 인식 카메라가 있거든요.
 
-018. ÁLVARO: Por eso hemos venido andando, como los turistas sin dinero.
-    알바로: 그래서 걸어온 거야. 돈 없는 관광객처럼.
+018. ÁLVARO: Por eso hemos venido andando, como los turistas sin dinero. Si hubiera sabido lo del puerto, anoche no habría pasado tanto miedo pensando en el ferry.
+    알바로: 그래서 걸어온 거야, 돈 없는 관광객처럼. 항구 얘기 알았으면 어젯밤 페리 생각하면서 그렇게 겁먹진 않았을 텐데.
 
 019. IKER: Llámame con papeles. Y ojo con los ingleses: educadísimos hasta que dejan de serlo.
     이케르: 서류 손에 넣으면 전화해요. 그리고 영국 사람들 조심해요. 엄청 예의 바르다가 어느 순간 딱 안 바르거든요.
@@ -75,8 +75,8 @@
 020. ROCÍO: ¿Ese es tu analista? Habla como mi cuñado, que también es de Bilbao.
     로시오: 그게 네 분석관이야? 우리 형부처럼 말하네. 그 사람도 빌바오 출신이거든.
 
-021. ÁLVARO: Iker sabe de todo menos de fútbol. ¿Dónde hemos quedado con el inglés?
-    알바로: 이케르는 축구 빼고 다 알아. 그 영국 사람이랑 어디서 보기로 했어?
+021. ÁLVARO: Iker sabe de todo menos de fútbol, que es del Athletic y todavía cree que eso es un mérito. ¿Dónde hemos quedado con el inglés?
+    알바로: 이케르는 축구 빼고 다 알아. 아틀레틱 팬인 걸 아직도 자랑인 줄 알거든. 그 영국 사람이랑 어디서 보기로 했어?
 
 022. ROCÍO: En Casemates. Me dijo que llevaría un paraguas, aunque estemos a treinta y cuatro grados.
     로시오: 카세메이츠 광장. 34도인데도 우산 들고 있겠대.
@@ -117,8 +117,8 @@
 034. NIGEL: Yes, from the fishermen. Primero, una cosa clara: officially, usted no está aquí. Es un fantasma con barba.
     나이절: 네, 어부들한테 배웠어요. 먼저 하나 분명히 하죠. 공식적으로 당신은 여기 없어요. 수염 난 유령이에요.
 
-035. ÁLVARO: Lo de fantasma ya lo llevo bien. Lo de la barba, peor.
-    알바로: 유령은 이제 익숙해요. 수염이 더 힘들죠.
+035. ÁLVARO: Lo de fantasma ya lo llevo bien, después de dos semanas durmiendo en pensiones. Lo de la barba, peor: me pica hasta en sueños.
+    알바로: 유령은 이제 익숙해요. 2주째 하숙집 전전하다 보니. 수염이 더 힘들어요. 자면서도 가려워요.
 
 036. NIGEL: My office knows there is a warrant for you in Spain. Una orden de busca… de búsqueda. Y si alguien me pregunta, yo he tomado café con Rocío y su primo triste.
     나이절: 우리 사무실도 스페인에서 당신한테 영장 나온 거 알아요. 수배… 수배령이요. 누가 물으면, 난 로시오랑 그 우울한 사촌이랑 커피 마신 거예요.
@@ -183,8 +183,8 @@
 056. NIGEL: Si encuentran nombres británicos, I want them first. Before your newspapers, before your judges. Me han dicho que hay un lord o dos con mucho… ¿interés? en el sur.
     나이절: 영국 이름이 나오면 제가 먼저 받고 싶어요. 당신네 신문보다, 당신네 판사들보다 먼저요. 남쪽에 아주… '관심'이 많은 귀족이 한두 명 있다고 들었거든요.
 
-057. ÁLVARO: Trato hecho. Pero si encontramos el suyo, también se lo diré.
-    알바로: 좋아요. 근데 당신 이름이 나와도 말해 줄게요.
+057. ÁLVARO: Trato hecho. Pero si encontramos el suyo, también se lo diré, aunque no le guste lo que lea.
+    알바로: 좋아요. 근데 당신 이름이 나와도 말해 줄게요. 읽고 기분 나쁘더라도.
 
 058. NIGEL: Ha! Mi nombre no está. Yo soy muy aburrido: bridge y una señora de San Roque.
     나이절: 하! 제 이름은 없어요. 전 아주 지루한 사람이에요. 브리지랑, 산 로케의 어떤 부인이 전부죠.
@@ -207,8 +207,8 @@
 064. ÁLVARO: Me fío de que odia a Velasco. Para mañana, con eso basta. Si hace un año me hubieras preguntado si me fiaría de un inglés con camisa rosa, te habría dicho que no.
     알바로: 벨라스코를 싫어한다는 건 믿어. 내일은 그거면 충분해. 1년 전에 분홍 셔츠 입은 영국 사람을 믿겠냐고 물었으면, 아니라고 했을 거야.
 
-065. ROCÍO: Hace un año tenías placa y un jefe que te invitaba a churros.
-    로시오: 1년 전엔 너한테 배지도 있고, 추로스 사 주는 상사도 있었지.
+065. ROCÍO: Hace un año tenías placa, coche oficial y un jefe elegante que te invitaba a churros en San Ginés y te llamaba "hijo".
+    로시오: 1년 전엔 너한테 배지도, 관용차도 있었고, 산 히네스에서 추로스 사 주면서 "얘야" 하고 부르던 멋쟁이 상사도 있었지.
 
 066. ÁLVARO: Y mira cómo acabó lo de los churros.
     알바로: 그 추로스가 어떻게 끝났나 봐.
@@ -219,8 +219,8 @@
 068. NIGEL: Quick, quick. Dentro. Cuidado con el escalón, está roto desde mil novecientos ochenta y algo.
     나이절: 빨리, 빨리. 안으로. 계단 조심해요. 1980년 몇 년부터 부서져 있었어요.
 
-069. ROCÍO: Madre mía. Aquí huele a papel mojado y a gato.
-    로시오: 세상에. 여기 젖은 종이 냄새랑 고양이 냄새 나.
+069. ROCÍO: Madre mía. Aquí huele a papel mojado y a gato, como el archivo del cuartel de Barbate cuando se inundó en el veintitrés.
+    로시오: 세상에. 여기 젖은 종이랑 고양이 냄새 나. 23년에 물난리 났을 때 바르바테 초소 문서고 같아.
 
 070. NIGEL: The cat is real, se llama Gibraltar. Cajas de la A a la D, a la izquierda.
     나이절: 고양이 진짜 있어요, 이름이 지브롤터예요. A부터 D까지 상자는 왼쪽이에요.
@@ -273,8 +273,8 @@
 086. ROCÍO: Mira esto. Transferencias mensuales a una sociedad de Algeciras. "Logística frigorífica." Treinta mil, cuarenta mil, sesenta mil en diciembre.
     로시오: 이거 봐. 알헤시라스 회사로 매달 송금. "냉동 물류." 3만, 4만, 12월엔 6만.
 
-087. ÁLVARO: El Proyecto Algeciras. El almacén de aguacates que nunca vio un aguacate.
-    알바로: 프로옉토 알헤시라스. 아보카도 한 알 구경도 못 한 아보카도 창고.
+087. ÁLVARO: El Proyecto Algeciras. El almacén de aguacates que nunca vio un aguacate. Catorce millones en facturas falsas en dieciocho meses, y ahora resulta que también pagaba la gasolina del Estrecho.
+    알바로: 프로옉토 알헤시라스. 아보카도 한 알 구경도 못 한 아보카도 창고. 18개월 동안 허위 송장으로 1,400만인데, 알고 보니 해협 기름값까지 대고 있었네.
 
 088. ROCÍO: Aquí lo que se enfría no son aguacates. Es lo que dijo Paco: los pagos vienen de la Roca. Con este dinero se pagan las gomas, los motores, la gasolina y los chavales que las pilotan.
     로시오: 거기서 식히는 건 아보카도가 아니지. 파코 말 그대로야. 돈은 바위에서 나온다. 이 돈으로 쾌속정이랑 엔진이랑 기름이랑, 그거 모는 애들까지 다 사는 거야.
@@ -312,8 +312,8 @@
 099. ÁLVARO: "Servicio: gestión de crisis de reputación institucional. Fase final. Fecha de entrega: veintiséis de septiembre de dos mil veintisiete."
     알바로: "서비스: 기관 평판 위기 관리. 최종 단계. 인도일: 2027년 9월 26일."
 
-100. IKER: El veintiséis de septiembre. El día de las elecciones.
-    이케르: 9월 26일. 총선 날이네요.
+100. IKER: El veintiséis de septiembre. El día de las elecciones. Gato, nadie encarga una crisis para el día de las elecciones por casualidad.
+    이케르: 9월 26일. 총선 날이네요. 가토, 총선 날짜에 맞춰 위기를 주문하는 건 우연일 리가 없어요.
 
 101. ROCÍO: ¿Y cuánto cobra Atalaya por una crisis de ese tamaño?
     로시오: 아탈라야는 그만한 위기에 얼마를 받는데?
@@ -357,8 +357,8 @@
 114. ROCÍO: Calle de la Palma, en plena Viña. Si tu Velasco nació aquí, se crio oliendo a pescaíto frito y a carnaval.
     로시오: 팔마 거리, 라 비냐 한복판. 네 벨라스코가 여기서 태어났으면 생선튀김 냄새랑 카니발 냄새 맡으면서 컸겠네.
 
-115. ÁLVARO: No le imagino en una chirigota. Iker dice: segundo piso, el de las macetas.
-    알바로: 그 사람이 치리고타 하는 건 상상이 안 가. 이케르 말로는 2층, 화분 있는 집이래.
+115. ÁLVARO: No le imagino en una chirigota, cantando coplas con la cara pintada. Iker dice que es el segundo piso, el de las macetas de geranios.
+    알바로: 그 사람이 얼굴 칠하고 치리고타에서 노래 부르는 건 상상이 안 가. 이케르 말로는 2층, 제라늄 화분 있는 집이래.
 
 116. SOTOMAYOR: ¿Quién llama? Si es por el agua, ya he pagado. Si es por Jesús, también.
     소토마요르: 누구요? 수도 요금이면 벌써 냈소. 예수님 얘기면 그것도 이미 했고.
@@ -369,8 +369,8 @@
 118. SOTOMAYOR: Un mechero. Pasad, pasad, que con este levante se me cuela la arena hasta en el café. Sentaos ahí, niña, en el sillón bueno.
     소토마요르: 라이터라. 들어와, 들어와. 이 동풍 때문에 커피에까지 모래가 들어온다니까. 거기 앉아, 아가씨, 좋은 의자에.
 
-119. ÁLVARO: Gracias. Usted tenía una joyería en la calle Compañía, ¿verdad? Joyería Sotomayor.
-    알바로: 감사합니다. 콤파니아 거리에서 보석상 하셨죠? 호예리아 소토마요르.
+119. ÁLVARO: Gracias. Usted tenía una joyería en la calle Compañía, ¿verdad? Joyería Sotomayor. Un analista de Madrid la encontró en un registro mercantil de mil novecientos ochenta y nueve.
+    알바로: 감사합니다. 콤파니아 거리에서 보석상 하셨죠? 호예리아 소토마요르. 마드리드의 분석관이 1989년 상업 등기부에서 찾아냈어요.
 
 120. SOTOMAYOR: La tenía mi padre, que en paz descanse. Yo grababa. Cuarenta años con el buril en la mano, chiquillo, hasta que la vista me dijo "hasta aquí". Cerramos en el ochenta y nueve.
     소토마요르: 우리 아버지 가게였지, 하늘에서 편히 쉬시길. 난 각인을 했고. 사십 년을 조각칼 쥐고 살았네, 젊은이. 눈이 "여기까지"라고 할 때까지. 89년에 문 닫았지.
@@ -423,8 +423,8 @@
 136. SOTOMAYOR: Para quien sepa mirar, sí. No había sitio, así que apreté las letras. La N del principio está más pequeña, torcida un pelo. Si hubiera tenido otro día, la habría dejado perfecta.
     소토마요르: 볼 줄 아는 사람한텐 티가 나지. 자리가 없어서 글자를 꽉 붙였어. 맨 앞 N이 더 작고, 털끝만큼 비뚤어. 하루만 더 있었으면 완벽하게 해 놨을 텐데.
 
-137. ÁLVARO: Le he visto encender ese mechero mil veces y nunca me había fijado.
-    알바로: 그 라이터 켜는 걸 천 번은 봤는데 한 번도 눈치 못 챘어요.
+137. ÁLVARO: Le he visto encender ese mechero mil veces, en coches, en despachos, en San Ginés a las tres de la mañana, y nunca me había fijado en esa N.
+    알바로: 그 라이터 켜는 걸 천 번은 봤어요. 차 안에서, 사무실에서, 새벽 세 시 산 히네스에서. 근데 그 N은 한 번도 눈치 못 챘어요.
 
 138. SOTOMAYOR: Pues yo lo vi hace tres semanas, por última vez. Vino aquí, a esta misma mesa, a que le arreglara la bisagra.
     소토마요르: 난 3주 전에 마지막으로 봤지. 여기, 바로 이 탁자에 와서 경첩 좀 고쳐 달라더군.
