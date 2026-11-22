@@ -14,7 +14,7 @@
 
 ## 대본
 
-001. ROSE: Everybody sit, but not there, Kevin, because that's Sam's chair, and Sam sits next to me so I can watch him eat vegetables.
+001. ROSE: Everybody sit, but not there, Kevin, because that's Sam's chair. Sam sits next to me so I can watch him eat vegetables.
     로즈: 다들 앉아. 거기 말고, 케빈. 거긴 샘 자리야. 샘은 내 옆에 앉아야 채소 먹는 걸 지켜보지.
 
 002. SAM: Yiayia, I don't eat vegetables, because it's a thing about me.
@@ -29,7 +29,7 @@
 005. ELENA: Rose, where should I put the pernil, by the turkey?
     엘레나: 어머님, 페르닐은 어디 둘까요? 칠면조 옆에요?
 
-006. ROSE: The pork? Put it… somewhere near the turkey, but not too near, because the turkey is the main event, and the pork is a guest.
+006. ROSE: The pork? Put it… somewhere near the turkey, but not too near. The turkey is the main event, and the pork is a guest.
     로즈: 돼지고기? 그거… 칠면조 근처 어디. 너무 가깝게는 말고. 칠면조가 주인공이고, 돼지고기는 손님이야.
 
 007. ELENA: Last year, the pork was gone in twenty minutes, and you had turkey sandwiches until December.
@@ -83,37 +83,37 @@
 023. DAN: Of course I remember, Kev, so tell me what happened.
     댄: 당연히 기억하지, 케빈. 어떻게 됐는지 말해 봐.
 
-024. KEVIN: A bodega on the corner had a camera, but nobody checked it at first, because it was pointed at the cash register. It caught the reflection in the window, though.
-    케빈: 모퉁이 식료품점에 카메라가 있었어. 계산대 쪽을 향해 있어서 처음엔 아무도 확인 안 했는데, 창문에 비친 게 찍혔더라고.
+024. KEVIN: A bodega on the corner had a camera, but nobody checked it at first. It was pointed at the cash register, but it caught the reflection in the window.
+    케빈: 모퉁이 식료품점에 카메라가 있었어. 처음엔 아무도 확인 안 했어. 계산대 쪽을 향해 있었는데, 창문에 비친 게 찍혔더라고.
 
 025. DAN: And? What did the reflection show? Don't make me cross-examine you at Thanksgiving.
     댄: 그래서? 비친 게 뭐였는데? 추수감사절에 반대신문하게 하지 마.
 
-026. KEVIN: And Shea never touched him, because the kid looked back while he was running, hit a patch of ice, and went into the fence by himself, with Shea three feet behind him.
+026. KEVIN: And Shea never touched him. The kid looked back while he was running, hit a patch of ice, and went into the fence by himself. Shea was three feet behind him.
     케빈: 셰이는 그 애를 건드리지도 않았어. 그 애가 뛰면서 뒤를 돌아보다 빙판을 밟고 혼자 울타리에 부딪혔어. 셰이는 1미터 뒤에 있었고.
 
 027. ELENA: Oh, thank God, for both of them.
     엘레나: 아, 다행이다. 둘 다한테.
 
-028. KEVIN: Here's the funny part: if I'd written what my lieutenant wanted, "Officer Shea followed proper procedure," nobody would have believed it, because they'd have said the sergeant was covering for his guy.
-    케빈: 웃긴 건 이거야. 경위가 원한 대로 "셰이 순경은 적법한 절차를 따랐다"라고 썼으면 아무도 안 믿었을 거야. 경사가 자기 팀원 감싼다고 했겠지.
+028. KEVIN: Here's the funny part. I could have written what my lieutenant wanted, "Officer Shea followed proper procedure." Nobody would have believed it, because they'd have said the sergeant was covering for his guy.
+    케빈: 웃긴 건 이거야. 경위가 원한 대로 "셰이 순경은 적법한 절차를 따랐다"라고 쓸 수도 있었어. 아무도 안 믿었을 거야. 경사가 자기 팀원 감싼다고 했겠지.
 
 029. DAN: But you wrote "I did not see the moment of contact."
     댄: 근데 넌 "본인은 접촉 순간을 목격하지 못했음"이라고 썼지.
 
-030. KEVIN: So when the video came out, my report matched it, and the investigator said my report was the reason she trusted the rest of the file. My honest sentence saved Shea more than the lie would have.
+030. KEVIN: So when the video came out, my report matched it. The investigator said my report was the reason she trusted the rest of the file. My honest sentence saved Shea more than the lie would have.
     케빈: 그래서 영상이 나왔을 때 내 보고서랑 딱 맞았어. 조사관이 내 보고서 때문에 나머지 파일도 믿었대. 내 정직한 문장이 거짓말보다 셰이를 더 살린 거야.
 
 031. ZOE: Wait, is that true? Uncle Kevin, that's going in my extra credit.
     조이: 잠깐, 진짜야? 삼촌, 그거 내 추가 점수 과제에 넣을래.
 
-032. KEVIN: Don't put my name in it, because the guys are still mad I didn't write the other sentence, and they don't care that it worked out.
+032. KEVIN: Don't put my name in it. The guys are still mad I didn't write the other sentence, and they don't care that it worked out.
     케빈: 내 이름은 넣지 마. 애들이 아직도 내가 그 문장 안 썼다고 화나 있어. 결과가 잘 풀린 건 상관 안 해.
 
 033. DAN: Are you still stuck on the bad shifts, Kev, after all that?
     댄: 그 일 다 끝났는데도 아직 안 좋은 근무 시간이야, 케빈?
 
-034. KEVIN: I'm on midnight to eight until January, because my lieutenant has a long memory and a short sense of humor.
+034. KEVIN: I'm on midnight to eight until January. My lieutenant has a long memory and a short sense of humor.
     케빈: 1월까지 자정부터 여덟 시까지. 우리 경위는 기억력은 길고 유머 감각은 짧아.
 
 035. ROSE: Is Nicky coming over for pie later, Kevin, or not this year?
@@ -128,7 +128,7 @@
 038. KEVIN: In your day, Ma, nobody got divorced either, so it was easy.
     케빈: 엄마 때는 이혼도 안 했잖아요. 그러니 쉬웠죠.
 
-039. ROSE: In my day, people got divorced, but they just stayed in the same house and didn't talk, which is called marriage. Danny, you're quiet again.
+039. ROSE: In my day, people got divorced too. They just stayed in the same house and didn't talk, and that's called marriage. Danny, you're quiet again.
     로즈: 우리 때도 이혼했어. 그냥 한집에 살면서 말을 안 했지. 그걸 결혼이라고 해. 대니, 너 또 조용하다.
 
 040. DAN: I'm eating, Ma, just like you said, eat first.
@@ -185,7 +185,7 @@
 057. ROSE: You'd lose your big job, the one on Park Avenue?
     로즈: 그 큰 직장을 잃는다고? 파크 애비뉴에 있는 거?
 
-058. DAN: My big job, yes. The house in Forest Hills has a mortgage of almost nine thousand dollars a month, Zoe's school is fifty-two thousand a year, and Sam starts there in three years. Elena says we'd be fine, but Elena is a very optimistic doctor.
+058. DAN: My big job, yes. The house in Forest Hills has a mortgage of almost nine thousand dollars a month. Zoe's school is fifty-two thousand a year, and Sam starts there in three years. Elena says we'd be fine, but Elena is a very optimistic doctor.
     댄: 네, 그 큰 직장요. 포리스트 힐스 집 대출이 한 달에 거의 9천 달러예요. 조이 학교는 1년에 5만2천이고, 샘도 3년 뒤에 들어가요. 엘레나는 괜찮을 거래요. 근데 엘레나는 아주 낙관적인 의사예요.
 
 059. ROSE: Nine thousand dollars a month, just for one house?
@@ -194,7 +194,7 @@
 060. DAN: It's a nice house, with a yard, in a good school district.
     댄: 좋은 집이에요. 마당도 있고, 학군도 좋고.
 
-061. ROSE: Your father and I paid two hundred and eighty dollars a month for this house in 1983, and I thought we were going to die. I cried at the bank, and the man gave me a lollipop.
+061. ROSE: Your father and I paid two hundred and eighty dollars a month for this house in 1983. I thought we were going to die. I cried at the bank, and the man gave me a lollipop.
     로즈: 네 아버지랑 나는 1983년에 이 집에 한 달 280달러 냈어. 죽는 줄 알았지. 은행에서 울었더니 직원이 막대사탕을 주더라.
 
 062. DAN: That's different, Ma, because it was 1983, and everything was cheaper then.
@@ -203,7 +203,7 @@
 063. ROSE: Everybody says that, "That's different," because it's always different for the person who's scared. Zoe asked me on the phone about the strike, so did she tell you?
     로즈: 다들 그래. "그건 달라." 겁나는 사람한텐 늘 다르지. 조이가 전화로 파업 얘기 물었어. 말하던?
 
-064. DAN: She told me, and she said you wouldn't tell her the ending, because you said I knew it and forgot it.
+064. DAN: She told me. She said you wouldn't tell her the ending, because you said I knew it and forgot it.
     댄: 말했어요. 엄마가 끝은 안 알려 줬대요. 제가 알면서 잊어버렸다고 하셨다면서요.
 
 065. ROSE: Because the ending isn't for a school project. Give me that pot, no, the big one, and sit, because I'll tell you while you dry.
@@ -227,34 +227,34 @@
 071. ROSE: By eleven months, and I never let him forget it. So, the strike: do you know about the Taylor Law?
     로즈: 열한 달. 절대 잊게 두지 않았지. 그래서, 파업. 테일러법 알아?
 
-072. DAN: It's the state law that says public workers can't strike, and if they do, they lose two days' pay for every day they're out.
+072. DAN: It's the state law that says public workers can't strike. If they do, they lose two days' pay for every day they're out.
     댄: 공무원은 파업을 못 한다는 주법이에요. 파업하면 하루에 이틀치 임금을 잃어요.
 
-073. ROSE: You know it like a lawyer, but I knew it like a wife. Eleven days on strike meant twenty-two days without money, and we had a hundred and forty dollars in the bank, which I counted every night.
+073. ROSE: You know it like a lawyer, but I knew it like a wife. Eleven days on strike meant twenty-two days without money. We had a hundred and forty dollars in the bank, and I counted it every night.
     로즈: 넌 변호사처럼 알지. 난 아내로서 알았어. 11일 파업이면 22일 동안 돈이 없는 거야. 은행에 140달러 있었어. 매일 밤 셌지.
 
 074. DAN: I didn't know it was that bad, Ma, nobody ever said.
     댄: 그렇게 힘들었는지 몰랐어요, 엄마. 아무도 말 안 했어요.
 
-075. ROSE: We ate lentils, lentils with onions, lentils with rice, lentils with nothing. Mrs. Papas from the bakery gave us yesterday's bread for free, and your father hated that, because he hated charity, so he said thank you every single time, through his teeth.
+075. ROSE: We ate lentils, lentils with onions, lentils with rice, lentils with nothing. Mrs. Papas from the bakery gave us yesterday's bread for free, and your father hated that. He hated charity, so he said thank you every single time, through his teeth.
     로즈: 렌틸콩을 먹었어. 양파 넣은 렌틸콩, 밥 넣은 렌틸콩, 아무것도 안 넣은 렌틸콩. 빵집 파파스 부인이 전날 빵을 공짜로 줬는데, 네 아버지는 그게 싫었어. 동정받는 걸 싫어했거든. 매번 이를 악물고 고맙다고 했지.
 
 076. DAN: That sounds like him. He did the same thing when Gus gave him free coffee.
     댄: 아빠답네. 거스가 공짜 커피 줄 때도 똑같이 그러셨어.
 
-077. ROSE: On the eighth day, the superintendent of the depot came to see him, Mr. Halloran, a big Irish man with a small mustache, who came to the bakery and asked for John Reardon by name.
+077. ROSE: On the eighth day, the superintendent of the depot came to see him. That was Mr. Halloran, a big Irish man with a small mustache. He came to the bakery and asked for John Reardon by name.
     로즈: 8일째에 차고지 책임자가 찾아왔어. 핼러런 씨. 몸집 큰 아일랜드 사람인데 콧수염은 작았지. 빵집에 와서 존 레이든을 이름으로 찾더라.
 
 078. DAN: What did he want? Management never came to see a driver for nothing.
     댄: 뭘 원했는데? 경영진이 이유 없이 기사를 찾아오진 않잖아.
 
-079. ROSE: He wanted to make your father a dispatcher, which was a desk job with more money and no more driving, and you're management, so no more union, starting the Monday after the strike.
+079. ROSE: He wanted to make your father a dispatcher. It was a desk job with more money and no more driving. It was management, so no more union, starting the Monday after the strike.
     로즈: 네 아버지를 배차원으로 만들어 주겠대. 책상 일. 돈 더 받고, 운전 안 하고. 관리직이니 노조도 끝. 파업 끝난 다음 월요일부터.
 
 080. DAN: In exchange for what?
     댄: 대가로 뭘?
 
-081. ROSE: In exchange for one speech, because the union was voting on the city's offer, and Halloran wanted your father to tell the men the offer was good. The men trusted your father, so if he said yes, they'd say yes.
+081. ROSE: In exchange for one speech. The union was voting on the city's offer, and Halloran wanted your father to tell the men the offer was good. The men trusted your father, so if he said yes, they'd say yes.
     로즈: 연설 하나의 대가로. 노조가 시 제안을 놓고 투표하는데, 핼러런은 네 아버지가 사람들한테 제안이 좋다고 말해 주길 원했어. 다들 네 아버지를 믿었거든. 그가 찬성하면 다들 찬성했을 거야.
 
 082. DAN: Was the offer good?
@@ -266,13 +266,13 @@
 084. DAN: He read the back of every contract, even at the car dealership.
     댄: 모든 계약서 뒷면까지 읽으셨죠. 자동차 대리점에서도.
 
-085. ROSE: Halloran left an envelope on our table, not money, just the paper for the promotion with a line for his signature, and then he left. Your father sat right there, at a table like this, for an hour, and didn't say anything.
-    로즈: 핼러런이 우리 식탁에 봉투를 두고 갔어. 돈은 아니고, 승진 서류. 서명란이 있는. 그러고 갔지. 네 아버지는 이런 식탁에 한 시간을 앉아서 아무 말도 안 했어.
+085. ROSE: Halloran left an envelope on our table, and then he left. It wasn't money, just the paper for the promotion with a line for his signature. Your father sat right there, at a table like this, for an hour, and didn't say anything.
+    로즈: 핼러런이 우리 식탁에 봉투를 두고 갔어. 돈은 아니고, 승진 서류. 서명란이 있는. 네 아버지는 이런 식탁에 한 시간을 앉아서 아무 말도 안 했어.
 
 086. DAN: An hour.
     댄: 한 시간.
 
-087. ROSE: I knew what he was thinking, because I was thinking it too: a hundred and forty dollars, and lentils, and I was going to have a baby someday, and we wanted a house. That piece of paper was a house.
+087. ROSE: I knew what he was thinking, because I was thinking it too. We had a hundred and forty dollars and lentils, I was going to have a baby someday, and we wanted a house. That piece of paper was a house.
     로즈: 무슨 생각 하는지 알았어. 나도 같은 생각이었으니까. 140달러. 렌틸콩. 언젠가 아기도 낳을 거고, 집도 갖고 싶었어. 그 종이 한 장이 집이었어.
 
 088. DAN: What did you say to him?
@@ -284,37 +284,37 @@
 090. DAN: "Say it plain," so you said it to him first.
     댄: "쉽게 말해." 엄마가 아빠한테 먼저 한 말이었네요.
 
-091. ROSE: Who did you think he learned it from, the bus? He got "stand up straight" from his mother and "say it plain" from me, but he just said it more, because he had a milk crate.
+091. ROSE: Who did you think he learned it from, the bus? He got "stand up straight" from his mother and "say it plain" from me. He just said it more, because he had a milk crate.
     로즈: 누구한테 배웠을 것 같아? 버스한테? "똑바로 서"는 자기 엄마한테, "쉽게 말해"는 나한테 배웠지. 그냥 더 많이 말했을 뿐이야. 우유 상자가 있었으니까.
 
 092. DAN: Ma, I never knew that part, not once in forty years.
     댄: 엄마, 그 부분은 40년 동안 한 번도 몰랐어요.
 
-093. ROSE: Nobody knows that, because your father told the story his way at the union hall for forty years, and I let him, because men need a milk crate and women need a kitchen. Dry that pot properly.
+093. ROSE: Nobody knows that. Your father told the story his way at the union hall for forty years, and I let him. Men need a milk crate, and women need a kitchen. Dry that pot properly.
     로즈: 아무도 몰라. 네 아버지가 40년 동안 노조 회관에서 자기 식으로 얘기했고, 난 그냥 뒀어. 남자는 우유 상자가 필요하고, 여자는 부엌이 필요하니까. 냄비 제대로 닦아.
 
 094. DAN: What happened next? Did he sign it, or did he wait until morning?
     댄: 그다음엔 어떻게 됐어? 서명했어, 아니면 아침까지 기다렸어?
 
-095. ROSE: The next morning, he took the envelope to the depot and stood on the milk crate in front of three hundred men, and he held up the paper and said, "Halloran offered me a desk to tell you to vote yes. Here's the desk."
-    로즈: 다음 날 아침, 그 봉투를 차고지로 가져갔어. 3백 명 앞에서 우유 상자에 올라서서 그 종이를 들고 말했지. "핼러런이 찬성 투표하라고 말하면 책상을 준답니다. 여기 그 책상이 있습니다."
+095. ROSE: The next morning, he took the envelope to the depot and stood on the milk crate in front of three hundred men. He held up the paper and said, "Halloran offered me a desk to tell you to vote yes. Here's the desk."
+    로즈: 다음 날 아침, 그 봉투를 차고지로 가져갔어. 3백 명 앞에서 우유 상자에 올라섰지. 그 종이를 들고 말했어. "핼러런이 찬성 투표하라고 말하면 책상을 준답니다. 여기 그 책상이 있습니다."
 
 096. DAN: He held it up, in front of everyone?
     댄: 그걸 들어 올렸다고요? 다들 앞에서?
 
-097. ROSE: He held it up and tore it in half, and the men voted no, and three days later, the city came back with a better offer, so the pensions stayed.
-    로즈: 들어 올려서 반으로 찢었어. 사람들은 반대 투표를 했고, 사흘 뒤에 시가 더 나은 제안을 들고 왔어. 연금은 지켜졌지.
+097. ROSE: He held it up and tore it in half, and the men voted no. Three days later, the city came back with a better offer, so the pensions stayed.
+    로즈: 들어 올려서 반으로 찢었어. 사람들은 반대 투표를 했어. 사흘 뒤에 시가 더 나은 제안을 들고 왔어. 연금은 지켜졌지.
 
 098. DAN: That's the milk crate story, and I've heard that one, so that's the ending.
     댄: 그게 우유 상자 이야기잖아요. 들어 봤어요. 그게 끝이고요.
 
-099. ROSE: No, Danny, that's the middle, because men always think the middle is the ending, since that's where the cheering is.
+099. ROSE: No, Danny, that's the middle. Men always think the middle is the ending, since that's where the cheering is.
     로즈: 아니, 대니. 그건 중간이야. 남자들은 늘 중간을 끝인 줄 알아. 환호가 거기 있으니까.
 
 100. DAN: Then what's the ending?
     댄: 그럼 결말이 뭔데?
 
-101. ROSE: The ending is that your father never got promoted, because Halloran made sure. He applied to be a dispatcher in 1986, 1991, and 1998, and every time somebody else got it, so he drove a bus until his back gave out.
+101. ROSE: The ending is that your father never got promoted, because Halloran made sure. He applied to be a dispatcher in 1986, 1991, and 1998, and every time somebody else got it. So he drove a bus until his back gave out.
     로즈: 끝은 네 아버지가 다시는 승진을 못 했다는 거야. 핼러런이 그렇게 만들었지. 1986년, 1991년, 1998년에 배차원에 지원했는데, 매번 다른 사람이 됐어. 그래서 허리가 망가질 때까지 버스를 몰았지.
 
 102. DAN: Three times. And he never once complained about it to us.
@@ -338,13 +338,13 @@
 108. DAN: Did he regret it?
     댄: 아빠가 후회했어?
 
-109. ROSE: Once, in 1998, after the third time, he sat in that chair and said, "Rosie, I should've signed the paper, because the boys would have more." And I let him say it, because a man needs to say it once.
+109. ROSE: Once, in 1998, after the third time, he sat in that chair and said, "Rosie, I should've signed the paper, because the boys would have more." And I let him say it. A man needs to say it once.
     로즈: 한 번. 1998년에, 세 번째 이후에. 그 의자에 앉아서 "로지, 그 종이에 서명할걸 그랬어. 애들이 더 가졌을 텐데"라고 하더라. 그냥 말하게 뒀어. 남자는 한 번은 그 말을 해야 하거든.
 
 110. DAN: And then what changed his mind, because something must have?
     댄: 그다음엔요? 뭐가 마음을 바꿨어요? 뭔가 있었을 텐데.
 
-111. ROSE: And then you came home from school at fourteen, after a fight, because a boy called your father a "bus monkey." You had a black eye, and you said, "I told him my dad's the guy who tore up the paper."
+111. ROSE: And then you came home from school at fourteen, after a fight. A boy had called your father a "bus monkey." You had a black eye, and you said, "I told him my dad's the guy who tore up the paper."
     로즈: 그다음에 네가 학교에서 왔어. 열네 살이었지. 어떤 애가 네 아버지를 '버스 원숭이'라고 불러서 싸웠대. 눈에 멍이 들어서 "우리 아빠는 그 종이 찢은 사람이라고 말해 줬어"라고 하더라.
 
 112. DAN: I remember the fight, but I don't remember saying that.
@@ -368,28 +368,28 @@
 118. DAN: The church was full, and people were standing outside on the sidewalk.
     댄: 성당이 꽉 찼었어요. 밖에 인도에도 사람들이 서 있었고요.
 
-119. ROSE: Three hundred drivers came in uniform, and some of them had been retired for twenty years, but they found their old uniforms and came. Mr. Stathis organized it, and they stood on Thirty-First Street in two lines, all the way to the corner.
+119. ROSE: Three hundred drivers came in uniform. Some of them had been retired for twenty years, but they found their old uniforms and came. Mr. Stathis organized it, and they stood on Thirty-First Street in two lines, all the way to the corner.
     로즈: 기사 3백 명이 제복 입고 왔어. 은퇴한 지 20년 된 사람들도 옛날 제복 찾아 입고 왔어. 스타티스 씨가 준비했지. 31번가에 두 줄로, 모퉁이까지 쭉 섰어.
 
 120. DAN: I remember the lines, but I didn't know who organized it.
     댄: 줄 선 건 기억나요. 누가 준비했는지는 몰랐어요.
 
-121. ROSE: At the back of the church, there was a man nobody knew, who came up to me after and said, "Mrs. Reardon, my father was Tom Halloran, and he told me your husband was the only man at that depot he couldn't buy."
+121. ROSE: At the back of the church, there was a man nobody knew. He came up to me after and said, "Mrs. Reardon, my father was Tom Halloran. He told me your husband was the only man at that depot he couldn't buy."
     로즈: 성당 뒤쪽에 아무도 모르는 남자가 있었어. 끝나고 나한테 와서 그러더라. "레이든 부인, 제 아버지가 톰 핼러런입니다. 아버지가 그랬어요. 그 차고지에서 돈으로 살 수 없었던 유일한 사람이 부인 남편이었다고."
 
 122. DAN: Halloran's son.
     댄: 할로런의 아들.
 
-123. ROSE: That's the ending, Danny, not the promotion and not the paper, but the church: three hundred men in two lines, and the son of the man who tried to buy him.
+123. ROSE: That's the ending, Danny, not the promotion and not the paper. It's the church: three hundred men in two lines, and the son of the man who tried to buy him.
     로즈: 그게 끝이야, 대니. 승진도 아니고 종이도 아니야. 성당이야. 두 줄로 선 3백 명, 그리고 그를 사려던 남자의 아들.
 
 124. DAN: I was standing right there, and I don't know how I forgot that.
     댄: 저 바로 거기 서 있었는데. 어떻게 그걸 잊었는지 모르겠어요.
 
-125. ROSE: You forgot because you went back to Park Avenue the next morning for a deposition, which you told me about in the car. Dry the pot, Danny, because you've been drying the same pot for ten minutes.
+125. ROSE: You forgot because you went back to Park Avenue the next morning for a deposition. You told me about it in the car. Dry the pot, Danny, because you've been drying the same pot for ten minutes.
     로즈: 다음 날 아침 파크 애비뉴로 돌아갔으니까 잊었지. 증언 녹취가 있었어. 차에서 말해 줬잖아. 냄비 닦아, 대니. 같은 냄비를 10분째 닦고 있어.
 
-126. KEVIN: You've been in there an hour, so Elena sent me, and she said if you're crying, I should leave you alone, and if Ma's crying, I should bring tissues.
+126. KEVIN: You've been in there an hour, so Elena sent me. She said if you're crying, I should leave you alone, and if Ma's crying, I should bring tissues.
     케빈: 한 시간째 거기 있었어. 엘레나가 보냈어. 형이 울고 있으면 그냥 두고, 엄마가 울고 있으면 휴지 가져가래.
 
 127. DAN: Nobody's crying, Kev.
@@ -401,7 +401,7 @@
 129. DAN: Ma's sink has very strong soap, Kev, that's all it is.
     댄: 엄마 싱크대 세제가 아주 독해서 그래, 케빈. 그뿐이야.
 
-130. KEVIN: Sure, so sit down, because it's cold, but the stoop is the only place in this house where nobody's talking.
+130. KEVIN: Sure, so sit down. It's cold, but the stoop is the only place in this house where nobody's talking.
     케빈: 그래, 그렇겠지. 앉아. 춥긴 한데, 이 집에서 아무도 말 안 하는 데는 현관 계단뿐이야.
 
 131. DAN: She told me about Halloran's son, at the funeral.
@@ -410,7 +410,7 @@
 132. KEVIN: At the funeral? I saw that guy, and I thought he was from the insurance company.
     케빈: 장례식 때? 그 남자 봤어. 보험 회사 사람인 줄 알았는데.
 
-133. DAN: Kev, I'm going to do something at work, and I can't tell you what, but it's going to cost a lot, and some people are going to be very angry.
+133. DAN: Kev, I'm going to do something at work, and I can't tell you what. It's going to cost a lot, and some people are going to be very angry.
     댄: 케빈, 회사에서 뭘 할 거야. 뭔지는 말 못 해. 근데 대가가 클 거고, 몇몇 사람들은 엄청 화낼 거야.
 
 134. KEVIN: Like my lieutenant, the donut guy, except your guy probably has a better donut.
@@ -422,7 +422,7 @@
 136. KEVIN: Is it the right thing? I don't mean the legal thing, I mean the right thing.
     케빈: 그게 옳은 일이야? 법적인 거 말고. 옳은 일.
 
-137. DAN: It's the only thing the rules allow, and I think it's the right thing, and although those aren't always the same, this time they are.
+137. DAN: It's the only thing the rules allow, and I think it's the right thing. Those aren't always the same, but this time they are.
     댄: 규칙이 허락하는 유일한 길이야. 그리고 옳은 일이라고 생각해. 그 둘이 늘 같진 않은데, 이번엔 같아.
 
 138. KEVIN: Then why do you look like you're going to throw up?
@@ -437,8 +437,8 @@
 141. DAN: She let him take an hour, though.
     댄: 그래도 아빠한텐 한 시간 줬대.
 
-142. KEVIN: Then she loved him more than us. Listen, whatever it is, if you need anything, a couch, a car, or somebody to stand behind you looking big, I'm here, because I'm on midnights anyway and I'm not doing anything during the day.
-    케빈: 그럼 엄마가 아빠를 우리보다 더 사랑했나 보지. 들어 봐. 뭐든 필요하면, 소파든 차든 뒤에서 덩치 크게 서 있을 사람이든, 내가 있어. 어차피 야간이라 낮엔 할 일도 없어.
+142. KEVIN: Then she loved him more than us. Listen, whatever it is, if you need anything, I'm here. It could be a couch, a car, or somebody to stand behind you looking big. I'm on midnights anyway, and I'm not doing anything during the day.
+    케빈: 그럼 엄마가 아빠를 우리보다 더 사랑했나 보지. 들어 봐. 뭐든 필요하면 내가 있어. 소파든 차든 뒤에서 덩치 크게 서 있을 사람이든. 어차피 야간이라 낮엔 할 일도 없어.
 
 143. DAN: Thanks, Kev, and I mean it, more than I can say.
     댄: 고마워, 케빈. 진심이야. 말로 다 못 할 만큼.
