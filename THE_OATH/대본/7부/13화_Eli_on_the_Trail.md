@@ -113,8 +113,8 @@
 033. DAN: Good afternoon, I'm Dan Reardon, and I'm going to talk for one minute and then sit down, because you didn't come to hear me.
     댄: 안녕하세요, 댄 레이든입니다. 1분만 말하고 앉겠습니다. 여러분은 제 얘기 들으러 오신 게 아니니까요.
 
-034. AUDIENCE: [murmuring]
-    청중: [웅성거림]
+034. AUDIENCE: One minute? Well, that's a first for a politician in Hollow.
+    청중: 1분이요? 할로에선 정치인 최초네.
 
 035. DAN: There's an ad on TV that says I fought to free a man convicted of murder, and that's true, because I did. His name is Eli Ward, and he's here, and he can tell you the rest.
     댄: TV 광고에서 제가 살인죄 유죄 판결을 받은 남자를 풀어 주려고 싸웠다고 합니다. 사실입니다. 그랬습니다. 그의 이름은 일라이 워드이고, 여기 와 있습니다. 나머지는 그가 말씀드릴 겁니다.
@@ -125,8 +125,8 @@
 037. ELI: From 2012 to 2027, I lived about two miles from here, behind that wall, as inmate number eleven-A-four-four-seven-two. Some of you knew that number.
     일라이: 2012년부터 2027년까지 저는 여기서 2마일쯤 떨어진 곳, 저 벽 뒤에 살았습니다. 수감 번호 11A4472. 여러분 중엔 그 번호를 아는 분도 계실 겁니다.
 
-038. AUDIENCE: [silence]
-    청중: [정적]
+038. AUDIENCE: Some of us worked that wall, son, so go ahead and tell us.
+    청중: 우리 중엔 저 담장 안에서 일한 사람도 있어. 계속 말해 봐.
 
 039. ELI: I was arrested in the Bronx in 2011, when I was nineteen, after a man was killed in a store. A fifteen-year-old girl picked my picture because a detective told her to. She was scared, because she was fifteen.
     일라이: 저는 2011년 열아홉 살 때 브롱크스에서 체포됐습니다. 가게에서 한 남자가 살해된 뒤였죠. 열다섯 살 소녀가 제 사진을 골랐습니다. 형사가 그러라고 했으니까요. 그 아이는 겁에 질려 있었습니다. 열다섯 살이었으니까요.
@@ -143,8 +143,8 @@
 043. ELI: Time's the only thing they couldn't take from me, because they gave me so much of it. So here I am, spending some in Hollow on a Saturday.
     일라이: 시간은 그들이 저한테서 못 빼앗은 유일한 겁니다. 너무 많이 줬으니까요. 그래서 이렇게 왔습니다. 토요일에 할로에서 그 시간을 좀 쓰려고요.
 
-044. AUDIENCE: [a few people clap]
-    청중: [몇 사람이 박수 친다]
+044. AUDIENCE: That's a fair point, young man, and I'll give you that one.
+    청중: 그 말은 맞네, 젊은이. 그건 인정하지.
 
 045. LEON: Can I say something, Pastor?
     레온: 한마디 해도 될까요, 목사님?
@@ -164,8 +164,8 @@
 050. LEON: I worked his block, C-block, from 2014 to 2026, for twelve years. I want to say something about the ad, but I'm going to vote for Hartley, and I want that clear.
     레온: 내가 이 친구 구역을 맡았소. C동. 2014년부터 2026년까지 12년. 광고에 대해 할 말이 있소. 그런데 난 하틀리 찍을 거요. 그건 분명히 해 두겠소.
 
-051. AUDIENCE: [some murmuring, a few nods]
-    청중: [웅성거림, 몇몇이 고개를 끄덕인다]
+051. AUDIENCE: Leon's honest, I'll say that for him, and he always was.
+    청중: 리언은 정직해. 그건 내가 보증하지. 늘 그랬어.
 
 052. LEON: But that picture is wrong, not the facts, but the picture. That's a scared kid from 2011, and the man I knew taught the GED class on C-block for nine years, for free.
     레온: 하지만 그 사진은 틀렸소. 사실이 아니라 사진이. 그건 2011년의 겁먹은 애요. 내가 아는 사람은 C동에서 9년 동안 검정고시 수업을 가르쳤소. 공짜로.
@@ -179,8 +179,8 @@
 055. LEON: Everybody counts in there, and you know that. Here's the other thing: by year ten, most of us on C-block thought he didn't do it.
     레온: 거기선 다들 세지. 너도 알잖아. 그리고 하나 더. 10년쯤 되니 C동 교도관 대부분이 이 친구가 안 했다고 생각했소.
 
-056. AUDIENCE: [murmuring, louder]
-    청중: [더 커진 웅성거림]
+056. AUDIENCE: If Leon says so, then I believe it, because Leon doesn't lie.
+    청중: 리언이 그렇다면 난 믿어. 리언은 거짓말 안 하거든.
 
 057. LEON: I'm not saying we knew, because we weren't lawyers. But you work a block for ten years, and you know who's angry because they did it and who's angry because they didn't. He was the second kind, quiet angry.
     레온: 안다고 말하는 건 아니오. 우린 변호사가 아니었으니까. 하지만 한 구역을 10년 맡으면 누가 저질러서 화난 건지, 안 저질러서 화난 건지 알게 되지. 이 친구는 두 번째였소. 조용히 화난.
@@ -203,8 +203,8 @@
 063. LEON: I didn't watch that, because I watched the Bills, since I'm from up here.
     레온: 그건 안 봤소. 빌스 경기 봤지. 여기 사람이니까.
 
-064. AUDIENCE: [laughter]
-    청중: [웃음]
+064. AUDIENCE: Ha! At least he's got his priorities straight, Pastor!
+    청중: 하! 적어도 우선순위는 확실하네요, 목사님!
 
 065. AUDIENCE: Mr. Ward, are you angry at the guards, at us?
     청중: 워드 씨, 교도관들한테, 우리한테 화나 있어요?
@@ -212,8 +212,8 @@
 066. ELI: No. I was angry at the detective, then at the system, and then at myself for a while, which was the worst one. The guards just opened and closed the doors, mostly on time.
     일라이: 아니요. 형사한테 화났었고, 그다음엔 제도한테, 한동안은 저 자신한테요. 그게 제일 나빴어요. 교도관들은 문을 열고 닫았을 뿐이에요. 대개 제시간에요.
 
-067. AUDIENCE: [laughter]
-    청중: [웃음]
+067. AUDIENCE: Ha! Mostly on time, he says, and that's generous!
+    청중: 하! 대체로 제시간이라니, 후하게 쳐 주네!
 
 068. ELI: Officer Pickett—Leon—brought me a book once in 2019, "To Kill a Mockingbird." He said, "You look like a man who'd like a lawyer story," and I read it eleven times.
     일라이: 피켓 교도관님이—레온이—2019년에 책을 한 권 갖다줬어요. "앵무새 죽이기"요. "변호사 이야기 좋아하게 생겼네" 하시더라고요. 열한 번 읽었어요.
@@ -221,8 +221,8 @@
 069. LEON: I didn't know it was about a man who didn't do it, because I hadn't read it. My wife picked it.
     레온: 안 저지른 남자 얘긴 줄 몰랐소. 난 안 읽어 봤거든. 마누라가 골랐지.
 
-070. AUDIENCE: [laughter]
-    청중: [웃음]
+070. AUDIENCE: Ha! Leave it to his wife to pick the perfect book!
+    청중: 하! 역시 아내분이 딱 맞는 책을 골랐네!
 
 071. AUDIENCE: Congressman, the ad says you're soft on crime, so are you?
     청중: 의원님, 광고에선 범죄에 무르다는데, 그래요?
