@@ -65,7 +65,7 @@
 017. HALDANE: That's Pruitt, I know, because he says it in our cloakroom too, and nobody laughs. Go in and sit near the back, because the front chairs are worse.
     핼데인: 프루잇이죠. 알아요. 우리 휴게실에서도 그 말 하는데 아무도 안 웃어요. 들어가서 뒤쪽에 앉아요. 앞자리 의자가 더 나빠요.
 
-018. ASHBY: Ladies and gentlemen, this briefing is classified at the top secret level, so nothing leaves this room, not your notes, not your words, and not your opinions in the hallway.
+018. ASHBY: Ladies and gentlemen, this briefing is classified at the top secret level. Nothing leaves this room, not your notes, not your words, and not your opinions in the hallway.
     애슈비: 신사 숙녀 여러분, 이 브리핑은 일급 기밀로 분류돼 있습니다. 아무것도 이 방을 나가지 않습니다. 메모도, 말도, 복도에서의 의견도요.
 
 019. ASHBY: We have Deputy Assistant Secretary Sato from the State Department, along with a gentleman from the intelligence community whom we'll call Mr. Gray.
@@ -149,7 +149,7 @@
 045. DAN: Nobody reads those. I'm asking about a phone call that says, "You're on a list, so leave."
     댄: 그런 건 아무도 안 읽어요. 제가 묻는 건 전화예요. "당신은 명단에 있으니 떠나세요"라는 전화요.
 
-046. GRAY: Senator, if we make that phone call, Valdoria will want to know how we knew, so they'll work backward until they find the person who told us, and that person has a family.
+046. GRAY: Senator, if we make that phone call, Valdoria will want to know how we knew. They'll work backward until they find the person who told us, and that person has a family.
     그레이: 의원님, 저희가 그 전화를 하면 발도리아는 저희가 어떻게 알았는지 알아내려 할 겁니다. 거꾸로 추적해서 알려 준 사람을 찾아낼 거고, 그 사람에겐 가족이 있습니다.
 
 047. DAN: You're talking about sources and methods.
@@ -314,7 +314,7 @@
 100. DAN: Okay? That's it, and you're not going to push me at all?
     댄: 알았다고? 그게 다야? 하나도 안 캐물어?
 
-101. ELENA: Danny, I've been a doctor for twenty years, so I know a hundred things about my patients that I can't tell you, like who's sick, who's dying, and who lied to their wife.
+101. ELENA: Danny, I've been a doctor for twenty years. I know a hundred things about my patients that I can't tell you, like who's sick, who's dying, and who lied to their wife.
     엘레나: 대니, 나 의사 20년째야. 환자들에 대해 너한테 말 못 하는 게 백 가지는 돼. 누가 아픈지, 누가 죽어 가는지, 누가 아내한테 거짓말했는지.
 
 102. ELENA: I carry it home every night in a little room in my head with a locked door. Welcome to my job, because you're just late.
