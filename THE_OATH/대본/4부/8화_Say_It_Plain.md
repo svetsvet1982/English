@@ -119,7 +119,7 @@
 035. DAN: First, here's what Marty Goldstein wrote me, eight minutes with three jokes, which he says is his best work since 1994.
     댄: 먼저, 마티 골드스타인이 써 준 거예요. 8분에 농담 세 개. 본인 말로는 1994년 이후 최고작이래요.
 
-036. DAN: I'm going to put it on this chair, and I'm not going to read it, because Yvonne told me you can hear a lawyer speech from the parking lot.
+036. DAN: I'm going to put it on this chair, and I'm not going to read it. Yvonne told me you can hear a lawyer speech from the parking lot.
     댄: 이걸 이 의자에 올려놓을게요. 안 읽을 거예요. 주차장에서도 변호사 연설은 알아듣는다고 이본이 그랬거든요.
 
 037. AUDIENCE: Ha, that's right, we can!
@@ -179,19 +179,19 @@
 055. AUDIENCE: Ha!
     청중: 하!
 
-056. DAN: That's the rule: you don't tell, not because it's easy, but because if you told, nobody would ever let you in the door again. Lawyers have the same rule, called confidentiality, and you have it too; you just don't call it that.
+056. DAN: That's the rule: you don't tell. It's not because it's easy, but because if you told, nobody would ever let you in the door again. Lawyers have the same rule, called confidentiality, and you have it too; you just don't call it that.
     댄: 그게 규칙이에요. 말 안 하는 거. 쉬워서가 아니라 말하면 다시는 아무도 문을 안 열어 줄 테니까요. 변호사도 같은 규칙이 있어요. 비밀유지라고 하죠. 여러분한테도 있어요. 그렇게 부르지 않을 뿐이죠.
 
 057. MEMBER: That's right, he's got that right!
     조합원: 맞아, 그 말이 맞아!
 
-058. DAN: So when a reporter asks me about my old clients, and I say "I can't," I'm not hiding, because I'm doing what you do every morning, which is keeping the key.
+058. DAN: So a reporter asks me about my old clients, and I say "I can't." I'm not hiding, because I'm doing what you do every morning, which is keeping the key.
     댄: 그러니까 기자가 예전 의뢰인에 대해 묻고 제가 "못 합니다"라고 할 때, 숨는 게 아니에요. 여러분이 매일 아침 하는 걸 하는 거예요. 열쇠를 지키는 거죠.
 
 059. AUDIENCE: Yeah!
     청중: 그래!
 
-060. DAN: Now, there's one thing I can tell you, because it's public, since a federal judge wrote it in an order that you can read on the court's website, so I'll read it to you.
+060. DAN: Now, there's one thing I can tell you, because it's public. A federal judge wrote it in an order that you can read on the court's website, so I'll read it to you.
     댄: 자, 하나 말씀드릴 수 있는 게 있어요. 공개된 거라서요. 연방 판사가 명령문에 쓴 거고 법원 웹사이트에서 읽을 수 있어요. 읽어 드릴게요.
 
 061. DAN: "The Court thanks Mr. Reardon for his service in this matter." That was December 2026, in the Castellan case, on the day I left.
@@ -200,7 +200,7 @@
 062. MEMBER: Why'd he thank you? Judges don't thank anybody, not even my cousin.
     조합원: 왜 고맙대요? 판사들은 아무한테도 고맙다고 안 해요. 우리 사촌한테도요.
 
-063. DAN: I can't tell you why, but federal judges don't usually write thank-you notes to the lawyer for the prison company, so you can decide for yourself what that means.
+063. DAN: I can't tell you why. But federal judges don't usually write thank-you notes to the lawyer for the prison company, so you can decide for yourself what that means.
     댄: 왜인지는 말 못 해요. 근데 연방 판사가 교도소 회사 변호사한테 감사 쪽지를 쓰는 일은 보통 없어요. 그게 무슨 뜻인지는 여러분이 판단하세요.
 
 064. AUDIENCE: Ohhh.
@@ -215,7 +215,7 @@
 067. AUDIENCE: Too low, way too low!
     청중: 너무 낮아! 너무 낮다고!
 
-068. DAN: On day one, I'll sign onto the bill that raises the federal share, so the money goes to wages, not to the agency owners but to wages, and I'll put that in writing.
+068. DAN: On day one, I'll sign onto the bill that raises the federal share. The money goes to wages, not to the agency owners but to wages, and I'll put that in writing.
     댄: 첫날 저는 연방 분담금을 올리는 법안에 서명할 거예요. 그 돈이 임금으로 가게요. 기관 주인들 말고 임금으로요. 문서로 약속할게요.
 
 069. MEMBER: What about overtime and twenty-four-hour shifts? Nobody ever talks about those.
@@ -242,13 +242,13 @@
 076. MARISELA: You have two minutes left, Mr. Reardon, and I'm watching the clock.
     마리셀라: 2분 남았어요, 레이든 씨. 시계 보고 있어요.
 
-077. DAN: Two minutes, so here's the last thing. You heard about my chair on the forty-seventh floor, and it was a very good chair, and I'm not going to lie, because I miss it sometimes.
+077. DAN: Two minutes, so here's the last thing. You heard about my chair on the forty-seventh floor, and it was a very good chair. I'm not going to lie, because I miss it sometimes.
     댄: 2분이요. 마지막으로요. 47층 제 의자 얘기 들으셨죠. 아주 좋은 의자였어요. 거짓말 안 할게요. 가끔 그리워요.
 
-078. DAN: Now I sit in a spring chair in the Bronx that belonged to Ruth Abernathy, and it hurts, but every day, it reminds me who I work for now.
+078. DAN: Now I sit in a spring chair in the Bronx that belonged to Ruth Abernathy, and it hurts. But every day, it reminds me who I work for now.
     댄: 지금은 브롱크스에서 스프링 의자에 앉아요. 루스 애버내시 의자였어요. 아파요. 근데 매일 제가 지금 누구를 위해 일하는지 일깨워 줘요.
 
-079. DAN: You don't have to vote for me tonight, because Tony's been your friend for twenty years, and Leila's been in your lobbies, and they're good people. But if you're asking who'll keep your key and say it plain, that's me.
+079. DAN: You don't have to vote for me tonight. Tony's been your friend for twenty years, and Leila's been in your lobbies, and they're good people. But if you're asking who'll keep your key and say it plain, that's me.
     댄: 오늘 밤 저를 뽑지 않으셔도 돼요. 토니는 20년 동안 여러분 친구였고 레일라는 여러분 로비에 있었어요. 좋은 사람들이에요. 근데 누가 여러분 열쇠를 지키고 쉽게 말해 줄지 묻는다면, 그게 저예요.
 
 080. MEMBER: Say it plain!
@@ -269,7 +269,7 @@
 085. MEMBER: Mr. Reardon, Tony takes money from the agency owners, and Leila doesn't, so what about you?
     조합원: 레이든 씨, 토니는 기관 주인들한테서 돈을 받고 레일라는 안 받아요. 당신은요?
 
-086. DAN: I don't take any corporate PAC money, and I sent three checks back two weeks ago, including one from a prison phone company that my friend's mother paid for sixteen years.
+086. DAN: I don't take any corporate PAC money, and I sent three checks back two weeks ago. One was from a prison phone company that my friend's mother paid for sixteen years.
     댄: 저는 기업 PAC 돈은 하나도 안 받아요. 2주 전에 수표 세 장을 돌려보냈어요. 하나는 교도소 전화 회사 거였는데, 제 친구 어머니가 16년 동안 그 회사에 돈을 냈어요.
 
 087. MEMBER: And after you win, will you come back here?
@@ -410,13 +410,13 @@
 132. DAN: Nine minutes and forty seconds, Ma.
     댄: 9분 40초야, 엄마.
 
-133. ROSE: I saw it, because June sent it to my phone, and Mrs. Kalogeropoulos showed me how to make it bigger, so I watched it four times.
+133. ROSE: I saw it, because June sent it to my phone. Mrs. Kalogeropoulos showed me how to make it bigger, so I watched it four times.
     로즈: 봤어. 준이 폰으로 보내 줬어. 칼로게로풀로스 부인이 크게 보는 법 알려 줘서 네 번 봤어.
 
 134. DAN: And?
     댄: 그래서?
 
-135. ROSE: And you put the paper on a chair, the way your father did in 1980. They gave him a paper, and he didn't read it, because he tore it up, but you didn't tear it up, which is better manners.
+135. ROSE: And you put the paper on a chair, the way your father did in 1980. They gave him a paper, and he didn't read it, because he tore it up. You didn't tear it up, which is better manners.
     로즈: 그리고 종이를 의자에 올려놨지. 네 아버지가 1980년에 그랬어. 누가 종이를 줬는데 안 읽고 찢어 버렸지. 넌 안 찢었어. 그게 더 예의 바른 거야.
 
 136. DAN: It was Marty's speech, Ma, and it wasn't a bribe.
@@ -449,7 +449,7 @@
 145. DAN: Mr. Stathis, you've been retired for twenty years.
     댄: 스타티스 씨, 은퇴하신 지 20년이잖아요.
 
-146. STATHIS: It's twenty-one, and they still answer when I call. The executive board meets in two weeks to decide on the endorsement, but Tony Russo's father did their legal work for thirty years, so they owe the Russos.
+146. STATHIS: It's twenty-one, and they still answer when I call. The executive board meets in two weeks to decide on the endorsement. But Tony Russo's father did their legal work for thirty years, so they owe the Russos.
     스타티스: 21년이야. 그래도 내가 전화하면 받아. 집행위원회가 2주 뒤에 지지 후보를 정해. 근데 토니 루소 아버지가 30년 동안 거기 법률 일을 봐 줬거든. 루소 집안에 신세를 졌지.
 
 147. ROSE: Vinnie Russo did their legal work? I thought he ran the club.
