@@ -101,8 +101,8 @@
 029. JUNE: For the people at home, "take the floor" means it's your turn to speak, so the whole room belongs to you for fifteen minutes.
     준: 집에 계신 분들을 위해 말하면, '발언대에 선다'는 건 말할 차례라는 뜻이에요. 15분 동안 회의장 전체가 그 사람 거죠.
 
-030. AUDIENCE: Applause fills the hall as the President walks to the podium.
-    청중: (대통령이 연단으로 걸어가자 회의장에 박수가 가득하다)
+030. AUDIENCE: Welcome, Mr. President, the floor is yours this morning.
+    청중: 환영합니다, 대통령님. 오늘 아침 발언권은 대통령님 겁니다.
 
 031. DAN: Mr. President and delegates, I was born about nine miles from this building, in Astoria, Queens, at the last stop.
     댄: 의장님, 대표 여러분. 저는 이 건물에서 9마일쯤 떨어진 퀸즈 애스토리아의 종점에서 태어났습니다.
@@ -110,8 +110,8 @@
 032. DAN: My father drove a bus there for twenty-six years, and my mother ran a kitchen. She died in April, and she asked me to keep this short.
     댄: 아버지는 거기서 26년 동안 버스를 몰았고, 어머니는 부엌을 꾸렸습니다. 어머니는 4월에 돌아가셨는데, 짧게 하라고 하셨습니다.
 
-033. AUDIENCE: Laughter ripples through the delegates, row after row of them.
-    청중: (대표들 사이로 줄줄이 웃음이 번진다)
+033. AUDIENCE: Every mother in this hall would ask her son for the same thing!
+    청중: 이 회의장의 어머니들은 다 아들한테 똑같이 부탁할 거예요!
 
 034. DAN: In my life, I've raised my right hand five times and made a promise: as a lawyer, as a congressman, as a senator, and twice as President.
     댄: 저는 평생 다섯 번 오른손을 들고 약속했습니다. 변호사로, 하원의원으로, 상원의원으로, 그리고 대통령으로 두 번.
@@ -125,8 +125,8 @@
 037. DAN: So I'm going to try, here, in front of a hundred and ninety-three countries, which is about the size of her kitchen on Easter.
     댄: 그래서 여기, 193개국 앞에서 해 보려 합니다. 부활절 어머니 부엌이 대략 이 정도 크기였죠.
 
-038. AUDIENCE: More laughter, warmer this time, and someone in the back claps.
-    청중: (이번엔 더 따뜻한 웃음, 뒤쪽에서 누군가 손뼉을 친다)
+038. AUDIENCE: That's a very big kitchen, Mr. President, but I believe it!
+    청중: 아주 큰 부엌이네요, 대통령님. 그래도 믿어요!
 
 039. DAN: My father had a rule on his bus: "Everybody gets a good morning." That meant the man in the suit, the kid who was a quarter short, and everybody else.
     댄: 아버지는 버스에서 규칙이 하나 있었습니다. "누구에게나 좋은 아침 인사를." 양복 입은 남자에게도, 25센트 모자란 아이에게도, 모두에게요.
@@ -140,8 +140,8 @@
 042. DAN: So here's my answer, Ma. I promised everybody.
     댄: 그래서 제 대답은 이거야, 엄마. 저는 모두에게 약속했습니다.
 
-043. AUDIENCE: Silence.
-    청중: (정적)
+043. AUDIENCE: He said everybody, and you could hear a pin drop in here.
+    청중: 모두라고 했어. 여기 바늘 떨어지는 소리도 들리겠네.
 
 044. CARMEN: Everybody.
     카르멘: 모두.
@@ -158,8 +158,8 @@
 048. DAN: I want to tell you about three of them, and then I'll sit down, because my mother is watching from somewhere with a clock.
     댄: 그중 세 사람에 대해 말씀드리고 앉겠습니다. 어머니가 어딘가에서 시계를 들고 보고 계시거든요.
 
-049. AUDIENCE: Laughter, and a few people glance at the red light.
-    청중: (웃음, 몇몇이 빨간불을 힐끗 본다)
+049. AUDIENCE: The red light is watching him too, so he'd better hurry!
+    청중: 빨간불도 지켜보고 있으니 서두르셔야겠네!
 
 050. DAN: The first is a scientist in Valdoria. During last year's coup, the soldiers guarding his reactor left at night, but he stayed.
     댄: 첫 번째는 발도리아의 과학자입니다. 작년 쿠데타 때 원자로를 지키던 군인들이 밤에 떠났지만, 그는 남았습니다.
@@ -176,8 +176,8 @@
 054. DAN: That uranium is electricity in Tennessee now, and Valdoria held its election in January, as promised. The man who kept that promise is in row twelve, in normal socks.
     댄: 그 우라늄은 이제 테네시의 전기입니다. 발도리아는 약속대로 1월에 선거를 치렀습니다. 그 약속을 지킨 사람이 열두째 줄에 보통 양말을 신고 앉아 있습니다.
 
-055. AUDIENCE: Laughter, and then applause from row twelve, led by Saran himself.
-    청중: (웃음, 그리고 사란이 앞장선 열두째 줄의 박수)
+055. AUDIENCE: Well done, Mr. Saran, and those are very nice socks, too!
+    청중: 잘하셨어요, 사란 씨. 양말도 아주 멋지네요!
 
 056. DAN: The second is a doctor in a small hospital in a port city called Port Calden. At two in the morning, she wrote a short post about twenty-two patients she didn't understand.
     댄: 두 번째는 포트 콜든이라는 항구 도시 작은 병원의 의사입니다. 새벽 두 시에 그녀는 이해할 수 없는 환자 스물두 명에 관한 짧은 글을 썼습니다.
@@ -203,8 +203,8 @@
 063. DAN: It had his school books in it, because he had an exam in March. A sea captain from Baltimore pulled him onto her deck, and her engineer taught him algebra in the galley, badly.
     댄: 그 안엔 학교 책이 들어 있었습니다. 3월에 시험이 있었거든요. 볼티모어 출신 선장이 그를 갑판으로 끌어올렸고, 그 배의 기관사가 조리실에서 대수를 가르쳤습니다. 서툴게요.
 
-064. AUDIENCE: Laughter fills the hall, and Andrei covers his face with both hands.
-    청중: (회의장에 웃음이 퍼지고, 안드레이가 두 손으로 얼굴을 가린다)
+064. AUDIENCE: He says badly, and look at Andrei hiding his face over there!
+    청중: 엉망으로 가르쳤다네. 저기 얼굴 가린 안드레이 좀 봐!
 
 065. DAN: In March, he took his exam in Yuma, Arizona, in a room that a man who cuts lettuce cleaned for him. He got a ninety-four, and he's in the gallery today.
     댄: 3월에 그는 애리조나 유마에서, 양상추 따는 남자가 청소해 준 방에서 시험을 봤습니다. 94점을 받았고, 오늘 방청석에 와 있습니다.
@@ -227,8 +227,8 @@
 071. OWEN: Shorter.
     오언: 더 짧게.
 
-072. AUDIENCE: Laughter comes from the American delegation, loudest of all from Owen.
-    청중: (미국 대표단에서 웃음, 그중 오언이 제일 크게 웃는다)
+072. AUDIENCE: Of course the speechwriter wants it shorter, he always does!
+    청중: 당연히 연설문 작가는 더 짧게 하고 싶지. 늘 그래!
 
 073. DAN: My father had another rule: "If you write it down, somebody has to honor it." The Charter of this institution is written down, and so is every treaty in this building.
     댄: 아버지에게는 또 다른 규칙이 있었습니다. "적어 두면 누군가는 지켜야 한다." 이 기구의 헌장도 적혀 있고, 이 건물의 모든 조약도 적혀 있습니다.
@@ -248,8 +248,8 @@
 078. DAN: I promised everybody, and so did every person in this hall who ever raised a right hand. My mother crossed out the word so I would say it myself, and now you've heard it. Thank you.
     댄: 저는 모두에게 약속했습니다. 이 회의장에서 오른손을 들어 본 모든 분도 그랬습니다. 어머니는 제가 직접 말하도록 그 단어를 지웠고, 이제 여러분이 들으셨습니다. 감사합니다.
 
-079. AUDIENCE: Applause begins, and then the whole hall rises to its feet.
-    청중: (박수가 시작되고, 이내 회의장 전체가 기립한다)
+079. AUDIENCE: Thank you, Mr. President! He said everybody, and he meant it!
+    청중: 고맙습니다, 대통령님! 모두라고 했고, 진심이었어요!
 
 080. OWEN: It was eleven minutes and forty seconds, and he didn't fill the blank, he just stopped. It was the right place to stop, and I didn't write it.
     오언: 11분 40초였어요. 빈 곳을 채우지 않고 그냥 멈추셨어요. 멈추기에 딱 맞는 곳이었어요. 제가 쓴 것도 아니고요.
