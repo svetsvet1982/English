@@ -158,8 +158,8 @@
 048. DAN: It said "No, thank you," three words, and my chief of staff wanted it shorter.
     댄: "사양하겠습니다." 세 단어였습니다. 비서실장은 더 짧게 하길 원했죠.
 
-049. AUDIENCE: [laughter]
-    청중: [웃음]
+049. AUDIENCE: Ha! Shorter than three words? That would be just "No."
+    청중: 하! 세 단어보다 짧게요? 그럼 그냥 "노"네요.
 
 050. DAN: I'm sorry, because I'm not supposed to make jokes today. Marty Goldstein told me not to smile, so next question.
     댄: 죄송합니다. 오늘은 농담하면 안 되는데요. 마티 골드스타인이 웃지 말라고 했거든요. 다음 질문 받겠습니다.
