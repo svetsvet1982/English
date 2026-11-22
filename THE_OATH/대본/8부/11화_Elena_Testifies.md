@@ -206,8 +206,8 @@
 064. ELENA: No, Senator, he made coffee, badly, and that was his only job.
     엘레나: 아닙니다, 의원님. 커피를 탔습니다. 맛없게요. 그게 남편의 유일한 일이었습니다.
 
-065. AUDIENCE: [laughter]
-    청중: [웃음]
+065. AUDIENCE: Ha! Every doctor's husband makes bad coffee, Senator!
+    청중: 하! 의사 남편들은 다 커피를 못 타요, 의원님!
 
 066. BOONE: Dr. Reardon, your husband stood on the floor for fourteen hours about nurses, and now you're here about nurses. People at home might think it's a family campaign.
     분: 레이든 박사님, 남편분이 간호사 문제로 본회의장에 14시간 서 있었습니다. 이제 박사님이 간호사 문제로 여기 오셨고요. 국민들은 가족 캠페인이라고 생각할 수도 있습니다.
@@ -248,8 +248,8 @@
 078. BOONE: Darlene Pruett? Doctor, Darlene Pruett is my wife's cousin.
     분: 달린 프루엣이요? 박사님, 달린 프루엣은 제 아내의 사촌입니다.
 
-079. AUDIENCE: [murmuring]
-    청중: [웅성거림]
+079. AUDIENCE: His wife's cousin? You can't make this stuff up.
+    청중: 부인의 사촌이라고? 이건 지어낼 수도 없겠네.
 
 080. BOONE: She still talks about a doctor from New York who didn't panic in 2011, and I never knew it was you.
     분: 그 사람 아직도 2011년에 당황하지 않던 뉴욕 의사 얘기를 합니다. 그게 박사님인 줄 몰랐네요.
