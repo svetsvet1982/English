@@ -419,8 +419,8 @@
 135. DAN: He obviously learned from his mother, so look at that list.
     댄: 당연히 엄마한테 배웠지. 저 목록 좀 봐.
 
-136. ELENA: He learned it from Hank, actually, at the ranch last summer.
-    엘레나: 사실 작년 여름 목장에서 행크한테 배운 거야.
+136. ELENA: He learned it from Hank, actually, out at the ranch in Montana.
+    엘레나: 사실 몬태나 목장에서 행크한테 배운 거야.
 
 137. SAM: I learned from Grandma, because she always gets what she wants, and she makes you eat first.
     샘: 난 할머니한테 배웠어. 할머니는 늘 원하는 걸 얻잖아. 그리고 먼저 먹게 하고.
