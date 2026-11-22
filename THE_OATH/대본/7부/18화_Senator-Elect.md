@@ -104,8 +104,8 @@
 030. GUS: It's two eggs over easy, rye toast, and coffee you'll complain about, Senator.
     거스: 달걀 두 개 오버이지, 호밀 토스트, 그리고 불평할 커피. 상원의원님.
 
-031. AUDIENCE: [cheering]
-    청중: [환호]
+031. AUDIENCE: Gus said Senator! He finally said it, everybody!
+    청중: 거스가 상원의원이라고 했어! 드디어 말했다고, 여러분!
 
 032. ROSE: He said it, Gus said it! Kevin, did you hear?
     로즈: 말했다. 거스가 말했어. 케빈, 들었니?
@@ -425,8 +425,8 @@
 137. CORBETT: I didn't finish, Senator.
     코벳 부통령: 아직 안 끝났어요, 상원의원님.
 
-138. AUDIENCE: [laughter]
-    청중: [웃음]
+138. AUDIENCE: Ha! Let the judge finish, Senator, you're not sworn in yet!
+    청중: 하! 판사님 말 끝나게 두세요, 의원님. 아직 선서 안 했어요!
 
 139. DAN: I'm sorry, because I said it once already downstairs, and I meant it, and I'll mean it again. Please finish.
     댄: 죄송합니다. 아래층에서 이미 한 번 해서요. 진심이었고 또 진심일 겁니다. 끝까지 해 주세요.
