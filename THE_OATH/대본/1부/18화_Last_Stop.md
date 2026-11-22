@@ -17,7 +17,7 @@
 001. SAM: Dad, is this the last stop, really the last stop, with no more train after this?
     샘: 아빠, 여기가 종점이야? 진짜 종점? 이다음엔 기차 없어?
 
-002. DAN: This is the end of the line, buddy, at Ditmars Boulevard, and if you stay on, the train just turns around and goes back to Manhattan.
+002. DAN: This is the end of the line, buddy, at Ditmars Boulevard. If you stay on, the train just turns around and goes back to Manhattan.
     댄: 여기가 노선 끝이야, 꼬마야. 디트마스 불러바드. 계속 타고 있으면 기차가 그냥 돌아서 맨해튼으로 다시 가.
 
 003. SAM: Can I say it, the thing Grandpa used to say? Uncle Kevin told me about it.
@@ -71,7 +71,7 @@
 019. SAM: Why are we going to Gus's first, and Mom and Zoe are meeting us there, right?
     샘: 왜 거스 아저씨네 먼저 가? 엄마랑 누나도 거기서 만나는 거 맞지?
 
-020. DAN: Everybody's meeting there, Yiayia, Uncle Kevin, and Nicky, because it's a tradition: Christmas Eve breakfast at the Athena, and then nobody eats anything until Yiayia's dinner, because she gets offended.
+020. DAN: Everybody's meeting there, Yiayia, Uncle Kevin, and Nicky, because it's a tradition. We have Christmas Eve breakfast at the Athena, and then nobody eats anything until Yiayia's dinner, because she gets offended.
     댄: 다들 거기서 만나. 할머니, 케빈 삼촌, 니키. 전통이야. 크리스마스이브 아침은 아테나에서, 그다음엔 할머니 저녁까지 아무것도 안 먹어. 할머니가 서운해하시거든.
 
 021. SAM: Since when is it a tradition, Dad, because I've never heard of it?
@@ -83,7 +83,7 @@
 023. SAM: That's cheating.
     샘: 그거 반칙이야.
 
-024. DAN: It's not cheating, it's how families work, because somebody does something once, and then somebody else says, "We always do this," and then it's true.
+024. DAN: It's not cheating, it's how families work. Somebody does something once, and then somebody else says, "We always do this," and then it's true.
     댄: 반칙 아니야. 가족은 원래 그래. 누가 뭘 한 번 하면, 다른 누가 "우린 늘 이렇게 해"라고 하고, 그럼 그게 진짜가 되는 거야.
 
 025. SAM: Okay, then we always go to Gus's on Christmas Eve.
@@ -113,7 +113,7 @@
 033. GUS: You're still "Counselor," Danny, even though you quit the firm?
     거스: 회사 그만뒀는데도 아직 '변호사님'이야, 대니?
 
-034. DAN: I quit the firm, but I'm still a lawyer, because they'd have to take away the certificate, and it's in a box in my garage.
+034. DAN: I quit the firm, but I'm still a lawyer. They'd have to take away the certificate, and it's in a box in my garage.
     댄: 회사를 그만둔 거지, 아직 변호사예요. 자격증을 뺏어야 아니죠. 그건 우리 차고 상자 안에 있어요.
 
 035. GUS: Then Counselor stays. Hey, Danny, before your family comes, I have to tell you something strange.
@@ -122,7 +122,7 @@
 036. DAN: Strange how? Strange good, or strange like Mrs. Kalogeropoulos?
     댄: 어떻게 이상한데요? 좋게 이상한 거예요, 칼로게로풀로스 부인처럼 이상한 거예요?
 
-037. GUS: About two weeks ago, a man came in, tall, with gray hair, a coat that cost more than my grill, and a very expensive tie, and he sat at the counter, right where you sit.
+037. GUS: About two weeks ago, a man came in, tall, with gray hair, a coat that cost more than my grill, and a very expensive tie. He sat at the counter, right where you sit.
     거스: 2주쯤 전에 어떤 남자가 왔어. 키 크고, 백발에, 내 그릴보다 비싼 코트에, 아주 비싼 넥타이. 카운터에 앉더라. 딱 네 자리에.
 
 038. DAN: What did he order? Let me guess. Something he complained about.
@@ -152,7 +152,7 @@
 046. DAN: He was my boss, and my teacher, and the man I just walked away from.
     댄: 상사였어요. 스승이기도 하고요. 그리고 제가 방금 떠나온 사람이고요.
 
-047. GUS: Then he's a good loser, which is rare, because my father used to say you learn more about a man from how he loses than from how he wins.
+047. GUS: Then he's a good loser, and that's rare. My father used to say you learn more about a man from how he loses than from how he wins.
     거스: 그럼 질 줄 아는 사람이네. 드물지. 우리 아버지가 그랬어. 남자는 이기는 모습보다 지는 모습에서 더 많이 알 수 있다고.
 
 048. ELENA: There they are. Sam, you have syrup on your eyebrow, so how do you get syrup on your eyebrow before the pancake arrives?
@@ -203,7 +203,7 @@
 063. ROSE: I know, but Danny complains about it better. Danny, Elena told me in the car that you haven't decided what you're doing in January.
     로즈: 알아. 근데 대니가 불평을 더 잘해. 대니, 엘레나가 차에서 그러던데, 1월에 뭐 할지 아직 안 정했다며.
 
-064. DAN: Not yet, Ma, but I've had some calls: two firms, a teaching job at Fordham, and Legal Aid called on Monday, which surprised me.
+064. DAN: Not yet, Ma, but I've had some calls: two firms and a teaching job at Fordham. Legal Aid called on Monday, which surprised me.
     댄: 아직이요, 엄마. 전화는 좀 왔어요. 로펌 두 곳, 포덤 대학 강의 자리. 월요일엔 법률구조협회도 전화했어요. 그건 좀 놀랐어요.
 
 065. ROSE: And?
@@ -233,7 +233,7 @@
 073. DAN: I haven't seen anything, because I've been on the N train with a nine-year-old conductor.
     댄: 아무것도 못 봤어. 아홉 살짜리 차장이랑 N선 타고 왔거든.
 
-074. KEVIN: It says, "Castellan Corrections reaches settlement in detention deaths lawsuit," in a small article with no details, and it says "terms were not disclosed."
+074. KEVIN: It says, "Castellan Corrections reaches settlement in detention deaths lawsuit." It's a small article with no details, and it says "terms were not disclosed."
     케빈: "Castellan Corrections, 구금시설 사망 소송 합의." 작은 기사야. 자세한 건 없고, "조건은 공개되지 않았다"래.
 
 075. DAN: Let me see that, Kev, so hand it over.
@@ -260,7 +260,7 @@
 082. DAN: Hello? This is Dan Reardon speaking, and Merry Christmas.
     댄: 여보세요? 댄 레이든입니다. 메리 크리스마스.
 
-083. RUTH: Merry Christmas, Dan, it's Ruth, and I'm calling from my office, where it is currently fifty-one degrees, because Marisol put a thermometer on my desk as a form of protest.
+083. RUTH: Merry Christmas, Dan, it's Ruth. I'm calling from my office, where it is currently fifty-one degrees, because Marisol put a thermometer on my desk as a form of protest.
     루스: 메리 크리스마스, 댄. 루스야. 사무실에서 전화하는데 지금 10도야. 마리솔이 항의 표시로 내 책상에 온도계를 놔뒀어.
 
 084. DAN: Merry Christmas, Ruth, and I just saw the Daily News.
@@ -284,7 +284,7 @@
 090. ROSE: Good, so tell him to talk about me less and visit me more.
     로즈: 잘됐네. 내 얘기는 덜 하고 나 보러 더 오라고 해.
 
-091. RUTH: I'll do my best. Dan, here's what happened: on December eleventh, at four fifty-two in the afternoon, Castellan produced six hundred and twelve pages, and I read every page that night without sleeping.
+091. RUTH: I'll do my best. Dan, here's what happened. On December eleventh, at four fifty-two in the afternoon, Castellan produced six hundred and twelve pages, and I read every page that night without sleeping.
     루스: 노력해 볼게요. 댄, 이렇게 된 거야. 12월 11일 오후 4시 52분에 Castellan이 612쪽을 제출했어. 그날 밤 한 장도 빠짐없이 읽었어. 잠 안 자고.
 
 092. DAN: I can't talk about what was in it, Ruth.
@@ -296,7 +296,7 @@
 094. DAN: Three days.
     댄: 사흘.
 
-095. RUTH: It was three days of very bad coffee, and yesterday afternoon, we reached a settlement in principle, which means we agree on the main terms, and the details get written later. Then the court has to approve it, because it's a class action.
+095. RUTH: It was three days of very bad coffee. Yesterday afternoon, we reached a settlement in principle, which means we agree on the main terms, and the details get written later. Then the court has to approve it, because it's a class action.
     루스: 사흘 동안 아주 맛없는 커피였어. 어제 오후에 원칙적 합의에 도달했어. 주요 조건엔 합의했고, 세부 사항은 나중에 쓴다는 뜻이야. 그다음엔 법원이 승인해야 해. 집단소송이니까.
 
 096. ZOE: What are the terms? Sorry, I'm his daughter, and I'm recording for school, so is that okay?
@@ -314,8 +314,8 @@
 100. ZOE: Thank you so much, Ms. Abernathy, for letting me record this.
     조이: 녹음하게 해 주셔서 정말 감사합니다, 애버내시 변호사님.
 
-101. RUTH: It's eighty-five million dollars for the class and the three families, and an independent medical monitor at all eleven Castellan facilities for five years, not just the three in our case, with a nurse on site, twenty-four hours a day, at every facility.
-    루스: 집단과 세 가족에게 8,500만 달러. 우리 사건의 세 곳만이 아니라 Castellan 시설 11곳 전부에 5년 동안 독립 의료 감독관. 그리고 모든 시설에 하루 24시간 간호사 상주.
+101. RUTH: It's eighty-five million dollars for the class and the three families. There's also an independent medical monitor at all eleven Castellan facilities for five years, not just the three in our case. Every facility gets a nurse on site, twenty-four hours a day.
+    루스: 집단과 세 가족에게 8,500만 달러. 그리고 우리 사건의 세 곳만이 아니라 Castellan 시설 11곳 전부에 5년 동안 독립 의료 감독관. 모든 시설에 하루 24시간 간호사 상주.
 
 102. ELENA: Twenty-four hours a day, at every single facility, all eleven of them.
     엘레나: 하루 24시간. 모든 시설에. 열한 곳 전부.
@@ -326,7 +326,7 @@
 104. ELENA: I don't know what that means, but thank you.
     엘레나: 무슨 뜻인지는 모르겠지만, 고마워요.
 
-105. RUTH: He'll explain it, badly at first. There's more, because Castellan has to send corrected incident reports to the federal contracting office and to the state, with the original versions attached, and that's not a money term, that was Carmen's term.
+105. RUTH: He'll explain it, badly at first. There's more. Castellan has to send corrected incident reports to the federal contracting office and to the state, with the original versions attached. That's not a money term, that was Carmen's term.
     루스: 남편분이 설명해 줄 거예요. 처음엔 서툴게. 더 있어. Castellan은 연방 계약 사무소와 주에 정정된 사고 보고서를 원본과 함께 보내야 해. 그건 돈 조건이 아니야. 카르멘의 조건이었어.
 
 106. DAN: Carmen asked for that herself, Ruth, in the middle of mediation?
@@ -338,7 +338,7 @@
 108. ROSE: That's a good woman, because that's a woman who knows what paper is for.
     로즈: 좋은 여자네. 종이가 뭘 위해 있는지 아는 여자야.
 
-109. RUTH: You'd like her, Mrs. Reardon. And Dan, there are a few other things you'll read about: Ron Dwyer resigned on Monday, and Grant Holloway stepped down as chairman of the board, though he's still the CEO, for now.
+109. RUTH: You'd like her, Mrs. Reardon. And Dan, there are a few other things you'll read about. Ron Dwyer resigned on Monday, and Grant Holloway stepped down as chairman of the board, though he's still the CEO, for now.
     루스: 좋아하실 거예요, 레이든 부인. 그리고 댄, 다른 소식 몇 개 읽게 될 거야. 론 드와이어가 월요일에 사임했고, 그랜트 홀러웨이는 이사회 의장직에서 물러났어. CEO는 아직이야. 당분간은.
 
 110. DAN: For now, which is a very lawyerly phrase, Ruth.
@@ -350,19 +350,19 @@
 112. DAN: And what about the Thrift memo, entry one thousand four hundred and twelve?
     댄: 그럼 스리프트 메모는요? 1,412번 항목이요.
 
-113. RUTH: The new lawyers withdrew the privilege claim the morning mediation started, because they didn't want to explain it to a magistrate judge, so it turns out the system works when somebody's watching.
+113. RUTH: The new lawyers withdrew the privilege claim the morning mediation started. They didn't want to explain it to a magistrate judge, so it turns out the system works when somebody's watching.
     루스: 새 변호사들이 조정 시작하는 날 아침에 특권 주장을 철회했어. 치안판사한테 설명하기 싫었던 거지. 누군가 지켜볼 때 제도가 작동한다는 게 맞았던 거야.
 
 114. DAN: Somebody said that to me once, in a stairwell.
     댄: 누가 저한테 그 말을 한 적이 있어요. 계단에서.
 
-115. RUTH: Somebody smart, then. Dan, there's one more thing from Carmen, because she asked me to give you a message, and she said you'd understand it, although I'm not sure I do.
+115. RUTH: Somebody smart, then. Dan, there's one more thing from Carmen, because she asked me to give you a message. She said you'd understand it, although I'm not sure I do.
     루스: 똑똑한 사람이었네. 댄, 카르멘한테서 하나 더 있어. 너한테 전할 말이 있대. 넌 이해할 거래. 난 잘 모르겠지만.
 
 116. DAN: What is it, Ruth, and is she all right?
     댄: 뭔데요, 루스? 그분 괜찮으세요?
 
-117. RUTH: She said, "Tell Mr. Reardon the last joke, the one on the last envelope," and she read it to me from the envelope, in Mateo's handwriting.
+117. RUTH: She said, "Tell Mr. Reardon the last joke, the one on the last envelope." She read it to me from the envelope, in Mateo's handwriting.
     루스: "레이든 변호사님한테 마지막 농담을 전해 주세요. 마지막 봉투에 있던 거요"라고 했어. 봉투를 보고 읽어 주더라. 마테오 글씨로 쓰여 있었어.
 
 118. DAN: Read it to me.
@@ -425,7 +425,7 @@
 137. AISHA: Where are we going?
     아이샤: 우리 어디로 가요?
 
-138. DAN: We're going to the Bronx, to a desk by a window that doesn't close, where the heat is a concept, because Ruth Abernathy wants both of us, starting in January.
+138. DAN: We're going to the Bronx, to a desk by a window that doesn't close, where the heat is a concept. Ruth Abernathy wants both of us, starting in January.
     댄: 브롱크스. 안 닫히는 창가 책상. 난방은 개념일 뿐이고. 루스 애버내시가 우리 둘 다 원해. 1월부터.
 
 139. AISHA: Yes.
