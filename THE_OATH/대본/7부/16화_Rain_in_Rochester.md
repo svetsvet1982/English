@@ -104,14 +104,14 @@
 030. DAN: Thank you for standing in the rain, under a gas station, on a Saturday. I know Governor Hartley has a band downtown, and we have an ice machine.
     댄: 비 오는 토요일에 주유소 아래 서 계셔 주셔서 감사합니다. 하틀리 주지사님은 시내에 밴드가 있다는 거 압니다. 우린 제빙기가 있죠.
 
-031. AUDIENCE: [laughter]
-    청중: [웃음]
+031. AUDIENCE: Ha! We'll take the ice machine over the band any day!
+    청중: 하! 밴드보다 제빙기가 백번 낫지!
 
 032. DAN: Three days from now you'll vote, but I'm not going to give you a speech, because it's raining. Short speeches in the rain, as a governor taught me.
     댄: 사흘 뒤면 투표하십니다. 연설은 안 하겠습니다. 비가 오니까요. 비 올 땐 짧게. 어느 주지사님한테 배웠습니다.
 
-033. AUDIENCE: [laughter]
-    청중: [웃음]
+033. AUDIENCE: Ha! Keep it short, Congressman, because my socks are soaked!
+    청중: 하! 짧게 해요, 의원님. 양말 다 젖었어요!
 
 034. DAN: So instead I want to hear from two people. Leila Haddad used to work for me, and she left in May, loudly, but she's here with friends. Leila?
     댄: 그래서 대신 두 분 말씀을 듣고 싶습니다. 레일라 해더드는 저와 일하다 5월에 떠났습니다. 시끄럽게요. 오늘 친구들이랑 왔네요. 레일라?
@@ -131,8 +131,8 @@
 039. LALO: Here's my question about section seven, "never a citizen": what will you do?
     랄로: 제 질문이요. 7조, "절대 시민이 될 수 없음." 어떻게 할 거예요?
 
-040. AUDIENCE: [murmuring under the canopy as the rain gets louder]
-    청중: [빗소리가 커지는 가운데 차양 아래 웅성거림]
+040. AUDIENCE: That's the question we all came here to ask, so answer it.
+    청중: 우리 다 그 질문 하러 온 거예요. 대답해 봐요.
 
 041. DAN: Here's the honest answer: the Farm Bureau won't support the bill without section seven, and I agreed to support the bill with it, because ninety days of portability is better than what you have now.
     댄: 솔직하게 답하겠습니다. 농민연맹은 7조 없이는 법안을 지지하지 않습니다. 저는 7조가 있는 채로 법안을 지지하기로 했습니다. 90일 이동성이 지금 여러분이 가진 것보다 나으니까요.
@@ -212,8 +212,8 @@
 066. MONIQUE: Then whoever wins, Mr. Feldman gets a bath? That's the first time two politicians agreed on something I need.
     모니크: 그럼 누가 이기든 펠드먼 씨는 목욕을 하시겠네요? 정치인 둘이 제가 필요한 걸로 의견이 맞은 건 처음이에요.
 
-067. AUDIENCE: [laughter and applause]
-    청중: [웃음과 박수]
+067. AUDIENCE: Ha! Give the man a bath, Monique, and give her a medal!
+    청중: 하! 펠드먼 씨 목욕시켜 드리고, 모니크한텐 메달 줘요!
 
 068. JUNE: Dan, don't turn around, because there's a black car at pump four. A man is getting out with an umbrella, a big one.
     준: 댄, 돌아보지 마요. 4번 주유기에 검은 차가 있어요. 남자가 내리고 있어요. 우산 들고요. 큰 거요.
@@ -257,8 +257,8 @@
 081. HARTLEY: Off the record, my wife made me. And I'm still going to beat him on Tuesday, so put that on the record too. Good afternoon, Rochester.
     하틀리: 비공식으로는 아내가 시켰어요. 그리고 화요일엔 여전히 이 사람을 이길 거예요. 그것도 공식 기록으로 넣어요. 안녕히 계세요, 로체스터.
 
-082. AUDIENCE: [mixed applause and laughter]
-    청중: [박수와 웃음이 섞인다]
+082. AUDIENCE: Ha! Well, at least he's honest about his wife, Governor!
+    청중: 하! 그래도 사모님 얘기는 솔직하네요, 주지사님!
 
 083. MONIQUE: Did that just happen?
     모니크: 방금 그거 진짜 있었던 일이에요?
