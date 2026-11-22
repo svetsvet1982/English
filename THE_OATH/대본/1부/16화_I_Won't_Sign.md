@@ -14,17 +14,17 @@
 
 ## 대본
 
-001. BEV: Good morning, so here's coffee, two aspirin, and a bagel you're going to ignore. Aisha's been here since six, and she brought two folders and the face of a person carrying a bomb.
+001. BEV: Good morning. Here's coffee, two aspirin, and a bagel you're going to ignore. Aisha's been here since six, and she brought two folders and the face of a person carrying a bomb.
     베브: 좋은 아침이에요. 커피, 아스피린 두 알, 그리고 안 드실 베이글이요. 아이샤는 여섯 시부터 와 있어요. 폴더 두 개랑 폭탄 들고 있는 사람 얼굴을 하고 왔어요.
 
-002. DAN: Thank you, Bev, and send her in. And Bev, today, if anyone from Castellan calls, put them through, because I don't want you to protect me today.
+002. DAN: Thank you, Bev, and send her in. And Bev, today, if anyone from Castellan calls, put them through. I don't want you to protect me today.
     댄: 고마워요, 베브. 들여보내 줘요. 그리고 베브, 오늘 Castellan에서 누가 전화하면 연결해 줘요. 오늘은 저 보호하지 마세요.
 
 003. BEV: I always protect you, because it's in my job description, and I wrote my job description.
     베브: 전 항상 보호해요. 제 직무 설명서에 있거든요. 그 설명서는 제가 썼고요.
 
-004. AISHA: There are two folders, blue for Kessler's version and red for ours. I read both of them out loud to my cat at three in the morning, and my cat left the room.
-    아이샤: 폴더 두 개예요. 파란 건 케슬러 버전, 빨간 건 우리 버전. 새벽 세 시에 고양이한테 둘 다 소리 내서 읽어 줬더니 고양이가 방을 나가더라고요.
+004. AISHA: There are two folders, blue for Kessler's version and red for ours. I read both of them out loud to my cat at three in the morning. My cat left the room.
+    아이샤: 폴더 두 개예요. 파란 건 케슬러 버전, 빨간 건 우리 버전. 새벽 세 시에 고양이한테 둘 다 소리 내서 읽어 줬어요. 고양이가 방을 나가더라고요.
 
 005. DAN: That's a smart cat, so let's do blue first.
     댄: 똑똑한 고양이네. 파란 거부터 하자.
@@ -35,13 +35,13 @@
 007. DAN: "The undersigned" is me, Daniel J. Reardon, lead counsel.
     댄: '서명인'이 나지. 대니얼 J. 레이든, 수석 변호인.
 
-008. AISHA: Then there's the final privilege log attached to it, with two thousand eight hundred and forty entries, and I searched it for the July email.
+008. AISHA: Then there's the final privilege log attached to it, with two thousand eight hundred and forty entries. I searched it for the July email.
     아이샤: 그리고 최종 특권 목록이 붙어 있어요. 2,840건. 7월 이메일을 검색해 봤어요.
 
 009. DAN: And?
     댄: 그래서?
 
-010. AISHA: It's not there, because it's not logged as privileged or anywhere else, and neither are Beth Carrow's folder or the original reports. They've just disappeared from the list.
+010. AISHA: It's not there. It's not logged as privileged or anywhere else, and neither are Beth Carrow's folder or the original reports. They've just disappeared from the list.
     아이샤: 없어요. 특권으로도 안 올라 있고, 어디에도 없어요. 베스 캐로우 폴더도, 원본 보고서도요. 목록에서 그냥 사라졌어요.
 
 011. DAN: They're not even on the log?
@@ -59,7 +59,7 @@
 015. DAN: It does now, and Castellan decided which planets are in it. Okay, now let's do red.
     댄: 이제 있지. 그리고 Castellan이 어떤 행성을 넣을지 정했고. 좋아, 이제 빨간 거.
 
-016. AISHA: It has the same certification language, word for word, but the production includes a supplemental volume with the July email, Grant's reply, the Carrow folder, and all three original reports, tabs one through five.
+016. AISHA: It has the same certification language, word for word. But the production includes a supplemental volume with the July email, Grant's reply, the Carrow folder, and all three original reports. Those are tabs one through five.
     아이샤: 확인서 문구는 토씨 하나 안 틀리고 똑같아요. 근데 제출분에 추가 묶음이 있어요. 7월 이메일, 그랜트 답장, 캐로우 폴더, 원본 보고서 세 건. 1번부터 5번 탭이요.
 
 017. DAN: And the cover letter?
@@ -83,10 +83,10 @@
 023. DAN: What time is it?
     댄: 몇 시야?
 
-024. AISHA: It's eight forty-one, and the certification has to be filed on ECF by five, which is the court's electronic filing system. If it's not on the docket by five, Judge Pike will want to know why.
+024. AISHA: It's eight forty-one. The certification has to be filed on ECF by five, and that's the court's electronic filing system. If it's not on the docket by five, Judge Pike will want to know why.
     아이샤: 8시 41분이요. 확인서는 다섯 시까지 ECF에 제출해야 해요. 법원 전자 제출 시스템이요. 다섯 시까지 사건 기록에 안 올라가면 파이크 판사가 이유를 묻겠죠.
 
-025. VICTORIA: Knock knock. Howard asked me to "review the certification," so I'm here to review it, but which one am I reviewing? I see two folders, and that's never a good sign.
+025. VICTORIA: Knock knock. Howard asked me to "review the certification," so I'm here to review it. But which one am I reviewing? I see two folders, and that's never a good sign.
     빅토리아: 똑똑. 하워드가 "확인서 검토하라"고 해서 검토하러 왔어. 근데 어느 걸 검토하면 돼? 폴더가 두 개네. 좋은 징조였던 적이 없지.
 
 026. DAN: Blue is the one that leaves out the July email, and red is the one that includes it.
@@ -98,7 +98,7 @@
 028. DAN: Did Howard tell you why he wants you to review it?
     댄: 하워드가 왜 너보고 검토하라는지 말했어?
 
-029. VICTORIA: He didn't have to, because if you won't sign, he needs a second name, and I'm the only other partner who's on the docket, so it's not complicated.
+029. VICTORIA: He didn't have to. If you won't sign, he needs a second name, and I'm the only other partner who's on the docket. It's not complicated.
     빅토리아: 말할 필요도 없었어. 네가 서명 안 하면 두 번째 이름이 필요하잖아. 사건 기록에 올라간 다른 파트너는 나뿐이고. 복잡할 거 없어.
 
 030. DAN: Are you going to sign it, Victoria?
@@ -122,10 +122,10 @@
 036. HOWARD: Sit down, everyone. Leonard, thank you for coming up, and Martin, can you hear us?
     하워드: 다들 앉아. 레너드, 올라와 줘서 고마워. 마틴, 들려?
 
-037. KESSLER: I can hear you, Howard, because I'm in Nashville, with Grant down the hall, and he asked me to handle this call.
+037. KESSLER: I can hear you, Howard. I'm in Nashville, with Grant down the hall, and he asked me to handle this call.
     케슬러: 들려요, 하워드. 내슈빌이에요. 그랜트는 복도 끝에 있고, 이 통화는 나한테 맡겼어요.
 
-038. HOWARD: Of course he did. Here's where we are: it's eleven a.m., and the certification is due at five, and Daniel has told me he won't sign the version Martin's office prepared. Daniel, say it for the record.
+038. HOWARD: Of course he did. Here's where we are: it's eleven a.m., and the certification is due at five. Daniel has told me he won't sign the version Martin's office prepared. Daniel, say it for the record.
     하워드: 당연히 그랬겠지. 상황은 이래. 지금 오전 열한 시, 확인서 마감은 다섯 시. 대니얼은 마틴 사무실이 준비한 버전에 서명 안 하겠다고 했어. 대니얼, 기록을 위해 말해.
 
 039. DAN: I won't sign it.
@@ -134,16 +134,16 @@
 040. KESSLER: Dan, you're making a privilege judgment that belongs to the client, not to you.
     케슬러: 댄, 당신은 의뢰인이 해야 할 특권 판단을 하고 있어요. 당신 몫이 아니라.
 
-041. DAN: No, Martin, I'm making a judgment about my own signature, which belongs to me. The certification says I made a reasonable inquiry and the production is complete, and I made the inquiry, but it's not complete.
+041. DAN: No, Martin, I'm making a judgment about my own signature, which belongs to me. The certification says I made a reasonable inquiry and the production is complete. I made the inquiry, but it's not complete.
     댄: 아니요, 마틴. 전 제 서명에 대한 판단을 하는 거예요. 그건 제 거고요. 확인서엔 합리적인 조사를 했고 제출이 완료됐다고 써 있죠. 조사는 했어요. 근데 완료되지 않았어요.
 
-042. KESSLER: Fine, then you don't sign it, and Victoria signs it, because she's been on the matter for two years.
+042. KESSLER: Fine, then you don't sign it. Victoria signs it, because she's been on the matter for two years.
     케슬러: 좋아요. 그럼 당신은 서명하지 마요. 빅토리아가 하면 돼요. 2년 동안 이 사건 맡았잖아요.
 
 043. HOWARD: Victoria?
     하워드: 빅토리아?
 
-044. VICTORIA: Before I answer, I'd like Daniel to say what happens if I sign, because I think everyone in this room should hear it, including Martin.
+044. VICTORIA: Before I answer, I'd like Daniel to say what happens if I sign. I think everyone in this room should hear it, including Martin.
     빅토리아: 대답하기 전에, 내가 서명하면 어떻게 되는지 대니얼이 말해 줬으면 해요. 이 방의 모두가 들어야 할 것 같아서요. 마틴 포함해서.
 
 045. DAN: Leonard, correct me if I'm wrong about any of this.
@@ -152,11 +152,11 @@
 046. FISK: I will, Dan, because I always do, as you know.
     피스크: 그럴게요, 댄. 알다시피 늘 그러잖아요.
 
-047. DAN: If any lawyer at this firm files a certification saying the production is complete, and I know that it isn't, then a false statement has been made to the court, in a case where I'm counsel of record.
-    댄: 이 회사의 어떤 변호사든 제출이 완전하다는 확인서를 내고, 그게 아니라는 걸 제가 안다면, 제가 정식 소송대리인으로 있는 사건에서 법원에 허위 진술이 된 겁니다.
+047. DAN: Say any lawyer at this firm files a certification saying the production is complete, and I know that it isn't. Then a false statement has been made to the court, in a case where I'm counsel of record.
+    댄: 이 회사의 어떤 변호사든 제출이 완전하다는 확인서를 낸다고 쳐요. 그리고 그게 아니라는 걸 제가 알아요. 그럼 제가 정식 소송대리인으로 있는 사건에서 법원에 허위 진술이 된 겁니다.
 
-048. DAN: Under Rule 3.3, I'd have to take reasonable remedial measures, first by asking the client to correct it. If the client refuses, I'd inform Judge Pike that the certification is not accurate, and I'd move to withdraw as counsel.
-    댄: 규칙 3.3조에 따라 합리적인 시정 조치를 해야 해요. 먼저 의뢰인한테 바로잡으라고 요청하고요. 의뢰인이 거부하면 파이크 판사한테 확인서가 정확하지 않다고 알리고, 소송대리인 사임 허가를 신청할 거예요.
+048. DAN: Under Rule 3.3, I'd have to take reasonable remedial measures, first by asking the client to correct it. If the client refuses, I'd inform Judge Pike that the certification is not accurate. Then I'd move to withdraw as counsel.
+    댄: 규칙 3.3조에 따라 합리적인 시정 조치를 해야 해요. 먼저 의뢰인한테 바로잡으라고 요청하고요. 의뢰인이 거부하면 파이크 판사한테 확인서가 정확하지 않다고 알릴 거예요. 그리고 소송대리인 사임 허가를 신청하겠죠.
 
 049. KESSLER: You'd report your own client to the judge, Dan?
     케슬러: 자기 의뢰인을 판사한테 신고하겠다고요, 댄?
@@ -167,31 +167,31 @@
 051. KESSLER: Leonard, is he right, and is that really what the rule requires?
     케슬러: 레너드, 댄 말이 맞아요? 규칙이 정말 그걸 요구해요?
 
-052. FISK: He's right, because if he knows the certification is false, confidentiality doesn't protect it, since the duty of candor to the court comes first. I wrote him a memo saying exactly that, and I'd write it again.
+052. FISK: He's right. If he knows the certification is false, confidentiality doesn't protect it, because the duty of candor to the court comes first. I wrote him a memo saying exactly that, and I'd write it again.
     피스크: 맞아요. 확인서가 거짓인 걸 알면 비밀유지 의무로 보호 못 해요. 법원에 대한 정직 의무가 먼저예요. 정확히 그렇게 메모를 써 줬고, 다시 쓰라면 또 쓸 거예요.
 
 053. KESSLER: So the firm's own general counsel is telling the firm's own partner to turn against the firm's biggest client?
     케슬러: 그러니까 회사 법무총괄이 회사 파트너한테 회사 최대 고객에게 등을 돌리라는 거네요?
 
-054. FISK: No, Martin, the firm's general counsel is telling everyone on this call what the law is, and what you do with that is your business.
+054. FISK: No, Martin, the firm's general counsel is telling everyone on this call what the law is. What you do with that is your business.
     피스크: 아니요, 마틴. 회사 법무총괄은 이 통화의 모두에게 법이 뭔지 말하는 거예요. 그걸로 뭘 할지는 당신 몫이고요.
 
 055. HOWARD: Victoria, you've heard it, so what's your answer?
     하워드: 빅토리아, 들었지. 대답은?
 
-056. VICTORIA: Howard, I've worked for you for nineteen years, and I've signed things at two in the morning that I'd only skimmed, because you asked. I'd sign almost anything you asked me to sign.
+056. VICTORIA: Howard, I've worked for you for nineteen years. I've signed things at two in the morning that I'd only skimmed, because you asked. I'd sign almost anything you asked me to sign.
     빅토리아: 하워드, 당신 밑에서 19년 일했어요. 새벽 두 시에 대충 훑어본 것도 당신이 부탁해서 서명했어요. 당신이 서명하라면 거의 뭐든 서명할 거예요.
 
 057. HOWARD: But not this one.
     하워드: 하지만 이건 아니지.
 
-058. VICTORIA: Not this one, because I was in the room on the nineteenth, and I saw the originals and "the original drafts should not be retained." If I sign the blue folder, I'm not a partner protecting a client, I'm a co-conspirator with a nice office.
-    빅토리아: 이건 아니에요. 19일에 그 방에 있었어요. 원본도 봤고, "원안은 보관하지 말 것"도 봤어요. 파란 폴더에 서명하면 난 고객을 보호하는 파트너가 아니라 좋은 사무실 가진 공범이에요.
+058. VICTORIA: Not this one. I was in the room on the nineteenth, and I saw the originals and "the original drafts should not be retained." If I sign the blue folder, I'm not a partner protecting a client. I'm a co-conspirator with a nice office.
+    빅토리아: 이건 아니에요. 19일에 그 방에 있었어요. 원본도 봤고, "원안은 보관하지 말 것"도 봤어요. 파란 폴더에 서명하면 난 고객을 보호하는 파트너가 아니에요. 좋은 사무실 가진 공범이죠.
 
 059. KESSLER: Victoria, you've been our counsel for two years, so this is a surprise.
     케슬러: 빅토리아, 2년 동안 우리 변호인이었잖아요. 이건 의외네요.
 
-060. VICTORIA: And for two years, Martin, you told me Project Thrift was "an internal matter." I'm ambitious, but I'm not stupid, and those are different things, so today I'd like everyone to notice the difference.
+060. VICTORIA: And for two years, Martin, you told me Project Thrift was "an internal matter." I'm ambitious, but I'm not stupid, and those are different things. Today I'd like everyone to notice the difference.
     빅토리아: 그리고 2년 동안, 마틴, 당신은 프로젝트 스리프트가 "내부 사안"이라고 했죠. 난 야심이 있지만 멍청하진 않아요. 그 둘은 달라요. 오늘은 다들 그 차이를 알아봐 줬으면 해요.
 
 061. DAN: Thank you, Victoria, for saying that out loud in front of Martin.
@@ -200,13 +200,13 @@
 062. VICTORIA: Stop thanking me, because it's becoming a habit, and it's bad for my reputation.
     빅토리아: 고맙다는 말 그만해. 버릇 되겠어. 내 평판에 안 좋아.
 
-063. HOWARD: Martin, you've heard the firm's position, which is that no partner at Whitmore Crane will sign the blue certification. I'd like to speak with Grant, now, please.
+063. HOWARD: Martin, you've heard the firm's position. No partner at Whitmore Crane will sign the blue certification. I'd like to speak with Grant, now, please.
     하워드: 마틴, 회사 입장 들었지. Whitmore Crane의 어떤 파트너도 파란 확인서에 서명하지 않아. 그랜트랑 통화하고 싶어. 지금, 부탁해.
 
 064. KESSLER: Grant is in a meeting right now, Howard, and he can't step out.
     케슬러: 그랜트는 지금 회의 중이에요, 하워드. 못 나와요.
 
-065. HOWARD: Then take him out of it, and tell him Howard Whitmore is asking, because I've never once used my own name to get him on the phone, and today I'm using it.
+065. HOWARD: Then take him out of it, and tell him Howard Whitmore is asking. I've never once used my own name to get him on the phone, and today I'm using it.
     하워드: 그럼 빼내. 하워드 휘트모어가 찾는다고 해. 그 사람 전화 받게 하려고 내 이름 쓴 적 한 번도 없어. 오늘은 쓰는 거야.
 
 066. KESSLER: He'll call you back, so give us until three-thirty.
@@ -215,7 +215,7 @@
 067. HOWARD: Three-thirty, Martin, and not three thirty-one.
     하워드: 세 시 반이야, 마틴. 세 시 삼십일 분 말고.
 
-068. FISK: Well, I've been to more cheerful meetings, including one where a partner lost a box of documents on the Long Island Rail Road.
+068. FISK: Well, I've been to more cheerful meetings. That includes one where a partner lost a box of documents on the Long Island Rail Road.
     피스크: 자, 더 즐거운 회의도 가 봤는데요. 파트너가 롱아일랜드 철도에서 문서 상자를 잃어버린 회의도 포함해서요.
 
 069. HOWARD: Leonard, Victoria, would you give Daniel and me a minute?
@@ -239,7 +239,7 @@
 075. HOWARD: Do you know what you're doing to this firm, Daniel?
     하워드: 자네가 이 회사에 무슨 짓을 하는지 알아, 대니얼?
 
-076. DAN: I know what I'm not doing to it, because I'm not putting its name on a false document in federal court.
+076. DAN: I know what I'm not doing to it. I'm not putting its name on a false document in federal court.
     댄: 안 하는 게 뭔지는 알아요. 연방 법원의 거짓 문서에 회사 이름을 올리지 않는 거요.
 
 077. HOWARD: In 1993, I stood in a room like this one and told a client his documents would be produced, with us or without us.
@@ -260,13 +260,13 @@
 082. DAN: Nothing, because she wouldn't let me. She told me a story instead, about you and the landlord with forty buildings.
     댄: 아무것도요. 루스가 못 하게 했어요. 대신 이야기를 해 줬어요. 하워드랑 건물 40채 가진 집주인 이야기요.
 
-083. HOWARD: She's told that story to every young lawyer in New York who's ever been in trouble, because she thinks it makes me look good.
+083. HOWARD: She's told that story to every young lawyer in New York who's ever been in trouble. She thinks it makes me look good.
     하워드: 그 사람은 곤경에 처한 뉴욕의 젊은 변호사들한테 다 그 얘기를 해. 그게 날 좋아 보이게 한다고 생각하거든.
 
 084. DAN: It does make you look good, Howard, and you know it.
     댄: 정말 좋아 보이게 해요, 하워드. 본인도 아시잖아요.
 
-085. HOWARD: It makes me look like a man who was thirty-five and had nothing to lose but one client, but I'm sixty-eight, Daniel, with nine hundred lawyers, and sixty of them are going to lose their work by January.
+085. HOWARD: It makes me look like a man who was thirty-five and had nothing to lose but one client. But I'm sixty-eight, Daniel, with nine hundred lawyers, and sixty of them are going to lose their work by January.
     하워드: 그건 서른다섯에 고객 하나 말고는 잃을 게 없던 남자로 보이게 하지. 난 예순여덟이야, 대니얼. 변호사가 9백 명이고, 그중 60명이 1월까지 일을 잃을 거야.
 
 086. DAN: Not because of me, but because of a memo that says "the original drafts should not be retained."
@@ -278,13 +278,13 @@
 088. DAN: That's fair, Howard, and I'll give you that one.
     댄: 맞는 말이에요, 하워드. 그건 인정할게요.
 
-089. HOWARD: It's at three-thirty, and when Grant calls, you let me talk, all of it, and you don't say a word unless I ask you. Can you do that?
+089. HOWARD: It's at three-thirty. When Grant calls, you let me talk, all of it, and you don't say a word unless I ask you. Can you do that?
     하워드: 세 시 반이야. 그랜트가 전화하면 내가 말하게 둬. 전부. 내가 묻지 않으면 한마디도 하지 마. 할 수 있겠어?
 
 090. DAN: Can you really get him to yes, though, Howard, after this morning?
     댄: 오늘 아침 일이 있었는데도 진짜 그 사람이 승낙하게 할 수 있어요, 하워드?
 
-091. HOWARD: I've been getting Grant Holloway to yes for six years, but I just never had to do it with the truth before, so it'll be a new experience for both of us.
+091. HOWARD: I've been getting Grant Holloway to yes for six years. I just never had to do it with the truth before, so it'll be a new experience for both of us.
     하워드: 6년 동안 그랜트 홀러웨이한테 승낙을 받아 왔어. 진실로 해야 했던 적이 없었을 뿐이지. 우리 둘 다한테 새로운 경험이 되겠군.
 
 092. PEGGY: Mr. Holloway is on line one, Mr. Whitmore, and it's three twenty-nine.
@@ -293,40 +293,40 @@
 093. HOWARD: He's one minute early, which is either very good or very bad. Grant, thank you for calling, and Daniel is here with me, but he's going to listen.
     하워드: 1분 일찍이네. 아주 좋거나 아주 나쁘거나. 그랜트, 전화 고마워요. 대니얼이 같이 있는데, 듣기만 할 거예요.
 
-094. GRANT: I hear your partners have grown consciences, Howard, all at once, so it must be something in the water on Park Avenue.
+094. GRANT: I hear your partners have grown consciences, Howard, all at once. It must be something in the water on Park Avenue.
     그랜트: 당신 파트너들이 한꺼번에 양심이 생겼다면서요, 하워드. 파크 애비뉴 물에 뭐가 들었나 보네요.
 
-095. HOWARD: Grant, I'm going to tell you where you are, because you deserve to know it plainly, and then you'll decide, because it's your decision, as it always has been.
+095. HOWARD: Grant, I'm going to tell you where you are, because you deserve to know it plainly. Then you'll decide, because it's your decision, as it always has been.
     하워드: 그랜트, 지금 상황을 말해 줄게요. 분명히 알 자격이 있으니까. 그다음엔 당신이 결정해요. 당신 결정이에요. 늘 그랬듯이.
 
 096. GRANT: Go on, Howard.
     그랜트: 계속해요, 하워드.
 
-097. HOWARD: Option one is that Martin's version is filed by someone, and then Daniel tells Judge Pike the certification is false, as the rules require. The judge orders an explanation and the documents, and she reads them knowing you tried to hide them.
-    하워드: 첫 번째 선택지. 누군가 마틴 버전을 제출하면, 대니얼이 규칙대로 파이크 판사한테 확인서가 거짓이라고 말해요. 판사는 해명을 요구하고 문서 제출을 명령하겠죠. 그리고 당신이 숨기려 했다는 걸 알면서 읽을 거예요.
+097. HOWARD: Option one is that Martin's version is filed by someone. Then Daniel tells Judge Pike the certification is false, as the rules require. The judge orders an explanation and the documents, and she reads them knowing you tried to hide them.
+    하워드: 첫 번째 선택지. 누군가 마틴 버전을 제출해요. 그러면 대니얼이 규칙대로 파이크 판사한테 확인서가 거짓이라고 말하죠. 판사는 해명을 요구하고 문서 제출을 명령하겠죠. 그리고 당신이 숨기려 했다는 걸 알면서 읽을 거예요.
 
 098. GRANT: And then what happens to us?
     그랜트: 그다음엔 우리가 어떻게 되죠?
 
-099. HOWARD: Then come sanctions, money at least, and possibly an instruction to the jury that they can assume the worst about anything you hid. And a federal judge who has seen "the original drafts should not be retained" may decide that's not only a civil matter.
-    하워드: 그다음엔 제재. 최소한 돈이고, 숨긴 건 뭐든 최악으로 추정해도 된다는 배심원 지시가 나올 수도 있어요. 그리고 "원안은 보관하지 말 것"을 본 연방 판사는 이게 민사 문제만은 아니라고 판단할 수도 있죠.
+099. HOWARD: Then come sanctions, money at least. There may be a jury instruction that they can assume the worst about anything you hid. And a federal judge who has seen "the original drafts should not be retained" may decide that's not only a civil matter.
+    하워드: 그다음엔 제재. 최소한 돈이에요. 숨긴 건 뭐든 최악으로 추정해도 된다는 배심원 지시가 나올 수도 있어요. 그리고 "원안은 보관하지 말 것"을 본 연방 판사는 이게 민사 문제만은 아니라고 판단할 수도 있죠.
 
 100. GRANT: Meaning prosecutors could get involved.
     그랜트: 검찰이 끼어들 수 있다는 뜻이군요.
 
-101. HOWARD: Meaning I can't promise you she won't make a phone call, because I've known Frances Pike for twenty years, and she makes phone calls.
+101. HOWARD: Meaning I can't promise you she won't make a phone call. I've known Frances Pike for twenty years, and she makes phone calls.
     하워드: 판사가 전화 한 통 안 할 거라고 장담 못 한다는 뜻이에요. 프랜시스 파이크를 20년 알았는데, 그 사람은 전화를 해요.
 
 102. GRANT: And what's option two?
     그랜트: 그럼 두 번째 선택지는요?
 
-103. HOWARD: Option two is that Castellan produces the documents today, voluntarily, before five o'clock, with a letter that reserves all your objections, so Martin can argue for a year that the email shouldn't be shown to a jury, and that argument stays alive.
+103. HOWARD: Option two is that Castellan produces the documents today, voluntarily, before five o'clock. It sends a letter that reserves all your objections. Then Martin can argue for a year that the email shouldn't be shown to a jury, and that argument stays alive.
     하워드: 두 번째. Castellan이 오늘 다섯 시 전에 자발적으로 문서를 제출해요. 모든 이의를 유보하는 서신과 함께요. 그럼 마틴은 그 이메일을 배심원한테 보여 주면 안 된다고 1년 동안 주장할 수 있어요. 그 주장은 살아 있는 거죠.
 
 104. GRANT: So I lose either way, Howard.
     그랜트: 그러니까 어느 쪽이든 내가 지는 거네요, 하워드.
 
-105. HOWARD: In option one, you lose, and the judge thinks you're a liar, but in option two, you lose, and the judge thinks you're a company that followed the rules when it mattered. Judges remember the second kind when they decide what a case is worth.
+105. HOWARD: In option one, you lose, and the judge thinks you're a liar. In option two, you lose, and the judge thinks you're a company that followed the rules when it mattered. Judges remember the second kind when they decide what a case is worth.
     하워드: 첫 번째는, 지고 판사가 당신을 거짓말쟁이로 봐요. 두 번째는, 지되 판사가 중요할 때 규칙을 지킨 회사로 봐요. 판사들은 사건의 가치를 정할 때 두 번째를 기억하죠.
 
 106. GRANT: You're very good, Howard, because you always make it sound like it was my idea.
@@ -341,7 +341,7 @@
 109. HOWARD: He is.
     하워드: 있어요.
 
-110. GRANT: Mr. Reardon, I want you to know that I understand exactly what you've done, because you've cost this firm forty million dollars a year.
+110. GRANT: Mr. Reardon, I want you to know that I understand exactly what you've done. You've cost this firm forty million dollars a year.
     그랜트: 레이든 변호사님, 당신이 무슨 일을 했는지 정확히 이해하고 있다는 걸 알아 두세요. 이 회사에 연 4천만 달러의 손해를 입혔어요.
 
 111. DAN: No, Mr. Holloway, your memo did, and I just read it.
@@ -356,7 +356,7 @@
 114. HOWARD: Thank you, Grant, truly, and I won't forget it.
     하워드: 고마워요, 그랜트. 진심으로. 잊지 않을게요.
 
-115. GRANT: Don't thank me. And Howard, I'd like you to find me another firm by January, not because of the documents, but because I don't like the water on Park Avenue anymore.
+115. GRANT: Don't thank me. And Howard, I'd like you to find me another firm by January. It's not because of the documents, but because I don't like the water on Park Avenue anymore.
     그랜트: 고마워하지 마요. 그리고 하워드, 1월까지 다른 로펌 찾아 줘요. 문서 때문이 아니라, 파크 애비뉴 물이 더는 마음에 안 들어서요.
 
 116. HOWARD: I'll make some calls for you, Grant, starting on Monday.
@@ -365,7 +365,7 @@
 117. GRANT: Mr. Reardon, one more thing: you have a very trustworthy face, and I hope it was worth what it cost you.
     그랜트: 레이든 변호사님, 하나만 더. 아주 믿음직한 얼굴이에요. 그 대가만큼 가치가 있었길 바랍니다.
 
-118. AISHA: It's four forty-seven, and Kessler's letter just came in, and it's the same as our draft, except he added "under protest" in the first sentence.
+118. AISHA: It's four forty-seven, and Kessler's letter just came in. It's the same as our draft, except he added "under protest" in the first sentence.
     아이샤: 4시 47분이에요. 케슬러 서신이 방금 왔어요. 우리 초안이랑 똑같은데, 첫 문장에 '이의를 제기하며'를 넣었어요.
 
 119. DAN: "Under protest," because he needed one phrase of his own, and that's fine, so upload the production.
@@ -386,7 +386,7 @@
 124. AISHA: It's electronic, so you don't need a pen, because you need your bar number and a password.
     아이샤: 전자 제출이라 펜 필요 없어요. 변호사 번호랑 비밀번호만 있으면 돼요.
 
-125. DAN: I'm signing it with a pen first, on paper, and then you can file it however the court wants. My father read the back of everything he signed, and I want to feel this one.
+125. DAN: I'm signing it with a pen first, on paper. Then you can file it however the court wants. My father read the back of everything he signed, and I want to feel this one.
     댄: 먼저 펜으로 종이에 서명할 거야. 그다음에 법원이 원하는 대로 제출해. 우리 아버지는 서명하는 모든 것의 뒷면까지 읽으셨어. 이건 손으로 느끼고 싶어.
 
 126. BEV: Here, it's the good pen, and you never use the good pen.
@@ -398,13 +398,13 @@
 128. AISHA: I'm filing on ECF, entering the bar number, and uploading, and at four fifty-eight, it's on the docket as entry two-forty-one.
     아이샤: ECF에 제출 중. 변호사 번호 입력. 업로드. 4시 58분, 사건 기록에 올라갔어요. 241번 항목이요.
 
-129. BEV: That's two minutes to spare, and you've never filed anything with two minutes to spare in nine years, because you always file at four fifty-nine and a half.
+129. BEV: That's two minutes to spare. You've never filed anything with two minutes to spare in nine years. You always file at four fifty-nine and a half.
     베브: 2분 여유. 9년 동안 2분 여유 두고 제출하신 적이 한 번도 없어요. 항상 4시 59분 30초에 내셨죠.
 
 130. DAN: I'm a new man, Bev, starting today, so get used to it.
     댄: 오늘부터 새사람이에요, 베브. 익숙해지세요.
 
-131. ELENA: It's ten o'clock, and you're still at the office. Aisha texted me at five and said, "He did it, so tell him to go home," and she's been texting me for two weeks, Dan.
+131. ELENA: It's ten o'clock, and you're still at the office. Aisha texted me at five and said, "He did it, so tell him to go home." She's been texting me for two weeks, Dan.
     엘레나: 열 시야. 아직 사무실이네. 아이샤가 다섯 시에 문자했어. "해냈어요. 집에 가라고 해 주세요." 2주째 나한테 문자하고 있어, 댄.
 
 132. DAN: She has your number, El? Since when do you two talk?
@@ -419,7 +419,7 @@
 135. ELENA: What are you writing at ten o'clock on a Friday night, after you just won?
     엘레나: 방금 이겨 놓고 금요일 밤 열 시에 뭘 쓰는데?
 
-136. DAN: I didn't win, El, because nobody won today. The documents came out, which is what was supposed to happen anyway, so that's not winning, that's the floor.
+136. DAN: I didn't win, El, because nobody won today. The documents came out, and that was supposed to happen anyway. That's not winning, that's the floor.
     댄: 안 이겼어, 엘. 오늘 아무도 안 이겼어. 문서가 나왔을 뿐이야. 원래 그렇게 돼야 했던 거고. 그건 이긴 게 아니라 최소한이야.
 
 137. ELENA: Then what are you writing?
@@ -431,19 +431,19 @@
 139. ELENA: Dan.
     엘레나: 댄.
 
-140. DAN: I've written it four times, and the first three were too long, because lawyers always write too much when they're scared.
+140. DAN: I've written it four times, and the first three were too long. Lawyers always write too much when they're scared.
     댄: 네 번 썼어. 처음 세 개는 너무 길었어. 변호사는 겁나면 늘 너무 많이 쓰거든.
 
 141. ELENA: Are you sure? Howard didn't fire you, and the documents are out, so you could stay.
     엘레나: 확실해? 하워드가 자른 것도 아니고, 문서도 나왔잖아. 남을 수도 있어.
 
-142. DAN: I could stay, but next year there'd be another Grant, and I'd be the face again. Ruth told me she realized she wanted to be the one who reads the documents out loud, not the one who finds them and hands them over.
+142. DAN: I could stay, but next year there'd be another Grant, and I'd be the face again. Ruth told me something. She realized she wanted to be the one who reads the documents out loud, not the one who finds them and hands them over.
     댄: 남을 수도 있지. 근데 내년엔 또 다른 그랜트가 있을 거고, 난 또 얼굴이 되겠지. 루스가 그러더라. 문서를 찾아서 넘기는 사람 말고, 소리 내서 읽는 사람이 되고 싶다는 걸 깨달았다고.
 
 143. ELENA: And who's Ruth, and why haven't I heard of her?
     엘레나: 루스가 누군데? 왜 난 처음 들어?
 
-144. DAN: She's opposing counsel, and I'll tell you everything I'm allowed to tell you, which, as of today, is a little more than yesterday.
+144. DAN: She's opposing counsel. I'll tell you everything I'm allowed to tell you, and as of today, that's a little more than yesterday.
     댄: 상대측 변호사야. 말해도 되는 건 다 말해 줄게. 오늘부로 어제보다는 조금 많아.
 
 145. ELENA: What does the fourth version say? Read it to me.
