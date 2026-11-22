@@ -50,7 +50,7 @@
 012. ELENA: Then I'll be boring, because boring is safe, and boring doesn't go viral.
     엘레나: 그럼 지루하게 할게요. 지루한 게 안전해요. 지루하면 안 퍼지니까.
 
-013. DOLORES: One more thing: take off the hospital ID, because Legal sent an email last month saying that at a public hospital, there are no political events in uniform and no ID.
+013. DOLORES: One more thing: take off the hospital ID. Legal sent an email last month about it. At a public hospital, there are no political events in uniform and no ID.
     돌로레스: 하나 더요. 병원 신분증 빼요. 법무팀이 지난달에 메일 보냈어요. 공공 병원이라 정치 행사에 제복도 신분증도 안 된대요.
 
 014. ELENA: It's not a political event, because it's a nurse's award.
@@ -122,7 +122,7 @@
 036. YOLANDA: Good evening, everybody, and welcome to the thirtieth anniversary of the Mott Haven Community Health Center! I'm Yolanda Pierce, the director.
     욜란다: 여러분, 안녕하세요! 모트 헤이븐 지역 보건소 30주년에 오신 걸 환영합니다! 원장 욜랜다 피어스입니다.
 
-037. YOLANDA: For those who are new, a community health center is a clinic for everybody, so if you have insurance, good, and if you don't, you still come in, because we see you either way.
+037. YOLANDA: For those who are new, a community health center is a clinic for everybody. If you have insurance, good. If you don't, you still come in, because we see you either way.
     욜란다: 처음 오신 분들을 위해 말씀드리면, 지역 보건소는 모두를 위한 클리닉이에요. 보험 있으면 좋고, 없어도 오세요. 어느 쪽이든 진료해 드려요.
 
 038. AUDIENCE: That's right!
@@ -167,16 +167,16 @@
 051. ELENA: Okay, ninety seconds, but I didn't write this part, so forgive me.
     엘레나: 좋아요. 90초. 이 부분은 안 써 왔으니 양해해 주세요.
 
-052. ELENA: Last night, at Elmhurst, there were twenty-six people on beds in the hallway, not in rooms but in the hallway, and one woman had been waiting for a bed upstairs for thirty-one hours.
+052. ELENA: Last night, at Elmhurst, there were twenty-six people on beds in the hallway. They weren't in rooms; they were in the hallway. One woman had been waiting for a bed upstairs for thirty-one hours.
     엘레나: 어젯밤 엘름허스트에서 스물여섯 명이 복도 침대에 있었어요. 병실이 아니라 복도에요. 한 여성은 위층 병상을 31시간째 기다리고 있었어요.
 
-053. ELENA: We call that boarding, which means you've been admitted, but there's no bed, so you live in the hallway with the lights on all night, next to a man who's yelling.
+053. ELENA: We call that boarding. It means you've been admitted, but there's no bed. So you live in the hallway with the lights on all night, next to a man who's yelling.
     엘레나: 그걸 보딩이라고 해요. 입원은 됐는데 병상이 없어서 복도에서 지내는 거예요. 밤새 불 켜진 채로, 소리 지르는 남자 옆에서요.
 
 054. AUDIENCE: Mm.
     청중: 음.
 
-055. ELENA: Half the people in that hallway were sent to us because a clinic like this one closed, in Corona, in Jackson Heights, and in Hunts Point, because clinics close when the money stops.
+055. ELENA: Half the people in that hallway were sent to us because a clinic like this one closed. It happened in Corona, in Jackson Heights, and in Hunts Point. Clinics close when the money stops.
     엘레나: 그 복도에 있던 사람 절반은 이런 클리닉이 문을 닫아서 우리한테 온 거예요. 코로나, 잭슨 하이츠, 헌츠 포인트에서요. 돈이 끊기면 클리닉이 문을 닫아요.
 
 056. ELENA: And when a clinic closes, the patient doesn't disappear, because the patient comes to my hallway, sicker, later, more expensive, and scared.
@@ -185,8 +185,8 @@
 057. YVONNE: That's right, Doctor!
     이본: 맞아요, 선생님!
 
-058. ELENA: Some of them don't have papers, some don't have insurance, and some have both, and they still wait thirty-one hours, because a hallway doesn't ask for your papers; it just makes you wait.
-    엘레나: 서류가 없는 사람도 있고, 보험이 없는 사람도 있고, 둘 다 있는데도 31시간을 기다리는 사람도 있어요. 복도는 서류를 묻지 않아요. 그냥 기다리게 할 뿐이에요.
+058. ELENA: Some of them don't have papers, some don't have insurance, and some have both. They still wait thirty-one hours. A hallway doesn't ask for your papers; it just makes you wait.
+    엘레나: 서류가 없는 사람도 있고, 보험이 없는 사람도 있고, 둘 다 있는 사람도 있어요. 그래도 31시간을 기다려요. 복도는 서류를 묻지 않아요. 그냥 기다리게 할 뿐이에요.
 
 059. AUDIENCE: Yeah!
     청중: 그래요!
@@ -200,7 +200,7 @@
 062. ELENA: Thirty seconds, so here's the thing nobody says out loud. Health care isn't a campaign promise. It's a shift, twelve hours, every day, and somebody has to show up for it.
     엘레나: 30초. 그럼 아무도 소리 내 말하지 않는 걸 말할게요. 의료는 선거 공약이 아니에요. 근무예요. 열두 시간, 매일. 누군가는 거기 나와야 해요.
 
-063. ELENA: Ines showed up for thirty years, every day, before anybody filmed it or gave her a plaque, and that's who we should be voting for, people who show up for the shift.
+063. ELENA: Ines showed up for thirty years, every day, before anybody filmed it or gave her a plaque. That's who we should be voting for, people who show up for the shift.
     엘레나: 이네스는 30년을 매일 나왔어요. 누가 찍기 전에도, 누가 상패를 주기 전에도. 우리가 뽑아야 할 사람은 그런 사람이에요. 근무에 나오는 사람.
 
 064. ELENA: That's ninety seconds. Ines, the award is heavier than it looks, just like the job.
@@ -254,16 +254,16 @@
 080. MARTY: It's two point three million views in fifteen hours, for your wife, two point three million. Danny, I've been in this business for forty-eight years, and I've never seen a spouse do that.
     마티: 15시간 만에 조회수 230만. 자네 부인이. 230만. 대니, 48년을 이 바닥에 있었는데 배우자가 이러는 건 처음 봐.
 
-081. JUNE: Yvonne posted it on the union page at nine p.m., and by midnight, three nurses' groups shared it, and by six a.m., it was on every page in New York, with the caption "Health care is a shift."
+081. JUNE: Yvonne posted it on the union page at nine p.m. By midnight, three nurses' groups shared it. By six a.m., it was on every page in New York, with the caption "Health care is a shift."
     준: 이본이 밤 아홉 시에 노조 페이지에 올렸어요. 자정쯤 간호사 단체 세 곳이 공유했고, 새벽 여섯 시엔 뉴욕 모든 페이지에 있었어요. 캡션은 "의료는 근무다."
 
-082. AISHA: And she never said your name, not once, because she never said "vote for my husband," but she said "people who show up for the shift."
+082. AISHA: And she never said your name, not once. She never said "vote for my husband." She said "people who show up for the shift."
     아이샤: 그리고 댄 이름은 한 번도 안 했어요. "우리 남편 찍어 주세요"도 안 했고요. "근무에 나오는 사람"이라고만 했죠.
 
 083. LEILA: That's why it worked, because she talked about the patients, not about you. Who does this actually help? It helps the woman who waited thirty-one hours.
     레일라: 그래서 통한 거예요. 당신 얘기가 아니라 환자 얘기를 했으니까요. 이게 실제로 누구한테 도움이 되죠? 31시간 기다린 그 여성이요.
 
-084. MARTY: Okay, here's the plan: we put it on TV for thirty seconds, "Health care is a shift," with Elena, then you, Danny, and then "I approve this message," ten days before the election.
+084. MARTY: Okay, here's the plan. We put it on TV for thirty seconds, "Health care is a shift," with Elena, then you, Danny. Then it's "I approve this message," ten days before the election.
     마티: 좋아. 계획은 이래. TV에 30초로 내보내. "의료는 근무다." 엘레나, 그다음 대니, 그다음 "이 광고를 승인합니다." 선거 열흘 전에.
 
 085. DAN: No.
@@ -296,7 +296,7 @@
 094. DAN: My wife is never delighted, because she's accurate, so ask anybody at Elmhurst.
     댄: 제 아내는 기꺼워하는 법이 없어요. 정확할 뿐이죠. 엘름허스트 누구한테든 물어보세요.
 
-095. REBECCA: I'll call her directly, and thank you. And Mr. Reardon? Something came to my desk this morning in an envelope with no return address, so I need a few days, and I'll call you before I do anything.
+095. REBECCA: I'll call her directly, and thank you. And Mr. Reardon? Something came to my desk this morning in an envelope with no return address. I need a few days, and I'll call you before I do anything.
     레베카: 직접 전화할게요. 고마워요. 그리고 레이든 씨? 오늘 아침 제 책상에 뭔가 왔어요. 보낸 사람 주소 없는 봉투요. 며칠 필요해요. 뭘 하기 전에 전화할게요.
 
 096. DAN: What is it?
@@ -323,13 +323,13 @@
 103. ELENA: Mr. Goldstein, with respect, twenty-six people in my hallway want me to come to work on Monday, because I'm a doctor, not a surrogate.
     엘레나: 골드스타인 씨, 외람되지만 제 복도의 스물여섯 명은 제가 월요일에 출근하길 원해요. 전 의사예요. 대리 연사가 아니라.
 
-104. AISHA: And there's a legal reason too, because Elena works at a public hospital, so she can speak as a private citizen, but she can't use her position, her title, or her ID to campaign. If an ad says "Dr. Reardon of Elmhurst," that's a problem.
+104. AISHA: And there's a legal reason too. Elena works at a public hospital, so she can speak as a private citizen. But she can't use her position, her title, or her ID to campaign. If an ad says "Dr. Reardon of Elmhurst," that's a problem.
     아이샤: 법적인 이유도 있어요. 엘레나는 공공 병원에서 일해요. 개인 시민으로 말할 순 있지만 직위나 직함, 신분증을 선거운동에 쓰면 안 돼요. 광고에 "엘름허스트의 레이든 박사"라고 나오면 문제예요.
 
 105. ELENA: Dolores told me to take off my ID last night, and I did, because she was right, and she's always right.
     엘레나: 어젯밤에 돌로레스가 신분증 빼라고 해서 뺐어요. 돌로레스 말이 맞았어요. 늘 맞아요.
 
-106. LEILA: Dr. Reardon, can I say something? I read the policy on hospital boarding last night after the video, and your hallway is in my plan now, on page twelve, with funding for community clinics.
+106. LEILA: Dr. Reardon, can I say something? I read the policy on hospital boarding last night after the video. Your hallway is in my plan now, on page twelve, with funding for community clinics.
     레일라: 레이든 박사님, 한마디 해도 돼요? 어젯밤 영상 보고 병원 보딩 정책을 읽었어요. 박사님 복도가 이제 제 공약에 들어갔어요. 12쪽, 지역 클리닉 예산이요.
 
 107. ELENA: Your plan had eleven pages, because I remember Dan saying so.
@@ -407,7 +407,7 @@
 131. DAN: She's fixing her own plan because of what you found?
     댄: 네가 찾은 것 때문에 자기 공약을 고친다고?
 
-132. ZOE: It's page seven, the part about buildings that are already falling apart, because if a fund can't buy them, nobody fixes them, and that's a real problem. I'm sixteen, and I found it.
+132. ZOE: It's page seven, the part about buildings that are already falling apart. If a fund can't buy them, nobody fixes them, and that's a real problem. I'm sixteen, and I found it.
     조이: 7쪽. 이미 무너져 가는 건물 부분. 펀드가 못 사면 아무도 안 고치잖아. 그건 진짜 문제야. 난 열여섯 살인데 그걸 찾았어.
 
 133. ELENA: Zoe, that's amazing, sweetheart, and I'm so proud of you.
