@@ -23,7 +23,7 @@
 003. MARCUS: It says you defended a prison company, a landlord fund, and a payday lender, so is that true?
     마커스: 교도소 회사, 건물주 펀드, 고리대금 업체를 변호했다고 돼 있는데요. 사실입니까?
 
-004. DAN: I was a lawyer at a big firm for fifteen years, and my name is on those court records, which are public, so yes.
+004. DAN: I was a lawyer at a big firm for fifteen years. My name is on those court records, which are public, so yes.
     댄: 저는 15년 동안 대형 로펌 변호사였어요. 그 법원 기록에 제 이름이 있고, 그건 공개 기록이에요. 그러니까 네.
 
 005. REBECCA: I'm Rebecca Stone from the Courier. Larchmont was the fund that owned Gladys Moore's building, so did you work for them?
@@ -35,7 +35,7 @@
 007. REBECCA: What did you do for them?
     레베카: 그 회사를 위해 뭘 하셨어요?
 
-008. DAN: I can't tell you that, because what I did for a client, and what they told me, stays confidential, even after the work ends.
+008. DAN: I can't tell you that. What I did for a client, and what they told me, stays confidential, even after the work ends.
     댄: 그건 말씀 못 드려요. 의뢰인을 위해 한 일, 의뢰인이 한 말은 비밀로 남아요. 일이 끝난 뒤에도요.
 
 009. MARCUS: So that's a no comment?
@@ -47,7 +47,7 @@
 011. MARCUS: Voters might not see the difference, sir.
     마커스: 유권자들은 그 차이를 모를 수도 있어요.
 
-012. DAN: Then let me say it plain: if you told me your secret as your lawyer, I'd keep it forever, even if keeping it cost me an election, and that's what I'm doing now.
+012. DAN: Then let me say it plain. If you told me your secret as your lawyer, I'd keep it forever, even if keeping it cost me an election. That's what I'm doing now.
     댄: 그럼 쉽게 말할게요. 제가 변호사로서 당신 비밀을 들었다면 영원히 지킬 거예요. 그 때문에 선거에서 지더라도요. 지금 제가 하는 게 그거예요.
 
 013. REBECCA: The payday lender in 2017 charged people three hundred percent interest, so do you regret it?
@@ -83,7 +83,7 @@
 023. GLADYS: In 2027, he sat in my living room at forty-seven degrees, in his coat, and he didn't complain once. Then he took Larchmont to court and won.
     글래디스: 2027년에 이 사람은 화씨 47도 우리 거실에 코트 입고 앉아 있었어요. 한 번도 불평 안 했죠. 그다음에 라치몬트를 법정에 세워서 이겼어요.
 
-024. GLADYS: I don't care who he worked for before he met me; I care who he worked for after, at forty-seven degrees, right here.
+024. GLADYS: I don't care who he worked for before he met me. I care who he worked for after, at forty-seven degrees, right here.
     글래디스: 나 만나기 전에 누구 일을 했든 상관없어. 나 만난 뒤에 누구 일을 했는지가 중요하지. 8도에서. 바로 여기서.
 
 025. MARCUS: Ma'am, did the campaign ask you to come here today?
@@ -95,7 +95,7 @@
 027. REBECCA: Will you answer Russo's mailer with a mailer of your own, Mr. Reardon?
     레베카: 루소 측 우편물에 우편물로 대응하실 건가요, 레이든 씨?
 
-028. DAN: I don't know yet, but I'll know by this afternoon, and I'll tell you first, Rebecca, because you were fair to me in the fall.
+028. DAN: I don't know yet, but I'll know by this afternoon. I'll tell you first, Rebecca, because you were fair to me in the fall.
     댄: 아직 몰라요. 오후까지는 정할 거고, 레베카한테 먼저 말할게요. 가을에 공정하게 대해 줬으니까요.
 
 029. REBECCA: Being fair isn't a favor, Mr. Reardon, because it's my job, so don't thank me for it.
@@ -116,8 +116,8 @@
 034. GLADYS: You didn't have to sit in my living room either, and that's how it works, so now get me my muffin.
     글래디스: 너도 우리 거실에 안 앉아 있어도 됐잖아. 원래 그런 거야. 이제 머핀 가져와.
 
-035. MARTY: Okay, this is the war room, and here's where we are: the video of Gladys has two hundred thousand views, which is good, but the mailer is in forty thousand houses, which is bad.
-    마티: 자, 작전실이야. 상황은 이래. 글래디스 영상은 조회수 20만, 좋아. 우편물은 4만 가구에 들어갔어, 나빠.
+035. MARTY: Okay, this is the war room, and here's where we are. The video of Gladys has two hundred thousand views, which is good. But the mailer is in forty thousand houses, which is bad.
+    마티: 자, 작전실이야. 상황은 이래. 글래디스 영상은 조회수 20만, 좋아. 근데 우편물은 4만 가구에 들어갔어, 나빠.
 
 036. AISHA: Here's the overnight poll: Russo thirty-three, Haddad twenty-six, and Reardon fifteen, which is down four in a week.
     아이샤: 밤새 돌린 여론조사예요. 루소 33, 하다드 26, 레이든 15. 일주일 만에 4 떨어졌어요.
@@ -125,7 +125,7 @@
 037. FRANK: Fifteen is a bad number, because I've had better numbers on my blood pressure.
     프랭크: 15라니 안 좋은 숫자네. 내 혈압이 그거보다 나았어.
 
-038. MARTY: So here's what we do: we send a mailer of our own that explains the context, saying "Three point two hours on an office lease in White Plains, with nothing to do with tenants."
+038. MARTY: So here's what we do. We send a mailer of our own that explains the context. It says, "Three point two hours on an office lease in White Plains, with nothing to do with tenants."
     마티: 그러니까 이렇게 하자. 우리도 우편물을 보내서 맥락을 설명해. "화이트 플레인스 사무실 임대 건 3.2시간. 세입자와 무관."
 
 039. DAN: How do you know it was an office lease in White Plains?
@@ -137,7 +137,7 @@
 041. FRANK: It says "a commercial lease dispute in White Plains," and that's all it says, in one line.
     프랭크: "화이트 플레인스 상업 임대 분쟁"이라고만 돼 있어. 한 줄이야.
 
-042. AISHA: Then we can say that one line, because it's public, but we can't add anything, not even "nothing to do with tenants," because that part comes from Dan's memory.
+042. AISHA: Then we can say that one line, because it's public. But we can't add anything, not even "nothing to do with tenants," because that part comes from Dan's memory.
     아이샤: 그럼 그 한 줄은 말할 수 있어요. 공개니까요. 근데 아무것도 덧붙이면 안 돼요. "세입자와 무관"도요. 그건 댄의 기억에서 나온 거니까요.
 
 043. MARTY: It's three point two hours, so who cares about three point two hours?
@@ -146,7 +146,7 @@
 044. AISHA: The rules do, so let me explain it the way Ruth explained it to me. The duty of confidentiality covers everything a lawyer learns while working for a client.
     아이샤: 규칙이 신경 써요. 루스가 저한테 설명한 대로 말씀드릴게요. 비밀유지 의무는 변호사가 의뢰인을 위해 일하면서 알게 된 모든 걸 포함해요.
 
-045. AISHA: It's not just secrets, but anything the client would want kept private, or anything that could embarrass or hurt them, and it never ends, not when the case ends and not when the lawyer quits.
+045. AISHA: It's not just secrets. It's anything the client would want kept private, or anything that could embarrass or hurt them. And it never ends, not when the case ends and not when the lawyer quits.
     아이샤: 비밀만이 아니에요. 의뢰인이 숨기고 싶어 할 만한 것, 창피하게 하거나 해칠 수 있는 것 전부요. 그리고 끝이 없어요. 사건이 끝나도, 변호사가 그만둬도요.
 
 046. MARTY: Say it in English, please.
@@ -158,14 +158,14 @@
 048. FRANK: So what counts as public, the newspapers, or the internet?
     프랭크: 그럼 뭐가 공개된 거야? 신문? 인터넷?
 
-049. AISHA: Court records, news stories, and things that are generally known count, but even then, be careful, because saying it again in your own words can add something new.
+049. AISHA: Court records, news stories, and things that are generally known count. But even then, be careful, because saying it again in your own words can add something new.
     아이샤: 법원 기록, 뉴스 기사, 일반적으로 알려진 것들이요. 그래도 조심해야 해요. 자기 말로 다시 하면 새로운 게 덧붙을 수 있거든요.
 
 050. JUNE: Isn't there an exception, because I read that a lawyer who's attacked can defend himself?
     준: 예외는 없어요? 공격받은 변호사는 자신을 방어할 수 있다고 읽었는데요.
 
-051. AISHA: That's the self-defense exception, and it's real. If a client sues you, or someone accuses you of doing something wrong in the case, you can reveal what you need to defend yourself.
-    아이샤: 자기방어 예외요. 있어요. 의뢰인이 고소하거나 누가 그 사건에서 잘못했다고 비난하면, 방어에 필요한 만큼은 밝힐 수 있어요.
+051. AISHA: That's the self-defense exception, and it's real. A client might sue you, or someone might accuse you of doing something wrong in the case. Then you can reveal what you need to defend yourself.
+    아이샤: 자기방어 예외요. 있어요. 의뢰인이 고소하거나 누가 그 사건에서 잘못했다고 비난할 수 있잖아요. 그럼 방어에 필요한 만큼은 밝힐 수 있어요.
 
 052. AISHA: But it's narrow, because it's for a lawsuit, or a complaint to the bar, and not for a campaign mailer. A mailer isn't an accusation of misconduct; it's a list.
     아이샤: 근데 범위가 좁아요. 소송이나 변호사협회 징계 진정용이지 선거 우편물용이 아니에요. 우편물은 비위 고발이 아니라 목록이니까요.
@@ -182,7 +182,7 @@
 056. MARTY: That's the worst deal I've ever heard, and I've made some terrible deals.
     마티: 내가 들어 본 최악의 거래야. 나도 끔찍한 거래 꽤 해 봤는데.
 
-057. DAN: It's the deal I made when I took the oath in 2012, Marty, with my father in the room in his union jacket, and I don't get to cancel it because it's June.
+057. DAN: It's the deal I made when I took the oath in 2012, Marty. My father was in the room in his union jacket. I don't get to cancel it because it's June.
     댄: 2012년에 선서할 때 한 거래예요, 마티. 아버지가 노조 점퍼 입고 그 자리에 계셨어요. 6월이라고 취소할 수는 없어요.
 
 058. MARTY: It's May.
@@ -197,7 +197,7 @@
 061. FRANK: That list would be Gladys, Eli, Darnell, Amara, and the Bronx building, and that's a real list.
     프랭크: 글래디스, 일라이, 대널, 아마라, 브롱크스 건물. 그것도 목록이네.
 
-062. AISHA: And those are clients too, so Dan needs their permission in writing to use their names, every one of them.
+062. AISHA: And those are clients too. Dan needs their permission in writing to use their names, every one of them.
     아이샤: 그 사람들도 의뢰인이에요. 이름을 쓰려면 한 명 한 명 서면 허락이 필요해요.
 
 063. JUNE: Gladys just gave it on camera, in front of Metro Nine.
@@ -212,13 +212,13 @@
 066. DAN: Hit back how?
     댄: 어떻게 되받아쳐요?
 
-067. MARTY: Tony's biggest donor builds towers nobody can afford, and Tony voted against releasing police records twice, so we put that in forty thousand mailboxes.
+067. MARTY: Tony's biggest donor builds towers nobody can afford. Tony voted against releasing police records twice, so we put that in forty thousand mailboxes.
     마티: 토니 최대 후원자는 아무도 감당 못 하는 타워를 짓고, 토니는 경찰 기록 공개에 두 번 반대했어. 그걸 4만 개 우편함에 넣는 거야.
 
 068. DAN: Is it true?
     댄: 그게 사실이에요?
 
-069. MARTY: Of course it's true, because I don't lie in mail, since it's federal, and lying in mail goes to the post office police.
+069. MARTY: Of course it's true, because I don't lie in mail. It's federal, and lying in mail goes to the post office police.
     마티: 당연히 사실이지. 우편물로는 거짓말 안 해. 연방 사안이거든. 우편물로 거짓말하면 우체국 경찰이 와.
 
 070. DAN: Then let me think overnight, because my first mailer shouldn't be about Tony. I want it to be about something.
@@ -233,16 +233,16 @@
 073. MARTY: You've been saying things all day long, DeLuca, so go ahead.
     마티: 하루 종일 말했잖아, 데루카. 해 봐.
 
-074. FRANK: In thirty-three years as a cop, I learned something about suspects who won't talk: juries hate them at first, but then, sometimes, they start to respect them.
+074. FRANK: In thirty-three years as a cop, I learned something about suspects who won't talk. Juries hate them at first, but then, sometimes, they start to respect them.
     프랭크: 33년 경찰 하면서 입 안 여는 용의자에 대해 배운 게 있어. 배심원들이 처음엔 싫어해. 근데 가끔은 존중하기 시작하지.
 
-075. FRANK: I don't mean the ones who won't talk because they're guilty, but the ones who won't talk because they made a promise, and you can see the difference if you look at their hands.
+075. FRANK: I don't mean the ones who won't talk because they're guilty. I mean the ones who won't talk because they made a promise. You can see the difference if you look at their hands.
     프랭크: 유죄라서 입 안 여는 놈들 말고. 약속을 해서 입 안 여는 사람들 말이야. 손을 보면 차이가 보여.
 
 076. DAN: What do the hands do?
     댄: 손이 어떻게 하는데요?
 
-077. FRANK: The guilty ones hide their hands, but the promise ones keep them on the table, so keep your hands on the table, Danny.
+077. FRANK: The guilty ones hide their hands, but the promise ones keep them on the table. So keep your hands on the table, Danny.
     프랭크: 죄 있는 놈들은 손을 숨겨. 약속한 사람들은 테이블 위에 두고. 손을 테이블 위에 둬, 대니.
 
 078. AISHA: That's the best legal advice I've heard today, and it came from a detective.
@@ -257,7 +257,7 @@
 081. MARTY: Everybody says "bring nothing" this year, for some reason.
     마티: 올해는 왜 다들 "아무것도 가져오지 마"래.
 
-082. VICTORIA: You came alone, with nothing, and I'm impressed, because last time someone told you to bring nothing, you brought cookies.
+082. VICTORIA: You came alone, with nothing, and I'm impressed. Last time someone told you to bring nothing, you brought cookies.
     빅토리아: 혼자, 빈손으로 왔네. 감동이야. 지난번에 누가 아무것도 가져오지 말랬을 땐 쿠키 들고 갔잖아.
 
 083. DAN: How do you know that?
@@ -269,7 +269,7 @@
 085. DAN: Victoria, I need to ask you about the Larchmont letter.
     댄: 빅토리아, 라치몬트 편지 얘기 좀 해야겠어.
 
-086. VICTORIA: That letter was me in 2027, trying to win a housing case, and it wasn't me in 2028, trying to lose you an election, because I didn't give it to Tony Russo.
+086. VICTORIA: That letter was me in 2027, trying to win a housing case. It wasn't me in 2028, trying to lose you an election. I didn't give it to Tony Russo.
     빅토리아: 그 편지는 2027년에 주택 사건 이기려던 나였어. 2028년에 너 선거 지게 하려는 내가 아니라. 토니 루소한테 준 거 아니야.
 
 087. DAN: I didn't think you did.
@@ -281,22 +281,22 @@
 089. DAN: Okay, I'll admit it, for about an hour, but not longer.
     댄: 좋아, 인정할게. 한 시간쯤은. 그 이상은 아니고.
 
-090. VICTORIA: Here's why I texted: I can't talk about Larchmont either, or Castellan, because the same rules apply, so we're probably the only two people in this city who can't defend you.
+090. VICTORIA: Here's why I texted. I can't talk about Larchmont either, or Castellan, because the same rules apply. We're probably the only two people in this city who can't defend you.
     빅토리아: 문자 보낸 이유는 이거야. 나도 라치몬트나 Castellan 얘기는 못 해. 같은 규칙이니까. 아마 이 도시에서 너를 변호할 수 없는 사람은 우리 둘뿐일 거야.
 
 091. DAN: That's a very strange club to be in.
     댄: 정말 이상한 클럽이네.
 
-092. VICTORIA: It's a very small club, but I noticed something yesterday while watching you on Metro Nine: you forgot to be your own lawyer.
+092. VICTORIA: It's a very small club. But I noticed something yesterday while watching you on Metro Nine: you forgot to be your own lawyer.
     빅토리아: 아주 작은 클럽이지. 근데 어제 메트로 나인에서 너 보다가 뭘 알아챘어. 너 자기 자신의 변호사 노릇을 잊었더라.
 
 093. DAN: What does that mean?
     댄: 무슨 뜻이야?
 
-094. VICTORIA: You keep saying what you can't say, so say what you can. Read your own docket, Dan, because the docket is the list of every paper filed in a case, and it's public.
+094. VICTORIA: You keep saying what you can't say, so say what you can. Read your own docket, Dan. The docket is the list of every paper filed in a case, and it's public.
     빅토리아: 넌 말 못 하는 것만 계속 말하잖아. 말할 수 있는 걸 말해. 네 사건 기록을 읽어, 댄. 사건 기록은 그 사건에 제출된 모든 서류 목록이고, 공개야.
 
-095. VICTORIA: In Ortiz versus Castellan, there's docket entry two forty-one, which is the certification you filed on December eleventh at four fifty-eight, with twenty-three volumes.
+095. VICTORIA: In Ortiz versus Castellan, there's docket entry two forty-one. It's the certification you filed on December eleventh at four fifty-eight, with twenty-three volumes.
     빅토리아: 오르티스 대 Castellan. 기록 번호 241. 네가 12월 11일 4시 58분에 낸 확인서. 스물세 권이랑 같이.
 
 096. DAN: That's public?
@@ -314,7 +314,7 @@
 100. DAN: I can't say why he wrote it, though.
     댄: 근데 왜 그렇게 썼는지는 말 못 해.
 
-101. VICTORIA: You don't have to say why; you just have to say that he wrote it, because it's a public court order, so let voters ask themselves why.
+101. VICTORIA: You don't have to say why; you just have to say that he wrote it. It's a public court order, so let voters ask themselves why.
     빅토리아: 이유는 말 안 해도 돼. 그렇게 썼다는 것만 말하면 돼. 공개된 법원 명령이니까. 왜인지는 유권자들이 스스로 묻게 해.
 
 102. DAN: Victoria, why are you helping me with this?
@@ -332,13 +332,13 @@
 106. DAN: At Castellan?
     댄: Castellan에서?
 
-107. VICTORIA: It's general counsel, in Kessler's old office, with a better view and much better pay, and I'm thinking about it.
+107. VICTORIA: It's general counsel, in Kessler's old office, with a better view and much better pay. I'm thinking about it.
     빅토리아: 법무총괄이야. 케슬러가 쓰던 사무실. 전망 더 좋고 연봉도 훨씬 많아. 생각 중이야.
 
 108. DAN: Victoria, you know how dangerous those people really are—
     댄: 빅토리아, 그 사람들이 얼마나 위험한지 알잖아—
 
-109. VICTORIA: I know exactly who those people are, and that's why he wants me, and that's why I might say yes, because somebody inside that building should know where the bodies are buried.
+109. VICTORIA: I know exactly who those people are, and that's why he wants me. That's also why I might say yes, because somebody inside that building should know where the bodies are buried.
     빅토리아: 그 사람들이 누군지 정확히 알아. 그래서 날 원하는 거고, 그래서 내가 수락할지도 몰라. 그 건물 안에 누군가는 숨겨진 비밀을 다 알아야 하니까.
 
 110. DAN: That's either very brave of you or very dangerous.
@@ -371,13 +371,13 @@
 119. DAN: It's honest and annoying, just like you said in January.
     댄: 정직하고 짜증 나지. 네가 1월에 말한 것처럼.
 
-120. ELENA: He never told me either, Zoe. In 2026, he came home at three in the morning for three weeks, and I knew something was wrong, but he never said what, and I still don't know.
+120. ELENA: He never told me either, Zoe. In 2026, he came home at three in the morning for three weeks. I knew something was wrong, but he never said what, and I still don't know.
     엘레나: 아빠는 나한테도 말 안 했어, 조이. 2026년에 3주 동안 새벽 세 시에 들어왔어. 뭔가 잘못됐다는 건 알았지만 뭔지는 끝내 말 안 했어. 아직도 몰라.
 
 121. ZOE: And you were okay with that?
     조이: 그래도 엄마는 괜찮았어?
 
-122. ELENA: No, I was angry, but then I understood, because I have patients who tell me things in the emergency room, and I've never told your father one of them, not one.
+122. ELENA: No, I was angry, but then I understood. I have patients who tell me things in the emergency room. I've never told your father one of them, not one.
     엘레나: 아니. 화났지. 그러다 이해했어. 응급실에서 나한테 이것저것 털어놓는 환자들이 있거든. 네 아빠한테 그중 하나도 말한 적 없어. 하나도.
 
 123. ZOE: Not even the funny ones, Mom, not even once?
@@ -407,22 +407,22 @@
 131. ELENA: Yvonne? Take it, because that's not politics, that's family.
     엘레나: 이본? 받아. 그건 정치가 아니라 가족이야.
 
-132. YVONNE: Mr. Reardon, I'm sorry it's late, but I just got off a twelve-hour shift with Mrs. Feldstein, who's ninety-four, and she asked about you.
+132. YVONNE: Mr. Reardon, I'm sorry it's late. I just got off a twelve-hour shift with Mrs. Feldstein, who's ninety-four, and she asked about you.
     이본: 레이든 씨, 늦어서 죄송해요. 펠드스타인 할머니랑 열두 시간 근무 막 끝났어요. 아흔넷이신데 레이든 씨 안부를 물으셨어요.
 
 133. DAN: Yvonne, it's never too late for you, so how's Darnell?
     댄: 이본, 이본한텐 늦은 시간이란 없어요. 대널은 어때요?
 
-134. YVONNE: Darnell's at Lehman, and he's on the dean's list. He sleeps on the new mattress, and I sleep on the new mattress, because we bought two, but that's not why I'm calling.
+134. YVONNE: Darnell's at Lehman, and he's on the dean's list. He sleeps on the new mattress, and I sleep on the new mattress, because we bought two. But that's not why I'm calling.
     이본: 대널은 리먼에 다녀요. 우등생 명단에도 올랐어요. 새 매트리스에서 자요. 저도 새 매트리스에서 자고요. 두 개 샀거든요. 근데 그거 때문에 전화한 건 아니에요.
 
-135. YVONNE: I'm a shop steward at my union, Local Five-Forty in the Bronx, for home care workers, with thirty thousand members, and a shop steward is the one who fights for everybody on the floor.
+135. YVONNE: I'm a shop steward at my union, Local Five-Forty in the Bronx, for home care workers. We have thirty thousand members. A shop steward is the one who fights for everybody on the floor.
     이본: 전 노조 현장 대의원이에요. 브롱크스 재가 요양 노동자 노조, 540지부요. 조합원 3만 명이에요. 현장 대의원은 현장의 모든 사람을 위해 싸우는 사람이에요.
 
 136. DAN: That's like my father, who was a delegate at the bus depot.
     댄: 우리 아버지 같네요. 버스 차고지 대의원이셨거든요.
 
-137. YVONNE: I know, because you said it at the pizza place. Listen, our board meets Thursday to decide on an endorsement, and Tony Russo and Leila Haddad are both coming to speak.
+137. YVONNE: I know, because you said it at the pizza place. Listen, our board meets Thursday to decide on an endorsement. Tony Russo and Leila Haddad are both coming to speak.
     이본: 알아요. 피자 가게에서 말씀하셨잖아요. 들어 보세요. 목요일에 지지 후보 정하는 이사회가 있어요. 토니 루소도, 레일라 하다드도 연설하러 와요.
 
 138. YVONNE: I asked the president to add you, and she said you're third, so I said, "So was Darnell, until he wasn't." She gave you ten minutes.
@@ -431,7 +431,7 @@
 139. DAN: Ten minutes on Thursday is all I need, so I'll be there.
     댄: 목요일 10분이면 충분해요. 갈게요.
 
-140. YVONNE: Don't come with a speech, because our members are tired, since they lift people for a living, and they can hear a lawyer speech from the parking lot.
+140. YVONNE: Don't come with a speech, because our members are tired. They lift people for a living, and they can hear a lawyer speech from the parking lot.
     이본: 연설문 들고 오지 마세요. 우리 조합원들은 지쳐 있어요. 사람을 들어 올리는 게 직업이거든요. 주차장에서도 변호사 연설은 알아들어요.
 
 141. DAN: Then what should I bring?
@@ -455,13 +455,13 @@
 147. ELENA: And that text that just came in? You're not smiling at that one.
     엘레나: 방금 온 문자는? 그건 보고 안 웃던데.
 
-148. DAN: It's from Dee Washington, and it says, "I saw the mailer, and you've been hit, which is good, so now I'm watching. D.W."
+148. DAN: It's from Dee Washington. It says, "I saw the mailer, and you've been hit, which is good, so now I'm watching. D.W."
     댄: 디 워싱턴이야. "우편물 봤어요. 맞았네요. 좋아요. 이제 지켜볼게요. — D.W."
 
 149. ELENA: She actually says that's good?
     엘레나: 그게 좋다고?
 
-150. DAN: She said she wanted to see how I take a punch, so I guess Thursday's the answer, with ten minutes, no speech, and just plain words.
+150. DAN: She said she wanted to see how I take a punch, so I guess Thursday's the answer. I'll have ten minutes, no speech, and just plain words.
     댄: 내가 주먹을 어떻게 견디는지 보고 싶다고 했거든. 목요일이 그 답이 되겠지. 10분, 연설문 없이, 그냥 쉬운 말로.
 
 ---
