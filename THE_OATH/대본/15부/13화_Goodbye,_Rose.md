@@ -176,8 +176,8 @@
 054. NIKOS: Rose gave me three instructions in March. First, a short homily, and second, her son speaks, not the President. Third, everybody eats fish after, and it's paid for.
     니코스: 로즈가 3월에 세 가지를 지시했어요. 첫째, 짧은 강론. 둘째, 대통령 말고 아들이 말할 것. 셋째, 끝나고 다들 생선을 먹을 것. 돈은 냈고요.
 
-055. CONGREGATION: Laughter.
-    회중: (웃음)
+055. CONGREGATION: Ha! That sounds exactly like Rose, God rest her.
+    회중: 하! 딱 로즈다운 말이네. 편히 쉬어요.
 
 056. NIKOS: So, my homily: Rose believed God was in the kitchen, not only there, but mostly there. I've been a priest for forty years, and I've decided she was right. Amen.
     니코스: 자, 제 강론입니다. 로즈는 하느님이 부엌에 계신다고 믿었습니다. 거기에만 계신 건 아니지만 주로 거기 계신다고요. 저는 40년 동안 사제였고, 그녀가 옳았다고 결론 내렸습니다. 아멘.
@@ -203,8 +203,8 @@
 063. DAN: She told me two things about today: be shorter than Father Nikos, and don't say "my fellow Americans." She said she'd come back and hit me with a spoon.
     댄: 어머니가 오늘에 대해 두 가지를 말씀하셨습니다. 니코스 신부님보다 짧게 할 것, 그리고 "친애하는 국민 여러분"이라고 하지 말 것. 그러면 돌아와서 숟가락으로 때리겠다고 하셨죠.
 
-064. CONGREGATION: Laughter spreads through the pews.
-    회중: (신자석에 웃음이 번진다)
+064. CONGREGATION: Ha! She'd do it too, she'd come back with that spoon!
+    회중: 하! 진짜 그럴 분이야. 그 숟가락 들고 돌아오실걸!
 
 065. DAN: Father Nikos took thirty-two seconds, so I'm going to fail slowly.
     댄: 니코스 신부님이 32초 하셨으니, 저는 천천히 실패하겠습니다.
@@ -221,8 +221,8 @@
 069. HANK: And I'm still sleeping on it, Danny, whenever I'm in town.
     행크: 그리고 난 아직도 시내에 오면 거기서 자, 대니.
 
-070. CONGREGATION: Laughter, louder this time.
-    회중: (웃음, 이번엔 더 크게)
+070. CONGREGATION: Ha! Rose would have made him breakfast every morning, too!
+    회중: 하! 로즈라면 아침마다 밥도 차려 줬을 거야!
 
 071. DAN: She fed a woman every year on her son's birthday, a son who died in a place I used to defend. She fed the Speaker of the House from the other side, and he's in row five.
     댄: 어머니는 제가 변호하던 곳에서 아들을 잃은 어머니를 매년 그 아들 생일에 먹였습니다. 반대편 하원의장도 먹였고, 그분은 다섯째 줄에 계십니다.
@@ -245,8 +245,8 @@
 077. KEVIN: I followed the paper, Danny, like I always do.
     케빈: 늘 그러듯이 종이를 따랐어, 형.
 
-078. CONGREGATION: Laughter, and Kevin bows his head.
-    회중: (웃음, 케빈이 고개를 숙인다)
+078. CONGREGATION: Ha! Rose never followed the paper once in her life!
+    회중: 하! 로즈는 평생 한 번도 종이대로 안 하셨지!
 
 079. DAN: Her last words were to my father: "Go to work, John." She said it every morning for thirty-nine years, and then she said it one more time and let him go.
     댄: 어머니의 마지막 말은 아버지에게 한 것이었습니다. "출근해, 존." 39년 동안 매일 아침 하던 말을 한 번 더 하고, 아버지를 보내셨습니다.
