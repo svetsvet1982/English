@@ -134,8 +134,8 @@
 040. DAN: Secretariat! He ran here once, and he lost!
     댄: 세크러테리엇! 여기서 한 번 뛰었어요! 졌어요!
 
-041. AUDIENCE: [laughter]
-    청중: [웃음]
+041. AUDIENCE: Ha! He knew the one horse that lost, of course he did!
+    청중: 하! 하필 진 말을 아네. 역시!
 
 042. MARTY: Boychik, how do you know Secretariat lost at Saratoga?
     마티: 보이칙, 세크러테리엇이 새러토가에서 진 건 어떻게 알아?
@@ -248,8 +248,8 @@
 078. DAN: Thank you, Madam Speaker. This may be one of my last speeches in this chamber, so I'll keep it short, which Ben says is a first.
     댄: 감사합니다, 의장님. 이 회의장에서 하는 제 마지막 연설 중 하나일 겁니다. 짧게 하겠습니다. 벤 말로는 처음 있는 일이랍니다.
 
-079. AUDIENCE: [light laughter]
-    청중: [가벼운 웃음]
+079. AUDIENCE: That really would be a first, Mr. Reardon!
+    청중: 그거 정말 최초겠네요, 레이든 의원!
 
 080. DAN: A few years ago a veteran from the Bronx named Clarence Odell got a letter from the VA saying he was dead. He wasn't, but his pension stopped for eleven months.
     댄: 몇 년 전 브롱크스의 참전 용사 클래런스 오델 씨가 보훈부로부터 편지를 받았습니다. 그가 사망했다는 편지였죠. 살아 계셨는데 연금이 11개월 동안 끊겼습니다.
