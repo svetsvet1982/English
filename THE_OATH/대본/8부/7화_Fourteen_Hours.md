@@ -167,8 +167,8 @@
 051. HANK: Forty means my cows get looked at more often than those people. That's my question, and I'll sit down now, because I'm allowed to sit, and he isn't.
     행크: 40명이라니, 제 소들이 그 사람들보다 더 자주 검사를 받는군요. 그게 제 질문입니다. 이제 앉겠습니다. 저는 앉아도 되거든요. 저분은 안 되지만요.
 
-052. AUDIENCE: [laughter]
-    청중: [웃음]
+052. AUDIENCE: Ha! Montana's got a point, so let the man sit down!
+    청중: 하! 몬태나 말이 맞네. 저 사람 좀 앉게 해 줘요!
 
 053. RIVAS: The gallery will refrain from demonstrations, so gently, please, everyone.
     리바스: 방청석은 의사 표시를 자제해 주십시오. 여러분, 부드럽게 부탁드립니다.
@@ -209,8 +209,8 @@
 065. DAN: Madam President, it's ten o'clock, and every night at ten I call my mother. Tonight I can't, so I'll just say it here: Ma, I'm at work, and I'm standing up straight.
     댄: 의장님, 열 시입니다. 매일 밤 열 시에 저는 어머니께 전화합니다. 오늘 밤엔 못 하니까 여기서 말하겠습니다. 엄마, 나 일하는 중이야. 똑바로 서 있어.
 
-066. AUDIENCE: [laughter and applause]
-    청중: [웃음과 박수]
+066. AUDIENCE: We love you, Rose! Your boy's standing up straight!
+    청중: 사랑해요, 로즈! 아드님이 똑바로 서 있어요!
 
 067. RIVAS: The gallery will refrain, although the chair understands the feeling.
     리바스: 방청석은 자제해 주십시오. 의장석도 그 마음은 이해합니다만.
@@ -326,8 +326,8 @@
 104. RIVAS: The Senator from New York yields the floor, and the chair notes the time as thirteen hours and fifty-nine minutes.
     리바스: 뉴욕 출신 의원께서 발언권을 넘기셨습니다. 의장석은 시간을 13시간 59분으로 기록합니다.
 
-105. AUDIENCE: [standing applause]
-    청중: [기립 박수]
+105. AUDIENCE: Fourteen hours! Thank you, Senator, thank you for the nurses!
+    청중: 열네 시간! 고마워요, 의원님. 간호사들을 위해 고마워요!
 
 106. BEN: That's fourteen hours, sir, rounded. I'm rounding just for tonight, and I never round.
     벤: 14시간이에요, 상원의원님. 반올림해서요. 오늘 밤만 반올림하는 거예요. 전 절대 반올림 안 하거든요.
