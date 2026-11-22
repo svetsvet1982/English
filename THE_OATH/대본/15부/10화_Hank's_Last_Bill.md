@@ -83,8 +83,8 @@
 023. ZOE: It's a family word that means helping while saying you're not helping.
     조이: 우리 집 단어예요. 돕지 않는다면서 돕는다는 뜻이죠.
 
-024. AUDIENCE: Laughter.
-    청중: (웃음)
+024. AUDIENCE: Ha! Every family has somebody who helps like that!
+    청중: 하! 어느 집이나 저렇게 돕는 사람이 꼭 있지!
 
 025. JUNE: It's ten-oh-six a.m. in the Oval Office, and the TV is on mute. Sir, you promised that you wouldn't talk back to it.
     준: 오전 10시 6분, 오벌 오피스예요. TV는 음소거고요. 대통령님, TV한테 말대꾸 안 하기로 약속하셨어요.
@@ -182,8 +182,8 @@
 056. HANK: It's true, Dwayne. I asked her at the fair, next to a pig that won second prize, and the pig was very disappointed.
     행크: 사실이야, 드웨인. 박람회에서 2등 한 돼지 옆에서 물어봤어. 돼지가 아주 실망했지.
 
-057. AUDIENCE: Laughter.
-    청중: (웃음)
+057. AUDIENCE: Ha! Poor pig, second place again, just like Arlo's!
+    청중: 하! 불쌍한 돼지, 또 2등이네. 알로네 돼지처럼!
 
 058. HACKETT: The record will reflect the pig. Next is Sheriff Ruth Ann Kessler of Montana.
     해킷: 돼지는 기록하겠습니다. 다음은 몬태나의 루스 앤 케슬러 보안관입니다.
