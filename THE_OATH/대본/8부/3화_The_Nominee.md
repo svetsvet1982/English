@@ -284,8 +284,8 @@
 090. WHELAN: I thought a letter from me was the last thing you'd want, but maybe I was wrong about that too. I'm sorry for the r, and for the next question.
     휠런: 제 편지는 당신이 제일 원치 않을 거라 생각했습니다. 어쩌면 그것도 틀렸겠죠. 미안합니다. r에 대해서도, 그리고 다음 질문에 대해서도요.
 
-091. AUDIENCE: [murmuring]
-    청중: [웅성거림]
+091. AUDIENCE: He wrote him a letter and never sent it? After all those years?
+    청중: 편지를 써 놓고 안 보냈다고? 그 오랜 세월 동안?
 
 092. DAN: I yield back the rest of my time, Madam Chair.
     댄: 남은 시간을 반납합니다, 위원장님.
