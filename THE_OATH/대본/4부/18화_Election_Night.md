@@ -29,7 +29,7 @@
 005. SAM: Mom, can I go in the booth with you, because I want to see?
     샘: 엄마, 기표소에 같이 들어가도 돼? 보고 싶어.
 
-006. ELENA: You can come with me, because kids are allowed with a parent, but you can't touch the pen, because that's my vote.
+006. ELENA: You can come with me, because kids are allowed with a parent. But you can't touch the pen, because that's my vote.
     엘레나: 같이 들어가도 돼. 애들은 부모랑 같이 들어갈 수 있어. 근데 펜은 만지면 안 돼. 그건 엄마 표야.
 
 007. ZOE: In two years, I can vote, and I'm going to vote in every election, even school board, like Eli.
@@ -65,7 +65,7 @@
 017. DAN: I know, Kevin, but what about unofficially, off the record?
     댄: 알아, 케빈. 근데 비공식적으로는? 기록 밖에서는?
 
-018. KEVIN: Unofficially, Nicky made you a sign that says "My uncle is going to Washington," and I told him to wait until tonight to hold it up, but he's been staring at it since six.
+018. KEVIN: Unofficially, Nicky made you a sign that says "My uncle is going to Washington." I told him to wait until tonight to hold it up, but he's been staring at it since six.
     케빈: 비공식적으로는, 니키가 형 팻말 만들었어. "우리 삼촌 워싱턴 간다." 오늘 밤까지 들지 말라고 했는데 여섯 시부터 그것만 쳐다보고 있어.
 
 019. ROSE: Kevin, eat something, because you look like your father before a shift.
@@ -89,22 +89,22 @@
 025. GUS: Greeks think everything is bad luck. Okay, I'll wait, but I'm practicing in my head.
     거스: 그리스 사람들은 다 재수 없대. 알았어, 기다릴게. 근데 머릿속으로 연습할 거야.
 
-026. AISHA: Dan, facts first: turnout so far is higher than 2024 in every district, and the Bronx is up twelve percent, so our ground game is working, because Yvonne's members are still out there.
+026. AISHA: Dan, facts first: turnout so far is higher than 2024 in every district, and the Bronx is up twelve percent. Our ground game is working, because Yvonne's members are still out there.
     아이샤: 댄, 사실 먼저요. 지금까지 투표율이 모든 투표구에서 2024년보다 높아요. 브롱크스는 12퍼센트 올랐어요. 지상전이 먹히고 있어요. 이본네 조합원들이 아직 밖에 있어요.
 
 027. DAN: What does "turnout" tell us?
     댄: "투표율"이 우리한테 뭘 말해 줘요?
 
-028. AISHA: Turnout is how many registered voters actually vote, and when it's high in the Bronx, it's usually good for us, because those are Yvonne's doors and Gladys's stairs.
+028. AISHA: Turnout is how many registered voters actually vote. When it's high in the Bronx, it's usually good for us, because those are Yvonne's doors and Gladys's stairs.
     아이샤: 투표율은 등록 유권자 중 실제로 투표한 사람 수예요. 브롱크스가 높으면 보통 우리한테 좋아요. 이본이 두드린 문, 글래디스가 오른 계단이니까요.
 
-029. MARTY: Don't get excited, because high turnout can also mean people are angry, and angry people vote, but sometimes they're angry at you.
+029. MARTY: Don't get excited. High turnout can also mean people are angry, and angry people vote, but sometimes they're angry at you.
     마티: 흥분하지 마. 투표율이 높다는 건 사람들이 화났다는 뜻일 수도 있어. 화난 사람들은 투표하거든. 가끔은 자네한테 화난 거고.
 
 030. DAN: Thank you, Marty, because that's very encouraging to hear.
     댄: 고마워요, 마티. 아주 힘이 나는 말이네요.
 
-031. MARTY: I'm not here to encourage you, but to keep you from celebrating early, because in 1989, I celebrated at four p.m., and my guy lost by eight hundred votes, and I still dream about it.
+031. MARTY: I'm not here to encourage you, but to keep you from celebrating early. In 1989, I celebrated at four p.m., and my guy lost by eight hundred votes. I still dream about it.
     마티: 힘 주려고 온 거 아니야. 일찍 축하하지 못하게 하려고 왔지. 1989년에 오후 네 시에 축하했다가 우리 후보가 8백 표 차로 졌어. 아직도 꿈에 나와.
 
 032. ELENA: Dan, I have to go, because I'm working until three, and then I'm coming to the hall.
@@ -125,7 +125,7 @@
 037. JUNE: It's sixty-one degrees today, and we're not collecting signatures, because we're reminding people the polls close at nine.
     준: 오늘은 16도예요. 서명 받는 게 아니라 아홉 시에 투표 마감이라고 알리는 거예요.
 
-038. ZOE: I'm the bouncer again, so I check if people already voted, and if they did, I say thank you, and if they didn't, I say "nine o'clock."
+038. ZOE: I'm the bouncer again, so I check if people already voted. If they did, I say thank you, and if they didn't, I say "nine o'clock."
     조이: 나 또 문지기야. 투표했는지 확인해서, 했으면 고맙다고 하고, 안 했으면 "아홉 시"라고 해.
 
 039. DAN: Hi, I'm Dan, so have you voted yet? The polls close at nine.
@@ -158,7 +158,7 @@
 048. ZOE: Of course he does.
     조이: 당연하지.
 
-049. ELI: Dan, I brought twelve people from my study group at Lehman, and they all voted this morning, so they want a picture with you, but only if Sam says it's okay.
+049. ELI: Dan, I brought twelve people from my study group at Lehman, and they all voted this morning. They want a picture with you, but only if Sam says it's okay.
     일라이: 댄! 사람들 데려왔어요. 열두 명이요. 리먼 스터디 그룹이에요. 다들 오늘 아침에 투표했어요. 같이 사진 찍고 싶대요. 샘이 괜찮다고 하면요.
 
 050. SAM: I'm not in it, so it's okay, because that's my rule.
@@ -167,7 +167,7 @@
 051. ELI: Sam decides about Sam's pictures, because I read it on your refrigerator at Thanksgiving prep, and I respect it.
     일라이: 샘 사진은 샘이 정한다. 추수감사절 준비할 때 냉장고에서 읽었어. 존중해.
 
-052. GLADYS: Danny, I came on the D train and the N train, two trains, and I'm eighty, but I wanted to see the last stop on the last day.
+052. GLADYS: Danny, I came on the D train and the N train, two trains, and I'm eighty. But I wanted to see the last stop on the last day.
     글래디스: 대니! D선이랑 N선 타고 왔어. 두 번 갈아탔어. 난 여든이야. 마지막 날 종점을 보고 싶었어.
 
 053. DAN: Gladys, you really didn't have to come all this way.
@@ -179,13 +179,13 @@
 055. DAN: One of the new people voted?
     댄: 새 사람 중에 한 명이 투표했어요?
 
-056. GLADYS: The young man in 5A came to the tenant meeting in October, with Mr. Ostrander's muffins, because he said he wanted to see what a tenant meeting was, and now he says good morning.
+056. GLADYS: The young man in 5A came to the tenant meeting in October, with Mr. Ostrander's muffins. He said he wanted to see what a tenant meeting was, and now he says good morning.
     글래디스: 5A 젊은이가 10월에 세입자 회의에 왔어. 오스트랜더 씨 머핀 먹으러. 세입자 회의가 뭔지 보고 싶었대. 이제는 아침 인사도 해.
 
 057. LEILA: That's organizing, with one person, one meeting, and one muffin.
     레일라: 그게 조직이에요. 한 사람, 회의 한 번, 머핀 하나.
 
-058. YVONNE: Mr. Reardon, Local Five-Forty knocked on twelve thousand doors in four weeks, and I personally knocked on four hundred, so my knees are filing a grievance.
+058. YVONNE: Mr. Reardon, Local Five-Forty knocked on twelve thousand doors in four weeks. I personally knocked on four hundred, so my knees are filing a grievance.
     이본: 레이든 씨, 540지부가 4주 동안 1만 2천 집 문을 두드렸어요. 저 혼자 4백 집이요. 제 무릎이 고충 처리 신청한대요.
 
 059. DAN: Your knees are the best argument I have, Yvonne.
@@ -200,13 +200,13 @@
 062. DAN: Now, Frank, here at the last stop, five hours before the polls close?
     댄: 지금요, 프랭크? 여기 종점에서? 투표 마감 다섯 시간 전에?
 
-063. FRANK: It'll take ten seconds. The district attorney's office called, and they've traced the website to a server in Delaware, paid for by a company that paid Stephen Marlow. They're not done, but they're not stopping.
+063. FRANK: It'll take ten seconds. The district attorney's office called, and they've traced the website to a server in Delaware. It was paid for by a company that paid Stephen Marlow. They're not done, but they're not stopping.
     프랭크: 10초면 돼. 지방검찰청에서 전화 왔어. 그 웹사이트를 추적했대. 델라웨어 서버. 스티븐 말로한테 돈 준 회사가 비용을 댔어. 아직 안 끝났지만 멈추지도 않을 거야.
 
 064. DAN: Who's behind the company?
     댄: 그 회사 뒤엔 누가 있어요?
 
-065. FRANK: There's another company, and another one behind that, like Larchmont, so it'll take months, maybe years, but I've got time, because I'm retired.
+065. FRANK: There's another company, and another one behind that, like Larchmont. It'll take months, maybe years, but I've got time, because I'm retired.
     프랭크: 또 다른 회사. 그 뒤에 또 하나. 라치몬트처럼. 몇 달 걸릴 거야. 몇 년일 수도 있고. 난 시간 많아. 은퇴했잖아.
 
 066. DAN: Frank, I thought you said you didn't do politics.
@@ -239,13 +239,13 @@
 075. DAN: You were there in 1980, so you'd know better than anybody.
     댄: 1980년에 거기 계셨으니까 누구보다 잘 아시겠네요.
 
-076. STATHIS: I was there, and I'm here, and I'm eighty-two, so I don't plan to be here in 2076, which makes this the one I'll remember.
+076. STATHIS: I was there, and I'm here, and I'm eighty-two. I don't plan to be here in 2076, which makes this the one I'll remember.
     스타티스: 그때도 있었고 지금도 있어. 난 여든둘이야. 2076년엔 여기 없을 거야. 그러니까 이게 내가 기억할 날이야.
 
 077. AISHA: Here are the first numbers from the early vote: Reardon fifty-four, Doyle forty-three, and others three.
     아이샤: 첫 숫자예요. 사전 투표. 레이든 54, 도일 43, 기타 3.
 
-078. MARTY: The early vote is older voters, who were Tony's in June, but tonight they're ours, and that's Tony's endorsement on the stoop on Twenty-Ninth Street.
+078. MARTY: The early vote is older voters, who were Tony's in June, but tonight they're ours. That's Tony's endorsement on the stoop on Twenty-Ninth Street.
     마티: 사전 투표는 나이 든 유권자들이야. 6월엔 토니 쪽이었지. 오늘 밤엔 우리 쪽이야. 그게 토니 지지 선언이야. 29번가 그 계단.
 
 079. RUSSO: I told you, Marty, I know what a stoop is worth.
@@ -254,7 +254,7 @@
 080. DAN: Tony, you actually came here tonight, to the hall.
     댄: 토니, 진짜 왔네요. 오늘 밤 회관에.
 
-081. RUSSO: Of course I came, because it's my father's union, and my father would have come, and he'd have cried, so I'm trying not to.
+081. RUSSO: Of course I came, because it's my father's union. My father would have come, and he'd have cried, so I'm trying not to.
     루소: 당연히 왔죠. 우리 아버지 노조잖아요. 아버지라면 왔을 거예요. 울었겠죠. 난 안 울려고 노력 중이에요.
 
 082. ELENA: Dan, I'm here, still in scrubs, because I didn't have time, and Dolores said, "Go, and I'll lie about the time."
@@ -302,7 +302,7 @@
 096. DAN: I know, Ma. "Good. Now go to work."
     댄: 알아, 엄마. "좋아. 이제 일하러 가."
 
-097. ROSE: No, not tonight, because tonight he'd say, "Stand on the crate," and tomorrow he'd say "go to work," so tonight, you stand on the crate.
+097. ROSE: No, not tonight. Tonight he'd say, "Stand on the crate," and tomorrow he'd say "go to work," so tonight, you stand on the crate.
     로즈: 아니. 오늘 밤은 아니야. 오늘 밤엔 "상자 위에 서"라고 했을 거야. "일하러 가"는 내일 했겠지. 오늘 밤엔 상자 위에 서.
 
 098. NICKY: Uncle Danny, can I hold up my sign now, because Dad said tonight!
@@ -323,7 +323,7 @@
 103. DOYLE: I had to, because my mother would have made me. Listen, there are two things. One, I'm going to tell my people tonight that you won fair, and they should give you a chance.
     도일: 해야 했어요. 우리 어머니가 시켰을 거예요. 들어 봐요. 두 가지예요. 하나, 오늘 밤 우리 사람들한테 당신이 정정당당하게 이겼으니 기회를 주라고 할 거예요.
 
-104. DOYLE: Two, if the heat ever goes out in your district office, call me, not as a donor, but as a boiler guy, and I'll send somebody in two hours, at no charge.
+104. DOYLE: Two, if the heat ever goes out in your district office, call me, not as a donor, but as a boiler guy. I'll send somebody in two hours, at no charge.
     도일: 둘, 지역구 사무실 난방이 꺼지면 전화해요. 후원자로서가 아니라 보일러 아저씨로서요. 두 시간 안에 사람 보낼게요. 무료로.
 
 105. DAN: Pat, if you do it for free, my office has to report it.
@@ -359,13 +359,13 @@
 115. DEE: For twenty-two years, this was my district, so I wanted to see who gets it next. Now listen: on January third, you'll raise your right hand on the House floor, and I'll be in the gallery.
     디: 22년 동안 내 지역구였어요. 다음에 누가 받는지 보고 싶었죠. 자, 들어요. 1월 3일에 하원 본회의장에서 오른손을 들 거예요. 난 방청석에 있을게요.
 
-116. DEE: Then the next morning, you come to my old office, and I'll tell you everything I know about favors, grudges, and who reads page four hundred and twelve and who doesn't.
+116. DEE: Then the next morning, you come to my old office. I'll tell you everything I know about favors, grudges, and who reads page four hundred and twelve and who doesn't.
     디: 그리고 다음 날 아침 내 옛 사무실로 와요. 내가 아는 걸 다 알려 줄게요. 신세, 원한, 누가 412쪽을 읽고 누가 안 읽는지.
 
 117. DAN: Thank you, Dee, for everything, and for staying neutral too.
     댄: 고마워요, 디. 전부 다요. 중립을 지켜 주신 것도요.
 
-118. DEE: Don't thank me, because you're on my favor list now, and in January, you'll be on somebody's grudge list, which is how you know you've started. Go stand on your father's crate.
+118. DEE: Don't thank me, because you're on my favor list now. In January, you'll be on somebody's grudge list, which is how you know you've started. Go stand on your father's crate.
     디: 고마워하지 마요. 이제 당신은 내 신세 목록에 있어요. 1월엔 누군가의 원한 목록에 오르겠죠. 그래야 시작한 걸 알 수 있어요. 가서 아버지 상자 위에 서요.
 
 119. MARTY: Dee, are you still not forgiving me, after all this?
@@ -413,7 +413,7 @@
 133. AUDIENCE: Ha, yeah, that's right, Danny, that's right!
     청중: 하! 그래! 맞아, 대니! 맞아!
 
-134. DAN: My father stood on this crate in 1980 and said no to a promotion, so that people he'd never meet could retire, and some of you are those people. I'm going to Washington to say no for you, when no is the right answer.
+134. DAN: My father stood on this crate in 1980 and said no to a promotion, so that people he'd never meet could retire. Some of you are those people. I'm going to Washington to say no for you, when no is the right answer.
     댄: 제 아버지는 1980년에 이 상자 위에 서서 만나 보지도 못할 사람들이 은퇴할 수 있도록 승진을 거절했어요. 여러분 중에 그분들이 계세요. 저는 아니라고 하는 게 옳을 때 여러분을 위해 아니라고 말하러 워싱턴에 갑니다.
 
 135. DAN: And I'll say yes when yes is right, to Yvonne's knees, to Gladys's boiler, to Elena's hallway, and to every nurse, every driver, and every two-dollar donor.
