@@ -242,8 +242,8 @@
 076. DAN: I said some towns gave up, and I was wrong. Connie opens at five every day, and she has since 1994. That's not giving up, it's the opposite, and I'm sorry.
     댄: 저는 어떤 마을들이 포기했다고 말했습니다. 틀렸습니다. 코니는 1994년부터 매일 다섯 시에 문을 엽니다. 그건 포기가 아니라 그 반대입니다. 죄송합니다.
 
-077. AUDIENCE: [a few people clap; someone says "Huh."]
-    청중: [몇몇이 박수 친다. 누군가 "흠" 한다.]
+077. AUDIENCE: Huh, well, I'll give him credit, that was a real apology.
+    청중: 흠, 인정할 건 해야지. 저건 진짜 사과였네.
 
 078. CONNIE: Okay, here's pie, strawberry, four dollars, plus six for the mug, so ten dollars. And you still owe me a flood visit.
     코니: 좋아요, 파이. 딸기. 4달러에 머그잔 6달러 해서 10달러. 그리고 홍수 때 오기로 한 거 아직 남았어요.
