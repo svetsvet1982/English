@@ -191,8 +191,8 @@
 059. KEVIN: My father drove a bus for twenty-six years, my mother ran a kitchen for sixty, and my brother runs the country. I ran the One-Fourteen, and I think I had the hardest job.
     케빈: 우리 아버지는 26년 동안 버스를 몰았고, 어머니는 60년 동안 부엌을 꾸렸고, 형은 나라를 운영해. 난 114 관할서를 맡았지. 내 일이 제일 힘들었던 것 같아.
 
-060. OFFICERS: Laughter ripples down the line of officers.
-    경찰관들: (경찰관들 줄을 따라 웃음이 번진다)
+060. OFFICERS: Ha! He's got that right, Captain, it was the hardest one!
+    경찰관들: 하! 맞는 말이에요, 서장님. 제일 힘든 일이었죠!
 
 061. KEVIN: My brother and I disagreed about almost everything in this job for fifteen years, in kitchens, at Thanksgiving, and on a mountain in Maryland. He was right about some of it.
     케빈: 형이랑 나는 15년 동안 이 일에 관해 거의 모든 걸로 부딪쳤어. 부엌에서, 추수감사절에, 메릴랜드의 산에서. 형이 맞은 것도 좀 있었어.
@@ -200,8 +200,8 @@
 062. KEVIN: But I'm never going to tell him which parts.
     케빈: 하지만 어느 부분인지는 절대 안 말해 줄 거야.
 
-063. OFFICERS: Laughter, and then more applause.
-    경찰관들: (웃음, 그리고 더 큰 박수)
+063. OFFICERS: Ha! Good for you, Captain, never tell him which parts!
+    경찰관들: 하! 잘하셨어요, 서장님. 어느 부분인지 절대 말하지 마요!
 
 064. DAN: So that's the part I won't like, because he'll never tell me which parts I was right about.
     댄: 그러니까 그게 내가 싫어할 부분이네. 내가 어디서 맞았는지 절대 안 말해 줄 테니까.
