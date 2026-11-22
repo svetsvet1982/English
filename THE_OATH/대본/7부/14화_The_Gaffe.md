@@ -14,455 +14,455 @@
 
 ## 대본
 
-001. VICTORIA: Sit. Don't talk. You've talked for fourteen hours today. Three events. A radio show. A diner in Troy. How much did you sleep last night?
-    빅토리아: 앉아. 말하지 마. 오늘 열네 시간 말했잖아. 행사 세 개. 라디오 하나. 트로이의 다이너. 어젯밤 몇 시간 잤어?
+001. VICTORIA: Sit down and don't talk, because you've talked for fourteen hours today, with three events, a radio show, and a diner in Troy. How much did you sleep last night?
+    빅토리아: 앉아. 말하지 마. 오늘 열네 시간이나 말했잖아. 행사 세 개, 라디오 하나, 트로이 다이너 하나. 어젯밤에 얼마나 잤어?
 
-002. DAN: Four hours. Maybe. The motel had a train behind it.
-    댄: 네 시간. 아마. 모텔 뒤로 기차가 지나갔어.
+002. DAN: Four hours, maybe, because the motel had a train behind it.
+    댄: 네 시간쯤. 모텔 뒤에 기찻길이 있었어.
 
-003. VICTORIA: Four hours. That's the problem. Not Hartley. Know what you do tired?
-    빅토리아: 네 시간. 그게 문제야. 하틀리가 아니라. 피곤하면 뭘 하는지 알아?
+003. VICTORIA: Four hours is the problem, not Hartley. Do you know what you do when you're tired?
+    빅토리아: 네 시간. 그게 문제야. 하틀리가 아니라. 당신 피곤하면 어떻게 되는지 알아?
 
-004. DAN: I slow down.
-    댄: 느려지지.
+004. DAN: I slow down, Victoria, everybody knows that about me.
+    댄: 느려지지, 빅토리아. 다들 아는 얘기잖아.
 
-005. VICTORIA: When you're angry, you slow down. When you're tired, you make jokes. Jokes are where people get hurt. Eli told you the same thing.
-    빅토리아: 화나면 느려지지. 피곤하면 농담을 해. 농담에서 사람들이 다쳐. 일라이도 똑같은 말 했잖아.
+005. VICTORIA: When you're angry, you slow down, but when you're tired, you make jokes. Jokes are where people get hurt, and Eli told you the same thing.
+    빅토리아: 화나면 느려지지. 피곤하면 농담을 해. 농담에서 사람들이 다쳐. 일라이도 같은 말 했잖아.
 
-006. DAN: "Don't be clever."
-    댄: "영리하게 굴지 마."
+006. DAN: Eli told me, "Don't be clever," on the bus.
+    댄: 일라이가 버스에서 "영리하게 굴지 마"라고 했어.
 
-007. VICTORIA: Don't be clever. Be boring. Boring is safe. Boring wins debates that you're behind in.
-    빅토리아: 영리하게 굴지 마. 지루하게 해. 지루한 게 안전해. 지고 있는 토론은 지루한 게 이겨.
+007. VICTORIA: Don't be clever, be boring, because boring is safe. Boring wins debates that you're behind in.
+    빅토리아: 영리하게 굴지 마. 지루하게 해. 지루한 게 안전해. 지고 있는 토론은 지루함이 이겨.
 
-008. AISHA: Okay. Facts first. Sixty minutes. Two podiums. The upstate station. Albany, Syracuse, Utica, and Watertown are all carrying it live. Two million people might watch.
-    아이샤: 자. 사실 먼저. 60분. 연단 두 개. 업스테이트 방송국. 올버니, 시러큐스, 유티카, 워터타운이 전부 생중계해요. 2백만 명이 볼 수도 있어요.
+008. AISHA: Okay, facts first: it's sixty minutes with two podiums on the upstate station. Albany, Syracuse, Utica, and Watertown are all carrying it live, so two million people might watch.
+    아이샤: 자, 사실 먼저. 60분, 연단 두 개, 업스테이트 방송국이에요. 올버니, 시러큐스, 유티카, 워터타운이 다 생중계해요. 2백만 명이 볼 수도 있어요.
 
-009. MARTY: And the last ten minutes is a lightning round. Fast questions. Fifteen seconds each. That's where people die, boychik. Not literally. Politically.
-    마티: 그리고 마지막 10분은 번개 라운드야. 빠른 질문. 각각 15초. 거기서 사람들이 죽어, 얘야. 진짜로 말고. 정치적으로.
+009. MARTY: And the last ten minutes is a lightning round of fast questions, fifteen seconds each. That's where people die, boychik, not literally, but politically.
+    마티: 그리고 마지막 10분은 번개 라운드야. 빠른 질문, 하나에 15초. 거기서 사람이 죽어, 보이칙. 진짜 말고 정치적으로.
 
-010. DAN: Why there? Why the lightning round, Marty?
-    댄: 왜 거기서요? 왜 번개 라운드에서요, 마티?
+010. DAN: Why there, though? Why is it the lightning round, Marty?
+    댄: 근데 왜 거기예요? 왜 하필 번개 라운드예요, 마티?
 
-011. MARTY: Fifteen seconds is no time to think. Only time to be yourself. Tired.
-    마티: 15초는 생각할 시간이 없어. 너 자신이 될 시간뿐이지. 피곤한 너.
+011. MARTY: Because fifteen seconds is no time to think, only time to be yourself, and you'll be tired.
+    마티: 15초는 생각할 시간이 없거든. 그냥 너 자신일 시간뿐이야. 그리고 넌 피곤할 거고.
 
-012. JUNE: And Hartley gave you the last word. The closing statement. Remember? That's your safety net. If anything goes wrong, you fix it in the closing.
-    준: 그리고 하틀리가 마지막 발언을 줬잖아요. 마무리 발언. 기억하죠? 그게 안전망이에요. 뭐가 잘못되면 마무리에서 고쳐요.
+012. JUNE: And Hartley gave you the last word, the closing statement, remember? That's your safety net, so if anything goes wrong, you fix it in the closing.
+    준: 그리고 하틀리가 마지막 발언을 줬잖아요. 마무리 발언. 기억하죠? 그게 안전망이에요. 뭐가 잘못되면 마무리에서 고치면 돼요.
 
-013. VICTORIA: Only if you notice. Most people don't. That's what makes a gaffe.
-    빅토리아: 알아채야만 그렇지. 대부분은 못 알아채. 그래서 말실수가 되는 거야.
+013. VICTORIA: Only if you notice, and most people don't. That's what makes a gaffe.
+    빅토리아: 알아챘을 때만이지. 대부분은 못 알아채. 그게 말실수가 되는 거야.
 
-014. GIL: What's a gaffe? I keep hearing it. It sounds like a fish.
-    길: 말실수가 뭐야? 계속 들리는데. 생선 이름 같아.
+014. GIL: What's a gaffe? I keep hearing it, and it sounds like a fish.
+    길: 개프가 뭐야? 계속 들리는데 무슨 생선 이름 같아.
 
-015. VICTORIA: A gaffe is when a politician accidentally says something true. Or something that sounds true. Or something that sounds terrible. Usually all three.
-    빅토리아: 말실수는 정치인이 실수로 진실을 말하는 거야. 아니면 진실처럼 들리는 걸. 아니면 끔찍하게 들리는 걸. 보통은 셋 다.
+015. VICTORIA: A gaffe is when a politician accidentally says something true, or something that sounds true, or something that sounds terrible, and usually it's all three.
+    빅토리아: 개프는 정치인이 실수로 진실을 말하는 거야. 아니면 진실처럼 들리는 거, 아니면 끔찍하게 들리는 거. 대개 셋 다고.
 
-016. PRODUCER: Congressman? Five minutes. Don't touch the podium. It wobbles.
-    PD: 의원님? 5분 남았습니다. 연단 만지지 마세요. 흔들려요.
+016. PRODUCER: Congressman, it's five minutes, and please don't touch the podium, because it wobbles.
+    PD: 의원님, 5분 남았습니다. 연단은 만지지 마세요. 흔들려요.
 
-017. VICTORIA: Dan. One more thing. If he says "the city" again, don't fight it. Say "I'm from the city, and I came here." That's all. Boring.
-    빅토리아: 댄. 하나만 더. 그 사람이 또 "도시"라고 하면 싸우지 마. "전 도시 출신이고, 여기 왔습니다." 그게 다야. 지루하게.
+017. VICTORIA: Dan, one more thing: if he says "the city" again, don't fight it. Just say "I'm from the city, and I came here," and that's all, boring.
+    빅토리아: 댄, 하나 더. 그 사람이 또 "도시" 얘기하면 맞서지 마. "저는 도시 출신이고, 여기 왔습니다." 그거면 돼. 지루하게.
 
-018. DAN: Boring. Got it. I can do boring. I think.
-    댄: 지루하게. 알았어. 지루한 건 할 수 있어. 아마.
+018. DAN: Boring, got it, and I can do boring, I think.
+    댄: 지루하게, 알았어. 지루한 거 할 수 있어. 아마도.
 
-019. MODERATOR: Good evening from Albany. I'm Jim Dufresne. Tonight, the only debate in the race for the United States Senate. Governor Douglas Hartley. Congressman Dan Reardon.
-    진행자: 올버니에서 인사드립니다. 짐 뒤프렌입니다. 오늘 밤, 미국 상원의원 선거의 유일한 토론입니다. 더글러스 하틀리 주지사. 댄 레이든 의원.
+019. MODERATOR: Good evening from Albany, and I'm Jim Dufresne. Tonight is the only debate in the race for the United States Senate, with Governor Douglas Hartley and Congressman Dan Reardon.
+    진행자: 올버니에서 인사드립니다. 짐 듀프레인입니다. 오늘 밤은 미국 상원 선거의 유일한 토론입니다. 더글러스 하틀리 주지사, 댄 레이든 의원입니다.
 
-020. MODERATOR: First question, Governor. Upstate keeps losing young people. Why should they stay?
-    진행자: 첫 질문입니다, 주지사님. 업스테이트는 젊은이들을 계속 잃고 있습니다. 왜 남아야 합니까?
+020. MODERATOR: The first question is for you, Governor: upstate keeps losing young people, so why should they stay?
+    진행자: 첫 질문은 주지사님께 드립니다. 업스테이트에서 젊은이들이 계속 떠나고 있습니다. 그들이 왜 남아야 합니까?
 
-021. HARTLEY: Because this is home. I'm from Glens Falls. My kids left. Two of them came back. Because I fixed the roads they drive home on. That's not a speech. That's a road.
-    하틀리: 여기가 집이니까요. 전 글렌스폴스 출신입니다. 우리 애들도 떠났습니다. 둘이 돌아왔어요. 집에 오는 길을 제가 고쳐 놨으니까요. 그건 연설이 아닙니다. 도로죠.
+021. HARTLEY: Because this is home. I'm from Glens Falls, and my kids left, but two of them came back, because I fixed the roads they drive home on. That's not a speech, that's a road.
+    하틀리: 여기가 고향이니까요. 저는 글렌스폴스 출신입니다. 제 아이들도 떠났는데 둘이 돌아왔어요. 집에 오는 길을 제가 고쳤거든요. 그건 연설이 아니라 도로입니다.
 
-022. MODERATOR: Congressman, same question. Why should young people stay?
+022. MODERATOR: Congressman, it's the same question: why should young people stay?
     진행자: 의원님, 같은 질문입니다. 젊은이들이 왜 남아야 합니까?
 
-023. DAN: In May, a twenty-six-year-old steelworker in Buffalo asked me if he should leave. I told him I didn't have the right to answer. But I told him what Buffalo should have.
-    댄: 5월에 버펄로의 스물여섯 살 철강 노동자가 저한테 떠나야 하냐고 물었습니다. 대답할 자격이 없다고 했습니다. 하지만 버펄로에 뭐가 있어야 하는지는 말했습니다.
+023. DAN: In May a twenty-six-year-old steelworker in Buffalo asked me if he should leave. I told him I didn't have the right to answer, but I told him what Buffalo should have.
+    댄: 5월에 버펄로의 스물여섯 살 제철공이 떠나야 하냐고 물었습니다. 저는 대답할 권리가 없다고 했죠. 하지만 버펄로에 뭐가 있어야 하는지는 말했습니다.
 
-024. DAN: Faster trade enforcement. A hospital with a maternity ward closer than seventy miles. Internet good enough to do homework somewhere other than a McDonald's parking lot.
-    댄: 더 빠른 무역 집행. 70마일보다 가까운 분만실 있는 병원. 맥도날드 주차장 말고 다른 데서 숙제할 수 있을 만큼의 인터넷.
+024. DAN: It should have faster trade enforcement, a maternity ward closer than seventy miles, and internet good enough to do homework somewhere other than a McDonald's parking lot.
+    댄: 더 빠른 무역법 집행, 70마일보다 가까운 분만실, 그리고 맥도날드 주차장 말고 다른 데서도 숙제할 수 있을 만큼 좋은 인터넷입니다.
 
-025. AISHA: Good. Specific. Not clever. Good.
-    아이샤: 좋아요. 구체적이고. 영리하지 않고. 좋아요.
+025. AISHA: Good, that's specific and not clever at all, so good.
+    아이샤: 좋아요. 구체적이고, 하나도 영리하지 않고. 좋아요.
 
-026. MODERATOR: Governor, your opponent's campaign is running an ad about your 2028 veto of a nursing home staffing bill. Your response?
-    진행자: 주지사님, 상대 캠프가 주지사님의 2028년 요양원 인력 법안 거부권에 대한 광고를 내고 있습니다. 답변하시겠습니까?
+026. MODERATOR: Governor, your opponent's campaign is running an ad about your 2028 veto of a nursing home staffing bill, so what's your response?
+    진행자: 주지사님, 상대 캠프가 주지사님의 2028년 요양원 인력 법안 거부권에 대한 광고를 내고 있습니다. 어떻게 답하시겠습니까?
 
-027. HARTLEY: It's a fair ad. I said so publicly. I called the health department. Bernadette Lyons was right. The four percent went to the homes, not the aides. I should have written it differently.
-    하틀리: 공정한 광고입니다. 공개적으로 그렇게 말했죠. 보건부에 전화했습니다. 버나뎃 라이언스 말이 맞았습니다. 4%는 조무사가 아니라 요양원으로 갔습니다. 다르게 썼어야 했습니다.
+027. HARTLEY: It's a fair ad, and I said so publicly. I called the health department, and Bernadette Lyons was right, because the four percent went to the homes, not the aides. I should have written it differently.
+    하틀리: 공정한 광고입니다. 공개적으로도 그렇게 말했어요. 보건부에 전화해 봤는데 버나뎃 라이언스 씨 말이 맞았습니다. 4%는 조무사들이 아니라 요양원으로 갔어요. 다르게 썼어야 했습니다.
 
-028. HARTLEY: In the Senate, I'd write it differently. The money follows the worker. Not the building. I learned that from his ad. Thank you, Congressman.
-    하틀리: 상원에선 다르게 쓰겠습니다. 돈은 건물이 아니라 일하는 사람을 따라가야 합니다. 그건 의원님 광고에서 배웠습니다. 고맙습니다, 의원님.
+028. HARTLEY: In the Senate I'd write it differently, so the money follows the worker, not the building. I learned that from his ad, so thank you, Congressman.
+    하틀리: 상원에선 다르게 쓰겠습니다. 돈이 건물이 아니라 노동자를 따라가게요. 의원님 광고에서 배웠습니다. 감사합니다, 의원님.
 
-029. JUNE: Oh no. He's taking our ad and making it his policy.
-    준: 아 이런. 우리 광고를 가져가서 자기 정책으로 만들고 있어요.
+029. JUNE: Oh no, he's taking our ad and making it his policy.
+    준: 아 안 돼. 우리 광고를 가져가서 자기 정책으로 만들고 있어요.
 
-030. MARTY: That's what good ones do. They steal your best idea and thank you on TV. Then you can't attack it.
-    마티: 잘하는 사람들은 그렇게 해. 네 최고의 아이디어를 훔치고 TV에서 고맙다고 하지. 그럼 넌 공격을 못 해.
+030. MARTY: That's what good ones do: they steal your best idea and thank you on TV, and then you can't attack it.
+    마티: 잘하는 사람들은 그래. 네 최고의 아이디어를 훔쳐 가서 TV에서 고맙다고 하지. 그럼 공격을 못 해.
 
-031. MODERATOR: Congressman. The Governor says you won the city, but you don't understand the rest of New York. What's your answer?
-    진행자: 의원님. 주지사님은 의원님이 도시는 이겼지만 나머지 뉴욕은 이해하지 못한다고 합니다. 답변은요?
+031. MODERATOR: Congressman, the Governor says you won the city but don't understand the rest of New York, so what's your answer?
+    진행자: 의원님, 주지사님은 의원님이 도시에선 이겼지만 나머지 뉴욕은 모른다고 하십니다. 답변은요?
 
-032. DAN: I'm from the city. And I came here. To a barn in Canton at six in the morning. To a steel hall in Lackawanna. To a church in Hollow. I don't understand all of it yet. I'm learning.
-    댄: 전 도시 출신입니다. 그리고 여기 왔습니다. 새벽 여섯 시 캔턴의 헛간에. 래커워너의 철강 회관에. 할로의 교회에. 아직 다 이해하진 못합니다. 배우고 있습니다.
+032. DAN: I'm from the city, and I came here, to a barn in Canton at six in the morning, a steel hall in Lackawanna, and a church in Hollow. I don't understand all of it yet, but I'm learning.
+    댄: 저는 도시 출신이고, 여기 왔습니다. 새벽 여섯 시 캔턴의 헛간에, 래커워너의 철강 회관에, 할로의 교회에요. 아직 다 이해하진 못합니다. 배우는 중입니다.
 
-033. VICTORIA: Boring. Perfect. Keep going.
-    빅토리아: 지루해. 완벽해. 계속 그렇게.
+033. VICTORIA: That's boring and perfect, Dan, so keep going exactly like that.
+    빅토리아: 지루해. 완벽해, 댄. 딱 그대로 계속해.
 
-034. HARTLEY: May I? I respect that. I've seen the Congressman's bus in my towns. I'll say this. Learning is good. But we don't need a student in the Senate. We need somebody who already knows.
-    하틀리: 제가 해도 될까요? 그건 존중합니다. 우리 마을들에서 의원님 버스를 봤어요. 이건 말하겠습니다. 배우는 건 좋습니다. 하지만 상원엔 학생이 필요하지 않습니다. 이미 아는 사람이 필요하죠.
+034. HARTLEY: May I? I respect that, because I've seen the Congressman's bus in my towns. But I'll say this: learning is good, but we don't need a student in the Senate. We need somebody who already knows.
+    하틀리: 제가 한마디 해도 될까요? 존중합니다. 제 동네들에서 의원님 버스를 봤어요. 그래도 이 말은 하죠. 배우는 건 좋습니다. 하지만 상원엔 학생이 필요 없습니다. 이미 아는 사람이 필요하죠.
 
 035. AUDIENCE: [murmuring]
     청중: [웅성거림]
 
-036. MARTY: "We don't need a student." Oof. That one will be in an ad by Friday.
-    마티: "학생은 필요 없다." 아이고. 저건 금요일까지 광고에 나올 거야.
+036. MARTY: "We don't need a student." Oof, that one will be in an ad by Friday.
+    마티: "학생은 필요 없다." 아이고. 금요일쯤엔 광고에 나오겠다.
 
-037. MODERATOR: Next. Congressman, Empire Common Sense has spent thirty million dollars against you. Callum Pryce. Do you want the Governor to reject that money?
-    진행자: 다음입니다. 의원님, 엠파이어 커먼 센스가 의원님을 상대로 3천만 달러를 썼습니다. 캘럼 프라이스. 주지사가 그 돈을 거부하길 원하십니까?
+037. MODERATOR: Next, Congressman: Empire Common Sense, which is Callum Pryce, has spent thirty million dollars against you. Do you want the Governor to reject that money?
+    진행자: 다음 질문입니다. 의원님, 엠파이어 커먼 센스, 즉 캘럼 프라이스가 의원님을 상대로 3천만 달러를 썼습니다. 주지사님이 그 돈을 거부하길 원하십니까?
 
-038. DAN: He can't reject it. It's not his. The law says they can't talk. I believe the Governor when he says he didn't ask for it. He's been honest with me. Even when it hurt him.
-    댄: 거부할 수가 없습니다. 그분 돈이 아니니까요. 법상 서로 대화를 못 합니다. 요청하지 않았다는 주지사님 말을 믿습니다. 저한테 정직하셨으니까요. 본인에게 불리할 때도.
+038. DAN: He can't reject it, because it's not his, and the law says they can't talk. I believe the Governor when he says he didn't ask for it, because he's been honest with me, even when it hurt him.
+    댄: 거부할 수 없습니다. 그분 돈이 아니니까요. 법적으로 그쪽과 대화도 못 합니다. 저는 요청하지 않았다는 주지사님 말씀을 믿습니다. 자신에게 손해일 때도 저한테 정직하셨거든요.
 
-039. HARTLEY: Thank you. I'll return the favor. I don't want that money. I've said Eli Ward's picture shouldn't be used. By anybody. I meant it.
-    하틀리: 고맙습니다. 저도 갚겠습니다. 저는 그 돈을 원하지 않습니다. 일라이 워드의 사진을 아무도 써선 안 된다고 했습니다. 진심이었습니다.
+039. HARTLEY: Thank you, and I'll return the favor. I don't want that money, and I've said Eli Ward's picture shouldn't be used by anybody, and I meant it.
+    하틀리: 감사합니다. 저도 보답하죠. 저는 그 돈을 원하지 않습니다. 누구도 일라이 워드의 사진을 쓰면 안 된다고 말했고, 진심이었습니다.
 
-040. MODERATOR: You two are being very polite tonight. Unusually polite.
-    진행자: 두 분 오늘 밤 아주 예의가 바르시네요. 이례적으로요.
+040. MODERATOR: You two are being very polite tonight, unusually polite.
+    진행자: 두 분 오늘 밤 아주 예의 바르시네요. 유난히요.
 
-041. HARTLEY: It's Albany, Jim. It's cold. We're saving energy.
-    하틀리: 올버니잖아요, 짐. 추워요. 에너지를 아끼는 중이에요.
+041. HARTLEY: It's Albany, Jim, and it's cold, so we're saving energy.
+    하틀리: 여긴 올버니예요, 짐. 추우니까 에너지를 아끼는 거죠.
 
 042. AUDIENCE: [laughter]
     청중: [웃음]
 
-043. MODERATOR: We're going to the lightning round. Fifteen seconds. Short answers. Governor, favorite upstate food?
-    진행자: 번개 라운드로 가겠습니다. 15초. 짧은 대답. 주지사님, 좋아하는 업스테이트 음식은?
+043. MODERATOR: We're going to the lightning round, with fifteen seconds and short answers. Governor, what's your favorite upstate food?
+    진행자: 번개 라운드로 가겠습니다. 15초, 짧게 답해 주십시오. 주지사님, 좋아하는 업스테이트 음식은?
 
-044. HARTLEY: Salt potatoes. With too much butter. Every August.
-    하틀리: 소금 감자. 버터를 너무 많이 넣어서. 매년 8월에.
+044. HARTLEY: Salt potatoes, with too much butter, every August.
+    하틀리: 소금 감자요. 버터 듬뿍. 매년 8월에.
 
-045. MODERATOR: Congressman?
-    진행자: 의원님?
+045. MODERATOR: Congressman, it's the same question for you, fifteen seconds.
+    진행자: 의원님, 같은 질문입니다. 15초요.
 
-046. DAN: Chicken riggies. From Amra's in Utica. Don't tell Gus.
-    댄: 치킨 리기스. 유티카 암라네 거. 거스한텐 말하지 마세요.
+046. DAN: Chicken riggies from Amra's in Utica, but don't tell Gus.
+    댄: 유티카 암라네 치킨 리기스요. 거스한텐 말하지 마세요.
 
 047. AUDIENCE: [laughter]
     청중: [웃음]
 
 048. MODERATOR: Governor, Bills or Giants?
-    진행자: 주지사님, 빌스예요, 자이언츠예요?
+    진행자: 주지사님, 빌스요, 자이언츠요?
 
-049. HARTLEY: Bills. Always. I'd lose Erie County if I said anything else.
-    하틀리: 빌스. 언제나. 다른 말 하면 이리 카운티를 잃어요.
+049. HARTLEY: Bills, always, because I'd lose Erie County if I said anything else.
+    하틀리: 빌스. 언제나. 딴 데 말하면 이리 카운티를 잃어요.
 
 050. MODERATOR: Congressman, Mets or Yankees?
-    진행자: 의원님, 메츠예요, 양키스예요?
+    진행자: 의원님, 메츠요, 양키스요?
 
-051. DAN: Mets. Forty years. It's a form of suffering. Like upstate winters.
-    댄: 메츠. 40년. 일종의 고행이죠. 업스테이트 겨울처럼.
+051. DAN: Mets, for forty years, which is a form of suffering, like upstate winters.
+    댄: 메츠요. 40년째. 일종의 고행이죠. 업스테이트 겨울처럼요.
 
-052. VICTORIA: No. No jokes about winters. Don't.
+052. VICTORIA: No, no jokes about winters. Don't.
     빅토리아: 안 돼. 겨울 농담 하지 마. 하지 마.
 
-053. AISHA: It was small. It was fine. Breathe, Victoria. Just breathe.
+053. AISHA: It was small and it was fine, so breathe, Victoria, just breathe.
     아이샤: 작은 거였어요. 괜찮았어요. 숨 쉬어요, 빅토리아. 그냥 숨 쉬어요.
 
-054. MODERATOR: Last lightning question. For both of you. Congressman first. In one sentence: what's something about upstate New York you didn't understand before this campaign?
-    진행자: 마지막 번개 질문입니다. 두 분 모두. 의원님 먼저. 한 문장으로: 이번 선거 전에 업스테이트 뉴욕에 대해 이해하지 못했던 게 뭡니까?
+054. MODERATOR: Here's the last lightning question for both of you, Congressman first. In one sentence, what's something about upstate New York you didn't understand before this campaign?
+    진행자: 마지막 번개 질문은 두 분 모두에게 드립니다. 의원님 먼저요. 한 문장으로, 이번 선거 전에 업스테이트 뉴욕에 대해 몰랐던 게 뭡니까?
 
 055. DAN: Honestly? How far everything is. Back in the city, I used to think upstate was a place you drive through on the way to Canada.
-    댄: 솔직히요? 모든 게 얼마나 먼지요. 도시에 있을 땐 업스테이트를 캐나다 가는 길에 지나가는 곳이라고 생각했어요.
+    댄: 솔직히요? 모든 게 얼마나 먼지요. 도시에 있을 땐 업스테이트가 캐나다 가는 길에 지나가는 곳인 줄 알았어요.
 
 056. AUDIENCE: [a few laughs]
-    청중: [몇 명 웃음]
+    청중: [몇몇 웃음]
 
 057. DAN: And some of these towns, honestly, you drive in, and it feels like they've just given up. That's what I didn't understand. Why.
-    댄: 그리고 어떤 마을들은, 솔직히, 들어가 보면 그냥 포기해 버린 것 같아요. 그게 제가 이해하지 못했던 거예요. 왜인지.
+    댄: 그리고 솔직히 어떤 마을들은 차로 들어가 보면 그냥 포기한 것 같은 느낌이에요. 그게 제가 몰랐던 거예요. 왜인지.
 
 058. AUDIENCE: [silence]
-    청중: [침묵]
+    청중: [정적]
 
 059. VICTORIA: Oh no.
-    빅토리아: 아 이런.
+    빅토리아: 아, 안 돼.
 
-060. AISHA: What? He said "why." He meant why the government gave up—
-    아이샤: 뭐요? "왜"라고 했잖아요. 정부가 왜 포기했는지를—
+060. AISHA: What? He said "why," and he meant why the government gave up—
+    아이샤: 왜요? "왜"라고 했잖아요. 정부가 왜 포기했는지를 말한—
 
-061. VICTORIA: It doesn't matter what he meant. Listen to the room. The room went quiet. When a room goes quiet like that, it heard something.
-    빅토리아: 무슨 뜻이었는지는 상관없어. 방 소리를 들어 봐. 조용해졌잖아. 방이 저렇게 조용해지면 뭔가를 들은 거야.
+061. VICTORIA: It doesn't matter what he meant, so listen to the room. The room went quiet, and when a room goes quiet like that, it heard something.
+    빅토리아: 무슨 뜻이었는지는 상관없어. 방 분위기를 들어 봐. 조용해졌잖아. 방이 저렇게 조용해지면 뭔가를 들은 거야.
 
-062. MARTY: "They've given up." Three words. Oy. Oy, oy, oy.
-    마티: "포기해 버렸다." 세 단어. 아이고. 아이고, 아이고.
+062. MARTY: "They've given up" is three words. Oy, oy, oy, oy.
+    마티: "포기했다." 세 단어. 어이구. 어이구, 어이구, 어이구.
 
-063. JUNE: The clip's already cut. "Reardon: Upstate Towns Have Given Up."
+063. JUNE: The clip's already cut: "Reardon: Upstate Towns Have Given Up."
     준: 클립 벌써 잘렸어요. "레이든: 업스테이트 마을들은 포기했다."
 
-064. MODERATOR: Governor, same question.
+064. MODERATOR: Governor, it's the same question for you.
     진행자: 주지사님, 같은 질문입니다.
 
-065. HARTLEY: Before I answer. I'm going to say something the Congressman probably didn't mean. But he said it. I've plowed roads in two hundred towns in this state. Not one of them has given up.
-    하틀리: 대답하기 전에요. 의원님이 아마 의도하지 않으셨을 말을 하겠습니다. 하지만 하셨죠. 저는 이 주의 마을 2백 곳에서 눈을 치웠습니다. 그중 한 곳도 포기하지 않았습니다.
+065. HARTLEY: Before I answer, I'm going to say something the Congressman probably didn't mean, but he said it. I've plowed roads in two hundred towns in this state, and not one of them has given up.
+    하틀리: 대답하기 전에 한마디 하죠. 의원님이 그런 뜻은 아니었겠지만 그렇게 말했어요. 저는 이 주의 마을 2백 곳에서 눈을 치웠습니다. 포기한 마을은 단 한 곳도 없습니다.
 
 066. AUDIENCE: [applause]
     청중: [박수]
 
-067. HARTLEY: Watertown hasn't given up. Lackawanna hasn't given up. Hollow hasn't given up. They've been given up on. By Washington. That's different. That's my answer.
-    하틀리: 워터타운은 포기하지 않았습니다. 래커워너도 포기하지 않았습니다. 할로도 포기하지 않았습니다. 그들은 버림받았습니다. 워싱턴에. 그건 다릅니다. 그게 제 대답입니다.
+067. HARTLEY: Watertown hasn't given up, Lackawanna hasn't given up, and Hollow hasn't given up. They've been given up on, by Washington, and that's different. That's my answer.
+    하틀리: 워터타운은 포기하지 않았습니다. 래커워너도, 할로도 포기하지 않았어요. 그들은 버림받은 겁니다. 워싱턴한테요. 그건 다른 얘기죠. 그게 제 대답입니다.
 
 068. AUDIENCE: [louder applause]
-    청중: [더 큰 박수]
+    청중: [더 커진 박수]
 
-069. MARTY: He said what you meant. Better than you. On your stage. With your words. That's the whole race, boychik. Right there.
-    마티: 그 사람이 네가 하려던 말을 했어. 너보다 잘. 네 무대에서. 네 단어로. 그게 선거 전체야, 얘야. 바로 저기.
+069. MARTY: He said what you meant, better than you, on your stage, with your words. That's the whole race, boychik, right there.
+    마티: 네가 뜻한 걸 그 사람이 말했어. 너보다 잘. 네 무대에서, 네 말로. 그게 이 선거 전부야, 보이칙. 바로 저기.
 
-070. DAN: Did I—? What did I say? I said "why." I meant why nobody helped them.
-    댄: 내가—? 뭐라고 했지? "왜"라고 했는데. 왜 아무도 안 도왔는지를 말한 건데.
+070. DAN: Did I—? What did I say? I said "why," and I meant why nobody helped them.
+    댄: 내가—? 내가 뭐라고 했어? "왜"라고 했잖아. 왜 아무도 안 도왔는지를 말한 건데.
 
-071. MODERATOR: Closing statements. Governor Hartley, two minutes. The Congressman will have the last word.
-    진행자: 마무리 발언입니다. 하틀리 주지사님, 2분. 의원님께서 마지막 발언을 하십니다.
+071. MODERATOR: It's time for closing statements. Governor Hartley, you have two minutes, and the Congressman will have the last word.
+    진행자: 마무리 발언 시간입니다. 하틀리 주지사님, 2분입니다. 의원님이 마지막 발언을 하십니다.
 
-072. HARTLEY: I'll keep it short. Plow first, talk later. I've been plowing for eight years. The Congressman has been talking for four. Tonight, you heard both.
-    하틀리: 짧게 하겠습니다. 먼저 치우고, 말은 나중에. 저는 8년 동안 치웠습니다. 의원님은 4년 동안 말했습니다. 오늘 밤 둘 다 들으셨습니다.
+072. HARTLEY: I'll keep it short: plow first, talk later. I've been plowing for eight years, and the Congressman has been talking for four, and tonight you heard both.
+    하틀리: 짧게 하겠습니다. 먼저 치우고, 말은 나중에. 저는 8년 동안 눈을 치웠고, 의원님은 4년 동안 말을 했습니다. 오늘 밤 둘 다 들으셨죠.
 
-073. HARTLEY: He's a good man. I mean that. But you don't send someone to Washington to figure out why your town gave up. You send someone who knows it didn't.
-    하틀리: 그는 좋은 사람입니다. 진심입니다. 하지만 당신 마을이 왜 포기했는지 알아내라고 누군가를 워싱턴에 보내진 않죠. 포기하지 않았다는 걸 아는 사람을 보냅니다.
+073. HARTLEY: He's a good man, and I mean that. But you don't send someone to Washington to figure out why your town gave up. You send someone who knows it didn't.
+    하틀리: 좋은 사람입니다. 진심입니다. 하지만 여러분 마을이 왜 포기했는지 알아내라고 누군가를 워싱턴에 보내진 않습니다. 포기하지 않았다는 걸 아는 사람을 보내죠.
 
 074. AUDIENCE: [applause]
     청중: [박수]
 
-075. MODERATOR: Congressman Reardon. Two minutes. The last word.
-    진행자: 레이든 의원님. 2분. 마지막 발언입니다.
+075. MODERATOR: Congressman Reardon, you have two minutes and the last word.
+    진행자: 레이든 의원님, 2분, 마지막 발언입니다.
 
-076. VICTORIA: Fix it now. Say "I said that wrong." Say it first.
-    빅토리아: 지금 고쳐. "제가 잘못 말했습니다"라고 해. 먼저 말해.
+076. VICTORIA: Fix it now. Say "I said that wrong," and say it first.
+    빅토리아: 지금 고쳐. "제가 잘못 말했습니다"라고 해. 그걸 먼저 해.
 
-077. DAN: Thank you, Jim. Thank you, Governor. I've spent six months in barns and diners and steel halls. I've learned more than I've learned in any year of my life.
+077. DAN: Thank you, Jim, and thank you, Governor. I've spent six months in barns, diners, and steel halls, and I've learned more than in any year of my life.
     댄: 감사합니다, 짐. 감사합니다, 주지사님. 저는 여섯 달을 헛간과 다이너와 철강 회관에서 보냈습니다. 제 인생 어느 해보다 많이 배웠습니다.
 
-078. VICTORIA: No. Not that. The other thing. The three words.
-    빅토리아: 아니. 그거 말고. 다른 거. 그 세 단어.
+078. VICTORIA: No, not that, the other thing, the three words.
+    빅토리아: 아니, 그거 말고. 다른 거. 그 세 단어.
 
-079. DAN: A dairy farmer in Canton told me, "We're not a photograph." A guard in Hollow said sorry to a man he locked up for twelve years. A nurse in Utica told the truth in her scrubs.
-    댄: 캔턴의 낙농업자는 "우린 사진이 아니다"라고 했습니다. 할로의 교도관은 12년 동안 가둔 사람에게 미안하다고 했습니다. 유티카의 간호조무사는 근무복을 입고 진실을 말했습니다.
+079. DAN: A dairy farmer in Canton told me, "We're not a photograph." A guard in Hollow said sorry to a man he locked up for twelve years, and a nurse in Utica told the truth in her scrubs.
+    댄: 캔턴의 낙농업자가 저한테 "우린 사진이 아니다"라고 했습니다. 할로의 교도관은 12년간 가둬 둔 사람에게 미안하다고 했고, 유티카의 간호사는 근무복 차림으로 진실을 말했습니다.
 
-080. DAN: I want to go to Washington for them. Let me say it plain. I'm asking for your vote. Thank you.
-    댄: 그분들을 위해 워싱턴에 가고 싶습니다. 쉽게 말하겠습니다. 여러분의 표를 부탁드립니다. 감사합니다.
+080. DAN: I want to go to Washington for them, so let me say it plain: I'm asking for your vote. Thank you.
+    댄: 저는 그분들을 위해 워싱턴에 가고 싶습니다. 쉽게 말하겠습니다. 여러분의 표를 부탁드립니다. 감사합니다.
 
-081. VICTORIA: He didn't fix it. He had two minutes and he didn't fix it.
+081. VICTORIA: He didn't fix it. He had two minutes, and he didn't fix it.
     빅토리아: 안 고쳤어. 2분이 있었는데 안 고쳤어.
 
-082. AISHA: He doesn't know. Look at his face. He doesn't know what happened.
+082. AISHA: He doesn't know, so look at his face. He doesn't know what happened.
     아이샤: 몰라요. 얼굴 봐요. 무슨 일이 있었는지 몰라요.
 
-083. MARTY: That's the worst kind of gaffe. The kind you don't hear yourself say.
+083. MARTY: That's the worst kind of gaffe, the kind you don't hear yourself say.
     마티: 그게 최악의 말실수야. 자기가 한 말을 자기가 못 듣는 거.
 
-084. MODERATOR: That's our debate. Thank you both. Good night from Albany.
-    진행자: 토론을 마칩니다. 두 분 감사합니다. 올버니에서 안녕히 주무십시오.
+084. MODERATOR: That's our debate, and thank you both. Good night from Albany.
+    진행자: 토론은 여기까지입니다. 두 분 감사합니다. 올버니에서 안녕히 주무십시오.
 
-085. HARTLEY: Congressman. Off camera. Good closing. You didn't fix the line.
-    하틀리: 의원님. 카메라 밖에서요. 좋은 마무리였어요. 그 문장은 안 고쳤네요.
+085. HARTLEY: Congressman, off camera: that was a good closing, but you didn't fix the line.
+    하틀리: 의원님, 카메라 밖에서 하는 말인데, 마무리 좋았어요. 그런데 그 말은 안 고쳤네요.
 
-086. DAN: What line?
-    댄: 무슨 문장이요?
+086. DAN: What line are you talking about, Governor?
+    댄: 무슨 말 말씀하시는 거예요, 주지사님?
 
-087. HARTLEY: "They've given up." I gave you the last word in July. I thought you'd use it on my veto. I didn't think you'd need it for yourself. I'm sorry. I'm not sorry. Both.
-    하틀리: "포기해 버렸다." 7월에 마지막 발언을 드렸잖아요. 내 거부권에 쓰실 줄 알았지요. 의원님 자신을 위해 필요할 줄은 몰랐어요. 미안해요. 안 미안하고. 둘 다.
+087. HARTLEY: "They've given up." I gave you the last word in July, because I thought you'd use it on my veto. I didn't think you'd need it for yourself. I'm sorry, and I'm not sorry, both.
+    하틀리: "포기했다." 7월에 마지막 발언을 드린 건 내 거부권을 공격하는 데 쓰실 줄 알아서였어요. 자기 자신한테 필요할 줄은 몰랐죠. 미안해요. 안 미안하기도 하고요. 둘 다.
 
 088. DAN: Governor, I meant—
     댄: 주지사님, 제 뜻은—
 
-089. HARTLEY: I know what you meant. I said it for you. That's why it hurts.
-    하틀리: 무슨 뜻인지 알아요. 내가 대신 말했잖아요. 그래서 아픈 거예요.
+089. HARTLEY: I know what you meant, so I said it for you, and that's why it hurts.
+    하틀리: 무슨 뜻인지 알아요. 그래서 내가 대신 말한 거예요. 그래서 아픈 거고요.
 
-090. GIL: Danny. Get on the bus. Don't look at your phone. I'm saying this as a bus driver. Some nights you don't look at the phone.
-    길: 대니. 버스 타. 전화 보지 마. 버스 기사로서 하는 말이야. 어떤 밤엔 전화를 안 보는 거야.
+090. GIL: Danny, get on the bus, and don't look at your phone. I'm saying this as a bus driver: some nights you don't look at the phone.
+    길: 대니, 버스 타. 폰 보지 마. 버스 기사로서 하는 말이야. 어떤 밤엔 폰을 안 보는 거야.
 
-091. DAN: What did I say, June? Exactly. Read it to me.
-    댄: 내가 뭐라고 했어요, 준? 정확히. 읽어 줘요.
+091. DAN: What did I say, June, exactly? Read it to me.
+    댄: 내가 뭐라고 했어요, 준? 정확히요. 읽어 줘요.
 
-092. JUNE: "Some of these towns, honestly, you drive in, and it feels like they've just given up." It's everywhere. It's been eleven minutes.
-    준: "어떤 마을들은, 솔직히, 들어가 보면 그냥 포기해 버린 것 같아요." 사방에 있어요. 11분 됐어요.
+092. JUNE: "Some of these towns, honestly, you drive in, and it feels like they've just given up." It's everywhere, and it's been eleven minutes.
+    준: "솔직히 어떤 마을들은 차로 들어가 보면 그냥 포기한 것 같은 느낌이에요." 사방에 퍼졌어요. 11분 만에요.
 
-093. DAN: I said "why" after that. "That's what I didn't understand. Why."
-    댄: 그다음에 "왜"라고 했잖아요. "그게 제가 이해하지 못했던 거예요. 왜인지."
+093. DAN: I said "why" after that: "That's what I didn't understand. Why."
+    댄: 그 뒤에 "왜"라고 했잖아요. "그게 제가 몰랐던 거예요. 왜인지."
 
-094. JUNE: The clip stops before "why." Every version. They cut it at "given up." Like Binghamton. Like the coffee.
-    준: 클립은 "왜" 전에 끝나요. 모든 버전이요. "포기했다"에서 잘랐어요. 빙엄턴처럼. 그 커피처럼.
+094. JUNE: The clip stops before "why" in every version, because they cut it at "given up," like Binghamton and the coffee.
+    준: 클립은 버전마다 "왜" 전에 끊겨요. "포기했다"에서 잘라요. 빙엄턴처럼요. 커피처럼요.
 
-095. DAN: Then we put out the whole sentence. With "why." The whole sentence. Like Bernadette.
-    댄: 그럼 문장 전체를 내요. "왜"까지. 문장 전체. 버나뎃처럼.
+095. DAN: Then we put out the whole sentence, with "why," like we did with Bernadette.
+    댄: 그럼 문장 전체를 내보내요. "왜"까지. 버나뎃 때처럼요.
 
-096. MARTY: Boychik. The whole sentence is worse. Much worse. Trust me.
-    마티: 얘야. 문장 전체가 더 나빠. 훨씬. 믿어.
+096. MARTY: Boychik, the whole sentence is worse, much worse, so trust me.
+    마티: 보이칙, 문장 전체가 더 나빠. 훨씬 더. 날 믿어.
 
 097. DAN: How can the whole sentence be worse than the clip?
-    댄: 문장 전체가 어떻게 클립보다 나빠요?
+    댄: 어떻게 문장 전체가 클립보다 나빠요?
 
-098. MARTY: Because the whole sentence says you drove into a town and thought it had given up, and you didn't understand why. That's not a cut. That's what you said. That's what people heard.
-    마티: 문장 전체는 네가 어떤 마을에 들어가서 포기한 것 같다고 생각했고, 왜인지 몰랐다는 거니까. 그건 잘라 낸 게 아니야. 네가 한 말이야. 사람들이 들은 거고.
+098. MARTY: Because the whole sentence says you drove into a town, thought it had given up, and didn't understand why. That's not a cut, that's what you said, and that's what people heard.
+    마티: 문장 전체는 네가 마을에 들어가서 포기했다고 생각했고 그 이유를 몰랐다는 얘기거든. 그건 잘라 낸 게 아니야. 네가 한 말이고, 사람들이 들은 말이야.
 
-099. AISHA: He's right. I hate it. He's right. This isn't the coffee clip, Dan. This isn't out of context. In context, it's still bad.
-    아이샤: 마티 말이 맞아요. 싫지만. 맞아요. 이건 커피 클립이 아니에요, 댄. 맥락에서 잘린 것도 아니고요. 맥락 안에서도 나빠요.
+099. AISHA: He's right, and I hate it, but he's right. This isn't the coffee clip, Dan, and it isn't out of context. In context, it's still bad.
+    아이샤: 맞아요. 싫지만 맞아요. 이건 커피 클립이 아니에요, 댄. 맥락을 자른 게 아니에요. 맥락 안에서도 나빠요.
 
-100. VICTORIA: It's a real gaffe. Not a fake one. A fake gaffe is a cut. A real gaffe is when you said what you said. And you meant something kinder. And nobody can hear the kinder part.
-    빅토리아: 진짜 말실수야. 가짜 말고. 가짜 말실수는 잘라 낸 거고. 진짜 말실수는 네가 한 말을 네가 한 거야. 더 친절한 뜻이었지만. 아무도 그 친절한 부분을 못 듣는 거지.
+100. VICTORIA: It's a real gaffe, not a fake one, because a fake gaffe is a cut. A real gaffe is when you said what you said, and you meant something kinder, and nobody can hear the kinder part.
+    빅토리아: 진짜 말실수야. 가짜가 아니라. 가짜 말실수는 잘라 낸 거고, 진짜 말실수는 한 말 그대로인데 더 따뜻한 뜻이었고, 아무도 그 따뜻한 부분을 못 듣는 거야.
 
-101. DAN: Phones. Everybody's phone is buzzing at once. All of them.
-    댄: 전화. 다들 전화가 동시에 울리네요. 전부.
+101. DAN: Everybody's phone is buzzing at once, all of them.
+    댄: 다들 폰이 한꺼번에 울려요. 전부 다.
 
-102. JUNE: I'll read them. Don't touch yours. Stan Wojcik. "Buffalo never left. You said that. Remember?"
-    준: 내가 읽을게요. 당신 건 만지지 마요. 스탠 보이칙. "버펄로는 떠난 적 없다. 당신이 한 말이요. 기억해요?"
+102. JUNE: I'll read them, so don't touch yours. Stan Wojcik writes, "Buffalo never left. You said that, remember?"
+    준: 제가 읽을게요. 당신 건 만지지 마요. 스탠 보이치크가 썼어요. "버펄로는 떠난 적이 없다. 당신이 그렇게 말했잖소, 기억하오?"
 
-103. DAN: I remember.
-    댄: 기억해요.
+103. DAN: I remember saying it, in that hall in May.
+    댄: 기억해요. 5월에 그 회관에서 했던 말이요.
 
-104. JUNE: Pastor Mercer. "Hollow hasn't given up. The Governor said it. You should have."
-    준: 머서 목사님. "할로는 포기하지 않았어요. 주지사가 말했죠. 당신이 했어야 했어요."
+104. JUNE: Pastor Mercer says, "Hollow hasn't given up. The Governor said it, but you should have."
+    준: 머서 목사님. "할로는 포기하지 않았어요. 주지사님이 말했죠. 의원님이 했어야 했는데."
 
-105. JUNE: Connie. From Binghamton. "I open at five. Every day. Since 1994. Is that giving up?"
-    준: 코니. 빙엄턴. "난 다섯 시에 열어요. 매일. 1994년부터. 그게 포기예요?"
+105. JUNE: Connie from Binghamton says, "I open at five every day, since 1994. Is that giving up?"
+    준: 빙엄턴의 코니. "난 1994년부터 매일 다섯 시에 열어요. 그게 포기한 거예요?"
 
-106. DAN: Stop. June. Stop reading.
-    댄: 그만. 준. 그만 읽어요.
+106. DAN: Stop, June, and stop reading.
+    댄: 그만해요, 준. 그만 읽어요.
 
-107. JUNE: One more. You need to hear this one. Marie Duquette. "Dad turned off the TV. He didn't say anything. Not even 'huh.'"
-    준: 하나만 더요. 이건 들어야 해요. 마리 듀켓. "아빠가 TV를 껐어요. 아무 말도 안 했어요. '흠'도 안 했어요."
+107. JUNE: One more, because you need to hear this one, from Marie Duquette: "Dad turned off the TV. He didn't say anything, not even 'huh.'"
+    준: 하나만 더요. 이건 들어야 해요. 마리 듀켓이요. "아빠가 TV를 껐어요. 아무 말도 안 했어요. '흠'조차도요."
 
 108. DAN: Not even "huh."
-    댄: "흠"도 안 했다.
+    댄: "흠"조차도.
 
-109. AISHA: That's the worst one. I know. I'm sorry, Dan. I really am.
-    아이샤: 그게 제일 나쁜 거죠. 알아요. 미안해요, 댄. 진심으로.
+109. AISHA: That's the worst one, I know, and I'm sorry, Dan, I really am.
+    아이샤: 그게 제일 아프죠. 알아요. 미안해요, 댄. 정말로요.
 
-110. REBECCA: Congressman. Rebecca Stone. I'm at the bus door. I know it's late. Do you want to clarify? On the record? Everybody's asking what you meant.
-    레베카: 의원님. 레베카 스톤이에요. 버스 문 앞에 있어요. 늦은 거 알아요. 해명하시겠어요? 공식으로요? 다들 무슨 뜻이었는지 물어요.
+110. REBECCA: Congressman, it's Rebecca Stone at the bus door, and I know it's late. Do you want to clarify on the record, since everybody's asking what you meant?
+    레베카: 의원님, 레베카 스톤이에요. 버스 문 앞이에요. 늦은 거 알아요. 공식적으로 해명하시겠어요? 다들 무슨 뜻이었냐고 물어요.
 
-111. JUNE: We have a statement. I wrote it during the closing. "The Congressman was referring to decades of federal neglect, not the people of upstate New York." It's ready.
-    준: 성명 있어요. 마무리 발언 때 썼어요. "의원은 업스테이트 주민이 아니라 수십 년간의 연방 정부의 방치를 말한 것입니다." 준비됐어요.
+111. JUNE: We have a statement that I wrote during the closing: "The Congressman was referring to decades of federal neglect, not the people of upstate New York." It's ready.
+    준: 성명 있어요. 마무리 발언 때 썼어요. "의원은 업스테이트 주민이 아니라 수십 년간의 연방 정부의 방치를 언급한 것입니다." 준비됐어요.
 
-112. MARTY: That's spin. In English: you tell people what you meant instead of what you said. It sometimes works. Not tonight.
-    마티: 그게 스핀이야. 쉽게 말하면, 네가 한 말 대신 네가 의도한 걸 사람들한테 말해 주는 거지. 가끔 먹혀. 오늘 밤은 아니야.
+112. MARTY: That's spin, which in English means you tell people what you meant instead of what you said. It sometimes works, but not tonight.
+    마티: 그게 스핀이야. 쉽게 말하면 네가 한 말 대신 네 뜻을 말해 주는 거지. 가끔은 먹혀. 오늘 밤은 아니야.
 
-113. DAN: Rebecca, give me a minute. Off the bus. I need a minute.
-    댄: 레베카, 잠깐만요. 버스 밖에서. 잠깐만요.
+113. DAN: Rebecca, give me a minute off the bus, because I need a minute.
+    댄: 레베카, 버스 밖에서 잠깐만요. 잠깐 시간이 필요해요.
 
-114. ELENA: Danny. I watched. Sam watched. Sam's on the other line. He wants to talk to you first. Before me.
-    엘레나: 대니. 봤어. 샘도 봤어. 샘이 다른 전화에 있어. 나보다 먼저 아빠랑 얘기하고 싶대.
+114. ELENA: Danny, I watched, and Sam watched. Sam's on the other line, and he wants to talk to you first, before me.
+    엘레나: 대니, 봤어. 샘도 봤어. 샘이 다른 전화에 있어. 나보다 먼저 당신이랑 얘기하고 싶대.
 
-115. SAM: Dad. Ana texted me. Right after.
-    샘: 아빠. 아나가 문자 했어. 끝나자마자.
+115. SAM: Dad, Ana texted me right after.
+    샘: 아빠, 끝나자마자 아나가 문자 했어.
 
-116. DAN: What did she say?
-    댄: 뭐래?
+116. DAN: What did she say to you, Sam?
+    댄: 아나가 뭐라고 했어, 샘?
 
-117. SAM: "Why did your dad say we gave up? Pickle didn't give up. She gained eleven pounds." That's all. Then she stopped texting.
-    샘: "너네 아빠 왜 우리가 포기했다고 했어? 피클은 포기 안 했어. 11파운드 쪘어." 그게 다야. 그러고 문자 안 해.
+117. SAM: "Why did your dad say we gave up? Pickle didn't give up. She gained eleven pounds." That's all, and then she stopped texting.
+    샘: "너희 아빠는 왜 우리가 포기했다고 해? 피클은 포기 안 했어. 11파운드 쪘어." 그게 다야. 그러고 문자 끊었어.
 
-118. DAN: Sam. I'm sorry.
-    댄: 샘. 미안해.
+118. DAN: Sam, I'm sorry.
+    댄: 샘, 미안해.
 
-119. SAM: Don't say sorry to me. I didn't give up. Say sorry to Ana. And Walt. And the lady with the scrubs. Not in an ad. In person.
-    샘: 나한테 미안하다고 하지 마. 난 포기 안 했어. 아나한테 미안하다고 해. 그리고 월트. 그리고 근무복 아줌마. 광고 말고. 직접.
+119. SAM: Don't say sorry to me, because I didn't give up. Say sorry to Ana, and Walt, and the lady with the scrubs, not in an ad, but in person.
+    샘: 나한테 미안하다고 하지 마. 난 포기 안 했어. 아나한테 미안하다고 해. 월트 아저씨랑 근무복 입은 아주머니한테도. 광고 말고 직접.
 
 120. DAN: In person.
     댄: 직접.
 
-121. SAM: That's what you made me do with Mason. In January. In the principal's office. You said, "You say it to his face." You said it was the only kind that counts.
-    샘: 메이슨 때 아빠가 나한테 시킨 거잖아. 1월에. 교장실에서. "얼굴 보고 말해"라고 했잖아. 그게 유일하게 쳐주는 거라고.
+121. SAM: That's what you made me do with Mason in January, in the principal's office. You said, "You say it to his face," and you said it was the only kind that counts.
+    샘: 1월에 메이슨이랑 교장실에서 나한테 시킨 거잖아. "얼굴 보고 말하는 거야"라고 했잖아. 그게 유일하게 쳐주는 사과라고.
 
-122. ELENA: He remembers everything. Like Hartley.
-    엘레나: 쟤는 다 기억해. 하틀리처럼.
+122. ELENA: He remembers everything, Danny, just like Hartley does.
+    엘레나: 쟤는 다 기억해, 대니. 꼭 하틀리처럼.
 
-123. DAN: Elena. I didn't hear myself. I said it, and I didn't hear it. Victoria heard it. Aisha heard it. Two million people heard it. I didn't.
-    댄: 엘레나. 내가 내 말을 못 들었어. 말했는데 못 들었어. 빅토리아는 들었고. 아이샤도 들었고. 2백만 명이 들었는데. 난 못 들었어.
+123. DAN: Elena, I didn't hear myself. I said it, and I didn't hear it. Victoria heard it, Aisha heard it, and two million people heard it, but I didn't.
+    댄: 엘레나, 내 말을 내가 못 들었어. 말해 놓고 못 들었어. 빅토리아도 들었고 아이샤도 들었고 2백만 명이 들었는데, 나만 못 들었어.
 
-124. ELENA: You were tired. You slept four hours. Tired people don't hear themselves. I see it in the ER every night. Doctors who don't hear themselves. That's when patients get hurt.
-    엘레나: 피곤했잖아. 네 시간 잤어. 피곤한 사람은 자기 말을 못 들어. 응급실에서 매일 밤 봐. 자기 말을 못 듣는 의사들. 그때 환자들이 다쳐.
+124. ELENA: You were tired, because you slept four hours, and tired people don't hear themselves. I see it in the ER every night, with doctors who don't hear themselves, and that's when patients get hurt.
+    엘레나: 피곤했잖아. 네 시간 잤어. 피곤한 사람은 자기 말을 못 들어. 응급실에서 매일 밤 봐. 자기 말을 못 듣는 의사들. 그럴 때 환자가 다쳐.
 
-125. DAN: What do the doctors do? After?
-    댄: 그 의사들은 어떻게 해? 그다음에?
+125. DAN: And what do the good doctors do after that?
+    댄: 그럼 좋은 의사들은 그 뒤에 어떻게 해?
 
-126. ELENA: The good ones go back to the patient. Not to the lawyer. Not to the chart. The patient. And they say, "I made a mistake. Here's what I did." No excuses. Then they listen.
-    엘레나: 좋은 의사들은 환자한테 돌아가. 변호사 말고. 차트 말고. 환자한테. 그리고 말해. "제가 실수했습니다. 이렇게 했습니다." 변명 없이. 그다음엔 들어.
+126. ELENA: The good ones go back to the patient, not to the lawyer or the chart, and they say, "I made a mistake, and here's what I did." They make no excuses, and then they listen.
+    엘레나: 좋은 의사는 환자한테 돌아가. 변호사나 차트한테 말고. 그리고 "제가 실수했습니다, 제가 이렇게 했습니다"라고 말해. 변명은 안 하고. 그다음엔 들어.
 
 127. DAN: No excuses.
     댄: 변명 없이.
 
-128. ELENA: No "what I meant was." Nobody cares what you meant at two a.m. with a broken arm. They care that you came back.
-    엘레나: "제 뜻은요" 없이. 새벽 두 시에 팔 부러진 사람은 당신 뜻이 뭐였는지 관심 없어. 다시 와 줬다는 게 중요하지.
+128. ELENA: There's no "what I meant was," because nobody cares what you meant at two a.m. with a broken arm. They care that you came back.
+    엘레나: "제 뜻은요" 같은 거 없이. 새벽 두 시에 팔 부러진 사람은 당신 뜻 따위 신경 안 써. 당신이 돌아왔다는 걸 신경 쓰지.
 
-129. DAN: Then I'll go back. Tomorrow. Starting in Canton. At the barn.
-    댄: 그럼 돌아갈게. 내일. 캔턴부터. 헛간에서.
+129. DAN: Then I'll go back tomorrow, starting at the barn in Canton.
+    댄: 그럼 내일 돌아갈게. 캔턴 헛간부터.
 
-130. ELENA: Not tonight. Tonight, sleep. Then go back. That's an order. From a doctor. And a wife. Come home when you can.
-    엘레나: 오늘 밤은 말고. 오늘 밤은 자. 그다음에 돌아가. 명령이야. 의사로서. 그리고 아내로서. 될 때 집에 와.
+130. ELENA: Not tonight, because tonight you sleep, and then you go back. That's an order from a doctor and a wife, so come home when you can.
+    엘레나: 오늘 밤은 안 돼. 오늘 밤엔 자. 그다음에 가. 의사이자 아내로서 하는 명령이야. 올 수 있을 때 집에 와.
 
-131. DAN: Rebecca. On the record. Are you ready?
-    댄: 레베카. 공식으로요. 준비됐어요?
+131. DAN: Rebecca, on the record, are you ready?
+    댄: 레베카, 공식적으로요. 준비됐어요?
 
-132. REBECCA: Ready. Go.
-    레베카: 됐어요. 하세요.
+132. REBECCA: I'm ready, Congressman, so go ahead whenever you are.
+    레베카: 준비됐어요, 의원님. 편할 때 말씀하세요.
 
-133. JUNE: Dan, use the statement. Please. "Decades of federal neglect." It's true. It's what you meant.
-    준: 댄, 성명 써요. 제발요. "수십 년간의 연방 정부의 방치." 사실이잖아요. 당신이 하려던 말이고요.
+133. JUNE: Dan, use the statement, please: "decades of federal neglect." It's true, and it's what you meant.
+    준: 댄, 제발 성명 써요. "수십 년간의 연방 정부의 방치." 사실이잖아요. 당신 뜻이고요.
 
-134. DAN: It's what I meant. It's not what I said. On the record. I said some towns upstate feel like they've given up. That was wrong. I'm sorry.
-    댄: 내가 하려던 말이죠. 내가 한 말은 아니에요. 공식으로요. 업스테이트의 어떤 마을들이 포기한 것 같다고 말했습니다. 그건 틀렸습니다. 죄송합니다.
+134. DAN: It's what I meant. It's not what I said. On the record: I said some towns upstate feel like they've given up, and that was wrong. I'm sorry.
+    댄: 그건 내 뜻이었죠. 내가 한 말은 아니에요. 공식적으로 말할게요. 저는 업스테이트의 어떤 마을들이 포기한 것 같다고 말했습니다. 잘못된 말이었습니다. 죄송합니다.
 
-135. REBECCA: That's it? No "what I meant"?
-    레베카: 그게 다예요? "제 뜻은" 없이요?
+135. REBECCA: That's it? There's no "what I meant" at all?
+    레베카: 그게 다예요? "제 뜻은" 같은 건 전혀 없이요?
 
-136. DAN: No "what I meant." Nobody cares what I meant. They care what I said. I said it. Tomorrow, I'm going back. To say it to their faces.
-    댄: "제 뜻은" 없어요. 내 뜻은 아무도 관심 없어요. 내가 한 말이 중요하죠. 내가 했어요. 내일 돌아갑니다. 얼굴 보고 말하러.
+136. DAN: There's no "what I meant," because nobody cares what I meant, they care what I said. I said it, so tomorrow I'm going back to say it to their faces.
+    댄: "제 뜻은" 없어요. 아무도 내 뜻은 신경 안 써요. 내가 한 말을 신경 쓰죠. 내가 그렇게 말했으니, 내일 돌아가서 얼굴 보고 말할 거예요.
 
-137. REBECCA: Back where?
-    레베카: 어디로요?
+137. REBECCA: Back where, exactly, and starting when?
+    레베카: 정확히 어디로요? 언제부터요?
 
-138. DAN: Canton first. Then Hollow. Then Binghamton. Then Lackawanna. Then everywhere I've been. Every town on the bus route. I'm going to say sorry in each one.
-    댄: 캔턴 먼저. 그다음 할로. 그다음 빙엄턴. 그다음 래커워너. 그다음 내가 갔던 모든 곳. 버스 노선의 모든 마을. 하나하나 미안하다고 하러 갈 거예요.
+138. DAN: Canton first, then Hollow, then Binghamton, then Lackawanna, and then everywhere I've been on the bus route. I'm going to say sorry in each one.
+    댄: 캔턴 먼저, 그다음 할로, 빙엄턴, 래커워너, 그리고 버스로 다녀온 모든 곳이요. 한 곳 한 곳에서 사과할 거예요.
 
-139. REBECCA: Twenty days before the election. You're going to spend them apologizing?
-    레베카: 선거 20일 전이에요. 그걸 사과하는 데 쓰겠다고요?
+139. REBECCA: It's twenty days before the election, and you're going to spend them apologizing?
+    레베카: 선거까지 20일인데 그걸 사과하는 데 쓰신다고요?
 
-140. DAN: I'm going to spend them doing what I should have done in my closing. I had two minutes. I didn't use them. Now I have twenty days.
-    댄: 마무리 발언에서 했어야 할 일을 하는 데 쓸 거예요. 2분이 있었는데 안 썼어요. 이제 20일이 있어요.
+140. DAN: I'm going to spend them doing what I should have done in my closing. I had two minutes and didn't use them, and now I have twenty days.
+    댄: 마무리 발언 때 했어야 할 일을 하는 데 쓸 거예요. 2분이 있었는데 안 썼죠. 이제 20일이 있어요.
 
-141. REBECCA: Off the record? Most campaigns would call that suicide.
-    레베카: 비공식으로요? 대부분 캠프는 그걸 자살이라고 할 거예요.
+141. REBECCA: Off the record, most campaigns would call that suicide.
+    레베카: 비공식으로요. 대부분 캠프는 그걸 자살 행위라고 할 거예요.
 
-142. DAN: On the record. Most campaigns would be right. I'm doing it anyway.
-    댄: 공식으로요. 대부분 캠프가 맞을 거예요. 그래도 할 거예요.
+142. DAN: On the record, most campaigns would be right, but I'm doing it anyway.
+    댄: 공식적으로요. 대부분 캠프 말이 맞을 거예요. 그래도 할 거예요.
 
-143. AISHA: Okay. Facts first. Twenty days. We'll lose four points this week. Maybe five. Hartley goes up to ten. Maybe more.
-    아이샤: 자. 사실 먼저. 20일. 이번 주에 4포인트 잃을 거예요. 5포인트일 수도. 하틀리가 10까지 올라가요. 더 갈 수도 있고.
+143. AISHA: Okay, facts first: in twenty days, we'll lose four points this week, maybe five, and Hartley goes up to ten, maybe more.
+    아이샤: 자, 사실 먼저. 20일 남았어요. 이번 주에 4포인트, 어쩌면 5포인트 잃을 거예요. 하틀리는 10포인트 차, 아니면 그 이상으로 올라가고요.
 
-144. DAN: And then?
-    댄: 그리고 그다음엔?
+144. DAN: And then what happens after that, Aisha?
+    댄: 그다음엔 어떻게 돼요, 아이샤?
 
-145. AISHA: And then I don't know. Nobody's ever done this. Nobody's ever spent the last twenty days of a Senate race saying sorry. There's no data.
-    아이샤: 그다음엔 몰라요. 아무도 이런 적이 없어요. 상원 선거 마지막 20일을 미안하다고 말하며 보낸 사람은 없어요. 데이터가 없어요.
+145. AISHA: And then I don't know, because nobody's ever done this. Nobody's ever spent the last twenty days of a Senate race saying sorry, so there's no data.
+    아이샤: 그다음은 몰라요. 이런 걸 한 사람이 없으니까요. 상원 선거 마지막 20일을 사과하는 데 쓴 사람은 아무도 없었어요. 데이터가 없어요.
 
-146. VICTORIA: Then you'll be the data. Dan, I'll drive back to the city tonight. I'm not good at apology tours. I've never been on one.
-    빅토리아: 그럼 당신이 데이터가 되겠네. 댄, 난 오늘 밤 도시로 돌아갈게. 사과 투어는 잘 못해. 해 본 적이 없거든.
+146. VICTORIA: Then you'll be the data. Dan, I'll drive back to the city tonight, because I'm not good at apology tours, and I've never been on one.
+    빅토리아: 그럼 당신이 데이터가 되겠지. 댄, 난 오늘 밤 도시로 돌아갈게. 사과 투어는 내 전문이 아니야. 해 본 적도 없고.
 
-147. DAN: Thank you, Victoria. You told me. Don't be clever. I was clever.
-    댄: 고마워, 빅토리아. 말해 줬는데. 영리하게 굴지 말라고. 난 영리했어.
+147. DAN: Thank you, Victoria. You told me not to be clever, and I was clever.
+    댄: 고마워, 빅토리아. 영리하게 굴지 말라고 했는데 영리하게 굴었어.
 
-148. VICTORIA: You were tired. Clever is what tired sounds like. Go to sleep.
+148. VICTORIA: You were tired, and clever is what tired sounds like, so go to sleep.
     빅토리아: 피곤했던 거야. 영리함은 피곤함의 목소리야. 가서 자.
 
-149. GIL: Okay. Motel. Then Canton. Seven hours. I'll drive slow. You sleep. Your father snored at red lights. You can snore on Route 11.
-    길: 좋아. 모텔. 그다음 캔턴. 일곱 시간. 천천히 갈게. 너는 자. 네 아버지는 빨간불마다 코 골았어. 넌 11번 국도에서 골아.
+149. GIL: Okay, it's the motel and then Canton, seven hours. I'll drive slow while you sleep, because your father snored at red lights, and you can snore on Route 11.
+    길: 자, 모텔 갔다가 캔턴이야. 일곱 시간. 천천히 몰 테니까 자. 네 아버지는 빨간불에서 코 골았어. 넌 11번 국도에서 골아도 돼.
 
-150. DAN: Let me say it plain. Three words. Two minutes I didn't use. Twenty days left. Tomorrow I go back to the barn and say I'm sorry. To Walt's face.
-    댄: 쉽게 말할게요. 세 단어. 쓰지 않은 2분. 남은 20일. 내일 헛간으로 돌아가서 미안하다고 할 거예요. 월트 얼굴 보고.
+150. DAN: Let me say it plain: three words, and two minutes I didn't use, with twenty days left. Tomorrow I go back to the barn and say I'm sorry to Walt's face.
+    댄: 쉽게 말할게요. 세 단어, 쓰지 않은 2분, 남은 20일. 내일 헛간에 돌아가서 월트 씨 얼굴 보고 사과할 거예요.
 
 ---
 
