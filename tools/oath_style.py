@@ -6,7 +6,7 @@ Flags episodes whose dialogue is too choppy: too many fragment sentences
 -v lists the offending turn numbers so they can be rewritten.
 
 Targets per episode:
-  avg words per sentence  >= 8.0
+  avg words per sentence  8.0-12.5
   sentences of <=3 words  <= 15% of all sentences
   fragment-heavy turns    <= 5%   (>=2 sentences of <=3 words making up half or more of the turn)
   short turns (<=8 words) 10-18%
@@ -54,6 +54,7 @@ def analyze(path):
     }
     issues = []
     if stats["avg_sentence"] < 8.0: issues.append("sentences too short on average")
+    if stats["avg_sentence"] > 12.5: issues.append("sentences too long on average (over-joined)")
     if stats["tiny_sentences"] > 15: issues.append("too many <=3-word sentences")
     if stats["fragment_turns"] > 5: issues.append("too many fragment-chain turns")
     if not 10 <= stats["short_turns"] <= 18: issues.append("short-turn share outside 10-18%")
