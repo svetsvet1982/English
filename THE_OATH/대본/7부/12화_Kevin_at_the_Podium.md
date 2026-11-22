@@ -236,8 +236,8 @@
 074. DAN: Thank you all for coming to Staten Island. My brother says Staten Island never forgets anything, especially parking tickets.
     댄: 스태튼 아일랜드에 와 주셔서 감사합니다. 제 동생 말로는 스태튼 아일랜드는 아무것도 안 잊는답니다. 특히 주차 딱지는요.
 
-075. AUDIENCE: [laughter]
-    청중: [웃음]
+075. AUDIENCE: Ha! He's right, we still remember every ticket we ever got!
+    청중: 하! 맞아요, 우리 받은 딱지 하나하나 다 기억해요!
 
 076. HECKLER: You hate cops!
     야유하는 사람: 넌 경찰을 싫어하잖아!
@@ -248,8 +248,8 @@
 078. KEVIN: He's right here.
     케빈: 바로 여기 있어.
 
-079. AUDIENCE: [murmuring]
-    청중: [웅성거림]
+079. AUDIENCE: Wait, is that his brother, the cop, walking in right now?
+    청중: 잠깐, 지금 들어오는 사람이 그 경찰 형이에요?
 
 080. JUNE: Oh my God, he came in the back door, and he's walking down the middle aisle in a sweater, with no uniform.
     준: 세상에. 뒷문으로 들어왔어요. 가운데 통로로 걸어와요. 스웨터 입고, 제복 없이.
@@ -275,8 +275,8 @@
 087. KEVIN: Sir, I've been called worse by my brother, at Thanksgiving, so sit down, because I'm not finished.
     케빈: 선생님, 추수감사절에 형한테 더 심한 말도 들어 봤습니다. 앉으세요. 아직 안 끝났습니다.
 
-088. AUDIENCE: [laughter and some applause]
-    청중: [웃음과 약간의 박수]
+088. AUDIENCE: Ha! Good for you, Lieutenant, you tell him to sit down!
+    청중: 하! 잘한다, 경위님. 앉으라고 해 줘요!
 
 089. KEVIN: In 2027 my brother took the case of a seventeen-year-old named Darnell Hayes, who was beaten during a stop. The sergeant was in my academy class, so I was furious at my brother, and we didn't talk for a month.
     케빈: 2027년에 제 형이 대넬 헤이스라는 열일곱 살 소년 사건을 맡았습니다. 검문 중에 맞은 아이였죠. 그 경사가 제 경찰학교 동기였습니다. 저는 형한테 엄청 화가 났고 한 달 동안 말을 안 했습니다.
@@ -284,8 +284,8 @@
 090. KEVIN: Then I watched the whole video, not the clip, the whole thing. My brother was right, and I hated that he was right, and some of you know that feeling.
     케빈: 그러다 영상을 봤습니다. 클립 말고 전체를요. 형이 옳았습니다. 형이 옳다는 게 싫었죠. 여기 계신 분들 중에도 그 기분 아는 분 계실 겁니다.
 
-091. AUDIENCE: [murmuring]
-    청중: [웅성거림]
+091. AUDIENCE: He's a cop, and he's saying his brother was right?
+    청중: 경찰인데 동생이 옳았다고 말하는 거예요?
 
 092. KEVIN: That was one case in twenty years. The rest of the time he was fighting for people the system forgot, like tenants, veterans, and a guy who did fifteen years for nothing.
     케빈: 그건 20년 동안 딱 한 건이었습니다. 나머지 시간엔 제도가 잊은 사람들을 위해 싸웠습니다. 세입자, 참전 용사, 아무 죄 없이 15년을 산 사람.
@@ -308,8 +308,8 @@
 098. KEVIN: That's it, and I'm done. I'm going back to my car, because I have a shift at eleven tonight.
     케빈: 이상입니다. 끝났습니다. 차로 돌아가겠습니다. 오늘 밤 열한 시에 근무가 있거든요.
 
-099. AUDIENCE: [applause, growing]
-    청중: [커지는 박수]
+099. AUDIENCE: That took guts, Lieutenant, real guts, and we heard you!
+    청중: 그거 진짜 용기였어요, 경위님. 우리 다 들었어요!
 
 100. AUDIENCE: Thank you, Lieutenant!
     청중: 고마워요, 경위님!
