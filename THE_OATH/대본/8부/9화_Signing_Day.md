@@ -185,8 +185,8 @@
 057. HARLAN: Senator Reardon introduced the first version in the House in 2029, and it had zero co-sponsors on his own side. It took seven years, which is fast, for Washington.
     하를런: 레이든 의원은 2029년 하원에서 첫 번째 안을 발의했습니다. 자기 당 공동 발의자가 한 명도 없었죠. 7년 걸렸습니다. 워싱턴치곤 빠른 겁니다.
 
-058. AUDIENCE: [laughter]
-    청중: [웃음]
+058. AUDIENCE: Ha! Seven years is lightning fast for this town, Mr. President!
+    청중: 하! 이 동네에선 7년이면 번개 속도죠, 대통령님!
 
 059. HARLAN: Four years ago he was the only one who'd stand next to it, and last summer he stood next to it for fourteen hours. Today I get to sit down for it, which is the easy part.
     하를런: 4년 전엔 그 법 옆에 서려는 사람이 그 혼자였습니다. 지난여름엔 그 옆에 14시간을 서 있었죠. 오늘 저는 앉아서 서명합니다. 쉬운 부분이죠.
@@ -212,8 +212,8 @@
 066. CARMEN: Mateo Ortiz.
     카르멘: 마테오 오르티스.
 
-067. AUDIENCE: [silence]
-    청중: [침묵]
+067. AUDIENCE: That was her son's name, wasn't it? God bless her.
+    청중: 그게 아드님 이름이었죠? 하느님, 저분을 축복하소서.
 
 068. HARLAN: Thank you, ma'am, because that was the best speech in this room this year, including mine.
     하를런: 고맙소, 부인. 올해 이 방에서 나온 최고의 연설이었소. 내 것까지 포함해서.
@@ -227,8 +227,8 @@
 071. HARLAN: That's I-A-M, then H and A for Harlan, and it's done. It's signed, and it's the law of the United States.
     하를런: I-A-M, 그리고 할런의 H, A. 끝났소. 서명했으니 이제 미국의 법이오.
 
-072. AUDIENCE: [applause]
-    청중: [박수]
+072. AUDIENCE: It's the law! After seven years, it's finally the law!
+    청중: 법이 됐어! 7년 만에 드디어 법이 됐어!
 
 073. HARLAN: The first pen goes to the sponsor, because that's tradition. Senator, this is yours.
     하를런: 첫 번째 펜은 대표 발의자에게 가오. 전통이지. 의원, 받으시오.
