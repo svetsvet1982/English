@@ -62,7 +62,7 @@
 016. ROSE: I signed that card in 1974, when I was twenty-seven and my hand was younger! And it was also seventeen degrees on February twenty-ninth!
     로즈: 그 카드는 1974년에 썼어요! 스물일곱이었고 손도 젊었다고요! 그리고 2월 29일엔 영하 8도였어요!
 
-017. FEENEY: Ma'am, please, because I've got the card right here. It has the same loop on the R and the same little hook on the D, so the objection is overruled, and the signature is valid.
+017. FEENEY: Ma'am, please, because I've got the card right here. It has the same loop on the R and the same little hook on the D. So the objection is overruled, and the signature is valid.
     피니: 부인, 진정하세요. 카드 여기 있어요. R의 고리도 같고 D의 작은 갈고리도 같네요. 이의 기각. 서명 유효합니다.
 
 018. ROSE: Thank you, because you're a good man. Is he a good man, Danny?
@@ -95,7 +95,7 @@
 027. MAZUR: The rest of our objections are serious: wrong address, not registered in the party, and signed twice. And our strongest one is that they signed Mr. Russo's petition first.
     머주르: 나머지 이의는 심각합니다. 주소 오류, 당 미등록, 중복 서명. 그리고 가장 강력한 건 루소 씨 청원에 먼저 서명한 경우입니다.
 
-028. FEENEY: Those we check line by line, which is what my staff did all last week, so here's the clerk's report, and let's go through it.
+028. FEENEY: Those we check line by line, which is what my staff did all last week. Here's the clerk's report, so let's go through it.
     피니: 그건 한 줄씩 확인합니다. 우리 직원들이 지난주 내내 한 일이죠. 여기 서기 보고서가 있으니 같이 봅시다.
 
 029. AISHA: A line-by-line review means the Board compares every name to the voter file. Then they say "sustained," which means the signature's out, or "overruled," which means it stays.
@@ -113,7 +113,7 @@
 033. DAN: Fourteen hundred are gone, and that's a lot of signatures.
     댄: 1,400개가 날아갔네요. 많은 서명인데.
 
-034. AISHA: You're talking again, but yes. Of the fourteen hundred, about six hundred signed Russo's petition first, because his paid petitioners were out at six in the morning, same as us.
+034. AISHA: You're talking again, but yes. Of the fourteen hundred, about six hundred signed Russo's petition first. His paid petitioners were out at six in the morning, same as us.
     아이샤: 또 말하시네요. 근데 맞아요. 1,400개 중 6백 개쯤은 루소 청원에 먼저 서명했어요. 그쪽 유급 서명원들도 우리처럼 아침 여섯 시에 나왔거든요.
 
 035. FEENEY: So the total filed is four thousand one hundred and three, minus fourteen hundred and two, which leaves two thousand seven hundred and one valid signatures.
@@ -164,7 +164,7 @@
 050. LEILA: Born is not the same as lives, so ask the census, or ask Forest Hills.
     레일라: 태어난 것과 사는 건 달라요. 인구조사에 물어보세요. 포리스트 힐스에 물어보든가.
 
-051. ROSE: Young lady, he lives eight stops from where he was born, his children are in Queens, and his mother is on Thirty-First Street, so that's living here.
+051. ROSE: Young lady, he lives eight stops from where he was born. His children are in Queens, and his mother is on Thirty-First Street, so that's living here.
     로즈: 아가씨, 이 애는 태어난 데서 여덟 정거장 떨어진 데 살아. 애들도 퀸즈에 있고 엄마는 31번가에 있어. 그게 여기 사는 거야.
 
 052. LEILA: With respect, Mrs. Reardon, the rent on Thirty-First Street is my problem, not his.
@@ -200,7 +200,7 @@
 062. DAN: Of course. I brought cookies, because my mother said if I came empty-handed, I'd fail.
     댄: 물론이죠. 쿠키 가져왔어요. 엄마가 빈손으로 가면 떨어진다고 해서요.
 
-063. DEE: Your mother is right. I said bring nothing to see if you'd listen to me, and you didn't, which is good, because a congressman who listens to everything he's told is useless.
+063. DEE: Your mother is right. I said bring nothing to see if you'd listen to me, and you didn't. That's good, because a congressman who listens to everything he's told is useless.
     디: 어머님 말씀이 맞아요. 들을지 보려고 아무것도 가져오지 말라고 한 건데 안 들었네요. 좋아요. 시키는 걸 다 듣는 의원은 쓸모없거든요.
 
 064. DAN: Congresswoman Washington, thank you so much for seeing me today.
@@ -248,7 +248,7 @@
 078. DAN: Favors and grudges, you said?
     댄: 신세와 원한이요?
 
-079. DEE: Favors are what people owe you, and grudges are what they'll never forgive, so everybody down there keeps two lists, one in each pocket.
+079. DEE: Favors are what people owe you, and grudges are what they'll never forgive. So everybody down there keeps two lists, one in each pocket.
     디: 신세는 사람들이 나한테 빚진 거고, 원한은 절대 용서 안 할 거예요. 거기 사람들은 다 목록 두 개를 갖고 다녀요. 주머니마다 하나씩.
 
 080. DEE: The trick is that the lists have the same names, because somebody who owes you on Monday hates you on Thursday. You learn to carry both and smile.
@@ -260,7 +260,7 @@
 082. DEE: Neither, yet, which is why I can talk to you. Let me tell you about my lists, and then you'll understand why I'm going to disappoint you.
     디: 아직 어디에도 없어요. 그래서 얘기할 수 있는 거고. 내 목록 얘길 해 줄게요. 그럼 내가 왜 실망시킬지 이해할 거예요.
 
-083. DEE: In 2006, in my first race, nobody would carry my petitions, because a Black woman from Mott Haven running for Congress made the clubs laugh at me.
+083. DEE: In 2006, in my first race, nobody would carry my petitions. A Black woman from Mott Haven running for Congress made the clubs laugh at me.
     디: 2006년 첫 선거 때 아무도 내 청원지를 들어 주지 않았어요. 모트 헤이븐 출신 흑인 여자가 하원에 나간다니 클럽들이 비웃었죠.
 
 084. DEE: Except for one man, Vinnie Russo, Tony's father, who ran the Steinway club back then. He gave me forty volunteers and his own car, and he said, "Dee, you're going to win, and I want to say I was first."
@@ -281,7 +281,7 @@
 089. DAN: I'm guessing it's a short man who brings sandwiches.
     댄: 샌드위치 들고 다니는 키 작은 사람일 것 같은데요.
 
-090. DEE: It was Marty Goldstein, with pastrami from Feldman's, because he sent a sandwich to my office the morning after with a note that said, "No hard feelings. There's barely lunch."
+090. DEE: It was Marty Goldstein, with pastrami from Feldman's. He sent a sandwich to my office the morning after with a note that said, "No hard feelings. There's barely lunch."
     디: 마티 골드스타인. 펠드먼네 파스트라미. 다음 날 아침에 내 사무실로 샌드위치를 보냈더라고요. 쪽지랑 같이. "악감정 없어요. 점심 자체가 거의 없잖아요."
 
 091. DAN: Did you eat it?
@@ -299,7 +299,7 @@
 095. DAN: You knew Ruth?
     댄: 루스를 아셨어요?
 
-096. DEE: Ruth sued me in 2011, though not me personally. It was the federal building I worked to bring to the Bronx, where the contractor cut corners on the heating, and she called me as a witness.
+096. DEE: Ruth sued me in 2011, though not me personally. It was the federal building I worked to bring to the Bronx. The contractor cut corners on the heating, and she called me as a witness.
     디: 루스가 날 고소했어요. 2011년에. 나 개인은 아니고 내가 브롱크스에 유치한 연방 건물이었죠. 시공사가 난방에서 날림 공사를 했고, 루스가 날 증인으로 불렀어요.
 
 097. DAN: The heat, of course it was the heat, because it's always the heat.
@@ -308,7 +308,7 @@
 098. DEE: With Ruth it was always the heat. She was very rude to me on the stand, but afterward she took me to lunch, and we were friends for seventeen years.
     디: 루스랑은 늘 난방이었지. 증언대에서 나한테 아주 무례했는데, 끝나고 점심을 사 주더라고요. 그 뒤로 17년 친구였어요.
 
-099. DEE: She called me in December from the hospice and said, "Dee, there's a lawyer who'll come knocking, so be hard on him, because he likes it."
+099. DEE: She called me in December from the hospice. She said, "Dee, there's a lawyer who'll come knocking, so be hard on him, because he likes it."
     디: 12월에 호스피스에서 전화했어요. "디, 변호사 하나가 찾아갈 거야. 세게 대해. 그 사람 그런 거 좋아해."
 
 100. DAN: She told everybody about me, like she was writing a letter to the whole city.
@@ -356,7 +356,7 @@
 114. TERRENCE: Writing it down, Aunt Dee.
     테런스: 적고 있어요, 이모할머니.
 
-115. DEE: Now I'll tell you something nobody asked me. In 2014, I voted for a spending bill, and inside it there was money for new detention contracts, and Ridgefield was one of them.
+115. DEE: Now I'll tell you something nobody asked me. In 2014, I voted for a spending bill. Inside it there was money for new detention contracts, and Ridgefield was one of them.
     디: 이제 아무도 안 물어본 얘길 해 줄게요. 2014년에 지출 법안에 찬성표를 던졌어요. 그 안에 새 구금시설 계약 예산이 있었는데, 리지필드가 그중 하나였어요.
 
 116. DAN: Ridgefield was in that bill that you voted for?
@@ -401,7 +401,7 @@
 129. MARTY: Rule one is your rule, so I tell you before they do. Okay, Gus, bring two rice puddings, because this needs dessert.
     마티: 규칙 하나, 자네 규칙. 남들보다 먼저 말해 준다. 좋아. 거스, 라이스 푸딩 두 개. 이건 디저트가 필요해.
 
-130. MARTY: In 1994, I ran a campaign for a very charming city councilman from Jackson Heights, and I didn't know he was taking cash from a contractor in paper bags.
+130. MARTY: In 1994, I ran a campaign for a very charming city councilman from Jackson Heights. I didn't know he was taking cash from a contractor in paper bags.
     마티: 1994년에 잭슨 하이츠 출신 시의원 선거를 맡았어. 아주 매력적인 사람이었지. 그 사람이 시공업자한테서 종이 가방으로 현금을 받는 줄은 몰랐어.
 
 131. DAN: You didn't know?
@@ -431,10 +431,10 @@
 139. MARTY: Everybody says that, and that's why I have the rule.
     마티: 다들 그렇게 말해. 그래서 규칙이 있는 거야.
 
-140. GUS: Counselor, I have a question, because I want to put a big "Reardon for Congress" sign in the window, and I want to give five thousand dollars.
+140. GUS: Counselor, I have a question. I want to put a big "Reardon for Congress" sign in the window, and I want to give five thousand dollars.
     거스: 변호사님, 질문 있어. 창문에 "레이든을 하원으로" 큰 팻말 붙이고 싶어. 그리고 5천 달러 내고 싶어.
 
-141. JUNE: Gus, you can't give five thousand, because the limit is thirty-five hundred per election, and the primary is one election and the general is another.
+141. JUNE: Gus, you can't give five thousand, because the limit is thirty-five hundred per election. The primary is one election and the general is another.
     준: 거스, 5천은 못 내요. 한도가 선거당 3,500달러예요. 경선이 한 선거고 본선이 또 한 선거고요.
 
 142. GUS: So I give thirty-five hundred now and thirty-five hundred in the fall, which is seven thousand, so that's even better.
@@ -446,7 +446,7 @@
 144. GUS: My daughter's at Queens College, and it's cheap, and you went there too, so look at you.
     거스: 우리 딸은 퀸즈 칼리지야. 싸. 자네도 거기 나왔잖아. 지금 자네 봐.
 
-145. MARTY: Gus, think about the sign, because if you put up a big one, half your customers are Tony Russo people, and they'll eat somewhere else.
+145. MARTY: Gus, think about the sign. If you put up a big one, half your customers are Tony Russo people, and they'll eat somewhere else.
     마티: 거스, 팻말도 생각해 봐. 크게 붙이면 손님 절반이 토니 루소 쪽이라 다른 데서 먹을 거야.
 
 146. GUS: Where would they go? There's nowhere else, because my coffee's terrible and they still come, and that's loyalty.
