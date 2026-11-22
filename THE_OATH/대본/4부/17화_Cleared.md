@@ -32,7 +32,7 @@
 006. HOWARD: At six, I had records search every system, including email, documents, paper, and the New Jersey archive.
     하워드: 여섯 시에 기록팀한테 모든 시스템을 뒤지게 했어. 이메일, 문서, 종이, 뉴저지 보관소까지.
 
-007. HOWARD: At ten, they reported back that it does not exist, not in any draft or folder, because it was never created inside Whitmore Crane.
+007. HOWARD: At ten, they reported back that it does not exist, not in any draft or folder. It was never created inside Whitmore Crane.
     하워드: 열 시에 보고가 왔어. 존재하지 않는대. 어떤 초안에도, 어떤 폴더에도. 휘트모어 크레인 안에서 만들어진 적이 없어.
 
 008. DAN: That's the firm's own record, so it's about the firm, not about the client.
@@ -44,7 +44,7 @@
 010. AISHA: It says "Whitmore Crane LLP, Park Avenue," with the new logo, the square one.
     아이샤: "휘트모어 크레인 LLP, 파크 애비뉴." 새 로고네요. 네모난 거.
 
-011. HOWARD: Ms. Bellamy? Good evening, and yes, the square logo, which we introduced in March 2027 with a press release, because the old logo was round.
+011. HOWARD: Ms. Bellamy? Good evening, and yes, the square logo. We introduced it in March 2027 with a press release, because the old logo was round.
     하워드: 벨러미 씨? 안녕하신가. 그래, 네모난 로고. 2027년 3월에 보도자료까지 내고 도입했지. 예전 로고는 동그랬어.
 
 012. AISHA: So a memo from October 2026 has a logo from March 2027.
@@ -56,7 +56,7 @@
 014. AISHA: We found that an hour ago, so how did you know? We didn't tell anyone.
     아이샤: 그거 한 시간 전에 찾았는데 어떻게 아셨어요? 아무한테도 말 안 했는데.
 
-015. HOWARD: Because you found the second memo in 2026, at three in the morning, in a backup nobody had opened, so I know you read things twice.
+015. HOWARD: Because you found the second memo in 2026, at three in the morning, in a backup nobody had opened. So I know you read things twice.
     하워드: 자네가 2026년에 새벽 세 시에 아무도 안 연 백업에서 두 번째 메모를 찾았잖나. 그래서 자네가 뭐든 두 번 읽는다는 걸 알지.
 
 016. AISHA: My mother taught me that, because she's a night nurse, and she reads every chart twice.
@@ -104,13 +104,13 @@
 030. DAN: That's the reason you'll give the cameras, so what's the real reason?
     댄: 그건 카메라 앞에서 하실 이유고요. 진짜 이유는 뭐예요?
 
-031. HOWARD: The real reason is that the one person who should be saying this died in December, and she left you my check, and she's not here to make me do it, so I'll have to make myself.
+031. HOWARD: The real reason is that the one person who should be saying this died in December. She left you my check, and she's not here to make me do it. So I'll have to make myself.
     하워드: 진짜 이유는 이 말을 해야 할 단 한 사람이 12월에 세상을 떠났기 때문이야. 그 사람이 내 수표를 너한테 남겼고. 그 사람이 날 등 떠밀 수 없으니 내가 스스로 해야지.
 
 032. DAN: Howard.
     댄: 하워드.
 
-033. HOWARD: Don't, Daniel, and don't thank me. Buy me dinner in December at your terrible diner, like you promised, and I'll complain about the coffee, because that's our arrangement.
+033. HOWARD: Don't, Daniel, and don't thank me. Buy me dinner in December at your terrible diner, like you promised. I'll complain about the coffee, because that's our arrangement.
     하워드: 하지 마, 대니얼. 고맙다고 하지 마. 약속대로 12월에 그 끔찍한 다이너에서 저녁이나 사. 난 커피 불평할 거고. 그게 우리 약속이야.
 
 034. DAN: That's our arrangement.
@@ -122,7 +122,7 @@
 036. AISHA: He knows Margaret?
     아이샤: 마거릿을 아세요?
 
-037. HOWARD: Ms. Bellamy, Margaret Katz sued my firm in 1997 and won, and she was rude to me for three days, and Ruth was very proud.
+037. HOWARD: Ms. Bellamy, Margaret Katz sued my firm in 1997 and won. She was rude to me for three days, and Ruth was very proud.
     하워드: 벨러미 씨, 마거릿 캐츠는 1997년에 우리 로펌을 고소해서 이겼어. 사흘 내내 나한테 무례했지. 루스가 아주 자랑스러워했어.
 
 038. MARTY: Everybody in this city sued Howard and won, apparently.
@@ -134,28 +134,28 @@
 040. FRANK: Huh, I've been lied to by better, but I've never been surprised by better.
     프랭크: 허. 나한테 거짓말한 놈들 중엔 고수가 많았지. 근데 이렇게 놀라게 한 고수는 처음이야.
 
-041. MARGARET: Sit, both of you, because a letter came by messenger an hour ago, and I haven't opened it, since I wanted you here.
+041. MARGARET: Sit, both of you, because a letter came by messenger an hour ago. I haven't opened it, since I wanted you here.
     마거릿: 둘 다 앉아요. 한 시간 전에 퀵으로 편지가 왔어요. 아직 안 뜯었어요. 두 사람이 있을 때 뜯고 싶어서요.
 
 042. DAN: From the committee, already? It's only been eight days, Margaret.
     댄: 위원회에서요? 벌써요? 8일밖에 안 됐는데요, 마거릿.
 
-043. MARGARET: It's from the committee, eight days after the complaint and five days after our answer, and in forty years, I've never seen them move this fast.
+043. MARGARET: It's from the committee, eight days after the complaint and five days after our answer. In forty years, I've never seen them move this fast.
     마거릿: 위원회에서 왔어요. 진정 접수 8일, 우리 답변 5일 만에요. 40년 동안 이렇게 빨리 움직이는 건 처음 봐요.
 
 044. AISHA: What did we send them?
     아이샤: 우리가 뭘 보냈었죠?
 
-045. MARGARET: We sent our twelve-page answer, Dan's own sworn statement, the public docket entry two forty-one showing volume twenty-three was produced on December eleventh, and the firm's press release about the new logo.
-    마거릿: 12쪽짜리 답변서요. 댄 본인의 선서 진술서. 23권이 12월 11일에 제출됐다는 공개 사건 기록 241번. 그리고 새 로고에 관한 로펌 보도자료.
+045. MARGARET: We sent our twelve-page answer and Dan's own sworn statement. We sent the public docket entry two forty-one showing volume twenty-three was produced on December eleventh. We also sent the firm's press release about the new logo.
+    마거릿: 12쪽짜리 답변서랑 댄 본인의 선서 진술서를 보냈어요. 23권이 12월 11일에 제출됐다는 공개 사건 기록 241번도요. 그리고 새 로고에 관한 로펌 보도자료도 보냈어요.
 
-046. MARGARET: And there was Howard Whitmore's sworn affirmation, four paragraphs that he wrote himself, and I didn't change a word, because when I tried to change one, he wouldn't let me.
+046. MARGARET: And there was Howard Whitmore's sworn affirmation, four paragraphs that he wrote himself. I didn't change a word, because when I tried to change one, he wouldn't let me.
     마거릿: 그리고 하워드 화이트모어의 선서 진술서. 네 문단. 본인이 직접 썼어요. 한 단어도 안 바꿨어요. 하나 바꾸려고 했는데 못 하게 하더라고요.
 
 047. DAN: Which word?
     댄: 어떤 단어요?
 
-048. MARGARET: He wrote "Mr. Reardon acted properly at every stage," and I wanted to write "in all respects," but he said "every stage" is what he meant, and "respects" is a lawyer's word.
+048. MARGARET: He wrote "Mr. Reardon acted properly at every stage," and I wanted to write "in all respects." But he said "every stage" is what he meant, and "respects" is a lawyer's word.
     마거릿: "레이든 씨는 모든 단계에서 적법하게 행동했다"라고 썼어요. 전 "모든 면에서"라고 쓰고 싶었는데, "모든 단계"가 자기 뜻이래요. "면"은 변호사 단어래요.
 
 049. AISHA: But he's a lawyer himself, Margaret, isn't he?
@@ -170,7 +170,7 @@
 052. DAN: Dismissed.
     댄: 기각.
 
-053. MARGARET: There's more, so listen: "The document on which the complaint is based is not authentic, and the Committee has referred the matter of its creation to the appropriate authorities."
+053. MARGARET: There's more, so listen: "The document on which the complaint is based is not authentic. The Committee has referred the matter of its creation to the appropriate authorities."
     마거릿: 더 있어요. 들어 봐요. "진정의 근거가 된 문서는 진본이 아니다. 본 위원회는 그 작성 경위를 관계 당국에 회부했다."
 
 054. AISHA: Referred means they sent it to prosecutors to find out who made it.
@@ -206,16 +206,16 @@
 064. DAN: Pat.
     댄: 팻.
 
-065. DOYLE: I'm sorry. I didn't make that memo, and I didn't know, but my people shared it, and I didn't stop them, so that's on me.
+065. DOYLE: I'm sorry. I didn't make that memo, and I didn't know. But my people shared it, and I didn't stop them, so that's on me.
     도일: 미안해요. 그 메모 내가 만든 거 아니에요. 몰랐어요. 근데 우리 사람들이 공유했고 난 안 막았어요. 그건 내 책임이에요.
 
-066. DOYLE: Tomorrow at nine, I'm putting out a statement asking Queens Forward to take down their ad publicly. I can't make them, and the law says I can't even talk to them, so I'll say it to the cameras.
+066. DOYLE: Tomorrow at nine, I'm putting out a statement asking Queens Forward to take down their ad publicly. I can't make them, and the law says I can't even talk to them. So I'll say it to the cameras.
     도일: 내일 아홉 시에 성명을 낼 거예요. 퀸즈 포워드한테 광고를 내리라고 공개적으로 요구할 거예요. 강제는 못 해요. 법적으로 그 사람들이랑 얘기도 못 하고요. 그래서 카메라 앞에서 말할 거예요.
 
 067. DAN: That's the right thing, Pat.
     댄: 그게 옳은 일이에요, 팻.
 
-068. DOYLE: It's also smart, because forged memos are bad for business, but mostly it's right, and my wife hasn't spoken to me since Tuesday.
+068. DOYLE: It's also smart, because forged memos are bad for business. But mostly it's right, and my wife hasn't spoken to me since Tuesday.
     도일: 똑똑한 일이기도 하죠. 위조 메모는 장사에 안 좋아요. 근데 대부분은 옳아서 하는 거예요. 아내가 화요일부터 말을 안 해요.
 
 069. DAN: My wife has a rule about that: you don't use your family as an answer.
@@ -245,7 +245,7 @@
 077. LEILA: Why are we doing it here, on these steps?
     레일라: 왜 여기서 해요? 이 계단에서?
 
-078. MARGARET: Because this building is where the court supervises lawyers, and the grievance committee works for the judges inside, so Howard wanted to stand in front of the court, not in front of a campaign sign.
+078. MARGARET: Because this building is where the court supervises lawyers. The grievance committee works for the judges inside. So Howard wanted to stand in front of the court, not in front of a campaign sign.
     마거릿: 이 건물이 법원이 변호사를 감독하는 곳이니까요. 징계위원회는 안에 있는 판사들 밑에서 일해요. 하워드는 선거 팻말 앞이 아니라 법원 앞에 서고 싶어 했어요.
 
 079. JUNE: There are no campaign signs, because I told everybody, and nobody brought one, not even Mrs. Kalogeropoulos, who's disappointed.
@@ -254,7 +254,7 @@
 080. DAN: Where is Howard?
     댄: 하워드는 어디 계세요?
 
-081. HOWARD: I'm here, because I took the N train, since Peggy said it would be faster than a car, and she's been right for twenty-one years.
+081. HOWARD: I'm here, because I took the N train. Peggy said it would be faster than a car, and she's been right for twenty-one years.
     하워드: 여기 있어. N선 타고 왔어. 페기가 차보다 빠를 거라더군. 21년째 맞는 말만 해.
 
 082. DAN: You took the N train?
@@ -269,19 +269,19 @@
 085. HOWARD: Ms. Bellamy is a wise woman. Good morning, my name is Howard Whitmore, and I was the managing partner of Whitmore Crane for twenty-two years. I'll read a short statement, and then I'll take three questions.
     하워드: 벨러미 씨는 현명한 사람이지. 안녕하십니까. 하워드 화이트모어입니다. 22년간 휘트모어 크레인 대표 파트너였습니다. 짧은 성명을 읽고 질문 세 개 받겠습니다.
 
-086. HOWARD: Ten days ago, a document appeared on the internet that claimed to be a memo written by Daniel Reardon on my firm's letterhead in October 2026.
+086. HOWARD: Ten days ago, a document appeared on the internet. It claimed to be a memo written by Daniel Reardon on my firm's letterhead in October 2026.
     하워드: 열흘 전 인터넷에 문서 하나가 올라왔습니다. 2026년 10월 대니얼 레이든이 우리 로펌 공식 서식으로 쓴 메모라고 주장하는 문서입니다.
 
-087. HOWARD: I have searched every record my firm keeps, and that document does not exist. It was never written at Whitmore Crane, and it carries a logo we did not use until March 2027, so it is a forgery.
+087. HOWARD: I have searched every record my firm keeps, and that document does not exist. It was never written at Whitmore Crane. It carries a logo we did not use until March 2027, so it is a forgery.
     하워드: 우리 로펌이 보관하는 모든 기록을 찾아봤습니다. 그 문서는 존재하지 않습니다. 휘트모어 크레인에서 작성된 적이 없습니다. 2027년 3월 전엔 쓰지 않은 로고가 찍혀 있습니다. 위조입니다.
 
-088. HOWARD: Yesterday, the Attorney Grievance Committee dismissed the complaint based on that document, and Mr. Reardon has waived confidentiality, so the letter is available to anyone who asks.
+088. HOWARD: Yesterday, the Attorney Grievance Committee dismissed the complaint based on that document. Mr. Reardon has waived confidentiality, so the letter is available to anyone who asks.
     하워드: 어제 변호사 징계위원회는 그 문서에 근거한 진정을 기각했습니다. 레이든 씨는 비공개 보호를 포기했습니다. 요청하는 누구에게나 그 서한을 드립니다.
 
-089. HOWARD: I will not discuss any client of my firm, not today and not ever, because that is my duty, and it was Mr. Reardon's duty, and he has kept it under more pressure than I have ever seen.
+089. HOWARD: I will not discuss any client of my firm, not today and not ever. That is my duty, and it was Mr. Reardon's duty. He has kept it under more pressure than I have ever seen.
     하워드: 우리 로펌의 어떤 의뢰인에 대해서도 말하지 않겠습니다. 오늘도, 앞으로도. 그게 제 의무이고 레이든 씨의 의무였습니다. 그는 제가 본 어떤 압박보다 큰 압박 속에서 그 의무를 지켰습니다.
 
-090. HOWARD: I'll say only this: I supervised Daniel Reardon for fifteen years, and he acted properly at every stage, every stage, and that's my statement.
+090. HOWARD: I'll say only this: I supervised Daniel Reardon for fifteen years. He acted properly at every stage, every stage, and that's my statement.
     하워드: 이것만 말씀드리겠습니다. 저는 15년간 대니얼 레이든을 감독했습니다. 그는 모든 단계에서 적법하게 행동했습니다. 모든 단계에서. 이상입니다.
 
 091. AUDIENCE: ...
@@ -290,7 +290,7 @@
 092. MARCUS: Mr. Whitmore, Marcus Bell from Metro Nine. You've never made a political statement in forty years, so why now, and why for him?
     마커스: 화이트모어 씨! 메트로 나인 마커스 벨입니다. 40년 동안 정치적 성명을 낸 적이 없으시죠. 왜 지금, 왜 이 사람을 위해서입니까?
 
-093. HOWARD: It's not a political statement, Mr. Bell, but a correction, because somebody put my firm's name on a lie, and I'd say the same thing if he were running for dogcatcher.
+093. HOWARD: It's not a political statement, Mr. Bell, but a correction. Somebody put my firm's name on a lie, and I'd say the same thing if he were running for dogcatcher.
     하워드: 정치적 성명이 아닙니다, 벨 기자. 정정입니다. 누가 우리 로펌 이름을 거짓말에 붙였어요. 그가 개 단속원에 출마했더라도 똑같이 말했을 겁니다.
 
 094. MARCUS: Are you endorsing him, Mr. Whitmore, just yes or no?
@@ -338,13 +338,13 @@
 108. DAN: What's the new thing?
     댄: 새로운 게 뭔데요?
 
-109. HOWARD: It's standing next to one of them after he leaves, which is uncomfortable, and I don't like it, but I'll get used to it.
+109. HOWARD: It's standing next to one of them after he leaves. It's uncomfortable, and I don't like it, but I'll get used to it.
     하워드: 떠난 사람 옆에 서 주는 거. 불편해. 마음에 안 들어. 익숙해지겠지.
 
 110. DAN: You said in 2026 that I'd be back in a year, and you were wrong.
     댄: 2026년에 제가 1년 안에 돌아올 거라고 하셨죠. 틀리셨어요.
 
-111. HOWARD: I was wrong about the building, but not about the person, because you came back, Daniel, to the steps of a courthouse, with your hands on the table, and that's what I meant.
+111. HOWARD: I was wrong about the building, but not about the person. You came back, Daniel, to the steps of a courthouse, with your hands on the table, and that's what I meant.
     하워드: 건물에 대해선 틀렸지. 사람에 대해선 아니야. 넌 돌아왔어, 대니얼. 법원 계단으로. 손을 테이블 위에 둔 채로. 내가 말한 건 그거였어.
 
 112. DAN: It's December at the Athena, Howard, and I'm buying.
@@ -362,7 +362,7 @@
 116. ROSE: My mother taught me, from Ikaria, so who did you have in 1975?
     로즈: 우리 엄마요. 이카리아 출신. 1975년엔 누구 쿠키를 드셨어요?
 
-117. HOWARD: A Greek woman on Ninth Avenue, near my high school, when I was seventeen and broke, and she gave me the broken ones free.
+117. HOWARD: It was a Greek woman on Ninth Avenue, near my high school. I was seventeen and broke, and she gave me the broken ones free.
     하워드: 9번 애비뉴, 우리 고등학교 근처 그리스 아주머니요. 전 열일곱에 빈털터리였죠. 부서진 걸 공짜로 주셨어요.
 
 118. ROSE: Then these are for her too, so take the bag, and don't argue with me, because I'm Greek.
@@ -371,19 +371,19 @@
 119. HOWARD: I would never argue with a Greek woman holding cookies, so good morning, Mrs. Reardon.
     하워드: 쿠키 든 그리스 여인과는 절대 싸우지 않습니다. 좋은 아침 되세요, 레이든 부인.
 
-120. JUNE: It's everywhere: "Former Boss: 'He Acted Properly at Every Stage.'" And Doyle's statement at nine said, "I call on Queens Forward to take down its advertisement," and Queens Forward took it down at noon.
+120. JUNE: It's everywhere: "Former Boss: 'He Acted Properly at Every Stage.'" And Doyle's statement at nine said, "I call on Queens Forward to take down its advertisement." Queens Forward took it down at noon.
     준: 사방에 퍼졌어요. "옛 상사: '그는 모든 단계에서 적법하게 행동했다.'" 그리고 아홉 시 도일 성명. "퀸즈 포워드에 광고를 내릴 것을 요구한다." 퀸즈 포워드는 정오에 광고를 내렸어요.
 
-121. GUS: Counselor, sit, everybody, because it's only your people tonight, and Tony Russo's here, because he ordered pie an hour ago and didn't eat it.
+121. GUS: Counselor, sit, everybody, because it's only your people tonight. Tony Russo's here, because he ordered pie an hour ago and didn't eat it.
     거스: 변호사님! 다들 앉아! 오늘 밤은 자네 사람들만이야. 토니 루소도 와 있어. 한 시간 전에 파이 시키고 안 먹었어.
 
-122. RUSSO: Dan, sit down, because I'll be fast. I watched Howard Whitmore on TV, and my father always said Howard Whitmore was the only Park Avenue lawyer who never lied to a judge.
+122. RUSSO: Dan, sit down, because I'll be fast. I watched Howard Whitmore on TV. My father always said Howard Whitmore was the only Park Avenue lawyer who never lied to a judge.
     루소: 댄, 앉아요. 빨리 할게요. TV에서 하워드 화이트모어 봤어요. 우리 아버지가 늘 그랬어요. 판사한테 한 번도 거짓말 안 한 파크 애비뉴 변호사는 하워드 화이트모어뿐이라고.
 
 123. DAN: Your father knew Howard?
     댄: 아버님이 하워드를 아셨어요?
 
-124. RUSSO: They were on opposite sides of a bus depot case in 1989, where Howard represented the city, and my father won. Howard sent him a bottle of wine, and my father never drank it, but he kept it.
+124. RUSSO: They were on opposite sides of a bus depot case in 1989. Howard represented the city, and my father won. Howard sent him a bottle of wine, and my father never drank it, but he kept it.
     루소: 1989년 버스 차고지 사건에서 반대편이었어요. 하워드가 시를 대리했고 아버지가 이겼죠. 하워드가 와인 한 병을 보냈어요. 아버지는 안 마셨어요. 간직만 했죠.
 
 125. GUS: Everybody in this city keeps the wrong things, I swear.
@@ -395,7 +395,7 @@
 127. DAN: Tony, why are you doing this now, after all this?
     댄: 토니, 이제 와서 왜 이러는 거예요?
 
-128. RUSSO: Because you called me in September and asked what I know, and nobody asks what I know, because they ask what I can get them. And because you didn't hit back, not once, not even when I deserved it.
+128. RUSSO: Because you called me in September and asked what I know. Nobody asks what I know; they ask what I can get them. And you didn't hit back, not once, not even when I deserved it.
     루소: 9월에 전화해서 내가 뭘 아는지 물었잖아요. 아무도 그런 걸 안 물어요. 내가 뭘 해 줄 수 있는지만 묻죠. 그리고 당신은 한 번도 되받아치지 않았어요. 내가 맞아도 쌀 때조차.
 
 129. DAN: When did you deserve it?
@@ -422,7 +422,7 @@
 136. FRANK: That's six points ahead, from down two, in four days.
     프랭크: 2포인트 뒤지다가 나흘 만에 6포인트 앞섰네.
 
-137. JUNE: Dan, your phone has a voicemail from a number in the Bronx, in Highbridge, and I think you should listen, but not on speaker.
+137. JUNE: Dan, your phone has a voicemail from a number in the Bronx, in Highbridge. I think you should listen, but not on speaker.
     준: 댄, 음성 메시지 왔어요. 브롱크스 번호요. 하이브리지. 들어 보셔야 할 것 같아요. 스피커 말고요.
 
 138. DAN: Highbridge, so that's—
@@ -431,7 +431,7 @@
 139. CARMEN: Mr. Reardon, this is Carmen Ortiz, Mateo's mother. I saw the advertisement with my face, and nobody asked me, so I want you to know I didn't say yes.
     카르멘: 레이든 씨, 카르멘 오르티스예요. 마테오 엄마요. 제 얼굴 나온 광고 봤어요. 아무도 저한테 묻지 않았어요. 제가 허락하지 않았다는 걸 알아 주셨으면 해요.
 
-140. CARMEN: I also want you to know something else: in the deposition, you asked me about the inhaler, the orange one, and nobody else asked me that, not the other lawyers, only you.
+140. CARMEN: I also want you to know something else. In the deposition, you asked me about the inhaler, the orange one. Nobody else asked me that, not the other lawyers, only you.
     카르멘: 그리고 하나 더 알아 주셨으면 해요. 증언 녹취 때 흡입기에 대해 물으셨죠. 주황색 거요. 다른 사람은 아무도 그걸 안 물었어요. 다른 변호사들도요. 당신만요.
 
 141. CARMEN: You were working for them, but you asked the question that told the truth, and I've thought about that for two years. I'm not saying I forgive you; I'm saying I remember the question.
