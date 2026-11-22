@@ -41,7 +41,7 @@
 009. ROSE: Elena, I'm fine, I'm just tired, because I made pastitsio for nine people.
     로즈: 엘레나, 난 괜찮아. 그냥 피곤해. 아홉 명 먹을 파스티치오를 만들었거든.
 
-010. ELENA: Rose, smile for me, and tell me if your face is the same on both sides, so look in the oven door, because it's shiny.
+010. ELENA: Rose, smile for me, and tell me if your face is the same on both sides. Look in the oven door, because it's shiny.
     엘레나: 어머님, 웃어 보세요. 얼굴 양쪽이 똑같은지 말해 주세요. 오븐 문 보세요. 반짝이잖아요.
 
 011. ROSE: The left side is lazy, like Hank's horse.
@@ -53,7 +53,7 @@
 013. ROSE: The left one is... heavy, and it doesn't want to.
     로즈: 왼쪽이… 무거워. 안 올라가려고 해.
 
-014. ELENA: Danny, call 911 now from your phone, and tell them it's a possible stroke in a seventy-eight-year-old woman on Thirty-first Street, Astoria, and tell them the time, which is ten-oh-two.
+014. ELENA: Danny, call 911 now from your phone. Tell them it's a possible stroke in a seventy-eight-year-old woman on Thirty-first Street, Astoria, and tell them the time, which is ten-oh-two.
     엘레나: 대니, 지금 당신 핸드폰으로 911에 전화해. 뇌졸중 의심, 일흔여덟 살 여성, 애스토리아 31번가. 시간도 말해. 열 시 2분.
 
 015. DAN: It's ten-oh-two, but Elena, why does the exact time matter so much?
@@ -86,7 +86,7 @@
 024. ROSE: Tell Kevin not to drive fast, or he'll get a ticket from himself.
     로즈: 케빈한테 빨리 운전하지 말라고 해. 자기가 자기한테 딱지 뗀다.
 
-025. ELENA: She's joking, and joking is good. Danny, get the car, because we're going to Elmhurst, and I'm calling ahead, because I want the stroke team waiting at the door.
+025. ELENA: She's joking, and joking is good. Danny, get the car, because we're going to Elmhurst. I'm calling ahead, because I want the stroke team waiting at the door.
     엘레나: 농담하시네. 농담은 좋은 거야. 대니, 차 가져와. 엘름허스트로 가. 미리 전화할게. 뇌졸중 팀이 문 앞에서 기다리게.
 
 026. DAN: Will the ambulance go to Elmhurst, or somewhere closer?
@@ -107,7 +107,7 @@
 031. DAN: Elena, what does "last known well" mean in plain English?
     댄: 엘레나, "마지막 정상 확인"이 쉬운 말로 무슨 뜻이야?
 
-032. ELENA: It's the last time someone knew she was normal, when the clock starts, and you talked to her at ten, so your phone call is the clock.
+032. ELENA: It's the last time someone knew she was normal, when the clock starts. You talked to her at ten, so your phone call is the clock.
     엘레나: 어머님이 정상이라는 걸 누가 마지막으로 안 시간이야. 그때부터 시계가 돌아. 당신이 열 시에 통화했으니까 당신 전화가 시계야.
 
 033. DAN: You mean the ten o'clock call, the one she always complains about.
@@ -116,7 +116,7 @@
 034. ELENA: The ten o'clock call is on her refrigerator, and you've called every night for two years, so tonight, it counted.
     엘레나: 그 열 시 전화가 어머님 냉장고에 붙어 있잖아. 당신이 2년 동안 매일 밤 전화했고, 오늘 밤 그게 효과가 있었어.
 
-035. KEVIN: Here she is, because I rode in the ambulance, and I left my car on Thirty-first Street with the lights on, so somebody's going to write me a ticket.
+035. KEVIN: Here she is, because I rode in the ambulance. I left my car on Thirty-first Street with the lights on, so somebody's going to write me a ticket.
     케빈: 여기 엄마 왔어. 구급차 타고 왔어. 차는 31번가에 불 켜 놓은 채 두고 왔고. 누가 딱지 뗄 거야.
 
 036. ROSE: Danny, Elena, there are too many people, and I'm wearing my house dress.
@@ -152,19 +152,19 @@
 046. DAN: I'm sorry, but I need it in English, please.
     댄: 죄송한데 쉬운 말로 해 주세요.
 
-047. MEHTA: A small blood clot is blocking a blood vessel in her brain, and no bleeding is good news, because it means we can give her a medicine that breaks up clots, a clot-busting drug.
+047. MEHTA: A small blood clot is blocking a blood vessel in her brain. No bleeding is good news, because it means we can give her a medicine that breaks up clots, a clot-busting drug.
     메타: 작은 혈전이 뇌혈관 하나를 막고 있어요. 출혈이 없다는 건 좋은 소식이에요. 혈전을 녹이는 약, 혈전 용해제를 쓸 수 있다는 뜻이거든요.
 
 048. DAN: And does it really work? Tell me honestly, Doctor.
     댄: 그게 정말 들어요? 솔직히 말해 주세요, 선생님.
 
-049. MEHTA: It often works if we give it early, and she was last well at ten, and it's ten forty-one, so we're inside the window. Mrs. Reardon, I'd like to give you a medicine through your arm. Is that okay?
+049. MEHTA: It often works if we give it early. She was last well at ten, and it's ten forty-one, so we're inside the window. Mrs. Reardon, I'd like to give you a medicine through your arm. Is that okay?
     메타: 일찍 쓰면 잘 들어요. 마지막 정상이 열 시였고 지금 열 시 41분이니 시간 안이에요. 레이든 부인, 팔로 약을 넣어 드리고 싶은데 괜찮으세요?
 
 050. ROSE: Danny, is he a good doctor, this young man?
     로즈: 대니, 이 젊은 양반 좋은 의사야?
 
-051. ELENA: Rose, he's the best stroke doctor in Queens, and I'd let him treat my own mother, so I'm letting him treat you, which is more.
+051. ELENA: Rose, he's the best stroke doctor in Queens, and I'd let him treat my own mother. So I'm letting him treat you, which is more.
     엘레나: 어머님, 퀸즈 최고의 뇌졸중 의사예요. 제 친엄마도 맡길 사람이에요. 어머님을 맡기는 건 그보다 더한 거고요.
 
 052. ROSE: Then yes, give me the medicine, and somebody turn off Kevin's car.
@@ -206,7 +206,7 @@
 064. DAN: I'll stay too, because I'm her son, the older one.
     댄: 나도 있을게. 나도 아들이야. 큰아들.
 
-065. ROSE: Both of you stay in the hallway, but Elena, go home, because Sam is alone, and Sam decides about Sam, but he's still fifteen.
+065. ROSE: Both of you stay in the hallway, but Elena, go home, because Sam is alone. Sam decides about Sam, but he's still fifteen.
     로즈: 둘 다 복도에 있어. 엘레나, 넌 집에 가. 샘 혼자 있잖아. 샘에 대해선 샘이 정한다지만 아직 열다섯이야.
 
 066. KEVIN: It's three a.m. with vending machine coffee, which is worse than Gus's.
@@ -215,7 +215,7 @@
 067. DAN: Nothing on this earth is worse than Gus's coffee, Kevin.
     댄: 거스네 커피보다 나쁜 건 이 세상에 없어, 케빈.
 
-068. KEVIN: This is, so taste it, because it's like the precinct coffee in 2009 that we called "the confession," because suspects drank one cup and told us everything.
+068. KEVIN: This is, so taste it. It's like the precinct coffee in 2009 that we called "the confession," because suspects drank one cup and told us everything.
     케빈: 이건 그래. 마셔 봐. 2009년 경찰서 커피 같아. 우린 "자백"이라고 불렀지. 용의자들이 한 잔 마시면 다 털어놨거든.
 
 069. DAN: Kevin, you were faster than the ambulance tonight.
@@ -257,13 +257,13 @@
 081. DAN: Kevin, tomorrow was supposed to be the family vote, Elena's March vote.
     댄: 케빈, 내일이 가족 투표였잖아. 엘레나의 3월 투표.
 
-082. KEVIN: I know, and Ma made pastitsio for nine people, which is why her words went sideways, because she was standing for six hours for a vote.
+082. KEVIN: I know, and Ma made pastitsio for nine people. That's why her words went sideways, because she was standing for six hours for a vote.
     케빈: 알아. 엄마가 아홉 명 먹을 파스티치오를 만들었지. 그래서 말이 꼬인 거야. 투표 하나 때문에 여섯 시간을 서 있었으니까.
 
 083. DAN: Then maybe there shouldn't be a vote at all.
     댄: 그럼 아예 투표를 안 하는 게 나을지도 몰라.
 
-084. KEVIN: Don't do that, and don't make Ma the reason, because Elena told you not to make Sam the reason, and it's the same rule.
+084. KEVIN: Don't do that, and don't make Ma the reason. Elena told you not to make Sam the reason, and it's the same rule.
     케빈: 그러지 마. 엄마를 이유로 만들지 마. 엘레나가 샘을 이유로 만들지 말랬잖아. 같은 규칙이야.
 
 085. DAN: Kevin, she almost...
@@ -305,13 +305,13 @@
 097. DAN: He said it once, in 1998, because Ma told me.
     댄: 한 번 했어. 1998년에. 엄마가 말해 줬어.
 
-098. KEVIN: Once in twenty-six years, and then you came home from school with a black eye and said, "My dad's the guy who tore the paper," and he never said it again.
+098. KEVIN: Once in twenty-six years. Then you came home from school with a black eye and said, "My dad's the guy who tore the paper," and he never said it again.
     케빈: 26년에 한 번. 그러고 형이 눈에 멍 들어서 학교에서 와서 "우리 아빠가 그 종이 찢은 사람이야"라고 했지. 그 뒤로 다시는 안 했어.
 
 099. DAN: You remember that, when you were only eleven years old?
     댄: 그걸 기억해? 겨우 열한 살이었는데?
 
-100. KEVIN: I remember everything about you, Danny, because I'm the little brother, and it's my job to remember, but your job is to stand on the crate.
+100. KEVIN: I remember everything about you, Danny, because I'm the little brother, and it's my job to remember. Your job is to stand on the crate.
     케빈: 형에 대한 건 다 기억해. 동생이니까. 기억하는 게 내 일이야. 형 일은 상자 위에 서는 거고.
 
 101. DAN: And what if I'm not good enough for a whole state?
@@ -323,13 +323,13 @@
 103. DAN: Who taught you that, Kevin, because it wasn't me?
     댄: 누가 그런 걸 가르쳐 줬어, 케빈? 나는 아닌데.
 
-104. KEVIN: It was a woman in a Bronx courtroom in 2027, Mrs. Ortiz's lawyer, Ruth, who said it to me in a hallway like this one, but I never told you.
+104. KEVIN: It was a woman in a Bronx courtroom in 2027, Mrs. Ortiz's lawyer, Ruth. She said it to me in a hallway like this one, but I never told you.
     케빈: 2027년 브롱크스 법정에서 한 여자가. 오르티스 부인 변호사, 루스. 이런 복도에서 나한테 말했어. 형한텐 말 안 했지만.
 
 105. DAN: Ruth said that to you, in a hallway, in 2027?
     댄: 루스가 2027년에 복도에서 너한테 그런 말을 했다고?
 
-106. KEVIN: She said a lot of things to a lot of people, but she just didn't tell you all of them, because she knew you'd make a speech. Ruth knew everybody's speeches before they made them.
+106. KEVIN: She said a lot of things to a lot of people, but she just didn't tell you all of them. She knew you'd make a speech. Ruth knew everybody's speeches before they made them.
     케빈: 그분은 많은 사람한테 많은 말을 했어. 형한테만 다 안 했을 뿐이지. 형이 연설할 거 알았으니까. 루스는 다들 연설하기 전에 그 연설을 알았어.
 
 107. MARISOL: Gentlemen, she's awake, and she's asking for both of you, and for her lipstick.
@@ -407,14 +407,14 @@
 131. ROSE: Then it counts. Elena, you're last, and you have the veto, which Sam says is a fire extinguisher.
     로즈: 그럼 유효하네. 엘레나, 네가 마지막이야. 거부권 있잖아. 샘이 소화기래.
 
-132. ELENA: Rose, last night I was scared, even though I'm a doctor, and when I heard your words go sideways, I thought, he can't do this, not now.
+132. ELENA: Rose, last night I was scared, even though I'm a doctor. When I heard your words go sideways, I thought, he can't do this, not now.
     엘레나: 어머님, 어젯밤 무서웠어요. 의사인데도요. 어머님 말이 꼬이는 걸 듣고 생각했어요. 이 사람은 이거 못 해. 지금은 아니야.
 
 133. ROSE: And what do you think now, in the morning?
     로즈: 그럼 아침이 된 지금은?
 
-134. ELENA: Now I've watched him make the ten o'clock call for two years, and I watched Kevin get here in nine minutes and Sam write four conditions. I don't think this family stops anybody, because I think it holds them up.
-    엘레나: 이제는요, 2년 동안 열 시 전화하는 걸 봤고, 케빈이 9분 만에 오는 걸 봤고, 샘이 조건 네 개를 쓰는 걸 봤어요. 이 가족은 아무도 멈춰 세우지 않아요. 붙잡아 주죠.
+134. ELENA: Now I've watched him make the ten o'clock call for two years. I watched Kevin get here in nine minutes and Sam write four conditions. I don't think this family stops anybody, because I think it holds them up.
+    엘레나: 이제는요, 2년 동안 열 시 전화하는 걸 봤어요. 케빈이 9분 만에 오는 걸 봤고, 샘이 조건 네 개를 쓰는 걸 봤어요. 이 가족은 아무도 멈춰 세우지 않아요. 붙잡아 주죠.
 
 135. ROSE: So what's your vote, Elena, after all that?
     로즈: 그래서 그 모든 걸 보고 네 표는 뭐야, 엘레나?
@@ -437,7 +437,7 @@
 141. KEVIN: I'm a lieutenant now, Ma, so I stop people.
     케빈: 이제 경위야, 엄마. 사람 막는 게 일이야.
 
-142. ROSE: Good boy. Danny, look at me, because your father would have run, and I know it, and Kevin knows it, so now you say it.
+142. ROSE: Good boy. Danny, look at me. Your father would have run, and I know it, and Kevin knows it, so now you say it.
     로즈: 착하다. 대니, 나 봐. 네 아버지였으면 출마했을 거야. 나도 알고 케빈도 알아. 이제 네가 말해.
 
 143. DAN: Dad would have run.
@@ -455,7 +455,7 @@
 147. DAN: Yes, I vote yes.
     댄: 찬성. 나도 찬성이야.
 
-148. ROSE: Good, then here's my only condition: you announce it where your father would want, not in Manhattan and not in a hotel, but at the last stop.
+148. ROSE: Good, then here's my only condition. You announce it where your father would want, not in Manhattan and not in a hotel, but at the last stop.
     로즈: 좋아. 그럼 내 조건은 하나야. 네 아버지가 원할 곳에서 발표해. 맨해튼 말고, 호텔 말고. 종점에서.
 
 149. DAN: You mean Ditmars Boulevard.
