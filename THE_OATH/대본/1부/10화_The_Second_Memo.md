@@ -17,7 +17,7 @@
 001. AISHA: You came straight here in black tie, didn't you?
     아이샤: 턱시도 차림 그대로 바로 오셨네요.
 
-002. DAN: I came from Howard's dinner, where somebody gave a toast about how honest I look, and I'm still wearing it.
+002. DAN: I came from Howard's dinner. Somebody gave a toast about how honest I look, and I'm still wearing it.
     댄: 하워드네 저녁에서 왔어. 누가 내가 얼마나 정직해 보이는지 건배사를 했지. 그 옷 그대로야.
 
 003. AISHA: I'm sorry, because I know what tonight was supposed to be.
@@ -32,19 +32,19 @@
 006. DAN: I remember that, because Carrow was on Kessler's list of the important ones.
     댄: 기억나. 캐로우는 케슬러가 말한 중요한 사람 명단에 있었지.
 
-007. AISHA: Her email was collected in August with everyone else's, but two weeks ago the vendor found a full backup of her old laptop, from before she got a new one. It came in late, so it went straight into our review queue.
+007. AISHA: Her email was collected in August with everyone else's. But two weeks ago the vendor found a full backup of her old laptop, from before she got a new one. It came in late, so it went straight into our review queue.
     아이샤: 그분 이메일은 8월에 다른 사람들 거랑 같이 수집됐어요. 근데 2주 전에 업체가 그분 예전 노트북의 전체 백업을 찾았어요. 늦게 들어와서 바로 우리 검토 대기열로 갔고요.
 
 008. DAN: And it didn't go through Castellan's in-house team first?
     댄: Castellan 사내 팀을 먼저 안 거쳤어?
 
-009. AISHA: Not first, because their team only pre-screens files that come from the company directly, and this came from the vendor's forensic copy. Neil's team ran our search terms on it on Tuesday.
+009. AISHA: Not first. Their team only pre-screens files that come from the company directly, and this came from the vendor's forensic copy. Neil's team ran our search terms on it on Tuesday.
     아이샤: 먼저는 안 거쳤어요. 그쪽 팀은 회사에서 직접 온 파일만 사전 검토하거든요. 이건 업체의 포렌식 사본에서 나왔어요. 닐 팀이 화요일에 우리 검색어를 돌렸고요.
 
 010. DAN: Search terms, meaning the words we told the computer to look for.
     댄: 검색어라. 컴퓨터한테 찾으라고 지정한 단어들 말이지.
 
-011. AISHA: "Nurse," "overnight," "Thrift," the names of the three men who died. A reviewer flagged one document tonight around nine and sent it to me, because I'm the person who asked for anything about staffing.
+011. AISHA: "Nurse," "overnight," "Thrift," the names of the three men who died. A reviewer flagged one document tonight around nine and sent it to me. I'm the person who asked for anything about staffing.
     아이샤: '간호사', '야간', 'Thrift', 그리고 사망한 세 분 이름이요. 오늘 밤 아홉 시쯤 검토자 한 명이 문서 하나를 표시해서 저한테 보냈어요. 인력 관련은 전부 저한테 달라고 했으니까요.
 
 012. DAN: Do you know which reviewer it was on Neil's team?
@@ -56,13 +56,13 @@
 014. DAN: Of course it was.
     댄: 당연히 그분이겠지.
 
-015. AISHA: It's an email with attachments, so do you want to read it on the screen, or should I print it?
+015. AISHA: It's an email with attachments. Do you want to read it on the screen, or should I print it?
     아이샤: 첨부 파일이 있는 이메일이에요. 화면으로 읽으실래요, 아니면 출력할까요?
 
 016. DAN: Read it to me. I want to hear it before I see it.
     댄: 읽어 줘. 보기 전에 먼저 듣고 싶어.
 
-017. AISHA: It's dated July eighth, 2025, from Ron Dwyer to Beth Carrow, with copies to Grant Holloway and Martin Kessler, and the subject line is "Incident report revisions, CP eleven-twenty-four, RF three-twenty-five, SW six-twenty-five."
+017. AISHA: It's dated July eighth, 2025, from Ron Dwyer to Beth Carrow. Grant Holloway and Martin Kessler are copied. The subject line is "Incident report revisions, CP eleven-twenty-four, RF three-twenty-five, SW six-twenty-five."
     아이샤: 2025년 7월 8일. 론 드와이어가 베스 캐로우에게. 참조, 그랜트 홀러웨이와 마틴 케슬러. 제목: "사고 보고서 수정. CP 11-24, RF 3-25, SW 6-25."
 
 018. DAN: That's Carver Point in November 2024, Ridgefield in March 2025, and Stillwater in June 2025.
@@ -80,7 +80,7 @@
 022. DAN: What phrases?
     댄: 무슨 표현?
 
-023. AISHA: The phrases are "No medical staff on duty," "Telehealth connection unavailable," and "Awaiting nurse," and it says to replace them with "Staff responded per protocol."
+023. AISHA: The phrases are "No medical staff on duty," "Telehealth connection unavailable," and "Awaiting nurse." It says to replace them with "Staff responded per protocol."
     아이샤: "'근무 중인 의료진 없음.' '원격진료 연결 불가.' '간호사 대기 중.' 이를 '직원이 규정에 따라 대응함'으로 대체할 것."
 
 024. DAN: Keep going.
@@ -92,7 +92,7 @@
 026. DAN: "The original drafts should not be retained."
     댄: "원본 초안은 보관하지 말 것."
 
-027. AISHA: There's a reply from Grant Holloway eleven minutes later, and it says, "Agreed, keep it tight, Thrift stays internal," signed with a G.
+027. AISHA: There's a reply from Grant Holloway eleven minutes later. It says, "Agreed, keep it tight, Thrift stays internal," signed with a G.
     아이샤: 답장이 있어요. 11분 뒤에 그랜트 홀러웨이한테서요. "동의. 단단히 해 둬. 스리프트는 내부에서만." 서명은 G.
 
 028. DAN: One line, because he told me he'd only ever write one line.
@@ -104,7 +104,7 @@
 030. DAN: What is that, another email or something she wrote herself?
     댄: 그건 뭐야? 또 다른 이메일이야, 아니면 본인이 직접 쓴 거야?
 
-031. AISHA: It's a folder on Beth Carrow's old laptop called "Personal — DO NOT DELETE," and inside there's a copy of Dwyer's email, three PDF files, and a note to herself, dated the same day.
+031. AISHA: It's a folder on Beth Carrow's old laptop called "Personal — DO NOT DELETE." Inside there's a copy of Dwyer's email, three PDF files, and a note to herself, dated the same day.
     아이샤: 베스 캐로우의 예전 노트북에 있는 폴더예요. 이름이 "개인 — 삭제 금지." 안에 드와이어 이메일 사본이랑 PDF 파일 세 개, 그리고 같은 날짜로 자기한테 쓴 메모가 있어요.
 
 032. DAN: Read me the note she wrote to herself, word for word.
@@ -116,7 +116,7 @@
 034. DAN: And the three PDFs are the ones I think they are?
     댄: 그리고 PDF 세 개는 내가 생각하는 그거야?
 
-035. AISHA: They're the original incident reports from before the revisions, all three with the facility staff's signatures, and the phrases are still in them.
+035. AISHA: They're the original incident reports from before the revisions. All three have the facility staff's signatures, and the phrases are still in them.
     아이샤: 수정 전 사고 보고서 원본이에요. 세 건 다 시설 직원 서명이 있고, 그 문구들이 그대로 남아 있어요.
 
 036. DAN: Open the Ridgefield one first, because that's Mateo.
@@ -134,13 +134,13 @@
 040. DAN: Twice.
     댄: 두 번.
 
-041. AISHA: "At zero-one-fifty-two, detainee was unresponsive, and Officer Duran began CPR. EMS was called by the shift supervisor at zero-two-zero-four and arrived at zero-two-thirty-one, and the detainee was pronounced dead at Saint Anthony's at zero-three-ten."
+041. AISHA: "At zero-one-fifty-two, detainee was unresponsive, and Officer Duran began CPR. EMS was called by the shift supervisor at zero-two-zero-four and arrived at zero-two-thirty-one. The detainee was pronounced dead at Saint Anthony's at zero-three-ten."
     아이샤: "01시 52분, 수용자 반응 없음. 두란 교도관 심폐소생술 시작. 02시 04분, 근무 감독관이 구급대 호출. 02시 31분 구급대 도착. 03시 10분 세인트 앤서니 병원에서 사망 선고."
 
 042. DAN: That's twelve minutes between "unresponsive" and calling an ambulance.
     댄: '반응 없음'부터 구급차 부를 때까지 12분.
 
-043. AISHA: It's thirty-four minutes between "difficulty breathing" and calling an ambulance, and Officer Duran wrote something at the bottom, by hand. Can I read it?
+043. AISHA: It's thirty-four minutes between "difficulty breathing" and calling an ambulance. Officer Duran wrote something at the bottom, by hand. Can I read it?
     아이샤: '호흡 곤란'부터 구급차까지는 34분이에요. 그리고 두란 교도관이 맨 아래에 손으로 뭘 적었어요. 읽어도 돼요?
 
 044. DAN: Read it.
@@ -158,13 +158,13 @@
 048. DAN: "Promptly."
     댄: '신속히.'
 
-049. AISHA: It took thirty-four minutes, Dan, and the other two are the same. Carver Point says "awaiting nurse, no nurse on site" for Mr. Nowak, and Stillwater says the telehealth doctor was "unavailable" for Mr. Mensah.
+049. AISHA: It took thirty-four minutes, Dan, and the other two are the same. Carver Point says "awaiting nurse, no nurse on site" for Mr. Nowak. Stillwater says the telehealth doctor was "unavailable" for Mr. Mensah.
     아이샤: 34분이에요, 댄. 나머지 둘도 똑같아요. 카버 포인트는 노왁 씨 건에 "간호사 대기 중, 현장 간호사 없음"이라고 써 있고, 스틸워터는 멘사 씨 건에 원격진료 의사가 "연결 불가"였대요.
 
 050. DAN: Okay.
     댄: 그래.
 
-051. AISHA: That's the second time you've said "okay" to me about this case, and the first time was the nursing emails, when you said there'd be context.
+051. AISHA: That's the second time you've said "okay" to me about this case. The first time was the nursing emails, when you said there'd be context.
     아이샤: 이 사건으로 저한테 "알았어"라고 하신 게 두 번째예요. 첫 번째는 간호 인력 이메일 때였고요. 그땐 맥락이 있을 거라고 하셨죠.
 
 052. DAN: I remember exactly what I said that day, Aisha, believe me.
@@ -173,14 +173,14 @@
 053. AISHA: Is there context now, any context at all that makes this okay?
     아이샤: 지금은 맥락이 있어요? 이걸 괜찮게 만드는 맥락이 하나라도요?
 
-054. DAN: No, there's no context for "the original drafts should not be retained," because there's only one way to read that sentence.
+054. DAN: No, there's no context for "the original drafts should not be retained." There's only one way to read that sentence.
     댄: 아니. "원안은 보관하지 말 것"에 맥락 같은 건 없어. 그 문장은 읽는 방법이 하나뿐이야.
 
 055. AISHA: What do we do tonight, I mean? What do we actually do?
     아이샤: 오늘 밤엔 뭘 해요? 실제로 뭘 하죠?
 
-056. DAN: Tonight we do nothing, so you go home, and you don't talk to anyone about this, not Neil, not Victoria, not your mother. That's not because it's a secret, but because it's privileged and confidential, and it belongs to the client.
-    댄: 오늘 밤엔 아무것도 안 해. 넌 집에 가. 아무한테도 말하지 마. 닐도, 빅토리아도, 어머니도. 비밀이라서가 아니라, 특권이 있고 기밀이고 의뢰인 것이기 때문이야.
+056. DAN: Tonight we do nothing. You go home, and you don't talk to anyone about this, not Neil, not Victoria, not your mother. That's not because it's a secret. It's because it's privileged and confidential, and it belongs to the client.
+    댄: 오늘 밤엔 아무것도 안 해. 넌 집에 가. 아무한테도 말하지 마. 닐도, 빅토리아도, 어머니도. 비밀이라서가 아니야. 특권이 있고 기밀이고 의뢰인 것이기 때문이야.
 
 057. AISHA: It belongs to the client, so a document that shows the client lied to the government belongs to the client.
     아이샤: 의뢰인 거라고요. 의뢰인이 정부에 거짓말했다는 걸 보여 주는 문서가 의뢰인 거라고요.
@@ -218,7 +218,7 @@
 068. DAN: It's the only thing in my head right now that I'm sure about.
     댄: 지금 내 머릿속에서 확실한 게 그것뿐이야.
 
-069. TEDDY: I'm sorry to bother you, Mr. Reardon, but I'm with security, and I saw the light on and thought somebody had left it, because it's three in the morning.
+069. TEDDY: I'm sorry to bother you, Mr. Reardon, but I'm with security. I saw the light on and thought somebody had left it, because it's three in the morning.
     테디: 죄송합니다, 레이든 변호사님. 경비입니다. 불이 켜져 있어서 누가 끄고 안 간 줄 알았어요. 새벽 세 시라서요.
 
 070. DAN: It's fine, Teddy, because I'm still here working on something.
@@ -230,25 +230,25 @@
 072. DAN: Somebody got promoted tonight, but it's a long story, and it's not a very interesting one.
     댄: 오늘 밤에 누가 승진했어요. 긴 얘기인데, 별로 재미있진 않아요.
 
-073. TEDDY: I brought coffee from the machine in the lobby, and it's terrible, but it's hot, which at three in the morning is the same as good.
+073. TEDDY: I brought coffee from the machine in the lobby. It's terrible, but it's hot, and at three in the morning that's the same as good.
     테디: 로비 자판기 커피 가져왔어요. 맛은 끔찍한데 뜨거워요. 새벽 세 시엔 그게 맛있는 거랑 같죠.
 
 074. DAN: Thank you for the coffee, Teddy, and you've worked nights here for a long time, haven't you?
     댄: 커피 고마워요, 테디. 여기서 야간 근무 오래 하셨죠?
 
-075. TEDDY: Eleven years, so I know every lawyer in this building by the time they leave, and you're usually a midnight guy, so three in the morning is new for you.
+075. TEDDY: Eleven years, so I know every lawyer in this building by the time they leave. You're usually a midnight guy, so three in the morning is new for you.
     테디: 11년이요. 이 건물 변호사들 다 퇴근 시간으로 알아요. 변호사님은 보통 자정파잖아요. 새벽 세 시는 처음이에요.
 
 076. DAN: I'm branching out, Teddy, and trying some new hours this week.
     댄: 영역을 넓히는 중이에요, 테디. 이번 주엔 새로운 시간대로.
 
-077. TEDDY: The building's different at night, you know, because in the day it's all noise, with phones, elevators, and people walking fast. At night, you can hear the heat in the pipes, and it sounds like the building is breathing.
+077. TEDDY: The building's different at night, you know. In the day it's all noise, with phones, elevators, and people walking fast. At night, you can hear the heat in the pipes, and it sounds like the building is breathing.
     테디: 밤엔 건물이 달라요. 낮엔 온통 소음이잖아요. 전화, 엘리베이터, 빨리 걷는 사람들. 밤엔 배관에 난방 도는 소리가 들려요. 건물이 숨 쉬는 것 같아요.
 
 078. DAN: Someone told me that recently, that a hospital at night is a different building, because it runs on nurses.
     댄: 최근에 누가 그런 말을 했어요. 밤의 병원은 다른 건물이라고. 간호사로 돌아간다고.
 
-079. TEDDY: My mother's in a nursing home in the Bronx, on Gun Hill Road, and at night they have one nurse for forty beds. I visit on my day off, and the night nurse always knows exactly how she slept.
+079. TEDDY: My mother's in a nursing home in the Bronx, on Gun Hill Road. At night they have one nurse for forty beds. I visit on my day off, and the night nurse always knows exactly how she slept.
     테디: 우리 어머니가 브롱크스 건 힐 로드에 있는 요양원에 계세요. 밤엔 간호사 한 명이 침대 마흔 개를 봐요. 쉬는 날 찾아가면, 야간 간호사가 어머니가 어떻게 주무셨는지 정확히 알아요.
 
 080. DAN: One nurse for forty beds, every single night of the week.
@@ -260,8 +260,8 @@
 082. DAN: Yes, it is, Teddy, and you're right about that.
     댄: 맞아요, 테디. 그 말이 맞아요.
 
-083. TEDDY: Are you okay? I'm not supposed to ask the lawyers that, but you're reading the same page over and over, and I've been watching on the camera, so I'm sorry.
-    테디: 괜찮으세요? 변호사님들한테 이런 거 물으면 안 되는데, 같은 페이지를 계속 읽고 계셔서요. 카메라로 보고 있었어요. 죄송해요.
+083. TEDDY: Are you okay? I'm not supposed to ask the lawyers that. But you're reading the same page over and over, and I've been watching on the camera, so I'm sorry.
+    테디: 괜찮으세요? 변호사님들한테 이런 거 물으면 안 되는데요. 같은 페이지를 계속 읽고 계셔서요. 카메라로 보고 있었어요. 죄송해요.
 
 084. DAN: Teddy, can I ask you a strange question? It's not a legal question, it's a night-shift question.
     댄: 테디, 이상한 질문 하나 해도 돼요? 법률 질문 말고, 야간 근무 질문이요.
@@ -269,8 +269,8 @@
 085. TEDDY: Those are the only kind of questions I can answer.
     테디: 제가 대답할 수 있는 질문은 그런 것뿐이에요.
 
-086. DAN: Say something bad happened on your shift, and you wrote it down exactly the way it happened, and then your boss told you to change the report so the company looked better. What would you do?
-    댄: 근무 중에 나쁜 일이 생겼다고 쳐요. 있었던 그대로 적었는데, 상사가 회사가 좋아 보이게 보고서를 바꾸라고 했어요. 어떻게 하시겠어요?
+086. DAN: Say something bad happened on your shift, and you wrote it down exactly the way it happened. Then your boss told you to change the report so the company looked better. What would you do?
+    댄: 근무 중에 나쁜 일이 생겼다고 쳐요. 있었던 그대로 적었어요. 그런데 상사가 회사가 좋아 보이게 보고서를 바꾸라고 했어요. 어떻게 하시겠어요?
 
 087. TEDDY: Honestly?
     테디: 솔직히요?
@@ -278,7 +278,7 @@
 088. DAN: Honestly.
     댄: 솔직히.
 
-089. TEDDY: I'd change it, because I've got a mother in a nursing home and a kid at Lehman College, and I can't lose this job. But I'd keep a copy of the first one somewhere safe, because one day somebody's going to ask.
+089. TEDDY: I'd change it. I've got a mother in a nursing home and a kid at Lehman College, and I can't lose this job. But I'd keep a copy of the first one somewhere safe, because one day somebody's going to ask.
     테디: 바꾸겠죠. 요양원에 어머니가 계시고 리먼 칼리지에 애가 있어요. 이 일자리 잃으면 안 돼요. 그래도 첫 번째 거 사본은 안전한 데 둘 거예요. 언젠가 누가 물어볼 테니까요.
 
 090. DAN: That's exactly what she did, Teddy, word for word.
@@ -290,7 +290,7 @@
 092. DAN: Nobody, just somebody I've never met, and I think she's been waiting for someone to ask for about a year and a half.
     댄: 아무도 아니에요. 만나 본 적 없는 사람이요. 1년 반쯤 누가 물어봐 주길 기다리고 있었던 것 같아요.
 
-093. TEDDY: Then I hope somebody asks her. It's not my place, Mr. Reardon, but you should go home, because whatever's on that page will still be there in the morning, since paper doesn't go anywhere.
+093. TEDDY: Then I hope somebody asks her. It's not my place, Mr. Reardon, but you should go home. Whatever's on that page will still be there in the morning. Paper doesn't go anywhere.
     테디: 그럼 누가 물어봐 주면 좋겠네요. 제가 할 말은 아니지만, 레이든 변호사님, 집에 가세요. 그 종이에 뭐가 있든 아침에도 있을 거예요. 종이는 어디 안 가요.
 
 094. DAN: That's the problem, Teddy, because paper doesn't go anywhere unless somebody makes it go.
@@ -302,7 +302,7 @@
 096. DAN: And what's the book, because I could use something boring right about now?
     댄: 무슨 책이에요? 지금 딱 지루한 게 필요하거든요.
 
-097. TEDDY: It's a history of the Erie Canal, which my son says will help me sleep, but it's not working, because it's actually kind of exciting.
+097. TEDDY: It's a history of the Erie Canal. My son says it will help me sleep, but it's not working, because it's actually kind of exciting.
     테디: 이리 운하의 역사요. 아들이 잠 잘 올 거라고 했는데 안 통해요. 사실 좀 흥미진진해요.
 
 098. GUS: We're not open, whoever you are, until five o'clock, so read the sign.
@@ -329,7 +329,7 @@
 105. DAN: Just the coffee this morning, Gus, because I can't eat.
     댄: 오늘 아침은 커피만요, 거스. 못 먹겠어요.
 
-106. GUS: You want just the coffee? In thirty years, you've never said "just the coffee," because you always want the eggs, even when you had the flu in 2009.
+106. GUS: You want just the coffee? In thirty years, you've never said "just the coffee." You always want the eggs, even when you had the flu in 2009.
     거스: 커피만? 30년 동안 '커피만'이라고 한 적이 없어. 항상 달걀을 찾았지. 2009년에 독감 걸렸을 때도 달걀 찾았어.
 
 107. DAN: I'm not hungry, Gus. I don't think I could eat anything right now.
@@ -359,7 +359,7 @@
 115. DAN: I remember the fires. Dad used to say it was the only diner in Queens with a fireworks show.
     댄: 불난 거 기억나요. 아버지가 퀸즈에서 불꽃놀이 쇼 하는 다이너는 여기뿐이라고 하셨어요.
 
-116. GUS: In 1983, a health inspector came in when our big refrigerator was broken, and it was keeping things cool, but not cold enough. The inspector looked at it, and then he looked at my father.
+116. GUS: In 1983, a health inspector came in when our big refrigerator was broken. It was keeping things cool, but not cold enough. The inspector looked at it, and then he looked at my father.
     거스: 1983년에 위생 검사관이 왔어. 큰 냉장고가 고장 나 있었지. 시원하긴 한데 충분히 차갑진 않았어. 검사관이 냉장고를 보고, 그다음 우리 아버지를 봤어.
 
 117. DAN: And?
@@ -377,13 +377,13 @@
 121. DAN: Why are you telling me this?
     댄: 왜 저한테 이 얘기를 해 주세요?
 
-122. GUS: Because my father used to say the worst part wasn't the money, but the three days before he decided. He couldn't sleep or eat, and he sat right where you're sitting, at five in the morning, drinking his own bad coffee.
-    거스: 아버지가 그랬어. 최악은 돈이 아니라 결정하기 전 사흘이었다고. 잠도 못 자고 먹지도 못했지. 네가 앉은 바로 그 자리에서, 새벽 다섯 시에, 자기가 끓인 맛없는 커피를 마셨어.
+122. GUS: Because my father used to say the worst part wasn't the money. It was the three days before he decided. He couldn't sleep or eat, and he sat right where you're sitting, at five in the morning, drinking his own bad coffee.
+    거스: 아버지가 그랬어. 최악은 돈이 아니었대. 결정하기 전 사흘이었대. 잠도 못 자고 먹지도 못했지. 네가 앉은 바로 그 자리에서, 새벽 다섯 시에, 자기가 끓인 맛없는 커피를 마셨어.
 
 123. DAN: And then?
     댄: 그다음엔요?
 
-124. GUS: Then he said it out loud to nobody, to the grill: "I saw it." Once he said it out loud, he said, the decision was already made, and the three days were just him not wanting to hear himself say it.
+124. GUS: Then he said it out loud to nobody, to the grill: "I saw it." Once he said it out loud, he said, the decision was already made. The three days were just him not wanting to hear himself say it.
     거스: 그러다 소리 내서 말했대. 아무한테도 아니고, 그릴한테. "내가 봤다." 소리 내서 말하고 나니 결정은 이미 나 있었대. 사흘은 그냥 자기가 그 말 하는 걸 듣기 싫었던 거래.
 
 125. DAN: Gus, I can't say it, not even to the grill, because that's the rule.
@@ -401,7 +401,7 @@
 129. DAN: They knew.
     댄: 그들은 알았어.
 
-130. DAN: They knew the nurses were gone, and they knew people would die, and when people died, they changed the reports and told everybody to throw the originals away.
+130. DAN: They knew the nurses were gone, and they knew people would die. When people died, they changed the reports and told everybody to throw the originals away.
     댄: 간호사가 없다는 걸 알았어. 사람이 죽을 걸 알았어. 그리고 사람이 죽자 보고서를 고치고, 원본은 버리라고 했어.
 
 131. GUS: Did you say something, Danny? I didn't hear anything, because I'm cracking eggs.
@@ -410,7 +410,7 @@
 132. DAN: No, Gus, I didn't say anything at all to anyone.
     댄: 아니요, 거스. 아무한테도 아무 말 안 했어요.
 
-133. GUS: Good, because your phone's buzzing on my counter at five-thirty, and only one person calls you at five-thirty in the morning.
+133. GUS: Good, because your phone's buzzing on my counter at five-thirty. Only one person calls you at five-thirty in the morning.
     거스: 좋아. 네 폰이 내 카운터에서 울린다. 다섯 시 반이야. 새벽 다섯 시 반에 너한테 전화하는 사람은 하나뿐이지.
 
 134. ELENA: Where are you right now? You didn't come home, and the bed is cold on your side, which means you were never in it.
@@ -437,7 +437,7 @@
 141. DAN: I can't tell you.
     댄: 말 못 해.
 
-142. ELENA: That's a yes, because I've been married to you for fifteen years, and your "I can't tell you" has a yes in it and a no in it, and that was a yes.
+142. ELENA: That's a yes. I've been married to you for fifteen years. Your "I can't tell you" has a yes in it and a no in it, and that was a yes.
     엘레나: 그건 '응'이네. 당신이랑 15년 살았어. 당신의 "말 못 해"엔 '응'도 있고 '아니'도 있는데, 방금 건 '응'이었어.
 
 143. DAN: El.
@@ -458,10 +458,10 @@
 148. ELENA: And who knows the rules better than you do?
     엘레나: 규칙을 당신보다 잘 아는 사람이 누군데?
 
-149. DAN: There's a man on the forty-fifth floor whose whole job is that question, the firm's own lawyer, and I've never needed him before.
-    댄: 45층에 그 질문이 일 전부인 사람이 있어. 회사 자체 변호사. 지금까지 한 번도 필요했던 적이 없어.
+149. DAN: There's a man on the forty-fifth floor whose whole job is that question. He's the firm's own lawyer, and I've never needed him before.
+    댄: 45층에 그 질문이 일 전부인 사람이 있어. 회사 자체 변호사야. 지금까지 한 번도 필요했던 적이 없어.
 
-150. GUS: Here are two eggs over easy and rye toast. I know you said just the coffee, but eat it anyway, because nobody goes to see a lawyer on an empty stomach.
+150. GUS: Here are two eggs over easy and rye toast. I know you said just the coffee, but eat it anyway. Nobody goes to see a lawyer on an empty stomach.
     거스: 자, 달걀 두 개 반숙, 호밀빵. 커피만이라고 한 거 알아. 그래도 먹어. 빈속으로 변호사 만나러 가는 사람은 없어.
 
 ---
