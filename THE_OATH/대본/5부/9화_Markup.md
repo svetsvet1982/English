@@ -50,7 +50,7 @@
 012. BEN: Welcome to the House, June. Card three is germane.
     벤: 하원에 오신 걸 환영해요, 준. 3번 카드, 관련성.
 
-013. DAN: An amendment has to be germane, which means it has the same subject as the bill, so no farm subsidies in an airport bill.
+013. DAN: An amendment has to be germane, which means it has the same subject as the bill. So no farm subsidies in an airport bill.
     댄: 수정안은 관련성이 있어야 해요. 법안과 주제가 같아야 한다는 거죠. 공항 법안에 농업 보조금을 넣으면 안 되고요.
 
 014. BEN: Right, and if a member thinks your amendment isn't germane, they "reserve a point of order." It means, "I might object to this on the rules, but I'll decide after I hear it."
@@ -62,22 +62,22 @@
 016. BEN: Exactly, sir, and that's what worries me about yours, which has three parts, so let's look again.
     벤: 바로 그겁니다, 의원님. 그래서 의원님 수정안이 걱정이에요. 세 부분으로 돼 있으니 다시 보죠.
 
-017. LEILA: Part one says that when someone dies in ICE detention, the department has to report it publicly within forty-eight hours, while right now it can take ninety days.
+017. LEILA: Part one says that when someone dies in ICE detention, the department has to report it publicly within forty-eight hours. Right now it can take ninety days.
     레일라: 1부. ICE 구금 중에 누가 사망하면 부처가 48시간 안에 공개 보고해야 해요. 지금은 90일까지 걸릴 수 있어요.
 
 018. LEILA: Part two says every facility holding ICE detainees needs one nurse on duty per fifty people, around the clock.
     레일라: 2부. ICE 구금자를 수용하는 모든 시설은 50명당 간호사 한 명이 24시간 근무해야 해요.
 
-019. LEILA: Part three says that if a private company fails two inspections in a row, ICE can't renew its contract, and that's the part with teeth.
+019. LEILA: Part three says that if a private company fails two inspections in a row, ICE can't renew its contract. That's the part with teeth.
     레일라: 3부. 민간 회사가 점검에서 두 번 연속 떨어지면 ICE는 계약을 갱신할 수 없어요. 이빨이 있는 건 이 부분이에요.
 
-020. BEN: And part three is my problem, because the rules about how the government signs contracts belong to the Oversight Committee, not Homeland, so someone could say part three isn't germane.
+020. BEN: And part three is my problem. The rules about how the government signs contracts belong to the Oversight Committee, not Homeland, so someone could say part three isn't germane.
     벤: 그리고 3부가 문제예요. 정부가 계약을 맺는 규칙은 국토안보위가 아니라 감독위원회 소관이거든요. 누군가 3부는 관련성이 없다고 할 수 있어요.
 
 021. DAN: And what happens to the rest if they're right?
     댄: 그 사람 말이 맞으면 나머지는 어떻게 돼요?
 
-022. BEN: Then the chair rules the whole amendment out of order, not just part three, so the forty-eight hours and the nurses and everything else are gone.
+022. BEN: Then the chair rules the whole amendment out of order, not just part three. The forty-eight hours and the nurses and everything else are gone.
     벤: 그럼 위원장이 수정안 전체를 규칙 위반으로 판정해요. 3부만이 아니라 전부요. 48시간도, 간호사도, 전부 사라져요.
 
 023. LEILA: So we take out the teeth to save the mouth.
@@ -89,7 +89,7 @@
 025. DAN: Can I keep part three in, and if someone raises the point of order, take it out then?
     댄: 3부를 넣어 두고, 누가 이의를 제기하면 그때 빼도 돼요?
 
-026. BEN: You can ask to modify your own amendment, but it takes unanimous consent, so if one member objects, you can't change it, and then the chair rules on the whole thing.
+026. BEN: You can ask to modify your own amendment, but it takes unanimous consent. If one member objects, you can't change it, and then the chair rules on the whole thing.
     벤: 자기 수정안을 고쳐 달라고 요청할 순 있어요. 그런데 만장일치 동의가 필요해요. 한 명만 반대해도 못 고치고, 그럼 위원장이 전체를 판정하죠.
 
 027. DAN: So just one person can kill the whole thing.
@@ -98,7 +98,7 @@
 028. BEN: One person can kill almost anything here, sir, so that part is easy.
     벤: 여기선 한 사람이 거의 뭐든 죽일 수 있어요, 의원님. 그건 쉬운 부분이에요.
 
-029. AISHA: Dan, it's ten thirty, and you've read the bill, read the amendment, and done flashcards, so go home and sleep, because facts first means sleep first.
+029. AISHA: Dan, it's ten thirty, and you've read the bill, read the amendment, and done flashcards. Go home and sleep, because facts first means sleep first.
     아이샤: 댄, 열 시 반이에요. 법안 읽었고, 수정안 읽었고, 플래시카드도 했어요. 집에 가서 주무세요. 사실 먼저는 잠 먼저라는 뜻이에요.
 
 030. DAN: One more card, so Ben, what's the last one?
@@ -116,7 +116,7 @@
 034. DAN: And Hank is the one who might vote with me.
     댄: 그리고 행크가 그 한 명일 수도 있고요.
 
-035. BEN: Congressman Pruitt is the only one who's read it, because his legislative director called me at four with questions, and they were good questions.
+035. BEN: Congressman Pruitt is the only one who's read it. His legislative director called me at four with questions, and they were good questions.
     벤: 프루잇 의원님이 유일하게 읽은 분이에요. 그쪽 입법보좌관이 네 시에 질문하려고 전화했거든요. 좋은 질문들이었어요.
 
 036. DAN: I'll see him at the house tonight, probably over pizza.
@@ -179,7 +179,7 @@
 055. DAN: "An amendment in the nature of a substitute" — Ben, I forgot that card.
     댄: "대체 수정안." 벤, 그 카드 까먹었어요.
 
-056. BEN: It means the chair replaced the whole bill with a new version, so the six hundred and eight pages became six hundred and twenty-one this morning, and everybody amends that version now.
+056. BEN: It means the chair replaced the whole bill with a new version. The six hundred and eight pages became six hundred and twenty-one this morning, and everybody amends that version now.
     벤: 위원장이 법안 전체를 새 버전으로 바꿨다는 뜻이에요. 608쪽이 오늘 아침 621쪽이 됐어요. 이제 다들 그 버전을 수정하는 거예요.
 
 057. DAN: That's thirteen new pages, so did you read them?
@@ -233,7 +233,7 @@
 073. STROUD: Does the gentleman from Arizona insist on his point of order?
     스트라우드: 애리조나주 위원께서는 의사 규칙 이의를 고수하십니까?
 
-074. KINCAID: I do, Madam Chairwoman. Section three of the amendment changes federal contracting law, and contract renewals and procurement rules are in the jurisdiction of the Committee on Oversight, not this committee, so the amendment is not germane.
+074. KINCAID: I do, Madam Chairwoman. Section three of the amendment changes federal contracting law. Contract renewals and procurement rules are in the jurisdiction of the Committee on Oversight, not this committee, so the amendment is not germane.
     킨케이드: 고수합니다, 위원장님. 수정안 3조는 연방 계약법을 바꿉니다. 계약 갱신과 조달 규칙은 이 위원회가 아니라 감독위원회 소관입니다. 그러므로 이 수정안은 관련성이 없습니다.
 
 075. DAN: Ben, what do I do now?
@@ -305,7 +305,7 @@
 097. STROUD: The gentleman is recognized for five minutes.
     스트라우드: 위원께 5분을 드립니다.
 
-098. DAN: The gentleman from Arizona is right that families deserve accurate information, but my amendment doesn't say the medical review has to be finished in forty-eight hours.
+098. DAN: The gentleman from Arizona is right that families deserve accurate information. But my amendment doesn't say the medical review has to be finished in forty-eight hours.
     댄: 애리조나의 의원님 말씀대로 가족에겐 정확한 정보가 필요합니다. 그런데 제 수정안은 의료 검토를 48시간 안에 끝내라는 게 아닙니다.
 
 099. DAN: It says the family has to be told that their son is dead, and where, and when. That's not a medical review, it's a phone call, and thirty days is not accurate, it's just late.
@@ -335,7 +335,7 @@
 107. DAN: Madam Chairwoman, I request a recorded vote.
     댄: 위원장님, 기록 표결을 요청합니다.
 
-108. BEN: Good, sir, because with a recorded vote, every member's name goes on the record, yes or no, so nobody can hide in the noise.
+108. BEN: Good, sir. With a recorded vote, every member's name goes on the record, yes or no, so nobody can hide in the noise.
     벤: 잘하셨습니다, 의원님. 기록 표결이면 모든 의원 이름이 찬성이든 반대든 기록에 남아요. 아무도 소음 속에 숨을 수 없죠.
 
 109. CLERK: On this vote, the ayes are fourteen, the noes are seventeen.
@@ -377,7 +377,7 @@
 121. DAN: Why are you here, Victoria, when Castellan doesn't run county jails in Montana?
     댄: 여긴 왜 왔어, 빅토리아? Castellan은 몬태나 카운티 교도소 운영도 안 하잖아.
 
-122. VICTORIA: Castellan runs facilities in eleven states, and your section three would have covered all of them, but you took it out.
+122. VICTORIA: Castellan runs facilities in eleven states, and your section three would have covered all of them. But you took it out.
     빅토리아: Castellan은 열한 개 주에서 시설을 운영해. 네 3조는 그 전부에 적용됐을 거야. 근데 네가 뺐지.
 
 123. DAN: It's not gone, because I'm moving it.
@@ -407,10 +407,10 @@
 131. HANK: Reardon, I voted no, just like I told you I would.
     행크: 레이든, 나 반대했어. 말한 대로.
 
-132. DAN: You did, but you also voted no on the thirty days and stood up for forty-eight hours, and Kincaid looked like you'd taken his horse.
+132. DAN: You did, but you also voted no on the thirty days and stood up for forty-eight hours. Kincaid looked like you'd taken his horse.
     댄: 그러셨죠. 근데 30일엔 반대하고 48시간 편에 서 주셨잖아요. 킨케이드는 말을 뺏긴 사람 같았어요.
 
-133. HANK: Dale will get over it, because he's from Arizona, and they get over things fast, since it's too hot to stay mad. Now listen: you lost by three, so next time you'll need me.
+133. HANK: Dale will get over it, because he's from Arizona. They get over things fast there, since it's too hot to stay mad. Now listen: you lost by three, so next time you'll need me.
     행크: 데일은 금방 털어 낼 거야. 애리조나 사람이잖아. 너무 더워서 화를 오래 못 품거든. 근데 잘 들어. 세 표 차로 졌어. 다음엔 내가 필요할 거야.
 
 134. DAN: Next time, I'll fix the nurse part, I promise.
