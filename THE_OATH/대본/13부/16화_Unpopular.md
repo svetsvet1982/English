@@ -266,14 +266,14 @@
 084. QUINLAN: Ladies and gentlemen of Local twelve-oh-four, please welcome the President of the United States.
     퀸런: 1204지부 신사 숙녀 여러분, 미국 대통령을 환영해 주십시오.
 
-085. AUDIENCE: (applause, some quiet)
-    청중: (박수, 일부는 조용히)
+085. AUDIENCE: Welcome to Local twelve-oh-four, Mr. President, glad you came.
+    청중: 1204지부에 오신 걸 환영합니다, 대통령님. 와 주셔서 반가워요.
 
 086. DAN: Thank you, and please sit down. I know some of you voted for Governor Brandt, and some of you just heard him on that TV, but I'm not going to change the channel.
     댄: 감사합니다. 앉아 주세요. 여러분 중 몇은 브랜트 주지사를 찍었고, 몇은 방금 저 TV에서 그 사람 말을 들었다는 거 압니다. 채널을 돌리진 않겠습니다.
 
-087. AUDIENCE: (laughter)
-    청중: (웃음)
+087. AUDIENCE: Ha! Good, because that channel only gets worse after six!
+    청중: 하! 잘됐네요. 그 채널은 여섯 시 넘으면 더 나빠지거든요!
 
 088. DAN: He said I'm weak, so I want to tell you what my father said about weak. He drove a bus in Queens for thirty years, and in 1980, he walked a picket line for eleven days in the cold.
     댄: 그 사람은 제가 약하다고 했죠. 그럼 제 아버지가 약함에 대해 한 말을 들려드리겠습니다. 아버지는 퀸즈에서 30년 버스를 모셨고, 1980년엔 추위 속에 열하루 동안 피켓 라인을 걸으셨습니다.
@@ -281,8 +281,8 @@
 089. DAN: People called the strikers weak and selfish. My father said, "Weak is when you won't stand next to the people you work with," and that's all, because he never explained it twice.
     댄: 사람들은 파업 노동자들을 약하고 이기적이라고 했습니다. 아버지는 "약하다는 건 같이 일하는 사람들 옆에 서지 않는 거다"라고 하셨죠. 그게 다였습니다. 두 번 설명하신 적이 없거든요.
 
-090. AUDIENCE: (murmuring)
-    청중: (웅성거림)
+090. AUDIENCE: My father walked that same line in 1980, I swear.
+    청중: 우리 아버지도 1980년에 그 피켓 라인에 섰어요. 진짜로요.
 
 091. DOMBROWSKI: That's right!
     돔브로스키: 맞는 말이에요!
@@ -290,8 +290,8 @@
 092. DAN: This week, eighty-one candidates from my own side asked me to stay away from them, and I said yes to every one. One candidate, who is eleven points behind, asked me to come, and I came.
     댄: 이번 주에 우리 쪽 후보 81명이 저더러 오지 말아 달라고 했고, 전 모두에게 그러겠다고 했습니다. 11포인트 뒤진 후보 한 명이 와 달라고 했고, 그래서 왔습니다.
 
-093. AUDIENCE: (applause)
-    청중: (박수)
+093. AUDIENCE: You came for her, and that means something here!
+    청중: 그분을 위해 와 주셨네요. 여기선 그게 중요해요!
 
 094. DAN: She teaches civics to ninth graders, and when nobody else on her side would run, she ran. Her students asked how somebody could win a race with nobody in it, and since she didn't have an answer, she became the answer.
     댄: 그분은 9학년에게 공민을 가르칩니다. 자기 쪽에서 아무도 안 나설 때 나섰죠. 학생들이 아무도 없는 선거에서 어떻게 이기냐고 물었는데, 대답이 없어서 스스로 대답이 됐습니다.
@@ -302,8 +302,8 @@
 096. DAN: I'm not going to tell you she'll win, because the numbers say she won't, and I don't lie to people in union halls. My father wouldn't let me.
     댄: 그분이 이길 거라고 말하진 않겠습니다. 숫자는 질 거라고 하고, 저는 노조 강당에서 거짓말을 안 합니다. 아버지가 허락 안 하셨을 거예요.
 
-097. AUDIENCE: (laughter)
-    청중: (웃음)
+097. AUDIENCE: Ha! Smart man, because your father sounds like my father!
+    청중: 하! 현명하네요. 아버님이 우리 아버지랑 똑같네요!
 
 098. DAN: But here's what I know about turnout, which is the number of people who actually show up. In midterms, it's low, sometimes four out of ten, and that's why one hall like this can matter.
     댄: 하지만 투표율에 대해 아는 게 있습니다. 실제로 투표하러 오는 사람의 수죠. 중간선거엔 낮습니다. 열 명 중 넷일 때도 있어요. 그래서 이런 강당 하나가 중요할 수 있습니다.
@@ -311,8 +311,8 @@
 099. DAN: If you don't like me, fine, and vote against me in 2040. But on November second, vote for the teacher who showed up when nobody else would, because that's not weak. It's the opposite.
     댄: 제가 싫으시면 괜찮습니다. 2040년에 반대표 던지세요. 하지만 11월 2일엔 아무도 안 나설 때 나선 선생님을 찍어 주세요. 그건 약한 게 아닙니다. 그 반대죠.
 
-100. AUDIENCE: (standing applause)
-    청중: (기립 박수)
+100. AUDIENCE: We'll show up, Mr. President! We'll all be there for Tess!
+    청중: 우리 갈게요, 대통령님! 다 같이 테스를 위해 갈게요!
 
 101. DAN: Let me say it plain. My father's word for it was simple: show up. Tess showed up, and now it's your turn.
     댄: 쉽게 말하겠습니다. 아버지의 말은 간단했습니다. 나타나라. 테스는 나타났습니다. 이제 여러분 차례입니다.
