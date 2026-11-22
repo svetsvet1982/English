@@ -98,8 +98,8 @@
 028. DAN: Then that's my first answer: faster trade enforcement, because eighteen months is a lawyer's timeline, not a worker's. I've been a lawyer, so I know how to make things slow.
     댄: 그럼 그게 제 첫 대답입니다. 더 빠른 무역법 집행이요. 18개월은 노동자 시간표가 아니라 변호사 시간표예요. 제가 변호사였으니 일을 느리게 만드는 법을 잘 알죠.
 
-029. AUDIENCE: [laughter] At least he admits it!
-    청중: [웃음] 그래도 인정은 하네!
+029. AUDIENCE: Ha! At least he admits it, so that's something!
+    청중: 하! 그래도 인정은 하네. 그게 어디야!
 
 030. KYLE: And what about tariffs, because do you support tariffs or not?
     카일: 그럼 관세는요? 관세 찬성이에요, 반대예요?
@@ -134,8 +134,8 @@
 040. BOBBY: And do you know who represented the company that bought Bethlehem's mills in the bankruptcy? It was a big law firm in New York called Whitmore Crane.
     바비: 그리고 파산 때 베들레헴 공장을 사들인 회사 대리인이 누군지 아시오? 뉴욕의 큰 로펌, 휘트모어 크레인이었소.
 
-041. AUDIENCE: [murmuring]
-    청중: [웅성거림]
+041. AUDIENCE: Whitmore Crane? Wasn't that the firm he used to work for?
+    청중: 휘트모어 크레인? 저 사람이 일하던 로펌 아니었나?
 
 042. JUNE: Oh no, did we know that?
     준: 아 이런, 우리 그거 알았어요?
@@ -161,8 +161,8 @@
 049. DAN: He drove a bus, so it's the same union attitude in a different vehicle.
     댄: 버스를 모셨어요. 노조 근성은 같고 차만 다르죠.
 
-050. AUDIENCE: [laughter]
-    청중: [웃음]
+050. AUDIENCE: Ha! Same attitude, and probably the same bad coffee too!
+    청중: 하! 태도도 같고, 커피 맛없는 것도 같겠지!
 
 051. BOBBY: Okay, next thing, and this is the real one: guns. I've hunted deer every November in the Southern Tier since I was twelve, so are you going to take my rifle?
     바비: 좋소, 다음. 이게 진짜요. 총. 난 열두 살 때부터 매년 11월에 서던 티어에서 사슴 사냥을 하오. 내 소총 뺏을 거요?
@@ -239,8 +239,8 @@
 075. DAN: If I lose, I'll come back once to say thank you. If I win, I'll come every three months, and you can yell at me without a moderator.
     댄: 지면 감사 인사하러 한 번 오겠습니다. 이기면 석 달마다 오고요. 사회자 없이 저한테 소리 지르셔도 됩니다.
 
-076. AUDIENCE: [laughter and applause]
-    청중: [웃음과 박수]
+076. AUDIENCE: Ha! Every three months, Congressman, and we'll hold you to it!
+    청중: 하! 석 달마다예요, 의원님. 꼭 지키게 할 거예요!
 
 077. STAN: I'm writing that down in the minutes, every three months, and the secretary is writing it down too. Marge, did you get that?
     스탠: 그거 회의록에 적는다. 석 달마다. 서기도 적고 있어. 마지, 받아 적었어?
