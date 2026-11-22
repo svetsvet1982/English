@@ -233,8 +233,8 @@
 073. CONNIE: It's seven o'clock, so you can stop. You spilled four times, and Dorothy spills zero, and you owe me for one mug, because you broke it.
     코니: 일곱 시예요. 그만해도 돼요. 네 번 쏟았어요. 도로시는 한 번도 안 쏟아요. 머그잔 하나 물어내요. 깨뜨렸잖아요.
 
-074. DAN: Six dollars? I thought it would be four dollars, like the pie.
-    댄: 6달러요? 파이처럼 4달러인 줄 알았는데요.
+074. DAN: How much do I owe you for the mug, four dollars like the pie?
+    댄: 머그잔 값은 얼마예요? 파이처럼 4달러요?
 
 075. CONNIE: Six, because it was a good mug. Now say sorry to the counter, out loud.
     코니: 6달러. 좋은 머그잔이었어요. 이제 사과해요. 카운터 보고, 소리 내서.
