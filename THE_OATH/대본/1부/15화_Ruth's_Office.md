@@ -20,19 +20,19 @@
 002. DAN: That's fine, because I can walk, so what floor are you on?
     댄: 괜찮아요. 걸어가면 되죠. 몇 층이에요?
 
-003. MARISOL: We're on the third, which is only three floors, but the second floor smells like the dentist's office, so hold your breath on the landing.
-    마리솔: 3층이요. 세 층밖에 안 되는데, 2층이 치과 냄새가 나니까 층계참에서 숨 참으세요.
+003. MARISOL: We're on the third, which is only three floors. But the second floor smells like the dentist's office, so hold your breath on the landing.
+    마리솔: 3층이요. 세 층밖에 안 돼요. 근데 2층이 치과 냄새가 나니까 층계참에서 숨 참으세요.
 
 004. DAN: There's a dentist on the second floor of this building?
     댄: 이 건물 2층에 치과가 있어요?
 
-005. MARISOL: There's a dentist, a tax preparer, and a man who repairs accordions, and nobody knows how he stays in business. I'm Marisol, the paralegal, and also the receptionist, the office manager, and the person who fights with the landlord.
+005. MARISOL: There's a dentist, a tax preparer, and a man who repairs accordions, and nobody knows how he stays in business. I'm Marisol, the paralegal. I'm also the receptionist, the office manager, and the person who fights with the landlord.
     마리솔: 치과, 세무사, 그리고 아코디언 고치는 아저씨요. 그 아저씨가 어떻게 먹고사는지는 아무도 몰라요. 전 마리솔이에요. 패럴리걸이고, 접수원이고, 사무장이고, 집주인이랑 싸우는 사람이에요.
 
 006. DAN: That's a lot of jobs for one person, even in the Bronx.
     댄: 브롱크스라 해도 한 사람이 하기엔 일이 많네요.
 
-007. MARISOL: It's a small office, so everybody does everything, and last week Ruth fixed the copier with a butter knife.
+007. MARISOL: It's a small office, so everybody does everything. Last week Ruth fixed the copier with a butter knife.
     마리솔: 작은 사무실이라 다들 다 해요. 지난주엔 루스가 버터나이프로 복사기를 고쳤어요.
 
 008. DAN: Is the heat on, because it's colder in here than it is outside?
@@ -44,19 +44,19 @@
 010. DAN: A concept.
     댄: 개념.
 
-011. MARISOL: We know it exists, and we believe in it, but we just haven't seen it since Monday, because the super says the boiler is "thinking about it."
+011. MARISOL: We know it exists, and we believe in it. We just haven't seen it since Monday, because the super says the boiler is "thinking about it."
     마리솔: 존재한다는 건 알아요. 믿기도 하고요. 그냥 월요일 이후로 본 적이 없을 뿐이에요. 관리인 말로는 보일러가 "생각 중"이래요.
 
 012. DAN: How long have you worked here, if you don't mind me asking?
     댄: 실례지만, 여기서 일하신 지 얼마나 됐어요?
 
-013. MARISOL: Eleven years, since I came for a summer job when I was at Hostos Community College, and Ruth said, "You're good at yelling at landlords, so stay." So I stayed.
+013. MARISOL: It's been eleven years. I came for a summer job when I was at Hostos Community College, and Ruth said, "You're good at yelling at landlords, so stay." So I stayed.
     마리솔: 11년이요. 호스토스 커뮤니티 칼리지 다닐 때 여름 알바로 왔는데, 루스가 "집주인한테 소리 잘 지르네, 있어"라고 해서 남았어요.
 
 014. DAN: And are you good at yelling at landlords, really?
     댄: 그래서 진짜 집주인한테 소리 잘 질러요?
 
-015. MARISOL: I'm the best in the Bronx, but don't tell the landlord I said that, because he's also our landlord.
+015. MARISOL: I'm the best in the Bronx, but don't tell the landlord I said that. He's also our landlord.
     마리솔: 브롱크스 최고죠. 집주인한텐 제가 그랬다고 말하지 마세요. 우리 집주인이기도 하거든요.
 
 016. DAN: Your office is in a building whose heat doesn't work, and you sue landlords whose heat doesn't work.
@@ -65,7 +65,7 @@
 017. MARISOL: It's called research. Okay, this is us, so watch the radiator, because it's not hot, but it bites. Ruth, the lawyer from Park Avenue is here!
     마리솔: 연구라고 하죠. 자, 여기예요. 라디에이터 조심하세요. 뜨겁진 않은데 물어요. 루스, 파크 애비뉴 변호사님 오셨어요!
 
-018. RUTH: I heard, and everybody on the Grand Concourse heard. Come in, Dan, but don't take your coat off, and that's not an invitation to leave, it's medical advice.
+018. RUTH: I heard, and everybody on the Grand Concourse heard. Come in, Dan, but don't take your coat off. That's not an invitation to leave, it's medical advice.
     루스: 들었어. 그랜드 콩코스 전체가 들었을걸. 들어와, 댄. 코트 벗지 마. 나가라는 뜻이 아니라 의학적 조언이야.
 
 019. DAN: Thank you for seeing me, Ms. Abernathy, on such short notice.
@@ -77,37 +77,37 @@
 021. DAN: Please.
     댄: 네, 주세요.
 
-022. RUTH: It's from a bag, and the water is from a kettle I'm not supposed to have, because it's a fire hazard. But it's the only warm thing in the building, so the fire marshal and I have an understanding.
-    루스: 티백이고, 물은 화재 위험 때문에 갖고 있으면 안 되는 주전자에서 끓인 거야. 그래도 이 건물에서 유일하게 따뜻한 거라서, 소방관이랑 나는 서로 이해하는 사이지.
+022. RUTH: It's from a bag. The water is from a kettle I'm not supposed to have, because it's a fire hazard. But it's the only warm thing in the building, so the fire marshal and I have an understanding.
+    루스: 티백이야. 물은 화재 위험 때문에 갖고 있으면 안 되는 주전자에서 끓인 거고. 그래도 이 건물에서 유일하게 따뜻한 거라서, 소방관이랑 나는 서로 이해하는 사이지.
 
 023. DAN: My mother has an understanding with a bucket under her roof.
     댄: 우리 엄마는 지붕 밑 양동이랑 서로 이해하는 사이예요.
 
-024. RUTH: Then your mother and I would get along. Sit, because that chair is the good chair, and the other one has a spring that will introduce itself to you.
+024. RUTH: Then your mother and I would get along. Sit, because that chair is the good chair. The other one has a spring that will introduce itself to you.
     루스: 그럼 너희 어머니랑 나랑 잘 맞겠다. 앉아. 그 의자가 좋은 의자야. 다른 건 용수철이 자기소개를 할 거야.
 
 025. DAN: Everyone in New York has a good chair, it turns out.
     댄: 뉴욕엔 다들 좋은 의자가 하나씩 있나 봐요.
 
-026. RUTH: And everyone knows exactly who deserves it. So you called yesterday and said you wanted to meet and confer about the deposition calendar for January, in person, in the Bronx.
+026. RUTH: And everyone knows exactly who deserves it. So you called yesterday and said you wanted to meet and confer about the deposition calendar for January. You wanted to do it in person, in the Bronx.
     루스: 그리고 누가 거기 앉을 자격이 있는지 다들 정확히 알지. 그래서, 어제 전화해서 1월 증언 녹취 일정을 사전 협의하고 싶다고 했지. 직접. 브롱크스에서.
 
 027. DAN: Yes, because I thought it would be easier to do it face to face.
     댄: 네. 직접 만나는 게 더 쉬울 것 같아서요.
 
-028. RUTH: Dan, I've been practicing for thirty-seven years. Nobody from a Park Avenue firm has ever come to this building to meet and confer about a calendar. They send an email, and then a second email complaining that I didn't answer the first one.
+028. RUTH: Dan, I've been practicing for thirty-seven years. Nobody from a Park Avenue firm has ever come to this building to meet and confer about a calendar. They send an email. Then they send a second email complaining that I didn't answer the first one.
     루스: 댄, 나 37년째 이 일 하고 있어. 파크 애비뉴 로펌 사람이 일정 협의하러 이 건물까지 온 적은 한 번도 없었어. 이메일을 보내지. 그다음에 첫 번째 이메일에 왜 답 안 하냐고 불평하는 두 번째 이메일을 보내고.
 
 029. DAN: I wanted to see your office, to be honest.
     댄: 솔직히 말하면 사무실을 보고 싶었어요.
 
-030. RUTH: Well, you've seen it, and it's cold. Let's do the calendar first, since that's your official reason, and I don't want you to have to lie on your time sheet.
+030. RUTH: Well, you've seen it, and it's cold. Let's do the calendar first, since that's your official reason. I don't want you to have to lie on your time sheet.
     루스: 자, 봤지. 춥지. 일정부터 하자. 그게 공식적인 이유니까. 근무 기록에 거짓말 쓰게 하고 싶진 않아.
 
-031. DAN: That's fair, so we'd like to depose your other two named plaintiffs in early January, the Nowak and Mensah families.
+031. DAN: That's fair. We'd like to depose your other two named plaintiffs in early January, the Nowak and Mensah families.
     댄: 맞아요. 1월 초에 나머지 대표 원고 두 분을 증언 녹취하고 싶어요. 노왁 가족과 멘사 가족이요.
 
-032. RUTH: That's fine, on January sixth and seventh, but Mrs. Mensah only speaks Twi when she's upset, so you'll want an interpreter, just in case.
+032. RUTH: That's fine, on January sixth and seventh. But Mrs. Mensah only speaks Twi when she's upset, so you'll want an interpreter, just in case.
     루스: 좋아. 1월 6일하고 7일. 근데 멘사 부인은 속상하면 트위어만 써. 그러니 혹시 모르니 통역사를 부르는 게 좋을 거야.
 
 033. DAN: We'll arrange an interpreter for Mrs. Mensah, and I'll have Aisha find someone good.
@@ -131,7 +131,7 @@
 039. DAN: That's your right, of course.
     댄: 물론 그건 변호사님 권리죠.
 
-040. RUTH: You said that last time, on the phone, about the motion to compel, "That's your right," and you say it the way some people say "God help you."
+040. RUTH: You said that last time, on the phone, about the motion to compel: "That's your right." You say it the way some people say "God help you."
     루스: 지난번에도 그 말 했어. 전화로, 강제 제출 신청 때. "그건 변호사님 권리죠." 어떤 사람들이 "하느님이 도우시길"이라고 할 때처럼 말하더라.
 
 041. DAN: I don't mean it that way, Ruth, I promise.
@@ -143,10 +143,10 @@
 043. DAN: It's the cold, because your building is very good at being cold.
     댄: 추워서예요. 이 건물은 추운 걸 아주 잘하네요.
 
-044. RUTH: Okay, the calendar is done, and that took four minutes. You have fifty-six minutes left, if you want them, before Marisol locks the front door and goes to yell at someone.
-    루스: 좋아, 일정 끝. 4분 걸렸네. 마리솔이 현관문 잠그고 누구한테 소리 지르러 가기 전까지 56분 남았어. 원한다면.
+044. RUTH: Okay, the calendar is done, and that took four minutes. You have fifty-six minutes left, if you want them. After that, Marisol locks the front door and goes to yell at someone.
+    루스: 좋아, 일정 끝. 4분 걸렸네. 원한다면 56분 남았어. 그 뒤엔 마리솔이 현관문 잠그고 누구한테 소리 지르러 가.
 
-045. DAN: Ruth, I can't tell you anything about my client or about the case, and I want you to know that before we talk, because anything I say is—
+045. DAN: Ruth, I can't tell you anything about my client or about the case. I want you to know that before we talk, because anything I say is—
     댄: 루스, 제 의뢰인이나 사건에 대해선 아무것도 말할 수 없어요. 얘기하기 전에 그걸 알아 두셨으면 해요. 제가 하는 말은 뭐든—
 
 046. RUTH: Stop, and don't tell me, because I mean it, Dan. Don't tell me anything.
@@ -155,37 +155,37 @@
 047. DAN: I wasn't going to tell you, Ruth.
     댄: 말하려던 거 아니었어요, 루스.
 
-048. RUTH: Good, because I want you to understand why, and it's not only about your license. If you told me something you learned from your client, you'd lose your license, yes, but I'd lose too.
+048. RUTH: Good, because I want you to understand why. It's not only about your license. If you told me something you learned from your client, you'd lose your license, yes, but I'd lose too.
     루스: 좋아. 왜 그런지 이해했으면 해서. 네 자격증 때문만은 아니야. 의뢰인한테서 알게 된 걸 나한테 말하면 넌 자격증을 잃겠지. 근데 나도 잃어.
 
 049. DAN: How would you lose, when you'd have whatever I told you?
     댄: 어떻게 잃어요? 제가 말한 걸 갖게 되시는데.
 
-050. RUTH: If a defense lawyer leaks something to me, any evidence I get from it is tainted, and a judge could throw it out. Castellan's next lawyers would spend a year saying my case grew out of your betrayal, and Carmen would wait another year.
+050. RUTH: If a defense lawyer leaks something to me, any evidence I get from it is tainted. A judge could throw it out. Castellan's next lawyers would spend a year saying my case grew out of your betrayal, and Carmen would wait another year.
     루스: 피고 측 변호사가 나한테 뭘 흘리면, 거기서 얻은 증거는 오염돼. 판사가 버릴 수도 있어. Castellan의 다음 변호사들은 내 사건이 네 배신에서 비롯됐다고 1년을 떠들 거고, 카르멘은 또 1년을 기다리겠지.
 
 051. DAN: So the rules protect you too, not just me.
     댄: 그러니까 규칙이 저만이 아니라 변호사님도 보호하는 거네요.
 
-052. RUTH: The rules protect the case, and that's the thing nobody tells you in law school: if you break the rules to win, you don't win. You just give the other side something new to fight about.
+052. RUTH: The rules protect the case. That's the thing nobody tells you in law school: if you break the rules to win, you don't win. You just give the other side something new to fight about.
     루스: 규칙은 사건을 보호해. 로스쿨에서 아무도 안 알려 주는 게 그거야. 이기려고 규칙을 어기면 이기는 게 아니야. 상대방한테 싸울 거리를 하나 더 줄 뿐이지.
 
 053. DAN: Then why did you let me come up here at all?
     댄: 그럼 왜 여기 올라오게 하셨어요?
 
-054. RUTH: Because I'm a curious woman, and you're a curious man, and it's December, when I let myself be curious. Can I tell you a story instead? It's mine, not yours, and nothing in it is confidential.
-    루스: 난 호기심 많은 여자고, 넌 호기심 많은 남자고, 지금은 12월이니까. 12월엔 호기심을 허락하거든. 대신 이야기 하나 해도 될까? 네 얘기 말고 내 얘기. 기밀은 하나도 없어.
+054. RUTH: Because I'm a curious woman, and you're a curious man. It's December, when I let myself be curious. Can I tell you a story instead? It's mine, not yours, and nothing in it is confidential.
+    루스: 난 호기심 많은 여자고, 넌 호기심 많은 남자니까. 지금은 12월이고, 12월엔 호기심을 허락하거든. 대신 이야기 하나 해도 될까? 네 얘기 말고 내 얘기. 기밀은 하나도 없어.
 
 055. DAN: Please.
     댄: 해 주세요.
 
-056. RUTH: I worked at Whitmore Crane from 1989 to 1994, on the fifth floor, when the firm was still downtown, before Park Avenue, and my supervising partner was a young man named Howard Whitmore.
+056. RUTH: I worked at Whitmore Crane from 1989 to 1994. I was on the fifth floor, when the firm was still downtown, before Park Avenue. My supervising partner was a young man named Howard Whitmore.
     루스: 나 Whitmore Crane에서 일했어. 1989년부터 1994년까지. 파크 애비뉴 오기 전, 아직 다운타운에 있을 때 5층에서. 내 감독 파트너가 하워드 휘트모어라는 젊은 남자였어.
 
 057. DAN: You worked for Howard? At Whitmore Crane? You never said a word.
     댄: 하워드 밑에서 일하셨어요? Whitmore Crane에서요? 한마디도 안 하셨잖아요.
 
-058. RUTH: For five years. He was thirty-one when I started, already the best lawyer in the building, and he knew it, and he was only a little unbearable about it.
+058. RUTH: For five years. He was thirty-one when I started, and already the best lawyer in the building. He knew it, and he was only a little unbearable about it.
     루스: 5년 동안. 내가 들어갔을 때 서른하나였어. 이미 건물 최고의 변호사였고, 본인도 알았지. 그래서 아주 약간 참기 힘들었고.
 
 059. DAN: He never told me that, not once.
@@ -197,14 +197,14 @@
 061. DAN: What happened? Something must have happened, if you left.
     댄: 무슨 일이 있었는데요? 떠나셨다면 무슨 일이 있었겠죠.
 
-062. RUTH: In 1993, we represented a big landlord with forty buildings in the Bronx and Harlem, and the tenants sued for heat and repairs, and I was the associate doing the documents.
+062. RUTH: In 1993, we represented a big landlord with forty buildings in the Bronx and Harlem. The tenants sued for heat and repairs, and I was the associate doing the documents.
     루스: 1993년. 우린 브롱크스랑 할렘에 건물 40채를 가진 큰 집주인을 대리했어. 세입자들이 난방이랑 수리 문제로 소송을 걸었고, 난 문서 담당 어소시에이트였어.
 
 063. DAN: Like Aisha.
     댄: 아이샤처럼요.
 
-064. RUTH: Is that your associate, the one who sat behind you at Carmen's deposition and wrote down every word Carmen said, even after you stopped asking questions?
-    루스: 네 어소시에이트 말이야? 카르멘 증언 녹취 때 네 뒤에 앉아서, 네가 질문 끝낸 뒤에도 카르멘이 한 말을 한 마디도 빼지 않고 적던 그 친구?
+064. RUTH: Is that your associate, the one who sat behind you at Carmen's deposition? She wrote down every word Carmen said, even after you stopped asking questions.
+    루스: 네 어소시에이트 말이야? 카르멘 증언 녹취 때 네 뒤에 앉아 있던 그 친구? 네가 질문 끝낸 뒤에도 카르멘이 한 말을 한 마디도 빼지 않고 적더라.
 
 065. DAN: That's her, and she hasn't slept properly since September.
     댄: 그 친구예요. 9월부터 제대로 못 잤어요.
@@ -215,13 +215,13 @@
 067. DAN: Rewritten.
     댄: 다시 쓰였다.
 
-068. RUTH: I'm telling you my story, Dan, so don't make that face, because people make that face when they recognize something, and I don't want to know what you recognize.
+068. RUTH: I'm telling you my story, Dan, so don't make that face. People make that face when they recognize something, and I don't want to know what you recognize.
     루스: 내 얘기 하는 거야, 댄. 그런 표정 짓지 마. 사람들은 뭔가 알아볼 때 그런 표정을 지어. 네가 뭘 알아봤는지 알고 싶지 않아.
 
 069. DAN: Sorry, Ruth, please go on.
     댄: 죄송해요, 루스. 계속하세요.
 
-070. RUTH: I took the logs to Howard when I was twenty-nine and terrified, because I thought he'd tell me to put them back.
+070. RUTH: I took the logs to Howard when I was twenty-nine and terrified. I thought he'd tell me to put them back.
     루스: 그 기록을 하워드한테 가져갔어. 스물아홉이었고 겁에 질렸었지. 도로 갖다 놓으라고 할 줄 알았거든.
 
 071. DAN: Did he? Did he tell you to put them back?
@@ -233,22 +233,22 @@
 073. DAN: Howard said that.
     댄: 하워드가 그렇게 말했다고요.
 
-074. RUTH: Howard said that, and I want you to know it, because I think you're about to be very angry at him, and you should be angry at the right size.
+074. RUTH: Howard said that, and I want you to know it. I think you're about to be very angry at him, and you should be angry at the right size.
     루스: 하워드가 그렇게 말했어. 알아 뒀으면 해. 네가 곧 하워드한테 엄청 화날 것 같은데, 알맞은 크기로 화내야 하니까.
 
 075. DAN: What happened to the client?
     댄: 의뢰인은 어떻게 됐어요?
 
-076. RUTH: He fired the firm and took his forty buildings to another firm, so Howard lost the biggest client he'd ever brought in himself. He was thirty-five, and people said it would end his career.
+076. RUTH: He fired the firm and took his forty buildings to another firm. Howard lost the biggest client he'd ever brought in himself. He was thirty-five, and people said it would end his career.
     루스: 그 사람은 회사를 잘랐어. 건물 40채를 다른 회사로 가져갔지. 하워드는 자기가 직접 데려온 최대 고객을 잃었어. 서른다섯이었고, 사람들은 그걸로 경력 끝났다고 했지.
 
 077. DAN: It didn't, because he's been running the firm for as long as I've been there.
     댄: 안 끝났죠. 제가 있는 동안 내내 회사를 운영하셨으니까요.
 
-078. RUTH: The next year, he was on the executive committee, the youngest in the firm's history, because the other partners decided that a man who would give up his biggest client rather than hide a document was the man they wanted running the place.
-    루스: 다음 해에 경영위원회에 들어갔어. 회사 역사상 최연소로. 다른 파트너들이 문서를 숨기느니 최대 고객을 포기하는 사람이 회사를 운영했으면 좋겠다고 결정했거든.
+078. RUTH: The next year, he was on the executive committee, the youngest in the firm's history. The other partners had made a decision. A man who would give up his biggest client rather than hide a document was the man they wanted running the place.
+    루스: 다음 해에 경영위원회에 들어갔어. 회사 역사상 최연소로. 다른 파트너들이 결정을 내렸거든. 문서를 숨기느니 최대 고객을 포기하는 사람이 회사를 운영했으면 좋겠다고.
 
-079. DAN: That was 1994, when he told me he joined the committee, and he said he was terrified and hid it with expensive ties.
+079. DAN: That was 1994, when he told me he joined the committee. He said he was terrified and hid it with expensive ties.
     댄: 1994년. 그해에 위원회에 들어갔다고 하셨어요. 겁에 질려서 비싼 넥타이로 감췄다고요.
 
 080. RUTH: That part is true, and the ties were terrible, very expensive and very terrible.
@@ -257,8 +257,8 @@
 081. DAN: Then why did you leave, if he did the right thing?
     댄: 그럼 왜 나오셨어요? 하워드가 옳은 일을 했는데.
 
-082. RUTH: Because when I watched the tenants' lawyer read those logs at the next hearing, I realized I wanted to be her, not the woman who found the logs, but the woman who read them out loud.
-    루스: 다음 심리에서 세입자 측 변호사가 그 기록을 읽는 걸 봤는데, 내가 되고 싶은 건 그 사람이라는 걸 깨달았어. 기록을 찾은 여자 말고, 그걸 소리 내서 읽는 여자.
+082. RUTH: Because I watched the tenants' lawyer read those logs at the next hearing. I realized I wanted to be her, not the woman who found the logs, but the woman who read them out loud.
+    루스: 다음 심리에서 세입자 측 변호사가 그 기록을 읽는 걸 봤거든. 내가 되고 싶은 건 그 사람이라는 걸 깨달았어. 기록을 찾은 여자 말고, 그걸 소리 내서 읽는 여자.
 
 083. DAN: And Howard? What did he say when you told him?
     댄: 그리고 하워드는요? 말씀드렸을 때 뭐라고 하셨어요?
@@ -269,13 +269,13 @@
 085. DAN: And you never went back, not once.
     댄: 그리고 한 번도 안 돌아가셨네요.
 
-086. RUTH: It's been thirty-two years, and every December he takes me to dinner at the same restaurant and asks if I'm ready to come back. I tell him the heat is a concept, and he pays.
+086. RUTH: It's been thirty-two years. Every December he takes me to dinner at the same restaurant and asks if I'm ready to come back. I tell him the heat is a concept, and he pays.
     루스: 32년째야. 매년 12월에 같은 식당에서 저녁을 사 주면서 돌아올 준비가 됐냐고 물어. 난 난방은 개념일 뿐이라고 하고, 그는 계산하지.
 
 087. DAN: Every December for thirty-two years, at the same restaurant, with the same question?
     댄: 32년 동안 매년 12월마다요? 같은 식당에서, 같은 질문으로?
 
-088. RUTH: In 2011, he told me about a young associate he'd just hired from Columbia, a kid from Astoria in a brown suit who asked questions like a cop. He said, "Ruth, this one reminds me of you, so I'm going to make sure he stays."
+088. RUTH: In 2011, he told me about a new associate from Columbia. He was a kid from Astoria in a brown suit who asked questions like a cop. He said, "Ruth, this one reminds me of you. I'm going to make sure he stays."
     루스: 2011년에 컬럼비아에서 막 뽑은 젊은 어소시에이트 얘기를 하더라. 애스토리아 출신, 갈색 정장, 경찰처럼 질문하는 애. 그러면서 "루스, 이 친구는 당신 생각이 나. 꼭 붙잡아 둘 거야"라고 했어.
 
 089. DAN: So that's how you knew about the brown suit.
@@ -293,31 +293,31 @@
 093. DAN: Ruth, I don't know what to do.
     댄: 루스, 어떻게 해야 할지 모르겠어요.
 
-094. RUTH: Yes, you do, because you know exactly what to do. You came here because you wanted someone to say it out loud, and you couldn't say it yourself, because then you'd have heard it.
+094. RUTH: Yes, you do, because you know exactly what to do. You came here because you wanted someone to say it out loud. You couldn't say it yourself, because then you'd have heard it.
     루스: 알아. 넌 뭘 해야 할지 정확히 알아. 누가 소리 내서 말해 주길 바라서 온 거야. 네가 직접 말하면 그 말을 듣게 되니까 못 한 거고.
 
 095. DAN: People keep telling me that this month.
     댄: 이번 달엔 다들 저한테 그 말을 하네요.
 
-096. RUTH: Then people are right. I can't tell you what to do about your client, because I don't know anything about your client, and I only know about lawyers.
+096. RUTH: Then people are right. I can't tell you what to do about your client, because I don't know anything about your client. I only know about lawyers.
     루스: 그럼 다들 맞는 거야. 네 의뢰인에 대해선 뭘 하라고 말 못 해. 네 의뢰인에 대해 아무것도 모르니까. 난 변호사에 대해서만 알아.
 
 097. DAN: Then tell me about lawyers, please.
     댄: 그럼 변호사에 대해 말해 주세요.
 
-098. RUTH: In every case, a lawyer controls almost nothing, because the facts happened before you arrived, and you don't control your client, or the judge, or the jury, or the other side.
-    루스: 어떤 사건에서든 변호사가 통제하는 건 거의 없어. 사실은 네가 오기 전에 일어났고, 의뢰인도, 판사도, 배심원도, 상대방도 통제 못 해.
+098. RUTH: In every case, a lawyer controls almost nothing. The facts happened before you arrived. You don't control your client, or the judge, or the jury, or the other side.
+    루스: 어떤 사건에서든 변호사가 통제하는 건 거의 없어. 사실은 네가 오기 전에 일어났어. 의뢰인도, 판사도, 배심원도, 상대방도 통제 못 해.
 
 099. DAN: That's true, because most days, I don't even control my own calendar.
     댄: 맞아요. 대부분은 제 일정조차 통제 못 해요.
 
-100. RUTH: There's only one thing in any case that belongs to you completely, which is your name, your signature. Every time you sign something, you're saying, "I, personally, stand behind this," and nobody can sign your name but you.
+100. RUTH: There's only one thing in any case that belongs to you completely, and that's your name, your signature. Every time you sign something, you're saying, "I, personally, stand behind this." Nobody can sign your name but you.
     루스: 어떤 사건에서든 온전히 네 것인 건 딱 하나야. 네 이름. 네 서명. 뭔가에 서명할 때마다 "내가 개인적으로 이걸 책임진다"고 말하는 거야. 네 이름은 너밖에 서명 못 해.
 
 101. DAN: Somebody else could sign it instead, another partner.
     댄: 다른 사람이 대신 서명할 수도 있어요. 다른 파트너가.
 
-102. RUTH: Then it's their name, not yours, and what you do about their name is another question, which the rules answer too. You know the rule, the one with a three in it.
+102. RUTH: Then it's their name, not yours. What you do about their name is another question, and the rules answer that too. You know the rule, the one with a three in it.
     루스: 그럼 그건 그 사람 이름이지 네 이름이 아니야. 그 사람 이름에 대해 뭘 할지는 또 다른 문제고, 규칙엔 그 답도 있어. 너도 알잖아. 3이 들어가는 규칙.
 
 103. DAN: 3.3.
@@ -329,7 +329,7 @@
 105. DAN: Ruth, if I do what I think I have to do, I'll lose everything I've built for fifteen years.
     댄: 루스, 제가 해야 한다고 생각하는 걸 하면, 15년 동안 쌓은 걸 다 잃어요.
 
-106. RUTH: You'll lose a job, a corner office, a seat on a committee, and some friends who were never really friends, but you won't lose anything you built, because the things you built are in Forest Hills, waiting for you to come home.
+106. RUTH: You'll lose a job, a corner office, a seat on a committee, and some friends who were never really friends. But you won't lose anything you built. The things you built are in Forest Hills, waiting for you to come home.
     루스: 직장을 잃겠지. 모서리 사무실이랑 위원회 자리랑, 진짜 친구였던 적 없는 친구 몇 명. 하지만 네가 쌓은 건 하나도 안 잃어. 네가 쌓은 건 포리스트 힐스에서 네가 집에 오길 기다리고 있으니까.
 
 107. DAN: My wife says "come home" too, all the time.
@@ -347,7 +347,7 @@
 111. DAN: What's the difference? To a lawyer, they sound like the same thing.
     댄: 차이가 뭔데요? 변호사한텐 같은 말처럼 들려요.
 
-112. RUTH: Pain is what you feel when you do the hard thing, and damage is what happens to you when you don't. Pain goes away, but damage stays, so ask your wife, because she'll say it better.
+112. RUTH: Pain is what you feel when you do the hard thing, and damage is what happens to you when you don't. Pain goes away, but damage stays. Ask your wife, because she'll say it better.
     루스: 통증은 어려운 일을 할 때 느끼는 거야. 손상은 안 할 때 생기는 거고. 통증은 사라지는데 손상은 남아. 아내한테 물어봐. 더 잘 말해 줄 거야.
 
 113. DAN: Can I ask you one more thing before I go?
@@ -359,7 +359,7 @@
 115. DAN: Do you ever regret leaving, with the money, the warm building, and Howard's very small food?
     댄: 떠난 거 후회하신 적 있어요? 돈, 따뜻한 건물, 하워드의 아주 작은 음식.
 
-116. RUTH: Every winter, around this time, for about ten minutes. Then a tenant like Gladys Moore calls me, seventy-eight years old, wearing two coats in her own apartment, and I remember why I have a kettle I'm not supposed to have.
+116. RUTH: Every winter, around this time, for about ten minutes. Then a tenant like Gladys Moore calls me. She's seventy-eight years old and wearing two coats in her own apartment. Then I remember why I have a kettle I'm not supposed to have.
     루스: 매년 겨울 이맘때쯤, 10분 정도. 그러다 글래디스 무어 같은 세입자가 전화를 하지. 일흔여덟에, 자기 집에서 코트를 두 벌 껴입고. 그러면 내가 왜 갖고 있으면 안 되는 주전자를 갖고 있는지 기억나.
 
 117. DAN: Who's Gladys Moore? Is she one of your clients?
@@ -371,7 +371,7 @@
 119. DAN: Maybe, because I'm starting to think anything's possible this year.
     댄: 그럴지도요. 올해는 뭐든 가능할 것 같기 시작했어요.
 
-120. RUTH: Come on, I'll walk you down, because Marisol locks the door at five, and if you're inside, she'll make you help with the copier.
+120. RUTH: Come on, I'll walk you down. Marisol locks the door at five, and if you're inside, she'll make you help with the copier.
     루스: 가자, 바래다줄게. 마리솔이 다섯 시에 문 잠그거든. 안에 있으면 복사기 고치는 거 돕게 할 거야.
 
 121. MARISOL: Leaving already? Ruth didn't make you fix anything before you go?
@@ -389,7 +389,7 @@
 125. DAN: It looks like Paris, because somebody told me it was built to look like Paris.
     댄: 파리 같네요. 파리처럼 보이게 지어졌다고 누가 그랬어요.
 
-126. RUTH: It was, in 1909, but then everybody who could afford Paris moved to Westchester, and the rest of us stayed and kept the boulevard. Where's your car?
+126. RUTH: It was, in 1909. But then everybody who could afford Paris moved to Westchester, and the rest of us stayed and kept the boulevard. Where's your car?
     루스: 맞아, 1909년에. 그러다 파리를 감당할 수 있는 사람들은 다 웨스트체스터로 이사 갔고, 나머지는 남아서 이 대로를 지켰지. 차는 어디 있어?
 
 127. DAN: I took the D train, because a car felt wrong today.
@@ -401,7 +401,7 @@
 129. DAN: Okay, I'm listening, because I've been listening for an hour.
     댄: 네, 듣고 있어요. 한 시간째 듣고 있었어요.
 
-130. RUTH: Whatever is in your client's files, whatever you can't tell me, I'm going to find it anyway, maybe in January, maybe in a deposition, maybe in a year, because that's my job, and I'm good at it.
+130. RUTH: Whatever is in your client's files, whatever you can't tell me, I'm going to find it anyway. Maybe it'll be in January, maybe in a deposition, maybe in a year. That's my job, and I'm good at it.
     루스: 네 의뢰인 파일에 뭐가 있든, 네가 나한테 말 못 하는 게 뭐든, 난 어쨌든 찾아낼 거야. 1월일 수도, 증언 녹취에서일 수도, 1년 뒤일 수도 있지. 그게 내 일이고, 난 잘하거든.
 
 131. DAN: I know you will, because I've watched you work for two months.
@@ -413,13 +413,13 @@
 133. DAN: And if I can't do anything at all?
     댄: 그런데 제가 아무것도 할 수 없다면요?
 
-134. RUTH: You can't tell me, and you can't tell the newspapers, and you can't tell the judge whatever you like on your own, so you can't do almost anything, Dan. Then do the one thing you can do.
+134. RUTH: You can't tell me, and you can't tell the newspapers. You can't tell the judge whatever you like on your own, so you can't do almost anything, Dan. Then do the one thing you can do.
     루스: 나한테 말 못 하지. 신문에도 말 못 하고. 판사한테도 네 맘대로 아무 말이나 못 해. 거의 아무것도 못 하지, 댄. 그럼 네가 할 수 있는 단 하나를 해.
 
 135. DAN: My signature.
     댄: 제 서명.
 
-136. RUTH: I didn't say that either. Good night, Dan, and thank you for coming all the way up here to meet and confer about a calendar.
+136. RUTH: I didn't say that either. Good night, Dan. Thank you for coming all the way up here to meet and confer about a calendar.
     루스: 그것도 내가 말한 거 아니야. 잘 가, 댄. 일정 사전 협의하러 여기까지 와 줘서 고마워.
 
 137. DAN: Ruth, will you see Howard this December, for dinner?
@@ -443,13 +443,13 @@
 143. AISHA: Okay, I've got my pad right here, so go ahead.
     아이샤: 네, 리걸 패드 여기 있어요. 말씀하세요.
 
-144. DAN: First, pull the certification for December eleventh, the draft Kessler's office sent over, because I want to read every word on it, slowly, tomorrow morning.
+144. DAN: First, pull the certification for December eleventh, the draft Kessler's office sent over. I want to read every word on it, slowly, tomorrow morning.
     댄: 첫째, 12월 11일 확인서 꺼내 줘. 케슬러 사무실이 보낸 초안. 내일 아침에 한 단어도 빼지 않고 천천히 읽고 싶어.
 
 145. AISHA: Done, and I'll have it on your desk by eight, so what's the second thing?
     아이샤: 알겠어요. 여덟 시까지 책상에 둘게요. 두 번째는요?
 
-146. DAN: Draft a second version, a true one, which lists every document we're producing, including tabs one through five from Thursday's binder.
+146. DAN: Draft a second version, a true one. It lists every document we're producing, including tabs one through five from Thursday's binder.
     댄: 두 번째 버전 초안을 써 줘. 진짜 버전. 목요일 바인더 1번부터 5번 탭까지 포함해서 우리가 제출하는 모든 문서를 적은 거.
 
 147. AISHA: Dan, they haven't agreed to produce those documents yet.
@@ -461,7 +461,7 @@
 149. AISHA: Which one are you going to sign?
     아이샤: 어느 걸 서명하실 거예요?
 
-150. DAN: The one with my name on it, Aisha, so let me say it plain: on December eleventh, my name only goes on the truth.
+150. DAN: The one with my name on it, Aisha, so let me say it plain. On December eleventh, my name only goes on the truth.
     댄: 내 이름이 들어가는 거, 아이샤. 쉽게 말할게. 12월 11일에, 내 이름은 진실 위에만 올라가.
 
 ---
