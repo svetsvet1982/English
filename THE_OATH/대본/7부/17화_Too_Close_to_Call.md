@@ -275,8 +275,8 @@
 087. DAN: Thank you all for waiting so late, and I'm going to say one thing: count every vote.
     댄: 늦게까지 기다려 주셔서 감사합니다. 하나만 말씀드리겠습니다. 모든 표를 세 주십시오.
 
-088. AUDIENCE: [shouting questions]
-    청중: [질문이 쏟아진다]
+088. AUDIENCE: Congressman, are you going to concede if the count goes wrong?
+    청중: 의원님, 개표 결과가 나쁘면 승복하실 건가요?
 
 089. DAN: That's it: count every vote, and then we'll know. Good night.
     댄: 그게 다입니다. 모든 표를 세 주십시오. 그러면 알게 됩니다. 안녕히 주무십시오.
