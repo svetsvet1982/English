@@ -14,455 +14,455 @@
 
 ## 대본
 
-001. LUPE: Wednesday, seven a.m. Yuma. Dan. You came. Sit. Eat first. Then you talk to her. Not before.
-    루페: 수요일 오전 7시. 유마. 댄. 왔네요. 앉아요. 먼저 먹어요. 그다음 걔랑 얘기해요. 그 전엔 안 돼요.
+001. LUPE: It's Wednesday at seven a.m. in Yuma, and Dan, you came. Sit down and eat first, and then you talk to her, but not before.
+    루페: 수요일 아침 7시, 유마야. 댄, 왔구나. 앉아서 먼저 먹어. 그다음에 그 애랑 얘기해. 그 전엔 안 돼.
 
-002. DAN: Mrs. Torres. Good morning. It's eighty-four degrees. At seven a.m. In October.
-    댄: 토레스 여사님. 좋은 아침이에요. 화씨 84도네요. 오전 7시에. 10월에.
+002. DAN: Good morning, Mrs. Torres. It's eighty-four degrees at seven a.m. in October.
+    댄: 안녕하세요, 토레스 여사님. 10월 아침 7시인데 84도네요.
 
-003. LUPE: In Yuma, the heat is always on. You say that every time. Eat. Huevos rancheros. Isabel made them. At five. She hasn't slept.
-    루페: 유마에선 난방이 늘 켜져 있어요. 올 때마다 그 말 하네. 먹어요. 우에보스 란체로스. 이사벨이 만들었어요. 다섯 시에. 안 잤어요.
+003. LUPE: In Yuma the heat is always on, and you say that every time. Eat the huevos rancheros, which Isabel made at five, because she hasn't slept.
+    루페: 유마는 늘 난방 중이야. 넌 올 때마다 그 말 하더라. 우에보스 란체로스 먹어. 이사벨이 새벽 다섯 시에 만들었어. 잠을 못 잤거든.
 
-004. DAN: Where is she?
-    댄: 어디 있어요?
+004. DAN: Where is she now, Mrs. Torres, and how is she doing?
+    댄: 이사벨은 지금 어디 있어요, 여사님? 어떻게 지내요?
 
-005. LUPE: In the back. On the porch. With her coffee. She's watching the road. She's been watching the road since you landed.
-    루페: 뒤에요. 현관에. 커피 들고. 길을 보고 있어요. 대통령 착륙한 뒤로 내내 길을 보고 있어요.
+005. LUPE: She's out back on the porch with her coffee, watching the road, and she's been watching the road since you landed.
+    루페: 뒤쪽 현관에 커피 들고 있어. 길을 보고 있지. 네 비행기 내린 뒤로 계속 길만 봐.
 
-006. DAN: Mrs. Torres. Last night you said she's not hiding. She's ashamed. Ashamed of what?
-    댄: 토레스 여사님. 어젯밤에 숨는 게 아니라 부끄러운 거라고 하셨죠. 뭐가 부끄러운 거예요?
+006. DAN: Mrs. Torres, last night you said she's not hiding but ashamed, so ashamed of what?
+    댄: 토레스 여사님, 어젯밤에 숨는 게 아니라 부끄러운 거라고 하셨죠. 뭐가 부끄러운 거예요?
 
-007. LUPE: I said ask her. But I'll tell you one thing. In this family, wanting something is a sin until you've earned it. My daughter wants something. She's not sure she's earned it.
-    루페: 걔한테 물어보라고 했잖아요. 근데 하나만 말해 줄게요. 우리 집에선 뭔가를 원하는 게 얻을 자격을 갖추기 전까진 죄예요. 우리 딸은 뭔가를 원해요. 자격을 갖췄는지 확신이 없고요.
+007. LUPE: I said ask her, but I'll tell you one thing. In this family, wanting something is a sin until you've earned it, and my daughter wants something she's not sure she's earned.
+    루페: 그 애한테 물어보라고 했지. 그래도 하나는 말해 줄게. 우리 집에선 얻을 자격을 갖추기 전에 뭘 원하는 건 죄야. 내 딸이 원하는 게 있는데, 그걸 얻을 자격이 있는지 확신을 못 해.
 
-008. DAN: So it's 2044. That's what this is really about.
-    댄: 그러니까 2044년이군요. 진짜 그 얘기네요.
+008. DAN: So it's 2044, which is what this is really about.
+    댄: 그러니까 2044년이네요. 이게 진짜 그 얘기죠.
 
-009. LUPE: You said it. Not me. Also, the debate. A-minus. The minus is for minute sixty-two. You looked tired.
-    루페: 대통령이 말했어요. 내가 아니라. 그리고 토론. A마이너스. 마이너스는 62분 때문. 피곤해 보였어요.
+009. LUPE: You said it, not me. Also, the debate gets an A-minus, and the minus is for minute sixty-two, because you looked tired.
+    루페: 네가 말했지, 난 안 했어. 그리고 토론은 A마이너스. 마이너스는 62분째 때문이야. 피곤해 보였어.
 
-010. DAN: Elena said the same thing.
-    댄: 엘레나도 똑같이 말했어요.
+010. DAN: Elena said the same thing to me last night on the plane.
+    댄: 엘레나도 어젯밤 비행기에서 똑같이 말했어요.
 
-011. LUPE: Elena and I talk. Every Sunday. Since 2036. You didn't know that. Nobody knows that. Eat.
-    루페: 엘레나랑 나랑 얘기해요. 일요일마다. 2036년부터. 몰랐죠. 아무도 몰라요. 먹어요.
+011. LUPE: Elena and I talk every Sunday, and have since 2036. You didn't know that, because nobody knows that. Eat.
+    루페: 엘레나랑 나는 2036년부터 매주 일요일에 통화해. 몰랐지. 아무도 몰라. 먹어.
 
-012. TORRES: Eight a.m. Dan. You ate. My mother let you through. That means she's decided you can talk to me.
-    토레스: 오전 8시. 댄. 먹었네요. 우리 엄마가 들여보냈어요. 나랑 얘기해도 된다고 정했다는 뜻이에요.
+012. TORRES: It's eight a.m., Dan, and you ate. My mother let you through, which means she's decided you can talk to me.
+    토레스: 아침 8시네요, 댄. 먹었군요. 엄마가 통과시켰어요. 저랑 얘기해도 된다고 정하셨다는 뜻이에요.
 
-013. DAN: Isabel. Your phone has been off for ten hours.
-    댄: 이사벨. 전화가 열 시간째 꺼져 있었어요.
+013. DAN: Isabel, your phone has been off for ten hours.
+    댄: 이사벨, 전화기가 열 시간째 꺼져 있었어.
 
-014. TORRES: I turned it off at nine-fifty last night. When I saw the website. During your answer about Captain Kostas. I watched your best answer of the night and my brother's website at the same time.
-    토레스: 어젯밤 9시 50분에 껐어요. 웹사이트를 봤을 때요. 코스타스 선장 답변 중에요. 그날 밤 최고의 답변이랑 우리 남동생 웹사이트를 동시에 봤어요.
+014. TORRES: I turned it off at nine-fifty last night, when I saw the website during your answer about Captain Kostas. I watched your best answer of the night and my brother's website at the same time.
+    토레스: 어젯밤 9시 50분에 껐어요. 코스타스 선장 얘기 하실 때 그 웹사이트를 봤거든요. 그날 밤 대통령님 최고의 답변이랑 우리 오빠 웹사이트를 동시에 봤어요.
 
-015. DAN: Your brother? Rafael? He's the one who did this?
-    댄: 남동생이요? 라파엘이요? 그 사람이 한 거예요?
+015. DAN: Your brother Rafael is the one who did this?
+    댄: 오빠 라파엘이 이걸 한 거야?
 
-016. TORRES: Rafael. And four donors from Phoenix. They set it up. "Arizona Forward." I knew they were building it. I told them November seventh. The day after. Not one minute before.
-    토레스: 라파엘이요. 그리고 피닉스의 후원자 네 명. 그 사람들이 만들었어요. "애리조나 포워드." 만들고 있는 건 알았어요. 11월 7일이라고 했어요. 선거 다음 날. 1분도 일찍은 안 된다고.
+016. TORRES: Rafael and four donors from Phoenix set up "Arizona Forward." I knew they were building it, and I told them November seventh, the day after, and not one minute before.
+    토레스: 라파엘이랑 피닉스 후원자 네 명이 "애리조나 포워드"를 만들었어요. 준비하는 건 알았어요. 11월 7일, 선거 다음 날에 하라고 했어요. 1분도 먼저 하지 말라고요.
 
 017. DAN: And they launched it during my debate.
-    댄: 그런데 제 토론 중에 띄웠고요.
+    댄: 그런데 내 토론 중에 출범시켰네.
 
-018. TORRES: Rafael said the debate had the biggest audience of the year. He said, "Isa, it's free attention." He thought he was helping me.
-    토레스: 라파엘 말로는 토론이 올해 시청자가 제일 많았대요. "이사, 공짜 관심이야"라고 했어요. 날 돕는 줄 알았대요.
+018. TORRES: Rafael said the debate had the biggest audience of the year, so he said, "Isa, it's free attention." He thought he was helping me.
+    토레스: 라파엘 말이 그 토론이 올해 시청자가 제일 많았대요. "이사, 공짜 관심이야"라고 했어요. 저를 돕는다고 생각한 거예요.
 
-019. DAN: He helped Brandt. Have you seen Brandt this morning?
-    댄: 브랜트를 도왔죠. 오늘 아침 브랜트 봤어요?
+019. DAN: He helped Brandt instead. Have you seen Brandt this morning?
+    댄: 대신 브랜트를 도왔지. 오늘 아침 브랜트 봤어?
 
-020. TORRES: My mother has it on. In the living room. With the sound up. She wants me to hear it. She's very Catholic about consequences.
-    토레스: 우리 엄마가 켜 놨어요. 거실에. 소리 키워서. 나보고 들으라고요. 결과에 대해선 아주 가톨릭적이세요.
+020. TORRES: My mother has it on in the living room with the sound up, because she wants me to hear it. She's very Catholic about consequences.
+    토레스: 엄마가 거실에 틀어 놨어요. 소리 크게요. 제가 들어야 한대요. 엄마는 결과에 대해선 아주 가톨릭적이에요.
 
-021. BRANDT: Folks, let's keep it simple. Even his own Vice President is planning for after him. She's not waiting four more years. Why should you?
-    브랜트: 여러분, 간단하게 갑시다. 자기 부통령조차 그 사람 이후를 계획하고 있어요. 그분은 4년을 더 기다리지 않아요. 여러분은 왜 기다려야 하죠?
+021. BRANDT: Folks, let's keep it simple. Even his own Vice President is planning for after him, so she's not waiting four more years. Why should you?
+    브랜트: 여러분, 간단하게 갑시다. 자기 부통령조차 그 다음을 준비하고 있어요. 부통령도 4년을 더 안 기다리는데, 여러분이 왜 기다려야 합니까?
 
-022. TORRES: That's a good line. I hate that it's a good line. I gave it to him. Me. Dan, I'm sorry.
-    토레스: 좋은 대사네요. 좋은 대사라서 싫어요. 내가 줬어요. 내가요. 댄, 미안해요.
+022. TORRES: That's a good line, and I hate that it's good, because I gave it to him myself. Dan, I'm sorry.
+    토레스: 좋은 대사네요. 좋다는 게 싫어요. 그 대사를 제가 직접 줬으니까요. 댄, 미안해요.
 
-023. DAN: Isabel. I'm going to say something. You're not going to like it.
-    댄: 이사벨. 할 말이 있어요. 마음에 안 들 거예요.
+023. DAN: Isabel, I'm going to say something that you're not going to like.
+    댄: 이사벨, 네가 싫어할 말을 하나 할게.
 
-024. TORRES: Say it plain. You always do. Even when I wish you wouldn't.
-    토레스: 쉽게 말해요. 늘 그러잖아요. 내가 안 그랬으면 할 때도.
+024. TORRES: Say it plain, because you always do, even when I wish you wouldn't.
+    토레스: 쉽게 말해요. 늘 그러잖아요. 제가 안 그랬으면 싶을 때도요.
 
-025. DAN: I'm angry. Three weeks before my election. During my debate. I'm angry at Rafael. And I'm angry at you, because it's your name on it.
-    댄: 화나요. 제 선거 3주 전에. 제 토론 중에. 라파엘한테 화나요. 그리고 이사벨한테도 화나요. 이사벨 이름이 붙어 있으니까요.
+025. DAN: I'm angry, three weeks before my election and during my debate. I'm angry at Rafael, and I'm angry at you, because it's your name on it.
+    댄: 화가 나. 선거 3주 전에, 내 토론 중에. 라파엘한테 화나고, 너한테도 화나. 거기 네 이름이 있으니까.
 
-026. TORRES: You should be. I would be. Can I say something back? You won't like it either.
-    토레스: 화나셔야죠. 나라도 그럴 거예요. 나도 할 말 해도 돼요? 그것도 마음에 안 들 거예요.
+026. TORRES: You should be, because I would be. Can I say something back that you won't like either?
+    토레스: 화나야죠. 저라도 그럴 거예요. 저도 대통령님이 싫어할 말 하나 해도 돼요?
 
-027. DAN: Go ahead. My mother says eat first, then fight. We ate.
-    댄: 하세요. 우리 엄마가 먼저 먹고 그다음 싸우라고 했어요. 먹었잖아요.
+027. DAN: Go ahead, because my mother says eat first, then fight, and we ate.
+    댄: 해. 우리 엄마가 먼저 먹고 싸우라고 했는데, 먹었잖아.
 
-028. TORRES: For four years, I've been the person you send. The border. The fires. The tie votes. Pickle day. I never complained. Not once. Ask my mother.
-    토레스: 4년 동안 난 당신이 보내는 사람이었어요. 국경. 산불. 동률 표결. 피클의 날. 한 번도 불평 안 했어요. 단 한 번도. 우리 엄마한테 물어봐요.
+028. TORRES: For four years I've been the person you send to the border, the fires, the tie votes, and Pickle Day. I never complained, not once, so ask my mother.
+    토레스: 4년 동안 저는 대통령님이 보내는 사람이었어요. 국경, 산불, 동률 표결, 피클 데이까지요. 한 번도 불평 안 했어요. 엄마한테 물어보세요.
 
-029. DAN: You never complained. I know.
-    댄: 한 번도 불평 안 했죠. 알아요.
+029. DAN: You never complained, Isabel, not once, and I know that.
+    댄: 넌 한 번도 불평 안 했어, 이사벨. 단 한 번도. 알아.
 
-030. TORRES: And in four years, you never asked me once what I want after you. Not once. You ask everybody the follow-up question now. You said so on television. You never asked me.
-    토레스: 그리고 4년 동안 당신 이후에 내가 뭘 원하는지 한 번도 안 물었어요. 한 번도요. 이제 다들한테 후속 질문을 한다면서요. 텔레비전에서 그랬잖아요. 나한텐 한 번도 안 물었어요.
+030. TORRES: And in four years you never once asked me what I want after you. You ask everybody the follow-up question now, as you said on television, but you never asked me.
+    토레스: 그리고 4년 동안 대통령님 다음에 제가 뭘 원하는지 한 번도 안 물으셨어요. 이제 모두한테 후속 질문을 한다고 텔레비전에서 그러셨잖아요. 그런데 저한텐 한 번도 안 물으셨어요.
 
-031. DAN: That's fair.
-    댄: 맞는 말이에요.
+031. DAN: That's fair, Isabel, and I have no defense.
+    댄: 그건 맞는 말이야, 이사벨. 변명할 게 없어.
 
-032. TORRES: So Rafael asked. Four men from Phoenix asked. I said yes, because nobody else asked. That's what I'm ashamed of. That I wanted someone to ask so badly I let my brother do it.
-    토레스: 그래서 라파엘이 물었어요. 피닉스 남자 넷도 물었고요. 아무도 안 물었으니까 그러자고 했어요. 그게 부끄러운 거예요. 누가 물어봐 주길 너무 원해서 남동생한테 그걸 하게 둔 거요.
+032. TORRES: So Rafael asked, and four men from Phoenix asked, and I said yes because nobody else asked. That's what I'm ashamed of, that I wanted someone to ask so badly I let my brother do it.
+    토레스: 그래서 라파엘이 물었고, 피닉스 남자 넷이 물었어요. 아무도 안 물어서 좋다고 했어요. 그게 부끄러운 거예요. 누가 물어봐 주길 너무 원해서 오빠한테 그걸 맡겨 버린 거요.
 
-033. DAN: Isabel. I didn't know. I didn't know any of that.
-    댄: 이사벨. 몰랐어요. 그런 건 하나도 몰랐어요.
+033. DAN: Isabel, I didn't know any of that.
+    댄: 이사벨, 난 그런 거 전혀 몰랐어.
 
-034. TORRES: And I want it. 2044. I've wanted it since a diner in New Hampshire in 2036, when I lost to you and you bought my coffee. That's the sin, Dan. I want it before I've earned it.
-    토레스: 그리고 원해요. 2044년. 2036년 뉴햄프셔의 다이너에서 당신한테 지고 당신이 내 커피값을 냈을 때부터 원했어요. 그게 죄예요, 댄. 얻기도 전에 원하는 거죠.
+034. TORRES: And I want it, 2044. I've wanted it since a diner in New Hampshire in 2036, when I lost to you and you bought my coffee. That's the sin, Dan, because I want it before I've earned it.
+    토레스: 그리고 원해요. 2044년. 2036년에 뉴햄프셔 다이너에서 대통령님한테 지고 대통령님이 커피 사 주셨을 때부터 원했어요. 그게 죄예요, 댄. 자격을 갖추기 전에 원하는 거요.
 
-035. DAN: You've earned it. You broke a tie on my Attorney General. You broke a tie on housing. You stood in the desert with Wade Rourke and wrote half a law on a raffle paper.
-    댄: 얻었어요. 제 법무장관 인준에서 동률을 깼잖아요. 주거 문제에서도 동률을 깼고요. 사막에서 웨이드 루크랑 서서 추첨 종이에 법 절반을 썼잖아요.
+035. DAN: You've earned it. You broke a tie on my Attorney General and on housing, and you stood in the desert with Wade Rourke and wrote half a law on a raffle paper.
+    댄: 넌 자격 있어. 내 법무장관 인준 동률도 깼고, 주택 법안 동률도 깼어. 사막에서 웨이드 루크랑 서서 추첨 종이에 법 절반을 썼잖아.
 
-036. TORRES: And Pickle Day. Please don't ever forget Pickle Day, Dan.
-    토레스: 그리고 피클의 날. 피클의 날은 절대 잊지 마요, 댄.
+036. TORRES: And Pickle Day, so please don't ever forget Pickle Day, Dan.
+    토레스: 그리고 피클 데이요. 피클 데이는 절대 잊지 마세요, 댄.
 
 037. DAN: Pickle Day was a big day for pickles.
-    댄: 피클의 날은 피클한테 중요한 날이었죠.
+    댄: 피클 데이는 피클한테 중요한 날이었지.
 
-038. TORRES: Don't make me laugh. I'm trying to be ashamed.
-    토레스: 웃기지 마요. 부끄러워하려고 노력 중이에요.
+038. TORRES: Don't make me laugh, because I'm trying to be ashamed.
+    토레스: 웃기지 마요. 부끄러워하려고 애쓰는 중이에요.
 
-039. DAN: Then let me ask the follow-up question. Four years late. Isabel, what do you want after me?
-    댄: 그럼 후속 질문을 할게요. 4년 늦었지만요. 이사벨, 제 다음에 뭘 원해요?
+039. DAN: Then let me ask the follow-up question, four years late. Isabel, what do you want after me?
+    댄: 그럼 4년 늦었지만 후속 질문을 할게. 이사벨, 내 다음에 뭘 원해?
 
-040. TORRES: I want to run in 2044. I want to win. I want to be the first President from Yuma. I want my mother to grade my inauguration speech.
-    토레스: 2044년에 나가고 싶어요. 이기고 싶어요. 유마 출신 첫 대통령이 되고 싶어요. 우리 엄마가 내 취임 연설 점수를 매겼으면 좋겠어요.
+040. TORRES: I want to run in 2044, and I want to win. I want to be the first President from Yuma, and I want my mother to grade my inauguration speech.
+    토레스: 2044년에 출마하고 싶어요. 이기고 싶어요. 유마 출신 첫 대통령이 되고 싶어요. 엄마가 제 취임 연설에 점수를 매겨 주셨으면 해요.
 
-041. LUPE: B-plus. I already know. You talk too long at the end.
-    루페: B플러스. 벌써 알아. 넌 끝에 말이 너무 길어.
+041. LUPE: It's a B-plus, and I already know, because you talk too long at the end.
+    루페: B플러스야. 벌써 알아. 넌 끝에 가서 말이 너무 길어.
 
-042. TORRES: Mamá! You're listening?
-    토레스: 엄마! 듣고 있었어?
+042. TORRES: Mamá, you're listening?
+    토레스: 엄마, 듣고 있었어?
 
-043. LUPE: It's my kitchen. I listen to everything in my kitchen. Keep going. I'm making more coffee.
-    루페: 내 부엌이야. 내 부엌에선 다 들어. 계속해. 커피 더 탈게.
+043. LUPE: It's my kitchen, so I listen to everything in my kitchen. Keep going while I make more coffee.
+    루페: 내 부엌이잖아. 내 부엌에선 다 들어. 계속해. 커피 더 끓일게.
 
-044. DAN: Isabel. Want it out loud. That's not a sin. That's how it works. I wanted it out loud in the Bronx in 2035. At two percent.
-    댄: 이사벨. 소리 내서 원해요. 그건 죄가 아니에요. 원래 그렇게 하는 거예요. 저도 2035년에 브롱크스에서 소리 내서 원했어요. 2퍼센트일 때.
+044. DAN: Isabel, want it out loud, because that's not a sin, it's how it works. I wanted it out loud in the Bronx in 2035, at two percent.
+    댄: 이사벨, 소리 내서 원해. 그건 죄가 아니야. 원래 그렇게 하는 거야. 나도 2035년에 브롱크스에서 지지율 2퍼센트로 소리 내서 원했어.
 
-045. TORRES: You wanted it out loud on a Saturday in January. Not three weeks before an election. During someone else's debate.
-    토레스: 당신은 1월의 토요일에 소리 내서 원했죠. 선거 3주 전이 아니라. 남의 토론 중에도 아니고.
+045. TORRES: You wanted it out loud on a Saturday in January, not three weeks before an election during someone else's debate.
+    토레스: 대통령님은 1월 어느 토요일에 소리 내서 원하셨죠. 선거 3주 전에 남의 토론 중에가 아니라요.
 
-046. DAN: That's true. The timing was bad. Very bad.
-    댄: 맞아요. 타이밍이 나빴어요. 아주 나빴어요.
+046. DAN: That's true, and the timing was very, very bad.
+    댄: 맞아. 타이밍이 정말, 정말 나빴지.
 
-047. TORRES: Bad timing. In English, that's what Rafael will say. "Bad timing." In Spanish, my mother has another word for it. I won't say it in front of the President.
-    토레스: 나쁜 타이밍. 영어로는 라파엘이 그렇게 말할 거예요. "타이밍이 나빴어." 스페인어로는 우리 엄마가 쓰는 다른 단어가 있어요. 대통령 앞에선 말 안 할게요.
+047. TORRES: In English, Rafael will call it "bad timing." In Spanish my mother has another word for it, which I won't say in front of the President.
+    토레스: 영어로는 라파엘이 "타이밍이 나빴다"고 하겠죠. 스페인어로는 엄마가 쓰는 다른 단어가 있는데, 대통령님 앞에선 말 안 할게요.
 
-048. LUPE: I'll say it. Later. To Rafael. On the phone.
-    루페: 내가 할게. 나중에. 라파엘한테. 전화로.
+048. LUPE: I'll say it later, to Rafael, on the phone.
+    루페: 내가 말할게. 나중에. 라파엘한테. 전화로.
 
-049. DAN: So what do we do? Brandt has the line. He'll say it every day for three weeks.
-    댄: 그럼 어떻게 해요? 브랜트가 대사를 가졌어요. 3주 동안 매일 할 거예요.
+049. DAN: So what do we do, when Brandt has the line and he'll say it every day for three weeks?
+    댄: 그럼 어떻게 하지? 브랜트가 그 대사를 갖고 있고, 3주 동안 매일 할 텐데.
 
-050. TORRES: I put the PAC on hold. Today. Not shut down. On hold. Until the votes are counted. And I say why. In my own words.
-    토레스: PAC을 보류할게요. 오늘. 해산 말고. 보류. 표를 다 셀 때까지. 그리고 이유를 말할게요. 내 말로.
+050. TORRES: I put the PAC on hold today, not shut down but on hold, until the votes are counted. And I say why in my own words.
+    토레스: 오늘 PAC을 보류할게요. 해체가 아니라 보류요. 표가 다 셀 때까지요. 그리고 이유를 제 말로 직접 할게요.
 
-051. DAN: On hold. In English.
-    댄: 보류. 쉬운 말로요.
+051. DAN: Explain "on hold" in English for the people at home.
+    댄: 집에 있는 분들을 위해 "보류"를 쉬운 말로 설명해 봐.
 
-052. TORRES: Paused. Not dead. Like a CR. Ben would be proud. It stops raising money. It stops posting. It waits.
-    토레스: 일시 정지. 죽은 게 아니라. CR처럼요. 벤이 자랑스러워할 거예요. 돈 모으는 걸 멈추고. 게시물도 멈추고. 기다리는 거예요.
+052. TORRES: It means paused but not dead, like a CR, which would make Ben proud. It stops raising money, stops posting, and waits.
+    토레스: 멈춘 거지 죽은 게 아니라는 거예요. 임시 예산처럼요. 벤이 자랑스러워하겠네요. 돈도 안 모으고, 게시물도 안 올리고, 기다리는 거예요.
 
-053. DAN: And what do you say? In your own words?
-    댄: 그럼 뭐라고 할 거예요? 이사벨 말로?
+053. DAN: And what will you say in your own words?
+    댄: 그럼 네 말로 뭐라고 할 건데?
 
-054. TORRES: The truth. "I want to run in 2044. I'm not running in 2040. In 2040, I'm running with him. Arizona Forward can wait. Arizona can't."
-    토레스: 사실이요. "저는 2044년에 나가고 싶습니다. 2040년엔 나가지 않습니다. 2040년엔 그와 함께 뜁니다. 애리조나 포워드는 기다릴 수 있습니다. 애리조나는 못 기다립니다."
+054. TORRES: The truth: "I want to run in 2044, but I'm not running in 2040, because in 2040 I'm running with him. Arizona Forward can wait. Arizona can't."
+    토레스: 진실이요. "저는 2044년에 출마하고 싶습니다. 하지만 2040년엔 출마하지 않습니다. 2040년엔 그와 함께 뜁니다. 애리조나 포워드는 기다릴 수 있습니다. 애리조나는 기다릴 수 없습니다."
 
-055. DAN: You'd say "I want to run in 2044." Out loud. Three weeks before the election.
-    댄: "2044년에 나가고 싶다"고 말한다고요. 소리 내서. 선거 3주 전에.
+055. DAN: You'd say "I want to run in 2044" out loud, three weeks before the election?
+    댄: 선거 3주 전에 "2044년에 출마하고 싶다"고 소리 내서 말한다고?
 
-056. TORRES: Everybody knows already. Brandt said it on TV. If I deny it, I'm a liar. If I say it, I'm just a woman who wants a job. Women who want jobs aren't a scandal anymore. Mostly.
-    토레스: 다들 벌써 알아요. 브랜트가 TV에서 말했어요. 부인하면 거짓말쟁이예요. 말하면 그냥 일자리를 원하는 여자고요. 일자리 원하는 여자는 이제 스캔들이 아니에요. 대체로는요.
+056. TORRES: Everybody knows already, because Brandt said it on TV. If I deny it, I'm a liar, and if I say it, I'm just a woman who wants a job. Women who want jobs aren't a scandal anymore, mostly.
+    토레스: 다들 벌써 알아요. 브랜트가 텔레비전에서 말했잖아요. 부인하면 거짓말쟁이고, 말하면 그냥 일을 원하는 여자예요. 일을 원하는 여자는 이제 스캔들이 아니에요. 대체로는요.
 
-057. DAN: Mostly. That's a very heavy word in that sentence.
-    댄: 대체로는. 그 문장에서 아주 무거운 단어네요.
+057. DAN: Mostly is a very heavy word in that sentence.
+    댄: 그 문장에서 "대체로는"이 아주 무겁네.
 
-058. TORRES: Arizona doesn't do easy. Neither does being a woman in this job. Dan. One more thing. Will you endorse me? In 2044?
-    토레스: 애리조나는 쉬운 걸 안 해요. 이 자리의 여자로 사는 것도 그렇고요. 댄. 하나 더요. 나 지지해 줄 거예요? 2044년에?
+058. TORRES: Arizona doesn't do easy, and neither does being a woman in this job. Dan, one more thing: will you endorse me in 2044?
+    토레스: 애리조나는 쉬운 걸 안 해요. 이 자리에 있는 여자도 마찬가지고요. 댄, 하나 더요. 2044년에 저를 지지해 주실 거예요?
 
-059. DAN: Ask me in 2043. Ask the follow-up then too.
-    댄: 2043년에 물어봐요. 후속 질문도 그때 하고요.
+059. DAN: Ask me in 2043, and ask the follow-up then too.
+    댄: 2043년에 물어봐. 그때 후속 질문도 하고.
 
-060. TORRES: That's not an answer, Dan. That's a very polite delay.
-    토레스: 그건 대답이 아니잖아요, 댄. 아주 예의 바른 미루기죠.
+060. TORRES: That's not an answer, Dan, because it's a very polite delay.
+    토레스: 그건 대답이 아니에요, 댄. 아주 정중한 미루기죠.
 
-061. DAN: That's what my daughter says. It's an answer. It's just an answer for 2043. Today I have one job. Win Arizona. With you.
-    댄: 우리 딸이 하는 말이네요. 대답이에요. 2043년용 대답일 뿐이죠. 오늘은 할 일이 하나예요. 애리조나에서 이기기. 이사벨이랑.
+061. DAN: That's what my daughter says, but it's an answer, just an answer for 2043. Today I have one job, which is to win Arizona with you.
+    댄: 우리 딸도 그 말 해. 그래도 대답이야. 2043년을 위한 대답이지. 오늘 내 일은 하나야. 너랑 같이 애리조나를 이기는 거.
 
-062. TORRES: With me. Not with my brother's website.
-    토레스: 나랑. 우리 남동생 웹사이트 말고.
+062. TORRES: With me, and not with my brother's website.
+    토레스: 저랑 같이요. 오빠 웹사이트 말고요.
 
-063. DAN: With you. And with your mother's red pen.
-    댄: 이사벨이랑. 그리고 어머님 빨간 펜이랑.
+063. DAN: With you, and with your mother's red pen.
+    댄: 너랑 같이. 그리고 어머님 빨간 펜이랑.
 
-064. LUPE: The red pen stays here. It doesn't campaign. Coffee. Both of you.
-    루페: 빨간 펜은 여기 있어. 선거 운동 안 해. 커피. 둘 다.
+064. LUPE: The red pen stays here, because it doesn't campaign. Have some coffee, both of you.
+    루페: 빨간 펜은 여기 있어. 선거 운동 안 해. 커피 마셔, 둘 다.
 
-065. WHITFIELD: Nine-thirty, sir. The front yard. The Vice President's brother is on the phone. He's been calling her phone for an hour. It's off. So he called mine.
-    휘트필드: 9시 30분입니다, 대통령님. 앞마당이요. 부통령님 동생분 전화예요. 한 시간째 부통령님 전화로 걸었대요. 꺼져 있으니까. 그래서 제 걸로 걸었어요.
+065. WHITFIELD: It's nine-thirty in the front yard, sir. The Vice President's brother has been calling her phone for an hour, and since it's off, he called mine.
+    휘트필드: 9시 30분, 앞마당입니다, 대통령님. 부통령님 오빠가 한 시간째 부통령님 전화로 걸고 있는데 꺼져 있어서 제 전화로 걸었어요.
 
-066. DAN: How does Rafael Torres have your number, Dana?
-    댄: 라파엘 토레스가 데이나 번호를 어떻게 알아요?
+066. DAN: How does Rafael Torres have your number, Dana, when it's classified?
+    댄: 라파엘 토레스가 어떻게 당신 번호를 알아요, 데이나? 기밀인데.
 
-067. WHITFIELD: Lupe gave it to him, sir. Lupe has everyone's number. I don't know how she got mine.
-    휘트필드: 루페 여사님이 줬대요, 대통령님. 루페 여사님은 다들 번호를 갖고 있어요. 제 번호는 어떻게 구하셨는지 모르겠어요.
+067. WHITFIELD: Lupe gave it to him, sir, because Lupe has everyone's number, and I don't know how she got mine.
+    휘트필드: 루페 여사님이 줬습니다, 대통령님. 루페 여사님은 모두의 번호를 갖고 계세요. 제 번호는 어떻게 아셨는지 모르겠습니다.
 
-068. TORRES: Give it to me. Rafa. It's me.
-    토레스: 줘요. 라파. 나야.
+068. TORRES: Give it to me. Rafa, it's me.
+    토레스: 이리 줘요. 라파, 나야.
 
-069. RAFAEL: Isa. Finally. I'm so sorry. I thought it was smart. Free attention. I didn't think about Brandt.
-    라파엘: 이사. 드디어. 정말 미안해. 똑똑한 생각인 줄 알았어. 공짜 관심. 브랜트는 생각 못 했어.
+069. RAFAEL: Isa, finally, and I'm so sorry. I thought it was smart, free attention, and I didn't think about Brandt.
+    라파엘: 이사, 드디어. 정말 미안해. 똑똑한 줄 알았어. 공짜 관심이라고. 브랜트 생각은 못 했어.
 
-070. TORRES: You didn't think. Mamá said you'd say that.
-    토레스: 생각 안 했지. 엄마가 네가 그렇게 말할 거랬어.
+070. TORRES: You didn't think, which is exactly what Mamá said you'd say.
+    토레스: 생각을 안 했지. 엄마가 오빠가 딱 그렇게 말할 거라고 했어.
 
-071. RAFAEL: Is she angry? Isa, please tell me the truth. How angry?
-    라파엘: 엄마 화났어? 이사, 솔직히 말해 줘. 얼마나 화났어?
+071. RAFAEL: Is she angry? Isa, please tell me the truth about how angry she is.
+    라파엘: 엄마 화났어? 이사, 얼마나 화났는지 솔직히 말해 줘.
 
-072. TORRES: She has a word for it in Spanish. She's saving it for your call.
-    토레스: 스페인어로 그걸 가리키는 단어가 있대. 네 전화용으로 아껴 뒀대.
+072. TORRES: She has a word for it in Spanish, and she's saving it for your call.
+    토레스: 스페인어로 쓰는 단어가 하나 있는데, 오빠 전화 때 쓰려고 아껴 두셨어.
 
-073. RAFAEL: Oh no. Isa. Is the President there? Can I talk to him? Please.
-    라파엘: 아이고. 이사. 대통령님 거기 계셔? 얘기할 수 있을까? 제발.
+073. RAFAEL: Oh no. Isa, is the President there? Can I please talk to him?
+    라파엘: 아, 안 돼. 이사, 대통령님 거기 계셔? 얘기 좀 할 수 있을까?
 
-074. DAN: Mr. Torres. I'm here.
-    댄: 토레스 씨. 여기 있어요.
+074. DAN: I'm here, Mr. Torres.
+    댄: 여기 있어요, 토레스 씨.
 
-075. RAFAEL: Mr. President. I'm Rafael. The brother. In 2036, you found out about my highway contract. You told Isabel first. Before the newspapers. You let her say it herself.
-    라파엘: 대통령님. 라파엘입니다. 그 동생이요. 2036년에 제 고속도로 계약을 알아내셨죠. 이사벨한테 먼저 말씀하셨어요. 신문보다 먼저. 누나가 직접 말하게 해 주셨죠.
+075. RAFAEL: Mr. President, I'm Rafael, the brother. In 2036 you found out about my highway contract, and you told Isabel first, before the newspapers, so she could say it herself.
+    라파엘: 대통령님, 라파엘이에요. 오빠요. 2036년에 제 고속도로 계약 건을 알게 되셨을 때 신문보다 먼저 이사벨한테 말해 주셨죠. 이사벨이 직접 말할 수 있게요.
 
-076. DAN: I remember. The lowest bid. Your sister had nothing to do with it.
-    댄: 기억해요. 최저가 입찰. 누나는 아무 관련 없었죠.
+076. DAN: I remember, because it was the lowest bid, and your sister had nothing to do with it.
+    댄: 기억해요. 최저가 입찰이었고, 동생분은 아무 관련 없었죠.
 
-077. RAFAEL: And this time I made a mess with her name on it. And yours. I wanted to help. I helped the other guy. I'm sorry. That's all I have. I don't have a better sentence.
-    라파엘: 그리고 이번엔 누나 이름이 붙은 사고를 쳤어요. 대통령님 이름도요. 돕고 싶었어요. 상대편을 도왔고요. 죄송해요. 그게 다예요. 더 나은 문장이 없어요.
+077. RAFAEL: And this time I made a mess with her name on it, and yours. I wanted to help, but I helped the other guy. I'm sorry. That's all I have, and I don't have a better sentence.
+    라파엘: 그런데 이번엔 이사벨 이름에, 대통령님 이름까지 걸린 사고를 쳤어요. 돕고 싶었는데 상대편을 도왔어요. 죄송해요. 그게 다예요. 더 나은 문장이 없어요.
 
-078. DAN: That's a good sentence, Mr. Torres. "I'm sorry. That's all I have." My father used four words once. Yours is close.
-    댄: 좋은 문장이에요, 토레스 씨. "죄송해요. 그게 다예요." 우리 아버지는 한번 네 단어를 쓰셨어요. 비슷하네요.
+078. DAN: That's a good sentence, Mr. Torres: "I'm sorry. That's all I have." My father used four words once, and yours is close.
+    댄: 좋은 문장이에요, 토레스 씨. "죄송해요. 그게 다예요." 우리 아버지가 한 번 네 단어를 쓴 적이 있는데, 당신 말도 거의 비슷해요.
 
 079. RAFAEL: What were the four words?
-    라파엘: 그 네 단어가 뭐였어요?
+    라파엘: 네 단어가 뭐였어요?
 
-080. DAN: "I was wrong. Eat."
+080. DAN: They were "I was wrong. Eat."
     댄: "내가 틀렸어. 먹어."
 
-081. RAFAEL: My mother would like your father.
-    라파엘: 우리 엄마가 아버님을 좋아하셨겠네요.
+081. RAFAEL: My mother would like your father, I think, very much.
+    라파엘: 우리 엄마가 아버님을 아주 좋아하셨을 것 같아요.
 
-082. LUPE: Rafael. Give me the phone. Isabel, give me the phone. Now. Everybody go outside.
-    루페: 라파엘. 전화 줘. 이사벨, 전화 줘. 지금. 다들 밖에 나가.
+082. LUPE: Rafael, give me the phone. Isabel, give me the phone now, and everybody go outside.
+    루페: 라파엘, 전화 바꿔. 이사벨, 전화 줘. 지금. 다들 밖에 나가.
 
-083. TORRES: We are outside, Mamá. We're all already standing outside.
-    토레스: 우리 밖에 있어, 엄마. 다들 벌써 밖에 서 있어.
+083. TORRES: We are outside, Mamá, because we're all already standing outside.
+    토레스: 우리 밖에 있어요, 엄마. 다 이미 밖에 서 있어요.
 
 084. LUPE: Then go further outside.
     루페: 그럼 더 밖으로 나가.
 
-085. WHITFIELD: Sir. I think we should walk to the car. Slowly. I've heard that tone before. From my grandmother.
-    휘트필드: 대통령님. 차 쪽으로 걸어가시는 게 좋겠어요. 천천히. 그 말투 들어 본 적 있어요. 우리 할머니한테서요.
+085. WHITFIELD: Sir, I think we should walk slowly to the car, because I've heard that tone before, from my grandmother.
+    휘트필드: 대통령님, 천천히 차로 걸어가시는 게 좋겠습니다. 그 말투 전에 들어 봤어요. 우리 할머니한테서요.
 
-086. TORRES: Dan. Four o'clock. The fairgrounds. Together. On the same stage. Aisha set it up an hour ago. She called my mother first.
-    토레스: 댄. 네 시. 박람회장. 같이. 같은 무대에서. 아이샤가 한 시간 전에 잡았어요. 우리 엄마한테 먼저 전화했대요.
+086. TORRES: Dan, it's four o'clock at the fairgrounds, together on the same stage. Aisha set it up an hour ago, and she called my mother first.
+    토레스: 댄, 4시에 박람회장이에요. 같은 무대에 같이요. 아이샤가 한 시간 전에 잡았어요. 엄마한테 먼저 전화했대요.
 
-087. DAN: Everybody calls the mother first now.
-    댄: 이제 다들 엄마한테 먼저 전화하네요.
+087. DAN: Everybody calls the mother first now, I notice.
+    댄: 요즘은 다들 엄마한테 먼저 전화하네.
 
-088. TORRES: It's your fault. You started it. On Christmas Eve. My mother heard about it from your mother. In a church group.
-    토레스: 당신 탓이에요. 당신이 시작했잖아요. 크리스마스이브에. 우리 엄마가 당신 엄마한테서 들었대요. 교회 모임에서.
+088. TORRES: It's your fault, because you started it on Christmas Eve, and my mother heard about it from your mother in a church group.
+    토레스: 대통령님 탓이에요. 크리스마스이브에 대통령님이 시작했잖아요. 엄마가 교회 모임에서 대통령님 어머님한테 들었대요.
 
 089. DAN: My mother is in Lupe's church group?
-    댄: 우리 엄마가 루페 여사님 교회 모임에 있어요?
+    댄: 우리 엄마가 루페 여사님 교회 모임에 있어?
 
-090. TORRES: Since 2039. Leila added her. Everybody's mother is in that group now. It's the most powerful organization in America.
-    토레스: 2039년부터요. 레일라가 넣었대요. 이제 모든 사람의 엄마가 그 모임에 있어요. 미국에서 제일 강력한 조직이에요.
+090. TORRES: She's been in it since 2039, because Leila added her. Everybody's mother is in that group now, and it's the most powerful organization in America.
+    토레스: 2039년부터요. 레일라가 넣었어요. 이제 모두의 엄마가 그 모임에 있어요. 미국에서 제일 강력한 조직이에요.
 
-091. AISHA: Sir. It's me. On the phone. From Long Island City. Before four o'clock. Facts first.
-    아이샤: 대통령님. 저예요. 전화로요. 롱아일랜드시티에서요. 네 시 전에요. 사실 먼저.
+091. AISHA: Sir, it's me on the phone from Long Island City before four o'clock, so facts first.
+    아이샤: 대통령님, 저예요. 롱아일랜드시티에서 전화드려요. 4시 전에요. 사실 먼저요.
 
-092. DAN: Go ahead, Aisha. Facts first. I'm listening to you.
-    댄: 해요, 아이샤. 사실 먼저. 듣고 있어요.
+092. DAN: Go ahead, Aisha, because I'm listening.
+    댄: 해 봐요, 아이샤. 듣고 있어요.
 
-093. AISHA: Arizona was up three before the debate. This morning, after Brandt's line, it's up one. The PAC cost us two points. In one night.
-    아이샤: 애리조나는 토론 전에 3포인트 앞섰어요. 오늘 아침 브랜트 대사 뒤엔 1포인트 앞서요. PAC 때문에 2포인트 잃었어요. 하룻밤에.
+093. AISHA: Arizona was up three before the debate, and this morning, after Brandt's line, it's up one. The PAC cost us two points in one night.
+    아이샤: 토론 전엔 애리조나에서 3포인트 앞섰어요. 오늘 아침 브랜트 대사 이후엔 1포인트요. PAC 때문에 하룻밤에 2포인트 잃었어요.
 
-094. DAN: And if she puts it on hold? And says it out loud?
-    댄: 이사벨이 보류하고 소리 내서 말하면요?
+094. DAN: And what if she puts it on hold and says it out loud?
+    댄: 그럼 이사벨이 보류하고 소리 내서 말하면요?
 
-095. AISHA: Dev thinks we get one back. Maybe two. People in Arizona like her. They like that she says what she wants. It's very Arizona. Feelings after. Then we win. Go.
-    아이샤: 데브는 하나 되찾을 거래요. 어쩌면 둘. 애리조나 사람들은 그분을 좋아해요. 원하는 걸 말하는 걸 좋아하고요. 아주 애리조나다워요. 감정은 나중에. 그리고 이긴다. 가세요.
+095. AISHA: Dev thinks we get one back, maybe two, because people in Arizona like her. They like that she says what she wants, which is very Arizona. Feelings after, then we win, so go.
+    아이샤: 데브는 1포인트, 어쩌면 2포인트 되찾을 거래요. 애리조나 사람들은 이사벨을 좋아하거든요. 원하는 걸 말하는 걸 좋아해요. 아주 애리조나답죠. 감정은 나중에, 그리고 이긴다. 가세요.
 
-096. DAN: Aisha. One question. Did you call Lupe first?
-    댄: 아이샤. 질문 하나만요. 루페 여사님한테 먼저 전화했어요?
+096. DAN: Aisha, one question before I go: did you call Lupe first?
+    댄: 아이샤, 가기 전에 하나만요. 루페 여사님한테 먼저 전화했어요?
 
-097. AISHA: Of course I did. I'm not new, sir.
-    아이샤: 당연하죠. 저 신입 아니에요, 대통령님.
+097. AISHA: Of course I did, because I'm not new, sir.
+    아이샤: 당연하죠. 저 신참 아니에요, 대통령님.
 
-098. CHUY: Four p.m. The Yuma County Fairgrounds. Mr. President! The bus! We drove it from Pennsylvania. Four days. Look at the side.
-    추이: 오후 4시. 유마 카운티 박람회장. 대통령님! 버스요! 펜실베이니아에서 몰고 왔어요. 나흘이요. 옆면 보세요.
+098. CHUY: It's four p.m. at the Yuma County Fairgrounds. Mr. President, look at the bus! We drove it from Pennsylvania in four days, so look at the side.
+    추이: 오후 4시, 유마 카운티 박람회장이에요. 대통령님, 버스 보세요! 펜실베이니아에서 나흘 동안 몰고 왔어요. 옆면 보세요.
 
-099. DAN: "Facts First. Feelings After. Then We Win." In big letters.
-    댄: "사실 먼저. 감정은 나중에. 그리고 이긴다." 큰 글씨로.
+099. DAN: The side of the bus says "Facts First. Feelings After. Then We Win." in big letters.
+    댄: 버스 옆면에 큰 글씨로 "사실 먼저. 감정은 나중에. 그리고 이긴다"라고 써 있네요.
 
-100. MARISELA: My father painted it himself. In Ohio. In the rain. The paint ran a little. "Feelings" looks like "Feeling."
-    마리셀라: 아빠가 직접 칠했어요. 오하이오에서. 빗속에서. 페인트가 좀 흘렀어요. "감정들"이 "감정"처럼 보여요.
+100. MARISELA: My father painted it himself in Ohio in the rain, so the paint ran a little, and "Feelings" looks like "Feeling."
+    마리셀라: 아빠가 오하이오에서 빗속에 직접 칠했어요. 그래서 페인트가 좀 흘러내려서 "감정들"이 "감정"처럼 보여요.
 
-101. CHUY: One feeling is enough. Thirty-one people on the bus. All paid the fine. We talked to nine thousand people. In seven states. And Ohio twice.
-    추이: 감정 하나면 충분해요. 버스에 서른한 명. 다 벌금 냈어요. 사람 9천 명이랑 얘기했어요. 일곱 개 주에서. 그리고 오하이오 두 번.
+101. CHUY: One feeling is enough. There are thirty-one people on the bus who all paid the fine, and we talked to nine thousand people in seven states, and Ohio twice.
+    추이: 감정은 하나면 충분해요. 버스에 서른한 명이 탔는데 다 벌금을 냈어요. 일곱 개 주에서, 오하이오는 두 번, 9천 명이랑 얘기했어요.
 
-102. DAN: Chuy. How's the civics test? How many questions now?
-    댄: 추이. 시민 상식 시험은요? 이제 몇 개 알아요?
+102. DAN: Chuy, how's the civics test going, and how many questions do you know now?
+    댄: 추이, 시민 상식 시험은 어때요? 이제 몇 개 알아요?
 
-103. CHUY: Eighty-eight. I learned twenty-six on the bus. Marisela quizzes me. On the highway. Every mile.
-    추이: 여든여덟 개요. 버스에서 스물여섯 개 배웠어요. 마리셀라가 문제를 내요. 고속도로에서. 1마일마다.
+103. CHUY: I know eighty-eight, because I learned twenty-six on the bus. Marisela quizzes me on the highway every mile.
+    추이: 88개요. 버스에서 26개 배웠어요. 마리셀라가 고속도로에서 1마일마다 문제를 내요.
 
-104. MARISELA: Question. What does the Vice President do?
+104. MARISELA: Here's a question: what does the Vice President do?
     마리셀라: 문제. 부통령은 무슨 일을 하나요?
 
-105. CHUY: Becomes President if the President can't serve. And votes in the Senate when there's a tie.
-    추이: 대통령이 직무를 못 하면 대통령이 된다. 그리고 상원에서 동률이면 투표한다.
+105. CHUY: The Vice President becomes President if the President can't serve, and votes in the Senate when there's a tie.
+    추이: 대통령이 직무를 못 하면 대통령이 되고, 상원에서 동률이 나오면 투표해요.
 
-106. TORRES: That's right, Chuy. That's my whole job. Breaking ties. And waiting.
-    토레스: 맞아요, 추이. 그게 내 일 전부예요. 동률 깨기. 그리고 기다리기.
+106. TORRES: That's right, Chuy, and that's my whole job: breaking ties, and waiting.
+    토레스: 맞아요, 추이. 그게 제 일 전부예요. 동률 깨기, 그리고 기다리기.
 
-107. CHUY: You don't wait, ma'am. You came to the desert with the Texan. Mrs. Torres says you only look like you're waiting.
-    추이: 부통령님은 기다리지 않으세요. 텍사스 분이랑 사막에 오셨잖아요. 토레스 여사님 말로는 기다리는 것처럼 보일 뿐이래요.
+107. CHUY: You don't wait, ma'am, because you came to the desert with the Texan. Mrs. Torres says you only look like you're waiting.
+    추이: 부통령님은 안 기다리세요. 텍사스 사람이랑 사막에 오셨잖아요. 토레스 여사님 말로는 기다리는 것처럼 보일 뿐이래요.
 
-108. AUDIENCE: Isabel! Isabel! Isabel!
-    청중: 이사벨! 이사벨! 이사벨!
+108. AUDIENCE: We love you, Isabel, and we're with you!
+    청중: 사랑해요, 이사벨! 우리가 함께할게요!
 
-109. TORRES: Thank you, Yuma. Sit. My mother is in the front row. She's grading. Please don't make me lose points.
-    토레스: 고마워요, 유마. 앉으세요. 우리 엄마가 맨 앞줄에 있어요. 점수 매기는 중이에요. 저 점수 깎이게 하지 마세요.
+109. TORRES: Thank you, Yuma, and please sit down. My mother is in the front row grading, so please don't make me lose points.
+    토레스: 고마워요, 유마. 앉아 주세요. 엄마가 맨 앞줄에서 점수를 매기고 계세요. 점수 깎이게 하지 마세요.
 
-110. AUDIENCE: Ha! Lupe!
-    청중: 하하! 루페!
+110. AUDIENCE: Ha! Don't make Lupe angry!
+    청중: 하하! 루페 여사님 화나게 하지 마!
 
-111. TORRES: Last night, during the debate, a group with my name on it started raising money for 2044. I didn't choose the timing. But it has my name on it. So it's mine.
-    토레스: 어젯밤 토론 중에, 제 이름이 붙은 단체가 2044년을 위한 모금을 시작했습니다. 제가 시점을 정하지 않았습니다. 하지만 제 이름이 붙어 있습니다. 그러니 제 책임입니다.
+111. TORRES: Last night, during the debate, a group with my name on it started raising money for 2044. I didn't choose the timing, but it has my name on it, so it's mine.
+    토레스: 어젯밤 토론 중에 제 이름이 붙은 단체가 2044년을 위해 돈을 모으기 시작했습니다. 타이밍은 제가 정하지 않았어요. 하지만 제 이름이 붙어 있으니 제 책임입니다.
 
-112. TORRES: So here's the truth. I want to run for President in 2044. I'm saying it out loud. In Yuma. In front of my mother.
-    토레스: 그래서 사실을 말하겠습니다. 저는 2044년에 대통령 선거에 나가고 싶습니다. 소리 내서 말하겠습니다. 유마에서. 우리 엄마 앞에서.
+112. TORRES: So here's the truth: I want to run for President in 2044, and I'm saying it out loud, in Yuma, in front of my mother.
+    토레스: 그래서 진실을 말씀드릴게요. 저는 2044년에 대통령 선거에 나가고 싶습니다. 소리 내서 말하는 겁니다. 유마에서, 우리 엄마 앞에서요.
 
-113. AUDIENCE: Yeah!
-    청중: 그래!
+113. AUDIENCE: Yeah! We'll be there, Isabel!
+    청중: 좋아! 우리가 함께할게, 이사벨!
 
-114. TORRES: But this is 2040. In 2040, I'm not running for anything. I'm running with him. The group is on hold. Starting today. Until every vote is counted.
-    토레스: 하지만 지금은 2040년입니다. 2040년에 저는 아무것에도 나가지 않습니다. 그와 함께 뜁니다. 그 단체는 오늘부터 보류입니다. 모든 표를 셀 때까지.
+114. TORRES: But this is 2040, and in 2040 I'm not running for anything, because I'm running with him. The group is on hold, starting today, until every vote is counted.
+    토레스: 하지만 지금은 2040년입니다. 2040년에 저는 아무것에도 출마하지 않습니다. 그와 함께 뜁니다. 그 단체는 오늘부터 모든 표가 셀 때까지 보류합니다.
 
-115. TORRES: Governor Brandt says I'm not waiting four more years. He's right. I'm not waiting. I'm working. For four more years. With Dan Reardon. Arizona Forward can wait. Arizona can't.
-    토레스: 브랜트 주지사는 제가 4년을 더 기다리지 않는다고 합니다. 맞습니다. 저는 기다리지 않습니다. 일합니다. 4년 더. 댄 레이든과 함께. 애리조나 포워드는 기다릴 수 있습니다. 애리조나는 못 기다립니다.
+115. TORRES: Governor Brandt says I'm not waiting four more years, and he's right, because I'm not waiting, I'm working, for four more years, with Dan Reardon. Arizona Forward can wait. Arizona can't.
+    토레스: 브랜트 주지사는 제가 4년을 기다리지 않는다고 합니다. 맞아요. 저는 기다리지 않습니다. 일합니다. 4년 더, 댄 레이든과 함께요. 애리조나 포워드는 기다릴 수 있습니다. 애리조나는 기다릴 수 없습니다.
 
-116. AUDIENCE: Four more years! Four more years!
-    청중: 4년 더! 4년 더!
+116. AUDIENCE: Four more years! Give us four more years!
+    청중: 4년 더! 4년 더 줘!
 
-117. LUPE: Shorter, Isabel!
+117. LUPE: Make it shorter, Isabel!
     루페: 더 짧게, 이사벨!
 
-118. TORRES: My mother says shorter. Ladies and gentlemen, the President of the United States.
-    토레스: 우리 엄마가 더 짧게 하래요. 신사 숙녀 여러분, 미국 대통령입니다.
+118. TORRES: My mother says shorter, so ladies and gentlemen, the President of the United States.
+    토레스: 엄마가 더 짧게 하래요. 신사 숙녀 여러분, 미국 대통령입니다.
 
-119. DAN: Thank you, Yuma. Thank you, Isabel. Mrs. Torres, I'll be short. I've been graded before.
-    댄: 고마워요, 유마. 고마워요, 이사벨. 토레스 여사님, 짧게 할게요. 점수 받아 봤거든요.
+119. DAN: Thank you, Yuma, and thank you, Isabel. Mrs. Torres, I'll be short, because I've been graded before.
+    댄: 고맙습니다, 유마. 고마워요, 이사벨. 토레스 여사님, 짧게 할게요. 점수 받아 본 적 있거든요.
 
-120. DAN: In 2035, Isabel Torres and I ran against each other. In 2036, she lost to me, and I bought her coffee. Then I asked her to run with me. She said, "Arizona doesn't do easy."
-    댄: 2035년에 이사벨 토레스와 저는 서로 맞붙었습니다. 2036년에 그분은 저한테 졌고, 제가 커피를 샀습니다. 그다음 같이 뛰자고 했습니다. 그분이 "애리조나는 쉬운 걸 안 해요"라고 했죠.
+120. DAN: In 2035 Isabel Torres and I ran against each other, and in 2036 she lost to me and I bought her coffee. Then I asked her to run with me, and she said, "Arizona doesn't do easy."
+    댄: 2035년에 이사벨 토레스와 저는 맞붙었습니다. 2036년에 그녀가 졌고 제가 커피를 샀죠. 그리고 같이 뛰자고 했더니 "애리조나는 쉬운 걸 안 해요"라고 하더군요.
 
-121. DAN: She was right. For four years, I sent her to the hard places. The border. The fires. The tie votes. She never said no. And I never asked her what she wanted next. I should have.
-    댄: 맞는 말이었습니다. 4년 동안 저는 그분을 어려운 곳으로 보냈습니다. 국경. 산불. 동률 표결. 한 번도 거절하지 않았습니다. 그리고 저는 그분이 다음에 뭘 원하는지 한 번도 묻지 않았습니다. 물었어야 했습니다.
+121. DAN: She was right. For four years I sent her to the hard places, the border, the fires, and the tie votes, and she never said no. And I never asked her what she wanted next, which I should have done.
+    댄: 맞는 말이었습니다. 4년 동안 저는 그녀를 어려운 곳에 보냈습니다. 국경, 산불, 동률 표결. 그녀는 한 번도 거절하지 않았어요. 그런데 저는 그다음에 뭘 원하는지 한 번도 묻지 않았습니다. 물었어야 했죠.
 
-122. DAN: Today she said it out loud. In front of her mother. That's braver than anything I said last night. Wanting something out loud isn't weak. It's the opposite.
-    댄: 오늘 그분은 소리 내서 말했습니다. 어머니 앞에서. 어젯밤 제가 한 어떤 말보다 용감한 일입니다. 뭔가를 소리 내서 원하는 건 약한 게 아닙니다. 그 반대입니다.
+122. DAN: Today she said it out loud, in front of her mother, which is braver than anything I said last night. Wanting something out loud isn't weak. It's the opposite.
+    댄: 오늘 그녀는 어머니 앞에서 소리 내서 말했습니다. 제가 어젯밤에 한 어떤 말보다 용감한 일입니다. 소리 내서 원하는 건 약한 게 아닙니다. 그 반대죠.
 
-123. AUDIENCE: Yeah! Tell 'em, Dan!
-    청중: 그래! 말해 줘요, 댄!
+123. AUDIENCE: Yeah! Tell 'em, Dan, because they need to hear it!
+    청중: 좋아! 말해 줘, 댄! 다들 들어야 돼!
 
-124. DAN: Governor Brandt says she's planning for after me. Good. Somebody should. I'm planning for after me too. It's called a country. It doesn't stop when I leave.
-    댄: 브랜트 주지사는 그분이 제 이후를 계획한다고 합니다. 좋습니다. 누군가는 해야죠. 저도 제 이후를 계획합니다. 그걸 나라라고 합니다. 제가 떠난다고 멈추지 않습니다.
+124. DAN: Governor Brandt says she's planning for after me, and that's good, because somebody should. I'm planning for after me too. It's called a country. It doesn't stop when I leave.
+    댄: 브랜트 주지사는 그녀가 제 다음을 준비한다고 합니다. 좋은 일입니다. 누군가는 해야 하니까요. 저도 제 다음을 준비합니다. 그걸 나라라고 합니다. 제가 떠나도 멈추지 않습니다.
 
-125. DAN: Let me say it plain. In 2040, she's with me. In 2044, she can ask me again. With the follow-up question. Thank you, Yuma.
-    댄: 쉽게 말하겠습니다. 2040년에 그분은 저와 함께합니다. 2044년엔 저한테 다시 물을 수 있습니다. 후속 질문까지. 고마워요, 유마.
+125. DAN: Let me say it plain. In 2040 she's with me, and in 2044 she can ask me again, with the follow-up question. Thank you, Yuma.
+    댄: 쉽게 말하겠습니다. 2040년에 그녀는 저와 함께합니다. 2044년엔 다시 저에게 물을 수 있습니다. 후속 질문과 함께요. 고맙습니다, 유마.
 
-126. AUDIENCE: Four more years! Isabel! Dan!
-    청중: 4년 더! 이사벨! 댄!
+126. AUDIENCE: Four more years! We love you, Isabel and Dan!
+    청중: 4년 더! 사랑해요, 이사벨, 댄!
 
-127. LUPE: Dan. Come here. Front row. The grades.
-    루페: 댄. 이리 와요. 맨 앞줄. 점수.
+127. LUPE: Dan, come here to the front row for the grades.
+    루페: 댄, 이리 와. 맨 앞줄로. 점수 매길 거야.
 
-128. DAN: Go ahead, Mrs. Torres.
-    댄: 말씀하세요, 토레스 여사님.
+128. DAN: Go ahead, Mrs. Torres, because I'm ready for my grade.
+    댄: 말씀하세요, 토레스 여사님. 점수 받을 준비 됐어요.
 
-129. LUPE: Isabel. A-minus. The minus is for the website. You'll carry that minus for a while.
-    루페: 이사벨. A마이너스. 마이너스는 웹사이트 때문. 그 마이너스는 한동안 달고 다닐 거야.
+129. LUPE: Isabel gets an A-minus, and the minus is for the website, which you'll carry for a while.
+    루페: 이사벨은 A마이너스. 마이너스는 웹사이트 때문이야. 그 마이너스는 한동안 달고 다녀야 할 거야.
 
-130. TORRES: I know, Mamá. I'll carry it for a while. I promise.
-    토레스: 알아, 엄마. 한동안 달고 다닐게. 약속해.
+130. TORRES: I know, Mamá, and I promise I'll carry it for a while.
+    토레스: 알아요, 엄마. 한동안 달고 다닐게요. 약속해요.
 
-131. LUPE: Dan. A. Your first A. Because you said "I should have." Men don't say "I should have." My husband said it once. In 1977. I married him.
-    루페: 댄. A. 첫 A예요. "물었어야 했다"고 했으니까. 남자들은 "~했어야 했다"는 말을 안 해요. 우리 남편이 한 번 했어요. 1977년에. 그래서 결혼했죠.
+131. LUPE: Dan gets an A, his first A, because you said "I should have." Men don't say "I should have." My husband said it once, in 1977, and I married him.
+    루페: 댄은 A. 첫 A야. "그랬어야 했다"고 했으니까. 남자들은 "그랬어야 했다"는 말을 안 해. 우리 남편이 1977년에 딱 한 번 했는데, 그래서 결혼했지.
 
-132. DAN: My first A. From Lupe Torres. Don't tell anyone in Queens.
-    댄: 첫 A. 루페 토레스한테서. 퀸즈엔 아무한테도 말하지 마세요.
+132. DAN: My first A from Lupe Torres, so don't tell anyone in Queens.
+    댄: 루페 토레스한테서 첫 A라니. 퀸즈엔 말하지 마세요.
 
-133. LUPE: I already sent it to the church group. Your mother replied. She said, "About time."
-    루페: 벌써 교회 모임에 보냈어요. 어머님이 답했어요. "진작 그랬어야지."
+133. LUPE: I already sent it to the church group, and your mother replied, "About time."
+    루페: 벌써 교회 모임에 보냈어. 네 엄마가 답장했더라. "이제야."
 
-134. TORRES: Dan. Thank you. For Yuma. For the follow-up. Four years late.
-    토레스: 댄. 고마워요. 유마도. 후속 질문도. 4년 늦었지만.
+134. TORRES: Dan, thank you for Yuma, and for the follow-up, four years late.
+    토레스: 댄, 유마 고마워요. 후속 질문도요. 4년 늦었지만.
 
-135. DAN: Isabel. Can I ask you one more? Not about 2044.
-    댄: 이사벨. 하나만 더 물어도 돼요? 2044년 말고.
+135. DAN: Isabel, can I ask you one more question that isn't about 2044?
+    댄: 이사벨, 2044년 말고 하나 더 물어봐도 돼?
 
-136. TORRES: Go ahead. Ask me anything you want, Dan. I'm here.
-    토레스: 해요. 원하는 거 아무거나 물어봐요, 댄. 나 여기 있어요.
+136. TORRES: Go ahead and ask me anything you want, Dan, because I'm here.
+    토레스: 뭐든 물어봐요, 댄. 여기 있잖아요.
 
-137. DAN: Are we okay, Isabel? You and me? After all this?
-    댄: 우리 괜찮아요, 이사벨? 당신이랑 나? 이 모든 일 뒤에도?
+137. DAN: Are we okay, Isabel, you and me, after all this?
+    댄: 우리 괜찮아, 이사벨? 너랑 나, 이 모든 일 뒤에도?
 
-138. TORRES: We're okay. I'm still a little angry that you never asked. You're still a little angry about the timing. Two things can be true.
-    토레스: 괜찮아요. 당신이 한 번도 안 물었던 건 아직 좀 화나요. 당신은 타이밍 때문에 아직 좀 화나 있고요. 두 가지가 다 사실일 수 있죠.
+138. TORRES: We're okay. I'm still a little angry that you never asked, and you're still a little angry about the timing. Two things can be true.
+    토레스: 괜찮아요. 전 대통령님이 한 번도 안 물어본 게 아직 좀 화나고, 대통령님은 타이밍 때문에 아직 좀 화나시죠. 두 가지가 다 사실일 수 있어요.
 
-139. DAN: Hank hates that sentence. So does Brandt, apparently. Everybody does.
-    댄: 행크가 그 문장 싫어하는데. 브랜트도 그렇다더라고요. 다들 싫어해요.
+139. DAN: Hank hates that sentence, and so does Brandt, apparently, because everybody does.
+    댄: 행크가 그 문장 싫어해. 브랜트도 그런가 봐. 다들 싫어해.
 
-140. TORRES: Hank called me this morning. At six. He said, "Isa, I'm on the other side, so I can say this. Want it out loud. Then go back to work." Then he hung up.
-    토레스: 행크가 오늘 아침에 전화했어요. 여섯 시에. "이사, 난 반대편이니까 이 말 해도 돼. 소리 내서 원해. 그리고 다시 일하러 가." 그러고는 끊었어요.
+140. TORRES: Hank called me this morning at six. He said, "Isa, I'm on the other side, so I can say this: want it out loud, then go back to work." Then he hung up.
+    토레스: 행크가 오늘 아침 여섯 시에 전화했어요. "이사, 난 반대편이니까 이 말 해도 돼. 소리 내서 원해. 그리고 다시 일하러 가"라고 하더니 끊었어요.
 
-141. DAN: Hank calls everybody at six.
-    댄: 행크는 다들한테 여섯 시에 전화해요.
+141. DAN: Hank calls everybody at six in the morning, whether they're awake or not.
+    댄: 행크는 깨어 있든 말든 다들한테 아침 여섯 시에 전화해.
 
-142. TORRES: Montana time. It was five for him. He was on a tractor.
-    토레스: 몬태나 시간으로요. 거긴 다섯 시였어요. 트랙터 위였대요.
+142. TORRES: It was Montana time, so it was five for him, and he was on a tractor.
+    토레스: 몬태나 시간으론 다섯 시였어요. 트랙터 위에 있었대요.
 
-143. WHITFIELD: Sir. The plane. Nevada tonight. Then Georgia. Then Pennsylvania. Twenty days.
-    휘트필드: 대통령님. 비행기요. 오늘 밤 네바다. 그다음 조지아. 그다음 펜실베이니아. 20일이요.
+143. WHITFIELD: Sir, the plane is ready. It's Nevada tonight, then Georgia, then Pennsylvania, with twenty days left.
+    휘트필드: 대통령님, 비행기 준비됐습니다. 오늘 밤 네바다, 그다음 조지아, 그다음 펜실베이니아입니다. 20일 남았습니다.
 
-144. CHUY: Mr. President. One more question for you. From the test. Marisela, ask him.
-    추이: 대통령님. 질문 하나 더요. 시험에서요. 마리셀라, 여쭤봐.
+144. CHUY: Mr. President, there's one more question from the test for you. Marisela, ask him.
+    추이: 대통령님, 시험 문제 하나만 더요. 마리셀라, 여쭤봐.
 
-145. MARISELA: Question. How many years is a President's term?
+145. MARISELA: Question: how many years is a President's term?
     마리셀라: 문제. 대통령 임기는 몇 년인가요?
 
 146. DAN: Four.
     댄: 4년.
 
 147. CHUY: Correct. And how many terms can a President serve?
-    추이: 정답. 그럼 대통령은 몇 번 할 수 있나요?
+    추이: 정답. 그럼 대통령은 몇 번 할 수 있어요?
 
-148. DAN: Two. That's the law. Isabel will need that answer in 2044.
-    댄: 두 번. 그게 법이에요. 이사벨은 2044년에 그 대답이 필요할 거예요.
+148. DAN: Two, because that's the law, and Isabel will need that answer in 2044.
+    댄: 두 번. 그게 법이에요. 이사벨은 2044년에 그 답이 필요할 거예요.
 
-149. TORRES: I'll study.
+149. TORRES: I'll study for it.
     토레스: 공부할게요.
 
-150. DAN: Let me say it plain. Isabel wants to be President in 2044. She said it out loud, in front of her mother. I asked the follow-up question four years late. We're both a little angry. We're okay. Twenty days.
-    댄: 쉽게 말할게요. 이사벨은 2044년에 대통령이 되고 싶어 해요. 어머니 앞에서 소리 내서 말했어요. 저는 4년 늦게 후속 질문을 했고요. 둘 다 아직 조금 화나 있어요. 우리는 괜찮아요. 20일 남았어요.
+150. DAN: Let me say it plain. Isabel wants to be President in 2044, and she said it out loud, in front of her mother, while I asked the follow-up question four years late. We're both a little angry, but we're okay, with twenty days left.
+    댄: 쉽게 말할게요. 이사벨은 2044년에 대통령이 되고 싶어 해요. 어머니 앞에서 소리 내서 말했죠. 저는 4년 늦게 후속 질문을 했고요. 우리 둘 다 조금 화가 났지만 괜찮아요. 20일 남았습니다.
 
 ---
 
