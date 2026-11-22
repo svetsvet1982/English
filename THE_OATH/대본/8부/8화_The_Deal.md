@@ -335,14 +335,14 @@
 107. STAN: Everybody, quiet, because the godfather speaks! I've been Kyle's godfather for twenty-seven years and a steelworker for thirty-five, but tonight I'm only one of those.
     스탠: 여러분, 조용! 대부가 말씀하신다! 카일 대부로 27년, 철강 노동자로 35년 살았어요. 오늘 밤엔 그중 하나만 할게요.
 
-108. AUDIENCE: [cheering]
-    청중: [환호]
+108. AUDIENCE: Go, Stan! Let's hear it for the godfather!
+    청중: 가라, 스탠! 대부님께 박수!
 
 109. STAN: Last year Kyle asked a man from Queens if he should leave, and the man said, "Don't decide because you're scared." So Kyle stayed.
     스탠: 작년에 카일이 퀸즈에서 온 사람한테 떠나야 하냐고 물었어요. 그 사람이 "겁나서 결정하지는 마"라고 했죠. 그래서 카일은 남았어요.
 
-110. AUDIENCE: [cheering]
-    청중: [환호]
+110. AUDIENCE: He stayed! Kyle stayed, and look at him now!
+    청중: 남았어! 카일이 남았고, 지금 저 모습 좀 봐!
 
 111. STAN: Kyle and Kayla, the mill doesn't love you back, but this hall does, and this city does. To the bride and groom, na zdrowie!
     스탠: 카일, 케일라, 제철소는 너희를 사랑해 주지 않아. 하지만 이 연회장은 사랑해. 이 도시도 사랑하고. 신랑 신부를 위하여, 나 즈드로비에!
@@ -383,8 +383,8 @@
 123. DAN: Madam President, I'll be brief, which is new for me, as you may have heard.
     댄: 의장님, 짧게 하겠습니다. 저로선 새로운 일이죠. 들으셨겠지만요.
 
-124. AUDIENCE: [laughter]
-    청중: [웃음]
+124. AUDIENCE: Ha! We've heard, Senator, we've definitely heard!
+    청중: 하! 들었죠, 의원님. 아주 확실히 들었어요!
 
 125. DAN: This bill isn't enough. Two weeks ago a trauma nurse in Buffalo told me that one nurse for eight hundred people is a sign on a door, and she's right, so the ratio has to come later.
     댄: 이 법안으론 충분하지 않습니다. 2주 전 버펄로의 한 외상 간호사가 8백 명에 간호사 한 명이면 문에 붙은 표지판이라고 했습니다. 그녀 말이 맞습니다. 비율은 나중에라도 반드시 와야 합니다.
@@ -425,8 +425,8 @@
 137. RIVAS: On passage of the bill, the yeas are sixty-four and the nays are thirty-six, and the bill, as amended, is passed.
     리바스: 법안 통과에 대해 찬성 64, 반대 36입니다. 법안은 수정된 대로 통과됐습니다.
 
-138. AUDIENCE: [applause]
-    청중: [박수]
+138. AUDIENCE: Sixty-four! It passed, it really passed, so somebody call Buffalo!
+    청중: 64표! 통과됐어, 진짜 통과됐어. 누가 버펄로에 전화해!
 
 139. PRESCOTT: It's sixty-four when I said sixty-one, and I'll be thinking about the three for weeks. Congratulations, Senator, because now it's heavy for the House.
     프레스콧: 64표라니. 난 61이라고 했는데. 그 세 표를 몇 주는 생각하겠군. 축하하오, 의원. 이제 하원 쪽이 무겁소.
