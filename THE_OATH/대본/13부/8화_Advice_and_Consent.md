@@ -254,8 +254,8 @@
 080. HANK: Exactly, because I don't trust Draven, and I don't fully trust the next President either. No offense to this one, since I'm not sure about him either.
     행크: 바로 그거예요. 난 드라벤을 안 믿고, 다음 대통령도 완전히는 안 믿어요. 지금 대통령한테 악의는 없어요. 이분도 확신 없거든요.
 
-081. AUDIENCE: (laughter)
-    방청객: (웃음)
+081. AUDIENCE: Ha! Only Hank could say that to a sitting President!
+    방청객: 하! 현직 대통령한테 저런 말은 행크만 할 수 있지!
 
 082. DAN: That's Hank's way of saying thank you in Montana.
     댄: 저게 몬태나식 행크의 감사 인사야.
