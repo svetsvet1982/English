@@ -116,8 +116,8 @@
 034. HARTLEY: May I? I respect that, because I've seen the Congressman's bus in my towns. But I'll say this: learning is good, but we don't need a student in the Senate. We need somebody who already knows.
     하틀리: 제가 한마디 해도 될까요? 존중합니다. 제 동네들에서 의원님 버스를 봤어요. 그래도 이 말은 하죠. 배우는 건 좋습니다. 하지만 상원엔 학생이 필요 없습니다. 이미 아는 사람이 필요하죠.
 
-035. AUDIENCE: [murmuring]
-    청중: [웅성거림]
+035. AUDIENCE: Ooh, the Governor came ready to fight tonight, didn't he?
+    청중: 오, 주지사가 오늘 밤 제대로 싸우러 왔네?
 
 036. MARTY: "We don't need a student." Oof, that one will be in an ad by Friday.
     마티: "학생은 필요 없다." 아이고. 금요일쯤엔 광고에 나오겠다.
@@ -137,8 +137,8 @@
 041. HARTLEY: It's Albany, Jim, and it's cold, so we're saving energy.
     하틀리: 여긴 올버니예요, 짐. 추우니까 에너지를 아끼는 거죠.
 
-042. AUDIENCE: [laughter]
-    청중: [웃음]
+042. AUDIENCE: Ha! It's colder in here than it is outside, Jim!
+    청중: 하! 여기 안이 바깥보다 더 추워요, 짐!
 
 043. MODERATOR: We're going to the lightning round, with fifteen seconds and short answers. Governor, what's your favorite upstate food?
     진행자: 번개 라운드로 가겠습니다. 15초, 짧게 답해 주십시오. 주지사님, 좋아하는 업스테이트 음식은?
@@ -152,8 +152,8 @@
 046. DAN: Chicken riggies from Amra's in Utica, but don't tell Gus.
     댄: 유티카 암라네 치킨 리기스요. 거스한텐 말하지 마세요.
 
-047. AUDIENCE: [laughter]
-    청중: [웃음]
+047. AUDIENCE: Ha! Gus is going to hear about that by morning!
+    청중: 하! 아침이면 거스 귀에 들어가겠네!
 
 048. MODERATOR: Governor, Bills or Giants?
     진행자: 주지사님, 빌스요, 자이언츠요?
@@ -179,14 +179,14 @@
 055. DAN: Honestly? How far everything is. Back in the city, I used to think upstate was a place you drive through on the way to Canada.
     댄: 솔직히요? 모든 게 얼마나 먼지요. 도시에 있을 땐 업스테이트가 캐나다 가는 길에 지나가는 곳인 줄 알았어요.
 
-056. AUDIENCE: [a few laughs]
-    청중: [몇몇 웃음]
+056. AUDIENCE: Ha! Well, at least he's honest about it!
+    청중: 하! 그래도 솔직하긴 하네!
 
 057. DAN: And some of these towns, honestly, you drive in, and it feels like they've just given up. That's what I didn't understand. Why.
     댄: 그리고 솔직히 어떤 마을들은 차로 들어가 보면 그냥 포기한 것 같은 느낌이에요. 그게 제가 몰랐던 거예요. 왜인지.
 
-058. AUDIENCE: [silence]
-    청중: [정적]
+058. AUDIENCE: Did he really just say our towns gave up?
+    청중: 방금 진짜 우리 동네들이 포기했다고 한 거야?
 
 059. VICTORIA: Oh no.
     빅토리아: 아, 안 돼.
@@ -209,14 +209,14 @@
 065. HARTLEY: Before I answer, I'm going to say something the Congressman probably didn't mean, but he said it. I've plowed roads in two hundred towns in this state, and not one of them has given up.
     하틀리: 대답하기 전에 한마디 하죠. 의원님이 그런 뜻은 아니었겠지만 그렇게 말했어요. 저는 이 주의 마을 2백 곳에서 눈을 치웠습니다. 포기한 마을은 단 한 곳도 없습니다.
 
-066. AUDIENCE: [applause]
-    청중: [박수]
+066. AUDIENCE: That's right, Governor! We haven't given up on anything!
+    청중: 맞아요, 주지사님! 우린 아무것도 포기 안 했어요!
 
 067. HARTLEY: Watertown hasn't given up, Lackawanna hasn't given up, and Hollow hasn't given up. They've been given up on, by Washington, and that's different. That's my answer.
     하틀리: 워터타운은 포기하지 않았습니다. 래커워너도, 할로도 포기하지 않았어요. 그들은 버림받은 겁니다. 워싱턴한테요. 그건 다른 얘기죠. 그게 제 대답입니다.
 
-068. AUDIENCE: [louder applause]
-    청중: [더 커진 박수]
+068. AUDIENCE: Given up on, not giving up! You tell them, Governor!
+    청중: 포기한 게 아니라 버림받은 거죠! 말해 줘요, 주지사님!
 
 069. MARTY: He said what you meant, better than you, on your stage, with your words. That's the whole race, boychik, right there.
     마티: 네가 뜻한 걸 그 사람이 말했어. 너보다 잘. 네 무대에서, 네 말로. 그게 이 선거 전부야, 보이칙. 바로 저기.
@@ -233,8 +233,8 @@
 073. HARTLEY: He's a good man, and I mean that. But you don't send someone to Washington to figure out why your town gave up. You send someone who knows it didn't.
     하틀리: 좋은 사람입니다. 진심입니다. 하지만 여러분 마을이 왜 포기했는지 알아내라고 누군가를 워싱턴에 보내진 않습니다. 포기하지 않았다는 걸 아는 사람을 보내죠.
 
-074. AUDIENCE: [applause]
-    청중: [박수]
+074. AUDIENCE: Plow first, talk later! That's our man, right there!
+    청중: 먼저 치우고 나중에 말한다! 저게 우리 사람이지!
 
 075. MODERATOR: Congressman Reardon, you have two minutes and the last word.
     진행자: 레이든 의원님, 2분, 마지막 발언입니다.
