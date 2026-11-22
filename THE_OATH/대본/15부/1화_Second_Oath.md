@@ -329,8 +329,8 @@
 105. DAN: It's the same Bible, Chief Justice, and the same page is still folded.
     댄: 같은 성경이에요, 대법원장님. 같은 쪽이 아직 접혀 있고요.
 
-106. AUDIENCE: Applause.
-    청중: (박수)
+106. AUDIENCE: Same Bible, same page! Welcome back, Mr. President!
+    청중: 같은 성경, 같은 페이지! 돌아오신 걸 환영해요, 대통령님!
 
 107. ADAIR: Ladies and gentlemen, the President of the United States.
     애데어: 신사 숙녀 여러분, 미합중국 대통령입니다.
@@ -338,8 +338,8 @@
 108. DAN: Thank you, and please sit down, because it's nineteen degrees. My mother says I have eight minutes before you all freeze, and in eighty-six years she has never once been wrong about cold.
     댄: 고맙습니다. 화씨 19도니까 앉으세요. 어머니 말씀으로는 여러분이 다 얼기 전까지 8분 남았답니다. 어머니는 여든여섯 해 동안 추위에 관해서는 한 번도 틀린 적이 없습니다.
 
-109. AUDIENCE: Laughter.
-    청중: (웃음)
+109. AUDIENCE: Ha! Listen to your mother, Danny, because my feet are frozen!
+    청중: 하! 어머니 말씀 들어요, 대니. 내 발 다 얼었어요!
 
 110. DAN: Four years ago, I stood here and told you what a president can't do. I can't set your rent or call the Fed, and I can't pass a law alone.
     댄: 4년 전 저는 여기 서서 대통령이 못 하는 일을 말씀드렸습니다. 여러분의 월세를 정할 수도, 연준에 전화할 수도 없고, 혼자 법을 통과시킬 수도 없다고요.
@@ -347,8 +347,8 @@
 111. DAN: I was right about all three. Some days I wished I'd been wrong, especially the day I wanted to call the Fed.
     댄: 세 가지 다 맞았습니다. 틀렸으면 좋겠다고 생각한 날도 있었습니다. 특히 연준에 전화하고 싶었던 날요.
 
-112. AUDIENCE: Laughter and applause.
-    청중: (웃음과 박수)
+112. AUDIENCE: Ha! We all wanted to call the Fed that day, Mr. President!
+    청중: 하! 그날은 우리 다 연준에 전화하고 싶었어요, 대통령님!
 
 113. DAN: Today I want to tell you about one thing a president has, which is a clock that everybody in this city can see. It runs for four years, and then I go home to Queens.
     댄: 오늘은 대통령이 가진 것 하나를 말씀드리고 싶습니다. 이 도시의 모든 사람이 볼 수 있는 시계입니다. 4년 동안 가고, 그다음 저는 퀸즈로 돌아갑니다.
@@ -371,8 +371,8 @@
 119. DAN: The Speaker's party kept the House, so I'll do it the slow way, with Carl Mabry, one narrow space at a time. Divided government is slow, but slow lasts.
     댄: 의장님의 당이 하원을 지켰으니, 칼 마브리 의장과 함께 좁은 공간을 하나씩 찾아가는 느린 방법으로 하겠습니다. 분열 정부는 느리지만, 느린 건 오래갑니다.
 
-120. AUDIENCE: Applause.
-    청중: (박수)
+120. AUDIENCE: Slow lasts! That's right, so take your time and do it right!
+    청중: 느린 게 오래가죠! 맞아요. 천천히 제대로 해요!
 
 121. DAN: And there will be things I can't see yet. There always are. Four years ago, nobody here had heard of a ship called the Hudson Star.
     댄: 그리고 제가 아직 보지 못하는 일들이 있을 겁니다. 늘 그렇습니다. 4년 전 여기 있는 누구도 허드슨 스타라는 배 이름을 들어 본 적이 없었습니다.
