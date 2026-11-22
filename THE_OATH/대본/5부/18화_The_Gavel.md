@@ -32,7 +32,7 @@
 006. DAN: Rosa, have you seen this before?
     댄: 로사, 이런 거 본 적 있어요?
 
-007. ROSA: It happens a lot, because the 1973 fire destroyed millions of records, but ship logs and buddy statements can prove service.
+007. ROSA: It happens a lot, because the 1973 fire destroyed millions of records. But ship logs and buddy statements can prove service.
     로사: 자주 있어요. 1973년 화재로 기록 수백만 건이 탔거든요. 그래도 함정 일지랑 전우 진술서로 복무를 증명할 수 있어요.
 
 008. HINES: Buddy statements? I have one buddy left, and he's ninety, in Arizona.
@@ -56,7 +56,7 @@
 014. DAN: To when? Did they give you a new day?
     댄: 언제로요? 새 날짜 줬어요?
 
-015. TERRENCE: It's Wednesday at nine a.m. in her office, and they said, "The chair doesn't move meetings for anybody, but she moved it for the veterans."
+015. TERRENCE: It's Wednesday at nine a.m. in her office. They said, "The chair doesn't move meetings for anybody, but she moved it for the veterans."
     테런스: 수요일 오전 아홉 시, 그분 사무실이요. "위원장님은 누구 때문에도 면담을 안 옮기시는데, 참전용사들 때문에 옮기셨다"고 하네요.
 
 016. CLARENCE: And who's this Frances Holt you keep talking about?
@@ -110,14 +110,14 @@
 032. DAN: Government Operations, the contracts subcommittee, is the one I'm on now.
     댄: 정부운영 소위면 지금 제가 있는 계약 소위원회네요.
 
-033. HOLT: The chair is retiring, and the two members above you on our side both want other subcommittees, so that leaves you as a second-term member. It's unusual, but we have a three-seat majority, and I need people who show up.
+033. HOLT: The chair is retiring, and the two members above you on our side both want other subcommittees. That leaves you as a second-term member. It's unusual, but we have a three-seat majority, and I need people who show up.
     홀트: 위원장이 은퇴해요. 우리 쪽에서 당신 위에 있는 두 명은 다른 소위를 원하고요. 그럼 재선 의원인 당신이 남죠. 이례적이에요. 하지만 세 석 차 다수당이고, 전 나타나는 사람이 필요해요.
 
 034. DAN: Why me, out of all the members on your side?
     댄: 우리 쪽 의원들 중에 왜 하필 저예요?
 
-035. HOLT: There are three reasons: you gave back nineteen seconds to a tired witness, you entered FOIA documents into the record instead of reading them on TV, and you went to Louisiana for a man who disagrees with you.
-    홀트: 이유는 세 가지예요. 지친 증인한테 19초를 돌려줬고, TV에서 읽는 대신 정보공개 문서를 기록에 넣었고, 당신과 생각이 다른 사람을 위해 루이지애나에 갔죠.
+035. HOLT: There are three reasons. You gave back nineteen seconds to a tired witness, and you entered FOIA documents into the record instead of reading them on TV. And you went to Louisiana for a man who disagrees with you.
+    홀트: 이유는 세 가지예요. 지친 증인한테 19초를 돌려줬고, TV에서 읽는 대신 정보공개 문서를 기록에 넣었죠. 그리고 당신과 생각이 다른 사람을 위해 루이지애나에 갔고요.
 
 036. DAN: You heard about Louisiana, all the way up here?
     댄: 루이지애나 얘기가 여기까지 들렸어요?
@@ -131,7 +131,7 @@
 039. HOLT: Members don't usually set conditions when I offer them a gavel.
     홀트: 제가 의사봉을 건네면 보통은 조건을 안 달아요.
 
-040. DAN: I'm going to tell you what I want to investigate first, before, not after, and if you don't want it, give the gavel to someone else.
+040. DAN: I'm going to tell you what I want to investigate first, before, not after. If you don't want it, give the gavel to someone else.
     댄: 제가 뭘 먼저 조사하고 싶은지 말씀드릴게요. 후가 아니라 전에요. 마음에 안 드시면 의사봉은 다른 사람한테 주세요.
 
 041. HOLT: Go on, Congressman.
@@ -152,7 +152,7 @@
 046. DAN: My former client, yes, so I can't share anything I learned representing them, only public records and testimony.
     댄: 예전 의뢰인 맞아요. 그래서 대리하면서 알게 된 건 하나도 못 써요. 공개 기록과 증언만요.
 
-047. HOLT: Congressman, do you understand what you're asking for? Every time you open your mouth about Castellan, somebody will say you're using secrets or protecting them, and either way, you're the story.
+047. HOLT: Congressman, do you understand what you're asking for? Every time you open your mouth about Castellan, somebody will say you're using secrets or protecting them. Either way, you're the story.
     홀트: 의원님, 뭘 요청하는 건지 아세요? Castellan에 대해 입을 열 때마다 누군가는 비밀을 쓴다고 하거나 감싼다고 할 거예요. 어느 쪽이든 당신이 이야기의 주인공이 돼요.
 
 048. DAN: The Speaker told me the same thing two years ago, almost word for word.
@@ -164,13 +164,13 @@
 050. DAN: Please do.
     댄: 부탁드립니다.
 
-051. HOLT: First, before you send a single letter, you write to the Committee on Ethics and ask for an advisory opinion in writing, about what you can do, what you can't, and where the wall is.
-    홀트: 첫째, 편지 한 통 보내기 전에 윤리위원회에 서면으로 자문 의견을 요청해요. 할 수 있는 것, 할 수 없는 것, 그리고 선이 어디인지.
+051. HOLT: First, before you send a single letter, you write to the Committee on Ethics and ask for an advisory opinion in writing. Ask about what you can do, what you can't, and where the wall is.
+    홀트: 첫째, 편지 한 통 보내기 전에 윤리위원회에 서면으로 자문 의견을 요청해요. 할 수 있는 것, 할 수 없는 것, 그리고 선이 어디인지 물어봐요.
 
 052. DAN: An advisory opinion is like asking the court for guidance before you act.
     댄: 자문 의견이라. 행동하기 전에 법원에 지침을 구하는 거랑 같네요.
 
-053. HOLT: It's exactly like that. Second, you build a firewall, so staff who never worked with you at the law firm handle anything that touches your old cases, and you stay out of those rooms.
+053. HOLT: It's exactly like that. Second, you build a firewall. Staff who never worked with you at the law firm handle anything that touches your old cases, and you stay out of those rooms.
     홀트: 딱 그거예요. 둘째, 정보 차단벽을 만들어요. 옛 사건에 닿는 일은 로펌에서 같이 일한 적 없는 직원이 맡고, 당신은 그 방에 안 들어가요.
 
 054. DAN: My chief of staff, Aisha, worked with me at the firm, and she found the documents in 2026.
@@ -182,7 +182,7 @@
 056. DAN: I might know someone like that.
     댄: 그런 사람을 알 것 같아요.
 
-057. HOLT: Hank Pruitt called me on Friday and asked to join Oversight in the new Congress, and his side's steering committee thinks he's lost his mind. Did you have anything to do with that?
+057. HOLT: Hank Pruitt called me on Friday and asked to join Oversight in the new Congress. His side's steering committee thinks he's lost his mind. Did you have anything to do with that?
     홀트: 행크 프루잇이 금요일에 전화해서 새 의회에서 감독위에 들어오고 싶다고 했어요. 그쪽 운영위원회는 그 사람이 정신이 나갔다고 생각하고요. 당신이 관련 있어요?
 
 058. DAN: No, I didn't know, but he told me on election night that he had a "feeling."
@@ -200,7 +200,7 @@
 062. DAN: And what about subpoenas?
     댄: 소환장은요?
 
-063. HOLT: That's the part it can't do, because under this committee's rules a subpoena is issued by the full committee chair, which is me, after I consult the ranking member, or by a vote of the full committee.
+063. HOLT: That's the part it can't do. Under this committee's rules a subpoena is issued by the full committee chair, which is me, after I consult the ranking member. Or it's issued by a vote of the full committee.
     홀트: 그게 못 하는 부분이에요. 이 위원회 규칙상 소환장은 전체 위원장이 발부해요. 저죠. 간사와 협의한 다음에요. 아니면 전체 위원회 표결로요.
 
 064. DAN: So if a company refuses to send documents...
@@ -221,7 +221,7 @@
 069. HOLT: Everything in this Congress will be one vote, so get used to it. So is it veterans first and Castellan second, or the other way around?
     홀트: 이번 의회는 전부 한 표 차일 거예요. 익숙해지세요. 그래서, 참전용사 먼저 Castellan 나중? 아니면 반대로?
 
-070. DAN: Both, with veterans in the spring, because it's the easiest to do right, and Castellan after the Ethics Committee answers, because it's the hardest to do right.
+070. DAN: Both, with veterans in the spring, because it's the easiest to do right. Castellan comes after the Ethics Committee answers, because it's the hardest to do right.
     댄: 둘 다요. 참전용사는 봄에요. 제대로 하기 제일 쉬우니까요. Castellan은 윤리위원회 답이 온 다음에요. 제대로 하기 제일 어려우니까요.
 
 071. HOLT: Good: easy first, hard second, and both done right. That's how you keep a gavel for more than one Congress.
@@ -254,11 +254,11 @@
 080. DAN: My diner owner will call me that by tonight.
     댄: 우리 다이너 주인은 오늘 밤부터 그렇게 부를 거예요.
 
-081. AISHA: Okay, facts first: she said yes to all of it, veterans and Castellan, on three conditions, which are an Ethics opinion, a firewall, and a partner on the other side.
-    아이샤: 자, 사실 먼저요. 위원장님이 전부 수락했어요. 참전용사도 Castellan도요. 조건 세 개 달고요. 윤리위 의견, 차단벽, 반대편 파트너.
+081. AISHA: Okay, facts first: she said yes to all of it, veterans and Castellan. There are three conditions, which are an Ethics opinion, a firewall, and a partner on the other side.
+    아이샤: 자, 사실 먼저요. 위원장님이 전부 수락했어요. 참전용사도 Castellan도요. 조건은 세 개예요. 윤리위 의견, 차단벽, 반대편 파트너.
 
-082. DAN: And the firewall means you, Aisha, because you found the documents in 2026, so you'll have to stay out of the Castellan rooms, and I'm sorry.
-    댄: 차단벽은 아이샤 얘기예요. 2026년에 그 문서를 찾았으니까 Castellan 방엔 못 들어와요. 미안해요.
+082. DAN: And the firewall means you, Aisha, because you found the documents in 2026. You'll have to stay out of the Castellan rooms, and I'm sorry.
+    댄: 차단벽은 아이샤 얘기예요. 2026년에 그 문서를 찾았으니까요. Castellan 방엔 못 들어와요. 미안해요.
 
 083. AISHA: Don't be sorry, because it's right. Facts first, feelings after: my feelings are annoyed, but my facts say I'm the most conflicted person in this basement.
     아이샤: 미안해하지 마세요. 맞는 거예요. 사실 먼저, 감정은 나중에. 제 감정은 짜증 나지만, 제 사실은 이 지하실에서 제가 이해충돌이 제일 큰 사람이라고 하네요.
@@ -296,7 +296,7 @@
 094. LEILA: And what about Mrs. Ortiz?
     레일라: 오르티스 부인은요?
 
-095. DAN: I can't talk about Mrs. Ortiz, and you know that. Her son's case was public, but I can't say what I did in it, though I think about the inhaler every week.
+095. DAN: I can't talk about Mrs. Ortiz, and you know that. Her son's case was public, but I can't say what I did in it. I still think about the inhaler every week.
     댄: 오르티스 부인 얘긴 못 해요. 알잖아요. 아들 사건은 공개됐지만 내가 거기서 뭘 했는지는 말 못 해요. 그래도 그 흡입기는 매주 생각해요.
 
 096. LEILA: That's an answer, not a perfect one, but it's the right list, so keep it on the yellow pad.
@@ -365,8 +365,8 @@
 117. DAN: There's always one more thing with you.
     댄: 너랑은 늘 하나가 더 있지.
 
-118. VICTORIA: Last time I sat in the second row, and then the third, but when your subcommittee holds its first hearing on my client, I'll be in the first row, next to the witness, as counsel.
-    빅토리아: 처음엔 두 번째 줄, 그다음엔 세 번째 줄이었지. 네 소위원회가 우리 의뢰인 첫 청문회를 열면 난 첫 줄에 있을 거야. 증인 옆에. 변호인으로.
+118. VICTORIA: Last time I sat in the second row, and then the third. But when your subcommittee holds its first hearing on my client, I'll be in the first row, next to the witness, as counsel.
+    빅토리아: 처음엔 두 번째 줄, 그다음엔 세 번째 줄이었지. 하지만 네 소위원회가 우리 의뢰인 첫 청문회를 열면 난 첫 줄에 있을 거야. 증인 옆에. 변호인으로.
 
 119. DAN: Then we'll both be in the first row, facing each other.
     댄: 그럼 우리 둘 다 첫 줄이겠네. 마주 보고.
@@ -434,7 +434,7 @@
 140. DAN: Is there really a difference?
     댄: 정말 차이가 있어요?
 
-141. HOWARD: At dinner, a man can say what's in the public record that nobody has read yet, which Ruth taught me over fish in 1994.
+141. HOWARD: At dinner, a man can say what's in the public record that nobody has read yet. Ruth taught me that over fish in 1994.
     하워드: 저녁 자리에선 공개 기록에 있지만 아직 아무도 안 읽은 걸 말할 수 있지. 1994년에 생선 먹으면서 루스가 가르쳐 줬어.
 
 142. ROSE: Danny, Mr. Whitmore, I'm not staying, but I brought koulourakia in a new tin. Gus, count them, because he'll say three, but it's always four.
