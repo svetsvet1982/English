@@ -131,8 +131,8 @@
 039. ROSE: Your father drove a bus, and now one son is a senator and one son is a captain. Neither of you drives a bus, so I don't know what went wrong.
     로즈: 네 아버지는 버스를 몰았는데, 아들 하나는 상원의원, 하나는 경감이야. 둘 다 버스를 안 몰아. 뭐가 잘못된 건지 모르겠네.
 
-040. AUDIENCE: [laughter]
-    청중: [웃음]
+040. AUDIENCE: Ha! Rose, you're the only one who could say that to them!
+    청중: 하! 로즈, 그런 말은 당신만 할 수 있어요!
 
 041. SAM: It's my turn, so here's one true thing: I applied early to Cornell for climate engineering, and I find out on December twelfth. I'm terrified, and that's the true thing.
     샘: 내 차례. 진실 하나. 코넬 기후공학과에 조기 지원했어. 12월 12일에 결과 나와. 엄청 무서워. 그게 진실이야.
