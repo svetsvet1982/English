@@ -83,7 +83,7 @@
 023. REBECCA: Thank you, Nick, and we'll do ninety-second openings in alphabetical order, so Ms. Haddad, you're first.
     레베카: 고마워요, 닉. 90초 모두 발언, 알파벳 순서로 하겠습니다. 하다드 씨부터요.
 
-024. LEILA: Thank you all for coming. I'm Leila Haddad, and I was born on Steinway Street, six blocks from here, where my father still bakes bread every morning at four.
+024. LEILA: Thank you all for coming. I'm Leila Haddad, and I was born on Steinway Street, six blocks from here. My father still bakes bread there every morning at four.
     레일라: 와 주셔서 감사합니다. 레일라 하다드입니다. 여기서 여섯 블록 떨어진 스타인웨이 스트리트에서 태어났어요. 아버지는 아직도 매일 새벽 네 시에 거기서 빵을 구우세요.
 
 025. LEILA: For ten years, I've organized tenants and delivery workers, and when a landlord shuts off the heat, I'm the one in the lobby.
@@ -107,8 +107,8 @@
 031. DAN: For fifteen years, I was a lawyer at a big firm in Manhattan, and I was good at it. Then I learned something about a client that I couldn't live with, so I left.
     댄: 15년 동안 맨해튼 대형 로펌 변호사였고 잘했어요. 그러다 의뢰인에 대해 도저히 견딜 수 없는 걸 알게 돼서 나왔어요.
 
-032. DAN: For the last year, I've worked at a small center in the Bronx with no heat, where we won a building's boiler back and freed a man who spent sixteen years in prison for something he didn't do.
-    댄: 지난 1년은 난방도 없는 브롱크스의 작은 센터에서 일했어요. 한 건물의 보일러를 되찾았고, 하지도 않은 일로 16년을 감옥에서 보낸 사람을 풀어냈어요.
+032. DAN: For the last year, I've worked at a small center in the Bronx with no heat. We won a building's boiler back. We freed a man who spent sixteen years in prison for something he didn't do.
+    댄: 지난 1년은 난방도 없는 브롱크스의 작은 센터에서 일했어요. 한 건물의 보일러를 되찾았어요. 하지도 않은 일로 16년을 감옥에서 보낸 사람을 풀어냈어요.
 
 033. DAN: He's sitting in the front row, and his name is Eli Ward. He votes now, and I'd like to be the kind of congressman he'd vote for.
     댄: 그분이 앞줄에 앉아 있어요. 이름은 일라이 워드예요. 이제 투표도 해요. 저는 그분이 표를 줄 만한 의원이 되고 싶어요.
@@ -140,8 +140,8 @@
 042. REBECCA: Here's the first question, on housing. Rents in Astoria have gone up thirty percent in four years, so what would you actually do about it? Ms. Haddad, you have sixty seconds.
     레베카: 첫 질문, 주거입니다. 애스토리아 월세가 4년 만에 30퍼센트 올랐어요. 실제로 뭘 하시겠어요? 하다드 씨, 60초입니다.
 
-043. LEILA: I'd do three things: federal money for public housing repairs, so NYCHA tenants stop living with mold, tax rules that stop funds from buying rent-stabilized buildings to empty them, and a right to counsel for every tenant facing eviction.
-    레일라: 세 가지예요. 공공주택 수리에 연방 예산을 넣어서 NYCHA 세입자들이 곰팡이랑 살지 않게 하고, 펀드가 임대료 안정 건물을 사서 비우지 못하게 세법을 바꾸고, 퇴거 위기의 모든 세입자에게 변호인 선임권을 주는 거요.
+043. LEILA: I'd do three things. First, federal money for public housing repairs, so NYCHA tenants stop living with mold. Second, tax rules that stop funds from buying rent-stabilized buildings to empty them. Third, a right to counsel for every tenant facing eviction.
+    레일라: 세 가지예요. 첫째, 공공주택 수리에 연방 예산을 넣어서 NYCHA 세입자들이 곰팡이랑 살지 않게 하고요. 둘째, 펀드가 임대료 안정 건물을 사서 비우지 못하게 세법을 바꾸고요. 셋째, 퇴거 위기의 모든 세입자에게 변호인 선임권을 주는 거예요.
 
 044. NICK: Rent-stabilized, for the folks at home, means the rent can only go up a little each year, and a city board decides how much.
     닉: 집에서 보시는 분들을 위해 말씀드리면, 임대료 안정이란 월세가 매년 조금씩만 오를 수 있다는 뜻이에요. 얼마나 오를지는 시 위원회가 정하고요.
@@ -152,7 +152,7 @@
 046. DAN: I agree with two of Leila's three, because Gladys Moore lived at forty-seven degrees all winter when a spreadsheet said "unit turnover."
     댄: 레일라 씨 세 가지 중 두 가지에 동의해요. 글래디스 무어 씨는 스프레드시트에 "세대 교체"라고 적혔다는 이유로 겨울 내내 8도에서 살았어요.
 
-047. DAN: And I'd fight to get the pension funds, including the city's, to stop investing in those funds, because your pension shouldn't pay to evict your neighbor.
+047. DAN: And I'd fight to get the pension funds, including the city's, to stop investing in those funds. Your pension shouldn't pay to evict your neighbor.
     댄: 그리고 시 연기금을 포함한 연기금들이 그런 펀드에 투자하지 않도록 싸울 거예요. 여러분 연금이 이웃을 쫓아내는 데 쓰이면 안 되니까요.
 
 048. LEILA: This is my rebuttal: which two of my three did he mean, since he didn't say?
@@ -173,7 +173,7 @@
 053. RUSSO: Housing is about supply, so build, build, build. I want so many apartments that the landlords have to fight each other for tenants.
     루소: 주거는 공급 문제예요. 짓고, 짓고, 또 지어야죠. 건물주들이 세입자를 두고 서로 싸워야 할 만큼 아파트를 많이 짓고 싶어요.
 
-054. LEILA: Who does this actually help? Tony, your biggest donor last year was a developer from Long Island City who built luxury towers with studios for thirty-four hundred a month.
+054. LEILA: Who does this actually help? Tony, your biggest donor last year was a developer from Long Island City. He built luxury towers with studios for thirty-four hundred a month.
     레일라: 이게 실제로 누구한테 도움이 되죠? 토니, 작년 최대 후원자가 롱아일랜드 시티 개발업자였잖아요. 원룸 한 달에 3,400달러짜리 고급 타워를 지은 사람이요.
 
 055. RUSSO: That's not a rebuttal, Rebecca, because that's an attack on my donors.
@@ -185,13 +185,13 @@
 057. RUSSO: Those towers pay for your schools, and I'm not ashamed of anybody who builds in Queens.
     루소: 그 타워들이 여러분 학교 예산을 대요. 퀸즈에 짓는 사람 누구도 부끄럽지 않습니다.
 
-058. REBECCA: Here's the second question, on policing. Mr. Reardon, you sued the city over Darnell Hayes, and your brother is a police sergeant in this precinct, so are you anti-police?
+058. REBECCA: Here's the second question, on policing. Mr. Reardon, you sued the city over Darnell Hayes, and your brother is a police sergeant in this precinct. So are you anti-police?
     레베카: 두 번째 질문, 치안입니다. 레이든 씨, 대널 헤이스 건으로 시를 고소하셨죠. 동생분은 이 관할서 경사고요. 반경찰주의자인가요?
 
-059. DAN: No, and let me say it plain: my brother is the most honest cop I know, and Darnell Hayes got punched twice for asking a question. Both of those are true at the same time.
+059. DAN: No, and let me say it plain. My brother is the most honest cop I know, and Darnell Hayes got punched twice for asking a question. Both of those are true at the same time.
     댄: 아니요. 쉽게 말할게요. 제 동생은 제가 아는 가장 정직한 경찰이에요. 그리고 대널 헤이스는 질문 하나 했다고 두 대를 맞았어요. 두 가지가 동시에 사실이에요.
 
-060. DAN: I want cops like my brother to have partners like my brother, which means cameras that are on and supervisors who check them. That's not anti-police, because that's what good cops want.
+060. DAN: I want cops like my brother to have partners like my brother. That means cameras that are on and supervisors who check them. That's not anti-police, because that's what good cops want.
     댄: 저는 제 동생 같은 경찰이 제 동생 같은 동료를 갖길 바라요. 켜져 있는 카메라와 그걸 확인하는 감독관이 있어야 한다는 뜻이죠. 그건 반경찰이 아니에요. 좋은 경찰들이 원하는 거예요.
 
 061. AUDIENCE: That's right!
@@ -227,7 +227,7 @@
 071. MARTY: He said "fair," even though I told him never to say "fair."
     마티: "정당한"이라고 했어. "정당한"은 절대 말하지 말랬는데.
 
-072. DAN: My office is in the old bakery on Thirty-First Street, where my parents lived upstairs in 1980, and if I win, I'm there every Friday.
+072. DAN: My office is in the old bakery on Thirty-First Street, where my parents lived upstairs in 1980. If I win, I'm there every Friday.
     댄: 제 사무실은 31번가 옛 빵집이에요. 1980년에 부모님이 위층에 사셨죠. 당선되면 매주 금요일엔 거기 있을게요.
 
 073. MRS. DELGADO-RUIZ: Every Friday?
@@ -245,7 +245,7 @@
 077. AUDIENCE: Ha, look at that, the lawyer's nervous up there!
     청중: 하, 저기 봐, 변호사가 떨고 있네!
 
-078. RUSSO: This is my rebuttal. Carmen, I live on Twenty-Ninth Street, where I've lived for fifty-four years, and you know my house, because you came to my daughter's christening.
+078. RUSSO: This is my rebuttal. Carmen, I live on Twenty-Ninth Street, where I've lived for fifty-four years. You know my house, because you came to my daughter's christening.
     루소: 반박할게요. 카르멘, 난 29번가에 살아요. 54년 동안요. 우리 집 알잖아요. 우리 딸 세례식에 왔었잖아.
 
 079. MRS. DELGADO-RUIZ: I did, and the cake was dry, very dry, so dry that everybody still talks about it.
@@ -272,10 +272,10 @@
 086. REBECCA: Can't, or won't?
     레베카: 못 하시는 거예요, 안 하시는 거예요?
 
-087. DAN: Can't, because when you're a lawyer, your client's secrets stay secret, even after you stop working for them and even if you hate what they did. That rule protects everybody, including you.
+087. DAN: Can't, because when you're a lawyer, your client's secrets stay secret. That's true even after you stop working for them and even if you hate what they did. That rule protects everybody, including you.
     댄: 못 하는 거예요. 변호사가 되면 의뢰인의 비밀은 비밀로 남아요. 그 사람들 일을 그만둔 뒤에도, 그들이 한 짓이 싫어도요. 그 규칙은 기자님을 포함해 모두를 보호해요.
 
-088. DAN: What I can tell you is what's public: the case settled for eighty-five million dollars, and the judge's order is public, so you can read it on the court's website.
+088. DAN: What I can tell you is what's public. The case settled for eighty-five million dollars, and the judge's order is public. You can read it on the court's website.
     댄: 말할 수 있는 건 공개된 내용이에요. 그 사건은 8천5백만 달러에 합의됐고, 판사의 명령은 공개돼 있어요. 법원 웹사이트에서 읽으실 수 있어요.
 
 089. AUDIENCE MEMBER: That's a dodge!
@@ -287,7 +287,7 @@
 091. REBECCA: Ms. Haddad, you've asked to respond, so you have thirty seconds, please.
     레베카: 하다드 씨, 답변을 요청하셨죠. 30초 드릴게요.
 
-092. LEILA: I believe Mr. Reardon believes in his rule, I really do. But think about what it means: he worked for a private prison company, he knows things about it, and he'll never tell us.
+092. LEILA: I believe Mr. Reardon believes in his rule, I really do. But think about what it means. He worked for a private prison company, he knows things about it, and he'll never tell us.
     레일라: 레이든 씨가 자기 규칙을 믿는다는 건 믿어요. 진짜로요. 근데 그게 무슨 뜻인지 생각해 보세요. 그는 민간 교도소 회사를 위해 일했고, 그 회사에 대해 아는 게 있고, 절대 우리한테 말 안 할 거예요.
 
 093. LEILA: So when he votes on prison contracts in Washington, we won't know what he knows. Who does that actually help? It doesn't help us, because it helps Castellan.
@@ -350,7 +350,7 @@
 112. REBECCA: Now it's time for closing statements, sixty seconds each, with Mr. Russo first this time.
     레베카: 이제 마무리 발언입니다. 각 60초, 이번엔 루소 씨부터요.
 
-113. RUSSO: You know me, because you've known me for twenty-six years. I'm not new, and I'm not exciting, but when you call, I'll pick up, which is the same promise I kept in Albany.
+113. RUSSO: You know me, because you've known me for twenty-six years. I'm not new, and I'm not exciting. But when you call, I'll pick up, which is the same promise I kept in Albany.
     루소: 여러분은 절 아시죠. 26년을 아셨잖아요. 전 새롭지도 신나지도 않아요. 하지만 전화하시면 받을 겁니다. 올버니에서 지켜 온 그 약속 그대로요.
 
 114. LEILA: Don't pick the person you know. Pick the person who stood next to you, in the lobby, in the cold, for ten years.
@@ -383,8 +383,8 @@
 123. ROSE: Bring him back with food in him, and bring the tray back too.
     로즈: 뭐 좀 먹여서 돌려보내. 쟁반도 가져오고.
 
-124. MARTY: Here's the truth: Tony won the people over sixty, Leila won the people under forty, and you won your mother and the man from the Q69.
-    마티: 사실은 이래. 토니는 예순 넘은 사람들을 잡았고, 레일라는 마흔 아래를 잡았고, 자넨 어머니랑 Q69 그 양반을 잡았어.
+124. MARTY: Here's the truth. Tony won the people over sixty, and Leila won the people under forty. You won your mother and the man from the Q69.
+    마티: 사실은 이래. 토니는 예순 넘은 사람들을 잡았고, 레일라는 마흔 아래를 잡았어. 자넨 어머니랑 Q69 그 양반을 잡았고.
 
 125. DAN: Is it really as bad as that, Marty, honestly?
     댄: 정말 그렇게 나빠요, 마티? 솔직히요?
@@ -413,19 +413,19 @@
 133. MARTY: The enemy in the kitchen is a classic, so I'll go get coffee.
     마티: 부엌에 적이라. 고전이네. 난 커피 가져올게.
 
-134. LEILA: I meant what I said up there, but I also meant something I didn't say: your answer about secrets was the most honest thing anybody said tonight, including me.
+134. LEILA: I meant what I said up there, but I also meant something I didn't say. Your answer about secrets was the most honest thing anybody said tonight, including me.
     레일라: 무대에서 한 말은 진심이었어요. 근데 말 안 한 것도 진심이에요. 비밀에 대한 당신 대답이 오늘 밤 누가 한 말보다 정직했어요. 저를 포함해서요.
 
 135. DAN: Then why did you attack it in front of three hundred people?
     댄: 그럼 왜 3백 명 앞에서 공격했어요?
 
-136. LEILA: Because honest isn't the same as right, and you can be honest and still be the wrong person for the job, so I have to make people think about that.
+136. LEILA: Because honest isn't the same as right. You can be honest and still be the wrong person for the job, so I have to make people think about that.
     레일라: 정직하다고 옳은 건 아니니까요. 정직하면서도 그 자리에 맞지 않는 사람일 수 있어요. 사람들이 그걸 생각하게 만들어야 해요.
 
 137. DAN: That's fair, and sorry, because I keep saying that.
     댄: 정당하네요. 미안해요, 자꾸 그 말을 하네.
 
-138. LEILA: Marty told you not to, didn't he? He told me the same thing in 2025, that you're not supposed to say "fair," so say "you're right," because it sounds less like a lawyer.
+138. LEILA: Marty told you not to, didn't he? He told me the same thing in 2025. You're not supposed to say "fair," so say "you're right," because it sounds less like a lawyer.
     레일라: 마티가 하지 말랬죠? 2025년에 나한테도 똑같이 말했어요. "정당한"이라고 하지 말고 "당신 말이 맞아요"라고 하라고. 덜 변호사 같다고.
 
 139. DAN: You're right.
@@ -434,7 +434,7 @@
 140. LEILA: See, that sounds better. Good night, Dan, and tell your mother the koulourakia was excellent, because I stole one.
     레일라: 봐요, 낫잖아요. 잘 자요, 댄. 어머님께 쿨루라키아 훌륭했다고 전해 줘요. 하나 훔쳤거든요.
 
-141. ELI: Dan, before I go, I wanted to talk about what you said about the next client, the one who tells a lawyer the worst day of their life.
+141. ELI: Dan, before I go, I wanted to talk about what you said about the next client. You meant the one who tells a lawyer the worst day of their life.
     일라이: 댄, 가기 전에요. 다음 의뢰인 얘기 하셨잖아요. 변호사한테 인생 최악의 날을 털어놓는 사람이요.
 
 142. DAN: Yeah?
@@ -455,13 +455,13 @@
 147. ELI: I have a job and school, with eighty-seven credits to go, so good night, Marty.
     일라이: 일도 있고 학교도 있어요. 87학점 남았어요. 안녕히 가세요, 마티.
 
-148. MARTY: Okay, Danny, we're in third place in April, so now we need real money, because without money, you can't tell anybody anything, true or not.
+148. MARTY: Okay, Danny, we're in third place in April, so now we need real money. Without money, you can't tell anybody anything, true or not.
     마티: 좋아, 대니. 4월에 3위야. 이제 돈이 필요해. 진짜 돈. 돈 없으면 사실이든 아니든 아무한테도 아무 말 못 해.
 
 149. DAN: Call time.
     댄: 콜 타임.
 
-150. MARTY: Call time starts Monday at nine a.m., so bring your old Rolodex from Park Avenue with every partner, every client, and every man who ever bought you lunch, because you're going to call them all and ask them for money, so sleep well.
+150. MARTY: Call time starts Monday at nine a.m. Bring your old Rolodex from Park Avenue with every partner, every client, and every man who ever bought you lunch. You're going to call them all and ask them for money, so sleep well.
     마티: 콜 타임. 월요일 아침 아홉 시. 파크 애비뉴 시절 명함첩 가져와. 모든 파트너, 모든 의뢰인, 자네한테 점심 한 번이라도 산 모든 사람. 전부 전화해서 돈 달라고 할 거야. 잘 자.
 
 ---
