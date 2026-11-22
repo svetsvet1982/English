@@ -32,7 +32,7 @@
 006. ROSE: Who did you vote for, Danny?
     로즈: 누구 찍었어, 대니?
 
-007. DAN: Not me, because I can't, since I don't live in the district, so I voted in a different primary for a different congressman.
+007. DAN: Not me, because I can't, since I don't live in the district. I voted in a different primary for a different congressman.
     댄: 나는 못 찍어. 지역구에 안 사니까. 다른 경선에서 다른 하원의원 후보 찍었어.
 
 008. ROSE: You're running for Congress, and you can't vote for yourself?
@@ -56,7 +56,7 @@
 014. DAN: I watched it twice: the scooter, Wilmer, and you saying "step back" three times, calm, with your hand open.
     댄: 두 번 봤어. 스쿠터, 윌머, 그리고 네가 "물러나세요"를 세 번 하는 거. 차분하게, 손바닥 펴고.
 
-015. KEVIN: The CCRB still has to decide, and that takes months, but the guys at the precinct watched it, and two of them said sorry for the things they said in March.
+015. KEVIN: The CCRB still has to decide, and that takes months. But the guys at the precinct watched it, and two of them said sorry for the things they said in March.
     케빈: CCRB는 아직 결정해야 돼. 몇 달 걸려. 근데 관할서 사람들이 봤어. 두 명은 3월에 한 말 미안하다고 하더라.
 
 016. DAN: That's a start, Kevin, a real one, and Dad would say so.
@@ -71,13 +71,13 @@
 019. KEVIN: Unofficially, if you lose, I'm eating your share of Thanksgiving.
     케빈: 비공식적으로는 형이 지면 추수감사절 형 몫은 내가 먹는다.
 
-020. AISHA: Dan, this is GOTV, which means get out the vote, because we're done convincing people, so today we only find the people who already like us and make sure they actually vote.
+020. AISHA: Dan, this is GOTV, which means get out the vote. We're done convincing people. Today we only find the people who already like us and make sure they actually vote.
     아이샤: 댄, GOTV예요. 투표 독려요. 설득은 끝났어요. 오늘은 이미 우릴 좋아하는 사람들을 찾아서 실제로 투표하게 만드는 것만 해요.
 
-021. MARTY: We call it "pulling" voters, like pulling teeth, because some of them need a ride, some need a babysitter, and some need a reminder that the primary isn't in November.
+021. MARTY: We call it "pulling" voters, like pulling teeth. Some of them need a ride, some need a babysitter, and some need a reminder that the primary isn't in November.
     마티: 그걸 유권자를 "끌어낸다"고 해. 이 뽑듯이. 어떤 사람은 차가 필요하고, 어떤 사람은 애 봐 줄 사람이 필요하고, 어떤 사람은 경선이 11월이 아니라는 걸 알려 줘야 해.
 
-022. JUNE: The walk list is in the app, where every door has a color, and green means "Reardon supporter, hasn't voted yet," so that's who we knock on today.
+022. JUNE: The walk list is in the app, where every door has a color. Green means "Reardon supporter, hasn't voted yet," so that's who we knock on today.
     준: 방문 명단은 앱에 있어요. 집마다 색이 있어요. 초록은 "레이든 지지자, 아직 투표 안 함." 오늘은 그 집만 두드려요.
 
 023. ZOE: And what does red mean?
@@ -89,7 +89,7 @@
 025. ZOE: I can't vote, and I can't witness petitions, so can I at least knock on doors?
     조이: 투표도 못 하고 청원 증인도 못 하는데, 문 두드리는 건 해도 돼?
 
-026. AISHA: You can knock, but you can't go inside anybody's home, and you knock with June, not alone, because that's your mother's rule and mine.
+026. AISHA: You can knock, but you can't go inside anybody's home. You knock with June, not alone, because that's your mother's rule and mine.
     아이샤: 두드려도 돼. 근데 누구 집에도 들어가면 안 되고, 혼자 말고 준이랑 같이 다녀. 그게 네 엄마 규칙이자 내 규칙이야.
 
 027. ZOE: Fine, so what do I say?
@@ -98,7 +98,7 @@
 028. MARTY: Say, "Hi, I'm Zoe. Have you voted yet? The polls close at nine." Keep it short, because your father learned short from you, so now use it.
     마티: "안녕하세요, 조이예요. 투표하셨어요? 아홉 시에 마감해요." 짧게. 네 아빠가 짧게 말하는 걸 너한테 배웠잖아. 이제 네가 써먹어.
 
-029. DEE: Morning, Daniel, and don't look surprised, because I vote at P.S. 17, where I've voted since 1991, when they moved my site from the firehouse.
+029. DEE: Morning, Daniel, and don't look surprised. I vote at P.S. 17, where I've voted since 1991, when they moved my site from the firehouse.
     디: 좋은 아침, 대니얼. 놀란 표정 짓지 마요. 난 P.S. 17에서 투표해요. 1991년에 소방서에서 옮겨 온 뒤로 계속.
 
 030. DAN: Congresswoman, I thought you lived on Alexander Avenue in the Bronx.
@@ -134,7 +134,7 @@
 040. MARTY: Thirty years, and she still talks about the sandwich.
     마티: 30년인데 아직도 샌드위치 얘기야.
 
-041. YVONNE: Okay, it's Mott Haven at two o'clock and ninety-one degrees, and forty doors on this block are green, so Local Five-Forty has twelve members out here with you.
+041. YVONNE: Okay, it's Mott Haven at two o'clock and ninety-one degrees. Forty doors on this block are green, so Local Five-Forty has twelve members out here with you.
     이본: 자, 모트 헤이븐, 두 시, 33도예요. 이 블록에 초록 집이 마흔 개고요. 540지부 조합원 열두 명이 같이 나와 있어요.
 
 042. DAN: It's so hot out here, so is the heat on?
@@ -146,7 +146,7 @@
 044. DAN: You took the day off?
     댄: 오늘 쉬는 날이에요?
 
-045. ELI: I'm volunteering on my own time, because Lorraine checked the rules, and center work stops at noon, so this is the afternoon. Also, I voted at eight, for the second time in my life.
+045. ELI: I'm volunteering on my own time, because Lorraine checked the rules. Center work stops at noon, so this is the afternoon. Also, I voted at eight, for the second time in my life.
     일라이: 개인 시간에 자원봉사하는 거예요. 로레인이 규칙 확인해 줬어요. 센터 일은 정오에 끝나고 지금은 오후예요. 그리고 여덟 시에 투표했어요. 인생 두 번째로요.
 
 046. DAN: Second time? When was the first?
@@ -167,7 +167,7 @@
 051. DAN: Who lives there?
     댄: 거기 누가 살아요?
 
-052. YVONNE: My cousin, who's voting for Tony because his office got her mother's pension check fixed in 2019, and I can't argue with that, and neither can you, Mr. Reardon.
+052. YVONNE: My cousin is voting for Tony because his office got her mother's pension check fixed in 2019. I can't argue with that, and neither can you, Mr. Reardon.
     이본: 제 사촌이요. 2019년에 토니 사무실이 이모 연금 수표를 해결해 줘서 토니 찍는대요. 거기엔 뭐라 못 하죠. 레이든 씨도 못 하고요.
 
 053. DAN: No, and that's a good reason to vote for somebody.
@@ -185,7 +185,7 @@
 057. AISHA: Thirty-one is the same number as the tenant association.
     아이샤: 서른한 집이면 세입자 협회 숫자랑 똑같네요.
 
-058. GLADYS: Of course it's the same, because the other eleven are the new people who pay double, and they don't vote, and they don't even say good morning.
+058. GLADYS: Of course it's the same. The other eleven are the new people who pay double, and they don't vote, and they don't even say good morning.
     글래디스: 당연히 똑같지. 나머지 열한 집은 두 배 내는 새 사람들이야. 투표도 안 하고 아침 인사도 안 해.
 
 059. DAN: Gladys, you didn't have to climb all those stairs.
@@ -194,7 +194,7 @@
 060. GLADYS: I'm seventy-nine, so the stairs don't scare me, but losing to Tony Russo scares me. Go knock, and Bernadette says hello.
     글래디스: 난 일흔아홉이야. 계단은 안 무서워. 토니 루소한테 지는 게 무섭지. 가서 두드려. 버나뎃이 안부 전한대.
 
-061. ZOE: Dad, I knocked on eleven doors, and nine people already voted, one said she'd go at five, and one closed the door in my face.
+061. ZOE: Dad, I knocked on eleven doors, and nine people already voted. One said she'd go at five, and one closed the door in my face.
     조이: 아빠, 열한 집 두드렸어. 아홉 명은 벌써 투표했고, 한 명은 다섯 시에 간대. 한 명은 내 앞에서 문 닫았어.
 
 062. DAN: Are you okay, sweetheart? That happens to everybody, even me.
@@ -206,7 +206,7 @@
 064. JUNE: I made that up, but it sounds good, right?
     준: 제가 지어낸 거예요. 근데 그럴듯하죠?
 
-065. ZOE: Also, Dad, a man asked me if you're the lawyer with the T-shirt, "I can't discuss my former T-shirt," and he's wearing it, and he said he's voting for you anyway.
+065. ZOE: Also, Dad, a man asked me if you're the lawyer with the T-shirt, "I can't discuss my former T-shirt." He's wearing it, and he said he's voting for you anyway.
     조이: 그리고 아빠, 어떤 아저씨가 아빠가 그 티셔츠 변호사냐고 물어봤어. "예전 티셔츠에 대해선 말할 수 없습니다." 그걸 입고 있더라. 그래도 아빠 찍는대.
 
 066. DAN: He's wearing the meme?
@@ -218,7 +218,7 @@
 068. MARTY: That's democracy for you, with two brothers, one T-shirt, and two votes.
     마티: 그게 민주주의야. 형제 둘, 티셔츠 하나, 표 두 개.
 
-069. YVONNE: Mr. Reardon, it's four o'clock, and our members have knocked on eight hundred doors since noon, while Local Eighty-Eight did six hundred in Astoria, and Gloria's driving people in her own car.
+069. YVONNE: Mr. Reardon, it's four o'clock, and our members have knocked on eight hundred doors since noon. Local Eighty-Eight did six hundred in Astoria, and Gloria's driving people in her own car.
     이본: 레이든 씨, 네 시예요. 우리 조합원들이 정오부터 8백 집을 두드렸어요. 88지부는 애스토리아에서 6백 집 했고요. 글로리아는 자기 차로 사람들 태워 나르고 있어요.
 
 070. DAN: Yvonne, I don't know how to thank all of them.
@@ -242,16 +242,16 @@
 076. ELI: She says she has sixteen years of cakes to catch up on, so it's every six months now.
     일라이: 16년 치 케이크를 따라잡아야 한대요. 그래서 이제 6개월마다예요.
 
-077. MARTY: Okay, it's nine o'clock, and the polls are closed, so everybody stop knocking, because from now on, it's just numbers.
+077. MARTY: Okay, it's nine o'clock, and the polls are closed. Everybody stop knocking, because from now on, it's just numbers.
     마티: 자, 아홉 시. 투표 마감. 다들 그만 두드려. 이제부턴 숫자뿐이야.
 
-078. AISHA: The Board of Elections releases unofficial results by election district, which is a small area of a few blocks with about a thousand voters each, and there are about two hundred in our district.
+078. AISHA: The Board of Elections releases unofficial results by election district. That's a small area of a few blocks with about a thousand voters each, and there are about two hundred in our district.
     아이샤: 선관위는 투표구별로 비공식 결과를 발표해요. 투표구는 몇 블록 정도의 작은 구역이고 유권자가 천 명쯤 돼요. 우리 지역구엔 2백 개쯤 있어요.
 
-079. JUNE: Unofficial means it's the count from tonight, from the machines only, and the official count comes later, with absentee ballots and anything that needs checking.
+079. JUNE: Unofficial means it's the count from tonight, from the machines only. The official count comes later, with absentee ballots and anything that needs checking.
     준: 비공식은 오늘 밤 기계로만 센 거예요. 공식 집계는 부재자 투표랑 확인할 것들 포함해서 나중에 나와요.
 
-080. MARTY: And the first numbers are always early voting from the week before, which means older voters and Tony's people, so don't panic when you see them, because Tony will be ahead.
+080. MARTY: And the first numbers are always early voting from the week before, which means older voters and Tony's people. So don't panic when you see them, because Tony will be ahead.
     마티: 그리고 첫 숫자는 늘 일주일 전 사전 투표야. 나이 든 유권자들, 토니 쪽 사람들이지. 그러니까 보고 놀라지 마. 토니가 앞설 거야.
 
 081. AISHA: Here are the first numbers, from the early vote only: Russo thirty-eight, Reardon thirty-one, and Haddad thirty-one.
@@ -272,16 +272,16 @@
 086. ELENA: Sam, not tonight, okay?
     엘레나: 샘, 오늘 밤은 그러지 마, 응?
 
-087. GUS: Counselor, here's food, because I closed the diner at eight for the first time since my father's funeral: spanakopita, rice pudding, and coffee you'll complain about.
+087. GUS: Counselor, here's food, because I closed the diner at eight for the first time since my father's funeral. It's spanakopita, rice pudding, and coffee you'll complain about.
     거스: 변호사님, 음식. 다이너 여덟 시에 닫았어. 우리 아버지 장례식 이후 처음이야. 스파나코피타, 라이스 푸딩, 그리고 자네가 투덜댈 커피.
 
 088. DAN: Gus, you closed the Athena?
     댄: 거스, 아테나를 닫았어요?
 
-089. GUS: It's for one night, and the sign says "Closed for democracy," but my customers are standing outside your office anyway, so look out the window.
+089. GUS: It's for one night, and the sign says "Closed for democracy." But my customers are standing outside your office anyway, so look out the window.
     거스: 하룻밤만. 팻말에 "민주주의 때문에 휴업"이라고 써 놨어. 어차피 우리 손님들 다 자네 사무실 밖에 서 있어. 창밖 봐.
 
-090. AISHA: It's ten o'clock, with forty percent of districts reporting, and election day votes are coming in now: Russo thirty-five, Reardon thirty-four, and Haddad thirty-one.
+090. AISHA: It's ten o'clock, with forty percent of districts reporting, and election day votes are coming in now. It's Russo thirty-five, Reardon thirty-four, and Haddad thirty-one.
     아이샤: 열 시예요. 투표구 40퍼센트 집계. 이제 당일 투표가 들어와요. 루소 35, 레이든 34, 하다드 31.
 
 091. MARTY: It's one point, and the Bronx hasn't come in yet, including Mott Haven, Hunts Point, and Yvonne's blocks.
@@ -290,7 +290,7 @@
 092. ZOE: How do you know which districts are which, Marty?
     조이: 어느 투표구가 어딘지 어떻게 알아요, 마티?
 
-093. MARTY: Sweetheart, I've been watching these numbers since 1980, so I know every district by its number: sixty-two is a church, seventy-one is a bodega, and eighty-four is my aunt.
+093. MARTY: Sweetheart, I've been watching these numbers since 1980, so I know every district by its number. Sixty-two is a church, seventy-one is a bodega, and eighty-four is my aunt.
     마티: 아가씨, 1980년부터 이 숫자들 봤어. 번호만 봐도 다 알아. 62는 교회, 71은 동네 가게, 84는 우리 이모네.
 
 094. AISHA: It's eleven o'clock, with eighty-five percent reporting: Reardon thirty-five point four, Russo thirty-three point eight, and Haddad thirty point eight.
@@ -332,7 +332,7 @@
 106. DAN: I know, Ma.
     댄: 알아, 엄마.
 
-107. ROSE: No, you don't, because your father would have said, "Good, now go to work," since he never celebrated anything for more than five minutes.
+107. ROSE: No, you don't. Your father would have said, "Good, now go to work," since he never celebrated anything for more than five minutes.
     로즈: 아니, 몰라. 네 아버지였으면 "좋아. 이제 일하러 가"라고 했을 거야. 뭐든 5분 넘게 축하한 적이 없거든.
 
 108. AISHA: Dan, your phone is ringing, and it's Leila Haddad.
@@ -347,7 +347,7 @@
 111. LEILA: The official count won't change three points, because I can read numbers. My father taught me with bread: forty restaurants, ninety loaves each, every morning.
     레일라: 공식 집계로 3포인트가 바뀌진 않아요. 저 숫자 읽을 줄 알아요. 아버지가 빵으로 가르쳐 주셨거든요. 식당 마흔 곳, 각 아흔 덩이, 매일 아침.
 
-112. LEILA: A concession call is a tradition, where the loser calls the winner and says it out loud, because that's how the voters know it's over, and I want my people to hear me say it.
+112. LEILA: A concession call is a tradition, where the loser calls the winner and says it out loud. That's how the voters know it's over, and I want my people to hear me say it.
     레일라: 승복 전화는 전통이에요. 진 사람이 이긴 사람한테 전화해서 소리 내서 말하는 거죠. 그래야 유권자들이 끝난 걸 알아요. 우리 사람들이 제 입으로 듣길 바라요.
 
 113. DAN: You ran a great campaign, and you made me better in every debate and with every question.
@@ -368,7 +368,7 @@
 118. DAN: I'll keep it short, one minute, like Dad on the crate.
     댄: 짧게 할게요. 1분. 상자 위 아빠처럼.
 
-119. DAN: Let me say it plain: thank you to Local Five-Forty, to Local Eighty-Eight, and to every nurse, every driver, and every two-dollar donor, because you did this, and I just stood here.
+119. DAN: Let me say it plain: thank you to Local Five-Forty, to Local Eighty-Eight, and to every nurse, every driver, and every two-dollar donor. You did this, and I just stood here.
     댄: 쉽게 말할게요. 감사합니다. 540지부, 88지부, 모든 간호사, 모든 기사, 2달러씩 내 주신 모든 분. 여러분이 해낸 거예요. 전 여기 서 있었을 뿐이에요.
 
 120. AUDIENCE: Say it plain!
@@ -380,7 +380,7 @@
 122. AUDIENCE: Ha!
     청중: 하!
 
-123. DAN: The primary's over, and now there's the general, where the other side has a candidate with a lot of money, but we have you. Go home and sleep, because tomorrow, we start again.
+123. DAN: The primary's over, and now there's the general. The other side has a candidate with a lot of money, but we have you. Go home and sleep, because tomorrow, we start again.
     댄: 경선은 끝났어요. 이제 본선이에요. 상대 쪽엔 돈 많은 후보가 있어요. 우리한텐 여러분이 있죠. 집에 가서 주무세요. 내일 다시 시작해요.
 
 124. ELI: That was fifty-eight seconds, so he gave two back.
@@ -392,7 +392,7 @@
 126. DAN: Congresswoman.
     댄: 의원님.
 
-127. DEE: Honey, I watched you take three punches, the mailer, the debate, and your brother, and you didn't hit back once, which is either very smart or very stupid.
+127. DEE: Honey, I watched you take three punches, the mailer, the debate, and your brother. You didn't hit back once, which is either very smart or very stupid.
     디: 자기, 주먹 세 방 맞는 거 다 봤어요. 우편물, 토론, 동생. 한 번도 되받아치지 않았죠. 아주 똑똑하거나 아주 바보 같거나 둘 중 하나예요.
 
 128. DAN: Which one is it?
@@ -404,7 +404,7 @@
 130. DAN: Thank you, Dee, but what about Vinnie and your promise to him?
     댄: 고마워요, 디. 근데 비니는요? 그분한테 한 약속은요?
 
-131. DEE: I kept my promise to Vinnie, because I took care of his boy by staying out of his race, and now his race is over. Honey, now you're on my list, the favor list, so don't make me move you.
+131. DEE: I kept my promise to Vinnie. I took care of his boy by staying out of his race, and now his race is over. Honey, now you're on my list, the favor list, so don't make me move you.
     디: 비니한테 한 약속은 지켰어요. 그 아들 선거에 안 끼어드는 걸로 돌봐 줬죠. 이제 그 선거는 끝났고요. 자기, 이제 당신은 내 목록에 있어요. 신세 목록. 옮기게 만들지 마요.
 
 132. LEILA: Dan, I'm here, and I brought my father's bread, the ninety-first loaf of the day. He says congratulations, and he says he didn't vote for you.
@@ -422,7 +422,7 @@
 136. LEILA: It was thirty point eight, so don't round up, because I'll know.
     레일라: 30.8이에요. 반올림하지 마요. 다 알아요.
 
-137. DAN: Thirty point eight, and I want you on the campaign as policy director for housing, wages, and the pension funds, because I want all of your eleven-page plan.
+137. DAN: Thirty point eight, and I want you on the campaign as policy director for housing, wages, and the pension funds. I want all of your eleven-page plan.
     댄: 30.8. 캠프에 들어와 줬으면 해요. 정책국장으로요. 주거, 임금, 연기금. 11쪽짜리 공약 전부 원해요.
 
 138. LEILA: You want the person who said you found your conscience at forty-two?
@@ -446,7 +446,7 @@
 144. LEILA: You say "in writing" like it means something to politicians.
     레일라: "문서로"라는 말이 정치인한테 의미가 있는 것처럼 말하네요.
 
-145. DAN: It means something to me, so ask my son, because I put a backyard in writing, and he's going to collect in July.
+145. DAN: It means something to me, so ask my son. I put a backyard in writing, and he's going to collect in July.
     댄: 저한텐 의미 있어요. 우리 아들한테 물어봐요. 뒷마당 약속을 문서로 해 줬는데 7월에 받으러 올 거예요.
 
 146. LEILA: Then yes, I'll be policy director, starting Monday, not tomorrow, because tomorrow I'm sleeping and being angry.
@@ -458,7 +458,7 @@
 148. LEILA: I know, Marty, and you'll call me Leila from now on, not "the young woman," because that's condition three.
     레일라: 알아요, 마티. 이제부턴 레일라라고 불러요. "젊은 여자" 말고. 그게 조건 셋이에요.
 
-149. ELENA: Dan, it's after midnight, so it's Wednesday, and you won. And in August, we're going to Rockaway for one week with no phones, because that was a condition from last year that I never collected.
+149. ELENA: Dan, it's after midnight, so it's Wednesday, and you won. And in August, we're going to Rockaway for one week with no phones. That was a condition from last year that I never collected.
     엘레나: 댄, 자정 넘었어. 수요일이야. 당신이 이겼어. 그리고 8월에 로커웨이 가. 일주일. 휴대폰 없이. 작년에 걸어 놓고 못 받은 조건이야.
 
 150. DAN: Rockaway for one week, with no phones, in writing. Let me say it plain, Elena: I'll be there.
