@@ -137,8 +137,8 @@
 041. JUDGE: Good morning, I'm Lars Gunderson from Wisconsin, and I've judged dairy cattle for thirty-one years. I know that half of you think a man from Wisconsin shouldn't judge New York cows.
     심사위원: 안녕하십니까. 위스콘신에서 온 라스 건더슨입니다. 31년째 젖소를 심사하고 있습니다. 여러분 절반은 위스콘신 사람이 뉴욕 소를 심사하면 안 된다고 생각하시는 거 압니다.
 
-042. AUDIENCE: [laughter] Yeah!
-    청중: [웃음] 맞아!
+042. AUDIENCE: Ha! You're darn right we think that, Lars!
+    청중: 하! 당연히 그렇게 생각하죠, 라스!
 
 043. JUDGE: The other half are right. Let's begin with the senior cows, so bring them in.
     심사위원: 나머지 절반이 맞습니다. 시작하죠. 성우 부문입니다. 들여보내 주세요.
@@ -170,8 +170,8 @@
 052. TOMAS: She does own the barn, sir, and we just work there.
     토마스: 진짜 헛간 주인이에요. 저흰 거기서 일만 하고요.
 
-053. AUDIENCE: [laughter]
-    청중: [웃음]
+053. AUDIENCE: Ha! That cow's been running Duquette Farm for years!
+    청중: 하! 저 소가 몇 년째 듀켓 농장을 운영하고 있다니까!
 
 054. JUDGE: Here are the placings: fourth place, number twelve, third place, number three, and second place—
     심사위원: 순위 발표합니다. 4위 12번, 3위 3번, 2위는—
@@ -245,8 +245,8 @@
 077. ANA: Her name is Pickle, and she's six months old. I feed her at six a.m. and six p.m., and she likes it when I sing, but she doesn't like it when my dad sings.
     아나: 이름은 피클이고 6개월 됐어요. 아침 여섯 시랑 저녁 여섯 시에 밥을 줘요. 제가 노래하면 좋아하는데, 아빠가 노래하면 싫어해요.
 
-078. AUDIENCE: [laughter]
-    청중: [웃음]
+078. AUDIENCE: Ha! Poor guy, even the calf won't put up with his singing!
+    청중: 하! 불쌍한 아빠, 송아지도 노래를 못 참아 주네!
 
 079. JUDGE: And what do you want to be when you grow up?
     심사위원: 그럼 커서 뭐가 되고 싶어요?
@@ -314,8 +314,8 @@
 100. WALT: You plowed Route 11, but my road is Duquette Road, and the county plowed that two days later.
     월트: 당신은 11번 국도를 치웠소. 우리 길은 듀켓 로드요. 그건 이틀 뒤에 카운티가 치웠지.
 
-101. AUDIENCE: [laughter]
-    청중: [웃음]
+101. AUDIENCE: Ha! Walt never forgets a road, Governor, and neither do we!
+    청중: 하! 월트는 길 하나도 안 잊어요, 주지사님. 우리도 그렇고요!
 
 102. HARTLEY: Ha, see? That's upstate, where nobody lets you get away with anything, and that's why I love it. Walt, I'll take the correction.
     하틀리: 하! 봤죠? 이게 업스테이트예요. 아무도 그냥 안 넘어가 줘요. 그래서 좋아하는 거예요. 월트, 정정 받아들일게요.
