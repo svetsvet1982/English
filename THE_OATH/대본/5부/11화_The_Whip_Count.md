@@ -35,7 +35,7 @@
 007. AISHA: Facts first: this isn't a normal bill, so Ben, explain it like you did for me.
     아이샤: 사실 먼저요. 이건 평범한 법안이 아니에요. 벤, 저한테 했던 것처럼 설명해 줘요.
 
-008. BEN: Every year Congress has to pass twelve spending bills, called appropriations, with one for defense, one for health, one for Homeland Security, and so on, because that's how the government gets money.
+008. BEN: Every year Congress has to pass twelve spending bills, called appropriations. There's one for defense, one for health, one for Homeland Security, and so on, because that's how the government gets money.
     벤: 의회는 매년 지출 법안 열두 개를 통과시켜야 해요. 세출 법안이라고 하죠. 국방, 보건, 국토안보 이런 식으로요. 정부는 그렇게 돈을 받아요.
 
 009. DAN: And what if they don't pass them by September thirtieth?
@@ -47,7 +47,7 @@
 011. DAN: And what happened with the bills this year?
     댄: 그럼 올해 법안들은 어떻게 됐어요?
 
-012. BEN: This year they finished three bills, Homeland Security, Labor-Health, and Agriculture, and they put the three together in one package, plus a continuing resolution for the other nine.
+012. BEN: This year they finished three bills, Homeland Security, Labor-Health, and Agriculture. They put the three together in one package, plus a continuing resolution for the other nine.
     벤: 올해는 세 개를 끝냈어요. 국토안보, 노동·보건, 농업. 그 셋을 한 패키지로 묶고, 나머지 아홉 개는 임시 예산으로 처리해요.
 
 013. JUNE: What's a continuing resolution, in English?
@@ -77,7 +77,7 @@
 021. LEILA: It's the same bill as the beds, with page four twelve and page nine-oh-six in one vote.
     레일라: 침상이랑 같은 법안이에요. 412쪽과 906쪽이 한 번의 표결에 묶여 있어요.
 
-022. AISHA: That's how they do it: you put something a member loves next to something they hate, and then you see which one they love more.
+022. AISHA: That's how they do it. You put something a member loves next to something they hate, and then you see which one they love more.
     아이샤: 그렇게들 해요. 의원이 좋아하는 걸 싫어하는 것 옆에 두고, 어느 쪽을 더 좋아하는지 보는 거죠.
 
 023. DAN: Leila, tell me honestly what you want me to do.
@@ -92,7 +92,7 @@
 026. LEILA: I know what I'm saying, and I've never said anything like this before. It's horrible, and I hate the sound of my own voice right now.
     레일라: 제가 무슨 말 하는지 알아요. 이런 말 해 본 적 없어요. 끔찍해요. 지금 제 목소리가 너무 싫어요.
 
-027. BEN: Sir, for the record, if you vote no, the beds don't disappear, because if the bill passes without you, the beds are funded anyway, and the clinic too, probably.
+027. BEN: Sir, for the record, if you vote no, the beds don't disappear. If the bill passes without you, the beds are funded anyway, and the clinic too, probably.
     벤: 의원님, 기록을 위해 말씀드리면, 반대하셔도 침상은 안 사라져요. 의원님 없이 법안이 통과되면 침상 예산은 어쨌든 나가요. 클리닉도요. 아마도.
 
 028. DAN: You said "probably."
@@ -149,13 +149,13 @@
 045. VANCE: Go on, Congressman, I'm listening.
     밴스: 말씀하세요, 의원님. 듣고 있어요.
 
-046. DAN: First, on the rule for the minibus, I'll vote yes, because I promised you the rules, and I keep promises, even the ones I don't like.
+046. DAN: First, on the rule for the minibus, I'll vote yes. I promised you the rules, and I keep promises, even the ones I don't like.
     댄: 첫째, 미니버스 규칙 표결엔 찬성하겠습니다. 규칙은 약속드렸고, 전 약속을 지킵니다. 마음에 안 드는 약속이라도요.
 
 047. VANCE: Good, so what's the second thing?
     밴스: 좋아요. 그럼 두 번째는요?
 
-048. DAN: Second, on final passage, I'll vote no because of the forty thousand beds on page four hundred and twelve, since you told me I could vote my district on bills.
+048. DAN: Second, on final passage, I'll vote no because of the forty thousand beds on page four hundred and twelve. You told me I could vote my district on bills.
     댄: 둘째, 최종 통과엔 반대하겠습니다. 412쪽의 침상 4만 개 때문입니다. 법안은 지역구 뜻대로 투표해도 된다고 하셨으니까요.
 
 049. VANCE: I did, in January, but when I said it, I meant bills that don't need you.
@@ -194,7 +194,7 @@
 060. DAN: And if I vote no, what happens to page nine hundred and six?
     댄: 그럼 제가 반대하면 906쪽은 어떻게 되나요?
 
-061. VANCE: The Senate will change the bill, as it always does, and then it comes back here for a final version, and not every project survives that trip.
+061. VANCE: The Senate will change the bill, as it always does. Then it comes back here for a final version, and not every project survives that trip.
     밴스: 상원이 법안을 바꿀 거예요. 늘 그러니까요. 그다음 최종안으로 여기 돌아오는데, 모든 사업이 그 여정에서 살아남진 않아요.
 
 062. DAN: Is that a threat, Madam Speaker?
@@ -224,7 +224,7 @@
 070. DAN: Before, not after: yes on the rule, and no on the bill.
     댄: 후가 아니라 전에요. 규칙엔 찬성, 법안엔 반대.
 
-071. CARLOS: I'm voting yes, and I'm sorry, but the Agriculture part has the pecan research money, and El Paso has been waiting four years.
+071. CARLOS: I'm voting yes, and I'm sorry. The Agriculture part has the pecan research money, and El Paso has been waiting four years.
     카를로스: 전 찬성할 거예요. 미안해요. 농업 부분에 피칸 연구비가 있어요. 엘패소가 4년을 기다렸어요.
 
 072. DAN: Don't be sorry, Carlos, because you're voting your district, and I'm voting mine.
@@ -254,7 +254,7 @@
 080. DAN: It still feels like the worst part. What about your side, are they all voting no?
     댄: 여전히 제일 나쁜 부분 같아요. 그쪽은요? 전원 반대예요?
 
-081. HANK: All of them are voting no, because my leader thinks a shutdown hurts your side more. I think it hurts the post office guy in Glasgow, but I'm voting no anyway, since it has too few beds for us and too many for you.
+081. HANK: All of them are voting no, because my leader thinks a shutdown hurts your side more. I think it hurts the post office guy in Glasgow, but I'm voting no anyway. It has too few beds for us and too many for you.
     행크: 전원 반대야. 우리 지도자는 셧다운이 당신네 쪽에 더 타격이라고 생각해. 난 글래스고 우체국 직원한테 타격이라고 보지만. 그래도 반대할 거야. 우리한텐 침상이 너무 적고 당신네한텐 너무 많거든.
 
 082. BEN: The rule passed, sir, two nineteen to two-eleven, and final passage is in ten minutes.
@@ -302,7 +302,7 @@
 096. JUNE: Every camera in the gallery just turned to the red names, all four of them.
     준: 방청석 카메라가 전부 빨간 이름 쪽으로 돌았어요. 네 명 다.
 
-097. AISHA: It's two-sixteen yes and two-twelve no with one minute left, so it's going to pass, Dan, because somebody on our side came back.
+097. AISHA: It's two-sixteen yes and two-twelve no with one minute left. It's going to pass, Dan, because somebody on our side came back.
     아이샤: 찬성 216, 반대 212. 1분 남았어요. 통과될 거예요, 댄. 우리 쪽에서 누가 돌아왔어요.
 
 098. BEN: One of the three the whip lost changed to yes in the last minute, because someone made him an offer.
@@ -344,13 +344,13 @@
 110. DAN: Okay, I'm coming in.
     댄: 알았어요, 갈게요.
 
-111. BEN: Here, on page nine ninety-one, is the list of projects for the Bronx, New York, so look where Mott Haven was.
+111. BEN: Here, on page nine ninety-one, is the list of projects for the Bronx, New York. Look where Mott Haven was.
     벤: 여기요. 991쪽, 뉴욕 브롱크스 사업 목록이에요. 모트 헤이븐이 있던 자리를 보세요.
 
 112. DAN: It's not there, because the list skips from Morrisania to Parkchester.
     댄: 없네요. 목록이 모리사니아에서 파크체스터로 건너뛰어요.
 
-113. BEN: It was struck, sir, removed, all two million four hundred thousand dollars, while every other project in the Bronx survived, every single one.
+113. BEN: It was struck, sir, removed, all two million four hundred thousand dollars. Every other project in the Bronx survived, every single one.
     벤: 삭제됐습니다, 의원님. 240만 달러 전부요. 브롱크스의 다른 사업은 전부 살아남았어요. 하나도 빠짐없이.
 
 114. DAN: So it was just ours.
@@ -362,7 +362,7 @@
 116. DAN: She told me, "Not every project survives the trip," and she didn't lie, because she described it.
     댄: 의장님이 말했어요. "모든 사업이 그 여정에서 살아남진 않는다." 거짓말이 아니었어요. 설명이었죠.
 
-117. LEILA: Is it gone? Ben texted me, so I took a cab from Adams Morgan in my pajamas, and I need to know if it's really gone.
+117. LEILA: Is it gone? Ben texted me, so I took a cab from Adams Morgan in my pajamas. I need to know if it's really gone.
     레일라: 없어졌어요? 벤이 문자 보내서 애덤스 모건에서 잠옷 차림으로 택시 타고 왔어요. 진짜 없어진 거예요?
 
 118. DAN: It's gone, Leila, and I'm sorry. It's page nine ninety-one.
@@ -401,7 +401,7 @@
 129. LEILA: Don't be nice to me right now, Ben, because I can't handle it.
     레일라: 지금은 친절하게 하지 마요, 벤. 감당이 안 돼요.
 
-130. DAN: Yolanda, it's Dan Reardon, and I'm sorry to call so early on a Saturday, but I have to tell you something before you read it.
+130. DAN: Yolanda, it's Dan Reardon, and I'm sorry to call so early on a Saturday. I have to tell you something before you read it.
     댄: 욜랜다? 댄 레이든이에요. 토요일 아침 일찍 죄송해요. 기사로 읽기 전에 말씀드릴 게 있어요.
 
 131. YOLANDA: It's gone, isn't it? I can hear it in your voice, because I've been doing this thirty years, Congressman, and I know the sound.
@@ -416,7 +416,7 @@
 134. DAN: Yes.
     댄: 네.
 
-135. YOLANDA: Congressman, half the children I see have a father or an uncle or a cousin in one of those beds, so do you think I'd want a wing built with that vote? I'm angry, but I'm not angry at you.
+135. YOLANDA: Congressman, half the children I see have a father or an uncle or a cousin in one of those beds. Do you think I'd want a wing built with that vote? I'm angry, but I'm not angry at you.
     욜란다: 의원님, 제가 보는 아이들 절반은 아빠나 삼촌이나 사촌이 그 침상 중 하나에 있어요. 그런 표로 지은 병동을 제가 원할 것 같아요? 화나요. 그래도 의원님한테 화난 건 아니에요.
 
 136. DAN: Leila says she'll write the request again in February.
@@ -437,7 +437,7 @@
 141. DAN: Did I do the right thing, Dee?
     댄: 제가 옳은 일을 한 걸까요, 디?
 
-142. DEE: Honey, I voted yes in 2014, and I told you what that cost me. You voted no in 2029, and it cost you a clinic, so both of us paid, but you'll sleep better than I did, and that's the only difference I know.
+142. DEE: Honey, I voted yes in 2014, and I told you what that cost me. You voted no in 2029, and it cost you a clinic, so both of us paid. But you'll sleep better than I did, and that's the only difference I know.
     디: 자기, 난 2014년에 찬성했어요. 그게 나한테 뭘 치르게 했는지 말했죠. 당신은 2029년에 반대했고, 클리닉을 치렀어요. 둘 다 값을 치른 거예요. 그래도 당신이 나보다 잘 잘 거예요. 내가 아는 차이는 그것뿐이에요.
 
 143. DAN: And what about the Speaker, after all this?
@@ -452,16 +452,16 @@
 146. DAN: I'll vote no again and then go home, because Sunday is Elena's.
     댄: 다시 반대하고 집에 갈게. 일요일은 엘레나 거니까.
 
-147. BEN: Sir, there's one more thing before you go, because I saw it on the weather service at four a.m. There's a storm off the Carolinas that's turning north, and they're saying New York next weekend.
+147. BEN: Sir, there's one more thing before you go. I saw it on the weather service at four a.m. There's a storm off the Carolinas that's turning north, and they're saying New York next weekend.
     벤: 의원님, 가시기 전에 하나만 더요. 새벽 네 시에 기상청에서 봤는데, 캐롤라이나 앞바다에 폭풍이 있어요. 북쪽으로 방향을 틀고 있고, 다음 주말에 뉴욕이래요.
 
 148. DAN: How big is it?
     댄: 얼마나 커요?
 
-149. BEN: It's big enough that FEMA has a page for it already, and I printed it, sir, all thirty-one pages, so I'll read it on the train with you.
+149. BEN: It's big enough that FEMA has a page for it already. I printed it, sir, all thirty-one pages, so I'll read it on the train with you.
     벤: 연방재난관리청이 벌써 페이지를 만들 정도로요. 출력했어요, 의원님. 31쪽이요. 기차에서 같이 읽을게요.
 
-150. DAN: Then let me say it plain, Ben: we lost a clinic this morning, and next weekend we might lose a lot more, so bring the thirty-one pages.
+150. DAN: Then let me say it plain, Ben. We lost a clinic this morning, and next weekend we might lose a lot more, so bring the thirty-one pages.
     댄: 그럼 쉽게 말할게요, 벤. 오늘 아침 클리닉을 잃었어요. 다음 주말엔 훨씬 더 많이 잃을지도 몰라요. 31쪽 가져와요.
 
 ---
