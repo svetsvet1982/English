@@ -20,13 +20,13 @@
 002. HANK: Six a.m. means that woman keeps ranch hours, and Jolene would approve.
     행크: 새벽 여섯 시라니, 그 여자 목장 시간으로 사네. 졸린이 좋아하겠어.
 
-003. VICTORIA: Good morning. Mr. Fitch is here for the company, and I'm here for the company too, which is the first thing I need to say: not for Mr. Holloway, but for the company.
+003. VICTORIA: Good morning. Mr. Fitch is here for the company, and I'm here for the company too. That's the first thing I need to say: not for Mr. Holloway, but for the company.
     빅토리아: 좋은 아침이에요. 피치 변호사는 회사를 대리해 왔고, 저도 회사를 대리해 왔어요. 그게 제가 먼저 말해야 할 거예요. 홀러웨이 씨가 아니라 회사를 위해서요.
 
 004. DAN: Those used to be the same thing for a long time, Victoria.
     댄: 오랫동안 그 둘은 같은 거였잖아, 빅토리아.
 
-005. VICTORIA: They were the same thing until Thursday at eleven forty, but now they're not, because Mr. Holloway has hired his own lawyer, who will call you himself.
+005. VICTORIA: They were the same thing until Thursday at eleven forty, but now they're not. Mr. Holloway has hired his own lawyer, who will call you himself.
     빅토리아: 목요일 열한 시 40분까진 같았어. 이제는 아니야. 홀러웨이 씨가 자기 변호사를 따로 선임했고, 그 변호사가 직접 연락할 거야.
 
 006. MARCY: What happened on Thursday at eleven forty? Tell us exactly.
@@ -38,7 +38,7 @@
 008. HANK: And you checked it.
     행크: 그래서 확인했고.
 
-009. VICTORIA: On Thursday night, I read all six hundred eleven emails between Holloway and the regional directors from April and May 2030, and I found one.
+009. VICTORIA: On Thursday night, I read all six hundred eleven emails between Holloway and the regional directors from April and May 2030. I found one.
     빅토리아: 목요일 밤에 2030년 4월과 5월에 홀러웨이와 지역 책임자들이 주고받은 이메일 611통을 전부 읽었어요. 그리고 하나를 찾았죠.
 
 010. FITCH: The company is producing it voluntarily, with a letter titled "Correction of the Record."
@@ -65,8 +65,8 @@
 017. MARCY: Ms. Ashford, I have to ask whether you knew about this email before Thursday.
     마시: 애시퍼드 변호사님, 목요일 전에 이 이메일을 알았는지 여쭤봐야겠어요.
 
-018. VICTORIA: No, and I'll say it under oath if you want. I joined in March 2029, and this is from 2030, but it went from his account to one regional office, because lawyers aren't copied on the emails people don't want lawyers to read.
-    빅토리아: 아니요. 원하시면 선서하고 말할게요. 전 2029년 3월에 입사했고 이건 2030년 건데, 그 사람 계정에서 지역 사무소 한 곳으로만 갔어요. 변호사가 안 읽었으면 하는 이메일엔 변호사를 참조로 안 넣거든요.
+018. VICTORIA: No, and I'll say it under oath if you want. I joined in March 2029, and this is from 2030. It went from his account to one regional office, because lawyers aren't copied on the emails people don't want lawyers to read.
+    빅토리아: 아니요. 원하시면 선서하고 말할게요. 전 2029년 3월에 입사했고 이건 2030년 거예요. 그 사람 계정에서 지역 사무소 한 곳으로만 갔어요. 변호사가 안 읽었으면 하는 이메일엔 변호사를 참조로 안 넣거든요.
 
 019. DAN: Then how did you find it on Thursday night?
     댄: 그럼 목요일 밤엔 어떻게 찾았어?
@@ -77,7 +77,7 @@
 021. HANK: And then what? You can't just hand Congress your boss's email.
     행크: 그다음엔요? 상사 이메일을 그냥 의회에 넘길 순 없잖소.
 
-022. VICTORIA: No, I can't, and I didn't, because I reported up the ladder, which means I took it above him to the board's audit committee of three independent directors on Friday morning at seven a.m.
+022. VICTORIA: No, I can't, and I didn't, because I reported up the ladder. That means I took it above him to the board's audit committee of three independent directors on Friday morning at seven a.m.
     빅토리아: 안 되죠. 그래서 안 넘겼어요. 상부로 보고했죠. 그 사람보다 위, 이사회 감사위원회의 독립 이사 세 명한테 금요일 아침 일곱 시에 가져갔다는 뜻이에요.
 
 023. DAN: You took it up the ladder.
@@ -89,10 +89,10 @@
 025. HANK: And the board just said yes, all of them?
     행크: 그리고 이사회가 그냥 다 찬성했소?
 
-026. VICTORIA: Two of three said yes, but the third wanted to fight, the one who likes envelopes at seven a.m., and he lost two to one.
+026. VICTORIA: Two of three said yes, but the third wanted to fight, the one who likes envelopes at seven a.m. He lost two to one.
     빅토리아: 셋 중 둘이 찬성했어요. 아침 일곱 시 봉투 좋아하는 세 번째는 싸우고 싶어 했지만 2대 1로 졌죠.
 
-027. FITCH: The board directed the company to correct the record and to cooperate fully with the subcommittee, so Ms. Ashford's letter is on behalf of the company.
+027. FITCH: The board directed the company to correct the record and to cooperate fully with the subcommittee. So Ms. Ashford's letter is on behalf of the company.
     피치: 이사회는 회사에 기록을 정정하고 소위원회에 전적으로 협조하라고 지시했습니다. 애시퍼드 변호사의 서한은 회사를 대표하는 겁니다.
 
 028. VICTORIA: My client is the company, not the man who runs it. Somebody told me that in 2026, and I think it was a man named Fisk.
@@ -101,7 +101,7 @@
 029. DAN: It was Fisk, on the forty-fifth floor, and he was right.
     댄: 피스크 맞아. 45층. 그리고 그 사람 말이 맞았어.
 
-030. VICTORIA: Don't look at me like that, because I'm not a hero. The company is protecting itself, because a company that lets its CEO lie to Congress is a company that loses its federal contracts.
+030. VICTORIA: Don't look at me like that, because I'm not a hero. The company is protecting itself. A company that lets its CEO lie to Congress is a company that loses its federal contracts.
     빅토리아: 그런 눈으로 보지 마. 난 영웅이 아니야. 회사가 자기를 지키는 거지. CEO가 의회에 거짓말하게 두는 회사는 연방 계약을 잃는 회사니까.
 
 031. HANK: That's still the right thing, ma'am, whatever the reason is.
@@ -134,7 +134,7 @@
 040. HANK: A timekeeping issue, the day after the hearing.
     행크: 근태 문제라니. 청문회 다음 날에.
 
-041. FRANK: It was the day after the text message was shown on television, and nobody said her name, but there are only nine nurses on that text.
+041. FRANK: It was the day after the text message was shown on television. Nobody said her name, but there are only nine nurses on that text.
     프랭크: 문자가 텔레비전에 나온 다음 날이야. 아무도 이름을 말하진 않았지만 그 문자엔 간호사가 아홉 명뿐이거든.
 
 042. BROUSSARD: Chairman, it's Renée Broussard, and I'm filing a retaliation complaint with the inspector general this morning, with a copy to your subcommittee. The date is the shield, and we have the date.
@@ -242,13 +242,13 @@
 076. DAN: Then you'll sign it yourself, Madam Chair, today?
     댄: 그럼 오늘 직접 서명하시는 거예요, 위원장님?
 
-077. HOLT: I'll sign, and I'd like both of you to sign under me, the chairman and the ranking member of the subcommittee, so both sides are there.
+077. HOLT: I'll sign, and I'd like both of you to sign under me, the chairman and the ranking member of the subcommittee. That way both sides are there.
     홀트: 서명할게요. 그리고 두 분 다 제 아래에 서명했으면 해요. 소위원장과 소위원회 간사, 양쪽 다요.
 
 078. HANK: Curtis Vail called me this morning about it, Madam Chair.
     행크: 커티스 베일이 오늘 아침에 그 일로 전화했소, 위원장님.
 
-079. HOLT: I know, because he called me too and said a referral from this subcommittee would look like "a former lawyer punishing his old client." What did you tell him?
+079. HOLT: I know, because he called me too. He said a referral from this subcommittee would look like "a former lawyer punishing his old client." What did you tell him?
     홀트: 알아요. 나한테도 전화해서 이 소위원회의 회부는 "전직 변호사가 옛 의뢰인을 벌주는 것"처럼 보일 거라더군요. 뭐라고 했어요?
 
 080. HANK: I told him the email wasn't written by a former lawyer but by the CEO, and the correction wasn't sent by Reardon but by the company.
@@ -323,7 +323,7 @@
 103. ROSE: Your father waited thirty years for a pension that was his, so long is normal. Now eat.
     로즈: 네 아버지는 자기 연금을 30년 기다렸어. 오래 걸리는 게 정상이야. 이제 먹어.
 
-104. GUS: Chairman, don't turn around, but a tall lady in a very nice coat just walked in, in June, and she asked for "the usual, whatever he has."
+104. GUS: Chairman, don't turn around. A tall lady in a very nice coat just walked in, in June, and she asked for "the usual, whatever he has."
     거스: 위원장님, 돌아보지 마. 6월에 아주 좋은 코트 입은 키 큰 여자가 방금 들어와서 "저 사람 먹는 거, 늘 먹는 걸로"래.
 
 105. ROSE: That's the tall one, so Gus, give her the good booth, not the one by the bathroom.
@@ -350,7 +350,7 @@
 112. DAN: Why? You saved the company, Victoria, so they should give you a raise.
     댄: 왜? 네가 회사를 살렸잖아, 빅토리아. 월급을 올려 줘야지.
 
-113. VICTORIA: I sat eight inches from a man who lied under oath, and I didn't stop him in the room, but fixed it on paper four days later. That's my job, but it's not who I want to be next.
+113. VICTORIA: I sat eight inches from a man who lied under oath. I didn't stop him in the room, but I fixed it on paper four days later. That's my job, but it's not who I want to be next.
     빅토리아: 난 선서하고 거짓말하는 사람 20센티 옆에 앉아 있었어. 그 자리에서 막지 않고 나흘 뒤에 종이로 고쳤지. 그게 내 일이지만, 다음에 되고 싶은 사람은 아니야.
 
 114. ROSE: Good, because women should leave when the room is wrong. I told my sister that in 1979, but she stayed for forty years.
@@ -443,13 +443,13 @@
 143. DAN: Ridgeline was the website in 2028 with the forged memo.
     댄: 리지라인이면 2028년에 위조 메모 올린 그 웹사이트잖아요.
 
-144. REBECCA: It's the same people three years later with better ads, but I need a second source to connect them to a name, and I still don't have one.
+144. REBECCA: It's the same people three years later with better ads. But I need a second source to connect them to a name, and I still don't have one.
     레베카: 3년 뒤에 광고만 좋아진 같은 사람들이에요. 근데 이름이랑 연결하려면 두 번째 출처가 필요한데 아직 없어요.
 
 145. DAN: Frank's been working on that wall for three years now.
     댄: 프랭크가 그 벽을 3년째 파고 있어요.
 
-146. REBECCA: Tell Frank the wall just got taller, because Neighbors for Safe Streets bought two million dollars of airtime in New York this week, for a congressman who isn't on the ballot until next year.
+146. REBECCA: Tell Frank the wall just got taller. Neighbors for Safe Streets bought two million dollars of airtime in New York this week, for a congressman who isn't on the ballot until next year.
     레베카: 프랭크한테 벽이 더 높아졌다고 전해 주세요. 그 단체가 이번 주에 뉴욕에서 방송 시간 2백만 달러어치를 샀어요. 내년에야 투표용지에 오르는 의원 하나 때문에요.
 
 147. DAN: That's two million dollars for a House race that doesn't exist yet.
