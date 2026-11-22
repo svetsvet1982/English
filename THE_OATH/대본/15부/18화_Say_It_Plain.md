@@ -14,452 +14,452 @@
 
 ## 대본
 
-001. WHITFIELD: Tuesday, September twenty-third. Nine-forty a.m. United Nations headquarters, New York. Sir, the room behind the hall. Brazil speaks at ten. You speak second.
-    휘트필드: 9월 23일 화요일. 오전 9시 40분. 뉴욕 유엔 본부. 대통령님, 총회장 뒤 대기실입니다. 브라질이 열 시에 연설합니다. 대통령님은 두 번째입니다.
+001. WHITFIELD: It's Tuesday, September twenty-third, at nine-forty a.m. at United Nations headquarters in New York. Sir, this is the room behind the hall, and Brazil speaks at ten, so you speak second.
+    휘트필드: 9월 23일 화요일 오전 9시 40분, 뉴욕 유엔 본부입니다. 대통령님, 여기는 회의장 뒤편 방입니다. 브라질이 열 시에 연설하고, 대통령님은 두 번째입니다.
 
-002. OWEN: Sir. Eleven pages. One blank. Fill the blank now? Forty minutes.
-    오언: 대통령님. 열한 쪽. 빈 쪽 하나. 지금 채우실래요? 40분이요.
+002. OWEN: Sir, you have eleven pages and one blank. Do you want to fill the blank now, while we still have forty minutes?
+    오언: 대통령님, 열한 쪽에 빈 쪽 하나예요. 아직 40분 있을 때 지금 채우실래요?
 
-003. DAN: No. Not yet, Owen. I'll know when I'm up there.
-    댄: 아니요. 아직은요, 오언. 거기 올라가면 알 거예요.
+003. DAN: No, not yet, Owen, because I'll know when I'm up there.
+    댄: 아니요, 아직이에요, 오언. 저기 올라가면 알게 될 거예요.
 
-004. OWEN: Six years, sir. I've never sent you up with a blank page.
-    오언: 6년이에요, 대통령님. 빈 쪽 들려서 올려 보낸 적은 없어요.
+004. OWEN: In six years, sir, I've never sent you up with a blank page.
+    오언: 6년 동안, 대통령님, 빈 페이지를 들려 올려 보낸 적이 한 번도 없어요.
 
-005. AISHA: Owen. Facts first. The blank is one line. One line is a choice.
-    아이샤: 오언. 사실 먼저. 빈칸은 한 줄이에요. 한 줄은 선택이고요.
+005. AISHA: Owen, facts first: the blank is one line, and one line is a choice.
+    아이샤: 오언, 사실 먼저요. 빈 건 한 줄이고, 한 줄은 선택이에요.
 
-006. OWEN: That's a very calm thing to say to a speechwriter.
-    오언: 연설문 작가한테 하기엔 아주 침착한 말이네요.
+006. OWEN: That's a very calm thing to say to a speechwriter, Aisha.
+    오언: 연설문 작가한테 하기엔 아주 침착한 말이네요, 아이샤.
 
-007. AISHA: I'm not calm. I'm from the Bronx. We look calm when terrified.
-    아이샤: 침착한 거 아니에요. 브롱크스 출신이에요. 무서울 때 침착해 보여요.
+007. AISHA: I'm not calm, because I'm from the Bronx, and we look calm when we're terrified.
+    아이샤: 침착한 거 아니에요. 전 브롱크스 출신이라 겁먹었을 때 침착해 보이는 거예요.
 
-008. JUNE: Here's the headline I wrote last night, just in case. "Reardon at the UN: One Word." I'm not telling anyone the word.
-    준: 혹시 몰라서 어젯밤에 써 둔 헤드라인이에요. "유엔의 레이든: 한 단어." 그 단어는 아무한테도 말 안 해요.
+008. JUNE: Here's the headline I wrote last night, just in case: "Reardon at the UN: One Word." I'm not telling anyone the word.
+    준: 만약을 위해 어젯밤 써 둔 헤드라인이에요. "유엔의 레이든: 한 단어." 그 단어는 아무한테도 안 알려 줄 거예요.
 
-009. DAN: You told Gus, June. And Gus tells everybody everything.
-    댄: 거스한테는 말했잖아요, 준. 거스는 다들한테 다 말해요.
+009. DAN: You told Gus, June, and Gus tells everybody everything.
+    댄: 거스한테는 말했잖아요, 준. 거스는 모두한테 모든 걸 말해요.
 
-010. JUNE: Gus doesn't count. Gus is family. And he promised not to tell anybody except Marty.
-    준: 거스는 안 쳐요. 가족이니까요. 그리고 마티 말고는 아무한테도 안 말한다고 약속했어요.
+010. JUNE: Gus doesn't count, because Gus is family, and he promised not to tell anybody except Marty.
+    준: 거스 씨는 안 쳐요. 가족이니까요. 그리고 마티 아저씨 말고는 아무한테도 말 안 하기로 약속했어요.
 
-011. ADLER: Sir. A few facts about the room. The podium is green marble. The speaker has a red light at fifteen minutes. Most leaders ignore it.
-    애들러: 대통령님. 회의장에 관한 사실 몇 가지요. 연단은 초록 대리석이에요. 15분이 되면 빨간불이 켜져요. 대부분의 지도자는 무시하죠.
+011. ADLER: Sir, here are a few facts about the room. The podium is green marble, and the speaker has a red light at fifteen minutes, which most leaders ignore.
+    애들러: 대통령님, 회의장에 관한 사실 몇 가지요. 연단은 녹색 대리석이고, 15분이 되면 빨간불이 켜지는데 대부분의 지도자가 무시해요.
 
-012. ADLER: A hundred and ninety-three countries today. Valdoria's new President is in row twelve. Saran's next to her. In normal socks, he says.
-    애들러: 오늘 193개국이요. 발도리아 새 대통령은 열두째 줄에 있고요. 사란이 옆에 있어요. 보통 양말 신었대요.
+012. ADLER: There are a hundred and ninety-three countries here today. Valdoria's new President is in row twelve, and Saran is next to her, in normal socks, he says.
+    애들러: 오늘 193개국이 와 있어요. 발도리아 새 대통령은 열두째 줄에 있고, 사란이 그 옆에 있어요. 본인 말로는 보통 양말을 신었대요.
 
-013. MCALLISTER: And sir, our guest gallery is full. You invited six. All came.
-    매캘리스터: 그리고 대통령님, 손님 방청석이 꽉 찼어요. 여섯 분 초대, 다 오셨어요.
+013. MCALLISTER: And sir, our guest gallery is full, because you invited six people and all of them came.
+    매캘리스터: 그리고 대통령님, 손님 방청석이 꽉 찼습니다. 여섯 명을 초대하셨는데 전원 왔습니다.
 
 014. DAN: Who?
-    댄: 누구요?
+    댄: 누가요?
 
-015. MCALLISTER: Carmen Ortiz. Judge Ward and his mother. Chuy. Andrei, fifteen. And Bernice Bellamy, who asked when it ends.
-    매캘리스터: 카르멘 오르티스. 워드 판사와 어머니. 추이. 열다섯 살 안드레이. 그리고 언제 끝나냐고 물으신 버니스 벨러미 여사님.
+015. MCALLISTER: Carmen Ortiz is there, and Judge Ward with his mother, and Chuy. There's also Andrei, who's fifteen, and Bernice Bellamy, who asked when it ends.
+    매캘리스터: 카르멘 오르티스, 워드 판사와 어머니, 그리고 추이요. 열다섯 살 안드레이도 있고, 언제 끝나냐고 물으신 버니스 벨라미 여사님도 계십니다.
 
-016. AISHA: Mama has church at seven. She'd like you under fifteen minutes. Facts first.
-    아이샤: 엄마가 일곱 시에 교회 가요. 15분 안에 끝내 주셨으면 한대요. 사실 먼저.
+016. AISHA: Mama has church at seven, so she'd like you under fifteen minutes. Facts first.
+    아이샤: 엄마가 일곱 시에 교회 가셔야 해서 15분 안으로 하셨으면 한대요. 사실 먼저요.
 
-017. ELENA: Danny. Come here for a second. Away from the binders.
-    엘레나: 대니. 잠깐 이리 와. 바인더에서 떨어져서.
+017. ELENA: Danny, come here for a second, away from the binders.
+    엘레나: 대니, 잠깐 이리 와. 바인더들에서 떨어져서.
 
 018. DAN: I'm fine.
-    댄: 괜찮아.
+    댄: 나 괜찮아.
 
-019. ELENA: That's one. I'm not counting today. I'm just telling you I heard it.
-    엘레나: 하나. 오늘은 안 셀게. 들었다는 것만 말해 주는 거야.
+019. ELENA: That's one, but I'm not counting today. I'm just telling you I heard it.
+    엘레나: 그게 한 번이야. 하지만 오늘은 안 셀 거야. 그냥 들었다고 말하는 거야.
 
-020. ELENA: Look at me. You were born nine miles from this building. At the last stop. You're not giving a speech to the world. You're giving it to the back row. They're the same room.
-    엘레나: 나 봐. 당신은 이 건물에서 9마일 떨어진 곳에서 태어났어. 종점에서. 세상에 연설하는 게 아니야. 뒷줄에 하는 거야. 같은 방이야.
+020. ELENA: Look at me. You were born nine miles from this building, at the last stop. You're not giving a speech to the world, you're giving it to the back row, and they're the same room.
+    엘레나: 나 봐. 당신은 이 건물에서 9마일 떨어진 종점에서 태어났어. 세상에 연설하는 게 아니라 뒷줄에 하는 거야. 둘은 같은 방이야.
 
-021. DAN: Howard said that. Last month. On the balcony. Almost exactly.
-    댄: 하워드가 그 말 했어. 지난달에. 발코니에서. 거의 똑같이.
+021. DAN: Howard said almost exactly that last month, on the balcony.
+    댄: 하워드가 지난달 발코니에서 거의 똑같은 말을 했어.
 
-022. ELENA: Howard's watching on TV. With Gloria. In his new apartment. With the elevator. Victoria texted me. She says he's wearing a tie. For a television.
-    엘레나: 하워드는 TV로 보고 계셔. 글로리아랑. 새 아파트에서. 엘리베이터 있는 데서. 빅토리아가 문자했어. TV 보는데 넥타이 매셨대.
+022. ELENA: Howard's watching on TV with Gloria in his new apartment with the elevator. Victoria texted me that he's wearing a tie for a television.
+    엘레나: 하워드는 엘리베이터 있는 새 아파트에서 글로리아랑 TV로 보고 계셔. 빅토리아가 문자했는데, TV 보는데 넥타이를 매셨대.
 
-023. ZOE: Dad. As your lawyer. The oath has thirty-five words. Speeches can improve.
-    조이: 아빠. 아빠 변호사로서. 선서는 서른다섯 단어. 연설은 고쳐도 돼.
+023. ZOE: Dad, as your lawyer: the oath has thirty-five words, but speeches are allowed to improve.
+    조이: 아빠, 변호사로서 말하는데, 선서는 서른다섯 단어지만 연설은 고쳐도 돼.
 
-024. SAM: Dad. Can we just do this and get pizza? On Ditmars.
-    샘: 아빠. 그냥 하고 피자 먹으면 안 돼? 디트마스에서.
+024. SAM: Dad, can we just do this and get pizza on Ditmars afterward?
+    샘: 아빠, 그냥 이거 하고 나서 디트마스에서 피자 먹으면 안 돼?
 
-025. DAN: Sam, we're not going to Ditmars. It's not on the schedule.
+025. DAN: Sam, we're not going to Ditmars, because it's not on the schedule.
     댄: 샘, 디트마스엔 안 가. 일정에 없어.
 
-026. KEVIN: Not everything's on the schedule, Danny. You taught me that.
-    케빈: 세상일이 다 일정에 있는 건 아니야, 형. 형이 가르쳐 줬잖아.
+026. KEVIN: Not everything's on the schedule, Danny, and you're the one who taught me that.
+    케빈: 세상일이 다 일정에 있는 건 아니야, 형. 그거 형이 가르쳐 줬잖아.
 
-027. NICKY: Uncle Dan. I'm on traffic outside. First Avenue. I stop the cars.
-    니키: 삼촌. 밖에서 교통 정리해요. 1번 애비뉴. 제가 차 세워요.
+027. NICKY: Uncle Dan, I'm on traffic duty outside on First Avenue, so I'm the one who stops the cars.
+    니키: 삼촌, 저 밖에서 퍼스트 애비뉴 교통 정리해요. 차 세우는 게 저예요.
 
-028. PGA: Ten twenty-four a.m. The General Assembly Hall. The President of the United States. I invite him to take the floor.
-    총회 의장: 오전 10시 24분. 총회장. 미합중국 대통령. 연단으로 모시겠습니다.
+028. PGA: It's ten twenty-four a.m. in the General Assembly Hall. I now invite the President of the United States to take the floor.
+    총회 의장: 오전 10시 24분, 총회 회의장입니다. 이제 미합중국 대통령께 발언을 청합니다.
 
-029. JUNE: Take the floor. For the people at home. It means it's your turn to speak. The whole room belongs to you for fifteen minutes.
-    준: 연단에 오르다. 집에 계신 분들을 위해서요. 말할 차례라는 뜻이에요. 15분 동안 방 전체가 그 사람 거예요.
+029. JUNE: For the people at home, "take the floor" means it's your turn to speak, so the whole room belongs to you for fifteen minutes.
+    준: 집에 계신 분들을 위해 말하면, '발언대에 선다'는 건 말할 차례라는 뜻이에요. 15분 동안 회의장 전체가 그 사람 거죠.
 
-030. AUDIENCE: Applause.
-    청중: (박수)
+030. AUDIENCE: Applause fills the hall as the President walks to the podium.
+    청중: (대통령이 연단으로 걸어가자 회의장에 박수가 가득하다)
 
-031. DAN: Mr. President. Delegates. I was born about nine miles from this building. In Astoria, Queens. At the last stop.
-    댄: 의장님. 대표 여러분. 저는 이 건물에서 약 9마일 떨어진 곳에서 태어났습니다. 퀸즈 애스토리아. 종점에서요.
+031. DAN: Mr. President and delegates, I was born about nine miles from this building, in Astoria, Queens, at the last stop.
+    댄: 의장님, 대표 여러분. 저는 이 건물에서 9마일쯤 떨어진 퀸즈 애스토리아의 종점에서 태어났습니다.
 
-032. DAN: My father drove a bus there for twenty-six years. My mother ran a kitchen. She died in April. She asked me to keep this short.
-    댄: 아버지는 거기서 26년 동안 버스를 몰았습니다. 어머니는 부엌을 운영했습니다. 4월에 돌아가셨습니다. 짧게 하라고 하셨죠.
+032. DAN: My father drove a bus there for twenty-six years, and my mother ran a kitchen. She died in April, and she asked me to keep this short.
+    댄: 아버지는 거기서 26년 동안 버스를 몰았고, 어머니는 부엌을 꾸렸습니다. 어머니는 4월에 돌아가셨는데, 짧게 하라고 하셨습니다.
 
-033. AUDIENCE: Laughter.
-    청중: (웃음)
+033. AUDIENCE: Laughter ripples through the delegates, row after row of them.
+    청중: (대표들 사이로 줄줄이 웃음이 번진다)
 
-034. DAN: In my life, I've raised my right hand five times and made a promise. As a lawyer. As a congressman. As a senator. Twice as President.
-    댄: 저는 살면서 다섯 번 오른손을 들고 약속했습니다. 변호사로서. 하원의원으로서. 상원의원으로서. 대통령으로서 두 번.
+034. DAN: In my life, I've raised my right hand five times and made a promise: as a lawyer, as a congressman, as a senator, and twice as President.
+    댄: 저는 평생 다섯 번 오른손을 들고 약속했습니다. 변호사로, 하원의원으로, 상원의원으로, 그리고 대통령으로 두 번.
 
-035. DAN: Each time, I said I was promising the Constitution. That was true. In April, my mother asked me a harder question. She asked me who I was really promising.
-    댄: 매번 저는 헌법에 약속한다고 말했습니다. 사실이었습니다. 4월에 어머니는 더 어려운 질문을 했습니다. 진짜로 누구에게 약속하는 거냐고요.
+035. DAN: Each time, I said I was promising the Constitution, and that was true. But in April, my mother asked me a harder question, which was who I was really promising.
+    댄: 매번 저는 헌법에 약속한다고 했고, 그건 사실이었습니다. 하지만 4월에 어머니가 더 어려운 질문을 하셨습니다. 제가 진짜로 누구에게 약속했느냐고요.
 
-036. DAN: She wrote the answer on a napkin. One word. Then she crossed it out. She said I had to say it myself.
-    댄: 어머니는 냅킨에 답을 썼습니다. 한 단어. 그리고 지웠습니다. 제가 직접 말해야 한다고 했습니다.
+036. DAN: She wrote the answer on a napkin in one word, and then she crossed it out. She said I had to say it myself.
+    댄: 어머니는 냅킨에 한 단어로 답을 쓰고는 줄을 그어 지웠습니다. 제가 직접 말해야 한다고 하셨죠.
 
-037. DAN: So I'm going to try. Here. In front of a hundred and ninety-three countries. Which is about the size of her kitchen on Easter.
-    댄: 그래서 해 보려고 합니다. 여기서. 193개국 앞에서. 부활절 날 어머니 부엌 크기쯤 되는 곳에서요.
+037. DAN: So I'm going to try, here, in front of a hundred and ninety-three countries, which is about the size of her kitchen on Easter.
+    댄: 그래서 여기, 193개국 앞에서 해 보려 합니다. 부활절 어머니 부엌이 대략 이 정도 크기였죠.
 
-038. AUDIENCE: Laughter.
-    청중: (웃음)
+038. AUDIENCE: More laughter, warmer this time, and someone in the back claps.
+    청중: (이번엔 더 따뜻한 웃음, 뒤쪽에서 누군가 손뼉을 친다)
 
-039. DAN: My father had a rule on his bus. "Everybody gets a good morning." The man in the suit. The kid who was a quarter short. Everybody.
-    댄: 아버지는 버스에 규칙이 하나 있었습니다. "모두에게 좋은 아침 인사를." 양복 입은 남자에게도. 25센트 모자란 아이에게도. 모두에게.
+039. DAN: My father had a rule on his bus: "Everybody gets a good morning." That meant the man in the suit, the kid who was a quarter short, and everybody else.
+    댄: 아버지는 버스에서 규칙이 하나 있었습니다. "누구에게나 좋은 아침 인사를." 양복 입은 남자에게도, 25센트 모자란 아이에게도, 모두에게요.
 
-040. DAN: A lawyer I worked for told me in 2026, "Everybody gets a lawyer. That's the whole system." Last month, at eighty-four, he corrected it. He said that's only the first promise.
-    댄: 2026년에 제가 모시던 변호사가 "누구에게나 변호사는 있다. 그게 제도 전부다"라고 했습니다. 지난달, 여든넷에 그분이 그 말을 고쳤습니다. 그건 첫 번째 약속일 뿐이라고요.
+040. DAN: A lawyer I worked for told me in 2026, "Everybody gets a lawyer. That's the whole system." Last month, at eighty-four, he corrected it and said that's only the first promise.
+    댄: 제가 모시던 변호사가 2026년에 "누구에게나 변호사는 있다. 그게 제도 전부다"라고 했습니다. 지난달 여든넷의 그분은 그게 첫 번째 약속일 뿐이라고 정정했습니다.
 
-041. DAN: And at the last stop in Astoria, the conductor says the same thing every night. "Last stop. Everybody off." I've heard it ten thousand times.
-    댄: 그리고 애스토리아 종점에서 차장은 매일 밤 같은 말을 합니다. "종점입니다. 모두 내리세요." 저는 그 말을 만 번은 들었습니다.
+041. DAN: And at the last stop in Astoria, the conductor says the same thing every night, "Last stop, everybody off," and I've heard it ten thousand times.
+    댄: 그리고 애스토리아 종점에선 차장이 매일 밤 같은 말을 합니다. "종점입니다, 모두 내리세요." 저는 그 말을 만 번은 들었습니다.
 
 042. DAN: So here's my answer, Ma. I promised everybody.
-    댄: 그러니 이게 제 대답이에요, 엄마. 저는 모두에게 약속했습니다.
+    댄: 그래서 제 대답은 이거야, 엄마. 저는 모두에게 약속했습니다.
 
 043. AUDIENCE: Silence.
-    청중: (침묵)
+    청중: (정적)
 
 044. CARMEN: Everybody.
     카르멘: 모두.
 
-045. DAN: Not just the people who voted for me. Everybody. The ones who didn't. The ones who can't vote yet.
-    댄: 저를 찍은 사람들만이 아닙니다. 모두. 안 찍은 사람들. 아직 투표할 수 없는 사람들.
+045. DAN: I don't mean just the people who voted for me, but everybody, including the ones who didn't and the ones who can't vote yet.
+    댄: 저를 찍은 사람들만 말하는 게 아닙니다. 모두입니다. 찍지 않은 사람도, 아직 투표할 수 없는 사람도요.
 
-046. CHUY: That's me. I can't vote yet. Not for a long time.
-    추이: 저예요. 아직 투표 못 해요. 한참 동안은요.
+046. CHUY: That's me, because I can't vote yet, and not for a long time.
+    추이: 그게 저예요. 아직 투표 못 하거든요. 앞으로도 오랫동안요.
 
-047. DAN: And I've learned that if you promise everybody, you find out very quickly that everybody includes people in other countries. People you'll never meet.
-    댄: 그리고 모두에게 약속하면, 그 '모두'에 다른 나라 사람들도 들어간다는 걸 아주 빨리 알게 된다는 걸 배웠습니다. 결코 만나지 못할 사람들이요.
+047. DAN: And I've learned that if you promise everybody, you find out very quickly that everybody includes people in other countries, people you'll never meet.
+    댄: 그리고 모두에게 약속하면, 그 모두에 다른 나라 사람들, 평생 만나지 못할 사람들도 들어간다는 걸 아주 빨리 알게 된다는 걸 배웠습니다.
 
-048. DAN: I want to tell you about three of them. Then I'll sit down. My mother is watching from somewhere with a clock.
-    댄: 그중 세 명 얘기를 하겠습니다. 그다음 앉겠습니다. 어머니가 어딘가에서 시계를 들고 보고 계시니까요.
+048. DAN: I want to tell you about three of them, and then I'll sit down, because my mother is watching from somewhere with a clock.
+    댄: 그중 세 사람에 대해 말씀드리고 앉겠습니다. 어머니가 어딘가에서 시계를 들고 보고 계시거든요.
 
-049. AUDIENCE: Laughter.
-    청중: (웃음)
+049. AUDIENCE: Laughter, and a few people glance at the red light.
+    청중: (웃음, 몇몇이 빨간불을 힐끗 본다)
 
-050. DAN: The first is a scientist in Valdoria. During last year's coup, the soldiers guarding his reactor left at night. He stayed.
-    댄: 첫 번째는 발도리아의 과학자입니다. 작년 쿠데타 때 원자로를 지키던 군인들이 밤에 떠났습니다. 그는 남았습니다.
+050. DAN: The first is a scientist in Valdoria. During last year's coup, the soldiers guarding his reactor left at night, but he stayed.
+    댄: 첫 번째는 발도리아의 과학자입니다. 작년 쿠데타 때 원자로를 지키던 군인들이 밤에 떠났지만, 그는 남았습니다.
 
-051. DAN: He locked the inner door of a vault full of uranium. He put the key in his sock. He counted forty-four seals with a flashlight and wrote them in a logbook.
-    댄: 그는 우라늄으로 가득한 금고의 안쪽 문을 잠갔습니다. 열쇠를 양말에 넣었습니다. 손전등으로 봉인 마흔네 개를 세고 일지에 적었습니다.
+051. DAN: He locked the inner door of a vault full of uranium and put the key in his sock. Then he counted forty-four seals with a flashlight and wrote them in a logbook.
+    댄: 그는 우라늄이 가득한 금고의 안쪽 문을 잠그고 열쇠를 양말에 넣었습니다. 그리고 손전등으로 봉인 마흔네 개를 세어 일지에 적었습니다.
 
-052. DAN: He wasn't political. He didn't care who was president that week. He cared that nothing left the building.
-    댄: 그는 정치하는 사람이 아니었습니다. 그 주에 누가 대통령인지 상관없었습니다. 건물에서 아무것도 안 나가는 게 중요했습니다.
+052. DAN: He wasn't political, and he didn't care who was president that week. He cared that nothing left the building.
+    댄: 그는 정치적인 사람이 아니었고, 그 주에 누가 대통령인지 상관하지 않았습니다. 건물에서 아무것도 나가지 않는 것만 신경 썼습니다.
 
 053. SARAN: Lenko.
     사란: 렌코.
 
-054. DAN: That uranium is electricity in Tennessee now. Valdoria held its election in January, as promised. The man who kept that promise is in row twelve. In normal socks.
-    댄: 그 우라늄은 이제 테네시의 전기입니다. 발도리아는 약속대로 1월에 선거를 치렀습니다. 그 약속을 지킨 사람이 열두째 줄에 있습니다. 보통 양말을 신고요.
+054. DAN: That uranium is electricity in Tennessee now, and Valdoria held its election in January, as promised. The man who kept that promise is in row twelve, in normal socks.
+    댄: 그 우라늄은 이제 테네시의 전기입니다. 발도리아는 약속대로 1월에 선거를 치렀습니다. 그 약속을 지킨 사람이 열두째 줄에 보통 양말을 신고 앉아 있습니다.
 
-055. AUDIENCE: Laughter. Applause.
-    청중: (웃음, 박수)
+055. AUDIENCE: Laughter, and then applause from row twelve, led by Saran himself.
+    청중: (웃음, 그리고 사란이 앞장선 열두째 줄의 박수)
 
 056. DAN: The second is a doctor in a small hospital in a port city called Port Calden. At two in the morning, she wrote a short post about twenty-two patients she didn't understand.
     댄: 두 번째는 포트 콜든이라는 항구 도시 작은 병원의 의사입니다. 새벽 두 시에 그녀는 이해할 수 없는 환자 스물두 명에 관한 짧은 글을 썼습니다.
 
-057. DAN: She was afraid she was wrong. A doctor who rings the alarm for nothing can lose her job. She wrote it anyway. Her country reported it in twenty-four hours.
-    댄: 그녀는 자기가 틀렸을까 봐 두려웠습니다. 아무것도 아닌 걸로 경보를 울린 의사는 일자리를 잃을 수 있습니다. 그래도 썼습니다. 그녀의 나라는 24시간 안에 보고했습니다.
+057. DAN: She was afraid she was wrong, because a doctor who rings the alarm for nothing can lose her job. She wrote it anyway, and her country reported it in twenty-four hours.
+    댄: 그녀는 틀렸을까 봐 두려웠습니다. 아무것도 아닌 걸로 경보를 울린 의사는 일자리를 잃을 수 있으니까요. 그래도 썼고, 그녀의 나라는 24시간 안에 보고했습니다.
 
-058. DAN: Because of that post, my country had fourteen cases instead of thousands. People said nothing happened. That's the point. Nothing happened here because something happened there, and somebody wrote it down.
-    댄: 그 글 덕분에 우리나라는 확진자가 수천 명이 아니라 열네 명이었습니다. 사람들은 아무 일도 없었다고 했습니다. 그게 요점입니다. 여기서 아무 일도 없었던 건 거기서 무슨 일이 있었고, 누군가 그걸 적었기 때문입니다.
+058. DAN: Because of that post, my country had fourteen cases instead of thousands, and people said nothing happened. That's the point: nothing happened here because something happened there, and somebody wrote it down.
+    댄: 그 글 덕분에 우리나라는 수천 명이 아니라 열네 명의 확진자로 끝났고, 사람들은 아무 일도 없었다고 했습니다. 그게 요점입니다. 거기서 무슨 일이 있었고 누군가 그걸 적었기 때문에, 여기서 아무 일도 없었던 겁니다.
 
-059. DAN: Her name is Anja Marek. Forty-seven people died in her city in those first weeks. Eleven of them she knew by name. I want this room to know hers.
-    댄: 그녀의 이름은 안야 마렉입니다. 처음 몇 주 동안 그녀의 도시에서 마흔일곱 명이 죽었습니다. 그중 열한 명은 이름을 아는 사람이었습니다. 이 방이 그녀의 이름을 알았으면 합니다.
+059. DAN: Her name is Anja Marek. Forty-seven people died in her city in those first weeks, and she knew eleven of them by name, so I want this room to know hers.
+    댄: 그녀의 이름은 안야 마렉입니다. 처음 몇 주 동안 그녀의 도시에서 마흔일곱 명이 죽었고, 그중 열한 명은 그녀가 이름을 아는 사람이었습니다. 이 회의장이 그녀의 이름을 알았으면 합니다.
 
-060. AUDIENCE: Applause.
-    청중: (박수)
+060. AUDIENCE: Long applause rises from every section of the hall, and it doesn't stop.
+    청중: (회의장 곳곳에서 긴 박수가 일어나 멈추지 않는다)
 
-061. DAN: So I'm asking every country in this room for one thing. When you see something you don't understand, write it down early. And tell the world. And when a country tells the truth first, don't punish it. Help it.
-    댄: 그래서 이 방의 모든 나라에 한 가지를 부탁합니다. 이해할 수 없는 걸 보면 일찍 적으십시오. 그리고 세상에 알리십시오. 그리고 어떤 나라가 먼저 진실을 말하면, 벌하지 마십시오. 도우십시오.
+061. DAN: So I'm asking every country in this room for one thing. When you see something you don't understand, write it down early and tell the world. And when a country tells the truth first, don't punish it. Help it.
+    댄: 그래서 이 회의장의 모든 나라에 한 가지를 부탁드립니다. 이해할 수 없는 걸 보면 일찍 적고 세상에 알리십시오. 그리고 어떤 나라가 먼저 진실을 말하면 벌하지 마십시오. 도우십시오.
 
-062. DAN: The third is a boy. Fifteen. On a fishing boat built for twelve, carrying sixty-one people. He held his backpack.
-    댄: 세 번째는 한 소년입니다. 열다섯 살. 예순한 명을 태운 열두 명용 어선에서. 배낭을 꼭 쥐고 있었습니다.
+062. DAN: The third is a boy of fifteen on a fishing boat built for twelve and carrying sixty-one people, and he held on to his backpack.
+    댄: 세 번째는 열두 명용 어선에 예순한 명이 탄 배 위의 열다섯 살 소년입니다. 그는 배낭을 꼭 붙들고 있었습니다.
 
-063. DAN: It had his school books in it. He had an exam in March. A sea captain from Baltimore pulled him onto her deck. Her engineer taught him algebra in the galley. Badly.
-    댄: 거기엔 학교 책이 들어 있었습니다. 3월에 시험이 있었거든요. 볼티모어 출신 선장이 그를 갑판으로 끌어올렸습니다. 기관사가 조리실에서 대수를 가르쳤습니다. 형편없이요.
+063. DAN: It had his school books in it, because he had an exam in March. A sea captain from Baltimore pulled him onto her deck, and her engineer taught him algebra in the galley, badly.
+    댄: 그 안엔 학교 책이 들어 있었습니다. 3월에 시험이 있었거든요. 볼티모어 출신 선장이 그를 갑판으로 끌어올렸고, 그 배의 기관사가 조리실에서 대수를 가르쳤습니다. 서툴게요.
 
-064. AUDIENCE: Laughter.
-    청중: (웃음)
+064. AUDIENCE: Laughter fills the hall, and Andrei covers his face with both hands.
+    청중: (회의장에 웃음이 퍼지고, 안드레이가 두 손으로 얼굴을 가린다)
 
-065. DAN: In March, he took his exam in Yuma, Arizona, in a room a man who cuts lettuce cleaned for him. He got a ninety-four. He's in the gallery today.
-    댄: 3월에 그는 애리조나 유마에서 시험을 봤습니다. 상추 자르는 한 남자가 청소해 준 방에서요. 94점을 받았습니다. 오늘 방청석에 있습니다.
+065. DAN: In March, he took his exam in Yuma, Arizona, in a room that a man who cuts lettuce cleaned for him. He got a ninety-four, and he's in the gallery today.
+    댄: 3월에 그는 애리조나 유마에서, 양상추 따는 남자가 청소해 준 방에서 시험을 봤습니다. 94점을 받았고, 오늘 방청석에 와 있습니다.
 
 066. ANDREI: Ninety-four.
     안드레이: 94점.
 
-067. DAN: My country didn't take everybody who needed help that year. We took a hundred thousand. It wasn't enough. It was real. Those are different. I'm not proud of the gap. I'm proud of the boy.
-    댄: 우리나라는 그해 도움이 필요한 모든 사람을 받지는 못했습니다. 10만 명을 받았습니다. 충분하지 않았습니다. 진짜였습니다. 그 둘은 다릅니다. 그 차이가 자랑스럽진 않습니다. 그 소년이 자랑스럽습니다.
+067. DAN: My country didn't take everybody who needed help that year, but we took a hundred thousand. It wasn't enough. It was real, and those are different. I'm not proud of the gap, but I'm proud of the boy.
+    댄: 그해 우리나라는 도움이 필요한 모두를 받지는 못했지만 10만 명을 받았습니다. 충분하지 않았습니다. 하지만 진짜였고, 그 둘은 다릅니다. 그 차이가 자랑스럽진 않지만, 그 소년은 자랑스럽습니다.
 
-068. LEILA: He said it. Out loud. Not enough. Real. At the UN.
-    레일라: 말했어요. 소리 내서. 충분하지 않다. 진짜다. 유엔에서.
+068. LEILA: He said it out loud at the UN: not enough, but real.
+    레일라: 유엔에서 소리 내서 말하셨네요. 충분하지 않지만, 진짜라고.
 
-069. DAN: A scientist. A doctor. A boy. None of them voted for me. All of them were in my oath. That's what "everybody" means. It's not a nice word. It's a heavy one.
-    댄: 과학자 한 명. 의사 한 명. 소년 한 명. 그중 누구도 저를 찍지 않았습니다. 그래도 모두 제 선서 안에 있었습니다. 그게 '모두'의 뜻입니다. 듣기 좋은 단어가 아닙니다. 무거운 단어입니다.
+069. DAN: A scientist, a doctor, and a boy: none of them voted for me, but all of them were in my oath. That's what "everybody" means. It's not a nice word. It's a heavy one.
+    댄: 과학자, 의사, 소년. 누구도 저를 찍지 않았지만 모두 제 선서 안에 있었습니다. 그게 '모두'의 의미입니다. 듣기 좋은 단어가 아닙니다. 무거운 단어입니다.
 
-070. DAN: I leave office in January 2045. Someone else will stand here. I hope they say it shorter. So does my speechwriter.
-    댄: 저는 2045년 1월에 퇴임합니다. 다른 누군가가 여기 설 겁니다. 더 짧게 말하길 바랍니다. 제 연설문 작가도요.
+070. DAN: I leave office in January 2045, and someone else will stand at this podium. I hope they say it shorter, and so does my speechwriter.
+    댄: 저는 2045년 1월에 퇴임하고, 다른 누군가가 이 연단에 설 겁니다. 그 사람은 더 짧게 말하길 바랍니다. 제 연설문 작가도 그렇고요.
 
 071. OWEN: Shorter.
     오언: 더 짧게.
 
-072. AUDIENCE: Laughter.
-    청중: (웃음)
+072. AUDIENCE: Laughter comes from the American delegation, loudest of all from Owen.
+    청중: (미국 대표단에서 웃음, 그중 오언이 제일 크게 웃는다)
 
-073. DAN: My father had another rule. "If you write it down, somebody has to honor it." The Charter of this institution is written down. So is every treaty in this building.
-    댄: 아버지에겐 규칙이 하나 더 있었습니다. "적어 두면 누군가는 지켜야 한다." 이 기구의 헌장은 적혀 있습니다. 이 건물의 모든 조약도 그렇습니다.
+073. DAN: My father had another rule: "If you write it down, somebody has to honor it." The Charter of this institution is written down, and so is every treaty in this building.
+    댄: 아버지에게는 또 다른 규칙이 있었습니다. "적어 두면 누군가는 지켜야 한다." 이 기구의 헌장도 적혀 있고, 이 건물의 모든 조약도 적혀 있습니다.
 
-074. DAN: The words are already there. They've been there since 1945. Nobody needs a new speech. We need people who read every page. And then keep the promise to everybody in it.
-    댄: 단어들은 이미 거기 있습니다. 1945년부터 있었습니다. 아무도 새 연설이 필요하지 않습니다. 모든 쪽을 읽는 사람들이 필요합니다. 그리고 그 안의 모두에게 약속을 지키는 사람들이요.
+074. DAN: The words are already there, and they've been there since 1945. Nobody needs a new speech. We need people who read every page, and then keep the promise to everybody in it.
+    댄: 말은 이미 거기 있습니다. 1945년부터 있었습니다. 새 연설은 필요 없습니다. 모든 페이지를 읽고, 거기 담긴 모두에게 한 약속을 지키는 사람들이 필요합니다.
 
 075. DAN: Let me say it plain.
     댄: 쉽게 말하겠습니다.
 
-076. OWEN: The blank page.
-    오언: 빈 쪽이에요.
+076. OWEN: This is it, the blank page, right here.
+    오언: 바로 여기예요, 그 빈 페이지.
 
-077. AISHA: Owen. Breathe.
-    아이샤: 오언. 숨 쉬어요.
+077. AISHA: Owen, just breathe for a second, because he knows.
+    아이샤: 오언, 잠깐 숨 좀 쉬어요. 대통령님은 알아요.
 
-078. DAN: I promised everybody. So did every person in this hall who ever raised a right hand. My mother crossed out the word so I would say it myself. Now you've heard it. Thank you.
-    댄: 저는 모두에게 약속했습니다. 오른손을 들어 본 이 회의장의 모든 사람도 그랬습니다. 어머니는 제가 직접 말하라고 그 단어를 지웠습니다. 이제 여러분이 들으셨습니다. 감사합니다.
+078. DAN: I promised everybody, and so did every person in this hall who ever raised a right hand. My mother crossed out the word so I would say it myself, and now you've heard it. Thank you.
+    댄: 저는 모두에게 약속했습니다. 이 회의장에서 오른손을 들어 본 모든 분도 그랬습니다. 어머니는 제가 직접 말하도록 그 단어를 지웠고, 이제 여러분이 들으셨습니다. 감사합니다.
 
-079. AUDIENCE: Applause. Standing.
-    청중: (기립 박수)
+079. AUDIENCE: Applause begins, and then the whole hall rises to its feet.
+    청중: (박수가 시작되고, 이내 회의장 전체가 기립한다)
 
-080. OWEN: Eleven minutes, forty seconds. He didn't fill the blank. He just stopped. It was the right place to stop. I didn't write it.
-    오언: 11분 40초. 빈칸을 안 채우셨어요. 그냥 멈추셨어요. 딱 멈출 자리였어요. 제가 쓴 게 아니에요.
+080. OWEN: It was eleven minutes and forty seconds, and he didn't fill the blank, he just stopped. It was the right place to stop, and I didn't write it.
+    오언: 11분 40초였어요. 빈 곳을 채우지 않고 그냥 멈추셨어요. 멈추기에 딱 맞는 곳이었어요. 제가 쓴 것도 아니고요.
 
-081. JUNE: Okay, so here's the headline. "Reardon to the World: 'I Promised Everybody.'" Three words in the quote. Owen, you can't cut it.
-    준: 자, 헤드라인은 이거예요. "레이든, 세계에: '나는 모두에게 약속했다.'" 인용부호 안에 세 단어. 오언, 못 잘라요.
+081. JUNE: Okay, so here's the headline: "Reardon to the World: 'I Promised Everybody.'" That's three words in the quote, Owen, so you can't cut it.
+    준: 자, 헤드라인은 이거예요. "레이든이 세계에: '나는 모두에게 약속했다.'" 인용문이 세 단어예요, 오언. 그러니 못 잘라요.
 
-082. OWEN: I wouldn't dare.
-    오언: 감히 못 하죠.
+082. OWEN: I wouldn't dare cut it, June, not today of all days.
+    오언: 감히 못 자르죠, 준. 하필 오늘 같은 날엔요.
 
-083. SARAN: Ten-fifty a.m. The hallway. You told them about Lenko. He'll be unbearable.
-    사란: 오전 10시 50분. 복도. 렌코 얘기를 하셨군요. 이제 못 말릴 거예요.
+083. SARAN: It's ten-fifty a.m. in the hallway, and you told them about Lenko, so he'll be unbearable.
+    사란: 오전 10시 50분, 복도예요. 렌코 얘기를 하셨으니 그 사람 이제 감당이 안 될 거예요.
 
-084. DAN: Viktor. Normal socks.
-    댄: 빅토르. 보통 양말.
+084. DAN: Viktor, I see you're wearing normal socks today, as promised.
+    댄: 빅토르, 약속대로 오늘 보통 양말 신었네요.
 
-085. SARAN: Normal socks. A normal job. Paperwork. My nephew is seventeen now. He wants to be a doctor. Like her.
-    사란: 보통 양말. 보통 일자리. 서류 일. 조카가 이제 열일곱이에요. 의사가 되고 싶대요. 그 여자처럼요.
+085. SARAN: Normal socks, a normal job, and paperwork. My nephew is seventeen now, and he wants to be a doctor, like her.
+    사란: 보통 양말, 보통 직업, 서류 일이죠. 조카가 이제 열일곱인데, 그 의사처럼 의사가 되고 싶대요.
 
-086. SARAN: Mr. President, I want to say one thing. Not a lecture. A friend's sentence. You asked me in Geneva what I needed to say when I went home. Today I know what you'll say.
-    사란: 대통령님, 하나만 말하고 싶어요. 설교 말고요. 친구로서 한 문장. 제네바에서 집에 가서 뭘 말해야 하냐고 물으셨죠. 오늘은 대통령님이 뭘 말할지 알겠네요.
+086. SARAN: Mr. President, I want to say one thing, not a lecture, but a friend's sentence. You asked me in Geneva what I needed to say when I went home, and today I know what you'll say.
+    사란: 대통령님, 하나만 말하고 싶어요. 설교가 아니라 친구로서 한 문장이요. 제네바에서 집에 가면 무슨 말을 해야 하냐고 물으셨죠. 오늘은 대통령님이 뭐라고 할지 알아요.
 
 087. DAN: What?
-    댄: 뭐요?
+    댄: 뭔데요?
 
-088. SARAN: You'll say, "I'm home." You've been saying "nine miles" all morning. A diplomat notices a number repeated. Go home, Mr. President.
-    사란: "집에 왔다"고 하시겠죠. 아침 내내 "9마일"이라고 하셨어요. 외교관은 되풀이되는 숫자를 알아채요. 집에 가세요, 대통령님.
+088. SARAN: You'll say, "I'm home," because you've been saying "nine miles" all morning, and a diplomat notices a number repeated. Go home, Mr. President.
+    사란: "집에 왔다"고 하실 거예요. 오전 내내 "9마일"이라고 하셨거든요. 외교관은 반복되는 숫자를 알아채요. 집에 가세요, 대통령님.
 
-089. CARMEN: Mr. President. I'm not asking for anything. You said "everybody." Mateo was in that word. I heard him in it. That's all.
-    카르멘: 대통령님. 아무것도 부탁하지 않아요. "모두"라고 하셨죠. 마테오도 그 단어 안에 있었어요. 그 안에서 그 애 목소리가 들렸어요. 그게 다예요.
+089. CARMEN: Mr. President, I'm not asking for anything. You said "everybody," and Mateo was in that word, because I heard him in it. That's all.
+    카르멘: 대통령님, 아무것도 부탁하지 않아요. "모두"라고 하셨죠. 마테오가 그 단어 안에 있었어요. 그 안에서 그 애를 들었어요. 그게 다예요.
 
-090. DAN: Mrs. Ortiz. He was always in it. From the first day.
-    댄: 오르티스 부인. 그 애는 늘 그 안에 있었어요. 첫날부터요.
+090. DAN: Mrs. Ortiz, he was always in it, from the very first day.
+    댄: 오르티스 부인, 그 애는 처음부터 늘 그 안에 있었어요.
 
-091. BEN: Sir. Texts. The Speaker. One word. "Counted." Then a second. "Everybody. Even Indiana. Good."
-    벤: 대통령님. 문자요. 의장님이요. 한 단어. "셌음." 그리고 두 번째. "모두. 인디애나까지. 좋네요."
+091. BEN: Sir, you have texts. The Speaker sent one word, "Counted," and then a second message: "Everybody, even Indiana, and that's good."
+    벤: 대통령님, 문자가 왔어요. 의장님이 "셌음"이라고 한 단어 보내시고, 두 번째로 "모두. 인디애나까지. 좋네요."라고 보내셨어요.
 
-092. BEN: And Senator Pruitt. "Montana heard it. Come to the fair." The Vice President. "Mamá says A. No minus."
-    벤: 그리고 프루잇 상원의원. "몬태나가 들었다. 박람회에 와." 부통령님. "엄마가 A래요. 마이너스 없이."
+092. BEN: Senator Pruitt says, "Montana heard it, so come to the fair." And the Vice President says, "Mamá says A, with no minus."
+    벤: 프루잇 의원님은 "몬태나가 들었어. 박람회에 와."라고 하셨고요. 부통령님은 "엄마가 A래요. 마이너스 없이."라고 하셨어요.
 
-093. ELENA: And Victoria. About Howard. "He took his tie off when you said 'everybody.' Then he put it back on. He says you looked at the room. — V."
-    엘레나: 그리고 빅토리아. 하워드에 관해서. "당신이 '모두'라고 할 때 넥타이를 풀었어. 그러고 다시 맸어. 당신이 방을 봤대. — V."
+093. ELENA: And Victoria wrote about Howard: "He took his tie off when you said 'everybody,' and then he put it back on. He says you looked at the room." She signed it V.
+    엘레나: 그리고 빅토리아가 하워드 얘기를 보냈어. "당신이 '모두'라고 할 때 넥타이를 풀었다가 다시 맸어요. 당신이 회의장을 봤대요." V라고 서명했어.
 
-094. MCALLISTER: Sir. The rest of the day. Four bilateral meetings. A dinner tonight. The motorcade leaves for the airport at five-thirty.
-    매캘리스터: 대통령님. 나머지 일정입니다. 양자 회담 네 건. 오늘 밤 만찬. 차량 행렬은 다섯 시 반에 공항으로 출발합니다.
+094. MCALLISTER: Sir, for the rest of the day, you have four bilateral meetings and a dinner tonight, and the motorcade leaves for the airport at five-thirty.
+    매캘리스터: 대통령님, 남은 일정은 양자 회담 네 건과 오늘 밤 만찬이고, 차량 행렬은 다섯 시 반에 공항으로 출발합니다.
 
-095. DAN: Anne. The airport is in Queens. Just so you know.
-    댄: 앤. 공항은 퀸즈에 있어요. 그냥 알려 드리는 거예요.
+095. DAN: Anne, just so you know, the airport is in Queens.
+    댄: 앤, 참고로 말하는데, 공항은 퀸즈에 있어요.
 
-096. MCALLISTER: LaGuardia is in Queens, sir. Yes. I'm aware of that.
-    매캘리스터: 라과디아는 퀸즈에 있죠, 대통령님. 네. 알고 있습니다.
+096. MCALLISTER: LaGuardia is in Queens, sir, yes, and I'm aware of that.
+    매캘리스터: 라과디아는 퀸즈에 있죠, 대통령님. 네, 저도 압니다.
 
 097. DAN: And Ditmars Boulevard is right on the way to LaGuardia.
-    댄: 그리고 디트마스 대로는 라과디아 가는 길에 바로 있어요.
+    댄: 그리고 디트마스 대로가 라과디아 가는 길에 바로 있잖아요.
 
-098. MCALLISTER: It's near the way, sir. Not on it. There's a difference.
-    매캘리스터: 길 근처죠, 대통령님. 길 위가 아니라. 차이가 있어요.
+098. MCALLISTER: It's near the way, sir, but not on it, and there's a difference.
+    매캘리스터: 가는 길 근처지 길 위는 아닙니다, 대통령님. 차이가 있죠.
 
 099. DAN: How near?
-    댄: 얼마나 근처요?
+    댄: 얼마나 근처예요?
 
-100. WHITFIELD: Four minutes, sir. If we turn on Thirty-first. I checked this morning.
-    휘트필드: 4분입니다. 31번가에서 꺾으면요. 오늘 아침에 확인했습니다.
+100. WHITFIELD: It's four minutes, sir, if we turn on Thirty-first, because I checked this morning.
+    휘트필드: 31번가로 꺾으면 4분입니다, 대통령님. 오늘 아침에 확인했습니다.
 
-101. MCALLISTER: Hope is not a plan, Agent Whitfield. You know that.
+101. MCALLISTER: Hope is not a plan, Agent Whitfield, and you know that.
     매캘리스터: 희망은 계획이 아니에요, 휘트필드 요원. 알잖아요.
 
-102. WHITFIELD: It's not hope, General. It's a route. I wrote it down.
-    휘트필드: 희망이 아닙니다, 장군님. 경로입니다. 적어 뒀어요.
+102. WHITFIELD: It's not hope, General, it's a route, and I wrote it down.
+    휘트필드: 희망이 아니라 경로입니다, 장군님. 적어 뒀습니다.
 
-103. WHITFIELD: Five-thirty p.m. The Queensboro Bridge. We're moving. Four minutes. Not five.
-    휘트필드: 오후 5시 30분. 퀸즈보로 다리. 이동합니다. 4분. 5분 말고요.
+103. WHITFIELD: It's five-thirty p.m. on the Queensboro Bridge, and we're moving, with four minutes, not five.
+    휘트필드: 오후 5시 30분, 퀸즈보로 다리입니다. 이동 중입니다. 5분 말고 4분입니다.
 
-104. KEVIN: Danny. It's Kevin. I'm on Thirty-first Street. The porch light goes on in twenty-two minutes. Do you want me to wait for you?
-    케빈: 형. 케빈이야. 31번가에 있어. 22분 뒤에 현관 불 켜. 형 기다릴까?
+104. KEVIN: Danny, it's Kevin, and I'm on Thirty-first Street. The porch light goes on in twenty-two minutes, so do you want me to wait for you?
+    케빈: 형, 케빈이야. 31번가에 있어. 현관 불은 22분 뒤에 켜. 형 올 때까지 기다릴까?
 
-105. DAN: No. Pop's time. Turn it on at five fifty-two.
-    댄: 아니. 아빠 시간이야. 5시 52분에 켜.
+105. DAN: No, it should be Pop's time, so turn it on at five fifty-two.
+    댄: 아니, 아빠 시간에 해야지. 5시 52분에 켜.
 
-106. NICKY: Uncle Dan. I'm at the corner of Ditmars and Thirty-first. Traffic. I asked for the post. The sergeant said, "Your uncle doesn't need you." I said, "You don't know my uncle."
-    니키: 삼촌. 디트마스랑 31번가 모퉁이에 있어요. 교통 정리요. 제가 이 자리 달라고 했어요. 경사님이 "삼촌은 너 필요 없다"고 하셨어요. 제가 "우리 삼촌을 모르시네요"라고 했죠.
+106. NICKY: Uncle Dan, I'm at the corner of Ditmars and Thirty-first on traffic, because I asked for the post. The sergeant said, "Your uncle doesn't need you," and I said, "You don't know my uncle."
+    니키: 삼촌, 저 디트마스랑 31번가 모퉁이에서 교통 정리해요. 이 자리 달라고 했거든요. 경사님이 "네 삼촌은 네가 필요 없어"라고 하길래, "제 삼촌을 모르시네요"라고 했어요.
 
-107. GUS: Five forty-five p.m. The Athena. Ditmars Boulevard. Everybody in. Rose's rule. Booth four for the family. Booth three, Marty. Booth two, Mrs. Kalogeropoulos.
-    거스: 오후 5시 45분. 아테나. 디트마스 대로. 다들 들어와. 로즈 규칙. 가족은 4번 부스. 3번 부스는 마티. 2번 부스는 칼로게로풀로스 부인.
+107. GUS: It's five forty-five p.m. at the Athena on Ditmars Boulevard, so everybody in, by Rose's rule. The family gets booth four, Marty gets booth three, and Mrs. Kalogeropoulos gets booth two.
+    거스: 오후 5시 45분, 디트마스 대로 아테나야. 로즈 규칙대로 다들 들어와. 가족은 4번 부스, 마티는 3번, 칼로게로풀로스 부인은 2번.
 
-108. MARTY: I'm eighty-six. I've been in booth three since noon. I watched on Gus's TV. Kid, you didn't explain the word. Good. Free advice. Taken.
-    마티: 나 여든여섯이야. 정오부터 3번 부스에 있었어. 거스 TV로 봤어. 얘야, 단어를 설명 안 했더라. 잘했어. 공짜 조언. 받아들여졌네.
+108. MARTY: I'm eighty-six, and I've been in booth three since noon, watching on Gus's TV. Kid, you didn't explain the word, which is good, because my free advice was taken.
+    마티: 난 여든여섯이고, 정오부터 3번 부스에서 거스 TV로 봤어. 얘야, 그 단어를 설명 안 했더라. 좋아. 내 무료 조언을 받아들였네.
 
-109. FRANK: I'm seventy-seven. Florida again. I've been lied to by better. Not today.
-    프랭크: 일흔일곱이야. 또 플로리다에서. 더 고수들한테 속아 봤지. 오늘은 아니야.
+109. FRANK: I'm seventy-seven and came from Florida again. I've been lied to by better, but not today.
+    프랭크: 난 일흔일곱인데 또 플로리다에서 왔어. 나보다 고수한테 속아 봤지만, 오늘은 아니야.
 
-110. MRS. KALOGEROPOULOS: I dropped my fork once. When you said "everybody." Rose said I would.
-    칼로게로풀로스 부인: 포크 한 번 떨어뜨렸어. 네가 "모두"라고 할 때. 로즈가 그럴 거라고 했어.
+110. MRS. KALOGEROPOULOS: I dropped my fork once, when you said "everybody," and Rose said I would.
+    칼로게로풀로스 부인: 네가 "모두"라고 할 때 포크를 한 번 떨어뜨렸어. 로즈가 그럴 거라고 했지.
 
-111. SAM: Dad. Is the heat on?
-    샘: 아빠. 난방 켜져 있어?
+111. SAM: Dad, is the heat on in here, at the Athena?
+    샘: 아빠, 여기 아테나 난방 켜져 있어?
 
-112. GUS: In the Athena, the heat is always on. Since 1971. It's the grill. It never turns off. Like me.
-    거스: 아테나에선 난방이 늘 켜져 있어. 1971년부터. 그릴 때문이야. 절대 안 꺼져. 나처럼.
+112. GUS: In the Athena, the heat is always on, since 1971, because of the grill. It never turns off, like me.
+    거스: 아테나는 1971년부터 늘 난방이 켜져 있어. 그릴 때문에. 절대 안 꺼져. 나처럼.
 
-113. ZOE: That's the first time anybody's answered that question with "yes."
-    조이: 그 질문에 누가 '예'라고 대답한 건 처음이네.
+113. ZOE: That's the first time anybody's ever answered that question with "yes."
+    조이: 그 질문에 누가 '응'이라고 대답한 건 처음이야.
 
-114. GUS: Sit. Four minutes. The agent said four. I'll be fast. The usual?
-    거스: 앉아. 4분. 요원이 4분이랬어. 빨리 할게. 늘 먹던 걸로?
+114. GUS: Sit down, because the agent said four minutes, so I'll be fast. The usual?
+    거스: 앉아. 요원이 4분이라고 했으니 빨리 할게. 늘 먹던 걸로?
 
 115. DAN: Two eggs over easy, rye toast, and coffee I'll complain about.
     댄: 반숙 달걀 두 개, 호밀 토스트, 그리고 불평할 커피.
 
-116. GUS: The eggs take six minutes. You have four. So just the coffee. Two-ninety.
-    거스: 달걀은 6분 걸려. 넌 4분 있고. 그러니까 커피만. 2달러 90센트.
+116. GUS: The eggs take six minutes, and you have four, so it's just the coffee, for two-ninety.
+    거스: 달걀은 6분 걸리는데 넌 4분 있어. 그러니까 커피만. 2달러 90센트.
 
 117. DAN: Two-ninety?
     댄: 2달러 90센트?
 
-118. GUS: Since 2035. Your coffee costs two-ninety. Like the subway. Like the campaign. Everybody pays two-ninety for your coffee. Even you.
-    거스: 2035년부터. 네 커피는 2달러 90센트야. 지하철처럼. 선거 운동처럼. 다들 네 커피에 2달러 90센트 내. 너도.
+118. GUS: It's been two-ninety since 2035, like the subway and the campaign. Everybody pays two-ninety for your coffee, even you.
+    거스: 2035년부터 네 커피는 2달러 90센트야. 지하철이랑 선거 운동처럼. 모두가 네 커피에 2달러 90센트를 내. 너도.
 
-119. DAN: Here, Gus. Two dollars and ninety cents. Exact change. Count it.
-    댄: 여기, 거스. 2달러 90센트. 딱 맞게. 세어 봐.
+119. DAN: Here, Gus, it's two dollars and ninety cents in exact change, so count it.
+    댄: 여기, 거스. 정확히 2달러 90센트야. 세어 봐.
 
-120. GUS: Since 1971. Same coffee.
-    거스: 1971년부터. 같은 커피.
+120. GUS: It's the same coffee, Danny, the same since 1971.
+    거스: 같은 커피야, 대니. 1971년부터 똑같아.
 
-121. DAN: Gus. This coffee is terrible.
-    댄: 거스. 이 커피 형편없어.
+121. DAN: Gus, this coffee is terrible.
+    댄: 거스, 이 커피 형편없어.
 
 122. GUS: Same coffee. Same complaint. Your father said it for forty years.
-    거스: 같은 커피. 같은 불평. 네 아버지가 40년 동안 한 말이야.
+    거스: 같은 커피. 같은 불평. 네 아버지도 40년 동안 그 말 했어.
 
-123. ELENA: Gus. Say the rest. Rose told me you would. Today.
-    엘레나: 거스. 나머지도 말해요. 어머님이 오늘 그러실 거라고 했어요.
+123. ELENA: Gus, say the rest, because Rose told me you would do it today.
+    엘레나: 거스, 나머지도 말해요. 어머님이 오늘 그러실 거라고 하셨어요.
 
 124. GUS: …Danny.
     거스: …대니.
 
-125. DAN: Gus. You haven't called me that in front of people since 2028. Not once.
-    댄: 거스. 2028년 이후로 사람들 앞에서 그렇게 부른 적 없잖아. 한 번도.
+125. DAN: Gus, you haven't called me that in front of people since 2028, not once.
+    댄: 거스, 2028년 이후로 사람들 앞에서 그렇게 부른 적 없잖아. 한 번도.
 
-126. GUS: Counselor. Congressman. Senator. Mr. President. Thirty years of titles. I was saving it. Your mother told me in March. In this booth.
-    거스: 변호사님. 의원님. 상원의원님. 대통령님. 30년 동안 직함들. 아껴 두고 있었어. 네 엄마가 3월에 말했어. 이 부스에서.
+126. GUS: It was Counselor, Congressman, Senator, and Mr. President, thirty years of titles, but I was saving it, because your mother told me in March, in this booth.
+    거스: 변호사님, 의원님, 상원의원님, 대통령님. 30년치 호칭이었지. 하지만 아껴 뒀어. 네 엄마가 3월에 이 부스에서 말해 줬거든.
 
-127. DAN: Told you what?
-    댄: 뭐라고 했는데?
+127. DAN: What did she tell you, Gus, in that booth?
+    댄: 그 부스에서 엄마가 뭐라고 했는데, 거스?
 
-128. GUS: She told me the word. On the napkin. Before she crossed it out. She said, "Gus. If he says it right, in front of everybody, you call him Danny again. Not before."
-    거스: 그 단어를 말해 줬어. 냅킨에 쓴 거. 지우기 전에. "거스. 그 애가 모두 앞에서 제대로 말하면, 다시 대니라고 불러. 그 전엔 안 돼."
+128. GUS: She told me the word on the napkin before she crossed it out. She said, "Gus, if he says it right, in front of everybody, you call him Danny again, but not before."
+    거스: 지우기 전에 냅킨의 그 단어를 말해 줬어. 그리고 이렇게 말했지. "거스, 그 애가 모두 앞에서 제대로 말하면 다시 대니라고 불러 줘. 그 전엔 안 돼."
 
-129. DAN: And if I'd said it wrong? What then, Gus?
-    댄: 그럼 내가 틀리게 말했으면? 그땐 어떻게 되는데, 거스?
+129. DAN: And if I'd said it wrong, what then, Gus?
+    댄: 그럼 내가 틀리게 말했으면 어떻게 됐을까, 거스?
 
 130. GUS: Then "Mr. President" until 2045. And then she'd come back and hit you with a spoon. Those were the terms.
     거스: 그럼 2045년까지 '대통령님'이지. 그다음엔 돌아와서 숟가락으로 때리고. 그게 조건이었어.
 
-131. DAN: So it was "everybody."
-    댄: 그러니까 '모두'였구나.
+131. DAN: So it really was "everybody" on that napkin?
+    댄: 그러니까 그 냅킨엔 정말 '모두'라고 써 있었구나?
 
-132. GUS: I'm not telling you. I promised. But I called you Danny. Figure it out, Counselor.
-    거스: 말 안 해. 약속했어. 근데 대니라고 불렀잖아. 알아서 생각해, 변호사님.
+132. GUS: I'm not telling you, because I promised. But I called you Danny, so figure it out, Counselor.
+    거스: 말 안 해. 약속했으니까. 하지만 대니라고 불렀잖아. 알아서 생각해, 변호사님.
 
-133. WHITFIELD: Sir. One minute left. Then we're moving. No exceptions.
-    휘트필드: 대통령님. 1분 남았습니다. 그다음 이동합니다. 예외 없이요.
+133. WHITFIELD: Sir, we have one minute left, and then we're moving with no exceptions.
+    휘트필드: 대통령님, 1분 남았습니다. 그다음엔 예외 없이 이동합니다.
 
-134. DAN: Dana. The stairs. The last stop. Thirty seconds. Then the car.
-    댄: 데이나. 계단. 종점. 30초. 그다음 차.
+134. DAN: Dana, I need the stairs at the last stop, for thirty seconds, and then the car.
+    댄: 데이나, 종점 계단에 30초만. 그다음 차로 갈게요.
 
-135. WHITFIELD: Thirty seconds, sir. I'll go first. Stay close behind me.
-    휘트필드: 30초입니다, 대통령님. 제가 먼저 가겠습니다. 바로 뒤에 계세요.
+135. WHITFIELD: Thirty seconds, sir, and I'll go first, so stay close behind me.
+    휘트필드: 30초입니다, 대통령님. 제가 먼저 가겠습니다. 바짝 따라오십시오.
 
-136. JUNE: Five fifty-two p.m. Ditmars Boulevard. The bottom of the stairs. The last stop of the N train.
-    준: 오후 5시 52분. 디트마스 대로. 계단 아래. N선 종점.
+136. JUNE: It's five fifty-two p.m. at the bottom of the stairs on Ditmars Boulevard, the last stop of the N train.
+    준: 오후 5시 52분, 디트마스 대로 계단 아래예요. N선 종점이요.
 
 137. CONDUCTOR: Ditmars Boulevard. Last stop. Everybody off.
-    차장: 디트마스 대로. 종점입니다. 모두 내리세요.
+    차장: 디트마스 대로입니다. 종점입니다. 모두 내리세요.
 
-138. SAM: Everybody off. Grandma's word, Dad. Even the train says it.
-    샘: 모두 내리세요. 할머니 단어야, 아빠. 지하철도 그 말을 해.
+138. SAM: "Everybody off" is Grandma's word, Dad, and even the train says it.
+    샘: "모두 내리세요." 할머니 단어야, 아빠. 기차도 그 말을 해.
 
-139. KEVIN: Danny. It's five fifty-two. The light's on. Thirty-first Street. I did Mrs. Kalogeropoulos's too. She gave me her key in May.
-    케빈: 형. 5시 52분이야. 불 켰어. 31번가. 칼로게로풀로스 부인네도 켰어. 5월에 열쇠를 주셨거든.
+139. KEVIN: Danny, it's five fifty-two, and the light's on at Thirty-first Street. I did Mrs. Kalogeropoulos's too, because she gave me her key in May.
+    케빈: 형, 5시 52분이야. 31번가 불 켜졌어. 칼로게로풀로스 부인 집 것도 켰어. 5월에 열쇠를 주셨거든.
 
-140. DAN: Same time. Same light.
-    댄: 같은 시간. 같은 불빛.
+140. DAN: It's the same time and the same light.
+    댄: 같은 시간, 같은 불이네.
 
 141. ELENA: Danny.
     엘레나: 대니.
 
-142. DAN: I know. Four minutes. The plane. Washington. Two more years.
-    댄: 알아. 4분. 비행기. 워싱턴. 2년 더.
+142. DAN: I know: four minutes, then the plane, Washington, and two more years.
+    댄: 알아. 4분, 그다음 비행기, 워싱턴, 그리고 2년 더.
 
-143. ELENA: Not that. Listen to me. When it's done, in 2045, after the coat, after Jeonju in the winter. You know where. Come home.
-    엘레나: 그거 말고. 내 말 들어. 다 끝나면, 2045년에, 외투 넘기고, 겨울에 전주 다녀오고 나서. 어딘지 알잖아. 집에 와.
+143. ELENA: Not that. Listen to me. When it's done in 2045, after the coat and after Jeonju in the winter, you know where. Come home.
+    엘레나: 그거 말고. 내 말 들어. 2045년에 다 끝나면, 외투 건네고 겨울에 전주 다녀온 다음에, 어딘지 알지. 집에 와.
 
 144. DAN: Here.
-    댄: 여기.
+    댄: 여기로.
 
-145. ELENA: Here. Thirty-first Street. Kevin pays you a dollar a year. We'll pay him two. Number nine creaks. I'll know when you come home late.
-    엘레나: 여기. 31번가. 케빈이 당신한테 1년에 1달러 내잖아. 우린 케빈한테 2달러 내자. 아홉 번째 계단이 삐걱거려. 당신이 늦게 들어오면 알 거야.
+145. ELENA: Here, on Thirty-first Street. Kevin pays you a dollar a year, so we'll pay him two. Number nine creaks, so I'll know when you come home late.
+    엘레나: 여기, 31번가. 케빈이 당신한테 1년에 1달러 내니까, 우린 케빈한테 2달러 내자. 아홉 번째 계단이 삐걱거리니까 당신이 늦게 오면 알 거야.
 
-146. DAN: I'll come home on time.
-    댄: 제시간에 들어올게.
+146. DAN: I'll come home on time, Elena, I promise you that.
+    댄: 제시간에 올게, 엘레나. 그건 약속할게.
 
-147. ELENA: You never have. Not once since 2010. Come home anyway.
-    엘레나: 한 번도 그런 적 없잖아. 2010년부터 한 번도. 그래도 집에 와.
+147. ELENA: You never have, not once since 2010, but come home anyway.
+    엘레나: 2010년 이후로 한 번도 그런 적 없잖아. 그래도 집에 와.
 
 148. DAN: Last stop. That's where you start.
     댄: 종점. 거기서 시작하는 거야.
 
-149. WHITFIELD: Sir. We're moving.
-    휘트필드: 대통령님. 이동합니다.
+149. WHITFIELD: Sir, we're moving.
+    휘트필드: 대통령님, 이동합니다.
 
 150. DAN: Let me say it plain. We keep going.
     댄: 쉽게 말할게. 우리는 계속 간다.
