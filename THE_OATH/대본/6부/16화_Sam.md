@@ -26,7 +26,7 @@
 004. SAM: Mom said you'd come home as a congressman, with a plan.
     샘: 엄마가 아빠 의원으로, 계획 들고 올 거라고 했는데.
 
-005. DAN: Mom told me not to, so I'm not, because there's no tie and no plan, just a guy on the floor in his socks.
+005. DAN: Mom told me not to, so I'm not. There's no tie and no plan, just a guy on the floor in his socks.
     댄: 엄마가 그러지 말라고 해서 안 그랬어. 넥타이도 계획도 없어. 그냥 양말 신고 바닥에 앉은 남자야.
 
 006. SAM: Your socks don't match.
@@ -41,7 +41,7 @@
 009. DAN: That's a fair point, Sam, so tell me how your eye is.
     댄: 맞는 말이네, 샘. 눈은 어떤지 말해 줘.
 
-010. SAM: Mom put two butterfly things on it, and she says it'll leave a little scar, but she said it like it was good news.
+010. SAM: Mom put two butterfly things on it, and she says it'll leave a little scar. But she said it like it was good news.
     샘: 엄마가 나비 같은 거 두 개 붙였어. 흉터가 좀 남을 거래. 좋은 소식처럼 말하더라.
 
 011. DAN: Doctors say everything like it's good news, and you get used to it.
@@ -95,7 +95,7 @@
 027. DAN: That's a good cut, a hockey cut, so who was the other kid?
     댄: 멋진 상처네. 하키 상처야. 상대 애는 누구였어?
 
-028. SAM: It was Mason Kerr, and he's not even the worst one, but he's the one who said it in front of me, in the cafeteria, out loud.
+028. SAM: It was Mason Kerr, and he's not even the worst one. But he's the one who said it in front of me, in the cafeteria, out loud.
     샘: 메이슨 커. 걔가 제일 나쁜 애도 아니야. 그냥 식당에서 내 앞에서 대놓고 말한 애야.
 
 029. DAN: And what did he say?
@@ -107,7 +107,7 @@
 031. DAN: His uncle?
     댄: 삼촌이?
 
-032. SAM: His uncle works at a Castellan jail upstate, at Ridgefield, and Mason says his uncle cries at Thanksgiving now, because of the news.
+032. SAM: His uncle works at a Castellan jail upstate, at Ridgefield. Mason says his uncle cries at Thanksgiving now, because of the news.
     샘: 걔네 삼촌이 북부에 있는 Castellan 교도소에서 일해. 리지필드. 메이슨 말로는 뉴스 때문에 삼촌이 요즘 추수감사절에 운대.
 
 033. DAN: Ridgefield.
@@ -173,13 +173,13 @@
 053. TERESA: Every night, because he's not a doctor, he's a guard, and when a man can't breathe, he's the one who's there. That's not his job, but it became his job.
     테리사: 매일 밤이요. 의사가 아니라 교도관이잖아요. 누가 숨을 못 쉬면 거기 있는 건 동생이에요. 그건 걔 일이 아닌데, 걔 일이 돼 버렸어요.
 
-054. DAN: Then my bill is for him too, with twenty-four-hour nurses, so he's not the one who has to decide what to do when a man can't breathe.
+054. DAN: Then my bill is for him too, with twenty-four-hour nurses. Then he's not the one who has to decide what to do when a man can't breathe.
     댄: 그럼 제 법안은 그분을 위한 것이기도 해요. 24시간 간호사가 있으면 누가 숨을 못 쉴 때 그분이 결정하지 않아도 되니까요.
 
 055. TERESA: Mason says the bill will close the jail and everybody will lose their jobs.
     테리사: 메이슨은 그 법안 때문에 교도소가 닫히고 다들 일자리를 잃는대요.
 
-056. DAN: It won't close anything, because there's even a part from a congressman in Louisiana that protects the jobs while the company fixes things. I can send it to you in writing.
+056. DAN: It won't close anything. There's even a part from a congressman in Louisiana that protects the jobs while the company fixes things. I can send it to you in writing.
     댄: 아무것도 안 닫혀요. 루이지애나 의원이 넣은 조항도 있어서, 회사가 고치는 동안 일자리를 보호해요. 서면으로 보내 드릴게요.
 
 057. TERESA: Can you promise my brother won't lose his job?
@@ -230,26 +230,26 @@
 072. DAN: Elena.
     댄: 엘레나.
 
-073. ELENA: Let me finish, because I'm not saying it because of Mason Kerr or the memes, since kids are cruel, and Sam would survive the memes.
+073. ELENA: Let me finish. I'm not saying it because of Mason Kerr or the memes, since kids are cruel, and Sam would survive the memes.
     엘레나: 끝까지 들어. 메이슨 커 때문도, 밈 때문도 아니야. 애들은 잔인하고, 샘은 밈쯤은 견딜 거야.
 
 074. DAN: Then why are you using it now, after all this time?
     댄: 그럼 이제 와서 왜 쓰는 건데?
 
-075. ELENA: Because for four months our son built a wall around himself, like the firewall you built around Castellan, and he let nobody in, not me and not Zoe. He laughed at the pictures so nobody would know.
+075. ELENA: For four months our son built a wall around himself, like the firewall you built around Castellan. He let nobody in, not me and not Zoe. He laughed at the pictures so nobody would know.
     엘레나: 넉 달 동안 우리 아들이 자기 주위에 벽을 쌓았어. 당신이 Castellan 주위에 쌓은 차단벽처럼. 나도 조이도 아무도 못 들어가게. 아무도 모르게 사진 보고 웃었대.
 
 076. DAN: He told me that at three a.m., through the door.
     댄: 새벽 세 시에 문 너머로 그 얘기 했어.
 
-077. ELENA: He learned it from you, Danny, not from the memes, by watching you be careful for a year about what you can say and what you can't. He's fifteen, and he already knows how to keep a secret like a lawyer.
-    엘레나: 그거 당신한테 배운 거야, 대니. 밈이 아니라. 1년 동안 당신이 뭘 말해도 되고 뭘 안 되는지 조심하는 걸 보면서. 열다섯 살인데 벌써 변호사처럼 비밀을 지킬 줄 알아.
+077. ELENA: He learned it from you, Danny, not from the memes. He watched you be careful for a year about what you can say and what you can't. He's fifteen, and he already knows how to keep a secret like a lawyer.
+    엘레나: 그거 당신한테 배운 거야, 대니. 밈이 아니라. 1년 동안 당신이 뭘 말해도 되고 뭘 안 되는지 조심하는 걸 봤어. 열다섯 살인데 벌써 변호사처럼 비밀을 지킬 줄 알아.
 
 078. DAN: That's not fair, Elena, and you know it.
     댄: 그건 불공평해, 엘레나. 당신도 알잖아.
 
-079. ELENA: I told you that fair is for courtrooms. A statewide race is ten months of being careful, ten months of ads with your face, and ten months of his face in a group chat, so I won't do it to him this year.
-    엘레나: 말했잖아. 공평은 법정에서나 따지는 거라고. 주 전체 선거는 열 달 동안 조심하고, 열 달 동안 당신 얼굴 광고가 나오고, 열 달 동안 샘 얼굴이 단톡방에 오르는 거야. 올해는 샘한테 그렇게 못 해.
+079. ELENA: I told you that fair is for courtrooms. A statewide race is ten months of being careful and ten months of ads with your face. It's also ten months of his face in a group chat, so I won't do it to him this year.
+    엘레나: 말했잖아. 공평은 법정에서나 따지는 거라고. 주 전체 선거는 열 달 동안 조심하고, 열 달 동안 당신 얼굴 광고가 나오는 거야. 열 달 동안 샘 얼굴이 단톡방에 오르는 거기도 하고. 올해는 샘한테 그렇게 못 해.
 
 080. DAN: Okay.
     댄: 알았어.
@@ -263,7 +263,7 @@
 083. ELENA: Danny, look at me, and don't make it Sam's fault, not to Marty, not to the newspapers, and not to yourself.
     엘레나: 대니, 나 봐. 샘 탓으로 만들지 마. 마티한테도, 신문한테도, 당신 자신한테도.
 
-084. DAN: It's not Sam's fault, because it's your decision, and it's mine too, since I'm agreeing with it, which makes it ours.
+084. DAN: It's not Sam's fault, because it's your decision. It's mine too, since I'm agreeing with it, which makes it ours.
     댄: 샘 탓 아니야. 당신 결정이고, 내 결정이기도 해. 내가 동의하니까. 그러니까 우리 결정이야.
 
 085. ELENA: Are you angry? Tell me the truth, because you promised the kids.
@@ -278,7 +278,7 @@
 088. DAN: I'm very sad right now.
     댄: 지금 엄청 슬퍼.
 
-089. ELENA: I know, and that's why I love you, because you get slow when you're sad, but most men get fast and start fixing radios.
+089. ELENA: I know, and that's why I love you. You get slow when you're sad, but most men get fast and start fixing radios.
     엘레나: 알아. 그래서 사랑하는 거야. 당신은 슬프면 느려지잖아. 대부분 남자들은 빨라지는데. 라디오를 고치기 시작하지.
 
 090. DAN: I'll call Marty tomorrow and tell him it's no for now.
@@ -305,7 +305,7 @@
 097. DAN: It's fine, Sam, because yellow pads are for stealing.
     댄: 괜찮아, 샘. 노란 패드는 훔치라고 있는 거야.
 
-098. SAM: Okay, number one: Mom used her veto because of me, and I know it was because of me, even though everybody says it wasn't.
+098. SAM: Okay, number one: Mom used her veto because of me. I know it was because of me, even though everybody says it wasn't.
     샘: 좋아, 하나. 엄마가 나 때문에 거부권을 썼어. 다들 아니라고 하지만 나 때문인 거 알아.
 
 099. ELENA: Sam...
@@ -317,8 +317,8 @@
 101. ELENA: Okay, then finish, Sam.
     엘레나: 알았어. 그럼 끝까지 해, 샘.
 
-102. SAM: Number two: if Dad doesn't run because of me, then Mason's group chat wins, because forty-one memes made my dad stop. I don't want them to win, and I don't want to be the reason.
-    샘: 둘. 아빠가 나 때문에 안 나가면 메이슨네 단톡방이 이기는 거야. 밈 마흔한 개가 우리 아빠를 멈추게 한 거니까. 걔들이 이기는 거 싫어. 내가 그 이유가 되는 것도 싫고.
+102. SAM: Number two: if Dad doesn't run because of me, then Mason's group chat wins. It would mean forty-one memes made my dad stop. I don't want them to win, and I don't want to be the reason.
+    샘: 둘. 아빠가 나 때문에 안 나가면 메이슨네 단톡방이 이기는 거야. 밈 마흔한 개가 우리 아빠를 멈추게 한 셈이니까. 걔들이 이기는 거 싫어. 내가 그 이유가 되는 것도 싫고.
 
 103. KEVIN: That's a cop's argument, Danny, and I like it.
     케빈: 그거 경찰다운 논리야, 형. 마음에 들어.
@@ -344,19 +344,19 @@
 110. KEVIN: Don't move the pill rule, Ma, please, because we need it there.
     케빈: 약 규칙은 옮기지 마, 엄마. 제발. 거기 있어야 해.
 
-111. SAM: Condition one: no pictures of me in the campaign, not one, not from June or anybody, and if someone takes one, Dad says no out loud.
+111. SAM: Condition one: no pictures of me in the campaign, not one, not from June or anybody. If someone takes one, Dad says no out loud.
     샘: 조건 하나. 선거에 내 사진 하나도 없기. 준 누나든 누구든. 누가 찍으면 아빠가 소리 내서 안 된다고 하기.
 
 112. DAN: Done.
     댄: 그렇게 할게.
 
-113. SAM: Condition two: before a bad ad comes out about you, you tell me, before, not after, so I don't see it first in the group chat.
+113. SAM: Condition two: before a bad ad comes out about you, you tell me, before, not after. That way I don't see it first in the group chat.
     샘: 조건 둘. 아빠에 대한 나쁜 광고가 나오기 전에 나한테 말해 주기. 나중 말고 미리. 단톡방에서 먼저 안 보게.
 
 114. DAN: Done, even if it's at three a.m.
     댄: 그렇게 할게. 새벽 세 시라도.
 
-115. SAM: Condition three: I'm on JV baseball this spring at second base, with Thursday games, and you come to three, not ten, because I counted the schedule, and three is honest.
+115. SAM: Condition three: I'm on JV baseball this spring at second base, with Thursday games. You come to three, not ten, because I counted the schedule, and three is honest.
     샘: 조건 셋. 나 이번 봄에 2군 야구팀 2루수야. 목요일마다 경기 있어. 세 번 와. 열 번 말고 세 번. 일정표 세어 봤어. 세 번이 정직해.
 
 116. DAN: Three is honest, and I'll be at three, but if I can't, I'll tell you which ones before the season starts.
@@ -368,7 +368,7 @@
 118. ELENA: Go ahead, Sam, because we're all listening.
     엘레나: 해 봐, 샘. 다들 듣고 있어.
 
-119. SAM: If somebody says something about you to my face, I'm allowed to answer with words, not my fist, and you don't tell me to "stay out of it."
+119. SAM: If somebody says something about you to my face, I'm allowed to answer with words, not my fist. And you don't tell me to "stay out of it."
     샘: 누가 내 앞에서 아빠에 대해 뭐라고 하면 대답해도 되는 거야. 주먹 말고 말로. 아빠는 나한테 "끼어들지 마"라고 하지 않기.
 
 120. DAN: And what would you say to them, if you could?
@@ -380,8 +380,8 @@
 122. KEVIN: You actually practiced it on Mason Kerr?
     케빈: 진짜 메이슨 커한테 연습했다고?
 
-123. SAM: We're sort of friends now, because his uncle read Dad's bill, the part about nurses, and he told Mason it's "not stupid," which is a lot from his uncle.
-    샘: 우리 이제 거의 친구야. 걔네 삼촌이 아빠 법안 간호사 부분을 읽고 메이슨한테 "멍청하지 않다"고 했대. 그 삼촌한텐 엄청난 칭찬이야.
+123. SAM: We're sort of friends now, because his uncle read Dad's bill, the part about nurses. He told Mason it's "not stupid," which is a lot from his uncle.
+    샘: 우리 이제 거의 친구야. 걔네 삼촌이 아빠 법안 간호사 부분을 읽었대. 메이슨한테 "멍청하지 않다"고 했대. 그 삼촌한텐 엄청난 칭찬이야.
 
 124. ROSE: "Not stupid" is something your grandfather would have put on a T-shirt.
     로즈: "멍청하지 않다"라니, 네 할아버지였으면 티셔츠에 새겼을 거다.
@@ -401,13 +401,13 @@
 129. ELENA: Sam, you didn't ask me to sign, because you asked me to keep my veto.
     엘레나: 샘, 넌 나한테 서명하라고 안 했어. 거부권을 계속 갖고 있으라고 했지.
 
-130. SAM: I want you to keep it like a fire extinguisher, because you don't use it every day, but it's on the wall, so everybody feels safe.
+130. SAM: I want you to keep it like a fire extinguisher. You don't use it every day, but it's on the wall, so everybody feels safe.
     샘: 소화기처럼 갖고 있어 줘. 매일 쓰는 건 아니지만 벽에 걸려 있으니까 다들 안심하잖아.
 
 131. ZOE: Mom, he just compared you to a fire extinguisher in a good way, and I'm crying in the library.
     조이: 엄마, 얘가 방금 엄마를 좋은 뜻으로 소화기에 비유했어. 나 도서관에서 울고 있어.
 
-132. ELENA: Okay, I'm not using my veto today, but I'm not voting tonight either, because we vote in March, like I said, and that's my rule.
+132. ELENA: Okay, I'm not using my veto today, but I'm not voting tonight either. We vote in March, like I said, and that's my rule.
     엘레나: 좋아. 오늘은 거부권 안 쓸게. 근데 오늘 밤 투표도 안 해. 말한 대로 3월에 해. 그게 내 규칙이야.
 
 133. SAM: That's fine, because March is fine, and I just wanted the conditions on paper first, before, not after.
