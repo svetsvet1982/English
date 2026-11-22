@@ -14,455 +14,455 @@
 
 ## 대본
 
-001. WALT: Five a.m. You're here. In my boots. Huh. They're clean. Why are they clean?
-    월트: 새벽 다섯 시. 왔네. 내 장화 신고. 흠. 깨끗하네. 왜 깨끗하오?
+001. WALT: It's five a.m. and you're here in my boots. Huh, they're clean, so why are they clean?
+    월트: 새벽 다섯 시. 왔군. 내 장화 신고. 흠. 깨끗하네. 왜 깨끗하오?
 
-002. DAN: My wife tried to wash them twice. So I hid them in my son's room. They're clean because they've been sitting in a closet since April, waiting for today.
-    댄: 아내가 두 번 빨려고 했어요. 그래서 아들 방에 숨겼죠. 4월부터 옷장에서 오늘만 기다리고 있어서 깨끗한 거예요.
+002. DAN: My wife tried to wash them twice, so I hid them in my son's room. They're clean because they've been sitting in a closet since April, waiting for today.
+    댄: 아내가 두 번이나 빨려고 해서 아들 방에 숨겼어요. 4월부터 오늘만 기다리며 옷장에 있었으니 깨끗한 거예요.
 
-003. WALT: A closet. I said bring them back dirty. A closet doesn't make boots dirty. A barn does. Here. Take the hose. Forty-one needs a bath before the judge sees her.
-    월트: 옷장. 더럽혀 오라고 했잖소. 옷장은 장화를 더럽게 안 만들어. 헛간이 만들지. 여기. 호스 잡아요. 심사위원이 보기 전에 41번 목욕시켜야 하오.
+003. WALT: A closet? I said bring them back dirty, and a closet doesn't make boots dirty, a barn does. Here, take the hose, because Forty-one needs a bath before the judge sees her.
+    월트: 옷장? 더럽혀서 가져오랬잖소. 옷장은 장화를 더럽히지 않소. 헛간이 하지. 자, 호스 잡아요. 41번이 심사위원 보기 전에 목욕해야 하오.
 
-004. DAN: You brought Forty-one? To the State Fair?
-    댄: 41번을 데려왔어요? 주 박람회에?
+004. DAN: You brought Forty-one all the way to the State Fair?
+    댄: 41번을 주 박람회까지 데려오셨어요?
 
-005. WALT: She's my best cow. She's also my worst cow. She'll either win or kick the judge. Either way, people remember.
-    월트: 내 최고의 소요. 최악의 소이기도 하고. 이기든지 심사위원을 차든지 하겠지. 어느 쪽이든 사람들이 기억하오.
+005. WALT: She's my best cow and also my worst cow, so she'll either win or kick the judge. Either way, people remember.
+    월트: 제일 좋은 소이자 제일 나쁜 소요. 상을 타든 심사위원을 차든 둘 중 하나지. 어느 쪽이든 사람들은 기억하오.
 
-006. TOMAS: Good morning, sir. Don't stand behind her. Stand at the side. Spray low first. She hates cold water on her back.
-    토마스: 좋은 아침이에요, 선생님. 뒤에 서지 마세요. 옆에 서세요. 아래부터 뿌려요. 등에 찬물 맞는 거 싫어해요.
+006. TOMAS: Good morning, sir. Don't stand behind her, stand at the side, and spray low first, because she hates cold water on her back.
+    토마스: 안녕하세요, 선생님. 뒤에 서지 마시고 옆에 서세요. 아래부터 뿌리시고요. 등에 찬물 닿는 거 싫어해요.
 
-007. DAN: Low first. Got it. Like a deposition. Start with the easy questions.
-    댄: 아래부터. 알겠어요. 증언 녹취처럼. 쉬운 질문부터.
+007. DAN: Low first, got it, like a deposition, where you start with the easy questions.
+    댄: 아래부터, 알았어요. 증언 녹취처럼 쉬운 질문부터 하는 거네요.
 
 008. MARIE: Dad, he's comparing our cow to a legal procedure.
-    마리: 아빠, 이 사람 우리 소를 법률 절차에 비유해요.
+    마리: 아빠, 저 사람 우리 소를 법률 절차에 비교하고 있어요.
 
-009. WALT: Let him. It's five in the morning. Everybody's a little crazy at five.
-    월트: 하게 둬. 새벽 다섯 시야. 다섯 시엔 다들 좀 미쳐 있어.
+009. WALT: Let him, because it's five in the morning, and everybody's a little crazy at five.
+    월트: 하게 둬라. 새벽 다섯 시잖니. 다섯 시엔 다들 좀 미쳐.
 
-010. DAN: She's not kicking. Tomás, she's not kicking me.
-    댄: 안 차요. 토마스, 날 안 차요.
+010. DAN: She's not kicking, Tomás, and for once she's not kicking me!
+    댄: 안 차요, 토마스. 웬일로 저를 안 차네요!
 
-011. TOMAS: Because Ana is holding her head. Ana, say good morning.
+011. TOMAS: That's because Ana is holding her head. Ana, say good morning.
     토마스: 아나가 머리를 잡고 있어서 그래요. 아나, 인사해.
 
-012. ANA: Good morning. I'm Ana. I'm eleven. She doesn't kick me. She only kicks people who are nervous. You're nervous.
-    아나: 안녕하세요. 아나예요. 열한 살이에요. 얘는 저 안 차요. 긴장한 사람만 차요. 아저씨 긴장했어요.
+012. ANA: Good morning, I'm Ana, and I'm eleven. She doesn't kick me, she only kicks people who are nervous, and you're nervous.
+    아나: 안녕하세요. 전 아나고 열한 살이에요. 얘는 저 안 차요. 긴장한 사람만 차요. 아저씨 긴장했어요.
 
-013. DAN: I'm not nervous.
-    댄: 나 긴장 안 했는데.
+013. DAN: I'm not nervous, Ana, I'm just a little cold.
+    댄: 안 긴장했어, 아나. 그냥 좀 추운 거야.
 
-014. ANA: Your hand is shaking. And you're spraying her ear. She doesn't like her ear.
-    아나: 손 떨려요. 그리고 귀에 뿌리고 있어요. 얘 귀 싫어해요.
+014. ANA: Your hand is shaking, and you're spraying her ear, which she doesn't like.
+    아나: 손이 떨려요. 그리고 귀에 뿌리고 있어요. 얘 귀 싫어해요.
 
-015. DAN: Sorry. Sorry, Forty-one.
-    댄: 미안. 미안해, 41번.
+015. DAN: Sorry, I'm sorry, Forty-one.
+    댄: 미안, 미안해, 41번.
 
-016. ANA: She has a real name. Dad calls her Forty-one. I call her Duchess. Because she acts like a duchess.
-    아나: 진짜 이름이 있어요. 아빠는 41번이라고 하고요. 전 공작부인이라고 불러요. 공작부인처럼 구니까요.
+016. ANA: She has a real name. Dad calls her Forty-one, but I call her Duchess, because she acts like a duchess.
+    아나: 진짜 이름이 있어요. 아빠는 41번이라고 하는데 전 공작부인이라고 불러요. 공작부인처럼 굴거든요.
 
-017. WALT: Nobody calls her Duchess but Ana. She lets Ana. She doesn't let me.
-    월트: 공작부인이라고 부르는 건 아나뿐이오. 아나한텐 허락해. 나한텐 안 하고.
+017. WALT: Nobody calls her Duchess but Ana, and she lets Ana, but she doesn't let me.
+    월트: 아나 말고는 아무도 공작부인이라고 안 부르오. 아나한텐 허락하는데 나한텐 안 하지.
 
-018. DAN: Ana, your father showed me your drawing. In May. A vet and a cow. This cow.
-    댄: 아나, 5월에 아빠가 네 그림 보여 줬어. 수의사랑 소. 이 소.
+018. DAN: Ana, your father showed me your drawing in May, of a vet and a cow, and it was this cow.
+    댄: 아나, 5월에 아빠가 네 그림 보여 줬어. 수의사랑 소. 이 소였지.
 
-019. ANA: That's me in the drawing. I'm going to be the vet. And today I'm showing my own calf in the 4-H class. Her name is Pickle.
-    아나: 그림 속 그게 저예요. 전 수의사가 될 거예요. 그리고 오늘은 4-H 부문에 제 송아지를 내보내요. 이름은 피클이에요.
+019. ANA: That's me in the drawing, because I'm going to be the vet. And today I'm showing my own calf in the 4-H class, and her name is Pickle.
+    아나: 그림 속 수의사가 저예요. 제가 수의사가 될 거거든요. 그리고 오늘은 4-H 부문에 제 송아지를 내보내요. 이름은 피클이에요.
 
 020. SAM: What's 4-H?
     샘: 4-H가 뭐야?
 
 021. ANA: Who are you?
-    아나: 넌 누구야?
+    아나: 넌 누군데?
 
-022. SAM: I'm Sam. I'm his son. I'm the one whose room the boots were in. Don't take my picture.
-    샘: 난 샘. 저 아저씨 아들. 장화가 내 방에 있었어. 내 사진 찍지 마.
+022. SAM: I'm Sam, his son, the one whose room the boots were in, so don't take my picture.
+    샘: 난 샘이야. 저 사람 아들. 그 장화가 내 방에 있었어. 내 사진 찍지 마.
 
-023. ANA: Why would I take your picture? I'm washing a cow.
-    아나: 내가 왜 네 사진을 찍어? 나 소 씻기는 중인데.
+023. ANA: Why would I take your picture when I'm washing a cow?
+    아나: 소 씻고 있는데 내가 왜 네 사진을 찍어?
 
-024. SAM: Good. That's the right answer. What's 4-H?
-    샘: 좋아. 그게 정답이야. 4-H가 뭔데?
+024. SAM: Good, that's the right answer. So what's 4-H, if you're not taking pictures?
+    샘: 좋아, 정답이야. 사진 안 찍을 거면, 4-H가 뭔지 알려 줘.
 
-025. MARIE: It's a club for kids who grow up on farms. Head, Heart, Hands, Health. Four H's. Kids raise an animal all year and show it at the fair.
-    마리: 농장에서 자라는 애들 모임이에요. 머리, 마음, 손, 건강. H 네 개. 애들이 1년 내내 동물을 키워서 박람회에 내보내요.
+025. MARIE: It's a club for kids who grow up on farms, and it stands for Head, Heart, Hands, Health, four H's. Kids raise an animal all year and show it at the fair.
+    마리: 농장에서 자라는 아이들 모임이에요. 머리, 마음, 손, 건강, H가 네 개예요. 아이들이 1년 내내 동물을 키워서 박람회에 내보내요.
 
-026. SAM: A whole year? For one day?
-    샘: 1년 내내? 하루를 위해서?
+026. SAM: A whole year of work, just for one day at a fair?
+    샘: 1년 내내 일해서 박람회 하루를 위한 거야?
 
-027. ANA: For one day. And if you lose, you go home and start again. Like baseball.
-    아나: 하루를 위해서. 그리고 지면 집에 가서 다시 시작해. 야구처럼.
+027. ANA: For one day, and if you lose, you go home and start again, like baseball.
+    아나: 하루를 위해서. 지면 집에 가서 다시 시작하는 거야. 야구처럼.
 
-028. SAM: How do you know I play baseball?
-    샘: 내가 야구하는 거 어떻게 알아?
+028. SAM: Wait, how do you know that I play baseball?
+    샘: 잠깐, 내가 야구하는 거 어떻게 알아?
 
-029. ANA: You have a glove in your back pocket. At a cow show. That's weird.
-    아나: 뒷주머니에 글러브 있잖아. 소 품평회에. 이상해.
+029. ANA: You have a glove in your back pocket at a cow show, which is weird.
+    아나: 소 품평회에 뒷주머니에 글러브를 꽂고 왔잖아. 이상하거든.
 
-030. ELENA: She's going to be a very good vet. She notices everything.
-    엘레나: 아주 좋은 수의사가 되겠네. 다 알아차려.
+030. ELENA: She's going to be a very good vet, because she notices everything.
+    엘레나: 아주 좋은 수의사가 되겠네. 모든 걸 다 알아채잖아.
 
-031. WALT: Reardon. Look down. Your boots.
-    월트: 레이든. 내려다봐요. 장화.
+031. WALT: Reardon, stop spraying for a second and look down at your boots.
+    월트: 레이든, 잠깐 물 그만 뿌리고 발밑 봐요. 장화.
 
-032. DAN: They're dirty. They're very dirty. Oh, that's not mud either.
-    댄: 더러워요. 아주 더러워요. 아, 이것도 진흙이 아니네요.
+032. DAN: They're dirty, very dirty. Oh, that's not mud either.
+    댄: 더러워졌네요. 아주 더러워요. 아, 이것도 진흙이 아니네요.
 
-033. WALT: Good. Now they're my boots again. Now you can keep them.
-    월트: 좋아. 이제야 내 장화 같군. 이제 가져가도 되오.
+033. WALT: Good, so now they're my boots again, and now you can keep them.
+    월트: 좋아. 이제 다시 내 장화가 됐소. 이제 가져도 되오.
 
-034. DAN: Keep them? You said bring them back.
-    댄: 가져가라고요? 돌려 달라면서요.
+034. DAN: Keep them? But you told me to bring them back.
+    댄: 가지라고요? 돌려 달라고 하셨잖아요.
 
-035. WALT: I said bring them back dirty. You did. That's the deal. So now they're yours. Keep them. I have six pairs at home. I'm not a sentimental man.
-    월트: 더럽혀서 가져오라고 했지. 그렇게 했고. 그게 약속이오. 그러니 이제 당신 거요. 가져가요. 집에 여섯 켤레 있소. 난 감상적인 사람 아니오.
+035. WALT: I said bring them back dirty, and you did, so that's the deal and now they're yours. Keep them, because I have six pairs at home, and I'm not a sentimental man.
+    월트: 더럽혀서 가져오라고 했지. 그렇게 했고. 그게 약속이니 이제 당신 거요. 가져가요. 집에 여섯 켤레 있소. 난 감상적인 사람이 아니오.
 
-036. MARIE: He's very sentimental. He cried at the Lefebvres' auction. In the truck. After.
-    마리: 엄청 감상적이에요. 르페브르네 경매 때 울었어요. 트럭에서. 끝나고.
+036. MARIE: He's very sentimental, because he cried at the Lefebvres' auction, in the truck, afterward.
+    마리: 엄청 감상적이에요. 르페브르네 경매 때 울었어요. 끝나고 트럭 안에서요.
 
-037. WALT: That was allergies. Marie. Go get the halter.
-    월트: 그건 알레르기였어. 마리. 고삐 가져와.
+037. WALT: That was allergies, and you know it. Marie, go get the halter.
+    월트: 그건 알레르기였다. 너도 알잖아. 마리, 고삐 가져와.
 
-038. JUNE: Okay, it's ten o'clock. The show ring. Dan, sit in the bleachers. With the farmers. Not with the press. I'm serious.
-    준: 자, 열 시예요. 품평회 링. 댄, 관람석에 앉아요. 농부들이랑. 기자들 말고. 진심이에요.
+038. JUNE: Okay, it's ten o'clock at the show ring. Dan, sit in the bleachers with the farmers, not with the press, and I'm serious.
+    준: 자, 열 시, 품평회장이에요. 댄, 관람석에 앉아요. 기자들 말고 농부들이랑요. 진지하게요.
 
-039. DAN: I'm in the bleachers. Next to a man eating a corn dog at ten a.m.
-    댄: 관람석에 있어요. 오전 열 시에 콘도그 먹는 남자 옆에.
+039. DAN: I'm in the bleachers, next to a man eating a corn dog at ten a.m.
+    댄: 관람석에 있어요. 아침 열 시에 콘도그 먹는 남자 옆에.
 
-040. AISHA: That man is the president of the Oneida County dairy co-op. Be nice to him. Don't talk about tariffs.
-    아이샤: 그 남자는 오나이다 카운티 낙농 협동조합 회장이에요. 잘해 드려요. 관세 얘기는 하지 말고.
+040. AISHA: That man is the president of the Oneida County dairy co-op, so be nice to him, and don't talk about tariffs.
+    아이샤: 그분이 오나이다 카운티 낙농 협동조합 조합장이에요. 잘해 드리고 관세 얘기는 하지 마요.
 
-041. JUDGE: Good morning. I'm Lars Gunderson. From Wisconsin. I've judged dairy cattle for thirty-one years. I know that half of you think a man from Wisconsin shouldn't judge New York cows.
-    심사위원: 안녕하세요. 라스 군더슨입니다. 위스콘신에서 왔습니다. 31년 동안 젖소를 심사했죠. 여러분 절반은 위스콘신 사람이 뉴욕 소를 심사하면 안 된다고 생각하는 거 압니다.
+041. JUDGE: Good morning, I'm Lars Gunderson from Wisconsin, and I've judged dairy cattle for thirty-one years. I know that half of you think a man from Wisconsin shouldn't judge New York cows.
+    심사위원: 안녕하십니까. 위스콘신에서 온 라스 건더슨입니다. 31년째 젖소를 심사하고 있습니다. 여러분 절반은 위스콘신 사람이 뉴욕 소를 심사하면 안 된다고 생각하시는 거 압니다.
 
 042. AUDIENCE: [laughter] Yeah!
     청중: [웃음] 맞아!
 
-043. JUDGE: The other half are right. Let's begin. Senior cows. Bring them in.
-    심사위원: 나머지 절반이 맞습니다. 시작하죠. 성우 부문. 들어오세요.
+043. JUDGE: The other half are right. Let's begin with the senior cows, so bring them in.
+    심사위원: 나머지 절반이 맞습니다. 시작하죠. 성우 부문입니다. 들여보내 주세요.
 
-044. WALT: Watch. Every year he puts me fourth. Every year I say "Wisconsin."
-    월트: 봐요. 해마다 날 4등에 놓지. 해마다 난 "위스콘신" 하고.
+044. WALT: Watch this, because every year he puts me fourth, and every year I say "Wisconsin."
+    월트: 봐요. 해마다 나를 4등에 두지. 그럼 해마다 난 "위스콘신" 하고.
 
 045. DAN: What's he looking for? Explain it like I'm from Queens.
-    댄: 뭘 보는 거예요? 퀸즈 사람한테 하듯 설명해 줘요.
+    댄: 뭘 보는 거예요? 퀸즈 사람한테 하듯이 설명해 주세요.
 
-046. MARIE: The shape of the body. The legs. The udder. How she walks. Whether she'll still be a good cow in five years. It's not about today. It's about her future.
-    마리: 몸의 생김새. 다리. 젖통. 걸음걸이. 5년 뒤에도 좋은 소일지. 오늘 얘기가 아니에요. 그 소의 미래 얘기예요.
+046. MARIE: He looks at the shape of the body, the legs, the udder, and how she walks, and whether she'll still be a good cow in five years. It's not about today, it's about her future.
+    마리: 몸 모양, 다리, 젖통, 걷는 모습을 봐요. 5년 뒤에도 좋은 소일지를요. 오늘이 아니라 미래를 보는 거예요.
 
 047. DAN: That's a better way to pick a senator than most.
-    댄: 대부분의 상원의원 뽑는 방식보다 낫네요.
+    댄: 그게 상원의원 뽑는 대부분의 방법보다 낫네요.
 
-048. MARIE: That's what Dad said. In April. After you left. He said, "Judge him like a cow. Not today. Five years."
-    마리: 아빠도 그렇게 말했어요. 4월에. 당신 가고 나서. "소처럼 심사해. 오늘 말고. 5년 뒤."
+048. MARIE: That's what Dad said in April, after you left. He said, "Judge him like a cow. Not today. Five years."
+    마리: 아빠도 4월에 그랬어요. 당신 가고 나서요. "저 사람을 소처럼 판단해라. 오늘 말고, 5년 뒤를 보고."
 
-049. JUDGE: Number seven. Hold her there. Walk her again. Who's on the halter?
-    심사위원: 7번. 거기 세워요. 다시 걸려 봐요. 고삐 잡은 사람 누구죠?
+049. JUDGE: Number seven, hold her there and walk her again. Who's on the halter?
+    심사위원: 7번, 거기 세워요. 다시 걸려 보세요. 고삐 잡은 분 누구죠?
 
-050. TOMAS: Me, sir. Tomás. Duquette Farm. Canton.
-    토마스: 저요. 토마스입니다. 듀켓 농장. 캔턴.
+050. TOMAS: It's me, sir, Tomás, from Duquette Farm in Canton.
+    토마스: 저예요. 토마스요. 캔턴의 듀켓 농장이요.
 
-051. JUDGE: She's got a temper. I can see it in her ears. But look at those legs. She walks like she owns the barn.
-    심사위원: 성질 있네요. 귀를 보면 알아요. 그래도 저 다리 좀 봐요. 헛간 주인처럼 걷네요.
+051. JUDGE: She's got a temper, because I can see it in her ears, but look at those legs. She walks like she owns the barn.
+    심사위원: 성질이 있네요. 귀를 보면 알죠. 그런데 다리 좀 보세요. 헛간 주인처럼 걷네요.
 
-052. TOMAS: She does own the barn, sir. We just work there.
-    토마스: 헛간 주인 맞아요. 우린 거기서 일만 하고요.
+052. TOMAS: She does own the barn, sir, and we just work there.
+    토마스: 진짜 헛간 주인이에요. 저흰 거기서 일만 하고요.
 
 053. AUDIENCE: [laughter]
     청중: [웃음]
 
-054. JUDGE: Placings. Fourth place, number twelve. Third place, number three. Second place—
-    심사위원: 순위 발표. 4등, 12번. 3등, 3번. 2등—
+054. JUDGE: Here are the placings: fourth place, number twelve, third place, number three, and second place—
+    심사위원: 순위 발표합니다. 4위 12번, 3위 3번, 2위는—
 
-055. WALT: Here it comes. Fourth. No. He said twelve was fourth. Wait.
-    월트: 나온다. 4등. 아니. 12번이 4등이라고 했지. 잠깐.
+055. WALT: Here it comes, fourth. No, he said twelve was fourth, so wait.
+    월트: 온다, 4등. 아니, 12번이 4등이라고 했지. 잠깐.
 
-056. JUDGE: Second place, and reserve champion, number seven. Duquette Farm. Canton.
-    심사위원: 2등, 그리고 준우승 챔피언, 7번. 듀켓 농장. 캔턴.
+056. JUDGE: Second place, and reserve champion, goes to number seven, Duquette Farm, Canton.
+    심사위원: 2위이자 준우승은 7번, 캔턴 듀켓 농장입니다.
 
-057. MARIE: Dad! Dad! Second! Reserve champion!
-    마리: 아빠! 아빠! 2등! 준우승이에요!
+057. MARIE: Dad, Dad, second! Reserve champion!
+    마리: 아빠! 아빠! 2등이에요! 준우승!
 
 058. WALT: Huh.
     월트: 흠.
 
-059. DAN: Reserve champion. What does that mean?
-    댄: 준우승 챔피언. 그게 무슨 뜻이에요?
+059. DAN: Reserve champion sounds good, but what does it actually mean?
+    댄: 준우승이라니 좋게 들리는데, 실제로 무슨 뜻이에요?
 
-060. MARIE: Second best cow in the whole class. In New York. In thirty years Dad has never been better than fourth.
-    마리: 그 부문 전체에서 두 번째로 좋은 소라는 거예요. 뉴욕에서. 30년 동안 아빠는 4등보다 잘한 적이 없어요.
+060. MARIE: It's the second-best cow in the whole class in New York. In thirty years Dad has never been better than fourth.
+    마리: 뉴욕 전체 부문에서 두 번째로 좋은 소라는 거예요. 30년 동안 아빠는 4등보다 잘한 적이 없어요.
 
-061. WALT: It's Tomás. He walked her. He walks her better than me. She's not afraid of him.
-    월트: 토마스 덕이오. 걔가 걸렸지. 나보다 잘 걸려. 걔는 안 무서워하니까.
+061. WALT: It's Tomás, because he walked her, and he walks her better than me. She's not afraid of him.
+    월트: 토마스 덕이오. 걔가 걸렸지. 나보다 잘 걸려. 소가 걔를 안 무서워하거든.
 
-062. JUDGE: Mr. Duquette? Come here. I want to shake your hand. Thirty-one years. I've put you fourth nine times. And I remember you saying "Wisconsin" under your breath every single time.
-    심사위원: 듀켓 씨? 이리 와 봐요. 악수하고 싶어요. 31년. 당신을 아홉 번 4등에 놨죠. 그리고 매번 작게 "위스콘신" 하던 거 하나도 빠짐없이 기억해요.
+062. JUDGE: Mr. Duquette, come here, because I want to shake your hand. In thirty-one years I've put you fourth nine times, and I remember you saying "Wisconsin" under your breath every single time.
+    심사위원: 듀켓 씨, 이리 오세요. 악수하고 싶습니다. 31년 동안 4위에 아홉 번 두었는데, 그때마다 "위스콘신" 하고 중얼거리신 거 다 기억합니다.
 
-063. WALT: You heard that?
-    월트: 그게 들렸소?
+063. WALT: You actually heard me say that, all those years?
+    월트: 그 오랜 세월 내가 그러는 걸 다 들었소?
 
-064. JUDGE: Everybody heard that. Your man walks a cow beautifully. And your cow will be good in five years. That's the judge's call.
-    심사위원: 다 들었죠. 당신 사람이 소를 아주 잘 걸리네요. 그리고 이 소는 5년 뒤에도 좋을 거예요. 그게 심사위원 판단이에요.
+064. JUDGE: Everybody heard that. Your man walks a cow beautifully, and your cow will be good in five years. That's the judge's call.
+    심사위원: 다들 들었죠. 그쪽 일꾼이 소를 아름답게 걸리네요. 그리고 이 소는 5년 뒤에도 좋을 겁니다. 그게 심사위원 판단입니다.
 
-065. WALT: Huh. Wisconsin's okay. Today.
+065. WALT: Huh, so Wisconsin's okay, today.
     월트: 흠. 위스콘신도 괜찮군. 오늘은.
 
-066. ANA: Dad! It's my turn! The 4-H class! Pickle's ready! Sam is holding her rope!
-    아나: 아빠! 내 차례야! 4-H 부문! 피클 준비됐어! 샘이 줄 잡고 있어!
+066. ANA: Dad, it's my turn for the 4-H class! Pickle's ready, and Sam is holding her rope!
+    아나: 아빠! 제 차례예요! 4-H 부문! 피클 준비됐어요! 샘이 줄 잡고 있어요!
 
-067. ELENA: Sam is holding a calf? Our Sam? The one who won't touch a dog?
+067. ELENA: Sam is holding a calf? Our Sam, the one who won't touch a dog?
     엘레나: 샘이 송아지를 잡고 있다고? 우리 샘이? 개도 못 만지는 애가?
 
-068. SAM: She's not a dog, Mom. She's Pickle. She's calm. She's calmer than the dog next door.
-    샘: 개 아니야, 엄마. 피클이야. 얌전해. 옆집 개보다 얌전해.
+068. SAM: She's not a dog, Mom, she's Pickle, and she's calm. She's calmer than the dog next door.
+    샘: 개 아니야, 엄마. 피클이야. 순해. 옆집 개보다 순해.
 
-069. JUNE: Dan. A photographer from the Syracuse paper is pointing at Sam. Sam's holding a calf. It's the best photo of the day.
-    준: 댄. 시러큐스 신문 사진기자가 샘을 찍으려고 해요. 샘이 송아지를 잡고 있어요. 오늘 최고의 사진이에요.
+069. JUNE: Dan, a photographer from the Syracuse paper is pointing at Sam, who's holding a calf, and it's the best photo of the day.
+    준: 댄, 시러큐스 신문 사진기자가 샘을 가리키고 있어요. 샘이 송아지를 잡고 있는데, 오늘 최고의 사진이에요.
 
-070. DAN: Sir. Excuse me. Please don't photograph my son. He's fifteen. He decides about his own pictures.
-    댄: 선생님. 실례합니다. 제 아들 찍지 말아 주세요. 열다섯이에요. 자기 사진은 자기가 정해요.
+070. DAN: Sir, excuse me, please don't photograph my son, because he's fifteen and he decides about his own pictures.
+    댄: 저기요, 죄송한데 제 아들은 찍지 말아 주세요. 열다섯이고, 자기 사진은 자기가 정하거든요.
 
-071. SAM: Dad. Wait. It's okay. He can take one. Of Pickle. And Ana. And me. From behind. So you can't see my face.
-    샘: 아빠. 잠깐. 괜찮아. 한 장은 찍어도 돼. 피클이랑. 아나랑. 나. 뒤에서. 얼굴 안 보이게.
+071. SAM: Dad, wait, it's okay, he can take one of Pickle and Ana and me, but from behind, so you can't see my face.
+    샘: 아빠, 잠깐, 괜찮아. 한 장 찍어도 돼. 피클이랑 아나랑 나. 뒤에서. 내 얼굴 안 보이게.
 
-072. DAN: You're sure?
-    댄: 정말이야?
+072. DAN: Are you sure about that, Sam, one hundred percent?
+    댄: 진짜 괜찮아, 샘? 백 퍼센트?
 
-073. SAM: Sam decides about Sam. I decided. From behind. One. And it's Ana's day, not yours.
-    샘: 샘에 관한 건 샘이 정해. 정했어. 뒤에서. 한 장. 그리고 오늘은 아나 날이야, 아빠 날이 아니라.
+073. SAM: Sam decides about Sam, and I decided: from behind, one picture. And it's Ana's day, not yours.
+    샘: 샘에 관한 건 샘이 정해. 내가 정했어. 뒤에서, 한 장. 그리고 오늘은 아빠 날이 아니라 아나 날이야.
 
-074. ELENA: Danny. He made a condition. Out loud. To a photographer.
-    엘레나: 대니. 쟤가 조건을 걸었어. 소리 내서. 사진기자한테.
+074. ELENA: Danny, he made a condition out loud to a photographer.
+    엘레나: 대니, 쟤가 사진기자한테 대놓고 조건을 걸었어.
 
-075. DAN: He learned it from his grandmother. She always gets what she wants and makes you eat first.
-    댄: 할머니한테 배웠지. 원하는 건 꼭 얻고 먼저 먹게 만드는 분.
+075. DAN: He learned it from his grandmother, who always gets what she wants and makes you eat first.
+    댄: 할머니한테 배웠지. 원하는 건 꼭 얻어 내고, 먼저 먹이시잖아.
 
-076. JUDGE: Junior division. 4-H dairy calves. Number four. Ana. Duquette Farm. Tell me about your calf, young lady.
-    심사위원: 주니어 부문. 4-H 송아지. 4번. 아나. 듀켓 농장. 송아지에 대해 말해 봐요, 아가씨.
+076. JUDGE: This is the junior division for 4-H dairy calves. Number four is Ana from Duquette Farm, so tell me about your calf, young lady.
+    심사위원: 4-H 젖소 송아지 유소년 부문입니다. 4번, 듀켓 농장의 아나. 송아지 소개해 주세요, 아가씨.
 
-077. ANA: Her name is Pickle. She's six months old. I feed her at six a.m. and six p.m. She likes it when I sing. She doesn't like it when my dad sings.
-    아나: 이름은 피클이에요. 6개월 됐어요. 아침 여섯 시랑 저녁 여섯 시에 밥 줘요. 제가 노래하면 좋아해요. 아빠가 노래하면 싫어해요.
+077. ANA: Her name is Pickle, and she's six months old. I feed her at six a.m. and six p.m., and she likes it when I sing, but she doesn't like it when my dad sings.
+    아나: 이름은 피클이고 6개월 됐어요. 아침 여섯 시랑 저녁 여섯 시에 밥을 줘요. 제가 노래하면 좋아하는데, 아빠가 노래하면 싫어해요.
 
 078. AUDIENCE: [laughter]
     청중: [웃음]
 
-079. JUDGE: What do you want to be when you grow up?
-    심사위원: 커서 뭐가 되고 싶어요?
+079. JUDGE: And what do you want to be when you grow up?
+    심사위원: 그럼 커서 뭐가 되고 싶어요?
 
-080. ANA: A vet. In Canton. So nobody has to drive seventy miles for a cow.
-    아나: 수의사요. 캔턴에서. 아무도 소 때문에 70마일 운전 안 해도 되게요.
+080. ANA: A vet in Canton, so nobody has to drive seventy miles for a cow.
+    아나: 캔턴의 수의사요. 소 때문에 70마일 운전하는 사람이 없게요.
 
-081. JUDGE: Seventy miles. That's how far the nearest large-animal vet is?
-    심사위원: 70마일. 제일 가까운 대동물 수의사가 그렇게 멀어요?
+081. JUDGE: Seventy miles, so that's how far the nearest large-animal vet is?
+    심사위원: 70마일이요? 가장 가까운 대동물 수의사가 그렇게 멀어요?
 
 082. ANA: In the winter, it feels like a hundred.
-    아나: 겨울엔 백 마일 같아요.
+    아나: 겨울엔 100마일 같아요.
 
-083. JUDGE: First place, junior division. Number four. Ana and Pickle.
-    심사위원: 주니어 부문 1등. 4번. 아나와 피클.
+083. JUDGE: First place in the junior division goes to number four, Ana and Pickle.
+    심사위원: 유소년 부문 1위는 4번, 아나와 피클입니다.
 
 084. TOMAS: Ana! Ana!
     토마스: 아나! 아나!
 
 085. WALT: Huh. Huh. That's two in one day.
-    월트: 흠. 흠. 하루에 두 개네.
+    월트: 흠. 흠. 하루에 두 번이군.
 
-086. DAN: Two ribbons or two "huhs"?
-    댄: 리본 두 개요, "흠" 두 번이요?
+086. DAN: Do you mean two ribbons today, or two "huhs"?
+    댄: 오늘 리본 두 개요, 아니면 "흠" 두 번이요?
 
-087. WALT: Both. Don't push it.
-    월트: 둘 다. 밀어붙이지 마요.
+087. WALT: Both, so don't push it.
+    월트: 둘 다. 너무 밀어붙이지 마요.
 
-088. JUNE: Okay. Dairy Products Building. The butter sculpture. Eight hundred pounds of butter. It's a cow and a girl this year. Made of butter.
-    준: 자. 낙농 제품관. 버터 조각. 버터 8백 파운드. 올해는 소랑 소녀예요. 버터로 만든.
+088. JUNE: Okay, this is the Dairy Products Building, with the butter sculpture made of eight hundred pounds of butter. This year it's a cow and a girl, made of butter.
+    준: 자, 여기가 낙농 제품관이에요. 버터 8백 파운드로 만든 버터 조각이 있어요. 올해는 소랑 소녀예요. 버터로 만든.
 
-089. DAN: Eight hundred pounds of butter. What happens to it after the fair?
-    댄: 버터 8백 파운드. 박람회 끝나면 어떻게 돼요?
+089. DAN: Eight hundred pounds of butter, so what happens to it after the fair?
+    댄: 버터 8백 파운드라. 박람회 끝나면 그건 어떻게 돼요?
 
-090. MARIE: It goes to a farm and gets turned into energy. In a digester. It makes electricity. Nothing's wasted. That's dairy.
-    마리: 농장으로 가서 에너지가 돼요. 소화조에서요. 전기를 만들어요. 버리는 게 없어요. 그게 낙농이에요.
+090. MARIE: It goes to a farm and gets turned into energy in a digester, which makes electricity. Nothing's wasted, because that's dairy.
+    마리: 농장으로 가서 소화조에서 에너지로 바뀌어요. 전기를 만들죠. 버리는 게 없어요. 그게 낙농이에요.
 
-091. GIL: Danny. I bought fried dough. And a salt potato. What's a salt potato? The lady said it's a Syracuse thing.
-    길: 대니. 튀긴 반죽 샀어. 그리고 소금 감자. 소금 감자가 뭐야? 아줌마가 시러큐스 거래.
+091. GIL: Danny, I bought fried dough and a salt potato. What's a salt potato, because the lady said it's a Syracuse thing?
+    길: 대니, 튀긴 반죽이랑 소금 감자 샀어. 소금 감자가 뭐야? 아주머니가 시러큐스 거래.
 
-092. MARIE: Small potatoes, boiled in very salty water. Then you pour butter on them. The salt workers ate them a hundred years ago. Syracuse used to be the salt city.
-    마리: 작은 감자를 아주 짠 물에 삶아요. 그다음 버터를 부어요. 백 년 전 소금 공장 노동자들이 먹던 거예요. 시러큐스는 원래 소금 도시였거든요.
+092. MARIE: They're small potatoes boiled in very salty water, and then you pour butter on them. The salt workers ate them a hundred years ago, when Syracuse used to be the salt city.
+    마리: 아주 짠 물에 삶은 작은 감자예요. 그다음에 버터를 부어요. 백 년 전에 소금 일꾼들이 먹었어요. 시러큐스가 소금 도시였거든요.
 
-093. DAN: And the milk? Everybody's drinking milk. In little cups.
-    댄: 그리고 우유는요? 다들 작은 컵으로 우유를 마시네요.
+093. DAN: And the milk? Everybody's drinking milk in little cups.
+    댄: 그럼 우유는요? 다들 작은 컵에 우유를 마시네요.
 
-094. WALT: That's the milk bar. All the chocolate milk you can drink. It was a quarter in 1979. It's a dollar now. I still say a quarter. Every year. Out of principle.
-    월트: 그게 우유 바요. 초코 우유 마실 만큼 마셔요. 1979년엔 25센트였소. 지금은 1달러지. 난 아직도 25센트라고 하오. 해마다. 원칙상.
+094. WALT: That's the milk bar, with all the chocolate milk you can drink. It was a quarter in 1979, and it's a dollar now, but I still say a quarter every year, out of principle.
+    월트: 그게 우유 바요. 초콜릿 우유를 마음껏 마시는 데지. 1979년엔 25센트였는데 지금은 1달러요. 그래도 난 해마다 25센트라고 하오. 원칙상.
 
-095. HARTLEY: Congressman! Over here, by the butter. You found the salt potatoes. Good man. That's a governor's rule. Nobody wins upstate without eating a salt potato on camera.
-    하틀리: 의원님! 이쪽, 버터 옆. 소금 감자 찾으셨네. 잘했어요. 그게 주지사 규칙이에요. 카메라 앞에서 소금 감자 안 먹고 업스테이트를 이긴 사람은 없어요.
+095. HARTLEY: Congressman, over here by the butter! You found the salt potatoes, good man, because that's a governor's rule: nobody wins upstate without eating a salt potato on camera.
+    하틀리: 의원님! 여기요, 버터 옆! 소금 감자 찾으셨네. 잘했어요. 주지사 규칙이에요. 카메라 앞에서 소금 감자 안 먹고 업스테이트에서 이기는 사람은 없어요.
 
-096. DAN: Governor. I'm told there are a lot of rules up here.
-    댄: 주지사님. 여기엔 규칙이 많다고 들었어요.
+096. DAN: Governor, I'm told there are a lot of rules up here.
+    댄: 주지사님, 여긴 규칙이 많다고 들었어요.
 
-097. HARTLEY: There are. Most of them are about food. Walt. Walt Duquette. Reserve champion. I heard on the radio. Congratulations.
-    하틀리: 많지요. 대부분 음식 규칙이고. 월트. 월트 듀켓. 준우승. 라디오로 들었어요. 축하해요.
+097. HARTLEY: There are, and most of them are about food. Walt, Walt Duquette, reserve champion! I heard it on the radio, so congratulations.
+    하틀리: 많죠. 대부분 음식 얘기예요. 월트! 월트 듀켓, 준우승! 라디오로 들었어요. 축하해요.
 
 098. WALT: Governor.
     월트: 주지사.
 
-099. HARTLEY: Walt and I go back. 2027. The storm. I plowed his road. Didn't I, Walt?
-    하틀리: 월트랑 난 오래 알아요. 2027년. 폭풍. 내가 그 집 길을 치웠지. 그렇지, 월트?
+099. HARTLEY: Walt and I go back to the storm in 2027, when I plowed his road. Didn't I, Walt?
+    하틀리: 월트랑 난 2027년 폭설 때부터 알았죠. 내가 월트네 길을 치웠거든요. 그렇죠, 월트?
 
-100. WALT: You plowed Route 11. My road is Duquette Road. The county plowed that. Two days later.
-    월트: 당신은 11번 국도를 치웠소. 우리 길은 듀켓 로드요. 그건 카운티가 치웠지. 이틀 뒤에.
+100. WALT: You plowed Route 11, but my road is Duquette Road, and the county plowed that two days later.
+    월트: 당신은 11번 국도를 치웠소. 우리 길은 듀켓 로드요. 그건 이틀 뒤에 카운티가 치웠지.
 
 101. AUDIENCE: [laughter]
     청중: [웃음]
 
-102. HARTLEY: Ha! See? Upstate. Nobody lets you get away with anything. That's why I love it. Walt, I'll take the correction.
-    하틀리: 하! 봐요? 업스테이트. 아무도 대충 넘어가게 안 해. 그래서 좋아요. 월트, 정정 받아들일게요.
+102. HARTLEY: Ha, see? That's upstate, where nobody lets you get away with anything, and that's why I love it. Walt, I'll take the correction.
+    하틀리: 하! 봤죠? 이게 업스테이트예요. 아무도 그냥 안 넘어가 줘요. 그래서 좋아하는 거예요. 월트, 정정 받아들일게요.
 
-103. REBECCA: Governor. Congressman. Rebecca Stone. Since you're both standing next to eight hundred pounds of butter, can I ask you both one question?
-    레베카: 주지사님. 의원님. 레베카 스톤이에요. 두 분 다 버터 8백 파운드 옆에 서 계시니까 질문 하나 같이 드려도 될까요?
+103. REBECCA: Governor, Congressman, I'm Rebecca Stone. Since you're both standing next to eight hundred pounds of butter, can I ask you both one question?
+    레베카: 주지사님, 의원님, 레베카 스톤이에요. 두 분 다 버터 8백 파운드 옆에 계시니, 같은 질문 하나 드려도 될까요?
 
-104. HARTLEY: Butter makes everyone friendly. Go ahead.
-    하틀리: 버터는 다들 친절하게 만들지요. 하세요.
+104. HARTLEY: Butter makes everyone friendly, so go ahead.
+    하틀리: 버터 앞에선 다들 친절해지죠. 하세요.
 
-105. REBECCA: Not yet. I'm waiting for a phone call. It's about the Justice Department. Should be any minute.
-    레베카: 아직요. 전화를 기다리는 중이에요. 법무부 건이에요. 곧 올 거예요.
+105. REBECCA: Not yet, because I'm waiting for a phone call about the Justice Department, and it should be any minute.
+    레베카: 아직이요. 법무부 관련 전화를 기다리고 있어요. 곧 올 거예요.
 
-106. AISHA: Dan. Your phone. Frank. He says it's not personal. It's public. He says sit down.
-    아이샤: 댄. 전화. 프랭크예요. 개인적인 거 아니래요. 공개된 거래요. 앉으래요.
+106. AISHA: Dan, it's your phone, from Frank. He says it's not personal, it's public, and he says to sit down.
+    아이샤: 댄, 전화요. 프랭크예요. 개인적인 일이 아니라 공개된 일이래요. 앉으래요.
 
-107. FRANK: Sit down, Danny. Is there a bench? Sit on it. The Justice Department announced at four. Castellan. And Holloway.
-    프랭크: 앉아, 대니. 벤치 있어? 앉아. 법무부가 네 시에 발표했어. Castellan. 그리고 홀러웨이.
+107. FRANK: Sit down, Danny, and if there's a bench, sit on it. The Justice Department announced at four, about Castellan and Holloway.
+    프랭크: 앉아, 대니. 벤치 있으면 거기 앉아. 법무부가 네 시에 발표했어. 캐슬런이랑 홀로웨이 건.
 
-108. DAN: I'm sitting. Next to a man eating a turkey leg. Go.
+108. DAN: I'm sitting next to a man eating a turkey leg, so go.
     댄: 앉았어요. 칠면조 다리 먹는 남자 옆에. 말해요.
 
-109. FRANK: The company signed a non-prosecution agreement. In English: the government won't charge the company with a crime. In exchange, the company admits exactly what it did. In writing. Signed.
-    프랭크: 회사가 불기소 합의서에 서명했어. 쉽게 말하면, 정부가 회사를 범죄로 기소하지 않는 거야. 대신 회사는 자기가 한 일을 정확히 인정하고. 서면으로. 서명해서.
+109. FRANK: The company signed a non-prosecution agreement. In English, the government won't charge the company with a crime, and in exchange the company admits exactly what it did, in writing, signed.
+    프랭크: 회사가 불기소 합의에 서명했어. 쉽게 말하면 정부는 회사를 범죄로 기소하지 않고, 대신 회사는 자기가 한 일을 정확히 인정하는 거야. 서면으로, 서명해서.
 
-110. FRANK: It's called a statement of facts. Twenty-two pages. Ridgefield. The readiness team. Pine Hollow with one nurse. All of it. Admitted.
-    프랭크: 그걸 사실 진술서라고 해. 22쪽. 리지필드. 준비 팀. 간호사 하나뿐인 파인 할로. 전부. 인정.
+110. FRANK: It's called a statement of facts, twenty-two pages, with Ridgefield, the readiness team, and Pine Hollow with one nurse. They admitted all of it.
+    프랭크: 그걸 사실 진술서라고 해. 22쪽. 리지필드, 대비팀, 간호사 한 명뿐이던 파인 할로우. 전부 다 인정했어.
 
-111. DAN: And the money?
-    댄: 그리고 돈은요?
+111. DAN: And what about the money, Frank, how much did they pay?
+    댄: 돈은요, 프랭크? 얼마나 냈어요?
 
-112. FRANK: Thirty-eight million dollars. And an outside monitor for three years. That's somebody from outside the company who watches everything they do. Like a babysitter with a law degree.
-    프랭크: 3,800만 달러. 그리고 3년간 외부 감시인. 회사 밖에서 와서 그 회사가 하는 걸 전부 지켜보는 사람이야. 법학 학위 있는 보모 같은 거지.
+112. FRANK: It's thirty-eight million dollars, plus an outside monitor for three years, which is somebody from outside the company who watches everything they do, like a babysitter with a law degree.
+    프랭크: 3,800만 달러. 그리고 3년 동안 외부 감시인. 회사 바깥 사람이 그쪽이 하는 걸 전부 지켜보는 거야. 법학 학위 있는 보모 같은 거지.
 
-113. DAN: And Grant Holloway?
-    댄: 그리고 그랜트 홀러웨이는요?
+113. DAN: And what about Grant Holloway himself, the man who ran it?
+    댄: 그럼 그랜트 홀로웨이 본인은요? 회사를 운영한 그 사람이요.
 
-114. FRANK: "Not charged at this time." That's the sentence. Four words. Then two more. "Investigation continuing."
-    프랭크: "현재로서는 기소하지 않음." 그게 문장이야. 네 단어. 그리고 두 단어 더. "수사 계속."
+114. FRANK: "Not charged at this time" is the sentence, four words, and then two more: "Investigation continuing."
+    프랭크: "현재로서는 기소하지 않음." 그게 그 문장이야. 그리고 두 단어 더. "수사 계속."
 
-115. DAN: "Not at this time." That's what Victoria said at the hearing.
-    댄: "현재로서는." 청문회 때 빅토리아가 한 말이에요.
+115. DAN: "Not at this time" is what Victoria said at the hearing.
+    댄: "현재로서는"이라니. 빅토리아가 청문회에서 했던 말이네요.
 
-116. FRANK: I know. I noticed. Priya noticed. Hank noticed. Everybody noticed.
-    프랭크: 알아. 나도 알아챘어. 프리야도. 행크도. 다들 알아챘어.
+116. FRANK: I know, and I noticed, and Priya noticed, and Hank noticed. Everybody noticed.
+    프랭크: 알아. 나도 알아챘고, 프리야도, 행크도 알아챘어. 다들 알아챘지.
 
-117. DAN: Why not charge him? He said "never" under oath. And the email said "Approved."
-    댄: 왜 기소를 안 해요? 선서하고 "한 번도"라고 했잖아요. 그리고 이메일엔 "승인"이라고 돼 있었고요.
+117. DAN: Why not charge him, when he said "never" under oath, and the email said "Approved"?
+    댄: 왜 기소 안 해요? 선서하고 "절대"라고 했는데, 이메일엔 "승인"이라고 있었잖아요.
 
-118. FRANK: Perjury is hard. You have to prove he knew he was lying. His lawyers say he forgot the email. Kemp says DOJ wants more. And there's time.
-    프랭크: 위증은 어려워. 거짓말인 줄 알았다는 걸 증명해야 해. 그쪽 변호사들은 이메일을 잊었다고 해. 켐프 말로는 법무부가 더 원한대. 그리고 시간이 있고.
+118. FRANK: Perjury is hard, because you have to prove he knew he was lying. His lawyers say he forgot the email, but Kemp says DOJ wants more, and there's time.
+    프랭크: 위증은 어려워. 거짓말인 걸 알고 했다는 걸 증명해야 하거든. 변호사들은 이메일을 잊어버렸다고 해. 그런데 켐프 말로는 법무부가 더 원한대. 시간도 있고.
 
-119. DAN: How much time?
-    댄: 시간이 얼마나 있는데요?
+119. DAN: And how much time do they have before it's too late?
+    댄: 너무 늦기 전까지 시간이 얼마나 있는데요?
 
-120. FRANK: The statute of limitations. That's the deadline to charge someone with a crime. For lying to Congress, it's five years from the day he testified. June 2036. They have until then.
-    프랭크: 공소시효. 누굴 범죄로 기소할 수 있는 기한이야. 의회에 거짓말한 건 증언한 날부터 5년. 2036년 6월. 그때까지 시간이 있어.
+120. FRANK: There's the statute of limitations, which is the deadline to charge someone with a crime. For lying to Congress it's five years from the day he testified, so they have until June 2036.
+    프랭크: 공소시효라는 게 있어. 범죄로 기소할 수 있는 마감 기한이지. 의회에 거짓말한 건 증언한 날부터 5년이야. 그러니까 2036년 6월까지 시간이 있어.
 
-121. DAN: 2036. That's a long time to wait.
-    댄: 2036년. 오래 기다려야 하네요.
+121. DAN: 2036 is a long time to wait.
+    댄: 2036년이면 오래 기다려야 하네요.
 
-122. FRANK: It's a long time for him too, Danny. He has to wake up every single morning until 2036 and wonder if today is the day. That's not nothing.
-    프랭크: 그 사람한테도 오래야, 대니. 2036년까지 매일 아침 일어나서 오늘이 그날인지 궁금해해야 해. 그것도 아무것도 아닌 건 아니야.
+122. FRANK: It's a long time for him too, Danny. He has to wake up every single morning until 2036 and wonder if today is the day, and that's not nothing.
+    프랭크: 그 사람한테도 긴 시간이야, 대니. 2036년까지 매일 아침 눈뜰 때마다 오늘이 그날인가 생각해야 하잖아. 그것도 작은 일이 아니야.
 
-123. DAN: How's Denise? Did she hear?
-    댄: 데니스는요? 들었대요?
+123. DAN: How's Denise doing, and did she hear the news yet?
+    댄: 드니스는 어때요? 소식 들었대요?
 
-124. FRANK: She called Priya at four-oh-two. She said, "Paper moved." That's all. Then she went back to her shift. Night shift at Pine Hollow. There are three nurses now.
-    프랭크: 네 시 2분에 프리야한테 전화했어. "서류가 움직였네요." 그게 다야. 그러고 근무하러 갔대. 파인 할로 야간. 이제 간호사가 셋이야.
+124. FRANK: She called Priya at four-oh-two and said, "Paper moved," and that's all. Then she went back to her night shift at Pine Hollow, where there are three nurses now.
+    프랭크: 4시 2분에 프리야한테 전화해서 "서류가 움직였네요" 했대. 그게 다야. 그러고는 파인 할로우 야간 근무로 돌아갔어. 지금은 간호사가 세 명이야.
 
-125. DAN: Three nurses. At night. Pine Hollow.
-    댄: 간호사 셋. 밤에. 파인 할로.
+125. DAN: Three nurses at night, at Pine Hollow.
+    댄: 밤에 간호사 세 명. 파인 할로우에.
 
 126. FRANK: Three. And Carmen called me too. She said, "Tell him not to make a speech about it. Tell him to say Mateo's name, and then stop talking."
-    프랭크: 셋. 그리고 카르멘도 나한테 전화했어. "그 사람한테 이걸로 연설하지 말라고 해. 마테오 이름만 말하고, 그다음엔 말을 멈추라고."
+    프랭크: 세 명. 그리고 카르멘도 전화했어. "연설하지 말라고 전해 줘요. 마테오 이름을 말하고, 그다음엔 입 다물라고요."
 
-127. REBECCA: Congressman. That was the call. You know the news. On the record. Your reaction?
-    레베카: 의원님. 그게 그 전화였어요. 소식 아시죠. 공식으로요. 반응은요?
+127. REBECCA: Congressman, that was the call, so you know the news. On the record, what's your reaction?
+    레베카: 의원님, 그 전화였어요. 소식 들으셨죠. 공식적으로, 반응은요?
 
-128. DAN: On the record. The company admitted it. In writing. Twenty-two pages. The man who ran it didn't. Mateo Ortiz.
-    댄: 공식으로요. 회사는 인정했습니다. 서면으로. 22쪽. 회사를 운영한 사람은 안 했고요. 마테오 오르티스.
+128. DAN: On the record: the company admitted it in writing, in twenty-two pages, but the man who ran it didn't. Mateo Ortiz.
+    댄: 공식적으로 말할게요. 회사는 22쪽짜리 서면으로 인정했습니다. 회사를 운영한 사람은 인정하지 않았고요. 마테오 오르티스.
 
-129. REBECCA: That's it? You're not going to say more?
-    레베카: 그게 다예요? 더 말 안 하세요?
+129. REBECCA: That's it? You're not going to say anything more than that?
+    레베카: 그게 다예요? 그 이상은 아무 말도 안 하세요?
 
-130. DAN: A mother asked me not to make a speech. I'm doing what she asked.
-    댄: 한 어머니가 연설하지 말라고 부탁했어요. 부탁대로 하는 거예요.
+130. DAN: A mother asked me not to make a speech, so I'm doing what she asked.
+    댄: 어떤 어머니가 연설하지 말라고 하셨어요. 그 부탁대로 하는 거예요.
 
-131. REBECCA: Governor? Your reaction?
-    레베카: 주지사님? 반응은요?
+131. REBECCA: Governor, what's your reaction?
+    레베카: 주지사님, 반응은요?
 
-132. HARTLEY: The Congressman did good work in that hearing. I'll say that plain. I don't agree with his bill. But he found something true. Good for him.
-    하틀리: 의원님이 그 청문회에서 좋은 일을 했어요. 그건 쉽게 말할게요. 그 법안엔 동의 안 해요. 그래도 사실을 찾아냈지요. 잘했어요.
+132. HARTLEY: The Congressman did good work in that hearing, and I'll say that plain. I don't agree with his bill, but he found something true, so good for him.
+    하틀리: 의원님이 그 청문회에서 잘했어요. 그건 쉽게 말할게요. 그분 법안엔 동의 안 하지만, 진실을 찾아냈어요. 잘된 일이죠.
 
-133. JUNE: He just complimented you. On the record. Next to butter.
-    준: 방금 당신을 칭찬했어요. 공식으로. 버터 옆에서.
+133. JUNE: He just complimented you on the record, next to butter.
+    준: 방금 공식적으로 당신을 칭찬했어요. 버터 옆에서.
 
-134. AISHA: That's not a compliment, June. That's insurance. Now nobody can say he was soft on Castellan.
-    아이샤: 그건 칭찬이 아니야, 준. 보험이지. 이제 아무도 그 사람이 Castellan한테 무르다고 못 해.
+134. AISHA: That's not a compliment, June, that's insurance, because now nobody can say he was soft on Castellan.
+    아이샤: 그건 칭찬이 아니에요, 준. 보험이죠. 이제 아무도 저 사람이 캐슬런한테 물렀다고 못 해요.
 
-135. HARTLEY: Ms. Bellamy's right. It's both. It's always both. See you in Albany, Congressman. October thirteenth.
-    하틀리: 벨라미 씨 말이 맞아요. 둘 다예요. 늘 둘 다지. 올버니에서 봐요, 의원님. 10월 13일.
+135. HARTLEY: Ms. Bellamy's right, because it's both, it's always both. See you in Albany on October thirteenth, Congressman.
+    하틀리: 벨라미 씨 말이 맞아요. 둘 다예요. 늘 둘 다죠. 10월 13일에 올버니에서 봬요, 의원님.
 
-136. GIL: Okay. Parking lot. Danny, the bus smells like a cow. It's your boots.
-    길: 좋아. 주차장. 대니, 버스에서 소 냄새 나. 네 장화야.
+136. GIL: Okay, we're at the parking lot. Danny, the bus smells like a cow, and it's your boots.
+    길: 자, 주차장이야. 대니, 버스에서 소 냄새 나. 네 장화야.
 
-137. DAN: They're my boots now. Walt gave them to me.
-    댄: 이제 내 장화예요. 월트가 줬어요.
+137. DAN: They're my boots now, because Walt gave them to me.
+    댄: 이제 내 장화예요. 월트 씨가 줬어요.
 
-138. WALT: Reardon. Before you go. One thing. I won't endorse you. Not in public. You're not my side. If I did, my neighbors would never sell me feed again. Not in this county.
-    월트: 레이든. 가기 전에. 하나. 당신 지지 선언은 안 하오. 공개적으론. 내 쪽이 아니니까. 그랬다간 이웃들이 다시는 사료를 안 팔 거요. 이 카운티에선.
+138. WALT: Reardon, before you go, one thing: I won't endorse you in public, because you're not my side. If I did, my neighbors would never sell me feed again, not in this county.
+    월트: 레이든, 가기 전에 하나만. 공개적으로 지지는 안 하겠소. 당신은 내 쪽이 아니니까. 그랬다간 이 카운티에선 이웃들이 다시는 사료를 안 팔 거요.
 
-139. DAN: I'd never ask you to.
-    댄: 부탁할 생각 없어요.
+139. DAN: I'd never ask you to do that, Mr. Duquette.
+    댄: 그런 부탁은 절대 안 해요, 듀켓 씨.
 
-140. WALT: I know. That's why I'm telling you. I'll tell you in November. In the booth. Nobody sees the booth.
-    월트: 아오. 그래서 말하는 거요. 11월에 말해 주지. 기표소에서. 기표소는 아무도 안 보니까.
+140. WALT: I know, and that's why I'm telling you. I'll tell you in November, in the booth, because nobody sees the booth.
+    월트: 알아. 그래서 말해 주는 거요. 11월에 말하겠소. 기표소에서. 기표소는 아무도 안 보니까.
 
-141. TOMAS: Sir. The visa bill. Ninety days. Marie printed it. It's on our refrigerator. Next to Ana's drawing.
-    토마스: 선생님. 비자 법안. 90일. 마리가 출력했어요. 우리 냉장고에 붙어 있어요. 아나 그림 옆에.
+141. TOMAS: Sir, Marie printed the visa bill with ninety days, and it's on our refrigerator, next to Ana's drawing.
+    토마스: 선생님, 마리가 90일짜리 비자 법안을 인쇄했어요. 우리 냉장고에 붙어 있어요. 아나 그림 옆에요.
 
-142. DAN: Is it still in committee?
-    댄: 아직 위원회에 있어요?
+142. DAN: Is it still stuck in committee?
+    댄: 아직 위원회에 묶여 있어요?
 
-143. MARIE: Still in committee. It'll stay there until after November. Everybody says so. But it's on the refrigerator. That's something.
-    마리: 아직 위원회에 있어요. 11월 지나서까지 거기 있을 거래요. 다들 그래요. 그래도 냉장고에 붙어 있어요. 그게 어디예요.
+143. MARIE: It's still in committee, and it'll stay there until after November, because everybody says so. But it's on the refrigerator, and that's something.
+    마리: 아직 위원회에 있어요. 11월 지날 때까진 거기 있을 거래요. 다들 그래요. 그래도 냉장고에 붙어 있잖아요. 그게 어디예요.
 
-144. ANA: Mr. Reardon. Sam says you'll be on TV in October. In Albany. Will you say Pickle's name?
-    아나: 레이든 아저씨. 샘이 아저씨 10월에 올버니에서 TV 나온대요. 피클 이름 말해 줄 거예요?
+144. ANA: Mr. Reardon, Sam says you'll be on TV in October in Albany, so will you say Pickle's name?
+    아나: 레이든 아저씨, 샘이 10월에 올버니에서 TV에 나온대요. 피클 이름 말해 줄 거예요?
 
-145. DAN: I can't promise that, Ana. It's a debate. They ask the questions.
-    댄: 그건 약속 못 해, 아나. 토론이거든. 질문은 그 사람들이 해.
+145. DAN: I can't promise that, Ana, because it's a debate, and they ask the questions.
+    댄: 약속은 못 하겠어, 아나. 토론이라 질문은 그쪽에서 하거든.
 
-146. ANA: Then say it in the answer. Sam says you always answer something different from the question.
-    아나: 그럼 대답할 때 말해요. 샘이 아저씨는 맨날 질문이랑 다른 걸 대답한대요.
+146. ANA: Then say it in the answer, because Sam says you always answer something different from the question.
+    아나: 그럼 대답할 때 말하면 되잖아요. 샘이 아저씨는 맨날 질문이랑 다른 걸 대답한대요.
 
-147. SAM: I said sometimes. I said sometimes.
-    샘: 가끔이라고 했어. 가끔이라고.
+147. SAM: I said sometimes, I said sometimes!
+    샘: 가끔이라고 했어. 가끔이라고!
 
-148. ELENA: He said always. I was there.
+148. ELENA: He said always, and I was there.
     엘레나: 맨날이라고 했어. 나 거기 있었어.
 
-149. WALT: Go. Before the cows get up again. Huh. That's three today.
-    월트: 가요. 소들이 또 일어나기 전에. 흠. 오늘 세 번이네.
+149. WALT: Go, before the cows get up again. Huh, that's three today.
+    월트: 가요. 소들 또 일어나기 전에. 흠. 오늘 세 번째군.
 
-150. DAN: Let me say it plain. Dirty boots, two ribbons, three "huhs," and twenty-two pages that finally say "we did it." And one name. Mateo Ortiz. Okay, Gil. Drive.
-    댄: 쉽게 말할게요. 더러운 장화, 리본 두 개, "흠" 세 번, 그리고 마침내 "우리가 했다"고 말하는 22쪽. 그리고 이름 하나. 마테오 오르티스. 자, 길. 가요.
+150. DAN: Let me say it plain: dirty boots, two ribbons, three "huhs," and twenty-two pages that finally say "we did it." And one name, Mateo Ortiz. Okay, Gil, drive.
+    댄: 쉽게 말할게요. 더러워진 장화, 리본 두 개, "흠" 세 번, 그리고 마침내 "우리가 했다"고 말하는 22쪽. 그리고 이름 하나. 마테오 오르티스. 좋아요, 길. 출발해요.
 
 ---
 
