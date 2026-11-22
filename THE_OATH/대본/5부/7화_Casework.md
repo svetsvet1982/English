@@ -47,7 +47,7 @@
 011. DAN: How much faster?
     댄: 얼마나 더 빨리요?
 
-012. ROSA: They go from "never" to "about three weeks," because every agency has a congressional liaison whose whole job is answering offices like ours.
+012. ROSA: They go from "never" to "about three weeks." Every agency has a congressional liaison whose whole job is answering offices like ours.
     로사: "절대 안 됨"에서 "3주쯤"으로요. 모든 기관에 의회 연락관이 있는데, 그 사람들 일이 우리 같은 사무실에 답하는 거예요.
 
 013. CLARENCE: Are you the new one? I'm Clarence Odell, Army, '72 to '75, and I've sat in that chair every Monday.
@@ -86,25 +86,25 @@
 024. CLARENCE: Who's Kafka? Does he work at the VA?
     클래런스: 카프카가 누구요? 보훈부 사람이오?
 
-025. DAN: He's a writer who wrote about a man who wakes up one morning, and the government won't believe he's a person, which is kind of like you.
+025. DAN: He's a writer who wrote about a man who wakes up one morning, and the government won't believe he's a person. That's kind of like you.
     댄: 작가예요. 어느 날 아침에 깨어났는데 정부가 그를 사람으로 안 믿어 주는 남자 얘기를 썼죠. 좀 선생님 같네요.
 
 026. CLARENCE: I'd like to meet him, because I'd tell him a few things.
     클래런스: 만나 보고 싶구려. 몇 마디 해 줄 게 있소.
 
-027. ROSA: Before we can call the VA for you, you have to sign this privacy release form, which says you give us permission to see your file and talk about it.
+027. ROSA: Before we can call the VA for you, you have to sign this privacy release form. It says you give us permission to see your file and talk about it.
     로사: 보훈부에 전화하기 전에 이 개인정보 공개 동의서에 서명하셔야 해요. 저희가 파일을 보고 그 얘기를 해도 된다고 허락하는 서류예요.
 
 028. CLARENCE: Another form? A form got me killed in the first place.
     클래런스: 또 서류요? 애초에 서류 때문에 내가 죽었는데.
 
-029. DAN: I know, but without this form the law says the VA can't tell us anything, even to help you, because privacy cuts both ways.
+029. DAN: I know, but without this form the law says the VA can't tell us anything, even to help you. Privacy cuts both ways.
     댄: 알아요. 그래도 이 서류 없으면 보훈부는 법적으로 아무 말도 못 해요. 도와드리려 해도요. 개인정보 보호는 양쪽으로 작동하거든요.
 
 030. CLARENCE: Fine, give me the pen, but if this one kills me again, I'm coming back to haunt you.
     클래런스: 좋소, 펜 주시오. 근데 이걸로 또 죽으면 귀신이 돼서 찾아올 거요.
 
-031. ROSA: That's the form, so now I'll send a congressional inquiry to the VA's liaison office, with your file and a letter from the congressman.
+031. ROSA: That's the form. Now I'll send a congressional inquiry to the VA's liaison office, with your file and a letter from the congressman.
     로사: 서류 됐어요. 이제 보훈부 연락관실에 의원실 질의를 보낼게요. 파일이랑 의원님 편지 같이요.
 
 032. DAN: Rosa, can I call the liaison myself, today?
@@ -125,7 +125,7 @@
 037. CLARENCE: I don't know who Gus is either, son.
     클래런스: 거스가 누군지도 모르오, 젊은이.
 
-038. ROSA: Number two is Mrs. Yesenia Mejía, whose husband has a deportation date of April sixteenth, which is two weeks from now.
+038. ROSA: Number two is Mrs. Yesenia Mejía. Her husband has a deportation date of April sixteenth, which is two weeks from now.
     로사: 2번은 예세니아 메히아 부인이에요. 남편분 추방 날짜가 4월 16일이에요. 2주 남았어요.
 
 039. YESENIA: Good morning, and my English is okay. My daughter usually comes with me, but she's in school today.
@@ -137,16 +137,16 @@
 041. YESENIA: My husband, Jorge, came from Honduras in 2016 and asked for asylum, and then we moved. In 2019 there was a court date, but the letter went to the old apartment.
     예세니아: 남편 호르헤는 2016년에 온두라스에서 와서 망명 신청을 했어요. 그러고 저희가 이사했어요. 2019년에 법원 날짜가 잡혔는데, 편지가 옛날 집으로 갔어요.
 
-042. ROSA: He never got the notice, so he didn't go to court, and the judge issued a removal order without him there, in absentia.
-    로사: 통지를 못 받으셔서 법원에 안 가셨고, 판사가 본인 없이 추방 명령을 내렸어요. 궐석으로요.
+042. ROSA: He never got the notice, so he didn't go to court. The judge issued a removal order without him there, in absentia.
+    로사: 통지를 못 받으셔서 법원에 안 가셨어요. 판사가 본인 없이 추방 명령을 내렸어요. 궐석으로요.
 
-043. DAN: In absentia is Latin for "you weren't in the room," so the court decided his whole life while he was at work.
+043. DAN: In absentia is Latin for "you weren't in the room." The court decided his whole life while he was at work.
     댄: 궐석이란 건 라틴어로 "그 방에 없었다"는 뜻이죠. 남편분이 일하는 동안 법원이 인생 전체를 결정한 거예요.
 
-044. YESENIA: He drives a bakery truck at four a.m., and last month ICE came, so now he has to report on April sixteenth.
+044. YESENIA: He drives a bakery truck at four a.m. Last month ICE came, so now he has to report on April sixteenth.
     예세니아: 새벽 네 시에 빵집 트럭을 몰아요. 지난달에 ICE가 왔고, 이제 4월 16일에 출두해야 해요.
 
-045. DAN: Mrs. Mejía, I need to tell you something honestly. Two years ago I could have been his lawyer, but now I can't, because I'm a congressman and I'm not allowed to represent anyone.
+045. DAN: Mrs. Mejía, I need to tell you something honestly. Two years ago I could have been his lawyer, but now I can't. I'm a congressman, and I'm not allowed to represent anyone.
     댄: 메히아 부인, 솔직하게 말씀드릴 게 있어요. 2년 전이면 제가 남편분 변호사가 될 수 있었어요. 지금은 안 돼요. 의원이라서 누구도 대리할 수 없거든요.
 
 046. YESENIA: Then what can you do for us?
@@ -164,13 +164,13 @@
 050. FRANK: I'm the investigator, and I'm a retired cop, so don't hold it against me.
     프랭크: 조사관이오. 은퇴한 경찰이고. 그걸로 미워하진 마쇼.
 
-051. ELI: Mrs. Mejía, I spent sixteen years in a place where people decided things about me when I wasn't in the room, so I'm going to say this slowly: there's a way to stop the clock.
+051. ELI: Mrs. Mejía, I spent sixteen years in a place where people decided things about me when I wasn't in the room. So I'm going to say this slowly: there's a way to stop the clock.
     일라이: 메히아 부인, 전 16년 동안 제가 없는 방에서 사람들이 제 일을 결정하는 곳에 있었어요. 그래서 천천히 말씀드릴게요. 시계를 멈추는 방법이 있어요.
 
 052. YESENIA: Stop the clock? How do we do that?
     예세니아: 시계를 멈춰요? 어떻게요?
 
-053. ELI: It's called a motion to reopen. If he never got the notice, he can ask the court to reopen the case, and when you file that kind of motion, the deportation stops automatically.
+053. ELI: It's called a motion to reopen. If he never got the notice, he can ask the court to reopen the case. When you file that kind of motion, the deportation stops automatically.
     일라이: 재심리 신청이라는 거예요. 통지를 못 받았으면 법원에 사건을 다시 열어 달라고 할 수 있어요. 그런 신청을 내면 추방이 자동으로 멈춰요.
 
 054. DAN: That's an automatic stay, which means that while the judge decides, nobody can put him on a plane.
@@ -182,8 +182,8 @@
 056. ELI: Our lawyers cost zero dollars, because that's the whole point of the place. Ruth Abernathy made sure of it, and she's still making sure of it from wherever she is.
     일라이: 저희 변호사는 0달러예요. 그게 그곳의 존재 이유예요. 루스 애버내시가 그렇게 만들었고, 지금 어디 계시든 여전히 그렇게 지키고 계세요.
 
-057. FRANK: We need proof he lived somewhere else in 2019, like a lease, a pay stub, or a church letter, so anything with an address and a date.
-    프랭크: 2019년에 다른 데 살았다는 증거가 필요하오. 임대차 계약서, 급여 명세서, 교회 편지. 주소랑 날짜 있는 거면 뭐든.
+057. FRANK: We need proof he lived somewhere else in 2019, like a lease, a pay stub, or a church letter. Anything with an address and a date will do.
+    프랭크: 2019년에 다른 데 살았다는 증거가 필요하오. 임대차 계약서, 급여 명세서, 교회 편지. 주소랑 날짜 있는 거면 뭐든 되오.
 
 058. YESENIA: The bakery paid him by check, and every check has the new address. I keep everything, because my mother taught me to keep every paper.
     예세니아: 빵집에서 수표로 월급을 줬어요. 수표마다 새 주소가 있어요. 전 다 보관해요. 엄마가 종이는 전부 보관하라고 가르쳤거든요.
@@ -200,7 +200,7 @@
 062. ROSA: Everybody cries in this office, even Congresswoman Washington, twice, so here's a tissue.
     로사: 이 사무실에선 다들 울어요. 워싱턴 의원님도 두 번 우셨어요. 여기 휴지요.
 
-063. DAN: And our office will send ICE a congressional inquiry today to confirm the date and the case, so they know someone is watching.
+063. DAN: And our office will send ICE a congressional inquiry today to confirm the date and the case. Then they'll know someone is watching.
     댄: 그리고 저희 사무실에서 오늘 ICE에 의원실 질의를 보낼게요. 날짜랑 사건을 확인하려고요. 누군가 지켜보고 있다는 걸 알게요.
 
 064. ELI: Dan, can I ask you something, off to the side?
@@ -209,7 +209,7 @@
 065. DAN: Of course, Eli, so tell me what it is.
     댄: 물론이지, 일라이. 뭔지 말해 봐.
 
-066. ELI: I've got sixty-one credits now, which is half, and I signed up for the LSAT in June, the law school test.
+066. ELI: I've got sixty-one credits now, which is half. I signed up for the LSAT in June, the law school test.
     일라이: 이제 61학점이에요. 절반. 그리고 6월 LSAT 신청했어요. 로스쿨 시험이요.
 
 067. DAN: Eli, that's... you actually signed up?
@@ -263,17 +263,17 @@
 083. DAN: Mr. Pike, this is Congressman Dan Reardon, and thank you for calling back the same day. I'm here with a constituent, Mr. Clarence Odell.
     댄: 파이크 씨, 댄 레이든 의원입니다. 당일에 회신 주셔서 감사합니다. 지금 지역 주민 클래런스 오델 씨와 함께 있습니다.
 
-084. PIKE: Yes, Congressman, I have the file in front of me, and I have to say this is unusual, because our records show Mr. Odell passed away on May ninth of last year.
+084. PIKE: Yes, Congressman, I have the file in front of me, and I have to say this is unusual. Our records show Mr. Odell passed away on May ninth of last year.
     파이크: 네, 의원님. 파일이 앞에 있습니다. 그런데 이건 좀 특이하네요. 저희 기록엔 오델 씨가 작년 5월 9일에 사망하신 걸로 돼 있습니다.
 
 085. CLARENCE: Tell him I'm sitting here eating a cookie.
     클래런스: 여기 앉아서 쿠키 먹고 있다고 전하시오.
 
-086. DAN: Mr. Pike, Mr. Odell is sitting next to me eating a cookie, and I can confirm that personally, as a member of Congress.
+086. DAN: Mr. Pike, Mr. Odell is sitting next to me eating a cookie. I can confirm that personally, as a member of Congress.
     댄: 파이크 씨, 오델 씨는 지금 제 옆에서 쿠키를 드시고 계십니다. 의원으로서 제가 직접 확인해 드릴 수 있어요.
 
-087. PIKE: Understood, sir, and I see what happened now. A Clarence Odell died in Buffalo last May, with a different middle name and a different birthday, but the same last four of the Social Security number.
-    파이크: 알겠습니다, 의원님. 이제 무슨 일인지 보이네요. 작년 5월 버펄로에서 클래런스 오델이라는 분이 사망했는데, 중간 이름도 생일도 다르지만 사회보장번호 뒷자리 네 개가 같습니다.
+087. PIKE: Understood, sir, and I see what happened now. A Clarence Odell died in Buffalo last May. He had a different middle name and a different birthday, but the same last four of the Social Security number.
+    파이크: 알겠습니다, 의원님. 이제 무슨 일인지 보이네요. 작년 5월 버펄로에서 클래런스 오델이라는 분이 사망했습니다. 중간 이름도 생일도 다르지만 사회보장번호 뒷자리 네 개가 같습니다.
 
 088. DAN: And when Mr. Odell changed his address that same week, the system put the two together.
     댄: 그리고 오델 씨가 같은 주에 주소를 바꾸시니까 시스템이 두 사람을 합쳐 버린 거군요.
@@ -314,7 +314,7 @@
 100. TERRENCE: Congressman, somebody's here about the boiler, and you're not going to believe who it is.
     테런스: 의원님, 보일러 때문에 누가 왔는데요. 누군지 들으면 안 믿으실 거예요.
 
-101. DOYLE: Congressman Reardon, I'm Pat Doyle from Doyle Heating and Cooling, and I said two hours. Your guy called the landlord at seven, the landlord called us at nine ten, and it's eleven oh five, which is under two hours.
+101. DOYLE: Congressman Reardon, I'm Pat Doyle from Doyle Heating and Cooling, and I said two hours. Your guy called the landlord at seven, and the landlord called us at nine ten. It's eleven oh five, which is under two hours.
     도일: 레이든 의원님. 도일 냉난방의 팻 도일입니다. 두 시간이라고 했죠. 그쪽 직원이 일곱 시에 건물주한테 전화했고, 건물주가 아홉 시 십 분에 우리한테 전화했어요. 지금 열한 시 오 분. 두 시간 안이에요.
 
 102. DAN: Pat, it's three o'clock in the afternoon.
@@ -356,7 +356,7 @@
 114. DAN: That's fair enough, Pat, so thank you for driving fast.
     댄: 그건 인정이에요, 팻. 빨리 와 줘서 고마워요.
 
-115. DOYLE: Can I tell you something? I watched your one-minute, the one where they cut you off, and my mother was a nurse at St. John's for thirty years, doing night shifts, sometimes twenty-four hours.
+115. DOYLE: Can I tell you something? I watched your one-minute, the one where they cut you off. My mother was a nurse at St. John's for thirty years, doing night shifts, sometimes twenty-four hours.
     도일: 한마디 해도 돼요? 의원님 1분 연설 봤어요. 말 끊긴 거요. 우리 어머니가 세인트 존스에서 30년 동안 간호사였어요. 야간 근무에, 가끔 24시간도 했죠.
 
 116. DAN: You told me about her back in October.
@@ -413,7 +413,7 @@
 133. DAN: Mr. Odell, I can't take your medal, so Rosa, is there a rule?
     댄: 오델 씨, 훈장은 못 받아요. 로사, 규칙 있죠?
 
-134. ROSA: There is a rule about gifts from constituents, but if it's displayed in the office and belongs to the office instead of to you, it's fine, like a flag or a photo.
+134. ROSA: There is a rule about gifts from constituents. But if it's displayed in the office and belongs to the office instead of to you, it's fine, like a flag or a photo.
     로사: 주민 선물에 관한 규칙이 있어요. 그래도 사무실에 전시하고 의원님 개인이 아니라 사무실 소유면 괜찮아요. 깃발이나 사진처럼요.
 
 135. CLARENCE: It's not a gift, it's a reminder. Every time somebody sits in that chair on a Monday, you look at it and remember the next guy.
