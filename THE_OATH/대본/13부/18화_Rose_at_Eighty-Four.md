@@ -386,8 +386,8 @@
 124. DAN: Then it's been terrible since 1971, so can I have another cup?
     댄: 그럼 1971년부터 맛없었네요. 한 잔 더 주실래요?
 
-125. AUDIENCE: (laughter)
-    모두: (웃음)
+125. AUDIENCE: Ha! He's been complaining about that coffee for fifty years!
+    모두: 하! 저 사람 그 커피 갖고 50년째 불평하네!
 
 126. ZOE: That's not an answer, Dad.
     조이: 그건 대답이 아니잖아, 아빠.
