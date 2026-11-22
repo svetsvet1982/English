@@ -14,13 +14,13 @@
 
 ## 대본
 
-001. GUS: Chairman, it's seven-thirty on a Sunday and you're in a tie, so sit down for two eggs over easy, rye toast, and coffee you'll complain about.
+001. GUS: Chairman, it's seven-thirty on a Sunday and you're in a tie. So sit down for two eggs over easy, rye toast, and coffee you'll complain about.
     거스: 위원장님, 일요일 일곱 시 반에 넥타이를 맸네. 앉아. 달걀 두 개 반숙, 호밀 토스트, 그리고 불평할 커피.
 
 002. DAN: Gus, I'm not hungry, because my stomach is already on the stage.
     댄: 거스, 배 안 고파요. 내 위는 벌써 무대 위에 있어요.
 
-003. GUS: Nobody's hungry before a big day, and your father wasn't hungry before the milk crate, but your mother made him eat anyway, so eat.
+003. GUS: Nobody's hungry before a big day, and your father wasn't hungry before the milk crate. But your mother made him eat anyway, so eat.
     거스: 큰일 앞두고 배고픈 사람은 없어. 네 아버지도 우유 상자 올라가기 전에 배 안 고팠어. 그래도 어머님이 억지로 먹였지. 먹어.
 
 004. DAN: You were here in 1980? You never told me that.
@@ -32,7 +32,7 @@
 006. ROSE: That's true, because I was there. Danny, sit up. Gus, where's my chair, the one I'm taking?
     로즈: 맞아. 나도 있었어. 대니, 똑바로 앉아. 거스, 내 의자 어딨어? 가져갈 거.
 
-007. GUS: Mrs. Reardon, I put a cushion on it, and I wrote your name on the bottom, in case somebody steals it at the train station.
+007. GUS: Mrs. Reardon, I put a cushion on it, and I wrote your name on the bottom. That's in case somebody steals it at the train station.
     거스: 레이든 부인, 방석 깔았어요. 밑에 이름도 썼어요. 역에서 누가 훔쳐 갈까 봐.
 
 008. ROSE: Nobody steals a diner chair, Gus, not even in Astoria.
@@ -53,22 +53,22 @@
 013. GUS: Don't say perfect, because that's bad luck too, so say terrible, because terrible is safe.
     거스: 완벽하다고 하지 마. 그것도 재수 없어. 끔찍하다고 해. 끔찍한 게 안전해.
 
-014. AISHA: Okay, facts first: it's eleven o'clock at Ditmars Boulevard with two thousand people, and a train comes in above you every eight minutes, so you'll have to stop.
+014. AISHA: Okay, facts first: it's eleven o'clock at Ditmars Boulevard with two thousand people. A train comes in above you every eight minutes, so you'll have to stop.
     아이샤: 자, 사실 먼저. 열한 시, 디트마스 대로, 2천 명. 8분마다 머리 위로 열차가 들어오니까 멈춰야 해요.
 
 015. DAN: Aisha, you're not my chief of staff anymore, because you resigned.
     댄: 아이샤, 당신 이제 내 비서실장 아니잖아요. 사직했으니까.
 
-016. AISHA: I resigned from the office on April first, and I'm your campaign manager, which is a different hat with a different, smaller paycheck, but the facts are the same.
+016. AISHA: I resigned from the office on April first, and I'm your campaign manager. It's a different hat with a different, smaller paycheck, but the facts are the same.
     아이샤: 4월 1일에 사무실을 그만뒀고 이제 선대본부장이에요. 모자도 다르고 월급도 다르고 더 적지만, 사실은 똑같아요.
 
-017. JUNE: And I'm on unpaid leave as communications director for the campaign, and I'm wearing the Mets hat, because it's the campaign hat, and it's always been the campaign hat.
+017. JUNE: And I'm on unpaid leave as communications director for the campaign. I'm wearing the Mets hat, because it's the campaign hat, and it's always been the campaign hat.
     준: 전 무급 휴직하고 선거 홍보국장이에요. 메츠 모자 썼어요. 선거 모자니까요. 늘 선거 모자였어요.
 
 018. DAN: Are we on the ballot, and did the signatures hold up?
     댄: 우리 투표용지에 올랐어요? 서명은 유효했고요?
 
-019. AISHA: We filed petitions on April second with forty-one thousand signatures from every part of the state, when we needed fifteen thousand, and they were approved Friday.
+019. AISHA: We filed petitions on April second with forty-one thousand signatures from every part of the state. We needed fifteen thousand, and they were approved Friday.
     아이샤: 4월 2일에 주 전역에서 받은 서명 4만 1천 개로 청원서를 냈어요. 1만 5천 개가 필요했는데요. 금요일에 승인됐어요.
 
 020. LEILA: For the new people, a designating petition is voters' signatures that put you on the primary ballot, so no signatures means no name.
@@ -80,7 +80,7 @@
 022. DAN: And what happens to the House seat for the Bronx and Queens?
     댄: 그럼 하원 자리는요? 브롱크스랑 퀸즈는 어떻게 돼요?
 
-023. AISHA: In New York you can't be on the ballot for both, so if you run for the Senate, you give up the House seat, and Clarence told Terrence before we did.
+023. AISHA: In New York you can't be on the ballot for both. If you run for the Senate, you give up the House seat, and Clarence told Terrence before we did.
     아이샤: 뉴욕에선 둘 다 투표용지에 오를 수 없어요. 상원에 나가면 하원 자리는 포기하는 거죠. 클래런스가 우리보다 먼저 테런스한테 말했어요.
 
 024. DAN: How did Clarence know, when nobody told him anything?
@@ -122,7 +122,7 @@
 036. KEVIN: Danny, I'm off duty with no uniform, so Lieutenant Reardon isn't here, just Kevin and Nicky.
     케빈: 형, 나 비번이야. 제복도 없어. 레이든 경위는 여기 없어. 그냥 케빈이랑 니키야.
 
-037. ZOE: Dad, I flew in last night, and I have a paper due tomorrow, but I don't care, because Hannah's dad drove me to the airport in Detroit.
+037. ZOE: Dad, I flew in last night, and I have a paper due tomorrow. But I don't care, because Hannah's dad drove me to the airport in Detroit.
     조이: 아빠, 어젯밤에 비행기로 왔어. 내일 리포트 마감인데 상관없어. 해나네 아빠가 디트로이트 공항까지 태워 줬어.
 
 038. DAN: Dave drove you all the way to Detroit on a Saturday night?
@@ -176,7 +176,7 @@
 054. DAN: My name is Dan Reardon, and I was born six blocks from here. My father drove the Q69 for twenty-six years, and his bus started at this station every morning at five-ten.
     댄: 제 이름은 댄 레이든입니다. 여기서 여섯 블록 떨어진 곳에서 태어났습니다. 아버지는 26년 동안 Q69 버스를 모셨고, 그 버스는 매일 아침 5시 10분에 이 역에서 출발했습니다.
 
-055. DAN: In 1980, my father stood on this milk crate in front of three hundred drivers and tore up a promotion, because the city wanted him to sell out the men he worked with, and he said no, out loud.
+055. DAN: In 1980, my father stood on this milk crate in front of three hundred drivers and tore up a promotion. The city wanted him to sell out the men he worked with, and he said no, out loud.
     댄: 1980년, 아버지는 이 우유 상자 위에 서서 기사 3백 명 앞에서 승진을 찢어 버렸습니다. 시가 동료들을 팔아넘기라고 했기 때문이죠. 아버지는 소리 내서 거절했습니다.
 
 056. STATHIS: That's right, because I was there!
@@ -203,8 +203,8 @@
 063. DAN: Thank you, sir, because you just took my best line.
     댄: 감사합니다, 기관사님. 방금 제 최고의 대사를 가져가셨네요.
 
-064. DAN: Two years ago, I became the chairman of a subcommittee, and I chose to investigate a company I once represented as a lawyer. I'll never say what I learned as their lawyer, and I followed every rule, but the record spoke anyway.
-    댄: 2년 전, 저는 소위원장이 됐고 변호사로서 대리했던 회사를 조사하기로 했습니다. 그 회사 변호사로서 알게 된 건 절대 말하지 않을 것이고, 모든 규칙을 지켰습니다. 그래도 기록이 말했습니다.
+064. DAN: Two years ago, I became the chairman of a subcommittee, and I chose to investigate a company I once represented as a lawyer. I'll never say what I learned as their lawyer. I followed every rule, but the record spoke anyway.
+    댄: 2년 전, 저는 소위원장이 됐고 변호사로서 대리했던 회사를 조사하기로 했습니다. 그 회사 변호사로서 알게 된 건 절대 말하지 않을 겁니다. 모든 규칙을 지켰습니다. 그래도 기록이 말했습니다.
 
 065. DAN: A nurse from Louisiana spoke, a mother from Highbridge spoke, and a man in Texas counted to twelve hundred. And a CEO said "never" under oath, but the paper said otherwise.
     댄: 루이지애나의 간호사가 말했고, 하이브리지의 어머니가 말했고, 텍사스의 한 남자가 천이백까지 셌습니다. 그리고 한 CEO가 선서하고 "한 번도"라고 했지만 서류는 다르게 말했습니다.
@@ -215,8 +215,8 @@
 067. DAN: Mateo, and Mrs. Ortiz is here in the fourth row. I'm not allowed to talk about her son's case, so I'll just say his name: Mateo Ortiz.
     댄: 마테오. 오르티스 부인이 넷째 줄에 계십니다. 저는 아드님 사건에 대해 말할 수 없습니다. 그래서 이름만 말하겠습니다. 마테오 오르티스.
 
-068. DAN: In October, two hundred forty-six members of the House from both sides voted for the Detention Accountability Act, with nurses who stay, families told in forty-eight hours, and companies that fail twice not getting paid a third time.
-    댄: 10월에 양당 하원의원 246명이 구금 책임법에 찬성했습니다. 머무는 간호사, 48시간 안에 가족에게 알리기, 두 번 실패한 회사는 세 번째 돈을 못 받기.
+068. DAN: In October, two hundred forty-six members of the House from both sides voted for the Detention Accountability Act. It means nurses who stay and families told in forty-eight hours. It means companies that fail twice don't get paid a third time.
+    댄: 10월에 양당 하원의원 246명이 구금 책임법에 찬성했습니다. 머무는 간호사, 48시간 안에 가족에게 알리기. 그리고 두 번 실패한 회사는 세 번째 돈을 못 받기.
 
 069. DAN: Then it went to the Senate, where it's still on a list called the calendar. Staff call it the graveyard, and a friend of mine used to call it "a graveyard with a gift shop."
     댄: 그다음 상원으로 갔고, 아직도 일정표라는 목록에 있습니다. 보좌진은 무덤이라고 부르죠. 제 친구는 "기념품 가게 딸린 무덤"이라고 불렀습니다.
@@ -224,7 +224,7 @@
 070. AUDIENCE: [laughter]
     청중: [웃음]
 
-071. DAN: She said somebody should open a window. Her name was Ruth Abernathy, and she worked on the Grand Concourse for thirty-seven years, where the heat never worked, but she never stopped.
+071. DAN: She said somebody should open a window. Her name was Ruth Abernathy, and she worked on the Grand Concourse for thirty-seven years. The heat never worked there, but she never stopped.
     댄: 그분은 누군가 창문을 열어야 한다고 했습니다. 이름은 루스 애버내시. 그랜드 콩코스에서 37년 일했죠. 난방은 한 번도 안 됐지만 그분은 한 번도 멈추지 않았습니다.
 
 072. ELI: Tell them, Dan!
@@ -242,14 +242,14 @@
 076. LEILA: Answer the question, Dan, right now, in front of everybody.
     레일라: 질문에 대답해요, 댄. 지금, 모두 앞에서.
 
-077. DAN: There's a woman in the front row who has asked me one question every time for four years, and she asked it this morning: "Who does this actually help?"
+077. DAN: There's a woman in the front row who has asked me one question every time for four years. She asked it this morning: "Who does this actually help?"
     댄: 앞줄에 4년 동안 매번 저한테 질문 하나를 던지는 분이 계십니다. 오늘 아침에도 물었죠. "이게 실제로 누구한테 도움이 되죠?"
 
-078. DAN: So here's my answer, out loud, so she can hold me to it: a nurse in Pine Hollow who works alone at night, and a guard at Ridgefield who shouldn't have to be the nurse.
+078. DAN: So here's my answer, out loud, so she can hold me to it. It helps a nurse in Pine Hollow who works alone at night, and a guard at Ridgefield who shouldn't have to be the nurse.
     댄: 그래서 제 대답입니다. 소리 내서요. 나중에 따질 수 있게. 밤에 혼자 일하는 파인 할로의 간호사, 간호사 노릇을 하지 않아도 돼야 할 리지필드의 교도관.
 
-079. DAN: It helps a veteran whose records burned in 1973, a dairy farmer upstate I haven't met yet, and a family in Buffalo I haven't met yet. I'm going to go meet them, and that's who.
-    댄: 1973년에 기록이 탄 참전용사, 아직 못 만난 북부의 낙농업자, 아직 못 만난 버펄로의 한 가족. 저는 그분들을 만나러 갈 겁니다. 그게 대답입니다.
+079. DAN: It helps a veteran whose records burned in 1973. It helps a dairy farmer upstate and a family in Buffalo, people I haven't met yet. I'm going to go meet them, and that's who.
+    댄: 1973년에 기록이 탄 참전용사를 돕습니다. 아직 못 만난 북부의 낙농업자와 버펄로의 한 가족을 돕습니다. 저는 그분들을 만나러 갈 겁니다. 그게 대답입니다.
 
 080. LEILA: That's an answer, Dan, and I'm writing it down.
     레일라: 그게 대답이네요, 댄. 적어 둘게요.
@@ -269,7 +269,7 @@
 085. ROSE: Rose sits down!
     로즈: 로즈는 앉는다!
 
-086. DAN: Her one condition was that I do this here, not in Manhattan and not in a hotel, but at the last stop, because this is where my father's bus started every morning.
+086. DAN: Her one condition was that I do this here, not in Manhattan and not in a hotel, but at the last stop. This is where my father's bus started every morning.
     댄: 어머니의 조건은 하나였습니다. 맨해튼 말고, 호텔 말고, 종점에서 하라. 여기가 매일 아침 아버지 버스가 출발하던 곳이니까요.
 
 087. DAN: The last stop isn't where you end, because it's where the driver turns the bus around. The last stop is where you start again.
@@ -284,7 +284,7 @@
 090. DAN: So let me say it plain one more time, and then I'll get off this crate and get on a bus to St. Lawrence County.
     댄: 그러니 한 번 더 쉽게 말씀드리겠습니다. 그다음 이 상자에서 내려와 세인트로런스 카운티행 버스를 타겠습니다.
 
-091. DAN: I'm running for the United States Senate for all of New York, the subway and the farms, and I'm going to ask every question I'm allowed to ask, out loud.
+091. DAN: I'm running for the United States Senate for all of New York, the subway and the farms. And I'm going to ask every question I'm allowed to ask, out loud.
     댄: 저는 미국 상원의원에 출마합니다. 뉴욕 전체를 위해서, 지하철도 농장도. 그리고 제가 물을 수 있는 모든 질문을 소리 내서 묻겠습니다.
 
 092. AUDIENCE: [cheering]
@@ -335,7 +335,7 @@
 107. DAN: So you're running for the Senate too, Hank.
     댄: 그러니까 당신도 상원에 출마하는 거네요, 행크.
 
-108. HANK: I'm running on my side in Montana, and you're running on your side in New York, so if we both win, we're freshmen again, in the same room on different sides.
+108. HANK: I'm running on my side in Montana, and you're running on your side in New York. If we both win, we're freshmen again, in the same room on different sides.
     행크: 난 몬태나에서 우리 쪽으로, 당신은 뉴욕에서 당신 쪽으로 나가는 거야. 둘 다 이기면 또 신입이지. 같은 방, 다른 편.
 
 109. DAN: Then we'll both need to find a new rowhouse.
@@ -344,7 +344,7 @@
 110. HANK: Carlos gets the boiler, because he froze twice learning the pilot light, and now he knows.
     행크: 보일러는 카를로스 거야. 점화 불씨 배우다 두 번 얼었는데, 이제 할 줄 알아.
 
-111. REBECCA: Congressman Pruitt, I'm Rebecca Stone from the Capitol Ledger, on the record: you're from the other side, so what do you think of Dan Reardon's run?
+111. REBECCA: Congressman Pruitt, I'm Rebecca Stone from the Capitol Ledger, on the record. You're from the other side, so what do you think of Dan Reardon's run?
     레베카: 프루잇 의원님, 캐피톨 레저의 레베카 스톤이에요. 공식적으로요. 반대편이신데 댄 레이든 출마를 어떻게 보세요?
 
 112. HANK: On the record, I don't endorse people on the other side, because I'm a neighbor, so I'll say one true thing as a neighbor.
@@ -422,7 +422,7 @@
 136. CLARENCE: Don't write it, do it, because a sergeant told you that once.
     클래런스: 적지 말고 하시오. 어떤 상사가 한 번 그렇게 말했잖소.
 
-137. AISHA: Dan, the bus to St. Lawrence County is here, and it's seven hours, and a dairy farmer named Walt Duquette will meet you at six a.m. in the barn.
+137. AISHA: Dan, the bus to St. Lawrence County is here, and it's seven hours. A dairy farmer named Walt Duquette will meet you at six a.m. in the barn.
     아이샤: 댄, 세인트로런스 카운티행 버스 왔어요. 일곱 시간이에요. 월트 듀켓이라는 낙농업자가 새벽 여섯 시에 헛간에서 만나 줄 거예요.
 
 138. DAN: Six a.m. in a barn, then, with a dairy farmer.
