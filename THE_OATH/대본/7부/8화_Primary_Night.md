@@ -218,8 +218,8 @@
 068. ANCHOR: We can now project a winner in the Senate primary. With eighty-one percent of precincts reporting, the Associated Press calls the race for Congressman Dan Reardon.
     진행자: 이제 상원 경선 승자를 예측할 수 있습니다. 개표구 81% 보고 기준, AP 통신이 댄 레이든 의원의 승리를 선언했습니다.
 
-069. AUDIENCE: [cheering]
-    청중: [환호]
+069. AUDIENCE: We won! Danny won! Somebody turn the music up!
+    청중: 이겼다! 대니가 이겼어! 누가 음악 좀 키워!
 
 070. ROSE: Danny, Danny, sit down! No, stand up! I don't know, so Kevin, which one?
     로즈: 대니! 대니! 앉아! 아니, 일어서! 모르겠다. 케빈, 어느 쪽이야?
@@ -326,8 +326,8 @@
 104. DAN: Thank you, thank you. I'm going to keep this short, because the bakery is warm and Marty is sweating.
     댄: 감사합니다, 감사합니다. 짧게 하겠습니다. 빵집이 따뜻하고 마티가 땀을 흘리고 있거든요.
 
-105. AUDIENCE: [laughter]
-    청중: [웃음]
+105. AUDIENCE: Ha! Marty's been sweating since the polls closed!
+    청중: 하! 마티는 투표 끝나고부터 계속 땀 흘렸어!
 
 106. DAN: Ten minutes ago Attorney General Catherine Wynn called me. She's never lost an election, but tonight she lost one, and she called me first, in eight minutes.
     댄: 10분 전에 캐서린 윈 법무장관님이 전화하셨습니다. 한 번도 선거에서 진 적이 없는 분인데, 오늘 밤 처음 지셨고, 먼저 전화를 주셨습니다. 8분 만에요.
@@ -335,8 +335,8 @@
 107. DAN: She told me she'd endorse me tomorrow. She ran a hard race and a clean one, so give her a hand.
     댄: 내일 저를 지지하겠다고 하셨습니다. 치열하고 깨끗한 선거를 하셨습니다. 박수 부탁드립니다.
 
-108. AUDIENCE: [applause]
-    청중: [박수]
+108. AUDIENCE: Good for her! That was a classy call, Catherine!
+    청중: 잘했어요! 품격 있는 전화였어요, 캐서린!
 
 109. DAN: Tonight we won Queens and the Bronx, and we also won St. Lawrence County by two points, because of a farmer's daughter and a dairy worker's wife.
     댄: 오늘 밤 우리는 퀸즈와 브롱크스에서 이겼습니다. 세인트로런스 카운티에서도 2포인트 차로 이겼습니다. 농부의 딸과 낙농 노동자의 아내 덕분입니다.
@@ -344,8 +344,8 @@
 110. DAN: And we won Buffalo, where Stan Wojcik sent me wings, which I'm told is binding.
     댄: 그리고 버펄로에서도 이겼습니다. 스탠 보이치크 씨가 윙을 보내 주셨는데, 그건 구속력이 있다고 들었습니다.
 
-111. AUDIENCE: [laughter]
-    청중: [웃음]
+111. AUDIENCE: Ha! In Buffalo, wings are better than a contract!
+    청중: 하! 버펄로에선 윙이 계약서보다 확실하지!
 
 112. DAN: Now comes the hard part in November, the general election, which is when everybody votes, not just our side.
     댄: 이제 어려운 부분이 남았습니다. 11월 본선입니다. 우리 쪽만이 아니라 모두가 투표하는 선거죠.
@@ -362,8 +362,8 @@
 116. GUS: Thirteen! Good! Say thirteen!
     거스: 열세 곳! 좋아! 열세 곳이라고 해!
 
-117. AUDIENCE: [laughter]
-    청중: [웃음]
+117. AUDIENCE: Ha! Don't push it, Danny, Gus is watching you!
+    청중: 하! 무리하지 마, 대니. 거스가 보고 있다!
 
 118. DAN: Gus is here, so Gus, am I off probation?
     댄: 거스가 왔네요. 거스, 저 근신 끝났어요?
@@ -374,8 +374,8 @@
 120. DAN: Let me say it plain: we won tonight because people knocked on doors, gave eleven dollars, and read the sections. Now let's go win the rest of New York.
     댄: 쉽게 말하겠습니다. 오늘 밤 우리가 이긴 건 사람들이 문을 두드리고, 11달러를 내고, 조항을 읽었기 때문입니다. 이제 나머지 뉴욕을 얻으러 갑시다.
 
-121. AUDIENCE: [cheering] Reardon! Reardon!
-    청중: [환호] 레이든! 레이든!
+121. AUDIENCE: Reardon! Reardon! Let's go win New York, Danny!
+    청중: 레이든! 레이든! 뉴욕 가서 이기자, 대니!
 
 122. JUNE: It's Zoe on video, in a parking lot in Ypsilanti, and she's still wearing her door-knocking shoes.
     준: 조이 영상통화예요. 입실랜티 주차장이에요. 아직 가가호호 신발 신고 있어요.
