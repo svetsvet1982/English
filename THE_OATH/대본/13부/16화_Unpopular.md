@@ -14,272 +14,272 @@
 
 ## 대본
 
-001. DEV: Eight a.m. Two weeks out. Sir, fast, like a bandage. Approval, forty. Disapproval, fifty-four.
-    데브: 오전 여덟 시. 2주 남았어요. 대통령님, 빨리요, 반창고 떼듯이. 지지율 40. 반대 54.
+001. DEV: It's eight a.m., two weeks out, sir, so I'll do this fast, like a bandage. Your approval is forty, and disapproval is fifty-four.
+    데브: 오전 여덟 시, 선거 2주 전이에요. 대통령님, 반창고 떼듯 빨리 할게요. 지지율 40, 반대 54예요.
 
-002. DAN: Forty. After the treaty, the fire, and the shutdown.
-    댄: 40. 조약, 산불, 셧다운을 겪고 나서.
+002. DAN: It's forty, after the treaty, the fire, and the shutdown?
+    댄: 조약, 산불, 셧다운을 겪고도 40이라고요?
 
-003. DEV: The treaty helped you two points. The shutdown cost you three. People liked the walk.
-    데브: 조약이 2포인트 올려 줬어요. 셧다운이 3포인트 깎았고요. 사람들은 걷기는 좋아했어요.
+003. DEV: The treaty helped you by two points, and the shutdown cost you three, although people liked the walk.
+    데브: 조약으로 2포인트 올랐고, 셧다운으로 3포인트 잃었어요. 걸어간 건 다들 좋아했지만요.
 
-004. AISHA: Underwater, sir. That's what Dev's going to say next. For the people at home, Dev.
-    아이샤: 물속이요, 대통령님. 데브가 다음에 할 말이 그거예요. 집에 있는 사람들을 위해서요, 데브.
+004. AISHA: Sir, Dev's going to say "underwater" next, so explain it for the people at home, Dev.
+    아이샤: 대통령님, 데브가 다음엔 "물속"이라고 할 거예요. 집에 있는 사람들을 위해 설명해 줘요, 데브.
 
-005. DEV: More people disapprove than approve. Like a house worth less than its mortgage. You're fourteen points underwater.
-    데브: 찬성보다 반대하는 사람이 많다는 거예요. 대출금보다 값이 덜 나가는 집처럼요. 14포인트 물속이에요.
+005. DEV: It means more people disapprove than approve, like a house worth less than its mortgage, and you're fourteen points underwater.
+    데브: 반대하는 사람이 찬성하는 사람보다 많다는 뜻이에요. 집값이 대출금보다 낮은 집처럼요. 대통령님은 14포인트 물속이에요.
 
 006. DAN: And the House, Dev? Give it to me straight, please.
     댄: 하원은요, 데브? 솔직하게 말해 줘요.
 
-007. DEV: We have two twenty-one now. We need two eighteen to keep it. My model says two hundred and nine. Maybe two-twelve on a good night.
-    데브: 지금 221석. 지키려면 218석 필요해요. 제 모델로는 209석. 좋은 밤이면 212석.
+007. DEV: We have two twenty-one now, and we need two eighteen to keep it. My model says two hundred and nine, or maybe two-twelve on a good night.
+    데브: 지금 221석인데, 지키려면 218석이 필요해요. 제 모델로는 209석, 운 좋은 밤이면 212석이에요.
 
-008. DAN: So we lose it. In plain English, we lose the House.
-    댄: 그러니까 잃는다는 거네요. 쉽게 말하면, 하원을 잃는다.
+008. DAN: So in plain English, Dev, we lose the House next month.
+    댄: 그러니까 쉽게 말하면, 데브, 다음 달에 하원을 잃는 거네요.
 
-009. DEV: Nine short, sir. Midterms almost always go against the President's party. For a hundred years.
-    데브: 9석 모자라요, 대통령님. 중간선거는 거의 늘 대통령 당한테 불리해요. 백 년 동안요.
+009. DEV: We're nine short, sir, because midterms almost always go against the President's party, and they have for a hundred years.
+    데브: 아홉 석 모자라요, 대통령님. 중간선거는 거의 언제나 대통령 쪽에 불리했어요. 백 년 동안 그랬죠.
 
-010. DAN: Almost every? So there are exceptions? Tell me about them.
-    댄: 거의 모든? 그럼 예외가 있다는 거네요? 말해 줘요.
+010. DAN: "Almost always"? So there are exceptions, so tell me about them.
+    댄: "거의 언제나"요? 그럼 예외가 있다는 거네요. 말해 봐요.
 
-011. DEV: Three exceptions. All three had a president above sixty. You're at forty. I can't make forty into sixty, sir. I'm a pollster, not a priest.
-    데브: 예외가 세 번 있었어요. 셋 다 대통령 지지율이 60 넘었고요. 대통령님은 40이에요. 40을 60으로 못 만들어요, 대통령님. 전 여론조사원이지 신부가 아니에요.
+011. DEV: There are three exceptions, and all three had a president above sixty. You're at forty, and I can't make forty into sixty, sir, because I'm a pollster, not a priest.
+    데브: 예외는 셋인데, 셋 다 대통령 지지율이 60이 넘었어요. 대통령님은 40이고, 전 40을 60으로 못 만들어요, 대통령님. 전 여론조사원이지 신부가 아니거든요.
 
-012. JUNE: Sir. The schedule. I have to tell you something you're not going to like.
-    준: 대통령님. 일정이요. 마음에 안 드실 걸 말씀드려야 해요.
+012. JUNE: Sir, about the schedule, I have to tell you something you're not going to like.
+    준: 대통령님, 일정 말인데요. 싫어하실 얘기를 해야 해요.
 
 013. DAN: June, everything this morning is something I'm not going to like.
     댄: 준, 오늘 아침엔 다 마음에 안 드는 것뿐이에요.
 
-014. JUNE: Seven events canceled this week. Seven candidates. They all asked you not to come.
-    준: 이번 주 행사 일곱 개 취소됐어요. 후보 일곱 명. 다들 오지 말아 달래요.
+014. JUNE: Seven events were canceled this week, because seven candidates all asked you not to come.
+    준: 이번 주에 행사 일곱 개가 취소됐어요. 후보 일곱 명이 다 오지 말아 달래요.
 
 015. DAN: All of them our side? Not one from the other side?
     댄: 전부 우리 쪽이에요? 반대편은 하나도 없고요?
 
-016. JUNE: All ours, sir. They say you're a drag on the ticket. If you stand next to them, they lose votes. One said "nothing personal."
-    준: 전부 우리 쪽이에요, 대통령님. 대통령님이 후보들한테 짐이 된대요. 옆에 서시면 표를 잃는대요. 한 명은 "개인적인 감정은 없다"고 했어요.
+016. JUNE: They're all ours, sir, and they say you're a drag on the ticket, so if you stand next to them, they lose votes. One said "nothing personal."
+    준: 전부 우리 쪽이에요, 대통령님. 대통령님이 후보들한테 짐이 된대요. 옆에 서시면 표를 잃는다고요. 한 명은 "개인적인 감정은 없다"고 했어요.
 
 017. DAN: It's always nothing personal. Until it is.
-    댄: 늘 개인적인 감정은 없죠. 있을 때까지는.
+    댄: 늘 개인적인 감정은 없죠. 있을 때까지는요.
 
-018. AISHA: Sir. Line one. Senator Dowd. Pennsylvania. He asked to talk to you directly. Not to June.
-    아이샤: 대통령님. 1번이요. 다우드 의원님. 펜실베이니아. 대통령님이랑 직접 통화하고 싶대요. 준 말고요.
+018. AISHA: Sir, Senator Dowd of Pennsylvania is on line one, and he asked to talk to you directly, not to June.
+    아이샤: 대통령님, 1번에 펜실베이니아의 다우드 의원님이에요. 준 말고 대통령님이랑 직접 통화하고 싶대요.
 
-019. DOWD: Mr. President. Martin Dowd. I'll be honest, because my father was a cop. I love you. Please don't come to Pennsylvania.
-    다우드: 대통령님. 마틴 다우드입니다. 솔직하게 말씀드릴게요, 아버지가 경찰이었으니까요. 대통령님 좋아해요. 펜실베이니아엔 오지 말아 주세요.
+019. DOWD: Mr. President, it's Martin Dowd, and I'll be honest, because my father was a cop. I love you, but please don't come to Pennsylvania.
+    다우드: 대통령님, 마틴 다우드입니다. 솔직히 말씀드릴게요, 아버지가 경찰이셨으니까요. 대통령님을 좋아해요. 하지만 제발 펜실베이니아엔 오지 마세요.
 
-020. DAN: Martin. You and Hank wrote the gun bill. I fought for it.
-    댄: 마틴. 당신이랑 행크가 총기 법안을 썼잖아요. 전 그걸 위해 싸웠고요.
+020. DAN: Martin, you and Hank wrote the gun bill, and I fought for it.
+    댄: 마틴, 당신이랑 행크가 총기 법안을 썼고, 난 그걸 위해 싸웠어요.
 
-021. DOWD: I know. In Pittsburgh, half liked the gun bill, half liked the treaty, almost nobody liked both. I'm up by two. If you come, zero.
-    다우드: 알아요. 피츠버그에선 절반은 총기 법안을, 절반은 조약을 좋아했고, 둘 다 좋아한 사람은 거의 없어요. 2포인트 앞서요. 오시면 0이에요.
+021. DOWD: I know, but in Pittsburgh, half liked the gun bill and half liked the treaty, while almost nobody liked both. I'm up by two, and if you come, it's zero.
+    다우드: 알아요. 근데 피츠버그에선 절반은 총기 법안을, 절반은 조약을 좋아했고, 둘 다 좋아한 사람은 거의 없어요. 지금 2포인트 앞서는데, 오시면 0이 돼요.
 
-022. DAN: Then I won't come, Martin. Pennsylvania is all yours.
-    댄: 그럼 안 갈게요, 마틴. 펜실베이니아는 전부 당신 거예요.
+022. DAN: Then I won't come, Martin, and Pennsylvania is all yours.
+    댄: 그럼 안 갈게요, 마틴. 펜실베이니아는 당신 거예요.
 
-023. DOWD: That's it? No argument? No speech about loyalty at all?
-    다우드: 그게 다예요? 반론 없어요? 의리에 대한 연설도 없고요?
+023. DOWD: That's it? There's no argument, and no speech about loyalty at all?
+    다우드: 그게 다예요? 반박도, 의리에 관한 연설도 없어요?
 
 024. DAN: Martin, if I came and you lost, I'd lose a senator and a friend. I'd rather be missing than be the reason.
     댄: 마틴, 제가 가서 당신이 지면 상원의원 한 명이랑 친구 한 명을 잃어요. 이유가 되느니 빠지는 게 나아요.
 
-025. DOWD: You sound like my father. He used to say, "Some days, the best thing a cop can do is stay in the car."
-    다우드: 우리 아버지 같은 말을 하시네요. "어떤 날은 경찰이 할 수 있는 최선이 차 안에 있는 거다"라고 하셨거든요.
+025. DOWD: You sound like my father, because he used to say, "Some days, the best thing a cop can do is stay in the car."
+    다우드: 우리 아버지 같으시네요. "어떤 날은 경찰이 할 수 있는 최선이 차에 있는 거다"라고 하셨거든요.
 
-026. DAN: Win, Martin. Then come in December with Hank. We have a gun bill to finish.
-    댄: 이겨요, 마틴. 그리고 12월에 행크랑 와요. 끝낼 총기 법안이 있잖아요.
+026. DAN: Win, Martin, and then come in December with Hank, because we have a gun bill to finish.
+    댄: 이기세요, 마틴. 그리고 12월에 행크랑 와요. 끝낼 총기 법안이 있잖아요.
 
-027. DOWD: December. Prescott told me. The lame duck. I'll be there. If I win.
-    다우드: 12월. 프레스콧이 말해 줬어요. 레임덕. 갈게요. 이기면요.
+027. DOWD: Prescott told me about December and the lame duck, so I'll be there, if I win.
+    다우드: 프레스콧이 12월 레임덕 회기 얘기를 해 줬어요. 이기면 갈게요.
 
-028. BEN: Sir. Eighty-one of our House candidates asked you to stay away. Eleven asked you to come.
-    벤: 대통령님. 우리 쪽 하원 후보 81명이 오지 말아 달래요. 오라고 한 사람은 열한 명이고요.
+028. BEN: Sir, eighty-one of our House candidates asked you to stay away, while eleven asked you to come.
+    벤: 대통령님, 우리 쪽 하원 후보 81명이 오지 말아 달래요. 오라고 한 건 열한 명이고요.
 
 029. DAN: Eleven. Where are the eleven, Ben? I want to meet them.
     댄: 열한 명. 그 열한 명은 어디예요, 벤? 만나 보고 싶네요.
 
-030. BEN: Seven in safe districts in New York and California, where it doesn't matter. Three in places where we'll lose anyway. And one in Ohio.
-    벤: 일곱은 뉴욕이랑 캘리포니아 안전 지역이에요, 상관없는 데죠. 셋은 어차피 질 곳이고요. 그리고 하나는 오하이오.
+030. BEN: Seven are in safe districts in New York and California, where it doesn't matter, and three are in places where we'll lose anyway. And one is in Ohio.
+    벤: 일곱은 뉴욕과 캘리포니아의 안전한 지역구라 상관없고, 셋은 어차피 질 곳이에요. 그리고 하나는 오하이오예요.
 
-031. DAN: Ohio. Brandt's state. The man who calls me weak.
-    댄: 오하이오. 브랜트의 주. 날 약하다고 부르는 사람.
+031. DAN: Ohio is Brandt's state, the man who calls me weak.
+    댄: 오하이오는 브랜트의 주잖아요. 저더러 약하다는 사람.
 
-032. BEN: Ohio's ninth. A teacher named Tess Quinlan. Twenty-nine. She's eleven points behind. Her campaign manager called and said, quote, "We're losing anyway. Come. Bring the President."
-    벤: 오하이오 9선거구. 테스 퀸런이라는 교사요. 스물아홉. 11포인트 뒤져 있어요. 선거본부장이 전화해서 이랬대요. "어차피 지고 있어요. 오세요. 대통령 데려오세요."
+032. BEN: It's Ohio's ninth, with a teacher named Tess Quinlan, who is twenty-nine and eleven points behind. Her campaign manager called and said, quote, "We're losing anyway, so come and bring the President."
+    벤: 오하이오 9선거구예요. 테스 퀸런이라는 스물아홉 살 교사인데, 11포인트 뒤지고 있어요. 선거본부장이 전화해서 이랬대요. "어차피 지고 있으니 오세요. 대통령님 모시고요."
 
-033. DAN: A lost cause. Eleven points with two weeks left.
-    댄: 가망 없는 싸움이네요. 2주 남기고 11포인트.
+033. DAN: That's a lost cause, eleven points down with two weeks left.
+    댄: 가망 없는 싸움이네요. 2주 남았는데 11포인트 차라니.
 
-034. AISHA: A long shot, sir. You used to like those. You were at two percent in Iowa in 2035.
-    아이샤: 가능성 낮은 도전이요, 대통령님. 예전엔 좋아하셨잖아요. 2035년 아이오와에선 2퍼센트였어요.
+034. AISHA: It's a long shot, sir, and you used to like those, because you were at two percent in Iowa in 2035.
+    아이샤: 가능성 낮은 도전이죠, 대통령님. 예전엔 그런 거 좋아하셨잖아요. 2035년 아이오와에서 2퍼센트였으니까요.
 
-035. DAN: Put Ohio on the schedule. Saturday. Tell her campaign manager yes.
-    댄: 오하이오를 일정에 넣어요. 토요일. 선거본부장한테 간다고 전해요.
+035. DAN: Put Ohio on the schedule for Saturday, and tell her campaign manager yes.
+    댄: 오하이오를 토요일 일정에 넣어요. 선거본부장한테 간다고 전하고요.
 
-036. MARTY: Tuesday. One p.m. The Oval. Kid. Pastrami. Katz's. The pickle passed this time. The Secret Service is getting soft.
-    마티: 화요일. 오후 한 시. 오벌. 얘야. 파스트라미. 카츠 거. 이번엔 피클도 통과했어. 경호국이 물러졌어.
+036. MARTY: It's Tuesday at one p.m. in the Oval, kid, and I brought pastrami from Katz's. The pickle passed this time, so the Secret Service is getting soft.
+    마티: 화요일 오후 한 시, 오벌이야, 얘야. 카츠 파스트라미 가져왔어. 이번엔 피클도 통과했어. 경호국이 물러지고 있네.
 
-037. DAN: Marty. You don't come to Washington without a reason. What's the reason?
-    댄: 마티. 이유 없이 워싱턴에 안 오시잖아요. 이유가 뭐예요?
+037. DAN: Marty, you don't come to Washington without a reason, so what's the reason?
+    댄: 마티, 이유 없이 워싱턴에 오실 분이 아니잖아요. 이유가 뭐예요?
 
-038. MARTY: The reason is I'm eighty-two and I want a sandwich with the President. And the other reason is Individual One.
-    마티: 이유는 내가 여든둘이고 대통령이랑 샌드위치를 먹고 싶다는 거야. 그리고 다른 이유는 개인 1.
+038. MARTY: The reason is that I'm eighty-two and I want a sandwich with the President. The other reason is Individual One.
+    마티: 이유는 내가 여든둘이고 대통령이랑 샌드위치 먹고 싶다는 거야. 다른 이유는 "개인 1"이고.
 
 039. DAN: Marty.
     댄: 마티.
 
-040. MARTY: Somebody paid for a fake video of you in 2036. A man named Bose pleaded guilty. His deal says "Individual One" paid. Everybody knows who.
-    마티: 2036년에 누가 네 가짜 영상 비용을 댔어. 보스라는 놈이 유죄를 인정했지. 그 합의서에 "개인 1"이 돈을 냈다고 돼 있어. 다들 누군지 알아.
+040. MARTY: Somebody paid for a fake video of you in 2036, and a man named Bose pleaded guilty. His deal says "Individual One" paid, and everybody knows who.
+    마티: 2036년에 누가 네 가짜 영상 값을 댔잖아. 보스라는 놈이 유죄를 인정했는데, 합의서에 "개인 1"이 돈을 댔다고 돼 있어. 누군지 다들 알지.
 
-041. DAN: "Everybody knows" isn't evidence, Marty. You taught me that in 2028.
-    댄: "다들 안다"는 증거가 아니에요, 마티. 2028년에 마티가 가르쳐 줬잖아요.
+041. DAN: "Everybody knows" isn't evidence, Marty, as you taught me in 2028.
+    댄: "다들 안다"는 증거가 아니에요, 마티. 2028년에 직접 가르쳐 주셨잖아요.
 
 042. MARTY: Then let a grand jury decide. If Justice charged Holloway for that video before November second, it would change ten House races.
-    마티: 그럼 대배심이 정하게 해. 법무부가 11월 2일 전에 그 영상 문제로 홀러웨이를 기소하면 하원 선거 열 곳이 바뀔 거야.
+    마티: 그럼 대배심이 정하게 해. 법무부가 11월 2일 전에 그 영상으로 홀러웨이를 기소하면 하원 선거 열 곳이 바뀔 거야.
 
-043. DAN: And you want me to call Patricia Okonjo. Tonight, I assume.
-    댄: 그리고 저보고 퍼트리샤 오콘조한테 전화하라는 거군요. 오늘 밤에요, 아마.
+043. DAN: And you want me to call Patricia Okonjo tonight, I assume.
+    댄: 그리고 오늘 밤 퍼트리샤 오콘조한테 전화하라는 거겠죠.
 
-044. MARTY: I want you to ask her how it's going. That's all. A friendly question.
-    마티: 어떻게 돼 가냐고 물어보라는 거야. 그게 다야. 친근한 질문.
+044. MARTY: I want you to ask her how it's going, which is just a friendly question.
+    마티: 어떻게 돼 가냐고 물어보라는 거야. 그냥 친근한 질문이지.
 
 045. DAN: Marty, there's no such thing as a friendly question from a President to an Attorney General about a case. I told her that in 2036.
     댄: 마티, 사건에 대해 대통령이 법무장관한테 하는 친근한 질문 같은 건 없어요. 2036년에 그 사람한테 그렇게 말했어요.
 
-046. MARTY: She'd say no anyway.
-    마티: 어차피 거절할 거야.
+046. MARTY: She'd say no anyway, kid, and you know it.
+    마티: 어차피 거절할 거야, 얘야. 너도 알잖아.
 
-047. DAN: She'd say no, and then she'd write it down, and she'd be right to. And there's another rule. Ben?
-    댄: 거절하고, 그걸 적어 두겠죠. 그게 맞고요. 그리고 규칙이 하나 더 있어요. 벤?
+047. DAN: She'd say no, and then she'd write it down, and she'd be right to. And there's another rule, Ben?
+    댄: 거절하고, 그다음 기록에 남기겠죠. 그래야 맞고요. 그리고 규칙이 하나 더 있죠, 벤?
 
-048. BEN: Justice has a long habit. No public steps in sensitive cases close to an election. People call it the sixty-day rule. It's not a law.
-    벤: 법무부엔 오래된 습관이 있어요. 선거가 가까울 땐 민감한 사건에서 공개 조치를 안 해요. 60일 규칙이라고 불러요. 법은 아니에요.
+048. BEN: Justice has a long habit of taking no public steps in sensitive cases close to an election. People call it the sixty-day rule, but it's not a law.
+    벤: 법무부엔 선거가 가까울 때 민감한 사건에서 공개 조치를 하지 않는 오랜 관행이 있어요. 60일 규칙이라고 부르는데, 법은 아니에요.
 
-049. DAN: A habit that says the government shouldn't use the courts to win an election.
-    댄: 정부가 선거에 이기려고 법원을 이용하면 안 된다는 습관이죠.
+049. DAN: It's a habit that says the government shouldn't use the courts to win an election.
+    댄: 정부가 선거에 이기려고 법원을 이용하면 안 된다는 관행이죠.
 
-050. MARTY: Your opponents used a fake video to try to win one.
-    마티: 네 상대들은 선거에 이기려고 가짜 영상을 썼잖아.
+050. MARTY: But your opponents used a fake video to try to win one.
+    마티: 근데 네 상대들은 가짜 영상으로 선거를 이기려고 했잖아.
 
-051. DAN: Then we don't do what they did. That's the whole point, Marty. If I make that call, I'm Individual Two.
-    댄: 그러니까 우린 그들이 한 짓을 안 하는 거예요. 그게 핵심이에요, 마티. 제가 그 전화를 하면 전 개인 2가 되는 거예요.
+051. DAN: Then we don't do what they did, which is the whole point, Marty, because if I make that call, I'm Individual Two.
+    댄: 그러니까 우린 그 사람들처럼 안 하는 거예요. 그게 핵심이에요, 마티. 제가 그 전화를 하면 제가 "개인 2"가 되는 거니까요.
 
-052. MARTY: Individual Two. That's a good line. Too good. Owen will want it.
-    마티: 개인 2. 좋은 대사네. 너무 좋아. 오언이 탐낼 거야.
+052. MARTY: "Individual Two" is a good line, maybe too good, so Owen will want it.
+    마티: "개인 2"라, 좋은 대사네. 너무 좋아. 오언이 탐내겠다.
 
-053. DAN: Owen can't have it. Nobody can. I'm never saying it in public.
-    댄: 오언은 못 가져요. 아무도요. 공개적으로 절대 안 할 거예요.
+053. DAN: Owen can't have it, and nobody can, because I'm never saying it in public.
+    댄: 오언도 못 가져요. 아무도요. 공개적으로는 절대 안 할 말이니까요.
 
-054. MARTY: Kid. In 1996, I did two years at a lobbying firm. Between campaigns. I needed money. I'm not proud of it. You know what I learned there?
-    마티: 얘야. 1996년에 로비 회사에서 2년 일했어. 선거 사이에. 돈이 필요했거든. 자랑스럽진 않아. 거기서 뭘 배웠는지 알아?
+054. MARTY: Kid, in 1996, between campaigns, I did two years at a lobbying firm, because I needed money, and I'm not proud of it. Do you know what I learned there?
+    마티: 얘야, 1996년에 선거 사이에 로비 회사에서 2년 일했어. 돈이 필요했거든. 자랑스럽진 않아. 거기서 뭘 배웠는지 알아?
 
 055. DAN: You never told me that.
     댄: 그 얘긴 처음 듣네요.
 
-056. MARTY: The most dangerous call is the one that's "just a question." I made a few for a client. I'm not sure they were clean.
-    마티: 제일 위험한 전화는 "그냥 질문"인 전화야. 의뢰인을 위해 그런 걸 몇 번 했지. 그게 깨끗했는지 모르겠어.
+056. MARTY: The most dangerous call is the one that's "just a question." I made a few for a client, and I'm not sure they were clean.
+    마티: 가장 위험한 전화는 "그냥 질문"인 전화라는 거. 고객을 위해 몇 통 했는데, 깨끗했는지 모르겠어.
 
-057. DAN: Marty. Is there something I should know?
-    댄: 마티. 제가 알아야 할 게 있어요?
+057. DAN: Marty, is there something about those calls that I should know?
+    댄: 마티, 그 전화들에 대해 제가 알아야 할 게 있어요?
 
-058. MARTY: Not today. Today, eat your sandwich. You're right about Okonjo. I knew you'd say no. I wanted to hear you say it. Old men need to hear things.
-    마티: 오늘은 아니야. 오늘은 샌드위치 먹어. 오콘조 문제는 네 말이 맞아. 거절할 줄 알았어. 네가 말하는 걸 듣고 싶었어. 늙은이들은 뭘 들어야 해.
+058. MARTY: Not today, because today you eat your sandwich. You're right about Okonjo, and I knew you'd say no, but I wanted to hear you say it, because old men need to hear things.
+    마티: 오늘은 아니야. 오늘은 샌드위치 먹어. 오콘조 문제는 네 말이 맞아. 거절할 줄 알았어. 그냥 네 입으로 듣고 싶었어. 늙은이들은 뭘 들어야 하거든.
 
-059. DAN: Then why did you come?
-    댄: 그럼 왜 오셨어요?
+059. DAN: Then why did you come all this way, Marty?
+    댄: 그럼 여기까지 왜 오셨어요, 마티?
 
-060. MARTY: Because everybody in town will stop calling you after November second. I wanted to be the one who didn't. No free lunch. But there's pastrami.
-    마티: 11월 2일 이후엔 이 동네 사람들이 다 너한테 전화를 끊을 테니까. 안 끊는 사람이 되고 싶었어. 공짜 점심은 없어. 근데 파스트라미는 있지.
+060. MARTY: Because everybody in town will stop calling you after November second, and I wanted to be the one who didn't. There's no free lunch, but there's pastrami.
+    마티: 11월 2일 이후엔 이 동네 사람들이 다 너한테 전화를 끊을 테니까. 난 안 끊는 사람이고 싶었어. 공짜 점심은 없지만 파스트라미는 있지.
 
-061. AISHA: Saturday. Six p.m. Lorain, Ohio. The Steelworkers union hall. Local twelve-oh-four. Sir, four hundred people. In a hall built for three hundred.
-    아이샤: 토요일. 저녁 여섯 시. 오하이오 로레인. 철강 노조 회관. 1204 지부. 대통령님, 4백 명이요. 3백 명용 회관에.
+061. AISHA: It's Saturday at six p.m. in Lorain, Ohio, at Steelworkers union Local twelve-oh-four, sir, with four hundred people in a hall built for three hundred.
+    아이샤: 토요일 저녁 여섯 시, 오하이오 로레인의 철강노조 1204지부예요. 대통령님, 3백 명용 강당에 4백 명이 와 있어요.
 
-062. DOMBROWSKI: Mr. President. Ray Dombrowski. Local president. Thirty-four years at the mill. My father knew a bus driver in Queens.
-    돔브로스키: 대통령님. 레이 돔브로스키입니다. 지부장이에요. 제철소 34년. 우리 아버지가 퀸즈의 버스 기사를 알았어요.
+062. DOMBROWSKI: Mr. President, I'm Ray Dombrowski, the local president, with thirty-four years at the mill, and my father knew a bus driver in Queens.
+    돔브로스키: 대통령님, 지부장 레이 돔브로스키입니다. 제철소에서 34년 일했어요. 우리 아버지가 퀸즈의 한 버스 기사를 알았어요.
 
-063. DAN: Mr. Dombrowski. How did your father know my father?
-    댄: 돔브로스키 씨. 아버님이 우리 아버지를 어떻게 아셨어요?
+063. DAN: Mr. Dombrowski, how did your father know my father?
+    댄: 돔브로스키 씨, 어떻게 우리 아버지를 아셨대요?
 
-064. DOMBROWSKI: A convention in 1983. Atlantic City. They shared a room because the union was cheap. My father said John Reardon snored and told the truth. Both very loudly.
-    돔브로스키: 1983년 대회요. 애틀랜틱시티. 노조가 돈을 아껴서 방을 같이 썼대요. 아버지 말로는 존 레이든이 코를 골고 진실을 말했대요. 둘 다 아주 크게.
+064. DOMBROWSKI: They met at a convention in Atlantic City in 1983 and shared a room, because the union was cheap. My father said John Reardon snored and told the truth, both very loudly.
+    돔브로스키: 1983년 애틀랜틱시티 대회에서 만났는데, 노조가 돈을 아껴서 방을 같이 썼대요. 아버지 말로는 존 레이든은 코를 골고 진실을 말했대요. 둘 다 아주 크게요.
 
 065. DAN: That's my father.
     댄: 우리 아버지 맞네요.
 
-066. QUINLAN: Mr. President. Tess Quinlan. Thank you for coming. I know I'm going to lose. My mother knows. My students know. I'm eleven points down.
-    퀸런: 대통령님. 테스 퀸런입니다. 와 주셔서 감사해요. 질 거 알아요. 우리 엄마도 알고. 제 학생들도 알아요. 11포인트 뒤져 있어요.
+066. QUINLAN: Mr. President, I'm Tess Quinlan, and thank you for coming. I know I'm going to lose, and so do my mother and my students, because I'm eleven points down.
+    퀸런: 대통령님, 테스 퀸런입니다. 와 주셔서 감사해요. 질 거 알아요. 엄마도 학생들도 알아요. 11포인트 뒤지고 있거든요.
 
 067. DAN: Then why are you running?
     댄: 그럼 왜 출마했어요?
 
-068. QUINLAN: Because nobody else would. Our side hadn't run anybody in this district for eight years. Last time, the other guy won with no one on the ballot against him.
-    퀸런: 아무도 안 하려고 했으니까요. 우리 쪽은 이 선거구에 8년 동안 아무도 안 냈어요. 지난번엔 상대가 맞선 후보 하나 없이 이겼어요.
+068. QUINLAN: Because nobody else would. Our side hadn't run anybody in this district for eight years, and last time, the other guy won with no one on the ballot against him.
+    퀸런: 아무도 안 나서니까요. 우리 쪽은 이 지역구에 8년 동안 후보를 안 냈어요. 지난번엔 상대가 투표용지에 맞수 하나 없이 이겼고요.
 
-069. DAN: Unopposed.
-    댄: 무투표 당선.
+069. DAN: So he was unopposed.
+    댄: 무투표 당선이었군요.
 
-070. QUINLAN: Unopposed. My students asked me, "Ms. Quinlan, how can somebody win a race with nobody in it?" I didn't have a good answer. So I filed.
-    퀸런: 무투표요. 학생들이 "퀸런 선생님, 아무도 없는 경주에서 어떻게 이길 수 있어요?"라고 물었어요. 좋은 대답이 없었어요. 그래서 등록했죠.
+070. QUINLAN: He was unopposed, and my students asked me, "Ms. Quinlan, how can somebody win a race with nobody in it?" I didn't have a good answer, so I filed.
+    퀸런: 무투표 당선이었죠. 학생들이 "선생님, 아무도 없는 선거에서 어떻게 이길 수 있어요?"라고 물었어요. 좋은 대답이 없어서 등록했어요.
 
 071. DAN: What do you teach?
     댄: 뭘 가르쳐요?
 
-072. QUINLAN: Civics. Ninth grade. I teach them the Constitution. Article Two, Section Two. Advice and consent. We watched your treaty vote in class. Thirty-one kids. They cheered at sixty-seven.
-    퀸런: 시민 교육이요. 9학년. 헌법을 가르쳐요. 2조 2절. 조언과 동의. 수업 시간에 조약 표결을 봤어요. 아이들 서른한 명. 67에서 환호했어요.
+072. QUINLAN: I teach ninth-grade civics, including the Constitution, Article Two, Section Two, advice and consent. We watched your treaty vote in class, and my thirty-one kids cheered at sixty-seven.
+    퀸런: 9학년 공민이요. 헌법 2조 2절, 조언과 동의도 가르쳐요. 수업 시간에 조약 표결을 봤는데, 우리 반 서른한 명이 67에서 환호했어요.
 
 073. DAN: Ninth graders cheered for the Senate?
-    댄: 9학년이 상원한테 환호했다고요?
+    댄: 9학년들이 상원을 응원했다고요?
 
-074. QUINLAN: They cheered for math, sir. They'd been counting along. One of them said it was better than a football game because nobody got hurt.
-    퀸런: 수학한테 환호한 거예요, 대통령님. 같이 세고 있었거든요. 한 명은 아무도 안 다쳐서 미식축구보다 낫다고 했어요.
+074. QUINLAN: They cheered for the math, sir, because they'd been counting along. One of them said it was better than a football game, because nobody got hurt.
+    퀸런: 수학을 응원한 거예요, 대통령님. 같이 세고 있었거든요. 한 명은 아무도 안 다치니까 미식축구보다 낫대요.
 
-075. DOMBROWSKI: Mr. President. They're ready. Four hundred people. A lot of them voted for Brandt in 2036. They came anyway.
-    돔브로스키: 대통령님. 준비됐어요. 4백 명. 많은 사람이 2036년에 브랜트를 찍었어요. 그래도 왔어요.
+075. DOMBROWSKI: Mr. President, they're ready, all four hundred people. A lot of them voted for Brandt in 2036, but they came anyway.
+    돔브로스키: 대통령님, 다들 준비됐어요. 4백 명이요. 2036년에 브랜트 찍은 사람이 많은데, 그래도 왔어요.
 
 076. DAN: Why?
     댄: 왜요?
 
-077. DOMBROWSKI: Because you walked to the Capitol. My guys work nights. They know what walking to work feels like. And because Tess is my daughter's teacher.
-    돔브로스키: 의사당까지 걸어가셨잖아요. 우리 사람들은 밤에 일해요. 걸어서 출근하는 게 어떤 건지 알죠. 그리고 테스가 우리 딸 선생님이거든요.
+077. DOMBROWSKI: Because you walked to the Capitol, and my guys work nights, so they know what walking to work feels like. And because Tess is my daughter's teacher.
+    돔브로스키: 의사당까지 걸어가셨잖아요. 우리 사람들은 밤에 일하니까 걸어서 출근하는 게 어떤지 알아요. 그리고 테스가 제 딸 선생님이에요.
 
-078. JUNE: Sir. Brandt is on TV right now. In Columbus. Campaigning for the other side's candidates. Turn around. The TV over the bar.
-    준: 대통령님. 브랜트가 지금 TV에 나와요. 콜럼버스에서. 반대편 후보들 지원 유세 중이에요. 돌아보세요. 바 위의 TV.
+078. JUNE: Sir, Brandt is on TV right now in Columbus, campaigning for the other side's candidates, so turn around and look at the TV over the bar.
+    준: 대통령님, 브랜트가 지금 콜럼버스에서 저쪽 후보들 지원 유세하는 게 TV에 나와요. 돌아서 바 위 TV 보세요.
 
-079. BRANDT: Folks, let's keep it simple. Last year, a dictator took our sailors and got medicine for it. This year, the President signed a paper with him. In my house, we have a word for that. Weak.
-    브랜트: 여러분, 간단하게 갑시다. 작년에 독재자가 우리 선원들을 잡아가고 그 대가로 약을 받았어요. 올해 대통령은 그와 종이에 서명했고요. 우리 집에선 그걸 가리키는 말이 있어요. 약하다.
+079. BRANDT: Folks, let's keep it simple. Last year, a dictator took our sailors and got medicine for it, and this year, the President signed a paper with him. In my house, we have a word for that: weak.
+    브랜트: 여러분, 간단하게 갑시다. 작년에 독재자가 우리 선원들을 잡아가고 그 대가로 약을 받았죠. 올해 대통령은 그와 종이에 서명했고요. 우리 집에선 그걸 한 단어로 말합니다. 약하다.
 
-080. BRANDT: And then he shut down the government and walked around in the middle of the night so you'd forget. Folks, walking isn't leading. Weak.
-    브랜트: 그러고는 정부를 멈춰 세우고 여러분이 잊어버리게 한밤중에 걸어 다녔죠. 여러분, 걷는 건 이끄는 게 아니에요. 약하다.
+080. BRANDT: And then he shut down the government and walked around in the middle of the night so you'd forget. Folks, walking isn't leading, so it's weak.
+    브랜트: 그러고는 정부를 셧다운시키고, 여러분이 잊도록 한밤중에 걸어 다녔죠. 여러분, 걷는 건 이끄는 게 아닙니다. 약한 거죠.
 
-081. AISHA: That's twice in one minute. He's counting them. Like Hal counts votes.
-    아이샤: 1분 만에 두 번이네요. 세고 있어요. 할이 표를 세듯이.
+081. AISHA: That's twice in one minute, because he's counting them, like Hal counts votes.
+    아이샤: 1분에 두 번이네요. 할이 표 세듯이 세고 있어요.
 
-082. DOMBROWSKI: Mr. President. Half this hall agrees with him. I'm telling you so you're not surprised.
-    돔브로스키: 대통령님. 이 회관 절반은 그 사람한테 동의해요. 놀라지 마시라고 말씀드리는 거예요.
+082. DOMBROWSKI: Mr. President, half this hall agrees with him, and I'm telling you so you're not surprised.
+    돔브로스키: 대통령님, 이 강당 절반은 저 사람 말에 동의해요. 놀라시지 않게 말씀드리는 거예요.
 
-083. DAN: Thank you. Then I'll talk to that half too.
+083. DAN: Thank you, and then I'll talk to that half too.
     댄: 고마워요. 그럼 그 절반한테도 말할게요.
 
-084. QUINLAN: Ladies and gentlemen. Local twelve-oh-four. The President of the United States.
-    퀸런: 신사 숙녀 여러분. 1204 지부 여러분. 미합중국 대통령입니다.
+084. QUINLAN: Ladies and gentlemen of Local twelve-oh-four, please welcome the President of the United States.
+    퀸런: 1204지부 신사 숙녀 여러분, 미국 대통령을 환영해 주십시오.
 
 085. AUDIENCE: (applause, some quiet)
     청중: (박수, 일부는 조용히)
 
-086. DAN: Thank you. Sit down. Please. I know some of you voted for Governor Brandt. Some of you just heard him on that TV. I'm not going to change the channel.
-    댄: 감사합니다. 앉으세요. 부디. 여러분 중 일부가 브랜트 주지사를 찍으신 거 압니다. 방금 저 TV에서 그 사람 말을 들으신 분들도 있고요. 채널 돌리지 않겠습니다.
+086. DAN: Thank you, and please sit down. I know some of you voted for Governor Brandt, and some of you just heard him on that TV, but I'm not going to change the channel.
+    댄: 감사합니다. 앉아 주세요. 여러분 중 몇은 브랜트 주지사를 찍었고, 몇은 방금 저 TV에서 그 사람 말을 들었다는 거 압니다. 채널을 돌리진 않겠습니다.
 
 087. AUDIENCE: (laughter)
     청중: (웃음)
 
-088. DAN: He said I'm weak. I want to tell you what my father said about weak. He drove a bus in Queens for thirty years. In 1980, he walked a picket line for eleven days in the cold.
-    댄: 그는 제가 약하다고 했습니다. 약하다는 것에 대해 제 아버지가 한 말을 들려드리고 싶어요. 아버지는 퀸즈에서 30년 동안 버스를 모셨습니다. 1980년엔 추위 속에서 11일 동안 피켓 라인을 걸으셨죠.
+088. DAN: He said I'm weak, so I want to tell you what my father said about weak. He drove a bus in Queens for thirty years, and in 1980, he walked a picket line for eleven days in the cold.
+    댄: 그 사람은 제가 약하다고 했죠. 그럼 제 아버지가 약함에 대해 한 말을 들려드리겠습니다. 아버지는 퀸즈에서 30년 버스를 모셨고, 1980년엔 추위 속에 열하루 동안 피켓 라인을 걸으셨습니다.
 
-089. DAN: People called the strikers weak. They said they were selfish. My father said, "Weak is when you won't stand next to the people you work with." That's all. He never explained it twice.
-    댄: 사람들은 파업 노동자들이 약하다고 했어요. 이기적이라고 했죠. 아버지는 "약하다는 건 같이 일하는 사람들 옆에 서지 않는 것"이라고 하셨어요. 그게 다예요. 두 번 설명하신 적이 없어요.
+089. DAN: People called the strikers weak and selfish. My father said, "Weak is when you won't stand next to the people you work with," and that's all, because he never explained it twice.
+    댄: 사람들은 파업 노동자들을 약하고 이기적이라고 했습니다. 아버지는 "약하다는 건 같이 일하는 사람들 옆에 서지 않는 거다"라고 하셨죠. 그게 다였습니다. 두 번 설명하신 적이 없거든요.
 
 090. AUDIENCE: (murmuring)
     청중: (웅성거림)
@@ -287,182 +287,182 @@
 091. DOMBROWSKI: That's right!
     돔브로스키: 맞는 말이에요!
 
-092. DAN: This week, eighty-one candidates from my own side asked me to stay away from them. I said yes to every one. One candidate asked me to come. She's eleven points behind. And I came.
-    댄: 이번 주에 우리 쪽 후보 여든한 명이 오지 말아 달라고 했습니다. 전부 그러겠다고 했어요. 한 후보가 와 달라고 했습니다. 11포인트 뒤져 있죠. 그래서 왔습니다.
+092. DAN: This week, eighty-one candidates from my own side asked me to stay away from them, and I said yes to every one. One candidate, who is eleven points behind, asked me to come, and I came.
+    댄: 이번 주에 우리 쪽 후보 81명이 저더러 오지 말아 달라고 했고, 전 모두에게 그러겠다고 했습니다. 11포인트 뒤진 후보 한 명이 와 달라고 했고, 그래서 왔습니다.
 
 093. AUDIENCE: (applause)
     청중: (박수)
 
-094. DAN: She teaches civics to ninth graders. When nobody else on her side would run, she ran. Her students asked how somebody could win a race with nobody in it. She didn't have an answer. So she became the answer.
-    댄: 이분은 9학년한테 시민 교육을 가르칩니다. 자기 쪽에서 아무도 출마하지 않을 때 출마했어요. 학생들이 아무도 없는 경주에서 어떻게 이길 수 있냐고 물었죠. 대답이 없었어요. 그래서 이분이 그 대답이 된 겁니다.
+094. DAN: She teaches civics to ninth graders, and when nobody else on her side would run, she ran. Her students asked how somebody could win a race with nobody in it, and since she didn't have an answer, she became the answer.
+    댄: 그분은 9학년에게 공민을 가르칩니다. 자기 쪽에서 아무도 안 나설 때 나섰죠. 학생들이 아무도 없는 선거에서 어떻게 이기냐고 물었는데, 대답이 없어서 스스로 대답이 됐습니다.
 
 095. AUDIENCE: Tess! Tess! Tess!
     청중: 테스! 테스! 테스!
 
-096. DAN: I'm not going to tell you she'll win. The numbers say she won't. I don't lie to people in union halls. My father wouldn't let me.
-    댄: 이분이 이길 거라고는 말하지 않겠습니다. 숫자는 못 이긴다고 하죠. 전 노조 회관에서 사람들한테 거짓말 안 합니다. 아버지가 그걸 허락하지 않으실 거예요.
+096. DAN: I'm not going to tell you she'll win, because the numbers say she won't, and I don't lie to people in union halls. My father wouldn't let me.
+    댄: 그분이 이길 거라고 말하진 않겠습니다. 숫자는 질 거라고 하고, 저는 노조 강당에서 거짓말을 안 합니다. 아버지가 허락 안 하셨을 거예요.
 
 097. AUDIENCE: (laughter)
     청중: (웃음)
 
-098. DAN: But here's what I know. Turnout. The number of people who actually show up. In midterms, it's low. Four out of ten, sometimes. That's why one hall like this can matter.
-    댄: 하지만 이건 압니다. 투표율. 실제로 나오는 사람 수. 중간선거에선 낮아요. 열 명 중 넷일 때도 있죠. 그래서 이런 회관 하나가 중요할 수 있는 겁니다.
+098. DAN: But here's what I know about turnout, which is the number of people who actually show up. In midterms, it's low, sometimes four out of ten, and that's why one hall like this can matter.
+    댄: 하지만 투표율에 대해 아는 게 있습니다. 실제로 투표하러 오는 사람의 수죠. 중간선거엔 낮습니다. 열 명 중 넷일 때도 있어요. 그래서 이런 강당 하나가 중요할 수 있습니다.
 
-099. DAN: If you don't like me, fine. Vote against me in 2040. But on November second, vote for the teacher who showed up when nobody else would. That's not weak. That's the opposite.
-    댄: 제가 싫으시면 괜찮습니다. 2040년에 저한테 반대표 던지세요. 하지만 11월 2일엔 아무도 안 나설 때 나선 선생님한테 투표하세요. 그건 약한 게 아닙니다. 정반대죠.
+099. DAN: If you don't like me, fine, and vote against me in 2040. But on November second, vote for the teacher who showed up when nobody else would, because that's not weak. It's the opposite.
+    댄: 제가 싫으시면 괜찮습니다. 2040년에 반대표 던지세요. 하지만 11월 2일엔 아무도 안 나설 때 나선 선생님을 찍어 주세요. 그건 약한 게 아닙니다. 그 반대죠.
 
 100. AUDIENCE: (standing applause)
     청중: (기립 박수)
 
-101. DAN: Let me say it plain. My father's word for it was simple. Show up. Tess showed up. Now it's your turn.
-    댄: 쉽게 말할게요. 아버지가 쓰던 말은 간단했어요. 나타나라. 테스는 나타났어요. 이제 여러분 차례입니다.
+101. DAN: Let me say it plain. My father's word for it was simple: show up. Tess showed up, and now it's your turn.
+    댄: 쉽게 말하겠습니다. 아버지의 말은 간단했습니다. 나타나라. 테스는 나타났습니다. 이제 여러분 차례입니다.
 
-102. QUINLAN: Mr. President. That was... I'm still going to lose.
-    퀸런: 대통령님. 그건... 그래도 전 질 거예요.
+102. QUINLAN: Mr. President, that was... I'm still going to lose, though.
+    퀸런: 대통령님, 방금 그건... 그래도 전 질 거예요.
 
-103. DAN: Probably. But you'll lose by less. And in two years, you'll run again, and you'll lose by even less. And one day you won't lose.
-    댄: 아마도요. 하지만 덜 지실 거예요. 그리고 2년 뒤에 또 나오면 더 덜 지실 거고요. 그리고 언젠가는 안 지실 거예요.
+103. DAN: Probably, but you'll lose by less, and in two years you'll run again and lose by even less. And one day you won't lose.
+    댄: 아마도요. 하지만 덜 지실 거예요. 2년 뒤에 또 나와서 더 적게 지고요. 그리고 언젠가는 지지 않을 거예요.
 
-104. QUINLAN: Is that what happened to you?
-    퀸런: 대통령님한테 그런 일이 있었어요?
+104. QUINLAN: Is that what happened to you, back when you started, Mr. President?
+    퀸런: 대통령님도 처음 시작하실 때 그러셨어요?
 
-105. DAN: Ask my chief of staff. In 2028, we were behind by nineteen in August.
-    댄: 우리 비서실장한테 물어봐요. 2028년 8월에 19포인트 뒤져 있었어요.
+105. DAN: Ask my chief of staff, because in 2028, we were behind by nineteen in August.
+    댄: 우리 비서실장한테 물어봐요. 2028년 8월에 19포인트 뒤졌었거든요.
 
-106. AISHA: Twenty-one, sir. You always round down.
-    아이샤: 21이요, 대통령님. 늘 반내림하시잖아요.
+106. AISHA: It was twenty-one, sir, because you always round down.
+    아이샤: 21이었어요, 대통령님. 늘 내림하시잖아요.
 
-107. DOMBROWSKI: Mr. President. Before you go. The guys took a collection. For the food bank in Washington. The one from the news. Two thousand one hundred dollars. Mostly in tens.
-    돔브로스키: 대통령님. 가시기 전에요. 우리 사람들이 모금했어요. 워싱턴 푸드 뱅크를 위해서요. 뉴스에 나온 거요. 2천1백 달러. 대부분 10달러짜리예요.
+107. DOMBROWSKI: Mr. President, before you go, the guys took a collection for the food bank in Washington, the one from the news. It's two thousand one hundred dollars, mostly in tens.
+    돔브로스키: 대통령님, 가시기 전에요. 우리 사람들이 뉴스에 나온 워싱턴 푸드 뱅크를 위해 모금했어요. 2,100달러예요. 대부분 10달러짜리요.
 
 108. DAN: Mr. Dombrowski, some of these men voted for Brandt.
-    댄: 돔브로스키 씨, 이분들 중엔 브랜트를 찍은 분들도 있잖아요.
+    댄: 돔브로스키 씨, 이 사람들 중엔 브랜트 찍은 사람도 있잖아요.
 
-109. DOMBROWSKI: Most of them, sir. They'll vote for him again. But a federal worker buying diapers at a church is a federal worker buying diapers at a church. That doesn't have a side.
-    돔브로스키: 대부분이요, 대통령님. 또 그 사람 찍을 거예요. 하지만 교회에서 기저귀를 사는 연방 공무원은 그냥 교회에서 기저귀를 사는 연방 공무원이에요. 그건 편이 없어요.
+109. DOMBROWSKI: Most of them did, sir, and they'll vote for him again. But a federal worker buying diapers at a church is a federal worker buying diapers at a church, and that doesn't have a side.
+    돔브로스키: 대부분 그랬죠, 대통령님. 또 찍을 거고요. 하지만 교회에서 기저귀 사는 연방 직원은 교회에서 기저귀 사는 연방 직원이에요. 거기엔 편이 없어요.
 
-110. DAN: My father would have liked your father.
-    댄: 우리 아버지가 아버님을 좋아하셨겠네요.
+110. DAN: My father would have liked your father, Mr. Dombrowski.
+    댄: 우리 아버지가 당신 아버지를 좋아하셨을 거예요, 돔브로스키 씨.
 
-111. DOMBROWSKI: He did, sir. They wrote each other Christmas cards until 2019. I found them in a drawer.
-    돔브로스키: 좋아하셨어요, 대통령님. 2019년까지 서로 크리스마스카드를 보냈어요. 서랍에서 찾았어요.
+111. DOMBROWSKI: He did, sir, because they wrote each other Christmas cards until 2019, and I found them in a drawer.
+    돔브로스키: 좋아하셨어요, 대통령님. 2019년까지 서로 크리스마스카드를 주고받으셨거든요. 서랍에서 찾았어요.
 
-112. WHITFIELD: Sunday, October thirty-first. Eight p.m. The South Lawn. Sir, eleven hundred children in costumes. Four hundred and twelve dressed as you.
-    휘트필드: 10월 31일 일요일. 밤 여덟 시. 남쪽 잔디밭. 대통령님, 분장한 아이들 1,100명. 그중 412명이 대통령님 분장이에요.
+112. WHITFIELD: It's Sunday, October thirty-first, at eight p.m. on the South Lawn, sir, with eleven hundred children in costumes, and four hundred and twelve of them are dressed as you.
+    휘트필드: 10월 31일 일요일 저녁 여덟 시, 사우스 론입니다. 대통령님, 분장한 아이가 1,100명인데, 그중 412명이 대통령님 분장이에요.
 
 113. DAN: As me? What does that look like?
-    댄: 저로요? 그게 어떤 모습인데요?
+    댄: 저로요? 그게 어떤 모습이에요?
 
-114. WHITFIELD: A blue tie, a yellow legal pad, and sneakers, sir. Since the walk.
-    휘트필드: 파란 넥타이, 노란 리걸 패드, 그리고 운동화요, 대통령님. 걷기 이후로요.
+114. WHITFIELD: It's a blue tie, a yellow legal pad, and sneakers, sir, ever since the walk.
+    휘트필드: 파란 넥타이, 노란 리걸 패드, 운동화요, 대통령님. 걸어가신 뒤로요.
 
-115. ELENA: There's one dressed as Gus. With a coffee pot. His mother says he's from Astoria.
+115. ELENA: There's one dressed as Gus, with a coffee pot, and his mother says he's from Astoria.
     엘레나: 거스 분장한 애도 있어. 커피 주전자 들고. 엄마 말로는 애스토리아에서 왔대.
 
 116. DAN: Of course he is.
     댄: 당연하지.
 
-117. ZOE: Dad. Hi. I'm here. I came down from the Bronx for the candy. Don't tell my supervisor. I told her it was a family emergency.
-    조이: 아빠. 안녕. 왔어. 사탕 먹으러 브롱크스에서 내려왔어. 내 상사한테 말하지 마. 가족 비상사태라고 했거든.
+117. ZOE: Dad, hi, I'm here, because I came down from the Bronx for the candy. Don't tell my supervisor, because I told her it was a family emergency.
+    조이: 아빠, 안녕. 나 왔어. 사탕 때문에 브롱크스에서 내려왔어. 내 상사한테 말하지 마. 가족 비상사태라고 했거든.
 
-118. DAN: Zoe, you lied to your supervisor?
-    댄: 조이, 상사한테 거짓말했어?
+118. DAN: Zoe, did you actually lie to your supervisor just for candy?
+    댄: 조이, 사탕 때문에 진짜 상사한테 거짓말했어?
 
-119. ZOE: It's not a lie. You're forty percent. That's a family emergency.
-    조이: 거짓말 아니야. 아빠 40퍼센트잖아. 그거 가족 비상사태야.
+119. ZOE: It's not a lie, because you're at forty percent, and that's a family emergency.
+    조이: 거짓말 아니야. 아빠가 40퍼센트잖아. 그게 가족 비상사태지.
 
-120. ELENA: She's been reading Dev's polls.
-    엘레나: 데브 여론조사 읽고 있었대.
+120. ELENA: She's been reading Dev's polls on her phone, Danny.
+    엘레나: 휴대폰으로 데브 여론조사 읽고 있었대, 대니.
 
-121. ZOE: Everybody's reading Dev's polls, Mom. My clients read them in the holding cells. One of them told me you're "underwater but floating." He's eighteen. He's very smart.
-    조이: 다들 데브 여론조사 읽어, 엄마. 내 의뢰인들도 유치장에서 읽어. 한 명은 아빠가 "물속이지만 떠 있다"래. 열여덟 살이야. 엄청 똑똑해.
+121. ZOE: Everybody's reading Dev's polls, Mom, because my clients read them in the holding cells. One of them told me you're "underwater but floating," and he's eighteen and very smart.
+    조이: 다들 데브 여론조사 읽어, 엄마. 내 의뢰인들은 유치장에서 읽어. 한 명은 아빠가 "물속이지만 떠 있다"래. 열여덟 살인데 아주 똑똑해.
 
-122. DAN: Underwater but floating. I'll take that.
-    댄: 물속이지만 떠 있다. 그거 받을게.
+122. DAN: Underwater but floating, and I'll take that from an eighteen-year-old.
+    댄: 물속이지만 떠 있다. 열여덟 살한테서 나온 거면 받을게.
 
-123. ZOE: Dad. Can I ask you something? Not as your daughter. As a public defender.
-    조이: 아빠. 하나 물어봐도 돼? 딸로서 말고. 국선변호인으로서.
+123. ZOE: Dad, can I ask you something, not as your daughter, but as a public defender?
+    조이: 아빠, 하나 물어봐도 돼? 딸 말고 국선변호사로서.
 
-124. DAN: That's not an answer, Dad. That's what you're going to say, right?
-    댄: "그건 대답이 아니잖아, 아빠." 그렇게 말할 거지?
+124. DAN: Let me guess, you're going to say, "That's not an answer, Dad," right?
+    댄: 맞혀 볼게. "그건 대답이 아니잖아, 아빠"라고 할 거지?
 
-125. ZOE: Not yet. Let me ask first. Marty called me. He said you said no to something. He didn't tell me what. He said, "Your father did the right thing and it might cost him the House."
-    조이: 아직 아니야. 먼저 물어볼게. 마티 아저씨가 전화했어. 아빠가 뭘 거절했대. 뭔지는 말 안 해 줬어. "네 아빠가 옳은 일을 했고 그게 하원을 잃게 할지도 모른다"래.
+125. ZOE: Not yet, so let me ask first. Marty called me and said you said no to something, although he didn't tell me what. He said, "Your father did the right thing, and it might cost him the House."
+    조이: 아직 아니야, 먼저 물어볼게. 마티가 전화했는데, 아빠가 뭔가를 거절했대. 뭔지는 말 안 했어. "네 아버지가 옳은 일을 했고, 그게 하원을 잃게 할지도 모른다"고 했어.
 
-126. DAN: Marty talks too much.
-    댄: 마티는 말이 너무 많아.
+126. DAN: Marty talks too much, Zoe, and especially to you.
+    댄: 마티는 말이 너무 많아, 조이. 특히 너한테.
 
 127. ZOE: Is he right?
-    조이: 아저씨 말이 맞아?
+    조이: 그 말 맞아?
 
-128. DAN: I don't know if it'll cost the House. Dev says we'll lose it anyway. But yes. I said no to something. And I'd say no again.
-    댄: 하원을 잃게 할지는 몰라. 데브는 어차피 잃는대. 근데 응. 뭘 거절했어. 그리고 또 거절할 거야.
+128. DAN: I don't know if it'll cost the House, because Dev says we'll lose it anyway. But yes, I said no to something, and I'd say no again.
+    댄: 그게 하원을 잃게 할지는 모르겠어. 데브는 어차피 잃을 거래. 하지만 맞아, 뭔가를 거절했고, 다시 해도 거절할 거야.
 
-129. ZOE: Then that's an answer, Dad.
-    조이: 그럼 그건 대답이네, 아빠.
+129. ZOE: Then that's an answer, Dad, and a real one this time.
+    조이: 그럼 그게 대답이네, 아빠. 이번엔 진짜 대답.
 
 130. DAN: That's the first time you've ever said that to me.
-    댄: 네가 나한테 그 말 한 거 처음이다.
+    댄: 네가 그 말을 나한테 한 건 처음이다.
 
-131. ZOE: Don't get used to it. It's Halloween. I'm in a good mood. I have candy.
-    조이: 익숙해지지 마. 핼러윈이잖아. 기분 좋아서 그래. 사탕도 있고.
+131. ZOE: Don't get used to it, because it's Halloween, and I'm in a good mood, since I have candy.
+    조이: 익숙해지지 마. 핼러윈이라 기분이 좋은 거야. 사탕이 있으니까.
 
-132. ELENA: Danny. Look. The kid dressed as Gus. He's coming over.
-    엘레나: 대니. 봐. 거스 분장한 애. 이리 오고 있어.
+132. ELENA: Danny, look at the kid dressed as Gus, because he's coming over.
+    엘레나: 대니, 거스 분장한 애 봐. 이리 오고 있어.
 
-133. DAN: Hi. Who are you?
-    댄: 안녕. 넌 누구니?
+133. DAN: Hi there, and who are you supposed to be?
+    댄: 안녕, 넌 누구로 분장한 거니?
 
-134. ELENA: He says, "The usual, Mr. President?" And he's holding out the coffee pot. It's empty.
-    엘레나: "늘 드시던 걸로요, 대통령님?"이래. 그리고 커피 주전자를 내밀어. 비어 있어.
+134. ELENA: He says, "The usual, Mr. President?" and he's holding out the coffee pot, which is empty.
+    엘레나: "늘 드시던 걸로요, 대통령님?"이래. 그러면서 커피 주전자를 내밀어. 비어 있어.
 
 135. DAN: Two eggs over easy, rye toast, and coffee I'll complain about.
-    댄: 달걀 두 개 반숙, 호밀 토스트, 그리고 내가 불평할 커피.
+    댄: 달걀 두 개 오버 이지, 호밀 토스트, 그리고 불평할 커피.
 
-136. ZOE: He's laughing. Dad, he knows the line. A seven-year-old knows your diner order.
-    조이: 웃고 있어. 아빠, 쟤 그 대사 알아. 일곱 살이 아빠 다이너 주문을 안다고.
+136. ZOE: He's laughing, Dad, because he knows the line. A seven-year-old knows your diner order.
+    조이: 웃는다, 아빠. 그 대사를 알아. 일곱 살짜리가 아빠 다이너 주문을 안다고.
 
-137. ELENA: Everybody in Astoria knows your diner order, Danny. Gus tells it to every tourist.
-    엘레나: 애스토리아 사람은 다 당신 다이너 주문 알아, 대니. 거스가 관광객마다 말해 줘.
+137. ELENA: Everybody in Astoria knows your diner order, Danny, because Gus tells it to every tourist.
+    엘레나: 애스토리아 사람은 다 당신 주문을 알아, 대니. 거스가 관광객마다 말해 주거든.
 
-138. AISHA: Sir. Sorry. Nine p.m. Dev wants two minutes. Final numbers before Tuesday.
-    아이샤: 대통령님. 죄송해요. 밤 아홉 시. 데브가 2분만 달래요. 화요일 전 최종 숫자요.
+138. AISHA: Sir, I'm sorry, but it's nine p.m., and Dev wants two minutes for the final numbers before Tuesday.
+    아이샤: 대통령님, 죄송한데 밤 아홉 시예요. 데브가 화요일 전 최종 숫자로 2분만 달래요.
 
-139. DEV: Sir. Fast. Forty-one. Up one since the Ohio speech. The clip has six million views. People shared the line about your father.
-    데브: 대통령님. 빨리요. 41. 오하이오 연설 후 1 올랐어요. 영상 조회 6백만. 사람들이 아버님 얘기를 공유했어요.
+139. DEV: Sir, I'll be fast: you're at forty-one, up one since the Ohio speech. The clip has six million views, because people shared the line about your father.
+    데브: 대통령님, 빨리 할게요. 41이에요, 오하이오 연설 뒤로 1 올랐어요. 영상 조회수가 6백만이에요. 아버님에 관한 대사를 사람들이 공유했어요.
 
-140. DAN: And the House?
-    댄: 하원은요?
+140. DAN: And what about the House, Dev, after all of that?
+    댄: 그럼 그 모든 걸 거친 뒤에 하원은요, 데브?
 
-141. DEV: Still two-ten, sir. Maybe two-thirteen. Not two-eighteen. A speech can move a hall. It can't move nine seats in nine days.
-    데브: 여전히 210이에요, 대통령님. 213일 수도. 218은 아니에요. 연설이 회관 하나는 움직여도 아흐레 만에 9석을 움직이진 못해요.
+141. DEV: It's still two-ten, sir, maybe two-thirteen, but not two-eighteen. A speech can move a hall, but it can't move nine seats in nine days.
+    데브: 아직 210석이에요, 대통령님. 213석일 수도 있지만 218석은 아니에요. 연설은 강당 하나는 움직여도 아흐레 만에 아홉 석은 못 움직여요.
 
-142. DAN: And Ohio's ninth?
-    댄: 오하이오 9선거구는요?
+142. DAN: And what about Ohio's ninth district and Tess, Dev?
+    댄: 그럼 오하이오 9선거구랑 테스는요, 데브?
 
-143. DEV: Tess Quinlan was eleven down. She's seven down now. She'll lose. But she'll lose by seven. That's the best number I have tonight.
-    데브: 테스 퀸런은 11포인트 뒤졌었어요. 지금은 7포인트요. 질 거예요. 하지만 7포인트로 지겠죠. 오늘 밤 제가 가진 제일 좋은 숫자예요.
+143. DEV: Tess Quinlan was eleven down, and she's seven down now. She'll lose, but she'll lose by seven, which is the best number I have tonight.
+    데브: 테스 퀸런은 11포인트 뒤지다가 지금 7포인트예요. 질 거예요. 하지만 7포인트 차로 지겠죠. 오늘 밤 제가 가진 최고의 숫자예요.
 
-144. ZOE: Dad. You're smiling at a losing number.
-    조이: 아빠. 지는 숫자 보고 웃고 있어.
+144. ZOE: Dad, you're actually standing there smiling at a losing number.
+    조이: 아빠, 지금 지는 숫자 보고 웃고 서 있는 거야.
 
-145. DAN: Your grandmother says you can lose like a Reardon. With your coat on.
-    댄: 할머니가 레이든답게 질 수 있다고 하셨어. 코트 입고.
+145. DAN: Your grandmother says you can lose like a Reardon, with your coat on.
+    댄: 할머니 말씀이 레이든답게 질 수 있대. 코트 입고.
 
-146. ELENA: Danny. Can I say something? Weight, not contents.
-    엘레나: 대니. 하나 말해도 돼? 무게만, 내용 말고.
+146. ELENA: Danny, can I say something, the weight and not the contents?
+    엘레나: 대니, 한마디 해도 돼? 내용 말고 무게만.
 
 147. DAN: Always.
     댄: 언제나.
 
-148. ELENA: In 2026, at the firm, you were unpopular on the forty-seventh floor for three months. You did the right thing then too. Unpopular and right is a place you've lived before.
-    엘레나: 2026년에 로펌에서 당신은 47층에서 석 달 동안 인기가 없었어. 그때도 옳은 일을 했지. 인기 없고 옳은 건 당신이 전에 살아 본 곳이야.
+148. ELENA: In 2026, at the firm, you were unpopular on the forty-seventh floor for three months, and you did the right thing then too. Unpopular and right is a place you've lived before.
+    엘레나: 2026년에 로펌 47층에서 석 달 동안 인기 없었잖아. 그때도 옳은 일을 했고. 인기 없고 옳은 건 당신이 전에 살아 본 곳이야.
 
-149. DAN: The forty-seventh floor had better coffee.
-    댄: 47층 커피가 더 맛있었는데.
+149. DAN: The forty-seventh floor had much better coffee than this, though.
+    댄: 그래도 47층 커피가 이것보단 훨씬 나았어.
 
-150. DAN: Let me say it plain. I'm at forty-one. Eighty-one candidates don't want me. One teacher did. On Tuesday, we probably lose the House. I'll lose it with my coat on.
-    댄: 쉽게 말할게. 난 41이야. 후보 여든한 명이 날 원하지 않아. 선생님 한 명은 원했고. 화요일에 우린 아마 하원을 잃을 거야. 코트 입고 잃을게.
+150. DAN: Let me say it plain. I'm at forty-one, eighty-one candidates don't want me, and one teacher did. On Tuesday we'll probably lose the House, and I'll lose it with my coat on.
+    댄: 쉽게 말할게. 난 41이고, 후보 81명은 날 원하지 않았고, 선생님 한 명은 원했어. 화요일에 아마 하원을 잃을 거고, 난 코트 입고 잃을 거야.
 
 ---
 
