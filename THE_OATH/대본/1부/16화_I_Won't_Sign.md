@@ -308,7 +308,7 @@
 098. GRANT: And then what happens to us?
     그랜트: 그다음엔 우리가 어떻게 되죠?
 
-099. HOWARD: Then come sanctions, money at least. There may be a jury instruction that they can assume the worst about anything you hid. And a federal judge who has seen "the original drafts should not be retained" may decide that's not only a civil matter.
+099. HOWARD: Then come sanctions, money at least. There may be an instruction telling jurors they can assume the worst about anything you hid. And a federal judge who has seen "the original drafts should not be retained" may decide that's not only a civil matter.
     하워드: 그다음엔 제재. 최소한 돈이에요. 숨긴 건 뭐든 최악으로 추정해도 된다는 배심원 지시가 나올 수도 있어요. 그리고 "원안은 보관하지 말 것"을 본 연방 판사는 이게 민사 문제만은 아니라고 판단할 수도 있죠.
 
 100. GRANT: Meaning prosecutors could get involved.
