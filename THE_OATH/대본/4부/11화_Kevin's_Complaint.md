@@ -29,13 +29,13 @@
 005. KEVIN: It was Saturday afternoon on Steinway near Thirty-Fourth Avenue, when we got a call about a man threatening a delivery worker.
     케빈: 토요일 오후, 스타인웨이 34번 애비뉴 근처. 배달원을 위협하는 남자가 있다는 신고였어.
 
-006. KEVIN: I got there in two minutes, and a big guy was holding a scooter by the handlebars while the delivery guy was on the ground, trying to get his bag. The big guy was screaming that the food was late.
+006. KEVIN: I got there in two minutes. A big guy was holding a scooter by the handlebars while the delivery guy was on the ground, trying to get his bag. The big guy was screaming that the food was late.
     케빈: 2분 만에 도착했어. 덩치 큰 남자가 스쿠터 핸들을 잡고 있었고, 배달원은 바닥에서 가방을 챙기려고 하고 있었어. 덩치는 음식이 늦었다고 소리 지르고 있었고.
 
 007. DAN: And then?
     댄: 그다음엔?
 
-008. KEVIN: I told him to let go twice, but he didn't, so I stepped between them and put my hand on his chest, open hand, like this, and I said, "Sir, step back."
+008. KEVIN: I told him to let go twice, but he didn't. So I stepped between them and put my hand on his chest, open hand, like this. And I said, "Sir, step back."
     케빈: 두 번 놓으라고 했는데 안 놓더라. 그래서 둘 사이에 들어가서 가슴에 손을 댔어. 손바닥 펴고, 이렇게. 그리고 "선생님, 물러나세요" 했지.
 
 009. KEVIN: He stepped back right off the curb and fell, so he sat down hard in the street. He wasn't hurt, because he got up and started yelling again, but somebody filmed it from across the street.
@@ -44,7 +44,7 @@
 010. DAN: That's the thirty seconds, then.
     댄: 그게 그 30초구나.
 
-011. KEVIN: That's the thirty seconds, which starts with my hand on his chest, and then he falls, with no scooter and no delivery guy in the shot.
+011. KEVIN: That's the thirty seconds. It starts with my hand on his chest, and then he falls, with no scooter and no delivery guy in the shot.
     케빈: 그게 그 30초야. 내 손이 그 사람 가슴에 있는 데서 시작해서 넘어지는 데서 끝나. 스쿠터도 배달원도 안 나와.
 
 012. DAN: Can I watch it now?
@@ -62,19 +62,19 @@
 016. DAN: Was your body camera on?
     댄: 바디캠 켜져 있었어?
 
-017. KEVIN: It was on from the moment I got out, two minutes before I touched him, the way it is every time since Darnell.
+017. KEVIN: It was on from the moment I got out, two minutes before I touched him. It's that way every time since Darnell.
     케빈: 내리는 순간부터 켜져 있었어. 그 사람 건드리기 2분 전부터. 매번 그래. 대널 이후로.
 
 018. DAN: Since Darnell?
     댄: 대널 사건 이후로?
 
-019. KEVIN: Mikey Brennan checked boxes without looking, and I saw what it did to him, so now I check my camera like it's my gun.
+019. KEVIN: Mikey Brennan checked boxes without looking, and I saw what it did to him. So now I check my camera like it's my gun.
     케빈: 마이키 브레넌은 보지도 않고 칸에 체크했잖아. 그게 걔를 어떻게 만들었는지 봤어. 그래서 이제 카메라를 총처럼 확인해.
 
 020. DAN: Then the full video exists, all of it, with the scooter, the delivery guy, and everything.
     댄: 그럼 전체 영상이 있는 거네. 전부 다. 스쿠터, 배달원, 다.
 
-021. KEVIN: It exists, because the department has it, and the CCRB will get it, but the public only sees it if the department releases it.
+021. KEVIN: It exists, because the department has it, and the CCRB will get it. But the public only sees it if the department releases it.
     케빈: 있어. 경찰청이 갖고 있고 CCRB도 받을 거야. 근데 경찰청이 공개해야만 사람들이 볼 수 있어.
 
 022. DAN: Kevin, I have to say something, and you're going to hate it.
@@ -98,7 +98,7 @@
 028. DAN: You came here at midnight to tell me not to defend you?
     댄: 날 감싸지 말라고 하려고 자정에 온 거야?
 
-029. KEVIN: I came to make sure you wouldn't, because you've protected me since I was born, so don't do it on TV.
+029. KEVIN: I came to make sure you wouldn't. You've protected me since I was born, so don't do it on TV.
     케빈: 안 감싸는지 확인하러 왔어. 형은 내가 태어났을 때부터 날 지켰잖아. TV에선 그러지 마.
 
 030. DAN: Elena said you've been protecting me since you were nine.
@@ -113,13 +113,13 @@
 033. KEVIN: Somebody files a complaint, and an investigator gets assigned, who gets the camera and interviews the man, the witnesses, and me. It takes months, and sometimes a year.
     케빈: 누가 민원을 내면 조사관이 배정돼. 카메라 영상을 받고, 그 남자랑 목격자들이랑 나를 면담해. 몇 달 걸려. 가끔은 1년.
 
-034. KEVIN: Then the board decides with one of four answers: substantiated means it happened and it was wrong, unsubstantiated means they can't tell, unfounded means it didn't happen, and exonerated means it happened, but it was allowed.
-    케빈: 그다음 위원회가 결정해. 네 가지 중 하나야. 입증됨은 일어났고 잘못됐다는 거, 입증 불가는 판단할 수 없다는 거, 근거 없음은 안 일어났다는 거, 정당함은 일어났지만 허용된 행위라는 거.
+034. KEVIN: Then the board decides with one of four answers. Substantiated means it happened and it was wrong, and unsubstantiated means they can't tell. Unfounded means it didn't happen, and exonerated means it happened, but it was allowed.
+    케빈: 그다음 위원회가 결정해. 네 가지 중 하나야. 입증됨은 일어났고 잘못됐다는 거, 입증 불가는 판단할 수 없다는 거. 근거 없음은 안 일어났다는 거, 정당함은 일어났지만 허용된 행위라는 거.
 
 035. DAN: Which one of those four do you think you'll get?
     댄: 그 넷 중에 뭐가 나올 것 같아?
 
-036. KEVIN: If they watch the whole tape, exonerated, because I touched him, but I'm allowed to touch him to separate two people, and that's the rule.
+036. KEVIN: If they watch the whole tape, it's exonerated, because I touched him. But I'm allowed to touch him to separate two people, and that's the rule.
     케빈: 전체 영상을 보면 정당함. 건드리긴 했지. 근데 두 사람 떼어 놓으려고 건드리는 건 허용돼. 그게 규칙이야.
 
 037. DAN: And if they only ever watch the thirty seconds?
@@ -140,7 +140,7 @@
 042. JUNE: "Mr. Reardon sued the city on behalf of Darnell Hayes. Will he hold his own brother to the same standard? Voters deserve an answer."
     준: "레이든 씨는 대널 헤이스를 대리해 시를 고소했다. 그는 자기 동생에게도 같은 기준을 적용할 것인가? 유권자들은 대답을 들을 자격이 있다."
 
-043. MARTY: It's a trap, because if you defend Kevin, you're a hypocrite, and if you don't, you're a bad brother, and every cop in Queens votes for Tony.
+043. MARTY: It's a trap. If you defend Kevin, you're a hypocrite, and if you don't, you're a bad brother, and every cop in Queens votes for Tony.
     마티: 함정이야. 케빈을 감싸면 위선자고, 안 감싸면 나쁜 형이야. 그럼 퀸즈 경찰들이 다 토니 찍어.
 
 044. AISHA: There's a third option, which is the same standard, literally. What did Dan ask for with Darnell?
@@ -170,10 +170,10 @@
 052. JUNE: Can Kevin release the video himself, since he has a copy, right?
     준: 케빈이 직접 영상 공개하면 안 돼요? 사본 있잖아요.
 
-053. FRANK: No, and he shouldn't try, because it's department property. If he leaks it, he gets suspended, and the whole thing looks like a cover-up, so the department has to release it.
+053. FRANK: No, and he shouldn't try, because it's department property. If he leaks it, he gets suspended, and the whole thing looks like a cover-up. So the department has to release it.
     프랭크: 안 돼. 하려고 해서도 안 되고. 경찰청 재산이야. 유출하면 정직당하고 전부 은폐처럼 보여. 경찰청이 공개해야 해.
 
-054. AISHA: But Kevin can ask them to publicly, because the subject of a complaint can say, "I request the release of my body camera footage." It doesn't force them, but it's on the record.
+054. AISHA: But Kevin can ask them to publicly. The subject of a complaint can say, "I request the release of my body camera footage." It doesn't force them, but it's on the record.
     아이샤: 근데 케빈이 공개적으로 요청할 순 있어요. 민원 대상자는 "제 바디캠 영상 공개를 요청합니다"라고 할 수 있거든요. 강제력은 없지만 기록에 남아요.
 
 055. DAN: And I can ask for the same thing, as a candidate and as his brother, with the same words I used for Darnell.
@@ -182,7 +182,7 @@
 056. MARTY: And what if the video is bad, and Kevin's wrong about what's on it?
     마티: 영상이 안 좋으면? 케빈이 영상 내용을 잘못 알고 있으면?
 
-057. DAN: Then I'll say so, and then I'll go to Thanksgiving, and he'll throw a red egg at me, but it's still the same standard.
+057. DAN: Then I'll say so, and then I'll go to Thanksgiving. He'll throw a red egg at me, but it's still the same standard.
     댄: 그럼 그렇다고 할 거예요. 그다음 추수감사절에 가면 걔가 빨간 달걀을 던지겠죠. 그래도 같은 기준이에요.
 
 058. MARTY: Red eggs are for Easter, Danny, not for Thanksgiving dinner.
@@ -200,7 +200,7 @@
 062. DAN: I'm not his lawyer, Lieutenant, but I'm his brother, and a candidate, so people will ask.
     댄: 전 동생 변호사가 아니에요, 경위님. 형이고 후보죠. 사람들이 물어볼 거예요.
 
-063. COSTA: Then say "no comment," because anything you say about the facts, the CCRB can use, and the precinct hears everything.
+063. COSTA: Then say "no comment." The CCRB can use anything you say about the facts, and the precinct hears everything.
     코스타: 그럼 "노 코멘트"라고 하세요. 사실관계에 대해 하신 말은 CCRB가 쓸 수 있어요. 관할서는 다 들어요.
 
 064. DAN: I won't say anything about the facts, because I wasn't there. I'll only say what I'd say for anybody: release the whole tape, and let the board decide.
@@ -212,7 +212,7 @@
 066. DAN: He says "good" a lot lately, Lieutenant, more than he used to.
     댄: 걔 요즘 "좋다"는 말을 많이 하네요, 경위님. 예전보다 훨씬.
 
-067. COSTA: He's a good sergeant, Mr. Reardon, but not everybody in that precinct likes him, because he checks the cameras, and that's not popular. Good luck.
+067. COSTA: He's a good sergeant, Mr. Reardon, but not everybody in that precinct likes him. He checks the cameras, and that's not popular. Good luck.
     코스타: 좋은 경사예요, 레이든 씨. 그 관할서에서 다들 좋아하진 않아요. 카메라를 확인하거든요. 그건 인기가 없죠. 행운을 빌어요.
 
 068. JUNE: Okay, so here's the headline: "Same standard," two words, for Darnell, for Kevin, and for anybody.
@@ -224,7 +224,7 @@
 070. AISHA: When do we do it, then?
     아이샤: 그럼 언제 해요?
 
-071. DAN: Not today, because Kevin has to tell my mother first, in her kitchen, with food, and then we do it together on her stoop.
+071. DAN: Not today, because Kevin has to tell my mother first, in her kitchen, with food. Then we do it together on her stoop.
     댄: 오늘은 안 돼요. 케빈이 먼저 엄마한테 말해야 해요. 엄마 부엌에서, 음식 앞에서. 그다음에 같이 해요. 엄마 집 현관 계단에서.
 
 072. MARTY: Tomorrow's Saturday and Sunday you're home, so Monday's the earliest?
@@ -263,16 +263,16 @@
 083. DAN: You were the delivery worker.
     댄: 당신이 그 배달원이었군요.
 
-084. WILMER: I didn't know he was your brother until last night on Leila's phone, and I said, "That's my sergeant, and that's wrong."
+084. WILMER: I didn't know he was your brother until last night on Leila's phone. I said, "That's my sergeant, and that's wrong."
     윌메르: 어젯밤 레일라 폰으로 보기 전까진 동생분인 줄 몰랐어요. 그래서 그랬죠. "저건 내 경사님이에요. 저건 틀렸어요."
 
-085. LEILA: He told me at nine last night, so I didn't sleep, and I called the lawyer at my tenant union.
+085. LEILA: He told me at nine last night, so I didn't sleep. I called the lawyer at my tenant union.
     레일라: 어젯밤 아홉 시에 말해 줬어요. 잠을 못 잤어요. 우리 세입자 노조 변호사한테 전화했어요.
 
 086. DAN: What did your lawyer say?
     댄: 변호사가 뭐래요?
 
-087. LEILA: He said Wilmer should call the CCRB himself and give a witness statement, not through you and not through me, but directly, so nobody can say a campaign touched it.
+087. LEILA: He said Wilmer should call the CCRB himself and give a witness statement. Not through you and not through me, but directly, so nobody can say a campaign touched it.
     레일라: 윌머가 직접 CCRB에 전화해서 목격자 진술을 하래요. 당신을 통하지 말고, 나를 통하지도 말고, 직접이요. 선거 캠프가 손댔다는 말이 안 나오게요.
 
 088. AISHA: That's exactly right, so Dan, don't even be in this conversation, because you're the subject's brother.
@@ -281,7 +281,7 @@
 089. DAN: Then I'll step out. Thank you, Wilmer, but talk to the CCRB, not me.
     댄: 그럼 나갈게요. 고마워요, 윌머. 근데 저 말고 CCRB랑 얘기해요.
 
-090. WILMER: I called them this morning at seven o'clock, before my first delivery, and a woman named Ms. Ruiz wrote everything down and said thank you.
+090. WILMER: I called them this morning at seven o'clock, before my first delivery. A woman named Ms. Ruiz wrote everything down and said thank you.
     윌메르: 오늘 아침 일곱 시에 전화했어요. 첫 배달 전에요. 루이스라는 분이 다 받아 적고 고맙다고 했어요.
 
 091. LEILA: Wait, Dan, stay one minute, because this isn't about Wilmer, it's about me.
@@ -290,13 +290,13 @@
 092. DAN: Okay.
     댄: 알았어요.
 
-093. LEILA: Wilmer is my volunteer, and he has my signs in his building, and what he saw helps you, eight days before the primary, and I hate that it helps you.
+093. LEILA: Wilmer is my volunteer, and he has my signs in his building. What he saw helps you, eight days before the primary, and I hate that it helps you.
     레일라: 윌머는 제 자원봉사자예요. 자기 건물에 제 팻말도 붙여 놨고요. 근데 윌머가 본 게 경선 8일 전에 당신한테 도움이 돼요. 그게 싫어요.
 
 094. DAN: Then why bring him, when you could've just sent him to the CCRB?
     댄: 그럼 왜 데려왔어요? 그냥 CCRB에 보내면 됐잖아요.
 
-095. LEILA: Because if I hid it, I'd be the person I've been saying you are, somebody who keeps the truth quiet when it's useful. Who does that actually help? Not me, not anymore.
+095. LEILA: Because if I hid it, I'd be the person I've been saying you are. That's somebody who keeps the truth quiet when it's useful. Who does that actually help? Not me, not anymore.
     레일라: 숨기면 내가 당신이라고 말해 온 그런 사람이 되니까요. 쓸모 있을 때 진실을 덮어 두는 사람이요. 그게 실제로 누구한테 도움이 되죠? 저는 아니에요. 이젠 아니에요.
 
 096. DAN: Leila, thank you, really, for bringing him here yourself.
@@ -308,7 +308,7 @@
 098. DAN: That's the only way I'd want to lose to anybody, Leila.
     댄: 누구한테 지든 그렇게만 지고 싶네요, 레일라.
 
-099. LEILA: You're not going to lose to Tony, because Tony put out a statement about your brother by seven a.m. without calling anybody or watching anything, and he just printed it.
+099. LEILA: You're not going to lose to Tony. Tony put out a statement about your brother by seven a.m. without calling anybody or watching anything. He just printed it.
     레일라: 토니한텐 안 질 거예요. 토니는 아침 일곱 시까지 동생분 성명을 냈잖아요. 아무한테도 전화 안 하고 아무것도 안 보고 그냥 찍어 냈어요.
 
 100. FRANK: She's right, because Russo never asked a single cop what happened. I checked, since I still know some people in the One-Fourteen.
@@ -323,7 +323,7 @@
 103. WILMER: One more thing: will you tell the sergeant thank you from me? And the scooter's fine, because only the mirror broke.
     윌메르: 하나 더요. 경사님한테 제가 고맙다고 전해 줄래요? 그리고 스쿠터 괜찮아요. 거울만 깨졌어요.
 
-104. DAN: I can't talk to him about the case, Wilmer, but I can tell him the scooter's fine, because that's not about the case, it's about a scooter.
+104. DAN: I can't talk to him about the case, Wilmer. But I can tell him the scooter's fine, because that's not about the case; it's about a scooter.
     댄: 사건 얘기는 걔랑 못 해요, 윌머. 근데 스쿠터 괜찮다는 건 말할 수 있어요. 그건 사건이 아니라 스쿠터 얘기니까요.
 
 105. AISHA: That's technically correct, so I'll allow it.
@@ -338,13 +338,13 @@
 108. LEILA: Then your daughter should run for something herself someday.
     레일라: 그럼 따님이 언젠가 직접 출마해야겠네요.
 
-109. ROSE: Eat first. Then we fight. Kevin and Danny, sit, because I made spanakopita, since somebody in this family is in trouble, and I can always tell.
+109. ROSE: Eat first. Then we fight. Kevin and Danny, sit, because I made spanakopita. Somebody in this family is in trouble, and I can always tell.
     로즈: 먼저 먹어. 싸움은 그다음. 케빈, 대니, 앉아. 스파나코피타 만들었어. 이 집안에 누가 곤란한 일이 생겼거든. 난 늘 알아.
 
 110. KEVIN: Ma, it's me, because I'm the one in trouble.
     케빈: 엄마, 나야. 곤란한 사람이 나야.
 
-111. ROSE: I know it's you, because Mrs. Kalogeropoulos saw a video on her phone on Friday, and she came over in her bathrobe.
+111. ROSE: I know it's you. Mrs. Kalogeropoulos saw a video on her phone on Friday, and she came over in her bathrobe.
     로즈: 너인 거 알아. 칼로게로풀로스 부인이 금요일에 폰으로 영상 보고 목욕 가운 바람으로 왔어.
 
 112. KEVIN: You knew since Friday, and you didn't call me?
@@ -359,7 +359,7 @@
 115. ROSE: Danny, do you believe him?
     로즈: 대니, 쟤 말 믿어?
 
-116. DAN: I believe him, Ma, but I'm not going to say he's innocent until everybody sees the whole tape, because that's what I said for Darnell.
+116. DAN: I believe him, Ma. But I'm not going to say he's innocent until everybody sees the whole tape, because that's what I said for Darnell.
     댄: 믿어, 엄마. 근데 다들 전체 영상 보기 전엔 결백하다고 안 할 거야. 대널 때도 그렇게 말했거든.
 
 117. ROSE: Good.
@@ -377,13 +377,13 @@
 121. KEVIN: I never heard that story before, Ma, not even once.
     케빈: 그 얘기 처음 들어, 엄마. 한 번도 못 들었어.
 
-122. ROSE: You never asked, and your brother doesn't ask either, because you both come to my kitchen only when there's a problem, so eat.
+122. ROSE: You never asked, and your brother doesn't ask either. You both come to my kitchen only when there's a problem, so eat.
     로즈: 안 물어봤잖아. 네 형도 안 물어봐. 둘 다 문제 있을 때만 내 부엌에 오지. 먹어.
 
 123. KEVIN: Ma, there are going to be cameras on your stoop at ten.
     케빈: 엄마, 열 시에 엄마 집 계단에 카메라들 올 거야.
 
-124. ROSE: I know, so I swept it twice, and I'm wearing my good sweater, because my stoop is going to be clean.
+124. ROSE: I know, so I swept it twice. I'm wearing my good sweater, because my stoop is going to be clean.
     로즈: 알아. 두 번 쓸었어. 좋은 스웨터도 입을 거야. 우리 계단은 깨끗할 거다.
 
 125. MARCUS: Mr. Reardon and Sergeant Reardon, I'm Marcus Bell from Metro Nine, so is this a campaign event?
@@ -395,7 +395,7 @@
 127. MARCUS: And you, Mr. Reardon? You promised me an answer before the primary.
     마커스: 그럼 레이든 씨는요? 경선 전에 대답하겠다고 약속하셨죠.
 
-128. DAN: I did, so let me say it plain. When Darnell Hayes was hurt, I asked for three things: the whole video, a fair investigation, and for nobody to decide before they saw it.
+128. DAN: I did, so let me say it plain. When Darnell Hayes was hurt, I asked for three things. I asked for the whole video, a fair investigation, and for nobody to decide before they saw it.
     댄: 했죠. 쉽게 말할게요. 대널 헤이스가 다쳤을 때 전 세 가지를 요구했어요. 전체 영상, 공정한 조사, 그리고 보기 전엔 아무도 판단하지 말 것.
 
 129. DAN: Today, for my brother, I'm asking for the same three things, not more and not less, because it's the same standard.
@@ -404,10 +404,10 @@
 130. REBECCA: Do you think your brother did anything wrong that day?
     레베카: 그날 동생분이 뭔가 잘못했다고 생각하세요?
 
-131. DAN: I don't know yet, because I wasn't there, and I haven't seen the full tape, and neither have you, which is the point.
+131. DAN: I don't know yet, because I wasn't there, and I haven't seen the full tape. Neither have you, which is the point.
     댄: 아직 몰라요. 전 거기 없었고 전체 영상도 못 봤어요. 기자님도 못 보셨죠. 그게 핵심이에요.
 
-132. KEVIN: I'll add one thing: my body camera was on for the whole thing, because I turned it on myself two minutes before. This morning, I asked the department in writing to release all of it.
+132. KEVIN: I'll add one thing: my body camera was on for the whole thing. I turned it on myself two minutes before. This morning, I asked the department in writing to release all of it.
     케빈: 하나 덧붙일게요. 제 바디캠은 처음부터 끝까지 켜져 있었어요. 2분 전에 제가 직접 켰어요. 오늘 아침 경찰청에 전부 공개해 달라고 서면으로 요청했어요.
 
 133. MARCUS: You asked them to release your own body camera?
@@ -419,7 +419,7 @@
 135. REBECCA: Sergeant, your union usually advises officers to say nothing.
     레베카: 경사님, 노조는 보통 경찰관들한테 아무 말도 하지 말라고 하잖아요.
 
-136. KEVIN: My union delegate told me the same thing, so I'm saying nothing about the facts, and I'm only asking for the tape, because my father taught us that: count the money first.
+136. KEVIN: My union delegate told me the same thing, so I'm saying nothing about the facts. I'm only asking for the tape, because my father taught us that: count the money first.
     케빈: 제 노조 대의원도 그렇게 말했어요. 그래서 사실관계는 아무 말 안 해요. 영상만 요청하는 거예요. 아버지가 그렇게 가르치셨어요. 먼저 돈을 세 봐라.
 
 137. ROSE: That's my husband, John Reardon, who drove the Q69, and you can write that down.
@@ -437,31 +437,31 @@
 141. DAN: I told you you'd hear it from me.
     댄: 저한테서 듣게 될 거라고 했잖아요.
 
-142. AISHA: Dan, here are the facts, because the department just put out a statement that they'll release the full body camera footage on Wednesday, "in the interest of transparency."
+142. AISHA: Dan, here are the facts. The department just put out a statement that they'll release the full body camera footage on Wednesday, "in the interest of transparency."
     아이샤: 댄, 사실이요. 경찰청이 방금 성명을 냈어요. 수요일에 바디캠 영상 전체를 공개한대요. "투명성을 위해."
 
 143. FRANK: Two days is fast, because the department never moves in two days, so somebody upstairs watched the stoop.
     프랭크: 이틀이라니. 경찰청은 이틀 만에 움직이는 법이 없어. 위에서 누가 그 계단 장면을 본 거야.
 
-144. MARTY: And there's a new overnight poll with Russo at twenty-nine, Reardon at twenty-nine, and Haddad at twenty-seven, so it's a tie, with eight days left.
+144. MARTY: And there's a new overnight poll with Russo at twenty-nine, Reardon at twenty-nine, and Haddad at twenty-seven. It's a tie, with eight days left.
     마티: 그리고 밤새 새 여론조사. 루소 29, 레이든 29, 하다드 27. 동률이야. 8일 남았어.
 
 145. KEVIN: Danny, come here and sit on the step with me, because the cameras are gone.
     케빈: 형, 이리 와. 나랑 계단에 앉아. 카메라 다 갔어.
 
-146. DAN: Wilmer says thank you, and the scooter's fine, because only the mirror is broken, and that's all I'm allowed to tell you.
+146. DAN: Wilmer says thank you, and the scooter's fine, because only the mirror is broken. That's all I'm allowed to tell you.
     댄: 윌머가 고맙대. 그리고 스쿠터 괜찮대. 거울만 깨졌대. 내가 말해 줄 수 있는 건 그게 다야.
 
 147. KEVIN: Wilmer, the delivery guy? How do you know him?
     케빈: 윌머? 그 배달원? 형이 어떻게 알아?
 
-148. DAN: Elena sent him to us last year, but it's a long story, and I can't tell you the rest until the CCRB is done.
+148. DAN: Elena sent him to us last year, but it's a long story. I can't tell you the rest until the CCRB is done.
     댄: 작년에 엘레나가 우리한테 보냈어. 긴 얘기야. 나머지는 CCRB 끝날 때까지 말 못 해.
 
 149. KEVIN: Not everything's a case, Danny.
     케빈: 세상일이 다 사건은 아니야, 형.
 
-150. DAN: This one is, Kevin, and for once, you're the one who asked for the tape, so Dad would have counted the money with you.
+150. DAN: This one is, Kevin. For once, you're the one who asked for the tape, so Dad would have counted the money with you.
     댄: 이건 사건이야, 케빈. 그리고 이번엔 네가 영상을 요청했잖아. 아빠라면 너랑 같이 돈을 셌을 거야.
 
 ---
