@@ -59,8 +59,8 @@
 015. TERRENCE: It's Wednesday at nine a.m. in her office, and they said, "The chair doesn't move meetings for anybody, but she moved it for the veterans."
     테런스: 수요일 오전 아홉 시, 그분 사무실이요. "위원장님은 누구 때문에도 면담을 안 옮기시는데, 참전용사들 때문에 옮기셨다"고 하네요.
 
-016. CLARENCE: And who's this Frances Holt, when she's at home?
-    클래런스: 그 프랜시스 홀트란 사람은 대체 누구요?
+016. CLARENCE: And who's this Frances Holt you keep talking about?
+    클래런스: 당신이 계속 말하는 그 프랜시스 홀트가 누구요?
 
 017. DAN: She's the chair of Oversight, which investigates how the government works, or doesn't.
     댄: 감독위원장이에요. 정부가 어떻게 돌아가는지, 아니면 안 돌아가는지 조사하는 곳이에요.
