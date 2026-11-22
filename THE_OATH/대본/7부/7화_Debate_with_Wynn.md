@@ -143,8 +143,8 @@
 043. DAN: Thank you. Attorney General Wynn is the most prepared person on this stage, and she's right about that, so I'm not going to pretend otherwise.
     댄: 감사합니다. 윈 법무장관님은 이 무대에서 가장 준비된 분입니다. 그 말씀이 맞고, 저는 아닌 척하지 않겠습니다.
 
-044. AUDIENCE: [murmuring]
-    청중: [웅성거림]
+044. AUDIENCE: Did he just say his opponent is better prepared than him?
+    청중: 방금 상대가 자기보다 준비가 더 잘됐다고 한 거야?
 
 045. DAN: My father drove a bus, and he taught me to say things plain. So here's plain: I've spent this spring in barns, steel halls, and fourteen diners. I'm not running to be prepared. I'm running to be there.
     댄: 제 아버지는 버스 기사였고, 저한테 쉽게 말하라고 가르치셨습니다. 그러니 쉽게 말하겠습니다. 이번 봄을 헛간과 철강 회관과 다이너 열네 곳에서 보냈습니다. 저는 준비되려고 출마한 게 아닙니다. 그 자리에 있으려고 출마했습니다.
@@ -227,8 +227,8 @@
 071. DAN: Her other son, Danny, died in 2024, and nobody from that company ever said they were sorry, not one executive. My question is hers: why did nobody say sorry?
     댄: 그분의 다른 아들 대니는 2024년에 죽었습니다. 그 회사 누구도, 임원 단 한 명도 미안하다고 하지 않았죠. 제 질문은 그분의 질문입니다. 왜 아무도 미안하다고 하지 않았습니까?
 
-072. AUDIENCE: [silence]
-    청중: [정적]
+072. AUDIENCE: Nobody ever asked her that question on a stage before.
+    청중: 무대에서 그 질문을 한 사람은 지금까지 아무도 없었어.
 
 073. WYNN: Thank you for asking it that way, with both sons, and I'll answer it the same way.
     윈: 그렇게 물어봐 주셔서 감사합니다. 두 아들을 다 담아서요. 저도 그렇게 답하겠습니다.
@@ -245,8 +245,8 @@
 077. WYNN: Mrs. Pryzbylski, if you're watching, I'm sorry nobody said it, so I'm saying it now.
     윈: 프리즈빌스키 부인, 보고 계신다면, 아무도 그 말을 하지 않아서 죄송합니다. 지금 제가 하겠습니다.
 
-078. AUDIENCE: [applause]
-    청중: [박수]
+078. AUDIENCE: Thank you, Catherine! That's what she needed to hear!
+    청중: 고마워요, 캐서린! 그분한테 필요했던 말이에요!
 
 079. MODERATOR: Please, no applause. Congressman, do you have any response?
     진행자: 박수는 삼가 주십시오. 의원님, 답변하시겠습니까?
@@ -290,8 +290,8 @@
 092. WYNN: And I'd say you don't fix it by being famous. You fix it by knowing where the hinges are.
     윈: 그리고 저는 유명하다고 고쳐지지도 않는다고 말하겠습니다. 경첩이 어디 있는지 알아야 고치죠.
 
-093. AUDIENCE: [laughter]
-    청중: [웃음]
+093. AUDIENCE: Ha! She got you there, Congressman, right on the hinges!
+    청중: 하! 한 방 먹었네요, 의원님. 경첩을 딱 짚었어!
 
 094. DAN: That's a good line, and I'll admit that, so can I borrow it?
     댄: 좋은 말이네요. 인정합니다. 빌려 가도 될까요?
