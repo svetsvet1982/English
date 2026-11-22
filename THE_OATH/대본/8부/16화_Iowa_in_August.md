@@ -83,14 +83,14 @@
 023. DAN: Some of it is for you, and we'll make the rest of it yours. Come up with me, and stand next to me the whole time.
     댄: 일부는 당신 거예요. 나머지도 당신 걸로 만들 거예요. 같이 올라가요. 끝까지 내 옆에 서 있어요.
 
-024. AUDIENCE: [cheering]
-    청중: [환호]
+024. AUDIENCE: Carrie! Carrie! Go get them, Mrs. Ostrowski!
+    청중: 캐리! 캐리! 힘내요, 오스트로스키 선생님!
 
 025. DAN: Thank you, Iowa! I'm Dan Reardon from Queens, and I'm wearing a farmer's boots. He'd want me to tell you they're dirty now.
     댄: 고맙습니다, 아이오와! 퀸즈에서 온 댄 레이든입니다. 농부 장화를 신고 왔어요. 그분이라면 이제 더러워졌다고 전하라고 하실 겁니다.
 
-026. AUDIENCE: [laughter]
-    청중: [웃음]
+026. AUDIENCE: Ha! Welcome to Iowa, where everybody's boots are dirty!
+    청중: 하! 아이오와에 온 걸 환영해요. 여긴 다들 장화가 더러워요!
 
 027. DAN: I'm not here for me, I'm here for Carrie Ostrowski, who has taught agriculture in Waterloo for twenty years. Her students raise hogs and win ribbons.
     댄: 저 때문에 온 게 아닙니다. 캐리 오스트로프스키 때문에 왔습니다. 워털루에서 20년 동안 농업을 가르친 분이죠. 그 학생들은 돼지를 키우고 리본을 탑니다.
@@ -104,14 +104,14 @@
 030. DAN: Last month my campaign got caught with money that wasn't clean, somebody else's money in other people's names. I didn't know, and I sent all of it to the Treasury.
     댄: 지난달 제 선거 캠프에서 깨끗하지 않은 돈이 발견됐습니다. 남의 돈이 다른 사람들 이름으로 들어온 거죠. 저는 몰랐고, 전액을 재무부에 보냈습니다.
 
-031. AUDIENCE: [applause]
-    청중: [박수]
+031. AUDIENCE: Good for you, Senator, that's the right thing to do!
+    청중: 잘하셨어요, 의원님. 그게 옳은 일이죠!
 
 032. DAN: Carrie will never have that problem, because her biggest donor is her mother, at forty dollars, twice.
     댄: 캐리는 그런 문제가 절대 없을 겁니다. 최대 후원자가 어머니거든요. 40달러씩 두 번이요.
 
-033. AUDIENCE: [laughter]
-    청중: [웃음]
+033. AUDIENCE: Ha! Now that's the kind of donor we can trust!
+    청중: 하! 저런 후원자라면 믿을 수 있지!
 
 034. CARRIE: It was forty-five the second time, and she wants credit.
     캐리: 두 번째는 45달러였어요. 엄마가 인정받고 싶어 하세요.
@@ -125,8 +125,8 @@
 037. CARRIE: I'm tired of teaching kids to love a place that won't keep them, and that's my speech. I'm a teacher, so I keep it short, because the bell rings.
     캐리: 아이들을 붙잡아 주지도 않는 곳을 사랑하라고 가르치는 데 지쳤습니다. 그게 제 연설이에요. 전 교사라서 짧게 해요. 종이 울리거든요.
 
-038. AUDIENCE: [cheering]
-    청중: [환호]
+038. AUDIENCE: That's right, Carrie! Keep our kids here in Iowa!
+    청중: 맞아요, 캐리! 우리 애들을 아이오와에 붙잡아 줘요!
 
 039. MARTY: That's the clip, and it's her, not him: "A place that won't keep them."
     마티: 저게 클립이야. 저 남자 말고 저 여자. "아이들을 붙잡아 주지도 않는 곳."
@@ -173,8 +173,8 @@
 053. DAN: Can the parking lot hear me? Wave if you can. Okay, that's a first.
     댄: 주차장에서 제 말 들려요? 들리면 손 흔들어 주세요. 좋아요, 이런 건 처음이네요.
 
-054. AUDIENCE: [cheering from outside]
-    청중: [밖에서 환호]
+054. AUDIENCE: We can hear you out here, Senator, loud and clear!
+    청중: 여기서도 잘 들려요, 의원님. 아주 크게요!
 
 055. DAN: I want to tell you about a sixty-six-year-old farmer in New York named Walt, who has voted for the other side his whole life. He gave me these boots.
     댄: 뉴욕의 한 농부 얘기를 하고 싶습니다. 이름은 월트고 예순여섯 살입니다. 평생 반대편에 투표한 분이죠. 이 장화를 저한테 준 분입니다.
@@ -182,8 +182,8 @@
 056. DAN: Walt has a man named Tomás from Guatemala who's worked for him for eleven years. Tomás milks two hundred forty cows twice a day, because cows don't have seasons, they have Tuesdays.
     댄: 월트 농장엔 과테말라에서 온 토마스라는 사람이 11년째 일합니다. 토마스는 소 240마리의 젖을 하루 두 번 짭니다. 소한텐 계절이 없거든요. 화요일이 있을 뿐이죠.
 
-057. AUDIENCE: [laughter]
-    청중: [웃음]
+057. AUDIENCE: Ha! That's true, because my cows don't take weekends either!
+    청중: 하! 맞아요. 우리 소들도 주말에 안 쉬어요!
 
 058. DAN: Last month the Senate passed a dairy worker visa bill for year-round work. If you leave a bad farm, you have ninety days to find another one, which is new, and that's good.
     댄: 지난달 상원이 연중 근무가 가능한 낙농 노동자 비자 법안을 통과시켰습니다. 나쁜 농장을 떠나면 90일 안에 다른 농장을 찾으면 됩니다. 새로운 거고, 좋은 겁니다.
@@ -233,8 +233,8 @@
 073. ARLO: Are you running for president?
     알로: 대통령 출마할 거예요?
 
-074. AUDIENCE: [roar]
-    청중: [함성]
+074. AUDIENCE: Say yes, Senator! Tell the kid yes!
+    청중: 그렇다고 해요, 의원님! 애한테 그렇다고 해 줘요!
 
 075. MARTY: Don't answer that, just smile, but not too much.
     마티: 대답하지 마. 웃어. 너무 많이는 말고.
@@ -260,8 +260,8 @@
 082. ARLO: Second place, well, that's me. I'll vote for you, Mrs. Ostrowski, and I'll call both senators at six.
     알로: 2등이라. 그게 나지. 당신 찍을게요, 오스트로프스키 선생. 그리고 여섯 시에 상원의원 둘 다한테 전화할 거요.
 
-083. AUDIENCE: [cheering]
-    청중: [환호]
+083. AUDIENCE: Arlo for Senate! That boy's got my vote!
+    청중: 알로를 상원으로! 저 녀석한테 한 표!
 
 084. DAN: Marie, it's late in New York, so is everything okay? Is it Walt?
     댄: 마리, 뉴욕은 늦은 시간인데 무슨 일 있어요? 월트 씨 때문이에요?
