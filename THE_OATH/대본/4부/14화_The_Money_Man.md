@@ -14,13 +14,13 @@
 
 ## 대본
 
-001. JUNE: Okay, here it is, thirty seconds that aired during the Mets game on Thursday and twice during the news, so everybody be quiet.
+001. JUNE: Okay, here it is, thirty seconds that aired during the Mets game on Thursday and twice during the news. Everybody be quiet.
     준: 자, 이거예요. 30초짜리. 목요일 메츠 경기 중에 나갔고 뉴스 시간에 두 번 나갔어요. 다들 조용히요.
 
-002. DOYLE: Hi, I'm Pat Doyle, and for thirty-one years, I've fixed boilers in Queens and the Bronx, so when your heat goes out at two in the morning, my guys come.
+002. DOYLE: Hi, I'm Pat Doyle, and for thirty-one years, I've fixed boilers in Queens and the Bronx. When your heat goes out at two in the morning, my guys come.
     도일: 안녕하세요, 팻 도일입니다. 31년 동안 퀸즈와 브롱크스에서 보일러를 고쳐 왔습니다. 새벽 두 시에 난방이 꺼지면 우리 직원들이 갑니다.
 
-003. DOYLE: My opponent, Dan Reardon, defended big companies for fifteen years, including a private prison company, and now he wants to fight everybody.
+003. DOYLE: My opponent, Dan Reardon, defended big companies for fifteen years, including a private prison company. Now he wants to fight everybody.
     도일: 제 상대 댄 레이든은 15년 동안 대기업들을 변호했습니다. 민간 교도소 회사까지요. 이제는 모두와 싸우고 싶어 하죠.
 
 004. DOYLE: I don't fight, I fix. Fix it. Don't fight it. I'm Pat Doyle, and I approve this message, because I paid for it myself.
@@ -38,10 +38,10 @@
 008. AISHA: He lives in the district, and you don't, so he'll use that in October.
     아이샤: 그 사람은 지역구에 살고 댄은 아니죠. 10월에 그걸 써먹을 거예요.
 
-009. MARTY: And he's running on two lines, the other side's line and a second line called "Common Sense," which is a small party that endorses whoever it likes.
+009. MARTY: And he's running on two lines, the other side's line and a second line called "Common Sense." That's a small party that endorses whoever it likes.
     마티: 그리고 두 줄로 나와. 상대 당 줄이랑 "상식"이라는 두 번째 줄. 마음에 드는 사람은 누구든 지지하는 작은 정당이야.
 
-010. LEILA: In New York, one candidate can be on the ballot more than once for different parties, which is called fusion voting, and the votes are added together.
+010. LEILA: In New York, one candidate can be on the ballot more than once for different parties. It's called fusion voting, and the votes are added together.
     레일라: 뉴욕에선 한 후보가 여러 정당 줄로 투표용지에 여러 번 오를 수 있어요. 연합 투표라고 하죠. 표는 합산돼요.
 
 011. DAN: Leila, welcome, because it's your first day as policy director, and you get this.
@@ -53,10 +53,10 @@
 013. DAN: And how much money does he actually have? Give me the number.
     댄: 그 사람 실제로 돈이 얼마나 있어요? 숫자로 말해 줘요.
 
-014. AISHA: He's putting in his own money, which is self-funding, and there's no limit on how much a candidate can give his own campaign. Gus can only give thirty-five hundred, but Doyle can give thirty-five million.
+014. AISHA: He's putting in his own money, which is self-funding. There's no limit on how much a candidate can give his own campaign. Gus can only give thirty-five hundred, but Doyle can give thirty-five million.
     아이샤: 자기 돈을 넣어요. 자기 자금 조달이죠. 후보가 자기 캠프에 내는 돈엔 한도가 없어요. 거스는 3,500달러밖에 못 내지만 도일은 3,500만 달러도 낼 수 있어요.
 
-015. JUNE: So far, it's six million, with three million on TV for his ad buy, which is the airtime you purchase from the TV stations, every slot during the Mets and every slot during the news.
+015. JUNE: So far, it's six million, with three million on TV for his ad buy. That's the airtime you purchase from the TV stations, every slot during the Mets and every slot during the news.
     준: 지금까지 6백만 달러예요. 3백만은 TV 광고 구매고요. 방송국에서 방송 시간을 사는 거예요. 메츠 경기 시간대 전부, 뉴스 시간대 전부.
 
 016. DAN: And how much do we have? Don't round up, because Leila will know.
@@ -71,16 +71,16 @@
 019. FRANK: But this district votes our way, eight to two, so how does a boiler guy win?
     프랭크: 근데 이 지역구는 8대 2로 우리 쪽이잖아. 보일러 아저씨가 어떻게 이겨?
 
-020. MARTY: Because he's not running as the other side, so look at the ad, where he never says his party, only "boilers." He's running as Pat from Ditmars, moderate and friendly, who fixes your heat.
+020. MARTY: Because he's not running as the other side, so look at the ad. He never says his party, only "boilers." He's running as Pat from Ditmars, moderate and friendly, who fixes your heat.
     마티: 상대 당으로 안 나오니까. 광고 봐. 당 얘기는 한 마디도 안 하고 "보일러"만 말해. 디트마스의 팻으로 나오는 거야. 온건하고, 친근하고, 난방 고쳐 주는.
 
-021. LEILA: And the people he's after are the swing voters, the ones who usually vote for our side but didn't love any of us in June, who are mostly Tony's voters.
+021. LEILA: And the people he's after are the swing voters. They usually vote for our side but didn't love any of us in June, and they're mostly Tony's voters.
     레일라: 그리고 노리는 건 부동층이에요. 보통은 우리 쪽을 찍지만 6월엔 우리 중 누구도 별로였던 사람들. 대부분 토니 지지자들이죠.
 
 022. DAN: Tony hasn't endorsed me, and he hasn't said one word since the primary.
     댄: 토니는 저를 지지 안 했어요. 경선 이후 한마디도 없어요.
 
-023. MARTY: Tony conceded on June twenty-ninth, two days late, by email, and he hasn't said your name since, so his voters are waiting for him to say it.
+023. MARTY: Tony conceded on June twenty-ninth, two days late, by email. He hasn't said your name since, so his voters are waiting for him to say it.
     마티: 토니는 6월 29일에 이틀 늦게 이메일로 승복했어. 그 뒤로 자네 이름을 한 번도 안 불렀어. 지지자들은 토니가 그 이름을 말하길 기다리고 있지.
 
 024. JUNE: Here's the new poll: Reardon forty-four, Doyle forty-one, and undecided fifteen, in a district our side usually wins by forty points.
@@ -89,7 +89,7 @@
 025. DAN: Three points, with six million dollars against us.
     댄: 3포인트. 6백만 달러를 상대로.
 
-026. MARTY: The air war is TV, and he's winning it, but the ground game is doors, with two unions and Gladys, and we win that.
+026. MARTY: The air war is TV, and he's winning it. But the ground game is doors, with two unions and Gladys, and we win that.
     마티: 공중전은 TV고, 그건 저쪽이 이기고 있어. 지상전은 호별 방문이야. 노조 둘이랑 글래디스. 그건 우리가 이겨.
 
 027. FRANK: And who wins the war?
@@ -104,7 +104,7 @@
 030. MARTY: With what, twenty-six dollars at a time? We can't buy TV, so we need earned media.
     마티: 뭐로? 26달러씩 모아서? TV는 못 사. 언드 미디어가 필요해.
 
-031. JUNE: Earned media means free coverage, like news stories and viral videos, things people share because they want to, not because you paid, like the union hall.
+031. JUNE: Earned media means free coverage, like news stories and viral videos. People share those things because they want to, not because you paid, like the union hall.
     준: 언드 미디어는 공짜 노출이에요. 뉴스 기사, 화제 영상. 돈 내서가 아니라 사람들이 원해서 공유하는 거요. 노조 회관 때처럼요.
 
 032. LEILA: And there's something about Doyle's company I want to check, so give me two weeks.
@@ -122,16 +122,16 @@
 036. MARTY: Two women who correct each other's spreadsheets, so God help Patrick Doyle.
     마티: 서로 스프레드시트 고쳐 주는 여자 둘이라. 패트릭 도일한테 신의 가호가 있길.
 
-037. ROSE: Danny, this is the street fair, so you smile and eat a souvlaki, and you don't make speeches on Thirtieth Avenue on a Saturday.
+037. ROSE: Danny, this is the street fair, so you smile and eat a souvlaki. You don't make speeches on Thirtieth Avenue on a Saturday.
     로즈: 대니, 이건 거리 축제야. 웃고 수블라키 먹어. 토요일에 30번 애비뉴에서 연설하는 거 아니야.
 
 038. DAN: I'm not making speeches, Ma, I'm just shaking hands with people.
     댄: 연설 안 해, 엄마. 그냥 사람들이랑 악수하는 거야.
 
-039. ROSE: You're shaking hands like a lawyer, too firm, like you're closing a deal, so shake like your father, like you're helping somebody off the bus.
+039. ROSE: You're shaking hands like a lawyer, too firm, like you're closing a deal. Shake like your father, like you're helping somebody off the bus.
     로즈: 변호사처럼 악수하잖아. 너무 세게. 계약 마무리하는 것처럼. 아버지처럼 해. 버스에서 내리는 사람 도와주듯이.
 
-040. SAM: Dad, there's a man in a Doyle T-shirt giving out free hot dogs, so can I have one, or is that a contribution?
+040. SAM: Dad, there's a man in a Doyle T-shirt giving out free hot dogs. Can I have one, or is that a contribution?
     샘: 아빠, 도일 티셔츠 입은 아저씨가 공짜 핫도그 나눠 줘. 하나 먹어도 돼? 그것도 기부야?
 
 041. DAN: It's not a contribution to us, so you can have one, but just don't wear the T-shirt.
@@ -155,7 +155,7 @@
 047. ROSE: Hm, Danny, he's charming, so be careful.
     로즈: 흠. 대니, 매력 있네. 조심해.
 
-048. DOYLE: Your mother is smarter than both of us, Dan. Listen, I want to say something man to man: I don't hate you, and I think you're a good guy, but I think you're the wrong guy.
+048. DOYLE: Your mother is smarter than both of us, Dan. Listen, I want to say something man to man. I don't hate you, and I think you're a good guy, but I think you're the wrong guy.
     도일: 어머님이 우리 둘보다 똑똑하시네요, 댄. 들어 봐요. 남자 대 남자로 할 말이 있어요. 난 당신 안 미워해요. 좋은 사람이라고 생각해요. 근데 맞는 사람은 아니라고 생각해요.
 
 049. DAN: Why?
@@ -173,7 +173,7 @@
 053. ROSE: He fixed Gladys's boiler?
     로즈: 이 사람이 글래디스 보일러를 고쳤어?
 
-054. DAN: Pat, your company installed that boiler because a judge ordered the landlord to do it, and the landlord only called you because we sued. That's how it works: somebody fights, and then somebody fixes.
+054. DAN: Pat, your company installed that boiler because a judge ordered the landlord to do it. The landlord only called you because we sued. That's how it works: somebody fights, and then somebody fixes.
     댄: 팻, 당신 회사가 그 보일러를 설치한 건 판사가 건물주한테 명령했기 때문이에요. 건물주는 우리가 소송해서 당신을 부른 거고요. 원래 그래요. 누군가 싸우고, 그다음에 누군가 고치죠.
 
 055. DOYLE: Ha, that's very good, so put it in an ad. Oh, wait, you can't afford ads.
@@ -182,7 +182,7 @@
 056. DAN: I'll say it for free, maybe on Metro Nine.
     댄: 공짜로 말할게요. 메트로 나인에서라도.
 
-057. DOYLE: You're funny, and I didn't expect funny. Listen, Dan, in October, it's going to get rough, not from me, because I don't do that, but some people who like me do, and I can't control them.
+057. DOYLE: You're funny, and I didn't expect funny. Listen, Dan, in October, it's going to get rough, not from me, because I don't do that. But some people who like me do, and I can't control them.
     도일: 웃기네요. 웃길 줄은 몰랐어요. 들어 봐요, 댄. 10월엔 거칠어질 거예요. 나 말고요. 난 그런 거 안 해요. 근데 날 좋아하는 사람들 중엔 하는 사람이 있어요. 난 그 사람들을 통제 못 해요.
 
 058. DAN: Who?
@@ -197,7 +197,7 @@
 061. DAN: I'm not sure yet, buddy, because sometimes it's both.
     댄: 아직 모르겠어, 아들. 가끔은 둘 다야.
 
-062. ROSE: He was nice, and that's what worries me, because your father always said the dangerous ones are the ones who remember your truck.
+062. ROSE: He was nice, and that's what worries me. Your father always said the dangerous ones are the ones who remember your truck.
     로즈: 친절했어. 그게 걱정이야. 네 아버지가 늘 그랬어. 위험한 놈들은 네 트럭을 기억하는 놈들이라고.
 
 063. DAN: Dad never had a truck, Ma, because he drove a bus.
@@ -206,7 +206,7 @@
 064. ROSE: It's an expression, Danny, so just eat your souvlaki.
     로즈: 그냥 하는 말이야, 대니. 수블라키나 먹어.
 
-065. GUS: Counselor, over here, because I have a booth at the fair this year, with free coffee for Reardon voters, terrible coffee, but free!
+065. GUS: Counselor, over here! I have a booth at the fair this year, with free coffee for Reardon voters, terrible coffee, but free!
     거스: 변호사님! 여기! 올해 축제에 부스 냈어. 레이든 찍는 사람한테 공짜 커피. 끔찍한 커피지만 공짜야.
 
 066. DAN: Gus, if you give free coffee only to my voters, that's—
@@ -227,7 +227,7 @@
 071. DAN: Larchmont.
     댄: 라치몬트.
 
-072. LEILA: It's Larchmont Residential Partners, Fund III, since 2021, which is why he got the Walton Avenue job, because he's their boiler man, so when the heat goes off in a Larchmont building, it's Doyle who decides whether to come.
+072. LEILA: It's Larchmont Residential Partners, Fund III, since 2021. That's why he got the Walton Avenue job, because he's their boiler man. When the heat goes off in a Larchmont building, it's Doyle who decides whether to come.
     레일라: 라치몬트 레지덴셜 파트너스, 펀드 III요. 2021년부터. 그래서 월턴 애비뉴 일을 따낸 거예요. 그 회사 보일러 담당이거든요. 라치몬트 건물 난방이 꺼지면 올지 말지 도일이 정하는 거죠.
 
 073. DAN: Or Larchmont decides, and Doyle just follows their orders.
@@ -281,7 +281,7 @@
 089. REBECCA: You picked the window booth where people can see us, so are you trying to be seen with a reporter?
     레베카: 사람들 다 보이는 창가 자리네요. 기자랑 같이 있는 거 보이고 싶어요?
 
-090. DAN: I'm trying to have breakfast, Rebecca, because it's Saturday, and Gus feeds me on Saturdays, which is a deal I made in April.
+090. DAN: I'm trying to have breakfast, Rebecca, because it's Saturday. Gus feeds me on Saturdays, which is a deal I made in April.
     댄: 아침 먹으려는 거예요, 레베카. 토요일이잖아요. 토요일엔 거스가 밥 줘요. 4월에 한 약속이에요.
 
 091. REBECCA: I'll have black coffee and nothing else, because I'm still not taking anything free. Gus, I'm paying.
@@ -302,31 +302,31 @@
 096. DAN: Callum Pryce, from Lumen Vision.
     댄: 캘럼 프라이스. 루멘 비전.
 
-097. REBECCA: That's Lumen Vision, and the city's audit of the program comes out in October, for two precincts, and people say it's not good, so Pryce blames you and Darnell Hayes.
+097. REBECCA: That's Lumen Vision, and the city's audit of the program comes out in October, for two precincts. People say it's not good, so Pryce blames you and Darnell Hayes.
     레베카: 루멘 비전이요. 그 프로그램 시 감사 결과가 10월에 나와요. 관할서 두 곳이요. 안 좋다는 말이 있어요. 프라이스는 당신이랑 대널 헤이스 탓을 하고요.
 
 098. DAN: A fundraiser is legal, because he can give Doyle thirty-five hundred like anybody else.
     댄: 후원 행사는 합법이에요. 남들처럼 도일한테 3,500달러 낼 수 있죠.
 
-099. REBECCA: That's not the part I'm worried about, because there's a new super PAC called "Queens Forward," registered with the FEC three weeks ago, and it's already reserved two million dollars of airtime for October.
+099. REBECCA: That's not the part I'm worried about. There's a new super PAC called "Queens Forward," registered with the FEC three weeks ago. It's already reserved two million dollars of airtime for October.
     레베카: 제가 걱정하는 건 그게 아니에요. "퀸즈 포워드"라는 새 슈퍼 PAC가 있어요. 3주 전에 FEC에 등록했는데 벌써 10월 방송 시간을 2백만 달러어치 잡아 놨어요.
 
 100. DAN: Who's behind it? There has to be a name somewhere.
     댄: 누가 뒤에 있어요? 어딘가엔 이름이 있을 텐데요.
 
-101. REBECCA: On paper, it's an LLC in Delaware called "Forward Civic Holdings," with no names, and you know how this works, because you chased an LLC to Larchmont last year.
+101. REBECCA: On paper, it's an LLC in Delaware called "Forward Civic Holdings," with no names. You know how this works, because you chased an LLC to Larchmont last year.
     레베카: 서류상으론 델라웨어의 LLC예요. "포워드 시빅 홀딩스." 이름은 없어요. 어떻게 돌아가는지 알잖아요. 작년에 LLC를 쫓아 라치몬트까지 갔으니까.
 
 102. DAN: Frank chased it, Rebecca, and I just read the file.
     댄: 프랭크가 쫓았죠, 레베카. 전 파일만 읽었어요.
 
-103. REBECCA: A super PAC can raise unlimited money from anyone, including billionaires and companies, and it can spend it on ads for or against you, and the only rule is that it can't coordinate with Doyle's campaign.
+103. REBECCA: A super PAC can raise unlimited money from anyone, including billionaires and companies. It can spend it on ads for or against you. The only rule is that it can't coordinate with Doyle's campaign.
     레베카: 슈퍼 PAC는 누구한테서든 무제한으로 돈을 모을 수 있어요. 억만장자든 회사든요. 그 돈으로 당신을 지지하거나 반대하는 광고를 할 수 있어요. 규칙은 딱 하나, 도일 캠프랑 협의하면 안 된다는 거예요.
 
 104. DAN: "Coordinate," meaning they can't plan it together.
     댄: "협의"란 같이 계획하면 안 된다는 거죠.
 
-105. REBECCA: It means Doyle can't call them and say, "Run this ad on Tuesday," but they can watch his ads, and he can watch theirs, and everybody's very careful not to call.
+105. REBECCA: It means Doyle can't call them and say, "Run this ad on Tuesday." But they can watch his ads, and he can watch theirs, and everybody's very careful not to call.
     레베카: 도일이 전화해서 "화요일에 이 광고 내"라고 하면 안 된다는 뜻이에요. 근데 그쪽은 도일 광고를 보고, 도일은 그쪽 광고를 볼 수 있죠. 다들 전화 안 하려고 아주 조심해요.
 
 106. DAN: At the street fair, Doyle said people who like him will get rough in October, and he can't control them.
@@ -344,7 +344,7 @@
 110. DAN: I don't know, because you told me in the fall you're not my friend.
     댄: 모르겠어요. 가을에 제 친구 아니라고 했잖아요.
 
-111. REBECCA: I'm not, but I'm telling you because I'm going to write about Queens Forward on Monday, and I want to ask you for a comment before I do, because fair is my job, remember?
+111. REBECCA: I'm not, but I'm telling you because I'm going to write about Queens Forward on Monday. I want to ask you for a comment before I do, because fair is my job, remember?
     레베카: 친구 아니죠. 월요일에 퀸즈 포워드 기사를 쓸 거라서 말하는 거예요. 쓰기 전에 논평을 받고 싶어서요. 공정한 게 제 일이잖아요. 기억나요?
 
 112. DAN: Then here's my comment, on the record: "I don't know who's paying for Queens Forward, and I'd like the voters to know. If I'm wrong about something, I want to hear it from a person with a name."
@@ -365,28 +365,28 @@
 117. AISHA: It's Saturday night in the war room, and Frank talked to Luis early, because he couldn't wait until Monday.
     아이샤: 토요일 밤 작전실이에요. 프랭크가 루이스를 일찍 만났어요. 월요일까지 못 기다렸대요.
 
-118. FRANK: Luis says Doyle's guys came every time he called, every single time, but it was Larchmont that said "don't send anybody until we approve the cost," and Luis has the texts from Trent Sayer.
+118. FRANK: Luis says Doyle's guys came every time he called, every single time. But it was Larchmont that said "don't send anybody until we approve the cost," and Luis has the texts from Trent Sayer.
     프랭크: 루이스 말로는 전화할 때마다 도일 직원들이 왔대. 매번. "비용 승인 전엔 아무도 보내지 마"라고 한 건 라치몬트였어. 루이스한테 트렌트 세이어가 보낸 문자가 있어.
 
 119. LEILA: So Doyle's company didn't make Gladys wait, because Larchmont did.
     레일라: 그러니까 글래디스를 기다리게 한 건 도일 회사가 아니라 라치몬트였네요.
 
-120. FRANK: Larchmont did, because Doyle's guys showed up, looked at the old boiler, and wrote "replace," but Larchmont said no, three times.
+120. FRANK: Larchmont did. Doyle's guys showed up, looked at the old boiler, and wrote "replace," but Larchmont said no, three times.
     프랭크: 라치몬트였어. 도일 직원들이 와서 낡은 보일러 보고 "교체"라고 적었어. 라치몬트가 안 된다고 했지. 세 번이나.
 
 121. MARTY: So we have nothing on Doyle at all.
     마티: 그럼 도일한테 걸 건 아무것도 없네.
 
-122. DAN: We have something better, which is the truth: Pat Doyle's guys did their job, and I'm not going to attack a man for fixing a boiler.
+122. DAN: We have something better, which is the truth. Pat Doyle's guys did their job, and I'm not going to attack a man for fixing a boiler.
     댄: 더 좋은 게 있어요. 진실이요. 팻 도일 직원들은 자기 일을 했어요. 보일러 고친 사람을 공격하진 않을 거예요.
 
 123. LEILA: Even though he's attacking you for the opposite?
     레일라: 그 사람은 반대 이유로 당신을 공격하는데도요?
 
-124. DAN: Even though, because if I attack him with something that isn't true, I'm Queens Forward, and Gladys would be very disappointed in me.
-    댄: 그래도요. 사실 아닌 걸로 공격하면 제가 퀸즈 포워드가 되는 거예요. 글래디스가 저한테 아주 실망하겠죠.
+124. DAN: Yes, even then. If I attack him with something that isn't true, I'm Queens Forward, and Gladys would be very disappointed in me.
+    댄: 네, 그래도요. 사실 아닌 걸로 공격하면 제가 퀸즈 포워드가 되는 거예요. 글래디스가 저한테 아주 실망하겠죠.
 
-125. LEILA: You know, Dan, in June I said you were honest but wrong, but I'm starting to think you're just honest, and it's very inconvenient.
+125. LEILA: You know, Dan, in June I said you were honest but wrong. But I'm starting to think you're just honest, and it's very inconvenient.
     레일라: 있잖아요, 댄. 6월엔 당신이 정직하지만 틀렸다고 했죠. 근데 그냥 정직한 거라는 생각이 들기 시작해요. 아주 불편하네요.
 
 126. DAN: My daughter's word for it is "annoying."
@@ -401,8 +401,8 @@
 129. LEILA: I sent all of them, and the weak points, because if she's going to beat me, she should do it properly.
     레일라: 전부 보냈어요. 약점까지. 날 이기려면 제대로 이겨야죠.
 
-130. MARTY: Okay, Doyle has six million dollars, Queens Forward has two million, and we have eight hundred thousand, two unions, and the truth, so somebody tell me how we win.
-    마티: 좋아. 도일은 6백만 달러, 퀸즈 포워드는 2백만, 우린 80만에 노조 둘이랑 진실. 누가 어떻게 이길지 말 좀 해 봐.
+130. MARTY: Okay, Doyle has six million dollars, and Queens Forward has two million. We have eight hundred thousand, two unions, and the truth, so somebody tell me how we win.
+    마티: 좋아. 도일은 6백만 달러, 퀸즈 포워드는 2백만. 우린 80만에 노조 둘이랑 진실. 누가 어떻게 이길지 말 좀 해 봐.
 
 131. AISHA: Tony Russo, because if Tony says your name, his voters come home.
     아이샤: 토니 루소요. 토니가 댄 이름을 말하면 지지자들이 돌아와요.
@@ -410,7 +410,7 @@
 132. MARTY: Tony's waiting for something, like a phone call or a favor, something he can say yes to.
     마티: 토니는 뭔가를 기다리고 있어. 전화든 부탁이든. 자기가 좋다고 할 수 있는 뭔가를.
 
-133. DAN: Then I'll call him, not for a favor, but to ask what he thinks, because he's been in Albany for twenty-six years, and he knows things I don't.
+133. DAN: Then I'll call him, not for a favor, but to ask what he thinks. He's been in Albany for twenty-six years, and he knows things I don't.
     댄: 그럼 제가 전화할게요. 부탁하려는 게 아니라 의견을 물으려고요. 올버니에 26년 있었잖아요. 제가 모르는 걸 알아요.
 
 134. MARTY: That's the most dangerous idea you've had, and it might work.
@@ -419,13 +419,13 @@
 135. JUNE: Dan, your phone is ringing, and it's Elena calling.
     준: 댄, 전화 와요. 엘레나예요.
 
-136. ELENA: Dan, I just got a strange email from the Mott Haven Community Health Center on 149th Street, because it's their thirtieth anniversary in October.
+136. ELENA: Dan, I just got a strange email from the Mott Haven Community Health Center on 149th Street. It's their thirtieth anniversary in October.
     엘레나: 댄, 방금 이상한 메일 받았어. 149번가 모트 헤이븐 지역 보건소에서. 10월에 30주년이래.
 
 137. DAN: That's not strange, that's nice.
     댄: 이상한 게 아니라 좋은 거네.
 
-138. ELENA: They want me to give an award to a nurse, Ines Ramos, who's been there thirty years, and she trained half my nurses.
+138. ELENA: They want me to give an award to a nurse, Ines Ramos, who's been there thirty years. She trained half my nurses.
     엘레나: 간호사 이네스 라모스한테 상을 줘 달래. 거기서 30년 일했어. 우리 간호사 절반을 가르친 분이야.
 
 139. DAN: You should do it, Elena, if you want to.
@@ -452,7 +452,7 @@
 146. ELENA: I don't know yet, and that's the point, because if I knew, it would be a speech.
     엘레나: 아직 몰라요. 그게 핵심이에요. 알면 연설이 되잖아요.
 
-147. DAN: Elena, you're going to say something true, and somebody's going to film it on their phone, and you know that, right?
+147. DAN: Elena, you're going to say something true, and somebody's going to film it on their phone. You know that, right?
     댄: 엘레나, 당신은 진실을 말할 거고 누군가 폰으로 찍을 거야. 알지?
 
 148. ELENA: Then let them film a doctor, because I've been filmed before in the ER, by drunk people.
