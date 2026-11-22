@@ -252,8 +252,8 @@
 079. DAN: Mr. Holloway, are you G.H.?
     댄: 홀러웨이 씨, 증인이 G.H.입니까?
 
-080. GRANT: [laughs] Congressman, there must be a dozen people at Castellan with those initials.
-    그랜트: [웃음] 의원님, Castellan에 그 머리글자를 쓰는 사람이 열두 명은 될 겁니다.
+080. GRANT: Congressman, with respect, there must be a dozen people at Castellan with those initials.
+    그랜트: 의원님, 외람되지만 Castellan에 그 머리글자를 쓰는 사람이 열두 명은 될 겁니다.
 
 081. PRIYA: He laughed, Congressman.
     프리야: 웃었어요, 의원님.

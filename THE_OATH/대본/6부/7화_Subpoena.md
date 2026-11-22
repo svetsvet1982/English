@@ -293,8 +293,8 @@
 093. HANK: Curtis says this is personal, but I live with Dan Reardon and share a bathroom with him, and I've watched him eat plain cheese pizza for two years. I can tell you, from the bathroom, this isn't personal.
     행크: 커티스는 이게 개인적인 일이라고 하지만, 전 댄 레이든이랑 살면서 화장실을 같이 쓰고 2년 동안 그 사람이 그냥 치즈 피자 먹는 걸 봤습니다. 화장실에서 말씀드리는데, 이건 개인적인 일이 아닙니다.
 
-094. AUDIENCE: [laughter]
-    방청석: [웃음]
+094. AUDIENCE: He shares a bathroom with him, so that has to count as evidence!
+    방청석: 화장실을 같이 쓴다잖아. 그거면 증거로 쳐야지!
 
 095. HANK: My half of this investigation is the old part that he can't touch, and I'm not going to talk about it today. But I've read the public record, and I'll say one name, because a mother asked me to.
     행크: 제 절반은 그 사람이 손댈 수 없는 옛날 부분이고, 오늘은 그 얘기 안 하겠습니다. 하지만 공개 기록은 읽었고, 한 어머니가 부탁했으니 이름 하나는 말하겠습니다.

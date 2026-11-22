@@ -185,8 +185,8 @@
 057. DAN: Mr. Stathis was there, and he carried this crate here on the N train this morning, at eighty-seven, so give him a hand.
     댄: 스타티스 씨가 거기 계셨습니다. 오늘 아침 여든일곱의 나이에 N선 열차로 이 상자를 들고 오셨습니다. 박수 부탁드립니다.
 
-058. AUDIENCE: [applause]
-    청중: [박수]
+058. AUDIENCE: Mr. Stathis, you carried that crate better than my grandson carries groceries!
+    청중: 스타티스 씨, 우리 손자가 장바구니 드는 것보다 그 상자를 더 잘 드셨네요!
 
 059. DAN: My father never ran for anything, because he drove a bus, but he taught me one thing: stand up straight and say it plain. So let me say it plain.
     댄: 아버지는 어디에도 출마한 적이 없습니다. 버스를 모셨죠. 하지만 한 가지를 가르쳐 주셨습니다. 똑바로 서서 쉽게 말하라. 그러니 쉽게 말씀드리겠습니다.
@@ -197,8 +197,8 @@
 061. CONDUCTOR: This is Astoria–Ditmars Boulevard, the last stop on this train, so everybody off.
     차장: 애스토리아–디트마스 대로입니다. 이 열차의 종착역입니다. 모두 내리십시오.
 
-062. AUDIENCE: [laughter]
-    청중: [웃음]
+062. AUDIENCE: Even the subway knows your speech by heart, Danny!
+    청중: 지하철까지 당신 연설을 외우고 있네, 대니!
 
 063. DAN: Thank you, sir, because you just took my best line.
     댄: 감사합니다, 기관사님. 방금 제 최고의 대사를 가져가셨네요.
@@ -221,8 +221,8 @@
 069. DAN: Then it went to the Senate, where it's still on a list called the calendar. Staff call it the graveyard, and a friend of mine used to call it "a graveyard with a gift shop."
     댄: 그다음 상원으로 갔고, 아직도 일정표라는 목록에 있습니다. 보좌진은 무덤이라고 부르죠. 제 친구는 "기념품 가게 딸린 무덤"이라고 불렀습니다.
 
-070. AUDIENCE: [laughter]
-    청중: [웃음]
+070. AUDIENCE: A graveyard with a gift shop? That sounds exactly like Albany too!
+    청중: 기념품 가게 딸린 무덤? 올버니도 딱 그렇잖아!
 
 071. DAN: She said somebody should open a window. Her name was Ruth Abernathy, and she worked on the Grand Concourse for thirty-seven years. The heat never worked there, but she never stopped.
     댄: 그분은 누군가 창문을 열어야 한다고 했습니다. 이름은 루스 애버내시. 그랜드 콩코스에서 37년 일했죠. 난방은 한 번도 안 됐지만 그분은 한 번도 멈추지 않았습니다.
@@ -287,8 +287,8 @@
 091. DAN: I'm running for the United States Senate for all of New York, the subway and the farms. And I'm going to ask every question I'm allowed to ask, out loud.
     댄: 저는 미국 상원의원에 출마합니다. 뉴욕 전체를 위해서, 지하철도 농장도. 그리고 제가 물을 수 있는 모든 질문을 소리 내서 묻겠습니다.
 
-092. AUDIENCE: [cheering]
-    청중: [환호]
+092. AUDIENCE: Go get them, Danny, and bring that bill back alive!
+    청중: 가서 해내, 대니. 그 법안 꼭 살려서 돌아와!
 
 093. YVONNE: Reardon, Reardon, Reardon!
     이본: 레이든! 레이든! 레이든!

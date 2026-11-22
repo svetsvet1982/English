@@ -119,8 +119,8 @@
 035. TEAGUE: The gentleman will not call the chair "Your Honor" again, because twice in one Congress is enough. The gentleman is recognized.
     티그: 의원님은 의장석을 다시는 "재판장님"이라고 부르지 마십시오. 한 의회에 두 번이면 충분합니다. 발언하십시오.
 
-036. AUDIENCE: [laughter]
-    방청석: [웃음]
+036. AUDIENCE: Ha! Twice in one Congress, and the Speaker is still counting!
+    방청석: 하! 한 의회에 두 번이라니, 의장님이 아직도 세고 계시네!
 
 037. DAN: Madam Speaker, I'll be short. In April 2029, I put this bill in the hopper with zero cosponsors. Today it has a hundred and eighty-one from both sides of the aisle.
     댄: 의장님, 짧게 하겠습니다. 2029년 4월, 저는 공동발의자 0명으로 이 법안을 투입함에 넣었습니다. 오늘은 양당에서 181명입니다.
