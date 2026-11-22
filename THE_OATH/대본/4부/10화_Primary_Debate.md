@@ -14,7 +14,7 @@
 
 ## 대본
 
-001. MARTY: Okay, this is a mock debate, where Aisha is Leila, Zoe is the moderator, Sam is the timer, and I'm the audience, which means I eat the pizza.
+001. MARTY: Okay, this is a mock debate. Aisha is Leila, Zoe is the moderator, Sam is the timer, and I'm the audience, which means I eat the pizza.
     마티: 자, 모의 토론이야. 아이샤가 레일라, 조이가 사회자, 샘이 타이머. 그리고 난 청중이야. 그러니까 피자는 내가 먹는다.
 
 002. SAM: I have a stopwatch from Little League, and it beeps really loud.
@@ -41,7 +41,7 @@
 009. MARTY: "You're right," and then you answer the question in the first sentence.
     마티: "당신 말이 맞아요." 그다음에 첫 문장에서 대답해.
 
-010. AISHA: It's my turn, and I'm Leila now. Mr. Reardon, you made fourteen hundred dollars an hour defending a company that let people die, and then you quit and became a hero. Who does that actually help?
+010. AISHA: It's my turn, and I'm Leila now. Mr. Reardon, you made fourteen hundred dollars an hour defending a company that let people die. Then you quit and became a hero. Who does that actually help?
     아이샤: 제 차례예요. 이제 저 레일라예요. 레이든 씨, 사람이 죽게 내버려 둔 회사를 변호하면서 시간당 1,400달러를 벌었죠. 그러다 그만두고 영웅이 됐고요. 그게 실제로 누구한테 도움이 되죠?
 
 011. DAN: Aisha, that's not fair, because you know what really happened, since you were there.
@@ -80,16 +80,16 @@
 022. ZOE: He's second now, Marty. Twenty-seven percent. I check every single morning.
     조이: 지금 2등이에요, 마티. 27퍼센트. 매일 아침마다 확인해요.
 
-023. MARTY: Second is the most dangerous place in politics, sweetheart, because everybody aims at second, since first is too far and third is too sad.
+023. MARTY: Second is the most dangerous place in politics, sweetheart. Everybody aims at second, since first is too far and third is too sad.
     마티: 2위가 정치에서 제일 위험한 자리야, 아가씨. 다들 2위를 노리거든. 1위는 너무 멀고 3위는 너무 처량하니까.
 
-024. JUNE: Here's the last thing before Thursday, which is talking points, three things you say no matter what they ask: Medicaid wages, the pension fund, and the judge's order.
+024. JUNE: Here's the last thing before Thursday, which is talking points. These are three things you say no matter what they ask: Medicaid wages, the pension fund, and the judge's order.
     준: 목요일 전 마지막으로 핵심 메시지요. 뭘 물어보든 말할 세 가지. 메디케이드 임금, 연금 펀드, 그리고 판사 명령.
 
 025. DAN: And if they ask about something else, something I'm not ready for?
     댄: 다른 걸 물어보면요? 준비 안 된 거면요?
 
-026. JUNE: You answer it in one sentence, and then you pivot, which means you turn the conversation back to your three things, like a basketball player.
+026. JUNE: You answer it in one sentence, and then you pivot. That means you turn the conversation back to your three things, like a basketball player.
     준: 한 문장으로 대답하고 피벗하세요. 대화를 다시 세 가지로 돌리는 거예요. 농구 선수처럼요.
 
 027. DAN: I hate pivots, because in court, witnesses pivot when they're lying.
@@ -119,7 +119,7 @@
 035. JANET: Ms. Haddad.
     재닛: 하다드 씨.
 
-036. LEILA: Good evening. Two of the men on this stage spent the spring telling you who their fathers were, but I'd like to tell you who you are: you're tenants, you're workers, and you're the people this district forgot.
+036. LEILA: Good evening. Two of the men on this stage spent the spring telling you who their fathers were. I'd like to tell you who you are: you're tenants, you're workers, and you're the people this district forgot.
     레일라: 안녕하세요. 이 무대의 남자 두 분은 봄 내내 자기 아버지가 누구였는지 말했죠. 저는 여러분이 누구인지 말하고 싶어요. 여러분은 세입자고, 노동자고, 이 지역구가 잊은 사람들이에요.
 
 037. JANET: Mr. Reardon.
@@ -131,10 +131,10 @@
 039. MARTY: Good, that was short, so keep every answer that short.
     마티: 좋아. 짧았어. 모든 대답을 그렇게 짧게 해.
 
-040. MARCUS: Here's the first question, Mr. Reardon. You've pledged no corporate PAC money, but you took money from forty partners at your old law firm, so isn't that the same thing?
+040. MARCUS: Here's the first question, Mr. Reardon. You've pledged no corporate PAC money, but you took money from forty partners at your old law firm. Isn't that the same thing?
     마커스: 첫 질문입니다, 레이든 씨. 기업 PAC 돈을 안 받겠다고 하셨죠. 그런데 옛 로펌 파트너 마흔 명에게서 돈을 받으셨어요. 같은 거 아닌가요?
 
-041. DAN: No, because those are individuals giving their own money, with their names on a public report, while a PAC is a company's money with a company's interests, and anybody can read who gave to me.
+041. DAN: No, because those are individuals giving their own money, with their names on a public report. A PAC is a company's money with a company's interests. Anybody can read who gave to me.
     댄: 아니요. 그분들은 자기 돈을 내는 개인이고 이름이 공개 보고서에 있어요. PAC는 회사의 이익이 걸린 회사 돈이고요. 누가 저한테 냈는지는 누구나 읽을 수 있어요.
 
 042. LEILA: This is a rebuttal: forty partners from the firm that defended Castellan. Who does that actually help? It helps you remember who your friends are.
@@ -149,7 +149,7 @@
 045. DAN: You're right that she did, and she did it better than I could.
     댄: 맞아요. 그분이 했어요. 저보다 훨씬 잘했고요.
 
-046. JANET: Ms. Haddad, a question for you: your housing plan would restrict how pension funds invest, and critics say that could lower retirement income for city workers, so how do you answer?
+046. JANET: Ms. Haddad, a question for you. Your housing plan would restrict how pension funds invest. Critics say that could lower retirement income for city workers, so how do you answer?
     재닛: 하다드 씨께 질문입니다. 주거 공약이 연기금 투자를 제한하는데, 비판자들은 시 공무원 노후 소득이 줄 수 있다고 합니다. 어떻게 답하시겠어요?
 
 047. LEILA: I answer that a pension built on evictions is a loan from the future, and somebody pays it back, usually the tenant.
@@ -164,7 +164,7 @@
 050. LEILA: That's a flip-flop, because a week ago, it was "a hard balance."
     레일라: 그건 말 바꾸기예요. 일주일 전엔 "어려운 균형"이라더니.
 
-051. RUSSO: It's called listening, Leila, because I listened to Gloria Banks, and some of us can change our minds without a TikTok video.
+051. RUSSO: It's called listening, Leila, because I listened to Gloria Banks. Some of us can change our minds without a TikTok video.
     루소: 그걸 경청이라고 해요, 레일라. 난 글로리아 뱅크스 말을 들었어요. 틱톡 영상 없이도 생각을 바꿀 수 있는 사람도 있거든요.
 
 052. MARTY: Oh, that's good, because he stole our position and made it sound like wisdom.
@@ -182,22 +182,22 @@
 056. DAN: Of course it is.
     댄: 당연히 그렇겠죠.
 
-057. LEILA: Mr. Reardon, in 2026 you were a partner at Whitmore Crane, and when you left, the firm paid you back your capital account, so can you tell voters how much that was?
+057. LEILA: Mr. Reardon, in 2026 you were a partner at Whitmore Crane. When you left, the firm paid you back your capital account, so can you tell voters how much that was?
     레일라: 레이든 씨, 2026년에 휘트모어 크레인 파트너셨죠. 나올 때 로펌이 출자금을 돌려줬고요. 그게 얼마였는지 유권자들에게 말씀해 주시겠어요?
 
-058. MARCUS: A capital account, for viewers at home, is the money a partner puts into a law firm, and when they leave, they usually get it back.
+058. MARCUS: A capital account, for viewers at home, is the money a partner puts into a law firm. When they leave, they usually get it back.
     마커스: 댁에서 보시는 분들을 위해 설명드리면, 출자금은 파트너가 로펌에 넣는 돈입니다. 나갈 때 보통 돌려받죠.
 
 059. DAN: It's on my financial disclosure, which is public, and it was one point four million dollars.
     댄: 제 재산 공개서에 있어요. 공개 자료예요. 140만 달러였어요.
 
-060. LEILA: One point four million, so you didn't walk away from your money; you walked away with it, and then you found your conscience at forty-two.
+060. LEILA: One point four million, so you didn't walk away from your money; you walked away with it. And then you found your conscience at forty-two.
     레일라: 140만이요. 그러니까 돈을 버리고 걸어 나온 게 아니라 들고 걸어 나온 거네요. 그러고 나서 마흔둘에 양심을 찾았고요.
 
 061. AUDIENCE: Ohhh.
     청중: 오오.
 
-062. DAN: That money was mine, because I earned it and paid my taxes on it, and most of it is paying for my daughter's school and my mother's roof.
+062. DAN: That money was mine, because I earned it and paid my taxes on it. Most of it is paying for my daughter's school and my mother's roof.
     댄: 그 돈은 제 거였어요. 제가 벌었고 세금도 냈어요. 대부분은 딸 학비랑 어머니 집 지붕에 쓰이고 있고요.
 
 063. LEILA: My father's roof leaks too, Mr. Reardon, but nobody gave him a million dollars to fix it.
@@ -212,7 +212,7 @@
 066. MARTY: No, no, no, don't say "cheap shot," so get slow, get slow!
     마티: 안 돼, 안 돼. "비열한 공격"이라고 하지 마. 느려져. 느려지라고!
 
-067. LEILA: Is it cheap? I'm asking because you won't tell us anything else, not about Castellan and not about Larchmont, so the only number you'll share is the one on your check.
+067. LEILA: Is it cheap? I'm asking because you won't tell us anything else, not about Castellan and not about Larchmont. The only number you'll share is the one on your check.
     레일라: 비열해요? 당신이 다른 건 아무것도 안 알려 주니까 묻는 거예요. Castellan도, 라치몬트도요. 당신이 알려 주는 숫자는 수표에 적힌 것뿐이잖아요.
 
 068. DAN: I've explained that. It's a fair question, but there's a duty of confidentiality that applies to every lawyer, and I'm not going to violate it to win a debate—
@@ -254,7 +254,7 @@
 080. JANET: Ms. Haddad, your question.
     재닛: 하다드 씨, 질문하세요.
 
-081. LEILA: It's Mr. Reardon again. You keep saying "I can't," but on day one in Washington, the Speaker will tell you "you can't," and your party leaders will tell you "you can't," so will you listen to them, too?
+081. LEILA: It's Mr. Reardon again. You keep saying "I can't," but on day one in Washington, the Speaker will tell you "you can't." Your party leaders will tell you "you can't," so will you listen to them, too?
     레일라: 또 레이든 씨요. 계속 "못 한다"고 하시는데, 워싱턴 첫날 의장이 "안 된다"고 할 거고 당 지도부도 "안 된다"고 할 거예요. 그 사람들 말도 들을 건가요?
 
 082. DAN: That's different, because the rule about clients is a law, and the Speaker is a person.
@@ -302,7 +302,7 @@
 096. JANET: It's time for closing statements of ninety seconds, and Mr. Reardon, you're first.
     재닛: 마무리 발언 90초입니다. 레이든 씨부터요.
 
-097. DAN: I didn't do my best tonight, because Leila asked hard questions, and I answered some of them like a lawyer, and I'm sorry for that. My campaign manager will tell me later exactly how many times.
+097. DAN: I didn't do my best tonight. Leila asked hard questions, and I answered some of them like a lawyer, and I'm sorry for that. My campaign manager will tell me later exactly how many times.
     댄: 오늘 밤 최선을 다하지 못했어요. 레일라 씨가 어려운 질문을 했는데 몇 개는 변호사처럼 대답했어요. 죄송합니다. 몇 번이었는지는 선거본부장이 나중에 정확히 알려 줄 거예요.
 
 098. AISHA: Seven.
@@ -314,7 +314,7 @@
 100. JANET: Ms. Haddad.
     재닛: 하다드 씨.
 
-101. LEILA: Tonight, one man told you about his father, and one man told you about his rules, but I told you about your rent, so on June twenty-seventh, vote for your rent.
+101. LEILA: Tonight, one man told you about his father, and one man told you about his rules. But I told you about your rent, so on June twenty-seventh, vote for your rent.
     레일라: 오늘 밤 한 남자는 아버지 얘기를 했고, 한 남자는 규칙 얘기를 했어요. 저는 여러분 월세 얘기를 했어요. 6월 27일엔 여러분 월세에 투표하세요.
 
 102. AUDIENCE: Leila, Leila, vote for your rent, vote for Leila!
@@ -368,13 +368,13 @@
 118. DAN: She landed a hit, but whether it was fair, the voters decide. The money's on my disclosure, so I'm not hiding it.
     댄: 적중은 했죠. 정당했는지는 유권자들이 판단할 거고요. 그 돈은 재산 공개서에 있어요. 숨기는 거 아니에요.
 
-119. MARCUS: Mr. Reardon, one more, off the debate topic: did you know your brother, Sergeant Kevin Reardon of the One-Fourteen, is the subject of a CCRB complaint filed on Monday?
+119. MARCUS: Mr. Reardon, one more, off the debate topic. Did you know your brother, Sergeant Kevin Reardon of the One-Fourteen, is the subject of a CCRB complaint filed on Monday?
     마커스: 레이든 씨! 하나 더요. 토론 주제는 아닌데요. 동생분인 114관할서 케빈 레이든 경사가 월요일에 접수된 CCRB 민원 대상인 거 알고 계셨나요?
 
 120. DAN: I'm sorry?
     댄: 뭐라고요?
 
-121. MARCUS: It's the Civilian Complaint Review Board, because a man says your brother pushed him during an arrest on Steinway Street last Saturday, and there's a thirty-second video that's been online since this afternoon.
+121. MARCUS: It's the Civilian Complaint Review Board. A man says your brother pushed him during an arrest on Steinway Street last Saturday. There's a thirty-second video that's been online since this afternoon.
     마커스: 시민민원심사위원회요. 한 남자가 지난 토요일 스타인웨이 스트리트 체포 과정에서 동생분이 자기를 밀쳤다고 해요. 30초짜리 영상이 있고 오늘 오후부터 온라인에 돌고 있어요.
 
 122. DAN: I haven't seen it, and I didn't know, because nobody told me.
@@ -410,7 +410,7 @@
 132. JUNE: I'm not posting, because I'm watching the Kevin video. Dan, it's thirty seconds, so you should see it before you talk to him.
     준: 안 올려요. 케빈 영상 보는 중이에요. 댄, 30초예요. 통화하기 전에 보셔야 해요.
 
-133. DAN: No, I'll talk to him first, and then I'll watch it, because if I watch it first, I'll be a lawyer when he picks up, and I want to be his brother first.
+133. DAN: No, I'll talk to him first, and then I'll watch it. If I watch it first, I'll be a lawyer when he picks up, and I want to be his brother first.
     댄: 아니요. 먼저 통화하고 그다음에 볼게요. 먼저 보면 걔가 전화 받을 때 변호사가 돼 있을 거예요. 먼저 형이고 싶어요.
 
 134. AISHA: That's the most Ruth thing you've said all night.
@@ -461,7 +461,7 @@
 149. DAN: Not yet, because I wanted to hear it from you first. Are you okay, Kevin?
     댄: 아직. 너한테서 먼저 듣고 싶었어. 괜찮아, 케빈?
 
-150. KEVIN: I'm okay, and I didn't push him, but the video looks like I did. And Danny, everybody's going to ask what you think, so I need to know first, brother to brother: what do you think?
+150. KEVIN: I'm okay, and I didn't push him, but the video looks like I did. And Danny, everybody's going to ask what you think. So I need to know first, brother to brother: what do you think?
     케빈: 괜찮아. 안 밀었어. 근데 영상으론 민 것처럼 보여. 그리고 형, 다들 형 생각을 물을 거야. 그러니까 내가 먼저 알아야겠어. 형제끼리. 형은 어떻게 생각해?
 
 ---
