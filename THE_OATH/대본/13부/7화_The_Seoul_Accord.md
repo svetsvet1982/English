@@ -116,8 +116,8 @@
 034. DAN: Last night, our teams finished the other half, with forty brackets, thirty-one pages, and a lot of noodles. I was told not to mention the noodles, so I won't.
     댄: 어젯밤 우리 팀들이 괄호 마흔 개, 31쪽, 그리고 라면 많이로 나머지 반을 끝냈습니다. 라면 얘기는 하지 말라고 들었으니, 안 하겠습니다.
 
-035. GUESTS: (laughter)
-    손님들: (웃음)
+035. GUESTS: Ha! He just mentioned the noodles, Mr. President!
+    손님들: 하! 방금 국수 얘기 하셨잖아요, 대통령님!
 
 036. DAN: This accord says two simple things: ships may pass, and nobody turns off the lights in a hospital, not in Darovo, not in New York, and not anywhere.
     댄: 이 협정은 간단한 두 가지를 말합니다. 배는 지나갈 수 있고, 누구도 병원의 불을 끄지 않는다는 겁니다. 다로보에서도, 뉴욕에서도, 어디에서도요.
