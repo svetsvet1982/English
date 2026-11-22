@@ -323,8 +323,8 @@
 103. GUS: Mr. Whitmore, here are your eggs, and Chairman, here are yours, with coffee, so complain.
     거스: 화이트모어 씨, 달걀 나왔어요. 위원장님도요. 커피도. 불평해.
 
-104. DAN: It's terrible, Gus, as always.
-    댄: 끔찍해요, 거스. 늘 그렇듯이.
+104. DAN: It's terrible, Gus, as always, and I'll be back next year.
+    댄: 끔찍해요, 거스. 늘 그렇듯이. 내년에도 올게요.
 
 105. HOWARD: It's worse than terrible, because it's honest, and I like it, but don't put that on the wall.
     하워드: 끔찍한 것보다 더해. 정직하거든. 마음에 들어. 근데 그거 벽에 붙이지 말게.
@@ -359,8 +359,8 @@
 115. HOWARD: Arthur's said that since 1982, so Hank didn't invent it. Daniel, this isn't privileged, because it's what a man ordered for lunch.
     하워드: 아서는 1982년부터 그 말을 했어. 행크가 만든 말이 아니야. 대니얼, 이건 특권 있는 얘기가 아니야. 한 남자가 점심으로 뭘 시켰는지니까.
 
-116. DAN: I understand, Howard.
-    댄: 알겠어요, 하워드.
+116. DAN: I understand, Howard, and I won't ask what else he said.
+    댄: 알겠어요, 하워드. 그분이 또 뭐라고 했는지는 안 물을게요.
 
 117. HOWARD: Then here's my question: if there's a seat in 2032, will you run?
     하워드: 그럼 내 질문은 이거야. 2032년에 자리가 나면 출마할 건가?
@@ -404,8 +404,8 @@
 130. ROSE: I took it with the coffee while Kevin watched, and Dr. Papas says one thirty-eight over eighty-six.
     로즈: 커피랑 먹었어. 케빈이 지켜봤고. 파파스 선생님이 138에 86이래.
 
-131. DAN: That's good, Ma, that's really good.
-    댄: 좋네, 엄마. 진짜 좋아.
+131. DAN: That's good, Ma, and that's a lot better than August.
+    댄: 좋네, 엄마. 8월보다 훨씬 나아.
 
 132. ROSE: It's good, but it's not perfect, because nothing at my age is perfect. Now what are you two whispering about, soup?
     로즈: 좋긴 한데 완벽하진 않아. 이 나이엔 완벽한 게 없어. 그런데 둘이 뭘 속삭이는 거야? 수프?
