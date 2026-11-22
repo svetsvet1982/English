@@ -38,7 +38,7 @@
 008. DAN: Elena, it's me, and we're at Ma's, where the basement's flooding. How is it there?
     댄: 엘레나, 나야. 엄마 집인데 지하실이 잠기고 있어. 거긴 어때?
 
-009. ELENA: We have forty people in the hallway, including two from a basement in Woodside, where the water came up through the floor drain in ten minutes. Dan, it's the basements, it's always the basements.
+009. ELENA: We have forty people in the hallway, including two from a basement in Woodside. The water came up through the floor drain in ten minutes. Dan, it's the basements, it's always the basements.
     엘레나: 복도에 마흔 명이야. 우드사이드 지하에서 온 사람도 둘 있어. 10분 만에 배수구로 물이 올라왔대. 댄, 지하야. 늘 지하라고.
 
 010. DAN: What about the kids?
@@ -47,7 +47,7 @@
 011. ELENA: They're with my mother in Washington Heights, where Zoe's texting storm statistics and Sam's asleep. Go help people, and call me at six.
     엘레나: 워싱턴 하이츠 우리 엄마 집에 있어. 조이는 폭풍 통계 문자로 보내고 있고 샘은 자. 가서 사람들 도와. 여섯 시에 전화하고.
 
-012. KEVIN: Danny, my radio says they need units on Twenty-First Street near the Astoria Houses, because a family's stuck in a basement, so I'm going.
+012. KEVIN: Danny, my radio says they need units on Twenty-First Street near the Astoria Houses. A family's stuck in a basement, so I'm going.
     케빈: 형, 무전 왔어. 애스토리아 하우스 근처 21번가에 인력 필요하대. 한 가족이 지하에 갇혔대. 나 간다.
 
 013. ROSE: Kevin, you're going out in this? Look at the street!
@@ -56,13 +56,13 @@
 014. KEVIN: It's my job, Ma. Danny, don't let her go down for the pictures.
     케빈: 내 일이잖아, 엄마. 형, 엄마 사진 가지러 못 내려가게 해.
 
-015. ROSE: I'm seventy-five years old, and I'm not stupid, so I'll wait until the water goes down and then I'll go for the pictures.
+015. ROSE: I'm seventy-five years old, and I'm not stupid. I'll wait until the water goes down and then I'll go for the pictures.
     로즈: 나 일흔다섯이야. 바보 아니야. 물 빠질 때까지 기다렸다가 사진 가지러 갈 거야.
 
 016. DAN: Ma, the storm surge is still coming, because the river is over the seawall at Hallets Point. June just sent me the city alert.
     댄: 엄마, 폭풍 해일이 아직 오고 있어. 핼리츠 포인트에서 강물이 방파제를 넘었대. 준이 방금 시 경보 보내 줬어.
 
-017. ROSE: Storm surge, huh. Your father used to say the East River was a liar, because it looks like a river, but it's really the ocean wearing a disguise.
+017. ROSE: Storm surge, huh. Your father used to say the East River was a liar. It looks like a river, but it's really the ocean wearing a disguise.
     로즈: 폭풍 해일이라. 네 아버지가 이스트강은 거짓말쟁이라고 했지. 강처럼 보이지만 사실은 변장한 바다라고.
 
 018. DAN: Dad was right, because it's a tidal strait, which Ben told me last week.
@@ -71,7 +71,7 @@
 019. ROSE: Your father didn't need Ben, because he had twenty-six years on the Q69. Sit down, and I'll make coffee.
     로즈: 네 아버지는 벤이 필요 없었어. Q69를 26년 몰았으니까. 앉아. 커피 끓일게.
 
-020. DAN: Ma, I'm going to need to go to the Bronx in the morning, to the Hunts Point basements, because Terrence says some of them have three families.
+020. DAN: Ma, I'm going to need to go to the Bronx in the morning, to the Hunts Point basements. Terrence says some of them have three families.
     댄: 엄마, 아침에 브롱크스 가 봐야 해. 헌츠 포인트 지하 집들. 테렌스 말이 한 지하에 세 가족이 사는 데도 있대.
 
 021. ROSE: Go, but eat first, and then you go fight.
@@ -125,20 +125,20 @@
 037. ADA: Don't say anything good, just do something. They're going to say he didn't live there, because I know it, and they're going to say there's no lease.
     에이다: 좋은 말은 하지 마세요. 뭘 좀 해 주세요. 아버지가 거기 안 살았다고 할 거예요. 전 알아요. 계약서가 없다고 할 거예요.
 
-038. BENNING: Congressman Reardon? I'm Carla Benning from FEMA, the federal coordinating officer for New York, and my team is doing the preliminary damage assessment with the state today.
+038. BENNING: Congressman Reardon? I'm Carla Benning from FEMA, the federal coordinating officer for New York. My team is doing the preliminary damage assessment with the state today.
     베닝: 레이든 의원님? 연방재난관리청의 칼라 베닝입니다. 뉴욕 담당 연방 조정관이에요. 오늘 저희 팀이 주 정부와 사전 피해 조사를 해요.
 
 039. DAN: A preliminary damage assessment? Explain it to me simply, and to Ms. Feliciano.
     댄: 사전 피해 조사라고요? 쉽게 설명해 주세요. 저한테도, 펠리시아노 씨한테도요.
 
-040. BENNING: Before the President can declare a major disaster, the state has to show the damage is too big to handle alone, so we count homes destroyed, with major damage, and with minor damage. We walk the streets and count.
+040. BENNING: Before the President can declare a major disaster, the state has to show the damage is too big to handle alone. So we count homes destroyed, with major damage, and with minor damage. We walk the streets and count.
     베닝: 대통령이 대규모 재난을 선포하려면 주 정부가 혼자 감당할 수 없는 피해라는 걸 보여야 해요. 그래서 셉니다. 전파, 대규모 피해, 소규모 피해. 거리를 걸으면서 세요.
 
 041. DAN: And what if the count is high enough?
     댄: 숫자가 충분히 많으면요?
 
-042. BENNING: Then the governor asks the President, the President declares, and two kinds of help come: Public Assistance for the city, to fix roads and schools, and Individual Assistance for people, for rent, repairs, and lost things.
-    베닝: 그럼 주지사가 대통령한테 요청하고, 대통령이 선포해요. 그러면 두 종류 지원이 나와요. 시를 위한 공공 지원은 도로랑 학교 복구용, 사람을 위한 개인 지원은 월세, 수리, 잃어버린 물건용이에요.
+042. BENNING: Then the governor asks the President, the President declares, and two kinds of help come. Public Assistance is for the city, to fix roads and schools. Individual Assistance is for people, for rent, repairs, and lost things.
+    베닝: 그럼 주지사가 대통령한테 요청하고, 대통령이 선포해요. 그러면 두 종류 지원이 나와요. 공공 지원은 시를 위한 거예요. 도로랑 학교 복구용이죠. 개인 지원은 사람을 위한 거예요. 월세, 수리, 잃어버린 물건용이요.
 
 043. DAN: How many basements on this block have you counted?
     댄: 이 블록에서 지하 집을 몇 개나 세셨어요?
@@ -170,7 +170,7 @@
 052. DAN: Then I'll get addresses, so Terrence, how many people can we get by tomorrow?
     댄: 그럼 주소를 구해 올게요. 테렌스, 내일까지 몇 명 모을 수 있어요?
 
-053. TERRENCE: Our staff is twelve, but Aunt Dee knows every church on Hunts Point Avenue, and you know a woman named Gladys.
+053. TERRENCE: Our staff is twelve, but Aunt Dee knows every church on Hunts Point Avenue. And you know a woman named Gladys.
     테런스: 우리 직원은 열둘이에요. 그런데 디 이모가 헌츠 포인트 애비뉴 교회를 다 알아요. 그리고 의원님은 글래디스라는 분을 아시잖아요.
 
 054. GLADYS: Congressman, I'm eighty-one, so I don't do basements, and my knees are worse than Yvonne's. But I know how to count people who don't want to be counted, because I did it for three winters.
@@ -191,7 +191,7 @@
 059. DAN: And is it?
     댄: 그래?
 
-060. ELI: No, because FEMA doesn't share disaster applications with ICE for enforcement, and a family where only the kid was born here can still apply in the kid's name. But nobody believes that unless somebody they trust says it.
+060. ELI: No. FEMA doesn't share disaster applications with ICE for enforcement. A family where only the kid was born here can still apply in the kid's name. But nobody believes that unless somebody they trust says it.
     일라이: 아니요. 재난관리청은 재난 신청서를 단속 목적으로 ICE와 공유하지 않아요. 아이만 여기서 태어난 가족도 아이 이름으로 신청할 수 있고요. 그런데 믿는 사람이 말해 주지 않으면 아무도 안 믿어요.
 
 061. DAN: Then that's our job, not my job but ours, everybody here.
@@ -206,13 +206,13 @@
 064. DAN: Read me the part that matters.
     댄: 중요한 부분만 읽어 줘요.
 
-065. BEN: It's Public Assistance for the five counties of New York City, and Individual Assistance for Queens and Richmond counties, which means Queens and Staten Island.
-    벤: 뉴욕시 다섯 카운티 전부 공공 지원이고, 개인 지원은 퀸즈와 리치먼드 카운티예요. 퀸즈와 스태튼아일랜드요.
+065. BEN: It's Public Assistance for the five counties of New York City. Individual Assistance is for Queens and Richmond counties, which means Queens and Staten Island.
+    벤: 뉴욕시 다섯 카운티 전부 공공 지원이에요. 개인 지원은 퀸즈와 리치먼드 카운티예요. 퀸즈와 스태튼아일랜드요.
 
 066. DAN: And what about the Bronx?
     댄: 브롱크스는요?
 
-067. BEN: It's not included for Individual Assistance, sir, only Public Assistance, so the city gets money for roads, but the people in the basements get nothing, not yet.
+067. BEN: It's not included for Individual Assistance, sir, only Public Assistance. The city gets money for roads, but the people in the basements get nothing, not yet.
     벤: 개인 지원은 빠졌어요, 의원님. 공공 지원만이에요. 시는 도로 복구비를 받지만 지하에 사는 사람들은 아무것도 못 받아요. 아직은요.
 
 068. KILEY: I'm Bernadette Kiley from Rockaway. We got help because Rockaway's on TV, but your basements aren't.
@@ -227,7 +227,7 @@
 071. DAN: We rented one of those bungalows on Ninety-Seventh Street last summer, and my son built a sandcastle with a moat.
     댄: 작년 여름에 97번가 방갈로 하나를 빌렸었어요. 아들이 해자 있는 모래성을 쌓았죠.
 
-072. KILEY: Then you know. Listen, the declaration can be amended, because FEMA can add counties later if the numbers change, and I did it in 2027 for a nor'easter. You need numbers, and you need a lot of noise.
+072. KILEY: Then you know. Listen, the declaration can be amended, because FEMA can add counties later if the numbers change. I did it in 2027 for a nor'easter. You need numbers, and you need a lot of noise.
     카일리: 그럼 아시겠네요. 들어 봐요. 재난 선포는 수정할 수 있어요. 숫자가 바뀌면 나중에 카운티를 추가할 수 있거든요. 난 2027년 북동풍 폭풍 때 해 봤어요. 숫자가 필요하고, 소음이 많이 필요해요.
 
 073. DAN: How much noise do I need?
@@ -242,7 +242,7 @@
 076. DAN: Tell me what you found.
     댄: 뭘 찾았는지 말해 줘요.
 
-077. ROSA: There are one thousand one hundred and forty basement units in the South Bronx with major damage, not four but eleven hundred and forty, and every one has an address, a photo, and a name.
+077. ROSA: There are one thousand one hundred and forty basement units in the South Bronx with major damage. That's not four but eleven hundred and forty, and every one has an address, a photo, and a name.
     로사: 사우스 브롱크스에 대규모 피해를 입은 지하 셋방이 1,140개예요. 네 개가 아니라 1,140개요. 전부 주소, 사진, 이름이 있어요.
 
 078. DAN: How did you get the addresses if they aren't on the list?
@@ -260,28 +260,28 @@
 082. JUNE: Okay, so here's the headline: "The Mailman Knew." That's the story, because the government couldn't find them, but the mail carrier found them every day.
     준: 자, 헤드라인은 이거예요. "집배원은 알았다." 그게 기사예요. 정부는 못 찾았는데 집배원은 매일 찾았잖아요.
 
-083. DAN: June, don't put Wanda's name out, because federal employees can get in trouble for things like that, so ask her first, in writing.
+083. DAN: June, don't put Wanda's name out. Federal employees can get in trouble for things like that, so ask her first, in writing.
     댄: 준, 원다 이름은 내지 마. 연방 공무원은 그런 일로 곤란해질 수 있어. 먼저 물어봐. 서면으로.
 
 084. JUNE: Two hats, in writing, I know, because I'm always learning.
     준: 모자 두 개, 서면으로. 알아요. 늘 배우는 중이에요.
 
-085. ELI: There's one more problem. People can register now in Queens but not in the Bronx, and when they can, FEMA asks for proof of occupancy, which means proof you live there.
+085. ELI: There's one more problem. People can register now in Queens but not in the Bronx. And when they can, FEMA asks for proof of occupancy, which means proof you live there.
     일라이: 문제가 하나 더 있어요. 퀸즈는 지금 등록할 수 있는데 브롱크스는 못 해요. 그리고 할 수 있게 돼도 재난관리청은 거주 증명을 요구해요. 거기 산다는 증거요.
 
 086. DAN: And they have no lease.
     댄: 그런데 계약서가 없잖아요.
 
-087. ELI: They have no lease and no utility bills in their name, because they pay cash rent, and the landlords won't sign anything, since the units are illegal. So FEMA sends a denial letter that says, "Occupancy not verified."
+087. ELI: They have no lease and no utility bills in their name, because they pay cash rent. The landlords won't sign anything, since the units are illegal. So FEMA sends a denial letter that says, "Occupancy not verified."
     일라이: 계약서도 없고 본인 명의 공과금 고지서도 없어요. 월세를 현금으로 내니까요. 집이 불법이라 집주인들은 아무것도 서명 안 해 줘요. 그래서 재난관리청이 거절 통지서를 보내요. "거주 미확인."
 
 088. DAN: There has to be another way to prove it, because there's always another kind of proof.
     댄: 증명할 다른 방법이 있을 거야. 증거는 늘 다른 종류가 있으니까.
 
-089. ELI: There is, because FEMA accepts other documents, like a school record with the address, a letter from a church, a doctor's bill, or a mail carrier's statement. But nobody tells people that.
+089. ELI: There is. FEMA accepts other documents, like a school record with the address, a letter from a church, a doctor's bill, or a mail carrier's statement. But nobody tells people that.
     일라이: 있어요. 재난관리청은 다른 서류도 받아요. 주소 적힌 학교 기록, 교회 편지, 병원 청구서, 집배원 진술서. 그런데 아무도 사람들한테 그걸 안 알려 줘요.
 
-090. DAN: Then we tell them, in English, Spanish, Bengali, and French, and we tell FEMA before they send the letters, not after.
+090. DAN: Then we tell them, in English, Spanish, Bengali, and French. And we tell FEMA before they send the letters, not after.
     댄: 그럼 우리가 알려 주자. 영어, 스페인어, 벵골어, 프랑스어로. 그리고 재난관리청엔 편지 보내기 전에 말하자. 후가 아니라.
 
 091. AISHA: Facts first: Ms. Benning will meet you tomorrow at eight a.m., so bring the numbers on paper.
@@ -302,13 +302,13 @@
 096. DAN: I used to be a lawyer, so if I can't prove it, I don't say it.
     댄: 변호사였거든요. 증명 못 하면 말 안 해요.
 
-097. BENNING: I'll send inspectors to every address on this list, starting Monday, and if the numbers hold, I'll recommend that the declaration be amended to add Bronx County for Individual Assistance.
+097. BENNING: I'll send inspectors to every address on this list, starting Monday. If the numbers hold, I'll recommend that the declaration be amended to add Bronx County for Individual Assistance.
     베닝: 이 목록의 모든 주소에 월요일부터 조사관을 보낼게요. 숫자가 맞으면 재난 선포를 수정해서 브롱크스 카운티를 개인 지원에 추가하도록 권고하겠습니다.
 
 098. DAN: And what about the occupancy problem, and the letters?
     댄: 거주 증명 문제는요? 그 통지서들은요?
 
-099. BENNING: I can't change the rules, Congressman, but I can tell my inspectors to ask for other documents at the door before they write "not verified," and I can put that in writing.
+099. BENNING: I can't change the rules, Congressman. But I can tell my inspectors to ask for other documents at the door before they write "not verified," and I can put that in writing.
     베닝: 규칙은 못 바꿔요, 의원님. 그래도 조사관들한테 "미확인"이라고 쓰기 전에 현장에서 다른 서류를 요청하라고 지시할 수 있어요. 그리고 그걸 서면으로 남길 수 있고요.
 
 100. DAN: In writing, and before, not after, so thank you.
@@ -326,7 +326,7 @@
 104. DAN: Ma, why not?
     댄: 엄마, 왜?
 
-105. ROSE: Because Mrs. Kalogeropoulos lost her whole first floor, and the family under the laundromat lost everything, while I lost a washing machine and some junk. Let the money go to them.
+105. ROSE: Because Mrs. Kalogeropoulos lost her whole first floor, and the family under the laundromat lost everything. I lost a washing machine and some junk. Let the money go to them.
     로즈: 칼로게로풀로스 부인은 1층을 통째로 잃었어. 빨래방 밑 가족은 전부 잃었고. 난 세탁기랑 잡동사니 몇 개 잃었을 뿐이야. 그 돈은 그 사람들한테 가게 해.
 
 106. DAN: Ma, FEMA isn't charity, and it's not a pie with a few slices. You paid taxes for fifty years, so if you apply, it doesn't take anything from them.
@@ -335,10 +335,10 @@
 107. ROSE: Are you sure about that? Then say it plain for me.
     로즈: 확실해? 그럼 쉽게 말해 봐.
 
-108. DAN: Let me say it plain: Individual Assistance doesn't run out because you took some, so every eligible family gets help, including you, Mrs. Kalogeropoulos, and the family under the laundromat.
+108. DAN: Let me say it plain: Individual Assistance doesn't run out because you took some. Every eligible family gets help, including you, Mrs. Kalogeropoulos, and the family under the laundromat.
     댄: 쉽게 말할게. 개인 지원은 엄마가 받는다고 바닥나지 않아. 자격 있는 가족은 다 도움을 받아. 엄마도, 칼로게로풀로스 부인도, 빨래방 밑 가족도.
 
-109. ROSE: Then I'll register, but I'm registering Mrs. Kalogeropoulos first, because she doesn't have a computer, and her grandson is in Ohio.
+109. ROSE: Then I'll register, but I'm registering Mrs. Kalogeropoulos first. She doesn't have a computer, and her grandson is in Ohio.
     로즈: 그럼 등록할게. 근데 칼로게로풀로스 부인 먼저 해 줄 거야. 컴퓨터가 없거든. 손자는 오하이오에 있고.
 
 110. DAN: Ma, you don't have a computer either.
@@ -356,10 +356,10 @@
 114. DAN: Tell him thank you for me.
     댄: 고맙다고 전해 줘.
 
-115. ROSE: Tell him yourself on Saturday, and tell him his coffee was good during the storm, because he wants to hear it, just once.
+115. ROSE: Tell him yourself on Saturday. And tell him his coffee was good during the storm, because he wants to hear it, just once.
     로즈: 토요일에 직접 말해. 그리고 폭풍 때 커피 맛있었다고 해 줘. 그 말 듣고 싶어 해. 딱 한 번만.
 
-116. BEN: Sir, it's Thursday at nine a.m., and the amendment came through last night, so Bronx County is approved for Individual Assistance.
+116. BEN: Sir, it's Thursday at nine a.m., and the amendment came through last night. Bronx County is approved for Individual Assistance.
     벤: 의원님, 목요일 오전 아홉 시입니다. 어젯밤 수정안이 나왔어요. 브롱크스 카운티, 개인 지원 승인이에요.
 
 117. DAN: Did they take all eleven forty?
@@ -380,7 +380,7 @@
 122. DAN: That's better, because that's the way it should be.
     댄: 그게 더 낫네요. 원래 그래야 하는 거예요.
 
-123. GLADYS: Congressman, the soup line is on the left and the FEMA line is on the right, and Eli's lawyers are in the middle, for the scary questions.
+123. GLADYS: Congressman, the soup line is on the left and the FEMA line is on the right. Eli's lawyers are in the middle, for the scary questions.
     글래디스: 의원님, 수프 줄은 왼쪽, 재난관리청 줄은 오른쪽이에요. 일라이 변호사들은 가운데 있어요. 무서운 질문 담당이죠.
 
 124. ELI: Everybody gets the same three things: a FEMA number, a list of documents in their language, and a phone number for us, in case of a denial letter.
@@ -404,7 +404,7 @@
 130. DAN: Of course, Ms. Feliciano.
     댄: 물론이죠, 펠리시아노 씨.
 
-131. ADA: The inspector saw the water line and asked for proof, so I gave her his church bulletin, because he was an usher for nine years and his address was on it.
+131. ADA: The inspector saw the water line and asked for proof. So I gave her his church bulletin, because he was an usher for nine years and his address was on it.
     에이다: 조사관이 물 자국을 보고 증거를 달라고 했어요. 그래서 아버지 교회 주보를 줬어요. 9년 동안 안내 봉사를 하셔서 주소가 거기 있었거든요.
 
 132. DAN: And what did she say?
@@ -419,7 +419,7 @@
 135. ADA: It doesn't bring him back, and you know that.
     에이다: 그래도 아버지가 돌아오진 않아요. 아시잖아요.
 
-136. DAN: I know. A man I met in the spring told me to fix it so the next guy doesn't need a congressman, and I'm going to try, for the next family in a basement.
+136. DAN: I know. A man I met in the spring told me to fix it so the next guy doesn't need a congressman. I'm going to try, for the next family in a basement.
     댄: 알아요. 봄에 만난 분이 다음 사람은 의원이 필요 없게 고치라고 했어요. 노력할게요. 지하에 사는 다음 가족을 위해서요.
 
 137. ADA: Then try, because my father was an usher, and he liked helping people find their seats.
@@ -446,19 +446,19 @@
 144. DAN: The beds passed, and I voted no, which everybody knows.
     댄: 침상은 통과됐어요. 난 반대했고. 다들 알잖아요.
 
-145. REBECCA: Everybody knows the beds passed, but nobody knows who got the contracts yet, because ICE awarded the first round on Tuesday, while you were counting basements.
+145. REBECCA: Everybody knows the beds passed, but nobody knows who got the contracts yet. ICE awarded the first round on Tuesday, while you were counting basements.
     레베카: 침상이 통과된 건 다 알죠. 근데 계약을 누가 땄는지는 아직 아무도 몰라요. ICE가 화요일에 1차 계약을 줬어요. 의원님이 지하 집 세고 있을 때요.
 
 146. DAN: Who got them?
     댄: 누가 땄어요?
 
-147. REBECCA: On the record, Congressman, I can't say yet, but off the record, you already know the name, because you used to be their lawyer.
+147. REBECCA: On the record, Congressman, I can't say yet. But off the record, you already know the name, because you used to be their lawyer.
     레베카: 공식적으론 아직 말 못 해요, 의원님. 비공식적으로는... 이름 이미 아시잖아요. 그 회사 변호사셨으니까.
 
 148. DAN: How many beds did they get?
     댄: 침상이 몇 개예요?
 
-149. REBECCA: That's what I want to show you on paper, on Tuesday at seven a.m. at the Bellwether, and Lorna says she'll save us the back booth.
+149. REBECCA: That's what I want to show you on paper, on Tuesday at seven a.m. at the Bellwether. Lorna says she'll save us the back booth.
     레베카: 그걸 종이로 보여 드리고 싶어요. 화요일 오전 일곱 시, 벨웨더에서요. 로나가 뒤쪽 칸막이 자리를 맡아 준대요.
 
 150. DAN: Lorna knows everybody, so Tuesday it is. And Rebecca, bring all the pages, because this week I learned that the people you can't count are the ones who matter most.
