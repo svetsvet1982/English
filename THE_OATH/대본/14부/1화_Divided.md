@@ -29,7 +29,7 @@
 005. DAN: "Divided government" is a phrase that needs some help, June, so say it in English for the people at home.
     댄: "분열 정부"는 설명이 좀 필요한 말이에요, 준. 집에 있는 분들을 위해 쉬운 말로 해 봐요.
 
-006. JUNE: Your side has the White House and half the Senate, while their side has the House, so nothing becomes law unless both sides say yes.
+006. JUNE: Your side has the White House and half the Senate, while their side has the House. So nothing becomes law unless both sides say yes.
     준: 대통령님 쪽은 백악관이랑 상원 절반을 가졌고 저쪽은 하원을 가졌어요. 그래서 양쪽이 다 찬성하지 않으면 아무것도 법이 안 돼요.
 
 007. LEILA: So that means two years of saying no.
@@ -44,7 +44,7 @@
 010. BEN: I've been saving it, sir. Look over there, because the clerk has started reading the names.
     벤: 아껴 두고 있었어요, 대통령님. 저기 보세요, 서기가 이름을 읽기 시작했어요.
 
-011. AISHA: It's two hundred twenty-three for Mabry and two hundred twelve for Vance, and not one vote was lost on either side, which is what discipline looks like.
+011. AISHA: It's two hundred twenty-three for Mabry and two hundred twelve for Vance. Not one vote was lost on either side, which is what discipline looks like.
     아이샤: 마브리 223표, 밴스 212표예요. 양쪽 다 한 표도 이탈하지 않았어요. 저게 규율이라는 거예요.
 
 012. JUNE: Look, Vance is handing him the gavel herself.
@@ -65,7 +65,7 @@
 017. DAN: Then I need to sit down with him. When does he want to meet?
     댄: 그럼 그분이랑 앉아야겠네요. 언제 만나고 싶대요?
 
-018. AISHA: His office called this morning to ask for Tuesday the eleventh at seven p.m., and he has three conditions: no cameras, no statement afterward, and no Oval Office.
+018. AISHA: His office called this morning to ask for Tuesday the eleventh at seven p.m. He has three conditions: no cameras, no statement afterward, and no Oval Office.
     아이샤: 오늘 아침에 그쪽 사무실에서 전화 와서 11일 화요일 저녁 7시를 요청했어요. 조건은 셋이에요. 카메라 금지, 끝나고 성명 금지, 그리고 오벌 오피스 금지요.
 
 019. DAN: Why wouldn't he want the Oval, when everybody who walks in here wants the Oval?
@@ -83,7 +83,7 @@
 023. DAN: Sit down, Marty, and tell me the problem. Did the pickle fail to pass security?
     댄: 앉아요, 마티. 문제가 뭔지 말해 봐요. 피클이 보안 검색에 걸렸어요?
 
-024. MARTY: The pickle is fine, but the problem is this form Ben gave me, which is forty-one pages long and wants to know every job I've had since 1974.
+024. MARTY: The pickle is fine. The problem is this form Ben gave me, which is forty-one pages long and wants to know every job I've had since 1974.
     마티: 피클은 괜찮아. 문제는 벤이 준 이 서류야. 41쪽짜리인데, 1974년 이후로 내가 한 일을 전부 알고 싶대.
 
 025. BEN: It's a financial disclosure form, sir. You asked Marty to be a senior adviser, officially this time and unpaid, and that makes him a special government employee.
@@ -92,7 +92,7 @@
 026. MARTY: Finally somebody in this town calls me special, and I've only been waiting fifty years. Now say it in English, Ben.
     마티: 드디어 이 동네에서 누가 날 특별하다고 하네, 겨우 50년 기다렸어. 이제 영어로 말해 봐, 벤.
 
-027. BEN: A special government employee works for the government a few days a year, usually for free, but the ethics rules still apply, so you have to tell us about your money and your old jobs.
+027. BEN: A special government employee works for the government a few days a year, usually for free. But the ethics rules still apply, so you have to tell us about your money and your old jobs.
     벤: 특별 공무원은 1년에 며칠만, 보통 무급으로 정부 일을 하는 사람이에요. 그래도 윤리 규정은 적용되니까 재산이랑 예전 직업을 알려 주셔야 해요.
 
 028. MARTY: My old jobs, Danny. Do you remember what I told you in the kitchen in October about those two years?
@@ -125,10 +125,10 @@
 037. HANK: We've got ninety senators, twelve former senators, and two widows of senators who still scare everybody, plus Wendell, who's pretending he isn't crying.
     행크: 상원의원 아흔 명, 전직 상원의원 열두 명, 아직도 다들 무서워하는 상원의원 미망인 두 분이 있어. 그리고 안 우는 척하는 웬델도 있고.
 
-038. DAN: Before I forget, Hank, your bill passed sixty to forty on December seventh, then the House took it a week later, and then it came to my desk.
-    댄: 잊기 전에, 행크. 네 법안이 12월 7일에 60 대 40으로 통과됐고, 일주일 뒤에 하원을 거쳐서 내 책상까지 왔지.
+038. DAN: Before I forget, Hank, your bill passed sixty to forty on December seventh. The House took it a week later, and then it came to my desk.
+    댄: 잊기 전에, 행크. 네 법안이 12월 7일에 60 대 40으로 통과됐지. 일주일 뒤에 하원을 거쳐서 내 책상까지 왔고.
 
-039. HANK: You signed it on December twenty-first with your father's pen while Andre's mother held the paper, and I still can't talk about it without going fishing first.
+039. HANK: You signed it on December twenty-first with your father's pen while Andre's mother held the paper. I still can't talk about it without going fishing first.
     행크: 12월 21일에 네가 아버지 펜으로 서명했고 앙드레 어머니가 종이를 잡았지. 아직도 낚시 먼저 안 가면 그 얘기를 못 해.
 
 040. DAN: It was five months late, but you told me that counted as on time in Montana.
@@ -161,7 +161,7 @@
 049. DAN: You asked for one true sentence about you, not a paragraph, and I remember.
     댄: 원내대표님에 관한 진실한 문장 하나, 문단 말고요. 기억하고 있어요.
 
-050. PRESCOTT: Good, because everybody else tonight is giving long, warm, mostly false paragraphs, and I want one sentence I can take home to my wife.
+050. PRESCOTT: Good. Everybody else tonight is giving long, warm, mostly false paragraphs, and I want one sentence I can take home to my wife.
     프레스콧: 좋아요. 오늘 밤 다른 사람들은 다 길고 따뜻하고 대부분 거짓인 문단을 줘요. 전 아내한테 가져갈 수 있는 문장 하나를 원해요.
 
 051. HANK: Ladies and gentlemen, the President of the United States has one sentence, and Hal says that if it's two, he gets to leave.
@@ -191,7 +191,7 @@
 059. DAN: Go ahead, because I'm listening, and my wife says I'm getting better at it.
     댄: 말씀하세요, 듣고 있어요. 아내 말로는 제가 점점 나아지고 있대요.
 
-060. PRESCOTT: Carl has a rule that he won't bring any bill to the floor unless most of his own members support it, and that means most of his side, not most of the House.
+060. PRESCOTT: Carl has a rule that he won't bring any bill to the floor unless most of his own members support it. That means most of his side, not most of the House.
     프레스콧: 칼한텐 자기 쪽 의원 대부분이 지지하지 않으면 어떤 법안도 본회의에 안 올린다는 규칙이 있어요. 하원 대부분이 아니라 자기 쪽 대부분이요.
 
 061. DAN: That's the majority of the majority, which Ben drew for me once on a whiteboard.
@@ -218,7 +218,7 @@
 068. DAN: What did they ask for, Mr. Ruffin? Please say it's not a camera.
     댄: 뭘 요청했어요, 러핀 씨? 카메라만 아니라고 해 줘요.
 
-069. RUFFIN: They asked that the coffee not be too good, sir, because the Speaker doesn't trust good coffee, so I made it the way I made it during the shutdown.
+069. RUFFIN: They asked that the coffee not be too good, sir, because the Speaker doesn't trust good coffee. So I made it the way I made it during the shutdown.
     러핀: 커피가 너무 맛있지 않게 해 달라고 하셨습니다, 대통령님. 의장님이 맛있는 커피를 안 믿으신대요. 그래서 셧다운 때 타던 방식으로 탔습니다.
 
 070. MABRY: Mr. President, I'm Carl Mabry, and I promise you nobody saw me come in.
@@ -236,10 +236,10 @@
 074. MABRY: I read everything, sir, which is my one bad habit. Let's not waste the coffee, which is terrible, and thank you for that.
     마브리: 전 뭐든 다 읽어요, 대통령님. 제 유일한 나쁜 버릇이죠. 커피 낭비하지 맙시다. 끔찍하네요, 고마워요.
 
-075. DAN: Then let me say it plain. We have two years, and you can block everything I want while I veto everything you want, or we can find one big thing.
+075. DAN: Then let me say it plain. We have two years. You can block everything I want while I veto everything you want, or we can find one big thing.
     댄: 그럼 쉽게 말할게요. 우리한텐 2년이 있어요. 의장님이 제가 원하는 걸 다 막고 제가 의장님이 원하는 걸 다 거부할 수도 있고, 아니면 큰 거 하나를 찾을 수도 있어요.
 
-076. MABRY: When you say one big thing, you mean a grand bargain, but don't say that word in public, sir, because my members hear "bargain" and check their wallets.
+076. MABRY: When you say one big thing, you mean a grand bargain. Don't say that word in public, sir, because my members hear "bargain" and check their wallets.
     마브리: 큰 거 하나라는 건 대타협을 말씀하시는 거죠. 그 말은 공개적으로 하지 마세요, 대통령님. 우리 의원들은 "바겐"이라는 말을 들으면 지갑부터 확인해요.
 
 077. DAN: In English, Mr. Speaker. What does a grand bargain mean to you?
@@ -278,7 +278,7 @@
 088. MABRY: That's what I thought you'd write, so what can you never give?
     마브리: 그렇게 쓰실 줄 알았어요. 그럼 절대 줄 수 없는 건요?
 
-089. DAN: I can never give more private detention, meaning no new beds in for-profit centers, because I spent my whole career fighting one company that ran those places.
+089. DAN: I can never give more private detention, meaning no new beds in for-profit centers. I spent my whole career fighting one company that ran those places.
     댄: 민간 구금 확대는 절대 못 줘요. 영리 시설에 침상 하나도 더는 안 돼요. 그런 곳을 운영하던 회사 하나랑 평생 싸웠거든요.
 
 090. MABRY: You mean Castellan. I sat in on your hearing in 2031, in the third row, and you were very rude to a CEO, which I enjoyed.
@@ -323,7 +323,7 @@
 103. DAN: And the farmers who vote for you need those workers.
     댄: 그리고 의장님을 찍는 농부들한텐 그 일꾼들이 필요하고요.
 
-104. MABRY: Every farmer in my district has called me about it quietly, but none of them will say it on television, because they only say it in the church parking lot.
+104. MABRY: Every farmer in my district has called me about it quietly. None of them will say it on television, because they only say it in the church parking lot.
     마브리: 제 지역구 농부들은 전부 조용히 전화했어요. 하지만 아무도 텔레비전에선 말 안 해요. 교회 주차장에서만 말하죠.
 
 105. DAN: I tried to fix that in 2034 with a dairy visa, but Section 7 said the workers could never become citizens. When I tried to take it out, I lost forty-six to fifty-four.
@@ -338,8 +338,8 @@
 108. MABRY: It was because of the rule, and now I'm the Speaker and it's my rule. I'm not going to break it, sir, and I want you to know that tonight.
     마브리: 그 규칙 때문이었어요. 이제 제가 의장이고 그건 제 규칙이에요. 전 그걸 안 깰 거예요, 대통령님. 오늘 밤 그걸 알아 두셨으면 해요.
 
-109. DAN: Then help me write a bill that a hundred and twelve of your members can vote for, and that I can still look my side in the eye about.
-    댄: 그럼 의장님 쪽 백열두 명이 찬성할 수 있으면서, 저도 우리 쪽 눈을 똑바로 볼 수 있는 법안을 같이 써 주세요.
+109. DAN: Then help me write a bill that a hundred and twelve of your members can vote for. It also has to be one I can still look my side in the eye about.
+    댄: 그럼 의장님 쪽 백열두 명이 찬성할 수 있는 법안을 같이 써 주세요. 저도 우리 쪽 눈을 똑바로 볼 수 있는 법안이어야 하고요.
 
 110. MABRY: That's two different bills, Mr. President, and that's the problem with you, because you always want the same bill to be two things.
     마브리: 그건 서로 다른 법안 두 개예요, 대통령님. 그게 대통령님 문제예요. 늘 법안 하나가 두 가지이길 바라시잖아요.
@@ -365,7 +365,7 @@
 117. DAN: So both things have to fit on the same single page.
     댄: 그러니까 두 가지가 한 쪽에 같이 들어가야 한다는 거네요.
 
-118. MABRY: They have to be on the same page, and sir, the budget too, because February eighteenth is coming and I don't want to walk anywhere at midnight again.
+118. MABRY: They have to be on the same page. And sir, the budget too, because February eighteenth is coming and I don't want to walk anywhere at midnight again.
     마브리: 같은 쪽에 있어야죠. 그리고 대통령님, 예산도요. 2월 18일이 다가오는데 또 자정에 어디로 걸어가고 싶진 않아요.
 
 119. DAN: Agreed, and that's one thing we can agree on tonight. Should I write it on a card?
