@@ -182,8 +182,8 @@
 056. HANK: Madam President, I rise to speak on the Seoul Accord, and I'll be honest with my colleagues. I didn't want to give this speech, because I wanted to vote no and go fishing.
     행크: 의장님, 서울 협정에 관해 발언하고자 일어섰습니다. 동료 여러분께 솔직히 말씀드리죠. 이 연설은 하고 싶지 않았습니다. 반대표 던지고 낚시하러 가고 싶었거든요.
 
-057. SENATORS: (laughter)
-    의원들: (웃음)
+057. SENATORS: Ha! We'd all rather go fishing, Hank, so welcome to the club!
+    의원들: 하! 우리 다 낚시 가고 싶어요, 행크. 환영합니다!
 
 058. HANK: Last year, I went on television and said the President made a bad deal, and I still think so. He knows I think so, because he let me put that on the record in December, on his own floor.
     행크: 작년에 텔레비전에 나가 대통령이 나쁜 거래를 했다고 했고, 지금도 그렇게 생각합니다. 대통령도 압니다. 12월에 자기 무대에서 제가 그걸 기록에 남기게 해 줬으니까요.
@@ -212,8 +212,8 @@
 066. HANK: She said, "If you tell them the truth every hour, they can't say they didn't know." My colleagues, that's article four of this treaty, which a ship captain wrote before the diplomats did.
     행크: 함장은 "매시간 사실을 말하면 몰랐다고 할 수 없다"고 했습니다. 동료 여러분, 그게 이 조약 4조입니다. 외교관들보다 함장이 먼저 썼죠.
 
-067. SENATORS: (murmuring)
-    의원들: (웅성거림)
+067. SENATORS: Every hour, she told them the truth? That's a remarkable captain.
+    의원들: 매시간 진실을 알렸다고요? 대단한 선장이네.
 
 068. HANK: So I want three things written down, not to kill this treaty but to make it safe. Self-defense comes first, "distress" includes weather and the captain decides, and every hundred and eighty days, two people sign a report and can be called to this floor.
     행크: 그래서 세 가지를 적어 두고 싶습니다. 조약을 죽이려는 게 아니라 안전하게 하려고요. 자위권이 먼저이고, "조난"엔 날씨가 포함되며 함장이 정하고, 180일마다 두 사람이 보고서에 서명하고 이 자리에 불려 나올 수 있어야 합니다.
@@ -242,8 +242,8 @@
 076. HANK: Last month, I took the President fishing on the Blackfoot, and he's terrible. But he learned one thing: you can't stop the river, so you mend your line while it moves.
     행크: 지난달 대통령을 블랙풋강에 낚시하러 데려갔는데, 형편없더군요. 그래도 하나는 배웠습니다. 강은 멈출 수 없으니, 흐르는 동안 줄을 고치는 거라는 걸요.
 
-077. SENATORS: (laughter)
-    의원들: (웃음)
+077. SENATORS: Ha! He must be really bad if Hank says it out loud!
+    의원들: 하! 행크가 대놓고 말할 정도면 진짜 못하나 보네!
 
 078. DAN: He said I'm terrible, on the floor of the Senate.
     댄: 나더러 형편없대. 상원 본회의장에서.
@@ -263,8 +263,8 @@
 083. HANK: Today, I'm bringing water back, so I'll vote yes with my three things. I yield the floor.
     행크: 오늘은 제가 물을 가져가겠습니다. 세 가지와 함께 찬성하겠습니다. 발언권을 넘깁니다.
 
-084. SENATORS: (applause)
-    의원들: (박수)
+084. SENATORS: Well said, Hank! That was a speech worth giving!
+    의원들: 잘 말했어요, 행크! 할 만한 연설이었어요!
 
 085. TORRES: The Senate will be in order, because applause is not permitted on the floor.
     토레스: 정숙해 주십시오. 본회의장에서는 박수가 허용되지 않습니다.
