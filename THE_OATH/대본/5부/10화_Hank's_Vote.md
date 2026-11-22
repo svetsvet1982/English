@@ -65,7 +65,7 @@
 017. CARLOS: You have a canal face, and you've had it since 2027, so tell him, Reardon.
     카를로스: 운하 표정 있어요. 2027년부터 있었어요. 말해 줘요, 레이든.
 
-018. HANK: Fine. The Two Forks bill comes up next week too, under suspension of the rules, which means it needs two-thirds instead of a majority.
+018. HANK: Fine. The Two Forks bill comes up next week too, under suspension of the rules. That means it needs two-thirds instead of a majority.
     행크: 좋아. 투 포크스 법안도 다음 주에 올라가. 규칙 정지로. 그 말은 과반이 아니라 3분의 2가 필요하다는 거야.
 
 019. DAN: Suspension is the fast lane, with forty minutes, no amendments, and two-thirds to pass.
@@ -80,7 +80,7 @@
 022. HANK: And they're mostly from your side, from cities where nobody's ever seen a siphon.
     행크: 그리고 대부분 당신네 쪽이야. 사이펀 구경도 못 해 본 도시 사람들.
 
-023. CARLOS: So there it is: you put your name on his amendment, and he gets you twenty city votes for your canal, which is a trade.
+023. CARLOS: So there it is: you put your name on his amendment, and he gets you twenty city votes for your canal. That's a trade.
     카를로스: 그러니까 그거네요. 행크는 이 사람 수정안에 이름을 올리고, 이 사람은 행크 운하에 도시 표 스무 개를 모아 주고. 그건 거래예요.
 
 024. HANK: It's not a trade.
@@ -95,7 +95,7 @@
 027. HANK: The truth is that I'd vote for your forty-eight hours anyway, and I'm signing on because you fixed Glasgow.
     행크: 사실은 말이야, 난 어차피 48시간엔 찬성했을 거야. 서명하는 건 당신이 글래스고 문제를 고쳤기 때문이고.
 
-028. DAN: And I read your canal bill, all forty-one pages, and it's good, so I'd vote for it even if you lived on Mars.
+028. DAN: And I read your canal bill, all forty-one pages, and it's good. I'd vote for it even if you lived on Mars.
     댄: 그리고 전 운하 법안 41쪽 다 읽었어요. 좋은 법안이에요. 당신이 화성에 살아도 찬성할 거예요.
 
 029. HANK: Here's my deal: if you vote against my canal, I'll still vote for your amendment. What about you?
@@ -137,7 +137,7 @@
 041. SANDOVAL: Next is amendment number eighty-eight, from Mr. Reardon of New York and Mr. Pruitt of Montana. Gentlemen, you have five minutes together, not each.
     샌도벌: 다음, 수정안 88번. 뉴욕의 레이든 의원과 몬태나의 프루잇 의원. 두 분 합쳐서 5분입니다. 각자가 아니라 합쳐서요.
 
-042. DAN: Thank you, Mr. Chairman. Congressman Pruitt and I live in the same house, and we disagree about almost everything except this: a family should know in forty-eight hours if their son died in detention.
+042. DAN: Thank you, Mr. Chairman. Congressman Pruitt and I live in the same house. We disagree about almost everything except this: a family should know in forty-eight hours if their son died in detention.
     댄: 감사합니다, 위원장님. 프루잇 의원과 저는 한집에 삽니다. 거의 모든 걸 두고 의견이 다르지만, 이건 아닙니다. 아들이 구금 중에 사망했다면 가족은 48시간 안에 알아야 합니다.
 
 043. HANK: And there should be a nurse, in the building in big places, and close enough to come in small places like Glasgow, Montana. The gentleman from New York fixed it so my sheriffs can live with it.
@@ -191,7 +191,7 @@
 059. DAN: It's a good bill, and eighteen thousand people need water.
     댄: 좋은 법안이에요. 1만 8천 명이 물이 필요해요.
 
-060. KASPER: They're eighteen thousand people in a district that will never vote for our side, and Pruitt is up next year, so he'd love a win. Why are we giving the other side a win before an election?
+060. KASPER: They're eighteen thousand people in a district that will never vote for our side. Pruitt is up next year, so he'd love a win. Why are we giving the other side a win before an election?
     캐스퍼: 우리 쪽엔 절대 투표 안 할 지역구의 1만 8천 명이죠. 프루잇은 내년 선거고, 승리가 간절해요. 왜 선거 앞두고 저쪽에 승리를 안겨 줘요?
 
 061. DAN: Because the canal's a hundred twelve years old, and thirsty people don't care who fixed it.
@@ -203,7 +203,7 @@
 063. DAN: Is that a threat?
     댄: 그거 협박이에요?
 
-064. KASPER: It's a count. I keep two lists, Reardon, of people who help me and people who make my job harder, and you just moved from one to the other. That's all, so have a good day.
+064. KASPER: It's a count. I keep two lists, Reardon, of people who help me and people who make my job harder. You just moved from one to the other. That's all, so have a good day.
     캐스퍼: 셈이에요. 난 명단 두 개를 갖고 있어요, 레이든. 날 돕는 사람, 내 일을 어렵게 하는 사람. 당신은 방금 한쪽에서 다른 쪽으로 옮겼어요. 그게 다예요. 좋은 하루 보내요.
 
 065. DAN: Two lists, so it's favors and grudges.
@@ -233,7 +233,7 @@
 073. LEILA: You were busy saying "Your Honor." So will you stop asking for canal votes?
     레일라: "재판장님" 하느라 바빴잖아요. 그래서, 운하 표 모으는 거 그만할 거예요?
 
-074. DAN: No, because I told Hank I'd ask twenty people to read it, and I've asked eleven, so there are nine to go.
+074. DAN: No. I told Hank I'd ask twenty people to read it, and I've asked eleven, so there are nine to go.
     댄: 아니요. 행크한테 스무 명한테 읽어 보라고 하겠다고 했어요. 열한 명한테 했으니까 아홉 명 남았어요.
 
 075. LEILA: Good. I hate the canal, because it's three hundred and forty million dollars for wheat, but I hate people who break small promises more.
@@ -245,7 +245,7 @@
 077. DAN: It's not a cow canal, Lou, it's a water canal that eighteen thousand people drink from. Cows too, but mostly people.
     댄: 소 운하 아니에요, 루. 1만 8천 명이 마시는 물 운하예요. 소도 마시지만 대부분 사람이에요.
 
-078. FERRARO: Staten Island had a water main break in 2027 and had no water for three days, and nobody in Montana called me, so why should I care about theirs?
+078. FERRARO: Staten Island had a water main break in 2027 and had no water for three days. Nobody in Montana called me, so why should I care about theirs?
     페라로: 스태튼아일랜드도 2027년에 수도관 터져서 사흘 동안 물이 끊겼어요. 몬태나에선 아무도 전화 안 했고요. 내가 왜 그쪽 걸 신경 써요?
 
 079. DAN: Because the next time Staten Island needs water, you'll want Hank's vote, and he'll remember today.
@@ -266,7 +266,7 @@
 084. DAN: It's two hundred eighty-nine yes and a hundred thirty-four no, so is that enough?
     댄: 찬성 289, 반대 134. 충분해요?
 
-085. BEN: Two-thirds of four hundred twenty-three is two hundred eighty-two, sir, and they have two eighty-nine, which is seven extra, so it passed.
+085. BEN: Two-thirds of four hundred twenty-three is two hundred eighty-two, sir. They have two eighty-nine, which is seven extra, so it passed.
     벤: 423의 3분의 2는 282입니다, 의원님. 289표니까 일곱 표 여유가 있어요. 통과했습니다.
 
 086. CARLOS: Hank, it passed, and your canal passed the House!
@@ -308,7 +308,7 @@
 098. JOLENE: That counts as a salad in Montana, so good night, Dan.
     졸린: 몬태나에선 그게 샐러드예요. 잘 자요, 댄.
 
-099. BEN: Sir, it's Wednesday, and amendment eighty-eight is up in twenty minutes, with five minutes for and five against, and you and Congressman Pruitt split the five.
+099. BEN: Sir, it's Wednesday, and amendment eighty-eight is up in twenty minutes. There are five minutes for and five against, and you and Congressman Pruitt split the five.
     벤: 의원님, 수요일이에요. 수정안 88번이 20분 뒤예요. 찬성 5분, 반대 5분. 의원님이랑 프루잇 의원님이 5분을 나눠 쓰세요.
 
 100. DAN: Who's speaking against it?
@@ -320,7 +320,7 @@
 102. DAN: How many from our side will vote no?
     댄: 우리 쪽에선 몇 명이 반대할까요?
 
-103. BEN: The whip isn't whipping it, but I count about twenty of ours voting no, people who care about the committee deal, so you need about twenty of theirs.
+103. BEN: The whip isn't whipping it. But I count about twenty of ours voting no, people who care about the committee deal, so you need about twenty of theirs.
     벤: 원내총무는 단속 안 해요. 그래도 위원회 합의를 신경 쓰는 우리 쪽 스무 명쯤이 반대할 걸로 봐요. 그러니까 저쪽에서 스무 명쯤 필요해요.
 
 104. HANK: I've got nine of mine, maybe ten: ranchers, a couple of sheriffs' friends, and Doris Lund's congressman, which is me.
@@ -398,11 +398,11 @@
 128. MARISELA: You have ten minutes, same as last year, and Yvonne's in the front row with her famous knees.
     마리셀라: 10분이요. 작년이랑 같아요. 이본은 맨 앞줄에 있어요. 그 유명한 무릎이랑요.
 
-129. YVONNE: Don't talk about my knees, Congressman, because my knees have their own fans now, and a woman in Ohio sent them a card.
+129. YVONNE: Don't talk about my knees, Congressman. My knees have their own fans now, and a woman in Ohio sent them a card.
     이본: 제 무릎 얘기는 하지 마세요, 의원님. 이제 무릎한테 팬이 생겼어요. 오하이오의 어떤 여자가 무릎한테 카드를 보냈다니까요.
 
-130. DAN: I won't talk about your knees, I'll talk about numbers. One year ago in this room, I promised to co-sign a bill on day one, and I did, when the bill had nineteen names.
-    댄: 무릎 얘긴 안 할게요. 숫자 얘기를 할게요. 1년 전 이 방에서 첫날 법안에 공동서명하겠다고 약속했고, 지켰어요. 그날 그 법안엔 이름이 열아홉 개였어요.
+130. DAN: I won't talk about your knees, I'll talk about numbers. One year ago in this room, I promised to co-sign a bill on day one. I did, when the bill had nineteen names.
+    댄: 무릎 얘긴 안 할게요. 숫자 얘기를 할게요. 1년 전 이 방에서 첫날 법안에 공동서명하겠다고 약속했어요. 지켰어요. 그날 그 법안엔 이름이 열아홉 개였어요.
 
 131. DAN: In March, Yvonne finished my sentence for me, and after that it had fifty. Today the Home Care Workforce Act has one hundred and twelve cosponsors, including eleven from the other side.
     댄: 3월에 이본이 제 문장을 끝내 줬고, 그 뒤로 쉰 명이 됐어요. 오늘 재가돌봄 인력법 공동발의자는 112명이에요. 반대편에서도 열한 명이요.
@@ -434,7 +434,7 @@
 140. DAN: Where did you hear that?
     댄: 그 말 어디서 들으셨어요?
 
-141. YVONNE: I heard it from your policy lady, Leila, who told Darnell, and Darnell told me, so everybody in the Bronx knows your rules now.
+141. YVONNE: I heard it from your policy lady, Leila, who told Darnell. Darnell told me, so everybody in the Bronx knows your rules now.
     이본: 의원님 정책 담당, 레일라한테요. 레일라가 대넬한테 말했고, 대넬이 저한테 말했어요. 이제 브롱크스 사람들은 다 의원님 규칙을 알아요.
 
 142. MARISELA: That was nine minutes and forty seconds, Congressman, so you're twenty seconds early.
@@ -446,7 +446,7 @@
 144. YVONNE: Your father would say you came back, which is rarer.
     이본: 아버님이라면 다시 왔다고 하셨을 거예요. 그게 더 드물죠.
 
-145. AISHA: Dan, good speech, but now, facts first: Ben just called, because he's been reading the appropriations calendar, and I need to tell you before Monday.
+145. AISHA: Dan, good speech, but now, facts first. Ben just called, because he's been reading the appropriations calendar, and I need to tell you before Monday.
     아이샤: 댄, 좋은 연설이었어요. 이제 사실 먼저요. 벤이 방금 전화했어요. 세출 일정을 읽고 있었대요. 월요일 전에 말씀드려야 해요.
 
 146. DAN: Then tell me now.
@@ -458,7 +458,7 @@
 148. DAN: And what's in the deal?
     댄: 합의에 뭐가 들었는데요?
 
-149. AISHA: Ben's still reading, but there's a line on page four hundred and twelve about ICE detention funding for forty thousand more beds, and most of them are private.
+149. AISHA: Ben's still reading, but there's a line on page four hundred and twelve about ICE detention funding. It's for forty thousand more beds, and most of them are private.
     아이샤: 벤이 아직 읽는 중이에요. 그런데 412쪽에 한 줄이 있어요. ICE 구금 예산이요. 침상 4만 개 추가, 대부분 민간이에요.
 
 150. DAN: Of course it's on page four hundred and twelve, and Dee is going to laugh until she cries.
