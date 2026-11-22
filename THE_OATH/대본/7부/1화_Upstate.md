@@ -326,14 +326,14 @@
 104. DAN: Good afternoon, my name is Dan Reardon, and I'm a congressman from Queens and the Bronx. I'm also wearing a borrowed pair of pants.
     댄: 안녕하세요, 댄 레이든입니다. 퀸즈와 브롱크스 지역 하원의원이고요. 그리고 빌린 바지를 입고 있습니다.
 
-105. AUDIENCE: [laughter]
-    청중: [웃음]
+105. AUDIENCE: Ha! Those look like my husband's pants, Congressman!
+    청중: 하! 그거 우리 남편 바지 같은데요, 의원님!
 
 106. DAN: This morning a cow named Forty-one taught me something, but I'm not going to make a speech about it, because I promised a man named Walt.
     댄: 오늘 아침 41번이라는 소가 저한테 뭘 가르쳐 줬습니다. 그런데 그걸로 연설은 안 하겠습니다. 월트라는 분한테 약속했거든요.
 
-107. AUDIENCE: [laughter] He knows Walt!
-    청중: [웃음] 월트를 아네!
+107. AUDIENCE: Ha! He knows Walt, so now he's in trouble!
+    청중: 하! 월트를 아네. 이제 큰일 났다!
 
 108. DAN: So instead of a speech, I'll ask you a question and write down your answers. Then you can tell me whether I got them right, so who wants to go first?
     댄: 그래서 연설 대신 질문을 드리고 대답을 받아 적겠습니다. 그다음에 제가 제대로 적었는지 말씀해 주세요. 누가 먼저 하실래요?
@@ -359,8 +359,8 @@
 115. LEILA: That's me.
     레일라: 저예요.
 
-116. AUDIENCE: [laughter]
-    청중: [웃음]
+116. AUDIENCE: Ha! She's been writing it all down since you walked in!
+    청중: 하! 들어오실 때부터 저분이 다 적고 있었어요!
 
 117. DAN: I'll take one more, and then I'll stop talking and eat pie, because someone told me nobody leaves a Grange hall without pie.
     댄: 하나만 더 받고 말 그만하고 파이 먹겠습니다. 그레인지 회관에선 파이 안 먹고 못 나간다고 들었거든요.
