@@ -356,8 +356,8 @@
 114. DAN: Earl Bouchard of Indian Lake gave fifteen dollars "for the moose," so thank you, Earl.
     댄: 인디언 레이크의 얼 부샤드 님, 15달러. "무스를 위해." 감사합니다, 얼.
 
-115. AUDIENCE: [comment] lol is he really reading every single name??
-    청중: [댓글] ㅋㅋ 진짜 이름 하나하나 다 읽는 거임??
+115. AUDIENCE: Is he really reading every single name out loud, one by one?
+    청중: 진짜 이름을 하나하나 다 소리 내서 읽는 거예요?
 
 116. JUNE: The comments are going crazy, asking "Is he really reading every name?" Yes, yes, he is.
     준: 댓글 난리 났어요. "진짜 이름 다 읽는 거야?" 네, 네, 진짜예요.
@@ -374,8 +374,8 @@
 120. GIL: Hello, everybody, I'm the driver, and I'm eating a muffin, so give money.
     길: 안녕하세요, 여러분. 전 기사고요, 머핀 먹는 중이에요. 돈 내세요.
 
-121. AUDIENCE: [comment] WHO IS GIL. I love Gil. Gil for Senate.
-    청중: [댓글] 길 누구임. 길 사랑해. 길을 상원으로.
+121. AUDIENCE: Who is Gil? I love Gil, and I want Gil for Senate.
+    청중: 길이 누구예요? 길 너무 좋아요. 길을 상원으로 보내요.
 
 122. JUNE: Dan, Gil is trending in Schenectady, and don't ask me why.
     준: 댄, 길이 스케넥터디에서 실시간 트렌드예요. 왜냐고 묻지 마요.
@@ -419,8 +419,8 @@
 135. MARTY: Beautiful, Manhattan waiting in line behind Yates County. I've dreamed about this for fifty years.
     마티: 아름답다. 맨해튼이 예이츠 카운티 뒤에 줄 서 있다니. 50년 동안 꿈꿔 온 장면이야.
 
-136. AUDIENCE: [comment] Who paid for this? WE did. Eleven dollars. Erie County.
-    청중: [댓글] 누가 돈 냈냐고? 우리가 냈다. 11달러. 이리 카운티.
+136. AUDIENCE: Who paid for this? We did, eleven dollars, from Erie County.
+    청중: 누가 돈 냈냐고요? 우리가 냈어요. 11달러, 이리 카운티에서요.
 
 137. JUNE: Oh, Dan, look, somebody turned it around: "Who paid for this? We did." It's everywhere now, in Buffalo, Rochester, and Ithaca.
     준: 아, 댄, 봐요. 누가 뒤집었어요. "누가 돈 냈냐고? 우리가 냈다." 지금 사방에 퍼졌어요. 버펄로, 로체스터, 이타카.
