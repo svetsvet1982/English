@@ -23,7 +23,7 @@
 003. SANDOVAL: Good, because some things here should stay the same. Now, about H.R. 2214, we write the rule tonight.
     샌도벌: 좋네요. 여기서 어떤 건 그대로여야죠. 자, H.R. 2214는 오늘 밤 규칙을 정합니다.
 
-004. LEILA: For the new staff, the rule is the set of instructions for the floor, like how long the debate lasts and which amendments get a vote. The Rules Committee writes it, and then the whole House votes on the rule first.
+004. LEILA: For the new staff, the rule is the set of instructions for the floor, like how long the debate lasts and which amendments get a vote. The Rules Committee writes it. Then the whole House votes on the rule first.
     레일라: 새 보좌진을 위해 말하면, 규칙은 본회의 지침이에요. 토론을 얼마나 할지, 어떤 수정안을 표결할지 같은 거죠. 규칙위원회가 쓰고, 하원 전체가 규칙부터 먼저 표결해요.
 
 005. BEN: And it's a structured rule, sir, which means only the amendments this committee chooses can be offered, and everything else is closed.
@@ -32,7 +32,7 @@
 006. SANDOVAL: We received forty-one amendments, and we'll make three in order, including one from Mr. Cobb, who's here. Mr. Cobb?
     샌도벌: 수정안 마흔한 건을 받았고 세 건을 상정 허용할 겁니다. 그중 하나가 여기 오신 코브 의원 거예요. 코브 의원?
 
-007. COBB: Thank you, Mr. Chairman. My amendment is two pages, and it adds a transition period, so if a facility fails two inspections and it's the biggest employer in its county, the company gets eighteen months to fix it before the contract ban starts.
+007. COBB: Thank you, Mr. Chairman. My amendment is two pages, and it adds a transition period. If a facility fails two inspections and it's the biggest employer in its county, the company gets eighteen months to fix it before the contract ban starts.
     코브: 감사합니다, 위원장님. 제 수정안은 2쪽이고 전환 기간을 넣는 겁니다. 시설이 점검에 두 번 떨어졌는데 그 카운티 최대 고용주라면, 계약 금지가 시작되기 전에 회사가 18개월 동안 고칠 수 있게 하는 거죠.
 
 008. SANDOVAL: Mr. Reardon, it's your bill, so do you oppose it?
@@ -95,7 +95,7 @@
 027. DAN: That's the list of people who make your job harder.
     댄: 당신 일을 어렵게 만드는 사람들 명단이죠.
 
-028. KASPER: Today I'm going to make your job easier, because the Speaker says leadership supports your bill, so I'm whipping it for you, but don't get used to it.
+028. KASPER: Today I'm going to make your job easier, because the Speaker says leadership supports your bill. So I'm whipping it for you, but don't get used to it.
     캐스퍼: 오늘은 네 일을 쉽게 만들어 줄 거야. 의장이 지도부가 네 법안을 지지한대. 그래서 내가 표를 모아 줄게. 익숙해지진 마.
 
 029. DAN: And why are you doing it now, after all this time?
@@ -107,7 +107,7 @@
 031. DAN: So what does the count look like right now?
     댄: 그래서 지금 표는 어떻게 보여요?
 
-032. KASPER: It's two hundred fourteen of our two nineteen, plus Cobb's Louisiana people and your Montana roommate's, so you'll pass, but I don't know by how much.
+032. KASPER: It's two hundred fourteen of our two nineteen, plus Cobb's Louisiana people and your Montana roommate's. So you'll pass, but I don't know by how much.
     캐스퍼: 우리 쪽 219명 중 214명, 거기에 코브의 루이지애나 사람들이랑 네 몬태나 룸메이트 쪽. 통과는 할 거야. 몇 표 차일지는 모르지만.
 
 033. TEAGUE: The House will be in order. Pursuant to the rule, the House will consider H.R. 2214, the Detention Accountability Act. The gentleman from New York, Mr. Reardon, and the gentleman from Indiana, Mr. Vail, each control thirty minutes.
@@ -122,25 +122,25 @@
 036. AUDIENCE: [laughter]
     방청석: [웃음]
 
-037. DAN: Madam Speaker, I'll be short. In April 2029, I put this bill in the hopper with zero cosponsors, and today it has a hundred and eighty-one from both sides of the aisle.
+037. DAN: Madam Speaker, I'll be short. In April 2029, I put this bill in the hopper with zero cosponsors. Today it has a hundred and eighty-one from both sides of the aisle.
     댄: 의장님, 짧게 하겠습니다. 2029년 4월, 저는 공동발의자 0명으로 이 법안을 투입함에 넣었습니다. 오늘은 양당에서 181명입니다.
 
 038. DAN: The bill does three things. First, when a person dies in federal detention, the family is told within forty-eight hours, not ninety days.
     댄: 이 법안은 세 가지를 합니다. 첫째, 연방 구금 중에 사람이 사망하면 가족에게 90일이 아니라 48시간 안에 알립니다.
 
-039. DAN: Second, every facility has a nurse twenty-four hours, not a nurse flown in for the inspection who arrives on Sunday and flies home on Saturday, but a nurse who stays.
+039. DAN: Second, every facility has a nurse twenty-four hours. It's not a nurse flown in for the inspection who arrives on Sunday and flies home on Saturday, but a nurse who stays.
     댄: 둘째, 모든 시설에 24시간 간호사가 있습니다. 점검 때문에 일요일에 날아왔다가 토요일에 돌아가는 간호사가 아니라, 머무는 간호사입니다.
 
-040. DAN: Third, a company that fails two inspections in a row doesn't get a new contract, which isn't punishment, because a gentleman from Montana calls it cattle math: you don't pay a fence builder a third time if the cows got out twice.
+040. DAN: Third, a company that fails two inspections in a row doesn't get a new contract. That isn't punishment. A gentleman from Montana calls it cattle math: you don't pay a fence builder a third time if the cows got out twice.
     댄: 셋째, 점검에 연속 두 번 떨어진 회사는 새 계약을 못 받습니다. 처벌이 아닙니다. 몬태나의 한 의원님은 소 셈법이라고 하시죠. 소가 두 번 빠져나갔으면 울타리 업자한테 세 번째 돈은 안 준다는 겁니다.
 
-041. DAN: Let me say it plain: this bill doesn't close a single facility, because it asks the government to keep the promises it already pays for. I reserve the balance of my time.
+041. DAN: Let me say it plain: this bill doesn't close a single facility. It asks the government to keep the promises it already pays for. I reserve the balance of my time.
     댄: 쉽게 말씀드리죠. 이 법안은 시설을 하나도 닫지 않습니다. 정부가 이미 돈을 내고 있는 약속을 지키라는 겁니다. 남은 시간은 유보하겠습니다.
 
 042. TEAGUE: The gentleman reserves, and the gentleman from Indiana is recognized.
     티그: 의원님은 시간을 유보합니다. 인디애나의 의원님 발언하십시오.
 
-043. VAIL: Madam Speaker, this bill is the product of one man's history with one company, and it will raise costs for taxpayers and threaten jobs in eleven states, so I urge my colleagues to vote no.
+043. VAIL: Madam Speaker, this bill is the product of one man's history with one company. It will raise costs for taxpayers and threaten jobs in eleven states, so I urge my colleagues to vote no.
     베일: 의장님, 이 법안은 한 사람과 한 회사의 과거가 만든 것입니다. 납세자 부담을 늘리고 11개 주의 일자리를 위협할 겁니다. 동료 의원들께 반대를 호소합니다.
 
 044. HANK: Madam Speaker, will the gentleman from New York yield me five minutes?
@@ -149,13 +149,13 @@
 045. DAN: I yield five minutes to the gentleman from Montana.
     댄: 몬태나의 의원님께 5분을 양보합니다.
 
-046. HANK: Thank you. Madam Speaker, I'm a libertarian, and I don't like government, but I like it less when it pays a company to do its job and the company doesn't do it.
+046. HANK: Thank you. Madam Speaker, I'm a libertarian, and I don't like government. But I like it less when it pays a company to do its job and the company doesn't do it.
     행크: 감사합니다. 의장님, 전 자유지상주의자라 정부를 안 좋아합니다. 근데 정부가 회사에 일을 시키고 돈을 냈는데 회사가 일을 안 할 때 더 싫어합니다.
 
-047. HANK: Mr. Vail says this is one man's history, but I've read that history, which is public, and it has a name in it, Mateo Ortiz, who was twenty-four. That's not one man's history, because it's everybody's.
-    행크: 베일 의원은 이게 한 사람의 과거라고 합니다. 근데 전 그 공개된 과거를 읽었고, 거기엔 스물네 살 마테오 오르티스라는 이름이 있습니다. 그건 한 사람의 과거가 아니라 모두의 과거입니다.
+047. HANK: Mr. Vail says this is one man's history, but I've read that history, which is public. It has a name in it, Mateo Ortiz, who was twenty-four. That's not one man's history, because it's everybody's.
+    행크: 베일 의원은 이게 한 사람의 과거라고 합니다. 근데 전 그 공개된 과거를 읽었습니다. 거기엔 스물네 살 마테오 오르티스라는 이름이 있습니다. 그건 한 사람의 과거가 아니라 모두의 과거입니다.
 
-048. HANK: And Mr. Vail says taxpayers, but I'm a taxpayer, and I don't want my money flying nurses across the country so a building can pass a test. Vote yes, because my conscience is from Montana. I yield back.
+048. HANK: And Mr. Vail says taxpayers, but I'm a taxpayer. I don't want my money flying nurses across the country so a building can pass a test. Vote yes, because my conscience is from Montana. I yield back.
     행크: 그리고 베일 의원은 납세자를 말합니다. 저도 납세자입니다. 건물 하나 시험 통과시키려고 간호사를 전국으로 날리는 데 제 돈이 쓰이는 건 싫습니다. 찬성해 주십시오. 제 양심은 몬태나 출신입니다. 시간 반납합니다.
 
 049. JUNE: Here's the gallery report: Mrs. Ortiz is in the third row over the clock, with her own water.
@@ -191,7 +191,7 @@
 059. COBB: Reardon, that's five Louisiana votes and one from Mississippi, so six, and the crawfish didn't run.
     코브: 레이든, 루이지애나 다섯 표에 미시시피 한 표, 여섯이야. 가재는 도망 안 갔어.
 
-060. BEN: Sir, for final passage, Mr. Vail asked for the yeas and nays, which is a recorded vote where every member's name goes on the board, and it takes fifteen minutes.
+060. BEN: Sir, for final passage, Mr. Vail asked for the yeas and nays. That's a recorded vote where every member's name goes on the board, and it takes fifteen minutes.
     벤: 의원님, 최종 통과 표결에 베일 의원이 기명 표결을 요청했어요. 의원 전원의 이름이 전광판에 올라가는 기록 표결이고, 15분 걸려요.
 
 061. DAN: Every name goes on the board for everyone to see.
@@ -248,7 +248,7 @@
 078. HANK: Don't hug me. Okay, hug me, but fast, because my side is watching me closely.
     행크: 안지 마. 알았어, 안아. 빨리. 우리 쪽이 예의 주시하고 있어.
 
-079. BEN: Sir, "The motion to reconsider is laid on the table" means nobody can come back tomorrow and undo the vote, so it's done, and it's real.
+079. BEN: Sir, "The motion to reconsider is laid on the table" means nobody can come back tomorrow and undo the vote. So it's done, and it's real.
     벤: 의원님, "재심의 동의는 보류합니다"는 내일 누가 와서 표결을 뒤집을 수 없다는 뜻이에요. 끝났어요. 진짜예요.
 
 080. DAN: It's real.
@@ -362,7 +362,7 @@
 116. DAN: Marty, I'm allowed to smile for one night, aren't I?
     댄: 마티, 하룻밤은 웃어도 되잖아요, 그렇죠?
 
-117. MARTY: You get one night, and it's ten-twelve, so you've used half of it. Listen, the House is easy, because two-thirds of the House is people who want to go home, but the Senate is a hundred people who are already home.
+117. MARTY: You get one night, and it's ten-twelve, so you've used half of it. Listen, the House is easy, because two-thirds of the House is people who want to go home. But the Senate is a hundred people who are already home.
     마티: 하룻밤이지. 지금 열 시 12분이니까 절반 썼어. 들어. 하원은 쉬워. 하원의 3분의 2는 집에 가고 싶은 사람들이거든. 근데 상원은 이미 집에 있는 사람 백 명이야.
 
 118. DAN: What does that mean for the bill, Marty?
@@ -404,7 +404,7 @@
 130. BEN: Senator Prescott decides, sir, and the Senate has a rule we don't, because one senator can quietly put a hold on a bill.
     벤: 프레스콧 상원의원이 정하죠, 의원님. 그리고 상원엔 우리한테 없는 규칙이 있어요. 상원의원 한 명이 조용히 법안에 보류를 걸 수 있어요.
 
-131. PRIYA: A hold means "I'll object if you try to bring this up quickly," so the leader has to spend days of floor time to get past it, and usually he doesn't bother.
+131. PRIYA: A hold means "I'll object if you try to bring this up quickly." So the leader has to spend days of floor time to get past it, and usually he doesn't bother.
     프리야: 보류는 "빨리 상정하려고 하면 반대하겠다"는 뜻이에요. 그래서 원내대표가 그걸 넘으려면 본회의 시간을 며칠 써야 하는데, 대개는 신경도 안 써요.
 
 132. DAN: How many holds does H.R. 2214 have?
@@ -422,7 +422,7 @@
 136. HANK: It's been two years and five months, and it's napping, because the Senate is where good things nap, as I've told you.
     행크: 2년 5개월째 낮잠 자는 중이지. 상원은 좋은 것들이 낮잠 자는 곳이라고 했잖아.
 
-137. AISHA: Okay, facts first: Senator Prescott's office called at seven fifty-five, and the Leader will see you tomorrow at four p.m. in his office, S-230, for fifteen minutes.
+137. AISHA: Okay, facts first: Senator Prescott's office called at seven fifty-five. The Leader will see you tomorrow at four p.m. in his office, S-230, for fifteen minutes.
     아이샤: 자, 사실 먼저. 프레스콧 상원의원실에서 일곱 시 55분에 전화 왔어요. 원내대표가 내일 오후 네 시 자기 사무실 S-230에서 15분 만나 준대요.
 
 138. DAN: He called me before I called him.
@@ -437,7 +437,7 @@
 141. DAN: He's on my side, Hank, not yours.
     댄: 그 사람은 내 쪽이에요, 행크. 당신 쪽이 아니라.
 
-142. HANK: That's why I can tell you. My side hates him for good reasons and your side loves him for bad ones, but he doesn't care about either, because he cares about one thing.
+142. HANK: That's why I can tell you. My side hates him for good reasons and your side loves him for bad ones. But he doesn't care about either, because he cares about one thing.
     행크: 그래서 말해 줄 수 있는 거야. 우리 쪽은 좋은 이유로 그 사람을 싫어하고 당신 쪽은 나쁜 이유로 좋아해. 근데 그 사람은 둘 다 신경 안 써. 딱 하나만 신경 쓰지.
 
 143. DAN: And what's that one thing?
