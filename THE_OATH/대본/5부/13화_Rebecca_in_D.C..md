@@ -377,8 +377,8 @@
 121. BEN: That was four lines, sir, and he said all four, with the last one in writing within thirty days.
     벤: 네 줄이었어요, 의원님. 네 줄 다 말하게 했어요. 마지막 건 30일 안에 서면으로.
 
-122. DAN: You wrote a perfect cross, Ben.
-    댄: 벤, 완벽한 반대신문을 썼어요.
+122. DAN: You wrote a perfect cross, Ben, and I barely had to change a word.
+    댄: 벤, 완벽한 반대신문을 썼어요. 거의 한 단어도 안 바꿨어요.
 
 123. BEN: You asked it, sir, and I just counted the lines.
     벤: 질문은 의원님이 하셨죠. 전 줄만 셌어요.
@@ -437,8 +437,8 @@
 141. HANK: Here, sit down, because it's a beach out here at fifty-two degrees. Rebecca's story has four hundred thousand readers, and your bill has three new cosponsors since lunch, because I checked.
     행크: 여기 앉아. 밖이 해변이야. 영상 11도. 레베카 기사 독자가 40만이야. 그리고 점심 이후로 당신 법안에 공동발의자 셋이 새로 붙었어. 확인했지.
 
-142. DAN: Three more makes five.
-    댄: 셋이면 다섯이네요.
+142. DAN: Three more makes five, which is more than double.
+    댄: 셋이면 다섯이네요. 두 배가 넘었어요.
 
 143. HANK: That's five out of four thirty-five, which is a start, and in Montana that's a small herd.
     행크: 435명 중 다섯. 시작이지. 몬태나에선 작은 소 떼야.
@@ -449,8 +449,8 @@
 145. ELENA: Everything's fine, and the kids are fine. I saw the hearing clip, and Zoe says you didn't say "um." But listen, I need to tell you something before Friday, before, not after.
     엘레나: 다 괜찮아. 애들도 괜찮아. 청문회 클립 봤어. 조이가 당신 "음" 한 번도 안 했대. 근데 들어 봐. 금요일 전에 말할 게 있어. 후가 아니라 전에.
 
-146. DAN: You're using my rule now.
-    댄: 이제 내 규칙을 쓰네.
+146. DAN: You're using my rule now, I see.
+    댄: 이제 내 규칙을 쓰는구나.
 
 147. ELENA: It's a good rule. A hospital in Washington, Potomac General, called me today, and they want me to run their emergency department as chief, with a bigger staff and a real budget.
     엘레나: 좋은 규칙이잖아. 오늘 워싱턴의 포토맥 종합병원에서 전화가 왔어. 응급의학과를 맡아 달래. 과장으로. 직원도 더 많고 예산도 제대로 있어.
