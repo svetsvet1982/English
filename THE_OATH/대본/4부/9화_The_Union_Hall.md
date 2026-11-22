@@ -14,7 +14,7 @@
 
 ## 대본
 
-001. STATHIS: Danny, Rose, come in the back before the meeting, because I want to show you something that nobody's touched in forty-eight years except to dust it.
+001. STATHIS: Danny, Rose, come in the back before the meeting. I want to show you something that nobody's touched in forty-eight years except to dust it.
     스타티스: 대니, 로즈, 회의 전에 뒤로 와. 보여 줄 게 있어. 48년 동안 먼지 닦는 거 말고는 아무도 손 안 댄 물건이야.
 
 002. ROSE: If it's the coffee you threw at Marty, I don't want to see it.
@@ -26,7 +26,7 @@
 004. DAN: It's an old milk crate, but wait, is that the one—?
     댄: 오래된 우유 상자네요. 잠깐, 그거 설마—?
 
-005. STATHIS: That's the milk crate from the garage on Thirty-First Street, April 1980, day nine, when your father stood on it and tore up the city's paper.
+005. STATHIS: That's the milk crate from the garage on Thirty-First Street, April 1980, day nine. Your father stood on it and tore up the city's paper.
     스타티스: 그 우유 상자야. 31번가 차고지, 1980년 4월, 9일째. 네 아버지가 그 위에 서서 시청 서류를 찢었지.
 
 006. ROSE: That's the crate, the actual crate? I thought somebody threw it away years ago.
@@ -56,7 +56,7 @@
 014. ROSE: Walsh, like the policeman, the one with the coffee?
     로즈: 월시? 그 경찰관처럼? 커피 갖고 오던?
 
-015. EDDIE: That was my father, Officer Walsh, who brought coffee to the strikers every morning during the strike, even though he wasn't supposed to, and he got a bad mark in his file for it.
+015. EDDIE: That was my father, Officer Walsh. He brought coffee to the strikers every morning during the strike, even though he wasn't supposed to. He got a bad mark in his file for it.
     에디: 저희 아버지예요. 월시 경관이요. 파업 때 매일 아침 파업 노동자들한테 커피를 갖다줬어요. 그러면 안 되는 거였는데. 그것 때문에 인사 기록에 징계가 남았어요.
 
 016. DAN: My brother told me that story, and he's a sergeant now. He said your father taught him what a cop is for.
@@ -80,19 +80,19 @@
 022. DAN: Please.
     댄: 그러세요.
 
-023. CARL: The board is eleven votes, and right now, six want Tony Russo, not because they love Tony, but because of his father.
+023. CARL: The board is eleven votes, and right now, six want Tony Russo. It's not because they love Tony, but because of his father.
     칼: 이사회는 열한 표예요. 지금은 여섯 명이 토니 루소를 원해요. 토니를 좋아해서가 아니라 아버지 때문에요.
 
 024. DAN: You mean Vinnie Russo, because Mr. Stathis told me he did your legal work for thirty years.
     댄: 비니 루소 말씀이죠. 스타티스 씨가 30년 동안 여기 법률 일을 봤다고 하셨어요.
 
-025. CARL: For thirty years, Vinnie handled every grievance we filed and every driver fired for something stupid, at half his rate, and sometimes for nothing.
+025. CARL: For thirty years, Vinnie handled every grievance we filed and every driver fired for something stupid. He did it at half his rate, and sometimes for nothing.
     칼: 30년 동안 비니가 우리가 낸 고충 처리를 전부 맡았어요. 말도 안 되는 이유로 잘린 기사들도 다요. 반값에, 가끔은 공짜로.
 
 026. AISHA: A grievance is a formal complaint a union files when it thinks the employer broke the contract. Like a lawsuit, but inside the workplace.
     아이샤: 고충 처리는 회사가 계약을 어겼다고 생각할 때 노조가 내는 공식 이의예요. 소송 같은 건데 직장 안에서 하는 거죠.
 
-027. CARL: So some of my board feel like it's a debt of honor, because Vinnie took care of us, and now we take care of his son.
+027. CARL: So some of my board feel like it's a debt of honor. Vinnie took care of us, and now we take care of his son.
     칼: 그래서 이사들 중엔 명예의 빚이라고 느끼는 사람도 있어요. 비니가 우릴 돌봤으니 이젠 우리가 그 아들을 돌봐야 한다고.
 
 028. DAN: I understand that, and my father would understand that too.
@@ -140,7 +140,7 @@
 042. EDDIE: Rank and file means regular members, the drivers, not the bosses of the union, but the people who actually drive the bus.
     에디: 평조합원은 일반 조합원이에요. 기사들이요. 노조 간부 말고 실제로 버스 모는 사람들.
 
-043. CARL: Each candidate gets five minutes and then questions from the board, with Assemblyman Russo first, because his father represented this Local for thirty years.
+043. CARL: Each candidate gets five minutes and then questions from the board. Assemblyman Russo goes first, because his father represented this Local for thirty years.
     칼: 후보마다 5분, 그다음 이사회 질문입니다. 루소 주 하원의원부터 하죠. 아버님이 30년 동안 이 지부를 대리하셨으니까요.
 
 044. MEMBER: Vinnie!
@@ -152,8 +152,8 @@
 046. AUDIENCE: Vinnie, Vinnie, we all remember you, Vinnie!
     청중: 비니! 비니! 우리 다 기억해, 비니!
 
-047. RUSSO: I'm not going to ask you to vote for me because of my father. I'm asking because for twenty-six years, every time a bus driver got assaulted, I fought for the law that made it a felony.
-    루소: 아버지 때문에 뽑아 달라는 거 아닙니다. 26년 동안 버스 기사가 폭행당할 때마다 그걸 중범죄로 만드는 법을 위해 싸웠기 때문에 부탁드리는 겁니다.
+047. RUSSO: I'm not going to ask you to vote for me because of my father. I'm asking because of the last twenty-six years. Every time a bus driver got assaulted, I fought for the law that made it a felony.
+    루소: 아버지 때문에 뽑아 달라는 거 아닙니다. 지난 26년 때문에 부탁드리는 겁니다. 버스 기사가 폭행당할 때마다 그걸 중범죄로 만드는 법을 위해 싸웠어요.
 
 048. MEMBER: That's true, he really did that for us drivers!
     조합원: 맞아! 진짜 우리 기사들 위해 그거 했어!
@@ -167,7 +167,7 @@
 051. CARL: Thank you, Tony. Mr. Reardon, you have five minutes now.
     칼: 고마워요, 토니. 레이든 씨, 이제 5분입니다.
 
-052. DAN: Thank you, Carl. Tony's right that the law is real, and it matters, and if I were a driver, I'd thank him too, so let me start by saying thank you, Tony.
+052. DAN: Thank you, Carl. Tony's right that the law is real, and it matters. If I were a driver, I'd thank him too, so let me start by saying thank you, Tony.
     댄: 고마워요, 칼. 토니 말이 맞아요. 그 법은 진짜고 중요해요. 제가 기사라면 저도 고마워했을 거예요. 그러니 고맙다는 말부터 할게요, 토니.
 
 053. RUSSO: You're welcome.
@@ -185,10 +185,10 @@
 057. STATHIS: Once was enough!
     스타티스: 한 번이면 충분했어!
 
-058. DAN: I'll tell you what I believe, and you can decide. I believe a bus driver's pension is a promise, not an investment, a promise somebody made to you when you were twenty-three.
+058. DAN: I'll tell you what I believe, and you can decide. I believe a bus driver's pension is a promise, not an investment. It's a promise somebody made to you when you were twenty-three.
     댄: 제가 믿는 걸 말씀드릴 테니 판단하세요. 버스 기사의 연금은 투자가 아니라 약속이라고 믿어요. 여러분이 스물셋일 때 누군가 한 약속이요.
 
-059. DAN: And I believe that promise shouldn't be paid for by kicking Gladys Moore out of her apartment, and that's all, because that's my five minutes, so I'll take Gloria's question now.
+059. DAN: And I believe that promise shouldn't be paid for by kicking Gladys Moore out of her apartment. That's all, because that's my five minutes, so I'll take Gloria's question now.
     댄: 그리고 그 약속을 글래디스 무어 씨를 집에서 쫓아내서 지키면 안 된다고 믿어요. 그게 다예요. 제 5분은 끝이에요. 이제 글로리아 씨 질문 받을게요.
 
 060. CARL: That was two minutes.
@@ -209,10 +209,10 @@
 065. DAN: I do, and it's called a fiduciary duty, which means you have to put their interests first.
     댄: 이해해요. 수탁 의무라고 하죠. 그분들 이익을 최우선으로 해야 한다는 거요.
 
-066. GLORIA: Then here's my question. Larchmont Fund IV promises returns of nine percent a year, while our other investments make six, and that three percent is real money, because it's my members' retirement.
+066. GLORIA: Then here's my question. Larchmont Fund IV promises returns of nine percent a year, while our other investments make six. That three percent is real money, because it's my members' retirement.
     글로리아: 그럼 질문할게요. 라치몬트 펀드 IV는 연 9퍼센트 수익을 약속해요. 다른 투자는 6퍼센트고요. 그 3퍼센트는 진짜 돈이에요. 우리 조합원들 노후예요.
 
-067. GLORIA: In October, I vote, and if I vote no, and the pension makes less money, and the city has to cut something, it's on me. So would you vote no?
+067. GLORIA: In October, I vote. If I vote no, and the pension makes less money, and the city has to cut something, it's on me. So would you vote no?
     글로리아: 10월에 제가 투표해요. 반대했는데 연금 수익이 줄어서 시가 뭔가를 깎아야 하면 그건 제 책임이에요. 그러니까, 반대표를 던지겠어요?
 
 068. AUDIENCE: ...
@@ -239,10 +239,10 @@
 075. DAN: Because I read slide nine, Fund III's plan: "Target unit turnover, twelve percent annually." Turnover means tenants leaving, twelve percent of the people every year.
     댄: 슬라이드 9쪽을 읽었거든요. 펀드 III 계획이요. "목표 세대 교체율 연 12퍼센트." 교체란 세입자가 나간다는 뜻이에요. 매년 12퍼센트씩요.
 
-076. DAN: Where does the extra three percent come from? It comes from the rent of the next tenant, who pays double, and from Gladys, who sat at forty-seven degrees until she left, or didn't.
+076. DAN: Where does the extra three percent come from? It comes from the rent of the next tenant, who pays double. It also comes from Gladys, who sat at forty-seven degrees until she left, or didn't.
     댄: 추가 3퍼센트가 어디서 나올까요? 두 배를 내는 다음 세입자 월세에서 나와요. 그리고 나가거나 버틸 때까지 8도에서 앉아 있던 글래디스 씨한테서요.
 
-077. DAN: Some of those tenants are bus drivers, and some are your mothers, and I don't think your pension should be paid by your mother's landlord turning off her heat.
+077. DAN: Some of those tenants are bus drivers, and some are your mothers. I don't think your pension should be paid by your mother's landlord turning off her heat.
     댄: 그 세입자들 중엔 버스 기사도 있고 여러분 어머니도 있어요. 여러분 연금이 어머니 집주인이 난방을 끄는 걸로 채워지면 안 된다고 생각해요.
 
 078. MEMBER: My mother lives in the Bronx, and she's rent-stabilized!
@@ -251,10 +251,10 @@
 079. DAN: Then she's exactly who I mean, sir.
     댄: 그럼 바로 그분 얘기예요, 선생님.
 
-080. GLORIA: Mr. Reardon, that's a nice speech, but I asked a legal question: can a trustee vote no for a reason like that, or isn't my duty only to the money?
+080. GLORIA: Mr. Reardon, that's a nice speech, but I asked a legal question. Can a trustee vote no for a reason like that, or isn't my duty only to the money?
     글로리아: 레이든 씨, 좋은 연설이네요. 근데 전 법적인 질문을 했어요. 이사가 그런 이유로 반대해도 되나요? 제 의무는 돈에만 있는 거 아닌가요?
 
-081. DAN: That's a fair question, and you're right to ask, so here's the honest legal answer: your duty is to the members' long-term interest, not just this year's number.
+081. DAN: That's a fair question, and you're right to ask. So here's the honest legal answer: your duty is to the members' long-term interest, not just this year's number.
     댄: 정당한 질문이에요. 물으시는 게 맞아요. 솔직한 법적 답변은 이거예요. 의무는 조합원의 장기적 이익에 있어요. 올해 숫자만이 아니라요.
 
 082. DAN: You're allowed to ask whether a fund's strategy creates risk, like lawsuits, fines, and bad headlines. Larchmont paid forty-five thousand dollars in penalties at one building last year, and that's a risk to the money too.
@@ -275,7 +275,7 @@
 087. GLORIA: Assemblyman Russo, here's the same question for you: would you vote no on Fund IV?
     글로리아: 루소 의원님, 같은 질문이에요. 펀드 IV에 반대하시겠어요?
 
-088. RUSSO: Gloria, I'd want to study it carefully, because I'm very sympathetic to the tenants, and I'm very sympathetic to the retirees. It's a hard balance, so I'd want to hear from the experts.
+088. RUSSO: Gloria, I'd want to study it carefully. I'm very sympathetic to the tenants, and I'm very sympathetic to the retirees. It's a hard balance, so I'd want to hear from the experts.
     루소: 글로리아, 신중하게 검토하고 싶어요. 세입자들에게도 깊이 공감하고 은퇴자들에게도 깊이 공감해요. 어려운 균형이죠. 전문가 의견을 듣고 싶네요.
 
 089. GLORIA: That's a no answer, Tony.
@@ -302,10 +302,10 @@
 096. STATHIS: I loved Vinnie Russo, because he got my nephew's job back in 1991, and I wore the jacket to his funeral.
     스타티스: 난 비니 루소를 사랑했어. 1991년에 내 조카 일자리를 찾아 줬지. 그 친구 장례식에 점퍼 입고 갔어.
 
-097. STATHIS: But I'll tell you what Vinnie said to me in 1980, on day nine at the garage, after John tore up the paper, when Vinnie was there as a young lawyer.
+097. STATHIS: But I'll tell you what Vinnie said to me in 1980, on day nine at the garage, after John tore up the paper. Vinnie was there as a young lawyer.
     스타티스: 근데 1980년에 비니가 나한테 한 말을 해 줄게. 9일째, 차고지에서, 존이 서류를 찢은 뒤에. 비니가 거기 있었어. 젊은 변호사였지.
 
-098. STATHIS: The paper was about the pension, because the city wanted to cut the pension for new hires, not us, but the kids who weren't hired yet, so John tore it up for people he'd never met.
+098. STATHIS: The paper was about the pension. The city wanted to cut the pension for new hires, not us, but the kids who weren't hired yet. So John tore it up for people he'd never met.
     스타티스: 그 서류는 연금에 관한 거였어. 시가 신입 연금을 깎으려고 했거든. 우리 말고, 아직 채용도 안 된 애들. 존은 만나 본 적도 없는 사람들을 위해 그걸 찢은 거야.
 
 099. STATHIS: And Vinnie said, "That man just protected the pensions of guys who aren't born yet, and that's the whole union, right there." I remember because he cried, and Vinnie cried.
@@ -314,19 +314,19 @@
 100. RUSSO: My father cried at everything, at weddings, baseball, and commercials.
     루소: 우리 아버지는 뭐에든 울었어요. 결혼식, 야구, 광고에도요.
 
-101. STATHIS: He cried at the right thing that day, Tony. So here's my question for the board: the kids who'll drive the M60 in 2040, who protects their pension, and their mother's apartment? Vinnie would ask that.
+101. STATHIS: He cried at the right thing that day, Tony. So here's my question for the board. Think of the kids who'll drive the M60 in 2040: who protects their pension, and their mother's apartment? Vinnie would ask that.
     스타티스: 그날은 제대로 된 일에 운 거야, 토니. 그러니 이사회에 묻겠어. 2040년에 M60 몰 애들, 그 애들 연금이랑 그 애들 어머니 아파트는 누가 지켜? 비니라면 그걸 물었을 거야.
 
 102. CARL: Thank you, Mr. Stathis.
     칼: 고맙습니다, 스타티스 씨.
 
-103. STATHIS: I'm not done, because there's one more thing. Danny, the milk crate's behind the curtain, and if they vote for you, you stand on it, and if they don't, you carry it to your car, but either way, it goes home with a Reardon.
+103. STATHIS: I'm not done, because there's one more thing. Danny, the milk crate's behind the curtain. If they vote for you, you stand on it, and if they don't, you carry it to your car. Either way, it goes home with a Reardon.
     스타티스: 안 끝났어. 하나 더. 대니, 우유 상자는 커튼 뒤에 있어. 너한테 투표하면 그 위에 서고, 안 하면 차까지 들고 가. 어느 쪽이든 레이든 집안 사람이 가져가는 거야.
 
 104. ROSE: Stathis, you'll make me cry in a union hall, and John would never forgive you.
     로즈: 스타티스, 노조 회관에서 나 울리겠다. 존이 절대 용서 안 할 거야.
 
-105. STATHIS: Your husband cried in this hall twice, Rose, in 1998 and 2003, and you never knew, because that's a union secret, but now it's not.
+105. STATHIS: Your husband cried in this hall twice, Rose, in 1998 and 2003. You never knew, because that's a union secret, but now it's not.
     스타티스: 네 남편도 이 회관에서 두 번 울었어, 로즈. 1998년이랑 2003년. 넌 몰랐지. 노조 비밀이었거든. 이제 아니지만.
 
 106. CARL: The board will vote now by hand, so everybody stays, and nobody throws anything.
@@ -338,16 +338,16 @@
 108. DAN: They're voting now. You're out of uniform?
     댄: 지금 투표 중이야. 제복 안 입었네?
 
-109. KEVIN: I can't wear it to political events because of department rules, so tonight I'm just a guy whose father drove a bus.
+109. KEVIN: I can't wear it to political events because of department rules. So tonight I'm just a guy whose father drove a bus.
     케빈: 정치 행사엔 못 입어. 경찰청 규정이야. 그래서 오늘 밤엔 그냥 아버지가 버스 몰았던 남자야.
 
 110. EDDIE: Sergeant Reardon, I'm Eddie Walsh, and my father was Officer Walsh, the one with the coffee.
     에디: 레이든 경사님, 에디 월시예요. 제 아버지가 월시 경관이었어요. 커피 갖다주던.
 
-111. KEVIN: Your father's the reason I wanted the job, and I'm not kidding, because my dad told me that story when I was ten.
+111. KEVIN: Your father's the reason I wanted the job, and I'm not kidding. My dad told me that story when I was ten.
     케빈: 그분 때문에 경찰이 되고 싶었어요. 농담 아니에요. 열 살 때 아버지가 그 얘길 해 주셨거든요.
 
-112. EDDIE: He got a bad mark in his file for that coffee, and he framed the bad mark, which is on my wall now.
+112. EDDIE: He got a bad mark in his file for that coffee. He framed the bad mark, and it's on my wall now.
     에디: 그 커피 때문에 징계를 받았는데, 그 징계 기록을 액자에 넣으셨어요. 지금 우리 집 벽에 있어요.
 
 113. KEVIN: Everybody in this family frames the wrong paper.
@@ -368,7 +368,7 @@
 118. CARL: It's seven to four, so Local Eighty-Eight endorses Dan Reardon for Congress. Gloria, did you vote?
     칼: 7대 4. 88지부는 댄 레이든을 하원 후보로 지지합니다. 글로리아, 투표했어요?
 
-119. GLORIA: I voted for the man who answered my question, and I'll tell you something else, Carl: in October, I'm voting no on Fund IV, in writing, with risk, not feelings.
+119. GLORIA: I voted for the man who answered my question. And I'll tell you something else, Carl: in October, I'm voting no on Fund IV, in writing, with risk, not feelings.
     글로리아: 내 질문에 대답한 사람한테 투표했어요. 그리고 하나 더 말할게요, 칼. 10월에 펀드 IV에 반대할 거예요. 서면으로. 감정 말고 위험으로.
 
 120. AUDIENCE: Gloria, Gloria, way to go, that's our Gloria!
@@ -401,7 +401,7 @@
 129. DAN: It's not as tall as I thought, because when I was a kid, I thought my father was standing on a building.
     댄: 생각보다 안 높네요. 어렸을 땐 아버지가 건물 위에 서 계신 줄 알았어요.
 
-130. DAN: Let me say it plain and thank you. My father said no to a promotion so that people he'd never meet could retire, and some of you are those people, so I'll try to be worth his no.
+130. DAN: Let me say it plain and thank you. My father said no to a promotion so that people he'd never meet could retire. Some of you are those people, so I'll try to be worth his no.
     댄: 쉽게 말할게요. 감사합니다. 제 아버지는 만나 보지도 못할 사람들이 은퇴할 수 있도록 승진을 거절했어요. 여러분 중에 그분들이 계세요. 아버지의 그 거절에 걸맞은 사람이 되도록 노력할게요.
 
 131. AUDIENCE: Say it plain, Danny, say it plain!
@@ -416,7 +416,7 @@
 134. MARTY: Is that a contribution? Aisha, is a beer a contribution?
     마티: 그거 기부야? 아이샤, 맥주도 기부야?
 
-135. AISHA: If the Local buys beer for the room, it's their own event, so it's fine, but if they buy Dan a car, call me.
+135. AISHA: If the Local buys beer for the room, it's their own event, so it's fine. But if they buy Dan a car, call me.
     아이샤: 지부가 방 전체에 맥주를 사는 건 자기들 행사니까 괜찮아요. 댄한테 차를 사 주면 저한테 전화하세요.
 
 136. KEVIN: Danny, come outside and look at that, the depot lights and the buses coming in.
@@ -455,13 +455,13 @@
 147. JUNE: And the debate is next Thursday on Metro Nine, live, with all three candidates for ninety minutes.
     준: 그리고 토론이 다음 주 목요일이에요. 메트로 나인 생방송, 후보 셋 다, 90분이요.
 
-148. MARTY: Now Leila stops being nice, because she's been third for a week, and she hates it, so she'll come at you on live TV. Debate prep starts tomorrow at seven.
+148. MARTY: Now Leila stops being nice. She's been third for a week, and she hates it, so she'll come at you on live TV. Debate prep starts tomorrow at seven.
     마티: 이제 레일라가 친절을 끊을 거야. 일주일째 3위라 싫어 죽겠거든. 생방송에서 자네한테 달려들 거야. 토론 준비는 내일 일곱 시부터야.
 
 149. ROSE: Tomorrow is Friday, and he has pizza with Sam on Friday, because that's a condition.
     로즈: 내일은 금요일이야. 금요일엔 샘이랑 피자 먹어. 그게 조건이야.
 
-150. MARTY: Then we do debate prep with pizza. Rose, I've lost arguments to governors, but I'm not losing one to you in a parking lot, so it's seven o'clock, and bring Sam.
+150. MARTY: Then we do debate prep with pizza. Rose, I've lost arguments to governors, but I'm not losing one to you in a parking lot. It's seven o'clock, and bring Sam.
     마티: 그럼 피자 먹으면서 토론 준비 하자. 로즈, 주지사들한테 말싸움 져 봤지만 주차장에서 너한텐 안 져. 일곱 시. 샘 데려와.
 
 ---
